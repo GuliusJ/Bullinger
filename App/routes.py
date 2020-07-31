@@ -1293,18 +1293,526 @@ def update_coordinates_places():
 
 
 # Processing student transcriptions
-@app.route('/api/process_transcriptions/subscriptions', methods=['GET', 'POST'])
-def add_un():
-    path = "Data/TUSTEP/7_un"
-    # Transcriptions.print_contexts(path, "<vo>")
+@app.route('/api/xyz', methods=['GET', 'POST'])
+def xyz():
+
+    with open("Data/ZB/Signaturen.txt") as fi:
+        with open("Data/ZB/Signaturen.tex", 'w') as fo:
+            for line in fi:
+                data = line.strip().split("\t")
+                data[-1] = "\\href{http://130.60.24.72/assignment/"+data[-1]+"}{"+data[-1]+"}"
+                fo.write("\t&\t".join(data) + "\\\\\n")
+
+    with open("Data/ZB/Signaturen_unkorrigiert.txt") as fi:
+        with open("Data/ZB/Signaturen_unkorrigiert.tex", 'w') as fo:
+            for line in fi:
+                data = line.strip().split("\t")
+                data[-1] = "\\href{http://130.60.24.72/assignment/"+data[-1]+"}{"+data[-1]+"}"
+                fo.write("\t&\t".join(data) + "\\\\\n")
+
     """
+    sq_file = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+    sq_auto = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
+    sq_copy_a = BullingerDB.get_most_recent_only(db.session, Kopie).subquery()
+    sq_copy_b = BullingerDB.get_most_recent_only(db.session, KopieB).subquery()
+    sq_abs = BullingerDB.get_most_recent_only(db.session, Absender).subquery()
+    sq_emp = BullingerDB.get_most_recent_only(db.session, Empfaenger).subquery()
+
+    # Absender == Bullinger
+
+    # abgeschlossen
+    bullinger_auto_abgeschlossen = db.session.query(
+        sq_auto.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_auto, sq_auto.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_auto.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "abgeschlossen")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+    bullinger_copy_I_abgeschlossen = db.session.query(
+        sq_copy_a.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_a, sq_copy_a.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_a.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "abgeschlossen")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+    bullinger_copy_II_abgeschlossen = db.session.query(
+        sq_copy_b.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_b, sq_copy_b.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_b.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "abgeschlossen")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+
+    # unklar
+    bullinger_auto_unklar = db.session.query(
+        sq_auto.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_auto, sq_auto.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_auto.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "unklar")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+    bullinger_copy_I_unklar = db.session.query(
+        sq_copy_a.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_a, sq_copy_a.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_a.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "unklar")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+    bullinger_copy_II_unklar = db.session.query(
+        sq_copy_b.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_b, sq_copy_b.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_b.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "unklar")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+    # offen
+    bullinger_auto_offen = db.session.query(
+        sq_auto.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_auto, sq_auto.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_auto.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "offen")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+    bullinger_copy_I_offen = db.session.query(
+        sq_copy_a.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_a, sq_copy_a.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_a.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "offen")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+    bullinger_copy_II_offen = db.session.query(
+        sq_copy_b.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_b, sq_copy_b.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_b.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "offen")\
+     .filter(Person.name == "Bullinger")\
+     .filter(Person.vorname == "Heinrich")
+
+
+
+
+
+    # Empfänger == Bullinger
+
+    auto_abgeschlossen = db.session.query(
+        sq_auto.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_auto, sq_auto.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_auto.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "abgeschlossen")\
+     .filter(Person.name != "Bullinger")
+
+    copy_I_abgeschlossen = db.session.query(
+        sq_copy_a.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_a, sq_copy_a.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_a.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "abgeschlossen")\
+     .filter(Person.name != "Bullinger")
+
+    copy_II_abgeschlossen = db.session.query(
+        sq_copy_b.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_b, sq_copy_b.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_b.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "abgeschlossen")\
+     .filter(Person.name != "Bullinger")
+
+
+    # unklar
+    auto_unklar = db.session.query(
+        sq_auto.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_auto, sq_auto.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_auto.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "unklar")\
+     .filter(Person.name != "Bullinger")
+
+    copy_I_unklar = db.session.query(
+        sq_copy_a.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_a, sq_copy_a.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_a.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "unklar")\
+     .filter(Person.name != "Bullinger")
+
+    copy_II_unklar = db.session.query(
+        sq_copy_b.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_b, sq_copy_b.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_b.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "unklar")\
+     .filter(Person.name != "Bullinger")
+
+    # offen
+    auto_offen = db.session.query(
+        sq_auto.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_auto, sq_auto.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_auto.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "offen")\
+     .filter(Person.name != "Bullinger")
+
+    copy_I_offen = db.session.query(
+        sq_copy_a.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_a, sq_copy_a.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_a.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "offen")\
+     .filter(Person.name != "Bullinger")
+
+    copy_II_offen = db.session.query(
+        sq_copy_b.c.signatur,
+        Person.name,
+        sq_file.c.status,
+        sq_file.c.id_brief,
+        Person.vorname
+    ).join(sq_copy_b, sq_copy_b.c.id_brief == sq_file.c.id_brief)\
+     .join(sq_abs, sq_abs.c.id_brief == sq_file.c.id_brief)\
+     .join(Person, Person.id == sq_abs.c.id_person)\
+     .filter(sq_copy_b.c.standort == "Zürich ZB")\
+     .filter(sq_file.c.status == "offen")\
+     .filter(Person.name != "Bullinger")
+
+
+
+
+    # Korrigiert
+
+    with open("Data/ZB/Signaturen.txt", 'w') as f:
+        for r in bullinger_auto_abgeschlossen: f.write(r[0] + "\t" + r[1] + ", " + r[4] + "\t" + "Autograph" + "\t" + str(r[3]) + "\n")
+        for r in bullinger_copy_I_abgeschlossen: f.write(r[0] + "\t" + r[1]+ ", " + r[4] + "\t" + "Kopie" + "\t" + str(r[3]) + "\n")
+        for r in bullinger_copy_II_abgeschlossen: f.write(r[0] + "\t" + r[1]+ ", " + r[4] + "\t" + "Kopie" + "\t" + str(r[3]) + "\n")
+        for r in auto_abgeschlossen:
+            if r[0]: f.write(r[0] + "\t" + (r[1] if r[1] else "-")+ ", " + (r[4] if r[4] else "?") + "\t" + "Autograph" + "\t" + str(r[3]) + "\n")
+        for r in copy_I_abgeschlossen:
+            if r[0]: f.write(r[0] + "\t" + (r[1] if r[1] else "-")+ ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + str(r[3]) + "\n")
+        for r in copy_II_abgeschlossen:
+            if r[0]: f.write(r[0] + "\t" + (r[1] if r[1] else "-")+ ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + str(r[3]) + "\n")
+
+    # unkorrigiert
+    with open("Data/ZB/Signaturen_unkorrigiert.txt", 'w') as f:
+        for r in bullinger_auto_unklar: f.write(r[0] + "\t" + r[1] + "\t" + "Autograph" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in bullinger_copy_I_unklar: f.write(r[0] + "\t" + r[1] + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in bullinger_copy_II_unklar: f.write(r[0] + "\t" + r[1] + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+
+        for r in bullinger_auto_offen:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Autograph" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in bullinger_copy_I_offen:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in bullinger_copy_II_offen:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+
+
+
+        for r in auto_unklar:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Autograph" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in copy_I_unklar:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in copy_II_unklar:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+
+        for r in auto_offen:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Autograph" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in copy_I_offen:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+        for r in copy_II_offen:
+            if r[0]: f.write(r[0] + "\t" + r[1] + ", " + (r[4] if r[4] else "?") + "\t" + "Kopie" + "\t" + r[2] + "\t" + str(r[3]) + "\n")
+
+
+
+    data = db.session.query(
+        sq_file.c.id_brief,
+        sq_auto.c.signatur,
+        sq_copy_a.c.signatur,
+        sq_copy_b.c.signatur,
+    ).join(sq_auto, sq_auto.c.id_brief == sq_file.c.id_brief)\
+        .join(sq_copy_a, sq_copy_a.c.id_brief == sq_file.c.id_brief)\
+        .join(sq_copy_b, sq_copy_b.c.id_brief == sq_file.c.id_brief)\
+        .filter()
+
+    for r in data:
+        print(r)
+
+    sq_a = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
+    sq_a = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
+    a0 = db.session.query(sq_a.c.standort.label("standort"))
+    sq_a = db.session.query(sq_a.c.standort.label("standort")).subquery()
+    sq_c = BullingerDB.get_most_recent_only(db.session, Kopie).subquery()
+    c0 = db.session.query(sq_c.c.standort.label("standort"))
+    sq_c = db.session.query(sq_c.c.standort.label("standort")).subquery()
+    s0 = union_all(a0, c0).alias("Standorte")
+    s = db.session.query(s0.c.standort).group_by(s0.c.standort).subquery()
+    sq_a = db.session.query(
+        sq_a.c.standort.label("standort"),
+        func.count(sq_a.c.standort).label("count")
+    ).group_by(sq_a.c.standort).subquery()
+    sq_c = db.session.query(
+        sq_c.c.standort.label("standort"),
+        func.count(sq_c.c.standort).label("count")
+    ).group_by(sq_c.c.standort).subquery()
+
+    # Status
+    file = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+    a = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
+    a = db.session.query(a.c.id_brief.label("id"), a.c.standort.label("standort"))
+    c = BullingerDB.get_most_recent_only(db.session, Kopie).subquery()
+    c = db.session.query(c.c.id_brief.label("id"), c.c.standort.label("standort"))
+    r = union_all(a, c).alias("rel")
+    # auto = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
+    qis = db.session.query(
+        r.c.id.label("id"),
+        r.c.standort.label("standort")
+    ).group_by(r.c.id, r.c.standort).subquery()
+    dat = lambda status: db.session.query(
+        qis.c.standort.label("standort"),
+        func.count().label(status + "_count")
+    ).join(file, file.c.id_brief == qis.c.id) \
+        .filter(file.c.status == status) \
+        .group_by(qis.c.standort, file.c.status).subquery()
+    abg, off, unk, ung = dat("abgeschlossen"), dat("offen"), dat("unklar"), dat("ungültig")
+
+    # all
+    data, cq = \
+        db.session.query(
+            s.c.standort,
+            sq_a.c.count,
+            sq_c.c.count,
+            off.c.offen_count,
+            unk.c.unklar_count,
+            ung.c.ungültig_count,
+            abg.c.abgeschlossen_count
+        ).outerjoin(sq_a, sq_a.c.standort == s.c.standort) \
+            .outerjoin(sq_c, sq_c.c.standort == s.c.standort) \
+            .outerjoin(off, off.c.standort == s.c.standort) \
+            .outerjoin(unk, unk.c.standort == s.c.standort) \
+            .outerjoin(ung, ung.c.standort == s.c.standort) \
+            .outerjoin(abg, abg.c.standort == s.c.standort) \
+            .order_by(desc(sq_a.c.count)), \
+        db.session.query(
+            func.count(s.c.standort),  # 0 standort
+            func.sum(sq_a.c.count),  # 1 auto
+            func.sum(sq_c.c.count),  # 2 copy
+            func.sum(off.c.offen_count),  # 3 off
+            func.sum(unk.c.unklar_count),  # 4 unkl
+            func.sum(ung.c.ungültig_count),  # 5 ung
+            func.sum(abg.c.abgeschlossen_count)  # 6 abg
+        ).outerjoin(sq_a, sq_a.c.standort == s.c.standort) \
+            .outerjoin(sq_c, sq_c.c.standort == s.c.standort) \
+            .outerjoin(off, off.c.standort == s.c.standort) \
+            .outerjoin(unk, unk.c.standort == s.c.standort) \
+            .outerjoin(ung, ung.c.standort == s.c.standort) \
+            .outerjoin(abg, abg.c.standort == s.c.standort) \
+            .order_by(desc(sq_a.c.count)).first()
+
+    c = dict()
+    c["standorte"], c["autographen"], c["kopien"], c["offen"], c["unklar"], c["ungültig"], c["abgeschlossen"] = \
+        cq[0], cq[1], cq[2], cq[3], cq[4], cq[5], cq[6]
+
+    return [[d[0],  # standort
+             d[1] if d[1] else 0,  # autographen
+             d[2] if d[2] else 0,  # kopien
+             d[3] if d[3] else 0,  # off
+             d[4] if d[4] else 0,  # unk
+             d[5] if d[5] else 0,  # ung
+             d[6] if d[6] else 0,  # abg
+             ] for d in data if d[0]], c
+    
+    # ^&x vgl. u.a. Amerbach Korr. X 525f ^&x{
+    path = "Data/TUSTEP/42"
     Transcriptions.correct_od_close_vo(path)
     Transcriptions.correct_vo_close(path)
     Transcriptions.correct_subscription_tx(path)
     Transcriptions.correct_subscription_lz(path)
     Transcriptions.correct_lz_end(path)
     Transcriptions.annotate_odtx(path)
-    """
+    Transcriptions.change_fxfe_plus(path)
     Transcriptions.eliminate_exceptional_tags(path)
+    Transcriptions.correct_un_close_eof(path)
+    Transcriptions.check_nr(path)
+    Transcriptions.correct_od_close_zh(path)
+    Transcriptions.correct_od_close_autograph(path)
+    Transcriptions.correct_od_close_zh_angular_brackets(path)
+    Transcriptions.test_bls(path)
+    Transcriptions.vo_close_orig_out(path)
+    Transcriptions.vo_close(path)
+    Transcriptions.add_od(path)
+    Transcriptions.add_od2(path)
+    Transcriptions.run_contractions(path)
+    Transcriptions.analyze_od(path)
+    Transcriptions.lift_line(path, "/ Orig. (Aut.)")
+    Transcriptions.vo_orig_stg_out(path)
+    Transcriptions.zsta1(path)
+    Transcriptions.vo_orig_out(path)
+    Transcriptions.msf_corrections(path)
+    Transcriptions.annotate_date(path)
+    Transcriptions.annotate_vo_zh(path)
+    Transcriptions.annotate_vo_orig_out(path)
+    Transcriptions.annotate_vo_st_gallen(path)
+    Transcriptions.annotate_vo_autograph(path)
+    Transcriptions.annotate_vo_kopie(path)
+    Transcriptions.add_empty_vo(path)
+    Transcriptions.correct_ddr(path)
+    Transcriptions.close_dr(path)
+    Transcriptions.add_dr_druck(path)
+    Transcriptions.add_dr_gedruckt_test(path)
+    Transcriptions.add_dr_gedruckt(path)
+    Transcriptions.add_dr_druck_test_brackts(path)
+    Transcriptions.add_dr_gedruckt_test_brackets(path)
+    Transcriptions.add_dr_teildruck_test_brackts(path)
+    Transcriptions.analyze_druck_gr(path)
+    Transcriptions.concat_druck_gr(path)
+    Transcriptions.analyze_autograph(path)
+    Transcriptions.concat_druck_end(path)
+    Transcriptions.dr_close(path)
+    Transcriptions.analyze_druck_EpCalv(path)
+    Transcriptions.add_druck_EpTig(path)
+    Transcriptions.add_druck_zurlet(path)
+    Transcriptions.analyze_druck_gr(path)
+    Transcriptions.add_dr_wotschke(path)
+    Transcriptions.add_dr_fueslin(path)
+    Transcriptions.add_dr_blatt(path)
+    Transcriptions.remaining_druck_tags(path)
+    Transcriptions.move_orig_aut(path)
+    Transcriptions.analyze_gaps(path)
+    Transcriptions.print_druck_elements(path)
+    Transcriptions.analyze_last_line_head(path, 're')
+    Transcriptions.print_missing_elements(path, 're')
+    Transcriptions.scan_for_reg(path)
+    Transcriptions.search_un(path)
+    Transcriptions.set_un_ee(path)
+    Transcriptions.add_date_test(path)
+    Transcriptions.check_schema(path)
     Transcriptions.count_all(path)
+    Transcriptions.add_missing_re(path)
+    Transcriptions.count_tx(path)
+    Transcriptions.find_fishy_tx(path)
+    Transcriptions.remove_tx(path)
+    Transcriptions.print_doubles(path)
+    Transcriptions.header_ending_hw(path)
+    Transcriptions.add_tx(path)
+    Transcriptions.insert_xml_p(path)
+    Transcriptions.clear_invalid_syntax(path)
+    Transcriptions.clear_invalid_syntax_c(path)
+    Transcriptions.clear_invalid_syntax_du(path)
+    Transcriptions.print_fishy_contexts(path, "sp", f_size=2)
+    Transcriptions.print_contexts(path, "<a>")
+    Transcriptions.tag_mapper(path)
+    Transcriptions.element_spacer_internal(path)
+    Transcriptions.rename_and_lang(path)
+    Transcriptions.un_bullingerus(path)
+    Transcriptions.un_tagger(path)
+    Transcriptions.tag_oz(path)
+    Transcriptions.un_spacer(path)
+    Transcriptions.tag_oz(path)
+    Transcriptions.tuus(path)
+    Transcriptions.adjust_adr(path)
+    Transcriptions.is_fishy(path)
+    Transcriptions.subs(path)
+    Transcriptions.is_well_formed(path)
+    Transcriptions.count_all(path)
+    """
+
     return redirect(url_for('index'))

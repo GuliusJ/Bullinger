@@ -9,3 +9,8 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#body, html").animate({ scrollTop: $("#scroll_pos").val() }, { duration: 0 });
 });
+
+$(document).ready(function() {
+    $(".map_instance").off("scroll");
+    $(".map_container").off("scroll");
+});

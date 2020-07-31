@@ -1346,7 +1346,7 @@ class BullingerDB:
             file.c.anwender,
             file.c.zeit
         ).order_by(desc(file.c.zeit))
-        return [[d[0], d[1], d[2] if d[2] == username else "(anonym)", d[3][:19]] for d in data]
+        return [[d[0], d[1], d[2] if d[2] == username else "anonymisiert", d[3][:19]] for d in data]
 
     @staticmethod
     def get_data_overview_autocopy():

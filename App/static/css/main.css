@@ -64,7 +64,14 @@ body {
     color: gray;
 }
 
-#map_instance {
-    width: 100%;
-    background-color: green;
+.map_instance {
+    overflow: visible;
+    pointer-events: none;
+    background:none !important;
+}
+
+.map_container {
+    overflow: visible;
+    pointer-events: none;
+    background:none !important;
 }
