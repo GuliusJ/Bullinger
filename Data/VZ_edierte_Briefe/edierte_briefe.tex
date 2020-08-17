@@ -1,0 +1,43 @@
+\documentclass[10pt,a4paper,landscape]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Bullinger Briefwechsel}
+\rhead{\url{http://www.bullinger-digital.ch}}
+\cfoot{Seite \thepage}
+
+\begin{document}
+
+{\LARGE \textbf{Verzeichnis der edierten Briefe}}
+
+\vspace*{0.1cm}
+Quelle: \url{https://www.irg.uzh.ch/de/bullinger-edition/b\%C3\%A4nde/briefverzeichnis.html}
+
+\vspace*{0.3cm}
+
+
+\begin{footnotesize}
+\begin{longtable}{rrp{6.3cm}p{5cm}cl}
+\toprule
+Bd. & Nr. & Absender & Empfänger & Ort & Datum\\
+\midrule
+\input{edierte_briefe_data.tex}
+\bottomrule
+\end{longtable}
+\end{footnotesize}
+
+
+\end{document}

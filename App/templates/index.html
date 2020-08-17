@@ -20,6 +20,21 @@
             </div>
             <div class="parallel intro_right">
                 <div class="intro_text">
+
+
+                    <p>Vom Zürcher Reformator <a class="text_link" href="https://de.wikipedia.org/wiki/Heinrich_Bullinger">Heinrich Bullinger</a> (1504-1575) ist ein umfangreicher Briefwechsel von rund 12'000 Briefen erhalten, wobei rund 3'000 dieser Briefe bereits ediert sind. Ziel des Projektes "Bullinger digital" ist es, die übrigen Briefe digital zu erschliessen und über das Internet zugänglich zu machen.</p>
+
+                    <p>Als Grundstein für diese Erschliessung wird eine Datenbank aufgebaut, in welcher in einem ersten Schritt zu jedem Brief die wesentlichen Meta-Daten wie Absender, Empfänger, Ort und Briefsprache erfasst werden. Diese Informationen sind auf Karteikarten vorhanden und werden nun in die Datenbank überführt. Dabei gleichen Freiwillige die automatisch übertragenen Einträge mit den Informationen auf den Karteikarten ab und korrigieren und ergänzen die Datenbank-Einträge wo nötig.</p>
+
+                    <p>Inzwischen liegt ein Grossteil der Informationen korrekt in der Datenbank vor und es lassen sich bereits erste Erkenntnisse gewinnen. So haben wir beispielsweise auf einer Landkarte visualisiert, wie weit verzweigt Bullingers Netzwerk war.</p>
+
+                    <p>Wenn Sie uns bei der Korrektur helfen, gelingt es uns noch schneller, diesen Zürcher Kulturschatzes erster Güte zu erschliessen.</p>
+
+                    <p>
+                        &#8594; <a class="text_link" href="{{url_for('quick_start')}}">Ich möchte mithelfen</a>
+                    </p>
+
+                    <!-- ALT
                     <p>
                         Der Zürcher Reformator
                         <a class="text_link" href="https://de.wikipedia.org/wiki/Heinrich_Bullinger">Heinrich Bullinger</a>
@@ -51,6 +66,7 @@
                     <p>
                         &#8594; <a class="text_link" href="{{url_for('quick_start')}}">Ich möchte mithelfen</a>
                     </p>
+                    -->
                 </div>
             </div>
             <div class="clearing"></div>
@@ -62,7 +78,7 @@
         <h2>Projektziele {% include "title_navigation.html" %}</h2>
         <div class="h2_section">
             <ul>
-                <li><span class="kw">Aktuell: Aufbau eines Karteisystems zum Bullinger-Briefwechsel</span>
+                <li><span class="kw">Aktuell: Aufbau einer Datenbank zum Bullinger-Briefwechsel</span>
                     <a class="text_link" href="https://de.wikipedia.org/wiki/Citizen_Science">(Citizen Science)</a>
                 </li>
                 <li>Ausbau der Datenbank mit allen Dokumenten aus dem Bullinger-Briefwechsel</li>
@@ -81,25 +97,29 @@
     <div class="h2_box">
         <h2>Übersichtskarte zum Briefwechsel</h2>
         <div class="h2_section">
-            <a href="{{url_for('locations_map')}}">
-                <div class="map_instance">
-                    <div class="map_container">
-                        <link rel=icon href=http://bullinger-map.raphaelm.ch/favicon.ico>
-                        <link href=https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css rel=stylesheet integrity=sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN crossorigin=anonymous>
-                        <link rel=stylesheet href=https://unpkg.com/leaflet@1.6.0/dist/leaflet.css integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="">
-                        <script src=https://unpkg.com/leaflet@1.6.0/dist/leaflet.js integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
-                        <link rel=stylesheet href=https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css>
-                        <script src=https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js></script>
-                        <link href=http://bullinger-map.raphaelm.ch/css/app.e281a08d.css rel=preload as=style>
-                        <link href=http://bullinger-map.raphaelm.ch/js/app.c68b7dd3.js rel=preload as=script>
-                        <link href=http://bullinger-map.raphaelm.ch/js/chunk-vendors.2525211d.js rel=preload as=script>
-                        <link href=http://bullinger-map.raphaelm.ch/css/app.e281a08d.css rel=stylesheet>
-                        <noscript><strong>We're sorry but map-vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript>
-                        <div id=app></div><script src=http://bullinger-map.raphaelm.ch/js/chunk-vendors.2525211d.js></script>
-                        <script src=http://bullinger-map.raphaelm.ch/js/app.c68b7dd3.js></script>
+            <p>Visualisierung des Korrespondenznetzwerks von Heinrich Bullinger. Angezeigt wird die Anzahl Briefe, die von einem Ort verschickt oder an diesen geschickt wurden. Die Anzeige wird durch Anklicken immer spezifischer, schliesslich gelangen Sie zu den Datenbank-Einträgen von Briefen, die mit dem jeweiligen Ort verknüpft sind.</p>
+            <p></p>
+            <div class="h2_section">
+                <a href="{{url_for('locations_map')}}">
+                    <div class="map_instance">
+                        <div class="map_container">
+                            <link rel=icon href=http://bullinger-map.raphaelm.ch/favicon.ico>
+                            <link href=https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css rel=stylesheet integrity=sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN crossorigin=anonymous>
+                            <link rel=stylesheet href=https://unpkg.com/leaflet@1.6.0/dist/leaflet.css integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="">
+                            <script src=https://unpkg.com/leaflet@1.6.0/dist/leaflet.js integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+                            <link rel=stylesheet href=https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css>
+                            <script src=https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js></script>
+                            <link href=http://bullinger-map.raphaelm.ch/css/app.e281a08d.css rel=preload as=style>
+                            <link href=http://bullinger-map.raphaelm.ch/js/app.c68b7dd3.js rel=preload as=script>
+                            <link href=http://bullinger-map.raphaelm.ch/js/chunk-vendors.2525211d.js rel=preload as=script>
+                            <link href=http://bullinger-map.raphaelm.ch/css/app.e281a08d.css rel=stylesheet>
+                            <noscript><strong>We're sorry but map-vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript>
+                            <div id=app></div><script src=http://bullinger-map.raphaelm.ch/js/chunk-vendors.2525211d.js></script>
+                            <script src=http://bullinger-map.raphaelm.ch/js/app.c68b7dd3.js></script>
+                        </div>
                     </div>
-                </div>
-            </a>
+                </a>
+            </div>
         </div>
     </div>
     <div class="h2_separator"></div>
@@ -113,6 +133,10 @@
                 Rund 3000 Briefe sind schon transkribiert und ediert, und können online durchsucht werden.
                 Das Suchsystem für die bisher edierten <span class="kw">Briefe</span> finden Sie
                 <a class="text_link" href="http://teoirgsed.uzh.ch/">hier</a>.
+            </p>
+            <p>
+                Ausführlichere Informationen zur Korrekturkampagne finden Sie hier
+                <a href="{{ url_for('send_file_correction_campaign') }}">hier</a>.
             </p>
             <div class="textblock">
                 <p><span class="kw">Berichterstattungen</span></p>
@@ -205,6 +229,10 @@
                     </li>
                     -->
                     <li>
+                        <a href="mailto:peter.opitz@uzh.ch">Prof. Dr. Peter Opitz</a>
+                        (Institutsleiter und Lehrstuhlinhaber)
+                    </li>
+                    <li>
                         <a href="mailto:steiniger@theol.uzh.ch">Dr. phil. Judith Steiniger</a>
                         (Wissenschaftliche Mitarbeiterin)
                     </li>
@@ -213,8 +241,8 @@
             <div class="textblock">
                 <p>
                     Bei inhaltlichen Fragen oder Unklarheiten beim Kontrollieren der Datenbank-Einträge
-                    kontaktieren Sie bitte die
-                    <a href="mailto:bullinger-digital@protonmail.com">Projektkoordination</a>,
+                    kontaktieren Sie bitte unsere
+                    <a href="mailto:bullinger-digital@protonmail.com">Projektkoordinatorin</a>,
                     bei technischen Fragen zum Korrektur-System den
                     <a href="mailto:bernard.schroffenegger@uzh.ch">Admin</a>.
                     <!--

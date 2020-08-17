@@ -7,8 +7,1113 @@
 import os, re
 from xml.etree import ElementTree as ET
 from Tools.Langid import Langid
+from Tools.XMLAnalyzer import XMLTagCtr
+from Tools.XMLAnalyzer import XMLAttrCtr
+from Tools.XMLAnalyzer import XMLValCtr
+from Tools.XMLAnalyzer import lxml_etree_attr_count
+from Tools.XMLAnalyzer import xml_sax_attr_count
+
+from lxml import etree, objectify
+
 
 class Transcriptions:
+
+    @staticmethod
+    def rename_elements(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<)brief([^>]*)jahr(=.*)', s, re.DOTALL)
+                if m: s = m.group(1)+"letter"+m.group(2)+"year"+m.group(3)
+                s = s.replace('<brief>', '<letter>').replace('</brief>', '</letter>')
+                s = s.replace('<ae>', '<correspondents>').replace('</ae>', '</correspondents>')
+                s = s.replace('<abs>', '<originator>')
+                s = s.replace('<abs status="erschlossen">', '<originator state="developed">')
+                s = s.replace('<abs status="unsicher erschlossen">', '<originator state="guess">')
+                s = s.replace('</abs>', '</originator>')
+                s = s.replace('<emp>', '<addressee>').replace('</emp>', '</addressee>')
+                s = s.replace('<emp status="erschlossen>', '<addressee state="developed">').replace('</emp>', '</addressee>')
+                s = s.replace('<emp status="unsicher erschlossen">', '<addressee state="guess>').replace('</emp>', '</addressee>')
+                s = s.replace('<hw>', '<note>').replace('</hw>', '</note>')
+                s = s.replace('<od>', '<space_time>').replace('</od>', '</space_time>')
+                s = s.replace('<vo>', '<record>').replace('</vo>', '</record>')
+                s = s.replace('<dr>', '<print>').replace('</dr>', '</print>')
+                s = s.replace('<re>', '<statue>').replace('</re>', '</statue>')
+                s = s.replace('<text>', '<content>').replace('</text>', '</content>')
+                s = s.replace('<d>', '<date>').replace('</d>', '</date>')
+                s = s.replace('<ort>', '<place>').replace('</ort>', '</place>')
+                s = s.replace('<datum>', '<date>').replace('</datum>', '</date>')
+                s = s.replace('<spr>', '<lang lang="hbr">').replace('</spr>', '</lang>')
+                s = s.replace('<gr>', '<lang lang="gr">').replace('</gr>', '</lang>')
+                s = s.replace('<un>', '<signature>').replace('</un>', '</signature>')
+                s = s.replace('<oz>', '<timestamp>').replace('</oz>', '</timestamp>')
+                s = s.replace('<adr>', '<address>').replace('</adr>', '</address>')
+                s = s.replace('<addressee state="guess""', '<addressee state="guess"')
+                with open(p, 'w') as f: f.write(s)
+
+    @staticmethod
+    def validate_schema(path):
+        valid, errors = 0, 0
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                try:
+                    p = path + "/" + fn
+                    p_schema = "Data/Transkriptionen/schema.xsd"
+                    tree = etree.parse(p)
+                    schema = etree.XMLSchema(file=p_schema)
+                    schema.assertValid(tree)
+                    valid += 1
+                except:
+                    errors += 1
+                    print("***ERROR", p)
+        """
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*(<(abs|emp) status=.*)\n.*)', s, re.DOTALL)
+                if m:
+                    print(fn, "fn")
+        """
+
+        print("Valid:", valid)
+        print("Error:", errors)
+
+    @staticmethod
+    def move_hw_elements(path):
+        c = 0
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<brief[^\n]*\n)(<hw>[^\n]*</hw>\n)(.*/re>\n)(<text>.*)', s, re.DOTALL)
+                if m:
+                    new = m.group(1)+m.group(3)+m.group(2)+m.group(4)
+                    with open(p, 'w') as f: f.write(new)
+                    print(fn, "changed")
+
+    @staticmethod
+    def move_oz_elements(path):
+        c = 0
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*)(<oz>.*</oz>)\n<text>(.*)', s, re.DOTALL)
+                if m:
+                    new = m.group(1)+"<text>\n"+m.group(2)+m.group(3)
+                    with open(p, 'w') as f: f.write(new)
+                    print(fn, "changed")
+
+    @staticmethod
+    def change_adr(path):
+        c = 0
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*)\(P\s*\.\s*S\.\s*\)\s*([^<]*)(<.*)', s, re.DOTALL)
+                if m:
+                    c += 1
+                    new = m.group(2)
+                    new = re.sub(r'\s+', ' ', new).strip()
+                    #print(fn, new)
+                    #"""
+                    new = m.group(1).strip()+"\n<ps>"+m.group(2).strip()+"\n</ps>\n"+m.group(3)
+                    with open(p, 'w') as f: f.write(new)
+                    print(fn, "changed")
+                    #"""
+        print(c)
+
+    @staticmethod
+    def change_adrX(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*\n)\s*\^?\$?([^\d\s]+\s*[^\d\s\.\,]*)\.?\,?\s*(\d{1,2}\.\s[^\s]+\s*[^\s]*\s*\d+)\s*\.?\s*(\n.*)', s, re.DOTALL)
+                if m:
+                    #print(fn, m.group(1)[-30:]+m.group(2)+m.group(3)[:30])
+                    #print(fn, m.group(2))
+                    new = m.group(2).strip().strip(',').strip()+", "+m.group(3)
+                    #print(fn, m.group(1)[-20:], new)
+                    #"""
+                    new = m.group(1)+"<oz>"+new+"</oz>"+m.group(4)
+                    with open(p, 'w') as f: f.write(new)
+                    print(fn, "changed")
+                    #"""
+
+    """
+    @staticmethod
+    def change_adr(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*\n)\s*(\[[Datum\.]*,?\s*[authentische Unterschrift\.]*\s*[und\.]*\s*[Adresse\.]*\s*[fehlen\.]+\])\s*(\n.*)', s, re.DOTALL)
+                if m:
+                    print(fn, m.group(1)[-30:]+m.group(2)+m.group(3)[:30])
+                    <oz></oz>\n
+                    new = m.group(1)+"<un></un>\n<adr></adr>"+m.group(3)
+                    with open(p, 'w') as f: f.write(new)
+                    print(fn, "changed")
+    """
+
+    @staticmethod
+    def change_date2(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<datum>)([^<]*)(</datum>.*)', s, re.DOTALL)
+                if m and m.group(2):
+                    new = re.sub(r'\s+', ' ', m.group(2)).strip()
+                    new = new.rstrip('.').replace('.)', ')').replace('.]', ']')
+                    mn = re.match(r'[\.\s]*(.*)', new)
+                    if mn: new = mn.group(1)
+                    new = Transcriptions.bracer(new)
+                    out = m.group(1)+new+m.group(3)
+                    print(fn, new)
+                    #with open(p, 'w') as f: f.write(out)
+                    #if not re.match(r'\[?\d*\.?\]?\s*\[?\w+\]?\s*\[?\d+\]?', new):
+                    #    print(fn, new)
+
+
+    @staticmethod
+    def change_date(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<datum>)([^<]*)(</datum>.*)', s, re.DOTALL)
+                if m and m.group(2):
+                    new = re.sub(r'\s+', ' ', m.group(2)).strip()
+                    new = new.rstrip('.').replace('.)', ')').replace('.]', ']')
+                    mn = re.match(r'[\.\s]*(.*)', new)
+                    if mn: new = mn.group(1)
+                    new = Transcriptions.bracer(new)
+                    out = m.group(1)+new+m.group(3)
+                    with open(p, 'w') as f: f.write(out)
+                    print(fn, "changed")
+
+    @staticmethod
+    def change_person_and(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs>)([^<]*)(</abs>.*)', s, re.DOTALL)
+                if m and " und " in m.group(2):
+                    n = m.group(2).split(" und ")
+                    new = m.group(1)+n[0]+"</abs>\n\t<abs>"+n[1]+m.group(3)
+                    with open(p, 'w') as f: f.write(new)
+                    print(fn, "changed")
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<emp>)([^<]*)(</emp>.*)', s, re.DOTALL)
+                if m and " und " in m.group(2):
+                    n = m.group(2).split(" und ")
+                    new = m.group(1)+n[0]+"</emp>\n\t<emp>"+n[1]+m.group(3)
+                    with open(p, 'w') as f: f.write(new)
+                    print(fn, m.group(2))
+
+    @staticmethod
+    def analyze_person_and(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs>)(.*)(</abs>.*)', s, re.DOTALL)
+                if m and " und " in m.group(2): print(fn, m.group(2))
+                m = re.match(r'(.*<emp>)(.*)(</emp>.*)', s, re.DOTALL)
+                if m and " und " in m.group(2): print(fn, m.group(2))
+
+    @staticmethod
+    def analyze_commata(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs>)(.*)(</abs>.*)', s, re.DOTALL)
+                if m and "," in m.group(2): print(fn, m.group(2))
+                m = re.match(r'(.*<emp>)(.*)(</emp>.*)', s, re.DOTALL)
+                if m and "," in m.group(2): print(fn, m.group(2))
+
+    @staticmethod
+    def search_name(path, name):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs>).*'+name+'.*(</abs>.*)', s, re.DOTALL)
+                if m: print(fn)
+                m = re.match(r'(.*<emp>).*'+name+'.*(</emp>.*)', s, re.DOTALL)
+                if m: print(fn)
+
+    @staticmethod
+    def process_braces_person(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs)>\[(.*)\?\](</abs>.*)', s, re.DOTALL)
+                if m:
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + " status=\"unsicher erschlossen\">" + m.group(2)+m.group(3))
+                        print(fn, "changed")
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<emp)>\[(.*)\?\](</emp>.*)', s, re.DOTALL)
+                if m:
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + " status=\"unsicher erschlossen\">" + m.group(2)+m.group(3))
+                        print(fn, "changed")
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs)>\[(.*)\](</abs>.*)', s, re.DOTALL)
+                if m:
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + " status=\"unsicher erschlossen\">" + m.group(2)+m.group(3))
+                        print(fn, "changed")
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<emp)>\[(.*)\](</emp>.*)', s, re.DOTALL)
+                if m:
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + " status=\"unsicher erschlossen\">" + m.group(2)+m.group(3))
+                        print(fn, "changed")
+
+    @staticmethod
+    def correct_persons_4(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs>)\s*(.*)\s*(</abs>.*)', s, re.DOTALL)
+                if m:
+                    new = Transcriptions.correct_name2(m.group(2))
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + new + m.group(3))
+                        print(fn, m.group(2), "-->", new)
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<emp>)\s*(.*)\s*(</emp>.*)', s, re.DOTALL)
+                if m:
+                    new = Transcriptions.correct_name2(m.group(2))
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + new + m.group(3))
+                        print(fn, m.group(2), "-->", new)
+
+    @staticmethod
+    def correct_name2(name):
+        new = name.replace('\.', '.')
+        for t in [('seinen Sohn Heinrich', 'Bullinger (d.J)'),
+                    ('[Hans Jakob Adlischwyler]*', '[Johannes (=Hans) Jakob Adlischwyler (Adlischwiler, Adelschwiler)]'),
+                    ('[vielleicht Rudolf Gwalther d.J]', '[Rudolf Gwalther d.J?]'),
+                    ('die Zürcher und Genfer Prediger', 'die Prediger von Zürich/Genf'),
+                    ('die Zürcher Prediger', 'die Prediger von Zürich'),
+                    ('die Zürcher Pfarrer', 'die Pfarrer von Zürich'),
+                    ('die Zürcher Geistlichen', 'die Geistlichen von Zürich'),
+                    ('die Genfer Prediger', 'die Prediger von Genf'),
+                    ('die Berner Schulherren', 'die Schulherren von Bern'),
+                  ('Die Locarner Kirche', 'die Locarner Kirche'),
+                  ('Die St. Galler Prediger', 'die Prediger von St. Gallen'),
+                  ('Die Kleinpolen an die Zürcher (Andreas Prazmowski, auch im Namen von Christoph Thretius und Pavel Gilowski)', 'die Kleinpolen an die Zürcher (Andreas Prazmowski, auch im Namen von Christoph Thretius und Pavel Gilowski)'),
+                    ('den Rat von Genf', 'der Rat von Genf'),
+                    ('d. Examinatoren in Zürich', 'die Examinatoren von Zürich'),
+                    ('[Rat von Bern?]', '[der Rat von Bern?]'),
+                    ('[Hans Wellenberg (Vogt von Rheinau)]', ''),
+                    ('[Bullinger[?]]', '[Bullinger?]'),
+                    ('die Züricher', 'die Zürcher'),
+                    ('die Schulherren von Zürch', ''),
+                    ('Wolfgang Wissenburg', 'Wolfgang Wissenburg [=Wißenburg]'),
+                    ('Wolfgang Haller [W.Haller aus Zürich]', 'Wolfgang Haller [Zürich]'),
+                    ('Wihelm von Bernhausen [Vogt zu Güttingen]', 'Wilhelm von Bernhausen [Vogt zu Güttingen]'),
+                    ('Wenzeslaus Ostrorog', 'Wenzeslaus Ostroróg'),
+                    ('Zürcher Prediger', 'die Prediger von Zürich'),
+                    ('Zürcher Pfarrer', 'die Pfarrer von Zürich'),
+                    ('Wolfgang Wißenburg', 'Wolfgang Wissenburg [=Wißenburg]'),
+                    ('Wilhelm Grataroli', 'Wilhelm Grataroli [=Gratarolus]'),
+                    ('Wilhelm Gratarolus', 'Wilhelm Grataroli [=Gratarolus]'),
+                    ('Wigand Happel', 'Wigand Happel [=Happelius]'),
+                    ('Wigand Happelius', 'Wigand Happel [=Happelius]'),
+                    ('Valentin Paceus', 'Valentin [=Valentinus] Paceus'),
+                    ('Valentinus Paceus', 'Valentin [=Valentinus] Paceus'),
+                    ('Ulysses Martinengus', 'Ulysses [=Ulisses, Ulisse] Martinengus [=Martinengo]'),
+                    ('Ulisses Martinengus', 'Ulysses [=Ulisses, Ulisse] Martinengus [=Martinengo]'),
+                    ('Ulisse Martinengo', 'Ulysses [=Ulisses, Ulisse] Martinengus [=Martinengo]'),
+                    ('[Egli?]', '[Tobias Egli?]'),
+                  ('Taddeo Duno', 'Taddeo [=Thaddaeus] Duno [=Dunus]'),
+                  ('Thaddaeus Dunus', 'Thaddaeus Dunus'),
+                    ('Thomas Kirchmayer (Naogeorgus)', 'Thomas Kirchmayer [=Kirchmair/Naogeorgus]'),
+                    ('Thomas Naogeorgus', 'Thomas Kirchmayer [=Kirchmair/Naogeorgus]'),
+                    ('Thomas Naogeorgus (Kirchmair)', 'Thomas Kirchmayer [=Kirchmair/Naogeorgus]'),
+                    ('Thomas Naogeorgus (Kirchmeyer)', 'Thomas Kirchmayer [=Kirchmair/Naogeorgus]'),
+                    ('Thomas Sampson', 'Thomas Sampson [=Sampsonus]'),
+                    ('Thomas Sampsonus', 'Thomas Sampson [=Sampsonus]'),
+                    ('SyndicsundRat von Genf', 'Syndics und Rat von Genf'),
+                    ('Simprecht Vogt, Sebastian GrübelundJakob Rüeger', 'Simprecht Vogt, Sebastian Grübel und Jakob Rüeger'),
+                    ('Simon Zacius [Zak]', 'Simon Zacius [=Zak]'),
+                    ('Sebastian Schertlin', 'Sebastian Schertlin [=Schärtlin]'),
+                    ('Sebastian Schärtlin', 'Sebastian Schertlin [=Schärtlin]'),
+                    ('[Aubespine oder Du Fraisse]', '[Sebastien de l\'Aubespine oder duu Fraisse?'),
+                    ('Sebastian de l\'Aubespine', 'Sebastien de l\'Aubespine'),
+                    ('Sebastien de l\'Aubespine sieur de Bassefontaine', 'Sebastien de l\'Aubespine'),
+                    ('Sébastien de L\'Aubespine', 'Sebastien de l\'Aubespine'),
+                  ('Robert Horn', 'Robert Horn [=Horne]'),
+                  ('Robert Horne', 'Robert Horn [=Horne]'),
+                  ('Robert Horn und Richard Chambers', 'Robert Horn [=Horne] und Richard Chambers'),
+                  ('Robert Horn / (Horne Bischof von Winchester)', 'Robert Horn [=Horne] und Bischof von Winchester'),
+                    ('Pomponne de Bellièvre', 'Pomponne [=Pomponius] de Bellièvre'),
+                    ('Pomponius de Bellièvre', 'Pomponne [=Pomponius] de Bellièvre'),
+                    ('Pier Paolo Vergerio', 'Pier Paolo Vergerio [=Vergerius]'),
+                    ('Pier Paolo Vergerius', 'Pier Paolo Vergerio [=Vergerius]'),
+                  ('Philipp Gallicius und Johannes Fabricius', 'Philipp [=Philippus] Gallicius und Johannes Fabricius'),
+                  ('Pilippus Gallicius', 'Philipp [=Philippus] Gallicius'),
+                    ('Philippus Gallicius', 'Philipp [=Philippus] Gallicius'),
+                    ('Philipp Gallicus', 'Philipp [=Philippus] Gallicius'),
+                    ('Philipp Gallicius', 'Philipp [=Philippus] Gallicius'),
+                    ('Pier Paolo Vergerius', 'Pier [=Petrus/Petro] Paolo [=Paulus/Paullo) Vergerio [=Vergerius]'),
+                    ('Pier Paolo Vergerio', 'Pier [=Petrus/Petro] Paolo [=Paulus/Paullo) Vergerio [=Vergerius]'),
+                    ('Petrus Paulus Vergerius [D. Petro Paullo Vergerio]', 'Pier [=Petrus/Petro] Paolo [=Paulus/Paullo) Vergerio [=Vergerius]'),
+                    ('Petrus Paulus Vergerius', 'Pier [=Petrus/Petro] Paolo [=Paulus/Paullo) Vergerio [=Vergerius]'),
+                    ('Petrus Martyr, Vermigli', 'Petrus [=Peter] Martyr Vermigli'),
+                    ('Petrus Martyr', 'Petrus [=Peter] Martyr [Vermigli]'),
+                    ('Peter Martyr Vermigli', 'Petrus [=Peter] Martyr [Vermigli]'),
+                  ('Petrus [=Peter] Martyr [Vermigli]', 'Petrus [=Peter] Martyr Vermigli'),
+                  ('Petrus Martyr Vermigli', 'Petrus [=Peter] Martyr Vermigli'),
+                  ('Petrus Martyr, Bullinger und Bernardino Occhino', 'Petrus [=Peter] Martyr Vermigli, Bullinger und Bernardino Occhino'),
+                  ('Petrus Martyr Vermigli und Bullinger', 'Petrus [=Peter] Martyr Vermigli und Bullinger'),
+                  ('Nicolas Des Gallars', 'Nicolas des Gallars'),
+                  ('Nicolas de la Croix', 'Nicolas de la Croix [=Crois, Cruxceus]'),
+                  ('Nicolas de la Croix (Crois; Cruxceus)', 'Nicolas de la Croix [=Crois, Cruxceus]'),
+                    ('Nikolaus Radziwillll', 'Nikolaus Radziwill'),
+                    ('Nikolaus Radziwilll', 'Nikolaus Radziwill'),
+                    ('Matthieu Coignet [Vater]', 'Matthieu [=Mathieu] Coignet'),
+                    ('Matthieu Coignet d.Ä', 'Matthieu [=Mathieu] Coignet'),
+                    ('Mathieu Coignet', 'Matthieu [=Mathieu] Coignet'),
+                    ('[Matthieu Coignet]', '[Matthieu [=Mathieu] Coignet]'),
+                    ('[Mathieu Coignet]', '[Matthieu [=Mathieu] Coignet]'),
+                    ('Matthieu Coignet d.J', 'Matthieu [=Mathieu] Coignet d.J'),
+                    ('Mathieu Coignet d.J', 'Matthieu [=Mathieu] Coignet d.J'),
+                    ('Martin Micronius [?]', 'Martin Micronius'),
+                    ('Kirchen von Lausanne, Genf und Neuenburg', 'die Kirchen von Lausanne/Genf/Neuenburg'),
+                    ('Josua Keßler', 'Josua Kessler'),
+                    ('John Jevel', 'John Jewel'),
+                    ('John Hopper', 'John Hooper'),
+                    ('Joh.v. Salis (Samaden)', 'Johann von Salis (Samaden)'),
+                    ('Johannes Lasicius (Jan Lasicki)', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Johannes Lasicius [Lasicki]', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Johannes Lasicki', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Johannes Lasitius (Jan Lasicki)', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Johannes Lasitius (Lasicki)', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Johannes Lasitius [Jan Lasicki]', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Jan Lasicki', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Jan Lusinski', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                    ('Johann Abel', 'Johann [=John] Abel'),
+                    ('John Abel', 'Johann [=John] Abel'),
+                    ('John Fox', 'John Foxe'),
+                    ('Johannes Hugo', 'Johannes Hug'),
+                  ('Jacques Le Vasseur, seigneur de Cougnée', 'Jacques le Vasseur, seigneur de Cougnée'),
+                  ('Johann Bechel/Bechlin', 'Johannes [=Johann] Bechel [=Bechlin]'),
+                  ('Johannes Bechlin', 'Johannes [=Johann] Bechel [=Bechlin]'),
+                    ('Johannes Birchmann', 'Johannes Birckmann'),
+                    ('Johannes Birchman', 'Johannes Birckmann'),
+                    ('Johannes Funk', 'Johannes Funck'),
+                  ('Johannes Steiger', 'Johannes [=Johann, Hans] Steiger'),
+                  ('Johann Steiger', 'Johannes [=Johann, Hans] Steiger'),
+                  ('Hans Steiger', 'Johannes [=Johann, Hans] Steiger'),
+                  ('Johann Leopold Frei', 'Johann Leopold Frei [=Frey]'),
+                  ('Johann Leopold Frey', 'Johann Leopold Frei [=Frey]'),
+                    ('Johannes Acronius', 'Johannes Acronius Frisius'),
+                    ('Johann Philipp von Hohen Sax', 'Johann Philipp von Hohensax [=Sax]'),
+                    ('Johann Konrad von Ulm', 'Johann Konrad Ulmer'),
+                    ('Joh.v. Salis [Samaden]', 'Johann von Salis [Samaden]'),
+                    ('Jeremias Mylius (Mysius)', 'Jeremias Mylius [=Mysius]'),
+                  ('Jeremias Mylius [Mysius]', 'Jeremias Mylius [=Mysius]'),
+                    ('Jeremias Mylius (oder Mysius)', 'Jeremias Mylius [Mysius]'),
+                  ('H[ans] J[akob] Adelschwiler', 'Johannes [=Hans] Jakob Adlischwyler [=Adlischwiler, Adelschwiler]'),
+                  ('Hans Adlischwiler', 'Johannes [=Hans] Jakob Adlischwyler [=Adlischwiler, Adelschwiler]'),
+                  ('Hans Adlischwyler', 'Johannes [=Hans] Jakob Adlischwyler [=Adlischwiler, Adelschwiler]'),
+                  ('Hans Jakob Adlischwyler', 'Johannes [=Hans] Jakob Adlischwyler [=Adlischwiler, Adelschwiler]'),
+                  ('Johannes Adlischwyler', 'Johannes [=Hans] Jakob Adlischwyler [=Adlischwiler, Adelschwiler]'),
+                    ('Herkules von Salis', 'Herkules [=Hercules] von Salis'),
+                    ('Hercules von Salis', 'Herkules [=Hercules] von Salis'),
+                    ('Heinrich Linggi', 'Heinrich Linggi (Laevinus)'),
+                    ('Hans Wunderlich', 'Hans Wunderlich (Jean de Merveilleux)'),
+                    ('Gerreon Sailer', 'Gereon Sailer'),
+                    ('Gereon Seiler', 'Gereon Sailer'),
+                  ('Georg Mönhart (Monnhart)', 'Georg Mönhart [=Monnhart]'),
+                  ('Gerhard thom Camph', 'Gerhard zum [=thom] Camph [=Camp]'),
+                  ('Gerhard zum Camph im Namen der Kirche von Emden', 'Gerhard zum [=thom] Camph [=Camp] im Namen der Kirche von Emden'),
+                  ('Gianandrea de\'Ugoni', 'Gianandrea de Ugoni'),
+                  ('Gilbert Cousin', 'Gilbert Cousin [=Cognatus]'),
+                  ('Gilbert Cousin (Cognatus)', 'Gilbert Cousin [=Cognatus]'),
+                  ('Guilelmus Plancius / Plançon', 'Guilelmus Plancius [=Plançon]'),
+                  ('Guillaume Plançon', 'Guilelmus Plancius [=Plançon]'),
+                  ('Guillaume Stuart sieur de Vézines', 'Guillaume Stuart de Vézines'),
+                  ('Gregor Pauli (Grzegorz Pawet)', 'Gregor [=Gregorius, Grzegorz] Pauli [=Pawet, Paweł?]'),
+                  ('Gregor Pauli (Pawet[Paweł?])', 'Gregor [=Gregorius, Grzegorz] Pauli [=Pawet, Paweł?]'),
+                  ('Gregor[ius] Pauli', 'Gregor [=Gregorius, Grzegorz] Pauli [=Pawet, Paweł?]'),
+                  ('Gregorius Pauli', 'Gregor [=Gregorius, Grzegorz] Pauli [=Pawet, Paweł?]'),
+                    ('Georg, Graf von Württemberg', 'Georg, Graf von/zu Württemberg'),
+                    ('Georg, Graf zu Württemberg', 'Georg, Graf von/zu Württemberg'),
+                    ('Georg von Württemberg', 'Georg, Graf von/zu Württemberg'),
+                    ('François Hotman', 'François [=Franciscus, Franziscus, Franz] Hotomannus [=Hotman]'),
+                    ('François Hotomannus', 'Franciscus [=Franziscus, Franz] Hotomannus [=Hotman]'),
+                    ('Franz Hotman', 'Franciscus [=Franziscus, Franz] Hotomannus [=Hotman]'),
+                    ('Franciscus [Franciscus] Hotomannus', 'Franciscus [=Franziscus, Franz] Hotomannus [=Hotman]'),
+                    ('Franciscus Hotman', 'Franciscus [=Franziscus, Franz] Hotomannus [=Hotman]'),
+                    ('Franciscus Dryander (Francisco de Enzinas)', 'Franciscus (Francisco) Dryander (= de Enzinas)'),
+                    ('Franciscus Dryander', 'Franciscus (Francisco) Dryander (= de Enzinas)'),
+                    ('Franciscus [Franciscus] Hotomannus', 'Franciscus [=Franziscus, Franz] Hotomannus [=Hotman]'),
+                    ('Francesco Lismanini', 'Francesco Lismanino [=Lismanini]'),
+                    ('Francesco Lismanino', 'Francesco Lismanino [=Lismanini]'),
+                    ('Flüchtige französische Prediger', 'die Flüchtigen französische Prediger'),
+                    ('Scipio Lentulo', 'Scipio [=Scipione] Lentulo [=Lentulus]'),
+                    ('Scipio Lentulus', 'Scipio [=Scipione] Lentulo [=Lentulus]'),
+                    ('Scipione Lentulo', 'Scipio [=Scipione] Lentulo [=Lentulus]'),
+                    ('Scipione Lentulo und Philipp a Vertemate', 'Scipio [=Scipione] Lentulo [=Lentulus] und Philipp a Vertemate'),
+                    ('Erhard von Kunheim', 'Erhard von Kunheim [=Kunhaim, Künhaim]'),
+                    ('Erhard von Kunhaim', 'Erhard von Kunheim [=Kunhaim, Künhaim]'),
+                    ('Erhard von Künhaim', 'Erhard von Kunheim [=Kunhaim, Künhaim]'),
+                    ('Edouard de Thienes', 'Edouard [Eduard] de Thienes'),
+                    ('Eduard de Thienes', 'Edouard [=Eduard] de Thienes'),
+                  ('Edouard [Eduard] de Thienes', 'Edouard [=Eduard] de Thienes'),
+                    ('Durich Chiampell', 'Ulrich [=Durich, Durisch] Campell [=Chiampell]'),
+                  ('Ulrich Campell (Durich Chiampell)', 'Ulrich [=Durich, Durisch] Campell [=Chiampell]'),
+                  ('Ulrich Campell (Durisch Chaimpell)', 'Ulrich [=Durich, Durisch] Campell [=Chiampell]'),
+                  ('Ulrich Campell (Durisch Chiampell)', 'Ulrich [=Durich, Durisch] Campell [=Chiampell]'),
+                  ('Ulrich Philipp von Hohensax', 'Ulrich Philipp von Hohensax [=Sax]'),
+                  ('Ulrich Philipp von Sax', 'Ulrich Philipp von Hohensax [=Sax]'),
+                    ('Durich Chiampell (Ulrich Campell)', 'Ulrich [=Durich, Durisch] Campell [=Chiampell]'),
+                    ('Durisch Chiampell', 'Ulrich [=Durich, Durisch] Campell [=Chiampell]'),
+                    ('Die italienische Gemeinde in Genf', 'die italienische Gemeinde in Genf'),
+                    ('Die französische Kirche in Straßburg', 'die französische Kirche in Straßburg'),
+                    ('Die Zürcher Prediger', 'die Prediger von Zürich'),
+                    ('Die Zürcher Pfarrer', 'die Pfarrer von Zürich'),
+                    ('Die Zürcher Kirche', 'die Zürcher Kirche'),
+                    ('Die Zürcher Geistlichen', 'die geistlichen von Zürich'),
+                    ('Die Zürcher', 'die Zürcher'),
+                    ('Die St. Galler Prediger ', 'die Prediger von St. Gallen'),
+                    ('Die Schulvorsteher von Bern', 'die Schulvorsteher von Bern'),
+                    ('Die Schaffhauser Prediger', 'die Prediger von Schaffhausen'),
+                    ('Die Prediger von St. Gallen', 'die Prediger von St. Gallen'),
+                    ('Die Prediger von Magdeburg', 'die Prediger von Magdeburg'),
+                    ('Die Prediger der Fremdenkirchen in Genf', 'die Prediger der Fremdenkirchen in Genf'),
+                    ('Die Pfarrer von Zürich', 'die Pfarrer von Zürich'),
+                    ('Die Pfarrer von St. Gallen', 'die Pfarrer von St. Gallen'),
+                    ('Die Lyoner Märtyrer', 'die Lyoner Märtyrer'),
+                    ('Die Lausanner Prediger', 'die Prediger von Lausanne'),
+                    ('Die Kleinpolen', 'die Kleinpolen'),
+                    ('Die Glarner Prediger (Valentin Tschudi)', 'die Prediger vom Glarnerland (Valentin Tschudi)'),
+                    ('Die Bündner Prediger', 'die Prediger von  Graubünden'),
+                    ('Die Berner Prediger (Haller\)', 'die Prediger von Bern (Haller)'),
+                    ('Die Berner Prediger', 'die Prediger von Bern'),
+                    ('Die Aeltesten der italienischen Kirche in Genf', 'die Aeltesten der italienischen Kirche in Genf'),
+                    ('David Chytraeus', 'David Chytraeus [=Chyträus]'),
+                    ('David Chyträus', 'David Chytraeus [=Chyträus]'),
+                    ('Compagnie des pasteurs de Genève', 'die Pfarrer von Genf ("Compagnie des pasteurs de Genève")'),
+                    ('Christopher Mont', 'Christopher [=Christoph] Mont'),
+            ('Calvin (und Bullinger und Vermigli)', 'Calvin, Bullinger und Petrus [=Peter] Martyr Vermigli'),
+                  ('Christoph Tretius', 'Christoph Thretius'),
+                    ('Christoph Mont', 'Christopher [=Christoph] Mont'),
+                    ('[Christoph Mont]', '[Christopher [=Christoph] Mont]'),
+                  ('Christopher Mont', '[Christopher [=Christoph] Mont]'),
+                    ('Charles de Jouvilliers', 'Charles de Jonvilliers'),
+                    ('Charles de Jonvillier', 'Charles de Jonvilliers'),
+                    ('Charles de Jonvillers', 'Charles de Jonvilliers'),
+                    ('Charles de Jonvill[i]er', 'Charles de Jonvilliers'),
+                    ('Charles de Ionvillers', 'Charles de Jonvilliers'),
+                    ('Charles de Ionviller', 'Charles de Jonvilliers'),
+                    ('Charles Jonvillier', 'Charles de Jonvilliers'),
+                    ('Charles Jonvillers', 'Charles de Jonvilliers'),
+                    ('Charles Du Moulin', 'Charles du Moulin'),
+                    ('Celio Secondo Curione', 'Celio Secondo [=Secundo] Curione [=Curio]'),
+                    ('Celio Secundo Curio', 'Celio Secondo [=Secundo] Curione [=Curio]'),
+                    ('Celio Secundo Curione', 'Celio Secondo [=Secundo] Curione [=Curio]'),
+                    ('Bürgermeister und Rat zu Schaffhausen', 'den Bürgermeister und Rat zu Schaffhausen'),
+                    ('Bürgermeister und Rat zu Chur', 'den Bürgermeister und Rat zu Chur'),
+                    ('Bürgermeister und Rat', 'den Bürgermeister und Rat'),
+                    ('BullingerundRudolf Gwalther', 'Bullinger und Rudolf Gwalther'),
+                    ('Bullingers Frau Anna Adlischwyler und er selbst', 'Bullinger und Anna Adlischwyler'),
+                    ('Bullinger[d.J?]', 'Bullinger [d.J?]'),
+                    ('[Bullinger(?)]', '[Bullinger?]'),
+                    ('Bullinger und die übrigen Pfarrer von Zürich', 'Bullinger und die Pfarrer von Zürich'),
+                    ('Bullinger und R. Gwalther', 'Bullinger und Rudolf Gwalther'),
+                    ('Bullinger namens der Zürcher Prediger', 'Bullinger im Namen der Prediger von Zürich'),
+                    ('Benedikt Stokar (Stockar)', 'Benedikt Stokar [=Stockar]'),
+                    ('Benedikt Stokar', 'Benedikt Stokar [=Stockar]'),
+                    ('Bartholomaeus Traheron', 'Bartholomew [=Bartholomaeus] Traheron'),
+                    ('Bartholomew Traheron', 'Bartholomew [=Bartholomaeus] Traheron'),
+                    ('Bartholomaeus Bertlin', 'Bartholomaeus Bertlin [=Bertlinus]'),
+                    ('Bartholomaeus Bertlinus', 'Bartholomaeus Bertlin [=Bertlinus]'),
+                    ('Baldassare Altieri', 'Baldassare [=Balthasar, Baldassar] Altieri'),
+                    ('Baldassar Altieri', 'Baldassare [=Balthasar, Baldassar] Altieri'),
+                  ('Balthasar Altieri', 'Baldassare [=Balthasar, Baldassar] Altieri'),
+                    ('Anton Simburger', 'Antonius [=Anton] Simburger [=Süburger]'),
+                    ('Antonius Süburger (Simburger)', 'Antonius [=Anton] Simburger [=Süburger]'),
+                    ('Antonio Del Corro', 'Antonio del Corro'),
+                    ('Antonius Schneeberger', 'Antonius [=Anton] Schneeberger'),
+                    ('Anton[ius] Schneeberger', 'Antonius [=Anton] Schneeberger'),
+                    ('Anton Schneeberger', 'Antonius [=Anton] Schneeberger'),
+                    ('Anthony Cooke', 'Anthony Cook [=Cooke]'),
+                    ('Anthony Cook', 'Anthony Cook [=Cooke]'),
+                    ('Anne Hooper', 'Anne [=Anna] Hooper'),
+                    ('Anna Hooper', 'Anne [=Anna] Hooper'),
+                  ('Antoine Le Vasseur, seigneur de Cougnée', 'Antoine le Vasseur, seigneur de Cougnée'),
+                    ('Andreas Prazmowski', 'Andreas [Andrzej] Prazmowski'),
+                    ('Andrzej Prazmowski, auch im Namen der andern Pfarrer Kleinpolens', 'Andreas [Andrzej] Prazmowski und die anderen Pfarrer Kleinpolens'),
+                    ('Alexander Vitrelinus', 'Alexander Vitrelin [=Vitrelinus, Witrelin]'),
+                    ('Alexander Vitrelin[us]', 'Alexander Vitrelin [=Vitrelinus, Witrelin]'),
+                    ('Alexander Vitrelin (Witrelin)', 'Alexander Vitrelin [=Vitrelinus, Witrelin]'),
+                    ('Alexander SchmutzundJohannes von Ulm', 'Alexander Schmutz und Johannes Ulmer [=von Ulm]'),
+                    ('Adolf von Baars', 'Adolf von Baars (Olisleger)'),
+                    ('(Tobias Egli)', '[Tobias Egli]'),
+                    ('(Petrus Martyr Vermigli)', '[Petrus [=Peter] Martyr Vermigli]'),
+                    ('(Johannes Fabricius)', '[Johannes Fabricius)'),
+                    ('(Heinrich Bullinger)', '[Bullinger]'),
+                    ('(Georg von Stetten)', '[Georg von Stetten]'),
+                    ('(Franz Hotman)', '[François [=Franciscus, Franziscus, Franz] Hotomannus [=Hotman]]'),
+                  ('([Johannes Fabricius)]', '[Johannes Fabricius]'),
+                  ('(Pier [=Petrus/Petro] Paolo [=Paulus/Paullo) Vergerio [=Vergerius]', 'Pier [=Petrus/Petro] Paolo [=Paulus/Paullo) Vergerio [=Vergerius]'),
+                  ('(Matthias Erb)', '[Matthias Erb]'),
+                  ('(Hans Rudolf Bullinger)', '[Hans Rudolf Bullinger]'),
+                  ('(Calvin)', '[Calvin]'),
+                  ('(Bürgermeister und Rat?)', '[der Bürgermeister und Rat?]'),
+                  ('(Bullinger?)', '[Bullinger?]'),
+                  ('(Bullinger oder Johannes Wolf)', '[Bullinger oder Johannes Wolf]'),
+                  ('(Ambrosius Blarer)', '[Ambrosius Blarer]'),
+                  ('Stanislaus Miszkowski', 'Stanislaus [=Stanislaw] Miszkowski [=Myszkowski]'),
+                  ('Stanislaus Myszkowski', 'Stanislaus [=Stanislaw] Miszkowski [=Myszkowski]'),
+                  ('Stanislaw Myszkowski', 'Stanislaus [=Stanislaw] Miszkowski [=Myszkowski]'),
+                  ('Simon Zacius (Zak)', 'Simon Zacius [=Zak]'),
+                  ('Pfalzgraf Ottheinrich von Neuburg', 'Pfalzgraf Ottheinrich [=Ott Heinrich] von Neuburg'),
+                  ('Pfalzgraf Ottheinrich', 'Pfalzgraf Ottheinrich [=Ott Heinrich] von Neuburg'),
+                  ('Pfalzgraf Ott Heinrich von Neuburg', 'Pfalzgraf Ottheinrich [=Ott Heinrich] von Neuburg'),
+                  ('Peter Venetscher', 'Peter [=Petrus] Venetscher'),
+                  ('Petrus Venetscher', 'Peter [=Petrus] Venetscher'),
+                  ('Matthieu Coignet', 'Matthieu [=Mathieu] Coignet'),
+                  ('Leonhard Soerin/Serin', 'Leonhard Soerin [=Serin]'),
+                  ('Johannes Oporin', 'Johannes Oporin [=Oporinus]'),
+                  ('Johannes Oporinus', 'Johannes Oporin [=Oporinus]'),
+                  ('Johannes Lasicius (Lasicki)', 'Johannes [=Jan] Lasicius [=Lasicki]'),
+                  ('Jan Utenhove', 'Johannes [=Johann, Jan] Utenhove'),
+                  ('Jan Utenhove (d.Ä)', 'Johannes [=Johann, Jan] Utenhove d.Ä'),
+                  ('Jan Utenhove [d.J]', 'Johannes [=Johann, Jan] Utenhove [d.J]'),
+                  ('Jan Utenhove [d.Ä]', 'Johannes [=Johann, Jan] Utenhove [d.Ä]'),
+                  ('Jan Utenhove und Johannes a Lasco', 'Johannes [=Johann, Jan] Utenhove und Johannes a Lasco'),
+                  ('Johann Utenhove, Johannes a Lasco und Martin Micronius', 'Johannes [=Johann, Jan] Utenhove, Johannes a Lasco und Martin Micronius'),
+                  ('Johannes Kiszka', 'Johannes [=Jan] Kiszka'),
+                  ('Jan Kiszka', 'Johannes [=Jan] Kiszka'),
+                  ('Johannes Lasicius (Lasicki)', 'Johannes Lasicius [=Lasicki]'),
+                  ('Jane Grey', 'Jane [=Jana] Grey'),
+                  ('Jana Grey', 'Jane [=Jana] Grey'),
+                  ('Hieronymus zum Lamm', 'Hieronymus zum Lamm [=Lamb]'),
+                  ('Hieronymus zum Lamb', 'Hieronymus zum Lamm [=Lamb]'),
+                  ('Hieronymus Kranz (Sertorius)', 'Hieronymus Kranz [=Sertorius]'),
+                  ('Hieronymus Kranz', 'Hieronymus Kranz [=Sertorius]'),
+                  ('Hartmann von Hallwyl', 'Hartmann von Hallwyl [=Hallwil]'),
+                  ('Hartmann von Hallwil', 'Hartmann von Hallwil [=Hallwil]'),
+                  ('Fridolin Brunner', 'Fridolin Brunner [=Fonteius, Fontejus]'),
+                  ('Fridolin Brunner (Fonteius)', 'Fridolin Brunner [=Fonteius, Fontejus]'),
+                  ('Fridolin Brunner (Fontejus)', 'Fridolin Brunner [=Fonteius, Fontejus]'),
+                  ('Franciscus [=Franziscus, Franz] Hotomannus [=Hotman]', 'François [=Franciscus, Franziscus, Franz] Hotomannus [=Hotman]'),
+                  ('Felix Cruciger', 'Felix Cruciger [=Krzyzak]'),
+                  ('Felix Cruciger [Krzyzak]', 'Felix Cruciger [=Krzyzak]'),
+                  ('FRiedrich von Salis', 'Celio Friedrich von Salis'),
+                  ('Bullinger, Gvalther, J. Wolf, L. Lavater', 'Bullinger, Gwalther, J. Wolf, L. Lavater'),
+                  ('Andreas [Andrzej] Prazmowski und die anderen Pfarrer Kleinpolens', 'Andreas [=Andrzej] Prazmowski und die anderen Pfarrer Kleinpolens'),
+                  ('Andreas [Andrzej] Prazmowski', 'Andreas [=Andrzej] Prazmowski'),
+                  ('Sebastien de l\'Aubespine', 'Sebastien [=Sébastien, Sebastian] de l\'Aubespine'),
+                  ('Thomas Kirchmayer [=Kirchmair/Naogeorgus]', 'Thomas Naogeorgus [=Kirchmair, Kirchmayer]'),
+                  ('[Johannes (=Hans) Jakob Adlischwyler (Adlischwiler, Adelschwiler)]', '[Johannes [=Hans] Jakob Adlischwyler [=Adlischwiler, Adelschwiler]]'),
+                  ('([einen Winterthurer? Bernhard Lindauer? eher Zeitung als Brief])', '[einen Winterthurer? Bernhard Lindauer? eher Zeitung als Brief]'),
+                    ('(Bullinger)', '[Bullinger]'),
+                  ('einen neuen Pfarrer [vielleicht Rudolf Gwalther d.J]', 'einen neuen Pfarrer [Rudolf Gwalther d.J?]'),
+                  ('die französische Kirche in Straßburg', 'die französische Kirche in Strassburg [=Straßburg]'),
+                  ('den Bürgermeister und Rat', 'der Bürgermeister und Rat'),
+                  ('den Bürgermeister und Rat zu Chur', 'der Bürgermeister und Rat zu Chur'),
+                  ('den Bürgermeister und Rat zu Schaffhausen', 'der Bürgermeister und Rat zu Schaffhausen'),
+                  ('Thaddaeus Dunus', 'v'),
+                  ('L[udwig] Zehender', 'Ludwig Zehender'),
+                  ('König [Maximilian]', 'König Maximilian'),
+                  ('Johannes Heinrich Mathäus (Matthäus)', 'Johannes Heinrich Mathäus [=Matthäus]'),
+                  ('Franciscus (Francisco) Dryander (= de Enzinas)', 'Franciscus [=Francisco] Dryander (de Enzinas)'),
+                  ('Francis, Earl of Bedford', 'Francis Russel, Earl of Bedford'),
+                  ('Georg, Graf von/zu Württemberg', 'Georg (Graf von/zu Württemberg)'),
+                  ('Francis Russel, Earl of Bedford', 'Francis Russel (Earl of Bedford)'),
+                  ('Meier, Bürgermeister und Rat von Biel', 'der Bürgermeister und der Rat von Biel (Meier)'),
+                  ('[du Fraisse?]', '[Jean du Fraisse?]'),
+                  ('[?] Toxites [Michael Schütz]', '[Michael Schütz] (Toxites ...)'),
+                  ('Bullinger etc', 'Bullinger und [...]'),
+                  ('Pietro Parisotti', 'Pietro [=Petrus] Parisotti [=Parisotus]'),
+                  ('Petrus Parisotus', 'Pietro [=Petrus] Parisotti [=Parisotus]'),
+                  ]:
+            if new == t[0]: new = t[1]
+        new = Transcriptions.bracer(new.strip())
+        return new
+
+    @staticmethod
+    def correct_persons_3(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<abs>)\s*(.*)\s*(</abs>.*)', s, re.DOTALL)
+                if m:
+                    new = Transcriptions.correct_name(m.group(2))
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + new + m.group(3))
+                        print(fn, m.group(2), "-->", new)
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<emp>)\s*(.*)\s*(</emp>.*)', s, re.DOTALL)
+                if m:
+                    new = Transcriptions.correct_name(m.group(2))
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + new + m.group(3))
+                        print(fn, m.group(2), "-->", new)
+
+    @staticmethod
+    def correct_name(name):
+        new = name.strip(',')
+        new = re.sub(r'\([\s\.,]*\)', '[?]', new)
+        new = re.sub(r'\[[\s\.,]*\]', '[?]', new)
+        new = re.sub(r'\s+', ' ', new).strip()
+        new = re.sub(r'\s+\)', '\)', new)
+        new = re.sub(r'\s+\]', '\]', new)
+        new = re.sub(r'\s*St\.\s*', ' St\. ', new)
+        new = re.sub(r'\s*Dr\.\s*', ' Dr\. ', new)
+        new = new.replace('[Heinr. Bullinger jun]', '[d.J]')
+        new = new.replace(' u. ', 'und')
+        new = new.replace(' v. ', 'von')
+        new = new.replace('. (vielleicht d.J)', '[d.J?]')
+        new = new.replace('Fran¢ois', 'François')
+        new = new.replace('Wolfgang Muculus', 'Wolfgang Musculus')
+        new = new.replace('Wofgang Musculus', 'Wolfgang Musculus')
+        new = new.replace('Tobias Egi', 'Tobias Egli')
+        new = new.replace('Thomas Leven', 'Thomas Lever')
+        new = new.replace('Thomas Balrer', 'Thomas Blarer')
+        new = new.replace('Theodor beza', 'Theodor Beza')
+        new = new.replace('Simon Sulzern', 'Simon Sulzer')
+        new = new.replace('Pier Paolo Vegerio', 'Pier Paolo Vergerio')
+        new = new.replace('Philipp Melanchton', 'Philipp Melanchthon')
+        new = new.replace('Philipp Gallicuis', 'Philipp Gallicius')
+        new = new.replace('Nikolaus Radziwil', 'Nikolaus Radziwill')
+        new = new.replace('Johanns', 'Johannes')
+        new = new.replace('fabricius', 'Fabricius')
+        new = new.replace('Johannes Tavers', 'Johannes Travers')
+        new = new.replace('Johannes Hospiniam', 'Johannes Hospinian')
+        new = new.replace('Fabritius', 'Fabricius')
+        new = new.replace('Fabrcius', 'Fabricius')
+        new = new.replace('Faberius', 'Fabricius')
+        new = new.replace('Johanne Fabricius', 'Johannes Fabricius')
+        new = new.replace('Johanes', 'Johannes')
+        new = new.replace('Joahnnes', 'Johannes')
+        new = new.replace('(Mysius?)', '(Mysius)')
+        new = new.replace('Janos Fejérthoy', 'Janós Feyérthóy')
+        new = new.replace('[d. Ä]', '[d.Ä]')
+        new = new.replace('Jakob Rüger', 'Jakob Rüeger')
+        new = new.replace('Hieronymus Zum Lamm', 'Hieronymus zum Lamm')
+        new = new.replace('Henri Ier de Bourbon, prince de Condé', 'Henri Ier de Bourbon (prince de Condé)')
+        new = new.replace('Henri Ier. de Bourbon, prince de Condé',
+                          'Henri Ier de Bourbon (prince de Condé)')
+        new = new.replace('Gilbert Cousin/Cognatus', 'Gilbert Cousin (Cognatus)')
+        new = new.replace('Georg von stetten', 'Georg von Stetten')
+        new = new.replace('Geog', 'Georg')
+        new = new.replace('Gehard thom Camph', 'Gerhard thom Camph')
+        new = new.replace('[Fr\'anciscus]', '[Franciscus]')
+        new = new.replace('(genannt Olisleger)', '(Olisleger)')
+        new = new.replace('(jun?)', '[d.J?]')
+        new = new.replace('jun', '(d.J)')
+        new = new.replace(':)', ')')
+        new = new.replace(' d.J ', ' (d.J) ')
+        new = new.replace(' d.Ä ', ' (d.Ä) ')
+        new = new.replace(' [Vater] ', ' (d.Ä) ')
+        new = Transcriptions.bracer(new.strip())
+        return new
+
+    @staticmethod
+    def correct_persons_all(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                patterns = [['[\[\(\s\.,\]\)]+', ''],
+                            ['Bulinger', 'Bullinger'],
+                            ['Bulliner', 'Bullinger'],
+                            ['Bullnger', 'Bullinger'],
+                            ['Bullinge', 'Bullinger'],
+                            ['BUllinger', 'Bullinger'],
+                            ['BUllinger', 'Bullinger'],
+                            ['Bullinger ', 'Bullinger'],
+                            ['Bullinger,', 'Bullinger'],
+                            ['Bulliinger', 'Bullinger'],
+                            ['Bullionger', 'Bullinger'],
+                            ['Bullingers', 'Bullinger'],
+                            ['\[Unbekannt\]', ''],
+                            ['Bullionger.', 'Bullinger'],
+                            ['Antoine Morelet de Museaux', 'Antoine Morelet de Museau'],
+                            ]
+                for pattern in patterns:
+                    m = re.match(r'(.*<abs>)\s*('+pattern[0]+')\s*(</abs>.*)', s, re.DOTALL)
+                    if m:
+                        with open(p, 'w') as f:
+                            f.write(m.group(1) + pattern[1] + m.group(3))
+                            print(fn, m.group(2), "-->", pattern[1])
+                    m = re.match(r'(.*<emp>)\s*('+pattern[0]+')\s*(</emp>.*)', s, re.DOTALL)
+                    if m:
+                        with open(p, 'w') as f:
+                            f.write(m.group(1) + pattern[1] + m.group(3))
+                            print(fn, m.group(2), "-->", pattern[1])
+                """
+                    # special: ending point
+                    m = re.match(r'(.*<abs>)\s*(.*)\s*\.?\s*(</abs>.*)', s, re.DOTALL)
+                    if m:
+                        with open(p, 'w') as f:
+                            f.write(m.group(1) + m.group(2) + m.group(3))
+                            print(fn, "changed")
+                    m = re.match(r'(.*<emp>)\s*(.*)\s*\.?\s*(</emp>.*)', s, re.DOTALL)
+                    if m:
+                        with open(p, 'w') as f:
+                            f.write(m.group(1) + m.group(2) + m.group(3))
+                            print(fn, "changed")
+    
+                    # bracket points
+                    m = re.match(r'(.*<abs>)\s*(.*)\s*\.\s*([\]\)]*)\s*(</abs>.*)', s, re.DOTALL)
+                    if m:
+                        with open(p, 'w') as f:
+                            f.write(m.group(1) + m.group(2) + m.group(3) + m.group(4))
+                            print(fn, "changed")
+                    m = re.match(r'(.*<emp>)\s*(.*)\s*\.\s*([\]\)]*)\s*(</emp>.*)', s, re.DOTALL)
+                    if m:
+                        with open(p, 'w') as f:
+                            f.write(m.group(1) + m.group(2) + m.group(3) + m.group(4))
+                            print(fn, "changed")     
+                    """
+
+    @staticmethod
+    def print_person_counts(path):
+        c, d = 0, dict()
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                ma = re.match(r'.*<abs>(.*)</abs>.*', s, re.DOTALL)
+                if ma:
+                    p1 = ma.group(1)
+                    if p1 in d: d[p1] += 1
+                    else: d[p1] = 1
+                    c += 1
+                me = re.match(r'.*<emp>(.*)</emp>.*', s, re.DOTALL)
+                if me:
+                    p1 = me.group(1)
+                    if p1 in d: d[p1] += 1
+                    else: d[p1] = 1
+                    c += 1
+        for key, value in sorted(d.items(), key=lambda x: x[0]):
+            print("{} : {}".format(key, value))
+        print(c)
+
+    @staticmethod
+    def print_persons(path):
+        c, d = 0, dict()
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                ma = re.match(r'.*<abs>(.*)</abs>.*', s, re.DOTALL)
+                if ma:
+                    p1 = ma.group(1)
+                    if p1 in d: d[p1].append(fn)
+                    else: d[p1] = [fn]
+                    c += 1
+                me = re.match(r'.*<emp>(.*)</emp>.*', s, re.DOTALL)
+                if me:
+                    p1 = me.group(1)
+                    if p1 in d: d[p1].append(fn)
+                    else: d[p1] = [fn]
+                    c += 1
+        for key, value in sorted(d.items(), key=lambda x: len(x[0])):
+            if len(value) < 4: print("{} : {}".format(key, value))
+            else: print("{} : {}".format(key, len(value)))
+        print(c)
+
+    @staticmethod
+    def bracer(s):
+        s = s.strip()
+        if '[' not in s and ']' in s: s = '[' + s
+        if '[' in s and ']' not in s: s = s + ']'
+        if '(' not in s and ')' in s: s = '(' + s
+        if '(' in s and ')' not in s: s = s + ')'
+        s = s.replace('(', '[').replace(')', ']')
+        return s
+
+    @staticmethod
+    def add_braces(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<ort>)(.*)(</ort>.*)', s, re.DOTALL)
+                if m:
+                    new = Transcriptions.bracer(m.group(2).strip()).strip()
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + new.strip() + m.group(3))
+                        print(fn, "changed")
+
+
+    @staticmethod
+    def search(path):
+        for fn in os.listdir(path):
+            p = path + "/" + fn
+            if fn != ".DS_Store":
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'.*<lz.*', s, re.DOTALL)
+                if m: print(fn)
+
+    @staticmethod
+    def analyze_xml(path):
+        dt = dict()
+        for fn in os.listdir(path):
+            p = path + "/" + fn
+            if fn != ".DS_Store":
+                d = XMLTagCtr.count_tags(p)
+                if not d: print(p)
+                for t in d:
+                    if t in dt: dt[t] += d[t]
+                    else: dt[t] = d[t]
+        for key, value in sorted(dt.items(), key=lambda x: x[1], reverse=True):
+            print("{} : {}".format(key, value))
+
+
+    @staticmethod
+    def analyze_xml_attr(path):
+        dt = dict()
+        for fn in os.listdir(path):
+            p = path + "/" + fn
+            if fn != ".DS_Store":
+                d = xml_sax_attr_count.count(p)
+                if not d: print(p)
+                for t in d:
+                    if t in dt: dt[t] += d[t]
+                    else: dt[t] = d[t]
+        for key, value in sorted(dt.items(), key=lambda x: x[1], reverse=True):
+            print("{} : {}".format(key, value))
+
+    """
+    @staticmethod
+    def analyze_xml_attr(path):
+        da = dict()
+        for fn in os.listdir(path):
+            p = path + "/" + fn
+            if fn != ".DS_Store":
+                print(fn)
+                d = XMLAttrCtr.count_attrs(p)
+                if not d: print(p)
+                for t in d:
+                    for a in d[t]:
+                        if t in da:
+                            if a in da[t]: da[t][a] += d[t][a]
+                            else: da[t][a] = d[t][a]
+                        else:
+                            da[t] = dict()
+                            da[t][a] = d[t][a]
+        print("RESULT:")
+        for t in da:
+            for key, value in sorted(da[t].items(), key=lambda x: x[1], reverse=True):
+                print("{} : {}".format(key, value))
+    """
+
+    @staticmethod
+    def place_corrections(path):
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<ort>)(.*)(</ort>.*)', s, re.DOTALL)
+                if m.group(2).strip() == 'genf':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1)+"Genf"+m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'chiavenna':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Chiavenna" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'bern':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Bern" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'basel':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Basel" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'baden':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Baden" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'b. Brescia':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "bei Brescia" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == '[[...]':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Umgebung von Brescia':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "bei Brescia" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Wintethur':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Winterthur" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Wintethur':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Winterthur" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Schaffhasuen':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Schaffhausen" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Sameden':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Samaden" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Nozereth [Nozeroy]':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Nozereth [Nozeroy]" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Neuburg a.D.':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Neuburg [an der Donau]" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Im Gebiet von Brescia':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "bei Brescia" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == '[Wintethur]':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "[Winterthur]" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == '[Neuburg [an der Donau]':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "[Neuburg (an der Donau)]" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Vicosorprano':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Vicosoprano" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Süs':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Süs [Susch]" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Süs':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Süs [Susch]" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Nozereth[Nozeroy]':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Nozereth [Nozeroy]" + m.group(3))
+                        print(fn, "changed")
+                if m.group(2).strip() == 'Bsel':
+                    with open(p, 'w') as f:
+                        f.write(m.group(1) + "Basel" + m.group(3))
+                        print(fn, "changed")
+
+    @staticmethod
+    def print_ort(path):
+        c, d = 0, dict()
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'.*<ort>(.*)</ort>.*', s, re.DOTALL)
+                if m:
+                    place = m.group(1)
+                    if place in d: d[place].append(fn)
+                    else: d[place] = [fn]
+                    c += 1
+        for key, value in sorted(d.items(), key=lambda x: len(x[0])):
+            if len(value) < 4: print("{} : {}".format(key, value))
+            else: print("{} : {}".format(key, len(value)))
+        print(c)
+
+    @staticmethod
+    def print_ort_counts(path):
+        c, d = 0, dict()
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'.*<ort>(.*)</ort>.*', s, re.DOTALL)
+                if m:
+                    place = m.group(1)
+                    if place in d: d[place] += 1
+                    else: d[place] = 1
+                    c += 1
+        for key, value in sorted(d.items(), key=lambda x: x[0]):
+            print("{} : {}".format(key, value))
+        print(c)
+
+
+
+    @staticmethod
+    def split_od(path):
+        c = 0
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m1 = re.match(r'(.*<od>)([\[\(\]\)\s\w\.éèäöü?/*-]*),(.*)(</od>.*)', s, re.DOTALL)  # ort, datum
+                m2 = re.match(r'(.*<od>)\s*(\(?\[?\d{0,2}?\.?\]?\)?\s*\(?\[?\w+\]?\s+\(?\[?\d{4}\.?\]?\)?\.?)(</od>.*)', s, re.DOTALL)  # datum
+                m3 = re.match(r'(.*<od>)\s*(</od>.*)', s, re.DOTALL)  # nada
+                m4 = re.match(r'(.*<od>)(\(?\[?([Zz]u|[Nn]ach|[Bb]eilage|[Nn]achschrift|[Ee]nde|[Aa]nfang|[Vv]or).*)(</od>.*)', s, re.DOTALL)  # datum
+                m5 = re.match(r'(.*<od>)([\[\(\]\)/\s\d\.]+\.?)(</od>.*)', s, re.DOTALL)  # datum
+                if m1:
+                    new = m1.group(1)+"\n\t<ort>"+m1.group(2)+"</ort>\n\t"+"<datum>"+m1.group(3)+"</datum>\n"+m1.group(4)
+                    with open(p, 'w') as f:
+                        f.write(new)
+                        print(fn, "changed 1")
+                elif m2:
+                    new = m2.group(1)+"\n\t<ort></ort>\n\t"+"<datum>"+m2.group(2)+"</datum>\n"+m2.group(3)
+                    with open(p, 'w') as f:
+                        f.write(new)
+                        print(fn, "changed 2")
+                elif m3:
+                    new = m3.group(1)+"\n\t<ort></ort>\n\t"+"<datum></datum>\n"+m3.group(2)
+                    with open(p, 'w') as f:
+                        f.write(new)
+                        print(fn, "changed 3")
+                elif m4:
+                    new = m4.group(1)+"\n\t<ort></ort>\n\t"+"<datum>"+m4.group(2)+"</datum>\n"+m4.group(4)
+                    with open(p, 'w') as f:
+                        f.write(new)
+                        print(fn, "changed 4")
+                elif m5:
+                    new = m5.group(1)+"\n\t<ort></ort>\n\t"+"<datum>"+m5.group(2)+"</datum>\n"+m5.group(3)
+                    with open(p, 'w') as f:
+                        f.write(new)
+                        print(fn, "changed 5")
+                else:
+                    c += 1
+                    print("***WARNING, invalid ae-element detected:", fn)
+        print("ERRORS:", c)
+
+    @staticmethod
+    def split_abs_emp(path):
+        c = 0
+        for fn in os.listdir(path):
+            if fn != ".DS_Store":
+                p = path + "/" + fn
+                with open(p) as f: s = "".join([line for line in f])
+                m = re.match(r'(.*<ae>)(.*) an (.*)(</ae>.*)', s, re.DOTALL)
+                if m:
+                    new = m.group(1)+"\n\t<abs>"+m.group(2)+"</abs>\n\t"+"<emp>"+m.group(3)+"</emp>\n"+m.group(4)
+                    with open(p, 'w') as f:
+                        f.write(new)
+                        print(fn, "changed")
+                else:
+                    c += 1
+                    print("***WARNING, invalid ae-element detected:", fn)
+        print("ERRORS:", c)
+    # ------------------------------------------------------------------------------------------------------------------
 
     @staticmethod
     def subs(path):

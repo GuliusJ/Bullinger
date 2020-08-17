@@ -1,0 +1,1671 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.8)  10 AUG 2020 06:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**edierte_briefe.tex
+(./edierte_briefe.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
+phy)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
+aphy)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+Package babel Info: Making " an active character on input line 121.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen104
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks22
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count106
+\LTcapwidth=\dimen121
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count107
+\LT@rows=\count108
+\c@LT@tables=\count109
+\c@LT@chunks=\count110
+\LT@p@ftn=\toks23
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen122
+\lightrulewidth=\dimen123
+\cmidrulewidth=\dimen124
+\belowrulesep=\dimen125
+\belowbottomsep=\dimen126
+\aboverulesep=\dimen127
+\abovetopsep=\dimen128
+\cmidrulesep=\dimen129
+\cmidrulekern=\dimen130
+\defaultaddspace=\dimen131
+\@cmidla=\count111
+\@cmidlb=\count112
+\@aboverulesep=\dimen132
+\@belowrulesep=\dimen133
+\@thisruleclass=\count113
+\@lastruleclass=\count114
+\@thisrulewidth=\dimen134
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count115
+\Hy@pagecounter=\count116
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count117
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count118
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen136
+\Fld@menulength=\count119
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count120
+\c@Item=\count121
+\c@Hfootnote=\count122
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count123
+\c@bookmark@seq@number=\count124
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip50
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(./edierte_briefe.aux)
+\openout1 = `edierte_briefe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(56.9055pt, 731.23584pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 483.69687pt, 56.9055pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=731.23584pt
+* \textheight=483.69687pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box32
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen139
+\scratchbox=\box33
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen140
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks25
+)))
+Package hyperref Info: Link coloring ON on input line 22.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count131
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+
+(./edierte_briefe.out) (./edierte_briefe.out)
+\@outlinefile=\write3
+\openout3 = `edierte_briefe.out'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./edierte_briefe_data.tex
+Overfull \hbox (1.24223pt too wide) in alignment at lines 33--20
+ [] [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 20
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 20--40
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 40--60
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 60--80
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 80.
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Underfull \hbox (badness 5637) in paragraph at lines 99--99
+[]|\OT1/cmr/m/n/8 Leo Jud, Bul-lin-ger und Eras-mus
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 80--100
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 100--120
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 120.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 120.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 120.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 120.
+[2]
+Underfull \hbox (badness 5637) in paragraph at lines 136--136
+[]|\OT1/cmr/m/n/8 Leo Jud, Bul-lin-ger und Eras-mus
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 120--140
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 140--160
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 160--180
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 180.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 180.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 180.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 180.
+[3]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 180--200
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 200--220
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 220.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 220.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 220.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 220.
+[4]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 220--240
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 240--260
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 260--280
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 280.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 280.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 280.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 280.
+[5]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 280--300
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 300--320
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 320.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 320.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 320.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 320.
+[6]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 320--340
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 340--360
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 360.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 360.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 360.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 360.
+[7]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 360--380
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 380--400
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 400--420
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 420.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 420.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 420.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 420.
+[8]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 420--440
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 440--460
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 460.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 460.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 460.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 460.
+[9]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 460--480
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 480--500
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 500--520
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 520.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 520.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 520.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 520.
+[10]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 520--540
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 540--560
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 560.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 560.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 560.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 560.
+[11]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 560--580
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 580--600
+ [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 604--604
+[]|\OT1/cmr/m/n/8 Ambrosius Bla-rer, Jo-han-nes Zwick,
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 600--620
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 620.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 620.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 620.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 620.
+[12]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 620--640
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 640--660
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 660.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 660.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 660.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 660.
+[13]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 660--680
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 680--700
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 700--720
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 720.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 720.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 720.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 720.
+[14]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 720--740
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 740--760
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 760.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 760.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 760.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 760.
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 769--769
+[]|\OT1/cmr/m/n/8 [Oswald My-co-ni-us und Si-mon
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 760--780
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 780--800
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 800.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 800.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 800.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 800.
+[16]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 800--820
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 820--840
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 840--860
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 860.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 860.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 860.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 860.
+[17]
+Underfull \hbox (badness 3078) in paragraph at lines 866--866
+[]|\OT1/cmr/m/n/8 Bullinger, Theo-dor Bi-b-li-an-der und
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 878--878
+[]|\OT1/cmr/m/n/8 [den Ber-ner Rat bzw. durch Pe-ter
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 860--880
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 880--900
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 900.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 900.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 900.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 900.
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 911--911
+[]|\OT1/cmr/m/n/8 die in Ba-sel ver-sam-mel-ten eid-
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 913--913
+[]|\OT1/cmr/m/n/8 Bullinger, Theo-dor Bi-b-li-an-der, Leo
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 900--920
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 920--940
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 940.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 940.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 940.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 940.
+[19]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 940--960
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 960--980
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 980--1000
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1000.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1000.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1000.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1000.
+[20]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1000--1020
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1020--1040
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1040.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1040.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1040.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1040.
+[21]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1040--1060
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1060--1080
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1080.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1080.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1080.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1080.
+[22]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1080--1100
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1100--1120
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1120--1140
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1140.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1140.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1140.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1140.
+[23]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1140--1160
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1160--1180
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1180.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1180.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1180.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1180.
+[24]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1180--1200
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1200--1220
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1220--1240
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1240.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1240.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1240.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1240.
+[25]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1240--1260
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1260--1280
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1280.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1280.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1280.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1280.
+[26]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1280--1300
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1300--1320
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1320.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1320.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1320.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1320.
+[27]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1320--1340
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1340--1360
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1360--1380
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1380.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1380.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1380.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1380.
+[28]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1380--1400
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1400--1420
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1420.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1420.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1420.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1420.
+[29]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1420--1440
+ [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1448
+[]|\OT1/cmr/m/n/8 Diethelm Kel-ler im Na-men der
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1440--1460
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1460--1480
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1480.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1480.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1480.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1480.
+[30]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1480--1500
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1500--1520
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1520.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1520.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1520.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1520.
+[31]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1520--1540
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1540--1560
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1560.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1560.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1560.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1560.
+[32]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1560--1580
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1580--1600
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1600--1620
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1620.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1620.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1620.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1620.
+[33]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1620--1640
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1640--1660
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1660.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1660.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1660.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1660.
+[34]
+Underfull \hbox (badness 1057) in paragraph at lines 1671--1671
+[]|\OT1/cmr/m/n/8 Oswald Per-ge-ner, Lo-renz Neu-mann, C[]olestin
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 1672--1672
+[]|\OT1/cmr/m/n/8 Theodor Bi-b-li-an-der, Bul-lin-ger und
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 1673--1673
+[]|\OT1/cmr/m/n/8 B[]urgermeister Adel-berg Mey-er und
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1660--1680
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1680--1700
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1700.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1700.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1700.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1700.
+[35]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1700--1720
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1720--1740
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1740--1760
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1760.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1760.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1760.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1760.
+[36]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1760--1780
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1780--1800
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1800.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1800.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1800.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1800.
+[37]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1800--1820
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1820--1840
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1840--1860
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1860.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1860.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1860.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1860.
+[38]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1860--1880
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1880--1900
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1900.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1900.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1900.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1900.
+[39]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1900--1920
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1920--1940
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1940--1960
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1960.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1960.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1960.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1960.
+[40]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1960--1980
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 1980--2000
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2000.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2000.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2000.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2000.
+[41]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2000--2020
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2020--2040
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2040.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2040.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2040.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2040.
+[42]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2040--2060
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2060--2080
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2080--2100
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2100.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2100.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2100.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2100.
+[43]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2100--2120
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2120--2140
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2140.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2140.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2140.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2140.
+[44]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2140--2160
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2160--2180
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2180--2200
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2200.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2200.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2200.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2200.
+[45]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2200--2220
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2220--2240
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2240.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2240.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2240.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2240.
+[46]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2240--2260
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2260--2280
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2280.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2280.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2280.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2280.
+[47]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2280--2300
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2300--2320
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2320--2340
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2340.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2340.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2340.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2340.
+[48]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2340--2360
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2360--2380
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2380.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2380.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2380.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2380.
+[49]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2380--2400
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2400--2420
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2420--2440
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2440.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2440.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2440.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2440.
+[50]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2440--2460
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2460--2480
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2480.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2480.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2480.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2480.
+[51]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2480--2500
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2500--2520
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2520--2540
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2540.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2540.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2540.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2540.
+[52]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2540--2560
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2560--2580
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2580.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2580.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2580.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2580.
+[53]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2580--2600
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2600--2620
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2620--2640
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2640.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2640.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2640.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2640.
+[54]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2640--2660
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2660--2680
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2680.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2680.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2680.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2680.
+[55]
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2680--2700
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2700--2720
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2720--2740
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2740.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2740.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2740.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2740.
+[56])
+Overfull \hbox (1.24223pt too wide) in alignment at lines 2740--39
+ [] [] [] [] [] [] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 39.
+[57]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 43.
+ [58]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+ (./edierte_briefe.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+Package rerunfilecheck Info: File `edierte_briefe.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+ ) 
+Here is how much of TeX's memory you used:
+ 6926 strings out of 492649
+ 98504 string characters out of 6129623
+ 238477 words of memory out of 5000000
+ 10679 multiletter control sequences out of 15000+600000
+ 6412 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,13n,43p,317b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on edierte_briefe.pdf (58 pages, 178460 bytes).
+PDF statistics:
+ 343 PDF objects out of 1000 (max. 8388607)
+ 276 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

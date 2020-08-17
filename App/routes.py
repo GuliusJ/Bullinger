@@ -8,7 +8,7 @@
 
 from App import app, login_manager
 from App.forms import *
-from flask import render_template, flash, redirect, url_for, make_response, jsonify, request
+from flask import render_template, flash, redirect, url_for, make_response, jsonify, request, send_file
 from flask_login import current_user, login_user, login_required, logout_user
 from sqlalchemy import desc, func, asc, union_all, and_
 from Tools.BullingerDB import BullingerDB
@@ -1292,10 +1292,63 @@ def update_coordinates_places():
     return redirect(url_for('index'))
 
 
+import matplotlib.pyplot as plt
+import pandas as pd
 # Processing student transcriptions
 @app.route('/api/xyz', methods=['GET', 'POST'])
 def xyz():
 
+    df = pd.read_csv("Data/Diverses/tfch.txt", delimiter="\t")
+
+    with open("Data/Diverses/tfch.txt") as fi:
+        data = []
+        for line in fi: data.append([int(re.sub(r'\s+', '', n)) for n in line.split("\t")])
+
+        d_20 = [r[0] for r in data]
+        d_19 = [r[1] for r in data]
+        d_18 = [r[2] for r in data]
+        d_17 = [r[3] for r in data]
+        d_16 = [r[4] for r in data]
+        d_15 = [r[5] for r in data]
+
+        sd20 = sum(d_20)
+        sd19 = sum(d_19)
+        sd18 = sum(d_18)
+        sd17 = sum(d_17)
+        sd16 = sum(d_16)
+        sd15 = sum(d_15)
+        x = range(1, len(d_20)+1)
+
+        ds15_19 = [sum(line[1:])/len(line[1:]) for line in data]
+        ds15_20 = [sum(line[:]) / len(line[:]) for line in data]
+
+        plt.plot(x, ds15_20, color='black', linewidth=2, alpha=1, label="$\emptyset [15-20]$")
+        plt.plot(x, ds15_19, color='black', linewidth=2, alpha=1, linestyle=':', label="$\emptyset [15-19]$")
+
+        plt.plot(x, d_20, color='red', linewidth=0.5, alpha=0.8, label="2020")
+        plt.plot(x, d_19, color='blue', linewidth=0.5, alpha=0.8, label="2019")
+        plt.plot(x, d_18, color='green', linewidth=0.5, alpha=0.8, label="2018")
+        plt.plot(x, d_17, color='yellow', linewidth=0.5, alpha=0.8, label="2017")
+        plt.plot(x, d_16, color='purple', linewidth=0.5, alpha=0.8, label="2016")
+        plt.plot(x, d_15, color='orange', linewidth=0.5, alpha=0.8, label="2015")
+
+        plt.axvline(x=13, color='black', linewidth=3, label="Lock-down")
+        plt.axvline(x=28, color='black', linewidth=3)
+
+        plt.legend()
+
+        plt.title("Todesfälle in der Schweiz\nüber die ersten "+str(len(data))+" Kalenderwochen der Jahre 2015 bis 2020")
+        plt.xlabel('Kalenderwoche')
+        plt.ylabel('Tote')
+        plt.xlim(1, len(x))
+        #plt.ylim(3.8, 5.6)
+
+
+        plt.savefig("Data/Diverses/plot.png")
+        plt.close()
+
+
+    """
     with open("Data/ZB/Signaturen.txt") as fi:
         with open("Data/ZB/Signaturen.tex", 'w') as fo:
             for line in fi:
@@ -1310,7 +1363,6 @@ def xyz():
                 data[-1] = "\\href{http://130.60.24.72/assignment/"+data[-1]+"}{"+data[-1]+"}"
                 fo.write("\t&\t".join(data) + "\\\\\n")
 
-    """
     sq_file = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
     sq_auto = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
     sq_copy_a = BullingerDB.get_most_recent_only(db.session, Kopie).subquery()
@@ -1815,4 +1867,63 @@ def xyz():
     Transcriptions.count_all(path)
     """
 
+    return redirect(url_for('index'))
+
+
+@app.route("/api/download_file_campaign")
+def send_file_correction_campaign():
+    return send_file("App/static/docs/Korrekturkamgane.pdf", as_attachment=True)
+
+
+
+@app.route('/api/st', methods=['GET', 'POST'])
+def st():
+
+    for p in db.session.query(Person):
+        # print(p)
+        if p.name == "Bibliander": p.photo = "/static/images/Portraits_Corr/Bibliander.JPG"
+        if p.name == "Blarer": p.photo = "/static/images/Portraits_Corr/Blarer.JPG"
+        if p.name == "Fries": p.photo = "/static/images/Portraits_Corr/Fries.JPG"
+        if p.name == "Grynaeues": p.photo = "/static/images/Portraits_Corr/Grynaeues.JPG"
+        if p.name == "Gwalther": p.photo = "/static/images/Portraits_Corr/Gwalther.jpg"
+        if p.name == "Kilchmeyer": p.photo = "/static/images/Portraits_Corr/Kilchmeyer.jpg"
+        if p.name == "Myconius": p.photo = "/static/images/Portraits_Corr/Myconius.jpg"
+    db.session.commit()
+
+    path = "Data/Transkriptionen/Transkriptionen_XML_v2"
+
+    # Transcriptions.print_fishy_contexts(path, "sp", f_size=2)
+    # Transcriptions.print_contexts(path, "<spr>")
+
+    # Transcriptions.rename_elements(path)
+    # Transcriptions.validate_schema(path)
+
+
+
+    # Transcriptions.move_hw_elements(path)
+    # Transcriptions.is_well_formed(path)
+    # Transcriptions.split_abs_emp(path)
+    # Transcriptions.split_od(path)
+    # Transcriptions.place_corrections(path)
+    # Transcriptions.add_braces(path)
+    # Transcriptions.add_braces(path)
+    # Transcriptions.print_ort(path)
+    # Transcriptions.place_corrections(path)
+    # Transcriptions.print_ort_counts(path)
+    # Transcriptions.search(path)
+    # Transcriptions.analyze_xml(path)
+    # Transcriptions.analyze_xml_attr(path)
+    # Transcriptions.print_person_counts(path)
+    # Transcriptions.correct_persons_all(path)
+    # Transcriptions.correct_persons_3(path)
+    # Transcriptions.correct_persons_4(path)
+    # Transcriptions.process_braces_person(path)
+    # Transcriptions.print_persons(path)
+    # Transcriptions.change_person_and(path)
+    # Transcriptions.print_person_counts(path)
+    # Transcriptions.analyze_commata(path)
+    # Transcriptions.search_name(path, "Nachtrag")
+
+    # Transcriptions.change_date2(path)
+    # Transcriptions.change_adr(path)
     return redirect(url_for('index'))
