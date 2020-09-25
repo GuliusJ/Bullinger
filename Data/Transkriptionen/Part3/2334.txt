@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2334">
+<brief>
+<id>16022</id>
+<nr>2334</nr>
+<ae>Johann Werner Wiga an Bullinger</ae>
+<od>Rottweil, 24. Januar 1546</od>
+<vo>Autograph
+<fa><i>Mit starken Wasserflecken.</i></fa>: Zürich StA, E II 355, 115 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 34 (vgl. Anm. Simlers zum Namen, der im Original nur noch teilweise lesbar ist: "--ega"; Pfarrer in Rottweil war damals Werner Wiga/Weyga/Wyga/Wega, laut Auskünften (1983 und 2002) von Stadtarchivar Dr. Hecht in Rottweil; Xk davon bei Sven Fischers Abschriften). Laut Series parochorum, Heft XXXI, S. 23: Pfarrer in Rottweil "1545 Wige, Johann, resig." Dr. Winfried Hecht wird in einer Arbeit auf Wiga eingehen.</k></dr>
+<re>Wiga ist voller Dankbarkeit für den [Markuskommentar?], den Bullinger ihm aus eigenem Antrieb als nützliche Hilfe für die Ausübung seines Pfarramtes zukommen ließ, obwohl Wiga ihm zuvor keinen Dienst erwiesen hatte. Dabei verhielt sich Bullinger so, als ob ihm (wie jener berühmte "Grieche" [Erasmus von Rotterdam] sagte) eine Wohltat erwiesen wurde, wo er sie doch selbst erwies. Wiga wird seinen Dank demnächst noch deutlicher ausdrücken, sobald er die [versprochenen] Matthäus- und Lukaskommentare erhalten haben wird.</re>
+<text>
+<p>Gratia Christi domini nostri tecum, vigilantissime catolici gregis pastor.</p>
+<p>Quod in meo negotio
+<fn>Pfarrer Wiga wechselte 1545 von Breisach nach Rottweil; s. <a>HBBW</a> XV 446,37f mit Anm. 28. Bullinger wird ihm für seine Predigttätigkeit seinen im Herbst 1545 erschienenen Markuskommentar (<a>HBBibl</a> I 170; <a>BZD</a> C342) zugeschickt haben, wie dies unten Z. <qv>zl2334-1</qv> vermuten lassen. - Der vorliegende Brief ist der einzige erhaltene Brief zwischen Wiga und Bullinger.</fn> non admodum passus es te rogari, sed sponte tua tuum studium, operam et diligentiam et obtulisti et pr{e}stitisti,
+<fn>Der Brief Bullingers an Wiga ist nicht erhalten.</fn> novam in me, tibi antehac ignotum, tuam humanitatem lubens suscipio. Fecisti sane tu (quidem non meis meritis, quae hactenus erga te nulla sunt exhibita, sed tua dexteritate atque sedulitate)
+<fa><i>Klammern ergänzt.</i></fa> condignum, qui nullis a me beneficiis provocatus tam obsequenti in me fueris animo, ut beneficium (ut ille ait Gr{e}cus)
+<fn>Gemeint ist Erasmus von Rotterdam, aus dessen Werk "De conscribendis epistolis" der ganze vorliegende Satz beinahe wortwörtlich übernommen wurde (vgl. <i>Erasmus,</i> De conscribendis epistolis, ediert in: <a>ASD</a> I/2 550,28-31), ohne dass hier eine griechische Quelle nachweisbar wäre. Siehe ferner Erasmus an William Warham, 5. Juni 1524 (<a>Allen</a> V 472,61f): "ut beneficium accepisse videaris si quem beneficio iuveris", wobei Ähnliches sich bereits bei <i>Cicero,</i> Epistulae ad Atticum, 14, 13B, 2, findet: "ut non dare tibi beneficium viderer, sed accipere ...". - Erasmus wurde bisweilen "kleiner Grieche" (Graeculus) genannt und von Luther in seiner Übersetzung des Neuen Testaments wiederholt kurz als "Graecus" bezeichnet; s. Hermann <i>Dibbelt,</i> Hatte Luthers Verdeutschung des Neuen Testaments den griechischen Text zur Grundlage?, in: <a>ARG</a> 38, 1941, 313. Siehe ferner: Tagebuch über Dr. Martin Luther, geführt von Dr. Conrad Cordatus 1537, hg. v. H. Wrampelmeyer, Halle 1885, S. 283f, Nr. 1093 mit Anm. 1. Vgl. auch Victor Aimé <i>Huber,</i> Die englischen Universitäten. Eine Vorarbeit zur englischen Literaturgeschichte, Bd. 1, Kassel 1839, S. 416, Anm. *: "In Cambridge wurde Erasmus 'Graeculus iste' gescholten!" - Dasselbe Zitat auch schon in <a>HBBW</a> VI 208,15.</fn> accepisse videaris, quum pr{e}stiteris. <zzl>zl2334-1A</zzl>Quare, cum plurimum adiumenti meo ministerio, cui ego me indignum iudico, attuleris, pro illo et ago et habeo, ut meritus es, condignas gratias, atque maiores arbitrabere a me accepturum, quum reliquas tuas in Matth{e}um
+<fn>Bullingers Matthäuskommentar von 1542 (<a>HBBibl</a> I 144), der 1544 neu aufgelegt wurde (<a>HBBibl</a> I 146).</fn> et Lucam
+<fn>Bullingers Lukaskommentar, dessen Widmungsvorrede von August 1546 datiert (<a>HBBibl</a> I 173).</fn> propediem in opus simul ligatas lucubrationes ad me huc mitti curaris<zzl>zl2334-1E</zzl>. Effeceris, inquam, hoc uno, ut rebus omnibus modis in tuis me devinctissimum habiturus sis.</p>
+<p>Fac, ut valeas mente in Christo sana. Datum Rottwile, 24. ianuarii anno 46.</p>
+<un>Tuus charis-­</un>
+<un>simus Wernherus Wega, ecclesi{e}</un>
+<un>Rottwilensis parochus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dextra pietate ecclesiae Tygurinae gubernatori Heinricho Bullingero, suo amico primario ac semper colendo.</p>
+</text>
+</brief>

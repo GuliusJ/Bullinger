@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1228">
+<nr>1228</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>Johannes Travers</addressee>
+	<note fn=1>Johannes Travers, 1483-1563, von Zuoz, einem adeligen Geschlecht entstammend, erwarb sich früh eine hohe humanistische Bildung (1505 Immatrikulation in Leipzig).
+1515 nahm er an der Schlacht von Marignano teil, und in den Müsserkriegen führte er Bündner Truppen an. Er diente dem Oberengadin viele Jahre als Landschreiber und als Landammann und war zudem häufig als Gesandter an Tagsatzungen oder in diplomatischer Mission bei ausländischen Potentaten.
+Er stand mit Calvin, Glarean, Melanchthon u. a. in brieflicher Verbindung. Im Jahre 1539 setzte er sich - bestärkt durch den vorliegenden Brief Bullingers - kraftvoll für die Errichtung einer Lateinschule in Chur ein. Der auch literarisch tätige Travers suchte das Romanische zur Schriftsprache zu
+erheben.
+Den Reformideen gegenüber verhielt er sich vorerst distanziert, bekannte sich aber zu Beginn der fünfziger Jahren zur Reformation, förderte deren Durchführung im Oberengadin und predigte bisweilen selbst.
+Sein Widerstand gegen die Säkularisierung des Bistums Chur 1560 entfremdete ihn Bullinger, mit dem er einen freundschaftlichen Briefwechsel gepflegt hatte; 37 Briefe sind aus ihrer Korrespondenz erhalten geblieben. -
+Lit.: Constant ^#/+Wieser,^#/- Johann Travers 1483-1563, in: Bedeutende Bündner aus fünf Jahrhunderten, Bd. I, Chur 1970, S. 43-61; Graubünden, Korr. I LIII-LVI; Conradin ^#/+Bonorand,^#/- Personenkommentar II zum Vadianischen Briefwerk, St. Germain 1983. - Vadian-Studien, 11, S. 388; ^#/+ders.,^#/- Vadian
+und Graubünden. Aspekte der Personen- und Kommunikationsgeschichte im Zeitalter des Humanismus und der Reformation, Chur 1991. - Quellen und Forschungen zur Bündner Geschichte, 3, S. 121f; HBLS VII 38f.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>21. Februar 1539</date>
+</space_time>
+<vo>Abschrift von Petrus Dominicus Rosius a Porta<fx>^#/+Autograph verschollen; vgl. Oskar ^#/-Vasella,^#/+ Wo ist der Briefwechsel des Johann Travers?, in: Bündnerisches Monatsblatt 1942, Nr. 9, S. 261-264.^#/-<fe>: Chur StA, A Sp III/11a, VI. B. 7. 4, S. 332</vo>
+<re>Ermuntert Travers, Wissenschaft und Gelehrte zum Wohle von Staat und Kirche zu fördern, denn deren Geringschätzung zerstört die Gesetze, schwächt die Staatswesen und läßt die Kirchen zugrunde gehen. Die römische Kirche etwa konnte ihren Kult dank Schulen und Klöstern innerhalb von zwei
+Jahrhunderten im ganzen Westen durchsetzen; es müssen daher jetzt Schulen errichtet werden, um der wahren Religion und der Gerechtigkeit zum Durchbruch zu verhelfen. Bittet Travers, sich mit aller Kraft für deren Errichtung und Erhaltung einzusetzen. Läßt Anton Travers grüßen.
+</re>
+<tx>[Gedruckt: Petrus Dominicus Rosius ^#/+a Porta,^#/- Historia reformationis ec­clesiarum Raeticarum, Tomus I/1, Chur 1771, S. 193f; Graubünden, Korr. I 13f, Nr. 12; Übersetzung: Wilhelm ^#/+Jenny,^#/- Johannes Comander. Lebensgeschichte des Reformators der Stadt Chur, Bd. I, Zürich 1969, S. 281f.]
+</content>
+</letter>

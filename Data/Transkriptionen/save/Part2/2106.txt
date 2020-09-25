@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2106">
+<nr>2106</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Martin Borrhaus</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>14. März 1545</date>
+</space_time>
+<vo>Autograph: Basel UB, Fr. Gr. Ms II 9, Nr. 82 (Siegelspur); ^$^$^$^$autographe Abschrift, fortgeführt<fx>^#/+Bis^#/- quae ille ^#/+(einschließlich der Adresse als Überschrift) autograph; auf der Verso-Seite (ab^#/- contra inclytę ^#/+(Z. 4) wird die Abschrift von Josias Simler fortgeführt; s. oben Nr. 2096, Anm. a.^#/-<fe> von Josias Simler: ^$^$^$^$Zürich StA, E II 346, 145r.-v.<fx>^#/+Bloße Schreibvarianten werden im Apparat nicht verzeichnet.^#/-<fe></vo>
+<dr>Ungedruckt</dr>
+^&xKopien: Basel UB, G^#'2 I 18, 2, 20r.; Zürich ZB, Ms S 57, 4; Regest: Irena Backus, Borrhaus (Bibl. dissid. II) 74, Nr. 8^&x{
+<re>Bullinger schickt die ["Orthodoxa Tigurinae ecclesiae confessio"], die Luthers ["Kurtz bekentnis"] beantwortet. Borrhaus wird gesehen haben, wie Luther in seiner Schrift Johannes Oekolampad, Zwingli, die Zürcher und die [eidgenössischen] Kirchen der Ketzerei beschuldigt hat. Dies konnte nicht schweigend hingenommen werden, wenngleich [den Zürchern] die [innerprotestantischen] Streitigkeiten missfallen. Bullinger hofft, dass [den Baslern die Zürcher] Antwort nicht unmäßig erscheint, und bittet um etwaige Kritik. Diejenigen, die Borrhaus über die Sakramente gehört haben, loben ihn, weil er diesen nicht allzuviel Bedeutung beimisst.
+-^#. Bullinger möchte von Borrhaus als Freund angenommen werden.
+-^#. Grüße von Pellikan, Bibliander, Megander, Gwalther und von den Übrigen.</re>
+<tx>Gratiam et pacem a domino.
+^$Mitto tuae humanitati, vir clarissime, exemplum nostrae confessionis et responsionis<f1>Die "Orthodoxa Tigurinae ecclesiae confessio"; s. oben Nr. 2061, Anm. 9.<fe>
+editae contra condemnationem et calumnias Lutheri.
+Vidisti, opinor, quae ille contra inclytae Basiliensis ecclesiae fidelem pastoremd. Ioannem Oecolampadium,
+contra Zvinglium, contra Tigurinos et contra ecclesias, quibus ministramus, scripsit<fx>scripsit ^#/+in der Ausfertigung am Rande nachgetragen.<fe>,<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>
+quomodo vivos et mortuos innocentesque ecclesias infando haereseos crimine aspergat.
+Non potuimus nos ista omnia taciti dissimulare. Displicent quidem nobis non parum concertationes et rixae in ecclesia Christi.
+Verum salva sanctorum innocentia, incolumi veritate integrisque rebus nostris
+quomodo, quaeso, ad tam dira et atrocia nobis intentata crimina tacere potuimus?
+Lege, quaeso, si per negotia licet, quae respondimus. Videmur vobis non immodeste egisse.
+Caeterum, si quid peccatum videbitur, libenter a te, fratre nostro, audiemus.
+Speramus autem te nobis, imo veritati, si quando poscat necessitas, non defuturum.
+Nam qui te norunt et aliquando de sacramentis disserentem audierunt, laudarunt
+tuam integritatem, ut qui illis nimium non tribuas.
+^$Hac praeterea occasione cupio me in amicitiam et in album amicorum tuorum insinuare,
+ac oro, ut me tui studiosum, nisi indignus videar, pro amico velis agnoscere.
+Ego te amo et ita me geram, ne amicitiae pactae unquam poeniteat.<f1>Borrhaus geht in seiner Antwort (unten Nr. 2114) darauf nicht expressis verbis ein.<fe>
+^$Vale, vir doctissime. Salutant ted. Pellicanus, Bibliander, Megander, Gvaltherus et caeteri.
+^$Tiguri, 14. martii anno 1545.
+<un>H. Bullingerus
+<un>tuus.
+<lz>[Adresse auf der Rückseite:]<fx>^#/+In der Abschrift als Überschrift vorangestellt.^#/-<fe> Clarissimo virod. Martino Cellario, amico et fratri colendo. Basel.
+</content>
+</letter>

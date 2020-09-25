@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1400">
+<nr>1400</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>die übrigen Pfarrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>28. Mai 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 167 (Siegelspur)</vo>
+<vo>Kopien: Zürich ZB, Ms B 171, 30 (v. H. K. Füssli); Ms S 48, 45</vo>
+<dr>Ungedruckt</dr>
+<re>Unterstützt den durch Grynäus übermittelten Antrag [auf Entsendung einiger Gelehrter zum geplanten Religionsgespräch];
+daß die Eidgenossen an dieser Tagung vertreten sein sollten, meinen nicht nur die Straßburger, sondern auch Kurfürst [Johann Friedrich von Sachsen] und [der Landgraf von] Hessen.
+</re>
+<tx>S. Quęd. Grynęus scribit ex mandato<f1>Straßburg hatte Basel am 26. Mai mitgeteilt, Langraf Philipp von Hessen
+wünsche die Entsendung von Vadian, Amerbach, Grynäus und eventuell weiteren eidgenössischen Gelehrten nach Darmstadt zur
+Vorbereitung auf das geplante Religionsgespräch (s. ADRG I/2 825-827; PC III 59; eine Abschrift der Straßburger Missive in Zürich
+StA, E I 1. 3a). Die Delegierten sollten sich auf den 3. oder 4. Juni in Straßburg einfinden. Grynäus war offenbar (vom Basler
+Rat?) beauftragt worden, die Zürcher Theologen zur Teilnahme zu bewegen; sein Brief, der ohne Erfolg blieb, ist verloren. Vgl.
+auch das Schreiben Basels an Zürich, Bern, Schaffhausen und St. Germain vom 28. Mai (ADRG I/2 837).<fe>, per dominum communemque
+causam oro, ut vos moveant. Mihi videtur rem cessuram in magnum evangelii et patrię nostrę commodum. Non ignoro, quam odio
+habeatis conventus<f1>Vgl. z. B. HBBW VII 99, 12-28; VIII 59f, 30-32; IX 60f, 14-17. 31-34.<fe>. Verum quis non cedat necessitati?
+Imo et utilitati, quę procul dubio ex praesentia nominis Helvetici erit indicibilis. Et quantum erit in posterum, vos vel
+spectatores fuisse non solum negocii, sed etiam fratrum? Absentiam vestram non bene interpretaturi essent principes,
+civitates, docti. Adversaria vero pars ex eadem revera intumescet. Facite, per Christum oro, ne frustra vocemini,
+postquam consilium hoc non est Argentinensium solum, sed et electoris<f1>Kurfürst Johann Friedrich von Sachsen.<fe> et
+Hessi<f1>Landgraf Philipp von Hessen.<fe>. Dominus in consiliis sit vestris. Amen.
+^$Valete in Christo.
+^$Basileę, raptim, 28. maii anno 1540.
+<un>Os. Myconius
+<un>vester.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero cęterisque fratribus, ministris Christi, suis in
+domino. Z[ür]ich<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlußband geschrieben.^#/-<fe>.
+</content>
+</letter>

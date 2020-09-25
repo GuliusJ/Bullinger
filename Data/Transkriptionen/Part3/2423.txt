@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2423">
+<brief>
+<id>16002</id>
+<nr>2423</nr>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg, kurz nach 14. April oder 9. Mai 1546]
+<fn>Die Angabe unten Z. <qv>zl2423-1</qv> zu den niedrigen Lebensmittelpreisen in Zürich spricht für die Ansetzung des vorliegenden Briefes auf die Zeit vor Ausbruch des Schmalkaldischen Krieges, d.h. vor Juli 1546, zumal Blarer bereits am 2. Juli in Erwägung zog, die in Zürich studierenden Konstanzer wegen der dort vorherrschenden, allzu großen Teuerung nach Konstanz zurückzurufen (<a>Blarer BW</a> II 464). Da aber in Z. <qv>zl2423-1</qv> auch die niedrigen Preise in Augsburg angesprochen werden und Haller bereits in seinem Brief an Bullinger vom 31. Mai (<qv>nr2451</qv>) die hohen Fleischpreise in Augsburg bedauerte (s. <qv>nr2451</qv>,<qv>zl2451-1</qv>), wird vorliegender Brief spätestens auf Mai 1546 anzusetzen sein. Zoller, von dem im Brief die Rede ist und der seit März 1545 in Süddeutschland diente, verließ diese Gegend Ende April 1547, also noch während des Schmalkaldischen Krieges (s. Haller an Bullinger, 25. April 1547, Zürich StA, E II 370, 522), d.h. noch vor einer etwaigen Senkung der Lebensmittelpreise. Demzufolge ist vorliegender Brief zwischen März und Mai 1546 anzusetzen. Da nun Haller in seinen Briefen vom 23. März (<qv>nr2389</qv>) und vom 1. April (<qv>nr2406</qv>) über Zoller berichtete, wird vorliegendes Schreiben kaum diesen Briefen beigelegt worden sein, sondern vielmehr Hallers Briefen vom 14. April (<qv>nr2422</qv>) oder vom 9. Mai (<qv>nr2443</qv>), in denen Zoller nicht erwähnt wurde, wobei der erste dieser Briefe hier eher in Frage kommen würde, zumal der Kaiser sich damals noch nicht in Deutschland befand und die Deutschen die bedrohliche Lage noch nicht erkannt hatten.</fn></od>
+<vo>Autograph: Zürich StA, E II 370a, 566 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 22 (dat.: [Juli 1546])</k></dr>
+<re>[Hans Wilpert] Zoller fehlt es an Zeit, um an Bullinger oder an seine Mutter [Agnes, geb. Schmid] zu schreiben. Haller gibt ihm bisweilen brieflich Ratschläge, wie er sich verhalten soll. Vor einigen Tagen war [Sebastian] Schertlin [von Burtenbach] in Augsburg und lobte Zoller sehr. Haller mahnte diesen daraufhin [in einem Brief], trotz [Schertlins] Lob demütig und bescheiden zu bleiben.
+<t/>Angeblich sind die Lebensmittel in [Zürich] nicht teuer. In [Augsburg] sind die Preise sogar um über die Hälfte gesunken.</re>
+<text>
+<p>S. Si Zollerus
+<fn>Hans Wilpert Zoller.</fn> nec tibi nec matri
+<fn>Agnes, geb. Schmid; s. Carl ^#/+Keller-Escher,^#/- Promptuarium genealogicum, Bd. VII (Zürich ZB, Ms Z II 6a), S. 435.</fn> scribit, ignoscite. Non enim ei datur tempus. Ego ei subinde scribo et instituo eum, quomodo se gerere debeat. Laudat eum valde Schertlius
+<fn>Sebastian Schertlin von Burtenbach.</fn>, quem allocutus sum superioribus diebus, cum esset Augustae illius gratia. Moneo tamen eum
+<fn>Gemeint ist Zoller.</fn>, ne efferatur laudibus alienis, sed cum humilitate et modestia temperet fortitudinem.</p>
+<p>Vale iterum. <zzl>zl2423-1A</zzl>Audio annonam apud vos caram non esse. Idem fit apud nos
+<fa>nos <i>wurde in der Vorlage vergessen.</i></fa>; descendit precium ultra dimidiam partem.<zzl>zl2423-1E</zzl> Deo sit laus!</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] An m. Heinrych Bullinger zu Zürich, sinem insonders günstigen herren undt vatter.</p>
+</text>
+</brief>

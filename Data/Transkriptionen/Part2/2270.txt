@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2270">
+<nr>2270</nr>
+<correspondents>
+	<originator>Georg Frölich</originator>
+	<addressee>[Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>20. Oktober 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 168 (Siegelfragment)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 77 (und 70: Beilage zu 8. Oktober [so Simler] oder 20. Oktober [so Schieß]; diese beiden Briefe wuden gleichzeitig übersandt.) ^&x{
+<re>Wie [Bullinger] sieht, ist Frölichs Brief [Nr. 2264] schon lange geschrieben. Endlich konnte Frölich Bullingers Rede ["Quod nullo consilio dissidium religionis componi possit" vom 12. September 1545] lesen, die dieser gegen die Unterhändler in Religionsangelegenheiten verfasst hatte. Frölich stimmt völlig damit überein. Bullinger hat ihm großes Vertrauen entgegengebracht, indem er ihm das einzige Exemplar anvertraute. Da Frölich jetzt eine Abschrift davon besitzt, schickt er das Original zurück und bittet um Erlaubnis, die Rede unter Weglassung von Bullingers Namen ins Deutsche übersetzen und veröffentlichen zu dürfen.
+-^#. Im beiliegenden, durch einen eigenen Boten [...] überbrachten Schreiben bittet der [Augsburger] Rat den [Zürcher] Rat um einen rechtschaffenen und frommen Theologen. Die [Augsburger] hätten auch an Bullinger und an alle [Zürcher] Kirchendiener geschrieben, wenn sie nicht überzeugt wären, dass Frölich sich schon bei ihnen dafür eingesetzt hat. Die Kirche von Kaufbeuren bedarf der Konsolidierung; doch liegt den [Augsburgern] mehr daran, einen Mann aus Augsburg nach Kaufbeuren zu schicken, als denjenigen, der aus Zürich kommen wird.
+-^#. Bullinger soll mit diesem Boten zurückschreiben.
+-^#. [P.S.:] Über den Krieg mit dem Braunschweiger "Catilina" [Herzog Heinrich] weiß man nur, dass jener über mehr als 14'000 Mann verfügt, dass er das Territorium von Herzog [Ernst dem Bekenner] von Lüneburg und Gebiete anderer Fürsten sowie Braunschweig und Verden verwüstet und sein Herzogtum fast schon zurückerobert hat, mit Ausnahme der Festungen Wolfenbüttel und Schöningen. Herzog [Moritz] von Sachsen und Landgraf [Philipp von Hessen] sind dieser Tage im Begriff, ihn anzugreifen.
+-^#. [Beilage:] Bernardino [Ochino] aus Siena, der einige Zeit in Genf das Papsttum bekämpfte, kam nach Augsburg in der Absicht, sich dort niederzulassen. Die [Augsburger] werden ihn nicht fortschicken, obwohl er der deutschen Sprache nicht mächtig ist und somit kein öffentliches Kirchenamt übernehmen kann.</re>
+<tx>S. Literę meę<f1>Oben Nr. 2264 vom 8. Oktober.<fe> iam dudum, ut cernis, scriptę sunt. Hodie vero tandem potui
+orationem tuam contra compositores religionis<f1>Zu Bullingers Rede vom 12. September 1545 s. oben Nr. 2078, Anm. 23; 2256, Anm. 14; 2264, Anm. 29.<fe> legere, quę alioqui mihi per omnia
+a tua sententia stanti tantum peperit robur et firmamentum, ut conciliatores istos merito vitem,
+tibi vero pro tam diligenti et prudenti opera gratias agere imperituras<f1>gratias ... imperituras: unvergänglichen Dank.<fe> nunquam cessabo,
+pręsertim quod credideris mihi non solum unicum exemplar tuum manu tua exaratum,
+verum etiam fidei meę commiseris, ne ederem eam ipsam orationem.
+Fides ergo tibi in hoc et alias in universum perpetuo mihi servabitur, qui tanti es apud me atque bonos omnes, quanti nemo alter mortalium.
+Remitto tibi exemplar tuum, quod mihips[i]<fx>^#/+Textverlust durch Papierverlust.^#/-<fe><f1>= mihi ipsi.<fe> descripsi, orans, ut venia tua per me possit Germanice verti
+et sine vel adhibito nomine tuo in lucem ędi. Nihil tamen citra voluntatem tuam facturus sum, mentem tamen tuam intelligam.<f1>Zu einer etwaigen Veröffentlichung konnte nichts gefunden werden. Eine solche wäre als Gegenstück zu Bucers Schriften "Ein Christlich ongefährlich bedencken wie ein leidlicher anefang Christlicher vergleichung in der Religion zuͦ machen sein möchte" (s. oben Nr. 2128, Anm. 9), "Wie leicht unnd füglich Christliche vergleichung der Religion und des gantzen kirchendiensts Reformation bey unß Teutschen zuͦfinden und in das werck zuͦ bringen" (s. oben Nr. 2131, Anm. 35) und "Von den einigen rechten wegen und mitlen Deutsche nation inn christlicher religion zu vergleichen" (s. oben Nr. 2071, Anm. 26; 2221 und Anm. 10) zu verstehen bzw. verstanden worden. - Zu Bullingers Meinung über Bucers Einheitsbemühungen s. HBBW XIV 460, 38-40, und oben Nr. 2235, 31-33; 2246, 19f.<fe>
+^$Senatus noster hoc cum nunctio proprio<fx>proprio ^#/+über der Zeile nachgetragen.^#/-<fe> <f1>Unbekannt.<fe> scribit magistratui vestro<f1>Der auf Pergament geschriebene Brief des Augsburger Rats (Zürich StA, A 202/1, Nr. 6) datiert ebenfalls vom 20. Oktober 1545.<fe> enixe rogans,
+ut nobis ex vestra ecclesia theologus dexter et pius mittatur. Scripsisset quoque et tibi et toti coetui vestro ecclesiastico, nisi persuasum habuissent me diligenter ea de causa apud vos institisse<fx>^#/+In der Vorlage^#/- instisse.<fe>.
+Quapropter ego te atque totum collegium Tigurinum per Christum oro, ne preces nostras incassum labi sinatis.
+Kaufbeurensis ecclesia bene est instituta neque eget magna edificatione amplius, sed tantummodo conservatione;
+cui aliquem bonum virum preficere nostra maximi referret, quanquam pro personę ratione velimus agere.
+Nempe si quis ex vestro collegio nobis contingeret, mallemus ipsum Augustę retinere
+et Kauffbeurensibus aliquem ex nostris dare, quam idoneum et bonum virum ex Tigurina officina progressum alio legare.<f1>Die Augsburger waren damals bemüht, Kaufbeuren zu reformieren; s. ^#/+Litz,^#/- 236f. - Bullinger und Frölich werden wohl während ihres Treffens in Zürich die Möglichkeit erwogen haben, den gewünschten Zürcher Prediger nach Kaufbeuren zu schicken.<fe>
+^$Vale et cum hoc tabellario rescribe. Boni autem consule hanc nostram barbariem.
+20. octobris 1545. Properanter.
+<un>Tuus Georgius Lętus, etc.
+<lz>De bello cum Cathilina Brunsvicensi<f1>Mit dem Braunschweiger "Catilina" (Anspielung auf den skrupellosen römischen Verschwörer Lucius Sergius Catilina) ist Herzog Heinrich gemeint.<fe>, sacrificulorum capitaneo,
+nihildum certi habemus, quam quod ipse amplius 14 milia armatorum congregarit, agrum Lunenburgensis ducis<f1>Herzog Ernst der Bekenner.<fe>,
+civitatis Brunsvicensis<f1>Braunschweig.<fe>, Verdensis<f1>Verden an der Aller (Niedersachsen).<fe> et aliorum principum circumquaque late vastet.
+Ducatum suum recuperavit fere exceptis munitissimis arcibus Wolfenbeutl<f1>Wolfenbüttel.<fe> et Scheningen<f1>Schöningen (Lkr. Helmstedt, Niedersachsen).<fe>.
+Dux Saxonię<f1>Wohl Herzog Moritz von Sachsen; s. oben Nr. 2266.<fe> et langrafius<f1>Landgraf Philipp von Hessen.<fe> fortibus copiis eum his diebus aggressuri sunt.
+Dominus concedat victoriam nomen suum venerantibus.
+<lz>[Ohne Adresse.]<f1>Weil vorliegender Brief gleichzeitig in bzw. mit dem Brief vom 8. Oktober (Nr. 2264) übersandt wurde (s. oben Z. 1). Beide Briefe wurden durch den Augsburger Boten und mit dem für den Zürcher Rat bestimmten Brief (s. oben Anm. 7) nach Zürich befördert, wo sie kaum vor dem 24. Oktober eintrafen; s. oben Nr. 2264, Anm. 36; unten Nr. 2272 und Anm. 34.<fe>
+<lz>[Beilage:]<fx>^#/+Ein heute auf f. 168v. aufgeklebter Zettel. In Anbetracht der noch sichtbaren Faltung und des nachlässigen Stils scheint die Nachricht auf diesem Zettel zusammen mit dem vorliegenden Brief vom 20. Oktober verfasst worden zu sein, zumal dieser flüchtiger als derjenige vom 8. Oktober geschrieben wurde.^#/-<fe>
+De Bernhartino Senensi<f1>Bernardino Ochino.<fe>, qui aliquot annos Genephę<f1>Genf.<fe> Christum predicavit et papatum viriliter expungnavit,
+vir et doctrina et vita venerabilis, iam Augustam venit eius animi, ut sedem sibi hic firmam faciat.
+Nos etiam virum hunc non dimittemus, quamquam propter Germane linguę imperitiam non poterit publica onera ecclesie<fx>^#/+In der Vorlage^#/- ecclese.<fe> ferre.<f1>Zu Ochinos Wirken als Prediger "für die Welschen" in Augsburg bis 1548 s. ^#/+Roth^#/- III 241-244. 472f; Karl ^#/+Benrath,^#/- Bernardino Ochino von Siena. Ein Beitrag zur Geschichte der Reformation, Braunschweig ^#'21892, S. 158-172; ^#/+Pfarrerbuch Bayerisch-Schwaben^#/- 291.<fe> Vale.
+</content>
+</letter>

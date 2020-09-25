@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="21189">
+<nr>21189</nr>
+<correspondents>
+	<originator>Pier Paolo Vergerio</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date>(6. August 1551.)</date>
+	<note><f1>Briefbeilage<fe></note>
+</space_time>
+<vo>Zürich StA, E II 356, 720b.</vo>
+<dr>Gr. I, S. 209.</dr>
+<re></re>
+<note></note>
+Orig. Aut.
+Scripta iam epistola audivid. Halerum venisse ad vos.
+Itaque te diligentissime oro, Bullinghere, ut illi meam
+causam apud dominos Bernenses de meliore nota commendes, tum
+etiam ut illi des commendatitias ferendas. Expectabo ego
+illum Bernae neque eo absente quicquam agere in animo habeo,
+quem salvere iubeo.  Vale et salve.
+Vergerius.
+[Adresse fehlt.]
+</content>
+</letter>

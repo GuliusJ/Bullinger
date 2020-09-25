@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1576">
+<nr>1576</nr>
+<correspondents>
+	<originator fn=1>Johannes Regel</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Über Johannes Regel ist weiter nichts bekannt. Ein "Joh. Regelin de Memmingen" studierte ab 1511 in Köln, ein "Ioannes Regel de Pfaffenhofen" wurde 1535 in Wien immatrikuliert (s. Köln, Matrikel III 681, Nr. 491, 6, bzw.
+Wien, Matrikel III 54, I R 12); über ihre eventuelle Identität mit dem Briefschreiber lässt sich allerdings nichts feststellen.</note>
+</correspondents>
+<space_time>
+	<place>Memmingen</place>
+	<date>6. Oktober 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 218f (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Sein Verwandter Bartholomäus Bertlin und andere haben ihm so viel Gutes über Bullinger erzählt, dass er schon länger gerne
+mit ihm in Verbindung getreten wäre; hat auf Wunsch von Bürgern und Rat einen Traktat über die Pest geschrieben, den er aus den
+griechischen Autoren ausgezogen und an die Verhältnisse in Deutschland angepasst hat, und möchte diesen in Zürich drucken
+lassen; bittet Bullinger, die Drucker zu fragen, ob dies kurzfristig möglich ist.
+</re>
+<tx>S[alutem] p[lurimam] d[ico].
+^$Ex multorum delatione, cum superiori anno me domum receperam, et pręsertimd. Barptholomei Bertlin, sanguine con­iuncti mei<f1>Zur Verwandtschaft zwischen Regel und Bartholomäus Bertlin ist
+nichts Näheres bekannt.<fe> parochique ec­clesiae Abusiacensis<f1>Abusiacum: Füssen im Allgäu (s. Johann Jacob
+^#/+Hofmann,^#/- Lexicon universale, Bd. I, Leiden 1698, S. 24).<fe>, honestissima tui mentione accepi te haud minori morum
+elegantia ac humanitate pręditum quam scripta tua pre se ferunt, quae praeter eruditionem tuam, qua omniiuga<f1>umfassend
+(s. René ^#/+Hoven,^#/- Lexique de la prose latine de la renaissance, Leiden 1994, S. 241).<fe> dotatus, te summe moderatum et miram ingenii suavitatem depingunt.
+Summopere ob id occasionem scribendi ad te saepius optabam
+mihi, ut aliqua tecum familiaritas mihi intercideret, cum a
+teneris semper mihi doctrina praestantes et colendos et
+amplectendos duxerim. Sed nescio quid obstiterit, quo votis
+meis hactenus minus responderim, cum saepius id me facturum
+apud familiares tui pollicebar. Et tandem mihi aliquam
+significandi meam in te voluntatem ansam oblatam esse
+gratulor, cum hac tempestate<fx>^#/+Nach^#/- tempestate ^#/+gestrichenes^#/- me necessitas cogat.<fe><f1>Regel spielt
+auf die Pestepidemie des Jahres 1541 an.<fe> tractatum quendam, ut tuo maxime acuto iuditio in lucem prodeat, cupiam. Etsi autem
+animus semper alienus in hoc foelicissimo seculo
+clarissimorum virorum apud musas meas referto, qui nihil non
+quam ingeniosissima quęque ex vetustissima Hippocratica
+simul et Galenica arte<fx>arte ^#/+über der Zeile nachgetragen.^#/-<fe> deprompta excudunt, tamen amor
+concivium et senatus nostri assidua impulsio, ut adversus hanc luem pestiferam veram et certam tuendi et medendi<fx>^#/+Vor^#/- medendi ^#/+gestrichenes^#/- praeservandi.<fe>
+methodum prescriberem, me eo duxere, ut extra omnem pietatis
+charitatisque tenorem esse putarem, si his non morem
+gererem. Conscripsi itaque tractatum de peste ex Grecorum
+maxime antiquorum sententia, in quo methodum tuendi, quo
+pacto quisque se iuxta suam temperiem precaveri debeat
+quidque in dies cuique faciundum, ut dispositionem corporis
+salubrem conservaret, et curandi, quo modo etiam citissime
+ac commodissime sit abigendus et profligandus, cum
+probatissimis Grecorum veterum antidotis, quae maxime ad
+nostram regionem Germanicam ac temperamenta nostra
+attemperavi, complexus sim. Hunc apud tuos calchotypos
+diligentissimos edendum cupio. Ac si tui hisce in brevi
+effectum dare possent, id mihi ac senatui gratissimum esset.<f1>Zu einer Drucklegung von Regels Pestschrift scheint es
+weder in Zürich noch andernorts gekommen zu sein.<fe> <vl>219</vl>
+Haec, doctissime Henrice, humanitati tuae significanda esse
+censui, quo me tibi cognitum redderem, deinde ut labor meus,
+quem ad communem reipublicae usum destinavi, foelicius apud
+tuos excuderetur. Reliquum est tantum, ut mei gratia
+typographos convenias, an conatui meo in brevi satisfacere
+pos­sint, quem necessitas huius tempestatis summe requirit.
+Deinceps, ut de eius sententia me vicissim certiorem reddas,
+haud dedignaris.
+^$Vale foeliciter, charissime vir.
+^$Datę Memingae<fx>^#/+In der Vorlage^#/- Meningae.<fe>, pridie nonas octobris anno 1541.
+<un>Tuus ex animo Ioannes Regell,
+<un>medicusphysicus Memingensis.
+<lz>[Adresse darunter:] Clarissimo et
+undecunque doctissimo virod. Henrycho Bullingero, ecclesiae
+Tigurinae antisteti[!], domino suo ut plurimum colendo ac
+patrono. Doctor Heinrich Bullinger, predicanten zu Zurich.
+Zyrch.
+</content>
+</letter>

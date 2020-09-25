@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1784">
+<nr>1784</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Travers</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>14. September 1543</date>
+</space_time>
+<vo>Abschrift von Petrus Dominicus Rosius a Porta<fx>^#/+Das Original ist verschollen. A Portas Abschrift datiert vom Jahr 1767.^#/-<fe>: Chur StA, A Sp III/11a, VI. B. 7. 4, S. 336, Nr. 7</vo>
+<re>Konnte auf Travers' Anfrage hin [Nr. 1768] keinen einzelnen Kostgeber für alle vier Jungen finden, dafür aber zwei, die jeweils zwei von ihnen aufnehmen wollen; es handelt sich dabei um Otto Werdmüller, der somit insgesamt sechs Kostgänger beherbergen wird, und um den Schulmeister Benedikt Euander; die Kosten belaufen sich auf 25 oder 26 Gulden, wobei ein Gulden in Zürich dem Wert von 15 Konstanzer Batzen entspricht und jedes halbe Jahr die Hälfte des Betrags fällig wird. Über den Unterricht, die Erziehung und die Verpflegung braucht sich Travers keine Sorgen zu machen, denn Bullinger wird sich der Jungen annehmen, und sowohl Euander als auch Werdmüller stehen ihm sehr nahe. Zum Krieg in Belgien hat Bullinger keine sicheren Nachrichten, es geht aber das Gerücht um, dass Kaiser [Karl V.] die Stadt Düren unter großen Verlusten eingenommen habe; wenn genauere Nachrichten von der Frankfurter Messe eintreffen, wird er diese Travers mitteilen. Falls eine große Teuerung eintreten sollte, vertrauen [die beiden Kostgeber Werdmüller und Euander] darauf, dass Travers nicht sie zu Schaden kommen lässt.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 53f, Nr. 40.]
+</content>
+</letter>

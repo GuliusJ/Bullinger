@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2402">
+<brief>
+<id>16091</id>
+<nr>2402</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>[Basel], 31. März 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 206 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 12</k></dr>
+<re>Für das [Buch]geschenk ["De providentia sermones X" von Theodoret] wird Gast sich bei passender Gelegenheit revanchieren. Er selbst kann jetzt keine Bücher schicken, da es nur wenige Neuerscheinungen gibt und der Bote [...] zur Eile drängt.
+<t/>Kaiser [Karl V.] war in Speyer und ist auf dem Weg nach Regensburg, um den Reichstag der Protestanten zu behindern. Vom Hofe des Grafen [Wolfgang] von Pfalz-Zweibrücken schrieb jemand [...]: [Karl V.] habe sich aus den Niederlanden verabschiedet, wolle in drei Monaten in Spanien sein und [erst] in drei Jahren [in das Reich] zurückkehren, wenn sich die Lage in Deutschland gebessert habe.
+<t/>[In Basel], aber auch überall im Elsass und an anderen Orten, wütet ein Fieber. Gast fürchtet, dass darauf die Pest folgt. Viele leiden bis zu zwanzig Tage lang an diesem Fieber und sterben darauf.
+<t/>Gilbert [Cousin] kümmert sich um eine Angelegenheit seines Bruders [Hugo d.Ä.?] bei [Nicolas Perrenot?] de Granvelle und ist selten zu Hause. Gast wartet auf einen Brief von ihm. Er weiß nicht, ob Bullinger den [von Jodocus Willich verfassten] Kommentar zu dem Propheten Haggai erhalten hat.
+<t/>Grüße an [Konrad] Pellikan und an Theodor [Bibliander].
+<t/>Gast wird das zusammengerollte Leder mit [dem Boethius-Druck], um das Bullinger bat, in wenigen Tagen schicken, wenn er einen Boten gefunden hat.</re>
+<text>
+<p>S. Gratissimum donum misisti,
+<fn>Wohl die griechisch-lateinische Ausgabe der Schrift "De providentia sermones X" von Theodoret; vgl. <qv>nr2397</qv>,<qv>zl2397-1</qv>.</fn> signum candidi erga me animi. Rependam data occasione. Libros nullos remittere nunc temporis possum; pauci enim absoluti sunt, et
+<fa>et <i>über der Zeile nachgetragen.</i></fa> tabellio
+<fn>Unbekannt.</fn> properat.</p>
+<p>Novi nihil habeo, quod te lateat. Caesar Spir{e} fuit
+<fn>Karl V. hatte sich vom 24. bis zum 30. März 1546 in Speyer aufgehalten; s. <a>Stälin</a> 579.</fn> ac contendit Ratisbonam impediturus comitia protestantium.
+<fn>Der Kaiser traf am 10. April 1546 in Regensburg ein; s. <qv>nr2331</qv>, <qv>fn2331-2</qv>.</fn> Quidam
+<fn>Unbekannt.</fn> ex aula principis von Zweyprück
+<fn>Graf Wolfgang von Pfalz-Zweibrücken.</fn> ita scripsit: Der keyser hat valediciert
+<fn>Lebewohl gesagt.</fn> den niderlendischen herren und stetten, dann er wölle in 3 monaten in Hispanien sein,
+<fn>Karl V. begab sich erst 1556 nach Spanien; vgl. schon <qv>nr2372</qv>,<qv>zl2372-5</qv>.</fn> aber in 3 jaren, so im got das leben gebe, welle er widerumb kommen. So hoffe er, es werde baß
+<fn>besser.</fn> im teutscher nation stan. H{e}c ille.</p>
+<p><zzl>zl2402-1A</zzl>Ardentissima febri affligimur
+<fn>Siehe schon <qv>nr2394</qv>,<qv>zl2394-2</qv>.</fn>; et robustissimos prostrat et interficit. Timeo pestem subsecuturam. Neque solum apud nos h{e}c calamitas regnat, sed passim in Alsatia et aliis locis fere crudelius aufert, quemcunque invaserit. Aegrotant multi ad 20. diem et demum moriuntur. Dominus mitiget illam p{e}nam, qua etiam indigi sumus ob multiplicia scelera.<zzl>zl2402-1E</zzl></p>
+<p>De Gilberto
+<fn>Gilbert Cousin.</fn> nostro nihil omnino audio. Agit negotium fratris
+<fn>Vielleicht Hugo Cousin d.Ä., der Fourier des Kaisers war. Zu ihm s. <a>AK</a> X/2 520f.</fn> apud d. Granvilum
+<fn>Wohl Nicolas und nicht Antoine de Perrenot, Herr von Granvelle.</fn> et raro domi
+<fn>Nozeroy.</fn> est; sed expecto indies suas literas.</p>
+<p>Vale. Ultima martii 1546. Salutabis nomine meo d. Pellicanum et Theodorum nostrum
+<fn>Theodor Bibliander.</fn>.</p>
+<p>Nescio, an receperis annotationes in Hagg{e}um prophetam.
+<fn>Jodocus <i>Willich,</i> In Haggaeum prophetam doctissima commentaria, Basel, Bartholomäus Westheimer, 1546 (<a>VD16</a> ZV1803), mit einer an Johannes Gast gerichteten Vorrede. In Zürich ZB ist ein Exemplar vorhanden (Signatur: E 362/2).</fn> Rescribe.
+<fa><i>Von</i> Nescio <i>bis</i> Rescribe <i>am Rande nachgetragen.</i></fa> Corium obvolutum cum libro mittam, quem nuper petiisti,
+<fn>Wohl die Boethius-Ausgabe; s. dazu <qv>nr2394</qv>,<qv>zl2394-1</qv>.</fn> paucos post dies, quum incidero in tabellarium.</p>
+<un>Tuus Gastius</un>
+<un>ex animo.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An herren Meyster Heinrychen Bullinger, luttpriesternn zu Zurich, mynen lieben günstigen herren. Zurich.</p>
+</text>
+</brief>

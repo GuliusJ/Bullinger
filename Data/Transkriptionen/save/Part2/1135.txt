@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1135">
+<nr>1135</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>4. Juni 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 86 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Will ihm wenigstens diesen kurzen Brief schreiben und bittet ihn um Verständnis dafür, daß ihn [die Zürcher] bei seinem
+Besuch nicht freundlicher empfangen haben; versichert ihm, daß ihre Verbindung durch die erzielte Einigung gestärkt worden ist,
+und sendet ihm das versprochene Buch ["De scripturae sanctae authoritate", HBBibl I 111]. Empfiehlt die Briefüberbringer.
+</re>
+<tx>Gratiam et pacem.
+^$Festinantius hi<f1>Die jugendlichen Briefüberbringer (vgl. unten Z. 11f) sind nicht bekannt.<fe> abierunt quam voluerim,
+Myconi in domino colende, attamen hec ad te paucula pro multis dare volui. Primum, tametsi parum aut nihil humanitatis tibi
+exhibuerimus, cum apud nos esses<f1>Nämlich anläßlich der Tagung vom 28. April bis 3. Mai (s. oben Nr. 1128, Anm. 1).<fe>, id tamen
+non ita interpretaberis, quasi minus amemus quam antea. Amamus enim te in ve­ritate. Tu aliquid dabis occupationibus et curis
+nostris. Deinde de me nolo tibi minus pollicearis quam antea.
+Si causa ipsa videtur nos nonnihil dissotiasse[!], consensus
+tamen, in quo omnibus convenit, arctissimo nexu nos veluti
+de novo conglutinavit. Valeant ergo suspitiones. Postremo,
+quod pollicitus sum, hic mitto, duos libros regi Angliae
+inscriptos<f1>"De scripturae sanctae authoritate ... ad sereniss. Angliae regem Heinrychum VIII. Heinrychi Bullingeri
+libri duo", Zürich 1538 (HBBibl I 111). Das Myconius gewidmete Exemplar befindet sich heute in: Yale University, Beinecke Rare Book and Manuscript Library (Rosenthal 23).<fe>.
+Hos ceu amicitiae symbolum mitto, et te plurimum opto
+valere. Adulescentes hos habe, obsecro, commendatos.
+^$Tiguri, 4. iunii 1538.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Osvaldo Myconio, domino et fratri suo colendissimo.
+</content>
+</letter>

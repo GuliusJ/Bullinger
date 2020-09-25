@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2835">
+<brief>
+<id>17102</id>
+<nr>2835</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1547-03-04"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 4. März 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 167 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 943, Nr. 1059<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 131</k></dr>
+<re><t>Gut, dass es Myconius wieder besser geht! Der Herr möge ihn noch lange seiner Kirche erhalten. Ihr soll er sich völlig widmen!</t>
+<t>Die Zürcher Gesandten [Johannes Haab und Itelhans Thumysen], die noch auf der Badener Tagsatzung sind, haben keine Nachricht übermittelt. Bullinger hat also nichts über den von Myconius erwähnten Brief des Kaisers Karl V. gehört.</t>
+<t>Straßburg wird kaum unter anderen Bedingungen begnadigt werden als die anderen Städte, die vom Kaiser mit schönen Versprechungen benebelt wurden. Am Ende wird man sehen, von wem [diese Versprechungen ausgingen]!</t>
+<t>Großartige Dinge werden über Augsburgs Begnadigung berichtet. Von glaubwürdigen Leuten aber ist zu vernehmen, dass die Stadt übel getäuscht wurde. Am 21. Februar musste sie sechs kaiserliche Fähnlein aufnehmen. Sechs weitere sollen folgen. Bald wird man sehen, was dieser Abschaum sich getraut, sobald er sich überlegen fühlt!</t>
+<t>Ulm und die anderen armseligen Städte sind schon ein gutes Beispiel dafür. Warum mussten diese sich ergeben, fremde Besatzungen aufnehmen und ihre Freiheit preisgeben? Bestimmt bestraft Gott so die nicht bußfähigen Menschen für ihre Undankbarkeit.</t>
+<t>Der Kaiser wird die Stadt Straßburg nur dann begnadigen, wenn sie Truppen aufnimmt. Er will nämlich in den wichtigsten deutschen Städten seinen Sieg wie auch die Unterwerfung Deutschlands zur Schau stellen.</t>
+<t>Möge Kurfürst Johann Friedrich von Sachsen siegen! Vermutlich aber wird auch er von seinen Verbündeten im Stich gelassen, es sei denn, dass Gott doch noch eingreift. Im Hegau erzählen nämlich Landsknechte, die verwundet aus einer verlorenen Schlacht zurückgekehrt sind, dass der Kurfürst gesiegt habe und etwa 3'000 Kaiserliche gefallen seien. Karl V. soll Ulm am 26. Februar verlassen haben und gegen den Kurfürsten ziehen.</t>
+<t>Myconius' Beurteilung von Kaiser und Papst [Paul III.] ist zutreffend. Beide vertuschen nur ihre Kungeleien, um die Menschen besser an der Nase herumzuführen. Umso wichtiger ist es, das Evangelium Christi, des wahren Priesters und treuen Königs, der bald alle richten wird, weiter zu verkündigen! Gruß, auch an die Kollegen. Geschrieben gegen neun Uhr vormittags.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17102-2A</zzl>Gratulor tibi, honorande mi Myconi, ob recuperatam sanitatem tuam,
+<fn>Bezug auf <qv>nr2833</qv>,<qv>zl17100-3</qv>.</fn> quam dominus velit esse diuturnam, ut diu utilis esse pergas ecclesiae suae; quo etiam omnia tua studia convertas!<zzl>zl17102-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17102-3A</zzl>A comitiis Badensibus
+<fn>Die am 28. Februar begonnene Badener Tagsatzung; s. <qv>nr2817</qv>, <qv>fn17084-1</qv>.</fn> ne hac quidem hora quicquam certi habemus. Legati enim nostri
+<fn>Johannes Haab und Itelhans Thumysen; s. <a>EA</a> IV/1d 771, Nr. 350 (Vorspann).</fn> nec redierunt nec literam ulla de re scripserunt.<zzl>zl17102-3E</zzl> <zzl>zl17102-1A</zzl>Nihil ergo vel de literis caesaris
+<fn>Karl V.</fn>, quibus de tu scribis,<zzl>zl17102-1E</zzl>
+<fn>Nämlich in <qv>nr2833</qv>,<qv>zl17100-4</qv>.</fn> vel de ullis aliis rebus scribere possum.</p>
+</div>
+<div>
+<p><zzl>zl17102-4A</zzl>Argentinam
+<fn>In Bezug auf <qv>nr2833</qv>,<qv>zl17100-5</qv>.</fn> vix aliis recipiet in gratiam conditionibus caesar quam alias urbes, quas mellitis verbis et nimbo quodam promissionum occaecat; in fine videbitur cuius.<zzl>zl17102-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17102-5A</zzl>Splendida dicta sunt de Augusta recepta.
+<fn>Zur Unterwerfung Augsburgs s. <qv>nr2769</qv>, <qv>fn17037-3</qv>.</fn> Ego ex fide dignis hominibus intelligo miseris turpiter esse impositum blandiloquentia. 21. februarii
+<fa><i>Am Rande nachgetragen.</i></fa> recepta sunt 6 signa caesaris in urbem. Aiunt adhuc 6 expectari.
+<fn>Bullinger bezieht sich hier auf Hallers Mitteilung vom 21. Februar; s. <qv>nr2821</qv>,<qv>zl17087-10</qv>. <qv>zl17087-35</qv>.</fn> Ubi superiorem se numero et viribus putaverit, videbis, quid ista hominum fex tentatura sit.<zzl>zl17102-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17102-6A</zzl>Ulma et reliquae miser{e} urbes
+<fn>Zu den Städten, die sich dem Kaiser ergeben hatten, s. <qv>nr2734</qv>, <qv>fn17003-1</qv>; <qv>nr2741</qv>, <qv>fn17010-2</qv>; <qv>nr2743</qv>, <qv>fn17012-7</qv>; <qv>nr2746</qv>, <qv>fn17015-2</qv>.</fn> exemplum praebent. Was d{oe}rffend sich
+<fn>Was d{oe}rffend sich: Warum mussten sich.</fn> die barmhertzigen
+<fn>erbärmlichen.</fn> lüt also uffzeg{ae}ben? Was n{ae}mend sy das tüfelvolck
+<fn>Damit sind die kaiserlichen Söldner gemeint.</fn> hinyn? Was behaltend sy ir stett nitt unbefleckt und unbeherrschet
+<fn>selbstständig.</fn>? Sed haec est manus domini
+<fn>Vgl. z.B. 1Sam 5, 11.</fn> percutientis nos propter ingratitudinem nostram et vitam poenitere nesciam.<zzl>zl17102-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17102-7A</zzl>Non reconciliabitur caesar Argentinae, nisi signis aliquot in urbem receptis.
+<fn>Den Straßburgern blieb jedoch eine Besatzung durch kaiserliche Truppen erspart; s. <qv>nr2822</qv>, <qv>fn17088-7</qv>.<zfn>fn17102-2</zfn></fn> Ita enim vult ubique et in omnibus potentissimis maxime Germaniae urbibus signa luculenta extare et relucere suae victoriae et deditionis Germanorum turpissimae.<zzl>zl17102-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17102-8A</zzl>Utinam vincat Saxo
+<fn>Johann Friedrich I. von Sachsen.</fn> ad gloriam nominis dei et consolationem afflictorum! Metuo tamen illum quoque suo tempore deserendum a sotiis
+<fn>= sociis.</fn>. Sed aliud forte visum est domino. In Hegavia
+<fn>Hegau. - Diese Meldung geht vermutlich auf das gleiche Gerücht zurück, das auch Myconius und Johannes Gast meldeten; vgl. <qv>nr2832</qv>,<qv>zl17099-2</qv>; <qv>nr2833</qv>,<qv>zl17100-1</qv>.<zfn>fn17102-3</zfn></fn> audio spargi a militibus e pugna infelici cruentatis capitibus redeuntibus vicisse Saxonem et caesareanorum occubuisse ad 3'000. Verumne an falsum dicatur, ignoro et dubito.<zzl>zl17102-8E</zzl> <zzl>zl17102-9A</zzl>Aiunt caesarem 26. februarii movisse ab Ulma contra Saxonem.
+<fn>Der Kaiser verließ Ulm erst am 4. März; s. <qv>nr2734</qv>, <qv>fn17003-1</qv>; <qv>nr2754</qv>, <qv>fn17022-3</qv>. - Eine Zeitlang meinte man aber, dass er Ulm schon am 26. Februar verlassen würde; s. <a>PC</a> IV/1 614.<zfn>fn17102-1</zfn></fn><zzl>zl17102-9E</zzl></p>
+</div>
+<div>
+<p><vl>v.</vl> <zzl>zl17102-10A</zzl>Recte iudicas de concordia et discordia caesaris et papae
+<fn>Paul III. - Vgl. <qv>nr2833</qv>,<qv>zl17100-2</qv>.</fn>. Ego arbitror saepiae esse atrorem
+<fn>die Schwärze (s. <a>Kirsch</a> 296) der Tinte des Tintenfisches (um die Leute besser verblenden zu können).</fn>. Es ist b{uo}bery
+<fn>schändliches Treiben; s. <a>SI</a> IV 946.</fn>, damitt die lüt umbgand
+<fn>damitt die lüt umbgand: womit diese Leute [hier: Kaiser und Papst] irreführen.</fn>. Trüw inen
+<fn>Es traue ihnen.</fn> ja frylich der tüfel! Quin potius annunciemus nos regnum dei et salutiferum evangelium filii dei, pontificis et regis nostri,
+<fn>Gemeint ist Christus; vgl. Hebr 4, 14; 7, 1f. 21f; 8, 1; 10, 21.</fn> qui syncere agit, neminem fallit et mox venturus est in iustitia, iudicaturus vivos et mortuos.
+<fn>Vgl. Ps 96 (Vulg. 95), 13; 98 (Vulg. 97), 9; 2Tim 4, 1; 1Petr 4, 5.</fn> Huic placere in omnibus satagamus!<zzl>zl17102-10E</zzl> In illo vale cum omnibus bonis. Tiguri, 4. martii circa 9 antemeridianam 1547. Saluta fratres.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse darunter:] Clarissimo viro d. Osvaldo Myconio, domino et fratri colendo et dilecto. Basel.</p>
+</div>
+</text>
+</brief>

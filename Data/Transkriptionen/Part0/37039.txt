@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="37039">
+<nr>37039</nr>
+<correspondents>
+	<originator>Simon Zacius [Zak]</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Gvalther</addressee>
+	<addressee>J. Wolf</addressee>
+	<addressee>L. Lavater</addressee>
+</correspondents>
+<space_time>
+	<place>Krakau</place>
+	<date>29. april 1567</date>
+</space_time>
+<vo></vo>
+<dr>Wotschke, S. 280.</dr>
+Cumd. Christophorus Thretius eruditione et pietate
+praestans ac de ecclesia dei apud nos collecta bene meritus
+isthuc ab illustri et magnificod. d. Stanislao Myszkowski
+de Mirow, primario huius ecclesiae patrono, adductus
+proficisceretur, non potuimus non quoque eidemd. Thretio
+dare hasce nostras ad vestras excellentias literas, quibus
+ad exiguum significationem nostrae gratae memoriae et
+observantiae erga vos, eximios Iesu Christi servos,
+ederemus. Equidem neque dicendo neque scribendo consequi
+possumus, quot et quanta beneficia et solatia ex
+fidelissimis et pientissimis sapientissimisque vestris
+ceterorumque isthic eximiorum ministrorum consiliis,
+iudiciis atque cohortationibus ad nos opera eiusdem
+Christophori Thretii transmissis omnes christiani hac in
+urbe fratres dira illa trideitarum et Arianorum blasphemae
+doctrinae impressione conturbati perceperimus. Deus optimus
+maximus vobis ea omnia copiose rependere dignetur,
+exoptamus. Porro ipsumd. Christophorum Thretium
+excellentiis vestris multis commendare haud opus fore
+censimus, utpote quem alioquin tum sua virtus pietasque tum
+vetus et familiaris vestra in eum benevolentia minime
+obscurata satis superque commendaret. Quomodo vero hic in
+ecclesia res hactenus successerit, idemd. Thretius
+praestantiis vestris coram enarrare et explicare poterit.
+Christus, Iehova noster verus, vobis vitam omnibus dei
+ecclesiis fructuosissimam in annos Nestoreos proroget.
+Datum Cracoviae die penultima mensis aprilis 1567.
+</content>
+</letter>

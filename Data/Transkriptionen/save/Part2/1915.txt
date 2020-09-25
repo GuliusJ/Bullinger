@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1915">
+<nr>1915</nr>
+<correspondents>
+	<originator fn=1>Pietro Merbelli</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Pietro Merbelli (Merbelius, Merbel, Marbel, Merbeglio), bezeugt von 1509 bis 1548, studierte 1509 in Erfurt zusammen mit seinem Bruder Giovanni und war später 20 Jahre lang Sekretär von Francesco II. Sforza von Mailand; nach dessen Tod im Jahr 1535 stand er in Diensten von Kaiser Karl^#. V. in Mailand. 1541 wurde er der Häresie verdächtigt und inhaftiert, jedoch wieder freigelassen. Korrespondierte u.a. mit Erasmus von Rotterdam, später (von 1543 bis 1546) mit Beatus Rhenanus und von 1540 bis 1548 mit Konrad Pellikan. - Lit.: Erasmus, Corr. XI 108; Contemporaries II 433f; ^#/+Pellikan,^#/- Chronikon 196 (zu 170).</note>
+</correspondents>
+<space_time>
+	<place>Mailand</place>
+	<date>18. Mai 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 36f (Siegel)</vo>
+^&xK: Zürich ZB, Ms S 55, 25; Dublin, Trinity College, Ms 1158, 19r.-v.^&x{
+<dr>Ungedruckt</dr>
+<re>[Konrad] Pellikan übersandte ihm Bullingers Replik ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"] auf [Johannes] Cochläus' Ergießungen ["De canonicae scripturae et catholicae ecclesiae autoritate"], wodurch sich Merbelli ehrenhaft in Bullingers Freundeskreis aufgenommen sieht, doch weiß er nicht, wie er sich dafür außer mit einer lauteren Gesinnung und der Zusicherung seiner Treue erkenntlich zeigen kann. Er schrieb an Pellikan über die angewandten Taktiken bei der Verfolgung in [Italien] und hofft auf Gottes Eingreifen in dieser Tragödie, wenn nur die Christen im Glauben standhaft bleiben. Am Reichstag zu Speyer haben die Päpstlichen und ihre Anhänger eine Niederlage erlitten. Will Bullinger bei Bedarf gern behilflich sein. Gruß an Theodor Bibliander; Segenswunsch für die [Zürcher] Kirche.
+</re>
+<tx>S[alutem] p[lurimam].
+^$Responsionem tuam<f1>Bullingers Schrift war Ende Februar/Anfang März 1544 erschienen; s. oben Nr. 1839, Anm. 3; 1858, Anm. 1. - Lit.: HBBibl, S. 55, Anm. 335.<fe>, Bullingere insignis, in Coclei
+evomita<fx>^#/+In der Vorlage^#/- evomata.<fe><f1>Siehe oben Nr. 1839, Anm. 2.<fe>,
+quam mihi comunem esse voluisti,<f1>Ein entsprechender Brief Bullingers liegt nicht vor.<fe> Pellicanus<f1>Konrad Pellikan.<fe>
+tutissime transmisit.<f1>Ein etwa dazugehöriges Begleitschreiben von Pellikan an Merbelli ist nicht überliefert. - Merbelli schrieb am selben Tag an Pellikan, dass er Bullingers Schrift aus Zeitmangel nicht gründlich lesen könne und sie deshalb vorerst an den Arzt und Theologen Pietro Manna weiterschicke, der sie dann wieder an ihn zurücksenden solle (Zürich ZB, Ms. S 55, 24).<fe> Quis erga me sis, abunde testatus est;
+non possum non, ut ingratitudinis evitem vicium, gratias
+agere, quod incognitum adeo perhumane tuorum numero esse
+voluisti. Quid retribuam, plane nescio; candida sola
+superest mens,<f1>candida ... mens: Vgl. Horaz, Epoden, 11, 11f: candidum ... ingenium.<fe> quam tibi devovere duxi. Hanc, oro, suscipe,
+hoc tibi de Merbelio, quod de sincero potes, persuade, non
+te fallet.
+^$Quam pii propter Christum persecutionem hic patiuntur,
+Pellicano aliquantulum discurri;<f1>Merbelli bezieht sich auf seinen Brief an Pellikan vom selben Tag (s. oben Anm. 6), in dem er u.a. berichtet, dass die Protestanten ausspioniert würden.<fe> huiusmodi vero technis solum
+imbecilles et meticulosi arcentur, solidi vero neutiquam.
+Eam aliquando saeviciam deus perdet. Christiani enim est
+hominis quamcunque adversitatem forti animo et pacienter
+tollerare, in solo Christo firmam spem fiduciamque reponere,<f1>Die Formulierung stammt von Calvin, Christianae religionis institutio, Basel 1536, S. 103
+(CO I 56); s. ferner ^#/+Stähelin^#/- 77f, Anm.<fe>
+illi vindictam ut retribuat dare. Spero etenim huic
+tragoedie deum prope diem finem impositurum.
+^$In commitiis Spyrensibus<f1>Am Reichstag zu Speyer.<fe> ad eum portum rem deductam<f1>Ähnliche Metaphern bei Otto 284f, Nr. 1454.<fe> audio,
+quod fere pontificii, et quicquid Babiloniae adheret<f1>Das Papsttum als babylonisches Gefängnis ist gängiger Topos der Reformationszeit; s. Luthers berühmte Schrift "De captivitate^#. 
+Babylonica^#. ecclesiae"^#. (WA VI 484-573).<fe>,
+desperarint, quod manibus pedibusque<f1>Adagia, 1, 4, 15 (ASD II/1 422, Nr. 315).<fe> iam diu effugerint,
+diutius non potuisse evadere; ut butirum ad solem sic ipsi
+liquescent<f1>"vergehen sie vor Scham"; s. Grimm II 583; Röhrich I 285f.<fe>. Potens verbum suum adversus etiam omnes
+inferorum portas conservabit deus.
+^$Paucis hec accipe et Merbelium, ut cepisti tuo albo
+inscribere, habeto commendatum. Si quid est, quod tui causa
+hic possum, impera, re ipsa Merbelium cognosces. <vl>37</vl> Theodoro
+Bibliandro salutem ex me dicito meque illi commenda. Deus
+ecclesiam vestram conservet candidam.
+^$Vale in Christo.
+^$Mediolani, 18. maii 1544.
+<un>Obsequentissimus Pe. Merbelius.
+<lz>[Adresse auf f. 46b v.:] Insigni theologo, Tigurinae ecclesiae praesidid. H. Bullingero, domino et amico candido et observando. Tiguri.
+</content>
+</letter>

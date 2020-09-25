@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1511">
+<nr>1511</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>2. Mai 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 22 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 99.</vo>
+<re>Dank für zwei [nicht erhaltene] Briefe Bullingers mit Informationen zum [Regensburger] Reichstag. Kann den Briefen nicht entnehmen, ob Bullinger Bucers deutschen Brief [BucerDS VIII, Nr. 9f] erhalten hat [vgl. Nr. 1483], und bittet um diesbezügliche Benachrichtigung. Hat nichts aus Graubünden zu
+berichten, auch aus Italien sind ihm keine Informationen zugekommen. Gott möge die Protestanten vor der Verschlagenheit des Kaisers bewahren, der der wahren Religion entgegenarbeitet. Grüße, auch von Johannes Blasius.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 36f, Nr. 27.]
+<tx>Graciam et vitae innocentiam a domino.
+^$Colendissime Bullingere, binas iam a te accepimus literas,
+quibus statum comitiorum nobis diligenter descripsisti, et
+nos pro hac tua diligentia magnas habemus gratias et referre
+cupimus, si quandoque facultas fuerit.
+^$An Buceri epistolam Germanicam acceperis necne, ex tuis
+literis sentire non potui, quin suspitio mihi facta eam non
+redditam esse; nam illam ante mensem integrum ad te miseram.
+Fac igitur me certiorem, an reddita sit.
+^$Caeterum apud nos nihil agitur scriptu dignum, nec Italia
+quicquam audimus. Oremus dominum. qui nostros servare
+dignetur ab astutia caesaris, papisticae religionis patroni,
+qui veram religionem adeo non curat, ut extinctam potius
+cuperet.
+^$Vale.
+^$Ex Curia, 6. nonas maii 41.
+^$Salutem plurimam tibi dicit Ioannes Blasius, collega meus;
+salvos item cupimus fratres omnes.
+<un>Tuus Ioannes Comander.
+<lz>[Adresse .....:] Pietate et doctrina
+clarissimo viro Magistro Heinricho Bullingero, ecclesiastae
+Tigurino, domino et amico suo observando.
+</content>
+</letter>

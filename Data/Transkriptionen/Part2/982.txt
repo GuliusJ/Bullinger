@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="982">
+<nr>982</nr>
+<correspondents>
+	<originator fn=1>Johann Jakob Wick</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Johann Jakob Wick (Hans Jacob Wik), 1522-1588, von Zürich, besuchte 1533-1538 die Schule in Kappel und anschließend die Schule am Fraumünster. 1540/41 studierte er zusammen mit Johannes Haller und Johannes Wolf in Tübingen,
+Marburg und auch Leipzig (s. Leipzig, Matrikel I 638). Aus Frankfurt schrieb er 1541 zwei
+weitere Briefe an Bullinger. 1542 trat er in Witikon in den Pfarrdienst und wirkte daneben als Provisor an der
+Fraumünsterschule. 1545 wurde er Pfarrer in Egg, 1552 an der Zürcher Predigerkirche. Ab 1557 war er zweiter Archidiakon und
+Chorherr am Großmünster. Bleibende Bedeutung erlangte er durch die von ihm angelegte, kulturgeschichtlich höchst wertvolle
+Nachrichtensammlung ("Wickiana"), zu der auch Bullinger manches beitrug. - Lit.: Matthias Ludwig ^#/+Senn,^#/- Johann Jakob Wick
+(1522-1588) und seine Sammlung von Nachrichten zur Zeitgeschichte, Diss. phil. I, Zürich 1973. - Mitteilungen der Antiquarischen Gesellschaft in Zürich 46/2, 1974; Die
+Wickiana. Johann Jakob Wicks Nachrichtensammlung aus dem 16. Jahrhundert. Texte und Bilder zu den Jahren 1560-1571
+ausgewählt, kommentiert und eingeleitet von Matthias Senn, Küsnacht-Zürich 1975;
+Pfarrerbuch 613.</note>
+</correspondents>
+<space_time>
+	<place>[Kappel</place>
+	<date>Frühjahr 1537]</date>
+	<note>Wick schreibt als Schüler der Schule in Kappel, und zwar rund vier Jahre nach seinem Eintritt (s. unten Z. 10-12 mit Anm. 5).</note>
+</space_time>
+<vo>Autograph<fx>^#/+Mit einer Randbemerkung von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 562r.-563v. (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Schreibt ihm zum ersten Mal, um ihm mit einer Probe seines Könnens für das den Schülern von Kappel entgegengebrachte
+Wohlwollen zu danken. Hat sich, seit er vor vier Jahren in die Schule aufgenommen wurde, besonders um literarische Bildung
+bemüht; diese kommt der Kirche zugute und ist, wie die zitierten antiken Autoren lehren, von herausragendem Wert.
+Viele berühmte Männer können als Vorbilder angeführt werden. Während heute viele nur für sich selbst geistlos dahinleben,
+hält er mit den Alten daran fest, daß wahrer Reichtum in der Bildung zu finden ist. Bittet um weitere Unterstützung seines Strebens.
+</re>
+<tx>De studio litterario experientia ad eruditissimum virum M. H[enricum] Bullin[gerum]<fx>^#/+Überschrift in Majuskeln und unterstrichen.^#/-<fe>.
+^$Quod nullis te hactenus litteris salutarim, venerande, non sine magna ratione feci, videlicet ne te parum salsis
+chartis fastidio afficerem, partim occupatiorem plus, quam sufferre possis, obtunderem. Verum singularis tua in me
+humanitas, tum benevolentia paternas lares visitanti<f1>Über Wicks Besuch in Zürich ist sonst nichts bekannt.<fe> perspecta compulit, ut te salutarem epistolio, ne ingratum sentires
+officiperdamve. Perspexi enim te singulari affici studio in pueros Cappellanos<f1>Zu Bullingers Bemühungen um die Schule in Kappel, der er bis 1529 selbst vorgestanden hatte, s. ^#/+Bächtold,^#/- Bullinger vor dem Rat 194-211.<fe>.
+^$Principio, boni aequique ut consulere<fx>^#/+in der Vorlage^#/- consuleres.<fe>
+digneris, tuam aequanimitatem rogo. Nam scilicet studendi causa decreto senatus adoptatus sum in scholam Cappellanam<f1>Wick gehörte zu den ersten vier Schülern, die am 1. März 1533 auf Beschluß des Rates kostenlos in die wiedereröffnete Schule aufgenommen wurden; s. HBRG I 95f; vgl. ^#/+Senn,^#/-
+aaO, S. 9f.<fe>.
+Vitam nunc transegi quattuor annos operam dans rei litterariae pro virili et modulo<fx>^#/+in der Vorlage^#/- moduli.<fe> desuper ingenii dati. Quin, ut
+ingenue fatear, ad nullam aliam artem propensior est animus, quam ut litterato fruatur otio innumeris argumentis
+extimulantibus, tum praecipue emolumento ecclesiae, cui omnes prodesse eniti debent, quotquot nomina Christo dedere.
+Nemo sibi enim nascitur<f1>Adagia, 4, 6, 81 (LB II 1094f).<fe>, sed tamen fratribus ut prosimus ante omnia inquirendum, atque hodie nulla re magis fieri
+potuerit quam studio. Praetereo, quae Lucianus in Somnio in mechanicos peroravit quibusve laudibus extulerit
+<gr>paideían</gr><f1>Lukian, Somnium seu vita Luciani, 9-13; vgl. HBSR II 52f.<fe>. Solidioribus incumbere est certum et quaecumque cum hisce mundanis longe lateque<f1>Adagia, 1, 10, 70 (LB II 386).<fe> dissident. Idem et
+Sallustius videtur attigisse ita scribens<f1>Sallust, Catilina, 1, 4.<fe>: "Opes enim fluxae atque instabiles sunt, virtus autem clara aeternaque
+habetur." Disciplinae possidentem comitantur, ornant et refocillant. Etiam haudquaquam a vero et recto aberrasse videntur
+hi, qui celebrato nobis retulerunt dicto artem ubivis viaticum esse certissimum<f1>Vgl. Adagia, 1, 7, 33 (LB II 275) und unten Z. 78-80.<fe>; quocunque enim terrarum veniat quis,
+defendit ab egestate. Eodem contenti diu erant apostoli, ubi a Christo evangelii praedicandi gratia essent ablegati<f1>Vgl. Mt 10, 9f; Lk 10, 7.<fe>.
+Proinde eruditionem satis extollere non possum, vel ut summatim dicam, est sola perpetuus animi comes. Adhaec
+<vl>562v.</vl> Diogenes<f1>Diogenes von Sinope, 400/390-328/323, Begründer der kynischen Philosophie; s. Kurt ^#/+von Fritz,^#/- in: LAW 743.<fe> eruditionem ad coelum usque tollebat, hoc sermone nempe: adferre iuvenibus sobrietatem, senibus
+solatium, pauperibus divitias, divitibus ornamentum<f1>Diogenes Laertios, De clarorum philosophorum vitis, 6, 68 (in den von Erasmus gesammelten "Apophthegmata": LB IV 189f).<fe>. Non procul a scopo aberrasse videtur Aristoteles<fx>Aristoteles^#/+ vom Schreiber korrigiert aus^#/- Aristoles.<fe>, qui
+dixit
+eruditionem in prosperis esse ornamentum, in adversis autem rebus refugium<f1>Diogenes Laertios, aaO, 5, 19; LB IV 338.<fe>. Quis nunc est tam stolidus et quis tam
+inscius, ut adhuc rem litterariam primas tenere<f1>Adagia, 5, 1, 51 (LB II 1191).<fe> non perspitiat?
+^$Age nunc exponemus illustrium virorum exempla,
+qui se ad rem litterariam contulere. Scribit Aulus Gellius Noctium Atticarum libro 9. capite 3. de Philippo, rege
+Macaedoniae, qui, cum omni fere tempore negotiis belli victoriisque affectus esset, a liberali tamen Musa et a studiis
+humanitatis nunquam abfuit, quin lepide comiterque plaeraque et faceret et diceret etc.<f1>Aulus Gellius, Noctes Atticae, 9, 3, 2.<fe> Ecce regem hunc praeclarissimum
+hac in re et cum paucis quidem conferendum. Idem Alexandrum<f1>Alexander der Große.<fe> Aristotelis tempore natum gaudet, ab hoc educatum
+eruditumque sperans tanti imperii successione dignum<f1>Aulus Gellius, aaO, 9, 3, 5.<fe>. Legimus et de Octaviano<f1>Augustus, römischer Kaiser.<fe> liberalibus studiis, praesertim
+eloquentiae, in tantum incumbente, ut nullus ne in procinctu quidem laberetur dies, quin legeret, scriberet, declamaret<f1>Sueton, Augustus, 84, 1.<fe>.
+Pariter de Aelio Adriano<f1>Hadrian, römischer Kaiser.<fe>, qui Graecis litteris impensius eruditus, ut a plerisque Graeculus sit appellatus,
+Atheniensium studia moresque auxit poetico sermone non tantum, sed et caeteris disciplinis: canendi, psallendi,
+medendique scientia, musicis, geometria, pictor, fictor etc.<f1>Ps.-Aurelius Victor, Epitome de caesaribus, 14, 2.<fe> Quamobrem nihil etiam est otiosae senectuti iucundius, quam
+si studia sibi proponat liberalia, quemadmodum legimus de Gallo quodam: "Mori videbamus in studio dimetiendi pene coeli
+atque terrae Gallum, familiarem patris tui, Scipio. Quoties illum lux noctu aliquid describere ingressum, quoties nox
+oppressit, cum coepisset mane? Quam delectabatur, cum defectiones solis et lunae multo nobis ante praediceret?" etc.<f1>Cicero, De senectute 49.<fe>
+O utinam et<fx>^#/+in der Vorlage^#/- ut, ^#/+was aber keinen Sinn ergibt.^#/-<fe> apud nostrum saeculum ita studia nostra vigerent, qualia viguere apud veteres! Fuit et M[arcus] Anto[ninus]<f1>Mark Aurel, römischer Kaiser.<fe>
+philosophiae studens litterarumque Graecarum peritissimus<f1>Ps.-Aurelius Victor, aaO, 16, 7.<fe>.
+Con-<vl>563r.</vl>stantinus<f1>Konstantin I. der Große, römischer Kaiser.<fe> quoque legibus severissimis nutrire artes bonas, praecipue studia litterarum, legere ipse,
+scribere, meditari, audire legationes etc.<f1>Ps.-Aurelius Victor, aaO, 41, 14 ("Commodissimus tamen rebus multis fuit: calumnias sedare legibus severissimis, nutrire artes ...").<fe> Quid Mythridatem referam? Qui rex fuit Ponti atque Bythiniae, duarum et
+viginti gentium, quas sub ditione habuit, linguas percalluit etc.<f1>Aulus Gellius, aaO, 17, 17, 2.<fe> Quis non tantis viris adnumerare cupiat? Quis non orbis lumina imitari conabitur?
+^$Hic quidem esset infinitus numerus et catalogus illustrium virorum; sed quid haec adfero
+scientissimo? Sed his aliisque compluribus animus fulcitus non deiicitur a proposito. Complures sunt hodie, qui nihil
+agunt oneraque sunt inutilissima telluris<f1>Adagia, 1, 7, 31 (LB II 274).<fe>, quorum sane vitam mortemque iuxta aestimo ac aeque iudico<f1>Sallust, Catilina, 2, 8.<fe>. Omnes sibi
+prodesse querunt, quisque hoc cogit: "Heus tu, proximus egomet sum mihi."<f1>Terenz, Andria, 635f; vgl. Adagia, 1, 3, 91 (LB II 147).<fe> Hi corpus saginant, mentem extinguunt; quorum
+deus venter<f1>Phil 3, 19.<fe>, et tanquam bos ad praesepe<f1>Adagia, 2, 1, 39 (LB II 420f).<fe> perpauci salvam cupiunt rempublicam. Nemo fere operam dat rei litterariae. Nunc
+enim vulgus liberos suos divitum aut principum ministeriis dedicat, ubi duo simul maxima discant mala (ut inquit
+Erasmus<f1>Vgl. etwa seine Satire auf das höfische Leben in "De conscribendis epistolis" (LB I 448-450).<fe>), luxum et otium. Tum, qui optime suis perspectum volunt, suos ad Gallicam linguam perdiscendam ablegant. Proh
+deum, quanta hominum stoliditas, imo coecitas! Cur non aeque ad Latinam applicamus, cum tot fuerint viri probatissimi.
+Proinde mearum arbitratus sum partium, ut me dedicem liberalibus artibus. Aristippus potius fieri censebat mendicum
+quam indoctum<f1>Diogenes Laertios, aaO, 2, 70; LB IV 166.<fe>. Idem cuidam percontanti, qua re esset melior evasurus filius, respondit, si eum curaret litteris
+erudiendum<f1>Gemeint ist die (von Wick mißverstandene) Stelle bei Diogenes Laertios, aaO, 2, 72, die Erasmus wie folgt wiedergibt: "Cuidam percontanti, quare esset melior evasurus filius, si eum curaret literis erudiendum? Ut nihil aliud, inquit, certe in theatro non sedebit lapis super lapidem"
+(LB IV 167).<fe>. Rursum percontanti, qua re differret sapiens ab indocto: "Mitte" (inquit) "ambos nudos ad homines ignotos, et
+videbis" sane viaticum esse certissimum eruditionem<f1>Diogenes Laertios, aaO, 2, 73; LB IV 168.<fe>. Idem referuntur de Aristippo<f1>Vitruv, De architectura, 6, praef., 1; LB IV 171f.<fe>, quod tempore quodam cum civibus
+aliquot suis navigans naufragio eiectus fuisset. Quum in littore vidisset figuras mathematicas in harena depictas:
+"Salva" (inquit) "res est, amici; hominum vestigia conspitio." Et ingressus civitatem proximam investigavit, quinam
+essent illic disciplinarum studiosi. Cum his ubi congressus est, summa cum humanitate tractaverunt. Tandem cum hi, qui
+cum Aristippo venerunt,
+<vl>563v.</vl> pararent reditum in patriam rogarentque illum, et quid vellet suis civibus renuntiari: "Ut" (inquit)
+"studeant sibi huiuscemodi parare opes, quae naufragio non pereunt, sed simul cum possidente enatarent." Unde dictum
+est<f1>Adagia, 4, 5, 9 (LB II 1055).<fe>: "Sapiens sua bona secum fert". Persuadet hoc nobis facillime Bias<f1>Einer der Sieben Weisen; vgl. HBSR II 245.<fe>, cuius patria cum diriperetur, omnibus quid suorum
+conferentibus admonitus, ut quid rerum exportaret, omnia sua secum ferre renuntiavit<f1>Valerius Maximus, Facta et dicta memorabilia, 7, 2, ext. 3; Cicero, Paradoxa 8.<fe>. Tale est exemplum apud Aulum
+Gellium libro 20. capite 4. de Alexandro, qui anteire doctrina maluit quam copiis atque opulentiis<f1>Aulus Gellius, aaO, 20, 5, 8.<fe>. Sic Seneca
+scribit<f1>Seneca, Epistulae, 21, 2.<fe>: "Studia praeclarum nobilemque efficiunt" etc.
+^$Huc, vir incomparabilis, huc me rapuit fervor in studia humaniora non mediocris; ignosce ergo, si studia tua magis
+ardua ac graviora impedivi. Imo si coepta probantur aditumque speras futurum ad Musarum penetralia, age conatum hunc
+nostrum adiuva; fove, quo maturescat disciplinis quam optimis. Parentes, Moecenas<f1>Mäzen (vgl. Pauly/Wissowa XIV
+207-229).<fe>, vir studiis alendis natus, ad hoc
+me studium incitant. Principibus tamen placuisse viris non infima laus est<f1>Horaz, Epistulae, 1, 17, 35.<fe>. Tu itaque, calculum tuum si apposueris, et
+currentem incitaris<f1>Adagia, 1, 2, 46 (LB II 88f).<fe> et animum addideris alacriorem studendi.
+^$Vale, athleticae ecclesiae et studiosis diutissime incolumis; nullam occasionem ego praetermissurus sum.
+^$Habebis me semper tui commendatissimum.<un>Ioannes Iacobus Wickius<un>tui observantissimus.
+</content>
+</letter>

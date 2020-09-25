@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1479">
+<nr>1479</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>15. März 1541</date>
+</space_time>
+<vo>Zürich ZB, Ms S 313, 11r / Abschrift von Johannes Stumpf.</vo>
+<vo>Zürich ZB, Ms S 49, 55v.<f1>M'schrift: Bonomo, Stumpf I 1, 165 (Ms Z I 103)<fe></vo>
+<vo>Zürich ZB, Ms Z I 103</vo>
+<dr>Ungedruckt</dr>
+<re>Auch wenn [Christoph] Froschauer mit Stumpf anständig abgerechnet hat, entspricht das Honorar nicht dem Aufwand,
+doch Gott wird Stumpf für seine Arbeit [am Geschichtswerk zum Konzil von Konstanz] belohnen, die er zum Nutzen der Kirche
+unternahm und die bereits viel Anerkennung gefunden hat. Vielleicht kann ihm Adrian Wirth zu einer illustrierten oder kolorierten Ausgabe von Ptolemäus verhelfen; Bullinger ist im Übrigen bereit, sein Möglichstes für ihn zu tun.
+</re>
+<tx>Heinrichus Bullingerus Ioanni Stumpfio suo.
+^$Gratiam et vitae<fx>^#/+Vor^#/- vitae ^#/+gestrichenes^#/- pacem.<fe> innocentiam a domino.
+^$Satis quidem liberaliter videtur tecum egisse Froschouerus
+noster. Quamquam libere agnoscam laboribus haud respondere
+praemium. Ceterum quod deest, resarciet omnis boni retributor dominus.<f1>Die Bezeichnung Gottes als "bonorum operum retributor" (o. ä.) findet sich bereits bei den Kirchenvätern, aber auch in mittelalterlichen Briefstellern;
+vgl. etwa Hieronymus, Commentarii in Esaiam 8, 26, 2/4 (CChr LXXIII 331, 58f); Elmert ^#/+Clark,^#/- Magistri Boncompagni "Ysagoge", in: Quadrivium, Nuova serie VIII, 1997, S. 68.^&x S. 23-71; S. 68 = Isagoge III 24, aus dem Jahr 1204/5).^&x{<fe> Scio enim, quod laborem illum non propter
+privatum commodum, sed propter ecclesiae utilitatem
+susceperis.<f1>In diesem Jahr 1541 erschien bei Christoph Froschauer Stumpfs "Des grossen gemeinen Conciliums zuͦ
+Costentz gehalten kurtze [...] beschreybung" (BZD C 300).<fe> Et probatur quidem ab omnibus haud vulgariter, quos hactenus legisse audio.
+^$Ptolemaeum<f1>Offenbar hatte sich Stumpf nach einer Ausgabe von Schriften des Ptolemäus erkundigt. Gemeint ist vermutlich die
+im März 1540 bei Heinrich Petri in Basel erschienene "Geographia universalis" (VD 16 P 5214); ihr folgte im März 1541 ein Band mit nicht-geographischen Schriften (VD 16 P 5204).<fe> pictum vel illustratum coloribus hactenus non habui nec scio quenquam,
+qui habeat, nisi forte Adrianus Wirtius<f1>Adrian Wirth (Hospinian, Xenodochus, Philoxenus), geb. um 1500, gest. 1563, von Stammheim (Kt. Zürich), studierte - wie auch zwei seiner Brüder, Johannes und Leonhard - in Freiburg i. Br. und Wien (Immatrikulation 1515 bzw. 1517).
+Nach seiner Rückkehr wirkte er als Schulmeister bis 1521 in Winterthur, bis 1523 im Kloster Weingarten, danach als Kaplan in Stammheim. 1524, nach dem sogenannten Ittingersturm, entging er knapp dem Todesurteil durch ein eidgenössisches Strafgericht, während sein Vater Hans Wirth und sein Bruder
+Johannes hingerichtet wurden.
+Daraufhin wohnte er bei seinem Bruder Leonhard, Stadtschreiber in Stein am Rhein, und wurde schließlich 1528 nach Fehraltorf berufen, wo er bis zu seinem Tod zunächst als Pfarrer, dann auch als Dekan tätig war.
+In letzterer Funktion war er 1549 Mitunterzeichner eines Briefes an Bullinger zuhanden der Synode (Zürich StA, E II 440, 395). - Lit.: Conradin ^#/+Bonorand,^#/- Personenkommentar IV zum Vadianischen Briefwerk, St. Germain 1988. - Vadian-Studien 15, S. 215-221; ^#/+Gordon,^#/- Discipline 275f;
+Pfarrerbuch 619.<fe> Altorfensis<f1>Alter Name für Fehraltorf (Kt. Zürich).<fe> picti
+copiam tibi facere possit.<f1>Adrian Wirth hatte im Jahr 1521 Tafeln des Ptolemäus für Vadian kopiert; s. Vadian BW III 230, Nr. 82, und ^#/+Bonorand,^#/- aaO, S. 218.<fe> Alioqui nihil negarem tibi, quod modo in mea sit facultate.
+^$Vale, dilectissime frater.
+^$Martii 15. anno 1541.
+</content>
+</letter>

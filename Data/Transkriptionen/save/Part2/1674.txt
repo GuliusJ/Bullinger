@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1674">
+<nr>1674</nr>
+<correspondents>
+	<originator>Peter Martyr Vermigli</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>5. Oktober 1542</date>
+</space_time>
+<vo>Ausfertigung von Theodosius Trebellius<f1>Theodosius Trebellius, dessen Lebensdaten nicht bekannt sind, stammte aus
+Friaul und war vermutlich Augustiner-Chorherr in Lucca, bevor er sich Vermigli auf dessen Flucht vor der Inquisition anschloss.
+1544/45 immatrikulierte er sich in Basel; hier stellte er ein von Johannes Oporin begonnenes lateinisches Wörterbuch fertig,
+das 1545 erschien (VD 16 T 1849). Gemäß seinem Brief an Bullinger vom 31. Juli 1545 (Zürich StA, E II 335, 2074) hielt
+er sich damals beim Basler Drucker Nikolaus Episcopius auf. Ein an "Th. Tr." adressierter Brief Curiones deutet darauf hin, dass
+Trebellius 1553 noch lebte (vgl. ^#/+Kutter,^#/- Curione 126). - Lit: Philip ^#/+McNair,^#/- Peter Martyr in Italy. An Anatomy of Apostasy, Oxford 1967, S. 271;
+Amerbach, Kor. VI, S. LIII.^&xBasel, Matrikel II 40, Nr. 26^&x{<fe>: Zürich StA, E II 340, 112r.-v. (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 14</vo>
+<dr>Ungedruckt^&xZitate: Corda, Veritas Sacramenti 17f, Anm. 6-10; Klaus Sturm, Die Theologie V's 18f, Anm. 35. 39. 42. 43. 45. 49; M. W. Anderson, Martyr in exile 76.
+469.^&x{</dr>
+<re>Entschuldigt sein Schweigen mit der anhaltenden Ungewissheit, ob er und seine Begleiter in Basel bleiben können.
+Zwar gefällt es ihnen hier, doch es besteht kein Bedarf an Gelehrten; [Oswald] Myconius und [Bonifacius] Amerbach tun ihr
+Möglichstes, was sicher Bullingers Empfehlungsschreiben zu verdanken ist, und Myconius hat [Martin] Bucer angefragt, ob sie
+nach Straßburg kommen könnten; falls Bucer sie nicht dorthin ruft, wollen sie den Winter in Basel verbringen. Sie vertrauen auf Gottes Fürsorge und wollen gegenseitig Fürbitte üben; Grüße.
+</re>
+<tx>Petrus Martyr Vermilius Florentinus Henrico Bulingerio, cum pietate tum doctrina suspiciendo, gratiam et pacem a deo patre per Yesum Christum dominum nostrum.
+^$Si christiani hominis esset humano more in amicorum negligentiam anim­advertere, iam sane vererer, ne nobis<f1>Vermigli schreibt auch im Namen seiner drei Begleiter
+(vgl. unten Z. 44f mit Anm. 6f).<fe> subiratus esses, quod non prius literas ad te dederimus, quo fieri certior potuisses
+saltem, an recte valeremus. Sed cum te modestissimo Christi spiritu agi sit nobis testatissimum, iam existimo te nihil de
+nobis durius aut acerbius tecum statuisse, quam factum sit. Coeterum qua ratione id contigerit, ut tantum distulerim ad te
+scribere, iam tibi exponam. Fuimus imo et sumus adhuc incerti, quod nam caput nostrum negotium sit habiturum, siquidem ab his
+Basiliensibus nobis nondum consultum est nec licet
+intelligere, an hic futuri simus, quod plane, si fieri
+posset, nobis contingeret gratius quam id, quod est
+gratissimum. Dumque ita essemus ambigui, semper differebamus
+ad te literas dare, quo possemus aliquid certi scribere. Sed
+cum iam res videretur longius protrahi, quam par esset vos
+nostra ignorare, his te certiorem facimus nos dei munere
+recte valere curaturosque, ut etiam melius valeamus.
+^$Quod vero ad nostra attinet, scito nos huisce urbis amoenitatem, coelum, mores et coetera, quae ad habitationem pertinent, vehementer probare. Ve­rum ea est copia illorum, qui
+profitentur varia litterarum genera, ut nullus nobis locus
+videatur relictus, et vicissim ita pauci sunt auditores, ut
+nostra opera iam hic minus appareat oportuna. Nihilominus
+quanta sedulitate et fide cum Myconius tum Amerbachius
+nostrum negotium tractent,<f1>Vgl. oben Nr. 1662, 1-19.<fe> non facile dici posset. Hi sane viri non verbis, sed studio ac
+diligentia non vulgari, quam assidue impendunt, ut nostris rebus quavis ratione aliquando consulatur, clarissime ostendunt,
+quanti ponderis apud eos literae fuerint, quibus nos eis diligentissime commendasti,<f1>Die erwähnten
+Empfehlungsschreiben für Vermigli und seine Begleiter sind nicht erhalten; vgl. ebd., bes. Anm. 1.<fe> neque id semel;
+nam alia epistola, quam ad Myconium dedisti, eo certe titulo nos voluisti insignire (nam "Italiae flores" appellasti), ut ob
+ipsum non solum isti nos mirifice suspexerint, sed magnum onus et ipsi subierimus, si notae adeo egregiae velimus respondere. Id in nobis minime cognoscimus, sed pietati tuae ac animi
+candori totum<fx>^#/+Vor^#/- totum ^#/+gestrichenes^#/- id.<fe> acceptum referimus. Non tamen inde <vl>112v.</vl> ad nos
+nihil utilitatis pervenit, quippe ob tuum illud illustre de nobis testimonium (ut putamus) literas ad Bucerum Myconius
+misit Argentoratum,<f1>Die betreffende Korrespondenz zwischen Myconius und Bucer ist nicht erhalten.<fe> quibus rescire
+possit, an illic spes ulla nobis forte affulgeret. Quando ergo Bucerus responderit, tunc et nos poterimus intelligere, utrum
+hic an Argentorati futuri simus. Id enim apud nos omnino decrevimus hyemare Basileae, ni Bucerus iusserit, ut petamus Argentoratum.
+^$Quicquid igitur obvenerit, nos hilari et erecto animo feremus
+persuasi nobis a deo patre nostro per Yesum Christum id esse
+procuratum neque te patiemur nescire, quem unice in Christo
+(ut aequum est) observamus. Volumus autem, ut semper nos in
+tuis habeas, et tuae preces ad deum cave (si nos amas)
+nostri sint unquam immemores, uti nos vicissim tui semper in
+nostris mentionem facimus. Pauli<f1>Paulus Lacisius.<fe> nomine et duorum iuvenum, qui nobiscum sunt,<f1>Theodosius Trebellius
+und Julius Terentianus (Giulio Santerenziano).<fe> salutem tibi maximam dico. Iubemus autem salvere dominum Cuonradum Pellicanum
+et Gvalterium<f1>Rudolf Gwalther.<fe>, optimos in Christo fratres. Gratia domini nostri Yesu Christi tecum.
+^$Datum Basileae, ex Augustiniano collegio<f1>Vgl. oben Nr. 1662, 15f mit Anm. 10.<fe>, 3. nonas octobris 1542.
+<lz>[Adresse auf f. 108v.:] Eruditissimo viro Henrico Bulingerio, Tigurinae ec­clesiae concionatori primario. Tiguri.
+</content>
+</letter>

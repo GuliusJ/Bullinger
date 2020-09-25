@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1307">
+<nr>1307</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>9. September 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 113 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Inzwischen hat sich ein junger Mann [als Hilfskraft für Zwick] gefunden. Wünscht genauere Nachricht über den englischen
+König [Heinrich VIII.]; auf die Fürsten ist kein Verlaß, wenn auch das entschlossene Vorgehen Georgs [von
+Württemberg-Mömpelgard] erfreulich ist. Dankt für den Vigilius [HBBibl I 113], konnte aber den [mit abgedruckten] Brief Vadians noch nicht
+lesen; letzterem hat er neue Schriften Schwenckfelds zugesandt. Erkundigt sich nach einer Bemerkung über Bucer, die er in einem
+Brief an die Zürcher gemacht haben soll, und bestätigt die Weiterleitung von Briefen nach Memmingen und Kempten.
+Hört aus Augsburg nur, die Predigten [Blarers] seien gut besucht; verweist für Weiteres auf Pellikan. Grüße.
+</re>
+<tx>Salus et pax Christi.
+^$De iuvene<f1>Zur Suche nach einer Hilfskraft für Zwick vgl. oben Nr. 1286, 14-18; 1289, 13f.<fe> non est, quod posthac sollicitus sis; contigit enim nobis, qualem
+desyderavimus<f1>Ambrosius Blarer hatte aus Augsburg einen Jüngling mit guten Hebräischkenntnissen empfohlen; s. Blarer BW II 33.<fe>.
+^$De rege Angliae<f1>Heinrich VIII.<fe> fac nos certiores, ubi, quae scripsisti, certiora audieris<f1>Bullingers Brief ist nicht erhalten, vgl. aber die entsprechende Bemerkung im Brief an Vadian vom 26. August (oben Nr. 1302).<fe>. Si nos fallit,
+imprudentes fallit; scire enim debuimus et debemus nullam in principibus sitam spem esse. Quod nunc princeps
+Georgius<f1>Georg von Württemberg-Mömpelgard (vgl. ebd.).<fe> fortiter agit, laudemus dominum istudque sic recipiamus, ne fidamus hominibus.
+^$Pro dono Vigilii<f1>Gemeint sind die fünf Bücher "Contra Eutychen", die Bullinger zusammen mit einem Brief Vadians
+herausgegeben hatte; s. HBBibl I 113 (Widmungsvorrede: oben Nr. 1283).<fe> gratias habeo tibi relaturus, cum dabitur occasio. Vadiani
+epistolam<f1>Zwick hatte um den erwähnten Brief Vadians gebeten, bevor von dessen Veröffentlichung die Rede war; s. oben Nr. 1282,
+22-24; 1289, 12f.<fe> adhuc non legi mille negotiis impeditus. Misi etiam Vadiano his diebus, quae per
+Schwenckfeldium ędita sunt de hoc articulo<f1>Zweifellos die "Ermanunge zum waren und selig
+machende Erkanthnus Christi" sowie das "Summarium ettlicher Argument" vom August 1539 (CSch VI 501-539, Nr. 290f); s.
+Verena Schenker-Frei, Bibliotheca Vadiani, St. Germain 1973. - Vadian-Studien 9, S. 387, Nr. 1209f. Vgl. auch Zwicks Brief an
+Vadian vom 30. August (Vadian BW V 571f).<fe>. Miserum est certe novas subinde quaestiones et intricatas admodum nasci. Dominus
+autem novit, quo vel commodo vel incommodo istud fiat.
+^$Porro spargunt quidam a me scriptum ad vos Bucerum fateri
+libere, quod fidem abnegaverit et veritatem prostituerit.
+Hoc non memini me fecisse; cupio autem scire, an tale
+aliquid in meis literis usquam ad te scripserim<f1>Eine entsprechende Äußerung ist in Zwicks Briefen an Bullinger nicht
+nachzuweisen.<fe>. Literas tuas Memmingam et Campodunum<f1>Bullingers Briefe an Gervasius Schuler und
+Benedikt Euander sind nicht erhalten, beide sind jedoch erwähnt in Schulers Antwort vom 8. Oktober (unten Nr. 1315, 2-5 bzw. 39f).<fe> misi tabellione<f1>Unbekannt.<fe> certo.
+^$Ex<fx>^#/+vor ^#/-Ex^#/+ gestrichenes ^#/-A.<fe> Augusta nichil audimus nisi maximam et omnino raram
+frequentiam esse audiendi verbi<f1>Zu den gutbesuchten Predigten Blarers in Augsburg vgl. ^#/+Roth^#/- II 442-449.<fe>, quod felix sit et faustum.
+Reliqua apud Pellicanum<f1>Ein gleichzeitiger Brief an Pellikan ist nicht erhalten.<fe>.
+^$Vale non solum meo, sed fratris<f1>Konrad Zwick.<fe>, Thomę<f1>Thomas Blarer.<fe> et omnium fratrum
+nomine. Uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam et matrem<f1>Anna, geb. Wiederkehr.<fe> salvam volo.
+^$Ex Constantia, 9. septembris 1539.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, amicorum et fratrum candidissimo.
+</content>
+</letter>

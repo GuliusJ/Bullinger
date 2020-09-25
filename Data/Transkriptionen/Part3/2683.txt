@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2683">
+<brief>
+<id>16370</id>
+<nr>2683</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-19"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 19. November 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 262 (neu: 278) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 87</k></dr>
+<re><t>Wieso meint denn Bullinger, durch häufiges Briefeschreiben seine Zeit zu verschwenden? Es gibt doch nichts Nützlicheres, wie Myconius ihm beweisen wird, wenn er wieder mehr Zeit hat.</t>
+<t>Ein katholischer Pfarrer [...] aus Freiburg [i. Br.?], der aus Italien kam, wurde in Basel nach Neuigkeiten gefragt und erzählte, dass dort alles ruhig wäre. Papst [Paul III.] soll für Kaiser [Karl V.] 2'000 Reiter ausgesandt haben, die aber in Parma und den umliegenden Orten zurückgeblieben sind, nachdem bekannt wurde, dass der Kaiser ins Winterlager gezogen sei.</t>
+<t>Das Fehlverhalten von Jakob Reinhart ist eine Schande für die ganze Eidgenossenschaft!</t>
+<t>Die schlimme, wirklich kaum zu glaubende Nachricht über Herzog Moritz [von Sachsen] deutet man so, als habe dieser Kursachsen nur zum Zweck der Verteidigung [gegen Böhmen] besetzt und nicht, um seinen Anspruch auf dieses Territorium geltend zu machen. Über den Inhalt [des Schreibens], das der Zürcher Bote [Anton Esche] dem Basler [Rat] brachte, ist nichts bekannt. Der Bote selbst konnte nichts darüber berichten.</t>
+<t>Angeblich sind der französische [König Franz I.] und der Papst aus gewichtigen Gründen zerstritten. Doch weiß Myconius nichts Näheres darüber.</t>
+<t>Nur wenige glauben, dass der schwerkranke Kaiser noch am Leben sei. Wenn er sich den Soldaten zeigt, halten diese seine Erscheinung eher für einen Spuk. Erstaunlich, dass in diesem Leichnam noch so viel ungebrochene Willensstärke vorhanden ist! Für ihn sind Menschen weniger wert als Vieh! Hauptsache, es geht nach seinem Willen. Möge der Herr ihn zerschmettern!</t>
+<t>Gruß, auch an Gwalther. Myconius muss zum Abendessen.</t></re>
+<text>
+<div>
+<p><zzl>zl16370-2A</zzl>S. Nescio, quid velis, dum scribis vereri te, ne perdas laborem tam frequenter scribendo.
+<fn>Bullinger wird sich in einem nicht erhaltenen Brief beklagt haben, dass all sein Briefeschreiben umsonst sei. Und Myconius sah dabei offensichtlich keinen Zusammenhang mit dem vorhergehenden (ebenfalls nicht erhaltenen) Brief Bullingers, in dem dieser die Befürchtung geäußert hatte, dass vielleicht seine Briefe dem Empfänger nicht zugestellt würden; s. <qv>nr2682</qv>,<qv>zl16369-3</qv>.<zfn>fn16370-1</zfn></fn><zzl>zl16370-2E</zzl> <zzl>zl16370-3A</zzl>Crede mihi, nihil facere posses utilius. Causas narrabo, dum erit ocium, nam nunc nihil est minus.<zzl>zl16370-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16370-4A</zzl>Venit huc pfaffus Friburgensis
+<fn>Unbekannt. - Er lebte wahrscheinlich in Freiburg i. Br., was für einen aus Italien kommenden Reisenden die Durchreise durch Basel gut erklären würde.</fn> ex Italia. Rogatus, quid ferat, respondit omnia illic esse pacatissima; duo milia equitum a papa
+<fn>Paul III.</fn> missa restitisse Parm{e}
+<fn>Parma (Prov. Parma, I). - Paul III. versuchte damals, die Herschaft von Parma vom Herzogtum Mailand (das Karl V. beanspruchte) zu trennen und seinem illegitimen Sohn Pier Luigi Farnese (1503-1547) zu übertragen.</fn> et in c{e}teris civitatibus circumiacentibus audito, quod c{e}sar
+<fn>Karl V.</fn> abiisset in hyberna.<zzl>zl16370-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16370-5A</zzl>Miramur de Iacobo Reinharto, quod improbius egit.
+<fn>Jakob Reinhart, der im Schmalkaldischen Krieg als Zürcher Söldnerführer diente (s. <a>HBBW</a> XVII 344, Anm. 31), war schon Anfang Oktober negativ aufgefallen; s. <qv>nr2612</qv>,<qv>zl16301-45</qv>.</fn> Maculam omnibus Helvetiis inurit.<zzl>zl16370-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16370-1A</zzl>De duce Mauricio
+<fn>Moritz von Sachsen.</fn> adeo dolet omnibus, ut vix credere, qu{e} dicuntur, valeant. In hoc sunt: occupasse, ut defendat, non ut vendicet, Saxoniam.
+<fn>Vgl. auch <qv>nr2677</qv>,<qv>zl16364-9</qv>.</fn><zzl>zl16370-1E</zzl> <zzl>zl16370-6A</zzl>Nescimus adhuc, quid vester
+<fn>Der Zürcher Bote "Anthoni Esche", der am 18. November entweder noch in Basel oder schon in Zürich zurück war; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 62 der Ausgabenabteilung für laufende Boten.<zfn>fn16370-2</zfn></fn> adtulerit. Nec ipse interrogantibus respondere quicquam potuit quam "ignoro".<zzl>zl16370-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16370-8A</zzl>Gallum
+<fn>Franz I. - Ein Gerücht.</fn> aiunt dissidere cum papa propter causas efficaces, quas tamen etiamnum nescio.<zzl>zl16370-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16370-9A</zzl>C{e}sarem esse in vivis pauci sunt, qui credant, quod, si qu{e} imago inter milites adparet c{e}sarem referens, putant esse spectrum. Propter morbos gravissimos, quibus certo laborat,
+<fn>Zu den Krankheiten des Kaisers s. schon <a>HBBW</a> XVI 177,19f; 196;33f; 206,13; 351,9.</fn> sic colligunt. Et profecto mirum est, quod in cadavere isto animus est tam ambitiosus, imo et infractus. Novit cavere sibi, quicquid accidat suis. Homines enim bestiis videtur aequare, imo pendere aliquanto vilius, modo suo satisfiat animo. Dominus frangat ipsum!
+<fn>Vgl. Ps 110 (Vulg. 109), 5.</fn><zzl>zl16370-9E</zzl></p>
+</div>
+<div>
+<p>Vale in Christo cum tuis et Gvalthero. Basile{e}, mox ante c{e}nam, 19. novembris anno 1546.</p>
+<un>Tuus Os. Myc.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, victo doctissimo piissimoque, domino suo in Christo venerando. Zurich.</p>
+</div>
+</text>
+</brief>

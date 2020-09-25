@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2427">
+<brief>
+<id>16114</id>
+<nr>2427</nr>
+<ae>Christian Hochholzer an Bullinger</ae>
+<od>Aarau, 21. April 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 337 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie: Zürich ZB, Ms S 60, 58; Zit.: Bähler: Dekan J. Haller, in: NBT 2, 1924, 29f (A 72) (mit Datum "26. April")</k></dr>
+<re>Hochholzer dankt für Bullingers Brief [nicht erhalten].
+<t/>Gabriel [Meyer] arbeitet fleißig an seiner Aufzeichnung von Altertümern [im Aargau].
+<t/>Der Autor des in Bern mit Wissen von [Thomas] Grynäus und einigen Ratsherren gesungenen Liedes [über das Abendmahl] heißt [Peter] Zeller. Er ist etwa 20 Jahre alt und ein Findelkind. Der Berner Rat kam für sein Studium auf. Was diesbezüglich unternommen wird, ist noch offen. Der Taugenichts wird kaum ungestraft davonkommen.
+<t/>Hochholzer schickt Bullingers Notizen zu [Theodor Biblianders] Genesis[vorlesungen] mit Dank zurück. Leider kann er sich dafür nicht revanchieren.
+<t/>Hochholzers Gattin [Agathe, geb. Näf] lässt Bullingers Familie grüßen. Grüße auch an [Rudolf] Gwalther.
+<t/>[Meyer] hat auch zu anderen Schlössern des [Berner] Aargaus viel Material, nämlich zu Lenzburg, Liebegg, Trostburg und Aarburg. Wüsste er, dass es Johannes Stumpf von Nutzen wäre, würde er es ebenfalls senden.</re>
+<text>
+<p>Gratiam et pacem a domino. Ad literas tuas
+<fn>Nicht erhalten.</fn> non est, ut multis respondeam.</p>
+<p><zzl>zl2427-1A</zzl>In antiquitatibus consignandis diligens erit m. Gabriel.
+<fn>Gabriel Meyer verfasste Notizen über alte Burgen im Aargau, die für Johannes Stumpfs "Eidgenössische Chronik" bestimmt waren; s. <qv>nr2410</qv>,<qv>zl2410-2</qv>; <qv>nr2420</qv>,<qv>zl2420-3</qv>.</fn><zzl>zl2427-1E</zzl></p>
+<p><zzl>zl2427-3A</zzl>De carmine
+<fn>Zu diesem Lied über das Abendmahl s. <qv>nr2420</qv>,<qv>zl2420-4</qv>.</fn> autem quod scire cupis, sic accipe: Impressum non est. Author nomine Zeller
+<fn>Peter Zeller.</fn> studiosus. Er ist ein fündely
+<fn>Findelkind.</fn>. Unsere gnädigen herren von Bern habend in erzogen und in das kloster gnomen. Ist by 20 jaren alt. Die knaben in kloster singend es mit 4 stimmen den andern z{uo} leid, idque Gryneo
+<fn>Thomas Grynäus.</fn> non ignorante. Habent et quidam senatorum carmen illud. Quid autem vel quomodo acturi cum authore, ignoro. Plurimis maxime displicet.<zzl>zl2427-3E</zzl> Haec de istis. Plura certo nulla, neque eo scribo, quod vos curare credam ista, cum viles homines plurima faciant, dicant et scribant contra veritatem. Dubio procul nequam audax et temerarius haud impune feret.</p>
+<p>Mitto tua in Genesim.
+<fn>Bullingers Notizen zu Theodor Biblianders Genesisvorlesungen, die Hochholzer von Bullinger ausgeliehen hatte; s. <qv>nr2382</qv>,<qv>zl2382-3</qv>; <qv>nr2410</qv>, <qv>fn2410-7</qv>; <qv>nr2420</qv>,<qv>zl2420-1</qv>.</fn> Gratias tibi habeo maximas. Quamvis referre nullo modo liceat, memor tamen et gratus ero perpetuo. Voluntas referendi non deest; facta tamen pro facultatibus et fortuna mea nulla dantur, neque etiam tu talis es, ut a me tibi quicquam, quod vel fortunam tuam vel famam augeat, accedere possit. Memoriam tamen tuorum in me beneficiorum innumerabilium nulla unquam oblivio abolebit.</p>
+<p>Vale cum tota domo tua, quam salvam cupit uxor mea
+<fn>Agathe, geb. Näf.</fn>. Salutem dices meo nomine d. Gvalthero. Aarovi{e}, 21. aprilis anno 1546.</p>
+<p><zzl>zl2427-2A</zzl>M. Gabriel hat vil auch von andern schl{oe}sseren in Ergöuw
+<fn>Der Berner Aargau.</fn>: Lenzburg, Liebegk
+<fn>Schloss Liebegg (Gränichen, Kt. Aargau).</fn>, Trostburg
+<fn>Die Trostburg in Teufenthal (Kt. Aargau).</fn>, Arburg.
+<fn>Zu den genannten Burgen s. Johannes <i>Stumpf,</i> Gemeiner loblicher Eydgnoschafft Stetten, Landen und Völckeren Chronick ..., Zürich 1548 (<a>BZD</a> C396), f. 154 (Liebegg). 237b (Aarburg). 239 (Liebegg, Trostburg). 243 (Lenzburg). 425 (Aarburg, Liebegg, Trostburg, Lenzburg).</fn> Wann er wüßt, das üch ettwas daran manglete, wolt ers gern üch mitteilen. Wann er ettwan
+<fn>gelegentlich.</fn> by üch selbs oder by h. Hans Stumpfen were, wurd er vil k{oe}nnen anzeigen.<zzl>zl2427-2E</zzl></p>
+<un>Tuae humanitati deditissimus</un>
+<un>Christianus Hochholzer.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, verbi divini praeconi fidelissimo Tiguri, domino suo tanquam patri colendissimo.</p>
+</text>
+</brief>

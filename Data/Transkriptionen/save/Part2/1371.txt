@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1371">
+<nr>1371</nr>
+<correspondents>
+	<originator>Johannes Calvin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>12. März [1540]</date>
+	<note>Gut eineinhalb Jahre nach Calvins Ankunft in Straßburg (vgl. den Briefanfang).^&x Vgl. die Erwähnung dieses Briefs in Calvins Schreiben an Farel vom 29. März 1540 (Corr. des réformateurs VI 200, Anm. 13)^&x{</note>
+</space_time>
+<vo>Autographer Entwurf: Genf, Bibliothèque publique et universitaire, Ms. lat. 106, 24 bzw. 25<f1>Autographer Entwurf undatiert und Abschrift mit autographen Ergänzungen "1539"<fe></vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 164</vo>
+<vo>Kopie: Bern StA, B III 62 (früher C. A. VII 33), 340-346.</vo>
+<re>Hat ihm seit seiner Ankunft in Straßburg vor eineinhalb Jahren nie geschrieben und hat kürzlich auch Erasmus [Schmid]
+ohne Brief abreisen lassen, deshalb holt er das Versäumte nun nach. Die Pflege freundschaftlicher Verbindungen zwischen
+den Kirchen ist ihm ein großes Anliegen. Daß die Eintracht der Zürcher und Straßburger unvollkommen ist, hat mit dem Mißtrauen
+zu tun, das auf die Auseinandersetzung [um die Abendmahlskonkordie] zurückgeht; die Zürcher sollten an der
+Aufrichtigkeit der Straßburger - nicht nur Capitos, sondern auch Bucers - nicht zweifeln und mit ihnen Gemeinschaft suchen.
+Will sich zum Streitgegenstand nicht äußern, würde aber gerne einmal mit ihm darüber sprechen, was der Einigung denn überhaupt
+noch im Wege steht, und bittet ihn, alles zu vermeiden, was Unfrieden stiften könnte. Grüßt ihn und seine Kollegen.
+Empfiehlt die Reisenden aus Frankreich, die den Brief überbringen.
+</re>
+<tx>[Gedruckt: CO XI 27-30, Nr. 213; Corr. des réformateurs VI
+195-198, Nr. 856; englische Übersetzung^&xdatiert 1539^&x{: Letters of John Calvin. Compiled from the original manuscripts and edited with historical notes by Jules Bonnet, Bd. I, Edinburgh 1855, S. 88-91, Nr. XXXI.]
+^&x Philadelphia [1858], Nachdruck: NY 1972 / Grand Rapids 1983, abweichende Seitenzählung: S. 112-115, Nr. XXXI ^&x{
+^&x Engl. TÜ: John T. McNeill, Unitive Protestantism 184f; Zit. Bouvier 89. 128 ^&x{
+</content>
+</letter>

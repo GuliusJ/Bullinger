@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2827">
+<brief>
+<id>17093</id>
+<nr>2827</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1547-02-26"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 26. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 165f (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 941f, Nr. 1057<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 118</k></dr>
+<re><t>Myconius' Brief vom 6. Februar [<qv>nr2797</qv>] ist gut angekommen. Myconius kann beruhigt sein, da es nicht stimmt, dass die Fünf Orte die Auslieferung von Rudolf Gwalther und Bullinger fordern. Am 29. Januar wurden sie vor den Rat der Zweihundert zitiert. Dort las man ihnen die Beschwerden vor, die die Fünf Orte auf der letzten Badener Tagsatzung [vom 10. Januar] vorgebracht haben, wonach Gwalther mit der Publikation seines "Endtchrists" gegen den Zweiten Kappeler Frieden und die Vorschriften für die Buchdrucker verstoßen habe. Gwalther legte ausführlich seine Gründe für die Publikation dar und stellte deren Inhalt vor. Bullinger erklärte u.a., warum er als Verantwortlicher für die Zensur die Veröffentlichung der Schrift erlaubt hat. Danach befahl ihnen der Rat, unbesorgt nach Hause zu gehen und das Evangelium weiter wie bisher zu verkündigen; man werde die Angelegenheit mit den Eidgenossen in Freundschaft regeln. Es wurde also keine Auslieferung verlangt, aber eine Bestrafung der Ruhestörer und Verbreiter des Büchleins. Also keine Sorge! Der Herr wird der Wahrheit und ihren Verfechtern beistehen.</t>
+<t>Konstanz ist bisher (getreu seinem Namen) standhaft, obwohl einige einflussreiche Personen die Stadt zur Übergabe drängen.</t>
+<t>Die Nachricht über einen angeblichen Sieg des Landgrafen Philipp von Hessen stimmt nicht, denn man erzählt vielmehr, dass er seine Truppen entlassen hat und den Befürwortern einer Aussöhnung mit Kaiser Karl V. Gehör schenkt. Bullinger kann den letzten Teil dieser Nachricht nicht glauben! Sollte er dennoch stimmen, dann hätte Philipp, der auch nur ein Mensch ist, enttäuscht. Nur dem Gott der Wahrheit kann man vertrauen.</t>
+<t>Es gilt als sicher, dass der türkische Sultan Suleiman gegen [die Christenheit] ziehen will. Gott bewahre uns!</t>
+<t>Falls die Nachricht von Myconius' tödlicher Erkrankung stimmt und Gott ihn zu sich rufen sollte, so wäre das zwar ein schmerzlicher Verlust für die Kirche, aber auch ein Glück für diesen, wie es das Beispiel des [judäischen Königs] Josia zeigt, der, weil er starb, nicht mehr länger mitansehen musste, wie die Juden wegen ihrer Sünden leiden mussten. [Bullinger und Myconius] haben deutlich auf den frevelhaften Zustand der verdorbenen Gesellschaft hingewiesen, welche auf die Dauer nicht ungestraft bleiben wird. Bullinger weiß schon, dass der treue Myconius lieber der gefährdeten Kirche weiter beistehen würde. Wenn aber der gütige Vater ihn zu sich ruft, dann muss er seiner Stimme folgen. Solange er noch lebt, soll er die Kirche dem Herrn empfehlen und ihn bitten, dass er sie in seinem Zorn nicht vernichtet, sondern väterlich züchtigt und vor dem Antichristen und dessen Täuschungen bewahrt. Die Zürcher werden ihrerseits Gott bitten, Myconius' Glauben zu stärken und ihm Geduld sowie den Sieg zu verleihen, damit er nach der Vernichtung dieser verdorbenen Welt endlich das Antlitz des Herrn schauen darf (wonach sich bereits David sehnte) und sich mit allen Erlösten für immer freuen kann.</t>
+<t>Gruß, auch von den Kollegen! Der Herr führe Myconius zum ewigen Leben!</t></re>
+<text>
+<div>
+<p><zzl>zl17093-5A</zzl>S. D. Recepi tuas, charissime frater, 6. februarii datas.
+<fn>Brief <qv>nr2797</qv>.</fn><zzl>zl17093-5E</zzl> Rogas,
+<fn>Bezug auf <qv>nr2797</qv>,<qv>zl17066-6</qv>.</fn> an vera tibi dixerint, qui retulere Quinquepagicos
+<fn>Die Fünf (katholischen) Orte der Eidgenossenschaft.</fn> Gvaltherum et me postulare, ut nobiscum suo iure agant. Non retulerunt vera, mi frater. <zzl>zl17093-1A</zzl>Ita vero habet res: 29. ianuarii vocati sumus, Gvaltherus et ego, a senatu et diacosiis
+<fn>Der Rat der Zweihundert. - Vgl. <qv>nr2767</qv>, <qv>fn17035-1</qv>.</fn>. Praelecta sunt nobis capita querelae Quinquepagicorum in proximis Badenis comitiis
+<fn>Die letzte Badener Tagsatzung, die am 10. Januar begonnen hatte; s. <qv>nr2737</qv>, <qv>fn17006-1</qv>; <qv>nr2757</qv>, <qv>fn17025-7</qv>.</fn> proposita. Iussi sumus ad illa respondere. Querela erat Gvaltherum contra pacis capita
+<fn>Gemeint ist der Zweite Kappeler Frieden.</fn> scripsisse Antichristum libellum, et eundem aeditum contra receptas leges impressoribus praescriptas.
+<fn>Regelungen, die allerdings erst nach Gwalthers Publikation im Verlauf der Badener Tagsatzung von Dezember 1546 erlassen worden waren und nach denen keine beleidigenden Schriften mehr veröffentlicht werden durften; s. <a>Bächtold, Rat</a> 94; <qv>nr2828</qv>, <qv>fn17094-1</qv>. Im August oder September 1546 hatte der Rat beschlossen, dass vor jeder Veröffentlichung unbedingt eine Bewilligung eingeholt werden musste; s. <a>Bächtold, Rat</a> 93 und Anm. 35.<zfn>fn17093-1</zfn></fn> Gvaltherus multis pro se dixit, quid et qua de causa et quomodo illum librum scripserit. <zzl>zl17093-4A</zzl>Ego multis ostendi, quare vulgari permiserim, qui praelo et revidendis libris sum praefectus.
+<fn>Diese Stelle belegt zum ersten Mal ausdrücklich, dass Bullinger schon vor 1546 mit der sonst bezeugten Bücherzensur in Zürich (s. z.B. <a>HBBW</a> XV 564) beauftragt und sogar der Hauptverantwortliche dafür war.<zfn>fn17093-2</zfn></fn><zzl>zl17093-4E</zzl> Dixi et alia multa, quae videbantur ad rem praesentem, ad patrocinium veritatis et impressurae pertinere. <zzl>zl17093-2A</zzl>Diacosii auditis omnibus concordes iusserunt nos domum redire et tranquillo esse animo, veritatem evangelicam porro ut hucusque anunciare; se negotium cum Helvetiis amice composituros. At nemo Helvetiorum vel Gvaltherum vel me postulavit, sed postularunt mulctari pacis violatores et eos, qui huiusmodi libellum vulgarunt, etc. Spero rem bene habituram.<zzl>zl17093-2E</zzl> Proinde iubeo te in domino securo esse animo. Nihil metuimus ab adversariis. Scimus dominum veritati et veritatis defensoribus non defuturum.<zzl>zl17093-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17093-6A</zzl>Constantia adhuc suo nomini pulchre respondet et perstat fortiter, tametsi in horas a magnis viris solicitetur ad defectionem
+<fn>Zu solchen Vermittlungsbestrebungen zwischen Konstanz und dem Kaiser s. <qv>nr2800</qv>,<qv>zl17068-5</qv>; <qv>nr2816</qv>,<qv>zl17083-1</qv>.</fn>. Oremus, ut ipsam servet dominus.<zzl>zl17093-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17093-7A</zzl>Vanum esse nihil dubito, quod de victoria Hessi
+<fn>Philipp von Hessen. - In Bezug auf <qv>nr2797</qv>,<qv>zl17066-13</qv>.</fn> ad te delatum est. Audimus enim Hessum dimissis militibus suis omnibus aurem praebere illis, qui reconciliationem cum caesare
+<fn>Karl V. - Vgl. <qv>nr2746</qv>,<qv>zl17015-2</qv>; <qv>nr2753</qv>,<qv>zl17000-14</qv>; <qv>nr2785</qv>,<qv>zl17053-22</qv>; <qv>nr2786</qv>,<qv>zl17054-35</qv>; <qv>nr2812</qv>,<qv>zl17080-17</qv>; <qv>nr2816</qv>,<qv>zl17083-15</qv>.<zfn>fn17093-3</zfn></fn> suadent. Ego tamen de optimo principe postremum illud credere non possum. Sed, si vera dicunt et fallit homo, non fallet tamen, cui unice credimus et innitimur, deus veritatis!
+<fn>Vgl. z.B. Ps 118 (Vulg. 117), 8f.</fn><zzl>zl17093-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17093-8A</zzl>Certum est Turcam
+<fn>Sultan Suleiman I. - Siehe <qv>nr2759</qv>,<qv>zl17027-19</qv>; <qv>nr2782</qv>,<qv>zl17050-21</qv>; <qv>nr2797</qv>,<qv>zl17066-17</qv>; <qv>nr2816</qv>,<qv>zl17083-10</qv>.<zfn>fn17093-4</zfn></fn> esse in procinctu Martis et venturum contra nos. Dominus servet nos.<zzl>zl17093-8E</zzl></p>
+</div>
+<div>
+<p><vl>165v.</vl> <zzl>zl17093-3A</zzl>Audio te, mi frater, graviter e laetali decumbere morbo.
+<fn>Vgl. <qv>nr2822</qv>,<qv>zl17088-4</qv>.</fn> Quodsi verum est, quod audio, doleo te nobis ereptum iri. Doleo ecclesiam suo pastore spoliari. Rursus gratulor tibi tuam illam felicitatem maximam. Si enim evocarit te ex hoc seculo dominus, faciet tecum, quod olim cum dilecto suo rege Josia
+<fn>Josia, Reformkönig von Judäa, der zwar im Krieg starb, jedoch noch vor der babylonischen Gefangenschaft; s. 2Kön 22, 1, bis 23, 30; 2Chr 35, 20-27.</fn> fecit
+<fa><i>Am Rande nachgetragen.</i></fa>, quem sustulit e medio, ne oculi eius enormia illa mala inspicere cogerentur, quae passuri erant Iudaei propter peccata, ingratitudinem et perfidiam maxime. Scimus omnes, quales sint mores nostri, qualia studia, imo singuli indicamus et clamamus conscelerationem
+<fn>frevelhaften Zustand.</fn> illam perditissimam omnium, et ordinum et statuum, non posse diutius inultam exultare. Veniet ergo iustissimus dominus et visitabit iniquitates nostras,
+<fn>Vgl. Ps 89 (Vulg. 88), 32f.</fn> quando plerique poenitentiam praedicatam subsannant. Atque hic sat scio, desiderat fides et charitas tua periclitanti adesse ecclesiae et omnia experiri adversa atque dura. Verum si evocarit te dominus, sequendus est tibi vocans ille, omnium rerum dominus et benignissimus pater, imo laudandus, qui te innumeris liberat malis. Commendabis tamen nunc, dum vivis, ecclesiam, tuae fidei hactenus creditam, domino
+<fa><i>Über der Zeile nachgetragen.</i></fa>. Orabis, ut eius et omnium nostrum misertus nos non in furore suo perdat,
+<fn>Vgl. Ps 6, 2; 38 (Vulg. 37), 2.</fn> sed clementer ac paterne castiget
+<fn>Vgl. Spr 3, 12.</fn> et in veritate et sancta eius voluntate conservet, ab antichristo
+<fn>Gemeint ist das Papsttum.</fn> et omni eius deceptione protegat. Nos orabimus, ut te in fide vera confirmet, patientiam et victoriam conferat, ut exuta carne peccatrice, calcato hoc coenoso mundo et superatis omnibus malis videas eum, ad quem suspirans David orat: "Notam mihi facies semitam vitae; satietas gaudiorum in conspectu tuo est et iucunditates in dextra tua in perpetuum."
+<fn>Ps 16 (Vulg. 15), 11, zitiert fast wörtlich nach der lateinischen Bibelausgabe, die in Zürich 1544 gedruckt wurde (<a>BZD</a> C 328).</fn> Dominus Iesus, vita et resurrectio nostra,
+<fn>Vgl. Joh 11, 25.</fn> qui in se suscepit peccata nostra
+<fn>Vgl. 1Petr 2, 24.</fn> et abluit, imo abolevit, ideo mortuus est, et resurgendo vitam reduxit, servet te in aeternum regnum suum, ubi mox collecti aeternum mutuo in conspectu <vl>166r.</vl> dei nostri laetabimur et exultabimus cum omnibus sanctis!<zzl>zl17093-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17093-9A</zzl>Vale aeternum, mi colendissime domine et frater charissime! Dominus Iesus per meritum sanctae passionis suae perducat te in vitam aeternam!<zzl>zl17093-9E</zzl> Tiguri, 26. februarii anno 1547. Salutant te fratres omnes.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Auf den unbeschriebenen Teil dieser Seite wie auch über die Adresse auf der Versoseite dieses Blattes hat Myconius einen vom 28. Februar 1547 datierten und reichlich mit Nachrichten versehenen Brief abgeschrieben, was darauf hindeutet, dass dieser nicht an ihn, sondern an eine andere in Basel wohnende Person adressiert war. Aus dem Inhalt geht hervor, dass der Brief aus Straßburg stammte.]
+<fn>Im Brief wird nämlich berichtet: "auditi tamen nostri legati sunt dominica Esto mihi [d.h. 20. Februar]". Die Straßburger Gesandten Jakob Sturm, Mathis Pfarrer und Marx Hag wurden tatsächlich an diesem Tag von Antoine Perrenot, Bischof von Arras, anstelle von dessen abgereistem Vater Nicolas Perrenot, Herr von Granvelle, in Ulm empfangen; s. <a>PC</a> IV/1 613-615, Nr. 562. - Vermutlich handelt es sich hier um einen Auszug aus einem noch unbekannten Brief Konrad Huberts an Johannes Oporin.<zfn>fn17093-5</zfn></fn></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Osvaldo Myconio, domino et fratri colendo suo. Basel.
+<fa><i>Darüber von Bullingers Hand:</i> BULLINGERI LITERAE ad Myconium Basilaea remissae. <i>- Es handelt sich dabei um eine Überschrift zu einem von Bullinger zusammengestellten Bündel von Briefen des Myconius. Vgl. z.B. <a>HBBW</a> XVI 14, Anm. 27; 193, Anm. h; 301, Anm. i; 403, Anm. c; XVII 164, Anm. f; XVIII 392, Anm. q.</i></fa></p>
+</div>
+</text>
+</brief>

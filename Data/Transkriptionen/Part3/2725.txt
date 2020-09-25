@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2725">
+<brief>
+<id>16414</id>
+<nr>2725</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-12-26"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 26. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 267 (neu: 283) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 151; Zit.: W. <i>Köhler,</i> Bibliotheca Brentiana Nr. 809; <i>Gast,</i> Tagebuch 43. =====Verweise: HB an Myconius, 26. Dez. "1546", E II 342, 143, "Attulit mihi tuas"; HB an Vadian, 27. Dez. "1546"; E II 342, 142, "Allatae sunt senatui", Vadian BW VI 482f, siehe je [1545]. =====</k></dr>
+<re><t>Wegen aufwühlender Nachrichten aus Straßburg hatte Myconius keine angenehme Weihnacht. Gott aber hat ihn daraufhin wieder etwas aufgerichtet.</t>
+<t>[Kurfürst Johann Friedrich von] Sachsen hat dem Mainzer [Erzbischof Sebastian von Heusenstamm] großen Schaden zugefügt. [Landgraf Philipp von] Hessen soll sich noch bei [Herzog] Moritz [von Sachsen], dem Verantwortlichen dieses Desasters, aufhalten. Einer Mitteilung von [Johannes] Brenz aus [Schwäbisch] Hall zufolge hat sich das Heer Kaiser [Karls V.] geteilt: [Maximilian von Egmont, Graf] von Büren, sei zur Verteidigung des Mainzer Erzbischofs losgezogen; der Kaiser hingegen strebe nach Württemberg. Über den Pfalzgrafen [Friedrich II.] hört man nichts Gutes. Angeblich hat [Herzog Ulrich] von Württemberg seinen Bruder Georg zum Kaiser gesandt, um einen Frieden auszuhandeln. Ulm und Augsburg sollen dies auch vorhaben; ja sie sollen sogar bereits in Verhandlungen stehen! Myconius ist darüber entsetzt. Was halten denn all diese von Christus und dessen Evangelium? Zu Recht werden sie von den Söhnen Belials [des Teufels] spöttisch gefragt, wo denn ihr Gott stecke! Hoffentlich verliert Myconius dabei nicht noch den Verstand!</t>
+<t>Gestern wurde er von [Francisco de] Enzinas und [Johannes] Oporin richtig aufgemuntert, indem sie ihm über den Tod des Kaisers erzählten. Daraufhin konnte er friedlich schlafen. Doch heute Morgen traf erneut ein völlig entmutigender Brief ein, so dass er dadurch veranlasst wurde, nach den Verheißungen und der Allmacht Gottes zu fragen. Ist denn der Papst nicht der Antichrist und der Kaiser dessen Diener? Gewiss, wir haben gesündigt. Doch haben wir auch bei Gott um Barmherzigkeit gefleht. Warum entzieht dieser uns also seine Hilfe?</t>
+<t>Unterdessen traf ein anderer Brief ein, demzufolge der Türke [Sultan Suleiman I.] sich sehr stark gegen Ungarn, Österreich, Böhmen und Sachsen rüstet, so dass man sich ihm kaum wird widersetzen können. Das aber beunruhigt Myconius weit weniger als alles, was den Antichristen betrifft.</t>
+<t>Von wo, außer Gott, ist nun Hoffnung zu erwarten? Myconius will sich keinem anderen anvertrauen. Der Herr verleihe ihm Beharrlichkeit und Geduld.</t>
+<t>Was die Konstanzer den Zürchern und diese wiederum den Baslern über von Büren berichtet haben, stimmt nicht überein [mit der oben übermittelten Nachricht]. Zudem hält sich das Gerücht [aus Konstanz] immer noch. Diesem zufolge soll von Büren sich mit einem Leichnam in Begleitung vieler Bischöfe nach "Belgien" begeben. Um wessen Leichnam mag es sich wohl handeln?</t>
+<t>Noch beunruhigter ist Myconius darüber, dass die [evangelischen] Städte [Süddeutschlands] sich spontan [dem Kaiser] ergeben haben und viele sogar aus dem [Schmalkaldischen] Bund ausgetreten sein sollen. Christus wird sich wohl nie unter ihnen aufgehalten haben! Denn sollte das Gerücht stimmen, haben sich diese alle dem Antichristen verschrieben! Christus errette seine Kirche! Falls Bullinger etwas Tröstliches zu berichten hätte, soll er
+es bitte mitteilen.</t>
+<t>Gruß an die Familie und an [Rudolf] Gwalther u.a.</t></re>
+<text>
+<div>
+<p>S. Adeo turbulenta scripta sunt his proximis diebus ex Argentina,
+<fn>Ein nicht mehr erhaltener Brief an Myconius aus Straßburg (vielleicht von Bucer), dem vermutlich eine Abschrift von Johannes Brenz' Brief an Bucer, 13. Dezember 1546, beigelegt worden war; vgl. unten Z. <qv>zl16414-1</qv>, mit <qv>nr2722</qv>,<qv>zl16411-2</qv>.<zfn>fn16414-1</zfn></fn> ut festum hoc natalitium egerim triste vehementer, donec dominus me mihi nonnihil reddidit.
+<fn>Vgl. dazu Myconius' Mitteilung über sich selbst in <qv>nr2715</qv>,<qv>zl16404-6</qv>.</fn></p>
+</div>
+<div>
+<p><zzl>zl16414-3A</zzl>Saxo
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> Maguntinum
+<fn>Sebastian von Heusenstamm, Erzbischof von Mainz. - Siehe dazu <qv>nr2723</qv>, <qv>fn16412-5</qv>.</fn> valde adflixit, unde gravem hostem habiturus est eundem.<zzl>zl16414-3E</zzl> Hessus
+<fn>Landgraf Philipp von Hessen. - Ein falsches Gerücht, zumal der Landgraf eine persönliche Zusammenkunft mit Herzog Moritz von Sachsen mit einem Schreiben vom 13. Dezember 1546 ausgeschlossen hatte (als Grund nannte er die Gefahr, der sein Territorium durch den Grafen von Büren ausgesetzt sei). Der Landgraf hatte jedoch Gesandte zu Moritz geschickt; s. <a>Moritz von Sachsen PK</a> II/2 975f, Nr. 1087.<zfn>fn16414-7</zfn></fn> esse dicitur adhuc apud Mauritium
+<fn>Herzog Moritz von Sachsen.</fn>, malorum istorum authorem. <zzl>zl16414-1A</zzl>Ex Hala
+<fn>Schwäbisch Hall.</fn> scribit Brentius
+<fn>Siehe dazu oben <qv>fn16414-1</qv>.</fn> exercitum c{e}saris
+<fn>Karl V.</fn> divisum esse et <zzl>zl16414-6A</zzl>Burensem
+<fn>Maximilian von Egmont, Graf von Büren; vgl. <qv>nr2722</qv>,<qv>zl16411-13</qv>. - Zu dessen Route s. <qv>nr2706</qv>, <qv>fn16394-1</qv>.</fn> proficisci ad defendendum Maguntinum,<zzl>zl16414-6E</zzl> c{e}sarem contra Wirtenbergam
+<fn>Vgl. <qv>nr2722</qv>,<qv>zl16411-14</qv>. - Zur Route des Kaisers s. <qv>nr2722</qv>, <qv>fn16411-9</qv>.</fn>.<zzl>zl16414-1E</zzl> De Palatino
+<fn>Kurfürst Friedrich II. von der Pfalz. - Er hatte sich kurz zuvor dem Kaiser ergeben; s. <qv>nr2709</qv>, <qv>fn16396-1</qv>.</fn> nemo bene narrat. Wirtenbergensis
+<fn>Herzog Ulrich von Württemberg.</fn> misisse dicitur Georgium fratrem
+<fn>Graf Georg von Württemberg-Mömpelgard. - Siehe dazu <qv>nr2722</qv>,<qv>zl16411-15</qv> mit <qv>fn16411-2</qv>.</fn> ad c{e}sarem pro pace. <zzl>zl16414-4A</zzl>Ulmam
+<fn>Zur Unterwerfung Ulms wenige Tage zuvor s. die Verweise in <qv>nr2722</qv>, <qv>fn16411-11</qv>.</fn> et Augustam
+<fn>Die Aussöhnungsverhandlungen Augsburgs mit dem Kaiser gingen nach der Auflösung des Bundesheeres zunächst auf private Initiativen und nicht auf den Augsburger Rat zurück. Dieser hatte noch am 11. Dezember dem Kurfürsten und dem Landgrafen versichert, dass er nicht gedenke, sich von ihnen abzusondern; s. Hermann Joseph <i>Kirch,</i> Die Fugger und der Schmalkaldische Krieg, München/Leipzig 1915 - Studien zur Fugger-Geschichte 5, S. 118 mit Anm. 1. Doch aus Johannes Hallers Briefen vom 23. und 27. Dezember (<qv>nr2723</qv> und <qv>nr2726</qv>) geht hervor, dass man sich schon bald danach Gedanken machte, ob man in Verhandlungen mit dem Kaiser treten solle. - Die Unterwerfung Augsburgs erfolgte in langen Unterhandlungen, die Mitte Januar 1547 begannen und auch nach dem in Ulm am 29. Januar geleisteten Fußfall der Augsburger vor dem Kaiser fortgesetzt wurden; s. ebd., S. 117-132, bes. 124f.<zfn>fn16414-5</zfn></fn> aiunt idem cogitare, imo facere, quae res ita me consternatum facit, ut de novo non sim apud me. Video namque eos omnes esse in desperatione, quod quidem dum verum, ubi est Christus eorum, ubi evangelium Iesu Christi? Quid didicerunt? Quamobrem exprobrant eis recte filii Belial
+<fn>des Teufels; vgl. 2Kor 6, 15.</fn>: "Ubi est deus vester?"
+<fn>Vgl. Ps 42 (Vulg. 41), 4. 11; 79 (Vulg. 78), 10; 115, 2 (Vulg. 113, 10); Jo 2, 17.</fn><zzl>zl16414-4E</zzl> Tentatio illa graviter etiam me divexat secundum carnem; spiritum adhuc salvum spero.</p>
+</div>
+<div>
+<p><zzl>zl16414-5A</zzl>De morte c{e}saris
+<fn>Zu den falschen Gerüchten über den angeblichen Tod des Kaisers s. die Verweise in <qv>nr2700</qv>, <qv>fn16388-4</qv>.<zfn>fn16414-4</zfn></fn> heri me Dryander
+<fn>Francisco de Enzinas, der damals in Basel in der Offizin von Johannes Oporin an der Drucklegung seiner Schriften arbeitete.</fn> una cum Oporino sic erexerat, ut suaviter dormirem per noctem sequentem. Hodie mane literas legi, quibus ita deiectus sum denuo
+<fa><i>Über der Zeile nachgetragen.</i></fa>, ut parum abfuerit, quin clamassem: "Eheu domine deus, ubi sunt promissiones tu{e}, ubi est potentia tua, ubi auxilium tuis addictum in necessitatibus? An papa non est antichristus, an c{e}sar non est antichristi minister? Annon militant omnes contra regnum tuum? Peccavimus, quod constat, sed petimus misericordiam, rogamus vitam iuxta voluntatem tuam credimusque te fore propicium! Quur ergo differendo auxilium nos ita adfligis? Adsis ergo, adsis misericorditer, vel periimus!"<zzl>zl16414-5E</zzl></p>
+</div>
+<div>
+<p>Dum hisce me crucio, venerunt ali{e} liter{e} de Turca
+<fn>Sultan Suleiman I. - Zu dieser Nachricht s. <qv>nr2712</qv>,<qv>zl16400-5</qv>; <qv>nr2723</qv>,<qv>zl16412-16</qv>, sowie auch die Nachfrage, die König Ferdinand I. diesbezüglich an seinen Gesandten bei der Pforte, Gerhard Veltwyck, am 5. Januar 1547 (<a>Austro-Turcica</a> 129-131, Nr. 40) richtete.<zfn>fn16414-6</zfn></fn> et eius consilio: Parare se contra reliquam Ungariam, contra Austriam, Boëmiam et Saxoniam adeo fortiter, ut nemo putetur ei posse resistere. Nova perturbatio, qu{e} tamen longe minus me vexat quam antichristiana!</p>
+</div>
+<div>
+<p>Ita, quocunque me verto, non occurrit spei vel tantillum, si dominum excepero. Is etenim protinus dicit: ",Et tu vis discedere a me?' Mox ego: ,Domine, quo ibo? Verba vit{e} habes {e}tern{e}!'
+<fn>In Anspielung auf die von Jesus seinen Jüngern gestellte Frage und auf die darauf erfolgte Antwort von Petrus; s. Joh 6, 67f.</fn> Des modo spiritum perseverantiae et patientiae,
+<fn>Vgl. Kol 1, 11.</fn> ut victores evadamus per te et servemur ad vitam."
+<fn>Vgl. z.B. Mt 10, 22.</fn></p>
+</div>
+<div>
+<p>De Burensi dixerunt aliud
+<fn>Anderes nämlich als das oben in Z. <qv>zl16414-6</qv> mitgeteilte (richtige) Gerücht, laut dem von Büren sich auf dem Weg nach Mainz befunden haben soll.</fn> Constantienses apud tuos
+<fn>Gemeint ist das Schreiben des Rates von Konstanz an Zürich, 16. Dezember 1546 (Zürich StA, A 177, Nr. 153), dessen Inhalt die Zürcher an die Basler weiterleiteten (Basel StA, Politisches M 8.3, 436 - wir danken Rainer Henrich für diese Angabe). - Im Brief aus Konstanz wurde fälschlich berichtet, dass von Büren sich mit dem Leichnam des Kaisers in die südlichen Niederlande begäbe; s. dazu schon <qv>nr2706</qv>,<qv>zl16394-4</qv> und <qv>fn16394-3</qv>.<zfn>fn16414-3</zfn></fn> et hi apud nostros. Durat sermo ille adhuc, nempe proficisci ipsum in Belgicum
+<fn>Zur Bezeichnung s. <qv>nr2710</qv>, <qv>fn16397-12</qv>.</fn> et vehere secum cadaver hominis, quod episcopi sequantur satis multi. Ignorari tamen, cuius id sit.</p>
+</div>
+<div>
+<p><zzl>zl16414-2A</zzl>Adhuc magis me exagitant, qu{e} sequuntur: quod videlicet civitates
+<fn>Wie z.B. Donauwörth, Nördlingen, Giengen an der Brenz, Bopfingen, Dinkelsbühl, Rothenburg ob der Tauber und Schwäbisch Hall.<zfn>fn16414-2</zfn></fn> se dedunt sponte (ibi non credo Christum fuisse unquam)
+<fa><i>Klammern ergänzt.</i></fa>; dein, quod foedus
+<fn>Gemeint ist der Schmalkaldische Bund.</fn> a multis dicitur rescindi. Nam hoc, si sic habet, devoverunt
+<fa>ve <i>in</i> devoverunt <i>über der Zeile nachgetragen.</i></fa> se, qui id faciunt, antichristo et omnibus huius blasphemiis, omnes! Dominus Iesus respiciat ecclesiam suam. Si quid est consolationis, communicato, per Christum oro!<zzl>zl16414-2E</zzl></p>
+</div>
+<div>
+<p>Vale cum tuis, Gvalthero et aliis in domino. Basile{e}, 26. decembris anno 1546.</p>
+<un>Tuus O. Myc.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, ministro Christi, fratri ac domino suo in Christo venerando. Zü[ric]h
+<fa><i>Textverlust bei Entfernung des Verschlussbandes.</i></fa>.
+<fn>Vorliegender Brief wurde einem Schmied aus Dübendorf anvertraut; s. <qv>nr2729</qv>,<qv>zl16418-1</qv>.</fn></p>
+</div>
+</text>
+</brief>

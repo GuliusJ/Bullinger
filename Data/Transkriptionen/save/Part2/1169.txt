@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1169">
+<nr>1169</nr>
+<correspondents>
+	<originator fn=1>Johannes Pistorius</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Johannes Pistorius (Becker, Niddanus), von Nidda (Wetteraukreis, Hessen), 1502-1583, studierte in Straßburg und wirkte von 1526 bis 1580 als Pfarrer, 1541-1580 zudem als Superintendent der Diözese Alsfeld, in Nidda.
+Der gelehrte Pistorius - Befürworter der Doppelehe von Landgraf Philipp - nahm an den Religionsgesprächen in Hagenau 1540, Worms 1541, Regensburg 1546 und Worms 1557 teil; er war mit Melanchthon befreundet und unterstützte mit Bucer 1543 den Reformationsversuch in Köln.
+Aus seinem Briefwechsel mit Bullinger sind insgesamt acht Schreiben aus den Jahren 1538-1547 erhalten. - Lit.: Hans-Jürgen ^#/+Günther,^#/- Die Reformation und ihre Kinder, dargestellt an: Vater und Sohn Johannes Pistorius Niddanus. Eine Doppelbiographie. J. Pistoriusd. Ä. (1502-1583) und J.
+Pistoriusd. J. (1546-1608), Nidda 1994. - Niddaer Geschichtsblätter, 2; Hütteroth 16; H. ^#/+Steitz,^#/- in: RGG V 388; Eckhard ^#/+Reichert,^#/- in: BBKL VII 648f.</note>
+</correspondents>
+<space_time>
+	<place>Kassel</place>
+	<date>6. September 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 363, 26r.-v. (Siegelspur)</vo>
+<dr>Teildruck: ^#/+Köhler,^#/- Hessen und die Schweiz 466f, Nr. 3</dr>
+<re>Beklagt die große Zahl der Häresien und wünscht sich eine Synode der Evangelischen, auf der ihre Lehre für die Nachfahren dargelegt wird. Bei ihnen sind viele unsicher im Glauben, werden zügellos und bestreiten - wie einst die Sadduzäer - die Auferstehung nach dem Tode; angesichts der
+Willfährigkeit der Jugend ist zu befürchten, daß sie bald als Heiden gelten.
+Bullinger oder [Theodor] Bibliander soll besorgt sein, daß [das Panarion von] Epiphanius ins Lateinische übersetzt wird, um - nun nach Beendigung des Sakramentsstreites - der Tolerierung abergläubischer Kirchenbräuche entgegenzuwirken; sein Kollege Dionysius Melander wird Weiteres berichten.
+Viele erwarten die Evangelienkommentare Bullingers und den zweiten Teil der Hebräischgrammatik Biblianders; wenn dieser mit der Auslegung der Propheten fortfahren würde, wäre dies besonders fruchtbar für die Kirche. Bittet, den Brief im Guten aufzunehmen.
+</re>
+<tx>Graciam a deo per Christum in spiritu sancto.
+^$Experior indies, mi doctissime Bulingere, sicut in magno
+corpore semper est aliquid, quod querelam offert et
+medicantis manum requirit, ita eciam esse in ecclesia, domo
+magna et regno Christi. Ante Christum natum, Augustino
+teste, hereses fuerunt viginti octo<f1>Augustin bezieht sich auf Filastrius, der 28 vorchristliche Häresien zählte; s. Epistula 222, 2 (CChr XLVI 276, 8-12).<fe>. Etas Augustini longe
+plures habuit. Certe si quis huius nostri fermentati seculi
+errores numeret, de fide, trinitate, baptismo,
+poenitentia, Christo homine, Christo deo, sacramentis etc.,
+pauciores inveniet nunquam. Idque facit, ut ego pro mea
+tenuitate soleam perpetuo habere in ore dictum illud
+Polycarpi dicentis: "Deus, in quę tempora nos posuisti!"<f1>Siehe Eusebius von Caesarea, Historia ecclesiastica, 5, 20, 7.<fe>
+Olim quos timor dei non cohercebat, cohercebant sinodi.
+Multis annis nullam habuit salutarem synodum ecclesia, et
+tamen morbi huius temporis vere exposcerent medelam,
+quando admodum multum querelę et mali est. Et ut hoc
+non esset, tamen omnes nos, qui amplexi sumus renovatam
+evangelii doctrinam, aliquando colloqui deceret, quo certum
+et explicatum doctrinę genus et certam ecclesię formam
+traderemus posteris.
+^$Sathan, ut est callidus, hic apud nos
+multos agitat, idque pretextu par­oxismorum nostrorum, ut, dum
+summa inconstancia iam hoc, iam illud credant, posthac nihil
+prorsus credant et evadant in populum asotoris<f1>Dieses sonst nicht belegte Nomen agens ("Heillosmacher", zu verbinden mit asotus) bezeichnet offenbar den Teufel.<fe>.
+Horrendum, quod olim in populo dei reperirentur, qui titulo
+Saducei dicti iniustissimi erant, negantes post hanc vitam
+aliam<f1>Vgl. Mt 22, 23 u. ö.<fe>, multo vero horribilius, quod in tanta evangelii luce
+multi inveniuntur Saduceis non dissimiles luxu diffluentes,
+resurrectionem vero post hanc vitam nihili facientes, imo
+irridentes. Ad hec mala accedit, quod iuventus ad quidvis
+sequax misere negligitur totaque perit, ita ut nisi
+clementissimus deus res nostras miserrime adflictas benigne
+adspiciat nostrique misereatur, timendum sit nos brevi pro
+christianismo habituros gentilismum, ut<fx>ut ^#/+vom Schreiber korrigiert aus^#/- et.<fe> canticum illud apud
+veteres usurpatum<f1>Gemeint ist der Mythos vom Goldenen Zeitalter (Hesiod, Werke und Tage, 106-200; Ovid, Metamorphosen, 1, 76-150).<fe>, cum laus priscorum temporum una cum republica et populi Romani libertate profligata esset,
+appositissime cani de nobis possit, scilicet etas parentum
+peior avis tulit nos nequiores, mox daturos progeniem
+vitiosiorem.
+^$Iam cum tu, doctissime Bulingere, nostra etate mihi semper
+is sis habitus, per quem dominus ceu ecclesię suę
+organon electum multum commodavit, et te ad maiora
+procul dubio usurus sit, verum paroxismo illo sacramentali
+finito alium fortassis longe nocentiorem ecclesię Christi
+ceremonialem scilicet inter nos exuscitare conetur sathan,
+utpote maximam remoram rebus in melius instituendis,
+rogaverim te per eum, qui iudicaturus est vivos et mortuos<f1>2Tim 4, 1.<fe>,
+ut hic peragas opus evangelistę fidelissimi
+ministeriumque tuum ad plenum probatum reddas. Id autem
+facies, si procures per te aut Bibliandrum, uti Epiphanius<f1>Gemeint ist das "Panarion" des Epiphanius von Salamis, eine zwischen 374 und 377 verfaßte Darstellung von 80
+Häresien. Eine erste Druckausgabe erschien 1543 in lateinischer Übersetzung bei Robert Winter in Basel (VD 16, E 1644). Epiphanius, geb. um 315 bei Eleutheropolis in Palästina, gest. 403, ein Vorkämpfer der nizänischen Orthodoxie, war ab 367 Bischof von Konstantia (Salamis, Zypern). - Lit.: Wolfgang
+A. ^#/+Bienert,^#/- in: LThK^#'3 III 723-725.<fe>,
+historiarum primitivę ecclesię diligens et fidus
+scriptor, e Greco in Latinam linguam non solum syncere
+vertatur, verum eciam scholiis illustretur, quo tamen vel
+tandem admiratores illi ceremoniarum nihil non merito
+deferri debere non solum infirmis per initia, verum eciam
+improbis<fx>improbis ^#/+vom Schreiber korrigiert aus^#/- reprobis.<fe> perpetuo contendentes ob pacem et spem<fx>et spem ^#/+am Rande nachgetragen.^#/-<fe> nescio quam, pudefiant, non<fx>^#/+vor^#/- non ^#/+gestrichenes unleserliches Wort.^#/-<fe> intelligentes improbos, si illis vel quippiam detur,
+protinus nostra benignitate ad subversionem veritatis abusuros, unice cum hoc scilicet cogitent, quomodo
+suam supersticionem rursus statuere possint. Scripturus est
+eadem de re ad te Dionisius Melander<f1>In Melanders Brief vom 17. September (unten Nr. 1177) ist von dieser Thematik nicht die Rede.<fe> noster, cum quo iam
+apud Cassellanos eundem Christum prędico. Nam quod
+hactenus nihil ad te scripserit, ne illi imputes; per
+aliquot enim fere annos nunquam nundinarum Francofordiensium
+feriis interfuit, imo neque domi suę tum inesse licuit
+ob frequencia comitia, quę cum illustrissimo principe
+nostro illum invisere perpetuo oportet<f1>Vgl. ebd., Z. 4-8.<fe>.
+^$Commentaria tua in quatuor evangelistas <vl>26v.</vl> expectantur summa aviditate ab omnibus<f1>Bullingers Evangelienkommentare erschienen erst 1542 (zu Mt), 1543 (zu Joh), 1545 (zu Mk) und 1546 (zu Lk); vgl. HBBibl I 144, 153, 170 und 173.<fe>.
+Sunt quoque apud nos plurimi, qui alterum institucionum grammaticarum de lingua Hebrea Bibliandri librum cum commentariis de lingua sancta eiusdem summopere efflagitent<f1>Der zweite Teil von Biblianders hebräischer Grammatik - der erste war 1535 bei Froschauer gedruckt worden - erschien nie; vgl.
+^#/+Egli,^#/- Analecta II 34-36.<fe> efflictim optantes, quo vel tandem prodeant in lucem.
+Et profecto, quantum in me iuditii est, ecclesię Christi non exiguum conferet fructum, si in his perrexerit neque eciam destiterit in explanandis prophetis<f1>1534 war von Bibliander ein Kommentar zu Nahum erschienen; s. oben Nr. 1131, Anm. 9.<fe>.
+^$His iam vale in domino Iesu, doctissime Bulingere, et boni
+consules meam audaciam, qua tuas litteratissimas aures meis
+illitteratis perstrepere litteris non sum veritus tua fretus
+humanitate.
+^$Raptim, Cassileę, sexta die septembris anno etc. 1538.
+<un>Deditissimus tibi Ioannes Pistorius, Niddanus,
+<un>concionator Cassileus.
+<lz>[Adresse darunter:] Optimo ac eruditissimo virod. Henrycho Bulingero, maiori suo et charissimo et
+observantissimo, Tigurino etc.<fx>^#/+Darunter von Bullingers Hand:^#/- Concionator Casseliensis principis Hessi.<fe>
+</content>
+</letter>

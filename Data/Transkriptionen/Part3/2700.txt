@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2700">
+<brief>
+<id>16388</id>
+<nr>2700</nr> <from persid="FrölichGeorg"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-12-04"/>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 4. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 326 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 112 </k></dr>
+<re><t>Es gibt nur zu melden, dass die [schmalkaldischen] Truppen abziehen und dabei versuchen, den Feinden zu schaden. Kurfürst [Johann Friedrich] von Sachsen, dem Kaiserliche nachsetzen, zieht auf Würzburg und Bamberg zu. Wahrscheinlich kommt es zu einer Schlacht. Nördlingen hat sich Kaiser [Karl V.] ergeben, ohne dazu genötigt worden zu sein. Das wird schlimme Folgen haben!</t>
+<t>Es heißt, dass ein Tag zu Baden stattfinden wird. Angesichts der aktuellen Gefahr sollte sich jeder die Sache zu Herzen nehmen. Die Zürcher sollen den anderen Eidgenossen die üblen Folgen dieses Krieges klarmachen und sie überzeugen, einen gemeinsamen Brief an den Kaiser zu richten, um diesen aufzufordern, den Krieg abzubrechen, da sie sonst Maßnahmen treffen müssten, um ihre Interessen zu wahren. Ein solches Schreiben würde dem Feind wohl zu denken geben und der gemeinsamen Sache zugutekommen.</t>
+<t>Seit einigen Tagen hört man, dass der Kaiser gestorben sei. Man wettet sogar darauf. Sollte es stimmen, wäre das ein Wunder Gottes, wie einst der Untergang Pharaos! Doch könnte eine List dahinter stecken.</t>
+<t>Hoffentlich ist Frölichs Antwort [<qv>nr2689</qv>] auf Bullingers Brief [nicht erhalten] eingetroffen!</t>
+<t>Hans Wilpert Zoller ist gesund nach Augsburg zurückgekehrt. [Johannes] Haller schreibt wohl selbst [durch den Knecht von Johannes Wyss].</t>
+<t>In Eile. Gruß, auch an die Obrigkeit und an die Freunde.</t></re>
+<text>
+<div>
+<p>Fürgeliebter herr unnd bruder, ich waiß euch besonnders nit zu schryben, dann das unnser kriegsfolkh im abzug ist.
+<fn>Das Feldlager der Schmalkaldener bei Giengen an der Brenz war am 22. November aufgehoben worden; s. <qv>nr2662</qv>, <qv>fn16351-3</qv>.</fn> Wurdt sich doch understohn
+<fn>sich doch understohn: trotzdem versuchen.</fn>, den feynnden underwegs abzeprechen
+<fn>zu schaden.</fn>. <zzl>zl16388-4A</zzl>Dann der churfurst
+<fn>Johann Friedrich I. von Sachsen.</fn> zeucht inn guter ordnung uff Wurtzburg und Bamberg z{uo}.
+<fn>Noch bis kurz vor Mitte Dezember nahm man an, der Kurfürst werde in Richtung Franken ziehen; s. etwa <a>NBD</a> 372-375, Nr. 114. - Doch die Route des Kurfürsten verlief über Heidenheim, wo er sich vom Landgrafen Philipp am 24. November trennte; danach zog er weiter über Schwäbisch Gmünd, das Remstal (via Schorndorf und Großheppach), Heilbronn, Ladenburg (bei Mannheim) und durch die Bergstraße nach Frankfurt, ehe es von dort über Thüringen nach Sachsen ging, wo der Kurfürst Ende Dezember eintraf; s. Konstanzer Rat an den Zürcher Rat, 4. Dezember (Zürich StA, A 177, Nr. 150); <qv>nr2662</qv>, <qv>fn16351-3</qv>; <a>PC</a> IV/1 511f, Nr. 477f; <a>Heyd, Ulrich von Württ.</a> III 431f; Karl von <i>Martens,</i> Geschichte der innerhalb der gegenwärtigen Gränzen des Königreichs Württemberg vorgefallenen kriegerischen Ereignisse, Stuttgart 1847, S. 268. Am 13. Dezember teilte der Konstanzer Rat dem Zürcher Rat mit (Zürich StA, A 177, Nr. 152), dass der Kurfürst Ladenburg am 8. Dezember verlassen habe.<zfn>fn16388-3</zfn></fn> Die kaiserischen ziehen ime an der seitten nach.
+<fn>Der Kaiser ließ dem abziehenden Kurfürsten mit seiner Reiterei nachsetzen; s. Konstanz an Zürich, 16. Dezember (Zürich StA, A 177, Nr. 153).<zfn>fn16388-2</zfn></fn><zzl>zl16388-4E</zzl> Unnd ist mir glaublich, es werde noch ain schlacht darauß. Die stat Nördling
+<fn>Nördlingen. - Am 27. November erhielten sieben Nördlinger Gesandte eine Audienz beim Kaiser in dessen Hauptquartier in Bopfingen und baten kniend, sie in Gnaden aufzunehmen, was zu großer Erregung der Bevölkerung und der Zünfte führte; s. Ludwig <i>Müller,</i> Die Reichsstadt Nördlingen im schmalkaldischen Kriege, Nördlingen 1877, S. 120-122.<zfn>fn16388-5</zfn></fn> hat sich on alle not an den kaiser
+<fn>Karl V.</fn> ergeben. Das wurdt unns alhie ubel kömen.</p>
+</div>
+<div>
+<p><zzl>zl16388-3A</zzl>Ich vernimme, das yetzt ain tag zu Baden
+<fn>Die am 7. Dezember beginnende Badener Tagsatzung; s. <qv>nr2693</qv>, <qv>fn16379-7</qv>.</fn> gehalten werden soll. Dhweil dann die sachen furwar zweiffelig und gefärlich steen, so were gut, das yederman darzu thet
+<fn>darzu thet: sich einsetze, Rat schaffe; s. <a>SI</a> XIII 304.</fn>. Unnd wann eure herren von Zurch als sam
+<fn>als sam: ebenso; s. <a>SI</a> VII 904.</fn> fur sich selbs
+<fn>fur sich selbs: in ihrem Namen (und zwar nicht in dem der Schmalkaldener).</fn> und trewer maynung
+<fn>trewer maynung: in guter Absicht.</fn> den Aidtgnossen hetten anzaigt, was der Teutschen nation und ine selbs uß diesem krieg beschwerdlichs erfolgen möcht,<fn>Vgl. <qv>nr2722</qv>, <qv>fn16411-3</qv>, und <qv>nr2729</qv>,<qv>zl16418-7</qv>.</fn> unnd das sie darumb an den kaiser umb abstellung sollichs verterbens samptlich
+<fn>alle (Eidgenossen) zusammen.</fn> hetten geschriben mit angehenckten worten, da
+<fn>falls.</fn> es nit geschehe, wurden sich die Aidtgnossen vor nachtail, der ine doruß zu gewartten
+<fn>zu erwarten (ist).</fn>, auch verhueten mussen, etc., das wurd dannocht
+<fn>doch noch; s. <a>Fischer</a> II 152.</fn> den feynnden viel gedanncken machen unnd der sachen zu gutem komen.<zzl>zl16388-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16388-2A</zzl>Man hat alhie ettlich tag gesagt unnd fur war here
+<fn>hierher.</fn> geschriben, der kaiser sei todt;
+<fn>Zu diesem falschen Gerücht s. <qv>nr2658</qv>,<qv>zl16347-6</qv>; <qv>nr2683</qv>,<qv>zl16370-9</qv>; <qv>nr2701</qv>,<qv>zl16389-7</qv>. <qv>zl16389-11</qv>; <qv>nr2706</qv>,<qv>zl16394-3</qv>. <qv>zl16394-4</qv>; <qv>nr2707</qv>,<qv>zl16395-3</qv>; <qv>nr2712</qv>,<qv>zl16400-2</qv>; <qv>nr2713</qv>,<qv>zl16401-4</qv>; <qv>nr2716</qv>,<qv>zl16405-9</qv>; <qv>nr2719</qv>,<qv>zl16408-3</qv>; <qv>nr2721</qv>,<qv>zl16410-1</qv>; <qv>nr2725</qv>,<qv>zl16414-5</qv>; <qv>nr2728</qv>,<qv>zl16417-1</qv>; <a>PC</a> IV/1 515, Nr. 483; <a>Viglius van Zwichem</a> 229, Anm. 41.<zfn>fn16388-4</zfn></fn> unnd wurdt doruff viel verwett
+<fn>gewettet; s. <a>Fischer</a> II 1413.</fn>, unnd komen doch anndere mehre
+<fn>Geschichten, Erzählungen; s. <a>Fischer</a> IV 1466f.</fn> auch. Wurdt es im grund folgen
+<fn>im grund folgen: wirklich geschehen sein.</fn>, so ist es ain wunderwerckh gottis unnd nit minder dann des Pharaons undergang
+<fn>Siehe Ex 14, 21-31.</fn> inn die cronic ze schreyben,
+<fn>Zum Ausdruck s. <a>Fischer</a> IV 776 s.v. Kronik.</fn> uß ursach, wie seltzam es soll zuganngen sein, darvon ich yetzt ze melden underlaß.<zzl>zl16388-2E</zzl> Aber es mag auch ein lisst darhinder sein. Darumb ich nichts doruff pawe.</p>
+</div>
+<div>
+<p>Ich hab euch uff eure schryben
+<fn>Nicht erhalten.</fn> geantwurt
+<fn>Frölich hatte zuletzt am 23. November mit <qv>nr2689</qv> geschrieben.</fn>. Verhoffe, euch solln alle brieff zukumen sein.
+<fn>Vgl. nämlich <qv>nr2689</qv>,<qv>zl16376-3</qv>.</fn></p>
+</div>
+<div>
+<p><zzl>zl16388-1A</zzl>Hanns Hilpert Zoller ist wider hie frisch und gesundt.
+<fn>Hans Wilpert Zoller d.J. kehrte am 3. Dezember aus dem schmalkaldischen Feldlager nach Augsburg zurück; s. <qv>nr2701</qv>,<qv>zl16389-4</qv>.</fn><zzl>zl16388-1E</zzl> So acht ich, dominus Hallerus schribe euch hiemit
+<fn>Nämlich mit dem Diener des Zürcher Kannengießers Hans Wyss; s. <qv>nr2706</qv>,<qv>zl16394-1</qv>. - Haller schrieb am gleichen Tag (<qv>nr2701</qv>).</fn> selbs.</p>
+</div>
+<div>
+<p>Yetzt inn eyl nit mehr, dann dem almechtigen gott befolhen. Grüesst mir all lieb herren unnd freunnd. 4. decembris 1546.</p>
+<un>G. Froelich, Laetus genant, etc.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Herrn Heinrichen Bullinger, vorgeern
+<fn>Antistes.</fn> der kirchen Zurch, meinem geliepten herren unnd brudern, etc. Zurch.
+<fn>Vorliegender Brief wurde dem Diener von Hans Wyss mitgegeben.</fn></p>
+</div>
+</text>
+</brief>

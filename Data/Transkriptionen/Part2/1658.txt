@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1658">
+<nr>1658</nr>
+<correspondents>
+	<originator>Gervasius Schuler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Memmingen</place>
+	<date>8. September 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 358, 135 (Siegelspur)</vo>
+<vo>Kopien: ZZB, Ms S 51, 191</vo>
+<vo>Straßburg BNU, Ms 672 (Th. B. 13), 181.</vo>
+<dr>Ungedruckt</dr>
+<re>Empfiehlt einen Glaubensflüchtling, der in Orléans evangelisch gepredigt hat und deshalb im Gefängnis war, wie aus
+einem Brief der Nürnberger Pfarrer hervorgeht; auch Musculus und Frecht haben seinetwegen geschrieben; Bullinger soll
+versuchen, ihm eine Stelle auf bernischem Gebiet zu vermitteln. Schulers Frau und Kinder sind mit Ausnahme seines Sohnes
+Gervasius gesund. Der Feldzug gegen die Türken kommt nicht voran, was nicht verwundert; Gott will, dass wir zuerst Buße
+tun. Der französische [König Franz I.] hat Luxemburg verwüstet; den Eidgenossen wird vorgeworfen, [durch Reislauf] den Krieg zu
+nähren, was aber wohl von Zürich, Bern und Basel nicht gesagt werden kann. [Landgraf Philipp von] Hessen hat zusammen mit
+Kurfürst [Johann Friedrich] von Sachsen und Herzog [Ernst] von Lüneburg Herzog Heinrich von Braunschweig innerhalb von 10 Tagen
+besiegt - Schuler legt ein Verzeichnis der eroberten Burgen und Städte bei -; ob die [schmalkaldischen] Truppen nach der Friedenszusage von Kaiser Karl und [König] Ferdinand entlassen
+werden, ist noch offen. Das Ergebnis des Städtetags in Ulm ist noch nicht bekannt; die Stände im Reich sind zerstritten, die
+Städte - außer Überlingen - haben Ferdinand [am Nürnberger Reichstag] die neue Steuer verweigert, und die Fürsten haben den
+Städten das Sessionsrecht geraubt. Erkundigung nach und Gruß an Leo Jud. Gruß von [Balthasar] Funk.
+</re>
+<tx>Gratiam et pacem a domino, dilecte in domino frater.
+^$Venit ad me presentium lator<f1>Unbekannt.^&x Nachfrage bei Reinhard Bodenmann hat auch nicht weitergeholfen. Nichts bei
+Corr. des réformateurs, Bèze, Corr., Vuilleumier, Osiander GA, Histoire d'Orléans. Es bleibt noch zu prüfen, ob für die
+folgenden Wochen im Berner Ratsmanual eine Ernennung eines neuen welschen Pfarrers nachweisbar ist.^&x{<fe>, natione
+Gallus, oriundus ab regia urbe Orlientz Gallie, ubi per biennium Christum praedicando tandem ab urbe post carceres dei
+munere relegatus est, ut testantur litere<f1>Nicht erhalten.<fe> Nurbergensium fratrum. Scripsit quoque de ea re ad
+me Musculus Augustanus et Frechtus, Ulmensis ecclesiae minister.<f1>Auch die Briefe von Wolfgang Musculus und Martin
+Frecht sind verloren.<fe> Hunc ergo ut exulem et peregrinantem propter Christum in domino suscipe et, ut in Bernatium ditione
+provideri possit, pro tua pietate iuva, charissime Bullingere, ne post diuturnos<fx>^#/+Vor^#/- diuturnos ^#/+gestrichenes^#/-
+long.<fe> carceres tantopere peregrinari cogatur.
+^$Ceterum de rebus meis omnia salva scias. Uxor<f1>[...], geb. Lübegger.<fe> et liberi<f1>Gemäß seinem Brief an Bullinger vom
+26. Januar 1543 (Zürich StA, E II 358, 142) hatte Schuler zu diesem Zeitpunkt drei Söhne und zwei Töchter (wahrscheinlich
+Gervasius, Friedrich, Paul, Rahel und Anna; vgl. ^#/+Culmann,^#/- Schuler 76; HBBW X, S. 32, Anm. 9f).<fe> valent omnes exempto
+filio maiore natu Gervasio, qui, dum hec scribo, valde egrotat, sic tamen, ut illum auxiliante deo per manum medici convaliturum sperem.
+^$De bello contra Turcas nichil habeo, quod scribam. Noster exercitus mirum in modum iacet, silet ac torpet,<f1>Zum
+Vormarsch des von Kurfürst Joachim II. geführten Heeres in Ungarn vgl. oben Nr. 1654, Anm. 5.<fe> neque id mirum est;
+durum est enim, inmo[!] inpossibile, iram dei in nos multis modis commeritam nostris conatibus avertere, antequam de
+peccatis nostris penituerimus, quibus dei in nos furorem concitavimus. Ego vereor nos plane nichil effecturos.
+^$Gallus<f1>König Franz I. von Frankreich.<fe> vero pseudochristianus<f1>Schuler spielt auf den Titel "rex
+christianissimus" an; vgl. HBBW XI, S. 137, Anm. 10.<fe> interea totam fere Litzelburgicam Inferioris Germanie ditionem bello et
+igne occupavit et devastavit.<f1>Vgl. oben Nr. 1649, 12-22; 1657, 22f mit Anm. 12.<fe> Quid futurum sit Germanie nostrę,
+dominus novit. Helvetii vestri apud omnes pios et bonos
+viros pessime audiunt ut hii, qui tantis turbis bellorum non
+postremum fomentum prestant. De Tigurinis et Bernatibus
+simul et Basiliensibus forte non licet tam dira ominari.
+^$Ceterum<fx>^#/+In der Vorlage^#/- Caterum ^#/+(korrigiert aus^#/- Catorum^#/+?).^#/-<fe> princeps Cattorum<fx>Cattorum ^#/+am
+Rande nachgetragen.^#/-<fe><f1>Landgraf Philipp von Hessen.<fe> una cum electore Saxonie<f1>Kurfürst Johann Friedrich I. von
+Sachsen.<fe> et duce Lunenburgensi<f1>Herzog Ernst III. von Braunschweig-Lüne- ^@+burg-Celle war am Krieg gegen Herzog
+Heinrich von Braunschweig-Wolfenbüttel nicht direkt beteiligt, unterstützte aber die schmalkaldischen Truppen (vgl. PA II
+1497).<fe> spatio decem dierum ducem Heinricum Brunzwicensem foe­liciter expugnavit.<f1>Der Feldzug, der am 19. Juli begonnen hatte, endete am 12. August mit der Kapitulation der
+Hauptfestung Wolfenbüttel (vgl. ^#/+Blume,^#/- Goslar 107f). Herzog Heinrich war bereits vor Ende Juli außer Landes geflohen (vgl. MBW 3019).<fe> Arcium<fx>^#/+In der Vorlage^#/- Artium.<fe> urbiumque numerum habes hic in ordine descriptum.<f1>Ein
+gedrucktes Verzeichnis der eingenommenen Burgen und Städte erschien unter dem Titel "Namen der stett und schlösser des
+landts Braunschweig [...]" (o. ä.) in verschiedenen Ausgaben (VD 16 N 57- ^@+60; abgedruckt in: Friedrich
+^#/+Hortleder,^#/- Der Römischen Keyser- und Königlichen Maiesteten [...] Handlungen und Außschreiben [...] von den Ursachen des teutschen Kriegs [...], Bd. 2, Frankfurt a. M.
+1617, S. 804f); vgl. Vadian BW VI 157.<fe> Adhuc collecto milite expectat a papistis pacem nostris perpetuam; ab
+imperatore<fx>-re ^#/+über der Zeile nachgetragen.^#/-<fe> Karolo et Ferdinando inpetravit,<f1>König Ferdinand und die
+kaiserlichen Kommissare hatten am 24. August am Reichstag in Nürnberg eine Friedens­zu­si­­cherung gegeben; s. PC III 307;
+^#/+Mentz^#/- II 329.<fe> a reliquis nondum. An dimissurus sit militem nacta pace iam ab imperatore et Ferdinando, nescitur;
+lubricum est illis fidere, apud quos dolo plena sunt omnia<fx>^#/+Nach^#/- omnia ^#/+gestrichenes^#/- plura, quam [?].<fe>.
+^$Comitia protestantium iam Ulme celebrantur;<f1>Zum oberländischen Städtetag vom 4. September in Ulm vgl. PC III
+291.<fe> quid actum sit, nondum scio. In summa: Es ist kein stand im reych mitt dem anderen ains; die fursten, prelaten, der
+adel und die stett ist keyner dem anderen truw<fx>^#/+Vielleicht als^#/- trüw ^#/+zu lesen.^#/-<fe>. Der kunig<f1>König
+Ferdinand.<fe> hatt von stetten ein andere steuer begert; die ist imme aber aynhaylig<f1>einhellig.<fe> von allen
+stetten abgeschlagen,<f1>Die Städte stellten sich entschieden gegen die von König Ferdinand geforderte neue Türkensteuer; vgl. ^#/+Heidrich,^#/- Karl V. 94f. 100. 102.<fe> außgenomen die von
+Überlingen.<f1>Zur Isolierung Überlingens vgl. Wilfried ^#/+Enderle,^#/- Konfessionsbildung und Ratsregiment in der
+katholischen Reichsstadt Überlingen (1500-1618) im Kontext der Reformationsgeschichte der oberschwäbischen Reichsstädte,
+Stuttgart 1990. - Veröffentlichungen der Kommission für geschichtliche Landeskunde in Baden-Württemberg, Reihe B, Bd. 118, S. 182-189.<fe> Es dut<f1>tut.<fe> im
+reych yederman, was er wyll, omnia vi gerentur preter phas et aequum. Urbes inperiales sua sessione in comitiis
+inperialibus privatę sunt opera et iniqua principum
+industria.<f1>Bereits zu Beginn des Reichstags war der alte Sessionsstreit zwischen Fürsten und Städten erneut
+ausgebrochen, der auch den weiteren Verlauf der Verhandlungen prägte; vgl. ^#/+Heidrich,^#/- Karl V.
+91f. 94-96. 99-105. Zum umstrittenen Stimmrecht der Städte s. Rosemarie ^#/+Aulinger,^#/- Das Bild des Reichstages im 16. Jahrhundert. Beiträge zu einer typologischen Analyse
+schriftlicher und bildlicher Quellen, Göttingen 1980. - Schriftenreihe der Historischen Kommission bei der Bayerischen
+Akademie der Wissenschaften 18, S. 108f.<fe> Mercatorum inpostura fere regem et Germanie proceres omnes deglutivit; ad
+triarios relegata sunt omnia.<f1>Im Sinne von: die Lage ist äußerst ernst; vgl. Adagia, 1, 1, 23 (LB II 34f).<fe> Oremus
+dominum sedulo, ut tantis calamitatibus aut statim finis inponatur aut omnia in domini gloriam cedant.
+^$De domino Leone Iude, vetere amico et fratre, nichildum
+audio;<f1>Leo Jud war am 19. Juni gestorben; vgl. oben Nr. 1638.<fe> cuius felicitatem corporis et anime avidissime audire
+cupio. Saluta illum nomine meo et omnem foelicitatem illi
+nomine meo inprecare, simul et<fx>^#/+Vor^#/- simul et ^#/+gestrichenes^#/- una cum.<fe> toti familie.
+^$Funckius<f1>Balthasar Funk.<fe> consul iubet te plurimum per me salutari.
+^$Vale, optime frater, una cum costa<f1>Bullingers Ehefrau (vgl. Gen 2, 21f) Anna, geb. Adlischwyer.<fe> tua fidelissima et
+liberis<f1>Von Bullingers Kindern lebten zu diesem Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich
+(1534), Hans Rudolf (1536) und Christoph (1537)^&x/Diethelm starb am 23.6., HBD 31.^&x{; vgl. ^#/+Pestalozzi^#/- 314.<fe>.
+^$Date Meminge, 8. septembris 1542.
+<un>Gervasius tuus.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro domino Hainricho Bullingero, Tigurinę ecclesie antistiti
+fidelissimo, fratri in Christo plurimum observando.<fx>^#/+Darunter von späterer Hand^#/- N^#'o. 5 ^#/+sowie^#/- 42.<fe>
+</content>
+</letter>

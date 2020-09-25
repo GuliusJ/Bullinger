@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1657">
+<nr>1657</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>4. September 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 247 (Siegel)</vo>
+<vo>Kopie: Ms S 51, 184<f1>Erw.: Egli, Analecta II 57; Pollet, Bucer I 184, A.3<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Da ihm Bullinger auf die Messe hin keine Nachrichten geschickt hat, hält er Berichte darüber, was der französische
+[König Franz I.] einigen Eidgenossen angetan haben soll, für bloße Gerüchte. Wagt nicht zu schreiben, was Oporin
+[im Zusammenhang mit dem Druck des Korans] zugestoßen ist; Myconius hat durch seine klare Parteinahme für Theodor
+[Bibliander] sich selbst und der Sache geschadet; wenn das kaiserliche Privileg gewährt wird, soll der [beschlagnahmte]
+Koran freigegeben werden. In Frankreich fürchtet man die Ankunft [türkischer] Truppen, denen König [Franz I.] einen Hafen
+zugesagt haben soll; angesichts der engen Anlehnung der Eidgenossen an den türkenfreundlichen König könnte die Kenntnis
+des Korans schon bald nötig sein. Falls der König weiterhin so erfolgreich ist, hat er vielleicht schon ganz Luxemburg erobert.
+Myconius müht sich zusammen mit Markus [Bertschi] immer noch um Almosen für die von Bullinger Empfohlenen. Die eidgenössischen
+Truppen werden von ihren Hauptleuten so schlecht behandelt, dass Meuterei droht. Gruß an Theodor [Bibliander]; hofft, dass sich dieser [im Konflikt um den Koran] zurückhält.
+</re>
+<tx>S. Expectavi ad has nundinas<f1>Zum Termin der Frankfurter Herbstmesse s. HBBW VI, S. 406, Anm. 5.<fe> aliquid novi, maxime
+quod rumores volant confoederatis a Gallo<f1>König Franz I. von Frankreich.<fe> quibusdam grande malum inflictum. Equidem non lubens credo quibuslibet. Quia vero tu taces, rumores esse permitto, quod sunt.
+^$Oporini infortunium<f1>Oporin war im Zusammenhang mit dem Konflikt um die von ihm gedruckte Koranausgabe Biblianders (vgl.
+oben Nr. 1655f) im Laufe des Monats August in Haft genommen worden. Am 28. August wurde er freigelassen, musste sich aber
+verpflichten, in dieser Sache nichts mehr zu unternehmen, auch nicht über Dritte. Am 30. August beschloss der Rat die
+vorläufige Beschlagnahmung der Ausgabe (s. ^#/+Hagenbach,^#/- Koran 320f). Vgl. ^#/+Steinmann,^#/- Oporinus 25f; ^#/+Bobzin,^#/-
+Koran 186f. 194.<fe> ex aliis te nosse oportet; nos<f1>Gemeint sind die Befürworter des Korandrucks (Myconius, Markus Bertschi,
+Martin Borrhaus und Jakob Imeli).<fe> etenim ne os quidem aperire audemus. Et non dubium est, etiamsi per alios
+intellexeris, quid acciderit, quin<fx>quin ^#/+über der Zeile nachgetragen.^#/-<fe>, postquam id fuerit cognitum, de me
+suspicentur<fx>^#/+vor^#/- -centur ^#/+zwei gestrichene Buchstaben.^#/-<fe> quidam, tanquam ego prodiderim. Dixeram in
+communi colloquio, imo consultatione,<f1>Die Rede ist von einer Konsultation mit Vertretern der Universität; vgl. auch unten Nr. 1662, 69-71.<fe> quo vel maius haberent pondus verba vel exire me iuberent: "Equidem
+Theodori<f1>Theodor Bibliander.<fe> sum, et Theodorus est meus; dicam tamen interim veritatem, qualitercunque de me iudicaturis
+sitis." Longum esset narrare, quid hęc verba mihi et rei adtulerint mali. Sed quicquid sit, ego tolero et per dominum supero sicut et multa hactenus alia. Manemus privilegium
+cęsarianum, quod si concessum fuerit, Alcoranus
+liberabitur.<f1>Gemäß Titelblatt wurde ein kaiserliches Privileg auf fünf Jahre (gemäß späteren Druckvarianten auf sieben Jahre) erteilt; vgl. ^#/+Bobzin,^#/- Koran 211.<fe>
+^$Gręcos<f1>Gemeint sind zweifellos Türken; vgl. die folgende Anmerkung.<fe> milites 50'000 portum habere concessum a rege e Berna nunciatur et timere Massil[i]enses<fx-t>^#/+Rand
+beschädigt.^#/-<fe>, ne ad se quoque venturi sint;<f1>Nach einem anderen Gerücht waren bereits 15'000 Türken bei Marseille
+gelandet; s. EA IV/1d 181 a 7 und 186 zu e, g, i 2; vgl. auch unten Nr. 1662, 57-60, sowie Vadian BW VI 147. 157.^&xMyc., 17.9.^&x{ In Wirklichkeit war das Jahr für einen Aufbruch der türkischen Flotte bereits zu weit
+fortgeschritten; vgl. Ernest ^#/+Charrière,^#/- Négociations de la France dans le Levant, Bd. I, Paris 1848, S. 554 mit Anm. 1.<fe> quod si factum fuerit, de se ut de Ungaris esse actum. Narravit
+hęc nobilis Germanus<f1>Unbekannt.<fe> apud Bernenses, qui stipendia facit in aula regis. Eo quod patria nostra ex foedere
+longo cum Gallo mores hausit Gallicanos, quid arbitraris futurum, [si]<fx-x>^#/+Rand beschädigt.^#/-<fe> Galli foedus
+cum Turca<f1>Zur Allianz der französischen Krone mit dem türkischen Sultan vgl. HBBW XI, S. 137, Anm. 11.<fe> diutius
+paulo duraverit? An tum opus esset cognitione legis Machometicę?
+^$Si Gallus usus est fortuna usque huc, qua ab initio, non
+mirum, si nunc tandem potitus esset toto ducatu Lutzelburgensi.<f1>Die französischen Truppen hatten zwar die
+Festungen des Herzogtums außer Thionville eingenommen; Luxemburg selbst verloren sie allerdings nach wenigen Tagen wieder. Vgl. Du Bellay, Mémoires IV 69-75; ^#/+Henne^#/- VIII 19-21. 29.^&xCorr. des réformateurs VIII 108, Anm. 25^&x{<fe>
+^$Ad hunc usque diem laboramus Marcus<f1>Markus Bertschi.<fe> et ego de eleemosyna eis, quos commendasti,<f1>Ein
+Empfehlungsschreiben Bullingers liegt nicht vor. Die Rede ist vermutlich von Georgius Philaletes Macedo, gen. "il Turchetto",
+und seinem ungenannten italienischen Begleiter, die am 28. August Amerbach aufsuchten und ein Empfehlungsschreiben aus
+Zürich vorwiesen (vgl. Amerbach, Korr. V 414, Nr. 2528, Anm. 1, zum Aufenthalt in Zürich auch Corr. des réformateurs VIII 94 und
+120). Die Identität des angeblichen Mazedoniers mit Ortensio Lando ist umstritten; s. Silvana ^#/+Seidel Menchi,^#/- Chi fu
+Ortensio Lando?, in: Rivista storica italiana 106, 1994, S. 501-564 (hier bes. 521-527).<fe> conferenda.
+Hęc est authoritas nostra apud etc.<f1>Myconius spielt auf seinen geringen Einfluss bei der Obrigkeit an.<fe>
+^$Tam conqueruntur milites de ducibus, qui exercitibus
+Helveticis praesunt, ut cędem multi minent[ur]<fx-x>^#/+Rand beschädigt.^#/-<fe>, sicubi
+oblata fuerit occasio. Nunquam sic audivi, ita furantur,
+rapiunt, fallunt, et milites in[te]rim<fx-x>^#/+Rand beschädigt.^#/-<fe> esuriunt. Miror, quid dominus noster consilii in nos conceperit.
+^$Vale cum tuis in domino. Theodorum salutabis diligenter et
+esse iubeto ęquo animo. Sunt enim, qui nescio quid timent
+de eius calam[o]<fx-x>^#/+Rand beschädigt.^#/-<fe>, verum speramus nos meliora.
+^$Basileę, 4. septembris anno 42.
+<un>Tuus Os. Myco-­
+<un>nius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho
+Bullingero doctissimo in domino suo.
+</content>
+</letter>

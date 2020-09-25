@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="971">
+<nr>971</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>18. März 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 9 (Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat von den am Vortag [aus Schmalkalden] zurückgekehrten Gesandten bisher nur erfahren, daß [der Bundestag] gut
+ausgegangen ist, besonders, was den Papst und die Antwort an den Kaiser [Karl V.] betrifft. Kann wegen
+Predigtverpflichtungen erst später ausführlich antworten und bittet um Mitteilung dessen, was die Straßburger
+berichten.</re>
+<tx>Salus et pax Christi.
+^$Heri redierunt legati nostri<f1>Konstanz hatte Hans Betz und Matthäus Molckenpur nach Schmalkalden abgeordnet; s.
+Fabian, Quellen
+119ff.<fe>, Bullingere suavissime. A<fx>A ^#/+gestrichenem^#/- e[?]
+^#/+vorangestellt.^#/-<fe> quibus cum per occupationes non potuerim nominatim explorare quicquam<fx>^#/+vor^#/- quicquam
+^#/+gestrichenes^#/- nec[?].<fe>, iam nec quicquam ad te scribo, uno hoc excepto, quod testantur omnes res habere perquam
+optime, maxime quod pontificem adtinet, cui sit responsum, quemadmodum decet antichristum<f1>Vgl. Zwicks ausführlichen
+Bericht vom 24. März, unten Nr. 975.<fe>. Imperatori quoque responsum est et prudenter et cordate<f1>Zur Antwort
+der Stände an den Gesandten Kaiser Karls V., Matthias Held, s. PC II 426-429; die Stellungnahmen zur Konzilsfrage, deren erste
+auch dem päpstlichen Nuntius übergeben wurde (vgl. unten Nr. 975, Anm. 6), sind gedruckt in: Dr. Martin Luthers sämtliche Schriften, hg. v. Johann
+Georg Walch, Bd. XVI, St. Louis/Missouri 1907 (Nachdruck: Groß Oesingen 1987), Nr. 1234 und 1236.<fe>. Summa:
+Dominus fuit nobiscum; utinam illius benevolentiam multa gratitudine agnoscamus!
+^$Ad tuas literas<f1>Nicht erhalten.<fe> et de reliquis ordine ex me audies proxime. Nunc, quoniam binę contiones mihi
+incumbunt, nihil possum addere. Curabo vero resarcire hanc brevitatem. Nostri testantur rem omni ex parte bene habere.
+Observa tu, quid Argentinenses erga vos sint testaturi, et quam primum fac nos certos. Nos non deerimus fovendae pacis
+et unitatis studio, sed nec vos turbarum quicquam moveatis.
+^$Vale, pectus meum charissimum.
+^$18. martii 1537.<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro domino Hainricho Bullingero, ecclesiae Tigurinae antistiti
+vigilantissimo, suo in fide observando fratri.
+</content>
+</letter>

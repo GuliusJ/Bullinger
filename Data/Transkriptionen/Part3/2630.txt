@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2630">
+<brief>
+<id>16320</id>
+<nr>2630</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-17"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 17. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 253
+<fa><i>Vorliegender Brief wurde auf die leere Rückseite von Myconius' Brief vom 14. Oktober (<qv>nr2625</qv>) geklebt, so dass die Adresse nicht mehr lesbar ist.</i></fa> (neu: [270a]) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 21</k></dr>
+<re><t>Durch Bullingers regelmäßiges Schreiben musste Myconius feststellen, dass nicht allen Meldungen einfach Glauben geschenkt werden darf, auch wenn diese als sicher gelten. Warum aber schreibt Bullinger nichts über die wichtigen Angelegenheiten des vergifteten Salzes und der Besetzung Donauwörths [durch den Kaiser]? Sind dies vielleicht auch falsche Gerüchte?</t>
+<t>In Basel hielt sich ein den dortigen Bürgern bestens bekannter Italiener [...] auf, der Bücher aus Deutschland nach Italien befördert. Er erzählte, dass er auf der Reise nach Basel einen Gesandten aus Luzern [Jost von Meggen] angetroffen hat, der auf dem Weg zum Papst [Paul III.] war, um diesem zu erklären, warum die Fünf heidnischen Orte nicht dem Kaiser zugezogen seien, nämlich weil sie von ihren häretischen Nachbarn derart umzingelt sind, dass sie ihre Heimat nicht auf sicherem Wege verlassen können. Aufgrund der Beschreibung des Gesandten durch den Italiener könnte es sich um Nikolaus von Meggen handeln.</t>
+<t>Der Italiener berichtete ferner vom Ende des Friedensabkommens mit [Sultan Suleiman I.]. Dieser habe derzeit zwei Gesandtschaften in Venedig, deren Auftrag aber nicht bekannt ist. Der Berichterstatter erfuhr jedoch, dass der Sultan vorhabe, Sizilien anzugreifen.</t>
+<t>[Johannes] Gast ist im Besitz eines Büchleins über die unerhörte Tyrannei, die der Kaiser in den Niederlanden, u.a. in Antwerpen, ausübt. Bullinger wird sicherlich die Schrift von Gast erhalten.</t>
+<t>[Johannes] Haller schrieb aus Augsburg und fragte nach Neuigkeiten. Myconius musste lachen, weil ja er eher Nachrichten von ihm erwartet!</t>
+<t>Der Abt [...] einer Stadt bei Mechelen versprach dem Kaiser 50'000 Gulden. Plötzlich aber wollte Letzterer 100'000! Die Stadt erfuhr davon, hielt das Geld zurück und ließ dem Boten [...] des Kaisers mitteilen, dass er bei einer etwaigen Rückkehr gehängt würde.</t>
+<t>Gruß an [Konrad] Pellikan und Theodor [Bibliander], welcher Myconius vernachlässigt! [Rudolf] Gwalther möge es gut gehen!</t></re>
+<text>
+<div>
+<p><zzl>zl16320-11A</zzl>S. Huc tu me adduxisti diligenter et frequenter scribendo in temporum hac miseria, ut non credam (nisi tuis)
+<fa><i>Klammern ergänzt.</i></fa>, etiamsi certa sunt, <fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>quae scribuntur aut referuntur<fa1e von="1"/>. Miror itaque, qui fiat, ut mala, qu{e} feruntur de sale infecto
+<fn>Vgl. schon <qv>nr2614</qv>,<qv>zl16302-7</qv>. - Der Zürcher Rat (als politisches Organ des Vorortes der Eidgenossenschaft) wird wohl noch vor dem 15. Oktober den Rat von Basel gewarnt haben, dass "durch anreysung der keiserischen saltz mitt kalch und anderm verderplichem unrath vergipftet werde", wie dies ein Dankschreiben des Churer Rats an Zürich vom 15. Oktober vermuten lässt; s. Zürich StA, A 248/1, Nr. 144. Am 19. Oktober protestierten die Stadt- und Herrschaftsbehörden von Bregenz mit einem gemeinsamen Brief an Zürich: Solche Gerüchte seien völlig "neben der warhait" und dienten nur dazu, die Bevölkerung der Vier protestantischen Städte gegen Kaiser Karl V. und König Ferdinand I. aufzuhetzen. - Siehe ferner <a>EA</a> IV/1d 703 zu e (vom 22. Oktober).<zfn>fn16320-1</zfn></fn> deque Werda occupata
+<fn>Donauwörth, welches am 9. Oktober von den kaiserlichen Truppen eingenommen worden war; s. <qv>nr2619</qv>, <qv>fn16309-1</qv>.</fn>, non significaris, nam scio quidem utrumque
+<fn>die beiden Gerüchte.</fn> esse nonnihil; veritatem vero nescio. Nam dum varie narrantur, ego suspendor dubius.<zzl>zl16320-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16320-2A</zzl>Fuit hic <zzl>zl16320-10A</zzl>Italus
+<fn>Unbekannt.<zfn>fn16320-5</zfn></fn><zzl>zl16320-10E</zzl> nobis notissimus, qui libros fert ex Germania in Italiam. Is narravit
+<fa>vi <i>über der Zeile nachgetragen.</i></fa> occurrisse in itinere ad nos <zzl>zl16320-3A</zzl>legatum
+<fn>Myconius vermutete dabei (s. unten Z. <qv>zl16320-1</qv>) Nikolaus von Meggen, wozu er durch die Beschreibung des Gesandten durch den Italiener veranlasst wurde (s. <qv>nr2649</qv>,<qv>zl16339-1</qv>). Doch angesichts der Tatsache, dass Jost von Meggen (ein Verwandter von Nikolaus) an einem Treffen der Fünf Orte in Luzern am 19. Oktober mitteilte, er sei im Namen der Sieben katholischen Orte und des Konstanzer Bischofs Johann von Weeze nach Rom gesandt worden (s. <a>EA</a> IV/1d 697 m), kommt hier eher Jost von Meggen in Frage. - Die Reise des Italieners nach Basel ist demzufolge auf eine weiter entfernte Vergangenheit anzusetzen, nämlich auf August 1546, als Jost von Meggen sich auf die Gesandtschaft nach Italien begab; vgl. <a>HBBW</a> XVI 27, Anm. 1.<zfn>fn16320-2</zfn></fn>, qui esset Lucernanus, ad papam
+<fn>Paul III.</fn> iturus, <zzl>zl16320-12A</zzl>ut Quinquepaganos
+<fn>Wortspiel zwischen "pagus" (Orte) und "paganus" ("heidnisch"); vgl. auch die aus <a>Kessler, Sabbata</a> zitierte Stelle in <a>HBBW</a> XVII 344f, Anm. 40. - Ansonsten werden die Fünf Orte als "Quinquepagici" bezeichnet.</fn> defendat
+<fa><i>Darüber</i> excuset.</fa>, quod hoc tempore non profecti sint ad c{e}sarem
+<fn>Karl V.</fn>; nam ita circumvallatos esse h{e}reticis, ut ex patria tuto exire non licuerit.<zzl>zl16320-3E</zzl><zzl>zl16320-12E</zzl> <zzl>zl16320-1A</zzl>Ex descriptione visus est mihi Nicolaus a Meggen, signifer civitatis Lucernan{e}.<zzl>zl16320-1E</zzl><zzl>zl16320-2E</zzl></p>
+</div>
+<div>
+<p>Idem: <zzl>zl16320-4A</zzl>Finem habent nunc induci{e} cum Turca
+<fn>Sultan Suleiman I. - Zu den Friedensabkommen zwischen dem Reich und den Osmanen, für die Myconius stets großes Interesse bekundete, s. zuletzt <a>HBBW</a> XV 674 mit Anm. 33; 678.<zfn>fn16320-3</zfn></fn>.<zzl>zl16320-4E</zzl> <zzl>zl16320-5A</zzl>Is habuit legationes duas apud Venetos, sed quid egerint, non potuit cognoscere.<zzl>zl16320-5E</zzl> <zzl>zl16320-6A</zzl>Illud tandem intellexit: Per occasionem illum petiturum Siciliam.<zzl>zl16320-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16320-7A</zzl>Gastius habet libellum de tyrannide
+<fn>Newe zeytung auß dem Niderland, welche anzaygen die grausame und unchristliche tyranney wider die armen Christen umb Gotes worts willen, Augsburg, Valentin Othmar, 1546, A<sup>4</sup>, in-4 (<a>VD16</a> N640 - wir danken Rainer Henrich für freundliche Auskunft). Es gab weitere Quartausgaben von dieser Schrift; s. <a>VD16</a> N639, N641, ZV11462f. - In Zürich ZB (Sign.: 18.1457/4) hat sich der Augsburger Druck erhalten.<zfn>fn16320-4</zfn></fn>, qua utitur c{e}sar in Inferiore Germania ut Antverpi{e} et alibi. Nihil tale auditum est unquam. Libellum mittet nimirum.<zzl>zl16320-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16320-9A</zzl>Hallerus scripsit ex Augusta.
+<fn>Unbekannter Brief.</fn> Petit inter c{e}tera, ut aliquid scribam novi. In tempore tristissimo subrisi, dum petit ad me, quorum copiam ab ipso expectaram.<zzl>zl16320-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16320-8A</zzl>Abbas
+<fn>Nicht ermittelt.</fn> non longe a Mechlinia
+<fn>Mechelen (Prov. Antwerpen, B).</fn>, attamen alterius civitatis, promisit c{e}sari 50'000 gl. Iam petit 100'000. Civitas rescivit et pecuniam numeratam retinuit, dimittensque nuncium
+<fn>Unbekannt.</fn> iniunxit
+<fa><i>am Rande nachgetragen.</i></fa>, ne redeat, ne velit suspendi.<zzl>zl16320-8E</zzl></p>
+</div>
+<div>
+<p>Vale in Christo cum tuis, Pellicano et Theodoro
+<fn>Theodor Bibliander.</fn>, Myconii neglectore! Gvaltherus valeat! Basile{e} raptim, 17. octobris anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse unlesbar.
+<fa><i>Siehe oben Anm. a.</i></fa>]</p>
+</div>
+</text>
+</brief>

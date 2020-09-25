@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2285">
+<nr>2285</nr>
+<correspondents>
+	<originator>Georg Frölich</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>12. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 169f (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 108 ^&x{
+<re>Frölich empfing drei Briefe Bullingers [nicht erhalten] von einem einzigen Boten [...]. Die [zwei] ersten Briefe meldeten zu Frölichs Erschütterung, dass die [Zürcher] Kirche keinen Diener nach [Augsburg] schicken könnte; der letzte aber stimmte die [Augsburger] froh, da der Zürcher Rat ihnen darin trotz eigenen Mangels [an Pfarrern] die Entsendung Johannes Hallers ankündigte. Ihre Dankbarkeit werden die [Augsburger] in einem eigenen Brief bekunden. Haller wird in [Augsburg] eingesetzt und nicht woandershin geschickt werden. Er soll noch vor dem Wintereinbruch nach [Augsburg] kommen.
+-^#. Sehr willkommen ist Bullingers eigenhändiges Manuskript mit der in Zürich gebräuchlichen Kirchen- und [Pfarr]ordnung. Frölich will zu erreichen versuchen, dass auch die [Augsburger] Kirche sich danach ausrichtet. Bullinger wird vom [Augsburger] Rat ein [Geschenk] für diese und seine anderen Verdienste erhalten.
+-^#. Die ihm von Bullinger anvertrauten Geheimnisse hat Frölich lediglich den [beiden] Bürgermeistern [Hans Welser und Jakob Herbrot] eröffnet; vor allem Welser hofft auf eine allmähliche Stärkung der Freundschaft zwischen den [deutschen und eidgenössischen Protestanten].
+-^#. Das unglückliche [Zweite Regensburger Religions]gespräch kommt in Gang. Von den [Protestanten] sind Philipp Melanchthon, Martin Bucer, Erhard Schnepf und Johannes Brenz dazu abgeordnet; als Auditoren der Magister Franz Burchard, Graf Wolrad von Waldeck, Balthasar von Gültlingen und Hieronymus Baumgartner; als Gehilfen Martin Frecht und Veit Dietrich: fast alle ausgesprochene Lutheraner. Diese haben die ausdrückliche Auflage erhalten, nichts gegen die [Heilige] Schrift zu entscheiden noch Zweideutiges zu genehmigen. Hoffentlich sind weder die Kolloquenten noch die Auditoren aus der Partei des Kaisers [Karl V.] bestimmt worden, so dass es zu keinem [Religions]gespräch kommt!
+-^#. Vielleicht werden in Kürze Gesandte des [Schmalkaldischen] Bundes zum Rat von [Zürich] kommen und bitten, weder fremden Soldaten den Durchzug durch die Eidgenossenschaft gegen die [deutschen Protestanten] zu gestatten noch den Papisten Hilfstruppen gegen die Evangelischen zu schicken, sondern vielmehr [den Schmalkaldenern] Hilfe zu senden. Als Gegenleistung werden die Eidgenossen bei den [Schmalkaldenern] Hilfe finden. Zürich soll die Gesandtschaft freundlich empfangen.
+-^#. Bullinger ärgert sich, dass Frölich [Anna, geb. Adlischwyler] drei Goldstücke schenkte. Damit wollte Frölich nur Bullingers Kosten vergüten, die diesem durch den [Augsburger] Rat wegen der Entsendung von Boten an Matthias Erb entstanden.
+-^#. Als glaubwürdigen Bericht über den Braunschweiger Feldzug legt Frölich einen Brief des Landgrafen Philipp von Hessen an die Augsburger bei. Später erfuhr man, dass Reiter und Fußsoldaten von Herzog Heinrich [von Braunschweig] beim Abzug die Bauern brandschatzen und plündern wollten. Daher haben die [Schmalkaldener] jene am 23. Oktober [1545] angegriffen, über 100 Reiter getötet, 18 Adlige, unter ihnen 6 Domherren, gefangengenommen, viel Fußvolk umgebracht und sie zum Abzug in kleinen Gruppen gezwungen.
+-^#. Im Zelt des [Herzogs Heinrich] fand man einen ganzen Kasten voller Briefe, aus denen Intrigen vieler Potentaten, besonders aber der [katholischen Geistlichen] hervorgehen, die auch die Eidgenossen betreffen sollen. Deshalb sollten die [Zürcher] eine Gesandtschaft auf den [Schmalkaldischen Bundestag] zu Frankfurt schicken, wo am 6. oder 9. Dezember [1545] die evangelischen deutschen Obrigkeiten gegen die Abhaltung eines Konzils, ob in Trient oder anderswo, abstimmen und über die [Fortsetzung ihres Bündnisses] beratschlagen werden.
+-^#. Herzog Heinrich liegt gefangen zu Ziegenhain, sein Sohn [Karl Victor] zu Kassel. [Heinrich] hatte, ehe die [Schmalkaldener] von seinem Vorhaben wussten, mit Hilfe der Papisten 4'000 Reiter und 7'000 Knechte zusammengebracht; eine Zahl, die bis auf 20'000 [Mann] stieg. Am 18. Oktober griff er die [Schmalkaldener] an. Danach gab es einen Waffenstillstand, welchen [Heinrich] aber nicht einhielt, weshalb der darüber erzürnte Landgraf [Philipp] von Hessen zum Angriff schritt. Jetzt verhört man [Heinrichs] Helfer.
+-^#. Grüße an Bügermeister [Hans Rudolf] Lavater, den Stadtschreiber [Hans Escher vom Luchs], Rudolf Gwalther, [Konrad] Gessner und alle [anderen] im Hort der Gelehrsamkeit. Frölich wird bedeutsame Nachrichten stets mitteilen.</re>
+<tx>S. Ternas simul a te, vir venerabilis, uno cum tabellario<f1>Mit dem Augsburger Boten, der aus Konstanz auch die zwei ersten Briefe Bullingers, die dort eine Zeitlang aufgehalten wurden, mitnahm; s. unten Anm. 2; Nr. 2303.<fe> accepi literas<f1>Drei nicht erhaltene Briefe Bullingers. - Die zwei ersten Briefe, von dem einer wohl eine Antwort auf Frölichs Brief vom 30. September (Nr. 2256) war, enthielten die schlechte Nachricht (s. Z. 4-6), dass die Zürcher keinen Prädikanten schicken würden (vgl. auch unten Nr. 2303). Der dritte Brief mit der guten Nachricht von der bevorstehenden Sendung Hallers (s. Z. 6-9) wurde dem Augsburger Boten anvertraut, der um den 24. Oktober (s. oben Nr. 2264, Anm. 36; 2270, Anm. 17) Frölichs Briefe vom 8. und 20. Oktober (Nr. 2264; 2270) nach Zürich überbracht hatte, und der erst nach der Zusage des Zürcher Rats, einen Prediger nach Augsburg zu schicken (s. unten Nr. 2303), also erst nach dem 29. Oktober (vgl. oben Nr. 2272, 43), Zürich in Richtung Konstanz mit einem Brief Bullingers an Blarer (Nr. 2272 - s. dort Z. 37 und Anm. 34) verließ. Der dritte Brief Bullingers wird also kurz nach dem 29. Oktober verfasst worden sein.<fe>,
+quarum singulę adeo amicabiles et iucundę sunt, ut decorum et copiam respondendi penitus in me desiderem.
+Hinc fit, ut tantum tuo candore fultus effutiam respondendo, quicquid in buccam venerit<f1>Adagia, 1, 5, 72 (ASD II/1 546, Nr. 472).<fe>.
+Scias ergo priores ex literis tuis me nonnihil movisse, eo quod nunciabatur nullum a vobis ecclesię ministrum ad nos venturum;
+posteriores vero ingenti nos gaudio affecerunt significantes nimirum magistratus
+Tigurini erga nostros et amicitiam et benevolentiam et ob id ex propria penuria factam esse copiam
+dominum nempe Ioannem Hallerum seligendo, qui nostrę ecclesię pręsit<f1>Als Pfarrer, nicht als Antistes.<fe>.
+Bone deus, qua alacritate, qua gratitudine, quo denique affectu senatus noster tam ingens benefitium amplexus est!
+Perpetuę, crede mihi, amicitię et fidei inter utrunque magistratum hęc benevolentia arrabo et character erit,
+ita ut nesciam, quid Tigurinus magistratus a nobis petere possit, quod non acceptum facile referat.
+Gratificatorię Augustanorum literę<f1>Der Rat von Augsburg schickte in der Folge zweimal einen Dankesbrief nach Zürich; einmal unmittelbar nach der Ankunft Hallers in Augsburg am 19. November 1545 (Zürich StA, A 202/1, Nr. 7), das zweite Mal am 5. Januar 1546 (Zürich StA, A 202/1, Nr. 8), um seine Zufriedenheit mit Haller auszudrücken.<fe> de hoc etiam aliquid testabuntur.
+Ioannem ergo illum Hallerum nostrę in hac urbe ecclesię pręficiemus nequaquam illum alio missuri.
+Charior quippe nobis erit, quam quod inter barbaros ex tam celebri accitus collegio versari debeat!<f1>Vgl. oben Nr. 2270, 13-24 und Anm. 8; 2272, 36-40.<fe>
+Quantum vero ad me pertinet, operam dabo, ut sentiat se a me non tam propter sua diva ingenii dona
+quam propter Henrichum illum<fx>illum ^#/+vor der Zeile nachgetragen.^#/-<fe> meum Bullingerum diligi et observari.
+Tu mandato illi, ut postulando et petendo ex me quidlibet non intermittat.
+Nunc restat, ut iter ad nos maturet, antequam hiems ingruerit.
+^$Manus impositionis<f1>Die in der Zürcher Kirche übliche Handauflegung bei der Ernennung eines Pfarrers; s. Ludwig ^#/+Lavater,^#/- De ritibus et institutis ecclesiae Tigurinae opusculum, [Zürich 1559], f. 2r. (VD 16 L 828).<fe> et synodi Tigurinę formula dextra tua exarata<f1>Die Aufzeichnung über die Zürcher Kirche, die Frölich von Bullinger erbeten hatte; s. oben Nr. 2264, 69-77.<fe> adeo grata sunt ut nihil supra.
+Dabo operam, ut nostra ecclesia etiam in hoc vestrę fiet conformis.
+Proinde recepturus es mnemosinon a magistratu nostro pro iis et aliis tuis in nos collatis officiis.<f1>Dazu kam es nie; s. unten Nr. 2313, 27-31.<fe>
+^$Quę mihi secreto<f1>mihi secreto: mir als Sekretär.<fe> secreta communicasti,<f1>Möglicherweise ein ähnlicher Inhalt wie in jenem Brief, den Zürich im Namen der evangelischen Orte Bern, Basel, Schaffhausen, St. Germain und Mulhouse am 29. Oktober 1545 - als Antwort auf Molckenpurs Gesandtschaft an die Eidgenossen (s. zuletzt Nr. 2260 und Anm. 16) - an Konstanz geschrieben hatte (Zürich StA, A 205/1, Nr. 202), mit der Versicherung, dass die Unterzeichner ihre Landsleute nicht gegen deutsche Protestanten ziehen lassen würden.<fe> nonnisid. consulibus<f1>Den Augsburger Bürgermeistern Hans Welser und Jakob Herbrot.<fe> aperui;
+illi, pręsertim Welserus, plurimum gratificantur<fx>^#/+In der Vorlage^#/- gratificatur.<fe> sperantes fore, ut pedetentim<f1>= pedetemptim.<fe>
+maior et fortior amicitia et necessitudo inter vestros et nostros plantetur.
+^$Colloquium quantumvis male auspicatum incipit progredi.<f1>Das Zweite Regensburger Religionsgespräch; s. oben Nr. 2221, Anm. 5; unten Nr. 2287, 46-49.<fe>
+Per nostros sunt ad hoc deputati Philippus Melanchton, Martinus Bucerus, Erhartus Schneppius<fx>^#/+In der Vorlage^#/- Scheppius.<fe> et Ioannes Brentius.
+Auditores sunt magister Franciscus Burckart<f1>Franz Burchard (Burkart), geb. 6. Juli 1504 in Weimar, gest. 15. Januar 1560 in Weimar. Ab Januar 1536 Kanzler von Kurfürst Johann Friedrich von Sachsen mit dem Titel Vizekanzler. September 1542 kursächsischer Kanzler in Wolfenbüttel. Ab 2. November 1544 sächsischer Rat in Weimar. - Lit.: MBW-Reg XI 241 (mit weiterer Lit.).<fe>, graf Wolrat de Waldeckh<f1>Graf Wolrad II. von Waldeck regierte seit 1539 in einem kleinen Teil der Grafschaft Waldeck. Er galt als überaus gebildet und verfasste während des Reichstags zu Augsburg 1548 ein Tagebuch in lateinischer Sprache (hg. v. C[arl] L[udwig] P[hilipp] Tross, Stuttgart 1891). - Lit.: Rudolf ^#/+Rocholl,^#/-
+Graf Wolrad von Waldeck. Ein Beitrag zur Reformationsgeschichte, Hannover 1865; Victor ^#/+Schultze,^#/- Waldeckische Reformationsgeschichte, Leipzig 1903, S. 111-193.<fe>,
+Balthasar de Gultlingen<f1>Balthasar von Gültlingen, geb. um 1500, gest. 24. Juni 1563. Von 1541 bis November 1550 württembergischer Hofrat und Obervogt zu Wildberg. 1546 Kriegsrat des schmalkaldischen Bundesheeres. - Lit.: Walter ^#/+Bernhardt,^#/- Die Zentralbehörden des Herzogtums Württemberg und ihre Beamten, 1520-1629, Bd. 1, Stuttgart 1972 - Veröffentlichungen der Kommission für geschichtliche Landeskunde in Baden-Württemberg. Reihe B, Forschungen 70, S. 332f.<fe> et Ieronimus Bamgartner;
+adiuncti vero Martinus Frechtus et Vitus Theodoricus<f1>Veit Dietrich.<fe>: singuli fere extreme Lutherani.<f1>Die Namen der Kolloquenten und Auditoren wurden im Brief des Kurfürsten Johann Friedrich I. von Sachsen und des Landgrafen Philipp von Hessen an Straßburg vom 17. September 1545 mitgeteilt. Davon wurde Bullinger am 18. November eine Abschrift zugeschickt; s. unten Nr. 2286 und Anm. 7. Am 12. November 1545 sandten Bürgermeister und Rat von Konstanz an den Rat von Zürich eine weitere Teilnehmerliste (Zürich StA, A 205/1, Nr. 206), in der im Vergleich zum vorliegenden Schreiben Frölichs zu den Beratern Martin Frecht und Veit Dietrich noch die Namen von Caspar Cruciger und Justus Menius hinzugefügt sind. Daraufhin stellte Bullinger eine Liste für sich selbst auf, die er mit Erläuterungen versah (Zürich StA, E II 350, 527). - Siehe ferner oben Nr. 2225, Anm. 10.<fe>
+Hac tamen expressa informatione abibunt, ne contra scripturas aliquid committant
+aut amphibola<f1>Zweideutiges; Doppelsinniges.<fe> loco concordatorum ponant, sed aperte cuncta tractent.
+Ego tamen spero ex parte cesaris<f1>Karl V.<fe> neque colloquentes neque auditores adhuc subornatos esse,
+imo colloquium hoc futile in spongiam recisurum<f1>in spongiam recisurum, im Sinne von "in spongiam abiturum". - Zum Gebrauch ähnlicher Ausdrücke im Neulatein s. Johann Philipp ^#/+Krebs,^#/- Antibarbarus der Lateinischen Sprache, Frankfurt am Main, ^#'31843, S. 798.<fe>.
+^$<vl>169v.</vl> Brevi forsan foederis nostri<f1>Der Schmalkaldische Bund. - Siehe oben Anm. 11.<fe> ad magistratum vestrum legati venient et petent,
+ne peregrinos milites per Helvetiam contra nos transire patiantur, ne quoque Helvetii papistis
+auxiliares copias adversum evangelicos mittant, imo nobis implorantibus supetias ferant, etc.
+Vicissim nos quoque habituri estis in subsidium vestrum paratos, etc.
+Velim, ut eiusmodi legatio humaniter tractaretur, donec dominus huic principio plura adiiceret.
+^$Egre inter cętera fers, quod uxorem<f1>Anna Bullinger, geb. Adlischwyler.<fe> 3 aureis donaverim.<f1>Dieses Geschenk hatte Frölich während seines Besuchs in Zürich am 25. September 1545 (s. oben Nr. 2203, Anm. 20) Anna überreicht; s. unten Z. 49.<fe>
+Non equidem volui illis tuę liberalitati, sed tantum expensis tuis satisfacere,
+quas fecisti nomine magistratus nostri add. Mathiam Erbium tabellarios mittendo, etc.,
+quemadmodum costę tuę<f1>Gemeint ist Anna. - Vgl. Gen 2, 21f.<fe> honestissime id satis exposui.
+Ne igitur sis amplius ea de re sollicitus, sed persevera in dilectione Lęti, qui tibi tot inquietudines parit,
+quas tamen nolit tam cumulate fieri. Scribas ergo mihi posthac non nisi ab utilioribus negotiis vacuus.
+^$Von dem brunschwigischen krieg kan ich nit grundtlichern bericht schreiben,
+dann wie mein genediger herr, lanndgraf Philips zw Hessen, der theur Josias,<f1>Philipp von Hessen galt als ein neuer Josia (s. 2Kön 22f; 2Chron 34f), der die abgöttischen Verhältnisse im Lande beendete; s. Gury ^#/+Schneider-Ludorff,^#/- Der fürstliche Reformator. Theologische Aspekte im Wirken Philipps von Hessen von der Homberger Synode bis zum Interim, Leipzig 2006 - Arbeiten zur Kirchen- und Theologiegeschichte 20, S. 94f. 97. 230.<fe>
+meinen herrn selbs zuͦ frischer that<f1>zuͦ frischer that: sofort nach dem Ereignis.<fe> geschrieben hat,<f1>Die hier erwähnte Beilage ist in Zürich StA, E II 350, 507-510, erhalten. Es handelt sich um einen Brief Philipps von Hessen an Bürgermeister und Rat der Stadt Augsburg vom 21. Oktober 1545.<fe> wie innliegende copei außweist. Dem ist guͦter glauben ze geben.
+Wer lustbarlich zuͦ horen und lesen, wa die nebenhandlung und geschicht, dern sich viel zugetragen, auch ußgedruckt wern.<f1>In Augsburg erschien noch 1545 ein Bericht über diesen Sieg; s. unten Nr. 2313, 73-75 und Anm. 42.<fe>
+Seyt diesem schreiben haben meine herrn oder ich kainen weitter beschaid,
+dann das herzog Henrichs<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> reutter unnd fueßvolkh inn irem abzug die baurn uff lannd
+wider prantschetzen unnd plundern wollen; darumb die unnsern uff den 23. octobris
+mit ettlichen reuttern unnd fueßvolkh inn sie gesetzt, der reutter ob hundert erlegt,
+18 vom adl, darunder 6 thumpfaffen<f1>"Dompfaffen": abschätzig für Chorherren. - Listen gefangener Adliger werden in PA I 482, Nr. 768, angeführt.<fe> gewest, gefanngen, viel vom fueßvolkh umbracht
+unnd sie enntlich dahin gepracht, das sie die fennlin abreisen unnd rottweiß<f1>das sie die fennlin abreisen unnd rottweiß: dass sie die Feldzeichen abnehmen und rottenweise (d.h. Abteilung für Abteilung).<fe> uß dem lannd ziehen muessen.
+^$Inn des tyrannen von Brunschwigs zellt ist ain gantzer kassten vol brief gefunnden worden,
+daraus sich, als unnser gnädiger herr landgraf schreibt, wundersame practic vieler potentaten, innsonnderhait aber der pfaffen erfynndt.
+Unnd, als ich vernimme, soll es die aidgenoͤssen auch antreffen.<f1>Vgl. unten Nr. 2313, 94-96, und möglicherweise PA I 479, Nr. 761.<fe>
+Wann es eur herrn gelegenheit were, ettwas groß zu er-<vl>170r.</vl>farn, so moͤchten sie ungeferlich<f1>etwa.<fe>
+uff 6. oder 9. decembris schirist<f1>nächstkommenden; s. Grimm XV 19, s.v. schier.<fe> gen Franckfurt verordnen.<f1>Bezug auf den Schmalkaldischen Bundestag in Frankfurt am Main, der vom 15. Dezember 1545 bis zum 8. Februar 1546 abgehalten wurde; s. Jakob Sturms Tagebuch über die Verhandlungen (PC III 697-712, Nr. 651).<fe>
+Da werden die evangelischen sampt allen teutschen dem wort gottis anhengige oberkaiten erscheinen
+unnd wider die execution des trientischen<f1>Das Konzil zu Trient.<fe> oder ains anndern dergleichen concili ratschlagen, auch von ainer ainigung reden<f1>Siehe dazu oben Nr. 2263, 37-39 und Anm. 18; unten Nr. 2287, 45f und Anm. 19.<fe>.
+Unnd achte dofuͤr, eure herrn sollten, dahin ze kumen, angesprochen werden. Wa nit, wuͤrd man sie dannoch uff gedachtem tag von hertzen gern sehen, etc.
+^$Hertzog Henrich ligt zu Ziegenheim<f1>Ziegenhain (heute zu Schwalmstadt; Hessen).<fe> unnd sein sone<f1>Karl Victor.<fe> zw Cassel gefanngen.<f1>Vgl. Amerbach Korr. VI 204; PA I 483f, Nr. 770. Beide wurden nach Kassel transferiert; s. ^#/+Demandt^#/- 60f und Anm. 68.<fe>
+Seien fuͤrwar rechte wunder gottis geschehen.
+Der tyrann hat bei 4'000 reutter unnd ob 7'000 knecht durch hilff der baͤbstler gehapt,
+eh wir von seinem vorhaben gewisst. So ist er darnach inn alles starckh worden bis inn zwaintzig tausent.<f1>Zu weiteren, unterschiedlichen Angaben über die Truppenstärke des Braunschweigers s. ^#/+Ißleib^#/- 45f, Anm. 139.<fe>
+Unnd als die unnsern noch nit gefasst gewesen, hat sie hertzog Henrich anfencklich angriffen
+uff 18. octobris unnd schaden gethon, dodurch ettwas forcht entstanden.<f1>Die am 18. Oktober 1545 stattgefundene Schlacht bei dem Dorf und Kloster Höckelheim (bei Northeim, Niedersachsen), von wo aus Heinrich das Lager Philipps angriff. Der Verlust auf braunschweigischer Seite betrug über 100 Mann, auf verbündeter Seite soll er gering gewesen sein; s. ^#/+Ißleib^#/- 47f.<fe>
+Doruff ain anstand ainen tag lang erfolgt,<f1>Dieser Waffenstillstand dauerte vom 18. Oktober bis zum Abend des 19. Oktober 1545, währenddem Herzog Moritz von Sachsen mit Heinrich von Braunschweig unterhandelte. Philipps Forderungen verhinderten aber eine Einigung; s. ^#/+Ißleib^#/- 48f.<fe> welchen der tyrann auch nit gehalten,
+darab landgraf erhitzigt, unnd hats durr unnd dapffer hinein gesetzt<f1>hats durr unnd dapffer hinein gesetzt: hat es [den Angriff] keck und tapfer begonnen; s. Grimm II 1740.<fe>.
+Dem gott der herscharn sei lob, preiß und herlichait in ewikait!
+Das pfaffengeschwurm<f1>Pfaffengewimmel. - Zum Ausdruck "Pfaffengeschwürm" s. ^#/+Roth^#/- III 316, Anm. 64, mit weiteren Belegen.<fe> hat ainen mercklichen schrecken darab empfangen.
+Yetz wurdt mit hertzog Henrichs helffern gehandlt;<f1>Vgl. PA I 481f, Nr. 767.<fe> was unnd wie weit, geit<f1>gibt.<fe> die zeit zu erkennen.
+^$Gruest mir herr burgermeister Lavatern<f1>Hans Rudolf Lavater.<fe>, den herrn statschreiber<f1>Hans Escher vom Luchs.<fe>, dominum Rodolphum Gvalterum, Geßnerum et totum domicilium Palladis<f1>domicilium Palladis: Vgl. oben Nr. 2256, 37f.<fe>.
+Ego, si quid rerum memorabilium audiero, semper ad te perscribam. Vale, meum cor.
+^$12. novembris 1545.
+<un>Tuus ex animo G. Lętus, archigram-­
+<un>mateus Augustę Vindelicorum.
+<lz>[Adresse auf der Rückseite:] Incomparabili viro domino Henricho Bullingero, ecclesiastę Tigurino venerabili, amico et fratri.
+</content>
+</letter>

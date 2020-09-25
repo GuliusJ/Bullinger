@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="18214">
+<nr>18214</nr>
+<correspondents>
+	<originator>Johannes Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Bern]</place>
+	<date>1. September 1548</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 370, 83</vo>
+<dr></dr>
+<re></re>
+<tx>
+S.P. Cum pridie ad te scripserim copiosius, colendissime pater, nunc nihil
+habeo, quod scribam, nisis quod Valentino Mentzero hanc tradas cautionem, quam
+ipsi quoque a dominis impetravi, ut liber a vectigalibus cum sua suppellectile
+ad ecclesiam suae fidei commissam proficisci queat. Vale. Dominus Iesus te diu
+servet incolumem cum omnibus tuis.
+^$Cal[endis] Sept[embris] 1548.
+<un>I[ohannes] Hallerus tuus.
+<lz>[Adresse:] fehlt (weggeschnitten)
+</content>
+</letter>

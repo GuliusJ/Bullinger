@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1200">
+<nr>1200</nr>
+<correspondents>
+	<originator>Martin Frecht</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Ulm</place>
+	<date>24. November 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 151r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Nutzt die Durchreise des Zürcher Boten zum Schreiben. Laut [Jakob] Bedrot hat Bucer in Hessen mit Täufern verhandelt, ist anschließend zu Luther gereist und wird auf den 25. November - zur Teilnahme an der [Ziegenhainer] Synode - nach Marburg zurückkehren.
+Der englische König [Heinrich VIII.] soll alle Klöster abzureißen und die Gebeine von Thomas Becket öffentlich zu verbrennen befohlen haben. Die Verhängung der Acht über Minden habe Kurfürst [Johann Friedrich] von Sachsen und Landgraf [Philipp] von Hessen zum höchsten erzürnt. Weiß noch nichts
+Sicheres über die Auseinandersetzung zwischen Nürnberg und Markgraf [Georg] von Brandenburg.
+[Cheireddin] Barbarossa hat Andrea Doria und die Venezianer in die Flucht geschlagen, und die Moldau soll von den Türken ganz eingenommen worden sein. Obschon der Entscheid in der Sache Schwenckfelds und Francks aufgeschoben worden ist, hofft Frecht auf den Sieg der Wahrheit, denn Schwenckfeld will,
+wohl unter dem Einfluß des gottlosen Michael Servet, die Ungeschaffenheit der menschlichen Natur Christi erweisen und bezichtigt Oekolampad und Zwingli des Nestorianismus;
+Frecht bekämpft Schwenckfelds Fehlschluß, daß Christus, als ganze Person aus dem Heiligen Geist empfangen, Gottes Sohn und daher nicht kreatürlich sei, mit der Bibel und mit Väterkommentaren wie dem des Chrysostomus zum Johannesevangelium und dem des Hieronymus zum Epheserbrief und erwartet
+Melanchthons Unterstützung. Grüße. Bittet um Antwort und läßt den jungen Engländer [John Butler?] grüßen.
+</re>
+<tx>Salutem in domino, Bullingere observande.
+^$Nolui ex Austria istum vestrum tabellionem ad vos redeuntem<f1>Vgl. oben Nr. 1186, Anm. 3.<fe>
+vacuum meis literis remittere, tametsi, quod tua cognitione
+dignum sit, adeo in promptu non habeam. Quodsi quid habeo,
+vereor, ne vetus hoc sit, priusquam ad vos veniat.
+^$Scripsit ex Argentina hisce diebus Bedrotus<f1>Nicht erhalten.<fe> Bucerum a
+pientissimo Cattorum principe<f1>Philipp, Landgraf von Hessen.<fe> vocatum egisse cum
+anabaptistis<f1>Zu Bucers Täufergespräch in Marburg vom 30. Oktober bis 1. November 1538 vgl. Mennonitisches Lexikon, hg. v.
+Christian Hege und Christian Neff, Bd. II, Frankfurt a. M./Weierhof 1937, S. 298-301; BucerDS VII 249f.<fe>, quos non
+paucos ex reliquiis Monasteriensibus Hassia habet<f1>Daß nach dem Untergang des Täuferreichs zu Münster (1535) viele Täufer
+nach Hessen gekommen wären, läßt sich nicht belegen.<fe>, et re confecta ad Lutherum abiisse<f1>Zu Bucers Aufenthalt in Wittenberg s. oben Nr. 1197, Anm. 6.<fe>, hinc
+Marpurgum reversurum ad diem Catharinę<f1>25. November.<fe>, ubi principis iussu intererit ipse synodo isthic celebrandę<f1>Zur Synode vom 25. November 1538 in Ziegenhain (nicht in Marburg), an der die "Ziegenhainer Zuchtordnung" verabschiedet wurde, vgl. BucerDS VII 249-259 (Einleitung),
+260-277 (Text).<fe>.
+^$Deinde ex Anglia allatum regem<f1>Heinrich VIII.<fe> omnia monasteria iussisse
+solo ęquare<f1>Zur Kampagne gegen die Klöster in England im Spätjahr 1538 vgl. Joyce ^#/+Youings,^#/- The Dissolution of the Monasteries, London 1971. - Historical Problems 14, bes. S. 75f.<fe> et Thomę Cantuariensis ossa publice tamquam seditiosi et heretici hominis effossa
+concremare<f1>Im September war der vielbesuchte Heiligenschrein von Thomas Becket in Canterbury auf Anordnung des Königs zerstört worden; s. ^#/+Elton,^#/- Reform 277.<fe>; mira vicissitudo, ut, qui olim sancti, nunc heretici censeantur et, qui modo heretici, sancti habeantur.
+^$Nos interim in domino solabimur nos, ut vel hac occasione
+mitescant tandem ii, qui nos pro hereticissimis habent, ut
+superioribus diebus huius rei exemplum dedit imperialis
+camerę iuditium, quod per bannum proscripsit evangelicam
+civitatem Mindam nomine<f1>Zur Verhängung der Acht über Minden durch das Reichskammergericht vgl. oben Nr. 1193, 11-13 mit Anm. 6.<fe>. Quę audatia, ut Bucerus noster Argentinam scripsisse fertur<f1>Nicht erhalten.<fe>, et Saxonem electorem<f1>Johann Friedrich, Kurfürst von Sachsen.<fe> et
+lantgravium<f1>Philipp, Landgraf von Hessen.<fe> ultra modum exasperavit. Quis enim finis tandem
+tantę confidentię? Itaque mirandum non est, si, quę
+multi boni viri ominantur et incurvicervico populo
+papę et satis securę evangelicę plebi, tandem
+sortiantur actis dignum eventum. Verum de iis, ubi, quod
+dominus fortunet, noster Bucerus domum redierit, certiora
+habere poteris.
+^$De Norinbergensium et Brandenburgensis marchionis<f1>Georg, Markgraf von Brandenburg-Ansbach.<fe> tumultuaria causa<f1>Zum Streit zwischen dem Markgrafen und Nürnberg vgl. oben Nr. 1191, 38-41 mit Anm. 10.<fe> certi nihil nunc possum scribere; nondum
+enim redierunt nostri legati<f1>Die Gesandtschaft, die im Konflikt zwischen Nürnberg und dem Markgrafen zu vermitteln suchte, wurde von Georg Besserer angeführt; s. Capito, Corr. 246, Nr. 698.<fe> ultra mensem nunc absentes. Fama est tamen dimitti milites et hunc inter vicinos
+tumultum tumulo consecrandum, etiamsi plerique evangelicis
+ignem hunc, qui ardere debet, ominantur, si cum Noricis
+fuerit collusum.
+^$De Turcicis omnino certi nihil. Forte harum lator, qui in
+Vienna fuit<f1>Vgl. oben Nr. 1186, 56f.<fe>, narrabit aliqua. Ex Augusta volatilia affert Mercurius nomine suorum, quid enim nostri mercatores non scribunt, proscribenda etiam. Nunc Turcicus pyrata
+Barbarossa Andream de Dorea<f1>Andrea Doria, 1466-1560, von Genua, stand in militärischen Diensten vorerst des Papstes, des französischen Königs und anderer Potentanten. Von 1528 an bis zu
+seinem Tod diente er als einer der besten Admirale seiner Zeit Kaiser Karl V., der ihn zum Fürsten von Melfi erhob, und König Philipp II. gegen Franzosen, Türken und gegen die
+Mittelmeerpiraten. - Lit.: Thomas B. ^#/+Deutscher,^#/- in: Contemporaries I 397f; Vito Antonio ^#/+Vitale,^#/- in: Enciclopedia Italiana di scienze, lettere ed arti, Bd. XIII, Mailand 1932, S. 166f.<fe>, cęsareanum ducem,
+modo Venetos coegit terga dare<f1>Cheireddin Barbarossa hatte am 27. September bei Prevesa (Griechenland) die Flotte der "Heiligen Liga" in die Flucht geschlagen; s. ^#/+Cardauns^#/- 24-27.<fe>. Iam Turca<f1>Sultan Suleiman I.<fe> Moldam universam
+subiugasse fertur<f1>Im September 1538 hatten sich die Türken die Moldau unterworfen; vgl. ^#/+Hammer-Purgstall^#/- III 200-203. 698-700.<fe>. Sed mercurialia ista sunt; hoc dicunt
+boni aliqui cęsarem<f1>Karl V.<fe> totum in armis esse, ut Turca tandem
+sentiat Carolum non Lutheranos, sed Constantinopolitanos
+petere velle. De iis autem satis.
+^$Publicę et politię et ecclesię res bene se
+haberent, si demum iuxta euangelion poenitentiam et fidem
+prędicans viveremus. Sectarii cum alia doceant, incipiunt
+ex indulgentia cristas erigere<f1>Vgl. Adagia 1, 8, 69 (LB II 324).<fe>; nam Schwenckfeldii (qui hoc
+die<f1>Schwenckfeld war seit dem 12. November wieder in Ulm (s. QGT XV 297, 9f).<fe> apud suum hospitem, consulem nostrum<f1>Bernhard Besserer.<fe>, diversatur) et
+Franci causa in ulteriorem cognitionem reiecta est<f1>Am 11. Oktober 1538 hatte der Rat als Antwort auf eine Eingabe Frechts und der Schulpfleger beschlossen, daß mit Kaspar Schwenckfeld und Sebastian Franck eine Einigung gesucht werden müsse (vgl. ^#/+Schultz,^#/- Schwenckfeld 247 und ^#/+Peuckert,^#/-
+Franck 371).<fe>. In hoc labore autem sum, ut tandem vincat veritas. Orabis itaque,
+mi Bullingere, dominum, ut encomion pium canamus semel,
+video siquidem Schwenckfeldium hoc modis omnibus evincere
+velle, forte ex impio Michaele Serveto<f1>Tatsächlich läßt sich Schwenckfelds Interesse an der Frage der Geschöpflichkeit Christi bis zu seiner Begegnung mit Servet in Straßburg (1531) zurückverfolgen; vgl. R. Emmet ^#/+McLaughlin,^#/- Caspar Schwenckfeld, Reluctant Radical. His Life to 1540, New
+Haven/London 1986, S. 207f.<fe>, ut Christus iuxta
+humanitatem non credatur esse creatura. Audet, ut subodoror,
+Schwenckfeldius et Oecolampadium et Zwinglium, sanctę
+memorię patres, accusare criminis Nestoriani<f1>Vgl. HBBW I, S. 106, Anm. 39.<fe>. Putat enim, si diis placet, ille pneumaticus chrestologus personam in Christo dividi, si Christum ut hominem creaturam catholice confiteamur. Ita sane videtur insanire ille, ut in corpore Christi membrorum
+lineamenta abneget. Adeo satan molitur
+Christum glorificare, cum per suos apostolos vult eum ut
+hominem e spiritu sancto conceptum et ut hominem filium dei
+negare esse creaturam. Isthuc autem hoc die mihi quidam<f1>Unbekannt.<fe>
+narravit cum Schwenckfeldio <gr>diatrícaw</gr>, qui Oecolampadii in 1. caput Ioannis
+evangelii annotationes<f1>Siehe Oekolampad-Bibliographie 82f, Nr. 171 (Ausgabe 1533), und 87, Nr. 179 (Ausgabe 1535).<fe> illi proposuit, quas ut Nestorianas
+ipse reiecit. Perpetuo enim isto argumento fidit: Iuxta
+totam personam Christus e spirito sancto conceptus
+filius est dei, ergo non creatura; creaturę enim nomen
+servile esse, quod et cum Christo homine pugnet plus quam
+ex diametro<f1>Adagia 1, 10, 45 (LB II 380).<fe>. <vl>151v.</vl> Christus siquidem ut homo dominus est, non ergo creatura. Cui paralogismo oppono scripturam et veteres. Nam Chrysostomus in Ioannis caput 1., h[omilia] 2.<f1>MPG LIX 37-46 (nach anderer Zählung Hom. 3).<fe>, vel Christum a
+patre dominum constitutum refert ad rationem creaturę, et
+aperte ista in Ephesios 2. capite<f1>MPL XXVI 501f.<fe> testatur Hieronymus. Verum istis nolo te alioqui occupatum reddere occupatiorem. Profecto perpetuo obstrictum me clientem tibi habebis, qui in hac causa fideliter mihi suppetias tuleris. Melanchthon, cui ante duos menses scripsi ea de
+re<f1>Frechts Brief an Melanchthon ist nicht erhalten.<fe>, sua, ut spero, cum nostro Bucero subsidia mittet<f1>Bucer teilte Frecht am 29. November mit, auch in Wittenberg verurteile man Schwenckfelds Ansichten; s. Vadian BW V 531; CSch VI 384.<fe>. Bellum hoc commune est; nam
+Schwenckfeldius diris omnibus devovet eos, qui hominem
+Christum ut hominem creaturam esse tenent. Habet et iste
+spiritus alia perversa dogmata, de quibus alias.
+^$Hęc occupatissimo et iam ad concionem abituro et
+declamaturo exciderunt, quę pro tua insigni humanitate
+boni consulas. Bene vale cum dominis et fratribus,d. Pellicano, Leone<f1>Leo Jud.<fe>, Megandro, Bibliandro et reliquis nostri amantibus.
+^$24. novembris 1538, Ulmę Svevorum.
+<un>Martinus Frechtus.
+<lz>Ut soles, hunc fidum nuntium commendatum cum dominis
+vestris habere digneris et, si licet, rescribe in tempore,
+atque Anglicum iuvenem<f1>Wohl John Butler (vgl. auch oben Nr. 1154, 80).<fe> saluere ex me iube. Iterum vale.
+<lz>[Adresse darunter:] Egregie pio et doctod. Heynricho Bullingero, Tigurino ecclesiastę, suo in
+domino maiori. Zurch.
+</content>
+</letter>

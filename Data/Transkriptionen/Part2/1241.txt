@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1241">
+<nr>1241</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>11. März 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2776 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Schickt fehlende Bestandteile der Armillarsphäre, die er ihm kürzlich überbringen ließ. Erinnert ihn an die Lieferung von Papier für Martin Peyer und Myconius.
+</re>
+<tx>Gratiam et pacem a domino.
+^$En denuo te meis interturbo literis, verum veniam ut des,
+rogo, quod tua studia meis nugis subinde interturbo; causae
+enim non desunt. Misi antea<f1>am 4. März; vgl. oben Nr. 1235, 13-16.<fe> per Miconii ancillam<f1>Nicht namentlich bekannt.<fe> spheram,
+quam te accepisse spero; verum centrum spherę plumbeasque
+compages, quę coluros coniungunt axemque mundi sustinent,
+mittere oblitus sum. Haec nunc ad te mitto et rogo, ut
+hęc aequo<fx>^#/+vor ^#/-aequo ^#/+gestrichenes ^#/-te.<fe> animo suscipias.
+^$Plura nunc non scribo, ne tibi molestus sim. Hoc saltem
+rogo, ut cures, ut Martinus Peyer papyrum, quam cupit,
+accipiat per Froschouerum et ut Miconio eadem mittatur<f1>Vgl. oben Nr. 1235, 20-26.<fe>.
+^$Salutabis, quaeso, nomine meo matrem<f1>Anna, geb. Wiederkehr.<fe> et uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam
+cum universa familia. Vale bene, pater humanissime, et me tibi commendatum habeto.
+^$Basileae, ex aedibusd. Miconii, 11. martii 1539.
+<un>Tui observantissimus
+<un>Rodolphus Gvalterus.
+<lz>[Adresse auf der Rückseite:] Vere pio et erudito
+viro M. Heinrycho Bullingero, patrono suo imprimis colendo.
+</content>
+</letter>

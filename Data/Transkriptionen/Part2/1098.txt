@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1098">
+<nr>1098</nr>
+<correspondents>
+	<originator>Bartholomew Traheron</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Genf</place>
+	<date>Januar/Februar 1538]</date>
+	<note>Traheron schreibt, er habe Calvin vor vielen Wochen ("multis abhinc hebdomadibus") einen Brief nach Bern mitgegeben, den dieser Megander überreicht habe. Da Megander im Januar 1538 Bern verließ, muß
+Calvins Reise von Anfang Dezember 1537 gemeint sein (s. Corr. des réformateurs IV 340, Anm. 2). Deshalb kann der Brief
+nicht vor Januar 1538 geschrieben worden sein. Bestätigt wird diese Datierung durch den Glückwunsch zur Geburt Christoph
+Bullingers, der am 16. Dezember 1537 zur Welt kam (s. HBD 26, 1f). Der Brief enthält keinen Hinweis darauf, daß Traheron Genf
+bereits verlassen hätte.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 369, 20f (Siegelspur) <f1>20r.-21r., Adresse 21v.!! Der aufgeklebte Zettel (E II 369, 21b): R. Sailer an HB, 2.6.[1553]. Genfer Wasserzeichen<fe></vo>
+<re>Hat dem Boten Butlers nichts für ihn mitgegeben, da er ihm bereits früher geschrieben hat; allerdings scheint sein
+Brief, den Calvin Megander übergab, nicht angekommen zu sein. Da Bullinger in seinem Brief an Butler auch seiner gedenkt,
+liegt ihm um so mehr daran, keine Zweifel an seiner Freundschaft aufkommen zu lassen. Beglückwünscht ihn zur
+Geburt seines Sohnes Christoph. Hat Gerüchte über bucerische Tendenzen in Bern gehört; in [Genf] wird richtig [über das
+Abendmahl] gepredigt. Grüßt Bullingers Familie und Rudolf [Gwalther].
+</re>
+<tx>[Gedruckt und Übersetzung ins Englische:
+^&xMit zu später Datierung auf 18. Februar 1546.^&x{
+Epistolae Tigurinae 210f bzw. Original Letters I 317-319, Nr. 149.]
+^&xLonge doctissimo piissimoque virod. Henrycho Bullingero
+Bartholomęus Trehernius salutem in domino.
+^$Scripseram ad te multis abhinc hebdomadibus easque literas
+domino Calvino, mei tuique amantissimo, tradideram Bernam
+proficiscenti, ut inde ad te perferrentur. Verum quantum ex
+literis, quas per nuncium domini Butleri misisti, coniicere
+potui, meae tibi non sunt redditae. Non enim dubito, quin
+earum mentionem alicubi facturus fuisses; proinde haec res
+animum meum non mediocriter angit atque excruciat. Nam cum
+caeteri mei conterranei ad te literas darent, cumque ipse
+alios Tigurinos epistoliis salutassem, potuisti iure me
+ingratitudinis notare, qui te praetermiserim, cui ego
+plurimum debeo. Si hoc certe fecissem, non dubitarem, quin
+dignas aliquando poenas daturus essem Jovi^&x{
+^&x<gr>jeniv.</gr>Zeus gilt als Beschützer des Gastrechts. Sed nihil, mihi crede, minus in animo fuit,
+eoque ad te meas literas misi, priusquam dominus Butlerus,
+singularis amicus meus et frater multo charissimus, hunc
+nuncium nactus fuisset. Sed infeliciter, ut video, cecidit.
+Mihi certe gravissimum dolorem attulit, non quod aliquid in
+literis fuerit, quod lectione tua dignum putem, sed ne vel
+amicitiae tuae contemptor, vel benignitatis erga me parum
+memor sim tibi forte visus; quorum utrum minus velim, haud
+satis scio. Illud est singularis humanitatis tuae, quod me
+coniunxeris in literis tuis ad dominum Butlerum. Unde etiam
+mihi bona spes est, te hanc meam purgationem non illibenter
+accepturum, tametsi,^&x{
+^&x<gr>toy ueon martyrow,</gr> in amicitiam nostram nihil
+peccavi, nisi forte hoc est peccasse, quod alias literas ad
+te non dederim, cum certus nuncius adesset; in quo nonnullam
+culpam meam agnosco. Sed quis putasset eas literas ad te
+non perventuras, quas domino Calvino tradidissem illeque
+rursum domino Megandro? Posthac si permisero ad te a nobis
+ullum nuncium venire sine literis meis, non obstat, quin me
+in numerum
+<gr>tvn axaristvn</gr> aut etiam^&x{
+^&x<gr>tvn misofilvn</gr> coniicias; quod tamen scelus in me
+haerere minime omnium velim. Sum enim, ut si quis alius, ad
+mutuo amandum propensus, ut interdum etiam eos, qui mihi
+parum bene volunt, tantum non depeream. Doctos certe omnes,
+quique de me bene meriti sunt, ita in delitiis, ita prae
+oculis semper habeo, ut nec illis dulcius quicquam sit, nec
+penitus animo insideat. Qui igitur tui oblivisci queam,
+cuius et eruditio mihi semper iucundissima et utilissima
+fuit, et beneficia in me extant plurima? Non est igitur,
+quod existimes tui oblivione factum esse, quod literae meae
+iam ad te non pervenerint; sed est, quod expostules cum
+domino Megandro, qui literas meas tibi perferendas non
+curarit. Me extra omnem culpam esse, ut spero, vides, nisi
+quod tibi bis non scripserim.^&x{
+^&x ^$Te filiolo auctum esse, et eo quidem primo etiam die
+<gr>Xristyforv,</gr> ex animo gratulor, nec minus gaudeo,
+uxorem tuam foeminam laudatissimam hoc periculo esse
+perfunctam.
+^$Quid Lutherus cum suis
+<gr>peri thw eyxaristiaw</gr> moliatur, scire percupimus.
+Rumusculus hic est, nescio quis, de Bernatum animis in
+Buceri partes nonnihil inclinatis. Hic, quantum perspicere
+hactenus potuimus, omnia pure prędicantur.^&x{
+^&x ^$Tibi, liberis tuis omnibus, uxori optimae, aviae, Rodolpho,
+<gr>thn eytyxian, thn polydaimonisynhn[!], thn alhuh en
+Xristv agalliasin</gr> opto. Vale, animo meo charissime,
+domine Bullingere, cum tuis omnibus.
+<lz>[Adresse .....:] Eruditissimo
+Tigurinae ecclesiae episcopo, domino Henrycho Bullingero,
+amico suo singulari.^&x{
+</content>
+</letter>

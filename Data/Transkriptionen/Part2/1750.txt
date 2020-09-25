@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1750">
+<nr>1750</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>31. Mai 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 269 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB</vo>
+<vo>Ms S 52, 215</vo>
+<dr>Ungedruckt</dr>
+<re>Es fehlt nicht nur dauernd an Boten, er litt auch zwei Wochen an einem Karbunkel und konnte weder für den Matthäuskommentar
+danken noch die Sendung von [Johannes] Gast weiterleiten; empfiehlt den Boten. Bullinger sollte sich um der Kirche willen
+gesundheitlich schonen. Es heißt, Bucer werde nur für kurze Zeit nach Hause zurückkehren. Bullinger hat wohl schon von der
+Niederlage Marias [Statthalterin der Niederlande] [bei Sittard] und von der Ermordung evangelischer Predigthörer aus Metz an
+Ostern gehört; das Kloster [Gorze] ist jetzt wieder in französischer Hand, und Graf Wilhelm [von Fürstenberg] sucht
+Unterstützung bei [Landgraf Philipp von] Hessen, der angeblich Truppen anwirbt. Laut einem aus Wittenberg übermittelten Brief
+eines polnischen Adligen haben die Ungarn die Türken aus Buda vertrieben; Myconius möchte mehr darüber erfahren; falls es
+wahr ist, hat Vadian wohl Kenntnis davon. Kann nicht mehr schreiben; Gruß.
+</re>
+<tx>S. Pręter quod tabellionibus perpetuo careo, dies
+quatuordecim decubui carbunculo<f1>Karbunkel (Karfunkel); vgl. HBBW XI, S. 339f, Anm. 17.<fe>, ut mulieres vocant. Revalui
+tandem per gratiam domini; non licet tamen adhuc ad tuas<f1>Nicht erhalten.<fe> respondere vel gratias agere pro
+tuo Matthęo<f1>Bullingers Matthäuskommentar (HBBibl I 144); vgl. zuletzt oben Nr. 1720, 1-18.<fe>, quod
+caput nondum plane sibi restitutum est. Fasciculum hunc Gastii<f1>Über diese Sendung von Johannes Gast ist nichts Näheres bekannt (vgl. jedoch oben Nr. 1746, 22-25).<fe>
+mecum habui ultra tres septimanas ob causas, quas dixi, tum
+quod non sum ausus cuivis, quicquid est, credere. Tandem
+hunc nactus sum, quem vides,<f1>Unbekannt.<fe> virum bonum, quem velim haberes, siquid opus fuerit opera tua, commendatum.
+^$Magno dolore me adfecisti ob valetudinem tuam;<f1>Vgl. zuletzt oben Nr. 1746, 1.<fe> timendum enim, ne sumat per ętatem
+augmentum, eo quod tibi minus parcis. Laboribus perpetuis illis aliquid adimendum est et cogitandum de ecclesia commendata a
+domino, ut videlicet huic quam diutissime, quantum in te est, praeesse valeas. Per dominum quęso, ne te negligas.
+^$De Bucero nihil audio, nisi quod sit mense maio rediturus domum, verum non diu mansurus ob negociorum magnitudinem;<f1>Zur
+mehrfachen Verschiebung der geplanten Rückkehr Bucers s.
+^#/+Pollet,^#/- Relations I 120.<fe> messem evangelicam grandem esse, messorum vero valde paucos.<f1>Vgl. Mt 9, 37.<fe>
+^$Quod Maria, soror Caroli,<f1>Maria von Ungarn, Statthalterin der Niederlande, die Schwester Kaiser Karls V.<fe> sit
+profligata a Iuliacensi<f1>Herzog Wilhelm von Jülich-Berg-Kleve-Geldern.<fe> in profesto pas­chatis<f1>Zum Gefecht bei Sittard am
+24. März vgl. oben Nr. 1746, 22 mit Anm. 13.<fe> et ipso die paschatis Metensium multi propter auditum evangelium
+cęsi,<f1>Am 25. März überfielen französisch-lo­­th­ringische Truppen die Abtei Gorze, die unter Graf Wilhelm von Fürstenberg
+zu einem Vorposten der Reformation geworden war. Mehrere der zu Farels Predigt versammelten Gläubigen aus Metz wurden getötet,
+andere verschleppt; s. Henri ^#/+Strohl,^#/- in: Guillaume Farel 1489-1565. Biographie nouvelle écrite [...] par un groupe d'historiens [...], Neuchâtel-Paris 1930, S. 495f; ^#/+Wagner,^#/- Fürstenberg
+228-231.<fe> nimirum audisti. Monasterium donatum
+comiti Gulielmo<f1>Wilhelm von Fürstenberg; vgl. HBBW XII, S. 159, Anm. 19.<fe> nunc iterum detinetur a Gallis. Id quod comes conquestum abiit ad Hessum<f1>Landgraf Philipp von Hessen. - Zu
+den vergeblichen Bemühungen Fürstenbergs um Rückeroberung der Abtei Gorze s. ^#/+Wagner,^#/- Fürstenberg 232-236.<fe>. Quid fiat, ignoro. Rumor est Hessum conscribere milites.
+^$Ex Vitenberga scripsit quidam, imo literas misit nobilis cuiusdam Poloni,<f1>Weder Brief(e) noch Briefschreiber sind
+bekannt.<fe> Budam mirabili stratagemate ab Ungaris, Turcis omnibus ad unum occisis, receptam. Siquid ea de re constat,
+obsecro, me reddas certiorem. Siquid veri est, id dominum Vadianum consulem vix potest latere.
+^$Non licet confabulari tecum pluribus. Vale per dominum Iesum cum tuis, cum Theodoro<f1>Theodor Bibliander.<fe> cumque Pellicano, charissimis meis.
+^$Basileae, ultima maii anno 1543.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo piissimoque, fratri in domino suo perquam venerando.
+Zü[ric]h<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2479">
+<brief>
+<id>16170</id>
+<nr>2479</nr>
+<ae>Bullinger an Johannes Haller</ae>
+<od>Zürich, 29. Juni 1546
+<fn>Ort, Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem</i> [= Bullinger] <i>eidem</i> [= Haller]. <i>Tiguro Augustam. Die Petri et Pauli anno 1546.</i></fn></od>
+<vo>Abschrift von unbekannter Hand aus dem 17. Jh.
+<fa><i>Mit einer Randbemerkung von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 46, 592</vo>
+<dr>Ungedruckt<k>Danach Kopie 18. Jh.: Zürich ZB, Ms S 60, 156</k></dr>
+<re>Haller soll wie bisher standhaft bleiben, die [Augsburger] zum Beten anhalten und sie auf den Tod vorbereiten, welcher einem schändlichen, verräterischen Friedensvertrag vorzuziehen wäre.
+<t/>Kaiser [Karl V.] hat [den Eidgenossen] ein schmeichelhaftes, aber trügerisches Schreiben zukommen lassen. Der Zürcher Rat hat seinerseits öffentliche Gebete für die [deutschen Protestanten] angeordnet. Auch wenn er für deren Anliegen bei den anderen Eidgenossen einiges erreichen sollte, dürfte man nicht auf die Schweizer, sondern allein auf Gott zählen.
+<t/>Haller und die Augsburger sollen oft über die Lage berichten. Das ist zwar gefährlich, doch hat Augsburg zuverlässige Boten. Haller soll aber in seinen Mitteilungen an Jakob Ruf vorsichtig sein. Beängstigendes sollte er diesem verschweigen.
+<t/>Das Vertrauen auf Gott wird Mut machen!</re>
+<text>
+<p><zzl>zl16170-3A</zzl>Mi Hallere, duo a te postulo. Primum, ut talis esse pergas, qualis per gratiam dei fuisti hucusque, et ut in periculis te ipsum superes et vincas. Sis fortis in domino.
+<fn>Vgl. Eph 6, 10.</fn> Consolare tuos.
+<fn>Vgl. 1Kor 14, 3.</fn> Urge ad preces. Urge, ne fidant carni, sed deo spiritui.
+<fn>Vgl. Joh 6, 63; Phil 3, 3.</fn> Praepara, ut malint mori quam turpes recipere conditiones,
+<fn>Vgl. <qv>nr2467</qv>,<qv>zl16157-5</qv>.</fn> non pacis, sed proditionis.<zzl>zl16170-3E</zzl></p>
+<p><zzl>zl16170-2A</zzl>Mellitas scribit caesar
+<fn>Karl V. - Anspielung auf den Brief des Kaisers an Zürich und die Eidgenossen vom 12. März 1546; s. <qv>nr2452</qv>, <qv>fn16140-4</qv>.</fn>, sed scorpius
+<fn>Metapher für heimtückische Menschen mit raffinierten Angriffsmethoden; s. <a>KP</a> V 315 s.v. Spinnentiere.</fn> est.<zzl>zl16170-2E</zzl> <zzl>zl16170-5A</zzl>Instituimus pro vobis preces publicas in urbe et agro.
+<fn>Siehe dazu <qv>nr2478</qv>, <qv>fn16168-1</qv>.</fn><zzl>zl16170-5E</zzl> Magistratus noster diligenter causam nostram agit apud alios Helvetios, ac optime spero. <zzl>zl16170-1A</zzl>Vos tamen fiduciam vestram non ponetis in Helvetios.
+<fn>Vgl. z.B. Ps 118 (Vulg. 117), 8f; 1Tim 4, 10. - Anspielung auf <qv>nr2467</qv>,<qv>zl16157-4</qv>.</fn> Sive enim veniant, sive non, deus sit vester timor
+<fn>Vgl. Jes 8, 13.</fn> et salus vestra. O die biderben
+<fn>rechtschaffenen.</fn> lüt! Bitten gott gar trülich! Sehend auf gott!<zzl>zl16170-1E</zzl> Ich hör bey der warheit nüt dann guts ewerthalb
+<fn>euretwegen; in eurer Angelegenheit.</fn>.</p>
+<p>Primo, scribatis frequenter, ut sciamus, quomodo res habeat. Scio periculosum in his turbis scribere, sed urbs
+<fn>Gemeint ist Augsburg.</fn> habet tabelliones satis certos.</p>
+<p><zzl>zl16170-4A</zzl>Secundo
+<fa><i>In der Vorlage</i> secundum <i>mit gestrichenem</i> m <i>und ohne entsprechende Korrektur des</i> u.</fa>, ut scribens nostris civibus, Iacobo chirurgo
+<fn>Jakob Ruf.</fn> inprimis, prudenter expendas, quod scribas.
+<fn>Näheres dazu in Hallers Antwort vom 12. Juli; s. <qv>nr2498</qv>,<qv>zl16189-1</qv>.</fn> Si quid meticulosum, ne scribas,
+<fn>Si quid meticulosum, ne scribas: Wenn es etwas Beängstigendes gibt, [dann] schreibe nicht.</fn> mihi crede.<zzl>zl16170-4E</zzl> Quicquid ego potero, me totum offero.</p>
+<p>Vive! Vale! Dominus Iesus servet te. Trostlich und unverzagt. Gottes sterckhe sey unser trost!</p>
+</text>
+</brief>

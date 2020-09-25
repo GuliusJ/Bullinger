@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="838">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>8. Juni 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 342, 62 (ohne Siegel)</record>
+<print>Ungedruckt</print>
+<statue>
+Wundert sich, dass Myconius nichts von sich hören lässt. Beklagt
+die Geldgier der Schweizer; Zürich hat zwar Massnahmen
+gegen das Reislaufen ergriffen, doch Bern bringt durch seine
+Parteinahme für den französischen König den Kaiser gegen sich auf.
+Erkundigt sich nach der Tagung in Eisenach. Gruss.
+</statue>
+<content>
+Gratiam et vitae innocentiam a domino.
+<p>Vel ex amicissimo factus es inimicus, quod tamen minus metuo confisus humanitati tuae, vel valetudinarius scribere non potes. Qui enim fieret alias, ut tempore tanto nihil scriberes+1? Verum impediunt tabellarii,
+impedit occasio, otium et negotium. Ego quidem, quod scribam, in
+praesenti non habeo, nisi quod merore gravi misere discrutior ob auri
+istam famem sacram+2, qua Helveticum video laborare populum. Venalis est
+nobis libertas, patria, religio, et quid non? Tigurini summa cavent
+diligentia et sumptibus immodicis quoque, ne ex urbe vel agro vel
+Galli vel caesaris+a partes sequantur nostri+3. Equidem pauci
+adhuc violata fide publica militiae sese dediderunt. Quid futurum sit,
+nescio. Optima quaeque ominor. De Bernatibus quid sperare debeam,
+nescio. Hoc scio, quod caesarem habituri sint inimicissimum, habituri
+placabiliorem, si se Galli partibus non iunxissent+4.</p>
+<p>Quid vero de conventu habes Isenacensi+5?</p>
+<p>Valebis nunc, amicorum syncerissime.</p>
+<p>Tiguri, 8. iunii 1536.</p>
+<signature>
+H. Bullingerus tuus.
+</signature>
+<address>
+Dominum Simonem Grynaeum, virum praestantissimum et mihi longe
+amantissimum, salvere iubebis.
+(*Adresse auf der Rückseite:*) Domino Osvaldo Myco(*nio*)+b,
+Basileiensis ecclesiae a(*ntisti*)ti+c vigilantissimo, suo (*in*)+d
+domino charissimo fra(*tri*)+e.
+</address>
+</content>
+<note>
+.us; +a >in der Vorlage  casaris.
+<print>
+^^^'Sup(b-e) >Unterer Briefrand abgerissen; Adresse beschädigt.
+</print>
+<address>
++1>Bullinger erhielt Myconius' Brief vom 2. Juni (oben Nr.
+835) erst kurz nach Abfassung dieses Schreibens; vgl. unten Nr. 841,
+2f.
++2>Zur Redensart s. Otto 49f, Nr. 221.
++3>In mehreren Rundschreiben wurden die Vögte und Untervögte an das
+Verbot des Reislaufens erinnert und zu Gegenmassnahmen aufgerufen (s.
+Zürich StA, A 42. 1; B IV 7, 32r.-v. und 55r.; vgl. auch A 166. 2 sowie
+unten Nr. 840, 7-9; 841, 37-45).
++4>Bullinger missbilligte die Haltung Berns, das den Durchmarsch
+französischer Truppen unter bestimmten Vorbehalten erlaubt hatte;
+vgl. oben Nr. 831, 5-29.
++5>Die ersten Nachrichten über den vom 22. bis zum
+29. Mai in Wittenberg (statt in Eisenach; s. unten Nr. 842, Anm. 7)
+abgehaltenen Konvent brachte Pellikan Anfang Juli von Strassburg
+nach Basel und Zürich (s. unten Nr. 857). Zu den
+Verhandlungen und zur daraus hervorgegangenen Wittenberger Konkordie s.
+<print>
+BucerDS VI/1;  Bizer,
+Abendmahlsstreit 96-130;
+Köhler,  ZL II 443-455.
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

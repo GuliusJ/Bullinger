@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1028">
+<nr>1028</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>5. August 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 79 (Siegelspur) </vo>
+<dr></dr>
+<re>Hat Vadians Brief durch [Christian] Fridbolt erhalten. Hofft, daß der sächsische Streit, der ganz Deutschland erfassen könnte, durch [Landgraf Philipp] von Hessen oder einen andern beendet wird.
+Möchte gerne die erwähnte Vereinbarung Melanchthons und Bucers sehen; hörte von unheilvollen Aktivitäten Bucers in der Bilderfrage in Augsburg. Weiß noch nichts von der Luzerner [Tagsatzung], da er den Zürcher Gesandten [Hans Rudolf Lavater] noch nicht gesehen hat. Bittet um treue Verbundenheit.
+Gute Wünsche, auch an Dominik [Zili] und [Valentin] Furtmüller. Grüße von Leo [Jud], [Konrad] Pellikan, Theodor [Bibliander] u. a. </re>
+<tx>[Gedruckt: Vadian BW 438f, Nr. 968.]
+</content>
+</letter>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2282">
+<nr>2282</nr>
+<correspondents>
+	<originator>Agostino Mainardi</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chiavenna</place>
+	<date>3. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365a, 444 (Siegelspur)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 97; Erw./Zit.: Trechsel, Protestantische Antitrinitarier II 92 (5. November); Dalbert 61f; Williams, Renato 149.^&x{
+<re>Mainardi dankt für die von der Zürcher Kirche gegen Luther verfasste ["Orthodoxa Tigurinae ecclesiae confessio"].
+-^#. Die von der Alten Kirche vor dem Sakrament eingenommene Mahlzeit (cena), die Camillo [Renato] in seinem Schreiben [Nr. 2279] als "epulum" bezeichnete, hält Mainardi für nicht verpflichtend, da seiner Ansicht nach Christus über diese Mahlzeit (cena) im Gegensatz zum Sakrament des Brotes und des Weines keine Anweisungen gegeben hat. Auch wenn Paulus versicherte [1Kor 11, 23], vom Herrn empfangen zu haben, was er den Korinthern überliefert hatte, so glaubt Mainardi, dass Paulus dabei an das Sakrament und nicht an die Mahlzeit (cena) dachte, zumal Paulus der Ansicht war, dass es besser sei, auf die [öffentliche] Mahlzeit zu verzichten und sie zu Hause einzunehmen, anstatt damit die Armen zu beschämen und die Kirche zu diskreditieren. Auch Christus wird wohl das Sakrament und nicht die Mahlzeit (epulum) gemeint haben, als er den Jüngern auftrug, Brot und Wein zu sich zu nehmen. Mainardi glaubt daher, dass die Kirche gegenüber dieser Mahlzeit frei sei, je nach Zeit, Ort und [Gemeinde] darüber befinden zu können, auch wenn die Apostel und die Alte Kirche eine solche nach dem Beispiel jener Mahlzeit, an der Christus [das Sakrament eingeführt hatte], zu sich nahmen. Mainardi bittet Bullinger um eine Stellungnahme.
+-^#. Grüße an [Konrad] Pellikan.</re>
+<dra>[Gedruckt: Petrus Dominicus Rosius ^#/+a Porta,^#/- Historia Reformationis Ecclesiarum Raeticarum, Bd. 1/2, Chur 1771 (bzw. Lindau 1777), S. 118 (datiert auf 5. November); Graubünden, Korr. I 89f, Nr. 64; ^#/+Renato,^#/- Opere 199, Nr. 22.]</dra>
+^&x<tx>Salve, mi frater ac domine, in Christo Iesu.
+^$Libellum vestre ecclesie contra Lutheri dicacitates, quem mihi tua humanitate
+dono dedisti, gratanter accepi et perlegi et gratias tibi ago, quod mei memoriam habeas.
+^$Id vero, quod Camillus noster ad te scribit de cena sive, ut ipse ait, de epulo,
+quod ante sumptionem sacramenti vetus ecclesia frequentabat exemplo apostolorum ac domini, nihil dubito, quin liberum sit;
+neque enim, ut puto, de cena illa sicuti de sacramento panis ac vini salvator noster precepit.
+Tametsi autem Paulus se accepisse a domino, quod Corinthiis tradiderat, asserat,
+id tamen de sacramento intelligendum puto, non de cena illa, cum satius esse illam relinquere et domi edere
+quam violata charitate pauperes pudefacere et ecclesiam contemnere iudicaverit, et Christus ipse,
+quod faciendum mandavit su[m]pto a discipulis pane et vino, de sacramento quoque intelligat, non de epulo.
+Quare ęstimo ecclesiam liberam esse in huiusmodi, et quamquam usurpata ab apostolis et veteri ecclesia
+cena illa fuerit exemplo Christi, nos tamen et Christi ecclesia, quum liberi simus, variare ac mutare possumus
+secundum tempora, secundum loca et qualitates hominum, que dominus et Christus ipse non precepit.
+Dixi, quod mihi videtur, nil temere definiens.
+Tu pro tua pietate et benignitate sententiam tuam afferre et nos docere propter deum non gravaberis.
+^$Dominum meum ac patrem colendissimum dominum Pellicanum, ut verbis meis salutes, etiam atque etiam oro, et bene vale in domino Iesu.
+^$Claven[n]e, 3. novembris 1545.
+<un>Augustinus Maynardus tuus.
+<lz>[Adresse auf der Rückseite:] Reverendo in Christo domino domino Henrico Bullingero, Tigurino ecclesie episcopo prestantissimo. Tiguri.^&x{
+</content>
+</letter>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1175">
+<nr>1175</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>nach Mitte September 1538]</date>
+	<note>Grynäus dankt für ein Hochzeitsgeschenk (s. unten Z. 1-9); auf die bevorstehende Hochzeit hatte Gwalther am 12. September hingewiesen (s. oben Nr. 1174, 38f). Das Werk von Ptolemäus, das zusammen mit dem vorliegenden Brief
+überbracht wurde (s. unten Z. 20), lag am 12. September schon bereit, sollte aber erst bei der Rückkehr Froschauers von der
+[Frankfurter] Messe abgeschickt werden (s. Vadian BW V 509).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 192 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für eine Hochzeitsgabe. Die Pflege der Freundschaft ist in dieser Zeit besonders wichtig, damit die Kirche der Welt auch in Zukunft Trost bringen kann. Bittet, Ptolemäus' ["Almagest"] an Vadian weiterzuleiten.
+</re>
+<tx>S. Bene, mi Bullingere charissime, facis, cum studiis
+bonorum sanctam tuam sanctificationem addis, quo meum
+matrimonium auspicatius ac domino deo nostro gratum magis
+reddas. Gratias ago tibi in domino Christo. Nullum esse scio
+meo cordi gratum magis officium quam piorum virorum in meis
+institutis consiliis conspirationem. Illud vero perhumaniter
+facis, cum ita <gr>mnhmósynon</gr> conformas doctrinę, ut
+extare eius memoriam perpetuam apud nos velis. Laudo
+institutum<fx>^#/+vielleicht als ^#/-industriam^#/+ zu lesen^#/-.<fe>, amo humanitatem. Dominus Christus in veras
+vereque tanto sponso<fx>^#/+vor ^#/-sponso ^#/+gestrichenes ^#/-di[?].<fe> dignas flammas corda nostra sancto suo
+spiritu exuscitet. Amen.
+^$De amicitię nostrę conservatione dabis sic operam,
+ut solitus es. Certe tempus hoc nec vulgares animos nec
+parva ingenia nec levia consilia requirit, quomodo eam
+ecclesiam, quam tradidit nobis Christus, velimus non solum conservare, sed sic tradere posteris, ut et captivo terrarum
+orbi possit adferre solacium. Summa solidissimaque pręstantium omnium vi­rorum consensione ad eam est opus, mi Bullingere,
+frater charissime. Oro dominum Christum<fx>^#/+in der Vorlage^#/- <gr>XRN</gr>.<fe>, omnis consilii et consolacionis et charitatis
+fontem, ut nos sobrie in lucida ipsius veritate arctissime devinctos teneat. Amen.
+^$Saluta omnes istic mihi charissimos fratres.
+<un>Gryneus tuus.
+<lz>Hunc librum Ptolomęi<f1>Gemeint ist die 1538 bei Johann Walder in Basel erschienene griechische Ausgabe des "Almagest" von Claudius
+Ptolemäus, dem berühmten Astronomen des 2. Jahrhunderts n. Chr., zu der Grynäus eine Widmungsvorrede verfaßt hatte (VD 16, P 5200). Zum
+Exemplar, das Grynäus Vadian schenkte, s. Verena Schenker-Frei, Bibliotheca Vadiani, St. Germain 1973. - Vadian-Studien 9, S.
+118f, Nr. 371 (vgl. auch oben Anm. 1).<fe> obsecro, ut ad Vadianum meo nomine mittas. Vale.
+<lz>[Adresse auf der Rückseite:] Viro clarissimo Henrycho Bullingero, fratri colendissimo. Tyguri.
+</content>
+</letter>

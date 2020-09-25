@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2251">
+<nr>2251</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>24. September 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 146 (Siegel)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 391f, Nr. 1220</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 47 ^&x{
+<re>Blarer empfiehlt den in jeglicher Hinsicht vortrefflichen [Georg] Frölich, der Bullinger schon lange sehen wollte und der vor allem deswegen und nicht so sehr wegen seines Sohnes [Jonas?], welcher [in Konstanz] von [Jakob] Funcklin ausgebildet wird, diese Reise unternahm.
+-^#. Da Frölich sich gewünscht hatte, dass Funcklin ihn [nach Zürich] begleitete, empfiehlt Blarer [Frölich und Funcklin], obwohl Bullinger einer Empfehlung ja gar nicht bedarf.
+-^#. Bullinger soll deren Besuch genießen. Sonst gibt es keine Neuigkeiten; [Frölich und Funcklin] werden selbst berichten.
+-^#. Bullinger soll sich mit Fröhlichkeit an Frölichs Besuch erfreuen. Grüße, auch von [Thomas Blarer] und [Konrad] Zwick.
+-^#. [P.S.:] Blarer nimmt an, dass Bullinger den kürzlich durch Johannes von Ulm übermittelten Brief [Nr. 2249] empfangen hat.</re>
+<tx>S. En tibi, mi venerande pariter et plusquam charissime Bullingere, optimum nostrum Lętum<f1>Zum Besuch Georg Frölichs am 25. September in Zürich s. oben Nr. 2203, Anm. 20.<fe>,
+virum solide pium nec vulgariter eruditum, quique multo rerum usu (quippe in amplissimis rebuspublicis diu versatus) magnam prudentiam collegit.
+Nihil dicam de candidissimis moribus et rara quadam viri humanitate<fx>humanitate ^#/+am Rande nachgetragen.^#/-<fe>, qua mox se vel unius horulę<f1>Horula: Stündlein; s. ^#/+Hoven^#/- s.v.<fe> congressu mire se ac suavissime bonorum animis insinuat.
+Tenuit illum iam diu impatiens valde desiderium tui videndi ac se tecum oblectandi in domino.
+Proinde non tam filioli sui<f1>Wohl der älteste Sohn Jonas, der 1551/52 in Basel immatrikuliert wurde (Basel, Matrikel II 74, Nr. 45). - Zu Frölichs Kindern s. oben Nr. 2195, Anm. 8.<fe> caussa, qui hic apud hunc charissimum meum Funcklium<f1>Jakob Funcklin, zu dieser Zeit u.a. Privatlehrer in Konstanz; s. oben Nr. 2235, Anm. f. - Siehe auch dessen Brief an Blarer aus Zürich vom 26. September (Blarer BW II 392, Nr. 1221).<fe> educatur,
+quam ut hinc postea ad vos proficisceretur, iter hoc ingressum se affirmat.
+^$Comendarem tibi tam quam animam meam utrumque<f1>Frölich und Funcklin.<fe>, ni toties expertus scirem tuam erga amicos,
+vestrorumque omnium erga id genus viros officiosam humanitatem et humanissimam officiositatem.
+Voluit autem Lętus hic noster, ut Funcklius, vere sanctus iuvenis mihique magis quam filius charus,
+ecclesię nostrę insignis minister, se sibi itineris comitem adiungeret, id quod ille facere haud gravatim consensit.
+^$Fruere igitur illis in domino tibique persuade dei viros (quod vere sunt) tua tecta non absque magnarum felicitatum comitatu subire.
+Porro non est, ut quicquam nunc iis addam, quoniam ii mihi apud te vivarum epistolarum vice erunt de omnibus nostris rebus bona te fide facturi certiorem.
+^$Bene vale, mi anime, colendissime in Christo frater, et sancta lętitia cum Lęto nostro feliciter lętare.
+Saluta tuam domum cum omnibus fratribus et amicis.
+Salvere te plurimum iubent seque piis precationibus tuis commendant nostri, praecipue germanus meus frater<f1>Thomas Blarer.<fe> et Zviccius<f1>Konrad Zwick.<fe>. Iterum vale.
+^$Constantiae, 24. septembris 1545.
+<un>Tuus Ambros. Blaurerus.
+<lz>Existimo eas te literas<f1>Wohl oben Nr. 2249.<fe> accepisse, quas diebus hisce per adulescentem Ioannem ab Ulmis<f1>Johannes von Ulm.<fe> tibi curavi reddendas.
+<lz>[Adresse auf der Rückseite:] Clarissimo viro deid. Heinricho Bullingero, venerando suo et charissimo fratri.
+</content>
+</letter>

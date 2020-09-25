@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1789">
+<nr>1789</nr>
+<correspondents>
+	<originator>Martin Bucer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>26. September 154[3]</date>
+	<note>Die zahlreichen Bezüge auf den Kölner Reformationsversuch von 1543, die Verdankung von Bullingers Brief von Ende August (oben Nr. 1777) sowie der Bezug zu dessen Brief vom 12. Oktober (unten Nr. 1797) schließen Zweifel an der richtigen Lesung der undeutlich geschriebenen Jahreszahl aus.^&x(Schieß: 1541!)^&x{</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 235-238 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 135</vo>
+<vo>Straßburg BNU, Ms 673 (Th.B. 14), 111-116.</vo>
+<dr>Ungedruckt</dr>
+^&xZit.: Pollet, Bucer (etudes sur la correspondance) II 291 (Anm. 5); Lenz, BW Philipp von Hessen mit Bucer II 223 (Anm. 2); PC III 431; J. Rott in HBGesA II 280, Nr. 149^&x{
+<re>Dankt für den Brief [Nr. 1777], den er in Frankfurt erhielt. Der [Kölner] Reformationsentwurf ["Einfaltigs
+bedencken"] ist erst auf Deutsch fertiggestellt, [Erzbischof Hermann von Wied] möchte ihn aber in beiden Sprachen gleichzeitig publizieren. Seit der Ankunft von Kaiser [Karl V.]
+wächst der Druck der Stadt Köln und ihres Klerus auf den Bischof, und auch der Bischof von Münster [Franz von Waldeck] stößt in Osnabrück und Münster - anders als in Minden - auf
+Widerstand; beide brauchen Fürbitte. Drei Stände [von Kurköln] unterstützen den Bischof, doch die acht Priester des [Dom-]Kapitels haben kein Interesse an einer Reform und wirken
+auf Klerus und Rat ein, welche auch von Papst [Paul III.] brieflich gegen den Bischof aufgehetzt wurden; dieser ist nicht bereit, die Reform länger aufzuschieben, obwohl ihn der Kaiser
+dreimal davon abzubringen versuchte und die kaiserlichen Truppen schwere Schäden verursachten, was der Feldherr, der Vizekönig [von Sizilien, Ferrante Gonzaga], allerdings
+bedauerte; der Bischof fährt damit fort, geeignete Pfarrer einzusetzen. Bucer wird Bullinger den Reformationsentwurf schicken, sobald er ein gedrucktes Exemplar zur Hand hat. Lobt
+Bullingers Verteidigung der Zweinaturenlehre in seinem Johanneskommentar, den er aber noch nicht gesehen hat. Bittet ihn, den Streit um das Abendmahl ruhen zu lassen; nur mit Mühe
+konnten Philipp [Melanchthon] und andere die lutherischen Scharfmacher davon abhalten, neue Kämpfe zu provozieren. Gruß.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Literas tuas<f1>Oben Nr. 1777.<fe> perquam amicas Francofordiae<f1>Bucer hielt sich um den 13. September in Frankfurt auf, wie sich aus einem Brief dieses Datums an Landgraf Philipp von Hessen ergibt; s. Lenz II 158-165, Nr. 172.<fe> accepi. Gratias ago charitati tuae pro hoc christianae communionis officio.
+^$Liber reformationis, quam molitur Coloniensis<f1>Erzbischof Hermann von Wied.<fe>, Germanice
+quidem excusus est, non dum autem Latine.<f1>Die deutsche Ausgabe von Bucers Reformationsentwurf "Einfaltigs bedencken" wurde erstmals im September 1543 bei Laurentius von der
+Mülen in Bonn gedruckt (VD 16 K 1734; vgl. ^#/+Schlüter,^#/- Streitschriften 195f, Nr. 49; Druck in BucerDS XI/1 147-432), die lateinische Fassung in der Übersetzung Albert Hardenbergs
+erschien hingegen erst 1545 im gleichen Verlag (VD 16 K 1738; vgl. ^#/+Schlüter,^#/- Streitschriften 281f, Nr. 166).<fe> Cupit autem bonus senex librum eum utraque<fx>^#/+Vor^#/- utraque ^#/+gestrichenes^#/- utquaque[?].<fe> lingua simul edere.<f1>Vgl. unten Nr. 1803, 6-12.^&xAm 20. September schreibt Bucer an Oswald Myconius: "Formula reformationis excusa, sed nondum edita est. Latina enim nondum absoluta, editionem senex differre voluit hactenus" (Zürich ZB, Ms F 80, 175).^&x{<fe>
+^$Civitas et clerus Coloniensis cum antehac ferociret plus nimio, nunc imperatore praesente<f1>Kaiser Karl V. hielt sich vom 17. bis 20. August in Bonn auf. Seither hatte er
+Herzog Wilhelm von Jülich besiegt und war inzwischen bereits in Löwen angekommen; s. ^#/+Stälin^#/- 577 (zur Ankunft in Bonn: Bindseil 181).<fe> ferocit et furit contra episcopum<fx>episcopum ^#/+über der Zeile
+nachgetragen.^#/-<fe>, optimum senem, et pium eius institutum impotentissime. Idem faciunt contra Monasteriensem episcopum<fx>episcopum ^#/+unter der Zeile nachgetragen.^#/-<fe><f1>Franz von Waldeck.<fe> capitulum et ordo
+equestris Osnabruckensis et capitulum Monasteriense. Nam et
+hic piam reformationem in suis diocoesibus molitur, in
+quam Mindensis sola consensit. Tres<fx>^#/+Vor^#/- tres ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe> enim istos episcopatus
+tenet, Monasteriensem, Mindensem et Osnabruckensem. Utrumque
+igitur episcopum<fx>episcopum ^#/+über der Zeile nachgetragen.^#/-<fe> rogo precibus adiuvate, cum vestris
+privatim, tum publica<fx>^#/+Vor^#/- publica ^#/+gestrichenes^#/- pl.<fe> etiam ecclesiarum vestrarum.
+^$Coloniensis consensum quidem habet trium ordinum provinciae
+suae: comitum, ordinis equestris et oppidorum; quartus
+autem, idest[?] capitulum, ut vocant, Coloniense, imo tantum pars eius deterior, ita obluctatur freta senatu Coloniensi et
+patronis antichristianismi apud imperatorem, ut graviter impediatur optimi principis pia et salutaris molitio. Habet
+capitulum octo doctores, quos vocant septem presbyteros<f1>Die acht Priesterherren des Domkapitels wurden trotz der Erhöhung
+ihrer Zahl "Siebenpriester" genannt; sie mussten Doktoren oder zumindest Lizentiaten der Theologie oder der Rechte sein. Vgl.
+Wilhelm ^#/+Kisky,^#/- Die Domkapitel der geistlichen Kurfürsten in ihrer persönlichen Zusammensetzung im vierzehnten und
+fünfzehnten Jahrhundert, Weimar 1906. - Quellen und Studien zur Verfassungsgeschichte des Deutschen Reiches in Mittelalter und Neuzeit I/3, S. 18f.<fe>, qui summum
+sacrum facere solent. Ii onusti sacerdotiis sunt, imo
+sacrilegiis, et practicis malis admodum exercitati, quare
+morte magis horrent<fx>^#/+In der Vorlage^#/- horent[?].<fe> <vl>236</vl> res ecclesiasticas instaurari. Hi autem reliquam pseudocleri et monachorum colluviem, quae
+nosti quanta sit, sibi devinctam habent, tum et senatum servientem suis mulierculis, quas monachi pro suo ducunt
+arbitratu captivas; reliqua Paulus.<f1>Vgl. 2Tim 3, 6.<fe> Inde itaque fit, ut caeteri canonici<fx>^#/+Vor^#/- canonici ^#/+gestrichenes^#/- reliqui.<fe> ex principibus et comitibus, qui consilium episcopi
+libenter sequerentur, nihil efficere possint. Pontifex<f1>Papst Paul III.<fe> enim suae noxae non deest, confortavit
+literis<f1>Die beiden Schreiben vom 1. Juni 1543 sind gedruckt in: ^#/+Schlüter,^#/- Streitschriften 366-368 (zum Erstdruck von 1543 s. ebd., S. 196, Nr. 50).<fe> senatum et clerum
+et contra episcopum incitavit. Vocat eum<fx>vocat eum ^#/+über der Zeile nachgetragen für gestrichenes^#/- in quibus vocat[?].<fe> vesanum
+hęresiarcham et hortatur capitulum, ut eum in iis, quae
+molitur, pro hoste, non pro archiepiscopo, quo se nomine
+prorsus indignum fecerit, habeant. Haec impedimenta providit
+senex omnia; dum autem frustra expectarit hactenus a tot
+comitiis et promissis synodis viam ad piam sacri ministerii
+instaurationem expediri et in­stet ipsi tempus reddendae
+rationis de administratione sua, noluit officium suum
+differre amplius, in quo etiam ita hęret et pergit, ut
+non principatum modo, sed vitam etiam potius relicturus sit,
+quam ut illud deserat. Imperator tertio instetit Bonnae,<f1>Zur Unterredung des Erzbischofs mit dem Kaiser am 19. August in Bonn vgl. MBW 3304; ^#/+Varrentrapp,^#/- Reformationsversuch 212f (zu einem
+vorausgegangenen Treffen in Speyer s. oben Nr. 1773, 16-18 mit Anm. 12).<fe> ut differret hoc institutum suum usque ad
+concilium vel comitia, vel donec imperator ipse reformationem cognovisset. Aderat exercitus non minor quadraginta millium praeter impedimenta ingentia; direpti vicini pagi erant, excisa
+supra triginta iugera vinearum, graviora minabantur <vl>237</vl> episcopi et aulici alii, nisi relinqueretur evangelium, quanquam imperatoris summus dux<fx>^#/+Über^#/- dux
+^#/+ein gestrichenes Zeichen.^#/-<fe> vice rex Nea­politanus<f1>Feldherr des Kaisers war nicht der Vizekönig von Neapel, Pedro Álvarez de Toledo, sondern der Vizekönig von
+Sizilien, Ferrante Gonzaga, wie Bucer selbst an anderer Stelle schreibt (s. Bindseil 180); vgl. ^#/+Brandi^#/- II 338.<fe> confirmaret<fx>confirmaret ^#/+über der Zeile
+nachgetragen.^#/-<fe> direptiones pagorum fieri se invito, vineas excisas necessitate in tuto ponendi castra, imperatori
+alioqui et sibi dolere, quicquid damni episcopo inferretur. At quanquam satis appareret, quo plerique aulici<fx>aulici ^#/+am Rande nachgetragen.^#/-<fe> spectarent, quid
+quęrerent, perstitit tamen episcopus in<fx>^#/+Vor^#/- in ^#/+ein gestrichener Wortanfang.^#/-<fe> proposito
+responditque imperatori se negotium reformationis ita
+attemperaturum, ut speraret se id approbaturum deo, ipsi et
+statibus imperii; non enim quicquam se nisi verbum dei
+secuturum. Episcopus respondit, etiam si imperator duplo
+ma­iorem exercitum praesentem haberet, tamen se nunquam
+deserturum euangelion Christi, quod amplexus esset. Itaque
+pergit adhuc in locis ditionis suae instituere<fx>instituere ^#/+über der Zeile nachgetragen für gestrichenes^#/-
+provehere[?].<fe> doctores idoneos, qui cum doctrina sacramenta et caetera omnia in ecclesia administrent.
+Ubi nactus fuero exemplaria Reformationis excusa,<f1>Vgl. oben Z. 4-6.<fe> mittam tibi unum. Sunt omnia ad simplicitatem evangelicam instituta, ut,
+quae geruntur in ecclesia verbis et signis, Christum unum et eum clare atque efficaciter praedicent et commendent veramque in
+eum peccatorum poenitentiam gratiaeque fiduciam excitent et confirment.
+^$Quod in commentariis tuis<f1>Bullingers Johanneskommentar (HBBibl I 153); vgl. oben Nr. 1777, 16-30.<fe> mysterium tueris duarum naturarum in Christo, pie facis; librum non dum vidi. Rogo te, quod tua pace liceat, disputationem de eucharistia tot iam libris tractam, ubi necesse non est, ne repetas iis verbis, quae
+vetera vulnera refricent. Aegre effectum est perd. Philippum<f1>Philipp Melanchthon.<fe> et alios quosdam bonos
+viros, ne quidam incentores Lutheri nova excitarint certamina. At <vl>238</vl> nimis multa nos urgent, concordiam ut sancte
+colamus cum omnibus, qui Christi nomen invocant. Obsecro
+boni consulas hanc admonitiunculam, quam expressit
+solicitudo non frustanea pacis inter nos tuendae. Nihil
+praescribo, quam quod ipse domino placitum agnoscas.
+^$Vale cum omnibus symmystis feliciter.
+^$Argent[orati], 26. septembris 154[3]<fx>^#/+Undeutlich geschriebene Jahrzahl (vgl. oben Anm. 1).^#/-<fe>.
+<un>M. Bucerus
+<un>tuus.
+<lz>[Adresse darunter:] Eximio servo domini nostri
+Iesu Christi M. Henricho Bullingero, doctori et pastori
+ecclesiae Tigurinae, suo in domino colendo symmystae et
+fratri charissimo.
+</content>
+</letter>

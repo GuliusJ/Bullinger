@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2662">
+<brief>
+<id>16351</id>
+<nr>2662</nr> <from persid="FrölichGeorg"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-11-08"/>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 8. November 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 327 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 69</k></dr>
+<re><t>Frölich bedankt sich für das durch Lorenz [Meyer] und Rudolf [Schwyzer] übermittelte Schreiben Bullingers [nicht erhalten]. Gerne wird er sich diesen, wie auch schon den anderen treuen Kirchendienern, behilflich und freundlich erweisen.</t>
+<t>Mit Freude hat er vernommen, dass die [protestantischen] Gesandten am [Treffen in Zürich] einig waren.</t>
+<t>Die Antwort der Vier Orte an [die Schmalkaldener] hatte er bereits [aus Ulm] erfahren. Er glaubt leider nicht, dass die [Schmalkaldener] diese als nützlich erachten werden, zumal es ihnen nicht an Soldaten, sondern an Geld mangelt. Außerdem können sich [die Schmalkaldener] auf die Dauer nicht allein gegen den starken und breit unterstützten [Karl V.] durchsetzen. Die übrigen Protestanten sollten sich deshalb überlegen, ob sie nicht etwa schon zu lange stillgesessen sind. Kurz, die [Schmalkaldener] erwarten [finanzielle] Hilfe oder auch einen Angriff auf ihren gottlosen Feind. Doch sind Bullinger und etliche seiner Kollegen nicht schuld daran, wenn es nun nicht dazu kommt. Dies ist eher diesen ungerechten Zeiten zuzuschreiben. Fest steht, dass die Kriegslage noch nie so gefährlich wie jetzt war. Der Kurfürst [Johann Friedrich von Sachsen] wird von den Böhmen und von Herzog Moritz [von Sachsen] angegriffen, und es ist zu befürchten, dass er den größten Teil seines Herzogtums verlieren wird. Deshalb eilt er aus dem Feldlager in sein Land zurück. Dann aber wird das restliche Heer [der Schmalkaldener] zu klein und zu schwach sein, um dem Feind Widerstand leisten zu können. Hoffentlich werden die von allen ihren Freunden verlassenen [Schmalkaldener] nicht auch noch vernichtet oder zu unfrommen [Friedens]verhandlungen gezwungen! Es tröstet Frölich immerhin, dass Gott ihn bis jetzt nicht in Versuchung geführt, sondern ihm Standhaftigkeit in seinen Pflichten verliehen hat.</t>
+<t>Frölich hat den Kurfürsten und [den Landgrafen Philipp von] Hessen mit vertraulicher Post gebeten, [Franz I.] zur Einstellung der [Protestantenverfolgungen] in Frankreich zu bewegen. Aber wegen dessen pharaonischen Charakters ist diesbezüglich wohl keine Besserung zu erwarten. Allenfalls soll sich Bullinger nicht vor einem Bündnis mit ungläubigen Fürsten [wie etwa Franz I. oder Heinrich VIII.] fürchten! Es wird nie dazu kommen. Die bisherigen erfolglosen Verhandlungen dienten nur dazu, [den Kaiser] zu täuschen.</t>
+<t>Bullinger möge für die [Schmalkaldener] beten. Grüße, besonders an Rudolf Gwalther, dem Frölich nicht mit dieser Post schreiben kann.</t></re>
+<text>
+<div>
+<p>Vertrautister, furgeliebter herre unnd bruder. Eur schryben
+<fn>Nicht erhalten.</fn> bei herr magister Laurentio
+<fn>Lorenz Meyer (Agricola).</fn> und herr Rodolffo
+<fn>Rudolf Schwyzer d.Ä. - Die genannten Zürcher Pfarrer waren am 2. November wieder in Augsburg eingetroffen; s. <qv>nr2663</qv>,<qv>zl16352-4</qv>.</fn> hab ich zu fruntlichem dannckh vernumen. Will mich gegen diesen unnd allen trewen kirchendienern mit hilff gottis dermassen halten, darab sie christenlich unnd fruntlich
+<fn>freundschaftlich.</fn> sollen zufriden sein, dann ich het ain frewde, ine unnd allen bruedern liebs z{uo} th{uo}n.</p>
+</div>
+<div>
+<p>Ich vernimme gern, das die erbern
+<fn>ehrbaren.</fn> botten
+<fn>Die Gesandten der Vier protestantischen eidgenössischen Städte und der Zugewandten protestantischen Orte am Treffen in Zürich vom 19. bis 26. Oktober; s. <qv>nr2606</qv>, <qv>fn16294-1</qv>; <qv>nr2651</qv>, <qv>fn16304-4</qv>.</fn> jüngst dermassen eyng
+<fn>einig.</fn> unnd wolgesynnd abgeschieden.</p>
+</div>
+<div>
+<p>So hab ich von ferrem
+<fn>von ferrem: von Weitem - nämlich von Ulm; vgl. <qv>nr2663</qv>,<qv>zl16352-7</qv>.</fn> verstannden, wes die vier hauptort
+<fn>Die Vier Städte.</fn> gegen unns
+<fn>d.h. die Schmalkaldener.</fn> zu thun m{oe}chten gesynnt sein. <zzl>zl16351-1A</zzl>Meins wehnenns
+<fn>Meins wehnenns: Meiner Vermutung nach.</fn> werden unnser stennde die gegeben antwurt
+<fn>Der Entwurf der Antwort der Vier Orte an den Schmalkaldischen Bund vom 26. Oktober findet sich in Zürich StA, B IV 16 (Ratsmissiven), f. 70v.-72r.; eine Zusammenfassung davon in <a>EA</a> IV/1d 700f, Nr. 3. Mit Berufung auf die Erbeinung (s. dazu <qv>nr2606</qv>, <qv>fn16294-8</qv>) und mit indirekter Erwähnung des Zweiten Kappeler Landfriedens mit den katholischen Eidgenossen (vgl. auch <qv>nr2652</qv>,<qv>zl16341-1</qv>) sowie in Anbetracht der negativen Folgen eines etwaigen Kriegseintritts der Vier Städte für die Schmalkaldener lehnten die Städte den von den Schmalkaldenern gewünschten Angriff auf habsburgische bzw. päpstliche Gebiete ab und erinnerten dabei an den guten Willen, den sie bereits erwiesen hatten, indem sie bei ihren katholischen Verbündeten den Durchzug kaiserlicher Truppen durch die Eidgenossenschaft verhindern konnten und den Schmalkaldenern eine ausreichende Anzahl von Söldnern zukommen ließen. Ein neues konkretes Hilfsangebot wird dabei nicht erwähnt, doch erfolgte ein solches auf offiziöse Weise; vgl. <qv>nr2663</qv>,<qv>zl16352-8</qv>.<zfn>fn16351-2</zfn></fn> nit fur sonnders tr{oe}stlich achten, dann ist nit an der grossen anzale des kriegßvolks, sonnder an der underhaltung
+<fn>Finanzierung. - So berichtete etwa Heinrich Thomann am 31. Oktober nach Zürich, dass es den Schmalkaldenern an Geld mangele und sie daher die Möglichkeit erwägen, von jedem Untertanen der im Krieg stehenden Gebiete eine zusätzliche Steuer zur Finanzierung des Krieges zu verlangen; s. Zürich StA, A 177, Nr. 116. Siehe ferner <qv>nr2663</qv>, <qv>fn16352-5</qv>.<zfn>fn16351-1</zfn></fn> gelegen. Unnd wurdt diesen stennden gegen dem starcken, weitbefreündten feindt
+<fn>Kaiser Karl V., der gemäß der damaligen protestantischen Darstellung auf die Unterstützung von Papst Paul III. (was jedoch nicht gänzlich zutraf; s. <qv>nr2626</qv>, <qv>fn16316-10</qv>), König Ferdinand I. von Böhmen und Herzog Moritz von Sachsen zählen durfte.</fn> die sach inn die lennge allain ußzedawern nit wol m{oe}glich sein. Was darnach den anndern der warhait bekennern
+<fn>u.a. den eidgenössischen Protestanten.</fn> begegnen mag unnd ob sie nit zu viel lang zugesehen, das ist wol zu bedenncken. Summa: Nostri expectarunt aut suppetias, aut ut manus impio hosti inferretis; a vobis quorum si neutrum impetrant, non in te neque alios plerosque, sed in temporum iniuriam culpa reiicienda est. Causa belli huius nunquam tam periculosa fuit ac nunc.<zzl>zl16351-1E</zzl> <zzl>zl16351-2A</zzl><zzl>zl16351-5A</zzl>Princeps elector Saxoni{e}
+<fn>Johann Friedrich I. von Sachsen.</fn> infestatur a Boiemis
+<fn>Siehe dazu <qv>nr2649</qv> mit <qv>fn16339-1</qv>.</fn> ac duce Mauritio
+<fn>Moritz von Sachsen; s. <qv>nr2664</qv>, <qv>fn16353-5</qv>.</fn>, adeo ut timendum sit, ne brevi maiorem partem ducatus sui amittat.<zzl>zl16351-5E</zzl> Propterea ex castris
+<fn>aus dem schmalkaldischen Feldlager bei Giengen.</fn> domum properat, quo suis in afflictionibus succurrat, nec certe abs re.
+<fn>Auch Thomann berichtete am 7. November an die Zürcher, dass der Kurfürst in sein Land zurückkehren werde; s. Zürich StA, A 177, Nr. 126. - Zu diesem Zeitpunkt fasste der Kurfürst die Rückkehr in sein Herzogtum zunehmend ins Auge. Doch erst nachdem die Schmalkaldener sich endgültig über das weitere Vorgehen beraten hatten, erfolgte am 22. November der gemeinsame Abzug des Kurfürsten und des Landgrafen Philipp von Hessen. Am 24. November trennten sie sich in Heidenheim an der Brenz (Baden-Württemberg). In Eisenach traf der Kurfürst erst am 22. Dezember ein; s. <a>Mentz</a> III 39-54. - Zum Rückweg des Kurfürsten s. <qv>nr2700</qv>, <qv>fn16388-3</qv>.<zfn>fn16351-3</zfn></fn> Discedente electore c{e}teri pauciores atque imbecilliores sunt, quam ut hosti resistant. <zzl>zl16351-6A</zzl>Utinam non cogamur ita ab omnibus extraneis amicis destituti extrema pati aut impie pacisci!
+<fn>Zu Frölichs Abneigung gegen einen Frieden mit dem Kaiser s. schon <qv>nr2613</qv>,<qv>zl16300-10</qv>.</fn><zzl>zl16351-6E</zzl><zzl>zl16351-2E</zzl> Hoc unum me solatur: dominum inter turbas has atrocissimas semper mihi puram mentem concessisse nec unquam in tentationes induxisse, quin non meum offitium strenue semper prestiterim, atque adhuc ipso duce facturus sum.
+<fn>Siehe dazu <qv>nr2663</qv>,<qv>zl16352-9</qv>.</fn> Absit autem omnis gloriatio nisi in domino.</p>
+</div>
+<div>
+<p><zzl>zl16351-3A</zzl>Ich hab an Saxen unnd Hessen
+<fn>Philipp von Hessen.</fn> treülich
+<fn>vertraulich.</fn> geschrieben, bei Franckrich umb abstellung des jemerlichen der armen Christen mordens anzehalten.
+<fn>Zu den jüngsten Hinrichtungen von Protestanten in Frankreich s. <qv>nr2645</qv>, <qv>fn16335-1</qv>; <qv>nr2670</qv>,<qv>zl16357-1</qv>.</fn> Verhoffe, es soll geschehen, wiewol ich bei diesen des Pharaons
+<fn>Gemeint ist die Schlechtigkeit des Pharao, der die Israeliten verfolgte; s. Ex 5-14.</fn> geschlecht kainer besserung verhoffe.<zzl>zl16351-3E</zzl> <zzl>zl16351-4A</zzl>Nec est, quod magnopere metuas de foedere cum quibusdam impiis principibus.
+<fn>Anspielung auf die damaligen Verhandlungen der Schmalkaldener mit den Königen Franz I. von Frankreich und Heinrich VIII. von England; s. <qv>nr2607</qv>, <qv>fn16295-9</qv>; <qv>nr2610</qv>,<qv>zl16298-5</qv>; <qv>nr2612</qv>,<qv>zl16301-7</qv>; <qv>nr2639</qv>,<qv>zl16329-7</qv>; <qv>nr2658</qv>,<qv>zl16347-7</qv>; <qv>nr2664</qv> und <qv>fn16353-1</qv>.<zfn>fn16351-4</zfn></fn> Ea, qu{e} hactenus inter eos et nos acta sunt, m{e}r{e} fuerunt techn{e} atque ob id in spongiam reciderunt
+<fn>im Sinne von: erfolglos blieben; vgl. "in spongeam incubuisse" bei <i>Sueton</i>, Augustus, 85, oder die häufiger bezeugte Wendung "in spongiam abiturum" in Johann Philipp <i>Krebs</i>, Antibarbarus der lateinischen Sprache, Frankfurt 1843, S. 798.</fn>.<zzl>zl16351-4E</zzl></p>
+</div>
+<div>
+<p>Ditsmals nit mehr dann bittend gott, den vatter im himel, treülich fur unns. Furwar, es thut not. Grüesst mir yederman unnd sagt mynem furgeliebten herrn unnd bruder Rodolpho Gvalthero mein gruzs und dienst. Ich hab ime izt
+<fn>jetzt.</fn> nit schryben konnen.</p>
+<p>Datum, 8. novembris 1546.</p>
+<un>G. Laetus tuus tantus</un>
+<un>quantus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Herrn Henrichen Bullinger etc. zw Zurch zu hannden
+<fn>Nämlich durch den namentlich nicht bekannten Diener des Augsburger Kaufmanns Stephan Veit (s. <qv>nr2663</qv>,<qv>zl16352-14</qv>), der damals auch Hallers Brief <qv>nr2663</qv> nach Zürich beförderte.<zfn>fn16352-18</zfn></fn>.</p>
+</div>
+</text>
+</brief>

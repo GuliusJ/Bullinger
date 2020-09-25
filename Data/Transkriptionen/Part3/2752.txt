@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2752">
+<brief>
+<id>17021</id>
+<nr>2752</nr> <from persid="Bullinger"/> <to persid="HallerJohannes"/> <place plid="Zürich"/> <date when="1547-01-14"/>
+<ae>Bullinger an Johannes Haller</ae>
+<od>Zürich, 14. Januar 1547
+<fn>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem</i> [= Bullinger] <i>Eidem</i> [= Haller]. <i>Tiguro Augustam. 14. ianuarii 1547.</i></fn></od>
+<vo>Abschrift von unbekannter Hand (17. Jh.)
+<fa><i>Mit Randbemerkungen und Unterstreichungen von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 46, 593 <k>Autograph: Nicht mehr erhalten(?)/ Kopie 18. Jh.: Zürich ZB, Ms S 63, 28 (Vorlage!)</k></vo>
+<dr>Ungedruckt<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 46, 593 (mit modernen Diphtongen in den deutschen Textteilen; (besser, obwohl aus der ältern geschöpft!/das verlorne Autograph rekonstruiert?:) Ms S 63, 28</k></dr>
+<re><t>Bullinger kann leider auf Hallers drei Briefe vom 10., 23. und 27. Dezember [<a>HBBW</a> XVIII, Nr. 2712. 2723. 2726] nicht ausführlich antworten. Er muss sich auf das Wichtigste beschränken.</t>
+<t>Angesichts der Kapitulation so vieler Städte [vor Kaiser Karl V.] hat Haller gefragt, was denn zu tun wäre. Bullinger rät ihm, so lange wie möglich in Augsburg auszuharren; er selbst würde derzeit dort noch bleiben können. Wäre es aber nicht mehr möglich, seinen Glauben auszuüben und dort zu leben, würde er die besten Ratsmitglieder von seinem Weggang informieren und versuchen, sich von diesen ein gutes Zeugnis ausstellen zu lassen. Unterdessen hat er mit Hallers Verwandten gesprochen. Sie werden beim Zürcher Rat erreichen, dass dieser Haller der Augsburger Obrigkeit mit einem Brief ganz besonders empfiehlt. Georg Frölich wird Augsburg auch nur dann verlassen, wenn er merkt, dass alles verloren ist. Bullinger hofft fest auf Gott. Haller [und die anderen Zürcher in Augsburg] sollen das Gleiche tun!</t>
+<t>Die Unterwerfung Ulms und anderer Städte unter den Kaiser wird schlimme Folgen haben.</t>
+<t>Gestern schrieb Wilhelm Frölich aus Solothurn über den Plan des französischen Königs Franz I., in Italien einzufallen. Dieser verfüge bereits über 18'000 französische Soldaten, werbe 6'000 Italiener an und begehre noch 14'000 Eidgenossen. Vernimmt er aber, wie "mutig" sich die Deutschen dem Kaiser kampflos ergeben haben, wird wohl auch er sein Vorhaben aufgeben! So oder so ist nicht diesem "ägyptischen König", sondern Christus allein zu trauen.</t>
+<t>Gruß. Haller bleibe standhaft!</t></re>
+<text>
+<div>
+<p>G[ratiam] et p[acem]. <zzl>zl17021-2A</zzl>Ternas a te accepi, Hallere, primas 10. decembris, secundas 23., tertias 27. decembris
+<fn>1546. - Gemeint sind die Briefe <a>HBBW</a> XVIII, Nr. 2712. 2723. 2726.</fn> datas. Ad eas non licuit ordine respondere. Summas rerum persequar:<zzl>zl17021-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17021-3A</zzl>Petis consilium,
+<fn>Ebd., S. 446.</fn> quid agas perturbatis hisce temporibus et urbibus plerisque deficientibus. <zzl>zl17021-7A</zzl>Ego Augustae haererem, quoad liceret; et omnino haerere possem. Ubi propter religionem et vitam diutius haerere non possem, cum optimorum ex senatu conscientia
+<fn>Wissen.</fn> discederem, ita ut, si fieri posset, saltem a bonis mecum reportarem testimonium.<zzl>zl17021-7E</zzl> <zzl>zl17021-6A</zzl>Interea monui affines tuos
+<fn>Darunter Konrad Kambli (1515-1585), der Bruder von Elsbeth, der in Begleitung von mindestens einem weiteren "affinis" am 23. Januar Zürich verließ, um nach Augsburg zu reisen; s. Wolfgang Hallers Kalendereinträge zum Jahr 1547 (Zürich ZB, Ms D 269/4a, sub dato); <qv>nr2780</qv>, <qv>fn17048-1</qv>; <qv>nr2786</qv>,<qv>zl17054-4</qv>. <qv>zl17054-3</qv>; <qv>nr2791</qv>,<qv>zl17060-1</qv>.<zfn>fn17021-1</zfn></fn>. Illi literas a senatu nostro impetrabunt, ut Augustano senatui te commendent, ne te negligant.<zzl>zl17021-6E</zzl> <zzl>zl17021-4A</zzl>Laetus
+<fn>Georg Frölich.</fn> non discedet, nisi omnia viderit desperata.<zzl>zl17021-4E</zzl> Ich trawen gott baß
+<fn>lieber, eher; s. <a>SI</a> IV 1652 (ich stelle es lieber Gott anheim).</fn>. Sind
+<fn>Seid. - Bullinger meint hier auch die drei anderen Zürcher Pfarrer in Augsburg, Lorenz Meyer (Agricola), (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä.</fn> redlich und truwend doch auch gott, etc. Wer in menschen vertruwt, der fällt.
+<fn>Vgl. Ps 118 (Vulg. 117), 8.</fn><zzl>zl17021-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17021-5A</zzl>Wir haben hie, daß Ulmm und vil der stetten samt Wirtenberg
+<fn>Herzog Ulrich von Württemberg.</fn> sich an deß keysers
+<fn>Karl V.</fn> gnad ergeben, etc. Darauß wirt hernach ein ungnad gottes und der menschen!
+<fn>Gemeint ist: Daraus entsteht sowohl Gottes Missfallen als auch Unglück für die Menschen; s. <a>SI</a> II 660.</fn><zzl>zl17021-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17021-1A</zzl>Gestern schreibt Frölich
+<fn>Wilhelm Frölich. - Vgl. <qv>nr2751</qv>,<qv>zl17020-3</qv>.</fn> auß Solothurn, der könig auß Franckreich
+<fn>Franz I.</fn> werde begehren 14'000 Eidgnossen. Habe gerüst 18'000 Franzosen. Näme an 6'000 Italier. Werde in Italiam fallen, etc. Zu besorgen, wann er verstat den klugen
+<fn>hervorragenden; s. <a>SI</a> III 622f. - Hier ironisch.</fn> mut der Teütschen, die sich ohne schlacht underthun lassend, steckh er ouch ynn
+<fn>steckh er ouch ynn: gibt er auch auf.</fn>, quanquam nihil prorsus fidam regi Aegyptio
+<fn>Anspielung auf 2Kön 18, 21. 25; Jes 36, 6. 9. - Gemeint ist Franz I.</fn>. Domino fido.<zzl>zl17021-1E</zzl></p>
+</div>
+<div>
+<p>In hoc aeternum vale. Sis constans et fortis in domino.</p>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Vorliegender Brief, den Bullinger seinem Brief an Ambrosius Blarer vom gleichen Tag beilegte (s. <qv>nr2751</qv>,<qv>zl17020-4</qv>), gelangte erst am 28. Januar nach Augsburg, nachdem einige der in oben Z. <qv>zl17021-6</qv> erwähnten "affines" schon dort eingetroffen waren; s. <qv>nr2786</qv>,<qv>zl17054-4</qv>.<zfn>fn17021-2</zfn></fn></p>
+</div>
+</text>
+</brief>

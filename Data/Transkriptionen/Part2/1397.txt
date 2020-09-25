@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1397">
+<nr>1397</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>22. Mai [1540]</date>
+	<note>Da Blarer nochmals auf die durch Michael Adam überbrachten Akten zurückkommt (s. unten Z. 22-24), muß dieser Brief kurz nach jenem vom 17. Mai 1540 geschrieben worden sein (vgl. oben Nr. 1395, 1-17).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 33 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 60, 98<f1>irrt. dat. auf 22. Mai [1546]<fe></vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 49, Nr. 871</dr>
+<re>Bittet ihn auf Ersuchen von Joachim Mötteli, der über Heinrich von Ulm mit ihm verschwägert ist, um einen geeigneten
+Pfarrer für Pfyn. Joachim [Maler] wird vom Ulmer [Städte-]Tag zurückerwartet; die Gegner hoffen, durch Kaiser [Karl V.] zum
+Ziel zu kommen, doch Gott wird seine Sache nicht im Stich lassen. Grüße, besonders von [Johannes] Zwick, der krank ist.
+Bitte um baldige Rücksendung der Akten [des Bundestags zu Schmalkalden].
+</re>
+<tx>Salve, mi venerande Bullingere, frater velut cor meum
+longe mihi charissime.
+^$Desiderat Ioachimus Möttlinus, sororii mei Heinrichi ab
+Ulmis sororius<f1>Joachim Mötteli war verheiratet mit Petronella, der Schwester von Heinrich von Ulm (s. Robert
+^#/+Durrer,^#/- Die Familie vom Rappenstein, genannt Mötteli, und ihre Beziehungen zur Schweiz, in: Der Geschichtsfreund XLVIII,
+1893, S. 224). Zur Verschwägerung zwischen Blarer und Heinrich von Ulm s. HBBW IV, S. 188, Anm. 14.<fe>, evangelii Christi
+ministrum in pago suo Pfin<f1>In Pfyn (Kt. Thurgau), wo der Gerichtsherr Joachim Mötteli die
+Wiedereinführung der Messe erzwungen hatte, gab es sowohl einen Meßpriester als auch einen evangelischen Prädikanten; s. Alfred
+L. ^#/+Knittel,^#/- Werden und Wachsen der evangelischen Kirche im Thurgau von der Reformation bis zum Landfrieden von 1712,
+Frauenfeld 1946, S. 127.<fe> rogavitque, ut tibi scribam, quo tuo beneficio pius aliquis et mediocriter eruditus ecclesię
+illi contingat. Quare te, quam possum, obsecro et obtestor, ut hic vel mea caussa officium facias et, si istic appositus
+aliquis ad hoc munus tibi videatur, eum ad Möttlinum cum hocce sacrifico<f1>Unbekannt.<fe> mittas rem illi et mihi, praecipue
+vero Christi ovibus<f1>Vgl. Joh 10, 1-18 u. ö.<fe>, quas illic habet plurimas, gratissimam facturus. Nihil praeterea est, quod scribam<fx>^#/+korrigiert aus^#/- scribas.<fe>.
+^$Expectamus legati nostri Ioachimi<f1>Joachim Maler.<fe> reditum a comitiis Ulmensibus, quid porro nostri in Christi negociis
+statuerint<f1>Die in Ulm versammelten Delegierten der oberdeutschen Städte beschlossen, am bevorstehenden
+Religionsgespräch teilzunehmen und am Augsburgischen Bekenntnis festzuhalten; vgl. den Abschied vom 16. Mai 1540 in: ADRG I/2
+1113-1116, Nr. 394.<fe>. In magnam spem veniunt adversarii eniti se iam obstetricante caesare<f1>Karl V.<fe> feliciter posse,
+quod multis nunc annis parturiunt. Nobis solatio solidissimo est, quod corda, conatus et conatuum successus in dei manu sunt,
+qui caussae suę plusquam optimę, quantumvis nos simus mali, nunquam defuerit. Commenda nos Christo.
+^$Saluta omnes illos egregios viros, qui in domini vinea strenue indefatigabilique studio laborant<f1>Vgl. Mt 20, 1-16.<fe>.
+Salutant te nostri omnes, in primis Zviccius<f1>Johannes Zwick.<fe> noster, qui valde nunc ex altero genu laborat; quem
+utinam propediem nobis et ecclesię nostrę Christus magno cum fructu reddat<f1>Zur Erkrankung Zwicks vgl. auch oben Nr. 1396, 2-5.<fe>. Bene vale.
+^$Constantię, 22. maii.
+^$Non dubitamus, quin acta illa, quę per Michaelem<f1>Michael Adam.<fe>, Hebreum vestrum, misimus<f1>Vgl. oben Anm. 1.<fe>,
+iam acceperis; quę ubi primum licebit<fx>^#/+vor^#/- licebit ^#/+gestrichenes^#/- libe.<fe>, ut remittas, multum te rogamus.
+<un>Tuus Ambr. Blaurerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo Tiguricensis ecclesiae antistiti Heinricho Bullingero, fratri suo observando atque charissimo. Zürich.
+</content>
+</letter>

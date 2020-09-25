@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2411">
+<brief>
+<id>16099</id>
+<nr>2411</nr>
+<ae>Joachim Vadian an Bullinger</ae>
+<od>St. Gallen, 4. oder 6. April
+<fn>Vgl. unten <qv>fn2411-1</qv> und <qv>fn2411-2</qv>.</fn> 1546</od>
+<vo>Teilabschrift von Johann Jakob Wick:
+<fn>In dessen Sammlung (Wickiana), wo der Brief in thematischem Zusammenhang mit Blitzschäden und unter dem Jahr 1579 eingeordnet ist.</fn> Zürich ZB, Ms F 28, 119r.-v.</vo>
+<dr>Ungedruckt</dr>
+<re>Da Vadian bereits vor einigen Tagen geschrieben hat [<qv>nr2400</qv>], gibt es nur Folgendes aus dem Brief eines Freundes [Hieronymus Sailer?] zu berichten.
+<t/>Die gottlose Horde, die im [April 1545] die Waldenser in der Umgebung von Avignon grausam umbrachte, wurde frühzeitig von Gott gestraft. Als sie nämlich mit vier Galeeren von Marseille aus an der spanischen Küste entlang gegen England zog, ging sie im November [1545] durch ein heftiges Gewitter in den Fluten unter.
+<t/>Desgleichen wurde ihr Hauptmann, Capitaine Poulin, während seines Aufenthaltes am Hofe König [Franz' I.] von dem mit [Katharina von Medici], der Gattin des Dauphin [Heinrich], auf gutem Fuße stehenden Florentiner Hauptmann Piero Strozzi erstochen. Welche Folgen dies für Strozzi haben wird, ist noch offen.
+<t/>Aus Nürnberg schrieb man, dass Kaiser [Karl V.] tatsächlich vorhabe, den Reichstag in Regensburg zu halten. Der [St. Galler] Rat wurde ebenfalls davon benachrichtigt. Alles deutet auf einen Krieg hin.
+<t/>Aus Venedig schrieb man, dass Papst [Paul III.], der böse Absichten hegt, das Konzil von Trient nach Bologna oder Parma verlegen wolle, zumal der Kaiser die Deutschen sowieso nicht dazu bewegen können wird, das Konzil zu besuchen.
+<t/>Gruß.</re>
+<text>
+<p>[Wicks Titel:]</p>
+<pz>Ex literis d. Vadiani, consulis S. Gallensis, ad d. Bullingerum. <zzl>zl2411-1A</zzl>Pridie nonas aprilis<zzl>zl2411-1E</zzl>
+<fn>4. April. Vgl. aber unten Z. <qv>zl2411-2</qv>.<zfn>fn2411-1</zfn></fn> anno 1546.</pz>
+<pz>Wie die stral vier galeen
+<fn>Galeeren.</fn> uff dem mer anzündt und verbrent. Anno 1545
+<fa>1545 <i>korrigiert aus</i> 1546. <i>- Richtig ist aber 1546.</i></fa>.</pz>
+<lz/>
+<p>S. Non occurrebat quicquam, quod scire te admodum referret. Omnia enim paucos ante dies ad te perscripsi
+<fn>Am 30. März (<qv>nr2400</qv>).</fn>, nisi unum illud, quod sequitur, quod ex dignissimis fide amicis intellexi.
+<fn>Der hier folgende Auszug wird wohl einem auf Deutsch verfassten und an Vadian gerichteten Brief entnommen worden sein; vielleicht einem Schreiben des Kaufmanns Hieronymus Sailer.</fn></p>
+<p><zzl>zl2411-3A</zzl>Der tyrannisch gottloß huff kriegsvolcks, so vor nechst verschinem jar
+<fn>1545. - Siehe dazu <a>HBBW</a> XV 308,90-95. 321f,55-64.</fn> die armen Waldenser umb Avinion herumb mitt iren kirchen dieneren, wyb und kinden g{uo}ts theils erwürgt und j{ae}merlich umbracht, habend sy
+<fn>dessen (dafür).</fn> ir straff zytlich
+<fn>frühzeitig.</fn> empfangen. Dann wie sy z{uo} Marsilien domal in vier galeen uff das mehr
+<fn>Meer. - Es waren allerdings mehrere Dutzend Galeeren, die von Marseille nach der Normandie fuhren und im August 1545 an einer Seeschlacht gegen die englische Flotte beteiligt waren; s. <a>Potter</a> 352f. 359. 383-386.</fn> kommen, und Hispanien umbfaren, und wider Engelland geschifft habend, sind sy im november verschinens jars
+<fn>Im November 1545 befand sich die Flotte auf der Route von Rouen nach Marseille; s. Dictionnaire de biographie française, Bd. 12, Paris 1970, Sp. 1410. Dass die Flotte damals tatsächlich einem Gewitter zum Opfer fiel, konnte sonst nicht belegt werden.</fn> vom himel und mitt plitzg und tonderschlag anzündt worden, und doch
+<fn>obwohl.</fn> nitt nach
+<fn>nah.</fn> beyeinanderen gestanden, und gar ußbrunnen
+<fn>gar ußbrunnen: ganz ausgebrannt.</fn>, das volck
+<fn>Hier die Insassen der vom Blitz getroffenen Galeeren.</fn> alles verdorben
+<fn>umgekommen ist.</fn>, und by sechtzig reder stuck büchsen
+<fn>reder stuck büchsen: schwere Geschütze auf Rädern.</fn> z{uo} grund gangen.</p>
+<p>So ist verschinens hornungs
+<fn>Februar 1546.</fn> ir hauptman, capit{ae}ny Poling
+<fn>Antoine Escalin des Aimars, Baron de La Garde, genannt Capitaine Poulin (Paulin / Polin). Einige Hundert Soldaten aus den von ihm geführten Truppen metzelten im April 1545 in Cabrières-d'Avignon, Mérindol und Umgebung Hunderte von Waldensern nieder.</fn> genandt, so sich am hoff deß künigs
+<fn>Franz I.</fn> ein zytlang enthalten
+<fn>aufgehalten hat.</fn>, von einem italienischen hauptman von Florentz, heißt Petrus Strocius
+<fn>Der Condottiere Piero Strozzi aus dem Florentiner Patriziat, der in den italienischen Kriegen für die Franzosen kämpfte, in die Planung des Angriffes gegen die Waldenser involviert war (s. Gabriel <i>Audisio,</i> Les vaudois du Luberon. Une minorité en Provence, 1460-1560, Mérindol 1984, S. 361), und dessen Bruder Leone im Juni 1547 anstelle von Escalin zum "Capitaine général des galères" ernannt wurde.</fn>, eines grossen geschlechts, und des Delphins
+<fn>Der Dauphin Heinrich.</fn> gemahel
+<fn>Gemahlin: Hier Katharina von Medici.</fn> ettwas gefründt, in Franckrych erstochen worden.
+<fn>Ein Gerücht. - Escalin starb am 30. Mai 1578; s. Dictionnaire de biographie française, Bd. 12, Paris 1970, Sp. 1411.</fn> Wo aber Peter Strozii sye, oder ob er in des künigs gnaden oder ungnaden sye, mag man nitt wüssen. Also hatt gott disen Poling mitt gwaltigem tod ouch ußgemacht.<zzl>zl2411-3E</zzl></p>
+<p>Von N{ue}remberg schrybt man, das römsche mt.
+<fn>Karl V.</fn> noch vorhab, Regenspurg ze s{uo}chen und einen rychstag zehalten, von welichs wegen minen herren
+<fn>dem Rat von St. Gallen.</fn> ouch ein mandat z{uo}kommen. De bello omnes praesagiunt.</p>
+<p><vl>119v.</vl> Uß Venedig hatt man schriben, das der papst
+<fn>Paul III.</fn> willens sye, sin concilium von Trient gen Bononien
+<fn>Bologna.</fn> oder Parma z{uo} tranßferieren,
+<fn>Ein Gerücht.</fn> so wyt
+<fn>so wyt: zumal.</fn> der keyser die Tütschen alda
+<fn>am Konzil.</fn> z{uo} erscheinen nitt vermögen wirdt. Hatt gifftige pfyl in dem kocher.
+<fn>Vgl. <a>Wander</a> III 1264, Nr. 57.</fn> Wirt gwüßlich uff etlich abzeschiessen understan. Gott well, das es f{ae}le.</p>
+<p>Vale. Sangalli, <zzl>zl2411-2A</zzl>postridie nonarum aprilium<zzl>zl2411-2E</zzl>
+<fn>6. April. Vgl. aber oben Z. <qv>zl2411-1</qv>.<zfn>fn2411-2</zfn></fn> anno domini 1546.</p>
+<un>Ioachimus Vadianus.</un>
+<hlz/>
+<p>[Ohne Adresse.]</p>
+<lz/>
+<p>[Unter der Briefabschrift aquarellierte Federzeichnung: Zwei vom Blitz getroffene, brennende Galeeren. Eine dritte und die Segel einer vierten Galeere sind im Hintergrund zu sehen.]</p>
+</text>
+</brief>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1338">
+<nr>1338</nr>
+<correspondents>
+	<originator>Leo Jud</originator>
+	<originator>Kaspar Megander</originator>
+	<originator>Konrad Pellikan</originator>
+	<originator>Theodor Bibliander</originator>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Simon Grynäus]</addressee>
+	<note fn=1>Die Zürcher Theologen antworten auf eine Anfrage von Grynäus; vgl. Anm. 2.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich</place>
+	<date>um Mitte Dezember 1539]</date>
+	<note>Nach Grynäus' Brief von Ende November / Anfang Dezember (oben Nr. 1332). Spätestens Anfang Januar lag das Schreiben in Basel vor; vgl. Grynäus an Bullinger, 1. Januar [1540], Zürich StA, E II 337, 311.</note>
+</space_time>
+<vo>Entwurf von Bullingers Hand: Zürich StA, E II 337, 312r.-313r. (oh­­ne Sie­­gel)</vo>
+<dr>Zusammenfassende Übersetzung: F[riedrich] ^#/+R[udolf],^#/- Simon Grynaeus und die Zürcher Kirche. Ein unbekannter Briefwechsel, in: Neue Zürcher Zeitung, 14. Dezember 1943, Nr. 2014</dr>
+<re>Haben mit Schmerz vernommen, daß von ihm verlangt wird, den Doktorgrad anzunehmen und damit seiner wohlbegründeten Überzeugung
+zuwiderzuhandeln; die Zürcher unterstützen ihn darin, eher das Amt niederzulegen als zu gehorchen, da sonst nicht nur sein Ruf,
+sondern die Freiheit der Kirche Schaden nähme. Eigentlich geht es nicht um die Titel - in dieser Frage wären Zugeständnisse
+denkbar -, sondern um eine oligarchische Herrschaft der Universität über die Kirche, welche im Widerspruch zur Haltung
+des Paulus und zu den Gebräuchen der Alten Kirche steht und selbst dann zum Niedergang des christlichen Gemeinwesens führen
+müßte, wenn bessere Männer der Schule vorstünden als in Basel zu Beginn der Reformation; wenn Grynäus nicht nachgibt und
+vielleicht sogar die Stadt verlassen muß, wird ihm Gott beistehen. Sie schlagen ihm vor, dem Rat die Problematik der
+Titel vorzutragen und um freie Amtsausübung oder andernfalls um die Entlassung zu bitten; auch soll er davor warnen, die Aufsicht über die Kirche in die Hände weniger zu legen. Da
+Myconius, Markus [Bertschi] und die andern [Pfarrer] gleichermaßen gefährdet sind, sollen auch sie dem Rat erklären,
+sie könnten sich der Universität nicht unterstellen und würden deshalb um ihre Entlassung bitten; in diesem Fall würden sie
+ihrer Gemeinde Rechenschaft ablegen und sie Gott anheimstellen, sonst aber gerne gehorsam sein. Sollte der Rat dennoch nicht
+einlenken, so wird Gott die Hochmütigen strafen. Um Unruhe zu vermeiden, schreiben die Zürcher Grynäus persönlich, doch mag
+er den Brief nach Gutdünken vorzeigen; sie wären auch bereit, ihn und seine Kollegen vorübergehend bei sich aufzunehmen. Gruß und Mahnung zu Unerschrockenheit.
+</re>
+<tx>Non sine maximo dolore audimus eo audatia sua progressos<fx>^#/+nach^#/- progressos ^#/+gestrichenes^#/- esse.<fe>
+titulorum<fx>^#/+nach^#/- titulorum ^#/+gestrichenes ^#/-universitatensium.<fe> patronos, ut tibi<fx>tibi ^#/+für
+gestrichenes^#/- a te ^#/+über der Zeile nachgetragen; auf der Zeile folgt gestrichenes^#/- iam.<fe>, qui
+huc usque eis<fx>eis ^#/+eingefügt vor gestrichenem^#/- ipsis reclamasti.<fe> tete una cum reliquis symmistis<fx>una cum
+reliquis symmistis ^#/+über der Zeile nachgetragen.^#/-<fe> ceu virum opposuisti, precipiant, ipse<fx>^#/+vor^#/- ipse
+^#/+gestrichenes^#/- doctoris.<fe> doctor fias<fx>^#/+Endung undeutlich korrigiert; vor ^#/-fias^#/+ gestrichenes^#/- ut.<fe><f1>Vgl. oben Nr. 1332, Anm. 1 und 5.<fe>, hoc est, ut in conspectu totius
+ecclesiae contra teipsum testimonium dicas<fx>in conspectu ... dicas ^#/+am Rande nachgetragen.^#/-<fe> opereque<fx>^#/+nach^#/- opereque ^#/+gestrichenes^#/- et aperto testimonio.<fe>
+destruas atque subvertas, quod hactenus coram senatu ac
+delectis et eruditis hominibus<fx>coram senatu ... hominibus ^#/+über der Zeile nachgetragen; korrigiert aus^#/- coram senatu
+seu[?] delectis et coram bonis et eruditis hominibus.<fe> sanis rationibus solide<fx>^#/+vor^#/- solide ^#/+gestrichenes^#/- contra ipsorum institutum male sanum aedificasti.<fe> construxisti,
+itaque<fx>itaque ^#/+über der Zeile nachgetragen.^#/-<fe> consilium<fx>consilium ^#/+über der Zeile nachgetragen; ersetzt gestrichenes ^#/-stultitiam vero^#/+ und stattdessen eingesetztes, ebenfalls gestrichenes ^#/-consilium inventum.<fe> ipsorum
+pravum<fx>pravum ^#/+am Rande nachgetragen (Streichung durch Unterstreichen rückgängig gemacht); davor gestrichenes^#/- callidum.<fe> facto tuo<fx>facto tuo ^#/+über
+der Zeile nachgetragen.^#/-<fe> apud
+posteros confirmes, interim vero<fx>interim vero ^#/+für gestrichenes^#/- et[?] ^#/+über der Zeile nachgetragen.^#/-<fe>
+apud praesentes homines<fx>homines ^#/+über der Zeile nachgetragen.^#/-<fe>
+omni authoritate tua tete ipsum<fx>ipsum ^#/+über der Zeile nachgetragen.^#/-<fe> expolies, imo<fx>imo ^#/+für gestrichenes ^#/-et ^#/+über der Zeile
+nachgetragen.^#/-<fe> te adversariis<fx>adversariis ^#/+für gestrichenes ^#/-ipsum ipsum[?] ^#/+über der Zeile nachgetragen.^#/-<fe>
+victum ac<fx>ac ^#/+für gestrichenes^#/- et ^#/+über der Zeile nachgetragen.^#/-<fe> illudendum<fx>^#/+Endung undeutlich
+korrigiert.^#/-<fe>, amicis<fx>^#/+vor^#/- amicis ^#/+gestrichenes^#/- prebeas[?].<fe> autem<fx>autem ^#/+über der Zeile nachgetragen.^#/-<fe> obiurgandum prebeas. Verum
+gratia domino, qui pro misericordia sua tibi<fx>^#/+vor^#/- tibi ^#/+gestrichenes^#/- hic.<fe> suggessit
+functionem tuam potius esse deponendam<fx>^#/+korrigiert aus^#/- deserendam; ^#/+dazu am Rande (ohne Einfügemarke) nachgetragen, dann gestrichen:^#/- cum iactura.<fe> quam obsequendum
+aedictis callidis ac<fx>callidis ac ^#/+über der Zeile nachgetragen.^#/-<fe> temerariis. Quod ipsum nobis quoque
+faciundum videretur, si idem postularetur a nobis<fx>^#/+Ganzer Satz am Rande nachgetragen.^#/-<fe>. Vides
+enim<fx>^#/+nach^#/- enim ^#/+gestrichenes^#/- pro[?].<fe>, quis tandem finis huius fati tui futurus sit, laesio
+videlicet nominis et famae tuae, qua hactenus apud omnes
+bonos usus es integerrima et innocentissima<fx>^#/+in der Vorlage^#/- inocentissima.<fe>, imprimis vero<fx>imprimis vero ^#/+für gestrichenes^#/- et ^#/+über der Zeile nachgetragen.^#/-<fe>
+libertatis<fx>^#/+vor^#/- libertatis ^#/+gestrichenes^#/- libertatis.<fe> christianae ac iuditii ecclesiastici oppressio.
+^$Neque enim de titulis doctorum aut magistrorum hic agitur,
+qui, unde, quo tempore et a quibus nati sint, quid commodi
+ecclesiae attulerint, quid dispendii, aut quam commode illis
+carere possit ecclesia, et an illos recipere possit vir
+bonus pro tempore et occasione meliora efficiendi<fx>et an illos ... efficiendi ^#/+am Rande nachgetragen.^#/-<fe>. Fortassis
+hic dispensari et consuetudini aliquid dari posset, si,
+inquam<fx>inquam ^#/+über der Zeile nachgetragen.^#/-<fe>, ea ratione malevolos et mala ipsorum consilia nihil
+iuves, sed<fx>malevolos ... nihil iuves, sed ^#/+für gestrichenes ^#/-per homines importunos^#/+ über der Zeile nachgetragen (^#/-malevolos et^#/+ sowie^#/- ipsorum^#/+ nachträglich eingefügt).^#/-<fe> commodius inter homines importunos<fx>inter homines importunos ^#/+über der Zeile nachgetragen.^#/-<fe> uti
+queas
+ministerio in ecclesia et dotes a domino concreditas
+dispensare non habentibus. Caeterum agitur hic magis de
+confirmatione<fx-t>^#/+von^#/- confirmatione ^#/+bis ^#/-de ^#/+über der Zeile nachgetragen (^#/-pessimorum^#/+ nachträglich eingefügt).^#/-<fe> affectuum quorundam pessimorum, imo de
+oligarchia, hoc est de<fx-x>^#/+von^#/- confirmatione ...<fe> scholae dominatu in ecclesiam Christi
+et in<fx>in ^#/+über der Zeile nachgetragen.^#/-<fe> praecones verbi. Id quod longe abhorret ab omni sana
+ratione, a moribus primaevę et syncerioris ecclesiae, ab
+exemplo sanctissimorum hominum, quando et Paulus vult
+iudicari ab ec­clesia et sedentibus<f1>Gedacht ist wohl an 1Kor 14, 29f; vgl. auch 1Kor 6, 1-8.<fe>, Paulus inquam, doctor gentium<f1>1Tim 2, 7.<fe>. Nec extare
+putamus apud ullos historicos sacros<fx>extare putamus ... historicos sacros ^#/+für gestrichenes^#/- illi unquam evincent ^#/+über der Zeile nachgetragen.^#/-<fe>
+ullam ecclesiam priscam scholae unquam<fx>unquam ^#/+über der Zeile nachgetragen.^#/-<fe> fuisse subiectam.
+Scholae quidem<fx>quidem ^#/+über der Zeile nachgetragen.^#/-<fe> fuerunt septa discipulorum<fx>^#/+nach^#/- discipulorum ^#/+gestrichenes^#/- disciplinarumque fontes.<fe>, praesertim vero
+ecclesiastarum seminaria et membra quaedam seu portio<fx>Scholae quidem ... seu portio ^#/+am Rande nachgetragen, ersetzt
+gestrichenes^#/- Scholae potius (potius ^#/+über der Zeile nachgetragen^#/-) concionatorum (^#/+es folgt gestrichenes^#/-
+maxime sem), ministrorum inquam (inquam ^#/+über der Zeile nachgetragen^#/-) verbi potissimum (^#/+ersetzt gestrichenes^#/-
+maxime) seminaria et membra fuerunt.<fe> ecclesiae<fx>^#/+nach^#/- ecclesiae ^#/+gestrichenes^#/- non capita (^#/+oder^#/- caput).<fe>, et qui ex illis ad
+maiora, id est ad<fx>maiora, id est ad ^#/+über der Zeile nachgetragen.^#/-<fe> ministeria<fx>^#/+korrigiert aus^#/-
+ministerium.<fe> vocabantur ecclesiastica<fx>^#/+korrigiert aus^#/- ecclesiasticum.<fe>, ministri erant ecclesiae, non
+domini, neque penes hos erat ecclesiae<fx>ecclesiae ^#/+über der Zeile nachgetragen.^#/-<fe> iuditium, sed, quod
+modo diximus<fx>quod modo diximus ^#/+über der Zeile nachgetragen.^#/-<fe>, penes ecclesiam et apud sedentes<fx>apud sedentes ^#/+über der Zeile nachgetragen.^#/-<fe>. Quod si hoc
+tempore praesides scholae vestrae viri essent optimi, qui
+quales sint, novit dominus, est tamen pessimum et
+periculosissimum exemplum pauculis illis omnem de
+ecclesiasticis rebus censuram, omne imperium<fx>omne imperium ^#/+korrigiert aus^#/- et imperium omne.<fe> contradere.
+Vidimus vel Basileae, quales aliquando<fx>aliquando ^#/+über der Zeile nachgetragen.^#/-<fe> rexerint scholam,
+quantum negotii fecerint evangelio gliscenti<f1>Besonders die Professoren Johann Gebwiler, Johann Roman Wonecker, Moritz
+Fininger und Johann Mörnach hatten sich der Reformation von Anfang an entgegengestellt; vgl. Basel, Matrikel I 354; Rudolf
+^#/+Wackernagel,^#/- Geschichte der Stadt Basel, Bd. 3, Basel 1924 (Nachdruck: Basel 1968), S. 331-333.<fe>. Possumus autem
+coniectare sathanam non esse a tali prolificatione effoetum,
+ut haud dubie certam reipublicae christianae pernitiem
+expectare necesse sit, si scholarchis submittatur ecclesiae
+iuditium, quod spiritus est<f1>Vgl. 1Kor 2, 15.<fe>, <vl>312v.</vl> et ius ac libertas ecclesiae
+tradatur paucis. Proinde huiusmodi institutum nequit ullus
+vir bonus, prudens, pius et christianus suo facto approbare
+ac confirmare, et propterea tibi quoque<fx>et propterea tibi quoque ^#/+für gestrichenes^#/- unde potius ^#/+über der Zeile nachgetragen.^#/-<fe> deponenda est potius<fx>potius ^#/+über der Zeile nachgetragen.^#/-<fe>
+functio aut ipsa quoque mutanda civitas quam admittendum<fx>^#/+nach^#/- admittendum ^#/+gestrichenes^#/- ut[?] tale quid.<fe>,
+quod cum tanto ecclesiae periculo et tanta cum turpitudine
+con­iunctum est. Scimus sane hoc<fx>^#/+vor^#/- hoc ^#/+gestrichenes^#/- et.<fe> consilium satis esse durum;
+vicissim tamen<fx>vicissim tamen ^#/+für gestrichenes^#/- interim ^#/+über der Zeile nachgetragen.^#/-<fe> non ignoramus
+dominum<fx>^#/+vor^#/- dominum ^#/+gestrichenes^#/- n.<fe>, si te ipsum<fx>ipsum ^#/+über der Zeile nachgetragen.^#/-<fe> et
+negotium ecclesiae suae<fx>ecclesiae suae ^#/+über der Zeile nachgetragen.^#/-<fe> ipsius tutelae credideris<fx>credideris
+^#/+für gestrichenes^#/- concredas ^#/+über der Zeile nachgetragen.^#/-<fe> et syncero
+animo hic omnia egeris<fx>egeris ^#/+für gestrichenes^#/- agas ^#/+über der Zeile nachgetragen.^#/-<fe>, non defuturum tibi et
+eventum daturum feliciorem, quam ipsi optare potuissemus<fx>feliciorem, quam ... potuissemus ^#/+über bzw. am
+Ende der Zeile nachgetragen für gestrichenes^#/- felicissimum.<fe>.
+^$Iam de modo viaque deponendi munus aut cum salute
+reipublicae Christi bonorumque omnium retinendi hoc nobis
+visum est tibi suggerere. Quando hoc munus non tua tibi
+authoritate usurpasti, sed vocatus a magistratu functionem
+accepisti<f1>Vgl. oben Nr. 1332, 1-3 mit Anm. 3.<fe>, ad senatum putamus omne negotium referendum ita,
+ut hunc adeas, plane et libere titulorum rationem exponas,
+unde et a quibus hominibus et quando nati, quid attulerint
+ecclesiae, quam nihil sint necessarii ac ne magni quidem
+emolumenti etc., atque ideo orare, ne titulis te onerari
+sinant<fx>titulis te onerari sinant ^#/+für gestrichenes^#/- conscientiam[?] tuam gravent ^#/+über der Zeile nachgetragen.^#/-<fe>; cupere te Basileiensi ecclesiae fideliter in domino
+ministrare, si ita libere<fx>libere ^#/+über der Zeile nachgetragen.^#/-<fe> tibi sicut hactenus permissum
+fuerit; sin minus, missionem te ab eis cum bona eorum gratia
+petere. Atque hic graviter addendum arbitramur, quam
+periculosum sit ius, libertatem, iuditium, censuram,
+disciplinam<fx>^#/+korrigiert aus ^#/-disciplinamque.<fe> ecclesiasticam<fx>ecclesiasticam ^#/+über der Zeile nachgetragen.^#/-<fe> in paucorum ponere manibus. Id
+per religionem et fidem in deum, in ecclesiam et populum
+Basileiensem te<fx>te ^#/+über der Zeile nachgetragen; davor ein gestrichenes Zeichen.^#/-<fe> non posse facere nec velle. Dominum
+ostensurum locum et homines, qui grato et aequo animo
+aestimaturi sint fidum laborem et diligentiam<fx>^#/+vor^#/- diligentiam ^#/+gestrichenes^#/- sanctam.<fe>.
+^$Et quoniam vel superato ac coacto<fx>ac coacto ^#/+über der Zeile nachgetragen.^#/-<fe> Grynaeo, ut discedat<fx>ut discedat ^#/+für gestrichenes^#/- et deiecto ^#/+über der Zeile nachgetragen.^#/-<fe> vel ad
+iniqua et perniciosa instituta concedat, idem post periculum
+manet Myconium, Marcum<f1>Markus Bertschi.<fe> et<fx>^#/+vor^#/- et ^#/+gestrichenes^#/- Luithardum ^#/+[gemeint ist Johannes Lüthard].^#/-<fe> alios omnes, qui res ecclesiae
+salvas volunt, iudicamus<fx>^#/+nach^#/- iudicamus^#/+ gestrichenes^#/- hoc iam in tempore.<fe> nunc copias esse coniungendas et iam
+in tempore hoc agi posse, ut eodem animo et proposito in ea
+omnino causa senatum isti quoque adeant<fx>^#/+korrigiert aus^#/- adirent.<fe> et suam quoque
+sententiam de titulis et gubernatione scholae et ecclesiae
+exponant<fx>^#/+korrigiert aus^#/- exponerent.<fe>, quodque non possint<fx>^#/+korrigiert aus^#/- possitis.<fe> illa universitatis<fx>^#/+korrigiert aus^#/- universitatensium[?].<fe>
+decreta et instituta vel consensu vel verbo aut facto suo<fx>^#/+korrigiert aus^#/- vestro.<fe>
+approbare, ideoque et se quoque<fx>et se quoque ^#/+über der Zeile nachgetragen.^#/-<fe> petere<fx>^#/+nach^#/- petere
+^#/+gestrichenes^#/- et[?] ipsos, simul pergere[?].<fe> <vl>313r.</vl> copiam<fx>^#/+vor^#/- copiam ^#/+gestrichenes:^#/- quum ita semel constituerunt pergere; ^#/+darüber
+gestrichenes:^#/- modo senatus semel statuit; ^#/+am Rande gestrichenes:^#/- modo universitas consentiente senatu semel
+constituerit ecclesiae sibi censuram sumere et titulis omnes ministros onerare.<fe> discedendi,
+quocunque dominus vocaverit. Ultimum tamen ecclesiam
+alloquuturos, ut ipsa quoque<fx>ipsa quoque ^#/+für gestrichenes^#/- ei[?] ^#/+über der Zeile nachgetragen.^#/-<fe>
+facti ipsorum<fx>ipsorum ^#/+für gestrichenes^#/- sui ^#/+über der Zeile nachgetragen.^#/-<fe> rationes norit<fx>norit ^#/+für
+gestrichenes^#/- non sint incognitae ^#/+über der Zeile nachgetragen.^#/-<fe>, simul
+hortaturos ad pergendum in veritate agnita, ut commendent
+illos domino et se quoque ecclesiae precibus ac gratiae
+domini. Nisi forte aliud hoc tempore senatui visum fuerit<fx>^#/+nach^#/- fuerit ^#/+gestrichenes^#/- ne videlicet more hactenus sancto et honestissimo utamini; hic enim.<fe>
+vos enim hac in re aequo animo ei obtemperaturos, qui<fx>^#/+nach^#/- qui ^#/+gestrichenes^#/- nihil.<fe>
+tranquillitatem et integritatem reipublicae, non turbas
+habeatis in votis<fx>habeatis in votis ^#/+zuerst gestrichen und ersetzt durch^#/- cupiatis promotam, ^#/+dann zurückkorrigiert.^#/-<fe>.
+^$Hoc videns magistratus, si quid sani habet, discedet a
+proposito suo et retinebit<fx>^#/+korrigiert aus^#/- retinebunt.<fe> vos ac integram ecclesiam. Sin
+minus, factum vestrum habebit excusationem et laudem coram
+deo et hominibus. Interea vero laetentur et triumphent quidam
+Amanica superbia<f1>Nach der Darstellung des Estherbuches plante Haman die Ausrottung aller Juden in Persien, weil der Jude
+Mordechai nicht vor ihm niedergefallen war; s. Est 3, 5f.<fe> turgidi. Dominus tamen is est, qui
+iudicat iuste<f1>Vgl. Jer 11, 20.<fe>, qui<fx>qui ^#/+für gestrichenes^#/- quem nemo fallet et ^#/+über der Zeile
+nachgetragen.^#/-<fe> superbis resistit, humilibus dat gratiam<f1>Jak 4, 6; 1Petr 5, 5.<fe>. Eum ut<fx>ut ^#/+über der Zeile nachgetragen.^#/-<fe> nemo latet, ita
+fallet<fx>ita fallet ^#/+über der Zeile nachgetragen.^#/-<fe> nemo<fx>^#/+nach^#/- nemo ^#/+gestrichenes^#/- fallet.<fe><f1>Vgl. Spr 24, 12.<fe>. Perdet is pro more suo
+prisco, quotquot<fx>quotquot ^#/+für gestrichenes^#/- eos qui ^#/+über der Zeile nachgetragen.^#/-<fe> affectu carnis superati
+conturbant domum domini<f1>Vgl. 1Kor 3, 17.<fe>. Novistis praeterea, fratres, illam domini sententiam<fx>Novistis ... sententiam ^#/+korrigiert
+aus^#/- Neque enim vobis, fratres, obscura est vox domini.<fe>: "Qui se exaltat, humiliabitur, et qui se humiliat,
+exaltabitur<fx>et qui ... exaltabitur ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Mat 23, 12 par.<fe>." Isti, qui nunc
+hominibus placere satagunt, aliquando nec deo nec hominibus ac ne malis quidem ipsis<fx>ipsis ^#/+über der Zeile
+nachgetragen.^#/-<fe> semper placebunt. Et quia visum est<fx>visum est ^#/+für gestrichenes^#/- placet ^#/+über der Zeile nachgetragen.^#/-<fe> negotium hoc citra motum
+et quaerelas transigi, uni tibi hoc consilium nostrum
+scribere placuit<fx>placuit ^#/+für gestrichenes^#/- voluimus ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Grynäus hatte darum
+gebeten, die Antwort nicht nur an ihn allein zu richten; s. oben Nr. 1332, 66-68.<fe>, ita tamen, ut hoc communices, quibus libet et apud quos in pretio futurum credis. Neque<fx>^#/+vor^#/- Neque ^#/+gestrichenes^#/- Neque enim ignoramus nos non bene audire apud omnes.<fe> enim ignoramus<fx>ignoramus
+^#/+für gestrichenes^#/- dubitamus ^#/+über der Zeile nachgetragen.^#/-<fe>
+nostrum nomen ingratum esse<fx>ingratum esse ^#/+über der Zeile nachgetragen.^#/-<fe> quibusdam<fx>^#/+nach^#/- quibusdam ^#/+gestrichenes^#/- parum esse gratum.<fe>. Dominus adsit vobis
+spiritu suo et deducat hoc<fx>hoc ^#/+über der Zeile nachgetragen.^#/-<fe> negotium ad gloriam nominis sui
+et ecclesiae suae utilitatem<fx>^#/+nach^#/- utilitatem ^#/+gestrichenes^#/- Amen.<fe>. Id quod ab illo fidelibus<fx>fidelibus ^#/+über der Zeile nachgetragen.^#/-<fe>
+iugibusque<fx>^#/+korrigiert aus^#/- iugibus.<fe> precibus haud dubie obtinebimus. Amen. Quod si
+dimissi ab illis solum<fx>^#/+vor^#/- solum ^#/+gestrichenes^#/- locum.<fe> vertere oportebit, offerimus vobis,
+fratres, nos et nostra omnia<fx>omnia ^#/+über der Zeile nachgetragen.^#/-<fe>, quod sumus et quod possumus,
+donec domino visum fuerit restituere vos ministerio suo, ad
+quod vocati estis.
+^$Valete in domino et intrepide agite negotium domini nostri,
+ut, cum venerit iudex<fx>iudex ^#/+zuerst gestrichen, dann über der Zeile wiederholt.^#/-<fe> per ignem iudicaturus mundum<f1>Vgl. Mt 25, 41.<fe>, ipsi refrigerium in ipso sentiatis<fx>^#/+in der Vorlage^#/- sentis (^#/+falsch korrigiert aus^#/- sentiamus).<fe><f1>Vgl. Ps 65, 12 (Vulg.); Jer 6, 16.<fe>.
+Amen.
+^$^&=225Leo Iudae,
+^$^&=225Gaspar Megander,
+^$^&=225Conr. Pellicanus,
+^$^&=225Theod. Bibliander,
+^$^&=225Hein. Bullingerus<fx>^#/+Links neben den Namen eine gestrichene, unlesbare Notiz.^#/-<fe>.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

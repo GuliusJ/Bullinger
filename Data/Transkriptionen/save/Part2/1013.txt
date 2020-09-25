@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1013">
+<nr>1013</nr>
+<correspondents>
+	<originator>Martin Mötteli</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Weinfelden</place>
+	<date>5. Juli 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 355, 90 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Kann zum Ausgang seines Verfahrens nun mitteilen, daß er von Landvogt [Zumbrunnen] freigesprochen wurde (hofft, daß die Feinde der Wahrheit zuschanden werden); bittet Bullinger, die Verteidigungsschrift [Möttelis] zurückzuziehen, damit nicht Anlaß zum Streit gegeben wird. Dankt den Pfarrern und
+Bullinger für die Unterstützung.
+</re>
+<tx>Gratiam et pacem a deo, patre nostro, et domino Iesu
+Christo. Amen.
+^$Quando te (optime vir) non solum omnium ecclesiarum, sed et
+omnium fratrum anxiam curam gerere sciam, res meas, quas et
+nuper
+tecum contuleram, ac scripta schedula<f1>Nicht erhalten.<fe>, si quando casus<f1>Über den Fall ist im einzelnen nichts bekannt. <fe>
+exigeret, ut memorarentur, tibi reliqueram, quem in finem
+abierint, pro tua singulari in me benevolentia nequaquam
+cęlare volui. Ego enim, pro
+augusta veritatis maiestate, omnes semel illius inimicos
+confundi spero. Prefectus<f1>Mansuet Zumbrunnen, von Uri, 1536-1538 eidgenössischer Landvogt im Thurgau.<fe> enim cum in ius me citatum in
+tertium usque iuris diem presentem me sine accusatore
+haberet nulliusque me reum
+ageret, ipse ego iudicem ius meum rogans, pręfectus me
+liberum dixit; quo id vero consilio, scire non possum.
+Apologiam igitur meam, quam in scriptis tibi dedi<f1>Nicht erhalten.<fe>, a publico
+retractes velim, ne vel olim
+modo quovis novorum incendia iurgiorum esse possint. Si
+forsan dominus ęquiorem de veritate sentiendi animum
+praestiterit, nullam nostri causa offensionem impatientibus
+querelis prebeamus.
+^$Ceterum sedula opera, consilio ac sumptu mea me adiuvit ecclesia
+eximiam diligentiam et amorem in me exhibens, omnes item
+fratres; ut primum precibus et cura pro me rebusque
+ecclesię erant anxii, ita
+plurimum nunc et ecclesię et mihi congratulantur. Reddat
+illis dominus ęternam lęticiam pro illorum in me amore
+et studio. Tu pro tua in nos charitate nobiscum domino
+semper gratias agas.
+^$Vale.
+Omnes te fratres semper salvum sedulo pręcantur.
+^$Quinta die iulii anno 37.<un>Martinus Mötyly, semper tuus.<un>Ex Winfelden Thurgoę.
+<lz>[Adresse auf der Rückseite:] Simul piissimo
+doctissimoque viro M. Gheimrycho<f1>Zur Namensform vgl. Möttelis Ausführungen im Brief vom 2. Januar 1536 (HBBW VI, S. 34, 18-23).<fe> Bullingero, domino ac
+fratri suo semper amantissimo.
+</content>
+</letter>

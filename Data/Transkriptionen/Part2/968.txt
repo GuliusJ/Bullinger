@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="968">
+<nr>968</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>12. März [1537]</date>
+	<note>Bullinger antwortet auf Myconius' Brief vom 6. März 1537 (oben Nr. 960).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 348, 475 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Weist die Kritik an der angeblich konkordienfeindlichen Haltung ungenannter Kollegen unter Hinweis auf Meganders
+Rechtfertigungsschreiben [Nr. 965] zurück und wundert sich über das Ausbleiben einer Antwort Luthers [auf den Brief der
+reformierten Städte der Eidgenossenschaft]. Die von Capito angeregte Zusammenkunft ist erst dann sinnvoll, wenn die
+Straßburger Zürich und Bern schriftlich über Luthers Stellungnahme zum [Ersten Helvetischen] Bekenntnis unterrichtet
+haben. Zürich erstrebt weiterhin eine diesem Bekenntnis gemäße Konkordie. Grüße und Bitte um Neuigkeiten.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Quibusde loquaris, observandissime Myconi, cum ais<f1>Ebenda, Z. 32f.<fe>: "Video quosdam charitatis fraternae tam
+parum possidere, ut plus reluceat pertinaciae", non video. Certe 8. martii scribit ad me Megander in haec verba<f1>Siehe
+oben Nr. 965, 2-6 (mit Anm. 1f).<fe>: "Amicam et fraternam de non proscribendis Buceri
+Retractationibus admonitionem quis non boni consulat, charissime mi Bullingere? Verum id nequaquam agitatum est a nobis,
+quemadmodum ad te et ad Leonem intelligo relatum, imo sub conditione omnia, et illa quidem quibusdam solum a fratribus."
+Haec ille. Inter nos neminem video insolescere, quantum ego possum iudicare. Miror autem, si Lutherus ita nostrum
+ablegarit a se nuncium, ut ne verbum quidem addiderit, placeatne an displiceat<f1>Nämlich das Erste Helvetische
+Bekenntnis bzw. dessen Auslegung im Brief der reformierten Städte der Eidgenossenschaft an Luther vom 12. Januar; vgl. oben
+Nr. 960, 25f mit Anm. 5f.<fe>.
+^$De iterando conventu, ut scribit Capito<f1>Siehe ebd., Z. 27-30.<fe>, vereor, ne nostri
+tandem conventuum et sumptuum pertesi dicant: "Et quis finis? Toties convenimus, toties responsa expectamus, scribimus
+Luthero, audimus Argentoratenses; sed nemo vel literam a Luthero refert, nemo certa nunciat." Si quid ergo certi
+tulerint a Luthero vel ex conventu Schmalkaldiae Argentoratenses, consultissimum videretur, ut horum summam scripto ad
+nos darent, deinde ad conventum invitarent. Si enim nunc conventus fuerit indictus, nostri aut non venient aut, si
+veniant, audient tantum. Itaque oportebit alium conventum indici augebiturque sumptus, adversariorum spes et nostrorum
+suspitio, scandalum et ira. Ich wölt, das man uns fry heruß sagte: "Man hat an üwer confession und responsion<f1>Siehe
+oben Anm. 4.<fe> ein benuͤgen<f1>d. h. man gibt sich damit zufrieden.<fe> oder nitt, und dorumb und dorumb habend
+wirs nitt." Kan man das nitt mitt gschrifft anzeygen? Wenn das nitt beschicht<f1>geschieht.<fe>, so
+möchtend<f1>könnten.<fe> die unsernn oder Berner sagen: "Wir wöllend nienan hin<f1>nirgends an einer Zusammenkunft teilnehmen.<fe>, wir habind den vor
+ein antwurt". Und wenn wir schon kummind und Berner nitt, so ists aber<f1>wieder.<fe> ein unvolckommens, und were dorumb
+das best, vorhin Zürych und Bernn in eyner summa berichten, was die antwurt etc.
+^$Haec ad te fideli animo perscribo nec temere. Tu noster esse perge et tibi pollicere de nobis, quod de piis et
+veritatis iustaeque concordiae studiosis. Interim certum est nolle nos in hoc aut alio religionis negotio quicquam
+ambigui aut obscuri recipere, etiamsi omnes, qui nunc vivunt, nos damnent. Quid vero potuit dici apertius, quam quod
+professi sumus illa nostra confessione et responsione? In his erimus et iuvante Christi gratia perseverabimus in
+finem<f1>Vgl. Mt 10, 22; 24, 13.<fe>.
+^$Vale una cum tuis, cum uxore<f1>Margret, s. HBBW V, S. 380, Anm. 18.<fe>, Gastio, reliquis. Si quid certi habes ex
+Schmalcedona<f1>Schmalkalden (Wortspiel mit Chalcedon; vgl. auch Volz, Urkunden 100, Anm. 9).<fe>, de<fx>de ^#/+am
+Rande nachgetragen.^#/-<fe> Bisantio<f1>Konstantinopel.<fe>, Gallo<f1>Franz I., König von Frankreich.<fe>,
+Turca<f1>Sultan Suleiman I.<fe> aut caesare<f1>Kaiser Karl V.<fe> aut etiam morte doctoris Lutheri<f1>Zu Luthers
+Erkrankung vgl. WA Briefwechsel VIII 46-48.<fe>, fac sciam.
+^$12. martii.<un>Tuus ut semper ex animo totus<un>Hein. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Praestantissimae eruditionis et pietatis virod. Osvaldo Myconio, antistiti ecclesiae
+Basileiensis, suo in domino colendissimo fratri.
+</content>
+</letter>

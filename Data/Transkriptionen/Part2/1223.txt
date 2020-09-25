@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1223">
+<nr>1223</nr>
+<correspondents>
+	<originator fn=1>Matthias Erb</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Matthias Erb, 1495-1571, aus dem badischen Ettlingen stammend, wurde 1538 - nach Studien in Pforzheim und Tübingen sowie Schul- und Kirchendienst in der Schweiz, in Baden-Baden und im badischen Gengenbach - von Graf Georg von Württemberg als Nachfolger von Erasmus Schmid nach
+Reichenweier berufen.
+Der zwinglisch gesinnte Erb wirkte dort als Pfarrer und Superintendent, bis er 1561 durch die Lutheraner vertrieben wurde. Den Lebensabend verbrachte er in Rappoltsweiler unter dem Schutz der Gräfin Anna Alexandria von Rappoltstein.
+Aus der umfangreichen Korrespondenz mit Bullinger sind noch über 180 Briefe überliefert. - Lit.: Heinrich ^#/+Rocholl,^#/- Matthias Erb, ein elsässischer Glaubenszeuge aus der Reformationszeit, Straßburg 1900. - Beiträge zur Landes- und Volkeskunde von Elsass-Lothringen 26; Heinz ^#/+Scheible,^#/-
+Melanchthons Pforzheimer Schulzeit. Studien zur humanistischen Bildungselite, in: Pforzheim in der frühen Neuzeit, hg. v. Hans-Peter Becht, Sigmaringen 1989. - Pforzheimer Geschichtsblätter 7, S. 9-50, hier S. 35f;
+Beat Rudolf ^#/+Jenny,^#/- Bullingers Briefwechsel mit dem Elsässer Reformator Matthias Erb (1539-1571), in: HBGesA II 57-86; ^#/+Bopp^#/- 140f; Franz ^#/+Brendle,^#/- in: RGG^#'4 II 1384f.</note>
+</correspondents>
+<space_time>
+	<place>Reichenweier</place>
+	<date>5. Februar 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2794r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Möchte Bullinger, dem er noch unbekannt ist, nicht behelligen, schreibt aber auch im Namen seiner Kirche. Auf der Suche nach einem Pfarrer für Volgelsheim nannte ihm [Jakob] Bedrot einen unbescholtenen, gelehrten Mann in Frauenfeld, der des tyrannischen Landvogtes [Hans Faßbind] wegen kaum wird
+bleiben können; falls ihn Bullinger kennt, soll er sich mit Erasmus Schmid besprechen.
+Vernahm [folgende] Nachrichten und Gerüchte: Herzog [Wilhelm IV.] von Bayern, König [Franz I.] von Frankreich und Kaiser [Karl V.] werben im Elsaß Reiter und Fußtruppen an; die protestantischen Stände werden in Frankfurt am Main tagen, während die anderen kürzlich in Esslingen beisammen waren; die
+Straßburger, Schlettstadter und Colmarer beraten sich;
+von der Rückkehr der Gesandten aus Spanien erwartet man [den Entscheid über] Krieg oder Frieden; der Streit zwischen Bischof [Wilhelm] von Straßburg und Graf Wilhelm von Fürstenberg ist vorläufig beigelegt; Bucer kehrte nach dem Täufergespräch, dem Besuch bei Luther und [Melanchthon] sowie einer
+Disputation mit [Georg] Witzel in Leipzig aus Hessen [nach Straßburg] zurück; Barbarossa verlor vierzig [Schiffe].
+Grüße an [Kaspar] Megander und an Leo [Jud]; hofft, daß dessen Schwester [Clara Schmid], die Jud nächstens den Sohn [Johannes Fabricius Montanus] schicken wird, mit den Ihren [in das evangelische Reichenweier] umzieht.</re>
+<tx>Gratia domini tecum.
+^$Scio te non aegre laturum, optime Bullingere, pro tua
+singulari humanitate, quod ego, obscuri nominis homuntio
+tibique prorsum ignotus, meis ineptiis interturbo te,
+hominem non modo christianę religionis antistitem
+celeberrimum, sed gravioribus etiamnum offitiis
+occupatissimum. Ea spe fretus scribo non meo, sed magis
+nomine ecclesię nostrae, quę in dies adolesceret in
+Christo, modo constituti essent pii et ludi et ecclesię
+ministri.
+^$Atque ut intelligas, quid velim: Multis iam diebus
+quesivimus ubivis fere gentium ministrum, qui eruditioni<fx>^#/+vor^#/- eruditioni ^#/+gestrichener, unlesbarer Buchstabe.^#/-<fe>
+pietatem adiunxerit, ut ecclesię in Folc­­kelsheim
+<f1>Volgelsheim (Grafschaft Horburg, Elsaß).<fe> haud
+procul a monte Brisaco<f1>Breisach am Rhein (Kr. Breisgau-Hochschwarzwald, Baden-Würtemberg).<fe> praeficeretur. Verum frustramur. Adhoc
+quibusdam pagis ludimoderatores praefecimus, sed homines
+vanissimę vitę, quos nunc (ne ecclesiam amplius
+offendant) satrapę principis nostri<f1>Graf Georg von Württemberg-Mömpelgard.<fe> dimittentes
+ablegarunt, nec sunt, quos substituamus. Scripsi et fratribus
+Argentoratensibus, nec illi inopiam nostram levarunt.
+Bedrottus significavit mihi per literas<f1>Nicht erhalten.<fe> integrum ac eruditum virum<f1>Gemeint ist wohl der Frauenfelder
+Pfarrer Heinrich Fehr.<fe> esse, cuius nomen tamen non indicavit, apud Frauenfeldium in Turgoia, qui ilhic non diu ob
+pręfecti<f1>Hans Faßbind, von Schwyz, 1538-1540 Landvogt im Thurgau (s. EA IV/1c 1316).<fe> impiam tyrannidem conditionem et locum sit habiturus. Is si
+tibi cognitus est, confer cum Erasmo Fabritio, qui
+ecclesię nostrae primas, an ei reipublicae christianę
+aptus sit necne; novit enim faciem ecclesiarum in nostro
+agro, tum et de stipendiis et locorum situm.
+^$Varii rumores miręque feruntur practicę: Bavarus<f1>Wilhelm IV., Herzog von Bayern.<fe> apud
+nos equites conscribit occulte idque salario percharo; in
+quos, ignoramus<f1>Vgl. PC II 545.<fe>. Gregarii milites per antesignanos
+contrahuntur a Gallo<f1>Franz I., König von Frankreich.<fe> et caesare<f1>Karl V.<fe>. Trepidat Germania.
+Civitates protestantes comitia post quindenam habebunt
+Francfordię<f1>Vgl. unten Nr. 1230, Anm. 4.<fe>; reliquę, [quae] Christum non confitentur<fx>[quae] Christum non confitentur ^#/+am Rande nachgetragen; im engen Einband z. T. unlesbar.^#/-<fe>,
+nuper fuerunt Eslingę<f1>Zum (überkonfessionellen) Städtetag, der auf den 22. Dezember 1538 nach Esslingen einberufen worden war, s. PC II 532, Nr. 555 mit Anm. 1.<fe>, quae veredarium<f1>Gemeint ist vielleicht Ulrich Chelius, der im Januar 1539 mit unbekanntem Auftrag an den Kaiserhof reiste (s.
+PC II 540).<fe> ad caesarem miserunt; cuius rei gratia, ignoratur. Argentoratenses
+vicinos Selestadienses ac Colmarienses nuper ad se in
+concilium vocarunt<f1>Näheres ist daüber nicht bekannt.<fe>. Latent<fx>^#/+vor^#/- Latent ^#/+gestrichenes^#/- exitus.<fe> omnia. Putant multi veredarios ex
+Hispania reversos vel pacem vel bellum nunciaturos<f1>Gleichzeitig mit Chelius hielten sich auch der Koadjutor von Mainz, Johann Albrecht von Brandenburg, und der bayerische Gesandte Bonacors de Grin in Toledo auf; s. PC II 557; Joachim ^#/+Lauchs,^#/- Bayern und die deutschen Protestanten 1534-1546.
+Deutsche Fürstenpolitik zwischen Konfession und
+Libertät, Neustadt a.d. Aisch 1978. - Einzelarbeiten aus der Kirchengeschichte Bayerns 56, S. 139-142.<fe>. Lis
+inter episcopum Argentoratensem<f1>Wilhelm von Honstein, Bischof von Straßburg.<fe> et comitem Wilhelmum a
+Furstenberg composita est, nescio quam diu<f1>Die Versuche Wilhelms von Fürstenberg, das Kloster Gengenbach zu säkularisieren, hatten zu einem jahrelangen Konflikt mit dem Bischof geführt, der mit der Pensionierung des Abtes im Februar 1539 keineswegs beendet war (vgl. dazu Johannes Volker
+^#/+Wagner,^#/- Graf Wilhelm von Fürstenberg, 1491-1549, und die politisch-geistigen Mächte seiner Zeit, Stuttgart 1966. - Pariser Historische Studien, 4, S. 190-194).<fe>. Bucerus ex
+Hassia rediit a principe Cattorum<f1>Philipp, Landgraf von Hessen.<fe> honorifice dimissus.
+Colloquium habuit cum anabaptistis, cui dominus adfuit, ut
+multi resipuerint<f1>Zum Täufergespräch in Marburg, 30. Okt. bis 1. Nov. 1538, vgl. HBBW VIII, S. 269, Anm. 4.<fe>. Deinde fuit cum Luthero et Philippo<f1>Philipp Melanchthon. - Zum Wittenberger Aufenthalt Bucers, 11.-20./21. Nov. 1538, vgl. HBBW VIII, S. 263, Anm. 6.<fe>;
+Lipsię egit cum Wicelio<f1>In Leipzig hatten Bucer, Johannes Feige, Gregor Brück und Melanchthon mit Georg von Carlowitz, Ludwig Fachs und Georg Witzel verhandelt (vgl. MBW 2141). - Georg Witzel, von Vacha (Wartburgkreis, Thüringen), 1501-1573, empfing - nach Studien in Erfurt und in Wittenberg -
+1520 die Priesterweihe. Er wurde zum Lutheranhänger, heiratete und übernahm 1525 ein Pfarramt in Niemegk bei Wittenberg.
+Im Jahre 1531 kehrte er jedoch zur katholischen Kirche zurück und zog 1533 als Priester nach Eisleben. 1538 holte ihn Herzog Georg von Sachsen nach Dresden.
+Nach 1539 in Berlin, 1541 in Fulda und ab 1554 in Mainz wandte er sich publizistisch gegen die Reformation und entwickelte, aufgrund v. a. seiner Kirchenväter- und Erasmusstudien, ein Reformprogramm. - Lit.: Barbara ^#/+Henze,^#/- Aus Liebe zur Kirchenreform. Die Bemühungen Georg Witzels (1501-1573)
+um die Kirchen­einheit. Münster 1995. - Reformationsgeschichtliche Studien und Texte, 133; Remigius ^#/+Bäumer,^#/- Georg Witzel (1501-1573), in: Katholische Theologen der Reformationszeit, 1, hg. v. Erwin Iserloh, Münster 1984, S. 125-132; R. ^#/+Jauernig,^#/- in: RGG^#'3 VI 1787f.<fe>. Barbarossę
+perierunt in mari
+non minus quadraginta<f1>Der Versuch von Cheireddin Barbarossa, die Festung Castelnuovo (Hercegnovi, Montenegro), die am 27. Oktober 1538 von der Ligaflotte eingenommen worden war, zu entsetzen, scheiterte im Seesturm, in dem etwa vierzig Schiffe verlorengingen; s. ^#/+Cardauns^#/- 26.<fe>. De
+Turca<f1>Sultan Suleiman I.<fe> sunt, qui metuant<fx>^#/+von^#/- Barbarossę ^#/+bis^#/- metuant ^#/+am Rande nachgetragen.^#/-<fe> etc. Tu
+roga dominum cum tuis fratribus ac ecclesia, ut ista omnia
+dirigat ad sui nominis gloriam, ne nos tradat in reprobum
+sensum<f1>Vgl. Röm 1, 28.<fe> ob impia facinora nostra. Quod et pro te facturi sumus cum nostris.
+^$Salutabis meum, meum inquam, Megandrum et Leonem<f1>Leo Jud.<fe>, apud
+cuius sororem<f1>Clara, in Bergheim (Elsaß) verheiratet mit Jakob Schmid (s. Graubünden, Korr. II, S. VII).<fe> nuper fui in Bergheim, quę illi<fx>illi ^#/+über der Zeile nachgetragen.^#/-<fe> filium<f1>Johannes Fabricius Montanus (vgl. Graubünden, Korr. II, S. IX).<fe>
+propediem missura<fx>missura ^#/+korrigiert aus^#/- missuras.<fe> est. Spero eam cum viro<f1>Siehe oben Anm. 27.<fe> ac omnibus suis ad nos migraturam, ut eripiatur ex Babilone<f1>aus der babylonischen Gefangenschaft.<fe> etc. Dominus adsit
+tibi suo spiritu ac roboret ad sui nominis confessionem
+diutissime<fx>diutissime ^#/+korrigiert aus^#/- diutissimę.<fe>. Tu ista boni consule; alias meliora.
+^$Raptim, ex Richenvilla, 5. die februarii 1539.
+<un>Tuissimus
+<un>Matthias Erbius,
+<un>ecclesię Richenvillę minister.
+<lz>[Adresse darunter:] Ornatissimo cum
+pietate tum eruditione virod. Henrycho Bullingero,
+ecclesię Tigurinę antistiti vigilantissimo, suo
+fratri.
+</content>
+</letter>

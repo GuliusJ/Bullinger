@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2221">
+<nr>2221</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>[nach 19. und vor 27. August] 1545</date>
+	<note>Der vorliegende Brief muss nach Gasts Brief vom 19. August (oben Nr. 2219), in dem er vom Ende des Reichstags berichtet, geschrieben worden sein, und vor Gasts Brief vom 27. [August] (unten Nr. 2228), der den Tod Meganders am 17. August (s. unten Nr. 2226, 10f) voraussetzt, wovon Gast im vorliegenden Brief noch nichts wusste.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 214 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 210 (um 20. August 1545) ^&x{
+<re>Gestern wurde im [Basler] Rat der Abschied des Wormser Reichstags verlesen; zweifellos wird dieser auch den [Zürchern] mitgeteilt. Für das neue Religionsgespräch in Regensburg sollen von den Papisten und von den [Evangelischen] je vier Gelehrte, acht Auditoren und zwei Präsidenten bestimmt werden. Ob einige [protestantische Fürsten] dazu einladen werden, ist ungewiss.
+-^#. Das Konzil von Trient wurde verschoben, bis die [Katholiken] sich wenigstens in einigen Artikeln einig sind. Bullinger wird die von den Buceranern, Lutheranern und Papisten befürworteten Einigungsvorschläge [in der Schrift "Von den einigen rechten wegen ... christlicher religion zu vergleichen"] zu Gesicht bekommen.
+Gast würde gern einmal von Bucer und auch von [Simon] Sulzer erfahren, warum sie eine solche Abneigung gegen die Zürcher Kirche hegen. Darüber später.</re>
+<tx>Quę in comitiis Wormatiensibus<f1>Der Reichstag zu Worms.<fe> acta<f1>Der Reichsabschied vom 4. August; s. oben Nr. 2213, Anm. 32.<fe> sunt, heri apud senatum nostrum sunt lecta;
+quę absque dubio vobis communicabunt,<f1>Ein solcher Brief ist nicht erhalten.<fe> quemadmodum hactenus fecerunt.
+Colloquium novum institutum est Ratisponę in religionis negotio,<f1>Das Zweite Regensburger Religionsgespräch, das ursprünglich am 14. Dezember 1545 beginnen sollte, dauerte vom 27. Januar bis zum 10. März 1546. - Lit.: RTA JR XVII 38-41; Lothar ^#/+Vogel,^#/- Das Zweite Regensburger Religionsgespräch von 1546. Politik und Theologie zwischen Konsensdruck und Selbstbehauptung, Gütersloh 2009 - QFRG 82.<fe> et ex doctis dabunt nostri et papistę quatuor;
+dein ab utraque parte eligent 8 auditores huius colloquii; tertio duo praesidentes, qui silentium contentiosis imponent.<f1>Zu den Teilnehmern am Religionsgespräch s. ^#/+Vogel,^#/- aaO, S. 220-266.<fe>
+An autem aliqui de ecclesiis nostris<f1>aliqui de ecclesiis nostris: Damit sind wohl protestantische Fürsten gemeint.<fe> ad colloquium illud vocare velint, ignoro.
+^$Tridentinum conciliabulum sublatum est, donec isti<f1>Die Katholiken.<fe> concordarint saltem in aliquibus articulis.
+Videbis Buceranorum et Lutheranorum consilia et papisticas concordantias<f1>= Einigungsbemühungen.<fe>, etc.<f1>Wahrscheinlich Anspielung auf die von Bucer herausgegebene Schrift "Von den einigen rechten wegen und mitlen Deutsche nation inn christlicher religion zu vergleichen und was darfür und darwider auff den tagen zu Hagnaw, Worms und Regenspurg anno 40 und 41 und seither fürgenomen und gehandelt worden ist", die im August 1545 erschien; s. oben Nr. 2071, Anm. 26.<fe>
+Bucerum, imo Sulcerum iam deducere volo et me comitem ad miliare unum<f1>Vgl. Mt 5, 41. - miliare = Meile.<fe> adiicere volo,
+quo cum illo expostulem, cur tam iniquus sit Tigurinę ecclesiae. De iis postea.
+^$Vale.
+Basileę, 1545.
+<un>Tuus Gastius ex
+<un>animo.
+<lz>[Adresse auf der Rückseite:] Domino Heinrycho Bullingero, fratri suo charissimo. Zurich.
+</content>
+</letter>

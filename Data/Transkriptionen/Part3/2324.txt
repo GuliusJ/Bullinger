@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2324">
+<brief>
+<id>16012</id>
+<nr>2324</nr>
+<ae>Wolfgang Musculus an Bullinger</ae>
+<od>Augsburg, 4. Januar 1546</od>
+<vo>Autograph: Zürich StA, E II 360, 79 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 9 </k></dr>
+<re>Bullinger wird wohl Wolfgang Musculus' Brief [<a>HBBW</a> XV, Nr. 2287] durch Huldrych Zwingli d.J. erhalten haben.
+<t/>Da Johannes Haller sich [den Verhältnissen] der Kirche [Augsburgs] angepasst hat und er auch in der Abendmahlsfrage der [Augsburger Gottesdienstordnung] zustimmt, ist Musculus mit Haller viel zufriedener, als jene vermuten, die auf den Frieden in der Kirche keine Rücksicht nehmen. Musculus hat schon längst diese unruhigen Geister (deren Frechheit nicht auf den ersten Blick zu erkennen ist) satt. Deshalb erwog er auch öfters, aus [Augsburg] wegzugehen. Es gibt dort aber viele gute Menschen, mit denen Haller Umgang pflegen könnte.
+<t/>Wie sehr Haller geschätzt wird, zeigt der große Zulauf zu seinen Predigten schon zur Genüge. Auch den Ratsherren ist er willkommen, wie dies aus deren Schreiben wohl hervorgehen wird.
+<t/>Über das [Zweite Regensburger Religionsgespräch] ist nichts Sicheres zu berichten. Der [Schmalkaldische Bundestag] zu Frankfurt soll sich gut und einträchtig gegen den Antichrist behaupten.
+<t/>Grüße an [Rudolf] Gwalther u.a.</re>
+<text>
+<p>S.D. Quas
+<fn>Musculus' Brief vom 19. November 1545 (<a>HBBW</a> XV, Nr. 2287). - Bullinger hatte den Brief nie beantwortet; s. <a>HBBW</a> XV 677 und Anm. 6.</fn> per filium
+<fn>Huldrych Zwingli d.J.</fn> Zwinglii beat{e} memori{e} misi, Bullingere in domino charissime, non dubito, quin acceperis.</p>
+<p>Quod ad vocationem dilecti fratris nostri Ioannis Halleri attinet, posteaquam ille nostr{e} se accommodavit ecclesi{e} et ad concordiam
+<fn>Damit ist die Augsburger Gottesdienstordnung gemeint (s. <a>HBBW</a> XV 693,27), die unter Anleitung Bucers 1537 verfasst wurde; s. <a>HBBW</a> XV 657, Anm. 1. - Vgl. <qv>nr2327</qv>,<qv>zl2327-2</qv>.</fn> in articulo c{e}n{e} dominic{e} pio sensu intellectam consensit, melius contentus sum, quam nonnulli hic ecclesiastic{e} pacis parum amantes putant. Proinde persuasum tibi volo Hallerum mihi commendatiorem fore, quam maleconsulti homines
+<fn>Wie z.B. Georg Frölich (vgl. <a>HBBW</a> XV 656f. 699,39-48), Michael Keller (vgl. <qv>nr2323</qv>,<qv>zl2323-1</qv>) und möglicherweise auch Sixt Birck (s. <a>Bodenmann</a> 357f).</fn> divinant. Habet h{e}c urbs nostra mirabilia qu{e}dam et irrequieta ingenia, qu{e} me iam olim magno t{e}dio afficiunt, et eo adigunt, ut s{e}penumero de migratione cogitem;
+<fn>Vgl. <a>HBBW</a> XV 692,11-14. 694,38f.</fn> quorum insolentiam nemo primo aspectu cognoscet, sed ad cognitionem illius prolixa quadam opus est experientia. Sunt iuxta hic multi boni viri, quorum consuetudine Hallerus tuto poterit uti.</p>
+<p>Quam acceptus sit ecclesi{e} nostr{e}, ipsa populi in concionibus ipsius frequentia satis declaravit. Et ipsis dominis
+<fn>Die Augsburger Ratsherren.</fn> quam sit gratus, perspicuis argumentis cognoscere potuit. Nec dubito, quin id ex illorum literis
+<fn>Zum lobenden Brief des Rates von Augsburg vom 5. Januar 1546 (Zürich StA, A 202/1, Nr. 8) s. <a>HBBW</a> XV 635, Anm. 5.<zfn>fn2324-1</zfn></fn> facile intelligas. Fratres symmyst{e} polliciti sunt ei omnem humanitatem et <gr>filadelfían</gr>
+<fn>Bruderliebe.</fn>. Reliquum est, ut vocationi isti dominus gratiam incrementi sui accommodet illamque et glori{e} su{e} et ecclesi{e} huic fructiferam reddat.</p>
+<p>C{e}terum de colloquio Ratisponensi
+<fn>Das Zweite Regensburger Religionsgespräch; s. <qv>nr2328</qv>, <qv>fn2328-3</qv>.</fn> nihildum audio certi. Conventus protestantium, qui iam Francovadi habetur,
+<fn>Der Schmalkaldische Bundestag zu Frankfurt; s. <qv>nr2319</qv>, <qv>fn2319-2</qv>.</fn> satis fertur esse ad resistendum conatibus antichristi unanimis et concors. Vestrum erit isthic christiano consensu dominum nobiscum precari, ut machinas illas antichristian{e} factionis brachio potenti{e} su{e} destruat.</p>
+<p>Bene in domino vale, Bullingere charissime. Salutem, obsecro, d. Gvalthero ac reliquis in domino fratribus.</p>
+<p>Augustae, 1546, 4. ianuarii.</p>
+<un>Wolfg. Musculus,</un>
+<un>tuus in domino.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo theologo d. Heinricho Bullingero, antistiti Tigurin{e} ecclesi{e}, domino ac fratri charissimo.
+<fn>Johannes Haller nahm diesen Brief bei seiner Rückreise nach Zürich mit.</fn></p>
+</text>
+</brief>

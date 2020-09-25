@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1106">
+<nr>1106</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>28. Februar 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 101 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat durch Erasmus Ritter mit Freude vernommen, daß der Streit [über den Katechismus] in Bern beigelegt wurde. Auch
+Luthers versöhnliche Antwort [an die reformierten Städte der Eidgenossenschaft] stimmt ihn hoffnungsvoll; entgegen der
+Absicht der Zürcher, ein eigenes Schreiben an Luther zu richten, sähe man aber in Konstanz ein gemeinsames Vorgehen der
+Eidgenossen lieber. Der Tod von Jakob [Windner] ist ein schwerer Verlust für die Konstanzer Kirche. Sendet ein Gedicht
+über ein schlimmes Ereignis und weist auf den kürzlich erschienenen Kometen hin. Gruß.
+</re>
+<tx>Salus et pax Christi.
+^$Audio concisionem apud Bernates pulchre<fx>^#/+vom Schreiber korrigiert aus^#/- pulchrae.<fe> sopitam<f1>Vgl. oben Nr. 1101, Anm. 3.<fe>,
+Bullingere charissime; sic enim ex ipso Erasmo Milite<f1>Erasmus Ritter.<fe> nuntium hoc accepi, id quod mihi summę
+voluptati est. Quid enim pestilentius dissidiis fratrum?
+^$Hinc quoque Lutheri responsum ad vos<f1>Siehe oben Nr. 1096, Anm. 1.<fe> animum mihi fecit meliora sperandi, dum amice admodum pollicetur
+se<fx>^#/+vor^#/- se ^#/+ein gestrichener Buchstabe.^#/-<fe> remisso rancore vos singulariter complecti. In ea enim animorum
+benevolentia omnis summa christiana concordia constare
+mihi videtur. Qualis enim futura est concordia, obsecro,
+quae dissentientibus animis coierit? - utcunque alias
+expetibilis et pulchra res sit concordia. Audio autem
+Tigurinam ecclesiam privatim responsuram Luthero nescio
+quid<f1>Vgl. oben Nr. 1104, 18-28 mit Anm. 7.<fe>. Hoc consilium bonis quibusdam apud nos non placet; sic
+enim libere decet indicare invicem cogitationes nostras
+fraternas. Putant enim consultius, ut nulla ex ecclesiis
+vestris privatim, sed omnes com­munitus responderent. Nam unam
+causam, unum populum decet unum et idem responsum; sic enim
+facilius effugietis periculum, et unanimitas<fx>^#/+vor ^#/-unanimitas ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe> inter vos ipsos conservabitur certius.
+^$Nova nulla sunt apud nos, nisi quod dominus abstulit nobisd. Iacobum<f1>Jakob Windner, von Reutlingen, gest. 1538, wurde 1496/97 in Basel immatrikuliert
+und war zunächst Helfer in Biel, dann (spätestens 1513) in Konstanz. Hier wurde er 1519 Pfarrer von St. Johann und trat als
+Vorkämpfer der reformatorischen Bewegung auf. 1529-1532 predigte er in Kreuzlingen (Kt. Thurgau); 1532 erhielt er das Konstanzer
+Bürgerrecht. - Lit.: ^#/+Rublack,^#/- Konstanz 206f, Anm. 5; Das Stift St. Stephan in Konstanz, bearb. v. Helmut Maurer, Berlin-New York 1981. - Germania Sacra, NF 15: Das Bistum Konstanz 1, S. 421f.<fe>, parrochum divi Ioannis, morte quidem non immatura, sed quae noceat ec­clesiae, nisi
+successorem sortiamur aeque doctum et pium.
+^$Mitto hic ad te miram tragędiam carmine descriptam<f1>Über diese Beilage ist weiter nichts bekannt.<fe>, qua
+docemur, quam sit invocandus dominus, ne in tentationem nos
+ducat<f1>Vgl. Mt 6, 13; Lk 11, 4.<fe>. Cometen vidistis longos radios proiicientem<f1>Dem in der zweiten Januarhälfte
+sichtbaren Kometen hat der Feldkircher Arzt Achilles Pirmin Gasser eine Schrift gewidmet; s. Karl Heinz ^#/+Burmeister,^#/-
+Achilles Pirmin Gasser, Wiesbaden 1970, Bd. I, S. 66-68; Bd. II, S. 37, Nr. 13; vgl. Vadian BW V 479; EA IV/1c 927 c; Leo ^#/+Zehnder,^#/- Volkskundliches in der älteren schweizerischen Chronistik, Basel 1976. - Schriften der Schweizerischen Gesellschaft für Volkskunde 60, S. 501.<fe>;
+quid portendat, docebit nos dominus. Utinam cum nostro bono!
+^$Iam, mi Bullingere, vale diutissime in domino cum uxore<f1>Anna, geb. Adlischwyler.<fe>,
+matre<f1>Anna, geb. Wiederkehr.<fe>, liberis<f1>Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich (1534),
+Hans Rudolf (1536) und Christoph (1537); vgl. ^#/+Pestalozzi^#/-
+314.<fe> et omnibus fratribus.
+^$28. februarii 1538.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, Tigurinae ec­clesiae pastori, charissimo meo
+fratri. Tiguri.
+</content>
+</letter>

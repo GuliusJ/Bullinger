@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2845">
+<brief>
+<id>17114</id>
+<nr>2845</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-03-15"/>
+<ae>[Ambrosius Blarer an Bullinger]
+<fn>Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn></ae>
+<od>[Konstanz], 15. März 1547</od>
+<vo>Autograph: Zürich StA, E II 357, 132 (ohne Siegel)
+<fa><i>Auch ohne Schnittspuren.</i></fa></vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 607f, Nr. 1422 <k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 159. ─ Jakob Otter von Esslingen gestorben. </k></dr>
+<re><t>Blarer dankt für Bullingers [Brief <qv>nr2842</qv>] und entschuldigt sich, dass er nur so kurz schreibt! Jetzt muss er predigen. Außerdem waren etliche Briefe zu verfassen, um sie einem gestern aus Esslingen kommenden Prädikanten [Stephan Schäffer?] mitgeben zu können, der heute schon weiterzieht. Für den in Esslingen verstorbenen Pfarrer Jakob Otter sucht man nämlich einen Nachfolger. Esslingen muss [Kaiser Karl V.] 40'000 Florin, Reutlingen 20'000 Florin Strafgeld zahlen.</t>
+<t>Erst jetzt erfährt Blarer von Konrad Zwick, dass seit gestern der Zürcher Rat Georg Müller in Konstanz ist. Gerade hat Blarer die von Bullinger gesandten Zürcher Ehegesetze Zwick mitgegeben. Georg Müller wird sie zurückbringen.</t>
+<t>Segenswunsch. Bitte um Gebet.</t>
+<t>[P.S:] Demnächst mehr. Es gibt nichts Sicheres über Landgraf Philipp von Hessen. Die Nachricht von der Niederlage des Markgrafen Albrecht Alcibiades von Brandenburg-Kulmbach wird von vielen Zeugnissen bestätigt. Gruß.</t></re>
+<text>
+<div>
+<p><zzl>zl17114-5A</zzl>Wellt mich um gottes willen entschuldiget haben, dann
+<fn>denn.</fn> ich warlich, warlich nitt schriben kan.<zzl>zl17114-5E</zzl> <zzl>zl17114-6A</zzl>Danck euch ewers truwen flyßes.
+<fn>Bezug auf Bullingers Brief vom 12. März (<qv>nr2842</qv>).</fn><zzl>zl17114-6E</zzl> <zzl>zl17114-7A</zzl>M{uo}ß yetzund predigen.<zzl>zl17114-7E</zzl> <zzl>zl17114-8A</zzl>Und ist ain prediger
+<fn>In Frage käme Stephan Schäffer (ein Schwager Blarers) oder auch Konrad Finck; s. <a>Pf-BadenWürtt</a> III 4; Theodor <i>Keim,</i> Reformationsblätter der Reichsstadt Eßlingen. Aus den Quellen, Esslingen 1860, S. 140.<zfn>fn17114-3</zfn></fn> von Esslingen gestert komen. Will yetz och hinweg; by dem ich ouch vyl schriben m{ue}ssen.<zzl>zl17114-8E</zzl> <zzl>zl17114-9A</zzl>Der g{uo}t Jacobus Ottherus
+<fn>Jakob Otter, seit 1532 Pfarrer in Esslingen. - Sein Nachfolger wurde im Frühjahr 1547 Hans Ottmar Epple (genannt Mailänder), der zuvor Pfarrer in Böblingen gewesen war und nur anderthalb Jahre in Esslingen wirken sollte; s. <i>Keim,</i> aaO, S. 133; Gustav <i>Bossert,</i> Acta in synodo Sindelfingensi. 24. Juni 1544, in: <a>BWKG</a> 12, 1908, 15f. 19f.<zfn>fn17114-4</zfn></fn> ist inen gestorben. Hettend gern ain andern geschickten. Waiß nitt, wa
+<fn>woher; s. <a>SI</a> XV 5.</fn> man in nen
+<fn>nehmen (soll); s. <a>SI</a> IV 725.</fn>!<zzl>zl17114-9E</zzl> <zzl>zl17114-3A</zzl>Esslingen m{uo}ß 40'000 fl. geben; Reutlingen 20'000 fl.
+<fn>Die gleichen Beträge werden auch in Johann Georg Saladins Straßburger Chronik (<a>MGEGDE{2}</a> XXIII 352) angegeben.<zfn>fn17114-1</zfn></fn><zzl>zl17114-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17114-1A</zzl>Ich hab necht
+<fn>gestern Abend.</fn> nitt gewisst, das der her Jorg Myller
+<fn>Der Zürcher Ratsherr Georg Müller. - Dass Müller nach dem 11. Februar (s. <qv>nr2800</qv>, <qv>fn17068-8</qv>) erneut nach Konstanz gesandt wurde, geht aus <qv>nr2842</qv>,<qv>zl17111-5</qv> sowie aus den beiden nahe beieinander stehenden Vergütungseinträgen in Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 48 der "Reitenden Boten", hervor.<zfn>fn17114-2</zfn></fn> hie ist. Yetz sagt mirs min v[etter] C[onrad] Zwick. <zzl>zl17114-2A</zzl>Dem hab ich ewer ehsatzungen
+<fn>Zu diesem Dokument s. <qv>nr2842</qv>, <qv>fn17111-1</qv>. Zu den Umständen, die zu dieser Sendung führten, s. <qv>nr2841</qv>,<qv>zl17109-18</qv>.</fn> geben, das ers widerum inmach
+<fn>heim (zurück zu Bullinger) befördern lasse; oder: einpacke (damit das Büchlein Müller mitgegeben werden kann); s. <a>SI</a> IV 43f.</fn>, damitt euchs h. Jörg widerum bringe.<zzl>zl17114-2E</zzl><zzl>zl17114-1E</zzl></p>
+</div>
+<div>
+<p>Sind gott zytlich und ewig
+<fn>zytlich und ewig: im Diesseits und Jenseits.</fn> bevolchen sampt den ewern allen. Den bitten mitt hertz und truwen f{ue}r unß, das wir in gnaden erhalten werdind. Datum in h{oe}chster yl, den 15. mertzens 1547.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17114-10A</zzl>By nechster bottschafft schrib ich mehr.<zzl>zl17114-10E</zzl> Vom landgrauffen
+<fn>Philipp von Hessen.</fn> habend wir gar nichts gwisses, aber, <zzl>zl17114-4A</zzl>das marggrauff Albrecht
+<fn>Albrecht II. Alcibiades von Brandenburg-Kulmbach. - Siehe dazu <qv>nr2832</qv>, <qv>fn17099-2</qv>.</fn> so vyl leut erschlagen und umbkommen seyen, ist war ausß vylfaltiger kuntschafft.<zzl>zl17114-4E</zzl> Gott mitt euch.</p>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div>
+</text>
+</brief>

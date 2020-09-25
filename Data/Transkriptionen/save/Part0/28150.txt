@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="28150">
+<nr>28150</nr>
+<correspondents>
+	<originator>Matthieu Coignet</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Solothurn</place>
+	<date>30. November (1558)</date>
+</space_time>
+<vo>Zürich StA, E II 368, 454. / Orig. Aut.</vo>
+S. Dominum Fabricium dimittere nolui sine meis ad te literis, ut certior esses me accepisse literas, quas illi dederas, et priores alteras habeasque persuasum ea, que scripsisti, mihi magne sollicitudini fore nec quicquam in iis me praetermissurum.
+Dominus solet compescere insolentiam et superbiam hominum impiorum.
+De aliis rebus et iis, que Basileę sparguntur, intelliges a domino Fabricio, cui libenter in re aliqua essem gratificatus.
+Bene vale.
+Soluturi ultima novembris.
+                                              Tuus ex animo Laberius.
+D.d.
+Galterum et Martirem saluto et illis filium commendo.
+D. Henricho Bullingero, eclesie Tigurine pastori vigilantissimo.
+^$Tiguri.
+</content>
+</letter>

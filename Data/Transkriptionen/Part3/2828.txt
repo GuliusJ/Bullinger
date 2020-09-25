@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2828">
+<brief>
+<id>17094</id>
+<nr>2828</nr> <from persid="OporinJohannes"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-02-26"/>
+<ae>Johannes Oporin an Bullinger</ae>
+<od>Basel, 26. Februar 1547</od>
+<vo>Autograph: Zürich ZB, Ms F 62, 415 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 117; Erw.: M. Steinmann, Oporinus 123, Nr. 60</k></dr>
+<re><t>Bullinger möge den beiliegenden Brief Bernardino Ochinos nach Augsburg weiterleiten. Dieser wohnt noch bei Oporin, weiß aber noch nicht, ob er in Basel bleiben wird.</t>
+<t>Es wäre schön, wenn die Dinge, die man über die Zürcher hört, falsch wären. Der Herr verherrliche seinen Namen und vernichte die Anhänger Satans!</t>
+<t>Was von den [in Verhandlung mit Kaiser Karl V. stehenden] Straßburgern zu erwarten ist, bleibt unklar. Viele aber erhoffen Besseres von Konstanz.</t>
+<t>Grüße, auch an die gemeinsamen Freunde.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17094-1A</zzl>Literas hasce Bernardini Ochini nostri ut curare Augustam velis, uterque te sedulo oramus, mi d. Bullingere. Adhuc ille apud me agit, incertus, an hic mansurus sit necne.<zzl>zl17094-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17094-2A</zzl>Audivimus et de vobis, qu{e} falsa quam vera esse malumus.
+<fn> Oporin bezieht sich auf die Spannungen, die in Zürich entstanden (s. dazu <qv>nr2767</qv>,<qv>zl17035-24</qv>; <a>Henrich, Myconius BW</a> 940, Nr. 1056) in Folge der an den Tagsatzungen zu Baden seit 1546 (bis 1548) immer wieder eingeleiteten Verfahren der Fünf Orte gegen die Veröffentlichung von Gwalthers "Endtchrist" (s. dazu schon <qv>nr2757</qv>, <qv>fn17025-7</qv>; <qv>nr2797</qv>, <qv>fn17066-6</qv>). Mit ihren Verfahren versuchten diese Orte, Einfluss auf die Innenpolitik der Zürcher zu nehmen. An der Badener Tagsatzung von Anfang Dezember 1546 wurde beschlossen, dass jeder mit einer Druckerei versehene Ort künftig darauf achten müsse, dass keine für die anderen Verbündeten beleidigenden Bücher mehr gedruckt würden. Aus Bullingers Briefwechsel wird zudem ersichtlich, dass ein Teil der Bevölkerung der Stadt und Landschaft Zürich und dementsprechend auch einige Amtsinhaber den "Pfaffen", wie sie ihre Prediger bezeichneten (s. z.B. <qv>nr2786</qv>,<qv>zl17054-36</qv>; <a>HBBW</a> XVIII 212,52f), nicht wohlgesinnt waren, sodass es sogar zur Aufforderung kam, die Predigten der Pfarrer von den politischen Behörden besser kontrollieren zu lassen, was wiederum nach Gwalthers und Bullingers erster Verantwortung vor dem Rat vom 29. Januar 1547 (s. dazu <qv>nr2767</qv>, <qv>fn17035-1</qv>) am 28. Mai 1547 eine erneute Rechtfertigung dieser beiden Pfarrer nötig machte; s. <a>Bächtold, Rat</a> 94-103.<zfn>fn17094-1</zfn></fn><zzl>zl17094-2E</zzl> <zzl>zl17094-3A</zzl>Utinam dominus gloriam nominis sui promoveat et sathanae membra conficiat spiritu oris sui!
+<fn>2Thess 2, 8.</fn><zzl>zl17094-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17094-4A</zzl>De Argentina quid sperandum sit, nescio.<zzl>zl17094-4E</zzl> <zzl>zl17094-5A</zzl>De Constantia multos melius sperare audimus.<zzl>zl17094-5E</zzl> Novit autem dominus, qui sunt sui;
+<fn>2Tim 2, 19.</fn> quem ut pro nobis quoque diligenter ores, ex animo petimus.</p>
+</div>
+<div>
+<p>Bene vale, optime atque doctissime vir, et amicos nostros communes per occasionem saluta. Basileae, 26. februarii 1547.</p>
+<un>Io. Oporinus, tuus</un>
+<un>ex animo.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Henrico Bullingero, amico clarissimo suo. Tiguri.</p>
+</div>
+</text>
+</brief>

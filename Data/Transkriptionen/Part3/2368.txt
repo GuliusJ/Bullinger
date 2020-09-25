@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2368">
+<brief>
+<id>16060</id>
+<nr>2368</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 4. und 6. März 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 209 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 121; Zit.: <i>Gast,</i> Tagebuch 261 (A 16)</k></dr>
+<re>[Mathias] Limberger schrieb an Gast: [Auf dem Schmalkaldischen Bundestag in Frankfurt] haben Fürsten und Reichsstände in den vergangenen zwei Monaten sehr viel erreicht. Pfalzgraf [Friedrich II.], Herzog Ottheinrich und der Kölner Erzbischof [Hermann von Wied] haben sich dem Evangelium zugewandt. Frankreich und England sind bereit, [den Schmalkaldenern im Falle eines Angriffs vonseiten des Kaisers] zu helfen. Der Mainzer [Erz]bischof [Sebastian von Heusenstamm] hat den Landgrafen [Philipp von Hessen] im nahegelegenen Höchst zu Gast, was Hoffnung macht. Der [Schmalkaldische Bund] hat eine Gesandtschaft zu Kaiser [Karl V.] geschickt, die von Kurfürst [Joachim II.] von Brandenburg, dem Pfalzgrafen [Friedrich II.], dem Landgrafen, Herzog Ulrich von Württemberg, Herzog Moritz [von Sachsen] und dem [Frankfurter] Älterer Bürgermeister Oger von Melem abgeordnet wurde. Man wird sehen, was [Karl V.] antworten wird. Dies schrieb Limberger. Vielleicht kommt noch mehr von ihm mit dem Boten [...], dem Gast einen Brief an Limberger mitgab.
+<t/>Neulich sind [in Basel] viele zum Magister promoviert worden. Bis auf einen stammen sie alle aus der Stadt. Sie waren schön gekleidet. Ehrungen nähren nämlich nicht nur die Künste; sie verleihen auch wertlosen Menschen Stattlichkeit!
+<t/>[Rudolf] Gwalther wird die ["Disputatio adversus gentes"] von Arnobius [d.Ä.] überbringen. Gast wird auch [die Werke] von Cyrill [von Alexandrien] schicken, sobald sie fertig gedruckt sind, und, falls Bullinger wünscht, auch die Werke von Boethius. Über den Preis soll Bullinger sich keine Sorgen machen.
+<t/>Von Gilbert [Cousin] hört man nichts. Er verließ Nozeroy wegen der Pest. Hoffentlich kommt dessen Bruder [Antoine?] bald nach [Basel], zweifellos mit Briefen an die Freunde.
+<t/>Die [Lebens]geschichte von Niklaus [Petri] hat Gast noch nicht beschrieben, er wird sie aber mit dem nächsten Brief senden.
+<t/>Mit dem Fuhrmann [...] schickte Gast den Kommentar von [Johannes] Brenz zu Exodus für Bullinger und den Kommentar zum gesamten Vergil für [Johannes] Fries.
+<t/>[Karl V.] liegt in Maastricht an der Gicht danieder.
+<t/>Am 1. März [1546] war Gast zu einer Hochzeit eingeladen, bei der auch der Zürcher Wirt [Ludwig] Stapfer anwesend war, ein schamloser Mensch, der sich in lauter Schmähungen gegen die Zürcher Pfarrer und Lehrer erging. Er behauptete auch, dass [Rudolf] Collin durch Wein- und Getreidehandel mehr als 1'100 Gulden im Jahr [1545] verdient hätte. Ferner sagte er, er besuche die Messe, wann immer er wolle. Man sollte ihm das Bürgerrecht entziehen! Es waren auch einige Zürcher dabei, die vielleicht die ganze Geschichte erzählen werden.
+<t/>Dass die Zürcher [Pfarrer und Lehrer] sich wieder gut vertragen, freut Gast sehr. Die Rechthaberei ist ein schlimmes Übel; Luther ist davon auch befallen. Nichtsdestoweniger wütet er weiter, obwohl sein Gewissen und die Heilige Schrift ihm anderes auferlegen.
+<t/>Grüße an [Konrad] Pellikan, dessen Frau [Elisabeth, geb. Kalb], und deren Kinder [Samuel und Elisabeth].</re>
+<text>
+<p>S. in domino. H{e}c ad me Limpergius
+<fn>Mathias Limberger, Pfarrer in Frankfurt a. M. - In einem unbekannten Brief, den Gast erwartet hatte; s. <qv>nr2362</qv>,<qv>zl2362-2</qv>.</fn>: "Waß sich hie hat z{uo}getragen in zweyen monaten durch fursten und stende des richs, kan ich mit worten nit erlangen, den es ist sy
+<fn>dessen.</fn> z{uo} vill. Kan uch doch uß christlicher liebe nit verhalten, wes unß der herr liebs und g{uo}ts uff disem richstag erzeygt, nemlich das vil hoher leut sich anß euangelion begeben, nemlich der pfaltzsgraff churfurst
+<fn>Friedrich II. von der Pfalz.</fn>, hertzog Otth Heinrich selbvierd
+<fn>als Vierter zusammen mit drei anderen.</fn>, Coloniensis episcopus
+<fn>Hermann von Wied.</fn>. Franckreych und Engellandt erbietten sich, vil z{uo} th{uo}n.
+<fn>Frankreich und England hatten den Schmalkaldenern ihre (finanzielle) Unterstützung für den Kriegsfall angeboten; s. <qv>nr2320</qv>, <qv>fn2320-2</qv>; <qv>nr2328</qv> und <qv>fn2328-6</qv>.</fn> Bischoff z{uo} Mentz
+<fn>Sebastian von Heusenstamm.</fn> hat den lantgraven
+<fn>Philipp von Hessen.</fn> z{uo} Höchst
+<fn>Höchst, heute ein Stadtteil von Frankfurt.</fn>, ein meyl von unß gelegen, z{uo} gast gehept.
+<fn>Siehe <qv>nr2362</qv> und <qv>fn2362-6</qv>.</fn> Synd uber nacht by einander bliben, und ist man g{uo}tter hoffnung, es sölle bald besser werden. <zzl>zl2368-8A</zzl>Die unsere haben ein treffliche legation
+<fn>Zur Gesandtschaft des Schmalkaldischen Bundes siehe <qv>nr2363</qv> und <qv>fn2363-4</qv>.</fn> zum keyser
+<fn>Karl V.</fn> abgefertiget. Und sindt verordnet von churfursten: Brandenburg
+<fn>Joachim II. von Brandenburg.</fn>, pfaltzgraff, landtgraff, hertzog Ulrich Witerbergensis
+<fn>Ulrich von Württemberg.</fn>, Moritzs hertzog;
+<fn>Moritz von Sachsen.</fn> und in namen der stett: Unser eltister herr burgenmeyster Hoier von Mulhenn
+<fn>Oger von Melem (1499-1575). Älterer Bürgermeister von Frankfurt in den Jahren 1545, 1550 und 1553; s. Reinhard <i>Frost,</i> Im Zeichen des Krebses. Die Frankfurter Kaufmannsfamilie Melem, in: Spurensuche in Sprach- und Geschichtslandschaften, FS für Ernst Erich Metzner, hg. v. Andrea Hohmeyer, Jasmin S. Rühl, Ingo Wintermeyer, Münster/Hamburg/London 2003 - Germanistik 26, S. 185.</fn>, etc.<zzl>zl2368-8E</zzl> Was aber vom keyser fur antwurt gefellen, wirt die zyt geben." H{e}c paucis ad me. Plura brevi scripturus per tabellionem
+<fn>Unbekannt.</fn>, cum quo literas ad illum
+<fn>Limberger.</fn> misi, qui nondum rediit.</p>
+<p>Vale et gratulare nobiscum
+<fn>Ironisch.</fn> ob tot magistros nuper apud nos creatos.
+<fn>Die am 24. Februar 1546 stattgefundene Magisterpromotion von Johann Heinrich Ryhiner, Ulrich Coccius (Koch; Essig), Johann Heinrich Munzinger, Jakob Meyer zum Hirzen und Michael Bäris (Beris; Barisius; Parisius) von Mülhausen; s. <a>Gast, Tagebuch</a> 258-261 mit Anm. 10; <a>M-Basel</a> II 4, Nr. 15. 11, Nr. 2. 28, Nr. 1. 29, Nr. 15. 33, Nr. 58.<zfn>fn2368-4</zfn></fn> Basilienses omnes sunt excepto uno
+<fn>Richtig wäre: exceptis duobus, nämlich der spätere Stadtarzt von Mülhausen, Michael Bäris, 1521-1571 (s. <a>NDBA</a> II 87), und Ulrich Koch, den Gast offensichtlich als Basler betrachtet, zumal dieser dort von seinem Stiefvater Nikolaus Essig (Schulmeister zu St. Theodor) erzogen wurde. Koch stammte aber aus Freiburg i. Üe. und erhielt erst im Jahr 1564 als Rektor der Universität das Basler Bürgerrecht geschenkt (s. <a>Gast, Tagebuch</a> 259, Anm. 10).</fn>. Heben an guldin ring tragen und samaty kregen
+<fn>samaty kregen: Kragen aus Samt.</fn> an recken
+<fn>Röcken (hier die Promotionsmäntel).</fn>. Honos alit artes
+<fn><a>Adagia</a> 1, 8, 92 (<a>ASD</a> II/2 314, Nr. 792).</fn> et addit fastum apud homines nullius pretii.</p>
+<p>Vale in domino et ora pro ecclesia nostra. Basile{e}, 4. martii 1546.</p>
+<lz/>
+<p><zzl>zl2368-4A</zzl>Mitto per Gvaltherum nostrum
+<fn>Gwalther war damals auf Besuch in Basel; s. <qv>nr2365</qv>,<qv>zl2365-1</qv>. Er wird den vorliegenden wie auch den von Myconius am 2. März geschriebenen Brief (<qv>nr2371</qv>) befördert haben.<zfn>fn2368-3</zfn></fn> Arnobii libros contra gentes.
+<fn>Siehe <qv>nr2362</qv>, <qv>fn2362-2</qv>.</fn><zzl>zl2368-4E</zzl> <zzl>zl2368-5A</zzl>Cyrillum
+<fn>Siehe <qv>nr2362</qv>, <qv>fn2362-3</qv>.</fn> etiam missurus, quum absolutus fuerit.<zzl>zl2368-5E</zzl> <zzl>zl2368-6A</zzl>Dein, si voles, et opera Boetii
+<fn>Siehe <qv>nr2362</qv>, <qv>fn2362-4</qv>.<zfn>fn2368-1</zfn></fn> addam; de pretio non sis sollicitus.<zzl>zl2368-6E</zzl></p>
+<p><zzl>zl2368-7A</zzl>De Gilberto
+<fn>Gilbert Cousin (Cognatus) von Nozeroy.</fn> nihil audio; peregre profectus est ob pestis saevitiem, qu{e} Nozerethi parum gliscere ceperat. Nescio an redierit aut adhuc sit in sua peregrinatione.<zzl>zl2368-7E</zzl> Spero autem brevi fratrem illius
+<fn>Cousin hatte mehrere Brüder. Hier ist vielleicht Antoine Cousin gemeint, der sich öfters in Basel aufhielt; s. <a>HBBW</a> XIV 324f, Anm. 3; XV 267, Anm. 18.<zfn>fn2368-2</zfn></fn> ad nos venturum, qui absque dubio literas ad amicos omnes secum allaturus est.</p>
+<p><zzl>zl2368-1A</zzl>Historiam Nicolai
+<fn>Die Geschichte des Basler Kaplans Niklaus Petri; s. dazu <qv>nr2362</qv>,<qv>zl2362-3</qv>.</fn> nondum descripsi, sed proximis literis mittam.<zzl>zl2368-1E</zzl></p>
+<p><zzl>zl2368-2A</zzl>Brentium in Exodum
+<fn>Gast hatte das Buch zusammen mit seinem letzten Brief übersandt; s. <qv>nr2362</qv>,<qv>zl2362-4</qv> und <qv>fn2362-5</qv>.</fn> aurig{e}
+<fn>Unbekannt.</fn> commisi, qui bona fide daturus est librum.<zzl>zl2368-2E</zzl> Item Frisio
+<fn>Johannes Fries.</fn> nostro misi commentaria in Virgelium
+<fn>= Vergilium. - Es handelt sich um: P. Vergilii Maronis opera, tomis duobus distincta ..., Basel, Bartholomäus Westheimer, 1546 (<a>VD16</a> V1351).</fn>. Omnia in una fasciculum colligata sunt.</p>
+<p><vl>209v.</vl> Der keyser ligt z{uo} Mastrich podagramisch
+<fn>an der Gicht leidend.</fn>, adeo ut nesciat se movere. Dominus satis illum admonet sui offitii, si sapere vellet.</p>
+<p>Die 1. martii pransus sum in nuptiis, ad quas fuit etiam vocatus hospes quidam Tigurinus nomine Stapffer
+<fn>Ludwig Stapfer (gest. 20. März 1548), der spätestens seit 1538 als Wirt zum "Roten Schwert" an der Niederen oder Unteren Brücke nachgewiesen ist. Wegen seiner Aussage, er höre gelegentlich die Messe (s. Z. <qv>zl2368-3</qv>), ist er möglicherweise mit dem gleichnamigen Stapfer aus Horgen (Kt. Zürich) identisch, der eine Zeitlang in Baden lebte und dort 1535 als Besitzer des Gasthofes "Staadhof" nachgewiesen ist. Stapfers Frau, Barbara Krus (Cruß), stammte aus Basel und war die Tochter "Johans Krusen deß Licenciaten", der vermögend war. - Lit.: Zürich StA, B VI 334 (Schirmbuch, 1534-1541), f. 124v.-125v.; Zürich StA, <i>Corrodi-Sulzer</i> Verzeichnis, Kleine Stadt, Ass. 141a, 16v. 23. 26. 28f. 32. 35f; Carl <i>Keller-Escher,</i> Promptuarium genealogicum, Bd. 7 (Zürich ZB, Ms Z II 6a), S. 27; Bartholomäus <i>Fricker,</i> Geschichte der Stadt und Bäder zu Baden, Aarau 1880, S. 395; Walther <i>Merz,</i> Wappenbuch der Stadt Baden und Bürgerbuch, Aarau 1920, S. 292; <a>Keller, Jakob Ruf</a> V 185 (mit falschen Angaben). Den Herren Rainer Henrich (Universität Basel), Martin Leonhard (freischaffender Historiker, Zürich) und Hans-Ueli Pfister (StA Zürich) sei hier gedankt. - Die Hochzeit, an der Stapfer am 1. März teilnahm, war jene von Hans Rudolf Krus und Barbara Stenglin. Die Trauung fand in St. Martin (Gasts Kirche) statt; s. Basel StA, Kirchenarchiv W 12.1, fol. 191v.; Herrn Henrich sei für diese Ermittlung gedankt.</fn>, homo impudicus, lenones omnes superans turpiloquentia. Nullum unquam in vita mea audivi obsc{e}niora dicere inter tot convivas, etsi admonitus, quam hominem illum. Odit omnes contionatores Tigurin{e} ecclesiae et lectores similiter. De Collini
+<fn>Der Griechischlehrer Rudolf Collin, der außerdem Inhaber dreier Läden war (s. Collins Autobiographie in <a>MiscTig.</a> I 26)</fn> divitiis instituerat sermonem: Hoc illum superare anno
+<fa>anno <i>am Rande nachgetragen.</i></fa>
+<fn>Wohl 1545.</fn> 1'100 fl., tot illum vendere vina et frumenta. <zzl>zl2368-3A</zzl>Deinde libere et aperto ore dixit se missam papisticam
+<fa>papisticam <i>über der Zeile nachgetragen.</i></fa> audire, quando velit,<zzl>zl2368-3E</zzl> et alia, qu{e} nolo in illius odium dicere. Dignus certe meo iudicio, ut ex civium numero eradicaretur. Tigurini quidam in isto convivio fuerunt, qui fortassis narrabunt totam illam trag{e}diam.
+<fn>In <a>Gast, Tagebuch</a> ist diese Begebenheit nicht erwähnt.</fn></p>
+<p>Caeterum quod deus vestros animos parum exulceratos in pristinam concordiam iterum conglutinaverit,
+<fn>Vgl. <qv>nr2348</qv>,<qv>zl2348-3</qv>; <qv>nr2362</qv>,<qv>zl2362-6</qv>.</fn> summo gaudio afficior. Scio enim exemplo edoctus, quid invidia semel concepta mala secum adferat et quam tenaces sumus earum rerum, qu{e} semel defendenda suscepimus. Lutherum enim hoc genere morbi laborare, quis dubitat? Nihilominus pergit furere, quam etiam conscientia sua aliud dictitet et suggerat, aliud etiam scriptura divina.</p>
+<p>Basile{e}, 1546, 6. martii.</p>
+<p>Salutabis nomine meo
+<fa>meo <i>fehlt in der Vorlage. Ergänzt aus dem Kontext.</i></fa> d. Pellicanum cum uxore
+<fn>Elisabeth (Elsa), geb. Kalb, Pellikans zweite Frau; s. <a>Pellikan, Chronikon</a> 147.</fn> et liberis
+<fn>Samuel Pellikan, geb. am 1. Juni 1527, und Elisabeth Pellikan, geb. 24. August 1528 (beide aus Pellikans erster Ehe mit Anna, geb. Fries); s. <a>Pellikan, Chronikon</a> 115. 118.</fn>.</p>
+<un>Tuus Gastius.</un>
+<lz/>
+<p>[Adresse darunter:] D. Heinrycho Bullingero, ecclesiae Tigurinae episcopo vigilantissimo, praeceptori suo semper colendo. Zurich.</p>
+</text>
+</brief>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1017">
+<nr>1017</nr>
+<correspondents>
+	<originator>Petrus Dasypodius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>10. Juli 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 358, 119 (Siegelspur)</vo>
+<dr>Gedruckt und Übersetzung: ^#/+Büeler^#/- 35 bzw. 46f, Nr. 9</dr>
+<re>Gibt Auskunft über den Lehrmeister von Christoph Klausers Sohn: Es handelt sich um einen wenig erfahrenen Apotheker, der
+ein hohes Lehrgeld von ihm verlangt, während ihn der beste Apotheker der Stadt kostenlos ausbilden würde; Dasypodius rät deshalb zum
+Wechsel der Lehrstelle und verweist im übrigen auf das parallele Schreiben Bedrots. Grüße.
+</re>
+<tx>S. Cupis per me et Bedrotum fieri certior, aliquone suo emolumento Christophori Clauseri filius apud nos operam in myropolio navet<f1>Bullingers Anfrage ist nicht erhalten. Zur Sache s. HBBW VI, S. 132, 25-29 mit Anm. 9.<fe>. Ego, ut paucis dicam, quod sentio, principio statim, cum huc
+veniret adolescens, valde mirabar, cur celebrioribus pręteritis in hac potissimum voluerit servire officina. Et nisi credidissem quasdam familiaritatis inter doctorem Christophorum et hunc
+myropolam<f1>Der Name des Lehrmeisters ist nicht bekannt.<fe> intercessisse causas, iam tunc dissuasissem adolescenti, ne se homini manciparet, qui, si cętera probus et integer sit, tamen, quod certo constat, propter artis imperitiam ęgre potuit a
+senatu impetrare, ut in urbe nostra myropolam ageret, quod etiam hinc facile colligitur, cum alii apud nos satis celebres habeant officinas, ipse propter suę officinę infrequentiam aromatibus
+vendendis interim dat operam; taceo quod, quantum ego intelligo, plus a suis discipulis exigit mercedis quam alius quisquam, imo, ut rem totam uno habeas verbo: Qui primas inter myropolas in urbe
+nostra tenere putatur<f1>Unbekannt.<fe>, serio (nam multum habet mecum familiaritatis propter convictorem meum<f1>Unbekannt.<fe>, illi ex fratre nepotem) mihi dixit se gratis velle talem adolescentem, si detur, multo fidelius
+instituere. Quare, optime Bullingere, quod ad hanc rem attinet, si doctor Christophorus filio suo consultum vult, non patietur eum diutius apud talem magistrum et pecunię et temporis facere
+dispendium. Hęc bono animo scribo, non quod civi meo lucrum, si quod facit per adolescentem, invideam, sed quod tibi, qui hęc scire voluisti, libentissime volui morem gerere et doctorem
+Christophorum de suo damno vehementer admonitum cupio. Non multum his dissimilia, puto, Bedrotus scribet<f1>Bedrots Brief ist nicht erhalten.<fe>, qui et alia, quę fuerant referenda, adiiciet.
+^$Vale, et me ut hactenus amare ne cesses.
+Saluta fratres et amicos omnes apud vos, pręcipue Leonem<f1>Leo Jud.<fe> et Pellicanum.
+^$Argentorati, sexto idus iulii anno 1537.<un>Petrus Dasypodius.
+<lz>[Adresse auf der Rückseite:] Henrico Bullingero, viro integro et docto, urbis Tigurinę antistiti, fratri et amico suo percharo<fx>^#/+Darunter von späterer Hand: ^#/-N^#'o. 7.<fe>.
+</content>
+</letter>

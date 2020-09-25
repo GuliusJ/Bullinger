@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="823">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>(*Werner Beyel*)</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>(*18. Mai 1536 oder kurz danach*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E I 12. 1 (ohne Siegel)</record>
+<print></print>
+<note>.us; Gedruckt:  Bächtold,  Bullinger vor dem Rat 156, Anm. 79</note>
+<statue>
+Bittet Stadtschreiber (*Beyel*), dafür zu sorgen, dass die Frage der
+Pfarrer(*-Besoldungen*) noch vor dem 24. Juni behandelt wird.
+</statue>
+<content>
+Lieber h(*err*) stattschryber, verhälffend, das die sach der
+pfarreren, von dero wägen ich üch brieff+2
+gäben, ussgemacht werde vor Ioannis+3,
+und das sy nitt also lang uffzogen+4
+werde.
+<p>Wil ich umb üch, wo ich könde, verdienen.</p>
+<signature>
+H. Bullinger, der uwer+a.
+</signature>
+<address>
+(*Ohne Adresse.*)
+</address>
+</content>
+<note>
+<print>
++a>Darunter von der Hand des Stadtschreibers:  M. (*Johannes*)
+Hab, m. (*Ulrich*) Cambli, m. Conradt Escher, m. Peter Meyger, m. Jörg
+Müller, stattschryber;
+auf der Rückseite:  Der competentzen (*Einkünfte*) halb.
+</print>
+<address>
++1>Wenngleich die Rückseite den Vermerk "1537" (von späterer Hand)
+aufweist, dürfte das vorliegende Stück in den Zusammenhang mit dem im
+April und Mai 1536 zur Debatte stehenden Besoldungsproblem (vgl. oben
+Nr. 803 und 822) gehören; denn die Angelegenheit wurde zu Beginn des
+Jahres 1537 erledigt (s. den Ratschlag und Beschluss vom 9. Januar 1537,
+<print>
+Bächtold,  Bullinger vor dem Rat 156, Anm. 80).
++2>Siehe Nr. 822
++3>vor dem 24. Juni, d. h. vor dem Ratswechsel.
++4>aufgeschoben (Grimm I 784f).
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

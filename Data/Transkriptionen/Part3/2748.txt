@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2748">
+<brief>
+<id>17017</id>
+<nr>2748</nr> <from persid="SerinLeonhard"/> <to persid="Bullinger"/> <place plid="Ulm"/> <date when="1547-01-11"/>
+<ae>Leonhard Serin an Bullinger</ae>
+<od>Ulm, 11. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 356, 72 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 23</k></dr>
+<re><t>Gruß.</t>
+<t>Serin nutzt die sich mit dem Boten [...] bietende Gelegenheit, um nachzufragen, ob Bullinger sein letztes Schreiben vom 5. November 1546 [<a>HBBW</a> XVIII, Nr. 2660] mit wichtigen Nachrichten erhalten hat. Es kommt ihm nämlich seltsam vor, dass er seit Bullingers Brief vom 4. September [<a>HBBW</a> XVII, Nr. 2565] mit der Übersendung von Rudolf Gwalthers "Endtchrist" nichts mehr von ihm hörte.</t>
+<t>Bullinger soll nicht denken, dass wegen der Einigung zwischen dem Ulmer Rat und Kaiser Karl V. die Ulmer Prediger etwas Schlimmes auszustehen hätten oder in der Religionsangelegenheit etwas verändert wäre. Denn dem Kaiser sind aufgrund der vertraglichen Regelung solange die Hände gebunden, bis ein sogenanntes freies, christliches Konzil darüber entscheidet. Jedoch nützt das dem früheren Kollegen [Serin selbst?] von Martin Frecht in Dillingen gar nichts! Einige Adlige und Kanoniker aus dem Gefolge des Dillinger Bischofs [Otto Truchsess von Waldburg] wollten ihn nämlich nachts in seinem Haus in der Gegend von Ulm festnehmen, fanden ihn aber nicht und ließen ihm daher ausrichten, dass sich der Bischof bestimmt an ihm rächen werde, weil er das "Verbrechen" begangen hätte, im Territorium von Dillingen zu predigen!</t>
+<t>Weitere Neuigkeiten gibt es kaum. Vadian wird bestimmt die Nachrichten von den Ulmern und von Johannes Brenz mitgeteilt haben. Über Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen sind dermaßen vage Gerüchte im Umlauf, dass man eher diese beiden als den Kaiser für tot halten könnte!</t>
+<t>Gruß und Bitte um Gebet.</t>
+<t>[P.S.:] Eben wird gemeldet, dass der Kaiser bald nach Ulm kommen soll. Der Herr stehe uns bei!</t></re>
+<text>
+<div>
+<p>Salve plurimum, reverendissime Bullingere, cum toto tuo collegio.</p>
+</div>
+<div>
+<p>Etsi studio me contineam, ne {e}quo s{e}pius te meis literis interpellem, modo tamen ob tabellarii
+<fn>Unbekannt.</fn> commoditatem non potui mihi temperare, quin interrogarem te, num acceperis, quas ad te 5. novembris dedi.
+<fn><a>HBBW</a> XVIII, Nr. 2660.</fn> Dubium enim mihi facit, quod a 4. usque septembris, qua mihi scribens
+<fn><a>HBBW</a> XVII, Nr. 2565.</fn> Antichristum
+<fn>Die deutsche Fassung von Gwalthers Endtchrist; s. <a>HBBW</a> XVII 400, Anm. 7.</fn> misisti, nihil omnino a te habeo. Rogo igitur, pro tua humanitate certiorem me facias. Ego enim in proxima illa mea epistola tibi significavi, qu{e} nonnihil refert te novisse.</p>
+</div>
+<div>
+<p>Deinde libuit etiam nonnihil tibi scribere, ne audiens Ulmensem magistratum cum c{e}sarea maiestate
+<fn>Karl V. - Zur Sache s. <qv>nr2734</qv>, <qv>fn17003-1</qv> und <qv>fn17003-2</qv>.</fn> transegisse cogitares nobis concionatoribus quid adversi accidisse aut relligionis statum nonnihil immutatum esse. <zzl>zl17017-1A</zzl>Nam ex pacto nihil poterit tentare c{e}sar in hisce negotiis ante liberum et christianum (ut loqui solent et expetere) concilium.<zzl>zl17017-1E</zzl> Sed heus, Bullingere, parum iuvat h{e}c pacis conditio bonum hunc virum
+<fn>Vielleicht meint Serin sich selbst damit; s. die Einleitung.</fn>, qui Frechti
+<fn>Martin Frecht war im Sommer 1546 als Prediger nach Dillingen entsandt worden; s. <a>HBBW</a> XVII 286 mit Anm. 42.</fn> fuit collega Dilling{e}. Nam episcopi Dillingensis
+<fn>Bischof Otto Truchsess von Waldburg.</fn> satellites illum noctu domi su{e} in agro Ulmensi hac hebdomade quaesierunt comprehendendum. Et, ut non invenerunt, per vicinos illi mandaverunt nobiles quidam et canonici, quos et ille bene novit, episcopum illi futurum esse hostem apertum et certo ulturum, quod extraordinarium in agro Dillingensi pr{e}dicando perpetravit facinus.</p>
+</div>
+<div>
+<p><zzl>zl17017-2A</zzl>De novis aliis, quae tibi censeam inaudita, parum habeo. Qu{e} autem Vadianus habet e nostris et Brentio, tibi illum communicasse arbitror.
+<fn>Der zuletzt bekannte Brief von Vadian an Bullinger datiert vom 11. Dezember 1546 (<a>HBBW</a> XVIII, Nr. 2714) und enthält Nachrichten über Frecht und Ulm. - Über Johannes Brenz s. zuletzt <a>HBBW</a> XVIII 427f; 445f mit Anm. 30; ferner <qv>nr2812</qv>,<qv>zl17080-5</qv>.</fn><zzl>zl17017-2E</zzl> De Sa[xon]e
+<fa><i>Textverlust durch Papierverlust.</i></fa>
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> et Catto
+<fn>Landgraf Philipp von Hessen. - Vgl. auch <qv>nr2744</qv>,<qv>zl17013-13</qv>.</fn> tam nihil nobis constat, ut citius credas eos esse defunctos quam c{e}sarem
+<fn>Zu den schon seit einigen Wochen grassierenden Gerüchten über den Tod des Kaisers s. <a>HBBW</a> XVIII 353, Anm. 20; und <qv>nr2754</qv>,<qv>zl17022-1</qv>.<zfn>fn17017-1</zfn></fn>.</p>
+</div>
+<div>
+<p>Bene vale et dominum nobiscum lauda et invoca, ut nos conservet. Ulm{e}, 11. ianuarii anno, etc., 47.</p>
+<un>Leonhartus Soerinus.</un>
+<lz/>
+</div>
+<div>
+<p>Paulo post, quam h{e}c sunt scripta, c{e}saream maiestatem propediem huc venturam
+<fn>Der Kaiser kam am 25. Januar 1547 nach Ulm und blieb dort bis zum 4. März; s. <qv>nr2754</qv>, <qv>fn17022-3</qv>.</fn> nobis nunciatur. Dominus pro sua immensa clementia omnia bene vertat et nobis adsit dirigens, custodiens et conservans nos!</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Pietate et doctrina praeclaro ac de omnibus theologi{e} candidatis adeoque tota Christi ecclesia optime merito Heynrycho Bullingero, fratri in domino plurimum dilecto et colendo. Zürch.</p>
+</div>
+</text>
+</brief>

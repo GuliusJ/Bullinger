@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2632">
+<brief>
+<id>16322</id>
+<nr>2632</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-18"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 18. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 254 (neu: 271) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh: Zürich ZB, Ms S 62, 22</k></dr>
+<re><t>Myconius hofft und betet weiter, dass Gott die weder menschliche noch türkische, sondern gänzlich spanische und antichristliche Grausamkeit [der Kaiserlichen] hart bestrafen wird. Über den [angeblichen Verrat Sebastian] Schertlins hatten andere berichtet, nicht Bullinger. Dessen Brief [<qv>nr2607</qv>] hat Myconius schon richtig verstanden!</t>
+<t>Kaiser [Karl V.] hat vom [Kurfürsten Friedrich II. von der] Pfalz verlangt, in dessen Territorium überwintern zu dürfen. Doch nach der Meinung erfahrener Leute tut der Kaiser stets das Gegenteil von dem, was er sagt.</t>
+<t>Wie Myconius hört, ist das, was Ambrosius [Blarer] neulich über [König Heinrich VIII. von] England schrieb, unbegründet, denn dieser wolle dem Kaiser treu bleiben.</t>
+<t>Ein Edelmann [...] schrieb aus dem Feldlager, die Spanier hätten einer hochschwangeren Frau [...], die sich ihnen verweigerte, zuerst die Finger und dann die Brüste abgeschnitten und sie so getötet.</t>
+<t>Gruß. Man bitte den Herrn, sein Wort zu schützen!</t></re>
+<text>
+<div>
+<p>S. A spe nondum deficio. Dominus crudelitati non human{e}, non Turcic{e}, sed omnino Hispanic{e} et antichristian{e} modum sistet, imo graviter puniet! Id quod et orabimus. <zzl>zl16322-1A</zzl>De Schertlino non tu scripsisti, sed alii dixerunt.
+<fn>Myconius bezieht sich hier auf seine Mitteilung in <qv>nr2625</qv>,<qv>zl16315-3</qv>, in der er berichtet hatte, dass Schertlin in Basel für einen Verräter gehalten wurde; eine Stelle, über deren Bedeutung Bullinger sich offensichtlich nicht im Klaren war; s. <qv>nr2625</qv>, <qv>fn16315-1</qv>.</fn> Equidem tua
+<fn>Bullingers Brief vom 5. Oktober, in dem er ankündigte, dass die Öffentlichkeit bald über einen weiteren Verräter erfahren würde; s. <qv>nr2607</qv>,<qv>zl16295-8</qv>.</fn> sane intellexi.<zzl>zl16322-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16322-2A</zzl>Petiit c{e}sar
+<fn>Karl V.</fn> a Palatino
+<fn>Kurfürst Friedrich II. von der Pfalz.</fn> hybernare in ditione ipsius.<zzl>zl16322-2E</zzl>
+<fn>Siehe dazu <a>Hasenclever, Kurpfalz</a> 124f. - Zum hier wohl gemeinten Gebiet s. <qv>nr2624</qv>, <qv>fn16314-2</qv>.<zfn>fn16322-1</zfn></fn> <zzl>zl16322-5A</zzl>Experti dicunt: Ergo in animo est longe diversissimum; sic enim est c{e}sar, ut, dum hoc dicit, contrarium significet.<zzl>zl16322-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16322-3A</zzl>De Anglo
+<fn>König Heinrich VIII. von England.</fn> audio nihil esse,
+<fn>Gemeint ist das Gerücht von einer Hilfeleistung Englands an die Schmalkaldener; vgl. <qv>nr2607</qv>, <qv>fn16295-9</qv>.</fn> quod proxime significatum per Ambrosium
+<fn>Ambrosius Blarer. - Eine entsprechende Mitteilung Blarers an Myconius ist nicht bekannt. Doch hat Blarer über die Verhandlungen der Schmalkaldener mit Frankreich und England z.B. in <qv>nr2618</qv>,<qv>zl16307-8</qv>, an Bullinger berichtet.</fn>; fidem enim servare velle datam c{e}sari.<zzl>zl16322-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16322-4A</zzl>Scripsit vir nobilis
+<fn>Unbekannt.</fn> ex castris venisse Hispanos ad mulierem gravidam
+<fn>Unbekannt.</fn> et iam partui proximam. Dumque noluerit obtemperare votis, amputasse illi primo digitos, deinde mammas, et ita eam extinctam.<zzl>zl16322-4E</zzl> O deus! H{e}c ideo, quia plura non p[ossum]
+<fa><i>Textverlust durch Papierausschnitt.</i></fa>.</p>
+</div>
+<div>
+<p>Vale in domino Iesu. Orabimus dominum, ut tueatur verbum suum. Basile{e}, 18. octobris anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, in domino venerando suo.</p>
+</div>
+</text>
+</brief>

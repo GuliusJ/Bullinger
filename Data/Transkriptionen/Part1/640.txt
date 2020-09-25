@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="640">
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Basel</place>
+	<date>September 1535*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 343, 206r.-v. (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Hat den von Bullinger empfohlenen Jüngling bei sich aufgenommen.
+Bestätigt die Nachricht von der Hinrichtung (*Thomas*) Morus', schenkt
+aber einem von Erasmus verbreiteten Gerücht keinen Glauben. Beantwortet
+Bullingers Frage nach seiner Tätigkeit in Tübingen und den dortigen
+Verhältnissen: Trotz äusserlich aufrechterhaltener Einheit ist die Kirche
+in Anhänger von (*Ambrosius*) Blarer und von (*Erhard*) Schnepf
+gespalten. Da (*Herzog Ulrich*) nicht zur Berufung Bullingers zu bewegen
+war, ist Phrygio an Grynäus' Stelle getreten. Grynäus selbst ist hin-
+und hergerissen zwischen seiner Verpflichtung gegenüber dem Basler Rat
+und der ihm vom Herzog anvertrauten Aufgabe.
+</statue>
+<content>
+S. Recepi iuvenem ad me, sicut iussisti+2,
+utinam cum fructu tanto,
+quantum expectare ab illo ingenio necesse est.
+De morte interituque Mori+3
+sic res habet. Dolet factum cum ipsius tamen regis+4
+nomine, nec possum iudicare, quid sibi rex velit. Si quid habuero
+compertum, indicabitur tibi; nam non credo huic famae, quae sparsa per
+Erasmum est+5.
+Omnia facit hic vir, quomodo causam nostram in invidiam adducat.
+De eo, quod rogabas nuper+6,
+qui tibi, quae acta a me Tubingae essent et quomodo isthic res haberent,
+copiose scriberem, sic distuli hactenus, quod crederem tibi ultro
+constare omnia. Saepe enim audis sectam in duo provinciam, Blaurerios et
+Schnepfios. Quas factiones quanquam cohibet vel principis+7
+authoritas
+vel ipsa rei initia tenent adhuc+a, quominus erumpant, tamen animis
+dissidere certum est, presertim si quis est animo ad negotium paulo
+attentiore; nam ignavis omnia perinde sunt. Ego de te vocando non semel
+palam cum principe egi+8,
+verum frustra.
+Ita cum quos vellem, non liceret praeficere, Phrygionem, qui unus
+succurrebat, ne nemo omnino isthic in scola tam celebri a nobis esset,
+in locum meum suffeci+9.
+Quem haud scio an recte deseruerim. Adduxit me senatus nostri
+authoritas+10,
+quam hactenus sequor, sic, ut sperem dominum me iuxta voluntatem suam
+gubernaturum.
+Me+b,
+priusquam certum esset, quid de concordia sentirem, nunquam desiit
+postulare princeps, qui istic essem. Inter saxum et sacrum+11
+toto hoc tempore sum. Si illi et patriae me dedo, nostros offendo
+graviter, putabunt alienum, credent sententiam meam mutatam. Itaque
+nunquam mihi tam fuit piorum bonorumque precibus opus, quam est nunc.
+//^^^'Sup(206v.)
+Id ego te per Christum dominum obtestatum volo, ut vere oretis,
+qui mihi recte voluntatem ipsius hac quidem in re sequi concedat. Si
+absque offensa nostrorum hominum foret, nulla me vis retineat, quin in re
+praeclarissima patriae inservirem.
+Vale in domino Christo.
+<signature>
+S. Grynèus tuus.
+</signature>
+<address>
+(*Adresse darunter:*) Clarissimo viro d. Henricho Bullingero.
+Tyguri.
+</address>
+</content>
+<note>
++a>tenent adhuc
+<print>
+am Rande nachgetragen.
++b>vor  Me  gestrichenes  A.
+</print>
+<address>
++1>Der Brief kann kaum vor September abgefasst sein, da Erasmus (vgl.
+Z. 3-6) erst zwischen 24. und 26. August 1535 von der Hinrichtung von
+Thomas Morus erfahren hat (s.
+Erasmus, Corr. XI 190). Im Oktober war diese
+Nachricht bereits keine Neuigkeit mehr, wie Bullingers Brief an Myconius
+vom 2. Oktober 1535 (unten Nr. 656, 11f. 18-20) zeigt.
++2>Vgl. oben Nr. 618, 1f.
++3>Thomas Morus (More), 1478-1535, von London, der bekannte Humanist
+und Staatsmann, Lordkanzler unter Heinrich VIII. und Freund von Erasmus,
+wurde am 6. Juli 1535 wegen seiner Ablehnung des Suprematseides
+enthauptet. -- Lit.:
+Ri-
+chard
+<print>
+Joseph  Schoeck  und Peter Gerhard
+Bietenholz,  in: Contemporaries II 456- 459, mit weiterer Lit.
++4>Heinrich VIII.
++5>Gemeint ist wohl der Bericht über die Hinrichtung von Thomas
+Morus und die Zurschaustellung seines Hauptes, den Erasmus von Konrad
+Goclenius erhalten hatte (Erasmus, Corr. XI 196f, Nr. 3037, 92-113) und
+den er sogleich weiterverbreitete (vgl. aaO, S. 221, Nr. 3049, 160- 163).
++6>Ein entsprechender Brief Bullingers ist nicht erhalten.
++7>Herzog Ulrich von Württemberg.
++8>Grynäus hatte auch Ambrosius Blarer gebeten, in diesem Sinne auf
+Herzog Ulrich einzuwirken; vgl. Blarer BW I 703f.
++9>Siehe oben Nr. 550, Anm. 8.
++10>Der Basler Rat hatte Grynäus aufgefordert, sogleich nach der
+Ankunft Phrygios auf dessen Pferd nach Basel zurückzukehren; vgl.
+Gauss,  Grynäus 105.
++11>in der Zwickmühle, vgl. Adagia, 1, 1, 15 (LB II 33).
+</print>
+</address>
+</note>
+</letter>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2605">
+<brief>
+<id>16293</id>
+<nr>2605</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-02"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 2. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 250 (neu: 268) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 179 </k></dr>
+<re><t>Weil Myconius samstags viel zu tun hat, kann er nur kurz schreiben und mitteilen, dass vor zwei Tagen jemand [...] aus dem [schmalkaldischen] Lager mit folgender Nachricht zurückkam: Neuburg [a. d. Donau] und Rain [am Lech] wurden [vom Feind] besetzt, weil sie von den [Schmalkaldenern], die nördlich der Donau liegen, nicht verteidigt werden konnten. Letztere haben sonst genügend Streitkräfte, Nahrungsmittel und Geld. Sie sind auch guten Mutes. Auch wurde bei der Besetzung der zwei Ortschaften niemand verletzt. Diese Mitteilung erfreute Myconius sehr, während der Spanier Francisco [de Enzinas] außer sich geriet ...</t>
+<t>Die [Schmalkaldener] bitten die [Vier Orte], die Ländereien des Kaisers [Karl V.] und seines Bruders [Ferdinand I.] zu besetzen. Myconius hat dies schon längst befürwortet! Die Fünf Orte, die man zu sehr fürchtet, sind schuld, dass es nicht dazu kam. Man hätte sie doch wohl davon überzeugen können, und wenn nicht, hätte man auf Gott vertrauen sollen! Die Angst der von Gott so sehr gesegneten [eidgenössischen] Städte ist unverständlich! Gott wird sie deswegen wohl demütigen müssen. Wäre Myconius eine einflussreiche Persönlichkeit, würde er etwas unternehmen! Als Greis aber kann er nur Gott bitten, dass dieser sein Wort nicht im Stich lässt.</t>
+<t>Bullinger sei stark und stärke auch die Seinen.</t></re>
+<text>
+<div>
+<p>S. Propter sabbatum
+<fn>Der 2. Oktober war ein Samstag und damit der Tag, an dem die Sonntagspredigt vorbereitet werden musste.</fn> scribere non valui, qu{e} sunt in animo. Negocia enim me impediunt. H{e}c tamen non possum tacere: Nudius tertius
+<fn>Am Donnerstag, 30. September.</fn> venit huc ex castris prius eo missus, qui
+<fn>Unbekannt.</fn> sic adtulit: <zzl>zl16293-2A</zzl>Neoburgum
+<fn>Neuburg a.d. Donau kapitulierte vor den kaiserlichen Truppen am 19. September; s. <a>HBBW</a> XVII 487, Anm. 42; 493f. - Als Myconius den vorliegenden Brief verfasste, hatte er offensichtlich Bullingers Brief vom 30. September (<a>HBBW</a> XVII, Nr. 2601) mit der Nachricht von der Besetzung Neuburgs noch nicht erhalten.<zfn>fn16293-2</zfn></fn> esse captum et Rhainum
+<fn>Rain am Lech. - Das Städtchen, das am 10. oder 11. August von den Schmalkaldenern friedlich eingenommen wurde (s. <a>HBBW</a> XVII 304, Anm. 16; 315,8; 342,8-19), wurde von diesen am 18. oder 19. September wieder verlassen; s. <a>Viglius van Zwichem</a> 95. 117, Anm. 51; Heinrich Thomann an den Zürcher Rat, 29. September (Zürich StA, A 177, Nr. 53).<zfn>fn16293-3</zfn></fn> receptum, quia nostri defendere non potuerint. Ultra Danubium
+<fn>Seit dem 13. September (und bis zum 3. Oktober) lagerte das schmalkaldische Heer bei Donauwörth (also nördlich der Donau), nachdem es zuvor Wechingen verlassen hatte; s. <a>HBBW</a> XVII 450, Anm. 12; 468,42-44; <a>Schüz, Donaufeldzug</a> 48, Skizze 4.<zfn>fn16293-4</zfn></fn> enim sunt. Deinde hominum esse tantam copiam, ut nihil desideretur. Esse commeatum abundantem; esse pecuniam sufficientem; esse incolumitatem per deum, qualiter possent optare; esse demum et animos. Nihil itaque desiderari, nisi ut domini auxilium devotis precibus impetretur. Porro neminem militum
+<fn>Die schmalkaldischen Söldner, die in Neuburg und Rain stationiert waren.</fn> esse l{e}sum, sed libere dimissum; cives oppidorum
+<fn>Neuburgs und Rains.</fn> quoque cum bonis, qu{e} valuerint exportare, dimissos una cum suis.<zzl>zl16293-2E</zzl> Postquam h{e}c audieram, satis eram contentus, ubi tamen Franciscus Hispanus
+<fn>Francisco de Enzinas (Dryander), der damals in Basel wohnte.</fn> plane insaniebat.
+<fn>Enzinas wird sich über den Verlust Neuburgs geärgert haben. - Diese Stelle ist noch nicht als Ausdruck eines Misstrauens Myconius' gegenüber Enzinas aufzufassen; vgl. nämlich <qv>nr2624</qv>,<qv>zl16314-1</qv>. Man weiß aber, dass später einige Basler (darunter Gast) zur Überzeugung gelangten, Enzinas sei ein kaiserlicher Spion, der eine protestantische Glaubenseinstellung nur vortäuschte; s. <a>Gast, Tagebuch</a> 312f und Anm. 20; <a>Gilly, Spanien</a> 338.<zfn>fn16293-5</zfn></fn></p>
+</div>
+<div>
+<p><zzl>zl16293-3A</zzl>De hoc autem, quod petunt Protestantes
+<fn>Nämlich mit dem Brief, den Landgraf Philipp von Hessen und Kurfürst Johann Friedrich von Sachsen am 26. September an die Vier Orte (die vier protestantischen eidgenössischen Städte) richteten (Zusammenfassung in <a>EA</a> IV/1d 739f - Autograph in Zürich StA, A 193, Nr. 7; Abschrift davon unter Bullingers Aufsicht in Zürich ZB, Ms A 43, 503-506): Letztere wurden gebeten, in die benachbarten Territorien des Papstes Paul III. (damit sind die Besitztümer der Kirche gemeint, wie etwa die Abtei S. Gallen) und des Kaisers (darunter Burgund) einzufallen; s. <a>HBBW</a> XVII 507, Anm. 20. - Zürich empfing den Brief der Fürsten an die Vier Orte am 30. September und sandte noch am gleichen Tag seinen drei Verbündeten Kopien davon (s. Zürich StA, A 193, Nr. 7), und offensichtlich auch schon den Vorschlag einer zurückhaltenden Antwort, an der Bern keine Freude hatte, wie es aus dessen Schreiben an Zürich vom 1. Oktober (aaO, E I 1.5, Nr. 13[b]) hervorgeht. Die von Zürich vorgeschlagene Antwort erschien nämlich dem Berner Rat "schimpflich", "in ansechen das sy [= die Schmalkaldener] darab keinen Trost empfachen und unser aller [= der Vier Städte] kleinmütte gespüren wurden". Vielmehr befürwortete Bern "die antwurt, dero wir uns zletzt entschlossen unnd unsere potten uch fürgehaltten haben, gevallen [zu] lassen". Sollten die Zürcher eine solche Antwort nicht gutheißen, "könen wir [= Bern] uch nitt verhalten, das wir in gemeldte anttwurtt [der Zürcher] nitt bewilligen könnend". Die Zürcher, die geahnt hatten, welche Anfrage vonseiten der Schmalkaldener auf die Vier Städte zukommen würde, beauftragten bereits einige Tage zuvor ihren Gesandten im schmalkaldischen Lager, Heinrich Thomann, dem Landgrafen ihre Bedenken zu eröffnen; eine Mission, die sie mit einem Brief Bullingers (<a>HBBW</a> XVII, Nr. 2597) untermauerten. Siehe dazu ferner <qv>nr2606</qv>,<qv>zl16294-5</qv>, bes. <qv>fn16294-12</qv> und <qv>fn16294-1</qv>; <qv>nr2616</qv>, bes. <qv>fn16303-6</qv>.<zfn>fn16293-1</zfn></fn> res vel imperatoris
+<fn>Karl V.</fn> vel fratris
+<fn>Ferdinand I.</fn> debere invadi, equidem libere dico, quod sentio: Idem et me iampridem sensisse!<zzl>zl16293-3E</zzl> <zzl>zl16293-1A</zzl>C{e}terum Quinquepagici
+<fn>Die Fünf (katholischen) Orte der Eidgenossenschaft.</fn> remorantur ut qui timendi sunt.<zzl>zl16293-1E</zzl> Potuissent hi quoque meo videre persuaderi huc, ut et ipsi fecissent officium. Quodsi non potuissent, ego tamen, quod est meum, non omisissem confisus in domino. <zzl>zl16293-4A</zzl>Non possum satis mirari post tanta beneficia dei erga nos tam meticulosas esse civitates evangelicas
+<fn>Die Vier Orte - Vgl. schon Myconius' Aussagen vom 3. September in <a>HBBW</a> XVII 395,49-53, wie auch Hallers Meinung zu Beginn des Krieges aaO, S. 272f,67-77.</fn>, imo post flagitia tam foeda adversariorum, quae patrant tanquam in contemptum dei!<zzl>zl16293-4E</zzl> <zzl>zl16293-5A</zzl>Ego homo nihili, si quid essem, aliquid agerem. Nihil autem dum sum et {e}tate imbecillis
+<fn>Myconius war damals 58 Jahre alt.</fn>, nihil possum nisi orare, ut dominus verbum non deserat;<zzl>zl16293-5E</zzl> neque deseret,
+<fn>Vgl. z.B. Dtn 31, 6; Ps 18 (Vulg. 17), 31; 2Makk 1, 5; Hebr 13, 5f.</fn> sed propter metum illum nostrum forsitan nos humiliabit.</p>
+</div>
+<div>
+<p>Vale in Christo Iesu. In eodem fortis et tuos roboraturus. Basile{e}, 2. octobris anno 1546.</p>
+<un>Os. Myco. tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, ministro Christi, fratri ac domino colendissimo suo.</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="988">
+<nr>988</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>9. April 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 73 (Siegelspur) </vo>
+<dr>Ungedruckt</dr>
+<re>Hat sich erfolgreich für die Verlängerung der Lehrtätigkeit von [Johannes] Fries in Basel eingesetzt, doch ab Herbst wird dieser in Zürich gebraucht. Weist auf den an Grynäus übermittelten Brief [von Capito und Bucer an Luther] hin und sieht darin sein Mißtrauen gegenüber Bucer bestätigt; die
+Zürcher sind allerdings nach wie vor zu einer Verständigung mit Luther bereit. Übersendet durch Fries eine Stellungnahme Vadians [Nr. 981] und spricht den Baslern trotz der kürzlich aufgetretenen Dissonanzen sein Vertrauen aus. Von diesem Brief soll einzig Grynäus Kenntnis bekommen.</re>
+<tx>Gratiam et pacem a domino.
+^$Non puto te, Myconi observande, ad priores illas litteras tuas<f1>Gemeint ist das im Auftrag der Universität Basel verfaßte Gesuch, Johannes Fries weiter dort wirken zu lassen (oben Nr. 976).<fe> responsionem expectare ullam. Ego omnem operam impendi
+meam, nec frustra. Redit enim ad vos Phrysius, sed ad autumnum rediturus<f1>Die am Ostermittwoch (4. April) vom Zürcher Rat erteilte Bewilligung ist auf dem oben Nr. 976, Anm. 1 erwähnten Schreiben der Universität Basel vermerkt (Zürich StA, A 240. 1).<fe>; interim licebit in locum eius surrogare
+alium,
+ut a nobis nihil detrimenti accipiat iuventus vestra. Deinde vero nobis nostra quoque curanda est. Et nosti quidem,
+quantum habeat momenti in religione et republica foeliciter administranda promovendaque, si scholae recte sint
+institutae et iuventus a pueritia etiam recte instituatur. Vorandum est hic nobis tedium et nullus declinandus labor.
+Uberrimus enim fructus labori aliquando fideliter respondet.
+^$Epistolam illam parum auspicatam<f1>Bullinger bezieht sich auf den Brief von Capito und Bucer an Luther vom 19. Januar (WA Briefwechsel VIII 12-18, Nr. 3128; Entwurf von Bucers Hand: Straßburg Stadtarchiv, AST 152, Nr. 96, S. 319-328; deutsche Übersetzung: ^#/+Bizer,^#/- Abendmahlsstreit 180-185),
+den diese dem Schreiben der reformierten Städte der Eidgenossenschaft (vgl. oben Nr. 934, Anm. 15) beigefügt hatten. Der Brief war Bullinger durch Benedikt Euander aus Kempten zur Kenntnis gebracht worden (vgl. unten Nr. 1053, 2-57) und belastete für längere Zeit die Beziehungen der Schweizer zu
+Bucer. Eine Abschrift von Bullingers Hand findet sich in Zürich ZB, Ms Briefe folio, Bucer; Notizen Bullingers, die wohl zur Vorbereitung seiner Stellungnahme (unten Nr. 1053) dienten, ebd., Bullinger Nr. 3. Vgl. ^#/+Pollet,^#/- Bucer II 289, Anm. 2.<fe>d. Gryneo nuper a me missam vidisti, opinor. Vidisti,
+quibus artibus nobis illusum sit. Ego hoc, quod factum nimis tarde sentio, semper suspicabar et metuebam. Et ideo vobis
+aliquoties visi sumus parum esse synceri, parum amantes pacis. Sed dominus, qui omnium corda intuetur<f1>Vgl. 1Sam 16, 7 u. ö.<fe>, novit, quam
+syncere egerimus omnia, et videbitis porro, quam non sint nobis factiosa ingenia. Studebimus enim paci nihilo minus et
+concordiae, quaeremus amicitiam integrare cum Luthero, modo aequas non respuat conditiones. Bucerum quidem sinemus in praesenti,
+neque quicquam turbarum movebimus in hisce exulceratis temporibus, observabimus autem opportunitatem.
+^$Videbis Vadiani nostri epistolam super hac re ad me scriptam<f1>Oben Nr. 981.<fe>, quam tibi et Gryneo exhibebit Phrysius, sed ut postea
+Vulcano imoletur. Amamus vos ex animo fratres, nec amorem illum nostrum ipsa interturbabit mors. Fidite modo nobis.
+Licet verbum aliquod nobis excidat asperum, leoninum, intollerandum, memineritis charitatem esse benignam<f1>1Kor 13, 4.<fe> et nos non adeo
+exacte verba nostra amicis fratribusque scripta expendere. Nihilo minus frater fratrem amat, etsi verbum vel probrosius
+vel furibundum eiaculetur. Quoad in carne sumus, homines sumus. Noveris deinde, quam nobis doleat sic ab illis tractari,
+quibus nos et omnes fortunas nostras credidimus. Intelligis, quo de scribam et quid tu ad me nuper de Leonis responso
+dederis<f1>Siehe oben Nr. 970, 1-24 mit Anm.
+1f.<fe>. Novimus vos, novimus benignum in nos animum vestrum<fx>vestrum ^#/+über der Zeile nachgetragen.^#/-<fe>, et quod ea, quae agitis, bono zelo agitis. De aliis
+contexitur querela nostra. Diligite ergo nos. Videntur quidam laborare, ut dirimamini a nobis, sed estote nostri. Haec
+in sinum tuum et soli tibi scripta habe; Gryneo communica, deinde lacera.
+^$Vale una cum tuis.
+^$9. aprilis 1537.<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Praestantissimo virod. Osvaldo Myconio, Basileiensis ecclesiae
+vigilantissimo pastori, fratri charissimo.
+</content>
+</letter>

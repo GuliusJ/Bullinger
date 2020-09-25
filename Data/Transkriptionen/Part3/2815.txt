@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2815">
+<brief>
+<id>17082</id>
+<nr>2815</nr> <from persid="PistoriusJohannes"/> <to persid="Bullinger"/> <place plid="Marburg"/> <date when="1547-02-18"/>
+<ae>Johannes Pistorius an Bullinger</ae>
+<od>Marburg, 18. Februar 1547</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 228 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 103; Regest: <i>Köhler,</i> Hessen und die Schweiz 482, Nr. 67.</k></dr>
+<re><t>Pistorius hat nicht auf den im Mai [empfangenen] Brief Bullingers [<a>HBBW</a> XVI, Nr. 2401, vom 31. März] geantwortet, weil er wegen des Krieges in Deutschland keinen Boten finden konnte. Auch jetzt hat er nicht die Zeit dazu. Er wollte nämlich gerade von Marburg [nach Nidda] aufbrechen, als er hörte, dass die Zürcher [Studenten] heimkehren. So ergreift er die Gelegenheit, Bullinger wenigstens zu grüßen.</t>
+<t>Die schlimme Uneinigkeit im [evangelischen Lager] stellt eine große Gefahr dar. Der Feind steht vor der Tür! Man rechnet jederzeit damit, dass er von Frankfurt aus angreift. Die Pfarrer in der Landschaft Nidda sind der Gefahr besonders ausgesetzt. Landgraf Philipp von Hessen vertraut auf den Schutz seiner Festungsanlagen, die von der armen Bevölkerung verstärkt wurden. Nun aber soll diese auch noch für deren Unterhalt durch Steuern aufkommen, sodass sie sich kaum mehr zu ernähren vermag. Kann man dann noch auf Gottes Hilfe hoffen?</t>
+<t>Sollte das Gerücht von einem Abkommen [der Schmalkaldener] mit Frankreich stimmen, dann wäre das gar nicht gut. Man denke doch an das von den Propheten verschrieene Bündnis des jüdischen Volkes mit dem ägyptischen König! Pistorius wäre viel eher dafür, dass die [Protestanten] sich der Rute des Herrn unterwürfen, mit der schon Nebukadnezar gezüchtigt wurde und mit der nun auch ihre Undankbarkeit und Vergehen bestraft werden müssen, als dass sie ein Bündnis mit Ägypten eingingen, indem sie zu ihrem eigenen Verderben im Namen des Herrn behaupten, dass diese Allianz notwendig sei. Egal welcher Gefahr Pistorius wegen seines Glaubens ausgesetzt wird, er weiß, dass es sich dabei um den universalen, richtigen Glauben handelt. Christus verleihe ihm Standhaftigkeit!</t>
+<t>Bullingers Brief wird er nach den Kriegswirren beantworten. Und sollte Gott die Zerstörung der Kirchen in Hessen zulassen und dabei Pistorius aus diesem Jammertal erlösen, dann wird er sich vielleicht darüber mit Bullinger mündlich unterhalten können. Nur so viel: Bullinger hat die [Abendmahls]auffassung von Pistorius und den Kollegen, die sich diesbezüglich angemessen äußern, nicht wirklich begriffen. Er sollte sie nicht mit jenen verwechseln, die Dinge behaupten und lehren, die unangebracht sind und von denen sie gar nichts verstehen!</t>
+<t>Bullinger möge über den Stand der Dinge in Zürich berichten und seine Meinung über den Krieg mitteilen.</t>
+<t>Gruß, auch an die Kollegen, besonders an Rudolf Gwalther, und Bitte um Gebet. In Eile.</t></re>
+<text>
+<div>
+<p>Graciam et pacem a deo, patre nostro per Iesum Christum, in spiritu sancto. <zzl>zl17082-3A</zzl>Quod hactenus, Bulingere in domino summopere colende, nihil ad te dederim literarum neque tuis ad me datis in mense Maio
+<fn>Damit ist Bullingers Brief zum Abendmahlsstreit vom 31. März 1546 (<a>HBBW</a> XVI, Nr. 2401) gemeint (vgl. unten Z. <qv>zl17082-1</qv>), den Pistorius offensichtlich erst im Mai erhalten hatte.<zfn>fn17082-4</zfn></fn> responderim, nulla alia causa est, quam quod in tanta rerum omnium per Germaniam perturbatione nullus obvenire potuit commodus nuntius neque etiam modo respondere possum brevitate temporis impeditus. Cum enim iamiam essem abiturus,
+<fn>Pistorius wohnte nämlich in Nidda, etwa 50 km südlich von Marburg.</fn> significatum est mihi vestros
+<fn>Johannes Fabricius (Schmid) Montanus, Hans Rudolf Funk, Heinrich Hindermann (Opisander), Karl Schweninger und vielleicht auch Wilhelm Meyer; s. <a>HBBW</a> XV 542f, Anm. 2; XVI 137. Sie kamen im März 1547 zurück nach Zürich; s. <a>HBBW</a> XVII 428f, Anm. 59.<zfn>fn17082-1</zfn></fn> patriam velle petere. Non potui igitur non te per literas vel salutare.<zzl>zl17082-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17082-2A</zzl>Nos propter ecclesiarum Christi dissipationem, ne dicam an oppressionem, sumus constituti in summo et dolore et periculo. Cum enim habemus modo hostes vicinos, quottidie impressionem hostium ex Francofordia
+<fn>50 km südlich von Nidda. - Frankfurt war von den Truppen Maximilians von Egmont, Graf von Büren, besetzt; s. <qv>nr2743</qv>, <qv>fn17012-7</qv>; <qv>nr2810</qv>, <qv>fn17078-2</qv>.</fn> expectare cogimur, destituti omni praesidio humano, presertim nos, qui per agrum Niddanum Christum profiteremur. <zzl>zl17082-7A</zzl>Princeps noster
+<fn>Philipp von Hessen.</fn> videtur omnem spem collocasse in munitiones. Verum cum h{e} sint sudore pauperum extruct{e}, et iam sanguine egenorum gravissimis exactionibus conservare eas conetur, videre non possum, quem successum deus daturus sit.<zzl>zl17082-7E</zzl><zzl>zl17082-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17082-4A</zzl>Neque placet foedus Gallicum,
+<fn>Anspielung auf das Bündnis, das die Schmalkaldener damals mit König Franz I. gegen Karl V. zu schließen versuchten; s. dazu <a>HBBW</a> XVIII 92; 236,32-34 und Anm. 27; 249f; 321f; 336,22-24; 348f; 393f.<zfn>fn17082-3</zfn></fn> si modo rumor vera spargit. Quem enim finem foedus Judeorum cum rege Egyptio
+<fn>Gemeint ist Franz I.; vgl. etwa <a>HBBW</a> XVIII 336,24.</fn> sortitum sit, ex scripturis prophetorum facile liquet! Ego potius, si adhiberer in consilium, consulerem, ut Nebucadnezari virg{e}
+<fn>Anspielung auf Dan 4.</fn> domini punientis et nostram ingratitudinem et immania scelera nos subiiceremus salva vera religione, quam, si et apud nos persequi conaretur
+<fn>persequi conaretur [foedus cum rege Egyptio].</fn>, quisque suo periculo
+<fn>Indem einer behauptet, dass diese Allianz mit Ägypten notwendig sei, und so Gottes Zorn auf sich zieht; vgl. z.B. Jes 30, 1-7; Jer 2, 36.</fn> in nomine domini profiteretur, necessum foret. Certe quicunque casus me oppressurus sit in professione confessionis nostr{e}, quam et catholicam et orthodoxam ecclesi{e} Christi esse non dubito! Fortiter persistam per Christum, qui me corroborabit,
+<fn>Vgl. 1Tim 1, 12.</fn> in quo omnia,
+<fn>Vgl. Kol 2, 10.</fn> sine quo nihil et sumus et possumus.
+<fn>Vgl. Joh 15, 5; Apg 17, 28; Phil 4, 13.</fn><zzl>zl17082-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17082-1A</zzl>Respondebo autem tuis literis peramice, quamprimum bellici tumultus vel paululum quieverint,
+<fn>Siehe oben <qv>fn17082-4</qv>. - Dies ist der letzte bekannte Brief an Bullinger von dem damals 45 Jahre alten Pistorius (gest. 1580).</fn> aut, si ita visum est domino, ut ecclesias nostras hosti devastandas permiserit, meque ex hisce malis in hac vita liberaverit, forte coram hisce de rebus loquemur. Te enim non plane mentem meam intellexisse video nostrorumque sententiam
+<fn>über das Abendmahl.</fn> percepisse, eorum maxime, qui dextre hac de re loquuntur. Nolo enim me iungere iis, qui adfirmant ea, qu{e} ignorant, et docent, qu{e} non oporteat.<zzl>zl17082-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17082-5A</zzl>Si potes, oro, ut quo in statu res vestr{e} sint, mihi quoque significes, quidve tu de hoc bellico tumultu sentias.<zzl>zl17082-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17082-6A</zzl>Hisce vale in domino Iesu, Bulingere charissime, atque symmistas tuos omnes ac singulos, communes nostros dominos ac amicos, presertim Rudolphum
+<fn>Rudolf Gwalther.</fn> nostrum, saluta meo nomine quam offitiosissime, nostrasque ecclesias deo, patri domini nostri Iesu Christi, precibus vestris commendate.<zzl>zl17082-6E</zzl> Raptim, ex Martispurgo
+<fn>Hier liegt ein Wortspiel vor, welches auf den damaligen Kriegszustand in Hessen anspielt.</fn>, 18. februarii anno domini 1547.</p>
+<un>Joannes Pistorius, ex animo</un>
+<un>tuus totus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Viro et pietate et eruditione claro d. Henrycho Bulingero, ecclesiast{e} Tigurino, domino suo summopere colendo.
+<fa><i>Darunter von einer späteren Hand:</i> Joannes Pistorius.</fa>
+<fn>Dieser Brief wurde genauso wie Brief <qv>nr2818</qv> vom 20. Februar den nach Zürich zurückreisenden, oben in <qv>fn17082-1</qv> genannten Studenten anvertraut; vgl. <qv>nr2818</qv>, <qv>fn17085-1</qv>.<zfn>fn17082-2</zfn></fn></p>
+</div>
+</text>
+</brief>

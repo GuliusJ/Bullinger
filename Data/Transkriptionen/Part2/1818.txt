@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1818">
+<nr>1818</nr>
+<correspondents>
+	<originator>Philipp Gallicius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>20. November 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2064 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 185<fn>Zit.: P. Dalbert 17</fn></vo>
+<re>Sie haben Veit [Kappelerd. J.] nicht zu [Johannes] Travers geschickt, sondern zu anderen Delegierten, die gleichermaßen [für die Schule] zuständig sind; über das Resultat wird Travers Bullinger direkt informieren. Durich Chiampell übermittelt den für die Bücher ausstehenden Betrag sowie ein Viertel Kastanien durch Augustin Fries, der für den Transport bereits entschädigt wurde. Johannes Blasius' Streit mit dem [Churer] Bischof [Lucius Iter] ist nach Anhörung von Anklage und Verteidigung durch den Gotteshausbund beigelegt worden, wie [Johannes] Travers wohl bereits berichtet hat;
+Blasius musste Abbitte leisten und zehn rheinische Gulden als Entschädigung für die entstandenen Kosten bezahlen; die Päpstlichen lassen aber dennoch nicht davon ab, Blasius mit allen Mitteln zu belästigen; einige wollen Blasius und uns alle, die wir nicht päpstlich predigen, verbannen, aber Gott wird den Seinen zur Seite stehen; es wäre allerdings besser gewesen, wenn Blasius [den Dialog (vgl. oben Nr. 1798)] nicht verfasst hätte; dies kann nun aber nicht rückgängig gemacht werden, und eine Entlassung wäre angesichts seiner Verdienste absolut ungerechtfertigt. Gallicius leitet Bullingers Brief an Johannes Travers zur Einsichtnahme weiter. Gallicius selbst kehrt in den Kirchendienst [nach Lavin] zurück; über die Gründe, weshalb er nicht mehr länger die Last eines Schulamts tragen will, müsste er weitläufiger berichten. Gruß.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 57f, Nr. 44.]
+</content>
+</letter>

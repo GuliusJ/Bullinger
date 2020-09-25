@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1433">
+<nr>1433</nr>
+<correspondents>
+	<originator>Thomas Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>16. November 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 40 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 157</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 60f, Nr. 886</dr>
+<re>Bittet um Weiterleitung eines Briefs an Jakob Zorn. Der Konstanzer Rat legt Zürich ein bisher ungeregeltes
+eherechtliches Problem zur Stellungnahme vor: Eine Frau hatte Umgang mit einem Mann, der geschieden war, weil seine Frau mit
+dem Mann der ersteren Ehebruch begangen hatte. Wegen der Anstößigkeit dieses besonderen Falles neigen manche zu
+übertriebener Strenge und stellen die Wiederverheiratung unschuldig Geschiedener in Frage; gewiß wird der Zürcher Rat
+Bullingers Meinung dazu einholen. Vom Zeugnis, das Konstanz für Michael [Back] erbittet, wird er von anderer Seite hören.
+</re>
+<note>Zuchtherrenbuch in Konstanz erst ab 1547 überliefert, aber Ratsbücher könnten etwas hergeben.</note>
+<tx>S. Epistolam hanc, quam ad Iacobum Zornum Constantiensem
+conscripsi<f1>Nicht erhalten.<fe>, illi ut reddi cures, te rogo.
+^$Senatus noster scribit vestro<f1>Der Entwurf zu dieser Missive vom 15. November findet sich in Konstanz, Stadtarchiv, B II 38, 88; zur Sache vgl. auch unten Nr. 1434, 30-32.<fe> consilium conferens de stupro eius, quę
+cum repudiatę marito se miscuit, repudiatę vero ob
+adulterium commissum cum viro nunc impregnatę, primum de
+pena dubitans, quę hactenus nulla est constituta. Novitas
+autem facti quosdam videtur plus iusto irritare ad vitii
+alioqui etiam impunis animadversionem; deinde hęrent
+plerique, num fas sit eos ipsos, quorum coniuges propter
+unum adulterium iure sunt dimissi (cum<fx>^#/+vor der Klammer gestrichenes^#/- ut ipsi innocentes matri.<fe> sint innocentes et
+utrique cum aliis matrimonium contrahere sit liberum),
+nuptias meditari. Non videntur subesse vinculorum (quo minus
+id liceat) causę; sed offendiculum et<fx>^#/+vor^#/- et ^#/+gestrichenes^#/- esse.<fe> rem pravi exempli
+esse<fx>esse ^#/+über der Zeile nachgetragen.^#/-<fe> clamant.
+Senatus vester haud dubie tuam sententiam intelliget, quapropter eius te placuit admonere<fx>^#/+in der Vorlage^#/- admonuere.<fe><f1>Über die Stellungnahme der Zürcher ist nichts bekannt.<fe>.
+^$Ex aliis intelliges de testimonio, quod a vestris petimus
+Michaelis gratia<f1>Zum Zeugnis für Michael Back s. unten Nr. 1435, 2-16 (vgl. auch Nr. 1434, 27-29).<fe>.
+^$Vale, charissime Bullingere, cum tuis omnibus.
+^$Constantię, 16. novembris 1540.
+<un>Thomas Blaurerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Henricho
+Bullingero, evangelicę ve­ritatis preconi apud Tigurum,
+fratri suo. Zurch.
+</content>
+</letter>

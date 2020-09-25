@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2817">
+<brief>
+<id>17084</id>
+<nr>2817</nr> <from persid="Bullinger"/> <to persid="VadianJoachim"/> <place plid="Zürich"/> <date when="1547-02-20"/>
+<ae>Bullinger an Joachim Vadian</ae>
+<od>Zürich, 20. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 185 (ohne Siegel)</vo>
+<dr>Druck: <a>Vadian BW</a> VI 601f, Nr. 1519 <k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 106 </k></dr>
+<re><t>Sicherlich hat Vadian die vertraulichen Briefe [nicht erhalten] empfangen, die Bullinger durch Augustin Ruch
+<fn>Vielleicht ein Nachkomme oder Verwandter des ehemaligen Kanzlers der Abtei St. Gallen, Augustin Ruch; s. Conradin <i>Bonorand,</i> Vadians Humanistenkorrespondenz mit Schülern und Freunden aus seiner Wiener Zeit: Personenkommentar IV zum Vadianischen Briefwerk, St. Gallen 1988, S. 218. - Nicht auszuschließen ist die Möglichkeit, dass der hier erwähnte Briefüberbringer namens Augustin Ruch identisch ist mit dem jungen, damals in Zürich studierenden Augustin, dessen Familienname nicht eruiert werden konnte (s. <a>HBBW</a> XVIII 185f, Anm. 12).<zfn>fn17084-2</zfn></fn> und den [Oberstzunft]meister Hans Wegmann befördern ließ.</t>
+<t>Es gibt kaum Neues. Bullinger erfuhr aus einem vertrauenswürdigen Brief [nicht erhalten], dass der nach Konstanz gezogene Ulmer Hauptmann Marcell Dietrich von Schankwitz sich in Begleitung des sächsischen [Feldherrn] Johann von Heideck
+<fn>Nachdem sich Herzog Ulrich von Württemberg dem Kaiser unterworfen hatte, trat Heideck in den Dienst der niedersächsischen Städte; s. <a>ADB</a> XI 294.<zfn>fn17084-4</zfn></fn> über das Zürcher Gebiet nach Basel begeben habe.
+<fn>Diese Meldung ist fragwürdig, zumal Schankwitz am 19. und 25. Februar in Konstanz nachzuweisen ist (s. <qv>nr2816</qv>,<qv>zl17083-5</qv>; <qv>nr2824</qv>,<qv>zl17090-1</qv>), wo er sich noch bis März 1548 aufhielt; s. <qv>nr2762</qv>, <qv>fn17030-4</qv>. Eine Reise nach Basel zwischen dem 26. Januar (<qv>nr2771</qv>,<qv>zl17038-8</qv>) und dem 19. Februar ist allerdings nicht auszuschließen. Schankwitz könnte dabei das Schloss Dübelstein (in der Nähe von Dübendorf, Kt. Zürich) besichtigt haben, da er vorhatte, es auf den Namen seines Sohnes zu erwerben; s. <qv>nr2824</qv>,<qv>zl17090-2</qv>.<zfn>fn17084-3</zfn></fn></t>
+<t>Die Berner haben eilig einen Tag zu Baden für den Sonntag Invokavit [27. Februar] einberufen
+<fn>Dieser am 16. Februar abgefasste Brief der Berner an den Zürcher Rat ist in Zürich StA, A 177, Nr. 171, erhalten. - Die Sitzungen der Tagsatzung begannen am 28. Februar; s. <a>EA</a> IV/1d 771. Die Abgeordneten trafen aber bereits am 27. in Baden ein; s. <qv>nr2820</qv>,<qv>zl17086-12</qv>. Dank des Vergütungseintrages zugunsten der beiden dahin gesandten Zürcher (Johannes Haab und Itelhans Thumysen) weiß man, dass Letztere dort acht Tage verbrachten (Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 48 der "Reitenden Boten").<zfn>fn17084-1</zfn></fn>. Die St. Galler werden von den Zürchern darüber informiert.</t>
+<t>Herzog Christoph von Württemberg und Graf Georg von Württemberg-Mömpelgard sollen ihr Land dem französischen König Franz I. verpfändet haben, der in Mömpelgard überall das Zeichen der Lilie anbringen lässt. Ob das stimmt, ist ungewiss. Johannes Gast hat dies auch berichtet.
+<fn>Siehe <qv>nr2753</qv>,<qv>zl17000-11</qv>.</fn></t>
+<t>Segenswunsch. Bullinger wollte Alexius [Knoblauch]
+<fn>Ein Bote der Stadt St. Gallen, dem vermutlich das Schreiben der Zürcher Obrigkeit in Bezug auf die kommende Tagsatzung anvertraut wurde.<zfn>fn17084-5</zfn></fn>, dem er seine Briefe [nach St. Gallen] mitzugeben pflegt, nicht ohne Nachricht gehen lassen.</t>
+<t>Gruß an Hans Widenhuber, Hieronymus Sailer und an die anderen Freunde.</t></re> <textweg>
+<p>G[nad] und f[rid]. Vergangner tagen hab ich üch, fürgeliebter herr, vilfaltig und vertruwklich geschriben, zum ersten by Augustin Ruchen, demnach by minem besonders lieben herren m[eister] Johan Wägman
+<fn>Hans Wegmann.</fn>. Vertruw, es sye üch alles eigentlich überantwort.</p>
+<p>Siderhar ist nüt nüwers, dann das Dietrych Marcell
+<fn>Marcell Dietrich von Schankwitz.</fn>, deren von Ulmm houptman, aber von Ulm gen Constantz zogen, diser tagen hie durchgeritten uff Basel. Ist mir vertruwklich geschriben, da sye der von Haidegg
+<fn>Johann Freiherr von Heideck.</fn>, saxisch, by imm gewest. So habend die von Bern ein ylenden tag beschriben
+<fn>schriftlich einberufen; s. <a>SI</a> IX 1521f.</fn> gen Baden uff Invocavit
+<fn>27. Februar 1547. - Die Tagsatzung begann am 28. Februar; s. <a>EA</a> IV/1d 771.</fn>, darvon ir ongezweifflet von minen herren selbs bericht empfangen.</p>
+<p>Die sag ist (wie waar es sye, weiß ich nitt), das hertzog Christoffel von Wirtenberg und graff Jörg
+<fn>Georg von Württemberg-Mömpelgard.</fn> ir land dem Franzosen
+<fn>Franz I.</fn> versetzt
+<fn>verpfändet; s. <a>SI</a> VII 1680.</fn>, und mache der Franzos sine schillt
+<fn>Wappen; Abzeichen; s. <a>SI</a> VIII 728-730. 734.</fn> und gylgen
+<fn>Lilien (als Symbol für Frankreich); s. <a>SI</a> I 179f; II 232.</fn> z{uo} M{uo}mpelgart uff
+<fn>mache uff: bringe an; s. <a>SI</a> IV 40.</fn>. Gastius hatt mirs ouch z{uo}geschriben
+<fn>Mit Brief <qv>nr2753</qv>.</fn>. Wyters ist mir nitt ze wüssen.</p>
+<p>Gott mitt üch. Haec scripsi, ne scriberem prorsus nihil per hunc nostrum Alexium
+<fn>Alexius Knoblauch, ein Bote zwischen St. Gallen und Zürich.</fn>, cui semper soleo meas dare. Tiguri, 20. februarii, anno 1547.</p>
+<p>Gr{ue}ssend mir früntlich Widenh{uo}bern
+<fn>Hans Widenhuber.</fn> und Saylern
+<fn>Hieronymus Sailer.</fn> sampt anderen g{uo}ten herren und fründen.</p>
+<un>H. Bullinger,</un>
+<un>der üwer.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d[octori]
+<fa><i>Textverlust durch spätere Verkürzung des Blattes, sodass der zweite Teil der Adresse fehlt.</i></fa> [Ioachi]mo Vadiano, c[onsuli Sangallensi], domino suo semper [observando]. Sangall[en].</p> </textweg>
+</brief>

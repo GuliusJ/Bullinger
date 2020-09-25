@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1501">
+<nr>1501</nr>
+<correspondents>
+	<originator fn=1>Hans Bock von Gerstheim</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>die übrigen Pfarrer</addressee>
+	<addressee>Lehrer von Zürich</addressee>
+	<note fn=1>Ritter Hans Bock von Gerstheim, gest. 1542, von Straßburg, studierte 1491 in Freiburg i. Br. Zwischen 1506 und seinem Todesjahr versah er zweiundzwanzigmal das Amt des Stettmeisters. 1512/13 gehörte er dem Großen Rat an;
+1510-1515 ist er als Mitglied des Rates der Fünfzehn, ab 1518 als Dreizehner nachweisbar. - Lit.: Thomas A. ^#/+Brady,^#/-
+Ruling Class, Regime and Reformation at Strasbourg 1520-1555, Leiden 1978. - Studies in Medieval and Reformation Thought XXII,
+S. 302f; Christian ^#/+Wolff,^#/- in: Nouveau
+dictionnaire de biographie alsacienne, Lfg. 4, Straßburg 1983, S. 266.</note>
+</correspondents>
+<space_time>
+	<place>[Straßburg]</place>
+	<date>19. April 1541</date>
+</space_time>
+<vo>Ausfertigung von Kanzleihand<fx>^#/+Dorsualvermerk von der Hand Johann Jakob Breitingers auf f. 331v.^#/-<fe>: Zürich StA, E II 337a, 330r.-v. (Siegel)</vo>
+<vo>Kopie: ZZB, Ms S 49, 85<fn>Erw.: Straßburg BNU, Ms 672 (ThB 13), 40.</fn></vo>
+<re>Hat nach seiner Rückkehr ihren Brief betr. Calvin erhalten; die Briefe an die Straßburger Pfarrer [Nr. 1489] sowie
+an Calvin selbst [Nr. 1490] sind bereits zuvor den Pfarrern zugestellt und von diesen wohl auch schon beantwortet
+worden [vgl. Nr. 1502f]. Will die Sache dem Rat erst vorlegen, wenn Calvin aus Regensburg zurück ist, geht aber davon
+aus, dass alle Beteiligten angemessen auf das Ersuchen Genfs [um Überlassung Calvins] antworten werden. Steht den Zürchern jederzeit zu Diensten.
+</re>
+<tx>[Gedruckt: CO XI 197f, Nr. 298; Teildruck<fx>^#/+Modernisierte, gekürzte und teilweise fehlerhafte Textwiedergabe.^#/-<fe>: Paul ^#/+Henry,^#/- Das Leben Johann Calvins, Bd. I, Hamburg 1835, Beilagen, S. 80f, Nr. 18.]
+^&x Frid unnd gnad vonn gott dem vatter durch Hiesum
+Christum, unsern lieben herren, sey euch zuvor, wurdigen,
+hochgelerten, christlichen, gunstigen, lieben hern unnd
+frundt, mit erbietung meiner gantz gutwilligen und
+fruntlichen dienst.
+^$Ich hab euwer guthertzig schrybenn betreffen hern Calphinum
+inn myner ankunnfft empfangen und gelesen. Aber die anderen
+zwen brieff, da der ein an myne lieben hern unnd frundt die
+predicanten und verkynder des wort gotts alhie zu Straßburg
+und der ander an hern Calphinum stond, sindt zuvor, und ehe
+ich anheimsch khommenn, denselbigen mynen hern und frunden
+obgenant zuhanden gestelt worden, wie dann der brieff, so an
+sie steth, von inen verlesen und, wie ich mich vesihe, ir
+antwurt uch auch zugeschribenn und mir gesagt, es soll von
+inenn hern Calphino sein brieff mit nechster bottschafft
+zugeschickt werden. Und furwar, ich khan auch uwer
+christenlich und gutt bedencken, so ir des Calphini halben
+mir zugeschriben, nit anders dann fur christenlich und
+billich erkhennen. Aber diwyl her Calphinus yetzt nit hie
+ist und nit wol mag inn seinem abwesenn fruchtbarlich
+gehandelt werdenn, hab ich euwer lieb begeren uff dismal an
+einen ersamen rhat nit gelangen lassen, will aber sollichs
+thun mit gotts hilff, sobald er sampt unsern gesanten von
+Regenspurg by unns wider ankummen, gutter hoffnung, myne
+herren und die prediger, auch Calphini nach selbs werden das
+beharrlich erfordern deren von Genff und furgegeben
+besserung der kirchen zu hertzen furen und das furnemen, das
+dieselben kirchen und gottes ehren, auch gelegenhait und
+vermögen des Calphini am gemessesten sein mag, darzu ich
+auch gern verhelffen und einen ersamen rhat truwlich ermanen
+will, und das nit allein der sachen halb, die ich nit anders
+dann fur christlich und recht verstehe, sonder auch uch,
+minen lieben hern, zu gefallen, welchen ich gern wolle
+danckbar sein des vilfaltigen gutten willens halb, so ir
+alle zu gegen mir erzöugt haben; dann uch sampt und sonders
+meins vermögens gutwillig und frundtlich dienst zu bewysen,
+sollent ir mich alleweg willig befinden. Der allmechtige
+wölle uch unnd die euwern gnediglich unnd langwurig zu
+seinen ehren erhalten.
+^$Datum, den 19. aprilis anno etc. 41.
+<un>Euwer allzyt williger Hanns Bock von Gerßheim, ritter.
+<lz>[Adresse auf f. 331v.:] Den wurdigen,
+hochgelerten, christenlichen herrenn Heinrichen Bullinger
+und anderen pfarrherren, lesern und dienern des worts gotts
+der loblichen kirchen zu Zurch, mynen gunstigen, lieben hern
+und freundt. ^&x{
+</content>
+</letter>

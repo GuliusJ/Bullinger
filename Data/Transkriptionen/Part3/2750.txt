@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2750">
+<brief>
+<id>17019</id>
+<nr>2750</nr> <from persid="FreyJohannLeopold"/> <to persid="Bullinger"/> <place plid="Biel"/> <date when="1547-01-13"/>
+<ae>Johann Leopold Frey an Bullinger</ae>
+<od>Biel, 13. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 360, 429 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Abschrift)</k></dr>
+<re><t>Frey hofft, dass es Bullinger so gut geht wie ihm selbst und den Seinen.</t>
+<t>Als er kürzlich seine [handschriftlichen] "Annotationes" zur Habgier durchging, stieß er auf die Geschichte eines Mannes [...] aus Bremgarten, die ihm einst Bullinger oder dessen verstorbene Mutter [Anna, geb. Wiederkehr] erzählt hatte. Jener Mann soll öfters gesagt haben, dass ein junger Mann alles daransetzen soll, Vermögen zu erlangen, auch wenn er dabei seine Seele verliert. An einem Sonntag offenbarte Gott allen, dass der Bremgarter dies selbst getan hatte (Bullinger weiß, wie die Geschichte weitergeht). Frey musste nun feststellen, dass er es beim Niederschreiben versäumt hatte, einige wichtige Angaben anzuführen, wie den Namen des Mannes und den Zeitpunkt des Geschehens. Da dieses Beispiel sehr geeignet ist, um die Menschen vom Geiz abzuschrecken, bittet Frey, dass Bullinger ihm die fehlenden Informationen nachliefert, damit die Geschichte an Glaubhaftigkeit gewinnt.</t>
+<t>Grüße.</t></re>
+<text>
+<div>
+<p>S. P. D. Si vales, bene est, mi pater. Ego quidem recte cum meis valeo.</p>
+</div>
+<div>
+<p>Nuper forte fortuna <zzl>zl17019-1A</zzl>meas quasdam de avaritia annotationes
+<fn>Ein solches Werk Freys ist nicht bekannt.</fn><zzl>zl17019-1E</zzl> revolvens <zzl>zl17019-2A</zzl>incidi in eius tam memorabilis exempli descriptionem, quod sive ex te sive ex pi{e} memori{e} matre tua
+<fn>Anna, geb. Wiederkehr, gest. am 16. August 1541; s. <a>HBBW</a> XI 304. - Daraus geht hervor, dass Frey schon vor seiner Anstellung 1542 in Biel engen Kontakt zur Familie Bullinger pflegte. Warum und wann genau, bleibt offen.<zfn>fn17019-1</zfn></fn> me recordor audisse de quodam viro Bremgartensi
+<fn>Unbekannt.</fn>, cui hoc assidue in ore fuit:<zzl>zl17019-4A</zzl> "Es sol ein jung man sin seel uff einen zunstecken
+<fn>Zaunpfahl.</fn> setzen, biß das er g{uo}tt überkompt"<zzl>zl17019-4E</zzl>, etc.
+<fn>Gemeint ist: Ein junger Mann soll alles daransetzen (ja sogar sein Seelenheil aufs Spiel setzen), um vermögend zu werden; vgl. <a>Wander</a> IV 493f, Nr. 62. 85.</fn> Atque quod ipse docebat verbis, re quoque praestitisse deus notabili casu manifestum reddidit. Nempe, quod die quodam solis, etc. (rem capis)
+<fa><i>Hier und unten Klammern ergänzt.</i></fa>.<zzl>zl17019-2E</zzl> <zzl>zl17019-3A</zzl>In hoc vero repperi magnum scriptur{e} hiatum, quoniam et nomen miseri illius viri et tempus mihi, cum scriberem, exciderat. Quum vero factum sit dignissimum, quod aliquando ad deterrendam avarorum temerariam impietatem prodeat, oro, mi pater, ne me celes viri
+<fa><i>Über der Zeile nachgetragen.</i></fa> nomen (cui
+<fn>Damit ist Frey gemeint.</fn> c{e}tera sunt nota), quin etiam tempus assigna propter maiorem certitudinem, si tenes.<zzl>zl17019-3E</zzl></p>
+</div>
+<div>
+<p>Salutant te nostri. Salutabis meo nomine tuos omnes, etc. Vale et me, ut assoles, ama. Biellnis, ianuarii 13. anno 1547.</p>
+<un>Totus, quantus est, tuus</un>
+<un>Io. Leop. Fry.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Piissimo doctissimoque viro d. Heinrycho Bullingero, Tigurin{e} ecclesi{e} pastori vigilantissimo, patri suo plurimum semper colendo. Zürich.</p>
+</div>
+</text>
+</brief>

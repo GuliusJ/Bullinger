@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1988">
+<nr>1988</nr>
+<correspondents>
+	<originator>[Ambrosius Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>18. September 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 97 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 179^&x{
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 298, Nr. 1123</dr>
+<re>Der Kaiser soll Châlons[-en-Champagne] unter großen Verlusten eingenommen haben und dabei etliche Grafen [Graf Renatus von Nassau], unter anderem Wilhelm von Fürstenberg, verloren haben. Andrea [korrekt: Gianettino] Doria hat Galeeren des Papstes [Paul^#. III.] gekapert, weil dieser ihm nicht das Geld zukommen ließ, das ihm von seinem Cousin, dem Kardinal [Gerolamo Doria], vermacht worden war; ferner hat der Papst auf listige Weise einen Verwandten [Ranuccio Farnese] zum [Erz-] ^@+Bischof von Neapel ernannt, welcher jedoch sogleich von [Ferrante I. Gonzaga] beraubt und verjagt wurde.
+Der neue Kurfürst [Friedrich II. von der Pfalz] will [die Reformation in] Heidelberg [einführen] und wünscht dazu die Hilfe von Philipp [Melanchthon] und [Martin] Frecht; der Diakon [Konrad Konstanzer] predigt mit großem Applaus das Evangelium in Ravensburg. Frankreichs Konnetabel [Anne de Montmorency] soll sich unter anderem mit Herzog [François I.] von Lothringen bei [Maria von Ungarn], der Schwester [Karls V.], um den Frieden bemühen; auch soll der Herzog von Orléans [Charles II.], der jüngere Sohn von [Franz^#. I.], die Nichte des Papstes, die Witwe Vittoria [Farnese], heiraten; ferner sollen sich 5'000 türkische Reiter nach Buda begeben haben und Heuschrecken Österreich plagen.</re>
+<tx>Man schribt und sagt, der kaiser<f1>Karl^#. V.<fe> hab Schalon<f1>Châlons-en-Champagne.<fe> mitt dem
+sturm erobert, aber wol 8000 davor veloren[!], vyl
+treffelicher leut, under denen ettlich grauffen, ouch grauff
+Wilhalm von Furstenberg, der vor frantzösisch gewest sein
+soll, und ettlich hunderte edling.<f1>Auch bei Châlons kam es zu keiner eigentlichen Schlacht, sondern nur zu einer Art Stellungskrieg mit geringen Verlusten auf beiden Seiten, auch wenn dabei am 15. Juli 1544 Graf Renatus von Nassau (René de Chalon), Prinz von Oranien, umkam; s. ^#/+Paillard^#/- 135-139. Zu Blarers Korrektur dieses Gerüchts s. unten Nr. 1994, 12-14. - Wilhelm von Fürstenberg wurde nicht getötet, sondern gefangen genommen; s. oben Nr. 1987, Anm. 7^&xvom 2. auf den 3. September bei der Erkundung einer Furt in der Marne gefangengenommen; s. ^#/+Paillard^#/- 324-330 - wurde zu Nr. 1987 transportiert^&x{.<fe>
+^$Andre Doria<f1>Nicht der Admiral Andrea Doria (1466-1560), sondern dessen Neffe Gianettino Doria (1510-1547), der von Andrea zum Stellvertreter zur See eingesetzt wurde und im August 1544 Galeeren des Papstes gekapert haben soll, eine Handlung, die vom Kaiser sogleich missbiligt wurde; s. ^#/+Rozet/Lembey^#/- 135.<fe> hat dem papst ettlich gale<f1>Galeeren.<fe> nidergeworffen von
+wegen, das im ain cardinal, sein nechster vetter,<f1>Es handelt sich wohl um Kardinal Girolamo (Gerolamo) Doria (1495-1558), einen Sohn Andrea Dorias und somit Cousin von Gianettino. Näheres zu dieser Geldangelegenheit ist nicht bekannt. - Lit.: Matteo ^#/+Sanfilippo,^#/- in: DBI XLI 333-336.<fe> ettlich
+tausend ducaten verschafft und legiert<f1>vermacht.<fe> und im der papst<f1>Paul^#. III.<fe>
+die selbigen nitt hat zuͦstellen wellen, sonder gesagt, er
+hab des nitt gwalt; es seye gaistlich guͦt. So hat der
+papst ain vetter<f1>Cousin.<fe> intrudieren<f1>einsetzen, einführen.<fe> wellen zuͦ ainem bischoff in
+Neaplis wider iren bruch und freyhait; hat inn ouch hinein
+gepracht durch practic<f1>Intrigen.<fe>;<f1>Ranuccio Farnese (1530-1565), ein Enkel Pauls III., folgte 1544 Francesco Carafa als Erzbischof von Neapel. - Lit.: Gigliola ^#/+Fragnito,^#/- in DBI XLV 148-160^&xs. ^#/+Pastor^#/- 535, Anm. 2.^&x{.<fe> aber darnach gleych ist der vicerey<f1>Ferrante I. Gonzaga (1507-1557), Vizekönig Siziliens, der jedoch damals an der Seite des Kaisers kämpfte.<fe>
+zuͦgefaren<f1>scharf eingeschritten.<fe>, hat in geplundert unnd alles genommen, ouch
+inn verjagt<f1>Das Gerücht ist falsch.<fe>.
+^$Heidelbergam restituere meditatur novus elector<f1>Friedrich II. der Weise von der Pfalz (1482-1556).<fe>, in qua re<fx>re ^#/+korrigiert aus^#/- de.<fe>
+operam Philippi<f1>Philipp Melanchthon; vgl. dazu MBW, Regesten IV, Nr. 3641.<fe> et Frechti<f1>Martin Frecht.<fe> desiderat.<f1>^&!s(-70)Friedrich II., der am 16. März 1544 seinem Bruder Ludwig V. als Kurfürst nachfolgte, war zwar nicht zuletzt wegen seiner engen Verbindung zu Karl^#. V. nach außen hin katholisch, hatte aber als Pfalzgraf den oberpfälzischen Landständen schon 1538 die freie evangelische Predigt und das Abendmahl unter beiderlei Gestalt gewährt. In Heidelberg selbst unterstützte Friedrich den reformatorischen Prediger an Heiliggeist und Theologieprofessor Heinrich Stoll, den er 1546 zum Rektor der Universität ernennen ließ. Friedrich selbst bekannte sich erst 1545 offen zum neuen Glauben, als er an Ostern das Abendmahl in beiderlei Gestalt einnahm. - Lit.: Anton ^#/+Schindling^#/- und Walter ^#/+Ziegler,^#/- Kurpfalz, Rheinische Pfalz und Oberpfalz, in: Die Territorien
+des Reichs im Zeitalter der Reformation und Konfessionalisierung, Land und Konfession 1500-1650, Bd. 5: Der
+Südwesten, Münster 1993. - Katholisches Leben und Kirchenreform im Zeitalter der Glaubensspaltung 53, S. 8-49, bes. 16-22; Hans ^#/+Rott,^#/- Friedrich II. von der Pfalz und die Reformation, Heidelberg 1904. - Heidelberger Abhandlungen zur mittleren und neueren Geschichte 4, bes. S. 8f. 41-44.^&!s(+0)<fe> Apud Ravenspurgum
+Christi evangelium magno omnium plausu a quodam diacono<f1>Der Diakon der Liebfrauenkirche, Konrad Konstanzer aus Ehingen an der Donau, hielt am 29. Juni 1544 die erste lutherische Predigt in Ravensburg; vgl. Paul ^#/+Warmbrunn,^#/- Zwei Konfessionen in einer Stadt. Das Zusammenleben von Katholiken und Protestanten in den paritätischen Reichsstädten Augsburg, Biberach, Ravensburg und Dinkelsbühl von 1548 bis 1648, Wiesbaden 1983, S. 58-63, bes. 59^&xMartin ^#/+Brecht^#/- und Hermann ^#/+Ehmer,^#/- Südwestdeutsche Reformationsgeschichte. Zur Einführung der Reformation im Herzogtum Württemberg 1534, Stuttgart 1984, S. 184f; Zeitschrift für württemberg. Landesgeschichte, Bd. 29, S. 91^&x{.<fe>
+recens vocato predicatur, ut nemo dubitet Christum ibi
+regnaturum.
+^$Affirmant Gallicum constabel<f1>Anne de Montmorency.<fe> (ut vocant)<fx>^#/+Die schließende Klammer ist ergänzt worden.^#/-<fe> cum caesaris
+sorore<f1>Maria von Ungarn, Statthalterin der Niederlande.<fe> et ducibus nonnullis, inter quos etiam Lotharingus<f1>Herzog François I. von Lothringen, der seinem am 14. Juni 1544 verstorbenen Vater nachgefolgt war. - Zu François' Beteiligung am Frieden s. z.B. ^#/+Paillard^#/- 367f.<fe>,
+anxie laborare pro pace.<f1>Der Friede von Crépy-en-Laonnois (Aisne); s. unten Nr. 1992, Anm. 8.<fe> Item ducem Aureliacensem, regis
+Gallorum<f1>Franz^#. I.<fe> iuniorem filium<f1>Charles II. (1522-1545), Herzog von Angoulême und Orléans.<fe>, viduę, cui Victorię nomen<f1>Vittoria Farnese (1521-1602), die Tochter Pier Luigi Farneses; vgl. ^#/+Pastor^#/- 500.<fe>,
+neptis pontificis Romani<f1>Paul^#. III.<fe>, connubium ambire.<f1>Die Vermählung kam nicht zustande. Andere Quellen sprechen von Verhandlungen über eine Heirat Herzog Charles' mit einer Tochter Karls V. (Maria von Spanien; 1528-1603) oder König Ferdinands (Anna von Österreich; 1528-1590); vgl. etwa ^#/+Cardauns^#/- 346.<fe> Item 5000
+equites Turcicos Budam venisse.<f1>Nicht nachweisbar^&xnichts in ^#/+Hammer-Purgstall^#/- zu 1544 etc: ZB 27.214:d^&x{.<fe> Item mirę magnitudinis
+locustas Austriam vexare.<f1>Die Nachrichten in diesem Absatz stammen aus einem Brief Bucers an Martin Frecht, aus dem Frecht wiederum einen Auszug in seinem Brief an Ambrosius Blarer vom 8. September 1544 zitierte (s. Blarer BW II, Nr. 1117, S. 287-289, bes. 289). - Ganz Mitteleuropa wurde besonders in der ersten Hälfte der 1540er Jahre immer wieder von Heuschreckenplagen heimgesucht; vgl. etwa Heinz-Dieter ^#/+Krausch,^#/- Die Invasionen von Locusta migratoria migratoria L. (Orthoptera, Acrididae) in die Niederlausitz, in: Monatsberichte der Deutschen Akademie der Wissenschaften zu Berlin. Mitteilungen aus Mathematik, Naturwissenschaft, Medizin und Technik, Bd. 8, Berlin 1966, S. 557-559 (hier S. 558); vgl. auch eine Mitteilung Melanchthons vom 20. September, dass König Ferdinand beim Einzug in Wien von einem Heuschreckenschwarm überfallen wurde (MBW, Regesten IV, Nr. 3689).<fe>
+^$18.<fx>18. ^#/+korrigiert aus^#/- 17.^&xoder aus 14?? Nein, denn vergleiche das 7 im Brief von Blarer an Bullinger vom 7. Oktober 1544 und siehe auch im vorliegenden Brief vom 18. September, wie er die 4 in der Jahreszahl 1544 macht: das 4 ist hier nicht möglich - evtl. nur undeutlich ge-/verschrieben^&x{<fe> septembris 1544.
+<lz>[Adresse auf der Rückseite:] Incomparabilis
+doctrinę ac pietatis virod. Heinricho Bullingero, domino
+ac fratri suo colendissimo etc. Zürich.
+</content>
+</letter>

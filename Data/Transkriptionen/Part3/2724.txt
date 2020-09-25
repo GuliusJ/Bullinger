@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2724">
+<brief>
+<id>16413</id>
+<nr>2724</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1546-12-25"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>[Zürich], 25. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 184 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 150. ===== Verweise: Johannes Blasius an HB, 25. Dez. "1546" (Graubünden, Korr. I 103f, Nr. 78) und Georg Frölich an HB, 25. Dez. "1546", E II 346, 194, "Die 4. huius mensis", siehe je recte: 25. Dezember [1545] (Weihnachtsstil, Inhalt -> Jahres-Korrektur) ===== </k></dr>
+<re><t>Gute Wünsche zum neuen Jahr, auch an Myconius' Gattin [Margret] und an die Hausangehörigen. Im Hinblick auf die gegenwärtigen Gefahren kann man Glückwünsche brauchen!</t>
+<t>Die Stadt Ulm wird keine Lorbeeren für Tapferkeit ernten, denn angeblich hat sie sich recht leicht mit dem "Sanherib" [Kaiser Karl V.] ausgesöhnt! Dies als vertrauliche Mitteilung. Nördlingen, Giengen, Bopfingen, Dinkelsbühl, Rothenburg ob der Tauber und Schwäbisch Hall befinden sich in der Hand des Kaisers. Bullinger macht sich große Sorgen um den gelehrten [Johannes] Brenz. Reutlingen und Esslingen sind wegen der Besetzung Weinsbergs durch die weiter [südwärts] voranrückenden Kaiserlichen bedroht. [Die Festungen] Schorndorf und Asperg [bei Stuttgart] sind [aber noch von Herzog Ulrich von Württemberg] besetzt. Dieser ist am Dienstag [21. Dezember] mit 200 Pferden [südwärts] auf die [Festung] Hohentwiel [im Hegau, in der Nähe von Konstanz] geflüchtet. Jetzt wird es um die Kornkammer der Eidgenossenschaft geschehen sein! Da aber diese mehrheitlich zum Kaiser hält und sich der Krähe [des habsburgischen Hauses] unterwürfig erzeigt hat, verdient sie es, vom Kolkraben [Karl V.] ausgeraubt zu werden. Gott wird aber die Seinen behüten!</t>
+<t>Der Zürcher Rat hat einen [Eil]boten [Melchior Vogel] mit einem Brief an Herzog Ulrich nach Hohentwiel geschickt. In dem Brief fragen die Zürcher als befreundete Nachbarn nach dem Stand der Dinge. Der Bote wird wohl morgen oder am Montag [27. Dezember] wieder in Zürich sein.</t>
+<t>Im gegenwärtigen Unglück muss das Volk zum Gebet und zur Buße angehalten werden, denn bestimmt wird nun auch die Eidgenossenschaft bedroht!</t>
+<t>Was hat Myconius über die Niederlande und Frankreich erfahren?</t>
+<t>Gestern hat Bullinger vergeblich auf [Francisco de] Enzinas gewartet, der vermutlich durch die Arbeit aufgehalten wurde. Grüße an ihn. Gruß auch an [Johannes] Gast. Dieser soll die Wolle mit dem gegenwärtigen Boten [...] senden, falls er es noch nicht getan hat. Bullinger erwartet noch eine Antwort auf seinen vorigen Brief [<qv>nr2721</qv>].</t>
+<t>[Darunter eine später eingetragene Notiz von Myconius:] Aus Konstanz wird gemeldet, dass König [Christian III. von] Dänemark gegen Herzog Moritz [von Sachsen] gezogen sei und viele tausend Mann getötet habe.</t></re>
+<text>
+<div>
+<p>Früntlicher, fürgeliebter herr und br{uo}der, ich wünschen üch, üwer lieben hußfrowen
+<fn>Margret [...]; s. <a>HBBW</a> V 380, Anm. 18.</fn> und dem gantzen hußgesind
+<fn>Die Angehörigen eines Hauses.</fn> von gott durch unsern herren ein g{uo}t glückhafft jar. Des bed{oe}rffend wir ouch wol, dann die sachen stand gantz spitzig
+<fn>schwierig; s. <a>SI</a> X 709f.</fn> und gfarlich. Gott der allm{ae}chtig w{oe}lle sich unser erbarmen.</p>
+</div>
+<div>
+<p><zzl>zl16413-9A</zzl>Ulm wil
+<fn>wird; vgl. <a>SI</a> XV 1164f. (unter <gr>e</gr>).</fn> nitt vil g{uo}ts rh{uo}mbs haben der dappfferkeit.
+<fn>Zu verstehen: Ulm wird sich nicht als besonders tapfer rühmen können. - Siehe dazu die Verweise in <qv>nr2716</qv>, <qv>fn16405-3</qv>.</fn> Man mumlet
+<fn>Man mumlet: Es geht das Gerücht um; s. <a>SI</a> IV 228.</fn>, sy vertr{ue}gend sich gern mitt dem Sanherib
+<fn>Kaiser Karl V., in Anspielung auf den Judäa gegenüber feindlich gesinnten Assyrerkönig Sanherib; s. 2Kön 18f; 2Chr 32; Jes 36f. - Vielleicht deutet dies auf Bullingers Kenntnis einer Schrift von Jakob Schopper, Prediger in Biberach, hin, die in Ulm bei Hans Varnier (<a>VD16</a> ZV24891) und in Straßburg (nicht in <a>VD16</a>, doch erhalten in Zürich ZB, 18.270/7 und beschrieben in Gedeon <i>Borsa,</i> Katalog der Drucke des 16. Jahrhunderts in der Österreichischen Nationalbibliothek Wien, Bd. 12, S838, S. 259-261) gedruckt wurde unter dem Titel: "Sch{oe}ne außlegunge deß XVIII. und XIX. Cap. im II. B{uo}ch der künig, wie Sanherib, ein Gottloser Künig der Assyrer, den frommen künig Ezechiam verfolget hat ... z{uo} trost allen frommen Christen, so z{uo} unser zeit von wegen Gottes Worts verfolgung leiden m{ue}ssen".</fn>; quod tibi dictum volo. N{oe}rlingen
+<fn>Zur Ergebung von Nördlingen s. <qv>nr2700</qv>, <qv>fn16388-5</qv>.</fn>, Giengen,
+<fn>Giengen an der Brenz ergab sich Ende November; s. den Brief des Konstanzer Rats an den Zürcher Rats, 4. Dezember 1547 (Zürich StA, A 177, Nr. 150 - zitiert in <a>PC</a> IV/1 510, Anm. 1).</fn> Boppffingen,
+<fn>Am 26. November unterwarf sich Bopfingen dem Kaiser, der dort vom 26. bis 29. November lag und dessen Truppen in der Stadt randalierten; s. Gerhard <i>Kumpf,</i> Die schwäbische Reichsstadt Bopfingen in den Stürmen der Reformations- und Interimszeit, in: <a>BWKG</a> LIX, 1959, 110; <a>Stälin</a> 579.</fn> Dinckelspühel, Rotenburg an der Tuber, Hall in Schwaben,
+<fn>Zur Unterwerfung Dinkelsbühls, Rothenburgs ob der Tauber und Schwäbisch Halls s. <qv>nr2701</qv>, <qv>fn16389-7</qv>; <qv>nr2701</qv>, <qv>fn16389-6</qv>; <qv>nr2722</qv>, <qv>fn16411-4</qv>.</fn> alles und noch mee vomm keyser yngenommen!<zzl>zl16413-9E</zzl> <zzl>zl16413-1A</zzl>Ich bin gantz angsthafft umb den herrlichen gelerten Brentium.
+<fn>Vermutlich wegen der ihm von Blarer gesandten Abschrift eines vom 13. Dezember datierten Briefes von Brenz an Bucer; s. <qv>nr2722</qv>,<qv>zl16411-2</qv>.</fn> Der allm{ae}chtig gott erhallte inn.<zzl>zl16413-1E</zzl> <zzl>zl16413-3A</zzl>Rütlingen und Eßlingen stand in gfaar,
+<fn>Siehe dazu <qv>nr2722</qv>,<qv>zl16411-5</qv>.</fn> dann Winsperg
+<fn>Weinsberg (Lkr. Heilbronn, Baden-Württemberg), etwa 50 km nördlich von Stuttgart; s. <qv>nr2722</qv>, <qv>fn16411-5</qv>.</fn> und anders darumb
+<fn>anders darumb: andere, um Weinsberg gelegene Orte. - Zum Einfall der Kaiserlichen im Weinsberger Tal s. <a>Heyd, Ulrich von Württ.</a> III 448.</fn> in Wirtemberg ist schon von keyserischen yngenommen. Die ziehend für. Das land ist erschrocken. <zzl>zl16413-4A</zzl>Schorndorff
+<fn>Schorndorf (Lkr. Rems-Murr-Kreis, Baden-Württemberg), etwa 30 km östlich von Stuttgart.</fn>, der Asperg
+<fn>Die Festung Hohenasperg bei Asperg (Lkr. Ludwigsburg, Baden-Württemberg), etwa 18 km nördlich von Stuttgart.</fn>, etc., ist besetzt.<fn>Gemeint ist (angesichts von Bullingers Quelle <qv>nr2722</qv>,<qv>zl16411-3</qv>. <qv>zl16411-8</qv>), dass die Festungen durch Herzog Ulrich von Württemberg besetzt wurden. Zu diesem Zeitpunkt kam es nämlich (zumindest im Falle von Hohenasperg) nicht zu einer kaiserlichen Besetzung; s. Max <i>Biffart,</i> Geschichte der Württembergischen Veste Hohenasperg und ihrer merkwürdigsten Gefangenen, Stuttgart 1858, S. 20-22.<zfn>fn16413-3</zfn></fn><zzl>zl16413-4E</zzl>
+<zzl>zl16413-8A</zzl>Der hertzog
+<fn>Ulrich von Württemberg.</fn> ist jetzund zinstags
+<fn>Den 21. Dezember.</fn> mitt 200 pferden uff Hohen-Twyel
+<fn>Hohentwiel bei Singen (Lkr. Konstanz) im Hegau, nur 60 km nördlich von Zürich; s. <qv>nr2722</qv>,<qv>zl16411-3</qv> und <qv>fn16411-1</qv>.<zfn>fn16413-1</zfn></fn> entritten. <zzl>zl16413-5A</zzl>Ich f{oe}rcht, es sye uns umb unsern brotkasten
+<fn>Kornkammer; s. <a>SI</a> III 539. - Vgl. schon <qv>nr2721</qv>,<qv>zl16410-6</qv>; <qv>nr2722</qv>,<qv>zl16411-9</qv>. <qv>zl16411-10</qv>.</fn> gethan!<zzl>zl16413-5E</zzl><zzl>zl16413-3E</zzl> Und beschicht uns eydgnossen eben r{ae}cht, dann meerteyls orten g{oe}nend dem keysser g{uo}ts. Dorumb sind wir w{ae}rt, das uns der rapp
+<fn>Kolkrabe (hier sinnbildlich für den Kaiser). - Zur Gefräßigkeit der Raben s. <a>SI</a> VI 1168f.</fn> fügeli
+<fn>"vogele", im Sinne von "ausraube"; s. <a>SI</a> I 698.</fn>, diewyl wir der schwartzen kreyen
+<fn>Die Krähe befindet sich im Wappen Tirols (s. <a>SI</a> III 804), das seit dem 14. Jh. im Besitz der Habsburger steht, gegen welche die Eidgenossen sich laut Bullingers Meinung während des Schmalkaldischen Krieges allzu unterwürfig erwiesen hätten.</fn> so hold sind. Gott aber wirt die sinen nut des minder erhallten. Dem h{oe}rt der sig alein.
+<fn>Vgl. 1Sam 17, 47.</fn><zzl>zl16413-8E</zzl></p>
+</div>
+<div>
+<p>Min herren habend hütt ein botten
+<fn>Melchior Vogel; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 64 der Ausgabenabteilung für laufende Boten.</fn> hinw{ae}g gesandt. Sol louffen tag und nacht uff Thwyel
+<fn>Twiel, damaliger Name der Festung auf dem Hohentwiel (s. oben <qv>fn16413-1</qv>), ein Sitz der württembergischen Herzöge.</fn>. <zzl>zl16413-2A</zzl>Geschriben an hertzogen,
+<fn>Gemeint ist der Brief des Zürcher Rates an Ulrich von Württemberg vom 25. Dezember 1546 (Zürich StA, B IV 16, f. 77r.), der vom Herzog bereits am 26. Dezember beantwortet wurde; s. <a>Heyd, Ulrich von Württ.</a> III 447.</fn> wie doch die sach stande; darumb beg{ae}rind sy alls trüw nachpuren bescheid, etc.<zzl>zl16413-2E</zzl> Achtend, der bott werde morn oder uff montag
+<fn>Den 27. Dezember.</fn> wider hie sin.</p>
+</div>
+<div>
+<p>Nostri officii fuerit in tantis calamitatibus inhortari populum ad preces assiduas et ad poenitentiam. Certo, certo inveniet et nos malum istud!</p>
+</div>
+<div>
+<p>Lieber, was habend ir uß dem Niderland und uß Franckrych?</p>
+</div>
+<div>
+<p><zzl>zl16413-10A</zzl>D. Dryandrum
+<fn>Francisco de Enzinas. - Er wohnte damals in Basel und hatte vor, zu Weihnachten nach Zürich auf Besuch zu kommen; s. <qv>nr2694</qv>, [5]; <qv>nr2718</qv>, [3].</fn>, deß ich gester gewartet (aber gedencken mag, imm sye ze schaffen worden)
+<fa><i>Klammern ergänzt.</i></fa>, gr{ue}ssend mir. Wünschend imm vil g{uo}ter jaren, ouch d. Gastio.<zzl>zl16413-10E</zzl> Habend diß gemein <vl>184v.</vl> mitt inen. <zzl>zl16413-11A</zzl>Beschickend Gastium, bittend inn vo[n]
+<fa><i>Hier und unten im engen Einband verdeckt.</i></fa> minetw{ae}gen, das er mir die wollen [ze] würcken
+<fn>sticken, weben; s. <a>SI</a> XVI 1479.</fn> <zzl>zl16413-7A</zzl>by disem botten
+<fn>Unbekannt.</fn> <zzl>zl16413-7E</zzl> z{uo}schicke, so f[eer] er sy koufft und sy noch nitt gesandt hat.
+<fn>Es kam dazu, und Johannes Gast legte seiner Sendung einen Brief vom 28. Dezember (<qv>nr2728</qv>) bei.</fn> Ich hab uff min ersts schryben
+<fn>Gemeint ist Bullingers Schreiben an Myconius vom 20. Dezember, in dem die Angelegenheit schon angesprochen wurde; s. <qv>nr2721</qv>,<qv>zl16410-4</qv>.<zfn>fn16413-2</zfn></fn> noch ke[in] antwort empfangen.<zzl>zl16413-11E</zzl> Gott mitt üch allen.</p>
+<p>Datum uff dem heyligen tag der gepurt u[n]sers herren Christi, anno 1547
+<fn>Der Brief ist im Natalstil datiert.</fn>, z{uo} 5 [ur] nach mittag.</p>
+<un>H. Bullinger.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl16413-6A</zzl>[Darunter Notiz von Myconius:] Ex Constantia. Danus
+<fn>König Christian III.</fn> contra Mauricium
+<fn>Herzog Moritz von Sachsen.</fn> duxit exercitum et occidit multa millia.
+<fn>Zu diesem falschen Gerücht s. <qv>nr2722</qv>,<qv>zl16411-4</qv>. - Dieser Eintrag wird wohl entstanden sein, als Myconius vom Inhalt des Briefes von Konstanz an Zürich vom 23. Dezember (Zürich StA, A 177, Nr. 154) erfuhr, den der Zürcher Rat dem Basler Rat mitgeteilt hatte; s. <qv>nr2729</qv>,<qv>zl16418-2</qv>. Einige Tage später, am 3. Januar 1547, fragte der Basler Rat beim Straßburger Rat nach, ob es wahr wäre, dass Herzog Moritz König Christian besiegt hätte; s. <a>PC</a> IV/1 553, Nr. 512.</fn><zzl>zl16413-6E</zzl></p>
+<lz/>
+<p>[Adresse darunter:] Sinem fürgeliebten herren und br{uo}der, h. Oßwalden Myconien, predicanten z{uo} Basel.</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="25162">
+<nr>25162</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Calvin</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>30. September 1555</date>
+</space_time>
+<vo>Genf 114, 94. / Orig.</vo>
+<dr>Ep. Calv. 2310 (XV, 8o4).</dr>
+<re></re>
+<note></note>
+S. D.   Accipe, carissime mi frater et domine colendissime,
+exempla epistolarum harum. Putavi in his esse quae te omnino
+scire conveniat. Ideo per generum meum describi curavi.
+Copiosiores literas adferetd. Thomas Leverus Anglus, cui
+heri tibi ferendas tradidi. Opportune nunc aderatd. Crispinus noster, cui has dare volui.  Vale.  Tiguri, ultima
+septemb. 1555.
+Bullingerus tuus.
+Clarissimo virod. Ioanni Calvino, Genevensis ecclesiae
+pastori fidelissimo, domino colendissimo et fratri carissimo
+suo.
+</content>
+</letter>

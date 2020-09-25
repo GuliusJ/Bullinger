@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2682">
+<brief>
+<id>16369</id>
+<nr>2682</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-17"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 17. November 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 259 (neu: 276) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 86</k></dr>
+<re><t>Myconius hat zwei Briefe [<qv>nr2671</qv> und <qv>nr2672</qv>] zusammen abgeschickt und vorher jeden sich ihm darbietenden Boten in Anspruch genommen. Warum klagt also Bullinger, dass er selten schreibe? Und wie soll er denn wissen, ob er alle Briefe Bullingers erhalten hat oder nicht? Aus den Antworten sollte dies ersichtlich werden.</t>
+<t>Er bedauert, eine falsche Meldung über Papst [Paul III.] und Kaiser [Karl V.] verbreitet zu haben. Er dachte nämlich, dass alle Nachrichten aus Konstanz (die Quelle seiner Information) glaubwürdig wären ...</t>
+<t>Bullingers Mitteilung über den treulosen [Herzog] Moritz [von Sachsen] ist wirklich schlimm. Myconius hätte dies nie von Moritz gedacht! Weniger furchterregend ist der Abzug des Kurfürsten [Johann Friedrich von Sachsen] aus dem [protestantischen Feldlager]. Schon lange finden manche, dass dieser besser daheim geblieben wäre. Ein guter Mann [...] schrieb neulich, dass die besten Reiter im Heer die Hessen und Pfälzer seien; die [Sachsen] sind so, wie man sie kennt. Wenn der Kurfürst nicht am Krieg teilgenommen hätte, wäre dieser wohl schon beendet. Angeblich war das kaiserliche Heer [den Schmalkaldenern] schon dreimal ausgeliefert; der Kurfürst soll aber verhindert haben, dass diese Gelegenheiten genutzt wurden. Dennoch wird Gott wohl wie bisher für die Seinen sorgen.</t>
+<t>Ziemlich viele kaiserliche Landsknechte ziehen in der Nähe von Basel durch. Sie werden vom kaiserlichen Heer entlassen worden oder von dort geflohen sein. Deshalb erwartet man bald gute Nachrichten aus [Zürich]. Auch die eidgenössischen Söldner kehren aus Straßburg und von woanders zurück. Man verspricht sich also für einige Monate Ruhe.</t>
+<t>[Antoine] Morelet [du Museau], der Gesandte des französischen [Königs Franz I.], reiste dieser Tage für zwei Monate nach Frankreich, und zwar mit königlicher Bewilligung. Manche freuen sich darüber, weil sie denken, dass Morelet den König im gemeinsamen Interesse [aller Protestanten] unterweisen wird. Myconius hingegen setzt sein Vertrauen auf Gott allein.</t>
+<t>Die Söldner, die aus dem kaiserlichen Lager in die Nachbarschaft von Basel zurückkehren, bleiben stumm! Nur schon ihre Traurigkeit lässt erkennen, dass ihnen übel mitgespielt wurde. Auf die Frage über den Verlauf des Krieges antwortete einer [...] aus dem Dorf Landser, dass diejenigen, die es wissen wollen, selbst hingehen müssen. Im Dorf Grenzach sagte ein erfahrener Kriegsmann [...], dass er unter keinen Umständen wieder zum Kaiser ziehen wolle.</t>
+<t>Gerade kommt der Bote [...]. Myconius muss schließen. Gruß.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16369-3A</zzl><zzl>zl16369-1A</zzl>Binas
+<fn>Nämlich die Briefe <qv>nr2671</qv> und <qv>nr2672</qv> vom 12. November.</fn> iam postremo simul misi<zzl>zl16369-1E</zzl> et antea nullum tabellionem, quantum sciverim, meis non oneravi. Miror ergo, quod conquereris
+<fn>In einem nicht erhaltenen Brief.</fn> rarius me scribere.<zzl>zl16369-3E</zzl> Ignoro autem, si non accepi omnes, quas tu dedisti, nam ex actorum ordine patere videtur, quod dico.</p>
+</div>
+<div>
+<p><zzl>zl16369-2A</zzl>Mendacia spargi
+<fn>Nämlich mit <qv>nr2658</qv>,<qv>zl16347-12</qv>.</fn> dolet; putaram ego nihil ex Constantia scribi non verissimum; nam inde fuit, quod narratum est de papa
+<fn>Paul III.</fn> contra c{e}sarem
+<fn>Karl V.</fn><zzl>zl16369-2E</zzl>. </p>
+</div>
+<div>
+<p>De Mauricio
+<fn>Moritz von Sachsen. - Bezug auf Bullingers Mitteilung in <qv>nr2659</qv>,<qv>zl16348-3</qv>. <qv>zl16348-1</qv>.</fn> profecto male nuncias. Iurassem fuisse bonum virum! Doleo valde perfidiam eius. <zzl>zl16369-4A</zzl>Quod abit autem elector
+<fn>Kurfürst Johann Friedrich I. von Sachsen, der im Begriff stand, in sein Herzogtum aufzubrechen; s. <qv>nr2662</qv>, <qv>fn16351-3</qv>.</fn> ad suos liberandos, non valde me terret. Nam quod adtinet ad ipsum, scio, qui
+<fn>Zum Beispiel Bucer; s. dessen Brief an Myconius vom 26. Oktober 1546 (Zürich StA, E II 358, 1706) - wir danken Rainer Henrich für diesen Hinweis.</fn> iam pridem optassent fuisset domi. De equitibus eius scripsit nuper bonus vir
+<fn>Unbekannt.</fn>: "Ex equitibus optimi sunt Hessici et Palatinenses. <gr>Oȋ moísioi</gr>
+<fn>Die Meißener. - Offensichtlich benutzt Myconius hier diese Bezeichnung für die Sachsen allgemein.</fn> sui sunt similes". Si abfuisset, putant quidam iam debellatum esse. Constat enim tertio in manus datum c{e}saris exercitum, si ille
+<fn>Der Kurfürst.</fn> rem non impedivisset.<zzl>zl16369-4E</zzl> Age, dominus invocandus ut hactenus, et sperandum firmiter daturum esse, quod dedit hucusque.</p>
+</div>
+<div>
+<p><zzl>zl16369-5A</zzl>Transeunt milites c{e}sareani satis multi iuxta urbem nostram. Nemo aliter putavit quam vel dimissos a c{e}sare vel fuga elapsos. Expectavimus ergo l{e}tum a vobis nuncium aliquod.<zzl>zl16369-5E</zzl> <zzl>zl16369-6A</zzl>Redeunt item Helvetii ab Argentinensibus et aliunde.
+<fn>Zu den von Straßburg angeworbenen Söldnern aus der Eidgenossenschaft s. <a>HBBW</a> XVII 134. 208. 235. 246. 251. 260. Die bei Ulm dienenden Eidgenossen waren ebenfalls schon Anfang November beurlaubt worden; s. <qv>nr2660</qv>, <qv>fn16349-1</qv>.</fn><zzl>zl16369-6E</zzl> Quare persuasimus nobis ad menses aliquot tranquillitatem.</p>
+</div>
+<div>
+<p><zzl>zl16369-7A</zzl>Legatus Galli
+<fn>König Franz I. (gest. 31. März 1547).</fn> Maurus
+<fn>Der ordentliche französische Botschafter Antoine Morelet du Museau war am 5. November 1546 von Basel nach Frankreich abgereist. Ihm folgte interimistisch François de La Rivière (November 1546 bis Februar 1547). Unter Heinrich II. wurde Morelet du Museau erst wieder im Februar 1551 (und dies bis Oktober 1552) ordentlicher Botschafter Frankreichs in der Schweiz; s. Edouard <i>Rott,</i> Histoire de la Représentation Diplomatique de la France auprès des Cantons Suisses, de leurs Alliées et leurs Confédérés, Bd. I: 1430-1559, Bern 1900, S. 334. 430-433. 565.<zfn>fn16369-1</zfn></fn> illis diebus abiit in Galliam. Ad hoc enim rex concessit duos menses. Sunt, qui ob id gaudeant. Arbitrantur enim regem instructum iri a legato in rem communem.
+<fn>Gemeint ist die gemeinsame Angelegenheit der Protestanten in ihrer Auseinandersetzung mit Kaiser Karl V.</fn><zzl>zl16369-7E</zzl> Dominus vero mihi adiutor; et non timebo, quid faciat mihi homo.
+<fn>Ps 118 (Vulg. 117), 6; Hebr 13, 6.</fn></p>
+</div>
+<div>
+<p><zzl>zl16369-8A</zzl>Qui redeunt a c{e}sare circa Basileam, piscibus sunt magis muti.
+<fn>Siehe <a>Adagia</a> 1, 5, 29 (<a>ASD</a> II/1 502-504, Nr. 429); <a>Wander</a> IV 940f, Nr. 13.</fn> Tristicia sola docent non actum secum feliciter. In pago Lanser
+<fn>Landser (Dép. Haut-Rhin, F), im Elsass, etwa 25 km nordwestlich von Basel.</fn> quidam
+<fn>Unbekannt.</fn> rogatus est a suis: "Quid ais? qui successit? loquere vel verbum!" Nihil respondet nisi: "Gand
+<fn>Gehet.</fn> und erfarends als wol als ich." In pago Krentzach
+<fn>Grenzach (Lkr. Lörrach, Baden-Württemberg), 6 km östlich von Basel.</fn> est, qui
+<fn>Unbekannt.</fn> dixit: "Mir gescheche ja glich wol old wee
+<fn>wol old wee: Gutes oder (s. <a>SI</a> I 187) Schlechtes.</fn>, zum keyser kumm ich nümmermee!" Und der ist ein kriegsman von juget
+<fn>Jugend.</fn> uff ...<zzl>zl16369-8E</zzl></p>
+</div>
+<div>
+<p>Adest, qui
+<fn>Unbekannt.</fn> has
+<fn>vorliegenden Brief.</fn> vult auferre. Desinere cogor. Vale per Christum Iesum. Basile{e} raptim, 17. novembris anno 1546.</p>
+<un>Tuus Myco.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, domino suo venerandissimo. Zü[rich]
+<fa><i>Textverlust bei Entfernung des Siegels.</i></fa>.</p>
+</div>
+</text>
+</brief>

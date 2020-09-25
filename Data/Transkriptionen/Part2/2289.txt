@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2289">
+<nr>2289</nr>
+<correspondents>
+	<originator>Georg Frölich</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>20. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 171 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 118 ^&x{
+<re>Wie kann Frölich dem gewissenhaften Korrespondenten Bullinger gleichkommen? Er möchte weder Inhaltsloses schreiben noch aus Nachlässigkeit schweigen, obwohl Schweigen aufgrund der vielen Staatsgeschäfte möglich wäre; doch seinem Freund Bullinger gegenüber bricht er sein Schweigen gern.
+-^#. Zur großen Freude Frölichs und des [Augsburger] Rats ist Johannes Haller in Begleitung von [Hans] [W]ilpert [Zoller] und Huldrych Zwingli [d.J.] eingetroffen. Sie wurden auf das Freundlichste empfangen. Man hat mit ihnen bei den Bürgermeistern [Jakob Herbrot und Hans Welser] gespeist und ihnen das Zeughaus und die Bibliothek gezeigt.
+-^#. Haller wird bis zur endgültigen Regelung seiner Anstellung bei Frölich wohnen. Er soll nicht nach Kaufbeuren oder an einen anderen Ort geschickt werden. Er gehört nach Augsburg, wo er als Zeichen der Freundschaft mit den Zürchern bleiben soll! Frölich wird ihm jederzeit zur Seite stehen.
+-^#. Der [Augsburger] Rat hat die Beherbergung von [Zwingli d.J. und Zoller] bezahlt und auch die Reisekosten des Letzteren übernommen; Frölich wird sich um diejenigen von Haller kümmern.
+-^#. Frölich ist auch der Meinung, dass die [Protestanten] in ihrem Verfahren mit [Herzog Heinrich von] Braunschweig darauf achten sollten, nicht eine ähnliche Strafe wie Ahab und Abimelech auf sich zu ziehen. Landgraf [Philipp von Hessen] wird aber schon wissen, wie mit Sieg und Rache umzugehen ist, auch wenn [Heinrich] wohl nicht hingerichtet, sondern zu lebenslanger Haft verurteilt wird, da das kaiserliche Recht zwischen [Adligen] und Personen niederen Standes unterscheidet.
+-^#. Der [Braunschweiger] Krieg ist beendet, wie Frölich schon kurz in einem Brief [Nr. 2285] berichtet hatte, der hoffentlich Bullinger aus Konstanz übermittelt wurde. Seitdem ist Landgraf [Philipp von Hessen] weitergezogen und hat den Herzog [Franz I. von Sachsen-]Lauenburg sowie die Grafen von Oldenburg und Schaumburg zur Unterwerfung bewogen. Er hat außerdem das wie Wolfenbüttel stark befestigte Schloss des Grafen [Otto IV.] von Rietberg erobert. Zu Frankfurt wird man über die Zukunft [des Schmalkaldischen Bundes] beraten.
+-^#. Grüße an [Hans Rudolf] Lavater, Stadtschreiber [Hans Escher vom Luchs] und die Gelehrten. Bullinger wird ein Geschenk erhalten.</re>
+<tx>S. Ad copiosas, pias atque diligentes literas tuas<f1>Wohl generell gemeint; vgl. oben Nr. 2185, 1f. - Zu den zuletzt erhaltenen Briefen von Bullinger, die Frölich bereits beantwortet hatte, s. oben Nr. 2285, Anm. 2. Durch Haller wird Frölich einen weiteren Brief Bullingers (nicht erhalten) empfangen haben.<fe>, Henriche vita mea mihi charior, quid respondeam, plane ignoro;
+nam nihil omnino rescribere<fx>re- ^#/+in^#/- rescribere ^#/+über der Zeile nachgetragen.^#/-<fe> negligentię, lacera autem et<fx>et ^#/+über der Zeile nachgetragen.^#/-<fe> inepta ędere stupiditatis est,
+quanquam hisce diebus per nimias occupationes in reipublicae negotiis causandi silentium campus pateret.
+Sed quis somnus tam dulcis, tam quoque necessarius esse queat, qui non propter unicum et excellentem amicum sit rumpendus?
+^$Advenit huc dominus Ioannes Hallerus, comitatus Hilberto, patritio Tigurino<f1>Hans Wilpert Zoller; s. oben Nr. 2284, 34-36, und Frölichs Brief vom 25. Dezember, unten Nr. 2313. - Zum Ankunftsdatum der Reisenden s. unten Nr. 2290, Anm. 1.<fe>, et Ulricho Zvinglio<f1>Huldrych Zwingli d.J.; s. oben Nr. 2284, 34-36.<fe>!
+Bone deus, qua alacritate, quanto etiam gaudio affecit pectus meum, imo et totum Augustanum senatum!
+Conati igitur sumus illos habere humaniter. Pransi sumus in consulum nostrorum<f1>Jakob Herbrot und Hans Welser; vgl. unten Nr. 2290, 44f.<fe> aedibus.
+Armamentaria vidimus, bibliothecam itidem. Preclara admodum aedifitia fuerunt adhuc lustranda.
+Sed profecto me occupationes impediverunt, ne copiam<fx>copiam in hoc fęcerim ^#/+vor der Zeile nachgetragen.^#/-<fe> in hoc fęcerim. Spero homines optimos hęc minutula boni consulturos.
+^$Dominus Hallerus in aedibus meis morabitur et de mensa mea participabit,
+donec utrimque fiat periculum, ipsique certa habitatio et conditio designabitur.<f1>Haller wurde schließlich am 2. Januar 1546 definitiv angestellt, woraufhin er zurück nach Zürich reiste, um seine Familie zu holen, und Ende Februar wieder nach Augsburg zurückkehrte; s. ^#/+Roth^#/- III 239f; ^#/+Bähler,^#/- Haller 13-18.<fe>
+Ad Kauffbeuranos vel alios barbaros nobis minime mittetur. Cur enim debeat is,
+qui ex singulari amicitia nobis datus<fx>datus et ^#/+vor der Zeile nachgetragen.^#/-<fe> et tantopere quęsitus, aliis communicari?
+Noster, noster erit Hallerus! Noster inquam in perpetuum Tigurinorum et Augustanorum amicitię<fx>amicitię ^#/+über der Zeile nachgetragen.^#/-<fe> pignus.
+Neque dubites, quin a nostris suorum laborum et virtutum pręmia condigna sit percepturus.<f1>Schon in seinen früheren Briefen hatte Frölich beteuert, dass Haller in Augsburg selbst und nicht anderenorts eingesetzt werden sollte; s. oben Nr. 2270, 18-24; Nr. 2285, 15f.<fe>
+Ego quidem, quantum mea tenuitas fert, nunquam illi deero.
+^$Quos Halleri comites in hospitio hic sumptus fecerunt, magistratus noster solvit.
+Dedit quoque equiti vestro<f1>Damit ist Zoller gemeint, der oben Nr. 2284, 36, als ^#/+veredarius^#/- bezeichnet ist.<fe> honorarium et viaticum, quo poterit in reditu ad vos vivere.
+Quantum ad Halleri expensas itineris<fx>itineris ^#/+über der Zeile nachgetragen.^#/-<fe> pertinet, ego tempore suo patrocinabor.
+^$Scite et pie sentis,<f1>In einem der nicht erhaltenen Briefe Bullingers; s. oben Anm. 1 und Nr. 2285, Anm. 2. - Darin wird eine ähnliche Äußerung wie oben Nr. 2284, 38-42, gestanden haben.<fe> quid cum capto tiranno Brunsvicensi<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> agi debeat,
+ne in pęnam Achab<f1>Zu Ahab s. oben Nr. 2284, Anm. 16f.<fe> et Abimelec<f1>Abimelech, Sohn Gideons, der all seine Rivalen umbrachte, sich dadurch verhasst machte und einen gewaltsamen Tod auf sich zog; s. Ri 9, 1-50. - Frölich (und vielleicht schon Bullinger in seinem an Frölich gerichteten und nicht mehr erhaltenen Brief) befürwortet also weder die Straffreiheit noch die Hinrichtung Heinrichs von Braunschweig und der Adeligen, die während des Braunschweiger Kriegs gefangen wurden.<fe> incidamus. Neque ego puto landgraphium<f1>Philipp von Hessen.<fe> esse tam stupidum,
+ut nesciat uti victoria et vindictam de hoste sumere. Verumtamen auguror ipsum tirannum capite non plecti,
+sed ad perpetuos carceres damnari, id quod vigore legum mortis pęnę loco censetur.
+Statuit enim ius cesaręum discrimen inter illustres et humili loco natas personas.
+Spero tamen futurum ipsum exemplum sui similibus perpetuum.
+^$Der krieg hat ain ennde.<f1>Der Braunschweiger Krieg.<fe>
+Ich hab euch jungst den rechten grund<f1>Tatbestand.<fe>, wiewol mit kurtz<f1>mit kurtz: in Kürze.<fe>, geschrieben,<f1>Im Brief vom 12. November, oben Nr. 2285.<fe> guͦter hoffnuͦng, es sei euch von Costantz aus zukumen.
+Seithere ist mein genediger herr landgraf weitter zogen. Hat den hertzogen von der Lauenburg<f1>Herzog Franz I. von Sachsen-Lauenburg.<fe>,
+die graven von Oldenburg<f1>Besonders Anton I. von Oldenburg-Delmenhorst; s. oben Nr. 2094, 24-26 und Anm. 29f.<fe> unnd graven von Schaumburg<f1>Johann V. von Schaumburg (Schauenburg); s. NBD VIII 456f und Anm. 4.<fe>
+dahin gedrungen, das sie sich mit uns vertragen und verschreiben<f1>(schriftlich) verpflichten.<fe> haben muͦssen.<f1>Zur Unterstützung Herzog Heinrichs durch die genannten Adligen s. ^#/+Ißleib^#/- 34, Anm. 102; PC III 530.<fe>
+So ist er dem graven von Ritperg<f1>Otto IV. von Rietberg; s. dazu oben Nr. 2287, Anm. 17.<fe> fur sein schloß, welchs wol so fesst als Wulffenbeuttl, zogen.
+Die habens ime auch auffgeben, allso das yederman wider heimzeucht<fx>^#/+Randbemerkung von Frölichs Hand:^#/- Nota, diese haben hertzog Henrichen hilff gethon.<fe>.
+Zu Franckfurt 6. decembris würdt geratschlagt werden, was witter zu thun sein will.<f1>Zum Schmalkaldischen Bundestag in Frankfurt s. oben Nr. 2285, Anm. 37.<fe>
+^$Gruest mir den herrn burgermaister Lavatern<f1>Hans Rudolf Lavater.<fe>, herrn statschreiber<f1>Hans Escher vom Luchs.<fe>, all mein günstig herren literatos. Mnemosinon<fx>Mnemosinon olim ad te veniet ^#/+am Rande nachgetragen.^#/-<fe> olim ad te veniet.<f1>Dazu kam es nie; s. oben Nr. 2285, Anm. 9.<fe>
+^$Eilends, 20. novembris 1545.
+<un>Tuus totus et ex animo G. Laetus, etc.
+<un>archigrammateus Augustanus.
+<lz>[Adresse auf f. 171a,v.:] Virtutibus et erudicione incomparabili viro domino Henricho Bullingero, ecclesiastae vigilantissimo, amico et fratri, etc. Tiguri.<f1>Vorliegender Brief wie auch die Briefe Nr. 2287. 2290f. 2293-2296 wurden Bullinger durch Zwingli d.J. überbracht; s. unten Nr. 2290, 57f; 2302, 1-9; 2303.<fe>
+</content>
+</letter>

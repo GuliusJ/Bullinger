@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2586">
+<brief>
+<id>16275</id>
+<nr>2586</nr>
+<ae>[Eberhard von Rümlang] an Bullinger</ae>
+<od>[Bern], 15. September 1546</od>
+<vo>Autograph: Zürich ZB, Ms A 69, 23r., Nr. 9 (ohne Siegel)
+<fn>Siehe dazu unten <qv>fn16275-1</qv>.</fn><k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 155</k></vo>
+<dr>Ungedruckt</dr>
+<re>Die Störenfriede [Beat Gering und Simon Sulzer] haben versucht, sich der vom Berner Rat getroffenen [Pfarrer]wahl eines Zürchers [Jodocus Kilchmeyer] zu widersetzen. Sie sei illegitim und verletze die geistliche Autorität. Die Beispiele [der biblischen Machtinhaber] Josaphat, Hiskija, Josia, Judas Makkabäus und Kyros [II.] zeigen jedoch, dass Behörden über eine Macht in kirchlichen Angelegenheiten verfügen.
+<t/>Bullinger soll also darauf achten, dass [Kilchmeyer] nicht die vom Heiligen Geist veranlasste Berufung ausschlägt. [Kilchmeyer] kann [in Bern] auf Unterstützung rechnen.
+<t/>Gruß.</re>
+<text>
+<p>Scias, Bullingere, quod turbatores
+<fn>Beat Gering und Simon Sulzer.</fn> nostri egerrime ferant, quod magistratus Tigurinum
+<fn>Zur Wahl des Jodocus Kilchmeyer s. <qv>nr2583</qv>, <qv>fn16272-2</qv>.</fn> elegerit, quem ipsi non nominarunt.
+<fn>Zu den von Gering und Sulzer vorgeschlagenen Kandidaten s. <qv>nr2583</qv>, <qv>fn16272-1</qv>.</fn> Voluerunt itaque impedire eius vocationem quasi non legitimam, <zzl>zl16275-1A</zzl>et quod violarant
+<fn>Subjekt sind die Ratsherren.</fn> ecclesiasticam autoritatem.
+<fn>Vgl. <qv>nr2587</qv>,<qv>zl16424-1</qv>. - Zur Autoritätsfrage der Geistlichen s. <qv>nr2584</qv>,<qv>zl16273-4</qv>. <qv>zl16273-5</qv>.</fn><zzl>zl16275-1E</zzl> Sed novimus de Josaphat, Josia, Ezechia, Iudeo Machabeo et Cyro rege,
+<fn>Gemeint sind die jüdischen Reformkönige Josaphat (1Kön 22, 41-44; 2Chr. 17, 3-9); Hiskija bzw. Ezechia (2Kön 18, 1-6), Josia (2Kön 22, 1 - 23, 28), der jüdische Widerstandskämpfer Judas Makkabäus (1Makk 3ff), und der persische judenfreundlich gesinnte König Kyros II. (2Chr 36, 22f; Jes 44, 28 - 45, 4).</fn> quid magistratus possit in ecclesiasticis rebus ministrisque ordinandis.</p>
+<p>Proinde effice omni modo, ne recuset
+<fn>Subjekt ist Kilchmeyer.</fn> vocationem a spiritu sancto pr{e}stitam. Habebit constantes adstipulatores
+<fn>Nämlich die zwinglisch Orientierten in Bern.</fn>.</p>
+<p>Vale. Datum 15. septembris anno, etc., 46., etc.</p>
+<un>Tuus Eb.</un>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Dieses auf einem kleinen Zettelchen verfasste Schreiben wurde höchstwahrscheinlich den Briefen <qv>nr2584</qv> und <qv>nr2587</qv> beigelegt.<zfn>fn16275-1</zfn></fn></p>
+</text>
+</brief>

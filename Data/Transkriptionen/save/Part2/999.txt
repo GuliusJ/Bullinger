@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="999">
+<nr>999</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>22. Mai 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 261 (Siegelspur)</vo>
+<dr>Teildrucke: Corr. des réformateurs IV 235f, Nr. 631; CO X/2 104, Nr. 61</dr>
+<re>Ist erst dann bereit, sein Haus an den Spitalmeister abzutreten, wenn ein gleichwertiger Ersatz zur Verfügung steht. An der Lausanner Synode vom 14. Mai hat Claude [d'Aliod] seine arianische Irrlehre widerrufen, während Farel, Calvin und andere vom Verdacht entlastet wurden; die einhellig
+beschlossene
+Amtsenthebung von Caroli wird durch die [Berner] Obrigkeit zweifellos bestätigt werden. Auf den 30. Mai wird wegen des Konflikts mit Sebastian [Meyer] eine Synode nach Bern einberufen; Megander wünscht die Teilnahme Bullingers oder Juds.
+</re>
+<tx>Gratiam a domino.
+^$Retulit mihid. Caspar Nazal<f1>Kaspar Nasal.<fe>, idem scribit et frater meus<f1>Welcher der wahrscheinlich vier Brüder Meganders (vgl. Zürich ZB, Ms E 18, 170r.) gemeint ist, läßt sich nicht feststellen, da der Brief verloren ist.<fe>, venerandos dominos meos domum meam praefecto et oeconomo
+hospitalis designasse<f1>Meganders Haus an der Brunngasse 1 (Ass.-Nr. 433) wurde 1538 (oder doch schon 1537?) dem Spitalmeister Hans Lindiner zugewiesen (s. Zürich StA, G I 189, im alt foliierten Teil f. 6r.; vgl. ^#/+Vögelin,^#/- Das alte Zürich I 416, sowie unten Nr. 1080, 10-12).<fe>. Quod per me
+licebit, hac tamen
+condicione, ut alia mihi ordinetur nec antea eciam suppellectilem meam efferre cogar, quam sit mihi constituta et
+ordinata comoda et apta. Domum ludimoderatoris Binderi<f1>Georg Binder hatte 1536 das Haus zum Loch (Römergasse 13 / Zwingliplatz 1, Ass.-Nr. 226) zugewiesen erhalten
+(s. Zürich ZB, Ms Car C 44, 908; vgl. ^#/+Vögelin,^#/- Das alte Zürich I 327f).<fe> plane
+nolo; quamobrem, hic non scribam. Curate ac cavete, obsecro, ne mihi vel illa aut similis ordinetur; quod si minus, fidem
+et literas mihi datas<f1>Megander bezieht sich auf die Ratsurkunde vom 3.[!] März 1528, in der sein vorläufiger Wechsel nach Bern geregelt und sein Anrecht auf die bisherige Wohnung festgehalten worden war; s. Hans-Peter ^#/+Hasse,^#/- Zum Aufenthalt Karlstadts in Zürich (1530-1534), in: Zwa
+XVIII/4+5, 1990/91, S. 368, Anm. 12. Am 24. Oktober 1537 ließ sich Megander die Gültigkeit der Zusagen vom Rat nochmals bestätigen; s. Zürich StA, B V 8, 93f.<fe> appellabo.
+^$Synodus fratrum Gallorum decimo quarto maii me praesente Lauzannę celebrata<fx>^#/+in der Vorlage^#/- cebrata.<fe> atque foelicissime transacta est<f1>Zur Lausanner Synode s.
+^#/+Bähler,^#/- Caroli 74-79; Corr. des réformateurs IV 235, Anm. 1, sowie unten Nr. 1010, 58-62.<fe>.
+Claudius Sabaudus<f1>Claude d'Aliod.<fe> Arrionissmum<f1>Als "Arianismus" wurden antitrinitarische Lehren bezeichnet.<fe> revocavit. Farellus, Calvinus multique alii fratres, viri pii ac doctissimi,
+malo huius heresis iniquius aspersi et insimulati sunt. Charolus<f1>Pierre Caroli.<fe>, qui hanc tragediam movit, non ob eam solum, sed impia,
+vana et rara quędam alia communibus fratrum sufragiis munere suo privatus est. Non dubito dominos quoque hanc
+fratrum sententiam adprobaturos<f1>Die Entlassung Carolis und seine Ersetzung durch Viret erfolgten mit dem Schreiben Berns an Lausanne vom 7. Juni (Corr. des réformateurs IV 238, Nr. 633).<fe>.
+^$Synodus item cogetur in urbem nostram huius mensis penultima sub noctem propter causam Sebastiani<f1>Sebastian Meyer. - Vgl. Meganders ausführlichen Bericht unten Nr. 1010, 1-65, sowie zur Vorgeschichte oben Nr. 989, 23-30.<fe>. Quam turbarit miser
+homo ecclesiam, haud dubie magno cum dolore brevi audietis. Cuperem alterum vestrum<fx>vestrum ^#/+am Rande nachgetragen.^#/-<fe> synodo nostra nobiscum esse.
+Operam dabimus, ne scindamur. Orate deum hunc fortitudinis ac pacis, ut efficiat, quo nihil adfectu, sed omnia iuxta
+suam voluntatem perficiamus.
+^$Bene valete.
+^$Bernę, 22. maii anno 37.<un>Megand. totus vester.
+<lz>[Adresse auf der Rückseite:] Bullingero ac Leoni<f1>Leo Jud.<fe>, viris piis et doctissimis, amicis et fratribus suis
+observandissimis. Zurich.
+</content>
+</letter>

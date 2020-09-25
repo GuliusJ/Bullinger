@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2809">
+<brief>
+<id>17077</id>
+<nr>2809</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1547-02-12"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>St. Gallen, 12. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 39 (ohne Siegel)</vo>
+<dr>Druck: <a>Boehmer, Dryander</a> 407, Nr. 21;<br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 190-193, Nr. 24<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 98; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 236 (Schmidt); Madrid BN, 8862 suelto und f. Ddro 22.</k></dr>
+<re><t>Enzinas würde viel lieber mit Bullinger persönlich sprechen, als ihn, der so beschäftigt ist, mit einem Brief zu stören. Doch muss er den beiliegenden, an Bernardino Ochino gerichteten Brief übermitteln, damit Bullinger ihn schnellstmöglich weiterleiten kann.</t>
+<t>Enzinas wird in drei oder vier Tagen
+<fn>Felicitas Sailer, das Patenkind Enzinas', war einige Tage zuvor zur Welt gekommen; s. <qv>nr2796</qv>, <qv>fn17065-1</qv>.<zfn>fn17077-1</zfn></fn> nach Zürich aufbrechen. Dann kann man sich ausführlich über alles unterhalten.</t>
+<t>Kämen also in Zürich Briefe für Enzinas aus Basel oder aus anderen Orten an, soll Bullinger sie aufbewahren. Dies möge ebenfalls Johannes Fries mitgeteilt werden.</t>
+<t>Gruß, auch an die Kollegen.</t></re> <textweg>
+<p>S. D. Malluissem equidem coram agere apud te quam literis rursus te molestare alioqui satis occupatum, sed mittendae fuerunt hae literae ad Bernardinum
+<fn>Ochino.</fn>, quas, ut ipse mittas primo nuncio, magnopere oro.</p>
+<p>Ego proficiscar ad vos intra dies tres aut quatuor, ubi coram agemus de rebus omnibus copiosius.</p>
+<p>Interim si quae literae ad me venerint vel ex Basilea vel aliunde, eas apud te retinebis, donec ego veniam. Idem significabis Frisio
+<fn>Johannes Fries.</fn>.</p>
+<p>Saluta meis verbis omnes fratres, quos brevi deo volente videbo. Bene vale. Sangalli, 12. februarii 1547.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero. Tiguri.</p> </textweg>
+</brief>

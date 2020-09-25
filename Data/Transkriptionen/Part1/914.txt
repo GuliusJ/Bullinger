@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="914">
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Konstanz*)</place>
+	<date>18. November 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 346, 85 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Erkundigt sich nach dem Ergebnis der Basler Tagung (*vom 12.-14.
+November*), welcher Konstanz zum Missfallen der Basler
+ferngeblieben ist, und hofft, Bucer sei wieder genesen.
+Sendet die Stellungnahme der Zürcher, die in Konstanz
+Zustimmung fand, zurück und möchte wissen, wie sie (*in Basel*)
+aufgenommen wurde. Erklärt sich bereit, nach Zürich zu
+kommen, und unterstreicht die Aufrichtigkeit der Konstanzer. Grüsse.
+</statue>
+<content>
+Salus et pax Christi.
+<p>O quam cupio audire ex te, observandissime Bullingere, quid actum et conclusum Basileae+1! Utinam omnia ex verbo domini successerint! Audio Basilienses fratres nostrum adventum desyderasse, absentiam vero iniquius tulisse+2.
+Sed quid est, quod per nos potuisset fieri? Deinde audio Bucerum non per
+omnia bene habuisse+3; restitutum tamen spero. Caeterum pro tua bonitate
+et benevolentia, imo ecclesiae nostrae commodo certiores nos facies de
+omnibus scitu dignis+4.</p>
+<p>Responsionem vestram+5 legimus, et placuit. Sed miramur, quam convenerit inter vos, quid additum, quid erasum. Eam ad te remitto cum gratiarum actione.</p>
+<p>Cu^%nradus frater+6 et Thomas+7, deinde fratres symmystae optant te bene habere.</p>
+<p>Vale cum tota domo tua.</p>
+<p>18. novembris 1536.</p>
+<signature>
+Tuus Io. Zvick.
+</signature>
+<address>
+Si quae habes, quae non sint tradenda literis et quae nos hic
+scire referat, paratus sum coram ex te intelligere.
+<p>(*It*)erum+a vale, et ne cesses amare ecclesiam nostram. Insimulamur+b a quibusdam, quasi studio simus nasuti. Sed dominus novit nostras mentes. Utri rectius sapiant, probabit dominus. Nos libenter offeremus libamenta pro ignorantia
+nostra. Scientes vero non peccamus.
+(*Adresse auf der Rückseite:*) Ornatissimo viro M. Hainricho
+Bullingero, Tigurinae ecclesiae vigilantissimo antistiti, dilectissimo
+et observando suo fratri.</p>
+</address>
+</content>
+<note>
+.us; +a >Text beschädigt.
+<print>
++b>vor  insimulamur  ein gestrichenes, unleserliches Wort.
+</print>
+<address>
++1>Zur Basler Tagung vom 12.-14. November s. oben Nr. 911, Anm. 1.
++2>Konstanz war mit der Begründung ferngeblieben, man wolle Luther
+selbst antworten; s.
+oben Nr. 911.
++3>Vgl. Blarer BW II 828, Nr. 71.
++4>Bullingers Antwort ist nicht erhalten.
++5>Siehe oben Nr. 909, Anm. 1.
++6>Konrad Zwick.
++7>Thomas Blarer.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

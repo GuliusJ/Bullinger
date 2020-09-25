@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="984">
+<nr>984</nr>
+<correspondents>
+	<originator>Thomas Cranmer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lambeth</place>
+	<date>3. April 1537</date>
+</space_time>
+<vo>Teilabschrift von Johannes Keßler<fx>^#/+Eingefügt in Keßlers "Sabbata" unter dem Titel:^#/- Archiepiscopi Cantuariensis ad Hainrichum Bullingerum epistola. ^#/+Bullinger hatte das (verlorene) Autograph an Vadian gesandt; s. Keßler, Sabbata 464, 36-38.^#/-<fe>: St. Germain Kantonsbibliothek
+(Vadiana), Ms 72, 481r.-482r.</vo>
+<dr></dr>
+<re>Berichtet über einen Aufstand [die "Pilgrimage of Grace"], der entgegen Bullingers Annahme nicht die Förderung, sondern die
+Unterdrückung des Evangeliums bezweckte; er ging von Priestern und Mönchen aus, die um ihre Privilegien fürchteten, und wurde
+von unzivilisierten und räuberischen Leuten unterstützt, wie sie vor allem im Grenzgebiet zu Schottland leben. Der König
+[Heinrich VIII.] sammelte ein großes Heer, um die Treue der Untertanen zu prüfen, konnte aber die Rebellion mit einem
+kleinen Teil der Truppe rasch niederwerfen; die Aufrührer wurden bis auf wenige Ausnahmen begnadigt. Dank diesem Krieg hat sich der
+Widerstand gegen das Evangelium verringert; ähnlich wie [in Deutschland] nach dem Bauernkrieg steht nun die Neuordnung der
+kirchlichen Verhältnisse unter günstigen Vorzeichen. Die Forderungen der Aufständischen waren: Wiedereinführung des Papsttums und
+seiner Irrlehren; Verbot der Schriften Luthers, Melanchthons, Oekolampads und aller Deutschen; Restitution der
+Klöster; Auslieferung Cranmers und der Bischöfe von Worcester [Hugh Latimer], Rochester [John Hilsey] und Salisbury [Nicholas Shaxton].
+</re>
+<tx>[Gedruckt: Keßler, Sabbata 463,22-464,35.]
+</content>
+</letter>

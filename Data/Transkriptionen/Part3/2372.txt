@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2372">
+<brief>
+<id>16063</id>
+<nr>2372</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 7. März 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 208 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 122</k></dr>
+<re>Den Bücherkatalog kann Gast erst dann schicken, wenn er alle Druckereien durchstöbert hat. Die Ausgabe von Boethius' Werken wird Bullinger mit der Büchersendung für [Christoph] Froschauer empfangen. Gast wird der Sendung auch [je] einen Brief von Gilbert Cousin an Bullinger und an [Rudolf] Gwalther beilegen. [Etwaige] Antworten an Cousin kann Gast gerne weiterleiten, denn zu Ostern [25. April] wird Cousins Bruder [Antoine?] wieder in Basel sein.
+<t/>Der Meldung einiger Kaufleute zufolge hat [Cheireddin] Barbarossa den König von Tunis [Kalif Achmed III.] gefangen genommen. "Algerien" sei besetzt, und die Spanier seien in Gefahr. Daher eile Kaiser [Karl V.] nach Regensburg, um die Religionsangelegenheit zu regeln und von dort weiter nach Italien und Spanien zu gelangen. Käme er doch nie zurück! Er wird auch von körperlichen Leiden heimgesucht, und er hat schlechte Berater, die aus Furcht, dass ihnen etwas entgehen könnte, keinen guten Rat annehmen.
+<t/>Grüße an Theodor [Bibliander], [Konrad] Pellikan und Gwalther.</re>
+<text>
+<p>S. in domino. <zzl>zl2372-1A</zzl>Catalogum librorum nunc non mitto, quia nondum perreptavi typographias
+<fn>Druckereien; s. <a>Ramminger</a> s.v.</fn> omnium.<zzl>zl2372-1E</zzl> Mittam autem brevi non solum librorum indicem,
+<fn>Die Sendung erfolgte erst am 7. Juni 1546; s. <qv>nr2362</qv>, <qv>fn2362-7</qv>.</fn> sed etiam quicquid volueris. Boethii opera in vas inclusi, qu{e} recipies cum libris Froscophori
+<fn>Christoph Froschauer. - Zur Boethius-Ausgabe s. <qv>nr2362</qv> und <qv>fn2362-4</qv>; <qv>nr2368</qv> und <qv>fn2368-1</qv>. Die Übermittlung dieser Edition erfolgte erst nach dem 25. März; s. <qv>nr2394</qv>,<qv>zl2394-1</qv>.<zfn>fn2372-1</zfn></fn>. Simul etiam accipies literas Gilberti nostri
+<fn>Gilbert Cousin. - Angekündigt wird hier Cousins Brief an Bullinger vom 25. März (<qv>nr2393</qv>). Gast wird davon durch Cousins Bruder Antoine (s. unten Z. <qv>zl2372-3</qv>) oder durch einen Brief Cousins erfahren haben.</fn> et ad te et Gvaltherum;
+<fn>Nicht erhalten.</fn> cui si vultis scribere, potestis ad me mittere ante paschatos festum
+<fn>25. April 1546.</fn>. <zzl>zl2372-3A</zzl>Nam in ipsa pasch{e} die reversurus ad nos est Gilberti frater<zzl>zl2372-3E</zzl>
+<fn>Vielleicht Antoine Cousin; s. <qv>nr2368</qv>, <qv>fn2368-2</qv>.</fn> coempturus libros nuper excusos.</p>
+<p>Novi nihil habeo nisi qu{e}dam incerta. <zzl>zl2372-6A</zzl>Sparserunt mercatores quidam Tuneti regem
+<fn>Achmed III., Kalif aus der Dynastie der Hafsiden bis 1570; s. <a>HBBW</a> XIII 328, Anm. 3.</fn> esse captum a Barbarossa
+<fn>Cheireddin Barbarossa.</fn> et Argeriam insulam
+<fn>Argeriam insulam: Zu dieser Bezeichnung s. <a>HBBW</a> XV 669, Anm. 6. - Zu Algerien vgl. auch die im Briefe Groppers vom 20. April 1546 übermittelte Nachricht; s. <a>Gropper BW</a> I 409.</fn> obsessam ac Hispanos periclitari.
+<fn>Über diese Ereignisse konnte nichts Näheres ermittelt werden.</fn><zzl>zl2372-6E</zzl> <zzl>zl2372-2A</zzl><zzl>zl2372-5A</zzl>Propterea c{e}sarem
+<fn>Karl V.</fn> properare Ratisbonam,<zzl>zl2372-2E</zzl> compositurus ecclesie negotium aliquo modo,
+<fn>Gleich nach seiner Ankunft in Regensburg am 10. April 1546 (s. <qv>nr2331</qv>, <qv>fn2331-2</qv>) nahm sich Kaiser Karl V. der Religionsfrage an; s. dazu <a>Vogel</a> 503-516.</fn> dein per Italiam Hispaniam aditurus.
+<fn>Karl V. kam erst wieder im Jahre 1556 nach Spanien; s. <a>Stälin</a> 582.</fn><zzl>zl2372-5E</zzl> Utinam nunquam reversurus eo animo, quo hactenus fuit praeditus! Calamitatibus obruitur variis, cruce premitur in ipso corpore,
+<fn>Karl V. litt an Gicht und Syphilis.</fn> attamen omnes dei minas et plagas parvi facit. <zzl>zl2372-4A</zzl>Consiliarios pessimos habet et impios,
+<fn>Gemeint sind wohl vor allem Johann von Naves, Reichsvizekanzler, und Nicolas Perrenot de Granvelle; vgl. <qv>nr2376</qv>,<qv>zl2376-3</qv>.</fn> qui bonum consilium non admittunt; timent, ne aliquid decedat eis.<zzl>zl2372-4E</zzl> Dominus illuminet illos luce veritate, ne in perpetuis tenebris pereant. Amen.</p>
+<p>Vale in domino. Basile{e}, 7. martii 1546. D. Theodorum
+<fn>Theodor Bibliander.</fn> cum Pellicano et Gvalthero salutabis.</p>
+<un>Tuus Gastius ex animo.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Docto et pio m. Heinrycho Bullingero, Tigurin{e} ecclesiae pastori diligentissimo, amico suo et domino perpetuo colendo. Zurich.</p>
+</text>
+</brief>

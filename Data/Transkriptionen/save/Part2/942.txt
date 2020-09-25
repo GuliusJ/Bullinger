@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="942">
+<nr>942</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>3. Februar 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 124 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Übersendet ein Schreiben Bucers [Nr. 939], auf das die Basler [Pfarrer] erst nach Rücksprache mit den Zürchern und
+Bernern antworten wollen. Die [von Bucer verteidigte] "Retraktation" haben Myconius, Karlstadt, Markus [Bertschi] und
+Wolf[gang Wissenburg] erst oberflächlich oder noch gar nicht gelesen; um neuen Streit zu vermeiden, muß bei der Antwort
+unnötige Härte vermieden werden. Wartet auf Bullingers Stellungnahme zu den Traktanden des Bundestags zu
+Schmalkalden.</re>
+<tx>S. Quę Bucerus ad nos dimisit abiturus Smalcaldum, nos descriptum bona fide mittimus ad vos<f1>Gemeint ist Bucers
+Brief vom 27. Januar an die Pfarrer von Basel, Bern und Zürich (oben Nr. 939); zu der von Leonhard Hospinian angefertigten Abschrift
+s. ebd., Anm. a und b.<fe>. Patebit, quid velit. Contra nos si quid habet, ignoramus. Quocirca, quid
+respondendum sit etsi consultavimus, nondum tamen definitum est quicquam, donec vos audierimus et Bernenses. Ego vidi
+potius Retractationem<f1>Zu Bucers "Retraktationen" s. HBBW VI, S. 368, Anm. 12.<fe> quam legerim; neque animus est
+neque ocium hactenus diligentius videndi. Tum Carolstadius nec vidit nec legit. Itidem Marcus<f1>Markus Bertschi.<fe>.
+Wolfius<f1>Wolfgang Wissenburg (vgl. unten Nr. 944, Z. 231).<fe> dicit se perlegisse, attamen non
+respexisse nisi ad ea, quę ad eucharistiam proprie pertinent, et ea sibi talia visa, qualia Bucerus nobis iam
+aliquoties proposuerit. Iam videmus virum commotum; igitur quomodo sit occurrendum, videtur consyderandum diligenter,
+non tam propter ipsum quam propter deum et ecclesiam, ne novę contentiones oriantur in scandalum evangelii. Non erit
+charitas in nobis, nisi taliter egerimus. Illud ergo nobis curę sit, occurrere, ne quid nostrę duriciei, si quod
+peccatum ceciderit, adscribatur. Fidei lumen pręfigamus, et facile cum illo transigemus omnia.
+^$Equidem expecto responsionem super articulis comitiorum Smalcaldensium<f1>Vgl. Myconius' Anfrage vom 16. Januar, oben
+Nr. 934, 1-45.<fe>.
+^$Vale, mi Bullingere, et deum pro<fx>^#/+zu ergänzen ist wohl^#/- nobis.<fe> orato.
+^$Basileę, raptim, 3. februarii anno 37.<un>Tuus Os. Myconius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, antistiti Tigurino, domino ac fratri in Christo
+suspiciendo suo.
+</content>
+</letter>

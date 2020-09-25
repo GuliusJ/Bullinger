@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2606">
+<brief>
+<id>16294</id>
+<nr>2606</nr> <from persid="Bullinger"/> <to persid="BlarerAmbrosius"/> <place plid="Zürich"/> <date when="1546-10-03"/>
+<ae>[Bullinger] an Ambrosius Blarer</ae>
+<od>Zürich, 3. Oktober 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 199 (Siegelspur)<k>Kopie im übergroßen Ordner! Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 124v.-125v.; Ms S 61, 180; Zit.: Zwa 7 610</k></vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 514-516, <br/>Nr. 1353</dr>
+<re><t>Bullinger dankt herzlich für Blarers gewissenhaftes Schreiben [<a>HBBW</a> XVII, Nr. 2602].</t>
+<t>Irgendetwas ist schuld daran, dass die gute Sache [der Schmalkaldener] erfolglos bleibt. Man muss deshalb zu Gott beten und Buße tun. Aufgrund des unnachsichtigen Handelns einiger Fürsten ist nämlich zu befürchten, dass ein Sieg [der Schmalkaldener] noch größeren Gräuel mit sich bringen könnte.</t>
+<t>Blarer hat wohl von dem schweren Schicksal gehört, in das der gelehrte Thomas Naogeorg aus Sachsen geriet, weil er die leibliche Anwesenheit Christi im Abendmahl ablehnt. Als der Kurfürst [Johann Friedrich von Sachsen] von Naogeorgs Ankunft in Augsburg hörte, ordnete er dessen Gefangennahme an. Die Augsburger kamen aber der Aufforderung nicht nach (dies im Vertrauen: Die Zürcher und Berner sollen nichts davon erfahren). Was kann man wohl von solchen Freunden [wie dem Kurfürsten] erwarten? Kein Wunder, wenn die Sache [der Schmalkaldener] nicht vorangeht!</t>
+<t>Bullinger hält nichts von Mathematikern und ihren Vorhersagen. Sicher ist aber, dass die Gottlosen nicht die Hälfte ihrer Tage erreichen werden. Möge der Herr [Kaiser Karl V.] bekehren oder ihn vernichten!</t>
+<t>Über den schwarzen Brandvogel hat Bullinger außer einem Gerücht, dem er keinen Glauben schenkt, nichts gehört.</t>
+<t>Er freut sich, dass Blarer alle seine Briefe erhalten hat.</t>
+<t>Der Sieg wird gewiss vom Himmel kommen. Daher muss man zum Herrn beten, der diejenigen erhört, die seinen Namen anrufen!</t>
+<t>Bullinger erfährt auch nur Gutes über Landgraf [Philipp von Hessen]. Dieser hat ihm selbst über den Kriegsverlauf bei Ingolstadt geschrieben [<a>HBBW</a> XVII, Nr. 2581].</t>
+<t>[Konrad Schweri], der Bote aus Baden, der im kaiserlichen Lager war und in Memmingen gefangen gehalten wurde, ist gerade in Zürich. Er berichtete dem Stadtschreiber [Hans Escher vom Luchs] von der im Lager herrschenden Verzagtheit und wie dieses auf außergewöhnliche Weise bombardiert wurde. Angesichts der dort grassierenden Seuche muss der Kaiser seine Italiener bald in Einsatz bringen, ehe diese ihm [alle] weglaufen.</t>
+<t>Bullinger ist um die Eidgenossenschaft besorgt. Der Papst [Paul III.] und der Kaiser haben die Fünf Orte sehr beeinflusst. Geht es so weiter, könnte es zu Auseinandersetzungen unter den Eidgenossen kommen.</t>
+<t>Bern beabsichtigt heimlich, in das kaiserliche Burgund einzufallen, das aber ein Schirmbündnis mit der Eidgenossenschaft hat. Man hat die Sache so weit gebracht, dass [Philipp von Hessen und Johann Friedrich von Sachsen] die Vier Orte schriftlich gebeten haben, [in die Territorien des Papstes und des Kaisers einzudringen]. Dies missfällt dem Zürcher Rat sehr. Es wird wohl zu einem Treffen der Vier Orte kommen.</t>
+<t>Die Zürcher haben den Bernern die Entsendung von Jodocus Kilchmeyer, einem in Küsnacht wirkenden Pfarrer gesetzten Alters, bewilligt. Er wird diese Woche nach Bern reisen.</t>
+<t>Bullinger hätte sich gewünscht, dass von Basel andere Pfarrer als
+[Sebastian Lepusculus und Hieronymus Gunz], die man nur wenig schätzt, nach Augsburg entsandt worden wären. Die Basler wollten sie wohl loswerden!</t>
+<t>Der Zürcher Rat hat sich bei Bullinger beklagt, dass der Konstanzer Rat nichts von den bei Füssen liegenden eidgenössischen Söldnern schreibt. Daher ist [Konrad] Zwicks Reise nach [Füssen] zu begrüßen. Bullinger wartet auf dessen Bericht. Dennoch sollten die Konstanzer den Zürchern [darüber] schreiben.</t>
+<t>Hätte man doch 3'000 Spanier gehängt! Auch [Johannes] Haller berichtete (mit <a>HBBW</a> XVII, Nr. 2596) von deren schändlichem Treiben besonders Frauen und Kindern gegenüber. Möge Gott die Frauenschänder bestrafen!</t>
+<t>Bei dem von Blarer [in <a>HBBW</a> XVII, Nr. 2602] erwähnten Florentiner handelt es sich um den mächtigen Piero Strozzi, der den [Schmalkaldenern] 40'000 Kronen leiht und versucht, die [in den kaiserlichen Truppen dienenden] Italiener abzuwerben.</t>
+<t>Bullinger ist immer noch der Meinung, dass die [Schmalkaldener] Karl umbringen sollten, so wie die Eidgenossen einst Karl [den Kühnen] erschlugen.</t>
+<t>Der Bote [Schweri], der [in Memmingen] auf seiner Rückreise [vom kaiserlichen Lager] festgehalten wurde, war mit der Erlaubnis des Landvogts zu Baden [Niklaus Imfeld] nicht im Dienst der Eidgenossen, sondern des kaiserlichen Boten in der Eidgenossenschaft [Jean Mouchet] von Dole unterwegs. Der intrigante [Mouchet], den der Teufel geschickt hat, war am Vortag in Zürich und ist nun nach Bern weitergereist. Von den Briefen, [die Schweri auf der Rückreise mit sich führte], war einer an die Neun Orte, der andere an die Vier Orte gerichtet. Diese wurden von [den Schmalkaldenern im Feldlager] bei Donauwörth geöffnet, ehe sie mit einer Entschuldigung [an die Eidgenossen] weitergeleitet wurden. Den Zürchern war es nicht unlieb, dass die Schmalkaldener die Briefe des Kaisers gelesen haben, die Fünf Orte waren aber darüber sehr verärgert. Als der [Badener] Landvogt [beim Vorort Zürich] fragte, wie er auf die Öffnung der Briefe reagieren solle, hat man ihn zur Ruhe angehalten. Bullinger wird Blarer Weiteres berichten. Vergangene Woche war der [vom Landtvogt entsandte] Bote [Schweri] in Zürich und lachte über die ganze Angelegenheit.</t>
+<t>Blarer, dessen fleißiges [Briefeschreiben] Bullinger schätzt, möge Gott befohlen sein. Der Briefüberbringer [Engelbert Milander], ein schon seit längerem in Zürich studierender Hesse aus armen Verhältnissen, sei Blarer empfohlen.</t></re>
+<text>
+<div>
+<p>Gratiam et pacem a domino. Heri, dum coenarem, accepi tuas, observande mi frater, longe desideratissimas
+<fn>Blarers langer Brief vom 30. September (<a>HBBW</a> XVII, Nr. 2602).</fn>. Exhilararunt me illae varia sua expositione eaque non infausta. Dominus res nostras ita temperet, ut in illius gratia liberatione et misericordia exultemus! Amen. Ago tibi gratias pro diligenti et copiosa scriptione,
+<fn>Als Reaktion auf <a>HBBW</a> XVII 515,2f.</fn> qua revera gratificaris mihi.</p>
+</div>
+<div>
+<p><zzl>zl16294-3A</zzl><zzl>zl16294-13A</zzl>Es ist wol in allem unserm l{ae}ben, das verhinderet, damitt die sach nitt fürsich
+<fn>voran.</fn> gadt, die sich doch wol anschickt mitt gnad uff unser syten.
+<fn>Anspielung auf <a>HBBW</a> XVII 516,14-16.<zfn>fn16294-11</zfn></fn> Doch sind wir menschen und der herr weist, das wir kaadt
+<fn>Kot; s. <a>SI</a> III 557f.</fn> sind. Da w{oe}llend wir jederman t{ae}glich pitten und vermanen zur besserung.<zzl>zl16294-13E</zzl> <zzl>zl16294-14A</zzl>Noch eins ists, da ich gar nitt zwyfel, es erzürne den herren: Ich besorg
+<fn>fürchte.</fn>, s{oe}llt die sach also glatt hindurch gan, die warheit wurde nut
+<fn>nicht.</fn> deß mee gefürderet, diewyl in der nodt der fürsten ettlich eben scharrpff
+<fn>unnachsichtig.</fn> handlind.
+<fn>Bullinger spielt wohl auf den als träge betrachteten Kurfürsten Johann Friedrich I. von Sachsen an (s. <a>HBBW</a> XVII 431,78-81; 495,71f), der Menschen wie Naogeorg (s. unten) verfolgte, weil diese in der Abendmahlslehre die Zürcher Auffassung teilten; s. <a>HBBW</a> XVII 486f,44-56; 495f,78-101.<zfn>fn16294-9</zfn></fn> Darby man abnemmen
+<fn>folgern.</fn> m{uo}ß, wenn die sach oben stat,
+<fn>Gemeint ist: falls die Schmalkaldener siegen würden.</fn> das der gr{oe}sten grewlen einer m{uo}ß geschirmpt werden.
+<fn>das der gr{oe}sten grewlen einer m{uo}ß geschirmpt werden: dass man noch vor einem größeren Gräuel behütet werden muss (nämlich weil es dann zwischen den politisch gestärkten Protestanten im Reich zu noch größeren inneren Auseinandersetzungen kommen würde).</fn><zzl>zl16294-14E</zzl><zzl>zl16294-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-10A</zzl>Ir hapt wol geh{oe}rt von h. Thoman Naogeorgo. Ist ein frommer, gelerter mann in Saxen.
+<fn>Vor seiner Flucht nach Augsburg Ende August 1546 war Thomas Naogeorg (Kirchmeyer) Pfarrer in Kahla (Thüringen) gewesen; s. <a>HBBW</a> XVII 429f, Anm. 64.<zfn>fn16294-10</zfn></fn> Diewyl er aber nitt hatt w{oe}llen sagen, waar fleisch und bl{uo}t sye imm brot, hatt er b{oe}sen platz gehept.
+<fn>hatt er b{oe}sen platz gehept: ist er in eine schwierige Lage geraten.</fn> <zzl>zl16294-15A</zzl>Und alls er jetzund heruff gen Augspurg kummen und der churfürst
+<fn>Johann Friedrich von Sachsen.</fn> sinen gewaar worden, hatt er inn heyssen annemmen
+<fn>inn heyssen annemmen: angeordnet, ihn festzunehmen.</fn> und die oberzellte
+<fn>oben dargelegte (d.h. Abendmahlsangelegenheit).</fn> ursach anzeigt. Die z{uo} Augspurg aber habents nitt th{uo}n w{oe}llen.<zzl>zl16294-15E</zzl> Haec tibi dicta sint <fa1 bis="2"><i>Am Rande nachgetragen; Klammern ergänzt.</i></fa1>(ich w{oe}llt nitt, das es unser volck hie und ze Bern vernemme; die sach wurde sich gar by uns stützen
+<fn>gar stützen: sehr verbreiten.</fn>)<fa1e von="2"/>, et certa sunt. Sich
+<fn>Siehe.</fn>, was fründts habend wir da! Weß s{oe}llend wir uns vers{ae}hen?
+<fn>Zu verstehen: Was sollen wir erwarten?</fn> Das und anders st{ae}ckt in der f{ae}der!
+<fn>st{ae}ckt in der fäder: (wird) noch gesagt (offenbar) werden; vgl. <a>Wander</a> I 953, Nr. 117.</fn> Ist es dann wunder, das es also still stadt?
+<fn>Zu verstehen: dass es mit dem Krieg nicht vorangeht (weil Gott dazu kein Gelingen gibt). - Bullinger bezieht sich hier auf Blarers Aussagen in seinem Brief vom 30. September; s. <a>HBBW</a> XVII 516,14-16. - Siehe dazu aaO, S. 30.</fn> Es ist ouch gott und siner eeren nitt wenig an disem artickel
+<fn>dem des Abendmahls.</fn> gel{ae}gen, etc. Nun, wir w{oe}llents gott bef{ae}lhen. Er wirt imm
+<fn>dem.</fn> wol wüssen ze th{uo}n. Es ist mir aber die sach nach angel{ae}gen
+<fn>nach [= nahe] angel{ae}gen; liegt mir sehr am Herzen; vgl. <a>Fischer</a> I 233.</fn> und seer leid. Bin des gewüß, das es nut g{uo}ts bringen wirt.<zzl>zl16294-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-4A</zzl>Vani sunt mathematici et vana eorum pronosticatio.
+<fn>Anspielung auf <a>HBBW</a> XVII 516,20-24.</fn> Verax autem ille est,
+<fn>Vgl. Joh. 3, 33; 7, 18; 8, 26; Röm 3, 4.</fn> qui dixit: "Impii non dimidiabunt dies suos"
+<fn>Ps 55 (Vulg. 54), 24.</fn>. <zzl>zl16294-16A</zzl>Dominus convertat illum
+<fn>Gemeint ist Kaiser Karl V.</fn> aut tollat illum e medio!<zzl>zl16294-16E</zzl><zzl>zl16294-4E</zzl></p>
+</div>
+<div>
+<p><vl>199v.</vl> Von dem schwartzen brandvogel
+<fn>Anspielung auf eine angebliche Begebenheit in Porrentruy (Pruntrut, Kt. Jura); s. <a>HBBW</a> XVII 517,30-36.</fn> weyß ich gar nut, onet das
+<fn>onet das: außer dass.</fn> ich ein schw{ae}bende red
+<fn>schw{ae}bende red: Gerücht.</fn> geh{oe}rt hab, deren ich nitt vil gloubens gib.</p>
+</div>
+<div>
+<p>Gaudeo mea tibi scripta omnia bona fide allata et reddita esse.
+<fn>Bezug auf <a>HBBW</a> XVII 517,37.</fn></p>
+</div>
+<div>
+<p>Scio autem victoriam conferri coelitus eamque precibus magis quam gladiis et ferotia obtineri. Age ergo, ne cessemus unquam, piis precibus aures onerari domini Zebaoth
+<fn>Aus dem hebräischen "zebaoth" (Heere) und in der Vulgata des Öfteren unübersetzt als "Dominus Sabaoth" wiedergegeben.<zfn>fn16294-15</zfn></fn>! Audiet ille invocantes nomen ipsius.
+<fn>Vgl. Ps 17 (Vulg. 16), 6; 86 (Vulg. 85), 7; Jo 2, 32; Sach 13, 9; Apg 2, 21; Röm 10, 13.</fn></p>
+</div>
+<div>
+<p><zzl>zl16294-17A</zzl>Ich h{oe}r ouch nitt anders, dann das der landtgraff
+<fn>Philipp von Hessen. - Anspielung auf <a>HBBW</a> 518,47.</fn> handle mitt allen trüwen und unerh{oe}rtem ernst. Gott w{oe}lle inn stercken! Er selbs hatt mir wol z{uo}geschriben,
+<fn>Mit einem Brief vom 12. September (<a>HBBW</a> XVII, Nr. 2581).</fn> wie er sy
+<fn>die Kaiserlichen.</fn> vor und z{uo} Ingolstatt yngethan
+<fn>in die Enge getrieben.</fn> habe.<zzl>zl16294-17E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-2A</zzl>So ist eben do
+<fn>in Zürich.</fn> der l{oe}uffer von Baden
+<fn>Konrad Schweri, der Bote des Badener Landvogts Niklaus Imfeld. - Zur Angelegenheit s. <a>HBBW</a> XVII 521,128-134 mit Anm. 119; unten <qv>fn16294-4</qv> und <qv>fn16294-5</qv>.</fn>, der z{uo} Memmingen uffgehept
+<fn>festgenommen.</fn>, in des keyssers
+<fn>Karl V.</fn> l{ae}ger gesin
+<fn>gewesen.</fn>.<zzl>zl16294-2E</zzl> Der sagt doch von grusammen sachen, und das sy in des kaysers l{ae}ger so verzagt gew{ae}st, das es wunder. Er vermeint (und hat es hie z{uo} dem stattschryber
+<fn>Hans Escher vom Luchs.</fn> gesagt),
+<fa><i>Klammern ergänzt.</i></fa> das nie mee s{oe}mlich
+<fn>solches.</fn> schiessen erh{oe}rt,
+<fn>Gemeint ist die heftige Bombardierung des kaiserlichen Lagers durch die Schmalkaldener am 2. September; s. dazu die in <a>HBBW</a> XVII 486, Anm. 22, angeführten Stellen.</fn> etc. <zzl>zl16294-8A</zzl>Die Italiener werdent imm sterben
+<fn>Zu der im kaiserlichen Lager grassierenden Seuche s. <a>HBBW</a> XVII 489,10-13; 518,67-69. - Aus der Beilage (Zürich StA, A 177, Nr. 58), die Konstanz mit einem Brief vom 25. September an Zürich geschickt hatte (aaO, Nr. 50), erfährt man, dass die Ursache dieses Sterbens die "Pestilentz" war. Die "Rothe Ruhr" soll ebenfalls Opfer gefordert haben; s. <a>Viglius van Zwichem</a> 127, Anm. 75; Konstanzer Rat an den Züricher Rat, 4. Oktober (Zürich StA, A 177, Nr. 65). Dementsprechend sind <a>HBBW</a> XVII 489 und Anm. 9; 518 und Anm. 66, zu ergänzen.<zfn>fn16294-2</zfn></fn> nitt lang blyben;<zzl>zl16294-8E</zzl> er wirt und m{uo}ß sy z{uo}vor bruchen
+<fn>einsetzen.</fn>. L{uo}gind nun und habind sorg.</p>
+</div>
+<div>
+<p><zzl>zl16294-18A</zzl><zzl>zl16294-9A</zzl>Die sach sicht mich nitt wol an under uns Eydgnossen.
+<fn>Anspielung auf <a>HBBW</a> XVII 519, 73-76, und 521,131f, wo Blarer den Ausbruch eines Kriegs unter den Eidgenossen befürchtete.<zfn>fn16294-3</zfn></fn><zzl>zl16294-9E</zzl> Bapst
+<fn>Paul III.</fn> und keyser sind tüff hinder die V Ort kummen
+<fn>hinter jemanden tüff kommen: jemanden sehr beeinflussen; s. <a>SI</a> III 267.</fn>. So ist jetzund ettwas vorhanden. S{oe}llt es fürgan,
+<fn>S{oe}llt es fürgan: Sollte es so weitergehen.</fn> so kummend wir, besorg ich, über einanderen
+<fn>kummend über einanderen: geraten wir in Streit.</fn>.<zzl>zl16294-18E</zzl> Gott wende es!</p>
+</div>
+<div>
+<p><zzl>zl16294-5A</zzl><i>Bern</i>
+<fa><i>Hier und unten sind die Wörter, die Bullinger anhand des Geheimalphabets schrieb (s. dazu <a>HBBW</a> XVII 204,42-48 - Abbildung des Geheimalphabets aaO, S. 12), kursiv gesetzt.</i></fa> ist in einer prattick
+<fn>ist in einer prattick: schmiedet einen geheimen Plan.</fn>, dem <i>keyser</i> ze fallen in das <i>Burgund</i>, das aber mitt allen Eydgnossen ein <i>punt</i> hatt ze schirmen.
+<fn>Gemeint ist die Erbeinung der Eidgenossen mit dem Haus Habsburg von 1511, bei der es auch um den Schutz der Freigrafschaft Burgund ging; s. Bettina <i>Braun,</i> Die Eidgenossen, das Reich und das politische System Karls V., Berlin 1997; S. 205-265. 285-287; <a>HBLS</a> III 51f; <a>EA</a> III/2 1343-1347, Beilage 19. Diese Erbeinung wurde in Venlo (Limburg, NL) am 9. September 1543 bestätigt; s. <a>EA</a> IV/1d 1085f, Nr. 1.<zfn>fn16294-8</zfn></fn> Und ist die sach schon dahin gebracht, das die <i>fursten</i> heruff geschriben,
+<fn>Zu diesem Brief Philipps von Hessen und Johann Friedrichs von Sachsen an die Eidgenossenschaft vom 26. September s. <qv>nr2605</qv>, <qv>fn16293-1</qv>. - Bullingers Beschreibung erweckt den Eindruck, dass er die Vermutung hegte, dass die Berner die Fürsten zu diesem Brief veranlasst haben könnten, um ihren etwaigen Einfall ins Burgund zu rechtfertigen.<zfn>fn16294-12</zfn></fn> und ouch mine <i>herren</i>
+<fn>der Zürcher Rat.</fn> darzuo vermant, sampt den andren 2 Orten
+<fn>Basel und Schaffhausen.</fn>; das aber minen <i>herren</i> zum h{oe}chsten mißfallt. Achten wol, es werde under den 4 <i>Orten</i> bald ein <i>tag</i> g{ae}ben.
+<fn>Das Treffen der Vier protestantischen Orte fand zwischen dem 19. und dem 26. Oktober in Zürich statt. Am letzten Tag wurde die an den Kaiser gerichtete Antwort der protestantischen Orte verfasst sowie weitere Briefe an die Fürsten des Schmalkaldischen Bundes und an die Neun Orte; s. <a>EA</a> IV/1d 698-703; <a>HBBW</a> XVII 337, Anm. 13; Zürich StA, B II 66 (Ratsprotokoll), S. 1 (Namen der Abgeordneten Zürichs an dem Treffen vom Dienstag den 19.); und die Entwürfe der Briefe an den Kaiser, den Bund und an die Neun Orte, alle vom "Zinstag 26. Octobris" in B IV 16 (Ratsmissiven), f. 69r.-70r. (an den Kaiser - Druck: Ludwig Friedrich von <i>Jan,</i> Staatsrechtliches Verhältnis der Schweiz zu dem deutschen Reiche, Bd. 3: Urkunden-Buch, Nürnberg/Altdorf 1803, S. 170-173, Nr. XXXVIII; Zusammenfassung: <a>EA</a> IV/1d 700, Nr. 2), 70v.-72r. (an den Bund - Zusammenfassung in <a>EA</a> IV/1d 700f, Nr. 3), 78r.-79r. (an die Neun Orte), B IV 17, f. 205r.-206r (an die Neun Orte - Zusammenfassung in <a>EA</a> IV/1d 701f, zu b). Zum Datum dieser Tagung vgl. ferner <qv>nr2626</qv>,<qv>zl16316-1</qv>; <qv>nr2642</qv>,<qv>zl16332-1</qv>; <qv>nr2644</qv>,<qv>zl16334-1</qv>; <qv>nr2651</qv>; <qv>nr2652</qv>,<qv>zl16341-1</qv>.<zfn>fn16294-1</zfn></fn> Mir ist angst und gfallt mir die sach nut.<zzl>zl16294-5E</zzl></p>
+</div>
+<div>
+<p><vl>[199a]r.</vl> <zzl>zl16294-11A</zzl>Denen von Bern ist hie verwilligt, zum predicanten hinuff ze schicken h. Josen Kylchmeyer
+<fn>Zu Jodocus Kilchmeyers Anstellung s. <a>HBBW</a> XVII 457, Anm. 5. Er war damals älter als 50 Jahre.</fn> von Lucern, ein dappfferer, wolberedter mann. Hatt bißhar Küßnach am Zürychsee vers{ae}hen. Ist wolbetagt
+<fn>gesetzten Alters.</fn>. Diser wuchen wirt er hinuff faren.
+<fn>Zur Kontaktaufnahme. Sein Amt trat er erst kurz vor dem 25. Oktober an.</fn> Gott g{ae}be imm glück!<zzl>zl16294-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-19A</zzl>Vellem alios missos (tibi dictum puta
+<fn>In einem nicht erhaltenen Brief.</fn>) quam illos duos
+<fn>Mit den "duos" sind der damals am Basler Spital wirkende Sebastian Lepusculus (Häslin) und der in Münchenstein (Kt. Basellandschaft) amtierende Hieronymus Gunz gemeint, die den Augsburgern von den Basler Behörden für eine Zeit zur Verfügung gestellt wurden; s. <a>HBBW</a> XVII 519 und Anm. 82f. - Bekannt ist, dass Lepusculus damals nicht von allen Baslern geschätzt wurde; s. <a>HBBW</a> XIV 413, Anm. 38. Gunz wurde von den Augsburgern zurückgesandt; s. <qv>nr2612</qv>, <qv>fn16301-5</qv>.<zfn>fn16294-13</zfn></fn>, Augustam inquam. Parum grati fuerunt Basileae. Forte miserunt, quibus libenter carent.<zzl>zl16294-19E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-7A</zzl>Min herren habend mich nun vil anzogen
+<fn>mich anzogen: sich bei mir erkundigt; s. <a>FNHDW</a> I 1618.</fn> von der eydgnössischen kn{ae}chten w{ae}gen, die z{uo} Fiessen ligend:
+<fn>Zu diesen neun eidgenössischen Fähnlein s. <a>HBBW</a> XVII 466,3f; 504,18-26 mit Anm. 28; und <qv>nr2610</qv>,<qv>zl16298-6</qv>.<zfn>fn16294-14</zfn></fn> Wie es doch kumme, das üwer herren von inen nut schrybind.
+<fn>Schon im Brief vom 26. September hatte Bullinger sich darüber verwundert; s. <a>HBBW</a> XVII 504,18-26.</fn> <zzl>zl16294-6A</zzl>Dorumb ist g{uo}t, das min lieber h. und frund Zviccius
+<fn>Konrad Zwick war am 30. September ins schmalkaldische Lager bei Füssen verritten; s. <a>HBBW</a> XVII 519,85-89.</fn> dahin ist. Ich wart üwers berichts.
+<fn>Blarer berichtete Bullinger von Zwicks Eindrücken am 6. (<qv>nr2610</qv>,<qv>zl16298-1</qv>) und 10. Oktober (<qv>nr2618</qv>,<qv>zl16307-1</qv>).</fn><zzl>zl16294-6E</zzl> Ist aber g{uo}t, üwer herren schribend ouch den unsern.<zzl>zl16294-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-20A</zzl>O, werend der r{oe}ubigen, diebischen Hispaniern 3'000 erhenckt!
+<fn>Anspielung auf <a>HBBW</a> XVII 518,52-54, wo Blarer berichtete, dass seit Beginn des Krieges 3'000 Kaiserliche gefallen seien.</fn><zzl>zl16294-20E</zzl> Haller hatt mir ouch geschriben, wie sy so schantlich husind
+<fn>umgehen.</fn>, sunderlich mitt wybern und kinden.
+<fn>Gemeint ist Johannes Hallers Brief vom 22. September (<a>HBBW</a> XVII, Nr. 2596 - dort insbes. S. 493).</fn> Gott straffe die frowenschender!</p>
+</div>
+<div>
+<p><zzl>zl16294-22A</zzl>Petrus Strocius
+<fn>Piero Strozzi.</fn> ist der Florentiner.
+<fn>Anspielung auf <a>HBBW</a> XVII 521,115-118, wo Blarer den Namen des Florentiners noch nicht kannte.</fn> Lycht
+<fn>(Er) leiht.</fn> dem rych
+<fn>Den Schmalkaldenern; vgl. z.B. <a>HBBW</a> 130,17; 173,39.</fn> 40'000 kronen.
+<fn>Vgl. Bullingers Angaben für Myconius in <a>HBBW</a> XVII 521, Anm. j und Anm. 111.</fn> Ist ein mächtiger kriegsman. Wil understan
+<fn>versuchen.</fn>, die Italier abzeziehen
+<fn>aus dem Lager des Kaisers; vgl. <a>HBBW</a> XVII 478f,4-6.</fn>.<zzl>zl16294-22E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-12A</zzl>Ich truw alls
+<fn>truw alls: denke immer. - Vgl. schon Bullingers Äußerung in <a>HBBW</a> XVI 214,47-49.</fn>, der christenlich pundt
+<fn>der Schmalkaldische Bund.</fn> s{oe}lle disen Carli erschlahen, wie der eidgnossisch den Carli von Burgund
+<fn>Karl der Kühne (Urgroßvater Karls V.), der im Januar 1477 bei Nancy in einer Schlacht gegen die Eidgenossen fiel.</fn> erschl{uo}g.<zzl>zl16294-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16294-1A</zzl>Der bott
+<fn>Der oben Z. <qv>zl16294-2</qv> erwähnte Bote Schweri.</fn> ist nitt der Eydgnossen xin
+<fn>gewesen.</fn>, sunder des pfennigmeisters von Dola
+<fn>Dole, Dép. Jura.</fn>, des keyserischen botten in Eydgnossen
+<fn>Jean Mouchet, der Pfennigmeister und kaiserlicher Gesandter bei den Eidgenossen war; vgl. <a>EA</a> IV/1d 698 a; <a>HBBW</a> XVII Reg. - Bullinger will hier also klarstellen, dass Schweri nicht von den Eidgenossen, sondern von Mouchet zum Kaiser geschickt wurde, und (s. weiter unten) dass der Landvogt zu Baden, Niklaus Imfeld, Mouchet gestattete, Schweri anzustellen. In seiner Abrechnung verzeichnete Mouchet tatsächlich sowohl die Absendung des Boten am 16. August in das damals bei Ingolstadt liegende kaiserliche Lager als auch die Gefangennahme desselben in Memmingen; s. Wien HHStA, StAbt. Schweiz, K. 11, Konv. 3, f. 20r. - Wir danken Rainer Henrich für den Hinweis auf diese Quelle.<zfn>fn16294-4</zfn></fn>.<zzl>zl16294-1E</zzl> Ist
+<fn>Subjekt ist hier wie auch in den folgenden drei Sätzen Mouchet.</fn> gester ouch hie xin. Th{uo}t nut dann prattizieren. Der tüfel hatt inn z{uo} uns tragen! Er ist hütt uff Bernn. Und hatt der lantvogt z{uo} Baden
+<fn>Niklaus Imfeld von Unterwalden; s. <a>EA</a> IV/1d 1101.</fn> den botten
+<fn>Schweri. - Schon auf dem Weg zum Kaiser wurde er in Memmingen festgenommen und der Brief geöffnet, den die katholischen Eidgenossen ihm für den Kaiser mitgegeben hatten (zum Brief s. <a>HBBW</a> XVII 337, Anm. 13). Schließlich konnte er diesen Brief doch noch dem Kaiser übermitteln. Auf der Rückreise nahmen ihn die Memminger erneut fest und hielten ihn 18 Tage gefangen (zu dieser Festnahme s. Blarers Aussagen in <a>HBBW</a> XVII 521,128-134), währenddem die ihm vom Kaiser für die Eidgenossen anvertrauten Schreiben ins Schmalkaldische Lager gesandt wurden. Die geöffneten Briefe wurden zurückerstattet und Schweri freigelassen. Letzterer traf am 26. September in Baden mit drei Briefen ein: 1) Die geöffnete Antwort des Kaisers an die katholischen Neun Orte; 2) das geöffnete Schreiben des Kaisers an die Vier protestantischen Orte; 3) ein Brief des Landgrafen und des Kurfürsten an die Eidgenossenschaft vom 18. September, mit dem diese sich für die Öffnung der Briefe des Kaisers entschuldigten; s. <a>EA</a> IV/1d 687f zu n. Die Briefe des Kaisers tragen das Datum des 27. August (s. aaO, S. 700 zu a.2). Von dem am 18. September verfassten Brief der Fürsten ist eine Kopie in Zürich StA, A 193, Nr. 6, erhalten.<zfn>fn16294-5</zfn></fn> erloupt
+<fn>Zu verstehen: dem Boten gestattet, als Bote von Mouchet zu fungieren.</fn>. Wie er wider kummen
+<fn>vom Lager des Kaisers.</fn>, ist er uffgefangen
+<fn>gefangen genommen worden (nämlich in Memmingen).</fn>. Ein brieff des keysers ist an die 9 ort, der ander an die 4 Ort gstanden
+<fn>adressiert.</fn>. Die habend die fürsten z{uo} Tonawerd
+<fn>Donauwörth, wo sich das Lager der Schmalkaldener befand.</fn> uffbrochen, doch wider geschickt mitt früntlicher pitt, nut ze zürnen. <vl>[199a]v.</vl> <zzl>zl16294-21A</zzl>Minen herren ist nitt unlieb, das die fürsten ges{ae}hen, was er
+<fa><i>Randbemerkung von Bullingers Hand:</i> caesar.</fa> inen z{uo}geschriben sampt den [4]
+<fa><i>Hier und unten Textverlust durch Papierbeschädigung.</i></fa> orten Bern, Basel, Schaffhusen, und sind nitt unwillig. Ich h{oe}r aber, die 5 ort syend h{oe}nent
+<fn>erzürnt.</fn>. Acht aber nitt, das sy ützid
+<fn>etwas; s. <a>SI</a> I 83f.</fn> werdint wyters druß machen. Wie der lantvogt gevragt,
+<fn>Mit einem Brief an Zürich (als Vorort der Eidgenossenschaft) vom 29. September (Zusammenfassung in <a>EA</a> IV/1d 687f zu n).<zfn>fn16294-6</zfn></fn> wie und was er th{uo}n s{oe}ll, etc., hatt man nun gesagt hie, r{ue}wig sin, etc.<zzl>zl16294-21E</zzl> Doch wo neißwas
+<fn>irgendetwas.</fn> sich wyter erheben wurde, sols
+<fa><i>In der Vorlage</i> sol.</fa> üch unverborgen blyben. Vergangner wuchen ist der löuffer
+<fn>Der Überbringer des oben in <qv>fn16294-6</qv> erwähnten Briefs. Wegen der darauffolgenden Angabe "Sagt, man hab imm g{uo}ts than" wird es sich beim Boten um Schweri gehandelt haben.</fn> hie xin. Lachet der sach. Sagt, man hab imm g{uo}ts than.</p>
+</div>
+<div>
+<p>Hiemitt sind gott befolhen und hand ouch für g{uo}t, dann
+<fn>denn.</fn> mich vern{uo}gt an uwerm flyß wol
+<fn>mich vern{uo}gt wol: ich bin sehr zufrieden; s. <a>SI</a> IV 701.</fn>. <zzl>zl16294-23A</zzl>Commendo tibi praesentium latorem, studiosum Hessum
+<fn>Vermutlich Engelbert Milander; s. <qv>nr2647</qv>, <qv>fn16337-1</qv>. - Ihm wurde wohl der in <a>EA</a> IV/1d 742 bezeugte Brief vom 3. Oktober anvertraut, den der Zürcher Rat an seinen Gesandten im Lager, Heinrich Thomann, geschrieben hatte.<zfn>fn16294-7</zfn></fn>, qui Tiguri diu operam dedit literis. Iam concedit in castra
+<fn>Das Feldlager der Schmalkaldener, das am 3. Oktober in die Nähe von Nördlingen verlegt wurde; s. <qv>nr2609</qv>,<qv>zl16297-1</qv>.</fn> mox rediturus. Pauper est.<zzl>zl16294-23E</zzl></p>
+<p>Tiguri, 3. octobris, circa 2. pomeridianam 1546.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse darunter:] Clarissimo viro d. Ambrosio Blaurero, Constantiensis ecclesiae ministro fideli, fratri chari[ssim]o suo.
+<fa><i>Darunter Blarers Empfangsvermerk:</i> 6. octobris 1546.</fa></p>
+</div>
+</text>
+</brief>

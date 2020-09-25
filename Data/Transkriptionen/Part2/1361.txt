@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1361">
+<nr>1361</nr>
+<correspondents>
+	<originator>John Butler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>24. Februar [1540]</date>
+	<note>Zur Datierung vgl. oben Nr. 1357, Anm. 1.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 306 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 145</vo>
+<re>Berichtet in Kürze, was er aus Briefen von Richard Hilles und [William] Peterson, die er am 12. Januar erhielt, erfahren
+hat. Seit der Eheschließung von König [Heinrich VIII.] mit [Anna von Kleve], einer trefflichen und gottesfürchtigen Frau, ist es
+in England besser geworden; es wird niemand mehr verfolgt außer den Anhängern von [William] Watts, der in Canterbury gefangen
+liegt - so kann sich das Schicksal wenden! Ein gewisser [Robert] Barnes und seine Mitstreiter verkünden kraftvoll das Evangelium;
+alle Bücher - dies ist wichtig für [Christoph] Froschauer - dürfen feilgeboten werden, und die Aufhebung sämtlicher Klöster soll noch vor der Fastenzeit abgeschlossen werden;
+die Äbte [Richard Whiting] von Glastonbury und [Hugh Cooke, gen. Farringdon] von Reading wurden wegen Hochverrats gevierteilt und
+am Eingang ihres Klosters aufgehängt. [Peterson] wird in Kürze wegen des Abtransports der [hölzernen] Bogen, deren Lieferung er
+im Vorjahr mit [Rudolf] Schinz u. a. in Glarus vereinbart hatte, zu Bullinger kommen; Butler bittet, ihm behilflich zu sein.
+Bullinger soll sich auch der Sache des notleidenden schottischen Flüchtlings annehmen, der ein Empfehlungsschreiben mitbringt.
+Butler wird tun, worum ihn Bullinger gebeten hat. Gute Wünsche und Grüße.
+</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 406f, bzw. Original Letters II 627f, Nr. 288.]
+</content>
+</letter>

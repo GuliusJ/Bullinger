@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1345">
+<nr>1345</nr>
+<correspondents>
+	<originator>[Johannes Zwick</originator>
+	<addressee fn=1>Bullinger]</addressee>
+	<note fn=1>Daß der Brief an Bullinger gerichtet ist, ergibt sich zweifelsfrei aus den inhaltlichen Bezügen zu Zwicks Brief vom 17. Dezember 1539 (HBBW IX, Nr. 1339).</note>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>1. Januar 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 63f (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 47, 112 (Moeller, Zwick Nr.
+209)^&x{
+<dr>Ungedruckt</dr>
+<re>Zwar ist Joachim [Maler] zurück, doch vom Bundestag [in Arnstadt] hat Zwick erst gehört, daß Bucer anwesend war, daß
+er von Landgraf [Philipp] nach Wittenberg gesandt wurde und daß ein weiterer Tag stattfinden soll; die Pfarrer werden sehr
+zurückhaltend informiert. Ist aus mehreren Gründen besorgt über die Pläne [für einen Anschluß von Konstanz an die
+Eidgenossenschaft]: Ein Bündniswechsel würde Anstoß erregen, eine Verbindung mit Feinden des Evangeliums ist gefährlich, die
+Konstanzer setzen zu sehr auf menschliche Klugheit, und die Geheimverhandlungen schaden den politischen Sitten. Hat
+Bullingers Schreiben an Bürgermeister [Thomas Blarer] statt an [Konrad Zwick] weitergereicht, da es die Heimlichen angeht, und
+hofft, daß die Sache zu einem guten Ende kommt. Ambrosius [Blarer] ist noch in Kempten oder Memmingen, wird aber bald
+zurückkehren und berichten, was er in Augsburg erreicht hat. Neujahrsgruß.
+</re>
+<tx>S. De comitiis celebratis<f1>Gemeint ist der Schmalkaldische Bundestag in Arnstadt; vgl. HBBW IX, S. 276, 6f mit Anm. 4. Der Abschied vom 10. Dezember 1539 ist gedruckt in: ADRG I/2 1094-1102, Nr. 392.<fe> nichil habeo, quanquam
+Ioachimus<f1>Joachim Maler (vgl. HBBW IX, S. 276, Anm. 6).<fe> noster redierit, nisi quod Bucerus interfuit, sed
+non diu, missus nunc a<fx>^#/+vor^#/- a ^#/+ein gestrichener Buchstabe.^#/-<fe> langravio Wittenbergam<f1>Landgraf Philipp
+von Hessen hatte Bucer am 30. November nach Sachsen entsandt, um den Ratschlag von Luther und Melanchthon sowie von Kurfürst
+Johann Friedrich zu seiner geplanten Nebenehe einzuholen; s. ^#/+Rockwell^#/- 23-30; WA Briefwechsel VIII 628-637, Nr. 3423.<fe>. Hinc michi
+quoque aures tinniunt etc. Obiter audio nichil in istis
+comitiis tractatum, sed alia esse decreta; tempus nescio<f1>Einige Traktanden wurden auf den nächsten Bundestag verschoben, der am 1. März in Schmalkalden
+zusammentreten sollte; s. ^#/+Mentz^#/- II 204-206.<fe>.
+Nostri adeo tenaces sunt erga nos ministros in istis
+communicandis, ut nichil possimus scire, donec pueri in
+tympanis<f1>im Sinne von: bis es die Spatzen von den Dächern pfeifen.<fe> etc.
+^$De alia causa, quae inter nostros et vestros vertitur<f1>Gemeint sind die Sondierungen des Geheimen Rates im Hinblick auf einen eventuellen Anschluß von Konstanz an die
+Eidgenossenschaft; vgl. HBBW IX, S. 276, 6-12 mit Anm. 7.<fe>, hic michi quoque cor palpitat multa mala
+praesagiens. Primum<fx>^#/+vor^#/- Primum ^#/+ein Absatzzeichen.^#/-<fe> enim non videtur<fx>^#/+korrigiert aus ^#/-video[?].<fe> sine maximo
+offendiculo futurum, ut nostri iungantur vestris, neque satis causae esse ad defectionem ex eo, in quo etiamnum foedere sumus<f1>Konstanz gehörte seit 1531 dem
+Schmalkaldischen Bund an; vgl. Hermann ^#/+Buck^#/- und Ekkehart ^#/+Fabian,^#/- Konstanzer Reformationsgeschichte in ihren
+Grundzügen, I. Teil: 1519-1531, Tübingen 1965. - SKRG 25/26, S. 336-343.<fe>. Deinde<fx>^#/+vor^#/- Deinde ^#/+ein
+Absatzzeichen.^#/-<fe> iungi iis, qui pfaffos magis quam nos amant et qui praeda magis optant vivere quam sancte partis, qui
+cum Romano rege adhuc in evangelium sunt coniurati<f1>Die "Christliche Vereinigung" der V Orte mit König Ferdinand von
+1529 war aufgrund des Ersten Kappeler Landfriedens im gleichen Jahr wieder aufgelöst worden; die Erbeinung der Eidgenossen mit
+Österreich von 1511 umfaßte auch die evangelischen Orte. Vgl. Leonhard ^#/+von Muralt, ^#/-Renaissance und Reformation, in:
+Handbuch der Schweizer Geschichte, Bd. I, Zürich 1972, S. 491-493 und 500.<fe>, qui cane peius et angue odiunt<f1>Adagia,
+2, 9, 63 (LB II 676f).<fe> religionem veram, idola et reginam coeli praefracte adorant et quorum omnis vita et gubernatio quid
+aliud est<fx>est ^#/+über der Zeile nachgetragen.^#/-<fe> quam libertas impietatis a dextris et sinistris
+quique virga furoris domini<f1>Vgl. Jes 10, 5.<fe> fuerunt in nos<fx>quique ... nos ^#/+am Rande nachgetragen.^#/-<fe>, istud
+michi certe magnum metum incutit. Adde<fx>^#/+vor^#/- Adde ^#/+ein Absatzzeichen.^#/-<fe> valde me timere diffidentia
+et nimio humanae sapientiae studio nostros ad huius modi
+pacta moveri<fx>^#/+vor^#/- moveri ^#/+zwei gestrichene Buchstaben.^#/-<fe>. Tandem non dicam, mi frater, quantum de
+moribus nostris timeam. Iungi bonis et sanctis non improbo;
+mallem tamen sine huius modi coniurationibus expectare nos
+subsidium bonorum in necessitatibus. <vl>64</vl> Sed recte tu quidem, o mi selectissime frater, hortaris ad preces<f1>Der
+Brief, auf den Zwick antwortet, ist nicht erhalten.<fe>; nam si unquam alias, nunc appellandus est cęlestis pater, ut copulet
+corda in pietate et vinculo iustitiae<fx>ut copulet ... iustitiae ^#/+in Majuskeln.^#/-<fe>, atqui
+omnium corda sic dudum copulata sunt per verbum evangelii.
+^$Literas tuas dedi consuli<f1>Gemeint ist der Bürgermeister des Jahres 1539, Thomas Blarer (vgl. Konrad Beyerle, Die Konstanzer
+Ratslisten des Mittelalters, hg. v. der Badischen Historischen Kommission, Heidelberg 1898, S. 229).<fe>, non fratri<f1>Konrad Zwick.<fe>; olfeci enim illas ad<fx>^#/+vor^#/-
+ad ^#/+ein gestrichener Buchstabe.^#/-<fe> secretiores scriptas, ex quibus non est frater meus<f1>Vgl. die Liste der "Haimlichen
+vom Rat" in: ^#/+Buck/Fabian,^#/- aaO, S. 437.<fe>. Ora ardentissimis votis, ut conatus nostrorum ex domino sit et
+feliciter exeat; michi certe, ut tibi, charissimo meo pectori,
+libere dicam, quod sentio, nichil minus vult esse in animo.
+Christus misereatur nostri et bene vertat omnia.
+^$Ambrosium<f1>Ambrosius Blarer; vgl. HBBW IX, S. 275, Anm. 3.<fe> expectamus in horas; Campodunae adhuc est aut Memmingae. Augustae quid impetraverit, ubi redierit, narrabit.
+^$Vale, charissime frater, et me semper ama.
+^$Ex Constantia, calendis ianuarii 1540.
+^$Utinam felicissimus annus illucescat tibi et omni familiae tuae!
+<un>Tuus ex animo frater.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

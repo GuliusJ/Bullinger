@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2312">
+<nr>2312</nr>
+<correspondents>
+	<originator>Johannes Blasius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>25. Dezember "1546" [1545]</date>
+	<note>Datierung gemäß Weihnachtsstil. - Vgl. ferner oben Nr. 2307. 2311.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 331 (Siegelspur)</vo>
+^&xRegest 18. Jh.: Zürich ZB, Ms S 58, 168 (1545 eingeordnet); Zit.: a Porta I 2, 183 ^&x{
+<re>Blasius, Prediger an der Regulakirche in Chur, empfiehlt den Überbringer dieses Briefs [Bruder Gabriele], einen Italiener, der ihm selbst von italienischen Brüdern, denen [Gabrieles] Lebenswandel gut bekannt ist, empfohlen wurde.
+-^#. Blasius würde gern wissen, wie es um den Abendmahlsstreit steht, und zwar nicht nur unter den Helvetiern: Hat denn Luther auf Bullingers ["Orthodoxa Tigurinae ecclesiae confessio"] reagiert, mit der Bullinger auf Luthers ["Kurtz bekentnis"] geantwortet hatte?
+-^#. Neujahrswünsche für Bullinger, seine Gattin [Anna, geb. Adlischwyler] und die schönen Kinder.</re>
+<dra>[Gedruckt: Graubünden, Korr. I 103f, Nr. 78.]</dra>
+^&x<tx>Ioannes Blasiusd. Bullingero suo graciam et vitę longevitatem per d[eu]m precatur.
+^$Is<f1>Fra Gabriele Benedetti/de Benedictis.<fe>, quem hic coram cernis, observandissime Bullingere,
+nobis a fratribus ex Italia<f1>Camillo Renato und Bartolomeo Maturo sowie Francesco Negri.<fe>, quibus eiusdem vita et mores nobis nociores sunt,
+literis<f1>19., bzw. 24. Dezember.<fe> com[m]endatus est; ita, quod et nos tibi eundem scripto com[m]endaremus, adhortati sunt.
+Quod nos<fx>^#/+In der Vorlage zweimal^#/- nos.<fe> supervacaneum arbitrati sumus, quandoquidem tua innata humanitas nobis
+auxiliandique praesertim eos, qui propter domini negocium exilium paciuntur, promptitas notissima est.
+Attamen tam pia ac pie roganti negare non licuit; com[m]endatum ergo com[m]endamus.
+Negocium eius ipse exponet.
+^$Ceterum et quo iugiter tibi molesti simus, miramur certe, quo in statu sit negocium <gr>ey̆xristíai</gr> [sic]
+non tantum inter fratres Helvecię nostrę, verum eciam num Lutherus quid super piissimam tuam
+responsionem<f1>Warhaffte Bekanntnuß/Orthodoxa Tigurinae ecclesiae ministrorum confessio, 1545 (HBBibl I 161-163, 167f).<fe> absurdissimę fidei suę confessioni<f1>Luthers "Kurtz bekentnis".<fe> datam replicarit.
+Id nos proximis tuis literis cerciores reddere digneris, enixissime rogamus.
+^$Vale per Iesum Christum, qui te ecclesię sue diu conservare dignetur. Amen.
+^$Raptim, Curie, ipsa die nativitatis, anno 1546<f1>Blasius beginnt das neue Jahr mit Weihnachten; daß der Brief 1545 geschrieben ist, geht aus der Empfehlung Gabriels und aus den erwähnten Büchern Bullingers und Luthers klar hervor.<fe>.
+^$Honestissimae uxori<f1>Anna Bullinger, geb. Adlischwyler.<fe> liberisque tuis elegantissimis omnem precor felicitatem.
+<un>Idem tuus tibique deditissimus apud divam Regulam Kohelet [mit dem hebräischen Alphabet und den massoretischen Vokalen].
+<lz>[Adresse auf der Rückseite:] Prudencia, pietate veraque erudicione incomparabili virod. H. Bullingero, Tigurinę ecclesię episcopo fidelissimo, domino suo colendissimo.^&x{
+</content>
+</letter>

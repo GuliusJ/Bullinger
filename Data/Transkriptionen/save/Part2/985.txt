@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="985">
+<nr>985</nr>
+<correspondents>
+	<originator>Heinrich Lüthi</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Winterthur]</place>
+	<date>3. April 15[37]</date>
+	<note>Die unvollständige Jahresangabe (vgl. unten Z. 23 und Anm. b) ist, gestützt durch die Mitteilung des Todes von Hans Briner und die Empfehlung des Johannes Blum (vgl. auch unten Nr. 986, 26-31), zweifelsfrei auf 1537 zu ergänzen.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 441, 140 (neu: 137) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Der Tod von Pfarrer Hans Briner in Oberwinterthur ist für die Kirche und für viele Menschen ein schwerer Verlust. Bittet, auch im Namen seiner Mitpfarrer, dem frommen und gebildeten Johannes Blum,
+Dekan des Winterthurer Kapitels und Pfarrer in Wülflingen, der mit einer großen Familie in bescheidenen Verhältnissen lebt, auf die Pfarrstelle in Oberwinterthur zu verhelfen. Grüße.
+</re>
+<tx>Gratiam et pacem a deo patre per Christum.
+^$Dominus Ioannes Brinerus, ecclesię Superioris Vituduri episcopus, hinc migravit ad superos calendis aprilibus<f1>am 1. April.<fe>, quem sane dominus morte nimis
+immatura eripuit gravissima sue ecclesie iactura, nisi non dicenda iactura tanti viri amissio adeoque pastoris, quos ego sciam, absit verbo invidia, vigilantissimi. Dii faxint, ut senatus noster
+Thigurinus virum aliquem bonum eidem ecclesie frequentissime praeficiat, si non per omnia parem extincto, at saltem pietate et eruditione haud inferiorem, qui et verbo et vite castimonia doceat.
+^$Quod ego sane ex animo cupio votique me compotem fore facile crediderim, nisi me meus fallit animus, si Floro<f1>Johannes Blum.<fe>, ecclesie Vulfflingensis<f1>Wülflingen (Winterthur).<fe> paroeciano, Vitudurensis capituli decano, hec demandaretur
+provintia. Est enim vir vere pius iuxta ac doctus, cui dominus et gratiam et prudentiam prae aliis multis magis insignem pulchre admodum functionem hanc episcopalem administrandi. Atqui alias, dii
+boni, quam curta est suppellex, quam tenuis est fortuna, cuius alende familie<fx>^#/+vor ^#/-familie^#/+ gestrichenes ^#/-fortune.<fe> annui reditus parum respondent. Auctus liberis octo deinde quoque matrem habet adhuc superstitem provecte etatis,
+pauperculam atque cecam. Hunc igitur Florem nostrum haud emarcidum fratres apud nos omnes tue humanitati vehementer commendant id ipsumque ultro, inrogati, ut me dii bene ament, ut eum adiutes,
+quantum potes, si ita tibi atque vobis omnibus tali episcopatu dignus videbitur.
+^$Vale feliciter atque ama Lutium tuum vicissim, qui te amat effusissime.
+^$Anno 15[37]<fx>^#/+in der Vorlage^#/- D. D. D. ^#/+Zur Datierung vgl. Anm. 1.^#/-<fe>, tertio nonarum aprilium.
+^$Coniugem tuam<f1>Anna Adlischwyler.<fe> charissimam ac matrem<f1>Anna Wiederkehr.<fe> cum tota familia<fx>^#/+vom Schreiber korrigiert aus^#/- familiam.<fe> salvas esse cupio.<un>H. Lutius, ex animo tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, apud Thigurinos episcopo vigilantissimo ac primario, fratri suo cumprimis charo.
+</content>
+</letter>

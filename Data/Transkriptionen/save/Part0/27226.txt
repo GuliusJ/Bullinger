@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="27226">
+<nr>27226</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Calvin</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>26. September 1557</date>
+</space_time>
+<vo>Zürich StA, E II 342, 354. Orig.</vo>
+<dr>Ep.Calv.2722(XVI, 642f)</dr>
+<re></re>
+<note></note>
+S. D. Fratres nostri impetrarunt apud amplissimum senatum nostrum quod postularunt.
+Inde solventes descendunt Schaffhusiam et Basileam.
+Contulimus amice de exhibita confessione.
+Promiserunt illi se posthac curaturos ne quid tale fiat.
+Consensimus omnes in consensionem illam nostram.
+Polliciti sunt praeterea sese sententiam suam latius plenius et planius declaraturos, si Saxones aut alii confessionem istam nobis obiicere perrexerint.
+Ita summo animorum consensu discessum est.
+Vive et vale.
+Adolescens hic miro tenetur desiderio videndi te, tu itaque ad virtutes ipsum hortare.
+Iterum vive et vale.
+Tiguri 26. septembris 1557. Salutant te fratres.
+Saluta tu omnes fratres et symmystas.
+Bullingerus tuus.
+Clarissimo virod. Ioanni Calvino Genevensis ecclesiae pastori fidelissimo domino meo colendo et fratri charissimo.
+^$Genff.
+</content>
+</letter>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1037">
+<nr>1037</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>1. September 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 76 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für sein häufiges Schreiben und versichert ihn seiner Freundschaft. Hat [Wolfgang Steyrer] mit einem Geldbetrag unterstützt, da
+keine Stelle für ihn frei war. Möchte über die Vorwürfe Meganders gegen Myconius ausführlich unterrichtet werden, um
+vermitteln zu können. In Zürich ist alles zum besten bestellt. Aus Italien sind Nachrichten über die in Valona liegende türkische Flotte und über den Aufbruch des [Großwesirs] Ayas Pascha eingetroffen; man fürchtet für Sizilien und Apulien.
+Grüßt Grynäus und wünscht, trotz dessen schwer lesbarer Schrift öfter Briefe von ihm zu erhalten.
+Bittet, sich bei [Hans] Heinrich Winkeli nach dem Druck seines Büchleins ["Der alte Glaube"] zu erkundigen.
+</re>
+<tx>Gratiam et pacem.
+^$Ingentes tibi ago gratias, honorande Myconi, quod tam scribis frequenter et diligenter ad me de rebus omnino omnibus. Suaves mihi sunt literae tuae, imo suaviores, quam forte
+credas ipse. Quod ego rarius<fx>^#/+vor^#/- rarius^#/+ gestrichenes^#/- non.<fe> scribo, ne, oro, interpreteris sinistre. Nam careo et materia et tabellionibus. Nosti, quam
+curta sit mihi suppellex, interim quot divexer et negotiis et contionibus. Proinde noli quicquam suspicari infaustius. Ego bona fide in
+pacta tecum amicitia perseverabo. Tu me, quod facis, amare perge.
+^$Quem commendasti nuperis literis<f1>Wolfgang Steyrer, s. oben Nr. 1033, 12-20.<fe>, iuvi pro virili. Sed nunc nulla erat conditio, nulla denique ratio, qua illi potuisset consuli
+melius. Ergo pe­cuniola instructum dimisimus.
+^$Quae scripsisti de Megandro<f1>Siehe ebd., Z. 21-28.<fe>, Leoni<f1>Leo Jud.<fe> et mihi dolent admodum. Putamus autem omnino tibi illusum esse vanis suspitionibus. Hactenus enim Megander de te sensit
+optime. Videtur nobis grave virum bonum haberi pro perfido. Proinde a te peto, mi frater, ut ex integro totam mihi exponas causam. Videbo, quid commode fieri possit. Et te et Megandrum amo ut animam
+meam. Ferre ergo non possum ullam inter optimos et delectissimos viros simultatem.
+^$Quod nos attinet, res nostrae habent optime, domino gratia. Ex Italia missae literae nescio quid de Turcarum
+imperatore referant<f1>Nachrichten über die Bedrohung Italiens durch Suleiman I. hatte auch Myconius zu Gesicht bekommen; s. oben Nr. 1034, 13f mit Anm. 7.<fe>.
+Aiunt illum Apolloniae in Epiro mille velis instructum nescio quam operiri occasionem<f1>Zum türkischen Feldzug nach Valona (Vlorë, Albanien) s. Joseph
+^#/+von Hammer[-Purgstall],^#/- Geschichte des Osmanischen Reiches, Dritter Bd., Pest 1828, S. 182-188. 696-698. - Vadian erhielt dieselbe Nachricht durch Vermittlung Comanders aus Chur,
+s. Vadian BW V 438.<fe>. Sed et Axaxbassam<f1>Ayas Pascha, 1482(?)-1539, stammte aus Albanien, war in Konstantinopel
+erzogen worden und hatte bereits an vielen Kriegszügen teilgenommen, als er 1536 Großwesir wurde. Schon drei Jahre später erlag er der Pest. - Lit.: Biographisches Lexikon zur Geschichte Südosteuropas, hg. v. Mathias Bernath und
+Felix v. Schroeder, Redaktion Gerda Bartl, Bd. I, München 1974. - Südosteuropäische Arbeiten 75/1, S. 116f.<fe>, ducem Turcicum,
+movere ex Illyrico<f1>Am 29. August landete Ayas Pascha auf Korfu, wo er sich am türkischen Eroberungsversuch beteiligte; s.
+^#/+von Hammer[-Purgstall],^#/- aaO, S. 186.<fe>. Metuunt alii Siciliae, alii Apuliae<f1>Tatsächlich fielen türkische Truppen
+Ende Juli in Apulien ein, doch kam es nicht zum befürchteten Vorstoß auf Rom; s. ^#/+Pastor^#/- V 190f.<fe>.
+Quid rerum sit, nescio. Dominus orandus est, ut nostri misereatur.
+^$Salvum volo amicum et fratrem nostrum integerrimum Gryneum. Miror, an is vivat, tam raro scribit. Non curarem adeo cacographiam<f1>Vgl. HBBW VI, S. 485, 1-16; ^#/+Pollet,^#/- Bucer II 371, Anm. 5.^&xauch 22. 12. 1540 an Basler, "tam infelicibus digitis"^&x{<fe>, modo
+aliquid scriberet. Valete una omnes.
+^$Tiguri, calendis septembris 1537.<un>Heinrychus Bullingerus<un>tuus.
+<lz>Ich bitt üch früntlich, ir wöllind schicken in Heinrych Wyncklis huß und vragen lassen, wie es doch umb min buͤchlin
+stande<f1>Gemeint ist die Schrift "Der alte Glaube" (HBBibl I 99), die Bullinger Hans Heinrich Winkeli gewidmet hatte (s. oben
+Nr. 958) und die Anfang Juni von Wolfgang Fries in Basel gedruckt worden war.<fe>, das er mir doch so gar nüt embüt<f1>mitteilt.<fe> und ich noch ghein exemplar gesähen
+hab, da ich aber wol gedenck, er habs langist truckt. Gruͤtzend mir inn.
+<lz>[Adresse auf der Rückseite:] Domino Osvaldo Myconio, ecclesiastae Basileiensi, fratri honorando. Basel.
+</content>
+</letter>

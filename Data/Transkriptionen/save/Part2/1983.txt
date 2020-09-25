@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1983">
+<nr>1983</nr>
+<correspondents>
+	<originator>Giovanni Domenico Panizzone</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bremgarten</place>
+	<date>12. September 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365a, 436 (Siegelspur<fx>^#/+Im engen Einband teilweise verdeckt.^#/-<fe>)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 172^&x{
+<dr>Ungedruckt</dr>
+<re>Dankt für Bullingers gestrigen Brief und für die ihm erfüllte Bitte; richtete Bullingers Grüße aus, die erwidert werden; weiß sich Bullingers Verwandtschaft verpflichtet und möchte von Nutzen sein; empfiehlt sich ihm.
+</re>
+<tx>Eruditissime vir et domine mi observandissime.
+^$Vidi, quę heri ad me scripsisti<f1>Dieser Brief Bullingers ist nicht erhalten.<fe>, et omnia libenter
+intellexi, quia mihi satisfecisti, ut desiderabam.<f1>Panizzone bezieht sich auf seinen Brief an Bullinger vom 9. September 1544 (oben Nr. 1979). Darin bat er Bullinger um Nachrichten bezüglich der Ankunft des burgundischen Gesandten in Zürich und der Friedensverhandlungen zwischen Kaiser Karl^#. V.
+und König Franz^#. I.<fe> Quare
+fateor me tibi plurimum debere et ago gratias, ac quicquid
+possum et habeo, id totum tibi offero. Tuos salutavi, ut
+iussisti, qui te pariter resalutant. Ego vero non ero
+immemor tuę comendationis erga tuos, ubi eis prodesse
+potero, ut hactenus feci. Nihil aliud habeo, quod
+scribam, nisi quod more solito tuus sum et superi me genuere
+tuum, cui ac familię toto corde me comendo.
+^$Brengartii, 12. septembris 1544.
+<un>Totus tuus Io. Dominicus
+<un>Panizonus.
+<lz>[Adresse auf der Rückseite:] Eruditissimo viro ac domino
+meo observandissimod. Henrico Bullingero. Turregi.
+</content>
+</letter>

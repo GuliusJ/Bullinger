@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="541">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Dionysius Melander</addressee>
+</correspondents>
+<space_time>
+	<place>(*Zürich</place>
+	<date>März 1535*)+1</date>
+</space_time>
+<print></print>
+<note>Gedruckt: In posteriorem d(*ivi*) Pauli ad Corinthios epistolam Heinrychi</note>
+<note>Bullingeri commentarius, Zürich 1535, f. 2r.-v. (Widmungsvorrede)+2</note>
+<statue>
+Zwar ist der Kommentar zum zweiten Korintherbrief kürzer ausgefallen
+als jener zum ersten, doch ist zu bedenken, dass die anspruchsvolle
+Aufgabe den Kommentator immer zu einer gewissen Ausführlichkeit zwingt.
+Wenn das Werk auch nicht allen Ansprüchen genügen kann, soll Melander
+doch den Autor gegen ungerechtfertigte Kritik in Schutz nehmen.
+</statue>
+<content>
+In secundam Pauli ad Corinthios epistolam Heinrychi Bullingeri ad
+Dionysium Melandrum praefatio.
+<p>Prolixior fortasse fui in excutienda epistola priore, succinctiora itaque in posteriorem dabimus+3. Interim vero expendat apud se quilibet, quot et quanta a commentatoribus paulo diligentioribus sint observanda+a,
+illa vero paucis absolvi non posse.
+Exponenda enim compluribus in locis lectio diversa, et quae ex iis magis
+genuina sit, sed et nullibi non monendum, quae quorundam verborum vis ac
+proprietas, quae item sint orationis incommoda, qui tropi, qui
+schematismi, quomodo obscurius, brevius et perturbatius dicta clarius,
+copiosius planiusque exponi queant. Deinde, quod primum ac potissimum in
+commentariis requiritur, etiam superstitiosius observandus et ordinandus
+est orationis contextus, indagandus authoris scopus, indicandum,
+quomodo ad scopum argumenta referantur singula, quid obiter insertum et
+quid per digressionem dictum sit. Reddendus nonnunquam sensus paraphrasi,
+ostendendus orationis vigor ac ardor, sed et loci communes tractandi
+nonnunquam, quos et annotasse aliquoties suffe//^^^'Sup(2r.)cerit,
+admonendum quoque, quis usus eorum,
+quae disputata sunt, nec omittendum, si iis quispiam fuerit abusus.
+Asserenda enim veritas, confutandum vero mendacium. Quid, quod prodest et
+aliorum nonnunquam recensuisse sententias? Ista vero omnia quis,
+obsecro, unus et brevibus tractaverit?
+Veniam igitur merentur, qui commentarios nonnunquam copiosiores aedunt.
+Sunt sane, quos grata multis commendavit brevitas, verum illi vel sensum
+duntaxat paucis vel schemata certa vel locos annotarunt communes vel
+annotata et veluti fragmenta quaedam aediderunt. Paucissimos invenias,
+qui omnia ista in scribendis commentariis observarint tractarintque
+diligentius.
+Nec istud in hoc dico, quod nostris commentariis illa omnia
+praestiterimus, sed quod multa conanti ipsum opus inter manus opinione
+maius excreverit. Tuum erit, Dionysi praestantissime, nostram fidelitatem
+et diligentiam tueri adversus quorundam procaces calumnias et laborantes
+nos in vinea domini+4 perpetuis iuvare precibus.</p>
+</content>
+<note>
+.us; +a> am Rande:  Commentatoris officia et diligentia.
+<address>
++1>Zur Datierung siehe Anm. 2.
++2>Bullingers Kommentar zum zweiten Korintherbrief erschien bei
+Froschauer im März 1535, s. HBBibl I 71; HBD 24, 11f.
++3>Der Kommentar zum ersten Korintherbrief (HBBibl I 53)
+umfasst 224 Blätter, das vorliegende Werk nur 128.
++4>Vgl. Mt 20, 1-16.
+</address>
+</note>
+</letter>

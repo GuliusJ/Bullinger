@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2781">
+<brief>
+<id>17049</id>
+<nr>2781</nr> <from persid="VadianJoachim"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1547-01-30"/>
+<ae>Joachim Vadian an [Bullinger]</ae>
+<od>[St. Gallen], 30. Januar 1547</od>
+<vo>Teilabschrift von unbekannter Hand
+<fa><i>Aus dem 17. Jh.</i></fa>: Zürich ZB, Ms F 64, 648r.</vo>
+<dr>Druck: <a>Vadian BW</a> VII 126, Nr. 91</dr>
+<re><t>Vadian möchte über Rudolf Gwalthers Angelegenheit
+<fn>Zu dem wegen Gwalthers "Endtchrist" eingeleiteten Verfahren s. zuletzt <qv>nr2767</qv>,<qv>zl17035-24</qv>.</fn> genau informiert werden. Bestimmt sind die [Neun Orte] diesem gegenüber umso ungehaltener, als er Huldrych Zwinglis Schwiegersohn ist!
+<fn>Gwalther war mit Regula Zwingli verheiratet.</fn> Doch gewiss würden sie sich noch aggressiver verhalten, wenn die [protestantischen] Städte auf Verleumdungen und Angriffe, besonders auf die des Papstes [Paul III.], nicht reagieren dürften und ihren Glauben verschweigen müssten! Wie könnte es dann unter den Eidgenossen zu einer heilsamen Verlängerung des Bundes (die den Städten ihre Religion gewähren würde) kommen? Und wie könnten mit der Zeit die Städte ihre Religion beibehalten, wenn ihnen untersagt wird, ihren Glauben gegen den Lästerer [den Papst] zu verteidigen und die umstrittenen religiösen Punkte anzuschneiden? Doch entspricht dies völlig der von den Bischöfen und den Äbten in ihren geheimen Konklaven befürworteten Handlungsweise!
+<fn>Dieser Brief wurde vermutlich zusammen mit Francisco de Enzinas' Brief an Bullinger (<qv>nr2783</qv>) Bernardino Ochino anvertraut.</fn></t></re> <textweg>
+<div>
+<p>[Überschrift:] Joach[imus] Vadianus, tertio Calend. Febr. 1547.</p>
+<p>De Gwaltheri rebus vellem abs te mature et bona fide certior fieri. Nil dubita, quin omnia illius caussae suae hoc peius apud adversarios habeant, quod Zvinglii nostri gener est. Quam facile autem opprimentur, si tacere nos ad quamlibet maledicas calumnias iniuriasque, papae
+<fn>Paul III.</fn> imprimis, nihil reponere et fidei nostrae rationem reddere orbi iudicanti non licebit! Eritne salva conductio foederis, quae et nostrae nos religioni asserit? Wie werden wir bey unserem glauben bleiben mögen, wann sy uns denselbigen gegen den lesterer zu vertedigen und allen spann an den tag zu thun nicht zulassen wollen? Sed id genus artes promovent episcopi et abbates clanculariis suis in conventiculis.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div> </textweg>
+</brief>

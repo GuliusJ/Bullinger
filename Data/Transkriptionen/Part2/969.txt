@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="969">
+<nr>969</nr>
+<correspondents>
+	<originator>Johannes Fries</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>14. März 1537</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms F 38, 306 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Wird der Aufforderung zur Rückkehr möglichst noch vor Ostern Folge leisten; welchen Schaden ihm allerdings seine
+Abberufung verursacht und wie sehr sie dem Bürgermeister und der Universität mißfällt, will er mündlich berichten. Kann
+vor Betrübnis kaum schreiben.</re>
+<tx>Tuas literas<f1>Bullingers Antwort auf den vorangehenden Brief von Fries (oben Nr. 962) ist nicht erhalten; offenbar
+verlangte Bullinger seine sofortige Rückkehr nach Zürich.<fe> accepi, mi Bullingere. Iis, quamprimum fieri poterit, ut
+aequum est, morem geram. Qua autem studiorum meorum iactura id facere cogar, ex me, quamprimum venero, abunde audies.
+Veniam autem, ut opinor, ante festum pashatis<fx>pashatis ^#/+vom Schreiber korrigiert aus^#/- pascaatis.<fe><f1>1. April.<fe>;
+citius minime licebit. Quid denique dispendii et incommodi hic in patriam reditus mihi ferat, pręsens tibi declarabo.
+Non minus damni haec profectio mihi nocitura est, quam cum ex Gallia mihi erat discedendum<f1>Vgl. oben Nr. 962, 5-8
+mit Anm. 2f.<fe>. Quo pacto consuli universitatisque gymnasiarchis hęc
+res placuerit, ex me quoque audies<f1>Vgl. die Missive
+von Bürgermeister Jakob Meyer und dem Basler Rat an Zürich vom 20. März (Zürich StA, A 240. 1), das Gesuch der Universität vom 26. März (ebd., vgl. unten Nr. 976, Anm. 1) sowie das von Myconius im Auftrag der Universität verfaßte Schreiben vom 27. März (unten Nr. 976).<fe>.
+^$Vale, patrone omnium charissime. Hęc prae nimia cura et sollicitudine, qua adficior, vix potui scribere. Te itaque
+sedulo oro, ut aequi bonique pro tua humanitate consulas. Vale iterum. Meo nomine diligenter mihi salutabis totam tuam
+familiam et cęteros, quos nosti mihi charos.
+^$Datum raptim, Basileae, pridie idus martii 1537.
+^$Expeditis meis negotiis ante pasha<fx>pasha ^#/+vom Schreiber korrigiert aus^#/- pascaa.<fe>, ut dixi, deo favente iter
+ingrediar.<un>Tuus ex animo Frisius,<un>quantus est, totus.
+<lz>[Adresse auf der Rückseite:] Insigni et eruditione et pietate virod. Henricho Bullingero, divini verbi
+concionatori, suo patri inprimis venerando. Tiguri.
+</content>
+</letter>

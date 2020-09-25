@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1001">
+<nr>1001</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>25. Mai 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 74 (Siegelspur) </vo>
+<dr>Teildruck:^#/+ Bizer,^#/- Abendmahlsstreit 202, Anm. 3</dr>
+<re>Berichtet im Nachgang zu einem den Engländern [Woodroffe und Butler] mitgegebenen Brief über die Aufnahme der aus Straßburg übermittelten Akten des Bundestags zu Schmalkalden durch den
+Zürcher Rat: Die Stellungnahme zum Konzil und [Melanchthons Schrift] zum Primat des Papstes und zur Jurisdiktion der Bischöfe wurden ebenso wie der Bundestagsabschied mit Freude zur Kenntnis genommen.
+Dank der Milde Luthers und besonders Melanchthons, aber auch Crucigers und Jonas', ist das Schreiben der Schweizer in Schmalkalden wohlwollend aufgenommen worden; die Gegner werden sich allmählich beruhigen.
+Während der Zürcher Rat auf Luthers unerwartet freundliche Äußerung wohl bereits geantwortet hätte, wenn nicht zuerst sein durch Melanchthon angekündigtes Schreiben abzuwarten wäre,
+haben die von Bucer vorgelegten neuen Artikel [Nr. 983] Befremden erregt. Gruß.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Scripsi per Anglos<f1>Gemeint sind William Woodroffe und John Butler, die nach Straßburg unterwegs waren (s.
+^#/+Boesch,^#/- Gwalthers Reise 458 [lat.] bzw. 460 [dt.]). Der von ihnen überbrachte Brief ist nicht erhalten.<fe>, Myconi
+venerande, sed ea de re ne verbum quidem commemoravi, quam maxime desyderare te<fx>te ^#/+über der Zeile nachgetragen.^#/-<fe> nihil
+ambigo, quomodo placuerint nostris per principes acta Schmalkaldiae et ab Argentorato missa<f1>Straßburg hatte die Akten des Bundestags zu Schmalkalden am 2. April nach Basel
+gesandt (s. das Begleitschreiben Straßburgs in Basel StA, Kirchenakten A 4, 77; vgl. PC II 428, Anm. 7), von wo sie am 17.
+April in Abschrift an Zürich und die übrigen reformierten Orte weitergeleitet wurden (s. Basel StA, Missiven B 2, 77v.-79r.). Die acht Aktenstücke (unten zit. als: Akten Nr. 1-8) und der Begleitbrief finden sich in Zürich StA, E I 1. 2b. Wie aus dem
+Dankschreiben an Basel vom 19. Mai (Basel StA, Kirchenakten A 9, 298r.-v.; Entwurf: Zürich StA, B IV 8, 86r.-v.) hervorgeht, wurde dem Rat an diesem Tag ein eigens angefertigter Auszug vorgetragen. Dieser liegt ebenfalls in Zürich StA, E I 1. 2b; er
+beginnt mit einem Verzeichnis der Teilnehmer des Bundestags, worauf Zusammenfassungen der acht Aktenstücke folgen.
+Der Entwurf von Bullingers Hand ist erhalten in Zürich StA, E II 337, 227r.-234v.; er enthält zusätzlich zur Ausfertigung als letzten Teil Luthers
+Brief an Jakob Meyer vom 17. Februar (s. oben Nr. 970, Anm. 4). ^#/+Bizer^#/- deutet den Auszug irrtümlich als Werk Bucers (s. ARG XXXVI 225f).<fe>. Quae igitur responsa sunt
+caesari per confoederatos super consilio Mantuano<f1>Gemeint ist die Ablehnung des Konzils in der Antwort der Stände an den Gesandten Kaiser Karls V., Matthias Held (die Anträge Helds und die Antworten in Akten Nr. 1-4; vgl. oben Nr. 971, Anm. 3).<fe>, placuerunt maxime. Quae adiecta sunt de primatu
+papae et episcoporum
+iurisdictione<f1>Nämlich Melanchthons "Tractatus de potestate et primatu papae" (BSLK 469-498; Akten Nr. 6).<fe>, non minus placuerunt.
+Decretum<f1>Der das Konzil betreffende Teil des Abschieds vom 6. März wurde dem Zürcher Rat ebenfalls vorgelegt (Akten Nr. 5).<fe> vero omnes exhileravit. Laudarunt optimi quique dominum. Et quidem
+laudandus est in saecula, qui tantam dedit libertatem ecclesiae suae et principibus viris. Confirmet hoc deus, quod
+operatus est in eis. Agent<fx>^#/+nach^#/- Agent ^#/+ein gestrichenes, nicht sicher lesbares Wort^#/- (principib.?).<fe> gratias amplissimas cum amica insinuatione.
+^$Didicimus praeterea<f1>Außer auf den Bericht Bucers (s. unten Anm. 11) bezieht sich Bullinger wahrscheinlich auf Mitteilungen Johannes Zwicks, der in diesen Tagen in Zürich weilte, nachdem er sich kurz zuvor durch Ambrosius Blarer über die Verhandlungen in Schmalkalden hatte unterrichten lassen
+(vgl. oben Nr. 995, 1-6).<fe> principibus et urbium legatis non displicuisse expositionem nostram de ministerio verbi et
+sacramentorum<f1>Gemeint ist der Brief der reformierten Städte der Eidgenossenschaft an Luther vom 12. Januar (vgl. oben Nr. 934, Anm. 15).<fe>, imo arrisisse vehementer, neque illos a nobis quicquam postulaturos amplius. Vident enim nos recte
+sentire de coena, contentionem propter alias nescio quas causas versari inter doctos. Et per omnia noluerunt isti
+quicquam contentiosi admittere mandaruntque contionatoribus in conventu congregatis, ne quid contentiosi in medium
+proferrent<f1>Vgl. Zwicks Bericht an den Konstanzer Rat in: Volz, Urkunden 143f.<fe>. Fuit et Lutherus per omnia candidus, ita et Melanchton prae caeteris. Audio et doctorem Crützingerum<f1>Kaspar Cruciger.<fe> et Iustum
+Ionam mire aequabiles et paccati ingenii homines esse, ut alios multos viros bonos et doctos taceam. Fuerunt tamen
+plurima turbulentiora ingenia, quibus si obsequndassent reliqui, nescio, quid factum fuisset. Atque hisce nihil dubito
+expositionem nostram non satisfecisse per omnia. Da lygt aber wenig an<fx>^#/+Satz nachträglich in kleiner Schrift eingefügt und umrahmt.^#/-<fe>. Es trochnet sust ab<f1>Das bessert sich von selbst.<fe>
+mitt der zyt, wenn wir uns fridlich und früntlich halt[e]nd<fx>^#/+Satz am Rande nachgetragen; Text beschädigt.^#/-<fe>.
+^$"De negotio concordiae", ais, "quid sentiebat senatus, ubi audisset, quae dixerat doctor Lutherus et quae de suo addiderat
+Bucerus?"<f1>Gemeint ist Bucers Brief vom 1. April (oben Nr. 983), der zu den von Basel in Abschrift übersandten Akten gehörte (Akten Nr. 8). Bei der Anfertigung des Auszugs (s. oben Anm. 2) wurde Bucers Bericht durch die Einfügung von Melanchthons Schreiben (s. folgende Anm.) zweigeteilt; die
+beiden Teile dieser von Bullinger bearbeiteten Kurzfassung sind gedruckt in: ARG XXXVI 225-233 (mit falscher Interpretation, vgl. oben Anm. 2).<fe>. Non expectarat
+sane tam amicum Lutheri responsum. Hinc non per omnia displicuit, et nisi ipse per Philippum<f1>Melanchthon. - Eine Abschrift von Melanchthons Brief vom 15. März (richtig wohl: 5.
+März; s. MO III 312f, Nr. 1543; MBW 1865) gehörte ebenfalls zu den aus Basel übermittelten Akten (Nr. 7).<fe>
+pollicitus esset sese brevi scripturum, facile responsum illi datum fuisset amicissimum. Cum autem Buceri articulatio
+et exhortatio subiungeretur, plerique mirabantur et nimis offitiosum esse dicebant. "Quorsum enim opus est illis articulis
+3", aiebant, "cum expectemus Lutheri scriptum?" Imo mirum est Bucerum praescribere articulos novos, qui iamiam testatus
+est se adhuc ignorare, quomodo placeat nostra expositio Luthero aut quid sit scripturus. Breviter: Ut Lutheri sermo
+non displicuit, ita Buceri scriptum parum placuit. Haec tibi soli.
+^$Salutabis Gryneum et valebis.
+^$25. maii 1537.<un>H. Bulling. tuus.
+<lz>[Adresse auf der Rückseite:] Praeclaro virod. Osvaldo Myconio, Basileiensis ecclesiae antistiti vigilantissimo,
+fratri charissimo.
+</content>
+</letter>

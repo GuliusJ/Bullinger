@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2278">
+<nr>2278</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>2. November 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 218 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 99 ^&x{
+<re>Natürlich hatte Myconius [Bullingers] Worte erwogen und daraus Rückschlüsse auf [Bullingers] Gesinnung gezogen! Niemand außer Jakob Held [von Tiefenau] trat bei Myconius für Schwenckfeld ein. Hätte Bullinger seine Meinung auf einem separaten Blatt (wie er dies nun in [Nr. 2271] tut) dargelegt, hätte Myconius ihn richtig verstanden. Zusammenfassend: [Myconius und Bullinger] sind sich einig, die [Eidgenossenschaft] nicht mit Schwenckfelds Aufnahme und Dogma zu kontaminieren. Die zu große Streitsüchtigkeit Bullingers verzeiht Myconius aufgrund ihrer Freundschaft.
+-^#. Die Beilage [nicht erhalten] von [Johannes] Gast gibt Auskunft über den Sieg des [Landgrafen Philipp von] Hessen sowie über die Gefangennahme von [Herzog Heinrich von] Braunschweig und von dessen Sohn [Karl Victor]. Folgendes steht dort aber nicht: Die Bischöfe von Trier [Johannes IV. Ludwig von Hagen] und von Würzburg [Melchior Zobel] sowie die Mainzer Kanoniker, deren Bischof [Albrecht V. von Brandenburg] vor wenigen Tagen gestorben ist, haben [Philipp von Hessen] Hilfstruppen geschickt; nicht aber der wohl daheim genug beschäftigte Kölner [Erzbischof Hermann von Wied]. Kaiser [Karl V.] wollte einen Sohn [König] Ferdinands [I.] dem Mainzer Bistum aufdrängen, aber die Kanoniker kamen dem durch die Wahl des schlauen Heuchlers [Sebastian von Heusenstamm] zuvor. Der Trierer [von Hagen] soll tödlich erkrankt sein. Verbürgt ist, dass [König] Ferdinand [I.] dem türkischen [Sultan Suleiman I.] tributpflichtig ist, um die [Protestanten] vernichten zu können.
+-^#. Die von Kempten halten bis zu 20'000 Haken[büchsen] aus Italien zurück, von denen man behauptete, sie seien für Ferdinand bestimmt; in Wirklichkeit waren sie für [Heinrich von] Braunschweig.
+-^#. [König Heinrich VIII. von] England und in geringerem Maße [König Franz I. von] Frankreich haben die Protestanten ersucht, den [englisch-französischen] Krieg zu schlichten; diese haben Gesandte dazu beauftragt, die gut empfangen wurden, besonders von Frankreich. [Karl V.] ist es aber gelungen, noch vor den Protestanten als Vermittler für den von ihm getäuschten [Heinrich VIII.] zu wirken.
+-^#. Myconius ist mit dem Ausgang des Tags zu Baden zufrieden. Die [eidgenössischen] Gesandten nach Mailand werden sehen, ob [die Nachrichten über Truppenbewegungen in Italien] wahr sind, denn es sollen in Mailand 10'000 kaiserliche Spanier erwartet werden. Diese Nachricht würde Bullingers frühere Mitteilungen über den Marchese [Alfonso d'Avalos] bestätigen.
+-^#. Grüße, auch an Theodor [Bibliander].
+-^#. [P.S.:] Der Bote [...] reißt Myconius den Brief geradezu aus den Händen.</re>
+<tx>S. Equidem verba sum intuitus et inde mentem coniectavi!<f1>Myconius antwortet damit auf Bullingers Vorwurf in oben Nr. 2271, 3f.<fe> Aliter profecto non licuit.
+Nemo mecum excepto Heldo<f1>Jakob Held von Tiefenau.<fe> pro Schwencfeldio quicquam.<f1>Bezug auf Nr. 2262, 27f, wo Bullinger Myconius aufforderte, die Seinen vor Schwenckfeld zu bewahren. - Siehe auch oben Nr. 2255, 5.<fe> Contra eundem multi loquuntur.
+Si igitur animus tibi fuit, qualem nunc indicas,<f1>Im Brief Nr. 2271.<fe> significasses schedula adposita,
+et ego omnia interpretatus essem, ut nunc, dexterrime.
+Summa: Convenit de non contaminanda Helvetia per praesentiam Schwencfeldii, minus etiam per dogma eius.
+Reliqua, in quibus paulo contumeliosior videris, condono amiciciae nostrę.
+^$De Hesso<f1>Landgraf Philipp von Hessen.<fe> et eius victoria, de capto Brunswicensi<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> et filio<f1>Karl Victor.<fe> eiusdem
+si nescis, legito, quę his sunt inclusa; Gastii scheda<f1>Es handelt sich dabei um das bereits von Gast angeführte Dokument oben Nr. 2277, 5 und Anm. 5.<fe> est.
+Illa autem, quae sequuntur, ea non continet, et profecto sunt admiranda: Episcopi Trevirensis<f1>Johannes IV. Ludwig von Hagen, Erzbischof und Kurfürst von Trier.<fe>
+et Würtzburgensis<f1>Melchior Zobel, von 1544 bis 1558 Bischof von Würzburg.<fe>, praeterea canonici Maguntinenses, quorum episcopus<f1>Albrecht V. von Brandenburg, Erzbischof und Kurfürst von Mainz.<fe> paucis hinc diebus migravit,<f1>Am 24. September; s. oben Nr. 2268, 10f.<fe>
+auxilia miserunt Catto<f1>Landgraf Philipp von Hessen.<fe>. Coloniensis<f1>Hermann von Wied, Erzbischof und Kurfürst von Köln.<fe> nulla misit! Fortasse, quod domi satis abunde habet, quod agat.
+Cęsar<f1>Karl V.<fe> vi conatus est intrudere<f1>aufdringen; s. ^#/+Hoven^#/- 295.<fe> in ditionem Maguntinam filium Ferdinandi,<f1>Wohl ein Gerücht. Vielmehr unterstützte Karl den Kardinal Otto Truchsess von Waldburg (s. Friedrich ^#/+Zoepfl,^#/- Geschichte des Bistums Augsburg und seiner Bischöfe, Bd. 2: Das Bistum Augsburg und seine Bischöfe im Reformationsjahrhundert, München und Augsburg 1969, S. 205). Doch äußerte er dann Zufriedenheit mit der Wahl Heusenstamms, den er als guten, gelehrten Katholiken ansah (s. NBD VIII 376, 16-18).<fe> sed canonici praevenerunt.
+Elegerunt enim nobilem quendam<f1>Sebastian von Heusenstamm.<fe> notę vilioris<f1>notę vilioris: von weniger bedeutendem Namen. - Zu dieser Junktur s. ^#/+Columella,^#/- De re rustica, 9, 4.<fe>, et eundem doctorem
+hominem vafrum et mirabiliter hypocritam, ut ferunt, atque ita iam desistendum cęsari.
+Letaliter aiunt decumbere Trevirensem,<f1>Siehe dazu oben Nr. 2277, 10f und Anm. 13.<fe> et certo fertur Ferdinandus se Turcae<f1>Sultan Suleiman I.<fe> fecisse tributarium,<f1>Siehe dazu oben Nr. 2167. Laut dem Friedensvertrag durfte Suleiman I. bei den gewonnenen Ländern bleiben; Ferdinand musste ihm jährlich 2'100 Dukaten Tribut zahlen; s. Vadian BW VI 419.<fe> non ob aliud, nisi ut nos perdant.
+^$A Campidonensibus bombardę, quas haggen<f1>Hakenbüchsen.<fe> vocant, detentę dicuntur ad numerum 20'000.
+Tributę sunt Ferdinando. Verum re comperta ad Brunsvicensem ducebantur ex Italia.<f1>Siehe zuletzt oben Nr. 2277, 12 und Anm. 16.<fe>
+^$Protestantes, sollicitati magis ab Anglo<f1>König Heinrich VIII.<fe> quam Gallo<f1>König Franz I.<fe>, ut bellum componere
+inter ipsos tentarent, miserunt legatos.<f1>Die Schmalkaldener sandten Ludwig von Baumbach und Johannes Sleidanus nach England sowie Johann Bruno von Niedbruck (alias Dr. Bruno von Metz, Hans von Metz, Johann von Niedbruck, Jean Bruno de Pont-de-Nied) und Christopher von Venningen nach Frankreich. Baumbach und Sleidanus waren am 19. September 1545 am Hof zu Windsor angekommen, bevor sich die Verhandlungen nach Frankreich verlagerten, und reisten im Oktober nach Frankreich, wo sie mit Niedbruck und Venningen zusammentrafen. Im November kamen die englischen Repräsentanten William Paget und Cuthbert Tunstall hinzu. Die Friedensverhandlungen begannen am 26. November 1545. Siehe Rory ^#/+McEntegart,^#/- Henry VIII, the League of Schmalkaden and the English Reformation, Woodbridge 2000, S. 209f; Alexandra ^#/+Kess,^#/- Johann Sleidan and the Protestant Vision of History, Aldershot 2008, S. 54f; ^#/+Potter,^#/- 410-426; oben Nr. 2227, Anm. 48.<fe> Admissi sunt satis commode, et Gallus visus ab ęquis conditionibus non abhorrere.
+Imperator tamen vias invenit, ut Anglus, iam turpiter ab eo deceptus,<f1>Mit "eo" ist Kaiser Karl V. gemeint, der zu König Heinrichs Enttäuschung im Jahr 1544 nur mit König Franz I. den Frieden von Crépy geschlossen hatte.<fe> ipsum<f1>Gemeint sind Karl V. bzw. dessen Vertreter bei den Vermittlungsbemühungen.<fe> prę protestantibus
+ad actionem admiserit.<f1>Zur Rolle Karls V. bei der Vermittlung im englisch-französischen Krieg s. ^#/+Potter,^#/- 402-409.<fe> Quid futurum sit, expectamus.
+^$De comitiis Helvetiorum quae scribis,<f1>Bullingers Mitteilungen über den Tag zu Baden; s. oben Nr. 2271, 26-35.<fe> satis placent.
+Legati<f1>Die nach Mailand abgeordneten Gesandten aus Zürich, Luzern, Uri und Schwyz; s. oben Nr. 2271, 26-30.<fe>, postquam venerint Mediolanum, comperient, verumne sit necne<f1>verumne sit necne: Damit bezieht Myconius sich auf die von Bullinger angedeuteten Rüstungen in Italien; s. oben Nr. 2271, 29f und Anm. 12.<fe>.
+Volat enim rumor expectari illic decem millia Hispanorum, quę pertineant ad cęsarem.<f1>Dieselbe Nachricht findet sich im Brief der Dreizehn von Basel an die von Straßburg, 29. Oktober 1545 (PC III 665, Nr. 627). Im Brief des Rates von Konstanz an Zürich vom 20. Oktober 1545 (Zürich StA, A 205/1, Nr. 198) wird berichtet, dass ca. 4'000 Mann von Pisa, Florenz und Lucca auf dem Weg nach Mailand waren.<fe>
+Confirmat rumor, quantum in ipso, quę tu prius<f1>In dem nicht erhaltenen Brief Bullingers an Myconius von September 1545; s. oben Nr. 2252, 26-30 und Anm. 24.<fe> ad me de marchione illo<f1>Alfonso d'Avalos, Marchese del Vasto (Guasto).<fe>.
+^$Vale una cum tuis et Theodoro<f1>Theodor Bibliander.<fe>. Equidem plura non potui, nam hęc mox a prandio.
+^$Basileae, 2. novembris anno 1545.
+<un>Os. Myco.
+<un>tuus.
+<lz>Rapuit tantum non has tabellio<f1>Unbekannt.<fe> e manibus scribentis.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero, Tigurinae ecclesię episcopo, domino et fratri colendissimo suo.<f1>Dieser Brief wurde zusammen mit Gasts Brief (Nr. 2277) befördert; s. Z. 9 und Anm. 8.<fe>
+</content>
+</letter>

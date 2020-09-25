@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1999">
+<nr>1999</nr>
+<correspondents>
+	<originator>Adam Bartholomäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Neuburg an der Donau</place>
+	<date>30. September 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 368, 231 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 195; zu AB vgl. Blarer BW II, Reg.^&x{
+<dr>Ungedruckt</dr>
+<re>Hat Bullingers Brief und seine Schrift ["Antiquissima fides"], deren Gelehrsamkeit er bewundert, wiederholt gelesen; den Fanatikern wird jede Hoffnung auf langlebige Vorschriften genommen, denn weder ist das Dogma der Rechtfertigung durch den Glauben neu, noch ist die Lehre von den Werken ganz alt. Wie Augustin den Donatisten entgegnet, dass sie ihm von Petrus bis hin zu Anastasius auch nur einen [Papst] zeigen sollen, der die Wiedertaufe billigt, so sollen die Gegner wenigstens einen Heiligen bzw. Gerechten des Neuen und Alten Testaments zeigen, der durch Werke und nicht durch Glauben das Heil erlangt hat; denn was will man die letzte Zeit, in der die Lehre von den guten Werken einigermaßen die Oberhand hatte, mit den vielen Jahrhunderten der Patriarchen und Propheten, die alle Gerechtigkeit durch den Glauben erreicht haben, vergleichen! Bezüglich Cochläus hat Bullinger richtig vermutet, dass dieser nicht schweigen wird,
+denn er ist mit der beigelegten, den Luzernern gewidmeten Replik ["Replica brevis"] auf Bullingers ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"] erneut an die Öffentlichkeit getreten, was kindisch ist und keine Antwort verdient; doch weil er Bullinger in Hinsicht auf das Messopfer verunglimpft, sollte wiederum Bullinger in einer [Pfalzgraf Ottheinrich] gewidmeten Gegenschrift zum Ausdruck bringen, dass er nicht weiter auf Cochläus' Geschwätz eingehen wird. Teilt die Anredeformel [des Pfalzgrafen] auf deutsch und lateinisch mit. Will Bullinger in Kürze mit einer Gegengabe danken; Lorenz Meyer übersetzt Sebastian Meyers Schrift ["In apocalypsim Iohannis apostoli ... commentarius"]; falls er bisher nicht schrieb, liegt es an der Übersetzungsarbeit.
+</re>
+<tx>Salus maxima.
+^$Doctissime atque pientissime vir, et munus tuum chartaceum<f1>Gemeint ist die im August 1544 unter dem Titel "Antiquissima fides et vera religio ... apodixis" erschienene lateinische Übersetzung von Bullingers "Der alte Glaube" (HBBibl I 103); s. oben Nr. 1959, Anm. 13. Begründen lässt sich dies mit einzelnen, von Bartholomäus übernommenen Wörtern aus dem Titel; s. unten Anm. 4 und 5.<fe>
+et epistolam<f1>Bullingers Brief ist nicht überliefert, ist aber in Nr. 1991, 43 mit Anm. 26 bestätigt.<fe> legi ac relegi. Erudita, pia et
+<gr>págxrysa tà ȓeĩura</gr><f1>"ganz goldene Flüsse". Quelle dieses Zitats ist Nikephoros I. von Konstantinopel, <gr>^%)/Elegxow kaì anatroph́</gr> (Refutatio et eversio definitionis synodalis anni 815), 156, 16 (CChr-G XXXIII 250, 16).<fe> sunt omnia, hocque debentius
+periocham<f1>griech. <gr>perioxh́</gr>, Inhalt. Bartholomäus hat das Wort aus Bullingers Inhaltsangabe auf dem Titelblatt der "Antiquissima fides" entnommen: "Brevissima ergo periocha est utriusque Testamenti, et probatio, quod per solam fidem in Christum Iesum omnes pii deo et placuerint, et salutem fuerint consecuti".<fe> illam amplector, quod mira brevitate omne
+pręscriptionis temporis diuturnioris desyderium et
+propositum fanaticis nostris
+<gr>ăpotómvw</gr> eximit; nam toti in hoc sunt dogma de
+iustificatione fidei ceu novum atque nuper natum explosum
+iri, operum aut doctrinam ceu vetustissimam, etsi nulla
+alia tamen antiquitatis rationem firmiorem esse manifestum
+sit.
+^$Verum cum iuxta tuam, Bullingere doctissime, Apodixin<f1>griech. <gr>ăpódeijiw</gr>, die Darlegung, der Beweis. - Gemeint ist Bullingers Buch "Antiquissima fides"; s. oben Anm. 1.<fe>
+inceperint rem recta secum reputare via, omnis illis et via
+et conatus praescribendi est prorsus ademptus. Quemadmodum
+d[ivus] Aurelius Augusti[nus] alicubi Donatistis obiicit, ut
+a divo Petro ad Anastasium<f1>Papst Anastasius I., gest. 401.<fe> usque sibi in tanto succedentium
+numero vel unum, qui rebaptizationem adprobarit, ostendant,<f1>Bartholomäus bezieht sich auf Augustin, Epist. 53, 2 (CChr-L XXXI 222, 30-45). Siehe dazu Arne ^#/+Hogrefe,^#/- Umstrittene Vergangenheit. Historische Argumente in der Auseinandersetzung Augustins mit den Donatisten, Berlin 2009, S. 129-145.<fe>
+ita nos iam confidenter ab adversariis petimus, ut aliquem
+saltem non solum Novi Testamenti, sed Veteris quoque sanctum
+sive iustum ostendant, qui operibus et non fide in
+promissionem divinam innitente iusticiam, sanctificationem
+et salutem consecutus sit.<f1>Für freundliche Hilfe zum Verständnis dieser Argumentation danken wir Frau Prof. Dr. Silke-Petra Bergjan.<fe>
+Postrema itaque tempora, in
+quibus operum doctrina aliquantisper plus satis regnavit, ad
+tot annorum centurias patriarcharum et prophetarum, qui
+omnes fide iusticiam consecuti sunt, comparata quid sunt?
+^$Caeterum quod spectat ad Cochlęum, recte divinasti
+Archytę<f1>Archytas von Tarent, Staatsmann, Feldherr, Philosoph und Mathematiker, soll eine Rassel für Kinder erfunden haben; vgl. Adagia, 2, 7, 44 (ASD II/4 114-116, Nr. 1644). - Lit.: Pauly/Wissowa III 600-602; Christoph ^#/+Riedweg,^#/- in: DNP I 1030f.<fe> crepitaculum non taciturum fore, nam rursus in
+publicum prodiit solita battologia<f1>griech. <gr>battología</gr>, Gestammel.<fe>, repplica in Confutationem<f1>Zu Bullingers erster Schrift gegen Cochläus s. oben Nr. 1839, Anm. 3.<fe>
+tuam eruditissimam destinata,<f1>Johannes Cochläus' Gegenschrift erschien in deutscher Sprache als "Ein kurtze Replica Auff die langen Antwort Heyntzen Bullingers von der heyligen Schrifft unnd der Kirchen Authoritet" (Ingolstadt, Alexander Weißenhorn, 1544, VD 16 C 4373) und fast gleichzeitig in lateinischer Übersetzung als "Replica brevis Johannis Cochlaei, adversus prolixam Responsionem Henrici Bullingeri De scriptura et Ecclesiae authoritae" (Ingolstadt, Alexander Weißenhorn, 1544, VD 16 C 4372). Die an den Rat von Luzern gerichteten Widmungsepisteln sind jeweils auf den 20. und 15. Mai 1544 datiert. Der Druck beider Fassungen muss jedoch erst im Spätsommer 1544 erfolgt sein, da am 25. Juli Adam Bartholomäus Cochläus' Erwiderung nur vermutet (s. oben Nr. 1946, 20-24) und diese Bullinger erst mit diesem Brief (s. Z. 33f) übersandte; s. ferner Conradin ^#/+Bonorand,^#/- Die Reaktion Bullingers, Joachim Vadians und anderer evangelischer Schweizer auf die antireformatorische Tätigkeit des Johannes Cochläus, in: HBGesA II 215-230, bes. 226f; Martin ^#/+Spahn,^#/- Johannes Cochläus, Berlin 1898, S. 365, Nr. 154f. - Zur Frage, wann Bullinger Cochläus' Gegenschrift empfangen hat, s. unten Nr. 2004, Anm. 1.<fe> et, ut opinor, quo plus odii
+tibi faciat, ob id Lucernensibus inscripta est et dedicata<f1>Gemeint ist Cochläus' Widmungsepistel an Magistrat und Rat von Luzern; s. oben Anm. 12.<fe>.
+Infantiora certe omnia sunt, quam ut vel a te, vir
+doctissime, vel a quoquam alio responsum mereantur. Quia
+vero magna quadam confidentia sibi videtur te premere de
+sacrifitio missę, ubi, quod omnium maxime ridiculum est,
+te et tui similes<fx>^#/+Vor^#/- similes ^#/+gestrichenes^#/- sile.<fe> tysiomachos (credo thysiomachos<f1>Ein von Cochläus selbst gebildetes Wort mit der Bedeutung "Opferkämpfer"; s. "Replica brevis", f. D4v.<fe> hos voluisse
+dicere) adpellitat, operę pretium esset, ut rursus in
+ipsum confutationem parares<f1>Zu Bullingers Gegenschrift s. unten Nr. 2010 mit Anm. 22.<fe> cum protestatione ista, deinceps
+te non amplius ad istius Thersitę<f1>Thersites, eine homerische Figur, die hässlich und streitsüchtig war und sich mit den Worten der Anderen ausdrückte. Der Namen bedeutet "Frechling".<fe>, ut Homerus scribit,<f1>Homer, Ilias, 2, 12.<fe>
+<gr>ămetroepéow</gr><f1>Des endlosen Schwätzers. (Diese Form des Genitivs, der regulär <gr>ămetroepoỹw</gr> lauten würde, hat archaisierendes Kolorit).<fe> blactimenta<f1>Geschwätz, dummes Gerede.<fe> scribere velle. Et ut cito
+facias et cum inscriptione nominis principis<f1>Pfalzgraf Ottheinrich.<fe>
+nostri illustrissimi, en exemplar Cochleanum tibi mitto,
+quod denuo adversus te in publicum emisit.
+^$Germanice autem sic scribitur principi: Dem
+durchleuchtigen, hochgebornen fürsten und herren,
+herren Otto Haynrichen, pfaltzgraffen bey Rhein, hertzogen
+in Bayren etc., meinem gnedigen herren. Illustrissimo
+principi ac domino, domino Otthaynrico Palatino Rheni, duci Bavariae
+etc., clementissimo etc. meo domino, et si quid est eiusmodi
+appendicis.
+^$Iam non habeo, quo tibi munus gratissimum remunerem, at
+spero fore in brevi. Agricola Laurentius<f1>Lorenz Meyer; s. oben Nr. 1912, Anm. 1.<fe> ille transferendo
+Apocalypsin Sebastiani Meyeri<f1>Sebastian Meyer, In apocalypsim Iohannis apostoli ... commentarius, Zürich [1539] (BZD C 281).<fe> in linguam vernaculam iussu
+principis est occupatissimus.<f1>Zur Entstehung der Übersetzung, die von Pfalzgraf Ottheinrich in Auftrag gegeben worden war und am 29. September 1544 im Kloster in Medingen vollendet wurde; s. Petra ^#/+Roettig,^#/- Reformation als Apokalypse. Die Holzschnitte von Matthias Gerung im Codex germanicus 6592 der Bayerischen Staatsbibliothek in München, Bern (u.a.) 1991, S. 30. 32. - Zu einem Druck kam es nicht.<fe> Si quid scribendo hucusque
+neglexit, vertendi studio impeditur.
+^$Vale plurimum una cum omnibus ministris verbi dei, qui
+tecum sunt.
+^$Raptim, Neoburgi Danubii, anno etc. 44., die Hieronymi.
+<un>Adam Bartholomaeus, minister
+<un>verbi dei Neoburgi, tuus in
+domino
+<un>verbi
+<gr>synergów</gr><fx>^#/+In der Vorlage^#/- ^#G+συνεργὸς^#G- ^#/+(ohne nachfolgendes Interpunktionszeichen).^#/-<fe>.
+<lz>[Adresse auf der Rückseite:] Eruditissimo simulatque
+pientissimo virod. Heynricho Bullingero, Tyguri in
+Helvetiis Christum conglobato auditorio adnuncianti. Domino
+et amico meo singulariter observandissimo.
+</content>
+</letter>

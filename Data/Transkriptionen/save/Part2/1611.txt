@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1611">
+<nr>1611</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>6. März 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 27 (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 47<fn>Zit.: de Porta I 256</fn></vo>
+<re>Hat Bullinger in diesen Tagen durch Rudolf Schinz einen Brief [Nr. 1608] überbringen lassen, weiß aber nicht, ob er zugestellt wurde. Sendet eine Krone und einen Batzen für ein gebundenes Exemplar von Bullingers Kommentaren zu den paulinischen und [katholischen] Briefen [HBBibl I 84f bzw. 91];
+falls das Geld nicht reichen sollte, wird er unverzüglich den noch ausstehenden Betrag senden; der Briefbote wird Bullingers Buch sicher transportieren und kann auch weitere Dienste übernehmen. Grüße, auch von Comanders Kollegen. Bete für uns, denn wir sind in nicht geringer Gefahr!
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 41f, Nr. 32.]
+^&xGratiam et vitae innocentiam a domino. Literas ad te
+dederam his diebus, amantissime Bullingere, per Rudolphum
+Schintium; an redditae sint, non constat. Illud vero
+potissimum est, quod continent, ut Bullingeri commentarios
+in omnes divi Pauli epistolas ceterasque cononicas[!] in
+forma maiori[e?], codice eleganter illigato apud te invenirem.
+Coronatum et batzium mitto; si quid defuerit, sine dilatione
+quoque mittam. Praesentium latori tuto committere poteris
+librum, - probe enim curabit, ut integre ad me veniat -, et
+si usu venerit, ut tibi servire vel in aliqua re prodesse
+potuero, iubeto.
+^$Vale.
+^$Ex Rhetiae Curia, 6. martii 42.
+^$Salvos optamus omnes fratres. Pro nobis orate; nam in
+periculo sumus haud exiguo vel negligendo.
+<un>Tuus Ioannes Comander.
+<lz>[Adresse .....:] Pietate et doctrina
+spectabili viro Magistro Heinricho Bullingero, domino ac
+fratri suo observando. Meister Heinrichen Bullinger.^&x{
+</content>
+</letter>

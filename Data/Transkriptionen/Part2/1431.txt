@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1431">
+<nr>1431</nr>
+<correspondents>
+	<originator>Johannes Wolf</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Marburg</place>
+	<date>13. November 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 340, 96 (Siegelspur)</vo>
+<vo>Kopie: ZZB, Ms S 48, 152<fn>Erw.: ^#/+Köhler,^#/- Hessen und die Schweiz 470, Nr. 17</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Schreibt nur kurz und kommt nicht ausführlich auf [die eigenmächtige Abreise aus Tübingen] zurück, da er bereits
+darüber berichtet hat und da wohl Gwalther alles übrige mitteilt; möchte auf keinen Fall Bullingers Wohlwollen verlieren
+und empfiehlt sich ihm.
+</re>
+<tx>Plura tibi de meis rebus scriberem rationemque omnium
+rerum redderem verbosius, Bullingere pater, quo magis
+iudicares omnia, quę ex nuper datis ad te literis<f1>Oben Nr. 1421.<fe> cognovisti, ob rerum nostrarum atque opum tenuitatem a
+nobis esse facta<f1>Wolf bezieht sich auf die ohne Erlaubnis erfolgte Abreise der Zürcher Studenten aus Tübingen; vgl. ebd.<fe>, ne
+videlicet rebus omnibus absumptis cum tibi tum aliis dominis nostris rem ingratissimam nominique nostro turpissimam
+commisissemus. Non minus enim a te probari quam diligi semper volui. Sed breviorem me duę res faciunt: una, quod prioribus
+literis omnia illa sim persecutus, altera, quod Rodolphum Gvaltherum, familiarem meum et amicum sincerissimum, reliqua
+omnia suis complexum esse literis<f1>Oben Nr. 1430.<fe> existimem. Non mediusfidius mediocri dolore afficerer, si
+pristinę laudis meae possessionem amitterem; sed usque
+mihi temper[abo, ut]<fx-t>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> perducerem eo rem, ut dignum aliquid
+et vocatione [mea et]<fx-x>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> vestra expectatione efficerem.
+Quod me<fx>me ^#/+nachträglich eingefügt.^#/-<fe> spero, si non [spes]<fx-x>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe>
+fefellerit, consecuturum. Quare a te peto maiorem in modum, ut me per te reliquis meis dominis quam comendatissimum esse velis
+meumque<fx>^#/+in der Vorlage^#/- meamque.<fe> in studiorum ratione observanda et in cęteris, si quod est in me, studium
+tibi comendatum esse putes. Quod si feceris, magnus ad tua pristina erga me studia cumulus accedet.
+^$Vale salutatis matre<f1>Anna, geb. Wiederkehr.<fe>, coniuge<f1>Anna, geb. Adlischwyler.<fe> et universa familia.
+^$Marpurgi, 1540, idibus novembris.
+<un>Tuus Iohan. Wolffius.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. M. Heinricho Bullingero, domino suo unice colendo.
+</content>
+</letter>

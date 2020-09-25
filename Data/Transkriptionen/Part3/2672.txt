@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2672">
+<brief>
+<id>16359</id>
+<nr>2672</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-12"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 12. November 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 260f (neu: 277) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 75</k></dr>
+<re><t>Bullinger kündigt [in einem nicht erhaltenen Brief] an, dass er weniger oft schreiben werde, als ob der Krieg schon zu Ende wäre!</t>
+<t>Bullinger würde anders reden, wenn er die Lobhudeleien einiger Adliger [...] auf der Basler [Martini]messe gehört hätte. Aufgrund einiger Briefe aus dem [kaiserlichen] Feldlager preisen sie das Kriegsglück des Kaisers [Karl V.], seinen Reichtum und Landbesitz und meinen, er sei unbesiegbar. Sie behaupten auch, dass ihm die deutschen Söldner ans Herz gewachsen seien. Demzufolge hätten die [Protestanten] überhaupt keinen Grund, sich zu rühmen! Doch ist das gegenseitige Trösten dieser Adligen nur Ausdruck ihres Zweifels und Verzweifelns.</t>
+<t>Hätte also Bullinger diese Gespräche gehört, hätte er für die Zukunft nicht weniger Briefe angekündigt, sondern würde wie bisher öfters schreiben, genauso wie auch Myconius weiterhin informieren wird! Doch genug gescherzt! In der Tat ist Myconius für Bullingers Briefe sehr dankbar. Der Herr möge ihm diese Wohltat vergelten!</t>
+<t>Bullinger hat nichts über den Boten [den Regensburger Stadtschreiber Nikolaus Dintzel] berichtet, der von [richtig: an] [Antoine Perrenot], dem [bzw. den] Sohn des [Nicolas Perrenot] de Granvelle, entsandt und mit einem Brief von [richtig: an] [Antoine] festgenommen wurde. In dem Brief wird bedauert, dass der Kaiser sein Winterlager nicht in Württemberg aufgeschlagen hat, zumal dort alles Notwendige reichlich vorhanden gewesen wäre. Man solle wenigstens im Frühling dorthin, da dieses Herzogtum sich für das Vorhaben des Kaisers sehr gut eignen würde!</t>
+<t>[Sigismund Stier], der Kanzler des Grafen Georg [von Württemberg-Mömpelgard], schrieb an [Matthias] Erb, dass Sebastian Schertlin Donauwörth sowie Neuburg [a.d. Donau] unter Tötung aller Kaiserlichen eingenommen hätte. Nun zeigt sich anhand von Bullingers Brief, dass das nicht stimmt. Das geht auch aus dem [beschlagnahmten] Brief des Boten hervor. Darin steht im Gegenteil, dass den Kaiserlichen im Territorium des Augsburger Bischofs [Otto Truchsess von Waldburg] genügend Mittel zur Verfügung gestellt werden, um den Krieg im folgenden Jahr fortsetzen zu können.</t>
+<t>[Nicolas Perrenot de] Granvelle soll nicht direkt durch Basel, doch in der Nähe davon zum Basler Bischof [Philipp von Gundelsheim] gereist sein. Zuvor soll er seiner Frau [Nicole Bonvalot] über das Kriegsglück des Kaisers berichtet haben, welcher Ulm hätte problemlos einnehmen können, wenn er es nur gewollt hätte. Ja, die Memminger Ratsherren hätten ihn geradezu um eine Besetzung ihrer Stadt gebeten! Dies wurde Freunden von einigen Burgundern [Wilhelm und Johannes Vermod?] erzählt.</t>
+<t>Myconius bittet um gelegentliche Informationen über die Umtriebe der Innerschweizer.</t>
+<t>Gruß, auch an Gwalther und an die Kollegen.</t></re>
+<text>
+<div>
+<p><vl>261</vl> <zzl>zl16359-1A</zzl>S. Tu ita mihi renuncias frequentiores tuas
+<fn>In einem nicht erhaltenen Brief.</fn> deinceps, tanquam debellatum sit!<zzl>zl16359-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16359-5A</zzl>Si audires nobiles circa Basileam, qui in his hic fuerunt nundinis
+<fn>Die Basler Martinimesse um den 11. November.</fn>, aliter diceres. Bone deus! Quam sibi adulantur! Quam inter se invicem consolantur! Gloriantur ex castris epistolis missis de felicitate c{e}saris
+<fn>Karl V.</fn>, de eius opibus, de multitudine terrarum et insularum, atque ideo dicunt: impossibile esse, ut vincatur. Aiunt militem Germanum
+<fn>Kollektiver Singular; s. dazu <qv>nr2641</qv>, <qv>fn16331-12</qv>.</fn> sic ab eo diligi ut propriam animam. Nugas igitur esse, quibus de nos
+<fn>die Protestanten.</fn> gloriemur.<zzl>zl16359-5E</zzl> Ita solent literis alter alterum erigere, cum illud tamen constet: in cordibus eos crudeliter lacerari et plane desperare.</p>
+</div>
+<div>
+<p><zzl>zl16359-4A</zzl>Hos itaque si audisses, longe dixisses aliter, nempe ut alias.
+<fn>In Anspielung auf die oben gemachte scherzhafte Bemerkung in Z. <qv>zl16359-1</qv>.</fn> Qu{e} cognovero posthac, non te c{e}labo. Verum h{e}c ioco! Scio, qu{e} scripsisti hactenus, quonam scripseris animo; et dico ex animo me gloriari apud bonos ea de re, et apud meipsum gaudeo vehementer.
+<fn>Zu Myconius' großer Dankbarkeit für Bullingers Informationen s. zuletzt <qv>nr2658</qv>,<qv>zl16347-1</qv>; <qv>nr2671</qv>,<qv>zl16358-4</qv>.</fn> Gratias ago igitur, et dominum oro, ut beneficia illa, in corde meo maxima et nobilissima, rependat diviter!<zzl>zl16359-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16359-6A</zzl>Unum non scripsisti: De <zzl>zl16359-3A</zzl>veredario<zzl>zl16359-3E</zzl> intercepto
+<fn>Der Regensburger Stadtschreiber, wie es aus dem Schreiben eines Unbekannten, wohl an den Konstanzer Rat, vom 3. November (Zürich StA, A 177, Nr. 123), hervorgeht. Er wurde auf seinem Weg zum Kaiser von den Augsburgern festgenommen. - Stadtschreiber in Regensburg war Nikolaus Dintzel; s. Alois <i>Schmid,</i> Notarius civium Ratisponensium. Beobachtungen zu den Stadtschreibern der Reichsstadt Regensburg, in: Staat, Kultur, Politik. Beiträge zur Geschichte Bayerns und des Katholizismus, hg. v. Winfried Becker und Werner Chrobak, Kallmünz 1992, S. 58.- Wir danken Herrn Günther Handel vom Stadtarchiv Regensburg für diese Auskunft.<zfn>fn16359-1</zfn></fn>, qui missus a filio Granvel{e}
+<fn>Wohl Antoine Perrenot, Bischof von Arras, einer der Söhne von Nicolas Perrenot, Herrn von Granvelle. Dass er sich damals tatsächlich im Gefolge des Kaisers befand, geht aus seiner Beteiligung an den Verhandlungen mit Württemberg von Dezember 1546 hervor; s. Daniel <i>Antony,</i> Nicolas Perrenot de Granvelle. Premier conseiller de Charles Quint, Clamecy 2006, S. 495. - Allerdings war der aufgefangene Brief nicht <i>von ihm,</i> sondern <i>an ihn</i> gerichtet, wie aus dem oben in <qv>fn16359-1</qv> erwähnten Schreiben hervorgeht. Verfasser des Briefes war der Regensburger Hauptmann Georg von Loxan.<zfn>fn16359-3</zfn></fn> tulit literas, in quibus dolet, quod hyberna
+<fn>Winterlager, Winterquartier; s. <a>Kirsch</a> 1381.</fn> c{e}sar non fecerit in Wirtemberga ut ubi omnium rerum necessariarum fuisset copia. Suadere dicitur, ut, quod nunc praetermissum, ad tempus veris conficiatur; esse nanque ducatum eum vehementer accommodum ad c{e}saris consilium perficiendum.<zzl>zl16359-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16359-7A</zzl>Secretarius praeterea Georgii comitis
+<fn>Sigismund Stier, Kanzler des Grafen Georg von Württemberg-Mömpelgard.</fn> scripserat Erbio
+<fn>Matthias Erb.</fn> Sebastianum Schertlium recepisse Donawerdam et occidisse c{e}sareanos
+<fn>Donauwörth befand sich seit dem 9. Oktober in der Hand der Kaiserlichen; s. <qv>nr2619</qv>, <qv>fn16309-1</qv>.</fn> ad unum; similiter Neoburgum
+<fn>Neuburg a.d. Donau, seit 19. September von den Kaiserlichen besetzt; s. <qv>nr2605</qv>, <qv>fn16293-2</qv>. - Es handelt sich hier um falsche Gerüchte. Allerdings plante Schertlin Anfang Dezember einen Angriff u.a. auf Donauwörth; s. <a>Paulus, Schertlin</a> 76.</fn>. Nunc ex tuis video verum non esse. Item ex literis veredarii
+<fn>Der oben in Z. <qv>zl16359-3</qv> genannte Bote.</fn>,<zzl>zl16359-7E</zzl> qu{e} habent per ditionem episcopi Augustani
+<fn>Kardinal Otto Truchsess von Waldburg.</fn> subsidia fortissima collocanda esse, quo paratiora sint ad bellum instaurandum in annum sequentem, etc.</p>
+</div>
+<div>
+<p><zzl>zl16359-2A</zzl><zzl>zl16359-8A</zzl>Granvela non per urbem nostram,
+<fn>Vgl. <qv>nr2670</qv>,<qv>zl16357-3</qv>.</fn> sed non ita procul ab urbe transiit, ut dicunt, ad episcopum Basiliensem
+<fn>Philipp von Gundelsheim.</fn>.<zzl>zl16359-8E</zzl> <zzl>zl16359-9A</zzl>Is Granvela paulo ante scripserat ad uxorem
+<fn>Nicole Bonvalot.</fn> de magna c{e}saris fortuna, qua <vl>260</vl> uteretur in bello; nam Ulmam facilime obtinuisset, modo voluisset. Ex Memminga senatores velut invitasse c{e}sarem ad occupandum,
+<fn>Ein falsches Gerücht; s. Peer <i>Frieß,</i> Die Außenpolitik der Reichsstadt Memmingen in der Reformationszeit, Memmingen 1993 - Memminger Forschungen 4, S. 201.</fn> et huius generis multa.
+<fn>Die Zürcher scheinen die Konstanzer über den Besuch Granvelles beim Basler Bischof und vermutlich auch über den Inhalt des hier erwähnten Briefes benachrichtigt zu haben, da Konstanz sich am 15. November dafür bedankte; s. Zürich StA, A 177, Nr. 140.<zfn>fn16359-2</zfn></fn> H{e}c Burgundiones quidam
+<fn>Unbekannte. - Vielleicht die Studenten Wilhelm Vermod (zu ihm s. <qv>nr2653</qv>, <qv>fn16342-8</qv>) und sein Bruder Johannes aus Nozeroy (s. <a>M-Basel</a> 45, Nr. 26).<zfn>fn16359-4</zfn></fn> amicis narrarunt, etc.<zzl>zl16359-9E</zzl><zzl>zl16359-2E</zzl></p>
+</div>
+<div>
+<p>De Helvetiorum Immontanorum
+<fn>Gemeint sind die Innerschweizer, die man laut Myconius wegen ihrer Umtriebe im Auge behalten sollte; vgl. <qv>nr2658</qv>,<qv>zl16347-13</qv>. Seitens der Freiburger war nämlich im Oktober 1546 eine Gesandtschaft der katholischen Orte an Franz I. vorgeschlagen worden; s. <a>EA</a> IV/1d 691f b. 696 g. 703 c. 717 d; <qv>nr2721</qv> und <qv>fn16410-2</qv>.<zfn>fn16359-5</zfn></fn> conatu dicito, si quid habes et per ocium poteris.</p>
+</div>
+<div>
+<p>Vale in Christo cum Gvalthero et fratribus piis. Basile{e}, 12. novembris anno 1546.</p>
+<un>Tuus Os. Myc.</un>
+<lz/>
+<p>[Adresse darunter:] D. Heinricho Bullingero suo.
+<fn>Laut <qv>nr2682</qv>,<qv>zl16369-1</qv>, wurde vorliegendes Schreiben zusammen mit dem am gleichen Tag verfassten Brief <qv>nr2671</qv> nach Zürich befördert.</fn></p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1858">
+<nr>1858</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Travers</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. März 1544</date>
+</space_time>
+<vo>Abschrift von Petrus Dominicus Rosius a Porta<fx>^#/+Das Original ist verschollen. A Portas Abschrift datiert vom Jahr 1767.^#/-<fe>: Chur StA, A Sp III/11a, VI. B. 7. 4, S. 337, Nr. 9</vo>
+<re>Sebastian [Guldibeck] fordert von Johannes Blasius 6 Gulden für die Beherbergung jener Knaben, die dieser - auch im Namen von Travers - empfohlen hat; Bullinger hat angeboten, an Travers zu schreiben, und bittet ihn, auf die Eltern einzuwirken. Blasius wird mitteilen, was sie an Nachrichten haben; Kaiser [Karl^#. V.] verhandelt in Speyer mit den Ständen über die Türkenabwehr und über die Niederwerfung des französischen [Königs Franz^#. I.] und seiner Genossen, doch vom Religionsfrieden ist kaum die Rede. Bullinger hat in den vergangenen drei Monaten eine Antwort auf eine Schrift von Cochläus verfasst ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"], die wohl 20 Blätter zählen wird; sobald sie fertig gedruckt ist, wird er sie ihm zusenden.<f1>Die Schrift umfasst 80 Blätter (s. HBBibl I 159). Da es sich um ein Quartformat handelt, entspricht dies tatsächlich 20 Druckbogen, die je vier Blätter ergeben. Mit dem Druck wurde in der ersten Woche des Februar begonnen (s. oben Nr. 1842, 83f). Ende Februar war die Schrift fertig gedruckt (s. HBD 32 und unten Nr. 1861). Vielleicht hatte Bullinger damals noch kein Exemplar zur Hand.<fe> Travers' Sohn [Johannes] hält sich wohl; trotz Nachfrage hat er nicht verlauten lassen, dass er etwas brauchen würde. Gruß an Anton [Travers].</re>
+<dra>[Gedruckt: Graubünden, Korr. I 63f, Nr. 49.]</dra>
+^&x<tx>Gratiam et vitae innocentiam a domino.
+^$Refert tibi, vir omnibus modis colende, dominus Ioannes
+Blasius, quid ab eo ut fideiussore postularit dominus
+Sebastianus paedagogus, aureos, si bene memini, 6. Totidem
+enim pro victu sibi adhuc deberi ab illis adolescentibus,
+quos tuo suoque nomine commendarat dominus Ioannes Blasius,
+querebatur. Et quia nonnulla super hac re inter ipsos
+altercatio intercesserat, interposui me ac recepi me tibi
+scripturum oraturumque, ut adsis domino Ioanni Blasio, quo
+summa illa numeretur Sebastiano. Recepta est conditio ab
+utrisque. Boni igitur consule, mi domine, hoc meum officium
+et effice, ut parentes adolescentum pecunias mittant. Plura
+ipse Blasius.
+^$Nova apud nos sunt nulla, nisi quae dominus Blasius
+exponet. Caesar Spirae haeret et consultat cum imperii
+ordinibus de repellendo Turca et de oppugnando Gallo una cum
+sociis; divina, quos intelligat. De gloria Christi asserenda
+et reparanda religione vera nulla fit mentio aut rarissima
+aut cum dolo malo coniuncta. Dominus gratiose adsit suae
+ecclesiae.
+^$Scripsi continuis iam mensibus tribus responsionem ad
+libellum Ioannis Cochlaei de authoritate et perfectione
+absolutissima scripturae sanctae, et quoniam multis nos et
+nostras ecclesias convitiis contumeliisque ac calumniis
+oneravit, asserui nostram innocentiam, amovi illius
+contumelias. Liber habebit folia, ni fallor, 20. Exemplum a
+me habebis, ubi fuerit absolutus; nam desunt adhuc folia
+aliquot, quae nondum sunt excusa typis.
+^$Filius tuus bene se gerit et charus est praeceptori et
+sodalibus. Ego subinde moneo, ut, si quibus rebus indigeat,
+mihi indicet; sed nihildum indicavit. Cupio enim tibi et
+tuis omnibus inservire. Vale.
+^$6. martii, Tiguri, 1544.
+^$Dominum Antonium salutabis.
+<un>Heinricus Bullingerus tuus.
+<lz>[Ohne Adresse.]^&x{
+</content>
+</letter>

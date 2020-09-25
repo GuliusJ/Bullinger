@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2789">
+<brief>
+<id>17056</id>
+<nr>2789</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1547-02-02"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 2. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 163 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 936, Nr. 1052<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 74 </k></dr>
+<re><t>Aus Zeitmangel nur diese kurze Mitteilung.</t>
+<t>Der Überbringer ist der bedeutende Bernardino Ochino, der Myconius wärmstens empfohlen sei. Er entkam Kaiser Karl V. und kehrt nach Basel zurück. Er wird selbst über die Lage in Augsburg berichten. Gruß.</t></re>
+<text>
+<div>
+<p>S. D. Paucula tibi scribere cogor, quia angustum est mihi tempus, Myconi colendissime.</p>
+</div>
+<div>
+<p><zzl>zl17056-1A</zzl>Qui has tibi reddit, est Bernardinus ille Ochinus,
+<fn>In Anbetracht von Bullingers Äußerungen in seinem Brief <qv>nr2788</qv> an Myconius vom gleichen Tag ist Ochino am 2. Februar in Zürich eingetroffen. Aus dem am 21. April verfassten Brief Calvins an Wolfgang Musculus erfährt man, dass an diesem Tag auch der vermutlich aus Genf via Basel kommende Calvin zufälligerweise eine halbe Stunde nach Ochino in Zürich eintraf und diesem dort begegnete; s. <a>CO</a> XII 512f.<zfn>fn17056-1</zfn></fn> egregius Christi servus, unice petitus a caesare
+<fn>Karl V. - Siehe dazu zuletzt <qv>nr2788</qv>,<qv>zl17055-1</qv>.</fn>, sed frustratus spe sua. Liberavit enim ipsum dominus ex ore leonis.
+<fn>Vgl. Dan 6, 22.</fn> Redit
+<fn>Im August 1545 hatte sich Ochino einige Tage lang in Basel aufgehalten; s. <a>Henrich, Myconius BW</a> 813, Nr. 916.</fn> ad vos cohabitaturus vobis. Hunc tibi commendo tamquam me ipsum! Pius est et doctus.<zzl>zl17056-1E</zzl> <zzl>zl17056-2A</zzl>De rebus Augustanorum ipse omnia melius exponet.<zzl>zl17056-2E</zzl></p>
+<p>Vale. Tiguri, 2. februarii 1547.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Osvaldo Myconio, colendo suo domino et fratri. Basel.
+<fn>Dieser Brief wurde Ochino mitgegeben.</fn></p>
+</div>
+</text>
+</brief>

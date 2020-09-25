@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1226">
+<nr>1226</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>16. Februar 1539</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 185 (neu: 203) (Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Erkundigt sich angesichts der Kriegsgefahr im Auftrag [von Ratsmitgliedern] nach der Möglichkeit geheimer Konsultationen mit Zürich. Grynäus' Haus ist erneut von der Pest betroffen.
+</re>
+<tx>S. Res gravissimae et periculosissimae, quibus adversarii nostri nos cum Christo conantur opprimere, multae sunt et
+variae. Et nunc propemodum in foribus stant<f1>Vgl. Adagia, 2, 2, 85 (LB II 478).<fe>, ut opus esset consultatione, qualiter per auxilium domini, si res ad bellum
+perducta foret, nos nostraque resistendo tueremur<f1>Bereits Anfang Februar hatte Basel angesichts des befürchteten
+Angriffs auf die Evangelischen insgeheim Zürich und Bern kontaktiert; s. EA IV/1c 1062 dd und PC II 544f.<fe>. In mandatis ergo habeo<f1>Als Auftraggeber
+sind Angehörige der Basler Rates der Dreizehn zu vermuten; zu denken ist an Jakob Meyer.<fe>, mi Bullingere, clam exquirere ex
+te ut ex fido et taciturno bonoque viro, quanam ratione sit agendum cum Tigurinis tuis, ut consilia, quae tractabuntur,
+tacita permaneant. Scis enim, quę cauta sint post bellum exitiabile illud de clanculariis reipublicae consultationibus
+non agendis apud vos<f1>Nach der Niederlage Zürichs im Zweiten Kappelerkrieg mußte der Geheime Rat auf Druck der Landschaft
+abgeschafft werden (vgl. unten Nr. 1227, Anm. 4). Vergeblich war bereits 1534 von Basel aus seine Wiedereinführung angeregt
+worden (s. HBBW IV, S. 60, 49-55; 74, 1-11; 84f, 17-26).<fe>. Et sunt tamen ea, quae habentur in manibus nunc talia, ut nihil
+magis postulent quam taciturnitatem, nihil magis noceat quam ipsa vulgo nota esse. Cupiunt autem nostri prorsus communicata
+vobiscum illa. Viam igitur tu solus inquiras, qua satisfiat
+nobis. Quodsi nulla ratio poterit inveniri, velim, et
+hocipsum per te cognoscamus. Quid vero, si rescripseris,
+Germanice scribas, ut his, qui, quod ago, postulant, tua
+verba queam proponere?
+^$Vale cum tuis in domino semper.
+^$Basileae, 16. februarii anno 1539.
+<un>Os. Myconius
+<un>totus tuus.
+<lz>Domini Grynęi domus de novo infecta est peste<f1>Am 14. Februar war Katharina Lompart, die Ehefrau von Grynäus, erkrankt; s. Amerbach, Korr. V 210, vgl. auch unten Nr. 1230, 32.<fe>.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, antistiti ec­clesiae Tigurinae, fratri in domino venerando suo.
+</content>
+</letter>

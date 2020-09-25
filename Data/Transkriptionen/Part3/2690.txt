@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2690">
+<brief>
+<id>16383</id>
+<nr>2690</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date notbefore="1546-11-24" notafter="1546-11-25"/>
+<ae>[Ambrosius Blarer] an Bullinger</ae>
+<od>[Konstanz, 24./25. November 1546]
+<fn>Aus den Angaben unten in Z. <qv>zl16383-1</qv> geht hervor, dass der Brief während des Donaufeldzugs des Schmalkaldischen Krieges verfasst wurde, nämlich kurz nachdem die Schmalkaldener ihr Lager im etwa 150 km von Konstanz entfernten Giengen an der Brenz verlassen hatten. Laut dem Bericht des sich damals im Lager aufhaltenden Zürcher Gesandten Heinrich Thomann geschah dies am Vormittag des Montag, 22. November (Zürich StA, A 177, Nr. 148). Aus der falschen Angabe unten Z. <qv>zl16383-2</qv> geht ferner hervor, dass der Brief nach Dienstag, dem 23. November, geschrieben wurde. Da Blarer bei der Abfassung des Briefes noch nicht wusste, dass das Heer bereits im 11 km nördlich von Giengen gelegenen Heidenheim an der Brenz eingetroffen war (s. unten Z. <qv>zl16383-3</qv>), und zwar noch vor dem Abend des 22. November (s. Thomanns zweiten Brief dieses Tages an Zürich aaO, Nr. 149), wird vorliegendes Schreiben auf den 24. bzw. 25. November zu datieren sein.<zfn>fn16383-1</zfn></fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 613 (Siegelfragment)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 536f, <br/>Nr. 1374</dr>
+<re><t>Blarer teilt vertraulich mit, dass Landgraf [Philipp von Hessen] sich ganz unerwartet als völlig zaghaft und mutlos erwiesen hat und dadurch alle Stände [des Schmalkaldischen Bundes] verunsicherte und betrübte. Er befürwortete nämlich einen Friedensvertrag mit Kaiser [Karl V.] und veranlasste deshalb ein Schreiben an eine wichtige Persönlichkeit [Markgraf Johann von Brandenburg-Küstrin] am kaiserlichen Hof, und dies, obwohl alle ihn inständig baten, davon abzusehen.</t>
+<t>Besonders Kurfürst [Johann Friedrich von Sachsen] versuchte, dem Landgrafen Mut zuzusprechen, und verwies dabei auf seine eigene Standhaftigkeit. Denn obgleich ihm der Verlust seines Landes bevorstünde und der Feind schon weite Teile davon besetzt hat, sieht er weiterhin seine Aufgabe in [Süddeutschland] und hat alles Übrige Gott anvertraut. Jedoch vergebens. Philipp blieb verzagt und meinte, dass alle so schön von Gott sprächen, er aber [Gottes Beistand nicht merke]. Der Landgraf sagte zudem, dass er nicht gegen seinen Schwager, Herzog Moritz [von Sachsen], ziehen wolle, obwohl er und alle Stände zuvor versprochen hatten, nicht auseinanderzugehen, solange der Kurfürst nicht wieder sein Land erhalten hätte.</t>
+<t>Unterdessen brach aber diese große Kälte ein, so dass man am Dienstagabend [23. November] das Lager auflösen musste. So ist das [schmalkaldische Heer] zuerst abgezogen. Die Kaiserlichen setzten nach und griffen an. Die [Schmalkaldener] schlugen sogleich zurück und konnten dank des vom Landgrafen eingesetzten Geschützes den Feind zurückdrängen. Viele der Angreifer wurden getötet, während die [Schmalkaldener] keine Opfer beklagen mussten (nur ein Reiter kam um sein Pferd). Nun ziehen sie in das zu Ulm gehörende Heidenheim.</t>
+<t>Wie wahr ist doch, dass man den Fürsten nicht vertrauen kann [Ps 146, 3]! Der Mensch ist unbeständig wie das Wasser!</t>
+<t>Bullinger soll dies für sich behalten. Auch wenn man bald darüber reden wird, sollen die Leute im Unklaren gelassen werden.</t></re>
+<text>
+<div>
+<p><zzl>zl16383-10A</zzl>In h{oe}chstem vertrauwen z{oe}g ich euch an,
+<fn>Zu dieser Sache vgl. Blarers ausführliche Darstellung in <qv>nr2698</qv>,<qv>zl16386-1</qv>.</fn> das gott der herr ain wunder erschrockeliche schwachait an dem landtgrauffen
+<fn>Philipp von Hessen.</fn> hat sechen lassen, und im hertz und m{uo}t genommen, das er alls gantz verzagtlich gehandelt, das
+<fn>so dass.</fn> es allen andern stenden
+<fn>Gemeint sind die Stände des Schmalkaldischen Bundes.</fn> hoch beschwerlich und ain grosß hertzlaid gewesen ist.
+<fn>Bei der Tagung des Kriegsrates der Schmalkaldener im Lager von Giengen (s. <qv>nr2689</qv>, <qv>fn16376-4</qv>) wurde am 10. November auch über etwaige Verhandlungen mit dem Feind diskutiert. Der Landgraf schlug Friedensverhandlungen vor, denen einige Stände offen gegenüberstanden; s. dazu Walter <i>Möllenberg</i>, Die Verhandlungen im schmalkaldischen Lager vor Giengen und Landgraf Philipps Rechenschaftsbericht, in: Festschrift zum Gedächtnis Philipps des Großmütigen Landgrafen von Hessen, hg. v. Verein für Hessische Geschichte und Landeskunde, Kassel 1904, S. 50-56. 61f; <a>Mentz</a> III 42f; <a>PC</a> IV/1 478f, Anm. 3; 479-481, Nr. 451. Zunächst war die Absicht, dass Jakob Sturm mit Nicolas Perrenot, Herrn von Granvelle, Franz Burchard (Burkhardt) mit Maximilian von Egmont, Graf von Büren, und Balthasar von Gültlingen mit Reichsvizekanzler Johann von Naves verhandeln sollte, ehe man schließlich Adam von Trott (s. unten <qv>fn16383-2</qv>) als Unterhändler einsetzte.<zfn>fn16383-4</zfn></fn> <zzl>zl16383-5A</zzl>Dann er ist dahin kommen, das er mitt allem ernst getrachtet hat, ain vertrag mitt dem kaiser
+<fn>Karl V.</fn> ze machen und desshalb ainem treffelichen grossen herren an des kaissers hof
+<fn>Markgraf Johann von Brandenburg-Küstrin, ein Lutheraner auf der Seite des Kaisers. - Der brandenburgische Oberst Adam von Trott aus dem Heer des Landgrafen wurde beauftragt, sich mit Markgraf Johann schriftlich in Verbindung zu setzen; s. <a>PA</a> I 579f, Nr. 925 (wo eine Vollmacht zum Vertragsschluss mit dem Kaiser erwähnt wird); <i>Möllenberg</i>, aaO, S. 52-56; <a>Mentz</a> III 43.<zfn>fn16383-2</zfn></fn> geschriben, sich ettlicher articul
+<fn>Bedingungen.</fn> vernemmen lassen, onangesechen das
+<fn>onangesechen das: auch wenn.</fn> er auff das thürest und trungelichest
+<fn>dringlichste.</fn> darfur ers{uo}cht und gebetten ist worden
+<fn>er darfur [= davor, dagegen] ers{uo}cht und gebetten ist worden: er ersucht und gebeten wurde, davon abzustehen.</fn> von den andern allen.<zzl>zl16383-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16383-7A</zzl>Und sonderlich hat inn der fromm, christelich churfurst
+<fn>Johann Friedrich I. von Sachsen.</fn> darfur auffs fruntlichest und flysigest gebetten, mitt erinnerung vyl und grosser ursachen; und das es im selbs vyl n{oe}ter th{ae}t nach s{oe}lichen w{ae}gen ze trachten, diewyl sein land und leut yetz z{uo} schitern gang
+<fn>Wegen des Einfalls der Truppen aus Böhmen und Herzog Moritz' von Sachsen.</fn> und er nitt wisß, ob er gar darum komme, diewyl im der find schon dryn gezogen und vyl desselbigen ingenommen und noch ymmer furtrucke
+<fn>vorrücke.</fn>, das zu besorgen, er m{ue}sse seins lands gar entsetzt werden
+<fn>seins lands entsetzt werden: sein Land verlieren.</fn>, noch danecht
+<fn>noch danecht: dennoch. - Zu dieser Einstellung des Kurfürsten s. auch <a>Mentz</a> III 45f.</fn>, diewyl er ain ordenlichen ber{uo}ff
+<fn>Berufung, Pflicht; s. <a>FNHDW</a> III 1543.</fn> erkenn, hie oben
+<fn>in Süddeutschland.</fn> ze helffen, und man deß begert, habe ers alles verschetzt
+<fn>aufs Spiel gesetzt; s. <a>SI</a> VIII 1684.</fn> unnd in gottes hand gesetzt, mitt vyl derglichen worten und vermanungen, on not hie z{uo} erzelen. Dann er ist wunder trostlich und christelicher, gottseliger wort gewesen in diser sach, aber der landtgrauff hinwider gantz erschrocken, verzagt und gar verschiben
+<fn>aus der Fassung (gewesen ist); s. <a>Fischer</a> II 1298a.</fn>. Wann man gottes und seines bistands meldung gethon, hat er gesagt: "Botz marter,
+<fn>Botz marter: Ausruf der Verwunderung, des Schwurs u.ä. (mit Bezug auf das Leiden Christi); s. <a>Grimm</a> XII 1678 (unter 8.); <a>SI</a> IV 425. 1996.</fn> ir sagt wol von gott! Das ander m{uo}ß ouch daby sein!"
+<fn>Vermutlich bedauert dabei der Landgraf, dass es keine Zeichen gäbe für Gottes Zuneigung bzw. Beistand.</fn><zzl>zl16383-7E</zzl> <zzl>zl16383-11A</zzl>Hat ouch gesagt, er werde danecht wider seinen tochterman (hertzog Mauritzen
+<fn>Moritz von Sachsen, der mit Philipps Tochter Agnes verheiratet war.</fn>) nitt ziechen, man th{ue} im, wie man welle,<zzl>zl16383-11E</zzl> unangesechen, das sich unsere stend all und er mitt inen verglichen und ainander z{uo}gesagt haben, von ainander nitt ze setzen
+<fn>trennen.</fn>, byß der churfurst widerum restituiert seye, etc.<zzl>zl16383-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16383-1A</zzl><zzl>zl16383-9A</zzl>Allso ist nun mittenz{uo}
+<fn>mittlerweile; s. <a>Fischer</a> IV 1715.</fn> diß kelte ingefallen,
+<fn>Zum Kälteeinbruch s. die Verweise in <qv>nr2689</qv>, <qv>fn16376-2</qv>.</fn> das man <zzl>zl16383-2A</zzl>uff zinstag ze nacht
+<fn>Dienstagabend, 23. November. - Richtig: Montagvormittag, 22. November; s. <qv>nr2662</qv>, <qv>fn16351-3</qv>.</fn><zzl>zl16383-2E</zzl> usß dem feld hat m{ue}ssen kelte halber.<zzl>zl16383-9E</zzl> Und ist aber unser hauff
+<fn>Das schmalkaldische Heer.</fn> am ersten
+<fn>am ersten: zuerst.</fn> uffbrochen. <zzl>zl16383-8A</zzl>Sind inen die kaiserischen nachgeilt, verhofft, inen alls den abziechenden schaden z{uo}zef{ue}gen. Da habend sich aber die unsern bald widerum gewendt und die find mitt schiessen (dann der landgraf glich das gschütz, so er by im gehapt, in sy gericht hat) und mitt stechen hinder sich z{uo}ruckgetriben und der find vyl erlegt hat. Den unsern ist gar kain schad widerfaren, dann das ainem ain gaul erschossen ist worden.
+<fn>Vgl. dazu die Berichte in <qv>nr2701</qv>,<qv>zl16389-6</qv> und <qv>fn16389-5</qv>; <qv>nr2702</qv>,<qv>zl16390-3</qv>.</fn> <zzl>zl16383-3A</zzl>Die unsern ziechen uff Haidenhaim,<zzl>zl16383-3E</zzl> deren von Ulm.
+<fn>Im Jahr 1521 hatte Karl V. den Ulmern das etwa 35 km nördlich von Ulm gelegene Heidenheim an der Brenz und die damit verbundene Herrschaft verpfändet. 1536 ging diese wieder in den Besitz Herzog Ulrichs von Württemberg über, wobei Ulm sich dort allerdings gewisse Rechte vorbehielt, u.a. die Zollrechte; s. Michael <i>Dieterich,</i> Beschreibung der Stadt Ulm, Ulm 1825, S. 187. - Zur Ankunftszeit des schmalkaldischen Heeres in Heidenheim s. oben <qv>fn16383-1</qv>.<zfn>fn16383-3</zfn></fn><zzl>zl16383-8E</zzl><zzl>zl16383-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16383-6A</zzl>Ach gott, wie war ists: "Nolite confidere in principes!"
+<fn>Ps 146, 3 (Vulg. 145, 2).</fn>, etc. Es ist nichts mitt dem menschenkind, des hertz so gar
+<fn>sehr.</fn> wie wasser wancket!
+<fn>Vgl. Spr 21, 1.</fn><zzl>zl16383-6E</zzl></p>
+</div>
+<div>
+<p>Bitt euch um gottes willen, lassts allso by euch belyben, dann es nitt g{uo}t, so es uskeme und lautprecht
+<fn>offenkundig bekannt; s. <a>SI</a> V 393.</fn> wurde. Ob
+<fn>obgleich; s. <a>Fischer</a> V 4.</fn> man es wol bald mummlen
+<fn>murmeln, heimlich erzählen (werde).</fn>, wurt man doch nitt wissen (in tanta mendaciorum licentia
+<fn>Blarer braucht diese Wendung schon 1528 in einem Brief an Zwingli; s. <a>Z</a> IX 528f, Nr. 749; <a>Blarer BW</a> I 162f, Nr. 121. </fn>), obs war.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An Meister Heinrich Bullinger z{uo} Z{ue}rich, meinem f{ue}rgeliepten herren und br{uo}der, etc. Z{ue}rich.
+<fn>Vorliegender Brief wurde Gregor von Ulm bis nach Attikon (Kt. Zürich) anvertraut; s. <qv>nr2698</qv>,<qv>zl16386-4</qv>.</fn></p>
+</div>
+</text>
+</brief>

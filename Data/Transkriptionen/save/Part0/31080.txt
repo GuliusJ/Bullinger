@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="31080">
+<nr>31080</nr>
+<correspondents>
+	<originator>Mathieu Coignet</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Solothurn</place>
+	<date>2. Mai [1561/62?]</date>
+	<note>(sicher nicht 1560)</note>
+</space_time>
+<vo>Zürich StA, E II 368, 441. / Orig. Aut.</vo>
+S. Nuper ad te scripsi, que scitu digna iudicaveram.
+In Gallia presbiteri et ecclesiastici, ne quid de luchro decedat, maximas movent turbas et concitant populum ad seditionem multis in locis et leges sunt irrite, ideoque multi boni timent ruinam aliquam, nec sunt in usu certiora remedia; coniicis reliqua me tacente.
+Vellem super ea re, cum vacabit, scribere, quid tibi sanis et prudentibus factu melius videretur.
+Salutabis amicos omnes.
+Bene vale.
+S[oluturi] 2. maii.
+                                                        Tuus, quem nosti.
+(v.a.Hd.) An herren Heinrichen Bullinger zuͦ Zürich.
+^$Zürich.
+</content>
+</letter>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2623">
+<brief>
+<id>16313</id>
+<nr>2623</nr> <from persid="ErbMatthias"/> <to persid="Bullinger"/> <place plid="Reichenweier"/> <date when="1546-10-14"/>
+<ae>Matthias Erb an Bullinger</ae>
+<od>Reichenweier, 14. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 361, 158 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopien 18. und 19. Jh.: Zürich ZB, Ms S 62, 13; Straßburg BNU, Ms 676 (Thes. Baum. 17), 138 </k></dr>
+<re><t>Erb begegnete dem Jungen [Johannes Jud], der schon vor zwei Jahren in Reichenweier war und nun, zur Zeit der Weinlese, in Begleitung des Schulmeisters [Laurentius Montanus] aus Mülhausen kam. Er ist begabt und wird wohl der Kirche eines Tages von Nutzen sein.</t>
+<t>Zur aktuellen Lage: Körperlich sind alle wohlauf, aber was das Gemüt anbetrifft, so weiß allein der Herr, wie sehr man am gegenwärtigen Kreuz zu tragen hat, zumal die [katholischen] Nachbarn drohen. Doch ist nichts von den Plänen des kaum als solchen zu bezeichnenden Kaisers [Karl V.] und seiner Anhänger zu halten! Gott ist auf unserer Seite; er wird uns schützen und rächen!</t>
+<t>Vorgestern [kam] ein Brief des Grafen [Georg von Württemberg-Mömpelgard]: Der Kaiser habe sich bei Nacht aus seiner Verschanzung [bei Marxheim] in Richtung Nördlingen herausbewegt, sei aber kaum vorangekommen. Die Schmalkaldener sind zwar nicht so lebhaft wie die treulosen Spanier, haben sich jedoch unverzüglich bei Nördlingen in Schlachtordnung aufgestellt. Der verschlagene Kaiser schlich sich aber durch den Wald wieder in seine gewohnte Verschanzung bei Donauwörth zurück. Alle bangen vor der Zukunft.</t>
+<t>Vielleicht hat Bullinger von dem verräterischen Anschlag auf Sebastian Schertlin gehört. Gott sei Dank hat dieser das Attentat überlebt! Es gibt noch andere Meldungen, die aber nicht verbürgt sind. Bei Gelegenheit mehr.</t>
+<t>Gruß und Bitte um Gebet.</t></re>
+<text>
+<div>
+<p>Gratia domini tecum. <zzl>zl16313-4A</zzl>Puer ille
+<fn>Aus Bullingers Antwort an Erb vom 25. Oktober (s. <qv>nr2642</qv>,<qv>zl16332-2</qv>) geht hervor, dass der Junge ein Kirchenstipendium in Zürich bezog. Da dieser ferner einen Bezug zum Elsass gehabt haben müsste, zumal Erb im vorliegenden Brief berichtet, dass er ihm schon vor zwei Jahren begegnet sei, und da es sich nicht um Johannes Fabritius (Schmid) Montanus (von Bergheim) handeln kann, weil dieser damals in Sachsen unterwegs war (s. <a>HBBW</a> XVII 428, Anm. 59), wird es sich hier um dessen Cousin Johannes Jud gehandelt haben, der tatsächlich 1544 das Elsass besucht und dabei Erb angetroffen hatte (s. <a>HBBW</a> XIV 264f, Anm. 2) und 1546 tatsächlich noch ein Stipendium in Zürich innehatte; s. Zürich StA, G II 39.2, Schulausgaben der Jahre 1546/47, unter "Crucis" (14. September 1546) und "Lucie" (13. Dezember).<zfn>fn16313-3</zfn></fn>, qui ante biennium apud nos fuit, per nostrum paedotribam
+<fn>Schulmeister; s. <a>Hoven</a> 380. - Laurentius Montanus; s. <a>HBBW</a> XIV 307f, Anm. 1; XV 439, Anm. 17.<zfn>fn16313-4</zfn></fn> ex Mylhusio adductus, me hac vindemia convenit. Quem nolui ad te redire sine litteris. Est enim meo iuditio ingenii foelicissimi, profuturus olim, ni
+<fa><i>Über der Zeile nachgetragen.</i></fa> fallat omnium expectationem, ecclesiis. Quem tibi (hoc, quod ipse facis)
+<fa><i>Klammern ergänzt.</i></fa> commendatum velim.<zzl>zl16313-4E</zzl></p>
+</div>
+<div>
+<p>De nostris rebus h{e}c: Bene valemus quidem adhuc corpore; verum quantum animo novit dominus, adeo multi in pr{e}senti cruce offenduntur, maxime vicini
+<fn>Die katholischen Nachbarn des vorderösterreichischen Gebiets in der Nähe der Herrschaft Reichenweier.</fn> grandia minitantes. Nos vero illorum minas et caesaris
+<fn>Karl V.</fn> (si modo caesar dicendus est) iniqua consilia iuxta facimus.
+<fn>Vgl. Hi 5, 12; Ps 33 (Vulg. 32), 10; 37 (Vulg. 36), 12-17.</fn> Si deus nobiscum, quis contra nos?
+<fn>Röm 8, 31.</fn> Dominus protector vit{e} nostr{e}; a quo trepidandum?
+<fn>Ps 27 (Vulg. 26), 1.</fn> Capilli capitis numerati sunt.
+<fn>Mt 10, 30; Lk 12, 7.</fn> Multis certe adficimur contumeliis, maioribus impetimur convitiis, at dominus olim erit vindicta,
+<fn>Vgl. z.B. Ps 140 (Vulg. 139), 13.</fn> etc.</p>
+</div>
+<div>
+<p><zzl>zl16313-2A</zzl><zzl>zl16313-1A</zzl>Nudiustercius scripsit
+<fn>Gemeint ist hiermit nicht das Abfassungsdatum, sondern das Empfangsdatum des Briefes; vgl. unten <qv>fn16313-1</qv>.</fn> princeps noster
+<fn>Georg von Württemberg-Mömpelgard.</fn> h{e}c ex castris: Caesarem noctu ex munitione
+<fn>Verschanzung, vorteilhafte Stellung; vgl. <qv>nr2615</qv>,<qv>zl16305-7</qv>. - Zur Sache s. <qv>nr2607</qv>, <qv>fn16295-12</qv>; <qv>nr2612</qv>,<qv>zl16301-16</qv>; <qv>nr2613</qv>,<qv>zl16300-3</qv>; <qv>nr2616</qv>,<qv>zl16303-11</qv>.</fn> sua promovisse Callipedis
+<fn>Anspielung auf den griechischen Läufer Kallippides, der sich ständig bewegte, aber nicht vorankam; s. <a>Adagia</a> 1, 6, 43 (<a>ASD</a> II/2 70-72, Nr. 543).</fn> more versus Nordlingam,<zzl>zl16313-1E</zzl> idque Hispanicis technis. Verum nostri, qui, tametsi non sint admodum agiles ut fidefragi
+<fn>treuebrecherisch, treulos; s. <a>Du Cange</a> II 491.</fn> illi Hispani, incunctanter suos promoventes
+<fa><i>Nach gestrichenem</i> trajicientes.</fa> apud Nortlingam acie instructa confligere cupiverunt. <zzl>zl16313-3A</zzl>Sed <vl>158v.</vl> versipellis ille
+<fn>Der Kaiser; vgl. <a>HBBW</a> XVII 200,20; 246,8.</fn> per densissima nemorum latibula oberrans tandem in assuetum rediit speleum
+<fn>Gemeint ist Marxheim, wo sich der Kaiser bis zum 2. Oktober aufhielt; s. <qv>nr2607</qv>, <qv>fn16295-12</qv>. Allerdings handelt es sich dabei um eine unrichtige Vermutung, denn der Kaiser kam in der Nacht vom 10. auf den 11. Oktober an die Riedlinger Seen; s. <a>Schüz, Donaufeldzug</a> 68.<zfn>fn16313-2</zfn></fn>, non procul a Donenwerda.<zzl>zl16313-3E</zzl> Quid futurum sit, omnes anxii expectant,
+<fn>Die hier gemachten Angaben erlauben es, den Brief des Grafen Georg auf den 11. Oktober zu datieren, nämlich als man noch nicht wusste, wohin sich der Kaiser begeben hatte; s. <a>Schüz, Donaufeldzug</a> 68.<zfn>fn16313-1</zfn></fn> etc.<zzl>zl16313-2E</zzl></p>
+</div>
+<div>
+<p>De Sebastiano Schertlin nosti forte, ut quorundam proditorum
+<fn>Gemeint sind der Lindauer Pantaleon Ebner und der Bregenzer Wolfgang Kantz; s. <qv>nr2607</qv>, <qv>fn16295-2</qv> und <qv>fn16295-3</qv>.</fn> gladiis sit impetitus, etc., sed dei gratia servatus. Referuntur pleraque alia, sed incerta. Alias plura forte, dum vacarit.</p>
+</div>
+<div>
+<p>Valebis igitur, vir in domino integerrime, et ora dominum iugiter pro nobis, etc. Raptim, Richenvill{e}
+<fa><i>Am Rande nachgetragen.</i></fa> ad lucernam
+<fn>ad lucernam: bei Kerzenlicht (d.h. nachts); vgl. <a>König</a> 674.</fn> 14. die octobris 1546.</p>
+<un>Tuus Erbius.</un>
+<lz/>
+<p>[Adresse darunter:] Eximio viro pietate et doctrina d. Henrhito
+<fa><i>Fehlerhaft aus</i> Hencho <i>korrigiert</i>.</fa> Bullingero, Tigurinorum antistiti vigilantissimo, etc. Zurch.</p>
+</div>
+</text>
+</brief>

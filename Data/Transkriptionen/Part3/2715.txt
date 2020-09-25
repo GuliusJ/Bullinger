@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2715">
+<brief>
+<id>16404</id>
+<nr>2715</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-12-15"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 15. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 266 (neu: 282) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 134</k></dr>
+<re><t>Bullingers Kopfschmerzen sind bedauerlich, jedoch nicht erstaunlich bei dessen fortdauernder Arbeit und angesichts der durch den Krieg verursachten zusätzlichen Sorgen! Auch Myconius kann kaum noch schlafen, besonders nach schlechten Nachrichten. Oft verschlägt es ihm den Appetit. Zeitweise empfindet er nicht einmal mehr Freude am Umgang mit den Freunden. Dann aber findet er beim Herrn wieder Ruhe und Trost. Doch nur für eine Weile, da die Zeiten wohl noch nie so schlimm waren. Wohlan! Der Herr verleihe Widerstandskraft und den Sieg durch die Geduld!</t>
+<t>Myconius hat den Brief des Hessen Theobald [Thamer] [<qv>nr2647</qv>] sofort zurückgeschickt, damit ihn (gemäß Bullingers Wunsch) ja niemand zu lesen bekommt, auch nicht [Francisco] de Enzinas, der immer nach Neuigkeiten von Bullinger fragt.</t>
+<t>Schmerzlich sind die Nachrichten über Herzog Moritz [von Sachsen], falls sie stimmen. Wer hätte bei einem Menschen, geschweige denn bei einem Christen, solch einen Verrat an einem Verwandten [Kurfürst Johann Friedrich von Sachsen] für möglich gehalten? Moritz benimmt sich dabei genauso grausam wie Kaiser [Karl V.] gegenüber Deutschland! Das entspricht aber ganz der Vorgehensweise des Kaisers: Machtsüchtige bzw. Habgierige bindet er an sich, indem er ihnen noch mehr Ruhm bzw. Geld verspricht. So soll der Kaiser dem Herzog die Kurwürde versprochen haben ... Die Bestrafung beider Potentaten sei dem Urteil Christi anheimgestellt!</t>
+<t>Die Mitteilung aus Konstanz über die Überwinterung [kaiserlicher] Truppen im Hegau und am Bodensee nimmt Myconius ziemlich gleichgültig hin. Es handelt sich wohl um ein Täuschungsmanöver des Kaisers, der das eine sagt, um etwas anderes tun zu können. Damit hat er ja schon recht viel erreicht. Myconius versteht also nicht, warum dies Bullinger derart in Sorgen versetzt. Was befürchtet er denn? Wenn alle Streitkräfte des Kaisers dem Kurfürsten nachsetzen, gibt es doch [für die Eidgenossenschaft] keinen Grund zur Angst. Aus Straßburg wurde nämlich gemeldet, dass infolge militärischer Gegenwehr der auf dem Weg nach Franken befindliche Kurfürst seine Route abändern musste. Er sei also durch die Bergstraße nach Frankfurt gezogen, um von dort nach Thüringen zu gelangen, das sich bereits in Moritz' Hand befinden soll.</t>
+<t>Auf der Badener Tagsatzung konnte [François de La Rivière] nichts Sicheres über seinen König [Franz I.] berichten. Dieser soll in den vergangenen Tagen eine Gesandtschaft nach Ulm geschickt haben. [La Rivière] wusste aber nicht, weshalb. Ferner soll sich [Nicolas Perrenot de] Granvelle in Frankreich befinden.</t>
+<t>Enzinas teilt gerade schriftlich mit, aus St. Gallen erfahren zu haben, dass der Kaiser heiraten werde! Wohl aber in der Hölle! Denn Matthias Claudius schreibt, dass sowohl in Augsburg als auch in Nürnberg und Memmingen der Kaiser für tot erklärt wird. Claudius fügt seiner Meldung jedoch hinzu, dass er dahinter irgendetwas Schreckliches befürchtet. Was nämlich, wenn der Kaiser nach
+Böhmen ziehen würde, um von dort aus Schaden anzurichten?</t>
+<t>Bullinger soll über die Badener Tagsatzung berichten. Gruß, auch an die Familie und an die Kollegen. Der Bote [...] drängt; daher die Eile.</t>
+<t>[P.S.:] Myconius klagt nicht über Jodocus [Kilchmeyer], denn die Lage [in Bern] hat sich beruhigt.</t></re>
+<text>
+<div>
+<p>S. Doleo, quia tu doles ex capite.
+<fn>Bezug auf <qv>nr2708</qv>,<qv>zl16398-2</qv>.</fn> Non miror autem. Labores enim, quos sustines sine modo, quid aliud parerent? Quibus si adiunxeris vexationes belli pr{e}sentis, gravius laborabis. <zzl>zl16404-6A</zzl>Novi, quid hic patiar ego. Somnus insuavis est partim, partim tollitur, potissimum cum gravius quid nunciatur. Cibus non raro vilescit; potus non delectat; et ab amicis nonnunquam abhorreo. Tandem, ad dominum ubi redeo, sedatur animus, fit quies, voluptas decens dictorum revertitur. Qu{e} durat, quousque deo visum est. Tum iterum turb{e} et iterum tranquillitas. Et talem quidem ludum continenter ludere cogor, donec satis hac maxima tempestate, qua nescio si quid fuerit unquam turbatius.<zzl>zl16404-6E</zzl> Age, dominus adsit nobis, ut ista omnia in ipso ferre queamus et per patientiam vincere feliciter!
+<fn>Vgl. Johannes <i>Chrysostomus,</i> Homiliae in Matth., 84, 4 (<a>MPG</a> LVIII 756).</fn></p>
+</div>
+<div>
+<p><zzl>zl16404-1A</zzl>Literas Theobaldi Hessi
+<fn>Theobald Thamers Brief <qv>nr2647</qv>, den Bullinger mit <qv>nr2708</qv>,<qv>zl16398-8</qv>, an Myconius ausgeliehen hatte.</fn> ideo remisi citius, ut obsequerer mandato, quo prohibuisti, ne quis alius videret. <zzl>zl16404-5A</zzl>Dum enim Dryander
+<fn>Francisco de Enzinas, der damals in Basel wohnte.</fn> me accedit, primum post salutationem verbum est: "Nihilne novi habes a Bullingero?" Si retinuissem vel per unum diem, fieri potuisset, ut indicassem illi advenienti sicque roganti.<zzl>zl16404-5E</zzl><zzl>zl16404-1E</zzl></p>
+</div>
+<div>
+<p>Dolore crucior porro propter Mauricium
+<fn>Herzog Moritz von Sachsen.</fn>, si vera sunt, qu{e} et tu adseris.
+<fn>Bezug auf <qv>nr2708</qv>,<qv>zl16398-11</qv>.</fn> Quis putasset in homine, non dico christiano, sed sanguine cuipiam iuncto, esse posse tantam perfidiam? Aeque crudele apud me est, quod is agit contra cognatum
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn>, atque quod c{e}sar
+<fn>Karl V.</fn> agit contra Germaniam. Sed talis esse dicitur Carlus, ut homines magnos ad se pertrahat, prout quenquam novit esse adfectum natura, ut ambitiosum per honorum amplitudinem, avarum per pecuniam, fortem per pollicitationem glori{e}, etc. Et ita fecisse narratur glorioso Mauricio: Promisit electoratum,
+<fn>Siehe schon <qv>nr2670</qv>,<qv>zl16357-8</qv>.</fn> ut ita dicam, et hominem vicit, ut agat contra ius natur{e}, consanguinitatis, affinitatis et inprimis charitatis christian{e}. Malus igitur c{e}sar, qui impulit; malus Mauricius, qui obsequitur. Mali igitur dum sunt ambo, permittamus iudici Christo tum damnandos tum puniendos.
+<fn>Vgl. Mt 7, 1f; Apg 17, 31f.</fn></p>
+</div>
+<div>
+<p><zzl>zl16404-4A</zzl>Pr{e}ter h{e}c dum scribunt Constantienses de hybernatione quorundam equitum et peditum per Hegoiam et ad lacum Bodmicum
+<fn>Hegau und Bodensee. - Diese Nachricht wurde von Bullinger an Myconius in <qv>nr2708</qv>,<qv>zl16398-6</qv>, mitgeteilt. Zu Bullingers Antwort auf die hier geäußerte Reaktion von Myconius s. <qv>nr2721</qv>,<qv>zl16410-6</qv>.</fn>, parum me movit, quod hoc est ingenium c{e}saris, ut dicat hoc et faciat illud,
+<fn>Vgl. bereits <qv>nr2632</qv>,<qv>zl16322-5</qv>.</fn> quo homines facilius decipiat. Et hac ratione profecto hactenus non parum profecit. Addis vero tu hoc loco: "Quod si verum est, videbis, quid futurum sit."
+<fn>In <qv>nr2708</qv>,<qv>zl16398-7</qv>.</fn> Hic non capio. Quid mineris quove respicias? C{e}terum si c{e}sar cum suis sequitur electorem
+<fn>Gemeint ist der Kurfürst von Sachsen; vgl. <qv>nr2700</qv>,<qv>zl16388-4</qv>.</fn> totis viribus, non est, ut quis timeat.<zzl>zl16404-4E</zzl> <zzl>zl16407-2A</zzl>Ex Argentina venit enim ad senatum nostrum,
+<fn>Gemeint ist der Brief des Straßburger Rates an den Rat von Basel vom 10. Dezember 1546 (<a>PC</a> IV/1 511f, Nr. 478).</fn> dum elector iter facere tentarit per Franciam
+<fn>Siehe dazu <qv>nr2713</qv>, <qv>fn16401-1</qv>.</fn>, ad arma sic concursum,
+<fn>Dass es zur Gegenwehr der Franken kam, ist belegt in <a>Viglius van Zwichem</a> 212 (unter dem 12. Dezember) und 228, Anm. 36.</fn> ut, si is noluerit includi a fronte et a tergo, coactus sit deflectere ab itinere coepto.
+<fn>Vgl. <qv>nr2710</qv>,<qv>zl16397-15</qv>.</fn> Venisse igitur ad viam, qu{e} Montium vocatur, Bergstraß,
+<fn>Eine Straße, die sich von Darmstadt in Hessen über Heidelberg nach Wiesloch in Nordbaden erstreckt.</fn> et hac profectum Francfordiam, inde per Thuringiam,
+<fn>Vgl. <qv>nr2700</qv>, <qv>fn16388-3</qv>.</fn> quam Mauricii esse dicunt,
+<fn>Zu Moritz' Besetzung Thüringens s. <a>Voigt, Moritz</a> 236-241.</fn> iturum, etc.<zzl>zl16407-2E</zzl></p>
+</div>
+<div>
+<p>De Gallo
+<fn>König Franz I.</fn> nescit quicquam dominus
+<fn>François de La Rivière; s. <a>EA</a> IV/1d 729 (zu ff); <a>PC</a> IV/1 520 mit Anm. 4.</fn>, qui fuit in comitiis Badensibus
+<fn>Die am 7. Dezember begonnene Badener Tagsatzung; s. <qv>nr2693</qv>, <qv>fn16379-7</qv>.</fn>, certi. Illud tamen dixit, legatos a suo rege missos Ulmam his diebus; ad qu{e} negocia, haud constare. <zzl>zl16404-3A</zzl>Granvellam
+<fn>Nicolas Perrenot, Herr von Granvelle. - Zu diesem Gerücht siehe <qv>nr2711</qv>,<qv>zl16399-3</qv> mit <qv>fn16399-3</qv>. </fn> quoque esse in Gallia.<zzl>zl16404-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16404-2A</zzl>Atqui si verum esset, quod misit, dum h{e}c scribo, Dryander iterum e Sangallo,
+<fn>Dies ist nicht so zu verstehen, als hätte Enzinas aus St. Gallen geschrieben. Er befand sich zu dieser Zeit nämlich in Basel (vgl. oben Z. <qv>zl16404-5</qv>), von wo er zwei Tage später an Bullinger schrieb (<qv>nr2718</qv>). Vielmehr war Enzinas hier lediglich der Vermittler einer ihm gesandten Nachricht von Matthias Claudius aus St. Gallen. Dieser Brief ist nicht erhalten, doch am 17. Dezember schrieb Claudius aus St. Gallen abermals eine Bemerkung zu demselben Gerücht, wie aus einem Exzerpt von Myconius in <qv>nr2721</qv>,<qv>zl16410-1</qv>, hervorgeht.<zfn>fn16404-1</zfn></fn> c{e}sar uxorem ducet
+<fn>Dieses falsche Gerücht gründet entweder auf der Affäre Kaiser Karls V. mit Barbara Blomberg in Regensburg, die damals ein Kind (den künftigen Don Juan von Österreich) von Karl erwartete, oder auf dem in <qv>nr2708</qv>,<qv>zl16398-9</qv>, mitgeteilten Gerücht.</fn> forsitan apud Ditem
+<fn>Bei Pluto (Dis), dem Gott der Hölle.</fn>. Scribit enim Matthias Clodius ex Augusta, Nuremberga, Memminga venisse illum obiisse. Addit tamen: "Monstri aliquid alitur."
+<fn>Vgl. <a>Adagia</a>, 2, 4, 98 (<a>ASD</a> II/3 394, Nr. 1398).</fn><zzl>zl16404-2E</zzl> Et ego timeo, ne profectus in Boemiam tentet, quod possit incommodare.</p>
+</div>
+<div>
+<p>De comitiis velim intelligere, quid sit actum. Vale cum tuis et fratribus. Basile{e} raptim, nam impulit tabellio
+<fn>Unbekannt.</fn> et temporis brevitas. 15. decembris anno 1546.</p>
+<un>Tuus Os. Myco.</un>
+<lz/>
+</div>
+<div>
+<p>De Iodoco
+<fn>Jodocus Kilchmeyer.</fn> nil quaeror,
+<fn>In Anspielung auf Bullingers Reaktion in <qv>nr2708</qv>,<qv>zl16398-1</qv>. </fn> nam pacata sunt, qu{e} videbantur violatura pacem et charitatem.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, ministro Christi optimo, domino ac fratri in Christo venerando suo. Zü[ri]ch.
+<fa><i>Textverlust bei Entfernung des Verschlussbandes.</i></fa></p>
+</div>
+</text>
+</brief>

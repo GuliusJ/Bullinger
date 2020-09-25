@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2263">
+<nr>2263</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>7. Oktober 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 148-150 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 393-395, ^$^$^$^$Nr. 1224</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 67; Zit.: Kammerer, Reformation in Isny, 39; Peter Frei, Conradus Clauserus, 1997, 24; QGT XVI 163, nR. 1476. ^&x{
+<re>[Konrad] Klauser ist am Vortag [in Konstanz] eingetroffen und entspricht ganz Bullingers Beschreibung, so dass der Kirche von Isny zu gratulieren ist. Blarer hat ihn wie gewünscht über die komplizierten Verhältnisse in Isny aufgeklärt, die umsichtiges Verhalten erfordern. Er hätte ihn auch dem Rat empfohlen, der aber Blarer ohne dessen Verschulden kritisch gegenübersteht, so dass Blarer lediglich [...], dem Begleiter Klausers, einen Brief an den dem Rat ebenfalls verhassten [Peter] Buffler wie auch Bullingers [nicht erhaltenen] Brief mitgegeben hat. Es ist zu hoffen, dass mit Gottes Hilfe und durch Klausers Tätigkeit bessere Zeiten anbrechen. Von den zwei Pfarrern [in Isny] fehlt es [Konrad Frick] an Eifer und [Georg Denneler], dem Urheber des Übels, an Klugheit, weshalb Blarer keinen Brief an diese mitschickte.
+-^#. Blarer hofft auf ein erfolgreiches Vorgehen der Tagsatzung gegen den Marchese [del Vasto, Alfonso d'Avalos], von dem einige glauben, dass er vom Kaiser [Karl V.] unterstützt wird. In vielen Städten, besonders in Schwaben, werden Soldaten geworben. Man weiß nicht, für oder gegen wen. Es geht aber das Gerücht um, dass [Herzog Heinrich von] Braunschweig im Gebiet des [Erz]bischofs von Köln [Hermann von Wied] wütet und Landgraf [Philipp von Hessen] deswegen ein großes Heer dorthin entsendet. Angesichts dieser Lage sollten sich die [Eidgenossen] umso enger zusammenschließen.
+-^#. Eine Auflösung des Schmalkaldischen Bundes hätte schlimme Folgen.
+-^#. Man sagt, [Charles II. von] Orléans sei von seinem Bruder [Heinrich] vergiftet worden; Schlimmeres wird folgen.
+-^#. Blarer übermittelt nun endlich den Brief von [Georg] Frölich [Nr. 2256], der, wie auch [Jakob] Funcklin, die Zürcher nicht genug rühmen konnte.
+-^#. Was Bullinger über den [Herzog von] Burgund, [Kaiser] Karl [V.], schrieb, gefällt Blarer. Es wäre schön, wenn Gott [am Kaiser] dieselbe Strafe vollziehen würde, die dieser gegen die [Protestanten] ersinnt. Doch muss man sich Gottes Willen unterwerfen, zumal [menschlicher] Eifer öfters durch Affekte verdorben ist.
+-^#. Bullinger muss sich keine Sorgen um die [Kriegskunst Konrad Zwicks] machen, der nichts unternehmen würde, was den Guten schaden könnte.
+-^#. An [Martin] Frecht vermissen viele das Gleiche wie Bullinger. Frecht gleicht die Mängel aber durch andere hervorragende Charaktereigenschaften aus.
+-^#. Dass Bullinger ein Kolloquium mit Schwenckfeld als Zeitverschwendung ablehnt, erinnert Blarer an eigene, ähnliche Erlebnisse in Württemberg, wo er oft dazu aufgefordert wurde, besonders von [Hans] Friedrich Thumb [von Neuburg]. Er ließ sich einmal in Tübingen auf [ein Kolloquium mit Schwenckfeld] ein, an dem auch Bucer teilnahm, und nach dem [Schwenckfeld] sich trotz seiner Niederlage seinen Anhängern als Sieger präsentierte. Wie auch immer Bullinger sich entscheidet, Schwenckfeld wird es zu seinem Vorteil auslegen.
+-^#. In dieser Zeit erscheint es Blarer wichtig, auf [biblischer Grundlage] über Bündnisse nachzudenken; die Gelehrten vertreten ja sehr unterschiedliche Meinungen, von völliger Ablehnung über rein intrakonfessionelle Bündnisse bis hin zu allgemeiner Akzeptanz, freilich unter Ausschluss von Glaubensfragen. Blarer bittet Bullinger, seine Meinung dazu kurz auf Deutsch (auch für die des Lateins Unkundigen) darzustellen.
+-^#. Er stimmt Bullingers Urteil über Johannes Zwick ganz zu und schickt auf Bullingers Wunsch hin dessen Schrift ["Christenlicher gantz trostlicher underricht"], die er selbst mit einer vielleicht etwas überschwänglichen Vorrede versehen hat, die gleichwohl dem verstorbenen Zwick nicht gerecht wird.
+-^#. Grüße, besonders an [Rudolf] Gwalther, für den er einen [Brief Sixt Bircks] beilegt.</re>
+<tx>S. Venit ad nos heri Clauserus<f1>Zu Konrad Klauser und seiner Entsendung als Nachfolger Marbachs nach Isny s. zuletzt oben Nr. 2260, 1-11.<fe> ille vester adeoque noster etiam, qui omnino
+talis mihi, qualis a te depictus est,<f1>Nämlich in Bullingers Brief vom 4. Oktober (oben Nr. 2260, 1-11), den Klauser überbracht hatte.<fe> videtur, ut totis animis Isnacensi ecclesię illum gratuler.
+Abiturientem heri hic retinui, ut plenius sibi eius ecclesię statum et rationem indicarem; id quod ipse literis tuis petieras.
+Magna enim prudentia et circumspect[i]one<fx>^#/+Hier und unten Papierverlust am Rand.^#/-<fe> opus erit, si in tam factioso opidulo officium facere cum fructu aliquo volet; quod maxime certe volet.
+Commendassem hunc senatui, nisi maior, sed minime melior illius pars alienatus a me nulla mea culpa,
+quam ego quidem agnoscere possim, nonnihil aliquamdiu iam fuisset.
+Scripsi pio planeque optimo viro Bufflero<f1>Ein solcher Brief Blarers an Peter Buffler in Isny ist nicht in Blarer BW zu finden.<fe>, sed ita, ut visum sit et tuam illi inscriptam<f1>Nicht erhalten.<fe> pariter et meam epistolam
+non per Clauserum ipsum, sed comitem<f1>Unbekannt.<fe>, quem hinc secum adduxit, reddendam curare;
+nam est in illum vere bonum virum tam iniquus senatus, idque propter solum multa et egregie benefacta,
+ut vel hoc uno nomine odio sit laboraturus Clauserus, si intelligat senatus ipsum in Bufleri familiaritatem recipi.
+Dissimulandum igitur istuc omnino aliquamdiu fuerit, donec domini benignitate et Clauseri nostri ministerio
+omnium animi firmius ac felicius coalescant; quod, ut quamprimum fiat, age, obsecro, mi charissime frater,
+dominum diligenter per unicum pacificatorem nostrum Christum interpellemus.
+Ecclesię duo ministri, qui Isnę reliqui sunt, alter<f1>Wohl Georg Denneler, den Blarer zuvor als "eifrig" bezeichnet hatte; s. oben Nr. 2134, 34-38.<fe> nullo iudicio, alter<f1>Konrad Frick, der auf das Empfehlungsschreiben Bullingers antwortete (unten Nr. 2267).<fe> nullo dei zelo valet;
+quos cum ipsos quoque parum propicios habeam (alterum<f1>Georg Denneler; s. zuletzt oben Nr. 2146, 4-10.<fe> praecip[ue], qui omnium malorum istorum autor est)<fx>^#/+Klammern ergänzt.^#/-<fe>,
+non existimavi faciendum, ut meis ad illos literis Clauserum degravarem potius quam commendar[em].
+^$Comitia vestrorum<f1>Zur Tagsatzung vom 19. Oktober s. oben Nr. 2260, Anm. 6.<fe> utinam fausta sint ac felicia ad depellendas marchionis istius<f1>Zu Alfonso d'Avalos, Marchese del Vasto (Guasto), s. oben Nr. 2260, Anm. 13.<fe> non ferendas iniurias!
+Existimant nonnulli caesaris<f1>Karl V.<fe> ista autoritate fieri, ut vos istiusmodi malis lacessat. Cętera ipse intelligis.
+Conscribitur in multis (praesertim Svevię) urbibus miles; sed nostris<f1>Dem Konstanzer Rat. - Dieser benachrichtigte Zürich am 20. Oktober über diese Truppenwerbung; s. Zürich StA, A 205/1, Nr. 198.<fe> etiamnum incertum,
+in quem hostem invadendum aut confęderatum defendendum istuc fiat, nisi quod rumor iactitat
+Brunsvicensem<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel. - Bürgermeister und Rat von Konstanz übermittelten am 12. Oktober 1545 dem Rat von Zürich Nachrichten über Heinrichs Feldzug und über gegen die deutschen Protestanten gerichtete Truppenbewegungen sowie über den Transport von Kriegsmaterial in Italien; s. Zürich StA, A 205/1, Nr. 197.<fe> nunc in Coloniensis episcopi<f1>Hermann von Wied.<fe> ditione
+magna crudelitate igni et ferro grassari ac propterea lantgravium<f1>Philipp von Hessen.<fe> ingentem exercitum illuc mittere.<f1>Siehe dazu unten Nr. 2264, 36-43. 80-84; 2266; 2268, 8-10; 2270, 28-33.<fe>
+Ah! Precamur Christum, ut Iesum se et servatorem suorum in optimo illo principe declaret, ne aliorum quoque animi frangantur,
+si non hic se praesens numen ostendat et gloria nominis ac verbi sui veritas maximo suorum damno obscuretur.
+Vestri<f1>Die Eidgenossen.<fe>, si sapiunt, hoc arctius coniungentur ac firmissimis solidę concordię vinculis constringentur,
+quo vident cęteros misero ac magno suo (quod certo ipsis imminet)<fx>^#/+Klammern ergänzt.^#/-<fe> exitio dissipari.
+^$Schmalkhaldicum foedus si iam, hoc est tam alieno tempore, solvatur,<f1>Der Schmalkaldische Bund war durch innere Streitigkeiten seit Anfang der 1540er Jahre weitgehend handlungsunfähig, wurde aber erst Ende 1546 infolge der Nichtverlängerung des Bündnisvertrages aufgelöst.<fe> mox omnia flagrabunt
+inextinguibilium dissensionum incendio, totaque Germania nostra cędibus, latrociniis et bellis perd[etur].
+^$<vl>149</vl> Aureliacensem<f1>Zum Tod von Charles II. von Orléans am 9. September s. oben Nr. 2260, Anm. 17.<fe> veneno enectum a fratre<f1>Der spätere König Heinrich II. (1519-1559).<fe> putant, et hoc malum consequitur mox aliud longe atrocius.
+Dominus nos tempestiviter ab omnibus istis forti sua manu et extento brachio<f1>Vgl. Deut 4, 34 und passim.<fe> vindicet!
+^$Mitto Lęti nostri literas<f1>Georg Frölichs Brief vom 30. September (oben Nr. 2256).<fe>, quas abiens rogavit, ut ad te darem;<f1>Frölich war am 1. Oktober aus Konstanz abgereist; s. unten Nr. 2264, 16.<fe> non potui autem dare citius.
+Optimus ille amicus ad cęlos, et adeo evexit officiosam vestram humanitatem et humanam officiositatem,
+ut immodicam etiam affirmarit; id quod Funcklius<f1>Jakob Funcklin.<fe> quoque noster fecit.
+Nos proinde nihil aliud quam hanc<f1>Gemeint ist: humanitatem.<fe>, quantum licet, praedicabimus, quando imitari nulla ratione possumus.
+^$Iam iucunda valde fuerunt, quę prioribus literis de Carolo Burgundo<f1>Gemeint ist Kaiser Karl V., der auch Herzog von Burgund war.<fe> scripseras.<f1>In einem nicht erhaltenen Brief Bullingers, der auf Blarers Brief vom 19. September (Nr. 2249) antwortete.<fe>
+Iucundissimum vero fuerit, si, qui eadem meditatur, easdem det coelesti vindici penas,
+ad cuius tamen voluntatem omnino par est, ut zelum quoque nostrum, qui affectibus
+plęrumque vitia[tur]<fx>^#/+Hier und unten Randtext im engen Einband verdeckt.^#/-<fe>, sedulo moderemur,<f1>Anspielung auf Lk 9, 54-56.<fe> ut ne usquam extra oleas<f1>Vgl. Adagia, 2, 2, 10 (ASD II/3 136, Nr. 1110).<fe>, quod dicitur.
+^$De consobrini invento<f1>Zu Konrad Zwicks Kriegskunst s. zuletzt oben Nr. 2249, 7-13.<fe> iam dudum te securo esse animo iubebam, quum nihil sit
+ab illius ingenio alienius quam ea conari, quę bonis obesse ulla ratione possent. Non est ergo, ut quicquam hic metua[s].
+^$In Frechto nostro<f1>Martin Frecht.<fe>, communi amico, quod desideras, alii quoque nonnulli boni viri desiderant;
+verum ita natura, quam non facile expuleris,<f1>Vgl. Adagia, 2, 7, 14 (ASD II/4 98, Nr. 1614).<fe> comparatus est, ut dissimulanda et condonanda hęc illi sint, quę egregiis aliis donis suis abunde compensat.
+^$Quod Schwenckfeldii colloquium<f1>Die Zürcher lehnten das von Schwenckfeld gewünschte Gespräch ab; s. oben Nr. 2255, 8-24.<fe> hunc in modum detrectas ac tamquam certissimam bonarum horarum iacturam
+(ut nihil esset aliud)<fx>^#/+Klammern ergänzt.^#/-<fe> defugis, prorsum id facis, quod ipse quoque non raro facere memini,
+quum in Wirtempergensi ditione agerem, ubi sępe et multum ab aliquibus, Fredericho Thumio<f1>Hans Friedrich Thumb von Neuburg.<fe> praesertim, ad hoc sollicitabar.
+Sed aliorum periculo circumspectior redditus non nisi semel passus sum me ad illum adduci,
+idque Tubingę, ubi Bucerus quoque tum ex itinere diverterat; quo<f1>Schwenckfeld.<fe> cum sic digladiabatur,
+ut palam etiam victus victor tamen sibi strenuus videretur, ac deinde apud suos mirificas glorias efflabat.<f1>Blarer bezieht sich auf das sog. Tübinger Kolloquium und die daraus resultierende Konkordie, d.h. die Übereinkunft Bucers, Blarers und Frechts mit Kaspar Schwenckfeld und Jakob Held vom 28. Mai 1535. - Druck und weitere Informationen, auch zur Rolle der Brüder Hans Friedrich und Hans Konrad Thumb von Neuburg, in: BucerDS XIV 413-524, Nr. 8.<fe> Quod illi
+san[e] perpetuum est, ut, sive admittatur sive explodatur, semper habeat, quod de se apud discipulos suos iactitet.
+Si enim neges colloquium, iam se paratum etiam doctissimis nostris fidei suę rationem dare affirmat,
+verum illos metu et conscientia malę caussę conferre secum nolle. Si vero colloquare,
+quicquid dixeris, in erroris sui confirmatio[nem] apud suos mirabili quodam artificio torquet.
+Longum igitur valeat et domini manum aliquando experiatur, quo discat non blasphemare suam doctrinam!<f1>Vgl. 1Tim 1, 20.<fe>
+^$<vl>150</vl> Plane video<fx>^#/+Dazu ein am Rande gezeichneter Stern und eine Hand, wohl von Blarers Hand.^#/-<fe> tempus impendere, ut de foederibus iungendis exacta aliqua, et quę domini verbo nitatur, ratio reddatur.
+Nam multum hic variant etiam doctiorum sententię, dum alii simpliciter negant cum impiis,
+hoc est evangelii Christi adversariis, iungi illa<f1>Gemeint sind: foedera.<fe> posse, alii autem licere istuc, si religionis caussa excipiatur,
+putant. Nonnulli solos ecclesiasticos, hoc est pontificios, excludendos existimant,
+cęteros promiscue extra religionis et fidei negocium admittendos. Nonnulli in tanta huius sęculi perfidia
+in universum a foederibus abhorrent ac totos se domino permittere statuunt, idque aliis etiam
+persuadere multis argumentis conantur, quamquam in horum sententiam pauciores sunt, qui discedunt.
+Valde igitur te, mi venerande et charissime Bullingere, obsecro, ut, ubi commodum erit, de hac re
+tuam ad me sententiam perscribas. Facies, mihi crede, non pęnitendum operę precium multis usui futurum.
+Scribes autem Germanice, ut ii quoque boni viri, qui Latine nesciunt, legere poss[int]<fx>^#/+Hier und unten Papierverlust am Rand.^#/-<fe>.
+Non postulo iustum libellum, sed ut paucissimis tuam nobis sententiam aperias.<f1>Bullinger antwortete wie gewünscht; s. unten Nr. 2269.<fe>
+^$Tuum de consobrino Ioanne Zviccio iudicium ita sum exosculatus, sic tantum non adoravi, ut vix quicquam unquam magis.<f1>Vgl. oben Nr. 2249, 28-32.<fe>
+Mitto ad te, quemadmodum petisti,d. et servatoris nostri testamentum, quod paulo ante
+migrationem suam magna gratia nec minore fructu ecclesię nostrę declaravit.<f1>Zu Zwicks "Christenlicher gantz trostlicher underricht" s. oben Nr. 2124, Anm. 7.<fe>
+Praefatus sum nonnihil in illud. Ubi, si forte immodicus fuisse in illius laudibus videbor, amori illi meo erga illum, qui plusquam summus fuit, tribues,
+quamquam, qui penitius illum noverunt, minus etiam quam pro re dixisse me affirmant.
+Christus faxit, ut ipsi quoque huius exemplo gloriam suam et ecclesię suę salutem viventes et morientes<f1>Vgl. Röm 14, 7f.<fe> ardeamus.
+^$Bene vale, venerande et charissime frater. 7. octobris anno 1545.
+^$Saluta amicos et fratres symmystas, inprimis tuam domum et optimum amicum nostrum Gvaltherum,
+cui mitto, ut vides, a Xysto Betuleio ad me diebus hisce data;<f1>Ein entsprechender Brief von Sixt Birck an Gwalther ist nicht bekannt. Blarer verfasste am 8. Oktober allerdings doch noch ein Schreiben an Gwalther und legte es dem vorliegenden Brief bei; s. Blarer BW II 395, Nr. 1225. - Vermutlich wurde Gwalther in Bircks Brief um ein Gedicht für Bircks Novi Testamenti Concordantiae Graecae ..., Basel, Johannes Oporin, Januar 1546, gebeten, da dort auf f. <gr>a</gr>6r. ein solches zu finden ist. Eine handschriftliche, autographe Fassung dieses Gedichts ist in Gwalthers eigener Gedichtsammlung (Zürich ZB, Ms D 152, 68r.-v.) zwischen zwei Gedichten vom 21. Oktober und vom 31. Dezember 1545 erhalten. Wir danken Herrn Kurt Jakob Rüetschi für freundliche Auskunft.<fe> scripturus omnino eram, si aliquo modo vacasset.
+<un>Tuus Amb. Bl.
+<lz>[Adresse auf der Rückseite:] Bullingero suo.
+</content>
+</letter>

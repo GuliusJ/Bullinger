@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1815">
+<nr>1815</nr>
+<correspondents>
+	<originator>Richard Hilles</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>15. November 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen und Randbemerkung von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 42, 109 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms F 53, 182</vo>
+<re>Kurz nach Bullingers Brief vom 13. Oktober schrieb auch Heinrich Falkner und beklagte sich über den Preis für das Tuch; übersendet anbei seine Antwort an Falkner und bittet Bullinger, ihm diese zu übersetzen, da Hilles' Deutsch noch schlechter als sein Latein ist. Falls Falkner Bullinger das Tuch zurückbringt, soll er es bis zum Eintreffen John Burchers aufbewahren, denn billiger will er es nicht verkaufen; besonders in diesen kriegerischen Zeiten könnte er wohl auf leichtere Art und Weise als mit dem Tuchhandel Geld verdienen, aber er denkt an das in 1Tim 6 [17] beschriebene Schicksal der Reichen. Hat [in Nr. 1790] die durch Falkner übermittelten vier Gulden erwähnt, weil er auch einen Brief von Francis Warner, der in Hilles' Haus wohnt, mitgesandt hatte [Nr. 1761] - dieser beschreibt einige gottlose Statuten, die das [englische] Parlament erlassen hat - und sich von dessen Überbringung überzeugen wollte.
+Seine Frau [Anna Hilles], die am 2. [November] den Sohn Gerson gebar, grüßt und dankt für die Gebete. Erwartet Nachrichten aus England. Da Bullingers Frau [Anna, geb. Adlischwyler] schon viele Kinder hat, wünscht seine Frau der Frau Meganders [Regula, geb. Offenhuser] Kindersegen.</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 160f, Nr. 112 bzw. Original Letters I 242f, Nr. 112; Regest: LP XVIII/2 212, Nr. 390.]
+</content>
+</letter>

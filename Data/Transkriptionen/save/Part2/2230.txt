@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2230">
+<nr>2230</nr>
+<correspondents>
+	<originator>Johann Valentin Furtmüller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>29. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 351, 206 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&x(Keine Simler-Kopie) ^&x{
+<re>Abraham Klarer, den Bullinger kennt, wurde (sei es rechtmäßig oder nicht) von Herisau zum Pfarrer ernannt, nachdem Ludwig [Rösch nach Sulgen] berufen wurde. Der Vater [Walter] Klarer wollte nun, dass der Sohn eingesegnet wird, doch unter Berücksichtigung von Paulus' Vorschriften war die [St. Galler] Synode dazu nicht bereit, da Klarer noch nicht firm genug im Worte Gottes ist und die Stelle gegen die Vorschriften der Synodalordnung erhalten hat. Der Vater wurde von dieser Ablehnung zutiefst getroffen und rechtfertigte sein Vorhaben, indem er den Bedarf der Herisauer Kirche, die Gefahr der Nomination eines Mönchs [Jakob Stössel] und die Zustimmung des unterdessen besser unterrichteten Vadian, ja selbst Bullingers und Meganders Unterstützung anführte. Er bestreitet sogar den Artikel gegen die Wanderprediger in der Synodalordnung und warnt auch vor einer Kirchenspaltung im Appenzellerland, sollte dieser Artikel nicht abgeändert werden.
+-^#. Beiliegend der betreffende Artikel. Die Berufung Abrahams steht noch aus, bis das von Bullinger erbetene Urteil eingetroffen ist.
+-^#. Grüße.</re>
+<tx>Gratiam et pacem.
+Quanquam invitus humanitati tuę, alias plus satis occupatę, insulsissimis meis scriptis negotia faciam, clarissime Bullingere, abstinere tamen
+(quod synodo nostrę<f1>Die St. Galler Synode. - Zu den dazugehörigen Kirchen s. Theodor ^#/+Bätscher^#/- und Hans Martin ^#/+Stückelberger,^#/- Kirchen- und Schulgeschichte der Stadt St. Germain, Bd. 1, St. Germain 1962, S. 113.<fe> sic visum sit) non potui, quin, quid per Abrahamum Clarerum, iuvenem tibi non ignotum,
+nobis his diebus acciderit, scriberem, qui ecclesie Herisouane (legitime vocatus necne, ipse viderit) constitutus est episcopus, etc.,
+que quidem Ludovico<f1>Ludwig Rösch, der von Herisau (Kt. Appenzell) nach Sulgen (Kt. Thurgau) berufen worden war; s. oben Nr. 2215, Anm. 18.<fe> nostro, fideli servo Christi, destituta
+severum (ut res habent) quendam pastorem desiderabat; in quo nos etiam anxie laborabamus, utut alii iudicent.
+Attamen Clarerus, voti compos factus, residet. Oblatus tamen per parentem<f1>Walter Klarer.<fe> synodo nostrę manuum impositionem<f1>Vgl. 1Tim 4, 14.<fe> frustra requisivit.
+Hisce enim, qualis nobis etiamnum Abraham ille videtur, dare suffragia, ut nos quidem intelligimus, divus Paulus<fx>divus Paulus ^#/+am Rande nachgetragen.^#/-<fe> vetuit.<f1>Vgl. 1Tim 3, 1-7. - Abraham war dem Wein zugetan; s. oben Nr. 2215, Anm. 3.<fe>
+Iuvenis est enim Clarerus ille, ut tua novit humanitas, qui infantiliter verbum domini (ut, qui predicantem audierunt, testantur)<fx>^#/+Klammern ergänzt.^#/-<fe> tractat.
+Accepitque munus hoc reluctantibus constitutionibus synodalibus<f1>Die "Constitutiones Synodi Sangallensis" waren 1544 erarbeitet worden; s. ^#/+Bätscher,^#/- aaO, S. 113; Stadtarchiv (Vadiana) St. Germain. Kirchenarchiv und Schularchiv (Bücher), bearb. v. Ernst Ziegler, St. Germain 2003, S. 21, Nr. V,1,1.<fe> nostris piis et necessariis rationibus a nobis receptis, que tales sunt, ut coram cernis.
+His itaque moti Abrahamum illum in consortium nostrę synodi recipere hactenus recusavimus.
+Eam autem sententiam nostram Gvaltherus<f1>Walter Klarer.<fe> tanquam indignam sibi et filio ęgre ferens
+suum hoc facinus multis excusare nititur, causaturque primum necessitatem ecclesię videlicet Herisouanę
+(sed o necessitatem!)<fx>^#/+Klammern ergänzt.^#/-<fe>; deinde cautionem, qua providisse, ne irrepat papista monachus quidam<f1>Jakob Stössel; s. oben Nr. 2215, Anm. 27.<fe> (quod in proclivi erat, ut dicitur);
+vult videri postremo quod Vadianus noster hoc non dissuaserit admodum, quin probaverit consilium genitoris, filium evangelico muneri sanctificantis<fx>^#/+In der Vorlage^#/- sanctifficans.<fe>.<f1>Zur Unterstützung Klarers durch Vadian s. oben Nr. 2215, 30f.<fe>
+Vadianus autem, ut testes sunt, se Gvaltheri verbis persuasum excusat, quod ille tam multa et magna de filio sit pollicitus, auditoque vero mutavit sententiam.
+Addidit preterea senex Clarerus gessisse se hoc negotium tuę humanitatis et fęlicis memorię Megandri<f1>Megander war am 17. August 1545 gestorben; s. oben Nr. 2226, 10f.<fe> instinctu.<f1>Walter Klarer schrieb am 16. August 1545 (Nr. 2215) in dieser Sache an Bullinger. Dessen Antwort ist nicht erhalten, scheint aber angesichts der Tatsache, dass Abraham Klarer tatsächlich Pfarrer in Herisau wurde, positiv ausgefallen zu sein.<fe>
+Ceterum, ne lex nostra illum arguat erroris et convincat etiam, articulum hunc constitutionum nostrarum
+(qui coercendos circumcelliones quosdam, ne ecclesiis imponant, sancitus est)<fx>^#/+Klammern ergänzt.^#/-<fe> reiicit tanquam sibi
+et ecclesiis Abbacellanis<f1>Den appenzellischen Kirchen.<fe> cum fructu servandum impossibilem, minaturque concisionem synodi, nisi deleatur.
+^$Mittimus itaque hunc<f1>Gemeint ist: articulum. - Diese Beilage ist nicht erhalten.<fe> tuę humanitati iudicandum et totum hoc negotium nostrum.
+Propterea etenim distulimus admissionem Abrahami illius in nostram synodum (ceteri potentia pollent),
+donec a tua humanitate rei veritatem discamus, cui (si eiusmodi vocatio, qua Clareri gaudent, <vl>206v.</vl> probatur)<fx>^#/+Klammern ergänzt.^#/-<fe>
+parati sumus tibi subscribere, venerantes et merito quidem humanitatis tuae authoritatem.
+Obsecramus itaque, clarissime Bullingere, ut de his nos certiores facere tibi non sit molestum.
+Desideramus enim tuum consilium et sententiam, quibus docti, que deceant, agere possi[mus]<fx>^#/+Im engen Einband nur teilweise lesbar.<fe>.
+^$Tua humanitas valeat in domino, cui nos totos commendamus.
+^$Sangalii, 29. augusti 45.
+<un>Tuus
+<un>Johannes Valentinus Furtmuller.
+<lz>[Adresse darunter:] Clarissimo viro domino Henricho Bullingero, ecclesie Tigurine episcopo, observandissimo suo domino, etc.
+</content>
+</letter>

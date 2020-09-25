@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1825">
+<nr>1825</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Martin Bucer</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>8. Dezember 1543</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand<fx>^#/+Mehrere Korrekturen sowie Nachschrift und Datum autograph.^#/-<fe>: Zürich StA, E II 346, 125r.-126r.</vo>
+^&xK: ZZB, Ms S 53, 197; Straßburg BNU, Ms 673 (Th.B. 14), 146-147^&x{
+<dr>Gedruckt<fx>^#/+Der erstgenannte Druck beruht auf den Abschriften von Johann Jakob Simler (Zürich ZB, Ms S 53, 197) und Johann Wilhelm Baum (Straßburg BNU, Ms 673, 146f).^#/-<fe>: ^#/+Lenz^#/- II 223-225; Teilübersetzung: ^#/+Detmers,^#/- Judentum 161f; Teildruck: ebd. 162f, Anm. 6</dr>
+^&xZit.: WA Briefe X 384f; Rott in HBGesA II 281, Nr. 153; TÜ: Zwa VIII 164.^&x{
+<re>Zur Fürbitte für die Bischöfe von Köln und Münster [Hermann von Wied und Franz von Waldeck] hätte es Bucers Aufrufs [in Nr.
+1803] nicht bedurft. Erneute Bitte um den [Kölner] Reformationsentwurf ["Einfaltigs bedencken"], auch im Namen
+Vadians, der nach Augsburg gereist ist; Vadian bedauert Luthers scharfen Brief [an Froschauer] ebenso wie Bucer und viele
+andere, doch werden ihm [die Zürcher] nichts erwidern, solange sie nicht öffentlich angegriffen werden. Luther hat
+bereits gegen den [Erzbischof] von Mainz [Albrecht von Brandenburg] und gegen "Hans Worst" [Herzog Heinrich von
+Braunschweig-Wolfenbüttel] maßlos polemisiert, ohne dass ihm jemand entgegengetreten wäre, und nun schreibt er
+gegen die Juden in einer Weise, die der Sache schadet und eines bejahrten Theologen unwürdig ist; wenn Reuchlin noch am Leben wäre,
+sähe er in Luthers "Schem Hamphoras" und "Von den letzten Worten Davids" den Hass seiner einstigen Gegner auf die [rabbinischen] Kommentatoren wieder aufleben. Besonders
+unerträglich ist Luthers Behauptung, die hebräische Bibel sei von den Rabbinen verdorben, weshalb er beinahe seine eigene
+Übersetzung widerruft; während Luther der hebräischen Bibel misstraut, soll sich die Kirche nach seinem Vorschlag auf die
+Revision eines Einzelnen - Bernhard Ziegler - stützen, und Luthers eigene Schriften werden schon fast wie Orakel verehrt.
+Um Gottes Gericht zuvorzukommen, sollten Bucer und andere ihren Lehrmeister zur Besinnung rufen; [die Zürcher] stellen ihre Sache Gott anheim, doch die Nachwelt wird Luthers Schriften
+wegen seiner Maßlosigkeit mit Skepsis begegnen. Bucer soll Melan­chthon wissen lassen, dass Luther mit seiner Gehässigkeit den Anhängern des Antichrists recht gibt, welche die
+evangelischen Prediger als böse Lästermäuler bezeichnen. Geht nicht auf Bucers Schilderung seines Einsatzes für die Konkordie ein, weist aber den Vorwurf zurück, [die Zürcher] seien zu wenig
+duldsam; es hat sich gezeigt, dass Luther keine Konkordie will, doch ihnen genügt es, mit allen einig zu sein, die an Gottes
+Wort glauben und ohne falschen Eifer der Reformation anhängen. [Nachschrift:] Mahnung zur Wachsamkeit am Reichstag zu Speyer.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Colonien[sium] et Monasteriensium episcoporum<f1>Erzbischof Hermann von Wied und Bischof Franz von Waldeck.<fe> caussam, imo periculum praesentissimum
+ante oculos in precibus nostris tenemus, ut non sit necesse id tanta a nobis expetere<fx>expetere ^#/+anstelle eines gestrichenen, unlesbaren Wortes von Bullinger am Rande
+nachgetragen.^#/-<fe> diligentia,<f1>Vgl. oben Nr. 1803, 4-6.<fe> quanquam in hoc se exerat<fx>^#/+Vor^#/- exerat ^#/+ein gestrichenes Zeichen.^#/-<fe> egregia charitas et
+solicitudo tua ergo omnes sanctos. Dominus spiritu suo illuminatos conservet in sancta et libera nominis sui confessione.
+^$Liber reformationis<f1>Zum Kölner Reformationsentwurf ("Einfaltigs bedencken"), um dessen Zusendung Bullinger gebeten hatte, s. zuletzt oben Nr. 1803, 6-14.<fe> nondum, opinor,
+absolutus est; ubi extrema ei manus imposita fuerit, quaeso,d. Vadiani et mei memineris. Abiit ille superioribus diebus
+Augustam;<f1>Vadian reiste nach Augsburg, um in einem Konflikt zwischen Hieronymus Sailer und Bartholomäus Welser zu
+vermitteln; s. Conradin ^#/+Bonorand,^#/- Hieronymus Sailer aus St. Germain, Schwiegersohn des Augsburger Großkaufherrn Bartholomäus Welser, und seine Tätigkeit im Lichte des
+Briefwechsels mit Vadian, in: Zwa XX, 1993, S. 103-125 (hier S. 103 und 110). Martin Frecht in Ulm hatte bereits am 4. Dezember Nachricht aus Augsburg über Vadians dortigen Aufenthalt; s. Blarer BW II 218.<fe> nondum rediit, opinor. Dolet ei non minus quam tibi fervidum Lutheri scriptum<f1>Zu Luthers Brief
+vom 31. August 1543 an Christoph Froschauer s. zuletzt oben Nr. 1803, 15-33.<fe>; dolet et reliquis piis et doctis fratribus. Nec est, quod metuas vixdum diremptam pugnam nostro
+reparandam fervore. Nisi enim publico scripto ille nos prior lacessiverit aut nostra sic impetiverit, ut non possimus citra
+veritatis et purae confessionis discrimen silentio contumeliam dissimulare<fx>^#/+Vor^#/- dissimulare ^#/+ein gestrichener, unlesbarer Wortanfang.^#/-<fe>, nunquam descendemus in
+harenam<f1>Adagia 1, 9, 83 (LB II 361).<fe>. Vide autem etiam atque etiam, doctissime idemque dilectissime mi Bucere, ne, dum omnes silemus et omnia
+dissimulamus omniaque illi permittimus, graviter et in
+dominum et in functionem nostram peccemus. Olim certe non
+impune tantis innoxios fratres contumeliis affecisset
+convitiisque perfudisset. Sed imponit nobis forte affectus,
+quia nostra hic res agitur<f1>Vgl. Horaz, Epistulae, 1, 18, 84.<fe>. In Moguntinensem<f1>Albrecht von Brandenburg,
+Erzbischof von Mainz. - Bullinger bezieht sich auf Luthers 1539 gedruckte Streitschrift "Wider den Bischoff zu Magdeburg
+Albrecht Cardinal" (WA L 395-431).<fe> et Brunsvicensem<f1>Herzog Heinrich von Braunschweig-Wolfenbüttel.<fe> Ioannem<fx>^#/+In der Vorlage^#/-
+Ioanem.<fe> Worstium<f1>Siehe Luthers 1541 erschienene Schrift "Wider Hans Worst" (WA LI 469-572).<fe> praeterito decoro et citra omnem modestiam plane scurriliter, non graviter scripsit.
+Quis nostrum ineptienti<fx>nostrum ineptienti ^#/+von Bullinger am Rande nachgetragen.^#/-<fe> immodestiam ex charitate et
+fraternitate obiecit, modestiam et gravitatem commendavit?
+Nemo. Forte non ferret monitorem commodum. Imo adorant
+plerique hominis caninam illam et obscoenam facundiam<f1>Adagia, 2, 4, 34 (LB II 534).<fe>. Pergit ergo ille et conatur
+semetipsum maledicendo<fx>^#/+Korrigiert aus^#/- valedicendo.<fe> superare. Scribit contra Iudaeos<f1>Zur folgenden Kritik Bullingers an Luthers späten Judenschriften vgl. ^#/+Detmers,^#/- Judentum 161-165.<fe> et disputat non inepte prorsus et inutiliter pro fide nostra sancta christiana; sed felix et
+plausibile argumentum<fx>^#/+Vor^#/- argumentum ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe> ingratum, imo ineptum reddit suis illis foedis dicteriis et scurrilitate nemini, nedum
+seni theologo decora. Ut autem demus paucula quaedam inepta<fx>^#/+Vor^#/- inepta ^#/+ein gestrichener, unlesbarer Wortanfang.^#/-<fe> esse dissimulanda propter multa utilia et
+apposita, quae in eo continentur libro, quis, oro, ferat aut boni consulat librum<fx>^#/+Vor^#/- librum ^#/+gestrichenes^#/-
+de.<fe> De Schem Hamphoras<f1>Die im März 1543 vollendete, scharf antijüdische Schrift "Vom Schem Hamphoras und vom
+Geschlecht Christi" (WA LIII 579-648) enthält u. a. eine pauschale Verurteilung der rabbinischen Bibelexegese.<fe>
+impurissime scriptum? Quis non obstupescat ad arrogantem et praefractum illum spiritum hominis in Ultimis Davidis
+verbis<f1>Die stärker exegetisch ausgerichtete Schrift "Von den letzten Worten Davids" (WA LIV 28-100) war im Sommer 1543 erschienen und
+zielte hauptsächlich auf die Verbesserung einiger Stellen in Luthers Deutscher Bibel.<fe> sese insolenter exerentem? Si
+hodie revivisceret inclitus ille heros Capnion<f1>Johannes Reuchlin.<fe>, diceret in uno Luthero revixisse
+Tungaros<f1>Arnold von Tongern (Arnold Luyd, van Luyde; Tongrensis), von Tongern (Prov. Limburg, Belgien), studierte ab 1486 an der Universität Köln, wo er 1509 zum Dr. theol.
+promovierte und anschließend als Professor der Theologie wirkte. Bekannt wurde er vor allem durch sein Eingreifen in die
+Kontroverse um Reuchlin, gegen den er 1512 mehrere Schriften verfasste. 1533 wurde er Domherr in Lüttich, wo er 1540 starb.
+- Lit.: Léon-E. ^#/+Halkin,^#/- in: Contemporaries III 330f; Her­­ibert ^#/+Smolinsky,^#/- in: LThK^#'3 I 1024.<fe>, Hochostratos<fx>^#/+Korrigiert aus^#/- Hochosteratos.<fe><f1>Jakob
+(van) Hoogstraten (Hoogstraeten), geb. um 1460 in Hoogstraten (Prov. Antwerpen), gest. 1527 in Köln, studierte zunächst in Löwen, wo er 1485 den Magistergrad erlangte. 1504 promovierte
+er, inzwischen Dominikaner geworden, in Köln zum Dr. theol., wo er als Professor lehrte und Prior des Dominikanerkonvents sowie Inquisitor der Erzbistümer Köln, Mainz und Trier wurde. Er
+unterstützte Johannes Pfefferkorn, der die Verbrennung aller jüdischen Schriften forderte, in seiner Auseinandersetzung mit
+Reuchlin, und appellierte in Rom gegen dessen Freispruch, war aber auch ein scharfer Gegner Luthers sowie jener Theologen,
+die sich um eine vermittelnde Position bemühten. - Lit.: Gilbert ^#/+Tournoy^#/- und Peter G. ^#/+Bietenholz,^#/- in: Contemporaries II 200-202; Willehad Paul ^#/+Eckert,^#/- in:
+LThK^#'3 V 271f.<fe> et Pipericornos<f1>Joseph (Johannes) Pfefferkorn, s. HBBW XI, S. 115, Anm. 29.<fe> internicino[!]<fx>^#/+Wohl vom Kopisten verschrieben aus^#/-
+internecivo.<fe> odio Hebraeorum commentatores arrodens<fx>^#/+Korrigiert aus ^#/-arrodentes; ^#/+korrekt wäre^#/-
+arrodente.<fe> et lace­rans<fx>^#/+Korrigiert aus^#/- lacerantes; ^#/+korrekt wäre^#/- lacerante.<fe>.
+^$<vl>125v.</vl> Cęterum ferenda esset illa ferocia, si Bibliorum fides et authorita[s]<fx>^#/+Rand beschnitten.^#/-<fe> prisca per huius disputationem maneret intemerata. Iam vero negat Hebraica Biblia<fx>^#/+Korrigiert aus^#/- Bliblia.<fe> certa esse et
+indubitata, negat christianum et genuinum ex his sen­sum
+percipi posse. Asserit ea a rabinis esse corrupta.<f1>Siehe WA LIII 646, 19-647, 9; LIV 100, 23f.<fe> Fatetur
+se parum syncere Biblia vertisse Germanica<fx>^#/+Vor^#/- Germanica ^#/+ein gestrichener, unlesbarer Wortanfang.^#/-<fe> et eam interpretationem tantum non revocat.<f1>Siehe WA LIII 647, 25f. 31-33; LIV 30, 22-26.<fe> Vide, Bucere<fx>^#/+Korrigiert aus^#/- Buzere.<fe>, frater
+dilecte, quot<fx>^#/+Korrigiert aus^#/- quod.<fe> offendicula hic etiam prudentioribus ob­iectet lectoribus. Non enumeravero paucis
+absurda, praepostera et prava, quae in hac Lutheri sententia existunt. Tandem vero reiicit restitutionem et correctionem
+Bibliorum ad Bernhardum quendam Zieglerum,<f1>Siehe WA LIII 647, 14-19.<fe> quasi vero fides nostra in hunc innitatur et tota ecclesia credere debeat uni homini, quae non potest nec
+debet, iuxta canonem Lutheri, fidem dare Hebraicę<fx>^#/+In der Vorlage^#/- Hebracę.<fe> veritati<f1>Der Ausdruck "Hebraica veritas" qualifiziert (zunächst bei Hieronymus) den
+hebräischen Originaltext des Alten Testaments in Abgrenzung zur griechischen Septuaginta; vgl. Alfons ^#/+Fürst,^#/- Hieronymus. Askese und Wissenschaft in der Spätantike, Freiburg i. Br. 2003, S. 103f und 265 (mit Anm. 61).^&xEugene F. ^#/+Rice,^#/- Saint Je­rome in the Renaissance, Baltimore-London 1985, S. 17.^&x{<fe>.
+Porro enim non Hebraica veritas, sed Iudaica dicetur vanitas. Huc scilicet defertur insolens hominis ingenium, cum omnes symmistae<fx>^#/+In der Vorlage^#/- synnistae.<fe> et ecclesiarum
+ministri qualibet etiam scriptura<fx>^#/+Wohl vom Kopisten verschrieben aus^#/- quae­libet ... scripta.<fe> eius adorant pro
+oraculis, cum hu­ius spiritus tanquam apostolicus praedicatur, de cuius plenitudine acceperunt omnes<f1>Vgl. Joh 1, 16.<fe>.
+^$Metuendum profecto ex iis, quae hactenus evenerunt, ne hic
+homo magnum aliquod<fx>^#/+In der Vorlage^#/- aliquot.<fe> malum aliquando daturus sit ecclesiae.
+Praestaret autem, si tu<fx>^#/+Korrigiert aus^#/- tui.<fe> ac tui similes, qui apud illum
+valetis plurimum, amicum, fratrem et, si ita libet dicere,
+praeceptorem coherceretis, ut sui ipsius<fx>ut sui ipsius ^#/+von Bullinger am Rande nachgetragen.^#/-<fe> modestiaeque<fx>^#/+Korrigiert aus^#/- modestius.<fe> memor
+humilius saperet, purius et circumspectius scriberet
+ageretque. Multi enim viri pii et docti valde offenduntur
+per insolentiam plus satis insolescentem. Quod si homines
+offitium suum praestare noluerint, sentiemus deum iusto
+iuditio brevi<fx>brevi ^#/+von Bullinger über der Zeile nachgetragen.^#/-<fe> in nocentes animadversurum. Certe post<fx>post ^#/+von Bullinger am Rande nachgetragen.^#/-<fe> libros illos lectos aequanimius damnationem<fx>^#/+Es folgt gestrichenes^#/- damnationem.<fe> illius contra nos
+effulminatam tulimus, qui hac in re non cupimus illius esse
+consortes et sotii[!]. Imo dei iusto iuditio tribuimus, quod in
+extrema senecta theologus tantus tanta scribit et agit
+immodestia<fx>^#/+In der Vorlage^#/- imodestia.<fe>. Nam ex his iudicabunt posteri Lutherum fuisse
+hominem, et hominem quidem<fx>quidem ^#/+von Bullinger über der Zeile nachgetragen.^#/-<fe> obnoxium noxiis<fx>noxiis ^#/+von Bullinger am Rande nachgetragen.^#/-<fe> affectibus,
+legentque scripta hominis multa cum cribratione<f1>mit kritischer Prüfung; vgl. Hoven 90.<fe> et diligentia.
+^$Haec in hoc tot verbis ad te scribo, ut, quoniam alias
+clarissimo virod. P[hilippo] Melancht[honi] scripturus es,<f1>Vgl. oben Nr. 1803, 29-33.<fe> hoc
+quoque addas, invigilet, ne Lutherus causas optimas perpetuo
+solita maledicentia, amarulentia, malorum verborum copia et
+scurrilitate depravet, incircumspecte et temere de volumine
+sacro et scriptoribus canonicis pronunciet. Tantum theologum
+decet modestia, prudentia, pietas, <vl>126r.</vl> gravitas. Exemplum illius<fx>^#/+Korrigiert aus^#/- illum.<fe>
+audacis dicacitatis pervasit et occupavit hodie multos
+ecclesiarum ministros, qui plurimum incommodant verae
+pietati, confirmant autem et indurant regnum antichristi,
+cuius cultores clamitant ecclesiastas evangelicorum non esse
+praecones evangelii, sed satyricos maledicosque scurras.
+Annitendum ergo nobis omnibus, ut ratio habeatur ecclesiae
+modestiaeque, ut revocetur exemplum prophetarum et
+apostolorum et ne quid fiat praefractius per aemulationem et
+arrogantiam. Non feres<fx>^#/+Nach^#/- feres ^#/+ein oder zwei gestrichene, unlesbare Wörter.^#/-<fe> inique, dilecte frater, hanc meam quęrelam, quam et iustam et fraternam esse cognoscis.
+^$Ad reliqua, quae prolixe scribis, quae egeris et<fx>^#/+Vor^#/- et ^#/+gestrichenes^#/- inter Lutherum et nos sarciendae.<fe> passus sis
+in negotio concordiae inter Lutherum et nos sarciendae,
+nihil respondeo, cum in hoc applicaris, ut habeamus exemplum
+patientiae. Nos alioqui, deo gratias, impatientes non sumus,
+qui omne iuditium iusto iudici deo commisimus<fx>^#/+In der Vorlage^#/- connisimus.<fe>. Strenue
+laborasti pro sarcienda concordia; at deprehendis Lutherum
+nolle ullam<fx>^#/+Korrigiert aus^#/- nullam.<fe> concordiam. Id deo committimus neque cogere
+Lutherum renitentem nec possumus nec volumus. Sufficit, si
+nobiscum concordes sint, quicunque verbo domini credunt et
+positis affectibus salutari eius reformationi obediunt
+faventque. Nihil amplius expetimus; satis in hoc nobis
+concordiae.
+^$[Autographe Nachschrift:] Per caetera hortatus sum, ne quid negligat suosque hortetur, vigilent in comitiis Spirensibus<f1>Der ursprünglich auf den 30. November nach Speyer einberufene Reichstag wurde erst am 20. Februar des folgenden Jahres eröffnet; s. RTA JR XV/1 118.<fe>, ne caesar<f1>Karl V.<fe> graviter ipsis noceat etc.
+^$8. decembris 1543.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

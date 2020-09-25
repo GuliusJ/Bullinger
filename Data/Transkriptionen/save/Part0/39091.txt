@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="39091">
+<nr>39091</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Haller</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>8. April 1569</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand (17. Jh.)<fx>^#/+Mit Randbemerkung und Unterstreichungen von Johann Heinrich Hottinger.^#/-<fe>: Zürich ZB, Ms F 46, 612</vo>
+<vo>Simler: Ms S 119, 163.</vo>
+<dr>Ungedruckt</dr>
+<re></re>
+<tx>S[alutem] d[ico].
+^$Gliscit concertatio de excommunicatione Heydelbergae. Misit huc ad nosd. Erastus responsionem pro suis thesibus ad argumenta
+adversariorum. Eum adhortatus sum, ut propter adversarios communes nihil edat aut publicet. Quod ipse facturus videtur,
+nisi ab adversa parte adigatur. Si illi vicerint, habebimus novam inquisitionem Hispanicam. Mirum, mirum, quam Sathan
+insidietur puritati doctrinae et gubernationi ecclesiae moderatae<fx>^#/+In der Vorlage^#/- moderata.<fe>. Orandus dominus, ut ipsum sub pedes nostros subiiciat.
+^$Affirmatur Condensem caesum et copias eius dissipatos resque Hugonothorum<fx>^#/+In der Vorlage^#/- Hugnonothorum.<fe> esse
+conclamatas penitus. Ea res non parum me angit, quod sciam, quanta truculentia sint tractandi per universam Galliam fideles
+et qui exules sunt. Scio alioqui<fx>^#/+In der Vorlage^#/- aliqui.<fe> res nostras non in Condensem esse impositas, sed in
+petram, contra quam ne inferorum portae praevalebunt.
+^$Vale cum tuis.
+<lz>[Ohne Adresse.]<fx>^#/+Datum, Unterschr.ift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt:^#/- Idem eidem. Tiguro Bernam. 8. aprilis 1569.<fe>
+</content>
+</letter>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="29084">
+<nr>29084</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Fabricius</addressee>
+</correspondents>
+<space_time>
+	<place>(Zürich)</place>
+	<date>30. Mai 1559</date>
+</space_time>
+<vo>Zürich StA, E II 373, 165. / Orig. Aut.</vo>
+<dr>Gr. II, 141f. R.</dr>
+<re></re>
+<note></note>
+S. D. Quae apud nos sunt, intelliges ex latore literarum.
+Heri literas accepi ex Heydelberga motum esse nonnullum in academia; nam virum doctissimum d.d.
+Stephanum Sylvium disputare de coena domini et tueri partes nostras.
+Orandus est dominus, ut res feliciter cadat.
+Plura non potui; scribam alias.
+Vix convalui ex vehementi capitis mei dolore, qui invalescit magis atque magis.
+Vale cum amicis omnibus.
+30. maii 1559.
+Vigilate, ne schola papistica erigatur in Valle Tellina, de qua re alias.
+                                                      Tuus Bullingerus.
+Praestantissimo virod. Ioanni Fabritio, Curiensis ecclesiae ministro fideli, fratri charissimo suo.
+^$Chur.
+</content>
+</letter>

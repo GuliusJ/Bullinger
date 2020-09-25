@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2526">
+<brief>
+<id>16219</id>
+<nr>2526</nr>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 5. August [1546]
+<fn>Das Jahr ergibt sich aus dem Inhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 370a, 565 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 100</k></dr>
+<re>Die beiden Zürcher [Überbringer des vorliegenden Briefes], Hans Hug und Meinrat Oggenfuß, kamen aus Mähren zu Haller. Wegen ihrer langen Reise hatten sie kein Geld mehr. Haller wollte ihnen helfen, hat aber gerade selbst nichts, zumal er erst vor kurzem [Hans Wilpert] Zoller 30 Florin geliehen hat. Auch hat er schon etliche schlechte Erfahrungen gemacht. Deshalb lieh er jedem nur [eine] Krone, mit der Erklärung, der Stadtschreiber [Georg Frölich] habe ihnen den Betrag vorgestreckt und erwarte, dass sie diesen innerhalb von 14 Tagen an Bullinger zurückzahlen. Dafür stellten beide Zürcher eine schriftliche Quittung an Haller aus. Bullinger soll das Geld nach Erhalt sogleich an Haller schicken, der dann die Quittung vernichten wird.
+<t/>[P.S.:] Den Betrag, den Haller für die von ihm bereits bestellten Exemplare der Schrift ["Hoffnung der Glöubigen"] Bullinger schuldet, soll Letzterer von den zwei Kronen abziehen und nur den Rest davon an Haller zurücksenden.
+<t/>Die Bürgermeister [Hans Welser und Jakob Herbrot] sind gestern mit ungefähr 100 Reitern zum Empfang der Fürsten nach Donauwörth aufgebrochen. Ammann [Hans] Vogler [d.Ä.], der sie begleitet, wollte [Hug und Oggenfuß] das Geld leihen, ist aber zum großen Ärger Letzterer schon vorher abgereist.</re>
+<text>
+<p>S. <zzl>zl16219-4A</zzl>Venerunt ad me
+<fa>me <i>fehlt in der Vorlage.</i></fa> hii duo cives Tigurini, Hanns Hug undt Meinrat Oggenf{uo}ß,
+<fn>Meinrat Oggenfuß (laut Heinold Fast ein Korbflechter; laut <qv>nr2550</qv>,<qv>zl16239-1</qv>, ein Metzger und Fassbinder) und der Glasbläser Hans Hug (keine Täufer). Sie waren um den 18. Juli 1546 in Begleitung von Wilhelm Reublin zu einer Reise von Zürich via Ulm nach Mähren aufgebrochen. Der Grund der Reise ist nicht bekannt. Vielleicht wollten sie Familienangehörige, die wegen ihres Täufertums aus Zürich auswandern mussten, besuchen oder diese zur Rückkehr in die Heimat bewegen; s. <qv>nr2527</qv>,<qv>zl16217-1</qv>. <qv>zl16217-2</qv>; Heinold <i>Fast,</i> Neues zum Leben Wilhelm Reublins, in: Theologische Zeitschrift 11/6, 421 und Anm. 7; Martin <i>Rothkegel,</i> Täufer und ehemalige Täufer in Znaim. Leohard Freisleben, Wilhelm Reublin und die 'Schweizer' Gemeinde des Tischlers Balthasar, in: Mennonitische Geschichtsblätter 58, 2001, 69, Anm. 77.<zfn>fn16219-1</zfn></fn><zzl>zl16219-4E</zzl> ascendentes
+<fn>Nämlich die Donau (vermutlich ab Krems an der Donau) und dann den Lech hinauf.</fn> ex Moravia, enudati prorsus propter longinquam profectionem pecuniis, rogantes, ut vel aliquot saltem eis mutuo darem florenos. Ego ipse, pecuniis tam nudus ut nihil supra (quippe qui ante paucos dies Zollero
+<fn>Hans Wilpert Zoller.</fn> 30 mutuo dedi florenos)
+<fa><i>Klammern ergänzt.</i></fa>, nec eorum potui satisfacere petitioni, nec tamen volebam conterraneos (quamvis uterque eorum mihi hactenus nisi ex facie fuerit ignotus) inanes dimittere. <zzl>zl16219-6A</zzl>Quia autem non unicuivis fidendum (hactenus enim toties ictus sum, ut, sicubi possim, caveam)
+<fa><i>Klammern ergänzt.</i></fa>, <zzl>zl16219-5A</zzl>dedi eis <fa1 bis="1"><i>Am Rande nachgetragen an Stelle von gestrichenem</i> 1 fl.</fa1>[unum c]orona[tum
+<fn>= coronam; s. <a>Kirsch</a> 727.</fn> ad singu]lares
+<fa><i>Textverlust durch Ausschnitt des Siegels. - Dass es sich um zwei Kronen handelte, geht aus <qv>nr2560</qv>,<qv>zl16250-1</qv>, hervor.</i></fa><fa1e von="1"/>,<zzl>zl16219-6E</zzl> eo tamen praetextu, quasi d. archigrammataeus
+<fn>Georg Frölich.</fn> hos
+<fn>coronatos.</fn> eis mutuo dederit, ut intra 14 dies tibi eos reddant.
+<fn>Siehe aber den unten Z. <qv>zl16219-3</qv> angebrachten Zusatz mit der neuen Vorkehrung.</fn> Huius contractus reliquerunt apud me chirographum suum. Si ergo tibi reddiderint, fac, obsecro, quam fidissime ad me mittas. Chirographum me iusserunt lacerare post acceptas pecunias.<zzl>zl16219-5E</zzl></p>
+<p>Vale. 5. augusti.</p>
+<p><zzl>zl16219-3A</zzl>Libros,
+<fn>Die von Johannes Fries übersetzte Schrift Bullingers "Hoffnung der Glöubigen"; s. <qv>nr2453</qv>, <qv>fn16141-1</qv> sowie <qv>nr2524</qv>, <qv>fn16214-3</qv>.</fn> quos in aliis petii mihi mitti literis
+<fn>Brief <qv>nr2524</qv> vom 3. August.</fn>, ex his
+<fn>aus den oben erwähnten "coronati".</fn> solve; reliqua transmittito.<zzl>zl16219-3E</zzl></p>
+<p><zzl>zl16219-1A</zzl>Consules
+<fn>Hans Welser und Jakob Herbrot; s. zuletzt <qv>nr2525</qv>, <qv>fn16215-3</qv>.</fn> heri cum 100 ferme equitibus Werdam
+<fn>Donauwörth.</fn> profecti principes
+<fn>U.a. des Kurfürsten Johann Friedrich von Sachsen und des Landgrafen Philipp von Hessen. - Zur Beschreibung der Einzüge der entsprechenden Truppen in Donauwörth s. <qv>nr2531</qv>.</fn> excepturi. Item ammanus Voglerus
+<fn>Hans Vogler d.Ä.</fn> eos
+<fn>Welser und Herbrot.</fn> secutus. Is dixerat se his
+<fn>Hug und Oggenfuß.</fn> mutuo daturum, sed relinquens eos profectus est Werdam; quod illos male habet supra modum.<zzl>zl16219-1E</zzl></p>
+<un>Tuus ex animo Hallerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Bullingero, Tigurinae ecclesiae vigilantissimo pastori, suo colendo patri.</p>
+</text>
+</brief>

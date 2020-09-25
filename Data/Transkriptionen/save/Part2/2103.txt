@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2103">
+<nr>2103</nr>
+<correspondents>
+	<originator>Pfarrer</originator>
+	<originator>Lehrer von Zürich</originator>
+	<addressee>Philipp von Hessen</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. März 1545</date>
+</space_time>
+<vo>Original (von Zürcher Kanzleihand<fx>^#/+Die gleiche Hand wie unten Nr. 2110.^#/-<fe>): Marburg HStA, ^$^$^$^$PA 1797 (3, 1797), 32r.-35v. (Siegelspur); ^$^$^$^$Entwurf von Bullingers Hand<fx>^#/+Im Apparat werden nur bedeutsame Abweichungen des Entwurfs und Angaben zu den dort beobachteten Hinzufügungen verzeichnet.^#/-<fe>: Zürich StA, E II 337a, 366r.-367r.</vo>
+<dr>Gedruckt nach dem Entwurf: ^#/+Mühling,^#/- Kirchenpolitik ^$^$^$^$293-295, Anlage 7</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 193 (nach Entwurf, der auch T. Schieß' Vorlage ist); Regest+Zitat: ^#/+Köhler,^#/ Hessen und die Schweiz 475f (Nr. 40); Erw.: M. Lenz, Philipp von Hessen und Bucer II 339. A. Mühling 78. -- Der Brief traf am 16. April 1545 in Kassel ein. -- (Eingetippt ist das Marburger Original!). ^&x{
+<re>[Die Zürcher] bedauern das aggressive ["Kurtz bekentnis"] Luthers: zum einen nehmen die Schwachen an der Uneinigkeit unter den Befürwortern des Evangeliums Anstoß, zum anderen werden dadurch die Friedensbemühungen des Landgrafen [Philipp] und anderer Fürsten zunichte gemacht. Die Zürcher hätten weiterhin geschwiegen, wenn Luther sie nicht als Ketzer verdammt und geschmäht hätte. Ihre Antwort, das ["Warhaffte Bekanntnuß"], haben sie mit Wissen der Bürgermeister [Johann Rudolf Lavater und Johannes Haab] und der Ratsherren Zürichs verfasst; diese können Luthers Verhalten nicht verstehen, zumal die Zürcher Kirche sich an die apostolische Lehre hält.
+-^#. Sie schicken dem Landgrafen nun ein Exemplar dieser Antwort zu, weil dieser darin im Zusammenhang mit dem Marburger [Religionsgespräch von 1529] erwähnt wird.
+-^#. Er möge diese Antwort und überhaupt Zürcher Drucke in seinen Territorien nicht verbieten, genauso wie die Zürcher Luthers Bücher und die [seiner Anhänger] zur Lektüre zulassen. Jeder soll feststellen können, dass die [eidgenössischen Kirchen] keineswegs der Darstellung Luthers entsprechen.
+-^#. Der Landgraf soll Kurfürst [Johann Friedrich I.] von Sachsen und Herzog Moritz [von Sachsen] je eines der beigelegten Exemplare [dieser Antwort] zukommen lassen und diese bitten, [die Eidgenossen] nicht ungehört zu verdammen.
+-^#. Er möge sich ferner des Anliegens der zu Unrecht von Luther verdammten Zürcher annehmen; so wird ihn Gott bestimmt dafür belohnen.</re>
+<tx>Durchlüchtiger, hochgeborner fürst und gnaͤdigister herr, unnser underthaͤnig willig dienst
+sampt erbietung alles guͦten sye üweren fürstlichen gnaden von uns alle zyt bevoran bereit<f1>bevoran bereit: vorab entboten.<fe>.
+^$Dasd. Martin Luther so gar grimmig<f1>so gar grimmig: so sehr wütend.<fe> wider unns one unnsern verdienst unnd beschulden geschriben
+unnd in den truͦck geben hatt,<f1>Anspielung auf Luthers "Kurtz Bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> ist unns leid,
+insonders von wägen der einfalten, schwachen christen, die sich an dem nit wenig verergerend unnd anstossend,
+das wir, die usß einem evangelio einen herren Christum predgend<f1>predigen. - Vgl. Eph 4, 5.<fe>, von sinem heyligen zeichen unnd sacrament in so langwirigem span gegen andren stand.
+So beduret uns ouch nit wenig, das üwer fürstlichen gnaden unnd annderer frommer christenlicher fürsten, herren,
+staͤnden unnd stetten früntlich zuͦ thuͦn unnd friden nit mee byd. Luthern hatt mögen verfahen<f1>bringen.<fe>,
+dann das er nach lanngem stillstannd unnser, unnd desshalb one rechtmaͤssigen anlaß, den ergerlichen stryt widerumb ernüweret.
+Wir zwaren<f1>zwar.<fe> haͤttend lieber frid gehept unnd fürohin wie bißhar geschwigen, über das wir vil unnd lanng, ja mee dann filicht guͦt, unns gelitten habend.<f1>Dies entspricht nicht Bucers Wahrnehmung des Verhaltens der Zürcher; s. HBBW XIV 503, 36-39.<fe>
+Diewyl aber unnser gedult unnd schwigen byd. Luthern nit mee gebracht hatt, dann das er
+in siner bekantnus<fx>^#/+Im Entwurf:^#/- letsten bekantnus.<fe><f1>Siehe oben Anm. 3.<fe> unns für kaͤtzer verdampt, unnsere vorfaren, eeren christenlüt,
+unnd unnsere kilchen am glouben unnd eeren schmächt unnd schendt, alls hierumb sin schriben heiter am tag<f1>heiter am tag: offensichtlich.<fe> ist,
+habend wir eeren, glimpfs<f1>glimpfs ... halben: in Rücksicht auf.<fe>, pflichten unnd ampts halben nit mee unnd wyter fürgan können<f1>nit mee unnd wyter fürgan können: nicht [so] fortfahren können.<fe>.
+Da so<f1>Da so: Demzufolge.<fe> habend wir nit für unns selbs, hinder<f1>ohne Wissen von.<fe> unsern gnedigen herren unnd obren burgermeistern<f1>Johann Rudolf Lavater und Johannes Haab.<fe> unnd rädten gehanndlet, sonnder mit irem vorwüssen unnd verwilligen<f1>Einwilligung.<fe>; welche,<f1>Die Bürgermeister und Räte Zürichs.<fe> ouch sampt allen gloͤübigen by unns,
+ein besonder groß beduren ab so abschüchlichem Luthers schenden unnd schelten todter<f1>Hauptsächlich Zwingli und Oekolampad.<fe> unnd laͤbendiger
+nit unbillich<f1>nit unbillich: nicht zu Unrecht.<fe> em-<vl>32v.</vl>pfangen habend unnd tragend, diewyl mengklich vermeint<f1>mengklich vermeint: jeder der Meinung ist.<fe>, wenn glych wol die kilchen
+by unns unnd wir, deren diener, imm hanndel deß sacraments ettwas mangels hättend,
+solte doch Luther sy unnd unns nit also gar uußschütten<f1>nit also gar uußschütten: nicht so sehr verurteilen.<fe>, insonders diser zyt, in welcher
+der warheit ungünstige alle krefft<f1>der warheit ungünstige alle krefft: damit sind Kaiser und Papst gemeint; vgl. oben Nr. 2079, 29-33. 2090, 9-11. 2096, 28-30.<fe> herfür thuͦnd, evangelische warheit ze verdammen und ze vertrucken.
+So wir aber recht unnd der ersten apo­s­­to­li­schen heyligen kylchen glichförmig lerend unnd haltend, solted. Luther noch vil minder sich von unns traͤnnen unnd ein spaltung in der kilchen one nodt machen.
+^$Sidmals dann ouch u[wer] f[ürstlichen] g[naden] in unnserer antwort<f1>Das gerade erschienene "Warhaffte Bekanntnuß" der Zürcher (s. oben Nr. 2061, Anm. 9), Anlass dieses Briefes.<fe> gedacht wirt,
+da wir von dem colloquio zuo Marpurg gehalten redend,<f1>Warhaffte Bekanntnuß (HBBibl I 161; BZD C 346), f. 6r.-9r., wo auf f. 6v. der Landgraf als Initiator des Marburger Religionsgesprächs von Oktober 1529 gewürdigt wird.<fe> überschickend wir unnderthänig
+u. f. g. unnsere antwurt unnd bekantnus mit demuͤtigister, früntlichister pitt,
+u. f. g. wölle die in guͦtem von unns, gar günstigen<fx>^#/+Im Entwurf^#/- guͦtgünstigen.<fe> unnd willigen dieneren, empfahen
+unnd, wo vile unnd grösse der gschäfften halben jenan<f1>irgendwie.<fe> müglich, ouch willig läsen.
+^$Darneben bitten wir wyter, u. f. g. wölle umb gottes unnd sines heyligen worts willen
+gnedigklich fürkummen<f1>hinwirken.<fe>, das unnsere bekantnus unnd antwort sampt anndern unnsern buͤcheren
+nit in u. f. g. fürstenthuͦmb verbotten unnd wir also unverhoͤrt unnd unschuldig verdampt werdind.
+Unsere gnedigen herren unnd oberen lassend in irer statt<fx>^#/+In der Vorlage^#/- satt, ^#/+hier anhand des Entwurfes korrigiert.^#/-<fe>, graffschafften, stetten unnd lannden
+alle und jede Luthers buͤcher, ouch annderer unnser widerwertigen gschrifften verkouffen unnd kouffen.
+Wir vermanend ouch mengklichen, die ze läsen; dann billich ists, das beide theyl verhört unnd nieman unverhört unndertruckt werde.
+Da so truwend<f1>vertrauen.<fe> wir gott unnd siner <vl>33r.</vl> hällen<f1>klaren.<fe>, ewigen warheit, alle gloͤübigen werdind klarlich
+unnd eigentlich<f1>genau.<fe> befinden<f1>feststellen.<fe>, das weder unsere kilchen noch wir söliche verdampte lüt sind,
+wie unsd. Luther der gantzen christenheit gern inbildete<f1>darstellen würde.<fe>. Gott verzyhe im.
+^$Darüber bittend wir u. f. g. ouch umb das, das sy abermals gott, die warheit unnd unnsere unschuld ansaͤhen<fx>^#/+Im Entwurf davor gestrichenes^#/- gnaͤdicklich.<fe>,
+unnd früntlich an den churfürsten von Saxen<f1>Kurfürst Johann Friedrich I. von Sachsen.<fe>, ouch an u. f. g. tochter man, hertzogen Moritzen,<f1>Herzog Moritz von Sachsen, der im Januar 1541 Philipps Tochter Agnes (1527-1555) geheiratet hatte.<fe>
+unnsere gnedigesten herren, vermoͤgen woͤlle<f1>an ... vermoͤgen woͤlle: bei ... bewirken möchte.<fe>, das ir fürstliche gnaden unns unverhoͤrt mit verbieten unnser gschrifften
+in iren fürstlichen gnaden fürstenthumen nit lassind verdammen.
+Wir habend ouch ettliche buͤchli<f1>Damit sind Exemplare des "Warhaffte[n] Bekanntnuß[es]" gemeint.<fe> hiebi gelegt, welche iren f. g. möchtend, wo es u. f. g. nit widerig, überantwortet werden.<fx>^#/+Im Entwurf wurde dieser Satz am Rande nachgetragen.^#/-<fe>
+^$Allergnedigester<fx>^#/+Im Entwurf wurde der Abschnitt von^#/- Allergnedigester ^#/+bis^#/- recht gloͤübigen ze blyben ^#/+z.T. über gestrichenem Text, z.T. am Rande nachgetragen. Gestrichen wurde:^#/- Wir trüwend ye gott, der warheit und unschuld, wenn fromme gloͤübige lüt allenthalb in den kylchen unsere leer und wie wir von dem heiligen sacrament haltend laͤsen und verstan, werdint sy mitt uns eins und ze friden sin.<fe> fürst unnd herr, lassend u. f. g. unnser schwer<f1>wichtiges.<fe> anligen ze hertzen gan,
+angesaͤhen<f1>angesichts dessen.<fe>, das es umb unnsere frommen, gloͤübigen kilchen, umb redliche, gotsfoͤrchtige
+unnd gelerte abgestorbnen unnd umb unnsere eer unnd guͦten namen, ja ouch umb die warheit ze thuͦn ist,
+dann je<f1>dann je: weil stets.<fe>d. Luther unns als unbuͦßfertige verdampte kätzer usßschrypt<f1>in seinen Schriften verleumdet.<fe>,
+deren gmeinschafft unnd schriben alle gloͤübige myden sollend,
+da aber wir<f1>da aber wir: wo wir doch.<fe> von hertzen aller kaͤtzery find sind unnd begaͤrend, mit christenlicher warheit
+in der gmeinschafft aller recht gloͤübigen ze blyben. Wir hoffend ouch zuͦ gott, unnserem herren,
+wenn u. f. g. unnser begaͤr unnd demütigs schriben gnedigklich uffnimpt unnd erhört,
+der allmechtig werde u. f. g. bit unnd begär ouch annemmen unnd erhoͤren, diewyl<fx>^#/+Im Entwurf wurde der Textabschnitt^#/- diewyl ^#/+bis^#/- unvergulten lassen ^#/+zwischen den Zeilen eingefügt.^#/-<fe> er heiter<f1>klar.<fe> im h. evangelio gesprochen hatt, welcher einem siner dienern ein kalten wassertrunck biete, woͤlle er nit unvergulten lassen.<f1>Mt 10, 42 par.<fe>
+Wo wir unns dann mit underthaͤnigen, willigen diensten gaͤgen u. f. g. danckbar bewysen<fx>^#/+Im Entwurf aus^#/- erzeigen ^#/+korrigiert.^#/-<fe><f1>erweisen.<fe> koͤndend,
+wöltend wir uns <vl>33v.</vl> zuͦ allen zyten gantz underthaͤnig unnd willig erzeigen.
+Gott unnser himelischer vatter wölle u. f. g. sampt allen iren zuͦghörigen
+durch Jesum Christum, unnseren erloͤser, in sinem schirm trüwlich unnd allweg<f1>unter allen Umständen.<fe> erhalten.
+^$Datum Zürich in der eydgnoschafft, deß 12. tags im mertzen anno 1545.
+<un>U. f. g.
+<un>underthaͤnige diener, pfarrer,
+<un>prediger, der heiligen gschrifft
+<un>laͤser unnd gemeine diener
+<un>der kylchen Zürych.
+<lz>[Adresse auf f. 35v.:]<fx>^#/+F. 34r.-35r. leer. Um die Adresse ist vom Kanzlisten eine kurze Inhaltsangabe wie auch Folgendes hinzugefügt:^#/- P[raestatum] Cassell, 16. aprilis anno etc. 45., ^#/+was wohl auf die Erledigung (praestatio) der Angelegenheit durch Abfassung einer Antwort hinweist; s. unten Nr. 2138.^#/-<fe> Dem durchlüchtigen, hochgebornen fürsten unnd herren, herren Philipsen, lantgraffen zuͦ Hessen, graven zuͦ Catzenelenbogen, zuͦ Dietz, zuͦ Zigenhain unnd zuͦ Nidda, unnserm gnedigisten herren.
+</content>
+</letter>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1023">
+<nr>1023</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>18. Juli 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 36 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Hielte es für besser, wenn [Jakob Fehr] aus Rücksicht auf seine Familie in Bischofszell bliebe; vielleicht wird sich Fehr aber nach Erhalt des Briefs von Theodor [Bibliander] anders entscheiden. Hofft, daß [Konrad Zwick] die Einladung [nach Urdorf] annehmen wird, und sendet Grüße.
+</re>
+<tx>Salus.
+^$Quod de commutatione Episcopicellensis scribis<f1>Bullinger muß in einem nicht erhaltenen Brief das Bestreben des Pfarrers von
+Bischofszell, Jakob Fehr, unterstützt haben, an einen anderen Ort zu wechseln; vgl. HBBW VI, S. 370, Anm. 2, und unten Nr. 1043, 38f.<fe>, charissime Bullingere, mihi non arridet.
+Iam enim res illius boni viri, ut audio, ceperunt<fx>^#/+vor^#/- ceperunt^#/+ gestrichenes ^#/-m.<fe> habere melius. Proinde difficillimum esset optimo
+viro tanto itinere tantoque familiae onere peregrinari<f1>Möglicherweise hatte Bullinger vorgeschlagen,
+Fehr nach Österreich zu schicken, nachdem Zwick wiederholt durch Balthasar von Kuenring um die Entsendung eines evangelischen Predigers gebeten worden war (vgl. unten Nr. 1076, 10-16).<fe>.
+Adde talem illum habere uxorem et liberos, quem­admodum a bonis amicis intelligo, ut consultius sit manere apud suos. Sed hoc non nisi ad te
+scriptum velim. Ipse forsan acceptis Theodori literis<f1>Ein entsprechender Brief Biblianders ist nicht erhalten.<fe> secus respondebit. Fiat domini voluntas, non nostra.
+^$Tu vale; nam nec ego habeo, quod praeterea scribam. Libenter audio ad vos vocatum fratrem<f1>Der in Baden weilende Konrad Zwick war nach Urdorf eingeladen worden, s. oben Nr. 1022.<fe>;
+spero hunc non defuturum tam candido sodalitio.
+Iterum vale cum matre<f1>Anna, geb. Wiederkehr.<fe>, uxore<f1>Anna, geb. Adlischwyler.<fe>, liberis<f1>Siehe HBBW VI, S. 124, Anm. 34.<fe> et tota domo tua.
+^$18. iulii 1537.<un>Tuus totus<un>Io. Zvick.<lz>[Adresse auf der Rückseite:] Eximio virod. Hainricho Bullingero, Tigurinae ecclesiae pastori, domino et fratri suo observando. Zurch.
+</content>
+</letter>

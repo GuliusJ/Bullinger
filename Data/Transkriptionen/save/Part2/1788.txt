@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1788">
+<nr>1788</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>25. September 1543</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 217 (Siegelabdruck)</vo>
+<vo>Kopie: Ms S 53, 100 (dat. 14. September 1543)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 205f, Nr. 1035</dr>
+<re>Übersendet nun endlich die Vorrede [Nr. 1774] zum Johannes[-Kommentar]; [Christoph] Froschauer berichtet [von der Messe] aus Frankfurt, dass er zahlreiche Exemplare des Johannes- wie auch des Matthäuskommentars verkauft hat; Blarers Brief [Nr. 1787] wurde ihm soeben durch den auch von ihm geschätzten Michael [Adam] überbracht. Befürchtet aufgrund eines Schreibens des Basler Rats den Untergang [Herzog Wilhelms] von Jülich: Kaiser [Karl V.] ist nach der Einnahme von Düren sowie weiterer Städte in Jülich und auch von Roermond in Geldern vor Venlo gezogen; der Herzog unterwarf sich auf Vermittlung von Herzog Heinrich von Braunschweig und [Nicolas de Perrenot, Herrn von] Granvelle dem Kaiser; auch Christoph
+von Landenberg und [Gian Giacomo de' Medici, Kastellan von] Musso befinden sich im kaiserlichen Gefolge. Der Franzose [Franz I.] hat Luxemburg eingenommen und belagert nun Diedenhofen; Gran fiel durch Verrat an die Türken. In all dieser Not steht Gott denen bei, die an ihn glauben. Gruß.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Iam olim pararam, doctissime et colendissime mi Ambrosi,
+praefationem in Ioannem<f1>D. h. die Widmungsvorrede (oben Nr. 1774) zu Bullingers Johanneskommentar (HBBibl I 153).<fe>, sed idoneo carui tabellione; commodum vero iam
+nactus<f1>Der Briefüberbringer ist nicht bekannt.<fe> mitto. Scribit a Francfordia<f1>In Frankfurt fand zu dieser Zeit die Herbstmesse statt, vgl. oben Nr. 1787,
+3-5.<fe> Froschouerus<f1>Der Brief Christoph Froschauers ist nicht erhalten.<fe> multa se vendidisse exempla non Ioannis
+duntaxat, sed et Matthaei<f1>Bullingers Matthäuskommentar (HBBibl I 144) war 1542 erschienen.<fe>. Tuas<f1>Oben Nr. 1787.<fe> vero hac ipsa hora recepi a
+Michaele nostro<f1>Michael Adam, vgl. ebd., Z. 3 und 26-29.<fe>, quem ut amavi semper et pro mea tenuitate
+iuvi, sic pergam porro. Nondum collocutus sum cum homine.
+Caeterum pro literis et diligentia tua magnas ago gratias.
+^$De Iuliacense<f1>Herzog Wilhelm von Jülich-Berg-Kleve-Geldern.<fe> actum esse valde metuo; pridie
+enim Basiliensis senatus ad nostrum haec dedit<f1>Die am 17. September von Straßburg nach Basel gesandten Nachrichten (s. Basel StA, Politisches L 2. 1, 318-322) wurden am 21. September an Zürich, Bern und Luzern
+weitergeleitet (s. Basel StA, Mis­siven A 31, 375f); Bullinger zitiert daraus in zusammenfassender Weise.<fe>: "Thüwren hatt
+der keysser<f1>Karl V.<fe> mitt einem häfftigen stürmen, das vomm morgen biß an den abend gewäret hatt, gewhonnen 24. augusti.<f1>Zur Eroberung von Düren s. oben Nr. 1785, 11-17 mit Anm. 10.^&x^#/+Henne^#/- VIII 121-125.
+Zur Darstellung des Eroberungsfeldzuges des Kaisers gegen Herzog Wilhelm von Jülich und dessen Unterwerfung s. ^#/+Heidrich,^#/- Erbfolgestreit 101-107.^&x{<fe> Ist dannen
+verruckt<f1>von dort aufgebrochen.<fe> 27. augusti<f1>Vgl. das Itinerar des Kaisers in: ^#/+Stälin^#/- 577.^&xLaut ^#/+Stälin^#/- 577 hielt sich der Kaiser am 27. August in Merrtznet (Merzenich, Kr. Düren, Nordrhein-Westfalen?), am 28. August in Körrenzig (Stadt Linnich, Kr. Düren, Nordrhein-Westfalen) und am 29. August in Orsbeck (Gemeinde Wassenberg, Kr. Heinsberg, Nordrhein-Westfalen) auf.^&x{<fe>, hatt ettlich stett und schloß
+uffgenommen<f1>erobert.<fe> in Gülich; dannen ist er für Remundt oder Ruremont in Gelderen geruckt; hatt sich ouch uffgäben.<f1>Zum Einzug des Kaisers in Roermond am 1. September s. oben Nr. 1785, 17-22 mit Anm. 12.^&xRoermond, Provinz Limburg, Niederlande. - Die kaiserlichen Truppen erschienen am 30. August in Roermond, das sich umgehend ergab; s. ^#/+Henne^#/- VIII 126.^&x{<fe> Wyter ist er geruckt für Vendlo;<f1>Der Kaiser hielt sich mit den Truppen vom 4. bis 10. September vor Venlo und vom 10. bis 14. September in der Stadt selbst auf; s. ^#/+Stälin^#/- 577.<fe> dahin ist der hertzog<f1>Herzog Wilhelm von Jülich.<fe> 6.
+septembris zum keysser ins läger kummen abents umb die 3,
+und hatt inn hertzog Heinrych von Brunschwig (der mittler)
+bracht. Ist der nacht in des Granwellae<f1>Nicolas de Perrenot, Herr von Granvelle.<fe> gezellt über nacht
+gelägen; morndiß<f1>am nächsten Tag.<fe> ist er mitt sinen rädten und adel, dero er
+uff 80 personen mitt imm gehept, umb die 9 vor mittag<fx>umb die 9 vor mittag ^#/+am Rande nachgetragen.^#/-<fe> für
+den keysser in schwartz kleidet kummen, ist uff die knüw
+gefallen, hatt gnad begärt etc. Der keysser sol inn
+fürstlich und gnädicklich uffgenommen haben etc.<f1>Zur Unterwerfung Herzog Wilhelms s. oben Nr. 1785, 25-32 und 49-56 mit Anm. 23.^&xPC III Nr. 410; ^#/+Henne^#/- VIII 127-130.^&x{<fe> Den 8. tag
+sol sich Vendlo ergäben haben.<f1>Venlo wurde dem Kaiser unmittelbar nach Abschluss des Friedensvertrags mit Herzog Wilhelm am 7. September unterstellt; s. ^#/+Henne^#/- VIII 130.<fe> Christoffel von Landenberg
+ist wol<f1>ist angesehen, steht in Gunst (vgl. SI XV 1330f).<fe> amm hoff bim keysser, dem von Müß<f1>Gian Giacomo de' Medici di Marignano, Kastellan von Musso.<fe> und Brunschwig.
+Des selben tags hatt man den friden imm läger uußgeruͤfft, und
+rüst sich aller züg<f1>das ganze Heer.<fe> uff den Frantzosen<fx>^#/+Dazu am Rande:^#/- Quid putas imminere Hesso,
+Saxoni, civitatibus, Helvetiis? Divina. Truw dem keysser,
+wer da wöll.<fe><f1>König Franz I.<fe>. Der hatt
+mittwuchs, den 12. septembris, Lutzemburg ingenommen<f1>Zur Eroberung Luxemburgs durch die französischen Truppen s. unten Nr. 1792, 8-10 mit Anm. 10.<fe> und von
+dannen für Diedenhoffen<f1>Thionville, Dép. Moselle.<fe> gezogen, das belägert in willen, das
+uußzuͦhungern etc. Der keysser sols wöllen entschütten<f1>befreien.<fe>
+etc. Strigonium<f1>Esztergom (dt. Gran), Ungarn.<fe> dediderunt milites Itali, filii papae<f1>Papst Paul III.<fe>,
+Turcarum imperatori<f1>Sultan Suleiman I.<fe> per proditionem.<f1>Zur Eroberung Grans vgl. die Schrift aus diesem Jahr "Gründliche und warhafftige anzaygung, wie das küniglich schloss Gran inn Hungern von den Türcken belegert, beschossen und eingenommen ist" (Nürnberg: Johann vom Berg und Ulrich Neuber, bzw. Augsburg: Heinrich Steiner; Carl Göllner, Turcica. Die europäischen Türkendrucke des XVI. Jahrhunderts, Bd. I, Bukarest-Berlin 1961, Nr.
+811f; VD 16 G 3527f). Diese Schrift unterstellt den spanischen Verteidigern Verrat, der Bericht Straßburgs an Basel in PC III, Nr. 410 hingegen wie der vorliegende Brief den Italienern; Sleidanus dagegen berichtet, die päpstlichen Truppen seien zu spät gekommen; vgl. Johannes Sleidanus, De statu religionis et reipublicae Carolo Quinto Caesare Commentarii, hg. v. Johann Gottlieb Boehme, Bd. II, Frankfurt a. M. 1786, S. 320.<fe>" Sic scribunt
+Basilienses senatui nostro.
+^$Undique mala, proditiones, defectiones, clades nunciantur. Sed vivit deus, cui qui
+credunt, non confundentur.<f1>Vgl. Jes 49, 23; Joh 3, 16.<fe> Plura nunc non potui.
+Adhortandus<fx>^#/+Vor^#/- Adhortandus ^#/+zwei teilweise unlesbar gemachte Sätze:^#/- Quaeso [- - -]. Hactenus enim [- - -].<fe> videtur populus ad poenitentiam et preces.
+Dominus Iesus servet nos.
+^$Tiguri, 25. septembris.
+^$Salutabis tuos omnes diligenter.
+<un>H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] D. Ambrosio Blaurero,
+amico et fratri imprimis charo et colendo domino suo.
+</content>
+</letter>

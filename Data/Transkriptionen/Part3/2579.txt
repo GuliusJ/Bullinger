@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2579">
+<brief>
+<id>16268</id>
+<nr>2579</nr>
+<ae>[Ambrosius Blarer] an Bullinger</ae>
+<od>[Konstanz], 12. September [1546]
+<fn>Das Jahr ergibt sich aus dem Inhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 727 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 507f, Nr. 1346<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 144 </k></dr>
+<re>In der Eile hatte Blarer vergessen, seinem Brief vom 10. September [<qv>nr2577</qv>] [Georg] Frölichs Schreiben beizulegen, das er nun mitschickt. Am 10. hatte Bullinger ebenfalls seinen Brief [nicht erhalten] verfasst, [den Blarer empfangen hat].
+<t/>Er freut sich, dass [die Zürcher] drei eifrige [Prediger, Rudolf Schwyzer, Lorenz Meyer und Thoman Ruman] nach Augsburg entsenden.
+<t/>Wären doch die [Schmalkaldener] klüger gewesen und hätten auf die guten Ratschläge gehört! Gott wird aber alles zum Besten schicken.
+<t/>Die [Schmalkaldener] wollen sich [Maximilian von Egmont, Graf von] Büren, widersetzen. Sie sind von Ingolstadt abgezogen, weil sie dort nichts ausrichten konnten. Der Würzburger Bischof [Melchior Zobel] unterstützte von Büren und soll sich ihm immer noch behilflich erweisen.
+<t/>In der [Lagerstätte] Kaiser [Karls V.] ist ein Feuer ausgebrochen, vor dem der Kaiser sich gerade noch retten konnte.
+<t/>Beim Abzug aus Ingolstadt haben [die Schmalkaldener] in einem von ihnen geräumten Landsitz etliche Fässer Pulver hinterlassen, die sie, als die Spanier ins Schloss eingedrungen waren, aus der Ferne mit Hilfe einer Zündschnur in die Luft sprengten.
+<t/>Mögen die [Schmalkaldener] den Ernst der Lage begreifen und sich der Reue und dem Gebet hingeben, die allein der Heilige Geist in ihnen bewirken kann! Gott steht bestimmt auf Seiten [der Schmalkaldener], auch wenn diese durch Leid [gezüchtigt] werden müssen.
+<t/>Der gottlose Bösewicht zu Rom [Papst Paul III.] wird wohl keinen Erfolg haben und nur andere mit sich ins Unglück stürzen. Möge Gott ihn bald erwürgen!
+<t/>Bullinger soll beten. Blarer muss abbrechen, da der Bote [...] abreisen will. Grüße.</re>
+<text>
+<p>Ego vero plane, quam verum sit, quod dicitur, video: festinatio mater erroris. Misi meas literas
+<fn>Gemeint ist wohl der zuletzt verfasste Brief <qv>nr2577</qv> vom 10. September.</fn>. Qu{e} L{e}tus scripserat, festinabundus non misi, quamquam non adeo multum retulit, ut acciperes, tamen nunc mitto.
+<fn>Wegen der Bemerkung "quamquam non adeo multum retulit, ut acciperes" wird hier kaum ein Schreiben Frölichs an Bullinger gemeint sein (wie <qv>nr2561</qv> vom 2. September), sondern ein nicht erhaltener Brief Frölichs an Blarer, der allerdings nicht in <qv>nr2577</qv> (zumindest nicht in den erhaltenen Teilen des Briefes) erwähnt wird und wohl mit dem in <qv>nr2572</qv>,<qv>zl16260-17</qv>, erwähnten Brief Frölichs an Blarer gleichzusetzen ist.</fn> <zzl>zl16268-1A</zzl>Scripsi ad te 10. huius, hoc est illa ipsa die, qua tu{e} sunt dat{e}.
+<fn>Nicht erhalten.</fn><zzl>zl16268-1E</zzl></p>
+<p>Quod tres tam strenuos Christi milites
+<fn>Zur Entsendung von Rudolf Schwyzer d.J., Lorenz Meyer (Agricola) und Thoman Ruman s. <qv>nr2573</qv>, <qv>fn16262-2</qv>.</fn> Augustam misistis, totis animis gratulor. Dominus praesentissima spiritus sui virtute ipsis adsit.</p>
+<p>Utinam nostri
+<fn>Die Schmalkaldener.</fn> mature sapuissent et bonis consiliis obtemperassent! Verum dominus est, qui omnia ista pro optima sua voluntate propicius moderatur.</p>
+<p><zzl>zl16268-3A</zzl>Es ist nichts news, dann das die unsern trachtind, dem von Püren
+<fn>Maximilian von Egmont, Graf von Büren, Anführer des kaiserlich-niederländischen Heeres, das dem Kaiser zuzog; s. <qv>nr2572</qv>, <qv>fn16260-5</qv>. - Zum geplanten Angriff gegen von Büren s. <a>Viglius van Zwichem</a> 89, Anm. 5; <a>Paulus, Schertlin</a> 69; <qv>nr2582</qv>,<qv>zl16271-2</qv>; <qv>nr2585</qv>,<qv>zl16274-3</qv>; <qv>nr2589</qv>,<qv>zl16277-1</qv>.<zfn>fn16268-1</zfn></fn> ze wehren
+<fn>abzuwehren.</fn> oder inn z{uo} erlegen. Sind von Ingoldstat abgezogen,
+<fn>Die Schmalkaldener verließen Ingolstadt am 4. September s. <qv>nr2581</qv>,<qv>zl16270-4</qv>.</fn> dann sy nichts schaffen
+<fn>ausrichten.</fn> m{oe}gen.<zzl>zl16268-3E</zzl> <zzl>zl16268-4A</zzl>Bischoff von Wirtzburg
+<fn>Melchior Zobel, Bischof von Würzburg.</fn> hat im
+<fn>von Büren.</fn> grossen f{ue}rschub
+<fn>Unterstützung. - Zobel hatte am 6. September die an der Tauber lagernden niederländischen Truppen mit Proviant und Munition versorgt und Egmont persönlich bewirtet; s. Christoph <i>Bauer,</i> Melchior Zobel von Giebelstadt, Fürstbischof von Würzburg (1544-1558), Münster 1998 - Reformationsgeschichtliche Studien und Texte 139, S. 282.<zfn>fn16268-2</zfn></fn> thon, und noch des soll er geniessen.<zzl>zl16268-4E</zzl></p>
+<p>In des kaisers
+<fn>Karl V.</fn> leger ist in siner scheur
+<fn>Scheune, Stall oder einfaches Gebäude; s. <a>SI</a> VIII 1210-1217. - In Siegmund <i>Günther,</i> Peter und Philipp Apian, zwei deutsche Mathematiker und Kartographen. Ein Beitrag zur Gelehrten-Geschichte des 16. Jahrhunderts, Prag 1882, S. 16f, wird berichtet, wie damals ein Geschoss im Zelt des Kaisers landete, als dieser mit dem Mathematiker Apian im Gespräch war. Ob allerdings damit die gleiche Begebenheit angesprochen ist, muss offen bleiben.</fn>, darinn er f{ue}r sein person gelegen, für
+<fn>Feuer.</fn> uffgangen, das er komm
+<fn>kaum.</fn> davon kommen.</p>
+<p>So habend die unsern ain g{uo}t stratagema
+<fn>Kriegslist.</fn> brucht in irem abziechen von Yngolstadt gegen den Spaniern, die ain lusthus
+<fn>Landsitz; s. <a>FNHDW</a> IX/1 1505f.</fn> dasselbst glich uff der unsern abzug ingenommen, das aber davor von den unsern mitt etlich tunnen
+<fn>Fässern.</fn> pulver verstopt worden, und fürwerck weyt hinuß in das feld angericht
+<fn>eingerichtet.</fn>, das man ain louffend für nent.
+<fn>Sie haben also mithilfe einer langen Zündschnur von einem Feld aus die Sprengung des Gebäudes ausgelöst.</fn> Das habend sy darnach anlofen
+<fn>anzünden.</fn> lassen; hat schlosß und Spanier sampt allem gen himel gericht
+<fn>gen himel gericht: in die Luft gesprengt.</fn>. Gott erbarm sich der seelen! Man wartet all stund newer zeytung
+<fn>Nachrichten.</fn>.</p>
+<p>Utinam vigilent nostri et negocii atrocitatem serio expendant et praesenti periculo praesens adhibeant remedium! Nullum autem praesentius germana resipiscentia et nixis fide sacris precationibus, quas ultro domini spiritu in rebus agendis prudentia consequetur. Ich bin wol und hoch getr{oe}st, gott seye uff unser seyten, werde uns aber danecht ubel darob
+<fn>danecht ubel darob: dennoch sehr deswegen.</fn> lyden lassen, aber nitt z{uo} schanden werden: Es m{uo}sß erarnet
+<fn>verdient; s. <a>Fischer</a> II 750.</fn> sein.</p>
+<p><zzl>zl16268-2A</zzl>Der gottlosß schandtlich morder und gotzb{oe}swicht z{uo} Rom
+<fn>Papst Paul III.</fn> kan, hoff ich, kain gluk haben und wirt ander mitt im ungluckhafft
+<fn>unglücklich.</fn> machen.
+<fn>Eine Anspielung auf das Gerücht über eine vom Papst angeordnete Wasservergiftung; s. <qv>nr2570</qv>; <qv>nr2576</qv>, <qv>fn16265-9</qv>; <qv>nr2577</qv>, <qv>fn16266-12</qv>.</fn> Gott st{ue}rtz und erwirg
+<fn>erwürge. - Vgl. 2Thess 2, 8.</fn> in bald!<zzl>zl16268-2E</zzl></p>
+<p>Bitten fur unß getrulich! Er walte ewer und der eweren ewiglich! Der bott
+<fn>Unbekannt.</fn> will uff sin. M{uo}ß abbrechen. Salveant tui et vestri omnes. 12. septembris prima meridiana.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Bullingero suo, Tiguri.</p>
+</text>
+</brief>

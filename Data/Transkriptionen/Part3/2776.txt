@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2776">
+<brief>
+<id>17044</id>
+<nr>2776</nr> <from persid="Bullinger"/> <to persid="BlarerAmbrosius"/> <place plid="Konstanz"/> <date when="1546-01-28"/>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 28. Januar 1547</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 224r.-v. (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 579, Nr. 1401<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 130v.-131r.; Ms S 63, 57</k></dr>
+<re><t>Am Vortag hat Bullinger dem Konstanzer Boten [...] einen Brief [<qv>nr2774</qv>] mitgegeben. Als er nun aus der Kirche zurückkam, wo er, wie in Zürich üblich, eine lateinische [Karlstags]rede vor den Pfarrern gehalten hat, fand er Blarers Brief [<qv>nr2775</qv>] vor. Als er dann zum Bürgermeister [Hans Rudolf Lavater?] wollte, wurde ihm gesagt, dass dieser wegen eines eingetroffenen Briefs aus Konstanz [vom 26. Januar 1547] in einer Ratssitzung sei. Unterdessen nutzt Bullinger die Zeit, um zu schreiben.</t>
+<t>Blarer sei für seinen Brief und für die freundliche Aufnahme des von Bullinger in Sorgen verfassten Schreibens [<qv>nr2767</qv>] gedankt. Gott und die ewige Wahrheit bleiben der Fels! Ihn bitte man um Gnade. Ihm ergebe man sich gänzlich. Sein Wille geschehe. [Blarer und Bullinger], die im selben Boot sitzen, mögen bis in den Tod treu ihre Pflicht ausüben.</t>
+<t>In ihrer beider Namen soll Blarer an Georg Frölich und Johannes Haller schreiben und diese auffordern, in Augsburg zu bleiben, solange es noch einen Grund zur Hoffnung gibt. Die Stadt jetzt schon zu verlassen, wäre verfrüht. Zudem sind die Menschen in Zürich genauso wankelmütig wie in Augsburg.</t>
+<t>Bullinger wüsste nicht, dass die Eidgenossen [an der letzten Tagsatzung] beschlossen hätten [an der künftigen Tagsatzung den Fall Konstanz nicht mehr zu behandeln]. Bullinger verhehlt Blarer nichts. Die Verräter werden stets falsche Gerüchte in Umlauf bringen. Genauso wenig hat Bulliger etwas über eine künftige Tagsatzung gehört, an der die Angelegenheiten zwischen Frankreich und den Eidgenossen behandelt werden sollen. Sollte eine Tagsatzung angesetzt werden, wird er sogleich darüber berichten. Fest steht, dass, wenn Franz I. Söldner anfordert, es dazu keiner Tagsatzung bedarf. Das Geld für die Söldner liegt schon in Basel bereit, und ob die Amtsleute der Inneren Orte es wollen oder nicht, sollte Franz I. es wollen, wird das Reislaufen spätestens am 1. März beginnen.</t>
+<t>Wenn Kaiser Karl V. noch lebt und atmet und nicht schon vom Wasser des Styx trinkt, besteht er dennoch nur aus Fleisch und Blut und wird daher nur das tun können, was Gott ihm erlaubt. Letzterem ist zu vertrauen! Ihn muss man verkündigen! Und müsste man deswegen sterben, wäre es ein Gewinn.</t>
+<t>Grüße, auch an Frau [Katharina, geb. Ryff] und Kinder, an Thomas Blarer und Konrad Zwick, denen Bullinger all das Seine anbietet, solange er lebt.</t>
+<t>[P.S.:] Sollte Herzog Christoph [von Württemberg aus Basel] vertrieben werden, dann wird man gut feststellen können, daß die [Eidgenossen] genauso untauglich und unzuverlässig sind wie andere auch.</t></re>
+<text>
+<div>
+<p>Gnad und frid. <zzl>zl17044-4A</zzl>Gester hab ich by üwerm l{oe}uffer
+<fn>Unbekannt.</fn> geschriben
+<fn>Mit Brief <qv>nr2774</qv>.</fn>.<zzl>zl17044-4E</zzl> <zzl>zl17044-1A</zzl>Ietzund
+<fn>Der 28. Januar 1547 war ein Freitag.</fn> kumm ich grad uß der kirchen. Hab Latinam collationem than
+<fn>collationem than: Rede getan (gehalten).</fn> pro clero
+<fn>Zu Bullingers Karlstags-Rede, die er bereits Anfang Januar an Blarer zur Begutachtung geschickt hatte, s. <qv>nr2743</qv>, <qv>fn17012-1</qv>.</fn>, ut moris est;
+<fn>Am 28. Januar, am Fest Karls des Großen, der als Begründer des Großmünsterstifts galt, kamen auch nach der Reformation die Pfarrer von Stadt und Land zusammen. Nachgewiesen sind solche Reden auch in <a>HBBW</a> II 41. 56f; IV 79, Anm. 9; 436, Anm. 14; V 213. 215. 226. 231. 265f. 291; VI 51. 107. 161f. 212; VIII 54f; XVI 43. 299.<zfn>fn17044-3</zfn></fn><zzl>zl17044-1E</zzl> <zzl>zl17044-5A</zzl>so find ich üwer schriben
+<fn>Brief <qv>nr2775</qv> vom 27. Januar 1547.</fn> uff dem disch.<zzl>zl17044-5E</zzl> <zzl>zl17044-6A</zzl>Als ich zum herren
+<fn>Vielleicht Bürgermeister Hans Rudolf Lavater (Johannes Haab war im Natalrat stillstehend).</fn> gew{oe}lt, zeigt man mir an, er sye imm radt üwer herren brieffen
+<fn>Zu den Schreiben des Konstanzer Rats s. <qv>nr2775</qv>, <qv>fn17042-6</qv>.</fn> halb.<zzl>zl17044-6E</zzl> <zzl>zl17044-7A</zzl>Dorumb m{uo}ß ich jetzund schriben, diewyl ich wyl
+<fn>Weile (Zeit).</fn> hab.<zzl>zl17044-7E</zzl> Wil aber hernach wyter reden mit minem herren, etc.</p>
+</div>
+<div>
+<p><zzl>zl17044-8A</zzl>Ich danck üch vast trüwlich
+<fn>vast trüwlich: von ganzem Herzen.</fn> üwers flyssigen schriben.<zzl>zl17044-8E</zzl> <zzl>zl17044-3A</zzl>Danck gott, das ir mir min angefochten
+<fn>in Sorgen (verfassten).</fn>, ungeordnet schryben
+<fn>Bullingers Schreiben vom 24. Januar (<qv>nr2767</qv>).</fn> so früntlich angenommen.<zzl>zl17044-3E</zzl> <zzl>zl17044-9A</zzl>In summa: Gott und die eewig warheyt sye unser felß. Uff den w{oe}llend wir gründen,
+<fn>Vgl. Mt 7, 24 par.</fn> inn umb gnad bitten. Faciat ipse, quod bonum videtur in oculis suis.
+<fn>Vgl. 1Sam 3, 18.</fn> Wir w{oe}llend uns in todt und l{ae}ben g{ae}ben, wie er wil mitt sinen gnaden. Gwüß, wie es üch, also uns. Wir w{oe}llend amm wagen heben
+<fn>amm wagen heben: kräftig zupacken; die Sache führen.</fn> und unser ampt th{uo}n, diewyl
+<fn>solange.</fn> wir k{oe}nend.<zzl>zl17044-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17044-10A</zzl>Bitt ouch umb gotts willen, ir schribind Laeto
+<fn>Georg Frölich.</fn> und Hallero
+<fn>Johannes Haller. - In <a>Blarer BW</a> finden sich aus diesem Zeitraum weder Briefe an Haller noch an Frölich.</fn> in üwerm und minem namen, sy w{oe}llind nitt wychen, biß sy s{ae}hind, das nut mee ze hoffen. Die zyt aber ist gwüß noch nitt hie. Was sy d{oe}rt verlassend, findent sy hie. Dorumb syend dappffer; wychind nitt.<zzl>zl17044-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17044-11A</zzl>Das gmein Eydgnossen sich des entschlossen,
+<fn>Nämlich an der künftigen Tagsatzung den Fall Konstanz nicht mehr behandeln zu wollen; s. <qv>nr2775</qv>,<qv>zl17042-20</qv>.</fn> ist mir by der warheit nitt ze wüssen. Verhallt
+<fn>Vorenthalte.</fn> üch weder g{uo}ts noch b{oe}ß. Es m{oe}gend wol proditores vil hin und wider sagen nach irem willen.<zzl>zl17044-11E</zzl> <zzl>zl17044-12A</zzl>Ich weiß von keinem tag, der angesetzt sye den Eydgnossen oder Frantzosen,
+<fn>In Anspielung auf <qv>nr2775</qv>,<qv>zl17042-13</qv>. Die nächste Tagsatzung vom 28. Februar wurde tatsächlich nicht alleine Frankreich gewidmet.</fn> dann
+<fn>da.</fn> sy von einandren one tagsatzung zerritten. Wurde aber neißwas
+<fn>irgendeine (Tagsatzung).</fn> angesetzt, das ich wüste
+<fn>das ich wüste: von der ich erfahren würde.</fn>, wil ich anzeigen. So der Franzoß
+<fn>Franz I.</fn> die kn{ae}cht beg{ae}rt, vragt er keinem tage
+<fn>Tagsatzung.</fn> mee nach. Das g{ae}llt ligt z{uo} Basel.<zzl>zl17044-12E</zzl> <zzl>zl17044-2A</zzl>Acht wol, olygarchae
+<fn>Damit sind die Amtsleute der Fünf Inneren Orte gemeint (s. schon <a>HBBW</a> XVII 174,71-75; 212,53), die Bullinger auch als "die grossen Hansen in L{ae}ndern" bezeichnete; s. <qv>nr2774</qv>,<qv>zl17043-3</qv>.<zfn>fn17044-1</zfn></fn> w{oe}llind oder nitt, so der Franzos fürfart
+<fn>(mit seinem Vorhaben) fortfährt. - Die Inneren Orte waren durch ihr Soldbündnis mit Frankreich von 1521 zur Bereitstellung von Söldnern verpflichtet.<zfn>fn17044-4</zfn></fn>, wirt uff 1. martii das gl{oe}uff
+<fn>Reislaufen.</fn> und darvor angan
+<fn>und darvor angan: und schon zuvor beginnen.</fn>.<zzl>zl17044-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17044-13A</zzl>Quod si vivit adhuc caesar
+<fn>Karl V. - In Bezug auf <qv>nr2775</qv>,<qv>zl17042-17</qv>.</fn> et vescitur aura aetherea
+<fn><i>Vergil</i>, Aeneis, 1, 546f.</fn> nec adhuc bibit de Stygia palude,
+<fn>Vgl. <qv>nr2768</qv>,<qv>zl17036-8</qv>.</fn> certum est illum esse carnem et non spiritum, nec plura illum effecturum, quam deus ipse permiserit.
+<fn>Hi 1, 12; 2, 6; 1Kor 10, 13.</fn><zzl>zl17044-13E</zzl> Huic credamus, illum annunciemus facientes nostrum officium! Mori lucrum erit.
+<fn>Phil 1, 21.</fn></p>
+</div>
+<div>
+<p><zzl>zl17044-14A</zzl>Vale aeternum <vl>224v.</vl> cum uxore
+<fn>Katharina, geb. Ryff.</fn> et liberis
+<fn>Zu deren Namen s. <a>HBBW</a> XVI 121, Anm. 13.</fn>, fratre
+<fn>Thomas Blarer.</fn> et consobrino
+<fn>Konrad Zwick.</fn>, quibus, utcunque res cedat, omnia mea offero, donec ipse vixero et locum habuero in terris.<zzl>zl17044-14E</zzl> Tiguri, 28. ianuarii 1547.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17044-15A</zzl>Wenn man hertzog Christoff
+<fn>Christoph von Württemberg. - In Bezug auf <qv>nr2775</qv>,<qv>zl17042-14</qv>.</fn> vertriben last, sicht man, das wir ouch nut s{oe}llend
+<fn>nichts taugen.</fn> und das man uns eben truwen sol wie ander lüten. Omnis caro foenum.
+<fn>Sir 14, 18; Jes 40, 6; 1Petr 1, 24.</fn> V[erbum] d[omini] m[anet] i[n] ae[ternum].
+<fn>Jes 40, 8; 1Petr 1, 25.</fn><zzl>zl17044-15E</zzl></p>
+<lz/>
+<p>[Adresse darunter:] [Min]em
+<fa><i>Hier und unten Textverlust bei der Entfernung des Siegels.</i></fa> früntlichen, [liebe]n herren und [br{uo}der] m. Ambro[sien B]laureren, [predican]ten z{uo} Constantz.
+<fa><i>Daneben von einer späteren Hand das Briefdatum:</i> 28. ianuarii anno 47.</fa></p>
+</div>
+</text>
+</brief>

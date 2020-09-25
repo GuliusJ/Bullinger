@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="42198">
+<nr>42198</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>[Tobias Egli].</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date>28. November 1572.</date>
+	<note>Briefbeilage</note>
+</space_time>
+<vo>Zürich StA, E II 441, 346. / Orig. Aut.</vo>
+<dr>Gr. III, S. 389.</dr>
+<re></re>
+<note></note>
+S.  Cum etiam hanc meam epistolam obsignassem, en mittit ad
+med. Hallerusd. Campelli satis longam epistolam de caussa illa vestra cum
+Gantnero petens meum
+consilium. Quid vero consulerem aliud, quam ut vos rursus
+amplissimum senatum
+accedatis et demonstretis facta Gantneri non congruere cum
+pactis, postulare
+vero, ut decretis olim conditis non contraria statuantur,
+nisi maluit
+anabaptismum evertere et ecclesiam et rempublicam.
+Salutad. Campellum. Totus sum vester. Ergo si qua re vobis
+prodesse possum, praesto sum.  Festinanter.
+[Datum u. Unterschr. fehlen.]
+</content>
+</letter>

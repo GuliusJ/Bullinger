@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="987">
+<nr>987</nr>
+<correspondents>
+	<originator>Wolfgang Capito</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>6. April [1537]</date>
+	<note>Das Jahr ergibt sich aus dem Hinweis auf den Tag zu Schmalkalden; s. unten Z. 1-4.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 348, 386r.-v. (Siegelspur) </vo>
+<dr>Regest: Capito, Corr. 224, Nr. 640</dr>
+<re>Unterstreicht die Bedeutung der in Schmalkalden erzielten Übereinkunft angesichts der vom Papst ausgehenden Bedrohung und mahnt zu Einigkeit. Hat gestern Bullingers und Pellikans [Bibelkommentare] erhalten und hat sie von Leuten rühmen gehört, die sie bereits überflogen haben; allerdings sollen
+darin unnötige Vorbehalte gemacht worden sein. Die Kirche wird durch rechte Predigt und durch gute Verwaltung des Amtes auferbaut, nicht durch Streitigkeiten; Capito kennt Bullingers Milde und weist auf die besondere Verantwortung hin, die er für zahlreiche Gemeinden trägt. Grüße.</re>
+<tx>S. De actis Schmalcaldensibus vos istic factos esse certiores antehac non dubito<f1>Einen ausführlichen Bericht über den Tag zu Schmalkalden hatte Bullinger von Johannes Zwick erhalten (oben Nr. 975).<fe>. Concordię spes qualiscunque
+quantum momenti ecclesiis adferat, illis ipsis actis apparet. Nam nostris, id est ministris verbi, consentientibus
+consensum est et inter principes et nostros magistratus. Maiore conatu nostrum exitium nunc meditatur pontifex, quam vos
+fortassis creditis; sed pię prudentiae est late prospicere animadvertereque, quid quoque tempore a nobis dominus
+postulet. Postulat autem amicitiam in Christo coniunctissimam ceu caput et fundamentum, deinde, ut in Christum cęteri
+per nos multa cum simplicitate exedificentur. At concordia coalesceret, si vetera vulnera novis scriptis non
+refricarentur, etsi sperem de repente dominum tandem adfulsurum nobis esse, qui lętis rebus abutimur; opus est,
+tristioribus in viam reducamur. Quod potissimum usu venire video in nostra ecclesia, quę afflicta virium accessionem
+accipit.
+^$Heri tuae et Pellicani lucubrationes allatę sunt<f1>Gemeint sind die im März erschienenen Kommentare von Bullinger zu den apostolischen Briefen (HBBibl I 84 und 91; BZD C 261) bzw. von Pellikan zu den Evangelien und zur Apostelgeschichte (BZD C 266).<fe>. Mox nostri magna aviditate perlustrarunt
+omnia, ut dicunt, quod
+credo in transcursu certo iudicio<fx>iudicio ^#/+über der Zeile nachgetragen.^#/-<fe> fieri non posse, et tamen convivę mei<fx>mei ^#/+über der Zeile nachgetragen.^#/-<fe> heri vesperi tuam perspicuam brevitatem
+lucemque dictionis graviter commendarunt, deinde praefationes amplissimis laudibus vehunt, nisi quod nescio quid
+cautionis supervacaneę adiectum putant, quod res teneriores sit exulceraturum. Verum idipsum meis tandem oculis
+inspiciam eo candore, quo decet expendi amicorum merces. ^$Ędificabimus autem ecclesias felici successu, si rudibus
+eandem doctrinam fidei, hoc est pęnitentiam et remissionem peccatorum in Christo Iesu docuerimus. Ex quo fonte
+cętera christiani hominis officia pulchre fluunt. In qua re cessatum est a quibusdam in hac vicinia, quorum
+ecclesię in peius indies abeunt. Docetur autem pęnitentia et Christi fides non solum verbo praedicationis, sed
+etiam ordine ecclesiastico et usu ministeriique nostri autoritate, quatenus ex scripturis liquet. Sedula cura pastorum
+quantum adferat commodi conscientiis, vix dici potest. Nam et illud ipsum experimur pro nostra mediocritate. Ad quam rem
+impendere me malo quam <vl>386v.</vl> ad funestas<fx>^#/+in der Vorlage^#/- funstas.<fe> rixas, quibus ecclesię antiquitus submersę sunt et nunc impediuntur,
+quominus queant constitui. Mititatem animi tui novi, qui eadem non dubie sententia es. Det dominus, ut in gloriam suam
+uterque pergat fortiter et tu hoc amplius, quo es ampliori provincię alligatus. Nam maximum profecto onus sustines
+tantarum ecclesiarum curam subiens, qualem tibi dominus iniunxit.
+^$Vale felicissime, et Pellicanum cum Bibliandro et eruditissimis professoribus salvere iubeas nostro nomine. Buceri
+studia, rogo te, candide interpreteris, qui totus est in publicis curis. Domino consuli<f1>Diethelm Röist.<fe> et amicis senatoribus nos
+commenda, qui nobis vel hoc sunt nomine chari, quod magna cum fide vos Christi ministros colunt ac tuentur. Vale iterum.
+^$Argen[torati], 8. idus aprilis.<un>V. Capito tuus.
+<lz>[Adresse darunter:] Doctissimo viro magistro Henrico Bullingero, pastori summo ecclesię
+Tigurinę, sibi in domino observando.
+</content>
+</letter>

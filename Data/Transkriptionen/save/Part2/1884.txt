@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1884">
+<nr>1884</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>1. April 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 256 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 103^&x{
+<dr>Ungedruckt</dr>
+<re>Am Reichstag [zu Speyer] wird noch auf König Ferdinand gewartet. Ein Priester berichtete aus Wien von einem Abkommen zwischen Wiener und türkischen Kaufleuten, das es ihnen ermöglicht, ihre Waren in Wien bzw. Buda auf den Markt zu bringen. Gasts Frau [Apollonia, geb. Glaser] schenkt den Frauen von Bullinger [Anna, geb. Adlischwyler] und Theodor [Bibliander], [Rosilla, geb. Rordorf], je ein Paar Messer. Wird sich noch diese Woche nach neu erschienenen Büchern erkundigen; grüßt [Bibliander] und gedenkt, diesem und Bullinger den heute fertiggestellten [Apokalypsenkommentar des] Primasius bald zuzusenden. Bittet um Unterstützung des Briefüberbringers; dieser wird über sein Anliegen mündlich berichten, oder [Bartholomäus] Westheimer wird ausführlich schreiben.
+</re>
+<tx>S. Doctissime Bulling[ere]<fx>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe>. Nihil certi ex comitiis audio. Expectatur adhuc Ferdinandus rex.<f1>König Ferdinand war bereits am 11. März in Speyer eingetroffen; s. RTA JR XV/2 765.<fe> Si ille advenerit, fortassis negotia imperii tractabuntur.
+^$Quidam sacrificulus<f1>Unbekannt.<fe> apud me fuit hisce diebus, qui ante mensem Wiennae fuit, qui dixit Wienenses mercatores pactum cum Turcis fecisse, ut tuto possint iam mercari, et se vidisse in proximo mercatu Wiennensi plus quam 800 Turcas libere ingressos et egressos, et Wienenses etiam sua mercimonia Budae exponere et feliciter vendere. Quid sibi hęc societas velit, facile divinari potero.
+^$Vale.
+^$1. aprilis 1544.
+^$Min hußfrow<f1>Apollonia, geb. Glaser.<fe> schicket do uwerer<f1>Anna, geb. Adlischwyler.<fe> und h[errn] Theodori<f1>Theodor Bibliander.<fe> hußfrowen<f1>Rosilla, geb. Rordorf.<fe> jetlicher ein barmesser<f1>ein Paar Messer; s. SI IV 1429.<fe> und bittet sy der by<f1>dabei.<fe>, si wellent ein kleyne meynung, die in allem guͦten beschicht, also uff nemen und nit<fx>nit ^#/+über der Zeile nachgetragen.^#/-<fe> verachten, und griesset uch und uwere hußfrowen im herren.
+<un>Tuus Gastius ex
+<un>animo.
+<lz>De libris apud nos absolutis his nundinis nondum potui expiscari; sed hac hebdomada id efficiam. D. Theodorum nomine meo salutabis. Primasium<fx>Primasium ^#/+korrigiert aus^#/- Primasius.<fe><f1>Vgl. oben Nr. 1848, 32f mit Anm. 14.<fe> tu et Theodorus brevi habebitis; hodie<fx>^#/+Vor^#/- hodie ^#/+gestrichenes^#/- nondum.<fe> enim absolvitur<fx>absolvitur ^#/+korrigiert aus^#/- absolvuntur.<fe>.
+^$Si aliqua in re latori<f1>Unbekannt.<fe> literarum prodesse poteris - habet enim negotium cum quodam Tigurino -, oro, mihi in hac re inservias. Ipse exponet negotium, aut Westhemerus<f1>Der Drucker Bartholomäus Westheimer. Über diesen s. HBBW II 53, und Heribert ^#/+Rissel,^#/- Dem Buch und der Kanzel gedient: Bartholomäus Westheimer aus Pforzheim (1499-1567), in: Neue Beiträge zur Pforzheimer Stadtgeschichte 1, Heidelberg u.a. 2006, S. 13-24. - Vgl. auch unten Nr. 1900, 4f. 7-9.<fe> fusissime scribet.<f1>Ein entsprechendes Schreiben ist nicht bekannt.<fe>
+<lz>[Adresse auf der Rückseite:] Pietate et eruditione insignid. Henrycho Bullingero, suo incomparabili amico. Zuͦ Zurich.
+</content>
+</letter>

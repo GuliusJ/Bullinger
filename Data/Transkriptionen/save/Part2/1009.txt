@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1009">
+<nr>1009</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>26. Juni 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 78 (Siegelspur) </vo>
+<dr></dr>
+<re>Gegen die Forderung von Luzern und Schwyz, Zürich und Glarus hätten dem Abt [von St. Germain] wieder zu seinen Herrschaftsrechten zu verhelfen, indem sie die Toggenburger zur Herausgabe der Kaufurkunde drängten, protestierte Zürich an der Badener Tagsatzung [vom 12. Juni].
+Darauf wurde es vor die Alternative gestellt, entweder der Forderung nachzukommen oder einzuwilligen, daß die Toggenburger und der Abt nach Wil vor die vier Schirmorte bestellt und zu einer Einigung bewegt würden, wobei sich Zürich und Glarus im Falle des Scheiterns auf ein Rechtsverfahren gefaßt
+machen müßten; der Große Rat [in Zürich] wird am 27. Juni darüber befinden.
+Vadian soll den Pasquill nach der Lektüre zurücksenden. Hat durch Antonius [...] einen ausführlichen Brief [Nr. 1007] geschickt; vergaß, den Gruß des Erzbischofs von Canterbury [Thomas Cranmer] weiterzuleiten. Möchte das Vadian anvertraute Schreiben [Cranmers an Bullinger] zurückhaben; Vadian wird
+den an Osiander gerichteten Brief [Cranmers] wohl weitergeschickt haben. Bittet um Neuigkeiten über den Kaiser, die Türken, den französischen König und den Papst.</re>
+<tx>[Gedruckt: Vadian BW V 435f, Nr. 964.]
+</content>
+</letter>

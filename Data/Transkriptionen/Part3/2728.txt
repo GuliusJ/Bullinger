@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2728">
+<brief>
+<id>16417</id>
+<nr>2728</nr> <from persid="GastJohannes"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-12-28"/>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 28. Dezember 1546</od>
+<vo>Autograph: Zürich ZB, Ms F 62, 262 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 153 ─ Gast schrieb nach Myconius' Brief vom 28. Dezember.</k></dr>
+<re><t>Gast hat nichts zu berichten, das Myconius nicht schon [mit <qv>nr2729</qv>] geschrieben hätte.</t>
+<t>Der sächsische [Kurfürst Johann Friedrich] hat die Städte im Gebiet des Mainzer [Erz]bischofs [Sebastian von Heusenstamm] gebrandschatzt, Proviant geraubt und die Geistlichen beim Durchzug [in Richtung Sachsen] angegriffen.</t>
+<t>Über den Tod Kaiser [Karls V.] lässt sich nichts Sicheres melden. Die Städte [Süddeutschlands] scheinen nicht zum Kampf gewillt zu sein. Sie wollen nicht für Christus leiden, wo doch der Teufel sie plagen wird, sobald die papistische Tyrannei wieder aufgerichtet ist.</t>
+<t>Gast hätte längst die Wolle gekauft, doch stand ihm kein zuverlässiger Bote zur Verfügung. Die beste Qualität ist um Pfingsten nach dem Färben der Wolle zu finden. Die hier übersandte Ware kostet zwei Gulden. Es sind fünf Pfund. Ein Pfund kostet zehn Schillinge. Es sind mehrere geteilte Strähnen, trotzdem gute Qualität.</t>
+<t>Gruß, auch an Anna [geb. Adlischwyler] und an die Kinder.</t>
+<t>[PS.:] Gast, oder besser gesagt seine Frau [Apollonia, geb. Glaser], konnte nicht weniger Wolle erwerben.</t></re>
+<text>
+<div>
+<p>S. Novi nihil habeo, quod Myconius non scribat
+<fn>Gemeint ist Myconius' Brief vom gleichen Tag (<qv>nr2729</qv>).</fn>.</p>
+</div>
+<div>
+<p><zzl>zl16417-3A</zzl>Saxo
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> hat dem bischoff von Mentzs
+<fn>Sebastian von Heusenstamm, Erzbischof von Mainz.</fn> syne stettli geschetz
+<fn>gebrandschatzt, Lösegeld gefordert; s. <a>Grimm</a> XIV 2281. - Zur Sache s. <qv>nr2723</qv>,<qv>zl16412-17</qv>; <qv>nr2725</qv>,<qv>zl16414-3</qv>; <qv>nr2729</qv>,<qv>zl16418-5</qv>.<zfn>fn16417-1</zfn></fn>, probant
+<fn>Proviant.</fn> in dörfferen gnomen, keyni bezalt. Het dem bischoff vil schadens gethon, ouch den geistlichen, die er im durchziehen
+<fn>Nämlich auf dem Weg zurück nach Sachsen. - Zur Route des Kurfürsten s. <qv>nr2700</qv>, <qv>fn16388-3</qv>.</fn> hat begriffen
+<fn>angegriffen; s. <a>SI</a> II 719.</fn>.<zzl>zl16417-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16417-1A</zzl>De morte caesaris
+<fn>Karl V. - Zum falschen Gerücht über dessen Tod s. die Verweise in <qv>nr2700</qv>, <qv>fn16388-4</qv>.</fn> fama incerta.<zzl>zl16417-1E</zzl> <zzl>zl16417-2A</zzl>Ich vermerck
+<fn>bemerke; s. <a>SI</a> IV 408.</fn>, das die stett unwillig sindt z{uo} kriegen. M{oe}gen nütt umb Christi willen liden,
+<fn>Anspielung auf die mehr oder weniger freiwillige Unterwerfung der Städte unter den Kaiser, die von Gast wie auch von Myconius als Abfall vom Evangelium gedeutet wurde; vgl. <qv>nr2725</qv>,<qv>zl16414-4</qv>. <qv>zl16414-2</qv>; <qv>nr2729</qv>,<qv>zl16418-3</qv>.</fn> so
+<fn>während.</fn> sy doch umbs düffels willen vil m{ue}ssen liden, so die b{ae}pstliche tyrannei wider anheben
+<fn>anfangen.</fn> wirt.<zzl>zl16417-2E</zzl></p>
+</div>
+<div>
+<p>Ich hette üch langest
+<fn>längst.</fn> wollen
+<fn>die Wolle. - Zu dieser Angelegenheit s. zuletzt <qv>nr2724</qv>,<qv>zl16413-11</qv>.</fn> koufft, so ich ein gwüssen
+<fn>zuverlässigen. - Gast vertraute die Sendung dem von Bullinger in <qv>nr2724</qv>,<qv>zl16413-7</qv>, empfohlenen (unbekannten) Boten an.</fn> botten hette gehan. Ir solten lassen kouffen umb pfingsten. Do fynde mann die waal
+<fn>beste Qualität; s. <a>SI</a> XV 1129f.</fn>, nachdem sy geferwt
+<fn>gefärbt.</fn> haben. Aber dise kostet 2 gulden. Sindt 5 lib.
+<fn>Pfund (Gewicht). Es entspricht etwa 0,53 kg. Gast hat also etwa 2,6 kg Wolle für Bullinger erworben.</fn> Kostet ein pfundt 10 ß.
+<fn>Schilling. - 1 Pfund (Währung) = 20 Schilling. Demzufolge waren damals in Basel 50 Schillinge, d.h. 2,5 Pfund (Währung), etwa 2 Gulden wert.</fn> Es sindt ouch etlich strangen
+<fn>Strähnen; s. <a>SI</a> XI 2288f.</fn>. Die sindt zertheilt. Haben feden
+<fn>Fäden.</fn>. Darumb sondt
+<fn>sollt; vgl. <a>SI</a> VII 770.</fn> ir nit gedencken, das es w{ue}rmstüchige
+<fn>"wurmstichige", hier: von zweifelhafter Qualität, schlechte; s. <a>SI</a> X 1310.</fn> wollen sey.</p>
+</div>
+<div>
+<p>Vale in domino. Gruesset mir ewer hußfrowen
+<fn>Anna, geb. Adlischwyler.</fn> und kinder
+<fn>Zu deren Namen s. <qv>nr2604</qv>, <qv>fn16292-1</qv>.</fn> alle, etc. Basel, die Innocentum
+<fn>Innocentum puerorum, der Tag der Unschuldigen Kinder; vgl. Mt 2, 16.</fn> 1546.</p>
+<un>Tuus Gastius</un>
+<un>ex animo.</un>
+<lz/>
+</div>
+<div>
+<p>Ich hab nit kynnen, ja
+<fn>Hier im Sinne von "genauer gesagt" oder "also"; vgl. <a>SI</a> III 3.</fn> min frow
+<fn>Apollonia, geb. Glaser.</fn>, mynder
+<fn>weniger.</fn> wollen nemen.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Diser brieff geh{oe}rt dem wolgelerten herren, meyster Heinrich Bullinger, leutpriesteren z{uo} Zürich, mynem lieben, g{ue}nstigen herren, z{uo} handen.</p>
+</div>
+</text>
+</brief>

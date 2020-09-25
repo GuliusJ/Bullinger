@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1564">
+<nr>1564</nr>
+<correspondents>
+	<originator>Johann Jakob Wick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Frankfurt am Main</place>
+	<date>14. September 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 340, 106 (Siegelspur)</vo>
+<vo>Kopie ZZB, Ms S 50, 84a<f1>Zit.: Senn, Wick 19.stimmt nicht<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für Bullingers Brief und entschuldigt sich für sein eigenmächtiges Vorgehen; hat zwar einem Mädchen die Ehe versprochen, wendet sich aber gegen den Wunsch der Eltern nach vorzeitiger Rückkehr und will den Entscheid [der Schulverordneten] abwarten. Bullinger wird weitere Neuigkeiten von
+Christoph Froschauer hören; lobt [Konrad] Suter und [Christoph] Wirth; wird vielleicht nach Leipzig gehen; wegen der Pest und Angst vor den Türken ist die Frankfurter Messe schlecht besucht. Rechtfertigt sich für einen Bücherkauf; grüßt alle, an die er zeitlich bedingt nicht schreiben kann.</re>
+<tx>S[alutem] p[lurimam] d[ico].
+^$Litteras tuas (reverendissime domine
+Bullingere) observandorum dominorum nomine scriptas<f1>Der Brief, den Bullinger vermutlich im Namen der Schulverordneten geschrieben hatte, ist nicht erhalten.<fe> accepi,
+per quas satis intellexi imprudentiam et stultitiam meam,
+imo temeritatem, quod citra consensum omnium vestrorum talia
+aggredi ausus fuerim. Tamen vestram dignitatem (imprimis
+tuam) supplex oro, ut meae audatiae ignoscatis. Tu me, ut te
+facere spero, opera, consilio, gratia iuva, ut dominos mihi
+iratos nunc faventissimos reconcilies. Spero me omnia,
+hactenus quae sunt neglecta, diligentius resarcturum. Quam
+stulte etiam et imprudenter sapiant parentes<f1>Gemeint sind wohl Wicks Eltern, Peter Wick und Greth Huber oder Elsbeth Traber, vgl. HBBW VI, S. 424, Anm. 14.<fe>, accepi, quum
+ita meum desyderent adventum tam maturum. Verum mihi valde
+displicent eorum consilia, tametsi (ut ingenue fatear)
+promiserim virgini<f1>Vielleicht Anna Escher, die Wick 1542 heiratete; vgl. ^#/+Senn,^#/- Wick 32.<fe> meam fidem; tamen ea conditione
+pollicitus sum me eam ducturum post annos<fx>^#/+In der Vorlage irrtümlich^#/- amos.<fe> duos vel
+tres. Iam cum nondum instet tempus, illi meum adventum
+expectant. Tamen in hoc negotio parentibus non auscultabo,
+verum vobis omnibus, qui mihi loco parentis hactenus
+fuistis, spero adhuc futuros. Vestram communem sententiam
+expectabo. Quaecunque tum decreveritis, ad illa me
+accomodabo et videbo, ut expectationi de me satisfacere
+possim, et me totum, quantus sum, ad vestrum offeram
+obsequium.
+^$Quomodo res nostrae hactenus fuerint, audies ex domino
+Cristophoro Froschouero. Nobiscum una versati sunt Suterus<f1>Konrad Suter.<fe>
+et Hospinianus<f1>Christian Wirth.<fe>. Quantum ego vidi, inculpatae vitae vixerunt,
+ut omnibus clari, boni et studiosi adolescentis specimen
+praebuerint et spem non dubiam futurae etiam de se virtutis
+et industriae fecerint. Qualiter vero se gesserint Basileae,
+me fugit. Lipsiam nobis tribus liberum esse aiunt
+proficiscendi;<f1>Am gleichen Tag schrieb Wick an Gwalther, er werde mit Wolf und Haller nach Leipzig gehen; vgl. Zürich ZB, Ms F 41, 547.<fe> ad sequentes nundinas<f1>Gemeint ist die Frankfurter Frühjahrsmesse (zum Termin vgl. HBBW VI, S. 193, Anm. 18).<fe> Francofordiam nos
+recipiemus vestrum decretum expectaturi. Presentes hae
+nundinae non admodum sunt frequentes, partim propter pestem
+illic grassantem, partim propter Turcarum vires horribiles;
+brevi enim in expugnatione Budae<f1>Am 21. August 1541 hatten die türkischen über die habsburgischen Truppen gesiegt; s. ^#/+Buch­­oltz^&xBucholtz^&x{^#/- V 157-159.<fe> nostri occubuerunt magno etiam detrimento Turcarum.
+^$Vale, mi domine Bullingere, parens et patrone
+reverendissime, et me, ut soles, ama. Defuerunt mihi libri,
+quos accomodato<f1>Hier als "leihweise" zu übersetzen.<fe> accipere nusquam inveni; hos emendi
+necessitas me coegit et solvi ex patrimonio. Quod si aegre
+tulerint parentes, quaeso meas agas partes, ut tanto minus
+mihi succenseant. Non erat otium omnibus iam scribendi,
+videlicet domino m[agistro] Georgio Mülero, domino Rodolpho
+Stollio, dominis meis reverendissimis, imprimis etiam
+scholarchae domino Ammiano<fx>^#/+Vielleicht als ^#/-Ammano ^#/+zu lesen.^#/-<fe> mihi faventissimo. Sed omnibus pro
+me multam dices salutem et me illis omnia laeta praecari.
+^$Datum Francofordiae, 1541, 14. septembris.
+<un>Ioannes Iacobus Wikius tui<un>observantissimus.
+<lz>[Adresse auf der Rückseite:] Pio et erudito viro
+domino M. Heinrycho Bullingero, ecclesiae Tigurinae episcopo,
+vigilantissimo domino et patrono suo observando.<fx>^#/+Randnotiz Bullingers:^#/- Werdm[ülleri], Wolphii, Vickii, Halleri, Christiani [Wirth], Rotacheri literae.<fe>
+</content>
+</letter>

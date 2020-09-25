@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1987">
+<nr>1987</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>16. September 1544</date>
+</space_time>
+<vo>Autograph<fx>^&!s(-40)^#/+Mit Unterstreichungen von späterer Hand.^#/-^&!s(+0)<fe>: Zürich StA, E II 336, 209 (neu: 227) (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 177^&x{
+<dr>Ungedruckt</dr>
+<re>Empfehlung des Überbringers, eines Doktors der Theologie [Albert Hardenberg], der auf Geheiß des Kölner Erzbischofs [Hermann von Wied] auf dem Weg nach Straßburg ist und vorher die Kirchen von [Basel], Zürich und Konstanz besucht. Er bringt Nachrichten vom englischen [König Heinrich^#. VIII.] und von
+Kaiser [Karl^#. V.] mit; in Basel erfuhr er von der Verhaftung Graf Wilhelms [von Fürstenberg] und wird Weiteres an Ort und Stelle berichten.
+</re>
+<tx>S. Qui has reddit, d[octor] theologus est.<f1>Es handelt sich um Albert Hardenberg; s. Bullingers Brief an Vadian vom 28. September 1544, unten Nr. 1997^&xund s. ^#/+Janse,^#/- Hardenberg 16-19. Er war im Dezember 1539 an der Universität Mainz zum Doktor der Theologie promoviert worden, vgl. ebd., 11^&x{.<fe> Equidem
+iudico doctum et pium. Venit Argentinam missus a Coloniensi
+archiepiscopo<f1>Hermann von Wied.<fe>.
+Placuit, ut etiam inviseret
+ecclesias, nostram, Tigurinam et Constantiensem, priusquam
+adiret vocationem suam.<f1>Hardenberg reiste auf Kosten des Erzbischofs in das Elsass, die Schweiz und nach Oberdeutschland; s. oben Nr. 1972, Anm. 1; unten Nr. 1997^&xum einige Reichstagsangelegenheiten zu besprechen, sich über die Kirchenverfassung zu informieren und die Bekanntschaft mit berühmten Theologen zu vertiefen. Vgl. z.B. Bullingers Brief an Vadian vom 28. September 1544 unten Nr. 1997 und ^#/+Janse,^#/- Hardenberg 17^&x{.<fe> Quęrit ac disputat libenter, sed
+non nisi discendi gratia; nihil igitur puto timendum ab eo.
+Vos excipitote illum, ut moris est vestri, benigniter.
+^$Potest is dicere multa de rebus variis, quas valebis
+exquirere ab ipso. De Anglo<f1>König Heinrich^#. VIII.<fe> novit certa, de cęsare<f1>Karl^#. V.<fe>
+quędam secum adtulit, quędam didicit hic, e quibus est
+comitem Gulielmum<f1>Graf Wilhelm von Fürstenberg.<fe> Parrhisios ductum captivum<f1>Wilhelm von Fürstenberg wurde vom 2. auf den 3. September bei der Erkundung einer Furt in der Marne gefangen genommen; s. ^#/+Paillard^#/- 324-330; Johannes Volker ^#/+Wagner,^#/- Fürstenberg 258f (mit weiterer Lit., aber falschem Datum der Festnahme).<fe> et regem<f1>Franz^#. I.<fe> his ad
+eum verbis usum: "Ito Parrhisios ac disce bonus esse comes,
+qualis fuisti aliquando, sed dedidicisti." Mirabile, si verum
+est. Reliqua ex doctore.
+^$Vale in domino.
+^$Basileae, 16. septembris anno 1544.
+<un>Tuus Myconius.
+<lz>[Adresse auf der Rückseite:] D. Heinricho
+Bullingero doctissimo, fratri in domino suo observando.
+Z[urich]<fx>^#/+Teilweise auf das nicht mehr erhaltene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

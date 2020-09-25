@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1164">
+<nr>1164</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>30. August 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichung von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 178 (neu: 196) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Empfiehlt einen ehemaligen Priester [Jörg Negelin?], der in Ensisheim in Gefangenschaft war und dem "Lutheranismus" abschwören mußte.
+</re>
+<tx>S. Hactenus missavit hic<f1>Wahrscheinlich handelt es sich um Jörg Negelin von Maienfeld (Kt. Graubünden), um dessen
+Freilassung Basel - auf Bitte der Drei Bünde - das vorderösterreichische Regiment in Ensisheim am 17. August ersuchte (s. Basel StA, Missiven B 2,
+183r.-v.). Negelin studierte 1509 in Leipzig; anschließend ist er 1513-1516 als Kurat in Grüsch bzw. 1516 in Küblis nachweisbar
+(beide Kt. Graubünden). 1518 war er Kaplan in Berschis bei Flums (Kt. St. Germain), 1520-1523 in Flums (s. Oskar ^#/+Vasella,^#/-
+Untersuchungen über die Bildungsverhältnisse im Bistum Chur mit besonderer Berücksichtigung des Klerus. Vom Ausgang des 13.
+Jahrhunderts bis um 1530, Habil. Freiburg, in: 62. Jahresbericht der Historisch-Antiquarischen Gesellschaft von Graubünden,
+Jahrgang 1932, Chur 1933, S. 160, Nr. 393). Über seinen Aufenthalt in Vorderösterreich ist sonst nichts bekannt.<fe> et interim evangelium praedicavit, quamobrem captivus ductus ab
+Ensheimensibus aliquamdiu detentus est non sine timore grandis periculi. Tandem liberatus coactus est abiurare Lutheranismum. Tu igitur consolare et admone, ut perseveret in domino
+constanter et esse et permanere. Et si qua ratione alia
+poteris commodare, fac, ut soles.
+^$Vale cum tuis et me redamato.
+^$Basileę, 30. augusti anno 38.
+<un>Tuus Myco-­
+<un>nius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero doctissimo, Tigurinorum antistiti primario, domino in Christo venerando suo.
+</content>
+</letter>

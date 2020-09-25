@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2072">
+<nr>2072</nr>
+<correspondents>
+	<originator>Wigand Happel</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>21. Januar 1545</date>
+	<note>Happel hatte sich nach Straßburg begeben, um dem Landgrafen Philipp von Hessen durch bekannte Männer (nämlich Bucer und Fagius) als Hebräischprofessor in Marburg empfohlen zu werden, was er schon im September 1544 vorhatte (s. HBBW XIV 397, 26-30); s. unten Z. 10f.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 356a, 939f (ohne Siegel)<fx>^#/+Das Siegel wurde ausgeschnitten.^#/-<fe></vo>
+<dr>Regest mit Zitat: ^#/+Köhler,^#/- Hessen und die Schweiz 475, Nr. 38</dr>
+^&xKopien 18. und 19. Jh.: Zürich ZB, Ms S 56, 135; (danach) Straßburg BNU, Ms 675 (Thes. Baum. 16), 11^&x{
+<re>Happel hat im letzten Brief seine Verhältnisse und seine Studien beschrieben und bittet Bullinger um Mitteilung, ob dieser sie billigt.
+-^#. Er bittet Bullinger eindringlich, ihn beim Fürsten [Landgraf Philipp von Hessen] für eine Universitätsstelle im Hebräischen zu empfehlen. [Konrad] Pellikan kannn Happels fortgeschrittene Hebräischkenntnisse bestätigen. Auch Paul Fagius und Bucer werden dies in Empfehlungsschreiben tun, so dass Bullinger sich nicht für eine unbekannte und unsichere Sache einsetzt.
+-^#. Dies wäre nicht nötig, wenn Happel nicht einige Neider und abergläubische Theologen gegen sich hätte, die ihn als schlimmsten häretischen Zwinglianer verschreien, die ihn in seinem Fortkommen zu behindern versuchen, die jedoch nicht fähig sind, seine Schrift [...] zu widerlegen, und die ihren Lehrer, den deutschen Papst Luther, nachahmen. Nur die Autorität des frommen Fürsten und die Angst vor einem öffentlichen Skandal schreckt sie ab. Deshalb werden Happel und seinesgleichen von diesen Theologen nicht in der Öffentlichkeit, sondern im Privaten geächtet. Die [in Marburg gewesenen] jungen Leute [aus Zürich] wissen, wie Happel sich [den Marburger Theologen] gegenüber verhielt; er hat nur in privater Unterhandlung und unter Androhung, zu einer öffentlichen Verteidigung gereizt zu werden, erreicht, dass sie von öffentlichen Schmähreden gegen [die Zürcher] ablassen; er ist um Eintracht bemüht, doch wenn die [Gegner] nicht zur Vernunft kommen, wird er mit der Hilfe bedeutender Männer bei [Landgraf Philipp von Hessen] intervenieren.
+-^#. Happel empfiehlt sich Bullinger an und versichert ihn seiner Dankbarkeit.
+-^#. Er Wird tun, was dieser ihm empfiehlt.</re>
+<tx>S. Superioribus meis ad te literis<f1>Happel bezieht sich auf seinen Brief an Bullinger vom 13. September 1544 (HBBW XIV, Nr. 1984).<fe> exposui res et studia mea, quae, ut tuae humanitati probentur<fx>^#/+In der Vorlage^#/- probenter.<fe>,
+vehementer scire cupio<f1>Aus diesen Worten wird deutlich, dass Bullinger nicht auf Happels Brief vom 13. September 1544 geantwortet hatte.<fe>. Quamobrem humiliter et obnixe te obtestor,
+tuum iudicium et consilium super iis per otium brevibus mihi perscribere digneris.
+^$Deinde etiam, etiam atque etiam vehementer oro, fretus tua erga me benevolentia et
+singulari erga omnes humanitate et fide, ut me illustrissimo principi nostro<f1>Philipp von Hessen.<fe>
+diligenter commendare velis ac obiter ei ostendere, quod cum in aliis tum vel maxime
+in professione linguae sanctae<f1>D. h. Hebräisch.<fe> opera mea uti possit universitas sua, si sit opus.
+Quid in ea profecerim, exd. Pellicano, viro optimo, poteris cognoscere; etd. Pauli Fagii
+etd. Buceri literae comendatitiae ad eundem optimum principem nostrum testabuntur.<f1>Das Empfehlungsschreiben von Paul Fagius ist nicht bekannt.^&xAnfrage StA Hessen läuft^&x{ Das Empfehlungsschreiben von Bucer an Landgraf Philipp von Hessen ist erhalten; es datiert vom 17. März 1545 (Druck in: Lenz II 315-317, hier 315f); wie daraus hervorgeht, wurde es von Happel selbst überbracht und laut Vermerk (ebd., 315) am 17. April in Kassel bearbeitet.<fe>
+Quare non est, vir humanissime, quod verearis, ne<fx>ne ^#/+über der Zeile nachgetragen.^#/-<fe> de re ignota vel incerta testimonium perhibeas.
+Preterea scripta eiusmodi ita temperari possunt, ne cui fraudi sint, et ego
+talem semper me pręstare in animum induxi (ut mihi hactenus fecisse videor),
+ne vestram de me expectationem fallam utque dignissimus vestris literis iudicer.
+^$Opus iis<f1>literis commendaticiis.<fe> nequaquam foret, si me ęquis intueri oculis<f1>ęquis intueri oculis: mit freundlichen Augen ansehen.<fe> quidam invidi homines et
+superstitiosi theologi et superciliosi sustinerent, qui, cum nihil habeant, quod mihi inurant,
+quo me in invidiam adducant, mihi noceant, hereticum me Zwinglianum esse acerrimum prędicant.<f1>Siehe HBBW XIV 396, 9-11.<fe>
+Si opprimere me nequeant aut convertere, saltem non promovendum et modis omnibus
+impediendum cursum meum<fx>meum ^#/+über der Zeile nachgetragen.^#/-<fe>, quo minus emergam, censent. Ac interim nec respondere scripto meo<f1>Eine Schrift Happels aus dieser Zeit ist nicht bekannt. Es könnte sich dabei um ein theologisches Gutachten gehandelt haben, das Happel seinen Gegnern bei den privaten Verhandlungen unterbreitete; s. unten Z. 31f.<fe>
+nec solvere aut confutare meae possunt, et (ut uno verbo dicam)<fx>^#/+In der Vorlage^#/- (et ut uno verbo dicam).<fe> suum imitantur hac in parte
+pręceptorem aut papam Germanum<f1>Luther.<fe>, nisi autoritate pii principis moverentur
+et plebis absterrerentur scandalo et commotione.
+Credo mihi et mei similibus unicam saltem ob causam illam, nec publice sed intra
+privatos hactenus parietes cum illis agitatam, aqua et igni forte interdicturos<f1>aqua et igni interdicere alicui: jemanden ächten.<fe> esse.
+Norunt vestri iuvenes<f1>Die Zürcher Rudolf Kopp, Bernhard Lindauer, Wolfgang Haller und Felix Renner hielten sich 1544 in Marburg auf; s. HBBW XIV 391, Anm. 13. Happel hatte Bullinger am 13. September 1544 über sie berichtet und dabei besonders Wolfgang Haller gelobt; s. aaO, S. 396, 1-3 und Anm. 2.<fe>, qualem me prestiterim in causa illa; ab illis te
+cognoscere omnia velim, si cordi id sit.
+Nunquam publice neque etiam in conviviis (ut solent multi) eam<f1>eam causam.<fe> movi aut iactitavi,
+sed privatim cum iis contuli, qui aut vos publice traducerent aut etiam meam famam
+arroderent, me morderent non obscure; et demum eo rem perduxi,
+ut publicis maledictis contra vos abstinerent, nisi vellent me ad publicam defensionem
+provocare, quod etiam facturus adhuc sum, nisi ex illa acerbitate demum ad aliquam
+maturitatem ac sanitatem mentis redire velint.
+Quamquam sim pacis studiosissimus et concordiae, quam <vl>940</vl> si fovere et conservare
+- volui prius dicere, revocare, erigere et paulatim confirmare - pote[ro]<fx>^#/+Hier und im Folgenden Textverlust am Rande.^#/-<fe>, totis viribus
+id faciam; sin minus, ope divina et quorundam magnorum virorum consilio et auxilio
+hoc saltem curabo apud illustrissimum principem nostrum, ut, quos hereseos au[t] erroris
+convincere non queant, eos non accusent, calumnientur, exosos reddant.
+^$Se[d] longius provehor indignitate rei, quam animus erat.
+Hoc unum adiiciam: Me totum vestr[um] esse, vestrum honorem, nomen, famam mihi esse longe commendatissima,
+et quicquid in me contuleris beneficii, id te in hominem tui studiosissimum et gratissimum collocaturum.
+^$Bene vale cum tota domo tua, ac mihi praecipe et manda quidvis, et factum puta.
+^$Dat[um] ex Argentina, 21. ianuarii anno 1545.<f1>Dem Überbringer dieses Briefes wurde wohl auch Bucers Brief vom gleichen Tag (oben Nr. 2071) anvertraut.<fe>
+<un>Tuus ex animo Vigandus Hap.
+<lz>[Adresse darunter:]<fx>^#/+Mit Hilfe einer Infrarotlampe entziffert, weil Brief Nr. 2242 darüber geklebt wurde.^#/-<fe> [Clarissimo vi]ro domino [Heynrico B]ullingero, [ecclesiae Ti]gurinae [episcopo] vigilantissimo, [domino et] praeceptori [vero si]bi sanctissime [colen]do. Zürich.
+</content>
+</letter>

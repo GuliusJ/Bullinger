@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2854">
+<brief>
+<id>17123</id>
+<nr>2854</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-03-21"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 21. März 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 37 (Siegelspur)</vo>
+<dr>Druck: <a>Boehmer, Dryander</a> 411f, Nr. 24; <br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 212f, Nr. 27<k>Kopien, 18. Jh.: Zürich ZB, Ms S 63, 173; 19. und 20. Jh.: Stra^burg BNU, Ms 3900, 239 (Schmidt); Madrid BN, 8862, suelto und f. Ddro 20. </k></dr>
+<re><t>Enzinas dankt für die von Bullinger [zugunsten Bernardino Ochinos]
+<fn>Vgl. dazu <qv>nr2831</qv>.</fn> unternommenen Bemühungen. Es ist nicht schlimm, dass sie nicht erfolgreich waren, denn es ist immer gut zu wissen, wie die Menschen denken. So erspart man sich eine unvorsichtige Handlung, die später bei einer noch größeren Notlage
+<fn>Wie etwa im Falle eines Angriffes gegen Zürich bzw. die Eidgenossenschaft durch den Kaiser.</fn> zu bereuen wäre! Für Enzinas zählt Bullingers Hilfsbereitschaft viel mehr, als wenn er vom Zürcher Rat die schönste Unterkunft für sich oder Ochino erlangt hätte. Er steht ihm also jederzeit bereitwillig zu Diensten.</t>
+<t>Vor zwölf Tagen hat er eine gut verpackte, für Bullinger bestimmte Sendung
+<fn>Gemeint ist Enzinas' Brief an Bullinger vom 7. März (<qv>nr2840</qv>), dem Enzinas die Abschrift von Bullingers Abhandlung "De sacramentis" beigelegt hatte. Myconius scheint dieses Päckchen erst am Abfassungstag des vorliegenden Briefes, zusammen mit seinem Brief <qv>nr2855</qv>, einem Boten anvertraut zu haben, wie aus Bullingers Schreiben <qv>nr2856</qv>,<qv>zl17125-2</qv>, vom 23. März hervorgeht.<zfn>fn17123-1</zfn></fn> Myconius zur Übermittlung anvertraut. Dieser sagt, dass er sie abgeschickt habe. Ist sie gut angekommen?</t>
+<t>Bullinger möge Neuigkeiten mitteilen. Gestern wurde aus Antwerpen die Ankunft von vier Schiffen aus "Indien" [Amerika] mit Gold für Kaiser Karl V. gemeldet, der nun die Überweisung einer großen Menge Geldes via Antwerpen nach Deutschland veranlassen will.
+<fn>Vgl. <qv>nr2855</qv>,<qv>zl17124-1</qv>; <qv>nr2859</qv>,<qv>zl17127-2</qv>.</fn> Er hat Großes vor. Der Herr aber ist mächtiger als alles Gold und jede menschliche Macht! Er wird die gottlosen Pläne des Kaisers vereiteln.<fn>Vgl. Dan 11, 21-45.</fn></t>
+<t>Gruß, auch an Konrad Pellikan, Theodor Bibliander und an Bullingers Familie.</t></re> <textweg>
+<p>S. D. Pro diligentia tua gratiam habeo maximam. Quod parum successit, quod tentabas, non doleo; imo etiam iuvat novisse voluntates hominum, ne quid imprudentius peccetur, cum ingruat maior necessitas. Tuam ego voluntatem ac promptitudinem maioris facio, quam si a magistratu vestro impetrassem aut mihi aut Bernardino
+<fn>Bernardino Ochino.</fn> amplissimam habitationem. Nihil aliud praeter amorem parem et promptitudinem pro tuis officiis promittere aut reponere possum. Hanc integritatem invenies tibi apud me semper paratissimam.</p>
+<p>Epistolas tuas dedi ante dies duodecim diligenter colligatas d. Myconio, qui mihi nunciavit eas ad te iam esse transmissas; cupio scire fideliter esse redditas. Si quid novi acceperis, tuis literis nos admonebis. Accepi heri ex Antverpia venisse quatuor naves ex India onustas auro imperatori eumque, sibi ut in Germaniam ingens vis pecuniarum transmittatur, Antverpiae curare. Magna omnino molitor. Sed deus reprimet impios conatus, qui est potentior omni auro et potentia humana.</p>
+<p>Bene vale cum domino Pellicano et domino Bibliandro et tota tua familia.</p>
+<p>Basileae, 21. martii 1547.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero. Tiguri.</p> </textweg>
+</brief>

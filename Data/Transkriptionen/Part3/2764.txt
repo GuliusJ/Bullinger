@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2764">
+<brief>
+<id>17032</id>
+<nr>2764</nr> <from persid="HallerSulpitius"/> <to persid="Bullinger"/> <place plid="Bern"/> <date when="1547-01-23"/>
+<ae>Sulpitius Haller und die Berner Schulherren
+<fn>Die Erstellung eines Namensverzeichnisses der Berner Schulherren ist für diese Zeit nicht möglich. - Wir danken Barbara Studer-Immenhauser vom StA Bern für ihre entsprechenden Ermittlungen.</fn> an Bullinger und die Zürcher Schulherren
+<fn>Siehe dazu <a>HBBW</a> XVIII 416, Anm. 3.</fn></ae>
+<od>Bern, 23. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 359, 2818f (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Abschrift)</k></dr>
+<re><t>Die Berner Obrigkeit ist dankbar, dass auf ihre Anfrage hin der Zürcher Rat den gegenwärtigen Studenten Johann Knechtenhofer, Johannes Fädminger, Abel Mühlhofer und Jonas Danmatter (welche vor ihrer Rückberufung nach Bern auf Kosten ihrer Obrigkeit in Straßburg studiert haben) bewilligt hat, ihr Studium in Zürich fortzusetzen. Bullinger soll für die vom Zürcher Rat angeführten Unterhaltskosten zwei Schüler bei Otto Werdmüller, die zwei anderen bei Benedikt Euander, und falls dies nicht möglich wäre, bei weiteren geeigneten Kostgebern unterbringen.</t>
+<t>Die Berner Jugendlichen sollen genauso wie ihre Zürcher Schulkameraden behandelt, unterwiesen und unterrichtet werden, damit sie später imstande sind, ihren Kirchen als wohlerzogene und gut ausgebildete Männer zu dienen und vorzustehen, und sich ferner an die Beschlüsse der Berner Disputation [von 1528] und an die bisher anerkannte Religion zu halten.</t>
+<t>Sie sollen ihren Zürcher Lehrern gehorchen, den Unterricht fleißig besuchen und sich an den Disputationen, Vortragsübungen und sonst gängigen Übungen fleißig beteiligen. Sie sollen sich anständig, willig und zurückhaltend verhalten, um ihrem Ruf und dem ihrer Obrigkeit nicht zu schaden. Die Schulherren haben dies den vier Studenten ebenfalls eingeschärft.</t>
+<t>Falls aber diese sich daran nicht halten sollten und sie sich der Faulheit, des Übermuts oder anderer Verfehlungen schuldig machen würden, sollen sie genauso wie die anderen Studierenden gestraft werden.</t>
+<t>Außerdem dürfen sie ohne Kenntnis und Bewilligung ihres Vorgesetzten kein Geld von anderen leihen und nichts (weder Bücher noch Kleider oder sonst etwas) kaufen, zumal die Berner Behörden für diese Kosten aufkommen müssen. Da Bullinger wohl nicht die Zeit haben wird, sich um die Bedürfnisse der Studenten zu kümmern, soll er jemand anderen dazu ernennen, dem die Studenten ihre jeweiligen Anliegen vortragen können, soweit diese vernünftig und gebührend sind. Die Buchhaltung soll detailliert und für jeden Studenten separat geführt werden. Jedes halbe Jahr soll abgerechnet werden. Der Berner Rat wird die Rechnungen pünktlich begleichen.</t>
+<t>Der Rat und die Schulherren von Bern werden sich dankbar und hilfsbereit zeigen.</t></re>
+<text>
+<div>
+<p>Unnser früntlich grus und gutwillig dienst nach unserm vermogen zuvor, hoch und wolgelertten, fürnemmen, wysenn herrn, günstigen, lieben und guthen fründe. <zzl>zl17032-1A</zzl>Nachdem unnser g[nädigen] herrn by
+<fn>von.</fn> üwern herrn, iren getruwen lieben Eidtgnoßen, irs anmutens
+<fn>irs anmutens: ihres (der Berner) Gesuchs. - Ein entsprechendes Schreiben der Berner ist nicht bekannt.</fn> früntliche antwurt
+<fn>Unbekanntes Antwortschreiben der Zürcher.<zfn>fn17032-1</zfn></fn> und bewilligung ußgebrachtt
+<fn>erlangt; s. <a>SI</a> V 719.</fn>, das sy
+<fn>Die Ratsherren von Bern.</fn> ire studiosos (die sy vor
+<fn>zuvor.</fn> uf anndern schulen in irem costen uferzogen, aber da dennen
+<fn>da dennen: von dort weg.</fn> gevordertt)
+<fa><i>Dieses und alle anderen Klammerpaare mit Ausnahme des letzten ergänzt.</i></fa> nu mer by inen
+<fn>Den Zürchern.</fn> in ir statt und schulen zu bringen unnd erhaltten mogent (das sy mit danck von inen ufgenommen des erbiettens
+<fn>Angebots.</fn>, inen in glichem und merem ouch ze dienen), habent wir uß irem
+<fn>Der Berner.</fn> bevelch dise vier so darvor zu Strasburg gsin (Johannem Knechttenhover
+<fn>Zu Johann (Hans) Knechtenhofer (gest. 1569), der von 1559 bis 1567 Professor für Griechisch in Lausanne war und vorher und nachher verschiedene Pfarrstellen versah, s. <a>Pf-Bern</a> 389. 463. 484. 491. 504. 524. 605. 648; <a>Crousaz, L'Académie</a> 538.<zfn>fn17032-2</zfn></fn>, Johannem Vedminger
+<fn>Johannes Fädminger.</fn>, Abelum Mülishover
+<fn>Abel Mühlhofer. - Dieser Stelle zufolge ist in ganz <a>HBBW</a> XVIII der auf Lohners Angaben hin (im <a>Pf-Bern</a> 242. 269) angeführte Vorname "Adam" im Einklang mit der in <a>HBBW</a> XVIII 392, Anm. 52, erwähnten Straßburger Quelle in "Abel" zu korrigieren. Diese Richtigstellung erfolgt aufgrund von Mühlhofers eigenem Eintrag im Berner Prädikantenrodel (Bern StA, B III 21, Nr. 223).<zfn>fn17032-3</zfn></fn> und Jonam Tammatter
+<fn>Jonas Danmatter.</fn>) zu üch abgeverttiget, <zzl>zl17032-6A</zzl>der frünntlichen bitt an üch, sy nach üwerm besten beduncken underzebringenn, je zwen zesamen (by herrn Werdmüller
+<fn>Otto Werdmüller, damals Leutpriester am Großmünster. Am 17. November 1547 wurde er dort zweiter Archidiakon; s. Zürich StA, G I 179, f. 6r.<zfn>fn17032-4</zfn></fn> zwen und by hern Benedicto Evandro
+<fn>Schulmeister am Fraumünster; s. <a>HBBW</a> III 154, Anm. 3; X/a 67 (Corrigenda). - In der zweiten Hälfte 1546 wurde der Schulmeister Euander von der Großmünsterschule in die Fraumünsterschule versetzt, während Schulmeister Johannes Fries vom Fraumünster zum Großmünster wechselte; s. <a>HBBW</a> XVIII 343, Anm. 27; vgl. auch Zürich StA, E I 17, 6; G II 39.2, Schulausgaben der Jahre 1545/46, f. [1], mit aaO, Schulausgaben der Jahre 1546/47, f. [2]. 1547 wurde ferner Fries' Lohn erhöht und dem Lohn des Schulmeisters im Fraumünster angepasst; vgl. aaO, Schulausgaben der Jahre 1546/47, f. [2], mit E I 17, 4. 6. 9. 11.<zfn>fn17032-5</zfn></fn> ouch zwen)<zzl>zl17032-6E</zzl> oder wo sy üwers achttens ouch nach gestalt der zit und personenn am basten
+<fn>besten.</fn> versechen
+<fn>versorgt (sind); s. <a>SI</a> VII 568. 570f.</fn>, umb
+<fn>für.</fn> die summ, wie unsern hern hievor zugeschribenn.
+<fn>Mit dem oben bei <qv>fn17032-1</qv> erwähnten Brief.</fn><zzl>zl17032-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17032-2A</zzl>Hieruf empfelchennt wir sy üch allen gemeinlich
+<fn>zusammen.</fn>, sy in straf
+<fn>Disziplin; s. <a>SI</a> XI 2082.</fn>, ler und underwysung ze haltten glicher gestaltt
+<fn>glicher gestaltt: auf die gleiche Weise.</fn> wie anndre der herrn von Zürich oder üwer eignen, darmit sy in züchttigem wanndell unnd leben, ouch in reiner ler des heiligen evangelii und andern guthen künsten uferzogen, darinn ge{ue}bt und geschickt werdent zur er
+<fn>Ehre.</fn> unsers hern gottes, ouch zu dienst unsern g. hern und irer kilchenn (das sy denselben hernach nutz sin und vorstan mogent <vl>2818v.</vl> als gelertte, wol erzogne m{ae}nner und diener), sy by heilligem gotswortt, by ir disputation,
+<fn>Gemeint sind die Beschlüsse der Berner Disputation von 1528.</fn> by angenomner
+<fn>anerkannter.</fn> und bißhar gebruchtter religion in aller einfalt und warheitt des heilligen evangelii zu erhaltten; in dem (sovil an üch gelegen) trüw und flys gegen inen nit ze sparen, wie wir uns genzlich zu üch allen gemeinlich und sunderlich
+<fn>einzeln; s. <a>SI</a> VII 1140.</fn> versechent
+<fn>sich zu üch versechent: von euch erwarten; s. <a>SI</a> VII 566f.</fn>.<zzl>zl17032-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17032-3A</zzl>Dargegen s{oe}llent sy ouch üch als irenn preceptoribus in dem allem schuldige, willige ghorsame leisten, alle lectiones flyßig besuchen, sich ouch laßen bruchen und anstellen in disputacionibus, orationibus und in allen andern erlichen geschefften und {ue}bungen, wie es ouch uf andern schulen und sunderlich
+<fn>besonders.</fn> by üch gehaltten wirtt. Sy s{oe}llent sich ouch sunst mitt irem wandell, leben und w{ae}sen nitt ußschweif
+<fn>sich nitt ußschweif tragen: sich nicht ausschweifend benehmen; s. <a>SI</a> IX 1759.</fn>, sunder ghorsam und inzogen
+<fn>zurückhaltend.</fn> tragen, wie frommen, züchttigenn jünglingen zustat, darmit ir lob
+<fn>Ruf; s. <a>SI</a> III 993.</fn> nit vor unnsern g. hern und andern stincke; welichs wir inen alles mit ernst vorhin
+<fn>vorher.</fn> gesagtt.<zzl>zl17032-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17032-4A</zzl>Wer unnd welche sich des nit
+<fa><i>Über der Zeile nachgetragen.</i></fa> haltten, mit unflyß, st{oe}lze und anndrer unghorsame sich strafwirdig befinden, an dem unnd denselbenn bevelchent wir üch der sach mitt gebürender straf zuzekhommen
+<fn>beizukommen; s. <a>SI</a> III 282f.</fn>, wie an anndern, etc.<zzl>zl17032-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17032-5A</zzl>Dannenthin
+<fn>Zudem.</fn> so s{oe}llent sy ouch für sich selbs
+<fn>für sich selbs: eigenmächtig; vgl. <a>SI</a> I 956.</fn> nüzit ufnemmen, mercktten noch khoufen
+<fn>nüzit ufnemmen, mercktten noch khoufen: nichts (d.h. kein Geld) entlehnen (s. <a>SI</a> IV 736 s.v. ufnemen), nicht handeln (s. ebd. 415f s.v. märkten) und nichts kaufen.</fn> (b{ue}cher, cleider noch annders), diewil es alles uß unser g. hern costen gat und gan wirtt, an
+<fn>ohne.</fn> vorwüß, rat unnd bewilligen eins uß üch. Deßhalb wir ouch üch umb daßelb sunderlich gebetten, wo ir, herr Bullinger, <vl>2819r.</vl> als unnser sunderlicher lieber herr, das nit verwaltten andrer geschefftten halb (wie wir wol abrechnenn
+<fa><i>In der Vorlage</i> abrehnenn.</fa>
+<fn>herleiten (können); s. <a>SI</a> VI 122.</fn>), einen andern uß üch darzu ze ordnen, dem sy ir anligen fürbringen und mit deßelben rhat alles handlen. Was dann inen mangelbar
+<fn>Was dann inen mangelbar: Was ihnen dann fehlt.</fn> zu ir notdurfft
+<fn>zu ir notdurfft: für ihre Bedürfnisse.</fn>, ouch nach eren
+<fn>nach eren: im Einklang mit dem guten Ruf.</fn> unser hern, das mag derselb inen verg{oe}nnen und zulaßen, doch das s{oe}lichs eigentlich
+<fn>genau; s. <a>SI</a> I 147f.</fn> ufgeschriben und je zum halben jar (also ist es bißhar an andren ortten, wie sy ouch selb wol wüßent, gebrucht
+<fn>gehalten worden.</fn>), sampt dem costen in den tisch
+<fn>in den tisch: für die Verköstigung.</fn>, uns in guther rechnung von stuck zu stuck
+<fn>von stuck zu stuck: nach jeder einzelnen Position bzw. Ausgabe; vgl. <a>SI</a> VII 883 (oben) s.v. "Salz".</fn>, eins jeden sunderbar
+<fn>eins jeden sunderbar: für jeden separat.</fn>, überschickt. Wirt die bezalung daruf eigenntlich
+<fn>pünktlich; s. <a>SI</a> I 147f.</fn> erlegt werden.<zzl>zl17032-5E</zzl></p>
+</div>
+<div>
+<p>Hierinn und anderm von wegen unser g. hern nach unnserm vertrüwen üch bewysen,
+<fn>Gemeint ist: Was in dieser und in anderen Angelegenheiten von euch (worauf wir vertrauen) wegen unserer Herren erwiesen wird.</fn> das werdent wir, vorab
+<fn>vor allem; s. <a>SI</a> I 31.</fn> unser hern, zu großem dannck von üch ufnemmen und das in glichem und anderm ouch gegen üch beschuldenn
+<fn>vergelten.</fn>.</p>
+<p>Hiemit üch gott trüwlich bevelchende, datum 23. ianuarii 1547,</p>
+<un>üwere gutwilligen Sulpitius Haller,</un>
+<un>seckellmeister, unnd</un>
+<un>andre von rh{ae}ten,</un>
+<un>predicanten und gelertten,</un>
+<un>schulhern zu Bern.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Den hoch und wolgelertten, fürnemmen, wysen hernn meister Heinrichen Bullinger, predicanten, und andern gelerten unnd fürgesetzten der schulen in der statt Zürich, unsern günstigen, lieben und guten fründenn.</p>
+</div>
+</text>
+</brief>

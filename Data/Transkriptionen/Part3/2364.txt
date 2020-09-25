@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2364">
+<brief>
+<id>16055</id>
+<nr>2364</nr>
+<ae>Johannes Haller an [Bullinger]</ae>
+<od>[Augsburg], 1. März 1546</od>
+<vo>Autograph: Zürich StA, E II 370, 35f (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 112</k></dr>
+<re>Am [28.] Februar kam Haller [mit seiner Frau Elsbeth, geb. Kambli, Tochter Agnes und Marx Vogel] nach einer beschwerlichen Reise wegen der heftigen Windböen in Augsburg an. Sie wurden erneut sehr ehrenvoll vom Rat empfangen. Bis die Wohnung für sie eingerichtet ist, wohnen sie bei [Georg] Frölich. Es wurde sogar ein neues Haus für sie gebaut. [Alt]bürgermeister [Hans] Welser hat sich sehr dafür eingesetzt und beteiligt sich auch an der Einrichtung der Wohnung.
+<t/>[Wolfgang] Musculus hat Haller freundlich begrüßt. Wie er auf Bullingers Brief [<qv>nr2358</qv>] reagiert hat, weiß Haller nicht, da er ihm seitdem nicht mehr begegnet ist.
+<t/>In Memmingen wurde Haller von Gervasius [Schuler] mit Freude empfangen. Nachdem dieser Bullingers Brief [<qv>nr2361</qv>] zur Kenntnis genommen hatte, zeigte er sich nicht mehr, nicht einmal beim gemeinsamen Abendessen, obwohl er vorhatte, daran teilzunehmen. Schulers Kollegen wunderten sich darüber, nicht aber Haller, der den Grund für dieses Verhalten kennt.
+<t/>Nachrichten wird Frölich übermitteln. Auf den 1. April ist ein [Schmalkaldischer Bundes]tag zu Worms angesetzt, zu dem auch [Karl V.], begleitet von einem Heer, kommen wird. In der Diözese Bremen sollen neue Truppen gegen den Landgrafen [Philipp von Hessen] angeworben werden. Einem Brief aus Nürnberg zufolge ist Luther am 17. [richtig: 18.] Februar gestorben. Am [Zweiten] Regensburger [Religionsgespräch] wird vielerlei verhandelt. Bucer aber bleibt sich gleich. Der Herr möge die Kirchen vor den Antichristen und halben Christen bewahren!
+<t/>Haller sendet die von Bullinger gewünschten Bücher. Von den Buchhändlern aus Leipzig gibt es nichts Neues. Manche sagen, der Tod hätte Luther daran gehindert, seine [gegen die Sakramentierer begonnene Schrift] fertigzustellen; andere wiederum, er wäre durch die Bitten von Freunden davon abgehalten worden.
+<t/>Bullinger möge Hallers Eile verzeihen.
+<t/>[P.S.:] [Sebastian] Schertlin wird [Hans] Wilpert Zoller für ein Jahr zu sich nehmen. Die Augsburger Obrigkeit wird für die Kosten aufkommen. Doch dafür muss Zoller bei Bedarf Dienstleistungen für die Augsburger übernehmen. Das hat der Stadtschreiber [Frölich] berichtet.</re>
+<text>
+<p>S. <zzl>zl2364-1A</zzl><zzl>zl2364-6A</zzl>Venimus
+<fn>Nämlich Haller, seine Frau Elsbeth, geb. Kambli, und Töchterchen Agnes sowie ein Reiter namens Marx Vogel aus Zürich, den Hans Rudolf Lavater mit der Begleitung der Familie Haller beauftragt hatte; s. Zürich StA, Seckelamt Rechnungen F III 32, Rechnungsbuch 1545/46, S. 100, der Ausgabenabteilung. - Vgl. ferner <qv>nr2370</qv>,<qv>zl2370-6</qv>.<zfn>fn2364-3</zfn></fn> Augustam ultimo februarii, salvi quidem<zzl>zl2364-1E</zzl>, sed itinere valde difficili propter ventorum vehementiam
+<fn>Zum strengen Winter 1545/46 s. <qv>nr2332</qv> und <qv>fn2332-1</qv>; <qv>nr2337</qv> und <qv>fn2337-1</qv>.</fn>. Excepit nos honorificentissime iterum
+<fn>Nämlich wie schon im November 1545; s. <a>HBBW</a> XV 647,7-12. 649f.</fn> senatus.<zzl>zl2364-6E</zzl> Adhaec Laetus
+<fn>Georg Frölich.</fn> noluit pro solita sua humanitate et benevolentia, ut apud quemquam alium quam apud ipsum diverterem
+<fn>= deverterem.</fn>, donec omnia, quae ad rem domesticam attinent, abunde pararentur. <zzl>zl2364-2A</zzl>Aedesque construxere novas. Ornarunt interim splendide suppellectile et omnibus utensilibus comparatis; qua in re multum laboravit et adhuc laborat consul Welserus
+<fn>Altbürgermeister Hans Welser.</fn><zzl>zl2364-2E</zzl>. Praeterea omnes magna cum benevolentia indigno
+<fn>indigno: dem Unwürdigen. - Haller meint sich selbst.</fn> quamvis sua offerunt officia.</p>
+<p>Musculus
+<fn>Wolfgang Musculus.</fn> quid ad lectas literas tuas
+<fn>Bullingers Brief an Wolfgang Musculus vom 18. Februar 1546 (<qv>nr2358</qv>).</fn> responderit, ignoro;
+<fn>Musculus antwortete am 30. März 1546 (<qv>nr2399</qv>).</fn> nondum enim conveni interim eum, qui tamen humaniter me excepit.</p>
+<p>Gervasius
+<fn>Gervasius Schuler.</fn> Memming{e} cum gaudio nos suscepit magno. Postquam autem ei literas dedi tuas,
+<fn>Bullingers Brief an Schuler vom 20. Februar 1546 (<qv>nr2361</qv>).</fn> domum reversus. Postquam legisset, nunquam se amplius nobis praebuit aspiciendum, cum tamen promisisset se ad coenam venturum. Causam ego solus noveram
+<fn>Entgegen der Aussage Bullingers in seinem Brief an Schuler (<qv>nr2361</qv>,<qv>zl2361-1</qv>) wurde Haller also über den Inhalt des genannten Briefes in Kenntnis gesetzt.</fn> admirantibus reliquis fratribus, quod non adesset coenae.</p>
+<p><vl>35v.</vl> Nova certius ex d. Laeto intelliges.
+<fn>Siehe <qv>nr2367</qv> vom 2. März.</fn> <zzl>zl2364-4A</zzl>Comitia indicta sunt Wormatiae ad calendas aprilis,
+<fn>Gemeint ist der Schmalkaldische Bundestag; s. <qv>nr2351</qv>, <qv>fn2351-2</qv>.</fn> ad quae caesar
+<fn>Karl V.</fn> veniet numeroso stipatus exercitu.
+<fn>Vgl. <a>Wolrad, Regensb. RG</a> 312 (die Nachricht kommt ebenfalls aus Augsburg).</fn><zzl>zl2364-4E</zzl> <zzl>zl2364-7A</zzl>Aiunt praeterea novas quasdam copias colligi in diocesi Brämensi
+<fn>Bremen.</fn> contra langravium
+<fn>Philipp von Hessen.</fn>.<zzl>zl2364-7E</zzl> <zzl>zl2364-5A</zzl>Lutherum praeterea de vivis excessisse 17. februarii
+<fn>Luther starb in der Nacht vom 17. auf den 18. Februar 1546 kurz vor drei Uhr morgens.<zfn>fn2364-1</zfn></fn> literae quaedam ex Norinberga missae
+<fn>Nicht ermittelt.</fn> testantur.<zzl>zl2364-5E</zzl> Ratisbonae
+<fn>Am Zweiten Regensburger Religionsgespräch.</fn> dolose et perfide aguntur multa. Bucerus semper sibi similis est, quisquis tandem eius defendat conatus. Nos orabimus dominum, ut conservet ecclesias nostras ab impiis antichristianorum et semichristianorum machinis. Amen.</p>
+<p>Libellos, quos voluisti tibi mitti,
+<fn>Welche Bücher Bullinger gewünscht hatte, ist nicht bekannt.</fn> mitto. <zzl>zl2364-8A</zzl>Novi nihil attulerunt bibliopolae ex Lypsia. Quidam aiunt Lutherum morte praeventum, ne finiret, quod coeperat opus;
+<fn>Wohl die gegen die Sakramentierer (vgl. <qv>nr2332</qv> und <qv>fn2332-3</qv>; <qv>nr2335</qv> und <qv>fn2335-3</qv>; <qv>nr2351</qv> und <qv>fn2351-5</qv>; <qv>nr2355</qv> und <qv>fn2355-1</qv>) und kaum die angeblich gegen die Juden (vgl. <qv>nr2353</qv>) geplante Schrift Luthers.<zfn>fn2364-2</zfn> </fn> quidam amicorum precibus eum impeditum esse confirmant.<zzl>zl2364-8E</zzl> Utrum sit, gaudeo, si offendicula ab ecclesiis arceantur.</p>
+<p>Vale et ignosce; festinanter enim scripsi. Calendis martii 1546.</p>
+<un>Tuus ex animo Ioan.</un>
+<un>Hallerus.</un>
+<lz/>
+<p><vl>36r.</vl> <zzl>zl2364-3A</zzl>Negotium Wilperti Zolleri bene se habet.
+<fn>Siehe dazu zuletzt <qv>nr2351</qv>,<qv>zl2351-4</qv>.</fn> Schertlius
+<fn>Sebastian Schertlin.</fn> eum per annum habebit secum, non tamen ut servum. Sumptus ei suppeditabunt
+<fa><i>In der Vorlage</i> suppetabunt.</fa> domini Augustani, ita tamen, ut, si eius opus habuerint opera, inservire eis non detrectet.<zzl>zl2364-3E</zzl> Sic mihi retulit archigrammateus
+<fn>Georg Frölich.</fn>.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, Tigurinae Ecclesiae fidelissimo praesuli, domino et patri suo unice collendo. m. Heinrich Bullinger.</p>
+</text>
+</brief>

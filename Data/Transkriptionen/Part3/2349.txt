@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2349">
+<brief>
+<id>16039</id>
+<nr>2349</nr>
+<ae>Christian Hochholzer an Bullinger</ae>
+<od>Aarau, 9. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 332 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59,68. ==== Verweis: François Perrucel, dit de la Rivière, an Bullinger, 9. Februar "1546", "... tametsi tibi facie sim incognitus..." (so in: Straßburg BNU, Ms 682=Thes. Baum. 23, 332f), recte: 11. Februar 1560====</k></dr>
+<re>In der Angelegenheit [der Neubesetzung des Schulmeisteramtes an] der Schule [Aaraus] hat sich Hochholzer sehr engagiert. Doch wurde schließlich der von [den Bernern] unterstützte [Ulrich Trog angestellt], und Hochholzer kann sich dem nicht widersetzen. Er weiß nicht, was die Zukunft bringt, wird aber gemäß Bullingers Ratschlag versuchen, [Trogs] Sympathie zu gewinnen. Dieser ist noch ziemlich jung, scheint aber freimütig und gut zu sein, wenn er sich nur nicht von seinen geistlichen Vorgesetzten verführen lässt. Diese fördern nämlich nur Lutheraner, egal, wie ungebildet diese sein mögen, während der Berner Rat blind ist. Man erwartet eine Synode im kommenden Frühjahr, doch ob es dazu kommt, ist ungewiss, zumal diese wohl erst dann einberufen wird, wenn sich die [Lutheraner] ihrer Überzahl sicher sind, was nicht geschehen wird.
+<t/>Um die [Aarauer] steht es recht gut; doch ist zu befürchten, dass die meisten der stärkeren Partei folgen werden. Aufgrund der überall waltenden Undankbarkeit müssen, wie der Apostel [Paulus] sagt, die Menschen den Lügen Glauben schenken, weil sie nicht der Wahrheit glauben wollen.
+<t/>Auch Hochholzer geht es gut, obwohl er in Aarau nur wenig verdient und seine Gattin [Agathe, geb. Näf] je länger, je mehr in die Heimat [Zürich] zurückkehren möchte. Er selbst wäre einer Heimkehr auch nicht abgeneigt.
+<t/>Sicher kennt Bullinger schon die Nachricht, die den [Aarauern] brieflich von einem Bruder [...] mitgeteilt wurde: Dass [Herzog Heinrich von] Braunschweig in den Schmalkaldischen Bund aufgenommen werden will. Wenn das stimmt, wird es Schwierigkeiten geben, und [Heinrich] wird dem Landgrafen [Philipp von Hessen] nicht gern ein Lösegeld dafür zahlen.
+<t/>Grüße, auch von [Agathe], an die ganze Familie; ebenso an [Rudolf] Gwalther und an Hochholzers Lehrer.</re>
+<text>
+<p>Gratiam et pacem a domino. Multum diuque, domine et pater colende, laboravi in negotio ludi nostri;
+<fn>Vgl. <a>HBBW</a> XV, Nr. 2276. 2292.</fn> sed ita evenit, ut nosti. Receptus est, quem
+<fn>Ulrich Trog; s. <a>HBBW</a> XV 612f,23-40; 653f,6-16.</fn> alii
+<fn>Die Berner.</fn> voluere. Mearum non erat partium ipsum reiicere. Qualis futurus sit, haud dum exploratum habeo; tacet. Interim id, quod monuisti,
+<fn>Vermutlich in Bullingers nicht erhaltener Antwort auf Hochholzers Brief vom 21. November 1545 (<a>HBBW</a> XV, Nr. 2292).</fn> faciam sedulo; curabo omnibus modis me ipsius animo insinuare. Puerilis adhuc est plane; conabor ipsum domino lucrifacere. Maxime vitat frequentiam hominum, simplex videtur et bonus, nisi promissis maximis seduceretur. Id enim omnino fit apud episcopos
+<fn>Damit sind Pfarrer wie Simon Sulzer und Beat Gering gemeint.</fn> nostros: quod veritate obtinere minus datur, id artibus hominibus obtrudere conantur. Lutheranus aliquis indoctus, omnium rerum expers, parum etiam (fere dicerem) spectat{e} probitatis promovetur, ut optime habeat; veritatis studiosus, Luthero et huic similibus contrarius, doctus, probitatis spectat{e}, omnium rerum peritus, ab ipsis impeditur, male audit. Quod, si novum esset, maxime mirarer; sed veritas inde usque ab initio mundi exosa fuit mundo.
+<fn>Vgl. Joh 3, 19f. 14, 17. 15, 18f. 17, 14.</fn> Tanta est etiam et tam crassa senatus nostri Bernensis (alioqui prudentissimi) caecitas et ignorantia, ut interim, dum sua doceant illi, non animadvertant. Expectamus synodum appetente vere, verum, num futura sit, ignoramus. Parum etiam profuturam iudicamus. Non enim convocabimur, donec illi multitudine nos superandos fore iudicent; quod nequaquam fiet. Nam licet maior sit illorum pars, tamen veritas non multitudine vel paucitate aestimatur. Maior pars mundi errores amat.
+<fn>Joh 3, 19.</fn></p>
+<p>Nos satis recte habemus. Laus deo optime maximo! Metuimus tamen plurimos sequuturos maiorem partem, ut fieri solet; qualis princeps, talis populus
+<fn>Vgl. <a>TPMA</a> VI 54-56, Nr. 478-526.</fn>. Adhaec insignis nostra ingratitudo meretur, ut iuxta apostoli
+<fn>Paulus.</fn> verba mendaciis credamus, eo quod veritati credere nolumus.
+<fn>Vgl. 2Thess 2, 11f.</fn> Dominus sit nobis propitius.</p>
+<p>Aarovi{e}, quod ad res meas attinet, optime pro tenuitate stipendii habeo, sed nescio, qui fiat, ut uxor
+<fn>Agathe, geb. Näf.</fn>, quo diutius hic est, eo magis Tigurum redire cupiat; indies maiori desiderio patriae tenetur. Quod, etsi non valde expetam nunc, tamen suo tempore, si daretur, non omnino ingratum foret. Domini est terra.
+<fn>Ps 24 (Vulg. 23), 1.</fn> In vineam eius me misit,
+<fn>Vgl. Mt 20, 2.</fn> in ea, quantum mihi concesserit virium et donorum ex larga sua benignitate, ubicunque sim locorum, fideliter laborabo tam eruendo quam plantando
+<fn>Vgl. Jer 1, 10.</fn>. Me omniaque mea ut hactenus semper tibi commendo.</p>
+<p>Inter nova alia, quae certius tu cognovisti, per fratris cuiusdam
+<fn>Nicht ermittelt.</fn> literas
+<fn>Nicht ermittelt.</fn> allatum est ad nos Brunsvicensem
+<fn>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.</fn> efflagitare recipi in foedus Schmalkaldense. Quodsi ita res se habet, dimissus plurimum dabit turbarum nequam insignis, et landtgravio
+<fn>Philipp von Hessen.</fn> <gr>ăntílytron</gr>
+<fn>Lösegeld.</fn> non gratum appendet.</p>
+<p>Salutem dicas, rogo, meo uxorisque me{e} nomine toti famili{e} tu{e}. Salutabis et d. Gvaltherum simul et alios dominos et praeceptores meos venerandos. Vale cum omnibus tuis in domino. Aarovi{e}, 9. februarii 1546.</p>
+<un>Tuae humanitati deditissimus,</un>
+<un>Christianus Hochholzer.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, ecclesiae Tigurin{e} antistiti fidelissimo, domino ac patri suo colendissimo.</p>
+</text>
+</brief>

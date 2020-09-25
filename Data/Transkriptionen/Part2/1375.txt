@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1375">
+<nr>1375</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>nach 20. März 1540]</date>
+	<note>Daß der Brief ins Jahr 1540 gehört, ergibt sich aus den Bemerkungen zum Streit um die Doktorpromotion (vgl. unten Z. 1-6). Am 20. März stellte Basel in einem Schreiben an Kammergerichtsprokurator Christoph Hoos die Entsendung eines Boten in Aussicht (s.
+Basel StA, Missiven B 2, 312v.; vgl. unten Anm. 2); da Grynäus unten Z. 2 die Abreise des Stadtschreibers erwähnt, muß der Brief kurz nachher geschrieben worden sein.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 201 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 152</vo>
+<dr>Ungedruckt</dr>
+<re>Es wird weiter beratschlagt, was aus ihm werden soll, und nun wird wohl sogar Luther angefragt; er selbst besteht darauf,
+daß nur eine Doktorpromotion im kirchlichen Rahmen in Frage kommt. Dankt im Namen seiner Frau [Katharina] für das Buch ["Der
+christliche Ehestand"] und sendet ein Gegengeschenk für Bullingers Frau [Anna]. Mahnung zu brüderlicher Eintracht.
+</re>
+<tx>S. Nondum scio, quid sum. Deliberant, quid me velint
+facere. Credo, usque ad Lutherum ipsum consultum mittunt.
+Abiit notarius noster procul<f1>Stadtschreiber Ryhiner reiste nach Wimpfen, wo er bei Kammergerichtsprokurator Christoph Hoos einen kaiserlichen Urteilsbrief abholte; s. Basel StA, Finanz G 16, 327, und oben Anm. 1.<fe>. Expecto, quid
+denique fiat. Sum paratus more rituque ecclesięque<f1>Falls es sich nicht um eine bloße Verschreibung handelt, ist wohl zu
+verstehen: more rituque ecclesię doctor ecclesię fieri.<fe> doctor fieri et nunccupari[!]; pape more et ritu
+nolo, idque in eo magistratu, qui est proprius ecclesię<f1>Vgl. oben Nr. 1350, 18-34.<fe>. Hęc res si non potest valere apud eos, qui ecclesię
+renovationem profitentur, video tentari nos et aliud malum in hac re inesse.
+^$Mea<f1>Katharina, geb. Lompart.<fe> agit tibi gratias pro sancto munere<f1>Gemeint ist Bullingers Buch "Der
+christliche Ehestand"; vgl. oben Nr. 1366, 2-6 mit Anm. 1.<fe>; legit iam fere totum. Mitto tuę<f1>Anna, geb.
+Adlischwyler.<fe> hic munusculum<f1>Worum es sich handelte, ist nicht bekannt.<fe>, pro auro puro terrę scoriam.
+^$Vale in domino. Oro vos per charitatem Christi, ut in
+domino omnes tanquam veri et germani Christi discipuli
+conspiremus. Iterum vale et omnes saluta, omnes, inquam,
+fratres charissimos.
+<un>Gryn. tuus.
+<lz>[Adresse auf der Rückseite:] Domino H. Bullingero, amico et fratri charissimo.
+</content>
+</letter>

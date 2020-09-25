@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="932">
+<nr>932</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>10. Januar 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 32 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Wegen der Erkrankung seines Bruders [Konrad] und der Ausschreibung eines Bundestages, an dem über ein Konzil beraten
+werden soll, ist seine Entsendung nach Straßburg unterblieben. Wird bald wieder schreiben, reist aber zunächst zu
+Ambrosius [Blarer nach Tübingen]. Gruß. Sendet im Auftrag Wilhelms von Zell Geld für Leo [Jud]. Fragt nach Beispielen
+für fatale Konzilien.</re>
+<tx> S. Scripsi nuper<f1>Am 30. Dezember 1536 (HBBW VI, Nr. 930).<fe> me amandatum cum fratre germano<f1>Konrad
+Zwick.<fe> Argentoratum. Sed mala valetudo primum fratris impedivit legationem. Deinde, postquam restitutus est frater,
+veniunt litterę a principe electore<f1>Gemeint ist die von Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp
+von Hessen unterzeichnete Einladung zu einem Bundestag in Schmalkalden (Volz, Urkunden 79-81), die am 6. Januar in Konstanz
+eintraf; s. ^#/+Moeller,^#/- Zwick 192.<fe>, in quibus convocat, quicunque in evangelico illo fędere, ad consultandum
+de futuro concilio. Hinc nostri sumpta occasione legationem ad Argentinenses omnino differendam existimaverunt.
+^$Haec paucis scire te volui. Brevi addam alia<f1>Siehe unten Nr. 940.<fe>; iam enim ad Ambrosium<f1>Zu Ambrosius
+Blarer nach Tübingen.<fe> proficiscor.
+^$Vale millies cum omnibus fratribus.
+^$10. ianuarii 1537.<un>Tuus Io. Zwick.
+<lz>Hanc pecuniam dato Leoni<f1>Leo Jud.<fe>. Sunt, ni fallor, aurei quinque, quos mittendos illi misit Wilhelmus a
+Zell. Caeterum nullas litteras accepi pecuniae con­iunctas.
+^$Utinam conciliorum quorundam parum auspicatorum exempla a te habere possem!
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, fratri suo syncerissimo.
+</content>
+</letter>

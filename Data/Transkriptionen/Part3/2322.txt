@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2322">
+<brief>
+<id>16010</id>
+<nr>2322</nr>
+<ae>Sixt Birck an Bullinger</ae>
+<od>Augsburg, 4. Januar 1546</od>
+<vo>Autograph: Zürich StA, E II 346, 188 (ohne Siegel)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie); Xystus Betuleius = Sixt Birck</k></dr>
+<re>Birck hat sich sehr über Bullingers Grüße in dessen Brief an [Johannes] Haller [<a>HBBW</a> XV, Nr. 2302] gefreut und ist dankbar für Bullingers Zuneigung.
+<t/>Birck schreibt an Bullinger gemäß einer Bitte Hallers, und zwar nicht aus Ehrgeiz, sondern weil er schon einige Briefe Bullingers erhielt und Haller nicht ohne Antwort [nach Zürich] reisen lassen möchte, wenngleich die [Zürcher] wohl eher [Briefe] von Predigern als von Schullehrern erwarten.
+<t/>Über den Zustand der Augsburger Kirche wird Haller berichten. Mitteilungen über Haller selbst sind nicht nötig, da dieser den Zürchern bekannt ist. Doch ist hier hervorzuheben, dass der junge Haller der schwierigen Aufgabe, die ihm anvertraut wurde, so gut nachgekommen ist, dass auch ein Älterer es nicht besser hätte machen können. Durch sein Beispiel kann man nun besser begreifen, wieso Paulus nicht wollte, dass man seinen jungen Timotheus verachtete. Die [Augsburger] staunen, dass ein so junger Mensch dermaßen reif sein kann, theologisch so versiert und so redegewandt. Gerüchtweise hieß es, er sei der Sohn Zwinglis; vielleicht, weil tatsächlich von dessen Ankunft berichtet wurde; andere sagten, er sei der Sohn Blarers, weil er mit diesem vieles gemeinsam hat.
+<t/>Im Parteienzwist der [Augsburger] Kirche hat Haller sich so verhalten, dass nicht einmal seine Neider etwas anderes als die Lehre an ihm tadeln können. Haller wird gewiss anschaulicher als Apelles schildern, was seine Gegner am Zürcher Glauben auszusetzen haben. Er wird noch manches erleben, das seine Tugend und Beständigkeit auf die Probe stellt. Birck vermutet, dass Haller allen Anstürmen standhaft trotzen wird, auch wenn die [Augsburger] Kirche wegen seiner Anwesenheit noch einiges durchzumachen hat.
+<t/>Bullinger möge Bircks private Meinung über Haller gut aufnehmen.</re>
+<text>
+<p>S. <zzl>zl2322-1A</zzl>Non ita pridem, venerande pater, Hallerus noster ex literis ad se datis
+<fn>Bullingers Brief an Johannes Haller vom 4. Dezember 1545, in dessen Abschrift (<a>HBBW</a> XV, Nr. 2302) der Schluss fehlt, erwähnte sowohl Bullingers Kopfschmerzen als auch diese Grüße; s. <a>HBBW</a> XV 695, Anm. 22.</fn> salutem tuis verbis precatus est, quae res, ut par erat, delectabat me plurimum. Sunt enim eiusmodi salutandi officia signa quaedam haud parum certa cuiusdam sinceri amoris. Gratulor itaque mihi de tuo amore. Quo te amore complexus sim ab eo usque tempore, quo tuum mihi innotuit nomen, qua veneratione sim prosequutus, satis est cordium cognitorem
+<fn>cordium cognitorem: Vgl. Apg 15, 8.</fn> scire.<zzl>zl2322-1E</zzl></p>
+<p>Hallerus mihi noster institit, ut tibi scriberem; quod alioqui facturus eram, non ambitiose illud quidem, quanquam merae cuiusdam sit ambitionis, si minores ad superiores temere literas dare solent. Sed quia semel atque iterum me quoque literis tuis es dignatus, non abs re fore arbitratus sum, si ad te meas missitarem literulas rebus id ita postulantibus. Nam inhumanitatis cuiusdam esse videri posset, si Hallerum sine literis dimitterem,
+<fn>Haller reiste kurz nach dem 5. Januar nach Zürich zurück.</fn> quanquam hoc officium ab aliis potius, nempe concionatoribus expectandum vobis
+<fa>vobis <i>über der Zeile nachgetragen.</i></fa> erat quam a ludimagistris, qui nullo in numero habentur.</p>
+<p>Neque est, quod expectes me de ecclesi{e} nostrae statu aliquid scripturum; quod Halerus ipse liquide declaraturus est. Neque necessitas aliqua postulat quicquam de Hallero scribere, qui vobis magis quam nobis spectatus atque percognitus est, sed quia iuvenis est et tam difficilibus temporibus in eam a vobis missus provintiam, quae non iuvenem aliquem propter hominum plerorumque improbitatem requirit, sed veluti bovem lassum
+<fn>bovem lassum: Anspielung auf 1Kor 9, 9f; 1Tim 5, 17f.</fn>, qui pedem fortius figere solet
+<fn>veluti bovem lassum, qui pedem fortius figere solet: vgl. <i>Augustin,</i> Epistulae, 68, 2 (<a>CSEL</a> XXXIIII 242,10f).</fn>; sed vel huius exemplo animadvertimus Paulum suum Timotheum propter aetatem contemni noluisse.
+<fn>Vgl. 1Tim 4, 12.</fn> Nam sive eruditionem solidam spectes, cum quovis vetulo probe exercitato conferendus <vl>188v.</vl> est; si morum gravitatem, si modestiam, si humanitatem, si sanctitatem spectemus, nihil illi deest, vel si plurimos numeraret annos; verecundiam censenti virgo videri posset. Admirati sunt nostri homines in homine tam iuvene tantam esse maturitatem, tantas in solidiore theologia progressiones, tantam dicendi perspicuitatem et gratiam, ita ut eo poenitere merito posset, quod iuventutem suam ita negligenter curet. Ab initio rumor increbruerat Zvinglii ipsum esse filium, forte quia de ipsius quoque adventu fama iam vulgata fuerat.
+<fn>Huldrych Zwingli d.J. hatte Haller auf der Reise nach Augsburg begleitet; s. <a>HBBW</a> XV 632,35f.</fn> Alii Blaureri filium dixere, quia pleraque cum Blaurero communia habet. Et hoc nomine plerisque fuit gratior, praesertim vere et sane de pietate sentientibus.</p>
+<p><zzl>zl2322-2A</zzl>Sed quid de hoc dicam, quod in factionibus, quibus nostra ecclesia misere lacerata est, ita se gessit, ut ne aemuli habeant, quod in ipso praeter dogmata reprehendant? Caeterum, quid aemuli adversus non tam ipsum quam adversus Tygurinam confessionem moliti sint, ipse haud dubie ita depinget, ut ne Apelles
+<fn>Der griechische Maler Apelles (4. Jh. v. Chr.) galt als der bedeutendste Maler der Antike.</fn> quidem possit magis graphice. Habebit, quo exerceatur et quo virtus divinitus illi indita magis elucescat. Missuri ipsum estis in eam scholam, in qua virtus ipsius atque constantia probetur. Quid multis? Ego ita nostrae ominor ecclesi{e}, ut, licet aliquas passura sit propter ipsum concussiones, ipse tamen veluti acheneus murus
+<fn>acheneus murus: <a>Adagia</a> 2, 10, 25 (<a>ASD</a> II/4 292f, Nr. 1925).</fn> nulli importunitati cessurus sit.<zzl>zl2322-2E</zzl></p>
+<p>Haec mea ludimagistri privata de Hallero censura est. Boni consule. Vale.</p>
+<p>Augusta Vindelicorum, 4. ianuarii 1546.</p>
+<un>Tuus ex animo X. Betul.</un>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Johannes Haller nahm diesen Brief bei seiner Rückreise nach Zürich mit.</fn></p>
+</text>
+</brief>

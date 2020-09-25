@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2014">
+<nr>2014</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>15. Oktober 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 247 (Siegelabdruck)</vo>
+^&xK: Zürich ZB, Ms S 56, 14; Straßburg BNU, Ms 674 (Th. B. 15), 110^&x{
+<dr>Ungedruckt</dr>
+<re>Schickt Cochläus' Buch ["Ein kurtze Replica auff die langen Antwort Heyntzen Bullingers"?]; Cochläus ist ein eitler Prahler, der die Luzerner für sich gewinnen möchte, um dadurch Bullinger noch mehr anzufeinden; auch schmähte er Zwingli, Oekolampad und die [eidgenössischen] Kirchen in seinem Buch gegen Musculus ["Sacerdotii ac sacrificii novae legis defensio"]. Die Italiener und Spanier kehren scharenweise aus dem Krieg zurück, über die [eidgenössischen Soldaten] ist nichts zu vernehmen; der französische König [Franz^#. I.] führt sein ganzes Heer gegen den englischen [König Heinrich^#. VIII.]; dieser sei nach England geflohen, das französische Heer setze ihm nach und habe das fast völlig zerstörte Boulogne belagert; heute ist ein Adliger [...] aus dem Lager der Eidgenossen gekommen; was Gast von diesem erfährt, wird er Bullinger mit den nächsten Boten schreiben. Der Hausrat von Paul Fagius wird heute per Schiff nach Straßburg transportiert; Gast fragt sich, warum Fagius die so gut eingerichtete Konstanzer Kirche verlässt, aber vielleicht hat er Gründe, die Gast nicht kennt. Grüße.
+</re>
+<tx>S. Libellum furiosi Cochlei contra te scriptum<f1>Wohl "Ein kurtze Replica auff die langen Antwort Heyntzen Bullingers"; s. oben Nr. 2004, Anm. 1.<fe> mitto;
+si habes, remitte; nam nullum alium Cochlęi librum invenio
+contra te scriptum. Gloriabundus est miles<f1>Vermutlich eine Anspielung auf Plautus' Komödie "Miles gloriosus".<fe>; Lucernanos sibi
+conciliare cupit, quo maiorem invidiam tibi conflet.
+Proscidit et in libro contra Musculum de sacrificio
+missę<f1>1542 wurden Wolfgang Musculus' "Zwo Predigt von der Bepstischen Messe zu Regensburg auff dem Reichstag im jar 1541. am ersten und andern tage des Brachmonats gethan" in Wittenberg bei Veit Kreutzer gedruckt (VD 16 M 7315), welche 1543 in Augsburg wieder aufgelegt wurden (VD 16 M 7316). - Zu Cochläus' Widerlegung dieser Veröffentlichung s. oben Nr. 2010, Anm. 23.<fe> et Zvinglium et Oecolampadium cum nostris
+ecclesiis. O insulsum caput! Apparet in iis, quam sinistre
+theologos veteres ex nativa malitia invertat. Verum melius
+ea perpendis quam ego, cui maior cognitio divinarum rerum et
+fęcundius ingenium ad deprehendendum dolos.
+^$Itali et Hispani ex militia redeunt catervatim; valde
+locupletes sunt; de Helvetiis nostris nihil certi audimus.
+Gallus<f1>König Franz^#. I.<fe> totum exercitum contra Anglum<f1>König Heinrich^#. VIII.<fe> ducit. Aiunt Anglum
+aufugisse in Angliam, exercitum Gallicum subsequi, Boloniam<f1>Boulogne (heute Boulogne-sur-Mer, Dép. Pas-de-Calais).<fe>
+civitatem obsedisse, quę fere omnino diruta per
+bombardas<f1>Steingeschütze. - Vgl. dazu ^#/+Rozet/Lembey^#/- 384.<fe>.<f1>König Heinrich^#. VIII. hatte Nordfrankreich angegriffen und Boulogne lange belagert. Die Stadt fiel aber erst am 14. September 1544. Ende September zog sich Heinrich^#. VIII. nach England zurück. Anfang Oktober belagerten die Franzosen Boulogne, jedoch vergebens; s. ^#/+Rozet/ Lembey^#/- 188, 503, 505; J[ohn] J[oseph] ^#/+Scarisbrick,^#/- Henry VIII, London 1968, S.^#. 447f.<fe> Quid futurum sit, nescimus per hyemem. Verum
+hodie quidam nobilis<f1>Unbekannt.<fe> ex castris Helvetiorum venit, quem
+alloquar; siquid, quod verisimile fuerit, dixerit, tibi
+proximo tabellione scribam.
+^$Pauli Fagii suppellex hac die navigio descendit Argentinam.<f1>^&!s(-60)Vgl. oben Nr. 1976, Anm. 5; 2007, Anm. 5.^&!s(+0)<fe>
+Miror, quomodo Constantiensem ecclesiam tam bene constitutam
+deserere potuerit quave conscientia id fecerit. Fortassis
+habet certas rationes, quę me fugiunt.
+^$Vale in domino cum uxore<f1>Anna, geb. Adlischwyler.<fe> et liberis<f1>Zu Bullingers Kindern s. oben Nr. 1838, Anm. 19.<fe>. D. Theodoro<f1>Theodor Bibliander.<fe>
+salutem ex me dicito.
+^$Basileę, 15. octobris 1544.
+<un>Tuus Gastius.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho
+Bullingero, Tigurinae ecclesiae pastori vigilantissimo,
+praeceptori suo perpetuo colendo. Zurich.
+</content>
+</letter>

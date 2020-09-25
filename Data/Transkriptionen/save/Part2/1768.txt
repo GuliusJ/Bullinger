@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1768">
+<nr>1768</nr>
+<correspondents>
+	<originator>Johannes Travers</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>5. August 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365a, 431f (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 65</vo>
+<re>Bedankt sich für die in Bullingers Briefen an [Johannes] Comander und [Johannes] Blasius an ihn gerichteten Grüße und schätzt sich glücklich, mit Bullinger in Freundschaft verbunden zu sein. Möchte drei oder vier dreizehnjährige Jungen - darunter seinen Sohn [Johannes] -, die bislang von Philipp [Gallicius] unterrichtet worden sind, zur weiteren Ausbildung nach Zürich schicken; bittet Bullinger, sich nach einem geeigneten Kostgeber umzusehen und ihm seinen Vorschlag sowie die Kosten mitzuteilen; die Knaben würden um den 29. September aufbrechen; [Johannes] Blasius wird in Zukunft die an Travers gerichteten Briefe weiterleiten. Gruß.
+</re>
+<tx>[Gedruckt<f1>Mit Datierung 15. August 1543.<fe>: Graubünden, Korr. I 52f, Nr. 39.]
+</content>
+</letter>

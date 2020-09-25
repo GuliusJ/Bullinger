@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="29021b">
+<nr>29021b</nr>
+<correspondents>
+	<originator>Gervasius Schuler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lenzburg</place>
+	<date>8. Februar 1559</date>
+	<note>[richtig: 1554, dorthin verschoben!]</note>
+</space_time>
+<vo></content></vo>
+</letter>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2260">
+<nr>2260</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>4. Oktober 1545</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), ^$^$^$^$Ms 35 (VBS VI), 63 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 393, Nr. 1223</dr>
+^&xKopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 116v.; Ms S 58, 62; Zit./Lit.: Kammerer, Die Reformation in Isny, Isny 1931, 31; Peter Frei, Conradus Clauserus, 1997, 23f^&x{
+<re>Der gelehrte und unbescholtene Zürcher Pfarrer Konrad Klauser ist auf dem Weg nach Isny, wo er als Pfarrer wirken wird, wenn man Gefallen an ihm findet. Als Herold der schwäbischen Kirche soll Blarer ihn beraten und weiterempfehlen.
+-^#. Am 11. Oktober findet eine Tagsatzung in Baden statt, wo über das üble Verhalten des Statthalters von Mailand [Alfonso d'Avalos] gegenüber eidgenössischen Bürgern, die von ihm eine Zeitlang gefangen gehalten wurden, diskutiert werden soll. Auch müssen die evangelischen Orte sich überlegen, wie sie auf eine Einladung, dem Schmalkaldischen Bund beizutreten, reagieren sollten.
+-^#. Herzog Charles [II.] von Orléans soll an einer Vergiftung gestorben sein. [Franz I.] erduldet wohl ein ähnliches Schicksal wie [König] Jerobeam, welcher seinen Sohn Nadab verlor.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+Tandem datus est Isnacensi ecclesiae minister, hicd. Conradus Clauserus Tigurinus,<f1>Siehe unten Anm. 19.<fe> qui iam mittitur, ut audiatur, si forte placere possit.
+Vir est Graecę et Latinae lingue doctus,<f1>Siehe oben Nr. 2143, Anm. 3.<fe> lectionis multae, scripturarum satis peritus,
+vitae integrae, et a puero in bonis et piis studiis ab optimis praeceptoribus institutus.
+Praecipuam suam spem ponit post Christum in tuam dilectionem et fidem.
+Proinde commendo tibi hominem, ut ipsum instituas, quomodo versari possit magno cum fructu in illa ecclesia<f1>In Isny; s. oben Nr. 2249, 44-54.<fe>.
+Nosti tu quidem id, si quis alius, velut primus evangelii per Sueviam preco<f1>= praeco.<fe>.
+Humanus alioqui et fidelis est, constans et multi laboris, neque ingratus erit tuis laboribus.
+Si videbitur utile, commenda tu illum quoque amicis tuis per literas.<f1>Der Rat von Isny hatte Zürich am 7. September um einen Pfarrer gebeten; s. oben Nr. 2249, Anm. 24. Am 22. September erfährt man aus einer von Bullinger verfassten Notiz (Zürich StA, E I 30.48, Nr. 6), dass [wohl die Zürcher Herbstsynode] den Pfarrer Hans Breitenweg von Gossau für diesen Posten vorschlug. Bürgermeister und Rat von Zürich baten aber um weitere Vorschläge. Genannt wurden: Jakob Leu, Pfarrer in Thalwil; Heinrich Strübi, Pfarrer in Eglisau; Konrad Klauser, Pfarrer in Elsau bei Winterthur; und Hans Kopf, seit kurzem Pfarrer in Dietikon (wohin er wegen eines Ehebruchs versetzt wurde; s. HBBW VII 70, Anm. 2). Mit Ausnahme Kopfs und Klausers, die 1574 bzw. 1567 starben, waren die anderen Kandidaten wohl älter, da sie alle zwischen 1548 und 1551 verstarben. Der Rat entschied sich für Klauser. Über diesen bemerkte Bullinger (aaO): "in den Sprachen gelert, wol geuͤbt mit predgen, eins frommen gmuͤth, styff in der leer und gottsfoͤrchtig; doch manglet uns an imm, das er ettwas unpaͤrtiger [ungehobelt] ist". Am 14. Oktober 1545 schickte Isny Klauser mit einem Brief wieder zurück mit der Begründung, dass man sich über den Lohn nicht einigen konnte; s. Zürich StA, A 202/3, Nr. 3. - Siehe auch Peter ^#/+Frei,^#/- Conradus Clauserus Tigurinus (ca. 1515-1567). Pfarrer, Schulmann, Gelehrter, Zürich 1997 - Njbl. der Gelehrten Gesellschaft in Zürich 160, S. 23-25.<fe>
+^$Comitia celebrabuntur a Helvetiis Badenae 11. octobris.<f1>Vgl. auch unten Nr. 2262, 10. - Die Tagsatzung begann aber erst am 19. Oktober; s. EA IV/ld, 542-553.<fe>
+Der marggis de la Quasta<f1>Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter von Mailand.<fe>, stathalter in Meyland, schlecht<f1>schlecht ... ab: schlägt ab, verbietet.<fe> unseren vogthyen aͤnet dem berg<f1>änet dem berg: jenseits der Alpen.<fe>
+allen feylen kouff<f1>feylen kouff: freien Handel.<fe> ab by haͤncken. Brucht ettliche unnachpurliche stuck<f1>Handlung.<fe> wider die unseren und ire voͤgt.
+Ettliche der unsern hat er uff unserm grund gefangen, doch by langem<f1>by langem: endlich.<fe> wider lassen uußkummen, etc.<f1>Siehe EA IV/1d, 542f. 557ff; Zürich StA, B VIII 224, f. 135v.-137r., Nr. 3. - Dort erfährt man, dass Beamte aus Mendrisio mehrere Eidgenossen auf helvetischem Boden festnahmen und sie nach Mailand verschleppten, wo sie eingesperrt und erst nach Zahlung von 11 Kronen freigelassen wurden. Offensichtlich handelte es sich dabei um Kaufleute, die Lebensmittel aus dem Herzogtum Mailand importierten oder zu importieren versuchten, und zwar in einer Zeit der Lebensmittelknappheit (s. oben Nr. 2088 und Anm. 21; 2089; 2150, 20-22; 2212; 2215, 23f; 2224 und Anm. 16), zumal der Abschied der Tagsatzung unmittelbar danach berichtet, dass "der Marquis del Guasto und die Gubernatoren im Herzogthum ein Mandat haben ausrufen lassen, es dürfe niemand Korn oder anderes Getreide im Herzogthum kaufen, noch den Eidgenossen zuführen bei Strafe des Hängens, und ein Kaufmann, der sich dagegen vergangen, wirklich gehängt worden ist" (EA IV/1d 542).<fe>
+So werdent sich ouch die evangelischen stett besonders<f1>separat.<fe> underreden, so man den Schmalkaldischen pundt traͤngen woͤlt, wie sy sich ind<f1>in die.<fe> sach schicken, etc.<f1>Der Konstanzer Matthäus Molckenpur hatte sich im Namen des Schmalkaldischen Bundes bei den evangelischen Eidgenossen erkundigt, was der Bund im Falle eines Angriffs des Kaisers von den Eidgenossen erwarten könnte; s. oben Nr. 2227, 1-21 und Anm. 4; 2235, 6-14; 2240, 4f. Konstanz gab den evangelischen Eidgenossen im September 1545 zu verstehen, es sei, falls diese nicht gegen den Kaiser zögen, "für beide Theile Gutes zu hoffen: Der Streit betreffend das Sacrament dürfte beigelegt ... werden; wenn der Kaiser gegen einzelne Orte der Eidgenossenschaft ... ungnädiger Meinung sein wollte, so würden die protestirenden Stände solches ... zu verhüten trachten" (EA IV/1d 529, Nr. 1). Deshalb die hier aufgeworfene Frage, wie sich die evangelischen Eidgenossen verhalten sollten, falls man ihnen eine Aufnahme in den Schmalkaldischen Bund anbieten würde.<fe>
+^$Aiunt ducem Aurelianensem<f1>Charles II., Herzog von Orléans, geb. 1522, gest. an der Pest am 9. September 1545 in der Nähe von Abbeville (Dép. Somme); s. Alessandro Guidiccione, päpstlicher Legat in Frankreich, an [Kardinal Alessandro Farnese], 18. September 1545, in: Correspondance des nonces en France. Capodiferro, Dandino et Guidiccione, 1541-1546, hg. v. Jean Lestocquoy, Rome/Paris 1963 - Acta nuntiaturae Gallicae 3, S. 389-392, Nr. 204.<fe>, quem Helvetii e sacro fonte levarunt,
+non sine veneni suspitione in Galliis esse extinctum, unde merito novae turbae timentur a multis.
+Ego vero sentio Ieroboamum<f1>Jerobeam, ein Gott untreuer König Israels, dem die Vernichtung all seiner Nachkommen, darunter auch seines Sohnes Nadab, prophezeit wurde; s. 1Kön 14, 10f; 15, 25-30. - Mit Jerobeam wird auf Franz I. angespielt.<fe> fata Nadabi sui sic videre et brevi consequi oportere.
+Dominus Iesus servet nos!
+^$Tiguri, 4. octobris 1545.
+<un>Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Ambrosio Blaurero, fratri suo incomparabili. Costantz<fx>^#/+Darunter von Blarers Hand:^#/- 1545 Octobri.<fe>.<f1>Konrad Klauser übermittelte den vorliegenden Brief an Blarer; s. unten Nr. 2263, 1.<fe>
+</content>
+</letter>

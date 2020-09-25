@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1238">
+<nr>1238</nr>
+<correspondents>
+	<originator>John Butler</originator>
+	<originator>Nicholas Eliott</originator>
+	<originator>Nicholas Partridge und Bar­tholomew Traheron</originator>
+	<addressee>Konrad Pellikan</addressee>
+	<addressee>Leo Jud</addressee>
+	<addressee>Bullinger und Theodor Bibliander</addressee>
+</correspondents>
+<space_time>
+	<place>London</place>
+	<date>8. März [1539]</date>
+	<note>Das Jahr ergibt sich zweifelsfrei aus den im Brief übermittelten Nachrichten.</note>
+</space_time>
+<vo>Autograph Traherons<fx>Unterschriften je eigenhändig.<fe>: Zürich StA, E II 369, 16r.-17r. (Siegelspur)</vo>
+<re>Sie danken von London aus, wo sie sich getroffen haben, gemeinsam für die ihnen erwiesenen Dienste. In England werden, um Unruhen zu vermeiden, [katholische] Zeremonien zwar noch geduldet, aber als Zeichen gedeutet: Weihwasser, Brot und Paxtafel erinnern an das Heilsgeschehen; über die
+Priesterehe ist noch nichts entschieden, die Messe wird als Darstellung des Leidens Christi verstanden, und alle Bildwerke, die verehrt wurden, sind beseitigt worden.
+Die Papisten [Henry Courtenay], [Henry Pole] und Edward Neville wurden hingerichtet, ebenso Nicholas Carew, des Königs Stallmeister, der sich aber vor seinem Tod noch zum Evangelium bekannt hat.
+Man sagt, Franzosen, Italiener, Spanier und Schotten wollten gleichzeitig gegen England in den Krieg ziehen, doch ihre geheimen Pläne sollen König [Heinrich VIII.] zu noch kräftigerer Förderung der Reformation angespornt haben.
+Papst [Paul III.] veranlaßte die Verbrennung englischer Kaufleute in Spanien und stellte für die Tötung englischer Ketzer Sündenerlaß in Aussicht; doch England besitzt einen König von edler Gesinnung und militärischer Tüchtigkeit sowie ein loyales Volk.
+Die Kriegsnachrichten hinderten John Butler, nach Zürich, und Nicholas Partridge, zur Frankfurter Messe zu reisen.
+Ersterer könnte ein Amt beim König antreten, scheut aber das Hofleben, Nicholas Eliott befaßt sich mit dem englischen Recht, Bartholomew Traheron steht bei [Thomas] Cromwell, Partridge beim Bischof von St Davids [William Barlow] im Dienst; sie alle sind noch unverheiratet. Erzbischof [Thomas
+Cranmer], zur Zeit mit der Belehrung des Volks und der Abfassung englischer Gebete beschäftigt, hat Bullinger zu schreiben versprochen.
+[Theodor] Biblianders Brief wurde an Bischof [Hugh Latimer] weitergeleitet. Bitte um gute Aufnahme ihres Schreibens und Grüße.</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 404-406 bzw. Original Letters II 624-626, Nr. 287.]
+</content>
+</letter>

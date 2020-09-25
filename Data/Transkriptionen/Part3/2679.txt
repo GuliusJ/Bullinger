@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2679">
+<brief>
+<id>16366</id>
+<nr>2679</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Griesenberg"/> <date when="1546-11-16"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>Griesenberg, 16. November 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 208 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 532, Nr. 1371<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 83; Erw.: Stucki, Lavater 225 </k></dr>
+<re><t>Blarer befindet sich immer noch in Griesenberg bei seiner Schwester [Barbara], deren Mann [Heinrich von Ulm] am 14. November in seligem Vertrauen auf Christus verstorben ist. Blarer wird innerhalb der nächsten beiden Tage nach [Konstanz] zurückkehren. Bullinger soll sich also nicht verwundern, wenn er ihm keine Nachrichten mitteilt; doch wird dieser ja von [den Zürcher Ratsherren] auf dem Laufenden gehalten. Sobald Blarer wieder zuhause ist, wird er erneut eifrig berichten, es sei denn, Bullinger erhalte ohnehin ausführlichere Nachrichten von seiner [Obrigkeit].</t>
+<t>Bullinger möge für Blarer und für seine trauernde Schwester beten. Diese bittet Bullinger, Jakob Röist [den Ehemann ihrer Nichte Barbara] zu ermahnen, nicht aus der Art seines Vaters [Diethelm] zu schlagen. Man hört nämlich, dass Jakob sich durch schlechten Umgang vom rechten Weg abbringen lässt.</t>
+<t>Bullingers Bitte [um bessere Besoldung] von [Hans Rudolf] Lavaters Sohn [Wolfgang] hat Blarer an K[onrad] Zwick übermittelt und diesen nochmals schriftlich daran erinnert. Hätte Bullinger dies doch früher erwähnt, vor Zwicks Abreise nach Ulm! Von Angesicht zu Angesicht hätte sich das leichter verhandeln lassen.</t>
+<t>Grüße.</t></re>
+<text>
+<div>
+<p>Salve, mi venerande et charissime frater. <zzl>zl16366-1A</zzl>Adhuc Griessembergi apud optimam sororem
+<fn>Barbara von Ulm, geb. Blarer.</fn>, sed nunc moestissimam viduam, h{e}reo, cuius maritus Heinrichus
+<fn>Heinrich von Ulm.</fn> nudius tertius
+<fn>Am 14. November; s. auch <qv>nr2676</qv>,<qv>zl16362-1</qv>. <qv>zl16362-2</qv>.</fn> firma in Christum fiducia nixus feliciter promissam nobis in c{e}lis h{e}reditatem adiit.<zzl>zl16366-1E</zzl> <zzl>zl16366-3A</zzl>Ego cras aut postridie rursum domum redibo;<zzl>zl16366-3E</zzl> id quod significare tibi visum est, ne mireris me nihil diebus hisce ad te scripsisse de rebus novis, quarum tamen certiorem te faciunt tui
+<fn>Die Zürcher Ratsherren, die damals von den Konstanzern Ratsherren auf dem Laufenden gehalten wurden.</fn>. Domum reversus rursum diligenter curabo, ne me scribendi officiositate vincas, nisi quantum negocia ipsa vestratium maiorem tibi scribendi materiam suppeditant.</p>
+</div>
+<div>
+<p>Fac Christo me diligenter commendes. Commendat se sacris tuis precationibus germana mea <zzl>zl16366-4A</zzl>valdeque ob mariti mortem afflicta soror, rogatque plurimum, ut Iacobo Röstio
+<fn>Jakob Röist. - Er war mit Barbara, der Tochter von Hans Jakob von Ulm (Heinrichs Bruder) und demzufolge mit der Nichte der soeben verwitweten Barbara von Ulm verheiratet; s. <qv>nr2644</qv>,<qv>zl16334-4</qv>. Nach Hans Jakobs Tod 1539 wurde Heinrich von Ulm Barbaras Vormund; s. <a>HBBW</a> XII 90, Anm. 22.</fn> sedulus monitor adsis, ne ab optimi patris
+<fn>Diethelm Röist, ehemaliger Bürgermeister von Zürich, verstorben am 3. Dezember 1544; s. <a>HBD</a> 32,11-13.</fn> ingenio degeneret. Nam audimus illum quorundam parum frugi hominum contubernio transversum rapi ab eo itinere, quod iam inde a puero ingressus fuit. In rem igitur illius fuerit quamprimum reduci in viam.<zzl>zl16366-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16366-2A</zzl>Qu{e} de Lavateri
+<fn>Hans Rudolf Lavater.</fn> filio
+<fn>Wolfgang.</fn> rogasti, officiose apud C[onradum] Zvic meum egi,
+<fn>Bullinger hatte Blarer am 1. November gebeten, Zwick dazu zu bewegen, an den Konstanzer Kriegsrat in Ulm zu schreiben, um für den in schmalkaldischem Dienst stehenden Wolfgang Lavater eine bessere Besoldung aus Standesgründen zu erwirken; s. <qv>nr2652</qv>,<qv>zl16341-7</qv>.</fn> quem hinc quoque literis rursum admonui,
+<fn>Ein solcher Brief findet sich nicht in <a>Blarer BW</a>.</fn> ut ne excidere sibi permittat. Atque utinam paulo tempestivius, hoc est antequam Conradus Zviccius Ulmam nuper profectus est, huius me admonuisses! Poterat enim praesens multo felicius negocium hoc conficere.<zzl>zl16366-2E</zzl></p>
+</div>
+<div>
+<p>Bene vale, mi Bullingere, et domum tuam cum omnibus fratribus et amicis reverenter et amanter saluta. Griessembergi, 16. novembris 1546.</p>
+<un>Tuus Ambr. Bl.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Heinricho Bullingero, Tiguricensium antistiti, amico incomparabili.</p>
+</div>
+</text>
+</brief>

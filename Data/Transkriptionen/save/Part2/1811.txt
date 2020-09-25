@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1811">
+<nr>1811</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>7. November 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 262r.-v. (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 178^&x{
+<dr>Ungedruckt</dr>
+<re>Teilt einen Brief [aus Straßburg] mit: [Der Briefschreiber] hat bei Bucer ein gedrucktes Exemplar des Kölner
+Reformationsentwurfs gesehen, der jedoch erst nach seiner Überreichung an die Kurfürsten und Fürsten veröffentlicht
+werden soll; die lateinische Übersetzung Bucers soll als preisgünstigere Ausgabe erscheinen. Man weiß nicht, ob sich
+Kaiser [Karl V.] gegen [König Franz I.] wenden oder nach einem Friedensschluss mit diesem die Protestanten angreifen will; in
+den Niederlanden hat er scharfe Edikte erlassen, und in Löwen wurden Gläubige hingerichtet; [Herzog Wilhelm von Jülich und]
+Kleve wurde verpflichtet, Ansätze zu einer Reformation rückgängig zu machen; es heißt, [König] Ferdinand trete dem
+Türken [Sultan Suleiman I.] mit einem starken Heer entgegen, doch sein Vorgehen ist verkehrt. In Metz hat der kaiserliche
+Kommissar Charles de Boisot den Prediger [Watrin Dubois] vertrieben und ein Mandat erlassen, mit dem das Papsttum wieder
+aufgerichtet werden soll; einige Frauen blieben standhaft, wofür einer von ihnen die Zunge abgeschnitten wurde; solches
+entspricht zwar vielleicht nicht dem Willen des Kaisers, doch der Rat vergisst in seinem Hass sogar das Wohl der eigenen
+Stadt. In Ulm, Nürnberg, Lindau und anderswo nimmt die Pest zu. Soweit der Brief [aus Straßburg] vom 1. November; was Bucer
+geschrieben hat, wird Myconius mitteilen. Martin Peyer meinte, die Zürcher hätten Luther mit einem goldenen Pokal oder
+einem Seidengewand mehr Freude bereitet als mit [der "Biblia sacrosancta"]. Grüße.
+</re>
+<tx>S. in domino.
+^$Hęc ad me scripta sunt<f1>Das Original des nachfolgenden Briefes scheint nicht erhalten zu sein. Beim Verfasser, der
+Bucer nahestand (vgl. unten Z. 6f), dürfte es sich um Konrad Hubert gehandelt haben, mit dem Gast in regem Briefwechsel
+stand (vgl. die zahlreichen Briefe von Gast an Hubert in Straßburg Stadtarchiv, AST, Nr. 157 und 160).<fe> iis diebus:
+^$"Reformatio Coloniensis Germanice tota est impressa;<f1>Zur Drucklegung des Kölner Reformationsentwurfs s. oben Nr. 1773,
+8f mit Anm. 6; 1789, 4-6 mit Anm. 5.<fe> eam ego vidi apudd. Bucerum, sed nulla omnino distrahetur, antequam proximis in
+comitiis<f1>Zum Reichstag von Speyer s. oben Nr. 1806, Anm. 20.<fe> Coloniensis elector<f1>Erzbischof Hermann von Wied.<fe>
+singulis electoribus et principibus exemplum ad legen­dum exhibuerit. Eam etiamd. Bucerus vertit in Latinam linguam,
+quę aedita compressius vilius vendetur.<fx>^#/+Vor^#/- vendetur ^#/+ein gestrichener Wortanfang.^#/-<fe><f1>Zu Bucers lateinischer Übersetzung des Reformationsentwurfs vgl. oben Nr. 1803, 6-9.<fe>
+^$De caesare<f1>Karl V.<fe> quod certi scribam, nihil habeo. Quidam eum dicunt subinde hostem suum Gallum<f1>König Franz
+I.<fe> vi et armis impetere et non quieturum, donec eum conficiat; alii vero dicunt iam inter eos tractationem de pace
+constituenda; qua facta eum moliturum aliquid contra protestantes quibusdam indubitatum est. Quam ferociat caesar ex
+victoria parta,<f1>Gemeint ist der Sieg im geldrischen Erbfolgestreit; vgl. bes. oben Nr. 1785, 11-32.
+49-58.<fe> sunt non levia indicia in Inferiori Germania, ubi sęvissima edicta promulgari audimus in
+veritatis evangelicę studiosos.<f1>Die rechtliche Grundlage für die Verfolgung der Protestanten bildete nach wie vor das Ketzeredikt von 1540 (zu diesem s. HBBW X, S. 204, Anm. 14).<fe>
+Lovanii dicunt propter confessionem Christi duas matronas
+vivas esse sepultas, duos viros ob eandem doctrinam
+decollatos.<f1>Nach einem Prozess gegen 28 Verdächtige waren in Löwen fünf Protestanten hingerichtet worden: Jan Schats und Jan
+Vicart wurden erwürgt und verbrannt, Antonia van Roesmals und Katharina Metsys lebendig begraben und Jan Bayaerts enthauptet.
+Ausführlich berichtet darüber Francisco de Enzinas (Dryander) in: Mémoires de Francisco de Enzinas. Texte latin inédit avec
+la traduction française du XVI^#'e siècle en regard. 1543-1545, hg. v. Ch[arles] Al[cée] Campan, Bd. I/1, Brüssel 1862, S.
+13-119 (die Prozessakten ebd., Bd. I/2, S. 275-641); Francisci Enzinatis Burgensis Historia de statu Belgico deque religione
+Hispanica, hg. v. Franciscus Socas, Stuttgart/Leipzig 1991. - Bibliotheca scriptorum Graecorum et Romanorum Teubneriana, S.
+5-33. Vgl. auch unten Nr. 1812.<fe> Clivensi<f1>Herzog Wilhelm von Jülich, Kleve und Berg.<fe> in­iunctum est, ne
+Christum recipiat, et ubi receptus est, rursus finibus eiiciat.<f1>Entsprechende Bestimmungen waren Teil des
+Vertrags von Venlo; zu diesem s. oben Nr. 1785, Anm. 23.<fe> Quam alii reges et principes ad evangelii vel mentionem saeviant, dudum compertum habes. Ferdinandum ferunt exercitum
+instructissimum 60'000 duxisse Posanium usque<f1>In Bratislava (Pressburg) hatte König Ferdinand ein Heer für einen Zug gegen
+die Türken in Ungarn aufstellen lassen. Der geplante Feldzug musste allerdings aufgeschoben werden; s. ^#/+Bucholtz^#/- V
+199-202.<fe> Turcę<f1>Sultan Suleiman I.<fe> occursurus, verum hoc post festum, et tum, cum opus habebit copiis et
+milite, nulli erunt; ita omnia praepostere. Sed ea via est ad pernitiem populo iam deo dicto vale.
+^$Meti crudelissima fiunt a legato quodam caesareano Carolo Boiset<f1>Charles de Boisot, gest. 1546, Doktor der Rechte, war
+seit 1531 Mitglied des Großen Rats von Mecheln und seit 1538 Staatsrat und Geheimer Rat Kaiser Karls V. 1543 wurde er nach
+Metz entsandt, um den reformatorischen Bestrebungen entgegenzutreten und die Stadt dem Kaiser gefügig zu machen. -
+Lit.: Michel ^#/+Baelde,^#/- De collaterale raden onder Karel V en Filips II (1531-1578), Brüssel 1965. - Verhandelingen van de
+Koninklijke Vlaamse Academie voor wetenschappen, letteren en schone kunsten van België, Klasse der letteren, Nr. 60, S.
+236; zur Boisots Auftreten in Metz: Henri ^#/+Tribout de Morembert,^#/- La réforme à Metz, Bd. 1: Le Luthéranisme, Nancy
+1969. - Annales de l'Est, Mé­mo­­ires 36, S. 195-200.<fe> equite dicto; is totus est in eradicanda funditus pietatis doctrina et
+invehendo rursus apud simplices minis et pęnis gravissimis papatum. Eiecit urbe illorum concionatorem<f1>Der Dominikaner
+Watrin Dubois, der seit 1541 evangelisch gepredigt hatte, wurde von Boisot aufgefordert, die Stadt innerhalb weniger Tage zu
+verlassen; s. ^#/+Tribout de Morembert,^#/- aaO, S. 199.<fe>, qui iam hic est; interdixit omnibus contionibus nos­trorum,
+conventibus, libris syncerioris doctrinę et cantionis,^&xcantionibus? Verboten wurden insbesondere die sogenannten "Marotines" (von Clément Marot in
+Versform gebrachte Psalmen) und ähnliche Gesänge.^&x{ verbis et dictis in veterem religionem, scholis rectis secundum
+pietatem<fx>^#/+Nach^#/- pietatem ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe>, cum[?] [- - -]<fx>^#/+Unleserlich; Johann Jakob Simler liest (wenig überzeugend)^#/- libertatibus ^#/+und korrigiert das nachfolgende^#/- alii ^#/+in^#/- aliis ^#/+(Zürich ZB, Ms S 53, 178).^#/-<fe> alii comparatis,
+bibliopolorum libris nostrę religionis et similia idque <vl>262v.</vl> obtento cęsareę ma­iestatis
+expresso mandato<f1>Das Mandat vom 13. Oktober ist gedruckt in: CO XI 635-638, Nr. 511^#'b^#'i^#'s; Corr. des réformateurs IX
+87-89; ^#/+Tribout de Morembert,^#/- aaO, S. 196-199. Vgl. auch unten Nr. 1812, Anm. a.<fe>. Interea multi infirmi relabuntur ad volutabrum et, quod miserum, aliquot etiam pfaffi, qui
+ad veritatem accesserant. Interea ut videatur omnipotentia
+dei inexhausta, confitentur etiam matronę quędam
+Christum intrepide, e quibus una ob Christi confessionem
+praescissa lingua nuper huc venit forti animo praedita,<f1>Wie Myconius am 23. November an Calvin schrieb, hatte die nicht
+namentlich bekannte Frau die päpstliche Messe geschmäht und war zunächst zum Tod verurteilt, anschließend jedoch zur erwähnten
+Strafe begnadigt worden; s. CO XI 650; Corr. des réformateurs IX 123.<fe> et singuli dies fere singula nova<fx>^#/+Vielleicht als^#/- singulam novam ^#/+zu lesen.^#/-<fe> apportant. Sunt,
+qui putent caesarem talia ignorare, non tam atro[cia]<fx-t>^#/+Randtext im engen Einband verdeckt.^#/-<fe> designare suum legatum cupere. Ve­rum senatus Metensis cupit vel suo damno et urbis libertatisque suę maximo detrimento odium suum expleri in calamitate et sanguine piorum.
+^$Audimus de peste Ulmę, Norinbergę, Lindavię et
+alib[i]<fx-x>^#/+Randtext im engen Einband verdeckt.^#/-<fe> recrudescente.
+^$Argentorati, calendis novembris 1543."
+^$D. Miconius reliqua, quę Bucerus scribit, significabit.<f1>In seinem Brief vom 8. November (unten Nr.
+1812) nimmt Myconius nicht explizit auf ein Schreiben Bucers Bezug. Gemeint ist offenbar der anonyme und undatierte Bericht
+über die Vorgänge in Metz, der, wie die übereinstimmende Faltung zeigt, dem erwähnten Brief von Myconius beilag (Zürich
+StA, E II 441, 40f; gedruckt in: Corr. des réformateurs IX 79-83, Nr. 1298). Verfasser dieses Berichts wäre demnach Bucer; die Abschrift wurde wohl in Basel angefertigt.^&xNr. 13102^&x{<fe>
+^$Si vos Tigurini Luthero aut uxori<f1>Katharina von Bora.<fe> illius poculum aureum aut sericam vestem misissetis, multo
+gratiorem rem ei fecisseti[s]<fx-x>^#/+Randtext im engen Einband verdeckt.^#/-<fe> quam libro isto transmisso.<f1>Zur unfreundlichen Aufnahme der "Biblia sacrosancta", die Christoph
+Froschauer im Auftrag der Zürcher Theologen an Luther gesandt hatte, s. oben Nr. 1797, 63-83.<fe> Hęc dixit Martinus Beyer<f1>Martin Peyer.<fe>.
+^$Salutad. Theodorum<f1>Theodor Bibliander.<fe> etd. Vadianum cum Pellicano et reliquis fratribus.
+^$7. novembris 1543.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse darunter:] D. Henrycho Bullingero zu Zurich.
+</content>
+</letter>

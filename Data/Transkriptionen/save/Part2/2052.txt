@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2052">
+<nr>2052</nr>
+<correspondents>
+	<originator>[Ambrosius Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>18./19. Dezember 1544]</date>
+	<note>Diese Beilage wurde an einem Freitagmorgen (s. Z. 2 und Anm. 6) verfasst, längere Zeit (s. Z. 4f), nachdem Musculus am 9. und 10. Dezember 1544 seine Briefe an Blarer und Bullinger verfasst hatte, jedoch vor (s. Z. 8) dem in Ulm am Montag, den 6. Januar 1545 geplanten Städtetag (s. oben Nr. 2036, Anm. 11). Dass es sich dabei nicht um Freitag, den 3. Januar 1545 handeln kann, geht aus Bullingers Brief vom 4. Januar hervor (Blarer BW II 339f, Nr. 1157), welcher offensichtlich auf die in dieser Beilage vermittelte Nachricht einer baldigen Abreise Zwicks zum Städtetag (unten Z. 6-8) Bezug nimmt; aus zeitlichen Gründen hätte nämlich Bullinger nicht einen Brief des Vortages schon beantworten können. Freitag, der 26. Dezember 1544 kommt auch nicht in Frage, da Blarer am Sonntag, den 28. Dezember einen Brief Bullingers beantwortete, der in Konstanz am 25./26. Dezember (allenfalls schon am 24.) eingetroffen war (s. unten Nr. 2054 mit Anm. 2). Dementsprechend ist vorliegende Beilage, die einem am Vortag verfassten Brief Blarers beigelegt wurde (der Bote präsentierte sich jedoch erst am Tag darauf; s. Z. 2), auf Freitag, den 19. Dezember 1544 zu datieren. Der hier vorausgesetzte Brief Blarers vom 18. Dezember entspricht vielleicht dem undatierten Brief oben Nr. 2050. Gegebenenfalls müssten zwei unabhängige Sendungen aus Augsburg vorausgesetzt werden: Eine erste via Memmingen mit Musculus' Briefen vom 9. und 10. Dezember, die erst am Abend des 18. Dezembers in Konstanz eintraf; eine zweite, die erst später von Hans Welser mit eigenem Boten veranlasst wurde und bald darauf, am 18. Dezember oder kurz zuvor, Konstanz erreichte.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 709 (Beilage) (Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 338<f1>Dort irrtümlich (s. Anm. 1) Blarers Brief vom 29. Dezember 1544 (unten Nr. 2056) zugeordnet.<fe></dr>
+<re>[Beilage:] Der Bote ist erst am Morgen erschienen; am Vorabend erhielt Blarer [zwei] Briefe von Musculus und ein Exemplar von dessen ["Anticochlaeus primus"].
+Wollte man mit [Konrad Zwick] bezüglich [seiner Kriegskunst] verhandeln, müsste dies demnächst geschehen, da dieser bald auf den Reichstag [zu Worms] und zuvor noch zum Städtetag verreisen wird.
+Musculus schreibt, er habe Bullinger brüderlich und mit Verhaltenheit geantwortet, ohne diesen - wie etwa Luther, dessen Verhalten Musculus nicht billigen kann - zu verurteilen.</re>
+<tx>[Brieftext fehlt oder mit oben Nr. 2050 identisch<f1>Siehe oben Anm. 1.<fe>]
+<lz>[Beilage:] Der bott<f1>Unbekannt.<fe> ist erst uff heut
+freytag fruͤ uffgewesen<f1>Zu verstehen: Bereit zur Abreise.<fe> und necht<fx>^#/+Vor^#/- necht ^#/+gestrichenes^#/- nechten.<fe><f1>Donnerstagabend, 18. Dezember 1544.<fe> sind mir schriben von
+Augspurg zuͦkommen, dero datum 10. decembris vom Musculo;<f1>Musculus' Brief an Blarer vom 10. Dezember 1544 ist außer dem unten Z. 11-14 wiedergegebenen Auszug nicht erhalten, während Musculus' Brief an Bullinger erhalten und vom 9. Dezember 1544 datiert ist (oben Nr. 2047).<fe>
+und sonst hat Gervasius<f1>Gervasius Schuler.<fe> die
+brieff so lang zuͦ Memmingen uffgehalten. Musculus ad me
+quoque exemplum<f1>Musculus' Schrift gegen Cochläus; s. oben Nr. 2047 mit Anm. 3.<fe> dedit.
+^$Wa man vyllicht gedechte, etwas mitt minem
+vetteren<f1>Konrad Zwick, betreffend seine Kriegskunst.<fe>
+zehandlen, muͤste man by zyt handlen; dann er<fx>^#/+Vor^#/- er ^#/+gestrichenes^#/- ich.<fe> wurt in
+kurtzen tagen uff den richstag<f1>Der Reichstag zu Worms; s. oben Nr. 1980, Anm. 22.<fe> verreyten müssen,<f1>Vgl. oben Nr. 2041, 6-10 mit Anm. 7; unten Nr. 2054, 59f. 179-188. 197-199.<fe>
+sonderlich diewyl<f1>weil.<fe> der stett tag vor wirt<f1>Damals in Ulm für den 6. Januar 1545 geplant; s. oben Nr. 2036, Anm. 11.<fe>. Gott schicks alles
+zum besten nach seinen grossen gnaden; den bittend für mich
+mitt truwen.
+^$Musculus<f1>In dessen Brief an Blarer; s. oben Anm. 7.<fe> ita inter cętera: "Bullingero respondeo tanquam
+fratri ea moderatione, ut et libertatem dicendi, quod sentio,
+retineam et aliter sentientes non damnem; admodum enim hac
+in re a Luthero dissentio, cuius calumniandi libidinem et
+impotentiam nullo pacto probare possum" etc.<fx>^#/+Darunter von Traugott Schieß' Hand:^#/- Zu 1544 Dec. 29. ^#/+- Siehe aber oben Anm. 1.^#/-<fe>
+^&x[ohne Unterschr.ift.]^&x{
+<lz>[Adresse auf der Rückseite:] Bullingero suo. Tiguri.
+</content>
+</letter>

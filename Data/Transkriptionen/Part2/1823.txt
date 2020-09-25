@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1823">
+<nr>1823</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>4. Dezember 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 198 (neu: 216) (Siegel)</vo>
+^&xK: Zürich ZB, Ms S 53, 194 (Anfang) und 192 (Schluss)^&x{
+<dr>Ungedruckt</dr>
+<re>Empfiehlt erneut [Martin?] Rischacher, der sein Studium wieder aufnahm, nachdem er das Schneiderhandwerk, zu dem
+ihn sein Vater gedrängt hatte, wegen der Augen aufgeben musste. Durch das Elsass ziehen eidgenössische [Söldner], obwohl Kaiser
+[Karl V.] und [König Franz I.] noch keinen Frieden geschlossen haben; ein gewisser Edelmann ist sehr betrübt, dass der Kaiser noch nicht König von Frankreich wurde.
+</re>
+<tx>S. Hic est, quem nuper tibi commendaram,<f1>Vgl. oben Nr. 1804, 1-20.<fe> iuvenis, filius inquam Alexandri de
+Rischach<f1>Martin(?) Rischacher; vgl. ebd., Anm. 2.<fe>. Ab initio dedit operam literis; impensę gravantes patrem
+impulerunt, ut doceret artem sarctoriam. Hanc dum probe didicisset, dimisit Argentinam, ut laboraret. Ubi dum
+aliquandiu fuisset, oculi laborem ad lumen renuerunt; nam sicut pater oculos habet lusciosos et hac ratione rediit ad literas,
+quas nunquam reliquisset, si non coactus fuisset patris sequi consilium. Tu, quęso, quod in te est, iuvenem habeas
+commendatum. Dixid. de Rischach<f1>Alexander Rischacher (oder eventuell Ludwig von Reischach; vgl. ebd., Anm. 6).<fe>, quo animo hac in re ipsi inservieris; agebat et nunc agit tibi gratias quęrens, ut intelligas aliquando, quanti te tuumque favorem faciat.
+^$Transeunt Confoederati<f1>Gemeint sind eidgenössische Söldner.<fe> per Alsatiam, mirum quod tam temere, cum non
+audiam pacem esse factam inter cęsarem<f1>Karl V.<fe> et Gallum<f1>König Franz I.<fe>.
+Est vir nobilis<f1>Unbekannt (zu denken ist eventuell an Ludwig von Reischach, über dessen Sympathien für den Kaiser sich
+Myconius bereits im Brief vom 1. Oktober verwundert gezeigt hatte; vgl. oben Nr. 1792, 14f).<fe> circa Basileam, qui supra
+modum vexatur melancholia, quod cęsar ante nativitatem domini non est factus rex Gallię.
+^$Vale per Christum cum tuis.
+^$Basileę, raptim, ante lucem, 4. decembris anno 1543.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, in domino venerando suo. Z[ürich]<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

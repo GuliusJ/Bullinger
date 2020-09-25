@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="17377">
+<nr>17377</nr>
+<correspondents>
+	<originator>Nikolaus Pfister</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>11. August [1547]</date>
+	<note>ACHTUNG: Der Brief ist vom Jahre 1547 und wurde demensprechend auch unter diesem Jahr veröffentlicht.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 441, 553. (Siegel....)</vo>
+<dr>Ungedruckt</dr>
+<re>Regest</re>
+<note>siehe Nr. 18189 (alternative ID)</note>
+</content>
+</letter>

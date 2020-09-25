@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="980">
+<nr>980</nr>
+<correspondents>
+	<originator>Heinrich Sellarius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Frankfurt</place>
+	<date>29. März [1537]</date>
+	<note>Sellarius bezieht sich auf die Antwort Bullingers auf sein Schreiben vom 20. September des Vorjahres (HBBW VI, Nr. 895).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346a, 497r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für Bullingers Schreiben und rühmt seine Freundlichkeit, die sich vom Hochmut auf lutherischer Seite abhebt. Hat Bullingers Auslegung von 1Kor 11 sowie Oekolampads "Dialogus" gründlich
+studiert; da er ihre Abendmahlslehre teilt, hilft ihm sein Schwager [Bleikard Sindringer] nicht aus seiner gegenwärtigen Stellung heraus. Wegen seiner Armut kann er sich die [Bibelkommentare] Pellikans nicht leisten, ist aber aus den Werken von Bullinger, Zwingli und Oekolampad zur Genüge in ihrer
+Lehre unterrichtet. Beklagt die Haltung einer Mehrzahl der Prediger.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Dici non potest, quantum me tua epistola<f1>Nicht erhalten.<fe> exhilararit, Bullingere doctissime. Cognovi enim in ea facilitatem atque humanitatem, quas passim
+scriptis praedicas, factis quoque et vita docere, id quod in paucis iam videmus. Expertus enim sum fastum illum Luthericum in persecutione Carolstadiana<f1>Gemeint ist die Verfolgung, die sich gegen
+Karlstadt und seine Anhänger richtete.<fe>, qui hodie adhuc durat. Soli sibi isti homines videntur sapere, atque utinam ad dei gloriam et proximi salutem sapiant! Gratias vero tibi ago quantum possum
+maximas, quod me, hominem infimae conditionis, tuis literis compellare non dedigneris. Orabo dominum, ut eam tibi mentem potius augeat quam minuat, ut iam fere nostra culpa fieri animadvertimus, quo
+tandem magni illi (ut de se, quantum apparet, sibiipsis pollicentur), qui vos quasi haereticos reputant, victi et in sua conscientia pudefacti ad sese redeant praemeditatiusque agant et scribant. Nam
+vere, ut scribis, fastus dominatur apud plerosque, non humilitas. Passim quoque apud nos illorum causa verbum domini male ab adversariis audit, quamvis se quoque hi gravi censura dignos fateantur. Ac
+nimium vereor - avertat dominus omen infaustum -, ne plaga dei gravis hanc ingentem nostram ingratitudinem ulciscatur. Apud vos vero antiqua illa synceritas et humanitas colitur, ut audio, quod
+summe gratulor, esse locum, ubi verum ametur.
+^$Undecimum caput ad Corinthios in tuo opere<f1>Die im März 1537 erschienene Gesamtausgabe von Bullingers Kommentaren zu den Paulusbriefen [HBBibl I 84]
+enthält eine überarbeitete Auslegung von 1Kor 11, 17-34; s. HBBW VI, S. 382, Anm. 5.<fe> bis terque relegi et Dialogum quoque piae memoriae Oecolampadii<f1>Oekolampads "Quid de eucharistia veteres ... senserint,
+dialogus" (Oekolampad-Bibliographie 78, Nr. 164) ist abgedruckt in der 1536 erschienenen Sammlung von Briefen Oekolampads und Zwinglis (Oekolampad-Bibliographie 88f, Nr. 182).<fe>, qui adhuc immotus stat manebitque apud syncerioris iudicii viros.
+Spernat Philippus<f1>Melanchthon.<fe>, quantum velit; quo solo, ut mihi videtur, repugnat. Fortassis tot clarissimos veterum autorum locos se reiicere non posse vident eamque ob rem scriptis abstinent,
+nisi quantum sparsim in libris alio sub titulo editis clanculum mordent. Det illis deus mentem saniorem et vobis in bono perseverantiam<f1>Vgl. z. B. Augustin, De correptione et gratia, 6, 10 (MPL
+XLIV 921-923).<fe>! Sola haec de coena sententia mea in causa est, quod ex hoc pistrino uxoris frater<f1>Bleikard Sindringer; vgl. HBBW VI, S. 428f, 9-26.<fe> me non eripit. Neque ego conditionem
+splendidam, sed in abdito mihi et literis vi-<vl>497v.</vl>vere cupio, sicubi dominus offerat. Interim labore hoc contentus vivam, quousque dominus aliam humeris provinciam imponat, et legendis quae
+habeo bibliis et tuis opusculis, quando otium suppeditatur, me oblectabo. Maiora illa opera Pellicani<f1>Gemeint sind Pellikans Bibelkommentare, von denen zu diesem Zeitpunkt bereits sechs Teile
+erschienen waren (BZD C 217, C 256f, C 266).<fe> emere penuria prohibet, adversa nimis dea<f1>Vgl. Adagia, 1, 1, 42 (LB II 44).<fe>. Et satis ex tuis, Zvinglii et Oecolampadii scriptis sententiam eam edoctus sum dei gratia, quem precor, ut te
+et quotquot apud vos et ubique terrarum sunt, qui syncero animo patris et Christi gloriam quaerunt, confortet, quo citra omnem timorem constanter et doceant et vivant. Multi enim iam sunt, quibus
+Iacobus merito dicat: "Tu fidem habes, et ego facta habeo" [Jak 2, 18], quos dominus illuminet.
+^$Haec quasi deplorans nostra tempora infoelicia ad te animo candido scripsi. Nosti enim, quemadmodum
+pleraque pars evangelium prae se ferentium concionatorum sese gerat et quid quaerat. Tu, quaeso, boni consulas haec mea scripta, nam tua bonitate fretus prolixius scripsi.
+^$Vale in domino.
+^$Francofordiae, 4. calendas aprileis.<un>Tui studiosissimus
+<un>Henrichus Sellarius.
+<lz>[Adresse auf f. 497a v.:] Pietatis preconi insigni domino Henricho Bullingero, pastori Tiguri diligentissimo, domino suo plurimum colendo, salutem.
+</content>
+</letter>

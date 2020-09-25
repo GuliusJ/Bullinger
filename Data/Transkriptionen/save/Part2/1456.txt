@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1456">
+<nr>1456</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>die Pfarrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>28. Januar [1541]</date>
+	<note>Nach dem Wormser Kolloquium; s. unten Z. 1-3.</note>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 33 (VBS IV), 111 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 17<f1>(prov. Vorlage)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Kam gestern nach Hause; wird einen Bericht über die Verhandlungen in Worms schicken, sobald dieser abgeschrieben ist. Hofft auf bleibende Verbundenheit.</re>
+<tx>S. Veni heri domum.<f1>Zur Rückkehr von Grynäus aus Worms vgl. das Dankschreiben Straßburgs an Basel vom 24. Januar in PC III 162f.<fe> Acta Vormatię voluissem mittere ad
+vos, sed describi subito non potuerunt. Mittam, cum primum
+descripta fuerint.<f1>Vgl. unten Nr. 1469.<fe> Interea hoc significare saltem volui.
+^$Omnem amorem et coniunctionem in domino integrum nobis inter
+nos esse spero. Omnes vos et valere in domino et videre
+cupio. Dominus Christus<fx>^#/+In der Vorlage^#/- <gr>XR</gr>us.<fe> nos in veritate sua regat. Amen.
+^$Datum Basileae, 28. ianuarii.
+<un>S. Grynęus vester
+<un>in domino frater.
+<lz>[Adresse auf der Rückseite:] Sacri evangelii ministris
+Tyguri, fratribus in domino Christo charissimis.
+</content>
+</letter>

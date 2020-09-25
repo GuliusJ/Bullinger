@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1592">
+<nr>1592</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>16. Dezember 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 232 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 153</vo>
+<dr>Ungedruckt</dr>
+<re>Die Zeit reicht kaum, um den Eingang seines Briefs zu bestätigen; über die Lage, in der sich der Kaiser [Karl V.]
+befindet, ist ihm erneut zugetragen worden, was er bereits mitgeteilt hat; in Deutschland wird zwar über Maßnahmen gegen
+den Türken [Suleiman I.] beraten, von moralischer Besserung ist aber nicht die Rede. In Myconius' Haus ist ein Sohn von Fridolin
+Ryff der Pest zum Opfer gefallen. Kann für Bullingers Bemühungen nur danken. Ein Basler hat in Augsburg Christian [Wirth] und
+Konrad [Suter] getroffen, die angeblich unterwegs nach Tübingen waren. Will der von Bullinger empfohlenen Witwe helfen. Grüße.
+</re>
+<tx>S. Vix tantum superest spacii temporis, ut indicem
+literas tuas<f1>Nicht erhalten.<fe> redditas.
+De cęsare iterum accepi, quę nuperrime significavi.<f1>Myconius bezieht
+sich auf nicht genauer fassbare Nachrichten über die Niederlage Kaiser Karls V. vor Algier (vgl. unten Nr. 1593 sowie WA Briefwechsel IX 559-562, Nr. 3694, bes. Anm. 8), die er
+offenbar in einem nicht erhaltenen Brief mitgeteilt hatte.<fe> Adhuc tamen incertum, captusne sit an obsessus. Consultationes
+fiunt frequentes per Germaniam adversus Turcam;<f1>Zu den Beratungen über die Türkenhilfe, die nach der Einnahme von Ofen
+(Buda) durch Sultan Suleiman I. erhöhte Dringlichkeit erhalten hatten, s. bes. Lenz III 151-154. 161-168 (Fürstentag zu Naumburg, Oktober 1541).<fe> de vitę emendatione tacetur.
+^$Pestis adhuc sęvit. Cras erit dies octavus, dum
+adulescens bonę spei, filius Fridolini Riffii<f1>Fridolin (Fridli) Ryff, von Basel, gest. wohl nicht 1554, sondern
+erst 1555/56 (s. Fabian, Geheime Räte 423, Anm. 127), war Weber. 1510 erneuerte er seine Mitgliedschaft bei der
+Webernzunft, deren Zunftmeister er 1530-1554 war. Er sympathisierte schon früh mit der Reformation und wurde 1529
+Pfleger der Kartause, im gleichen Jahr auch Mitglied des Kleinen Rates. 1530/33 nahm er als Ratsvertreter an den Synoden teil,
+1538 wurde er Mitglied des Universitätsausschusses (Deputat), und 1546 ist er als Meister der Armbrustschützen erwähnt. Eine
+aus seinem Besitz stammende Chronik, die von 1514 bis 1541 reicht, ist nicht von ihm selbst verfasst. Der Name seines im
+Haus von Myconius verstorbenen Sohns ist nicht bekannt. - Lit.: Die Chronik des Fridolin Ryff, in: Basler Chroniken, hg. v. der
+Historischen Gesellschaft in Basel, Erster Bd., Leipzig 1872, S. 1-229 (bes. S. 3f); ^#/+Feller-Bonjour^#/- I 200f; Hans ^#/+Füglister,^#/-
+Handwerksregiment. Untersuchungen und Materialien zur sozialen und politischen Struktur der Stadt Basel in der ersten Hälfte
+des 16. Jahrhunderts, Basel-Frankfurt am Main 1981. - Basler Beiträge zur Geschichtswissenschaft 143, S. 393f, Nr. 162; HBLS
+V 776.<fe> senatoris, ex ędibus meis elatus est. Expecto, quid deus amplius velit.
+^$Subis tu labores, ut mihi gratificeris, quamobrem ago
+tibi gratias immortaleis; quid enim aliud possum, nisi
+dominus aliquando offerat occasionem?
+^$Fuit Basiliensis quidam<f1>Unbekannt.<fe> Augustę paucis ante diebus; is narravit se illic vidisse et salutasse
+Christianum et Conhartum<f1>Gemeint sind zweifellos die im Vorjahr bei Myconius einquartierten Zürcher Studenten Christian Wirth und Konrad Suter; Letzterer
+immatrikulierte sich am 27. September 1541 in Tübingen (vgl. HBBW X, S. 78f, Anm. 1), während Ersterer schon ab 1536 dort
+studiert hatte (vgl. HBBW VII, S. 221, Anm. 4).<fe>, dixisse autem eos se recta ituros Tubingam. Hoc tibi.
+^$Viduę<f1>Unbekannt.<fe>, quam mihi commendas, vel tuo nomine, quicquid bonorum impendere valebo, ero promptissimus.
+^$Nec plura habeo nec plura possum.
+^$Vale cum uxore<f1>Anna, geb. Adlischwyler.<fe> et liberis<f1>Von Bullingers Kindern lebten zu diesem Zeitpunkt
+Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich (1534), Hans Rudolf (1536), Christoph (1537) und Diethelm
+(1541); vgl. ^#/+Pestalozzi^#/- 314.<fe>, cum Theodoro<f1>Theodor Bibliander.<fe>, Pellicano, aliis in domino. Orate, quęso, pro nobis dominum.
+^$Basileę, 16. decembris anno 1541.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, antistiti Tigurino, fratri in domino observando suo.
+^&xPeter Martyr Vermigli an HB, "14. kal. Ian. 1542" [19.
+Dez. 1542, nicht 1541, weil sich auf V's Brief vom 5. Okt.
+1542 beziehend].^&x{
+</content>
+</letter>

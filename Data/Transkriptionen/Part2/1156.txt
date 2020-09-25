@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1156">
+<nr>1156</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<originator>Peter Kunz</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>6. August 1538</date>
+</space_time>
+<vo>Autograph von Peter Kunz: Zürich StA, E II 359, 2754 (Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Haben Verständnis für die überraschend erfolgte Abberufung von Hieronymus [Kaufmann]; die dadurch freigewordene Stelle
+[eines Schulmeisters in Zofingen] war bereits an einen Glaubensflüchtling aus dem Wallis vergeben, als die Empfehlung
+für [Konrad] Klauser eintraf. Versichern, daß sie zu der [an der Zürcher Tagung] getroffenen Vereinbarung stehen werden.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Nisi tam commodam scribis pro Hieronymo<f1>Gemeint ist Hieronymus Kaufmann (Emporus), gest. 1562, Provisor bzw. ab 1535
+Schulmeister in Zofingen (s. Zwa IX/7, 1952, S. 426; ^#/+de Quervain^#/-
+70). Nach seiner Ordination 1538 wirkte er als Pfarrer in Berg am Irchel
+(Kt. Zürich), ab 1544 bis zu seinem Tod in Leutmerken (Kt. Thurgau). Ab 1548 übermittelte er oft Briefe
+zwischen Ambrosius Blarer und Bullinger; Blarer wohnte zeitweise in seinem Haus in Winterthur und versah nach
+Kaufmanns Tod die verwaiste Pfarrstelle. Ein Brief Kaufmanns an Bullinger ist erhalten (Zürich StA, E II 441, 750; 1. März
+[1555]). - Lit.: Blarer BW II und III, Reg.; Pfarrerbuch 373; Sulzberger 33.
+^&x Fluri, Schulordnung 181. Nichts Brauchbares in der Geschichte der Lateinschule von Zof. (Zof. Njbl. 1907). ^&x{<fe>
+excusationem<f1>Ein Schreiben Bullingers in dieser Sache ist nicht erhalten.<fe>, frater in domino amande,
+minimo certe minus aberat, quin in suspitionem trahi poterat usque adeo festina illius vocatio. Sed audimus facti rationem
+bonique consulimus. Quod deinde alium quendam offertis,
+pergratum est, valde agnoscentes vestram sollicitudinem erga
+nos. Utinam gratificari vobis contingat aliquando! Sed quo
+minus suffectus sit Hieronymo Clauserus<f1>Konrad Klauser.<fe>, et tu audi. Perlatae sunt literae tuae ad nos vix tandem 5.
+augusti, alio iam in vicem prioris subrogato<f1>Der Name des neuen Schulmeisters ist nicht bekannt; auch im Berner Ratsmanual, wo Bestätigung seiner Wahl unter dem 7. August vermerkt ist, wird er nur als "der Walliser" bezeichnet (s. Bern StA, A II 134, S. 116, vgl. auch S. 91 und 110).<fe>. Is
+Vallesianus est ob
+Christi confessionem patria pulsus, quem iam commiserari
+oportuit, quo minus desponderet animum homo pius. Caetera
+vero nihil addubitandum erat, quo non exceptus fuisset
+Clauserus, si modo in tempore venisset.
+^$Vale et conscriptionis<f1>Gemeint ist wohl der Abschied der Zürcher Tagung vom 28. April bis 3. Mai (vgl. oben
+Nr. 1128, Anm. 1).<fe> nos optime<fx>optime^#/+ am Rande nachgetragen.^#/-<fe> memores et constanter
+perseveraturos scitote fideliter. Dispereant ii, qui hanc
+interturbaturi sunt. Salutato symmistas<fx>^#/+in der Vorlage ^#/-symmstas.<fe> tuos omnes.
+^$6. augusti 1538, Bernae.
+<un>Erasmus Ritter et
+<un>Petrus Conzenus, tui in domino.
+<lz>[Adresse auf der Rückseite:] Doctissimo virod. Henrico Bullingero, Tigurinorum antistiti vigilantissimo,
+suo in domino observando. Z[ü]rich<fx>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe>.
+</content>
+</letter>

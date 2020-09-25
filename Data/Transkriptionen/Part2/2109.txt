@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2109">
+<nr>2109</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>14. März 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 212 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 1; Erw.: Egli, Analecta II 64 (A. 4)^&x{
+<re>Gilbert [Cousin] sendet Bullinger hierbei ein kleines Geschenk, das Gast wegen Botenmangels einige Tage bei sich behalten musste. Cousin hat nicht den Anspruch, sich damit für das von Bullinger für ihn und andere Nikodemiten geschriebene Gutachten über das Abendmahl freizukaufen. Bullinger wird aus Cousins Brief Näheres entnehmen. Hätte doch Theodor [Bibliander] mehr Zeit, um [Cousins] Frage zu beantworten!
+-^#. [Cousin] zufolge ist das Burgund befriedet, aber die Bevölkerung leidet große Not. Cousin möchte Kardinal [Otto Truchsess von Waldburg?] treffen und sich mit diesem über die evangelische Lehre unterhalten.
+-^#. [Biblianders] Buch ["Relatio fidelis"] wird morgen erscheinen.
+-^#. Gast empfiehlt den Überbringer Sigismund Gelenius, der als Korrektor bei [Hieronymus] Froben tätig ist.</re>
+<tx>S[alutem] in domino.
+Mittit ad ted. Gilbertus<f1>Gilbert Cousin.<fe>, hospes meus, munusculum hoc,<f1>Siehe oben Nr. 2104, 17 und Anm. 9.<fe> quod ad dies aliquot
+ob tabellionum inopiam domi meę detinui, et rogat, ut grato animo id suscipere velis;
+pro laboribus enim tuis non vult satisfacere, quos habuisti in instituendo
+et ipsum et alios Nicodemos de cęne dominicę sententia.
+Dicit enim plusquam centies<fx>^#/+In der Vorlage^#/- centum.<fe> epistolam<f1>Bullingers verlorene Antwort auf Cousins Brief vom 15. Juni 1544 (HBBW XIV, Nr. 1927), die eine Ausführung zur Abendmahlsfrage enthielt.<fe> descripsisse ac edidicisse.
+Omnia autem fusius ex illius literis<f1>Cousins Brief an Bullinger vom 12. März 1545, oben Nr. 2104.<fe> percipies.
+Velim, sid. Theodorus<f1>Theodor Bibliander.<fe> tantum ocii haberet et fuse scriberet ad illius quęstionem.
+Probus est vir ac evangelio Christi favens plurimum.
+^$In Burgundia dicit<f1>Gemeint ist Cousin.<fe> omnia pacata esse, sed populum ingenti omnium fere rerum inopia laborare.
+Brevi idem mihi retulit se velle episcopum, qui iam in cardinalem creatus est<f1>Weder François Bonvalot, bischöflicher Administrator von Besançon (in dessen Bistum Cousin wohnte), noch Claude de La Baume, Bischof von Besançon, da keiner von beiden damals Kardinal geworden war. Ist hier vielleicht Otto Truchsess von Waldburg, Bischof von Augsburg, gemeint, der am 19. Dezember 1544 Kardinal wurde? Karl V. hatte ihn als einen der kaiserlichen Kommissare zum Reichstag nach Worms gesandt (RTA JR XVI/1 64; oben Nr. 2094, 16f), wo er am 28. Oktober 1544 eingetroffen war; s. RTA JR XVI/1, aaO.<fe>
+in gratiam caesaris<f1>Karl V.<fe>, adire et varia de evangelii doctrina cum eo conferre;<f1>Über eine Begegnung von Kardinal Otto Truchsess von Waldburg und Gilbert Cousin ist nichts bekannt.<fe> doctum enim
+esse et pium virum, qui non abhorreat a vera doctrina.
+^$Theodori liber nondum absolutus est, sed crastina die absolvetur.<f1>Theodor ^#/+Bibliander,^#/- Ad omnium ordinum reip[ublicae] christianae principes viros, populumque christianum, Relatio fidelis ..., quod a solo Verbo filioque dei tum exacta cognitio praesentium temporum et futurorum, atque ipsius etiam Antichristi, maximae pestis totius orbis, tum recta optimaque moderatio reipublicae et totius vitae christianae petenda sit, Basel, Johannes Oporin, März 1545 (VD 16 B 5315; Moser, Bibliander Nr. B-10.1; ^#/+Egli,^#/- Analecta II 64-68; HBBW XIV 390f, Anm. 11; 441, 13-15 und Anm. 11). Gasts Worten zufolge erschien das Buch also am 15. März 1545.<fe> Vale.
+^$Sabbato ante Laetare 1545. Basileę.
+<un>Tuus Gastius.
+<lz>Sigismundus Gelenius<f1>Sigismund Gelenius (Gelen; Gelensky; Zikmund Hrubý z Jelení), geb. 1497 in Prag, gest. 13. April 1554 in Basel; studierte von 1509 bis 1514 in Italien; unternahm von 1514 bis 1524 mehrere Reisen durch Europa. Vermutlich ab 1524 in Basel, "wo er zuerst als Amanuensis des Erasmus von Rotterdam, dann trotz verschiedener Rufe an auswärtige Universitäten bis zu seinem Tod als Editor, Korrektor und Übersetzer in der Officina Frobeniana tätig war. Gelenius' immense philologische Leistung, die in den vielen von ihm betreuten Editionen der Froben'schen Druckerei steckt, ist bisher noch nicht befriedigend untersucht worden. Im 'Lexicum symphonum' (1537, ^#'21544), seinem einzigen Originalwerk, stellte er ähnlich klingende Wörter aus dem Griechischen, Lateinischen, dem Deutschen und aus slawischen Idiomen zusammen". - Lit.: Ulrich ^#/+Dill,^#/- in: HLS V 182 (Quelle des angeführten Zitats); Amerbach Korr. IV 48, Anm. 1; Amerbach Korr. IX/1 335-339 (Vorbemerkung). 345-353; Contemporaries II 84f (ergänzt und überholt durch Amerbach Korr. IX/1); Centuriae Latinae II. Cent une figures humanistes de la Renaissance aux lumières. À la mémoire de Marie-Madeleine de la Garanderie, hg. v. Colette Nativel, Genève 2006 - Travaux d'Humanisme et Renaissance 414, S. 337-351; Pierre ^#/+Petitmengin,^#/- Un ami de Melanchthon: Sigismundus Gelenius, éditeur et traducteur de textes classiques et patristiques, in: Die Patristik in der Frühen Neuzeit. Die Relektüre der Kirchenväter in den Wissenschaften des 15. bis 18. Jahrhunderts, hg. v. Günter Frank, Thomas Leinkauf und Markus Wriedt, Stuttgart/Bad Cannstatt 2006 - Melanchthon-Schriften der Stadt Bretten 10, S. 65-92.<fe> est corrector Frobenii<f1>Hieronymus Froben.<fe>, qui has literas fert, optimus
+et pius vir, christianę doctrinę adsertor strenuus, quem tibi commendo.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho Bullingero, fratri ac domino charissimo. Zurich.
+</content>
+</letter>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="897">
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*St. Gallen</place>
+	<date>nach 25. September 1536*)+1</date>
+</space_time>
+<record>Abschrift+a: Utrecht, Bibliotheek der Rijksuniversiteit,</record>
+<print>Ungedruckt</print>
+<note>Ms 11. C. 10, S. 96, Nr. 49</note>
+<statue>
+Bittet um rasche Weiterleitung seines Schreibens an Capito, da ihn
+dieser in Basel um eine Abschrift seines Briefes an Luther ersucht hat;
+will damit den Verdacht ausräumen, er habe dem früheren Bericht
+(*der Strassburger Theologen über die Wittenberger Konkordie*) zuwenig
+Glauben geschenkt.
+</statue>
+<content>
+S. Clarissime Bullingere, sancte te oro, literas alteras domino
+Capitoni inscriptas+2 fido aliquo nuncio velis Basileam perferendas
+curari, ut illinc actutum Argentoratum perveniant.
+Gehört hierher die Notiz von HB an Myc. in E II 342, 578v.?
+(liegt bei den Schiebebriefen!)
+Orabat me Basileae+3,
+ut et sibi exemplum mitterem literarum mearum ad Lutherum+4.
+Nescio enim, quid suspicantur, velut haud satis fidei habuerim primae
+illorum relationi+5, de qua tamen nunquam ambegi+b,
+quin et vera et sincera
+fuerit. Ideo id curo, ut apud amicos suspitionum pessimam pestem amoliar
+et fidem simul meam redimam. Sic satanae studiis est obnitendum.
+<p>Vale, decus meum, et mihi gratificare.</p>
+<signature>
+Vadianus.
+</signature>
+<address>
+(*Adresse+c:*) Domino Henricho Bullingero, iterum+6.
+</address>
+</content>
+<note>
+.us; +a >Das Autograph dieses Briefes ist verschollen; die Abschrift
+<print>
+ist Teil einer Sammlung, die
+56 überwiegend an Ludwig Lavater adressierte und
+zum grössten Teil bisher unbekannt gebliebene Briefe enthält.
+Der noch nicht identifizierte Abschreiber
+hat die Briefe (wohl im 19. Jahrhundert)
+nicht nur kopiert, sondern auch
+mit Anmerkungen versehen und anscheinend ihre Publikation geplant.
++b>in der Vorlage  ambigi.
++c>Bemerkung des Abschreibers:  Intitulatio exterior.
+</print>
+<address>
++1>Das einzige Treffen zwischen Vadian und Capito, an dem von
+einem kurz zuvor geschriebenen Brief Vadians an Luther die Rede sein
+konnte (s. unten Z. 3f), war jenes vom 24./25. September 1536.
+Wahrscheinlich schrieb Vadian den vorliegenden Brief kurz nach
+seiner Rückkehr und kaum erst am 2. November (vgl. unten Anm. 6), da
+man sich bereits am 12. November wieder treffen wollte.
++2>Vadian sandte Capito eine Abschrift seines Briefes an Luther
+(s. unten Anm. 4); ein Begleitschreiben ist nicht nachweisbar.
++3>Vadian und Capito nahmen gemeinsam an der Basler Tagung vom
+24./25. September teil; zu dieser s. EA IV/1c 764 (vgl. EA IV/1b 903f,
+zu f 2); Stumpf, Abendmahlsstreit 85-92;
+<print>
+Köhler,  ZL II 493-496. Vgl. auch die offenbar hierher gehörenden
+Notizen Bullingers in Zürich StA, E II 337, 182r.-186v., sowie seinen
+Bericht in Zürich ZB, Ms F 62, 66r.-67r. (gedruckt: Zwa XX, 1993, S. 40f).
+Bericht HB's in Zwa 1993????
++4>Eine nach Strassburg gesandte Abschrift von Vadians
+Brief an Luther vom 30. August 1536 (s. oben Nr. 881, 6f mit Anm. 3)
+befindet sich in
+Strassburg Stadtarchiv, AST 162^^^'Sup(II), Nr. 127.
+Abschrift (nach Simler "manu recentiori") auch in Zürich ZB,
+Ms F 61, 349r.-v. (anschliessend, 349v.-350v.: ders. an dens., 28. 11.)
++5>Gemeint ist vielleicht die am 16. August von Bullinger an Vadian
+weitergeleitete Erläuterung der Wittenberger Konkordie;
+s. oben Nr. 877, 10-12 mit Anm. 6.
++6>Der unmittelbar zuvor geschriebene Brief scheint verloren zu
+sein, es sei denn, jener vom 2. November (unten Nr. 907) wäre gemeint
+(vgl. Anm. 1).
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

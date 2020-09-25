@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1651">
+<nr>1651</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>9. August 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 77 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 164<f1>Moeller, Zwick, Nr. 267<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Schreibt selten an Bullinger, weil Blarer wortgewandt an seiner Stelle schreibt; sein Schweigen bedeutet also nicht Ablehnung oder Vergessen. Grüße. Kann seine Trauer über den Tod Leo [Juds] in keiner Weise ausdrücken, Gott möge uns trösten.
+</re>
+<tx>S. Quod rarius ad te scribo, Ambrosii<f1>Ambrosius Blarer.<fe> literae in causa
+sunt; nam ille iam etiam meo loco officio scribendi
+fungitur, qui potest illi et copiose et eleganter
+satisfacere. Itaque silentium meum bene vertas, quod nullo
+fastidio nec ulla tui oblivione nascitur; in oculis enim
+meis semper talis es, quales sunt amantissimi.
+^$Vale et uxorem tuam<f1>Anna, geb. Adlischwyler.<fe> totamque domum saluta nomine meo<fx>^#/+In der Vorlage^#/- me.<fe> studiosissime.
+^$Quam me etiamnum affligat obitus Leonis<f1>Leo Jud, der am 19. Juni verstorben war, vgl. oben Nr. 1638.<fe>, non possum ulla
+ratione explicare. Dominus nos consoletur.
+^$Ex Constantia, 9. augusti 1542.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Praestantissimo virod. Hainricho Bullingero, ecclesiae Tigurinae administro, suo in
+domino dilectissimo fratri. Tiguri.
+^$^&xJohannes Hospinian an HB, 17. Aug. [1542] (so: Ms S
+51, 172), "Quam animo sis erga me", E II 366, 269; recte:
+17. Aug. [1544] (Kartei!)^&x{
+</content>
+</letter>

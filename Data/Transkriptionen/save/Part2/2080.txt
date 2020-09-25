@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2080">
+<nr>2080</nr>
+<correspondents>
+	<originator>[Johannes Gast]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>9. Februar 1545</date>
+</space_time>
+<vo>Autograph: E II 366, 240 (Siegel)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 155^&x{
+<re>Gast geht es gut.
+-^#. Er schreibt selten, weil er nichts Wesentliches zu sagen hat und Bullinger bei der Abfassung der Schrift ["Warhaffte Bekanntnuß"] gegen den "neuen Papst" [Luther] nicht stören will. Gut, dass die Zürcher, gestützt auf die Heilige Schrift, Zwingli wie auch Gasts Lehrer Oekolampad gegen Luther verteidigen. Gast fragte [die Pfarrer und Theologen zu Basel], ob sie nicht wenigstens einen Brief zur Verteidigung ihrer Kirche gegen Luthers Wahnsinn schreiben wollten, erhielt aber eine abschlägige Antwort.
+-^#. Er will diesen Sommer einige Psalmen herausgeben, vielleicht zusammen mit einer [einleitenden] Epistel, in der er Oekolampads Lehre vom Abendmahl zu verteidigen gedenkt, falls die Brüder es billigen.
+-^#. Wenn Luther doch nur geschwiegen hätte! Die Antwort [der Zürcher] wird bestimmt jeden weiteren Kampf mit ihm unnötig machen, zumal dieser nicht mehr antworten und auch nicht die Briefe [der Eidgenossen] lesen will.
+-^#. Luther soll bedauert haben, dass der Herzog [Kf. Johann Friedrich von Sachsen] mehr als 1'000 Exemplare [vom "Kurtz bekentnis"] beschlagnahmt hat. In Augsburg sind [die] lutherischen Büchlein verboten worden.
+-^#. In Straßburg hat der Angestellte [...] eines Druckers [...] einen Sack Getreide auf den Straßen ausgesät und ausgerufen: "Was ich jetzt säe, wird später der Türke mähen"; er wurde festgenommen, geächtet und ist auf freiem Felde unweit der Stadt plötzlich verstorben.
+-^#. Grüße an Theodor [Bibliander], Pellikan und [Johannes] Fries.
+-^#. [Karl V.] soll in Worms sein; die Fürsten eilen herbei. Kaufleute berichten von einem Triumphzug des Türken [Sultan Suleimans I.] mit all seinen Fürsten in Konstantinopel.</re>
+<tx>S. in domino. Bene valeo, domino sit laus.
+^$Quod autem raro scribo, in causa est, quod nullum argumentum habeam te dignum, et
+timeo perpetuo, ne studium tuum et laborem in respondendo Neopapae<f1>Luther.<fe> interturbem.<f1>Die Zürcher verfassten damals die Schrift "Warhaffte Bekanntnuß" als Antwort auf Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 9.<fe>
+Probe facitis, quod Lutheri supercilium scripturis sanctis deprimatis. Et dominus
+id medii dedit, quo tandem agnoscatur ab omnibus, quod sit homo et quod errare possit.
+Habet spiritum superbum, qui hominem indies singulos arrogantiorem reddit.
+Quod autem Oecolampadium, pręceptorem meum, defendere simul cum Zvinglio conamini,<f1>Im ersten, geschichtlichen Teil ihrer Schrift betonten die Zürcher, dass sie schon vor dem Marburger Religionsgespräch von 1529 der Auffassung waren, dass Leib und Blut Christi "geistlich, nit lyblich" im Abendmahl seien; s. "Warhaffte Bekanntnuß", Zürich 1545, f. 7r.-v.<fe>
+vehementissime probo. Nam nostros ecclesiae proceres<f1>Das Kollegium der Pfarrer und Theologen zu Basel.<fe> allocutus sum hac de re, an velint
+saltem epistolam edere, qua ecclesiae nostrę doctrinam defenderent contra Lutheri insanias.
+Responderunt sibi nihil esse cum Luthero negotii, libellum<f1>Luthers "Kurtz bekentnis".<fe> esse fanaticum et furiosum.
+Tacui ad hęc verba apud me cogitans nescio quid de iis, quibus ecclesiae negotium demandatum est.
+^$Psalmos quosdam editurus sum hac ęstate,<f1>Zu solch einer Veröffentlichung kam es nicht. Im Jahr zuvor (Februar 1544) hatte Gast eine Anzahl Predigten Oekolampads zu den Psalmen 73-77 und 137 in lateinischer Übersetzung herausgegeben; s. HBBW XIV 100 und Anm. 12.<fe> quibus fortassis epistolam affigam
+Oecolampadii doctrinam in negotio eucharistię, si fratribus consultum videtur,
+defendentem, ne omnino muti videamur.
+^$Utinam tacuisset Lutherus et ecclesiae nostrę tranquilliores essent! Neque dubito, quin vos per omnia sitis responsuri, ut amplius non sit opus cum ista bestia decertare, quum nullum velit amplius responsum dare et ne legere illas literas a nostris missas.<f1>Vgl. Luthers Aussage im "Kurtz bekentnis", WA LIV 155f.<fe>
+^$Audio, quod me alacrem reddit, ducem<f1>Kurfürst und Herzog Johann Friedrich von Sachsen.<fe> plusquam mille exemplaria<f1>Luthers "Kurtz bekentnis".<fe> Witembergę
+- nescio, cuius fuerit consilium - suppressisse, quod Luthero dolet.<f1>Diese Nachricht könnte Gast von seinem 1542-1553 in Leipzig studierenden Neffen Philipp Bächi vernommen haben; s. Leipzig, Matrikel I 642; II passim. Weder im Vorwort der Herausgeber zu Luthers "Kurtz bekentnis" in WA LIV 119-135 noch bei Hans-Peter ^#/+Hasse,^#/- Bücherzensur an der Universität Wittenberg im 16. Jahrhundert, in: 700 Jahre Wittenberg. Stadt-Universität-Reformation, im Auftrag der Lutherstadt Wittenberg, hg. v. Stefan Oehmig, Weimar 1995, S. 187-212, wird darüber berichtet.<fe>
+Augustae libelli proscripti sunt Lutheranici;<f1>Steht vielleicht dieses Verbot im Zusammenhang mit dem gut vier Monate später veröffentlichten Augsburger Ratsdekret vom 20. Juni 1545, welches den Druckern untersagte, etwas ohne vorherige Genehmigung der Zensoren zu drucken? Siehe ^#/+Roth^#/- III 149 und Anm. 113.<fe> o quam probe egerunt prudentes viri!
+^$Argentinę quidam impressoris famulus<f1>Unbekannt.<fe> coemit saccum frumenti et incepit per plateas civitatis discurrere
+et seminare frumentum dicens: "Das ich jetz bin seyen, das wirt hernach der Turck meyen"^&xVgl. zu den beiden Verben "seyen" und "meyen": Beate Hennig, Mhd. WB^&x{, idque alta voce clamavit.
+Captus est ac in vincula coniectus, tandem proscriptus et vix dimidium miliare a civitate venit ac<fx>venit ac ^#/+über der Zeile nachgetragen.^#/-<fe> subitanea morte occubuit in agro. Vide, quid dominus instituat cum nostris istis hominibus!
+^$Vale. 9. februarii 1545.
+^$Salutatod. Theodorum<f1>Theodor Bibliander.<fe> et Pellicanum cum Frisio.
+<lz><vl>240v.</vl> Caesarem<fx>^#/+Der Text dieses Nachtrags ist teilweise im engen Einband verdeckt.^#/-<fe><f1>Karl V.<fe> aiunt esse Wormacię.<f1>Kaiser Karl V. traf erst am 16. Mai 1545 in Worms ein; s. oben Nr. 2065, Anm. 23.<fe> Principes advolant. Triumphum habuisse Turcam<f1>Sultan Suleiman I.<fe> Constantinopoli cum omnibus suis principibus constanter affirmant mer[ca]tores,<f1>Näheres konnte nicht ermittelt werden, jedoch könnte hier eine Verwechslung zwischen "(H)adrianopoli" (Edirne), wo sich der Sultan im Winter 1544/45 aufhielt, und "Constantinopoli" vorliegen; s. oben Nr. 2071, Anm. 30.<fe> et quid illic instituat, divinare possumus.
+<lz>[Adresse darunter:] An denn eerwürdigen und wolgelerten hernn meister Heynrich Bullinger, pfarhernn zuͦ Zurich, meynem lieben, gunstigen herren. Zurich.
+</content>
+</letter>

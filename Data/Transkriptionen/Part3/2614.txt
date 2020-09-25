@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2614">
+<brief>
+<id>16302</id>
+<nr>2614</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-07"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 7. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 251 (neu: 269) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 189 </k></dr>
+<re><t>Myconius schreibt so selten, weil er nichts mehr von den Straßburgern erfährt. Er tadelte sie nämlich, weil sie zu sehr um ihr Geld besorgt sind. So kommt es nun, dass die in Basel kursierenden Nachrichten Bullinger bereits bekannt sind.</t>
+<t>Graf [Georg von] Württemberg schreibt: Die Feinde haben Brot mit Kalk versetzt, woran viele Kriegsknechte gestorben sind. Auch Wasser und Brunnen werden vergiftet. Einige deutsche Übeltäter konnten gefasst werden. Der Deutschmeister [Albrecht] von Preußen hat den [Schmalkaldenern] 2'000 Reiter und 4'000 Fußsoldaten zugeschickt. Landgraf [Philipp von Hessen] hat eine Brücke über die Donau bauen lassen, um bald zu einem Treffen [mit den Kaiserlichen] zu kommen. Täglich finden große Gefechte statt. Graf Wilhelm [von Fürstenberg] befindet sich im Feldlager. Dort ist die Lebenshaltung billig. Wegen einer Seuche bei den Kaiserlichen desertieren Italiener und Spanier in Scharen. Kaiser [Karl V.] lässt alle, die er fangen kann, hängen. Die [Schmalkaldener] aber sind von Krankheiten weitgehend verschont geblieben. Soweit Graf Georg.</t>
+<t>Hundert [schmalkaldische] Kavalleristen waren auf der Suche nach Proviant. Sie begegneten 500 kaiserlichen Reitern, die sie auf Anweisung eines Grafen [...] frontal attackierten. Dabei wurden etwa 30 Kaiserliche getötet und etliche gefangen.</t>
+<t>Angeblich ließ der Landgraf dem Kaiser sagen, er solle doch mit ihm kämpfen, wenn er nur einen Tropfen kriegerischen Bluts im Leibe habe. Der Kaiser erwiderte: Sein ganzer Leib sei voll davon; das werde er ihm während fünf, ja sechs Jahren beweisen!</t>
+<t>Konrad Lycosthenes, ein Verwandter [Konrad] Pellikans, wollte dieser Tage zusammen mit zwei Zürchern [...] in Ensisheim speisen. Man ließ sie aber nicht in die Stadt, weil sie aus der Eidgenossenschaft waren.</t>
+<t>Myconius schmerzt es sehr, was man über die in Memmingen erfolgte Festnahme des Badener Boten [Konrad Schweri] hört. Was soll noch aus den Gottlosen [Innerschweizern] werden, und was haben denn [die protestantischen Orte] noch mit diesen zu tun?</t>
+<t>Dryander [Francisco de Enzinas] hat die ganze Sendung erhalten und sie in Myconius' Beisein geöffnet. Dem Brief Ochinos war ein auf Italienisch verfasstes Büchlein von diesem beigelegt. Enzinas dankt für [Bullingers] Gruß und grüßt zurück. Heute zeigte er Myconius ein von den Löwener Theologen verfasstes französisches Buch, das er ins Lateinische übersetzen will. Diese närrischen Teufel! Das Buch enthält eine Aufzählung von verbotenen Büchern, darunter sogar Schulbücher und Katechismen! Es enthält auch Lektüreempfehlungen.</t>
+<t>Gruß. Myconius wird an Gwalther schreiben, wenn er dessen "Endtchrist" gelesen hat.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16302-2A</zzl>Quod brevis sum in scribendo,
+<fn>Antwort auf Bullingers Vorwurf vom 5. Oktober; s. <qv>nr2607</qv>,<qv>zl16295-4</qv>.</fn> causam habet, quod ex Argentina nihil accipio. Nil nisi queruntur, quod timent thesauro suo.
+<fn>Anspielung auf die Ablehnung des Straßburger Rates und der dort ansässigen Kaufleute, eine Bürgschaft für das Darlehen Piero Strozzis und der Lyoner Kaufleute an die Schmalkaldener (s. dazu <qv>nr2612</qv>,<qv>zl16301-3</qv>) zu übernehmen; s. das Schreiben der Dreizehn von Straßburg an Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen vom 27. September 1546 (<a>PC</a> IV/1 407f, Nr. 382).<zfn>fn16302-1</zfn></fn> Quam rem quia inique tuli, tacent. Deinde qu{e} a nostris
+<fn>Die Basler Obrigkeit.</fn> intelligo, ipse prius nosti.<zzl>zl16302-2E</zzl></p>
+</div>
+<div>
+<p>Sequentia comes scripsit Wirtembergensis
+<fn>Georg von Württemberg-Mömpelgard.</fn>: <zzl>zl16302-5A</zzl><zzl>zl16302-6A</zzl>"Sy
+<fn>Gemeint sind die Kaiserlichen.</fn> habent zwegen bracht, das under das mel ist kalch gethon.
+<fn>Ähnliches steht im Brief des Konstanzer Rats an den Zürcher Rat, 11. Oktober (Zürich StA, A 177, Nr. 78). Im Brief desselben an denselben, 14. Oktober (aaO, Nr. 83), erfährt man ferner, dass in Württemberg und in den Ländern des Markgrafen Ernst I. von Baden-Durlach Wein und Most vergiftet wurden.<zfn>fn16302-2</zfn></fn> Deßhalb der knechten vil gstorben, die dasselb brott hand gessen. Ettlich sind ufgeloffen
+<fn>aufgebläht.</fn> und gschwollen.<zzl>zl16302-6E</zzl> <zzl>zl16302-7A</zzl>Item sy vergiften inen die wasser und brunnen,
+<fn>Vgl. schon <a>HBBW</a> XVII 409, Anm. 2; 430, Anm. 72; 437, Anm. 68 und 74; 456, Anm. 12.<zfn>fn16302-3</zfn></fn> darob man ettliche tütsche bößwicht gfunden."
+<fn>Die Beilage (Zürich StA, A 177, Nr. 57) des an Zürich gerichteten Briefes von Konstanz vom 2. oder 4. Oktober (aaO, A 205/1, Nr. 228, bzw. A 177, Nr. 65), und die Beilage (aaO, A 177, Nr. 64) des an Zürich gerichteten Briefes Heinrich Thomanns vom 4. Oktober (aaO, Nr. 63) berichten ferner über eine Vergiftung, an der Jacques Julien aus Lyon und noch viele andere beteiligt gewesen sein sollen.<zfn>fn16302-4</zfn></fn><zzl>zl16302-7E</zzl> Er schribt
+<fa><i>In der Vorlage</i> scribt.</fa> ouch, <zzl>zl16302-8A</zzl>"das der tütsch meister von Preussen
+<fn>Albrecht d.Ä., Herzog in Preußen, der letzte preußische Deutschordensmeister (bis zum Jahr 1525; s. <a>NDB</a> I 171-173). Aus <a>HBBW</a> XVII 162, Anm. 28; 163,36f und 229,36f, geht hervor, dass Albrecht bereit war, die Schmalkaldener zu unterstützen. Im November 1546 suchte er jemanden, der die Summe von 20'000 Gulden, die er an die Evangelischen nach Leipzig oder Nürnberg senden wollte, als Wechsel übergeben würde; s. Herzog Albrechts Brief an Hans von Werden vom 1. November 1546, in: Die Beziehungen Herzog Albrechts von Preußen zu Städten, Bürgertum und Adel im westlichen Preußen (1525-1554). Regesten aus dem Herzoglichen Briefarchiv und den Ostpreußischen Folianten, Teil 2, bearb. v. Ursula Benninghoven, Köln/Weimar/ Wien 2006 - Veröffentlichungen aus den Archiven Preußischer Kulturbesitz 48/2, S. 1113, Nr. 2549 (Postskript). Allerdings konnte für diese Zeit keine Lieferung von Truppen nachgewiesen werden. Es liegt hier wohl ein Missverständnis einer sich auf Friedrich II. von der Pfalz oder auf Moritz von Sachsen beziehenden Nachricht vor; vgl. <qv>nr2609</qv>,<qv>zl16297-7</qv>.<zfn>fn16302-5</zfn></fn> vordrigs tags z{uo} den unseren
+<fn>den Schmalkaldenern.</fn> geschickt hab 2'000 reisiger
+<fn>Kavalleristen.</fn> und 4'000 knecht.<zzl>zl16302-8E</zzl> <zzl>zl16302-9A</zzl>Landgraf
+<fn>Philipp von Hessen.</fn> hett ein brugg gmacht über die D{uo}now, das
+<fn>weil; s. <a>FNHDW</a> V/1 246, Nr. 5.</fn> sy verhoffen, bald zesamen zkomen
+<fn>zesamen zkomen: aufeinander zu stoßen.</fn>.<zzl>zl16302-9E</zzl> Grosse scharmutzel th{uo}t man alle tag, das z{uo} verwundern. <zzl>zl16302-10A</zzl>Graff Wilhelm
+<fn>Gemeint ist Wilhelm von Fürstenberg; vgl. <a>HBBW</a> XVII 497,136, mit Anm. 95; <qv>nr2612</qv>,<qv>zl16301-6</qv>.</fn> ist schon imm leger.<zzl>zl16302-10E</zzl> <zzl>zl16302-11A</zzl>Im leger ists wolfeil.
+<fn>Anspielung auf die relativ günstige Versorgung mit Lebensmitteln im Lager der Schmalkaldener; s. <qv>nr2607</qv>,<qv>zl16295-2</qv>.</fn><zzl>zl16302-11E</zzl> <zzl>zl16302-12A</zzl>Die pestis ist under den keyserischen.<zzl>zl16302-12E</zzl> <zzl>zl16302-3A</zzl>Und louffen die Italianer und Spanier hinweg mit gantzen huffen, und kan sy der keyser
+<fn>Karl V.</fn> nit bhan
+<fn>zurückhalten; s. <a>SI</a> II 918.</fn>. Ladt
+<fn>lässt; s. <a>SI</a> III 1393.</fn> alle die, so er ergretscht
+<fn>erwischt; s. <a>SI</a> II 829f. - Siehe dazu <qv>nr2612</qv>,<qv>zl16301-12</qv>.</fn>, hencken.<zzl>zl16302-3E</zzl> Die unseren haben noch nit vil krancheiten erlitten."<zzl>zl16302-5E</zzl> H{e}c ille.</p>
+</div>
+<div>
+<p>Hundert reisiger
+<fa><i>In der Vorlage folgt</i> sind.</fa> der unseren sind usgritten uffs f{uo}ter
+<fn>uffs f{uo}ter: auf der Suche nach Futter für die Pferde.</fn>. Sind 500 keyserischer dahar trabt
+<fn>getrabt, geritten.</fn>. Do hedt ein graff
+<fn>Unbekannt.</fn> von den 100 geredt: "Nun walte sin gott! Da m{ue}ssen wir sterben oder in mitz
+<fn>in mitz: mitten.</fn> durch sy." Hand mit dem die gül
+<fn>Gäule, Pferde.</fn> lassen gan. Sind durch sy gerendt, ob
+<fn>über, etwa.</fn> den 30 darnider geleydt und ettlich gfangen und mit inen heimgf{ue}rt mit ehren.</p>
+</div>
+<div>
+<p><zzl>zl16302-13A</zzl>Es sol der landgraff zum keyser gschickt han und reden lassen: Heb er ein bl{uo}tztropfen kriegisch bl{uo}t in sim lyb, s{oe}ll er mit imm schlachen. Hatt der keyser geantwort: Nit nun ein tropfen, sunder der lyb vol; das welle er aber nit in einer schlacht zeigen, sunder fünf, ja sechs jar. Das m{ue}ß er innen werden
+<fn>das m{ue}ß er innen werden: das werde er erfahren; s. <a>SI</a> I 293.</fn>.<zzl>zl16302-13E</zzl></p>
+</div>
+<div>
+<p>M. C{uo}nradus
+<fn>Konrad Lycosthenes (Wolfhart); ein Sohn von Konrad Pellikans Schwester; s. <a>Pellikan, Chronikon</a> 119. 162.</fn>, d. Pellicani cognatus, venit his diebus ad oppidum Ensheimium
+<fn>Ensisheim (Dép. Haut-Rhin, Frankreich).</fn> una cum duobus Tigurinis
+<fn>Unbekannt.</fn>, ut illic ederent. Verum intromittere noluerunt, quod ex Helvetiis essent.</p>
+</div>
+<div>
+<p>Dolet mihi supra, quam dici valeat, quod refertur de tabellione Badensi
+<fn>Konrad Schweri; s. <qv>nr2606</qv>, <qv>fn16294-4</qv> und <qv>fn16294-5</qv>.</fn> in Memmingen deprehenso. Quid, quaeso, futurum putas? Tales
+<fn>Gemeint sind die Innerschweizer.</fn> sunt, qui deo vacant, nec possunt esse alii. Quid igitur nobis cum talibus? Utinam per dominum emendentur!</p>
+</div>
+<div>
+<p><zzl>zl16302-1A</zzl>Dryander
+<fn>Francisco de Enzinas. - Myconius bezieht sich auf Bullingers Frage in <qv>nr2607</qv>,<qv>zl16295-7</qv>.</fn> accepit omnia et apud me aperuit. Commentarius erat Ochini, scriptus Italice,
+<fn>Entweder die italienische Fassung von Ochinos anonym gedrucktem Dialog "Ein Gesprech des Teütschen Lands und der Hoffnung" oder eine Abschrift der ursprünglichen italienischen Fassung der in Augsburg gehaltenen Predigten Ochinos über den Galaterbrief; s. <qv>nr2607</qv>, <qv>fn16295-4</qv>.</fn> una cum literis
+<fn>Ein unbekannter Brief Bernardino Ochinos.</fn> eiusdem.<zzl>zl16302-1E</zzl> Salutationem grate accepit resalutavitque. <zzl>zl16302-14A</zzl>Ostendit hodie mihi libellum Gallice scriptum,
+<fn>Gemeint ist (s. unten Z. <qv>zl16302-4</qv>) der Löwener Index der verbotenen Bücher von Juli 1546 (Datum des kaiserlichen Druckprivilegs). Er erschien auf Lateinisch, Französisch und Flämisch und wurde bei Servatius Sassenus (Servaes van Sassen) gedruckt. Der hier von Myconius genannte französische Titel lautet: Mandement de l'Imperiale Maiesté donné et publié en l'an XLVI. Avecq Catalogue, Intitulation, ou declaration de livres reprouvés, faicte par Messieurs les Docteurs en sacree Theologie de l'Université de Louvain, Löwen 1546, in-8° [39] ff (<a>FB</a> 12648). Siehe dazu <a>Index</a> II 383f mit einem Nachdruck der lateinischen Ausgabe auf S. 387-424, sowie einer Wiedergabe der Titelblätter der französischen und flämischen Ausgabe auf S. 425f.<zfn>fn16302-6</zfn></fn> iterum a Lovaniensibus
+<fn>Die Theologen zu Löwen.</fn> {e}ditum. Ich gloub, das alle die narrichtigen
+<fn>närrischen.</fn> tüfel in sy gschloffen
+<fn>geschlüpft; s. <a>SI</a> IX 161. - Vermutliche Anspielung auf Mt 8, 31f par.; 12, 43-45.</fn> syen, die ienen
+<fn>irgendwo; s. <a>SI</a> I 296f.</fn> sind: <zzl>zl16302-4A</zzl>Innotant libros omnium disciplinarum non
+<fa><i>In der Vorlage</i> nos <i>statt</i> non <i>am Rande nachgetragen.</i></fa> legendos (tum etiam legendos proponunt)
+<fa><i>Klammern ergänzt.</i></fa>, ubi quidem sic evacuant ludos literarios, ut et catechismos prohibeant. Faciet
+<fn>Subjekt ist Dryander.</fn> eum
+<fn>libellum.</fn> Latinum.<zzl>zl16302-4E</zzl><zzl>zl16302-14E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16302-15A</zzl>Vale cum tuis et Gvalthero, cuius Antichristum
+<fn>Zu Rudolf Gwalthers Mitte August 1546 erschienenem "Endtchrist" s. <a>HBBW</a> XVII 400, Anm. 7.</fn> postquam legendo finiero, et ipsi scribam.<zzl>zl16302-15E</zzl></p>
+<p>Basile{e}, 7. octobris anno 1546.</p>
+<un>Tuus Os. Myco-­</un>
+<un>nius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, fidelissimo doctori ecclesiae Christi, domino in Christo venerando suo. Zu[rich]
+<fa><i>Textverlust bei Entfernung des Verschlussbandes.</i></fa>.</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1590">
+<nr>1590</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>10. Dezember 1541</date>
+</space_time>
+<vo>Autograph<fx>Mit Unterstreichungen und Randbemerkungen von späterer Hand.<fe>: St. Germain Kantonsbibliothek (Vadiana),
+Ms 34 (VBS V), 237 (ohne Siegel)</vo>
+<vo>Kopien: ZZB, Ms F 43, 83r.</vo>
+<vo>Ms S 50, 149<fn>Zit.: Pressel 453</fn></vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 94, Nr. 920</dr>
+<re>Bedauern und Trost zum Tod Margaretha Blarers, einer treuen Dienerin Gottes. Sendet ein Gedicht [Rudolf] Gwalthers zu ihrem Ableben mit der Bitte um Rücksendung, damit er es bei [Christoph] Froschauer drucken lassen kann. Zunahme der Pest während der Vollmondphase; in Straßburg erlag Jakob
+Bedrot der Seuche; in Zürich selbst sind noch alle Kirchendiener gesund, aber zwei Pfarrer auf dem Land starben. Grüße.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Doleo ex animo, Ambrosi colendissime, fato abreptam esse tot
+egenis praecipuam in terris spem et omnis integritatis
+gemmam nobilem, germanam sororem tuam Margaritam.<f1>Zum Tod von Margaretha Blarer s. oben Nr. 1588, 11-38.<fe> Dominus,
+qui omnia iusto iuditio facit, consoletur et te et illos,
+qui revera maximum in ipsa collocarunt praesidium. Nimirum
+placuit mirifico omnis boni retributori deo<fx>deo ^#/+am Rande nachgetragen.^#/-<fe><f1>Zu dieser Redewendung s. oben Nr. 1479, Anm. 1.<fe> fidelissimam
+famulam suam ex huius carnis carcere liberare, imo ab
+impendentibus malis subducere, ne ista videre cogatur maximo
+cum dolore, quae super nos inducet propediem dominus propter
+ingratitudinem nostram et alia peccata ingentia et innumera.
+Gaudet illa nunc ineffabiliter et laudat benedictum in
+saecula saeculorum. Gaudeto ergo in domino cum illa luctuque
+posito ora: "Adveniat regnum tuum" [Mt 6, 10; Lk 11, 2].
+^$Oravi Gvaltherum meum, multae eruditionis iuvenem, Zvinglii
+nostri generum, ut scriberet sanctissimae virgini epicedium.<f1>Gwalther führte in seinem Verzeichnis der bis 1545 gedruckten Werke auch dieses Gedicht als "Epicedion in mortem Margaritę Blaurerae ad Ambr[osium] et Thomam Blaurerum fratres" auf (Zürich ZB, Ms F 80, 297r., Nr. 9). Auch im weiteren
+Briefwechsel zwischen Bullinger und Blarer (unten Nr. 1591 und 1594) wird dieses Gedicht erwähnt.<fe>
+Scripsit id, quod tibi exhibeo, sed ea lege, ut remittas;<f1>Das Manuskript ist nicht erhalten, aber die Drucklegung wird für Februar 1542 mitgeteilt (s. Blarer BW II 103). In den einschlägigen Druckkatalogen und Bibliographien ist dieses Werk allerdings nicht zu finden.<fe>
+nam apud Froschouerum in nostrum omnium gratiam excudi
+curabo. Amat familiam vestram iuvenis et cupit vobis
+inservire.
+^$Quod praeterea scribam, non habeo, nisi quod hoc plenilunio
+recruduit apud nos pestis; non quod astris tribuam quicquam
+vel vitae vel mortis, sed quod deus, qui omnia operatur,
+tempore, astris et rebus quibuslibet pro sua voluntate
+utitur, quae semper iusta est ac bona. Audimus Argentorati
+etd. Iacobum Bedrottum, egregium certe et pium virum,
+excessisse.<f1>Jakob Bedrot war am 16. November erkrankt und am 20. gestorben; s. Blarer BW II 92; Gustav E. ^#/+Knod,^#/- Die Stiftsherren von St. Thomas zu Strassburg (1518-1548). Ein Beitrag zur Strassburger Kirchen- und Schulgeschichte, Straßburg 1892, S. 26.<fe> Dominus misereatur nostri. Recte
+alioqui valemus
+hodie omnes, qui servimus ec­clesiae, nisi quod duo ex agro
+pastores<fx>pastores ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Unbekannt.^&xLaut Zürcher Pfarrerbuch starben 1541 die Pfarrer Hans Schmid (Dällikon, S. 507), Konrad Schärer (Glattfelden, S. 496), und Ulrich Werdmüller (Rickenbach, S. 612).^&x{<fe>, viri docti et boni, superioribus diebus peste
+extincti concesserunt ad dominum.
+^$Fratrem<f1>Thomas Blarer.<fe> tuum, dominum meum colendissimum, diligenter
+salutabis, ita et charissimos Zviccios<f1>Johannes und Konrad Zwick.<fe>, quos omnes
+consoletur et incolumes una tecum conservet dominus. Amen.
+^$Tiguri, 10. decembris 1541.
+<un>Bullingerus, tuus totus.
+<lz>[Ohne Adresse.]<fx>^#/+Auf der Rückseite Vermerk von Blarer:^#/- 10 decembris anno 41.<fe>
+</content>
+</letter>

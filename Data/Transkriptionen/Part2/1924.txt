@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1924">
+<nr>1924</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Calvin</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>8. Juni 1544</date>
+</space_time>
+<vo>Abschrift von Johann Jakob Simler<fx>^#/+Nach Simlers Angabe beruht die Abschrift auf Paris BN, Collection Dupuy, t. 268 (dort nicht vorhanden).^#/-<fe>: Zürich ZB Ms S 55, 49</vo>
+^&xK: Zürich ZB, Ms S 55, 49; Zit.: F. Meyer, evang. Locarno I 159. 160^&x{
+^&xVorlage für Traugott Schieß (und Computereintrag) ist Ms S 55, 49^&x{
+<re>Der Überbringer, Bruder Hieronymus [Girolamo Mariano], ist Italiener, war Guardian in einem Franziskanerkloster bei Mailand, floh und fand Aufnahme bei Hieronymus Fricker, Landvogt von Mendrisio; dieser schrieb an [Konrad] Pellikan, und [Girolamo Mariano] brachte den Brief mit hierher; er sucht
+Rat und Hilfe, spricht Italienisch und Französisch, aber in [der Zürcher Kirche] gibt es keine Verwendung für ihn, und so schickt Bullinger ihn weiter [nach Genf]; im Berner und Genfer Landgebiet soll es an Kirchendienern mangeln; es schmerzt, dass [die Zürcher] nicht die Mittel haben, ihn und
+andere Flüchtlinge aufzunehmen. Der von Calvin empfohlene Knabe [...] wird ihm schreiben; er hat Bücher für 29 Batzen gekauft, was beinahe zwei Gulden entspricht, und es wäre gut, wenn der Kaufmann dem [Stadt-] ^@+Schreiber [Werner Beyel] sechs bis acht Kronen schicken könnte, denn es ist üblich, dass die
+Kostgeber gleich anfangs einen Gutteil des vereinbarten Geldes erhalten; die Sendung soll nicht allein an den Jungen, sondern auch an [Werner Beyel] oder an Bullinger erfolgen.
+</re>
+<dra>[Gedruckt: CO XI 724f, Nr. 557; Corr. des réformateurs IX 270f, Nr. 1365.]</dra>
+^&xGratiam et vitae innocentiam a domino.
+^$Frater Hieronymus, qui has tibi offert, Calvine doctissime
+idemque carissime frater, Italus est; guardianus fuit in
+coenobio quodam Franciscanorum apud Mediolanum, aufugit
+autem, ne in vincula coniiceretur propter Christum. Excepit
+ipsumd. Hieronymus Frickerus[f1]Zu Fricker s. Mathias Sulser, Der Stadtschreiber Peter Cyro und die Bernische Kanzlei zur Zeit der Reformation, Bern 1922, S. 131-134.[fe] Bernas, qui nunc praesidem
+agit Mendrisii, scripsitque add. Pellicanum literas, quas
+hic attulit consilium a nobis atque auxilium postulans. Ego
+quum viderem et intelligerem hominem esse bonum, sed non
+perinde doctum, qui tamen Gallicae et Italicae linguae
+peritus esset, sed huius profecto magis quam illius, ita ut
+nullus eius usus esset futurus in ecclesia nostra, quae
+alioquin etiam onerata est, literis et viatico instructum ad
+vos proficisci ac ibi locum aliquem, in quo haereat,
+quaerere suasi; nam non pauci referunt ecclesias in agro
+Bernensi et Genevensi inopia laborare ministrorum. Commendo
+itaque hunc fratrem tuae caritati, si forte locus ei certus
+daretur, ne perpetuo cogatur oberrare. Non ignoro res
+vestras admodum esse accisas; ideo veniam mihi dari oro. Non
+mitto illum, ut onerem vos, sed tantum ut indicem, si forte
+eius aliquis esset usus. Si nullus erit, tum consolatione et
+commendatione aliqua instructum rursus licebit dimittere.
+Doleo profecto, quod nobis non sunt tantae opes, ut hunc et
+alios exules recipere et alere possimus; facimus ergo, quod
+possumus, nec aliud postulamus a vobis. Dominus Iesus sit
+tecum.
+^$Scribet adolescens, quem mihi commendasti, quomodo res eius
+habeant. Emit libros pro ursis, si bene memini, 29, id est
+pretium duorum fere aureorum nostrorum, non coronatorum.
+Commodum autem foret, si mercator scribae mitteret 6 aut 8
+coronatos; ita apud nos fieri fere solet, ut, qui recipiunt
+convictores, hospitibus mox ab initio aut circa initium
+bonam partem pactae adpendant pecuniae. Cura autem, ut, quae
+mittuntur, non ad puerum solum, sed etiam ad scribam urbis
+aut ad me mittantur.
+^$Vale, colende et percare mi Calvine, frater in domino
+venerande.
+^$Tiguri, 8. iunii 1544.
+<un>H. Bullingerus tuus.
+<lz>[Ohne Adresse.]^&x{
+</content>
+</letter>

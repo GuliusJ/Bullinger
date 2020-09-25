@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2036">
+<nr>2036</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>19. November 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 107 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 320, Nr. 1143</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 56^&x{
+<re>Beiliegend erhält Bullinger einen Brief, aus dem hervorgeht, wie die Dinge um den Sohn [Felix Lavater] des [Zürcher] Seckelmeisters [Hans Rudolf Lavater] stehen; der Augsburger Ratsherr [Hans Zangmeister], dem Blarer diese Angelegenheit anvertraute, ist ein besonders guter Mensch.
+Es schmerzt Blarer, dass sich der Neffe [Josua Bullinger], Sohn von Bullingers Bruder [Johannes Reinhart], nach St. Germain verlocken lassen hat; hätte Blarer früher davon erfahren, hätte er zumindest dieses unsinnige Vorhaben verzögert.
+Hardenberg schrieb aus Straßburg, dass er Bullinger die ["Epitome"] von Johannes a Lasco geschickt habe; Blarer möchte diese auch gern lesen.
+Wagt nicht, seinen nach [Grießenberg] zurückkehrenden Schwager [Heinrich von Ulm], [dem er diesen Brief anvertraut], länger aufzuhalten.
+In Ulm soll am 24. November der Städtetag zusammenkommen.
+Der Württemberger [Herzog Ulrich] hat Esslinger Bürger gefangen genommen und gefoltert.
+Bucer bedauert den schlimmen Zustand der Kirchen sehr; wäre doch dieser so leicht zu behandeln, wie es leicht fällt, die Diagnose zu stellen.
+Gewisse Leute - doch nicht Bucer oder jemand, den Bullinger kennen würde! - fänden es gut, wenn sich alle zur Verdammung der Zürcher Kirche verschwören würden.
+Grüße; demnächst mehr.</re>
+<tx>Salve, mi venerande Bullingere.
+^$Accipis hic epistolam,<f1>Nicht ermittelt.<fe> unde intelliges, quo loco sit causa
+filii quęstoris vestri<f1>Der Seckelmeister Hans Rudolf Lavater, dessen Sohn Felix Lavater sich schwer verletzt hatte; s. oben Nr. 2018, 12-23.<fe>. Senator<f1>Hans Zangmeister, dem Blarer den Verletzten anvertraute; s. oben Nr. 2027 mit Anm. 21.<fe> et vir valde bonus est
+Augustę, cui id negocii curandum<fx>^#/+Vor^#/- curandum ^#/+unleserlich gemachtes^#/- ded[eram].<fe> dederam.
+^$Nepos<f1>Josua Bullinger, der eine Kürschnerlehre in Konstanz begonnen hatte; s. oben Nr. 1986, 11-15; zuletzt 2007, 50-52.<fe> tuus ex fratre<f1>Johannes [Reinhart] Bullinger.<fe> alium artis magistrum<f1>Unbekannt.<fe> Sangalli amplexus non iam hic agit nobiscum.
+Male me habuit, quod passus est pellici sese Sangallum;
+quod si in tempore rescissem, certe, si nihil aliud,
+remoras tamen conatibus istis malesanis iniecissem.
+^$Hardenbergius Argentorato ad me scripsit<f1>Hardenbergs Brief vom [10.] November 1544, Blarer BW II 318f, Nr. 1142.<fe> se ad te misisse
+Institutionem ecclesię Frisię orientalis<f1>A Lascos "Epitome doctrinę ecclesiarum Phrisię orientalis". Ende August 1544 sandte der Autor diese Schrift zunächst Bucer nach Straßburg und bat ihn, sie nach seiner Lektüre nach Zürich weiterzuvermitteln, wo er sogar auf deren Drucklegung hoffte; s. oben Nr. 1933, Anm. 17; 1956 mit Anm. 9f; 1964.<fe>, cuius author
+sitd. Ioannes a Lasco; eam rogo, mi frater, ut mihi quoque,
+ubi integrum erit,<f1>Meint Blarer: Wenn sie fertiggedruckt ist?<fe> legendam mittas.
+^$Abiturientem sororium<f1>Heinrich von Ulm, der in Grießenberg (Kt. Thurgau), auf der Strecke zwischen Konstanz und Zürich, zu Hause war; s. HBBW IV 188f, Anm. 14.<fe> meum, qui domum festinat, remorari non audeo.
+^$Ulme conventus erit urbium 24. novembris.<f1>Zuerst hätte der Städtetag auf Empfehlung der Stadt Ulm in Esslingen stattfinden sollen, wurde dann aber auf Vorschlag Nürnbergs hin wegen des Konflikts zwischen dem Herzogtum Württemberg und Esslingen (s. unten Anm. 13) nach Ulm verlegt. Der Ulmer Rat lud die Städte seines Ausschreibungsbezirks für den 24. November nach Ulm ein, musste aber wieder absagen. Daraufhin setzte der Frankfurter Rat einen Städtetag für den 1. Dezember in Worms an, was von Nürnberg abgelehnt wurde, das einen Städtetag für den 23. Dezember in Ulm empfahl. Dies wurde von Ulm akzeptiert, jedoch wegen der entlegenen Kommunen mit der Terminverschiebung auf den 6. Januar 1545. Während Nürnberg und Ulm die fränkischen und schwäbischen Städte erneut einluden, beschwerte sich der Rat von Speyer am 8.^#. Dezember 1544 in Frankfurt über das bisherige Ausschreibungsverfahren und über Ulm als Versammlungsort^&x"Der Frankfurter Rat schrieb in diesem Sinne erneut an Straßburg und fügte noch hinzu, ein Separattreffen der Städte werde am Ort des Reichstages doch bekannt; man habe
+deswegen die Kommunen des eigenen Bezirks nicht nach Ulm eingeladen. Nachdem Straßburg Ulm über diese neue Entwicklung informiert hatte, sagte letzteres den schwäbischen Kommunen den Städtetag 'wider unsern willen' zum zweiten Male ab. Die Einwände des Frankfurter Rats hatten sich durchgesetzt: Nürnberg und Ulm luden nun ebenfalls die von ihnen auszuschreibenden Städte zu einer Städteversammlung während des Reichstags ein"^&x{ (s. Georg ^#/+Schmidt,^#/- Der Städtetag in der Reichsverfassung. Eine Untersuchung zur korporativen Politik der Freien und Reichsstädte in der ersten Hälfte des 16. Jahrhunderts. Stuttgart 1984.^&!s(-40) - Veröffentlichungen des Instituts für Europäische Geschichte Mainz, Abt. Universalgeschichte 113. Beiträge zur Sozial- und Verfassungsgeschichte des Alten Reiches 5, S. 32f).^&!s(+0) Schließlich sollte der Städtetag ab dem 6. Januar 1545 in Worms stattfinden (s. RTA XVI/1 84). Aus Blarers Brief an Bullinger vom 1. Januar 1545 (Blarer BW II 339, Nr. 1156) geht hervor, dass Konstanz von Ulm erst gegen Ende Dezember 1544 über die Verlegung des Versammlungsortes benachrichtigt wurde.<fe>
+^$Wirtembergen[sis]<f1>Herzog Ulrich von Württemberg.<fe> Esselingiacen[ses] cives aliquot in vincula coniecit, deinde etiam aliis nonnullis nescio quam
+vim infert.<f1>Zur ersten Gefangennahme (Z. 12) ist nichts bekannt. - In den zu Esslingen gehörenden Siedlungen im Hainbachtal wurden auf Herzog Ulrichs Anweisung am 2. November 1544 drei Jäger (s. unten Nr. 2048 mit Anm. 9), "Georg Strauß, Martin Leins und Georg Lauser, als Wilderer fortgeschleppt, [später] in Urach gefoltert und ihnen die Augen ausgestochen"; vgl. Karl ^#/+Pfaff,^#/- Geschichte der Reichsstadt Eßlingen, Eßlingen am Neckar 1840, S. 390; unten Nr. 2048, 16f. Hintergrund waren die jahrelangen Konflikte zwischen Herzog Ulrich und Esslingen, die aufgrund vertragswidriger Besteuerungen der Esslinger Güter durch Württemberg ausgebrochen waren; vgl. Karl ^#/+Pfaff,^#/- aaO, S. 378-393. Zum Hainbachtal vgl. Joachim J. ^#/+Halbekann,^#/- Esslingen. Vielfalt der Alten Ordnung, in: Der Landkreis Esslingen, hg. vom Landesarchiv Baden-Württemberg in Verbindung mit dem Landkreis Esslingen, Bd. 1, Ostfildern 2009, S. 471-475 (wir danken Herrn Dr. Joachim J. Halbekann, Leiter des Stadtarchivs Esslingen, für freundliche Auskunft).<fe>
+^$Bucerus valde apud me deplorat<f1>In Bucers Brief an Blarer vom 16. Oktober 1544; Blarer BW II 310f, Nr. 1135.<fe> ecclesiarum nostri sęculi
+miserandum valde statum, ut vere profecto est; atque utinam
+tam mederi esset facile quam istuc agnoscere!
+^$Quidam scribunt<f1>Nicht in Blarer BW. - Die Argumentation der Gegner Zürichs kann etwa aus dem zuvor erwähnten Brief Bucers an Blarer entnommen werden; s. Blarer BW II 310, Z. 4-11.<fe> ad multos consultum videri, ut omnes ad
+ecclesię Tigurinę condemnationem conspirent etc. Sed, ita me deus amet, ne quid suspiceris, nihil tale vel a Bucero vel quoquam alio tibi de facie noto ad me scriptum etc.
+^$Sed valebis iam cum tuis omnibus, quibus me commendo.
+Salutant te nostri omnes. Propediem plura.
+^$Constan[tiae], 19. novembris 1544.
+<un>Tuus Ambr. Blaurerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Heinricho Bullingero, Tiguricen[sis] ecclesię
+episcopo, fratri venerando atque charissimo.
+</content>
+</letter>

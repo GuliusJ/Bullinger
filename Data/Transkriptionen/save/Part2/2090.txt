@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2090">
+<nr>2090</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>28. Februar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 238 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 177; Zit.: ^#/+Gast,^#/- Tagenbuch 76 (A. 218). 90 (A. 262).^&x{
+<re>Gast hat ein wenig in Bullingers Schrift ["Warhaffte Bekanntnuß"] gegen Luthers ["Kurtz bekentnis"] gelesen und billigt alles. Die Lutheraner sind in Angst. Der gelehrte Leipziger Theologe Alexander Alesius schrieb an Gast, man hörte, Bullinger plane ein Buch gegen Luther, woraus neuer Aufruhr entstehen und der Erfolg des Evangeliums verhindert werden könnte; man würde dem Brief des Papstes und den Drohungen des Kaisers zufolge in höchster Gefahr schweben.
+-^#. Gast schickt zwei Bücher Oekolampads.
+-^#. Das [in Basel] nicht vorhandene Buch ["In primum Musculi Anticochlaeum Replica brevis"] von [Johannes] Cochläus könnte Gast auf der Frankfurter [Frühjahrs]messe kaufen, wenn Bullinger es braucht.
+-^#. Gast wird [Sebastian Lepusculus] ermahnen, keinen neuen Brand zu entfachen und [Simon] Grynäus' berühmten Namen durch [Lepusculus' Kommentar zu Aristoteles] nicht herabzuwürdigen. Gast legt einen Brief von Gilbert [Cousin] bei.
+-^#. Möge Bullinger den Kirchen unversehrt erhalten bleiben!
+-^#. [P.S.:] Bullinger soll [Cousins] Brief Theodor [Bibliander] zu lesen geben, damit dieser etwas an [Cousin] schreibt. Dieser ist ein guter und dem Evangelium ergebener Mann, auch wenn er noch papistischen Zeremonien anhängt. Er bildet die Jugend gut aus und liest alles, was [in Basel] veröffentlicht wird.</re>
+<tx>S. in domino, mi charissime Bullingere.
+^$Legi unum et alterum folium tuae responsionis<f1>Das "Warhaffte Bekanntnuß" der Zürcher, das kurz vor dem 12. März 1545 erschien; s. oben Nr. 2061, Anm. 9.<fe> contra Lutheri fanaticum et mendacem libellum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>, et summe probantur omnia. Benigne tractas hominem crudelem,
+quem nunquam cicurem aut mansuetum reddes etiam blandissimis verbis adhibitis. Habebit suum iudicem.
+Hoc autem scio, quod Lutherani trepident. Scripsit enimd. Alexander Alesius,
+Lipsensis theologus, doctus et pius vir, cuius commentaria in Psalterum<f1>Alexander ^#/+Alesius,^#/- De autore et usu Psalmorum oratio, Frankfurt a.d. Oder, Johannes Hanau d.Ä., 1541 (VD 16 A 1723).<fe> domi meę habeo,
+ad me hęc verba: "Audivimus hic Bullingerum adornare scriptum contra Lutherum;
+hic forsan faciet novos tumultus et impediet successum evangelii. Et versabimur iam
+in summo periculo ac discrimine, quantum apparet ex literis pontificis<f1>Gemeint sind das Tadelsbreve des Papstes an Karl^#. V., von dem es zwei Fassungen gab (von August 1544 und vom 24. August 1544); s. oben Nr. 2071, Anm. 25, sowie die päpstliche Bulle vom 19. November 1544, die das Konzil auf den 15. März 1545 ansetzte; s. oben Nr. 2071, Anm. 24.<fe> et minis caesaris<f1>Kaiser Karl V.<fe>."<f1>Näheres zu diesem Brief von Alesius an Gast ist nicht bekannt.<fe> Hęc ille.
+^$Libellos duos Oecolampadii<f1>Vielleicht zwei Exemplare der Ende 1544 erschienenen Schrift "Inn die clag Hieremie" (s. HBBW XIV 555f); vielleicht aber auch frühere Schriften Oekolampads, die damals für die Herausgabe der Werke Zwinglis (s. HBBW XIV 140, Anm. 4) oder für die Abschlussarbeiten am "Warhafften Bekanntnuß" benötigt wurden.<fe> mitto.
+^$Choclei libellus<f1>Cochläus' "In primum Musculi Anticochlaeum Replica brevis" (s. oben Nr. 2078, Anm. 4), in der eine "Responsio in Antibolen Bullingeri" als "Epilog" veröffentlicht ist.<fe> non extat apud nos. Si opus habes, emam in nundinis Francofordanis<f1>Die Frankfurter Frühjahrsmesse begann etwa 24 Tage vor Ostern und dauerte 20 Tage; s. Alexandre ^#/+Vanautgaerden,^#/- Erasme typographe. Humanisme et imprimerie au début du XVI^#'e siècle, Genf 2012 - Travaux d'Humanisme et Renaissance 503, S. 10.<fe>.
+^$Vale in domino.
+^$Lepusculum<f1>Sebastian Lepusculus (Häslin).<fe> admonebo, ne quid novi incendii suscitet, ne Grynęi nomen celebre hiis scriptis ignobile reddat.<f1>Gast bezieht sich auf Lepusculus' in Arbeit befindliche Ausgabe eines Kommentars von Simon Grynäus zu Aristoteles' "Topica": Aristotelis philosophorum principis octavus Topicorum liber, absolutam quandam disputandi methodum continens, doctissimisque annotationibus D. Simonis Grynaei illustratus. Una cum epistola nuncupatoria Sebastiani Lepusculi Basiliensis ..., Basel, Hieronymus Curio, 1545 (VD 16 ZV 712; GG 130). Die Widmungsepistel datiert vom 12. November 1545; das Buch wurde also etwa in der zweiten Hälfte November 1545 fertig gedruckt. - Diese Mahnung könnte durch Bullingers Abneigung gegen Philosophie verursacht worden sein; s. unten Nr. 2095, 29-32.<fe>
+Quid ad me scripserit Gilbertus<f1>Gilbert Cousin.<fe>, hic habes.<f1>Gilbert Cousin an Johannes Gast, 15. Februar 1545 (Zürich StA, E II 345, 288). Darin erwähnt Cousin Bullingers Brief (nicht erhalten; s. HBBW XIV 268, Anm. 15) mit Dankbarkeit, vermisst eine Antwort von Bibliander und erkundigt sich nach Konrad Gessner.<fe>
+^$Vale iterum atque iterum diu salvus ecclesiis nostris, quę a lupo crudelissimo<f1>Vgl. Mt 7, 15; Apg 20, 29.<fe> devastantur.
+^$Basileę, 28. februarii 1545.
+^$Theodoro<f1>Theodor Bibliander.<fe> nostro has literas<f1>Cousins Brief.<fe> legendas prębe, ut tandem aliquid Gilberto nostro scribat.
+Est enim bonus vir et evangelio addictissimus, licet adhuc papisticis ceremoniis alligatus sit propter commodum et lucellum; attamen bene docet iuventutem, et quicquid usquam editur divulgaturque, coemit et legit.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho Bullingero, Tigurinae ecclesiae vigilantissimo pastori, etc. Zuͦ Zurich.
+</content>
+</letter>

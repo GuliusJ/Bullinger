@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="23045">
+<nr>23045</nr>
+<correspondents>
+	<originator>Johannes Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(Bern)</place>
+	<date>4. April 1553</date>
+</space_time>
+<vo>Zürich StA, E II 370, 191.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S.  Mitto tibi tumultuarie excerptas quasdam novitates ex
+literis ab Augusta add. Musculum scriptis. Alias nihil nunc
+habeo, quod scribam, nisi quod te cum omnibus tuis bene
+iubeo valere. Vale.  4. aprilis 1553.
+I.  Hallerus, t[otus] t[uus].
+Adr. a. t.: Clarissimo virod. Heinrycho Bullingero,
+Tigurinę ecclesię antistiti fidelissimo, domino ac
+compatri suo colendissimo.
+</content>
+</letter>

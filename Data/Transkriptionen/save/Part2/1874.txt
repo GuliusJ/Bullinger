@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1874">
+<nr>1874</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Martin Bucer]</addressee>
+	<note fn=1>Dass Bucer der Adressat ist, ergibt sich aus der Bezugnahme auf dessen Brief vom 27. Dezember 1543 (HBBW XIII, Nr. 1831).</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>18. März 1544</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand^&xnicht W. Haller!^&x{: Zürich StA, E II 335, 2067</vo>
+^&xK: Zürich ZB, Ms B 171, 63 [irrt. an Myconius!] (von H. K. Füssli); Ms S 54, 86; Straßburg BNU, Ms 674 (Th. B. 15), 28; Zit.: Pollet, La Corr. inédite 138f; Pollet, Bucer II 292, A. 3; Rott, in: HBGesA II 383, Nr. 158; Erichson, Zwinglis Tod, 36.^&x{
+<dr>Ungedruckt</dr>
+<re>Eine Antwort auf [Bucers] langen Brief [Nr. 1831] schien ihm unnötig, da Luther jede Gemeinschaft mit [den Zürchern] abgelehnt hat; das Urteil soll Gott überlassen bleiben; Bullinger kann [Joachim] Forrer keinen Rat [in der Frage der Abendmahlsgemeinschaft mit den Straßburgern] geben. Sendet seine in den letzten drei Monaten entstandene Antwort an Cochläus ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"], die er samt Begleitbrief [Nr. 1870] auch an Cochläus selbst geschickt hat. Sieht sich in seinen [in Nr. 1797] geäußerten Befürchtungen bestätigt: Kaiser [Karl^#. V.] treibt die Deutschen, um sie zu schwächen, in den Krieg gegen die Türken; er will nach einem Sieg über Frankreich den Herzog von Savoyen [Karl III.] und die Bischöfe von Lausanne und Genf [Sébastien de Montfalcon und Pierre de La Baume] wieder einsetzen, die Eidgenossen und den Schmalkaldischen Bund niederwerfen und das Papsttum wieder aufrichten; möge der Herr seine Kirche bewahren! Gruß.
+</re>
+<tx>G[ratiam] et p[acem] a domino.
+^$Quod ad prolixiores illas tuas literas<f1>HBBW XIII, Nr. 1831. Der Brief Bucers wurde Bullinger am 3. Januar 1544 durch Myconius zugesandt; s. oben Nr. 1835 mit Anm. 1.<fe> nihil respondeo, non id in causa est, quod eas non receperim, sed quod res ipsa non videatur responsionem postulare.
+De concordia enim quid responderem amplius, cum Lutherus diserte dicat nullas Christi ecclesias quicquam nobiscum habere posse commertii, nos esse seductores, qui ecclesias nostrae fidei commissas nobiscum abripiamus ad diabolum, contra quos et docere et orare velit in finem usque vitae?<f1>Bullinger bezieht sich auf Luthers Brief an Christoph Froschauer vom 31. August 1543 (WA Briefwechsel X 384-388, Nr. 3908), von dem er eine Abschrift an Bucer gesandt hatte; s. HBBW XIII 282f, 67-82.<fe> Dominus ipsi rependat aut oculos potius aperiat, ut semetipsum et cor arrogans atque superbum<f1>Vgl. Spr 21, 24.<fe> agnoscat immeritosque Christi servos contumeliis et iniuriis afficere desinat.
+Si vero non potest sperari ulla hominis iam senis mutatio, ut posita petulantia linguę et scurrilitate gravius et modestius agat cum Iudaeis, cum reliquis item fidei hostibus aut adversariis,<f1>Vgl. HBBW XIII 335f, 19-36.<fe> age permittamus et haec iuditio iusti dei. Expectemus, donec ille hanc litem dirimat.
+Ac Forero<f1>Der Student Joachim Forrer aus Winterthur, dessen Studium seit August 1543 mit der Pfarrpfründe der St. Peter- und Paul-Kirche in Winterthur finanziert wurde, hatte in Straßburg zum Missfallen Bucers die Teilnahme am Abendmahl verweigert (s. HBBW XIII 363f, 279-295). Aus einem Brief Bullingers an den in Straßburg studierenden Zürcher Ludwig Lavater vom 31. August 1546 (Zürich ZB, Ms F 64, 645a) geht hervor, dass Bullinger Forrers Weigerung billigte und dass dieser seine Haltung nicht änderte.
+Mit Hans Zart (Sardenus, gest. 1567), seinem Mitbürger und Studiengefährten in Straßburg, konnte Forrer den Winterthurer Rat und Schultheißen (Hans Huser) überzeugen, in Straßburg bis zum Frühling 1546 weiterzustudieren. Siehe Kaspar ^#/+Hauser,^#/- Die Prädikatur oder zweite Pfarrpfründe in Winterthur, in: Njbl. der Hülfsgesellschaft von Winterthur 55, 1919, Winterthur 1918, S. 29f; Hermann ^#/+Walser,^#/- Geschichte der Laurentzen- oder Stadtkirche Winterthur, Teil 2, Zeit der Reformation und Gegenreformation, in: Njbl. der StB Winterthur 278, 1945, S. 55 und Anm. 229 (mit einer Spur Forrers von Mai 1548); Jacqueline ^#/+Schmid-Forrer,^#/- Die Familie Forrer von Winterthur. Die ersten fünf Generationen,^&!s(-50)Typoskript [Zürich ZB, Handschriftenabteilung, Gen B 54 ba], Bd. 1, 1983, S. 34, 47-50 (mit vier Briefen Forrers aus dessen^&!s(+0) Straßburger Zeit). Mit Recht erwägt ^#/+Schmid-Forrer^#/- die Möglichkeit, Joachim könnte der seit 1498 eingebürgten Familie Furrer genealogisch zuzuordnen sein.<fe>
+quid suadere possim ac<fx>ac ^#/+undeutlich korrigiert und am Rande wiederholt.^#/-<fe> debeam, non video, cum apostolus dicat: "Probet autem seipsum homo et sic de pane edat" [1Kor 11, 28] etc. Forte revocabitur a suis.
+^$Ego tribus hisce mensibus proximis respondi<f1>Vgl. oben Nr. 1869, 2f, wo von 14 Wochen die Rede ist.<fe> Cochleo; responsionem<f1>Vgl. oben Nr. 1839, Anm. 3.<fe> hic mitto, ut videas, quomodo communi causae sim patrocinatus. Expecto autem, quid ille sit oppositurus; nam exemplum una cum literis<f1>Oben Nr. 1870.<fe> ipsi misi.
+^$Quae de consilio caesaris<f1>Karl^#. V.<fe> scripsi literis proximis<f1>HBBW XIII 283f, 105-120.<fe>, quaeso, ne obliviscaris.
+Cernis enim nunc quaedam ita ab illo postulari et geri, sicuti praedixerunt viri prudentes gerenda. Vereor, ne in hoc totus sit, ut fortiss[imam Germaniae]<fx-t>^#/+Text durch Ausriss beschädigt; ergänzt nach der Abschrift Johann Jakob Simlers in Zürich ZB, Ms S 54, 86.^#/-<fe> gentem obiitiat laniandam Turcis aut exhau[riendam]<fx-x>^#/+Text durch Ausriss beschädigt.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> saltem pecunia, belli nervo<f1>Vgl. Cicero, Orationes Philippicae, 5, 5.<fe>.
+Interim ipse in hoc [erit]<fx-x>^#/+Text durch Ausriss beschädigt.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> totus, ut subiugato Gallo<f1>König Franz^#. I. von Frankreich.<fe> restitutisque duce [Sabaudiae]<fx-x>^#/+Text durch Ausriss beschädigt.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe><f1>Herzog Karl III. von Savoyen.<fe>, episcopis item Lausanensi<f1>Sébastien de Montfalcon, geb. um 1489, gest. 1560, war von 1517 bis zu seiner Vertreibung 1536 Bischof von Lausanne. - Lit.: Laurette ^#/+Wettstein,^#/- in: Helvetia Sacra I/4 148-150.<fe> et Genevensi<f1>Pierre de La Baume.<fe> debellatisque Hel[vetiis vel]<fx-x>^#/+Text durch Ausriss beschädigt.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> bellum transferat in Germaniam vel metu dissol[vat foedus]<fx-x>^#/+Text durch Ausriss beschädigt.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> Schmalkaldicum.
+Nam papismum cupit incolumem, re[ligio]nem<fx-x>^#/+Text durch Ausriss beschädigt.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> evangelicam plane perditam.
+^$Vivit tamen et regnat<f1>Anklang an den aus der römischen Messe bekannten Orationsschluss (s. etwa auch Z VI/V 96, 7f).<fe> in coelis, qui iniqua molientes de repente potest opprimere, at idem nos vigilare et orare iubet.<f1>Vgl. Mt 26, 41; Mk 13, 33; 14, 38; Lk 21, 36.<fe> Dominus servet ecclesiam suam ad gloriam nominis sui! Amen.
+^$Salutabis fratres ac valebis.
+^$Tiguri, 18. martii anno 1544.
+<un>H. Bullingerus etc.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1082">
+<nr>1082</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>22. Dezember 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 138 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Angesichts der in Bern herrschenden Affekte sind seine Bedenken, die Berner Kirche zu verlassen und nach Zürich zurückzukehren, hinfällig geworden.
+Bittet, ihn ohne Angst aufzunehmen, und verspricht loyales Verhalten. Wünscht die Weiterleitung
+eines Schreibens an den Zürcher Rat; er selbst wird morgen seinen Rücktritt bekanntgeben. Ersucht um Hilfe bei der
+Beschaffung einer Unterkunft; hat [Hans] Hager und seinen Bruder beauftragt, Wein und Holz zu kaufen. Verweist auf Erasmus
+[Ritters] Bericht [Nr. 1081] über die Lage in Bern; die Berner Kirche ist von jener in Zürich nun weitgehend getrennt.</re>
+<tx>Gratiam a domino.
+^$Domum hactenus redire non licuit vel propter vos aut conscientiam, qua veritus, ne me discedente ecclesia nostra destitueretur. At quando omnia adamussim<f1>Vgl. Adagia, 1, 5, 90 (LB II 216).<fe> pensito, omnino
+diversum invenio, videlicet praesenciam meam magis obesse quam prodesse ecclesię nostrę, praesertim hoc tempore, quando [non]<fx>non ^#/+fehlt in der Vorlage^#/-.<fe> racione, iudicio, zelo ac studio domini, sed adfectibus omnia transiguntur,
+idque non solum unius, sed<fx>sed^#/+ am Rande nachgetragen.^#/-<fe> virorum multorum piorum odio, quos studiis, conatibus et inventis nostris non consentire videmus. Et qui hactenus in vado hęsi<f1>Vgl. Ambrosius, Expositio evangelii secundum Lucam III 44 (CChr XIV 100, 769); Adagia, 4, 3, 70 (LB
+II 1019).<fe>, quid agerem, nescius, nunc tandem, quo me
+vertam, deus comonstrare apertissime videtur, Tigurum videlicet, ad charissimos vos fratres meos.
+^$Per dominum igitur oro, rogo et obtestor, ut vestro consensu ad vos me recipere ac comigrare queam.
+Extrahite me a faucibus leonis<f1>Vgl. Ps 22, 22.<fe>, obsecro, et ne pavescatis, metuatis, formidetis, exhorescatis, per dominum oro, meum ad vos adventum. Totus domini et vester ero; non me et mea, sed
+praescripta fratrum in mortem usque sequar. Non verba erunt, sed factis praestabo omnia.
+^$Literas, quas hic transmitto<f1>Nicht erhalten.<fe>, per dominum oro, vos ipsi ad senatum has referre causamque meam isthic agere
+velitis, nisi consilium aliquod melius vobis videatur. Sed ne procrastinetis; ego enim cras adibo senatum rogaturus, ut eius
+pace domum redire liceat. Id qum factum fuerit, abitum matu­rabo. Deus bene vertat.
+^$De domo conducenda<f1>Vgl. zuletzt oben Nr. 1080, 10-12.<fe> oro, iuvate, fratres. Hagero<f1>Hans
+Hager hielt sich in diesen Tagen in Bern auf; vgl. unten Nr. 1083, 37f.<fe> et fratri meo<f1>Nicht namentlich bekannt; vgl.
+oben Nr. 999, Anm. 2.<fe> vini et lingnorum[!] coempcionem demandavi.
+^$Erasmus dicit se omne negocium vobis depinxisse<f1>Vgl. Erasmus Ritters Brief vom Vortag (oben Nr. 1081).<fe>, quare praetereo omnia. In summa:
+Magna ex parte ecclesia Bernensis a Tigurina avulsa est. Voluit certe hoc dominus, ut Tigurina sola in luce consisteret.
+^$Valete in domino, charissimi fratres. Satagite negocium meum, per Christum oro.
+^$Bernę, 22. decembris anno 37.<un>Megand. ex animo vester.
+<lz>[Adresse auf der Rückseite:] Bullingero ac Leoni, Tigurinę ecclesię ministris vigilantissimis, fratribus suis in domino charissimis.
+</content>
+</letter>

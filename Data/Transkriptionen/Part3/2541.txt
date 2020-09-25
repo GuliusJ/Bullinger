@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2541">
+<brief>
+<id>16429</id>
+<nr>2541</nr>
+<ae>[Hans Vogler an Bullinger]</ae>
+<od>[...]
+<fn>Wahrscheinlich St. Gallen; s. unten <qv>fn16429-6</qv>.</fn>, [21.] August [1546]
+<fn>Das Jahr geht aus dem Inhalt des Briefes, besonders aus Z. <qv>zl16429-2</qv>, hervor, während das genaue Datum aus der fehlerhaften Angabe unten Z. <qv>zl16429-1</qv> ("Sampstag, dem 20. augusti") abgeleitet werden kann: Im Jahre 1546 fiel der 20. August auf einen Freitag, und Vogler wird sich eher (vgl. <qv>nr2531</qv>, <qv>fn16231-8</qv>, <qv>fn16231-2</qv> und <qv>fn16231-9</qv>) bei der Zahlenangabe als bei der Tagesbezeichnung geirrt haben.<zfn>fn16429-1</zfn></fn></od>
+<vo>Autograph: Zürich StA, E II 441, 271 (ohne Siegel)
+<fa><i>Siehe dazu unten <qv>fn16429-2</qv>.</i></fa></vo>
+<dr>Ungedruckt</dr>
+<re>Gruß von [Joachim] Vadian.
+<t/>Herzog [Wilhelm] von Kleve führt 400 Infanteristen mit sich; der Herzog von Pommern [Johann von Brandenburg-Küstrin] 200 Kavalleristen. Beide befinden sich in der Nähe von Nürnberg und ziehen gegen die Protestanten.
+<t/>Kurfürst [Johann Friedrich] von Sachsen und [Landgraf Philipp] von Hessen haben eine Gesandtschaft nach Nürnberg abgefertigt und die Stadt aufgefordert, sich dem [Schmalkaldischen] Bund anzuschließen. Was erreicht wurde, ist unbekannt. Fest steht, dass die Stadtbevölkerung dem Bund wohlgesinnt ist. Man soll sogar den Protestanten eine Wagenladung mit Geld geschickt haben.
+<t/>[Sebastian von Heusenstamm], Bischof von Mainz, habe eine Stadt des Landgrafen eingenommen. Man sagt aber, dass der Landgraf diese sogleich zurückeroberte.
+<t/>Derselbe Bischof wollte 1'000 Kavalleristen des [kaiserlichen Maximilian von Egmont, Grafen] von Büren, in Mainz einlassen. Die Bevölkerung konnte dies verhindern und tötete dabei einige Pferde. Die Truppen des Landgrafen, die das auf der anderen Seite des Rheins gelegene [Mainz-Kastel] eingenommen hatten, sollen daraufhin in Mainz eingedrungen sein und so den Bischof und seine Pfaffen gezwungen haben, sich im Bischofsschloss zu verschanzen.
+<t/>Viele, u.a. Herzog Moritz [von Sachsen], Pfalzgraf [Friedrich II.] und [die Städte] Frankfurt und Straßburg, widersetzen sich dem [Grafen von] Büren, welcher dem Kaiser [Karl V.] zu Hilfe kommt.
+<t/>Herzog Moritz hat alle Grenzübergänge zu den Territorien des böhmischen [Königs Ferdinand mit Truppen] besetzt.
+<t/>Der Kaiser soll noch in Landshut sein und vorhaben, sein Lager bei Regensburg aufzuschlagen.
+<t/>Es heißt, dass er alle Schiffe [auf der Donau] beschlagnahmt habe.
+<t/>Die [Schmalkaldener] haben eine Gesandtschaft nach Leutkirch und Wangen [im Allgäu] abgefertigt. Beide Ortschaften gelobten [den Schmalkaldenern] Treue und stellen Truppen zur Verfügung. Diese werden angeblich schon in der kommenden Nacht Weingarten erreichen.
+<t/>Am 14. August hat der Kaiser [den Schmalkaldenern] den Krieg erklärt. Am 15. habe er Landshut in Richtung Regensburg verlassen.
+<t/>Er soll auch [Herzog Wilhelm] von Bayern eine Gesandtschaft nach München geschickt haben.</re>
+<text>
+<p><zzl>zl16429-1A</zzl>Sampstag, de 20. augusti,
+<fn>Gemeint ist der 21. August; s. oben <qv>fn16429-1</qv>.</fn><zzl>zl16429-1E</zzl> uß [...]berg
+<fa><i>Der Ortsname liest sich wie</i> Nurnberg. <i>Dass aber der Brief in Nürnberg geschrieben wurde, ist unwahrscheinlich, zumal er mit der Übermittlung eines Grußes von Vadian beginnt und da kaum anzunehmen ist, dass Vogler am 21. August in Nürnberg weilte, wenn er bereits am 24. ganz sicher in Zürich nachgewiesen werden kann; s. <qv>nr2544</qv>.</i><zfn>fn16429-6</zfn></fa>.</p>
+<lz/>
+<p>Her Vadianus gr{uo}ß.</p>
+<lz/>
+<p>Item der hertzog von Cleff,
+<fn>Wilhelm von Kleve, ein Verbündeter des Kaisers.</fn> 400 f{uo}ssknecht. Item der hertzog von Pomernn,
+<fn>Markgraf Johann (Hans) von Brandenburg-Küstrin (1513-1571), der 1538 dem Schmalkaldischen Bund beigetreten war, sich aber wegen der feindlichen Haltung des Bundes gegenüber seinem Schwiegervater, Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel, 1546 der kaiserlichen Partei anschloss. Ende Juli werden 900 (bei Mameranus 700) von ihm ausgerüstete Kavalleristen erwähnt. Am 1. August verließ er Regensburg, um der Kavallerie entgegenzureiten. Am 5. musterte er diese in Straubing, etwa 45 km südöstlich von Regensburg; s. <a>Viglius van Zwichem</a> 29. 53 und 58, Anm. 1; <a>Mameranus, Exerc.</a> 24.<zfn>fn16429-5</zfn></fn> 200 pfart. Diße sind by N{ue}rmberg hinzogen und uff
+<fn>gegen.</fn> der protestierenden siten zu.</p>
+<p><zzl>zl16429-4A</zzl>Item der churfürst
+<fn>Johann Friedrich I. von Sachsen.</fn> und Hessen
+<fn>Landgraf Philipp von Hessen.</fn> haben ir potschaft zu N{ue}rmberg
+<fn>Zu dieser kurz vor dem 5. August abgefertigten Gesandtschaft s. <a>Viglius van Zwichem</a> 60, Anm. 4; <qv>nr2542</qv>,<qv>zl16229-2</qv>. - Zur wankelmütigen Haltung Nürnbergs s. <qv>nr2489</qv> und <qv>fn16179-9</qv>; <qv>nr2491</qv>,<qv>zl16181-3</qv>; <qv>nr2501</qv>,<qv>zl16192-4</qv>; <qv>nr2529</qv>,<qv>zl16220-5</qv>.</fn> ghept und begert, in punt zu gon und halten,
+<fn>in punt zu gon und halten: sich dem [Schmalkaldischen] Bund anzuschließen.</fn> etc. Was alda phandelt, ist verborgen, <zzl>zl16429-6A</zzl>die gmain
+<fn>Vermutlich (vgl. unten Z. <qv>zl16429-3</qv>) ist hier die Stadtbevölkerung und nicht der Stadtrat gemeint; s. <a>SI</a> IV 302.</fn> aber gantz willig.
+<fn>Vgl. <qv>nr2542</qv>,<qv>zl16229-3</qv>.</fn><zzl>zl16429-6E</zzl> <zzl>zl16429-10A</zzl>Daruff sol man
+<fa>man <i>fehlt in der Vorlage, in der vor dem Wort</i> sol <i>ein nicht gestrichenes</i> ist <i>vorausgeht.</i></fa> ain wagen mitt gelt
+<fn>Vgl. dazu die Angaben über die erheblichen Geldbeträge, die Nürnberg damals den Schmalkaldenern als Darlehen zugestand; s. <a>Viglius van Zwichem</a>, aaO; <a>Gerber, Kriegsrechnungen</a> I 61; <a>Roth, Augsburg</a> III 394. 421, Anm. 47.<zfn>fn16429-7</zfn></fn> uß der stat den protestierenden z{uo}gfurt haben, etc.<zzl>zl16429-10E</zzl> Gantz still alda.
+<fn>Diese Nachrichten aus Nürnberg wurden wohl durch Matthias Claudius verbreitet, der am 31. Juli auf der Reise von Nürnberg nach St. Gallen in Lindau nachgewiesen ist; s. <a>Vadian BW</a> VI 552.</fn><zzl>zl16429-4E</zzl></p>
+<p><zzl>zl16429-9A</zzl>Item z{uo} M{ae}ntz hat der bischoff
+<fn>Sebastian von Heusenstamm.</fn> dem lantgraffen ainn stat ingnomen. Haist N. Da sind 10 fenly lantgrafischen komen, die andern wider hrußgschlagen und die statt wider besetzt.
+<fn>Der erste Teil dieser Nachricht ist wohl ein Gerücht, zumal sich keine Angriffe vonseiten Mainz' auf hessische Ortschaften ermitteln ließen. Allerdings gelang es den hessischen Truppen am 9. August, das auf der anderen Seite des Rheins gegenüber der Mainzer Altstadt gelegene Mainz-Kastel einzunehmen, welches sich kampflos ergab; s. <a>PC</a> IV/1 297, Nr. 278; 317f, Nr. 298; Anton <i>Brück,</i> Stadt und Erzstift Mainz im Schmalkaldischen Krieg (nach den Protokollen des Mainzer Domkapitels), in: Hessisches Jb. für Landesgeschichte 4, 1954, 160.<zfn>fn16429-3</zfn></fn><zzl>zl16429-9E</zzl></p>
+<p><zzl>zl16429-5A</zzl><zzl>zl16429-7A</zzl>Item der bischoff von Mentz hat von dess von Puren
+<fn>Maximilian von Egmont, Graf von Büren. - Zu dessen Truppen s. zuletzt <qv>nr2540</qv>, <qv>fn16232-2</qv>.</fn> huffen 1'000 pfärt in die statt Mentz wellen lassen. Und alß by 40 pfärt in die statt Mantz komen, hat die <zzl>zl16429-3A</zzl>gmain den gatter fallen lassen, die pfart etlich erschlagen, etlich gfangen.
+<fn>Vgl. oben <qv>nr2540</qv>,<qv>zl16232-4</qv> und <qv>fn16232-1</qv>.</fn><zzl>zl16429-7E</zzl> <zzl>zl16429-8A</zzl>Nachmalß sind die 10 fenly, so des lantgraffen enet Rinh
+<fn>enet Rinh: auf der anderen Seite des Rheins.</fn> die statt N.
+<fn>d.h. Mainz-Kastel; s. oben <qv>fn16429-3</qv>.</fn> erobert, nachtz uberin gfallen.
+<fn>Vgl. <qv>nr2540</qv>,<qv>zl16232-5</qv> und <qv>fn16232-3</qv>.</fn><zzl>zl16429-8E</zzl> Die haben die burger inglassen. Als nun der bischoff und pfaffen dess gwar worden, sind sy all in das schloss gwichen.<zzl>zl16429-5E</zzl></p>
+<p>Item dess von Puren huffen, so uberin welt, dem kayser
+<fn>Karl V.</fn> zu hilff sind entgegen
+<fn>sind entgegen: widersetzen sich.</fn> viel, namlich hertzog Moritz
+<fn>Moritz von Sachsen.</fn>, pfaltzgraf Fridrich
+<fn>Friedrich II. von der Pfalz.</fn>, Frankfurt, Strasburg, andre.</p>
+<p><zzl>zl16429-11A</zzl>Item hertzog Moritz hat alle pass verlegt
+<fn>versperrt.</fn> gegen den Bohemer
+<fn>König Ferdinand I. von Böhmen; vgl. <qv>nr2519</qv>,<qv>zl16208-2</qv>; <qv>nr2603</qv>,<qv>zl16291-1</qv>.</fn>, den er nit verthruwen wil.<zzl>zl16429-11E</zzl></p>
+<p>Item kay[serliche] m[ajesta]t sol nach dato
+<fn>nach dato: noch immer.</fn> z{uo} Landzh{uo}t ligen,
+<fn>Karl V. hatte jedoch Landshut bereits am 15. August in Richtung Regensburg verlassen. Vom 17. bis 21. August schlug er sein Lager vor Regensburg auf; s. <a>Viglius van Zwichem</a> 54f; <a>Stälin</a> 579. - Vogler korrigiert seine falsche Meldung unten Z. <qv>zl16429-2</qv>.<zfn>fn16429-4</zfn></fn> und uff Regenspurg, willens sich alda zu legern, darin 10 fenly lantzknecht und 2'000 pfart.</p>
+<p>Item kay. mt. hat och alle schiff
+<fn>auf der Donau.</fn>, dero vil sindt, verwart
+<fn>beschlagnahmt; s. <a>SI</a> XVI 842.</fn>.</p>
+<p>Item Lutkirch und Wangen,
+<fn>Die Reichsstädte Leutkirch und Wangen im Allgäu (beide Lkr. Ravensburg). - Am 29. August und am 27. September 1546 lieh Leutkirch dem Bund 1'000 bzw. 500 Gulden; s. <a>PC</a> IV/2 1137, Anm. 3; Zürich StA, A 177, Nr. 29 (Rat von Konstanz an den Rat von Zürich, 27. August). Wangen seinerseits lieh am 28. August 1546 1'000 Gulden; s. <a>Gerber, Kriegsrechnungen</a> I 62.</fn> bed stett, zu disen hat man
+<fn>Die Schmalkaldener.</fn> zuvor ain potten gschickt. Es komen
+<fn>Vonseiten dieser Ortschaften.</fn> 3 fenly, 100 pfart. Sy werden hulden
+<fn>Treue geloben.</fn> den protestierenden
+<fa><i>In der Vorlage</i> prosterenden.</fa>, dess sy gethon. Und achten, diser nacht zu Wingarten
+<fn>Weingarten (Lkr. Ravensburg); s. <a>Gerwig Blarer BA</a> I 573, Nr. 798f.</fn> sin.</p>
+<p><zzl>zl16429-2A</zzl>Item kay. mt. haben uff 14. dis monatz abgsagt,
+<fn>Aus <qv>nr2538</qv>,<qv>zl16228-6</qv>, und <qv>nr2548</qv>,<qv>zl16237-2</qv>, geht hervor, dass hier eine Anspielung auf die in <qv>nr2538</qv>, <qv>fn16228-1</qv>, erwähnte Zurückweisung des schmalkaldischen Gesandten durch den Kaiser vorliegt. Dieser drängte damals dem Gesandten seine auf den 20. Juli datierte "Absage" (Kriegserklärung; s. <a>SI</a> VII s.v. absagen) auf; s. <qv>nr2548</qv>, <qv>fn16237-6</qv>.</fn> und uff 15. sol er wider von Lantzh{uo}t uff Regenspurg zuzogen sin.<zzl>zl16429-2E</zzl></p>
+<p>Item der kayser hat ein potschaft zu Müchen
+<fn>München.</fn> ghapt. Alda ligt Payern
+<fn>Wilhelm IV. von Bayern.</fn>.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Vorliegendes nur auf einer Seite beschriebene Blatt wurde von Vogler wie ein abzuschickender Brief zusammengefaltet (die Faltung stimmt übrigens nicht mit der seines kurz zuvor verfassten Briefes <qv>nr2531</qv> überein). Der Schreiber aber brachte darauf weder Adresse noch Siegel an. Weil Bullinger in seinem Brief vom 24. August Vadian mitteilte, alles, was Letzterer Vogler anvertraut hatte, erhalten zu haben (s. <qv>nr2544</qv>), und da ferner eine falsche Datierung von Bullingers Brief angesichts der darin übermittelten Nachrichten auszuschließen ist, wird Vogler sich aus unbekannten Gründen kurz nach Abfassung des vorliegenden Schreibens entschlossen haben, nach Zürich zurückzukehren. Demzufolge wird er seinen Brief persönlich überbracht haben.<zfn>fn16429-2</zfn></fn></p>
+</text>
+</brief>

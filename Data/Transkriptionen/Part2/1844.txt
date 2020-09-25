@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1844">
+<nr>1844</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>1. Februar 1544</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 249 (Siegelspur)<f1>Original verschollen (wohl nach unserer Bestellung 2007 verlegt)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>[Hieronymus] Gemusäus ist nach seiner Rückkehr aus Italien und Savoyen erkrankt und am 19. Januar gestorben, was einen schweren Verlust für die Universität bedeutet; Myconius hat sich mit seiner Bewerbung um die theologische Professur gegen Cellarius [Martin Borrhaus] durchgesetzt; in Straßburg besteht für den erkrankten Paulus Lacisius keine Hoffnung mehr. Kaiser [Karl^#. V.] ist unterwegs nach Speyer, doch ist fraglich, ob der Reichstag stattfinden wird; manche Anzeichen deuten auf neue Truppenwerbungen des Kaisers. [Kaspar] Hedio hofft, bald Prediger in Mainz zu werden, da er sich vom Mainzer Bischof [Albrecht von Brandenburg] viel verspricht; die Bischöfe von Köln und Münster [Hermann von Wied und Franz von Waldeck] halten trotz der Anwesenheit des Kaisers am Evangelium fest. Bitte um Antwort auf [Nr. 1839]; Grüße. Bitte um Weiterleitung eines Briefs aus Straßburg.</re>
+<tx>
+S. Eheu, Gemusęus<f1>Hieronymus Gemusäus.<fe> noster post reditum ex Italia et Sabaudia<f1>Gemusäus war im Auftrag des Basler Rates nach Italien gereist, um mit Herzog Karl III. von Savoyen zu verhandeln. Am 11. Dezember 1543 hatte er noch aus Mailand an Amerbach geschrieben (Amerbach, Korr. V 469f, Nr. 2597). Siehe ferner Auguste ^#/+Stoeber,^#/- Jérôme Gemuseus de Mulhouse, philologue, philosophe et médecin, 1505-1544, in: Bulletin du Musée historique de Mulhouse V, 1880, S. 65-84, bes. 77f.<fe> in ardentissimam febrim incidit et ad dies aliquot compos mentis non fuit ac 19. ianuarii animam exhalavit<f1>Das Todesdatum von Gemusäus ist umstritten, aber von Gast glaubwürdig überliefert; s. Amerbach, Korr. VI 9.<fe> non sine gemitu multorum. Sic agit dominus cum nostra schola, ut optimum quemque rapiat. Agricole, superbi et fastuosi<fx>fastuosi ^#/+korrigiert aus^#/- Agricolis, superbis et fastuosis.<fe> homines iam regnant.<f1>Wahrscheinliche Kritik gegen die damaligen Universitätsverantwortlichen Basels; vgl. unten Nr. 1967, 8-11, und HBBW IV 417, Anm. 14.<fe>
+Cellarius<f1>Martin Borrhaus.<fe> lectionem theologicam ambivit,<f1>Siehe zuletzt HBBW XIII 269, 29-34.<fe> idem et Myconius noster; sed Myconius apud deputatos assecutus est, quod volebat.<f1>Diese Nachricht war verfrüht, denn im Herbst dieses Jahres erhielt nicht Myconius, sondern Borrhaus den bis dahin von Sebastian Münster versehenen Lehrstuhl für Altes Testament; s. unten Nr. 1990, 32-43, sowie Karl Heinz ^#/+Burmeister,^#/- Sebastian Münster. Versuch eines biographischen Gesamtbildes, Basel-Stuttgart 1963. - Basler Beiträge zur Geschichtswissenschaft 91, S. 99.<fe> Quid addam? Sed nolo Camarinam<f1>Zu ergänzen: movere. - Vgl. Adagia, 1, 1, 64 (ASD II/1 174, Nr. 64).<fe>. Argentinę Paulus Lacisius Italus, professor Gręcus, graviter decumbit, ut medici desperarint de illius salute.<f1>Lacisius starb noch im Januar, das genaue Todesdatum ist jedoch nicht bekannt; s. Les statuts et privilèges des universités françaises depuis leur fondation jusqu'en 1789, hg. v. Marcel Fournier, Teil II, Bd. IV/1, Paris 1894, S. 33.^&xZ: IV K 5: cxd ^&x{<fe>
+^$Caesar in itinere est versus Spiram.<f1>Kaiser Karl^#. V. traf am 30. Januar zum Reichstag in Speyer ein; s. oben Nr. 1837, Anm. 5.<fe> Quidam credunt nulla comitia fore, adeo frigide omnia fiunt. Hispanis et Italis<f1>Gemeint sind wohl spanische und italienische Soldaten; s. oben Nr. 1839, 19-23.<fe> mercatores, qui apud nos haerent, pecunias dant, quo possint Mediolanum pervenire. Audio a quibus novum sic caesarem exercitum conscribere. Capitaneorum multitudo apud nos est, qui Gallicas partes hactenus tutati sunt; quid illi instituant, an milites colligant, quod verisimile videtur, ignoro. Hęc volui paucis tibi significare, ut vel aliquid ad te scriberem.
+^$Pręterea nec hoc te latere volo: Hedio sperat se propediem concionatorem Moguntię fore, talem spem de episcopo Moguntino<f1>Albrecht von Brandenburg, Erzbischof von Mainz, auf den sich auch der folgende Satz bezieht. Albrecht starb am 24. September 1545 im Alter von 55 Jahren.<fe> concepit. Utinam in domino clauderet vitam suam, quę valde est annosa! Coloniensis et Monasteriensis episcopi<f1>Hermann von Wied, Erzbischof von Köln, und Franz von Waldeck, Bischof von Münster.<fe> strenue in evangelio promulgando pergunt etiam praesente caesare. Dominus suo spiritu istos confortet.
+^$Vale in domino, et si ocium habes, ad proximas literas<f1>Oben Nr. 1839.<fe> responde fusissime. D. Theodorum<f1>Theodor Bibliander.<fe> meo nomine salutabis quam officiosissime. Vadiano si hec communicare vis, plurima illum imparties salute.<f1>Der Aufbewahrungsort dieses Briefes lässt vermuten, dass Bullinger ihn an Vadian weiterleitete.<fe>
+^$Basileę, 1. februarii 1544.
+^$Has inclusas literas<f1>Der mitgesandte Brief liegt nicht vor.<fe> velim curares, ut illi dentur, cuius inscriptionem habent; nam ab Argentina ad me missi[!] et
+iussus sum Tigurum mittere.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] Pio et doctod. Henrycho Bullingero, Tigurinae ecclesiae pastori etc. Zurich.
+</content>
+</letter>

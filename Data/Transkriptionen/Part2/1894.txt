@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1894">
+<nr>1894</nr>
+<correspondents>
+	<originator>Gervasius Schuler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Memmingen</place>
+	<date>16. April 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 247 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 126^&x{
+<dr>Ungedruckt</dr>
+<re>Hat Bullingers Schrift gegen Cochläus ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"] erhalten und das zweite Exemplar an [Wolfgang] Musculus weitergeleitet, konnte das Buch aber noch nicht lesen; übersendet einen Brief von Musculus [Nr. 1885]. Da der Bote in Eile ist, muss er die Antwort auf Bullingers vorausgegangenen Brief aufschieben; Bullinger scheint seiner Abendmahlslehre zu misstrauen. Gruß von [Martin] Frecht. In Speyer wurden dem Kaiser [Karl^#. V.] Truppen gegen den französischen [König Franz^#. I.] zugestanden, doch von Frieden für die Lutheraner ist nichts zu hören; [Herzog Heinrich von] Braunschweig soll auf die Nachricht hin, dass seine Sache vor alle Reichsstände gebracht werden soll, heimlich abgereist sein; über die Eidgenossen ist Unterschiedliches zu hören; die Päpstlichen toben, vielleicht weil sie den baldigen Untergang vor Augen haben. Grüße.
+</re>
+<tx>Gratiam et pacem a domino [per Iesum]<fx>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> Christum.
+^$Accepi libellum contra Cocleum, sathane mancipium, a te
+scriptum;<f1>Vgl. oben Nr. 1839, Anm. 3.<fe> alterum Musculo<f1>Wolfgang Musculus in Augsburg; s. oben Nr. 1885, Anm. 2.<fe> misi. De eo, quem michi misisti, ingentes gratias ago; nam illum gratissimo animo accepi,
+quem etiam avidissime legam; nam hactenus multis ecclesie
+negotiis occupatus (ut temporis ratio exigebat<f1>^&!s(-40)Der Brief ist am Mittwoch nach Ostern geschrieben.^&!s(+0)<fe>) non potui.
+Musculus mox accepto libello tuo hisce, quas mitto, literis<f1>Oben Nr. 1885.<fe> tibi respondet.
+^$Nunctius<f1>Unbekannt.<fe> festinat abitum. Ego enim illum abiturum Tigurum
+ignoravi; sed meorum negligentia, non nunctii factum est.
+Scripsissem plura; nam proximis ad me literis<f1>Nicht erhalten.<fe> nondum, ut
+statueram, respondi, maxime quod fidem meam attinet de
+negotio eucharistię.<f1>Bullinger hatte von Schulers Plänen zur Veröffentlichung von Abendmahlspredigten gehört und ihn daraufhin ermahnt, nicht - wie Luther - in einer klaren Sache Verwirrung zu stiften. Dies geht aus einem Brief Bullingers an Vadian hervor; s. unten Nr. 1905. - Ob Schuler einen solchen Brief an Bullinger verfasste, bleibt offen. Im nächsten bekannten Brief vom 23. März 1545 (Zürich StA, E II 345, 296) sind nur die verheerenden Folgen von Luthers Angriff gegen die Schweizer sowie Bullingers Antwort dazu die Hauptthemen.<fe> Vereor enim te sinistram de me
+suspitionem concepisse. Sed de his proxime uberius.
+^$Frechtus meus te multis nominibus salutat.
+^$Comitia Spirensia nondum finita sunt.<f1>Der Reichstag zu Speyer endete erst mit dem Abschied vom 10. Juni; s. oben Nr. 1835, Anm. 3.<fe> Imperii status<fx>^#/+In der Vorlage^#/- satus.<fe>
+consenserunt in petitionem cęsaris<f1>Karl^#. V.<fe> de administrando
+milite contra Gallum<f1>König Franz^#. I. - Die grundsätzliche Bewilligung der Hilfe gegen Frankreich war am 4. April mit der Quadruplik der Reichsstände und dem parallelen Schreiben der Städte erfolgt; s. oben Nr. 1890, Anm. a; PC III 481; RTA JR XV/3 1024-1029, Nr. 114f.<fe>; sed de pace in Lutheranos nichil dum audio. Brunzwintzensem[!]<f1>Herzog Heinrich von Braunschweig-Wolfenbüttel.<fe> aiunt clam abiisse, ubi audivit causam suam coram omnibus inperii[!] statibus agitari.<f1>Als sich Sachsen und Hessen am 5. April für den Feldzug gegen Braunschweig vor dem Kaiser rechtfertigten, war Herzog Heinrich abwesend; seine Entgegnung brachte er jedoch am 23. April persönlich vor; s. PC III 484f. 488; RTA JR XV/3 1519-1546. 1570-1581 (Nr. 252. 254).<fe> De
+Helvetiis tuis varii varia dicunt. Pontificii, sathane
+mancipia, mirum in modum insaniunt; fortasse regnum suum brevi interitum olfaciunt.
+^$Ego cum uxore<f1>[...], geb. Lübegger.<fe> et liberis<f1>Zu Schulers Kindern s. HBBW XIII 66, Anm. 19.<fe> valeo. Uxor mea te cumprimis cum
+coniuge tua<f1>Anna, geb. Adlischwyler.<fe> simul ac pignoribus<f1>Gemeint sind Bullingers Kinder; s. oben Nr. 1838, Anm. 19.<fe>
+sanctis salutat. Dominus
+noster Iesus Christus te diu nobis<fx>^#/+Vor^#/- nobis ^#/+versehentlich nicht gestrichenes^#/- sue.<fe> et ecclesie sue
+conservet incolumem. Vale et Christo vive.
+^$Datae Memminge, 16. aprilis anno 1544.
+<un>Gervasius tuus Schuler.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro Heynricho Bullingero, Tigurinę ecclesię antistiti vigilantissimo, domino et fratri in Christo charissimo.
+</content>
+</letter>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2795">
+<brief>
+<id>17064</id>
+<nr>2795</nr> <from persid="FreyJohannLeopold"/> <to persid="Bullinger"/> <place plid="Biel"/> <date when="1547-02-05"/>
+<ae>Johann Leopold Frey an Bullinger</ae>
+<od>Biel, 5. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 360, 431 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Abschrift).</k></dr>
+<re><t>Frey hat sich mehr gefreut, Bullingers Brief [nicht erhalten] zu empfangen, als ihn zu lesen. Bullinger weiß ja, warum dies so ist. Da die Wyttenbachs abwesend sind, sandten Frey und Peter Fuchs den von Bullinger an [Hans Wunderlich] gerichteten Brief [nicht erhalten] mit einem eigenen Boten [...] nach Neuenburg weiter, während Bullingers Bote, Jakob [...], der nun die Rückreise mit Wunderlichs Antwort [<qv>nr2794</qv>] antritt, in Biel wartete. Frey und Fuchs wissen nicht, was in Bullingers Brief an [Niklaus] Wyttenbach steht, da dieser noch nicht zurückgekehrt ist.</t>
+<t>Den Bielern geht es gut (wenn es nur den Zürchern auch so erginge!). Allerdings sind sie ebenso darauf gefasst, zu Recht von Gott gestraft zu werden, obwohl sie eifrig um Verschonung beten. Das Maß ist längst voll! Der Herr gewähre Erlösung und die Verbreitung des Evangeliums. Man denke aber an die Söhne des Zebedäus: Zunächst der bittere Kelch, dann erst die Herrschaft. Die Zahl der Menschen, die wegen ihres Glaubens an Christus sterben müssen, ist offenbar noch nicht vollständig.</t>
+<t>Grüße von allen, die Bullinger gegrüßt hat. Gruß auch an Anna [geb. Adlischwyler], an die Familie, an Theodor Bibliander, Konrad Pellikan, Johannes Fries und Heinrich Buchter.</t></re>
+<text>
+<div>
+<p>S. D. P. <zzl>zl17064-2A</zzl>Alacriori animo
+<fa>animo <i>Fehlt in der Vorlage.</i></fa> tuas, charissime pater, literas
+<fn>Ein nicht erhaltener Brief Bullingers.</fn> recepi quam legerim. Causas tenes, nec est, ut repetam.<zzl>zl17064-2E</zzl> <zzl>zl17064-3A</zzl>Quas destinaras Neoburgum,
+<fn>Nämlich der nicht erhaltene Brief Bullingers an Hans Wunderlich (Merveilleux), der diesem durch dessen in Biel lebenden Schwiegervater, Niklaus Wyttenbach, hätte übermittelt werden sollen; s. <qv>nr2774</qv>,<qv>zl17043-16</qv>; <qv>nr2794</qv>,<qv>zl17062-2</qv>.<zfn>fn17064-1</zfn></fn> Vulpius
+<fn>Peter Fuchs, Ratsherr in Biel.</fn> et ego, quanta potuimus diligentia, eo perferri curavimus; non enim domi erant Wyttenbachii. <zzl>zl17064-1A</zzl>Iacobum,
+<fn>Unbestimmbar.</fn> tabellionem tuum, retinuimus,<zzl>zl17064-1E</zzl> donec ille
+<fn>Unbekannt.</fn> a nobis missus reverteretur; qui et literas
+<fn>Brief <qv>nr2794</qv> vom 4. Februar.</fn>, ut videbis, a Ioanne Mirabili attulit. Literas ad Wyttenbachium
+<fn>Niklaus Wyttenbach; s. oben <qv>fn17064-1</qv>. - Dieser Brief ist nicht erhalten.</fn> datas, quoniam, ut diximus, domi non est, nondum legimus.<zzl>zl17064-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17064-4A</zzl>Valemus recte omnes gratia deo. Atque utinam et vos valeatis! Interim nihil aliud quam meritas peccatorum poenas expectamus, licet deprecemur sedulo. Non enim dici potest, quam exquisita
+<fn>Ironisch gemeint. - Vielleicht in Anlehnung an <i>Thomas a Kempis,</i> De vita et beneficiis salvatoris meditationes, 5, 2, 35.</fn> passim dominetur nequitia. Die maß loufft schon über!
+<fn>Vgl. Mt 23, 32; 1Thess 2, 16.</fn> Deus optimus maximus vel liberet nos a malis
+<fn>Vgl. Mt 6, 13.</fn> undique minantibus vel donet, ut patienti animo et constanti veritatis confessione gloriosi reddamur et evangelii cognitio latius spargatur. Ostendit nobis dominus, quod ad nos pertineant, quae quondam ille filiis Zebedei respondit, nempe calicem amaritudinis nunc bibendum, olim vero regnandum, ubi deo patri visum fuerit,
+<fn>Vgl. Mt 20, 20-23.</fn> necdum completus est numerus eorum, qui propter agni confessionem sunt occidendi.
+<fn>Apk 6, 11.</fn> Deus succurrat imbecillibus!
+<fn>Vgl. Röm 8, 26.</fn><zzl>zl17064-4E</zzl></p>
+</div>
+<div>
+<p>Salutant te, quos salvere iussisti omnes, atque iidem virtute mactare iubent, pro vobis sedulo dominum oraturi. <zzl>zl17064-5A</zzl>Salutem meo nomine dices uxori
+<fn>Anna, geb. Adlischwyler.</fn> totique famili{e} tu{e} necnon vicinis tuis, Bibliandro, Pellicano, Frysio, Buchtero, etc. patribus colendissimis.<zzl>zl17064-5E</zzl> Aeternum vale. Biellnis, nonis februarii 1547
+<fa><i>In der Vorlage aus</i> 1546 <i>korrigiert.</i></fa>.</p>
+<un>Totus ex animo tuus Ioannes</un>
+<un>Leopoldus Fry.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Piissimo doctissimoque viro d. Heinrycho Bullingero, Tigurin{e} ecclesi{e} antistiti dignissimo, patri suo summe semper observando. Zürich.
+<fn>Der vorliegende Brief wurde zusammen mit Brief <qv>nr2794</qv> dem oben in Z. <qv>zl17064-1</qv> erwähnten Boten Jakob [...] anvertraut.</fn></p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1616">
+<nr>1616</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>29. März 1542</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen und Anstreichungen von späterer Hand.^#/-<fe>: St. Germain
+Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 181 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms F 43, 84r.</vo>
+<vo>Ms S 51, 69</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 117f, Nr. 938</dr>
+<re>Erwartet gespannt, was Bucer beim Kölner [Erz-]Bischof [Hermann von Wied] bewirken wird, obwohl
+er ihm keine rechte Reformation zutraut; er besitzt genügend Gelehrtheit und Eifer, es
+mangelt ihm aber an Stärke und Standhaftigkeit. Schwenckfeld, der ähnlich wie Valentinus, Apelles
+und andere lehrt, missfällt ihm immer mehr, darum bemühte er sich auch, solche Lehren in seinen
+Kommentaren zu widerlegen. Vadians Schrift ["Pro veritate carnis triumphantis Christi"] gefällt ihm
+gut; möge Gott ihn lange erhalten! Bittet um Blarers und [Johannes] Zwicks Urteil zu seinem
+[Matthäus-]Kommentar. Die übersandten Bedenken der [kur-­­]sächsischen Theologen hat er gelesen und
+ist damit außerordentlich zufrieden. Hat auch die Rede des französischen Gesandten [François
+Olivier] gelesen und den ambivalenten Charakter [Franz' I.] bemerkt;
+es wird von vielen vermutet, dass dieser ein Heer gegen den Kaiser führen
+und Mailand angreifen wird; er hat 1'600 Schweizer zum
+Schutz Turins angeworben; diese Aktion zeigt wohl kaum [Franz'
+I.] Liebe zu Deutschland; [Josue von] Beroldingen, der Ammann von Uri, hat Soldaten für den Papst
+angeworben, die laut Gerüchten in die Provinz Ancona aufgebrochen sind; der Teufel ist gut im Spiel.
+Die Haltung der Zürcher wird Blarer aus der geheimzuhaltenden Beilage erfahren; Dank für seine
+Treue. Bittet um weitere Nachrichten aus Augsburg und Speyer. Erkundigt sich, welchen Bogen des
+Matthäus[-kommentars] Blarer zuletzt erhalten hat, damit er ihm die restlichen Bogen senden kann.</re>
+<tx>Gratiam et pacem a domino.
+^$Expecto miro ardentique desiderio, quid B[ucerus] apud
+Coloniensem episcopum<f1>Erzbischof Hermann von Wied.<fe> effecerit.<f1>Vgl. hierzu Blarers Brief vom 17. März,
+oben Nr. 1613, 3-15.<fe> Ego, ut ingenue tibi,
+amicorum intime et fratrum dilectissime, fatear, quod
+sentio, non credo B[ucerum] ullam ecclesiam rite
+reformaturum. Caussam rogas: Satis eruditus est adeoque
+variae eruditionis et felicissimi laboriosissimique ingenii
+miraculum; sed destituitur clavo, fortitudine iusta et
+constantia firma. Videtur item nimius esse hominum
+admirator; nimium propendet eius animus ad compositionem
+nescio qualem. Specimina multa aedidit; verum haec ipse
+melius nosti. Recte ergo putas orandum nobis atque exorandum
+esse a domino, ut omnes numeros boni catechistae impleat<f1>Vgl. ebd., Z. 11-13.<fe>,
+quod ipsi largiatur dominus etc.
+^$Schwenkfeldii foedissimus error in diem magis magisque
+displicet; nam manifeste deprehendo verbis tantum mutatis
+universam illam doctrinam Valentini,
+Apellis
+aliorumque
+monstrorum veluti ex ipsis diaboli faucibus expui in
+ecclesiam. Quocirca annitor, ut in commentariis nostris,
+quoties affertur occasio, authoris nomine et persona
+praeterita ad argumenta quae­dam respondeam veritatemque
+orthodoxam tuear et dolum retegam exitialem.<f1>Zu der in Bullingers Matthäuskommentar (HBBibl I 144) eingestreuten Kritik an Schwenckfeld vgl. unten Nr. 1673, 25f mit Anm. 5.<fe>
+^$Placet disputatio Vadiani nostri<f1>Vadians "Pro veritate carnis triumphantis Christi", vgl. oben
+Nr. 1613, 30-33 mit Anm. 5.<fe> supra modum, atque gaudeo
+a domino tantum nobis veritatis propugnatorem esse datum.
+Dominus servet illum nobis diu incolumem.
+^$Partem commentariorum nostrorum<f1>Gemeint ist Bullingers Matthäuskommentar (HBBibl I 144), für dessen ersten Teil Blarer sich am 17. März
+bedankt hatte; vgl. oben Nr. 1613, 51f.<fe> in hoc miseram, ut tu atque
+Zviccius noster<f1>Johannes Zwick.<fe> pro illa ingenii vestri felicitate ac
+pietate libere, quod displiceret, indicaretis; at nunc nimis
+fortassi benigni estis iudices omnia mea boni consulentes.
+Iterum ergo atque iterum hortor, ut [li]bere adhuc
+[m]oneatis<fx>[lib]ere adhuc [m]oneatis ^#/+am Rande nachgetragen und durch den beschnittenen
+Außenrand teilweise beschädigt.^#/-<fe>, si quid videbitur admonendum etc.
+^$Schedam deliberationis doctorum Saxoniae<f1>Vgl. oben Nr. 1613, 61f mit Anm. 20.<fe> accepi et legi
+libens; nam perplacet, quod se tandem ex implicatissima illa
+compositione<f1>Gemeint sind die am Regensburger Religionsgespräch 1541 verglichenen Artikel.<fe> extricarunt cernentes ex ea plus litium quam
+solidae concordiae oriturum. Deo laus et gloria!
+^$Vidi praeterea fragmentum orationis a Gallorum regis legato<f1>François Olivier, Gesandter des französischen Königs
+Franz I.<fe> in comitiis habitae<f1>Zur Rede Oliviers am Reichstag zu Speyer s. oben Nr. 1613, Anm. 16.<fe> et video
+regem istum regem esse facie impudentem ac intelligentem aenigmata<f1>Vgl. Dan 8, 23.<fe>; non nunc disputo de
+ipsa re, quam consultatione sua proposuit<f1>Olivier empfahl im Namen des Königs eine eher defensive als aggressive Haltung den Türken gegenüber, die sich mehr auf Verteidigung und Befestigung gefährdeter Städte als auf einen Angriffskrieg konzentrierte.<fe>, utilis ne an
+inutilis futura sit Germaniae; de consilio loquor et fine,
+ad quem rex iste spectat. Suspicantur plerique, quibus regis
+consilia forte perspectiora sunt quam mihi, praeterito
+paschae festo<f1>9. April 1542.<fe> et ineunte maio regem exercitus ducturum
+contra caesarem<f1>Karl V.<fe> et vi invasurum Mediolanum. Certe
+Helvetiorum 1'600 abducit, quos Taurino praesidii vice
+imponat.<f1>Siehe dazu unten Anm. 19.<fe> Contra quem? Obsecro. Quid opus his praesidiis? Si adeo
+favet Germaniae, cur hanc camarinam movet<f1>Vgl. Adagia, 1, 1, 64 (LB II 51).<fe>? Abduxit
+Berenlingerus, ammannus Uriensis,<f1>Josue von Beroldingen (1495-1563), in eine politisch
+einflussreiche katholische Familie aus Altdorf (Kt. Uri) geboren, kämpfte nach dem Studium in Mailand
+in der Schlacht von Marignano (1515), wonach er nach Jerusalem pilgerte und 1518 als Ritter des
+Heiligen Grabes zurückkehrte. Ab 1520 übernahm Beroldingen fünfmal das Amt des Landammannes von Uri,
+in dem er v. a. auf Konfrontationskurs mit Bern ging. Seine strenge päpstlich-katholische Haltung
+brachte ihm große Ehrenbezeugungen von Kaiser Karl V. und Papst Paul III. ein, der ihn zum
+Gardehauptmann von Bologna ernannte und 1542 zum Ritter schlug. - Lit.: Urs ^#/+Kälin,^#/- in: HLS II
+320.<fe> aliquot milites pontifici
+militaturus.<f1>Am Tag zu Baden wurde ein Brief des französischen Gesandten Louis Daugerant, Seigneur de Boisrigaut,
+verlesen, in dem dieser berichtete, Franz I. habe erfahren, dass Josue von Beroldingen unrechtmäßig Truppen für
+den Papst werbe, weshalb auch er sich zur Rüstung gezwungen sehe und um 1'200 Söldner zum Schutz des Piemont bitte; vgl. EA
+IV/1d 117 d sowie PC III Nr. 245. Die Fünf Orte und Glarus hatten zuvor schon Uri aufgefordert,
+Beroldingen von einem Aufbruch abzuhalten; vgl. EA IV/1d 114 a.<fe> Quid futurum sit, ignoro. Aiunt istos in
+marchiam proficisci Anchonitanam. Der tüfel ist guot imm
+spyl. <vl>181v.</vl> Metuo, ne artibus, sutelis et per proditionem multa
+ingerantur inter principes.
+^$Quid nostri agant aut quid in his turbis sibi fatiundum
+statuerint, intelliges ex apographo<f1>Gemeint ist offenbar das Schreiben vom 18. März, mit dem Zürich die eidgenössischen Orte aufgefordert hatte, den unbewilligten Kriegsdienst bei fremden Herren zu unterbinden (Zürich StA, B IV 13, 34);
+vgl. EA IV/1d 119 n und 126 zu n.<fe>, quod tibi mitto; sed
+vide, ne illud nisi fidelissimis veniat in manus. Ago tibi
+gratias maximas pro tua fide et diligentia; video enim,
+quanti me fatias, qui propria manu in mei gratiam tot
+exscripse[ris]<fx-t>^#/+Im engen Einband nicht lesbar.^#/-<fe>.
+^$Oro autem, ut ea mihi communices porro, quae a fid[is]<fx-x>^#/+Im engen Einband nicht lesbar.^#/-<fe> amicis
+vel ab Augusta vel a Spira acceperis et vera esse putaveris.
+Quod si vicissim a me postulaveris, quod meae poterunt
+praestare viriculae, totus tuus ero.<fx>^#/+Es folgt ein unlesbar gemachter Satz.^#/-<fe>
+^$Vale.
+^$29. martii 1542.
+^$Zeychnend mir, welchs wer der letst bogen<fx>^#/+Am Rande ergänzt:^#/- tritern ^#/+[Lage aus drei Bögen].^#/-<fe> in Mattheo<f1>Vgl. oben Anm. 6.<fe>
+syn, so kan ich üch die andren hernach schicken.
+<un>Tuus H. Bullingerus.
+<lz>[Adresse darunter:] Domino
+Ambrosio suo Blaurero, fratri longe charissimo.<fx>^#/+Darunter von späterer Hand:^#/- 29. martii 42.<fe>
+</content>
+</letter>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2470">
+<brief>
+<id>16160</id>
+<nr>2470</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 22. Juni 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 231 (neu: 249) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 142 </k></dr>
+<re>Was hat denn Bullinger in dem während der Nacht verfassten Brief [nicht erhalten] mitgeteilt, den er am Tage darauf in einem weiteren Brief [nicht erhalten] erwähnte? Myconius ist in Sorge, weil es zu Unruhen kommt. [Ludwig von] Reischach, der stets viel vom Kaiser [Karl V.] hält, berichtete neulich, dass die eine Zeitlang am Oberen Bodensee und in der Nähe der schwäbischen Städte lagernden Truppen verschwunden seien. Nun erfuhr Myconius auch, dass Kaiser [Karl V.] seinen Heerführern angeordnet hat, am 30. Juni Truppen in Füssen zu mustern. Deutschland steht vor einem Krieg. Gott allein kann retten. Dem Kaiser könnte Ähnliches wie [Heinrich von] Braunschweig widerfahren.
+<t/>[Franz I. von] Frankreich und [Heinrich VIII. von] England sollen einen Frieden geschlossen haben, was den Kaiser sehr verstimmt.
+<t/>Acht Theologen haben in den strittigen Religionsfragen eine Vergleichsformel aufgestellt. Darin wurden allerdings an der Lehre der Messe, des Purgatoriums und der Fürbitte der Heiligen keine Änderungen vorgenommen. Dies entspricht wohl der vom Kaiser gehegten Auffassung von einem Frieden für Deutschland!
+<t/>Vor einigen Tagen schrieb Myconius an [Rudolf] Gwalther und gab den Brief einem studierten Zürcher [...] mit.
+<t/>Grüße, u.a. an Gwalther und dessen Frau [Regula, geb. Zwingli].</re>
+<text>
+<p>S. <zzl>zl16160-3A</zzl>"Wie ich üch z{uo}geschriben vergangner nacht, also kummend hütt",
+<fn>Zitat aus einem nicht erhaltenen Brief Bullingers an Myconius, der einen weiteren, am Abend zuvor verfassten und ebenfalls nicht erhaltenen Brief Bullingers an denselben voraussetzt.<zfn>fn16160-3</zfn></fn><zzl>zl16160-3E</zzl> etc. H{e}c tua non capio, quia tuarum nihil tam brevi accepi. Quamobrem anxius sum, quid velis. Video tumultum exortum, praeterea nihil. Ex domino de Rischach
+<fn>Ludwig von Reischach.</fn> audivi nudiustertius evolare militum copiam a lacu Brigantino
+<fn>Der obere Teil des Bodensees, bei Bregenz.</fn> et Suevicis civitatibus. <zzl>zl16160-1A</zzl>Hodie accipio c{e}sarem
+<fn>Karl V.</fn> evocasse duces suos hactenus sustentatos
+<fn>Zu deren Namen s. <a>Mameranus, Exerc.</a> 8-24. Für die Musterung in Füssen war Marchese Gian Giacomo de' Medici di' Marignano, Kastellan von Musso, zuständig; s. <a>Paulus, Schertlin</a> 52.</fn> apud oppidum F{ue}ßen, ubi delectus habebitur
+<fn>ubi delectus habebitur: wo gemustert werden wird; s. <a>Dasypodius, Dic.</a> 110r.</fn>, in ultimum huius mensis diem,
+<fn>Vgl. <a>Viglius van Zwichem</a> 25. 33f, Anm. 7; <a>PC</a> IV/1 141, Nr. 107, Anm. 1.</fn> et dixisse bellum profuturum esse toti Germani{e}.<zzl>zl16160-1E</zzl> <zzl>zl16160-2A</zzl>Contendit Rischachius suo more c{e}sarem esse sanctum atque adeo virum adorandum neque quicquam tentaturum contra Germaniam.<zzl>zl16160-2E</zzl> H{e}c scribo, quod nescio, quid tu{e} contineant. Age vero, speret Israel in domino, quia apud dominum misericordia et copiosa apud eum redemptio.
+<fn>Ps 130, 7 (Vulg. 129, 6f).</fn> Quid acciderit Brunswicensi
+<fn>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel, der von den Protestanten besiegt worden war; s. <qv>nr2452</qv>, <qv>fn16140-1</qv>.</fn>, novimus omnes. Quid, si idem accidat et c{e}sari? Scio ingratitudinem nostram commereri mala. Sed et illud scio, misericordiam domini peccatis nostris esse multo maiorem.
+<fn>Vgl. z.B. Ex 20, 5f. 34, 6f.</fn> Tantum ab invocando fideliter nos non cessemus,
+<fn>Vgl. 1Thess 5, 17.</fn> et auxilium accipiemus a domino.
+<fn>Vgl. Mt 21, 22; Joh 16, 24.</fn></p>
+<p><zzl>zl16160-4A</zzl>Pr{e}ter h{e}c pacem esse factam inter Gallum
+<fn>König Franz I.</fn> et Anglum
+<fn>König Heinrich VIII.</fn> ferunt,
+<fn>Am 7. Juni wurde bei Ardres (Pas-de-Calais, Frankreich) ein Friedensabkommen ("Admiral's Peace") zwischen England und Frankreich geschlossen; s. <a>Potter</a> 427-461. - Text des Vertrages in <a>LP</a> XXI/1, Nr. 1014.<zfn>fn16160-1</zfn></fn> et caesarem id ferre iniquissime.<zzl>zl16160-4E</zzl></p>
+<p>Octo ex theologis esse institutos, qui concordes faciant articulos
+<fn>Vgl. dazu den Brief von Tilemann Günterode und Sebastian Aitinger an Landgraf Philipp von Hessen vom 26. Mai 1546 (Text in <a>ARCEG</a> VI 148 - wir danken Rainer Henrich für den Hinweis). Am 4. Juni leitete der Landgraf die Nachricht an Bucer weiter; s. <a>Lenz</a> II 458. Tatsächlich verfassten im Mai oder Juni 1546 Julius Pflug und Michael Helding auf Karls V. Wunsch den sogenannten Regensburger Entwurf einer Vergleichsformel; s. <a>Vogel</a> 504f (Text der Vergleichsformel in <a>ARCEG</a> VI 185-255, Nr. 15).<zfn>fn16160-2</zfn></fn> pugnantes in religione, verum de missa, purgatorio et divorum intercessione nihil mutetur. Hoc est, quod c{e}sar dixit haud semel: Pacem facturum se in Germania, priusquam discedat. Dominus nobiscum.</p>
+<p>Vale cum domo tua in domino. Gvalthero scripsi
+<fn>Nicht erhalten. Gwalther beantwortete den Brief am 17. Juni (Autograph: St. Gallen, Kantonsbibliothek, Ms 35, Nr. 147; Kopie: Zürich ZB, Ms S 60, Nr. 133). - Wir danken Herrn Kurt Jakob Rüetschi für diese Angaben.</fn> ante paucos dies per scholasticum
+<fn>Unbekannt. In Frage käme sowohl ein Zürcher Gelehrter als auch ein Zürcher Student (wohl in Basel, Straßburg oder Marburg). Konrad Gessner kommt hier kaum in Frage, da er sich anscheinend erst einige Tage später nach Basel begeben hat; vgl. <qv>nr2478</qv>,<qv>zl16168-1</qv>.</fn> Tigurinum. Timeo, ne non acceperit, quod nollem. Salutabis ipsum cum uxore
+<fn>Regula, geb. Zwingli.</fn>.</p>
+<p>Basile{e}, 22. iunii anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, viro praestantissimo, ministro Christi fidelissimo, fratri in domino venerando suo. Zu[rich]
+<fa><i>Textverlust durch Entfernung des Siegels.</i></fa>.</p>
+</text>
+</brief>

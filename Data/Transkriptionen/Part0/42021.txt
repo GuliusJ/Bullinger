@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="42021">
+<nr>42021</nr>
+<correspondents>
+	<originator>Tobias Egli</originator>
+	<addressee>Bullinger.</addressee>
+</correspondents>
+<space_time>
+	<place>(Chur)</place>
+	<date>25. Februar 1572</date>
+</space_time>
+<vo>Zürich StA, E II 377, 2529. Orig. Aut.</vo>
+<dr>Gr. III, 302f. R.</dr>
+<re></re>
+<note></note>
+S.  Commendo reverentiae tuae hunc Stephanum Canensem
+Foro-Iuliensem, hominem
+non ineptum, simulque Davosium iamiam petiturus tuis
+precibus nos omnes
+commendamus. Interea non Scipionem Calandrinum Morbenniensem
+illum esse, qui
+vulneratus fuerit, sed alium ministrum, Mälensem Laurentiani
+nomine, de quo tibi
+superiore tempore scribebam, cum acta synodi nostrae tibi
+exponerem. Ita vero,
+ut scripsi, acciderunt omnia. Plura non possum. Deus te
+nobis patrem servet quam diutissime incolumem. Amen.
+Ocyssime  1572.  25. februarii.
+Attribuerunt nobis domini quendam honestum civem, qui
+serviat nobis.
+Amplissimo virod. Heinrycho Bullingero, Tigurinae ecclesiae
+doctori
+celeberrimo, domino suo singulari observantia colendissimo.
+ Zürich.
+</content>
+</letter>

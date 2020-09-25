@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2441">
+<brief>
+<id>16128</id>
+<nr>2441</nr>
+<ae>Matthias Erb an Bullinger</ae>
+<od>Reichenweier, 1. Mai 1546</od>
+<vo>Autograph: Zürich StA, E II 361, 156 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopien 18. und 19. Jh.: Zürich ZB, Ms S 60, 78; danach: Straßburg BNU, Ms 676 (Thes. Baum 17), 81; Zit./Erw.: PC IV/1, 93; Jenny in: HBGesA II 64 (A 21)</k></dr>
+<re>Einem Unterlehrer [...] an einer Schule [in der Grafschaft Reichenweier] wurde von Fürst [Georg von Württemberg] der Besuch seiner Heimat Ravensburg gewährt. Er möchte allerdings nicht direkt durch den Schwarzwald reisen, sondern durch die Schweiz und über Zürich, um die dortigen Landschaften und Sitten kennenzulernen. Erb nutzt die Gelegenheit, um durch diesen dem Pythagoras ähnlichen Weltenbummler einen Brief zu übermitteln.
+<t/>Erb hat Bullingers wohlwollenden Brief [<qv>nr2424</qv>] mit der von der Witwe [Marta, geb. Blarer] des Erasmus [Schmid] ausgestellten Quittung am 23. April erhalten.
+<t/>[Kurfürst Friedrich II.] von der Pfalz hatte im [letzten] Winter die deutsche Messe nach Wittenberger Vorbild eingeführt. Nun hat er diese wiederum durch eine einfache Abendmahlsfeier ersetzt. Man sagt daher, die Messe sei gleichzeitig in Frankfurt und in der Pfalz abgeschafft worden. Bilder und Heiligenfiguren wurden jedoch nicht entfernt.
+<t/>Es geht das Gerücht um, dass Graf Wilhelm von Fürstenberg ein Heer von 12'000 Soldaten ausgehoben habe. Damit wolle er im Namen des Kaisers [Karl V.] das Piemont für Herzog [Karl III.] von Savoyen zurückerobern. Sollte dies stimmen, hätten die Berner Grund zur Sorge.
+<t/>Die geächteten und verbannten Adeligen, die den Braunschweiger Verbrecher [Herzog Heinrich] unterstützt hatten, verwüsten Sachsen und Hessen mit Bränden und Räuberbanden.
+<t/>Die Teilnehmer des [Zweiten Regensburger Religions]gesprächs glauben, dass sie bald vom Kaiser zurückgerufen werden.
+<t/>[Am Konzil] zu Trient wird diskutiert, ob die hebräische oder die griechische Bibel zu bevorzugen sei.
+<t/>Dem Gerücht, dass [Johannes Hoffmeister] gefangen genommen worden sei, schenkte Erb zunächst keinen Glauben. Nun aber wollte ein von Regensburg nach Colmar Reisender [...] mit jemandem [...] um zehn Kronen wetten, dass dies wahr wäre. Erb wird Bullinger auf dem Laufenden halten.
+<t/>Als der Kaiser den [Landgrafen Philipp] von Hessen bei ihrem Treffen in Speyer fragte, wann er alle in den [Schmalkaldischen] Bund gelockt haben würde, antwortete dieser, dass ihm nur noch eine Person fehle, und zwar der Kaiser; woraufhin dieser erwiderte, dass er sich irregeleiteten Menschen nicht anschließen werde.
+<t/>Morgen wird Erb in einer Angelegenheit des Fürsten [Georg] nach Straßburg reisen. Darüber vielleicht später mehr.
+<t/>Grüße, auch an [Rudolf] Gwalther und [Konrad] Pellikan.</re>
+<text>
+<p>Gratia domini tecum. Adolescens hic, schol{e} nostr{e} hypodidasculus
+<fn>= hypodidascalus.</fn>,
+<fn>Unbekannt.</fn> cupidus visendi patri{e} su{e}
+<fa>su{e} <i>über der Zeile nachgetragen.</i></fa> favore principis
+<fn>Georg von Württemberg-Mömpelgard.</fn> impetrato noluit recta perque compendium Hercyni{e} sylv{e}
+<fn>Hier der Schwarzwald; s. <a>Dasypodius, Dic.</a> 262.</fn> ad suos Ravenspurgenses
+<fa>Ravenspurgenses <i>über der Zeile nachgetragen.</i></fa> ascendere, sed per Helvetiam, quo regionis montuos{e} situm, mores et studia ceu per transennam videret
+<fn>Vgl. <a>Adagia</a> 3, 1, 49 (<a>ASD</a> II/5 65f, Nr. 2049).</fn>, maxime vero Tigurum, inclitam Helvetiorum urbem. Per hunc ergo habens certam occasionem scribendi (qui veluti Pythagoras
+<fn>Zu Pythagoras' Wanderjahren s. <a>DNP</a> X 648-653.</fn> alienas lustrat terras)
+<fa><i>Klammern ergänzt.</i></fa> nolui te vacuis manibus salutaret, ne vel illum erronem putares vel me tui oblitum.</p>
+<p>Tu{e} litter{e}
+<fn>Bullingers Brief vom 16. April (<qv>nr2424</qv>).</fn> mihi reddit{e} sunt cum quitantia vidu{e} Erasmi
+<fn>Erasmus Schmids Witwe Marta, geb. Blarer; s. dazu <qv>nr2424</qv>,<qv>zl2424-1</qv>.</fn> 23. aprilis
+<fn>Siehe Erbs Empfangsvermerk in <qv>nr2424</qv>, <qv>fn2424-1</qv>.</fn>, locupletissimum benevolenti{e} tu{e} tuique pii et bene adfecti animi erga me testimonium, quibus respondere pro dignitate (tametsi tu me acriter obiurgans putas frustra excusare meam inscitiam)
+<fn>Vgl. dazu <qv>nr2424</qv>,<qv>zl2424-4</qv>.</fn> impar sum, etc.</p>
+<p><zzl>zl2441-2A</zzl>Palatinus
+<fn>Kurfürst Friedrich II. von der Pfalz.</fn> missam Germanicam, quam cum omni cultu instituerat hisce hybernis mensibus ad normam Wittenbergensem, superiori heptomada omnino abrogavit, coene institutum ad simplicissimam formam restituens
+<fn>Siehe aber <qv>nr2450</qv>,<qv>zl2450-1</qv>. - Zur Kirchenordnung von Ende April, mit der Kurfürst Friedrich II. seine Reformbestrebungen fortführte, s. Hans <i>Rott,</i> Friedrich II. von der Pfalz und die Reformation, Heidelberg 1904 - Heidelberger Abhandlungen zur Mittleren und Neueren Geschichte 4, S. 60f. 132-142 (Druck der Kirchenordnung), bes. 135f; <a>Hasenclever, Kurpfalz</a> 48-54.</fn>, unde natum nunc vulgo dicterium: "Die meß <vl>156v.</vl> zu Franckfurt und die meß in der Pfaltz habend mit einander uffgeh{oe}rt." Adhuc tamen illic prostant idola, etc.<zzl>zl2441-2E</zzl></p>
+<p><zzl>zl2441-1A</zzl>Constans fama est comitem Wilhelmum a Furstenberg scribere exercitum 12 millium gregariorum militum, quem caesaris
+<fn>Karl V.</fn> nomine, ut aiunt, ducturus sit in regionem Pedemontanam
+<fn>Das Piemont war seit Februar 1536 von den Franzosen besetzt. - Zur damaligen Anwerbung von Truppen durch Friedrich II. (nicht Wilhelm) von Fürstenberg, die allerdings nicht für das Piemont bestimmt waren, s. <a>PC</a> IV/1 107, Nr. 78.</fn>, Sabaudiensem ducem
+<fn>Karl III. von Savoyen.</fn> patrie restituturus
+<fa><i>In der Vorlage</i> restiturus.</fa>;
+<fn>Zu diesem Gerücht s. <a>HBBW</a> XV 690,17f; oben <qv>nr2319</qv> und <qv>fn2319-1</qv>; <a>PC</a> IV/1 70, Nr. 51. Diese Nachricht sandte Erb auch Ambrosius Blarer zu; s. <qv>nr2449</qv>,<qv>zl2449-1</qv>. - Zu den Verhandlungen Fürstenbergs mit dem Schmalkaldischen Bund wie auch mit dem Kaiser s. <a>Wagner, Fürstenberg</a> 265-267.</fn> quod, si verum, metuendum non nihil Bernatibus.
+<fn>Die Berner hatten nämlich im Winter 1535/36 ebenfalls große Teile des Herzogtums Savoyen besetzt.</fn><zzl>zl2441-1E</zzl></p>
+<p>Nobiles proscripti
+<fn>Gemeint ist hier wohl der Kreis um Otto von Rietberg und Christoph von Landenberg; vgl. <a>PC</a> IV/1 68, Nr. 49. 79, Nr. 59.</fn> (qui latroni Brunsvigico
+<fn>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.</fn> faverant)
+<fa><i>Klammern ergänzt.</i></fa> et eiecti flammis et latrociniis Saxoniam et Cattos pervastant.
+<fn>Die Anhänger Herzog Heinrichs griffen Sachsen und Hessen nicht an, stifteten aber Unruhen und Auseinandersetzungen im Herzogtum Braunschweig; s. <a>PC</a> IV/1 86-89, Nr. 63.</fn></p>
+<p>Colloquentes
+<fn>Die Teilnehmer am gescheiterten Zweiten Regensburger Religionsgespräch.</fn> putant rursus per caesarem convocandos.
+<fn>Ein Gerücht. Vgl. <qv>nr2429</qv>,<qv>zl2429-2</qv>.</fn></p>
+<p>Tridenti disputant, utra Biblia, Hebraea an Graeca, suscipiant et pr{e}ferant.
+<fn>Die Frage der Bibelfassungen wurde am 3. April 1546 besprochen; s. <a>CT</a> V 58-67; <a>Jedin, Trient</a> 57. 70. 76-82.</fn></p>
+<p>Monachum Colmariensem
+<fn>Der Augustiner Johannes Hoffmeister.</fn> iamdiu esse captum fama loquebatur, sed tum ridebam. Nunc vero vires acquirit eundo
+<fn>Vgl. <i>Vergil,</i> Aeneis, 4, 175.</fn>: Pridie enim quidam
+<fn>Unbekannt.</fn> e Reginospurgo
+<fn>Regensburg.</fn> veniens Colmariam dissipavit famam verissimam volens cum alio quodam
+<fa>quodam <i>über der Zeile nachgetragen.</i></fa>
+<fn>Unbekannt.</fn> certare pro decem coronatis, si non ita haberet. Comperta veritate te eius rei certiorem faciam.</p>
+<p><vl>156a</vl> Cattorum princeps,
+<fn>Philipp von Hessen.</fn> caesarem Spir{e} conveniens,
+<fn>Zu diesem Treffen s. <qv>nr2406</qv>, <qv>fn2406-1</qv>.</fn> ab eo rogatus, quando omnes in suum f{e}dus
+<fn>Gemeint ist der Schmalkaldische Bund.</fn> pertraxisset. Cattus respondit facetia: "O herr, der keiser, es manglet mir nit mer dan noch ein man." Caesare percunctante, qui esset, respondit: "E[ure] K[aiserliche] M[ajestät] hette ich auch gern under die fromme leut." Subridentem ferunt caesarem dixisse: "Nein, nein, ich khum nit under die verw{ue}rten leute." At Cattus in pace dimissus ad suos rediit, etc.</p>
+<p>Cras, ni dominus antevorterit, petam Argentoratum in causis nostri principis. Inde forte plura, qu{e} alias scribam.</p>
+<p>Vale tuis cum domesticis ac ecclesia dei. Salutabis Gvaltherum, Pellicanum ac reliquos sanctos, etc.</p>
+<p>Raptim, Richenvill{e}, kalendis maii 1546.</p>
+<un>Tuissimus Erbius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Pietate atque doctrina eximio viro d. Henrycho Bullingero, ecclesi{e} Tigurinorum antistiti [fide]lissimo
+<fa><i>Hier und unten Textverlust durch Entfernung des Verschlussbandes.</i></fa>, pa[trono ac domi]no observando.</p>
+</text>
+</brief>

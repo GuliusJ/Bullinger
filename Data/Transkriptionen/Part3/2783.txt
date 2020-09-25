@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2783">
+<brief>
+<id>17051</id>
+<nr>2783</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1547-01-31"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>St. Gallen, 31. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 41 (Siegelspur)</vo>
+<dr>Druck: <a>Boehmer, Dryander</a> 404f, Nr. 18;<br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 176-179, Nr. 21<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 64; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 233 (Schmidt); Madrid BN, 8862, f. Ddro 15.</k></dr>
+<re><t>Nach der Abreise von Johannes Oporin
+<fn>Dieser Stelle zufolge scheint Oporin (und vielleicht auch Isaak Keller; s. <qv>nr2766</qv>, <qv>fn17034-1</qv>) Enzinas bis nach St. Gallen begleitet zu haben. Am 2. Februar scheint Oporin wieder in Zürich gewesen zu sein, Bullingers Brief <qv>nr2788</qv> für Myconius mitgenommen (s. <qv>nr2788</qv>,<qv>zl17055-3</qv>) und die Rückreise nach Basel gemeinsam mit Isaak Keller angetreten zu haben.<zfn>fn17051-1</zfn></fn> erfuhr man, dass die Augsburger sich mit Kaiser Karl V. verständigt haben und dieser ihnen die Ausübung ihrer Religion bis zur Abhaltung eines freien Konzils in Deutschland gewährt hat. Doch mag es noch lange dauern, ehe es zu solch einem Konzil kommt! Es ist ferner zu befürchten, dass dieses sich nicht als frei, sondern als tyrannisch erweisen und Ausgangspunkt einer traurigen Knechtschaft wird. Der Kaiser soll auch den Augsburgern versprochen haben, ihre Privilegien unangetastet zu lassen. Sie konnten allerdings nicht erreichen, dass er keine Truppen in Augsburg stationieren wird. Vermutlich versucht er mit seinen schmeichelhaften Worten, sich der Stadt völlig zu bemächtigen, um diese dann auszunutzen oder sich dort auf einen Angriff der ihm angsteinflößenden Türken und Franzosen vorzubereiten.</t>
+<t>Bernardino Ochino wird alles noch ausführlicher schildern.
+<fn>Ochino war am Abend des 29. Januar in Konstanz eingetroffen (s. <qv>nr2782</qv>,<qv>zl17050-1</qv>) und wird, wie aus vorliegender Stelle hervorgeht, St. Gallen bereits am 31. Januar verlassen haben. In Zürich traf er am 2. Februar ein, um dann noch am gleichen Tag in Richtung Basel aufzubrechen; s. <qv>nr2787</qv>,<qv>zl17058-1</qv>; <qv>nr2789</qv>,<qv>zl17056-1</qv>.<zfn>fn17051-4</zfn></fn> Der Kaiser hat während der Verhandlungen mit Augsburg ausdrücklich die Verhaftung von Ochino gefordert. Die Stadt ließ diesen jedoch nicht fallen, verabschiedete ihn und stellte ihm sogar eine Leibwache für die Reise zur Verfügung. Er bricht nun nach Basel auf. Die St. Galler lassen ihn bis nach Zürich von einem Stadtbeamten [...] begleiten. Von dort aus sollen die Zürcher ihn mit einer Leibwache versehen.
+<fn>Dazu kam es tatsächlich; s. <qv>nr2787</qv>,<qv>zl17058-1</qv>.</fn></t>
+<t>Hieronymus Sailer lässt grüßen und bittet Bullinger, ihm Neuigkeiten mitzuteilen, besonders zu Rudolf Gwalthers Angelegenheit,
+<fn>Zu dem wegen Gwalthers "Endtchrist" eingeleiteten Verfahren s. <qv>nr2757</qv>, <qv>fn17025-7</qv>; <qv>nr2767</qv>, <qv>fn17035-1</qv>.<zfn>fn17051-2</zfn></fn> zumal eine solche Benachrichtigung die Lage kaum verschlimmern kann.</t>
+<t>Gruß. [P.S.:] Gruß auch an die übrigen Kollegen und an Theodor Bibliander, den Enzinas bald anzutreffen hofft.
+<fn>Nämlich in Zürich, während Enzinas' Rückreise nach Basel. - Die hier geäußerte Hoffnung lässt darauf schließen, dass Enzinas Bibliander nicht antraf, als er durch Zürich nach St. Gallen reiste. - Vorliegender Brief wurde vermutlich Ochino zusammen mit Vadians Schreiben an Bullinger vom Vortag (<qv>nr2781</qv>) anvertraut.<zfn>fn17051-3</zfn></fn></t></re> <textweg>
+<div>
+<p>S. D. <zzl>zl17051-2A</zzl>Post Oporini profectionem<zzl>zl17051-2E</zzl> accepimus Augustanos composuisse cum imperatore
+<fn>Karl V.</fn> pacem
+<fn>Am 29 Januar.</fn>, si tamen erit appellanda pax, quae parum aequis conditionibus videtur conciliata. Promisit imperator se in religione nihil mutaturum usque ad proximum concilium nationale, liberum et iustum, quod in Germania celebrare instituit. Vereor autem, ne id sero contingat et, si quando accidat, ne sit iniustum aut tristi servitute oppressum. Promisit item se conservaturum esse integra urbis privilegia. Illud vero ab eo impetrari non potuit, ne copias in urbem introduceret. Si quid ego de istis conditionibus iudicare possum, arbitror eum blandis verbis possessionem urbis velle obtinere, ut, cum semel factus erit potentior, sua libidine abutatur, vel certe reveritus potentiam Turcorum et Gallorum, qui proxime instare videntur, se ad defensionem statuit comparare.</p>
+</div>
+<div>
+<p><zzl>zl17051-1A</zzl>Sed haec omnia intelliges multo luculentius a domino Bernardino Ochino, qui inter alias conditiones fuit ab imperatore nominatim postulatus. Civitas autem cupiens illius saluti probe consultum dimisit eum cum honesto comitatu. Nunc Basileam proficiscitur comitatus ministro publico istius civitatis. Euoniam arbitramur ad securitatem hominis pertinere, ut ministro aliquo publico vestrae civitatis Basileam usque deducatur, te oramus omnes, ut ei tale sodalicium adiungas, quale iudicabis ad ipsius incolumitatem fore necessarium, quod facile a fratribus omnibus vestroque magistratu impetrari posse putamus.<zzl>zl17051-1E</zzl></p>
+</div>
+<div>
+<p>Hieronymus Sailerus te salutat officiose teque valde orat, ut, si quid rerum novarum alicunde acceperis, ei velis communicare. Nominatim cupit scire, quid in causa Gvalteri sit factum, de quo est valde sollicitus; significabis autem pro tua humanitate, quod sine damno cuiusquam communicari posse putabis.</p>
+</div>
+<div>
+<p>Bene vale. Sangalli, 31. ianuarii 1547
+<fa><i>Korrigiert aus</i> 1546.</fa>.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>Salutabis meis verbis dominum Bibliandrum et reliquos fratres, quos deo volente brevi videbo.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarississimo viro domino Henrico Bullingero, ecclesiae Tigurinae episcopo vigilantissimo. Tiguri.</p>
+</div> </textweg>
+</brief>

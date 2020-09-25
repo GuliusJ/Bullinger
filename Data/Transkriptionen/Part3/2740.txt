@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2740">
+<brief>
+<id>17009</id>
+<nr>2740</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1547-01-05"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>[Zürich], 5. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 161 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 928, Nr. 1044<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 9</k></dr>
+<re><t>Die Zürcher Obrigkeit hat heute an die Neun Orte und vorgestern an die Drei Orte geschrieben, dass Kaiser Karl V. gegen die Freiheit Deutschlands handelt; dass die süddeutschen Städte schwören müssen, sich künftig mit niemandem mehr zu verbünden; dass, falls Konstanz sich ebenfalls einem solchen Eid unterwirft, den Eidgenossen Gefahr droht; dass diese Lage erkläre, warum die Zürcher in Rüstung stehen; dass man sich deshalb rasch über das künftige Verhältnis zu Konstanz beraten müsse. Die Tagsatzung wurde nach Baden für den kommenden Sonntag, 9. Januar, einberufen. Hält man zu Konstanz, dann kommt der Krieg in die Eidgenossenschaft. Lässt man Konstanz fallen, verliert man die günstige Passmöglichkeit und hat trotzdem später den Krieg im Land, denn Karl V. wird nicht nachgeben.</t>
+<t>Francisco de Enzinas sei für seinen Brief [<qv>nr2736</qv>] gedankt. Dessen Schreiben an [Hieronymus] Sailer hat Bullinger heute nach St. Gallen weitergeleitet. Sobald er das Buch [... von Christoph Froschauer] erhalten hat, wird er es ebenfalls an Sailer schicken. Weder soll Enzinas wegen der Kosten besorgt sein, noch sollte er sich der unehrlichen Fuhrleute bedienen!</t>
+<t>Der Inhalt des vorliegenden Briefes ist auch für Enzinas und Johannes Gast bestimmt. Hoffentlich hat dieser das Geld für die Wolle durch den gestern von den Zürchern abgesandten Boten [Meinrat Oggenfuß] erhalten.</t>
+<t>Gibt es Neues aus Frankreich, Sachsen und Dänemark? Die Schwaben haben sich ergeben! Was aber, wenn die weiter nördlich gelegenen Orte das Gleiche tun? Dann kommt es zum Krieg [gegen die Eidgenossen]! Angeblich ist Augsburg von den Friedensverhandlungen [mit Ulm] ausgenommen. Von dort kam schon seit 14 Tagen keine Nachricht mehr. Bullinger fürchtet, dass Augsburg auch zu Fall gebracht wird. Was hört man denn über Straßburg?</t>
+<t>Gruß, auch an die Familie, an Enzinas und an Gast.</t>
+<t>Mehr wird Johannes Herwagen berichten, dem Bullinger einiges zum Erzählen anvertraut hat.</t></re>
+<text>
+<div>
+<p>S. D. <zzl>zl17009-1A</zzl><zzl>zl17009-3A</zzl>Min herren habend allen orten und insonders den 9
+<fn>Die Neun Orte (Appenzell, Freiburg, Glarus, Luzern, Schwyz, Solothurn, Unterwalden, Uri und Zug). Der Entwurf des Briefes vom 5. Januar 1547 liegt in Zürich StA, B IV 16, f. 130r.-v.</fn> hütt (dann
+<fn>denn.</fn> vorgester ist den 3
+<fn>Den drei protestantischen Städten (Basel, Bern und Schaffhausen). - Das Schreiben an Basel ist erhalten in Basel StA, Politisches M 8.3, 418-420; s. <a>Henrich, Myconius BW</a> 936, Nr. 1044.</fn>)
+<fa><i>Klammern ergänzt.</i></fa> geschriben, wie man nun mee
+<fn>nun mee: immer mehr.</fn> spür by dem
+<fa><i>In der Vorlage folgt</i> der.</fa> keyser
+<fn>Karl V.</fn>, sunderlich in der befridung mitt den stetten, das er uff die fryheit tütsches landts tringe
+<fn>uff die fryheit tringe: gegen die Freiheit vorgeht.</fn>, die ze entkrefftigen, diewyl er sy in eyd fasse
+<fn>sy in eyd fasse: sie (die Städte) zum Eid verpflichtet.</fn>, sich fürohin z{uo} niemandts ze verbinden,
+<fn>Siehe zuletzt <qv>nr2738</qv>,<qv>zl17007-5</qv>.</fn> das
+<fn>damit.</fn> die Eydgnossen s{oe}lichs bedencken; und, so
+<fn>wenn.</fn> Constantz daryn
+<fn>Gemeint ist in dem vom Kaiser verlangten Eid.</fn> gefasset, was grossen nachteyls die Eydgenossen darvon erlangen; so auch, min herren amm anstoos
+<fn>amm anstoos: nahe der Grenze (sich befinden); s. <a>SI</a> XI 1592. - Deshalb standen die Zürcher damals schon in Rüstung; s. <a>HBBW</a> XVIII 35f; und <qv>nr2768</qv>.<zfn>fn17009-2</zfn></fn>; das man
+<fn>Gedacht ist an die Eidgenossen.</fn> sy betrachten
+<fn>sy betrachten: sie (die Zürcher) berücksichtigen.</fn> w{oe}lle, und beradtschlagen, wie man sich mitt Constantz hallte; und ein entlichen
+<fn>endgültigen; verbindlichen; s. <a>SI</a> I 317.</fn> radtschlag jetzund sontags
+<fn>9. Januar.</fn> gen Baden
+<fn>Wo seit dem 10. Januar die Tagsatzung versammelt war; s. <qv>nr2737</qv>, <qv>fn17006-1</qv>. - Zum Vortrag der Zürcher betreffend Konstanz und ihre eigenen Verteidigungsmaßnahmen s. <a>EA</a> IV/1d 755 g. h.</fn> bringe - dann uff ernenten sontag wirt ein tag.<zzl>zl17009-1E</zzl> Da lyt es,
+<fn>Da lyt es: Darin liegt das Problem.</fn> lieber herr und br{uo}der: N{ae}mend wir uns der von Constantz an, so sind wir imm krieg; wo nitt, so kummend wir umb den herrlichen paß
+<fn>Durchgangsmöglichkeit (u.a. bei der Einfuhr von Lebensmitteln aus Süddeutschland).</fn> und habend hernach den krieg nut des minder amm hallß, dann der Hispanier
+<fn>Karl V.</fn> last nach nitt.<zzl>zl17009-3E</zzl></p>
+</div>
+<div>
+<p>D. Francisco Dryandro
+<fn>Francisco de Enzinas.</fn> ages gratias pro literis
+<fn>Brief <qv>nr2736</qv>.</fn> amicissimis. Saylero inscriptas
+<fn>Der in <qv>nr2736</qv> erwähnte Brief Enzinas' an Hieronymus Sailer.</fn> hodie curavi Sangallum ferendas. Liber
+<fn>Das von Enzinas nach Zürich gesandte Buch für Sailer; s. dazu <qv>nr2736</qv>.</fn> ubi redditus fuerit, bona fide curabo et ipsum perferri ad Saylerum. De sumptibus ne sit solicitus. Heige
+<fn>(Er) habe; vgl. <a>SI</a> II 890.</fn> nun
+<fn>nur.</fn> mitt kareren
+<fn>Fuhrleuten; s. <a>SI</a> III 426f. - Diese Mahnung steht wohl in Zusammenhang mit der für Christoph Froschauer bestimmten Buchsendung.</fn> nut ze schaffen; est enim iniquissimum genus hominum.</p>
+</div>
+<div>
+<p>Quae tibi de infelici bello et hisce rebus aliis scribo, ipsi et d. Gastio communica. <zzl>zl17009-2A</zzl>Spero Gastium pecunias accepisse pro lana
+<fn>Siehe dazu <qv>nr2738</qv>,<qv>zl17007-2</qv>.</fn> per nuncium
+<fn>Vermutlich Meinrat Oggenfuß, der als laufender Bote nach Basel zwischen einem Eintrag vom 30. Dezember 1546 und vom 8. Januar 1547 nachgewiesen ist; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 64 der Ausgabenabteilung für laufende Boten.</fn>, qui pridie a dominis nostris amandatus est ad vestros.<zzl>zl17009-2E</zzl></p>
+</div>
+<div>
+<p>Quid habetis ex Gallia et Saxonia? Dania item? Hie oben
+<fn>Gemeint ist Süddeutschland.</fn> ist es mitt den Schwaben gethan.
+<fn>Anspielung auf die Ergebung Ulms und anderer oberdeutscher Städte; s. <qv>nr2738</qv>,<qv>zl17007-4</qv>.</fn> Handlend die da niden
+<fn>die da niden: die weiter unten (d.h. nördlicher) liegenden (gedacht ist u.a. an Augsburg).</fn> ouch also, so schlach bly z{uo}!
+<fn>Vermutlich ist mit "so schlach bly z{uo}" gemeint: so kommt es zum Krieg (nämlich gegen die Eidgenossen); s. <a>SI</a> IX 486 s.v. zuschlahen; <a>Fischer</a> I 1189 s.v. Blei (ein Wort, das auch für Geschoss stehen kann).</fn> Aiunt Augustanos gratia et pace excludi.
+<fn>So auch in <a>Keim, Ulm</a> 384f.</fn> Intra 14 dies ab Augusta nullas
+<fn>nullas literas.</fn> recepi. Metuo, ne et illi supplantentur. Oremus dominum, ut ipse adsit causae suae. Quid Argentoratenses?</p>
+</div>
+<div>
+<p>Vale iterum cum familia, d. Dryandro, Gastio et aliis viris bonis. 5. ianuarii 1547.</p>
+</div>
+<div>
+<p>Plura d. Hervagius
+<fn>Johannes Herwagen, der am 1. Januar 1547 nach Zürich aufgebrochen war; s. <qv>nr2735</qv>,<qv>zl17004-1</qv>. <qv>zl17004-2</qv>.</fn>, cui plurima recensenda commisi.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Osvaldo Myconio, inclytae Basiliensis ecclesiae ministro fideli, domino et fratri semper colendo. Basel.
+<fn>Diesem Brief wurde vermutlich Blarers Brief an Bullinger vom 4. Januar beigelegt; s. <qv>nr2739</qv>, <qv>fn17008-13</qv>.<zfn>fn17009-1</zfn></fn></p>
+</div>
+</text>
+</brief>

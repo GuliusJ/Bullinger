@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2808">
+<brief>
+<id>17076</id>
+<nr>2808</nr> <from persid="ChamBernhardVon"/> <to persid="Bullinger"/> <place plid="Kyburg"/> <date when="1547-02-12"/>
+<ae>Bernhard von Cham an Bullinger</ae>
+<od>Kyburg, 12. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 340, 169 (ohne Siegel)
+<fa><i>Ohne Schnittspuren oder Nadelstiche.</i></fa></vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 100</k></dr>
+<re><t>Von Cham hat am Vortag einen Bericht von Johannes Haller über Augsburg empfangen. Er hätte Bullinger darüber informiert, wenn er nicht aus Hallers Brief entnommen hätte, dass dieser auch an Bullinger geschrieben [<qv>nr2791</qv>] hat. Die Lage scheint nun wirklich gefährlich. Schuld daran sind aber die verstockten Augsburger. Allerdings tun ihm die frommen Leute leid, die nun um ihr Hab und Gut fürchten müssen, ja auch um sich selbst, wenn sie in der Stadt bleiben. Hätte man ihren Rat befolgt, wäre [der Donaufeldzug] anders verlaufen! Von Cham hat schon immer geahnt (was nun leider eingetroffen ist), dass die Protestanten infolge des nie zustande gekommenen Angriffs uneinig würden. Alles sei dem Herrn anvertraut.</t>
+<t>Da die anderen Städte [Süddeutschlands] sich [Kaiser Karl V.] ergeben haben, befürchtet von Cham, dass auch Konstanz dies tun wird. Falls die Stadt aber standhaft bleibt, würde man sich bestimmt um sie bemühen, damit sie zu einem ehrbaren Frieden gelangt, der auch der Eidgenossenschaft dienlich ist. Gibt man den Einwohnern Konstanz' die Möglichkeit, über ihre Zukunft zu entscheiden, werden sie (angesichts ihres Wankelmuts) gewiss für eine Ergebung stimmen.</t>
+<t>Aus Hallers Brief geht hervor, dass dieser durch Bullingers Briefe [u.a. <qv>nr2770</qv>] beleidigt wurde. Vermutlich aber wird er über Bullingers nachfolgenden Brief [<qv>nr2780</qv>] und über das Schreiben des Zürcher Rats [vom 30. Januar] erfreut sein. Bullinger soll Haller erneut Mut einflößen, damit dieser Gottes Wort tapfer verkündet. Er hat ja den geeigneten Charakter dazu. Mit Gepolter hingegen wird man die Augsburger Kirche kaum erbauen können.</t>
+<t>Von Cham hat Sebastian Schertlin brieflich gebeten, Hans Wilpert [Zoller] (der nicht nach Zürich zurückkehren will) hinsichtlich dessen Zukunft zu beraten, da die Lage gefährlich ist, zumal kaiserliche Truppen nach Augsburg verlegt werden. Er hat auch Schertlin [angesichts dessen schwieriger Lage] sein Mitleid bekundet, ihn zu sich eingeladen und ihm versprochen, ihn nach Zürich zu begleiten, wo man ihn ehrenvoll empfangen würde. Zudem hat er ebenfalls an Zoller geschrieben.</t>
+<t>Segenswunsch für Bullinger und dessen Haushalt.</t></re>
+<text>
+<div>
+<p>Ersamer, walgelerter, insonders günstiger, lieber her, min früntlich gr{uo}tz und gantz g{uo}twillig dienst sygent
+<fn>seien.</fn> üch allzit zuvor, lieber meister Heinrich. <zzl>zl17076-1A</zzl>Uf gestert ist mir ein schriben von her Hanß Haller
+<fn>Es handelt sich um Johannes Hallers Antwort auf den von Bullinger in <qv>nr2770</qv>,<qv>zl17039-1</qv>, angekündigten Brief von Chams.</fn> z{uo}kommen, der mich aller sachen, wie eß umb Augspurg stat, bericht. Ich het üch den handel z{uo}geschriben, so
+<fn>doch.</fn> hab ich uß dem schriben, so mir geschechen ist, verstanden, daß üch ouch geschriben ist.
+<fn>Gemeint ist Hallers Brief an Bullinger vom 3. Februar (<qv>nr2791</qv>). Am gleichen Tag also hat Haller auch an Bernhard von Cham geschrieben, dessen Bote Briefe mitgebracht hatte, u.a. Bullingers Brief <qv>nr2770</qv> vom 26. Januar, die Haller beleidigten; vgl. <qv>nr2791</qv>,<qv>zl17060-1</qv>.<zfn>fn17076-1</zfn></fn><zzl>zl17076-1E</zzl> <zzl>zl17076-2A</zzl>Ich kan wal verstan und gedencken, daß die sach gar gefarlich stat. Die ellenden verstopften
+<fn>verstockten.</fn> lüt habent nüt anderß wellen. Mich durent
+<fn>Mich durent: Ich bedauere.</fn> allein die frommen, redlichen lüt, die eß so gar
+<fn>sehr.</fn> g{uo}t gemeint, und etlich von dem iren, die anderen so nach beliben
+<fn>nach beliben: noch bleiben.</fn>, ouch in grossen gefaren müssent stan. So man densälben gefolget, were eß mit der hilf gotteß ein anderen weg gangen. Ich hab alweg
+<fn>immer.</fn> besorgt, die har
+<fn>Verzögerung (im Krieg mit dem Kaiser, während des Donaufeldzugs).</fn> wurd sy
+<fn>Die Protestanten.</fn> trennen, damit wurd eß gan,
+<fn>damit wurd eß gan: demzufolge es so zugehen würde.</fn> wie eß leider geschehen ist. Wir wellent eß dem heren got heimsetzen
+<fn>anheimstellen.</fn>. Der wirt eß z{uo} siner zit wal nach sinem gefallen ordnen.<zzl>zl17076-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17076-3A</zzl>Kostentz, besorg ich, diewil die anderen stet al abgefallen, sy werdent nit beharen. So sy die gnad und daß glück von got hettent, daß sy sich nach
+<fn>danach.</fn> tapfer und trostlich darstaltend
+<fn>aufführten.</fn>, mir zwyflet nit, man wurde inen nachwerben
+<fn>inen nachwerben: sich um sie bemühen; s. <a>SI</a> XVI 1130.</fn>, dadurch sy mit der zit z{uo} eim g{uo}tten annemlichen friden komen möchtent, und der einer Eidgnosschaft ouch nützlich möchte sin. Ich besorg, so eß
+<fn>Nämlich die Frage, ob Konstanz dem Kaiser huldigen soll oder nicht.</fn> fur
+<fn>vor.</fn> den gemeinen man kome (so ist der gmein man wanckelmüttig und unbeharlich!)
+<fa><i>Hier und unten Klammern ergänzt.</i></fa>, sy werdent th{uo}n wie die anderen. Got gäb inen gnad, das sy stif
+<fn>standhaft.</fn> beharent.<zzl>zl17076-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17076-4A</zzl>An
+<fn>Aus.</fn> her Hansen schriben verstan ich wol, das der g{uo}t man ein beduren ab
+<fn>durch.</fn> üwerem schriben
+<fn>Bullingers nicht erhaltener Brief vom 22. Januar (s. <qv>nr2786</qv>,<qv>zl17054-2</qv>) sowie dessen Brief <qv>nr2770</qv> vom 26. Januar, mit denen Haller zum bedingungslosen Verbleib in Augsburg aufgefordert wurde.</fn> hat enpfangen, wiewol ich gedenck, ab miner heren und üwerem nachgenderen
+<fn>folgenden; s. <a>SI</a> II 30f. - Gemeint ist der Brief des Zürcher Rats an den Augsburger Rat vom 30. Januar (s. <qv>nr2788</qv>, <qv>fn17055-1</qv>; <qv>nr2805</qv>,<qv>zl17073-1</qv>) sowie Bullingers Brief <qv>nr2780</qv> vom gleichen Tag, in dem Letzterer seine strenge Haltung relativierte.</fn> schriben wider ein trost und ein fröid enpfangen. Ir wellent im ouch trostlich z{uo}schriben, daß er manlich und dapfer daß wort gottes verkünde. Er ist zam
+<fn>sanftmütig; flexibel. - Zu verstehen: Haller ist flexibel genug, um in Augsburg Gottes Wort tapfer weiter verkündigen zu können.</fn>, den mit bolderen
+<fn>Schreien; Poltern (wie dies damals etwa Rudolf Schwyzer d.Ä. und Lorenz Meyer alias Agricola taten).</fn> wirt an dem ordt
+<fn>Augsburg.</fn> nit vil gebuwen. Wer weist, der her got wirtz nach alles <vl>169v.</vl> zum besten ordnen.<zzl>zl17076-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17076-5A</zzl>Hanß Wilbergen
+<fn>Hans Wilpert Zoller. - Zu dessen Verwandtschaft mit von Cham s. <qv>nr2791</qv>, <qv>fn17060-5</qv>.</fn> halb hab ich sinem heren, her Sebastian Schertlin
+<fn>Sebastian Schertlin.</fn>, geschriben, ime ze ratten, wie im ze th{uo}n syge,
+<fn>wie im ze th{uo}n syge: wie dem (der Sache) vorzukehren sei; s. <a>SI</a> XIII 303.</fn> diewil er nit heim wil und doch sinethalb (so ein keiserischer z{uo}satz
+<fn>Garnison.</fn> gen Augspurg solte geleit werden) gar gefarlich stan wurde. Ich hab im
+<fn>Zoller.</fn> sälber ouch geschriben. Heren Schärtli hab ich in minem schriben klagt
+<fn>hab ich klagt: habe ich [angesichts Schertlins damaliger Lage] meine Teilnahme bezeugt; mein Mitleid ausgesprochen; vg. <a>SI</a> III 636.</fn> und ine z{uo} mir geladen in hoffnung, er werde mit der zit z{uo} mir komen. Wil ich ine in miner heren stat gen Zürich füren,
+<fn>Zu Schertlins weiterem Schicksal s. <qv>nr2800</qv>, <qv>fn17068-9</qv>.</fn> g{uo}tter hofnung, im werde vil eren und g{uo}tz begegnen.<zzl>zl17076-5E</zzl></p>
+</div>
+<div>
+<p>Üch und üwer husgesint (in den schirm des heren gotz befollende) geben z{uo} Kiburg, den 12. tag hornung im 47. jar.</p>
+<un>Üwer g{uo}twilliger diener</un>
+<un>Bernhart von Cham,</un>
+<un>vogt z{uo} Kiburg.</un>
+<lz/>
+<p>[Adresse auf f. 172v.:] Dem ersamen und wolgelerten meister Heirich Bullinger, pfarher zum Grossen Münster z{uo} Zürich, minem lieben heren und g{uo}tten fründ.</p>
+</div>
+</text>
+</brief>

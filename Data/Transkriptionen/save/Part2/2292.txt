@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2292">
+<nr>2292</nr>
+<correspondents>
+	<originator>Christian Hochholzer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Aarau</place>
+	<date>21. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 326 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, MS S 58, 122 ^&x{
+<re>Die [Aarauer] mühten sich eine Zeitlang damit ab, einen solch frommen, gelehrten [Nachfolger für das Schulmeisteramt zu finden], wie Bullinger ihnen geraten hatte; doch vergebens, denn es siegten die [Berner], die in ihren Bestrebungen nicht nachließen. Der [Aarauer] Rat hat den von den [Bernern] vorgeschlagenen [Ulrich Trog] angenommen. Dieser stammt aus Aarau; sein Großvater [Heinrich Trog?] ist Ratsherr, und [Ulrich] soll ganz seinen [Berner] Lehrern gleichen.
+-^#. Was Bullinger über [den Sieg des] Landgrafen [Philipp von Hessen] schrieb, erfreute Hochholzer sehr, zumal er Widersprüchliches gehört hatte und nicht wusste, welcher Seite er glauben sollte.
+-^#. Grüße von Hochholzers Frau [Agathe, geb. Näf].</re>
+<tx>Gratiam et pacem a domino.
+Laboravimus iam aliquandiu, venerande pater, pro pio, fideli et docto ludimagistro,
+qualem et recipiendum suasisti (qualemque te nobis, si posses, missurum pollicebaris;<f1>In einem nicht erhaltenen Brief. - Bullinger und Bibliander hatten ferner (nach der Rückberufung des Aarauer Schulmeisters Christian Hospinian nach Zürich; s. oben Nr. 2276, 4-6) den jungen Christoph Piperinus für das Aarauer Schulmeisteramt vorgeschlagen; s. oben Nr. 2276, 31-37.<fe> pro quo omnes boni merito tibi gratias habent).
+Sed omnia incassum! Vicit enim illorum<f1>Gemeint sind die Berner; s. oben Nr. 2276, 23-25.<fe> improbum studium indefessaque sedulitas id, quod semel decreverint, perficiendi.
+Recepit senatus noster illum<f1>Ulrich Trog; s. oben Nr. 2276, Anm. 7.<fe>, quem ministri ecclesię Bernenses promotum voluerunt.
+Maxime hoc negotio perturbarer, nisi certo cognitum haberem id non sine numinis voluntate factum.
+Proinde non est, ut posthac de ludo nostro sis in hac parte solicitus, ut vel quemquam mittas, vel in quoquam commendando labores.
+Receptus est ille. Expectamus iam eius adventum.
+Civis est Aaroviensis. Avum<f1>Wohl Heinrich Trog, der in den Jahren 1536 und 1540 als "der drissigen" oder "der Raͤthen" nachgewiesen ist; s. Urkunden des Stadtarchivs Aarau, hg. v. Georg Boner, Aarau 1942 - Aargauer Urkunden 9, S. 283, Nr. 775; S. 287f, Nr. 784f.<fe> habet senatorem.
+Caeterum qualis sit futurus, certo iudicare non possum; talem tamen fore iudico atque esse a quibusdam audio,
+quales illorum<f1>Hier ist besonders die Berner Geistlichkeit gemeint.<fe> sunt discipuli. Non enim ovum ovo magis simile<f1>Adagia, 1, 5, 10 (ASD II/1 486, Nr. 410).<fe> quam hi omnes suis praeceptoribus.
+Dominus omnia ad nominis sui gloriam ecclesięque incolumitatem vertat infringatque omnium hostium veritatis consilia et conatus.<f1>Vgl. Ps 33 (Vulg. 32), 10.<fe>
+^$Quae de landtgravio<f1>Philipp von Hessen.<fe> scripsisti,<f1>Nicht erhalten. - Dabei handelte es sich sicherlich um die Nachricht vom Sieg Landgraf Philipps über Herzog Heinrich von Braunschweig; s. dazu oben Nr. 2281 und Anm. 4.<fe> pergrata fuere; incertus enim rumor quaedam ad nos pertulerat,
+adeo tamen diversa,<f1>Vgl. oben Nr. 2277, 1-3.<fe> ut, utri parti credendum esset, in dubio maneret.
+^$Vale et me tibi commendatum habe ecclesiamque nostram.
+Aarovię, 21. novembris 45.
+Salutat vos uxor mea<f1>Agathe, geb. Näf.<fe>.
+<un>Tuae humanitati deditissimus Christi-­
+<un>anus Hochholzer.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Heinrycho Bullingero, Tigurinę ecclesię antistiti<fx>^#/+In der Vorlage^#/- Antitistiti.<fe> fidelissimo, domino suo tanquam patri plurimum colendo. m. Heinrychen Bullinger.
+</content>
+</letter>

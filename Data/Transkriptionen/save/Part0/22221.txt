@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="22221">
+<nr>22221</nr>
+<correspondents>
+	<originator>Philipp Gallicius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Chur</place>
+	<date>1552 oder später.]</date>
+</space_time>
+<vo>Zürich StA, E II 365, 130b. / Orig. Aut.</vo>
+<dr>Gr. II, 728.</dr>
+<re></re>
+<note></note>
+S.  Per tuam humanitatem, vir maxime, cura has literas, ut
+reddanturd. Gratarolo in domumd. Gesneri. Loquere
+bibliopolae, ut in nundinis divi Martini secum aducat amico
+cuidem meo Ecclesiasten Erasmi Roterodami.
+Deus te diu conservet nobis. Amen.
+Tuus ut semper Philippus Gallicius.
+[Adresse u. Datum fehlen.]
+Guglielmo Grataroli kam 1552 in die Schweiz.
+</content>
+</letter>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1817">
+<nr>1817</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>19. November 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2063 (Siegelspur)</vo>
+<vo>Zürich ZB, Ms S 53, 183^&x{</vo>
+<re>Die Verhältnisse [in Graubünden] sind voll von Beschwerlichkeiten: Die Pensionenempfänger sinnen seit ihrer Maßregelung vor zwei Jahren auf Rache, verbünden sich mit den Päpstlichen, beeinflussen den [Churer] Bischof [Lucius Iter] und streben nach der Macht; [den Churern] wird auf verschiedene Weise übel mitgespielt, damit sie sich wieder unter die bischöfliche Herrschaft begeben - möge Gott ihnen beistehen; Johannes Blasius war aufgrund seines Dialogs mit Schwierigkeiten konfrontiert, hätte er sich doch des Schreibens enthalten! Co­­mander plagt schon seit über einem Jahr ein Kopfleiden, das er als medizinisch Unkundiger nicht näher bestimmen kann, sodass er gerade in diesen verworrenen Zeiten nur wenig zu leisten vermag; zu all dem kommt die sie beinahe alle bedrückende Armut und der Mangel hinzu, der ihnen kaum zu leben erlaubt. Aus Italien gibt es keine Neuigkeiten; erwartet Nachrichten von Bullinger aus Deutschland. Gruß.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 56f, Nr. 43.]
+</content>
+</letter>

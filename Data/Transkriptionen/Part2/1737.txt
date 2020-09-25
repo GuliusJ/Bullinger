@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1737">
+<nr>1737</nr>
+<correspondents>
+	<originator>Matthias Erb</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Reichenweier</place>
+	<date>3. April 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 361, 151 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 52, 168; Straßburg BNU, Ms 673 (Th. B. 14), 42.^&x{
+<dr>Ungedruckt</dr>
+<re>Hat [Hans] Vogler geschrieben, der die Nachrichten - über deren Wahrheitsgehalt Erb im Unklaren ist - vielleicht Bullinger zukommen lassen wird; bittet ihn, sie nur mit Vorsicht weiterzugeben. Deutschland ist in Unruhe; man rüstet zum Krieg, doch auch das Evangelium wird stärker; Erb hofft, dass sich die Kriegführenden gegenseitig neutralisieren. Grüße. Bitte um gegenseitige Fürbitte.
+</re>
+<tx>S. frater in domino charissime.
+^$Scripsi multis Voglero<f1>Hans Voglerd. Ä.<fe> nostro, veteri amico<f1>Vogler hatte bis 1541 als Stadtschaffner in Reichenweier gewirkt; vgl. HBBW XI 337, Anm. 5.<fe>, cuius beneficentię plurimum debeo, de statu meo et ecclesię.<f1>Erbs Brief an Vogler ist nicht erhalten.<fe>
+Adtexui nova, quę apud nos passim dissipantur, at quam
+vera, ignoro; ut enim mundus instabilis est, ita et fama
+apud nos (mobilior quovis euro<f1>Südostwind, vgl. Vergil, Aeneis, 8, 223; 12, 733; Horaz, Carmina, 2, 16, 24 ("ocior euro") u. a.<fe>) mentiendo vires acquirit.<f1>Vgl. Vergil, Aeneis, 4, 174f ("... viresque adquirit eundo"); TPMA IV 392 ("Quam­uis mentitur, crescit eundo tamen").<fe>
+Quę tibi forte legenda<fx>^#/+Vor^#/- legenda ^#/+gestrichenes^#/- tibi.<fe> exhibebit. Oro, ut soles, pro tua
+singulari prudentia omnia boni consulas, tum iis communices,
+qui mihi vel nugigeruli vel vani hominis notam non possint
+inurere etc.
+^$Video trepidare Germaniam cum principibus et civitatibus
+adeo, ut plurimi sint fere in expeditione. Nec tamen
+Christus inter istos tumultus silet, sed evangelium eius
+fortius exerit vires. Minantur alius alii grandia et fere
+excidium, sed spero, es soll ein schwert das ander in der
+scheiden behalten.<f1>Vgl. Wander IV 467, Nr. 32.<fe>
+^$Valebis salubriter cum ecclesia et fratribus tuis, quos
+nominatim salutabis, inprimis Erasmum<f1>Erasmus Schmid (Fabritius).<fe>, Megandrum meum,
+Pellicanum etc.
+^$Raptim, Richenvillae, 3. die aprilis anno 1543.
+^$Ora dominum pro me, quod itidem pro te fatiam, frater in
+domino charissime.
+<un>Mathias Erbius.
+<lz>[Adresse auf der Rückseite:] Viro pietate et doctrina
+eximiod. Henricho Bullingero, apud Tigurinos ecclesiastę
+vigilantissimo, fratri suo charissimo.
+</content>
+</letter>

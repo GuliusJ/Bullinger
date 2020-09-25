@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2180">
+<nr>2180</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>16. Juni 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Abgesehen von kleineren Abweichungen und der Nachschrift textgleich mit Nr. 2181. - Mit einer Randbemerkung von Johann Heinrich Hottinger.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 41 (Siegelabdruck)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 368f, Nr. 1190</dr>
+^&xKopie 17. Jh.: Zürich ZB, Ms F 43, 116r. --- Wörtlich (fast) gleich wie HB an Vadian, 16. Juni 1545 --- ^&x{
+<re>Im Wissen, dass Blarer fromme und den Studien ergebene Menschen sonst immer willkommen sind, dass aber doch viele Landstreicher sich als Gelehrte ausgeben und gute Männer täuschen, empfiehlt Bullinger den den Zürchern liebgewordenen [Überbringer] Gerhard [thom Camph], einen adligen Friesen, der in Zürich studierte und bei [Konrad] Pellikan wohnte. Auf der Rückkehr in seine Heimat möchte er Blarer, die Stadt [Konstanz] und die dortige Kirche besuchen. Er bedarf keiner [finanziellen] Unterstützung.
+-^#. [P.S.:] Bullinger hat den Brief [Nr. 2164] von [Georg] Frölich zusammen mit demjenigen Blarers [Nr. 2173] erhalten und dankt dafür. Er hat Frölich und [Hans] Welser geantwortet [nicht erhalten] und die Briefe einem nach Augsburg verordneten Stadtboten [...] anvertraut.</re>
+<tx>S[alutem] d[ico]. Scio pios et studiosos tuae humanitati, domine et frater colende idemque mihi dilectissime, alias commendatos esse.
+Quia tamen multi errones saepe bonis viris imponunt, dum se venditant pro studiosis, cum sint nebulones,
+volui huicd. Gerhardo Frisio<f1>Gerhard thom Camph. - Am 17. Juni reiste thom Camph in Begleitung von Samuel Pellikan von Zürich via St. Germain, Konstanz, Schaffhausen, Basel, Straßburg, Köln, Deventer, Brabant und Holland zurück in seine Heimat Friesland. Samuel kam am 28. September 1545 wieder zurück nach Zürich; s. ^#/+Pellikan,^#/- Chronikon 171; unten Nr. 2223, 2-4.<fe> testimonium dare fidele, ne inter errones numeretur.
+Est hic honesto loco et nobili familia natus, natione Frisius. Venit ad nos Tigurum pietatis et literarum ergo. Egit in aedibusd. Pellicani. Pius est et doctus.
+Rediturus autem domum et in patriam voluit prius videre te et ecclesiam urbemque vestram.
+Opulentus est. Subsidio non indiget. Excipe ergo illum, obsecro, uti dignus est. Hac re facies rem te dignam
+et mihi longe gratissimam; mire enim a nobis omnibus amatur propter pietatem, candorem et eruditionem.
+^$Vive et vale!
+^$Tiguri, 16. iunii anno 1545.
+^$Literasd. Laeti<f1>Oben Nr. 2164.<fe> tuis<f1>Wohl mit Brief oben Nr. 2173, in dem allerdings nur ein Brief Hans Welsers (oben Nr. 2156) erwähnt ist.<fe> coniunctas accepi et ago tibi gratias. Respondid. Laeto<f1>Nicht erhalten.<fe>
+etd. [W]elsero<fx>V ^#/+in^#/- Vuelsero ^#/+vom Verschlussband verdeckt.^#/-<fe><f1>Nicht erhalten.<fe>. Tulit literas Augustam quidam urbis [n]ostrae<fx>n ^#/+in^#/- nostrae ^#/+vom Verschlussband verdeckt.^#/-<fe> cursor<f1>Unbekannt.<fe>.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Praestantissimo virod. Ambrosio Blaurero, Constantiensis ecclesiae ministro, fratri charissimo suo. Constantz<fx>^#/+Darunter von Blarers Hand das Empfangsdatum:^#/- 1545. 20. iunii.<fe>.
+</content>
+</letter>

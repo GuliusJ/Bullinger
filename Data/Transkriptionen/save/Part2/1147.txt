@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1147">
+<nr>1147</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>nach Mitte Juli 1538?]</date>
+	<note>Im Brief ist die Rede davon, daß Melchior [Wirz] seine Stelle einem anderen überlassen habe. Dies dürfte sich vermutlich auf seine Ablösung am Basler Pädagogium durch Otto Werdmüller beziehen, von der Grynäus um Mitte Juli 1538 berichtet (s. oben Nr. 1146,
+11f).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 211 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 34, 167 (eingeordnet 1533) ^&x{
+<dr>Ungedruckt</dr>
+<re>Bittet, Melchior [Wirz] bei dessen Bruder dafür zu entschuldigen, daß er seine Stelle einem anderen überlassen hat.
+</re>
+<tx>S. Queritur Melchior<f1>Melchior Wirz.<fe>, quod male frater<f1>Nicht namentlich bekannt.<fe> abdicatam esse
+se inconsulto conditionem ferat, ac me rogat, ut hoc factum
+apud fratrem excusans se<fx>^#/+vor ^#/-se ^#/+gestrichenes ^#/-illum.<fe> cum
+illo reducas in<fx>in ^#/+korrigiert aus ^#/-ing.<fe> gratiam. Oro, ut
+facias diligenter. Ingenue fecit iuvenis; conditionem, qua
+egere ipse non videbatur, cessit ei, qui<fx>^#/+vor ^#/-qui
+^#/+gestrichenes ^#/-quod.<fe> opus valde habet. Deinde exercitationibus
+obrutus consulere studiis melius voluit. Est enim discendo
+tempus hoc oportunissimum, ac certe, si quam discere
+disciplinam certam vult, debet nunc maxime animum applicare.
+Haec ut apud fratrem omnia diligenter excuses, oro.
+^$Vale in domino.
+<un>Grynęus tuus in domino
+<un>frater.
+<lz>[Adresse auf der Rückseite:] Bullingero suo, amico.
+Tygurum.
+</content>
+</letter>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1510">
+<nr>1510</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>ca. 30. April 1541]</date>
+	<note>Etwa gleichzeitig mit dem inhaltlich parallelen Schreiben an Vadian vom 30. April (Vadian BW VI 20, Nr. 1165).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 465-467 (Siegel)<f1>Erw.: ARG 47, 102 (Anm.); Moeller, Zwick Nr. 242.<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Leitet Nachrichten weiter, die ihm zugeschickt wurden: In Regensburg wird in den Herbergen der Fürsten evangelisch
+gepredigt. Die Türken sollen die Belagerung von Pest aufgegeben haben. [Sultan Suleiman I.] soll im Anmarsch sein.
+Luther soll in einem Brief davor gewarnt haben, den Ernst der Verhandlungen in Regensburg zu unterschätzen. Teilt ein
+Gedicht mit, das Philipp [Melanchthon] Jakob Sturm geschickt hat. Berichtet über die Ernennung der Teilnehmer, Beisitzer und
+Präsidenten des Religionsgesprächs und über das den protestantischen Kolloquenten erteilte Mandat; die Gegenseite
+wollte mit dem Artikel vom Sakrament beginnen, wohl um die Protestanten gegeneinander auszuspielen. Kaiser [Karl V.] hat
+die Abgeordneten empfangen; am 25. April haben die Verhandlungen begonnen. [Johannes] Fabri soll noch am Leben sein. Bullinger soll diese Nachrichten weitergeben, besonders an Leo [Jud].
+</re>
+<tx>S. Wie man mir schribt,<f1>Über Zwicks Quelle ist nichts bekannt. - Eine ähnliche, etwa einen Monat früher zu datierende Zusammenstellung von Nachrichten aus Regensburg von
+Zwicks Hand, allerdings nicht in Briefform, findet sich in Zürich StA, E II 350, 401.<fe> also will ich uch och<f1>euch auch.<fe> schriben.
+^$Die prediger unsers tails predigend ains um das ander
+zuͦ Regenspurg in der fursten<fx>^#/+Vor^#/- fursten ^#/+gestrichenes^#/- herre.<fe> herbergen.
+^$Vor Baest<f1>Pest (vgl. oben Nr. 1487, Anm. 2).<fe> soll der Turck etlich sturm verloren haben und ir oberster umkomen sin;<f1>Das Gerücht vom Tod des türkischen Statthalters von
+Belgrad (vgl. PC III 180; MO IV 186) war falsch; beim gefallenen Truppenführer handelte es sich laut Giovio um einen Hauptmann namens Ahmed (s. Paulo Giovio, Historiae sui temporis II/2, Rom 1985. - Opera V, S. 25).<fe> daruf syend sy abzogen.
+^$Des Turcken<f1>Sultan Suleiman I.<fe> personliche ankunft soll gwiss und uberus gwaltig sin.
+^$Luther soll gen Regenspurg gschriben haben, sy mainind vilicht, quod agunt comędiam inter homines, sed tractare eos
+tragędiam inter deum et satanam,<f1>Luthers Kritik im Brief an Melanchthon vom 4. April richtete sich vor allem gegen Landgraf
+Philipp von Hessen und Bucer; s. WA Briefwechsel IX 358.<fe> darum gelts uffsechens<f1>deshalb sei Wachsamkeit vonnöten.<fe>.
+^$Philippus<f1>Philipp Melanchthon.<fe> hat die vergangnen tag Jacob Stuͦrmen ain guldins crutzle gschickt uss ainer ertzgrub und disse carmina damit:
+<lz>
+^$Exiguam tibi mitto crucem, facunde Iacobe,
+^$^@-2Alterius signum, sed crucis esse puta.
+^$Ipse patris summi gnatus nos morte redemit
+^$^@-2Et mortis vetuit nos timuisse minas.
+<lz>
+^$Das colloquium ist uffgehept<f1>suspendiert. - Während die Protestanten anfänglich das in Worms abgebrochene Gespräch (vgl.
+oben Nr. 1459, Anm. 2) fortsetzen wollten, bestand der Kaiser auf einem Neubeginn (vgl. bes. MO IV 161f, Nr.
+2184).<fe>, doch so sind etliche personen von baiden thailen verordnet,<f1>Am 20. April benannte der Kaiser je drei Theologen beider Parteien, die zusammen über die Überwindung der
+Glaubensspaltung beraten sollten (s. MO IV 178f, Nr. 2199; zum Datum vgl. MBW 2677 [Anm.]).<fe> die von ainer verglichung redind, namlich:
+^$<vl>466</vl> uff der bepstischen syten: 1. Doctor Eck, den kennt ir wol, 2. Jo[hannes] Groperus, ist ein Cölner, sol ain
+fin<f1>kluger, gebildeter.<fe> man sin, 3. und her Julius Pfluͦg; diss ist gar ain redlich mann, by dem ich Bononię by 3 jaren in ainem hus gwesen, ist ain thaimher<f1>Domherr.<fe> zuͦ Mentz;
+^$uff unser syten: 1. Philippus<f1>Philipp Melanchthon.<fe>, 2. Bucerus und 3. Pistorius, ist ain hessischer prediger.
+^$Item zuͦ zugen<f1>Zeugen. - Die Ernennung von Beisitzern erfolgte auf Wunsch der Protestanten; vgl. MO IV 180f. 189.<fe>
+sind gnomen uff der andern syten: 1. ain cölnischer radt<f1>Graf Dietrich von Manderscheid.<fe>, 2. der mentzisch
+cantzler<f1>Hofmeister Eberhard Rüdt von Collenberg.<fe>, 3. des pfalzgrafen cantzler<f1>Heinrich Hase, kurpfälzischer Kanzleiverwalter.<fe>;
+^$uff unser syten: 1. der saxisch cantzler<f1>Franz Burchart.<fe>, 2. der
+hessisch cantzler<f1>Johann Feige.<fe>, 3. Jacob Stuͦrm.
+^$Zuͦ präsidenten sind verordnet der pfalzgraf Friderich
+und des kaiser cantzler, der von Granvela<f1>Nicolas Perrenot, Herr von Granvelle.<fe>.
+^$Die dry verordneten unsers thails sind durch die unsern vermanet,<f1>Vgl. ARG III 36.<fe> und ist ynen befolen worden: ^$<vl>467</vl> 1. das sy
+nichts bewilligind, das nit verantwuͦrtlich, 2. das sy nichts verduncklind, 3. das sy in den articklen die ordnung haltind der
+confession; dann der gegenthail wolt am artikel vom sacrament anfachen und zuͦ letst von der justification<f1>Vgl. die am
+22. April von Kaspar Cruciger an Luther mitgeteilten Artikel der Gegenpartei (MO IV 182-184, Nr. 2202, dazu auch ARCEG VI 21, Z. 26-41).<fe>; mainend vilicht, es solt ain spaltung under den unsern selbs geben bym sacrament. Der tufel danck inen dissen truw.<f1>Der Teufel möge ihnen diese treue
+Pflichterfüllung entgelten.<fe>
+^$Die gedachten sechs verordneten sind vom kaiser bschickt
+worden;<f1>Am 22. April; s. MO IV 184.<fe> der hat inen die verordnung anzaigt, und das sy
+allain gottes eer ansechen söllind.
+^$Uff 25. aprilis habend sy die sach angfangen.<f1>Der Verhandlungsbeginn verzögerte sich bis zum 27. April; s. PC III 181; MO IV 189.<fe>
+^$Wyter wais ich uff diß mal nit.
+^$Der Faber<f1>Johannes Fabri; vgl. oben Nr. 1481, 12 mit Anm. 6.<fe> soll noch leben.
+<un>Tuus Io. Zwick.
+<lz>Haec communica caeteris, cum primis Leoni<f1>Leo Jud.<fe>. Salutabis autem omnes fratres meo nomine.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, Tigurinae ec­clesiae pastori, candidissimo fratri suo. Zurch.
+</content>
+</letter>

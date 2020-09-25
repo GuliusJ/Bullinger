@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2611">
+<brief>
+<id>16299</id>
+<nr>2611</nr> <from persid="ChamBernhardVon"/> <to persid="Bullinger"/> <place plid="Kyburg"/> <date when="1546-10-06"/>
+<ae>Bernhard von Cham
+<fn>Er war damals Landvogt auf der Kyburg. - Am 22. Januar 1547 wurde er mit der Verteidigung Zürichs für den Fall eines Angriffs des Kaisers auf die Eidgenossenschaft beauftragt; s. <a>HBD</a> 34.<zfn>fn16299-1</zfn></fn> an Bullinger</ae>
+<od>Kyburg, 6. Oktober 1546</od>
+<vo>Abschrift von Johann Jakob Simler: Zürich ZB, Ms S 61, 186
+<fn>Nach dem heute nicht mehr in Zürich StA, E II 340, 160, erhaltenen Autograph. - Im Briefband E II 340 fehlen viele weitere Stücke.</fn></vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 186 (Druckvorlage)</k></dr>
+<re><t>Von Cham bedankt sich für Bullingers Schreiben [nicht erhalten] und für die beigelegte Nachrichtensammlung. Er hat guten Grund zu hoffen, dass Gott die [Schmalkaldener] in seiner Gnade erhalten wird, denn täte er dies nicht, würde Kaiser [Karl V.] hart und ohne Mitleid gegen sie vorgehen, was auch schlimme Folgen für die [Eidgenossen] hätte. Man bete also unablässig!</t>
+<t>Von Cham ist willig, den erwiesenen Dienst zu erwidern, bittet, weiterhin auf dem Laufenden gehalten zu werden, und empfiehlt Bullinger dem Herrn.</t></re>
+<text>
+<div>
+<p>Ersamer und wolgelerter, günstiger, lieber herr, min fründtlichen gruß und gantz gutwillig dienst zuvor! Lieber herr, üwer fründtlich schryben
+<fn>Nicht erhalten.</fn> zusampt der nüwen zytung
+<fn>Nachrichtensammlung.</fn>, so ir mir zugeschikt, hab ich empfangen und die zum teil mit fröiden gelesen, gutter hoffnung, der herr gott werde die sinen
+<fn>Gemeint sind die Schmalkaldener.</fn> fürrer
+<fn>weiterhin.</fn> umb siner eren willen gnedeklich bewaren und erhalten, dann sich wol zu versächen
+<fn>dann sich wol zu versechen: denn es ist wohl zu erwarten.</fn>, so
+<fn>wenn.</fn> dem keiser
+<fn>Karl V.</fn> gegen disem frommen volk gelingen, wie er und sine anhänger so tyrannisch und unerbarmklich gegen innen handlen wurdent; zu dem, das sich wol zu versächen, wie es ein gestalt gegen uns
+<fn>Gemeint sind die Eidgenossen.</fn> wurd überkommen.
+<fn>wie es ein gestalt gegen uns wurd überkommen: was mit uns geschehen würde.</fn> Dannenhar
+<fn>Aus diesem Grunde.</fn> wir billich
+<fn>zu Recht.</fn> den herren gott ane
+<fn>ohne.</fn> underlaß anruffen soltent,
+<fn>Vgl. 1Thess 5, 17.</fn> das er dise fromme lüth gnedeklich von disem tyrannen behüten welle, damit sy imm nit zu erbarmen werdent
+<fn>ihm nit zu erbarmen werdent: ihm nicht zum Opfer fallen.</fn>.</p>
+</div>
+<div>
+<p>Demnach, lieber meister Heinrich, dank ich üch üwers flißigen zuschribens, ouch des <vl>v.</vl> fründtlichen erbietens
+<fn>Diensts.</fn>, so ir gegen mir gethan, mit flyßigem erbieten
+<fn>Angebot.</fn>, so ich üch und den üwern fründtschaft und guts könte erwysen, welte ich fürwar gutwillig erfunden werden, mit früntlicher bitt, so etwas wyters käme
+<fn>so etwas wyters käme: wenn es zu weiteren Nachrichten käme.</fn>, wellent mich desselben berichten; begären ich umb üch früntlich zu gedienen, üch hiemit in den schirm des herren Gottes befellende
+<fn>befehlend.</fn>.</p>
+<p>Datum zu Kiburg, uff den 6. tag octobris 1546.</p>
+<un>Üwer gutwilliger diener</un>
+<un>Bernhart von Cham.</un>
+<lz/>
+<p>[Adresse als Überschrift:] Dem ersamen und wolgelerten meister Heinrich Bullinger, pfarrherr zum großen münster zu Zürich, minem lieben herren und guten fründt.</p>
+</div>
+</text>
+</brief>

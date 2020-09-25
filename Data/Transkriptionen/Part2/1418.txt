@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1418">
+<nr>1418</nr>
+<correspondents>
+	<originator fn=1>Michael Toxites</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Michael Schütz, gen. Toxites, 1514-1581, aus Sterzing (Südtirol), begann seine Ausbildung in Dillingen, wurde 1532 in Tübingen zum Bakkalaureus promoviert, hörte in Pavia medizinische Vorlesungen und hielt sich in Wittenberg auf, bevor er um 1537 Schulmeister in Urach wurde. Nach seiner
+Vertreibung aus Württemberg (vgl. Anm. 5) kam er über Basel nach Straßburg. Hier trat er in enge Verbindung zu Johannes
+Sturm, lehrte 1542-1545 am Gymnasium und verfaßte Dichtungen, die ihm 1544 die Krönung zum Poeta laureatus eintrugen. Wegen
+des Interims ging er 1548 nach Basel und immatrikulierte sich dort, doch seine Bemühung um das Erasmusstipendium blieb
+erfolglos. 1549-1551 leitete er die Lateinschule in Brugg (Kt. Aargau); darauf kehrte er nach Straßburg zurück, wo er neben philologischen Arbeiten auch eine ärztliche Tätigkeit aufnahm.
+1556-1560 war er Professor der Rhetorik in Tübingen; anschließend erwarb er den medizinischen Doktorgrad und wirkte
+als Arzt, ab 1564 in Straßburg, ab 1572 in Hagenau. Bedeutung erlangte er vor allem als Herausgeber zahlreicher Schriften des
+Paracelsus. Aus den Jahren 1549-1556 sind vier weitere Briefe von Toxites an Bullinger erhalten. - Lit.: C[harles]
+^#/+Schmidt,^#/- Michael Schütz genannt Toxites. Leben eines Humanisten und Arztes aus dem 16. Jahrhundert, Straßburg 1888;
+Amerbach, Korr. VIff, Reg.; Joachim ^#/+Telle,^#/- in: Literatur-Lexikon, hg. v. Walther Killy, Bd. XI, Gütersloh/München 1991, S. 389.</note>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>29. August 1540</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichung und Randbemerkung von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 36 (neu: 49) (Siegelspur) ^&xKopien: Zürich ZB, Ms S 48, 103; Basel UB,
+G^#'2 II 35, 62v.-63v., Nr. 1^&x{</vo>
+<dr></dr>Ungedruckt</dr>
+<re>Weil er weiß, daß Bullinger durch Konrad [Lüthard] von seinem Schicksal gehört hat, und weil Grynäus ihn dazu ermutigt
+hat, schreibt er ihm. Bereut sein durch Folter erzwungenes falsches Geständnis; hofft auf Hilfe bei der Suche nach einer
+Anstellung und legt eine Probe seines Könnens bei. Bedrot oder Grynäus weiß, wo er sich aufhält.
+</re>
+<tx>Tametsi non erat mihi animus aliquid ad te scribere,
+doctissime Bullingere, tamen, cum Conradum N., ecclesiasten
+Seburgensem<f1>Konrad Lüthard, Pfarrer von Seeburg (Urach, Baden-Württemberg).
+^&x(Betr. Seeburg(?) vgl. B(?) III 28, 30-40). Grüße von Lüthard an Stumpf in: Finsler an Stumpf, 5. Juli 1539, ZBZ, Ms S 313, 8v.^&x{<fe>,
+apud te verba fecisse de causa mea comperissem<f1>Ein entsprechender Brief Lüthards ist nicht bekannt.<fe>,
+adhortante ad hoc me S[imone] Grinaeo, viro omnium doctissimo, non potui non has breves literas ad te dare, praesertim cum tam commodum haberem tabellarium<f1>Unbekannt.<fe>.
+^$De causa mea<fx>^#/+korrigiert aus^#/- meę.<fe><f1>Toxites war Anfang Juli aus der Stadt Urach gepeitscht und aus Württemberg
+verbannt worden, weil er nach mehrmaliger Folterung das falsche Geständnis abgelegt hatte, Schmähverse auf den Stadtpfarrer
+Wenzel Strauß verfaßt zu haben. Erst 1554 rehabilitierte ihn Herzog Christoph, nachdem der wahre Schuldige sich zu erkennen
+gegeben hatte (s. ^#/+Schmidt,^#/- aaO, S. 8-21 bzw. 61-66).<fe> fortasse olim plura audies; mihi de ea
+scribere, quae vellem, non licet. Illud tamen in nullius
+contumeliam arbitror a me dictum intelligi me esse
+innocentem hac in causa et crimen non admissum ob metum
+tormentorum (cum ante confessionem<fx>^#/+in der Vorlage^#/- confessionis.<fe> quintum tormentis in carcere fuissem
+cruciatus), cum non amplius laturum me illa esse sperarem. Deinde non tanti fore rem istam putabam, propter quam in me
+dux<fx>dux ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Herzog Ulrich von Württemberg.<fe>
+ita excandesceret tot doctis atque charissimis viris pro me rogantibus. Arbitrabar etiam uxori meę et liberis<f1>Die
+Namen der Frau und der Kinder sind nicht bekannt.<fe>, quos duos habeo, consultius esse integris adhuc quam omnino comminutis membris me cum ipsis vivere.
+Sed longe me fefellit opinio, et profecto praestiterat ob
+veritatem mori. Sed quid querar? Bonum est, quod humiliavit
+me dominus, ut discam iustificationes<fx>^#/+in der Vorlage^#/- iustifficationes.<fe> suas. Hęc scribo
+iubente Grinaeo, ut, si forte apud vos<fx>vos ^#/+fehlt in der Vorlage.^#/-<fe> vacaret aliqua
+conditio, cui commode possem praefici, tu quoque, qua es
+erga studiosos benevolentia praeditus, iuvares. Mitto tibi
+ingenioli mei specimen aliquod<f1>Nach der nicht näher belegten, aber plausiblen Angabe von ^#/+Schmidt^#/- (aaO, S. 22) handelte es sich um das 1540 in Straßburg gedruckte allegorische Gedicht "Querela anseris vel de ingratitudine hominum elegia" (zum Inhalt vgl. ^#/+Schmidt,^#/- aaO, S. 11-15).<fe>,
+ex quo
+coniicere possis, quid ferre humeri mei<fx>^#/+in der Vorlage^#/- me.<fe> possint; nolim enim quidquam ultra vires meas tractare.
+^$Vale et hanc meam barbariem boni consule.
+^$Argentorati apud Bedrotum aut Basileę apud Grinęum,
+ubi sim, rescisces.
+^$Basileę, raptim, quia festinabam abire, anno 1540, quarto
+calendas septembris.
+<un>Humanitatis tuę
+<un>deditissimus
+<un>Michael Toxites R[heticus],
+olim ludi-­
+<un>magister Urachii, miser et infoelix.
+<lz>[Adresse auf der Rückseite:] Viro optimo atque doctissimo Hainrico Bullingero, ecclesiastę Tigurinorum, domino et patrono suo colendissimo.
+</content>
+</letter>

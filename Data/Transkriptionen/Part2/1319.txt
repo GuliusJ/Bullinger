@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1319">
+<nr>1319</nr>
+<correspondents>
+	<originator fn=1>Leonhard Brunner</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Leonhard Brunner (Fontanus), von Esslingen, gest. 1558, ein Schüler von Jakob Wimpfeling, immatrikulierte sich 1510 in Heidelberg. 1526 war er Diakon in Straßburg; bereits zwei Jahre zuvor hatte er eine Konkordanz des
+Neuen Testaments veröffentlicht. 1527 wurde er als Prediger nach Worms berufen, wo er sich gegen Denck, Hätzer und andere Täufer
+durchsetzen mußte. Infolge des Interims kehrte er 1548 nach Straßburg zurück und war dort zunächst an der Schule, dann als
+Diakon tätig. Zusammen mit seinen Straßburger Kollegen wandte sich der ursprünglich oberdeutsch geprägte Theologe dem
+Luthertum zu. Von 1553 an wirkte er als Pfarrer in Landau/Pfalz. Mit Zwingli korrespondierte er über Schwenckfelds Tauflehre (s.
+Z VI/IV 1-74); an Bullinger scheint er nur diesen einen Brief geschrieben zu haben. - Lit.: A[ugust] ^#/+Weckerling,^#/-
+Leonhart Brunner, der erste vom Rate der Reichsstadt Worms angestellte evangelische Prediger (1527-1548), Worms 1895; Georg Biundo, in: NDB II 683; BBKL I 770.</note>
+</correspondents>
+<space_time>
+	<place>Worms</place>
+	<date>20. Oktober 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 361, 116 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Kann nur ganz kurz berichten: Hat [in Worms] das [evangelische] Abendmahl eingeführt, nachdem mehrere Ratsherren,
+die dies bisher verhindert hatten, an der Pest gestorben sind; weiß allerdings nicht, was die Gegner nun planen.
+Bittet um Fürbitte und ermuntert Bullinger zu weiteren Veröffentlichungen. Will bald wieder schreiben.
+</re>
+<tx>Salutem tibi per Christum precor, doctissime simulac
+charissime Heinrice.
+^$Cum nuncius<f1>Unbekannt.<fe> iste mihi contingeret, volui multa ad te
+scribere. Att[!] soli mihi tot incumbunt onera tam domestica
+quam ecclesiastica, ut vix hiscere detur. Ne tamen nihil ad
+te, unicum id te scire volo.
+^$Quando tot annis euangelion Christi praedicaverim ea
+diligentia, qua per dominum potui, cęnam tamen dominicam
+celebrare per magistratum prohibebatur, donec peste
+sevissima nos dominus corriperet hisce mensibus, quosdam
+etiam de tirannis ex senatu auferret<f1>Für das Jahr 1539 läßt sich nur der Tod eines einzigen Ratsherrn belegen: Am 1.
+September starb der Goldschmied Henrich Walther (Waltter); s. [August ^#/+Weckerling,^#/-] Verzeichnis der Mitglieder des Dreizehner Rats der Stadt Worms,
+in: Vom Rhein 9, 1910, S. 66; Johannes ^#/+Kraus,^#/- Neue Quellen zur Wormser Ratsgeschichte. II. Liste der Mitglieder des
+Gemeinen-Rats von 1440-1609, in: Der Wormsgau I/5, 1926, S. 124.<fe>,
+qui hucusque nullum non lapidem moverunt<f1>Vgl. Adagia, 1, 4, 30 (LB II 161f).<fe>, ne cursus evangelii succederet. Tum
+ego haud impiger, ita urgente Christo, cęnam fęlici (ut
+spero) auspicio ecclesię meę paravi donaque illa
+cęlestia ad Christi institutionem magno omnium et
+desiderio et veneratione distribui. Nemo mihi negotium
+facit. At quia dolum sathane plus semel expertus,
+verendum est, ne quod in sinu foveant<f1>Vgl. Adagia, 4, 2, 40 (LB II 999).<fe> adversarii ac consilium suum satis maturescere proposuerint, antequam edant.
+^$Rogo igitur per Christum, communem nostrum salvatorem, ut me precibus, fidei et charitati tuorum commendes, ut
+confirmat[!] hoc deus, quod operatus est in ecclesia mea,
+quoniam haud absque ingenti offensione omnium mensa illa
+dominica rursus everteretur, quod equidem non spero. Fac
+igitur, quod te decet, ac perge semper nobis labores tuos
+communicare scriptis; plures enim tua opera iuvantur.
+^$Vale, [ex Worma]tia<fx>[ex Worma]tia ^#/+am Rande nachgetragen, Text im engen Einband teilweise verdeckt.^#/-<fe>, in domino, 20. octobris anno 1539.
+<un>Leonhartus Fontanus,
+<un>verbi minister apud
+<un>Vangiones<f1>d. h. in Worms.<fe>.
+<lz>Habeo certe seria, quae tibi scribam, sed hodie non
+vacat; quaeram tamen nuncium, cum quo cetera.
+<lz>[Adresse darunter:] Clarissimo ac vere<fx>^#/+vor^#/- vere ^#/+gestrichenes^#/- prae.<fe> pietatis
+praeconi virod. Heinricho Bullingero, praeceptori ac
+fratri in Christo charissimo [su]o<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlußband geschrieben.^#/-<fe>. Zurch.
+</content>
+</letter>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="30208">
+<nr>30208</nr>
+<correspondents>
+	<originator>Matthieu Coignet</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Payerne</place>
+	<date>13. November (1560)</date>
+</space_time>
+<vo>Zürich StA, E II 368, 460. / Orig. Aut.</vo>
+S. Hic querelis turpibus et usurariis obruor pene, nec ii, quos coniicis, ullam admittunt rationem.
+Expectandum erit iudicum iudicium.
+Recte coniecisti de Navarre rege; is enim in aula est Aurelie, sed frater, princeps a Conde, quem secum adduxit, captivus detinetur et nunc G[uisiani] triumphant.
+Reliqua in presens tacebo et me tuis commendo precibus et amicorum.
+Bene vale.
+Paterniaci  13. novembris.
+                                                      Tuus, quem nosti.
+Me de tuis rebus et dieta certiorem facies.
+Ex Aurelianensibus multi coniecti in carcerem.
+Inquisitio continebit.
+De consilio nulla mentio.
+Dominus interim ociosus non est.
+Domino Henrico Bullingero, ecclesiae Tigurinae pastori vigilantissimo.
+^$Tiguri.
+</content>
+</letter>

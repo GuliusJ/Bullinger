@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1151">
+<nr>1151</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>28. Juli 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 105 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Stephan [...] ist zurückgekehrt; Zwick dankt für die ihm erwiesene Hilfe. Dankt
+für [die Abschrift von] Luthers Brief [an die reformierten Städte der Eidgenossenschaft]; vor einer Stellungnahme ist die
+Genesung [Thomas] Blarers abzuwarten. Ist auch am Brief der Fürsten [Johann Friedrich von Sachsen und Philipp von Hessen]
+interessiert. Frecht schreibt, Bartolomeo Fonzio sei wegen seines Bekenntnisses in Rom ertränkt worden, doch seien bereits
+13 evangelische Prediger an seine Stelle getreten. Über die Konstanzer Kirche wird der Engländer [John Butler?] berichten.
+Ambrosius [Blarer] wird [in Konstanz] erwartet und dürfte kaum nach [Württemberg] zurückkehren; über die Gründe ist noch nichts
+bekannt.
+</re>
+<tx>Salus et pax Christi.
+^$Stephanus<f1>Der für aussätzig erklärte Prediger, für den sich Zwick in seinem Brief vom 26. Juni eingesetzt hatte; s. oben Nr. 1141.<fe> ille miser ad nos rediit salvus, Bullingere ornatissime; habeo autem gratias tibi,
+quod tanta diligentia illi adfueris.
+^$Pro litteris Lutheri<f1>Luther an die Ratsboten der reformierten Städte der Eidgenossenschaft, 27. Juni 1538 (WA
+Briefwechsel VIII 241f, Nr. 3240). Das
+zeitweise verschollene Original befindet sich seit 1988 in Zürich ZB, Ms Z XI 104 (s. Alfred ^#/+Cattani,^#/- Zum Abendmahlsstreit zwischen "Gutenn freunden ym herrn" 1538. Martin Luthers Brief an die evangelischen Eidgenossen, in: Zentralbibliothek Zürich,
+Schatzkammer der Überlieferung, hg. v. Alfred Cattani und Bruno Weber, Zürich 1989, S. 46-49 und 160f), eine Abschrift von
+Bullingers Hand in Zürich StA, E II 337, 297r.<fe> quoque gratias habeo; nam vehementer
+admiratus sum, quid ille responderet tandem. Nos vero quid
+de literis istis iudicemus, alias audies<f1>Vgl. unten Nr. 1160, 2-8.<fe>, ubi dabitur illas legere consuli nostro
+Blaurerio<f1>Thomas Blarer.<fe>; iam enim vehementer decumbit. Speramus tamen illum favente domino nobis per
+preces piorum donari<f1>Vgl. Phlm 22; Augustin, De civitate dei 21, 18, 8; 21, 24, 4 (CChr XLVIII 784, 8f bzw. 789, 4f).<fe>.
+^$Quid alias scripserint principes<f1>Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen an die Ratsboten der
+reformierten Städte der Eidgenossenschaft, 3. Juli 1538 (gedruckt in: Stumpf, Abendmahlsstreit 135f; Original: Zürich
+StA, A 193, Nr. 4; Kopie von Bullingers Hand: Zürich StA, E II 337, 297v.-298r.; vgl. auch Ernst ^#/+Bizer,^#/- Die Wittenberger Konkordie in Oberdeutschland und der Schweiz, in: ARG XXXVI, 1939,
+S. 247).^&xKopie: Bern StA, U. P. 81, Nr. 129^&x{<fe>, rogo, ne pollicitationis tuae obliviscaris<f1>Wie aus Zwicks Brief
+vom 21. August (unten Nr. 1160) hervorgeht, sandte Bullinger auch von diesem Schreiben eine Abschrift nach Konstanz.<fe>.
+^$Frechtus scribit<f1>Martin Frechts Brief an Zwick ist nicht erhalten; am 24. Juli teilte Frecht jedoch dasselbe Gerücht auch
+Bullinger mit (s. oben Nr. 1149, 48-55).<fe> Bartolomeum Fontium Venetum, qui aliquando cum Bucero vobiscum fuit<f1>Zum Besuch
+von Bartolomeo Fonzio in Zürich im Mai 1533 s. HBBW III, S. 112, Anm. 3.<fe>, ni fallor, a Romano pontifice<f1>Paul III.<fe> data
+et accepta fide publica Romam venisse et fidei Christi testimonium edidisse, propter quod a papa iussus sit submergi.
+In huius mortui locum feruntur emersisse 13 evangelici praedicatores, qui Romę et invito antichristo Christum
+praedicent.
+^$Praeterea non est, quod scribam. De ecclesiae nostrae statu
+referet tibi Anglus<f1>Wohl John Butler (vgl. unten Nr. 1154, 10f und 80f).<fe>, vir sanctus et optimus.
+^$Tu vale cum tota domo.
+^$28. iulii 1538.
+^$Ambrosium expectamus<f1>Zur Entlassung Ambrosius Blarers aus dem Dienst Herzog Ulrichs von Württemberg s. unten Nr. 1166, 2-13; 1173, 2-5.<fe>, nec credo illum in ditionem ducis
+rediturum. Causas nondum ad nos scripsit. Ubi redierit, audies.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, fratri meo in domino observando.
+</content>
+</letter>

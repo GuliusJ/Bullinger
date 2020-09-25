@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2308">
+<nr>2308</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>22. Dezember 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen.^#/-<fe>: Zürich StA, E II 336, 221 (neu: 239) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.. Zürich ZB, Ms S 58, 159; Bullinger teilt diesen Brief auszugsweise an Vadian mit am 27. Dezember. ^&x{
+<re>Die Belgier leiden unter Kaiser [Karl V.]. Einige Städte halten ihn sich sogar mit der Begründung fern, dass es genug sei, wenn sie nur das leisten, wozu sie rechtlich verpflichtet sind. Ginge [Karl V.], der Störenfried Deutschlands, doch endlich zu den Seinen!
+-^#. Aus Frankreich kommende Soldaten berichten, dass [Franz I.] von Frankreich und [Karl V.] bei dem Treffen [ihrer Gesandten] mit [denen von Heinrich VIII. von] England wieder in Feindschaft geraten seien. Vielleicht ist das Komplott gegen Turin die Ursache dafür. Hauptmann [Wilhelm] Frölich glaubt, deshalb von [Franz I.] einberufen worden zu sein.
+-^#. [...], aus Straßburg kommend, erzählte, dass in Frankfurt auf dem [Schmalkaldischen] Bundestag unter anderem beschlossen worden sei, den Schmalkaldischen Bund aufrechtzuerhalten, ungeachtet der Beschlüsse des Konzils, des Kaisers und der Reichstage; ferner, dass keiner einem Verbündeten helfen müsse, es sei denn, dass dieser wegen [seiner Treue zum] Wort [Gottes] angegriffen werde.
+-^#. Vom Hofe des Grafen Georg von Württemberg und des jungen Herzogs [Christoph von Württemberg] wird berichtet, dass der Braunschweiger [Herzog Heinrich] entlassen, sein Besitz zurückerstattet worden und er selbst ein Protestant geworden sei; doch ist das unwahrscheinlich.
+-^#. Bullinger weiß, was die Sieben [katholischen] Orte im Wallis bewirkt haben. Myconius wundert sich, wie die [Zürcher] und die übrigen [evangelischen Orte] dies aufnehmen werden, besonders angesichts der Verhandlungen, die am letzten Tag zu Baden [am 19. Oktober 1545] stattgefunden haben sollen.</re>
+<tx>S. Qui sunt in Belgis sub cęsare<f1>Karl V.<fe>, moleste ferre incipiunt onera, quibus in dies magis ac magis gravantur,
+adeo ut quędam civitates esse dicantur, quae a se ipsum excludant satis esse dictitantes, quod, quae iure debeant, pręstent.<f1>Zu den Verfolgungen in den Niederlanden s. oben Nr. 2194, 26-31; 2146, 16-19; 2144 und Anm. 3.<fe>
+Utinam abeat aliquando ad suos! Hactenus enim Germaniam perturbavit nimium.
+^$Spargunt milites, qui veniunt a Gallo<f1>König Franz I.<fe>, novum dissidium incidisse inter hunc et cęsarem in conventu horum et Angli<f1>König Heinrich VIII. - Zu den Treffen der Gesandten vgl. zuletzt oben Nr. 2301, 25-28. - Hintergrund von Myconius' Mitteilung sind die gescheiterten Bemühungen der Protestanten und des Kaisers um einen englisch-französischen Frieden im Dezember 1545 sowie die fortgesetzten Kampfhandlungen; s. dazu ^#/+Potter^#/- 286f.<fe>.
+Causam ignoro, nisi forsitan sit proditio contra Turinum, quam vocant.<f1>Vgl. PA I 535, Nr. 849: "[...] Zeitung über einen Anschlag gegen Turin und Genf"; Die Dreizehn von Basel an die von Straßburg, 12. Dezember 1545 (PC III 690, Nr. 644): "So haben drig italianische houptleut, so des konigs [Franz I.] diener gwesen, dem herzogen von Safoy [Karl III.] die stat Thaurni (Turin?) mit verreteri inzugeben understanden, weliche schon gefangen und allen anschlag entdect haben."<fe>
+Lętus<f1>Wilhelm Frölich. - Dass er tatsächlich nach Turin entsandt wurde, geht hervor aus André ^#/+Thevet,^#/- Les vrais pourtraits et vies des hommes illustres, Paris 1584, S. 416.<fe> capitaneus evocatus est a rege<f1>Franz I.<fe> ob eam, ut ipse putat, causam.
+^$Ex Argentina quidam<f1>Unbekannt.<fe> adtulit heri in comitiis Francfordiensibus<f1>Der Schmalkaldische Bundestag zu Frankfurt am Main; s. oben Nr. 2285 und Anm. 37.<fe> hęc duo praeter cętera
+agenda esse illic, et forsitan nunc acta: Alterum, quod mansurum sit foedus Smalcaldicum in verbo domini,
+quicquid concilium, cęsar et comitia definiant; alterum, quod deinceps nemo quidpiam alteri debeat
+vi foederis, nisi quis propter verbum infestetur.<f1>Zu den weiteren Verhandlungsthemen des Frankfurter Bundestags s. das Tagebuch von Jakob Sturm (PC III 697-712, Nr. 651).<fe> Cętera posthac.
+^$Ex aula Georgii<f1>Georg d.J. von Württemberg-Mömpelgard.<fe>, comitis Wirtembergensis, et ducis iunioris,<f1>Graf Christoph von Württemberg-Mömpelgard.<fe> refertur Brunsvicensem<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> dimissum,
+possessionem omnem restitutam et ipsum e numero protestantium factum.<f1>Ein Gerücht.<fe> Non fit mihi verisimile.
+^$De Septempagicis<f1>Gemeint sind die Sieben katholischen Orte (Uri, Schwyz, Unterwalden, Luzern, Zug, Freiburg und Solothurn), die eine Gesandtschaft nach Sitten (Wallis) schickten, wo am 28. November 1545 über Maßnahmen gegen die lutherischen Tendenzen im Wallis beraten wurde; s. EA IV/1d 570, Nr. 1.<fe> nosti, quid egerint in Vallesia.
+Miror, qualiter tui et reliqui, quos evangelio donavit dominus, factum sint accepturi.
+Dum id equidem confero cum his, quę acta dicuntur in ultimis comitiis Badensibus<f1>Am 19. Oktober 1545; s. EA IV/1d 542-553, wo allerdings nichts Schriftliches über die Unruhen im Wallis festgehalten wurde; s. aber aaO, S. 536fd. - Zu den religiösen Unruhen im Wallis s. oben Nr. 2288 und Anm. 12.<fe>,
+vehementer horreo. Hęc scires, si nescires, volui.
+^$Vale in Christo.
+Basileę, raptim, 22. decembris anno 1545.
+<un>Tuus Os. Myco.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero, Tigurino episcopo, fratri in domino venerando suo.
+</content>
+</letter>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="972">
+<nr>972</nr>
+<correspondents>
+	<originator fn=1>Heinrich Kuster</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Heinrich Kuster (Custor), gest. 1563, stammte aus Winterthur. Im Jahre 1528 nahm er an der Berner Disputation teil (vgl. Willy ^#/+Wuhrmann,^#/- Die Zürcher Teilnehmer an der Berner Disputation im
+Januar 1528, in: Zwa II/15, 1912, S. 452). 1530 wurde er Pfarrer in Wiesendangen (Kt. Zürich); er erscheint in den
+Protokollen der Synode vom Oktober desselben Jahres (vgl. AZürcherRef 1714, S. 734) und vom April 1531 (vgl. Zürich StA,
+E II 1, 54). Wie der vorliegende Brief belegt, wirkte er von 1537 an in Bülach (Kt. Zürich). 1556 trat er altershalber
+von seinem Amt zurück. - Lit.: Hans ^#/+Kläui^#/- und Karl ^#/+Mietlich,^#/- Geschichte der Gemeinde Wiesendangen,
+Wiesendangen 1969, S. 108-110 und 403; Pfarrerbuch 105. 398.</note>
+</correspondents>
+<space_time>
+	<place>[Wiesendangen]<f1>Vgl. Anm. 3.<fe></place>
+	<date>19. März 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 355, 91 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für Bullingers Hilfe bei seiner Wahl zum Pfarrer [von Bülach] und hofft, den hohen Anforderungen zu genügen.
+Macht Angaben über sein Pfrundeinkommen. Wird in einigen Tagen zu Bullinger kommen.</re>
+<tx>Non possum non tibi gracias agere, Heinrice doctissime, quod tantum in mea re<f1>Kusters Dank bezieht sich
+offensichtlich auf Bullingers Hilfe bei der Wahl zum Pfarrer von Bülach. Er dürfte den Brief noch in Wiesendangen, bevor er sein neues Amt übernahm,
+geschrieben haben. Vgl. auch oben Nr. 964.<fe> laboraveris. Verum si tibi magis nota fuisset mea erudicio, quę profecto nulla est, non me
+huic provinciae pręfecisses. Veruntamen non dubito, quin ita deus voluerit, cum me nesciente et nolente res acta
+atque transacta siet, rogaturusque eum, ut mihi sapientiam suarum sedium assistricem<fx>^#/+in der Vorlage^#/- astriticem, ^#/+davor gestrichenes^#/- asteriticem.
+<fe><f1>Sap. 9, 4 (Vulgata).<fe> superne demittat, quo suam gloriam evehere valeam.
+^$C[ae]terum<fx>^#/+Textverlust wegen Beschädigung des Papiers.^#/-<fe> de reditu annuo cupis fieri certior. Habet hoc
+beneficium annuatim 25 modios tritici<f1>In den Zürcher Quellen üblicherweise als "Mütt Kernen" bezeichnet (vgl. dazu
+Paul ^#/+Kläui,^#/- Ortsgeschichte, 2., überarb. Aufl., Zürich 1956, S. 122f).<fe>, item decem buttos vini et duodecim
+malteros avenae, ut barbare dicam<f1>"buttos" und "malteros" sind eigenwillige Latinisierungen Kusters für die
+Maßeinheiten Eimer - aus "Bütte" (hölzernes Gefäß; vgl. SI IV 1911) - und Malter (vgl. dazu ^#/+Kläui,^#/- aaO, S. 122f,
+und z. B. HBBW VI, S. 276, 9 mit Anm. 7 und 8).<fe>, aureos 26.
+^$Vale. Intra paucos dies tecum ero.
+^$Datum 14. calendas aprilis 37.<un>Heinricus Custor.
+<lz>[Adresse auf der Rückseite:] Doctissimo Heinricho Bullingero, fratri ac domino suo.
+</content>
+</letter>

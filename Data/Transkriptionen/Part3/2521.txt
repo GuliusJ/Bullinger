@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2521">
+<brief>
+<id>16210</id>
+<nr>2521</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 31. Juli 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 240 (neu: 258) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 58</k></dr>
+<re>Entweder hat sich Myconius bei seiner Mitteilung [in Brief <qv>nr2508</qv>] über die Straßburger missverständlich ausgedrückt, oder Bullinger hat Myconius' Aussagen falsch aufgefasst. Zu bedauern ist, dass einige [Personen in der Eidgenossenschaft] leider so tun, als ginge sie der Krieg nichts an, obwohl er doch alle betrifft! Fest steht, dass [die Schmalkaldener] die Schweizer [Söldner] schätzen und diese nicht gerne ziehen lassen werden, auch wenn (so scheint es) Herzog [Ulrich] von Württemberg dies fordert.
+<t/>Wenn er dürfte, würde Myconius alle Gesandten des Antichristen [Papst Paul III.] in der Schweiz umbringen. Sie stiften nämlich nur Unheil und gefährden die [eidgenössischen] Bünde. Die Drohung, man müsse [Kaiser] Karl V. helfen, wurde vermutlich von einigen Eidgenossen erdichtet, als könnte man dadurch Eidgenossen zurückhalten, die den [süddeutschen] Städten [des Schmalkaldischen Bundes als Söldner] zulaufen wollen!
+<t/>Der Kaiser ist überzeugt, dass die heutigen [deutschen Protestanten ihre Kräfte] nicht besser koordinieren werden, als die Bauern im Jahre [15]25. Daher lacht er über die gegenwärtigen Eroberungen und meint, dass die [Schmalkaldener] sie nicht lange halten können. Vorsicht ist also geboten!
+<t/>Myconius hat [Rudolf] Gwalther um Informationen über die Nürnberger gebeten. Er konnte diese nie leiden. Auch Zwingli hat sie wegen ihrer Geschwätzigkeit und Frechheit gehasst.
+<t/>Myconius hat schon gestern geschrieben [<qv>nr2519</qv>]. An [Rudolf] Gwalther sendet er [nun] Nachrichten über den Kölner [Erzbischof Hermann von Wied].</re>
+<text>
+<p>S. De Argentinensibus vel ego obscurius scripsi, vel a te, qu{e} scripsi,
+<fn>In Brief <qv>nr2508</qv>,<qv>zl16198-3</qv>. Dies hatte Bullingers bissigen Kommentar in <qv>nr2516</qv>,<qv>zl16206-5</qv>, zur Folge, und erklärt wiederum vorliegenden Schlichtungsversuch.</fn> non recte accipiuntur. Nam a bonis sunt illa velut per querelam dicta, quod, cum res presentis belli sit communis etiam nobis, quidam
+<fn>Vgl. schon <qv>nr2508</qv>,<qv>zl16198-6</qv>.</fn> sic agant, tanquam ad ipsos non pertineat. Habent
+<fn>Die Schmalkaldener.</fn> Helvetios secum et eos certe in precio, nec facile sunt ipsos dimissuri, quamvis id petat, ut audio, dux Wirtenbergensis
+<fn>Herzog Ulrich von Württemberg.</fn>.</p>
+<p><zzl>zl16210-2A</zzl>Nisi vero tabelliones haberent ius suum et securitatem eundi ac redeundi quocunque mittuntur, equidem, quos mittit antichristus,
+<fn>Myconius denkt z.B. an den von Papst Paul III. in die Eidgenossenschaft gesandten Nuntius Girolamo Franco sowie an dessen Begleiter Albert Rosin.</fn> necarem omnes! Nihil etenim agunt in Helvetiis, nisi ut mala seminent et diremptos sic retineant. Qu{e} res quid tandem aliud feret quam interitum foederis nostri
+<fn>Die eidgenössischen Eide.</fn>?<zzl>zl16210-2E</zzl> Arbitrantur boni viri minas
+<fn>Wohl die Drohung, Kaiser Karl V. würde die Eidgenossen strafen, wenn diese die bereits nach Deutschland gezogenen eidgenössischen Söldner nicht abrufen und ihn nicht unterstützen.</fn> de auxiliando Carolo confictas, imo suggestas ab aliquo nostratium
+<fn>Nämlich von den Befürwortern der Abberufung aller eidgenössischen Söldner; s. dazu die Verweise in <qv>nr2505</qv>, <qv>fn16195-4</qv>.</fn> - si terror queat retinere domi, qui alioqui exeunt ad Civitates
+<fn>Gemeint sind die süddeutschen Städte des Schmalkaldischen Bundes.</fn>.</p>
+<p>Carolus persuasus est nostros non alio modo concurrere nunc, quam evenit anno 25. in tumultu rusticano
+<fn>Im Bauernkrieg.</fn>. Quamobrem, dum adcurrunt veredarii nunciantes hoc captum, illud occupatum, etc., ridet his verbis: "Si sollents nit lang behalten; es gschach imm burenkrieg ouch also." Diligenter est itaque videndum, ne quid fiat temere vel securius, quam decet - id quod tamen erit futurum, cum dominum ex oculis non dimiserimus.</p>
+<p>Rogavi Gvaltherum,
+<fn>In einem nicht erhaltenen, auch unten Z. <qv>zl16210-1</qv> erwähnten Brief Myconius'.</fn> ut scribat, si quid habet de Nurenbergensibus. Nihil unquam illis hominibus tribuere potui.
+<fn>Vgl. <qv>nr2501</qv>,<qv>zl16192-4</qv>.</fn> <zzl>zl16210-3A</zzl>Et Zvinglius pi{e} memori{e} semper habuit exosos ob loquacitatem
+<fn>Vgl. z.B. <a>Z</a> IX 128,32; 538,15-17.</fn> et insolentiam, qua sibi tribuebant primas in evangelio, cum tamen nil nisi de hoc garrirent.<zzl>zl16210-3E</zzl></p>
+<p>Vale in Christo cum domo tua. Heri scripsi
+<fn>Mit <qv>nr2519</qv>.</fn> reliqua. <zzl>zl16210-1A</zzl>De Coloniensi
+<fn>Erzbischof Hermann von Wied.</fn> commisi Gvalthero.<zzl>zl16210-1E</zzl> Basile{e} raptim, ultima iulii anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, in domino suo.</p>
+</text>
+</brief>

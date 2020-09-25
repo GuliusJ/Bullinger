@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1940">
+<nr>1940</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>11. Juli 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 225 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 86; Zit.: ^#/+Gast,^#/- Tagebuch 66, Anm. 187^&x{
+<dr>Ungedruckt</dr>
+<re>Hat bereits über den Zulauf von Baslern zu den französischen Truppen berichtet [Nr. 1937]; Myconius und Markus [Bertschi] predigen gegen die Reisläufer, ebenso der ganz kaiserlich gesinnte, heuchlerische Jakob [Truckenbrot]. Gast hat bis jetzt darüber geschwiegen und bittet um Rat. Von der Geldforderung des Kammergerichts an Basel haben andere bereits berichtet; Kaiser [Karl^#. V.], dessen Aufenthaltsort Gast unbekannt ist, wird Krieg über Deutschland bringen; sein Heer soll unter Krankheit und Hunger leiden und von Plünderungen leben; über das Heer des Herzogs [Heinrich] von Braunschweig[-Wolfenbüttel] weiß Gast nichts Sicheres. Wird bei den Buchhändlern nach dem [von Bullinger gewünschten] Buch Luthers suchen. Grüße.
+</re>
+<tx>S. Quomodo nostri cives tam in civitate quam ex agro proruerint in Gallicam militiam, proximis literis<f1>Oben Nr. 1937.<fe> fusissime scripsi. Sed quid iam agendum est, quum res facta infecta iri<fx>^#/+In der Vorlage^#/- ire.<fe> non potest<f1>Adagia, 2, 3, 72 (ASD II/3 290-292, Nr. 1272).^&xPlautus, Aulularia, 741; Truculentus, 730.^&x{<fe>? Myconius proxima dominica<f1>6. Juli.<fe> voluit illos decimare, Marcus<f1>Markus Bertschi.<fe> contra illos fulminat in omnibus suis contionibus<fx>suis contionibus ^#/+am Rande nachgetragen.^#/-<fe>, sed in absentes; Iacobus<f1>Jakob Truckenbrot.<fe>, parvę civitatis<f1>Klein-Basel, der Pfarrei St. Theodor zugeordnet.<fe> pastor, totus caesareus est, omne malum illis imprecatur; si adessent, ne auderet mutire contra illos hypocrita. Ego hactenus ne verbo quidem hac de re mentionem habui, quum me actum agere<f1>Adagia, 1, 4, 70 (ASD II/1 456, Nr. 370).<fe> sciam. Utinam, antequam abiissent, tam audaces quidam fuissent, quo in officio cives mansissent! Tuum consilium hic requiro. Scio Davidem in hoc laudari, quod seditiosis pepercerit.<f1>Vgl. 1Sam 24 und 26.<fe> Reliqui iam consolandi sunt, quorum animos Gallicum aurum nondum tetigit.
+^$Quid camera a nostris pecuniarum postulet,<f1>Basel hatte an der Badener Tagsatzung vom 23. Juni mitgeteilt, es sei vonseiten des Kaisers aufgefordert worden, 6510 Gulden an den Kriegszug gegen Frankreich beizusteuern; s. EA IV/1c 393 i.<fe> ex relatu aliorum percepisti. Gliscit bellum crudele. Caesar<f1>Karl^#. V.<fe> non cessabit, donec totam Germaniam bellicis tumultibus involvat. Audio in illius exercitu maiorem partem militum disenteria laborare, famem perpeti, nihil pecuniarum accipere et ex spolio vivere. Ubi nunc caesar iam sit cum suo exercitu, ignoro.<f1>Der Kaiser befand sich auf dem Weg nach Saint-Dizier; s. ^#/+Stälin^#/- 577.<fe> De ducis Brunsvicensis<f1>Herzog Heinrich von Braunschweig-Wolfenbüttel.<fe> exercitu<f1>Vgl. unten Nr. 1961, 22-25 mit Anm. 24; Nr. 1969, 22-24.<fe> nihil certi possum dicere, donec certiora cognovero.
+^$Libellus Lutheri<f1>Das von Gast gesandte Buch (s. oben Nr. 1923 mit Anm. 18) scheint also nicht Bullingers Anfrage (s. oben Nr. 1859 mit Anm. 1) entsprochen zu haben.<fe> an extet, diligenter perscrutabor tabernas bibliopolarum.
+^$Vale cum uxore<f1>Anna, geb. Adlischwyler.<fe> et liberis<f1>Zu Bullingers Kindern s. oben Nr. 1838, Anm. 19.<fe>. D. Theodorum<f1>Theodor Bibliander.<fe> et Frisium<f1>Johannes Fries.<fe> nomine meo salutabis.
+^$Bas[ileae]<fx>Bas. ^#/+nachträglich eingefügt.^#/-<fe>, 11. iulii 1544.
+<un>Tuus Ioan. Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] Dem würdigen und wolgelerten hernn M. Heinrychen Bullinger, pfarhernn zuͦ Zurich imm grossen münster etc. Zurich.
+</content>
+</letter>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1684">
+<nr>1684</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>Richard [Hilles]</addressee>
+	<note fn=1>Richard Hilles ist Empfänger, wie aus Anm. a und seinem Dankbrief vom 18. Dezember (unten Nr. 1704) hervorgeht.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>30. Oktober 1542</date>
+</space_time>
+<vo>Abschrift von Hilles<fx>^#/+Das Original ist nicht erhalten. Die Abschrift ist von Hilles selbst, der am Rande notierte: ^#/-The trewe
+coppie of a let[ter] in Latine, w[hi]ch the greate
+learned devine, maister Henrie Bullinger, the minister of the churche of Tigurie, in Helvetia, wrote unto me, Richarde
+Hilles. Anno domini 1542.^&xDiese Zuschreibung ist nochmals
+zu kontrollieren. Vieles spricht für seine Hand,
+"r"-Formen dagegen. Liegt hier eine von ähnlicher Hand
+geschriebene Kopie seiner Abschrift vor?^&x{<fe>: London, Lambeth Palace Library, Ms
+2010, 115r.-v., Nr. 74</vo>
+<dr>Transkription (maschinenschriftlich) in: ^#/+Hildebrandt,^#/- Exiles 296-299, Ap­­pendix E 2</dr>
+<re>Sendet seine Kommentare zum Matthäusevangelium, zur Apostelgeschichte und zu den apostolischen
+Briefen als Dank für die von Hilles erwiesene Großzügigkeit; hat vergessen, dass Hilles Bullingers
+Schriften "De scripturae sanctae authoritate" und "De origine erroris", als ein Buch gebunden,
+wünschte; falls Hilles diese Schriften haben möchte, wird Bullinger sie senden, besonders da deren
+Lektüre nicht unfruchtbar sein wird. Im Folgenden will er auf Hilles' Frage eingehen, welche
+Kirchenväter und Geschichtsschreiber er lesen solle: Von den zahlreichen vortrefflichen Werken des
+Tertullian, dessen schwieriger Stil aber Hilles überfordern könnte, empfiehlt er besonders "De
+praescriptione haereticorum", "Adversus Praxean", "De carne Christi" und "De resurrectione
+mortuorum"; Tertullians Schriften sind unübertroffen, Bullinger selbst liest sie immer wieder. Was
+Athanasius in vielen Büchern über die Trinität schreibt, äußert Tertullian schon 150 Jahre früher
+in knapper Form, trotzdem sind Athanasius' "Epistula ad Epictetum" und "Oratio contra gentes/de
+incarnatione verbi" empfehlenswert.
+Von den vielen Werken Cyprians haben sich nur wenige erhalten, von denen besonders seine Predigten
+und Traktate zu empfehlen sind. Irenäus' Werk "Contra haereses" empfiehlt sich aufgrund seines
+schwierigen Stils nicht für Hilles. Laktanz legt in seinen "Institutiones" dar, wie wichtig
+der Glaube und ein unschuldiges Leben sind, weshalb er Götzendienst und Opfer mit Ausnahme von Werken der
+Barmherzigkeit ablehnt; in "De opificio dei" legt Laktanz die Weisheit, Macht und Güte
+Gottes dar, weshalb dieses Werk auch besonders zu empfehlen ist, die anderen kann man flüchtig
+durchlesen. Hieronymus' Auslegungen der Propheten und der gesamten Schrift sind empfehlenswert,
+seine polemischen Werke sind oft überspitzt; sein
+Lob der Jungfräulichkeit und des monastischen Lebens hat mehr geschadet als genutzt, obwohl er,
+wenn er heute leben würde, nicht mit denen, die sich auf ihn stützen, übereinstimmen würde. Zu den
+Werken des Ambrosius kann Bullinger keinen Rat geben; er ist der einzige Kirchenvater, von dem er
+nur einige Werke gelesen hat, nämlich "De officiis ministrorum", "Hexameron" und "De incarnationis dominicae
+sacramento", denen er allerdings viel abgewinnen konnte und die Hilles deshalb auch lesen soll;
+auch der "Commentarius in 13 epistulas Paulinas" ist gelehrt, Bullinger selbst hat ihn viel benützt. Augustin ist Bullinger am meisten
+vertraut und keiner ist nützlicher als dieser, ein wahrer Schatz für die Kirche; besonders
+empfehlenswert sind "De doctrina christiana", "De fide et symbolo", "De vera religione", "De agone
+christiano", "De spiritu et littera", "Tractatus in Iohannis evangelium", "De civitate dei" und die
+"Epistulae". Augustin setzte sich auch mit Sekten seiner Zeit auseinander: Gegen die Manichäer
+verfasste er Werke über die Wahrheit der Heiligen Schrift sowie über den Ursprung von Gut und Böse,
+gegen die Arianer schrieb er über die Trinität und die göttliche Natur
+Christi; die Einheit der Kirche und das Wesen der Taufe verteidigte er gegen die Donatisten, und im
+Konflikt mit den Pelagianern erörterte er die Gnadenlehre, den freien Willen und die
+Werkgerechtigkeit; außerdem soll Hilles auch "Contra Iulianum", "De praedestinatione sanctorum" und "De haeresibus" lesen.
+Schließlich zur besonders schätzenswerten Geschichtsschreibung, die so viele Werke hervorgebracht hat, dass selbst das
+Lebensalter Nestors nicht ausreichen würde, sie alle zu kennen: Bullinger nimmt an, dass Hilles ein Kompendium wünscht, und empfiehlt daher die "Enneaden" von Marcus Antonius
+Sabellicus sowie die "Historiae adversus paganos" von Paulus Orosius; Publius Annius Florus' "Epitome" wird ihm
+bekannt sein, und auch die Lektüre von Flavius Josephus kann nicht schaden; weitere Lektürehinweise
+wird er in diesen Werken finden. Grüße.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Libros, quos vides, Richarde, in domino charissime et
+colendissime frater, commentarios videlicet meos in
+Matth[aeum]<f1>Bullingers Matthäuskommentar (HBBibl I 144).<fe>, acta apostolorum<f1>In acta
+apostolorum [...] commentariorum libri IV (HBBibl I 43-45).<fe> et omnium apostolorum literas<f1>In
+omnes apostolicas epistolas [...] commentarii (HBBibl I 84f und 91f).<fe>
+in duo volumina compactos, muneris loco habere digneris, oro.
+Magna enim in me tua extant benefitia, magnus est favor,
+quo me prosequeris immeritum. Dominus rependat tibi pro omni
+bono. Ego certe sic cogito aliquid tibi gratitudinis
+argumentum exhibere. Caeterum oblivioni tradidi, quod
+cupiebas tibi parari libellos meos De authoritate
+scripturarum deque officio episcoporum<f1>De scripturae sanctae authoritate [...] deque episcoporum
+[...] institutione et functione (HBBibl I 111).<fe> et De origine
+erroris<fx>^#/+Randbemerkung (anscheinend aus Platzgründen nach unten verschoben):^#/- De Origine nulla mentio.<fe><f1>De origine
+erroris (HBBibl I 10-12).<fe> atque hos in unum conpungi librum. Quod si ea est
+sententia tua, fac sciam, et curabitur pulchre. Arbitror
+autem lectionem illorum librorum non omnino fore
+infrugiferam.
+^$Iam ut respondeam tibi ad tuam quaestionem<f1>Ein entsprechender Brief liegt nicht vor; Hilles dürfte Bullinger um Lektüreempfehlungen gebeten haben, als er ihn im Sommer in Zürich besuchte (vgl. oben Nr. 1645).<fe>, quos autem<fx>^#/+Korrigiert aus^#/- atem.<fe>
+scriptores ecclesiasticos utiliter a te legi posse<f1>Vgl. zum folgenden Briefabschnitt Alfred ^#/+Schindler,^#/- Bullinger und die lateinischen Kirchenväter, in: Heinrich Bullinger und seine Zeit. Eine Vorlesungsreihe, hg. von Emidio Campi, Zürich 2004. - Zwa XXXI, S. 168; HBBibl III, S. 47.<fe>,
+quos
+item suadeam evoluendos historicos, paucis hic accipe.
+Scripsit vetustissimus<fx>^#/+In der Vorlage:^#/- vetussimus.<fe> Tertullianus<fx>^#/+Randbemerkung:^#/- Tertulianus.<fe> praeclara opera
+complurima<f1>Bullinger besaß ein eigenes Exemplar der Werke Tertullians in der
+Ausgabe von Beatus Rhenanus (Opera, Basel: Johann Froben 1521), wobei "De praescriptione
+hae­reticorum" und das nachfolgend erwähnte Werk "Adversus Praxean" auffallend viele Annotationen
+Bullingers aufweisen, vgl. HBBibl III 189. Siehe auch Bullingers ausführliche Anleitung zum Studium in
+seiner "Studiorum Ratio" (HBSR II) sowie den Brief Bullingers an Berchtold Haller von 1532 (HBBW II, Nr.
+83; ausführliche Kommentierung in HBSR II 295-307), in dem er die gleichen Werke Tertullians und
+auch einige der unten aufgeführten Autoren und Werke empfiehlt.<fe>, sed ob stili difficultatem nescio, quam grata et
+utilis possit esse tibi eius lectio. Quod si tamen huius
+aliquid cognoscere cupis, lege inprimis praescriptiones
+haereticorum<f1>Tertullian, De praescriptione haereticorum (CChr I 185-224).<fe>. Deinde librum
+aeditum contra Praxeam de
+sanctae trinitatis misterio<f1>Tertullian, Adversus Praxean (übersetzt und eingeleitet von Hermann-Josef Sieben, Freiburg
+i. Br. 2001. - Fontes christiani XXXIV^&xZB: TB 6532:34; CChr II 1157-1205, G. Scarpat Hg., Turin
+1959/1985^&x{).<fe>. Postea librum eius de carne
+Christi<f1>Tertullian, De carne Christi (SChr CCXVI-CCXVII^&xCChr II 871-917,^&x{).<fe> et de
+resurrectione carnis<f1>Tertullian, De resurrectione mortuorum (CChr II 919-1012). In Bullingers
+Ausgabe trägt die Schrift den Titel "De carnis resurrectione".<fe>. Nemo autem paucis
+explicarit, quanta possit ex his doctissimis et sanctissimis
+libris utilitas capi. Ego istorum librorum eximiam puritatem
+et eruditionem nunquam potui satis mirari neque desino vel
+hodie in iis esse frequens. Quae sanctissimus Athanasius per
+multos libros sparsit de trinitate, ea ista<fx>^#/+Wohl verschrieben aus^#/- iste.<fe> prior in
+brevissimum contulit compendium praecedens Athanasium<fx>^#/+Randbemerkung:^#/- Athanasius.<fe>
+annis amplius 150. Scripsit tamen hic epistolam ad Epictetum<f1>Athanasius, Epistula ad Epictetum
+(MPG XXVI 1049-1069). - Epiktet (ca. 50-130), ein freigelassener Sklave und Philosoph, war einer der bedeudendsten Stoiker der römischen Kaiserzeit. - Lit: Markus ^#/+Enders,^#/- in: RGG^#'4 II 1365f.<fe>,
+Corinthiorum episcopum, contra omnes hereses de
+incarnationis do­minicae sacramento<f1>Bullinger meint wohl Athanasius' Doppelwerk "Oratio contra
+gentes" und "Oratio de incarnatione verbi" (MPG XXV 4-95 bzw. 96-197).<fe>, quem omnino legas.
+Cyprianus martyr<fx>^#/+Randbemerkung:^#/- Ciprianus.<fe> multa scripsit, sed paucula eius extant.
+In his primas tenent<f1>Adagia, 5, 1, 51 (LB II 1191).<fe>
+sermones eius, demum et tractatus, quos non sine magno
+fructu pietatis cognoscas.<f1>Es ist unklar, auf welche Werke Cyprians sich Bullinger genau bezieht;
+vgl. CChr III-III E.^&xCSEL III/1-3.^&x{<fe> Ireneus<fx>^#/+Randbemerkung:^#/- Ireneus.<fe>, qui istos tres aetate
+sive tempore multum antecellit, disputavit contra
+Valentinianos<f1>Irenäus von Lyon (ca. 140 - ca. 200), Contra haereses (MPL VII 437-1224). - Lit.:
+Hans-Jochen ^#/+Jaschke,^#/- in: TRE XVI 258-268.<fe>, sed tanta stili obscuritate et sententiarum
+perplexitate, sive ea ex vetustate sive librariorum incuria
+sive interpretis (si modo Grece scripsit) oscitantia
+factum sit, ut non credam eius lectionem tibi usque adeo
+vel<fx>^#/+Vor^#/- vel ^#/+ein Buchstabe gestrichen.^#/-<fe>
+necessariam vel utilem fore. Lactantius<fx>^#/+Randbemerkung:^#/- Lactantius.<fe> scripsit
+contra gentiles libros 7, quos Institutionem<f1>Laktanz, Divinae Institutiones (CSEL XIX/1-2).
+^&xMPL VI; SChr CCIV-CCV, CCCXXVI, CCCXXXVII, CCCLXXVII^&x{
+Wie die Tertullianausgabe versah Bullinger auch seine
+Ausgabe der Werke Laktanz' (HBBibl III 126) mit zahlreichen Annotationen.<fe> praetitulavit.
+In quibus illud maximopere probandum, quod tanto impetu et
+viribus eloquentiae omnibus ubique inculcat deum
+delectari placarique fide et vitae innocentia. Unde merito
+reiicit omnis<fx>^#/+Wohl verschrieben aus^#/- omne.<fe> genus idola et sacrifitia externa praeter
+misericordiam. Caeterum liber de opifitio dei<f1>Laktanz, De opificio dei (^&xCSEL XXVII 1-160, MPL
+VII,^&x{SChr CCXIIIf).<fe> mirifice
+extollit dei sapientiam, potentiam et bonitatem. Hunc censeo
+imprimis esse legendum, alios eius libros tantum
+percurrendum. In Hieronimi<fx>^#/+Randbemerkung:^#/- Hieronimus.<fe> operibus<f1>Bullinger besaß eine
+Gesamtausgabe der Werke des Hieronymus (HBBibl III 107).<fe> merito commendantur,
+quae ille scripsit in prophetas<f1>Hieronymus, ^&xTractatus lix in psalmos (CChr LXXVIII 1-352) und
+Tractatuum in psalmos series altera (CChr LXXVIII 353-447)^&x{Commentarii in prophetas (CChr
+LXXIII-LXXVI A).<fe> et in universum in
+scripturas sanctas.<f1>Hieronymus' Exegetica finden sich in CChr LXXII-LXXVIII und MPL
+XXIII-XXVI.^&xnicht alle exegetica sind schon von CChr herausgegeben.^&x{<fe> Reliqua in adversarios aedita semper
+vel optimis quibusque visae sunt satis acerba. Diligens et
+operosa eius commendatio atque laus virginitatis et vitae
+monasticae multis plus nocuit quam profuerit.<f1>Zu Bullingers Kritik an Hieronymus' Verteidigung des monastischen Lebens und der Jungfräulichkeit, die dieser v. a. in seinen Schriften "Adversus Iovinianum", "Contra Vigilantium" und in Ep. 22 "Ad Eustochium" vertrat, s. HBBibl III, S.
+47 mit Anm. 281.<fe> Quanquam nihil
+dubitem illum bono<fx>bono ^#/+über der Zeile nachgetragen.^#/-<fe> zelo scripsisse, quae scripsit, neque
+probaturum, si hodie viveret, quae designant, qui eius
+nitantur authoritate.
+<vl>115v.</vl> De Ambrosianis<fx>^#/+Randbemerkung:^#/- Ambrosius.<fe> operibus^&xDie Werke des
+Ambrosius finden sich in: CChr XIV-XV, CSEL XXXII, LXII, LXIV, LXXIII, LXXVIII, LXXIX, LXXXII, MPL
+XIV-XVIII.^&x{ nihil possum
+consulere. Solus hic inter vetustiores parcius<fx>^#/+In der Vorlage^#/- partius.<fe> a me lectus est. Quos legi libros de
+officiis<f1>^&!s(-40)Ambrosius, De officiis ministrorum (CChr XV).^&!s(+0)<fe>, de opere 6
+dierum<f1>^&!s(-40)Ambrosius, Hexameron (CSEL XXXII/1).^&!s(+0)<fe>, de dominicae incarnationis
+sacramento<f1>Ambrosius, De incarnationis dominicae sacramento (CSEL LXXIX 223-281).<fe> nunquam
+satis mirari et probare possum. Suadeo
+ergo, ut illa quoque cognoscas. Commentarii in
+Paulum<f1>Bullinger folgt der traditionellen Zuschreibung des "Commentarius in 13 epistulas Paulinas" (CSEL LXXXI/1-3) an Ambrosius. Das Werk stammt jedoch aus der
+Feder eines unbekannten Autors, den Erasmus "Ambrosiaster" nannte; vgl. HBBW V, S. 255f mit Anm. 14.<fe> docti
+sunt, et plurima ex ipsis in meos translata. Porro sancto
+Augustino<fx>^#/+Randbemerkung:^#/- Augustinus.<fe> nemo mihi familiarior, nemo eo scriptore mihi
+videtur utilior.<f1>Bullinger hatte 1534 eine Gesamtausgabe der Werke Augustins in zehn Bänden
+erworben und besaß zudem ein weiteres Exemplar von "De civitate dei", vgl. HBBibl III 10f.<fe>
+Quo si careret ecclesia, magno careret
+thesauro. Scripsit multa et omnia utiliter. Inter illa tamen
+tu utiliter leges inprimis libros hos: De doctrina
+christiana<f1>Augustin, De doctrina christiana (CSEL LXXX 1-169^&xCCHr XXXII^&x{).<fe>, quanquam in
+his et concionatorem instituat, de
+fide et symbolo<f1>Augustin, De fide et symbolo (CSEL XLI 1-32).<fe>, de vera religione<f1>Augustin,
+De vera religione (CChr XXXII 187-260^&xCSEL LXXVII^&x{).<fe>, de agone christiano<f1>Augustin, De
+agone christiano (CSEL XLI 99-138).<fe>, de
+spiritu et litera<f1>Augustin, De spiritu et littera (CSEL LX/I 153-230).<fe>. Tractatus in
+evangelium Ioannis<f1>Augustin, Tractatus in Johannis evangelium (CChr XXXVI).<fe> plane
+aurei sunt sanctissimique. Elegantissimi et iucundissimi
+sunt libri de civitate dei 22<f1>Augustin, De civitate dei (CChr XLVII-XLVIII).^&xCSEL XL/1-2^&x{<fe>
+et multiplici doctrina
+refertissimi. Inter epistolas eius<f1>Augustin, Epistulae (CChr XXXI-XXXI A)^&xCSEL XXXIV/1-2, XLIV,
+LVII-LVIII, LXXXVIII^&x{.<fe> comprehenduntur et
+libelli oppido utiles. Plurimum fructus exportabit, quisquis
+omnes eius epistolas libellosque sub epistolarum titulis
+comprehensos percurrerit. Disputavit hic author contra
+sacrilegas sectas Manichaeorum<f1>Der Manichäismus war eine von Mani gegründete Bewegung
+gnostisch-eschatologischer Ausrichtung, deren Ziel es war, Elemente der verschiedenen Religionen zu
+einer Weltreligion zusammenzufassen. Durch die starke Missionstätigkeit der Manichäer konnte sich
+die Bewegung weit verbreiten und hielt sich bis in die Neuzeit. - Lit.: Alexander ^#/+Böhlig,^#/-
+in: TRE XXII 25-45.<fe>, Arrianorum<f1>Zum Arianismus vgl. HBBW IV, S. 259, Anm.
+24.<fe>, Donatistarum<f1>Zum Donatismus vgl. HBBW IV, S. 33, Anm. 3.<fe> et
+Pelagianorum<f1>Zu Pelagius und dem auf ihn gründenden Pelagianismus vgl. HBBW IV, S. 260, Anm.
+24.<fe>. Contra Manicheos disputans multa disserit de
+veritate scripturae, de vera boni et mali origine
+iustaque ratione.<f1>Augustin verfasste eine ganze Anzahl von Schriften gegen die Manichäer,
+darunter De moribus ecclesiae catholicae et de moribus Manichaeorum (CSEL XC)^&xDe Genesi contra
+Manichaeos (PL XXXIV 173-220)^&x{, Contra Fortunatum Manichaeum (CSEL XXV/I 81-112)^&xDe utilitate
+credendi (CSEL/I???), Contra epistulam fundamenti Manichaeorum (CSEL XXV 191-248)^&x{, Contra Faustum
+Manichaeum (CSEL XXV/I 249-797), ^&xContra Felicem Manichaeum (CSEL XXV/2???), Epistula Secundini
+Manichaei (CSEL XXV 891-901),^&x{ Contra Secundinum Manichaeum (CSEL XXV/II 903-947) und De fide
+contra Manichaeos (CSEL XXV/II 949-975).<fe> Contra Arrianos propugnat sanctae
+trinitatis sacramentum et divinitatem veram filii dei.<f1>Augustin verteidigte die orthodoxe
+Trinitätslehre gegenüber den Arianern v. a. in "De Trinitate" (CChr I-IA) sowie in einigen kleineren Schriften.<fe>
+Contra Donatistas defendit unitatem ecclesiae, agit negotium
+baptismi.<f1>Augustins Schriften gegen die Donatisten umfassen u. a. Contra epistulam Parmeniani
+(CSEL LI 17-141), De baptismo contra Donatistas (CSEL LI 143-375) und Contra litteras Petiliani
+(CSEL LII 1-227).<fe> Caeterum contra Pelagianos tuetur gratiam,
+disserit de libero arbitrio et meritis.<f1>Im Kampf gegen den Pelagianismus formulierte Augustin
+besonders seine Lehre zur Sünde und Gnade aus, u. a. in den folgenden Werken: De peccatorum meritis
+et remissione et de baptismo parvulorum (CSEL LX 1-151), De spiritu et littera (CSEL LX 153-229), De
+praedestinatione sanctorum (MPL XLIV 959-992). Konkret auf den freien Willen bezogen sich seine Werke
+De libero arbitrio (CChr XXIX 205-321) und De gratia et libero arbitrio (MPL 881-912).<fe> Et hos libros puto
+omnino cognoscendos, prudenter tamen legendum, quae de praedestinatione contra Iulianum<f1>Contra
+Iulianum (MPL XLIV 641-874).<fe> disputat et de praedestinatione sanctorum<f1>De praedestinatione
+sanctorum (MPL XLIV 959-992).<fe>. Praestat etiam legere Catalogum
+heresum ab hoc diligenter contextum ad Quod vult deum<fx>^#/+Zwischen^#/- vult ^#/+und^#/- deum ^#/+ein Wort
+ausradiert;^#/- deum ^#/+teilweise darüber geschrieben.^#/-<fe><f1>Gemeint ist Augustins Schrift De
+haeresibus ad Quodvultdeum, CChr XLVI 263-345. - Quodvultdeus (gest. 454), nordafrikanischer Kirchenvater, Gegner des Pelagianismus und Korrespondent Augustins, der ihm eben diese Schrift widmete. - Lit.: Wilhelm H. ^#/+Gessel,^#/- in: LThK^#'3 VIII 786.<fe>,
+saltem ut cognitas caveamus peregrinas ab orthodoxa
+ecclesia sententias. Haec habui de maxime vulgaribus
+ecclesiae doctoribus. Sunt alii plures eruditione et pietate
+insignes; verum haec in praesenti pro te satis esse puto<fx>^#/+Nach^#/- puto ^#/+6 Zierzeichen als Zeilenfüller.^#/-<fe>.
+^$Venio ad historiam, qua nihil est utilius, nihil
+elegantius, iucundius nihil. Certe propter eius excellentiam
+scripserunt historiam innumeri historici, adeo ut vix
+suffecerit Nestoris aetas<f1>Zum sprichwörtlichen hohen Alter des Nestor s. Adagia 1, 6, 66 (LB II
+249); Otto 242, Nr. 1223.<fe> cognoscendis omnibus. Tu saltem
+cupis compendium. Suadeo ergo, ut compares tibi Antonii
+Sabellici Eneados<fx>^#/+Randbemerkung:^#/- Sabellici Aeneades.<fe><f1>Marcus Antonius Sabellicus
+(Marcantonio Coccio, 1436-1506) wurde nach der Präsentation seiner "Historiae rerum Venetarum" 1485 an der Schule von San Marco in Venedig als Professor angestellt und verfasste in der Folge weitere sich auf den venezianischen Staat konzentrierende philosophische und historische Werke wie auch
+Kommentare zu klassischen Autoren. 1498 erschien seine Universalgeschichte "Enneades ab orbe condito". - Lit.: Egmont ^#/+Lee,^#/- in: Contemporaries III 181f. - Bullinger besaß
+eine Ausgabe von Werken des Sabellicus (HBBibl III 166).<fe>
+ab exordio mundi ad Maximiliani<f1>Kaiser Maximilian I.<fe> usque
+caesaris annos historiae seriem deducentes. Collegit hic vir,
+quicquid extat apud Graecos et Latinos historicos de
+omnibus regnis et memorabilibus rebus in orbe. Scripsit et
+Paulus Orosius<fx>^#/+Randbemerkung:^#/- Paulus Orosius.<fe> a condito mundo ad aetatem usque
+Augustini, id est Theodotii maioris<f1>Theodosius I. der Große (347-395), römischer Kaiser (379-395).<fe>, precellentia
+facta, qui hoc nomine prae caeteris placet, quod pulchre<fx>^#/+Korrigiert aus^#/- pulcre ^#/+mittels
+über der Zeile nachgetragenem
+^#/- h.<fe>,
+quod dici solet, rebus applicat presentibus et religionem
+docet in operibus dei.<f1>Bullinger bezieht sich auf Paulus Orosius' "Historiae adversus paganos"
+(CSEL V); vgl. HBBW VIII, S. 218, 29 mit Anm. 8.<fe> Nota tibi sunt, quae Florus<fx>Florus ^#/+korrigiert
+aus^#/- Fflorus.<fe><f1>Unter dem Cognomen Florus sind in Verbindung mit dem Familiennamen An­n(a)e­us
+bzw. Annius und den Vornamen Lucius bzw. Publius vier Werke überliefert, die üblicherweise einer
+Person zugeschrieben werden: eine Einleitung zu einem Dialog, Fragmente eines Gedichtaustausches und
+einer Korrespondenz mit dem römischen Kaiser Hadrian sowie das von Bullinger empfohlene
+Geschichtswerk über das römische Reich. Der aus Afrika stammende Florus kam unter Domitian in das
+römische Reich, wo er als Dichter und Wanderredner wirkte und schließlich um 100 in Tarraco (Tarragona) eine
+Schule gründete. - Lit.: Peter L. ^#/+Schmidt,^#/- in: DNP IV 566f.<fe>
+scripsit in Epitome et 4 libris suis<f1>Florus' vierteiliges Geschichtswerk "Epitome bellorum omnium
+annorum DCC", eine Geschichte des römischen Reichs bis Augustus, galt lange als ein Klassiker der
+römischen Geschichtsschreibung.<fe>. His si iungas
+lectionem Iosephi<fx>^#/+Randbemerkung:^#/- Florus et Iosephus.<fe><f1>Flavius Josephus (37/38 - 100),
+Politiker, Feldherr und Historiker aus Jerusalem, der nach dem jüdisch-römischen Krieg nach Rom
+umsiedelte. Von seinen Werken erfreuten sich v. a. "De bello Iudaico" und "Antiquitates Iudaicae"
+großer Beliebtheit. - Lit.: Günter ^#/+Mayer,^#/- in: TRE XVII 258-264.<fe>, nil peccaveris. Porro ex istis ipse
+colliges, quos legas, si plures legere vacaverit.
+^$Hec brevia et rudia ad quaestiones tuas in negotiorum turbis
+intra horam effusa, quaeso, boni consule. Vive et vale
+una cum castissima et sanctissima tua coniuge<f1>Anna Hilles.<fe>, quam
+plurima salute impartit mea coniunx<f1>Anna, geb. Adlischwyler.<fe> una cum liberis<f1>Zu Bullingers Kindern s. oben Nr. 1658, Anm. 27.<fe> et
+tota familia. Dominus Iesus sit tecum. Amen.
+^$Tiguri, 30. octobris anno 1542.
+<un>Tuus H. Bullingerus.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

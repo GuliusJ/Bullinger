@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="912">
+<correspondents>
+	<originator>Konrad Gessner</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Basel</place>
+	<date>vor 11. November 1536*)+1</date>
+</space_time>
+<record>Autograph+a: Zürich ZB, Ms F 38, 342 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Über seine Lage können (*Konrad*) Pellikan und (*Johann Jakob*)
+Ammann Auskunft geben. Bittet, dafür zu sorgen, dass die ihm
+auf Martini zustehenden sechs Mütt Kernen dem von ihm Beauftragten
+ausgehändigt werden, dazu weitere fünf Mütt auf Geheiss von (*Johannes*)
+Fries.
+</statue>
+<content>
+S. d. Non mihi tantum ocii est, vir ornatissime, de rebus meis
+exacte ut scribam. Nam hèc quoque multa nocte ad lucernam depinxi.
+Poteris tamen ex d. Pellicano atque Ammiano+2, tum+b iis, qui hinc iam
+ad vos Tigurum venerunt, conditiones meas satis intelligere. Id te
+dubitare non puto, nullis hominum+c fidem meam aliter astricturum+d,
+quin eam vobis semper integram servem.
+O utinam primo quoque tempore aut ingenio aut numinis dono eo
+perveniam, ut patriae atque vobis omnibus usui esse alicui liceat!
+<p>Hoc vero est, quod in prèsentiarum te rogo: Si quis meo nomine sive ad Martini diem+3 sive his proximis frumentum+4 meo nomine petat+e, tu, ne
+recusetur, efficias. Sex mihi debebuntur modii+f, et quinque de suis
+Frisius+5 accipere mutuo iussit, itaque erunt 11.
+De Frisii voluntate non est, quod dubites, neque opus arbitror, ut ipsus
+scribat, nisi ego non :gr.axiopistoV:egr. sim. De reliquis proxime
+saepius et prolixius scribam.</p>
+<p>Vale, Mecoenas+6 humanissime.</p>
+<signature>
+Tuus Con. Gessnerus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Clarissimo viro d. Henrycho
+Bullingero, Mecoenati colendissimo suo. Zürich.
+</address>
+</content>
+<note>
+.us; +a >Mit einer Bemerkung von J. H. Hottinger und
+<print>
+mit Unterstreichungen.
++b>vor  tum  gestrichenes  tuis.
++c>in der Vorlage  hominem.
++d>vor  astricturum  gestrichenes  inst.
++e>petat  korrigiert aus  petatur.
++f>modii  am Rande nachgetragen.
+</print>
+<address>
++1>In Frage kommen die Jahre 1535-1537, in denen sowohl Gessner
+als auch Fries laut Rechnung des Studentenamtes (Zürich StA, G II 39. 1)
+je 6 Mütt Kernen bezogen (vgl. unten Z. 10f).
+Der Brief setzt die gemeinsame Landesabwesenheit von Gessner und Fries
+voraus (vgl. Z. 11f); er kann deshalb wohl nur im Herbst 1536 geschrieben
+worden sein, als sich beide in Basel aufhielten (vgl. unten Nr. 929, 27).
++2>Johann Jakob Ammann.
++3>11. November.
++4>Vgl. oben Anm. 1
++5>Johannes Fries.
++6>Mäzen (vgl. Pauly/Wissowa XIV/1 207- 229).
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

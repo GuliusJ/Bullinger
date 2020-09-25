@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1504">
+<nr>1504</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>23. April [1541]</date>
+	<note>Die Nachricht vom Beginn des Reichstags (unten Z. 1f) verweist den Brief eindeutig ins Jahr 1541.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 196 (Siegelspur)</vo>
+<vo>Regest: Zürich ZB, Ms S 49,90</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für die Nachrichten [Nr. 1497?] über die Eröffnung des Reichstags und die vom Kaiser vorgelegten Artikel; erwartet
+heute etwas aus Straßburg und legt bei, was er kürzlich von [Jakob] Bedrot erhielt. Bedauert, dass [Hans] Voglerd. J. unter
+so unerfreulichen Umständen entlassen werden muss. Gruß. Der von Bullinger Empfohlene hat ihn beeindruckt; Zürich ist mit
+herausragenden Patriziern gesegnet. Schickt den Brief zurück und rechnet damit, die Antwort [der Protestanten] bald zu erfahren.
+</re>
+<tx>S. Vestra nova<f1>Wie aus den folgenden Bemerkungen (vgl. auch unten Z. 13) hervorgeht, hatte Bullinger
+möglicherweise Gwalthers Brief vom 11. April (oben Nr. 1497) an Grynäus geschickt.<fe> sunt novissima; nam coepisse comitia et
+articulos hos<f1>Vgl. ebd., Z. 41-45.<fe> a cęsare<f1>Kaiser Karl V.<fe> propositos esse
+nondum audieramus. Itaque valde est grata hęc res. Expecto hodie ab Argentina aliquid; si quid erit, scies. Mitto hic, quae
+Bedrotus nuper<f1>Zu ergänzen: "misit". - Gemeint ist wohl der Brief Bedrots an Myconius und Grynäus vom 6. April mit kurzen
+Auszügen aus Schreiben Bucers vom 26. und 30. März (Zürich StA, E II 350, 457f), kaum schon der Bericht Bucers vom 14. April,
+auf den Bedrot in seinem Schreiben an Bullinger vom 20. April (oben Nr. 1502) hinweist - sonst könnte Grynäus nicht schreiben,
+man habe von der Eröffnung des Reichstags noch nichts gewusst. Einen Auszug aus dem zuletzt genannten Bericht (Zürich StA, E II 350, 473, von unbekannter
+Hand) erhielt Bullinger gemäß eigenhändiger Notiz am 24. April aus Straßburg, aber wohl ebenfalls durch Grynäus; die kurze
+Vorbemerkung (von Bedrot?) richtet sich nämlich an diesen. Zur Übermittlung entsprechender Nachrichten durch Grynäus vgl. auch
+die entsprechende Bemerkung im Brief Capitos vom 20. April (oben Nr. 1503).<fe>.
+Sed te credo prius omnia<f1>Zu ergänzen: "audivisse" o. ä.<fe>.
+^$Vogleri filium<f1>Hans Voglerd. J. (vgl. zuletzt oben Nr. 1486, 1-8).<fe> mittemus. Mihi valde dolet sic accidisse, ut
+meliori gratia dimitti non potuerit; cupio enim, si qua liceat, de vobis esse meritus.
+^$Vos valere gaudio. Salutabis omnes amicos. Vale.
+^$23. aprilis.
+<un>S. Grynęus tuus.
+<lz>Vehementer mihi ingenuitas huius<f1>Unbekannt.<fe> placuit, quem mihi commendasti. Dominus vos amat; hunc ordinem et gentis nobilissimę pręstantiam diu conservet. Iterum vale.
+^$Tuas hic remitto tibi; sciemus responsum<f1>Gemeint ist offenbar die Antwort der protestantischen Stände auf die
+Proposition des Kaisers (vgl. oben Nr. 1497, 47-49, dazu auch Nr. 1496, Anm. 10).<fe> brevi, spero.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, amico suo charissimo.
+</content>
+</letter>

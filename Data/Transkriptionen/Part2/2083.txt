@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2083">
+<nr>2083</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>16. Februar 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen.^#/-<fe>: Zürich StA, E II 336, 214 (neu: 232) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 162^&x{
+<re>Myconius schickt mit dem Boten [...] das [Tadelsbreve von Paul III. an Karl V.]. Die [päpstliche Bulle "Laetare Hierusalem"] wird Bullinger wohl schon haben. Wenn nicht, schickt Myconius sie ihm nach, sobald er sie wieder erhalten hat. Er hat nämlich [beide Dokumente], die für Calvin bestimmt waren, abschreiben lassen, hat aber die Abschrift [der Bulle] noch nicht erhalten.
+-^#. Bis jetzt ist nur der Bischof von Augsburg [Otto Truchsess von Waldburg] in Worms. Manche meinen, der Reichstag werde wegen der [leeren Kassen] der Fürsten gar nicht stattfinden. [Karl V.] macht sie arm, und etwaige Reserven werden für die sicherlich schlimme Zukunft benötigt.
+-^#. In Belgien werden die [Evangelischen] übel verfolgt. Dieses "Geschäft" wurde sechs Männern [...], unter ihnen vier Spaniern, aufgetragen. Die Soldaten, die im Begriff waren, in das Elsass zu ziehen, schweifen noch immer in Lothringen umher und tragen zum schlechten Ruf des Kaisers bei.
+-^#. Luthers ["Kurtz bekentnis"] ist in Abschrift endlich aus Straßburg geschickt worden; Myconius hat es gelesen und findet es voller Maßlosigkeit. Falls die Zürcher nicht zurückhaltender sind, wird großes Unheil in der Kirche entstehen.
+-^#. Dies Wenige, da Myconius Augenschmerzen hat.</re>
+<tx>S. Exemplaria duo literarum papalium ad suos et ad cęsarem<f1>Karl V.<fe> misissem pridem,<f1>Siehe oben Nr. 2076, 16f und Anm. 8.<fe>
+si fuisset, qui tulisset. Nunc tabellione<f1>Unbekannt.<fe> invento alteras<f1>Das Tadelsbreve Papst Pauls III. an Kaiser Karl V. vom 24. August 1544; s. oben Nr. 2071, Anm. 25.<fe> mitto, quod non dubito,
+quin edictionem concilii<f1>Die Bulle "Laetare Hierusalem" vom 19. November 1544; s. oben Nr. 2071, Anm. 24.<fe> videris iam olim. Quamvis et illud acciderit: dum commendo,
+ut literę<f1>Die Bulle und das Tadelsbreve.<fe> describantur mittendę ad Calvinum,<f1>Myconius hatte diese Dokumente von Bucer für Calvin erhalten (CO XII 39), ließ sich aber offensichtlich davon noch Abschriften anfertigen, ehe er diese weiterleitete. Auf Bucers Anregung (CO XII 39) veröffentlichte Calvin daraufhin das Tadelsbreve unter dem Titel "Admonitio paterna Pauli III. Romani pontificis ad invictissimum caesarem Carolum V. cum scholis" und versah es anonym mit einem höhnischen Kommentar. Die Schrift wurde ohne Druckangaben von Robert Winter noch vor Ende März 1545 in Basel gedruckt; s. CO XII 56; Bibliotheca Calviniana I 206-210, Nr. 45/13f; ^#/+Brockmann^#/- 610; ^#/+Jedin,^#/- Geschichte I 400; Textausgabe in CO VII 249-288. - Die an den Kaiser gerichtete Calvin-Schrift, von der Myconius ein Exemplar erhalten hatte und dessen erste gedruckte Lage zwischen Genf und Basel einen Wasserschaden erlitt - eine Lage, die von Myconius am 6. März 1545 erneut erbeten (CO XII 38) und am 27. März von Calvin ersetzt wurde (CO XII 56) -, ist nicht, wie dies von den Herausgebern der CO und den Verfassern der Bibliotheca Calviniana behauptet wird, die "Admonitio", sondern die in Genf Ende Dezember 1543 gedruckte "Supplex exhortatio ad invictissimum caesarem" (Bibliotheca Calviniana I, Nr. 43/7)^&xCalvin sandte Bullinger ein Exemplar davon, HBBibl III 51^&x{, die Myconius erst am 24. Juni 1544 mit einem Brief von Calvin erhalten hatte (CO XI 733). Dementsprechend ist Bibliotheca Calviniana I 139 und 208 zu ergänzen bzw. zu korrigieren.<fe> alterę<f1>Die Bulle.<fe> nondum redierunt domum.
+Attamen, si non habes, curabo, ut et eę mittantur, posteaquam nactus fuero; nanciscar autem brevi.
+^$Wormacię adhuc nemo est praeter episcopum Augustanum<f1>Otto Truchsess von Waldburg war am 23. Oktober 1544 in Worms eingetroffen. Am 15. Dezember 1544 wurde der Reichstag vorläufig und am 21. Januar 1545 tatsächlich eröffnet. Erst beim Eintreffen König Ferdinands am 14. März 1545 konnten die Verhandlungen beginnen; s. Friedrich ^#/+Zoepfl,^#/- Geschichte des Bistums Augsburg und seiner Bischöfe, Bd. 2: Das Bistum Augsburg und seine Bischöfe im Reformationsjahrhundert, München/Augsburg 1969, S. 201; oben Nr. 2065, Anm. 23.<fe>. Arbitrantur quidam comitia nulla fore
+ob principum inopiam. Cęsar exhaurit, gula depauperat<f1>arm machen; s. ^#/+Hoven^#/- s.v.<fe>, fastus subvertit,
+et si quid superest, coguntur servare ad mala futura, si qua ingruant, ut nimirum ingruitura sunt.
+^$In Belgis persecutio gravis est in sanctos.<f1>Einzelheiten darüber in Myconius' Brief an Calvin vom 6. März 1545 (CO XII 38f). - Zwischen März und Mai 1545 berichten Bucer, Calvin, Luther, Melanchthon, Myconius und Johannes Sleidanus immer wieder über diese Verfolgungen (WA-BW XI 71-73 und Anm. 17; CO XII 38f. 71; Sleidans Briefwechsel, hg. v. Hermann Baumgarten, Straßburg 1881, S. 51. 53). Am 19. Februar 1545 wurde der im November 1544 verhaftete Pierre Brully in Tournai (Prov. Hainaut, Belgien) verbrannt (HBBW XIV 556f, Anm. 10). Zu den Verfolgungen und vor allem zur Verschärfung der Zensurbestimmungen am 18. Dezember 1544 s. Aline ^#/+Goosens,^#/- Les Inquisitions modernes dans les Pays-Bas méridionaux 1520-1633, Bd. 1: La Législation, Brüssel 1997, S. 62f, Bd. 2: Les Victimes, Brüssel 1998, S. 90-92. 147-149. 169; Jochen A. ^#/+Fühner,^#/- Die Kirchen- und die antireformatorische Religionspolitik Kaiser Karls V. in den siebzehn Provinzen der Niederlande 1515-1555, Leiden/Boston 2004 - Brill's Series in Church History 23, S. 295-303.<fe> Sex viris<f1>Wer damit gemeint ist, bleibt offen. Ruard Tapper und Michel Drieux waren bereits seit Anfang der 1540er Jahre als Diözesaninquisitoren des Bistums Lüttich tätig, wurden aber erst am 6. Juli 1547 als Generalinquisitoren eingesetzt. Auch ernannte Karl V. erst am 27. Mai 1545 acht Unterinquisitoren; s. ^#/+Fühner,^#/- aaO, S. 336f und Anm. 623.<fe> demandatum est totum
+negocium; ex his quatuor sunt Hispani.
+Milites, qui in Alsatiam proficisci pararant, adhuc grassantur in Lotharingis.<f1>Siehe oben Nr. 2068, 11f und Anm. 12.<fe>
+Audit hinc pessime cęsar; verum nemo re quidpiam audet.
+^$Tandem libellus Lutheri<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> descriptus ex Argentina<f1>Zur Straßburger Abschrift des "Kurtz bekentnis", die Simon Steiner veranlasst hatte, s. oben Nr. 2064, 21-23 und Anm. 17.<fe> missus est; legi, et displicuit
+eius nimia immoderatio. Et ni vos sitis prudentiores, excitabit res ista magnum in ecclesia malum.
+^$Tantilla scribere permisit dolor oculorum. Vale in Christo cum piis omnibus.
+^$Basileę, 16. februarii anno 1545.
+<un>Tuus Os. Myconius.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo in domino suo. Zürich.
+</content>
+</letter>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2571">
+<brief>
+<id>16261</id>
+<nr>2571</nr>
+<ae>Bullinger an Johannes Haller</ae>
+<od>Zürich, 7. September 1546
+<fn>Ort, Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem eidem. Tiguro Augustam; 24. Sept. 1546.</i> - Vorliegender Brief traf mit einem nicht mehr erhaltenen Brief Bullingers vom 8. September am 18. desselben Monats in Augsburg ein; <qv>nr2596</qv>,<qv>zl16284-2</qv>.</fn></od>
+<vo>Abschrift von unbekannter Hand (17. Jh.)
+<fa><i>Mit Randbemerkung und Unterstreichungen von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 46, 593</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 134</k></dr>
+<re>Dank sei Gott für die bisherigen Erfolge der [Schmalkaldener]!
+<t/>Das Hauptanliegen von Hallers Brief [<qv>nr2560</qv>] ist die Berufung einiger Pfarrer [von Zürich nach Augsburg]. Die Anfrage ist legitim, auch wenn Zürich ein großes Gebiet mit Pfarrern zu versehen hat, die Zürcher Kirche im Vergleich mit anderen eher arm ist und ihr nicht so viele begabte Kräfte zur Verfügung stehen, dass sie auch noch andere damit versorgen könnte. Deshalb soll Haller darauf achten, dass mit den Kirchengütern [Augsburgs] ausgezeichnete Kräfte für den [lokalen] Kirchendienst ausgebildet werden. Darauf kommt es nämlich an!
+<t/>Haller soll sich jedoch keine Sorgen machen: Bullinger wird alles daran setzen, damit [die Augsburger] in Kürze einige Pfarrer erhalten.
+<t/>Gruß.</re>
+<text>
+<p>S. D. Gratias ago deo, qui hactenus nostris victoriam contulit! Is orandus est sedulo, ne caussam nostram deserat et ne suos in tentationem tradat.
+<fn>Mt 6, 13 par.</fn></p>
+<p><zzl>zl16261-1A</zzl>Praecipuum, quod tuae
+<fn>Brief <qv>nr2560</qv> vom 1. September.</fn> continent, est vocatio aliquot ministrorum.
+<fn>Die Bitte um Zürcher Pfarrer für Augsburg; s. <qv>nr2560</qv>,<qv>zl16250-26</qv>.</fn> Agnoscimus hic nihil iniqui vos postulare. Sed vide
+<fa><i>In der Vorlage</i> inde.</fa> in hoc totus sis, ut ex bonis ecclesiasticis alantur egregia quoque ingenia, quibus cura ecclesiarum demandari possit.
+<fn>Hier wird der in <qv>nr2560</qv>,<qv>zl16250-22</qv>, geäußerte Entschluss Hallers angesprochen, sich zugunsten einer Ausbildung lokaler Kräfte einsetzen zu wollen, damit die Bedürfnisse der örtlichen Kirche gedeckt werden können.<zfn>fn16261-1</zfn></fn> Habemus spatiosum agrum; opus est pluribus ministris. Pauperes sumus, si quis nos aliis conferat ecclesiis. Non sumus dotati
+<fa><i>In der Vorlage</i> alendo.</fa> tot ingeniis, quot nobis et aliis opus. Vide ergo, ut hic sis diligens.
+<fn>Siehe oben <qv>fn16261-1</qv>.</fn> In hac causa, mihi crede, rei cardo vertitur
+<fn>rei cardo vertitur: darauf kommt es an.</fn>.</p>
+<p>Attamen nolo
+<fa><i>In der Vorlage</i> volo.</fa> te in praesenti sollicitum esse.
+<fn>Nämlich was Hallers Anfrage betrifft.</fn> Ero in hoc totus,
+<fn>Gemäß der in <qv>nr2560</qv>,<qv>zl16250-23</qv>. <qv>zl16250-24</qv>, geäußerten inständigen Bitte.</fn> ut aliquot habeatis, et brevi quidem habeatis.
+<fn>Siehe dazu <qv>nr2573</qv>, <qv>fn16262-2</qv>.</fn><zzl>zl16261-1E</zzl></p>
+<p>Hisce vale.</p>
+</text>
+</brief>

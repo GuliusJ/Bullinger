@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2202">
+<nr>2202</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>25. Juli 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 223 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 175; Zit.: Friedrich Rudolf: Erstausgabe von Zwinglis Werken 1545, in: NZZ 16. und 17. Juni (Nrn. 941 und 946). ^&x{
+<re>Bullinger könnte die [deutschen] Werke Zwinglis dem Briefüberbringer Quirinus [von Leiden] oder Froschauer als Beiladung zu dessen Buchsendungen an den Buchbinder Peter [von Mechell] mitgeben. Bullinger soll ferner den Preis mitteilen.
+-^#. Es gibt keine Neuigkeiten vom [Wormser] Reichstag. [Karl V.] schickt sich an, Deutschland zu unterjochen, was die [deutschen] Papisten nicht wahrhaben wollen.
+-^#. Einem Gerücht zufolge soll König Ferdinand [I.] das Städtchen Thann einem Augsburger Kaufmann [Hans Paul und Hans Heinrich Herwart] verpfändet haben, was er nicht kann und auch nicht darf. Thann wird sich (da es wie Breisach eine Freistadt ist und über alte, kaiserliche Privilegien verfügt) zur Wehr setzen. Solche Rechte haben Breisach, Thann, Mulhouse, Rheinfelden, Säckingen, Laufenburg, Waldshut, usw. Mehr wird Bullinger von Quirinus [von Leiden] erfahren.
+-^#. Bullinger wird wohl wissen, dass Bucer gegen die Artikel der Löwener [Theologen] eine nicht sehr polemische Schrift ["Der newe glaub"] verfasst hat. Musculus hat in seiner ["In evangelistam Ioannem heptas prima"] den einen oder anderen Artikel geschickt widerlegt.
+-^#. Gast hofft, [von Bullinger] bald Luthers ["Kurtz bekentnis"] [zurück]zuerhalten. Er fürchtet, dass [die Lutheraner sich mit einem so harten Angriff] schützen, um bei den Einfältigen Eindruck machen zu können.
+-^#. Warum antwortet Bullinger nicht auf Gasts letzte Briefe?
+-^#. Den Gruß an Myconius und Bullingers Verwunderung, dass dieser nicht schreibt, hat Gast ausgerichtet; Myconius wollte Bullinger nicht mit Bagatellen stören.
+-^#. Falls Bullinger an Gilbert [Cousin] schreiben möchte, soll er wissen, dass dessen Bruder [Antoine?] nächste Woche [in Basel] sein wird. Gwalthers Brief für Cousin [nicht erhalten] hat Gast weitergeleitet. Bullinger soll Gwalther von Gast grüßen.</re>
+<tx>S. in domino.
+^$Opera Zvinglii<f1>Siehe dazu oben Nr. 2069, Anm. 30.<fe> vectori<f1>Siehe unten Anm. 20.<fe> poteris committere et de pretio cum eo statuere
+aut Christophoro Froschouero dicere, ut cum suis libris, quos Petro<f1>Peter von Mechell (alias Anerecht), geb. um 1507, gest. um 1568, aus Frankfurt, seit dem 24. Februar 1527 Mitglied der Safranzunft und seit dem 2. Mai 1527 Basler Bürger. - Lit.: Amerbach Korr. VIII 269, Anm. 10.<fe> compactori<f1>dem Buchbinder; s. Friedrich Karl ^#/+Kraft,^#/- Deutsch-lateinisches Lexikon, Bd. 1, Leipzig/Merseburg 1824, S. 542.<fe> mittere solet, eos includat,
+nam, ut quis hoc onere gravetur. Deinde peto, ut prętium indices.<f1>Gast hatte Bullinger bereits mehrmals nach dem Preis und der Anordnung der Werke Zwinglis gefragt; s. oben Nr. 2143, 7-12; Nr. 2188, 20f und Anm. 12.<fe>
+^$Novi nihil habemus de comitiis<f1>Der Reichstag zu Worms.<fe>. Caesar<f1>Karl V.<fe> in hoc est, ut Germaniam sub iugum mittat, quod tamen papistę olfacere nolunt.
+^$Rumor spargitur apud nos Dan<fx>^#/+In der Vorlage in Versalien:^#/- DAN.<fe><f1>Thann (Dép. Haut-Rhin, Elsass).<fe> oppidulum a Ferdinando<f1>König Ferdinand I.<fe> oppignoratum<f1>= oppigneratum.<fe> cuidam mercatori Augustano.<f1>Im Jahr 1545 überließ König Ferdinand I. den Augsburger Kaufleuten Hans Paul und Hans Heinrich Herwart die Herrschaft Thann (bestehend aus der Stadt Thann und dem Schloss Engelsburg) als Pfand. Die Herwart traten im Jahr 1557 Thann für 45'000 fl an Anton Fugger ab. Siehe Götz Freiherr ^#/+von Pölnitz^#/- und Hermann ^#/+Kellenbenz,^#/- Anton Fugger, Bd. 3/2, Tübingen 1986, S. 108f; Mark ^#/+Häberlein,^#/- Brüder, Freunde und Betrüger. Soziale Beziehungen, Normen und Konflikte in der Augsburger Kaufmannschaft um die Mitte des 16. Jahrhunderts, Berlin 1998 - Colloquia Augustana 9, S. 159; Amerbach Korr. VIII 226f, Anm. 6.<fe>
+Repugnabit<fx>^#/+In der Vorlage^#/- repugabit.<fe> oppidulum absque dubio, quum unum ex liberis oppidulis, in quo numero etiam est Brisacum<f1>Breisach am Rhein (Kr. Breisgau-Hochschwarzwald, Baden-Württemberg), Gasts Geburtsort; s. ^#/+Gast,^#/- Tagebuch 48. Breisach war 1275 unter Rudolf von Habsburg Reichsstadt geworden; s. Gerhard ^#/+Köbler,^#/- Historisches Lexikon der deutschen Länder, München ^#'61999, S. 85.<fe>,
+et ob privilegia antiqua olim a caesaribus data. Oppignorare illa oppidula Ferdinandus rex nec debet nec potest.<f1>Karl V. hatte in einer Urkunde von 1520 die Rechte der vier vorderösterreichischen Waldstädte Rheinfelden, Säckingen, Laufenburg und Waldshut bestätigt und zwei Jahre später die Regierung der deutschen Erblande seinem Bruder Ferdinand I. übergeben. In der Einsetzungsurkunde, in der die Abtretung mit der Größe des Reiches und der Notwendigkeit, nun auch Spanien zu regieren, begründet wird, werden die vier Waldstädte erwähnt; s. Karl ^#/+Schib,^#/- Die vier Waldstädte, in: Vorderösterreich. Eine geschichtliche Landeskunde, hg. v. Friedrich Metz, Freiburg im Breisgau ^#'42000, S. 238.<fe>
+Est Brisacum, Dan<f1>Thann hatte durch Herzog Rudolf IV. von Österreich seit 1360 Stadtrecht; s. Kleine Thanner-Chronik oder Jahr-Büchlein ... von einem P. Franciscaner in dem Obern Kloster allda, Mülhausen 1855, S. 22.<fe>, Milthusium<f1>Mulhouse (Mülhausen; Elsass, Dép. Haut-Rhin), Reichsstadt (vor 1268); s. ^#/+Köbler,^#/- aaO, S. 405.<fe>, Rinfelden<f1>Rheinfelden (Lkr. Lörrach, Baden-Württemberg) war nach dem Aussterben der Zähringer 1218 Reichsstadt geworden; s. HBLS V 608; ^#/+Schib,^#/- aaO, S. 227.<fe>, Seckingen,<f1>Säckingen (Baden-Württemberg) kam 1173 nach dem Aussterben der Grafen von Lenzburg unter die Oberherrschaft (Vogtei) der Grafen von Habsburg und erhielt vor 1250 Stadtrecht; s. ^#/+Köbler,^#/- aaO, S. 554.<fe> Louffenburg<f1>Laufenburg (Lkr. Waldshut, Baden-Württemberg) hatte 1315 das Stadtrecht erhalten und war 1408 an Österreich gefallen, das der Stadt alle Rechte und Freiheiten bestätigte; s. HBLS IV 615.<fe> et Waltzhuͦt<f1>Waldshut (Baden-Württemberg). Zu den Privilegien, die die Stadt während des 14. und 15. Jahrhunderts von den Habsburgern erhielt, s. Maria Veronika ^#/+Miltenberger,^#/- Zwischen Treue und Selbstfindung. Eine Annäherung an die frühe soziale Struktur der Stadt, in: Waldshut, die habsburgische und vorderösterreichische Stadt bis zum Übergang an Baden, Waldshut/Tiengen 2009 - Geschichte der Stadt Waldshut 1, S. 45-60.<fe>, etc.
+Quid pauperies, imo luxus et fastus non excogitat! Caetera a Quirino<f1>Quirinus von Leiden. Er erscheint öfter als Buchhändler und Briefüberbringer der Zürcher Prädikanten.<fe> nostro percipies.
+^$Contra Lavonienses<f1>= Lovanienses; die Löwener Theologen.<fe> Bucerum scripsisse et<fx>et ^#/+ist aufgrund von Beschädigung des Papiers kaum mehr lesbar.^#/-<fe> articulos illorum<f1>Zu den Artikeln der Löwener Theologen s. oben Nr. 2153, Anm. 6.<fe> parum refutasse<f1>Gast bezieht sich auf Bucers Schrift Der newe glaub von den Doctoren zuͦ Loͤven ... in xxxij. Articulen fürgegeben. Mit christlicher verwarnung dagegen durch die prediger zuͦ Straßburg, Straßburg, Wendelin Rihel, 1545 (BucerBibl, Nr. 146; VD 16 B 8902). Im gleichen Jahr erschienen zwei weitere Ausgaben: in Frankfurt am Main bei Hermann Gülfferich (BucerBibl, Nr. 147; VD 16 B 8901); in Augsburg bei Heinrich Steiner (BucerBibl, Nr. 148; VD 16 B 8900).<fe> haud ignoras,
+licet etiam Musculus in suis commentariis in Ioannem unum et alterum articulum dextre confutet.<f1>Wolfgang Musculus hatte gerade den ersten Teil seines Johanneskommentars herausgegeben: Commentariorum in evangelistam Ioannem heptas prima per Wolfgangum Musculum Dusanum, Basel, Bartholomäus Westheimer, 1545 (^#/+Wijnkoop Lüthi^#/- II,2,a/1; VD 16 M 7273). Die Vorrede datiert vom 23. Juni 1545. - Zu den hier angesprochenen Ausführungen Musculus' s. dort, S. 438f.<fe>
+^$Lutheri fanaticum libellum in ecclesias non solum Helveticas, sed etiam Suevicas scriptum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7. - Gast hatte sein Exemplar Bullinger am 5. Dezember 1544 geliehen; s. HBBW XIV 573, 1.<fe> spero me brevi habiturum.
+Timeo, ne ex industria ita tegant, quo ad tempus gloriari possint apud simplices.
+^$Verum heus tu, qui fit, quod nihil ad literas proxime missas<fx>^#/+Nach^#/- missas ^#/+in der Vorlage erneut^#/- nihil.<fe> respondes?<f1>Siehe dazu oben Nr. 2193, 2-7.<fe>
+^$Vale in domino cum omnibus tuis diu felix.
+^$<vl>223v.</vl> Myconio salutem nomine tuo dixi et te mirari, quod nih[il]<fx>^#/+Text hier und unten im engen Einband verdeckt.^#/-<fe> omnino scribat,
+significavi.<f1>Ein entsprechender Brief Bullingers an Gast ist nicht erhalten.<fe> Dixit se nullum habere argumen[tum] neque frivolis rebus velle tua studia interturbare.
+^$Si quid praet[erea] scribere vis add. Gilbertum<f1>Gilbert Cousin.<fe>, poteris; nam futura hebdomada e[ius] fratrem<f1>Vermutlich Antoine, ein Bruder von Gilbert Cousin, der sich wohl öfter in Basel aufhielt; s. HBBW XIV 324f, Anm. 3.<fe> expectamus.
+Literasd. Gvaltheri misi Gilberto,<f1>Briefe Gwalthers an Gilbert Cousin sind nicht bekannt. Wir danken Herrn Kurt Jakob Rüetschi für freundliche Auskunft.<fe> quem e[tiam] meo nomine salutabis.
+^$Vale et Gastium amare perge.
+^$Basi[leae], 25. iulii 1545.
+<un>Tuus G. ex
+<un>animo.
+<lz>[Adresse darunter:] Insigni theologod. Heinrycho Bullingero, fratri suo charissimo. Zürich.
+</content>
+</letter>

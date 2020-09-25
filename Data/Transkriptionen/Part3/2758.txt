@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2758">
+<brief>
+<id>17026</id>
+<nr>2758</nr> <from persid="CurioneCelio"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-01-18"/>
+<ae>Celio Secondo Curione an Bullinger</ae>
+<od>Basel, 18. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 83 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopien 18. Jh.: Basel UB, G^#'2 28a, 131v-132v, Nr. 9; Zürich ZB, Ms S 63, 35; Erw.: M. Kutter, Curione 296, Nr. 27</k></dr>
+<re><t>Curione weiß nicht genau, was über ihn an Bullinger mitgeteilt wurde. Jedenfalls haben seine Neider viel Falsches über ihn verbreitet.</t>
+<t>Die Angelegenheit verhält sich folgendermaßen: Curione wurde verurteilt, weil er sich mit einem Mädchen, das einwilligte, vergnügen wollte (es kam aber nicht dazu). Nach seiner Verurteilung zog er mit Erlaubnis seiner Obrigkeit nach Basel, um dort für sich zu sorgen. Über die Ratsherren [von Lausanne], die ihn freundlich behandelt haben, kann er sich nicht beklagen; doch über seine Neider (die auch Bullinger nicht mögen) schon. Diese hätten ihn leicht aus dieser Anstoß erregenden Lage retten können, zogen es aber vor, ihn ins Verderben zu stürzen. Doch genug davon! Curione hat sich Gott völlig anvertraut.</t>
+<t>Wegen des gewünschten Empfehlungsschreibens sei Bullinger unbesorgt. Curione hatte darum gebeten, um damit hauptsächlich seine Hochachtung für Bullinger zu bekunden, er braucht es aber nicht unbedingt. Es genügt, wenn Bullinger weiterhin für ihn betet und ihm gewogen bleibt.</t>
+<t>Das beiliegende Büchlein ["Pro vera et antiqua ecclesiae Christi autoritate oratio"] hat Curione in Basel veröffentlicht. Bullinger möge seine Meinung dazu schreiben. Vielleicht wird es ihm nicht so gut gefallen, zumal Curione es in einem traurigen Gemütszustand verfasste.</t>
+<t>Gruß, auch an Anna, [geb. Adlischwyler], und an die Kinder.</t>
+<t>Der aus Italien stammende Briefüberbringer [...] ist jüdischer Herkunft und christlichen Glaubens. Er spricht Hebräisch, Italienisch und Französisch, aber kaum Latein. Eine Zeitlang wohnte er bei Curione. Jetzt ist er auf dem Weg nach Italien, wo er vielleicht bleiben wird. Auf seiner Reise durch Zürich will er den wie er vom jüdischen zum christlichen Glauben bekehrten [Michael Adam] und auch Theodor Bibliander besuchen.</t>
+<t>Gruß.</t></re>
+<text>
+<div>
+<p>Salutem per Iesum Christum. <zzl>zl17026-1A</zzl>Quid tibi retulerit frater quidam
+<fn>Unbekannt.</fn>, Bullingere optime, nescio. Hoc scio meos invidos
+<fn>Siehe dazu <a>Kutter</a> 87f.</fn> multa de me
+<fa><i>Über der Zeile nachgetragen.</i></fa> sparsisse indigna et ab omni veritate aliena.<zzl>zl17026-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17026-2A</zzl>Causa mea
+<fn>Siehe <qv>nr2735</qv>,<qv>zl17004-4</qv> und <qv>fn17004-1</qv>.</fn> sic fuit: Iudicium de me
+<fa><i>Über der Zeile nachgetragen.</i></fa> factum est, quod cum puella quadam
+<fn>Unbekannt.</fn> ludere humanitus ipsa
+<fa><i>Nach gestrichenem</i> no.</fa> consentiente voluerim (nec perfecerim tamen)
+<fa><i>Dieses und das nächste Klammerpaar ergänzt.</i></fa>. Iudicio facto (ut in tali re fieri consuevit) bona cum venia meorum dominorum
+<fn>Die Ratsherren von Lausanne.</fn> huc
+<fn>Nach Basel.</fn> concessi, ut meis rationibus deo bene iuvante consulerem. Quare non de magistratu qu{e}ror, a quo sum humaniter tractatus cuique semper debere me plurimum fatebor, <zzl>zl17026-6A</zzl>sed de quibusdam meis invidis (qui etiam tibi non sunt amici), qui, cum huic scandalo occurrere possent tam facile quam manum vertere,
+<fn>Vgl. <a>Adagia</a>, 1, 3, 21 (<a>ASD</a> II/1 334-336, Nr. 221).</fn> me perdere maluerunt quam servare.<zzl>zl17026-6E</zzl> Sed de hac re conqu{e}ri amplius nolo. Deo enim omnia iam commendavi: famam, fortunas, vitam, qui omnium animos conscientiasque perspectas habet.<zzl>zl17026-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17026-3A</zzl>Quantum ad literas commendatitias, quas a te petebam,
+<fn>Mit <qv>nr2735</qv>,<qv>zl17004-3</qv>.</fn> nihil est, quod sis solicitus, enim
+<fa><i>In der Vorlage vor</i> enim <i>ein überflüssiges</i> eas.</fa> magis observantia quadam erga te mea id faciebam quam aliqua magna necessitate. Dominus enim, qui me tuendum suscepit, is me nunquam, scio, deseret; in quo spem meam omnem collocavi. Nihil igitur aliud superest, quam ut eundem pro me ores, ut hanc spem in me tueatur et adaugeat meque, ut semper fecisti, amare pergas.<zzl>zl17026-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17026-4A</zzl>Mitto ad te libellum nostrum quendam, quem hic {e}didimus nunc primum
+<fn>Es handelte sich um <i>Curione,</i> Pro vera et antiqua ecclesiae Christi autoritate in Antonium Florebellum Mutinensem oratio, Basel, Johannes Oporinus, 1547 (<a>VD16</a> C6434), die dem Berner Senat gewidmet war. Zum Inhalt der Schrift s. <a>Kutter</a> 109-118.<zfn>fn17026-1</zfn></fn> (qui, si minus tuo limatissimo iudicio satisfaciet, dabis id meo huic gravissimo, quo mirum in modum perturbatus fui, moerori)
+<fa><i>Klammern ergänzt.</i></fa>, et quid de eo censeas, aliquando rescribes.<zzl>zl17026-4E</zzl></p>
+</div>
+<div>
+<p>Vale per Christum Iesum et meo nomine uxorem
+<fn>Anna, geb. Adlischwyler.</fn> cum liberis
+<fn>Siehe <qv>nr2735</qv>, <qv>fn17004-3</qv>.</fn> saluta. Basile{e}, 18. ianuarii 1547.</p>
+</div>
+<div>
+<p><zzl>zl17026-5A</zzl>Hic frater
+<fn>Unbekannt.</fn>, qui hasce ad te perfert, natura Iudeus est, professione et recta fide christianus. Loqui tantum Hebraice, Italice et Gallice potest; vix Latine potest. Mecum fuit ad aliquot menses. Iam in Italiam proficiscitur. Libenter salutabit vestrum istum, quem isthic habetis, gentilem suum
+<fn>Michael Adam, der seit Juli 1538 in Zürich lebte und ab 1546 wieder für mehrere Monate in Zürich nachgewiesen ist, nachdem er sich eine Zeitlang in Straßburg aufgehalten hatte; s. <a>HBBW</a> VIII 156f, Anm. 1; <a>Pellikan, Chronikon</a> 172-174.<zfn>fn17026-2</zfn></fn> et d. Bybliandrum, quem tibi commendo. In Italiam se recipit, etiam rediturus deo volente.<zzl>zl17026-5E</zzl></p>
+</div>
+<div>
+<p>Iterum te saluto, mi dulcissime Bullingere. Saluta fratres istos optimos meo nomine.</p>
+<un>Tuus ex animo</un>
+<un>Coelius S. C. subscripsit.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Henrico Bullingero, antistiti Tigurin{e} ecclesi{e} et sanctissimo et doctissimo et vigilantissimo, suo observando. Tiguri.</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2709">
+<brief>
+<id>16396</id>
+<nr>2709</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-12-08"/>
+<ae>[Ambrosius Blarer] an Bullinger</ae>
+<od>[Konstanz], 8. Dezember [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 678 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 541f, Nr. 1377<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 126; Zit.: Pressel, Blarer 475f</k></dr>
+<re><t>Blarer hofft, dass Bullinger die zwei durch seinen Schwager Gregor von Ulm auf [Schloss] Wellenberg nach Attikon übermittelten Briefe [<qv>nr2690</qv> und <qv>nr2698</qv>] erhalten hat.</t>
+<t>Er hat sonst nichts Neues zu berichten. Der Graf [Wilhelm] von Nassau soll laut einem zweifelhaften Gerücht die dem Landgrafen [Philipp von Hessen] gehörende [Grafschaft] Katzenelnbogen eingenommen haben.</t>
+<t>Angeblich befindet sich der Pfalzgraf [Friedrich II.] bei Kaiser [Karl V.]. Das verspricht nichts Gutes.</t>
+<t>Ein vornehmer Württemberger [...] hat Blarer erzählt, dass sich Herzog [Ulrich von Württemberg] mit dem Kaiser aussöhnen will, wenn er seinen Glauben behalten dürfe. Man hofft, dass es nicht stimmt, obwohl manches dafür spricht.</t>
+<t>Im bayerischen München sind an die 1'000 neapolitanische Reiter für den Kaiser eingetroffen. Es sollen noch einmal so viele kommen. Der Kaiser stärkt sich und lässt neue Truppen ausheben.</t>
+<t>Anbei ein Brief [Georg] Frölichs mit der Bitte um Rücksendung. Dieser hat vielleicht Ähnliches an Bullinger geschrieben.</t>
+<t>Ach, wie gefährlich ist doch die Lage, besonders für Konstanz und für viele andere Städte! Gott hat gezeigt, welche Folgen es hat, wenn man seine Hoffnung und sein Vertrauen auf die Fürsten setzt: Dann wird nämlich nichts ausgerichtet, sondern nur noch größere Gefahr heraufbeschworen! Den Menschen wird es langsam bange. Deshalb spürt man bei ihnen ein größere Bereitschaft, ihr Leben zu verbessern und auf Gottes Hilfe zu zählen.</t>
+<t>Bullinger weiß sicher, dass Nördlingen sich widerstandslos dem Kaiser ergeben hat. Von dort aus kann dieser den [Schmalkaldenern] leicht nachsetzen.</t>
+<t>Der Konstanzer Rat hat eine einprozentige Steuer auf liegendes und fahrendes Vermögen erhoben und beim Lohn jeden erhaltenen Florin mit einem Kreuzer besteuert. Wer nichts hat, muss zwei Batzen geben.</t>
+<t>Grüße, auch von [Thomas Blarer] und K[onrad] Z[wick]. Grüße auch an die Ratsherren und Freunde.</t></re>
+<text>
+<div>
+<p><zzl>zl16396-1A</zzl>Furgeliepter herr und br{uo}der, ich hab euch yetz zway mal brieff
+<fn>Gemeint sind die Briefe <qv>nr2690</qv> vom 24./25. November und <qv>nr2698</qv> vom 1. Dezember; vgl. schon <qv>nr2698</qv>,<qv>zl16386-4</qv>.<zfn>fn16396-2</zfn></fn> durch minen lieben schwager Goriusen von Ulm
+<fn>Gregor von Ulm, der Bruder von Blarers kürzlich verstorbenem Schwager Heinrich von Ulm.</fn> z{uo} Wellenberg
+<fn>Schloss Wellenberg, Gemeinde Felben-Wellhausen (Kt. Thurgau); s. <qv>nr2698</qv>, <qv>fn16386-3</qv>.</fn> uff Attika
+<fn>Attikon (Kt. Zürich). - Zur Lage der Ortschaft s. <qv>nr2635</qv>, <qv>fn16325-5</qv>.</fn> z{uo}geschickt.<zzl>zl16396-1E</zzl> Hoffen euch worden sein.</p>
+</div>
+<div>
+<p>Hab euch nichts newes ze schriben, dann das ir vorhin wisst. <zzl>zl16396-3A</zzl>Es ist her geschriben, der grauff von Nassauw
+<fn>Blarer denkt hier vermutlich an Wilhelm den Reichen von Nassau-Dillenburg, zu dessen Linie ursprünglich die Grafschaft Katzenelnbogen (Nassau-Dillenburg) gehörte.</fn> solle dem landtgrauffen
+<fn>Philipp von Hessen.</fn> Katzenelenbogen eingenomen haben.
+<fn>Nachdem die Grafschaft Katzenelnbogen 1479 an Hessen gefallen war, kam es diesbezüglich seit 1500 zu einem Erbfolgestreit zwischen Hessen und Nassau-Dillenburg, der bis 1557 andauerte. - In <a>NBD</a> IX 385, Nr. 118 (vom 10. Dezember), wird gemeldet, dass Maximilian von Egmont, Graf von Büren, die Grafschaft zurückerobern wolle, und in <a>LP</a> XXI/2, Nr. 624 (vom 27. Dezember 1546), wird berichtet, dass von Büren mit seinen Truppen dort eingetroffen sei. Am 22. Dezember hatte er tatsächlich Darmstadt besetzt; s. <qv>nr2706</qv>, <qv>fn16394-1</qv>.<zfn>fn16396-3</zfn></fn> Aber doch will man noch etwas daran zwyflen.<zzl>zl16396-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16396-4A</zzl>So soll der pfaltzgrauff
+<fn>Kurfürst Friedrich II. von der Pfalz.</fn> by dem kaiser
+<fn>Karl V.</fn> sein.
+<fn>Schon Anfang November hatte Friedrich II. Gesandte zum Kaiser geschickt, um eine Audienz zu erwirken, was jedoch abgelehnt wurde. Ende November zog Friedrich dem Kaiser entgegen, um eine Audienz zu erzwingen. Am 10. Dezember kam es in Ellwangen (Ostalbkreis, Baden-Württemberg) zu einem Treffen mit Nicolas Perrenot, Herrn von Granvelle, und Johann von Naves; am 19. und 20. Dezember erfolgten schließlich zwei Audienzen beim Kaiser in Schwäbisch-Hall, bei denen sich Friedrich unterwarf und begnadigt wurde; s. <a>Hasenclever, Kurpfalz</a> 125f. 139-153.<zfn>fn16396-1</zfn></fn> Hat man nit f{ue}r g{uo}t.<zzl>zl16396-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16396-5A</zzl>Ouch hat mir ain furnemer
+<fn>Unbekannt.</fn> ausß dem land Wirtemberg anzögt, er seye glouplich bericht, das sich der hertzog
+<fn>Ulrich von Württemberg.</fn> mitt dem kaiser vertragen welle, so er by seiner religion belyben m{oe}ge. Wir hoffen aber, es seye nitt war, wiewol man ettlich verm{uo}tungen hat usß ursachen.
+<fn>Wohl weil der Herzog den Landgrafen in Stuttgart weder empfangen noch dem Kurfürsten Johann Friedrich von Sachsen Geld leihen wollte, und zudem schon seit Anfang Dezember in Verhandlungen mit dem Kaiser vermittels Hans von Brandenburg-Küstrin stand; s. <a>Viglius van Zwichem</a> 254; <a>Heyd, Ulrich von Württ.</a> III 433. 454-465.<zfn>fn16396-4</zfn></fn><zzl>zl16396-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16396-6A</zzl>Z{uo} Mynchen in Bayern sind ob
+<fn>über, etwa.</fn> 1'000 neapolitanischer reuter dem kaiser zukommen.
+<fn>Zu diesen Reitern s. <qv>nr2689</qv>,<qv>zl16376-7</qv> mit <qv>fn16376-3</qv>; <qv>nr2701</qv>,<qv>zl16389-12</qv>.<zfn>fn16396-5</zfn></fn> Und sollen ir
+<fn>deren.</fn> noch so vyl komen.<zzl>zl16396-6E</zzl> <zzl>zl16396-7A</zzl>Er sterckt sich ouch sonst allenthalb her
+<fn>allenthalb her: von überall.</fn>, und schlecht man dem kaiser um
+<fn>man schlecht um: man trommelt Söldner zusammen; s. <a>SI</a> IX 372.</fn>, dann er wyll ain frisch volck
+<fn>ain frisch volck: neue Truppen.</fn> machen.<zzl>zl16396-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16396-8A</zzl>So schick ich euch hiemitt des L{e}ti brieff
+<fn>Dieser Brief Georg Frölichs an Blarer findet sich nicht in <a>Blarer BW</a>.</fn>. Den schickt mir widerum. Hats euch vyllicht alles selbs geschriben.
+<fn>Frölich hatte am 4. Dezember tatsächlich an Bullinger geschrieben (<qv>nr2700</qv>).</fn><zzl>zl16396-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16396-9A</zzl>Ach, myn lieber her und br{uo}der, wie stond die sachen so gar gefarlich! Es sytzend warlich wir und vyl stett in ainem grossen führ
+<fn>Feuer. - Vgl. <a>Wander</a> I 994, Nr. 40: "Die beim Feuer sitzen, kriegen den Rauch und müssen schwitzen." Es könnte hier auch eine Anspielung auf Dan 3, 19-28 vorliegen (vgl. <qv>nr2695</qv>,<qv>zl16382-6</qv>).</fn>, und ist die fahrlichait
+<fn>Gefahr.</fn> grosß. <zzl>zl16396-2A</zzl>Gott hat uns ja wol sechen lassen, das man z{uo} vyl vertrauwen in fursten und grosse macht gesetzt,
+<fn>Vgl. schon <qv>nr2690</qv>,<qv>zl16383-6</qv>.</fn> darum man ouch nichts ussgericht, sonder sich in noch gr{oe}sser fahrlichait gesteckt hat,<zzl>zl16396-2E</zzl> wiewol ich mich yetz in disem fal vyl mehr g{uo}ts z{uo} der getruwen hilff und gwaltigen hand gottes versechen kan
+<fn>ich mich versechen kan: ich erwarten kann.</fn>. Dann es facht an den leuten das wammes
+<fn>Wams, eng anliegendes Kleidungsoberteil; s. <a>SI</a> XV 1731-1734.</fn> gantz eng werden,
+<fn>Die Redewendung ist in <a>Grimm</a> XXVII 1466 belegt. Gemeint ist: den Leuten wird langsam vor Angst die Kehle zugeschnürt.</fn> und wurt mehr ernst gespürt dann bysanher. Wann man denn spuren wirt, alles mitt menschen hilff verloren sein, wirt man sich des lieben gotts hilff dester mehr getr{oe}sten und in mitt ernst und bessrung des lebens anr{ue}ffen.<zzl>zl16396-9E</zzl></p>
+</div>
+<div>
+<p>Ir wisst wol, das der kaiser Närlingen
+<fn>Nördlingen.</fn> hat ingenomen. Das hat sich on allen widerstand ergeben.
+<fn>Zur Ergebung Nördlingens s. <qv>nr2700</qv>, <qv>fn16388-5</qv>.</fn> Von dannen kan er den unsren gar wol nachsetzen.</p>
+</div>
+<div>
+<p><zzl>zl16396-10A</zzl>Der gmain pfenning ist by unß angelegt vom hundert hoptg{uo}ts 1 fl., es seye ligends oder farends, hausrat, klainet
+<fn>wertvolle Gegenstände; s. <a>SI</a> III 655. - Unter Berufung auf den Beschluss einer außerordentlichen Besteuerung durch den Schmalkaldischen Bund (ein Beschluss, der von den anderen Verbündeten jedoch nicht umgesetzt wurde; s. <qv>nr2691</qv>, <qv>fn16378-2</qv>) ordnete der Konstanzer Rat Anfang Dezember eine Besteuerung aller Bürger an, um damit die Freiheit der Stadt gewährleisten zu können; s. <a>Konstanz</a> 132, wo von einer einprozentigen Steuer auf liegendes und fahrendes Vermögen die Rede ist, jedoch die weiter unten im vorliegenden Brief gemachten Angaben nicht bekannt sind.<zfn>fn16396-6</zfn></fn>, etc., vom dienstgelt ye vom guldin
+<fn>D.h. ein Florin.</fn> 1 crutzer
+<fn>Ein Kreuzer entsprach 0,25 Batzen bzw. 0,016 Florin; s. <qv>nr2607</qv>, <qv>fn16295-14</qv>.</fn>. <fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>Wer nichts hat, gibt 2 batzen
+<fn>Damals war der Batzen 4 Kreuzer oder etwa 1/15 = 0,066 Florin wert; s. <qv>nr2607</qv>, <qv>fn16295-14</qv>; <qv>nr2697</qv>, <qv>fn16384-8</qv>.</fn><fa1e von="1"/>.<zzl>zl16396-10E</zzl></p>
+</div>
+<div>
+<p>Gott mitt euch! Den bittend hertzlich f{ue}r unns. Es gr{ue}tzt euch sehr fruntlich min lieber br{uo}der
+<fn>Thomas Blarer.</fn>, ouch vetter C[onrad] Z[wick]. Datum in yl, den 8. decembris. Gr{ue}tzt all g{uo}t herrn und frund.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Incomparabili viro Heinricho Bullingero, Tiguri, amico suo summo.</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="35061">
+<nr>35061</nr>
+<correspondents>
+	<originator>Pomponne de Bellièvre</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>8. (Juni) 1565</date>
+</space_time>
+<vo>Zürich StA, E II 378, 1724.</vo>
+<dr>Gr. II, S. 616.</dr>
+"Fabricio ad vos proficiscenti non sum ausus nihil literarum dare.
+Quid porro est, quod homo eloquens hac mea epistola disertius non expressisset? Amorem certe
+erga te meum constantem ac singularem .  . . . .  Ego tam certo homini nonulla(sic?) communicavi, quae vix epistolae commisissem.
+Tu si quid penitius erueris, quod
+tuo commodo fiat, amabo, facias me certiorem.
+Scire cupio, quid de Palatino audias."
+Curiae, 8. maii 1565.
+</content>
+</letter>

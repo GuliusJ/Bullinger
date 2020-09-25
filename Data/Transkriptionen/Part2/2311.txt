@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2311">
+<nr>2311</nr>
+<correspondents>
+	<originator>Francesco Negri</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Sils [im Domleschg]</place>
+	<date>24. Dezember 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2080 (ohne Siegel)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 167; Erw.: Schieß, Rhetia, eine Dichtung aus dem 16. Jahrhundert von Franciscus Niger aus Bassano, 1895/96, S. 10 (Anm. 28) ^&x{
+<re>Der Überbringer des vorliegenden Briefs [Bruder Gabriele]<f1>Vgl. oben Nr. 2307. - Der Schullehrer Negri hat Gabriele vermutlich auf dem langen Weg von Chiavenna (Negris damaligem Wohnort) bis Sils (1,5 km nördlich von Thusis) begleitet. - Zu Negri s. Jan-Andrea ^#/+Bernhard,^#/- Francesco Negri zwischen konfessionellen und geographischen Grenzen, in: Zwa 47, 2010, 81-115.<fe>, der nicht nur besonders begabt, sondern auch ein tapferer Bekenner des Herrn Jesus Christus ist und deshalb verfolgt wird, soll Bullinger und seinen Kollegen empfohlen sein. Sie sollen ihm helfen.
+-^#. Der Glaubensflüchtling Petrus Franciscus Rizardus aus Meran [Südtirol], derzeit Prediger in Thusis [im Domleschg], lässt grüßen.</re>
+<dra>[Gedruckt: Graubünden, Korr. I 91f, Nr. 66.]</dra>
+^&x<tx>Domino Heinricho Bulingero Franciscus Niger S.
+^$Is<f1>Wohl Fra Gabriele Benedetti/de Benedictis von Morcote (von Renato und Maturo am 19. und von Blasius am 25. Dezember weiter empfohlen).<fe>, qui meas tibi literas reddidit, non suo tantum nomine, ut qui virtute non vulgari sit praeditus,
+commendabilis est, verum etiam cognitione domini nostri Iesu Christi atque evangelii professione syncera,
+ob quam etiam nunc persecutionem patiens ad vos venit.
+Eum et tibi, humanissime Bulingere, et caeteris omnibus istic fratribus ita commendatum velim,
+ut, quacunque in re opera vestra opus habuerit, quae vestra benignitas est, huic adsitis.
+Ex ipso autem scietis, quibus peculiariter indigeat, quae tamen omnia ad promovendam
+gloriam Christi potius quam ad ipsius commoditatem conservandam faciunt.
+Vale in domino ac me fratribus omnibus commenda.
+^$Siltii, 24. decembris 1545.
+^$Petrus Franciscus Rizardus, qui Merona<f1>Meran.<fe> exul ob nomen domini nostri Iesu Christi
+nunc Tusanae<f1>Thusis.<fe> concionatorem agit, cupit se tibi ac reliquis istic fratribus commendatum.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bulingero, verbi dei ministro plurimum observando. Tiguri.^&x{
+</content>
+</letter>

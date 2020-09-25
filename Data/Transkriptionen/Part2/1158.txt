@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1158">
+<nr>1158</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>12. August 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 87 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Empfiehlt [Rudolf Gwalther] und bittet, Grynäus an sein Versprechen zu erinnern.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Venit ad te, Myconi mi, puer<f1>Rudolf Gwalther; vgl. oben Nr. 1152, 5-10.<fe> ille meus adeoque et filius,
+quem, obsecro, sub disciplinam et fidem tuam suscipere velis
+et per omnia cum eo agere, ac si tuus esset. Amo eum propter
+animi dotes et integritatem animi. Proinde mihi putabis
+impensum, quicquid isti impenderis. Grynaeum quoque nomine
+meo orabis, ut eorum suo tempore meminerit, quae de puero hoc
+ad me perscripsit<f1>Siehe oben Nr. 1146, 1-10.<fe>. Quod si quid illi ad usus necessarios mutuo dederis, ego rependam.
+Reliqua ipse explicabit.
+^$Vale et me ama.
+^$12. augusti anno 1538.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Osvaldo Myconio,
+plane suo.
+</content>
+</letter>

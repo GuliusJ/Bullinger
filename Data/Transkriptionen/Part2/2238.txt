@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2238">
+<nr>2238</nr>
+<correspondents>
+	<originator>Gerhard Westerburg</originator>
+	<addressee>^$^$^$^$Bullinger</addressee>
+	<addressee>Konrad Pellikan</addressee>
+	<addressee>Theodor Bibliander</addressee>
+	<addressee fn=1>^$^$^$^$[Kaspar Megander]</addressee>
+	<addressee>Rudolf Gwalther</addressee>
+	<addressee>Otto [Werdmüller] ^$^$^$^$und Johannes [Wolf]</addressee>
+	<note fn=1>Im Autograph irrtümlich als Melager bezeichnet.</note>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>8. September 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2073 (Siegelabdruck)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 32; Übersetzung: Steitz, Westerburg, in: Archiv für Frankfurts Geschichte und Kunst 5, 1872, 192f; vergleiche auch 196ff sowie W's Abendmahlsabhandlung (Zürich ZB, Ms F 62, 152ff). ^&x{
+<re>Seit seiner Abreise aus Zürich hat Westerburg sich nur in Straßburg aufgehalten und dort seine [zwei Schriften]<f1>Aus unten Nr. 2266 geht hervor, dass zwei Schriften nach Zürich übermittelt wurden. In Frage kommen folgende drei Titel: "An die weltlichen stende ... des löblichen Cöllschen Ertzbischtumbs von sachen so zwischen dem ... Ertzbischoffen von Cöllen und dem ... Thumcapitel christlicher Religion halben erhaben"; "Von dem anbetten des H. Sacraments ein kurtzer Bericht"; und "Von dem grossen Gottes dienst der löblichen Statt Cöllen". Die drei Schriften tragen im Kolophon die Angabe "Gedruckt zu Straßburg durch Wendel Rihel". Sie sind in ^#/+Schlüter,^#/- Streitschriften, Nr. 177-179, beschrieben, jedoch irrtümlich (s. auch aaO, S. 131) der Druckerei des Laurenz von der Mülen in Bonn zugewiesen, was aufgrund des vorliegenden Briefes zu korrigieren ist.<fe> drucken lassen, von denen er nun [Exemplare] übersendet. Die Texte der Fassungen, die die [Zürcher] einsehen konnten, sind völlig neu bearbeitet. Sollten die Zürcher diese Schriften als nützlich für die Kirche betrachten, dürfen sie diese nach Bedarf in der "helvetischen Sprache" oder auf Latein für die Eidgenossen, die Italiener oder die Franzosen in Zürich nachdrucken lassen, ja sogar neu bearbeiten.
+-^#. Der Kölner Bischof [Hermann von Wied] wird vom Kaiser [Karl V.] hart bedrängt. Ihm droht der Verlust seines Bistums. Innert 30 Tagen soll er sich in Brüssel stellen und seine Verbrechen, mit denen er die römische Kirche beleidigt hat, abbüßen. Auch hat ihn der Papst [Paul III.] nach Rom zitiert, wo er innert 60 Tagen erscheinen soll. Ihm wurde mit Exkommunikation gedroht. Unterdessen lässt der Bischof durch Gesandte an alle evangelische Fürsten Rat einholen.
+-^#. [Im Elsass] werden Truppen geworben. Sie könnten wohl für den Kaiser bestimmt sein, zumal sie sich im Bistum Trier versammeln, dessen Bischof [Johann IV. Ludwig von Hagen] ein großer Papist ist.
+-^#. Der Überbringer dieses Briefes, Ludolph [Maninga]<f1>Ludolph (Lütet) Man(n)inga von Lütetsburg war vom 21. Oktober 1545 bis zum 7. Januar 1546 zu Gast bei Pellikan, der ihn gratis beherbergte, weil Ludolph "pauper und exul" war; s. ^#/+Pellikan,^#/- Chronikon 172. Laut Pellikan war Ludolph Bruder eines Hayo Maninga. Hayo (Hoyko oder Haiko; gest. 1568) war Häuptling von Pewsum und Oldersum und Bruder von Unico Maninga (gest. 1588). Der junge Ludolph starb bereits 1548 in London; s. Jahrbuch der Gesellschaft für bildende Kunst und vaterländische Altertümer zu Emden 14, 1902, 401f, Anm. 1.<fe> aus dem ostfriesischen Hochadel, würde gerne bei Pellikan untergebracht werden, da sein polnischer Freund Johannes [Mączyński schon dort wohnt].
+-^#. Grüße.
+-^#. Westerburg hat [Maninga] viel zu verdanken.</re>
+<dra>[Gedruckt: Briefe und Documente aus der Zeit der Reformation im 16. Jahrhundert nebst Mittheilungen über Kölnische Gelehrte und Studien im 13. und 16. Jahrhundert, hg. v. Karl und Wilhelm Krafft, Elberfeld [1875], S. 87f. - Übersetzung: Georg Eduard ^#/+Steitz,^#/- Dr. Gerhard Westerburg, der Leiter des Bürgeraufstandes zu Frankfurt a. M. im Jahre 1525, in: Archiv für Frankfurts Geschichte und Kunst 5, 1872, 192f.]</dra>
+^&x<tx>Gratia Iesu Christi, redemptoris nostri, sit cum vobis omnibus. Amen.
+^$Notum sit vobis, fratres charissimi, me post abitum meum ad hanc horam usque Argentine remoratum fuisse
+propter exemplaria quedam imprimenda, que et impressa vobis mitto legenda et examinanda.
+Multa enim mutavi, multa addidi, plurima dempsi, ita ut alii libri videri vobis possint ab illis, quos vos legistis.
+Spero hec omnia profutura esse in utilitatem ecclesie Christi.
+Si hec mea scripta vel Helvetiis, vel Italis et Gallis prodesse poterunt, possitis vos mea permissione vel Helvetica li[n]gua
+vel Latina vertere atque mutare, addere et demere, prout vobis ecclesiarum utilitati consultum videbitur.
+^$Episcopus Coloniensis valde urgetur ab imperatore, qui illum iussit ad papisticam religionem, superstitionem puto, redire
+vel ipsum privaturum episcopatu, et si papa non esset, ipsum tamen in hac re se prestaturum ea, que decent, obedientem filium Romane ecclesię.
+Episcopus citatus est ab imperatore Brusellam, ut purget se de criminibus Romane ecclesie illatis intra spacium triginta dierum;
+papa eciam illum Romam citavit, ut compareat intra spacium 60 dierum vel excommunicaturum post.
+Episcopus ad omnes principes <vl>2073v.</vl> evangelicos legatos misit pro consilio; alias ipse eciam est constantissimus in fide christiana.
+^$Hic colliguntur ubique milites; sed nescitur, in quem usum. Quidam dicunt imperatoris, quod ego eciam facile credo
+propter quedam indicia; nam congregantur in episcopatu Trevirensi, cuius episcopus est summus papista.
+^$Qui has adfert litteras, est nobilis iuvenis Ludolphus nomine<f1>Ludolphus (Lutet) Maninga/Manninga "a Lutisberg" (^#/+Pellikan,^#/- Chronikon 172). Er starb 1548 in London an der Pest; s. Jahrbuch der Gesellschaft für bildende Kunst und vaterländische Altertümer zu Emden, Bd. 14, Emden 1902, S. 401f, Anm. 1.<fe> et de prima nobilitate nostre Frisie Orientalis,
+bone indolis, probus, honestus; quem vobis commendatum esse velim et optarem, si fieri posset,
+ut cum domino Pellicano hospitaretur<f1>Ludolphus Maninga war Pellikans Gast vom 21. Oktober 1545 bis 7. Januar 1546 (^#/+Pellikan,^#/- Chronikon 172).<fe>, nam Polono suo Iohanni<f1>Johannes Mączyński, seit 23. Juli 1545 bei Pellikan (^#/+Pellikan,^#/- Chronikon 171).<fe> est notissimus.
+^$Hiis valete, fatres, per Christum dominum et salutate meo nomine uxores vestras, filios, filias et fratres omnes.
+^$Datum Argentine anno 1545. 8. septembris.
+<un>Gerhardus Westerburgus,
+<un>d. Coloniensis, vester
+<un>per Christum dominum totus.
+<lz>Frisius hic nobilis multa in me contulit beneficia; quare denuo illum vobis commendatum velim.
+<lz>[Adresse unten:] Egregiis ac piis viris domino Henrico Bullingero, Conrado Pellicano, Bibliandro, Melagro<f1>Kaspar Megander, gestorben am 17. August 1545 (HBD 33, 3f).<fe>, Waltero<f1>Rudolf Gwalther.<fe>, Othoni<f1>Otto Werdmüller.<fe>, Johanni<f1>Johannes Wolf.<fe>, concionatoribus Tigurine ecclesie ac fratribus dilectissimis. Tiguri.^&x{
+</content>
+</letter>

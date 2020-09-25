@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2442">
+<brief>
+<id>16129</id>
+<nr>2442</nr>
+<ae>Sixt Birck an Bullinger</ae>
+<od>Augsburg, 9. Mai [1546]
+<fn>Der Brief kann erst nach der im November 1545 geschlossenen Bekanntschaft Bircks mit Johannes Haller (vgl. <a>HBBW</a> XV 651, 45f) geschrieben worden sein. Da die Bekanntschaft hier noch frisch ist (s. unten Z. <qv>zl2442-1</qv>; vgl. auch <qv>nr2322</qv>), gehört der Brief gewiss nicht erst in das Jahr 1547. Zudem übermittelt Haller in einem Brief an Bullinger vom 11. Mai 1547 (Zürich StA E II 359, 2812) Grüße von Birck, was zu der Vermutung führt, dass Birck selbst wohl kaum zwei Tage vorher (also am 9. Mai 1547) an Bullinger geschrieben haben wird.</fn></od>
+<vo>Autograph: Zürich StA, E II 346, 190 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 84 ─ Xystus Betuleius=Sixt Birck</k></dr>
+<re>[Johannes] Haller richtet jeweils Bullingers brieflich übermittelte Grüße aus; ein Zeugnis von Bullingers Sympathie für Birck! Ferner ist dieser für Bullingers Ermahnung ["Oratio de persecutione ecclesiae"?] dankbar gewesen. Er, dem die scholastischen Unannehmlichkeiten [seiner Kollegen] zusetzen, wurde nämlich durch Bullingers Ermahnung gestärkt.
+<t/>Haller erfreut sich bei den [Augsburgern] einer zunehmenden Beliebtheit, so dass Zürich in Augsburg bereits einen besseren Ruf genießt. Sogar [Hallers frühere] Neider beginnen, sich enger an ihn anzuschließen.
+<t/>Grüße an die Schul- und Kirchenverwalter.</re>
+<text>
+<p>S. in domino, reverende pater. Hallerus noster, quoties ex Tyguro literas accipit, salutem ex te officiosam mihi dicere solet.
+<fn>Vgl. etwa <qv>nr2322</qv>,<qv>zl2322-1</qv>.</fn> Unde colligo singularem quandam tuam erga me benevolentiam. <zzl>zl2442-2A</zzl>Ago tibi gratias pro fideli ista tua cohortatione
+<fn>Bullingers "Oratio de persecutione ecclesiae"; s. <qv>nr2406</qv> und <qv>fn2406-11</qv>.</fn>, qua firmas animum meum saepe sub molestia scholastica
+<fn>Anspielung auf die Lehrmeinungen der Lutheraner in Augsburg.</fn> nutantem.<zzl>zl2442-2E</zzl> Ora dominum, ut tolerandis iis
+<fn>Anspielung auf die lutherisch gesinnten Amtskollegen in Augsburg.</fn> vires suppeditet.</p>
+<p><zzl>zl2442-1A</zzl>Hallerus magis atque magis nobis adlubescit<zzl>zl2442-1E</zzl> propter admirabiles istius dotes, quas divinitus largissimas accepit. Nomen Tygurinum propter ipsum iam melius apud nostros incipit audire, quod antehac a multis non sine animi offensione audiebatur
+<fn>Vgl. z.B. <qv>nr2327</qv>,<qv>zl2327-6</qv>.</fn>. Quid quod aemuli
+<fn>Zu Hallers Neidern s. schon <qv>nr2322</qv>,<qv>zl2322-2</qv>.</fn> quoque iam ipsius incipiunt familiarius se illi adiungere?</p>
+<p>Vale tibi, tuis et tuae ecclesi{e} quam felicissime. Augusta Vindelicorum, 9. maii. Scholarum et ecclesi{e} administratoribus vicissim meis verbis salutem dicito.</p>
+<un>Tuae dominationis studiosissimus X. Betul.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Sanctissimo doctissimoque viro d. Heinricho Bullingero, Tygurinae ecclesiae antistiti bene merito, domino et amico suo praecipuo.</p>
+</text>
+</brief>

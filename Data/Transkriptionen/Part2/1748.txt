@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1748">
+<nr>1748</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>30. Mai 154[3]</date>
+	<note>Der vorliegende Brief ist zweifelsfrei zwischen Nr. 1747 und 1754 einzureihen; vgl. unten Z. 1-5 mit Anm. 3-5.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 280 (Siegelabdruck)</vo>
+^&xZürich ZB, Ms S 52, 211^&x{
+<dr>Zusammenfassende Übersetzung: Blarer BW II 184, Nr. 1011</dr>
+<re>Übersendet einen Teil einer Schrift Bucers ["Was im namen des heiligen evangeli ... zuͦ Bonn ... gelehret unnd geprediget würdt"], den Bullinger wieder zurücksenden soll, der zweite Teil folgt nach; man sollte sich mit Bucers Lehre zufriedengeben, wenn man die Situation bedenkt, in der er sich [im Erzbistum Köln] befindet, auch wenn er manches - wie er selbst zugeben würde - deutlicher hätte ausdrücken können. Bitte um göttlichen Beistand; Grüße.</re>
+<tx>S. Quandoquidem non eum, quem putabam, nuncium<f1>Unbekannt.<fe> nactus
+sum 24. maii<f1>Am 24. Mai hatte Blarer einen Brief an Bullinger geschrieben (oben Nr. 1747).<fe>, mitto partem libelli, quem Bucerus ędidit<f1>Gemeint ist offenbar Bucers Schrift "Was im namen des heiligen evangeli unsers herrenn Jesu Christi jetzund zuͦ Bonn im stifft Cöllen gelehret unnd geprediget würdt", Marburg (Hermann Bastian) [Bonn (Laurenz von der Mülen)] 1543 (BucerBibl 127), um deren Zusendung Blarer Konrad Hubert am 7. Mai gebeten hatte (Blarer BW II, Nr. 1007; Verdankung der Übersendung in Blarer BW II, Nr. 1016).<fe>
+quemque diebus hisce legere licuit<fx>^#/+Von^#/- quemque ^#/+bis^#/- licuit ^#/+am
+Rande nachgetragen.^#/-<fe>, posteriorem
+quoque, quę tribus quaternionibus hanc superat, missurus,
+ubi legero, tuque alteram hanc, quam nemo alius legit,
+remiseris.<f1>Blarer sandte Bullinger den zweiten Teil der Schrift am 15. Juni; vgl. unten Nr. 1754, 15-20.<fe> Nullum hic est aliud exemplum, quinetiam
+Argentorati unum adhuc reliquum est. Boni, puto, boni
+consulent hanc Buceri nostri doctrinam, praesertim ubi
+diligentius locum atque eos, quibuscum<fx>cum ^#/+über der Zeile nachgetragen.^#/-<fe> res<fx>^#/+Vor^#/- res ^#/+gestrichenes^#/- nunc.<fe> illi nunc<fx>nunc ^#/+über der Zeile nachgetragen.^#/-<fe> est,
+expenderint; nam poterant alioqui nonnulla, quod nec Bucerus
+diffitebitur, luculentius et solidius tradi. Ipse vero de meipso
+coniecturam facio, quid, si hic essem, facerem.
+^$Dominus regni sui pomerio nostro ministerio magis atque
+magis proferat! In quo, mi<fx>^#/+Vor^#/- mi ^#/+gestrichenes^#/- q.<fe> venerande atque optime frater,
+bene et perpetuo vale. Saluta fratres et amicos, cum primis
+Gvaltherum nostrum.
+^$30. maii 154[3]<fx>^#/+Rand beschnitten.^#/-<fe>.
+<un>Tuus Ambros. Blaurerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. H. Bullingero, amice valde quam observande fratrique longe
+charissimo. Tiguri. Zürich.
+</content>
+</letter>

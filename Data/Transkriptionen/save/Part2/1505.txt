@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1505">
+<nr>1505</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>24. April [1541]</date>
+	<note>Die Datierung ergibt sich aus der Bemerkung über Hans Vogler (unten Z. 4-6); Grynäus erwähnt dessen unehrenhafte Entlassung nach Zürich in seinem Brief vom Vortag (oben Nr. 1504, 5f).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 187 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Empfiehlt Besucher, welche die Zürcher Kirche kennen lernen möchten; sie wollen vorübergehend nach Frankreich zurückkehren,
+sich dann aber [in Basel] niederlassen. [Hans] Vogler [d. J.] soll zum täglichen Predigtbesuch angehalten und auch darüber
+abgefragt werden, damit sich sein Charakter festigt.
+</re>
+<tx>S. Commendo vobis hos fratres<f1>Unbekannt.<fe> in domino. Pietatem videntur intelligere. Vestram ecclesiam cupiunt cognoscere, deinde in Galliam redituri ea, ut videtur, lege, si inde ad nos transferre possint sua omnia.
+^$Voglerum<f1>Hans Voglerd. J.<fe> coges, ut contiones sacras audiat quottidie, tum, ut eas alicui repetat. Hęc verbi dei meditatio<fx>^#/+Vielleicht als^#/- meditacio ^#/+zu lesen.^#/-<fe> faciet, arbitror, ut animus stabilimentum accipiat.
+^$Vale in domino, frater mihi dilectissime.
+^$24. aprilis.
+<un>Simon Grynęus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero suo, amico et fratri colendo. Tyguri.
+</content>
+</letter>

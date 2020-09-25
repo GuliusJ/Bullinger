@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2029">
+<nr>2029</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>1. November 1544</date>
+</space_time>
+<vo>Autograph<fx>^#/+Stellenweise Textverlust durch beschädigten Rand; Text ergänzt aus der Abschrift von Johann Jakob Simler.^#/-<fe>: Zürich StA, E II 366, 245 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18.Jh.: Zürich ZB, Ms S 56, 39; Zit.: ^#/+Gast,^#/- Tagebuch 51 (Anm. 125). 96.^&x{
+<re>Wollte eine Liste der von der Frankfurter Messe [nach Basel] mitgebrachten Bücher senden, hat aber in den Buchläden nichts gefunden, was der Anzeige wert gewesen wäre, abgesehen von medizinischer [Literatur]; Oporin hat seinen Katalog schon konzipiert, und wenn er gedruckt ist, wird Gast ihn Bullinger senden. Nur der Kirche zuliebe soll Bullinger Cochläus antworten; dieser ist eigentlich einer Antwort nicht würdig, da er so roh über theologische Angelegenheiten spricht; Cochläus hat ein Buch über den Gebrauch des Betens bei den Alten auf Deutsch herausgebracht; falls darin etwas gegen [die Zürcher] steht, wird Gast es mitteilen. Die Schweizer sollen einem Gerücht zufolge eine Schlacht mit den Engländern gehabt und nicht ohne größten Verlust gewonnen haben; andere behaupten, dass viele von ihnen zerstreut umherschweifen; was davon wahr ist, weiß Gast nicht; die Spanier verbreiten diese Nachricht, waren aber nicht dabei. Am meisten schmerzt, dass die Spanier und Italiener die besten jungen Männer mit großen Verprechungen abwerben und mitnehmen; diese werden nach dem Überqueren der Alpen bitter erkennen müssen, wie es um die Zuverlässigkeit der Spanier bestellt ist. Oporin hat ein neues, erweitertes Pasquill ["Pasquillorum tomi duo"] veröffentlicht; solche Schriften liebt und kauft die Menschheit.</re>
+<tx>S. Catalogum librorum ex nundinis Francofordiensibus<f1>Zum Termin der Frankfurter Herbstmesse s. HBBW VI 406, Anm. 5.<fe>
+advectorum volebam mittere; sed cum perlustrarem omnia
+bibliopolia, nullum bonum librum inveni, qui<fx>qui ^#/+korrigiert aus^#/- quod.<fe> dignus fuisset
+in catalogum referri, excepta medicina. Oporinus catalogum
+suorum librorum iam disponit, quem, si excusus fuerit,<f1>Ein Katalog der von Oporin gedruckten Bücher aus dem Jahr 1544 ist nicht mehr erhalten. Der älteste erhaltene Verlagskatalog Oporins (Basel UB, B.E.73) stammt aus dem Jahr 1552; s. ^#/+Steinmann,^#/- Oporinus 60 (Anm. 1a). 88.^&xAnfrage Monika Butz, UB Basel, 17.2.10: dasselbe Ergebnis^&x{<fe>
+habebis.
+^$Quod autem Cochlęo, crasso et terrestri animali<f1>Anspielung auf "cochlea" (Schnecke); s. oben Nr. 1946, Anm. 6; unten Nr. 2047, Anm. 24.<fe>,
+respondeas, facis absque<fx>^#/+Nach^#/- absque ^#/+gestrichenes^#/- p[ro]p[ter].<fe> dubio propter ecclesiam; alias tam
+stupidum animal indignum<fx>indignum ^#/+korrigiert aus^#/- indignus.<fe> fuisset ulla responsione, eo quod
+tam crasse de divinis rebus loquatur ac sic versipelli animo
+veterum scripta adducat. Libellum<f1>Johannes ^#/+Cochläus,^#/- Von altem gebrauch des betens in chrichlicher[!] Kirchen, zehen underschaid, Ingolstadt, Alexander Weißenhorn, 1544 (VD 16 C 4413); s. Martin ^#/+Spahn,^#/- Johannes Cochläus, Berlin 1898, S. 364, Nr. 150.<fe> de orandi<fx>orandi ^#/+korrigiert aus^#/- orationis.<fe> modo apud
+veteres usitato edidit, sed Germanice, quem legam, et si te
+aut ecclesias nostras in hoc perstringit, te certiorem brevi
+faciam.
+^$Fama apud nos spargitur sed incerto autore Helvetios
+nostros acie decertasse cum Angli[s]; nostros superiores
+fuisse non sine maxima clade; quidam, nostros esse fusos ac
+dispalantes oberarre, nescio quo in loco. Verum quid hac<fx>^#/+In der Vorlage^#/- in hac.<fe>
+in re credam, ignoro.<f1>Vgl. oben Nr. 2027 mit Anm. 10. - In einem unbetitelten Gutachten [Gegen eine Solddienstallianz mit Frankreich] sollte Bullinger 1549 schreiben: "Zu diesen verlustreichen Unterfangen können auch die Kriegszüge nach Frankreich angeführt werden: ... und nach Boulogne 1544, wo viele Söldner im Stich gelassen wurden" (HBSchr VI, 256).<fe>
+Hispani hęc spargunt, quibus nihil credendum, quia non
+interfuerunt iis.
+^$Hoc autem dolet maxime, quod Hispani et
+Itali optimos adolescentes, etiam quosdam ex stipendi[ariis]<fx>^&!s(-70)^#/+Vor^#/- stipendiariis ^#/+gestrichenes^#/- spi. ^#/+Zu den hier wie in den folgenden Wörtern in Klammern gesetzten Buchstaben s. oben Anm. a.^#/-^&!s(+0)<fe>
+nostris secum abducunt, quibus multa pollicentur, iam<fx>^#/+Lesung unsicher.^#/-<fe>
+aureos montes pr[o]mittunt<f1>Adagia, 1, 9, 15 (ASD II/2 338, Nr. 815).<fe>, donec superantur<fx>^#/+Das Wort könnte vielleicht auch als^#/- superarint ^#/+gelesen werden.^#/-<fe>
+Alpes; tum scient<fx>scient ^#/+aus^#/- demum ^#/+korrigiert.^#/-<fe>, qualem fidem Hisp[ani] servent, aut illos
+vendent etc.
+^$Vale in domino cum omni[bus] tuis diu felix et sanus corpore
+et anima<f1>Vgl. Juvenal, Satiren, 10, 356: orandum est, ut sit mens sana in corpore sano.<fe>.
+^$Basileę, 1. nov[embris] 1544.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>Novum Pasquillum<f1>Pasquillorum tomi duo. Quorum primo versibus ac rhythmis, altera soluta oratione conscripta quam plurima continentur ..., Eleutheropoli [Basel, Johannes Oporinus,] 1544 (VD 16 C 6433). Es handelt sich um eine Sammlung von Texten deutscher und italienischer Humanisten, u.a. von (bzw. über) Ulrich von Hutten, von Joachim Camerarius d.Ä., Conrad Celtis, Angelo Poliziano, Baptista Mantuanus, den Erasmus zugeschriebenen Dialog "Julius Exclusus" sowie auch Auszüge aus den "Epistolae obscurum virorum". Der Feder von Curione entstammen u.a. der "Pasquillus Theologaster" und der "Pasquillus extaticus et Marphorius". Herausgeber könnte Johannes Oporin gewesen sein. - Siehe ferner unten Nr. 2038 mit Anm. 2 bis 4.<fe> edidit Oporinus noster, sed non novum,
+sed multis in locis auctum additis quibusdam pasquillis
+valde ridiculis. Tale[s] libellos mundus amat et emit, ut
+habeat aliquid, quo tempus fall[at].
+^$Vale iterum atque iterum.
+<lz>[Adresse auf der Rückseite:] Eruditione et pietate
+insigni virod. Heinrycho Bullingero, fratri suo charissimo.
+Zurich.
+</content>
+</letter>

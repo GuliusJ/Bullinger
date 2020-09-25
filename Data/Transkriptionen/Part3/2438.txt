@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2438">
+<brief>
+<id>16125</id>
+<nr>2438</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 28. April 1546</od>
+<vo>Autograph
+<fa><i>Mit Unterstreichungen.</i></fa>: Zürich StA, E II 336a, 229 (neu: 247) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Zürich ZB, Ms S 60, 68</k></dr>
+<re>Myconius hat erst neulich einen Brief [<qv>nr2428</qv>] durch Heini [Spät?] übermittelt. Seit Kaiser [Karl V.] die deutschen [Nieder]lande verließ, ist alles still. Wie Junker [Heinrich von] Ostheim erzählte, wich Kaiser [Karl V.] bei seiner Ankunft in Speyer dem vor der Stadt auf ihn wartenden Klerus durch ein anderes Stadttor aus, was der so getäuschte Klerus erst zwei Stunden später merkte. Auf eine solche Weise kann [Karl V.] die deutschen [Katholiken] nicht für sich gewinnen.
+<t/>[In Basel] ist man gespannt, welches Urteil über den Brudermörder [Alfonso Diaz] gesprochen werden wird, weil manche aus Innsbruck kamen und meinten, er würde dem bei Gott verrufenen [Karl V.] in Regensburg vorgeführt werden. Papst [Paul III.] sieht diesen grausamen Mord als Erfolg an.
+<t/>Die Antwort der Eidgenossen an die von Konstanz in Bezug auf [das Gesuch der deutschen] Protestanten kennt Myconius noch nicht. Der größere Teil soll es eher zustimmend aufgenommen haben. Nur die [Fünf Orte] wollten es [zunächst] an ihre [Obrigkeiten] übergeben. [König Franz I. von] Frankreich hat den Frieden [von Crépy] mit Kaiser Karl V. [durch seinen Gesandten] mitteilen lassen, doch dem päpstlichen Legat [Albert Rosin] zufolge sei dieser Frieden nicht von Dauer. Die Mächtigen wissen offenbar nicht, was sie tun! Vielleicht kann Bullinger Genaueres mitteilen.
+<t/>Grüße an [Rudolf] Gwalther, den Myconius für seine Übersetzung ["De providentia sermones X"] genauso wie den Autor [Theodoret von Kyrrhos] bewundert.
+<t/>Der beigelegte [Brief] ist für den St. Galler Bürgermeister [Joachim Vadian] bestimmt.</re>
+<text>
+<p>S. Per Heinium
+<fn>Heini Spät (Spättiker)? Siehe den hier von Myconius gemeinten Brief vom 21. April (<qv>nr2428</qv>,<qv>zl2428-1</qv>) sowie <qv>nr2418</qv>, <qv>fn2418-2</qv>.</fn> scripsi nuperrime. Interim nihil evenit scriptu dignum. Postquam enim c{e}sar
+<fn>Karl V.</fn> suam reliquit Germaniam
+<fn>suam ... Germaniam: die Niederlande.</fn>, tacent omnia. Illud obiter: Narravit nobis hisce diebus Ostheimerus
+<fn>Wohl der in Basel ansässige Söldnerhauptmann Junker Heinrich von Ostheim; s. <a>AK</a> V 118, Anm. 1; VI 42, Anm. 1; VIII, S. XXVIII zu Nr. 2806; <a>Gast, Tagebuch</a> 310-312, Anm. 19.</fn>, vir nobilis, clericatum Spirensem, ut audiverit adpropinquare
+<fa><i>In der Vorlage</i> adpinquare.</fa> c{e}sarem, exiisse civitatem ingenti multitudine, ut exciperet. Illum autem, ut rem cognorit, deflexisse et paucis per aliam portam ingressum ac per duas integras fuisse horas
+<fa>horas <i>am Rande nachgetragen.</i></fa> in urbe, priusquam intellexerint miseri exceptores factum quoque non ita bene interpretatos: Contemptam enim sacram turbam satis irreverenter. Ego tum: "Si sic ille egit, quamdiu fuit in Germania, nihil egit, quod ita placuerit, quocunque tandem animo prodierit."</p>
+<p>Nos hic expectamus intenti, quale iudicium sit futurum contra latronem fratricidam
+<fn>Alfonso Diaz. - Zu dem Mordfall s. zuletzt <qv>nr2428</qv>,<qv>zl2428-9</qv>.</fn>. Nam putant quidam, qui fuerunt Oeniponti, missum iri Ratisponam
+<fn>Zum Regensburger Reichstag. - Die hier vorausgesetzte Sorge, das Verfahren könne aufgrund kaiserlichen Eingreifens verschleppt werden, war begründet. Der Prozess wurde nämlich von Anfang April an immer wieder verschoben, bis das Mandat Karls V. vom 4. April eintraf und dem Gericht Stillstand bis zur Ankunft König Ferdinands I. in Regensburg gebot; s. Friedrich <i>Roth,</i> Zur Verhaftung und zu dem Prozeß des Dr. Rotae Alfonso Diaz (27. März bis 14. April 1546), in: <a>ARG</a> 7, 1909/10, 416f.</fn> ad c{e}sarem. Egregium facinus, si consyderes papam
+<fn>Paul III.</fn> et suos; crudele vero et atrox, si rem ipsam expendas. Age videmus, quonam loco simus apud illum et qui sunt eius discipuli. Diligentius igitur in ea incumbamus, qu{e} docuit nos dominus, ut magni fiamus apud deum,
+<fn>Vgl. Mt 18, 1-4.</fn> apud quem istum
+<fn>Gemeint ist Kaiser Karl V.</fn> esse maledictum iam olim dubitare desii.</p>
+<p>Nondum novi, quid responsi tulerint Constantienses nomine Protestantium ab Helvetiis, praeter hoc: Maiorem partem non occurrisse male.
+<fn>Zu den Verhandlungen an der Badener Tagsatzung vom 12. April 1546 s. zuletzt <qv>nr2429</qv>,<qv>zl2429-3</qv>.</fn> Solos Paganos
+<fn>Die Fünf Orte der Innerschweiz.</fn> rem ad suos voluisse referre. Pr{e}terea Gallum
+<fn>König Franz I., und zwar durch seinen Gesandten Antoine Morelet du Museau. Dazu und zum hier angesprochenen Friedensschluss zwischen Franz I. und Karl V. s. <a>EA</a> IV/1d 605f aa sowie <qv>nr2428</qv>, <qv>fn2428-4</qv>.</fn> significasse, quam sit in altissima nunc pace, et pap{e} legatum
+<fn>Albert Rosin. Er teilte in Baden jedoch das Gegenteil mit; vgl. <a>EA</a> IV/1d 604f u.</fn> pacem inter Gallum et c{e}sarem non fore diuturnam. Magnates illi nesciunt, credo, quid faciant.
+<fn>Vgl. Lk 23, 34.</fn> Si quid habes certius, qu{e}so, communicato.</p>
+<p>Vale in Christo cum sanctis tuis omnibus. Gvaltheri libellum
+<fn>Die von Gwalther aus dem Griechischen ins Lateinische übersetzte Schrift "De providentia sermones X" von Theodoret von Kyrrhos; s. <qv>nr2326</qv>, <qv>fn2326-1</qv>.</fn> in manibus habeo. Miror {e}que fere et authorem et interpretem. Hunc salutabis diligenter.</p>
+<p>Basile{e}, 28. aprilis anno 1546.</p>
+<un>Tuus Os. Myco-­</un>
+<un>nius.</un>
+<lz/>
+<p>Adiunctas mittito, quaeso, ad d. consulem Sangallensem,
+<fn>Myconius' Brief an Joachim Vadian vom 28. April 1546 (<a>Vadian BW</a> VI 528f, Nr. 1464).</fn> virum, bone deus, quantum!</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Domino Heinricho Bullingero doctissimo, Tigurinorum antistiti optimo, fratri ac domino colendissimo suo. Z[ürich]
+<fa><i>Adresse teilweise über das nicht mehr erhaltene Siegelband geschrieben.</i></fa>.</p>
+</text>
+</brief>

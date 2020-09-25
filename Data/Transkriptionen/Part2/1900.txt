@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1900">
+<nr>1900</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>24. April 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 253r.-v. (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 134; Zit.: ^#/+Gast,^#/- Tagebuch 56, Anm. 146^&x{
+<dr>Ungedruckt</dr>
+<re>Wird ihm die von der [Frankfurter] Messe gelieferten Bücher auflisten, hat aber bisher keine gelehrten Werke darunter entdeckt. Das Neueste vom Reichstag zu Speyer kann ihm [Bartholomäus] Westheimer erzählen, darunter Erfreuliches in Bezug auf Herzog [Heinrich] von Braunschweig, aber auch Trauriges über die Feindschaft gegen das Evangelium; bittet, Westheimer in dessen Ehesache zu unterstützen. Berichtet über den auch in seinem Buch ["De anabaptismi exordio"] erwähnten Täufer [Hans Regesser], der aus Mähren nach Basel zurückgekehrt ist, wo er die Kanzel bestiegen hat, sich besonderer Offenbarungen rühmt und wegen seines Wahns möglicherweise in Ketten gelegt wird; der Mann, der ihm erschien, war wohl der Teufel. Ein in Basel inhaftierter Bauer glaubt, von Gott verfolgt zu werden; durch solche Vorfälle warnt uns der Herr. Gruß an Theodor [Bibliander].
+</re>
+<tx>S. Catalogum librorum ad nos ex nundinis<f1>Gemeint ist die Frankfurter Frühjahrsmesse. Diese fand in der Regel von Oculi bis Freitag vor Palmarum (im Jahr 1544 also vom 16. März bis zum 4. April) statt; s. Alexander ^#/+Dietz,^#/- Frankfurter Handelsgeschichte, Bd. I, Frankfurt a. M. 1910, S.^#. 37-40.<fe> advectorum non collegi, etsi nullos ego adhuc viderim, qui alicuius eruditionis esse videbantur; sed brevi illum habebis.
+^$Nova, quę Spirae in comitiis sunt,<f1>Zum Stand der Verhandlungen am Reichstag zu Speyer s. zuletzt oben Nr. 1894, 13-18.<fe> Westhemerus narrabit, quem interrogare de omnibus poteris;<f1>Der Basler Drucker Bartholomäus Westheimer war wohl kurz zuvor von der Frankfurter Buchmesse zurückgekehrt. Seine Reise nach Zürich könnte eine Verbindung mit der in Nr. 1884, 20-22 angedeuteten Angelegenheit haben.<fe> multa enim solet observare et observavit etiam, quę cum voluptate audies de duce Brunsvicensi,<f1>Herzog Heinrich von Braunschweig-Wolfenbüttel.<fe> etsi interim multa tristia ob quorundam perversum animum erga Christi evangelium percepturus sis. Si in illius negotio aliquid agere poteris, quod concordiam et coniugium attinet,<f1>Über Spannungen zwischen Westheimer und seiner Ehefrau Juliana Schlierbach ist sonst nichts bekannt. Eventuell besteht ein Zusammenhang mit dem Rechtsstreit, den Westheimer zusammen mit seiner Frau Juliana Schlierbach wegen eines Erbanspruchs der Frau Ende 1545 gegen Johann Ulrich Zasius austrug; s. Amerbach, Korr. VI 93-98, Nr. 2685.<fe> oro atque obsecro, ut illi adiumento sies.
+^$Catabaptista tornator<f1>Dank der untenstehenden Angaben über den Wechsel des Bürgerrechts lässt sich der Name dieses Drechslers, Hans Regesser (Regisser), im Basler Öffnungsbuch finden. Regesser gab das Bürgerrecht am 4. August 1543 auf (s. Basel StA, Protokolle, Öffnungsbuch 8, f. 97r.) und erhielt es am 17. Januar 1544 zurück (aaO, f. 99v.). Gast berichtet über ihn auch in seinem Brief an Konrad Hubert vom gleichen Tag; s. QGT XVI 92, Nr. 1361. Vermutlich ist er identisch mit dem aus zahlreichen Quellen bekannten Täufer Hans Treyer (Tre[i]ger, Dreyer) aus Lausen (Kt. Basel-Land), wobei "Treyer" in diesem Fall eine Berufsangabe wäre; s. ABaslerRef III und IV, Reg.; QGTS III 168, Anm. 21 und Reg.^&x^#/+Gast,^#/- Tagebuch 56, Anm. 147; Paul ^#/+Burckhardt,^#/- Die Basler Täufer. Ein Beitrag zur Schweizerischen Reformationsgeschichte, Basel 1898, S. 37 (zum Täufer Jakob Treyer auch Oekolampad BA II 789-792, Nr. 991).^&x{<fe>, de quo in libello meo mentionem habui,<f1>In seinem 1544 bei Robert Winter in Basel erschienenen Werk (s. oben Nr. 1848, Anm. 11) berichtet Gast ausführlich über den trotz
+eindringlicher Ermahnung 1543 nach Mähren ausgewanderten Täufer ("De Basiliensi tornatore deploranda historia, 1543"; aaO, S. 114-121).<fe> ex Moravia rediit ac pulchram uxorem et iuvenculam<f1>Beide nicht namentlich bekannt.<fe>
+secum attulit. Civitate iterum donatus dixit se plus 200 fl.
+in hac peregrinatione - ne dicam vesania - dilapidasse.
+Horrenda mihi narravit de variis sectis, quibus hoc<fx>hoc ^#/+korrigiert aus^#/- hominum.<fe> hominum genus inundatur. Hisce diebus ascendit publicum suggestum
+contionari volens nescio de quibus rebus, quo populum ad
+poenitentiam commoveret. Vocatus Myconius; mox descendit,
+illum complexatus est, a quo et in domum ductus ad matrem et
+uxorem<f1>Die Rede ist wohl von der Mutter und der Ehefrau des Täufers.<fe>. Insanit omnino miser ac delirat, dicit se virum
+vidisse die pascę<f1>13. April 1544.<fe>, qui illum impleverit omni gaudio,<f1>Vgl. Röm 15, 13.<fe> ut iam tristari nesciat; se omnem scripturam ad unguem<f1>Adagia, 1, 5, 91 (ASD II/1 562, Nr. 491^&xLB II 216f^&x{).<fe> scire,
+librum consignatum ei esse apertum,<f1>Vgl. Apk 5, 1-5.<fe> brevi mirabilia se
+dicturum, quę ei sint revelata. Insomnis praeterea est ac
+tribus diebus ne micam panis sumere voluit; nondum <vl>253v.</vl> tempus
+esse, ut edat, alium cibum se habere, quem nemo sciat,<f1>Vgl. Joh 4, 32.<fe>
+dixit. Quem hodie fortassis in ferreos compedes coniiciet
+magistratus, donec furor iste parum fuerit mitigatus. Semel,
+cum vidisset hominem istum - reor satanam fuisse, qui
+imposuit homini mirifice -, exuit calceos ac in genua
+procubuit dicens: "Salve, vir desideriorum<f1>Vgl. Dan 9, 23; 10, 11. 19.<fe>; quid me iubes facere?" Accursum est a multis, sed neminem viderunt
+colloquentem cum eo. Ita dominus nobiscum agere solet ob peccata nostra. Exempla horrenda ob oculos ponuntur nobis, sed poenitentia nulla sequi vult.
+^$Aliud exemplum: Rusticus quidam<f1>Unbekannt.<fe> ex agro adductus est carcerique inclusus, qui perpetuo simulat se fugere velle deum. Clamat: "Iam adest, me percutit", et alta voce clamat: "Eheu, cur me percutis?" Et vult se perpetuo abscondere, obvolvit caput. Interim avidissime, quod proponitur, devorat. Varia sunt domini iudicia, quibus nos admonere solet.
+^$Vale in domino.
+^$24. aprilis 1544.
+^$Theodoro<f1>Theodor Bibliander.<fe> nostro salutem nomine meo dicas.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse darunter:] Domino Heinrycho Bullingero, Tigurinę ecclesiae vigilantissimo pastori ac fratri in domino charissimo.
+</content>
+</letter>

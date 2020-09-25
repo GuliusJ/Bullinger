@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="802">
+<correspondents>
+	<originator>Wolfgang Capito</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Strassburg*)</place>
+	<date>19. April 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 347, 63 (ohne Siegel)</record>
+<print></print>
+<note>Regest: Capito, Corr. 208, Nr. 606</note>
+<statue>
+Drängt Bullinger, (*am Theologenkonvent in Eisenach*) teilzunehmen,
+da Gespräche mehr Erkenntnis bringen als Lektüre; wird selbst trotz
+Krankheit anwesend sein und verspricht sich um so mehr von der
+Zusammenkunft, als diese ohne Vertreter der Obrigkeit stattfindet. Grüsse.
+</statue>
+<content>
+S. Hoc certius statuo non omittendum, quin adfueris+1, quo cogito
+expendoque diutius. Nam es, quo utetur deus ad maxima adeoque iam
+utitur. Iuvenis es et autoritate canus+a non unis Tigurinis. Illic autem
+esses auditurus et reliquos, quorum existimatio vigebit apud posteros,
+nec sine fructu auditurus; nam parvi temporis colloquium plus
+intelligentiè utrinque prodit, quam multorum mensium lectio aperuerit.
+Adeo vivit indoles animi in sermone, què stilo nescio quid
+ascititii+2 contrahit. Quare obsecro te, da operam, ut adfueris
+nobiscum. Lassescit corpus seni morbis et curis fracto, et tamen volens
+adero. Sine magistratu res agetur, quo syncerius ac liberius.
+Spiritus Christi erit nobiscum.
+<p>Vale. Bibliandro et Pellicano ex nobis salutem dicas.</p>
+<p>19.+b aprilis anno 1536.</p>
+<address>
+(*Adresse auf der Rückseite:*) Preclaro viro M. Henrico Bullingero,
+pastori urbano Tiguri, sibi in domino observando.
+</address>
+</content>
+<note>
+.us; +a >in der Vorlage irrtümlich  cano.
+<print>
++b>Die zweite Ziffer undeutlich (aus  a ?) korrigiert.
+</print>
+<address>
++1>Nämlich am Theologenkonvent, der am 14. Mai in Eisenach beginnen
+sollte; vgl. oben Nr. 796, 1-7 mit Anm. 1.
++2>hier wohl im Sinne von: etwas Fremdes, Neues, Aufgeschnapptes.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

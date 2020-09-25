@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2352">
+<brief>
+<id>16042</id>
+<nr>2352</nr>
+<ae>Joachim Vadian an Bullinger</ae>
+<od>St. Gallen, 12. Februar 1546</od>
+<vo>Abschrift von Johann Rudolf Stumpf: Zürich StA, E II 351, 28v.-29r.</vo>
+<dr>Druck: <a>Vadian BW</a> VI 505f, Nr. 1446<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 78 </k></dr>
+<re>Bullinger hätte sich mit seinem Brief [nicht erhalten] nicht entschuldigen müssen. Schon lange empfand Vadian keine solche Freude mehr wie bei der Abfassung seines [letzten] Briefes [<qv>nr2342</qv>]. Er schrieb nicht, um seine [Anschauung] als die beste darzustellen, sondern um diese [Bullinger und Johannes Stumpf] (deren Meinung für ihn maßgebend ist) darzulegen.
+<t/>Es gefällt ihm, [von Bullinger] zu vernehmen, dass dieser und [Stumpf] nicht vorhaben, sich über die Mönche beifällig zu äußern. Wahre Frömmigkeit und unverfängliche Geschichtsschreibung fordern dies nämlich. Auch entspricht dies der Zürcher [Haltung] und dürfte von niemandem bemängelt werden, zumal man den [Leser] nicht in die Irre führen darf. Die Zürcher haben gut daran getan, die heuchlerischen [Ordensbrüder] aus Stadt und Land auszuweisen, denn diese verursachen Probleme und sind ganz das Gegenteil von den Silenen, [die Gott in sich tragen] und über die [der athenische Staatsmann] Alkibiades [einst berichtet hat]. [Die Mönche] sind nur äußerlich religiös, und darüber muss das Volk aufgeklärt werden. Jedoch ist Vadian nicht für skurrile Angriffe; angenehm verfasste Darstellungen, die einmal lobend, einmal ironisch sind, wirken viel effizienter. Stumpf wird dieser [Schreib]aufgabe bestimmt gewachsen sein.
+<t/>Es ist ferner zu hoffen, dass die [Zürcher Buchzensoren
+<fn>Im Original: "cognitores illi nostri". Auch in <a>HBBW</a> XV, Nr. 2257, bezeichnet Vadian die Buchzensoren als "üwer verornedte die bücher, so inn truck usßgon söltind, besähen", wobei das Wort "Verordneter" einer der Bedeutungen des Wortes "cognitor" entspricht.<zfn>fn2352-1</zfn></fn> seine für die "Eidgenössische Chronik" geplanten Beiträge] auf kluge Weise begutachten werden und nicht einfach [aus seinem Text] streichen, was irgendjemanden beleidigen könnte.
+<t/>Außerdem weiß Vadian wohl, wie zuverlässig und genau [Christoph Froschauers] Korrektor Peter [Schmid]
+<fn>Siehe Rainer <i>Henrich,</i> Neues über Froschauers Korrektor Peter Schmid von Bischofszell, in: <a>Zwa</a> 18/4-5, 1990/91, 390-392.</fn> arbeitet; er weiß aber ebenso, wie gewissenhaft [auch] die Autoren selbst gewöhnlich beim Druck ihrer Schriften mitwirken!</re>
+<textweg>
+<p>S. Quid tu nobis ex nostris logis et iocis apologiam facis? Scripsi ad te, primarium dominum et amicum, summa cum animi oblectatione, neque aliud mihi multo tempore iucundius ociolum fuit quam hoc ipsum, quod illis literis scribendis nulla alia de causa tribui magis, quam ut de animi mei instituto certior fieres. Nihil enim minus cogito quam mea tueri ceu optima facta, dicta scriptave coram illis, quorum
+<fa><i>In der Vorlage</i> quoram.</fa> iudicium mihi pro Lydio lapide est, quorum cognitioni omnia mea subiicio, quanquam gratissimum mihi fuit, quod significas nihil verendum, neque quid vel favoris vel dignitatis immodice monachis tributuri sitis. Postulat enim hoc non solum zelus pietatis, sed historiae etiam candor, ne errantes in errore efferamus, sed dignis pingamus coloribus, nec novum hoc erit penes vos neque ullorum iudicio odiosum laudare parcis aut nullis verbis illos, quorum fucatam hypocrisim ex urbe et agro penitus submovistis neque dignos ducitis, qui aliis in posterum negotium faciant, qui aliud non sunt quam Sileni Alcibiadis
+<fa><i>In der Vorlage</i> Alcicibiadis.</fa> inversi, qui externo cultu utcunque religiosi, interno habitu plus quam veternosi et nitrosi existunt, quos sane praestat ita popello quacunque commode oblata occasione proponere, ut ingenio suopte, qui sint et quid sint, olfacere vel obtusa nare possit. Non probro nec admitto scurrilem insectationem; econtra vero laudo vafram et sarcasmo aspersam traductionem, quae plaerumque etiam laudis specie usurpatur nec parum habet gratiae, etiamsi paulo altius aculeum infigat. Quod Stumphium nostrum accurate praestiturum confidimus et pollicemur nobis de cognitoribus illis nostris altius iudicium, quam ut repente inducendum decernant, quod nemo in calumniam trahere facile queat. Et Petri quidem correctoris
+<fn>Peter Schmid; s. Rainer <i>Henrich:</i> Neues über Froschauers Korrektor Peter Schmid von Bischofszell, in: <a>Zwa</a> 18, 1990/91, 390-392.</fn> cum fides tum diligentia perspecta est; sed expertus etiam sum, quanta fide anniti soleant in aedendo, qui lucubrationum excudendarum sunt authores.</p>
+<p>Vale. S. Galli, 12. die februarii anno 1546.</p>
+<un>Ioachimus Vadianus.</un>
+<lz/>
+<p>[Adresse als Überschrift auf 28v.:] Spectatissimae fidei et eruditionis viro domino Heinricho Bullingero, clarissimae urbis Tigurinae episcopo, domino et amico imprimis observando.</p>
+</textweg>
+</brief>

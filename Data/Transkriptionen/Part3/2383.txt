@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2383">
+<brief>
+<id>16073</id>
+<nr>2383</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>[Zürich], 18. März 1546</od>
+<vo>Autograph
+<fa><i>Mit einer Anmerkung von unbekannter, zeitgenössischer Hand.</i></fa>: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 114 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 427, Nr. 1264<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 46, 678; Ms S 59, 142 </k></dr>
+<re>Jakob [Metzler?] hat Blarers Brief [<qv>nr2381</qv>] überbracht, dessen beigelegte, in Eile gelesene Dokumente Bullinger hiermit zurücksendet. Es freut ihn sehr, dass der Wortführer der Protestanten [Martin Bucer] die Heilige Schrift zum Maßstab nehmen will, auch wenn auf diese Weise nichts erreicht werden kann, zumal die [Katholiken] solch ein Vorgehen ablehnen werden.
+<t/>Vom Kaiser [Karl V.] verspricht Bullinger sich nichts anderes als von [den grausamen Herrschern] Pharao, Sanherib, Domitian und Diokletian. Man muss sich auf schwere Verfolgungen einstellen, in denen der Herr seine Kirche dennoch nicht verlassen wird. Wenn der Kaiser zuerst Köln besetzt, wird dies zu einem großen Übel für ganz Deutschland werden, weil dann Köln sein Zufluchtsort werden würde, wohin er sich nach der Zerstörung vieler Regionen (nicht durch ein rechtmäßiges Heer, sondern durch brandschatzende Scharen) zurückziehen könnte. Wollten die [Protestanten] dies verhindern, müssten sie große Kosten in Kauf nehmen.
+<t/>Bullingers Schrift ["De sacramentis"] soll Blarer jetzt genauer lesen und Bullinger mitteilen, ob er zu deren Druck rät oder nicht.
+<t/>Aus Frankreich hört man, dass König [Franz I.] ein Heer in das Piemont schickt, und dass [Antoine] Morelet [du Museau] mit Geld nach Solothurn kommen wird.</re>
+<text>
+<p>Gratiam et pacem. <zzl>zl2383-3A</zzl>Reddidit tuas
+<fn>Blarers Brief vom 15. März (<qv>nr2381</qv>).</fn>, frater in domino colendissime, Iacobus
+<fn>Jakob Metzler? - Er beförderte damals auch einen Brief Blarers an Konrad Hofherr; vgl. <qv>nr2385</qv>,<qv>zl2385-3</qv>.</fn> hic.<zzl>zl2383-3E</zzl> Remitto autem schedas communicatas
+<fn>Siehe <qv>nr2381</qv>,<qv>zl2381-3</qv>.</fn> cum gratiarum actione. Eas non nisi percurrere propter varia negotia licuit. In iis hoc maxime placuit, quod protestantium colloqutor
+<fn>Bullinger meint hier wohl Bucer, der beim Regensburger Religionsgespräch an Melanchthons Stelle für die Protestanten sprach; s. <qv>nr2371</qv>,<qv>zl2371-4</qv>.</fn> omnia vult iudicari ad scripturas sanctas, quae omnia pertinentia ad salutem nostram plene contineant. At si nostri in eo perstiterint, nulla erit spes progrediendi; adversarii enim hoc nunquam concedent. Ita rursus et tempus et sumptus frustra consumpta
+<fa>consumpta <i>am Rande nachgetragen.</i> </fa> pereunt. Dominus bene vertat.</p>
+<p>De caesare
+<fn>Karl V; s. dazu <qv>nr2381</qv>,<qv>zl2381-4</qv>.</fn> mihi aliud nihil polliceor quam de Pharaone
+<fn>Gemeint ist der Pharao, der zur Zeit Moses' das israelitische Volk unterdrückte.</fn>, de Sanheribo
+<fn>Sanherib, assyrischer König, der 701 v. Chr. Juda eroberte.</fn> et Domiciano
+<fn>Der Christenverfolger Domitian, römischer Kaiser von 81 bis 96.</fn> atque Diocletiano
+<fn>Der Christenverfolger Diokletian, römischer Kaiser von 284 bis 305.</fn>. Necessarium ergo, ut paremus nos ad persequtiones graves, in quibus tamen dominus certo non deseret suam ecclesiam. Si caesar prior occuparit urbem Coloniensem
+<fn>Zur Lage in Köln und zu den kaiserlichen Absichten s. zuletzt <qv>nr2381</qv>,<qv>zl2381-4</qv>.</fn>, videbis id magno totius Germaniae malo fieri. Erit hoc ipsi tutum asylum, in quod plurimis regionibus (non iusto exercitu, sed manipulari et praedatoria turma) ferro ignique vastatis sese recipiat. Quod, si urbem tantam obsidere noluerimus, non fiet id citra ingens periculum nostrum. Sed dominus benedictus in saecula docet manus suorum ad proelium et digitos ad bellum.
+<fn>Ps 144 (Vulg. 143), 1.</fn> Hic orandus est, ut nostri misertus nos eripiat ex ore leonis.
+<fn>Ps 22 (Vulg. 21), 22.</fn></p>
+<p><zzl>zl2383-1A</zzl>Non misi tibi librum meum de sacramentis
+<fn>Zu Bullingers Schrift "De sacramentis" s. zuletzt <qv>nr2381</qv>,<qv>zl2381-1</qv>.</fn>, ut iam percurreres, excusum vero diligentius legeres, sed ut ita nunc legeres, quo tuum mihi dares consilium, excudendum traderem an non traderem. Quia ergo legisti, oro tuum adhuc iudicium paucis ad me des, et h[oc]
+<fa><i>Textverlust durch Papierverlust.</i></fa> per proximum tabellionem. Si quid est in toto libro, quod displicet, age, fac officium fratris et libere, quod sentis, indica; alioqui nunquam urgere te desinam. Requiro hic a te officium fratris.<zzl>zl2383-1E</zzl></p>
+<p>Es kumpt ein red uß Franckrych, <zzl>zl2383-2A</zzl>der k{oe}nig
+<fn>Franz I.</fn> schick ein reysigen züg
+<fn>reysigen züg: Heer.</fn> in das Pemondt,<zzl>zl2383-2E</zzl>
+<fn>Diese Nachricht steht wohl in Zusammenhang mit den Gerüchten über einen erneuten Krieg zwischen Frankreich und Karl V., vgl. <qv>nr2363</qv>,<qv>zl2363-11</qv>; <qv>nr2379</qv>,<qv>zl2379-1</qv>.</fn> <zzl>zl2383-4A</zzl>und werde Morellus
+<fn>Antoine Morelet du Museau, Seigneur de la Marche-Ferrière, von März bis November 1546 erneut Gesandter Frankreichs in der Schweiz; s. Edouard <i>Rott,</i> Histoire de la représentation diplomatique de la France auprès des cantons suisses, de leurs alliés et de leurs confédérés, Bd. 1: 1430-1559, Bern 1900, S. 332-334.</fn> herus gen Solenthurn
+<fn>Solothurn, Sitz des französischen Gesandten in der Schweiz.</fn> kummen mitt g{ae}llt.<zzl>zl2383-4E</zzl> Quam vere dicatur, ignoro.</p>
+<p>Vale et rescribe. Martii 18. anno 1546.</p>
+<un>Bulling. tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Excellentissimo viro d. Ambrosio Blaurero, antistiti Constantiensis ecclesiae, domino et fratri suo incomparabili
+<fa><i>Darunter A. Blarers Empfangsvermerk:</i> 20. martii 1546.</fa>.</p>
+</text>
+</brief>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2648">
+<brief>
+<id>16338</id>
+<nr>2648</nr> <from persid="HallwylHartmannVon"/> <to persid="Bullinger"/> <place plid="Giengen an der Brenz"/> <date when="1546-10-29"/>
+<ae>Hartmann von Hallwyl an Bullinger</ae>
+<od>Im Feldlager bei Giengen, 29. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 360, 407-409 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie)</k></dr>
+<re><t>Hallwyl konnte aus Bullingers Brief [nicht erhalten] die folgenschweren Auswirkungen des aktuellen Kriegs auf die Eidgenossenschaft gut erkennen und einschätzen.</t>
+<t>In letzter Zeit kam es zu keinem bedeutenden Angriff gegen den naheliegenden Feind. Die Kriegssache wurde aber mit anderen Mitteln befördert. Um nämlich solch einem listigen Feind [wie Kaiser Karl V.] schaden zu können, muss man auf vielfältige Weise vorgehen.</t>
+<t>Über Jahre hinweg hat der Kaiser es durch Intrigen dazu gebracht, die Deutschen mit König [Franz I.] von Frankreich zu verfeinden, um über Deutschland wie ein Monarch regieren zu können. Dies wird auch im letzten Frieden mit Frankreich [von Crépy-en-Laonnois] deutlich. Wäre dies nicht sein Ziel gewesen, hätte er sich Frankreich gegenüber anders verhalten. Und nur weil er es vermochte, die Deutschen und Franzosen gegeneinander aufzubringen, konnte er auch den gegenwärtigen Krieg wagen.</t>
+<t>Angesichts dieser Tatsache ist es verständlich, dass die [Protestanten] auf Abhilfe sinnen und Verhandlungen mit Frankreich gegen den Kaiser aufnehmen. Sie schrieben also nach Frankreich. Bislang ist noch keine Antwort eingetroffen. Auch wenn König [Franz I.] seinen guten Willen bereits bekundet hat, wartet er offenbar noch ab. Vermutlich will er sich zuvor vergewissern, ob die [Vier protestantischen] Orte der Eidgenossenschaft in den Krieg ziehen werden und ob sie Gefallen an seiner Unterstützung hätten. Wenn ja, würde er sich bestimmt umso behilflicher zeigen.</t>
+<t>Es ist natürlich klar, dass der König nicht dem Evangelium zuliebe, sondern in seinem eigenen Interesse etwas für die Deutschen unternehmen würde. [Für die Protestanten] aber wäre es gut, wenn der König und der Kaiser miteinander in Streit gerieten, damit der Kaiser seine Kräfte aufspalten muss. Sonst wird er weiterhin ungehemmt versuchen, die [Protestanten] durch einen in die Länge gezogenen Krieg aufzureiben, zumal seine Taktik nicht auf Kampf, sondern auf List und Verrat beruht. Hallwyl braucht hier nicht ausführlicher zu sein. Jeder kundige Mann weiß, was er meint.</t>
+<t>Aufgrund seiner in diesem Krieg gesammelten Erfahrung kann Hallwyl ganz sicher behaupten, dass die [Vier Orte] nur dann der kaiserlichen Tyrannei entgehen können, wenn sie kluge Maßnahmen treffen. Darüber haben die Zürcher und die anderen Obrigkeiten [der Vier Städte] zu bestimmen. Mit vorliegendem Schreiben hat Hallwyl seine Aufgabe getan. Bullinger soll es all denen mitteilen, die der Sache behilflich sein können. Weitere Informationen kann Hallwyl bei seiner Ankunft [in Zürich] erteilen.</t>
+<t>Der Herr bewahre uns!</t>
+<t>[P.S.:] Abgesehen von stetigen Scharmützeln gibt es nichts Berichtenswertes.</t></re>
+<text>
+<div>
+<p>Min g{uo}twillig dinst zefor, lieber her, sonders vertrawtter, lieber frewndt. <zzl>zl16338-4A</zzl>Aus ewerm schreiben
+<fn>Ein nicht erhaltener Brief Bullingers, schon bezeugt in <qv>nr2637</qv>,<qv>zl16327-1</qv>.</fn> hab ich gnugsam
+<fn>zur Genüge; vgl. <a>SI</a> IV 700. - In diesem Brief auch "gnogsam" (unten Z. <qv>zl16338-2</qv>) und "gn{uo}sam" (unten Z. <qv>zl16338-3</qv>) geschrieben.</fn> vernomen, wie die sachen bei uns des kriegß halb beschaffen, und so beileuffige und umstendige ursachen, grunthlich ermessen.
+<fn>und so beileuffige und umstendige ursachen, grunthlich ermessen: und gut verstanden, welche weitreichenden und schlimmen (s. <a>SI</a> XI 974) [Folgen] sie [d.h. die "sachen des kriegß"] verursachen.</fn><zzl>zl16338-4E</zzl></p>
+</div>
+<div>
+<p>Hat diser zeit nit wol ettwas thattlichs
+<fn>nit wol ettwas thattlichs: keine große kriegerische Handlung. - Dass es damals nur zu häufigen kleineren Gefechten gekommen war, geht auch aus unten Z. <qv>zl16338-1</qv> und aus <qv>nr2641</qv>,<qv>zl16331-21</qv>, hervor.</fn> gegen den anst{oe}ßern
+<fn>Der in nächster Nähe (s. <a>SI</a> XI 1632) liegende Feind; vgl. <qv>nr2635</qv>,<qv>zl16325-5</qv>; <qv>nr2646</qv>,<qv>zl16336-8</qv>.</fn> (das aber in andere weg disern krieg wol befurderet)
+<fn>Nämlich, indem man damals versuchte, dem Kaiser den Proviant abzuschneiden (s. <qv>nr2640</qv>, <qv>fn16330-4</qv> und <qv>fn16330-6</qv>) und indem man mit Frankreich auf diplomatischer Ebene intrigierte. Letzteres Bullinger gegenüber zu rechtfertigen, ist wohl das Hauptanliegen des vorliegenden Schreibens.</fn> mugen furgenomen werden. Dem sige
+<fn>sei.</fn> aber allem, wie eß wolle, so wil unsere h{oe}chste notturft
+<fn>Not, Bedrängnis.</fn> gegen unserm grausamen und arcklistigen findt
+<fn>Kaiser Karl V.</fn> erforderen, das wir im manigfaltig abruch th{uo}ent
+<fn>abruch th{uo}ent: schaden.</fn> und sine rattschleg und furnemen, in denen er wunderbarlich
+<fn>unerhört; s. <a>Grimm</a> XXX 1846.</fn> und arcklistig, zerst{oe}rent und zwnichten machent.</p>
+</div>
+<div>
+<p><zzl>zl16338-5A</zzl>Furnemlich so hat er fil jar practiciert
+<fn>intrigiert.</fn> und gehandlet, wie er die Teuschen dahin bewegte, das sie des k{oe}nigs
+<fn>Franz I.</fn> uß Franckrich abgesagte
+<fn>erklärte; s. <a>SI</a> VII 401.</fn> feindt wurdent. Damitt hat er das einig mittel
+<fn>einig mittel: einzige Hindernis.</fn>, das in an
+<fa><i>Über der Zeile nachgetragen.</i></fa> seinem furnemen der monarchei alweg
+<fn>immer. - Die Protestanten waren überzeugt, dass der Kaiser vorhatte, über Deutschland wie ein Monarch zu regieren; vgl. <a>HBBW</a> XVII 124,6-12, mit Anm. 8.<zfn>fn16338-1</zfn></fn> verhindert, hinweg genomen, welches <zzl>zl16338-2A</zzl>gnogsam<zzl>zl16338-2E</zzl> der lest
+<fn>letzte. - Der Frieden von Crépy-en-Laonnois von 1544; s. <a>HBBW</a> XIV 419f, Anm. 8.</fn> friden, so er mitt Franckrich angenomen, bezüget. Dan so
+<fn>Dan so: Denn wenn.</fn> das nit allein in dem krieg sin furhaben gesin
+<fn>gewesen.</fn> were, das er der Teuschen und Franzossen vertrawen hiemitt hinnemen
+<fn>hinwegnehmen.</fn> wellen, were zw derselben zeit gegen Franckrich der sachen wol ander ratt
+<fn>Abhilfe; s. <a>SI</a> VI 1560.</fn> geschaffen. Allein hat er dis gesucht (ist im gelungen),
+<fa><i>Klammern ergänzt.</i></fa> sunst hette er dis sein jetzig fürnemen gar nie dorffen understan
+<fn>in Angriff nehmen.</fn>.<zzl>zl16338-5E</zzl></p>
+</div>
+<div>
+<p><vl>408</vl> <zzl>zl16338-6A</zzl>Dwil wir dan sechent, das er damitt gesterckt, ist pillich, wir nachgedenckens habent, wie dem ratt gescheche.
+<fn>Zu verstehen: ist es angemessen, dass wir über geeignete Mittel nachdenken, um dem Abhilfe zu schaffen.</fn> Deßhalb wil ich euch gantz g{uo}tter meinong nit verhaltten, das disere unse[re]
+<fa><i>Hier und unten Text im engen Einband verdeckt.</i></fa> religionsstende mitt Franckrich in stetter underhandlong
+<fn>Anspielung auf die Mission Johannes Sturms nach Frankreich im Oktober 1546; s. dazu <a>HBBW</a> XVII 478f und Anm. 2; <a>PC</a> IV/1 419-421, Anm. 394.</fn> standent, was gestalt
+<fn>was gestalt: wie; s. <a>SI</a> XI 350.</fn> sei ettwes verstantz
+<fn>Verständigung.</fn> und frewntschaft zwider
+<fn>gegen.</fn> dem keysser mitt einandern ufrichten mechtent. Und sindt darum ettwes underredt in geschrift Franckreich verfassett zwgestelt. Ist diser zeit noch newtzit
+<fn>nichts.</fn> geantwurt. Wirt bei uns dahin geachtet
+<fn>interpretiert.</fn>, Franckrich thue in diser handlong wie alle andern potentaten: welle der sachen ettwas bas zwsechen
+<fn>bas zwsechen: mehr abwarten.</fn>, wiewol ettwes gantz g{uo}ttem willen sol angepotten sin. Und achtet man, es bescheche furnemlich darum, das der k{oe}nig zwfor welle erfaren, wie sich die ort der Eignoschaft
+<fn>Die vier protestantischen Stadtkantone.</fn>, so des evangelions halb sich pillicher gestal[t] dan
+<fn>pillicher gestal[t] dan: zu Recht mehr als.</fn> er, der koenig, annemen soltent. Und so er bericht
+<fn>so er bericht: wenn ihm mitgeteilt (würde).</fn>, das die evangelischen stett sich der sachen mitt ernst beladen welttendt oder das, so sich der koenig mitt disern stenden in verstandt inlassen wurde, sonders gefallens und willen daran haben wurden, wurde der konig aller sachen um so fil geneigter und williger.</p>
+</div>
+<div>
+<p>Nun ist nit minder
+<fn>Nun ist nit minder: Es lässt sich nicht bestreiten; s. <a>SI</a> IV 321.</fn>, wir wussent, was der könig harin fürnemen; das das nit uß furderong des evangelions, sonders seines nutzes wegen gehandlet werde. Sol sich
+<fa><i>Über der Zeile nachgetragen.</i></fa> niemantz irren lassen. Mechtent wir mitt disern mittlen den konig dem keysser in das har pringen
+<fn>in das har pringen: in das Haar (d.h. in Streit) bringen; s. <a>SI</a> II 1504.</fn>, were wol gethan. Man m{uo}ss b{oe}ß mitt b{oe}ßem vertriben.
+<fn>Vgl. <a>TPMA</a> XI 303, Nr. 266.</fn> <zzl>zl16338-7A</zzl>Beschickt
+<fn>Geschieht.</fn> das oder derglichen nit
+<fa><i>Über der Zeile nachgetragen.</i></fa>, das man dem keysser an andern ortten ouch ze schaffen wirt geben und er sin macht und stercke an eim ortt wirt megen <vl>409</vl> bei einandern behalten, ist zw dem hechsten zw besorgen, so der her nit wunderbarlich die seinen erhalten, er werde uns mitt der harr
+<fn>mitt der harr: auf die Dauer; s. <a>SI</a> II 1514.</fn> des kriegs abtriben
+<fn>erschöpfen; s. <a>SI</a> XIV 103f.</fn>.<zzl>zl16338-7E</zzl> Sin kriegen statt
+<fn>beruht.</fn> gar nit uf redlichen thaten, sonders allein uff falsch list und untrew. Ich wil nit alle ursachen anzeigen, warum ich disers besorg und das, so mitt Franckrich zwegen gepracht, nutz, g{uo}tz und furderong wurde pringen. Mag jeder verstendiger wol ermessen.<zzl>zl16338-6E</zzl></p>
+</div>
+<div>
+<p>Um so fil aber glaubent mir, das ich disern krieg um so fil gesechen und erfaren hab, so
+<fn>dass wenn.</fn> disern sachen nit g{uo}tt ratt beschicht, werdent wir all der tyranney des keyssers nit enttrünnen. Nun, wie das geschechen m{oe}g und mitt was mittlen, habent sich ewer und ander unser herren <zzl>zl16338-3A</zzl>gn{uo}sam<zzl>zl16338-3E</zzl> dessen selbs zw berichten
+<fn>beraten; s. <a>FNHDW</a> II 1494.</fn>. Ich wil hiemitt das min th{uo}n mitt diser anzeigong. Megent ir, wen
+<fn>demjenigen, den.</fn> ir g{uo}tt achtentt, disern sachen befurderlich ze sin, dis anzeigen. <zzl>zl16338-8A</zzl>So ir dan weittern mein bericht erforderint, wil ich uff min ankunft
+<fn>Gemeint ist Hallwyls Rückkehr nach Bern. - Ihm wurde mit zwei Schreiben der Berner vom 1. und 12. November 1546 die Heimreise gestattet. Er trat sie (einem Zeugnis von Heinrich Thomann zufolge) am 16. November an; s. Zürich StA, A 177, Nr. 141; <a>EA</a> IV/1d 743f.<zfn>fn16338-2</zfn></fn> diser sachen weitleuffigern bericht geben.<zzl>zl16338-8E</zzl></p>
+</div>
+<div>
+<p>Der herre gott beware uns zw allem g{uo}ttem. Datum Giengen im feldtlager, den 29. octobris im 46. jar.</p>
+<un>E[wer] alzeit williger</un>
+<un>Hartman von Halwil.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl16338-1A</zzl>Man handlet diser zeit nützig
+<fn>nichts.</fn> namhaftigs des schribens wert dan allemol ein scharmutz.<zzl>zl16338-1E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem wolgelerten und getrawen hern Heinrich Bullinger, predigern zw Zwrich, minem sonders geliepten hern und frewndt. Zwrich.</p>
+</div>
+</text>
+</brief>

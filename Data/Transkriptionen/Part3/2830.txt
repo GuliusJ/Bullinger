@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2830">
+<brief>
+<id>17096</id>
+<nr>2830</nr> <from persid="RichmutGotthard"/> <to persid="Bullinger"/> <place plid="Zürich"/> <date notbefore="1532-01-01" notafter="1555-12-01"/>
+<ae>Gotthard Richmut an Bullinger</ae>
+<od>[Zürich, s.d.]
+<fn>Vorliegendes Brieflein kann nicht datiert werden. Da aber im vorliegenden Band die Rede von Gotthard Richmut ist (s. <qv>nr2824</qv>,<qv>zl17090-2</qv>), welcher Zürich 1555 verließ, veröffentlichen wir es hier. Es könnte allerdings sowohl aus einer früheren als auch aus einer späteren Zeit stammen. Das Interesse des Dokuments liegt darin, dass es von einem ziemlich vertrauten Umgang zwischen Bullinger und Richmut zeugt.<zfn>fn17096-1</zfn></fn></od>
+<vo>Autograph: Zürich StA, E II 453, 240 (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re><t>Richmut ist dankbar, dass Bullinger die Einladung zum gestrigen Abendessen angenommen hat. Wegen der auswärtigen Gäste haben seine Freunde und er sich umso mehr über dessen Anwesenheit gefreut.</t>
+<t>Doch statt es dabei bleiben zu lassen, sendet Bullinger nun 4 Batzen durch Meister Andreas [...]. Richmut schickt sie zurück, zumal er ihn nicht einlud, um beschenkt zu werden. Müsste man ihm für jede Mahlzeit so viel Geld geben, wäre er gewiss ein teurer Gastgeber!</t>
+<t>Bullinger soll es ihm nicht übelnehmen. Gruß.</t></re>
+<text>
+<div>
+<p>Min sundren willig dienst und was ich eren, libs und g{uo}tz vermag z{uo}vor, gunstiger lieber meister Henrich. <zzl>zl17096-1A</zzl>Wie ich uch nachst
+<fn>gestern Abend.</fn> bat, das ir so gütig weltent sin und mit uns essen, das hand ir thon
+<fn>getan.</fn>; dorum ich uch frundlichen danck. Und ist mir und andren minen frunden ein freud gesin
+<fn>gewesen.</fn> von wegen der frömden
+<fn>Gemeint sind hier auswärtige Gäste.</fn>.<zzl>zl17096-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17096-2A</zzl>Und aber ir hand
+<fn>habt.</fn> es nit darby lan
+<fn>lassen.</fn> pliben und meister Andressen
+<fn>Ist hier etwa der Drucker Andreas Gessner gemeint, der Zunftmeister der Saffranzunft war und von 1542 bis 1567 dem Baptistalrat angehörte? Vgl. nämlich <a>HBBW</a> V 241,71f.</fn> gen
+<fn>gegeben.</fn> 4 batzen: S{oe}lly
+<fn>(Er) solle (sie).</fn> fur uch gaben
+<fn>schenken.</fn>. Die schick uch hie wider. Ich han uch for anzeigt, das ich uch nut drum laden
+<fn>drum laden: deswegen eingeladen (habe).</fn>, das ir gaben s{oe}llent; und so ir gaben weltent, wet ich uch nit geladen han
+<fn>wet ich uch nit geladen han: hätte ich euch nicht eingeladen.</fn>. Ich wer ein dürer wurt
+<fn>dürer wurt: teurer Gastgeber.</fn>, wan ieder um
+<fn>für.</fn> 1 mal
+<fn>Mahlzeit.</fn> 4 batzen s{oe}lt gen!<zzl>zl17096-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17096-3A</zzl>Semlichs
+<fn>Solches.</fn> nempt im besten uff, und wo ich uch kan dienen mit minem lib und g{uo}t, sond
+<fn>sollt.</fn> ir uch des genbtzlich
+<fn>gänzlich.</fn> z{uo} mir versechen
+<fn>z{uo} mir versechen: von mir erwarten.</fn>. Damit got mit uns!<zzl>zl17096-3E</zzl></p>
+<un>Gothart Richm{uo}t.</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div>
+</text>
+</brief>

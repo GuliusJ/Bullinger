@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1159">
+<nr>1159</nr>
+<correspondents>
+	<originator>Nicholas Eliott</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Ohne Ort]</place>
+	<date>21. August 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 369, 1 (Siegelspur)</vo>
+<dr></dr>
+<re>Schreibt nicht viel, da [Nicholas] Partridge erzählen und auf Fragen Auskunft geben wird. König [Heinrich VIII.] wie auch Thomas Cromwell haben das Werk ["De scripturae sanctae authoritate ... libri duo"], das Bullinger dem König widmete, gut aufgenommen, was Bullinger von diesen selbst erfahren
+hätte, wenn sie nicht so beschäftigt wären; Bullingers Werke haben in England und anderswo hohes Ansehen gewonnen. Dankt für die Freundlichkeit sowie für die Briefe an Lord Maltravers und an die beiden Polsteds; schickt durch Partridge Handschuhe als Geschenk für Bullinger, für dessen Frau und für
+die Mutter und läßt diese grüßen.
+</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae
+400f bzw. Original Letters II 617f, Nr. 283.]
+^&xQuandoquidem hoc tempore Partrigius noster ad te venit,
+dicturus tibi plura multo quam ego per literas meas
+significare possum, atque etiam hominem illum cognoscis unum
+esse, qui mentiri nescit nec simulare aut dissimulare
+quicquam potest, haud gravatim te laturum confido, si
+Eliotus tuus non tam multa nunc ad te scribat, quae alias
+officii ratio postulasset. Itaque te magnopere rogo et
+hortor, ut Patrigium nunc apud te literarum nostrarum vice
+et officio fungentem libenter audias ac studiose omnia
+interroges. Qui cum rerum fere omnium, quae hic aguntur,
+veritatem tibi eloquetur, unum hoc scito esse verissimum,
+libros tuos regi nostro nec minus d[omino] Thomae Cromwello
+(qui est regi a privati sigilli custodia et ecclesiae
+Anglicanae vicarius generalis) mirabiliter gratos esse;^&x{
+^&xcuius rei argumenta ab illis ipsis antehac accepisses, nisi
+solum unum hoc (quantum ego consequi possum) obstitisset,
+quod in monarchiis, ubi quasi unus fere lites et causas
+omnium expedire solet, necessitate coguntur, ut multa
+officia, si non penitus omittent, certe serco tandem
+persolvant. Quantam vero apud Anglos (nihil enim de exteris
+loquor) famam, laudem ac gloriam tua scripta tibi
+attulerunt, profecto supra quam cuiquam credibile est
+dicere. Quamobrem deum optimum maximum precor, ut te
+incolumem diu servet nec eo te spiritu carere sinat, quo
+perseveres plura non ad Anglorum modo, sed ad totius^&x{
+^&x ecclesiae suae utilitatem et adiumentum scribere. Amen.
+^$Vale.
+^$Pro tua summa erga me benevolentia, favore et meritis
+amplissimis et literis
+d[omino?] Mautrevas Partridge schreibt: Matreface. Wohl Henry Fitzalan, Earl of Arundel, seit 1533 Lord Maltravers (s. DNB; vgl. auch C. H. Smyth, Cranmer, ZB CN 988, S. 81).
+et ad duos
+Polstedos Ein Henry Polsted ist in den Letters and Papers (kontrolliert: 1536-39) als "servant" von Cromwell nachweisbar (s. auch McCulloch, Cranmer, S. 168); ein Thomas Polsted im gleichen Umfeld 1538 zweimal erwähnt, cognatos meos, scriptis ingentes gratias ago.^&x{
+^&xQuibus efficisti, ut non modo summa benevolentia ac studio
+te prosequantur, sed etiam mihi ex amicis amicissimos
+conciliasti. Peto, ut chirothecas Handschuhe, s. das Wörterbuch v. René Hoven. has, quas tibi et
+castissimae atque honestissimae uxori tuae ac matri per
+Partrigium misi, boni consulatis, exiguum munus a paupere
+amico, illi insuper ut et toti tuae familiae salutem^&x{
+^&x plurimam Elioti nomine dicas.
+^$Iterum vale.
+^$Anno 1538, augusti 21.
+<un>Tuus N. Eliotus.
+<lz>[Adresse .....:] Praeceptori suo
+charissimo domino Heinrico Bullingero. Tiguri.^&x{
+</content>
+</letter>

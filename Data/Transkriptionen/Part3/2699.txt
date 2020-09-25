@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2699">
+<brief>
+<id>16387</id>
+<nr>2699</nr> <from persid="ClaudiusMatthias"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1546-12-01"/>
+<ae>Matthias Claudius an Bullinger</ae>
+<od>[St. Gallen]
+<fn>Siehe dazu <a>HBBW</a> XVI 96f, Anm. 1.</fn>, 1. Dezember [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 441, 588 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 109. Zum Jahr vgl. Blarer BW II 533ff (Moritz von Sachsen hat viele Städte besetzt, ausg. Wittenberg und Gotha).</k></dr>
+<re><t>Claudius erlaubt sich, Bullinger zu bitten, den beiliegenden Brief nach Basel weiterzubefördern, weil er von seinem Herrn [Hieronymus Sailer] und dem spanischen Freund Francisco de Enzinas dazu ermuntert wurde.</t>
+<t>Die Neuigkeiten kann Bullinger von Hans Vogler [d.Ä.] erfahren. Sailer hat diesem gestern geschrieben. Der Abzug des [Kurfürsten Johann Friedrich von Sachsen und des Landgrafen Philipp von Hessen] scheint nun verbürgt. Der Kurfürst muss nämlich sein Territorium verteidigen. Mit Ausnahme von Wittenberg und Gotha wird es derzeit unter Mitwirkung der Böhmen und Husaren von Herzog Moritz [von Sachsen] verwüstet. Die Absichten, die der Herzog dabei verfolgt, bleiben weiterhin unklar. Den Rest wird Vogler mitteilen.</t>
+<t>Gruß.</t></re>
+<text>
+<div>
+<p><zzl>zl16387-2A</zzl>Mirabitur fortassis amplitudo tua, qua audatia fretus hoc tibi negotium iniungere audeam. Verum cum herus
+<fn>Hieronymus Sailer.</fn> meus tua familiaritate iamdudum se usum cum magna suavitate affirmet et Franciscum Dryandrum Hispanum
+<fn>Francisco de Enzinas, der damals in Basel wohnte und Ende August/Anfang September 1546 in Zürich gewesen war; s. <a>HBBW</a> XVII 361, Anm. 2.</fn> amicum habeas, non dubito ex utriusque iussu meas ad te literas Basileam mittendas
+<fn>Ein Auszug dieses Briefes von Claudius an Enzinas wird in <qv>nr2702</qv>,<qv>zl16390-1</qv>, zitiert.</fn> mittere, quod scio eorum te gratia et libenter et quam primum facere.<zzl>zl16387-2E</zzl></p>
+</div>
+<div>
+<p>Nova iubet te dominus ex Joanne Voglero
+<fn>Hans Vogler d.Ä.; s. unten Z. <qv>zl16387-1</qv>.</fn>, cive vestro, perquirere, ad quem pridiae
+<fn>= pridie.</fn> scripsit. Principum
+<fn>Kurfürst Johann Friedrich I. von Sachsen und Landgraf Philipp von Hessen. - Sie hatten das Lager bei Giengen an der Brenz am 22. November aufgehoben; s. <qv>nr2662</qv>, <qv>fn16351-3</qv>.</fn> discessus nunciatur satis constanter. Elector enim Saxoniae necesse magis habet sua defendere et propulsare iniuriam domi illatam, quam foras aliis inferre
+<fn>Zu verstehen: manus (bzw. bellum) aliis inferre.</fn>. <zzl>zl16387-3A</zzl>Dux enim Mauritius
+<fn>Herzog Moritz von Sachsen.</fn> magnis copiis ex Bohemis et levis armaturae latronibus (quas vulgo hussern
+<fn>Husaren. - Es handelte sich um kroatische, walachische und polnische Reiter. Man sah in ihnen Hunnen, Ungarn, Türken und die Völker Gog und Magog verkörpert; s. <a>Voigt, Moritz</a> 213, und vgl. <a>Enzinas BW</a> 188, Nr. 23b, wo sie als "Hunnos equites" erscheinen.<zfn>fn16387-1</zfn></fn> appellamus)
+<fa><i>Klammern ergänzt.</i></fa> conflatis vastat eius regionem et pleraque iam oppida occupavit excepta Viteberga et Gotha.
+<fn>Siehe dazu <a>Voigt, Moritz</a> 225-228. 241.</fn><zzl>zl16387-3E</zzl> Quo consilio vel animo, id nondum est compertum. Reliqua communicabit <zzl>zl16387-1A</zzl>Voglerus senior<zzl>zl16387-1E</zzl>.</p>
+</div>
+<div>
+<p>Vale. Calendis decembris.</p>
+<un>Mathias Clodius, filiorum
+<fn>Bartholomäus und Anton Sailer; s. <a>HBBW</a> XVI 96f, Anm. 1.</fn></un>
+<un>Hieronimi Sayleri praeceptor,</un>
+<un>tuae amplitudinis addictissimus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Amplissimo ornatissimoque viro Henricho Bullingero, ecclesiae dei apud Tygurum a contionibus, domino suo et patrono plurimum observando. Tyguri.</p>
+</div>
+</text>
+</brief>

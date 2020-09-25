@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1440">
+<nr>1440</nr>
+<correspondents>
+	<originator>Johannes Wolf</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Marburg</place>
+	<date>21. Dezember 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 340, 97 (Siegelspur)</vo>
+<vo>Kopie: ZZB, Ms S 48, 177<fn>Zit.: ^#/+Köhler,^#/- Hessen und die Schweiz 471</fn></vo>
+<vo>Senn, Wick 17</vo>
+<dr>Ungedruckt</dr>
+<re>Hat aus Bullingers Brief an Rudolf [Gwalther] erfahren, daß er ihm wegen der Abreise [aus Tübingen] und wegen [des Strebens
+nach] dem Magistergrad zürnt; entschuldigt sich und verweist darauf, daß ihnen hier sogar geringere Kosten als in
+Zürich entstehen. Ist auch über den Brief von [Johann Jakob] Ammann betrübt und bittet um erneutes Vertrauen. Neujahrsgruß.
+</re>
+<tx>Ex literis<f1>Oben Nr. 1436.<fe> tuis, Bullingere pater, quas tu ad Rodolphum<f1>Rudolf Gwalther.<fe>
+nostrum dedisti, intellexi te mihi cum propter meam istam profectionem<f1>Gemeint ist die
+eigenmächtige Abreise der Zürcher Studenten aus Tübingen; vgl. ebd., Z. 20f mit Anm. 12.<fe> tum propter gradum seu, ut vocant,
+magisterii rationem<f1>Vgl. ebd., Z. 4-14.<fe> succensere, id quod mihi non mediocrem attulit molestiam; neque
+enim mihi lene debet videri, si te<fx>^#/+vor^#/- te ^#/+gestrichenes^#/- ad.<fe>, ad quem semper ceu sacram
+anchoram<f1>Vgl. Adagia, 1, 1, 24 (LB II 35f).^&xFerrario, S. 44^&x{<fe> confugio, habeam iratum, qui uno te authore omnes
+fortunae meae fundatas presertim atque optime constitutas opes possideam. Proinde cum nequeam animo meo aliquam saltem
+tranquillitatem parere, antequam me<fx>^#/+vor^#/- me ^#/+gestrichenes^#/- te.<fe> tecum in gratiam rediisse cognoverim,
+te, ut mihi ignoscas, iterum atque iterum oro; nam quod proximis literis ad matrem datis<f1>Wolfs Brief an seine Mutter
+(Margaretha Leu) ist nicht erhalten.<fe> pecuniam iterum postularim<f1>Vgl. oben Nr. 1436, 14-19.<fe>, id
+graduum ratione (sic enim isti eas dignitates vocant) adductus feci, quod alioquin omisissem, neque enim opus erat propter huiusce loci commoditatem. Sumus enim in ea nunc civitate, ut
+studiis nostris optime consultum videamus et multo minoris
+vivere possimus, quam vel etiam Tiguri. Ego dabo operam, ut
+bonorum virorum de me expectationi pro virili mea satisfaciam, si modo quę superest; nam literis Ammiani<f1>Gemeint ist der
+oben Nr. 1436, 11 erwähnte Brief Johann Jakob Ammanns an Gwalther.<fe> ita sum afflictus, ut nihil mihi pristinae
+existimationis reliquum putem, quam quod clementia retineatur vestra. Sed quia tibi plura scio negotia, quam ut hisce meis
+nugis vacare<fx>^#/+korrigiert aus^#/- vaf.<fe> possis, finem iam scribendi faciam teque orabo, ut, quem olim pluribus
+adiuvisti beneficiis, eum<fx>eum ^#/+über der Zeile nachgetragen.^#/-<fe> nunc pristinae existimationi restituas.
+Quod ut velis, te vehementer etiam atque etiam oro.
+^$Vale et me, quod soles, amare perge. Dominus velit hunc
+annum tibi tuisque felicem et faustum, pręcor.
+^$Marpurgi, 21. decembris anno 1540. Christi<fx>Christi ^#/+in Majuskeln.^#/-<fe>.
+<un>Tuus Iohannes Wolphius.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Heinricho Bullingero, Tigurinorum episcopo vigilantissimo, patri suo reverendo.
+</content>
+</letter>

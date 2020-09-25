@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="966">
+<nr>966</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Thomas Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>10. März 1537</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 33 (VBS IV), Nr. 121 (Siegelabdruck) </vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW I 842, Nr. 760</dr>
+<re>Hat den Brief des Konstanzer Rates Bürgermeister Röist
+gezeigt und kann versichern, daß nun - nachdem ihre Meinung
+bekannt ist - kein Zürcher etwas in der Sache [der
+Konstanzer Domherren] unternehmen wird. Grüße.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Literas<f1>Nicht erhalten.<fe> clarissimi senatus vestri
+exhibui legendas Röystio consuli, et placuerunt. Nec est, ut
+metuatis Tigurinum
+quemquam quicquam huius acturum amplius, posteaquam
+intelligimus animi vestri sententiam. Hoc enim vobis
+persuadere
+debetis, quod ex animo bene volumus vobis, et quod hoc in
+negotio<f1>Zur Bitte einiger exilierter Konstanzer Domherren
+um Zürcher Vermittlung mit dem Konstanzer Rat vgl. oben
+Nr. 941, 9-31, 952, 1-3, und 961.<fe>
+egimus, studio iuvandi egimus; intelligentes ergo,
+quam parum comodaremus vobis, si quicquam huius tentaremus,
+plane vestri sumus et obtundere cessamus. Vos nostri esse
+pergite. Constantes este, et dominus adsit vobis perpetuo.
+^$Tiguri, 10. martii.
+^$Salutat ted. Röystius, Theodorus<f1>Theodor
+Bibliander.<fe>, Leo<f1>Leo Jud.<fe> et reliqui. Salutabis
+familiam tuam et Zviccios<f1>Johannes und Konrad Zwick.<fe>.
+1537.<un>Hein. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Thomae
+Blaurero, consuli Constantiensi, domino suo
+colendissimo.<fx>^#/+Darunter von Bullingers Hand:^#/- Martii
+1537.<fe>
+</content>
+</letter>

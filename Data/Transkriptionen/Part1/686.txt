@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="686">
+<correspondents>
+	<originator>Ludwig Oechsli</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Schaffhausen</place>
+	<date>25. November 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 359, 2748 (Siegelspur)</record>
+<print></print>
+<note>Gedruckt: QGTS II 122</note>
+<statue>
+Bittet Bullinger, sich für den Überbringer des Briefes, einen
+ehemaligen Anhänger der Täufer, der in Laufen widerrufen hat und zu
+einer Geldstrafe verurteilt wurde, einzusetzen.
+</statue>
+<content>
+Graciam et pacem Christi.
+<p>Miraberis forsitan, doctissime vir, quur te severioribus rebus occupatissimum importunis meis literis obtunderim. At mirari desines, posteaquam, quid me ad scribendum impulerit, intelliges. Nosti sane,
+quid elapsis diebus actum sit cum anabaptistis in ecclesia
+parrochiali Louffen+1.
+In quorum numero praesentium lator+2
+exstitit+a, qui tametsi in sententiam illorum non iuraverit, hospitio
+tamen eos suscepit et insania nescio qua ductus nonnunquam eos sequutus
+ad revocationem coactus est adiuncta pèna peccuniaria, quam nequaquam
+persolvere potuit nec potest. Qua(*!*)
+causa fuit unica, quur ab infantibus
+et ineducatis pueris suis recedere cogeretur. Quibus praeter mendicabulum
+restat nihil. Hanc ob rem a me petiit literas commendaticias sperans
+sibi has infoelicitati suè profuturas. Ego, utcunque dementiam illorum
+hominum abominor, ita paratus sum omnibus viribus inniti, quo ab incepto
+errore revocentur. Ne igitur homini ansa praebeatur plus insaniandi,
+rogatus rogo, ut pro innata tua benevolencia efficias, quo intelligat
+meam commendationem sibi nonnihil profuisse, mercedem a deo expectaturus,
+quum ego rependere non possim. Scribsissem senatoribus nonnullis, quos
+scio mihi faventissimos, nisi veritus essem hominem, ut mos illorum est,
+ad vomitum rediturum.</p>
+<p>Cum hiis vale quam foeliciter.</p>
+<p>Actum Scaffhusiè, 25. novembris anno 1535.</p>
+<signature>
+Lodovicus Bovillus,
+ex animo tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Eruditissimo viro Henrico
+Bullingero, Tigurinè ecclesiè praefecto primario, Zürich.
+</address>
+</content>
+<note>
+<print>
++a>in der Vorlage  extistit.
+</print>
+<address>
++1>Laufen (Kt. Zürich).
++2>Unbekannt. -- Es handelt sich um den Mann, der zur gleichen Zeit
+und in derselben Sache Erasmus Ritter ein Empfehlungsschreiben
+abgefordert hat (unten Nr. 687). Über die Vorgänge
+in der Kirche zu Laufen ist im weiteren nichts bekannt.
+</address>
+</note>
+</letter>

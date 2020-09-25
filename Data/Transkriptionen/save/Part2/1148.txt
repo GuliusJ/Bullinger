@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1148">
+<nr>1148</nr>
+<correspondents>
+	<originator>[Johannes Zwick]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>vor 18. Juli 1538]</date>
+	<note>Die Bitte um Hilfe bei der Beschaffung eines Kamms (s. unten Z. 4-8) wird in einem Brief
+Zwicks an Pellikan vom 18. Juli 1538 wiederholt (s. Zürich ZB, Ms F 47, 25: "Pectinis, de quo nuper, ne obliviscaris.") Für
+eine Datierung auf frühestens Ende Mai 1538 spricht Zwicks Bemerkung zur Berufung von Hans Kotter; s. unten Z. 9f mit Anm. 10.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 21 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Der Bote kann gegebenenfalls etwas mitnehmen; Gruß an Pellikan. Bittet, sich um die Bezahlung und Lieferung eines
+Kamms zu kümmern. [Hans] Kotter wird, sobald er nach Konstanz kommt, großzügiger behandelt werden.
+</re>
+<tx>Salus.
+^$Non habeo, quod scribam, tantum indico
+tabellionem<f1>Unbekannt.<fe>, si quid haberes ad me. Saluta Pellicanum.
+^$Lieber, taind<f1>tut.<fe> mir ain dienst propter sotios und
+schickend uwern knaben zum strel macher<f1>Kammacher.<fe>, der macht mir ain
+helfen bainin strel<f1>einen Kamm aus Elfenbein.<fe>, und zalend ym den macherlon, dann ich
+hab im das bain<f1>Elfenbein.<fe> geben, und schickend mir yn by zöger<f1>durch die Person, die diesen Brief vorweist.<fe>. Doch
+lond<f1>laßt.<fe> mich wissen, was ir<fx>^#/+vor ^#/-ir^#/+ gestrichenes^#/- uch.<fe> im gebind. Oder ich schick uch hie
+3 batzen; da zalend in von. Ich glob<fx>^#/+vor ^#/-glob^#/+ ein gestrichenes Zeichen.^#/-<fe> nit, das me werd<fx>^#/+Am Rande neben den letzten zwei Zeilen ein verwischtes^#/- Salus.<fe><f1>daß es teurer wird.<fe>.
+^$Cotterus<f1>Hans Kotter (zu seiner Berufung nach Konstanz vgl. oben Nr. 1133, 9-11, und unten Nr. 1173, 6-23).<fe> debuit
+liberalius tractari; sed postea, cum ad nos venerit, cu­rabimus.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, meo in domino charissimo fratri.
+</content>
+</letter>

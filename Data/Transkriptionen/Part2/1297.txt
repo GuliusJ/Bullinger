@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1297">
+<nr>1297</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>15. August 1539</date>
+</space_time>
+<vo>Abschrift von Johannes Stumpf: Zürich ZB, Ms S 313, 9v.</vo>
+<dr>Ungedruckt</dr>
+<re>Bittet zum einen, Ulrich [Zingg] mitzuteilen, daß er bei Bürgermeister [Diethelm] Röist einen Besprechungstermin auf den 26. August erwirken konnte, zum andern, Wolfgang Meyer den Brief der Kirchgemeinde Matt zu zeigen und ihn aufzufordern, dort probeweise [das Pfarramt] anzutreten; bittet um
+Rücksendung des Briefes der Glarner.
+</re>
+<tx>Heinrichus Bullingerus Ioanni Stumphio.
+^$Gratiam et vitae innocentiam a domino.
+^$Duo abs te peto, frater. Prius, ut Ulricho Dürteo <f1>Ulrich Zingg in Dürnten (Kt. Zürich).<fe> denunties
+me sibi a consuli Röystio diem postulasse et datum esse augusti
+26., hoc est diem martis a festo Barptolomei, in qua agat
+causam suam<f1>Vgl. oben Nr. 1296, 4-7.<fe> apud illos, qui praesunt rationibus<f1>Gemeint sind die Rechenherren.<fe>. Posterius,
+ut fratrem Wolfgangum<fx>^#/+am Rande^#/- Wolfgangus Meyer Salisburgensis.<fe><f1>Über Wolfgang Meyer, aus Salzburg stammend (s. Anm. b), wird im Schreiben des Wetzikoner Kapitels vom 23. September 1540 berichtet, Bruder Wolfgang, der einmal nach Matt (Kt. Glarus) geschickt worden sei, habe seit
+vielen Jahren redlich, aber in großer Armut mit Frau und Kindern im Wetzikoner Kapitel gelebt und sollte daher das Diakonat Goßau übernehmen können (vgl. Zürich ZB, Ms A 70, 359). Weiteres ist über Meyer nicht bekannt.<fe> voces literasque<f1>Nicht erhalten.<fe> ei exhibeas
+Glaronensium a Matten. Addas insuper meas commendatitias et
+dicas meae voluntatis esse, ut Claronam proficiscatur
+literasque meas<f1>Nicht erhalten.<fe> tradat et experiatur, an in illa possit herere
+ecclesia. Scripsi enim ecclesiae in Matt mittere illum
+Wolffgangum ac petere, ut tentent, num intelligere valeant,
+et sibi eum habeant commendatum.
+^$Vale et literas Claronensium remitte, ubi praelegeris
+Wolfgango.
+^$15. augusti 1539.
+</content>
+</letter>

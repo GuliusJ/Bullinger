@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2634">
+<brief>
+<id>16324</id>
+<nr>2634</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-19"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 19. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 50 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, 392f, Nr. 6; <br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 120-124, Nr. 8<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 28; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 221 (Schmidt); Madrid BN, 8862, suelto und f. Ddro 4. (Boehmer: Hd II 2259; García: Hd II 1023 und Hd II 1025)</k></dr>
+<re><t>Enzinas bedankt sich für Bullingers Brief [nicht erhalten], der ihm von [Oswald] Myconius überreicht wurde, zumal dieses Schreiben Trost spendete angesichts der schlechten Kriegsnachrichten, die Myconius mitteilte. Die Lage ist höchst beunruhigend, und wenn Gott sich der Seinen nicht erbarmen würde, gingen sie alle zugrunde. Der Herr sucht sie wohl heim, um sie zu züchtigen und zur Buße zu mahnen. Enzinas kann aber nicht glauben, dass der Herr sie solchen Gotteslästerern ausliefern wird, zumal deren Missetaten (die nicht einmal die Türken verüben würden) wirklich nicht ungestraft bleiben dürfen. Die Könige [der Erde] lehnen sich auf und beratschlagen miteinander gegen den Herrn und seinen Gesalbten [Ps 2, 2]. Derjenige aber, der im Himmel wohnt und nicht schläft, spottet ihrer und wird sie mit Zorn anreden und wie Tontöpfe zerbrechen [Ps 2, 4f. 9; 121 (Vulg. 120), 4]. Diese Verheißungen Gottes geben Enzinas Mut, und es wird wohl auch stimmen, was schon Julius [Caesar] schrieb, nämlich dass "derjenige irrt, der im Krieg nur Erfolge erwartet" [De bello Gallico, 7, 29]. Unterdessen bleibt nichts anderes übrig, als öfters und inbrünstig zu beten.</t>
+<t>Falls es erfreuliche Nachrichten gibt, möchte Bullinger sie mitteilen.</t>
+<t>Enzinas wartet noch auf Bullingers Antwort bezüglich der versprochenen Abhandlung über die [Glaubens]punkte,
+<fn>Siehe dazu <qv>nr2608</qv>, <qv>fn16296-1</qv>.</fn> welche wohl den Erwartungen aller gerecht werden wird.</t>
+<t>Grüße an die Freunde, besonders an [Konrad] Pellikan, Theodor [Bibliander] und [Johannes] Fries, denen er derzeit nicht auch schreiben kann.</t></re> <textweg>
+<div>
+<p>S. D. Dedit mihi pater Myconius literas tuas gratissimas quidem illas, ex quibus facile perspicio integritatem ac virtutem animi tui mihi quidem non ignotam, sed tamen gratam atque optatam. Caeterum, quantum ipsae tuae literae consolationis attulerunt, id universum, quae Myconius de bello nunciavit plena doloris et tristitiae, ex animo meo prorsus eripuerunt. Video nos redactos in extremas angustias, ut, nisi divinitus miseriam nostram respiciat aeternus pater oculis misericordiae suae, funditus periimus omnes. Dubium mihi non est instare iam diem visitationis nostrae, in quo sentiemus castigationem domini, quam ipsi multis modis contra nos provocavimus, cuius rei culpam ad genua caelestis patris nostri prostrati et agnoscimus et confitemur, simul etiam ut poenam vel avertat vel mitiget, deprecamur. Sed profecto nondum mihi persuadere possum deum velle suam ecclesiam, quam ipse suo sanguine redemit, in qua multi sunt, qui legitime deum invocant et gloriam divini nominis cupiunt illustratam, tradere dilaniandam manibus istorum blasphemorum, qui manifeste deum afficiunt contumelia et nullum est scelus tam horrendum, quod ipsi patrare vereantur.</p>
+</div>
+<div>
+<p>Certe haec inusitata scelera, qualia ne a Turcis quidem erant expectanda, non diu manebunt impunita, neque tanta istius tyranni, inimici Christi, crudelitas diu videtur duratura. Nunc vere reges tumultuantur et nepharia coniuratione unanimiter conspiraverunt adversum dominum et adversus Christum eius. Sed, qui caelos inhabitat, non dormit, quin etiam videt atque irridet istos tragicos furores et paulo post loquetur ad eos in ira sua et tanquam figulinum vas confringet istorum sceleratorum capita. Istius modi promis[s]ionibus divinis me sustento alioqui mirabiliter viribus fractus, quanquam, dum video quasi continenti clade nostros non modo hostilia, sed certe immania pati, non possum non ex animo ingemiscere. Est autem verum, quod Iulius scripsit: "Errat, qui in bello omnes secundos eventus expectat." Reliqua est una eaque frequens et ardens precatio ad deum aeternum patrem liberatoris nostri Iesu Christi, qui gemitus et clamores nostros non aspernabitur.</p>
+</div>
+<div>
+<p>Te autem oro, ut aliquo laeto nuncio me profecto valde labefactatum consoleris. De tractatione locorum expecto responsum tuum, ut promittis, oportune, quod arbitror fore ex sententia nostra.</p>
+</div>
+<div>
+<p>Amicos omnes meis verbis salutabis, patrem Pellicanum, Theodorum
+<fn>Theodor Bibliander.</fn>, Frisium et reliquos, ad quos non vacat nunc scribere. Vale.</p>
+<p>Basileae, 19. octobris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero, episcopo fidelissimo ecclesiae Tigurinae.</p>
+</div> </textweg>
+</brief>

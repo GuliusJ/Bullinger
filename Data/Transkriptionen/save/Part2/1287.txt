@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1287">
+<nr>1287</nr>
+<correspondents>
+	<originator>Philipp Gallicius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Malans</place>
+	<date>13. Juli 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 12f (Siegelspur)</vo>
+<re>Dankt Bullinger, wenn auch verspätet, für das geschenkte Buch ["De origine erroris"?] und rühmt seine Fähigkeiten, für die ganz Europa dankbar sein kann; sieht ihn als Propheten und Bewahrer des Erbes von Zwingli und Oekolampad und bewundert ihn mehr noch als so hervorragende Männer wie Vadian
+und andere. Über die Errichtung der Schule wird Johannes Blasius, der Nikolaus [Pfister, gen.] Baling zurückholt, mündlich berichten.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 14-16, Nr. 13.]
+</content>
+</letter>

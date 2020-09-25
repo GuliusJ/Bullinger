@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="639">
+<correspondents>
+	<originator>Johannes Lüthard</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>(*nach Ende August 1535*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 441, 480 (Siegelspur)</record>
+<print></print>
+<note>Übersetzung: Zwa VIII/6, 1946, S. 331</note>
+<statue>
+Dankt für Bullingers (*Kommentar zu vier Paulusbriefen*); in der
+Auslegung schwieriger Stellen des Epheserbriefs ist dieser
+(*den Kommentaren von*) Bugenhagen, Bucer und Megander überlegen.
+</statue>
+<content>
+Gratia Christi tecum, optime Bullingere.
+<p>Accepi equidem donum tuum+2 et cum tanta accepi animi alacritate, ac si a deo, non ab homine thesaurus michi esset transmissus celestis. Resedi cicius atque revidi scripta tua ac mentem tuam Paulinam maxime in locis
+quibusdam nodosioribus epistole (*ad*) Ephe(*sios*). Et ingenue hoc
+fateor te unum plus
+paucis michi praestitisse quam omnes, quos legerim. Pomeranus+3 brevis
+est, Bucerus+4 verbosissimus, Megandrum+5 pro nichilo habeo. Quid igitur
+retribuam Bullingero pro omnibus, quae retribuit michi? Calicem
+gratitudinis accipiam et nomen domini invocabo, ut iis(*!*), qui dives
+est in omnes, in te quoque dives sit teque vice mea in omnibus ditescat
+bonis, ut et ecclesie Christi et michi non tam diuturna vita quam
+scriptis diu prosis, licet equales+a ego rependere non queam.</p>
+<p>Vale cum tua ecclesia domestica faustissime.</p>
+<signature>
+Tuus Luithhardus, minoritice dudum
+factionis concionator Basilee.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinrico Bullingero, ecclesie
+Tigurine episcopo vigilantissimo, patri suo in Christo etc.
+</address>
+</content>
+<note>
++a>equales
+<print>
+aus  equalem  korrigiert.
+</print>
+<address>
++1>Am 31. August 1535 sandte Bullinger Melanchthon
+ein Exemplar seines soeben erschienenen Kommentars zu vier
+Paulusbriefen (HBBibl I 72) und versprach Myconius ein solches (s. oben
+Nr. 636, 12-14; 637, 27f).
+Die Zusendung an Myconius verzögerte sich bis zum Oktober (s. unten Nr.
+656, 33), Lüthard kann jedoch Bullingers Geschenk
+schon früher erhalten haben.
++2>Da im folgenden von Auslegungen des Epheserbriefs die Rede ist,
+muss es sich beim Geschenk Bullingers um ein Exemplar seines Kommentars
+zu vier Paulusbriefen (vgl. Anm. 1) gehandelt haben.
++3>Johannes
+<print>
+Bugenhagen,  Annotationes in decem epistolas Pauli, Nürnberg
+1524.
++4>Martin
+Bucer,  Epistola d. Pauli ad Ephesios, Strassburg 1527.
++5>Kaspar
+Megander,  In epistolam Pauli ad Ephesios commentarius, Basel
+1534.
+</print>
+</address>
+</note>
+</letter>

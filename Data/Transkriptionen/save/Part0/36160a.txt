@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="36160a">
+<nr>36160a</nr>
+<correspondents>
+	<originator>Johannes Vogler der Ältere</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Uster?]</place>
+	<date>13. Mai 1566</date>
+</space_time>
+<vo></vo>
+<note>Siehe den Eintrag unter Nr. 36160</note>
+</content>
+</letter>

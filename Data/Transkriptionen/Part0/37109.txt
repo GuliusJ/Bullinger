@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="37109">
+<nr>37109</nr>
+<correspondents>
+	<originator>Ulysses Martinengus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chiavenna</place>
+	<date>6. Oktober 1567</date>
+</space_time>
+<vo>Zürich ZB, Ms S. 116, 163.</vo>
+<dr>Gr. III, S. 34 R.</dr>
+Er empfiehlt einen Religionsflüchtling, "Oedoardus ex
+Thienensibus comitibus, Vincentiae civitatis primarius", und
+verweist für alles Weitere auf diesen. "Hoc unum tibi dicam
+me a deo meo in tam longa gravissimaque cruce non deseri,
+sed alacriter patienterque sustinere martyrium hoc,
+contemplantem scilicet non quae videntur, sed quae non
+videntur."
+Claven[n]ae, die sexto octobris 1567.
+</content>
+</letter>

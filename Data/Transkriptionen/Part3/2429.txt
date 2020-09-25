@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2429">
+<brief>
+<id>16116</id>
+<nr>2429</nr>
+<ae>Bullinger an Wolfgang Musculus</ae>
+<od>Zürich, 22. April 1546</od>
+<vo>Abschrift von Leodegar Hirsgarter: Zürich StA, E II 345, 361</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 60 </k></dr>
+<re>Bullinger bedankt sich für den durch den Zürcher Studenten [Markus ...] übermittelten Brief [<qv>nr2399</qv>]. Besonders willkommen waren Musculus' Ausführungen über das [Zweite] Regensburger Religionsgespräch. Bullinger wünschte, man würde künftig auf solche Gespräche verzichten, zumal diese der Kirche schaden. Infolge jener Verhandlungen werden die Gegner nur frecher. Sie behaupten sogar, dass die [Protestanten] ihre Reform bereits bereuten. Die Brüder, [die mit den Katholiken verhandeln], geraten [bei den Ihren] in Verdacht. Die Schwachen beginnen zu zweifeln, währenddem die Starken sich über die Vermittlungen ärgern. Von diesen Gesprächen ist nichts zu erwarten, auch wenn der [bevorstehende] Reichstag wohl wieder solche anordnen wird. Die von den Frevlern Papst [Paul III.] und Kaiser [Karl V.] abgeordneten Gesprächspartner sind gottlose Menschen, die den Protestanten feind sind und diese als Häretiker betrachten. Sie führen sich auf wie einst Pharao, Iamnes und Iambres, und würden ihre Lehre nicht im Geringsten preisgeben. [Paulus] empfiehlt, sich vor solchen Menschen zu hüten; ja sogar, sich ihnen zu widersetzen. Während der Herr uns zu Klarheit auffordert, verdunkeln wir Menschen klare Angelegenheiten.
+<t/>[Alfonso] Diaz, der seinen Bruder [Juan] umbrachte wie einst Kain seinen Bruder Abel, verdient, gerädert zu werden. Aus diesem Vorfall geht klar hervor, dass von Gesprächen mit solchen Menschen nichts zu erwarten ist.
+<t/>Die Eidgenossen hielten ihre Tagsatzung in Baden ab und behandelten dabei ein Gesuch des Schmalkaldischen Bundes, welcher die Eidgenossen mittels einer Gesandtschaft bat, fremden bzw. italienischen und spanischen Truppen jeglichen Durchzug in Richtung Deutschland zu verweigern. Es wurde eine freundliche und zuvorkommende Antwort erteilt.
+<t/>[Johannes] Haller, der Musculus' Güte in seinen letzten Briefen sehr pries, soll diesem empfohlen sein.
+<t/>Grüße an [Konrad und Claudius Pius] Peutinger.</re>
+<text>
+<p>Gratiam et vitae innocentiam a domino. Amicas tuas literas, Muscule praestantissime, 30. martii datas
+<fn>Brief <qv>nr2399</qv>.</fn> mature satis <zzl>zl2429-1A</zzl>per studiosum
+<fn>Marx oder Markus [...]; s. <qv>nr2399</qv>, <qv>fn2399-8</qv> und <qv>nr2403</qv>, <qv>fn2403-5</qv>.</fn> collegii nostri accepi,<zzl>zl2429-1E</zzl> qu{e} et oblectarunt me non mediocriter. Gratissimum enim id mihi imprimis, quod hoc ipsum certa narratione contexis, quod certo scire utile quidem, sed ita vagis et vanis rumoribus spargitur, ut, quid credas, nescias. Intellexi ergo ex tuis certo, quibus de causis colloquium illud Ratisbonense
+<fn>Das Zweite Regensburger Religionsgespräch; vgl. <qv>nr2399</qv>,<qv>zl2399-7</qv>.</fn> dissolutum in fumum et nebulam abierit ac citra fructum etiam, non tamen sine sumptibus maximis.
+<fn>Vgl. <qv>nr2376</qv>,<qv>zl2376-11</qv>; <qv>nr2424</qv>,<qv>zl2424-2</qv>.</fn> Cuperem ego, ut aliquando finis aliquis talium inveniretur colloquiorum. Toties iam tentata sunt colloquia sine omni fructu, atque utinam pauco cum detrimento ecclesiae! Certum est adversarios a colloquiis (quicquid tandem in colloquiis pro sua versutia animadvertant) intollerabilius ferocire quam antea; imo incipiunt nescio quid spirare, quasi nos
+<fn>Die Protestanten.</fn> nostrae poenituerit reformationis. Gloriantur apud suos brevi rem habituram melius. In <vl>361v.</vl> suspitionem veniunt fratres. Tentantur et deficiunt animi propemodum nostrorum, eorum maxime, qui alias sunt infirmiores. Firmiores indigne h{e}c ferunt, ita ut ex colloquiis illis parum utilitatis redeat ad ecclesiam. Ego certe nihil ex iis spei concipio, <zzl>zl2429-2A</zzl>licet brevi sint hisce restauranda et in meliorem formam componenda comitiis
+<fa><i>In der Vorlage</i> convitiis. <i>- Eine weitere Fehllesung unten <qv>fn2429-1</qv>.</i></fa>
+<fn>Damit ist der bevorstehende Regensburger Reichstag gemeint; s. <qv>nr2331</qv>, <qv>fn2331-2</qv>.</fn><zzl>zl2429-2E</zzl>. Quibuscum enim colloqui debent nostri, palam et ex professo sunt impii et persequtores manifesti et crudelissimi religionis nostrae. Extant atrocia papae
+<fn>Paul III.</fn> et caesaris
+<fn>Karl V.</fn> aedicta
+<fn>Bullinger denkt an die Maßnahmen gegen die niederländischen Protestanten und gegen Hermann von Wied; s. <qv>nr2333</qv>,<qv>zl2333-8</qv>; <qv>nr2381</qv>, <qv>fn2381-2</qv>; <qv>nr2384</qv>, <qv>fn2384-4</qv> und <qv>fn2384-5</qv>. Vgl. ebenfalls <qv>nr2415</qv>,<qv>zl2415-4</qv>.</fn>: Sunt in conspectu dei et totius mundi funestissima facta. Qui ab his deputantur, impii sunt, pertinaces, Pharaonici
+<fn>Vgl. <qv>nr2401</qv>,<qv>zl2401-3</qv>,<qv>zl2401-4</qv>.</fn> et sicut Iamnes et Iambres
+<fa>Iambres <i>von Bullinger aus</i> Mambres <i>korrigiert; s. schon <qv>nr2401</qv>, <qv>fn2401-1</qv>.</i></fa>
+<fn>2Tim 3, 8.</fn> ad contradicendum tantum compositi, nec aliud cogitant, quam ut sua quovis modo defendant et defendendo nostrorum animos vel frangant vel abstrahant. Nam id fixum animis tenent, nos esse h{e}reticos et sibi nullo modo vel latum pilum
+<fn>In Anlehnung an die deutsche Wendung "Haaresbreite" (<a>Wander</a> II 226f, Nr. 209. 275. 277) und in Entsprechung zu dem klassischen Ausdruck "latum unguem"; s. <a>Adagia</a> 1, 5, 6 (<a>ASD</a> II/1 482-484, Nr. 406).</fn> esse cedendum. Unde apostolus
+<fn>Paulus.</fn> non sine causa non modo fugere tales, sed aversari praecipit 2. Timoth. 3, [5]
+<fn>Allerdings findet sich an dieser Stelle keine Aufforderung, sich solchen Menschen zu widersetzen.</fn>. Non temere dominus Iesus a suis confessionem simplicem evangelii et doctrinam simplicem postulavit.
+<fn>Anspielung auf Mt 5, 27; 10, 16.</fn> Praeterea nihil in re qualibet tam planum et apertum, quod versipellis hominis lingua non queat facere intricatum et obscurum, ut iam non commemorem alia consequentia disputationis, quae commemorat Paulus 1. Timoth. 6.
+<fn>1Tim 6, 3-5. 20f.</fn> Video apostolos simpliciter egisse cum adversariis, constanter et plane proposuisse veritatem, rebellantes et blasphaemantes reliquisse. Metuo ergo, ne, dum nostra sapientia veritatis negotium illustrare volumus, magis obscuremus. Dominus misereatur nostri.</p>
+<p>Crudele facinus est, quod narras
+<fn>Vgl. <qv>nr2399</qv>,<qv>zl2399-2</qv>.</fn> de Diazio
+<fn>Alfonso Diaz, der seinen Bruder Juan am 27. März ermordet hatte.</fn>, iudice rotae apostaticae
+<fn>Wortspiel mit "rota apostolica"; s. <qv>nr2399</qv>, <qv>fn2399-2</qv>.</fn>. Dignus plane est, qui implicetur rotae iustitiae
+<fn>Anspielung auf eine Hinrichtung durch Rädern.</fn>. Factum hic est, quod olim in exordio mundi, cum Abelem conficeret Cain, frater fratrem.
+<fn>Siehe Gen 4, 1-15.</fn> Specimina haec sunt. Quid expectemus a huiusmodi hominibus, qui consilia colligunt
+<fn>Vgl. Ps 21 (Vulg. 20), 12; 94 (Vulg. 93), 21f; 140 (Vulg. 139), 3; usw.</fn> et ad colloquia convolant? Vigilemus et oremus.
+<fn>Mt 26, 41 par.</fn></p>
+<p><zzl>zl2429-3A</zzl>Nulla apud nos sunt nova, nisi quod Helvetii comitia celebrarunt Baden{e}
+<fn>Zu der eidgenössischen Tagsatzung vom 12. April s. <qv>nr2327</qv>, <qv>fn2327-4</qv>; <qv>nr2407</qv>, <qv>fn2407-3</qv>; <qv>nr2424</qv>,<qv>zl2424-3</qv>.</fn> maxime propter foedus Schmalkaldiense. Misit id legationem
+<fn>Die Konstanzer Matthäus Molckenpur und Dominik Hochrütiner; s. oben <qv>nr2413</qv>,<qv>zl2413-8</qv>.</fn> ad eos admonens, ne transitum in Germaniam per Helvetiam concedant exercitui peregrino, Italico aut Hispanico, si quis forte transire tentaret. Amicissime responsum
+<fa><i>In der Vorlage</i> rursum.<zfn>fn2429-1</zfn></fa> est a nostris
+<fn>Allerdings nur vonseiten der protestantischen Stadtkantone.</fn> Helvetiam Germani{e} favere, agere denique gratias pro admonitione et semper incolumitatem Germani{e} curaturos, etc.<zzl>zl2429-3E</zzl></p>
+<p>Vale, dilecte mi frater, et Hallerum
+<fn>Johannes Haller.</fn> nostrum commendatum tibi habe, qui benevolentiam tuam valde mihi praedicavit postremis suis literis,
+<fn>Eine offensichtliche Übertreibung, zumal alle Briefe Hallers an Bullinger für die unmittelbar vorangegangene Zeit erhalten sind, Hallers Briefe vom 14. April (<qv>nr2422</qv>) und 1. April (<qv>nr2406</qv>) Musculus nicht erwähnen und die Anspielung auf Musculus in Hallers Brief vom 23. März (<qv>nr2389</qv>,<qv>zl2389-9</qv>) längst nicht so lobend ausfällt, wie dies hier behauptet wird.</fn> pro qua re magnas tibi gratias ago. Tiguri, 22. aprilis 1546.</p>
+<p>Salutabis amicissime d. Peutingeros,
+<fn>Konrad Peutinger und dessen Sohn Claudius Pius Peutinger.</fn> dominos semper colendos, et omnes fratres atque fautores.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse als Überschrift von Bullingers Hand:] Musculo suo, Augustano ecclesiastae, Bullingerus.</p>
+</text>
+</brief>

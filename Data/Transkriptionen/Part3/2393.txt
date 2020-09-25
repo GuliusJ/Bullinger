@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2393">
+<brief>
+<id>16083</id>
+<nr>2393</nr>
+<ae>Gilbert Cousin an Bullinger</ae>
+<od>Nozeroy, 25. März 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 319 (Siegelspur)<k>Kopie: Zürich ZB, Ms S 59, 157 </k></vo>
+<dr>Ungedruckt</dr>
+<re>Da sich jemand [...] nach Basel begibt, von wo aus [Johannes] Gast den Brief an Bullinger weiterbefördern kann, möchte Cousin die Gelegenheit nutzen, Bullinger zu grüßen und ihm mitzuteilen, dass er von seiner Gesandtschaft nach Frankreich nun wieder gut zurückgekehrt ist und sich auch weiterhin Bullinger dienlich erweisen kann.
+<t/>Bullinger soll wohlbehalten bleiben! Cousin hört ihn, ja sieht ihn sogar täglich beim Lesen seiner Schriften. Er schätzt die Mäßigung, mit der Bullinger sich verteidigt, und er hat außerdem schon den größten Teil von dessen [Markus]kommentar gelesen.
+<t/>Grüße.
+<t/>[P.S.:] Grüße auch an [Theodor] Bibliander, [Konrad] Pellikan und Konrad Gessner, dessen "Bibliotheca [universalis]" Cousin noch nicht sehen konnte.</re>
+<text>
+<p>S.P. Cum hic
+<fn>Unbekannt.</fn>, qui has Gastio nostro reddet isthuc
+<fn>nach Zürich.</fn> transmittendas, se recta Basileam iturum significaret, meae erga te observantiae esse duxi, si te his longo post tempore salutarem, significaremque post meum a Gallica legatione reditum
+<fn>Vgl. <qv>nr2368</qv>,<qv>zl2368-7</qv>.</fn> hic me pristinae molae operam dare, ut scires, ubi gentium tuo prisco in me iure uti valeas. Nam si unquam alias, nunc maxime meum illud erga te studium viget; quod re potius quam verbis testari recipio. Certe, si cuiusquam, tui maxime, causa nihil non conabor, mi Bullingere, et, ut periculum facias, te etiam atque etiam rogo.</p>
+<p>Interim serva te nobis incolumem, nam quamdiu vixeris, tandiu et literariae reipublicae et christiano nomini consultum iri arbitramur. Ego (quod mihi tantum licet)
+<fa><i>Klammern ergänzt.</i></fa> quotidie te in tuis scriptis disserentem audio et pene conspicor. Inprimisque sum tuis defensionibus mirabiliter delectatus. Summam enim illae doctrinam et illam, quam ego maxime probo, egregie redolent animi moderationem.
+<fn>Zu diesen Büchern Bullingers siehe bereits <a>HBBW</a> XV 378 und Anm. 7.</fn> Annotationum tuarum
+<fn>Offensichtlich hatte Bullinger ihm auch noch seinen im August 1545 erschienenen Markuskommentar (<a>VD16</a> B4904; HBBibl I 170) zukommen lassen, zusammen mit einem nicht erhaltenen Brief, der auf <a>HBBW</a> XV, Nr. 2187, vom 22. Juni 1545 antwortete.</fn> iam bonam perlegi partem.</p>
+<p>Bene atque optime vale, et me in tuo aere
+<fn><i>Cicero,</i> Epistulae ad familiares, 15, 14, 1.</fn> semper censeas et, ut vales et si quid novi excudis, significes quandoque, rogo atque obsecro. Iterum vale.</p>
+<p>Datum Nozerethi, 8. calendas aprilis anno christiano 1546.</p>
+<un>Tui studiosissimus et observandissimus</un>
+<un>Gilbertus Cognatus Nozerenus.</un>
+<lz/>
+<p><fa1 bis="1"><i>Links neben der Unterschrift nachgetragen.</i></fa1>Conradum Gesnerum, medicum excellentem, cuius opus Bibliotheces
+<fn>Gessners Bibliotheca universalis sive catalogus omnium scriptorum locupletissimus, in tribus linguis, Latina, Graeca, et Hebraica ..., Zürich, Christoph Froschauer, 1545 (<a>VD16</a> G1698; <a>BZD</a> C350).</fn> nondum mihi contingere nec videre licuit, Bibliandrum, Pellicanum caeterosque ecclesiastes salvere iubeo.<fa1e von="1"/></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro domino Henrico Bullingero theologo, praeceptori suo suspiciendo. Tiguri.</p>
+</text>
+</brief>

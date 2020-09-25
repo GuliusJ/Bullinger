@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2732">
+<brief>
+<id>16421</id>
+<nr>2732</nr> <from persid="Bullinger"/> <to persid="BlarerAmbrosius"/> <place plid="Zürich"/> <date when="1546-12-31"/>
+<ae>[Bullinger] an Ambrosius Blarer</ae>
+<od>Zürich, 31. Dezember 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 288 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 556f, <br/>Nr. 1387<k>Kopien 17. und 18. Jh. (beide datiert: 31. Dez. [1547]): Zürich ZB, Ms F 43, 136r.-137r.; Ms S 65, 183; Zit.: Pressel, Blarer 478 (auf Neujahr 1548 datiert); Stucki, Lavater 226 </k></dr>
+<re><t>Bullinger wünscht Blarer ein gutes neues Jahr, auch wenn dieses so schlecht beginnt.</t>
+<t>Blarers Schreiben [<qv>nr2731</qv>] nahm Bullinger mit Traurigkeit zur Kenntnis. Daraus geht hervor, wie wenig das Evangelium geschätzt wird. Und dieses Konzil, das der päpstliche Kaiser [Karl V.] einberufen will! Dadurch würde man den Glauben erst recht verleugnen!</t>
+<t>Bullinger tröstet sich mit dem Gedanken, dass die Konstanzer alles aufs Spiel setzen werden, ehe sie solche Friedensbedingungen annehmen würden. Schon vor dem Krieg hat man nichts anderes von ihnen erwartet. Angesichts der Wichtigkeit von Blarers Mitteilung hat Bullinger diese sogleich dem Bürgermeister [Hans Rudolf Lavater] angezeigt. Dieser war über die Unzuverlässigkeit der [protestantischen] Städte [Süddeutschlands] entsetzt. Daraufhin berief er den [Alt]bürgermeister [Johannes] Haab und die drei vertrauenswürdigen und frommen Obristmeister Georg Müller, [Itelhans] Thumysen und [Hans] Wegmann ein. Nach längerer Beratung wurde Bullinger vom Bürgermeister informiert, dass Müller am Sonntag [2. Januar 1547] nach Stein am Rhein reiten würde, nämlich unter dem Vorwand, sich als Obmann der Kirchengüter zum dortigen Pfleger [Hans Zubler] zu begeben. Um keinen Argwohn zu erregen, soll Konrad Zwick am Sonntagmittag in einer Herberge in Stein einkehren. Dann werden sich Müller und Zwick ernstlich über die Angelegenheit unterhalten. Müller ist ein vertrauenswürdiger Mensch, auf den Zwick wie auf Bullinger selbst (der leider nicht kommen kann) zählen darf.</t>
+<t>Die Konstanzer sollen wie fromme Christen ihr Leben für [Gottes] Bund und das Vaterland aufs Spiel setzen und sich nicht einschüchtern lassen!</t>
+<t>Der Bote [...] verlässt Zürich um fünf Uhr nachmittags. Bullinger hat ihn gebeten, die Nacht hindurch im Mondschein zu laufen, damit er am Neujahrstag etwa um 4 Uhr nachmittags in Konstanz eintreffe. Bullinger rechtfertigte seine Bitte, indem er dem Boten zu verstehen gab, dass Blarer dringend etwas wissen müsse. Er gab dafür 12 Konstanzer Batzen aus.</t>
+<t>Soeben kommt Müller vorbei. Er lässt Zwick ausrichten, dass er am Neujahrstag nach Winterthur reiten und am Tag darauf gegen Mittag in Stein ankommen wird, um dann auf Zwick zu warten. Wenn dieser eingetroffen ist, wird Müller ihm einen Boten schicken und ihn zum Essen einladen. Zwick soll die Einladung ablehnen mit der Begründung, dass er zu viel zu erledigen habe und bald wieder aufbrechen müsse. Dann wird Müller mit einem zweiten Boten ausrichten lassen, dass auch er bald abreisen und schnell essen wolle; woraufhin Zwick einwilligen soll. So wird dieses Treffen niemandem verdächtig vorkommen. Gott wird alles zum Besten wenden und die Seinen nicht verlassen.</t>
+<t>In Eile.</t>
+<t>[P.S.:] Die Bürgermeister [Lavater und Haab] grüßen Blarer und dessen Cousin [Zwick].</t></re>
+<text>
+<div>
+<p>Der allm{ae}chtig, ewig gott w{oe}lle üch und uns ein glückhafft g{uo}t jar verlihen, desse anfang er uns ruch
+<fn>schlimm, unangenehm: s. <a>SI</a> VI 181.</fn> s{ae}hen last! Gott w{oe}lle sich unser erbarmen!</p>
+</div>
+<div>
+<p><zzl>zl16421-6A</zzl>Uwer trüw, früntlich schryben
+<fn>Blarers Brief <qv>nr2731</qv> vom Vortag mit den Vorschlägen Blarers und Zwicks, wie Zürich an Konstanz schreiben sollte, um Konstanz von Friedensverhandlungen mit dem Kaiser abzuhalten.</fn> hab ich mitt leyd und grossem kumber verl{ae}sen, deßhalb, das ich sich
+<fn>sehe.</fn>, wie so gar kein evangelium by denen lüten ist.
+<fn>Anspielung auf die Unterwerfung einiger süddeutscher Städte unter den Kaiser; vgl. z.B. <qv>nr2725</qv>,<qv>zl16414-4</qv>. <qv>zl16414-2</qv>, und <qv>nr2729</qv>,<qv>zl16418-3</qv>.</fn><zzl>zl16421-6E</zzl> O deß consiliums
+<fn>Gemeint ist das Konzil, das laut Karl V. über die theologischen Punkte entscheiden sollte; s. <qv>nr2731</qv>,<qv>zl16420-8</qv>. - Zu Bullingers Orthographie dieses Wortes s. <a>HBBW</a> XVI 169, Anm. 19.</fn>, das der b{ae}pstisch keyser
+<fn>Karl V.</fn> ber{ue}fft! Die religion uff ain s{oe}lich consilium stellen, ist sy gar verlougnen! Eventus probabit.</p>
+</div>
+<div>
+<p>Uwern halben hab ich noch den trost, ir setzend dran, was ir habend, ee dann ir s{oe}liche condition annemmend. Man hat doch vor dem krieg nitt mee geforderet, etc.
+<fn>Gemeint ist: Die Eidgenossen oder die Zürcher haben nie (also auch vor dem Krieg nicht) etwas Wichtigeres von den Konstanzern gefordert, als sich nicht auf einen Frieden mit dem Kaiser einzulassen.</fn> <zzl>zl16421-3A</zzl>Und diewyl üch und uns dise sach lib und g{uo}t, ja vilmer seel und eer ber{ue}ren wil, hab ich üwer schryben ylendts minem herren burgermeister
+<fn>Hans Rudolf Lavater, der seit dem 27. Dezember 1546 wieder Bürgermeister war; s. auch <a>Stucki</a> 226 und Anm. 3.</fn> anzeigt.<zzl>zl16421-3E</zzl> Der hatt sich darab ettwaz entsetzt, denn er allw{ae}g die stett für redlicher gehept
+<fn>gehalten hat.</fn>. <zzl>zl16421-4A</zzl>Daruff hatt er den burgermeister Haben
+<fn>Johannes Haab.</fn> und die 3 obristen meister
+<fn>obristen meister: Obristmeister, auch Statthalter genannt. - Die vom Großen Rat kurz vor Weihnachten auf zwei bis drei Jahre aus den 24 Zunftmeistern gewählten Obristmeister waren maßgeblich an der Politik beteiligt; s. René <i>Hauswirth,</i> Die Zürcher Obristmeister (Oberstzunftmeister) 1518-1547, in: <a>Zwa</a> 12/8, 1967, 596-602. Laut Hauswirth (aaO, S. 599) war im Jahr 1547 Itelhans Thumysen (Zunftmeister zur Schmiden) Amtsältester der Obristmeister, während Georg (Jörg) Müller (Zunftmeister zur Meisen) Mittlerer Obristmeister und Hans (Johannes) Wegmann (Wägmann) (Zunftmeister zur Saffran) Jüngster Obristmeister waren. - Thumysen und Wegmann waren Mitglieder des Natalrats 1546, während Müller dem Baptistalrat 1546 angehörte; s. <a>Schnyder, Ratslisten</a> 308.<zfn>fn16421-1</zfn></fn>, m. J{oe}rgen M{uo}llern, m. Dumysen und m. W{ae}gman, ber{ue}fft. Die sind von den gnaden gottes alle trüw, synceri et vere pii, eins sins und hertzens. Hatt denen vertruwklich
+<fn>vertraulich.</fn> ein summ
+<fn>Zusammenfassung; s. <a>SI</a> VII 971.</fn> uß üwerm schryben fürgetragen, darüber sy sich lang beradtschlagt.<zzl>zl16421-4E</zzl> <zzl>zl16421-1A</zzl>Daruff ber{ue}fft mich min herr
+<fn>Lavater.</fn>. Heist mich üch zum h{oe}chsten dancken, und daß minen herren dise sach zum h{oe}chsten z{uo} hertzen gangen. Habind
+<fn>Lavater, Haab und die drei Obristmeister.</fn> für g{uo}t anges{ae}hen, das jetzund uff sontag
+<fn>2. Januar 1547.</fn> z{uo} mittentag ir obrister meister, m. J{oe}rg M{uo}ller, der morn uußryten wirt, z{uo} Stein
+<fn>Stein am Rhein, das unter der Schutzherrschaft von Zürich stand; s. <a>HBBW</a> XV 69, Anm. 11.</fn> alls ein obman der kylcheng{ue}ter
+<fn>Dass Müller tatsächlich dieses Amt innehatte, geht auch aus <i>Hauswirth,</i> aaO, S. 600, hervor.<zfn>fn16421-2</zfn></fn> ankumme, alls ob er mitt dem pfl{ae}ger
+<fn>Der Klosterpfleger (auch Amtmann oder Schaffner genannt) Hans Zubler (gest. 23. Mai 1557), der bald darauf durch den Zürcher Ratsherrn, den Goldschmied Stefan Zeller, ersetzt wurde. Zubler war früher Untervogt von Wohlen (im Freiamt Aargau) gewesen. Für seinen für die Reformation bekundeten Eifer erhielt er 1531 das Bürgerrecht von Zürich. 1544 Großrat, 1545 Zunftmeister zum Kämbel, 1545 und 1546 im Natalrat. Während der ersten Hälfte von 1546 wurde er zum Schaffner von Stein am Rhein erwählt; s. <a>LL</a> XVII 559; XX 159; Ferdinand <i>Vetter,</i> Das Sankt-Georgen-Kloster in Stein am Rhein, Basel/Stein am Rhein 1884, S. 52; <a>Schnyder, Ratslisten</a> 307; 308 und Anm. 3; 309 und Anm. 2; 618. - Dementsprechend sind <a>HBBW</a> XVI 118, Anm. 2 und 7 zu korrigieren: 1) Im Januar 1546 war der im dortigen Brief genannte Rudolf Kambli schon längst nicht mehr Amtmann in Stein an Rhein. 2) Der in diesem Brief erwähnte "oeconomus" ist nicht etwa der Seckelmeister von Stein am Rhein (Johann Leuberer), sondern der Pfleger des Klosters, damals wohl noch Zublers Vorgänger Heinrich Belzinger (gest. 1550).</fn> ze handlen. Da ist ir
+<fn>der Bürgermeister und Obristmeister.</fn> früntlich pitt, das C[onrat] Z[wick] dahin kumme, daß er ouch umb mittentag z{uo} Stein in ein herberg fare umb minder argwhons willen. Wil sich m. J{oe}rg z{uo} imm schicken und sich gn{uo}gsamm ersprachen
+<fn>gn{uo}gsamm ersprachen: ernstlich (darüber) unterhalten; s. <a>SI</a> X 728f.</fn>. Da so, bitten ich umb gottswillen, daß <fa1 bis="1"><i>In Geheimschrift (s. dazu <a>HBBW</a> XVII 45 und Anm. 232f; Abbildung aaO, S. 12).</i></fa1>Conrad Zwick<fa1e von="1"/> nitt uußblybe. Der m. M{uo}ller ist so ein uffr{ae}chter, ynbrünstiger gottsfründ und ein so redlicher mann, alls
+<fn>wie.</fn> wir inn hie habend. Demm darff er so vil vertruwen, alls wenn ich selbs by imm were. Die sach wil nitt beit haben
+<fn>wil nitt beit haben: duldet keinen Verzug; s. <a>SI</a> IV 1844.</fn>. Ist mir gar nitt m{uo}glich xin
+<fn>gewesen.</fn>, ze kummen.<zzl>zl16421-1E</zzl></p>
+</div>
+<div>
+<p>Th{uo}nd alls trüw fromm christen, die ir l{ae}ben und lib für das testament
+<fn>Den Bund, den Gott mit den Menschen geschlossen hat.</fn> und vatterland setzend! Lassend üch n{uo}t abschrecken! Lassend uns von hertzen gott anr{ue}ffen!</p>
+</div>
+<div>
+<p>Den botten
+<fn>Unbekannt.</fn> fertig ich hyn{ae}cht und jetzt z{uo} 5 ur uff der nacht
+<fn>5 ur uff der nacht: 5 Uhr nachmittags; vgl. unten Z. <qv>zl16421-5</qv>.</fn>. Hab inn geb{ae}tten, bim monschyn
+<fn>Laut Wolfgang Hallers Kalendereintrag unter dem 31. Dezember 1546 (Zürich ZB, Ms D 269/3) war es an diesem Tag schön. Aus der gedruckten Vorlage desselben Kalenders geht ferner hervor, dass es nur noch sechs Tage bis zum nächsten Vollmond waren.</fn> ze gan. Was
+<fn>War.</fn> er willig. Hab imm geschenckt 12 Constentzer batzen. Sagt
+<fn>Ich habe gesagt.</fn>: "M. Ambrosy
+<fn>Ambrosius Blarer.</fn> schribt mir, beg{ae}rt ettwas dur mich ze erfaren. Ist schier
+<fn>beinahe.</fn> ze spaadt. Aber sind ir morn uff den nüwen jarstag z{uo} den 4 oder
+<fn>etwa; s. <a>Fischer</a> V 38.</fn> vor nacht z{uo} Constantz, ist es fr{ue} gn{uo}g." Das schrib ich, daß ir üch g{ae}gen dem botten wüssind ze richten.</p>
+</div>
+<div>
+<p><vl>288v.</vl> <zzl>zl16421-2A</zzl>Und wie ich grad das geschriben hab, kumpt m. J{oe}rg selbs und sagt: "Schrib dem J[uncker] C[onradt]
+<fn>Konrad Zwick.</fn>, ich werde morn noch biß gen Wintherdur ryten. Z{uo} mittentag uff sontag wil ich, wills gott, z{uo} Stein sin. So ryte er sontags fru, das er ettwan umb die 12 ynryt. So wil ich sin gewaren
+<fn>sin gewaren: ihn erwarten; s. <a>SI</a> XVI 852.</fn>. Und wenn er
+<fn>Zwick.</fn> dann an die herberg ryt, wil ich imm ein botten schicken, z{uo} mir ze kummen und mitt mir ze {ae}ssen; ich sye grad erst ouch kummen. So sol ers abschlahen, sagen: gesch{ae}fften halb k{oe}nne er nitt; danck imm
+<fn>Georg Müller.</fn> vast
+<fn>sehr.</fn>; m{ue}ß wider hinw{ae}g. So wil er
+<fn>Müller.</fn> den andern botten schicken und bitten, dann er w{oe}lle ouch bald hinw{ae}g und schnell {ae}ssen. Dann so sol er
+<fn>Zwick.</fn> kummen." Achtend gentzlich, daruff werde nieman nut gedencken
+<fn>daruff werde nieman nut gedencken: dabei wird sich niemand etwas denken.</fn>.<zzl>zl16421-2E</zzl> Gott wirts wol schicken, dann
+<fn>denn.</fn> ich weiß, daß er uns nitt lassen wirt.</p>
+</div>
+<div>
+<p>Mitt g{uo}ter nacht, datum Zürych, des letsten decembris <zzl>zl16421-5A</zzl>ze 5 urn nach mittag ze nacht<zzl>zl16421-5E</zzl> 1547
+<fn>Der Brief ist im Natalstil datiert.</fn>. In yl.</p>
+<un>Die hand kennend ir wol.</un>
+</div>
+<div>
+<lz/>
+<p>Salutant te consules
+<fn>Lavater und Haab.</fn> et consobrinum.</p>
+<lz/>
+<p>[Adresse darunter:] Sinem frünt[lichen, für]geliepten
+<fa><i>Textverlust bei Entfernung des Siegels.</i></fa> her[ren und br{uo}]der M. A[mbrosien Blau]reren, p[redicanten z{uo}] Cons[tantz]
+<fa><i>Über</i> Cons[tantz] <i>Blarers Empfangsvermerk:</i> 1. ianuarii 1547.</fa>.</p>
+</div>
+</text>
+</brief>

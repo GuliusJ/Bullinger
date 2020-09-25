@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2481">
+<brief>
+<id>16171</id>
+<nr>2481</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>[Basel], 29. Juni 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 199 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 158; Erw./Zit.: <i>Gast,</i> Tagebuch 93f (A. 278, datiert 24. Juni), 278 (A 34)</k></dr>
+<re>Das Geld für die Gewürze ist angekommen. Gast wird sich gelegentlich bei Heinrich Petri nach dem Preis der Boethius[ausgabe] erkundigen.
+<t/>Die Straßburger haben vier Fähnlein Landsknechte an Landgraf [Philipp] von Hessen geschickt.
+<t/>Ein Hauptmann [...] aus dem Lager von König [Franz I.] von Frankreich schrieb an seine Mutter [...] nach Basel, dass er bereits heimgekommen wäre, wenn der Landgraf nicht seine [Truppeneinheit] angeworben hätte, die durch den Friedensschluß zwischen [Franz I.] von Frankreich und [Heinrich VIII.] von England freigestellt wurde.
+<t/>In Basel spricht man von einem geplanten Angriff von [Philipp von] Hessen und Herzog [Franz] von [Braunschweig]-Lüneburg gegen Brabant. Der Herr wird jenen Pharao [Karl V.] vernichten!
+<t/>Viele Kriegsknechte ziehen wieder ab, weil man ihnen Kriegsgrund und Gegner nicht benennen wollte.
+<t/>In Basel wurde ein Banner und ein Fähnlein ausgehoben.
+<t/>Der wütende Kaiser [Karl V.] ist geschwächt. Die Pfaffen werden ganz gewiss zugrunde gehen!
+<t/>Näheres wird Myconius [mit <qv>nr2482</qv>] berichten.
+<t/>[Herzog Moritz von] Sachsen sichert die Grenzorte zu Böhmen gegen Überraschungsangriffe ab.
+<t/>Die [Straßburger] Gesandten [Heinrich von Müllenheim und Michael Han] auf dem Reichstag zu Regensburg werden wegen der drohenden Gefahr innerhalb von drei Tagen in Straßburg zurück sein.
+<t/>PS.: Die Straßburger haben bis jetzt ungefähr sieben Fähnlein angeworben. Den Elsässern hat Markgraf [Georg von Württemberg] verboten, sich in fremden Sold zu begeben.</re>
+<text>
+<p>S. in domino. Pecunias pro aromaticis speciebus accepi.
+<fn>Vgl. <qv>nr2457</qv>,<qv>zl16145-1</qv>.</fn> Pretium Boethii
+<fn>Die Boethius-Ausgabe (s. <a>HBBW</a> XVI 178, Anm. 43) hatte Bullinger vermutlich nach dem 31. März von Gast erhalten (s. ebd., 289,20f).</fn> indicabo, si m. Henrichum Petri videro.</p>
+<p><zzl>zl16171-4A</zzl>Die von Straßburg haben dem lantgroven von Hessen
+<fn>Philipp von Hessen.</fn> 4 fenlin lantzknecht geschickt.
+<fn>Siehe dazu <a>PC</a> IV/1 148, Nr. 118; 158f, Nr. 129f; 164f, Nr. 138; 172, Nr. 144; 175, Nr. 148; 188, Nr. 164; 194, Nr. 170; 199, Nr. 176.<zfn>fn16171-1</zfn></fn><zzl>zl16171-4E</zzl></p>
+<p><zzl>zl16171-2A</zzl>Ouch hab ich ein brieff gelesen, den ein houptman
+<fn>Unbekannt.</fn> uß des kunigs von Franckreichs
+<fn>Franz I.</fn> leger
+<fn>Lager.</fn> geschriben hat siner m{uo}tter
+<fn>Unbekannt.</fn>, die z{uo} Basel wonet, er w{oe}lte jetz heimkommen sein. So hab er, der Hessus, den huffen lantzsknecht angenomen, nachdem es friden ist worden zwischen dem Gallo und Anglo
+<fn>König Heinrich VIII. - Zum Friedensschluss s. <qv>nr2470</qv>,<qv>zl16160-4</qv>; <qv>nr2482</qv>,<qv>zl16172-1</qv>.</fn>.
+<fn>Die Initiative, diese Truppen für den Landgrafen anzuwerben, geht auf Straßburg zurück; s. <a>PC</a> IV/1 164f, Nr. 138; 166, Nr. 139; 168, Nr. 141; 173, Nr. 144; 175f, Nr. 148; 181, Nr. 154; 188, Nr. 164.<zfn>fn16171-2</zfn></fn><zzl>zl16171-2E</zzl></p>
+<p>Das geschrey ist by unß, der Hessus und dux Lüneburgensis
+<fn>Herzog Franz von Braunschweig-Lüneburg-Gifhorn.</fn> wellen Probant
+<fn>Brabant.</fn> angriffen, darin vil gerüster pferdt seindt und vil f{uo}ßvolcks. Got gebe gluck und heil! Scio dominum nos non deserere, sed suo auxilio Pharaonem illum
+<fn>Karl V.; vgl. <qv>nr2478</qv> und <qv>fn16168-5</qv>.</fn> perdere ac ad inferna detrudere.</p>
+<p>Es kummen vil knecht widerumb. Die ursach, mann wil ynen nit sagen, wo uß man w{oe}lle, wider wenn
+<fn>wen.</fn>.</p>
+<p><zzl>zl16171-1A</zzl>Die unsern haben ußgelegt
+<fn>ausgehoben; gemustert.</fn> zum fenlin und paner.
+<fn>Siehe dazu <qv>nr2478</qv>, <qv>fn16168-3</qv>.</fn><zzl>zl16171-1E</zzl></p>
+<p>Der keyser wietet
+<fn>wütet.</fn>, pfifft uff dem letzsten löchlin.
+<fn>"Auf dem letzten Loch pfeifen", d.h. am Ende seiner Kräfte sein; vgl. <a>Wander</a> III 216, Nr. 79.</fn> Die pfaffen müssen gar zum tüfel.</p>
+<p>H{e}c paucis volui ad te scribere; reliqua Myconius.
+<fn>Mit Brief <qv>nr2482</qv>.</fn></p>
+<p><zzl>zl16171-5A</zzl>Saxo
+<fn>Herzog Moritz von Sachsen.</fn> parat se ac munit loca Bohemiam spectantia, ne irruptio fiat improvisa.
+<fn>Vonseiten der Türken. - In Christoph von Carlowitz' Brief an Herzog Moritz von Sachsen, 27. und 28. Juni 1546 (<a>Moritz von Sachsen PK</a> II/2 684, Nr. 933), wird diese Gefahr allerdings als gering eingeschätzt. Herzog Moritz fürchtete wohl schon damals einen Einfall des Königs von Böhmen, Ferdinand I., ins benachbarte ernestinische Sachsen; s. <qv>nr2603</qv>, <qv>fn16291-2</qv>.<zfn>fn16171-4</zfn></fn><zzl>zl16171-5E</zzl></p>
+<p>Ich weiß das wol, das die botschafft von Straßburg ist heimpostiert in 3 tagen von Regenspurg,
+<fn>Die Gesandten Straßburgs auf dem Regensburger Reichstag waren Heinrich von Müllenheim und Michael Han. Mit einem Schreiben vom 21. Juni forderte der Straßburger Rat sie zur Heimkehr auf; s. <a>PC</a> IV/1 145, Nr. 113. - Die in diesem Brief überlieferten und mit Straßburg in Verbindung stehenden Nachrichten gehen wohl auf Ulrich Chelius (Geiger) zurück, der am 28. Juni als Gesandter Straßburgs in Basel nachgewiesen ist; <a>PC</a> IV/1 165, Nr. 138; 173f, Nr. 146.<zfn>fn16171-5</zfn></fn> do
+<fn>diesbezüglich.</fn> niemants nuit darvon geseyt, ob periculum imminens. Gott kan alle consilia impiorum frangere, annihilare,
+<fn>Vgl. Ps 37 (Vulg. 36), 12-17; Hi 5, 12; Neh 4, 9 (Vulg. 15).</fn> saltem nos domino fidamus, illum invocemus corde et ore.
+<fn>Vgl. Röm 10, 9f.</fn></p>
+<p>Vale. 29. iunii 1546.</p>
+<un>Tuus G.</un>
+<lz/>
+<p>Die von Straßburg nement noch knecht an. <zzl>zl16171-3A</zzl>Haben by 7 fenlin.<zzl>zl16171-3E</zzl> Mann wolt im Elsaß knecht annemen, so wil niemants ziehen.
+<fn>Das stimmt nicht; s. z.B. <a>PC</a> IV/1 175, Nr. 148.</fn> Der margraff
+<fn>Georg von Württemberg-Mömpelgard.</fn> hat verbotten by lib und g{uo}t, das niemants keim herren z{uo}ziehe, er sey, wer er w{oe}lle.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem erw{ue}rdigen herren, herren Heinrychen Bullinger, pfarherr z{uo} Zürich, mynem gunstigen, lieben herren, z{uo} handen. Zürich.</p>
+</text>
+</brief>

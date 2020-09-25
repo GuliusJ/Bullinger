@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2346">
+<brief>
+<id>16036</id>
+<nr>2346</nr>
+<ae>David Wäber
+<fn>David Wäber (Textorius), geb. am 16. Juni 1525, gest. 1565 im 40. Lebensjahr. Sohn von Johannes Wäber (der am 7. April 1544 zum Helfer in Bern gewählt wurde und diese Stelle am 1. Mai 1544 antrat; vgl. auch <a>HBBW</a> XIV 210, Anm. 4) und von Margareta Sickenthaler (gest. am 4. Mai 1553). David wurde Ende August 1543 Provisor (Gehilfe des Schulmeisters) in Aarau. Vom 23. September 1545 bis 1547 Diakon zu Suhr-Aarau. Im Januar 1547 legte Wäber den Prädikanteneid vor dem Aarauer Kapitel ab. Im März 1547 Pfarrer zu Thunstetten. In unbekanntem Jahr Pfarrer zu Walkringen. 1557 Pfarrer in Steffisburg. 1565 zum zweiten Pfarrer von Thun ernannt; gest. noch vor seinem Amtsantritt. - Von David Wäber liegt nur dieser Brief an Bullinger vor. Er korrespondierte auch mit Rudolf Gwalther (Zürich ZB, Ms F 40, 548, vom 7. November 1549 aus Thunstetten) und mit Samuel Pellikan (s. dazu <a>HBBW</a> XV 336, Anm. 4). - Lit.: Autobiographie von Johannes Wäber (Kopie aus dem 18. Jh., Bern StA, B III 65); maschinenschriftlich transkribiert von Fritz Allimann-Laubscher (Bern StA, BC 8/5); <a>Pf-Bern</a> 304; <a>Pf-Aargau</a> 40. 53 (Nr. 54); Joseph <i>Balmer,</i> Johannes Wäber, "Textorius" von Merenschwand, 1499-1577. Lebensbild eines Freien-Ämter-Reformators aus den Tagen der Glaubenstrennung auf Grundlage von dessen Selbstbiographie unter Benutzung gedruckter Acten, Luzern 1883; Martha <i>Reimann,</i> Die Geschichte der Arauer Stadtschulen von ihren Anfängen bis zum Ende der bernischen Herrschaft (1270-1798), Aarau 1914, S. 40 (mit Quellenangaben).</fn> an Bullinger</ae>
+<od>Suhr, 7. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 360, 391 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Abschrift)</k></dr>
+<re>Wäber hatte sein Studium vernachlässigt und schien aufgrund dessen das Wohlwollen Bullingers und seines Vaters [Johannes Wäber] sowie die Möglichkeit, weiter gefördert zu werden, verspielt zu haben. Doch rechnet er seine Nachlässigkeit seinem jugendlichen Alter an. Seitdem hat er sich gut entwickelt.
+<t/>Wäber reiste zu Weihnachten [1545] nach Bern, um seine Eltern zu besuchen, und als er einige Tage bei seinem Vater weilte, brachte der Berner Bürger Andreas Rappenstein einen Brief, in welchem Bullinger freimütig seine Meinung über [Johannes Wäbers] "Apologie" geäußert hatte. Dem Brief war auch Johannes a Lascos Schreiben über das Abendmahl und das Inhaltsverzeichnis zu Bullingers Buch "De sacramentis" beigelegt. In seinem Brief bot Bullinger Johannes Wäber an, das ganze Buch für ihn abschreiben zu lassen, falls er daran Interesse hätte. Demzufolge hat [Johannes Wäber] seinen [Sohn David] bei dessen Abreise beauftragt, Bullinger brieflich zu bitten, das Buch entweder in Zürich für ihn abschreiben zu lassen oder es an [David] zu senden, damit dieser es abschreiben könne; es sei denn, Bullinger beabsichtige, es in Kürze drucken zu lassen. Die Gelehrten wären nämlich für einen solchen Druck dankbar, und um die Verleumder braucht man sich nicht zu scheren!
+<t/>Bullinger möge Widerspruchsgeister durch das Wort des Herrn überzeugen.</re>
+<text>
+<p>Non tam fortunarum mearum tenuitas quam authoritatis tuae maiestas in causa fuit, quo minus ad te literarum dederim hactenus, vir doctissime. Fateor enim, quam par fuerit, negligentius me meis olim invigilasse studiis, ut et favorem tuum erga me patrisque benevolentiam et fovendi studium viderer amisisse. Illud autem, quidquid admittebatur, adolescentiae retuli acceptum, siquidem abhinc domino sic prosperante satis foeliciter, absit invidia verbo,
+<fn>absit invidia verbo: <i>Livius,</i> Ab urbe condita, 9, 19, 15.</fn> profeci. Quocirca primum, quod oro, ut audias vehementer, velim, ut vel propter parentem meum
+<fn>Johannes Wäber.</fn> me tibi commendatum habere digneris, quoniam me haud praeterit, quam nihil unquam facere potuerim, ut merito meo in clientelam tuam reciperer. Quodsi hactenus minime tibi me licuit adprobare, in postero tamen id enitar sedulo.</p>
+<p>Sed ne longius obtundendo seriis occupatum rebus animum diutius, quid velim, sileam, scias, domine venerande, circa festum celebre natalis domini nostri Iesu Christi visendorum parentum gratiam Bernam migrasse, cumque apud patrem aliquot diebus manerem, allatae sunt illi per Andream Rappenstein, civem Bernensem, abs te liter{e} satis liberales
+<fn>Nicht erhalten.</fn>, quibus tuam de parentis apologia
+<fn>Diese Schrift konnte nicht ermittelt werden. - Im Jahr 1545 kam es unter den "Zwinglianern" in Bern zu einer Meinungsverschiedenheit über das Abendmahl und dessen Austeilung an die Kranken. Erasmus Ritter schrieb diesbezüglich an Bullinger und bat ihn, Wäber zu ermahnen (<a>HBBW</a> XV, Nr. 2082). Bullinger wird auf Wäbers Rechtfertigung (die wohl in der ersten Hälfte des Jahres 1545 anzusetzen ist) mit dem nicht erhaltenen Brief reagiert haben.</fn> sententiam aperis exquisitam interim missa quadam Ioannis a Lasco de coena domini epistola
+<fn>Johannes a Lascos Brief über das Abendmahl vom 23. Juni 1545, der an Bucer gerichtet war; s. dazu <a>HBBW</a> XV 433, Anm. 9.<zfn>fn2346-1</zfn></fn> et capitibus summariis in librum de sacramentis Christi et ecclesiae nuper a te conscriptum
+<fn>Siehe dazu Bullingers Brief an Blarer vom 14. Januar 1546, <qv>nr2332</qv>, <qv>fn2332-2</qv>.</fn>, simul ultro pollicens curaturum te, qui rescribatur patri hic liber, si putarit sibi eum usui fore. Commendavit igitur pater abeunti mihi, ut ad te literas hac ipsa de re darem suoque plurimum rogarem nomine, ut tuum de sacramentis librum aut Tiguri describi curare digneris aut ad a me perferri, ut raptim ego describam, nisi commodius intermitti posse putes, si videlicet animus fuerit breviter eum sub praelum dare. Magnam te apud bonos gratiam initurum novi, si excudi eum curaveris. Fatescant
+<fn>= Fatiscant.</fn> mali calumniatores, quos nihil moramur! Nam sicut avis ad alta transvolans et passer quolibet vadens
+<fn>Spr 26, 2.</fn>, sic maledictum frustra prolatum in quempiam superveniet.</p>
+<p>Reliquum est, Bullingere colende, ut esse, qui coepisti, pergas in domino convincens contradicentes sano et syncero dei verbo. Hanc gratiam largiatur dominus omnium, dives in omnes invocantes se
+<fn>Röm 10, 12.</fn>.</p>
+<p>Vale in Christo. Datae in Sur, septimo idus februarii anno a nativitate domini nostri Iesu Christi supra millesimum 546.</p>
+<un>David Weberus, diaconus</un>
+<un>Aroensis, tui semper studio-­</un>
+<un>sissimus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Doctissimo atque integerrimo viro domino, magistro Heinricho Bullingero, ecclesiae Tigurinae pastori vigilantissimo, domino suo et patrono plurimum observando. Meyster Heinrichen Bullinger, predicannten zum großen munster zu Zürich.</p>
+</text>
+</brief>

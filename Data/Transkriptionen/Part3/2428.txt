@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2428">
+<brief>
+<id>16115</id>
+<nr>2428</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 21. April 1546</od>
+<vo>Autograph: Zürich ZB, Ms D 197d, f. 39, Nr. 19 (Siegelabdruck)
+<fa><i>Für das Siegelblatt benutzte Myconius ein bereits von anderer Hand beschriebenes Stück Papier.</i></fa></vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 57</k></dr>
+<re>Auch wenn Bullinger in seinem Brief [nicht erhalten] geschrieben hatte, nicht zu wissen, was er schreiben solle, fanden sich darin wertvolle Informationen. Myconius hingegen schreibt, um überhaupt etwas zu schreiben.
+<t/>Die Information über die Badener Tagsatzung hat ihn sehr interessiert.
+<t/>Der Brief aus Neuburg [an der Donau] mit der Nachricht des von den Päpstlern verübten Verbrechens ist ebenfalls interessant. Brüder halten sonst zusammen, auch wenn einer von ihnen ein Delikt begangen hat. Hier aber brachte [Alfonso Diaz] seinen Bruder [Juan] wegen Christus um! Soeben meldete ein junger, adliger Gelehrter [...], dass der Brudermörder, der schon zweimal dem [Land]richter [Hans Mag] vorgeführt und jedes Mal wieder ins Gefängnis zurückgebracht wurde, sich sehr um einen Freispruch bemüht. Juan Diaz, der der Kirche sehr von Nutzen hätte sein können, ist nun erlöst.
+<t/>Was die [deutschen] Protestanten auf der Badener Tagsatzung vorbringen würden, wollte Myconius deshalb wissen, weil der [zu dieser Tagsatzung abgeordnete Basler] Gesandte [Bernhard Meyer zum Pfeil] ihm Folgendes erzählt hatte: Nachdem [Landgraf Philipp von] Hessen von Kaiser [Karl V.] gestattet worden war, [bei ihrem Treffen in Speyer] seine Bedenken zu äußern, antwortete [Karl V.], dass diese haltlos seien. [Philipp] hatte [Karl V.] vorgeworfen, er würde zum Krieg gegen die Protestanten rüsten und hätte dafür einen fünfjährigen Frieden mit [Sultan Suleiman I.] geschlossen; kraft des Friedens [von Crépy] könne er auf die Unterstützung von [König Franz I.] zählen; das Konzil zu Trient hätte er zur Verdammung der Lutheraner angestachelt und den Kölner [Erzbischof Hermann von Wied] mit den schärfsten Mandaten geplagt. [Karl V.] leugnete alles und meinte bloß, er müsse ja seine Ehre gegen Verächter seiner Mandate verteidigen (offensichtlich hat der Kaiser noch nicht verstanden, dass man Gott mehr gehorchen muss als den Menschen, sonst wäre er nicht dermaßen dem Papst [Paul III.] ergeben). Daher fragte sich Myconius: Was wollen denn die [deutschen] Protestanten von den Eidgenossen? Jetzt aber erkennt er, dass [Karl V.] ein Lügner ist! Demzufolge trug Myconius die neulich von Bullinger mitgeteilte Vermutung dem scharfsinnigen Bernhard Meyer vor, der mit diesem Wissen nach Baden ging.
+<t/>Gut, dass die Brüder in Augsburg sich vertragen! Myconius hatte nämlich befürchtet, dass die Ankunft [Johannes] Hallers die Gemüter erregen würde. Merkwürdig, dass Bernardino [Ochino] den von den Predigern sonst stets unbeeindruckten Anton Fugger faszinieren kann! Hoffentlich wird dieser seinen Reichtum irgendwann Gott zum Gebrauch für die schwachen Seinen überlassen! Scherz beiseite: Fugger gefällt wohl vor allem die italienische Sprache und Ochinos milde Predigtweise.
+<t/>Heini [Spät?], der Überbringer von Bullingers Brief und von dem vorliegenden Schreiben, wurde Myconius neulich von [Matthias] Erb beschrieben. Wie so mancher Täufer scheint auch er eher aus Eifer als aus böser Absicht dieser Irrlehre anzuhängen.
+<t/>Was Bullinger über die "Walchen" [Fremden] schrieb, verstand Myconius nicht. Dieser Tage zogen vereinzelte mazedonische, italienische und spanische Heerführer durch. [Antoine Morelet du Museau] kam für einige Tage [nach Basel]. Er kaufte ein Haus auf dem [Nadel]berg. Es gibt Bürger, die unersättlich nach französischem Gold gieren.</re>
+<text>
+<p>S. <zzl>zl2428-4A</zzl>Tu nescis, quid scribas, et tamen scribis, quae me et docuerunt, qu{e} volui, et delectarunt pulchre.
+<fn>Ein nicht erhaltenes Schreiben Bullingers, das dieser schon in <qv>nr2407</qv>,<qv>zl2407-6</qv> angekündigt hatte, und dem der von Johannes Haller abgeschriebene Brief über die Ermordung von Juan Diaz (<qv>nr2406</qv>,<qv>zl2406-8</qv>) beigelegt war; s. unten Z. <qv>zl2428-3</qv>.<zfn>fn2428-2</zfn></fn><zzl>zl2428-4E</zzl> Ego nescio, quid scribam, et tamen scribo, verum non qualiter tu, sed ut scribam, quicquid id sit.</p>
+<p>Docuisti me de comitiis Badensibus,
+<fn>Siehe <qv>nr2407</qv>,<qv>zl2407-7</qv>.</fn> qu{e} res
+<fa>res <i>über der Zeile nachgetragen.</i></fa> quidem ita me adfecit, ut solent, qu{e} quis cupit anxie nosse.</p>
+<p><zzl>zl2428-3A</zzl><zzl>zl2428-9A</zzl>Dein liter{e}
+<fn>Siehe oben <qv>fn2428-2</qv>.</fn> ex Neoburgo mirabiliter me delectarunt propter facinus a papistico spiritu patratum. Quid enim adcommodum magis? Frater fratris vel latrocinia tegit pro virili. Hic frater
+<fn>Alfonso Diaz.</fn> fratrem
+<fn>Juan Diaz.</fn> propter Christum occidit. Crudele hoc!<zzl>zl2428-3E</zzl> Sed hac hora accipio ex iuvene nobili et docto
+<fn>Unbekannt.</fn>, quod bis iam latro ac fratricida sit se
+<fn>Bezogen auf den unbekannten "iuvenis".</fn> praesente iudici
+<fn>Wohl der Richter Hans Mag am Landgericht Sonnenburg; s. das Schreiben von König Ferdinand I. an Hans Mag, 4. April [1546], wonach ein Diener von Herzog Ottheinrich dringend um Verhaftung des Mörders gebeten hatte, in: <a>Druffel, Karl V.</a> IV 474f, Anm. 56. - Zu den weiteren Vorgängen s. die in <qv>nr2406</qv>, <qv>fn2406-12</qv> angeführte Lit.</fn> oblatus, et toties reductus in carcerem, adeo strenue se conetur hoc flagitio absolvere. Ferunt Ioannem Diazium fuisse virum valde doctum ac pium. Huius mortem vel ideo fero iniquius, quod in ecclesia potuisset esse utilis. Verum quia dominus ita voluit, ei cedendum est. Nos, quod ad salutem adtinet, feliciter actum cum ipso non dubitamus.<zzl>zl2428-9E</zzl></p>
+<p>Protestantes autem, quid proposituri essent in comitiis Badensibus vel ideo nosse desyderavi, quod abituriens legatus noster
+<fn>Der Basler Rats- und Pannerherr Bernhard Meyer (Meiger) zum Pfeil, Bruder des damals amtierenden Bürgermeisters Adelberg Meyer; s. <a>EA</a> IV/1d 598.</fn> ad me dixerat c{e}sarem
+<fn>Karl V.</fn> Hesso
+<fn>Landgraf Philipp von Hessen.</fn> obiicienti venia impetrata respondisse conficta esse omnia, etc.
+<fn>Anspielung auf das Treffen von Karl V. und Landgraf Philipp am 28. und 29. März 1546 in Speyer; s. <qv>nr2406</qv>, <qv>fn2406-1</qv>.</fn> Obiecerat autem, quod bellum pararet contra protestantes; quod in hoc inducias confecisset cum Turca
+<fn>Suleiman I.</fn> quinquennales;
+<fn>Zu dem allerdings nicht auf fünf, sondern auf anderthalb Jahre geschlossenen Waffenstillstand s. <a>HBBW</a> XV 674, Anm. 33.</fn> quod Galli
+<fn>Franz I.</fn> evocaturus esset auxilium vi pacis;
+<fn>Anspielung auf den im September 1544 geschlossenen Frieden von Crépy-en-Laonnois; s. <a>HBBW</a> XIV 419f, Anm. 8.<zfn>fn2428-4</zfn></fn> quod concilium Tridentinum impelleret ad condemnationem Lutheranorum, ut commodius ista posset efficere; <zzl>zl2428-5A</zzl>et tandem quod Coloniensem
+<fn>Erzbischof Hermann von Wied.</fn> divexarit mandatis gravissimis,
+<fn>Siehe <qv>nr2381</qv>,<qv>zl2381-4</qv> mit <qv>fn2381-2</qv>.</fn><zzl>zl2428-5E</zzl> etc. Breviter bonis verbis obcurrit c{e}sar. Ad postremum oportuit, inquit, nos sic tueri honorem nostrum adversus contemptorem
+<fn>Gemeint ist vor allem Erzbischof Hermann von Wied.</fn> omnium mandatorum, qu{e} miseramus. Vir imprudens
+<fn>Karl V.</fn> non intellexerat deo magis obediendum quam hominibus,
+<fn>Apg 5, 29.</fn> neque hodie intelligit, alioqui pap{e}
+<fn>Paul III.</fn> se non ita devoveret, ut agnosceret se filium sedis apostolic{e}. Hinc cogitabam, quid protestantibus cum Helvetiis? Age, satisfecisti! Ago gratias. Intelligo enim c{e}sarem mendaciis esse devotissimum et hypocritam in suis negociis, qualem ego non novi unquam. <zzl>zl2428-6A</zzl>Exposui coniecturam domino Bernhardo Meyero, quam nuper significasti.
+<fn>Vgl. <a>HBBW</a> XV 549f,26-30, und Anm. 24. - Schon im September 1545 war die hier angedeutete Angelegenheit Adelberg und Bernhard Meyer zum Pfeil anvertraut worden (die fehlerhafte Identifikation des Bürgermeisters und dessen Bruders Bernhard in <a>HBBW</a> XV 549, Anm. 21f, ist dementsprechend zu korrigieren - Siehe ferner <qv>nr2440</qv>, <qv>fn2440-3</qv>).<zfn>fn2428-3</zfn></fn> Scio, secum abstulit Badenam; nam non reiiciebat, dum narrarem, vir prudens et versutus.<zzl>zl2428-6E</zzl></p>
+<p>De concordia fratrum Augustanorum et ecclesi{e} totius libenter audivi. Verebar enim, ne ingenia, qu{e} illic novi, se proditura essent ad adventum Halleri.
+<fn>Vermutlich hatte Bullinger in seinem Brief den Zustand der Augsburger Kirche beschönigt, um Myconius zu beruhigen. Vgl. die bei Bullinger später eingetroffene Darstellung Hallers in <qv>nr2422</qv>,<qv>zl2422-2</qv>.<zfn>fn2428-1</zfn></fn> Et succurrebat nihil pestilentius illi reipublicae posse accidere, propter luxus, qui illic est, immanitatem.
+<fn>Ähnlich hatte Myconius sich auch schon früher über Augsburg geäußert; s. <a>HBBW</a> XV 569,87f.</fn> Sed mirum de Bernhardino
+<fn>Bernardino Ochino.</fn>, quod Antonium Fuccherum
+<fn>Anton Fugger.</fn> ita cepit, quem nullus concionatorum unquam vel movere potuit. Bene factum, si tantas opes poterit in coelum aliquando subvehere,
+<fn>Vgl. Mt 6, 20.</fn> ut et dominus habeat, quod suis largiatur, hactenus plus nimio tenuibus! Verum extra iocum: <zzl>zl2428-2A</zzl>Lingua
+<fn>Die Augsburger ließen Ochino auf Italienisch predigen, das in ihrer Stadt von Vielen verstanden wurde; s. Karl <i>Benrath,</i> Bernardino Ochino von Siena. Ein Beitrag zur Geschichte der Reformation, Braunschweig ^#'21892, S. 160; <a>Roth, Augsburg</a> III 242.</fn> nimirum placet Antonio et omnia enunciandi simplicitas sine morsu. Nam nosti, quam facile tenera ingenia, blandiciis adsueta, abarceantur initio, si durius adloquaris.<zzl>zl2428-2E</zzl>
+<fn>Die Predigten Ochinos führten in den Anton Fugger nahestehenden Kreisen Schwabens zu einer spürbaren geistlichen Wandlung. Fugger soll sogar zu Ochinos Gehalt beigetragen haben; s. Götz von <i>Pölnitz,</i> Anton Fugger, Bd. 2/2, Tübingen 1967 - Studien zur Fuggergeschichte 20, S. 120; Juan Diaz an Calvin, 19. Januar 1546 (<a>CO</a> XII 254, Nr. 751).</fn> Dominus adsit sua gratia, ut sanctificetur nomen eius.</p>
+<p><zzl>zl2428-1A</zzl>Heinius
+<fn>Heinrich Spät oder Spättiker? Siehe <qv>nr2418</qv> und <qv>fn2418-2</qv>.</fn>, qui tuas adtulit et meas reddit, ab Erbio nostro nuper est mihi descriptus.
+<fn>In einem nicht erhaltenen Brief.</fn> Qui resipiscunt ex anabaptismo, me docent, quam furore nescio quo perciti principio non malo animo aberrarint; e quibus ille prorsus esse videtur. Dominus eum servet.<zzl>zl2428-1E</zzl></p>
+<p><zzl>zl2428-7A</zzl>De Walchis
+<fn>Was Bullinger über Fremde geschrieben hatte, wird in <qv>nr2431</qv>,<qv>zl2431-1</qv> erörtert.</fn> tandem addis. Non intelligo.<zzl>zl2428-7E</zzl> Transierunt his diebus Macedones, duces militum,
+<fn>Wohl Aranito (Aranitto) Comneno (Comnino), "Fürst von Mazedonien", und seine Begleitmannschaft. Comneno besaß im Piemont die kleine Herrschaft Refrancore (Prov. Asti). Er behauptete, vom byzantinischen Kaisergeschlecht der Komnenen abzustammen. In Erbs Brief an Bullinger vom 12. September 1546 (Zürich StA, E II 361, 155) wird er als "princeps ex Macedonia" bezeichnet. Angeführt ist er ferner in Nicolaus <i>Mameranus,</i> Catalogus familiae totius aulae Caesareae per expeditionem adversus inobedientes ... Anno 1547 et 1548, Köln 1550 (<a>VD16</a> M412), S. 39. 54. - Wir danken Herrn Rainer Henrich für diese Identifikation.</fn> Itali quoque et Hispani, singuli seorsim, nec multi.
+<fn>Vgl. <a>HBBW</a> XV 702,97-102.</fn> <zzl>zl2428-8A</zzl>Venit et Maurus
+<fn>Antoine Morelet du Museau.</fn>, sed in propria. Emit enim domum in monte divi Petri.
+<fn>Erst im Mai 1546 erfolgte der Kauf des Sitzenhofes (heute Rosshof) auf dem Basler Nadelberg (wo sich die Peterskirche befindet); s. <a>AK</a> VI 288, Anm. 10; <a>Gast, Tagebuch</a> 230-233, Anm. 21. Dementsprechend ist <a>HBBW</a> XV 491, Anm. 25, zu korrigieren.</fn> Ibi paucis diebus manens iterum abiit.<zzl>zl2428-8E</zzl> Sunt tamen e civibus, qui sitiunt anxie aurum Gallicanum, at nescio, an sitis illa queat aliquando venire ad optatum.
+<fn>Anspielung auf Joh 4, 13f.</fn></p>
+<p>Vale cum tuis et omnibus piis fratribus. Basileae, 21. aprilis 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>Bucerus ne iotam quidem
+<fn>Vgl. <a>Adagia</a> 1, 8, 3 (<a>ASD</a> II/2 234, Nr. 703).</fn> post reditum
+<fn>Bucer befand sich am 4. April wieder in Straßburg; s. <qv>nr2399</qv> und <qv>fn2399-6</qv>.</fn> scripsit. Interim tamen ego implevi hanc chartulam praeter spem.</p>
+<hlz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, ministro Christi fidelissimo, fratri in domino colendissimo suo. Zü[rich]
+<fa><i>Textverlust durch Entfernung des Siegels.</i></fa>.</p>
+</text>
+</brief>

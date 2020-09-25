@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2394">
+<brief>
+<id>16084</id>
+<nr>2394</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 25. März 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 207f (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, MS S 59, 156</k></dr>
+<re>[Bartholomäus] Westheimer teilte mit, dass Bullinger [bereits] die Werke Cyrills [von Alexandrien] besäße. Boethius' [Werke] sind noch nicht fertig gedruckt. Daher kann Gast ihren Preis nicht mitteilen. In Kürze wird er aber ein Verzeichnis von allen in Basel erschienenen Büchern senden.
+<t/>Luther starb im Februar. Das erzählte jemand [...], der am Begräbnis teilnahm. Die Papisten freuen sich darüber, rechnen aber nicht mit dem Zorn Gottes.
+<t/>Man sagt, dass Kaiser [Karl V.] sich einige Tage in Metz aufhalten und dort sowohl Geld sammeln als auch das Evangelium gänzlich ausrotten wolle. Manche sagen, er werde in Straßburg übernachten.
+<t/>Der schwer erkrankte Markgraf Ernst [I. von Baden-Durlach] ließ vier Prediger aus Straßburg zu sich nach Pforzheim kommen; vermutlich, um sich mit ihnen vor seinem Ableben über die Kirchenreformation zu beraten. Außerdem hat [Karl V.] dem Markgrafen geschrieben, dass er in diesem Winter an einer Erkrankung am Schenkel litt. Trotzdem bleibt er stur wie Pharao. Der Herr öffne ihm die Augen, damit er das Evangelium nicht verfolge!
+<t/>Nach der Publikation der kaiserlichen ["Declaratoria sententia"] hat der betagte Bischof [Hermann von Wied] in Bonn eine schöne Rede über Christus als wahren Kaiser gehalten, wie dies Gast von einem Augen- und Ohrenzeugen [...] erfuhr. Während der Rede erschien ein Gesandter [...] des Landgrafen [Philipp von Hessen], der alle ermutigte, sich von den Drohungen des Kaisers nicht einschüchtern zu lassen. Nach dem Gebet gingen alle getrost nach Hause.
+<t/>Bullinger wird zweifellos wissen, dass [Erhard] Schnepf verstorben ist.
+<t/>In Basel sterben etliche an einem Fieber.
+<t/>[P.S.:] Bullinger soll den Brief auch Theodor [Bibliander], [Konrad] Pellikan und [Rudolf] Gwalther zeigen.</re>
+<text>
+<p>S. in domino. <zzl>zl2394-3A</zzl>Cyrilli opera
+<fn>Siehe <qv>nr2362</qv>, <qv>fn2362-3</qv>; <qv>nr2368</qv>,<qv>zl2368-5</qv>. - Diese Ausgabe stammte aus der Offizin Herwagen.</fn> te habere Westhemerus
+<fn>Der Basler Drucker Bartholomäus Westheimer, der laut dieser Stelle offenbar zeitweise mit Geschäften der Druckerei Herwagen beauftragt wurde, während Johannes Herwagen mit einem Bann belegt war; s. <a>Reske</a> 72; und unten <qv>nr2435</qv> und <qv>fn2435-1</qv>.<zfn>fn2394-2</zfn></fn> mihi dixit,<zzl>zl2394-3E</zzl> <zzl>zl2394-1A</zzl>et Boetius
+<fn>Zur Ausgabe von Boethius' Werken s. zuletzt <qv>nr2372</qv>, <qv>fn2372-1</qv>.</fn> nondum absolutus; adeo de pretio nihil scribere possum neque de foliis, quum nondum sint collecta.<zzl>zl2394-1E</zzl> Verum de omnibus libris apud nos impressis brevi schedam accipies.
+<fn>Den Bücherkatalog schickte Gast erst mit seinem Brief an Bullinger vom 7. Juni 1546 (Zürich StA, E II 366, 205).</fn></p>
+<p>Lutherus in mense februario diem extremum clausit,
+<fn>Luther war am 18. Februar 1546 verstorben.</fn> quemadmodum a quodam
+<fn>Unbekannt.</fn> hausi, qui in
+<fa>in <i>über der Zeile nachgetragen.</i></fa> funere
+<fn>Die Beisetzung hatte am 22. Februar 1546 in der Wittenberger Schlosskirche stattgefunden; s. <a>CR</a> XI 726.</fn> fuit. Papist{e} gloriantur illum e vivis exemptum, sed non cogitant iram dei eos non effugere posse, nisi resipiscant.</p>
+<p>Caesarem
+<fn>Karl V.</fn> aiunt Metis
+<fn>Metz.</fn> velle ad dies aliquot h{e}rere,
+<fn>Entgegen seinem ursprünglichen Vorhaben reiste der Kaiser auf dem Weg nach Regensburg an Metz vorbei; s. <a>PC</a> IV/1 44, Nr. 41 und Anm. 1; <a>Stälin</a> 579.</fn> illic aut colligere pecunias aut omnino evangelii flammas
+<fn>In Metz versuchten ab 1543 einige Bürger, eine protestantische Gemeinde aufzubauen; s. Henri <i>Tribout de Morembert,</i> La Réforme à Metz, Bd. 1: Le Luthéranisme, 1519-1552, Nancy 1969; Guillaume <i>Farel,</i> Traités Messins, Bd. 1: Oraison très dévote 1542, Forme d'oraison 1545, hg. v. Reinhard Bodenmann, Françoise Briegel und Olivier Labarthe, Genf 2009.</fn> extinguere. Quidam spargunt caesarem velle pernoctare Argentin{e},
+<fn>Der Kaiser reiste nicht durch Straßburg.</fn> et fieri potest; neque dubito Argentinenses illum honorificentissime excepturos et caesareo more.</p>
+<p>Marchio Ernestus
+<fn>Markgraf Ernst I. von Baden-Durlach, gest. 1553.</fn> in Pfortzen
+<fn>Pforzheim.</fn> aulam habens vocavit ad se 4 ex contionatoribus Argentoratensibus
+<fn>Nicht ermittelt.</fn>; graviter enim aegrotat.
+<fn>Siehe schon <qv>nr2348</qv>,<qv>zl2348-4</qv>.</fn> Quid cum illis agat, ignoro, etsi certus sum illum de ecclesiae reformatione aliquid meditari, antequam hinc discedat. Scio id praeterea: Caesarem marchioni scripsisse
+<fn>Nicht ermittelt.</fn> se hac hyeme graviter laborasse ac nullam quietem die noctuque habuisse vor dem wolff
+<fn>Eine Art von Ausschlag oder Geschwür; vgl. <a>SI</a> XV 1556f. Vgl. <qv>nr2363</qv>, <qv>fn2363-8</qv>.<zfn>fn2394-1</zfn></fn>, den er am schenckel hat. Non vult agnoscere praesentem domini clementiam, quae illum emendat. Pharao est induratum habens cor.
+<fn>Vgl. Ex 7, 13.</fn> Dominus oculos cordis
+<fn>Vgl. Eph 1, 18.</fn> illi aperiat, quo dei agnoscat veritatem, et Christi Iesu evangelium non persequatur.</p>
+<p>Bonnae, cum mandatum
+<fn>Wohl nicht das Kayserlicher Maiesttatt ernst Mandät an unsern gnedigsten hern den Ertzbischoven und Churfürsten, Köln, Jaspar von Gennep, 1545 (<a>VD16</a> D959; <a>Schlüter</a> 276f, Nr. 159) vom 8. Dezember 1545, sondern die am 26. Januar 1546 von Karl V. gegen Hermann von Wied erlassene "Declaratoria Sententia"; s. <qv>nr2381</qv>, <qv>fn2381-2</qv>. In <a>Lenz</a> II 406, Anm. 9, wird unter dem "Mandat" des Kaisers ebenfalls die "Declaratoria Sententia" verstanden.</fn> caesaris est publicatum, episcopus senex
+<fn>Hermann von Wied.</fn> orationem
+<fn>Unbekannt.</fn> (quemadmodum accepi ab illo
+<fn>Unbekannt.</fn>, qui suis oculis vidit et auribus audivit)
+<fa><i>Klammern ergänzt.</i></fa> dulcissimam coram nobilibus et omni populo habuit de vero caesare Christo Iesu, qui corpus et animam perdere potest.
+<fn>Mt 10, 28.</fn> Interim, cum admoneret populum constanti{e}, supervenit legatus
+<fn>Unbekannt.</fn> lantgravii
+<fn>Philipp von Hessen.</fn>, qui consolatus omnem nobilitatem et populum ipsum, ut nihil omnino curarent caesaris minas. Orationem publicam eo in loco habuerunt ad deum, et alacri animo omnes domum redierunt.</p>
+<p>Schnepffium, inauspicatam avem,
+<fn>Erhard Schnepf, der hier nicht nur wegen seines Namens als Unglücksvogel bezeichnet wird, sondern auch wegen seiner feindlichen Gesinnung gegen die Zürcher Theologen.</fn> scis absque dubio obiisse.
+<fn>Ein Gerücht. Schnepf starb im November 1558.</fn></p>
+<p>Vale in domino. <zzl>zl2394-2A</zzl>Multi moriuntur apud nos pestilentiali febri. Delirant ad dies aliquot, dein spiritum emittunt.
+<fn>Wohl nur eine vorübergehende Erscheinung, da Gast in seinem Tagebuch nichts darüber berichtet.</fn><zzl>zl2394-2E</zzl> Vale. Basileae, 1546, 25. martii.</p>
+<un>Tuus Gastius.</un>
+<lz/>
+<p><vl>208</vl> H{e}c velim communices d. Theodoro
+<fn>Theodor Bibliander.</fn> et d. Pellicano, in Christo dilectissimis viris et praeceptoribus, Gvalthero, etc.</p>
+<lz/>
+<p>[Adresse darunter:] An den eerwürdigen und wolgelerten herren Meyster Heinrychen Bullinger, lütpriester zu Zürich, mynem lieben herren und fründt. Zurich.</p>
+</text>
+</brief>

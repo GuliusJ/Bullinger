@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1302">
+<nr>1302</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>26. August 1539</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 33 (VBS IV), Nr. 288 (Siegelabdruck)</vo>
+<re>[Christoph Froschauer] schickt Vadian einige Exemplare des fertiggedruckten Buches ["Orthodoxa et erudita D. Ioachimi Vadiani ... epistola"]; Bullinger dankt ihm für die wohlwollende Mitwirkung. Vadians Konflikt [mit Appenzell] wird [an der Tagsatzung] in Baden verhandelt werden.
+[Hans] Vogler schreibt aus Reichenweier, daß Georg [von Württemberg] in seiner Grafschaft Bilder und Altäre beseitigt und Schulen eingerichtet habe.
+Hofft, daß das Gerücht, wonach König [Heinrich VIII.] von England wegen einer Eheschließung und Verschwägerung mit Kaiser Karl [V.] vom Evangelium abgefallen sei, nicht wahr ist; wird über die Sache berichten, sobald die Briefe und der junge Mann, die er aus England erwartet, eingetroffen sind.
+</re>
+<tx>[Gedruckt: Vadian BW V 571, Nr. 1070.]
+</content>
+</letter>

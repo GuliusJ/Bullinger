@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="857">
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger und Theodor Bibliander</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>1. Juli 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 336, 154 (neu: 173) (Siegelspur)</record>
+<record>.us; Teildruck:  Pollet,  Bucer II 349f, Anm. 8</record>
+<print></print>
+<statue>
+Pellikan bringt aus Strassburg Bericht über (*die Wittenberger
+Konkordie*); Myconius bemängelt die Unklarheit der Formel wie auch
+ihrer Erläuterung und bittet um Stellungnahme. Capito behauptet
+Übereinstimmung der Wittenberger Artikel mit dem (*Ersten Helvetischen*)
+Bekenntnis und hat eine weitere Erklärung angekündigt. Gruss.
+</statue>
+<content>
+S. Pellicanus noster omnia, què prèsens audivit ex Argentinensibus,
+exponet+1, itidem de ecclesia nostra deque nobis omnibus.
+Equidem ut adfectus sim articulo Saxonici conventus viso+2, dicam paucis.
+Quo magis illi negocium eucharistiae conantur explicare, eo magis ego
+implicor. Quo clariora, quècunque huc pertinent, reddere student, eo
+fiunt obscuriora mihi. Quid Ireneus, quèso, facit in confessionis
+initio+3, author obscurus et qui a veteribus non ubique solidus est
+iudicatus? Tum quid illud, quod saepe ventilatum est ab omnibus:
+"Christus datur et sumitur cum pane et vino+4"? Ingenue fateor, nescio,
+quid dicant. Non est hic transsubstantiatio, non localis
+inclusio; quo modo igitur cum pane datur corpus Christi+5?
+Expositionem deinde non capio super unione sacramentali+6 ex ratione iam
+dicta. Minus movet discrimen inter infidelem et indignum+7; movet
+tamen, quod inauditum mihi. Nec differre novi hactenus "manducare" corpus
+domini et "sumere"+8. In declaratione quid sibi velit omnes profiteri se
+sentire iuxta confessionem et apologiam principum+9, paenitus ignoro.
+Quèso igitur, mentem vestram hic aperire mihi haud dedignemini, si inde
+forsitan vel melius sentire discam vel socios vos pariam confusionis.
+<p>Prèter hèc+a scripsit Capito in hèc verba+10: "Confessio vestra Basileae communiter instituta+11 quadrat Wittenbergensibus articulis", id quod aeque non video. Aperite vos oculos mihi, ne cècutiam in èternum.
+Promittit aliam item declarationem+12, què nisi sit alia, quemadmodum
+vocat+b, frustranea erit. Reliqua Pellicanus.</p>
+<p>Valete per Christum cum vestris.</p>
+<p>Basileae, kalendis iuliis anno 36.</p>
+<signature>
+Os. Myconius
+vester.
+</signature>
+<address>
+Utingerum salutabitis perquam officiose.
+(*Adresse auf der Rückseite:*) Domino Heinrycho Bullingero et d.
+Theodoro Bibliandro, in domino observandissimis suis.
+</address>
+</content>
+<note>
+.us; +a>hèc  am Rande nachgetragen.
+<print>
++b>vocat  korrigiert aus  vocant.
+</print>
+<address>
++1>Pellikan war Mitte Juni über Zurzach und Basel nach Strassburg
+gereist, wo er Capito, Bucer und Zwick traf, die soeben vom
+Wittenberger Konvent zurückgekehrt waren; s. Pellikan,
+Chronikon 145f (vgl. ebd., S. XXXVIf); Vadian BW V 331f.
++2>Gemeint ist die Wittenberger Konkordie (BucerDS VI/1 114-134; WA
+Briefwechsel XII 200-212).
++3>Siehe BucerDS VI/1 120, 3f.
++4>Siehe ebd., S. 120, 4f.
++5>Siehe ebd., S. 122, 1-4.
++6>Myconius scheint sich hier und im folgenden nicht mehr direkt
+auf die Konkordienformel, sondern auf den Bericht der Oberdeutschen über
+die Verhandlungen in Wittenberg (BucerDS VI/1 135-174) zu beziehen; s.
+ebd., S. 148, 3-11.
++7>Zur Unterscheidung von manducatio indignorum und infidelium s.
+ebd., S. 149,1-150,3; 151,19-153,4; 153,12-154, 9; 166,16-170,4.
+S. 122, 7f; 124, 1-4  -----------------------●!!
++8>Siehe ebd., bes. S. 167,28-168,19; 169, 10f.
++9>Siehe ebd., S. 126, 1-3 (gemeint ist das Augsburgische Bekenntnis
+von 1530 und dessen Apologie).
++10>Wörtlich findet sich diese Aussage in keinem der erhaltenen
+Briefe, vgl. aber Capitos Brief an Jakob Meyer vom 22. Juni (Capito,
+Corr. 212, Nr. 616).
++11>Das Erste Helvetische Bekenntnis; s. oben Nr. 737, Anm. 1.
++12>Zu den nach Basel gesandten Erläuterungen der
+Wittenberger Artikel s. unten Nr. 866, 4-12.
+;---------------------------------------------------------------------
+</address>
+</note>
+</letter>

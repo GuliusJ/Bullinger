@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="967">
+<nr>967</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>11. März 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 133 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Äußert sich nur kurz zu Leo [Juds] Mahnschreiben betreffend [die geplanten Maßnahmen gegen Schriften von] Bucer, da
+er bereits eine Stellungnahme [Nr. 965] geschickt hat; daß Bucers Vorgehen nicht mit seinem Eifer entschuldigt werden
+kann, wird sich schon bald erweisen, doch wollen die Berner nichts ohne die Zürcher unternehmen. Grüße.</re>
+<tx>Gratiam a domino, charissime mi Bullingere.
+^$Leonis in negocio Buceri amicam dehortationem accepimus<f1>Der Brief, in dem Leo Jud wie zuvor Bullinger (vgl. oben
+Nr. 965, 2f) die Berner vor einem Verbot von Bucer-Schriften gewarnt haben muß, ist nicht erhalten.<fe>,
+de qua non opus est multa tibi dicere. Non multis enim ante diebus mentem nostram accepisti<f1>Gemeint ist der Brief vom
+8. März, oben Nr. 965.<fe>, licet tumultuarie opera amanuensis<f1>Der Brief ist von unbekannter Hand geschrieben.<fe>,
+quando ob capitis fluxum ipse scribere non potui. Leo excusat Bucerum non dolo, sed zelo omnia egisse. Nescio, an zelus
+dici queat ex ipsissima luce aliquem in abstrusissimas tenebras pertrahere velle, quod egit Bucerus. Si non satis esse
+videtur, expectemus, obsecro, paulisper, donec satis faciat, id quod haud dubie brevi futurum est. At sine vobis nihil
+tentabimus.
+^$Bene vale salvis omnibus fratribus, Theodoro<f1>Theodor Bibliander.<fe>, Bellicano<f1>Konrad Pellikan.<fe>,
+Beato<f1>Beat Gering.<fe>.
+^$Bernę, marcii 11. anno 37.<un>Megander tuus totus.
+<lz>[Adresse auf der Rückseite:] Domino Heinrico Bullingero, Tiguri Christum profitenti, fratri suo in domino charissmo.
+</content>
+</letter>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1235">
+<nr>1235</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>4. März 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2775 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat erst kürzlich geschrieben, will aber, wenn er schon Briefe schickt, Bullinger nicht leer ausgehen lassen. Erinnert ihn an die
+erbetenen Bücher und bittet um Zusendung seiner Laute. Schickt ihm eine selbstgebaute Armillarsphäre, die [Georg] Binder wieder
+zusammensetzen kann, und stellt weitere Sendungen in Aussicht. M[artin] Peyer hat sich nach Frankfurt begeben und wird von dort
+mit Philipp [Melanchthon] nach Wittenberg reisen; er grüßt Bullinger und läßt Froschauer bitten, ihm durch Moritz Goltz
+Zürcher Papier zu schicken; auch Myconius wünscht eine Lieferung. Grüße.
+</re>
+<tx>Gratiam et pacem a domino etc.
+^$Quanquam non multis abhinc diebus literas<f1>Oben Nr. 1232.<fe> ad te dederim, patrone charissime, nunc tamen alias his addere
+non piget, ne in tanto literarum mearum (quas nunc mitto) numero<f1>Die gleichzeitig abgeschickten Briefe scheinen nicht erhalten zu sein.<fe>
+tu meis omnino careas. Pristina etenim tua erga me benevolentia et amor paternus, quo me prosecutus es praesentem,
+efficit, ut non dubitem, quin absentis literę tibi gratissimę sint.
+^$Basileam me rediisse rerumque statum prioribus literis
+exposui<f1>Siehe oben Nr. 1232, 12-28.<fe>, quare non operae pretium puto te harum rerum relatione diutius detinere. Hoc unum
+te obsecro (si modo, ut Basileae maneam, tibi animus est), ut Ciceronem meum aliaque, quę petii<f1>Siehe ebd., Z. 29-32.<fe>, ad me transmittas. Cuperem etiam meam
+habere chelim<f1>Laute; vgl. HBBW VIII, S. 265, Anm. 11.<fe>, si modo quis esset, qui aequo pretio hanc ad me transferret. Quirinus<f1>Quirinus von Leiden.<fe> fortasse onus hoc subibit.
+^$Mitto hic tibi spheram armillarem, quam per otium, antequam
+Argentinam peterem, composui, quam iam dissolutam compingere
+poterit Binderus. Mittam hac aestate etiam alia quędam,
+si modo deus meis secundus fuerit studiis.
+^$M[artinus] Beyer Frankfordiam nunc petiit<f1>Zur Abreise Martin Peyers aus Straßburg vgl. auch CO X/2 320f, Nr. 160, und
+MBW 2156.<fe>; hinc cum Philippo Vitembergam abibit<fx>^#/+vor^#/- abibit ^#/+gestrichenes^#/- p.<fe><f1>Philipp Melanchthon hielt sich anläßlich des Schmalkaldischen Bundestags
+bis zum 20. April in Frankfurt auf (s. MO III 698); Peyer traf allerdings bereits am 12. März in Wittenberg ein (s. Amerbach,
+Korr. VI 54).<fe>. Hic abiens ab Argentina mihi scripsit<f1>Peyers Brief ist nicht erhalten.<fe> rogatque, ut
+suo nomine te plurima salute impertiam. Scripsisset ad te ipse, nisi pudor obstitisset. Iniunxerat idem mihi Argentinę, ut
+Froschouero scriberem, ut optimae papyri, quam habet, ein rysen<f1>Papiermaß; ein Ries entspricht 20 Buch, das sind 480 Bogen Schreibpapier oder 500 Bogen Druckpapier (s. Grimm II 468 und VIII 929f).<fe>
+Frankfordiam advehat ibique bibliopolę Mauritio Golz<f1>Moritz Goltz (Goltze), 1495-1548, von Belzig (Kr.
+Potsdam-Mittelmark, Brandenburg), war Buchführer und Verleger in Wittenberg, wo er auch dem Rat angehörte. Ab etwa 1527 reiste
+er jeweils zur Frühjahrsmesse nach Frankfurt. - Lit.: ^#/+Grimm,^#/- Buchführer
+1616, Nr. 663.<fe> eam tradat, ut Martino Witembergam deducat. Solvet is, quodcunque constiterit. Tu, quęso,
+Froschouerum hoc roga; tuę enim preces plus quam meae proficient. Bätend inn allein, das er deß reinisten bapirs
+nemmy, so er hatt. Iussit<fx>^#/+vor ^#/-Iussit ^#/+ein gestrichener Wortanfang.^#/-<fe> etiam Miconius, ut suo scribam nomine, ut etiam illi papyrus Tigurina advehatur.
+^$Vale bene, pater observande, et Rodolphum tuum semper tibi
+commendatum habeto. Salutabis meis verbis matrem<f1>Anna, geb. Wiederkehr.<fe> et uxorem<f1>Anna, geb. Adlischwyler.<fe>
+tuam cum universa familia.
+^$Basileę, ex aedibusd. Myconii, 4. martii 1539.
+<un>Tui observantissimus
+<un>Rod. Gvalterus.
+<lz>[Adresse auf der Rückseite:] Vere pio et erudito
+viro M. Heinrycho Bullingero, patrono suo imprimis colendo.
+</content>
+</letter>

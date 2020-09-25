@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="27341">
+<nr>27341</nr>
+<correspondents>
+	<originator>[Georg von Württember</originator>
+	<addressee>Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date>6. Juni [1557?]</date>
+	<note>Briefbeilage von 1536?</note>
+</space_time>
+<vo>Autograph(?): Zürich StA, E II 441, 461 (ohne Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Regest
+</re>
+<tx>Wir haben auch ein o[der] andere schreiben, uweren schwager
+betreffend, entpfangen; wolten und wären ime gnädiger befürderung von
+euwertwegen zethun, wol genaigt. So haben wir aber unnsere ämpter inn
+unsern herrschafften alle versehen und versprochenn; wissen uff dismals
+nichts von diensten, so für ine sin möchten.
+Welten wir euch gnädiger mainung auch nicht beugen[bergen?].
+^$Datum ut in literis.
+<lz>[Ohne Unterschr.ift; ohne Adresse.]
+^&xBetrifft .... Adlischwyler??^&x{
+</content>
+</letter>

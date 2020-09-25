@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2377">
+<brief>
+<id>16067</id>
+<nr>2377</nr>
+<ae>Bullinger an Johannes Haller</ae>
+<od>Zürich, 12. März 1546</od>
+<vo>Abschrift von Johann Heinrich Hottinger
+<fa><i>Mit Randbemerkungen und Unterstreichungen von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 46, 589</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 127</k></dr>
+<re>Falls Luther tot ist, dann möge er glücklich gestorben sein. Nicht alles an ihm ist abzulehnen. Doch freilich könnte er seiner eigenen Forderung zufolge gänzlich verworfen werden, denn er sagte in seinem ["Kurtz bekentnis"] gegen die Zürcher, dass derjenige, der in einem einzigen Artikel irrt, in keinem anderen recht haben könne; und es ist klar, dass er selbst in einigen Punkten fehlgegangen ist, so etwa in der Angelegenheit der Bilder, der Ohrenbeichte und des Abendmahls. Im Übrigen stimmt Bullinger Luther jedoch zu. Falls dieser eine Schrift gegen die Zürcher hinterlassen haben sollte, wird nur deren Inhalt unter Vermeidung jeglicher persönlichen Angriffe widerlegt werden; denn über die Toten soll man nichts Schlechtes sagen! Auch Haller soll maßvoll und ehrenhaft über den Verstorbenen sprechen. Käme man im Gespräch auf das Abendmahl, die Bilder und die Beichte zu sprechen, soll er sagen, dass in der Kirche einst auch bedeutende Männer bisweilen irrten, und dass man Luther nicht für einen Gott halten dürfe.
+<t/>Falls Luther nicht gestorben ist, so möge er leben, solange es dem Herrn gut scheint.
+<t/>Da Bullinger das [Alte] und das [Neue Testament] besitzt, würde er niemals [die Akten] des [Zweiten] Regensburger [Religions]gesprächs und des Konzils von Trient kaufen. Das [Gespräch] besteht nämlich sowohl aus Richtigem als auch aus Falschem und lässt daher keinesfalls auf eine vollständige Reformation hoffen. Das [Konzil] aber ist als ein Werk des [päpstlichen] Antichristen abzulehnen; und der wankelmütige [Bucer] wird irgendwann auf den harten [Christus]-Felsen aufschlagen.</re>
+<text>
+<p>S.P. Si mortuus est Lutherus,
+<fn>Luther war am 18. Februar gestorben.</fn> opto illi, ut feliciter sit mortuus. <zzl>zl2377-1A</zzl>Nam sunt in illo multa, quae optimi quique merito mirantur et laudant, ac malignum revera fuerit illum damnare in totum. Iuxta ipsius quidem sententiam posset reiici in universum: In ultimo enim scripto suo contra nos edito
+<fn>Luthers "Kurtz Bekenntnis" von 1544.</fn> dicit in nullo articulo recte sentire posse illum, qui errat in uno,
+<fn>Siehe <a>WA</a> LIV 161,3-7. 13f. 23f (mit Verweis auf Jak 2, 10f).</fn> at manifestum est errasse illum in nonnullis. Ideo vero non damnaverim in ipso, quae bene, prudenter et pie dicit.<zzl>zl2377-1E</zzl> Ergo ut in caussa imaginum, confessionis auricularis et coenae dominicae ipsi nunquam accesserim, ita in reliquis bene dictis et actis meum patrocinium nunquam negarim. Si reliquit contra nos scriptum,
+<fn>Demnach hält Bullinger eine Antwort Luthers auf die "Orthodoxa Tigurinae ecclesiae confessio" von März 1545 noch für möglich; s. dazu <qv>nr2332</qv>, <qv>fn2332-3</qv>, sowie zuletzt <qv>nr2375</qv>,<qv>zl2375-4</qv>.</fn> praeterita persona respondebimus ad argumenta. Turpe enim est mortuis maledicere et cum larvis, quod dici solet, luctari
+<fn><a>Adagia</a> 1, 2, 53 (<a>ASD</a> II/1 268, Nr. 153). Vgl. auch den Gebrauch dieses Ausdrucks im Brief von Matthias Erb an Bullinger, nach 8. November und vor 28. Dezember 1545 (<a>HBBW</a> XV 615 mit Anm. 4).</fn>. Haec copiosius scribo, ut et tu de mortuo loquaris modeste, imo honorifice. Cum ventum fuerit ad coenae, imaginum et confessionis negotium, dices magnos viros in ecclesia quondam etiam suos habuisse errores; sic Lutherum in haec quoque divina providentia impegisse, ne haberetur pro deo, etc.</p>
+<p>Si vero mortuus non est,
+<fn>Die Nachricht von Luthers Tod war noch nicht verbürgt; s. zuletzt <qv>nr2375</qv>,<qv>zl2375-5</qv>.</fn> vivat (per nos quidem licet)
+<fa><i>Klammern ergänzt.</i></fa>, donec domino vitae et mortis fuerit visum! Cuperem autem primo quoque nuntio, quid verum sit, significares, praesertim vero, quo mortis genere extinctus sit et quomodo excesserit.</p>
+<p><zzl>zl2377-2A</zzl>Ego, cum habeam colloquia dei cum Mose
+<fn>Das Gesetz in den fünf Büchern Mose.</fn> et Christi, filii dei, cum suis discipulis,
+<fn>Die Evangelien.</fn> consilia item patriarcharum et prophetarum,
+<fn>Die historischen und prophetischen Bücher des Alten und Neuen Testaments.</fn> denique scripta apostolorum,
+<fn>Die Briefe des Neuen Testaments.</fn> cassa nuce non emerim
+<fn><a>Adagia</a> 5, 1, 17 (<a>ASD</a> II/8 278, Nr. 4017).</fn> colloquium Ratisbonense
+<fn>Das Zweite Regensburger Religionsgespräch.</fn> et Tridentinum concilium. Illud enim, quia ex integro (atque utinam ex integro, non ex vitiato) et corrupto compositum est,
+<fn>Zum Ausdruck vgl. z.B. <i>Quintilian,</i> Institutio oratoria, 1, 5, 68.</fn> nullam mihi spem facit reformationis syncerae. Hoc autem (cum sit ab antichristo institutum nec in aliud, quam ut restituatur satanas et explodatur Christus)
+<fa><i>Klammern ergänzt.</i></fa> quis non videat, non modo in nulla esse authoritate, sed et conspuendum esse, uti veretur blasphemia? Vertumnus
+<fn>Der römische Gott des Wandels (s. <a>DNP</a> XII/2 101f); als Sinnbild für einen unbeständigen Menschen schon bei <i>Horaz,</i> Satiren, 2, 7, 14. - Gemeint ist damit Bucer, wie schon Johann Jakob Simler in seiner Abschrift (Zürich ZB, Ms S 59, 127) vermerkte. - Bullinger war damals sogar der Meinung, dass es besser wäre, wenn Bucer sterben würde; s. <qv>nr2376</qv>,<qv>zl2376-4</qv>.<zfn>fn2377-1</zfn></fn> ille impinget aliquando in petram solidam
+<fn>Mt 21, 44 par.</fn>.<zzl>zl2377-2E</zzl></p>
+<p>Vale cum tuis, etc.</p>
+<lz/>
+<p>[Ohne Adresse.]
+<fa><i>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang nach einem vorhergehenden Brief Bullingers an Haller ersetzt:</i> Idem eidem. Tiguro Augustam. 12. martii 1546.</fa>
+<fn>Vorliegender Brief wurde Haller am 25. März 1546 übermittelt; s. <qv>nr2406</qv> und <qv>fn2406-3</qv>.</fn></p>
+</text>
+</brief>

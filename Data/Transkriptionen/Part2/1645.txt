@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1645">
+<nr>1645</nr>
+<correspondents>
+	<originator fn=1>Miles Coverdale</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Miles Coverdale ("Michael Anglus"), 1487 in York geboren, trat in seiner Jugend den Augustinern bei und studierte in Cambridge, wo er sich in reformationsfreundlichen Kreisen bewegte. Um 1514 erlangte er die Priesterweihe, die er noch vor 1528 wieder ablegte, was seine
+Verbannung auf den Kontinent zur Folge hatte, wo er sich William Tyndale als Assistent im Druckgeschäft anschloss und an seiner 1535 veröffentlichten englischen Bibelübersetzung arbeitete. Auf Vermittlung Thomas Cromwells hin war er 1538 in Paris, um den Druck der "Great Bible" zu überwachen. Nach
+Cromwells Fall
+zwang dies den mittlerweile mit Elisabeth Macheson - deren Schwager John Maccabaeus (McAlpine) der Kaplan Christians III. von Dänemark war - verheirateten Coverdale zu einem weiteren Exil ab ca. 1540 bis 1548, das er u. a. in Straßburg und Tübingen verbrachte, wo er die Doktorwürde erlangte. Zurück
+in England war er als Prediger tätig, u. a. im Dienste Katharina Parrs, der Witwe Heinrichs VIII. 1551 wurde er Bischof von Exeter, wurde aber 1553 von Maria I. Tudor abgesetzt. 1555 begab er sich nach einem kurzen Aufenthalt in Dänemark ins Exil und wirkte in den verschiedenen Flüchtlingsgemeinden
+in Wesel und Bergzabern, später in Aarau und Genf, wo er wahrscheinlich an der Produktion der englischen Bibel mitarbeitete. Nach seiner Rückkehr nach England
+1559 wurde er nicht in sein Bischofsamt zurückversetzt, wohl aufgrund seiner puritanischen Ausrichtung und seiner Nähe zu John Knox während seines Genfer Aufenthaltes. 1564 wurde er Pfarrer der Londoner Gemeinde St. Magnus, gab dieses Amt aber
+zwei Jahre später im Verlauf der "vestment controversy" auf und war bis zu seinem Tode 1569 als Wanderprediger tätig. Aus dem Briefwechsel zwischen Coverdale und Bullinger ist außerdem noch
+ein Brief Bullingers nach London von 1566 erhalten. - Lit.: David ^#/+Daniell,^#/- in: Oxford Dictionary of National Biography, Bd. 13, Oxford 2004, S. 739-747; ^#/+Garrett,^#/- Marian Exiles 132-134; ^#/+Hildebrandt,^#/- Exiles
+56-63.</note>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>27. Juli [1542]</date>
+	<note>Coverdale hielt sich laut einer Bemerkung von Hilles in diesem Zeitraum in Straßburg auf (s. HBBW XI, Nr. 1587); auf den von Coverdale erwähnten Besuch von John Butler und Richard Hilles in Zürich bezieht sich auch Butler in seinem Brief an Bullinger vom 10. November 1542 (unten Nr. 1689).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 467 (ohne Siegel)</vo>
+ ^&xVgl. Scales 209. 265 (Anm. 6).^&x{
+^&xKopie: Zürich ZB, Ms S 51, 150; undat. Brief 259^&x{
+<re>Konnte aufgrund anderer Verpflichtungen, Geldmangels und Krankheit nicht mit
+[John<f1>Es kann sich hier nur um John Butler handeln (vgl. die vorangehende Anm.), nicht, wie in Remains of Myles
+Coverdale (S. 502) angenommen, um den erst später geborenen Henry (Heinrich) Butler.<fe>] Butler
+und Richard [Hilles] nach Zürich reisen; bedankt sich für Bullingers
+Freundschaft, dessen wohlwollende Aufnahme seines Briefes von Anfang Oktober [1541] und die durch Richard
+[Hilles] ausgerichteten Grüße; empfiehlt Butler und Hilles; Gruß von seiner Frau [Elisabeth Macheson].</re>
+<tx>[Gedruckt: Remains of Myles Coverdale, Bishop of Exeter, Cambridge 1846 (Nachdruck: New York 1968), S. 593, Nr. 12; Übersetzung ins Englische: ebd., S. 502f.]
+^&x<tx>S. P. D. Occupationibus est factum meis et quadam corporis impotentia (ut interim taceam rei familiaris
+inopiam), ne una cum clarissimis virisd. Butlęro
+dominoque Richardo iter istuc nunc facerem. Quam aegre autem
+vobis iam absim, paucis aequidem non dicam; valde enim cupio
+presens vestram contemplari ecclesiam. Quando vero id mihi
+non datur, praestolabor benignam dei patris voluntatem
+contentus interim bonum illius spiritum per vestrum in verbo
+suo ministerium degustasse atque ita vobis in Christo usum
+fuisse familiariter. Defuisset plane, quod nunc ad te^&x{
+^&xscriberem, praeceptor integerrime, si non habuissem in
+memoria, quam tu benigne nostras literas (et quidem
+crassiores) sub calendis octobris emissas acceperis bonique
+consul[u]eris. Unde vides, qualem pariat balbutiem infoelix
+aeducatio, nimirum aliena ab omni prorsus vel linguarum vel
+compositionum ornamento. Caeterum habeo gratiam, quod
+gravissimis alioqui studiis occupatus me tamen in literisd. Richardi dignatus sis resalutare. Denique insignes hos viros
+veraeque pietatis et studiosos et patronos (omni quo possum
+animi candore) vobis commendo; certus gaudium illud in
+s[ancto] s[piritu] vobis utrinque non defuturum, ubi una in
+domino conveneritis. Quod ut foeliciter fiat, ille faxit,
+qui pectora vestra sincero sui amore iampridem curavit esse
+coniunctissima.
+^$Bene vale.
+^$Argentorati, sexto calendas augusti.
+^$Salutat vos plurimum uxor mea in domino.
+<un>Milo tuus Coverdalus.
+<lz>[Ohne Adresse.]^&x{
+</content>
+</letter>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2482">
+<brief>
+<id>16172</id>
+<nr>2482</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 29. Juni 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 233 (Siegelspur)<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 157 </k></vo>
+<dr>Ungedruckt</dr>
+<re>Myconius dankt für Bullingers Brief [nicht erhalten].
+<t/>[Kaiser] Karl V. ist ein Heuchler. Während er den [Protestanten] schmeichelte, hat er die Italiener, Spanier, Ungarn, Belgier und Deutschen gegen sie gehetzt. Solch einen Eifer hat er nicht einmal in seinem Kampf gegen [Suleiman I.] gezeigt! Er hat auch nach Straßburg und anderswohin Gesandte geschickt und allen seinen Frieden angeboten, wenn sie nur bereit wären, ihn bei der Bestrafung der "Rebellen" zu unterstützen. Mit "Rebellen" meint er all diejenigen, die die Artikel der Löwener Theologen ablehnen, mit denen er die Wiederherstellung des Papsttums anstrebt.
+<t/>Die Listigkeit des Kaisers zeigt sich darin, dass Landgraf [Philipp von Hessen] am 20. Juni noch nichts Genaues über das Ausmaß der Gefahr wusste. Man sagt, dass er das bislang im Dienste König [Heinrichs VIII.] von England stehende [deutsche] Heer übernehmen werde; damit geschieht also genau das, was der Kaiser befürchtet hatte.
+<t/>Bullinger soll über den Luzerner Gesandten [...] berichten. Myconius versteht Bullingers Aussagen über den "römischen" Adel nicht, es sei denn, Bullinger habe damit die Einberufungen [des Adels] aus Schwaben, Franken und dem Elsass gemeint, die der Kaiser im Mai veranlasst hatte.
+<t/>Myconius ist sich auch nicht sicher, wie Bullinger den Herzog [Wilhelm] von Bayern einschätzt. Er ist der Meinung, dass der Herzog, der auf seine Freundschaft mit Augsburg angewiesen ist, [sich den Protestanten gegenüber nicht als feindlich erweisen wird]. Myconius muss aber zugeben, dass die Antwort, die der Herzog [dem Kaiser gegeben hat], tatsächlich überraschend ist, zumal der Herzog ein großer Freund des Kaisers und ein Feind des Evangeliums ist. Diese Antwort könnte den Boten [...] aus Landsberg [am Lech] zu der Behauptung veranlasst haben, der Herzog wolle sich den Protestanten anschließen.
+<t/>Grüße und Aufruf zum fortwährenden Gebet!</re>
+<text>
+<p>S. Misces in tuis
+<fn>Nicht erhalten. - Wohl der von Konrad Gessner überbrachte Brief; s. <qv>nr2478</qv>,<qv>zl16168-1</qv>.</fn> l{e}ta et tristia. L{e}ta tamen mihi l{e}tiora quam tristia tristiora. Dominus adsit verbo suo, ut nimirum aderit nobis fideliter precibus intentis.</p>
+<p>Perfidia C[aroli] V. inaudita debebat omnes homines in odium eius concitare. Millies dixi talem hypocritam nunquam me esse expertum. Dum adulatus est omnibus, instituit, ut ex omni parte nobis sit paratus hostis: Ex Italia, Hispania, Ungaria, Belgis, Germania. Nunquam se sic instruxisset contra Turcum
+<fn>Sultan Suleiman I.</fn>. Misit legatos Argentinam et ad alios,
+<fn>So etwa Augsburg, Ulm und Nürnberg, denen allen der Kaiser den gleichen Brief vom 17. Juni zukommen ließ; s. <qv>nr2466</qv>, <qv>fn16156-1</qv>. In Augsburg traf eine kaiserliche, von Lazarus Schwendi angeführte Gesandtschaft am 21. Juni ein; s. <qv>nr2473</qv>,<qv>zl16163-4</qv>. Sie reiste nach Ulm und Straßburg weiter, wo dem Rat am 22. bzw. 24. Juni der am 17. abgefasste Brief des Kaisers vorgetragen wurde; <a>Rommel, Ulm</a> 18; <a>PC</a> IV/1 161, Nr. 133.<zfn>fn16172-3</zfn></fn> et obtulit pacem cuivis et commoda multa, modo adsint ipsi rebelles
+<fn>Damit meinte der Kaiser hauptsächlich Landgraf Philipp von Hessen und Kurfürst Johann Friedrich von Sachsen; s. Karl V. an Maria von Ungarn, 9. Juni 1546: "me suis resolu de commencer la guerre contre lesdicts duc de Saxe et lantgrave de Hessen ... comme conturbateurs de la commune paix et justice, et contempnans lauctorité du sainct empire" (<a>Karl V. BW</a> II 488).<zfn>fn16172-4</zfn></fn> punituro. Rebellio in hoc erit, si respuas concordiam religionis, quam ipse voluerit instituere, nimirum secundum articulos Lovanienses
+<fn>Die 32 Artikel der Löwener Theologen von Dezember 1544, die der Kaiser im März 1545 als verbindlich erklärte und die den Protestanten im Mai 1545 auf dem Wormser Reichstag vorgelegt wurden; s. <a>HBBW</a> XV 303, Anm. 6.<zfn>fn16172-1</zfn></fn>, et qua restituatur in integrum papa. Stultus
+<fa><i>In der Vorlage</i> sultus.</fa> vir nondum videt impietatem Lovaniensium, qu{e} tamen vel sole patet clarius.</p>
+<p>Lantgravius
+<fn>Philipp von Hessen.</fn> de hoc tanto periculo (et in caput eius praecipue parato ceu cordi foederis Smalcaldici
+<fa><i>In der Vorlage</i> Smalcardici.</fa>)
+<fa><i>Klammern ergänzt.</i></fa> 20. huius nihil adhuc solide novit.
+<fn>Am 19. Juni schrieb der Landgraf dem Straßburger Rat: "Wiewoll nun wir nit hoffen, das die kai. Mt. uber die gegebne frid, fridstend, abschied und ire zusag mit gewalt faren oder wider glauben handlen werde, so sehen uns doch warlich die sachen vast [= sehr] sorglich und beschwerlich an." Den Tag darauf schrieb er aber an denselben Rat, dass er aus den gerade eingetroffenen Nachrichten aus Regensburg "nit anderst abnemen" könne, "dan das gewislich der ernst vorhanden sein muss"; was ihn veranlasste, um Truppen zu bitten; s. <a>PC</a> IV/1, 136f. 139. - Diese Information geht, wie im Falle einiger Nachrichten, die durch Gast mit <qv>nr2481</qv> übermittelt wurden, auf den Gesandten Straßburgs in Basel, Ulrich Chelius (Geiger), zurück; s. <a>PC</a> IV/1 174, Nr. 146.<zfn>fn16172-2</zfn></fn> Vide c{e}saris impiissimum et superbissimum astum et vulpinum
+<fn>Vgl. <qv>nr2478</qv>,<qv>zl16168-4</qv>.</fn> animum! <zzl>zl16172-1A</zzl>Rumor fert exercitum, qui fuit apud Anglum
+<fn>König Heinrich VIII.</fn>, ab eo (lantgravio)
+<fa>lantgravio <i>ohne Klammern unter der Zeile nachgetragen.</i></fa> recipi; id quod olim veritus est c{e}sar futurum.
+<fn>Vgl. schon <qv>nr2470</qv>,<qv>zl16160-4</qv>.</fn><zzl>zl16172-1E</zzl></p>
+<p>Scripsi de Lucernano legato
+<fn>Unbekannt. - Siehe dazu <qv>nr2478</qv>,<qv>zl16168-3</qv>.</fn>. Significabis per ocium, an res ita habeat. <zzl>zl16172-2A</zzl>Quod tu scribis de 7 Romanensi
+<fn>Bullinger meinte den rheinischen (nicht den römischen) Adel; s. <qv>nr2491</qv>,<qv>zl16181-1</qv>. - Zum rheinischen Adel s. <qv>nr2458</qv>,<qv>zl16146-4</qv>; <qv>nr2469</qv>,<qv>zl16159-4</qv>; <qv>nr2471</qv>,<qv>zl16161-2</qv>; <qv>nr2477</qv>.</fn> nobilitate (ni velis intelligi, quos superioribus mensibus convocarat et Suevis, Francis, Alsatia, etc.)
+<fa><i>Klammern ergänzt.</i></fa>, non capio, quid scribas.<zzl>zl16172-2E</zzl></p>
+<p>Dubium verbum quoque de Bavaro
+<fn>Wilhelm IV. von Bayern.</fn>: "Er well sich geburlich halten
+<fn>geburlich halten: angemessen verhalten.</fn>", etc., equidem non interpretor in malam partem: Vicinus est Augustanorum, quorum amicitiam perdere incommodare posset illi.
+<fn>Bullingers wohl zurückhaltende Bewertung der Bemühungen des Herzogs von Bayern um Augsburg erklärt sich aus <qv>nr2467</qv>,<qv>zl16157-3</qv>.</fn> Verum miror deinde, quod tantus amicus Caroli et tantus evangelii hostis apud Carolum sic ausit loqui.
+<fn>Myconius wird wohl Ähnliches wie Blarer über den Herzog vernommen haben; s. <qv>nr2471</qv>,<qv>zl16161-3</qv>. - Zum zweideutigen Verhalten des Herzogs gegenüber den Augsburgern s. <qv>nr2467</qv>, <qv>fn16157-1</qv>.</fn> Ex hoc responso nimirum illud est, quod dixit tabellio
+<fn>Unbekannt.</fn> ex Lantsperg
+<fn>Landsberg am Lech.</fn> Bavarum se adiunxisse protestantibus. Dominus Iesus, cuius res agitur, brachium suum excelsum extendat in hostes sui verbi et largiatur nobis constantiam fidei in finem usque.</p>
+<p>Vale cum bonis omnibus et oremus sine intermissione
+<fn>1Thess 5, 17.</fn>. Raptim, Basile{e}, 29. iunii anno 1546.</p>
+<un>Tuus O. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, fratri ac domino in Christo observando suo.</p>
+</text>
+</brief>

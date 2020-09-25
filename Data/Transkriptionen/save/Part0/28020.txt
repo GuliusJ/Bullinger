@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="28020">
+<nr>28020</nr>
+<correspondents>
+	<originator>Bernardin Bochetel</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>S(olothurn)</place>
+	<date>19. Januar (1558)</date>
+</space_time>
+<vo>Zürich StA, E II 368, 389. / Orig. Aut.</vo>
+Caletum arx et civitas nono huius m(ensis) die capta est, arx vi, civitas deditione.
+Qua ratione res gesta sit, ex literis, quas ad d.d.
+Tigurinos scribo, poteris cognoscere.
+Magna omnino res gesta est; deus reliquum belli successum fortunet.
+Vale.
+S[olodori] 19a  ia(nuarii).
+Tuus Sanlaurentianus.
+Clarissimo theologod. Henrico Bullingero.
+</content>
+</letter>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="803">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf^^^S'^^^'bitalic(1) (*und weitere Dekane*)</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>21. April 1536</date>
+</space_time>
+<print>Ungedruckt</print>
+<note>Original von der Hand Rudolf Gwalthers(?)+a: Zürich ZB, Ms A 69, 19</note>
+<note>(Siegelspur)</note>
+<statue>
+Da in den vergangenen vier Jahren zahlreichen Zürcher Pfarrern
+das Pfrundeinkommen entzogen oder reduziert worden ist,
+verlangt der Rat eine Abklärung. Die betroffenen Pfarrer sollen daher
+aufgefordert werden, bis zum Vorabend der Synode (*vom 9. Mai*) Berichte
+über ihre Lage, über die Ursachen des Mangels und über Möglichkeiten
+der Abhilfe einzureichen. Bittet um Mitteilung an den Dekan in Uster
+(*Utz Eckstein*).
+</statue>
+<content>
+Gnad und frid von gott durch unssernn herren Iesum Christum.
+<p>Demnach klag under vilen bru^deren gewesen, das inen innet+b vier jaren ir bestimpt korpus+2 abgebrochen+3 und sy nütt habind, das sy bliben mögend, und die pfarren zu^% verlassen
+mit der tzitt genötigt, hab ich die klag minen herren fürtragen mit
+antzeigung, was schadens daruss entstan etc.+4
+Hieruff habend sy mir befolhen, gruntlich zu^% erkundigen, weliches doch
+die personen syend. Dann wo das corpus bliben, nitt abbrochen, und ein+c
+zimliche naarung sye, lassend sy es bliben, wo aber berlicher+5
+mangel und die provisionen+6
+abbrochen und die bestimpten competentzen+7
+durch ungunst der lähenherren nitt bezalt, söllend sich antzeigen+8.</p>
+<p>Uff sömlichs ist min meinung und bitt, du wellist nütt allen, sonder den bru^deren allein, umb die es ein gstalt hatt, wie da oben gemeldet,
+miner herren meinung antzeigen und verschaffen, das von innen ein
+gschrifft gestelt, darin volgender artikel erklärtt: 1. Wie es ein
+gstalt umb die pfarrer habe, wer lähenherr und was der kilchen vermögen
+sye; 2. Was und wo der mangel, was und wie vil abgangen, wer es habe
+abgesprochen+9
+und wie es abgangen sye; 3. Antzeigung, wie der sach
+zu^% helfen wäre, und wo man es (so es vorhanden) nemmen möchte.</p>
+<p>Wenn sölliche geschrifft vertzeichnet, so verfu^gents mir ilends, oder bringends uff das lengst+10 in synodum, 8. may, das ist mentags nach dem meytag; wie wol, so es
+müglich were, vor dem synodo geschikt, will ich dann sölichs nach
+befelch+d
+den verordneten fürtragen+11.</p>
+<p>Lassend üch die kilchen Christi inn truwen befolhen sin.</p>
+<p>Datum Zürich, frytags nach osteren 1536.</p>
+<signature>
+Heinrich Bullinger.
+</signature>
+<address>
+Diss verckünd ouch dem decano zu^% Uster+12,
+wie wol ich acht+13,
+er habe ghein under imm+14.
+(*Adresse auf der Rückseite:*) Dem frommen und getruwen Johansen
+Stumppffen, dechan zu^% Bu^%bickon, sinem lieben bru^%der.
+</address>
+</content>
+<note>
+<print>
++a>Nachsatz und Adresse (Z. 26-29)
+von Bullinger eigenhändig hinzugefügt. Auf der Vorder-
+und auf der Rückseite Tintenflecken und Spuren von Federübungen.
+-- Vom selben Schreiber ist noch eine weitere Ausfertigung
+(ohne den Nachsatz Z. 26f und ohne Adresse) vorhanden (Zürich StA,
+E II 335, 2019). Eine Vorlage Bullingers ist nicht erhalten.
++b>vor  innet  gestrichenes  v  bzw.  u.
++c>vor  ein  gestrichenes  v  bzw.  u.
++d>vor  befelch  gestrichenes  dem.
+</print>
+<address>
++1>Weitere gleichlautende Briefe sind offensichtlich an
+andere Dekane der Zürcher Kirche verschickt worden (vgl. Anm. a).
++2>Pfrundeinkommen (SI III 476).
++3>entzogen, eingeschränkt (SI V 324f).
++4>Ein schriftlicher "Fürtrag" ist nicht erhalten. -- Zur Sache
+<print>
+vgl.  Bächtold,  Bullinger vor dem Rat 155f.
++5>deutlicher, empfindlicher (SI IV 1435).
++6>Einkünfte (SI V 506).
++7>die Gesamtheit der dem Pfarrer zustehenden Einkünfte (s. SI III
+305).
++8>sich melden (Grimm I 524).
++9>aberkannt, aufgekündet (SI X 761-763).
++10>spätestens.
++11>Gemeint sind wohl die Ratsverordneten in der Synode vom
+9. Mai 1536: Hans Edlibach, Felix Wingarter, Jakob Werdmüller, Bernhard
+von Cham, Christoph Klauser, Konrad Rollenbutz, Heinrich Ernst und Hans
+Imhof (s. Zürich StA, E II 1, 201); im Plenum wurde die Sache dem
+Protokoll Bullingers zufolge nicht behandelt (ebd., S. 201-211). Später
+war eine besondere Kommission in dieser Angelegenheit tätig (s. unten
+Nr. 822 und 823 mit Anm. a).
++12>Utz Eckstein.
++13>denke (SI I 80).
++14>er habe keinen derartigen Fall im Kapitel.
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

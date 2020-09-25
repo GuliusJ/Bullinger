@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1581">
+<nr>1581</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>5. November 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 75 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 123<fn>Erw.: Moeller, Zwick Nr. 257</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Braucht nichts zu berichten, da Ambrosius [Blarer] schreibt [Nr. 1580]; übersendet einen Brief aus Augsburg und dankt für
+Bullingers erfolgreiche Bemühung um eine Pfrundverbesserung für Georg [Wimpfer] in Stein. Christus möge Bullinger [vor der Pest] bewahren; die Kirche ist auf gute Pfarrer angewiesen. Gruß.
+</re>
+<tx>S. Ego ad te nihil habeo scribente ad te Ambrosio
+nostro.<f1>Vgl. den Brief Ambrosius Blarers vom gleichen Tag (oben Nr. 1580).<fe> Literas vero ab Augusta ad me datas<f1>Ein
+entsprechendes Schreiben aus Augsburg liegt nicht vor.<fe> hic mitto. Tantum mille gratias ago, quod pro Georgio<f1>Georg
+Wimpfer; vgl. oben Nr. 1520, 21-25.<fe>, pastore in Stain, tam fuisti sollicitus, ut iam stipendium bona parte tuo
+beneficio auctum habeat.<f1>Das Einkommen des Pfarrers von Stein am Rhein ist erst für das Jahr 1548 genau bekannt; s. C[arl]
+A[ugust] ^#/+Bächtold,^#/- Geschichte der Pfarrpfründen im Kanton Schaffhausen, Schaffhausen 1882, S. 226f (hier irrtümlich "Georg Mumpfer").<fe> De aliis literas habes Ambrosii.
+^$Christus te servet incolumem<f1>Zwick war wegen der grassierenden Pest um die Zürcher Theologen besorgt, wie auch
+aus seinem Brief vom gleichen Tag an Pellikan hervorgeht (s. Zürich ZB, Ms F 47, 50).<fe> idque pro ecclesiae suae gloria.
+Quid enim futurum putas, si piis ministris ecclesiae destituantur?
+^$Totam domum tuam salvam cupio. Vale.
+^$5. novembris 1541.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, charissimo in Christo fratri.
+</content>
+</letter>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1414">
+<nr>1414</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>11. August 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 66 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 68<f1>eingeordnet 1541); Moeller, Zwick 227.<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Schickt Aktenauszüge über das Ergebnis des Tags [zu Hagenau] und bittet um Rücksendung; Vadian ist bereits informiert.
+Grüße. Wünscht eine Probe von Froschauers Papier. Gruß von Ambrosius Blarer.
+</re>
+<tx>Salus.
+^$Hic bona fide ad te mitto exitum comitiorum nostrorum<f1>Zum Ausgang des Hagenauer Religionsgesprächs s. oben Nr. 1412, 5-43. Auszüge
+aus diesbezüglichen Akten von der Hand Bullingers finden sich in Zürich StA, E II 347, 180-189.<fe>. Tabellionum penuria citius
+mittere non potui, neque otium michi fuit omnia ordine de­scribere; quare benignius feras confusam illam scriptionem.
+Facile potes te explicare, cum satis versutus sis nec careas iuditio. Sed remitte haec mea per hunc tabellarium<f1>Unbekannt.<fe>; nullum enim
+aliud exemplar<fx>^#/+korrigiert aus^#/- exemplum.<fe> est michi. Vadiano non opus est aliquid de hoc scribere, nam a me habet
+omnia<f1>Vgl. Zwicks Brief an Vadian vom 6. August (Vadian BW V 636, Nr. 1126).<fe>. Nonne vero egregie conantur nobis imponere
+adversarii tot dilationibus? Tandem forte non deerit nobis dominus, ut liberemur aliquando ab impostoribus istis. Fiat brevi, o deus!
+^$Praeterea non est, quod scribam. Pellicano, Leoni<f1>Leo Jud.<fe>, Theodoro<f1>Theodor Bibliander.<fe>, Megandro,
+Sertorio<fx>Megandro, Sertorio ^#/+am Rande nachgetragen.^#/-<fe><f1>Gemeint ist Christoph Schappeler, der
+zeitweise in Zürich lebte (vgl. Johannes Rütiner, Diarium 1529-1539, hg. v. Ernst Gerhard Rüsch, Textband I/2, St. Germain 1996, Abs. 946; Vadian BW VI 77f. 159f).<fe> potes summam rei communicare. Tu ne cesses amare nos.
+Vale cum uxore<f1>Anna, geb. Adlischwyler.<fe>, matre<f1>Anna, geb. Wiederkehr.<fe> et liberis<f1>Siehe oben Nr. 1344, Anm. 14.<fe>.
+^$11. augusti 1540.
+<un>Tuus Io. Zvick.
+<lz>Froschoferus chartam conficit subtilem et valde mundam<f1>Zu Froschauers Papierfabrikation vgl. Paul ^#/+Leemann-van Elck,^#/-
+Die Offizin Froschauer. Zürichs berühmte Druckerei im 16. Jahrhundert. Ein Beitrag zur Geschichte der Buchdruckerkunst
+anläßlich der Halbjahrtausendfeier ihrer Erfindung, Zürich/Leipzig 1940, S. 99-102.<fe>; id ex tuis et Vadiani
+literis video. Igitur velim, paucula quaedam folia ad me des, ut videam, qualis sit.
+^$Ambrosius<f1>Ambrosius Blarer.<fe> salutat te cum fratribus perquam studiosissime.
+<lz>[Adresse auf der Rückseite<fx>^#/+Darunter, verwischt:^#/- Domino Cunrado Pellicano.<fe>:] Domino Hainricho
+Bullingero.
+</content>
+</letter>

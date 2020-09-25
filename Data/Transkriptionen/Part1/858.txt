@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="858">
+<correspondents>
+	<originator>Melchior Volmar</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Tübingen</place>
+	<date>1. Juli (*1536*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 361, 286 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Dankt spät für das Geschenk und für den Brief Bullingers, da er
+einer Fussverletzung wegen -- über deren Ursache er Vadian geschrieben hat
+-- im Bad Wildbad war; wie einst Vadian und den St. Gallern, überlässt er
+auch dem
+hochgeschätzten Bullinger eine Erinnerungsgabe, die sich allerdings
+mit den geistvollen Büchlein, die er erhalten hat, nicht messen kann.
+Grüsse.
+</statue>
+<content>
+Gratiam et pacem a domino.
+<p>Gratissimum mihi quidem+a fuit munus tuum, optime ac doctissime Bulingere, sed literae ipsè tuae longe etiam gratiores+2, ut quibus ultro offers, quod summis votis abs te mihi erat expetendum. Agnosco igitur
+humanitatem
+ves-
+tram,
+quam antea quoque isthac transiens cum in te tum
+caeteris doctissimis viris ac candidissimis eiusmodi ac tantam esse ipsa
+re expertus sum+3,
+ut hactenus saepe mecum cogitarim dispiciendum mihi esse, haud+b
+quidem quo modo :gr.th jilanJrwpia umwn kai th xenia:egr.
+respondere ipse possim, quandoquidem video id mihi,
+quamvis egregie volenti, per occasionem tamen id temporis non licere.
+Significationem modo dare aliquam animi grati ac beneficium agnoscentis
+propositum erat. Id quod etiam cupide fecissem nuper adeo in eo, qui et
+literas tuas ad me et munus pertulit+4,
+nisi adventus eius ad nos
+incommode adeo accidisset. Aberam enim tum forte Thermis Ferinis+5
+valetudinis gratia, quam in tantum+c
+labefecerat diutinus nempe semestris morbus, ut vix consistere pedibus,
+nedum ingredi possem. Caussam tam gravis morbi pridem Vadiano nostro
+scripsi+6,
+qui me profectum a vobis
+postridie statim Sangalli et ad amiciciam suam facile petentem admisit et
+simili officii genere liberalissimo animo est prosecutus.
+Quapropter etiam discedens :gr.mnhmosunon ti:egr. animi mei ac studii
+erga viros doctos ac bonos omnes+d
+illi reliqui. In quorum albo quia tu iure
+primas tenes+7,
+tum humanitate me prius ac munificentia iam tua
+praevertisti, visum est apud te quoque relinquere pignus vicissim sive
+monumentum+8,
+quod etsi paria cum symbolo amiciciae, quod misisti, libellis tuis
+elegantissimis, facere haudquaquam potest, commonefacere te+e
+certe subinde potest, quam ego amiciciam tuam ultro oblatam mihi cupide
+sim amplexus.</p>
+<p>Bene vale ac sodalidatem isthic literariam universam meo nomine quam officiosissime saluta.</p>
+<p>Tubingae, calendis iulii.</p>
+<signature>
+Melchior Volmarius tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Doctrina et pietate insigni viro
+Henrico Bulingaero, episcopo Tigurino, domino suo colendo+f.
+</address>
+</content>
+<note>
+<print>
++a>quidem  über der Zeile nachgetragen.
++b>haud  über gestrichenem, unleserlichem Wort.
++c>in tantum  über gestrichenem  ita.
++d>omnes  über der Zeile nachgetragen.
++e>te  über der Zeile nachgetragen.
++f>Unter der Adresse von Bullingers Hand:  Melchior Volmarius.
+</print>
+<address>
++1>Der Brief lässt sich -- aufgrund der Verdankung von Geschenk und
+Brief (Z. 2-4 mit Anm. 2), der Erwähnung der Badekur in Wildbad
+(Z. 13-15) und des Briefes an Vadian (Z. 15f mit Anm. 6) -- eindeutig
+dem Jahr 1536 zuordnen.
++2>Am 21. Mai hatte Ambrosius Blarer mitgeteilt, dass er Bullingers
+Sendung Volmar nach dessen Rückkehr aus Wildbad übergeben werde (vgl.
+oben Nr. 826, 22). Das Geschenk bestand aus einigen Büchlein (vgl.
+unten Z. 22f); der Brief ist nicht erhalten.
++3>Zu Volmars Aufenthalt in Zürich im Mai 1535 vgl. HBBW V, Nr. 605
+mit Anm. 1.
++4>Unbekannt.
++5>Wildbad im Schwarzwald (Baden-Würt- temberg).
++6>Kurz nach seiner Ankunft in Tübingen sei ihm eine schwere
+Eisenplatte, die zum Verschliessen eines Ofenloches bestimmt war, auf den
+rechten Fuss gefallen und habe diesen so schwer verletzt, dass er
+monatelang bettlägrig gewesen sei, schrieb Volmar gleichentags an
+Vadian (vgl. Vadian BW V 693).
++7>Adagia, 5, 1, 51 (LB II 1191).
++8>Über die Erinnerungsgaben an Vadian bzw. Bullinger ist
+weiter nichts bekannt.
+;-----------------------------------------------------------------
+</address>
+</note>
+</letter>

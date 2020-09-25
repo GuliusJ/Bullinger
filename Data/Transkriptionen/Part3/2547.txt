@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2547">
+<brief>
+<id>16236</id>
+<nr>2547</nr>
+<ae>Johann Leopold Frey an Bullinger</ae>
+<od>Biel, 24. August 1546</od>
+<vo>Autograph: Zürich StA, E II 360, 389 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie)</k></dr>
+<re>Weil Bullinger so stark beansprucht ist, hat Frey lange nicht geschrieben. Auch jetzt schreibt er nur kurz. [In Biel] geht es allen gut. Zweimal wöchentlich wird öffentlich gebetet. Gestern zogen einige Bieler ab, um die Protestanten im Krieg zu unterstützen.
+<t/>In [Biel] kennt man den lateinischen Brief des antichristlichen [Papstes Paul III.] und den deutschen des apostatischen Gesandten [Girolamo Franco]; ebenso das blutrünstige Vorhaben Kaiser [Karls V.] sowie die ["Antwort der Predigeren zu Z{ue}rich"], mit der diese erklären, warum sie dem Konzil fernbleiben.
+<t/>Es heißt, der [schmalkaldische] Heerführer [Sebastian] Schertlin, unter dem die Schweizer kämpfen, sei vor den Spaniern gewichen. Doch soll hingegen Rain eingenommen worden sein. Bullinger möchte etwaige Nachrichten mitteilen.
+<t/>Grüße an die Gattin [Anna, geb. Adlischwyler], an die Familie und an [Rudolf] Gwalther.</re>
+<text>
+<p>Gratiam atque securam a deo pacem per dominum nostrum. Diu quidem in animo scribendi ad te cupido fuit, observandissime pater, semper autem imaginatio tuorum negotiorum scripturientem cohibuit. Qua sola de causa nunc etiam brevior ero. Valemus recte omnes. <zzl>zl16236-3A</zzl>Bis in septimana publice preces deo funduntur.
+<fn>Solche Gebetsstunden wurden ebenfalls in Zürich (s. <qv>nr2478</qv>, <qv>fn16168-1</qv> und die Verweise in <qv>nr2549</qv>, <qv>fn16238-1</qv>), in Winterthur (s. <qv>nr2509</qv>,<qv>zl16199-4</qv>), in Augsburg (s. <qv>nr2548</qv>,<qv>zl16237-6</qv>) und in Aarau (s. <qv>nr2549</qv>,<qv>zl16238-2</qv>) eingerichtet.<zfn>fn16236-1</zfn></fn><zzl>zl16236-3E</zzl> <zzl>zl16236-1A</zzl>Ex nostris heri enim pauci discesserunt gratia militandi sub protestantibus.
+<fn>Siehe dazu <qv>nr2548</qv>, <qv>fn16237-1</qv>.</fn><zzl>zl16236-1E</zzl></p>
+<p>Vidimus Latinas antichristi
+<fn>Gemeint ist Papst Paul III.</fn> literas et apostatici legati
+<fn>Girolamo Franco. - Apostaticus legatus: ironisches Wortspiel mit der sonst üblichen Bezeichnung apostolicus legatus (oder nuntius).</fn> Germanicas.
+<fn>Gemeint sind zwei Briefe: Der lateinische Brief des Papstes an die Eidgenossen vom 3. Juli 1546, und der wohl von Albert Rosin im Namen des Legaten Franco auf Deutsch verfasste Brief an die Eidgenossen vom 25. Juli; s. <qv>nr2509</qv>, <qv>fn16199-1</qv>; <qv>nr2516</qv>, <qv>fn16206-1</qv>.</fn> <zzl>zl16236-2A</zzl>Legimus crudelia c{e}saris
+<fn>Karl V.</fn> consilia.
+<fn>Das Bündnis des Papstes mit dem Kaiser vom 26. Juni; s. <qv>nr2485</qv>, <qv>fn16175-4</qv>. - Erst Mitte August, während der Badener Tagsatzung, und möglicherweise durch Bullingers Vermittlung (vgl. <qv>nr2528</qv>,<qv>zl16218-2</qv>), wurde dieses Abkommen den protestantischen Eidgenossen bekannt; s. das Schreiben des Berner Rats an den Zürcher Rat, 21. August 1546 (Zürich StA, A 177, Nr. 26); <a>EA</a> IV/1d 657 g.<zfn>fn16236-2</zfn></fn><zzl>zl16236-2E</zzl> Habuimus quoque vestram apologiam
+<fn>Die "Antwort der Predigeren zu Z{ue}rich uff des Papsts Laden in das Concilium zu Trient" vom 1. August 1546; s. dazu <qv>nr2530</qv>, <qv>fn16221-2</qv>.</fn>, cur non veniatis ad simulatum concilium.</p>
+<p>Audivimus ducem Schertlinum, sub quo militant Svizeri nostri, cessisse vi
+<fa><i>In der Vorlage</i> vim.</fa> Hispanorum.
+<fn>Falsche Meldung, die wohl auf die Nachricht über den Abzug der Truppen Schertlins aus Füssen zurückzuführen ist; s. <qv>nr2529</qv>, <qv>fn16220-6</qv>.</fn> Nostros autem per deditionem coepisse civitatem Rayn.
+<fn>Siehe dazu <qv>nr2533</qv>, <qv>fn16222-1</qv>; <qv>nr2537</qv>,<qv>zl16227-1</qv>.</fn> Quid porro factum sit, nondum rescivimus. Qu{e}so autem, ut, quae certissima habes, commodum nactus nuncium ad nos perscribas, ut, si sint prospera, animati deo gratias agamus, sin (quod deus avertat) adversa, contriti veniam deprecemur ardentius.</p>
+<p>Salutant te nostri. Saluta meo nomine coniugem tuam
+<fn>Anna Bullinger, geb. Adlischwyler.</fn> familiamque et d. Rodolphum Gvaltherum. Vale et me ama. Biellnis, ipsa Bartholom{e}i 1546.</p>
+<un>Tuus ex animo totus</un>
+<un>Io. Leopoldus Fry.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Doctissimo piissimoque viro, Tigurin{e} ecclesi{e} fidelissimo pastori d. Heinrycho Bullingero, patri suo colendissimo. Zürich.</p>
+</text>
+</brief>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2640">
+<brief>
+<id>16330</id>
+<nr>2640</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-10-23"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>Augsburg, 23. Oktober [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 370a, 525 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 35</k></dr>
+<re><t>Haller schrieb am 18. Oktober [<qv>nr2631</qv>] und gab [Georg] Frölich den Brief, weil dieser berichtete, dass ein öffentlicher Bote [...] nach Konstanz aufbrechen würde. Doch gestern lag der Brief immer noch bei Frölich! Dieser wird ihn nun mit seinem Schreiben [<qv>nr2639</qv>] abschicken.</t>
+<t>Am 14. Oktober fielen bei Gefechten zwischen Reiterkohorten etwa 1'000 Kaiserliche. Am 16. kam es zu Kampfhandlungen, bei denen beide Seiten viele Opfer hinnehmen mussten.</t>
+<t>Am gleichen Tag [richtig: am 14. oder 15.] raubten Spanier ein Dorf [Elchingen] aus, das an ein Kloster [die Reichsabtei Elchingen] angrenzt. Sie zerrten die Frauen in das Kloster und vergewaltigten sie. Die Bevölkerung schloss sich zusammen, griff die Feinde im Kloster an und tötete etliche davon. Einige flüchteten auf den Kirchturm, der mit ihnen in Brand gesteckt wurde.</t>
+<t>Am 18. Oktober beschlagnahmten Reiter aus Augsburg acht Wagen mit fünf Fuhren Proviant, die für das Lager des Kaisers [Karl V.] bestimmt waren. Die Fuhrleute wurden freigestellt, die Pferde verkauft und die Nahrung unter den Armen und Soldaten in Augsburg verteilt.</t>
+<t>Dieser Tage hat sich Herzog [Ulrich] von Württemberg mit angeblich 15'000 Fußsoldaten und 1'800 Kavalleristen dem [schmalkaldischen] Heer angeschlossen.</t>
+<t>Auch sollen derzeit viele der von [König Franz I. von] Frankreich entsandten Reiter den [Schmalkaldenern] durch Straßburg zuziehen.</t>
+<t>Am 20. Oktober machte erneut eine Reitertruppe aus Augsburg einen Aufklärungszug bis nach Rain [am Lech], wo 200 kaiserliche Kavalleristen stationiert sind. Sie trafen plündernde Kavalleristen an und stachen 30 davon nieder. 13 Pferde wurden nach Augsburg geführt, aber keine Gefangenen, weil diese nach dem Kriegsrecht und zu Schertlins Ärger nicht getötet werden dürfen und nach ihrer Entlassung gefährliche Verräter werden.</t>
+<t>Am 21. Oktober wurden zwei Wagen mit Proviant beschlagnahmt. Gestern brachten Bauern vier gefangene Spanier in die Stadt.</t>
+<t>Der Sohn [...] eines Augsburger Zunftmeisters [...], der gestern nach Augsburg kam, wurde festgenommen, weil er der Spionage verdächtigt wird. Er lebte längere Zeit in Italien, verkehrte oft am Hofe des Kaisers und befand sich auch bis gestern im kaiserlichen Lager. Einige meinen, er solle am neu aufgerichteten Galgen erhängt werden.</t>
+<t>Am 21. Oktober wurden starke Kanonenschläge auf den [umliegenden] Höhen vernommen. Haller konnte noch nichts darüber erfahren. Da der Kaiser zwischen Augsburg und dem [schmalkaldischen] Heer liegt, ist nämlich ein Umweg von zehn Meilen erforderlich, um zu Letzterem zu gelangen. Deshalb braucht es mindestens drei Tage, bis Nachrichten aus dem Lager eintreffen.</t>
+<t>[Sebastian] Lepusculus wird in Augsburg wirken. Weil aber der ansonsten gelehrte und fromme [Hieronymus] Gunz kein Talent für den Unterricht [gemeint ist die Predigt] besitzt, wird dieser nach Basel zurückgeschickt, allerdings mit einem guten Zeugnis.</t>
+<t>Täglich erwartet man die
+Rückkehr der Zürcher Pfarrer [Lorenz Meyer, Thoman Ruman und Rudolf Schwyzer]. Bullinger soll sie zu einem besseren Benehmen anhalten, denn sie stehen nicht Bauern vor, sondern einer solch vornehmen Bevölkerung, wie sie anderswo in Deutschland kaum zu finden ist! Sie sollen sich auch untereinander nicht streiten, um keinen Anstoß zu erregen. Auf das bäurische Zechen in den Wirtshäusern sollten sie ebenfalls verzichten, denn sie werden von den Augsburgern mehr an ihrem Lebenswandel als an ihrer Lehre gemessen. Haller schreibt dies in ihrem Interesse, besonders aber, weil ihm der Ruf der Zürcher Kirche am Herzen liegt.</t>
+<t>Etwaige noch heute eintreffende Nachrichten würde Haller [diesem Brief] hinzufügen, ehe [Lepusculus und Gunz nach Basel] aufbrechen. Grüße.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16330-1A</zzl>Scripsi 18. huius mensis ad te,
+<fn>Mit Brief <qv>nr2631</qv>.</fn> quae tunc habebam nova. Dixerat enim mihi d. Laetus
+<fn>Georg Frölich.</fn> publicum quendam tabellarium
+<fn>Unbekannt.</fn> profecturum Constantiam. Tradidi ergo d. Laeto literas, quas tamen heri
+<fn>Also am 22. Oktober.</fn> adhuc apud ipsum reperi. Eas ipse nunc simul cum suis
+<fn>Mit seinem Brief vom 23. Oktober (<qv>nr2639</qv>).</fn> mittet.<zzl>zl16330-1E</zzl> Quae nunc sunt nova, se tibi scripturum pollicitus est.</p>
+</div>
+<div>
+<p><zzl>zl16330-8A</zzl>14.
+<fa>14 <i>aus</i> 10 <i>korrigiert.</i></fa> octobris conflixerunt aliquot equitum cohortes.
+<fn>Vgl. die Berichte aus dem Feldlager zu Giengen an der Brenz, die Heinrich Thomann den Zürchern am 14. Oktober abends (Zürich StA, A 177, Nr. 85) und am 15. Oktober (ebd., Nr. 87) übermittelte: Bei den Gefechten flohen die Kaiserlichen, von denen "vil tusent" erschlagen wurden. Siehe ferner <a>Rommel</a> III 149f; <a>Schüz, Donaufeldzug</a> 70-72.<zfn>fn16330-1</zfn></fn> Ex caesareanis non minus 1'000 desyderati.<zzl>zl16330-8E</zzl> <zzl>zl16330-7A</zzl>16. deinde octobris iterum factum est certamen,
+<fn>Zu den Scharmützeln vom 16. und 17. Oktober s. Thomanns Bericht vom 18. Oktober 1546 (Zürich StA, A 177, Nr. 94): Während die Schmalkaldener am 16. Oktober unterlagen, trieben sie am Folgetag die Kaiserlichen aus einem Wald. Es kam dabei zu Gefechten, bei denen beide Seiten etwa 500 Tote hinnehmen mussten. Siehe ferner <a>Rommel</a> III 150f; <a>Schüz, Donaufeldzug</a> 75. - Bullinger machte sich damals anhand der Briefe, die sowohl er als auch der Rat von Zürich erhielten, Notizen zum Verlauf des Krieges. Diese sind in Zürich ZB, Ms A 43, f. 523-530, erhalten und decken die Zeit vom 19. September bis etwa 25. Oktober 1546 ab.<zfn>fn16330-2</zfn></fn> non tamen universalis conflictus, sed tale, ut ex utraque parte plurimi sint desiderati.<zzl>zl16330-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-9A</zzl>Eodem die Hispani aliquot venerunt in pagum quendam, monasterio (cuius nomen non memini)
+<fn>Das Benediktinerkloster in Elchingen (Lkr. Neu-Ulm, Bayern), etwa 10 km nordöstlich von Ulm. In einem am 16. Oktober in Ulm verfassten Brief an Konstanz - ein Brief, der wiederum von Konstanz für Zürich abgeschrieben wurde (Zürich StA, A 177, Nr. 90) - erfährt man ergänzend zu dem hier Berichteten, dass am frühen Morgen des 16. Oktober etwa 100 Reiter und 100 Hakenschützen aus Ulm der Bevölkerung von Elchingen zu Hilfe kamen und im Kloster etwa "35 Welsche" töteten, auch den Kirchturm anzündeten, in dem einige Kaiserliche Zuflucht gesucht hatten. Siehe ferner <a>Viglius van Zwichem</a> 137, mit S. 155, Anm. 40. - Zu den damals im Kloster entstandenen Schäden s. Die Männer- und Frauenklöster der Benediktiner in Bayern, Bd. I, bearbeitet von Michael Kaufmann, usw., Sankt Ottilien 2014 - Germania Benedictina II/1, S. 556f.<zfn>fn16330-3</zfn></fn> contiguum, in quo non modo diripuere omnia, sed et mulieres ac virgines, vi in monasterium abripientes eas, oppresserunt. Rustici conglobati ipsos in monasterio aggressi trucidarunt non paucos. Reliqui in turrim evaserunt. Cum vero ipsos inde elicere non possent, turri incensa ipsos fumo necarunt.<zzl>zl16330-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-10A</zzl>18. octobris nostri equites egressi et hinc inde vagantes 8 plaustra cum 5 carris commeatum vehentibus in castra caesaris
+<fn>Karl V.</fn> interceperunt et Augustam adduxerunt.
+<fn>Vgl. dazu <a>Schertlin, Leben</a> 57; <a>Paulus, Schertlin</a> 74f, wo allerdings kein genaues Datum angeführt wird, zumal Schertlin fast täglich mit einigen Hakenschützen das Donauries und bayerisches Gebiet am Lechrain durchstreifte (s. auch unten Z. <qv>zl16330-4</qv>). Dadurch wurde dem Kaiser die Proviantzufuhr abgeschnitten; s. den Brief Herzog Wilhelms von Bayern an Karl V., 29. Oktober 1546 (Regest in: <a>Druffel, BA</a> 24, Nr. 60).<zfn>fn16330-4</zfn></fn> Aurigae dimissi sunt, equi divenditi, panes inter pauperes et milites distributi.<zzl>zl16330-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-11A</zzl>His etiam diebus se nostris copiis iunxit dux Wirtenbergensis
+<fn>Herzog Ulrich von Württemberg. - Zum Anschluss der Heere kam es aber erst nach dem 26. Oktober; s. <qv>nr2635</qv>, <qv>fn16325-1</qv>.</fn> cum 15'000 peditum et 1'800 equitum, sicut ferunt.<zzl>zl16330-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-12A</zzl>Est etiam constans fama magnum numerum equitum a Gallo
+<fn>König Franz I. von Frankreich.</fn> missorum hisce diebus per Argentoratum ad nos transisse
+<fa>transisse <i>aus</i> duci <i>korrigiert</i>.</fa>.<zzl>zl16330-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-4A</zzl>20. octobris iterum nostri equites egressi pervenerunt ad oppidum usque Rein
+<fn>Rain am Lech.</fn>, ubi 200 sunt equites caesareani, ex quibus aliquot invenerunt diripientes rusticos. Horum circiter 30 ab ipsis confossi, capti nulli, sed 13 tantum equi vacui adducti. <zzl>zl16330-18A</zzl>Indignatur enim Schertlius, si huiusmodi nebulones captivos afferant, quos non liceat iure militari necare fiantque dimissi proditores pessimi.
+<fn>Laut <a>Von Stetten, Augsburg</a> 401, und <a>Paulus, Schertlin</a> 75 soll Schertlin deutsche und spanische Gefangene gegen Lösegeld getauscht haben, während er die Italiener umbringen ließ.<zfn>fn16330-5</zfn></fn><zzl>zl16330-4E</zzl><zzl>zl16330-18E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-13A</zzl>21. octobris habend si aber zwen profantw{ae}gen erwüscht
+<fn>zwen profantw{ae}gen erwüscht: zwei Proviantwagen erwischt; vgl. <a>Viglius van Zwichem</a> 138.<zfn>fn16330-6</zfn></fn>.<zzl>zl16330-13E</zzl> Heri, id est 22. octobris, habend die puren
+<fn>Bauern.</fn> 4 Spanger heimbracht gfangen.</p>
+</div>
+<div>
+<p><zzl>zl16330-3A</zzl>Est etiam quidam apud nos tribunus
+<fn>Zunftmeister; s. <a>Kirsch</a> 2877. - Unbekannt.</fn>, qui filium
+<fn>Unbekannt.</fn> habet multo tempore versatum in Italia, qui
+<fa><i>Über der Zeile nachgetragen.</i></fa> et frequenter etiam aulam caesaris secutus est
+<fa><i>Über der Zeile nachgetragen.</i></fa> hactenusque in ipsius fuit castris. Is heri Augustam venit proditionis procul dubio nomine; quem nostri comprehensum in vincula coniecere. Arbitrantur quidam eum novo patibulo in foro erecto
+<fn>Siehe <qv>nr2631</qv>,<qv>zl16321-3</qv>; <qv>nr2635</qv>,<qv>zl16325-2</qv>.</fn> affigendum.<zzl>zl16330-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-14A</zzl>21. octobris hatt man unmentschlich hören schiessen duß
+<fn>draußen.</fn> uff den bergen, das man meint, es söll aber
+<fn>erneut.</fn> etwas gschehen sin. Ich hab aber noch nüt vernommen,<zzl>zl16330-14E</zzl> <zzl>zl16330-6A</zzl>dann, diewyl der keiser zwüschend uns und unserem huffen
+<fn>Das Hauptheer der Schmalkaldener.</fn> ligt, m{uo}ß man wol 10 myl
+<fn>Eine deutsche Meile entspricht ca. 8 Kilometern oder zwei Wegstunden.</fn> umbriten
+<fn>reitend einen Umweg machen; s. <a>SI</a> VI 1684.</fn>. Deßhalb man amm 3. tag kum kan bottschafft haben uß dem l{ae}ger.
+<fn>Vgl. dazu Hallers Äußerung in <qv>nr2631</qv>,<qv>zl16321-8</qv>, derzufolge die Augsburger am 18. Oktober schon drei Tage keine Nachricht aus dem Feldlager hatten.</fn> So neiswas
+<fn>irgendetwas.</fn> kumpt, wil ichs üch wüssen lassen.<zzl>zl16330-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-15A</zzl><zzl>zl16330-16A</zzl>Lepusculus
+<fn>Sebastian Lepusculus; s. <qv>nr2612</qv>, <qv>fn16301-9</qv>.</fn> apud nos manebit.<zzl>zl16330-16E</zzl> <zzl>zl16330-17A</zzl>Guntius
+<fn>Hieronymus Gunz; s. <qv>nr2612</qv>, <qv>fn16301-5</qv>.</fn>, quamvis doctissimus et valde pius vir, tamen docendi non habet ullam gratiam; ideo a nobis remittitur
+<fn>Nämlich nach Basel.</fn>, honestissimis tamen excusatus apud suos rationibus.<zzl>zl16330-17E</zzl><zzl>zl16330-15E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16330-5A</zzl>Fratrum Tigurinorum
+<fn>Die Zürcher Pfarrer Lorenz Meyer (Agricola), (Hans) Thoman Ruman und Rudolf Schwyzer d.Ä.; s. zuletzt <qv>nr2619</qv>,<qv>zl16309-1</qv> und <qv>fn16301-4</qv>.</fn> nunc in dies expectabimus adventum.
+<fn>Zum Datum ihrer Rückkehr nach Augsburg s. <qv>nr2615</qv>, <qv>fn16305-2</qv>.</fn> Tu ipsos instrue, quaeso, ut alios induant mores,
+<fn>Siehe dazu und zum Folgenden schon Hallers Bemerkungen in <qv>nr2612</qv>,<qv>zl16301-33</qv>. <qv>zl16301-38</qv>.</fn> nec putent se rusticis amplius praeesse, sed tali populo, qualem in Germania vix invenire liceret. Item, ut ipsi sint concordes, ne tragoediam aliquam inter se moventes caeteris sint offendiculo. <zzl>zl16330-19A</zzl>Hospitia
+<fn>Gasthöfe; s. <a>Kirsch</a> 1375.</fn> item et commessationes
+<fn>Schmausereien, nächtliches Zechen; vgl. <a>Kirsch</a> 604 s.v. comissatio.</fn> illas agrestes vitent.<zzl>zl16330-19E</zzl> Non tam enim de
+<fa><i>Über der Zeile nachgetragen.</i></fa> doctrina quam de vita acerrime iudicare possunt nostri. Haec, quia ipsos amo, scribo vellemque non tam ipsis quam ecclesiae univers{e} nominique Tigurino consultum.<zzl>zl16330-5E</zzl></p>
+<p>Vale. Augustae, 23. octobris summo mane.</p>
+</div>
+<div>
+<p><zzl>zl16330-2A</zzl>Si quid adhuc hodie novi audivero,
+<fn>In Bezug auf oben Z. <qv>zl16330-6</qv>.</fn> priusquam illi
+<fn>Damit sind die oben erwähnten Lepusculus und Gunz gemeint; vgl. <qv>nr2612</qv>, <qv>fn16301-9</qv> und <qv>fn16301-5</qv>.</fn> discedant, adiungam.<zzl>zl16330-2E</zzl> Saluta fratres.</p>
+<un>Tuus Ioan. Hallerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Heinrycho Bullingero, fidelissimo Tigurinae ecclesiae pastori, domino et patri suo venerando.
+<fn>Aus oben Z. <qv>zl16330-2</qv> und aus <qv>nr2643</qv>,<qv>zl16333-1</qv>, lässt sich schließen, dass vorliegender Brief Lepusculus und Gunz anvertraut wurde. Doch reiste allein Gunz durch Zürich. Ihm wurden auch Hallers Brief <qv>nr2631</qv> vom 18. Oktober und Frölichs Brief <qv>nr2639</qv> vom 23. Oktober mitgegeben; s. <qv>nr2653</qv>,<qv>zl16342-9</qv>.<zfn>fn16330-7</zfn></fn></p>
+</div>
+</text>
+</brief>

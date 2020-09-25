@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1326">
+<nr>1326</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>um Ende Oktober 1539]</date>
+	<note>Die Anregung, einen Mahnbrief an Cranmer zu richten (unten Z. 10f), gehört zweifellos in den gleichen Zeitraum wie Grynäus' eigenes, nicht erhaltenes Mahnschreiben, das Bucer am 29. Oktober auf Grynäus'
+Bitte hin mit einem Begleitbrief versah (s. Epistolae Tigurinae 344-346 bzw. Original Letters II 526-530, je Nr. 245; vgl. Corr. des réformateurs VI 109). Die Nachricht vom
+Wiederaufflackern der Pest (unten Z. 7) gab Bullinger am 5. November an Vadian weiter (vgl. Nr. 1327).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 179 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat selten geschrieben, da er beschäftigt ist und da die Gegner [im Streit um die Universitätsordnung] argwöhnisch
+sind, hofft aber, daß dieser Sturm sich legen wird, und versichert ihn seiner Freundschaft; auch von der Pest werden
+sie erneut bedrängt. Vom englischen König [Heinrich VIII.] ist kaum noch etwas zu erhoffen; Grynäus rät dazu, einen
+Mahnbrief an Cranmer zu schreiben und bei den [in Zürich] weilenden Engländern Erkundigungen einzuholen. Grüße.
+</re>
+<tx>S. Scripsi hoc tempore ad vos rarius ideo, et quia
+occupationes nobis obstabant et quia nolui quidquam usquam
+movere, nisi quod dominus ipse nobis hic dedisset. Multi
+sunt, qui nos arbitrantur fiducia suorum esse
+pertinaces<f1>Grynäus spielt auf den Konflikt um das Verhältnis der Theologen zur Universität an; zu seiner schwierigen Lage s. unten Nr. 1332.<fe>. Spero hanc tempestatem aliquando sponte
+compositum iri. Te oro per dominum, ut me credas esse amicum
+vestrę ecclesię aut vestri nominis vestręque
+authoritatis studiosissimum. Scio coram domino, syncere vos
+omnes istic in domino diligo.
+Iterum nos hic pestis tentare incipit. Orabitis dominum, ut
+ecclesiam suam adversus hostes potentissimos defendat.
+^$De rege Anglię<f1>Heinrich VIII.<fe> vide, mi Bullingere, quid nobis sit sperandum; monstra sunt et portenta hominum
+hii reges. Opere precium est, ut ad Cranmerum<fx>^#/+kann auch als^#/- Crommerum ^#/+gelesen werden.^#/-<fe>
+scribamus, si qua reduci in viam possit<f1>Erzbischof Cranmer hatte dem Sechs-Artikel-Gesetz vom Juni 1539 gegen seine
+Überzeugung zugestimmt; vgl. oben Nr. 1308, 41 mit Anm. 18.<fe>. Ex hospitibus istis Anglis<f1>In Zürich weilende
+Flüchtlinge aus England sind auch in Bullingers Brief an Vadian vom 3. Oktober erwähnt; s. oben Nr. 1312.<fe> fac, ut diligenter cognoscas de omni re.
+^$Vale iam in domino Christo, qui te servet incolumem.
+Theodorum<f1>Theodor Bibliander.<fe>, Leonem<f1>Leo Jud.<fe>, Pellicanum, omnes fratres in Christo mihi diligenter saluta.
+<un>S. Gryneus.
+<lz>[Adresse auf der Rückseite:] H. Bullingero suo, amico.
+Tygurum.
+</content>
+</letter>

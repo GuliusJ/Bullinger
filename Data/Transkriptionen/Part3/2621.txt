@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2621">
+<brief>
+<id>16311</id>
+<nr>2621</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-10-13"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 13. Oktober [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 370, 4 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 5 </k></dr>
+<re><t>Heute bricht ein junger Augsburger Nachbar [...] nach Zürich auf. Er wird Hallers Nachrichten über den Krieg [<qv>nr2619</qv>] übermitteln. Er kam, als Haller beim Frühstück war und erklärte sich bereit, einen Brief mitzunehmen.</t>
+<t>Die Truppen Kaiser [Karls V.] liegen ganz in der Nähe und machen Ausfälle gegen die Stadt. Bei einer nächtlichen Auskundschaftung traf ein Augsburger Reiter- und Schützentrupp auf Spanier, die vorhatten, ein benachbartes Dorf [...] anzuzünden. 20 Spanier wurden getötet, 13 gefangen und nach Augsburg gebracht.</t>
+<t>Bullinger soll für Augsburg beten, denn die Gefahr ist groß. Das kaiserliche Heer lagert bei Donauwörth. Die [Schmalkaldener] folgen ihm und befinden sich bei Höchstädt.</t>
+<t>Haller übersendet die "Expostulatio" [Johannes Schradins].</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16311-2A</zzl>Hodie abiit ad vos profecturus quidam
+<fn>Unbekannt.</fn> ex civibus nostris, meus vicinus, per quem copiosius miserrimum belli nostri statum significavi.
+<fn>Nämlich indem Haller diesem seinen Brief vom Vortag <qv>nr2619</qv> mitgab.</fn> Iam, dum sum in prandio, commode se mihi offert hic iuvenis ad vos iturus rogans, si quae scribere velim.<zzl>zl16311-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16311-3A</zzl>Habeo autem hoc unum, quod hac nocte (quia in propinquo sunt caesaris
+<fn>Karl V.</fn> copiae et incursiones fiunt erga urbem nostram)
+<fa><i>Klammern ergänzt.</i></fa> nostri aliquot equites cum bombardistis
+<fn>bombardista: Büchsenschütze.</fn> miserunt speculatum, ne quid improviso mali ingruat. Qui in pago quodam
+<fn>Nicht ermittelt.</fn> aliquot Hispanos invenerunt pagum incendere volentes. Quos adorti circiter 20 trucidarunt, 13 vero captivos hodie duxerunt in urbem. Quid cum illis futurum sit, ignoro.<zzl>zl16311-3E</zzl></p>
+</div>
+<div>
+<p>Tu pro nobis ora dominum! In periculo enim sumus non parvo. Caesaris exercitus iuxta Werdam
+<fn>Donauwörth. - Die Stadt war am 9. Oktober von den Kaiserlichen eingenommen worden; s. <qv>nr2619</qv>,<qv>zl16309-4</qv>. Am 13. befand sich der Kaiser allerdings bereits nicht mehr dort. Am 12. hatten seine Truppen Höchstädt und Dillingen eingenommen, am 13. Lauingen und Gundelfingen; s. <a>Schüz, Donaufeldzug</a> 68; <a>Viglius van Zwichem</a> 135f. 147-149; <a>Paulus, Schertlin</a> 72-74.<zfn>fn16311-1</zfn></fn> castra posuit. Nostri iterum eis imminent castrametati
+<fn>castrametari: das Lager aufschlagen; s. <a>Dasypodius, Dic.</a> 26v.; <a>König</a> 174.</fn> apud <zzl>zl16311-1A</zzl>Höchstet
+<fn>Höchstädt a.d. Donau, Lkr. Dillingen a.d. Donau, 30 km südlich von Nördlingen. Diese Nachricht kann aber nicht stimmen. Erst am Abend des 13. Oktober trafen die Schmalkaldener in Ballmertshofen (18 km nordwestlich von Höchstädt) ein; s. Heinrich Thomann an den Rat von Zürich, 14. Oktober 1546 (Zürich StA, A 177, Nr. 84); <a>Schüz, Donaufeldzug</a> 60 und 70; Skizze 5 und 7.<zfn>fn16311-2</zfn></fn><zzl>zl16311-1E</zzl> pagum quendam.</p>
+</div>
+<div>
+<p>Vale. Mitto hic tibi doctissimam Germaniae cum Carolo expostulationem.
+<fn>Gemeint ist die Augsburger Ausgabe der Schrift von Johannes <i>Schradin,</i> Expostulation, das ist Klag und Verweiß Germanie, des Teütschen Lands, gegen Carolo Quinto dem Kayser des unbillichen bekriegens darinn angezaigt wie sollichs wider alle billichhait und recht beschehe, Augsburg, Valentin Othmar, 1546 (<a>VD16</a> S 4051). Die Schrift trägt am Ende, auf f. [C4v.], das Datum des 20. August 1546. - In Zürich ZB ist der Ulmer Druck von Hans Varnier (Ms S 61, 110[a] - <a>VD16</a> ZV 21413), sowie ein an einem unbekannten Ort gedrucktes Exemplar (18.1455/7 - <a>VD16</a> S4050) erhalten geblieben. Der Ulmer Druck war wohl der Erstdruck dieser Schrift; vgl. nämlich <a>HBBW</a> XVII 285f.<zfn>fn16311-3</zfn></fn></p>
+<p>13. octobris 1545
+<fa><i>Verschrieben für</i> 1546.</fa> in ipso prandio.</p>
+<un>Ioan. Hallerus, t[otus] t[uus].</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Heinrycho Bullingero, Tigurinae ecclesiae fidelissimo vigili, domino et patri suo charissimo.</p>
+</div>
+</text>
+</brief>

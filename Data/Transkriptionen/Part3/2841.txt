@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2841">
+<brief>
+<id>17109</id>
+<nr>2841</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-03-11"/>
+<ae>[Ambrosius Blarer an Bullinger]
+<fn>Der Empfänger ergibt sich aus dem Inhalt des Briefes.</fn></ae>
+<od>[Konstanz], 11. März 1547</od>
+<vo>Autograph: Zürich StA, E II 357a, 735-738; [Beilage:] 740f (ohne Siegel)
+<fa><i>Ohne Schnitt- oder Nadelspuren. Die Zusammengehörigkeit dieser drei Blätter (S. 735f, 737f und 740f) ist noch ganz schwach an einem Falz zu erkennen. Siehe dazu ferner <qv>fn17109-2</qv>.</i></fa></vo>
+<dr>Teildruck und zuammenfassende Übersetzung: <br/><a>Blarer BW</a> II 602-605, Nr. 1419 (Brief); 597f, Nr. 1415 (Beilage)
+<fa><i>Dass die Beilage vorliegendem Brief und nicht, wie dies Schieß tat, Blarers vorhergehendem Brief <qv>nr2824</qv> vom 25. Februar zuzuordnen ist, geht aus folgenden Beobachtungen hervor: Während Blarer unten Z. <qv>zl17109-1</qv> des vorliegenden Briefs Bullinger dazu anhält, die Angelegenheit von Marcell Dietrich von Schankwitz nicht zu vergessen, ermahnt er ihn nicht, sich über die Eheangelegenheiten zu äußern, die in der hier veröffentlichten Beilage angesprochen werden. In der Antwort vom 12. März auf vorliegenden Brief schrieb Bullinger hingegen, dass er nicht dazu gekommen war, die Eheangelegenheiten zu behandeln; s. <qv>nr2842</qv>,<qv>zl17111-1</qv>. Zudem sprechen die in der hier veröffentlichten Beilage enthaltenen Zeitangaben eher für eine Datierung auf den 11. März als auf den 25. Februar.</i><zfn>fn17109-2</zfn></fa><k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 150.</k></dr>
+<re><t>Blarer und Konrad Zwick danken für Bullingers Briefe [nicht erhalten], den der Bote [Hans Zingg zusammen] mit einem Brief des Zürcher Bürgermeisters [Johannes Haab] am Vortag an Zwick überbracht hat, als Blarer gerade beim Letzteren war. Sie haben die Briefe gleich gemeinsam gelesen und angesichts ihrer vielen sonstigen Schreibpflichten beschlossen, dass Zwick an den Bürgermeister und Blarer an Bullinger schreibt. Diese mögen sich gegenseitig über die jeweiligen Briefinhalte informieren.</t>
+<t>Zwick lässt ausrichten, dass ihn in Bullingers Briefen nur stört, dass dieser die Konstanzer immer dazu ermahnt, keinen faulen Frieden anzunehmen, während Zwick der Meinung ist, dass gar kein Frieden anzunehmen sei, weil ein solcher nur faul sein könne. So schreibt jemand [...] aus Ulm, dass kein einziges der der Stadt gemachten Versprechen gehalten wurde, wie dies Bullinger auch von Haab erfahren wird.</t>
+<t>Bürgermeister [Haab] hat Zwick brieflich informiert, dass die XIII Orte den Auftrag mitgenommen haben, Konstanz von eidgenössischem Gebiet aus weder belagern noch angreifen zu lassen. Bullinger weiß wohl, wie wenig das nützt. Doch hoffen die Konstanzer weiterhin auf göttlichen Beistand.</t>
+<t>Die Antwort der Zürcher an den Franzosen [Guillaume Du Plessis, sieur de Lyancourt] gefällt Blarer und Zwick ganz gut. König Franz I. soll sich mit Sultan Suleiman verschworen haben, wird aber kaum etwas gegen Kaiser Karl V. unternehmen, ehe der Sultan (der schon in Rüstung steht) in den Krieg zieht.</t>
+<t>Blarer hat das Geld [von Kaspar Seidensticker] erhalten. Konrad Hofherr wird er wegen dessen ungestümen Wesens tadeln.</t>
+<t>Die Straßburger Gesandten wurden zum Kaiser nach Nürnberg beordert. Es ist zu befürchten, dass sie sich auch aussöhnen werden, anscheinend aber zu besseren Bedingungen als die anderen [Städte]; vielleicht aber auch nicht. Bullinger möge dies Hans Schöner mitteilen, ihn von Blarer grüßen lassen und dessen Schweigen aus Zeitmangel entschuldigen. Dieser hat Schöners Schreiben erhalten und dessen Briefe nach Augsburg weitergeleitet.</t>
+<t>Grüße. Bullinger möge für die [deutschen Protestanten] und deren Kirche beten. Blarer muss abbrechen.</t>
+<t>[Nachrichten:] Die Hauptleute [Sebastian Schertlin] und Marcell Dietrich von Schankwitz sind noch in Konstanz. Bullinger soll Schankwitz' Anliegen nicht vergessen!</t>
+<t>Rudolf Gwalther hat kürzlich an Hans Widenhuber in St. Gallen geschrieben, dass sich Konstanz noch nicht dem Kaiser ergeben habe, an der Sache aber etwas faul sei. Bullinger möge doch in Erfahrung bringen, was Gwalther damit meinte, ohne dabei (aus guten Gründen) Blarers Namen zu erwähnen.</t>
+<t>Anbei sendet Blarer die drei [an Bullinger gerichteten] Briefe zurück.</t>
+<t>Auch in Konstanz hört man über den in Myconius' Brief [<qv>nr2797</qv>] erwähnten Kriegsaufbruch des Kaisersohns Philipp von Spanien. Sollte aber Emanuel Philibert von Savoyen tatsächlich so viele Soldaten aus Spanien mit sich führen (eine Anzahl, die dort wohl kaum aufzubringen wäre), stünde es nun wirklich schlecht! Der Herr <?tus ^&^&n^&^&{?> verleihe Frieden!</t>
+<t>Aus Ulm und Augsburg wird Folgendes berichtet: Landgraf Philipp von Hessen hat angeblich dem jungen Herzog Karl Viktor von Braunschweig die Hand seiner Tochter gegeben, was kaum glaubhaft ist! Hoffentlich trifft das nicht zu.</t>
+<t>Gottes Strafe hat König Ferdinand I. ereilt, denn die Böhmen sollen ihm ihre Unterstützung verweigert haben, während es in Prag zu einem Aufstand gekommen sei.</t>
+<t>Der englische König Heinrich VIII. ist tot, und der Kaiser habe vor, etwas gegen England zu unternehmen. Auch König Franz I., der polnische König Sigismund wie auch Papst Paul III. sollen gestorben sein. Der Herzog von Alba, Fernando Álvarez de Toledo, leidet an starkem Fieber. Den Tod von Johann von Naves und Eriprando Madruzzo hat Blarer ja schon [mit Brief <qv>nr2824</qv>] gemeldet.</t>
+<t>Die Soldaten, die der Kaiser in Regensburg, Nördlingen, Dinkelsbühl und an anderen Orten hatte, wurden dem Herzog Moritz von Sachsen zugeschickt. Der Bregenzer [Hans] Schnabel [von Schönstein] rekrutiert viele Soldaten, die früher im Dienst der [Schmalkaldener] standen! Er verstärkt damit die kaiserlichen Fähnlein und schickt diese gegen den Kurfürsten Johann Friedrich von Sachsen, dem man den Garaus machen will. Der Herr verhindere dies!</t>
+<t>Am Montag, 28. Februar, sind 900 [kaiserliche] Soldaten in Augsburg eingetroffen. Zunächst benahmen sie sich unflätig, aber ihr Oberst Bernhard von Schaumburg ließ sie hart bestrafen und verbot ihnen bei Leib und Gut jeglichen Mutwillen gegenüber den Augsburgern. Sie sollen sich nun ruhig halten. Die Augsburger und Schaumburg schließen die vier Hauptstadttore auf und zu. Die anderen Tore, deren Schlüssel nur die Augsburger innehaben, bleiben geschlossen.</t>
+<t>Die bei Biberach stationierten Soldaten sollen am letzten Freitag [4. März] nach Nürnberg aufgebrochen sein.</t>
+<t>Der Abt von Weingarten, Gerwig Blarer, den man am besten ertränken sollte, erlegt als kaiserlicher Kommissar den süddeutschen Städten Strafgelder auf. Er begann mit Biberach und verlangte von dieser Stadt 40'000 Gulden! Auf das Flehen der Biberacher hin stellte er diesen einen Erlass von 10'000 Gulden in Aussicht. Die erste Hälfte des Strafgeldes soll in 14 Tagen bezahlt werden, der Rest bald darauf. Was wird man denn von den anderen Städten verlangen, wenn man schon so viel von einem derart kleinen Ort fordert? All diesen Städten steht wohl der Untergang bevor! Der Herr nehme sich der Lage an!</t>
+<t>Kürzlich hat Herzog [Ulrich] von Württemberg einen Boten [...] nach Konstanz entsandt, um zu erfahren, wie es unter den Eidgenossen steht, zumal er gehört habe, dass sie uneinig seien und gegeneinander kämpfen. Der Herzog war am [4. März], wenige Stunden vor der Abreise des Kaisers, in Ulm. Wegen seiner Krankheit konnte er sich selbst nicht dem Kaiser zu Füßen werfen und entschuldigte sich, sitzen bleiben zu müssen.</t>
+<t>Graf Friedrich von Fürstenberg hat kürzlich seine Frau [Anna, geb. von Werdenberg] zuhause [auf Schloss Heiligenberg] besucht und ihr beim Abschied gesagt, dass der Krieg nun erst richtig losgehe und Schlimmes bevorstehe, sodass sie sich in Sicherheit bringen sollte.</t>
+<t>Am Samstag, 5. März, wurde ein Diener [...] eines Konstanzer Bürgers [...] bei Engen von vier Reitern aufgehalten, die ihm 100 Gulden und Schuldbriefe im Wert von 400 Gulden wegnahmen und dabei sagten, er dürfe die Schuldbriefe nicht mehr einlösen, weil nun sie das tun würden. Seinem Herrn soll er ausrichten, dass dies erst der Anfang sei; Schlimmeres stehe noch bevor!</t>
+<t>In Konstanz erzählte ein Soldat [...] so ausführlich über die Vernichtung des gesamten Heeres von Markgraf Albrecht Alcibiades von Brandenburg-Kulmbach durch die sächsischen Truppen, dass es sich laut Schertlin beim Berichterstatter nur um einen Augenzeugen handeln kann. Der Markgraf führte Herzog Moritz 12 Fähnlein und 1'000 Reiter zu. Nur 400 bis 500 Soldaten sollen davongekommen sein.</t>
+<t>Als [am 4. März] der Kaiser Ulm verlassen wollte, baten ihn einige Leute, darunter der Augsburger Bischof Otto Truchsess von Waldburg, eine tägliche Messe für die Katholiken der Stadt anzuordnen. Der Kaiser erwiderte dem Bischof, dass er lieber schweigen sollte, falls er nichts Wichtigeres anzubringen hätte. Er sagte ferner, dass der Papst ihn bisher benutzt hat, er aber von nun an seine eigenen Ziele verfolgen wolle.</t>
+<t>Die Ulmer Pfarrer sollen sich nicht mehr frei äußern dürfen. Genaueres dazu weiß Blarer nicht, doch will er mehr darüber in Erfahrung bringen. Jedenfalls hat man das Singen von Psalmen in den Häusern und Gassen verboten; nicht aber "Hänsle auf der Scheiterbeige"!</t>
+<t>[Beilage:] Was würde das Zürcher Ehegericht in folgenden Fällen entscheiden?</t>
+<t>Wenn ein Ehebrecher auf Wunsch des betrogenen Ehepartners geschieden wird und Letzterer sich wieder vermählt, oder aber ledig bleibt und sich nicht mit dem Ehebrecher aussöhnen will, erlauben dann die Zürcher dem Ehebrecher eine neue Ehe? Es wird nämlich viel darüber diskutiert, zumal Ehebrecher nicht hingerichtet werden, wie es sich eigentlich gehören würde (womit es auch der Frage nicht mehr bedürfte).</t>
+<t>Etliche meinen, dass es nicht richtig sei, dem Ehebrecher die Wiederheirat zu verbieten, da er den gleichen Versuchungen wie andere ausgesetzt ist, eine Ehe also die bessere Lösung sei.</t>
+<t>Andere wiederum sind der Auffassung, dass es zum Ehebruch einlädt, wenn man dem Ehebrecher die Wiederheirat gestattet, weil dann mancher seine Ehe brechen würde, damit sein Ehepartner die Scheidung einreicht und er dann heiraten mag, wen er will. Wie verfährt man also bei solchen Fällen in Zürich? Durfte sich denn nicht Agathe Studler noch zu Lebzeiten ihres Mannes [Adam Frey] erneut verheiraten?</t>
+<t>In Konstanz hat man vor Jahren den [Jakob Bagolter] auf seinen Wunsch hin von seiner ehebrüchigen Frau [Wibrat Erdin] geschieden. Eine neue Ehe wurde dieser verboten. Trotzdem tat sie sich mit dem Fuhrmann Thomas Dietrich aus Petershausen (der kein Konstanzer Bürger ist) zusammen. Kürzlich [am 21. Februar] ließen sich die beiden in Zürich trauen und hofften, dank dieser Urkunde in Konstanz leben zu dürfen. Allerdings wurden beide aus der Stadt verwiesen.</t>
+<t>In einem anderen Fall hat ein Mann [Albin Dienstmann] einer ledigen Frau [Margreth Freudreich] die Ehe versprochen, und es kam zum Beischlaf. Nachdem er ihr aber die Heirat verweigerte, klagte sie ihn [im Juni 1544] an. Das Gerichtsurteil erklärte beide zu Mann und Frau. Daraufhin verließ er die Stadt und gab sogar sein Bürgerrecht auf, nachdem er den wiederholten Aufforderungen der Konstanzer Behörden, zu seiner Frau zurückzukehren, nicht Folge leistete.</t>
+<t>Unterdessen wurde die Frau Magd bei einem ledigen Mann [...]. Dieser stellte ihr nach und schwängerte sie. Sobald Dienstmann davon erfuhr, kam er nach zweijähriger Abwesenheit nach Konstanz zurück, erkaufte erneut Bürger- und Zunftrecht und beantragte [am 24. November 1546] die Scheidung von seiner Frau wegen deren Ehebruchs.</t>
+<t>Etliche schlagen ihm dies ab, weil sie der Meinung sind, dass er die Frau zum Ehebruch veranlasst habe, indem er sie unerlaubt verlassen hatte. Ansonsten würde manch einer seine Frau verlassen und abwarten, bis sie sich auf einen anderen Mann einlässt.</t>
+<t>Andere wiederum sind der Auffassung, dass man Dienstmann nicht zwingen dürfe, mit einer Ehebrecherin zu leben, auch wenn er für seinen Ungehorsam hart bestraft werden müsse.</t>
+<t>Bullinger möge sobald wie möglich kurz berichten, wie man in Zürich in solchen Fällen vorgeht.</t></re>
+<text>
+<div>
+<p><zzl>zl17109-22A</zzl>Gnad und frid mitt allem g{uo}ten z{uo}voran, sonders furgeliepter, aller getruwester br{uo}der. Ewere schreiben
+<fn>Nicht erhalten.</fn> sind mir wol z{uo}komen. Sag euch deren flyssigsten dank. Diser bott
+<fn>Vermutlich der Zürcher Ratsbote Hans Zingg; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 68 der Ausgabenabteilung für laufende Boten.</fn> hat mich by minem v[etter] C[onrat] Z[wick] gestert um ain ur gefunden. Habend die brieff mitt ainander verlesen. Und warlich baid yetzund vyl, sonderlich mitt schreiben, belestiget. Derhalb wirs allso abgetailt, das min vetter dem h. burgermaister
+<fn>Zwicks Brief an Johannes Haab (vom gleichen Tag wie der vorliegende) ist in Zürich StA, A 205.2, Nr. 10, erhalten. Zwicks Brief waren zwei Beilagen angefügt (aaO, Nr. 10a und 10b).<zfn>fn17109-3</zfn></fn> ettlich sachen und ich euch ettlicher ding berichten s{oe}lle. <zzl>zl17109-2A</zzl>Mein l[ieber] vetter hat kain mangel nienerumb
+<fn>in keiner Hinsicht.</fn>.<zzl>zl17109-2E</zzl> Bevilcht mir, euch zum hertzlichesten und früntlichesten ze dancken. Ist ewerer getrüwen dienst
+<fn>In Zusammenhang mit Bullingers Bemühungen, einen Kontakt zwischen Konstanz und Frankreich zu vermitteln; s. dazu <qv>nr2762</qv>,<qv>zl17030-18</qv>; <qv>nr2774</qv>,<qv>zl17043-6</qv>; <qv>nr2794</qv>; <qv>nr2820</qv>,<qv>zl17086-21</qv>. <qv>zl17086-22</qv>.</fn> mehr dann wol zefriden. Was er dem h. burgermaister schribt, sag er, sollind ir inn darum ankommen
+<fn>bitten; s. <a>SI</a> III 273.</fn>, das ers euch auch lesen lasß. Was dann ich euch schrib, das er vorhin nitt wisste, m{oe}gt ir ime aller ding eroffnen und anz{oe}gen.<zzl>zl17109-22E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-3A</zzl>Allain sagt min l. vetter, hab er yetz ettlich mal den mangel in ewern brieffen, das ir allweg schreibend, wir s{oe}llend kainen faulen friden annemen, dann
+<fn>denn.</fn> er maint nun, man m{ue}sse gar kainn annemmen; dann sy werdind alle m{ue}ssen faul sein, etc.<zzl>zl17109-3E</zzl> <zzl>zl17109-23A</zzl>Es schreibt ain g{uo}t man von Ulm
+<fn>Unbekannt. - Diese Nachrichten sind ausführlicher auf dem dritten Blatt (r./v.) des in oben <qv>fn17109-3</qv> angeführten Briefs von Zwick mitgeteilt.</fn>, es seye deren ding glatt kains
+<fn>glatt kains: überhaupt keines.</fn> gehalten, das inen z{uo}gesagt worden, wie ir dann diß und anders von dem h. burgermaister
+<fn>Hier ist Haab gemeint.</fn> vernemen werdt.<zzl>zl17109-23E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-24A</zzl>Das die 13 Ort sich ainhellig entschlossen und in empf{ae}lch gepracht
+<fn>in empf{ae}lch gepracht: in Auftrag (für ihre jeweiligen Behörden von der Tagsatzung aus) mitgenommen haben.</fn>, Costentz nitt ze belegeren noch z{uo} beschedigen ze lassen, hat der herr burgermaister hievor in ainem brieff
+<fn>Gemeint ist Haabs Brief an Zwick vom 6. März (Entwurf in Zürich StA, A 205.2, Nr. 8).</fn> auch angez{oe}gt mitt disem anhang
+<fn>Klausel, Zusatz.</fn>, das sy Costentz uff irem boden nitt wellind bel{ae}gert lassen werden;
+<fn>An der Tagsatzung beschloss man, die Behörden der jeweiligen Orte zu bitten, zugunsten Konstanz einzugreifen, falls der Kaiser diese Stadt vom eidgenössischen Boden aus belagern würde; s. <a>EA</a> IV/1d 774 l.<zfn>fn17109-4</zfn></fn> welchs was es mittbring, wisst ir selbs wol z{uo} ermessen.
+<fn>Vgl. schon dazu <qv>nr2762</qv>,<qv>zl17030-11</qv>.</fn> Aber wir trauwend dem lieben gott, er werde unsß mitt sonder truwem, gnedigem bystand durch diß gefarlichait uber alle verm{uo}ttung
+<fn>uber alle verm{uo}ttung: über alle Vorstellungen. - In Anlehnung an Eph 3, 20.</fn> v{ae}tterlichen helffen.<zzl>zl17109-24E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-25A</zzl>Ewer herren antwurt dem Frantzosen
+<fn>Vermutlich ist hier nicht König Franz I., sondern dessen Gesandter Guillaume Du Plessis, sieur de Lyancourt, gemeint.</fn> geben, gefellt unß uber die maaß wol. Der herr mehre und best{ae}te
+<fn>bestärke.</fn> in euch alles g{uo}ts!<zzl>zl17109-25E</zzl> <zzl>zl17109-19A</zzl>Man will aber sagen, der Frantzoß
+<fn>Franz I.</fn> laiche
+<fn>konspiriere; s. <a>Fischer</a> IV 928.</fn> mitt dem Turcken
+<fn>Sultan Suleiman I.</fn>, werde auch nichts wider den kaiser
+<fn>Karl V.</fn> f{ue}rnemen, byß der Turck im anzug
+<fn>im anzug: auf dem Vormarsch.</fn> seye, wie man dann gantz vylfaltig
+<fn>vielfache; vgl. <a>Grimm</a> XXVI 181f.</fn> und gloplich anz{oe}gungen hat, das er empor
+<fn>in Rüstung (s. <a>Fischer</a> II 706); oder: aufgebrochen.</fn> seye.<zzl>zl17109-19E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-4A</zzl>Das gellt hab ich empfangen.
+<fn>Es handelt sich vermutlich um eine Zahlung von Kaspar Seidensticker, der den Blarer und Zwick geschuldeten Betrag damals noch nicht ganz abbezahlt hatte; s. <qv>nr2787</qv>, <qv>fn17058-12</qv>.<zfn>fn17109-5</zfn></fn><zzl>zl17109-4E</zzl> <zzl>zl17109-26A</zzl>Mit dem Curio
+<fn>Konrad Hofherr. - Hier liegt wohl ein Bezug auf Hofherrs Brief <qv>nr2823</qv> vom 24. Februar vor.</fn> will ich, wie sich gepurt, handlen und im sein ungestümikait undersagen. Er ist aines ruschigen
+<fn>unbedachten; vgl. <a>Fischer</a> V 496.</fn> kopffs.<zzl>zl17109-26E</zzl></p>
+</div>
+<div>
+<p><vl>736</vl> <zzl>zl17109-27A</zzl>Straussburg ist yetz uff Nüremberg beschaiden
+<fn>ist beschaiden: wurde beordert. - Kaiser Karl V. befand sich damals auf dem Weg nach Nürnberg. Da er sich aber länger in Nördlingen aufhielt, kam es schon dort, am 21. März, zum Fußfall der Straßburger; s. <qv>nr2822</qv>, <qv>fn17088-7</qv>.</fn>. Sorgen wol, sy werdind sich auch auss{oe}nen lassen, aber mitt vyl bessern conditionen, dann den andern widerfaren, wiewol muglich, das sy vyllicht nitt konnend.<zzl>zl17109-27E</zzl> <zzl>zl17109-5A</zzl>Das wellt
+<fa><i>In der Vorlage</i> well.</fa> dem g{uo}ten Hans Sch{oe}ner anz{oe}gen und inn von minen wegen freuntlich und br{ue}derlich gr{ue}tzen mitt entschuldigung meines nitt schreibens, dann ich warlich weder zeyt noch m{uo}sß
+<fn>Muße.</fn> hab. Sagt im, seine schreiben seyen mir worden, und das ich seine brieff gen Augspurg verschafft habe.<zzl>zl17109-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-28A</zzl>Sagt den ewern allen mitt wunschung gottes gnad vyl gr{uo}tz und g{uo}ts von mir, und bittend mitt allen trüwen für unß und unser kirchen, das wir in seinen gnaden durch all diß schw{ae}r anfechtungen kommen m{oe}gind und der herr Christus sein reych allenthalb
+<fa><i>In der Vorlage</i> allenthabb.</fa>
+<fn>überall.</fn> erweytere und best{ae}tige. Damitt wellt allso f{ue}r g{uo}t haben.
+<fn>Zu Verstehen: Ihr mögt euch damit begnügen.</fn> Ich kan ye diß mal nitt baß
+<fn>besser.</fn>. So vyl ist ze schreiben! Hapt mich und unser statt allzyt in ewern treuwen und christelicher sorgfeltikait eingeschlossen. Datum den 11. martii 1547.<zzl>zl17109-28E</zzl></p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17109-29A</zzl>Die hoptleut
+<fn>Sebastian Schertlin und Marcell Dietrich von Schankwitz.</fn> seind noch hie. Haltend sich wol.<zzl>zl17109-29E</zzl> <zzl>zl17109-1A</zzl>Dietrich Marcellen sach
+<fn>Siehe dazu <qv>nr2824</qv>,<qv>zl17090-1</qv>.</fn> wellt nitt vergessen!<zzl>zl17109-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-6A</zzl>Es hat min l. herr und br{uo}der, ewer Gvaltherus, kurtzverruckter tag
+<fn>kurtzverruckter tag: vor wenigen Tagen.</fn> dem Hans Widerh{uo}ben
+<fn>Der St. Galler Kleinrat Hans Widenhuber.</fn> z{uo} Sanct Gallen under anderm geschriben, er höre, das Costentz noch uffrecht seye und sich dem kaiser nitt ergeben habe; er höre aber daneben wol, das die sach sunst mitt Costentz faul seye. Bitt ich euch gar fruntlich, an im mitt f{uo}gen
+<fn>mitt f{uo}gen: auf passende Weise.</fn> z{uo} erfaren, wie er doch s{oe}lichs gemaint habe, dann es wundert unß sehr ubel. Bitt euch aber, wellt mich darinn nitt verm{ae}ren
+<fn>nennen (zu erkennen geben).</fn>, dann es hat ursach.<zzl>zl17109-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-7A</zzl>Hiemitt schick ich euch auch ewer drey brieff
+<fn>Einer davon ist der unten in Z. <qv>zl17109-8</qv> erwähnte Brief von Myconius.</fn> widerum. Sag euch flyssigen, hochen danck.<zzl>zl17109-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-30A</zzl>Man will sagen, das des kaisers sun
+<fn>Philipp II. von Spanien.</fn> herausß ziech, <zzl>zl17109-8A</zzl>wie in Myconii literis
+<fn><qv>nr2797</qv> vom 6. Februar. - Hier wird auf <qv>nr2797</qv>,<qv>zl17066-8</qv>, angespielt.</fn>,<zzl>zl17109-8E</zzl> etc. Wann der Sophoyer
+<fn>Gemeint ist Emanuel Philibert, Sohn Herzog Karls III. von Savoyen.</fn> ain solich volck brechte (das ich doch nitt glouben kan, dann gantz Hyspanien nitt so vyl verm{oe}chte meines erachtens), wurde m{ue}he und arbait. Der lieb, truw gott verlich zytlich und ewigen
+<fn>zytlich und ewigen: im Diesseits und Jenseits.</fn> friden.<zzl>zl17109-30E</zzl></p>
+</div>
+<div>
+<p><vl>737</vl> <zzl>zl17109-31A</zzl>Es wirt ausß Ulm und Augspurg geschriben:</p>
+<p>Landgrauff
+<fn>Philipp von Hessen.</fn> soll sein tochter dem jungen hertzog von Brunschwyg
+<fn>Der von Philipp in Gefangenschaft gehaltene Karl Viktor von Braunschweig-Wolfenbüttel. - Es handelt sich um ein falsches Gerücht.</fn> geben haben; das mir doch noch gar unglouplich ist. Wa
+<fn>Wenn.</fn> es aber war, were vyl darausß ze nemmen
+<fa><i>Lesung unsicher.</i></fa>
+<fn>darausß ze nemmen: davon abzuleiten.</fn>. Speramus meliora <fa1 bis="1"><i>Am Rande nachgetragen. Hier und unten Klammern ergänzt.</i></fa1>(hoff, seye nitt war)<fa1e von="1"/>.<zzl>zl17109-31E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-12A</zzl>Den romischen k{oe}nig
+<fn>Ferdinand I.</fn> soll gottes gwalt troffen haben. Die Behem
+<fn>Böhmen.</fn> sollen im all hilff abgeschlagen
+<fn>Vgl. <qv>nr2821</qv>,<qv>zl17087-27</qv>.</fn> und sich z{uo} Prag ain ernstlich emp{oe}rung
+<fn>Rebellion.</fn> z{uo}getragen <fa1 bis="2"><i>Am Rande nachgetragen.</i></fa1>(ist ungwysß)<fa1e von="2"/>.
+<fn>Zur böhmischen Ständerevolte von Januar bis April 1547 s. Jaroslav <i>Pánek</i>, Kaiser, König und Ständerevolte. Die böhmischen Stände und ihre Stellung zur Reichspolitik Karls V. und Ferdinands I. im Zeitalter des Schmalkaldischen Krieges, in: Karl V. (1500-1558). Neue Perspektiven seiner Herrschaft in Europa und Übersee, hg. von Alfred Kohler, Barbara Haider und Christine Ottner, Wien 2002, S. 402-405.<zfn>fn17109-6</zfn></fn><zzl>zl17109-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-9A</zzl>Engelland soll gewisslich tod sein,
+<fn>König Heinrich VIII. starb am 28. Januar 1547.</fn><zzl>zl17109-9E</zzl> <zzl>zl17109-32A</zzl>und sich der kaisser etwas mitt Engelland understehn wellen
+<fn>sich etwas mitt Engelland understehn wellen: etwas gegen England unternehmen wolle.</fn>;<zzl>zl17109-32E</zzl> <zzl>zl17109-17A</zzl>dessglichen och Franckreich
+<fn>Franz I. starb am 31. März 1547.</fn>. Der allt konig auß Poland soll
+<fa><i>In der Vorlage</i> so.</fa> auch dahin sein,
+<fn>Der polnische König Sigismund I. starb am 1. April 1548.</fn><zzl>zl17109-17E</zzl> etc. <zzl>zl17109-33A</zzl>Dessgleichen sagt man ouch vom Papst.
+<fn>Paul III. starb am 10. November 1549. - Vgl. <qv>nr2797</qv>, <qv>fn17066-8</qv>.</fn><zzl>zl17109-33E</zzl> <zzl>zl17109-34A</zzl>Duco de Alba
+<fn>Fernando Álvarez de Toledo, Herzog von Alba.</fn> hat ain hartes feber.<zzl>zl17109-34E</zzl> <zzl>zl17109-35A</zzl>Naves und Madrutz sind dahin, wie ich nehermal
+<fn>unlängst. - Blarer hatte am 25. Februar den Tod Johann von Naves' (20. Februar) und Eriprando Madruzzos (17. Februar) gemeldet; s. <qv>nr2824</qv>,<qv>zl17090-7</qv>.</fn> geschriben.<zzl>zl17109-35E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-36A</zzl>Was der kaiser z{uo} Regenspurg, N{oe}rdlingen, Dinckelspychel
+<fn>Dinkelsbühl, Kr. Ansbach (Bayern).</fn>, etc., f{ue}r knecht gehapt, hat er yetz all hertzog Mauritz
+<fn>Herzog Moritz von Sachsen. - Siehe dazu <qv>nr2797</qv>, <qv>fn17066-4</qv>.</fn> geschickt.<zzl>zl17109-36E</zzl> <zzl>zl17109-37A</zzl>Der Schnabel
+<fn>Hans Schnabel d.J. von Schönstein, kaiserlicher Hauptmann; s. <a>Mameranus, Exerc.</a> 33.</fn> von Pregetz
+<fn>Bregenz.</fn> nympt vyl deren knecht an, die by den unseren gewesen. Sterckt seine fenlin treffelich, alles uff
+<fn>gegen.</fn> Sachsen
+<fn>Johann Friedrich I. von Sachsen.</fn>. Dem will man den garuß machen, aber der lieb gott waist im wol recht z{uo} thain
+<fn>tun.</fn>.<zzl>zl17109-37E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-38A</zzl>Uff mentag letsten februarii
+<fn>Richtig ist Montag, 21. Februar (vgl. <qv>nr2791</qv>, <qv>fn17060-4</qv>; <qv>nr2821</qv>,<qv>zl17087-5</qv>. <qv>zl17087-35</qv>), es sein denn, dass Blarer hier den Nachschub der kaiserlichen Besatzung meint, der am Sonntag den 27. Februar in Augsburg eintraf (s. <qv>nr2837</qv>, <qv>fn17104-1</qv>; <qv>nr2844</qv>,<qv>zl17112-6</qv>).</fn> sind
+<fa><i>In der Vorlage</i> sin.</fa> die 900 knecht z{uo} Augspurg einzogen. Habend sich erstlich m{uo}twillig
+<fn>frevelhaft.</fn> bewisen, aber ir obrester, Bernhart von Schounburg
+<fn>Bernhard von Schaumburg.</fn> hat sy hart gestrafft und an lyb und g{uo}t verbotten gegen kaim
+<fn>gegen kaim: gegen irgendeinen.</fn> burger ze m{uo}twillen. Allso, schreibt man, haltind sy sich yetzund gantz still.<zzl>zl17109-38E</zzl> <zzl>zl17109-39A</zzl>Die von Augspurg sampt dem obersten schliessend die vier hoptthor auff und z{uo}. Die andern haben sy beschlossen und die von Augspurg allain die schlussel darz{uo}, etc.<zzl>zl17109-39E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-10A</zzl>Die knecht, so z{uo} Bibarach gelegen, sollend auff
+<fa><i>In der Vorlage folgt ein zweites</i> auff.</fa> yetz freytag verruckt
+<fn>Am letzten Freitag (4. März). - Zu diesen Truppen s. bereits <qv>nr2813</qv>,<qv>zl17164-10</qv>.</fn> und
+<fn>auch.</fn> all hingezogen sein auff Nurnberg.<zzl>zl17109-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-20A</zzl><zzl>zl17109-11A</zzl>Der mehrwirdig
+<fn>Ironisch, im Sinne von: in vielerlei Hinsicht würdige.</fn> vatter, abbt von Wyngarten
+<fn>Gerwig Blarer.</fn><zzl>zl17109-11E</zzl> <fa1 bis="3"><i>Am Rande nachgetragen.</i></fa1>(dignus, qui praeceps detur in mare)<fa1e von="3"/>
+<fn>Anspielung auf Mt 18, 6.</fn>, ist kaiserlicher comissarius an die oberlendischen stett, das strauffgellt inen uffzelegen.
+<fn>Siehe dazu <qv>nr2816</qv>, <qv>fn17083-2</qv>.</fn> <zzl>zl17109-52A</zzl>Hat z{uo} Bibarach angefangen. Die sollen z{uo} strauffgellt geben viertzigtausend guldin. Doch uff ir trungelich bitt, s{oe}lichs ze milteren, dann es nitt in irem verm{oe}gen, hat er inen hoffnung uffthon, es mochten die zechne
+<fn>Zu verstehen: zehntausend Florin.</fn> aberbetten werden, aber nichts von den 30'000fl.
+<fn>So auch in: [Christian Friedrich <i>Essich,</i>] Geschichte der Reformation zu Biberach vom Jahr 1517 bis zum Jahr 1650, Ulm 1817, S. 54f; Johann Georg Saladins Straßburger Chronik (<a>MGEGDE{2}</a> XXIII 352). - Zur Sache s. <a>Gerwig Blarer BA</a> II 21-23, Nr. 888f; 24f, Nr. 892-894; 26, Nr. 896.</fn> Die mussind in 14 halb
+<fn>in 14 halb: innert 14 [Tagen] zur Hälfte.</fn> ligen, darnach glich das ander halbtail.<zzl>zl17109-52E</zzl> Wie maint ir, das man die anderen anlegen
+<fn>die anderen anlegen: die anderen (süddeutschen Städte) besteuern.</fn> werde, diewyl man diß klainf{ue}g commun
+<fn>diß klainf{ue}g commun: diese kleine Gemeinde.</fn> dermassen beschw{ae}rt? Es ist nichts dann das gewisß, grundtlich verderben aller diser stett vor ougen. Der truw gott welle doch gnedigs einsechen haben
+<fn>einsechen haben: einschreiten; helfen.</fn>!<zzl>zl17109-20E</zzl></p>
+</div>
+<div>
+<p><vl>738</vl> <zzl>zl17109-40A</zzl>Item, der hertzog von Wirtemperg
+<fn>Ulrich von Württemberg.</fn> hat kurtzverruckter tag ain aignen botten
+<fn>Unbekannt.</fn> hie gehapt und begert ze wissen, wie es under den Aidgnossen stunde, dann inn anlange, das sy gar unainig und wider ainander uszogen seyen.<zzl>zl17109-40E</zzl> <fa1 bis="4"><i>Am Rande nachgetragen.</i></fa1><zzl>zl17109-21A</zzl>Er
+<fn>Ulrich.</fn> ist hütt acht tag
+<fn>Am 4. März. - Zum Fußfall des Herzogs durch seine Stellvertreter s. <qv>nr2782</qv>, <qv>fn17050-4</qv>.</fn> z{uo} Ulm gewesen ettlich stund, eh der kaisser verruckt
+<fn>weggegangen (war) - nämlich auch am 4. März; s. <qv>nr2754</qv>, <qv>fn17022-3</qv>.</fn>. Hat im aber nitt konnen z{uo} f{uo}ssen fallen kranckhait halben. Hat in ain sessel sytzen mussen, sich entschuldigen lassen.<zzl>zl17109-21E</zzl><fa1e von="4"/></p>
+</div>
+<div>
+<p><zzl>zl17109-41A</zzl>Item, grauff Friderich von Furstenberg
+<fn>Friedrich II. von Fürstenberg.</fn> ist kurtzverruckter tag anhaim
+<fn>daheim; s. <a>SI</a> II 1280. - Wahrscheinlich Schloss Heiligenberg (Bodenseekreis, Baden-Württemberg); s. Werner <i>Thoma</i>, Die Kirchenpolitik der Grafen von Fürstenberg im Zeitalter der Glaubenskämpfe (1520-1660). Ein Beitrag zur Geschichte der Kirchenreform und Konfessionsbildung, Münster 1963, S. 17.</fn> gewesen und aber gleich widerum verritten. Hat gar ernstlich seiner l. hausfrauwen
+<fn>Anna, geb. von Werdenberg; s. <a>ADB</a> VIII 219f.</fn> gnadet
+<fn>seiner hausfrauwen gnadet: sich von seiner Frau verabschiedet; s. <a>SI</a> II 662.</fn>, gesagt, es werd der krieg erst recht angehn, und seye inen ain haiß bad ubergethon
+<fn>seye inen ain haiß bad ubergethon: sie (die deutschen Protestanten) werden die Sache schlimm ausbaden müssen; vgl. <a>Wander</a> I 219, Nr. 35. 39.</fn>, allso das sy
+<fn>Anna.</fn> sich ouch etwas besorgen
+<fn>in Sicherheit bringe; s. <a>Fischer</a> I 922.</fn>.<zzl>zl17109-41E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-13A</zzl>Item auff verschinen sampstag
+<fn>5. März.</fn> ist by Engen
+<fn>Engen, Kr. Konstanz.</fn> durch vier reuter unsrem burger ainem
+<fn>Unbekannt.</fn> sein knecht
+<fn>Unbekannt.</fn> nidergeworfen
+<fn>aufgehalten.</fn> und ime hundert guldin, ouch ettlich schuldbrieff (war f{ue}r 400 fl.)
+<fa><i>Dieses und die zwei nächsten Klammerpaare ergänzt.</i></fa> genommen und z{uo} im gesagt worden, er dorffe die schulden nitt mehr inziechen; sy wellinds inziechen! Und s{oe}lle seinen herren sagen: Diß seye der anfang; bald m{ue}ssind sy deren sachen noch vyl und b{oe}ser erfaren.<zzl>zl17109-13E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-14A</zzl>Item, es ist ain kriegsknecht
+<fn>Unbekannt.</fn> hie by herrn Sebastian Schertle gewesen und im anzogt, wie die Sachsischen dem marggrauff Albrechten, alls er mitt 12 fendlin knechten und 1'000 reutern dem h[ertzog] Mauritzen
+<fn>Herzog Moritz von Sachsen.</fn> z{uo}ziechen wellen, alles volck erlegt haben und nitt uber vier oder funffhundert davon kommen seyen. Hat ime all sachen so gloubwirdig anz{oe}gt (dann er nach seiner sag selbs auch dabey gewesen), dann
+<fn>dass.</fn> im der herr Schertlin aller ding glouben gibt.
+<fn>Zum bei Rochlitz stattgefundenen Überfall der kurfürstlichen Reiterei auf Markgraf Albrecht II. Alcibiades von Brandenburg-Kulmbach s. <qv>nr2832</qv>, <qv>fn17099-2</qv>.</fn><zzl>zl17109-14E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-42A</zzl>Der kaiser ist yetz in seinem abschid z{uo} Ulm
+<fn>Am 4. März.</fn> von ettlichen, ouch von dem bischoff z{uo} Augspurg
+<fn>Otto Truchsess von Waldburg.</fn>, anges{uo}cht worden, er welle verschaffen, damitt man doch den allten christen z{uo} Ulm all tag nun ain mess halte.
+<fn>Vgl. <qv>nr2836</qv>,<qv>zl17103-1</qv>.</fn> Daruff er dem bischoff geantwurt: Wann er nichts notwendigers dann diß anzepringen habe, s{oe}ll er nun r{ue}wig sein <fa1 bis="5"><i>Am Rande nachgetragen.</i></fa1>(ist war)<fa1e von="5"/>! Es hat ouch kaiser under anderm gesagt: Papst hab bysanher seines gefallens gehandelt mitt ime, aber yetzund welle er ouch seines raths pflegen, wie allem ze thain seye!
+<fn>Vgl. <qv>nr2812</qv>,<qv>zl17080-15</qv>; <qv>nr2819</qv>,<qv>zl17063-5</qv>; <qv>nr2833</qv>,<qv>zl17100-2</qv>.</fn><zzl>zl17109-42E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-16A</zzl>Man hat den predigern z{uo} Ulm etwas bysß
+<fn>Zügel (hier im übertragenen Sinn). - Vielleicht verlangte man von den Ulmer Predigern Ähnliches wie von deren Kollegen in Augsburg; s. <qv>nr2821</qv>,<qv>zl17087-14</qv>.</fn> ingelegt. Kan noch nitt wissen, was es ist. Wills wol erfaren.<zzl>zl17109-16E</zzl> <zzl>zl17109-15A</zzl>Die psalmen sind verbotten, das man sy in heusern und uff der gassen nitt singen soll; aber den "Hensle auff der scheyterbeyg"
+<fn>Holzstoß (hier als "Liebesleiter"); s. <a>SI</a> IV 1057f. - Es handelt sich um ein volkstümliches Liebeslied (Kilterlied), das in Süddeutschland wie auch in der Schweiz bekannt war; s. <a>SI</a> II 1469; XIV 1659. Niklaus Manuel erwähnt es z.B. in seinem Fasnachtsspiel "Vom Papst und seiner Priesterschaft"; s. Deutsche Spiele und Dramen des 15. und 16. Jahrhunderts, hg. von Hellmut Thomke, Frankfurt a.M. 1996 - Bibliothek deutscher Klassiker 136, S. 167, Vers 734 (Text) und S. 1024 (Kommentar). Der Text dieses Liedes scheint verschollen zu sein, zumindest konnte er nicht ausfindig gemacht werden. - Wir danken Dr. This Fetzer vom "Schweizerischen Idiotikon" für freundliche Auskunft.<zfn>fn17109-7</zfn></fn> darff man wol syngen!<zzl>zl17109-15E</zzl></p>
+<lz/>
+</div>
+<div>
+<p><vl>740f.</vl> <zzl>zl17109-18A</zzl>[Beilage:] Wellt mich berichten, was in ewerm ehegericht bruchig
+<fn>im Brauch.</fn> seye.</p>
+</div>
+<div>
+<p><zzl>zl17109-43A</zzl>Im fall, so ain ehbruchigs geschaiden wirt von seinem gemachel
+<fn>Ehepartner (hier der betrogene).</fn>, so er
+<fn>Der betrogene Ehepartner.</fn> des begert und darnach sich mitt ainem anderen gmachel versicht, oder blybt onvermechlet, will sich aber mitt dem bruchigen
+<fn>Ehebrecher.</fn> weyter nitt vers{ue}nen lassen, ob man in s{oe}lichem fall dem ehbruchigen ouch erlobe, das es sich mitt ainr andern person verhüre
+<fn>verheirate.</fn>. Dann es wirt vyl davon disputiert, diewyl man ehbrecher und ehbrecherinen nitt abweg th{uo}t
+<fn>abweg th{uo}t: tötet.</fn>, als man billich sollt (dann damitt bed{oe}rfft es diser frag nitt).<zzl>zl17109-43E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-44A</zzl>Mainen etlich, diewyl man sy
+<fn>die Ehebrecher.</fn> leben lasst und sy glich so wol angefochten werdind als ander leut, das es unbillich were, inen die eh abzestricken
+<fn>die eh abzestricken: die Wiederheirat zu verbieten.</fn> und sy in die gewissen fahr
+<fn>in die gewissen fahr: in sichere Gefahr.</fn> anderer unluterkait
+<fn>Unkeuschheit.</fn> setzen; und es m{ue}sse irenhalb ouch allweg
+<fn>wohl.</fn> war blyben: Melius est nubere quam uri.
+<fn>1Kor 7, 9.</fn><zzl>zl17109-44E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-45A</zzl>Die anderen mainen, sollte man sollichs gestatten, wurde man dem ehbruch ain groß weyt thor uffthain, dann mancher wurde sin eh brechen, damitt er sinem gmachel ursach gebe, der schidung z{uo} begeren, und er darnach ouch ain andere, die ime darz{uo} gefellig, nemmen dörffte. Das ist nun gewisslich war. Darum wellt mir z{uo} wissen f{ue}gen, wie es by euch gehalten werde. <fa1 bis="6"><i>Am Rande nachgetragen.</i></fa1>Der Studleren
+<fn>Agathe Studler, deren Mann, Adam Frey (und nicht sie, wie dies Blarer glaubt), vor April 1539 Ehebruch begangen hatte und 1542 Elisabeth Leu heiratete; s. <a>HBBW</a> IX 106, Anm. 3. - Studler ging 1542 auch eine neue Ehe mit Heinrich Grebel ein; s. <a>HBBW</a> XVI 187, Anm. 6.<zfn>fn17109-8</zfn></fn> hat mans (w{ae}n
+<fn>meine.</fn> ich) uch by leben ires mans erloupt
+<fa>erloupt <i>Fehlt in der Vorlage.</i></fa>.<fa1e von="6"/><zzl>zl17109-45E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-46A</zzl>Dann man hat vor jaren hie ain weyb
+<fn>Wibrat Erdin; s. unten <qv>fn17109-1</qv>.</fn> von ires ehbruchs wegen von dem mann
+<fn>Jakob Bagolter; s. <a>Dobras, Ratsregiment</a> 246, Anm. 526. - Die Scheidung wurde im Jahre 1540 vollzogen; s. ebd.</fn> uff sein beger geschaiden. Die hett gern ain andern mann gehapt, aber s{oe}lichs nitt erlangen m{oe}gen. Allso hat sy nichts dest weniger ainen hie genommen. Ist nitt burger, aber doch ain karrknecht
+<fn>Fuhrmann; s. <a>SI</a> III 426. 724.</fn> hie, mitt nammen Thoma Dieterich von Bätershusen
+<fn>Petershausen, ein Stadtteil von Konstanz auf der anderen Seite des Seerheins.</fn>, und mitt im z{uo} euch gen Z{ue}rich zogen, allda z{uo} kirchen gangen kurtzverruckter tag.
+<fn>Am 21. Februar 1547. - Wibrat Erdin und Thomas Dietrich wurden im Zürcher Großmünster getraut; s. Zürich StadtA, VIII.C.1, EDB1458. - Wer diese Trauung vollzog, kann anhand der zuvor erwähnten Quelle nicht mehr eruiert werden, da es sich dabei um eine Abschrift von Ende der 1580er Jahre handelt; s. Robert <i>Dünki,</i> Pfarrbücher, Bürgerbücher und Genealogische Verzeichnisse im Stadtarchiv Zürich, Zürich 1995, S. 15.<zfn>fn17109-1</zfn></fn> Bringt ires kirchgangs schrifftliche urkund. Hat vermaint
+<fn>gemeint.</fn>, allso hie z{uo} belyben, aber myne herren habend sy baide usß der statt ziechen haissen.<zzl>zl17109-46E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-47A</zzl>Item yetz tragt sich ain fall z{uo}, das ainer
+<fn>Albin Dienstmann; s. <a>Dobras, Ratsregiment</a> 242 und Anm. 502; 245, Anm. 522; 252f und Anm. 558 und 560; 264.</fn> ain tochter
+<fn>Ein lediges Mädchen. - Es handelt sich um Margreth Freudenreich.</fn> hindergangen
+<fn>betrogen (hat).</fn>, ir die eh versprochen und darnach ouch mitt ir die werck ge{ue}bt
+<fn>die werck ge{ue}bt: Geschlechtsverkehr (hatte).</fn>, darnach aber ir nitt gewellt hat; derhalb sy inn vor meinen herren f{ue}rnemmen
+<fn>anklagen. - Die Anklage wurde im Juni 1544 erhoben; s. ebd, S. 252, Anm. 558.</fn> m{ue}ssen. Hat man so vyl in der sach erlernet, das man sy z{uo}samen gesprochen
+<fn>z{uo}samen gesprochen: für verheiratet erklärt (hat).</fn>, daruff aber er sich von stund an von der statt hinweg gethon und der urtail nitt hat geleben
+<fn>Folge leisten.</fn> wellen. Habend in mine herren ettlich mal, als irem burger, z{uo}empotten
+<fn>zu sich geboten; s. <a>SI</a> IV 1880.</fn> und verk{ue}nden lassen, das er sich z{uo} seinem weyb th{ue}e, mitt ir z{uo} kirchen gange und alles anders
+<fn>andere.</fn> th{ue}e, das aim biderman gepure; aber er hat nie gehorsam sein wellen und das burggrecht uffgeben, etc.<zzl>zl17109-47E</zzl></p>
+</div>
+<div>
+<p><vl>741</vl> <zzl>zl17109-48A</zzl>Nun mittler zeyt seines ausplybens ist sein weyb an ainem dienst gewesen
+<fn>an ainem dienst gewesen: stand im Dienst von jemandem.</fn>. Hat allso
+<fn>auf diese Weise (während ihres Dienstes).</fn> von ainem ledigen gsellen
+<fn>Unbekannt.</fn> ain nachstrengen gehapt
+<fn>Hat von ainem ain nachstrengen gehapt: wurde von jemandem sexuell genötigt, belästigt.</fn>, das sy von im geschwengert worden. Sobald ir mann s{oe}lichs gewar worden, der doch wol in zway jaren nitt hie gewesen, ist er kommen, hat des burggrechts widerum begert (hats von newem alles, zunfft und burgrecht, kouffen m{ue}ssen)
+<fa><i>Klammern ergänzt.</i></fa>, und glich darnach
+<fn>Am 24. November 1546; s. <a>Dobras, Ratsregiment</a> 264.</fn> hat er begert, das man inn von seinem wyb, die im vor
+<fn>zuvor.</fn> z{uo}gsprochen worden, schaiden welle, diewyl sy bruchig
+<fn>ehebrüchig.</fn> an im worden seye.<zzl>zl17109-48E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-49A</zzl>Da mainend ettlich, diewyl er ungehorsam gewesen, ouch nitt by ir belyben
+<fn>geblieben.</fn> seye, und ir allso z{uo} s{oe}lichem
+<fn>Nämlich zum Ehebruch.</fn> ursach geben, s{oe}ll er des nitt geniessen, und im selbs die schuld geben, und das weyb behalten. Sonst wurd im
+<fn>dieses.</fn> mancher mehr allso thain,
+<fn>Zu verstehen: Sonst würde mancher auch so handeln.</fn> vom weyb louffen, und sechen, ob sy sich vyllicht vergienge.<zzl>zl17109-49E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-50A</zzl>Ander mainend, es were unbillich, das er ain wissentliche ehbrecherin behalten und mitt ir husen m{ue}sste. Man m{oe}g in wol hart darum strauffen, aber das wyb im nitt uffbinden
+<fn>aufzwingen (als Ehefrau).</fn>.<zzl>zl17109-50E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17109-51A</zzl>Was nun by euch in s{oe}lichem fal gesprochen werden mochte, wellt mich berichten. Dann es sind argumenta uff baid seyten. Aber ewer iudicium wellt mir paucis
+<fn>mit wenigen Worten.</fn> ze wissen thain. <fa1 bis="7"><i>Am Rande nachgetragen.</i></fa1>So bald ir k{oe}ndt, wellt mir davon anz{oe}gung thain.<fa1e von="7"/>
+<fn>Bullingers Antwort ist nicht bekannt (s. aber <qv>nr2842</qv>,<qv>zl17111-2</qv>; <qv>nr2845</qv>,<qv>zl17114-1</qv>; <qv>nr2847</qv>,<qv>zl17115-2</qv>). - Erst am 20. Juli wurde die Angelegenheit erneut vom Konstanzer Rat behandelt, und Dienstmann wurde die Scheidung gestattet; s. <a>Dobras, Ratsregiment</a> 264.<zfn>fn17109-9</zfn></fn><zzl>zl17109-51E</zzl><zzl>zl17109-18E</zzl></p>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div>
+</text>
+</brief>

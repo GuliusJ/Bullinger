@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="933">
+<nr>933</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>15. Januar 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 129 (Siegelspur)</vo>
+<dr></dr>
+<re>An die neuerrichtete Theologenschule in Lausanne soll [Johannes] Fries als Leiter berufen werden. Als
+Hebräischlehrer hofft man Euander zu gewinnen. Caroli wird Altes, Viret Neues Testament lehren; bei ihren täglichen
+Lektionen wird der Schulleiter den griechischen Text erläutern. Viele französischsprachige Pfarrer grüßen in ihren
+Predigten die Burgunder; bei diesen wird Gottes Geist wohl bald wirksam werden.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs IV 166-168, Nr. 603.]
+</content>
+</letter>

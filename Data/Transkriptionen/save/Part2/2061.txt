@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2061">
+<nr>2061</nr>
+<correspondents>
+	<originator>Johannes Leopold Frey</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Biel]</place>
+	<date>3. Januar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 311 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie: Zürich ZB, Ms S 56, 108; erw.: Stucki, Lavater 199^&x{
+<re>Frey bedauert den Tod von [Diethelm Röist]. Er wünscht dessen Nachfolger [Hans Rudolf] Lavater alles Gute und Davids Geist.
+-^#. Auf Veranlassung seines Vaters wendet sich der aus Freiburg [i. Üe.] stammende Chirurg und Saitenspieler Dietrich [...] immer mehr dem Militärwesen zu.
+-^#. Nach der Lektüre von Luthers ["Kurtz Bekentnis"] hat sich der Streit in Bern einigermaßen gelegt. Auch Frey hofft, diese Schrift lesen zu können, um die von den Zürchern in Arbeit befindliche Antwort besser zu verstehen.
+-^#. Er erkundigt sich nach der antiken Münze mit dem Bildnis eines Kaisers, die er an Bullinger geschickt hatte.
+-^#. Die Empfänger französischer Pensionen sind wegen [Johannes] Aal beunruhigt, da sie fürchten, auf seine Predigten verzichten zu müssen.
+-^#. Der alte Freiburger [...] ist unerwartet gestorben.
+-^#. Die Bieler Söldner mussten versprechen, sich künftig ihrem Stadtrat zu fügen.
+-^#. Neujahrsgeschenk für Bullingers Kinder.
+-^#. Ein Schilling für die [Magd] Brigitta [Brida Schmid].
+-^#. Grüße an Johannes [Diethelm] Keller und dessen Gattin [...].</re>
+<tx>S[alutem] d[ico] p[lurimam]. Si vales, pater colendissime, bene est; ego quidem valeo cum meis.
+^$Vestrum consulem<f1>Diethelm Röist, gest. am 3. Dezember 1544; s. HBD 32, 11-13; HBBW XIV 347 und Anm. 32.<fe>, illum de christiana religione et republica Helvetica optime meritum, vos amisisse ex animo doleo.
+Lavaterum<f1>Hans Rudolf Lavater, der Mitte November 1544 zum Bürgermeister ernannt wurde; s. HBBW XIV 547 und Anm. 12.<fe> autem huic successisse piis omnibus congratulor.
+Det illi dominus cor Davidis<f1>Vgl. 1Kön 11, 4; 15, 3.<fe> aliorumque piorum principum et diuturnam vitam!
+^$Theodoricum nostrum, Fryburgensem illum chirurgum et cytharoedum<f1>Spieler eines Saiteninstruments.<fe>, infoelix
+militia absorpsit,<f1>Unbekannt. - Der damals in Konstanz lebende Musiker Sixt Dietrich (geb. 1490/94 in Augsburg; gest. am 21. Oktober 1548 in St. Germain), der in Freiburg im Breisgau zwischen 1509 und 1517 studierte und wohnte, kommt hier nicht in Frage, da er weder als "Chirurg" noch als Soldat für das Jahr 1544 nachgewiesen werden kann. Bei Freiburg handelt es sich wahrscheinlich um Freiburg im Üechtland.<fe> in quam a patre suo<f1>Unbekannt.<fe> missus erat.
+^$Bernates resipiscere aliquantulum audio, postquam insanum Lutheri libellum<f1>^#/+Luther,^#/- Kurtz bekentnis ... vom heiligen sacrament, Wittenberg, Hans Lufft, 1544 (Benzing/Claus I 3458; VD 16 L 5422; -^#. Textausgabe in WA LIV 119-167), das Ende September 1544 erschienen war (WA LIV 122f; WA-BW X 650-655, Nr. 4028). -^#. Siehe HBBW XIV, Nr. 2055, 18-21; Nr. 2057, 21-29.<fe>
+legerunt, quem ego, si fieri potest,<f1>Exemplare dieser Schrift waren nämlich nur schwer zugänglich; s. HBBW XIV, Nr. 2026, 17f; Nr. 2037, Anm. 3; Nr. 2044, 27f; und unten Nr. 2064, 16-26.<fe> quoque legam, ut rectius responsionem, quam
+maturare vos aiunt,<f1>Die Zürcher Antwort auf Luthers Schrift erschien Anfang März 1545 und wurde im gleichen Jahr dreimal aufgelegt unter dem Titel: Warhaffte Bekanntnuß der dieneren der kilchen zuͦ Zürych, was sy uß Gottes wort mit der heyligen allgemeinen Christenlichen Kilchen gloubind und leerind in sonderheit aber von dem Nachtmal unsers herren ..., Zürich, Christoph Froschauer (HBBibl I 161-163; BZD C^#. 346-348; VD 16 B^#. 9769-9771). Mit ihr wurde Luthers schwer auffindbares "Kurtz Bekentnis" nachgedruckt, um dessen Verfasser mehr zu diskreditieren; s. HBBW XIV, Nr. 2055, 34-36. Unter dem Titel "Orthodoxa Tigurinae ecclesiae ministrorum confessio" erschien im März 1545 auch eine lateinische Ausgabe bei Christoph Froschauer in Zürich; s. HBBibl I 167f; BZD C 343f; VD 16 B 9772.<fe> ubi nancisci potero, intelligam.
+^$Misi tibi fortassis ante sesquimensem<f1>Wohl mit einem nicht erhaltenen Brief von Mitte November 1544.<fe> nummum ęreum antiquam Cęsaris cuiusdam effigiem habentem,
+ni fallor, dimidii testonis<f1>Ein Teston ist eine Währung.<fe> magnitudinem adęquantem.
+Quem an acceperis, incertus sum, nec, si remiseris, scio.
+Qua de re me certiorem facias, velim.
+^$De rebus novis quod scribam, non habeo. Anguillę<f1>Der gelehrte Solothurner Stiftsprediger (seit Februar 1538) und Stiftspropst (seit dem 27. Juni 1544) Johannes Aal (gest. 28. Mai 1551) aus Bremgarten, von wo er 1529 als katholischer Prediger vertrieben wurde; s. Ludwig ^#/+Gombert,^#/- Johannes Aals Spiel von Johannes dem Täufer und die älteren Johannesdramen, Breslau 1908 (Nachdruck: Hildesheim/New York 1977) -^#. Germanistische Abhandlungen 31, S. 30-36; Helvetia Sacra II/2 517f.<fe> regii<f1>Franz^#. I.<fe> pensionarii valde
+sunt infensi; nullas ipsius conciones amplius expectant.<f1>Dies traf nicht zu. Johannes Aal, der nach einer fast dreijährigen Propsteivakanz dem 1541 verstorbenen Stiftspropst Bartholomäus von Siegelberg aus Solothurn nachfolgte, verzichtete auf die Chorherrenpfründe, um weiter predigen zu können; in seinem am 15. April 1545 verfassten Brief an Aal würdigte Heinrich Glarean dessen Hingabe und Einsatz: "Sed felix, qui dignum aliquod operae pretium agit in vinea Domini [vgl. Jes 5, 3; Jer 12, 10; Jo 1, 7; Mt 20, 1-16], quemadmodum te agere videmus, qui ecclesiam tuam tam sedulo curas, tam splendide ornas [Anspielung auf das 1544 auf Anregung Aals in der Solothurner Stiftskirche aufgerichtete steinerne St. Ursenbild], tam fideliter pascis [Anspielung auf Aals Predigttätigkeit]"; s. ^#/+Gombert,^#/- aaO, S. 33. 35; Die Briefe Glareans an Johannes Aal, Stiftsprobst in Solothurn, aus den Jahren 1538-1550, hg. v. Eugen Tatarinoff, Solothurn 1895 -^#. Mitteilungen des Solothurnischen Historischen Vereins, S. 38; Helvetia Sacra II/2 516f.<fe>
+^$Fryburgensis ille veteranus,<f1>Der Gebrauch von "ille" wie auch die Tatsache, dass der Verstorbene ein Freiburger war, weist auf den oben (Z. 7) erwähnten Vater des Freiburger "Chirurgen" hin.<fe> vesperi lętus, transacta nocte nuper obiit.
+^$Nostri milites, ad unum omnes puniti, iurare coacti sunt nolle se amplius insciis
+et reclamantibus magistratibus in militiam proficisci.
+^$Mitto hic meo more<f1>Das erste und einzige erhaltene Zeugnis dieses von Frey gepflegten Brauches.<fe> liberis tuis<f1>Von Bullingers Kindern lebten zu diesem Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich (1534), Hans Rudolf (1536), Christoph (1537) und Veritas (1543); s. ^#/+Pestalozzi^#/- 314. Am 29. April 1545 kam Dorothea zur Welt; s. HBD 32, 27f.<fe> mei memoracula ista strenę.
+Salutant te nostri. Saluta meo nomine tuam uxorem<f1>Anna, geb. Adlischwyler.<fe>, meritis suis meam matrem,<f1>Hatte sich der Briefschreiber vielleicht eine Zeitlang im Haushalt Bullingers aufgehalten?<fe> et liberos.
+Vale et me, ut soles, ama.
+^$3. nonas Ianua[rii]<fx>^#/+Textverlust wegen Beschädigung des rechten Papierrandes.^#/-<fe> 1545.
+^$Brigittę<f1>In seiner Abschrift (Zürich ZB, Ms S 56, 108) vermerkte Johann Jakob Simler: "Bullingeri Ancillae". Gemeint ist die Magd Brida Schmid, die 34 Jahre im Dienste der Familie Bullinger stand und am 11. Februar 1565 verstarb; s. HBD 82, 14f.<fe> solidum dabis.
+<un>Totus tuus ex animo
+<un>Ioannes Leop. Fry.
+<lz>Salutabis etiam nomine meod. Ioannem Cellarium<f1>Zu denken wäre an Pfarrer Hans Keller, genannt Krug (HBBW IV 99), damals in Zollikon, oder an den Ratsherrn Johann Balthasar Keller, genannt "De Bock" (gest. 11. Februar 1554); gemeint ist aber wahrscheinlich Diethelm Keller: Einige Wochen später (s. unten Nr. 2130, 2-7) bedankt sich nämlich Frey für ein Buch, das ihm Bullinger geschickt hat, von dem er aber bereits zuvor von "Johannes Keller" ein Exemplar mit einer handschriftlichen Widmung empfangen hatte. Dabei kann es sich nur um Bullingers "Antiquissima fides" handeln, die im August 1544 erschienen und von Diethelm Keller ins Lateinische übersetzt worden war; s. HBBW XIV 341, Anm. 13.<fe> cum uxore<f1>Unbekannt.<fe> sua.
+<lz>[Adresse auf der Rückseite:] Doctissimo piissimoque Tigurinę ecclesię antistitid. Heinrycho Bullingero, patri suo summe semper observando.
+</content>
+</letter>

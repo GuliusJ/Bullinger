@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2139">
+<nr>2139</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>[Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>18. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 234 (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 62; erw.: ^#/+Gast,^#/- Tagebuch 72 (A. 208) ^&x{
+<re>Gast ist von [Bullingers] Hilfsbereitschaft sehr berührt. Gewisse Leute würden ihn gern zugrunde richten, doch hält er sich tapfer. Der [Briefüberbringer] wird über Gasts Lage berichten.
+-^#. Schickt Osianders gegen die Zwinglianer gerichtete ["Apologia"]. Hätte doch Theodor [Bibliander] diesen Mann in seiner ["Relatio fidelis"] nicht so sanft behandelt, sondern offenherziger [gerügt]!
+-^#. Für eine lateinische Edition der Werke Oekolampads ist wohl niemand geeigneter als [Rudolf] Gwalther, der Zwinglis Werke so gut herausgegeben hat. Er wäre ein guter Übersetzer der Abendmahlsschriften, da er die dafür geeignete Terminologie noch gegenwärtig haben dürfte. Keinesfalls ist man dabei auf Bucers Ratschläge angewiesen! Entweder wird Gast Gwalther die [einzurichtende] Ordnung der Bücher mitteilen, oder Bullinger soll dies tun; ohne dessen Rat wird nichts unternommen. Oporin will [die Werke Oekolampads] drucken; wann, ist noch ungewiss. Auch Luthers Werke werden gedruckt.
+-^#. Gilbert [Cousin] fragte brieflich an, ob Bullinger sich über das Geschenk gefreut habe. Cousins Bruder wird einige Tage [in Basel bei Gast] zu Besuch sein. Wenn Bullinger Gilbert Cousin schreiben will, könnte er dies über den Briefüberbringer, den Bader [Jakob Schmid], tun. Gast hat Letzterem ein Taufzeugnis für dessen Sohn [Heinrich] ausgestellt. Einige wollen [Schmid] das [ihm zustehende] Geld nur auszahlen, wenn sie sicher sind, dass das Söhnchen lebt.
+-^#. Beiliegend das Taufzeugnis.
+-^#. Gruß an Bibliander, Pellikan und Gwalther.
+-^#. [P.S.:] Da Gast der Meinung ist, dass Bullinger bereits Cochläus' "Epilog" gegen die "Antibole" besitzt, hat er diesen nicht geschickt.
+-^#. [Taufzeugnis:] Gast bezeugt, den am [13. März] geborenen Heinrich Schmid, Sohn des Basler Bürgers und Baders auf der "Kuttelbruck" Jakob Schmid, getauft zu haben. Das Kind ist gesund und munter. Im Taufbuch ist es auch eingetragen.</re>
+<tx>S. in domino.
+Quod me tam christiane meis in tentationibus<f1>Gast war seines Amtes enthoben worden; s. zuletzt oben Nr. 2129 und Anm. 15.<fe> consolatus es, quod aedes tuas ac omnia,
+quę possides, offers<f1>Bullingers Antwort auf Gasts Klage vom 19. März (oben Nr. 2116) ist nicht erhalten.<fe>, ago tibi gratias immensas. Neque credas,
+quantam alacritatem literę tuę mihi dederunt et adhuc dant, quoties lego.
+Si quidam possent, ac id libenter facerent, me omnino perderent.
+Congerunt minutissima quęque in mei odium, sed adhuc rupes immota sto<f1>rupes immota sto: Vgl. ^#/+Vergil,^#/- Aeneis, 7, 586.<fe>. Fratres, quid in
+mea causa agunt, ipsi norunt. Verum brevi habebis vivam epistolam<f1>Jakob Schmid; s. unten Z. 24. 41.<fe> imposita catastrophe<f1>Ablativ nach griechischer Deklination. - Imposita catastrophe: nach der aufgezwungenen Schicksalswende.<fe>.
+^$Mitto tibi spurcissimum libellum Cacosiandri<f1>Zur Verballhornung des Namens "Osiander" s. HBBW XIV 376, Anm. 1; S. 411, 4 und Anm. 5; S. 441, 14 und Anm. 10.<fe> contra Zvinglianos scriptum<f1>Osianders "Apologia"; s. oben Nr. 2065, Anm. 24.<fe>.
+Tu perpende, qua ignominia nostras ecclesias insomnis homo adficiat, quantis mendatiis commaculet.
+Annon tandem bestia illa digna, ut<fx>ut ^#/+über der Zeile nachgetragen.^#/-<fe> coloribus variis<fx>variis ^#/+über der Zeile nachgetragen.^#/-<fe> depingatur? Theodorus noster<f1>Theodor Bibliander.<fe>
+parum ac leviter eum attingit in suo libello<f1>Zu Biblianders "Relatio fidelis", die am 15. März 1545 erschienen war, s. oben Nr. 2109, 14f und Anm. 10.<fe>; utinam apertius, ut sciret et nostris calamum esse!
+^$Quis autem<fx>autem ^#/+über der Zeile nachgetragen.^#/-<fe> Latinitati donaturus sit libellos Oecolampadii,<f1>Zu dem von Gast gehegten (aber nicht ausgeführten) Wunsch einer lateinischen Gesamtausgabe der Werke seines Lehrers Oekolampad s. HBBW XIV 140f, 11f. 201. 203, 22f. 308, 24. - Zu Gasts Herausgabe einzelner Werke und Schriften Oekolampads s. ebd., Nr. 1848. 1859. 1942. 2038.<fe> novi neminem nisi Gvaltherum vestrum,
+cui non difficilis labor sacramentaria scripta vertere, quum Zvinglii felicissime
+reddiderit<f1>Die von Rudolf Gwalther herausgegebene erste lateinische Gesamtausgabe der Werke Zwinglis; s. oben Nr. 2069, Anm. 30.<fe> et tropos loquendi adhuc in promptu habeat.
+Buceri scholia aut consilium nullum volumus. Ordinem illi<f1>Gwalther.<fe> nuntiabo, aut tu ordina libros;
+sine tuo enim consilio nihil agemus<f1>Vgl. ^#/+Cicero,^#/- Epistuale ad Atticum, 6, 3, 3: sine tuo quidem consilio certe nihil.<fe>. Oporinus noster excudere vult, sed nescio quo anno;
+ingentia erunt volumina, ac requirunt magnas expensas. Utinam essent excusa!
+Lutheri opera iam etiam evulgabuntur.<f1>Die zwölfbändige Ausgabe der deutschen Schriften Luthers erschien zwischen 1539 und 1559 (Bd. 1 erschien 1539; Bd. 2 1548; Bd. 3 1550; Bd. 4 1551; Bd. 5 1552; Bd. 6 1553; Bd. 7 1554; Bd. 8 1556; Bd. 9 1557; Bde. 10 und 11 1558; Bd. 12 1559). Die siebenbändige Ausgabe der lateinischen Schriften Luthers erschien zwischen 1545 und 1557 (Bd. 1 1545; Bd. 2 1546; Bd. 3 1549; Bd. 4 1552; Bd. 5 1554; Bd. 6 1555; Bd. 7 1557). Luther verfasste eine auf den 5. März 1545 datierte Vorrede zum ersten Band der lateinischen Schriften (WA LIV 176-187; Benzing/Claus 3490). Das Werk dürfte zur Frankfurter Frühjahrsmesse vorgelegen haben; s. Eike ^#/+Wolgast,^#/- Die Wittenberger Luther-Ausgabe. Zur Überlieferungsgeschichte der Werke Luthers im 16. Jahrhundert, in: Archiv für Geschichte des Buchwesens 11, 1971, 1-336.<fe>
+^$D. Gilbertus<f1>Gilbert Cousin.<fe> mihi scripsit<f1>Nicht erhalten.<fe> se vehementer cupere scire, num illius munusculum<f1>Cousin hatte Gast ein Hemd aus einem Mischgewebe mit Seide für Bullinger übersandt; s. oben Nr. 2104, 17, und Nr. 2109, 1-3.<fe>
+tibi gratum fuerit et an hilari fronte acceperis. Frater illius<f1>Es kommen in Frage: Hugo d.J., Antoine und Jean (Hugo d.Ä. war damals in türkischer Gefangenschaft); s. Pierre-André ^#/+Pidoux de Maduère,^#/- Un Humaniste comtois. Gilbert Cousin, chanoine de Nozeroy, secrétaire d'Erasme (1506-1572). Etude sur sa vie, ses oeuvres et ses doctrines religieuses, Lons-le-Saunier 1910 (Nachdruck: Genf 1970), S. 43f; Dictionnaire de biographie française, Bd. 9, Paris 1961, Sp. 1062. Hier ist vielleicht Antoine gemeint, der sich anscheinend öfter in Basel aufhielt; s. HBBW XIV 324f, Anm. 3.<fe> apud nos hęrebit ad dies aliquot.<f1>Schon im September 1544 war ein Bruder von Gilbert Cousin zu Johannes Gast auf Besuch gekommen; s. HBBW XIV 354, 4 und Anm. 5, sowie ebd., Anm. 1.<fe>
+Si aliquid scribere illi constituisses, poteris per illum bonum virum,<f1>Der Basler Bader Jakob Schmid; s. unten 41f.<fe> qui has perfert
+quique me rogavit, ut illi testimonium dem, quod puerum illius<f1>Heinrich Schmid.<fe>, qui adhuc in vivis est, baptizarim.<f1>Siehe unten Z. 40-47.<fe>
+Quidam<f1>Zürcher Familienangehörige von Jakob Schmid; s. unten Anm. 28.<fe> enim retinent apud se<fx>se ^#/+über der Zeile nachgetragen.^#/-<fe> pecunias nescio quas neque dare volunt, nisi certi sunt
+illius puerum adhuc vivere. Puero nomen est Heinricho; pater illius balneator.
+^$Vale. Germanice scribam in alteram paginam, ut pręlegas aliis, qui illi incommodare conantur.
+^$Basileę, 18. aprilis 1545.
+^$D. Theodorum<f1>Theodor Bibliander.<fe> et Pellicanum cum Rhodolpho<f1>Gwalther.<fe> nomine meo salutabis,
+ac precor, ut pro me oretis dominum, quo possim ex iis malis emergere<f1>ex ... malis emergere; vgl. ^#/+Terenz,^#/- Andria, 560; ^#/+Cornelius Nepos,^#/- De viris illustribus: Atticus, 11, 1.<fe>.
+<un>Tuus Gastius ex animo.
+<lz><vl>234v.</vl> Choclęi scriptum, imo epilogum contra Antibolen,<f1>Zu Johannes Cochläus' gegen Bullingers "Brevis <gr>ănti­bolh́</gr>" gerichtetem "Epilog" s. oben Nr. 2078, Anm. 4, sowie Nr. 2090, 13f und Anm. 8.<fe> fortassis habes.
+Alias misissem, quo in tempore solummodo illi per epistolam publicam responderes.
+Nam bestia cum omnibus doctis, qui nostro tempore vivunt, audet certare.
+^$Vale iterum atque iterum.
+<lz><vl>235</vl> Ich, Joannes Gastius, helffer zuͦ S. Martin zuͦ Basel, bekenn mit diser myner handtgeschrifft
+uß ansuͦchung meyster Jacobs Schmid<f1>Jakob Schmid war ursprünglich ein Zürcher Bürger. Um 1536 heiratete er Elisabeth Baghart (Baaghart); s. Carl ^#/+Keller-Escher,^#/- Promptuarium genealogicum, Bd. 6 (Zürich ZB, Ms Z II 6), S. 987. Spätestens 1538 sind er und seine Frau (die in den Basler Akten stets nur unter ihrem Vornamen erwähnt wird) in Basel nachgewiesen, wo sie am 17. Juni die Tochter Gertrud zu St. Martin taufen ließen. Am 14. Juli 1543 wurde "Jacoben Schmid dem bader von Zurich" das Bürgerrecht Basels zuteil; s. Basel StA, Zivilstandskartei; Weiss, Bürgerregister (Typoskript), 338. In dem in Anm. 32 erwähnten Eintrag des Taufregisters von St. Martin wird er bloß als "bader" bezeichnet, doch bei der am 31. August 1550 vollzogenen und im gleichen Register verzeichneten Taufe seines Sohnes Oswald (dessen Pate Oswald Myconius war) wird er als "Jacob Schmid, der bader uff der Kuttlenbrucken" erwähnt (s. Basel StA, Kirchenarchiv, W 12/1, f. 79v.). 1550 geriet er erneut in finanzielle Schwierigkeiten, wie dies aus der damaligen Frönung (= Beschlagnahmung) seines Hauses und seiner Badestube hervorgeht (s. Basel StA, Hist. Grundbuch, 1501-1550, unter "Schmid, Jac., Rüdengässlein"). Herrn Beat Rudolf Jenny sei für die Basel betreffenden Ermittlungen herzlich gedankt. - Jakob Schmid ist wohl mit den aus Turbenthal (Kt. Zürich) nach Zürich zugewanderten Jakob (Schuhmacher), Heinrich (Bader) und Gabriel (Schuhmacher) Schmid verwandt, welche sich 1519/20 in Zürich einbürgern ließen; s. Erhard ^#/+Dürsteler,^#/- Zürcher Geschlechterbuch, Bd. 7 (Zürich ZB, Ms E 22), f. 85v; ^#/+Keller-Escher,^#/- aaO.<fe>,
+bader uff der Kuttelbrucken,<f1>Kuttel/Chuttle, Eingeweide, Gedärme. - Als "Kuttelbruck" bezeichnete man die auf der Rüdengasse (früher Rüdengässlein oder Kuttelgeßlin) über den Birsig gespannte Brücke. Sie wurde so genannt, weil sich darauf eine Zeitlang das Kuttelhaus befand, in dem die Kuttler (Innereien-Metzger) ihren Markt abhielten; s. Gustav Adolf ^#/+Wanner,^#/- Zunftkraft und Zunftstolz. 750 Jahre Basler Zünfte und Gesellschaften, Basel 1976, S. 146. Aus dem "Hist. Grundbuch, 1501-1550" (Basel StA) erfährt man, dass bereits 1535 das Gebäude als Badehaus benutzt wurde, was ebenfalls dessen Verwendung als "Wasch- [= Bade-; s. SI II 1737f] und Holzhaus" zur Zeit von Felix Platters Stadtbeschreibung Basels (1610) bestätigt; s. Felix ^#/+Platter,^#/- Beschreibung der Stadt Basel 1610 und Pestbericht 1610/11, hg. v. Valentin Lötscher, Basel/Stuttgart 1987 - Basler Chroniken 11, S. 408, Nr. 2036, und die damit veröffentlichte Beilage: Valentin ^#/+Lötscher,^#/- Planheft der Stadt Basel, Basel/Stuttgart 1987, Nr. 15. Aus dem Planheft und dem Grundbuch geht hervor, dass Schmids Wohnhaus, die "Hinder Waldtshüt", sich schräg gegenüber der Badestube befand.<fe>
+burger zuͦ Basel, zeiger dises brieffs, das dem genanten meyster uff fritag vor Letare<f1>Am 13. März 1545, entsprechend dem im Taufbuch (s. unten Anm. 32) angegebenen Freitag nach Oculi.<fe>
+ist ein kindt worden. Heist mit namen Heinrich, das ich getuͦfft habe, und ist noch uff hütt datum gsundt und frisch.
+^$Geben uff den 18. tag aprilis 1545.
+^$Diss hab ich wellen anzeigen uß anruͤffung meyster Jacob<f1>uß anruͤffung meyster Jacob: auf Ersuchen von Meister Jacob hin.<fe>. Diß alles ist ouch geschriben imm touffbuechlin<f1>Der Eintrag ist (ohne Erwähnung des Namens von Jakob Schmids Ehefrau) im Taufbuch von St. Martin überliefert; s. Basel StA, Kirchenarchiv, W 12/1, f. 53v.<fe>.
+^$Basileę.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

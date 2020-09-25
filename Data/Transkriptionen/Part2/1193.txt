@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1193">
+<nr>1193</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>31. Oktober 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 180 (neu: 198) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat Rudolf Gwalther an Capito empfohlen; dieser will sich seiner annehmen. Die Briefüberbringer sind Fürsprecher der
+Waldenser; er hält deren Lehre für unbedenklich und bittet, das Anliegen zu unterstützen. Minden wurde in die Acht getan; dies
+könnte Krieg bedeuten. Sein Haus ist von der Pest betroffen.
+</re>
+<tx>Rodulfum<fx>^#/+über der Zeile von späterer Hand:^#/- Gvalterum.<fe><f1>Rudolf Gwalther.<fe> dimisi Argentinam;
+commendavi Capitoni, qui rescripsit<f1>Weder das Empfehlungsschreiben noch Capitos Antwort ist erhalten.<fe> se
+iuveni liberali amoenoque ingenio exhibiturum studiosissime, quicquid possit officii et humanitatis.
+^$Adsunt vero iterum, quos coram adspicis, Waldensium nomine<f1>Antoine Saunier hatte zuvor bereits Straßburg
+aufgesucht, um Unterstützung für die verfolgten Waldenser im Piemont zu mobilisieren, wobei ihn mindestens ein weiterer
+Genfer begleitete; s. Corr. des réformateurs V 170f und unten Nr. 1195, 10-21.<fe>; qui ut
+tyrannide premantur, ex ipsis audies. Vidimus hic dogmata eorum<f1>Calvin scheint auf Wunsch der Straßburger eine
+Darlegung der waldensischen Lehre verfaßt zu haben (s. Corr. des réformateurs V 170f mit Anm. 17-19). Möglicherweise handelt es sich um das Dokument mit dem Titel "Quam doctrinam teneant homines falso Valdensium nomine infamati" in Zürich StA, E II 337a, 321r.-322v.^&xErw. in Epistolae
+Calvini???^&x{<fe> a Christo certe non abhorrentia,
+quamobrem videtur propter dominum, uti iubet charitas, illis subveniendum. Opera tua opus habent certe apud senatum
+istum<f1>Bürgermeister und Rat von Zürich wandten sich am 4. November an Bern und schlugen vor, nochmals zusammen mit Basel
+bei König Franz I. zugunsten der verfolgten Glaubengenossen zu intervenieren; s. Zürich StA, E I 25. 1, Nr. 9 (Regest: EA IV/1c
+1035).<fe>; hic, quęso, te fratrem ostendas fidelem. Brevior sum, quod ex tabellionibus his omnia fusissime sis percepturus. Causam eorum habebis igitur commendatissimam.
+^$Scis forsitan, ut iudicium camerę Mindam, urbem foederis
+evangelici, privarit pace publica; si hands ind acht gthon<f1>Am 9. Oktober hatte das Kammergericht über Minden die Acht
+verhängt, da die Stadt die Restitution der Kirchengüter und die Wiederzulassung des früheren Kultus verweigerte; s. ^#/+Schlütter-Schindler^#/-
+155-163.<fe>. Bellum timetur. Consultant principes, quid opus sit facto; post hanc consultationem fiet aliquid<f1>Da es
+sich um eine Religionssache handelte, waren die Mitglieder des Schmalkaldischen Bundes zum Beistand verpflichtet.<fe>.
+^$Domum ego habeo peste adfectam<f1>Vgl. oben Nr. 1189, 11f.<fe>. Orabis ergo dominum pro nobis.
+^$Vale cum tuis et fratribus omnibus.
+^$Basileę, ultima octobris anno 38.
+<un>Tuus Os. My-­
+<un>conius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho
+Bullingero doctissimo, episcopo Tigurino, domino in Christo
+observando suo.
+</content>
+</letter>

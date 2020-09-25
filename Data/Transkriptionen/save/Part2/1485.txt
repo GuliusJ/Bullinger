@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1485">
+<nr>1485</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>31. März 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 225 (Siegelspur)</vo>
+<vo>Kopie: ZZB, Ms B 171, 35<f1>(H. K. Füssli)<fe></vo>
+<vo>ZZB, Ms S 49, 65<f1>Zit.: Pollet II 357.<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Schickt einen Bericht [Bucers] vom Reichstag; mit einem Erfolg ist nicht zu rechnen. Klagt über die Verhältnisse in
+Basel und bedauert, dass die schuldigen [Zürcher Studenten] geschont wurden - Christoph [Rotacher] hätte Basel wegen der
+[diesbezüglichen] Äußerungen von Theodor [Bibliander] beinahe verlassen -; heute wurden weitere Bakkalaurei promoviert.
+</re>
+<tx>S. Accipe, quę nudiustertius ad nos missa sunt de
+comitiis,<f1>Laut einer Bemerkung von Grynäus (s. oben Nr. 1484, 26-28) handelte es sich um einen Bericht Bucers aus Regensburg.
+Ein Auszug aus einem Brief Bucers vom 15. März findet sich in Zürich StA, E II 350, 453f. 459f (von unbekannter Hand, von
+Myconius an Bullinger adressiert; der gleiche Auszug als Teil einer von Myconius eigenhändig geschriebenen Zusammenstellung von Nachrichten aus Regensburg auch in Zürich ZB, Ms F 80,
+119r.-120r.). Darin eingefaltet war auch der Brief Bedrots an Grynäus vom 21. März mit Nachrichten aus einem Schreiben Calvins
+vom 11. März (Zürich StA, E II 350, 425f, von einer zweiten unbekannten Hand; Teildruck [nach dieser Vorlage] in Corr. des
+réformateurs VII 48-51, Nr. 955, sowie [nach der erwähnten Nachrichtensammlung von Myconius] in CO XI 171-173, Nr.
+288).<fe> et divina. Equidem spero dominum conservaturum verbum suum; at de reformatione nihil fiet.
+^$Dolet illud supra modum, quod religio ubique deficit.
+Novi quid fiat apud nos: In peius labimur in dies magis ac magis. Aegre ferunt boni viri, quod duobus istis<f1>Gemeint sind wohl Christian Wirth und Konrad Suter; vgl. oben Nr. 1475, 7-15 mit Anm. 5.<fe> tam anxie
+favetis, cum hic agant pessime. Sed vos videbitis. Christophorus<f1>Christoph Rotacher.<fe> tantum non pararat
+abitum ex verbis Theodori<f1>Theodor Bibliander. - Rotacher fühlte sich ungerecht behandelt (vgl. oben Nr. 1475, 9-12),
+entsprechende Äußerungen Biblianders sind jedoch nicht überliefert.<fe>, sed falsus est; nescio, quid causę sit. Nos
+fecimus hodie iterum baccalaureos<f1>Johann Heinrich Munzinger, Wiprecht Schießer (Sagittarius) und Philipp Bächi; s. Basel, Matrikel II 4, Nr. 15; 10, Nr. 27; 17, Nr. 20 (als Datum ist in der Matrikel der 1. April genannt).<fe>. Gaudebis nobiscum. Vix vivo prę miseria, quam quotidie graviorem
+intueor. Insanimus. Nil aliud possum.
+^$Vale cum tuis omnibus, Theodoro, Pellicano, reliquis.
+^$Basileę, ultima martii anno 41.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero suo.
+</content>
+</letter>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2148">
+<nr>2148</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>27. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 232 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 78; Zit.: ^#/+Pollet,^#/- Bucer II 292 (A. 2) ^&x{
+<re>Für Gilbert [Cousin] bestimmte Briefe kann Gast über dessen Bruder [Antoine Cousin?], der nächste Woche nach [Basel] kommen wird, weiterleiten. Gast wundert sich, warum Bullinger nicht an Cousin geschrieben hat.
+-^#. Er übersendet ["In primum Musculi Anticochlaeum Replica brevis"] von [Johannes] Cochläus. Bullinger wird erwägen, ob diese Schrift einer Antwort würdig ist.
+-^#. Den Anhängern Bucers missfällt das ["Warhaffte Bekanntnuß" bzw. die "Orthodoxa Tigurinae ecclesiae confessio" der Zürcher] gegen Luther sehr.
+-^#. Grüße an Theodor [Bibliander].
+-^#. [P.S.:] Die [Zürcher] werden umgehend ein Fass mit Briefen und Büchern erhalten.</re>
+<tx>S. Literas missasd. Gilberto<f1>Gilbert Cousin.<fe> per fratrem<f1>Ein Bruder von Gilbert Cousin, vielleicht Antoine; s. oben Nr. 2139, Anm. 18.<fe>, qui ad nos veniet futura hebdomada,<f1>Diesen Besuch hatte Gast schon oben Nr. 2139, 22f angekündigt.<fe>
+transmittam et miror, cur nihil illi rescripseris,<f1>Vgl. oben Nr. 2139, 23f.<fe> quum avide tuas expectet literas.
+^$Cochlaei en librum.<f1>^#/+Cochläus,^#/- In primum Musculi Anticochlaeum replica brevis; s. oben Nr. 2078, Anm. 4. Gast hatte Bullinger angeboten, das Buch auf der Frankfurter Frühjahrsmesse zu kaufen; s. oben Nr. 2090, 13f. Später meinte Gast, dass Bullinger das Buch, besonders den darin enthaltenen, gegen diesen gerichteten Epilog, vielleicht bereits habe, anderenfalls hätte er ihn geschickt; s. oben Nr. 2139, 35-37.<fe> An dignus sit responsione, tu videris. Arrogans homo veritati se nunquam subiiciet, ut ex illius scriptis apparet.
+^$Buceranis Apologia vestra in Lutherum maxime displicet.<f1>Das "Warhaffte Bekanntnuß" der Zürcher bzw. dessen lateinische Fassung, die "Orthodoxa Tigurinae ecclesiae confessio"; s. oben Nr. 2061, Anm. 9. - Zur Unzufriedenheit Bucers selbst s. MBW-Reg IV, Nr. 3854; Blarer BW II 358.<fe>
+^$Vale cum omnibus tuis.
+^$Basileę, 27. aprilis 1545.
+^$Salutem precord. Theodoro<f1>Theodor Bibliander.<fe>, optimo viro.
+<un>Tuus Gastius.
+<lz>[Nachschrift auf der Rückseite neben der Adresse:] Vas cum literis et libris<f1>Die Sendung enthielt wohl Bücher und Briefe von der Frankfurter Frühjahrsmesse, darunter vielleicht den Katalog gedruckter Neuerscheinungen, den Gast am 22. April angekündigt hatte (oben Nr. 2143, 12f), und das oben Z. 4 genannte Buch von Cochläus.<fe> statim recipietis.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero<fx>^#/+In der Vorlage^#/- Bullingo.<fe>, pręceptori suo semper colendo. Zurich.
+</content>
+</letter>

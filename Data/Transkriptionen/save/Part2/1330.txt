@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1330">
+<nr>1330</nr>
+<correspondents>
+	<originator>Nikolaus Pfister</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>18. November [1539]</date>
+	<note>Die Datierung ergibt sich aus den Bemerkungen über die enttäuschenden Artikel des englischen Königs (vgl. dazu oben Nr. 1308, 29-42) sowie über die neue Schule (zur Gründung der Nikolaischule vgl. ^#/+Vasella,^#/- St. Nicolai 79-81; Graubünden, Korr. I, S. XL).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 262 (Siegelspur)</vo>
+<re>Sendet die [Sechs] Artikel des englischen Königs [Heinrich VIII.] zurück; glücklicherweise beschränkt sich dessen Macht auf
+England. Ist sehr beschäftigt, da die neue Schule unerwartet gut gedeiht und von den Söhnen vornehmer Familien aus ganz
+Bünden besucht wird. Im Land herrscht Ruhe, abgesehen von der Festnahme und Hinrichtung einiger Räuber, worüber Gotthard
+[Richmut] mehr berichten kann. Im Comersee sind sechs Häuser spurlos versunken. Schickt einen Brief von [Johannes] Travers
+und bietet sich als Briefübermittler an, da er mit Travers verwandte Knaben aus Zuoz beherbergt. Grüße an Zürcher Gelehrte.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 19f, Nr. 16.]
+</content>
+</letter>

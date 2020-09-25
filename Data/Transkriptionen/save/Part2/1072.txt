@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1072">
+<nr>1072</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>um 26. November 1537]</date>
+	<note>Am 26. November nahm Jakob Meyer Stellung zur Aufforderung Bullingers, auf die Abberufung des Berner Pfarrers Sebastian Meyer hinzuwirken (s. oben Nr. 1070). Grynäus bezieht sich offenbar auf
+eine gleichartige Anfrage (s. unten Z. 1f).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 188 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Auch ihm scheint ein weiteres Verbleiben von Sebastian [Meyer] [in Bern] der Konkordie nicht zuträglich zu sein.
+Bullingers Schilderung, wie er selbst bei Luther für die eidgenössischen Kirchen eintreten würde, trägt der Tatsache
+keine Rechnung, daß ein Vermittler notwendigerweise von einer Angleichung der Positionen sprechen muß. Empfiehlt die
+Briefüberbringer.
+</re>
+<tx>De Sebastiano<f1>Sebastian Meyer (vgl. Anm. 1).<fe> videbo. Nam mihi ipsi sic videtur esse inutile ad concordiam, si diutius istic sit.
+^$Qualis tu esse legatus Helvetiorum velles in<fx>^#/+vor ^#/-in ^#/+gestrichenes ^#/-audivi.<fe> hoc concordię negotio, audivi<f1>Bullinger hatte in seinem Brief an Bucer vom
+6. Oktober dessen Schreiben an Luther vom 19. Januar kritisiert und kurz skizziert, wie er selbst argumentiert hätte; s. oben Nr. 1053, 96-106.<fe>. Sed, ut pace tua dicam, parum
+attineat hoc ad rem. Res est, uter recte causam sacramenti
+intelligat. In ea qui fungi recte sequestris<fx>^#/+vor ^#/-sequestris ^#/+ein gestrichenes, unlesbares Wort^#/-.<fe> officio vult,
+apud Lutherum concedet non prorsus nos rem intellexisse aut, si
+intellexerimus, non ita expressisse, ut sentiebamus. Vide, sic apud Lutherum est agendum necessario, et[?] qui se praebere volet
+medium in hac quidem causa, ut<fx>^#/+kann auch als ^#/-at^#/+ oder ^#/-ac ^#/+gelesen werden.^#/-<fe> aliter non potest<fx>^#/+vielleicht als ^#/-possit^#/+ zu lesen.^#/-<fe>,
+apud nos sic dicet: Lutherus aliter nunc sentit, quam olim sensit<fx>sensit ^#/+am Rande nachgetragen.^#/-<fe> aut certe quam
+scripsit olim. At neque hic ratio sequestrandi alia est.
+Sed de his alias. Te quaeso, ut in omni negotio Christi
+Christi<fx>^#/+Die ersten drei Buchstaben des zweiten ^#/-Christi^#/+ in Majuskeln.^#/-<fe> sis, sic ut es, et te regno eius impertias totum.
+^$Hos viros<f1>Unbekannt.<fe> valde cupio ut omni officio humanitatis excipias.
+^$Vale, mi frater dulcissime. Saluta mihi Theodorum<f1>Theodor Bibliander.<fe> et fratres diligenter. Vale.
+<un>Gryneus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, fratri charissimo.
+</content>
+</letter>

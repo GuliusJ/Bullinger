@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1642">
+<nr>1642</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>30. Juni 1542</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 197 (Siegelabdruck)</vo>
+<vo>Kopien: Ms F 43, 82v.; Ms S 51, 133</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 130f, Nr. 950</dr>
+<re>Dankt, besonders auch im Namen [Diethelm] Röists, für Blarers Brief und für dessen Treue gegenüber Zürich und der Zürcher Kirche. Tod seines Sohnes Diethelm, der nun aber alles Elend überwunden hat. Bedauert, dass es keine Gelegenheit gab, Zwicks Gattin mehr Freundlichkeit zu erweisen.
+Grüße.</re>
+<tx>Gratiam et pacem.
+^$Ingentes tibi gratias non tam meo quamd. Röystii<f1>Diethelm Röist.<fe> nomine
+ago pro litteris illis tuis<f1>Bullinger bezieht sich auf Blarers Brief vom 24. Juni (oben Nr. 1639), dessen mutmaßliche Beilage sich ausdrücklich auch an Röist richtete (s. ebd., Z. 35 und 81).<fe> et summa illa fide tua in urbem
+et ecclesiam nostram; dominus rependat tibi. Feceris autem
+rem longe gratissimam, si ita perrexeris.
+^$Hisce diebus sustulit mihi dominus dilectissimum filiolum
+Diethelmum<f1>Diethelm Bullinger verstarb am 23. Juni; s. HBD 31, 7f.<fe>; verum bene actum est cum infantulo, qui semel
+multas calamitates vicit.
+^$Honestissimae matronae Zvicciae<f1>Anna, geb. Tegerfelderin (Tegerwilerin), oder Amalia, geb. Muntprat.<fe> cupiebamus aliquid exhibere
+humanitatis, verum defuit facultas;<f1>Vgl. dazu oben Nr. 1639, 24f.<fe> nam ex animo amamus vos omnes.
+^$Vale.
+^$Tiguri, ultima iunii 1542.
+^$Salutabis fratrem<f1>Thomas Blarer.<fe> et consobrinos<f1>Johannes und Konrad Zwick.<fe>.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Piissimo virod. Ambrosio
+Blaurero, antistiti Constantiensi vigilantissimo, suo.
+Constantz.<fx>^#/+Vor^#/- Constantz ^#/+von Blarer eingefügt:^#/- ultima iunii anno 42.<fe>
+</content>
+</letter>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2523">
+<brief>
+<id>16213</id>
+<nr>2523</nr>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 2. August 1546</od>
+<vo>Autograph: Zürich StA, E II 346, 203 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 64</k></dr>
+<re>Frölich erhält nicht nur regelmäßig herzliche Briefe von Bullinger, sondern auch Geschenke, jetzt nämlich erneut die Schriften ["Der christlich Eestand", "Der alt Gloub" und "Hoffnung der Glöubigen"]. Frölich weiß kaum, wie er dafür danken soll, da er weder so begabt ist wie Bullinger noch sich mit Geld revanchieren kann. Bullingers Buchgeschenk wurde ihm darüber hinaus vom beredten Zürcher Hans Vogler [d.Ä.] überbracht. Frölich und [Johannes] Haller durften mit diesem freundschaftliche Momente verbringen, auch wenn sie wegen des Kriegsgeschehens des Öfteren unterbrochen wurden. Nun, da Vogler abreist, werden sie ihn vermissen!
+<t/>Bezüglich [Hans] Welser will er lieber nichts schreiben. Eines Tages vielleicht wird er Bullinger unglaubliche Dinge über diesen berichten. Bullinger sollte daher seinen Kommentar zu Matthäus [richtig: Lukas] nicht einem Einzelnen [nämlich Welser], sondern dem ganzen Rat widmen, falls er tatsächlich [die Augsburger] auf diese Weise ehren will.
+<t/>Das Heer [der Schmalkaldener] wird in Donauwörth gemustert und gezählt. Landgraf [Philipp von Hessen] soll übermorgen eintreffen. Er führt 24'000 Fußsoldaten und 6'000 Reiter mit sich und wird von neun Fürsten begleitet. Deren Namen wird Frölich demnächst mitteilen. Kurfürst [Johann Friedrich] von Sachsen ist auch dabei, obwohl er aufgrund seines Leibesumfangs nicht kämpfen kann. Der Feind [Karl V.] wartet noch auf seine italienischen Fußtruppen. Nachdem nun die [Schmalkaldener] ihre Kavallerie zusammenhaben, werden sie ohne Verzug den Kampf aufnehmen.
+<t/>[Ambrosius] Blarer hat Frölich ein elegantes [von Sebastian Lepusculus erstelltes] Pasquill auf den in Gent geborenen Karl V. geschickt, sowie ein von Rudolf Gwalther verfasstes Gedicht über den Eid, den der Landgraf hinsichtlich des bevorstehenden Krieges abgelegt hat. Frölich dankt Bullinger und Gwalther für diese Dokumente. Er wird sie dem Landgrafen übermitteln.
+<t/>Die Stadt Füssen mit Schloss, die Festung und Klause Ehrenberg, der Bischofssitz Dillingen, das ganze Allgäu und die Markgrafschaft Burgau werden immer noch von den [Schmalkaldenern] gehalten. Zudem wurde eine Truppe ins Territorium des Bischofs von Konstanz [Johann von Weeze], u.a. nach Meersburg und Markdorf, geschickt, um das Gebiet zu unterwerfen. Alle Schliche des Gegners wurden offengelegt; vor allem die der Geistlichen, auch die des Abtes von St. Gallen, [Diethelm Blarer von Wartensee]!
+<t/>Die [Augsburger] sind gefasst. Wenn sie nur nicht zu waghalsig werden!
+<t/>Grüße an Bürgermeister [Hans Rudolf Lavater und Johannes Haab], an Stadtschreiber [Hans Escher vom Luchs], an [Rudolf] Gwalther, an die Amtskollegen sowie an [Anna, geb. Adlischwyler] und an die ganze Familie.
+<t/>[P.S.:] Bullinger soll für die [Augsburger] beten, wie Moses [es einst für das Volk Israel tat].</re>
+<text>
+<p>S. Pr{e}ter id, quod me efflictim diligis literisque tuis suavissimis atque elegantissimis frequenter exornas, Bullingere, amicorum precipue, muneribus etiam me donas (muneribus inquam omni metallo preciosioribus, <zzl>zl16213-1A</zzl>sacrosanctis nimirum foetibus tuis, quos pro conservando veri matrimonii nexu
+<fn>Ein Exemplar der Schrift "Der christlich Eestand", die 1540 zum ersten Mal erschienen war (<a>HBBibl</a> I 129; <a>VD16</a> B9578) und erst 1548 nachgedruckt werden sollte (<a>HBBibl</a> I 130; <a>VD16</a> B9579). - Eine lateinische Fassung dieser Schrift ist nicht bekannt.<zfn>fn16213-2</zfn></fn>, pro defensione antiquissimae nostrae fidei
+<fn>Ein Exemplar der Schrift "Der alt Gloub", die zuletzt 1544 neu gedruckt wurde (<a>HBBibl</a> I 102; <a>VD16</a> B9602). Die im August 1544 erschienene lateinische Fassung dieses Werkes (<a>HBBibl</a> I 103; <a>VD16</a> B9603) kommt hier kaum in Frage; s. nämlich unten <qv>fn16213-1</qv>.<zfn>fn16213-3</zfn></fn> et immorientium iam hominum consolatione et resuscitatione
+<fn>Ein Exemplar der Schrift "Hoffnung der Glöubigen", die zuletzt im August 1544 erschienen war; s. dazu <qv>nr2453</qv>, <qv>fn16141-1</qv>. - Die im Herbst 1545 erschienene lateinische Fassung dieses Werkes kommt hier kaum in Frage.</fn><zzl>zl16213-1E</zzl> felicissime olim enixus es)
+<fa><i>Dieses und das nächste Paar Klammern ergänzt.</i></fa>, neque satis esse ducis me semel
+<fn>Bullinger hatte im Juni 1545 Frölich einen Sammelband geschenkt, der die auf Deutsch verfassten Schriften "Der alt Gloub", "Hoffnung der Glöubigen" und "Bericht der krancken" (von Mai 1544) umfasste; s. <a>HBBW</a> XV 399,4-6. 15-17. Im Mai 1546 schenkte Frölich diesen Band Hans Jakob Fugger und bat Bullinger, ihm die gleichen Schriften erneut und ungebunden zukommen zu lassen; s. <qv>nr2453</qv>,<qv>zl16141-4</qv>. - Dass nun Bullinger "Der christlich Eestand" statt den "Bericht der krancken" den zwei anderen Schriften beilegte, geschah wohl aus Versehen, es sei denn, dass der zuletzt im Mai 1544 erschienene "Bericht der krancken" (<a>HBBibl</a> I 76; <a>VD16</a> B9562) damals bereits vergriffen war. Allerdings wurde dieser erst 1553 neu gedruckt (<a>HBBibl</a> I 77; <a>VD16</a> B9563).<zfn>fn16213-1</zfn></fn> tam largiter tibi esse donatum, nisi cognito priori tuo munere mihi pie sublato
+<fn>Anspielung auf die Weitergabe des Sammelbandes an Hans Jakob Fugger; s. <qv>nr2453</qv>,<qv>zl16141-4</qv>.</fn> donarium iteres, o liberalissimum datorem, o perpetuum amiciti{e} pignus, quomodo et quibus modis ego aut remunerem aut saltem gratificer (cui nec animi nec fortun{e} bona ad hoc suppetunt)? Et nisi tuus erga me amor et tua munificentia tibipsi respondeant, perpetuo ingratus existam oportet. <zzl>zl16213-4A</zzl>Quantum putas, obsecro, insuper ornamenti accessisse muneri tuo ex gerulo et exhibitore illius
+<fn>muneris.</fn>, nempe d. Ioanne Voglero
+<fn>Hans Vogler d.Ä., der sich etwa seit dem 23. Juli in Augsburg aufhielt; vgl. <qv>nr2524</qv>,<qv>zl16214-3</qv>; <qv>nr2525</qv>,<qv>zl16215-12</qv>. - Bullinger wird wohl seine oben in Z. <qv>zl16213-1</qv> erwähnten drei Schriften Vogler mitgegeben und diesen gebeten haben, sie Frölich feierlich als Geschenk zu überreichen.</fn>, Tigurino viro facundo et pio, qui libellum hunc tuum non tam elegantibus verbis quam fronte expurgatissima mihi obtulit, quo cum ego et Hallerus, communis amicus et frater, aliquot dies familiarissime viximus, licet frequentiam colloquendi turbidum hoc s{e}culum armis undique circumstrepentibus plurimum interruperit?
+<fn>Auch Vogler bekundete, wie sehr er Frölich schätzte; vgl. <qv>nr2525</qv>,<qv>zl16215-5</qv>.</fn> Non tamen sine amiciti{e} vinculo arctissime contexto nobis discessum est.
+<fn>Vogler sollte Augsburg am 4. August vorübergehend verlassen; s. <qv>nr2525</qv>,<qv>zl16215-6</qv>.</fn><zzl>zl16213-4E</zzl> Ego tibi, frater coniunctissime, immortales gratias habeo.</p>
+<p><zzl>zl16213-6A</zzl><zzl>zl16213-5A</zzl>De Welssero
+<fn>Der Augsburger Altbürgermeister Hans Welser.</fn> et aliis nostris primoribus non est, quod scribam. Posset mihi quidem veritas etiam vitio verti.
+<fn>Siehe dazu <qv>nr2530</qv>,<qv>zl16221-2</qv>.</fn> Olim autem domino duce coram expositurus tibi sum incredibilia et auditu stupenda.<zzl>zl16213-5E</zzl> Matheum tuum
+<fn>Frölich meint hier nicht Bullingers Matthäuskommentar, sondern den zu dieser Zeit in Bearbeitung stehenden Kommentar zu Lukas; s. <qv>nr2545</qv> und <qv>fn16211-1</qv>. - Bullinger widmete diesen schließlich doch nur Welser.</fn> nulli privato hic, sed magistratui meo iuditio dedicaturus es, si omnino de nobis tam habundanter
+<fn>abundanter.</fn> vis demereri.<zzl>zl16213-6E</zzl></p>
+<p>De expeditione nostra seu potius coacta defensione nihil est, quod nunc scribam. Lustratur iam exercitus et recensentur milites Werdee ad Istrum
+<fn>Werdee ad Istrum: Donauwörth. - Zur bevorstehenden Musterung s. <qv>nr2531</qv>.</fn>, <zzl>zl16213-3A</zzl>ubi landgravius
+<fn>Philipp von Hessen.</fn> quottidie expectatur.
+<fn>Zum Eintreffen des Landgrafen in Donauwörth s. <qv>nr2518</qv>, <qv>fn16212-2</qv>; <qv>nr2531</qv>.</fn> Ego vero certus sum ipsum perendie adventurum multis copiis.<zzl>zl16213-3E</zzl> Habet enim secum 24 millia peditum et 6 mille equites selectissimos, principes vero novem, quorum nomina tibi proxime singulatim significabo.
+<fn>Siehe nämlich <qv>nr2533</qv>,<qv>zl16222-1</qv>. Vgl. ferner <qv>nr2524</qv>,<qv>zl16214-2</qv>; <qv>nr2531</qv>,<qv>zl16231-2</qv>; <qv>nr2538</qv>,<qv>zl16228-1</qv>.</fn> Princeps elector Saxoni{e}
+<fn>Johann Friedrich I. von Sachsen.</fn> quantumvis corpulentus et ad pr{e}lia inhabilis, una aderit
+<fa><i>In der Vorlage</i> adderit.</fa>. Res agetur serio et viriliter cunctatione et socordia semotis. <zzl>zl16213-7A</zzl>Hostis
+<fn>Kaiser Karl V.</fn> ad nos nondum properavit, eo quod nondum satis instructus esse videatur. Is avide desyderat suos pedicarios
+<fn>Fußsoldaten.</fn> Italos, etc., qui sunt spes ipsius.<zzl>zl16213-7E</zzl> Nos vero habitis equitibus, sine quibus hactenus minus tutum fuit hosti obviam ire, nullam amplius moram nectemus. Dominus fortunet institutum nostrum! Amen.</p>
+<p><zzl>zl16213-2A</zzl>Blaurerus noster transmisit mihi pasquillum in Carolum Gandavum
+<fn>Der in Gent geborene Karl V. - Es handelt sich um die von Sebastian Lepusculus verfassten Verse "Pasquillus ad Carolum Gandavum" und das dazugehörige Gedicht "Caroli Gandavi deploratio"; s. <qv>nr2501</qv>, <qv>fn16192-2</qv>.</fn> mirum in modum elegantem et veridicum, preterea etiam landgravii sacramentum in hac tam pia expeditione authore optimo R[odolpho] Gvalthero nostro
+<fn>Das aus vier Distichen bestehende Gedicht "De dicto Philippi Hessorum principis bellum parantis Pontifici et Caesari. 1546" (Zürich ZB, Ms D 152, f. 76v.), das Rudolf Gwalther verfasste.<zfn>fn16213-5</zfn></fn>.<zzl>zl16213-2E</zzl> Qu{e} omnia additis addendis
+<fn>Gemeint ist Frölichs Begleitschreiben.</fn> principem landgravium ego neutiquam celabo ipsumque, si opus fuerit, extimulabo, quamquam calcaribus minime egeat. Ego tibi et illi, Gvalthero nempe
+<fa>nempe <i>am Rande nachgetragen.</i></fa>, gratias habeo immortales.</p>
+<p><vl>203v.</vl> Nos adhuc retinemus occupata nempe civitatem et castrum Fuessen, arcem et clusiam Erenberg,
+<fn>Füssen und die Klause Ehrenberg. - Zu deren Einnahme s. <qv>nr2498</qv>,<qv>zl16189-6</qv>; <qv>nr2499</qv>.</fn> Dilingam, episcopi
+<fn>des Bischofs von Augsburg, Otto Truchsess von Waldburg.</fn> sedem,
+<fn>Dillingen wurde am 23. Juli eingenommen; s. Zürich StA, A 177, Nr. 15 (vom 26. Juli 1546); Nr. 16 (vom 28. Juli); <a>Roth, Augsburg</a> III 391; <a>Paulus, Schertlin</a> 61 und Anm. 86.<zfn>fn16213-4</zfn></fn> totam Algoiam
+<fn>Allgäu.</fn> et marchionatum Burgoviensem
+<fn>Markgrafschaft Burgau (bei Günzburg); s. <qv>nr2453</qv>, <qv>fn16141-7</qv>.</fn>. Misimus quoque legionem episcopi Constantiensis ditiones Merßburgum, Marckdorpium
+<fn>Markdorf (Lkr. Bodensee).</fn>, etc., in deditionem recepturam. <zzl>zl16213-9A</zzl>Omnes adversariorum doli sunt patefacti, pr{e}sertim quid et quantus unusquisque sacrificulorum c{e}sari in nostram pernitiem contribuat - inter quos etiam abbas Sangallensis
+<fn>Diethelm Blarer von Wartensee.</fn> nomen habet.<zzl>zl16213-9E</zzl> Mira pectorum revelatio fit.</p>
+<p>Nos hic inconsternati. Utinam ne nimium audaces simus! Dominus temperet nostros affectus et fragilitati human{e} aliquid concedat.</p>
+<p>Plura nunc nequeo. Salutem ex me dicito dominis consulibus
+<fn>Hans Rudolf Lavater und Johannes Haab.</fn>, prothoscrib{e}
+<fn>Hans Escher vom Luchs.</fn>, Gvalthero singulisque tuis symmistis, confratribus in domino. Valeat honestissima tua uxor
+<fn>Anna Bullinger, geb. Adlischwyler.</fn> et tota domus. 2. augusti 1546, properanter et oscitanter.</p>
+<un>Tuus G. Laetus, etc.</un>
+<lz/>
+<p><zzl>zl16213-8A</zzl>Fac sis Moses orans pro nobis.
+<fn>Anspielung auf Ex 17, 8-13: Solange Moses mit erhobenen Armen für das Volk Israel betete, war dieses in der Schlacht gegen die Amalekiten überlegen.<zfn>fn16213-6</zfn></fn><zzl>zl16213-8E</zzl></p>
+<lz/>
+<p>[Adresse auf f. 203a,v.:] Domino Henricho Bullingero, anthistiti Tigurino, incomparabili amico et fratri. Zurch.</p>
+</text>
+</brief>

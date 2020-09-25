@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2164">
+<nr>2164</nr>
+<correspondents>
+	<originator>Georg Frölich</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>21. Mai 1545</date>
+</space_time>
+<vo>Original mit autographer Unter- und Nachschrift: Zürich StA, E II 346, 159 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 104 ^&x{
+<re>Frölich sieht sich von Bullinger durch die vor einiger Zeit erfolgte Übersendung des [nicht erhaltenen] Briefes und des ["Warhafften Bekanntnuß"] der Zürcher geehrt.
+-^#. Er hat sich bemüht, von einem gelehrten eidgenössischen Theologen [Myconius?] ein Urteil über das ["Warhaffte Bekanntnuß" bzw. die "Orthodoxa Tigurinae ecclesiae confessio"] zu erhalten; dieser meinte zu Frölichs Erstaunen, dass es besser gewesen wäre, wenn die Zürcher geschwiegen hätten. Bullinger möge diese Mitteilung für sich behalten. Frölich schreibt dies, damit Bullinger weiß, dass er auch in der Nachbarschaft Verleumder hat.
+-^#. Der eigentliche Grund von Frölichs Schreiben ist der, dass zwar Augsburgs Kirchen gut besucht werden, es aber an Kirchendienern mangelt. Manche von diesen neigen allzusehr dem Lutheranismus zu, und Frölich befürchtet ein neues Schisma. Deshalb bittet er Bullinger um Entsendung eines rechtschaffenen, gelehrten [Zürcher Predigers nach Augsburg], und zwar soll dies möglichst stillschweigend geschehen, bis mit diesem in [Augsburg] über sein Amt verhandelt worden ist. Die Augsburger Bevölkerung ist dem Zürcher Glauben sehr zugeneigt. Die Pfarrer verdienen jährlich etwa 250 Gulden.
+-^#. Frölich wünscht, dass es [Konrad] Pellikan, [Theodor] Bibliander, [Kaspar] Megander, [Rudolf] Gwalther und [Konrad] Gessner wohl ergehe. Er bittet um nachsichtige Aufnahme seines Schreibens.
+-^#. [P.S.:] Er hört, dass die Eidgenossen die Waffen des Kaisers fürchten; [in Augsburg] hingegen fürchtet man [das Konzil von] Trient und seine Verteidiger; auch gibt es Gründe für die Annahme eines Angriffs der Gegner noch in diesem Sommer. Er hofft, die Eidgenossen stehen auf ihrer Seite. Schickt Bullinger sein Bildnis als Andenken und Geschenk.</re>
+<tx>S. Literae, quas una cum Tygurinę ecclesiae confessione sacrosancta<f1>Das "Warhaffte Bekanntnuß" der Zürcher; s. oben Nr. 2061, Anm. 9. Zur Übermittlung an Frölich s. oben Nr. 2128, Anm. 2; 2134, 9-11. Dass Bullinger die deutsche Fassung gesendet hatte, geht aus einem Brief von Georg Frölich an Sebastian Lepusculus (Häslin) vom 29. April 1545 hervor (Zürich ZB, Ms S 57, 79): "... nam licet antea Henricus Bullingerus, vir incomparabilis, ipsam mihi confessionem Germanice miserit, tamen Latina lectio mihi acceptior est." - Lepusculus hingegen hatte Frölich die lateinische Fassung dieser Schrift zukommen lassen.<fe> ad me iampridem
+dedisti,<f1>Nicht erhalten. Siehe aber oben Nr. 2128, Anm. 2; 2134, 9-11.<fe> vir extra omnem aleam posite<fx>^#/+In der Vorlage^#/- positę.<fe>,<f1>Zum Ausdruck s. ^#/+Plinius,^#/- Naturalis historia, Praefatio, 7.<fe> perpetuum inter te et me amicitiae pignus erunt, et id quidem multis nominibus,
+presertim vero ea ratione, quod me, tam ignotum tibi quam apud plęrosque obscurum, insigni illo mnemosino dignaveris.
+Iube et manda deinceps, quicquid volueris (nihil enim quam pia et honesta velle soles), Lętum habiturus es ad vota tua facilem et morigerum,
+quandoquidem ergo et pietas et eruditio tua nihil nisi optima et maxima mihi pollicentur.
+^$Nolo te celare me studio singulari a quodam non indocto cuiusdam confederatorum<f1>der Eidgenossen.<fe> civitatis theologo<f1>Wahrscheinlich Myconius. Er stand mit Frölich in dieser Zeit in brieflichem Austausch und hatte sich schon am 15. März 1545 Frölich gegenüber besorgt wegen der Antwort der Zürcher auf Luthers "Kurtz bekentnis" geäußert; s. Zürich ZB, Ms F 81, 395.<fe> iuditium
+super edita Tygurina confessione literis petivisse, qui respondendo mihi inter cętera hęc scripsit:
+"Utinam tacuissent Tygurini! Fęlitius multo habitura esset ecclesia. Sententia eorum Christum eximit cęnę",<f1>Ein solcher Brief von Myconius an Frölich ist nicht bekannt; s. aber die vorige Anm.<fe> etc.
+Id quod magnam mihi admirationem, ne dicam stuporem, iniecit<fx>^#/+In der Vorlage^#/- inijecit.<fe>; nam longe aliud iuditium ab eo viro expectaveram.
+Tu autem haec longius propalare caveas; sint in sinum tibi effusa, ne balantes oviculas lupus propinquior audiat.
+Sed ad quid, ais, Lętus mihi hęc? Forsan et ipse<f1>Der oben erwähnte Kritiker der Zürcher.<fe> erroris me<f1>Frölich.<fe> insimulat? Absit!
+Nam si me teste vel iudice ille vester labor, illa opera et industria stare deberent,
+non profecto morarer coram toto mundo et fateri et asserere fidei vestrę reddita ratione
+nihil me vel exactius vel verius vel sanctius hac nostra tempestate editum vidisse.
+In hoc autem tibi haec scripta sint, ut ne vobis quidem defuturos esse vicinos calumniatores sciatis, quamquam illi nihil nocere queant.
+^$Maximum tandem ad te scribendi iam argumentum mihi hoc est: Ecclesiam habet Augusta frequentissimam,
+ministros autem paucos,<f1>Zu den in Augsburg tätigen evangelischen Geistlichen s. die Verzeichnisse in ^#/+Pfarrerbuch Bayerisch-Schwaben^#/- 290-302.<fe> qui populo satis experto et probe imbuto, prout res et tempus expostulat, digne preesse queant. Suntque nonnulli ex eis, qui nimium
+ad Lutheranas partes declinant, quorum gratia tam apud plebem quam alios synceriores rara est.
+Hinc metus mihi subit, ne novum schisma in urbe religionis sane amantissima oriatur.
+Oro igitur te per Christum, ut de probo et erudito theologo vestrę adeoque verę doctrinę
+nobis circumspitias eumque ad nos mittas, ita tamen, <vl>159v.</vl> ut nulli alteri nisi candidissimis
+id instituti manifestetur, donec is, quem nobis selegeris, tanquam peregrinus urbem nostram
+invisurus hic audiatur et cum illo super functione ecclesiastica tractatum fuerit.
+Utinam tu in hoc nobis gratificeris unumque ex vestris communices! Beatiores nos multo quam antea esse affirmabo.<f1>Bullinger sandte auf Frölichs Bitte hin Johannes Haller d.J. nach Augsburg, der dort von 1545 bis 1547 als Prediger (ohne bestimmte Gemeinde) wirkte. Haller kam kurz vor dem 19. November 1545 in Augsburg an; s. ^#/+Bähler,^#/- Haller 2-6; Reinhard ^#/+Bodenmann,^#/- Wolfgang Musculus (1497-1563). Destin d'un autodidacte lorrain au siècle des Réformes, Genf 2000, S. 359; ^#/+Pfarrerbuch Bayerisch-Schwaben^#/- 300.<fe>
+Ne quoque te ratio boni pastoris apud nos lateat, nolo multa polliceri.
+Certum est populum hic esse ductilem, pacis amantissimum, tum et liberalem et humanissimum, presertim vero
+valde inhiantem confessioni Tygurinę. Ministri ecclesiae nostrę foventur satis liberaliter; quidam ex altari
+vel potius aerario publico percipiunt quottennis 250 aureos, quidam plus, quidam minus, secundum dona et operas eorum.
+Hoc sane ausim promittere: Si nobis contingeret talis aliquis, quales Tygurum nobile
+plerosque habet, non defuturum illi id, quod viro bono et christiano dignum sit.
+^$Salvum esse cupio et precor totum musarum chorum<f1>Vgl. HBBW V 28, 24 und Anm. 8.<fe>,d. Pellicanum, Bibliandrum, Megandrum, Gvaltherum, Gesnerum atque
+alios, apud quos Lęti nomen bene audit. Boni consule insulso meo scripto. Vale, decus ecclesiae, et perge constanter.
+^$21. maii anno 1545.
+<un>Tuus Georgius Laetus, archigram-­
+<un>mateus Augustae Vindelicorum,
+<un>subscripsit.
+<lz>Vos Helvetii, ut audio, cęsaris<fx>^#/+In der Vorlage^#/- cęseraris.<fe><f1>Karl V.<fe> arma timetis,<f1>Siehe zuletzt Nr. 2149, Anm. 45.<fe> nos vero concilium Tridentinum<f1>Zum Konzil von Trient s. oben Nr. 2071, Anm. 24.<fe> et ipsius defensores;
+nec ego inanibus ducor argumentis adversarios hac adhuc estate in nos gladium stricturos.
+Quod si deo omnino ita visum fuerit, spero Helvetios nostras partes foturos<f1>Siehe dazu Frölichs Worte im oben Anm. 1 erwähnten Brief an Lepusculus: "Germania, communis patria, certe periclitatur. Pontifex totis viribus ipsam ruinare nititur. Utinam non brevi experiamur Mavortia iamdudum in perniciem nostram instructa arma! Quanquam dei adiutorio credam bestiam [s. Apk 13] cum universis adhaerentibus succubituram [Apk 17-19]. Credo etiam Helvetios praesidia nobis non denegaturos".<fe>.
+^$Vale iterum et semper.
+^$Effigiem meam<f1>Es handelt sich dabei um eine silberne Medaille; s. den oben in Anm. 1 erwähnten Brief von Frölich an Lepusculus: "In praesentia nihil tibi mittere possum quam imaginem meam, argenteum nempe numisma."<fe> mnemosini loco tibi d[ono] d[abo].
+<lz>[Adresse<fx>^#/+Nicht autograph.^#/-<fe> auf f. 163c,v.:] Dem christlichen, hochgelerten herrn Hennrichen Bullinger, vorgeeren<f1>Antistes.<fe> der kirchen zu Zürch, meinem besonnder gunnstigen herren, zu aigen hannden. Zurch.
+</content>
+</letter>

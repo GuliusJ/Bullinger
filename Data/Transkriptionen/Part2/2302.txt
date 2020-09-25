@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2302">
+<nr>2302</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Haller</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>4. Dezember 1545</date>
+</space_time>
+<vo>Abschrift von Johann Heinrich Hottinger<fx>^#/+Mit Randbemerkungen und Unterstreichungen von Johann Heinrich Hottinger.^#/-<fe>: Zürich ZB, Ms F 46, 589</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 136; Zit: Zwa 1 8 ^&x{
+<re>Haller soll sich an der ihm erwiesenen Gnade Christi freuen, von der die Briefe [Georg] Frölichs und der anderen Zeugnis ablegen.
+-^#. Seine Reisegefährten [Huldrych Zwingli d.J. und Hans Wilpert Zoller] sind wieder [nach Zürich] zurückgekehrt und konnten die Gastfreundlichkeit der Augsburger nicht genug loben. Über die von Haller übersandte [Augsburger Gottesdienstordnung] hat Bullinger sich mit [Theodor] Bibliander, [Konrad] Pellikan und anderen beraten. Sie werden alles mit Haller bei dessen Rückkehr nach Zürich besprechen. In der Zwischenzeit soll Haller sich der [Gottesdienstordnung] anpassen, um in Augsburg bleiben zu können. Er soll sich auch Musculus gegenüber freundlich verhalten. Die [Gottesdienstordnung] soll er aber in der Predigt so auslegen, dass das Volk versteht, dass, wenn der Pfarrer die Zeichen darreicht, Christus den Gläubigen reinigt, rechtfertigt, speist und erlöst, während die Sakramente kennzeichnen und bezeugen. Haller soll also [den Augsburgern] nicht die Zürcher Sakramentenordnung aufdrängen. Alles Weitere mündlich. Später wird Bullinger sehen, was er mit den Bürgermeistern [Hans Welser und Jakob Herbrot] und mit Frölich in dieser Angelegenheit erreichen kann.</re>
+<tx>Gratiam et pacem a domino.
+Ago indesinentes, Hallere dilecte, gratias domino nostro Iesu Christi, qui eam tibi gratiam dedit,
+quam accepisse a domino testantur Laeti<f1>Georg Frölichs Briefe vom 20. November (Nr. 2289) und 22. November (Nr. 2294).<fe> ac aliorum optimorum virorum literae.<f1>Damit sind die Briefe von Claudius Pius Peutinger (Nr. 2291), Hans Welser (2293) und Nikolaus Müller gen. Maier (Nr. 2296) gemeint; s. unten Nr. 2303.<fe>
+Tu dominum ora, ut adaugeat tibi dona sua in gloriam nominis sui et ecclesiae suae utilitatem.
+^$Redierunt domum salvi comites tui<f1>Huldrych Zwingli d.J. und Hans Wilpert Zoller, die kurz nach dem 22. November aus Augsburg abgereist waren; s. oben Nr. 2296, Anm. 4.<fe>, et non potuerunt satis praedicare Augustanorum humanitatem atque benevolentiam<f1>Siehe dazu oben Nr. 2289, 7-14. 2290, 44f.<fe>.
+Tuas<f1>Hallers Briefe vom 20. und 22. November (Nr. 2290 und 2295).<fe> item mihi tulere una cum ceremoniario, quem illi vocant formam.<f1>Siehe dazu oben Nr. 2295 und Anm. 1.<fe>
+Quaeris in tuis, quomodo te geras erga Musculum,<f1>Vgl. oben Nr. 2290, 37f.<fe> et an forma illa utaris recepta<f1>Vgl. Nr. 2295, 1-9.<fe>.
+Contuli ego consilia cum Bibliandro nostro, Pellicano et reliquis, ac, quoniam brevi ad nos rediturus es,<f1>Zur zeitweiligen Rückkehr Hallers nach Zürich s. oben Nr. 2289, Anm. 5; unten Nr. 2310, Anm. 1.<fe> plura tunc coram tecum collocuturi sumus.
+In praesenti ita consulo, ut omnem in formam et modum te vertas, quo haereas Augustae,
+hoc est, quicquid salva pietate ferre potes, feras, modo maneas; nam speramus ingentem fructum Christo accessurum.
+Ergo amice te geras erga Musculum. Deferes illi honorem, sed ita, ut is intelligat in summa veritatis te nihil cessurum.
+Formas loquendi scriptas<fx>^#/+In der Vorlage^#/- scripturas.<fe>,<f1>Damit ist die in der Gottesdienstordnung dargelegte Liturgie gemeint; s. oben Nr. 2295, Anm. 1.<fe> dices, libenter recipio et usurpabo, has tamen pie interpretabor pro publica concione,
+ita ut populus diserte intelligat, quid fidei tribuendum sit, quid nostris factis, quid Christo,
+quid ministris, quid sacramentis, quid sacramentorum scopo, Christo.
+Christus purificat, iustificat, cibat et salvat. Minister symbola exhibet. Sacramenta obsignant et testantur.
+Inutilia omnino, nisi fides Christo nos coniungat. Haec summa est.
+Proinde suadere non possumus, ut protinus formam sacramenti celebrandi Tigurinae ecclesiae urgeas.
+Utere recepta. Durum esset et intolerandum, si illam reiiceres, novam proferre velles.
+Legimus formam et retinuimus, ut copiosius de illa coram colloquemur. Caeterum tu illa in praesenti uteris.
+Postea agemus cum consulibus<f1>Hans Welser und Jakob Herbrot.<fe> et Laeto, quid impetrari possit, tentantes. Plura iam non potui.<f1>Siehe dazu unten Nr. 2310 und Anm. 22.<fe>
+Vale.
+<lz>[Ohne Adresse.]<fx>^#/+Datum, Unterschr.ift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt:^#/- Henricus Bullingerus s. p.d. Johanni Hallero. Tiguro Augustam, 4. decembris 1545.<fe>
+</content>
+</letter>

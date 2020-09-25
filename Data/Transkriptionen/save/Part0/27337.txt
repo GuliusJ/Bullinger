@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="27337">
+<nr>27337</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Fabricius</addressee>
+</correspondents>
+<space_time>
+	<place>(12. Januar 1565.)<f1>Briefbeilage; Zwischen 1557 und 1566</place>
+	<date>vielleicht (nach Simler auf Grund der Signaturen)</date>
+</space_time>
+<vo>Zürich StA, E II 373, 549. / Orig. Aut.</vo>
+<dr>Gr. II, 557 R.</dr>
+Cum intellexi ad. Rodolpho, affine tuo, virum hic esse, cui literae tuto possint credi, inclusi has, quas vides, quas alioqui non cuivis credidissem.
+Tu cura, ut mature et tuto remittantur ad me.
+Vale iterum.
+Praestantissimo virod. Ioanni Fabritio, Curiensis ecclesiae ministro fidelissimo, domino et fratri colendo et dilectissimo.
+^$Chur.
+</content>
+</letter>

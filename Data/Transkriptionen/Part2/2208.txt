@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2208">
+<nr>2208</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>den Rat von Augsburg</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. August 1545</date>
+</space_time>
+<vo>Zeitgenössische Abschrift: Straßburg StadtA, AST 96, Nr. 22, f. 142r.</vo>
+<dr>Ungedruckt</dr>
+^&x(keine Simler-Kopie) ^&x{
+<re>Bullinger erhielt heute den Brief der Augsburger [Nr. 2204], die Berufung von Matthias Erb [nach Augsburg] betreffend. Bisher hat er, wie der [Augsburger] Stadtschreiber Georg Frölich weiß, sein Möglichstes in dieser Angelegenheit getan, und er wird sich auch weiterhin dafür engagieren. Das von den Augsburgern in ihrem Schreiben [Gewünschte] wird er sorgfältig ausführen, und [Erbs] Antwort wird er den [Augsburgern] unverzüglich mitteilen.</re>
+<tx>Heinrich Bullingers antwortschreiben an Augspurg, Matthiam Erben betreffend.
+^$Wolgelert, edel, vest, from, fürsichtig, ersam unnd weyß, günstig, lieb herrn, mein ganntz willig diennst sambt erbiettung alles guͤets seie e[wer]<fx>^#/+Von^#/- e[wer] w[eißhai]t ^#/+bis^#/- bereit ^#/+am Rande nachgetragen.^#/-<fe> w[eißhai]t von mir bevoran bereit<f1>bevoran bereit: vorab entboten.<fe>.
+^$Ewer weißhait schreiben belangend die werbung an herrn Mathiam Erb<f1>Oben Nr. 2204.<fe> hab ich heut, dato diß brieffs, empfangen
+unnd seins innhalts verstanden. Fueg e. w. darauff in antworts weiß unnderthenig zuvernemen,
+das, wie ich unßher<f1>bisher.<fe> in gemelten handel minnem<fx>^#/+In der Vorlage^#/- minnen.<fe> besten vermügen nach (wie mein lieber herr unnd freund,
+e. w. stattschreiber<f1>Georg Frölich.<fe>, wol weist)<fx>^#/+Klammern ergänzt.^#/-<fe> gehanndlet hab, das ich also fürohin mein arbeit und getruwen fleiß nit sparen will,
+damit fürderlich<f1>schnell.<fe> e. w. schreiben statt<f1>statt beschäche: Folge leisten, Genüge tun; s. SI XI 1692.<fe> von mir beschäche. Was mir dann je begegnen und zur antwortt wuͤrde,
+will ich unverzogenlich e. w. berichten; dann wo ich e. w. diennst unnd gefallens
+thun vermochte, wolte ich willig, geflissen<f1>eifrig.<fe> unnd gantz unverdrossen<f1>dienstbereit.<fe> sein.<f1>Am gleichen Tag hatte Bullinger den Brief des Augsburger Rates (Nr. 2204) erhalten (s. oben Nr. 2209, 15-17), den er hier sogleich beantwortete; er schrieb außerdem noch am gleichen Tag an Erb (oben Nr. 2209).<fe>
+Bitt hiemit e. w. ganntz underthenig unnd freundlich, sy wöllet mich iro trewlich befolchen haben.
+Der trewe ghott unnd vatter erhalte<fx>^#/+In der Vorlage^#/- erhalten.<fe> e. w. gnedigklich durch Christum, unnsern herrn.
+^$Datum Zürch in der eidgnoßschafft, den 6. tag augusti anno 1545.
+<un>U[wer] w[eißhait] allezeit
+<un>williger diener
+<un>Hainrich Büllinger,
+<un>predicant Zürch.
+<lz>[Adresse neben der Unterschr.ift:] Den wolgelerten, edlen, vesten, fromen, fürsichtigen und weisen ratgeben der statt Augspurg, seinen günstigen, lieben herrn.
+</content>
+</letter>

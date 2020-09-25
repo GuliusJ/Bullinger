@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2458">
+<brief>
+<id>16146</id>
+<nr>2458</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 8. Juni [1546]
+<fn>Das Jahr ergibt sich aus dem Inhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 648 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 447f, <br/>Nr. 1290<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 115 </k></dr>
+<re>Blarer übersendet einen Brief von Georg Frölich [<qv>nr2453</qv>] und wundert sich, dass Bullinger nicht durch [Barbara Winzürn, gen. Schriber], die Frau des Konstanzer Schneiders Thomas, geantwortet hat, die wegen des Erbes, das ihr von [Agathe] Studler zugeteilt wurde, nach Zürich gekommen war. Er hatte ihr nämlich Briefe für Bullinger, [Rudolf] Gwalther, [Konrad] Hofherr und [Jakob] Ruf mitgegeben, die er am 24. Mai geschrieben hatte. Da nur Ruf geantwortet hat, glaubt Blarer, dass die anderen die Briefe nicht erhielten. An Ruf schreibt er nun erneut und bittet Bullinger, diesem seinen Brief zuzustellen.
+<t/>Über den Reichstag [zu Regensburg] wird Frölich das Gleiche an Bullinger geschrieben haben wie [nach Konstanz]; außer Geld- und Zeitverlust ist davon nichts zu erwarten. Manche befürchten die Auflösung des [Schmalkaldischen Bundes], Frölich aber erhofft sich Besseres. Angesichts der Fahrlässigkeit der [Protestanten] werden ihre Erfolge allein Gott zuzuschreiben sein.
+<t/>Die in Ravensburg durchgeführte Reformation hat so manchen Aberglauben beibehalten. Der Rat wollte nämlich keine Pfarrer aus Schwaben anstellen, da er diese der Schwärmerei verdächtigt. Gegen den Wunsch vieler Bürger richtete er sich nach dem Wittenberger und Nürnberger Beispiel. Die Stadt wurde ferner in den Schmalkaldischen Bund aufgenommen, über dessen Verlängerung am Reichstag verhandelt werden soll.
+<t/>Grüße.
+<t/>[P.S.:] Aus Straßburg erfuhr Blarer, dass Kaiser [Karl V.] den rheinischen Adel einberufen hat und diesem mitteilte, dass er nicht vorhätte, ihn zur Dienstbarkeit zu drängen. Außerdem entlockte er ihm Geld unter dem Vorwand, er wolle ihn von illegalen Besteuerungen seitens der Fürsten befreien. Das wird sicher zu Zwietracht führen!</re>
+<text>
+<p>S. <zzl>zl16146-2A</zzl><zzl>zl16146-5A</zzl>Mitto hic L{e}ti nostri, utinam l{e}tas, literas,
+<fn>Georg Frölichs Brief <qv>nr2453</qv> vom 3. Juni. Bullinger erhielt vorliegendes Schreiben Blarers mit dem beigelegten Brief Frölichs erst nach dem 18. Juni; vgl. <qv>nr2464</qv>,<qv>zl16154-7</qv>, mit <qv>nr2469</qv>,<qv>zl16159-5</qv>. Siehe ferner <qv>nr2472</qv>, <qv>fn16162-2</qv>.<zfn>fn16146-3</zfn></fn> quas nudius quartus accepi,
+<fn>Am 5. Juni.</fn><zzl>zl16146-5E</zzl> valdeque miror, qui factum sit, ut per sarctoris nostri
+<fa><i>In der Vorlage</i> nostrae <i>(s. dazu <a>Stotz</a> IV 230f Nr. 135.4).</i></fa> Thom{e}
+<fn>Thomas Winzürn oder Winzer; s. <qv>fn16146-1</qv>.</fn> mulierculam
+<fn>Die Konstanzerin Barbara Winzürn, gen. Schriber, eine Verwandte der Agathe Studler (s. <qv>fn16146-2</qv>), welche ihr das Haus "Zum hindern Pflug" in Konstanz hinterlassen hatte, wie mehrere Personen es bezeugen konnten. Barbara Winzürn hatte sich an den Konstanzer Rat gewandt, um die Erbangelegenheit mit Zürich zu klären; s. Zürich StA, A 205/1, Nr. 209 vom 8. März, und Nr. 211 vom 22. Mai 1546.<zfn>fn16146-1</zfn></fn>, qu{e} istic Studler{e}
+<fn>Agathe Studler, die wegen Hexerei am 27. Februar 1546 in Zürich in der Limmat ertränkt worden war; s. <a>HBBW</a> XVI 187, Anm. 6 und Reg.<zfn>fn16146-2</zfn></fn> h{e}reditatem cum aliis nonnullis adire voluit, non responderis. <zzl>zl16146-1A</zzl>Per hanc enim ad te scripseram
+<fn>Nicht erhalten.</fn>, simul autem et ad Gvaltherum et Curionem
+<fn>Konrad Hofherr.</fn>, quorum neuter quicquam rescripsit, ut suspicer propemodum nihil vos ab illa accepisse. De qua re valde cupio a vobis certior fieri. Dat{e} sunt nostr{e} liter{e} 24. maii.<zzl>zl16146-1E</zzl> Scripseram et chirurgo vestro R{uo}ffio
+<fn>Jakob Ruf. - Weder dieser Brief noch die an Gwalther und Hofherr gerichteten Briefe finden sich in <a>Blarer BW</a>.</fn>, sed ille unus per hanc rursum respondit
+<fn>Nicht in <a>Blarer BW</a>.</fn>; cui iterum nunc scribo
+<fn>Ebenfalls nicht in <a>Blarer BW</a>.</fn> valde te rogans, ut epistolam nostram reddi illi cures.<zzl>zl16146-2E</zzl></p>
+<p>Novi plane nihil habemus, quod scribere ad te oper{e} precium sit. De comitiis
+<fn>Der Reichstag zu Regensburg, der am 5. Juni eröffnet worden war.</fn> non dubito, quin L{e}tus ea ad te, <zzl>zl16146-6A</zzl>qu{e} ad nos quoque
+<fn>Vgl. <qv>nr2472</qv> und <qv>fn16162-3</qv>.</fn>, scripserit
+<fn>Siehe <qv>nr2453</qv>,<qv>zl16141-1</qv>.</fn>.<zzl>zl16146-6E</zzl> Expectabimus inde nihil aliud quam sumptum et preciosissimi temporis iacturam. Verentur nonnulli, ne nostrorum foedus
+<fn>Der Schmalkaldische Bund, der infolge der Nichtverlängerung des Bündnisvertrages und des Ausbruchs des Schmalkaldischen Kriegs aufgelöst wurde; s. <a>HBBW</a> XVI 28f.</fn> in dissolutas scopas
+<fn><a>Adagia</a> 1, 5, 95 (<a>ASD</a> II/1 564f, Nr. 495).</fn> solvatur. Ego meliora spero, quamquam omnino aliter, quam fit, nostros agere opportebat. Verum ita semel, quicquid boni ad nos ex ista socordia redit, totum domini benignitati transscribetur, nec quicquam reliquum erit, unde humana sapientia glorietur
+<fn>Vgl. Jer 9, 23f.</fn>.</p>
+<p><zzl>zl16146-3A</zzl>Ravensburgensis ecclesia satis superstitiose instituitur. Noluit enim senatus ad huius reformationem quemquam ex c{e}teris ministris Sv{e}vi{e} ecclesiarum et vicinarum adhibere, quod omnes schwermerico fermento infectos suspicetur. Igitur omnia ad exemplum Wittenbergensium et Norimbergensium effingunt, quanquam multi illic solidiora lubenter sequerentur.
+<fn>Zum Konflikt zwischen Lutheranern, Zwinglianern und Schwenckfeldianern in Ravensburg und der Forderung nach Durchsetzung der lutherischen Lehre durch den Rat nach dem Beitritt der Stadt zum Schmalkaldischen Bund s. <a>Litz</a> 260-262; <a>PC</a> IV/1 117, Nr. 85.</fn> Tamen maior pars (ut fit) vicit non iudicio sed numero meliorem.
+<fn>Vgl. <i>Livius,</i> Ab urbe condita, 21, 4, 1.</fn> Recepti sunt in nostrum fedus,
+<fn>Zur Aufnahme Ravensburgs in den Schmalkaldischen Bund s. <a>HBBW</a> XVI 159, Anm. 7.</fn> de cuius tamen prorogatione nunc in comitiis consultabitur.
+<fn>Auf Wunsch Kaiser Karls V. wurde der schmalkaldische Bundestag nach Regensburg verlegt, aber angesichts der drohenden Kriegsgefahr entschied man sich dafür, während des dort gehaltenen Reichstages keine Bundesfragen zu diskutieren; s. <a>RTA-JR</a> XVII 42; und <qv>nr2453</qv>,<qv>zl16141-2</qv>.</fn><zzl>zl16146-3E</zzl> Precemur dominum, ut passim omnes et meliora cognoscant et amplectantur.</p>
+<p>Saluta fratres et amicos. Salutant te nostri omnes. Bene vale. 8. iunii.</p>
+<un>Tuus Ambr. Blaurerus.</un>
+<lz/>
+<p><zzl>zl16146-4A</zzl>Der kaiser
+<fn>Karl V.</fn> hat den rinischen adel beschriben
+<fn>einberufen.</fn>, sich purgiert
+<fn>rechtfertigt.</fn>, das er nitt der seye, der sich understande
+<fn>anschicke, vorhabe.</fn>, sy zu dienstbarkait ze dringen
+<fn>drängen.</fn>, wie er inen ingebildet
+<fn>dargestellt.</fn> werde, sich vyl guts empotten, etc., daneben ain summ gelts von inn gebracht
+<fn>von inn gebracht: von ihnen [mit List] abgenommen; s. <a>SI</a> V 700; <a>FNHDW</a> IV 1135f.</fn> mit verwenung
+<fn>Vorwand; s. <a>SI</a> XVI 13. 16.</fn>, das er sy freyen welle, domitt sy von den fursten nitt geschetzt
+<fn>besteuert (jemandem ohne einen Rechtsakt eine bestimmte Summe zur Zahlung auferlegen); s. <a>Fischer</a> V 713.</fn> werden.
+<fn>Zu den vom Kaiser einberufenen Adelsversammlungen in Würzburg und Mainz mit dem Zweck, den Adel auf seine Seite zu ziehen, s. <a>RTA-JR</a> XVII 53; <a>PC</a> IV/1 110, Nr. 80; 123, Nr. 91 und Anm. 13; 127f, Nr. 94; 139, Nr. 105.</fn><zzl>zl16146-4E</zzl> Das will aber ain new bruderessen
+<fn>Hier ironisch.</fn> werden und zu vyl zwytracht dienstlich sin. H{e}c ex Argentorato ad me scribuntur
+<fn>Ein solcher an Blarer gerichteter Brief aus Straßburg findet sich nicht in <a>Blarer BW</a>.</fn>.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Bullingero suo.</p>
+</text>
+</brief>

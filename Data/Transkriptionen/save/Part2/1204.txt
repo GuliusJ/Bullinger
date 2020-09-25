@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1204">
+<nr>1204</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>5. Dezember 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2769r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Entnimmt dem durch Quirinus [von Leiden] überbrachten Brief, daß seine früheren Schreiben noch nicht angekommen sind.
+Dankt für die väterliche Ermahnung. Nachdem er Plutarchs "Vitae" erworben hatte, zwang ihn einzig die unvorhergesehene
+Reise nach Straßburg dazu, Geld zu leihen; der Verlauf der Fahrt hat bestätigt, daß dies nötig war. Eine günstigere Unterkunft
+als bei Bedrot ist nicht erhältlich, und nur dank der Großzügigkeit von Martin Peyer steht ihm ein Studierzimmer zur
+Verfügung. Kann wegen der Pest, der nun auch Ulpian [Beyel] zum Opfer gefallen ist, nicht nach Basel zurückkehren und möchte bis
+zum Ende von Sturms Dialektikvorlesung bleiben; bittet um Rat. Grüße und Neujahrswünsche.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Recepi a Quirino<f1>Quirinus von Leiden.<fe> pridie nonas decembris<f1>4. Dezember.<fe> literas tuas<f1>Nicht
+erhalten.<fe>, patrone humanissime, 10. novembris scriptas, ex quibus facile colligere potui literas meas<f1>Der einzige Brief,
+der Bullinger am 10. November schon hätte vorliegen können, ist jener vom 30. Oktober (oben Nr. 1191).<fe> nondum ad te pervenisse, cum ego iam non semel ad te scripserim<f1>Vgl. die
+Briefe vom 15. und 26. November (oben Nr. 1198 und 1201).<fe>, vitę et studiorum meorum rationem tibi plurimis adumbrans.
+Verum cum literę meę Basileam semper mittendę sint, non mirum est, si illic diutius detinentur, usque dum commodus illis
+ad vos occurrit tabellarius.
+^$Secundum vero, quod in literis tuis ad me datis perspexi,
+animum meum partim commovit dolore, partim gaudio replevit,
+cum scilicet amicissimam illam tuam de sumptuum meorum
+magnitudine admonitionem perlegerem. Hinc enim,
+pręceptor observande, manifeste cernere possum paternum
+illum affectum tuum erga me iam olim conceptum nondum animo
+excidisse, sed te mei curam sedulam gerere, pro qua gratias
+tibi ago ingentes relaturus etiam, si quando vel tibi vel
+liberis tuis inserviendi dabitur occasio. Curabo denique, ne
+vel sumptus mei excellentia aut aliqua alia re offensus
+benevolentiam illam tuam a me alienas. Admonitiones autem
+tuas tantum abest ut refugiam, quin magis summo animi
+gaudio amplector,
+<gr>oy̆ gàr tó ge</gr><fx>^#/+nach ^#/-<gr>ge</gr> ^#/+zwei gestrichene Buchstaben.^#/-<fe> <gr>gnṽnaí ti tṽn mh̀ kalṽn ^%)/atimon</gr> (ut
+Platonem dicentem audio<fx>^#/+Die von Gwalther teilweise fehlerhaft gesetzten Akzente wurden korrigiert.^#/-<fe><f1>Plato, Leges, 635a/b.<fe>),
+<gr>ăllà ^%)/iasin ĕj ay̆toỹ symbaínei gígnesuai t^ṽ mh̀ fuón^v tà
+legómena ăllà ey̆noíä dexomén^v</gr>.
+^$Verum ut certam impensarum mearum rationem habeas, omnia
+paucis sic accipe: Inceperat Oporinus Blutarchi<fx>^#/+vor ^#/--i ^#/+ein gestrichener Buchstabe.^#/-<fe> Vitas
+praelegere; cuius cum ego auditor essem nec eius mihi
+autoris esset copia, non inutile fore putavi, si eum mihi
+compararem<f1>Vgl. oben Nr. 1189, 8-10.<fe>. Statueram enim (nec adhuc instituti poenituit)
+totum eum autorem percurrere, ut Latinę Livianae
+lectioni<f1>Vgl. oben Nr. 1174, 14 mit Anm. 3.<fe> Gręcam adiungerem. Cum vero iam repente a
+Basilea abeundum esset, nummi quidem mihi erant, qui etiam
+floreni summam excedebant; ego autem animi praesagio
+admonitus putavi parum tutum esse in eum me locum conferre
+omnino exhaustum et ad eos venire, ad quos nemini
+commendatus accedebam. Metuebam enim, ne mihi in diversorio
+aliquo morandum esset, antequam hospitium aliquod
+nanciscerer. Navim itaque ingressus non periculosam quidem,
+sed incommodissimam navigationem habui; quarto enim demum
+die Argentinam perveni ventis adeo importunis ortis, ut
+multis in locis per aliquot horas comorandum et Brisaci<f1>Breisach am Rhein.<fe> per
+integrum diem manendum esset. Et certe parum prospere mecum
+actum esset, nisi nummos hos a Miconii uxore<f1>Margret.<fe> accomodato<fx>^#/+Wortende undeutlich korrigiert.^#/-<fe>
+sumpsissem. Quod alia attinet, sancte tibi polliceri audeo<fx>^#/+in der Vorlage ^#/-audio.<fe>
+me inutili modo nihil prorsus insumpsisse, cuius rei non
+dubito etiam Miconium testem citare eiusque familiam. Nisi
+enim a Basilea abeundum fuisset, satis mihi nummorum
+fuisset, usque dum solutionis tempus advenisset<f1>Das Stipendium wurde an den Quatembertagen (Fronfasten) ausbezahlt; vgl. die Rechnungen des Studentenamtes (Zürich StA, G II 39. 1).<fe>.
+^$Quod vero praesentes impensas meas attinet, quid agam,
+nescio; nunc vero de his te interturbare denuo nolo. Spero
+enim te a Basilea et Schafhusia literas meas de his agentes
+nunc accepisse. Victum apud neminem viliori pretio invenire
+potui <vl>2769v.</vl> quam viginti septem florenis Argentinensis
+monetae, qui propemodum 29 nostrę mon[e]tae<fx-t>^#/+Rand beschädigt.^#/-<fe> afficiunt<fx>^#/+korrigiert aus sufficiunt.^#/-<fe>.
+Dasypodius enim non minoris quam 20 coronatis aliquem in
+aedes suas recipit. Neminem, ad quem diverterem, habebam
+praeter unum Bed[ro]tum<fx-x>^#/+Rand beschädigt.^#/-<fe>, qui mihi se obtulit, licet studiis
+meis locum domi suę dare non po[s]set<fx-x>^#/+Rand beschädigt.^#/-<fe>. Sed adfuit mihi in
+his Martinus Beyer<f1>Martin Peyer.<fe> Schafhusianus, qui me in su[um]<fx-x>^#/+Rand beschädigt.^#/-<fe> hypocaustum, quod conduxerat, recepit.
+^$Diutius me hic morari no[n]<fx-x>^#/+Rand beschädigt.^#/-<fe> posse video; Basileam autem pestis minime relinquit, quae etiam nunc Ulpi[a]num<fx-x>^#/+Rand beschädigt.^#/-<fe><f1>Ulpian Beyel.<fe> nostrum confecit. Cuperem autem
+maxime hic manere usque ad futuras Franckfordianas nundinas<f1>Vgl. oben Nr. 1198, Anm. 4.<fe>;
+tunc enim dialecticę finem imponere poterit Sturmius. Tuo
+nunc me consilio subleva, obsec[ro]<fx-x>^#/+Rand beschädigt.^#/-<fe>.
+^$Novi, quod scribam, nihil est; quare nunc cesso.
+Salutabis nomine meo matrem<f1>Anna, geb. Wiederkehr.<fe> et uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam honestissimam et
+totum familiae tuę coetum. Quibus ego omnibus imprecor,
+ut novus annus te praeside ipsis lętus incipiat,
+lętus elabatur lętumque finem habeat.
+^$Vale bene, patrone unice, et Rodolphum tuum semper tibi commendatum [ha]beto<fx-x>^#/+Rand beschädigt.^#/-<fe>.
+^$Argentinę, non[is] decemb[ris] 1538.
+<un>Tui observantissimus Rod.
+<un>Gvalterus tuus.
+<lz>[Adresse darunter:] Vere pio et erudito virod. Heinricho Bullingero, patrono et praeceptori suo unice colendo.
+</content>
+</letter>

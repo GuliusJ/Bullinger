@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1089">
+<nr>1089</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>5. Januar 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 145 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Konnte in seinem letzten Brief [Nr. 1086] noch nicht über die Antwort des Rates auf die Mahnung aus Zürich berichten; die
+Ablehnung [des von Zürich gewünschten Verzichts auf die Katechismusrevision] wird ihnen inzwischen bekannt sein. Will
+[nach Zürich] zurückkehren, sobald eine Unterkunft für ihn bereitsteht; hat gehört, das Haus von Bürgermeister [Matthias]
+Wyß stehe leer.
+</re>
+<tx>Gratiam a domino.
+^$Nihil est, quod scribam, charissimi fratres; novissime enim
+quam potui paucis ecclesię nostrę faciem vobis ostendi
+et apperui<f1>Siehe HBBW VII, Nr. 1086.<fe>. Unum postremis ad vos meis deerat, senatus videlicet ac populi nostri super amica
+Tigurinorum admonicione<f1>Der Zürcher Rat hatte Bern am 27. Dezember in einem ausführlichen Schreiben ersucht, von einer
+Neufassung des Katechismus abzusehen, da man doch vereinbart habe, bei dem an Luther gesandten Bekenntnis zu bleiben und
+nichts ohne Absprache zu ändern (Entwurf: Zürich StA, B IV 8, 198r.-199v.; Abschriften: ebd., E I 1. 2b und E II 338,
+1376r.-1377r.).<fe> decretum et sentencia. Nec tamen negligencia factum est, quominus hanc receperitis; me enim
+scribente senatus populusque noster dimissus adhuc erat. Et
+quia non dubito iam pridem vobis constare ac notum esse,
+literę magnificorum dominorum Tigurinorum apud nos quid
+effecerint ac potuerint, in praesenciarum opus non est
+multis illud vobis ostendere; in summa<f1>Die Antwort Berns vom 31. Dezember ist gedruckt in: Karl ^#/+Schweizer,^#/- Die Berner
+Katechismen im 16. Jahrhundert, in: Theologische Zeitschrift aus der Schweiz VIII, 1891, S. 94f (Original in: Zürich StA, E I 1.
+2b; Entwurf: Bern StA, A III 24, 572-574; vgl. die diesbezüglichen Notizen im Ratsmanual, Bern StA, A II 132, 25f).<fe>: "Nolumus mutatum
+institutum, tametsi nonunquam ad immutandum[?] simus faciles,
+nec eciam novum hic quicquam esse strenue adserimus." Faxit
+deus, ut omnium nostrorum mutentur animi omniaque in domini
+gloriam cedant, quę agimus.
+^$Ego indies anxie et sollicite<fx>^#/+in der Vorlage^#/- sollicte.<fe>
+nuncium expecto de conductis ędibus. Hoc enim accepto
+primo quoque die hinc solvam. Ferunt ędes consulis
+Wyssen<f1>Dem 1528 verstorbenen Bürgermeister Matthias Wyß gehörte das Haus "Zum Mond" an der Storchengasse 2 (s. ^#/+Vögelin,^#/- Das alte Zürich I 486).
+^&xBei Corrodi-Sulzer nichts Näheres.^&x{<fe>
+vel vacuas esse vel una solum
+muliercula<f1>Unbekannt.<fe> obstetrice occupatas. Curate, obsecro, ut domum habeam idque brevi rescire.
+^$Bernę, quinta ianuarii anno 38.
+<un>Megand. totus vester.
+<lz>[Adresse auf der Rückseite:] Tiguri verbi praeconibus
+Bullingero, Leoni piis ac vigilantissimis, in domino
+fratribus suis charissimis.
+</content>
+</letter>

@@ -1,5 +1,6 @@
 #!/bin/bash
-#run.sh
+#localhost_
+run.sh
 
 source venv/bin/activate
 export FLASK_APP=App.py

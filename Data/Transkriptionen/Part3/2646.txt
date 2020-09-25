@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2646">
+<brief>
+<id>16336</id>
+<nr>2646</nr> <from persid="SchulerGervasius"/> <to persid="Bullinger"/> <place plid="Memmingen"/> <date when="1546-10-28"/>
+<ae>Gervasius Schuler an Bullinger</ae>
+<od>[Memmingen], 28. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 351, 184 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie)</k></dr>
+<re><t>Vor einigen Tagen wollte Schuler durch den im Auftrag des [Memminger] Rates nach Konstanz entsandten [Alt]bürgermeister [Balthasar] Funk einen Brief [nicht erhalten] an Bullinger übermitteln. Wegen der durch die herumstreifenden Feinde bestehenden Gefahr weigerte Funk sich jedoch, den Brief mitzunehmen. Schuler schreibt nun mit einem nach Zürich abgehenden Boten [...].</t>
+<t>Trotz der Kriegswirren geht es (Gott sei Dank) gut, auch wenn die vielen Ereignisse widersprüchliche Gerüchte hervorbringen. Die auf Gott Vertrauenden erhoffen sich einen glücklicheren Ausgang des Krieges als denjenigen, mit dem die Feinde drohen.</t>
+<t>Gerade lagert das Herr des Kaisers [Karl V.] bei Giengen, das [schmalkaldische] Heer etwa 2 km davon entfernt. Täglich kommt es zu Scharmützeln unter Gefährdung beider Seiten, besonders aber der des Kaisers, der kürzlich mit den Grafen [Gian Giacomo de' Medici, Kastellan von] Musso, [Eriprando] Madruzzo, [Vladislaus von] Bernstein und [...] von Bayern einige seiner besten Männer verloren hat.</t>
+<t>Das Heer des Landgrafen [Philipp von Hessen] hat schon fünfmal den Feind zum Kampf herausgefordert, der Kaiser aber hat sich diesem stets entzogen. Schuler ahnt den Grund, kann jedoch darüber erst schreiben, wenn dies weniger gefährlich ist.</t>
+<t>Man erwartet die Eidgenossen schon seit einigen Tagen. Warum [ihr Angriff] sich verzögert, weiß Schuler nicht.</t>
+<t>Gleich einem Orakel behauptet man, dass es Gott gefällig wäre, wenn Deutschland einen Frieden [mit dem Kaiser] schlösse; ansonsten würde es untergehen!</t>
+<t>Schuler könnte vieles schreiben, doch wäre es nicht klug, dies dem Papier anzuvertrauen. Der Herr bewahre seine Kirche! Grüße an Bullingers Frau [Anna, geb. Adlischwyler] und an [Konrad] Pellikan.</t></re>
+<text>
+<div>
+<p>Gratiam et pacem a domino per Iesum Christum, servatorem nostrum. <zzl>zl16336-1A</zzl>Scripseram praeteritis diebus ad te, amice incomparabilis, per Funckium, consulem nostrum
+<fn>Balthasar Funk, der 1546 nicht als Bürgermeister amtierte. 1546 wurde dieses Amt von Jörg Triesch (I.) bekleidet; s. Peer <i>Frieß</i>, Die Außenpolitik der Reichsstadt Memmingen in der Reformationszeit (1517-1555), Memmingen 1993 - Memminger Forschungen 4, S. 240f, Nr. 6 (Funk); S. 245, Nr. 21 (Triesch).<zfn>fn16336-2</zfn></fn>, deferendas literas
+<fn>Nicht erhalten.</fn>, qui iam ex commissione senatus Constantiam abiturus erat. <zzl>zl16336-11A</zzl>Sed noluit literas a me accipere propter periculum hostium hincinde discursantium.<zzl>zl16336-1E</zzl><zzl>zl16336-11E</zzl> Modo praesentium
+<fn>Zu verstehen ist: praesentium literarum.</fn> lator
+<fn>Unbekannt.</fn> Tigurum abiturus ad me venit, cui literas
+<fn>Entweder der oben in Z. <qv>zl16336-1</qv> erwähnte und nicht mehr erhaltene Brief und das vorliegende Begleitschreiben oder (was eher der Fall gewesen sein wird) nur vorliegender Brief, der den erwähnten ersetzen sollte.</fn> commendare placuit.</p>
+</div>
+<div>
+<p>In hoc bellico tumultu bene valemus per dominum apud nos, licet pro varietate casuum alii atque alii rumores ingruant. Sed nos in domino confisi speramus letiorem exitum, quam ut hostes nostri minentur.</p>
+</div>
+<div>
+<p>Dum hec scribo, exercitus Karoli
+<fn>Karl V.</fn> prope Giengen
+<fn>Giengen an der Brenz (Lkr. Heidenheim, Baden-Württemberg).</fn> castramentatur
+<fn>castrametari: das Lager aufschlagen.</fn>. <zzl>zl16336-8A</zzl>Protestantium exercitus ad quartam partem miliaris
+<fn>Also etwa 2 km; vgl. <qv>nr2635</qv>,<qv>zl16325-9</qv>.</fn> ab illo castra fixit.<zzl>zl16336-8E</zzl> Cottidie in particulares conflictus itur non sine periculo utriusque partis, maiori
+<fa><i>In der Vorlage</i> maioris.</fa> tamen Karoli, <zzl>zl16336-5A</zzl>qui nuper amisit comitem a Myß
+<fn>Gian Giacomo de' Medici di' Marignano, Kastellan von Musso; s. <qv>nr2643</qv>, <qv>fn16333-2</qv>.</fn>, alium a Madrutz
+<fn>Eriprando Madruzzo; s. <qv>nr2643</qv>, <qv>fn16333-1</qv>.</fn>, <zzl>zl16336-2A</zzl>tertium a Bernstain
+<fn>Vladislaus von Bernstein; s. <qv>nr2643</qv>, <qv>fn16333-3</qv>.</fn>,<zzl>zl16336-2E</zzl> <zzl>zl16336-3A</zzl>quartum a Beyren<zzl>zl16336-3E</zzl>
+<fn>Unbekannt. In A 177, Nr. 112, wird stattdessen ein Graf von "Premen" [Bremen] erwähnt.</fn> - viros, ut audio, in re bellica Karolo gratissimos.
+<fn>Ein falsches Gerücht; s. dazu die Anm. zu <qv>nr2643</qv>,<qv>zl16333-4</qv>.</fn><zzl>zl16336-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16336-6A</zzl>Exercitus landgravii
+<fn>Philipp von Hessen.</fn> iam quinquies tentavit congredi cum hoste, sed Carolus semper discescit
+<fn>discessit.</fn>. <zzl>zl16336-10A</zzl>Quid in votis habeat, liceret michi divinare, ubi tutum foret literis rem tractare.<zzl>zl16336-6E</zzl><zzl>zl16336-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16336-4A</zzl>Helvetii expectabantur ante aliquot dies,
+<fn>Zum damals erwarteten Eintritt der Eidgenossen in den Krieg s. <qv>nr2605</qv>, <qv>fn16293-1</qv>; <qv>nr2613</qv>,<qv>zl16300-14</qv>; <qv>nr2615</qv>,<qv>zl16305-9</qv>; und ganz besonders <qv>nr2639</qv>,<qv>zl16329-8</qv>.<zfn>fn16336-1</zfn></fn> sed qui fiat, ut remorentur, nescio.<zzl>zl16336-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16336-7A</zzl>In summa oraculum est, ut pax deo grata ineatur, alias enim Germania pr{e}da hostibus futura est.<zzl>zl16336-7E</zzl></p>
+</div>
+<div>
+<p>Ego iam possem multa scribere, sed nichil tutum est horum
+<fa><i>Lesung unsicher. Sollte diese stimmen, ist</i> horum <i>in Bezug auf</i> multa <i>zu verstehen</i>.</fa> chardis
+<fn>chartis; vgl. <a>Stotz</a> III 223-227.</fn> demandare. Dominus te diu ecclesiae servet incolumem. Saluta
+<fa><i>In der Vorlage</i> Salutam.</fa> uxorem tuam
+<fn>Anna, geb. Adlischwyler.</fn> nomine meo et d. Pellicanum. Dat{e} N., 28. octobris anno 1546.</p>
+<un><zzl>zl16336-9A</zzl>G. S. T[uus],</un>
+<un>amicus tuus tibi e manu</un>
+<un>notissimus.
+<fa><i>Darunter von einer späteren Hand</i> Gervas. Schuler.</fa><zzl>zl16336-9E</zzl></un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An herr Heynrich Bullinger, prediger zu Zürich etc.</p>
+</div>
+</text>
+</brief>

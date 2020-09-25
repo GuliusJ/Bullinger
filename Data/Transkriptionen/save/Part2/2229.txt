@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2229">
+<nr>2229</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>28. August [1545]</date>
+	<note>Das Jahr ergibt sich zweifelsfrei aus den im Brief übermittelten Nachrichten. Ferner wird hier auf Bullingers Brief vom 26. August 1545 (oben Nr. 2226) Bezug genommen.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 627 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 382f, Nr. 1208</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 4 ^&x{
+<re>Blarer hat am Vortag durch den [Zürcher] Boten [...] mehr Nachrichten übermittelt [Nr. 2227]. Er dankt für den Brief [des Johannes a Lasco an Bucer vom 23. Juni 1545], den er abschreiben und durch Matthäus [Molckenpur] oder [Katharina] von Zimmern zurücksenden wird. Was er bisher von [a Lascos] Brief und Buch ["Defensio verae doctrinae"] gelesen hat, gefällt ihm gut.
+-^#. Er dankt für die Bemühungen um [Konrad] Curio [Hofherr]; möge dieser den Erwartungen gerecht werden!
+-^#. Der Tod [Kaspar] Meganders ist ein schmerzhafter Verlust für Blarer und die Kirche. Blarer hörte, dass Megander bei vielen verhasst war, weil er strenge Sittenzucht forderte. Möge man einen würdigen Nachfolger finden!
+-^#. Über den Ausgang des Reichstags [zu Worms] ist nichts zu berichten. Alle Beschlüsse wurden auf einen anderen Reichstag [in Regensburg] auf den [6.] Januar [1546] verschoben. Matthäus [Molckenpur], der einer der Gesandten [Konstanz'] war, wird Bullinger gerne darüber berichten. Bullinger soll gegenüber Molckenpur nicht Blarers Schreiben [oben Nr. 2227] erwähnen.
+-^#. Blarer empfiehlt den guten [Thomas Grunder].
+-^#. Grüße.
+-^#. [P.S.:] Grüße an Theodor [Bibliander], der die Mühlen[skizze Gerhard Westerburgs schicken soll].</re>
+<tx>Heri per vestrum tabellionem<f1>Unbekannt; derselbe wie oben Nr. 2227, 98. 111.<fe> pluribus ad te de nostris et communibus rebus.<f1>Im Brief oben Nr. 2227 vom 27. August 1545.<fe>
+Gratiam habeo pro epistola<f1>Gemeint ist der Brief Johannes a Lascos an Bucer vom 23. Juni 1545, den Bullinger am 26. August 1545 an Blarer geschickt hatte; s. oben Nr. 2226, 5f.<fe>, quam tamen meo quodam in te tuaque iure describendam etiamnum retineo.
+Certissime per nostrum Mattheum<f1>Matthäus Molckenpur, der Anfang September zur Vermittlung zwischen den Schmalkaldenern und den Eidgenossen nach Zürich entsandt wurde; s. oben Nr. 2227, Anm. 4.<fe> hanc missurus aut certe per nobilem ac piam fęminam a Zimmern<f1>Katharina von Zimmern, geb. 1478 in Meßkirch (Kr. Sigmaringen), gest. 17. August 1547 in Zürich. 1494 Gelübde im Zürcher Fraumünster, 1496 Äbtissin. Sie schloss sich der Reformation unter Zwingli an und übergab am 7. Dezember 1524 das Kloster an die Stadt Zürich. 1525 Heirat mit Eberhard von Reischach (gest. 1531). Von 1540 bis zu ihrem Tod lebte von Zimmern in Zürich. - Lit.: Zürichs letzte Äbtissin Katharina von Zimmern 1478-1547, hg. v. Irene Gysel und Barbara Helbling, Zürich 1999 (mit weiterer Lit.).<fe>, quę ultima huius<f1>Am 31. August 1545.<fe> istuc rursum proficiscetur.
+Puto enim tantisper per te, dum per alterutrum accipias, carere illa nulla incommoditate posse. Descriptio nemini fuerit fraudi, nam mihi uni servabo.
+Gustus et huius<f1>Zu ergänzen: epistolae; s. oben Anm. 4.<fe> et libelli<f1>A Lascos "Defensio verae doctrinae", die Bullinger auch an Blarer versandt hatte; s. oben Nr. 2226 und Anm. 7.<fe> maximopere mihi probatur. Nondum enim totum evolvi.
+^$Quod de Curione<f1>Konrad Hofherr.<fe> tam sollicitus es, maximam habeo gratiam. Sic enim tuo beneficio fore spero, ut expectationi nostrę respondeat.<f1>Zu Hofherr s. zuletzt oben Nr. 2226, 8f.<fe>
+^$Megandrum vestrum ecclesię alieno profecto tempore ereptum non possum non vehementer dolere.<f1>Megander war am 17. August 1545 verstorben; s. oben Nr. 2226, 10-12.<fe>
+Accipit ille quidem nunc a pastorum principe Christo immarcescibilem glorię coronam,<f1>Vgl. 1Petr 5, 4.<fe> in gaudia domini sui admissus<f1>Vgl. Mt 25, 21. 23.<fe>.
+Interim vero ecclesia tam boni pastoris cura haud absque magna iactura destituitur in tanta praesertim fidelium ministrorum penuria.
+Audio Megandrum ob hanc praecipue caussam a multis odio habitum, quod in licentiorem vitam vehementius invexerit
+et severiorem disciplinam praeter cęteros urserit; quę res tamen<fx>tamen ^#/+über der Zeile nachgetragen.^#/-<fe> illi ab omnibus bonis laudi tribuetur.<f1>Vgl. NDB XVI 610.<fe>
+Dominus in huius locum alium dignum istac dispensatione mysteriorum suorum<f1>1Kor 4, 1.<fe> quam primum sufficiat!<f1>Nachfolger wurde Heinrich Buchter; s. oben Nr. 2226, Anm. 12.<fe> Amen.
+^$Comitiorum<f1>Der Reichstag zu Worms.<fe> exitus talis fuit, ut nihil sit, quod de illis scribere liceat.
+Omnia in aliis comitiis ad calendas ianuarii,<f1>Nämlich am Reichstag zu Regensburg, der für den 6. Januar 1546 einberufen war; s. oben Nr. 2211, Anm. 24.<fe> quę in istis orsa sunt, pertexentur pari, non dubito, felicitate.
+Matthęus noster de iis tibi plura (quandoquidem alter legatus nostrorum fuit<f1>Zusammen mit Ludwig Kürnstaller; s. oben Nr. 2146, Anm. 26.<fe>) non illubenter narraverit.
+Sed cave illi dicas me tibi scripsisse,<f1>Vgl. schon oben Nr. 2227, 22-35.<fe> quod istic propediem futurus fuerit, etc.
+^$Bonum hunc virum<f1>Wohl Thomas Grunder, der Bullingers Brief (Nr. 2226), den Blarer hier beantwortet, überbracht hatte, zumal in Bullingers Brief auch Grunders Rückreise angekündigt war; s. oben Nr. 2226, 5.<fe>, quam possum, tibi commendo.
+^$Salveat tua domus cum omnibus fratribus et amicis. Vestris apud dominum patrociniis perpetuo iuvari et peto et spero.
+^$28. augusti.
+<un>Tuus Ambr. Blaurerus.
+<lz>Theodorum nostrum<f1>Theodor Bibliander.<fe> et accuratissime saluta et molarum admone<f1>Zur Mühlenskizze Gerhard Westerburgs s. oben Nr. 2227, Anm. 60 und unten Nr. 2240, Anm. 30.<fe>.
+<lz>[Adresse auf der Rückseite:] Bullingero suo. Tiguri.
+</content>
+</letter>

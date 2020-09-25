@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1008">
+<nr>1008</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>19. Juni 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 33 (Siegelabdruck) </vo>
+<dr>Ungedruckt</dr>
+<re>Hat mit Freude von der Beilegung des Streits unter den Berner Pfarrern, von der Überwindung des Arianismus [an der
+Lausanner Synode] und von den Ereignissen in England gehört; hat selbst nichts zu schreiben, erwartet aber
+Neuigkeiten aus Augsburg und Straßburg. Bittet, Claude [d'Aliod] von einem Besuch in Konstanz abzuhalten und ihm allenfalls einen halben Gulden zu schenken, den Zwick zurückerstatten will.
+Ist wegen des Besuchs von Wolfgang [Wissenburg] in Eile. Gruß.
+</re>
+<tx>Salus et pax Christi.
+^$O deus, quantum exhilerasti me literis tuis<f1>Nicht erhalten.<fe> ob felicissima ista nuntia de sopita contentione inter fratres Bernenses<f1>Zur Berner Synode von Ende Mai s. die
+Berichte Meganders oben Nr. 999, 16-21, und unten Nr. 1010, 1-65.<fe> et
+extincto Arianismi incendio<f1>Vgl. die von Megander übermittelten und durch Bullinger auch an Vadian weitergeleiteten Nachrichten über die Lausanner Synode vom 14. Mai und den Widerruf des Antitrinitariers Claude d'Aliod, oben Nr. 999, 9-15, bzw. Nr. 1007.<fe>
+optimoque illo in<fx>in ^#/+über der Zeile nachgetragen.^#/-<fe> Anglia successu<f1>Gemeint ist die Niederschlagung des Aufstandes, der als "Pilgrimage of Grace" in die Geschichte einging; vgl. oben Nr. 984 und 1007.<fe>. Domino sint perpetuae gratiae, quod semper adstet nobis!
+Miraris autem, cur ego ad te nihil. Sed quid fingam, mi frater, si veri nihil sit prae manibus? Non sum tam natus ad
+fingendum. Patienter feras itaque silentium, donec aliqua sit scribendi occasio, quam nunc ex Augusta et Argentorato
+expecto.
+^$Unum hoc iam volo, ut, si possis, impedias Claudium illum Sabaudum<f1>Claude d'Aliod.<fe>, ne ad nos veniat aut alias ecclesias de nostris;
+non enim efficiet quicquam, nisi quod in memoriam<fx>^#/+vor^#/- memoriam^#/+ gestrichenes^#/- re.<fe> revocabit priora<fx>^#/+vor^#/- priora^#/+ gestrichenes^#/- p.<fe><f1>D'Aliod war 1534 wegen seiner Lehre aus Konstanz ausgewiesen worden; s. Vadian BW V 182f.<fe>, ut credam minus profuturum illius ad
+nostros
+adventum. Si viatico opus est illi, numera<fx>^#/+vor^#/- numera^#/+ gestrichenes^#/- d.<fe> dimidium aureum, quem ego restituam.
+^$Hęc tumultuanter; nam Basiliensis
+contionator Wolfgangus<f1>Wolfgang Wissenburg.<fe> apud nos est, quocum cogor tempus absumere. De aliis proxime.
+^$Vale diutissime cum tota familia et bonis omnibus.
+^$19. iunii 1537.<un>Tuus Io. Zwick.
+<lz>[Adresse auf der Rückseite:] Vigilantissimo Christi ministrod. Hainricho Bullingero, et domino et
+fratri suo studiosissime colendo.
+</content>
+</letter>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1758">
+<nr>1758</nr>
+<correspondents>
+	<originator fn=1>[Georg Maurer ]</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Georg Maurer war 1524-1549 Stadtschreiber von Memmingen und wurde häufig zu Tagungen entsandt. Er korrespondierte u. a. mit Zwingli, Bucer und den Gebrüdern Blarer und stand zumindest zeitweise Schwenckfeld nahe. Der vorliegende Brief ist sein einziger bekannter Schriftwechsel mit Bullinger, doch sandte er noch 1556 Nachrichten an den Zürcher Bürgermeister Johannes Haab, die ausdrücklich auch für Bullinger bestimmt waren (s. Zürich StA, A 202. 4, Memmingen Nr. 9-14). Gemäß Ratsprotokoll gab er sein Bürgerrecht am 18. November 1573 auf, vermutlich um nach Speyer zu ziehen (freundlicher Hinweis von Herrn Dr. Peer Frieß, Zorneding). - Lit.: Z XI 16, Anm. 1; ^&xFritz ^#/+Braun,^#/- Memminger Stadtschreiber im Mittelalter, in: Memminger Geschichtsblätter 1958, S. 3; ^&x{Barbara ^#/+Kroe­mer,^#/- Die Einführung der Reformation in Memmingen. Über die Bedeutung ihrer sozialen, politischen und wirtschaftlichen Faktoren, in: Memminger Geschichtsblätter 1980, S. 181; Hans-Christoph ^#/+Rublack,^#/- Zwei neugefundene Stücke zum Blarer-Briefwechsel, in: BWKG 66/67, 1966/67, S. 27-34 (bes. S. 30f, Anm. 25); Peer ^#/+Frieß,^#/- Die Außenpolitik der Reichsstadt Memmingen in der Reformationszeit (1517-1555), Memmingen 1993. - Memminger Forschungen 4, S. 243. 255f; ^#/+ders.,^#/- Die Bedeutung der Stadtschreiber für die Reformation der süddeutschen Reichsstädte, in: ARG LXXXIX, 1998, S. 96-124 (bes. S. 113f).</note>
+</correspondents>
+<space_time>
+	<place>[Memmingen</place>
+	<date>Ende Juni / Anfang Juli 1543]</date>
+	<note>Die Datierung ergibt sich aus der Erwähnung der Ankunft des Kaiser sowie des bevorstehenden Städtetags in Frankfurt; vgl. unten Anm. 4f.</note>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkung Bullingers:^#/- Nudius tertius ista a Memmingensi scriba accepi. ^#/+Auf der Rückseite ein durchgestrichenes Fragment eines Schreibens von Maurer.^#/-<fe>: Zürich StA, E II 343a, 283a</vo>
+<dr>Ungedruckt</dr>
+<re>Felix Pfest wurde auf den Städtetag [vom 8. Juli] in Frankfurt abgeordnet. Kaiser [Karl V.] soll wegen des Krieges in den Niederlanden auf dem Weg nach Süddeutschland sein; laut zuverlässigen Informationen ist der Türke [Sultan Suleiman I.] persönlich mit einem Heer von 300'000 Mann am selben Tag in Belgrad angekommen wie der Kaiser in Genua [25. Mai 1543] und zieht auf Wien zu; er befindet sich jetzt wohl in Ofen [Buda] oder noch weiter [donau-]aufwärts.</re>
+<tx>Lieber herr und bruder.
+^$Gen Franckfurt ist Felix Pfest<f1>Felix Pfest war 1532-1533 Mitglied des Memminger Stadtgerichts, Geheimer Rat 1538-1539, 1544, 1546-48 und 1551-1558 sowie Spitalmeister 1538-1548. 1550 bekleidete er das Memminger Bürgermeisteramt. - Lit.: ^#/+Frieß,^#/- Außenpolitik, S. 243; Peter ^#/+Eitel,^#/- Die oberschwäbischen Reichsstädte im Zeitalter der Zunftherrschaft. Untersuchungen zu ihrer politischen und sozialen Struktur unter besonderer Berücksichtigung der Städte Lindau, Memmingen, Ravensburg und Ueberlingen, Stuttgart 1970. - Schriften zur südwestdeutschen Landeskunde 8, S. 218.<fe> uff den stettag<f1>Der ursprünglich auf den 17. Juni 1543 festgesetzte Termin für den Städtetag in Frankfurt wurde auf Bitten Straßburgs auf den 8. Juli verschoben, vgl. PC III 385.<fe>
+verordnet. Key[serliche] m[ajesta]t soll uff Kempten,
+Memmingen, Ulm und Speir zu herauß in Teutschland komen,<f1>Kaiser Karl V. traf am 16. Juli in Memmingen ein; s. Peer ^#/+Frieß,^#/- Der Kaiser kommt in die Stadt. Inszenierte Höhepunkte einer schwierigen Beziehung, in: Das Reich in der Region während des Spätmittelalters und der Frühen Neuzeit, hg. von Rolf Kießling und Sabine Ullmann, Konstanz 2005. - Forum Suevicum 6, S. 27-60, hier S. 46-49.<fe>
+dan der krieg im Niderland hefftig angat. So ist der Türg<f1>Sultan Suleiman I.<fe>,
+hat man gewiß zeittung, ob 300'000 starckh ze Kriechisch
+Weissenburg<f1>Belgrad.<fe> aigner person uff den tag ankomen, alls k. mt.
+ze Genua ankumen,<f1>25. Mai 1543, s. ^#/+Stälin^#/- 576.<fe> und zeucht den nechsten auff Wien zu; acht<f1>ich vermute.<fe>, er sy jetz zu Offen<f1>Buda.<fe> oder noch bas<f1>weiter.<fe> herauff.<f1>Zum Ungarn-Feldzug dieses Sommers vgl. ^#/+Hammer-Purgstall^#/- III 248-261.<fe>
+<lz>[Ohne Adresse.]
+</content>
+</letter>

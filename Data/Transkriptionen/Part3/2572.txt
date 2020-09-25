@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2572">
+<brief>
+<id>16260</id>
+<nr>2572</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 7. September [1546]
+<fn>Das Jahr ergibt sich aus dem Inhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 690f (Siegelfragment)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 501-503, <br/>Nr. 1341<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 133 </k></dr>
+<re>Da Bullinger alle Briefe Blarers empfangen hat, ist ja alles gut. Beiliegend ein vor zwei Tagen eingetroffener Brief [Georg] Frölichs an Blarer. Ein ähnliches Schreiben wurde auch dem Konstanzer Rat gesandt.
+<t/>Die Konstanzer haben 150 Männer nach Lindau geschickt, wo sich diese weiteren 150 bis 200 [Lindauern] anschließen werden und mit anderen die Bewachung der Klause Ehrenberg sicherstellen sollen.
+<t/>Viele betrachten die verheerenden Blitzeinschläge in Mechelen und zuvor schon [im Königreich] Neapel als ganz schlechtes Omen für Kaiser [Karl V.] und Papst [Paul III.]. Wer würde angesichts dessen nicht eine baldige Befreiung der Kirche für wahrscheinlich halten?
+<t/>Das niederländische Heer wurde aufgelöst oder abgehalten, sich mit dem Heer des Kaisers zu vereinigen.
+<t/>[König] Ferdinand hat sich schon mehr als einmal als Feind [der Schmalkaldener] entpuppt.
+<t/>Ehe Blarer seinen letzten Brief [<qv>nr2558</qv>] abfasste, konnte er einige Stellen von Bullingers [Lukas]kommentar ansehen und sich dabei an der Würdigung Luthers durch Bullinger sehr erfreuen. Kürzlich hat er [Hans] Welser über die an diesen gerichtete Widmung [in Bullingers Lukaskommentar] geschrieben. Welser wird sich bestimmt darüber freuen, auch wenn er kein Latein versteht.
+<t/>Blarer empfiehlt [Hans] Schöner.
+<t/>Da [der Krieg] Bullinger offensichtlich sehr beschäftigt, würde Blarer diesen gerne öfter mit Nachrichten versehen; nur steht ihm manchmal kein Bote zur Verfügung, dann fehlt ihm wieder die Zeit dazu, oder gibt es nichts Mitteilenswertes.
+<t/>Es sollen immer mehr italienische [Truppen vor der Klause Ehrenberg] zusammenkommen. Die [Schmalkaldener] werden jedoch diese davon abhalten, sich den Truppen des Kaisers anzuschließen.
+<t/>Die Auswirkungen des Tages zu Aarau muss man Gott überlassen.
+<t/>Blarer freut sich [aber] über den guten Willen, den die Eidgenossen den Schmalkaldenern gegenüber bekunden.
+<t/>Er wird Bullinger weiterhin über die Kriegsentwicklung informieren.
+<t/>Der [Rat von] Augsburg hat Konstanz und wohl auch Zürich um die Entsendung von Predigern gebeten. Am Vortag verordnete man [Johannes] Schnell nach Sonthofen im Allgäu sowie Johannes Jung nach Leutkirch, wo [Johannes] Fabri lange für Irrlehren gesorgt hat. Der dritte Prediger [Martin Wetzler] begleitet nun die [nach Lindau] entsandten Soldaten.
+<t/>Soeben erfuhr der Rat, dass die [Schmalkaldener] die Klause Ehrenberg aufgegeben haben! Genaueres darüber weiß man nicht. Wie bestürzend!
+<t/>Auch [Maximilian von Egmont, Graf von] Büren, konnte mit 7'000 Reitern und 20'000 Fußsoldaten den Main ungehindert überqueren und kann nun zum Kaiser gelangen! Dieser hält sich verschanzt und wartet auf Büren. Blarer wusste es ja: [Die Schmalkaldener] müssen zuerst noch etwas durchmachen, ehe Gott ihre Feinde bestrafen wird!
+<t/>König [Ferdinand] wollte den Böhmen eine vierjährige Steuer auf Hab und Gut zur Finanzierung des Kriegs auferlegen. Sie lehnten dies ab mit der Begründung, dass der Krieg sie nicht betreffe. Als Ferdinand die Gesandten gefangen nehmen ließ, kam es in Prag zum Aufstand, was den König dazu bewog, die Verhafteten wieder freizulassen.
+<t/>Bullinger wird all dies wohl schon aus den Briefen des [Konstanzer Rats] an den [Zürcher Rat] erfahren haben. Fest steht, dass Gott uns das ewige Leben schenken wird!</re>
+<text>
+<p>S. Bene vero habet, mi observande Bullingere, postquam meas omnes accepisti.
+<fn>Zur unbegründeten Sorge um verloren gegangene Briefe s. zuletzt <qv>nr2562</qv>,<qv>zl16253-13</qv>.</fn> <zzl>zl16260-17A</zzl>Nunc mitto, que L{e}tus
+<fn>Georg Frölich.</fn> nudius tertius ad me dedit<zzl>zl16260-17E</zzl>
+<fn>Nicht in <a>Blarer BW</a>.</fn> qu{e}que ad nostrum etiam senatum scripta sunt.</p>
+<p><zzl>zl16260-2A</zzl>Hodie ex nostris missi sunt 150 selecti milites
+<fn>Zu diesen Soldaten s. die Briefe des Konstanzer Rates an den Zürcher Rat vom 7. September (Zürich StA, A 205/1, Nr. 225f) und vom 16. September 1546 (Zürich StA, A 177, Nr. 33).</fn> Lindavium, ubi totidem aut forte 200 addentur, qui cum aliis nonnullis
+<fn>Darunter befanden sich auch Truppen, die von Augsburg aus geschickt wurden; s. <qv>nr2573</qv>, <qv>fn16262-4</qv>.</fn> apud castrum Erenfels
+<fn>Zum Kampf um die Klause Ehrenberg s. <qv>nr2542</qv>, <qv>fn16229-1</qv>. Die Schmalkaldener hatten diese aber bereits am 5. September aufgegeben; s. unten Z. <qv>zl16260-1</qv>.</fn> advigilabunt, ne periculum ex faucibus istis accidat. <zzl>zl16260-2E</zzl></p>
+<p><zzl>zl16260-12A</zzl>Fulminum terrifica vis hoc magis a multis in malum omen caesaris
+<fn>Karl V.</fn> et pontificis
+<fn>Paul III.</fn> rapitur, quod non pridem ante ista, qu{e} Mechlin{e} acciderunt,
+<fn>Siehe dazu <qv>nr2551</qv>, <qv>fn16240-1</qv>.</fn><zzl>zl16260-12E</zzl> <zzl>zl16260-13A</zzl>nihilo clementiora Neapolis accidisse
+<fn>Die Geschehnisse bei Lecce (Apulien, damals Königreich Neapel) vom 12. Juni sind geschildert in der Schrift: Beschreibung der grausamen erschrocklichen geschicht vom Himmel herab, [Augsburg] 1546, f. Aiv,r. (<a>VD16</a> B2213). Siehe dazu <qv>nr2519</qv>, <qv>fn16208-1</qv>.<zfn>fn16260-1</zfn></fn><zzl>zl16260-13E</zzl> certo affirmentur, ut nihil dubitent ista hostibus nostris extrema portendere. Quibus quis, obsecro, vel mediocriter bonus vir non omnibus digitis subscribat vota etiam faciens, ut de malis tam plusquam gravissimis ecclesia Christi quamprimum vindicetur?</p>
+<p>Belgicus exercitus
+<fn>Das von Maximilian von Egmont, Graf von Büren, aus den Niederlanden dem Kaiser zugeführte Heer; s. Bullingers Äußerungen dazu in <qv>nr2562</qv>,<qv>zl16253-15</qv>.</fn> a nostris vel fundetur vel certe prohibebitur, quominus caesari auxiliari queat.</p>
+<p><zzl>zl16260-6A</zzl>Ferdinandus
+<fn>König Ferdinand I.</fn> non uno solum argumento
+<fn>Zur Beschlagnahmung von Gütern protestantischer Kaufleute s. <qv>nr2558</qv>, <qv>fn16248-9</qv>.</fn> se hostem nostrum declaravit. Nemo enim fictam personam diu sustinet.
+<fn>Vgl. dazu <qv>nr2562</qv>,<qv>zl16253-8</qv>.</fn><zzl>zl16260-6E</zzl></p>
+<p>Commentarios tuos
+<fn>Bullingers Lukaskommentar; s. <qv>nr2545</qv>, <qv>fn16211-1</qv>.</fn> in uno atque altero loco diligenter satis inspexeram, antequam proximas
+<fn><qv>nr2558</qv> vom 31. August/1. September.</fn> scriberem,
+<fn>Anspielung auf <qv>nr2562</qv>,<qv>zl16253-14</qv>.</fn> ubi etiam candorem tuum valde sum exosculatus, quo Martino Luthero se plane dignum testimonium tulisti.
+<fn>Bullinger, In Evangelium secundum Lucam commentariorum lib. IX, Zürich 1546, f. 110r. zu Lk 17, 26-30: "Notissimum est, quid illis hominibus [gemeint sind die zuvor angesprochenen "antichristiani"] Martinus Lutherus, beatae memoriae acerrimus romani sedis oppugnator, obiecerit, a quibus sese nondum purgare potuerunt".<zfn>fn16260-3</zfn></fn> Scripsi nuper Welsero
+<fn>Hans Welser, dem Bullinger den Lukaskommentar gewidmet hatte.</fn> de tua dedicatione,
+<fn>Nicht in <a>Blarer BW</a>.</fn> nec dubito, quin gratum illi feceris, <zzl>zl16260-3A</zzl>quantumvis non intelligat Latine.
+<fn>Vgl. dazu <qv>nr2560</qv>, <qv>fn16250-6</qv>.</fn><zzl>zl16260-3E</zzl></p>
+<p>Schönerum
+<fn>Zu Hans Schöner s. zuletzt <qv>nr2562</qv>,<qv>zl16253-2</qv>.</fn> tibi commendo.</p>
+<p><zzl>zl16260-4A</zzl>Ego tibi et multa et diligenti scriptione lubentissime gratificarer, quum praesertim te videam ea re
+<fn>Wegen des Schmalkaldischen Krieges.</fn> tantopere capi; sed interim tabellariis, interim tempore, aliquando etiam argumento deficior. Boni igitur consules, quicquid id erit, quod accipies.<zzl>zl16260-4E</zzl></p>
+<p>Italos magis atque magis agglomerari
+<fn>Vor der Klause Ehrenberg, von wo aus die italienischen Truppen nach Süddeutschland vordringen wollten. Bullingers fürchtete sich davor; s. <qv>nr2562</qv>,<qv>zl16253-7</qv>.</fn> audimus, sed fortiter obstabunt nostri, quominus caesaris copiis iungantur.</p>
+<p>Was ir mir dann vom tag z{uo} Arow geschriben haben,
+<fn>Zu Bullingers Bericht über die Tagsatzung zu Aarau vom 29. August s. <qv>nr2562</qv>,<qv>zl16253-9</qv>.</fn> m{uo}ß man gott bevelchen.</p>
+<p><zzl>zl16260-16A</zzl>Das so vyl g{uo}tz hertzens der eweren
+<fn>der Eidgenossen.</fn> gegen den unseren
+<fn>Den Schmalkaldenern.</fn> ist, des lob ich gott von hertzen.
+<fn>Anspielung auf Bullingers Überlegungen in <qv>nr2562</qv>,<qv>zl16253-11</qv>.</fn> Hoff, es solle unß z{uo} baiden tailen z{uo} g{uo}tem kommen, so man mitt truwen ainander maint und z{uo}samen setzt
+<fn>mitt truwen ainander maint und z{uo}samen setzt: miteinander vertrauensvoll umgeht und zusammenhält.</fn>.<zzl>zl16260-16E</zzl></p>
+<p>Ubi primum vel l{e}tum vel triste nuncium de belli successu accepero, curabo, ut mox resciscas.</p>
+<p><zzl>zl16260-5A</zzl><zzl>zl16260-8A</zzl>Scribunt Augustani nostris
+<fn>dem Rat von Konstanz.</fn>, puto etiam vestris
+<fn>Tatsächlich, nämlich mit einem Brief vom 1. September (Zürich StA, A 202/1, Nr. 15), mit dem die Augsburger um Pfarrer baten; s. dazu <qv>nr2560</qv>, <qv>fn16250-5</qv>. - Auch Straßburg (s. <a>PC</a> IV/1 361, Nr. 342) und Basel (s. <qv>nr2602</qv>,<qv>zl16289-6</qv>) erhielten ähnliche Anfragen.<zfn>fn16260-4</zfn></fn>, ut, si evangelii praecones habeant, quibus aliquamdiu carere possint, illuc mittant.<zzl>zl16260-8E</zzl> Nos hodie tertium
+<fn>Martin Wetzler (gest. 25. Februar 1568). Um 1530 bis 1544 Pfarrer in Tägerwilen (Kt. Thurgau), danach in Oberhofen (Kt. Thurgau). Im September 1544 wurde er Pfarrer an der Stefanskirche in Konstanz. Im Oktober 1548 musste er Konstanz verlassen und war einige Jahre in Malans (Kt. Graubünden), Güttingen (Kt. Thurgau) und Rickenbach (Kt. Thurgau oder Zürich oder Basel Landschaft?) tätig, ehe er von 1554 bis zu seinem Tode Pfarrer in Mülhausen (Mulhouse) wurde. Von ihm sind als Mitverfasser drei Briefe aus den Jahren 1566 und 1567 an Bullinger bzw. an die Zürcher Pfarrer erhalten. - Lit.: <a>Pf-Thurgau</a> 147f; <a>Rublack, Konstanz</a> 161, Nr. 49; <a>Blarer BW</a> II 754, Anm. 3; <a>Bopp-I</a> 586, Nr. 5619.<zfn>fn16260-6</zfn></fn> abmandavimus cum nostris militibus
+<fn>Gemeint sind die oben Z. <qv>zl16260-2</qv> erwähnten Soldaten.</fn>; heri seniorem Velocianum
+<fn>Johannes Schnell (Velocianus) aus Wasserburg (gest. vor 1548 in Münsterlingen), der Stiefvater Jakob Funcklins. 1521 in Freiburg i. Br. immatrikuliert. 1527/28 Helfer zu St. Stephan in Konstanz. 1539 Prediger zu St. Josef in Konstanz, 1546/47 in Leutkirch. - Lit.: <a>Rublack, Konstanz</a> 159, Nr. 39; <a>Vögeli, Schriften</a> II/2 1261f, Anm. 934; Das Stift St. Stephan in Konstanz, bearb. v. Helmut Maurer, Berlin-New York 1981 - Germania Sacra, NF 15: Das Bistum Konstanz 1, S. 426.</fn> in Algoiam, ubi officium faciet apud insignem pagum Sunthofen
+<fn>Sonthofen, Kr. Oberallgäu.</fn>; praeterea Ioannes Iungius
+<fn>Johannes Jung (Juvenalis), Pfarrer und Schulherr in Konstanz, wirkte 1545/46 für kurze Zeit in den Allgäuer Städten Kempten, Sonthofen und Leutkirch; s. <a>HBBW</a> VI 102, Anm. 3.</fn> opido Lukirch
+<fn>Leutkirch im Allgäu, Kr. Ravensburg.</fn>, quod Faber
+<fn>Johannes Fabri (Heigerlin) (1478-1541), seit 1530 Bischof von Wien. Er war gebürtig aus Leutkirch, wo er 1514 kurz als Priester wirkte, diese Stelle bis zu seinem Tod innehatte und sie mit einem Stellvertreter besetzen ließ; s. <a>Litz</a> 273f.</fn> suis impiis artibus diu dementavit, Christi evangelium uno aut altero mense ministrabit.<zzl>zl16260-5E</zzl></p>
+<p><vl>691</vl> <zzl>zl16260-1A</zzl>Yetzund sind meinen herren zeytung kommen, das die unsern die Clausß verlassen haben.
+<fn>Siehe dagegen oben Z. <qv>zl16260-2</qv>. - In <qv>nr2507</qv>, <qv>fn16197-3</qv>, findet man den Verweis auf zeitgenössische Quellen, die über die Rückeroberung der Klause berichten.</fn> Wie es z{uo}gangen seye, ob es ausß zwang des finds oder sunst beschechen, wartet man erst z{uo} vernemmen.<zzl>zl16260-1E</zzl> Ach gott, man hat liederlich
+<fn>fahrlässig.</fn> z{uo} der sach thon! Die Clauss ist gar nitt der notturfft nach
+<fn>der notturfft nach: angemessen.</fn> besetzt gewesen.</p>
+<p><zzl>zl16260-10A</zzl>So ist der von Püren
+<fn>Maximilian von Egmont, Graf von Büren, hatte den Rhein bei Bingen vom linken zum rechten Ufer überquert; s. <qv>nr2548</qv>, <qv>fn16237-3</qv>. Von dort begab er sich in Richtung Frankfurt am Main, wo er nicht durchgelassen wurde; s. <qv>nr2575</qv>,<qv>zl16263-4</qv>. Er zog nördlich von Frankfurt über Hanau, Kahl (31. August), Aschaffenburg (1. September) nach Miltenberg (3. September), wo er den Main überquerte und am 4. September in Neunkirchen (Unterfranken) lagerte. Über Tauberbischofsheim zog er nach Bad Windsheim (8. September), Fürth (10.), Feucht (11.), Neumarkt in der Oberpfalz, Deining (12.), Riedenburg (14.) und traf am 15. September im kaiserlichen Lager in Kösching bei Ingolstadt (Lkr. Eichstätt) ein; s. <a>Kannengiesser</a> 83-115; <qv>nr2560</qv>, <qv>fn16250-11</qv>.<zfn>fn16260-5</zfn></fn> uber den Men
+<fn>Main.</fn> und mag yetz zum kaiser kommen unverhindert. Ist in 7'000 starck z{uo} rosß und wol 20'000 z{uo} f{uo}sß.<zzl>zl16260-10E</zzl> <zzl>zl16260-11A</zzl>So hat sich der kaiser ingelegt
+<fn>verschanzt; vgl. <qv>nr2561</qv>,<qv>zl16252-4</qv>.</fn>, das im die unsern nitt z{uo} können.<zzl>zl16260-11E</zzl> Wirt des
+<fn>"erwarten" kann mit Genitiv konstruiert werden; s. <a>SI</a> XVI 1606.</fn> von Peuren erwarten, als
+<fn>wie.</fn> er wol kan. Aber allso soll es sein; <zzl>zl16260-15A</zzl>ich habs warlich allweg
+<fn>stets.</fn> geacht und gesagt: wir m{uo}ssend in sack
+<fn>wir m{uo}ssend in sack: wir werden in die Enge getrieben, zum Äußersten gezwungen; s. <a>SI</a> VII 607.</fn> und ob
+<fn>wegen.</fn> diser sach lyden! Aber doch wurt gott sein grosse macht entlich
+<fn>schließlich.</fn> an den finden beweysen und ehr inlegen.
+<fn>Blarers Überlegungen gehen wohl auf Mt 24, 21f, und Mk 13, 19f, Lk 17, 28-31, zurück.</fn><zzl>zl16260-15E</zzl> Dem wellen wirs bevelchen. Es m{uo}sß der r{uo}m des sygs sein
+<fn>der seine, also Gottes. - Vgl. 1Sam 17, 47.</fn> sein, wie billich. Im seye lob und preyß in ewigkait!
+<fn>Vgl. 1Tim 1, 17; Apk 5, 13; 7, 12;</fn> M{uo}ssend unser vyl drob
+<fn>darum.</fn> zegrund gohn, ey, so wirt er dapfer hertz und gaist geben, das wirs rytterlich uberwynden, gen himel fliegend
+<fn>Vgl. 1Thess 4, 17.</fn> und unsere find naher sechen lassend
+<fn>naher sechen lassend: hinterher zusehen werden.</fn>.</p>
+<p><zzl>zl16260-14A</zzl>Der könig
+<fn>Ferdinand.</fn> hat den Behemen
+<fn>Böhmen.</fn> ain vierjerigen schatzung
+<fn>Steuer.</fn> ufflegen wellen auff all ir hab und g{uo}t, ligends
+<fn>unbewegliche Güter wie Liegenschaften.</fn> und farends
+<fn>bewegliche Güter wie Geld und Hausrat.</fn>, z{uo} underhaltung diß kriegs. Aber sy habends abgeschlagen und bottschafft z{uo} ime geschickt, diewyl der krieg sy nichts belange, könen sy in s{oe}lich beschwerd nitt bewilligen. Daruff er die gesandten misshandlet und in fenknusß
+<fn>Gefängnis.</fn> gelegt. Derhalb die von Prag uffgewesen
+<fn>einen Aufstand anzettelten.</fn>. Habend sy mitt gwalt wellen ledig
+<fn>frei.</fn> machen. Welchs da der konig gemerckt, hat er sy selbs widerum ledig geben.
+<fn>Zu der von Ferdinand von den Böhmen geforderten Unterstützung des Schmalkaldischen Krieges und dem darauffolgenden böhmischen Widerstand s. <a>Bucholtz</a> VI 352-358.</fn><zzl>zl16260-14E</zzl></p>
+<p>Aber von disem allem ist nitt not zeschriben, dann
+<fn>da.</fn> mine herren die ewern des schon durch aigen botten bericht haben.
+<fn>Aus diesem Zeitraum sind ein Brief des Konstanzer Rats an den Zürcher Rat vom 5. September sowie zwei Briefe vom 7. September (Zürich StA, A 205/1, Nr. 224-226) erhalten, die jedoch nicht alle hier übermittelten Nachrichten beinhalten.</fn> Bitten gott ernstlich und trulich für unß und sine kirchen. Des dorffen
+<fn>bedürfen.</fn> wir wol! Es steht aber recht; wir m{ue}ssend uff die prob.
+<fn>Vgl. Apg 14, 22; Jak 1, 12; 1Petr 1, 7; Apk 2, 10.</fn> Der ist starck, der unß bysteht.
+<fn>Vgl. Ps 145 (Vulg. 144), 3. 14; 147 (Vulg. 146), 5f.</fn> Darum frysch uff und dran! Es gilt das ewig leben.</p>
+<p>Datum 7. septembris.</p>
+<un>[Ohne Unterschrift].</un>
+<lz/>
+<p>[Adresse auf f. [691a]v.:] Bullingero suo. Tiguri.
+<fn>Dieser Brief wurde Bullinger durch einen Angehörigen der Konstanzer Familie Armbruster übermittelt; s. <qv>nr2577</qv>, <qv>fn16266-4</qv>.</fn></p>
+</text>
+</brief>

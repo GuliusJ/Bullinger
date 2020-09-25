@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2218">
+<nr>2218</nr>
+<correspondents>
+	<originator>Adam Bartholomäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Neuburg an der Donau</place>
+	<date>19. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 308-310 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 209; Zit.: ^#/+Köhler,^#/ Bibliographia Brentiana, 808 ^&x{
+<re>Bullinger hat [in einem nicht erhaltenen Brief] zu Recht vermutet, dass Bartholomäus' längeres Schweigen seiner vielen Arbeit zuzuschreiben ist. Von Ostern bis Mitte Juli befand er sich nicht in Neuburg [an der Donau]. Kaum war er wieder zurückgekehrt, erhielt er von [Josua], dem Sohn von Bullingers Bruder [Johannes Reinhart], den Brief, dem er mit Freude entnahm, dass die Eidgenossen dem dreifach gekrönten Tier [Papst Paul III.] nicht geantwortet haben. So wie Gott allen den guten Ruf der Frommen offenbart, so offenbart er laut [Paulus] auch allen die Torheit der Unfrommen.
+-^#. Nun in Kürze die von Bullinger erbetene Darlegung von Bartholomäus' Auffassung über die Eucharistie. Uneinig ist man über die Art und Weise, wie Christus im Abendmahl gegenwärtig ist, wogegen niemand dessen Gegenwart bestreitet.
+-^#. Die Papisten glauben an eine Verwandlung von Brot und Wein in Leib und Blut Christi. Diesem Dogma kann Bartholomäus nicht zustimmen, zumal Bullinger und Vadian gezeigt haben, dass es auf Mönche zurückgeht.
+-^#. Viele Fromme und Gelehrte aber, darunter [Wolfgang] Musculus (in seinem Matthäuskommentar) und [Johannes] Brenz (in seinem Werk über das Johannes[evangelium]), glauben mit Recht, dass die Abendmahlszeichen nicht leere Zeichen sind, wenn das Wort dem Brot und dem Wein beigefügt wurde. Das Sakrament besteht nämlich aus einer Verbindung, die die Worte des Abendmahls (den "terminus") an die [Elemente] des Brotes und des Weines (das "fundamentum") anschließt. Solange diese Verbindung anhält, besteht das Sakrament. Wird aber die Verbindung unterbrochen, ist Gott nicht mehr mit den [Elementen] verbunden. Dies trifft z.B. dann zu, wenn nicht alle [Einsetzungs]worte über die [Elemente] ausgesprochen, andere Worte verwendet oder gar andere Handlungen ausgeführt werden.
+-^#. Am Beispiel der Taufe ist dies besonders ersichtlich. Erst wenn dem Wasser die Taufworte hinzugefügt werden, entsteht das Sakrament der Regenerierung. Würde man das Wasser ohne Beifügung der Taufworte verehren, als befänden sich dort der Geist [oder] Gott, wäre dies wirkungslos.
+-^#. Wie mit dem Wasser bei der Taufe der Geist verliehen wird, wenn die vom Herrn verordneten Taufworte ausgesprochen werden, so vermittelt die Eucharistie Christus und seine Verdienste, wenn die Einsetzungsworte mit den Elementen verbunden werden. Doch wie? Hier wird es schwierig. Es wäre grausam anzunehmen, wie es die Zuhörer Jesu [Joh 6, 60] taten, dass man ihn mit den Zähnen zermalme! Das wäre kein Sakrament mehr. Genauso aber hütet sich Bartholomäus davor, mit den Täufern die Zeichen als leer zu erklären! Christus wohnt dem Abendmahl bei, jedoch nicht nach irgendeiner Vorstellung, sondern wie in einem Sakrament. Bullinger wird Bartholomäus darin wohl zustimmen. Falls nicht, möge er den unbedeutenden Bartholomäus dulden.
+-^#. [Josua] wohnt nicht in Neuburg, sondern in Rain [am Lech], im Gebiet von Herzog Wilhelm [IV.] von Bayern. Als Bartholomäus zusammen mit [Josua] am [19. Juli] aß, lud er diesen zur Neuburger Messe [am 25. Juli] ein. Dieser erschien jedoch nicht, versprach aber einen Besuch.
+-^#. Das vom falschen Propheten angetriebene Tier ruft die Mächtigen dieser Welt nach Harmagedon. Möge es sich selber zum Opfer fallen, wie dies einst Achitofel geschah!
+-^#. Grüße an die Kollegen, besonders an Bibliander.</re>
+<tx>Salus multa. Silentium meum tam diuturnum, recte facis<f1>In einem nicht erhaltenen Brief Bullingers, der nach dem 20. Juni und wohl in der ersten Hälfte Juli 1545 (s. Z. 5f) geschrieben und Bullingers Neffe anvertraut wurde; s. unten Anm. 3.<fe>, vir doctissime, quod meis quidem et gravissimis occupationibus, quibus per integram aestatem huc atque illuc distractus sum, adscribis.
+Nam a festo paschatis ad medium iulium usque non fui Neoburgi<f1>Neuburg an der Donau.<fe> meo istic offitio inserviens.
+Sed quam primum peractis omnibus laboribus domum redii, en statim adolescens pellio<f1>Josua, Sohn von Johannes [Reinhart] Bullinger. Sein Besuch in Zürich ist für den 20. Juni 1545 bezeugt; s. oben Nr. 2182, 1-3; 2184, 1-3. Am 19. Juli speiste er mit Bartholomäus in Neuburg; s. unten Z. 67f.<fe>, fratris filius, de te denuo mihi adtulit gratissimas literas, in quibus praeter caetera valde me exhilaravit
+gravissimorum virorum Helvetiae et prudentia et fortitudo, quod bestiae<f1>Vgl. Apk 13f.<fe> tripliciter coronatę<f1>Das Papsttum. - Anspielung auf die dreifache Papstkrone (Tiara).<fe> etiam ad blanditias ne gry quidem<f1>Vgl. Adagia, 1, 8, 3 (ASD II/2 234, Nr. 703).<fe> responderunt.<f1>Paul III. hatte die Eidgenossen auf ihrer Tagsatzung in Baden am 14. Dezember 1544 und wiederholt am 25. Februar 1545 durch seinen Agenten Albert Rosin zur Teilnahme an der für den 15. März 1545 geplanten Eröffnung des Konzils nach Trient einladen lassen. Die Eidgenossen versprachen dem Agenten, dem Papst an der nächsten Tagsatzung zu antworten. Doch als diese Mitte Juni 1545 stattfand, ließen sie die Angelegenheit unberührt; s. EA IV/1d 437 n. 456f f. 462f zu f; Johann Georg ^#/+Mayer,^#/- Das Konzil von Trient und die Gegenreformation in der Schweiz, Stans 1901, S. 13f.<fe>
+O deus bone, "iustus es et rectum iuditium tuum"!<f1>Ps 119 (Vulg. 118), 137.<fe>
+Quemadmodum enim dominus deus piis famam nomenque ceu lumen producit omnibus suspiciendum,<f1>Vgl. Dan 12, 3; 1Thess 5, 5.<fe>
+ita impiis "<gr>^%)/anoia ay̆tṽn ^%)/ekdhloſ ^%)/estai pãsin</gr>"<f1>2Tim 3, 9: Ihre Torheit wird allen offenbar.<fe>, ut inquit apostolus<f1>Paulus.<fe>.
+^$De eucharistiae negotio minor ego sum, quam ut vel tuum vel alterius doctissimi viri scriptum iudicare possim.
+Ne vero id omnino, quod petis,<f1>Wohl in einem weiteren, nicht erhaltenen Brief Bullingers vom März 1545, dem ein Exemplar des "Warhafften Bekanntnuß" beigelegt worden war und in dem Bartholomäus um eine Beurteilung der Schrift gebeten wurde.<fe> denegare videar, en paucis meam sententiam adcipe.
+Omnes, qui iam annis aliquot de eucharistiae negotio variarunt, imo dissenserunt, in hoc tamen conveniunt,
+Christum non abesse a caena. Verum quo modo adsit, maxima est controversia apud omnes.
+^$Papistae symbola pani[s]<fx>^#/+Textverlust wegen Beschädigung des rechten Papierrandes.^#/-<fe> et calicis transsubstantiari, hoc est panem et vinum in corpus et sanguinem domini mutari, asserunt.
+His ego non accedo, presertim cum hoc dogma sero monachorum opera ecclesiis obtrusum
+tum a te,<f1>Siehe z.B. Heinrich ^#/+Bullinger,^#/- De origine erroris libri duo ... In posteriore disseritur de institutione et vi sacrae coenae domini et de origine ac progressu missae papisticae ..., Zürich, Christoph Froschauer, 1539 (s. HBBibl I 12; BZD C 277), f. 209v. 224v.-225r. 235v.-236r.<fe> tum<fx>^#/+In der Vorlage vor^#/- tum ^#/+ein ungestrichenes^#/- tu ^#/+(für ein beabsichtigtes^#/- tum^#/+), gefolgt von einem Tintenfleck.^#/-<fe> a Vadiano<f1>Joachim ^#/+Vadian,^#/- Aphorismorum libri sex de consideratione eucharistiae ..., item de ... transubstantiationis dogmate ..., praeterea qualis fuerit ritus coenae veteribus, rursus per quos, quomodo et quibus temporibus is cerimoniarum accessione auctus atque immutatus sit, [Zürich, Christoph Froschauer], 1536 (VD 16 V 11; BZD C 253), S. 105. 128. 157.<fe> tam adperte et tam fortiter<fx>^#/+In der Vorlage^#/- foriter.<fe> non solum est detectum, sed et explosum.
+^$Sunt alii multi pii et eruditi viri, qui aliud sentiunt et credunt de eucharistia, nempe verbum elemento accedere tantum,
+non etiam mutare elementum teste Augustino.<f1>^#/+Augustin,^#/- In Iohannis evangelium tractatus, LXXX, 3 (CChr-L XXXVI 529, 5f): "accedit verbum ad elementum, et fit sacramentum".<fe> Interim tamen non vacua symbola caenę docent. Hii videntur mihi non omnino a scopo aberrare.
+Eiusmodi Musculus in Mathęo suo,<f1>Wolfgang ^#/+Musculus,^#/- In Evangelistam Matthaeum commentarii, Basel, Johannes Herwagen d.Ä., 1544 (VD 16 M 7284), S. 548-560 zu Mt 26, 26-29; ausgerechnet eine Stelle, die Bullinger kritisierte und die Musculus später mit einer ergänzenden Erläuterung versehen musste, um im April 1549 mit Hilfe Bullingers eine Anstellung in Bern zu erwirken; s. HBBW XIV 580f, 17-23; Reinhard ^#/+Bodenmann,^#/- Wolfgang Musculus (1497-1563), Genf 2000 - Travaux d'Humanisme et Renaissance 343, S. 527-530. 535-538 (mit Abdruck der Ergänzung).<fe> eiusmodi Brentius in Ioanne,<f1>Johannes ^#/+Brenz,^#/- Evangelion quod inscribitur Secundum Ioannem usque ad historiam de Lazaro a mortuis suscitato, octuaginta duabus Homiliis explicatum, Schwäbisch Hall, Peter Frentz und Peter Braubach, 1545 (VD 16 B 7598; Walther ^#/+Köhler,^#/- Bibliographia Brentiana, Berlin 1904, Nr. 142), Predigt Nr. 58. - Brenz' Schrift war kurz vor der Abfassung dieses Briefes erschienen, wie aus dem Datum der Widmungsepistel (28. Juli 1545) an Hermann von Wied ersichtlich ist.<fe> etc.
+Nam sacramenta sunt relationes; habet aut relatio duo in se, videlicet fundamentum et terminum.
+Proinde relatio aliud nihil est quam fundamenti ad terminum adplicatio.
+Iam vero, cum terminus verborum caenę comparatur fundamento, panis videlicet et calicis, sacramentum efficitur.
+Quamdiu itaque durat respectus seu relatio, tam diu efficax est deus in sacramentis a se institutis et ligatus ad suum institutum praestare id, quod verba sonant.
+At relatione dirempta (ut fit apud papistas, qui panem eucharistiae circumferunt,<f1>Am Fronleichnamsfest.<fe> includunt,<f1>Im Tabernakel.<fe>
+et verba non integ<vl>309</vl>ra sive omnia in suis missis fundamento panis et calicis adplicant,
+contenti enim solum dicere: "Hoc est enim corpus meum" pręteritis antecedentibus
+et consequentibus verbis "accipite et manducate" una cum his "hoc facite in meam commemorationem", etc.<f1>Mt 26, 26-28; Lk 22, 19; 1Kor 11, 24f.<fe>)<fx>^#/+Klammern ergänzt.^#/-<fe>
+deus non est ligatus ad hoc, quia est praeter institutum.
+Videant igitur papistae, quid verbis suis truncatis consecrent!<f1>Allerdings feierte 1554 Bartholomäus selbst die Messe.<fe>
+^$Exemplo res notior erit: In baptismo aqua tantum non est sacramentum neque verba sola.
+Sed cum verba baptismi aquae ceu terminus suo fundamento adplicantur, tunc sacramentum efficitur regenerationis<f1>Tit 3, 5.<fe>.
+Iam actu relationis durante, hoc est dum recitantur verba et adhibetur externa ceremonia aquae profusio ex domini mandato<f1>Mt 28, 19 par.<fe>,
+efficax est deus et adest suo instituto, datur namque in eiusmodi lavacro<f1>Eph 5, 26; Tit 3, 5.<fe> verbo dei adnexo puero spiritus sanctus.
+Relatione aut discerpta, veluti si quis aquam baptismi solam absque verbis adoraret, quasi ibi inclusus esset spiritus, dominus deus, non est<fx>est ^#/+über der Zeile nachgetragen.^#/-<fe> efficax.
+Datur quidem spiritus in actione baptismi, cum verba et ceremonia ex domini mandato simul adhibentur.
+Si vero praeter verborum recitationem quis hauriret aquam ex baptisterio, non simul
+spiritum aquae inclusum hauriret, sed aquam solam. Nam istic relatio cecidit.
+^$Quemadmodum itaque cum elemento aquae veritas<fx>^#/+Hier liegt vielleicht eine Verschreibung für^#/- veritatis ^#/+vor^#/-.<fe> spiritus<f1>Vgl. Joh 14, 17; 15, 26; 16, 13; 1Joh 5, 6.<fe> in baptismo datur, cum verba et externa ceremonia ex mandato domini simul iunguntur,
+ita in eucharistia cum elemento panis et calicis adnexo verbo, quod secum fert Christum, omnia bona illius nobis adplicantur.
+Si Christus et sua bona, quomodo non etiam corpus et sanguis? At quomodo? Hic hereo, et lupum auribus teneo.<f1>Adagia, 1, 5, 25 (ASD II/1 498f, Nr. 425): sich in einer heiklen Lage befinden.<fe>
+Realiter, ut dentibus teratur, sicuti illi<f1>Die Zuhörer Jesu; s. Joh 6, 60.<fe> in Ioanne 6. capite putabant, horreo dicere. Nam si ita esset, sacramentum non esset.
+Vacua rursus symbola cum catabaptistis adstruere metuo.
+Superest itaque, ut Christus adsit caenę, sed non ad cuiusvis votum, sed prout sacramenti ratio postulat.
+Quod, si mentem tuam sim adsecutus, penes te sit iuditium; sin vero minus, tenuitati meae suppetias ferto, cum est opportunum. Discipulus enim sum, non iudex aliorum.
+^$Fratris filius non est Neoburgi, sed in oppido Rayn<f1>Rain am Lech (Kr. Donau-Ries, Bayern).<fe> sub ditione ducis Guilielmi Bavari<f1>Wilhelm IV., Herzog von Bayern.<fe>, distans miliare<f1>Eigentlich zwei deutsche Meilen. - Rain liegt ca. 20 km westlich von Neuburg an der Donau.<fe> a Neuburgo.
+Dominica ante Iacobi<f1>Sonntag, der 19. Juli 1545. - Der Jakobstag fällt auf den 25. Juli.<fe> mecum pransus est invitatusque ad nundinas nostras in die Iacobi celebratas, sed non comparuit. Promisit tamen interdum sese velle <vl>310r.</vl> me<fx>me ^#/+über der Zeile nachgetragen.^#/-<fe> invisere.
+Quicquid possum illi praestare commodi, praecipue propter te non detrectabo studium.
+^$Rerum novarum nihil est apud nos, nisi quod bestia trinies coronata hortatu ranarum
+ex ore pseudoprophetę exeuntium<f1>Apk 16, 13f.<fe> potentes huius seculi<f1>Vgl. Ps 22 (Vulg. 21), 30; Apk 16, 15.<fe> in hermageddon<f1>Apk 16, 16.<fe> conatur convocare.<f1>Apk 16, 13-16; 19, 17-21.<fe>
+Precor itaque, ut Achitophelis<f1>Ein gefürchteter Ratgeber König Davids; 2Sam 15-17.<fe> instar in foveam ipse incidat,<f1>2Sam 17, 23.<fe> quam aliis fodere molitur<f1>Vgl. Ps 57 (Vulg. 56), 7; 94 (Vulg. 93), 13; Spr 26, 27; Pred 10, 8; Jer 18, 20. 22; Sir 27, 29.<fe>;
+id quod certo illi futurum est. Dissipat enim dominus deus gentes, quae bella volunt!
+^$Vale multum. Raptim, Neoburgi Danubii, anno etc. 45., die augusti 19.
+^$Plurimum salvere iubeas meo nomine omnes fratres et <gr>synergoỳſ</gr><f1>die Mitarbeiter.<fe> verbi Tigurinos, Theodorum Bibliandrum precipue et reliquos.
+<un>L.<f1>= Licentiatus.<fe> Adam Bartholomęus totus tuus
+<un>ex animo frater et collega,
+<un>minister verbi Neoburgi.
+<lz>[Adresse auf f. 310v.:] Pientissimo atque doctissimo viro Heynrico Bullingero, apud Tigurinos primario verbi praedicatori, domino et amico meo singulariter observandissimo.<f1>Dieser Brief wurde durch Lorenz Meyer an Bullinger mit Brief Nr. 2232 übermittelt; s. unten Nr. 2232, 17.<fe>
+</content>
+</letter>

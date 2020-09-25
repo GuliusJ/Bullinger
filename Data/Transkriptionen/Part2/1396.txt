@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1396">
+<nr>1396</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>17. Mai 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 117 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 33</vo>
+<dr>Ungedruckt</dr>
+<re>Ist noch vom Fieber geschwächt und möchte am liebsten sterben. Die Ergebnisse der Tagung in Schmalkalden, über die
+Ambrosius [Blarer] berichtet, sind erfreulich, doch bleibt abzuwarten, was der nach Speyer einberufene Tag erbringt; auch
+Pellikan soll den Bericht lesen. Bittet, den Straßburgern freundschaftlich zu begegnen. Gruß.
+</re>
+<tx>Salus et pax Christi.
+^$Cessarunt febres, sed remansit summa totius corporis
+imbecillitas, cui putant quidam non nisi balneo aut alia
+quiete medendum<f1>Zur Erkrankung Zwicks vgl. auch unten Nr. 1397, 18-20.<fe>. Quid autem futurum sit,
+nescio. Praestaret dissolvi et esse cum Christo<f1>Vgl. Phil 1, 23.<fe>; sed fiet istud quoque hora statuta.
+^$De actione Schmalkaldica scribit ad te Ambrosius<f1>Ambrosius Blarer; s. oben Nr. 1395, 1-17.<fe> et mittit, quae dederunt
+principes et ministri verbi, plana certe et plausibilia; tantum ora deum, ne sint verba. Sed iam dies condictus est
+Spiram<f1>Vgl. ebd., Z. 18-21.<fe> ad sextum iunii, ubi rex Ferdinandus fratris Caroli<f1>Kaiser Karl V.<fe> nomine adhuc
+semel tentabit, quae pacis sunt. Da würt man uns vilicht das valete geben<f1>Zur Redenart vgl. Grimm XII/I 9.<fe>; sed
+fiat voluntas domini. Quae mittimus, etiam Pellicano da legenda. Sed rogo, induite amicum animum erga Argentoratenses<f1>Vgl.
+oben Nr. 1395, 26-44.<fe>.
+^$Vale, mi frater, et commenda nos domino. Uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam et matrem<f1>Anna, geb. Wiederkehr.<fe> et liberos<f1>Siehe oben Nr. 1344, Anm. 14.<fe> saluta studiosissime.
+^$Ex Constantia, 17. maii 1540.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero Tigurino, fratri suo colendo.
+</content>
+</letter>

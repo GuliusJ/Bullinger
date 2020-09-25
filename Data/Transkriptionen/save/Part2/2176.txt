@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2176">
+<nr>2176</nr>
+<correspondents>
+	<originator>Johannes a Lasco</originator>
+	<addressee>Konrad Pellikan</addressee>
+	<addressee>Bullinger ^$^$^$^$und Gerhard thom Camph</addressee>
+</correspondents>
+<space_time>
+	<place>Worms</place>
+	<date>9. Juni 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 348 (Siegelspur)</vo>
+<dr>Gedruckt: Scrinium antiquarium sive miscellanea Groningana nova ad ^$^$^$^$historiam reformationis praecipue spectantia, hg. v. Daniel Gerdes, ^$^$^$^$Bd. 4/1, Groningen/Bremen 1754, S. 457f, Nr. 68; ^$^$^$^$Johannes a Lasco, Opera tam edita quam inedita, hg. v. Abraham Kuyper, ^$^$^$^$Bd. 2, Amsterdam/Den Haag 1866, S. 590f, Nr. 26</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 124; Lit.: Archiv für Frankfurts Geschichte und Kunst, NF 5, 1872, 191; Hermann Dalton, a Lasco, Gotha 1881, 287 ^&x{
+<re>Aus Zeitmangel kann a Lasco nur einen Brief verfassen, der sich an alle richtet. Den Brief der [Zürcher] [nicht erhalten] hat er, als er im Begriff war, aus [Worms] abzureisen, dankbar erhalten. Nein, er wird Friesland nicht verlassen, wie die Zürcher es vermuten. Doch ist er bereit, bei Gelegenheit anderen seine Hilfe anzubieten, zumal er dafür die Erlaubnis seiner Kirche hat. So steht er nun schon zum zweiten Mal im Dienste des Erzbischofs von Köln [Hermann von Wied]. Er wäre gerne bis nach Zürich gekommen, konnte aber nicht einmal Bucer in Straßburg besuchen. Nun muss er schon wieder nach Hause reisen, wird sich aber zuvor noch [nach Bonn] zum Erzbischof begeben.
+-^#. Was das Göttliche anbetrifft, so bleibt a Lasco für jedes Zeugnis, das sich nicht auf die Heilige Schrift stützt, taub. Er weiß nämlich, dass er nicht von Menschen (wie klug diese auch sein mögen) beurteilt wird, sondern allein anhand der Heiligen Schrift.
+-^#. In [Worms] wird die Religionsangelegenheit mit Nachlässigkeit verhandelt.</re>
+<tx>Cogor nunc per meas occupationes unis ad vos omnes literis scribere, viri fratres in Christo domino dilectissimi, idque paucis, nam tempus multa non permittit.
+Literas vestras<f1>Nicht erhaltener Brief der Zürcher von Ende Mai/Anfang Juni, der auf einen ebenfalls nicht erhaltenen und in Zürich vor dem 1. Mai 1545 eingetroffenen Brief a Lascos antwortete; s. oben Nr. 2150, Anm. 29.<fe> forte fortuna, dum huc<f1>Aus Worms, wohin er wahrscheinlich von Hermann von Wied entsandt wurde; vgl. oben Nr. 2120, 69.<fe> proficiscerer in itinere, accepi, mihi multo gratissimas;
+in quibus suspicari mihi videmini me de deserendis Phrisiae ecclesiis aliquid cogitare.<f1>Vgl. oben Nr. 2120, 42-44.<fe>
+Ego vero nihil huius cogito, sed aliis quoque operam meam ad tempus aliquod denegare non possum, idque permittente<fx>^#/+In der Vorlage folgt wiederholt^#/- id.<fe> mihi mea ecclesia.
+Sic primo vere adfui principi Coloniensi<f1>Hermann von Wied.<fe> ab illo vocatus,
+sic et nunc huc veni.<f1>A Lasco hatte schon ein erstes Mal im Februar/März 1545 einen ganzen Monat lang für den Erzbischof gewirkt; s. oben Nr. 2120, 41f und Anm. 16. Wann er das zweite Mal im Dienste des Erzbischofs tätig wurde, bleibt offen; möglicherweise Ende April 1545 (s. auch unten Nr. 2222, 9-11, Anm. 6), wenn man Hardenbergs elf Jahre später geäußertes Zeugnis heranzieht, laut dem er mit a Lasco ganze drei Monate zusammen im Bistum Köln gewohnt habe (s. ^#/+Janse,^#/- Hardenberg 21 und Anm. 56), wenn man weiter von dieser Zeitspanne den ersten einmonatigen Aufenthalt abzieht und die Tatsache berücksichtigt, dass a Lasco am 1. Juli 1545 wieder in Ostfriesland war; s. unten Anm. 7.<fe> Libenter ad vos usque perrecturus - quos ex animo videre cupio -, si quoquomodo licuisset.
+Sed neque Argentinam proficisci potui, ut Bucerum viderem.<f1>Dies entsprach einem Vorhaben Hardenbergs; s. oben Nr. 2120, 69f.<fe> Et iam cogor rursum reditum ad meos adornare,
+iamque cras hinc solvo ad principem Coloniensem; illac ad meos rediturus.<f1>A Lasco, der sich am 23. Juni 1545 noch in Bonn befand, erreichte Ostfriesland am 1. Juli; s. Johannes a Lasco, Opera tam edita quam inedita, hg. v. Abraham Kuyper, Bd. 2, Amsterdam/Den Haag 1866, S. 592, Nr. 27. 28; ^#/+Jürgens,^#/- a Lasco 278.<fe>
+^$De mea constantia in eo doctrinae genere, quod vobis perspectum esse puto, non est, quod quidquam dubitetis.
+Ego extra certum aliquod verbi divini testimonium caecus plane - quod ad divina attinet - esse volo,
+neque tantum tribuo ulli humanae prudentiae ullive industriae, ut illi sine verbo niti velim.
+Scio me iudicandum esse olim non ab hominibus, quantumlibet prudentibus ac ingeniosis,
+sed a puro aeternoque verbo dei nobis a Christo domino per suos apostolos tradito.
+Huic itaque soli me totum pro mea infirmitate subiicio et dominum precor, ut<fx>ut ^#/+über der Zeile nachgetragen.^#/-<fe> vere regio sceptro hoc suo<f1>Vgl. Ps 45 (Vulg. 44), 7; Hebr 1, 8.<fe>
+me<fx>me ^#/+über der Zeile nachgetragen.^#/-<fe> regere dignetur ad gloriam sui nominis et ecclesiae suae aedificationem.
+^$Hic<f1>Auf dem Reichstag in Worms.<fe> causa religionis negligenter tractatur et fortassis in alia comitia rursus differetur.
+^$Plura non possum. Opto vos omnes in domino recte valere.
+^$Raptim, Vormaciae, 9. iunii anno 1545.
+<un>Vester ex animo, quantus est, Io. a Lasco.
+<lz>[Adresse auf der Rückseite:] Doctissimis et pientissimis viris Chunrado Pellicano, Henrico Bullingero et Gerardo tom Camp Phrisio, fratribus et amicis observandissimis. Tiguri.<f1>Bullinger sollte a Lascos Brief erst am 22. Juli 1545 erhalten; s. unten Nr. 2196, 69 und Anm. 15.<fe>
+</content>
+</letter>

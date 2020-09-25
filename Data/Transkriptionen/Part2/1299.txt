@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1299">
+<nr>1299</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>nach 18. August 1539]</date>
+	<note>Am 18. August 1539 beschloß Memmingen, den Lehrkörper der Lateinschule auf drei Lehrer zu erweitern. Bürgermeister Balthasar Funk wurde nach Straßburg entsandt, um Hans Kleber als Schulmeister
+zurückzuholen. Funks Besuch in Basel und Zürich, wo er einen Provisor (Hilfslehrer) anzuwerben versuchte, dürfte im selben Zusammenhang erfolgt sein.
+Vgl. Emil ^#/+Reichenhart,^#/- Die lateinische Schule zu Memmingen im Reformationszeit­alter, in: Neue Jahrbücher für Philologie und Pädagogik, Bd. 122 (= Abt. 2, Jg. 26), 1880, S. 278.</note>
+</space_time>
+<vo>Autograph<fx>Mit einer Randbemerkung von J. H. Hottinger.<fe>: Zürich ZB, Ms F 62, 246 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Der Briefüberbringer, Bürgermeister [Balthasar Funk] aus Memmingen, ist auf der Suche nach einem Provisor für die
+Memminger Schule; [die Basler] weisen ihn auf Sebastian Guldibeck hin, und Grynäus bittet um Unterstützung seines Anliegens. Grüße.
+</re>
+<tx>S. Is, qui has ad te perfert, consul Memmingensis<f1>Balthasar Funk, s. oben Anm. 1.<fe>, vir
+optimus, quaerit scolę, quam diligentius paulo adornant,
+<gr>y̑podidáskalon</gr>. Indicabimus Sebastianum Goldebeckium
+idoneum ei provincię<f1>Guldibeck war Provisor an der Großmünsterschule, eine Funktion übrigens, die auch
+Bullinger gelegentlich mit "hypodidascalus" umschreibt (vgl. Zürich ZB, Ms F 37, 405v.).<fe>. Oro te, ut hic quoque velis
+Christi negotium promovere. Non addo plura; scio, quae est humanitas et synceritas tua, frater mihi dilectissime.
+^$Vale in domino.
+<un>Simon Gryn. tuus.
+<lz>Saluta fratres omnes diligenter, pręsertim Theodorum<f1>Theodor Bibliander.<fe> nostrum.
+^$Christus<fx>^#/+in der Vorlage ^#/-<gr>XRS</gr>.<fe> dominus nos conservet. A[men]<fx>^#/+Rand beschädigt.^#/-<fe>.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Henrico Bullingero, amico et fratri. Zürch.
+</content>
+</letter>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1655">
+<nr>1655</nr>
+<correspondents>
+	<originator>Johannes Oporin</originator>
+	<addressee>Theodor Bibliander</addressee>
+	<addressee>Bullinger</addressee>
+	<addressee fn=1>Konrad Pellikan</addressee>
+	<note fn=1>Die Adressaten sind unten Z. 20f namentlich genannt.</note>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>24. August 1542</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand (17. Jh.)<fx>^#/+Mit Randbemerkungen und Unterstreichungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 46, 694</vo>
+^&xK: Ms S 51, 179; zit.: Egli, Analecta ref. II 57; Pollet, Bucer II 321, Anm. 8; WA 53, 564; ^#/+Steinmann,^#/- Oporinus, Brief 42.^&x{
+<dr>Ungedruckt</dr>
+<re>Die Frage einer Veröffentlichung des Korans bleibt auch im Rat umstritten, nachdem sich die Vertreter der Universität nicht
+einigen konnten; [Oswald] Myconius, Markus [Bertschi], [Martin Borrhaus] und Jakob Imeli haben sich dafür ausgesprochen,
+[Bonifacius] Amerbach, Wolf[gang Wissenburg], Jakob [Truckenbrot] und [Sebastian] Münster dagegen; beide Parteien
+sind aufgefordert, dem Rat ihren Standpunkt auf Samstag [26. August] schriftlich darzulegen. Obwohl die befürwortende Haltung
+Luthers, Philipp [Melanchthons], Bucers und der Zürcher bereits bekannt ist, bittet Oporin um ein formelles Schreiben der Kirche
+und eventuell auch des Rates von Zürich; will versuchen, eine Verschiebung der Verhandlung auf Montag zu erreichen.
+Übersendet das Urteil Bucers aus dessen soeben eingetroffenem Brief; die Gegner verweisen auf Edikte von Theodosius [II.] und weiteren Kaisern, weshalb der Rat schlimme Befürchtungen hegt.
+</re>
+<tx>S. Negocium de Alcorani editione<f1>Vgl. oben Nr. 1644, Anm. 29.<fe> magis adhuc perturbatum est quam unquam antea. Sperabat
+senatus a prudentissimis illis academię viris<f1>Laut einem Brief Oporins an Bibliander vom 2. August (Abschrift: Zürich ZB, Ms F 46, 695f) hatte der Rat als Vertreter der Universität
+Oswald Myconius, Wolfgang Wissenburg und Bonifacius Amerbach angehört; s. ^#/+Egli,^#/- Analecta II 56.<fe> certi aliquid conclusum iri; sed postquam et illos inter se dissentire videt,
+nempe aliis pro nobis, aliis contra nos statuentibus et constanter suam utrisque sententiam urgentibus, ipse quoque
+senatus valde adhuc ambiguus est, quid potissimum sit in re tam ardua decernendum. Miconius, Marcus<f1>Markus Bertschi.<fe>, Cellarius<f1>Martin Borrhaus.<fe>, Iacobus
+Imelin<f1>Jakob Imeli (Immeli, Ymeli), von Pfaffenweiler (im Breisgau oder im Hochschwarzwald?), immatrikulierte sich 1504 in
+Freiburg i. Br. und 1508 in Basel, wo er 1509 zum Magister promovierte. Hier wirkte er - neben zeitweiser Lehrtätigkeit an
+der Universität - ab 1515 als Kaplan und ab 1523 als Leutpriester, bis er 1525 wegen seiner Heirat abgesetzt wurde.
+Nachdem er zunächst als Weber gearbeitet hatte, wurde er 1528 Pfarrer im bernischen Dürrenroth. 1529 wechselte er nach
+Pratteln, 1536 nach Münchenstein (beide Kt. Basel-Land). Ab 1542 bis zu seinem Tod 1543 war er nicht nur Diakon zu St. Theodor,
+sondern auch Lehrer an der Artistenfakultät. - Lit.: Karl Gauß, Basilea reformata, Basel 1930, S. 91; Gast, Tagebuch 262f, Anm.
+15.<fe>, qui est Wolfii<f1>Wolfgang Wissenburg.<fe> doctoris diaconus, sententiam suam omnino pro nobis tulerunt; contra nos
+autem acerrime sese opposuerunt Amerbachius, Wolfius, Iacobus<f1>^&!s(+40)Jakob Truckenbrot, 1490-1564, von Konstanz, kam 1528 als Priester nach Rheinfelden (Kt. Aargau), wurde aber
+1531 unter dem Vorwurf des Lutheranismus entlassen. Für kurze Zeit war er Prädikant zu St. Jakob (bei Basel), 1532 ist er als
+Diakon am Basler Münster erwähnt, und 1533-1535 amtete er in Hüningen (Huningue, Elsass). Paul Burckhardt, der Herausgeber
+des Tagebuchs von Johannes Gast, bezieht die Angabe, Truckenbrot sei einst auch Hofprediger des Markgrafen Ernst von
+Baden gewesen, auf die daran anschließenden Jahre; im "Liber synodorum" ist er allerdings 1536-1540 als Prediger am Münster
+verzeichnet (s. Basel StA, Kirchenakten C 3, 29r. 30r. 33r. 35r.). Ab 1541 war er Pfarrer zu St. Theodor in
+Basel. - Lit.: Gauß, aaO, S. 154; Gast, Tagebuch 308f, Anm. 14; Amerbach, Korr. VI 260, Anm. 8, und VIff, Reg.^&!s(-0)<fe>
+concionator apud d[ivum] Theodorum, hoc est Amerbachii simia, et Munsterus, impudentissimum illud caput, qui in re sua et mihi cum ipso communi non dubitat<fx>non dubitat ^#/+irrtümlich
+wiederholt.^#/-<fe> etiam sententiam ferre contra nos.<f1>Zur Enttäuschung über die unerwartete Stellungnahme Sebastian
+Münsters vgl. ^#/+Bobzin,^#/- Koran 196.<fe> Illi itaque non cessant clandestinis consiliis illud, quod semel
+institutum illis est, ita perrumpere, et tantum effecerunt,
+ut iam etiam coram senatu rursus respondendum sit illis
+quatuor, qui nostrarum sunt partium, ubi ipsi sua quoque
+argumenta scriptis offerent.<f1>Zu den Gutachten beider Parteien s. ^#/+Hagenbach,^#/- Koran
+291-326 (hier S. 303-315); das von Hagenbach nur
+auszugsweise abgedruckte Gutachten Amerbachs vollständig in: Amerbach, Korr. V 494-501; vgl. ^#/+Bobzin,^#/- Koran 187-194;
+Georg ^#/+Christ,^#/- Das Fremde verstehen. Biblianders Apologie der Koranausgabe im Spiegel des Basler Koranstreites von 1542,
+in: Christine ^#/+Christ-von Wedel^#/- (Hg.), Theodor Bibliander (1505-1564). Ein Thurgauer im gelehrten Zürich der Reformationszeit, Zürich 2005, S. 107-124 (bes. S. 118-121).<fe>
+Itaque, nisi dominus aliquorum corda convertet, video magnum nobis periculum imminere. Dies ad senatum illa proponendi et de
+tota re decernendi ad proximi sabbathi diem<f1>26. August.<fe> dicta est, et quamquam serius paulo id mihi nunciatum esset ab amicis, tamen non potui omittere, quin rursum meo aere ac
+sumptu tabellarium hunc<f1>Unbekannt.<fe> conducerem vobisque rem omnem exponerem oraremque insuper, mi Theodore<f1>Theodor Bibliander.<fe>, Bullingere, Bellicane<f1>Konrad Pellikan.<fe>, ut vos vestrum omnium, hoc est
+ecclesię vestrę nomine literas ad senatum nostrum
+mitteretis proque hac communi causa, quę in gloriam
+domini ad detegendam impietatem illam Mahummetanam instituta
+est, apud senatum nostrum nobis patrocinaremini, alioqui
+gravissime periclitatura.<f1>Die Zürcher folgten dieser Bitte am 26. August, s. unten Nr. 1656.<fe> Quamquam enim nobiscum
+sentiant ecclesiarum praecipuarum coryphęi et antistites primarii, Lutherus<f1>Wohl als Beleg dafür liegen bei den Akten (Basel StA, Kirchenakten A 4, 131) die ersten 8 Blätter von Luthers "Verlegung des Alcoran Bruder Richardi" (WA LIII 272,1-282,13). Auch in einem Brief an Calvin (Corr. des
+réformateurs VIII 188-190, Nr. 1179, 10. November 1542) berief sich Oporin ausdrücklich auf die von Melanchthon und Luther
+ausgegangene Ermutigung zu seinem Unternehmen (s. ^#/+Bobzin,^#/- Koran 153, vgl. ebd. 186, Anm. 188, sowie ^#/+Hagenbach,^#/- Koran 306).^&xDie Wittenberger hatten Oporin offenbar
+einen Koran zur Vorbereitung seiner Ausgabe zur Verfügung gestellt (s. ebd. 153); er nennt als Quelle in einem Brief an Myconius allerdings Aurogallus (Simler-Slg., vor Anf. Aug) ^&x{
+In verschiedenen Quellen ist
+schon zu einem frühen Zeitpunkt von Vorreden Luthers und Melanchthons die Rede (s. Amerbach, Korr. V 495, 20-23; WA
+LIII 566); die einem Teil der Auflage beigegebene "Praefatio" Luthers (WA LIII 569-572) gelangte allerdings erst Ende Februar
+1543 nach Basel (s. ^#/+Bobzin,^#/- Koran 154).<fe>, Philippus<f1>Die der Koranausgabe ebenfalls beigegebene
+"Praemonitio" von Philipp Melanchthon wurde offenbar bereits Ende Mai 1542 nach Basel gesandt; s. MBW 2973.^&x MO V 10-13, Nr.
+2616; vielleicht zusammen mit der in Teilband 3 der Koranausgabe abgedruckten Vorrede Luthers zum "Libellus de ritu et moribus
+Turcorum" (WA XXX/2 205-208; vgl. ^#/+Bobzin,^#/- Koran 219)^&x{<fe>, Bucerus<f1>Zu Bucers Stellungnahme
+s. unten Z. 44f mit Anm. 22.<fe>, vos<f1>Ein vorausgehendes Schreiben der Zürcher, wie es auch unten Z. 29-31 vorausgesetzt
+zu sein scheint, lässt sich nicht nachweisen.<fe>, tamen adhuc nescio quo pacto adhuc amplius quidam affectibus suis
+abripiuntur, quibus haud dubie occurri aut satisfieri etiam amplius poterit aliquando, si literę vestrę ecclesię nomine scriptę ad senatum etiam audiantur. Nam apud
+universitatem non magis moverunt, quam si quis Caucasum
+pugno depellere conetur. Obsecro vos per amorem Christi<fx>^#/+In der Vorlage^#/- Xi.<fe> et gloriam nominis ipsius, ne me hac in
+re destituatis, pio et ecclesię profuturo negotio. Forte autem non obfuerit, si et senatus vestri literę
+accedant,<f1>Zu einer Intervention des Zürcher Rats scheint es nicht gekommen zu sein.<fe> quibus scilicet prava quorundam de hoc facto concepta de nobis existimatio
+excusetur et senatus noster admoneatur, ne displicere sibi
+persuadeatur id, quod tot ec­clesiis praecipuis<fx>^#/+Vor^#/- praecipuis ^#/+gestrichenes^#/- Wi.<fe>, Wittenbergensi,
+Argentinensi, Tigurinę, et praecipuis apud nos quoque verbi ministris utilissimum futurum videtur. Longior esse nec possum
+nec debeo; dabo operam interea, si saltem efficere queam, ut sententia in diem lunę proximum<f1>28. August. - Die
+Beschlussfassung des Rates erfolgte am 30. August; s. ^#/+Hagenbach,^#/- Koran 320f.^&x^#/+Bobzin,^#/- Koran 187^&x{<fe> suspendatur, etiamsi illorum,
+quos dixi, sententiae<fx>sententiae ^#/+in der Vorlage korrigiert aus^#/- sententiam.<fe> ad diem sabbathi proponi debent<fx>debent
+^#/+in der Vorlage korrigiert aus^#/- debeant.<fe>. Dominus iuvet, et regnabit in aeternum, invitis omnibus diabolis et membris eorum.
+^$Valete, fratres et domini longe omnium colendissimi.
+^$Basileę, 1542, 24. augusti.
+^$Mitto hic Buceri sententiam, quam ex literis eius hodie
+primum allatis descripsi.<f1>Bucer äußerte sich auf Anfrage von Myconius positiv zur geplanten Veröffentlichung, wie dem
+Gutachten von Myconius zu entnehmen ist (s. ^#/+Hagenbach,^#/- Koran 308f; vgl. auch ^#/+Steinmann,^#/- Oporinus 28, Anm. 52).
+Der Brief selbst wie auch der Auszug, auf den Oporin hier verweist, sind allerdings verschollen.<fe> Theodosii et nescio
+quorum caesarum edicta ab adversariis vehementer inculcantur;<f1>Amerbach argumentiert in seinem vorwiegend juristisch gehaltenen
+Gutachten (vgl. oben Anm. 10) insbesondere damit, dass Theodosius II. Besitz und Verbreitung der Schriften von
+Nestorius untersagt und deren Verbrennung angeordnet habe (s. bes. Amerbach, Korr. V 495, 37-44), und erwähnt ähnliche Erlasse weiterer Kaiser. Vgl. auch Amerbach, Korr. V 387, 44-50, und ^#/+Bobzin,^#/- Koran 191.<fe> unde magistratus timet coelum
+ruiturum<f1>Adagia, 1, 5, 64 (LB II 207f).<fe>, si edatur in lucem liber tam modis omnibus pestifer toti orbi futurus.
+<un>Io. Oporinus
+<un>vester.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

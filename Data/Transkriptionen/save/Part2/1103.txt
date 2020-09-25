@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1103">
+<nr>1103</nr>
+<correspondents>
+	<originator>Johannes Calvin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>21. Februar 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Auf der Rückseite von zeitgenössischer Hand: ^#/-D. Calvinus.<fe>: Zürich StA, E II 337, 287 (Siegelspur)</vo>
+<dr></dr>
+<re>Kann über den traurigen Zustand der [Genfer] Kirche nicht ausführlich schreiben, doch die Briefüberbringer haben zumindest
+einen Eindruck davon erhalten und können darüber berichten; lieber würde er sich mündlich mit ihm darüber austauschen.
+Ohne Wiederaufrichtung der apostolischen Ordnung wird die Kirche keinen Bestand haben, aber weder der Kirchenbann noch die
+Unterteilung der Stadt in Kirchgemeinden konnte bisher durchgesetzt werden, und das Volk sieht die Pfarrer mehr als
+Prediger denn als Hirten; wenn Einigkeit unter den Kirchen bestünde, könnte eine Synode gemeinsame Lösungen suchen.
+Pellikan und Grynäus haben erwähnt, daß eine Antwort Luthers eingetroffen sei, doch [die Berner] haben nichts davon verlauten
+lassen; bittet deshalb um näheren Aufschluß. Grüße.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs IV 367-369, Nr. 685; CO X/2 153f, Nr. 93; Übersetzung: ^#/+Schwarz,^#/- Calvins Lebenswerk I 31f, Nr. 16.]
+^&xGratia tibi et pax a deo patre et domino Christo,
+integerrime et eruditissime frater.
+^$Si miserrimae nostrae conditionis iustam narrationem apud
+te persequi instituam, longa mihi texenda sit historia.
+Nostram autem appello, quae ecclesiam, cui praeesse nos
+dominus voluit, iam aliquamdiu vexavit et nunc etiam magna
+ex parte premit. Sed quia neque ad singula explicanda satis
+in praesens suppetit ocii, et boni isti viri nonnulla per se
+recitare poterunt, longiore epistola non ero tibi molestus.
+Etsi enim ipsam forte mali scaturiginem non animadverterunt,
+nec quorsum tenderent improborum conatus, ipsa tamen rerum
+facies qualis esset non obscure perspexerunt. Utinam vero
+dies unus ad liberam commentationem nobis daretur! Inde
+enim, ut spero, non discederetur sine ingenti fructu. Habeo
+certe quae nec literis complecti nos tuto posse video, nec a
+nobis, nisi mature ultro citroque expensa et discussa,
+transigi. ^&x{
+^&x ^$Hoc tamen obiter indicabo, mihi videri nos diuturnam
+ecclesiam non habituros, nisi restituta in integrum antiqua
+illa, hoc est apostolica disciplina, quae apud nos in multis
+partibus desideratur. Nondum extorquere potuimus, ut pura
+sanctaque postliminio reduceretur excommunicationis
+observatio, ut urbs, quae est pro amplitudinis suae modo
+populosissima, in paroecias distribuetur. Quemadmodum enim
+fertur confusanea haec administratio, vulgus hominum
+concionatores nos magis agnoscit quam pastores. Alia sunt
+permulta, quae cum emendata vehementer cupiamus, nullam
+inire possumus rationem, nisi id agatur communi et fide et
+studio et industria. O si pura synceraque tandem inter nos
+concordia sanciri queat! Quid enim tunc impediret, quominus
+publica aliqua synodus cogeretur, ubi singuli, quid
+ecclesiis suis maxime conducat, proponerent, ratio
+efficiendi communi ratione [CO: deliberatione] dispiceretur,
+et, si opus foret, civitates ac principes etiam, mutua et
+hortatione se adiuvarent, et authoritate confirmarent? Sed
+in tanta perplexitate magis rogandus est dominus, ut viam
+expediat. ^&x{      z
+^&x ^$Lutheri responsionem ad vos pervenisse admodum benignam et
+amicam Pellicanus nobis indicavit; qua Grynaeus sibi multam
+spem fieri obtinendae pacis altera ex parte testatur. Sed ea
+qualis sit, nondum rescire potuimus. Quae ob propinquitatem
+ecclesia[!] nobiscum omnia posset opportunissime
+communicare, nullo unquam apiculo nos dignata est. Tu, si
+qua se offert occasio, non gravaberis summam saltem nobis
+exponere. ^&x{
+^&x ^$Farellus te salutat. Salutabis meo nomine non vulgariter
+fratres mihi in domino colendos, tuos collegas Pellicanum,
+Leonem, Bibliandrum, praeterea Phrisium. Dominus vos omnes
+in regni sui propagationem incolumes servet!
+^$Genevae, 21. februarii 1538.
+<un>Calvinus totus tuus.
+<lz>[Adresse .......:] H. Bullingero,
+Tigurinae ecclesiae vigilantissimo pastori, fratri et
+symmistae mihi observando. Tiguri. ^&x{
+</content>
+</letter>

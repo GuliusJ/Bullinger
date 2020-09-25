@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1069">
+<nr>1069</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>18. November 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 6 (Siegelspur) </vo>
+<dr></dr>
+<re>Läßt Bullinger den "Jeremias" [Zwinglis "Complanatio Jeremiae"?], den er endlich fertiggelesen hat, sowie dem [Johannes] Pontisella den "Lukian" auf sicherem Wege zukommen; wird demnächst noch etwas Geld für Pontisella schicken. Dankt für dessen Aufnahme und für die Ausleihung des Buches;
+schickt einige Kastanien als Geschenk für Bullingers Kinder und bittet, den Beutel Pontisella zu übergeben. Grüße an Leo [Jud] und Konrad Pellikan.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 11f, Nr. 10.]
+</content>
+</letter>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2374">
+<brief>
+<id>16064</id>
+<nr>2374</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 9. März [1546]
+<fn>Das Jahr ergibt sich aus Bullingers Antwort vom 11. März 1546 (<qv>nr2376</qv>).</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 661 (Siegelabdruck)</vo>
+<dr>Teildruck: <a>Blarer BW</a> II 421, Nr. 1259<k>Kopie 18. Jh.: Zürich ZB, Ms S 56, 189 (1545 eingeordnet) </k></dr>
+<re>Blarer übermittelt einen Brief [Hans] Welsers [<qv>nr2369</qv>]. Darin wird Welser wohl das Gleiche geschrieben haben wie an Blarer, nämlich, dass Papst [Paul III.] dem Kaiser [Karl V.] 700'000 Gulden versprochen hat, wenn dieser das Konzil [zu Trient] mit Gewalt [denen aufzwingt, die es ablehnen]. Möge der Herr [den Papst], den Sohn der Verderbnis, der den Untergang aller Guten will, vernichten!
+<t/>Grüße.</re>
+<text>
+<p>S. <zzl>zl2374-1A</zzl>Mitto ad te, quas heri accepi, Welseri nostri literas
+<fn>Hans Welsers Brief, 4. März (<qv>nr2369</qv>).</fn>. <zzl>zl2374-2A</zzl>Ad me, puto, eadem de pontificis
+<fn>Paul III.</fn> conatibus scripsit
+<fn>Nicht in <a>Blarer BW</a>.</fn>; quod caesari
+<fn>Karl V.</fn> promiserit 700M libra se impensurum in concilii
+<fn>Das Konzil zu Trient.</fn> exquutionem
+<fn>= executionem.</fn>, si ad hanc gladio accingi velit<zzl>zl2374-1E</zzl><zzl>zl2374-2E</zzl>.
+<fn>Siehe schon <qv>nr2328</qv>, <qv>fn2328-8</qv>. - Vgl. Welsers Brief an Bullinger, wo er, allerdings ohne Angabe einer Geldsumme, diese Nachricht auch übermittelt (<qv>nr2369</qv>,<qv>zl2369-1</qv>).</fn> Dominus filium istum perditionis
+<fn>Der Papst. - Vgl. 2Thess 2, 3.</fn>, qui bonos omnes perditos tantopere cupit, quamprimum perdat in gloriam regni Christi sui!</p>
+<p>Bene vale et ora pro nobis. Saluta amicos et fratres. 9. martii.</p>
+<un>Tuus A. Bl.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Heinricho Bullingero, suo fratri colendissimo.</p>
+</text>
+</brief>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2242">
+<nr>2242</nr>
+<correspondents>
+	<originator>Wigand Happel</originator>
+	<addressee>[Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place>Frankfurt am Main</place>
+	<date>12. September 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 356, 940 (ohne Siegel)<fx>^#/+Siehe unten Anm. c.^#/-<fe></vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 36 ^&x{
+<re>[Christoph] Froschauer hat Happel [Bullingers] Grüße und dessen Markuskommentar übermittelt. Auch wenn Bullinger nichts erwartet, hofft Happel, sich dafür bedanken zu können.
+-^#. Weiteres wird Bullinger von Froschauer und aus Briefen anderer erfahren.</re>
+<tx>Gratiam ac pacem a domino.
+^$Retulit mihi Froschouerus noster<f1>Auf der Frankfurter Buchmesse.<fe> tuis verbis plurimam salutem ac simul me tuis in Marcum commentariis<f1>Siehe oben Nr. 2235, Anm. 37.<fe>
+tuo, inquam, nomine donavit, quibus de causis immortalem tuae benignitati eximiae, vir omnium humanissime, gratiam habeo.
+Ac licet liberalis animus tuus
+(qui testimonium seu pignus tuae erga me benevolentiae et fidei relinquere tantum voluit neque ullam remunerationem expectat)<fx>^#/+Klammern ergänzt.^#/-<fe>
+consoletur, tamen acerbam mihi vitam putabo, nisi vicissim meae erga te ac tuos omnes
+observantiae ac fidei arrabonem - meae tenui fortunae convenientem nec indignum nostra amicitia - remittam.
+Interim velim me omni rusticitatis ac ingratitudinis suspicione liberes.
+^$Bene vale cum tota domo tua.
+Tempus nunc non fert, ut plura scribam; ac coram ex Froschouero et ex aliorum literis certiora cognosces, scio.
+^$Datę ex Francofurto, 12. septembris 45.
+<un>Tuus toto pectore Vigandus Happelius.
+<lz>[Ohne Adresse.]<fx>^#/+Der vorliegende Brief wurde auf den unteren Teil der Verso-Seite von Happels Brief vom 21. Januar 1545 (oben Nr. 2072) geklebt. Demzufolge könnten sich die Siegelspur und die Adresse auf der verklebten Verso-Seite dieses Briefes befinden.^#/-<fe>
+</content>
+</letter>

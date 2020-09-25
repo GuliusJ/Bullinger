@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="27218">
+<nr>27218</nr>
+<correspondents>
+	<originator>Philipp Melanchthon</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Worms</place>
+	<date>20. September 1557</date>
+</space_time>
+<vo>Zürich StA, E II 338, 1403. Orig. Aut.</vo>
+<re></re>
+<tx>S. D. Reverende vir et carissime frater, hodie tuum munus, <gr>thn Apokalypsin</gr>, accepi in urbe Vangionum et subito dedi literas viro optimo domino Oporino.
+Tantum inspexi locum de Gog et Magog postea consideraturus, quomodo seriem totius libri accommodes ad tempora et ecclesiae diversa certamina, quae certo in eo opere praedicantur.
+Nos hic duplicia certamina
+sustinemus, <gr>aitoysi gar tinew yhfismata grajuhnai kata tvn apodokimazontvn thn artolatreian.</gr> Refragati sunt plurimi legati.
+Deus adsit ecclesiae suae.
+Plura non potui scribere.
+Salutemd. Petro Martyri,d. Gesnero,d. Bibliandro et vobis omnibus opto.
+De filio velim te mihi scribere.
+Bene vale die 20. septembris.
+Reverendo viro eruditione et virtute praestantid. Henrico <gr>Boylierv,</gr> fratri suo carissimo.
+</content>
+</letter>

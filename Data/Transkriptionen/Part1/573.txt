@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="573">
+<correspondents>
+	<originator>(*Johannes Zwick*)</originator>
+	<addressee>Bullinger und Konrad Pellikan</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>12. April 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 364, 8r. (Siegelspur)</record>
+<record>Teildruck: Blarer BW I 680f</record>
+<print></print>
+<statue>
+Leitet Ambrosius (*Blarers*) Bitte weiter, Konrad Lüthard zu
+senden, Pellikan für seinen Brief an die Pfullinger Nonnen
+zu danken -- da die Zürcher Pellikan nicht als Hebräischlehrer (*nach
+Tübingen*) ziehen lassen wollen, soll er nicht weiter bedrängt werden
+-- und ihn zu entschuldigen, dass er nicht selbst schrieb.
+Zwick empfiehlt den Briefüberbringer.
+</statue>
+<content>
+Salus.
+<p>"Bullingero prèterea scribe+1, ut Conradum Luthardum, quem semel atque iterum commendavit+2, mittat indicans, quid hominis sit et qualis sibi ecclesia credi merito debeat. Pellicano meis verbis gratias age pro epistola ad
+Pfullingenses+3;
+nam spero vehementer commodaturam muliercularum istarum ingenio.
+Caeterum, quando
+in praelegendis hic hebreis vel non potest vel non vult perpetuam operam
+suam polliceri+4
+et Bullingerus scribit+5
+istuc nos a Tigurinis impetrare non posse, non erimus porro molesti viro
+tam modis omnibus sancto, cui me quam potes diligenter, pariter et
+Bullingero, quod non scribo, excusabis. Supra vires et modum divexant me
+tot ecclesiarum negotia, ut nihil sit tempusculi reliquum, quod amicis
+tam insignibus salutandis dedicare valeam."
+Haec Ambrosius, quibus descriptis officium fecisse volo.</p>
+<p>Valete perpetuo.</p>
+<p>Constantiae, 12. aprilis 1535.</p>
+<p>Prèsentium literarum latori+6 non nihil negotii est apud vestros+a, quod ex ipso intelliges. Est autem vere bonus et pius vir, qui magis deo quam hominibus serviens aliquandiu apud nos exulem egit. Si manum
+porrexeritis+b,
+non indigno aut ingrato feceritis+c.</p>
+<p>Iterum vale.</p>
+<address>
+(*Adresse auf der Rückseite:*) Sanctissimis viris d(*ominis*)+d
+Hainricho
+Bullingero et Chu^%nrado Pellicano, summo studio observandis, Tiguri.
+</address>
+</content>
+<note>
+.us; +a>vestros  korr. aus  tuos.
+<print>
++b>porrexeritis  korr. aus  porrexeris.
++c>feceritis  korr. aus  feceris.
++d>in der Vorlage  DD.
+</print>
+<address>
++1>Diese Bitte Ambrosius Blarers (vgl. Z. 12) ist einem
+nicht erhaltenen, wahrscheinlich gleichzeitig mit zwei weiteren Briefen
+am 8. April geschriebenen und am 12. April in Konstanz eingetroffenen
+Schreiben entnommen; vgl. Blarer BW I 679f.
++2>Bullingers Empfehlungsbriefe sind nicht erhalten,
+vgl. aber oben Nr. 530, 4-6.
++3>Blarer hatte vergeblich versucht,
+Pellikan als Seelsorger für das Klarissenkloster
+Pfullingen (Kr. Reutlingen, Baden-Württemberg) zu gewinnen.
+Pellikan sandte stattdessen gegen Ende März eine Trostschrift für die
+Nonnen, vgl. Blarer BW I 659. 677.
++4>Pellikan war am 17. Februar 1535 von Blarer gebeten
+worden, einer Berufung als Hebräischlehrer zu folgen. Am 22.
+Februar hatte er für einige Zeit zugesagt, doch liessen ihn
+die Zürcher nicht ziehen; vgl. Blarer BW I 659. 662. 676f.
++5>Bullingers Brief ist nicht erhalten.
++6>Unbekannt.
+</address>
+</note>
+</letter>

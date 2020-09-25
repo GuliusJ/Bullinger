@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1044">
+<nr>1044</nr>
+<correspondents>
+	<originator>Konrad Geßner</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>19. September 1537</date>
+</space_time>
+<vo>Abschrift<fx>^#/+Nr. 7 der auf eine Schaffhauser Vorlage zurückgehenden Briefgruppe (vgl. HBBW II, S. 252, Anm. a, und VI, S. 498, Anm. a); nicht berücksichtigt ist die fehlerhafte Abschrift des (ebd.) erwähnten Johann Wernhard Huber (Universitätsbibliothek Basel, G^#'2 I 22, 1, 27r.-28v.).
+^#/-<fe>: Zürich ZB, Ms S 43, 119</vo>
+<dr>Übersetzung: ^#/+Hanhart^#/- 63-66 </dr>
+<re>Erlaubt sich, Bullinger ohne lange Floskeln sein Anliegen vorzutragen:
+Hat seit dem Ableben des Hans Frick (Fritz) [1535] von vier Erbteilen denjenigen seiner Verwandten [Anna Gräß] leihweise erhalten - etwa 50 Gulden, die nur ausgerichtet werden sollten, falls sie ihr Kloster [Grünenberg] verlassen würde -, muß das Geld nun aber sofort auszahlen, weil es von deren
+Bruder [Simon Gräß] aus Konstanz, dem sie das Erbe überschrieben hat, in Zürich eingefordert wurde; möchte eine gerichtliche Verfolgung durch Hans Hager, den Vogt der [Anna Gräß], unbedingt vermeiden und bittet Bullinger deshalb, die Sache Bürgermeister [Heinrich Walder] darzulegen und notfalls auch
+seinen Bruder [Jakob] zu konsultieren. Steht vor dem Aufbruch nach Lausanne.
+</re>
+<tx>Clarissimo virod. Henrico Bullingero, patrono suo colendissimo.
+^$S.d. Quod fere ad te scribam, vir humanissime, nullis prooemiis usus, sed quasi ex abrupto <gr>kaì mhdèn proepiplh́ptvn</gr>, non
+aliter interpretaberis, quam adeo me de benevolentia humanitateque tua certum atque securum esse, ut nihil horum apud te opus esse putem. Iam vero, quod maxime volo, simpliciter quoque et paucis dicam:
+Defunctod. Ioanne Frizio<f1>Hans Frick (Fritz) von Reichenau, 1483 an der Universität Tübingen (Abschluß als Baccalaureus 1484), seit 1488 Kaplan am Großmünster, war am 9. Februar 1535 gestorben (vgl. ^#/+Meyer,^#/- Zürich und Rom, Nr. 576 und S. 551; Zürich StA, E II 438, 77v.; auch HBBW IV, S.
+460f, Anm. 38).<fe>, cognato meo, quatuor bonorum haeredes (e quibus etiam mater mea<f1>Agathe Frick (Fritz).<fe> fuit) singuli trientem accipiunt, quorum unus ad sororem<f1>Gemeint ist Anna Gräß (s. unten Anm. 8). -
+Der Verwandtschaftsgrad ist wohl nicht zutreffend, denn sowohl der Geschlechtsname Frick (Fritz) für Konrad Geßners Mutter wie auch Gräß für deren "Schwester" ist zuverlässig belegt.<fe> matris meae pertinebat, quae adhuc in
+monasterio<f1>Das Franziskanerinnenkloster Grünenberg auf der Bodensee-Halbinsel Höri (vgl. dazu Burkhard ^#/+Stege,^#/- Geheimnisse alter Landkarten, in: Bodensee-Hefte 1990, Nr. 10, S. 6-11).<fe> quodam agit prope Stain oppidulum<f1>Stein am Rhein (Kt. Schaffhausen).<fe>, atque ideo conventum est
+inter reliquos tres haeredes, se partem debitam sorori moniali non prius concessuros, quam monasterium reliquisset. Itaque dare alicui<fx>^#/+in der Vorlage^#/- aliqui.<fe>
+voluerunt, qui interim vigesimam tantum usuram sorori moniali quot annis redderet, non teneretur autem caput haereditatis prius liberare, quam soror monialis vel reliquisset religionem suam vel
+defuncta esset. Tum ego, nescio qua fortuna, summam haereditatis illam, circiter aureos quinquaginta, in me recepi iis, ut praescriptum est, conditionibus. Dedit vero mihi Hagerus<f1>Hans Hager. - 1534 war Hager bereits als Vogt von Konrad Geßners Mutter aufgetreten (vgl. Zürich StA, B V 5,
+91r.-v.).<fe>, tutor monialis
+electus, idque toto sesquianno nunc has nunc alias haereditatis partes tradens. Nam primam partem dedit mense aprili anno 1535, postremam mense augusto 1536, neque ego simul omnia accipere curabam.
+Promiserat enim, usurae tempus non prius numerandum, quam ex quo omnia accepissem. Interea accidit, ut soror monialis partem suam omnem fratri<f1>Simon Gräß (s. die folgende Anm.).<fe>, qui Constantiae agit, donaret, qui continuo Tigurum venit, bona a Hagero tutore reposcit. Tandemque coram senatu
+actum est Hagerum statim debere Constantiensi bona reddere<f1>Im Brief vom 12. Juli 1537 bat Konstanz den Rat von Zürich, seinem Bürger Simon Gräß zur Ausrichtung des Erbteils zu verhelfen, den einst Hans Frick für dessen Schwester Anna Gräß hinterlassen hatte (Zürich StA, A 205. 1, Nr. 166; Entwurf
+in Konstanz StadtA, B II 37, 23v.). Am 23. Juli 1537 rechnete Hans Hager im Beisein der Schirmvögte Konrad Escher und Burkhard Wirz sowie von Lienhard Gutbrecht und Jakob Geßner mit Simon Gräß über den Erbteil von Anna Gräß, der Leitschwester im Kloster Grünenberg, ab und zahlte Gräß den
+geschuldeten Restbetrag von 46 Gulden, 33 Schilling aus (Zürich StA, B VI 334, 106r.)<fe>.
+Interim ego quoque rei ignarus atque aliud agens Tigurum veni, tum ab Hagero in ius continuo vocor; nam uno et altero die tota summa Constantiensi numeranda erat. Senatus iterum pronuntiavit
+Hagerum hoc tempore debere solvere, licentia tamen mecum postea iure agendi sibi reservata. Ego igitur cum Hagero rem malui privatim componere, atque plus etiam, quam iure posse cogi viderer,
+praestare. Dedi enim illico a vobis acceptos 14 aureos, daturum promittens 20 aureos circiter Felicis et Regulae festum<f1>11. September.<fe>, reliquum vero forte 12^#'1/^#-2 aureos, non plures (nam aliquid principio dederam, ut
+tantum 46 essent, non amplius 50), reliquum, inquam, nullo praestituto die, quamprimum possem, soluturum. Eam tum conditionem Hagerus accepit, iam recusat iterum, totumque numerari postulat, suppellectilem, quam Tiguri reliquam habeo, venditurum in foro minatur, exactores meis sumtibus mihi
+missurum, nisi causam cum matre mea vicerit, propter vadimonium, quae tamen non aliter fideiussit,
+quam <vl></vl> tum reddenda esse bona, cum soror monialis monasterio exivisset aut obiisset. Ne igitur haec infamiae nota mihi inuratur, ut res meae sub hasta palam veniant, tanquam qui creditoribus fidem non
+praestitit aut tanquam hominis luxuriosi et improbi,
+tu mihi praesidio eris, si causam meam, quamprimum has literas legeris, consuli<f1>Bürgermeister Heinrich Walder.<fe> exposueris, quam inique decerneretur, si, quod toto sesquianno accepi, uno cogar die reddere, si, quod
+post mortem aut exitum monialis e monasterio pluribus forsan annis non debuissem solvere, neque dum negat Hagerus ita se mihi tradidisse, id omne iam cogar una hora reddere, si postremo, quod ipse
+Hagerus nuper admodum promisit, iam cum solutionis dies adest, recuset accipere.
+Haec ego te, vir optime, per Christum oro, quo nihil maius habeo, ut consuli statim lectis literis indices, ut aliis
+quoque, si<fx>^#/+vor^#/- si ^#/+gestrichenes^#/- si.<fe> quibus opus esse putas, significes. Si non rem omnem intellexisti, a fratre meo<f1>Wohl Jakob Geßner, der auch am 23. Juli der Abrechnung beigewohnt hatte (vgl. oben Anm. 8).<fe> poteris doceri.
+^$Haec, ut vides, celeriter et negligenter scripta sunt, una enim post hora iter Losannam
+ingrediendum erat<f1>Vgl. oben Nr. 1034, Anm. 3.<fe>.
+^$Vale, Mecoenas<f1>Mäzen (vgl. Pauly/Wissowa XIV/1 207-229).<fe> unice.
+^$Basileae, 19. septembris 1537.<un>Tuus Conr. Gesnerus.
+</content>
+</letter>

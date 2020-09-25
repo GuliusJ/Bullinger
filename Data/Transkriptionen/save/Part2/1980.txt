@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1980">
+<nr>1980</nr>
+<correspondents>
+	<originator>Johannes Pistorius</originator>
+	<addressee fn=1>Bullinger</addressee>
+	<note fn=1>Der Brief enthält umfangreiche, oft wörtlich übernommene Passagen aus einem Schreiben Melanchthons aus Bonn an Peter Martyr Vermigli in Straßburg vom 14. Juli 1543 (Regest: MBW, Regesten III, Nr. 3277, Druck: MO V 143f). Pistorius' Zitaten hat eine andere als eine der insgesamt fünf erhaltenen Abschriften von Melanchthons Brief vorgelegen, da diese alle erst später entstanden sind (freundliche Auskunft der Melanchthon-Forschungsstelle Heidelberg). Pistorius erhielt vielleicht seine Abschrift von Melanchthon oder fertigte sich eine solche an, als er mit diesem im Sommer 1543 in Bonn zusammengetroffen war (zum Treffen s. Bucers Brief an Bullinger vom 21. Juli 1543, HBBW XIII 169f). Die übernommenen Stellen werden nachfolgend gesondert vermerkt.</note>
+</correspondents>
+<space_time>
+	<place>Frankfurt am Main</place>
+	<date>10. September 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 269-271 (Siegelspur<fx>^#/+Teils im engen Einband verdeckt.^#/-<fe>)</vo>
+^&xZürich ZB, Ms S 55, 166; Erw.: Egli, Analecta II 64.^&x; am 31. März 1546 antwortet Bullinger auf einen [nicht mehr erhaltenen?] Brief Pistorii vom 12. September [1545?]; es ist kaum dieser hier gemeint, oder doch??? ^&x{
+<dr>Regest (mit Zitaten): ^#/+Köhler,^#/- Hessen und die Schweiz 474f, Nr. 37</dr>
+<re>Die beiden Trostbriefe Bullingers steigern seine Achtung und Liebe, die er für ihn und seine Werke von jeher empfindet, und sie stärken ihn in der misslichen Lage der Kirche, die das Wüten des Teufels vor seiner Niederlage und der Änderung der Verhältnisse verursacht hat; nie hatte die Kirche Christi grimmigere Gegner, doch Gott wird helfen, während die Gelehrten, zumal in Deutschland unter den gemäßigten Regierungen, ihren Studien nachzugehen haben. Nichts quält ihn so wie der neu entflammte Streit um das heilige Abendmahl, der die Kirche spaltet und auch die Frommen verdirbt - Gott möge helfen! Hörte, dass Bibliander Vorlesungen zur Apokalypse hält, deren Veröffentlichung von allen [Frankfurter] Gläubigen zur Tröstung und Stärkung der Kirche gewünscht wird; anderenfalls soll Bullinger Rudolf [Gwalther] um eine Abschrift für Pistorius bitten und sie ihm durch [Christoph] Froschauer zustellen lassen. Die [Zürcher] Heranwachsenden [Rudolf Kopp, Bernhard Lindauer sowie Wolfgang Haller oder Johann Felix Renner] sind nach einmonatigem Aufenthalt in Marburg wohlbehalten in Wittenberg angekommen und werden wohl an Michaelis [29. September] nach [Zürich] zurückkehren. Bullinger soll für [die Frankfurter] und die gesamte Kirche beten; den [evangelischen] Geistlichen wird Gott beistehen; Grüße, besonders an Rudolf Gwalther, der Pistorius Nachrichten über den französischen Krieg in das Haus von Melchior [Ambach] in Frankfurt schicken soll; der Kaiser soll wieder einen Wormser Reichstag zu Religionsangelegenheiten angekündigt haben; Grüße.
+</re>
+<tx>Gratiam et pacem a deo patre nostro per Iesum Christum
+in spiritu sancto.
+^$Iam olim, Bulingere, summopere colende, et<fx>^#/+Über der Zeile korrigiert aus einem nicht mehr lesbaren Wort^#/-.<fe> eruditissimis
+et maxime piis scriptis tuis et suspicere te et diligere
+cepi. Verum, cum nuncnuper gravissimas<fx-t>^#/+Fast wörtliches Zitat aus Melanchthons Brief.^#/-<fe> tuas consolationes<fx-x>^#/+Fast wörtliches Zitat aus Melanchthons Brief. Von-Bis-Anmerkung.^#/-<fe> ad
+me binis literis<f1>Nicht erhalten.<fe> perscriptas perlegissem, summa observantia
+ac ardenti amore te complexus sum. Lucebant enim in oratione
+et ingenii acumen et eruditio singularis atque vera pietas,
+quarum virtutum coniunctione nihil pulchrius, nihil
+amabilius cogitari potest.<fx>^#/+Der ganze Satz ist Melanchthons Brief entnommen.^#/-<fe> Itaque vicissim abs te peto, ut
+benevolentia me tua complectare. Fatebor<fx-t>^#/+Übernahme aus Melanchthons Brief.^#/-<fe> autem, quod res
+est, me tua oratione non solum oblectatum, sed etiam
+confirmatum esse<fx-x>^#/+Übernahme aus Melanchthons Brief.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> in hisce ęrumnis ac ecclesię
+miseriis, licet non minime movear<fx-t>^#/+Zugrunde liegt Melanchthons Brief ab den Worten "Valde enim me movit imago".^#/-<fe> alioqui imagine, qua me de
+omnibus ecclesię temporibus admonere soleo, beneque
+intuendam mihi perpetuo in omnibus periculis propono,
+videlicet sathanam sibi maximas accersere clades, cum
+acerrime pro suo regno pugnat et atrocissime sevit. Nunquam
+pugnavit acrius, quam cum evertere ducem nostrum Christum
+ipsum conatus est, maxime autem in eo praelio succubuit, et
+sequuta est postea universi orbis mutacio. Maximę rerum
+conversiones post Pharaonis<f1>Vgl. Ex 1, 8-14.<fe> Maxentiique<f1>Marcus Aurelius Valerius Maxentius (um 280-312), von 360 bis 312 als Usurpator römischer Kaiser. Nach seinem Sturz wurde er aus politischen Gründen zugunsten Konstantins überaus negativ dargestellt, u.a. von Laktanz und Eusebius. Die Kirche übernahm das Bild, obwohl Maxentius sich am Christentum nicht schuldig gemacht hatte. Erst später wurde das Urteil über ihn revidiert. - Lit.: Pauly/Wissowa XIV/2 2417-2484; Gerhard ^#/+Wirth,^#/- in: LThK^#'3 VI 1506; Jan Willem ^#/+Drijvers,^#/- Eusebius' "Vita Constantini" and the Construction of the Image of Maxentius, in: From Rome to Constantinople. Studies in Honour of Averil Cameron, hg. v. Hagit Amirav und Bas ter Haar Romeny, Leuven-Paris-Dudley, MA 2007, S. 11-27.<fe>
+furores secutę
+sunt, qua de re et nos quantumvis in periculosissimis
+temporibus melius sperare decet, quo magis crescere videtur
+robur<fx>^#/+Lesung unsicher.^#/-<fe> diaboli tum in sycophantis<f1>Betrüger; Adagia, 2, 3, 81 (ASD II/3 298, Nr. 1281^&xLB II 515f^&x{).<fe> tum in tyrannis. Licet enim
+ecclesia Christi nunquam in adversarios rabiosiores et
+impudentiores incidisse videatur,<fx-x>^#/+Zugrunde liegt Melanchthons Brief ab den Worten "Valde enim me movit imago".^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> et ruinę mutacionesque
+imperiorum sepe duriter quassaverint ecclesiam dei, non
+tamen dubitandum deum optimum maximum propter filium
+aliqua ecclesię hospitia servaturum esse.<f1>Apk 12, 6.<fe> Interim<fx-t>^#/+Zitat aus Melanchthons Brief.^#/-<fe> nos
+nostrum officium modeste faciamus ac deo exitus commendemus,
+cui curę erit, ne funditus pereant ecclesię,<fx-x>^#/+Zitat aus Melanchthons Brief.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe>
+quantumvis aliqua membra trucidentur. Et<fx-t>^#/+Zitat aus Melanchthons Brief.^#/-<fe> fortassis ideo in
+Germanicis urbibus collocavit aliquot ecclesias, quę
+aliquanto habent tranquilliora et moderatiora imperia quam
+ullę alię gentes.<fx-x>^#/+Zitat aus Melanchthons Brief.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> Sepe igitur multis modis vos beatos
+esse et cogito et praedico, qui et a principum negotiis
+plerumque insulsissimis abestis et studiis literarum
+sacrarum frui in illa vestrarum urbium tranquillitate
+potestis. Non premunt vos aulicę tyrannides, non
+impediunt disciplinam, non interturbant studia
+<gr>panikoì</gr><fx>^#/+In der Vorlage^#/- <gr>panikoí</gr>.<fe><f1>Adagia, 3, 7, 3 (ASD II/6 425f, Nr. 2603).<fe> tumultus principum.
+^$Possem alia multa recitare, quę omitto. Quid enim dicam,
+quod contentio illa sacramentaria vix aliquo modo sopita per
+quosdam de novo revocatur? Qua re nulla est alia, quę
+animum meum magis excruciet. Vidi enim et expertus sum
+dispendia huius concertationis. Profecto cohorresco toto
+corpore, quoties cogito hęc sacra symbola, per quę
+Christus dominus noster se ipsum, suum corpus et sanguinem
+atque omnia sua dona exhibet vere et efficaciter fidelibus
+atque summa dilectione conglutinat, <vl>270</vl> nostro vitio fore
+instrumenta dissidii, schismatis. Sacramentis sacrosanctis
+Christus ecclesiam suam colligere et coadunare voluit; iam
+nostra morositate hisce ecclesia dissipatur et miserrime
+discerpitur. Utinam perpenderent tamen vel illud poetę:
+<lz>
+^$^&=138"pax optima rerum,
+^$quas homini novisse datum est, pax una
+triumphis
+^$innumeris potior",<f1>Silius Italicus, Punica, 11, 592-594.<fe>
+<lz>si spiritum sanctum in
+scriptura nulla non loco ad pacem, concordiam, unitatem et
+veritatem inhortantem audire detrectant! Sed, quo rapit me
+impetus, ne dicam zelus domus domini<f1>Vgl. Ps 69 (Vulg. 68), 10.<fe>. Utinam deus propter Christum
+hanc in ecclesia dissensionem tollat huicque finem semel
+imponat, quo pietas non solum in malis, verum etiam in piis
+quibusdam gravissime obleditur<f1>oblaeditur, eigtl. obliditur.<fe>!
+^$Audiod. Bibliandrum modo prolegere publice Apocalypsim
+Ioannis,
+qui liber infirmitatem, scandala et ęrumnas
+ecclesię Christi graphice depingit atque simul in hisce
+pios gravissime consolatur.<f1>Zu Biblianders Lesungen über die Apokalypse s. oben Nr. 1971, Anm. 22. - Auch von Konrad Pellikan (s. Chronikon 132), Ambrosius Blarer und Martin Frecht (s. oben Nr. 1971, 70-75; 1976, 39-42) wurde der Wunsch nach einem baldigen Druck bzw. nach Abschriften dieser Vorlesungen geäußert. Im März 1545 erschien in Basel bei Johannes Oporin eine Schrift Biblianders unter dem Titel: Ad omnium ordinum reip[ublicae] christianae principes ... Relatio fidelis Theodori Bibliandri, quod a solo Verbo filioque Dei tum exacta cognitio praesentium temporum et futurorum ... petenda sit (VD 16 B 5315), in der auf S. 127-161 eine zusammenfassende Darstellung der Offenbarung zu finden ist; s. ^#/+Egli,^#/- Analecta II 63f; Christian ^#/+Moser,^#/- Theodor Bibliander (1505-1564). Annotierte Bibliographie der gedruckten Werke, Zürich 2009. - ZBRG 27, S. 15f. 167-169.<fe>
+Quare cupiunt omnes boni et pii
+apud nos, ut suas meditaciones in hunc librum Bibliander
+ecclesię legendas publice proponat pręlo committens,
+quo tamen in hisce tantis malis solatium aliquod habeat, quo
+per spiritum sanctum se sustentare possit. Quod si omnino
+nolit publicare, rogo, ut meo nomine Rodolphum<f1>Rudolf Gwalther.<fe> obsecres, quo
+meo sumptu describi<fx>describi ^#/+über nicht gestrichenem^#/- describendis ^#/+nachgetragen^#/-.<fe> procuret mihique per Froschouerum
+mittat. ^&xRudolf Gwalther^&x{
+^$Adolescentes<f1>In Frage kommen Rudolf Kopp (Copus), Wolfgang Haller und Johann Felix Renner, die Myconius 1543 von Bullinger empfohlen worden waren (s. HBBW XIII 171, 20-22), sowie Bernhard Lindauer (s. oben Nr. 1920, 37f). Unmittelbar nacheinander inskribierten Kopp, Haller und Renner ab bzw. nach dem 1. Mai 1543 in Basel (s. Basel, Matrikel II 35 Nr. 11-13), Lindauer schrieb sich für das Semester vom 1. Mai 1544 bis 30. April 1545 ein (s. Basel, Matrikel II 38, Nr. 1). Anschließend wandten sie sich nach Marburg. Hier schrieb sich ab Januar 1544 Wolfgang Haller ein, und im Semester vom 1. Juli 1544 bis zum 1. Januar 1545 folgten Kopp, Renner und Lindauer (s. Marburg, Matrikel II 18. 20). Die hier erwähnte Reise nach Wittenberg, die auch nach Leipzig führte, unternahmen offenbar Kopp, Lindauer und ein Dritter (Renner oder Haller?); s. unten Nr. 1984, 68f. - Rudolf Kopp aus Zürich, gest. 1563, war Zürcher Stipendiat seit Pfingsten 1540 (s. Studentenamtsrechnungen, Zürich StA, G II 39.1. 39.2; Zürich ZB, Ms. Car. C 44, S. 922, Nr. 24; Ms F 95, Nr. 25). Nach dem Aufenthalt in Basel und Marburg und der 1544 erfolgten Ordination (Zürich StA G I 179, f. 151v.) wirkte er seit 1545 als Provisor am Fraumünster und versah seit 1543 die Pfarrstelle von [Albis]rieden (Zürich StA G I 179, f. 16r. 21r.); 1545 war er Pfarrer in Witikon und von 1548 bis zu seinem Tod Pfarrer in Eglisau; er hinterließ zehn Waisen (^#/+Pfarrerbuch^#/- 394; Zürich ZB, Ms F 95/1, Bl. [4]v., Nr. 25).
+- Zu Wolfgang Haller s. oben Nr. 1853, Anm. 1. - Johann Felix Renner aus Zürich, gest. 1574 (oder 1575; s. Zürich ZB, Ms. E 57, S. 262), war ab 1538 Schüler in Kappel (s. ^#/+Bächtold,^#/- Bullinger vor dem Rat 202, Anm. 36), wurde 1544 ordiniert (Zürich StA G I 179, f. 151v.) und 1546 Pfarrer von Knonau, nachdem er dieses Amt schon eine Zeitlang vorher versehen hatte (s. Zürich StA G I 179, f. 42r. 151v.); von 1546 bis zu seinem Tod war er Pfarrer von Küsnacht (s. ^#/+Pfarrerbuch^#/- 480). - Zu Bernhard Lindauer s. oben Nr. 1920, Anm. 9 und 10.<fe> vestri eruditi et pii Martispurgum<f1>Marburg, wo Johannes Pincier und zeitweise Wigand Happel wohnten.<fe> post mensis
+spatium reliquerunt salvique et incolumes petierunt
+Wittenbergam, ut audio, deo volente vos revisuros ad festum
+Michaelis<f1>29. September.<fe>.
+^$Hisce vale in domino Iesu quam foelicissime, clarissime
+Bulingere, una cum tota tua domo et ecclesia, atque rogo,
+nos nostramque universam ecclesiam tuis precibus deo
+commendare velis. Hac spe nos praecipue sustentamus. Quorum
+enim mentes deus excitavit ad munus evangelii et vocavit,
+eorum labores et certamina invocatus proculdubio etiam est
+adiuturus, ut vel saltem aliqua pars generis humani praestet
+offitia deo grata, ne totum genus humanum furenter
+adversetur deo et pereat.<f1>Vgl. Gen 6, 5-7; 18, 20-33.<fe> Impendio precor, ut symmistas tuos
+omnes, dominos ac fratres meos observandos, offitiosissime ac
+diligentissime salutes, Bibliandrum, Pellicanum ac reliquos,
+praesertimd. Rudolphum Gvaltherum, veterem amicum, quem
+velim admoneas etiam, ut aliquid certi de bello Gallico<f1>Der Krieg zwischen König Franz^#. I. von Frankreich und Kaiser Karl^#. V.<fe> (dum
+licet per nuntium) mihi scribat; potest enim id propter
+vicinitatem<f1>Pistorius, seit 1540/1541 mit Gwalther bekannt, weiß wohl, wie gut in Zürich Pfarrer und Ratsherren zusammengearbeitet haben.<fe>. Literas dum vult mittere, potest facillime,
+dummodo habeat nuntium, qui petat Francofordiam atque ibi in
+domumd. Melchioris<f1>Melchior Ambach, geb. 1490 in Meiningen, gest. vielleicht 1562/63, wahrscheinlich jedoch schon 1559 (in den Frankfurter Archivalien erscheint sein Name nach 1559 nicht mehr; freundliche Auswertung der Frankfurter Quellen durch Herrn Dr. Michael Matthäus, Institut für Stadtgeschichte, Frankfurt am Main). Ambach studierte in Mainz Theologie und war dort von 1516 bis 1522 Professor der Theologie; 1522 Pfarrer an der Stiftskirche St. Martin in Bingen, am 2. August 1524 wegen evangelischer Predigt abgesetzt, vom Mainzer Domkapitel mit Johannes Bernhardi Algesheimer inhaftiert und 1525 des Landes verwiesen; 1525 Pfarrer in der Markgrafschaft Baden, 1528 in Straßburg, von 1531 bis 1540 Pfarrer in Neckarsteinach, ab 1540 in Frankfurt am Main, von Juni 1541 bis 1556 Prediger an der Liebfrauenkirche ebenda, dann krankheitsbedingter Ruhestand. Unter Ambachs Werken findet sich eine 1541 gedruckte Übersetzung (HBBibl 83) aus Bullingers Kommentar zum 2. Kapitel des 2. Thessalonicherbriefes von 1536 mit Bullingers Auslegung (HBBibl 81, dort f. 50v.-82r.). - Lit.: Georg ^#/+Brückner,^#/- in: ADB I 389f; Irene ^#/+Haas,^#/- Reformation-Konfession-Tradition. Frankfurt am Main im Schmalkaldischen Bund 1536-1547, Frankfurt am Main 1991, S. 136, Anm. 96 (mit weiterer Lit.); MBW, Regesten XI 63 (mit weiterer Lit.).<fe>, ecclesiastę, offerat. Is quotidie
+potest hasce mihi offerre.<f1>Siehe hierzu W[alther] ^#/+Köhler,^#/- Die Post von Hessen nach der Schweiz zur Zeit Zwinglis und Bullingers, in: Zwa 2/6, 1907, 172-180, bes. 178.<fe> Valetudinem <vl>271</vl> vobis omnibus faustam
+ex animo precor. Aiunt a cesare<f1>Karl^#. V.<fe> rursum indictum esse
+conventum Wormacie in causa religionis.<f1>Der Reichstag zu Worms sollte am 1. Oktober 1544 beginnen, wurde tatsächlich aber erst am 15. Dezember 1544 (in Abwesenheit des Kaisers) eröffnet (s. RTA JR XVI/1 64f); der Kaiser kam am 16. Mai 1545 in Worms an (s. RTA JR XVI/1 87). Die Ausschreibung war im Abschied des Reichstags zu Speyer am 10. Juni 1544 erfolgt (RTA JR XV/4, Nr. 565, S. 2276, §99). Kaiser Karl^#. V. sollte die Reichsstände in einem Schreiben vom 26. September 1544 zum Erscheinen in Worms auffordern (RTA JR XVI/1 54 und 88f, Nr. 1).<fe> Quod si verum est,
+rursum vexabimur fucosis conciliationibus, maxime cum
+adversarii religionem non intelligant. Quamvis omnia
+conabor, ut me hisce eximam.<f1>Zu Pistorius' ehemaligen Teilnahmen an solchen Gesprächen s. oben Nr. 1888, Anm. 12.<fe> Salutant vos aliquot ministri
+verbi per agrum Niddanum<f1>Nidda (Wetteraukreis, Hessen).<fe>.
+^$Raptim, ex Francofordia, 10. septembris anno domini 1544.
+<un>Iohannes Pistorius Niddanus
+<un>ex animo tuus totus.
+<lz>[Adresse auf der Rückseite:] Viro et eruditione
+et pietate clarod. Henrycho Bul[l]ingero, theologo
+Tigurino, domino suo plurimum colendo etc.
+</content>
+</letter>

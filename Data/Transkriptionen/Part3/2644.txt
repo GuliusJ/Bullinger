@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2644">
+<brief>
+<id>16334</id>
+<nr>2644</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-10-26"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>Konstanz, 26. Oktober [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 664 (Siegelspur); [Beilage:]
+<fn>Die undatierte und unterschriftslose Beilage gehört (im Gegensatz zu Schieß' Vermutung) wahrscheinlich nicht zu Blarers Brief vom 27. Oktober (<qv>nr2645</qv>), welcher anders als der vorliegende Brief schon eine Adresse aufweist. Zudem erlauben die Faltungen des vorliegenden Briefes und der hier veröffentlichten Beilage die Vermutung, dass der Brief (ohne Adresse) in die Beilage (mit Adresse) eingeschoben wurde.</fn> 668</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 526, Nr. 1363 (Brief)<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 43</k>; 527f, Nr. 1364 (Beilage)</dr>
+<re><t>Blarer empfiehlt den vortrefflichen Jungen Johannes [von Ulm], den Neffen von Blarers Schwager [Heinrich von Ulm], welcher auf Schloss Griesenberg lebt. Johannes ist der Sohn von Heinrichs [verstorbenem] Bruder Hans Jakob von Ulm, der in Teufen mit seiner Frau [Barbara, geb. zum Tor], die nicht die Mutter des Jungen ist, wohnhaft war. Der vielversprechende Knabe besuchte etwa zwei Jahre lang die Konstanzer [Latein]schule unter [Matthias Schenk]. Nun wollen ihn seine Onkel [...] zusammen mit dem nicht weniger zu empfehlenden Augustin [...], in [dessen Haushalt] er einige Jahre gelebt hat, zum Studium nach Zürich schicken. Bullinger möge sich beider annehmen! [Barbara, geb. von Ulm], die Frau von [Jakob] Röist, ist Johannes' [Halb]schwester und liebt diesen aufgrund seiner Klugheit und seines Charakters. Sie wird sich um eine Unterkunft für die beiden kümmern. Bullinger soll ihr dabei mit seinem Rat beistehen.</t>
+<t>Grüße an Bullingers Familie sowie an [Konrad] Pellikan, Theodor [Bibliander] und Gwalther. Auch [Konrad] Z[wick] und der für Bullingers freundliche Großzügigkeit dankbare [Thomas] Blarer lassen grüßen.</t>
+<t>[P.S.:] Blarer soll die beiden Jungen auch im Namen Zwicks und [Thomas] Blarers aufs Wärmste empfehlen. Nun aber genug, er weiß ja, dass er sich auf Bullinger verlassen kann!</t>
+<t>[Beilage:] Aus einem Brief des Landgrafen [Philipp von Hessen] an einen guten Mann [Bucer]:</t>
+<t>Im andauernden [Schmalkaldischen] Krieg muss man auf Gott vertrauen. Hätten [die Schmalkaldener] nicht so viele [verschiedene] Kriegsführer gehabt, hätten sie schon längst etwas ausrichten können, etwa, wenn man am ersten Tag des Beschusses von Ingolstadt [dem Feind] nachgestoßen wäre, was der Landgraf gerne gehabt hätte und weswegen er auch zum Kurfürsten [Johann Friedrich von Sachsen] und zu den anderen Kriegsräten geritten ist. Aber Gott scheint die Sache zu einer anderen Zeit richten zu wollen. Bisher haben die [Schmalkaldener] bei allen Gefechten geringe und der Feind hohe Schäden erlitten. Auch konnten alle feindlichen Einfälle aufgehalten werden. Am Vortag wurden etliche Feinde getötet. Man hofft auf göttlichen Schutz.</t>
+<t>Blarer weiß außer dem, was [Thomas] Blarer Bullinger bereits erzählt hat, und dem, was [der Konstanzer Rat schon dem Zürcher Rat] über das Scharmützel bei Langenau berichtet hat, nichts Neues. Die Sache muss sich ändern, weil man [wegen des Wintereinbruchs] nicht mehr länger im Feld liegen kann.</t>
+<t>Etliche vermuten, dass der Kaiser [über den Pass bei der] Klause Ehrenberg [nach Italien] abziehen wird.</t>
+<t>Blarer wartet auf Bullingers Bericht über den Tag [der Vier protestantischen Orte].</t></re>
+<text>
+<div>
+<p><zzl>zl16334-3A</zzl>Commendo tibi egregium huncce adulescentem Ioannem
+<fn>Johannes von Ulm, der vorliegenden Brief an Bullinger überbrachte; s. <qv>nr2645</qv>,<qv>zl16335-1</qv>.</fn>, sororii mei
+<fn>Blarers Schwager Heinrich von Ulm, der mit dessen Schwester Barbara verheiratet war.</fn> apud Griessenbergum
+<fn>Schloss Griesenberg (Amlikon, Kt. Thurgau).</fn> nepotem ex fratre Ioanne Iacobo ab Ulmis
+<fn>Hans Jakob von Ulm, der bereits vor 1539 gestorben war. Johannes von Ulm war sein unehelicher, aber anerkannter Sohn.</fn>, cui Tüffen
+<fn>Teufen, Kt. Zürich, in der Nähe von Rorbas.</fn> domicilium erat, quamquam non ex uxore
+<fn>Barbara, geb. zum Tor (gest. vor 1539).</fn> illum suscepit. Tam est autem pius et mire diligens in studiis,
+<fn>Der spätestens 1529 (s. <qv>nr2716</qv>, <qv>fn16405-1</qv>) geborene Johannes von Ulm hatte 1543/44 (schon vor seinem Konstanzer Studium) auch in Basel studiert.</fn> ut spem magnam nobis fecerit de se futur{e} bon{e} frugis. H{e}sit hic in nostro ludo literarum apud magistrum
+<fn>Wohl Matthias Schenk, der von 1543 bis 1548 die Konstanzer Lateinschule leitete.</fn> integro (ni fallor) biennio aut paulo plus. Nunc visum est patruis
+<fn>In Frage kommen neben Heinrich von Ulm auch Joachim Mötteli vom Rappenstein, der mit Heinrichs Schwester Petronella verheiratet war, sowie Heinrichs Bruder Gregor (gest. 1576); s. Carl <i>Keller-Escher,</i> Promptuarium genealogicum, Bd. 7 (Zürich ZB, Ms Z II 6a), S. 157; <a>HBLS</a> VII 114. Johannes von Ulms leibliche Mutter und somit deren Geschwister sind unbekannt.<zfn>fn16334-2</zfn></fn> ipsius Tigurum illum mittere cum altero non minus pio et studioso adulescente Augustino
+<fn>Laut Blarers folgender Angabe lebte Johannes von Ulm schon einige Jahre im gleichen Haushalt wie Augustin. Dieser befand sich wohl im damaligen "Thurgau" (dem auch der nördliche Teil des Zürcher Gebiets, also auch die Herrschaft Teufen, angehörte; s. <a>HBBW</a> XV 309, Anm. 2), da von Ulm in einem Brief aus England 1548 an Bullinger bemerkte, dass er zuvor sein ganzes Leben im Thurgau verbracht sowie für zwei Jahre (also ab Oktober 1546) in Zürich gelebt habe (s. <a>Epistolae Tigurinae</a> 267). - Wohl der gleiche Augustin überbrachte 1547 und 1548 einen Brief Blarers an Bullinger (s. <a>Blarer BW</a> II 630, Anm. 1. 724). Es wird sich hier kaum um den gleichnamigen Sohn Thomas Blarers handeln, wie Schieß dies in <a>Blarer BW</a> II 630, Anm. 1, vorgeschlagen hat, da zum einen Ambrosius Blarer Augustins Familienzugehörigkeit im vorliegenden Brief wohl erwähnt hätte, zum anderen Augustin Blarer erst 1552/53 nachweislich in Zürich studierte und bei Bibliander untergebracht wurde (s. <a>Blarer BW</a> III 157f. 216), und 1555/57 sein Studium in Straßburg fortsetzte (s. <a>Blarer BW</a> III 331. 343. 359. 364. 388). Ob es sich bei der Person, die Johannes von Ulm 1551 als "meinen Bruder Ziegler" (s. <a>Epistolae Tigurinae</a> 282) grüßen lässt, um vorliegenden Augustin handelt, bleibt derzeit offen.<zfn>fn16334-3</zfn></fn>, quocum annis nunc aliquot vixit, ut istic
+<fn>d.h. in Zürich.</fn> in bonas pariter et sacras literas, praeterea etiam linguarum studia, incumbant; quod utinam tam faciant feliciter, quam non dubito facturos diligenter! Tu si conatus illos iuvare poteris (poteris autem plurimum), valde te rogo, ut mea quoque caussa officiose facias. <zzl>zl16334-4A</zzl>Uxor
+<fn>Barbara, geb. von Ulm, die in Zürich lebte.</fn> Röstii
+<fn>Der Zürcher Kleinrat Jakob Röist.</fn> soror est adulescentis, tametsi ipsa sit ex legitimo matrimonio prognata. Amat tamen illum propter ingenii bonitatem et morum candorem plurimum.<zzl>zl16334-4E</zzl> Dispiciet iam, ubi istic commode habitare ac vivere possint, tuo in hac re consilio usura
+<fa><i>In der Vorlage</i> usurus <i>(vielleicht dachte Blarer dabei an Jakob Röist).</i></fa>, quod, scio, haud gravatim dabis.<zzl>zl16334-3E</zzl></p>
+</div>
+<div>
+<p>Saluta tuam domum cum Pellicano, Theodoro
+<fn>Theodor Bibliander.</fn>, Gvalthero ac c{e}teris. Salvere te iubent nostri, cumprimis Z[viccius]
+<fn>Konrad Zwick.</fn> <zzl>zl16334-2A</zzl>cum germano meo fratre
+<fn>Thomas Blarer, der offensichtlich bereits aus Zürich, wo damals die Vier protestantischen Orte noch tagten (s. <qv>nr2606</qv>, <qv>fn16294-1</qv>), zurückgekehrt war; vgl. <qv>nr2636</qv>,<qv>zl16326-2</qv>.<zfn>fn16334-1</zfn></fn>, qui vestrum omnium humanitatem ac liberalitatem mirifice praedicat.<zzl>zl16334-2E</zzl> Bene vale, mi venerande Bullingere. Constantiae, 26. octobris.</p>
+</div>
+<div>
+<p>Demandarunt iam etiam frater germanus et Zviccius, ut suis etiam verbis adulescentes istos accurate tibi commendem! Impendio enim illos ob singulare pietatis et literarum studium diligunt. Verum sat scio tibi hac in re nullis opus esse calcaribus, quippe qui, quum sis optimus, ultro bonos omnes, quibus potes rationibus, adiuvare soleas.</p>
+<un>Tuus A. Bl.</un>
+<lz/>
+<p>[Beilage:]</p>
+</div>
+<div>
+<p><vl>668</vl> <zzl>zl16334-5A</zzl>Ausß ainem schreiben des landtgrauffen kurtzlich an ain g{uo}ten mann
+<fn>Es handelt sich um einen Auszug aus einem an Bucer gerichteten Brief von Philipp von Hessen (Druck in <a>Lenz</a> II 468f, Nr. 242, dort auf ca. 27. September datiert, wobei hier wohl ein späteres Datum in Betracht gezogen werden muss; s. nämlich unten <qv>fn16334-7</qv>), den Bucer wahrscheinlich mit dem Schreiben vom 18. Oktober an Blarer weitergeleitet hatte (<a>Blarer BW</a> II 523, Nr. 1358).<zfn>fn16334-6</zfn></fn>:</p>
+</div>
+<div>
+<p>"Sovyl die yetzige kriegslöff betrifft, m{oe}gen ir uns glouben, das wir unser vertrauwen allain uff gott, des sach es ist, stellen, und setzend ungezwyfleter z{uo}versicht, er werde es z{uo} seines nammens ehr und glori schicken. <zzl>zl16334-6A</zzl>Wa
+<fn>Wenn.</fn> auch bysanher nitt sovyl h{oe}pter uff unser seyten gewesen,
+<fn>Anspielung auf die Uneinigkeit unter den schmalkaldischen Kriegsführern, die der Landgraf des Öfteren kritisierte; s. z.B. sein Schreiben an Herzog Ulrich von Württemberg vom 19. Oktober (<a>Rommel</a> III 159-163, Nr. 39) und an die Kriegsräte in Ulm vom 3. November (<a>Rommel</a> III 163-169, Nr. 40). In letzterem Brief schrieb er: "In diesem zug ... findenn wir nit einen geringen mangel an dem das zwei heupter und zwei Regiment gewesen. Dann was einer gebeutet, verbeutet der annder" (aaO, S. 168).<zfn>fn16334-4</zfn></fn> wollen wir gewisslich darf{ue}r achten, es were langes
+<fn>längst.</fn> was treffelichs ausgericht. <zzl>zl16334-6E</zzl> Dann so man des ersten tags, da wir den feind vor Ingelstadt beschossen,
+<fn>Anspielung auf das Scharmützel vom 2. September; s. <a>HBBW</a> XVII 453f,84-94. 120-130; 477f,19-23.</fn> were nachgetrukt (wie wir gern gesechen und derwegen z{uo} unserm lieben vetter und br{uo}der, dem churfursten,
+<fn>Johann Friedrich I. von Sachsen.</fn> und kriegsr{ae}then geritten), hett man zweyfelsfrey was stattlichs ausgericht. Aber gott hats vyllicht domals nitt haben wellen, sondern gedenckts z{uo} ainer andern zyt ze schicken und z{uo} f{ue}gen, wie sin gnediger wyll ist. Wir sind byßhär uff allen scharmutzeln mitt wenigstem und die find mitt gr{oe}stem schaden darvon kommen. Habend ouch alle infell, so der find fürgenomen, erhalten
+<fn>aufgehalten.</fn>. Haben ouch gestern
+<fn>Angesichts der Angabe in oben <qv>fn16334-6</qv> über Bucers Weiterleitung des landgräflichen Briefes an Blarer und angesichts der Entfernungen zwischen den Briefschreibern ist hier sehr wahrscheinlich das Scharmützel vom 5. Oktober gemeint, das bereits am 4. begonnen hatte; vgl. <qv>nr2612</qv>,<qv>zl16301-19</qv> und <qv>fn16301-21</qv>; <qv>nr2613</qv>,<qv>zl16300-13</qv>; <qv>nr2616</qv>,<qv>zl16303-7</qv>; <qv>nr2626</qv>,<qv>zl16316-22</qv>.<zfn>fn16334-7</zfn></fn>, gott lob, inen noch ettliche g{uo}te leut erlegt, und hoffen z{uo} gott, er werde sein hand uber unß halten", etc.<zzl>zl16334-5E</zzl></p>
+</div>
+<div>
+<p>Wir habend sonst nichts news, das ich wisse, dann was ir von meinem lieben br{uo}der
+<fn>Siehe oben <qv>fn16334-1</qv>.</fn> gesagt, <zzl>zl16334-7A</zzl>und das ouch den ewern sydher z{uo}geschriben
+<fn>Mit einem Schreiben vom 23. Oktober; s. <qv>nr2635</qv>, <qv>fn16325-2</qv>.</fn> von Langenauw
+<fn>Langenau (Alb-Donau-Kreis). - Siehe dazu <qv>nr2635</qv>,<qv>zl16325-8</qv>.</fn>, das die unsern ettlich daselbst erstochen, darnach mitt andern ouch gscharmutzt.<zzl>zl16334-7E</zzl> Es m{uo}ß nunmehr all tag die sach sich anderst schicken. <zzl>zl16334-8A</zzl>Es wirt sich nitt mehr z{uo} feld ligen lassen.
+<fn>Wohl wegen des bevorstehenden Wintereinbruchs.</fn><zzl>zl16334-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16334-9A</zzl>Etlich wellen mainen, der k[ayser]
+<fn>Karl V.</fn> werd den abzug durch die Cluß
+<fn>Die Klause Ehrenberg. - Dies vermutete Blarer schon im Brief vom 16. Oktober; s. <qv>nr2626</qv>,<qv>zl16316-17</qv>.</fn> nemmen, diewyl er sonst nitt wol kan usskommen
+<fn>d.h. aus Deutschland heraus.</fn>.<zzl>zl16334-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16334-1A</zzl>Was uff dem tag
+<fn>Der Tag der Vier protestantischen Orte; s. oben <qv>fn16334-1</qv>.</fn> gehandelt, gewart ich von euch all stund z{uo} vernemmen.
+<fn>Diesem Wunsch kam Bullinger in seiner Antwort vom 1. November (<qv>nr2652</qv>) nicht wirklich nach.<zfn>fn16334-5</zfn></fn><zzl>zl16334-1E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Eximie pio doctoque d. Heinricho Bullingero, Tiguricensi episcopo, amico et fratri incomparabili.</p>
+</div>
+</text>
+</brief>

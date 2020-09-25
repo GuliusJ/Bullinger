@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="591">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>11. Juni 1535</date>
+</space_time>
+<record>Abschrift von Stumpfs Hand: Zürich ZB, Ms S 313, 8r.</record>
+<record>Teildruck: Johannes Stumpfs Schweizer- und Reformationschronik, I. Teil,</record>
+<print></print>
+<note>hg. v. Ernst Gagliardi, Hans Müller und Fritz Büsser, Basel 1952. -- QSG I/V,</note>
+<note>S. XVII</note>
+<statue>
+Hans Füssli, der an einem Zweitagefieber leidet, ist nicht in
+Lebensgefahr; sollte er dennoch
+sterben, wird Bullinger an Stumpfs Brief (*Nr. 590*) denken. Hat Georg
+Ottlis Aufzeichnung erhalten und wird für Stumpf die Schlacht (*am
+Gubel*) darstellen; sollte er nicht dazu kommen, wird er ihm die
+Unterlagen überlassen.
+</statue>
+<content>
+Heinricus Bullingerus Ioanni Stumpfio suo+a.
+<p>Gratiam et pacem etc.</p>
+<p>Recte valet Füesslius+b+1, charissimus frater, sequundana modo febri obnoxius nonnihil laborat. De vita non est periculum. Ac si vocaretur a domino, memor ero literarum tuarum+2.</p>
+<p>Georgius Ottelius scriptam historiam+3 mihi ante mensem propemodum tradidit. Perscrutatus sum etiam ipse quaedam a parte adversa. Conor ipse tibi faciem eius pugnae delineare. Negotia hactenus prohibuere.
+Ubi non potero brevi absolvere, fragmenta mittam, ex quibus tu
+sarcias omnia.</p>
+<p>Valebis, charissime frater.</p>
+<p>11. iunii 1535.</p>
+</content>
+<note>
+<print>
++a>Von  Heinricus  bis  suo  mit roter Tinte geschrieben, von
+Stumpfs Hand.
++b>von Stumpf am Rande:  Ioannes Fu$li, civis Tigurinus.
+</print>
+<address>
++1>Hans Füssli.
++2>Johannes Stumpf an Bullinger, 9. Juni 1535 (oben Nr. 590).
++3>Zu Georg Ottlis Bericht über die Schlacht am Gubel vgl. ebd.,
+Z. 14-17 und Anm. 10.
+</address>
+</note>
+</letter>

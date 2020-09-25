@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1889">
+<nr>1889</nr>
+<correspondents>
+	<originator fn=1>Wigand Happel</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Es handelt sich um Happels ersten Brief an Bullinger; s. HBBW XIII 155.</note>
+</correspondents>
+<space_time>
+	<place>Frankfurt am Main</place>
+	<date>8. April 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 356, 938 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 115^&x{
+<dr>Ungedruckt</dr>
+<re>Wird nie vergessen, welche Wohltaten ihm Bullinger während seines Aufenthalts in Zürich erwies; erinnert sich dankbar an den freundlichen Empfang für ihn und Johannes [Pincier], an das Vorlesen vertraulicher Briefe, an die Empfehlung, die Bullinger für ihn an Thomas Blarer schrieb, an den freien Zugang, den er ihm gewährte, an die Bücher, die er ihm zum Abschreiben überließ, an den geschenkten Wein, das festliche Mahl und die Abschiedsworte, als er sie aus der Stadt hinaus begleitete. Verweist auf die an [Konrad] Pellikan und [Theodor] Bibliander gerichteten Briefe; Grüße.
+</re>
+<tx>Temperare mihi non possum,<f1>Vgl. Plinius d.J., Epistulae, 9, 5, 3.<fe> quin tuae humanitati, omnium humanissime Bullingere, pro singulis fere tuis in me meritis
+gratias agam, etsi profecto id faciam cum pudore. Neque enim
+tanta necessitudo, quantam tu mihi tecum intercedere
+voluisti, requirere videtur gratiarum actionem, neque ego
+libenter tuis in me summis beneficiis tam vili orationis
+defungor munere, ac mehercule mallem praesens observantia
+officiorumque assiduitate atque re etiam, si per fortunae
+tenuitatem daretur, memorem me tibi ostendere. Amor enim
+tuus et iudicium de me utrum mihi plus dignitatis et honoris
+apud vos an voluptatis in perpetuum attulerit, non facile
+divinarim.<f1>Die Briefeinleitung paraphrasiert Cicero, Epistulae ad familiares, 10, 24, 1.<fe> Utroque certe istorum factum est, ut non solum abs
+te, verum etiam ab aliis tui similibus viris optimis et
+doctissimis magnis honoribus aucti, beneficiis et officiis
+affecti maximis Tyguro postea discesserimus.<f1>Zum Aufenthalt von Wigand Happel und Johannes Pincier im Haus von Konrad Pellikan in Zürich s. oben Nr. 1887, Anm. 2.<fe> Atque, ut silentio praeteream, quae alii te duce vel tuo potissimum
+excitati exemplo nobis praestiterunt, tua quaedam in nos
+merita commemorabo, quo mihi ea memorię adhuc inhaerere
+meę intelligas. Quantae, quaeso, fuit humanitatis et
+benevolentiae, quod me ac Ioannem<f1>Johannes Pincier.<fe> meum nullo nostro merito
+primum splendi[di]ssimo accepisti convivio, literas quasdam
+maximi momenti perlegisti<f1>Gemeint ist möglicherweise Luthers Brief an Christoph Froschauer vom 31. August 1543; s. oben Nr. 1874, Anm. 3.<fe> et secreta revelasti non cuivis
+alioquin committenda, ac proficiscenti mihi Constantiam
+praeter omnem meam expectationem nec rogatus commendatitias
+dedisti literas ad optimum et disertissimum virum Thomam
+Blaurerum,<f1>Das Schreiben an Thomas Blarer ist nicht erhalten, Ambrosius Blarer bezieht sich jedoch in seinem Brief vom 15. Juni 1543 auf Bullingers Empfehlung für Happel; s. HBBW XIII 155, 2-14.<fe> quibus sane tantum effectum, ut summo ibi honore et beneficiis cumulatus fuerim! Quid, quod liberum ad te
+aditum mihi patefecisti ac familiariter<fx>-liariter ^#/+am Rande nachgetragen.^#/-<fe> de rebus variis
+mecum<fx>mecum ^#/+über der Zeile nachgetragen.^#/-<fe> conferre sermones non es gravatus librosque tuos
+quosdam communicasti describendos, neque tamen iis omnibus
+contentus etiam coenam nostram tua praesentia ac hilaritate
+exornare, amplo longoque vitro fragrantissimi vini donare nos
+dignos censuisti, postremo, ut publico celebri aut frequenti
+convivio cohonestaremur, effecisti, Tyguro itinere multo nos
+deduxisti sanctissima nos instruens doctrina ac domini
+misericordiae et gratiae commendans? Ob eiusmodi tuum erga
+nos studium, amorem fidemque summam ago et habeo gratias
+immortales et agam, dum vivam; nam relaturum me pro certo
+affirmare non possum. Tantis enim officiis et beneficiis
+tuis non videor mihi unquam respondere posse, nisi forte ita
+sensurus es, ut me referre gratias existimes, dum memoria
+tenebo. Verumtamen, utut ista sint, gratificandi profecto
+tibi nec tempus nec locum facile praetermisero unquam.
+^$Haec paucis ad te perscribere mihi visum est.
+Si quae alia ex me cognoscere cupis, dominum Pellicanum,
+patrem nostrum in domino reverendum, ac dominum
+Bibliandrum, paeceptorem unice observandum nostrum, rogabis,
+ut tibi meas ad se literas communicare velint.<f1>Erhalten ist nur der am 7. April an Konrad Pellikan gerichtete Brief (Zürich ZB, Ms F^#. 47, 81f).<fe>
+^$Vale in
+domino foeliciter, vir optime, ac boni consule hanc in
+scribendo rusticitatem meam; titulis te multis haudquaquam
+delectari scio<fx>scio ^#/+über der Zeile nachgetragen.^#/-<fe>, quamobrem iis supersedeo. Salutabis meo nomine quam familiariter totam familiam tuam ac sigillatim et diligenterd. Gesnerum<f1>Konrad Gessner.<fe>, M. Otthonem<f1>Otto Werdmüller.<fe> ac dominum praepositum<f1>Propst Felix Frey.<fe>, viros bonos et doctos. Iterum vale.
+^$Datae Francofurti, anno a virginis partu 1544, octavo
+aprilis.
+<un>Tuus toto pectore<f1>Adagia, 1, 4, 26 (ASD II/1 428, Nr. 326^&xLB II 160f^&x{).<fe> Vigandus Happelius.
+<lz>[Adresse auf der Rückseite:] Dignissimo et vigilantissimo Tygurinae ecclesiae episcopo domino Heinricho Bullingero, domino et patrono suo plurimum reverendo. Zurich.
+</content>
+</letter>

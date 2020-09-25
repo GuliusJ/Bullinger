@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1119">
+<nr>1119</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>31. März [1538?]</date>
+	<note>Diese bereits von J. J. Simler vorgeschlagene Datierung (vgl. Zürich ZB, Ms S 44, 77) beruht auf der Annahme, der im Brief erwähnte Schützling Bullingers sei Rudolf Gwalther. Vgl. dazu Anm. 2.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 205 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Kann die Aufnahme von [Rudolf Gwalther?] in sein Haus noch nicht zusichern, möchte aber Bullinger gerne den Gefallen tun und wird bald Bescheid geben.
+</re>
+<tx>S. Sic habent res, ut nec negare nec annuere nunc quidem possim. Egere mecum de eadem re quidam, quorum liberi si quidem
+aderunt, sic ut expecto brevi, locus erit et huic tuo<f1>Gemeint ist vermutlich Rudolf Gwalther; um Mitte Juli entschuldigt sich
+Grynäus, daß er die Bitte um dessen Aufnahme in sein Haus noch nicht beantwortet habe (s. unten Nr. 1146, 1-10).<fe>. Sin
+minus, vides, quam non sit aequum operam uni locare. Sane dudum istam a me provinciam reieci, verum vincit improbitas hominum
+dicam an authoritas, ut tenere meum in studiis propositum non possim. Tibi vero, mi Bulingere, quam aequum est gratificari
+bonos omnes et quam<fx>^#/+vor ^#/-quam ^#/+gestrichenes ^#/-quam.<fe> ipse inter bonos censeri cupio, tam studebo
+diligenter obsequi et, quantum id fieri potest, amorem tuum demereri.
+^$Vale.
+^$Pridie calendas aprilis.
+<un>Simon
+Grynaeus tuus.
+<lz>Respondebitur tibi brevi.
+<lz>[Adresse auf der Rückseite:] Domino Heynricho Bullingero, viro egregio, fratri in Christo.
+</content>
+</letter>

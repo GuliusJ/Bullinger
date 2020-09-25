@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2400">
+<brief>
+<id>16426</id>
+<nr>2400</nr>
+<ae>Joachim Vadian an Bullinger</ae>
+<od>[St. Gallen], 30. März 1546
+<fn>Das Datum des Briefes ergibt sich aus unten Z. <qv>zl2400-1</qv>. Der Brief traf am 1. April in Zürich ein; s. <qv>nr2407</qv>,<qv>zl2407-1</qv>.</fn></od>
+<vo>Eine von Johann Jakob Wick angefertigte Teilabschrift des Briefes
+<fn>Weitere Angaben zum Inhalt dieses Briefes lassen sich aus <qv>nr2425</qv>,<qv>zl2425-3</qv>, rekonstruieren.</fn> und <br/>dessen Beilage:
+<fn>In der Wickiana-Sammlung unter dem Jahr "1571" und dem Titel: "Von dem erschrokenlichen fhal Herr Othmar Gluß, Decani z{uo} sant Gallen Anno 1546".</fn> Zürich ZB, Ms F 19, 224;
+<fa><i>Textgrundlage für die vorliegende Edition.</i></fa> <br/>Eine von Bullinger angefertigte Teilabschrift des Briefes allein: <br/>Zürich StA, E II 342, 126
+<fa><i>Veröffentlicht <qv>nr2407</qv>,<qv>zl2407-3</qv>.</i></fa></vo>
+<dr>Ungedruckt</dr>
+<re>[Johannes Schuhmacher, genannt] Otmar Gluß, Dekan der Abtei St. Gallen, ist seit Februar wegen Schlafmangels dem Wahnsinn anheimgefallen; die Gefangennahme des [Herzogs Heinrich von] Braunschweig [und dessen Sohnes Karl Viktor] nahm ihn nämlich sehr mit. Er ließ sich nach Wil führen, wo er lange Statthalter gewesen war. Am 27. März, frühmorgens, sprang er aus einem Fenster im zweiten Stockwerk. Man fand ihn reglos und stumm. Um 3 Uhr [nachmittags] starb er. Am 29. März wurde er in St. Gallen beigesetzt. Er hasste die [Protestanten].
+<t/>[Beilage:] Spottgedicht auf Gluß' Tod.</re>
+<text>
+<p>Herr Othmar Gluß
+<fn>Johannes Schuhmacher alias Otmar Wild, auch Gluß genannt, seit 1514 Konventual der Benediktinerabtei St. Gallen und seit 1526 deren Dekan. Von 1529 bis 1532 leitete er das Kloster in Abwesenheit des Abtes. Neben dem Dekanat hatte er spätestens ab 1532 auch die Statthalterei Wil inne; s. Rudolf <i>Henggeler,</i> Professbuch der Fürstlichen Benediktinerabtei der Heiligen Gallus und Otmar zu St. Gallen, Zug [1930] - Monasticon Benedictinum Helvetiae [1], S. 244, Nr. 13.<zfn>fn2400-1</zfn></fn>, decan dess closters z{uo} S. Gallen, ist im verschinnen
+<fn>vergangenen.</fn> Februario von mangelhaffte w{ae}gen dess schlaffs (dolebat enim ob captos tyrannos Brunsvicenses
+<fn>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel und dessen Sohn Karl Viktor. Seit Oktober 1545 wurden beide von Philipp von Hessen gefangen gehalten; s. <a>HBBW</a> XV 622 und Anm. 4. 638 und Anm. 40-42. 682f.<zfn>fn2400-2</zfn></fn>) z{uo} {oe}ttwas unsinnikeyt
+<fn>Wahnsinn.</fn> kommen, und sich angends
+<fn>darauf.</fn> uss dem Closter gen Wyl f{ue}ren lassen, do er vornaher
+<fn>zuvor.</fn> vil jar statthalter gew{ae}sen, daselbs sich in siner melancholy enthalten
+<fn>sich ... enthalten: verharrt.</fn>, und wenig lüth usserthalb der arzeten z{uo} im glassen, und alda biss uff den 27. tag Merzen gel{ae}gen. An welchem er morgens zwüschet fünff und sächs urr uss dem stübli geloffen und unbesinter wyß sich über ein beyen
+<fn>Fenster.</fn> uss, zweyer gmachen
+<fn>Stockwerke.</fn> hoch, gestürzt und also gefallen, das er von der red und verstand kommen sin und doch gel{ae}pt haben sol biß uff den abend. Umm die drü ist er verscheiden.</p>
+<p><zzl>zl2400-1A</zzl>Gester, des 29. Merzen,<zzl>zl2400-1E</zzl> z{uo} uns in das closter S. Gallen gef{ue}rt und nütt
+<fa>nütt <i>fehlt in Bullingers Fassung; vgl. <qv>nr2407</qv>,<qv>zl2407-4</qv></i>.</fa> mitt vil glüts
+<fn>Glockengeläut.</fn> und gesangs bestattet worden. Ich glaub nütt, das kein
+<fn>irgendein.</fn> listiger, h{ae}ssiger und uffseziger
+<fn>feindseliger.</fn> fyend
+<fn>Feind.</fn>, auch widerf{ae}chter unserer religion in der ganzen eydgnoschafft gew{ae}sen sye. Fortasse ita dei providentia actum, ut hypocrita violentissimus nunc violenta ac deplorata morte extingueretur.
+<fa><i>Bullingers Exzerpt überliefert einen zusätzlichen Satz, der allerdings nicht mit Gluß' Tod in Zusammenhang steht; s. <qv>nr2407</qv>,<qv>zl2407-5</qv>.</i></fa></p>
+<lz/>
+<p><vl>224v.</vl> [Beilage:] De miserabili casu Othmari Glussi, monachi benedictini, qui apud Villam
+<fn>Wil (Kt. St. Gallen).</fn> Turgiae
+<fn>Wil wurde damals dem Thurgau zugerechnet; s. <a>HBBW</a> XV 309, Anm. 2.</fn> se tertio de caeculo
+<fn>Hier wohl Diminutiv zu caelus und im Sinne von "dritter Boden", d.h. der Boden des zweiten Stockwerks.</fn> praecipitavit. J. V.
+<fn>= Joachim Vadian.</fn></p>
+<lz/> <g1>Dedalias Glusso pennas si fata dedissent</g1> <g2>In duram se non praecipitasset humum.</g2> <g1>At vero implumi prorsus ne morte periret,</g1> <g2>Illatum plumis triste cadaver obit.</g2>
+<lz/> <p>Decidit autem e sublimi fenestra die 27. Martii mane anno domini 1546 dubium volens, ne an demens. Deinde in grabatum reportatus, nona ferme post casum illum hora mortuus est.</p>
+</text>
+</brief>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1463">
+<nr>1463</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>11. Februar 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 362, 41 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 26</vo>
+<dr>Ungedruckt</dr>
+<re>Der von den Zürchern empfohlene Jude ist vom Rat beschenkt worden; da ihm ein anderer zuvorkam, kehrt er über Basel nach
+Zürich zurück. Der Briefüberbringer, ein Minorit aus Sardinien bzw. Apulien, hat sich dem evangelischen Glauben zugewandt,
+erhält aber in Bern wegen fehlender Sprachkenntnisse keine Anstellung und zieht deshalb nach Zürich oder Konstanz weiter;
+Bullinger soll ihm behilflich sein; in Chur hätte man ihm wohl eher helfen können. Der geplante Neudruck des Katechismus wurde
+vom Rat vorläufig untersagt, da ein Streit darüber drohte, ob die nach dem Weggang Kaspar [Meganders] angebrachten Änderungen berücksichtigt werden sollten.
+</re>
+<tx>Gratia et pax etc.
+^$Quem tantopere comendaveratis michi Iudeum<f1>Die Rede ist wohl von jenem nicht namentlich bekannten getauften Juden, der sich zuvor in Chur aufgehalten hatte (s. oben Nr. 1451).^&x zu denken ist aber auch an Michael Adam.^&x{<fe> tu, Leo<f1>Leo Jud.<fe> et Megander, huic tantum opis tuli apud
+senatum, ut tam ille quam filius egregie
+sit vestitus; nam uterque thorace<fx>^#/+In der Vorlage^#/- thoracę.<fe>, tibialibus et toga est donatus additis duobus
+aureis. Quoniam^&x wegen Indikativ kaum Quum^&x{ praevenerat eum alius sui generis, qui pariter vestitus alitur stipendio
+dominorum, Basilęam concessit inde rediturus Tigurum. Tulit et ab aliis bonis viris elemosinam, ut puto, ad tres aut quatuor aureos.
+^$Sed ecce, dum illum a prandio ablegaveram, venit ad
+cęnam hic frater minorita<f1>Unbekannt.<fe>, qui ait ex Sardinia se natum,
+aliquamdiu tamen vitam egisse in Apulia, ubi quum de
+religione nostra disserere audiebat, cupivit eam experiri et
+imitari. Venit igitur recta nunc ex Italia. Bernam primo
+petiit forsan ideo, quod sperabat hic in provintia nova<f1>D. h. in den 1536 von Bern eroberten savoyischen
+Gebieten.<fe> locum reperire posse<fx>^#/+In der Vorlage korrigiert aus^#/- posset.<fe>, ut sese ex monachismo extricaret,
+evangelio autem Christi nomen daret. Sed quia ignorat
+linguam Gallicam, Latinam et Germanicam, noluit eum senatus
+recipere, ubi videbat nullius usus<fx>^#/+In der Vorlage^#/- usui.<fe> eum futurum nobis, dedit
+vero aureum, sed et Trempius<f1>Lienhard Tremp.<fe> ex comuni elemosina quoque
+aureum addidit, sicque Tigurum adire constituit, quod si
+isthic manere non poterit, perrecturus Constantiam. Tu itaque
+tibi comendatum habeas et, si petiturus esset Constantiam,
+fratribus ibidem comendato. Ego vero credo apud Curiam
+Rheticam ob linguam et<fx>et ^#/+über der Zeile nachgetragen.^#/-<fe> propinquitatem Italie comodius
+illi prospici potuisse<fx>comodius illi prospici potuisse ^#/+am Rande nachgetragen.^#/-<fe>.
+^$Ceterum quod petis certior fieri, quid apud nos imprimatur:
+Ferunt<fx>^#/+In der Vorlage^#/- Fęrunt.<fe> catechismum nostrum imprimendum fore; sed quia pars magna voluit, ut illis
+condicionibus imprimeretur, quibus mutatus est post abitum Gasperi nostri,<f1>Anfang 1538 war der Berner Rat durch den
+Widerstand zwinglisch gesinnter Pfarrer gezwungen worden, den im Vorjahr durch Bucer abgeänderten Katechismus Kaspar Meganders
+nochmals zu revidieren; vgl. HBBW VIII, S. 49f; ^#/+Hundeshagen^#/- 102.<fe> alia parte repugnante iussus est
+typographus<f1>Mathias Apiarius.<fe> subsistere, neque audio adhuc a senatu quicquam super hac re deliberatum esse.
+^$Vale, ex Berna<fx>^#/+In der Vorlage^#/- Valę, ex Bęrna.<fe>, 11. februarii 1541.
+<un>Erasmus Ritter,
+<un>ex animo tuus.
+<lz>[Adresse auf der Rückseite:] Doctisismo viro Henricho
+Bullingero, Tiguri a concionibus sacris, charissimo fratri.
+Gen Zürich.
+</content>
+</letter>

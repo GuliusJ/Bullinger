@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1172">
+<nr>1172</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>um 9. September 1538]</date>
+	<note>Der Briefinhalt entspricht dem ersten Teil des Briefes von Myconius vom 9. September (s. oben Nr. 1171, 1-11).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 191 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Empfiehlt auf Bitte Amerbachs und anderer einen begabten Zürcher Knaben [Heinrich Hindermann], da dieser nicht länger bei
+seinen Stiefeltern bleiben kann.
+</re>
+<tx>S. Obsecro te, mi Bullingere<fx>Obsecro te, mi Bullingere ^#/+durch größere Schrift hervorgehoben.^#/-<fe>, ut
+puerum<f1>Heinrich Hindermann; s. ebd.<fe> ingenio praestanti, quantum multorum testimonio intelligo,
+vestratemque, si potest ullo pacto fieri, ne negligatis.
+Adiutus hic a nostris fuit aliquamdiu; verum sic nunc habet
+res, ut versari cum parentibus amplius commode non possit,
+noverca<f1>Nicht namentlich bekannt.<fe> et vitrico<f1>Peter Kriesi; s. ebd.<fe>. Dabis operam, sicubi possit iuvari;
+est indignum, si non excolatur ingenium tam aptum.
+Rogarunt me Amerbachius et alii quidam, ut ea de
+re te caeterosque fratres rogarem.
+^$Valebis in domino Christo, qui nos in sancta voluntate
+ipsius conservet. Amen.
+<un>Simon Grynęus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heynricho Bullingero, amico.
+</content>
+</letter>

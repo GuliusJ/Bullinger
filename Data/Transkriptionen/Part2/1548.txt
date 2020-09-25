@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1548">
+<nr>1548</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Nikolaus Müller gen. Maier]</addressee>
+	<note fn=1>Bullinger beantwortet die von Müller im Brief vom 22. Juni 1541 (oben Nr. 1537) gestellten Fragen.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>22. Juli 1541</date>
+</space_time>
+<vo>Abschrift von Rudolf Gwalthers Hand mit Unterstreichungen und Ergänzungen Bullingers: Zürich ZB, Ms F 154, 34r.-39r.<fx>^#/+Von f. 39 fehlt die untere (wahrscheinlich leere) Hälfte.^#/-<fe>, Nr. 8</vo>
+<dr>Ungedruckt</dr>
+<re>Entschuldigt die späte Beantwortung seines Briefs [Nr. 1537]. [1.] Die Frage nach der Geschöpflichkeit Christi wird von
+Leuten aufgeworfen, die auf Anstiftung des Teufels alte Ketzereien erneuern und die Leiblichkeit Christi verleugnen. Wer
+das Fortbestehen Letzterer über die Auferstehung hinaus in Frage stellt, stellt das gesamte Erlösungswerk in Frage. Ohne die
+leibliche Auferstehung Christi wären Sünde und Tod nicht überwunden. In Christus ist unsere eigene leibliche Aufnahme in
+den Himmel gewährleistet, wie Tertullian, gestützt auf Paulus, lehrt. Die Behauptung einer "Vergottung" des Leibes Christi ist ebenso falsch wie die Bestreitung seiner leiblichen
+Aufnahme in den Himmel; diese teuflische Irrlehre führt zur Leugnung der Auferstehung und damit zu größter
+Gottlosigkeit. Christus wird unseren Leib verwandeln, so wie auch sein eigener Leib verherrlicht wurde; die Debatten um
+dessen Geschöpflichkeit sind müßig. Gegen die Lektüre der Kirchenväter ist trotz gewisser Gefahren nichts einzuwenden;
+Bullinger empfiehlt zur angesprochenen Frage Schriften von Tertullian, Hieronymus und Augustin. Verweist zum Verständnis
+der Inkarnation auf die biblischen Zeugnisse und auf das athanasianische Bekenntnis. [2.] Was die Sakramente betrifft, so
+wurde die schlichte apostolische Lehre vor vier- bis fünfhundert Jahren durch die Einführung philosophischer
+Kategorien verdorben. Nach der Lehre der Apostel erhalten wir im Glauben Anteil an der Erlösung, die in Christi Tod und Auferstehung gründet. Zusätzlich zu dieser
+Lehre hat Christus der Kirche die Sakramente als sichtbare Zeichen gegeben. Das Herrenmahl ist eine von Christus
+angeordnete heilige Handlung. Durch diese wird der Inhalt der Lehre - Christi Heilstod - sichtbar bekräftigt. Das Abendmahl
+ist wie die Beschneidung ein Siegel zur Vergewisserung der Kirche; einzig die Messalianer hielten die Sakramente für
+überflüssig. Die Sakramente werden nach dem benannt, was sie bezeichnen, bleiben aber ihrer Natur nach, was sie sind; dies
+gilt für Beschneidung und Passah ebenso wie für die [alttestamentlichen] Opfer und für die Taufe. Entsprechend sind
+auch die Einsetzungsworte des Abendmahls zu verstehen; auch Augustin hat sie so ausgelegt. Die später eingeführten
+Umschreibungen der Realpräsenz Christi entsprechen nicht dem biblischen Zeugnis und sind widersprüchlich. Das Sakrament
+stellt dar, was im Glauben real empfangen wird; Zeichen und Sache entsprechen einander, müssen aber unterschieden werden.
+Der Vorwurf des Nestorianismus wird zu Unrecht erhoben; die Verbindung beider Naturen in Christus bedeutet allerdings nicht,
+dass sein Leib überall ist. Christus gibt sich den Gläubigen zur geistlichen Speise, während sein Leib im Himmel ist; sein
+Heilsopfer wird durch den Glauben angeeignet. Durch das, was wir im Mahl sehen, wird der Glaube gestärkt. Auch werden wir daran
+erinnert, dass wir Glieder des Leibes Christi sind. Zum Ritus hat sich Bullinger bereits im vorausgegangenen Brief und
+in "De origine erroris" geäußert. [3.] Wer trotz besserer Erkenntnis mit jenen kommuniziert, welche die leibliche
+Gegenwart Christi lehren, bereitet sowohl den Starken als auch den Schwachen Anstoß und versündigt sich damit. Ein Verzicht auf
+das Abendmahl wäre in diesem Fall weniger anstößig als die Teilnahme. Besser wäre es jedoch, eine Gemeinde aufzusuchen, in
+der richtig gelehrt wird. Müller sollte allerdings seine Stellung nicht aufgeben, da ihn Gott als Werkzeug gebrauchen
+kann, um die württembergischen Kirchen vom Gewissenszwang einer abergläubischen Lehre zu befreien; es wäre auch im
+Interesse des Fürsten [Ulrich von Württemberg], sich dafür einzusetzen; Müller soll für die Kirche beten.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Legati illustrissimi principis vestri<f1>Eberhard von Karpfen und Johann Königsbach, Gesandte Herzog Ulrichs von Württemberg
+zur Badener Tagsatzung vom 27. Juni 1541; s. EA IV/1d 37 h. 45f zu h.<fe> per urbis nostrae quaestorem aerarium<f1>Säckelmeister
+Jakob Werdmüller.<fe> literas<f1>Oben Nr. 1537.<fe> tuas, vir clarissime idemque mihi colendissime, fide bona et mature satis
+a Badena submiserunt; quibus haud dubie, si ullo pacto licuisset per negotia, respondissem. Quia vero non potui, obsecro tuam
+humanitatem, ne quid hic aegre ferat et ut hęc nostra
+boni consulat. Non enim quod deberem, sed quod possum rescribo.
+^$[1.] Quaestio de eo, num Christus creatura sit et quomodo
+creatura factus sit,<f1>Vgl. ebd., Z. 8-22.<fe> vetus est et diversis temporibus diversimode mirificis antiqui
+serpentis<f1>D. h. des Teufels, vgl. Apk 12, 9; 20, 2.<fe> artibus proposita, disceptata exagitataque. Et qui hodie eam revocant,<f1>Gemeint ist Kaspar Schwenckfeld.<fe> in
+speciem quidem aliam sententiam, sed revera eandem cum
+veteris erroris pravique dogmatis autoribus ac magistris
+sequuntur. Perpetuo vero sui similis vetus ille draco
+calcaneum benedicti seminis calcat mordetque et inimicitias
+exercet certando cum semine virgineo et membris eius.<f1>Vgl. Gen 3, 15 (in typologischer Anwendung auf Christus und die
+Kirche); Apk 12, 17.<fe> In hoc enim conveniunt cum veteribus novae ac nuper natae haereses, quod ipsam veram Christi
+humanitatem non plene confitentur, imo per vanas illas cogitationes suas in dubium vertunt adeoque et abnegant.
+Marcion, Cerdon et Manichęus<f1>Mani (vgl. HBBW I 98, Anm. 104).<fe> perhibebant Christum phantasma assumpsisse,<f1>Vgl. etwa Tertullian, Adversus Marcionem, 4, 42, 7 (CSEL XLVII 565, 5-15); Pseudo-Tertullian, Adversus omnes haereses, 6, 1 (CSEL XLVII 222, 22f).<fe> non corpus
+verum. Valentinus autem, tametsi non negaret prorsus carnem
+Christi, inficiebatur tamen illam de virginis assumptam esse
+substantiam; coelitus enim esse allatam, non in virgineo utero ex substantia virginis formatam fingebat.<f1>Vgl.
+Pseudo-Tertullian, Adversus omnes haereses, 4, 5 (CSEL XLVII 221, 5-8).<fe> Succedit his Apelles et corpus quidem Christo
+tribuit, sed aerium et carnem sydeream,<f1>Vgl. Pseudo-Tertullian, Adversus omnes haereses, 6, 5 (CSEL XLVII
+223, 23f).<fe> quae per virginem tanquam aqua per cannam defluxerit.<f1>Dies überliefert Pseudo-Tertullian (wie oben Anm. 11) als Lehre des Valentinus.^&xadv. omn. haer. 4, 5^&x{<fe> Sopitis vero monstris illis suscitat spiritus veteris serpentis
+alia instrumenta, quibus sibi invisissimam Christi triumphatoris carnem oppugnet. Emergunt ergo hodie, qui sua hypocrisi, vita
+sancta et dulci <gr>xrysología</gr><f1>Im Sinne von: Schönrednerei.<fe> suaviter et plausibiliter ceu gloriae
+Christi propugnatores fidelissimi et acerrimi scribunt et de
+eo disputant, num Christus in gloria creatura sit. Nolunt
+hi videri quicunque, imo ne tantillum quidem communicare cum
+veteribus hęreticis et erroribus carnem Christi veram
+abnegantibus; interea vero cum apertissime asserant dominum
+Iesum desiisse in gloria creaturam esse, quid, obsecro, aliud
+quam ipsam Christi carnem negant?
+^$Damnantur autem cum veteribus haereses novae a tonitrui
+filio<f1>Vgl. Mk 3, 17.<fe> Ioanne sic fulminante: "Omnis spiritus<fx>spiritus ^#/+vom Schreiber am Rande
+nachgetragen.^#/-<fe>, qui confitetur Iesum Christum in carne venisse, ex deo est. Et omnis spiritus, qui non confitetur Iesum Christum in carne venisse, ex deo non est" [1Joh 4, 2f]. An vero illi satis esse putant confiteri venisse Christum in carnem ad victimam usque, post victimam illum exuisse
+carnem? Annon potius
+veniendi verbo totum redemptionis mysterium complexus esse
+creditur? At quis unquam putavit aut docuit sola nativitate
+aut morte absolvi redemptionis mysterium? Annon adnumerantur
+merito Christi ex mortuis resurrectio, ascensio eius in
+coelum vera et sessio ad dextram patris? Ipse certe dominus
+in evangelio dixit: "Exivi a patre et veni in mundum; iterum
+relinquo mundum et vado ad patrem" [Joh 16, 28]. Paucis his
+voluit redemptionis mysterium explicare enumerareque, et
+tamen illa quoque recenset, quae mortem sunt consecuta.
+Paulus apostolus Ro. 8 [34]: "Christus est", inquit, "qui
+mortuus est, imo qui et suscitatus est, qui etiam est ad
+dexteram dei, qui et intercedit pro nobis." Et in 1. ad Tim.
+3 [16] idem dicit: "Citra controversiam magnum est pietatis
+mysterium. Deus manifestatus est in carne,
+<vl>34v.</vl> iustificatus est in spiritu, visus est
+angelis, praedicatus est gentibus, fides illi habita est in
+mundo, receptus est in gloria." Ideoque cum veniendi verbum
+totum mysterium Christi compręhendat, profecto tam is
+negat Christum venisse in carnem, qui eius carnem a
+resurrectione negat, quam qui ante resurrectionem negat. Imo
+in resurrectione et post resurrectionem veram carnem Christi
+negare, id est docere Iesum Christum in gloria et post
+clarificationem creaturam amplius non esse, est ipsam quoque
+mortem Christi inutilem reddere et potissimum passionis eius
+fructum, imo totum evangelium subvertere.
+^$Nolo hic mihi
+quicquam credas, nisi reperias ipsum apostolum Paulum hoc
+ipsum docuisse, quod modo dixi. Consule ergo hunc in 1. ad
+Cor. 15. cap., ubi inter alia: "Si Christus non resurrexit",
+inquit, "inanis est praedicatio nostra, inanis autem est et
+fides nostra, adhuc estis in peccatis vestris; ergo, qui
+obdormierunt in Christo, perierunt" [1Kor 15, 14. 17f]. Nam
+nisi resurrexisset vere et vero corpore suo - iuxta quod
+creatura est - a mortuis Christus, quis evincere potuisset
+peccatum morte eius esse abolitum et inferos enervatos?
+"Aculeus enim peccati mors" [1Kor 15, 56]. Proinde si
+mansisset inter mortuos, vicisset ipsum mors, quae scilicet
+retinuisset ipsum in seipsa, atque idcirco consequeretur ne
+peccatum quidem esse expiatum. Nunc vero, quia vere ex
+mortuis resurrexit, manifeste evicit mortem esse superatam
+atque adeo et peccatum esse expiatum. "Stipendium enim
+peccati mors" [Röm 6, 23]. Et vires morti suppeditat
+peccatum, ut ista superata peccatum quoque sublatum esse
+neccesse[!] sit. Hinc apostoli Christi non alium fidei nostrae
+articulum urserunt ferventius quam resurrectionis Christi,
+ut videre est in Actis<f1>Vgl. bes. Apg 4, 2. 33.<fe>. Paulus certe huic articulo totum salutis nostrae negotium ceu
+firmissimo fundamento imposuit. Testimonia extant ad Ro. 4 [22-25] et 10 [9], 1. Cor. 15, Philip. 3 [10f. 20f] et alibi
+quoque, praesertim vero 1. Thess. 4 [13-18]. Docuerunt autem
+apostoli unanimiter et uno ore Christum vere et vero corpore
+resurrexisse, unde creatura sit et permanserit etiam
+clarificatus neccesse est. Petrus enim Cornelium instituens
+in fide ait: "Testes nos deus elegit resurrectionis Christi, qui
+comedimus et bibimus una cum illo, postquam resurrexit a
+mortuis" [Apg 10, 41]. Lucas vero hoc convivii explicans
+sive describens: "Iesus", inquit, "venit et stetit in medio
+illorum et dixit: 'Pax vobis.' Ipsi vero territi existimabant
+se spiritum vel spectrum videre. Proinde dominus dixit eis:
+'Quid turbamini et huiusmodi cogitationes ascendunt in
+cordibus vestris? Videte manus meas et pedes meos, quia ego
+ipse sum. Contrectate me et videte, quia spiritus carnem et
+ossa non habet, sicut me videtis habere.' Et cum hęc
+dixisset, ostendit eis manus et pedes. Adhuc autem illis non
+credentibus dixit eis: 'Habetis hic aliquid edulii?' At illi
+obtulerunt ei partem piscis et favum mellis, et accepit et
+in conspectu eorum edit" [Lk 24, 36-43].
+^$Ex his facile intelligit tua prudentia, quot argumenta duci
+queant, quibus commonstratur Christum dominum in corpore
+quoque clarificato et in gloria creaturam esse, id est,
+apostolos diserte docuisse dominum Iesum vere ve­roque
+corpore resurrexisse. Neque ingenti mysterio caret, quod
+scimus carnem nostram, creaturam, creaturam inquam, agere in
+coelis in Christo. Pie enim et vere dixit Priscus
+Tertullianus in libro De resurrectione carnis<f1>Tertullian, De resurrectione mortuorum, 51, 2f (CChr II 994, 11-19).<fe>: "Sequester
+dei et hominum, Christus, ex utriusque partis deposito
+sibi", ait, "carnis quoque depositum servat in semetipso
+arrhabonem summae totius. Quemadmodum enim nobis arrhabonem
+spiritus reliquit,<f1>Vgl. 2Kor 1, 22; 5, 5.<fe> ita et a nobis arrhabonem carnis accepit
+<vl>35r.</vl> et vexit in coelum pignus totius summae illuc
+quandoque redigendae. Securi estote, caro et sanguis,
+usurpastis et coelum et regnum dei in Christo! Aut si negent
+vos in Christo, negent et in coelo Christum, qui vobis
+coelum negaverunt." Tantum Tertullianus, cui fidem non
+haberem, nisi Paulus prior dixisset: "Nostra conversatio in
+coelis est, ex qua et servatorem expectamus dominum Iesum
+Christum, qui transfigurabit corpus nostrum humile, ut
+conforme reddat corpori suo glorioso" etc. [Phil 3, 20f].
+^$Iam ut<fx>^#/+Vom Schreiber korrigiert aus^#/- uti.<fe> isti cum veteribus haeresibus carnem Christi
+veram negantibus participant, cum quibus et diabolo
+servientes venena mortifera spargunt in ecclesiam, ita cum
+illis quoque communicare ipsos certum est, qui veram domini
+ascensionem non plane ac plene confitentur. Carpocrates
+solam Christi animam ac spiritum, non carnem, perhibebat
+receptam in coelos.<f1>Vgl. Pseudo-Tertullian, Adversus omnes haereses, 3, 1 (CSEL XLVII 219, 7). - Zu den Karpokratianern,
+einer gnostischen Sekte des 2. Jahrhunderts, s. Jens ^#/+Holzhausen,^#/- in: LThK^#'3 V 1264.<fe> Apelles docebat
+Christum in ascensu suo singulis quibusque elementis reddidisse, quae descendendo et incarnando fuerat mutuatus, et sic
+dispersis<fx>^#/+Vom Schreiber korrigiert aus^#/- dispersit.<fe> quibusque corporis sui partibus in coelum spiritum duntaxat suum
+reddidisse.<f1>Pseudo-Tertullian, Adversus omnes haereses, 6, 5 (CSEL XLVII 223, 24-224, 1).<fe> Ab his quantulum, quaeso, illos distare credis,
+qui magna fidutia docere audent Christum in gloria non esse
+creaturam? Nam si Christus non est creatura in gloria, vero
+corpore caret, proinde corpus coelo non intulit, non itaque
+caro nostra in Christo coelos inhabitat. Quantulum vero
+differentiae inter illa esse credis: asserere Christum
+ascendisse quidem, sed divinitatem interim absorpsisse
+humanitatem ("vergottet sein"<f1>Vgl. z. B. CSch VI 313, 18.<fe>), et asserere Christum
+ascendisse in coelos, sed carnem interim evanuisse in aera?
+Utrunque sane est carnem Christi negare. Sic, sic illudit
+nobis satan et veteres errores venenaque prisca novis
+quibusdam fucis tecta propinat Christumque dominum et
+benedictam carnem eius impugnat, ne non verum sit, quod
+dicitur: "Ponam inimicitias inter te (serpentem scilicet) et
+inter semen illius (videlicet Christi et membrorum), ipsum
+conteret tibi caput, et tu conteres eius calcaneum" [Gen 3,
+15]. Revera enim contrivit calcaneum Christi, ipsam eius
+humanitatem, satan per Caiapham et Pontium Pilatum olim, nunc
+insectatur in istis suis membris eandem conaturque ipsam
+calcare in cordibus fidelium. Accedit ad hęc, quod
+infoelix hoc dogma de Christo non amplius creatura in gloria
+gradum praestruit ad omnem impietatem, ut tandem et carnis
+negetur resurrectio, quod quidem omnis impietatis caput et
+summa est. Id quod nulla probatione opus habere existimo.
+^$Caeterum, quod isto dogmate carnis resurrectio abnegetur et
+ex ecclesia amittatur, sic ostendo. Nostra corpora ad eum
+modum resurgunt, quo corpus Christi resurrexit. Ita enim
+docet Paulus 1. Cor. 15 [13. 15f. 20-22] et multis aliis locis. Si autem caro
+Christi deificata et divinitate absorpta est, ut Christus
+nulla sui parte creatura sit, profecto consequens est et
+corpora nostra talia futura, id est annihilanda. Christus
+"transfigurabit" (ut ait apostolus<f1>Phil 3, 21.<fe>) corpus
+nostrum humile, ut conforme reddat corpori suo glorioso.
+Habet itaque dominus ipse corpus, est itaque secundum ipsum
+creatura, qui secundum divinitatem creator est. Dicit autem
+significanter "transfigurabit", non "annihilabit" aut
+"transsubstantiabit" aut "deificabit", sed manente substantia
+alia figura donabit et induet, nimirum incorruptibilitate.
+Itaque ipsus<fx>^#/+Vom Schreiber korrigiert aus^#/- ipsius.<fe> quoque non abiecit aut dissipavit corpus
+suum in coelis, sed retinuit, ut sit in gloria adhuc verus
+deus et homo et iuxta naturam humanam creatura, et
+desiderabilis omnibus creatura, per quam certi sumus ceu
+arrhabone interposito, quod et corpora nostra in coelos sint
+post iuditium transferenda. Sic, inquam, docuerunt totius
+mundi doctores et magistri apostoli. Hęc ergo teneamus et
+in his simus, frater in domino colendissime. Valeant novae
+de creatura disputationes, quae semel totum hęresum et
+hęreticorum collegium occulte et mira cum vafricie
+antique<fx>^#/+Vom Schreiber korrigiert aus^#/- antiqua[?].<fe> serpentis restaurant.
+^$Non autem improbo, vir colendissime, quod veterum super hac
+re sententias inquiris. Iuvat enim aliquoties illos
+consuluisse, ut vel illud ex iis discamus, quales olim
+fuerint de iisdem rebus sententiae, quomodo vel confirmatae
+sint vel disputando dissolutae. Quanquam
+<vl>35v.</vl> diligenter singula illorum excutere et
+ingenium singulorum scriptis aptare magni sit laboris et non
+in omnibus fructus tanti, ut iam non dicam de periculo, quod
+non usquequaque<fx>^#/+In der Vorlage^#/- usquequaquam, ^#/+was jedoch keinen Sinn ergibt.^#/-<fe> diligentibus impondat lectoribus. Scio
+istos non undique sibi semper constare. Scio, quam obscure et
+ambigue aliquoties disserant. Sed id tribuendum gravitati
+causae et adversariorum improbis artibus, quas ubique cavere
+oportuit.
+Nihil enim nunc dicam de eo, quod ingenia optima diutinis
+rixis<fx>^#/+Vom Schreiber korrigiert aus^#/- rixit.<fe> ita delassantur, ut per nauseam et molestiam saepe
+sibiipsis excidant. Quod si omnino vacat et volupe est
+veterum scripta super hoc negotio co­gnoscere, hoc est eos
+legere, qui huic quaestioni affinia scripserunt, lege
+Tertullianum De carne Christi<f1>Tertullian, De carne Christi (CChr II 871-917).<fe> et De resurrectione carnis<f1>Tertullian,
+De resurrectione mortuorum (CChr II 919-1012).<fe>, item in fine libelli, quem contra Praxeam scripsit.<f1>Tertullian, Adversus
+Praxean (CChr II 1157-1205, bes. 1198ff). - Praxeas, der aus Kleinasien kam und gegen Ende des 2. Jahrhunderts in Rom gegen die Montanisten auftrat, ist einzig aus dieser Schrift
+Tertullians bekannt; s. Silke-Petra ^#/+Bergjan,^#/- in: RGG^#'4 VI 1576.<fe> Est tamen hic scriptor omnium, quos legi inter
+scriptores ecclesiasticos, obscurissimus et difficillimus, attamen non inutilissimus, quanquam et is suos quoque habeat
+nęvos. Lege d[ivi] Hie­ronymi ad Pammachium<f1>Pammachius, geb. um 340, gest. 409, ein asketisch lebender vornehmer Römer,
+gehörte dem Senat an und war mit Hieronymus befreundet, von dem er mehrere Briefe erhielt. - Lit.: Wilhelm M. ^#/+Gessel,^#/- in:
+LThK^#'3 VII 1306f.<fe> adversus errores Ioannis Hierosolymitani<f1>Johannes II., geb. um 356, gest. 417, war ab
+387 Bischof von Jerusalem. Hieronymus beschuldigte ihn des Origenismus. - Lit.: Georg ^#/+Röwekamp,^#/- in: LThK^#'3 V
+918f.<fe> et ordire lectionem circa medium libelli, ubi legis sic<f1>Hieronymus, Contra Ioannem Hierosolymitanum, 23 (MPL
+XXIII 390).<fe>: "Transeamus hinc ad famosam de<fx>^#/+Vom Schreiber korrigiert aus^#/- re.<fe> resurrectione carnis et
+corporis quaestionem" etc. Lege item sancti Augustini libellum De agone christiano<f1>Augustin, De agone christiano (CSEL XLI 101-138).<fe>. In libris De trinitate<f1>Augustin, De trinitate (CChr 50-50A).<fe> plenissime de his
+disputat. Haec ideo copiose persequi libuit, quod ex tuis literis facile intellexi, quam cupias plene audire meam
+sententiam, quam primis meis literis<f1>Bullingers vorausgegangener Brief ist nicht erhalten.<fe> brevioribus forte, quam par sit,
+perstrinxi. Quin ardor scribendi in praesentia ferventior fuit, quam cum scriberem priores.
+^$Porro, quomodo Christus creatura factus sit, arbitror te ex
+eo intelligere, quod satis perspicue apostoli dixerunt deum
+hominem esse factum. Nam Ioannes: "Verbum", inquit, "caro
+factum est" [Joh 1, 14]. Paulus et Ioannes dixere: "Filius
+dei venit in mundum" [Joh 11, 27; 1Tim 1, 15], "Apparuit"<f1>Vgl. u. a. Hebr 9, 26; 1Joh 3, 5. 8.^&xTitus 2, 11; 3, 4?^&x{<fe> aut "manifestatus est deus in carne" [1Tim 3, 16], item "Deus assumpsit semen Ab­­rahae" [Hebr 2, 16], id
+est: Deus incarnatus et ex virgine natus est. Modum vero
+conceptionis pluribus exposuit archangelus Gabriel virgini
+matri apud Lucam cap. 1 [30-35]. At modum unionis et punctum
+coniunctionis diversissimarum naturarum nemo hominum
+expresserit, opinor. Nobis satis est novisse deum hominem
+sibi sic coniunxisse in unam personam, ut idem ille Christus
+et verus deus sit et homo verus, unus, non divisus, in
+duabus naturis subsistens, quarum utraque suum retineat
+ingenium. Scripturae testimonia quaedam superioribus literis
+(si bene memini) adduxi. Et magnus ille Alex­andriae
+episcopus, Athanasius, in symbolo suo ista omnia pulchre,
+pie et docte complectens et confitens ait<f1>BSLK 30, 32-35.<fe>: "Licet Christus
+deus sit et homo, non duo tamen, sed unus est Christus. Unus
+autem non conversione divinitatis in carnem, sed assumptione
+humanitatis in deum. Unus omnino non confusione substantiae,
+sed unitate personae. Nam sicut anima rationalis et caro
+unus est homo, ita deus et homo unus est Christus."
+^$[2.] Quod attinet quaestionem de sacramento coenae domini ac
+eucharis­tiae, semper ea veteribus facilis fidelibusque
+explicabilis, perspicua planaque visa est. A quingentis
+demum ac quadringentis annis per quaestiones novas facta est
+mirifica et inextricabilis.<f1>Bullinger bezieht sich auf das Aufkommen der Transsubstantiationslehre seit Papst Gregor VII.; vgl. Bullinger, De origine erroris libri duo, Zürich (Christoph
+Froschauer) 1539 (HBBibl I 12), f. 235r.-v.<fe> Coeptum est enim contra naturam sacramentariam signorumque disputari de
+transsubstantiatione, de mirifica, inquam, panis et vini in
+naturale et substantiale corpus et sanguinem Christi
+conversione, de accidentibus sine subiecto subsistentibus,
+de indigne manducantibus verum domini corpus, de adorando,
+includendo et sacrificando domini corpore sub speciebus
+panis et vini. Didicerunt hunc disserendi modum de coena
+domini, de substantia, inquam, accidentibus, de subiecto
+<vl>36r.</vl> et spetiebus[!] ab apostolis domini, scilicet!
+Quasi vero nesciamus peregrinas illas quaestiones et
+verborum novitates non e Solomonis porticu, qui docuit
+dominum in simplicitate cordis quaerendum,<f1>Tertullian, De praescriptione haereticorum, 7, 10 (CChr I 193, 34-36); vgl.
+Weish 1, 1.<fe> sed e humana, superciliosa, inflata affectatrice et interpolatrice veritatis, philosophorum
+academia, esse petitas. Quid autem Athenis aut Sorbonae cum Hier­­o­solymis? Quid academię cum ecclesia?<f1>Tertullian, De praescriptione haereticorum, 7, 8f (CChr I 193, 29-34).<fe>
+^$Ecclesia certe ex apostolorum traditione accepit
+et credidit, quod Christus, dei et intemeratae virginis
+filius, mortuus sit pro peccatis mundi et resuscitatus
+propter iustitiam nostram. Et particeps huius mortis,
+redemptionis, vitae ac iustitiae omnes fieri, quotquot vere
+ex animo integreque credunt mortem Christi suam esse vitam,
+resurrectionem Christi suam esse iustificationem, Christum
+denique ipsum fide ita vivere in suis, ut post Christum
+nihil amplius ad perfectionem cupiant et optent, in uno
+habeant omnia, qui et vivificam vim in suis exerat. Haec
+sane ipsissima salutis nostrae ratio est universa, quae ab
+ipso domino nostro et sanctis apostolis variegata dicendi
+ratione proponitur. Nunc enim dominus dicit: "Omnis, qui
+biberit ex aqua, quam ego dabo ei, non sitiet in aeternum;
+sed aqua, quam dabo, ei fiet in eo fons aquae salientis in
+vitam aeternam" [Joh 4, 14]. Mox mutata dicendi figura, autem
+etiam eadem remanente, sed vocibus mutatis eandem rem docet
+et ait: "Ego sum panis vitae; qui venit ad me, non esuriet,
+et qui credit in me, non sitiet unquam" [Joh 6, 35]. Rursus:
+"Qui edit meam carnem et bibit meum sanguinem, in me manet
+et ego in eo" [Joh 6, 56 (Vulg. 57)]. Item Ioannes apostolus in
+canonica<f1>sc. epistola.<fe> sua: "Ex hoc cognoscimus, quod in eo manemus et ipse in nobis, quoniam de spiritu suo dedit nobis"
+[1Joh 3, 24]. Et: "Quisquis confessus fuerit, quod Iesus est filius dei, deus in eo manet et ipse in deo" [1Joh 4, 15]. Proinde, quemadmodum cibus sustentat corpus, alit et ad opera
+confirmat conservatque, sic fides in dominum incarnatum et
+passum animam vegetat, vivificat et conservat. Iterum vero
+in evangelio dominus: "Ego sum vitis", ait, "vos palmites.
+Qui manet in me et ego in eo, hic fert fructum multum, quia
+sine me nihil potestis facere. Si quis in me non manserit,
+eiectus est foras sicut palmes et exaruit" etc. [Joh 15,
+5f]. His, inquam, et similibus paradigmatis, sententiis
+omnigenisque dicendi figuris mysterium redemptionis suae per
+doctrinam apostolicam commendavit ec­clesiae, quam quidem
+doctrinam voluit esse inter fideles perpetuam, primo quidem,
+ut illa innotesceret mundo deus et eius beneficia per
+Christum orbi exhibita. Dein, ut doceretur fides in deum per
+Christum. Postremo, ut ex fide charitas et offitia vitae piae
+plantarentur aspirante et incrementum suppeditante sancto
+dei spiritu.
+^$Iuxta hanc doctrinam evangelicam et signa sacramentalia
+instituit dominus et apostolis tradidit, apostoli ecclesiae.
+Hęc sunt actiones sacrae, verbis sive promissionibus et
+ritibus praescriptis constantes, ecclesiae divinitus in hoc
+instituta, ut divinas promissiones consignent, fidem
+exerceant rebusque terrenis et visibilibus coelestia dona
+(fide percipienda) repraesentent et ob oculos statuant,
+denique, ut ecclesiam visibiliter colligant et sui moneant
+offitii. Inter quae post sanctum baptisma et coena dominica
+celebratur.
+^$Hęc<fx>^#/+Randbemerkung Bullingers:^#/- 1. Actio sacra.<fe> quidem actio est et actio sacra divinitus
+instituta. Dominus enim: "Hoc facite", ait, "in meam
+commemorationem" [Lk 22, 19; 1Kor 11, 24]. Facere aliquid
+iubet, nimirum quod ipse fecit prior: "Accepit autem panem,
+egit gratias, fregit discipulisque porrigens dixit:
+'Accipite,<fx>^#/+Das Folgende durch ein Zeichen am Rande hervorgehoben.^#/-<fe> edite; hoc est corpus meum'" et quae sequuntur
+[Mt 26, 26-29 par.]. Hoc cum obediente et simplici actione
+exprimimus, actionem sacram celebramus. Atque hic quidem
+ipsissimus est ritus, quem praescripsit dominus. Hunc eundem
+tradiderat Corinthiis apostolus. Cumque eundem nonnihil
+corrupissent abusibus quibusdam, ipse repetens<fx>^#/+Vom Schreiber korrigiert aus^#/- repetent.<fe> eundem
+restaurat et dicit: "Quod accepi a domino, hoc tradidi
+vobis" [1Kor 11, 23]. Quasi dicat: "Iniquum et impium est in
+hoc sacro alium ritum tradere quam eum, quem ipse dominus,
+huius <vl>36v.</vl> sacri autor primus et optimus, instituit." Unde sanctus Cyprianus martyr epistolarum libri 2<fx>^#/+Zu erwarten wäre^#/- libro 2.<fe>, epist.
+3.<f1>Cyprian, Epistulae, 63, 1f (CSEL III/2 702, 3-9). Bullinger zitiert nach der von Erasmus besorgten Ausgabe, die erstmals 1520 bei Johannes Froben in Basel erschienen war (VD 16 C 6508).<fe>:
+"Quando aliquid deo inspirante et mandante praecipitur, neccesse est, domino servus fidelis obtemperet, excusatus apud omnes, quod nihil sibi arroganter assumat, qui offensam domini timere
+compellitur, nisi faciat, quod iubetur. Admonitos autem nos
+scias, Cęcili, ut in calyce offerendo dominica traditio
+servetur neque aliud fiat a nobis, quam quod pro nobis
+dominus prior fecit" etc.
+^$Cęterum<fx>^#/+Randbemerkung Bullingers:^#/- 2. Promissio
+obsignata.<fe> promissio, quae nobis symbolo hoc obsignatur
+et quam attestatur dominus, non ea est, quae nonnullis
+videtur, quod scilicet virtute divina panis vertatur in
+carnem, vinum in sanguinem, sed quod ipse dominus Iesus sese
+pro nobis tradidit in mortem, corpus videlicet ad crucem, et
+quod sanguinem effudit in remissionem peccatorum
+multitudinis. Et hanc promissionem oportet quisque vivida
+fide recipiat. Qua quidem in parte sacramentum hic nihil
+distat a doctrina, de qua paulo ante diximus - remittit enim
+ad eundem redemptorem et ostendit eundem Christum mortuum et
+exuscitatum, docet monetque, ut illi fidamus<fx>^#/+Vom Schreiber korrigiert aus^#/- vidamus.<fe> ut
+liberatori nostro ac redemptori -, nisi quod doctrina contenta
+est id effecisse verbis, sacramentum<fx>^#/+Das Folgende durch ein Zeichen am Rande hervorgehoben.^#/-<fe> hoc praeterea et
+amplius id ipsum per symbolum proponit oculis, unde ceu
+visibile testimonium et signaculum merito esse iudicatur,
+quod revera et tam certo pro nobis Christus mortuus est,
+quam certo hęc iam iubente domino fiunt a fidelibus.
+^$D[ivus] Paulus circumcisionem appellavit "signaculum" vel
+obsignationem aut, si mavis, sigillum "iustitiae fidei"<f1>Röm 4, 11: "signaculum iustitiae fidei".<fe>, qua videlicet deus velut obsignaret fidem
+iustificare. At par ratio est sacramentorum. Est itaque et
+coena sigillum<fx>^#/+Randbemerkung Bullingers:^#/- Sigillum.<fe> quoddam, quo dominus nobis suam redemptionem attes­tatur, ut,
+quoties hęc celebretur publice, toties sigillum veritatis proferatur ecclesię, quo secura et certa sit se corpore et
+sanguine domini esse assertam sanctificatamque. "Obsignati quidem sunt fideles spiritu sancto", ut ait apostolus,<f1>Vgl. 2Kor 1, 21; Eph 1, 13f.<fe> "et
+arrhabonem spiritus in cordibus habent"; nihilominus voluit
+dominus uti verbis et signis ecclesiam. Hic enim dominus, ut
+alias saepe, morem hominum imitans non satis habet rem
+polliceri praestantem, nisi eandem tabulis et sigillo
+praestitis attestetur atque confirmet. Enthusiastae, quos
+alii appellarunt Messalianos<f1>Bei den Messalianern oder Euchiten handelte es sich um eine asketische Bewegung, die in
+der 2. Hälfte des 4. Jahrhunderts auftrat (s. Thomas ^#/+Böhm,^#/- in: LThK^#'3 VII 157f). Die Messalianer hielten die Sakramente für nutzlos. Als Quelle seiner Kenntnis nennt
+Bullinger in den Dekaden Theodoret von Kyros, Historia ecclesiastica, 4, 11 (GCS NF V 229-231; vgl. Bullinger, Sermonum
+decades quinque, Zürich (Christoph Froschauer) 1552 (HBBibl I 184), f. 358v.).<fe>, post acceptum spiritum soli docuerunt inania et supervacanea esse sacramenta.
+^$Pręterea, quo hęc essent evidentiora omnia,
+usurpatione divina et propter similitudinem maxime, signa
+rerum, quarum signa sunt, nomina indipiscuntur. Non enim
+substantia et natura transeunt et convertuntur in res, quas
+significant<fx>^#/+Von^#/- Non enim ^#/+bis^#/- significant
+^#/+unterstrichen; dazu Randbemerkung Bullingers:^#/- Loqutiones, et quod quaelibet partium in sua natura
+manet.<fe>; discretis enim naturis quaelibet partium
+suam proprietatem retinet. Id quod per enumerationem omnium
+sacramentorum eorumque naturam demonstrare licet:
+Circumcisio appellatur Gen. 17 [11] "foedus". Quis autem
+nesciat circumcisionem et foedus naturis suis ita disiuncta
+esse, ut neutrum sit natura alterum. Foedus enim is nexus
+est, quo sibi dominus semen Abrahę obstrinxit
+coniunxitque pollicens se ipsius deum, Saturnum<f1>Gott des Ackerbaus, welcher der Saat ("semen Abrahę") Gedeihen
+schenkt.<fe> sive exaturantem fore,<f1>Vgl. Gen 17, 7f.<fe> modo istud quoque ipsum pro deo suo habeat
+et integro<fx>^#/+Wohl irrtümlich statt^#/- integre.<fe> coram ipso ambulet. At circumcisio praeputii est
+decisio. Quia vero circumcisio ipso ritu quandam refert
+purificationem, quam pollicetur deus in eo, quod se deum
+fore promittit, et quam exigit, cum ait: "Ambula coram me et
+esto perfectus" [Gen 17, 1], idcirco recte dicitur
+circumcisio esse foedus domini, quae foederis signum est, ut
+diserte exprimitur Gen. 17 [11]. Iam et Ex. 12 [11]
+ceremonia agni paschalis ipsum "pascha"<fx>^#/+Vor^#/- pascha ^#/+ein gestrichenes Zeichen.^#/-<fe> sive ipse "domini
+transitus" dicitur. Manifestissimum autem est aliud esse
+transitum angeli in Aegypto, quo aedes Izraelitarum
+transiit, Aegyptiorum irrupit et primogenita cecidit,<f1>Vgl. Ex 12, 12. 29.<fe> aliud vero
+esse solennem hanc ceremoniam. Quia tamen hęc
+similitudine quadam refert transitum angeli domini, iccirco
+recte signo rei signatę nomen attribuitur. Nam ipse
+dominus: "Eritque vobis dies illa", inquit, "in memoriam"
+[Ex 12, 14].
+Ad eundem modum sacrificia in lege domini vocantur "peccata"
+et "sanctificationes",<f1>Vgl. bes. Ex 29, 14. 36; Lev 4, 26; Num 19, 9. 17 (dazu Zwinglis Auslegung in Z V
+477-479).<fe> at natura sua non erant hoc ipsum, quod dicebantur, sed significabatur<fx>^#/+Vom Schreiber korrigiert aus^#/- significatur.<fe> ipsis peccatum et peccati
+remissio, dicente <vl>37r.</vl> apostolo Hebr. 10 [3-4]: "In sacrificiis fit commemoratio peccatorum quottannis. Non enim potest sanguis taurorum et hircorum auferre peccata" etc.
+Sic et baptismus domini dicitur "ablutio" et "remissio
+peccatorum", dicente ad Paulum Anania in Act. 22. cap.
+[16]: "Surge, ablue peccata tua", cum baptismum suaderet.
+Et divus Petrus Act. 2 [38]: "Baptizetur unusquisque
+vestrum", inquit, "in nomine Iesu Christi ad remissionem
+peccatorum." Quis hic tam stolide superstitiosus, ut dicat
+aquam esse ablutionem peccatorum sua natura et converti
+aquam praesentia dei in ablutionem divinam? Scimus enim
+ministrum foris aqua ut signo tingere, intus autem
+sanctificare dominum, aquam item similitudine quadam referre
+foris mysterium, quod interius operatur dei spiritus. Sic
+enim Baptista distinxit: "Ego baptizo quidem aqua, ille
+baptizabit spiritu sancto" [Mk 1, 8 par.]. Et Petrus 1. Pet. 3
+[20f]: "Diluvio respondet baptismus, qui nos salvat quoque,
+non quo sordes carnis abluuntur, sed conscientiae bonę
+interrogatio in deum."
+^$Et quid prohibebit iam istas locutiones: "Panis est corpus
+Christi, vinum est sanguis Christi" modo sacramentis
+proprio exponere, istis videlicet signis significari nobis
+corpus et sanguinem domini, quibus spiritualiter dominus
+suos pascit ad vitam, quemadmodum foris minister Christi
+illa ipsa signis repraesentat et offert sive porrigit?
+Manent itaque in suis substantiis discreta panis et vinum,
+corpus et sanguis domini. Dicuntur autem panis et vinum
+"corpus" et "sanguis" propter similitudinem et memoriam, non
+propter conversionem vel substantiam et naturam. Appendit
+enim dominus: "Hoc facite in mei memoriam" [Lk 22, 19; 1Kor
+11, 24f]. Et sanctus Augustinus epistola ad Bonifatium 23.<f1>Augustin, Epistulae, 98, 9 (CSEL XXXIV/2 531, 3-6; zu der
+von Bullinger zitierten Basler Ausgabe s. HBBibl III 10). - Der Adressat ist wohl mit dem gleichnamigen Bischof des nicht näher lokalisierbaren "oppidum Cataquense" in Numidien zu
+identifizieren; s. Serge ^#/+Lancel,^#/- in: AL I 652f.<fe>: "Si", inquit, "sacramenta quandam similitudinem earum rerum,
+quarum sacramenta sunt, non haberent, omnino sacramenta non
+essent. Ex hac autem similitudine plęrumque etiam
+ipsarum rerum nomina accipiunt" etc. Idem copiosius docet ad
+Euodium ep. 102.<f1>Augustin, Epistulae, 169 (s. bes. 2, 9: CSEL XLIV 618, 8f). Euodius, Bischof von Uzalis (Tunesien), gehörte zum Freundeskreis Augustins. - Lit.: Wolfgang ^#/+Hübner,^#/- in: AL II 1158-1161.^&xWilhelm M. ^#/+Gessel,^#/- in: LThK^#'3 III 1069.^&x{<fe>
+et tractatu in Ioan. 63.<f1>Augustin, In Iohannis euangelium tractatus, 63, 2 (CChr XXXVI 487, 40f).<fe> Denique
+idem<fx>Denique idem ^#/+unterstrichen.^#/-<fe> ille autor (qui non suam sententiam, sed qualis tunc erat universae ecclesiae
+catholicae, exposuit<fx>^#/+Dazu Randbemerkung Bullingers:^#/- Magister^#/+ [Petrus Lombardus] ^#/-in sententiis.<fe>) hęc
+domini verba "Hoc est corpus meum" [Mt 26, 26 par.] exposuit: "Hoc significat corpus meum vel est figura corporis mei." Loca
+si requiras, hęc sunt: Contra Adimantum, Manichęi
+discipulum, cap. 12.<f1>Augustin, Contra Adimantum, 12
+(CSEL XXV/1 140, 19-21). - Adimantus scheint zu den ersten "Aposteln" des Manichäismus gehört zu haben; s. François ^#/+Decret,^#/- in: AL I 94f.<fe>, in prologo Psal. 3.<f1>Augustin, Enarrationes in psalmos, 3, 1, 35f (CChr XXXVIII 8).<fe> etc.
+^$Quorsum iam attinet, quaeso, in hanc clarissimam lucem
+nebulas spargere et quaestiones philosophicas de
+omnipotentia et miraculosa praesentia nectere aut
+voces<fx>de omnipotentia et miraculosa praesentia nectere ^#/+[über gestrichenem^#/- disputare^#/+]^#/- aut voces ^#/+von Bullinger am Rande nachgetragen; ersetzt gestrichenes^#/- et.<fe> ab omni theologia apostolica et prisca alienissimas infarcire ac verbis domini addere: "corporaliter, naturaliter et
+substantialiter" ipsum domini corpus naturale et
+essentiale, sicut de ipsa virgine illibata genitum erat,
+praesto esse, adeoque et panem ipsum in illud ipsum corpus
+divina virtute et praesentia conversum esse et ipso pane
+ipsum domini Christum naturale corpus omnibus exhiberi
+sumentibus realiter. Nam certo<fx-t>^#/+von^#/- certo ^#/+bis^#/- At quam ^#/+von Bullinger am Rande nachgetragen; ersetzt
+gestrichenes^#/- quam.<fe> non ve­rum est. Sed quis non intelligat, sic isti intelligunt dicente[?] magistro<f1>Petrus
+Lombardus.<fe>, rursus papa Nicolao<f1>Gemeint ist zweifellos Papst Nikolaus II., vor dem Berengar von Tours im Jahr 1059
+seine symbolisch-spiritualistische Abendmahlslehre widerrufen musste (s. CorpIC, Grat., De cons., 2, 42; Denzinger 690); vgl.
+Bullinger, De origine erroris, f. 234r.-v.<fe>, item N.[?]<fx>^#/+Undeutlich korrigiert (aus ^#/-C.^#/+?).^#/-<fe> "Firmiter credendum"<f1>Bullinger
+bezieht sich wohl auf die Konstitution "Firmiter credimus" des 4. Laterankonzils von 1215 (CorpIC X 1, 1, 1; Denzinger 802),
+mit der die Transsubstantiationslehre formell als Lehre der Kirche deklariert wurde; vgl. Bullinger, De origine erroris,
+236r.<fe>. At quam<fx-x>^#/+von^#/- certo ^#/+bis^#/- At quam ...<fe> pa­rum firmamenti hęc habeant et quam a vero aliena sint, non scripturis modo et fidei natura
+ac ingenio, sed suis propriis verbis revincuntur. Mox enim
+ad­iiciunt: "sed non qualitative, quantitative, localiter et
+circumscriptive"<f1>Siehe z. B. Thomas von Aquin, Summa theologiae III^#'a q. 76 a. 5. Zu Luthers Verwendung
+scholastischer Termini zur Umschreibung der Gegenwart Christi vgl. Hartmut ^#/+Hilgenfeld,^#/- Mittelalterlich-traditionelle
+Elemente in Luthers Abendmahlsschriften, Zürich 1971. - Studien zur Dogmengeschichte und Systematischen Theologie 29, S.
+183-232.^&xA. Peters, Realpräsenz 79; ^#/+Köhler,^#/- ZL I 628. Konkret ist hier angespielt auf den lutherischen Konkordienvorschlag von 1529, s. ^#/+Köhler,^#/- ZL II 337!^&x{<fe>. Si enim hic praesto est verum, essentiale
+et naturale domini corpus, certe qualitatem et quantitatem
+suam habet et in loco est. Nam de corpore clarificato angeli
+quoque testantur: "Surrexit, non est hic; ecce locus, quo
+posuerunt eum" [Mk 16, 6]. Imo ipsemet dominus: "Spiritus",
+inquit, "carnem et ossa non habet sicut videtis me habere"
+[Lk 24, 39] et quae sequuntur. Novisti enim, quae legantur
+Luc. 24 [36-43], ut hic non omnia ascribenda sint. Si vero locum,
+qualitatem et quantitatem non habet, non est naturale,
+substantiale et corporeum, id est verum domini corpus. Recte
+enim et pie dixit sanctus Augustinus ad Dardanum ep. 57.<f1>Augustin, Epistulae, 187, 6 (CSEL LVII 96, 8-11). - Der gallische Präfekt Claudius Pos­tumus Dardanus war
+Christ und korrespondierte mit Hieronymus und Augustin; s. Hartmut ^#/+Leppin,^#/- in: DNP III 322.<fe>: "Spatia
+locorum tolle corporibus, nusquam erunt, et quia nusquam
+erunt, nec erunt. Tolle ipsa corpora qualitatibus corporum,
+non erit, ubi sint, et ideo neccesse est, ut non sint." Quis,
+obsecro, tam obesae naris est, qui, si audiat sibi donari
+agnum naturalem et substantialem, ubi tamen ab eo, qui
+offert munus, protinus additur: "sed non substantialiter,
+qualitative aut quantitative"<fx>^#/+Am Rande von Bullingers Hand^#/- Thomas.<fe>, mox intelligat se naso
+circumduci? Cur ergo miramur illos aut fucum
+illorum intelligere nolumus, qui substantiale corpus domini se nobis exhibere iurant, mox autem eidem corpori id detrahunt,
+sine quo verum corpus et tale omnino, quale ipsi praedicant, esse nequit? Obiiciunt
+<vl>37v.</vl> crassum esse simile de agno, qui donatur, se
+loqui de mysterio. Si ergo mysterium agnoscunt, cur tanta
+sęveritate urgent substantialem, realem et corpoream
+praesentiam? Cur reale et naturale domini corpus realiter
+edendum esse contendunt?
+^$Aiunt nos nuda et vacua habere et
+tradere symbola.<fx>^#/+Von^#/- nuda ^#/+bis^#/- tradere ^#/+unterstrichen; dazu Randbemerkung Bullingers:^#/- Nuda et vacua symbola.<fe> Imo fatemur circa sacramenta duo esse
+consideranda<fx>^#/+Randbemerkung Bullingers:^#/- Duo in sacramentis.<fe>, signum ipsum et rem, quae significatur; ut
+in coena signum, panem videlicet et vinum, adeoque ritum
+totum, nec hunc solum, quin potius, cuius rei gratia illa sic
+celebrantur: propter Christum, inquam, qui illum ritum sic
+nobis tradidit, ut, quae ipse fidelibus confert, significet,
+se scilicet mortuum pro peccatis, ut viveremus. Victuros
+autem, quotquot illius carnem edunt et sanguinem bibunt.<f1>Vgl. Joh 6, 48-58 (Vulg. 48-59).<fe> Edunt et bibunt, qui credunt illa pro<fx>pro ^#/+vom Schreiber korrigiert aus^#/- in.<fe> se in
+mortem data. Illi ipsi autem, qui hoc credunt, externa hac quoque coena participant, qua totum ipsis mysterium salutis
+repraesentatur. Fide ergo edunt ipsum domini corpus et
+sentiunt vim intra se vivificam Christi (non enim de fide
+ut nuda speculatione, sed tanquam vivifica Christi virtute
+loquimur), ore corporeo corporis signum. Et manent hęc duo
+ita inter se discreta naturis suis, ut neutrum transeat in
+aliud, sed duplex hic cibus sit, duplex minister et conviva
+duplex. Est visibile quoddam panis et vinum, invisibile
+dominus Iesus ad dextram patris. Non quod ipse
+sua natura invisibilis sit, sed quod eius operatio occulta,
+sed tamen efficax sit in sanctis, qui ipsum vident oculis
+mentalibus, non oculis corporeis. Minister ecclesię, qui
+sacramentum exhibet, homo est. Sacerdos, qui animam satiat,
+Christus est. Exterior homo signum percipit, interior
+participat re<fx>^#/+Vom Schreiber korrigiert aus^#/- res.<fe> signata. Vivit enim in fidele dominus
+Iesus et manet in eo per fidem et operationem, non per
+corpoream praesentiam, iuxta quam in coelis est, inde ad
+iuditium demum usque venturus. Inde autem claret nos plenius
+et rectius agnoscere mysterium, claret et illud: nos non
+celebrare vacua et inania symbola, sed efficacia per eum,
+qui instituit ac vivit in suis.
+^$Quod Nestorianum<fx>Quod Nestorianum ^#/+unterstrichen; dazu Randbemerkung Bullingers:^#/- Nestorianum dogma.<fe> dogma
+obiiciunt quidam<f1>Luther hatte diesen Vorwuf gegen Zwingli erhoben; vgl. das Rechtfertigungsschreiben der Zürcher Pfarrer
+an Luther vom 30. August 1539 (HBBW IX, Nr. 1304).<fe>, plane non agnoscimus, sed Nestorium cum peregrino dogmate suo
+damnamus; confitemur autem Christum verum deum et hominem
+esse, et unum quidem, non duos confitemur,<f1>Bullinger zitiert im Folgenden wörtlich die pseudo-augustinische Schrift "De
+ecclesiasticis dogmatibus", die Gennadius von Marseille zugeschrieben wird (Kap. 2, s. MPL 42, 1213f; 58, 981; vgl. auch
+unten Nr. 1550, 104-114; zu Gennadius: Paul ^#/+Larue,^#/- in: LThK^#'3 IV 464f).<fe> "quem propterea et unigenitum dicimus, manentem in duabus substantiis, sicut ei naturae
+veritas contulit, non confusis naturis neque immixtis, sicut Timotheani<f1>Anhänger des Timotheos, Bischof von Berytos
+(Beirut), eines gemäßigten Schülers des Apollinaris von Laodiocea. Er versuchte sich mit der Großkirche zu verständigen,
+wurde aber 377 von einer römischen Synode verurteilt. - Lit.: Josef ^#/+Rist,^#/- in: BBKL XII 147f; Hubertus R. ^#/+Drobner,^#/-
+in: LThK^#'3 X 44.<fe> et Eutichiani, prisci hęretici, voluerunt<fx>^#/+Randbemerkung Bullingers:^#/- Quid in caussa Nestoriana.<fe>, sed societate et in una persona<fx>et in una
+persona ^#/+von Bullinger in das Zitat eingefügt.^#/-<fe> unitis. Deus ergo hominem assumpsit, homo in deum transivit,
+non naturae versibilitate, sicut Apollinaristae<f1>Anhänger des
+Apollinaris von Laodicea (vgl. HBBW V, S. 255, Anm. 9).<fe> dicunt, sed dei dignatione, ut nec deus mutaretur in humanam
+substantiam assumendo hominem, nec homo in divinam glorificatus in deum. Quia mutatio et versibilitas naturae et diminutionem et
+abolitionem substantiae facit." Viderint ergo, ex quo spiritu
+argumenta sua contexant, qui propter coniunctionem naturarum
+in unam personam humanitatem Christi perinde ut divinitatem
+per omnia diffundunt. Veritas enim manifeste pronuntiat: "Et
+post hoc non sum in mundo" [Joh 17, 11]. Iterum: "Relinquo
+mundum et vado ad patrem" [Joh 16, 28] etc. Et sanctus Augustinus in eadem illa ad Dardanum epistola<f1>Augustin, Epistulae, 187, 3 (CSEL LVII 89, 10-17).<fe>: "Venturus", inquit, "est ad vivos mortuosque iudicandos in eadem forma atque
+substantia, in qua ascendit; cui profecto immortalitatem
+dedit, naturam non abstulit. Secundum hanc formam non est
+putandus ubique diffusus. Cavendum est enim, ne ita
+divinitatem astruamus hominis, ut veritatem corporis
+auferamus. Non est autem consequens, ut, quod in deo est, ita
+sit ubique ut deus" etc.
+^$Huic veritati aeternae et infallibili, planae et
+sacrosanctae innixi diserte, et palam docemus<fx-t>^#/+von^#/- et palam docemus ^#/+bis^#/- participantes ^#/+unterstrichen;
+Randbemerkung Bullingers: ^#/-Quomodo praesens in coena dominus.<fe> corpus Christi in coelis esse corporaliter, in coena autem se suis fruendum praebere non corporaliter, sed spiritualiter, id est, ut ipse ad dextram patris manens vero suo corpore fideles suos rite, id est in fide et dilectione
+participantes<fx-x>^#/+von^#/- et palam docemus ^#/+bis^#/- participantes ...<fe> coena sua vivificet et ab omnibus peccatis emundet, per meritum traditi corporis et effusi sanguinis. Itaque non confundimus
+<vl>38r.</vl> signum et signatum, non miscemus corpus et
+panem, vinum et sanguinem, sed dicimus ex duabus rebus in
+suis substantiis permanentibus effici sacramentum, quorum
+alterum corpore, alterum animo percipiatur. De corpore
+domini non docemus pugnantia<fx>^#/+Von^#/- De corpore ^#/+bis^#/- pugnantia ^#/+unterstrichen.^#/-<fe>, ut dicamus ipsum corpus
+domini vere adesse, interim vero istud corporis propria
+exuere. Quin confitemur Christum corporaliter in coelis
+esse, adeoque in uno aliquo coeli loco, ut Augustinus quoque
+dixit,<f1>Augustin, Epistulae, 187, 13 (CSEL LVII 118, 18f).^&xZu "uno loco" vgl. auch HBBW I 106f, Anm. 42.^&x{<fe> propter veri corporis modum, et Christum hunc eundem
+illum deum et hominem verum satiare et vivificare fideles
+suos in terra sua celebrantes sacra. Insuper docemus ad hanc
+saturitatem et vitam, redemptionem et salutem perficiendam in
+fidelibus non opus esse, ut naturale domini corpus in terris
+praesens sit. "Semel enim Christus oblatus est, ut
+multitudinis peccata auferret, secundario autem
+<gr>(deytéroy)</gr> absque peccato conspicietur iis, qui
+illum expectant in salutem", Hebr. 9 [28]. Et huius quidem
+fidei nos neque pudet neque piget, quando novimus
+centurionis fidem evangelicam adeo commendari a domino, ut
+plane confessus sit talem se fidem in Izraele non reperisse.<f1>Mt 8, 10 par.<fe> At qualis illa fuit? Non putavit
+opus corporali domini praesentia, sed "dic tantummodo" (aiebat ad dominum) "verbum et sanabitur famulus meus" [Mt 8, 8 par.].
+Sed et Thomas audivit: "Beati, qui non viderunt et crediderunt", Ioan. 20 [29]. Satis<fx>^#/+Randbemerkung Bullingers:^#/- Communio.<fe> ergo beati erimus, si crediderimus Christum
+pro nobis passum et resuscitatum esse, cuius quidem sigillum
+coena est, ad quam accedimus tanquam ad testificationem
+corporis vere pro nobis traditi et sanguinis effusi ad
+remissionem peccatorum.
+^$Eadem illa et fidei exercitium est.<fx>^#/+Von^#/- Eadem ^#/+bis^#/- exercitium est ^#/+unterstrichen; dazu Randbemerkung Bullingers:^#/- Fidei exercitium.<fe> Videntes enim panem
+in coena frangi cogitamus corpus domini pro nobis traditum.
+Videntes vinum effundi cogitamus sic fusum pro nobis domini
+sanguinem et reliqua, quae analogiae excussio suppeditat.
+Porro fides exercitata magis magisque proficit, ut Chris­tus
+ipse in nobis magis magisque vivat.
+^$Addamus his et reliquos fines<fx>^#/+Von^#/- Addamus ^#/+bis ^#/-fines^#/+ unterstrichen.^#/-<fe> et fructus huius divini
+convivii. Qui huius mensae participes fiunt, palam suam
+profitentur fidem, quod sint de corpore Christi, huius
+quidem membra spiritualia, in quibus efficaciter operatur
+caput per spiritum vivificum, denique et membra totius
+ecclesiae, fratres et consortes omnium, qui invocant nomen
+Christi. Sic dixit Paulus: "Unus panis, unum corpus multi
+sumus, nam omnes ex eodem pane participamus" [1Kor 10, 17].
+Proinde et nostri officii in hac coena admonemur, nimirum ut
+cogitemus, cuius capitis membra facti simus - Christi, filii
+dei -, et h[uic?]<fx>^#/+Randtext durch Faltung beschädigt.^#/-<fe> dignas agamus gratias laudemusque
+benefitium mortis eius ingens. Paulus enim: "Mortem domini
+annuntiate", ait, "donec venit" [1Kor 11, 26]. Monemur
+denique, ut cogitantes nos membra Christi et omnium
+sanctorum factos sancte, pure et innocenter vivamus et ut
+charitate fraterna omnia membra prosequamur. Hęc cum ita
+doceamus et confiteamur ex corde, immerito obiicitur nobis a
+quibusdam vacuam et inanem nos coenam et convivium absque
+hospite celebrare. Nec aliud credidit aut docuit prisca
+ec­clesia de hoc sacramento, quam quod hic perstrinximus.
+^$De ritu, quo sit hoc sacrum peragendum, disserui paucula in
+superioribus<f1>Vgl. oben Anm. 31.<fe> et copiose in 2. libro meo De origine erroris<f1>Bullinger, De origine erroris, bes. f. 202r.-205r.<fe>. Nunc enim de hac quaestione disputare desino, quod copiosius de hac disseruerim, quam institueram.
+^$[3.] Postremo ad illam venio quaestionem, qua rogas liceat ne
+ab eorum manibus coenam domini accipere et cum illis
+communicare, qui docent et credunt<fx>et credunt ^#/+vom Schreiber am Rande nachgetragen.^#/-<fe> naturale domini
+corpus in coena et dari et accipi et indigne illos
+manducare, qui non tali fide accedunt. Communione<fx>^#/+Vom Schreiber korrigiert aus^#/- Communior.<fe>
+sacramentorum visibiliter colligimur in unum corpus, et
+sacramenta percipientes profitemur fidem nostram. Nam
+publice reipsa testamur, cuius fidei simus ac professionis.
+Testantur hoc ipsum d[ivus] Paulus imprimis 1. Cor. 10
+[14-22] et post hunc d[ivus] Augustinus libro Contra
+Faustum 19., cap. 11.<f1>Augustin, Contra Faustum, 19, 11 (CSEL XXV/1 510 1-4). - Der Manichäerbischof Faustus von Mileve, gest.
+400, wirkte in Rom und ab 383 in Karthago; s. Wilhelm M. ^#/+Gessel,^#/- in: LThK^#'3 III 1199.<fe>: "In nullum", inquit,
+"nomen religionis, seu verum, seu falsum, coagulari homines possunt, nisi aliquo signaculorum vel sacramentorum visibilium
+consortio colligentur" etc. Proinde cum ab illorum manibus accipis coenam et cum illis communicas, qui docent
+<vl>38v.</vl> et credunt naturale domini corpus edi in
+coena, qui non darent tibi symbola, si praescirent te non
+ita credere, profecto confiteris publice et attestaris
+publica sumptione te membrum esse illius corporis et ita
+credere, ut illi<fx>^#/+Vor^#/- illi ^#/+gestrichenes ^#/-u.<fe> docent credendum esse. Porro si ita
+credis, credis, quod nullo dei verbo traditum est, proinde
+fides illa tua opinio et non fides vera erit. "Fides enim ex
+auditu, auditus per verbum dei" [Röm 10, 17]. Si non credis,
+simulas autem et publica sumptione testaris te credere, haud
+dubie mendatio et hypocrisi tua peccas in dominum et in tuam
+ipsius conscientiam, peccas et in ecclesiam. Offendis enim
+tam firmos quam infirmos. Firmi recte instituti ita de coena
+domini sentiunt, quemadmodum tu sentis et ipsa sentire iubet
+scriptura; intelligunt ergo istorum doctrinam, qui diversa
+tradunt, in errore versari. Itaque ubi illi te, quem suae
+professionis esse norunt, viderint cum illis communicare,
+qui diversum a veritate tenent, putabunt te vel hypocritam
+esse factum vel a pristina et vera sententia descivisse.
+Infirmi alias offenduntur crassa illa opinione corporalis
+Christi praesentiae; nesciunt, quo se vertant, quid verum
+sit aut quid recte credant. Proinde ubi hi quoque te
+accedere viderint et participare eorum convivio, putabunt te
+quoque in ea esse sententia, quam circa illam coenam docent
+antistites. Hinc quisque reputabit secum: "Nisi hic vir
+praestans et religionis peritus eam fidem haberet, quam
+sacrorum antistes tradit, haud dubie non communicaret cum
+ipsis; quid itaque tu, cum omnium rerum imperitus sis,
+accedere differs?" Accedit itaque, sed non integra
+conscientia. Horum autem culpa merito tibi imputatur a deo.
+Interea vero confirmantur tuo exemplo in errore suo et isti,
+qui veritatem damnant, abusum et errorem suum circa
+eucharistiam omnibus ecclesiis ut veritatem certissimam
+persuasum cupiunt. Quando vero consulere tuto tibi nequeo,
+ut pecces in deum et tuam ipsius conscientiam, in ecclesiam
+quoque sanctam, ut simules fidem, quam non habes, atque hoc
+modo errantes in errore confirmes, firmos concutias et
+teipsum ipsis suspectum reddas, infirmis quoque scandalum
+ponas, non video, quomodo secure et sancte cum<fx>^#/+Vom Schreiber korrigiert aus^#/- cunn.<fe> illis
+communicare possis aut quam integrum mihi sit suadere, ut
+contra tuam conscientiam accedas.
+^$Offendis quidem plures,
+sat scio, si prorsus ab illorum coenis abstineas. Atque
+multo minus periculi esse videtur, quam si accedas. Firmi
+enim confirmantur tuo exemplo, infirmi magis magisque
+cogitant causa non carere, quod abstines. Impietatem et
+contemptum sacramentorum causari non pot­erunt, si pietatem
+in reliqua vita non desideraverint. Errorum vero magistris
+et sequacibus terrori eris.
+^$Erit et alia via, qua
+offendiculum avertere queas, si videlicet doctorem et
+ecclesiam invisas apud tuos, quae sincere agat in hac causa.
+Hic, hic magna cum fide et gratulatione accedere licebit.
+Opinor enim apud vestrates plurimos esse, qui nihil hic
+simulent aut dissimulent<fx>^#/+In der Vorlage^#/- dissimilent.<fe>, sed veritatem ita, ut est,
+proponant. Suadeo autem fide bona, ne omnino a coena domini
+abstineas, sicubi dominicam reperire et puram nancisci
+potes. Divinissimi enim, fidelissimi et spiritu dei pleni
+homines adeo non neglexerunt sacramentorum usum externum,
+cum interim interius operationem domini sentirent, ut summo
+cum studio ac desiderio illa sibi dari postularint. Possunt
+de hoc vel sola apostolorum acta testari.<f1>Vgl. Apg 2, 42.<fe> Et perplacuit,
+quod in epistola tua tanto cum affectu scribebas cupere te
+ex animo redemptori tuo ita agere gratias, sicut ille
+instituit.<f1>Oben Nr. 1537, 40f.<fe> Dominus adaugeat tibi spiritum suum et absolvat in te coeptum opus suum ad gloriam nominis sui. Amen.
+^$Porro vocationem tuam ut deseras, adeo non suadeo, ut magis
+inhorter te et orem per dominum, ne deseras. Pluribus hic
+prodesse potes. Quid, si dominus per tuam fidem et tuum
+ministerium ceu per electum organum<f1>Vgl. Apg 9, 15.<fe> velit gravissima hac sarcina liberare <vl>39r.</vl>
+Wirtenbergensium ecclesias? Cui enim non fuerit difficile in lęto illo convivio funestas illas voces audire: "Si non
+credis te manducare corporaliter naturale domini corpus, ne accedas. Si accesseris, iuditium tibi manducabis.<f1>Vgl. 1Kor
+11, 29.<fe> Nisi sic credideris, de hęresi condemnaberis et iusta proscriptione deportaberis in alienas oras." Hęc, hęc urunt et urgent sanctas conscientias et persecutioni
+tyrannicae fenestram aperiunt<f1>Erasmus, Adagia, 1, 4, 3 (LB II 152).<fe>. Oro ergo dominum, ut det tibi
+in cor tuum suppeditetque occasionem amplam, qua liceat
+crassam illam, superstitiosam et conscientiis intolerabilem
+de coena domini sententiam tyrannicamque crudelitatem
+consilio prudenti et sedato ab ecclesiis sanctorum avertere
+veramque et genuinam, simplicem et puram illis ipsis
+restituere. Utinam et illustrissimus princeps<f1>Herzog Ulrich von Württemberg.<fe> negotium tantum recte intelligeret et
+expenderet! Foelicior haud dubie in aliis foret. Quod si putaris consilium meum et vota pia quidem in praesenti nec locum nec
+fructum habitura, age, fiat voluntas domini; saltem te purum et syncerum servato et, quos potes, lucrare domino<f1>Vgl. 1Kor 9,
+19-22.<fe>. Imprimis vero ora dominum, ut pro sua misericordia ecclesiae suae consulat.
+^$Tiguri, 22. iulii anno 1541.
+<un>Heinrychus Bullingerus
+<un>tuus ex animo.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

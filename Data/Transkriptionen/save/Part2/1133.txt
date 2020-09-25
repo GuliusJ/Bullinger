@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1133">
+<nr>1133</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>27. Mai 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 52 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Wünscht der mit Bucer und Luther erzielten Übereinkunft Bestand. Dankt Bullinger für die Unterstützung, die er [Sigmund?]
+von Landenberg gewährt hat; seine eigenen Bemühungen zugunsten von [Hans] Kotter waren erfolgreich. Sendet die Akten [der
+Zürcher Tagung] mit Dank zurück. Grüße.
+</re>
+<tx>Salus et pax Christi.
+^$Ergo constituta est pax inter vos et Bucerum adeoque Lutherum ipsum<f1>Zwick hatte Bullinger gebeten, ihm die Akten der
+Zürcher Tagung vom 28. April bis 3. Mai zukommen zu lassen (s. oben Nr. 1129, 15-20); die Antwort Bullingers, auf
+die sich Zwick bezieht, ist verloren.<fe>. Quod felix et faustum sit, atque utinam sic contentionis finis sit! Faxit quoque
+noster Christus, ut, quae dantur et recipiuntur, solida sint et firma, quo ipsa etiam concordia solida sit et firma. Ego omnino
+spero Bucerum<fx>^#/+vor ^#/-Bucerum ^#/+gestrichenes ^#/-vo.<fe> vos posthac non turbaturos.
+^$Quod Landenbergium<f1>Siehe oben Nr. 1129, 21-32 mit Anm. 5.<fe> iuveris, gratissimum mihi est; audio enim omnia illum
+obtinuisse. Egit autem multas gratias mihi et tales, ut intelligam illum
+victoriam hanc meae commendationi et tuae sedulitati tribuere. Quam ego vicissim diligentiam praestiterim Cotteri<f1>Zur
+Berufung Hans Kotters als Schulmeister nach Konstanz s. Manfred ^#/+Schuler,^#/- Ein Beitrag zur Biographie Hans Kotters, in: Die
+Musikforschung 22, 1969, S. 197-200. ^&x Kotter kam um den 19. Mai nach KN und ließ sich am 25. auf die Bedingungen der
+Schulherren ein (aaO, S. 198). Er ließ sich am 5. Juni in Bern Abgangspapiere ausstellen und übersiedelte wohl kurz darauf nach
+KN; er war schon im Sommer dort, die Schule sollte aber erst im Herbst eröffnet werden (aaO, S.198f). ^&x{<fe> nomine, ipse
+referet. Successit feliciter; domino sint gratiae multae.
+^$Leonem<f1>Leo Jud.<fe> quoque exhilara hoc nuntio. Et vale in Christo; nam plura non possum. Confessionem et reliqua
+acta<f1>Vgl. oben Anm. 1.<fe> remitto cum gratiarum actione.
+^$Datum Constantiae.
+^$Consul noster Thomas<f1>Thomas Blarer.<fe> iubet te salutare millies.
+Occupatissimus est, alioqui et<fx>et ^#/+über der Zeile nachgetragen.^#/-<fe> ipse aliquid respondisset.
+^$Pellicanum meo nomine saluta.
+^$27. maii 1538.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, ecclesiae Tigurinae antistiti, suo in domino
+charissimo fratri.
+</content>
+</letter>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2003">
+<nr>2003</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>3. Oktober 1544</date>
+</space_time>
+<vo>Abschrift von J. Stumpf: Zürich ZB, Ms S 313, f. 14r. (Buch III, Nr. 11) </vo>
+^&xKopie: Zürich ZB, Ms S 55, 200; Ms Z I 103a (A. Bonomo, Stumpf Brief- und Aktensammlung I/2, 225)^&x{
+<dr>Ungedruckt</dr>
+<re>Bullingers Ahnung bestätigte sich: [Sebastian] Münsters Buch ["Cosmographia"] hält nicht, was es verspricht; Stumpf soll Münsters Fehler, freilich ohne Namensnennung, deutlich bezeichnen und sich [mit seiner Arbeit] beeilen, um der Neuausgabe der ["Geographia universalis" von Ptolemäus durch Münster] zuvorzukommen. Ferner soll er alles Vorbereitete rechtzeitig schicken, damit es auch Bullinger gemäß [Zürcher] Ratsbeschluss lesen kann. [Münster] hat [Ober- und Unter-]Wallis gut beschrieben, den Burgundischen Krieg recht gut geschildert; auch die Darstellung von Augst ist lobenswert.
+</re>
+<tx>Heinrichus Bullingerus Ioanni Stumphio s[alutem] d[icit].<fx>^#/+Die Überschrift in roter Tinte.^#/-<fe>
+^$Quod divinabam futurum, id certe evenit. Liber<f1>Gemeint ist Sebastian Münsters soeben erschienene "Cosmographia. Bschreibung aller Lender ...", Basel, Heinrich Petri, 1544 (VD 16 M 6689); s. oben Nr. 1993, 2f.<fe>
+enim Munsteri non prestat, quod promittit, sed et nullo
+ordine scriptus est dilucido. Multa congerit citra iuditium,
+multa imperfecte tradit, quaedam perperam. Tu vide, ut
+significanter illa exprimas, quae ille perperam dedit, sed
+omisso tamen nomine eius.<f1>Bullinger bezieht sich auf Stumpfs Arbeit an der Eidgenössischen Chronik, die unter dem Titel "Gemeiner loblicher Eydgnoschafft stetten, landen und volckeren chronick wirdiger thaaten beschreybung" 1547 von Christoph Froschauer d.Ä. in Zürich gedruckt wurde (BZD C 376); s. oben Nr. 1993, 7 mit Anm. 7.<fe> Festina, quaeso, ut praevertas eius
+posteriorem aeditionem,<f1>Damit ist die geplante Neuausgabe der "Geographia universalis" von Ptolemäus gemeint, an der Münster damals arbeitete.<fe> de qua nuper in literis<f1>Oben Nr. 1993, 3-6.<fe> meis ad te.
+Wie schwartz und wyß onglych, also diße und uwere arbeyt.
+Totum enim huius opus inspexi.<f1>D.h. in zwei Tagen, da Froschauer mit dem Buch frühestens am 1. Oktober 1544 in Zürich eintraf; s. oben Nr. 1993, 2f; 2001, 28.<fe> Tantum festina, sed lente<f1>Adagia, 2, 1, 1 (ASD II/3 7-28, Nr. 1001).<fe>
+tamen, ne quid temere.
+^$Mitte illa, quae parasti, in tempore, ut et ipse omnia
+possim legere, sicuti a magistratu nostro est constitutum<f1>Bullinger bezieht sich auf die Zensurbehörde, die am 3. Januar 1523 vom Rat eingesetzt worden war. - Lit.: ^#/+Bächtold,^#/- Bullinger vor dem Rat 87-112; Urs ^#/+Leu,^#/- Die Zürcher Buch- und Lesekultur 1520 bis 1575, in: Zwa 31, 2004, 88-90.<fe>.
+^$Vale et perge in opere alacriter divino adiutus consilio
+et auxilio. Dominus sit tecum cum uxore castissima<f1>Regula Stumpf, geb. Brennwald.<fe> et
+optima.
+^$Tiguri, 3. octobris anno etc. 1544.
+^$Vallesiam utramque<f1>Ober- und Unterwallis.<fe> pinxit.<f1>Damit meint Bullinger keine bildliche Darstellung, sondern die schriftliche Beschreibung des Ober- und Unterwallis in der "Cosmographia" auf S. ccclv-ccclxv. - Erst in der von Münster 1545 besorgten Ausgabe der "Geographia" des Ptolemäus und in einem zweiblättrigen Sonderdruck erschienen die zwei Karten des Ober- und Unterwallis; s. ^#/+Hieronymus,^#/- Petri, Nr. 196 und Nr. 208a, mit Abb. der Karten auf S. 580-583.<fe> Sed et bellum Burgundicum<f1>Gemeint ist Münsters Beschreibung der Kriege zwischen Burgund und der Eidgenossenschaft zwischen 1474 und 1477 (sog. Burgunderkriege) auf S. lxxxvij-xci und cclxxxvi-ccxc seiner "Cosmographia".<fe> non
+infoeliciter tractavit. Laudanda est et Rauracę Augustae<f1>Augst (Kt. Basel-Land).<fe>
+qualiscunque delineatio.<f1>Siehe Münsters "Cosmographia", S. cclvi-cclviij (mit zwei Abbildungen).<fe> ^&xAnm. Johann Jakob Simlers zu "pinxit": Münsterus, sine dubio.^&x{
+</content>
+</letter>

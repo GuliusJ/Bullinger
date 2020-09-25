@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="944">
+<nr>944</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Oswald Myconius]</addressee>
+	<note fn=1>Der Brief antwortet auf Myconius' Briefe vom 16. Januar und 3. Februar (oben Nr. 934 und 942).</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>10. Februar 1537</date>
+</space_time>
+<vo>Autographe Abschrift: Zürich StA, E II 337, 221r.-224r.</vo>
+<dr>Ungedruckt</dr>
+<re>Weiß nicht, wer Bucer Anlaß zu seinem verärgerten Schreiben [Nr. 939] gab, hat ihm allerdings bereits früher
+gesprächsweise vorgehalten, daß seine "Retraktationen" die Gegner im Irrtum bestärkten, wenn sie diese etwa mit der
+Berner Disputation, aber auch mit Luthers jüngsten Äußerungen im "Sendschreiben an die zu Frankfurt a. M." verglichen;
+Bucers Art der Besänftigung Luthers hat viele vor den Kopf gestoßen. Seine Meinung über Bucers ["Bericht auß der heyligen geschrift"] hat
+Bullinger bereits mehrfach erläutert; er billigt grundsätzlich alles, was mit dem [Ersten Helvetischen] Bekenntnis und
+dem Schreiben [der reformierten Städte der Eidgenossenschaft] an Luther übereinstimmt, hält aber Bucers jüngste Verlautbarungen über das Abendmahl für
+weniger klar als frühere. Über Anfeindungen beklagt sich dieser allerdings zu Unrecht. Ein weiteres Treffen mit ihm ist
+nicht nötig. Die am Bundestag zu Schmalkalden anstehenden Fragen zum Konzil [Nr. 934] hat Johannes Zwick in drei Punkten
+zusammengefaßt [Nr. 940], zu denen Bullinger wie folgt Stellung nimmt: [1.:] Ein vom Papst einberufenes Konzil ist
+abzulehnen, da dieser erstens die Gegner schon im voraus als Ketzer verurteilt hat, zweitens in Mantua an Machtmitteln
+überlegen ist und sich drittens zu Unrecht die Herrschaft über die Kirchen anmaßt, da er doch längst als Tyrann und
+Antichrist entlarvt wurde; diese Ablehnungsgründe sollten öffentlich dargelegt werden. Der Kaiser ist zwar berechtigt,
+eine Zusammenkunft einzuberufen, doch müßte diese in friedlicher Zeit und gut vorbereitet in Deutschland stattfinden und
+als einzige Autorität die Hl. Schrift anerkennen; andernfalls ist ihm sowenig wie dem Papst zu gehorchen. Wenn die Kurie
+bereit war, Ablaßverkäufer nach Deutschland zu senden, warum nicht auch Gelehrte zur Widerlegung der Ketzer, was erst
+noch dem Ablaßhandel zugute käme! [2.:] Daß neben den Theologen auch die Obrigkeiten befugt sind, in Religionsfragen
+mitzureden, daran ist unter Hinweis auf die frommen Könige in der Bibel und im Codex Justinianus festzuhalten. [3.:]
+Notfalls darf dem Papst gewaltsam Widerstand geleistet werden, da ja auch Josua, Judas Makkabäus und Paulus nicht auf
+den Schutz der Waffen verzichtet haben. Statt sich überhaupt auf ein Gespräch mit den Feinden der Wahrheit einzulassen,
+wäre es allerdings klüger, deren Bestrebungen zum vornherein unter dem Vorbehalt besserer Belehrung aus der Schrift
+zurückzuweisen. Bittet, den Brief Grynäus zu zeigen, und möchte seinerseits die Stellungnahme der Basler sehen.
+Grüße.</re>
+<tx>Gratiam et pacem a domino.
+^$Commotum video Bucerum<f1>Bullinger bezieht sich auf Bucers Brief vom 27. Januar (oben Nr. 939) bzw. auf eine
+Formulierung im Begleitschreiben von Myconius (oben Nr. 942, 9).<fe>, frater charissime; quis autem commoverit, non
+video. Audio caussam; sed apud nos nemo est, quod ego sciam, qui illum "proditorem veritatis Christi et ecclesiarum
+transfugam"<f1>Oben Nr. 939 bzw. BucerDS VI/1 272, 26.<fe> appellarit. De Retractationibus<f1>Vgl. oben Nr. 939
+und Nr. 942, 4-9 mit Anm. 2.<fe> quae habui, ipse coram exposui Bucero<f1>Offenbar war an
+der Basler Tagung vom 12.-14. November 1536 (s. HBBW VI, S. 465, Anm. 1) darüber gesprochen worden.<fe>. Audisti tu
+quoque respondentem mihi et Leoni<f1>Leo Jud.<fe> nostro. Equidem, quod tunc testabar, etiam nunc doleo, quod
+Retractationes illae prodierunt in lucem. Tametsi enim aequos benignosque interpretes<fx>^#/+vor^#/- interpretes
+^#/+gestrichenes^#/- recipiant.<fe> assequantur plurimos, multo tamen plures illis offenduntur. Apud nos certe indies
+magis atque magis experimur, quam exultent propter illas adversarii veritatis, quam vero tristentur pii. Sunt, qui pro
+contionibus publicis hoc potissimum argumento pontifitiae religionis sectatores consolantur, quod apud nos nulla sit
+constantia, utpote qui pro arbitrio nostro tractemus retractemusque omnia. Cogimur haec et alia his acerbiora vorare
+nolentes nec interim habemus, quod tuto opponamus. Teritur omnium manibus Bernensis disputatio<f1>Gemeint sind die Akten
+der Berner Disputation von 1528 (gedruckt bei Froschauer in Zürich; Teileditionen in: Z VI/I 235-432; BucerDS IV
+15-160).<fe>. Legitur et Buceri Retractatio, quae etiam mihi videtur non per omnia consonare illis, quae ibi disputata
+sunt a Bucero de fidei nostrae articulis "ascendit ad coelos, sedet ad dexteram patris" etc.<f1>Vgl. etwa BucerDS IV
+133, 5-16, mit BucerDS VI/1 366,20-368,6.<fe> Quo et illud maxime videtur pertinere, quod egregie dicta in
+superioribus enarrationibus, praecipue in cap. Ioan. 16., nunc in nuperis expunxit Retractationibus<f1>In der Ausgabe
+von 1536 fehlt bei der Auslegung von Joh 16 eine längere polemische Passage über die Konsequenzen der Himmelfahrt
+Christi für das Abendmahlsverständnis; s. BucerOL II
+460f, Variante
+n-n.<fe>. Esto autem, quod Lutherus eam sententiam nunc non habeat, quam ibi oppugnavit Bucerus; an ideo nemo est, qui
+illam tueatur? Hi ergo cum vident ista esse<fx>esse ^#/+über der Zeile nachgetragen.^#/-<fe> sublata, nil mirum, si
+securi de victoria confirmentur in errore. Praeterea, si scripta d[octoris] Lutheri postrema [- - -]<fx>^#/+zu ergänzen ist
+wohl^#/- legis.<fe>, dubium plane erit, quid tueatur. Nam in epistola ad Francfordienses, quam scripsit anno
+1534<f1>Gemeint ist das 1533 im Druck erschienene "Sendschreiben an die zu Frankfurt a. M." (WA XXX/3 554-571).<fe>,
+videtur satis crude et parum mystice scripsisse de eucharistia. Verba eius, si nescis, haec sunt<f1>Ebenda, S. 558,
+27-32; 559, 1-17.<fe>: "Diß gschrifft wirt mir ein zügnuß sin vor gott und der wällt, ob<f1>wenn.<fe> ettliche by üch uff dem whon
+stuͤndint<f1>im Irrtum befangen wären.<fe>, alls wärend üwer predger mitt uns eins und leertind glycher wys vom heyligen
+sacrament, das sy hieruß wüssind, das wir gar nüt eins<fx>gar ^#/+und^#/- eins ^#/+durch größere Schrift leicht
+hervorgehoben.^#/-<fe><f1>durchaus nicht einig.<fe> sind. Und darff sich daruff niemands verlassen, das er von inen unser leer höre, welche sy ouch
+in vilen stucken verspottend. [...] Vil sind wol, die nun glich mitt uns leerend, aber ettliche andere, nun sy gesähen,
+das der karren zuͦ ferr<f1>weit.<fe> und tieff in schlam gefuͤrt ist<f1>Wander II 1146, Nr. 21.<fe>,
+und nitt meer luten wil<f1>Anklang findet.<fe> ir vorige geschrey mitt ytel brot und wyn imm
+sacrament, wüschend sy das mul<f1>stellen sie sich unschuldig (Wander III 513,
+Nr. 295).<fe> und träyend<f1>drehen.<fe> ire wort anders, behaltend aber glich wol die vorige meinung imm sinn und
+bruch, sagend mitt dem mund, es sye Christus lyb und bluͦt zuͦgägen imm sacrament warhafftig. Wenn nun
+sömlichs<f1>solches.<fe> der einfallt<f1>ungebildete.<fe> man hört, so gedenckt er, sy lerind grad wie wir, und
+gond daruff hin zum sacrament und empfahend doch ytel brot unnd wyn. Dann ire leerer gäbend ouch nitt mee und meynend
+ouch nitt mee. Die heymliche glos aber und verstand<f1>Meinung und Bedeutung.<fe> ist der, das der warhafftig lyb und
+bluͦt Christi sye wol
+gägenwir-<vl>221v.</vl>tig imm sacrament, aber doch nun<f1>nur.<fe> geistlich unnd nitt lyplich. Wirt ouch alein imm hertzen
+mitt dem glouben empfangen und nitt liplich mitt dem mund, welcher empfacht ytel brot und wyn, wie vorhin. Sihe, ist das
+nitt ein teuffelisch gougelspiel<f1>Gaukelspiel.<fe> mitt den worten Christi getriben, und die einfallten hertzen so
+schantlich umb ir sacrament betrogen und beroupt?" etc. Haec Lutheri non ignorant adversarii nostri, nil ergo mirum, si
+vel solum retractationis nomen, deinde, quod pleraque expuncta vident, quae in superioribus enarrationibus contra
+corporalem manducationem pro spirituali scriptum vident, sese gloriantur vicisse. Has et ob alias complurimas causas
+dixi Bucero coram dolere me de aeditione Retractationum. Doleo autem indies magis, quo magis video, quorsum ista
+rapiuntur. Quodsi d[octorem] Lutherum offendit, placare potuisset ratione alia, quam et Lutherus recepisset, nisi voluisset
+parum christianus esse. Nunc mea quidem sententia eam ingressus est viam, qua unum fortassis placavit, plurimos autem
+offendit. Utinam vero, mi frater, tam essent omnes ad illustrandam veritatem et hanc ecclesiae quam apertissime
+simplicissimeque proponendam solliciti, quam sumus utrique anxii in demerendis extollendisque ecclesiae ministris!
+^$De librod. Buceri ad Monasterienses non est, quod eandem cantilenam toties occinam<f1>Zum Streit um Bullingers
+angebliche Billigung von Bucers "Bericht auß der heyligen geschrift...", auf die sich Bucer im Brief vom 27. Januar (oben Nr. 939)
+erneut berufen hatte, s. HBBW V, S. 461, Anm. 23.<fe>. Coram, quid in epistola illa<fx>illa
+^#/+über der Zeile nachgetragen.^#/-<fe> mea spectarim, deinde, quid in libro illo approbem, exposui; scriptis litteris
+non semel hoc egi; oravi, ne mea abutatur epistola. Quod autem tunc probavi, id nunc quoque probo, id videlicet, ut
+paucis omnia dicam, quod nostra confessione<f1>Gemeint ist das Erste Helvetische Bekenntnis von 1536 (BSRK
+101-109).<fe> et responsione ad Lutherum<f1>Siehe oben Nr. 934, Anm. 15.<fe> expressimus. Quae autem his adversa sunt vel non per
+omnia cum his consentiunt, non agnosco. Sed et libere fateor ea, qu[ae]<fx>^#/+Randtext im engen Einband nicht
+zugänglich.^#/-<fe> postremo de eucharistia scripsit Bucerus, intricatiora et obscuriora esse illis, quae in hoc ipso
+negotio olim aedidit. Nec desunt viri boni et docti, qui sancte asseverant se nondum intelligere, quid de negotio
+eucharistiae in Retractationibus sentiat, interim vero ipsum neque damnant neque abiiciunt. Optant autem ipsi animum
+planiorem. Nam omnino credunt hoc negotium planius tradi posse.
+^$Quaeritur de obtrectationibus, quas iam annis aliquot non paucas a nobis pertulerit<f1>Siehe BucerDS VI/1
+272, 18f.<fe>. Ego vero illum iniuria nos afficere respondeo, nisi obtrectatores illos nominet. Mihi certe hac in
+re optime conscius sum, sed et interrogatus de fratribus aliis nihil possum respondere, quam quod vehementer oderint
+obtrectationes. Ipse ergo viderit, quibus aures prebeat susurris et obtrectatoribus. Si quando venere ad nos fratres
+Argentoratenses, amice, opinor, accepimus illos, amice dimisimus. Si quid contra ipsos habuimus, monuimus libere.
+Proinde nescimus, quas vel quorum obtrectationes ille intelligat.
+^$
+<vl>222r.</vl> Quod petit, ut illi dicamus diem et auditum iudicemus<f1>Siehe BucerDS VI/1 272, 21-23.<fe>, ego certe posteritati
+et sanctis omnibus relinquo iuditium, et iccirco nec illi diem dico nec ullam dicendam puto. Satis, opinor, convenimus,
+et ideo conscripsimus confessionem fidei unanimem, ne toties convenire cogamur. In hac ero posthac. Certa est pietatis
+doctrina. Constitutae sunt apud nos ecclesiae. Has ut ornemus et ad uberiorem fructum provehamus, curandum erit. Haec
+habui ad epistolam tuam postremam de scripto Buceri, cuius offitia atque benefitia in nos collata non convitiis,
+obtrectationibus odiisve, sed charitate, candore et offitiis mutuis rependere cogitamus.
+^$Nunc ad infinitas illas quaestiones, quas agitari audio in conventu Schmalkaldiensi<f1>Siehe oben Nr. 934,
+6-35.<fe>. Videor autem mihi brevi compendio respondisse ad omnes, si respondero ad quasdam. Nam d[octor] Ioannes Zviccius
+omnes tuas in has tres redegit<f1>Siehe oben Nr. 940, 7-16.<fe>: Prior, an consilium Mantuanum<f1>Siehe
+oben Nr. 934, Anm. 3.<fe> ad indictionem papae<f1>Paul III.<fe> quaerendum sit an expectanda
+caesaris<f1>Karl V.<fe> vocatio. Hic ego censeo consilium ad indictionem papae minime esse inquirendum. Caussae sunt:
+^$1. Papa praeiuditio quodam attestatus est, quod conetur religionem nostram excindere. Sic enim verba bullae
+habent<f1>Bullinger zitiert aus der Einleitung der Bulle "Ad Dominici gregis", mit der Papst Paul III. am 2. Juni 1536
+das Konzil angekündigt hatte; s. CT IV
+2,15-3,3.<fe>: "Nil magis ex animo desideravimus et ab omnipotenti deo continue praecati sumus, quam
+ut ec­clesiam suam nobis commissam tot haeresum et errorum vepribus iampridem<fx>vepribus iampridem ^#/+in
+Majuskeln.^#/-<fe> in ea subortis spiritus sancti operante gratia nostroque studio aliquando repurgatam eiusque moribus
+in melius reformatis debito nitori" etc. Quid autem apud illum agas, qui ante consilium nondum audita causa nostram
+doctrinam damnavit haereseos? Quam enim doctrinam intellexit, si nostram non intellexit? Iampridem habet emphasim. Habet
+et illud pondus, quod nostram religionem appellitat "errorum vepres". Si enim unicum hoc Pauli dictum<f1>Tit 3, 10.<fe>
+"haereticum hominem devita" tantum potuit, ut Constantiense consilium e vivis sustulerit s[anctum] Hussium<f1>Zur Verurteilung
+von Johannes Hus durch das Konstanzer Konzil (1415) äußert sich Bullinger ausführlicher in seiner Schrift "De
+conciliis", Zürich 1561, f. 150r.-v.<fe>, evidentius certe contra nos
+erit illud dictum evangelicum<f1>Joh 15, 6.<fe>: "Si quis in me non manserit" (puta in sancta Romana ecclesia, in qua
+praesidet Christi vicarius papa), "eiicitur foras, exarescit et in ignem coniicitur", et illud apostoli<f1>Hebr 6,
+8.<fe>: "Terra, quae produxerit vepres et tribulos, reproba est et maledictioni confinis, cuius exitus huc tendit, ut
+exuratur." Ideo cum Marone exclamo<f1>Vergil, Ecl. 9, 28.<fe>: "Mantua<fx>^#/+in der Vorlage irrtümlich^#/-
+Mantuae.<fe> vae miserę nimium vicina Cremonae!" Miserrima enim est, quae destinata est lanienę sanctorum. Quare
+non magis delegit Cremonam sanctissimus? Haec enim magis quadraret (si quis spectet etymon) instituto eius. Cogit enim
+consilium, ut nos cremet. Sed ignosce ioco.
+^$2. Locum delegit papa, in quo, si res poscat, etiam armis et potentia superior sit. Iam
+<vl>222v.</vl> vero verisimile est, quod veteri more volet celebrari consilium et quod non sinet se redigi in ordinem;
+imo hoc ipsum ex ipsius bullae contextu colligere licet. Id vero citra veritatis oppressionem fieri non posset. Debemus
+autem nos ab iis cavere nobis, quae offitiunt veritati, ne haec nostra periclitetur stultitia. Ergo et consilium illud
+cavendum esse quis est, qui non intelligat?
+^$3. Papae non est indicare consilium; partim, quod multis iam annis evicimus papam non esse generalem episcopum neque
+huius curae omnes christiani orbis ecclesias esse subiectas. Itaque, cum ius sibi contra veritatem et ecclesiarum
+libertatem usurpat sibique in ecclesia dictaturam sumit, tyrannus esse convincitur. Quis vero liber et sanus tyranni
+obediat consiliis, quibus huc tendit totus, ut tyrannidem suam confirmet? - partim, quod tota scriptura, omnes sancti
+et tempora ipsa clamitent hunc illum esse antichristum. Et profecto hic ille lupus et praedo<f1>Vgl. z. B. Mt 7, 15; Joh
+10, 1-13.<fe> est, qui a toto orbe accusatur. Et reus constituit se iudicem et praesidem iuditii. Impius ille sacrilegus
+et hostis Christi, qui contra verbum Christi rerum habenas moderatur, praesumit iudicare ecclesiam Christi. Proh pudor,
+proh scelus! Insani, amentes, imo inconstantissimi nebulones erimus, si scelus illud vel audire induxerimus in animum.
+Ego igitur suaderem antichristum istum prorsus esse contemnendum, ut per nostrum sentiret contemptum, quid de nebulone
+iudicaremus. Utile autem foret, si causae omnes publico scripto orbi exponerentur, cur ecclesia Christi contemneret
+vocationem et consilium papae, ne quis crederet aliquid a nobis fieri arrogantius. Certe nemo affectum dixerit, quod
+iussit verbum Christi.
+^$Deinde, quod imperatoris vocationem attinet, agnosco quidem huius et principum sive magistratus sancti esse conventus
+indicere, sed tempore, loco et modo legittimo, animo item imprimis candido et nequaquam spiritu antichristi imbuto.
+Quodsi imperator aut principes, quae facerent, ex consilio papae facerent, nihil interesset, huius an illius
+obtemperaremus aedictis, neque minus antichristo caesarem audientes obediremus, quam cum papae paremus legibus. Videtur
+autem illud esse tempus legittimum, quod non est turbulentum bellicis tumultibus, quod etiam spatium cogitandi
+consultandique concedit illis, quorum interest de religione disputare. Quo illud quoque pertinere videtur, quod
+tempestive satis illa rerum capita summatim debent proponi, quibus de disserendum consultandumque erit. Locus legittimus
+is est, qui tutus est et accessu facilis et in quo potissimum videtur error dominari, ubi scilicet haeresis multorum
+occupavit animos. Publice autem illa revincenda est, ut resipiscant
+<vl>223r.</vl> seducti. De hac re habes elegantissima quaedam apud S. Ambrosium lib. epist. 5. cap. 32<f1>Ambrosius,
+Ep. 75 (CSEL LXXXII/3 74-81); Bullingers Zählung entspricht unter anderem der 1516 bei Adam Petri in Basel erschienenen Ausgabe.<fe>. Quid nobis, obsecro, cum Mantua? Quodsi dicant adversarii: "Quid nobis cum Germania?" - "In hac docemus, in
+hac sunt ecclesiae, quas insimulatis haereseos." "Nos", inquiunt, "docemus in Italia; sumus ergo revincendi in Italia."
+- "Non modo in Italia, sed in tota propemodum Europa. Omnium enim ecclesiarum censuram vobis sumitis." Modus legittimus
+est, qui praescribit, ut omnia transigantur secundum scripturas canonicas, ut scriptura canonica iudex sit, ut nemo
+excludatur. Nam in consilio Niceno idiotae<f1>Gemeint ist, wie Bullinger in "De conciliis"
+(f. 31v.) ausführt, insbesondere jener unbekannte Laie, von dessen Disputation mit
+den Philosophen die Kirchenhistoriker Sokrates Scholasticus und Rufin berichten (s. MPG LXVII 63 bzw. MPL XXI 469f).<fe>
+doctissimis episcopis melius iudicarunt et disputarunt,
+ut ea, quae ad rem pertinent, dicantur etc. De his putarem admonendum esse caesarem, si vocaret in consilium papae.
+Quodsi sancta monentes non audiret, sed pergeret contra nos agere legibus et conditionibus iniquis, non magis huic quam
+pontifici parerem.
+^$Poterat et hoc peti a principibus christianis, curent legationem optimorum, eloquentissimorum ac doctissimorum virorum
+ex toto pontifitii consilii coetu ordinari in Germaniam, quae per singulas proficiscens provincias praedicatores
+evangelii revincat erroris. Hoc enim si petatur, nihil iniqui aut novi petetur, siquidem ante annos 18 tam benefica fuit
+curia Romana in Germaniam, ut legationem miserit non ad metropoles tantum, sed ad civitatulas, imo villas quaslibet,
+quae largissimas venderet indulgentias<f1>Bullinger denkt an die Ablaßprediger Samson und
+Tetzel, vgl. HBRG I 13-20.<fe>. Ita enim voluit salutem nostram promovere. Iam itaque, cum iterum agitur salutis
+negotium, non, opinor, negare poterit legationem, quae palantes nos reducat in gremium sanctae matris ecclesiae. Si enim
+sanctissimus pater tunc<fx>sanctissimus pater tunc ^#/+am Rande nachgetragen.^#/-<fe> tam fuit benignus, ne nunc
+quidem suum nobis negabit offitium. Neque deerit fructus amplissimus. Conversis enim ad ecclesiam Romanam denuo licebit
+vendere indulgentias pro admissa illa haeresi. Qui quidem quaestus erit haud exiguus, modo legatio vividis argumentis
+resipiscentiam persuadere potuerit seductis. Es wirt huffen<f1>eine Menge.<fe> gält gäben.
+^$Posterior quaestio est, quomodo caveri possit, ne scindantur a magistratibus ministri verbi, sed utrique communi
+defensione tueantur veritatem. Hic respondeo huic rei facile consultum esse, si bene cesserit negotium quaestionis
+primae, in qua monui neminem prorsus excludendum esse, qui ullo modo possit recte consulere de vera religione. Est autem
+hic diligenter demonstrandum, quod non tantum ministrorum verbi, sed magistratus quoque sit religionem tueri non solum
+gladio, sed ratione etiam ac argumentis. Id autem facile poterimus, si revocaverimus vetera scripturae exempla Iosue,
+Samuelis, Davidis et aliorum regum fidelium. In codice quoque Iustiniani religiosorum regum
+ex-<vl>223v.</vl>empla, quae huc faciunt, non pauca extant<f1>Der Codex Iustinianus enthält zahlreiche Erlasse
+verschiedener Herrscher, die sich auf Fragen der Kirche und des Glaubens beziehen; s. besonders Cod. Iust. 1, 1-13
+(recognovit et retractavit Paulus Krueger, 11. Aufl., Berlin 1954 [Nachdruck: Hildesheim 1989]. - Corpus Iuris Civilis
+II, S. 5-68).<fe>. Quid, quod ex deuteronomio manifestissime colligimus<f1>Vgl. Dtn 17, 14-20.<fe>, quod reges populi
+dei veluti legum custodes fuerunt? Imprimis itaque hoc mihi largiri peterem. Nisi vero magistratum quoque religionis
+defensorem admitterent, ego nihil negotii cum<fx>cum ^#/+über der Zeile nachgetragen.^#/-<fe> hisce haberem hominibus
+ut iis, qui contra verbum dei se solos statuunt veritatis et religionis magistros.
+^$Postrema quaestio est: Si pontifex nullas aequas leges receperit et imperator cum regibus aliis et principibus nihil
+dederit nobis, sed praecipiat papae decretis inhaerere, papa autem veritatem damnet, falsam religionem confirmet et
+gladio principum reclamantes persequatur, num iure liceat bello resistere papae. Prorsus. Si enim Iosue, sanctissimus
+dei princeps, sua referre putavit gladio persequi perfidiam et Rubenitarum et sotiorum, qui putabantur contra legem dei
+aram extruxisse<f1>Vgl. Jos 22, 10-20.<fe>, quanto magis sancti magistratus est obstare, ne quis contra verbum dei
+et<fx>et ^#/+über der Zeile nachgetragen.^#/-<fe> aras erigat et ad impios cultus compellat? Nam isti ad aram suam
+neminem geniculari compellebant etc. Nota est historia. Notissimum est et illud, quod de fortissimo duce Iuda Machabeo
+referunt historiae<f1>Judas Makkabäus, gest. 160 v. Chr., Anführer des Aufstandes gegen die Seleukidenherrschaft,
+erkämpfte die Wiedereinführung des jüdischen Kultes in Jerusalem. - Lit.: Kurt ^#/+Galling,^#/- Art. Judentum I, in: RGG
+III 982f.<fe>. Et Paulus apostolus non impie usus est Romanorum armis contra illos, qui iuditium et disputationem
+simulantes foris, intus autem concipiebant parricidium<f1>Vgl. Apg 23, 12-35.<fe>. Haec habui ad quaestiones illas tuas.
+^$Sed quid ista sine fructu disputamus? Nam certo comperies istos homines suum, non veritatis agere negotium. Imprudenter
+ergo egerimus, si tantillum negotii cum istis veteratoribus habuerimus. Semel agnovimus veritatem. Didicimus istos esse
+in religione perversa. Semel amovimus, quae scriptura iussit tollere. Scimus, quod in veritate sumus. Quid ergo negotii
+nobis cum hostibus veritatis? Cur in illorum consilia ingredimur? Aut cur eos recipimus in nostra? An non satius et
+consultius erat renunciare istis prorsus atque in haec verba respondere: "Habemus deum, habemus Christum, fidem,
+religionem et cultum dei eaque omnia secundum scripturas constituta, ex illis petita et confirmata. In illa religione
+nostra perseverabimus in finem usque<f1>Vgl. Mt 10, 22; 24, 13.<fe> confirmante nos gratia Christi. Quodsi putatis nos
+quicquam contra pietatis et scripturae legem designare, venite, revincite nos, et melius instituti ab­iura­bi­mus omnem
+haeresim. Nisi autem id planis sanctisque scripturis fiat, non est, quod quicquam expectetis a nobis. Consilia vestra
+horremus. Religionem vestram nolumus. Fastum et luxum
+<vl>224r.</vl> vestrum ex animo detestamur. Cupimus autem, ut Christus et spiritus Christi vivat in cordibus nostris."
+^$Vale, mi Myconi, et rusticitatem meam et simplicitatem, opinor, christianam noli aspernari. Exhibe item haecd. Grynaeo,
+fratri longe charissimo. Cuperem autem et consilia vestra<f1>Vgl. oben Nr. 934, 56f mit Anm. 16.<fe> videre.
+^$Tiguri, 10. februarii anno 1537.
+^$Salutabisd. Grynaeum, Marcum<f1>Markus Bertschi.<fe>, Carolstadium, Wolfgangum<f1>Wolfgang Wissenburg.<fe>, Gastium et
+reliquos.<un>Tuus H. Bullingerus.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

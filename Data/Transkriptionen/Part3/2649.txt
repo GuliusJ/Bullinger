@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2649">
+<brief>
+<id>16339</id>
+<nr>2649</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-29"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 29. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 255 (neu: 272) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 47; Zit.: <i>Gast,</i> Tagebuch 44 </k></dr>
+<re><t>Wenn Bullinger die Schrift über die spanische Inquisition ["Newe zeytung auß dem Niderland"] besitzt, ist es diejenige, die Myconius meint.</t>
+<t>Der Italiener [...] beschrieb den von ihm Angetroffenen [aus den Fünf Orten] (dessen Namen er nicht angab) als schlank, langbärtig und von dünner Stimme. Deshalb vermutete Myconius, dass es sich um Nikolaus [richtig wohl: Jost von Meggen] handeln könnte. Aber ganz egal, das Verhalten der [Fünf Orte] ist unanständig! Der Herr wird sie strafen.</t>
+<t>[Johannes] Gast zufolge soll Wilhelm von Fürstenberg einen 200 Mann starken Ausrüstungstross von Kaiser [Karl V.] verfolgt, alle bis auf den letzten Mann erschlagen und die Ausrüstung in das Lager [der Schmalkaldener] gebracht haben. Angeblich hat er auch sehr viele Kaiserliche von einer Anhöhe vertrieben. Doch scheint alles fragwürdig zu sein, da Bullinger nichts darüber berichtet.</t>
+<t>Myconius glaubte auch zunächst das Gerücht, wonach die zu Bregenz liegenden Truppen [König] Ferdinands [I.] den Rhein überquert, Dörfer angezündet und Rorschach geplündert hätten. Doch nach einiger Überlegung glaubte er es nicht mehr. Denn wäre es zu einem feindlichen Angriff gekommen, hätte man sofort die Sturmglocken geläutet und es hätte sich eine solche Menge versammelt, dass etwas geschehen wäre, über das man Genaueres berichten könnte.</t>
+<t>Man erzählte, dass die Böhmen in Waffen stehen und [Kur]sachsen bedrohen. Als jemand [...] fragte, wo denn König Ferdinand wäre, antwortete der anwesende [Francisco de] Enzinas: "Bei seiner Frau". Da mussten alle lachen, trotz der traurigen Stimmung.</t>
+<t>Bullinger, der ja sehr gut informiert ist, soll mitteilen, ob [Sebastian] Schertlin noch in Augsburg ist. Glaubensstark haben sich die Ulmer verhalten! Sonderbar, dass niemand sich den Ränken des unmenschlichen, ja gar teuflischen Kaisers erfolgreich widersetzen kann! Myconius sagte kürzlich, wenn man dem Kaiser nicht frontalen Widerstand leistet, wird dieser Deutschland völlig verwüsten, auch wenn die [Schmalkaldener] noch so geschickt Krieg führen.</t>
+<t>Bullinger schreibt gar nichts über die Beschlüsse des langen Treffens [der Vier protestantischen Orte in Zürich]! Falls es zu guten Entscheidungen kam, über die Stillschweigen bewahrt werden muss, fügt sich Myconius diesem Entschluss. Wenn aber andere etwas darüber erfahren haben, möchte er es auch wissen. Neuigkeiten teilen ihm leider nur Bernhard [Meyer zum Pfeil] und der Stadtschreiber [Heinrich Ryhiner] mit. Manche Ratsherren vertreten sogar offen die Meinung, dass man den [protestantischen] "Pfaffen" nichts erzählen dürfe, weil diese es sonst auf der Kanzel ausposaunen und damit das Volk nur erschrecken oder aus Freude verrückt machen würden, was natürlich nicht stimmt. Neulich schickten zwar die Ratsherren durch den Stadtschreiber ein Dokument an die [Prediger], das von der Kanzel aus verlesen werden sollte, um das Volk zum Gebet anzuspornen. Seither aber hat man nichts mehr vernommen ...</t>
+<t>Der
+Herr mache der gegenwärtigen Misere ein Ende! Grüße, auch an [Rudolf] Gwalther.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16339-6A</zzl>Sanctam inquisitionem Hispanicam si habes,
+<fn>Die Schrift "Newe zeytung auß dem Niderland ...", die Bullinger wahrscheinlich von Johannes Gast erhalten hatte; s. <qv>nr2630</qv> und <qv>fn16320-4</qv> und <qv>nr2653</qv>,<qv>zl16342-6</qv>.</fn> habes quo de significavi.<zzl>zl16339-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16339-13A</zzl>Nicolaum
+<fn>Nikolaus von Meggen; s. <qv>nr2630</qv>,<qv>zl16320-2</qv>. Es wird sich jedoch eher um Jost von Meggen gehandelt haben; s. <qv>nr2630</qv>, <qv>fn16320-2</qv>.<zfn>fn16339-5</zfn></fn> Italus
+<fn>Der schon in <qv>nr2630</qv>,<qv>zl16320-10</qv>, erwähnte unbekannte Italiener.</fn> sic descripsit: <zzl>zl16339-1A</zzl>Vir est procerus, barba longa et ampla et exili voce.<zzl>zl16339-1E</zzl> Nomen non addidit. Ego ex descriptione conieci illum esse.<zzl>zl16339-13E</zzl> <zzl>zl16339-11A</zzl>Age vero, quisquis sit, agunt isti
+<fn>Die Fünf katholischen Orte, in Bezug auf Myconius' Mitteilung in <qv>nr2630</qv>,<qv>zl16320-12</qv>.</fn> praeter decorum.<zzl>zl16339-11E</zzl> Dominus vindicabit.
+<fn>Vgl. z.B. Dtn 32, 35; Hebr 10, 30.</fn></p>
+</div>
+<div>
+<p><zzl>zl16339-3A</zzl>Gastius dixit c{e}sarem
+<fn>Karl V.</fn> praemisisse, nescio quo, suppelectilem suam una cum 200 Hispanis; eam rem accepisse Gulielmum Furstenbergensem
+<fn>Graf Wilhelm von Fürstenberg. - Vermutlich ein Gerücht; s. nämlich <qv>nr2612</qv>, <qv>fn16301-28</qv>.</fn> et sequutum repertos invasisse et occidisse ad unum, suppellectilemque abduxisse in castra. Eundem Gulielmum deiecisse fortiter ingentem multitudinem ex monticulo a c{e}sarianis occupato et laudem meruisse. Quia vero tu de his taces, suspecta sunt.<zzl>zl16339-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16339-2A</zzl>Venerat praeterea rumor adeo constans, ut primo
+<fa><i>Am Rande nachgetragen.</i></fa> persuaderer, Ferdinandinos
+<fn>Die Soldaten König Ferdinands I.</fn> collectos Bregantiae
+<fn>Bregenz (Vorarlberg). - Das falsche Gerücht wurde geschürt durch die dortige Truppenpräsenz; s. dazu schon <qv>nr2626</qv>, <qv>fn16316-11</qv>.</fn> transiisse Rhenum, incendisse pagos et diripuisse Roschachium
+<fn>Rorschach (Kt. St. Gallen).</fn>. Dein vero credere non potui, quod novi morem illorum hominum; mox enim igni hostili cognito classicum campanis cecinissent, et numerus convenisset tantus, ut non rumore, sed veritate res innotuisset.<zzl>zl16339-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16339-8A</zzl>Rumor alius nunc volat: Bohemos esse in armis et minari Saxoni{e}.
+<fn>Der Vorstoß der böhmischen Truppen auf die sächsische Grenze hatte etwa Mitte Oktober 1546 begonnen; s. den Bericht Heinrich Thomanns an Zürich vom 18. Oktober (Zürich StA, A 177, Nr. 94), wonach Ferdinand I. "mit vil thusent stark uff sye. Soll uff das Lannds Meyssen zühen". Siehe ferner Zürich StA, A 177, Nr. 96 (Thomann an Zürich, 19. Oktober); <a>PC</a> IV/1 440, Nr. 417. Kurz vor Ende Oktober lagen die Böhmen noch an der Grenze; s. Thomann an Zürich, 30. Oktober (Zürich StA, A 177, Nr. 111). Der Einfall in Sachsen erfolgte am 30. Oktober 1546 unter dem böhmischen Hauptmann Sebastian von Weitmühl; s. <a>Bucholtz</a> VI 361; Erich <i>Brandenburg</i>, Moritz von Sachsen, Bd. 1: Bis zur Wittenberger Kapitulation (1547), Leipzig 1898, S. 494. Zu Moritz' Kriegserklärung s. <qv>nr2664</qv>, <qv>fn16353-5</qv> und <qv>fn16353-3</qv>.<zfn>fn16339-1</zfn></fn><zzl>zl16339-8E</zzl> Hoc dum narraretur, aderat Dryander
+<fn>Francisco de Enzinas, der damals in Basel wohnte.</fn>. Dumque rogaret aliquis
+<fn>Unbekannt.</fn>, ubinam esset Ferdinandus, mox ille respondebat: "Apud uxorem
+<fn>Anna Jagiello, Königin von Böhmen und Ungarn.</fn>." Risum excitabat omnibus, quamvis tristes colloqueremur.</p>
+</div>
+<div>
+<p>Schertlius an sit adhuc apud Augustanos,
+<fn>Sebastian Schertlin blieb nach seiner Rückkehr am 13. Oktober nach Augsburg (s. dazu <qv>nr2631</qv>,<qv>zl16321-7</qv>) in der Stadt postiert, von wo aus er wiederholte Ausfälle in die Umgebung unternahm; s. <qv>nr2640</qv>, <qv>fn16330-4</qv>. Dass er in Augsburg blieb, geht auch aus <a>Schertlin, Leben</a> 56, hervor.<zfn>fn16339-2</zfn></fn> miramur. Arbitror te nosse omnia, quare et hoc rogo. <zzl>zl16339-9A</zzl>Sed egregie fecerunt Ulmenses,
+<fn>Anspielung auf die vom 14. Oktober datierende Forderung des Kaisers an Ulm, sich zu ergeben (s. <a>Karl V. BW</a> II 514-517, Nr. 562) und auf die vorläufige Weigerung der Stadt, dem Folge zu leisten. Erst am 29. Oktober 1546 entschied sich der Ulmer Rat zu Verhandlungen mit Karl V.; s. <a>Rommel, Ulm</a> 58f; Die Einführung der Reformation in Ulm. Geschichte eines Bürgerentscheids, hg. v. Hans Eugen Specker und Gebhard Weig, Ulm 1981 - Forschungen zur Geschichte der Stadt Ulm, Reihe Dokumentation 2, S. 217f, Nr. 209, unter Bezug auf den entsprechenden Eintrag im Ulmer Ratsprotokoll. - Aufseiten der Protestanten befürchtete man, dass Ulm sich ergeben könnte, da die Bevölkerung von Angst erfasst war; s. Thomann an Zürich, 14. Oktober (Zürich StA, A 177, Nr. 85).<zfn>fn16339-3</zfn></fn> ut videamus et illic esse viros in domino fortes.<zzl>zl16339-9E</zzl> <zzl>zl16339-7A</zzl>Mirum vero, quod artibus istius viri
+<fn>Gemeint ist der Kaiser.</fn> nemo satis potest ire obviam.<zzl>zl16339-7E</zzl> <zzl>zl16339-10A</zzl>Diabolum esse credo, non hominem, vel saltem diabolo vendicatum.<zzl>zl16339-10E</zzl> Igitur, ut nuper quoque dixi, nisi a fronte habiturus est militem, vastabit Germaniam miserrime, quantumvis nostri
+<fn>die Schmalkaldener.</fn> pugnant feliciter. Age, dominus faciet, ut doli tandem desinant! Hunc itaque orabimus, ut manum suam ac robur a nobis non abstineat.</p>
+</div>
+<div>
+<p><zzl>zl16339-5A</zzl>De conventu isto
+<fn>Das Treffen der Vier Orte vom 19. bis 26. Oktober in Zürich; s. <qv>nr2606</qv>, <qv>fn16294-1</qv>.</fn> tu nihil. Mirum! Nam arbitror aliquid actum, quod tam diu simul perdurarunt. Utinam dominus adfuerit consultantibus! Si feliciter consultarunt et volunt id taceri, placet; nec ego velim nosse, quicquid sit. Sin aliter, cuperem scire, quod sciunt et alii.<zzl>zl16339-5E</zzl> <zzl>zl16339-4A</zzl>A nostris
+<fn>die Basler Ratsherren.</fn> nihil comperio, ni solus ad dominum Bernhardum
+<fn>Bernhard Meyer zum Pfeil, Gesandter Basels an das Treffen der Vier Orte in Zürich; s. <a>EA</a> IV/1d 698, Nr. 319 (Vorspann).</fn> venirem, seu ad scribam
+<fn>Heinrich Ryhiner, Basler Stadtschreiber.</fn>. <zzl>zl16339-12A</zzl>Sunt ex illis
+<fn>d.h. von den Ratsherren.</fn>, qui palam dicere audent: "Nihil horum debet dici pfaffis nostris
+<fn>Gemeint sind die protestantischen Prediger, wie dies auch aus <qv>nr2653</qv>,<qv>zl16342-8</qv>, hervorgeht.<zfn>fn16339-4</zfn></fn>; mox de suggestu proclamant omnia et populum terrent vel l{e}ticia dementant."<zzl>zl16339-12E</zzl> Et, quamvis h{e}c falso dicant, rem tamen huc adduxerunt, ut a senatu nobis nihil exponatur. Nuper, nescio quo spiritu moti, per scribam miserant qu{e}dam
+<fn>Unbekanntes Dokument.</fn>, qu{e} legeremus, ut populum melius possemus excitare ad precandum. Postea iterum tacuerunt et tacent, usque dum dominus iusserit aliud.<zzl>zl16339-4E</zzl></p>
+</div>
+<div>
+<p>Dominus Iesus Christus malis praesentibus finem aliquando statuat, qu{e}so! Vale in Christo cum tuis et Gvalthero. Basile{e}, 29. octobris anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, viro magno, domino suo in Christo colendo. Zu[ric]h
+<fa><i>Textverlust bei Entfernung des Verschlussbandes.</i></fa>.
+<fn>Vorliegender Brief und Myconius' Brief <qv>nr2650</qv> wurden durch Christoph Froschauer an Bullinger übermittelt; s. <qv>nr2653</qv>,<qv>zl16342-16</qv>.</fn></p>
+</div>
+</text>
+</brief>

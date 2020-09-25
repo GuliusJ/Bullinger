@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1752">
+<nr>1752</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>Meier</addressee>
+	<addressee>Rat von Biel</addressee>
+	<note fn=1>Vgl. HBBW XI, S. 168, Anm. 1.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>13. Juni 1543</date>
+</space_time>
+<vo>Autograph: Biel Stadtarchiv, 119, CXXIX, Nr. 13 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat auf das vom [Bieler] Schulmeister [Johann Leopold Frey] überbrachte Schreiben hin die Verordneten zur Lehre zusammenberufen, die unter Berücksichtigung der Resultate der letzten Examinierung und der Meinung von Johannes Fries über die beiden [Bieler Stipendiaten Abraham und Beat Steinegger] beraten haben;
+ihr Urteil hat sich seit dem letzten Bericht nicht geändert: es besteht kein Grund zur Annahme, dass sich die beiden Stipendiaten, insbesondere Abraham, zu vorzüglichen Gelehrten entwickeln werden; für Beat besteht die Hoffnung, dass er dereinst fähig sein wird, einer Gemeinde vorzustehen, sofern er sich Mühe gibt und sich sein Verhalten nicht verschlechtert; Genaueres wird [Frey] berichten, der bei allen Beratungen anwesend war. Die Zürcher Pfarrer bitten die Bieler, ihre Bemühungen um eine Förderung des Wortes Gottes und der christlichen Lehre weiterzuführen.
+</re>
+<tx>Min früntlicher gruͦß sampt erbietung williger
+diensten und alles guͦten bevor,
+frommen, vesten, ersammen, fürsichtigen und wysen,
+gnädigen, lieben herren.
+^$Üwer schryben<f1>Nicht erhalten.<fe>, mir durch üwern
+schuͦlmeister<f1>Johann Leopold Frey, vgl. HBBW XII, S. 65, Anm. 4.<fe> zuͦgebracht, hab ich sins ynhalts
+verstanden und daruff die verordneten zuͦ der leer<f1>Zu den sog. Verordneten zur Schule und Lehre vgl. HBBW X, S. 71, Anm. 1.<fe>
+zuͦsamen beruͤffen lassen und den selben üwer begären
+flyssig fürtragen.
+Die habend sich widerumb des gehaltnen
+examinis, jetzt nächstverschinner ostern vergangen<f1>das vergangene Ostern (25. März) abgehalten wurde.<fe>, und üwer
+beider knaben<f1>Gemeint sind die beiden Bieler Stipendiaten Abraham und Beat Steinegger.<fe> geschicktlickeit erinneret. So habend sy gar
+ernstlich M. Johansen Fryesen ervraget<f1>Die beiden Stipendiaten waren bei Johannes Fries untergebracht, vgl. oben Nr. 1713, 3-8.<fe>, und nach allem
+nachsuͦchen, verhörren, erinnern und erwägen könnend wir
+nitt anders finden, dann wie wir üch vormols zum teyl
+geschriben habend.<f1>Vgl. oben Nr. 1713.<fe> Nammlich, das wir nitt gedencken oder
+hoffen könnend, das besonders geleerte lüt, in sprachen
+geleert, in künsten geuͤpt unnd für uuß bericht<f1>und vorzüglich geschult.<fe>, uß inen
+werdint, insonders uß Abrahammen. Von Batten<f1>Beat.<fe> habend wir wol
+ein hoffnung, er habe schon jetzund so vil anfangs, werde
+und möge mitt der zyt, so er sich nitt böserte<f1>verschlechtert.<fe>, alls er sich
+der besserung für und für embüt<f1>immerfort Besserung verspricht.<fe> und sich dero flyst<f1>sich befleißigt.<fe>, so vil
+studieren und begriffen, das er einer kylchen möchte
+vorstan, wie üch nach der läng und eigentlicher üwer
+schuͦlmeister, unser insonders lieber bruͦder, den wir
+ouch hierumb by allem erinnern und radtschlagen habend
+sitzen lassen und alles anhören, wirt berichten können.
+^$Wir bittend üch und vermanend trüwlich, das ir in dem flyß
+zuͦ göttlichem wort und allem guͦten, ouch zuͦ
+christlicher leer pflantzung, ein sömlichen ernst fürer<f1>weiterhin solchen Ernst.<fe>
+tragen wöllind, wie ir des bißhar wol geruͤmpt sind. Was wir
+üch dann allhie, die wir der kylchen dienend, zuͦ gfallen
+und willen thuͦn köndent, wöltend wir nitt spaaren und
+uns hiemitt unser willigen diensten embotten haben. Gott
+beware üch.
+^$Datum Zürych, 13. iunii anno 1543.
+<un>Uwer alle zyt
+<un>gantz williger
+<un>Heinrych Bullinger,
+<un>diener der kylchen
+<un>Zürych.
+<lz>[Adresse auf S. 4 des Doppelblattes<fx>^#/+Mit späteren Archivvermerken.^#/-<fe>:] Den frommen,
+ersammen, fürsichtigen und wysen herren meygern und radt der
+statt Byel, sinen insonders günstigen und gnädigen herren.
+</content>
+</letter>

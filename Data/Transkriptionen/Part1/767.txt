@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="767">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>(*Zürich*)</place>
+	<date>20. März 1536</date>
+</space_time>
+<record>Autograph: Zürich ZB, Ms D 197d, 34 (Siegelspur)</record>
+<print></print>
+<note>Gedruckt+a: Vadian BW V 316f</note>
+<statue>
+Die Ratsvertreter der reformierten Städte sind nach Basel
+eingeladen worden, um über das Bekenntnis Beschluss zu fassen; Luthers
+Urteil darüber wird wohl über Strassburg bekannt werden. Schenkt Vadian
+seinen Kommentar zu den letzten Paulusbriefen; zum 2. Thessalonicherbrief
+hat er auf Vadians Anregung einen Exkurs über den Antichrist
+gemacht, und dem Kommentar zu Titus hat er
+Ausführungen über die Häretiker beigegeben, die (*Valentin*) Furtmüller
+und Dominik (*Zili*) lesen müssten. Die Berner sollen zur
+Eroberung des Schlosses
+(*Chillon*) ausgezogen sein. Ein kaiserliches Begehren um Söldner wurde
+von Zürich abgelehnt; bittet um Nachrichten über einen angeblichen
+Frankreichzug.
+</statue>
+<content>
+Gratiam et vitae innocentiam a domino.
+<p>Non nescis, opinor, vir clarissime, nostros Basileam iterum esse vocatos, nimirum ut negotium nuper per nos coeptum absolvant+1. Ex nostris ibunt, qui prius fuerant legati+2.
+Placet nostris confessio+3
+per omnia. In hac perstare volunt pacemque habere cum omnibus, qui paria
+aut non contraria his confitentur. Non videbatur necesse, ut nos
+praesenti interessemus convocationi, neque ministros verbi nunc vocarunt
+Basileienses, sed senatorii ordinis homines. Fortassis agentur et alia
+quaedam ecclesiae et reipublicae nostrae conservandae necessaria.
+Ego dominum oro, ut bene coepta prosperet et fausto fine claudat.
+Audiemus forsan ab Argentoratensibus, quid sentiat de nobis ac nostris
+Lutherus+4.</p>
+<p>Mitto, quae scripsi in postremas Pauli epistolas+5. Quodsi ea, quae in Thessalonicensem posteriorem aedidi, usui piis futura sunt, plane tibi ferent acceptum; nisi enim tu severius
+incitasses, ut suis istos pingerem antichristianos coloribus+6,
+sane non tam copiose egissem. Appendi praeterea quaedam de coercendis+b
+puniendisque haereticis epistolae ad Titum+7,
+quae fortassis praestiterit vel Fortmüllero vel Dominico+8
+ostendisse. Hoc autem qualicunque munusculo te dono et domino commendo,
+in quo nobis diu valeas cum tuis.</p>
+<p>20. martii 1536.</p>
+<signature>
+H. Bullingerus tuus.
+</signature>
+<address>
+Die vonn Bernn söllend widerumb mitt 1500 mannen usszogen sin,
+ein schloss ze stürmen und zu^% vertyllgen+9.
+<p>Caesar a nostris militem petiit, sed negarunt illi+10. Quid tu de eius expeditione in Gallias habes? Aiunt enim, illum in Gallias ducturum exercitum. (*Adresse auf der Rückseite:*) Doctori Ioachimo Vadiano, domino
+suo colendissimo.</p>
+</address>
+</content>
+<note>
+<print>
++a>Nach der Abschrift von Johann Jakob Simler (Zürich
+ZB, Ms S 40, 103).
++b>in der Vorlage  cohercendis.
+</print>
+<address>
++1>Das Basler Einladungsschreiben an Zürich vom 9. März 1536 s.
+EA IV/1c 671.
++2>Kaspar Nasal und Werner Beyel.
+;s. die Richtigstellung oben 21.1.36, A 3+4.
++3>Der in Basel an der ersten Zusammenkunft (vgl. oben Nr. 737, Anm.
+1) entstandene Bekenntnis-Entwurf, s. EA IV/1c 618-623 und Stumpf,
+Abendmahlsstreit 65-74.
++4>Zu den diesbezüglichen Erwartungen Bullingers s. oben Nr. 748,
+6-20 und 753, 11-16.
++5>Bullinger, Commentarii in Pauli ad Thessalonicenses, Timotheum,
+Titum et Philemonem epistolas (HBBibl I 81), erschienen im März 1536 bei
+Froschauer in Zürich; vgl. HBD 24, 26f.
++6>Vgl. ebd., f. 54v.-80r. -- Zur Redensart vgl. Otto 15, Nr. 64.
++7>Vgl. ebd., f. 227r.-229r.
++8>Dominik Zili.
++9>Siehe Johannes Rhellikans Mitteilung oben Nr. 766, 70-72 mit
+Anm. 14. Die Berner Obrigkeit hatte am 13. März 1536 1500 Mann zur
+Eroberung des Schlosses Chillon, das sich noch in savoyischer Hand
+befand, aufgeboten (vgl.
+<print>
+Gilliard,  Conqu^^^^^'52.te 199f).
++10>Ein Truppenbegehren des Kaisers, an der Tagung vom
+8. März an die 7 Orte
+in Luzern gestellt (vgl. EA IV/1c 655 zu d), war -- wie aus den Badener
+Verhandlungen Ende März hervorgeht (vgl. EA IV/1c 668 n) -- auch an
+Zürich ergangen und abgelehnt worden.
+;Nachfolgendes je nach Befund im StAZ evtl. weglassen:
+Zur diplomatischen Aktivität der
+kaiserlichen Gesandten Léonard de GruyXYre und Nicolas de Gilley,
+Herr von Marnoz (Marnol), 1536 in der Eidgenossenschaft vgl. Theodor von
+Liebenau,  Marnol als kaiserlicher Gesandter in der Schweiz, in:
+Mittheilungen des Instituts für österreichische Geschichtsforschung,
+IV. Ergänzungsband, Innsbruck 1893, S. 166-171.
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

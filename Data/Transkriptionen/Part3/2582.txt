@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2582">
+<brief>
+<id>16271</id>
+<nr>2582</nr>
+<ae>Oswald Myconius an [Bullinger]</ae>
+<od>Basel, 13. September 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 249 (neu: 267) (Siegelfragment)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 149</k></dr>
+<re>Der durch die Nachlässigkeit [der Schmalkaldener] verursachte Verlust der Klause [Ehrenberg] ist ärgerlich, denn somit steht dem italienischen Heer der Weg nach Schwaben offen. Dies gibt den Kaiserlichen guten Grund zu hoffen, alle von ihnen bisher verlorenen Orte zurückerobern zu können.
+<t/>[Landgraf Philipp von] Hessen soll sich nicht mehr in der Nähe des kaiserlichen Lagers befinden, da ein Teil des [schmalkaldischen] Heeres [Maximilian von Egmont, Graf von] Büren, entgegenzieht.
+<t/>In Ensisheim forderte man zum Gebet auf, weil es dem kaiserlichen Heer bald an Proviant mangeln würde. Sollte es dazu kommen, wäre es gut, denn Hunger [kann vieles bewirken]! Wenn nur die [Schmalkaldener] auf der Hut blieben!
+<t/>Vom beinahe völlig zerstörten Mechelen wird Bullinger schon gehört haben; so auch von den noch schlimmeren Nachrichten aus [Lecce im Königreich Neapel und] Sizilien. Es heißt ferner, dass die Böhmen [König] Ferdinand gefangen genommen haben.
+<t/>Warum bleiben denn die [eidgenössischen Protestanten] untätig?
+<t/>Papst [Paul III.] soll Bettler zum Vergiften der Brunnen ausgeschickt haben. Über die neuen Brandstifter wusste man bereits. All dies ist ganz deutlich auf den Antichristen zurückzuführen! Mögen diejenigen, die solche bösen Handlungen planen, diesen selbst zum Opfer fallen!
+<t/>Gruß, auch an Gwalther.</re>
+<text>
+<p>S. <zzl>zl16271-1A</zzl>Dolet mihi vehementer fauces
+<fn>Die Klause Ehrenberg. - Am 5. September wurde sie von dem italienischen Heer, das unter der Führung Francesco di Castellaltos stand, zurückerobert; s. <qv>nr2572</qv>,<qv>zl16260-1</qv>; <qv>nr2574</qv>,<qv>zl16264-14</qv>; <qv>nr2576</qv>,<qv>zl16265-12</qv>; <qv>nr2577</qv>,<qv>zl16266-12</qv>.<zfn>fn16271-1</zfn></fn> iterum amissas per negligentiam, ut multis videtur. Patet via Italico exercitui ad Svevos. Maiori itaque cura debebat locus ille defensus esse. Spes data c{e}sarianis de omnibus locis hactenus amissis, ea videlicet restitutum iri.<zzl>zl16271-1E</zzl></p>
+<p>Aiunt c{e}saris
+<fn>Karl V.</fn> castra relicta ab Hesso
+<fn>Landgraf Philipp von Hessen. - Das schmalkaldische Lager um Ingolstadt wurde am 4. September aufgehoben; s. <qv>nr2574</qv>,<qv>zl16264-7</qv>; <qv>nr2576</qv>,<qv>zl16265-9</qv>; <qv>nr2581</qv>,<qv>zl16270-4</qv>.<zfn>fn16271-2</zfn></fn> et exercitum divisum. Unam partem mansuram, <zzl>zl16271-2A</zzl>alteram ituram obviam Burensi
+<fa><i>In der Vorlage</i> Durensi.</fa>
+<fn>Maximilian von Egmont, Graf von Büren; vgl. <qv>nr2579</qv>,<qv>zl16268-3</qv>; <qv>nr2585</qv>,<qv>zl16274-3</qv>; <qv>nr2589</qv>,<qv>zl16277-1</qv>. Er war Anführer des niederländischen Heeres; s. <qv>nr2572</qv>, <qv>fn16260-5</qv>; sowie die in <qv>nr2575</qv>, <qv>fn16263-4</qv>, angeführten Stellen.</fn>.<zzl>zl16271-2E</zzl> Nescio, quid hic cogitandum.</p>
+<p><zzl>zl16271-3A</zzl>Enshemii rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu prohibeatur c{e}saris.
+<fn>Vgl. <a>NBD</a> IX 259, Nr. 79: "In campo havemo non solamente carestia di pane et vino, ma mancamento ben spesso ...".</fn> Hoc placeret, modo cauti sint nostri. Scis enim consilium famis
+<fn>consilium famis; vgl. <a>Wander</a> II 913, Nr. 84: "Hunger ist ein schlimmer (harter) Rathgeber".</fn>.<zzl>zl16271-3E</zzl></p>
+<p>De Mechlinia
+<fn>Zur Explosion des Sandtores in Mechelen s. zuletzt <qv>nr2572</qv>,<qv>zl16260-12</qv>. - Dass Myconius erst mit vorliegendem Brief auf dieses Ereignis anspielt, ist wohl als Hinweis zu deuten, dass die diesem Geschehnis gewidmete Basler Veröffentlichung (s. dazu s. <qv>nr2551</qv>, <qv>fn16240-1</qv>) zu diesem Zeitpunkt gedruckt wurde.<zfn>fn16272-4</zfn></fn> a domino fere perdita audisti. Narrantur crudeliora ex Sicilia.
+<fn>Zum Unwetter in Lecce (Königreich Neapel und Sizilien) s. <qv>nr2572</qv>, <qv>fn16260-1</qv>.</fn> Arbitror et h{e}c tibi cognita. A Bohemis fertur captus Ferdinandus.
+<fn>König Ferdinand I. - Ein Gerücht, das auf eine Entstellung der in <qv>nr2572</qv>,<qv>zl16260-14</qv>, überlieferten Nachricht zurückzuführen sein wird.</fn></p>
+<p><zzl>zl16271-4A</zzl>Quare nos inter h{e}c ita desidemus? Domine Iesu, adesto ecclesia{e} tu{e}!
+<fn>Vgl. <qv>nr2563</qv>,<qv>zl16254-10</qv>.</fn><zzl>zl16271-4E</zzl></p>
+<p>Intoxicatores fontium mendicos aiunt esse, missos a papa
+<fn>Paul III., im Folgenden als Antichrist bezeichnet.</fn>. De incendiariis novis patet. Artes antichristi!
+<fn>Das Gerücht wurde seit Ende August in Deutschland verbreitet und gab Anlass zu einer gedruckten "Warnung" des Landgrafen und des Kurfürsten Johann Friedrich I. von Sachsen; s. <qv>nr2570</qv>, <qv>fn16427-1</qv>; <qv>nr2576</qv>, <qv>fn16265-9</qv>; <qv>nr2577</qv>, <qv>fn16266-12</qv>.</fn> Dominus respiciat nos contemptos propter nomen eius et sua virtute efficiat, ne falsum reddatur, quod tanto tempore veritatem retinuit adagium, quo dicitur: Consilium malum consultori pessimum.
+<fn><a>Adagia</a> 1, 2, 14 (<a>ASD</a> II/1 226-228, Nr. 114).</fn></p>
+<p>Vale in Christo cum tuis et Gvalthero. Basile{e}, 13. septembris anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, doctissimo fratri in domino venerando suo.</p>
+</text>
+</brief>

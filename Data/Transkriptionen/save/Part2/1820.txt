@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1820">
+<nr>1820</nr>
+<correspondents>
+	<originator>Gervasius Schuler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Memmingen</place>
+	<date>24. November 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1391 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 187^&x{
+<dr>Ungedruckt</dr>
+<re>Hat gehört, Bullinger bereite ein gegen Luther gerichtetes Buch über die Sakramente vor; mahnt zur Zurückhaltung und
+fürchtet um den Frieden in den schwäbischen Kirchen. Ist besorgt über die Absicht hessischer Theologen, eine
+Rechtfertigung der Polygamie zu veröffentlichen. Will bald ausführlicher schreiben. Bullingers Johanneskommentar zeugt von seiner Begabung. Bittet um Antwort.
+</re>
+<tx>S. Audio, mi charissime Bullingere, te librum adornare
+contrad. Lutherum de re sacramentaria.<f1>Ein unzutreffendes Gerücht; vgl. unten Nr. 1825, 10-14, sowie ^#/+Bizer,^#/- Abendmahlsstreit 231.<fe>
+Quod dum verum est, vehementer doleo vulnus pristinum denuo innovari. Apud nos nemo est, qui corporalem et grossam illam
+praesentiam corporis in coena amplexetur. Pacata est nostra
+ecclesia atque de spirituali corporis praesentia optime
+grata, contentionis omnis nescia. Sed ubi revixerit
+inveteratus ille conflictus, vereor vos denuo turbaturos
+ecclesias Svevicas. Obsecro igitur per communem servatorem
+nostrum, ut prudenter agas, cogitando quam horrendum sit in
+conspectu domini animas Christo lucratas irritare et inquietare.
+^$Aiunt fratres in ditione Catorum<f1>D. h. in Hessen (gedacht ist wohl vor allem an Johannes Lening).<fe> meditari librum pro polygamia.<f1>Landgraf Philipp hatte zwar im
+Februar an Bucer geschrieben, wenn Bullinger in dieser Frage weiter polemisiere, müsse ihm erwidert werden (s. Lenz
+II 122). Über konkrete Pläne für eine solche Publikation ist jedoch nichts bekannt.<fe> Quod ubi verum est, quę putas
+malorum secum plaustra<f1>Vgl. Adagia, 1, 3, 32 (LB II 124) am Ende.<fe> laturum hunc? Tam nobis omnia videntur tranquilla, ut
+semel liceat stercosę quoque carnis rationem habere? O fratres, cogitate, obsecro, quam plena sint omnia turbis, dolis, fraude!
+^$Nunctius<f1>Unbekannt.<fe> abitum festinat; vix licet tantum scribere. Sed proximo nunctio plura.
+^$Vale in domino.
+^$Comentaria in Ioannem<f1>Gemeint ist Bullingers Kommentar zum Johannesevangelium (HBBibl I 153).<fe> lego, quę profecto
+summopere mihi placent; spirant enim singulare<fx>^#/+In der Vorlage^#/- sigulare.<fe> donum a domino tibi collatum. Dominus diu te sue ecclesię servet incolumem.
+^$Datum Memminge, 24. novembris anno 1543.
+^$Praesente nunctio rescribe.<f1>Bullingers Antwort ist nicht erhalten.<fe>
+<un>Gervasius tuus Schuler.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro Heynricho Bullingero, Tigurinę ecclesię antistiti vigilantissimo, domino et preceptori in Christo cum primis observando.
+</content>
+</letter>

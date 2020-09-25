@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1244">
+<nr>1244</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Matthias Erb</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>14. März 1539</date>
+</space_time>
+<vo>Autograph: Basel UB, Ms. Ki. Ar. 25c, Nr. 83 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Erb braucht sich nicht zu entschuldigen, Bullinger freut sich über die Briefe gelehrter und frommer Menschen. Von [Erasmus] Schmid wurde Markus [...] als Pfarrer für Volgelsheim empfohlen; auch Bullinger hält ihn für geeignet. Ermahnt Erb, sein neues Amt nach dem Willen und zur Ehre Gottes zu
+verwalten. Ist beunruhigt ob der Kriegsgerüchte und beklagt die religiöse Lauheit und Sittenverderbnis der Protestanten; sie sollten sich - mit dem Beispiel der gescheiterten Kriegspolitik der Schweizer Reformierten vor Augen - nicht zu sehr auf die Mittel des Krieges und auf die Verbündeten
+verlassen.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Tantum abest, Erbie dilectissime, ut ulla putes apud me
+excusatione opus esse, quod ad ignotum scribis<f1>Siehe oben Nr. 1223, 2-5.<fe>, ut ipse
+potius tibi agam gratias pro humanitate illa tua.
+Gratissimae enim sunt mihi doctorum et piorum virorum
+litterae.
+^$De ministro ecclesiae Folkesheym<f1>Volgelsheim (
+Grafschaft Horburg, Elsaß).<fe> praeficiendo<fx>^#/+von^#/- ministro ^#/+bis^#/- praeficiendo ^#/+am Rande nachgetragen für im Text gestrichenes, nur teilweise lesbares^#/- Fry[...].<fe> non
+est, quod scribam amplius. Virum enim optimum Marcum<f1>Nicht weiter bekannt.<fe> illum
+commendavit tibi Fabritius<f1>Erasmus Schmid.<fe> noster, quem et ego tibi, si modo haesit, diligenter commendo. Pius enim est ac doctus satis.
+^$Et quia functionem nactus es sanctam et gravem<f1>Erb hatte am 29. September 1538 in Reichenweier die Nachfolge von Erasmus Schmid angetreten (vgl. HBBW VIII, S. 164, Anm. 90).<fe>, hortor te, ut Spartam, quam nactus es, ornes<f1>Adagia, 2, 5, 1 (LB II 551).<fe>. Non hominum
+ministri sumus, sed aeterni dei. Neque commissa nobis sunt
+terrena, sed agitur de incolumitate multarum animarum. Ergo
+sancta diligentia nostra pluribus prodesse, negligentia
+plurimos perdere possumus. Agitur et de gloria et ignominia
+divini nominis. Neque praemium propositum est periturum, sed
+immortale et aeternum. Curramus ergo in studio prudenter et
+fortiter. Plurimos domino nostro adducamus, ut, cum ille
+venerit pastorum princeps, immarcescibili corona<f1>1Petr 5, 4.<fe> nos donet.
+^$Tumultus illi rumoresque bellorum<f1>Siehe oben Nr. 1223, 21-37.<fe> mire me conturbant.
+Terret enim me ingratitudo nostrorum. Saturi sumus.
+Fastidimus verbum dei, sanam doc­trinam sufferre non
+possumus. Avaritiam, luxum, sanguinem, sacrilegia,
+adulteria, oppressionem, artes denique pessimas accusari
+nolumus. Christum ore profitemur, vivimus Bachanalia<f1>Vgl. Juvenal, Satiren, 2, 3.<fe>.
+Futurum est<fx>Futurum est ^#/+über gestrichenem, unlesbarem Wort.^#/-<fe> itaque, ut iudicium domini a domo dei
+incipiens aliquando perveniat ad hostes nostros<f1>Vgl. 1Petr 4, 17.<fe>. Utinam nostri non adeo feroces essent! Ferocia nostra in Helvetiis non felicem sortita est exitum<f1>Spielt auf die
+Kriegspolitik Zürichs und der anderen reformierten Orte der Schweiz an, welche im Zweiten Kappelerkrieg 1531 mit der Niederlage endete.<fe>. Utinam nostra infelicitate et clade
+alii<f1>Im Schmalkaldischen Bund war seit der Verhängung der kaiserlichen Acht über Minden und im Vorfeld der Frankfurter Tagung zunehmend kriegerische Stimmung aufgekommen, und bereits
+hatten auch - von Philipp von Hessen und Johann Friedrich I. von Sachsen veranlaßt - militärische Rüstungen stattgefunden; vgl. dazu Georg ^#/+Mentz,^#/- Johann Friedrich der Großmütige, Bd. II, Jena 1908, S. 171-184.<fe> docti aut praemoniti saperent humilius!
+Videntur quoque nostri foederibus et instrumentis bellicis
+plus nimium confidere. Orandus itaque dominus et instituendi
+diligenter, qui rerum gubernaculis adhibiti sunt, omnia
+agant prudenter in timore dei ac humilitate cordis, non quae
+sua, sed quae Christi sunt quaerentes.
+^$Dominus sit cum spiritu tuo. Scripsi tardius, quod per
+negotia citius non potui.
+^$14. martii anno 1539.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Matthiae Erbio,
+concionatori ecclesiae Richenvillae, fratri charissimo. Dem
+predicanten ze Rychenwyler.
+</content>
+</letter>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1714">
+<nr>1714</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>25. Januar 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 241 (Siegel)</vo>
+^&xK: Ms S 56, 140 (1545!); Erw.: Gast, Tagebuch 74, Anm. 212 (1545!);^&x{
+<dr>Teildruck: CO XI 500, Nr. 448^&xEgli, Analecta II 60, Anm. 2 u. 4 (1543); Vgl. Steinmann, Oporin 31.^&x{</dr>
+<re>Schickt drei von Bullinger gewünschte Büchlein; kann das vierte auf Wunsch in Frankfurt bestellen. Der [von Oporin
+gedruckte und vom Rat beschlagnahmte] Koran wurde freigegeben, doch als Markus [Bertschi] in einer Predigt die Veröffentlichung
+begrüßte, wurden die Pfarrer vor den Rat zitiert, wo ihnen ein Erlass vorgelesen wurde, der die Erwähnung dieser Publikation
+auf der Kanzel untersagt; immerhin sind die Bücher jetzt in Oporins Hand. Gruß.
+</re>
+<tx>Mitto tibi tres libellos, de quibus scripsisti.<f1>Bullingers Brief ist nicht erhalten, die erwähnten Bücher lassen sich deshalb nicht identifizieren.<fe> Quartus
+non extat, sed e nundinis Francfordianis, si opus habes,
+curabo advehi; constant 4 ß<f1>Schilling.<fe> Basil[ienses].
+^$Alcoranum est liberatum post multas consultationes,<f1>Zur Freigabe der beschlagnahmten Koranausgabe am 11. Januar 1543 s. HBBW XII, S. 273, Anm. 5.<fe> nec
+tamen satan quiescit.<f1>Vgl. Wander IV 1078, Nr. 437f.<fe> Marcus<f1>Markus Bertschi.<fe> locum de thesauro abscondito in agro<f1>Mt 13, 44.<fe> sat dextre in
+concione publica tractavit Alcorani mentionem habens. Quid factum? Per consulem<f1>Hemmann Offenburg oder Adelberg Meyer (neuer bzw. alter Bürgermeister).<fe> vocatus coram
+toto senatu rationem dare coactus illius dicti de Alcorano.
+Hoc esse dixerunt senatus decreta contemnere, populum
+commovere, doctos scholae exacerbare, odia inter fratres
+serere; sat altercationum hactenus habuisse. En conscientiam
+male sibi consciam.<f1>Vgl. den früher Hugo von Saint-Victor zugeschriebenen "Tractatus de interiori domo seu de conscientia aedificanda", 22, 46 (MPL CLXXXIV 531).<fe> Dices: "Quidnam dixit Marcus?" Man
+sol got loben, das der Alcoran sige an tag kommen zuͦ
+unseren letsten zitten, darin mann sich<f1>sehe.<fe>, in was irsal die Turken sigen steckenn<f1>stecken würden.<fe>. Hoc excidit, quod tam pessime illos
+nostros habet. Vocati sumus altera die omnes, quotquot
+ministerio verbi praesunt. Decretum praelectum, ne quis
+Alcorani mentionem publice in rostro habeat, aut implacabilem
+se­natum habiturum. Discessimus non sine admiratione, etsi
+falsi fratres nostri<f1>Gegner des Korandrucks waren - nebst Bonifacius Amerbach und Sebastian Münster - die Pfarrer Wolfgang Wissenburg und Jakob Truckenbrot; s. HBBW XII, S. 168f,
+8-11.<fe> alacres abierint utpote autores illius decreti. Hęc volui paucis tibi communicare. Rumpantur et ringant, imo latrent more canum - Alcoranum habet Oporinus integrum et illesum.
+^$Vale, et Theodorum<f1>Theodor Bibliander.<fe> nomine meo salutabis.
+^$1543<fx>^#/+Die undeutliche letzte Ziffer könnte auch als 5 gelesen werden (so die Abschrift Johann Jakob Simlers
+in Zürich ZB, Ms S 56, 140, sowie Gast, Tagebuch 74), was jedoch wegen der Erwähnung der Freigabe des beschlagnahmten
+Korans (s. unten Z. 4 mit Anm. 3) unmöglich ist (vgl. auch ^#/-Egli,^#/+ Analecta II 60).^#/-<fe>, 25. ianuarii.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero, Tigurinę ecclesiae vigilantissimo pastori. Zuͦ Zurich.
+</content>
+</letter>

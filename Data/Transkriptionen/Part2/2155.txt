@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2155">
+<nr>2155</nr>
+<correspondents>
+	<originator>Schultheiß</originator>
+	<originator>Rat</originator>
+	<originator fn=1>Burger zu Bern</originator>
+	<addressee>die ^$^$^$^$Pfarrer</addressee>
+	<addressee>Professoren von Zürich</addressee>
+	<note fn=1>Rat und Burger: Die Angehörigen des Kleinen Rates (= Rat) und des Großen Rates (= Burger) von Bern. - Schultheiß war damals Hans Franz Nägeli; s. HLS IX 70.</note>
+</correspondents>
+<space_time>
+	<place>[Bern]</place>
+	<date>10. Mai 1545</date>
+</space_time>
+<vo>Original<fx>^#/+Erhalten ist auch der Entwurf: Bern StA, Teutsch Missiven Y, 766f.^#/-<fe>: Zürich StA, E II 337a, 373 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 92 ^&x{
+<re>Die Berner haben das Schreiben der [Zürcher] vom 12. März und das ["Warhaffte Bekanntnuß"] erhalten, dieses aber bisher, gehindert durch Amtsgeschäfte, nicht verlesen lassen können. Die [Zürcher] sollen den Verzug nicht etwa einer Missachtung, sondern den Geschäften zuschreiben. Die [Berner] haben das Schreiben mit Wohlgefallen aufgenommen und bezeugen den [Zürchern] ihren Dank und ihre Freundschaft. Ferner versichern sie den [Zürchern], an ihrer Disputation [von 1528] (die man bisher mit der Heiligen Schrift nicht widerlegen konnte) und der daraus hervorgegangenen Reformation wie zuvor festhalten zu wollen.</re>
+<tx>Unnser ganntz fruͤndlich, willig diennst, sampt was wir liebs unnd guͦtts vermögennd, zuvor.
+Hoch unnd wollgelertt, erwuͤrdig, ersam, wyß, sonnders geliebt herren und fründ,
+üwere trostliche missive ann unns zwöllfftenn verganngenn martij ußganngenn<f1>Oben Nr. 2100.<fe>,
+sampt dem getruckten buͤchly<f1>Das "Warhaffte Bekanntnuß" der Zürcher; s. oben Nr. 2061, Anm. 9 und Nr. 2100, 33-35.<fe>, habenn wir vorlanngest<f1>schon längst.<fe> empfanngenn, aber byßhar vonn wegenn
+unserer grossen geschäfftenn nitt mögen lassen verläsenn. Deßhalb wir üch zuͦm aller erstenn unnd flyssigostenn
+wellen gepätten habenn, ir disen langen uffzug<f1>Verzug.<fe> nitt der meynung, alls ob wir beide - die missive unnd buͤchly -
+verachtind, uffnemenn, sonnders (wie obgemeldett) vyle unnser geschäfftenn zuschrybenn unnd zumässenn.
+Demnach fügenn wir üch ganntz gettrüwer meynung annttwurts wyß ze wüssenn, das wir dasselbig üwer schrybenn
+zuͦ höchstem danck unnd mitt grossem wollgevallen empfangen unnd verstannden <vl>373v.</vl> habenn, mitt hertzlicher erpiettung,
+wo wir üch liebe, fründschafft unnd wollgevellig diennst könnend unnd mögennd bewysenn, das ir unns jeder zytt williger dann willig werdenn findenn.
+Unnd alls ir unns trungennlich<f1>dringlich.<fe> vermanennd, by der warheytt, durch unnsere disputation<f1>Die Berner Disputation von Januar 1528.<fe> erhallten,
+unbewegt ze belybenn,<f1>Vgl. oben Nr. 2100, 43-45.<fe> söllennd ir unnd sunst mencklich<f1>jedermann.<fe> des versichertt sin, das wir unverrucktenn<f1>unveränderten.<fe>
+unnd stettens fürnämens unnd willens sind, wie wir unns des hievor offtmalen entslossenn
+(dwyl noch niemands dieselbige disputation mitt biblischer schrifft widerfochtenn, umbgestossenn noch nidergelegtt),
+by derselbigenn unnd unser daruß gefloßner reformation mitt hillff unnd gnad gottes ze blybenn unnd verharren.
+^$Datum sontag, 10. may 1545.
+<un>Schultheis, rhätt und
+<un>burger der statt
+<un>Bernn.
+<lz>[Adresse auf f. 374v.:] Denn hoch unnd wollgelerttenn, ersamen, wysenn predigern, läsern und gemeinen dienern der kilchenn Zürych, unnsern insonnders geliebten herrenn unnd fründenn.
+</content>
+</letter>

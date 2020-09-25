@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="20273">
+<nr>20273</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Calvin</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. Dezember 1550</date>
+</space_time>
+<vo>Zürich StA, E II 342, 237. / Orig.</vo>
+<dr>Ep.Calv. 1420 (XIII, 667f)</dr>
+<re></re>
+<note></note>
+S. D.  Studiosi quidam Bononia venientes et descendentes in
+Saxoniam hasce mihi
+tibi, chare frater, mature transmittendas crediderunt. Ego
+eas pro amore nostro
+libenter accepi, et quia nunc tabellionem certum nactus sum,
+mitto Bernam ad
+nostros. Vivimus hic, ut semper, in gratia Christi. Non
+licuit plura. Festinavit
+tabellio. Omnes te amant fratres, omnes te salutant. Vale
+aeternum acd. a
+Burgundia me commenda. Tiguri  6. decembris 1550.  Saluta
+fratres omnes inprimis
+Gallasium et Farellum opt[imum].
+Bullingerus tuus.
+Clarissimo virod. Ioanni Calvino Genevensis ecclesiae fido
+pastori domino suo
+observando et fratri longe charissimo et incomparabili.
+</content>
+</letter>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2123">
+<nr>2123</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>27. März 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen von späterer Hand.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 24 (Siegelabdruck)</vo>
+<dr>Teildruck: CO XII 56, Nr. 628; ^$^$^$^$Zusammenfassende Übersetzung: Blarer BW II 354f, Nr. 1174</dr>
+^&xKopien 16., 17. und 18. Jh.: Zürich StA, E II 352, 79; Zürich ZB, Ms F 43, 73v.-74r.; Ms S 57, 28; Zit.: ^#/+Gast,^#/- Tagebuch 100, Anm. 71^&x{
+<re>Angesichts Bullingers geringer Gaben ist Blarers Dank übertrieben. Vielmehr hat Bullinger zu danken, zumal er Blarer mit Briefen und Schriften zur Weiterleitung überschüttet.
+-^#. Er wartet auf Blarers Urteil über das ["Warhaffte Bekanntnuß"]. Dieser bemängelt zu Recht, dass die Schrift zu lang ist, es fehlte [den Zürchern] aber die Zeit, diese zu kürzen. Sollte es zu einer weiteren Schrift kommen, wird diese kürzer. Wie dem auch sei, [die Zürcher] waren zu dieser Schrift gezwungen.
+-^#. Auch Bullinger würde Nachrichten, die Blarer betreffen, weiterleiten.
+-^#. Jemand (angeblich Calvin) hat [unter dem Titel "Admonitio paterna Pauli III. Romani pontificis ad invictissimum caesarem Carolum V. cum scholis"] das päpstliche [Tadelsbreve] an Karl V. wieder drucken lassen und dieses mit höchst treffenden Scholien versehen. Blarer wird davon wohl schon ein Exemplar gesehen haben, sonst hätte Bullinger seines geschickt.
+-^#. Der Basler Rat hat Johannes Gast suspendiert, weil er vor acht Jahren nach Genf geschrieben hatte, dass Karlstadt ein Hindernis darstellt, und dass sich in Basel üble Zustände ausbreiten. Dieser Brief wurde von irgendjemandem dem Rat übergeben. Gast weiß nicht, wohin er ziehen soll.
+-^#. Bullinger lässt sich [Jakob] Metzler, der einen guten Eindruck macht, empfohlen sein, und zwar Blarer, [Bartholomäus Metzler] und [Jakob selbst] zuliebe. [Jakob] wird wohl bei Otto [Werdmüller] unterkommen, sonst bei [Konrad] Pellikan. Es wird für ihn gesorgt.
+-^#. Das Mädchen [Anneli ...] benahm sich bei Heinrich Haldenstein gut, nur dass sie bei ihm nicht mehr dienen möchte, da sie anscheinend lieber wieder wie vorher in Armut umherziehen will.
+-^#. Bullinger legt einen Brief zur Weiterleitung an [John] Butler bei, den er grüßen lässt.</re>
+<tx>Gratiam et pacem.
+^$Nimius es in agendis gratiis, frater in domino venerabilis. Exiguum illud est, quodcunque fratri tuo<f1>Thomas Blarer.<fe>
+tibique praestiti.<f1>Siehe oben Nr. 2118, 1. 6 und Anm. 1. 4.<fe> Cuperem autem, si maioribus liceret, animum in te tuosque meum prodere.
+Ego multo plus tibi debeo, cui tantum non et semper molestus sum; nam quot, obsecro, literis et libellis nunc te obrui?
+His omnibus ac singulis prope tabelliones inquirere coactus fuisti. Ego itaque
+maximas merito tibi gratias ago pro beneficiis et pro tua illa tolerantia.<f1>Bullinger schickte Blarer öfter Briefe und Schriften zur Weiterleitung, Hier bezieht er sich auf die zahlreichen Exemplare des "Warhafften Bekanntnuß", die er Blarer am 16. und 17. März übersandt hatte; s. oben Nr. 2111, 8-11; 2115.<fe>
+^$Verum nondum audivi tuum de nostra responsione<f1>Das "Warhaffte Bekanntnuß"; s. oben Nr. 2061, Anm. 9.<fe> iudicium, quod tamen etiamnum expecto.
+Recte sane iudicas satis prolixum esse librum.<f1>Siehe Blarers Brief vom 11. März oben Nr. 2094, 36-38.<fe> Breviores erimus, si secundum scribendum erit.
+Ac vellem et primam responsionem esse breviorem, sed otium non est illam abbreviandi.
+Utcunque vero cedat res, necessitate adacti fecimus, quae fecimus, et ad gloriam nominis dei
+ecclesiaeque utilitatem fecimus.
+^$Neque ego patiar te ignorare quicquam eorum, quae tua scire putavero.<f1>Anspielung auf oben Nr. 2118, 19-23.<fe>
+^$Respondit quidam (aiunt Calvinum esse authorem) erudite, prudenter, severiter et cum authoritate
+scripto Pauli III. ad Carolum V.<f1>Das päpstliche Tadelsbreve an Karl^#. V.; s. oben Nr. 2071 und Anm. 25 und 27.<fe>, quo hunc ille dehortatur, ne quid religionis gratia paciscat<fx>^#/+In der Vorlage^#/- pasciscat.<fe>
+aut transigat cum protestantibus caesar.<f1>Gemeint ist laut der Beschreibung unten Z. 20f Calvins annotierte Version des Tadelsbreves, die "Admonitio paterna Pauli III. Romani pontificis ad invictissimum caesarem Carolum V. cum scholis"; s. oben Nr. 2083, Anm. 7.<fe> Nisi vero arbitrarer id te vel ante me vidisse, misissem exemplum,
+quod penes me unicum est. Curavit primum imprimi Admonitionem papae, deinde subiunxit huic scholia.
+^$Senatus Basiliensis optimum, doctissimum et fidelissimum virumd. Ioannem Gastium
+ministerio privavit non aliam ob causam, quam quod ante 8 annos Genevam scripsit
+Carlostadium<f1>Andreas Karlstadt.<fe> multa remorari et Basileę exultare scelera.<f1>Siehe dazu Gasts Bericht vom 19. März über diesen Vorfall oben Nr. 2116.<fe>
+Datae sunt nunc primum literę senatui, nescio per quem; hic illi renunciavit,
+id quod valde dolet. Pendet animi dubius, quonam se conferat. Utinam ipsi denuo prospiciatur!
+^$Metzlerus<f1>Jakob Metzler.<fe> est et erit mihi commendatissimus cum propter te tum propter patrem<f1>Bartholomäus Metzler.<fe> et semetipsum.<f1>Blarer hatte Jakob Metzler an Bullinger empfohlen; s. oben Nr. 2118, 33-55 und Anm. 19.<fe>
+Videtur egregius esse iuvenis. Recipietur, opinor, ab Ottone<f1>Otto Werdmüller.<fe>, aut
+si hic gravatim recipiet, videbo, quid agat et facturus sit Pellicanus<f1>Konrad Pellikan.<fe>.<f1>Zur Frage der Unterbringung von Jakob Metzler s. oben Nr. 2118, 37-41. Er kam letztlich bei Theodor Bibliander unter; s. unten Nr. 2211, 49f.<fe> Dummodo,
+ne dubites, prospicietur illi; illum pro nostro et tanquam nostrum habebimus.
+^$Das meytli<f1>Die elfjährige Anneli [...]; s. zuletzt oben Nr. 2118, 64-66.<fe> hatt sich wol gehallten by Heinrych Haldenstein, onet das<f1>onet das: abgesehen davon, dass.<fe> es,
+uß armuͦt uffgelaͤsen, ze letst by inen (weiß nitt uß was ursachen) nitt hatt woͤllen blyben.
+Sy achtends darfür, das es lieber gewellen wider in armuͦt umb ziehen, dann dienen, etc. Sunst sagend sy kein uneer von imm<f1>dem Mädchen.<fe>.
+^$Orabis pro nobis Christum, in quo valebis cum omnibus tuis.
+Literas has dabisd. Buttlero<f1>John Butler.<fe>, [quem]<fx>^#/+Von^#/- [quem] ^#/+bis^#/- salutabis ^#/+auf dem linken Rand nachgetragen und teilweise im engen Einband verdeckt. Fehlender Text aus dem Kontext ergänzt.^#/-<fe> meo [me]orumque [nomi]ne offi[cios]e salutabis.
+^$Tiguri, 27. martii anno 1545.
+<un>Tuus H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Ambrosio Blaurero, fratri et amico syncero et semper colendo. Constantz.
+</content>
+</letter>

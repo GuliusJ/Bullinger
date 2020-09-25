@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2165">
+<nr>2165</nr>
+<correspondents>
+	<originator fn=1>Meier</originator>
+	<originator>Rat von Biel^$^$^$^$</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>die übrigen Pfarrer</addressee>
+	<addressee fn=2>den Schulherrn</addressee>
+	<addressee fn=3>den Schulverwalter</addressee>
+	<note fn=1>Valerius Göuffi von Büderich; s. HBBW XI 168, Anm. 1.</note>
+	<note fn=2>Johann Jakob Ammann.</note>
+	<note fn=3>Heinrich Nüscheler, Schulverwalter vom 25. November 1531 bis zu seinem Tod im Jahr 1558; s. ^#/+Bächtold,^#/- Bullinger 192.</note>
+</correspondents>
+<space_time>
+	<place>[Biel]</place>
+	<date>27. Mai 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Dazu existiert ein Entwurf vom 18. Mai 1545 in: Biel StadtA, Missivenbuch, 1, 127, CXXIII, 1, 1542-1572, S. 25-27. Zu einer wesentlichen inhaltlichen Abweichung s. unten Anm. 11.^#/-<fe>: Zürich StA, E II 359, 2807 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 106 ^&x{
+<re>Die Bieler haben das Beat Steinegger betreffende Schreiben des [Zürcher] Schulherrn [Johann Jakob Ammann] und des Verwalters [Heinrich Nüscheler] erhalten und von Steineggers Faulheit und Nachlässigkeit Kenntnis erlangt; sie hätten dies nicht von ihm erwartet. Die [Zürcher], die viel Mühe und Fleiß an ihm aufgewendet haben, tragen keine Schuld daran.
+-^#. Da sie Steinegger zurzeit nicht brauchen, bitten sie die Zürcher, ihm zu einem Auskommen, vielleicht zum Versehen [einer Pfarrstelle], zu verhelfen. Wenn das nicht möglich ist, sollen sie ihn [nach Biel] heimschicken.</re>
+<tx>Unser fruntlich grus, willig dienst, und was wir ehren, liebs und guts vermögen, zuvor.
+^$Hochberumpten, wolgelerten, insonder lieb herren und gutten frundt, wir haben von denn schulher und verwalter
+der schulen by uch ein schriben empfangen, Beatum Steinecker<f1>Beat Steinegger war seit 1538 Schüler in Kappel und ab 1541 Student in Zürich; s. HBBW XI 168f, Anm. 6f. Dass er sich 1545 noch in Zürich aufhielt, geht aus einem an ihn gerichteten Gruß im Brief von David Textorius (Wäber) an Samuel Pellikan, Bern, 22. April 1545 (Zürich StA, E II 352, 140), hervor.<fe> belangen,<f1>Nicht erhalten.<fe> und darin verstanden,
+wie sich gemelter Steinecker so unflissig, full und traag haltet in der leere, auch uber vilfaltiger truwer warnung
+und ermanung also liederlich und ungehorsamlich sich getragen und erzeigt. Des wir warlich nitt wenig beduren tragen,
+hetten wir uns des gentzlich nitt zu im versehen<f1>hetten wir uns des gentzlich nitt zu im versehen: hätten wir doch dies ganz und gar nicht von ihm erwartet; s. Grimm XII/1 1251f.<fe>. Dan ein gut anfang mag wenig oder nichts nuttzlichs
+erweegen noch wircken, er werd dan<f1>er werd dan: es sei denn, er werde.<fe> mitt einem fruchtbaren, lobsamen end vollendet.
+Wissen auch und mögen woll erachten, was grossen vlys, muhe und arbeit ir sinethalben getragen
+und das alles, so zu christenlicher leer dienstlich und erschießlich<f1>förderlich.<fe> gewesen, an uch nichts erwunden<f1>an uch nichts erwunden: es bei euch nicht gefehlt hat.<fe>.
+Des wir uch zum hochsten danck sagen mitt erbiettung, semlichs<f1>Solches.<fe> unserm vermögen nach umb uch sampt unnd sonders
+allzyt haben fruntlich zu beschulden und in allem guttem williglichen zu erkennen.
+^$Demnach so ist unser fruntlich bitt an uch,<f1>Im Entwurf fordern die Bieler die Zürcher auf, Steinegger nach Biel zurückzuschicken, damit man erkunden könne, "waruff er sin wesen setzen will"; man werde den Zürchern dann schriftlichen Bescheid geben. Von einer Bitte an die Zürcher, sich nach einer Erwerbsmöglichkeit für Steinegger umzusehen, ist im Entwurf nicht die Rede.<fe> ir wöllent allweg das best thun, und who ir auch
+bemeltem Steinecker notturfftig werent zu gebrauchen, who er ettwas möchte versehen,
+es were in statt oder lannd, damitt und er sin libs narung gewinnen möchte, wöllen wir uch denselben<fx>^#/+In der Vorlage^#/- demselben.<fe>
+vor mengklichem<f1>vor mengklichem: vor allen andern.<fe> gönnen und zukhommen lassen; who das nitt (diewil ir<fx>^#/+In der Vorlage^#/- wir.<fe> in itzmall<f1>zu dieser Zeit.<fe> nitt wissen zegebruchen),
+so wöllent uns denselben<fx>^#/+In der Vorlage^#/- demselben.<fe> angends<f1>umgehend.<fe> heimschicken; als dan wöllen wir sunst lugen<f1>schauen.<fe>, who wir in versehen<f1>unterbringen.<fe> möchten.
+Das wir uch also gantz fruntlicher und gutter meynung nitt verhalten wöllen; dan wo wir uch sunst
+dienst, ehren, liebs und guts bewysen können, sindt wir allzyt urputtig<f1>bereit.<fe> und geneigt.
+^$Datum mittwoch nach pfingsten, anno etc. 1545.
+<un>Meyer und rath der
+<un>statt Byell.
+<lz>[Adresse auf der Rückseite:] Den hochberumbten, wolgelerten und ersamen meister Heinrichen Bullinger und andern dienern des wort gottes, auch schulherr und verwalter der schulen zu Zurich, unsern insondern gunstigen, lieben herren und gutten freunden sampt und sonders.
+</content>
+</letter>

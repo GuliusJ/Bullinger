@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2179">
+<nr>2179</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>14. Juni 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 135 (Siegelspur)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 131; erw.: Rittmeyer, Vadian-Bildnisse, 113 ^&x{
+<re>Bullinger dankt für die ihm erwiesenen Wohltaten. Auch [Johannes] Fries hat die großen Gefälligkeiten der [St. Galler] gepriesen. Könnten doch [die Zürcher] den [St. Gallern] eines Tages einen Gegendienst erweisen!
+-^#. [Johannes] Stumpf wird wohl schon bei Vadian gewesen sein.
+-^#. Bullinger hat keine Nachrichten über [Karl V.] außer dem, was ein Vadian bekannter, glaubwürdiger Mann [...] auf dem [beiliegenden] Blatt [nicht erhalten] notierte. Vadian soll dieses zurückschicken.
+-^#. Luther hat ein 26 Bogen umfassendes, heftiges und unvorsichtiges Buch ["Wider das Bapstum zu Rom"]<f1>Martin ^#/+Luther,^#/- Wider das Bapstum zu Rom vom Teuffel gestifft, Wittenberg, Hans Lufft, 1545, 104 Bl., was 26 Bogen entspricht (WA LIV 195-299; Benzing/Claus I 417, Nr. 3497; VD 16 L 7392). Eine lateinische Übersetzung von Justus Jonas erschien Mitte November 1545: "Contra papatum Romanum, a diabolo inventum"; s. WA LIV 202f.<fe> herausgebracht.
+-^#. Die empfohlenen [Hans] Widenhuber und [Melchior] Gügi hat Bullinger bereitwillig bei sich aufgenommen. Sie werden [Neuigkeiten] berichten. [Hans Rudolf] Lavater ist nach Baden gesandt worden. [Johannes] Haab wurde Bürgermeister. [Jakob Röist], Sohn des [verstorbenen Diethelm] Röist, wurde in den [Kleinen] Rat aufgenommen.</re>
+<dra>[Gedruckt: Vadian BW VI 422, Nr. 1400.]</dra>
+^&x<tx>S[alutem] d[ico]. Perpetuas et immortales tibi, vir semper colendissime, gratias ago pro tantis mihi beneficiis exhibitis.
+Amplissima vestra beneficia Frisius<f1>wohl Johannes Fries.<fe> noster praedicavit amplissime.
+Utinam et nobis aliquando respondere liceret!
+^$Stumpffium arbitror iam fuisse tecum.
+^$De caesare nihil habeo, nisi quod schedae illevit vir fide dignus, quem nosti. Tu schedam remittes.
+^$Lutherus mire vehementem librum edidit in pontificios<f1>Luther: Wider das Bapstum zu Rom vom Teuffel gestifft, Wittenberg 1545 (WA LIV 195/206-299).<fe>. Atrociora, libenter dicerem imprudentiora quoque non legi unquam. Folia sunt 26.
+^$Quos mihi commendasti, Widenhuͦberum et Gügium, excepi pro mea tenuitate, sed animo promptissimo. Illi erunt epistola viva.
+Lavaterus Badenam missus est legatus. Successit in consulatud. Habius<f1>Johannes Haab.<fe>; in senatum allectus est Röystii felicis memoriae filius, bonae spei iuvenis.
+^$Vale.
+^$Tiguri, 14. iunii 1545.
+<un>Tuus H. Bullingerus.
+<lz>[Adresse ..................:] Clarissimo virod. d[octori] Ioachimo Vadiano, colendissimo suo domino et patrono.^&x{
+</content>
+</letter>

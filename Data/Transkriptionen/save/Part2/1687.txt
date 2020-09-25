@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1687">
+<nr>1687</nr>
+<correspondents>
+	<originator>Johannes Calvin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>8. November 1542</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Streichung, Unterstreichung und Ergänzung am Rande von unbekannter Hand.^#/-<fe>: Gotha Forschungsbibliothek, Chart. A 404, 14r.-15v. (Siegel)</vo>
+<re>Der Briefüberbringer, dem von seinen in Genf weilenden Landsleuten ein gutes Zeugnis ausgestellt wird, hat um eine
+Empfehlung gebeten; Calvin würde bei dieser Gelegenheit gerne ausführlicher schreiben, nachdem ihn der kirchliche Wiederaufbau
+monatelang daran gehindert hat, doch fehlt ihm die Zeit dafür. Der Tod von Leo [Jud] hat ihn betroffen gemacht; da im
+vergangenen Jahr auch Grynäus, Capito und andere gestorben sind, muss umso dringender der Nachwuchs gefördert werden, wie dies der Zürcher Rat mit Erfolg tut. Da Bernardino [Ochino] von Siena
+und zwei weitere [Italiener] diesen jungen Mann für förderungswürdig halten, in Genf jedoch die Mittel knapp sind, bittet Calvin Bullinger und seine Amtsbrüder, sich beim Rat für ihn zu verwenden.
+</re>
+<tx>[Gedruckt: Karl Gottlieb Bretschneider (Hg.), Joannis Calvini, Theod. Bezae, Henrici IV. regis aliorumque illius aevi hominum literae quaedam nondum editae (...), Leipzig 1835, S. 12-14, Nr. 4; CO XI 463f, Nr. 434; Corr. des réformateurs VIII 186-188, Nr. 1178; englische Übersetzung: Letters
+of Calvin I 338f, Nr. XCVIII.]
+^&xAusg. Philadelphia 1858: S. 362f, Nr. XCVIII. Zit.: Zwa VIII 156^&x{
+^&xQuum hic, qui literas meas tibi reddidit, commendationem
+a me peteret, non dubitabam, quin dignus esset, quando
+habebat testimonium a piis et certae fidei hominibus suae
+gentis, qui hic nobiscum sunt. Sed hoc me male habebat, quod
+inter istas occupationes, quibus nunc constringor, brevius
+tibi scribere cogar post tantum temporis intervallum. Quae
+tamen tua est humanitas, mihi, ut spero, non difficulter
+dabis veniam ac locum huic meae excusationi concedes,
+praesertim quum certo coniicere possis me non inanem
+praetextum quaerere, neque negligentia facere, quod non
+diligentius ac copiosius scribam; satis enim tibi persuasum
+esse puto, quanti te faciam, quantopere te colam, quam
+denique ex animo te amem. Quod autem tam diu tacui, ideo
+factum est, quod, quum huc remigrassem, sic per aliquot
+menses obrutus fui in restituendis rebus penitus dissipatis
+et collapsis, ut alio convertere animum non liceret. Postea,
+quum mihi viderer occasionem praeteriisse, differre malui,
+donec nova alia se offerret. Nunc, dum scribendi causa est,
+cuperem tempus quoque et otium mihi dari; sed alias, spero,
+dabitur, et ego libenter utar.
+^$Mors Leonis nostri ut merito bonis omnibus fuit luctuosa,
+ita me vehementer afflixit; nam et privatim singularem
+amoris affectum mihi semper ostendit, et dum reputo, quantam
+in huius viri morte iacturam fecerit ecclesia, non possum
+non graviter commoveri. Superior annus nobis plus satis fuit
+funestus; nam et Grynaeum et Capitonem et multos alios
+insignes viros una cum Leone nobis abstulit. Quod magis
+danda est nobis opera, ut novum semen excitemus, ne ecclesia
+destituta maneat. Qua in re quum senatus vester egregiam
+operam navare ab initio non destituerit, audio eum novam
+adhuc accessionem nuper fecisse. Hac spe fratrem hunc
+mittendum ad vos censuimus; nam et perquam tenues habemus
+scholas, et facultates aerarii sunt angustae, neque nostros
+hac in parte nimis urgere audeo, quoniam video satis solutum
+animum ipsos habere, sed manus ligatas. Non tamen hunc
+temere vobis commendo; nam Bernardinus Senensis, vir
+praeclarus, et alii duo, qui perspectos habent eius mores,
+mihi serio testati sunt, optimum esse iuvenem, et in quem
+senatus vestri benignitas conferatur. Peto igitur abs te, ut
+eum mea causa suscipias et autoritate tua apud senatum
+iuves, neque te unum duntaxat hac de re oratum velim, sed
+alios quoque fratres meos venerandos, quibus salutem ex me
+dices. Dominus Iesus vos omnes spiritu suo semper regat
+suaque dona in vobis confirmet atque augeat.
+^$Genevae, 6. eidus novembris 1542.
+<un>Ioannes Calvinus tuus.
+<lz>[Adresse .......:] Praeclaro Christi
+ministrod. Henricho Bullingero, Tigurinae ecclesiae pastori
+fidelissimo, fratri mihi observando et amico integerrimo.^&x{
+</content>
+</letter>

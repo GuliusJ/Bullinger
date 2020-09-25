@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="18332">
+<nr>18332</nr>
+<correspondents>
+	<originator>Bartholomew Traheron</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Guildford/[Surrey]</place>
+	<date>13. Juni [1549?]</date>
+	<note>[1548-1549, wohl 1549]</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 369, 19 (Siegel....)</vo>
+<k>Siehe dazu 19342</k>
+</content>
+</letter>

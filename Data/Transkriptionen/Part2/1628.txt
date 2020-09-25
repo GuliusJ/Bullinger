@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1628">
+<nr>1628</nr>
+<correspondents>
+	<originator>Nikolaus Pfister</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Chur</place>
+	<date>April/Mai 1542]</date>
+	<note>Vor dem 24. Mai, als Blasius auf Bullingers Anerbieten, gegen Lemnius zu schreiben, antwortete (vgl. unten Nr. 1633), jedoch nicht vor Bullingers Erkrankung in den ersten Apriltagen (vgl. oben Nr. 1621, 9-12).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 441, 151f (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 108<f1>eingeordnet um 24. Mai 1542; (Vorlage für Gr'Korr.)<fe></vo>
+<re>Ist beunruhigt durch die Nachricht [Kaspar] Meganders von Bullingers schlechtem Gesundheitszustand. Um [Simon] Lemnius' [Epigrammata?] bitten sie nicht deshalb, um sie breit bekanntzumachen, sondern um summarisch den Unflätigkeiten und den Personen, die das Werk loben, entgegentreten zu können;
+sie werden es innerhalb von zwei Wochen zurücksenden. Grüße von [Johannes] Comander und [Johannes] Blasius.
+</re>
+<tx>[Gedruckt:<fx>^#/+Nach der Abschrift Johann Jakob Simlers in Zürich ZB, Ms S 51, 108.^#/-<fe> Graubünden, Korr. I 45, Anhang zu Nr. 33; Lothar ^#/+Mundt,^#/- Von Wittenberg nach Chur. Zu Leben und Werk des Simon Lemnius in den Jahren ab 1539, in: Daphnis 17, 1988, S. 188f, Nr. 3 (mit Übersetzung).]
+^&xNicolaus Balingius Heinrycho Bullingero S. D.
+^$De adversa tua valetudine, vir doctissime, scripsit mihi
+Megander noster; quę mihi crede, me non parum
+perturbavit. Faxit dominus, ut brevi lętiora a vobis
+omnibus audiamus.
+^$Cęterum, Bullingere, Lemnii vesani poetę
+libellum:::2{ non petimus, quo eum divulgemus multum, maxime
+iis, qui harum rerum aut parum aut nihil intellegunt, sed ut
+saltem carp[t]im spurcitiora et putidiora, quibus liber
+scatere fertur, describamus atque iis os obstruamus, qui
+inpudicum hunc poetam nescio quibus laudibus efferunt, bono
+publico ut noceant. Bene me intelligis, ut es sagax. Quare
+te plurimum omnes rogamus, quo per te libello hoc nobis uti
+liceat, saltem ad unam aut alteram hebdomadam; nihil
+dubites, remittemus.
+^$Vale, doctissime Bullingere. Nolui te pluribus obtundere in
+presentiarum. Brevi multa scribam. Comander et Blasius te
+salutant.
+<lz>[Adresse ........:] Heinrycho
+Bullingero, viro gravi et multa eruditione et pietate
+prędito.
++1^$Zur Datierung vgl. Graubünden, Korr. I 45.
++2^$Simon Lemnius, Amorum libri 4, 1542.^&x{
+</content>
+</letter>

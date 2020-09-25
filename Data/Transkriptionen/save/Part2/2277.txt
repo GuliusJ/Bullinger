@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2277">
+<nr>2277</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>2. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 216 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 98 ^&x{
+<re>Gast konnte bisher keine verbürgte Nachricht über [Herzog Heinrich von] Braunschweig schreiben, da die Papisten das Gerücht verbreiteten, [Landgraf Philipp von Hessen] wäre mit seinem gesamten Heer vernichtet worden. Doch Gott lässt die Seinen nicht im Stich: Nun trauern die Papisten über [Heinrichs] Festnahme. Bullinger soll das beigelegte Dokument wieder zurücksenden. Gewiss ist [hinsichtlich der Festnahme Heinrichs] schon an den [Zürcher] Rat geschrieben worden.
+-^#. [Sebastian von Heusenstamm] ist zum Mainzer Bischof gewählt worden. Es heißt, er sei aus Eisenach. Weder stammt er aus einer bedeutenden Familie, noch ist er gut vernetzt. Demzufolge ist nicht viel von ihm zu befürchten.
+-^#. Der Bischof von Trier [Johann IV. Ludwig von Hagen] soll schwerkrank und anderen Gerüchten zufolge bereits gestorben sein.
+-^#. Bullinger hat wohl von den 20'000 zu Kempten beschlagnahmten Hakenbüchsen gehört. Jemand [...] schrieb an Gast, dass für [Landgraf Philipp von] Hessen der Sieg [über Heinrich] leicht war. Es sollen auf beiden Seiten nicht mehr als 400 [Mann] gefallen sein.</re>
+<tx>S. Nihil certi hactenus scribere de Brunsvicensi<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> potui ob incertum rumorem, qui sparsus est a papistis.
+Iactarunt Cattum<f1>Philipp von Hessen.<fe> cum exercitu omnino extinctum; sed longe aliter domino visum est, qui suos nunquam deserit<f1>qui suos nunquam deserit: Siehe ^#/+Wander^#/- II 48, Nr. 1096.<fe>.
+Practicae iam manifestantur, quas a multis annis inchoarunt. Papales tristi vultu incedunt red­emptore suo capto<f1>Anspielung auf die am 21. Oktober 1545 erfolgte Gefangennahme Herzog Heinrichs und seines Sohnes Karl Victor durch die schmalkaldischen Truppen; s. unten Nr. 2281, Anm. 4.<fe>.
+Schedam inclusam<f1>Der Verbleib dieser Beilage ist unbekannt.<fe> lege et remitte. Reor autem summam illius rei<f1>Nämlich die Festnahme Heinrichs und seines Sohnes.<fe> senatui vestro scriptam.<f1>Der Basler Rat hatte tatsächlich am 30. Oktober 1545 den Zürcher Rat über die neuesten Entwicklungen des Braunschweiger Kriegs benachrichtigt. Erhalten ist eine Abschrift dieses Briefes von Bullingers Hand (Zürich, StA, E II 350, 511f). Am gleichen Tag schickte auch der Konstanzer Rat diesbezüglich Nachrichten an den Zürcher Rat; s. unten Nr. 2281, Anm. 4.<fe>
+^$Praeterea te cęlare nolo, quod electus est in episcopum Moguntinum nobilis quidem et doctor<f1>Sebastian von Heusenstamm (1508-1555) wurde am 20. Oktober 1545 Erzbischof und Kurfürst von Mainz.<fe>. De Isenach dicunt illum esse.<f1>Er kam aus Frankfurt am Main.<fe>
+Ist nit eins grossen stammens<f1>nit eins grossen stammens: nicht aus bedeutender Familie.<fe>, namens oder anhangs<f1>Anhängerschaft, Gefolge.<fe>, et sic minus periculi ab eo metuendum.
+^$Constans etiam fama est episcopum Trevirensem<f1>Johann IV. Ludwig von Hagen war von 1540 bis 1547 Erzbischof und Kurfürst von Trier.<fe> periculose laborare morbo;<f1>Seit Mitte 1545 litt der Trierer Erzbischof an einer Krankheit; es war allgemein bekannt, dass er "mehr tot als lebendig" war. Er starb am 23. März 1547; s. Die Bischöfe des Heiligen Römischen Reiches 1448 bis 1648. Ein biographisches Lexikon, hg. v. Erwin Gatz unter Mitwirkung von Clemens Brodkorb, Berlin 1996, S. 254.<fe>
+quidam hunc asserunt mortuum, sed incertę fidei sunt ea.
+^$Von den 20'000 hockenbüchsen<f1>Hakenbüchsen.<fe> zuͦ Caͤmpten<f1>Kempten im Allgäu (Bayern).<fe> nider geworffen<f1>beschlagnahmt. - Zur Sache s. das Schreiben der Geheimen von Ulm an die Dreizehn von Straßburg, 16. Oktober 1545 (PC III 656-658, Nr. 619). Diese Beschlagnahmung war kurz vor dem 15. Oktober erfolgt. Den Kemptenern wurde noch vor dem 27. Oktober glaubhaft gemacht, dass die 130 Truhen mit je 14 bis 16 Hakenbüchsen aus Italien für Heinrich VIII. bestimmt wären; s. ebd. 664f, Nr. 626 und Anm. 4. Dies war aber ein von den Kaiserlichen benutzter Vorwand, die Ware als harmlos geltend zu machen; s. den warnenden Brief des Konstanzer Rats an den Rat von Zürich vom 7. November 1545, Zürich StA, A 205/1, Nr. 205.<fe> nosti.
+Pręterea etiam ad me scripsit quidam<f1>Unbekannt.<fe> hanc victoriam Hesso commodissime obvenisse. Putantur non 400 utrinque
+occubuisse.<f1>Siehe ^#/+Ißleib^#/- 48.<fe>
+^$Vale in domino et salvus.
+2. novembris 1545.
+<un>Tuus Gastius.
+<lz>[Adresse auf der Rückseite:] An den wolgelerten herren, herren Heinrych Bullinger, lüttpriester zuͦ Zürich, mynem lieben, gunstigen herren und frundt.<f1>Dieser Brief wurde zusammen mit Myconius' Brief (Nr. 2278) befördert; s. unten Nr. 2278, Anm. 39.<fe>
+</content>
+</letter>

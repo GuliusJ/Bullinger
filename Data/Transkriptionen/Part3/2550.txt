@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2550">
+<brief>
+<id>16239</id>
+<nr>2550</nr>
+<ae>Leonhard Serin an Bullinger</ae>
+<od>Ulm, 25. August 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 313 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 99; Zit.: Fast, Reublin 421 (A 7)</k></dr>
+<re>Vermutlich hat Bullinger Serins Brief vom 5. August [<qv>nr2527</qv>] erhalten. Seitdem das Schreiben Bullingers [vom 18. Juni; nicht erhalten] durch Wilhelm [Reublin] übermittelt wurde, erhielt Serin kein weiteres. Dies ist bei Bullingers starker Beschäftigung kein Wunder! Der gegenwärtige Reisende [...] bietet Serin die unerwartete Gelegenheit, kurz zu schreiben, und dem Überbringer einen guten Grund, Bullinger antreffen zu können.
+<t/>Was es zurzeit an Meldungen gibt, ist neu und daher nicht verbürgt. Nur selten werden mitteilenswerte, sichere Nachrichten verbreitet, und diese sind dann auch nicht mehr neu. Serin hat lediglich zu melden, dass aus den Niederlanden ein großes Heer gegen die [Schmalkaldener] kommt und angeblich schon über den Rhein gelangt sei; dass ferner Schweizer und andere Soldaten diesem Heer entgegenziehen, und dass zwischen Regensburg und Ingolstadt die [Schmalkaldener] und die Kaiserlichen bald aufeinanderstoßen werden.
+<t/>Serin wundert sich, dass die beiden Zürcher [Meinrat Oggenfuß und Hans Hug] bei ihrer Rückkehr aus Mähren entgegen ihrem Versprechen keine Antwort für ihn mitbrachten. Bullinger soll von ihnen (vor allem von "Meyerath") die Gründe dafür erkunden und ihm diese mitteilen. Vielleicht haben sie doch etwas zu übermitteln. Einer der beiden ist Glasmacher; der andere ein Tagelöhner im Fleischer- und im Böttcherhandwerk. Letzterer nennt sich "Meyerath", ein in [Süddeutschland] nicht üblicher Name, den Serin sich beim Lesen des vom Zürcher Rat erstellten Empfehlungsschreibens an die in Mähren gemerkt hatte.
+<t/>Gruß. Bullinger und seine Kollegen möchten für die [Schmalkaldener] beten. Die Gefahr ist groß und unmittelbar!
+<t/>Der Briefüberbringer [...] sagte, er habe in Zürich Landsleute und einen Freund, der Arzt sei. Diesen wird er also schon empfohlen sein.
+<t/>Bullinger soll mitteilen, ob er das vorliegende Schreiben und dasjenige vom 5. August erhalten hat.
+<t/>Noch Folgendes, das vielleicht nicht allen mitzuteilen ist: Eben kommt die Nachricht, dass Kaiser [Karl V.] von Regensburg gegen die [Schmalkaldener] zieht. Sollten einige in Furcht versetzt werden, wäre es wirklich angebracht, wenn die Helvetier endlich das folgende, gleichsam sibyllinische Orakel erfüllten: "Ein Rind wird auf der Ulmer Donaubrücke brüllen, und es wird sich so anhören, als stünde man mitten in Helvetien." Derzeit spricht sich dies im Volk herum. Durch Gottes Vermittlung erhoffen sich nämlich die [Schmalkaldener] recht viel von der Hilfe der Helvetier.</re>
+<text>
+<p>S. Quinta huius etiam ad te literas
+<fn>Brief <qv>nr2527</qv> vom 5. August.</fn> dedi, vir observandissime, easque iam accepisse te arbitror. <zzl>zl16239-2A</zzl>Ego vero post eas, quas attulit Vilhelmus
+<fa><i>Das erste</i> l <i>über der Zeile nachgetragen.</i></fa>
+<fn>Wilhelm Reublin. Er überbrachte Bullingers Brief vom 18. Juni (nicht erhalten); s. <qv>nr2527</qv>,<qv>zl16217-1</qv>.</fn>, a te nullas accepi<zzl>zl16239-2E</zzl> nec id quidem miror probe sancta tua negotia considerans. Porro, quando fortuito oportunus ille tabellarius
+<fn>Unbekannt. Weiteres über ihn erfährt man unten Z. <qv>zl16239-3</qv>. Aus <qv>nr2565</qv>,<qv>zl16256-2</qv>, geht ferner hervor, dass es sich um einen Engländer handelte: Vielleicht etwa John Caius? Vgl. <qv>nr2512</qv>, <qv>fn16202-3</qv>. In <qv>nr2512</qv>,<qv>zl16202-3</qv>, nämlich wird Gessner und unten Z. <qv>zl16239-4</qv> ein Zürcher Arzt mit dem Reisenden in Verbindung gebracht.<zfn>fn16239-1</zfn></fn> obtigit eidemque gratificarer tibi per illum scribendo, quo adeundi te commodiorem haberet occasionem et tibi aliquanto esset commendatior, non potui omittere, quin hisce te salutarem pro meo in te studio.</p>
+<p>De novis ita se iam habet apud nos, ut, dum nova sunt, plerumque incerta sint. Qui enim rerum scriptu dignarum certi sunt, eas rarissime vulgo communicant. C{e}terum, qu{e} iam certo constant, ea nova esse desierunt. Nihil igitur nunc in mentem venit festinantius scribenti, quod non omittendum ducerem, nisi quod magnus contra nos adventat exercitus ex Germania illa nostra Inferiore, aiuntque eum iam Rhenum etiam traiicisse,
+<fn>Anspielung auf das Heer von Maximilian von Egmont, Graf von Büren; s. zuletzt <qv>nr2548</qv>,<qv>zl16237-5</qv> und <qv>fn16237-3</qv>.</fn> sed Helvetios vestros cum aliis obviaturos illis, <zzl>zl16239-6A</zzl>deinde nostros cum c{e}sareanis hisce diebus in Bavaria inter Ratisponam forte et Ingolstadium conflicturos.<zzl>zl16239-6E</zzl> Dominus confundat hostes ecclesi{e} su{e}. Sed heus, Bullingere, nova sunt h{e}c!</p>
+<p><zzl>zl16239-5A</zzl>Quod illi duo vestri cives
+<fn>Die Zürcher Meinrat Oggenfuß und Hans Hug, die sich via Ulm nach Mähren begeben hatten und bereits via Augsburg nach Zürich zurückgereist waren; s. <qv>nr2527</qv>,<qv>zl16217-2</qv>, und <qv>nr2526</qv>.</fn> ex Moravia redierunt nec quicquam inde mihi responsi retulerunt, non possum satis mirari,
+<fn>Aus vorliegendem Abschnitt geht hervor, dass die beiden Zürcher auf ihrem Heimweg nicht durch Ulm kamen. Wie Serin von deren Rückkehr nach Zürich erfuhr, bleibt offen, zumal er seit Juni keinen Brief von Bullinger erhalten hatte; s. oben Z. <qv>zl16239-2</qv>. Vielleicht wurde er durch Haller davon benachrichtigt; vgl. <qv>nr2527</qv>,<qv>zl16217-6</qv>, und <qv>nr2526</qv>.</fn> nam id se facturos obnixe roganti mihi polliciti sunt. Rogo igitur, ex illis discas, quaenam causa impedierit illos, quominus id officii prestarent, precipue alter ille Meyerath, et deinde vel paucissimis mihi significes. Forte nonnihil adhuc habebunt, quod per te mihi nuncient. Alter hyalurgus
+<fn>Glasmacher; vgl. <a>Kirsch</a> s.v.</fn> est, alter <zzl>zl16239-1A</zzl>mercenarius lanioniam vietoriamque
+<fn>Als Fassbinder (Böttcher) und nicht als Korbflechter zu verstehen; s. <a>Kirsch</a> s.v.</fn> artem<zzl>zl16239-1E</zzl>, etc., exercens, et, ni fallor, nomen habet apud nos ignotum Meyerath; nam tale quoddam in commendatitiis
+<fa><i>In der Vorlage</i> commendatiis.</fa> illis literis ad Moravios, quos a senatu vestro habebat, legisse mihi videor.<zzl>zl16239-5E</zzl></p>
+<p>Vale cum fratribus omnibus, doctissime, humanissime Bullingere, seduloque nos, quibus maxima pericula pr{e} foribus sunt, domino per orationem commenda et fratres etiam ad idem debitum hortare.</p>
+<p>Ulm{e}, <vl>313v.</vl> 25. augusti anno, etc., 46.</p>
+<p><zzl>zl16239-3A</zzl>Dixit tabellarius ille habere se Tiguri conterraneos aliquot et <zzl>zl16239-4A</zzl>amicum doctorem quend[am]
+<fa><i>Hier und unten im engen Einband verdeckt. Fehlstellen ergänzt aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 61, 99).</i></fa>
+<fn>Gemeint ist hier wohl eher der viel gereiste und damals durch die Veröffentlichung seiner "Bibliotheca universalis" (1545) bereits bekannt gewordene Konrad Gessner, als der seit 1531 (s. <a>HBBW</a> III 77, Anm. 6) in Zürich wirkende Stadtarzt Christoph Klauser.</fn>.<zzl>zl16239-4E</zzl> Quod si ita est, illis procul dubio satis erit commendatus.<zzl>zl16239-3E</zzl></p>
+<p>Si rescripturus es, fac sciam, num et has et illas, quas 5. huius dedi, accepe[ris].</p>
+<p><fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>H{e}c forte non omnibus erunt communicanda.<fa1e von="1"/> <zzl>zl16239-7A</zzl>Hac hora venerunt, qui nunciant c{e}sarem
+<fn>Karl V.</fn> deserta Ratispona cum e[xer]citu suo versus nos ascendere.<zzl>zl16239-7E</zzl> Et si quos timor invadit, Helveticos fieri consultissimum fore putant, ut tandem Sibyllicum quodd[am] oraculum impleatur: bovem in ponte Danubiano Ulm{e} boaturum, u[t] media audiatur Helvetia. Sed h{e}c ego a vulgo tantum audio. M[ag]num certe auxilium ab Helvetiis mediante domine Zebaoth
+<fn>Siehe dazu <qv>nr2505</qv>, <qv>fn16195-12</qv>.</fn> sperant n[ostri] magnamque in illis ut domini instrumentis fiduciam reponun[t].
+<fn>Vgl. z.B. <qv>nr2467</qv>,<qv>zl16157-10</qv>; <qv>nr2492</qv>,<qv>zl16182-3</qv>; <qv>nr2508</qv>,<qv>zl16198-7</qv>; <qv>nr2529</qv>,<qv>zl16220-2</qv>.</fn></p>
+<p>Iterum vale.</p>
+<un>Tuus</un>
+<un>Leonhartus Soe[rinus].</un>
+<lz/>
+<p>[Adresse darunter:] Heinrycho Bullingero, ecclesi{e} Tigurin{e} episcopo dignissimo eidemque fratri in domino dilectissimo. Zürch.</p>
+</text>
+</brief>

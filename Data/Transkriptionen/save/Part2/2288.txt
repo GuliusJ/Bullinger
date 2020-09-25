@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2288">
+<nr>2288</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>19. November [1545]</date>
+	<note>Das Jahr ergibt sich aus den Nachrichten über die Gesandtschaft nach Mailand und die Unruhen im Wallis; s. unten Anm. 4. 12.</note>
+</space_time>
+<vo>Autograph: Wrocław, Biblioteka Uniwersytecka, Ms R 243, ^$^$^$^$Nr. 161 (bzw. 44) (Siegel)</vo>
+<dr>Ungedruckt</dr>
+^&x(Nicht in Vadian BW). Xk da (Breslau, Rehdinger-Sammlung). Derselbe Brief auch am Ende dieser Datei (Nr. 99002, vergleichen!!).^&x{
+<re>Am 14. November kam jemand aus Mailand und teilte mit, dass [der Statthalter Alfonso d'Avalos] die eidgenössische Gesandtschaft anständig behandelt hätte. Sie wurde sogar von ihm in das [Mailänder] Schloss geladen. Einige Boten aber waren nicht dazu gewillt, was klug war, da man sie angesichts der angespannten Lage später des Spionierens hätte bezichtigen können. Was der [Marchese] antwortete, weiß [zurzeit] niemand.
+-^#. Die Nachricht von Unruhen im Wallis ist nach [St. Germain] gelangt. Sollte Bullinger Sicheres wissen, möge er es mitteilen. Es gibt Leute, die es den [katholischen] Orten hoch anrechnen, dass diese ihre Religion behaupten und die [der Evangelischen] von dort vertrieben haben. Andere loben die [Evangelischen] für ihre Standhaftigkeit gegenüber fremder Tücke. Und gewiss ist die [evangelische Religion] der Anstrengung wert!</re>
+<tx>Wir habend alhie zuͦ S. Gallen kondschafft von ainem<f1>Unbekannt.<fe>
+(ist auß Mayland uff 14. novembris khommen)<fx>^#/+Klammern ergänzt.^#/-<fe>, das der marchiß de la Quasta<f1>Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter zu Mailand.<fe>,
+der Eydtgnossen potschafft<f1>Am 23. Oktober 1545 hatte eine Botschaft von Zürich, Luzern, Uri und Schwyz im Namen der Zwölf Orte in Mailand mit Avalos über die von ihm gegen die Eidgenossen verhängte Getreidesperre verhandelt; s. oben Nr. 2260, 12-16; 2271, 26-29; 2272, 26-29; 2284, 17f; Bullingers Brief an Blarer vom 1. Januar 1546 (Blarer BW II 405f Reg.); Vadian BW VI 477f, Nr. 1434; EA IV/1d 557-561. 604.<fe> gar eerlich tractiert und gehaben<f1>untergebracht.<fe> habe,
+und derselbigen ouch in daß schloss begert. Sygend ettlich potten nit willig gweßen.
+Ist meins erachtenß weyßlich ghandlet; dann waß sich nachwertz<f1>später.<fe> in so gfarlichen leuffen<f1>Entwicklungen; Lage.<fe> zuͦtragen haben solte,
+hett man gedenkhen mögen, eß were ettwas von inen abgsechen<f1>inspiziert.<fe> oder gespecht<f1>erforscht; ausspioniert.<fe> worden.
+Was aber sin<f1>Des Statthalters von Mailand.<fe> antwort sey, mag niemand wüssen, etc.
+^$Valesiorum<f1>Walliser.<fe> trepidatio tumultuatioque<f1>Zu den im Herbst 1545 ausgebrochenen Glaubensunruhen im Wallis, welche Anlass zur Besorgnis der Sieben Orte und zum Eingreifen des Bischofs boten, s. Mario ^#/+Possa,^#/- Die Reformation im Wallis bis zum Tode Bischof Johann Jordans 1565, Diss. Freiburg i. Üe. 1938 (auch in: Blätter aus der Walliser-Geschichte 9, 1940), S. 55-59. 122; Die Walliser Landrats-Abschiede seit dem Jahre 1500, Bd. 3, bearb. v. Bernhard Truffer, Sitten/Brig 1973, S. 323f. 328f; EA IV/1d 536d. 538 o. 570. 583.<fe> huc nescio quorum sermone allata est.
+Si quid habes certi, fac, oro, sciam. Sunt enim, qui<fx>qui ^#/+fehlt in der Vorlage.^#/-<fe> Pagis<f1>Gemeint sind die katholischen Orte.<fe> multum
+tribuunt, quod asserta religione sua<f1>D.h. den Katholizismus.<fe> nostram<f1>nostram religionem.<fe> illic pepulerint. Alii nostros constantię gratia laudant,
+quod nec cesserint, nec alienis artibus prebuerint aures.
+Ea caussa est, ut<fx>ut ^#/+fehlt in der Vorlage.^#/-<fe> certe fatigemus.
+^$Vale. S. Galli, 19. novembris anno nostrae salutis.<fx>^#/+Die Jahreszahl wurde vergessen.^#/-<fe>
+<un>I. Vadianus.
+<lz>[Adresse auf der Rückseite:] Domino Henrycho Bullingero suo. [Züri]ch<fx>^#/+Textverlust durch Öffnung des Siegels.^#/-<fe>.
+</content>
+</letter>

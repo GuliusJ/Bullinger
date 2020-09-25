@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2122">
+<nr>2122</nr>
+<correspondents>
+	<originator>Albert Hardenberg</originator>
+	<addressee fn=1>die Pfarrer von Zürich</addressee>
+	<note fn=1>Dieser Brief ersetzt oben Brief Nr. 2120; s. oben Nr. 2119, 3-5.</note>
+</correspondents>
+<space_time>
+	<place>Bonn</place>
+	<date>25. März 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Sehr flüchtig geschrieben.^#/-<fe>: Zürich StA, E II 338, 1427 (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+^&xKopien 18., 19. und 20. Jh.: Zürich ZB, Ms S 57, 26; Straßburg BNU, Ms 675 (Thes. Baum. 16), 36 (nach Johann Jakob Simler); Emden BGK, Hs fol. 37, Nr. 64; Lit.: Janse, Hardenberg 379, 507 (Brief 38).^&x{
+<re>Hardenberg kann nicht jedem Einzelnen (Propst [Felix Frey], Theodor [Bibliander], [Kaspar] Megander, [Johannes] Fries und [Konrad] Gessner) schreiben, erinnert sich aber stets an ihre Wohltaten. Die Liste mit den Namen [der Zürcher Pfarrer] ließ er in Straßburg und kann daher nicht alle namentlich nennen. Er verehrt sie aber alle.
+-^#. Sie sollen ihm schreiben, denn er bedarf ihrer Ermahnung und Unterweisung. Oh, wenn sie sich einmal wiedersehen könnten! Wenn nicht, sehen sie sich im Reiche Gottes, und hoffentlich bald!
+-^#. Hardenbergs [ehemaliger] Gastgeber Bullinger wird ihnen Grüße übermitteln.</re>
+<tx>Non mihi vacat, ut ad vos scribam, clarissimi viri, domine preposite,<f1>Der Propst Felix Frey.<fe> domine Theodore<f1>Theodor Bibliander.<fe>, domine Megander<fx>^#/+In der Vorlage^#/- Megande.<fe><f1>Kaspar Megander.<fe>, Frisi, Kesnere<f1>Konrad Gessner.<fe> vosque alii, charissimi fratres,
+tamen semper memor sum maximorum vestrorum beneficiorum.
+Non habeo nunc catalogum nominum vestrorum, qui est Argentinae, itaque non possum
+omnes nunc nominare; tamen omnes amo, colo, veneror tacito cogitationis affectu.
+^$Oro vos, exhilarate<fx>^#/+In der Vorlage^#/- exhilarat.<fe> semel animum meum vestris scriptis, nam et monitionibus et instructionibus vestris semper egeo.
+Utinam liceat adhuc semel in hac vita videre illa sacratissima pectora! O si, o si!
+Si autem hoc non liceat, videbimus tamen nos in illo die in regno patris nostri; quod utinam
+quam primum adveniat, ne non fiat salva omnis caro!<f1>Anspielung auf Mt 24, 22 par.<fe> Nam magna est miseria istis regionibus. Sed de his alias.
+^$Meus hospes meritissimus, m. Bullingerus,<f1>Hardenberg bezieht sich auf seinen Besuch vom 25. bis 29. September 1544 in Zürich; s. HBBW XIV, Nr. 1972, Anm. 1.<fe> spero, salutabit vos meis verbis.<f1>Siehe oben Nr. 2119, 41-44.<fe> Valete in domino.
+^$1545, 25. martii, Bonnae.
+<un>Albertus
+<un>Hardenbergus Frisius.
+<lz>[Adresse auf der Rückseite:] Clarissimis viris patribus et fratribus meis, ministris ecclesiae Tygurinae seorsum singulis.
+^&x----- Verweis: Melanchthon an Bullinger, 25. März "1545", "Inspexi pleraque quae adidisti ac degustavi, sed enarrationem Ioannis..."(1543, HBBibl I 153); erhalten sind Kopien mit der Jahresangabe 1545 (Bern BB, cod. A 46, p. 2-4, Nr. 3; Paris BSG, ms. 1456 = Ep. Haeret. III, 2r.-3v.), in CR V 342f, Nr. 2893, wohl zurecht 1544 eingeordnet. Siehe 25. März [1544]. -----^&x{
+</content>
+</letter>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1775">
+<nr>1775</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>24./[2]6. August 1543</date>
+	<note>Das Tagesdatum des Nachtrags (unten Z. 49) muss verschrieben sein.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 167 (ohne Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 79<f1>(1543 eingeordnet, hält 1544 für besser!)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Hat die Bücher [Vesalius' "Fabrica" und "Epitome"] mit dem von Bullinger übersandten Geld bezahlt und dankt ihm dafür,
+dass er ihm den für die Bibel geschuldeten Gulden schenkt, möchte sich aber dafür erkenntlich zeigen. Bittet um Rücksendung der Nachrichten, die Bullinger auch
+seinen Amtsbrüdern und Vadian mitteilen kann. Bericht aus Mainz über den Aufmarsch der kaiserlichen Truppen gegen Jülich; die
+protestantischen Gesandten folgen dem Kaiser, der sie nicht empfangen wollte und der wegen der Sperrung des Rheins durch Herzog [Wilhelm] von Jülich nicht direkt nach Brabant ziehen kann; Breda, das Graf [Renatus] von Nassau gehört, wurde [von den Gegnern des Kaisers] eingenommen; die
+protestantischen Fürsten, darunter Landgraf [Philipp], rüsten zum Krieg. Gast will die Illustrationen [zu Vesalius' "Epitome"]
+für Bullinger ordnen. Cellarius [Martin Borrhaus], der eine theologische Professur anstrebt, hat Thesen vorgelegt;
+Bullinger soll sie sich von Myconius zur Beurteilung schicken lassen; vor allem [Wolfgang Wissenburg] ist unzufrieden.
+Bullinger war wohl zu beschäftigt, um zum Problem der bettelnden Schüler Stellung zu nehmen. [Nachtrag:] Zwei Franzosen [Jacques Reynaud und Philibert ...], die um des
+Evangeliums willen hierher kamen, sind den Kaiserlichen in die Hände gefallen und werden in Breisach festgehalten; Straßburg und Basel bemühen sich um ihre Freilassung.
+</re>
+<tx>S. in domino, doctissime et humanissime Bullingere.
+^$Pecuniam, quam misisti, accepi solvique libros, quos emeramus tibi.<f1>Die Rede ist von Vesalius' "Fabrica" und "Epitome";
+vgl. zuletzt oben Nr. 1767, 1-8. 17f.<fe> Quod autem non vis, ut aureum, quem tibi debeo pro biblico opere,<f1>D. h. für die "Biblia sacrosancta" (BZD C 319f); vgl. ebd., Z. 6.<fe>
+dem bibliopolis, gratias tibi ago, sed ea conditione, ut postmodum oblata occasione rependere liceat; nam nolo tibi hac in re molestus esse et te plus aequo gravare.
+^$Nova illa, quę mitto,<f1>Die von Gast zurückgeforderte Briefbeilage ist nicht mehr vorhanden.<fe> si iam<fx>^#/+Kann auch als^#/- non ^#/+gelesen werden, was jedoch keinen Sinn ergibt.^#/-<fe>legisti et<fx>^#/+Vor^#/- et ^#/+ein gestrichenes Wort.^#/-<fe> communicasti reliquis fratribus, remitte<fx>^#/+Vor^#/- remitte ^#/+ein gestrichener Wortanfang.^#/-<fe>; poteris etiamd. Vadiano communicare.
+^$Scripsit etiam quidam<f1>Unbekannt (zu denken ist eventuell an Mathias Limberger aus Frankfurt, der mit Gast in brieflicher Verbindung stand).<fe> e Moguntia ad me hiis verbis de
+caesaris<f1>Karl V.<fe> copiis: "Dem keyser sindt zwo groß buchsen<f1>Geschütze.<fe> zersprungen, die er hat lassen
+abschiessen. Ist mit vil schiffen uff dem Rhin fur Menzs gefaren,<f1>In Mainz hielt sich der Kaiser vom 7.-12. August
+auf; s. ^#/+Stälin^#/- 577.<fe> mit korn, mell, ochsen, buckel<f1>Pickel, Spitzhacken.<fe>, schantz
+körben<f1>Geflechte zur Befestigung von Schanzwerken.<fe> fur gefaren, ja mit aller kriegs rüstung zuͦ belegeren und
+zsturmen, nit anders im gmeit ghan<f1>im Sinne gehabt.<fe> dann die Julcher ußzumachen<f1>die Jülicher zu vernichten.<fe>.
+Hat der protestierenden legaten<f1>Zur Gesandtschaft des schmalkaldischen Bundes an den Kaiser s. oben Nr. 1773,
+20f.<fe> zuͦ Mentzs im schlos nit wellen hören, ist hinweg gefaren; sy ziehen im aber noch<f1>nach.<fe>. Er hat
+wellen den Rhin hinab mit seim zeug und schiffen. Was ist beschehen? Der von Jülch<f1>Herzog Wilhelm von Jülich.<fe> hat
+den Rhin ingeschlossen under Bonn, der bischofflichen stat, do er dann schlösser hat in eim closter im Rhin ligende<f1>Gedacht
+ist vielleicht an die Klosterinsel Rolandswerth (heute Nonnenwerth), die allerdings oberhalb von Bonn liegt und nicht in der beschriebenen Weise befestigt war (für freundliche Hinweise danken wir Frau Dr. Heike Preuß, Hauptstaatsarchiv Düsseldorf).<fe> mit drey blockheuseren<f1>Bollwerken.<fe> vornen, da der Rhin her
+louft, hynden mit zweyen; hat also uff denn keyser gewartet. Dann der keyser meynt, er wolte glat den Rhin ab ins
+Probant<f1>Brabant.<fe>; das hat im gefelet<f1>ist ihm nicht gelungen.<fe>. Zucht widerumb heruff die Mosel ins
+Lutzelburgisch landt; dan der hertzog hat ouch den Westerwald verhuͦwen<f1>durch einen Verhau gesperrt.<fe>, das hindurch
+nit kan kommen; muͦß wit umb ziehen ins Probant <vl>167v.</vl> mit gro­ssen kosten, alle sine munition zuͦ roß
+und wagen hinweg furen. Breda die statt und schloß ist gewonnen,<f1>Zu diesem Gerücht vgl. oben Nr. 1772, 11-13.<fe> welches des graven
+von Nassaw<f1>Renatus von Nassau (René de Chalon), geb. 1519 als Sohn von Graf Heinrich III. von Nassau und von Claude de
+Chalon, war seit 1530 erster nassauischer Fürst (Prinz) von Oranien. 1538 erbte er die niederländischen Besitzungen seines
+Vaters, darunter auch Breda, und wurde 1540 Statthalter von Holland, Friesland, Seeland und Utrecht. Im geldrischen
+Erbfolgekrieg befehligte er niederländische Truppen und erhielt nach dem Sieg des Kaisers auch die Statthalterschaft über Geldern. Er fiel 1544 bei der Belagerung von Saint-Dizier. -
+Lit.: Ulrich ^#/+Schuppener,^#/- René (Renatus) von Chalon, Graf von Nassau, Prinz von Oranien, und die Belagerung von Monschau 1543, in: Nassauische Annalen 110, 1999, S. 9-42; Abraham Jacob
+van der ^#/+Aa,^#/- Biographisch wo­­or­denboek der Nederlanden [...], Bd. 3, Haarlem 1858, S. 309-311; Friedrich ^#/+Otto,^#/- in: NDB XXVIII 202f.<fe> ist, der das Utrich bistumb hat wellen
+bschirmen und das sin verlieren.<f1>Wohl im Sinne von: dabei riskierend, das Seine zu verlieren.<fe> Nit witer ist mir zu wissen dann allein, es rusten sich alle fursten der
+protestierenden. Landtgraff<f1>Philipp von Hessen.<fe> hat sin volck<f1>seine Truppen.<fe> uffgemanet; weist niemants, was er im sin hatt. Gott gebe unß friden."
+^$Duas<fx>^#/+Über dem Beginn des Absatzes verschriebenes, gestrichenes^#/- Duas.<fe> has figuras ego tibi proximo
+tabellione mittam ordinatas et compactas; nam nemo facile eas corpori humano adiunget, nisi prius viderit formam
+illarum.<f1>Gast bezieht sich zweifellos auf jene Illustrationen zur "Epitome" von Vesalius, die ausgeschnitten
+und auf eine männliche und eine weibliche Figur aufgeklebt werden konnten; vgl. J. B. deC. M. ^#/+Saunders^#/- und Charles D.
+^#/+O'Malley,^#/- The Illustrations from the Works of Andreas Vesalius of Brussels, Cleveland/New York 1950, S. 220-227.<fe>
+^$Cellarius<f1>Martin Borrhaus; vgl. oben Nr. 1759, 26-34.<fe> articulos<f1>Nicht erhalten.<fe> quosdam
+nostris proposuit excutiendos; nam venatur lectionem theologicam. Scribe Myconio<fx>Myconio ^#/+über gestrichenem^#/- illi.<fe>, ut eas ad vos mittat et vestrum
+iudicium exploret. Nostri odio habent hominem, praecipue Lupus<f1>Wolfgang Wissenburg.<fe>; doctor timet, ne doctor ille
+praeficiatur et omnia praecipitanter nostri<fx>nostri ^#/+über der Zeile nachgetragen.^#/-<fe> agant. Est profecto doctus et pius homo.<f1>Ob von Borrhaus oder von Wissenburg die
+Rede ist, wird nicht ganz klar; Gast stand beiden kritisch gegenüber (vgl. Gast, Tagebuch 63 bzw. 64f), weshalb die Aussage ironisch gemeint sein könnte.<fe>
+^$De mendicantibus scholasticis<f1>Vgl. oben Nr. 1767, 11-15.<fe> mirum, quod nihil rescripseris; sed negotiis tuis id tribuo.
+^$Die Bartholomei 1543.
+<un>Tuus Gastius ex
+<un>animo.
+<lz>Duo Galli<f1>Bei den am 11. August überfallenen und später in Breisach inhaftierten Franzosen, von denen nachfolgend die
+Rede ist, handelte es sich um Jacques Reynaud (Reg­­nauld, Reginaldus Alenius), Herr von Alleins (bei Arles), der über
+Genf, Bern und Basel nach Straßburg gereist war, um Calvin und Farel zu treffen, sowie um einen jungen Gelehrten namens
+Philibert (s. Corr. des réformateurs IX 108. 115). Ihr Schicksal teilten zwei Begleiter, darunter der Genfer Jean
+Ballon, gen. Hugonier (s. Corr. des réformateurs IX 150, Anm. 1f). Reynaud selbst war 1540 als Sympathisant und Beschützer
+der Waldenser in Mérindol hervorgetreten. Zu den Einzelheiten des von Gast mitgeteilten Vorfalls s. Corr. des réformateurs
+IX, Nr. 1272-1274. 1277 (S. 21f). 1284 und Reg.; PC III, Nr. 403; Amerbach, Korr. V, Nr. 2582; vgl. auch unten Nr. 1785,
+66-70.<fe>, doctissimi viri, a caesareanis capti sunt, a nobili quodam,<f1>Beim Entführer, der sich zusammen mit seinen
+Gesellen als Begleiter der Franzosen angeboten und Reynaud nach dem Überfall eine größere Geldsumme abgenommen hatte, handelte
+es sich um Konrad Köth. Der Name findet sich in einem ausführlichen Bericht des Vermittlers Peter Scher von Anfang
+Januar 1544 (Basel UB, Ms. C VI^#'a 3, 233r.-227v.[!]) sowie teilweise auch in den Schreiben, die Basel in dieser Sache an
+Bern, Breisach, Ensisheim, Straßburg, den französischen Gesandten Morelet und Peter Scher richtete (Basel StA, Missiven
+A 31, 354-358. 387. 393f; B 4 93f. 99f. 101. 106-108).<fe> qui ab Argentina illos secutus est, ductique sunt Brisacum illicque
+in vinculis detinentur. Quid cum illis acturi, dominus novit. Ob evangelii veritatem ad nos e Gallia venerunt et iam ob
+evangelium capti sunt. Mirabilis dominus in operibus suis. Argentinensium senatus et noster laborant sedulo, ut
+dimittantur, adiectis minis.<f1>Die vereinten Bemühungen von Straßburg und Basel um die Freilassung der Gefangenen führten im Lauf des Herbstes zum Erfolg; vgl. Corr. des réformateurs IX 38, Anm. 6, und unten Nr. 1785, Anm. 34.<fe>
+^$16.<fx>^#/+Offenbar verschrieben für^#/- 26.<fe> augusti.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

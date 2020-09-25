@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2697">
+<brief>
+<id>16384</id>
+<nr>2697</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Zürich"/> <date when="1546-11-30"/>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 30. November 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 210 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 537f, Nr. 1375<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 126v.; Ms S 62, 102; Erw.: W. Meyer, Werner Steiner, in: Geschichtsfreund 65, 192; Backus, Thamer (Bibl. dissid. III) 80 </k></dr>
+<re><t>Damit Blarer keinen Zweifel über den Boten [...] hegt, dessen Dienste er benutzt hat, teilt ihm Bullinger mit, dass er die von ihm auf [Schloss] Griesenberg verfassten Briefe [<qv>nr2655</qv>, <qv>nr2676</qv> und <qv>nr2679</qv>] gut erhalten hat. Bullinger weiß hingegen nicht, ob seine Briefe angekommen sind. Seinen letzten Brief [nicht erhalten] hatte er dem durch Konstanz reisenden Diener [...] von Hans Wyss mitgegeben und Blarer darin gebeten, diesem den sichersten Weg nach Augsburg zu weisen. Doch befand sich Blarer damals [noch] in Griesenberg.</t>
+<t>[Johannes] von Ulm und dessen Studiengefährte [Augustin ...] erweisen sich als fleißig. Ihnen werden von [Johannes] Fries Bücher zum Ankauf angeboten. Es sind im Ganzen 56 Bände (26 Foliobände ganz in Leder gebunden, 7 Quart- und 23 Oktavbände), die zusammen 23 Florin kosten. Für die Foliobände werden je 10 Batzen verlangt; für die Quartbände je 4 oder 5, und für die Oktavbände je 3.</t>
+<t>Darunter befinden sich: [Konrad] Pellikans Veröffentlichungen über die Bibel; Zwinglis Schriften zum Neuen Testament und zu den Propheten sowie noch weitere Abhandlungen desselben; die Werke von Hieronymus, Ambrosius, Cyprian und Basilius [dem Großen]; die Erstausgaben der Werke von Cyrill und Chrysostomus; die "Annotationes" zum Neuen Testament des Erasmus sowie einige von dessen "Paraphrasen"; die Werke des Bernhard [von Clairvaux]; [das Wörterbuch] "Cornucopiae" und der "Calepinus"; einige Luther- und Melanchthonschriften; mehrere Veröffentlichungen aus Bullingers Feder, und noch manches, das hier nicht aufgezählt werden kann. Bullinger hat die jungen Leute überzeugt, diese Werke zu kaufen.</t>
+<t>Er will aber zuvor Blarers Bewilligung dazu einholen. Dieser soll sich beeilen, denn Fries braucht Geld. Sollten die Bücher in die Hände eines Buchhändlers gelangen, würden sie ganz bestimmt mehr als 60 Florin kosten. Blarer soll die Sendung des Geldes veranlassen. Von Ulm sollte die Sammlung erwerben und sie seinem Gefährten zur Verfügung stellen, zumal beide zusammenwohnen. Die Bücher waren früher Eigentum des verstorbenen Werner Steiner.</t>
+<t>Beiliegend die von Francisco de Enzinas für Blarer bestimmte ["Historia vera de morte Diazii"]. Bullinger legt seiner Sendung eine Abschrift des an ihn gerichteten Briefes [<qv>nr2647</qv>] von [Theobald] Thamer bei sowie die [Abschrift] seiner Antwort darauf [<qv>nr2675</qv>] und bittet um Rücksendung der Dokumente. Thamer ist Feldprediger Landgraf [Philipps von Hessen].</t>
+<t>Was geschieht denn im [schmalkaldischen] Lager? Wo befinden sich Kaiser [Karl V.] und [Kurfürst Johann Friedrich] von Sachsen? Was stellt [Herzog] Moritz in Sachsen an? Was tut man in Augsburg? Sind König [Christian III.] von Dänemark und [Kurfürst Friedrich II.] von der Pfalz noch am Leben? Blarer soll diese Fragen beantworten, um sein langes und beschwerliches Schweigen wieder gutzumachen!</t>
+<t>Grüße.</t>
+<t>Umso besser, dass Gott Blarers Schwager [Heinrich von Ulm] (gewiss
+der einzige aufrichtige Adlige im Thurgau) aus dieser bösen Welt entrissen hat, damit dieser nicht sehen muss, was Bullinger und Blarer befürchten!</t></re>
+<text>
+<div>
+<p>Gratiam et pacem. <zzl>zl16384-5A</zzl>Literas tuas, frater in domine colendissime, Griessenbergi datas accepi,
+<fn>Blarer hielt sich auf Schloss Griesenberg (Amlikon, Kt. Thurgau) während der ersten Hälfte Novembers auf und stand während dieser Zeit seinem im Sterben liegenden Schwager Heinrich von Ulm und nach dessen Tod am 14. November seiner verwitweten Schwester Barbara bei. Aus dieser Zeit sind drei Briefe Blarers bekannt: <qv>nr2655</qv> vom 3.; <qv>nr2676</qv> vom 14.; und <qv>nr2679</qv> vom 16. November.<zfn>fn16384-1</zfn></fn> id quod moneo, ne de fide tabellionis
+<fn>Unbekannt.</fn> dubites quicquam.<zzl>zl16384-5E</zzl> Ego, an meas omnes acceperis, miror. <zzl>zl16384-6A</zzl>Ultimas
+<fn>Nicht erhalten.</fn> scripsi per servulum
+<fn>Unbekannt. - Um den 4. Dezember verließ dieser wieder Augsburg mit Georg Frölichs und Johannes Hallers Briefen <qv>nr2700</qv> und <qv>nr2701</qv>; s. <qv>nr2706</qv>,<qv>zl16394-1</qv>.<zfn>fn16384-6</zfn></fn> Ioannis Albini
+<fn>Wohl der Zürcher Kannengießer Hans Wyss (gest. 19. Mai 1564), der seit Januar 1544 wie Bullinger zünftig zur Meisen war. Er hatte am 30. Juli 1539 Barbara Zoller, die Schwester des damals im Dienste von Sebastian Schertlin stehenden Hans Wilpert Zoller d.J., geheiratet; s. Carl <i>Keller-Escher,</i> Promptuarium genealogicum, Bd. 7 (Zürich ZB, Ms Z II 6a), S. 408; Zürich StA, VIII.C. 1., EDB 880; [Emil <i>Usteri],</i> Die Zunft zur Meisen, Zürich 1946 (Neuaufl. 1989), S. 38. - Als der Knecht von Zollers Schwager Zürich verließ, wusste man noch nicht, dass die Schmalkaldener ihr Lager am 22. November auflösen würden.<zfn>fn16384-2</zfn></fn>, qui per Constantiam proficiscebatur Augustam, nec aliud erat in iis, quam ut consuleres, qua via tutissime proficisceretur
+<fa><i>In der Vorlage</i> proficisceetur.</fa>. Sed eras tu tum quoque Griessenbergi, etc.<zzl>zl16384-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16384-7A</zzl>Adulescentes vestri,
+<fn>Johannes von Ulm, der Neffe des damals gerade verstorbenen Heinrich von Ulm, sowie dessen Studiengefährte Augustin [...]; s. <qv>nr2644</qv>,<qv>zl16334-3</qv>.</fn> duo certe optimi iuvenes, pro suo offitio diligentes sunt. <zzl>zl16384-1A</zzl>Offeruntur eis a Frisio
+<fn>In Anbetracht der Bemerkung unten in Z. <qv>zl16384-3</qv> wird hier von Johannes Fries und nicht vom Buchdrucker bzw. -händler Augustin Fries (alias Mellis) die Rede sein. </fn> libri emendi
+<fn>Aus unten Z. <qv>zl16384-4</qv> geht hervor, dass diese Bücher aus der Bibliothek (die umfangreicher als die hier aufgezählten Bände war; s. unten <qv>fn16384-4</qv>) des am 6. Oktober 1542 an der Pest im Gefängnis verstorbenen und mit Bullinger befreundeten Werner Steiner stammten. Der Lebensabend des seit 1529 in Zürich wohnenden Zuger Reformators Steiner wurde durch die von einem Erpresser gemachten Enthüllungen zu Steiners homosexuellem Verhalten während dessen Jugendzeit stark getrübt; s. <a>HBBW</a> IV 33, Anm. 2; Diethelm <i>Fretz,</i> Steineri Fata, in: <a>Zwa</a> IV/12, 1926, 377-384. - Da Steiner zahlreiche Kinder hatte (s. <a>HBBW</a> I 45, Anm. 1; <i>Fretz,</i> aaO, 383), die die Bücher hätten erben können, ist zu vermuten, dass Fries die hier aufgelisteten Bände nach dem Ableben von Steiner von dessen Familie käuflich erworben hatte. Dass Fries und Steiner sich näher kannten, geht aus der auf den 1. Februar 1541 datierten Widmung an Steiner hervor, die Fries und Peter Kolin gemeinsam ihrem "Dictionarium latinogermanicum" (<a>VD16</a> C2283; <a>BZD</a> C295) voranschickten, sowie aus unten <qv>fn16384-4</qv>.<zfn>fn16384-3</zfn></fn> pro florinis nostratibus 23. Suadeo modis omnibus, ut eos emant: quodsi alteri
+<fn>Gemeint ist Augustin [...].</fn> facultates desunt, emat alter, ab Ulmis; ac pro ista pecunia vix ita colligati
+<fn>Subjekt sind die zum Kauf angebotenen Bände.</fn> sint
+<fa><i>Über der Zeile nachgetragen.</i></fa>. Maiores, in folio, pulchre colligati in asseres
+<fn>Hier sind die Holzdeckel der Einbände gemeint.</fn> et toti corio obvoluti, sunt 26; medii
+<fn>Die Bücher im Quartformat.</fn> sunt 7; et in parva forma, hoc est 8 folia de folio integro
+<fn>Unter "folium integrum" ist das jeweils auf die Druckform gelegte Blatt (auch Druckbogen genannt) zu verstehen.</fn>, 23. <fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>Sunt ergo in universum codices 56.<fa1e von="1"/> Maiores dabit pro 10 batzonibus
+<fn>Batzen, ein Zwölftel eines Pfunds.</fn> singulos; minores pro 3; medios pro 5 vel 4. In summa omnes conficiunt florinos 23.
+<fn>Die hier gemachten Angaben erlauben auszurechnen, dass damals in Zürich ein Florin (oder Gulden) einen Wert hatte, der zwischen 15,60 und 15,74 Batzen, also zwischen 1,3 und 1,31 Pfund lag (1 Pfund = 12 Batzen).<zfn>fn16384-8</zfn></fn></p>
+</div>
+<div>
+<p><zzl>zl16384-8A</zzl>Sunt autem praecipue: Opera Pellicani in Biblia;
+<fn>Die lateinischen Zürcher Drucke <a>BZD</a> C217 (von 1534/35); C266f (1537); C282 (1539).</fn> opera Zvinglii in Novum testamentum et prophetas et alia eius;
+<fn>Wohl ein Teil oder alle der folgenden lateinischen Zürcher Drucke: <a>BZD</a> C131 (1527); C134 (1527); C151 (1528); C165 (1529); C201 (1531); C203 (1531); C223 (1533); C286 (1539).</fn> opera Hieronymi;
+<fn>Diese vage Angabe erlaubt es nicht, die Ausgabe näher zu bestimmen. - Gleiches gilt auch für die folgenden ohne Anmerkung versehenen Buchtitel.</fn> opera Ambrosii; opera Cypriani; opera Basilii; [C]yrilli
+<fa><i>Textverlust durch Papierbeschädigung.</i></fa> prima editio;
+<fn>Vielleicht die 1524 in Basel erschienene einbändige Cyrill-Ausgabe in lateinischer Übersetzung (<a>VD16</a> C6579) oder die 1528 ebenda erschienene dreibändige Ausgabe, ebenfalls in lateinischer Übersetzung (<a>VD16</a> C6566f).</fn> opera Chrysostomi prima aeditio;
+<fn>Vielleicht die 1504 in Basel erschienene zweibändige Chrysostomus-Ausgabe in lateinischer Übersetzung (<a>VD16</a> J395) oder die 1517 ebenda erschienene sechsbändige Ausgabe, ebenfalls in lateinischer Übersetzung (<a>VD16</a> J396).</fn> Annotationes Erasmi in Novum testamentum;
+<fn>Die seit 1516 immer wieder neugedruckten "Annotationes in Novum Testamentum" (<a>Vanautgaerden</a> 505).</fn> Paraphrases eiusdem aliquot;
+<fn>Die zwischen November 1517 und Februar 1524 in mehreren Lieferungen erschienenen "Paraphrases" zu den Büchern des NT; s. <a>Vanautgaerden</a> 506 (1517 - eine Lieferung); 508f (1519 - vier Lieferungen); 510f (1520 - drei Lieferungen); 511 (1521 - zwei Lieferungen); 512 (1522 - eine Lieferung); 513 (1523 - drei Lieferungen); 514 (1524 - eine Lieferung).<zfn>fn16384-7</zfn></fn> opera Bernhardi;
+<fn>Die Werke des hl. Bernhard von Clairvaux - vielleicht die 1520 in Lyon (<a>USTC</a> 145287) oder 1527 in Paris (<a>USTC</a> 181059) erschienenen "Opera omnia".</fn> Cornucopiae;
+<fn>Eine der zahlreichen Ausgaben dieses anfangs von Niccolò Perotti (ca. 1430-1480) angelegten und danach stets vermehrten lateinischen Wörterbuchs.</fn> Calepinus;
+<fn>Ambrogio Calepino oder Calepio (ca. 1435-1511), ebenfalls Verfasser eines weitverbreiteten, häufig nachgedruckten und allmählich vermehrten lateinischen Wörterbuches.</fn> Lutheri et Melanchtonis quaedam; Bullingeri pleraque; et multa alia, quae hic commemorare longum esset.<zzl>zl16384-8E</zzl> Suasi ego, ut emerent.
+<fn>Vermutlich kam es zu diesem Kauf, zumal die hier angeführten Bücher nicht Teil der "um 1548" der Zürcher Stiftsbibliothek einverleibten Bücher aus Steiners Bibliothek sind, die in Martin <i>Germann,</i> Die reformierte Stiftsbibliothek am Großmünster Zürich im 16. Jahrhundert, Wiesbaden 1994, S. 302-305, aufgelistet und beschrieben werden. Dank des vorliegenden Briefes und angesichts der Tatsache, dass die bei Germann aufgeführten Bücher fast alle ebenfalls den Besitzernamen oder die Handschrift Fries' aufweisen, wird es sich bei diesem Bestand (im Gegensatz zu der in <i>Germann,</i> aaO, S. 357, gemachten Aussage) nicht um ein von Fries um 1548 an die Stiftsbibliothek ausgerichtetes Legat, sondern wohl um Bücher handeln, die Fries mit den im vorliegenden Brief angeführten Werken erworben hatte und vielleicht schon 1546/47 (s. nämlich unten <qv>fn16384-5</qv>) der Stiftsbibliothek abtrat oder (noch wahrscheinlicher) verkaufte. - Im Laufe der Zeit kam die ZB Zürich durch Erwerbungen oder Gaben von Steiners Nachkommen zu weiteren Schriften aus Steiners Bibliothek. Sie sind heute mit folgenden Signaturen versehen: Zwingli M. v. K. A 71 [<a>BZD</a> D9] und 80 [<a>BZD</a> C67]; II DD 381/2 [<a>BZD</a> C41]; 381/3 [<a>VD16</a> E2921]; 381/32 [<a>BZD</a> C37]; 381/35 [<a>VD16</a> R1868]; MFT 16: 29 [<a>BZD</a> C23]; und Res 969 [<a>BZD</a> C23]. - Wir danken Christian Scheidegger (Zürich ZB), der uns auf diese Bestände aufmerksam gemacht hat.<zfn>fn16384-4</zfn></fn><zzl>zl16384-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16384-2A</zzl>Nolui tamen, quicquam te inconsulto agerent. Frisius sane opus habet pecunia.
+<fn>Wahrscheinlich in Hinblick auf Fries' bevorstehenden Umzug. Der bis dahin an der Fraumünsterschule wirkende Schulmeister wurde gerade um diese Zeit zum Lehrer an der Großmünsterschule (dem Carolinum) ernannt; ein Posten, den er 1546 (nicht erst 1547) antreten sollte. Seine ihm daher neu zugewiesene Wohnstätte, der Chorherrenhof "Zum Loch" an der Römergasse, sollte durch einen Anbau erweitert werden, "dass er dester kummlicher tischgänger, ehrlicher leute kinder gehaben [= unterbringen] und lehren, auch ziehen [= erziehen] könnte"; s. Peter <i>Bührer,</i> Johannes Fries (1505-1565), Pädagoge, Philologe, Musiker. Leben und Werk, in: <a>ZTB</a> CXXII, 2001, 174f; Zürich StA, G I 179, 14r. 15v.<zfn>fn16384-5</zfn></fn><zzl>zl16384-2E</zzl> Quod si consulis, fac sciam, ne alii illis hunc thesaurum librorum praeripiant. <zzl>zl16384-3A</zzl>Posthac a bibliopolis illos libros non minoris quam 60 florinis ement et pluris,<zzl>zl16384-3E</zzl> sat scio. Dorumb, m{oe}chtend ir inen g{ae}llt uffbringen, were g{uo}t. Ich kouffte sy dem von Ulm. M{oe}cht
+<fn>Subjekt ist Johannes von Ulm.</fn> sy dem andren lihen
+<fn>leihen.</fn>, diewyl sy by einandern. <zzl>zl16384-4A</zzl>Libri fuerunt d. Wernheri Steinerii beat{e} memoriae, etc.
+<fn>Blarer hatte Steiner im Oktober 1533 persönlich kennengelernt; s. die Verweise in <a>HBBW</a> IV 33, Anm. 1; und ferner XII 215, 18f.</fn><zzl>zl16384-4E</zzl><zzl>zl16384-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16384-9A</zzl>Quae ad te scripsit et dedit d. Franciscus <vl>210v.</vl> Dryander
+<fn>Francisco de Enzinas, der offensichtlich auch Blarer ein Exemplar seiner "Historia vera de morte Diazii" geschenkt hatte; vgl. <qv>nr2694</qv>.</fn> Hispanus, habes hic.<zzl>zl16384-9E</zzl> <zzl>zl16384-10A</zzl>Adieci exemplum literarum Tameri,
+<fn>Theobald Thamers Brief an Bullinger (<qv>nr2647</qv>) vom 28. Oktober.</fn> concionatoris lantgravii Hassiae
+<fn>Philipp von Hessen.</fn>, in castris
+<fn>Im Feldlager bei Giengen an der Brenz.</fn> ad me datarum descriptum, tum et meam responsionem
+<fn>Gemeint ist höchstwahrscheinlich die in Zürich StA, E II 345, 351r.-353r., von Bullinger selbst abgefertigte Abschrift seines Briefes an Thamer vom 14. November (<qv>nr2675</qv>).</fn>. Ea ubi legeris, oro, remittas.<zzl>zl16384-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16384-11A</zzl>Quid vero nunc fit in castris? Ubi agit caesar
+<fn>Karl V.</fn>, ubi Saxo
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn>, ubi Hessus? Quid fit in Saxonia a Mauritio
+<fn>Herzog Moritz von Sachsen.</fn>? Quid fit Augustae? Excessitne e vivis Danorum rex
+<fn>Christian III., König von Dänemark und Norwegen (1503, 1534-1559).</fn> et elector Palatinus
+<fn>Kurfürst Friedrich II. von der Pfalz (1482, 1544-1556). - Der Pfalzgraf war damals schwer erkrankt, es kursierten sogar Gerüchte über seinen Tod; s. <a>Hasenclever, Kurpfalz</a> 123f mit Anm. 305.</fn>? Offero tibi materiam scribendi, ut sarcias tuum illud molestissimum mihi silentium!
+<fn>Bullinger hatte damals offensichtlich noch nicht Blarers Briefe <qv>nr2690</qv> und <qv>nr2696</qv> erhalten.</fn><zzl>zl16384-11E</zzl></p>
+</div>
+<div>
+<p>Vale una cum tuis omnibus. Tiguri, ipsa die Andreae anno 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+</div>
+<div>
+<p>Gaudeo ex animo sororium
+<fn>Heinrich von Ulm; s. oben <qv>fn16384-1</qv>.</fn> illum, tum inter nobiles solum (meo quidem iudicio)
+<fa><i>Klammern ergänzt.</i></fa> in Durgavia syncerum, concessisse fatis. Eripuit illum dominus ex infandis malis, ne oculi eius videant, quod metuo nos visuros. Dominus sit nobis propitius!</p>
+<lz/>
+<p>[Adresse darunter:] D. Ambrosio Blaurero, Constantiensis ecclesiae ministro fidelissimo, domino et fratri suo semper colendo. Constantz.
+<fa><i>Darunter Blarers Empfangsvermerk:</i> 3. decembris 1546. <i>- Von einer zeitgenössischen späteren Hand:</i> Non perlectae, sed iuxta seriem annorum dispositae <i>(eine Notiz, die offensichtlich für ein ganzes Bündel von Briefen bestimmt war).</i></fa></p>
+</div>
+</text>
+</brief>

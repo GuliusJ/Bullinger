@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1922">
+<nr>1922</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>5. und 8. Juni 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 252 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 47; Zit.: ^#/+Gast,^#/- Tagebuch 70, Anm. 202^&x{
+<dr>Ungedruckt</dr>
+<re>Übersendet ein gestern eingetroffenes [Schreiben] und teilt Gerüchte mit: Wilhelm von Fürstenberg soll vor acht Tagen Luxemburg erobert haben, wobei die Besatzungstruppen geschont worden seien; die Einwohner seien nach dem mehrfachen Herrschaftswechsel verängstigt, die Umgebung verwüstet. Der türkische [Sultan Suleiman^#. I.] soll Blindenburg [Visegrád] eingenommen und etwa 24'000 Personen weggeführt oder getötet haben; so straft uns Gott für das Zerwürfnis [der christlichen Fürsten]. [Nachschrift:] In Piemont sollen kaiserliche Truppen erneut eine Niederlage erlitten haben. Karlstadts Manen bedrängen Gast und [Johannes] Oporin.
+</re>
+<tx>S. Hęc<f1>Über die Briefbeilage ist nichts Näheres bekannt.<fe> heri ad me venerunt. Quod fama apud nos habet, dicam:
+^$Lutzenburgum abhinc octo dies a duce Gulielmo a Furstenberg
+esse captum,<f1>Luxemburg ergab sich am 29. Mai dem Belagerungsheer Fürstenbergs; s. Du Bellay, Mémoires IV 239; ^#/+Paillard^#/- 29-43.^&xHenne???^&x{<fe> milites in subsidio oppidi collocatos vita et transitu donatos relictis post se armis instrumentisque
+bellicis omnibus; destituti enim comeatu a Gallo<f1>König Franz^#. I.<fe> non
+potuisse obsidionis vim diutius perferre. Cives loci, qui in
+oppido manserunt, sunt fere omnes suspensi<f1>Dies ist wohl kaum im wörtlichen Sinn zu verstehen ("sind gehängt worden"); passender scheint hier die übertragene Bedeutung ("sind in in der Schwebe, in ängstlicher Erwartung").<fe>, ut qui hosti
+cuivis victori omnia secreta victi aperuerint; intra annos
+enim paucos quater nunc Gallo, nunc [ca]esari<fx-t>^#/+Text beim Öffnen des Siegels beschnitten.^#/-<fe><f1>Karl^#. V.<fe> sese
+dediderunt. Ager eorum aliquot miliaribus circumquaque est
+[de]vastatissimus<fx-x>^#/+Text beim Öffnen des Siegels beschnitten.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> et in solitudinem quasi reductus.
+^$Turca<f1>Sultan Suleiman^#. I.<fe> Blindeburgum, arcem munitissimam, et alia occupavit
+abductis et interfectis circiter viginti quatuor milibus<fx>^#/+In der Vorlage^#/- milia.<fe>
+hominum.<f1>Zur Einnahme von Blindenburg (Plintenburg, Visegrád, Ungarn) s. oben Nr. 1906, Anm. 16.<fe> Sic deus nostros punit, ut in se mutuo ruant.
+^$5. die iunii.
+^$Audio insuper in Pedemontana regione iam alterum conflictum fuisse; caesareani iterum succubuerunt.<f1>"alterum" und "iterum" mit Anspielung auf die Niederlage der Kaiserlichen in Ceresole am 14. April 1544; s. oben Nr. 1904, Anm. 15. Am 4. Juni hatten französische Truppen unter Piero Strozzi bei Serravalle Scrivia (Prov. Alessandria) eine Niederlage gegen die Kaiserlichen erlitten. Doch zuvor hatten die Franzosen eine kaiserliche Infanterietruppe in die Flucht geschlagen; s. Du Bellay, Mémoires IV 233-235; Giuseppe ^#/+de Leva,^#/- Storia documentata di Carlo V in correlazione all'Italia, Bd. III, Venedig 1867, S. 506.<fe> Fortassis ea tu melius nosti quam ego.
+^$Vale. Manes Carolstadii mihi et Oporino negotium facessunt.<f1>Gast bezieht sich auf nicht näher fassbare Anfeindungen, die auf die Gegnerschaft der beiden zu Karlstadt (gest. 1541) zurückgingen (s. ^#/+Gast,^#/- Tagebuch 70; ^#/+Pollet,^#/- Bucer II 319, Anm. 3), wobei er durch die Wortwahl auch auf die Spukgeschichten um Karlstadts Tod anspielt (s. HBBW XII 27f, 1-21 mit Anm. 3).<fe>
+^$8. iunii 1544.
+<un>Tuus Gastius.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho Bullingero, theologo summo. Zurich.
+</content>
+</letter>

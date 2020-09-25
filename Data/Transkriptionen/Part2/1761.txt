@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1761">
+<nr>1761</nr>
+<correspondents>
+	<originator fn=1>Francis Warner</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Über den Engländer Francis Warner, von dem nur dieser eine Brief vorliegt, ist einzig bekannt, dass er sich 1543 in Straßburg aufhielt (vgl. die folgende Anm.).</note>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>8. Juli [1543]</date>
+	<note>Warners Brief zeigt, dass er sich zu diesem Zeitpunkt im Haus von Richard Hilles aufhielt. Dies wird bestätigt im Brief Richard Hilles' an Bullinger vom 15. November (unten Nr. 1815), in dem Hilles den in seinem Haus wohnenden Warner erwähnt. Auch die Tatsache, dass der Brief von Anna Hilles an Bullinger vom 9. Mai (oben Nr. 1744) von der Hand Warners ist, den sie als Diener bezeichnet, weist auf 1543 als Abfassungsjahr des vorliegenden Briefes hin.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 369, 204 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 40</vo>
+<re>Da sich Bullinger laut Richard Hilles für Nachrichten aus allen Ländern, besonders England, interessiert, drängte ihn dieser trotz seines Zögerns und seiner Scheu, Bullinger die schändlichen Vorgänge in seiner Heimat mitzuteilen; wenn man die Feinde des Evangeliums und deren Taktiken kennt, kann man sie besser bekämpfen; möge Christus die Kirche von diesen Übeln befreien! Übersendet ein Edikt ["Act for the Advancement of True Religion"], das die Bibellektüre nur der Oberschicht erlaubt; hat den ersten Teil ins Lateinische übersetzt, konnte aber aus Zeitgründen den zweiten Teil nur paraphrasieren - der Druck ist erst am [5. Juli] eingetroffen -; entschuldigt sich für etwaige Sprachfehler. Grüße von Hilles und dessen Frau [Anna], die durch Heinrich Falkner ein Paar Messer für Bullingers Frau [Anna, geb. Adlischwyler] sendet.</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 235f, Nr. 175, bzw. Original Letters I 355-357, Nr. 175; Regest: LP XVIII/1 475, Nr. 846.]
+</content>
+</letter>

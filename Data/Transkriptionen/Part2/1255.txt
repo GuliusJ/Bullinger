@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1255">
+<nr>1255</nr>
+<correspondents>
+	<originator>Matthias Erb</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Reichenweier</place>
+	<date>17. April [1539]</date>
+	<note>Der Brief, noch zu Lebzeiten Leo Juds (vgl. Z. 24),d. h. vor dem 19. Juni 1542, geschrieben, fällt in die Frühzeit des Aufenthaltes von Beat Gering in Gengenbach von Herbst 1538 bis 1541 (vgl. zu dessen Berufung unten Z. 20-23). Er enthält auch offensichtlich
+die Antwort (vgl. Anm. 2f) auf die Ermahnungen Bullingers vom 14. März 1539 (oben Nr. 1244).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 3012 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für sein tröstliches Schreiben und stimmt seiner Mahnung zu; möge Gott die kleine Kirche [von Horburg und Reichenweier] durch den Einsatz ihrer Pfarrer stärken und sie gegen die von verschiedener Seite drohenden Gefahren beschützen.
+Hedio hofft, daß die [an der Frankfurter Tagung verhandelte] Sache aufs nächste Jahr verschoben wird; inzwischen wird man über ein Nationalkonzil beraten. Markus [...] ist zurückgekehrt. Beat [Gering], einst Schwager von Johannes [Buchser] in Suhr, soll von Graf Wilhelm von Fürstenberg ins
+evangelische Gengenbach berufen werden. Grüße.
+</re>
+<tx>Gratia domini tecum.
+^$Quid a te mihi iucundius offerri potuisset quam illa tua
+consolatrix epistola? Nam eius adhortatione<f1>Vgl. oben Nr. 1244, 10-18.<fe> (vera dico,
+optime Bullingere) non modo prudentior, sed et vigilantior
+redditus tollero levius tum satanę tum impiorum
+calumnias. Scio enim, quam multi simus episcopi, at pauci
+oculati. Hinc verissimum est, quod scribis<f1>Vgl. ebd. 19-30.<fe> nostra
+negligentia aut, si mavis, oscitantia plures posse perire,
+diligentia vero non paucos servari etc. Tu roga dominum pro
+me, ut ecclesiolam huius agri<f1>Die Kirche bestand aus den Gemeinden der Herrschaften Horburg und Reichenweier, denen Erb als Superintendent vorstand; vgl. Johann ^#/+Adam,^#/- Evangelische Kirchengeschichte der elsässischen Territorien bis zur französischen Revolution, Straßburg 1928, S. 297.<fe>
+variis quassatam procellis per
+ministros suos (qui fere duodecim sumus) solidam ac
+constantem effitiat perque spiritum suum roborans ad portum
+fatiat enatare quietum, siquidem satan furit adhuc in
+papistis. Falsi fratres nobis imponunt, magistratus querit
+sua, anabaptistę ecclesię corpus diffindentes in
+diversum rapiunt, [p]hilautia etiam sanctis imponunt<fx>[p]hilautia etiam sanctis imponunt ^#/+am Rande nachgetragen; Wortanfang im engen Einband nur teilweise lesbar.^#/-<fe>. Et
+quid plura? Tenuis certe in nobis spes ac fere deplorata
+esset, nisi contra spem in spe<f1>Röm 4, 18.<fe>
+<gr>ueòw ăpò mhxanh̃w</gr><f1>Adagia, 1, 1, 68 (LB II 52f).<fe> nobis affulgeret.
+^$Novarum nil, nisi quod Hedio meus scribit<f1>Der entsprechende Brief Hedios ist nicht erhalten.<fe> protestantes
+adhuc expectare caesaris veredarium<f1>Gemeint ist der Orator Kaiser Karls V., Johann von Weeze; zum Stand der Verhandlungen in Frankfurt vgl. oben Nr. 1250, 52-63.<fe> speratque litem ad annum
+protelandam; interim tamen consultabitur de concilio
+nationali etc.
+^$Marcus<f1>Der bereits oben Nr. 1244, 7-9 erwähnte Markus ist nicht weiter bekannt.<fe> rediit alacer et ludicer etc.
+^$Beatus<f1>Beat Gering.<fe> ille, sororius olim<fx>^#/+vor^#/- olim ^#/+gestrichenes^#/- ille.<fe> Ioannis Surani<f1>Johannes Buchser, Pfarrer in Suhr (Kt. Aargau). - Gering war 1538 vom Zürcher Ehegericht von dessen Schwester Sabinella geschieden worden (vgl. Zürich StA, YY 1. 5, S. 1026f, und Zürich
+ZB, Ms F 154, Nr. 5).<fe>, annuente comite
+Wilhelmo a Furstenberg ad Gengenbachum vocabitur. Certe
+oppidulum est elegans ac vulgus verbo dei instructum, ilhic et annona copiose provenit. Est autem sub ditione imperii et comiti obpignoratum<f1>Wilhelm von Fürstenberg verwaltete Gengenbach als Pfandherr; vgl. Johannes Volker ^#/+Wagner,^#/- Graf Wilhelm von Fürstenberg, 1491-1549, und die
+politisch-geistigen Mächte seiner Zeit, Stuttgart 1966. - Pariser Historische Studien, 4, S. 185f.<fe>. Hinc tantum agit patronum.
+^$Bene vale et Leonem<f1>Leo Jud.<fe> cum Megandro meo terque quaterque
+salutabis. Boni consule meam balbutiem.
+^$Ex Richenvilla, 17. die aprilis.
+<un>Tuissimus ex animo Matthias
+<un>Erbius.
+<lz>[Adresse auf der Rückseite:] Viro in primis et pio et
+doctod. Henricho Bullingero, celebratissimae civitatis
+Tigurinę a contionibus, fratri charissimo.
+</content>
+</letter>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1608">
+<nr>1608</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>28. Februar 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 26 (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 46<f1>Zit.: de Porta I 255; JSG 27, 1902, 74; Dalbert 24<fe></vo>
+<re>Hat in seinem letzten Brief [Nr. 1605] die Verhältnisse [in Graubünden] mehr angetönt als beschrieben und weiß auch jetzt nicht, wo er anfangen soll; man hat begonnen, die Pensionenempfänger zurechtzuweisen, aber das Übel wurzelt so tief, dass es schwierig zu beseitigen ist; die feinen Herren
+geben die Schuld dafür den Pfarrern, die sich schon seit 18 Jahren mit Gottes Wort dem [Bezug von Pensionen] entgegenstellen; jeder darf frei Lügen über die Pfarrer verbreiten und gegen sie schwatzen, was ihm gerade in den Sinn kommt. Ein Augustinerbruder [Agostino Mainardi], ein vortrefflicher
+Magister der Theologie, der [zum reformierten Glauben] übergetreten ist und sich in Chiavenna niedergelassen hat, hat von Comander Bullingers Kommentare zu den paulinischen und [katholischen] Briefen [HBBibl I 84f bzw. 91] erhalten; Bitte um ein gebundenes Exemplar mit Preisangabe sowie um
+Nachrichten über Kaiser [Karl V.] und das Reich. Gruß, auch an Bullingers Kollegen.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 40f, Nr. 31.]
+^&xGratiam et vitae innocentiam a domino.
+^$Literas ad te ante paucos dies dedi, colende Bullingere,
+quibus tumultuarie tibi rerum nostrarum turbulentum statum
+indicavi potius quam descripsi, nec nunc describere possum;
+nam, ubi incipiam, ignoro. Coeptum est a plebeiis corrigere
+pensionarios. Sed corrigi non potest malum hoc; radices tam
+altum immisit infixitque, ut evelli non facile possint.
+Interim omnem culpam in nos, scilicet verbi ministros,
+reiiciunt belli homines plagiarii illi, qui nihil fecimus,
+nisi quod verbo dei semper huic sceleri reclamavimus iam ab
+annis decem et octo. Sed liberum est cuilibet in nos loqui,
+mentiri et effutire, quicquid in buccam venerit. Nos domino
+derelicti et precibus fratrum adiuvari plurimum rogamus, ut
+ex his erumnis quandoque eruamur.
+^$Quidam frater Augustinianus, sacrae theologiae magister
+eximius et probatae vitae vir, ad nostras partes concessit,
+ad Clavennam scilicet. Huic coactus sum dare, quicquid habui
+Bullingeri in epistolas Pauli et reliquas canonicas
+epistolas. Praecor igitur, ut non moleste feras, si te in
+hoc negotio ministro uti velim, ut scilicet Bullingeri opus
+in omnes Pauli epistolas et in omnes reliquas canonicas
+epistolas maioris formae et illigatum inveniam post octo
+dies. Et pretium simul mittam; sed prius rescire peto,
+quantum esse oporteat, ut praecise mittam, quantum sufficit.
+^$De caesare et rebus imperii si quid habes, paucas scribere
+digneris.
+^$Vale, vir charissime.
+^$Ex Rhetiae Curia, ultima februarii 1542.
+^$Salutem plurimam dicito fratribus nomine meo.
+<un> Tibi deditissmus Ioannes Comander.
+<lz>[Adresse .....:] Doctissimo viro Magistro
+Heinricho Bullingero, Tigurinae ecclesiae antistiti, domino
+ac fratri suo primario.^&x{
+</content>
+</letter>

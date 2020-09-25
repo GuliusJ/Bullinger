@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2655">
+<brief>
+<id>16344</id>
+<nr>2655</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Griesenberg"/> <date when="1546-11-03"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Griesenberg
+<fn>Schloss Griesenberg (Amlikon, Kt. Thurgau), s. unten Z. <qv>zl16344-1</qv>. - Es war Wohnsitz von Blarers Schwager Heinrich von Ulm.</fn>, 3. November 1546
+<fn>Das Datum geht hervor aus: den unten in Z. <qv>zl16344-2</qv> geschilderten Ereignissen, der Anspielung auf den Brief Konstanz' vom 3. November in Z. <qv>zl16344-3</qv> (s. dazu unten <qv>fn16344-1</qv>), und der Tatsache, dass Blarer in Z. <qv>zl16344-4</qv> vom Freitag 5. November nicht als von dem morgigen Tag spricht.</fn>]</od>
+<vo>Autograph: Zürich StA, E II 357a, 714 (Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 530, Nr. 1367<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 45</k></dr>
+<re><t>Hier sind nun wieder die vor kurzem [mit Brief <qv>nr2644</qv>] empfohlenen, vielversprechenden Jünglinge [Johannes von Ulm und Augustin ...]. Bullingers liebenswerter Brief [nicht erhalten] macht eine erneute Empfehlung durch Blarer, seinen Bruder [Thomas] und den Cousin [Konrad Zwick] völlig überflüssig! Blarer schreibt aus Griesenberg, das er heute spätnachts erreicht hat. Die Jungen wollen schon am frühen Morgen nach Zürich aufbrechen. Bullingers Studien- und Vorlesungsplan, den er seinem letzten Brief beigelegt hat, gefällt allen, weil dadurch die Jungen weder über- noch unterfordert werden. Bullinger, der Kostgeber [...] oder wer auch immer möchte bei Bedarf den Jungen Geld vorstrecken. Alle Ausgaben werden gewissenhaft zurückerstattet.</t>
+<t>Bei Blarers Abreise aus Konstanz gab es nichts Neues außer dem Scharmützel vom Samstag oder Sonntag [30./31. Oktober], bei dem [die Schmalkaldener] trotz zunächst geringerer Anzahl die Oberhand behielten und viele Feinde töteten. Unter den Opfern befanden sich auch drei vornehm gekleidete Männer.</t>
+<t>Es wird berichtet, dass Kaiser [Karl V.] im Nebel [das Lager] abgebrochen habe. Sein genaues Ziel kennt man noch nicht. Er scheint nach Regensburg zu ziehen. Er hat etliches Geschütz [auf Schiffen] donauabwärts führen lassen. Bullinger wird darüber wohl schon durch den Brief des Konstanzer Rats [vom 3. November] und anderswie informiert worden sein. Auch die fremden Truppen bei Bregenz ziehen ab. Ach, wäre man bald diesen Feind los! Wo wird er denn wieder auftauchen?</t>
+<t>Am 5. November kehrt Blarer nach Konstanz zurück.</t>
+<t>Blarers Schwager [Heinrich von Ulm] und dessen Frau [Barbara, geb. Blarer] lassen grüßen.</t> </re>
+<text>
+<div>
+<p><zzl>zl16344-7A</zzl>En tibi, mi venerande et charissime Bullingere, adulescentes istos
+<fn>Johannes von Ulm und Augustin [...], die Blarer am 26. Oktober mit <qv>nr2644</qv> an Bullinger empfohlen hatte.</fn> magn{e} omnium iudicio expectationis, quos nuper a nobis commendatos rursus commendarem, <zzl>zl16344-5A</zzl>nisi tu iam tuis amantissimis literis
+<fn>Nicht erhalten. - Bullinger wird diesen Brief Johannes von Ulm mitgegeben haben, zumal Letzterer auch Blarers Empfehlungsschreiben <qv>nr2644</qv> an Bullinger überbracht hatte; s. <qv>nr2645</qv>,<qv>zl16335-1</qv>.</fn> istud
+<fa><i>In der Vorlage</i> istuc.</fa> mihi adeoque fratri meo
+<fn>Thomas Blarer.</fn> et consobrino
+<fn>Konrad Zwick.</fn> prorsum praeclusisses,<zzl>zl16344-5E</zzl> ut iam non porro commendare, sed (quod superiorem nostram commendationem tanti feceris tamque efficacem esse volueris)
+<fa><i>Klammern ergänzt.</i></fa> maximas tibi gratias agere merito debeamus; id quod alias diligenter fecerimus. <zzl>zl16344-1A</zzl>Nam Griessenbergi, quo hodie veni ad multam noctem, ista scribo plane dormituriens,<zzl>zl16344-1E</zzl> et boni adulescentes summo diluculo se abituros affirmant.<zzl>zl16344-7E</zzl> In summa: Non dubitamus illos tibi filiorum loco futuros. <zzl>zl16344-8A</zzl>Placet autem studiorum et lectionum istic ratio, de qua proximis literis ad me scripsisti,<zzl>zl16344-8E</zzl>
+<fn>Im oben in Z. <qv>zl16344-5</qv> erwähnten Brief.</fn> nec dubito pro vestro in hac re iudicio ita vos omnia moderaturos, ut nec lectionum multitudine adobruantur nec paucitate sterilescant tam egregia ingenia, que mirifice rara qu{e}dam pietas ornat. <zzl>zl16344-9A</zzl>Hoc quoque valde oratum te velim, ut vel tu vel bonus ille vir, qui victum suppeditabit,
+<fn>Unbekannt.</fn> vel alius aliquis ipsorum nomine numeret, si qua re opus illis erit, ut certe erit pluribus. Neque enim visum est illos pecunia instructos abmandare multas ob caussas. Reddentur vobis bona fide omnia, ubi primum vel uni mihi, quid ipsorum caussa impensum sit, significaveris.<zzl>zl16344-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16344-2A</zzl><zzl>zl16344-10A</zzl>Es ist gar nichts news, wie ich hutt von Costentz abgeschiden, dann das diß tag uff sampstag nechst
+<fn>uff sampstag nechst: am letzten Samstag.</fn> oder suntag
+<fn>Also am 30. oder 31. Oktober. - Richtig ist Samstag. Zum Scharmützel s. den Bericht von Heinrich Thomann an Zürich vom 31. Oktober (Zürich StA, A 177, Nr. 118). Ein weiterer Bericht vom 31. Oktober aus der landgräflichen Kanzlei zu diesem Gefecht (aaO, Nr. 119) wurde von Konstanz mit einem Brief vom 3. November an Zürich versandt (aaO, Nr. 122).<zfn>fn16344-1</zfn></fn> aber
+<fn>abermals.</fn> ain scharmützel gewesen, darinn sich die unsern treffelich wol sollend gehalten haben, ob ir wol erstlich
+<fn>ob ir wol erstlich: obwohl ihrer (von ihnen) zu Beginn.</fn> vyl weniger dann der find gewesen. Sy habend vyl find erlegt. Und hat man drey f{ue}rnem und kostlich klaidt
+<fn>kostlich klaidt: kostbar Gekleidete. - Thomann erwähnt in seinem in oben <qv>fn16344-1</qv> erwähnten Brief die Gefangennahme (nicht den Tod, wie Blarer dies hier behauptet) von drei gut gekleideten Kaiserlichen, was auch in dem in der gleichen Anm. angeführten Bericht der landgräflichen Kanzlei an Konstanz bestätigt wird.<zfn>fn16344-4</zfn></fn> gefunden under den erstochnen finden. Etlich habend sy hinweg bracht.<zzl>zl16344-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16344-11A</zzl>Item, so ist post kommen, das sich der kaiser
+<fn>Karl V.</fn> in aim nebel erhebt habe und uffbrochen seye.
+<fn>Nämlich am Vormittag des Sonntags, 31. Oktober. Dies erfuhren die Konstanzer in einem Brief aus Ulm vom 1. November, von dem sie eine Kopie für Zürich anfertigten (Zürich StA, A 177, Nr. 120), die sie dem oben in <qv>fn16344-1</qv> erwähnten Schreiben vom 3. November an Zürich beilegten. Zum verlassenen Lager des Kaisers gibt es einen von Landgraf Philipp von Hessen in Anlehnung an 2Kön 7, 5-7. 15, und Jes 37, 36, verfassten düsteren Bericht vom 2. November (aaO, Nr. 121), den der Konstanzer Rat den Zürchern mit seinem Brief vom 4. November (aaO, Nr. 124) weiterleitete (Kopie davon unter Bullingers Aufsicht in Zürich ZB, Ms A 43, 497-500). Siehe ferner <a>Viglius van Zwichem</a> 139.<zfn>fn16344-2</zfn></fn><zzl>zl16344-11E</zzl> <zzl>zl16344-12A</zzl>Man waist aber noch nitt aigentlich
+<fn>genau.</fn>, was er im sinn hat, dann das es sich ansechen lasse, er züch uff Regenspurg
+<fn>Man vermutete, dass der Kaiser in Regensburg, Passau oder Ingolstadt überwintern würde; s. Zürich StA, A 177, Nr. 112. 120.</fn>.<zzl>zl16344-12E</zzl> <zzl>zl16344-13A</zzl>Hat ettlich geschutz uff der Thonauw hinab f{ue}ren lassen,
+<fn>Schon am 25. und 29. Oktober (Zürich StA, A 177, Nr. 106. 110) hatte Thomann berichtet, dass der Kaiser zur Beförderung seiner Geschütze Schiffe nach Marxheim beordert habe. Der Transport von Geschützen auf der Donau ist in zwei (für Zürich abgeschriebenen) Briefen an Konstanz vom 1. (aaO, Nr. 120 - vom Konstanzer Gesandten in Ulm) und 3. November (aaO, Nr. 123 - von einem unbekannten Absender) erwähnt.<zfn>fn16344-3</zfn></fn><zzl>zl16344-13E</zzl><zzl>zl16344-2E</zzl> <zzl>zl16344-3A</zzl>aber davon werden ir schon wissen haben, dann [ir]
+<fa><i>Textverlust durch Papierverlust. </i></fa> von minen herren
+<fn>Mit dem in oben <qv>fn16344-1</qv> erwähnten Brief vom 3. November.</fn> und sonst
+<fn>Besonders von Heinrich Thomann; s. oben <qv>fn16344-3</qv>.</fn> schriben davon habt.<zzl>zl16344-3E</zzl> <zzl>zl16344-14A</zzl>So zücht das frombd volck, so z{uo} Bregetz gelegen, ouch hinweg.
+<fn>Zu den fremden Truppen bei Bregenz s. <qv>nr2626</qv>, <qv>fn16316-11</qv>; <qv>nr2649</qv>,<qv>zl16339-2</qv>; <qv>nr2653</qv>,<qv>zl16342-7</qv>.<zfn>fn16344-5</zfn></fn><zzl>zl16344-14E</zzl> Ach, lasst hertzlich bitten und r{ue}ffen z{uo} gott, das er unß disen find ablade
+<fn>disen find ablade: von diesem Feind befreie; s. <a>SI</a> III 1060.</fn>! Kem er usß dem land, m{oe}cht allen sachen wol widerum gerathen
+<fn>m{oe}cht allen sachen wol widerum gerathen: wird alles wieder in Ordnung gebracht; s. <a>SI</a> VI 1595.</fn> werden. Man gewartet all stund yetzund gewisser zytung
+<fn>gewisser zytung: verbürgte Nachrichten.</fn>, wa
+<fn>wo.</fn> er den kopff hinuß streck.</p>
+</div>
+<div>
+<p><zzl>zl16344-4A</zzl>Uff frytag
+<fn>5. November.</fn> abend komm ich wider gen Costentz, wills gott.<zzl>zl16344-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16344-6A</zzl>Salutant te supra modum officiose sororius meus
+<fn>Heinrich von Ulm, der am 14. November verstarb; s. <qv>nr2676</qv>,<qv>zl16362-1</qv>; <qv>nr2679</qv>,<qv>zl16366-1</qv>; <a>Blarer BW</a> 531, Nr. 1368.<zfn>fn16344-6</zfn></fn> cum uxore, sorore mea
+<fn>Barbara, geb. Blarer.</fn>.<zzl>zl16344-6E</zzl> Saluta tuam domum et omnes amicos.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Incomparabili Iesu Christi servo d. Heinricho Bullingero, sibi cumprimis observando longeque charissimo fratri. Tiguri.</p>
+</div>
+</text>
+</brief>

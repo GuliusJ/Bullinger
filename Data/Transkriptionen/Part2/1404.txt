@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1404">
+<nr>1404</nr>
+<correspondents>
+	<originator>Johannes Wolf</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Tübingen</place>
+	<date>4. Juni 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 340, 94 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 51</vo>
+<vo>TÜ: Zwa VIII 148.</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für einen Brief und für Bullingers Bemühung im Zusammenhang mit seinem Wunsch [nach Marburg zu wechseln];
+wartet [gemeinsam mit Wick und Haller] auf Bescheid und verspricht, seinen Weisungen zu folgen.
+</re>
+<tx>Literas<f1>Nicht erhalten.<fe> tuas,d. B[ullingere] charissime, 3. nonas iunii accepi, ex quibus, etsi mihi dubium
+nunquam fuerit, quin tibi essem charissimus, maiorem tuae in me singularis prope benevolentiae significationem perspexi. Cum
+igitur ea sit voluntas, humanitas et benevolentia tua erga me, ut (quod bonos viros decet) cum mihi tum omnibus studiosis
+quamplurimum prodesse coneris, quo neque mihi gratius neque (ut
+ego arbitror) tibi honestius esse quicquam potest, atque
+adeo hoc, quod literis proximis a te postularam<f1>Wolf hatte um Erlaubnis gebeten, zur Fortsetzung des Studiums nach Marburg
+wechseln zu dürfen; s. oben Nr. 1383, 25-55.<fe>, non potuit neque acuratius neque prudentius agi, quam a te actum est, et
+me Hercule confecta res ex mea est sententia<f1>Bullinger erkundigte sich zunächst bei Gwalther über die Verhältnisse in
+Marburg (s. oben Nr. 1391, 7-10); einen Beschluß wollten die Schulverordneten offenbar erst später fassen. Vgl. unten Nr.
+1421.<fe>. Proinde nihil nobis<f1>d. h. Wolf und seinen Zürcher Mitstudenten Wick und Haller.<fe> nunc fuerit utilius quam
+ibidem operiri, quoad ex vobis, quid faciendum sit, scire poterimus, nec diffido, quin id brevi sit futurum.
+Admonitio ista tua tam pia tamque sancta mihi fuit gratissima eaque te porro usurum cum apud me tum apud socios spero. Tu
+igitur, ut soles, virtute tua nobis prospicies; ego, quae te velle quaeque tibi plurimum voluptatis allatura arbitrabor,
+omnia studiose diligenterque conabor. Quae cum faciam, benevolentiam tuam erga me immitabor, merita non assequar. De me
+porro sic, velim, iudices, quantum ego possim, summo cum studio curaturum, modo dominus optimus maximus ceptis faveat.
+^$Quin iam vale, d[omine] colende et pater charissime.
+^$Tubingae, pridie nonas iunii 1540.
+<un>Iohannes Wolffius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Et eruditione et
+vitae integritate inclytod. M. Heinricho Bullingero,
+Tigurinae ecclesiae episcopo vigilantissimo, domino suo
+colendo. M. Heinrich Bullinger, predicant zuͦ Zürich, zuͦ handen.
+</content>
+</letter>

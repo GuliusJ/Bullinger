@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="886">
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>28. August 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 346, 82 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Dankt für die Antwort auf den Brief (*vom 19. August, Nr. 879*);
+stimmt Bullingers Kritik (*an den Strassburger Theologen*) zu und hofft,
+dass sich Luthers (*gemässigte*) Auffassung auch bei dessen Anhängern
+durchsetzen wird. Erbittet seinen vorausgegangenen Brief zurück.
+</statue>
+<content>
+Salus et pax Christi.
+<p>Pro datis ad me scriptis+1 gratiam tibi habeo. Quod literè meae+2 tardius missae sunt, causam intellexisti ex ipsis, ni fallor. Tecum autem sentio illos optimos viros infèlices esse in explicando hoc negotio+3,
+id quod plus semel illis coram testatus sum, neque mirum, cum in nullo
+alias negotio tam sint ardentes et frequentes et certe plus semel mea
+opera, utcumque exigua, usi sunt. Et videor ipse mihi Lutheri mentem (ut
+sese nunc illa habet et quam testatur se nunquam non habuisse) probe
+intelligere. Utinam Lutherani omnes et totus Lutheranus populus illam+a
+intelligeret!</p>
+<p>Quid nuper ad vos scripserim, omnino excidit mihi argumento excepto, itaque descriptam epistolam abs te peto. Praeterea vale et ora dominum pro me et toto isthoc negotio.</p>
+<p>Constantiae, 28. augusti 1536.</p>
+<signature>
+Tuus totus Io. Zvick.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Hainricho Bullingero, fratri
+observando. Zu^% Zurch.
+</address>
+</content>
+<note>
+.us; +a >Bullinger las irrtümlich  illum ; s. unten Nr. 891, 3-5.
+<address>
++1>Nicht erhalten.
++2>Oben Nr. 879.
++3>Offenbar hatte Bullinger Äusserungen Bucers und Capitos
+zur Konkordienfrage kritisiert.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

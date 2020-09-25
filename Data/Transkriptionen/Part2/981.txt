@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="981">
+<nr>981</nr>
+<correspondents>
+	<originator fn=1>[Joachim Vadian]</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Da vom "senatus ... noster Sangallensis" die Rede ist, gibt es keinen Grund, an der Verfasserangabe des Kopisten zu zweifeln; in Briefen des folgenden Monats ist mehrfach erwähnt, daß Bullinger ein solches Schreiben von Vadian erhielt und es auch den Kollegen in Basel und Bern mitteilte (s. unten Nr. 988, 21f; 989, 2-4; 991, 2f).</note>
+</correspondents>
+<space_time>
+	<place>[St. Germain</place>
+	<date>31. März 1537]</date>
+	<note>Auch die Datumsangabe ist glaubwürdig; Bullinger erhielt den Brief in den ersten Apriltagen (vgl. Anm. 1).</note>
+</space_time>
+<vo>Abschrift von unbekannter Hand (17. Jh.): Zürich ZB, Ms F 64, 646r.</vo>
+<dr></dr>
+<re>Dankt für einen Brief und äußert auf Wunsch Bullingers seine Meinung zu Bucers [Schreiben an Luther]. Wer [die
+eidgenössischen Kirchen] bei Luther in ein solches Licht stellt, schadet der Konkordie; besonders unverständlich ist, daß Bucer
+gegenüber Luther eine Position entschuldigt, die er in Basel als dessen eigene Meinung ausgab. Nur deshalb haben sich Basel und
+St. Germain für die Unterzeichnung der [Wittenberger Konkordie] ausgesprochen; Bucers Behauptung, sie hätten sich zusammen mit
+Mülhausen urteilsfähiger als andere gezeigt, trifft nicht zu. Luther wird voraussichtlich redlicher verfahren als Bucer,
+da er dessen Brief doch wohl weitergereicht hat, um seine Glaubwürdigkeit zu erkunden. Dennoch sollte man von
+dieser Sache schweigen, einerseits wegen der Vertraulichkeit des Briefverkehrs, andrerseits, um den Straßburger Rat nicht zu
+verärgern, obwohl Bucer auch gegenüber Ammeister Mathis [Pfarrer] unehrlich gewesen zu sein scheint.
+</re>
+<tx>[Gedruckt: Vadian BW VII 68f, Nr. 53.]
+</content>
+</letter>

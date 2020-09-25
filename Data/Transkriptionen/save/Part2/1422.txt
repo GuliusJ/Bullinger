@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1422">
+<nr>1422</nr>
+<correspondents>
+	<originator>Die Pfarrer des Wetzikoner Kapitels</originator>
+	<addressee fn=1>[die Pfarrer von Zürich]</addressee>
+	<note fn=1>Der Briefinhalt läßt die Adressaten zweifelsfrei erkennen.</note>
+</correspondents>
+<space_time>
+	<place>Bubikon</place>
+	<date>23. September 1540</date>
+</space_time>
+<vo>Entwurf von Johannes Stumpf: Zürich ZB, Ms A 70, 359<f1>Maschinenschrift v. A. Bonomo: Stumpf I, 1, 161 [ZBZ, Ms Z I 103]<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Bitte, im Wahlvorschlag für das Diakonat Goßau, das durch den Weggang von Benedikt Finsler frei wird, ihren armen, aber redlichen Wolfgang Meyer zu berücksichtigen; da sie im Kapitel mehrere Diakone haben, wird er nicht viel predigen müssen.</re>
+<tx>Gratiam et vitae innocentiam a domino nostro.
+^$Wolgelerten, frommen und getrüwen, lieben herren und
+vätter, wir habend vernommen, wie Benedictus Finßler mit
+eyner feyßteren<f1>besser dotierten.<fe> pfruͦndt versorgt<f1>Vgl. HBBW VII, S. 95, Anm. 15.<fe> und derhalben das
+diac[o]nat<fx>^#/+Textverlust durch Beschädigung des Randes.^#/-<fe> zu Gosßow abermals ledig<f1>frei geworden.<fe> sy. Diewyl dan
+Wolffgangus Meyer (so ettwan gon Matt in Sernfftal gesandt
+was<f1>Vgl. HBBW IX, S. 198, 6-11.<fe>) jetzund vil jar by uns in grosßer armuͦt herumb mit
+wyb und kinden in hochster gedult gewonet und sich (als vil
+uns wüssend ist) alzyt wol und<fx>^#/+vor^#/- und ^#/+gestrichenes^#/- ge.<fe> fromblich gehalten, darmit
+er nit allein by uns allen und jedem besonder, sonder ouch
+by dem gmeynen mann gunst und mitlyden erlangt hatt. So nun
+wir in Wetzickomer capitel sonst mer diaconos habend, also
+das ein diacon zu Gossow villycht nit so vil predigens
+wurde bedörffen, mochtend und woltend wir uns an dem ende<f1>Ort.<fe>
+mit obgnanntem bruͦder Wolffen wol lyden<f1>behelfen.<fe>. Ist deshalb an uch, unser lieb hern und vätter, unßer früntlich
+und dienstlich bit, ir wollind in der wal und fürstellung
+uch den armen bruͦder günstiglich lassen bevolchen<f1>empfohlen.<fe> syn umb
+gottes und unßer bitt willen; darmit er mit gottes hilff
+einmal<fx>mal ^#/+über der Zeile^#/- nachgetragen.<fe> uß dem ellend gehept wurde. So wollend wir uns
+gern mit im lyden und solichs umb uch gmeinlich und
+sonderlich zuͦ verdienen<f1>entgelten.<fe> allzyt geflissen syn. Hiemit sind
+dem herren bevolchen.
+^$Datum Buͦbicken, 23. septembris anno etc. 1540.
+<un>Gmeyne diener der kilchen Christi
+<un>im ampt Grüeningen, Wetzickomer
+<un>capitels.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

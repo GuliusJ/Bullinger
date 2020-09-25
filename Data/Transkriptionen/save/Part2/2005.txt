@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2005">
+<nr>2005</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>7. Oktober 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 101 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 56, 2^&x{
+<dr>Zusammenfassende Übersetzung: Blarer BW II 304, Nr. 1130</dr>
+<re>Empfiehlt Michael [...], den die [Konstanzer] eineinhalb Monate im Armenhaus unterhalten haben; er ist wegen seiner beschädigten Arme für Handarbeit ungeeignet; er scheint abergläubisch [d.h. altgläubig] zu sein, er ist es aber nicht; ist schon von Jugend an dem Militärwesen völlig ergeben und davon nicht abzubringen; doch wird wohl alles Gute, das man ihm tut, auch Christus erwiesen sein.</re>
+<tx>Gratia Christi tecum.
+^$Commendamus vobis bonum hunc et, quantum iudicare potuimus,
+solide pium Michaelem<f1>Unbekannt.<fe>, quem sesquimensem, ni fallor, in
+ptochodochio<f1>Armenhaus (griech. <gr>ptvxo­doxeĩon</gr>); s. Dasypodius, Dic. 192r.<fe> nostro fovimus diutius etiam foturi, si diutius
+hęrere voluisset. Ad laborandum manibus ob lęsum
+brachium inutilis est redditus; in spetiem superstitiosus
+videri poterit et nobis profecto primo occursu<fx>occursu ^#/+nach einem gestrichenen, unlesbar gemachten Wort.^#/-<fe> talis
+videbatur; sed pressum<fx>^#/+In der Vorlage^#/- pressus.<fe> intuentes et illius animam,
+quatenus licuit, discutientes, longe alium invenimus.
+Reiicula veste<f1>mit einem verbrauchten (s. Dasypodius, Dic. 96v.) Gewand.<fe> et nudis pedibus ingreditur absque caligis,
+quod vereatur, ne, si decentiore toga et caligis utatur,
+impotenti [m]ilitandi<fx>[m]ilitandi ^#/+am Rand nachgetragen und im engen Einband teilweise verdeckt^#/-.<fe> affectu vincatur; id quod prius etiam
+accidisse sibi valde conquęritur. Supra modum enim
+militiam, cuius ab adulescentia assuetus fuit, ardet, ut
+consilium hoc improbare haudquaquam valeamus. Puto vere in
+Christum collocatum, quicquid huic benignitatis exhibetur.<f1>Vgl. Mt 25, 40.<fe>
+^$Bene vale, mi charissime frater.
+^$Constantiae, 7. octobris anno 1544.
+<un>Tuus Ambr. Bl.
+<lz>[Adresse auf der Rückseite:] Suo longe colendissimo
+fratrid. Heinricho Bullingero. Tiguri.
+</content>
+</letter>

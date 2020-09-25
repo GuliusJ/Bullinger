@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1112">
+<nr>1112</nr>
+<correspondents>
+	<originator>Bartholomäus Müller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Biberach</place>
+	<date>20. März 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2755 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Freute sich über Bullingers Brief. Beglückwünscht ihn für die Ruhe und den Frieden in den Schweizer Kirchen und ist froh, daß der Berner Konflikt beendet ist; wundert sich über dessen Urheberschaft. Die Biberacher sind überzeugt, daß nach Luthers Antwort [an die Eidgenossen] Einigkeit unter den
+Kirchen
+erreicht wird. Bullingers Publikationen gefallen ihm, Martin Frecht und anderen, und sie vermuten, daß er im Abendmahlshandel nicht unzugänglich ist; bittet fortzufahren und sich - trotz Bedenken - entgegenkommend zu zeigen. Hat dem Briefboten gerne geholfen. Hofft, daß ihr Briefwechsel anhalten
+wird. Grüße.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Litere tue, vir ornatissime, summa voluptate me affecerunt,
+partim quod mutuum inter nos scribendi offitium hactenus
+nulla rei male vel suspitione saltem, sed integra firmaque
+amicicia intermissum repetis<f1>Das letzte erhaltene Schreiben aus Bullingers Briefwechsel mit Müller datiert vom 9. Juli 1534 (HBBW IV, Nr. 413).<fe>, partim quod ecclesias apud vos bene habere certior factus sum.
+^$Gaudeo gratulorque et tibi, qui meum columen existis, et ecclesiis tranquillitate et pace perpetua<fx>^#/+in der Vorlage^#/- pertua.<fe> ad cacumen proficiscentibus<fx>proficiscentibus ^#/+vom Schreiber korrigiert aus^#/- profisciscentibus.<fe>. Nec aliter de
+no­stris eadem tranquillitate, gratia dei, preditis sentias.
+Vehementer etiam letor nubeculam Berne obortam ilico foelici
+et serenatore<fx>^#/+vor^#/- serenatore ^#/+gestrichenes^#/- serentare.<fe> borea discussam et sedatam<f1>Zum Kompromiß im Streit um den Katechismus vgl. oben Nr. 1100.<fe>. Miror autem, ecquis
+hasce turbas moverit, fratrumne quispiam aut alius?
+^$Literarum Lutheri<f1>WA Briefwechsel VIII 149-153, Nr. 3191. - Zum Brief Luthers an die reformierten Städte der Eidgenossenschaft vom 1. Dezember 1537 vgl. auch oben Nr. 1096, Anm. 2.<fe> ad nos quoque exemplar perlatum<fx>perlatum ^#/+für^#/- delatum ^#/+am Rande nachgetragen.^#/-<fe>
+est, sententiamque earum probe tenemus, quod quam
+simplicissime coene verba interpretari cupit, ac summam
+inter ecclesias concordiam fore nobis certo persuademus<fx>persuademus ^#/+vom Schreiber korrigiert aus^#/- persuadebimus.<fe>.
+^$Ita nobis<fx>^#/+vor^#/- Ita nobis ^#/+gestrichenes^#/- Ita nobis.<fe> lucubrationes tue<fx>tue ^#/+am Rande nachgetragen.^#/-<fe> doctissime de baptismo<f1>Wohl Bullingers Werk "De Testamento seu foedere Dei unico et aeterno" von 1534 (HBBibl I 54), das nochmals 1537, dem 1. Teil des Kommentars zu den
+apostolischen Briefen beigebunden, gedruckt wurde (HBBibl I 84).<fe> et alie,
+que nobis et doctissimo viro, patri meo Martino Frechto,
+Ulmensi, ac optimis quibusque mirum in modum placent et
+probantur, coniecturam prebent te in coene negotio non fore
+difficilem. Perge itaque, doctissime Bullingere, in libris
+tuis, quos nunquam non maximo desiderio expectamus, Christi
+ecclesiam promovere et nos simul ad eiusdem utilitatem
+gnaviter instituere. Et si quid scrupuli restat, queso, et
+ob Christi et nostri amorem te facilem exhibeas.
+^$Ceterum illum<f1>Unbekannt.<fe>, qui tuas ad me pertulit literas, tui causa, qua potui diligentia et studio consulendo et consulem<f1>Christoph Gräter, "Ziehvater" der Biberacher Reformation (s. Stadtarchiv Biberach, Gültbuch 1537; freundlicher Hinweis von Kreisoberarchivrat Bernhard Rüth,
+Rottweil).<fe> accedendo et alias lubenti animo adiuvi.
+^$Et ne vicissitudo
+literarum inter nos, ut hactenus, cesset, precor.
+^$Gasparem Megandrum, fratrem et dominum meum observandissimum,
+Millerosque, consanguineos meos<f1>Vgl. HBBW IV, S. 248f, Anm. 6.<fe>, meis verbis quam potes officiosissime salutabis. Bene vale.
+^$Biberaci, 20. marcii 1538.
+<un>Tuus Bartholomeus Myllius,
+<un>ecclesiastes Biberacensis.
+<lz>[Adresse auf der Rückseite:] Celeberrimo doctissimoque viro domino Henricho Bullingero, Tiguri pastori ac concionatori, fratri et patri in Christo charissimo.
+</content>
+</letter>

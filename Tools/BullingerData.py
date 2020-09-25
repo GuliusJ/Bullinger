@@ -40,9 +40,13 @@ class BullingerData:
         self.path = path
         self.card_nr = card_nr
         self.second_try = False
+        self.input = None
+        self.output = None
+        """
         if path:
             self.input = self.get_data_as_dict(path)
             self.output = self.extract_values()
+        """
 
     def get_data(self): return self.output
 
@@ -436,6 +440,23 @@ class BullingerData:
         else:
             print("*** Warning, file ignored:", self.path)
             return dict()
+
+    @staticmethod
+    def get_data_basic(path):
+        size = OCR2.get_page_size(path)
+        if size:
+            scale_factor_x = BullingerData.AVG_PAGE_SIZE[0]/size[0]
+            scale_factor_y = BullingerData.AVG_PAGE_SIZE[1]/size[1]
+            t = OCR2.get_attr_positions(path, (scale_factor_x, scale_factor_y), inverse=True)
+            t["Field"] = None
+            t.reset_index(inplace=True, drop=True)
+            for index, row in t.iterrows():
+                ad = BullingerData.get_attribute_name(row['x'], row['y'])
+                attribute = ' '.join([ad[0], ad[1]]) if ad[1] else ad[0]
+                t.loc[index, "Field"] = attribute
+            t = t[["Field", "Value", "x", "y", "Baseline"]]
+            return t
+        return None
 
     @staticmethod
     def get_attribute_name(x, y):

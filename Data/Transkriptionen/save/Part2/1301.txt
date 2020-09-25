@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1301">
+<nr>1301</nr>
+<correspondents>
+	<originator>Johannes Blasius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>23. August 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 8 (Siegelspur)</vo>
+<re>Bittet Bullinger, den Überbringer des Briefes, den Churer [Alt-]Bürgermeister [Luzi Heim] in seiner evangelischen Gesinnung zu bestärken; Bullinger kann ihm eine eventuelle Sendung für [Johannes] Travers mitgeben. Bittet, Neues zum Fortgang der Reformation mitzuteilen.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 16, Nr. 14.]
+</content>
+</letter>

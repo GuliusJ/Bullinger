@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="738">
+<correspondents>
+	<originator>Simon Sulzer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>28. Januar 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 336a, 343 (neu: 356) (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Bittet, den kranken Berchtold (*Haller*) zu trösten, der
+nicht mehr selbst schreiben kann, und für ihn zu beten. Sein Tod wäre
+gerade jetzt ein schwerer Verlust für Bern.
+</statue>
+<content>
+S. Utinam tam posset Berchtoldus noster+1 ad te scribere fuse et
+diligenter, quam id
+cupit ardentissime! Haberes iam ab eo bene longam et amicam+a epistolam.
+Sed ita prorsus eius se res habent, ut nec scripturus neque lecturus
+quicquam amplius videatur, nisi potenti manu dominus miraculose ex his
+aerumnis virum optimum eripiat nobis. Cuius morbum describerem tibi,
+nisi id Megandrum graphice facturum scirem+2.
+Hoc unum te oro, ut vera in dominum consolatione syncerissimum amicum
+erigere velis nullius scripta monitionesque facilius quam tuas+b
+admissurum dominumque precari, quo quem in hoc curriculo vitae multis
+calamitatibus exercuit et probavit, nunc ad metam properantem gratia sua
+foveat et conservet.
+Equidem quantum doloris ex huius viri aegritudine traham, ipse, arbitror,
+coniicis, qui charissimi patris cruciatum+c spectator tantum+d non
+continuus adsisto, quamquam ego quidem non tam ipsius vel meam quam
+patriae tocius vicem doleo, quae patrem, non
+paed-
+ago-
+gum
+amittit, hisce
+praesertim temporibus, quibus per ipsum unum erecturus omnium mentes
+dominus videbatur+3.
+Sed luctus nec tum quidem erit+e gratus, cum fortasse erit necessarius,
+quare longiore querulatione obmissa ad tua te negotia dimitto dominum
+unice orans, qui te tuique similes classis evangelicè gubernatores
+diutissime incolumes velit.
+<p>Vale, mi Bullingere patrone, et scriptionem conturbatissimo+f animo effusam boni consule.</p>
+<p>Bernè, 28. ianuarii 1536.</p>
+<signature>
+T(*uus*) Sultzerus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinricho Bullingero,
+ecclesiae Tigurinae evangelistae vigilantissimo, patrono suo.
+</address>
+</content>
+<note>
+.us; +a >vor  amicam  gestrichenes  verb.
++b>quam tuas
+<print>
+über der Zeile nachgetragen.
++c>vor  cruciatum  gestrichenes  dolo.
++d>vor  tantum  gestrichenes  velut.
++e>vor  erit  gestrichenes  non.
++f>vor  conturbatissimo  gestrichenes  e.
+</print>
+<address>
++1>Berchtold Haller.
++2>Ein Bericht Meganders über Hallers Leiden liegt nicht vor, vgl.
+aber Hallers letzten Brief an Bullinger, oben Nr. 724.
++3>Haller hatte noch in seiner letzten Predigt (am 19. Januar,
+kurz vor dem Aufbruch der bernischen Truppen nach Savoyen) zu
+Standhaftigkeit gemahnt, wie die Liederchronik Werner Steiners
+berichtet (Abschrift: Zürich ZB, Ms A 158, f. 173r.-v.); vgl. Melchior
+<print>
+Kirchhofer,
+Ber-
+told
+Haller oder die Reformation von Bern, Zürich 1828, S. 231.
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

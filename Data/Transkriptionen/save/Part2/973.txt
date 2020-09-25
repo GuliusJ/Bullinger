@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="973">
+<nr>973</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>21. März 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 77 (Siegelspur) </vo>
+<dr></dr>
+<re>Hörte, daß der Schmalkaldische Bundestag ein glückliches Ende genommen habe, weiß jedoch nichts Genaueres über die Verhandlungen und bittet daher um Nachrichten. Übersendet die Abschrift eines Briefes Luthers an Bürgermeister Jakob Meyer in Basel [WA Briefwechsel VIII 43-45] und bittet um
+Rückgabe zusammen mit dem, was er früher geschickt hat.</re>
+<tx>[Gedruckt: Vadian BW V 420, Nr. 954.]
+</content>
+</letter>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2629">
+<brief>
+<id>16319</id>
+<nr>2629</nr> <from persid="LavaterLudwig"/> <to persid="Bullinger"/> <place plid="Straßburg"/> <date when="1546-10-16"/>
+<ae>Ludwig Lavater an Bullinger</ae>
+<od>Straßburg, 16. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 346, 184 (Siegelspur)</vo>
+<dr>Teildruck: <a>CO</a> XII 396f, Nr. 836<k>Kopien 18. und 19. Jh.: Zürich ZB, Ms S 62, 19; Straßburg BNU, Ms 676 (Thes. Baum. 17), 140</k></dr>
+<re><t>Lavater hat aus Bullingers Brief [nicht erhalten] die Gründe für dessen längeres Schweigen ersehen. Er vermutet aber auch aufgrund des Briefes, dass Bullinger ihm zürnt, weil er ihn in der Abendmahlsangelegenheit um Rat gebeten hatte.</t>
+<t>Er hat selbst erkannt, dass er seine Religion nicht ändern will. Er glaubt auch nicht alles, was man erzählt. Die [Straßburger Pfarrerschaft] verlangte nur, dass er das Basler Bekenntnis [d.h. das Erste Helvetische Bekenntnis] nicht verwerfe und im Einklang mit diesem am Abendmahl teilnehme. Man verlangte nicht von ihm, den Glauben seiner Heimat aufzugeben. Doch hat er stets bestritten, dass das [Erste Helvetische] Bekenntnis identisch mit der Wittenberger Konkordie sei; denn wie würde sich sonst die letzte Auseinandersetzung zwischen Luther und den Zürchern erklären? Aber genug davon.</t>
+<t>Die Straßburger Lehrer haben beschlossen, sich bei der Zürcher [Pfarrerschaft] brieflich zu erkundigen. Lavater weiß nicht, ob dies bereits geschehen ist oder nicht. In seiner Antwort soll sich Bullinger nicht gereizt zeigen. Lavater möchte nämlich noch bis zum Ende des Winters in Straßburg studieren. Dann wird das Ganze ein Ende haben!</t>
+<t>Er wohnt nun bei [Matthias] Zell, der ihn Bullinger und [Konrad] Pellikan zuliebe aufgenommen hat, deshalb aber angefeindet wird.</t>
+<t>Lavater mag Bucer, auch wenn dies nicht gegenseitig ist, weil andere Bucer davon abhalten.</t>
+<t>Das Zerwürfnis zwischen Zwinglianern und Lutheranern scheint nun wirklich unerbittlich ...</t>
+<t>Lavater wird seinem Vater [Hans Rudolf] ein Ausgabenverzeichnis zukommen lassen.</t>
+<t>Mehr gibt es nicht zu berichten. Der Herr möge Bullinger seiner Kirche erhalten! Gruß an die Eltern [Hans Rudolf und Anna, geb. Reuchli], an Bullingers Gattin [Anna, geb. Adlischwyler], an die Kinder und an das ganze Haus.</t></re>
+<text>
+<div>
+<p>S. P. D. Gratissimae mihi fuerunt tuae literae
+<fn>Die nicht erhaltene Antwort auf Lavaters Brief vom 26. September 1546 (<a>HBBW</a> XVII, Nr. 2600).</fn>, colendissime pater, ex quibus diuturni silentii causas, quo superioribus temporibus usus es, vestramque incolumitatem intellexi. Ex iisdem autem potui suspicari te mihi indignari, quod te in negotio eucharisti{e} consulendum putavi.
+<fn>Lavater hatte Bullinger (in einem nicht erhaltenen Brief) um Rat wegen einer etwaigen Beteiligung am Abendmahl in Straßburg gebeten; s. dazu <a>HBBW</a> XVII, Nr. 2557 und 2600.<zfn>fn16319-1</zfn></fn></p>
+</div>
+<div>
+<p>Quantum ad me, ipse satis potui intelligere religionem meam mutandam non esse, nec is sum, qui sine iuditio, quicquid dicitur, credendum putem. Non aliud postulant,
+<fn>Subjekt sind die lutherisch orientierten Straßburger Pfarrer und Lehrer.</fn> nisi ut Basiliensem confessionem
+<fn>Gemeint ist das Erste Helvetische Bekenntnis von Februar 1536.</fn> non reiitiam, sed ea fide instructus sumam eucharistiam. Nec aperte patri{e} religionis mutand{e} mihi voluerunt esse authores. Sed negavi et pernego Basiliensem confessionem eandem esse cum Vittenbergensi
+<fn>Die Wittenberger Konkordie von Mai 1536. - Vgl. dazu schon Lavaters Äußerung in <a>HBBW</a> XVII 511,47-49.</fn>. Nam cum Basiliensem approbemus, quid sibi haec certamina vellent, quid pugna, quae novissime Tigurinis cum Luthero intercessit? Sed mitto haec; fidei nostr{e} rationem reddidimus.
+<fn>Nämlich in den oben in <qv>fn16319-1</qv> erwähnten Briefen.</fn></p>
+</div>
+<div>
+<p>Decretum est a praeceptoribus nostr{e} schol{e}, ut ad vos scribant, quodnam vos tum de nobis sit consilium. Utrum literas ad vos miserunt, ignoro.
+<fn>Die Straßburger Pfarrer schrieben ihren Zürcher Kollegen erst am 6. Dezember (<a>CO</a> XII 437-442).<zfn>fn16319-2</zfn></fn> Cupio cum illis
+<fa><i>Über der Zeile nachgetragen.</i></fa> rescribis, ne acerbius agas, ut huius schol{e} benefitio uti possim. Hyeme exacto his rebus finem dabit deus!
+<fn>Lavater studierte bis etwa Mai 1547 in Straßburg; s. <a>HBBW</a> XV 576, Anm. 23.</fn></p>
+</div>
+<div>
+<p><zzl>zl16319-1A</zzl>Mutavi hospitium. D. Zellius singulari in te et d. Pellicanum benevolentia
+<fa><i>Nach</i> benevolentia <i>gestrichenes</i> mihi hos.</fa> me in aedes suas recepit. Magnam tamen invidiam sustinere cogetur. Sed iubet me bono esse animo; se haec minime formidare, ut qui graviora passus sit.<zzl>zl16319-1E</zzl></p>
+</div>
+<div>
+<p>Amo Bucerum, quamvis nos minime amet; sed id totum propter aliorum instigationes fieri puto.</p>
+</div>
+<div>
+<p>Video iam tandem implacabile inter Zvinglios et Lutheranos, ut vocant, esse dissidium ...</p>
+</div>
+<div>
+<p>Sumptuum quos feci hoc anno supputationem propediem mittam patri
+<fn>Bürgermeister Hans Rudolf Lavater.</fn>.</p>
+</div>
+<div>
+<p>Non habeo, quae tua scire intersit. Deus ad su{e} ecclesiae incolumitatem te diu incolumem servare dignetur! Parentes meos
+<fn>Ludwigs Mutter war Anna, geb. Reuchli.</fn>, uxorem tuam honestissimam,
+<fn>Anna, geb. Adlischwyler.</fn> liberos,
+<fn>Zu deren Namen s. <qv>nr2604</qv>, <qv>fn16292-1</qv>.</fn> totamque familiam meo nomine salutare ne dedigneris. Argentin{e}, 16. octobris anno 1546.</p>
+<un>Tuus ex animo</un>
+<un>Ludovicus Lavatherus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Vigilantissimo Tigurin{e} ecclesiae antistiti, Henricho Bullingero, mecoenati suo colendissimo. Tiguri.</p>
+</div>
+</text>
+</brief>

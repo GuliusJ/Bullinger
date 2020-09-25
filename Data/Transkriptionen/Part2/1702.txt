@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1702">
+<nr>1702</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>12. Dezember 1542</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand. - Das Autograph ist beschädigt. Lücken im Text sind
+in eckigen Klammern ergänzt.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 239 (Siegelabdruck)</vo>
+<vo>Kopie: Ms F 43, 85v.</vo>
+<vo>Ms S 52, 80</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 165f, Nr. 983</dr>
+<re>Bittet, dem Boten auf der Rückreise von Kempten einen Brief mitzugeben; Blarer hat sicherlich den Beschluss zum Reislauf ["Der loblichen statt Zürich ordnung und erkanntnuß wider das schädlich kriegen und reyßlouffen"] erhalten. Tod Peter Kolins am [2.] Dezember, dessen lateinische Übersetzung
+der Apokryphen am gleichen Tag von Froschauer gedruckt wurde und Teil der in Vorbereitung befindlichen Bibelausgabe ["Biblia sacrosancta"] ist; das Alte Testament wurde von Leo [Jud] und Bibliander übersetzt, am Neuen Testament waren einige [Zürcher] beteiligt. Grüße.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Quia hic tabellio<f1>Unbekannt.<fe> Cambidonam erat profecturus, volui his te
+salutare, amice et frater in domino venerabilis et
+charissime, simulque indicare, pares interea, dum ille it ac
+redit, ut redeu[nti a]liquid des tuarum. Ego nunc quod
+scribe[rem amp]lius non habui. Accepisti haud dubie,
+quod [nuper mi]si senatus consultum aut plebiscitum
+reipublicae [nostrae contra] militiam mercenariam.<f1>Vgl. oben Nr. 1698, 24f mit Anm. 10.<fe>
+^$Reddidit spiritum rede[mptori] Christo peste<fx>^#/+Von^#/- peste ^#/+bis^#/- extinctus ^#/+am Rande
+nachgetragen.^#/-<fe> intra
+triduum extinctus vir doctissimus et piissimusd. Petrus
+Cholinus [die 2.] decembris.<f1>Peter Kolin starb am 2. Dezember.<fe> Eadem die absoluti sunt et libri
+ecclesiastici sive apocryphi, quos ille multa diligentia e
+Graeco in Latinum transtulit, Froschouerus excudit<f1>Auch gemäß Bullingers Vorrede (HBBibl I 115) wurde der Druck
+von Kolins Beitrag zur Anfang 1543 erschienenen "Biblia sacrosancta" (BZD C 319) an dessen Todestag fertiggestellt; s. aaO, f. <gr>a</gr>6r.<fe>
+adiuncturus illos bibliis illis suis ad vernas nundinas
+evulgandis. Vetus testamentum ex Hebraeo vertit Leo<f1>Leo Jud.<fe> et
+partemd. T[heodorus] Bibliander; in novo recognoscendo et
+adornando laborant atque laborarunt nostrum aliquot,<f1>An der Textrevision des Neuen Testamentes war neben Kolin auch Gwalther beteiligt; vgl. Willy ^#/+Brändly,^#/- Peter Kolin von Zug, in: Zwa IX/3, 1950, S. 169.<fe>
+quemadmodum videbis post mensem unum atque alterum. Elegantius<fx-t>^#/+Von^#/- Elegantius ^#/+bis^#/- typographus ^#/+am Rande nachgetragen.^#/-<fe> opus
+et pulchrius non vidit, opinor, vel Germania vel Gallia, nec
+ullis sumptibus parcit typographus.<fx-x>^#/+Von^#/- Elegantius ^#/+bis^#/- typographus ^#/+am Rande nachgetragen.^#/-<fe>
+^$Dominus tecum.
+^$12. decembris anno 1542.
+^$Salutabis tuam familiam ac fratres. Salutant te Megander,
+Pellicanus, Bibliander ac reliqui.
+<un>Tuus H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Domino Ambrosio
+Blaurero, fratri et amico syncerissimo longeque charissimo
+suo. Costantz.
+</content>
+</letter>

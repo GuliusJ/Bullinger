@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2520">
+<brief>
+<id>16209</id>
+<nr>2520</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 31. Juli 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 203 (ohne Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 59; Zit.: <i>Gast,</i> Tagebuch 70 (A 200)</k></dr>
+<re>Dass Gast in diesen Kriegsläuften nicht an Bullinger schreibt, liegt an Myconius. Denn dieser will täglich alles wissen, was Gast aus Briefen [anderer] erfährt, und versprach, es auch Bullinger mitzuteilen.
+<t/>Im Elsass, Sundgau und Breisgau ist es ruhig. In [Basel] erkundigen sich täglich Adlige nach dem hessischen Heer. Sie haben Angst und wissen nicht, wohin. Sie verfluchen Kaiser [Karl V.] wegen seines Krieges, mit dem er Deutschland in das Joch der Sklaverei zwingen wird.
+<t/>[P.S.:] Grüße an Theodor [Bibliander], [Konrad] Pellikan, [Rudolf] Gwalther und [Johannes] Fries.</re>
+<text>
+<p>S. in domino. <zzl>zl16209-1A</zzl>Quod nihil in hoc bellorum strepitu ad te scribo, Myconius in causa, qui incredibili voluptate afficitur, si occasionem ad te scribendi habet, et quicquid ad me scriptum est hactenus, id Myconio communicavi, ut ad te scribat, idque sancte promisit. Quotidie me interrogat de rebus novis, et si quid habeo, mox profero. Est bonus senex ac gaudet levi ex re, cui libens obtempero in omnibus.
+<fn>Gasts Begründung seines Schweigens erfolgte auf Bullingers Nachfrage in <qv>nr2516</qv>,<qv>zl16206-2</qv>.</fn><zzl>zl16209-1E</zzl></p>
+<p>Quieta omnino est Alsatia, Sungovia et Brisgaudia. Nobiles passim quotidie apud nos agunt percunctaturi, quid rerum agatur in exercitu Hessico.
+<fn>Siehe dazu zuletzt <qv>nr2519</qv>,<qv>zl16208-1</qv>.</fn> Sibi maxime timent nec, quo se vertant, norunt. Caesarem
+<fn>Karl V.</fn> diris devovent, qui tale instituere in Germania bellum conatur; per quod Germaniam aut omnino delere aut sub iugum servitutis subiicere studet.</p>
+<p>Vale in domino. Basile{e}, 31. iulii 1546.</p>
+<un>Tuus Gastius</un>
+<un>ex animo.</un>
+<lz/>
+<p>Salutabis nomine meo d. Theodorum
+<fn>Theodor Bibliander.</fn> et Pellicanum cum Gvalthero et Frisio, etc.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinrycho Bullingero suo. Zürich.</p>
+</text>
+</brief>

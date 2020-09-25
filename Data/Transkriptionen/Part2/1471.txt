@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1471">
+<nr>1471</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>2. März 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 69 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 43; (Moeller, Zwick Nr. 236)</vo>
+<dr>Ungedruckt</dr>
+<re>Verweist auf ein Schreiben von Ambrosius [Blarer] [Nr. 1472], dankt für ein Buchgeschenk und übernimmt die Verantwortung dafür, dass Bullingers [Bote] zurückgehalten wurde.</re>
+<tx>S. Ambrosio scribente<f1>Ambrosius Blarer schrieb ungefähr gleichzeitig einen undatierten Brief an Bullinger; s. unten Nr. 1472.<fe> facile
+possum silere, nisi quod gratias ago munificentiae et magnificentiae tuae pro libro<f1>Von welchem Buch die Rede ist,
+bleibt offen.<fe> dono nobis misso, deinde, quod nostra culpa impeditus est adolescens<f1>Unbekannt.<fe> tuus diutius, atque
+ipse voluerit. Mihi ergo succenseas, si quid neglexit. De aliis Ambrosius.
+^$Vale cum tota familia.
+^$2. martii 1541.
+<un>Tuus Io. Zwick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, fratri observandissimo.
+</content>
+</letter>

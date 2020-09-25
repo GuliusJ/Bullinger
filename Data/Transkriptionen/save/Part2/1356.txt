@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1356">
+<nr>1356</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>8. Februar 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 116 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 133<f1>(Moeller, Zwick, Nr. 213)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Stimmt Bullinger zu; viele lassen sich durch übertriebene Furcht oder Hoffnung bestimmen, doch zu fürchten ist vor allem
+die Uneinigkeit im eigenen Lager, die gerade dann droht, wenn der Ruf nach Einheit ertönt; [die Schwächung der Gegner durch]
+die zunehmende Türkengefahr ist nur ein schwacher Trost. Die Gefahr einer Spaltung hat sich bei den eidgenössischen Kirchen
+bereits in früheren Jahren gezeigt, als die Berner und Basler den Straßburgern entgegenkamen. Ambrosius [Blarer] ist
+wohlbehalten zurückgekehrt und läßt grüßen; sonst gibt es nichts Neues.
+</re>
+<tx>Salus.
+^$Recte tu quidem omnia<f1>Der Brief, auf den Zwick antwortet, ist nicht erhalten.<fe>, Bullingere charissime; utinam sic
+pergamus! Sed nescio quis metus invaserit quorundam animos;
+alios lactat spes quędam magnifica, quam tamen nec ego ratam
+crediderim. Dissidia autem fratrum magis me terrent; nam
+alias cruces omnes facilius devoraremus. Hinc enecabit nos
+quoque<fx>quoque ^#/+am Rande nachgetragen.^#/-<fe> concordiae et unanimitatis titulus, qui mirifice
+dementat incautos, imo plus semel occęcavit cautissimos.
+Unum hoc me consolatur, quod iterum ingruit Turca
+potentissime<f1>Vgl. oben Nr. 1349, 13-17.<fe>; sed o funestam consolationem! Utinam
+Helveticae ecclesiae non scindantur, dum tractabitur de<fx>de ^#/+über der Zeile nachgetragen.^#/-<fe>
+concordia. Non bene cohęsistis annis elapsis, dum
+Bernates et Basilienses Argentoratensibus - quorundam iuditio -
+nimium acquiescerent<f1>Zwick denkt wohl an den Auftritt Bucers und Capitos an der Berner Synode vom September 1537 (vgl.
+besonders HBBW VII, Nr. 1045) und an die Bereitschaft Basels, der Wittenberger Konkordie zuzustimmen (vgl. HBBW VI, S. 459,
+15f mit Anm. 6).<fe>. Defendat vos dominus ab intestinis contentionibus, nos vero a metu tirannorum et blanditiis
+hominum quorundam astutissimorum.
+^$Ambrosius rediit<f1>Ambrosius Blarer war am 4. Februar nach längerem Aufenthalt in Augsburg und im Allgäu nach Konstanz
+zurückgekehrt; vgl. unten Nr. 1368, 11 mit Anm. 4.<fe> salvus gratia domini et te salvum esse cupit modis omnibus. Novarum rerum alias nichil habemus.
+^$Vale, mi frater, cum tota domo et fratribus.
+^$Constantiae, 8. februarii 1540.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, antistiti Tigurino, fratri suo observando.
+</content>
+</letter>

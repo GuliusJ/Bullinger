@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1380">
+<nr>1380</nr>
+<correspondents>
+	<originator>John Butler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>4. April [1540]</date>
+	<note>Die Parallelen zu Nicholas Partridges Brief vom 26. Februar (oben Nr. 1364) sowie die Erwähnung von William Petersons Holzgeschäft (vgl. oben Nr. 1361 und 1378) verweisen den Brief ins Jahr 1540.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 359 (Siegelspur)
+<re>Faßt im folgenden die Briefe von Nicholas Partridge, Bartholomew Traheron und William Peterson zusammen, die ihm
+[Christoph] Froschauer [aus Frankfurt] gebracht hat - wenn sie nicht englisch geschrieben wären, würde er sie einfach an ihn
+weiterleiten -: Partridge bittet Bullinger, Christian [...] mit dem mitgeschickten bzw. durch Butler gewechselten Angelot für
+die übersandten Schriften zu entschädigen, und wünscht, daß ihm Christian, wie versprochen, auch [die Vorlesungen] von Theodor
+[Bibliander] über die Sprüche und Hiob zustellt; rechnet damit, den von Bullinger geschenkten Evangelienkommentar Zwinglis durch
+Reyner [Wolfe] zu erhalten; die Handschuhe aus Oxford konnte er noch nicht besorgen, da er als Privatlehrer im Haus von [Anthony
+Aucher] in Kent sehr beschäftigt ist. Peterson, den Butler um Pfingsten erwartet, bittet Bullinger, bei [Rudolf] Schinz zu
+erreichen, daß die Hölzer glatt, vierkantig, mindestens drei Finger dick und so lang wie das Muster gemacht werden.
+[Traheron] teilt eine Predigt des durchtriebenen Bischofs von Winchester [Stephen Gardiner] mit, die Butler bereits durch
+Froschauer an Bibliander geschickt hat. Das beigeschlossene Geldstück von [Simon] Grynäus ist ein Geschenk für Bullingers Frau [Anna]. Grüße.</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae
+408f, bzw. Original Letters II 629-631, Nr. 290.]
+^&xZit: Amerbach, Korr. VI 254f (Nr. 2806); Egli, Analecta II
+41.^&x{</vo>
+</content>
+</letter>

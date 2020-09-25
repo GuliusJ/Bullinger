@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2337">
+<brief>
+<id>16026</id>
+<nr>2337</nr>
+<ae>Ludwig Lavater an Bullinger</ae>
+<od>Straßburg, 27. Januar 1546</od>
+<vo>Autograph
+<fa><i>Mit Randbemerkungen von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 39, 733 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopien 18. und 19. Jh.: Zürich ZB, Ms S 59, 46; Straßburg BNU, Ms 676 (Thes. Baum. 17), 20; erw.: ebd., Ms 708 (Thes. Baum. 49, 14); Zit.: West, A study of Hooper 31; keine Schieß-Kopie</k></dr>
+<re>Das Schweigen, das Bullinger Lavater in zwei Briefen [nicht erhalten] vorgeworfen hat, resultierte aus Botenmangel infolge des harten Winters; auch wollte Lavater abwarten, bis er sichere Nachricht über sich geben konnte. Bullinger hat offensichtlich seinen Brief [<qv>nr2320</qv>] noch nicht empfangen.
+<t/>[Johannes] Sturm ist [von seiner Mission] zurückgekehrt; Lavater wird dessen Unterricht besuchen. Luther hat durch ein Schreiben ["An die Kurfursten"] den Landgrafen [Philipp] von Hessen ermahnt, Herzog Heinrich von Braunschweig nicht zu entlassen; Bullinger wird diese Schrift wohl schon haben.
+<t/>Würde [Johannes Marbach] sich abfällig über Zwingli äußern, bekäme er Unangenehmes zu hören.
+<t/>Bullinger erhält auch von einem gelehrten und ihm zugeneigten Engländer [John Hooper] einen Brief [<qv>nr2336</qv>], den er nach Möglichkeit beantworten soll, denn [Hooper] unterstützt die zwinglische Partei, was in Straßburg selten ist.
+<t/>Grüße an die Gattin [Anna, geb. Adlischwyler] und an die ganze Familie.
+<t/>Bullinger möge voll und ganz auf Lavaters Pflichteifer vertrauen!</re>
+<text>
+<p>S.P.D. Si vales, bene est; ego valeo. Accepi iam binas a te literas
+<fn>Nicht erhalten.</fn>, humanissime pater, <zzl>zl2337-2A</zzl>quibus cognoscere potui te silentium meum plus satis importunum inique tulisse;<zzl>zl2337-2E</zzl> quo tamen usus sum non propter benefitiorum oblivionem, sed partim propter tabellionum inopiam, quibus existimo hyemis magnitudinem
+<fn>Vgl. Vereinigte Frauendorfer Blätter, hg. v. der praktischen Gartenbaugesellschaft in Bayern, Jg. 1870, Frauendorf 1870, S. 60 (unter "Harte Winter"): "1545 bis 46 gefror überall in Deutschland der Wein in den Fässern."<zfn>fn2337-1</zfn></fn> obstitisse, partim ut possem aliquid certi, quid mecum ageretur, describere. <zzl>zl2337-1A</zzl>Quantum autem ex tuis literis intelligo, meae
+<fn><qv>nr2320</qv>.</fn> tibi nondum redditae sunt.<zzl>zl2337-1E</zzl> Quod si cognoscerem, brevi te de omnibus rebus facerem certiorem.</p>
+<p>Nunc te dignum nihil habeo, quod scribam, nisi quod rector noster Sturmius reversus est;
+<fn>Zur diplomatischen Mission des Straßburger Schulrektors Johannes Sturm 1545/46 s. <qv>nr2320</qv>, <qv>fn2320-2</qv>. Seine Rückkehr nach Straßburg erfolgte erst nach dem 17. Januar 1546, denn noch an diesem Tag verfasste der Rat ein Schreiben an Sturm, "falls er noch bei Hofe ist" (<a>PC</a> IV/1 15, Nr. 17).</fn> quem ego quoque audiam. Et d. Martinus Lutherus scripsit Exhortationem ad principem Cattorum
+<fn>Landgraf Philipp von Hessen.</fn>,
+<fn><i>Luther,</i> An Kurfursten zu Sachsen und Landgraven zu Hessen ... von dem gefangenen H. zu Brunswig, Wittenberg, Josef Klug, 1545 (<a>VD16</a> L3809 - s. auch ZV25068); vgl. <a>WA</a> LIV 374-411; <a>Luther Bibl.</a> I 3506. In den Jahren 1545 und 1546 wurde die Schrift an verschiedenen Orten nachgedruckt (s. <a>Luther Bibl.</a> I 3507-3516).<zfn>fn2337-2</zfn></fn> ne dimittat Brunsvicensium ducem
+<fn>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.</fn>; quam te puto habere.</p>
+<p><zzl>zl2337-3A</zzl>Nec est, quod vereare dominum meum
+<fn>Johannes Marbach, der Straßburger Gastgeber Lavaters.</fn> me sollicitare de sacramento, nam si maxime diceret de Zvinglio, quae vellet, audiret quae non vellet;
+<fn>Vgl. <i>Terenz,</i> Andria, 920: Qui, quae vult, dicit, quod non vult, audiet.</fn> et scio, quatenus omnibus Lutheranis confidendum sit et quid moliantur.<zzl>zl2337-3E</zzl></p>
+<p><zzl>zl2337-4A</zzl>Accipies praeterea literas
+<fa>literas <i>nach gestrichenem</i> hic.</fa>
+<fn><qv>nr2336</qv>.</fn> ab Anglo quodam
+<fn>John Hooper.</fn>, observantissimo studiosissimoque tui, erudito homine et summa humanitate, tuaque amititia (quantum quidem ego iudico) dignissimo; cui velim, si liberum esset, rescriberes, nam id erit ei gratissimum. Plurimum enim partes Zvinglii, quod rarum est in hac urbe, tuetur. Ipsum praeterea summo offitio et summa observantia tibi in perpetuum devinxeris.
+<fn>Der ganze Satz stammt aus <i>Cicero,</i> Epistulae ad familiares, 13, 3.</fn><zzl>zl2337-4E</zzl></p>
+<p>Vale. Uxori
+<fn>Anna, geb. Adlischwyler.</fn> tuae honestissimae et toti
+<fa><i>In der Vorlage</i> totae.</fa> familiae ex me salutem dicere ne dedigneris.</p>
+<p>Argentorati, anno 1546, apud d[ivum] Nicolaum
+<fn>Die Kirche St. Nikolaus.</fn>, ex aedibus d. Ioannis Marpachii, 27. ianuarii, etc. Tu fac interim, me nulla in re offitio meo defuturum confidas,
+<fn>me ... confidas: <i>Cicero,</i> Epistulae ad familiares, 10, 29.</fn> etc.</p>
+<un>Tuus <gr>pantì sth́uei kaì pantì</gr></un>
+<un><gr>uym^ṽ</gr>
+<fn>mit ganzem Herzen und mit ganzem Sinn.</fn> Ludovicus Lavathe-­</un>
+<un>rus.</un>
+<lz/>
+<p>[Adressen auf der Rückseite:] Ornatissimo viro d. Henricho Bullingero, pientissimo ecclesi{e} Tigurinae antistiti, domino suo inprimis observando. Zürich. Dem ersamen, wiesen und hohegelerten herren, h. Henrich Bullinger, mienem besunders gelieften
+<fn>Vielleicht eine Anspielung auf die Redeweise des Friesen thom Camph, der 1545 in Zürich gewesen war.</fn> herren und gutten fründt z{uo} Zurich.</p>
+</text>
+</brief>

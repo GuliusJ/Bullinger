@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1233">
+<nr>1233</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich</place>
+	<date>Anfang März 1539]</date>
+	<note>Die dem Widmungsschreiben vorangestellte Vorrede trägt das Datum "mense martio 1539". Mit dem Druck war bereits vor Mitte Februar begonnen worden (s. oben Nr. 1225). Am 7./8. März lag das fertige Werk vor (s. unten Nr. 1236, am Schluß des Briefes, bzw. 1237, 16-24),
+und am 7. April verdankte Blarer das ihm zugesandte Exemplar (s. unten Nr. 1250, 21-33).</note>
+</space_time>
+<vo>Gedruckt: De origine erroris libri duo Heinrychi Bullingeri, Zürich 1539, f. 1r.-3r. (Widmungsvorrede)<f1>Vorrede zum ersten Buch von "De origine erroris". Zur Neubearbeitung
+der 1529 bzw. 1528 erstmals erschienenen zwei Bücher über die Bilderverehrung und die Messe s. HBBibl I 12 sowie unten Nr. 1237, 16-19 mit Anm. 7. Bereits die Erstausgabe des ersten Buchs (HBBibl I 11) war Blarer gewidmet; s. unten Z. 91-93 mit Anm. 14.<fe>; französische Übersetzung<f1>Vgl. HBBibl I
+16.<fe>: La source d'erreur ..., Genf 1550, S. 21-27; deutsche Übersetzung<f1>Vgl. HBBibl I 18.<fe>: De
+origine erroris et de conciliis ..., Heidelberg 1574, f. 11v.-12r.; niederländische Übersetzung<f1>Vgl. HBBibl I 21.<fe>: Vanden oorspronc der dvvalinghe ..., Dordrecht 1582, f. *3v.-*4r.</vo>
+<re>Verteidigt sein Buch gegen die zu erwartende Kritik und weist darauf hin, daß er die gesamte Thematik leichtverständlich
+und systematisch abgehandelt hat, anders als frühere Autoren, deren Werke er dennoch schätzt und bei Gelegenheit zitiert; da
+einflußreiche Kreise alles tun, um die Anrufung der Heiligen und den Bilderkult als christlich auszugeben, veröffentlicht er
+seine Schrift gerade jetzt. Er stellt darin zunächst dem Glauben der Alten Kirche die Irrtümer der Heiden, Juden und
+Christen gegenüber und geht dann auf die Lehre der Väter und die Einwände der Gegner ein, um darzulegen, daß Gott allein
+angerufen werden soll; weiter untersucht er die Anfänge der Bilderverehrung, legt Gottes Gebot dazu aus, berichtet über den
+Streit um die Bilder, beweist, daß kein Unterschied zwischen heidnischem und christlichem Bilderdienst besteht, und schließt
+mit der Warnung vor jeder Abgötterei. Die vor fast 15 Jahren nach dem Vorbild von Laktanz entworfene Schrift hat er bereits
+vor 10 Jahren publiziert; da seither keine gründlichere Abhandlung zu diesem Thema erschienen ist, hat er das Buch
+nochmals völlig überarbeitet und erweitert, ohne die Grundaussage zu verändern. Widmet auch diese Ausgabe, wie
+bereits die erste, dem weithin angesehenen Blarer.
+</re>
+<tx>In librum De origine erroris circa invocationem et cultum deorum ac simulachrorum add. Ambrosium Blaurerum Constantiensem praefatio.
+^$Scio mihi non defuturos adversarios, qui et argumentum, quod in hoc libro tracto, et modum, quo trado, prorsus sint damnaturi,
+verum consolabitur me conscientia mea coram domino. Novi enim, quid spectaverim; novit ipse cordium scrutator dominus<f1>Vgl.
+1Chr 28, 9 u. ö.<fe>, quod ista non in contumeliam fidei rectae et sanctorum, sed in gloriam dei multorumque hominum salutem
+aediderim. Modum in tradendo sequutus sum, qui maxime videbatur perspicuus esse et huic negotio congruere. Simpliciter expono
+omnia. Utor oratione vulgari minimeque picturata aut elaborata. Hoc enim religionis caussa omni fuco carens, syncera et simplex,
+eorum item conditio poscere videbatur, in quorum gratiam ista scribebam. Chrysippea acumina<f1>Der Stoiker Chrysipp galt als
+hervorragender Dialektiker; vgl. LAW 624.<fe> et superstitiosulos quosdam dictionis admiratores censoresque nihil
+moror. Tractarunt ante me quidem partem huius argumenti homines sancti et docti, quorum alii etiamnum vivunt, alii concesserunt
+ad dominum; pauci vero aut nulli de origine erroris totoque superstitionis negotio ex professo et ordine certo disseruerunt.
+Extant enim eorum opera, in quibus per partes nunc de invocatione divorum, nunc de simulachrorum cultu disputarunt;
+nonnun-<vl>1v.</vl>quam et alia interim agentes per occasionem istarum rerum meminerunt. Ego vero totum illud superstitionis
+negotium in compendium contraxi, de hoc tantum disserui totumque semel oculis lectorum spectandum proposui. Quod sicubi usus
+postulabat aut in illorum libris elegans sententia aut evidens extabat argumentum, hisce nostris inserui. Merito enim piorum
+hominum lucubrationes magni aestimo, utpote quorum ministerio ad bonum ec­clesiae suae utitur dominus et quorum spiritus nunc
+vivunt apud dominum; tantum abest, ut vel tantillum de laudibus piorum hisce nostris diminutum cupiam. Atqui hoc tempore et
+saeculo ista eo potissimum nomine publico, quod videam potentes, doctos, principes et maximae existimationis viros vafris
+artibus, disputationibus et concionibus ingeniosis, aedictis publicis, modis denique omnibus id conari, ut tota Christi
+fidelium ecclesia divorum intercessionem et invocationem, sed et simulachrorum usum et cultum in templis agnoscat et confiteatur
+apostolicum, antiquum, orthodoxum et rectum esse.
+^$Ideo enim in priore operis parte, quid prophetae et apostoli apostolicaque ecclesia de deo, eius invocatione et cultu
+senserit atque crediderit, ostendo. His oppono superstitionem, ubi dissero de primis caussis et initiis erroris apud gentes,
+Iudaeos et christianos. Neque ob aliud ibidem de gentium superstitionibus disputo copiosius, quam quod sub finem libri
+collationem subiicio inter superstitionem gentilium et christianorum, ut iam mox ab initio colliquescat id a nobis
+nulla fieri cum pietatis iniuria. In Iudaeorum superstitionibus et idololatriis declarandis ideo diutius immoror, quod ex illis
+quoque nostrae melius cognosci posse videban-<vl>2r.</vl>tur. Iam in inquirendis originibus nostrae superstitionis altius rem
+repetii. Excutio enim sanctorum quorundam patrum super hac re sententias, quibus tamen nolui, quod videri poterat, cornicum
+oculos, ut dici solet, configere<f1>die Alten als unwissend hinstellen; vgl. Adagia, 1, 3, 75 (LB II 140).<fe>, sed
+veritati patrocinari, quae sane omnium hominum ac patrum existimationi anteferenda est. Hoc consilio respondi etiam ad
+singulas adversariorum obiectiones, quas licet paucis, bona tamen fide recensui, bona fide item discussi, sed quam
+feliciter, iudicabunt lectores. Et haec quidem disputata hactenus concludo assertione invocationis divini nominis et
+intercessionis domini nostri Iesu Christi. Hic enim alter disputationis nostrae scopus est, solum deum per Christum unice
+esse in omnibus invocandum, non deos, non divos neque ullam quantumvis excellentem creaturam. Progredior amplius et dissero iam etiam de initiis et
+progressu idololatriae, quę dogma illud de intercessione, invocatione et cultu divorum sequuta est. Expono caussas,
+propter quas quibusdam videbatur imagines in templa christianorum esse recipiendas; his argumenta adiicio, quibus
+tuentur receptas. Ex opposito lege dei prolata et exposita, quae contra idola legitur promulgata Exodi 20[1-6], adversariorum
+argumenta dissolvo. Ubi ex historiis recenseo, quantum incendium excitarit in ecclesia Christi et quantum malum toti orbi
+christiano dederit infelix illa inter orientales et occidentales de usu imaginum Christi et sanctorum in christianorum templis
+concertatio<f1>In den Kapiteln 25 und 26 handelt Bullinger vom byzantinischen Bilderstreit des 8. Jahrhunderts und führt die
+Entstehung des von Byzanz getrennten abendländischen Kaisertums darauf zurück.<fe>. Postremo, cum adversarii omnes huc
+ceu ad sacram ancoram<f1>Vgl. Adagia, 1, 3, 43 (LB II 130).^&xrichtig: Adagia, 1, 1, 24 (LB II 35f)!^&x{<fe> confugiant, quod alia fuerit ratio in superstitione et idolorum
+cultu gentilium, alia in cultu divorum et imaginum apud christianos,
+ego collatione quadam demonstro eun-<vl>2v.</vl>dem esse cultum, superstitionem eandem deorum idolorumque apud gentes et divorum
+ac imaginum apud christianos. Hanc vero disputationem concludens tandem iustis caussis in medium prolatis ostendo, quantopere
+cavere oporteat idololatriam et omnem peregrinum cultum, quem dominus tantopere odit ac execratur. Qui certe alter huius
+disputationis nostrae status est, videlicet christiano homini constanti fide fugiendam esse omnem idololatriam, deum enim eum
+approbare cultum, qui spiritu, fide et integritate constat<f1>Vgl. Joh 4, 23f.<fe>.
+^$Hoc argumentum tractaveram ante annos propemodum 15 et chartis quibusdam per exercitationem imitationemque<fx>^#/+in der
+Vorlage^#/- immitationemque.<fe> Lactantii<f1>In der ungedruckten Erstfassung seiner Schrift lehnte sich Bullinger vor allem an
+die ersten zwei Bücher der "Divinae institutiones" von Laktanz an; vgl. Willy ^#/+Rordorf,^#/- Laktanz als Vorbild des jungen
+Bullinger, in: Bullinger-Tagung 1975. Vorträge, gehalten aus Anlass von Heinrich Bullingers 400. Todestag. Im Auftrag des
+Instituts für Schweizerische Reformationsgeschichte hg. v. Ulrich Gäbler und Endre Zsindely, Zürich 1977, S. 33-42.<fe>
+illeveram. Cumque ante annos 10 in illas forte incidissem et fratribus doctis et piis communicassem<f1>Es ist anzunehmen, daß Bullinger sein Werk Zwingli und Jud vorgelegt hat, doch läßt sich diese Vermutung nicht belegen.<fe>, videbatur iis
+operaepretium fore, si publicarem, profuturum enim, ut si non ad aliud, ad hoc saltem, quod mea lucubratione nobiliora ingenia
+excitari posse crederent, quae utile alias et necessarium nostris saeculis argumentum doctius et felicius tractarent. Feci
+tum, quod iubebant, et opusculum De origine erroris in divorum et simulachrorum cultu aedidi. Interea vero, quid alii quoque
+proferrent, expectavi, interea et huius argumenti in scripturis, patribus et historiis observavi plurima; tandem, cum nemo
+prodit, qui meliora proponat, in medium, opusculum illud<fx>^#/+in der Vorlage^#/- illum.<fe> meum denuo in manus
+sumo, recognosco adeoque et regenero. Crevit autem opus in ipsis, quod dici solet, manibus nostris<f1>Vgl. etwa Esr 5, 8.<fe>, et in tantum
+crevit, ut, si conferas cum priore, triplo prope excedat, imo prius illud nequaquam agnoscas. Argumentum quidem idem est,
+veritas eadem, neque vel tantillum in sententiae summa mutatum dicet, qui utraque conferet; diligentius, ni fallor, et copio-<vl>3r.</vl>sius nunc omnia tractavi. Neque id vituperabunt in me lectores aequi, qui hoc ipsum laudarunt in aliis.
+^$Dedicaram autem primam illam operis nostri foeturam nomini tuo<f1>Vgl. Bullingers Widmungsvorrede vom 4. Juni 1528 (HBBW I,
+Nr. 29).<fe>, Ambrosi clarissime, quam tu pro tua admirabili humanitate perbenigne recipiebas<f1>Vgl. Blarers Briefe vom 1. September 1528 und vom 11. August 1529 (HBBW I, Nr. 30, bzw.
+Nr. 32, S. 191, 21-25) sowie oben Nr. 1221, 1-30.<fe>, unde nunc quoque pergratum tibi fore credebam, si idem liber iam tamen aliquanto opulentior,
+cultior habitiorque sub tuo nomine prodiret denuo in publicum. Multi nimirum viri boni haec nostra non tam meo quam tuo nomine
+legent. Nam virtus tua commendavit te omnibus bonis vel apud exteras nationes illam praedicantibus. Praedicant illam celebres
+per Sveviam ecclesiae, ante alias vero in primis illustris et vere constans<f1>Wortspiel mit dem Namen der Stadt Konstanz.<fe> Constantiensis ecclesia, doctrina et fide sana,
+patientia invicta, puritate charitateque celebri multo clarissima. Lucubratio ipsa nil, opinor, impuritatis habet, imo
+in assertionem purae et syncerae religionis conscripta est; igitur non gravaberis huius mecum commune sumere patrocinium.
+Dominus Iesus adsit nobis et dirigat corda et ora nostra in gloriam nominis sui. Amen.
+</content>
+</letter>

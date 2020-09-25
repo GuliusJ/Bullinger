@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1378">
+<nr>1378</nr>
+<correspondents>
+	<originator>John Butler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>29. März 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 159 (Siegelspur)</vo>
+<re>[William] Peterson berichtet in seinem Brief vom 31. Januar, der am 24. Februar eintraf, nichts Neues; noch befindet sich
+England im bereits früher [Nr. 1361] geschilderten Zustand, aber es besteht Grund zur Hoffnung, daß sich die Lage bald
+stabilisiert. Der Schaden, den Peterson erlitten hat und über den er Bullinger bald selbst erzählen wird, ist
+selbstverschuldet und war vorhersehbar, denn kaum eines der aus Glarus gelieferten Hölzer hatte die geforderten Eigenschaften -
+vierkantig, drei Finger dick, sieben Fuß lang, astfrei und gehobelt -; Peterson wünscht, daß Bullinger - hoffentlich nicht schon zu spät - bei den Lieferanten interveniert. Grüße. Wundert sich, ob Bullinger die römischen Münzen wohl erhalten hat.
+</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 407f, bzw. Original Letters II 628f, Nr. 289.]
+</content>
+</letter>

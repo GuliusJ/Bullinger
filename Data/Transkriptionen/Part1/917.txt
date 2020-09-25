@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="917">
+<correspondents>
+	<originator>(*Werner Beyel*)</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>(*28. November 1536*)+1</date>
+</space_time>
+<record>Autograph+a: Zürich StA, E II 341, 3526r. (ohne Siegel)</record>
+<print></print>
+<statue>
+Bullinger wird aus der mitfolgenden Schrift den Wunsch Biberachs
+(*nach einem Pfarrer*) und die Antwort des Zürcher Rates ersehen;
+bittet, einen allfälligen Anwärter zu nennen.
+</statue>
+<content>
+Lieber M. Heynrich, uss diser schrifft werden ir deren von Bibrach
+begeren unnd darüber miner herren anndtwurt vernemmen+2.
+Darumb, ob ir eyn sollichen man wisstind ald
+vernämind, mogent ir den minen
+herren anzoygen. Die werdent dann wyter darinn handlen, damit gemelten+3
+von Bibrach eyn anndtwurt werde.
+<signature>
+Uwer williger
+stattschryber.
+(*Ohne Adresse.*)
+</signature>
+</content>
+<note>
+<print>
++a>Die vorliegende Kurzmitteilung wurde von Stadtschreiber Beyel
+auf der ersten Seite des Bullinger übersandten
+Schriftstückes
+(vgl. unten Anm. 2), am unteren Rand, angebracht.
+</print>
+<address>
++1>Unmittelbar nach der Abfassung des Briefes an Biberach
+geschrieben (vgl. die folgende Anm.).
++2>Das von Beyel geschickte Schriftstück enthält: die Kopie eines
+Briefes von Biberach an Zürich, 7. Nov. 1536, in dem die Biberacher
+von Zürich einen Pfarrer erbitten (Original:
+Zürich StA, E II 341, 3526r.-v.); die
+Kopie des Antwortschreibens von Zürich, 28. Nov. 1536, in dem
+der Rat zu bedenken gibt, dass er bereits Pfarrer an Georg von
+Württemberg und an Basel abgetreten habe, dass er das Begehren aber
+dennoch seinen Gelehrten vorlegen werde (Original: ebd.,
+3526v.- 3527r.).
++3>den Erwähnten.
+;---------------------------------------------------------------------
+</address>
+</note>
+</letter>

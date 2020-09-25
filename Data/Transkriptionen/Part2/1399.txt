@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1399">
+<nr>1399</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>28. Mai 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 176 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 46</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 51, Nr. 873</dr>
+<re>Empfiehlt nochmals Hieronymus [...] von Siena, der später als geplant nach Bern reist, nachdem er 22 Tage bei
+ihm war. Dankt für den Brief [Nr. 1398] und für die Rücksendung der Akten des Tags zu Schmalkalden. Hofft, daß Bullinger und
+Bucer miteinander ins Reine kommen, und will diesem auch selbst schreiben. [König] Ferdinand ist in Hagenau; das nach Speyer
+einberufene [Religionsgespräch] ist wegen einer Seuche dorthin verlegt worden; Aufruf zum Gebet. Grüße.
+</re>
+<tx>S. Commendabam tibi nuper Hieronymum hunc Senensem<f1>Siehe oben Nr. 1395, 22-25.<fe> presbyterum exulem idque epistolio,
+quod Michael<f1>Michael Adam.<fe> Hebreus vester tibi, non dubito, reddidit. Verum iniectae tum illi sunt remorę
+quędam, ut nunc primum iter hoc ingredi licuerit. Tu, mi omnibus modis observande Bullingere, homini ad­esto, ut, qua
+potest commoditate, Bernam proficiscatur. Mecum fuit 22 diebus, nec quicquam in illo a bono viro alienum deprehendi, ut non
+dubitem Christo factum, quod in hunc fuerit collocatum<f1>Vgl. Mt 25, 40.<fe>, hominem non uno tantum nomine miserum. Nolo te
+vel isto vel quoquam gravare, nisi quantum flagitat summa necessitas; poteris mox Bernam vel solum aut cum comitibus, si
+forte fortuna sint aliqui, mittere.
+^$Accepi hoc ipso momento gratissimas literas<f1>Oben Nr. 1398.<fe> tuas cum actis
+Schmalk[aldicis]<f1>Siehe ebd., bes. Z. 2-24.<fe>, nec opus erat tam multis tamque magnifice gratias agere iis, qui toti tui
+sunt et quibus pro charitatis et authoritatis tuę iure imperare etiam possis.
+^$De Bucero quę scribis<f1>Siehe ebd., Z. 25-43.<fe>, supra modum nos excruciant, nisi quod speramus non porro serpturum,
+quicquid hoc fuit mali. Nihil huius a quoquam rescire nobis licuit ante eum diem, quo proximum ad te epistolium<f1>Oben Nr. 1397.<fe> dedi, nec
+serum esse puto, si vel nunc in gratiam alter cum altero redeatis, id quod ut fiat, et precabimur assidue dominum et alia
+quoque concordię huic conducibilia pro nostra virili tentabimus; cras enim aut perendie ad Bucerum nobis scribendum
+alias ob caussas fuerit<f1>Ein entsprechender Brief ist nicht vorhanden.<fe>, atque tum istuc quoque bona fide agemus.
+^$Ferdinandus Hagenoę iam est, ubi, quod Spyrę agendum
+erat, agetur<f1>Das von Speyer nach Hagenau verlegte Religionsgespräch kam über Verfahrensfragen nicht hinaus und
+endete am 28. Juli mit der Ankündigung einer weiteren Zusammenkunft in Worms am 28. Oktober. Die reformierte
+Eidgenossenschaft war in Hagenau nicht vertreten; sowohl Zürich als auch Bern hatten die Teilnahme abgelehnt (s. unten Nr. 1400,
+Anm. 1). Vgl. auch unten Nr. 1412, 5-43; 1414, Anm. 1 u. ö. - Lit.: ADRG I; ^#/+Ortmann,^#/- Reformation 113-126; Karl Heinz ^#/+zur Mühlen,^#/- in: LThK^#'3 IV 1141f.^&xAthina ^#/+Lexutt,^#/-
+Rechtfertigung im Gespräch. Das Rechtfertigungsverständnis in den Religionsgesprächen von Hagenau, Worms und Regensburg
+1540/41, Göttingen 1996. - Forschungen zur Kirchen- und Dogmengeschichte 64, S. 32-38; Luttenberger, Glaubenseinheit und Reichsfriede (1982) 206-218 ^&x{<fe>; nam Spirę lues ista
+exitialis, quę nunquam fere illic cessat, crudelius solito in aliquos desęvit, quos etiam inclementer ac praeter morem
+abripuit. Nos, quod vel unum vel praecipuum possumus,
+dominum precemur, ut omnium utrinque pectora in studium
+glorię nominis sui et publice tranquillitatis accendat.
+^$Bene vale, charissime frater et si quis charior charissimo
+esse potest. Uxorem<f1>Anna, geb. Adlischwyler.<fe> cum optimis, qui tecum sunt, viris et fratribus accurate et officiosissime
+saluta. Salutem tibi adscribere iubent nostri. Iterum et ęternum vale.
+^$28. maii anno 1540.
+<un>Tuus vere ab intimis pectoribus A. B.
+<lz>[Adresse auf der Rückseite:] Praestantissimo pietate
+et eruditione virod. Heinricho Bullingero, Tiguricensi
+episcopo, domino ac fratri cum primis observando atque
+charissimo.
+</content>
+</letter>

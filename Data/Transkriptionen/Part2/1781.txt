@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1781">
+<nr>1781</nr>
+<correspondents>
+	<originator>Johannes Caesarius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Köln</place>
+	<date>29. August [1543]</date>
+	<note>Das Jahresdatum ergibt sich aus der Erwähnung der im vergangenen Winter erschienenen lateinischen Bibelübersetzung "Biblia sacrosancta" (vgl. unten Z. 28-33 mit Anm. 9).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 361, 122 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 55, 135<f1>(datiert auf 1544); undat. Brief 221<fe></vo>
+<dr>Gedruckt: ^#/+Krafft^#/- 128f</dr>
+<re>Ist sich über die genaue Identität Bullingers im Unklaren, da zur selben Zeit, als dieser Caesarius' Vorlesungen besuchte, ein Heinrich aus Waldshut [Johann Heinrich Scherer] in Köln studierte, der Caesarius nach Münster folgte, als [1519] die Pest ausbrach; sein Gedächtnis lässt nach, und es fällt ihm schwer, seine Gedanken exakt zu Papier zu bringen, wie Bullinger unschwer an diesem Schreiben erkennen kann. Hat die im vergangenen Winter erschienene Bibelübersetzung ["Biblia sacrosancta"] auf seine Aufforderung hin genau studiert und weiterempfohlen; der [Dom-]Dekan [Graf Heinrich von Stolberg-Wernigerode] und Graf [Hermann] von Neuenahr haben das Werk erworben; erwartet begierig Bullingers Lukaskommentar. Es wurden evangelische Prediger in die Städte der Diözese Köln gesandt, um das Evangelium zu verbreiten, doch die Kölner sperren sich dagegen. Grüße.</re>
+<tx>Salutem in Christo Iesu, domino et servatore nostro.
+^$Vellem certo scire, quisnam ipse sis, hoc est, quisnam sit
+Henrichus ille<fx>ille ^#/+am Rande nachgetragen^#/-.<fe> Bullingerus, qui tam honorifice me et salutare
+iubet et donat libris suę sane eruditę lucubrationis
+non paucis.<f1>Zu Bullingers Buchgeschenken an Caesarius vgl. oben Nr. 1726, 2-5 mit Anm. 2.<fe> Unde et hanc ob causam bona ex parte apud me iam
+dudum constitui, uti Francofordiam concederem<fx>uti Francofordiam concederem ^#/+am Rande nachgetragen^#/-.<fe>, ut ex
+Fro­­e­­schovio<f1>Christoph Froschauer.<fe> tandem<fx>^#/+Vor^#/- tandem ^#/+ein gestrichener Wortanfang.^#/-<fe> certam ac veram tui cognitionem habere
+possem. Erat per id fere temporis (ni fallor), quo tu
+Colonię meus eras auditor<fx>quo tu
+Colonię meus eras auditor ^#/+am Rande nachgetragen^#/-.<fe>,<f1>Bullinger hatte 1519-1522 in Köln studiert; vgl. Fritz ^#/+Büsser,^#/- Heinrich Bullinger (1504-1575). Leben, Werk und Wirkung, Bd. I, Zürich 2004, S. 12-26.<fe> Henricus<f1>Gemeint ist wohl Johann Heinrich Scherer von Waldshut, der sich am 20. Oktober 1516 in Köln immatrikulierte, nachdem er im Vorjahr in Leipzig studiert hatte, s. Leipzig, Matrikel I 541, Nr. 103; Köln, Matrikel II 771, Nr. 512, 14.<fe> quidam ex hisce quoque regionibus cognomento, si recte teneo, Walss­huett,
+studiosus quidem satis, at, ut mihi videbatur, ingenio non
+tanto, ut ad eam non solum divinarum literarum
+intelligentiam, sed et insuper ad<fx>ad ^#/+über der Zeile nachgetragen.^#/-<fe> humanarum literarum
+cognitionem, quas tu probe tenes, pervenire mihi videretur
+potuisse. Sed "labor omnia vincit improbus"<f1>Vergil, Georgica, 1, 145f.<fe>. Quare rem facies
+mihi<fx>mihi ^#/+am Rande nachgetragen^#/-.<fe> gratissimam, si certis indiciis mihi indicaveris statum
+tuę personę. Idem Henrichus cognomento Walsshuett, cum
+per id temporis pestis Colonię plurimum grassaretur<f1>Gemeint ist der Ausbruch der Pest in Köln im Winter 1519, vgl. ^#/+Krafft^#/- 129.<fe> atque
+ego proinde Colonia discedens Monasterium in Westphaliam
+proficiscerer, ille me non multo post secutus est<fx>est ^#/+über der Zeile nachgetragen.^#/-<fe> atque
+inibi mansit mecum, donec tandem iter Coloniam versus
+adornaremus. Iam habes, unde de tua persona dubitatio mihi
+suborta sit. Profectus iam ipse (ut dicere coepi) eam magna
+ex parte ob causam Francofordiam essem<fx>essem ^#/+über der Zeile nachgetragen.^#/-<fe>, nisi corporis
+imbecillitas et virium debilitas obstitisset, atque memoria
+quoque tam est mihi fluxa ac lubrica, ut non amplius mihi
+consultum videatur in humanioribus studiis versari, sed
+tantummodo id, quod superest temporis, in sacris transigam.
+Unde etiam fit, ut in literis scribendis minus aptus sim,
+quippe, quę animo concipio, calamo integre ac perfecte
+exprimere nequeam, id quod in hisce ad te literis facile
+perspicias. Cogor tamen crebro literas dare ac scribere ad
+amicos, qui ad me quotidie prope scribunt, nunc hic, nunc ille.
+^$Quod me novissimis literis tuis<f1>Nicht erhalten.<fe> commonefeceris, ut Biblia, [quae]<fx>^#/+Fehlt in der Vorlage.^#/-<fe>
+anno superiori, imo hyeme superiori ex Iudę
+translatione edita sunt,<f1>Gemeint ist die von Leo Jud begonnene und nach seinem Tod 1542 von den Zürcher Gelehrten vollendete lateinische Bibelübersetzung "Biblia sacrosancta" (BZD C 319f). Sie erschien im Frühling 1543, kurz nachdem Bullinger im Februar das Vorwort verfasst hatte (s. HBD 31, 26-28; Pellikan, Chronikon 156).<fe> perspicerem ac perspecta
+commendarem quam plurimis, id sane feci quam diligentissime.
+Quo factum est, ut et decanus<f1>Domdekan war Graf Heinrich von Stolberg-Wernigerode (vgl. oben Nr. 1766, Anm. 37), ein ehemaliger Zögling von Caesarius (vgl. ^#/+Krafft^#/- 35).<fe> apud nos in summo templo meo
+hortatu emerit sibi illa et item comes Nuenarius<f1>Graf Hermann der Jüngere von Neuenahr (Nu­­e­­nar) und Moers, geb. 1519 oder 1520, gest. 1578, war Schüler von Caesarius und ein anerkannter Humanist, leistete aber 1542-1544 auch Kriegsdienst für Kaiser Karl V. und wurde später von Kaiser Maximilian II. zum Rat ernannt. In seinen letzten Lebensjahren hielt sich Caesarius öfter für längere Zeit bei ihm in Moers auf (vgl. ^#/+Krafft^#/- 36. 137). Als regierender Fürst setzte Graf Hermann ab 1552 die Reformationstätigkeit seines Vaters Graf Wilhelm fort; 1560 führte er in Moers eine evangelische Kirchenordnung ein. - Lit.: Heiner ^#/+Faulenbach,^#/- Die Bußpsalmen des Grafen Hermann von Neuenahr, Neukirchen-Vluyn 1972; [Max] ^#/+Lossen,^#/- in: ADB XXIII 486-488; Hugo ^#/+Altmann,^#/- in: NDB XIX 109.^&xNicole ^#/+Kuropka,^#/- Wilhelm von Neuenahr (gest. 1553). Ein vergessener Botschafter der Reformation, in: Monatshefte für evangelische Kirchengeschichte des Rheinlandes 52, 2003, S. 49-65.^&x{<fe> et nonnulli alii ex vulgo [et]<fx>^#/+Fehlt in der Vorlage.^#/-<fe> doctis hominibus.
+Cęterum commentaria tua in Lucam avidissime expecto non
+ego tantum, sed et alii complures.<f1>Caesarius hatte Bullinger in seinem Schreiben vom 1. März [1543] aufgefordert, einen Kommentar zum Lukasevangelium zu verfassen, vgl. oben Nr. 1726, 12-14.<fe>
+^$Evangelicum negotium apud
+nos per diocoesim Coloniensem passim divulgatur, atque
+concionatores undique colliguntur, qui in oppida ipsius
+dio­coeseos mittantur;<f1>Vgl. das Verzeichnis evangelischer Prediger im Erzstift Köln in ^#/+Krafft^#/- 130 sowie bes. Stephan ^#/+Laux,^#/- Reformationsversuche in Kurköln (1542-1548). Fallstudien zu einer Strukturgeschichte landstädtischer Reformation (Neuss, Kempen, Andernach, Linz), Münster 2001. - Reformationsgeschichtliche Studien und Texte 143.<fe> sed Colonienses hactenus restitant, id quod monachorum turba et theologorum factio maxime molitur. Sed dominus dabit gratiam.
+^$Superest, ut mihi te tuis quoque coloribus depingas, sed
+quid<fx>sed quid ^#/+am Rande nachgetragen für gestrichenes^#/- sed[?].<fe> est depingas, nisi characteribus plausibilioribus
+exprimas. Vix literarum tuarum versum unum atque alterum
+legere possum. Bene vale.
+^$Colonię, ipso die decollationis Ioannis Baptistę.
+<un>Ioannes Cęsarius, ex animo tuus.
+<lz>[Adresse auf der Rückseite:] Ornatissimo nec non et
+humanissimo viro Henricho Bullingero, concionatori apud
+Tigurum celeberrimo, amico suo optimo et prope
+incomparabili. Ad manum Froeschovii typographi.
+</content>
+</letter>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1998">
+<nr>1998</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Martin Bucer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>29. September 1544</date>
+</space_time>
+<vo>Entwurf oder korrigierte autographe Abschrift: Zürich StA, E II 347, 297 (ohne Siegel)</vo>
+^&xK: Zürich ZB, Ms S 55, 193; Straßburg BNU, ms. 674 (Th. B. 15), 102; Zit.: F. Rudolf, Erstausgabe von Zwinglis Werken, in: NZZ 16. und 17. Juni 1945, Nr. 941 und 946; Zwa 8, 166; ^#/+Pollet,^#/- Bucer II 295, A 3-4.^&x{
+<dr>Ungedruckt</dr>
+<re>Nimmt seine Mahnung [Nr. 1977] mit Dank und ruhigem Gewissen entgegen und wundert sich, dass Luther wegen der noch gar nicht erfolgten Veröffentlichung von Zwinglis Werken erzürnte; da [die Zürcher] zu den Angriffen auf Zwingli in den Schriften Luthers und seiner Anhänger sowie zu Luthers Brief an Froschauer [vom 31. August 1543] geschwiegen haben, können sie nicht als Urheber des neuen Streits gelten, doch nun müssen sie Luther entgegentreten, auch wenn sie es ungern tun und Zurückhaltung üben werden; mit Gottes Hilfe wollen sie den rechten Glauben gegen den Papst, Luther, Schwenckfeld, die Täufer und andere verteidigen, wobei das Urteil darüber der Kirche anheimgestellt bleibt. Bittet um wohlwollende Aufnahme dieses Schreibens und um Fürbitte. Grüße.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Adeo non offendit me tua illa admonitio fraterna,<f1>Bullinger bezieht sich auf Bucers Brief vom 9. September 1544 (oben Nr. 1977).<fe> ut magis
+pro ipsa tibi, Bucere dilecte, gratias agam. Consolatur
+interim nos nostra conscientia, quae sibi nullius criminis
+ea in re conscia tranquille agit.<f1>Vgl. 2Kor 1, 12.<fe> Ac mirum est, quomodo per
+opera Zvinglii in nos potuerit inflammari Lutherus<fx>Lutherus ^#/+am Rande nachgetragen.^#/-<fe>, cum nondum sint vulgata.<f1>Bucer hatte die geplante Neuausgabe der Werke Zwinglis kritisiert; s. oben Nr. 1977, 9-12 mit Anm. 6.<fe> Si vulgatio eorum librorum, quos illi
+effuderunt in certamine de coena, iustam pugnandi causam
+suppeditat, iustas ob causas nos instaurassemus pugnam
+ante annos aliquot, cum libri contra Zvinglium scripti a
+Luthero vel suis saepius<fx>vel suis saepius ^#/+über der Zeile nachgetragen.^#/-<fe> sint recusi. Quid, quod in singulis
+fere libris a certamine illo editis Zvinglium Lutherus
+notavit? Id quod ex ipsis libris demonstrare licebit.
+Praeterea nosti, quae scripserit de nobis ad Froschouerum.<f1>Bullinger hatte Bucer den Brief Luthers an Christoph Froschauer vom 31. August 1543 (WA Briefwechsel X 384-388, Nr. 3908) wörtlich mitgeteilt; s. HBBW XIII 282f, 67-82.<fe>
+Scis, quam obstinate ad illa omnia compresserimus et ora et
+calamum. Proinde non sumus reparatae pugnae authores. Nihil
+nunc dico, quales nos in sarciendae concordiae negotio
+praestiterimus. Non metuimus Lutherum, rursus non
+contemnimus. Non descendimus libenter cum illo in harenam,<f1>Vgl. Adagia 1, 9, 83 (ASD II/2 396, Nr. 883).<fe>
+rursus non fugiemus trepidi, sed alacres, bonitati causae
+freti et superno muniti auxilio summa cum modestia
+respondebimus homini, siquidem illi respondendum erit. Certo
+novimus nos tenere catholicam et orthodoxam fidem, doctrinam
+et religionem; hanc deo iuvante ad extremum usque spiritum
+contra papam, Lutherum, Schvenkfeldium, anabaptistas et
+caeteros eius generis<fx>^#/+In der Vorlage^#/- id genus.<fe> cervicosos doctores confitebimur. Noli
+aegrius ferre, quod Lutherum illis annumero. Nam si ille
+perrexerit nostram doctrinam, quae pietatis est, oppugnare<fx>^#/+Vor^#/- oppugnare ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe>,
+illum<fx>illum ^#/+am Rande nachgetragen.^#/-<fe> non possumus non inter illos numerare, quatenus scilicet oppugnat veritatem. "At nondum evicistis", ais, "vos
+tenere et tueri veritatem." Iudicet ecclesia, quae etiam
+intelliget, cuius vitio pugna haec reparata sit.
+^$Oro te, mi frater, ut haec quoque nostra benigne consulas et ores pro
+nobis dominum, in quo solo omnis spes nostra figitur.
+^$Vale cum omnibus tuis. Salutant te fratres.
+^$Tiguri, 29. septembris anno 1544.
+<un>H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Martino Bucero, domino et fratri colendo atque dilecto. Straßburg.
+</content>
+</letter>

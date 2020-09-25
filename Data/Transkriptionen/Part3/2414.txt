@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2414">
+<brief>
+<id>16102</id>
+<nr>2414</nr>
+<ae>Johannes Blasius an Bullinger</ae>
+<od>Chur, 7. April 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 330 (Siegelspur)</vo>
+<dr>Druck: <a>Graubünden, Korr.</a> I 93f, Nr. 68<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 9; Erw.: Schieß: Rhetia von F. Niger, Chur 1897, S. 27</k></dr>
+<re>Erneut kommt [Johannes Travers d.J.], der Sohn von Johannes Travers d.Ä., zum Studium nach Zürich. Blasius empfiehlt ihn auf Wunsch von dessen Vater, der wegen seiner vielen Arbeit nicht zum Schreiben kam. Bullinger soll Otto [Werdmüller] fragen, ob Travers d.J. wieder als Kostgänger aufgenommen werden könnte, da Vater und Sohn das sehr wünschen. Bullinger soll mitteilen, was [Werdmüller] dafür verlangt. Sollte dieser Travers d.J. nicht aufnehmen können, soll Bullinger den Jungen an einem anderen Ort unterbringen.
+<t/>Aus Italien kommt das Gerücht, dass Marchese [Alfonso d'Avalos], Gouverneur von Mailand, dieser Tage gestorben ist.
+<fn>Alfonso d'Avalos, Marchese del Vasto (Guasto), starb am 31. März 1546 in Vigevano (Prov. Pavia); s. <a>DBI</a> IV 616.<zfn>fn2414-1</zfn></fn>
+<t/>Grüße an Bullinger und seine Familie. [Johannes] Comander, Bürgermeister [Luzi] Heim und [Johannes] Pontisella lassen grüßen. Möglicherweise wird Blasius sich bald wieder [mit einem Schreiben] an Bullinger wenden.
+<t/>[P.S.:] Als Blasius den Brief schließen wollte, kam der um das Evangelium verdiente Francesco Negri zusammen mit seinem Sohn [Giorgio?]
+<fn>Vermutlich Giorgio Negri; s. <a>Graubünden, Korr.</a> I LXIIf.</fn>, den er nach Zürich begleitet, und bat ebenfalls um eine Empfehlung für diesen. Negri wird selbst ausführen, dass er für die Kosten dieses Studiums nicht aufkommen kann, und darlegen, was er erwartet. Bullinger soll nach Möglichkeit helfen.</re>
+<textweg>
+<p>Ioannes Blasius d. H. Bullingero suo s.</p>
+<p>Salve, vir colendissime.</p>
+<p>En denuo ad vos gracia studiorum venit Ioannes, Traversii nostri filius
+<fn>Johannes Travers d.J. und d.Ä.</fn>, quem tibi ut meis literis com[m]endam, rogavit me eius pater, ne omnino sine literis ad te redeat, ─ nam is negociis ita tum erat occupatus, quod tibi scribere non potuit ─, quamvis nihil dubitamus eundem tibi eciam absque meis literis esse com[m]endatissimum. Nihilominus voluit paucula h{e}c ad te per me scribi, quare tuum fuerit eiusdem gracia d[ominum] M[agistrum] Othonem
+<fn>Otto Werdmüller.</fn> (si eum denuo in convictorem recipere vel[it]) convenire; nam id cum pater, tum et filius impense exoptant; quid vero illis pro sumptibus exponendum erit, tuum fuerit pronuncciar[e]. Sin minus, fac, alio[!] tua opera ex studiosorum numero adiungatur, etc.</p>
+<p>Vale.</p>
+<p>Nova ex Italia nulla, praeter quod rumor incertus fert marchionem de Quasto
+<fn>Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter zu Mailand.</fn>, Mediolanensem gubernatorem, hisce diebus nature concessisse.</p>
+<p>Iterum vale cum honestissima tua familia per deum, qui vos omnes diu conservare dignetur. Amen. Te salutat Comander, Heymius consul
+<fn>Luzi Heim.</fn>, Pontisella virique boni omnes. Salutarem te nomine meo ipse, sed brevi te compellare arbitror.</p>
+<p>Raptim, Curie, 7. idus appriles[!] anno 1546.</p>
+<un>Idem tuus ex animo, etc.</un>
+<lz/>
+<p>En has volens concludere literas venit d. Franciscus Niger una cum filiolo
+<fn>Giorgio Negri? (zu weiteren, wohl erst später geborenen Söhnen vgl. Bonorand, Reformatorische Emigration, S. 55 [Cyprianus] und 149 [Francesco].).</fn>, quem eciam Tigurum ducturum asserebat, pro quo ad te ut scriberem enixe rogitans, quod negare haud licuit. Nam est vir (ut nosti) et doctus et pius et in re evangelica optime meritus; attamen non habet, unde suis impensis possit filium Tiguri alere, quemadmodum ipse coram (et quid sibi fieri velit) exsponet[!]. Quare te per dominum rogamus, quo illi, si ullo modo ac com[m]ode fieri potest, succurrere dignaberis, etc.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo iuxta ac piissimo d. H[einricho] Bullingero, catholic{e} religionis vindici constantissimo ecclesieque Tigurinae antistiti fidelissimo, domino et fratri suo colendissimo.</p>
+</textweg>
+</brief>

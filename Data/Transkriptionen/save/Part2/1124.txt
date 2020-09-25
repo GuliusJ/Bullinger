@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1124">
+<nr>1124</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Niklaus von Wattenwyl</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>4. Mai 1538</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms A 51, 20, Nr. 14 (Siegelspur)</vo>
+<vo>Simler hat zwei Abschriften</vo>
+<vo>eine beruht auf einer Kopie [Joh.] Wernhard Hubers in der Basler Bibl. (= Basel UB, Ms G S 2. I ...)</vo>
+<dr></dr>
+<re>Empfiehlt Calvin und Farel, über deren Anliegen Erasmus [Ritter] Auskunft geben kann, und bittet ihn, sich bei seinen Bekannten im [Berner] Rat für sie einzusetzen.
+</re>
+<tx>[Gedruckt: CO X/2 195, Nr. 114; Corr. des réformateurs V 9f, Nr. 710.]
+^&xGratiam et pacem.
+^$Quamvis annis iam aliquot nihil scripseris, de animo tamen
+in me tuo, amico inquam, plane non dubito; quocirca veteri
+fretus familiaritate, audeo negotia tua interturbare et ex
+animo a te petere sanctis hisce viris dei, Calvino et
+Pharello, adsis. Zelum habent nimium, sed viri sancti et
+docti sunt, quibus permultum censeo donandum esse. Erasmus
+poterit tibi ipsorum explicare causam. Vide ne desis, verum
+iuves interpellando et obsecrando quos nosti senatores.
+Christus dominus rependet tibi in die iudicii. Commenda me
+tuis, quos semper colui et etiamnum magni facio, quantum mea
+parvitate possum. Vale cum tuis.
+^$4. maii 1538.
+<un>Heinrychus Bullingerus.
+<lz>[Adresse .....:] Clarissimo viro domino
+Nicolao a Wattenwyl, Bernati, domino suo colendissimo.^&x{
+</content>
+</letter>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2177">
+<nr>2177</nr>
+<correspondents>
+	<originator>Eberhard von Rümlang</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Bern]</place>
+	<date>12. Juni 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 305 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&x Kopie 18. Jh.: Zürich ZB, Ms S 57, 128 ^&x{
+<re>Auch wenn Rümlang u.a. mit einem schwerkranken Jungen [...] und einer kränkelnden Frau [...], die auf Badekur ist, vom Teufel geplagt wird, will er diesem Boten [...] ein Lebenszeichen mitgeben, zumal Bullinger ihn der Unbeständigkeit verdächtigt, was Rümlang bedauert.
+-^#. Der Abendmahlsstreit ist [in Bern] fast erloschen. Die Gegner nehmen nur noch auf verhüllte Weise darauf Bezug. Sie versuchen, anhand neuer Bräuche ihren heimlichen Lutheranismus zu fördern; doch wurde unterdessen ihre List aufgedeckt.
+-^#. Der Kleine Rat würde sich entzweien, wenn er über das [Abendmahl] diskutieren würde. Deshalb hat er auch nicht auf das ["Warhaffte Bekanntnuß"] der [Zürcher] reagiert. Viele lesen jedoch dieses Büchlein, und es findet großen Gefallen.
+-^#. Grüße an die Freunde.</re>
+<tx>Gratia et pax a domino et salvatore nostro Iesu Christo.
+^$Tametsi valde sum<fx>^#/+In der Vorlage^#/- suum.<fe> turbatus a morbo filiole<f1>Unbekannt.<fe> capitali, quo laborat, et uxoris<f1>Unbekannt.<fe> absentia,
+quae iam thermis se pristinam valetudinem recuperaturam sperat, quę et illi graviter
+labefacta fuit, ut praeteream<fx>^#/+In der Vorlage^#/- praeteram.<fe> alia, quę et privatim et publice me impugnant,
+non tamen committere volui, ut his nuncius<f1>Unbekannt.<fe> vacuus ad te rediret, ne suspiceris mentem meam mutatam.
+Dolet, quod me tam inconstantem et leviculum verearis<fx>verearis ^#/+nach gestrichenem^#/- suspi[caris].<fe>.<f1>Vgl. oben Nr. 2135, 4f. - Bullinger hat vielleicht dem schweigenden Rümlang noch einen weiteren Brief nach dem 14. April geschrieben, in dem er dessen Standhaftigkeit ausdrücklich bezweifelte.<fe> Utcunque me<fx>^#/+In der Vorlage^#/- ne.<fe> satan cribrat,<f1>Vgl. Lk 22, 31.<fe> dominus tamen, fulcrum meum, me sustentat.
+^$Propemodum sopita est apud nos disceptatio sacramentaria,<f1>Vgl. schon oben Nr. 2061, 9f.<fe> ut, qua parum promoverunt, obtecte tantum loquantur, ut non nisi acuti capiant.
+At alia via ceremonias urgent et Lutheranismum obnubilant.<f1>Sie befürworteten nämlich die Austeilung des Abendmahls an Kranke und Sterbende in deren Häusern; s. oben Nr. 2082, 5-20; ^#/+Hundeshagen^#/- 196f. 387-389 (hier die entsprechende Stelle aus Stettlers Berner Chronik).<fe> Sed dolus deprehenditur, ut confidam ipsos succubituros.
+^$Senatus minor in duas partes dissectus, si de hoc negotio quid tractandum sit.
+Ideo suspendunt ea<fx>ea ^#/+über der Zeile nachgetragen.^#/-<fe> et sese mutuo timent, nam adversus se invicem excandescunt.
+Ideo et de vestro libello<f1>Die Antwort der Zürcher auf Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 9.<fe> tacetur et nihil rescribitur,<f1>Vgl. oben Nr. 2135.<fe> tametsi a plurimis ematur et legatur; et placeat plurimum.
+^$Salutabis omnes bonos amicos, quibus me commendabis ubique inprimis. Vale optime.
+Datum raptim, 12. iunii anno 1545.
+<un>Tuus Eber. a Rumlang.
+<lz>[Adresse auf der Rückseite:] Vigilantissimo fidelissimoque virod. Heinricho Bullingero, pastori Tigurinę ecclesię primario, patrono suo semper observando.
+</content>
+</letter>

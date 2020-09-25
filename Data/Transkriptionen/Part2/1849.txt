@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1849">
+<nr>1849</nr>
+<correspondents>
+	<originator>Johannes Calvin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>17. Februar 1544</date>
+</space_time>
+<vo>Autograph: BGE, Ms. lat. 106, 100 (Siegelspur)</vo>
+^&xK: Genf BGE, Ms. lat. 111, 85; Bern StA, B III 62, 568f; Zürich ZB, Ms S 54, 40^&x{
+<re>Berichtet in Antwort auf Bullingers Brief [Nr. 1799], wie der Konflikt zwischen Bern und Genf ausgegangen ist: Obwohl er selbst die Hoffnung mehrmals fast aufgegeben hätte, da der zweite Schiedsspruch der Basler [vom 24. August 1543] den Genfern noch mehr Zugeständnisse abverlangte als der erste [vom Januar 1541], wurde nun nicht nur Frieden, sondern höchste Eintracht erreicht. Grüße an Pellikan, Theodor [Bibliander], Megander, Gwalther und die übrigen [Zürcher Theologen]. [Nachschrift:] Auch Calvins Kollegen lassen grüßen.
+</re>
+<dra>[Gedruckt: ^#/+Hundeshagen^#/- 367f<fx>^#/+Nach einer Abschrift in Bern StA, B III 62, 568f.^#/-<fe>; CO XI 677f, Nr. 532; Corr. des réformateurs IX 166f, Nr. 1330; englische Übersetzung: Letters of Calvin I 381f, Nr. CXIV.]</dra>
+^&x Ausg. Philadelphia 1858: S. 405f ^&x{
+^&xLit.: Hundeshagen, Conflikte 186^&x{
+^&xNondum tuis literis respondi, quibus me admonebas,
+quantopere necesse esset controversias, quae tunc inter
+Bernates et nostros agitabantur, amica transactione componi
+meque rogabas, ut constanter, quod liceret, me interponerem,
+ne dissidium utrique parti inutile tam alieno tempore
+ulterius serperet. Tametsi autem sponte currentem illic
+incitabas, non parum tamen me iuvit, quum hoc saxum diu
+frustra volvendo iam propemodum fatigatus essem, novo hoc
+stimulo impelli, ne prius desisterem, quam res confecta
+foret. Atque ut melius scias, quantum tuae et aliorum
+hortationes mihi profuerint: Parum abfuit, quin plus decies
+animum desponderem. Non sine magna difficultate fuerat
+effectum, ut prior sententia, quam tulerant Basileenses, hic
+reciperetur. Secunda plus mihi exhibuit molestiae; nam et
+plus in ea concessum Bernatibus fuerat, et nostri, qui iam
+officio perfunctos se esse iudicabant, praestabant se
+aliquanto duriores. Itaque non leviter sudare me oportuit,
+quanquam parum abfuit, quin totus meus labor irritus
+caderet. Sed quum iam vix laetum exitum sperare auderem,
+dominus ex insperato nobis mirabiliter affulsit. Nunc ergo
+dei beneficio non pacem modo, sed summam quoque concordiam
+habemus, quam firmam fore confido.
+^$Vale, eruditissime vir et frater mihi in domino carissime.
+Saluta reverenterd. Pellicanum, Theodorum, Megandrum,
+Gvaltherum et reliquos fratres. Dominus vos omnes suo
+spiritu semper gubernat!
+^$Genevae, 17. februarii 1544.
+^$Collegae mei vos omnes salutant.
+<un>Ioannes Calvinus tuus.
+<lz>[Adresse .....:] Ornatissimo viro et
+eximia eruditione praeditod. Henricho Bullingero, Tigurinae
+ecclesiae pastori, fidelissimo fratri et amico colendissimo.^&x{
+</content>
+</letter>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1441">
+<nr>1441</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee fn=1>die Pfarrer von Basel</addressee>
+	<addressee>Zürich</addressee>
+	<note fn=1>Da der Brief an die Basler Pfarrer (unten Z. 1-74) ausdrücklich zur Weiterleitung an die Pfarrer von Zürich bestimmt war (s. unten Z. 69 sowie die gemeinsame Adresse, Z. 121f), wird er hier mit abgedruckt. Beide Briefe sind auf denselben Papierbogen geschrieben.</note>
+</correspondents>
+<space_time>
+	<place>[Worms]</place>
+	<date>22. Dezember [1540]</date>
+	<note>Grynäus berichtet über das Wormser Religionsgespräch, dem er als Mitglied der Straßburger Delegation beiwohnte. Myconius leitete den Brief am 7. Januar 1541 an Bullinger weiter; s. Zürich StA, E II 343a, 223.
+Vom 22. Dezember 1540 datiert auch ein Bericht von Grynäus an den Basler Rat (Abschrift von unbekannter Hand
+in Zürich StA, E II 350, 375-378).</note>
+</space_time>
+<vo>Autograph<fx>^#/+Abschrift des an die Basler gerichteten Briefteils (unten Z. 1-74) von Myconius' Hand in Zürich ZB, Ms F 80, 607.^#/-<fe>: Zürich StA, E II 350, 343-346 (Siegelspur)</vo>
+<vo>Kopien: Zürich ZB, Ms F 80, 607</vo>
+<vo>Ms S 48, 178</vo>
+<dr>Ungedruckt</dr>
+<re>An die Pfarrer von Basel: Kann einzig berichten, warum es noch nichts zu berichten gibt. Die Gegner verzögern den Beginn
+des Gesprächs; sie sind gegen alle Erwartung in der Minderzahl, weil drei ihrer Vertreter den Protestanten zuneigen, und
+versuchen deshalb zu erreichen, daß für jede Seite nur eine Stimme zählt. [Die Protestanten] hoffen auf Herzog [Wihelm] von
+Kleve; auch in [Calenberg-Göttingen], in Brandenburg und selbst bei den Litauern und Moskowitern faßt das Evangelium Fuß. Stellt
+einen genauen Bericht in Aussicht. Erinnert an die Verbundenheit im gemeinsamen Dienst, die von den anwesenden Theologen in
+erfreulicher Weise gelebt wird. Wegen der überstürzten Abreise konnte er sich nicht mehr um seine Vorlesung kümmern. Beide
+Briefe sollen nach Zürich geschickt werden; hat bereits durch Farel nach Bern geschrieben. - An die Pfarrer von Zürich:
+Entschuldigt sich, nicht wenigstens mitgeteilt zu haben, daß hier noch nichts geschieht. Daß die Sache nicht vorankommt,
+liegt an den Ränken der Gegner, dürfte aber den Protestanten nützen; er wird noch näher darüber berichten. Hat viel
+Sympathie für [die Eidgenossen] wahrgenommen; übermittelt Grüße und bittet, beide Briefe auch an Vadian zu senden.
+</re>
+<tx>Fratribus Basilęae colendissimis.
+^$S. Aeque propemodum sollicitat, quid scribam et quod nihil scribo, vestra utrunque, fratres colendissimi ac charissimi mihi, gratia.
+Scribere enim cupio debeoque et quidem vestris auribus et<fx>et ^#/+über der Zeile nachgetragen.^#/-<fe>
+expectacione digna; sed id dum studeo facere et nihil quam
+rem ipsam scribere, non rem ullam, sed nihil vobis scribo.
+Hactenus enim est actum nihil. Quid porro deinde futurum
+sit, ne id quidem facile coniicere est. Interea huius saltem
+morę causam ut vere teneatis et, nihil cur agatur, vere
+sciatis, efficiam.
+^$Nostra doctrina, quae doctrina Christi et evangelii est,
+eorum statuum, qui in comitiis<fx>comitiis ^#/+über gestrichenem^#/- imperio.<fe> versantur, suffragiis
+quatuordecim approbatur, papę et adversariorum doctrina
+tantum octo idque ante pugnam. Hunc successum nostrum et
+consensionem cum videant adversarii, tametsi valde odio
+atque invidia in nos incitati pugnare cupiunt, contrahunt se
+tamen et congredi nullo pacto possunt. Habet autem hęc
+res hoc pacto: Cum enim ab utraque parte, qui certare et
+quorum suffragia valere debeant, undeni viri sint<fx>^#/+vor^#/- sint ^#/+gestrichenes^#/- et ad.<fe> cumque
+undecim nostri prorsus consentiant, inter illorum undecim
+tres reperiuntur, quos quanquam ordo et locus eo traxit,
+sentenciis tamen et animis se apud nos esse et a nobis stare
+palam profitentur. Unus est Palatini principis concionator
+Heydelbergensis<f1>Heinrich Stoll, Hofprediger Pfalzgraf Ludwigs V.<fe>, alter Brandenburgensis electoris Franckfurti
+theologus<f1>Johann Ludicke (Ludecken), Pfarrer in Frankfurt an der Oder, Abgesandter des Kurfürsten Joachim II. von Brandenburg.<fe>,
+tercius Clivensis ducis legatus<f1>Abgeordnete des Herzogs Wilhelm von Kleve waren Johann von Vlatten, Konrad Heresbach und
+Albert König (s. ADRG II/1 62, 25-63, 2). - Zur abweichenden Position der drei genannten Delegationen s.
+deren Separatgutachten vom 15. Dezember (ADRG II/1 544-552, Nr. 215-219); vgl. Albrecht Pius ^#/+Luttenberger,^#/- Glaubenseinheit und Reichsfriede. Konzeptionen und Wege konfessionsneutraler Reichspolitik 1530-1552 (Kurpfalz, Jülich, Kurbrandenburg), Göttingen 1982. - Schriftenreihe der Historischen
+Kommission bei der Bayerischen Akademie der Wissenschaften 20, S. 223-226.^&xMBW 2582. 2594. 2601.^&x{<fe>. Qui ab adversariis si excluduntur,
+recta ad nos transeunt; sin retinentur, cum ipsis pugnant. Hos pręcibus, minis, arte, dolo hactenus conati sunt commovere et ad se pertrahere hostes et viam nullam invenire possunt, quam
+ingressi non prius se suffragiorum numero et multitudine
+(quod genus victorię tantum quaerunt) victos videant,
+quam pugnam adoriantur. Est autem illorum omne huius quidem
+belli gerendi<fx>gerendi ^#/+am Rande nachgetragen.^#/-<fe> consilium in hominum multitudine ac turba
+positum, non autem in veritate et virtute Christi. Quod
+pręsidium quia nostris non sperantibus nec etiam
+cogitantibus obvenit, illis id solum quęrentibus non
+obvenit; in summa difficultate pręter opinionem omnium
+suamque versantur ipsi, nos commoditate summa etiam
+pręter ipsam causae bonitatem fruimur et gratis animis
+domini auxilium amplectimur. Certe, si quid sit hominum
+conspirationi tribuendum, nos hoc tempore ante pręlium
+initum in provinciali concilio plerorumque imperii statuum
+suffragio palam vinceremus. Haec res tergiversationis causam
+adversariis prębet non singulorum suffragia valere, sed
+unicum ab una parte suffragium esse contendentibus. Nos rem
+valere cupimus et veritatem Christi; hominum eorum, qui in
+hoc colloquium adhibiti fuerint, voces et sentencias notari
+volumus et valere eatenus, quatenus cum veritate conspirant.
+Quorum cum utrunque sit illis intollerabile et ne iotam
+quidem actorum edi in lucem pati velint, res trahitur ac
+nihil, ut videtis, agitur. Iam de privato colloquio et uno
+tantum atque altero viro in id<fx>viro in id ^#/+am Rande nachgetragen.^#/-<fe> adhibendo nobiscum agunt, et
+certum est abituros esse potius <vl>344</vl> quam talibus
+conditionibus nobiscum acturos. Nos, quod tantum ubique
+testium veritas repererit, gratias agere Christo debemus.
+^$De Clivensi duce magna spes est. Erici Brunsvizensis<fx>^#/+vielleicht als^#/- Brunsvikensis ^#/+zu lesen.^#/-<fe> liberi<fx>^#/+vor^#/- liberi ^#/+gestrichenes^#/- mortui.<fe>
+iussu ductuque tutorum<f1>Zu den Vormündern des noch unmündigen Herzogs Erich II. von Braunschweig-Calenberg s. oben Nr. 1439, Anm. 8.<fe> et matris<f1>Herzogin Elisabeth (s. ebd., Anm. 7).<fe> evangelium receperunt etiam
+Heinrico<f1>Herzog Heinrich von Braunschweig.<fe> valde reclamante. Brandenburgensis elector, quod
+incredibile fuit hactenus, singulari studio ac etiam privata
+industria sua per totam ditionem doctrinam verbi spargit.
+Denique in barbarissimis Lituanorum et Moschorum gentibus
+evangelium iam incipit appetere.
+^$Cęterum res omnis qualiter habeat a principio, efficiam,
+ut ad unguem<f1>Adagia, 1, 5, 91 (LB II 216f).<fe> sciatis vel absens scribendo vel praesens narrando; nam universi negotii gesti narrationem compono<f1>Der umfangreiche Bericht ist in jener Fassung überliefert, die Grynäus nach seiner Rückkehr an die Pfarrer von Zürich sandte; s. ADRG II/2
+1325-1346.<fe>.
+Quae causa est etiam, quo minus sępe ad vos scribam
+instituens hanc negligentiam locupletissime sarcire. Accedit
+etiam, quod amanuense carens et vix notandis quotidie rebus
+sufficiens de describendis, antequam domum redeo, vix
+cogitare, nedum tam infelicibus digitis<f1>Vgl. HBBW VI, S. 485, 1-16.<fe> attingere possum. Sed de his satis iam.
+^$Vos per Iesum Christum oro, fratres, communis ministerii
+vere inter nos memores esse et penitus inter nos conspirare
+in rem sanctissimam<fx>in rem sanctissimam ^#/+am Rande nachgetragen.^#/-<fe> velimus. Incredibile est, qua gratia,
+humanitate, concordia inter se fratres hic omnes conveniant;
+miranda alacritas in omnium oculis et oratione est. Oro
+dominum Christum<fx>^#/+in der Vorlage^#/- <gr>XRN</gr>.<fe>, ut mihi concedere venienti hanc apud unumquemque vestrum gratiam
+velit, ut commune ministerium obire cum gaudio et lęticia spiritus nostri queamus.
+^$De praelectione mea curatum statim a vobis esse credebam;
+scitis, quam mihi inexpectata evenerit hęc peregrinatio
+subito istinc solventi et rerum aliarum cogitacione tum
+obruto.
+^$Oro dominum Christum<fx>^#/+in der Vorlage^#/- <gr>XRN</gr>.<fe>, ut omnium nostrum cordibus vera charitate perfusis unum omnes nos in ipso velit facere<f1>Vgl. Joh 17, 21.<fe>. Amen.
+^$Tygurinis fratribus hanc et illam mittite; nam Bernam per
+Farellum scripsi<f1>Nicht erhalten (vgl. Corr. des réformateurs VI 417, Anm. 10). Zum Aufenthalt Farels in Worms vgl. PC III 142f. 150; Jules ^#/+Pétremand,^#/- in: Guillaume Farel 1489-1565. Biographie nouvelle écrite ... par un groupe d'historiens ..., Neuchâtel/Paris 1930, S. 438.<fe>.
+^$Valete in domino, valete in domino Christo.
+^$22. decembris.
+<un>S. Grynęus, frater
+<un>vester.
+<lz><vl>345</vl> Fratribus Tyguri colendissimis.
+^$S. Tarditatem hanc in scribendo excusare, fratres, serio
+cupio. Est autem incredibile dictu, quod acciderit hic<fx>hic ^#/+über der Zeile nachgetragen.^#/-<fe> mihi;
+nam dum huius rei, quae agenda fuit hic, inicium saltem
+aliquod quottidie expecto, ut, quod ad vos, colendissimos ac
+charissimos mihi fratres, scriberem, certum aliquid haberem,
+dum, antequam id ipsum certum apparet, cętera, quae
+incerta hic multa feruntur agunturque, negligo, ut ne quid
+ad vos incertum adferrem, accidit, ut id<fx>id ^#/+über der Zeile nachgetragen.^#/-<fe>, quod quottidie<fx>quottidie ^#/+über der Zeile nachgetragen.^#/-<fe>
+promittitur expectaturque certum, quottidie ad vos
+scripturiendo, quod expectatum promissumque non sit,
+quottidie praetereundo nihil prorsus ad vos scribam. Id
+totis duobus mensibus dum fit dumque res semper aliquid
+frustra<fx>frustra ^#/+über der Zeile nachgetragen.^#/-<fe> promittit, ego semper frustra<fx>frustra ^#/+über der Zeile nachgetragen.^#/-<fe> accingor, tandem
+respiciens video advertoque vos quidem omnia expectasse, me
+vero et scripsisse nihil et nihil ad omnia expectantes
+scribendo valde peccavisse. Atque utinam huius erroris
+peccatique mei aliquod vel nunc saltem remedium inveniatur!
+Certe frustra hactenus expecto; nondum enim fit quidquam ne
+nunc quidem, nisi fit aliquid, antequam coepit fieri. Sed hic mihi leo aliquis obrugiet et: "Id ipsum", inquiet,
+"nihil cum fieret, fieri nihil scribere facilius potuisti ac
+nos id, quod non fieret, hic assidue<fx>hic assidue ^#/+am Rande nachgetragen.^#/-<fe> expectantes nil fieri
+scribendo monendoque falsa expectacione liberare ac propter
+officium gratiam inire, quasi non magnam homines sępe
+gratiam etiam de nihilo ineant aut quasi non etiam nunc coactus
+sis, cum aliquid scribere conatus esses, denique nihil
+scribere." Sic leo rugit, sed vere tamen ista dicerentur, si
+ego aut nihil aut fieri nihil ad vos, tales viros, in tanta
+maximarum rerum expectacione scribere voluissem aut vos
+credere nihil fieri potuissetis. Itaque serio iam ac non
+ludens oro, ut culpam hanc reiicere non in scriptorem, quae
+nulla ac nihil est, velitis. Necesse est enim, ut de ea
+concordia, in qua sarcienda<fx>sarcienda ^#/+am Rande nachgetragen.^#/-<fe> de iure suo non solum non
+concedere pars utraque vult nihil, sed etiam nec audire, ut
+aliquid concedatur, fieri nihil. De qua re omnia ad vos
+diligenter scribam<f1>Vgl. oben Anm. 10.<fe>.
+^$Verum enimvero, fratres charissimi, hoc nihil, quod fieri
+videtur hic, quantum nunc denique intelligo, per summam
+adversariorum fraudem rem nobis maximam ac praeclarissimam
+parit. Cognoscetur enim mox causam putidam defendere<fx>defendere ^#/+am Rande nachgetragen.^#/-<fe>
+aggressus sathan, ut puteat. Et quanquam pius
+sapientum hic hominum conatus arte et dolo adversariorum
+impeditur sic<fx>sic ^#/+für ein gestrichenes, unlesbares Wort über der Zeile nachgetragen.^#/-<fe>, ut colloquium, quantum quidem nunc scimus,
+non procedet, tamen procedit negotium domini adeo,
+manifeste ut intelligatur. Technis enim adversariorum tam
+apertis cum omnes offendantur homines, simplicitate et fide
+nostra omnes recreantur et conciliantur nobis. Sed de omni
+re sic, ut dixi, perfecte ad vos perscribam.
+^$Omnes hic boni nostrarum <vl>346</vl> ecclesiarum et gentis vestrę tocius
+magno amore et studio tenentur, quod animadvertere multis ex
+rebus hic licet. Ego me vobis, charissimis fratres, omnibus
+commendo. Impositum mihi ab omnibus est, ut omnes quam
+diligentissime salutem. Utranque hanc, oro, ut doctori
+Vadiano mittatis<f1>Vgl. die Abschrift von der Hand Johannes Keßlers in St. Germain, Kantonsbibliothek (Vadiana), Vadianische Sammlung, Ms 33 (VBS IV), 173.<fe>. Valete in domino Christo.
+^$22. decembris.
+<un>S. Gryneus, frater vester.
+<lz>[Adresse darunter:] Praestantissimis viris
+Basiliensis et Tygurinę ecclesię pręfectis
+pastoribus, fratribus in domino mihi reverendis. Basel.
+^&x *************************************************
+DEFINITIVE DATEN FÜR BULLINGER-BRIEFWECHSEL BAND 11
+(ab Seite 31)
+****************************************************  ^&x{
+^&^&^&-31^&^&^&{
+</content>
+</letter>

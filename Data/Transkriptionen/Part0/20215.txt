@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="20215">
+<nr>20215</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>24. September 1550</date>
+</space_time>
+<vo>Zürich StA, E II 342, 248. / Orig. Aut.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S. D.  Scribere nihil potui prae negotiorum turba. Saltem
+hoc indicare volui me
+accepisse tuas gratissimas prorsus. Quae habeo ex literis
+Mediolano scriptis de
+profligato exercitu Caesaris a Barbaris et Traguto, recitavi
+fratri huic optimo.
+Repararunt classem Ianuae et repetierunt Barbariam spe
+maxima. Dominus iudex
+est. Vale aeternum. Tiguri  24. septembris anno 1550.
+Bullingerus.
+D. Osvaldo Myconio, observandissimo suo domino et fratri.
+        Basel.
+</content>
+</letter>

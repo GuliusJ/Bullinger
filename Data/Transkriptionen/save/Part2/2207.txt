@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2207">
+<nr>2207</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Georg Cassander</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>1. August 1545</date>
+</space_time>
+<dr>Gedruckt: Illustrium et clarorum virorum epistolae selectiores superiore ^$^$^$^$saeculo scriptae vel a Belgis vel ad Belgas, tributae in centurias II, ^$^$^$^$hg. v. Pierre Bert und Daniel Heins, ^$^$^$^$Leiden 1617, S. 1-4, Centuria I, Nr. 1</dr>
+<vo>Kopie 18. Jh.: Zürich ZB, Ms S 57, 191</vo>
+<re>Bullinger hat Cassanders Brief [Nr. 2194] allen Pfarrern mitgeteilt und bedankt sich dafür.
+-^#. Auch die [Zürcher] bedauern sehr, dass aus dem Zeichen der Eintracht ein Zankapfel geworden ist. Doch sind sie nicht schuld daran. Schweigen durften sie auch nicht, da ihre Kirche und ihre Lehre der Häresie bezichtigt wurde, was die christliche Geduld keineswegs hinnehmen darf. Deshalb mussten sie Luther antworten, taten dies aber mit Zurückhaltung. Das ["Warhaffte Bekanntnuß"] wird Cassander schon gelesen haben. Nun ist Luthers Reaktion abzuwarten.
+-^#. Bullinger bedauert auch die Verfolgung in den [südlichen Niederlanden], doch weiß er, dass durch vergossenes Blut das Feld des Herrn bewässert wird. [Karl V.] und seine Räte werden einst erfahren, wen sie verfolgt haben.
+-^#. Bullinger dankt für den mitgeteilten ["Dialogus Philalethis"]. Die [Kölner] Theologen werden wohl das Maß ihrer Väter erfüllen und Gott zu spüren bekommen.
+-^#. Grüße auch an Cornelis Wouters und an den Gastgeber Paul Fagius.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Recepi tuas, Cassander doctissime, literas<f1>Oben Nr. 2194 vom 10. Juli 1545.<fe> omnibus ministris inscriptas,
+quibus etiam exhibui, ac ago tibi pro egregio illo tuo in nos studio maximas gratias.
+Utinam vero sint illa in nobis praestantia dona, propter quę tu nos tan-<vl>2</vl>topere veneraris!<f1>Vgl. oben Nr. 2194, 9f.<fe>
+Ora autem pro nobis datorem omnis boni,<f1>Vgl. 2Kor 3, 5.<fe> deum patrem, per filium eius unigenitum Iesum Christum, ut nos nominis sui studiosos
+gratia sua donisque perfundat, quo ipsius negotium in ecclesia fideliter agere ipsique placere possimus.
+^$Dolet sane et nobis non mediocriter ex symbolo concordiae sacratissimo affectus hominum tantas sevisse discordias.<f1>Anspielung auf oben Nr. 2194, 14-17.<fe>
+Sunt, qui nos in caussa esse putant, omnemque in nos reiiciunt concertationis pestilentissimae culpam.
+Verum nos nostram caussam referimus ad iustissimum iudicem<f1>Ps 7, 12.<fe> Christum, regem et pontificem nostrum,<f1>Bullinger veröffentlichte damals eine Abhandlung über Christus als Hohepriester und König; s. oben Nr. 2206.<fe> satis securi in animis nostris de innocentia nostra.
+Nunquam non promptissimos nos iis praebuimus, qui syncere nostram iustam et in verbo dei syncero consistentem concordiam nobiscum inire postulaverunt.
+Silere vero non potuimus, quum ecclesiae nostrae damnatae, fratres vivi et mortui, doctrina denique nostra haereseos ac-<vl>3</vl>cusabatur.
+Christiana sane patientia ad quaelibet obmutescit convitia;<f1>Vgl. 1Thess 5, 14f; 1Petr 3, 9.<fe> ad haereseos blasphemiaeque criminationem si obticeat, christiana patientia non est.
+Respondimus ergo conviciatori Luthero<f1>Mit dem "Warhafften Bekanntnuß", das kurz vor dem 12. März 1545 erschienen war; s. oben Nr. 2061, Anm. 9.<fe>, ac nihil peccavimus, opinor, contra modestiam.
+Exposuimus doctrinam ecclesiarum nostrarum, fideique nostrae, ac nihil impii aut erronei asseruimus.
+Extat liber, quem a te visum et lectum arbitror.
+Scimus sane quorundam iudicia et meliora de te speramus, quum neutri parti te addixeris hactenus ac liberius haud dubie iudicare queas.
+Exspectamus iam, quid Lutherus sit responsurus<f1>Zu solch einer Antwort kam es nicht; s. oben Nr. 2158, Anm. 51.<fe>; quae ubi viderimus, nuspiam deerimus, deo volente, veritati.
+^$Valde doleo quidem ecclesias Christi in Belgica sic exerceri.<f1>Vgl. oben Nr. 2194, 28-31 und Anm. 11.<fe> Verum scio rursus agrum dominicum, sanguine sanctorum rigatum, fertilissimum ab ipsis fidei Christianae initiis esse factum.<f1>Vgl. ^#/+Tertullian,^#/- Apologeticum, 50, 13: "semen est sanguis christianorum"; ^#/+Ambrosius,^#/- Exhortatio virginitatis, 1, 6.<fe>
+Faxit Christus, princeps et caput ecclesiae<f1>Eph 5, 23, usw.<fe> suae, ut haec persecutio cedat ad gloriam nominis sui <vl>4</vl> et ecclesiae incrementum.
+Sentiet aliquando cęsar<f1>Karl V.<fe>, sentient eius consiliarii, quem sint persecuti.<f1>Vgl. Apg 9, 1-5.<fe>
+^$Pro dialogo satis lepido<f1>Der Dialogus Philalethis; s. oben Nr. 2194, Anm. 18. - Weiteres zu diesem Traktat erfährt man unten Nr. 2211, 22f.<fe> ago gratias.
+Implebunt et theologi isti mensuram patrum suorum<f1>Mt 23, 32.<fe> et sentient, in quem calamos suos strinxerint. Videt enim deus et iudicat.
+Utinam vigilemus omnes<f1>1Thess 5, 6.<fe> laetique compareamus in eius iudicio!
+^$Cornelium Gvalterum<f1>Cornelis Wouters.<fe> una cum hospite tuod. Paulo Fagio,<f1>Vgl. oben Nr. 2194, 55-58.<fe> viro doctissimo nobisque charissimo, officiose saluta.
+Salutant te ac illos fratres omnes.
+^$Vale. Tiguri, 1. augusti anno 1545.
+<un>Heinrichus Bullingerus tuus.
+<lz>[Adresse als Überschrift:] Studiosissimo verae pietatis et eruditionis iuvenid. Georgio Cassandro, Argentinae agenti, in aedibusd. Pauli Fagii, amico singulari.
+</content>
+</letter>

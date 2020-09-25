@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2136">
+<nr>2136</nr>
+<correspondents>
+	<originator>Bonifacius Amerbach</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>15. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 336, 39 (neu: 52) (Siegelspur)</vo>
+^&xKopien 18. Jh.: Basel UB, G^#'2 I 22,1, 41r.; G^#'2 II 35, 3r. unten -4r., Nr. II; Zürich ZB, Ms S 57, 58; erw.: Jenny, Bullinger und Erb, in: HBGesA II 58 ^&x{
+<re>Amerbach hat Bullingers ["Orthodoxa Tigurinae ecclesiae confessio"] gegen Luthers ["Kurtz bekentnis"] kürzlich erhalten. Auch wenn er keine Zeit hatte, die Schrift zu lesen, zweifelt er nicht, dass sie die übliche Gelehrsamkeit und Frömmigkeit der übrigen Arbeiten Bullingers zeigt. Solche Streitereien schmerzen ihn sehr, doch gibt er zu, dass [die Zürcher] gezwungen waren, ihre Ehre zu verteidigen. Christus möge bewirken, dass man sich, wie es nur einen Glauben und nur eine Taufe gibt, in Einmütigkeit verbinde und nur nach dem frage, was sein ist! Bullinger darf an Amerbachs dankbarer Gesinnung nicht zweifeln; er darf alles von ihm erwarten. Grüße an [Konrad] Pellikan, [Theodor] Bibliander und an die Übrigen.</re>
+<dra>[Gedruckt: Amerbach Korr. VI 134f.]</dra>
+^&x<tx>S[alutem] p[lurimam]. Libellum tuum, eruditissime Bullingere, quod. Lutheri criminationes<f1>In Luthers Kurzem Bekenntnis vom heiligen Sakrament, 1544 (WA LIV 119-167).<fe>
+ecclesiae tuae confessione proposita depellis<f1>HBBibl I 167f.<fe>, haud ita dudum accepi.
+Etsi autem eius mihi legendi hucusque ocium non fuerit, nihil tamen minus dubito
+quam <gr>gnhsíon</gr> partum esse atque adeo eruditione et pietate caeterorum
+a te elucubratorum genium prae se ferre. Dolet mihi plurimum huiusmodi concertationibus
+denuo quam plurimis calumniandi ac illudendi materiam praeberi; verum quid faciam necessitati,
+quo velut ultimo et maximo telo vos ad existimationem cum vestram tum ecclesiae vestrae
+propugnandam tuendamque adactos cerno. Faxit Christus servator, ut quemadmodum
+una fides est et unum baptisma, ita sacrosancto suo spiritu imbuti vel tandem
+<gr>eĭs th̀n ȏmouymían</gr> coalescamus ac positis adfectionibus non, quae nostra, sed quae sua sunt, quaeramus.
+Pro libello misso tibi gratias ago immortales, nec dubites, rogo, quin memorem acceptorum
+subinde munerum animum et invicem remunerandi gratificandique voluntatem habeam,
+cęterum in quo id ipsum, quod iamdudum meditor re ipsa praestare possim, non satis intelligentem.
+Ut verbo dicam, nihil tibi non de me constanter polliceri debes, quem et nominis tui
+studiosissimum et candidum tuarum virtutum praeconem ubique experieris.
+^$Bene vale, eruditissime vir.
+^$17. calendas maii anno 1545. Basileae.
+^$Clarissimos dominos Pellicanum, Bibliandrum et cęteros resalutabis meo nomine reverenter.
+<un>Tuus ex animo Bonifacius Amerbachius.
+<lz>[Adresse .................:] Eruditissimo integerrimoque theologo domino Heinricho Bullingero, ecclesiastae Tigurino, domino et amico observando.^&x{
+</content>
+</letter>

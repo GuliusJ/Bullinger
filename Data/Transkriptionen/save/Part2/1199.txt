@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1199">
+<nr>1199</nr>
+<correspondents>
+	<originator>Fridolin Brunner</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Betschwanden]</place>
+	<date>20. November 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2029 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Möchte den [Katholiken] der Nachbargemeinde Linthal, die seit sechs Jahren praktisch ohne Priester sind, nicht mehr zur Verfügung stehen, weil diese zwar zur Taufe kommen, ihn aber in ihrer Kirche nicht das Evangelium verkünden lassen; bittet um Bullingers schriftlichen Rat durch den Boten,
+Säckelmeister [Hans Wichser]. Wünscht Kommentare Bullingers zur Apokalypse.
+</re>
+<tx>Gratiam et pacem a domino etc.
+^$Animus est, vir candide, agere, quae vero tuo absque consilio
+non sum facturus. In dei equidem negotio hactenus semper
+syncere curam habui, ne quid offendiculi infirmis tam
+negligentia quam temeritate parerem<f1>Vgl. 1Kor 8, 9.<fe>. Idem eciam perpetuo abs
+me fiat, pro viribus adnitar. Sed sic se habet negotium:
+Ecclesia Vallis Limagi<f1>Linthal (Kt. Glarus).<fe>, mihi vicina, iam ad anni
+spacium sacrifico caruit<f1>Über die kirchlichen Verhältnisse in Betschwanden und Linthal - letzteres war 1531 rekatholisiert worden - vgl. Gottfried ^#/+Heer,^#/- Fridolin Brunner. Reformator des Landes Glarus, Zürich 1917, S. 39-41.<fe>; interim ad sermones audiendi meos
+dominica die quidam venerunt. Ad haec eciam, quicquid illis
+in rebus spiritualibus defuit, praecipue baptismi
+sacramentum administrando, fideliter et sponte servivi.
+Excepto, quod in templo suo evangelium praedicare me nunquam
+admiserunt. Id enim non tantum ad illud anni tempus, verum
+ad sex perpetuos iam annos idem est factitatum, quibus
+missarium ad breve tempus habuere, multo vero carue­r­­unt<fx>^#/+in der Vorlage verschrieben^#/- caruerint.<fe>.
+Interim autem missario deficiente huius ecclesię
+parochiani baptismi ministerium a me postularunt. Ad quae
+eorum facta spe melioris hucusque convivi et postulatis
+lubenter obsecundavi. Nunc profecto videor mihi hoc in
+negocio satis superque obsecutum; tuo igitur consilio
+baptismum in posterum eis rescindam, praecipue hanc ob
+causam, quod baptismum tantum, nequaquam vero verbum dei
+missario absente a me petunt et recipiunt, praesertim
+eciam, quum sese maior pars devoverit evangelicum praeconem
+ad cathedram ecclesiasticam absque missa papistica non
+admissurum. Quare hac in re quid prudenter pieque faciundum
+sit, ne quid turbę exoriatur, hoc nuncio, nempe praefecto
+aerario<f1>Hans Wichser, Glarner Landessäckelmeister seit 1529; zur Person s. Gottfried ^#/+Heer,^#/- Hans Wichser us der Rüti. Ein Zeitbild aus den Tagen der Reformationszeit, Glarus 1903.<fe>, negotiis tuis admittentibus, scriptis consule<fx>^#/+in der Vorlage verschrieben^#/- consula.<fe>.
+^$Vale in domino.
+^$20. die novembris anno 1538.
+<lz>Desideramus ad haec in Ioannis evangelistę librum <gr>ăpokalýciow</gr> commentaria tua; obsequere nobis, ut optatis quam primum fruamur<f1>Bullingers erste Arbeit zur Apokalypse erschien erst 1557; s. HBBibl I 327.<fe>. Iterum vale.<fx>^#/+Von^#/- Desideramus ^#/+bis^#/- Iterum vale
+^#/+nachträglich zwischen Datum und Unterschr.ift eingefügt.^#/-<fe>
+<un>F. Fonteius Glareanus.<fx>^#/+Darunter von Leo Juds Hand:^#/- Non videtur mihi istis, qui tandem sint, baptisma Christi negandum, quum hac occasione Christi [^#/+vor^#/- Christi ^#/+gestrichenes^#/- rel] gloria et cognitio augescere, si
+datur, aboleri, si negatur, possit. Captemus vero omnem
+occasionem, ut lucrifaciamus eos, qui adhuc foris sunt, imo
+non foris, sed in ecclesia licet errantes oves. De
+pecuniis quid opus multa novare, quum publicus mos ubique
+illa recipiat et servet. - Leo tuus.<fe>
+<lz>[Adresse auf der Rückseite:] Dem ersamen und wolgelerten M. Heinrich Bullinger, gottes worts diener zuͦ Zürich im Münster, sinem günstigenn herren zuͦ handen.
+</content>
+</letter>

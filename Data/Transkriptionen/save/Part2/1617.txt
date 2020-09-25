@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1617">
+<nr>1617</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>31. März 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 111 (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 70</vo>
+^&x Zit./erw.: Corr. des réformateurs VII 450; JSG 31,
+1906, 54. 63; Hans Büchler, in: Appenzeller Jb. 96, 1968, 9
+(ZZB: UU 609: 96).^&x{
+<re>
+Hat den Brief, den Vadian von [der Tagsatzung in] Baden [vom 20. März] gesandt hat, erhalten und freut sich über den Sieg St. Germains [im Streit mit Appenzell betreffend die Marktzulassung von Appenzeller Leinwand]. Bedankt sich für die deutschsprachige, gegen Schwenckfeld gerichtete Schrift
+[Manuskript zu BZD C 315]; [Konrad] Pellikan gefällt sie; Bullinger hat sie wegen vieler Verpflichtungen noch nicht gelesen. Sein Matthäuskommentar ist jetzt im Druck. Wenn [Christoph] Froschauer aus Frankfurt zurückkehrt, wird er mit ihm über eine Publikation von [Vadians] Schrift sprechen; schlägt
+betreffend die Autorangabe vor, man solle die Schrift als "durch einen christlichen Bruder aus Vadians Werken ausgezogen" bezeichnen. [Oswald] Myconius schreibt [Nr. 1614], dass er keine sicheren Nachrichten aus Speyer empfangen habe, nur das hartnäckige Gerücht, dass die Stände dem Kaiser [Karl V.]
+8'000 Reiter und 40'000 Fußsoldaten bewilligen wollten; fügt König [Ferdinand] weitere 28'000 Fußsoldaten hinzu, so besteht gute Hoffnung, Ungarn zurückzuerobern.
+Es besteht große Hoffnung, dass der Kölner [Erzbischof Hermann von Wied] das Evangelium annimmt. Bittet um Nachrichten aus Ungarn. Gruß.
+</re>
+<tx>[Gedruckt: Vadian BW VI 117f, Nr. 1231.]
+^&xGratiam et pacem.
+^$Literas tuas, Vadiane doctissime, a Badena scriptas accepi
+ac congaudeo vobis de parta victoria:::1{.
+^$Pro libro tuo Germanico ad Schvenkfeldii quaestiones impias
+laboriose scripto mihique communicato gratias ago
+maximas:::2{. Legit ipsum Pellicanus, et placuit, imo non
+potest is pium et doctum tuum ingenium satis amplifico
+celebrare praeconio. Ego, ut verum fatear, nihildum legi;
+nam toties concionandum est, toties repetendae lectiones
+biblicae et publicae, ita denique domestica quoque et
+publica me in diversum rapiunt negotia, ut nonnunquam paulo
+impatientius sortem meam deplorem. Ad haec coeptus est
+excudi, sicut vidisti, Mattheus nostris illustratus
+commentariis. Excuditur autem singulis diebus folium; id
+nisi scribam, componam, corrigam et simul aedam, neque
+prodire in publicum poterit ad proximas usque
+Franckfordienses nundinas aut ad principium augusti, neque
+citra ingentem iacturam haec hactenus impresserit
+Froschouerus, qui cum satis tempestive Franckfordiam
+abierit, nihil cum illo contuli de impressione libri. Ubi
+peracto festo redierit, colloquar et, si quid praeterea
+temporis, si quid otii interim fuerit concessum, cognoscam,
+qualia sint, quae scripsisti, non ut criticum addam
+lapillum, sed ut discam, quid huiusmodi impiis strophis
+obiectari possit. Quo authorem attinet, cui tribuatur opus,
+is mihi videretur commodissimus praefigi posse titulus:
+Durch ein christlichen bruͦder uß den büchern Vadiani
+zamen getragen und geordnet etc.
+^$Scribit Myconius, nihildum certi se a Spira accepisse, nisi
+quod fama constanter spargatur, imperii ordines pollicitos,
+caesari daturum[!] se equitatum 8'000 et peditatum 40'000, cui
+si rex adiungat 28'000, bona se spe duci, Hungariam posse
+recuperari; de Coloniensi magnam spem esse, fore, ut
+evangelium recipiat.
+^$Haec tumultuarie ad te dedi, ne nihil scriberem. Tu pro tua
+humanitate ac pietate me ama, boni haec nostra consule et,
+si quid habes de rebus Pannonicis, communica etc. Vale.
+^$Ultima martii 1542.
+<un>Tuus H. Bullingerus.
+<lz>[Adresse .......:] D[omino]
+D[octori] Ioachimo Vadiano, Sangallensi consuli, domino suo
+colendissimo et charissimo.^&x{
+</content>
+</letter>

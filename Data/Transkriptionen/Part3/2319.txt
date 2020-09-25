@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2319">
+<brief>
+<id>16007</id>
+<nr>2319</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 1. Januar 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), <br/>Ms 35 (VBS VI), 94 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> I 405f, Nr. 1236<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 117v.; Ms S 59,1 </k></dr>
+<re>Neujahrswünsche.
+<t/>Auch wenn die Nachricht von der Gefangennahme des Landgrafen [Philipp von Hessen] falsch war, befürchtet Bullinger doch Schlimmeres. Denn [Herzog Heinrich von Braunschweig], der vor dem Kaiser [Karl V.] und den Reichsständen der schlimmsten Untaten bezichtigt wurde, wird nun durch die angeborene Milde der Fürsten geschont. In der Vergangenheit warf man dem Kaiser vor, den Übeltäter geduldet zu haben. Nun aber verschaffen sich [Herzog Moritz von] Sachsen und [Herzog Erich II. von Braunschweig]-Lüneburg einen guten Ruf, weil sie sich für den Verbrecher einsetzen.
+<t/>Pensionenempfänger wurden den Zürchern ausgeliefert, woraufhin sich die Berner und andere für sie einsetzten, so dass man sie schonte. Bald aber wird Zürich den Pensionenempfängern, durch deren Hand ihr Gegner Zwingli starb, ausgeliefert sein. Das gleiche Schicksal steht auch anderen bevor.
+<t/>Der Marchese [Alfonso d'Avalos] hat [den eidgenössischen Gesandten] eine für ihn selbst vorteilhafte schriftliche Antwort gegeben und sich zudem hochmütig benommen. Erst an der künftigen, noch nicht festgesetzten Tagsatzung wird beschlossen, ob man darauf eingeht. Blarer wird sicherlich vom Komplott gegen Turin gehört haben. Kriegsleute sind aus dem Piemont [zurückgekommen]. Die Berner haben 1'000 Mann in Richtung Genf entsandt. Sie wollten auch, dass die Eidgenossen 5'000 Mann aufbieten, doch spricht man nicht mehr davon.
+<t/>Die [Zürcher] verfahren wie bisher mit Kriegsleuten: Hauptleute, Anwerber und Soldgeber dürfen unter Androhung der Todesstrafe nicht in die Stadt. Wenn Kriegsknechte an einem Kriegszug teilnehmen, werden sie enteignet, bei ihrer Rückkehr verhaftet, und ihre Schwerter werden beschlagnahmt. Wie schon früher wird ihnen auch jetzt bei guter Führung nach längerer Zeit ihre Waffe wieder zurückgegeben. Es gab einen solchen Erlass kurz vor dem [24. Juni 1545]. Was also [Joachim] Mötteli [vom Rappenstein] oder andere erzählen, entspricht nicht der Wahrheit.
+<t/>Bullinger ließ den Brief an [Barbara, geb. von Ulm], die Frau [Jakob Röists], übermitteln. Er zweifelt nicht daran, dass sich Kaiser, Papst [Paul III.] und [König Franz I.] gegen Christus verschwören. Anbei schickt er [die Abschrift] des Briefes von [Kurfürst Johann Friedrich I.] von Sachsen [und Landgraf Philipp von Hessen an den Rat von Straßburg] zurück und bittet um Nachrichten über den [Schmalkaldischen] Bundestag zu Frankfurt.
+<t/>Grüße von [Rudolf] Gwalther, der beim Öffnen von Blarers Brief [<a>HBBW</a> XV, Nr. 2316] zugegen war.</re>
+<text>
+<p>Praestet tibi, vir colendissime et frater in domino charissime, divina bonitas, ut hic annus tibi et universae familie inierit auspiciis felicibus, progrediatur et exeat multo felicissimus.</p>
+<p>Licet vana sint, quae narrantur de langravii captivitate,
+<fn>Zum falschen Gerücht von der Gefangennahme Philipps von Hessen durch Christoph von Braunschweig, Erzbischof von Bremen, s. <a>HBBW</a> XV 691,44-51, und 707,7-9.</fn> ego tamen deteriora expecto, nam coram caesare
+<fn>Karl V.</fn> et statibus sive ordinibus imperii accusarunt eum
+<fa>eum <i>fehlt in der Vorlage.</i></fa>
+<fn>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel. - Zur Gefangennahme Heinrichs und seines Sohnes Karl Viktor in der Nacht zum 21. Oktober 1545 s. <a>HBBW</a> XV 622 und Anm. 4.</fn> rerum in orbe crudelissimarum, quem ipsis
+<fn>Philipp von Hessen und Herzog Moritz von Sachsen.</fn> in manum dedit dominus, cui pro agnata
+<fa><i>Randbemerkung von Bullingers Hand:</i> Oh agnata!</fa>, ut aiunt, principum clemencia parcitur. Male audiebat caesar, quod ferret adulterum, virginum constupratorem, sacrilegum, latronem, incendiarium. Iam bene audiunt clementes principes Saxo
+<fn>Moritz von Sachsen.</fn> et Luneburgensis
+<fn>Herzog Erich II. von Braunschweig-Lüneburg-Calenberg.</fn>, qui intercesserunt pro latrone.
+<fn>Zu deren Einsatz für Herzog Heinrich s. Simon <i>Ißleib,</i> Herzog Moritz von Sachsen und der braunschweigische Handel 1545, in: Archiv für die Sächsische Geschichte 5, 1879, 110.<zfn>fn2319-3</zfn></fn></p>
+<p>Tigurinis dabantur in manus pensionarii. Intercessere Bernates et alii. Parsum est illis.
+<fn>Die hier angesprochene Angelegenheit und die Identität der von den Zürchern festgenommenen Pensionenempfänger wurde nicht ermittelt. Die Sache wurde wohl schon im April 1545 erwähnt, als die Eidgenossen sich bezüglich der Erneuerung des Bundes stritten; vgl. nämlich <a>HBBW</a> XV 274,27-29, wo aber im Gegensatz zur dortigen Erläuterung in Anm. 21 mit "Ho{uo}ptlüt" nicht die damals nach Zürich gesandten Innerschweizer gemeint sind, sondern Hauptmänner, die sich 1544 unerlaubterweise an dem Krieg zwischen Karl V. und Franz I. beteiligt hatten.</fn> Sed mox nostri traditi sunt in manus pensionariorum, et Zvinglius, qui singulariter illos persequebatur,
+<fn>Zum Kampf Zwinglis gegen das Pensionenwesen s. etwa Christian <i>Moser</i> und Hans Rudolf <i>Fuhrer,</i> Der lange Schatten Zwinglis. Zürich, das französische Soldbündnis und eidgenössische Bündnispolitik, 1500-1650, Zürich 2009, S. 33-43; Ernst <i>Gagliardi,</i> Zwinglis Predigt wider die Pensionen: 5. März 1515, in: <a>Zwa</a> 3/11, 1918, 337-347.</fn> manu caesus est pensionarii. Manent sua fata
+<fn>Vgl. <i>Vergil,</i> Aeneis, 10, 438.</fn> et alios.</p>
+<p>Der marggis
+<fn>Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter von Mailand. - Zum Streit über die Beschränkung des Mailänder Marktes auf die Region, Avalos' Provokationen und zur eidgenössischen Gesandtschaft s. <a>HBBW</a> XV 571,12-16 und Anm. 13. 665f. 27-32. 679,21-25.</fn> hat ein antwort in geschrifft
+<fn>schriftliche Antwort.</fn> g{ae}ben, vil glimpffs imm selbs gesch{oe}pfft
+<fn>vil glimpffs imm selbs gesch{oe}pfft: sich selbst beschönigt.</fn> und g{uo}te wort g{ae}ben, sich sunst fücht gehallten
+<fn>fücht gehallten: groß getan.</fn> und hoch getragen
+<fn>sich hoch getragen: sich hochmütig erwiesen.</fn>. Ob die eydgnossen dran kummen
+<fn>dran kummen: darauf eingehen.</fn> werdent, wirt an dem künfftigen tag kundt werden, der doch noch nitt gesetzt ist, dann min herren
+<fn>Der Zürcher Rat. - Zürich war damals Vorort der Eidgenossenschaft.</fn> nitt vermeint, nodt sin einen anz{uo}setzen.
+<fn>1546 fand der erste Tag zu Baden am 12. April statt. Die Akten zeigen, dass über die Gesandtschaft nach Mailand diskutiert wurde; s. <a>EA</a> IV/1d 604 s.</fn> Wie die verr{ae}tery über Turin gangen,
+<fn>Über den angeblichen Versuch des Herzogs Karl III. von Savoyen, Turin von den Franzosen zurückzuerobern, s. <a>HBBW</a> XV 687,6-9. 706; <a>PC</a> III 690, Nr. 644. Hintergrund dieser Unruhen waren die Bemühungen Karls III., wieder zu seinen verlorenen Territorien zu kommen; s. <a>HBBW</a> XV 690,17f.<zfn>fn2319-1</zfn></fn> darvon ir on zwyfel wüssend. Sind ettlich kriegslüt imm Bemond
+<fn>Piemont.</fn> xin
+<fn>gewesen.</fn>. Sind kunstliche
+<fn>kenntnisreiche, ernstzunehmende.</fn> warnungen besch{ae}hen, das die Berner 1000 mann z{uo} einem fendli
+<fn>Fähnlein (eine kleine Heeresabteilung).</fn> zum z{uo}satz
+<fn>zur Unterstützung.</fn> gen Jenff
+<fn>Genf. - Schon im November gab es erste Gerüchte über aus dem Piemont gegen die Region Genf ziehende spanische Truppen (s. <a>HBBW</a> XV 685,23-29), woraufhin auch die Stadt Genf militärische Vorbereitungen traf. Die hier erwähnte Truppensendung war für die Berner Gebiete rund um Genf bestimmt. Bern bot auch der Stadt Genf umgehend Hilfe an, u.a. die Entsendung von 2'000 Soldaten, worauf die Genfer ablehnend reagierten, da die Stadt nicht unter Berner Hoheit fallen wollte. Gleichzeitg kamen Gerüchte auf, dass sich Genf zu seinem Schutz Frankreich unterstellen wolle. Letztlich kam es nicht zu einem Angriff; s. <a>Gautier</a> III 243-252; <a>PC</a> IV/2, Nr. 9; <a>EA</a> IV/1d Reg., bes. S. 573-578. 585-587.</fn> uußgenommen
+<fn>aufgeboten haben.</fn>, 5000 z{uo} einem paner
+<fn>Banner (eine Heeresabteilung, die größer als ein Fähnlein ist).</fn> ordnen w{oe}llen und alle eydgnossen uffgemanet habend; ist aber widerumb ersässen
+<fn>ruhig geworden.</fn>.</p>
+<p><zzl>zl2319-1A</zzl>Min herren habend ire setzungen
+<fn>Satzungen.</fn> unverbrochen
+<fn>unverändert gelassen. - Hier antwortet Bullinger auf Blarers Anfrage zur Söldnerproblematik; s. <a>HBBW</a> XV 708,18-23. Dabei ging es um Söldner, die 1544/45 an den Kriegen zwischen Karl V. und Franz I. und zwischem Letzterem und Heinrich VIII. teilgenommen hatten; s. <a>HBBW</a> XIV 508,11-15 und Anm. 5. 510 und Anm. 4.</fn> der kriegslüten halb; welche houptlüt und uffweybler
+<fn>Anwerber.</fn> und g{ae}lltuußg{ae}ber blybend bim schwert
+<fn>bim schwert: unter Androhung der Todesstrafe.</fn> usset der statt; und ist kein gnad. Die gmeinen kn{ae}cht sind nie usset der statt xin, das man sy bed{oe}rffen ynlassen
+<fa>ynlassen <i>über gestrichenem</i> uußlassen.</fa>. Wenn sy hinlouffend
+<fn>Gemeint ist: wenn sie an einem Kriegszug teilnehmen würden.</fn>, nimpt man inn, was sy hand. Wenn sy widerkummend, leit
+<fn>legt.</fn> man sy in die türm
+<fn>in die Gefängnisse. - Zur Bestrafung von Söldnern s. Hermann <i>Romer,</i> Herrschaft, Reislauf und Verbotspolitik. Beobachtungen zum rechtlichen Alltag der Zürcher Solddienstbekämpfung im 16. Jahrhundert, Zürich 1995 - Zürcher Studien zur Rechtsgeschichte 28, S. 109. 182-212.</fn>. Das ist bißhar mitt allen gebrucht. Demnach last man sy one t{ae}gen
+<fn>Degen (ein Zeichen bürgerlicher Ehre).</fn> gan. Da ist wol war, das man den gmeinen kn{ae}chten vor Joannis Baptistae
+<fn>24. Juni 1545.</fn> d[ie]
+<fa><i>Textverlust durch Entfernung des Siegels.</i></fa> d{ae}gen wider ze tragen erloupt hat. Wenn M{oe}tili
+<fn>Joachim Mötteli vom Rappenstein, der in Konstanz erzählt hatte, dass Zürich von heimkehrenden Söldnern keine Buße verlangte, woraufhin sich Blarer am 30. Dezember 1545 nach der korrekten Sachlage erkundigt hatte; s. <a>HBBW</a> XV 708,18-23.</fn> oder ander anders sagend, so ists ze vil
+<fn>zu ergänzen: gesagt.</fn>. <vl>94v.</vl> Es ist ouch nitt nüw, das man inen die t{ae}gen wider erloupt, dann es ouch vornaher
+<fn>zuvor.</fn> vor 16 jaren gebrucht, wenn der gmein mann sich wol gehallten, ein zyt b{uo}ß gethan und ein zyt angestanden
+<fn>gewartet.</fn>, das man inen wider die gwerr
+<fn>Waffen.</fn> erloupt<zzl>zl2319-1E</zzl>.
+<fn> Die ersten erhaltenen Schriftstücke Bullingers zur Söldnerfrage und zu den die Söldner anwerbenden Pensionenempfängern stammen aus den Jahren 1547 und 1549; s. <a>HBBW</a> XV 325f, Anm. 15.</fn></p>
+<p>Literas uxori R{oe}ystii
+<fn>Barbara, geb. von Ulm, die Frau Jakob Röists.</fn> protinus afferri curavi.
+<fn>Zu diesem unbekannten Brief s. <a>HBBW</a> XV 708,15f.</fn> Nil dubito, quin caesar, papa
+<fn>Paul III.</fn>, Gallus
+<fn>Franz I.</fn> et multi alii conspirent contra Christum, sed qui in coelis habitat, ridebit eos
+<fn>Vgl. Ps 2, 4.</fn>. Scriptum Saxonis
+<fn>Die Abschrift des Briefes von Kurfürst Johann Friedrich I. von Sachsen und Landgraf Philipp von Hessen an den Rat von Straßburg, die Blarer am 18. November 1545 an Bullinger mit der Bitte um Rücksendung übermittelt hatte; s. <a>HBBW</a> XV 640,20-23 und Anm. 7. 689,6-8.</fn> remitto et oro, ut ea, quae accipies a Francfordiensibus comitiis
+<fn>Der Schmalkaldische Bundestag in Frankfurt a. M. vom 15. Dezember 1545 bis 8. Februar 1546, dem Thomas Blarer beiwohnte; s. <a>HBBW</a> XV 689 und Anm. 12.<zfn>fn2319-2</zfn></fn>, communices.</p>
+<p>Vale cum omnibus tuis. Salutant te fratres omnes, imprimis Gvaltherus, qui apud me erat, cum tuas
+<fn>Blarers Brief vom 30. Dezember 1545 (<a>HBBW</a> XV, Nr. 2316).</fn> resignarem.</p>
+<p>Tiguri, circumcisionis die anno 1546.</p>
+<un>Tuus, qui semper, totus.</un>
+<lz/>
+<p>[Adresse darunter:] Praestantissimo viro d. Ambrosio Blaurero, fratri semper colendo et amando.
+<fa><i>Darunter Empfangsvermerk von Blarers Hand:</i> 4. ianuarii 1546.</fa></p>
+</text>
+</brief>

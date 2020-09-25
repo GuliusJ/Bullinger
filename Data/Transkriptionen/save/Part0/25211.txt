@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="25211">
+<nr>25211</nr>
+<correspondents>
+	<originator>Sigismund August von Polen</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date>[...] [1555]</date>
+</space_time>
+<vo>Autograph: ..... (Siegel...)</vo>
+<dr>Wotschke, S. 33</dr>
+<re></re>
+<tx>Que per famulum magnifici Francisci Lismanini ex tuis lucubrationibus
+mittere dignatus es, recepimus. Quia vero ea propter multas occupationes, quibus
+nos generalia nostri regni comitia detinent, hucusque legere non licuit, non
+aliud quoque per illum respondere possumus quam nos illa, ubi plus otii dabitur,
+lecturos esse. Interea pro officio hoc bono et animi tui erga nos significatione
+gratias agimus nostramque simul pro his gratiam et favorem pollicemur
+<lz>[Adresse fehlt.]
+</content>
+</letter>

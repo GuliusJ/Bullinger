@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2738">
+<brief>
+<id>17007</id>
+<nr>2738</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Basel"/> <date when="1547-01-02"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>[Zürich], 2. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 160 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 927, Nr. 1043<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 5</k></dr>
+<re><t>Die Lage wird immer schlimmer, Gott möge helfen!</t>
+<t>Die unglückseligen Ulmer haben mit Kaiser Karl V. Frieden geschlossen und dürfen bis zu einem Konzilsbeschluss ihre Religion beibehalten. Dies kommt einer Verleugnung des Glaubens gleich. Bündnisse dürfen sie nur noch mit kaiserlicher Genehmigung eingehen. Das bedeutet den Verlust ihrer Freiheit und soll sie daran hindern, sich mit anderen, etwa den Eidgenossen, zusammenzuschließen. Die Ulmer haben dem Kaiser eine Geldstrafe gezahlt. Genaues über die weiteren Friedensbedingungen weiß Bullinger nicht, aber die oben genannten gelten als sicher. Das ist also alles, was die Ulmer vom Evangelium halten! Mögen die anderen Städte nicht ihrem Beispiel folgen. Solch ein Frieden scheint jetzt gut, mit der Zeit aber wird er zum Verhängnis.</t>
+<t>Johannes Gast soll den beiliegenden Brief [nicht erhalten] und die zwei Gulden für die Wolle bekommen. Grüße an diesen und an Francisco de Enzinas. Bullinger kommt leider nicht dazu, auf dessen Brief [<qv>nr2736</qv>] zu antworten. Myconius soll ihnen beiden den Inhalt dieses Schreibens mitteilen.</t>
+<t>In acht Tagen findet ein Tag zu Baden statt. Gibt es Neuigkeiten aus Frankreich und den Niederlanden?</t>
+<t>Gruß. In Eile.</t></re>
+<text>
+<div>
+<p>Gnad und frid. Ye l{ae}nger ich schryb, ye b{oe}ser es wirt. Gott bessers!</p>
+</div>
+<div>
+<p><zzl>zl17007-4A</zzl>Die von Ulm, <zzl>zl17007-3A</zzl>die ellenden Schwaben,<zzl>zl17007-3E</zzl> habend sich erg{ae}ben an des keyssers
+<fn>Karl V. - Zu Ulms Ergebung s. <qv>nr2734</qv>, <qv>fn17003-1</qv>.</fn> gnad! Und ist ein friden zwüschen inen beredt und beschlossen.
+<fn>Zur Sache s. <a>HBBW</a> XVIII 458,7-11; <qv>nr2734</qv> und <qv>fn17003-2</qv>.</fn> <zzl>zl17007-6A</zzl>Sy s{oe}llend blyben by irem glouben biß uff ein consilium.
+<fn>Gemeint ist ein Konzil. Zur Schreibweise "consilium" anstelle von "concilium" s. <a>HBBW</a> XVI 169, Anm. 19.</fn><zzl>zl17007-6E</zzl> Hoc est negare fidem et nebulonibus subiicere iudicandam, imo conculcandam. <zzl>zl17007-5A</zzl><zzl>zl17007-1A</zzl>Sy s{oe}llend gar kein püntnus machen nimmerme on erloupnus und vorwüssen eines keysers.<zzl>zl17007-1E</zzl> Hoc est prodere libertatem.<zzl>zl17007-5E</zzl> Das lut wider eydgnosische püntnus.
+<fn>Gemeint ist: Das klingt wie gerichtet gegen ein Bündnis mit den Eidgenossen.</fn> Wil fürkummen
+<fn>wil fürkummen: soll verhüten, verhindern; s. <a>SI</a> III 278 (unten).</fn>, das keine mee gemachet oder sy z{uo} uns nitt fründint
+<fn>einen Freundschaftsbund eingehen; s. <a>SI</a> I 1306.</fn>. Periculum, ne aliae urbes quoque sequantur. Werdent aber hernach trüwlich knistet
+<fn>trüwlich knistet: gehörig geprügelt.</fn>, ubi scilicet oportunum fuerit. Sy habend dem keysser ein g{ae}lltstraaff erlegt. Weiß nitt, wie vil.
+<fn>Die Geldstrafe betrug 100'000 Gulden; s. <a>Rommel, Ulm</a> 80.<zfn>fn17007-1</zfn></fn> Ander artikel sind mee vorhanden. Weiß sy nitt eigentlich
+<fn>genau. - Siehe dazu <qv>nr2734</qv>, <qv>fn17003-2</qv>.</fn>. Die oberen sind gewüß. Das ist ir evangelium! Gott erbarms und g{ae}be anderen gnad, das sy sich nitt also erg{ae}bend. Jetzund ist es alles g{uo}t; hernach wirt es b{oe}ß gn{uo}g werden.<zzl>zl17007-4E</zzl> Oremus dominum, nam sumus in tentatione gravi. Wie joch
+<fn>Wie joch: Wie gut auch; s. <a>SI</a> III 6.</fn> das evangelium gepredget sye, ist der buw
+<fn>Bau.</fn> nitt fest.</p>
+</div>
+<div>
+<p><zzl>zl17007-2A</zzl>Gastium ber{ue}ffend. G{ae}bend imm das brieffli
+<fn>Nicht erhalten.</fn> und g{ae}llt. Sind 2 gl. umb die wollen.
+<fn>Die von Johannes Gast in Basel gekaufte Wolle im Wert von 2 Gulden; s. <a>HBBW</a> XVIII 421. 439. 450f.</fn><zzl>zl17007-2E</zzl> Gr{ue}ssend mir inn und d. Dryandrum
+<fn>Francisco de Enzinas, der damals in Basel wohnte.</fn>, desse
+<fn>dessen; s. <a>SI</a> XIII 1029.</fn> brieff
+<fn>Vom 1. Januar 1547 (<qv>nr2736</qv>).</fn> mir worden. Kan nitt antworten. Habend die ding
+<fn>Die Informationen aus dem vorliegenden Brief.</fn> mitt denen gemein.</p>
+</div>
+<div>
+<p>Über acht tag wirt ein tag z{uo} Baden.
+<fn>Die Badener Tagsatzung vom 10. Januar; s. <qv>nr2737</qv>, <qv>fn17006-1</qv>.</fn> Was habend ir uß Franckrych und uß dem Niderland?</p>
+</div>
+<div>
+<p>Gott mitt üch. 2. ianuarii 1547. Festinavi. Non relegi.</p>
+<un>Bullinger.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Sinem lieben herren und br{uo}der, h. Oßwalden Myconien, predicanten z{uo} Basel.</p>
+</div>
+</text>
+</brief>

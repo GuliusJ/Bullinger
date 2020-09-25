@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2379">
+<brief>
+<id>16069</id>
+<nr>2379</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 14. März 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 228 (neu: 246) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 133</k></dr>
+<re>Bullingers Mitteilungen [in <qv>nr2375</qv>] aus [Briefen] anderer waren Myconius willkommen. Er kann aber nicht glauben, dass das Konzil die Macht hätte, die Kolloquenten [aus Regensburg] vorzuladen.
+<t/>Zweifelhaft ist auch die Meldung über Luthers Tod, weil diese von den Päpstlichen schon lange verbreitet wird. Allerdings ist Luther schon alt.
+<t/>Das Wüten des Kaisers [Karl V.] ist nichts Neues. Erschreckend ist dessen Hartherzigkeit, die nicht geringer ist als die des Pharao. Doch angesichts seiner bösen [Berater] ist sie nicht überraschend. Als Myconius vor kurzem einen Niederländer [...] fragte, ob der Kaiser ein Heer mit sich führe, bekam er zur Antwort: Nein, nur Pfaffen und Mönche. Myconius wundert sich, dass die Fürsten und Städte nichts unternehmen, um den doch bekannten Plänen [Karls V.] zuvorzukommen, obwohl sie es könnten und der Kaiser in ihrer Hand ist. Hätte Myconius einen Hausdiener, der ihm droht, hinge es doch allein von ihm ab, diesen daran zu hindern, tätlich zu werden! Stände er in Kontakt mit [einflussreichen] Personen in Schwaben und Niederdeutschland, würde er versuchen, diese zum Schutz der Christenheit zu bewegen. Bullinger, der Kontakte zu einflussreichen Schwaben hat, wird aber schon wissen, was er zu tun hat.
+<t/>Zu den Mitteilungen in Bullingers Brief: Die Pläne [Karls V.] müssen bekannt gemacht werden. Deshalb teilte Myconius sie Bernhard Meyer [zum Pfeil] mit. Er nannte dabei keine Namen, und zwar nicht nur Bullingers Wunsch entsprechend, sondern auch, weil Meyer sich sonst wundern würde, warum die Zürcher oder der Bürgermeister [Vadian] dies [ihm] nicht [direkt] selbst gemeldet haben.
+<t/>Über die Verhandlungen in Cambrai konnte Bernhard [Meyer] nichts Neues berichten. Vermutlich sind [die Gesandten] noch nicht abgereist. Henmann Offenburg erzählte, dass der französische [König Franz I.] zwei Heere entsandt hätte, das eine gegen den englischen [König Heinrich VIII.], das andere in das Piemont. Dies behauptet auch der neue Basler Oberzunftmeister [Blasius Schölli]. Den todkranken [Ludwig] von Reischach kann man leider nicht darüber befragen.
+<t/>Herzog [August] von Sachsen und [Herzog] Franz von [Braunschweig]-Lüneburg kamen am 31. Januar nach Augsburg, möglicherweise aus einem heimlichen Grund.
+<t/>In Basel möchte man gern mehr über den in Rottweil erschienenen Teufel und über das Unwetter in Radolfzell am Untersee erfahren. Falls Bullinger Sicheres weiß, möge er es mitteilen.</re>
+<text>
+<p>S. Qu{e} scripsisti ex aliis atque aliis,
+<fn>Siehe <qv>nr2375</qv>,<qv>zl2375-9</qv>.</fn> mirum est, quam mihi fuerint grata, tametsi qu{e}dam sunt, quibus non prorsus adsentio, quale est de citatis colloquutoribus ad concilium.
+<fn>Die Vorladung der Kolloquenten vom Zweiten Regensburger Religionsgespräch an das Konzil von Trient; s. <qv>nr2375</qv>,<qv>zl2375-10</qv>.</fn> Nam neque huius est citare neque illorum obtemperare. Quamvis interim non nesciam Tridentinis esse potestatem vel in deum.
+<fn>Ironisch.</fn></p>
+<p>De Lutheri obitu {e}que dubium est,
+<fn>Vgl. <qv>nr2375</qv>,<qv>zl2375-15</qv>.</fn> quod is a papistis longe ante et praecognitus et pronunciatus fuisset,
+<fn>Vgl. <a>HBBW</a> XV 370,28f. 380 und Anm. 9.</fn> etiamsi interim non contendam, homo est et quidem senex.</p>
+<p>Qu{e} significata sunt de c{e}saris
+<fn>Karl V.</fn> furore,
+<fn>Siehe <qv>nr2375</qv>,<qv>zl2375-16</qv>. <qv>zl2375-17</qv>. <qv>zl2375-12</qv>.</fn> ut non sunt nova, nisi qu{e} speciatim indicasti, ita horrui, quod mala mens tanti fastigii non mutatur, etiam postquam manus domini toties virum tetigit. Non minus Pharaone
+<fn>Vgl. Ex 5-14.</fn> videtur induratus; quod tamen vel ideo non mirandum, quod conflictatur iugiter cum ingeniis longe pestilentissimis
+<fn>Vgl. <qv>nr2372</qv>,<qv>zl2372-4</qv>; <qv>nr2376</qv>,<qv>zl2376-3</qv>.</fn>. Venit nuperrime quidam
+<fn>Unbekannt.</fn> ex Germania Inferiore; quem cum rogarem, num c{e}sar haberet milites secum, respondit: "Neminem nisi pfaffos et monachos." Miror autem, qui fiat, ut, postquam malum eius propositum
+<fn>Der Kriegsplan des Kaisers.</fn> sciatur, quare neque principes neque civitates pr{e}venire tentent, cum res sit in manu ipsorum, imo ipse imperator. Equidem habeo domesticum, esto, qui mihi minatur; qui fieret, ut min{e} eius, modo vellem, non venirent in caput eius? Si mihi cum Suevis seu Inferioris Germani{e} doctis et prudentibus viris esset aliquid consuetudinis, tentarem, qu{e} viderentur in rem fore reipublic{e} christian{e}; quid tibi sit, meo iudicio, faciendum, qui habes Svevos
+<fn>Myconius denkt z.B. an den Altbürgermeister Thomas Blarer aus Konstanz, an Altbürgermeister Hans Welser aus Augsburg und an den Augsburger Stadtschreiber Georg Frölich, der in Kontakt mit Philipp von Hessen stand.</fn> in potestate veluti, divinato.</p>
+<p>Quid ex tuis
+<fn><qv>nr2375</qv>.</fn> egerim, breviter dicam: Cesaris consilia mihi videntur non dissimulanda. Ostendi ergo, qu{e} indicasti, domino Bernhardo Meyero
+<fn>Bernhard Meyer (Meiger) zum Pfeil, einer der führenden Basler Außenpolitiker und Bruder des damals amtierenden Basler Bürgermeisters Adelberg Meyer.</fn> et authoris
+<fn>Vadian, von dem die Angaben zu den Plänen des Kaisers stammen; s. <qv>nr2375</qv>,<qv>zl2375-8</qv>.</fn> et scriptoris
+<fn>Bullinger, der die Angaben Vadians nach Basel übermittelte.</fn> nomine suppresso et rogavi, eis utatur ad commodum reipublicae Christian{e}. Ille, sic promittens se facturum, digressus est. Arbitror me egisse neque contra te neque contra d. Vadianum. Indicassem authorem, nisi tu prohibuisses
+<fn>Vgl. <qv>nr2375</qv>,<qv>zl2375-13</qv>.</fn> et nisi fuissem veritus, ne cogitasset ille
+<fn>Bernhard Meyer.</fn>, quid vel Tigurini vel consul
+<fn>Vadian.</fn> ista non potius ad nos?</p>
+<p>De Cameracensi conventu
+<fn>Zum erfolglosen Treffen der Gesandten von Karl V. und Franz I. in Cambrai sowie zu Bullingers Bitte um nähere Informationen s. <qv>nr2375</qv>,<qv>zl2375-11</qv>.</fn> idem Bernhardus dixit, sed nihil ad rem. Puto nondum digressos. Ab Hemmanno Offenburgensi
+<fn>Junker Henmann Offenburg, gest. am 25. März 1559 in Liestal. 1546 amtete er als Landvogt auf der Farnsburg (Kt. Baselland); s. <a>AK</a> VI 251, Anm. 4.</fn> dictum ad me intellexisse se Gallum
+<fn>König Franz I.</fn> exercitus duos iampridem paratos dimisisse, alterum contra Anglum
+<fn>König Heinrich VIII.</fn>, <zzl>zl2379-1A</zzl>alterum trans Alpes in Pedemontem.<zzl>zl2379-1E</zzl>
+<fn>Vgl. <qv>nr2383</qv>,<qv>zl2383-2</qv>.</fn> Adseruit idem tribunus novus
+<fn>Der am Johannistag 1545 neu gewählte Oberstzunftmeister Blasius Schölli; s. <a>Gast, Tagebuch</a> 222f mit Anm. 11. - Wir danken Herrn Rainer Henrich für diesen Hinweis.</fn>, at mihi non fit verisimile. Dominus de Rischach
+<fn>Ludwig von Reischach starb am 9. Juni 1564; s. <a>AK</a> IV 343, Anm. 2.</fn> decumbit letaliter; nihil igitur ex eo cognoscere potui.</p>
+<p>Dux Saxo
+<fn>Herzog August von Sachsen.</fn> et Franciscus Lynenburgensis
+<fn>Herzog Franz von Braunschweig-Lüneburg-Gifhorn.</fn> venerunt pridie kalendas februarii Augustam urbis visend{e} gratia.
+<fn>Die beiden Herzöge waren bereits am 21. Januar 1546 in Augsburg eingetroffen; s. Gereon Sailer an Philipp von Hessen, 23. Januar 1546 (<a>Lenz</a> III 389).<zfn>fn2379-1</zfn></fn> Mirum, si nihil aliud fuit illis negocii.</p>
+<p>Miramur nos hic de d{e}monio Rotwilensi,
+<fn>Siehe dazu Johann Ulrich <i>Steinhofer,</i> Ehre des Herzogtums Wirtenberg in seinen durchlauchtigsten Regenten oder Neue Wirtenbergische Chronik, Tübingen 1744, S. 313 (unter 1546): "Als zu Rotweil die evangelische Lehre von einigen hart angefochten wurde, und viele, welche sagten, sie wollten allein durch den Glauben an Christum selig werden, von dannen mit Verlassung ihrer Güter wegzogen; sahe man den Teufel zu grossem Schrecken der Einwohner durch die Stadt gehen." Siehe ferner <a>Rhenanus BW</a> 550; Winfried <i>Hecht,</i> Rottweil, 1529-1643. Von der konfessionellen Spaltung zur Katastrophe im 30jährigen Krieg, Rottweil 2002, S. 24. - Das hier bezeugte Interesse an Rottweil lässt sich insofern erklären, als Myconius wie viele andere, die sich der Reformation zugewandt hatten, an jenem Ort einst die lateinische Schule besucht hatte; s. <a>HBBW</a> I 226, Anm. 15.<zfn>fn2379-2</zfn></fn> item de nube caliginosa ignem tandem expuente supra Cellam Laci Inferioris
+<fn>Cellam Laci Inferioris: Das am Untersee (Teil des Bodensees) gelegene Radolfzell.<zfn>fn2379-3</zfn></fn>. Si quid habes certi, significato.</p>
+<p>Vale cum tuis in domino. Basile{e}, 14. martii anno 1546.</p>
+<un>Tuus Os. Myco.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, Tigurinorum episcopo doctissimo vigilantissimoque, domino in Christo venerando suo.</p>
+</text>
+</brief>

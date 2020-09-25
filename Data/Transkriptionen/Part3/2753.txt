@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2753">
+<brief>
+<id>17000</id>
+<nr>2753</nr> <from persid="GastJohannes"/> <to persid="Bullinger"/> <place plid="Basel"/> <date notbefore="1547-01-15" notafter= "1547-01-19"/>
+<ae>Johannes Gast an Bullinger</ae>
+<od>[Basel, zwischen dem 15. und 19. Januar 1547]
+<fn>Das Jahr 1547 ergibt sich aus der Erwähnung von Francesco Stancaros Ankunft in Basel (s. unten Z. <qv>zl17000-1</qv>). Da Gast unten in Z. <qv>zl17000-3</qv> Bullinger gegenüber einen Geldbetrag verdankt, den er am 6. oder 7. Januar erhalten hatte (vgl. <qv>nr2740</qv>,<qv>zl17009-2</qv>, mit <qv>nr2761</qv>,<qv>zl17029-14</qv>), Bullinger aber am 19. Januar noch immer nicht wusste, ob Gast den Betrag erhalten hatte (s. <qv>nr2757</qv>,<qv>zl17025-11</qv>), ist (angesichts der Tatsache, dass es in der Regel drei bis vier Tage brauchte, um einen Brief zwischen Basel und Zürich zu befördern) vorliegendes Schreiben kaum vor dem 15. Januar anzusetzen. Da zur Abfassungszeit des Briefes Graf Georg von Württemberg-Mömpelgard in Basel noch erwartet wurde (s. unten Z. <qv>zl17000-2</qv>), der Graf aber am 20. Januar dort nachgewiesen ist (s. <qv>nr2761</qv>,<qv>zl17029-16</qv>), datiert der Brief vor dem 19. Januar. Die Erwähnung von Johannes Brenz in unten Z. <qv>zl17000-4</qv> sowie die Ankündigung einer baldigen Mitteilung von Myconius über Kurfürst Johann Friedrich in unten Z. <qv>zl17000-5</qv>, die es tatsächlich in Myconius' Brief vom 20. Januar gibt (s. <qv>nr2761</qv>,<qv>zl17029-8</qv>), sprechen ebenfalls für unsere Datierung, auch wenn die Nachricht einer Erkrankung von Myconius in Z. <qv>zl17000-6</qv> und die Behauptung einer angeblich bereits erfolgten Unterwerfung Augsburgs unter den Kaiser in Z. <qv>zl17000-7</qv> dazu verleiten könnten, vorliegenden Brief etwa um den 1. Februar anzusetzen: Denn am 6. Februar (nicht aber am 20. Januar) berichtete nämlich Myconius, dass er krank sei (s. <qv>nr2797</qv>,<qv>zl17066-2</qv>), und erst am 24. Januar hatte Augsburg beschlossen, sich dem Kaiser zu unterwerfen (s. <qv>nr2769</qv>, <qv>fn17037-3</qv>). Da es aber wahrscheinlicher ist, dass die Nachricht einer Unterwerfung Augsburgs verfrüht und Folge eines falschen Gerüchtes war, als dass Gast am 1. Februar noch immer nichts über die Anwesenheit des Grafen in Basel wusste, ist die frühere Datierung der späteren vorzuziehen. Demzufolge ist die im vorliegenden Brief erwähnte Krankheit Myconius' nicht identisch mit dessen im Februar belegter schwereren Erkrankung.<zfn>fn17000-1</zfn></fn></od>
+<vo>Autograph: Zürich StA, E II 366, 105-105a (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 88 (dat.: um 7. Februar 1547). Zit.: <i>Gast,</i> Tagebuch 317 (Anm. 27) (dat.: Anfang 1547), 352 (Anm. 87), 367 (Anm. 109)</k></dr>
+<re><t>Was soll man denn noch schreiben? Der Mensch ist nichtig, unnütz und unzuverlässig! Kaum wurden [die Protestanten] von Gott erprobt, haben sie sich schon den gottlosen papistischen Satzungen unterstellt! Was wäre passiert, wenn sie es mit einem noch schwereren Kreuz zu tun gehabt hätten? Bestimmt hätten sie Christus verleugnet! Gast übertreibt nicht die List der Pseudoevangelischen!</t>
+<t>Das Geld, das er für [den Kauf der für Bullingers Frau Anna, geb. Adlischwyler, bestimmten] Wolle [ausgegeben hat], hat er zurückerhalten. Seine Gattin [Apollonia, geb. Glaser] bedankt sich für die beigelegten Geschenke. Sie hat vor, sich dafür zu revanchieren.</t>
+<t>Der fromme Herzog Christoph von Württemberg hat sich mit seiner Frau [Anna Maria, geb. Brandenburg-Ansbach] in Basel niedergelassen. Man erwartet nun Graf Georg [von Württemberg-Mömpelgard] mit seinem ganzen Haus und mit allen Predigern [seiner Herrschaft]. Wahrscheinlich ist Kaiser Karl V. ihm gegenüber gnadenlos. Dieser hat dem Grafen eine enorme Geldbuße auferlegt. Entweder wird der Graf diese bezahlen oder sein Gebiet König Franz I. von Frankreich verkaufen oder verpfänden müssen, bis der Zorn des Kaisers sich legt. Bullinger weiß bestimmt, dass Herzog Christoph König Franz I. Mömpelgard geschenkt hat, und dass überall in Mömpelgard wie auch in der umliegenden Landschaft das Zeichen der [bourbonischen] Lilie angebracht wurde.</t>
+<t>Bullinger wird auch über den Inhalt des schmeichelhaften Briefes, den der fuchsartige Kaiser den Eidgenossen schrieb, gut informiert sein. Ulm, Augsburg und die anderen [süddeutschen] Städte haben sich alle den ungerechten Bedingungen des Kaisers unterworfen. Die Stadt Straßburg hält noch stand, ihre Obrigkeit schwankt aber bereits. Philipp von Hessen soll seine Truppen auflösen und die Gunst des Kaisers suchen. Gast denkt oft an den Psalmvers "Vertraut dem Menschen nicht!" [Ps 146, 2f]. Der erkrankte Myconius wird Weiteres berichten. Er ist bettlägerig, und seine Frau [Margret] ist noch kränker als er.</t>
+<t>Vor einigen Tagen traf der aus Augsburg kommende Francesco Stancaro in Basel ein. Der gelehrte Hebraist und Gräzist fürchtet sich vor dem Kaiser und König Ferdinand I. Wolfgang Musculus hat auch vor, das unruhige Augsburg zu verlassen.</t>
+<t>Der tapfere Krieger Claus von Hattstatt wollte Herzog Christoph in Basel besuchen. Als er in Ensisheim im Wirtshaus speiste, wurde er verhaftet und ins Schloss geführt, wo er einen Eid ablegen musste, während seine Begleiter schon in der Wirtschaft dazu gezwungen wurden. Man wirft ihm vor, auf der Seite Frankreichs und der [Reichs]städte zu sein. Was wird das noch geben?</t>
+<t>Der Kaiser soll vorhaben, sich nach Schlettstadt zu begeben, um von dort aus gegen Straßburg zu ziehen und das Elsass, besonders [die Herrschaft Reichenweier und die Grafschaft Horburg], zu verwüsten. Alle haben Angst. So werden die Bösen und die heuchlerischen Anhänger des Evangeliums entlarvt.</t>
+<t>Bullinger wird wohl erfahren haben, wie Johannes Brenz behandelt wurde. Die Papisten rühmen sich des kaiserlichen Erfolgs und lästern sogar dabei!</t>
+<t>Dass Gast selten schreibt, möge Bullinger verzeihen.</t>
+<t>Myconius wird erzählen, wie Kurfürst Johann Friedrich von Sachsen gegen den perfiden Herzog Moritz vorgeht. Vor Beginn des Krieges sind [Agnes, geb. von Hessen], die Gattin des Letzteren und die Kinder von [Sibylle, geb. von Jülich-Kleve-Berg], die Gattin des alten Kurfürsten Johann Friedrich, weinend vor Moritz auf die Knie gefallen und haben ihn angefleht, nicht gegen seinen Verwandten einen Krieg anzufangen. Moritz erwiderte zornig: "Ich werde sowieso tun, was ich dem Kaiser versprochen habe. Ich werde der zukünftige Kurfürst sein. Lasst mich in Ruhe!" Nun aber ist er völlig machtlos, ja vielleicht schon gefangen, während sein Gebiet verwüstet ist.</t>
+<t>Grüße an Theodor Bibliander, Konrad Pellikan, Rudolf Gwalther und besonders an Johannes Fries.</t>
+<t>In Eile.</t></re>
+<text>
+<div>
+<p>S. in domino. <zzl>zl17000-8A</zzl>Quid scribam, nescio. Homines esse vanos,
+<fn>Weish 13, 1.</fn> inutiles, nullius fidei nosti. Dominus nos parum probat, et mox deficimus ad impias papistarum constitutiones! Quid, si maior et acerbior crux nos
+<fa><i>In der Vorlage</i> non.</fa> molestaret, putas tales facerint
+<fn>= fecerint (s. dazu <a>Stotz</a> IV 209f, Nr. 118.6).</fn>. Christum ipsum absque dubio pernegarent. Verum nolo exaggerare nostrorum, hoc est pseudoevangelicorum, perfidiam.<zzl>zl17000-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-3A</zzl>Ich hab das gelt entpfangen von der wollen.
+<fn>Vgl. <qv>nr2738</qv>,<qv>zl17007-2</qv>; <qv>nr2740</qv>,<qv>zl17009-2</qv>; <qv>nr2757</qv>,<qv>zl17025-11</qv>.</fn> Myn hußfrow
+<fn>Apollonia, geb. Glaser.</fn> sagt uch danck umb die schencky
+<fn>das Geschenk.</fn>. Sy ist nachgendiger zyt
+<fn>nachgendiger zyt: später.</fn> in willens, sölichs z{uo} beschulden
+<fn>vergelten.</fn>.<zzl>zl17000-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-9A</zzl>Dux Wirtembergensis Christophorus
+<fn>Christoph von Württemberg, der Anfang Januar in Basel eingetroffen war; s. <qv>nr2761</qv>, <qv>fn17029-1</qv>.</fn> cum uxore
+<fn>Anna Maria von Württemberg, geb. Brandenburg-Ansbach.</fn> apud nos haeret, pius princeps, verbum domini amans.<zzl>zl17000-9E</zzl> <zzl>zl17000-2A</zzl>Expectamus Georgium principem
+<fn>Graf Georg von Württemberg-Mömpelgard. </fn> cum tota familia et omnibus suis ministris verbi.<zzl>zl17000-2E</zzl> <zzl>zl17000-10A</zzl>Nam caesar
+<fn>Karl V.</fn> illum in gratiam accipere recusat fortassis. Quaerit summam pecuni{e} ab eo, quam aut dabit aut regi Galliae
+<fn>Franz I.</fn> suam ditionem oppignerabit vel vendet ad tempus, donec furor caesareanus parum extinctus fuerit.<zzl>zl17000-10E</zzl> <zzl>zl17000-11A</zzl>Nec te ignorare puto ducem Wirttembergensem
+<fn>Hier ist Herzog Christoph gemeint.</fn> Mümpelgart Gallo dedisse et lilia passim in civitate et agris affixa esse.<zzl>zl17000-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-12A</zzl>Caesarem Helvetiis blandis verbis scripsisse
+<fn>Der am 27. Dezember verfasste Brief des Kaisers an die Eidgenossen, der spätestens am 10. Januar auf der Tagsatzung in Baden eingetroffen war und dort beantwortet wurde; s. <qv>nr2751</qv>, <qv>fn17020-2</qv>.<zfn>fn17000-3</zfn></fn> nosti melius quam ego. Hoc est vulpino mori agere.<zzl>zl17000-12E</zzl> <zzl>zl17000-7A</zzl>Ulma, Augusta et <vl>105v.</vl> reliquae civitates in gratiam caesaris adsumpt{e} iniquis conditionibus.
+<fn>Zur Unterwerfung Ulms s. <qv>nr2734</qv>, <qv>fn17003-1</qv>. Die süddeutschen Städte Biberach, Isny, Kempten, Memmingen und Ravensburg waren im Begriff, den Treueid zu leisten; s. <qv>nr2741</qv>, <qv>fn17010-2</qv>. Augsburg aber sollte sich erst am 24. Januar offiziell dazu entschließen; s. <qv>nr2769</qv>, <qv>fn17037-3</qv>. Doch war es schon vor diesem Zeitpunkt zu Annäherungen mit dem Kaiser gekommen, die auf eine baldige Unterwerfung der Stadt deuteten; s. <a>HBBW</a> XVIII 441,9f; <qv>nr2737</qv>, <qv>fn17006-5</qv>; <qv>nr2741</qv>,<qv>zl17010-4</qv>; <qv>nr2744</qv>,<qv>zl17013-9</qv>; <qv>nr2746</qv>,<qv>zl17015-10</qv>; <qv>nr2759</qv>,<qv>zl17027-27</qv>.<zfn>fn17000-4</zfn></fn><zzl>zl17000-7E</zzl> <zzl>zl17000-13A</zzl>Argentina persistit adhuc, sed vacillant primates.<zzl>zl17000-13E</zzl> <zzl>zl17000-14A</zzl>Cattum
+<fn>Philipp von Hessen.</fn> aiunt dimittere suos milites. Ambit caesaris favorem.<zzl>zl17000-14E</zzl> <zzl>zl17000-15A</zzl>Psalmi dictum saepius recordor: "Nolite confidere in homine",
+<fn>Ps 146 (Vulg. 145), 2f.</fn> etc.<zzl>zl17000-15E</zzl> <zzl>zl17000-16A</zzl>Reliqua a <zzl>zl17000-6A</zzl>Myconio aegrotante<zzl>zl17000-6E</zzl> accipies. Ipse lecto adflictus cum uxore
+<fn>Margret, deren Geburtsname unbekannt ist. Siehe zu ihr <a>Henrich, Myconius BW</a> 12 und Anm. 21.</fn>, quae crudeliori morbo laborat quam ipse.<zzl>zl17000-16E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-1A</zzl>Hisce diebus ad nos venit ab Augusta Stengarus
+<fn>Francesco Stancaro. - Aus dieser Stelle geht hervor, dass Stancaro und Bernardino Ochino nicht zusammen in Basel eintrafen. Sie werden Augsburg auch nicht gemeinsam und bestimmt nicht erst am 29. Januar verlassen haben, zumal Ochino an diesem Tag bereits in Konstanz nachzuweisen ist; s. <qv>nr2782</qv>,<qv>zl17050-1</qv>. Dementsprechend sind unsere Angaben in <a>HBBW</a> XVIII 280, Anm. 6, zu korrigieren.<zfn>fn17000-2</zfn></fn>, Hebraice et Gr{e}ce doctus homo, qui caesaris et Ferdinandi tyrannidem timuit.<zzl>zl17000-1E</zzl> <zzl>zl17000-17A</zzl>Musculus
+<fn>Wolfgang Musculus. - Vgl. <qv>nr2759</qv>,<qv>zl17027-13</qv>.</fn> meditatur locum mutare. Cives turbulenti sunt, nec mirum.<zzl>zl17000-17E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-18A</zzl>Es hat Claus von Hattstat
+<fn>Der Söldnerführer Claus (Niklaus) von Hattstatt (1510-1585), der im Laufe seines Lebens seine Dienste verfeindeten Lagern anbot. - Vorliegende Stelle (derzeit die einzig bekannte Quelle für die 1547 erfolgte Festnahme Hattstatts in Ensisheim) wirft ein neues Licht auf die in späteren Quellen angeführten Gründe für Hattstatts Verhaftung. Dieser wurde erst im Mai 1548 wieder auf freien Fuß gesetzt; vgl. Veronika <i>Feller-Vest,</i> Die Herren von Hattstatt. Rechtliche, wirtschaftliche und kulturgeschichtliche Aspekte einer Adelsherrschaft (13. bis 16. Jahrhundert), Bern 1982, S. 253-263. 373-376.<zfn>fn17000-5</zfn></fn>, nobilis, miles strenuus, wöllen gon Basel rütten zum Wirtemberger
+<fn>Christoph von Württemberg.</fn>. Da ist er zu Ensesheim gefangen, als er do z{uo} ymbiß geesset hatt. Hat ins schloß müssen schweren; die knecht ins wurtshuß. Man <zzl>zl17000-24A</zzl>zücht in
+<fn>zücht in: bezichtigt ihn; s. <a>Fischer</a> VI/1 1095 s.v. "zeihen".</fn><zzl>zl17000-24E</zzl>, er sey frantz{oe}siß und stettisch. Also brockt sich das m{uo}ß
+<fn>Ein Brei (hier im schlechten Sinne des Wortes, wie etwa in <a>Wander</a> III 783f s.v. Mus; <a>SI</a> V 562f s.v. inbrocken). - Die vorliegende Äußerung entspricht etwa "Das gibt noch eine rechte Sache".</fn> yn.<zzl>zl17000-18E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-19A</zzl>Man sagt, der keiser wölle gon Schletstatt sich l{ae}geren, die von Straßburg z{uo} kriegen, das Elseß z{uo} verderben, besonder das wirtembergisch ländli
+<fn>Die Grafschaft Horburg und die Herrschaft Reichenweier.</fn>. Es ist iederman erschrocken. Domit wirt die warheit gelü-<vl>105a,r.</vl>tret in den bößen
+<fn>wirt die warheit gelütret in den bößen: werden die Bösen entlarvt (indem die Wahrheit über sie ans Licht kommt); s. <a>SI</a> III 1516f.</fn>, die glissner
+<fn>Heuchler.</fn> an tag gebracht, die sich under dem schin des evangeliß haben ir boßheit bedeckt.
+<fn>Ähnliche Beurteilung auch in <a>HBBW</a> XVIII 453,15-20; <qv>nr2751</qv>,<qv>zl17020-23</qv>.</fn><zzl>zl17000-19E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-4A</zzl>Quid cum Brentio actum sit, clam te esse non puto.
+<fn>Über Johannes Brenz s. <qv>nr2812</qv>,<qv>zl17080-5</qv>.</fn><zzl>zl17000-4E</zzl> <zzl>zl17000-20A</zzl>Papist{e} gloriantur de successu felici caesaris. Ponunt os in c{e}lum,
+<fn>Os in coelum ponere: Gegen Gott lästern, in Anlehnung an Ps 73 (Vulg. 72), 9. - Siehe ferner Dan 7, 25.</fn> etc.<zzl>zl17000-20E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-21A</zzl>Vale et ignosce, quod raro scribo.<zzl>zl17000-21E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17000-5A</zzl>Myconius narrabit, quid elector in Saxonia
+<fn>Johann Friedrich I.</fn> agat cum perfido Mauritio;
+<fn>Nämlich in <qv>nr2761</qv>,<qv>zl17029-8</qv>.</fn><zzl>zl17000-5E</zzl> <zzl>zl17000-22A</zzl>vor welchem syn hußfrow
+<fn>Agnes von Sachsen, geb. von Hessen.</fn>, kinder
+<fn>Zu deren Namen s. <qv>nr2849</qv>, <qv>fn17117-5</qv>.</fn> deß alten fursten frow
+<fn>Sibylle von Jülich-Kleve-Berg (gest. 21. Februar 1554), die Gattin Johann Friedrichs.</fn>, uff die knü nider gfallen vor anfang deß kriegs, in gebetten mit weinenden ougen, er
+<fa><i>In der Vorlage</i> es.</fa> s{oe}lle kein krieg anheben wider sinn vetteren
+<fn>Zur Verwandtschaft zwischen den beiden Fürsten s. <a>HBBW</a> XVIII 229, Anm. 81.</fn>, der im so vil g{uo}ts thon habe. Do ist er ergrimpt worden. Gsagt: "Ich wirt das th{uo}n, das ich dem keyser z{uo}gsagt habe, es treffe an, was es welle. Ich bin z{uo}küntftiger churfurst! Darumb lassent mich mit lieb
+<fn>lassent mich mit lieb: Lasst mich in Ruhe; s. <a>FNHDW</a> 1131, Nr. 8.</fn>." Ita discessit, sed totus
+<fa><i>Unsichere Lesung.</i></fa> exactus vastata sua regione et, ut quidam dicunt, etiam captus.<zzl>zl17000-22E</zzl></p>
+</div>
+<div>
+<p>H{e}c paucis volui ad te scribere. <zzl>zl17000-23A</zzl>Salutato nomine meo d. Theodorum
+<fn>Theodor Bibliander.</fn>, Pellicanum, praecipue Frisium
+<fn>Johannes Fries.</fn> cum Gvalthero et r[eli]quis
+<fa><i>Textverlust bei der Entfernung des Siegels.</i></fa> ministris.<zzl>zl17000-23E</zzl></p>
+<un>Nosti manum.</un>
+<lz/>
+</div>
+<div>
+<p>Raptim.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem eerwürdigen und wolgelerten herren m. Heinrych Bullingeren, mynem lieben günstigen herren. Zürich.
+<fn>Dieser Brief wurde vielleicht, wie auch Celio Secondo Curiones Brief vom 18. Januar, dem von Basel via Zürich nach Italien reisenden, nicht identifizierten Juden anvertraut; s. <qv>nr2758</qv>,<qv>zl17026-5</qv>.<zfn>fn17000-6</zfn></fn></p>
+</div>
+</text>
+</brief>

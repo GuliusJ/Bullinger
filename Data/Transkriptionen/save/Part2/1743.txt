@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1743">
+<nr>1743</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>5. Mai 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 278 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 192</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 181, Nr. 1006</dr>
+<re>Bullinger mag mit diesem Brief vorlieb nehmen; Blarer war den ganzen Tag beschäftigt; sein Arm ist wieder kräftiger, aber nun ist alles nachzuholen, was er den ganzen Monat vernachlässigt hat. Es gab nichts Neues zu berichten; übersendet, was er heute und vorgestern empfangen hat, und bemüht sich weiterhin um Informationsaustausch.
+Grüße, besonders an Gwalther, dem er bisher noch nicht schreiben konnte.</re>
+<tx>Salve, anime mi.
+^$Ego te per dominum nostrum Iesum Christum obtestor, ut
+literas hasce boni consulas. Sic toto illo die distentus
+fui, ut nihil praeterea virium supersit, quo animum meum
+tibi probem. Confirmatius quidem nunc brachium<f1>Zu Blarers Erkrankung vgl. oben Nr. 1740.<fe> est. Sed nunc
+compensare magna molestia, velim nolim<f1>Otto 362, Nr. 1852.<fe>, cogor, que toto
+mense neglexi.
+^$Novi nihil erat, quod scriberem; alioqui vel
+aliorum manu officium fecissem. Mitto, que hodie et nudius
+tertius accepi<f1>Die Beilagen sind nicht erhalten.<fe>, et sedulo cu­rabo, ne porro<fx>porro ^#/+über der Zeile nachgetragen.^#/-<fe>, quod ipse scio,
+tu ignores.
+^$Commenda nos domino et amicis.
+Bene vale iterum atque iterum cum tota tua domo, quam
+dominus perpetuo ędificet. In primis Gvaltherum meum
+officiosissime salutabis, ad quem omnino scribere
+opportebat; sed nulla prorsus data opportunitas.
+^$5. maii 1543.
+<un>Tuus Ambr. Blaurerus.
+<lz>[Adresse auf der Rückseite:] Bullingero suo.
+Tiguri.
+</content>
+</letter>

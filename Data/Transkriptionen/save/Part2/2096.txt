@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2096">
+<nr>2096</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Martin Bucer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. März 1545</date>
+</space_time>
+<vo>Abschrift von Josias Simler<fx>^#/+Dass der Schreiber, der auch die Briefe Nr. 2078. 2106 und 2112 abschrieb, eine jüngere Person war, geht aus der Beobachtung hervor, dass er innerhalb weniger Wochen mit einigen Buchstaben wie auch mit der Abkürzung "et" experimentierte. Bei dem Schreiber handelt es sich um das 14jährige Patenkind Bullingers, Josias Simler (geb. November 1530), wie ein Vergleich dieser Abschriften - denen noch eine weitere, im Februar 1546 entstandene Abschrift eines Briefes an Wolfgang Musculus (Zürich StA, E II 345, 355) hinzuzufügen ist - mit dem ersten erhaltenen Brief Simlers an Bullinger vom 12. April 1546 (Zürich ZB, Ms F 40, 443) zeigt.^#/-<fe> mit zwei Ergänzungen<fx>^#/+Siehe Anm. c und Z. 44.^#/-<fe> von Bullinger: ^$^$^$^$Zürich StA, E II 346, 145r.</vo>
+<dr>Ungedruckt</dr>
+^&xKopien 18. und 19. Jh.: Zürich ZB, Ms S 56, 199; Straßburg BNU, ms. 675 (Th. Baum. 16), 28; Zit.: ^#/+Pollet,^#/- Bucer II 292 (A. 2). 293 (A. 1); TÜ: Rüetschi, Bucer und Bullinger, in: Bucer and Sixteenth Century Europe (Kolloquium 1991), Leiden 1993, S. 436f; Erw. siehe Kartei.^&x{
+<re>Bullinger hat Bucers langen Brief vom 13. Dezember 1545 erst Anfang Februar und mit [aufgebrochenem Siegel] erhalten. Er wird hier nicht auf Bucers Verteidigung von Luthers [Verhalten] eingehen. Die Brüder waren allerdings über diese Verteidigung erstaunt.
+-^#. Als Bucers Brief eintraf, war die Antwort auf [Luthers "Kurtz bekentnis"] bereits verfasst, und wäre dies nicht so gewesen, hätte [Bucer die Zürcher] nicht zum Schweigen bringen können. Die Gegner sollen nun erfahren, dass die Zürcher ihrem Glauben alles opfern würden, auch wenn Bucer sich den Gegnern anschließen sollte.
+-^#. Luther wurde maßvoll geantwortet. Bucer wurde notwendigerweise erwähnt, doch stets auf anständige, wahrheitsgetreue und freundliche Weise. Sollte er sich trotz allem verletzt fühlen, sich den Eidgenossen gegenüber weiterhin ungerecht zeigen und sich den Gegnern anschließen, werden die Zürcher ihn verstoßen müssen.
+-^#. Bestimmt wird hier den [katholischen] Gegnern ein erfreuliches Spektakel vorgeführt. Besonders angesichts der aktuellen Lage der Dinge hätte sich Luther zurückhalten sollen. Da er es aber nicht tat, müssen die Zürcher nun ihre Sache zur Beurteilung vorbringen, zumal das Schweigen die Gegner bestätigt und eine Schrift sie vielleicht überzeugen kann. Geschützt in der festen Burg des Herrn wollen sie unerschrocken Gottes Urteil abwarten.
+-^#. Bullinger bedankt sich für [die Beförderung] von [Ottheinrichs] Brief.
+-^#. [Christoph] Froschauer wird Bucer ein Exemplar des ["Warhafften Bekanntnuß"] übergeben.</re>
+<tx>Gratiam et pacem a domino.
+^$Literas tuas, Bucere, prolixas adeoque libellum 13. decembris scriptum<f1>HBBW XIV, Nr. 2049. - Zu diesem Zeitpunkt hatte Bullinger wohl auch Bucers Brief vom 21. Januar 1545 (oben Nr. 2071) erhalten, doch wird dieser hier mit keinem Wort erwähnt.<fe> circa
+februarii principium<f1>Dies trifft nicht zu: Bullinger hatte Bucers Brief schon kurz vor dem 16. Januar 1545 erhalten; s. oben Nr. 2067 und Anm. 20.<fe> apertum et patentem accepi. Conaris in illo plurima pro Luthero contra nos; quae, qualia sint, nunc inexcussa relinquo.
+Admirati sunt omnes, qui apud nos viderunt fratres, tuum illud consilium et institutum.
+^$Ac tum, cum tuae nobis redderentur, confessio et responsio erant paratae,<f1>Es mag stimmen, dass die deutsche Fassung der Zürcher Antwort auf Luthers "Kurtz Bekentnis" (s. oben Nr. 2061, Anm. 7), das "Warhaffte Bekanntnuß" (oben Nr. 2061, Anm. 9), bereits Anfang Februar 1545 im Großen und Ganzen fertig geschrieben war, und dass Gwalther während des Monats Februar die lateinische Fassung dieser Schrift, die "Orthodoxa Tiguriane Ecclesiae confessio", erstellte. Fest steht, dass Johannes Gast am 28. Februar Bullinger seine ersten Eindrücke über diese ihm zugesandte handschriftliche deutsche Fassung mitteilen konnte (oben Nr. 2090, 2f). Dass aber das "Warhaffte Bekanntnuß" bereits vor Eintreffen von Bucers Brief fertig verfasst war, kann nicht stimmen, weil Bullingers eigene Aussagen im Briefe an Blarer vom 16. Januar 1545 dies klar bestreiten; s. oben Nr. 2067, 26-28.<fe> et, licet
+paratae non fuissent, tamen tuis non persuasisses silentium. Evidentes enim et
+plures nobis grandes et iustę confitendi et respondendi occasiones oblatę, imo obtrusę sunt.
+Et quoniam huc nos perpulit adversarius cum suis, id sibi certo persuasum habeat,
+ad hanc nostram confessionem et vitam et quicquid facultatum, a deo nobis concessum est, deposituros.
+Nec cedemus aut tacebimus hic, nisi apertis scripturae locis convicti fuerimus erroris in dogmatibus.
+Quod si te quoque adversariis coniunxeris - sicuti minaris te videlicet nobis contradicturum,
+si aliquid de te aut actionibus tuis pro concordia apud nos reparanda commemoremus -,
+non ideo tamen locum et causam nostram deseremus.
+^$Respondimus Luthero modeste. Tui fecimus mentionem necessitate compulsi non inhonestam,
+nec aliquid de te diximus quam quod vivis testimoniis et comitiorum actis sive codicillis probare possumus.<f1>Vgl. oben Nr. 2067, 16-23.<fe>
+Plura potuissemus, sed amice nos et fraterne erga te gessimus.
+Ergo si nulla in re petulanter a nobis offensus offensum te dixeris,
+si ingratus et iniquus nobis esse perrexeris, si non satis alias iniuriarum et rixarum in ecclesia esse putaveris,
+et tu quoque cum Luthero et suis nobiscum congredi coeperis, cogemur et te cum illis excipere.<f1>Vgl. Nr. 2067, 22f.<fe>
+Pacem cum omnibus, quantum in nobis est, habere cupimus;<f1>Röm 12, 18.<fe> neminem petulanter provocavimus aut provocamus;
+interim tamen ab aliis petiti respondere dei auxilio et bonitate causę freti
+non cessabimus,<f1>Vgl. 1Petr 3, 15.<fe> deo et ecclesię sanctę deferentes iuditium.
+^$Iucundum profecto spectaculum exhibebimus nostris hostibus<f1>den Feinden der römischen Kirche.<fe>.
+Sed respondeant deo,<f1>Röm 9, 20.<fe> qui his occasionem prebent.
+Lutherus merito a convitiis ac damnatione presenti tempore presertim abstinuisset.
+Quoniam vero id omnino fieri non potuit, et iam multi illius temeritatem non improbant
+- sed tacendo quasi confirmant, sed et scriptis forte comprobabunt -, deo, iudici nostro<f1>Jes 33, 22.<fe>, causam nostram humiliter offerimus iudicandam,<f1>Vgl. Ps 9, 4f (Vulg. 5f); Jer 11, 20.<fe>
+inque castris domini nostri intrepide<fx>intrepide ^#/+von Bullinger am Rande nachgetragen.^#/-<fe> stantes<f1>Vgl. 2Sam 22, 33; Ps 18, 2 (Vulg. 17, 3); 91 (Vulg. 90), 2; wobei Bullinger sich hier deutlich gegenüber dem bekannten, von Luther 1529 verfassten Lied "Eine feste Burg" positioniert.<fe> et auxilium Christi invocantes expectabimus, etc.
+Dominus Iesus servet ecclesiam suam.
+^$Literas illustrissimi principis Bavari<f1>Ottheinrich; s. HBBW XIV, Nr. 1999, 37f; Nr. 2033, 2. Zur historischen Erklärung dieser Bezeichnung s. Territorien des Reichs I 45.<fe> accepi, et ago tibi gratias ingentes.<f1>Ottheinrichs Brief vom 31. Januar 1545 (oben Nr. 2077); s. unten Nr. 2099, 4-6.<fe>
+^$Froschouerus<f1>Der mutmaßliche Überbringer dieses Briefes, dem die daraufhin erwähnte Schrift ebenfalls anvertraut wurde. Dass Froschauer auf dem Wege zur Frankfurter Buchmesse gern über Straßburg reiste, geht schon aus HBBW XIV 425, Nr. 1995, hervor.<fe> exemplum tibi responsionis et confessionis nostrę<f1>Das an diesem Tag aus Zürich abgesandte "Warhaffte Bekanntnuß" oder dessen lateinische Fassung, die "Orthodoxa Tigurinae ecclesiae confessio" (s. oben Nr. 2061, Anm. 9), die vom ihrem Übersetzer Gwalther am 8. März 1545 mit einem Nachwort versehen wurde. Beide Schriften waren gerade erschienen (s. auch unten Nr. 2097-2103). - Dass es sich dabei um die deutsche Fassung gehandelt haben könnte, lässt unten Nr. 2131, 37f und Anm. 21 vermuten.<fe> meo tibi nomine dabit.
+^$Vale.
+^$Tiguri, 12. martii 1545.
+<un>H. Bullingerus tuus.
+<lz>[Adresse als Überschrift von Bullingers Hand:] Bucero.
+</content>
+</letter>

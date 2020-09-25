@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2111">
+<nr>2111</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>16. März 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkung von unbekannter Hand.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 20 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 352, Nr. 1171</dr>
+^&xKopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 73v.; Ms S 57, 12; Zit. F. Roth: Zur Lebensgeschichte des Augsburger Stadtadvokaten Dr. Claudius Pius Peutinger, in: ARG 25, 1928, 20f (A. 2); Egli, Analecta II 67.^&x{
+<re>Der Bote [...] überbringt die restlichen Blätter vom ["Warhafften Bekanntnuß"]; es ist tatsächlich ein wenig lang geworden, was sich aber nicht vermeiden ließ. Bullinger übersendet ein Exemplar an [Thomas Blarer] und lässt diesen grüßen. Er bittet, die anderen vier Exemplare [der deutschen oder lateinischen Fassung] samt Begleitbriefen an [Hans] Welser, Claudius [Pius] Peutinger, [Wolfgang] Musculus und Georg Frölich mit dem nächsten Boten nach Augsburg weiterzuleiten; er schickt auch ein Exemplar an [Martin] Frecht.
+-^#. Bullinger dankt für die Nachrichten über den Reichstag [zu Worms], über [Karl V.] und über Landgrafen [Philipp von Hessen]. Hat Blarer Nachrichten über das Konzil von Trient? Was, wenn die Bestie ihre Kräfte zeigt und mit ihren drei Hörnern (welche die geistliche, kaiserliche und königliche Macht symbolisieren) die Gläubigen erdolcht? Aber Gott wird die Bestie besiegen; deshalb hat Bibliander die ["Relatio fidelis"] veröffentlicht, die Blarer bald sehen wird.
+-^#. Blarer soll öfter schreiben und Bullinger wissen lassen, ob dieser ihm noch Botenlohn schuldet.
+-^#. Grüße.
+-^#. [P.S.:] Die lateinische Übersetzung ["Orthodoxa Tigurinae Eccleasiae ... confessio"] von Gwalther ist auch gedruckt.</re>
+<tx>Gratiam et pacem.
+^$Tabellio<f1>Unbekannt.<fe> hic reliqua tibi, frater mihi plurimum observande, folia<f1>Den Rest der deutschen Ausgabe der Schrift "Warhaffte Bekanntnuß"; s. oben Nr. 2094, 44f.<fe> dabit.
+Suspicatus es fortassis adhuc multo plura tuis deesse, unde scripsisti<f1>Siehe oben Nr. 2094, 36-38, wo Blarer die Länge der Schrift bedauert hatte.<fe> malle nos succinctiores;
+ac revera satis prolixi sumus. Sed in re tanta et tam varii argumenti, quomodo, quaeso, breviores esse potuimus?
+Mallemus et nos omnia esse breviora.
+Fratri tuo germano<f1>Thomas Blarer.<fe> exemplum mitto, cui me, quaeso, commendes, et salutem ex me dices officiosissime.
+Oro utrumque, ut munuscula haec exigua non aspernemini.
+Exempla reliqua 4 una cum literis Augustam, quaeso, per proxime oblatum nuncium mitte.
+Scripsid. Welsero<f1>Der Brief an Hans Welser ist nicht erhalten.<fe>,d. Claudio Peutingero<f1>Nicht erhalten. - Claudius Pius Peutinger (1509-1551), der älteste Sohn des einflussreichen Augsburger Stadtschreibers und Humanisten Konrad Peutinger, genoss eine ausgezeichnete Ausbildung und erhielt schon 1522 Pfründen in Freising und Kempten. 1524 bewegte er sich im Reformatoren- und Humanistenkreis Basels und näherte sich dem Protestantismus an. Ab 1526 studierte er Jura in Orléans, Bourges und Ferrara, wo er 1532 promovierte. Nach einer Tätigkeit am Reichskammergericht in Speyer kehrte er 1533 nach Augsburg zurück, wo er zum städtischen Syndikus ernannt wurde; 1534 heiratete er Lucia Lauginger, die wie er selbst aus einer reichen Kaufmannsfamilie stammte. Anfang der 1540er Jahre nahm er an mehreren Zusammenkünften des Schmalkaldischen Bundes teil und näherte sich angesichts des drohenden Krieges wieder dem Katholizismus an; auf sein Betreiben hin unterwarf sich die Stadt Augsburg 1547 dem Kaiser. Mit der Abschaffung des Augsburger Zunftregimes durch Karl V. 1548 verlor auch der kaisertreue Peutinger sein Amt und wurde als Jurist für die verschiedenen Augsburger Handelshäuser tätig. 1551 wirkte er im Zusammenhang mit der Kapitulation Augsburgs vor Moritz von Sachsen nochmals für die Stadt tätig und hoffte auf eine Rehabilitierung durch den Kaiser. Bevor dies geschehen konnte, starb Peutinger Ende 1552. Es sind drei Briefe von ihm an Bullinger aus den Jahren 1545 und 1546 erhalten. - Lit.: Friedrich ^#/+Roth,^#/- Zur Lebensgeschichte des Augsburger Stadtadvokaten Dr. Claudius Pius Peutinger (1509-1552), in: ARG XXV 99-127. 161-255; ^#/+Roth^#/- passim (s. Reg.); ADB XXV 567 (unter Peutinger, Konrad).<fe>,d. Musculo<f1>Der Brief an Wolfgang Musculus ist nicht erhalten.<fe> etd. Georgio Laeto<f1>Der Brief an Georg Frölich ist nicht erhalten.<fe>,
+quibus me commendes quoque. Mitto et Frechto nostro<f1>Der Brief an Martin Frecht ist nicht erhalten.<fe> exemplum, etc.
+^$Pro iis, quae ex amici literis<f1>Hans Welsers nicht erhaltenener Brief an Ambrosius Blarer vom 9. März 1545, im Auszug oben Nr. 2094, 5-22.<fe> consignasti et communicasti de comitiis<f1>Der Reichstag in Worms.<fe>, caesare<f1>Karl V.<fe> et langraffii<f1>Philipp von Hessen.<fe> rebus, maximas ago gratias.
+Quid vero habes de consilio Tridentino<f1>Zum Konzil von Trient s. oben Nr. 2071, Anm. 24.<fe>? Quid, si canis triceps<f1>Cerberus, der angsteinflößende Hüter der Hölle, hier als Symbol für den Antichristen verwendet.<fe> et bestia tricornis<f1>Anspielung auf Dan 7 und Apk 13, wobei aber diese den Antichristen symbolisierenden Tiere nicht drei Köpfe haben.<fe>
+maximas hic vires suas exereret ac triplicato dentium ordine<f1>Anspielung auf den Mantikor.<fe> carnes sanctorum contereret
+aut tridente - spirituali, imperatoria et regali - potestate fideles confoderet?
+Sed vivit pater, filius et spiritus sanctus, benedictus in saecula deus,<f1>Vgl. Ps 41, 14 (Vulg. 40, 14); 106 (Vulg. 105), 48; Dan 2, 20.<fe> qui in aeternum maledictam bestiam confodiet.
+Edidit contra bestiam non poenitendum librum Bibliander<f1>Theodor ^#/+Bibliander,^#/- Relatio fidelis, Basel, Johannes Oporin, 1545; s. oben Nr. 2109 und Anm. 10.<fe>, quem mox videbis.
+^$Scribe ad me, quaeso, frequentius; nam intra 3 menses semel et iterum modo scripsisti.<f1>In der Tat sind es vier Briefe: oben Nr. 2060, 2065, 2084f, 2094.<fe>
+Stadt neißwas<f1>Stadt neißwas: Es steht vielleicht.<fe> noch botten lhon uß, lieber, so lassend michs wüssen. Ists noch ettwas,
+so weiß ichs nitt mee. Ir soͤllend minen oder unserthalb kein kosten noch schaden haben, etc.
+^$Dominus servet te cum tuis omnibus.
+^$Tiguri, 16. martii 45.
+<un>Tuus Bullingerus.
+<lz>Responsionem nostram<fx>^#/+Die Lesung^#/- meam ^#/+wäre nicht auszuschließen; s. aber oben Nr. 2067, 26.^#/-<fe> Latinam fecit Gvaltherus, quae et ipsa impressa est.<f1>Die "Orthodoxa Tigurinae eccleasiae ... confessio", die wohl zwischen dem 8. März (Datum des Nachworts des Übersetzers [Gwalther] an den Leser) und dem 12. März 1545 aus der Presse kam; s. oben Nr. 2061, Anm. 9.<fe>
+<lz>[Adresse auf der Rückseite:]<fx>^#/+Darunter von Blarers Hand das Empfangsdatum:^#/- 19. martii 1545.<fe> Clarissimo virod. Ambrosio Blaurero, Constantiensis ecclesiae pastori, fratri charissimo. Constantz.
+</content>
+</letter>

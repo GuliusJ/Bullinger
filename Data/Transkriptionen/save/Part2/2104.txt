@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2104">
+<nr>2104</nr>
+<correspondents>
+	<originator>Gilbert Cousin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>12. März 1545</date>
+	<note>Wie aus unten Nr. 2109, 1, hervorgeht, war Cousin bei Johannes Gast in Basel zu Besuch.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 289 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 201. [Vgl. Gast, 14. März, 18. und 27. April; Cousin 13. Juni 1545.] ^&x{
+<re>Auf der Rückreise aus Freiburg im Breisgau über Basel in das Burgund wollte Cousin die Gelegenheit nutzen und Bullinger schreiben, da [Johannes] Gast einen Boten [...] nach Zürich schickt.
+-^#. Cousin dankt für das ihm von Bullinger viele Jahre lang erwiesene Wohlwollen und für dessen Brief zur Abendmahlsfrage. Er kann aber seine Dankbarkeit nur ungenügend zum Ausdruck bringen.
+-^#. Bullinger möge auf seine Gesundheit achten.
+-^#. Cousin hat Gast ein Geschenk für Bullinger anvertraut. Grüße an [Theodor] Bibliander und [Konrad] Gessner.</re>
+<tx>S[alutem] p[lurimam]. Friburgo Brisgoiae per Basileam in Burgundiam rediens,<f1>Cousin lebte in Nozeroy (Dép. Jura), wo er sich Ende 1535 niedergelassen hatte.<fe> vir clarissime,
+quum Gastius noster nuncium<f1>Unbekannt.<fe> Tigurum se cras<fx>cras ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Der Brief, dem ein Geschenk für Bullinger beigelegt war (s. unten Anm. 11), verließ Basel erst am 14. März 1545 oder kurz darauf; s. unten Nr. 2109, 1-3.<fe> missurum diceret, et me, si quid vellem, rogaret, nolui committere,
+ut is sine meis literis abiret mei in te animi significatricibus, tametsi de mea
+adversum te observantia nihil te dubitare credam.
+^$Pro benignitate autem tua, qua
+me quam plurimis annis perpetuo complecteris, tibi gratias ago immortales.
+Cuius quidem nuper in aperienda candide mihi tua de eucharistia sententia specimen<f1>Bullingers verlorene Antwort auf Cousins Brief, in dem er auf Cousins Anfrage seine Meinung über das Abendmahl darlegt hatte; s. HBBW XIV, Nr. 1927 und Anm. 15.<fe> quoque praebuisti.
+Utinam is sim, mi Bullingere, qui aliquando non ingratum me declarare possim!
+Voluntas, ita me deus amet, nunquam deest; quam si re ipsa factis pręstare
+non potero<f1>Vgl. Röm 7, 16.<fe> - cum maior sis, quam quo conatus nostri adspirare valent - conatum tamen laudabis,
+quando in magnis, ut ille<f1>Sextus Propertius (Properz) aus Assisi (ca. 50 bis ca. 15 v. Chr).<fe> inquit, vel voluisse sat est.<f1>Vgl. ^#/+Properz,^#/- Elegiae, 2, 10, 5; in Adagia, 2, 8, 55 (ASD II/4 184, Nr. 1755).<fe>
+^$Mi Bullingere, cura, quoad potes, ut valeas, sicque existimes nihil nobis tua
+valetudine iucundius, nihil ęque gratius adnunciari posse.
+^$Basileę, 4. idus martii anno christiano 1545, praepropere, ut vides.
+<lz>Gastio commisi ad te munus<f1>Ein Hemd aus einem Mischgewebe mit Seide; s. unten Nr. 2178, 3.<fe>; id ut boni consulas, etiam atque etiam rogo.
+Amicis omnibus s[alutem] p[lurimam], imprimis Bibliandro et Guesnero.
+<un>Ex animo tuus Gilbertus Cognatus
+<un>Nozeręus<fx>^#/+Ansonsten bezeichnet sich Cousin als^#/- Nozerenus.<fe>.
+<lz>[Adresse auf der Rückseite:] Domino Henrico Bullingero, verę theologię ac christianismi vindici incomparabili, domino et praeceptori suo observando. Tiguri.
+</content>
+</letter>

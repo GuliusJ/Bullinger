@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1160">
+<nr>1160</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>21. August 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 106 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Sendet die freundlichen Schreiben der Fürsten [Johann Friedrich von Sachsen und Philipp von Hessen] und Luthers
+zurück; ein Gedankenaustausch mit Luther über die Frage der Irrtümer in [Zwinglis "Fidei expositio"] könnte der Versöhnung
+dienen. Stimmt Pellikans Urteil über den zweifellos durchdachten Brief [Luthers] an die eidgenössischen Gesandten zu, kann aber
+noch keine Stellungnahme [der Konstanzer Theologen] mitteilen; es wird ohnehin ratsam sein, mit weiterem Schriftwechsel
+zuzuwarten. Ambrosius [Blarer] wird nach seiner Rückkehr [aus Württemberg] über die Gründe [seiner Entlassung] berichten.
+</re>
+<tx>Salus et pax Christi.
+^$Cum multa gratiarum actione remitto exemplaria literarum,
+Bullingere charissime. De literis autem principum<f1>Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen an
+die Ratsboten der reformierten Städte der Eidgenossenschaft, 3. Juli 1538 (s. oben Nr. 1151, Anm. 6).<fe> bene iudicamus; nam amice sunt et haud dubie ab omni
+fuco alienę. De literis Lutheri<f1>Gemeint ist, wie aus dem Folgenden hervorgeht, der Brief Luthers an Bullinger vom 14. Mai 1538 (oben Nr. 1126).<fe> idem iudico; nam apertus est
+Lutherus in istis. Tu responde ei aliquando per occasionem
+et confer cum illo de erroribus in libro ad christianum
+principem<f1>d. h. in Zwinglis "Fidei expositio" (Z VI/V 1-163), die an König Franz I. gerichtet ist. Luther hatte im
+erwähnten Brief ihre Veröffentlichung durch Bullinger kritisiert; s. oben Nr. 1126, 14-17.<fe>, sed amice omnia et
+reverenter. Forte mutua collatio et sobria omnibusque carens
+aculeis magis ac magis conciliabit animos effugatis etiam
+malis suspitionibus.
+^$Literae ad Helvetios legatos<f1>Luther an die Ratsboten der reformierten Städte der Eidgenossenschaft, 27. Juni 1538 (s.
+oben Nr. 1151, Anm. 2).<fe> non exciderunt casu, sed videntur deliberatae,
+nec mihi displicet Pellicani iuditium<f1>Gegenüber Myconius ließ Pellikan am 28. Juli verlauten, Luthers Antwort habe in Zürich
+weder Besorgnis noch Freude ausgelöst; man werde jedenfalls an der bisherigen Lehre festhalten (s. Zürich ZB, Ms F 81,
+462).<fe>. De nostro iuditio non possum in istis literis, sed proximo tabellione<f1>In seinen späteren Briefen kommt Zwick
+nicht mehr darauf zurück.<fe>; omnino<fx>^#/+vor ^#/-omnino^#/+ ein gestrichenes Zeichen.^#/-<fe> autem non videtur opus, ut
+festinetis ad respondendum, et forte silentium [a]liquod<fx>[a]liquod ^#/+anstelle von gestrichenem^#/- nostrum[?]^#/+ am
+Rande nachgetragen; Rand beschädigt.^#/-<fe> plus proderit concordiae. Misera<fx>^#/+nach ^#/-Misera ^#/+gestrichenes ^#/-res.<fe> pugna
+est, cum calliditate pugnandum est amissa simplicitate
+scribendi<fx>^#/+vor ^#/-scribendi^#/+ gestrichenes^#/- et.<fe> et animi candore perdito, do man nichts anders
+dencken muͦs, dann wie man ain andern welle ubergschyden<f1>an Klugheit übertreffen.<fe>.
+^$Ambrosius non adhuc rediit; magno desyderio expectamus illum quotidie<f1>Ambrosius Blarer kehrte nach seiner Entlassung aus
+dem Dienst Herzog Ulrichs von Württemberg am 26. August nach Konstanz zurück; s. unten Nr. 1166, 2-13.<fe>. Ubi redierit, rationem dabit reditus.
+^$Interim vale cum fratribus omnibus.
+^$21. augusti 1538.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, fratri meo in domino observando.
+</content>
+</letter>

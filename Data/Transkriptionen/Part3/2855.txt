@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2855">
+<brief>
+<id>17124</id>
+<nr>2855</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-03-21"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 21. März 1547</od>
+<vo>Autograph: Zürich StA, E II 343a, 348 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 950, Nr. 1064<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 172 </k></dr>
+<re><t>Es steht fest, dass die Straßburger vor zwölf Tagen erneut Gesandte zu Kaiser Karl V. schickten, um mit diesem einen Frieden auszuhandeln. Die Basler wissen jedoch nicht, was seitdem geschehen ist.</t>
+<t>Als aber die Straßburger Ratsherren vom Sieg des Kurfürsten Johann Friedrich von Sachsen (der in zwei Schlachten 15'000 [Kaiserliche] tötete) und vom [Beschluss] der Hansestädte erfuhren, schickten sie umgehend einen Reiter [...] ihren Gesandten nach, damit diese den Friedensschluss möglichst hinauszögerten.</t>
+<t>Gestern kam ein Abgeordneter [...] des französischen Königs Franz I. nach Basel. Über seinen Auftrag ist nichts bekannt. Er brach schon heute in aller Frühe mit zwei Grafen [...] nach Straßburg auf. Angeblich hat der König vor, den Straßburgern ein Heer zur Verfügung zu stellen, wenn diese sich nur nicht dem Kaiser unterwerfen.</t>
+<t>Was Bullinger [in Bezug auf den Sieg des Kurfürsten] schrieb, scheint glaubwürdig. Die Kaiserlichen aber werden es als erfunden hinstellen.</t>
+<t>Einer [...] aus Antwerpen erzählte, dass dort vier Schiffe voller Gold und Silber für den Zug des Kaisers gegen Deutschland angekommen wären. Das ist nicht glaubhaft, da weder Franz I. noch der englische König Eduard VI. den Schiffen die Durchfahrt erlaubt hätten. Zudem lässt der Kaiser das Gold nach Spanien bringen, und nicht von dort woandershin!</t>
+<t>Die Tatsache, dass der Kaiser neue Truppen in Italien anwirbt, zeigt, wie wenig es zutrifft, dass er und Papst Paul III. zerstritten seien!</t>
+<t>Möge doch bald der Herr sein Heer gegen die Feinde des Evangeliums ziehen lassen! Gruß, auch an Rudolf Gwalther und an die anderen Kollegen. In Eile.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17124-3A</zzl>Certum est Argentinenses remisisse legatos suos
+<fn>Zu deren Namen s. <qv>nr2848</qv>, <qv>fn17116-4</qv>. Sie leisteten Kaiser Karl V. den Fußfall am Abfassungstag des vorliegenden Briefes; s. <qv>nr2822</qv>, <qv>fn17088-7</qv>.</fn> ante dies 12, ut componant cum c{e}sare
+<fn>Karl V.</fn>. Quid interea actum sit, nescimus.<zzl>zl17124-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17124-4A</zzl><zzl>zl17124-2A</zzl>Postquam autem venerunt nuncii de 15 millibus in duobus proeliis interfectis ab electore
+<fn>Kurfürst Johann Friedrich I. von Sachsen. - Zu diesen zwei Schlachten s. <qv>nr2848</qv>, <qv>fn17116-5</qv>.</fn>,<zzl>zl17124-2E</zzl> et a civitatibus maritimis
+<fn>Siehe dazu <qv>nr2850</qv>,<qv>zl17118-6</qv>.</fn>, miserunt
+<fn>Subjekt sind die Straßburger Ratsherren.</fn> protinus cursorem equestrem
+<fn>Unbekannt. - Vermutlich ein falsches Gerücht.</fn> ad legatos c{e}sarem sequentes, ut, si pactio nondum sit facta, eam suspendant et differant pro virili, donec aliter edoceantur.<zzl>zl17124-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17124-5A</zzl>Heri venit veredarius
+<fn>Unbekannt.</fn> Galli
+<fn>König Franz I.</fn>. Quid adtulerit, ignoro. Postridie summo mane abiit festinanter Argentinam una cum ducibus duobus
+<fn>Unbekannt. - Die Straßburger hatten eine Zeitlang eine Annäherung mit Frankreich gesucht; s. <qv>nr2831</qv>, <qv>fn17098-3</qv>.</fn>. Rumor: regem pro ipsis collecturum exercitum, tantum ne se dedant c{e}sari.<zzl>zl17124-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17124-6A</zzl>Scripsisti tu plausibilia
+<fn>Bezug auf Bullingers Mitteilung in <qv>nr2850</qv>,<qv>zl17118-8</qv>, zu dem bei Rochlitz errungenen Sieg des Kurfürsten über Markgraf Albrecht II. Alcibiades von Brandenburg-Kulmbach; s. <qv>nr2832</qv>, <qv>fn17099-2</qv>.</fn>, quamvis c{e}sareani dicant omnia ficta, adeo dolet eis malum vel somniare de c{e}sare.<zzl>zl17124-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17124-7A</zzl><zzl>zl17124-1A</zzl>Fuit hic Antwerpiensis.
+<fn>Unbekannt. - Zu den hier übermittelten Nachrichten vgl. schon <qv>nr2854</qv>; <qv>nr2859</qv>,<qv>zl17127-2</qv>.</fn> Is narravit quatuor naves venisse Antwerpiam onustas auro et argento contra Germaniam.<zzl>zl17124-1E</zzl> Id, quia verisimile non est, non credo: nec Gallus enim nec Anglus
+<fn>Eduard VI.</fn> permisissent (hostes c{e}saris)
+<fa><i>Klammern ergänzt.</i></fa> naves transire;
+<fn>Nämlich durch den Ärmelkanal, um in den Hafen von Antwerpen zu gelangen.</fn> et c{e}sar aurum invehit in Hispaniam, non evehit!<zzl>zl17124-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17124-8A</zzl>Quam vero dissideant papa
+<fn>Paul III.</fn> et c{e}sar, annon patet, quod novum exercitum hic petit ex Italia!
+<fn>In Bezug auf <qv>nr2850</qv>,<qv>zl17118-7</qv>. - Myconius' Aussage ist ironisch aufzufassen; vgl. auch <qv>nr2849</qv>,<qv>zl17117-3</qv>.</fn><zzl>zl17124-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17124-9A</zzl>Oremus dominum, imperatorem nostrum, ut et ipse producat aliquando suas copias contra hostes verbis sui.<zzl>zl17124-9E</zzl> <zzl>zl17124-10A</zzl>Vale in Christo. Salutabis Gvaltherum et reliquos pios fratres. Plura nec habui nec potui.<zzl>zl17124-10E</zzl> Basile{e} raptim, 21. martii anno 1547.</p>
+<un>Tuus Os. M.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, episcopo Tigurino, fratri in domino suo.</p>
+</div>
+</text>
+</brief>

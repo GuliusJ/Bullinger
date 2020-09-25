@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1577">
+<nr>1577</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[nach 6.] Oktober 1541</date>
+	<note>Der vorliegende Brief ist die Antwort auf das Schreiben Blarers vom 6. Oktober (oben Nr. 1575; vgl. unten Z. 6 mit Anm. 3),
+weshalb Bullingers Datumsangabe "1." Oktober ein Irrtum sein muss (vgl. auch unten Anm. l).</note>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana),
+Ms 34 (VBS V), 67 (Siegelspur)</vo>
+<vo>Kopien: Zürich ZB, Ms F 43, 82v.</vo>
+<vo>Ms S 50, 101</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 90, Nr. 915</dr>
+<re>Stimmt Blarers Urteil über [Ruprecht von Mosham] zu. Freut sich über den Rückzug des türkischen Heeres nach Griechenland, auch wenn die Gefahr bestehen bleibt; sendet den Bericht von [Peter] Buffler zurück. Die Pest hält sich in Zürich noch in Grenzen; man ermahnt erfolgreich das Volk zur
+Frömmigkeit; die Pfarrer und ihre Familien sind noch wohlauf. Grüße. Bitte um Nachrichten über die Folgen des Regensburger Reichstages.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Festinavit nuntius<f1>Unbekannt.<fe> et defuit mihi tempus et otium
+scribendi; hoc ergo duntaxat indicare volui, ne nihil
+scriberem, placere mihi iuditium tuum de decano Pataviensi<f1>Ruprecht von Mosham; vgl. oben Nr. 1575, 6-74.<fe>,
+displicere, quae ille satis temere novis verborum monstris
+implicata proponit. Sed oportet sic exerceri ecclesiam, quo,
+qui probati sunt, manifestentur.<f1>Vgl. 1Kor 11, 19.<fe>
+^$Gaudeo Turcicum exercitum in Graeciam esse reductum,<f1>Sowohl ^#/+Hammer-Purgstall^#/- III 241 als auch ^#/+Cardauns^#/- 176 berichten von einem Rückzug des türkischen Heeres Mitte September, jedoch ohne genauere Ortsangaben.<fe>
+quamvis nihil dubitem intervallum hoc nostrae datum esse
+poenitentiae, quam cum non agimus digne, aderit propediem et
+exequetur in nobis divina iuditia. Pro illis, quae misisti,
+ago gratias et remitto Buffleri<f1>Peter Buffler hatte Blarer ein Schreiben über die Türken geschickt; vgl. oben Nr. 1575, 94f.<fe>, viri optimi, manum.
+^$Pestis nondum deferbuit; sed fama maior est lue, quamquam
+satis sit periculosa; pro amplitudine tamen urbis et numero
+habitatorum tollerabilis f[uit]<fx-t>^#/+Text am Rand beschädigt.^#/-<fe> hactenus. Nos hortamur
+populum ad solidam in d[ominum]<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> spem, et qui excedunt,
+mirum, quanta cum piet[ate]<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> excedant; animant sua religione
+et spe firma [in]firmos<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> et meticulosos, ut plures iam
+metu[ant]<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> minus. Valemus alioqui omnes, quibus ministerium
+[ec]clesiae<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> commissum est; valent et familiae nostrae per
+gr[atiam]<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> domini. Is sit nobiscum semper.
+^$Vale cum t[uis]<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> omnibus, uxore<f1>Katharina, geb. Ryff.<fe> dilecta, liberis<f1>Von Blarers Kindern waren zu diesem Zeitpunkt Katharina (geb. 29. 7. 1537) und Gerwig (geb. 15. 12. 1538), vielleicht auch Arta (geb. 31. 1. 1535, Todesdatum unbekannt, aber vor
+1551) am Leben; vgl. ^#/+Pressel^#/- 498. 516; Blarer BW III 101-104.^&xBlarers Kinder: 1) Arta, geb. 31.1.1535, Tod laut ^#/+Pressel^#/- 498 vor 1549, 2) Gerwig, geb. 15.12.1538 (Pressel 516), 3) Katharina, geb. 29.7.1537, gest. 23.1.1551 (Blarer BW III 101-103, ^#/+Pressel^#/- 498), 4) Johann Thomas,
+geb. 20.8.1542 (Pressel 498), gest. 4.-7.2.1551 (Blarer BW III 104).^&x{<fe> charis, cum
+fratre<f1>Thomas Blarer.<fe> et sorore Margarita, denique cum Zvicciis<f1>Johannes und Konrad Zwick.<fe>,
+co[len]dissimis<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> meis fratribus.
+^$Si quid habes d[e]<fx-x>^#/+Text am Rand beschädigt.^#/-<fe> rebus religionis ex effectu comitiorum
+Ratisbonensium, fac, sciam, obsecro, aut si quid aliud
+fuerit, quod me scire putes operae pretium.
+^$Tiguri, 1. octobris anno 1541.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Ambrosio
+Blaurero, amico et fratri colendissimo. Costantz.<fx>^#/+Darunter
+notierte Blarer wohl das Empfangsdatum:^#/- Ultima octobris anno 41.<fe>
+</content>
+</letter>

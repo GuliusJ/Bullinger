@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2093">
+<nr>2093</nr>
+<correspondents>
+	<originator>[Joachim Vadian</originator>
+	<addressee>Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place>[St. Germain]</place>
+	<date>6. März [1545]</date>
+	<note>Das Jahr ergibt sich zum einen aus der Erwähnung der Schriften Luthers und der Zürcher, zum anderen aus der Erwähnung des Wittenberger Boten; s. oben Nr. 2088, 2f. 7f, und Nr. 2089 und Anm. 2.</note>
+</space_time>
+<vo>Abschrift von unbekannter Hand (17. Jh.): Zürich ZB, Ms F 64, 647r.</vo>
+<re>[Vadian] erhielt [Bullingers] Brief [nicht erhalten] zusammen mit einem Teil der deutschen Antwort ["Warhaffte Bekanntnuß", HBBibl I 161-163] auf Luthers ["Kurtz bekentnis"].
+-^#. Der Wittenberger Bote [...] brachte auch einen Brief Bucers [Vadian BW VI, Nr. 1384]<f1>Bucers Brief vom 21. Februar 1545, bei dem das Blatt mit der Adresse nicht erhalten geblieben ist. Auf diesem Blatt muss sich auch eine Nachschrift befunden haben, in der Bucer zum Gebet für Hermann von Wied aufrief.<fe>, in dem Bucer die Beständigkeit von [Hermann von Wied] rühmt sowie [Vadian und die St. Galler] um unterstützendes Gebet für diesen bittet, denn auch die apostolischen Männer bedürfen des Gebets und der Fürsprache. Für Bucer ist der [innerprotestantische] Streit mit Luther überaus schmerzlich; doch weder beschuldigt er die [Schweizer]<f1>Hier beschönigt Vadian Bucers Einstellung; in Bucers Brief werden nämlich die Zürcher ausdrücklich kritisiert; s. Vadian BW VI 396, 15-21.<fe> noch rechtfertigt er Luther; es geht ihm allein um den daraus entstandenen Anstoß: Die Gemüter der nicht genügend Standhaften werden beunruhigt, und die [katholischen] Gegner werden in ihrer Siegesgewissheit bestärkt.</re>
+<dra>[Gedruckt: Vadian BW VII 110f, Nr. 82.]</dra>
+^&x<tx>Tuas semper mihi mire iucundas et gratissimas literas mature accepi una cum parte
+responsionis Germanicae<f1>HBBibl I 161-163.<fe> ad Lutheri calumnias de eucharistiae dogmate<f1>WA LIV 119-167.<fe>.
+^$Attulit et ille Wittenbergensis tabellio mihi ab uno Bucero dictatas literas<f1>Bucer an Vadian, 21. Februar 1545 (Vadian BW VI 396f)[?/oder ein anderer Brief?].<fe>,
+quibus mihi eximiam illam et singularem constantiam herois illius Coloniensis<f1>Hermann von Wied.<fe>
+depredicat orans, ut et ipsum ecclesiae nostrae ministris depingam suis vere coloribus,
+quo et nostrae communionis precibus adiutus talem porro agere pergat, qualem hactenus praestitit;
+egent enim et apostolici viri de puro corde proficiscente ecclesiarum oratione
+et intercessione fidelium et sanctorum domini, ne tanta in pugna et tam violenta in tentationem inducantur.
+^$De lite nostra cum Luthero nihil aliud quam dolorem et eum quidem peracerbum
+prodit nec accusans interim nos nec Lutherum purgans; sola offensio, solum
+<gr>skándalon</gr> ei cordi est, quo dubitari nequit, quin medio firmorum animi
+vehementer interturbentur et adversariorum conatus recta victoriae persuasione confirmetur.
+^$6. martii 1565[!].
+[Ohne Adresse.]^&x{
+</content>
+</letter>

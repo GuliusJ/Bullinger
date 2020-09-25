@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1312">
+<nr>1312</nr>
+<correspondents>
+	<originator>[Bullinger</originator>
+	<addressee fn=1>Joachim Vadian]</addressee>
+	<note fn=1>Unterschrift und Adresse fehlen, doch es besteht kein Grund, an den Angaben des Kopisten zu zweifeln.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich</place>
+	<date>3. Oktober 1539]</date>
+	<note>Das Datum ist ebenfalls vom Abschreiber beigefügt.</note>
+</space_time>
+<vo>Teilabschrift von unbekannter Hand (17. Jh.): Zürich ZB, Ms F 64, 645r.</vo>
+<re>Hat seit einigen Monaten keinen Brief mehr von ihm erhalten. Zwei englische Flüchtlinge warten in Zürich auf bessere Zeiten, während ein ehemaliger Kostgänger Bullingers aus England, der sie begleitete, aus geschäftlichen Gründen wieder zurückgekehrt ist. König [Heinrich VIII.] hat - wohl von
+den Bischöfen [John Stokesley] von London, [Stephen Gardiner] von Winchester und anderen angestiftet - gottlose Glaubensartikel erlassen; Bischof Hugh Latimer von Worcester und [Nicholas Shaxton] von Salisbury wurden abgesetzt, weil sie deren Annahme verweigerten, [Thomas Cranmer] von Canterbury ist
+wohl ein Heuchler, andere fügen sich aus Angst, und viele flüchten nach Dänemark und in die Hansestädte.
+Johannes Caesarius schrieb aus Köln [Nr. 1306], daß bei ihnen die Bücher der Evangelischen verboten worden seien, aber dennoch heimlich gelesen würden. Dionysius Melander, Pfarrer bei Landgraf [Philipp] von Hessen, meldet, der Landgraf führe die Reformation stetig fort; er habe Melander 2000 Gulden
+zur Errichtung einer Bibliothek übergeben.
+Aus dem schlesischen Zittau schrieb Stadtschreiber [Oswald] Pergener, daß die Reformation in Böhmen, Preußen und Polen gute Fortschritte mache. Wie es in Ostfriesland steht, kann Vadian dem beigefügten Brief [Nr. 1294] entnehmen.
+</re>
+<tx>[Gedruckt: Vadian BW VII 92, Nr. 64.]
+</content>
+</letter>

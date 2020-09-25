@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2032">
+<nr>2032</nr>
+<correspondents>
+	<originator>[Johannes] Sturm</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>8. November 1544</date>
+</space_time>
+^&x
+<vo>Autograph nicht erhalten; Kopien (nach Druck!): (18. Jh.:) Zürich ZB, Ms S 56, 47 (prov. Vorlage); (19. Jh.:) Straßburg BNU, Ms 674 (Th. B. XV), 120</vo>^&x{
+<dr>Gedruckt: Bibliotheca historico-philologico-theologica, classis tertiae fasciculus sextus, hg. v. Johann Jakob Ulrich, Bremen 1720, S. 1104f</dr>
+^&xNicht in Bibl. Bremensis III 6; dort nichts für HBBW.^&x{
+<re>Wenn auch Sturm nie zuvor an Bullinger geschrieben hat, empfiehlt er den jungen Überbringer [Gerhard thom Camph], weil dieser darum bat. Die [Zürcher] sollen sich nicht mehr als billig von Luthers Verfluchung ["Kurtz bekentnis"] aufregen lassen - dies der zerrissenen Kirche zuliebe. Bedauert, dass [die Eidgenossen] das heftige Gedicht gegen Osiander hervorbrachten; bestimmt hat [Osiander] den Streit angefangen, doch hat der Reimer wohl auf sehr schmerzhafte Weise gebissen; man darf den Gegnern keine weitere [Angriffs-]Möglichkeit geben! Bittet um wohlwollende Aufnahme seines freimütigen Schreibens. Grüße.</re>
+<tx>S[alutem] p[lurimam].
+^$Adolescens<f1>Gerhard thom Camph; s. oben Nr. 2006, Anm. 1; 2031 mit Anm. 1.<fe> ille cupit se tibi a me commendatum
+esse. Non potui ei denegare hoc officii, tametsi antehac
+tibi non scripserim unquam<f1>Erhalten sind noch ein Brief Sturms an Bullinger und zwei Briefe Bullingers an Sturm; alle drei aus den Jahren 1561/1562.<fe>, sed obtemperandum fuit honestae
+voluntati studiosissimi et optimi iuvenis, quem tibi sane
+etiam atque etiam commendo.
+^$Lu-<vl>1105</vl>therus valde acerbum divulgavit anathema.<f1>Gemeint ist Luthers "Kurtz bekentnis"; s. oben Nr. 1971, Anm. 20.<fe>
+Rogo, ne patiamini vos<fx>^#/+In der Vorlage^#/- nos.<fe> permoveri a tali oratore iracundo magis hoc
+tempore quam aequo. Donate id discerptae ecclesiae, et
+repugnantibus etiam hominibus operam demus, ut lacera eius
+membra aliquo modo revalescant.
+^$Etiam a vobis vehemens carmen profectum fuit in Osiandrum,<f1>Das Schmähgedicht "Speculum Osiandri" wurde nicht von einem Eidgenossen, sondern von Georg Frölich (Laetus) verfasst; s. oben Nr. 1963, Anm. 10. - Vgl. aber oben Nr. 2028, 106-110, wo das Gerücht geäußert wird, dass der Autor angeblich ein Eidgenosse sei.<fe>
+neque illud velim factum; at laesit prior, verum iste poeta
+momordit magis dolorifice. Non demus occasionem hostibus
+maiorem, quam data sit hactenus; ignosce mihi, quod liberius
+ad te, quam oporteat.
+^$Nolo monitor esse, sed precator, et obsecro, ut aliquid impetrem.
+Cupio et opto omnes vos salvos et incolumes esse, et
+nominatim senem vestrum patrem Pellicanum. Vale.
+^$Argentorati, octava novembris 1544.
+<un>Sturmius.
+<lz>[Adresse im Druck vorangestellt:] Doctissimo et optimo
+virod. Henrico Bullingero.
+</content>
+</letter>

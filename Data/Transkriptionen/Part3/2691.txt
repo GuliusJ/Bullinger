@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2691">
+<brief>
+<id>16378</id>
+<nr>2691</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-24"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 24. November 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 264 (neu: 280) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 97</k></dr>
+<re><t>Myconius konnte nichts über das angebliche Zerwürfnis zwischen Papst [Paul III.] und dem französischen [König Franz I.] in Erfahrung bringen, da [Antoine] Morelet [du Museau] abgereist ist und Bernhard Meyer [zum Pfeil] sich derzeit in Straßburg befindet. Er wird aber der Sache weiter nachgehen.</t>
+<t>Es ist ärgerlich, dass alle den Geldmangel der [Schmalkaldener] bedauern und deren Untätigkeit damit erklären. Warum erheben denn die Fürsten und Städte keine Steuern? Manche würden gern ihr Vermögen daran setzen, wenn dadurch der Krieg beendet oder wenigstens irgendein Friede erreicht würde. Nie war die Gelegenheit dazu besser als jetzt, wo Kaiser [Karl V.] sein Winterlager in Reichweite der [Schmalkaldener] einrichtet. Wenn es nur nicht so kalt wäre! Schmerzlich ist, dass einige [protestantische] Fürsten kaisertreu sind. Würde dies vielleicht erklären, dass so viele Gelegenheiten ungenutzt blieben? Die Aufrichtigkeit von [Landgraf Philipp von] Hessen wird aber kaum zu bezweifeln sein.</t>
+<t>Ein Student [...] aus Wittenberg erzählte viel über den Einfall der Böhmen [in Kursachsen]. Er meinte jedoch, dass es keinen Grund zur Angst um dieses Land gäbe, denn der dänische König [Christian III.] unterstütze mehrere sächsische Städte. Die Sache wird also besser stehen, als behauptet wird, auch wenn es in Basel hieß, dass 25'000 Sachsen gefallen wären. Offenbar werden solche Gerüchte von den Feinden verbreitet.</t>
+<t>[Francisco de] Enzinas lässt sich für sein Schweigen entschuldigen. Die Druckarbeit nimmt ihn völlig in Anspruch. Er will aber mit dem nächsten Boten an Bullinger schreiben.</t>
+<t>Über die Beschlüsse des Zürcher Rates und der Zünfte hat Bullinger zusammenfassend [in <qv>nr2653</qv>] berichtet. Doch hat Myconius nichts zu den Gemeindeversammlungen in der Landschaft Zürich erhalten! Daher haben sich die Stadtoberhäupter vergeblich bei ihm danach erkundigt.</t>
+<t>Gruß, auch an Rudolf Gwalther.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16378-5A</zzl>De causis dissidii, quod esse fertur inter pontificem
+<fn>Paul III.</fn> et Gallum
+<fn>König Franz I. - Myconius hatte diese Nachricht mit <qv>nr2683</qv>,<qv>zl16370-8</qv>, übermittelt, und Bullinger wird um weitere Informationen darüber gebeten haben.</fn>, vel ideo nihil hoc tempore licet cognoscere,<zzl>zl16378-5E</zzl> quod <zzl>zl16378-6A</zzl>d. Maurus legatus
+<fn>Antoine Morelet du Museau, Gesandter Frankreichs in der Eidgenossenschaft. - Er war am 5. November nach Frankreich abgereist; s. <qv>nr2682</qv>, <qv>fn16369-1</qv>.</fn> discessit<zzl>zl16378-6E</zzl> et quod <zzl>zl16378-7A</zzl>Bernhartus Meyerus
+<fn>Bernhard Meyer zum Pfeil, Basler Rats- und Pannerherr. Aufgrund der Unzufriedenheit der Straßburger mit dem Brief, den die Vier protestantischen Orte am 26. Oktober an Karl V. (s. dazu <qv>nr2606</qv>, <qv>fn16294-1</qv>) geschrieben hatten, war er nach Straßburg gesandt worden, von wo er vor dem 3. Dezember zurückkehrte; s. dazu <a>PC</a> IV/1 500f, Anm. 1.<zfn>fn16378-1</zfn></fn> Argentinae est.<zzl>zl16378-7E</zzl> Ab inquirendo tamen non desinam, si quid possim invenire.</p>
+</div>
+<div>
+<p><zzl>zl16378-4A</zzl>Vexat me, quod de pecuniae inopia, qua nostri laborant,
+<fn>Zum Geldmangel bei den Schmalkaldenern s. zuletzt <qv>nr2689</qv>,<qv>zl16376-5</qv>.</fn> queruntur omnes. Videtur enim ea in causa esse, cur nihil agatur.<zzl>zl16378-4E</zzl> De domini operibus maximis nihil dico. Cur non tributum imponunt principes et civitates?
+<fn>Myconius konnte nicht wissen, dass der Schmalkaldische Bund am Tag zuvor, auf seiner letzten Ulmer Tagung vom 23. November 1546 (s. <a>Mentz</a> III 48), die Errichtung eines Winterlagers zum Schutz Oberdeutschlands sowie eine außerordentliche Besteuerung für dessen Unterhalt beschlossen hatte. Diese Maßnahme wurde jedoch nicht umgesetzt, da Ulm gegen ein Winterlager war und Augsburg die Besteuerung ablehnte; s. <a>Konstanz</a> 131f.<zfn>fn16378-2</zfn></fn> Equidem audio, qui libenter insumerent, qu{e} habent, tamen ut aliquis finis et vel pacis species acquireretur. <zzl>zl16378-11A</zzl>Quomodo autem melius ad finem pertingi queat quam nunc, si c{e}sar
+<fn>Karl V.</fn> ante oculos nostrorum hyberna instituit,<zzl>zl16378-11E</zzl> <zzl>zl16378-2A</zzl>modo frigus non esset tam vehemens?
+<fn>Zum Kälteeinbruch s. die Verweise in <qv>nr2689</qv>, <qv>fn16376-2</qv>.</fn><zzl>zl16378-2E</zzl> Non libenter dico <zzl>zl16378-1A</zzl>principes quosdam, qui stant nobis, c{e}sareanos esse.
+<fn>Myconius wird etwa an Friedrich II. von der Pfalz denken, vielleicht auch an Ulrich von Württemberg, ganz bestimmt aber an Johann Friedrich I. von Sachsen; vgl. <qv>nr2682</qv>,<qv>zl16369-4</qv>.</fn><zzl>zl16378-1E</zzl> Attamen miror, qui fiat, quod non secus agitur, postquam rem feliciter agendi toties sit oblatum. Age, dominus novit et Hessus
+<fn>Landgraf Philipp von Hessen.</fn>, de cuius integritate dubitare non valeo.</p>
+</div>
+<div>
+<p><zzl>zl16378-8A</zzl>Venit studiosus quidam his diebus e Witenberga
+<fn>Vielleicht Johann Jakob Wecker (1528-1586), falls er 1546 noch in Wittenberg studierte. Er hatte sich dort im Mai 1544 immatrikuliert, wurde 1557 Professor für Dialektik und Logik in Basel und 1566 Stadtarzt von Colmar; s. <a>M-Wittenberg</a> I 212; <a>ADB</a> XLI 372. Es könnte sich aber auch um einen durch Basel reisenden Studenten handeln, wie z.B. um den am 2. Juni 1546 in Wittenberg immatrikulierten Berner Georg Moller; s. <a>M-Wittenberg</a> I 234.<zfn>fn16378-3</zfn></fn> huc, qui, multa de conatu Boëmorum
+<fn>Gemeint ist der Einfall des Herzogs Moritz in Kursachsen mit Hilfe der böhmischen Truppen unter Ferdinand I.</fn> postquam dixerat, adiecit tandem se Saxoni{e} non valde timere, nam Danum
+<fn>König Christian III. - Im Brief des Konstanzer Rats an den Zürcher Rat vom 4. Dezember (Zürich StA, A 177, Nr. 150) wird behauptet, dass der König von Dänemark Moritz gebeten haben soll, von seinem Vorhaben abzustehen, weil er sonst dem Kurfürsten zu Hilfe kommen würde.</fn> plerasque civitates eius provinci{e} fortissimis muniisse praesidiis. Coepi nonnihil sperare res melius se habere, quam ferret rumor. <zzl>zl16378-3A</zzl>Nam hic sparsum erat Saxonum usque ad 25 millia cecidisse;<zzl>zl16378-3E</zzl> sparsum autem erat ab inimicis nostris et dei.<zzl>zl16378-8E</zzl></p>
+</div>
+<div>
+<p>Orat Dryander
+<fn>Francisco de Enzinas, der damals in Basel in der Offizin von Johannes Oporin an der Drucklegung seiner Schriften arbeitete. - Er schrieb zwei Tage später (<qv>nr2694</qv>).</fn>, ne {e}gre feras, quod nihil scribat. Se sic immersum pistrino litterario, ut emergere nequeat. Sed tamen scripturum se pollicetur primo quoque nuncio. Habeto excusatum.</p>
+</div>
+<div>
+<p><zzl>zl16378-9A</zzl>Qu{e} in senatu
+<fn>Bei der Versammlung der Zürcher Räte und Bürger vom 30. Oktober; s. dazu zuletzt <qv>nr2653</qv>,<qv>zl16342-1</qv>.</fn> qu{e}que per tribus
+<fn>Zünfte; s. <a>Kirsch</a> 2877. - Gemeint sind die Zunftversammlungen vom 31. Oktober; s. zuletzt <qv>nr2653</qv>,<qv>zl16342-4</qv>.</fn> acta sunt apud vos, indicasti summatim.
+<fn>Nämlich mit <qv>nr2653</qv>.</fn><zzl>zl16378-9E</zzl> <zzl>zl16378-10A</zzl>Qu{e} vero in rure,
+<fn>In den seit dem 7. November abzuhaltenden Versammlungen in den Gemeinden und Herrschaften Zürichs; s. dazu die Verweise in <qv>nr2659</qv>, <qv>fn16348-6</qv>. - Bullinger hatte Myconius Dokumente dazu gesandt, die allerdings nicht eingetroffen waren; s. <qv>nr2671</qv>,<qv>zl16358-17</qv>.</fn> nihildum accepi.<zzl>zl16378-10E</zzl> Senatus, imo capita
+<fn>Der Rat (senatus) und die Stadtoberhäupter (capita - s. zu diesen <a>HBBW</a> XVI 123, Anm. 16) von Basel.</fn> petierunt a me priora. De posterioribus rogarant, verum nihil reddere potui.</p>
+</div>
+<div>
+<p>Vale in Christo cum tuis et Gvalthero. Basile{e}, 24. novembris anni 1546.</p>
+<un>Tuus O. Myc.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, doctissimo domino in Christo venerando suo. Zürich.</p>
+</div>
+</text>
+</brief>

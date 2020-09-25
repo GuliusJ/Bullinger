@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2067">
+<nr>2067</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>16. Januar 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von Johann Heinrich Hottinger und Unterstreichungen.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 5 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 344f, ^$^$^$^$Nr. 1162</dr>
+^&xKopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 73r.-v.; Ms S 56, 121; erw.: Stucki, Lavater 221^&x{
+<re>Bullinger dankt für Blarers Brief [Nr. 2065]. Es ist ungerecht, wenn [Andreas] Osiander [die Zürcher in seiner "Apologia"] schmäht, da das "Speculum" ohne ihr Wissen erschienen ist.
+-^#. Möge Gott [dem in Donauwörth tätigen Wolfgang] Musculus Gnade und die Gabe des reinen Lehrens und Handelns gewähren!
+-^#. Würde doch Papst [Paul III.] keine Kardinalshüte verleihen, damit er keine Feinde des Vaterlandes erzeugt!
+-^#. Nicht nur [Herzog Ulrich von] Württemberg, sondern auch andere Fürsten und Stadtmagistrate sind über Luthers "Kurtz bekentnis" aufgebracht.
+-^#. Was Bucer angeht, kann Blarer beruhigt sein. Die [Zürcher] wollen keinen Krieg gegen Bucer, wenn er diesen nicht selbst sucht. Im ["Warhafften Bekanntnuß"] wird Bucer nicht angegriffen. In einer historischen Darstellung, in der auch [Wolfgang] Capito erwähnt ist, wird beschrieben, wie Bucer die [reformierten] Kirchen zur Einheit ermahnte, wie die [reformierten Eidgenossen] ihm das [Erste Helvetische] Bekenntnis zur Weiterleitung an Luther übergaben und wie er [den Schweizern] die Wittenberger [Konkordie] überbrachte. Auch wenn [Bucer] kein Freund ist, wollen die [Zürcher] ihn nicht zum Feind haben. Dieser Tage hat er einen überlangen Brief [HBBW XIV, Nr. 2049] geschickt, der nicht allen [Zürchern] gefallen hat. Darin droht er bereits mit einer Widerlegung, und dies, ehe er die [Zürcher Schrift] gesehen hat! Außerdem ist Bullinger nicht deren alleiniger Verfasser. Blarer wird bald ein Exemplar erhalten. Bucer hätte ein "Haarerupfen" verdient.
+-^#. Blarer kann in Bezug auf [die Verhandlungen zwischen den Eidgenossen und Konstanz] beruhigt sein, niemand wird etwas erwähnen. Er soll aber seinen Bruder [Thomas] zu einer Antwort bewegen.
+-^#. Heute starb [Anna, geb. Röichli,] die Frau [Hans Rudolf] Lavaters.
+-^#. Jakob Knecht ist in Eile, daher schreibt Bullinger hastig.</re>
+<tx>Gratiam et pacem.
+^$Gratissimae fuerunt mihi tuae literae<f1>Blarers Brief vom 15. Januar, oben Nr. 2065.<fe> ut omnes; dominus servet te nobis diu incolumem.
+^$Si Osiander quicquam contra nos odiosius scripsit,<f1>Zu Andreas Osianders "Apologia" s. oben Nr. 2065, Anm. 24.<fe> immerito nostro fecit maximo;
+nosti enim Speculum illud infelix nobis insciis prodiisse.<f1>Das im Sommer erschienene "Speculum" wurde vom Augsburger Stadtschreiber Georg Frölich verfasst; s. HBBW XIV, Nr. 1963, Anm. 10.<fe>
+^$Dominus et rex noster Christus Musculo nostro gratiam et facultatem syncere docendi et agendi largiatur,
+id quod supplicibus precibus a domino postulare debemus.<f1>Wolfgang Musculus hielt sich zur Einführung der Reformation in Donauwörth auf; s. oben Nr. 2065, 52f.<fe>
+^$Utinam papa<f1>Paul III.<fe> galeros non offerat, ut patriae hostes efficiat!<f1>Reaktion auf oben Nr. 2065, 54-57.<fe> Sed haec est potestas, haec consilia tenebrarum.<f1>Lk 22, 53.<fe>
+^$Audimus sane non Wirtenbergensem solum,<f1>Herzog Ulrich von Württemberg; s. oben Nr. 2065, 58-60.<fe> sed alios principes, et in urbibus
+optimos quosque<f1>Vgl. z.B. oben Nr. 2064, 27-29.<fe>, valde moleste ferre Lutheri scriptum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>.
+Verum divina haec fiunt providentia, ne quid periclitetur veritas.
+^$Nil dubita de nostra modestia<f1>bei der Abfassung der Antwort auf Luthers "Kurtz bekentnis".<fe>. Ora tamen pro nobis dominum.
+Quod Bucerum<fx>Bucerum ^#/+über gestrichenem^#/- Lutherum.<fe> attinet,<f1>Blarer hatte gebeten, Bucer nicht zu erwähnen; s. oben Nr. 2065, 60-73.<fe> securum te esse iubeo; non immiscemus illum praelio, nisi id sua sponte velit.
+Nullam odiosam eius mentionem fecimus, sed in expositione
+historica,<f1>Gemeint ist hier ein Abschnitt aus dem ersten Teil der von den Zürchern verfassten Schrift "Warhaffte Bekanntnuß" (s. oben Nr. 2061, Anm. 9), in dem die Vorgeschichte der vorliegenden Schrift dargestellt wird (f. Dvii,v.-Fi,r.).<fe> qua narramus, quam amice nos gesserimus in negotio concordię,
+semel et iterum Capitonis<f1>Wolfgang Capito.<fe> et Buceri mentionem facimus, quod scilicet ille
+adhortatus sit nostras ecclesias ad concordiam, quod respublicae nostrae<f1>Die reformierten Eidgenossen.<fe> illi<f1>Bucer.<fe>
+confessionem nostram<f1>Das Erste Helvetische Bekenntnis von März 1536, das Luther am 12. Januar 1537 zugesandt wurde; s. zuletzt HBBW XIV, Nr. 1846, Anm. 6, und Nr. 1877, Anm. 13.<fe> Luthero perferendam tradiderint, quod articulos Witenberga<f1>Die Wittenberger Konkordie von Mai 1536; s. oben Nr. 2063, Anm. 39.<fe> retulerit.
+Sed quod ille metuit forte, non scribemus; malumus illo fratre uti quam hoste,
+nisi omnino nolit esse amicus.<f1>Bucer und auch Capito wurden tatsächlich nicht geschmäht und auch nur wie von Bullinger hier angegeben erwähnt (f. Ei,r.-Eiii,v.).<fe>
+His diebus accepimus ab eo oblongam epistolam, imo libellum,<f1>Damit ist Bucers langer Brief an Bullinger vom 13. Dezember 1544 gemeint; s. HBBW XIV, Nr. 2049.<fe> qui non admodum omnibus nobis placuit.
+Utinam sibi huiusmodi servaret epistolas!
+Solicitus est et metuit. Minatur se contradicturum mihi, priusquam viderit nostra.
+Nec ego solus scribo et ago; omnes scribimus. Agimus deposituri animas deo iuvante ad eo<fx>^#/+Johann Heinrich Hottingers Abschrift aus dem 17. Jh. (Zürich ZB, Ms F 43, 73v.) wie auch die von Johann Jakob Simler aus dem 18. Jh. (Zürich ZB, Ms S 56, 121) korrigieren^#/- eo ^#/+in^#/- ea.<fe>, quae vulgamus. Brevi habebis responsionem.<f1>Bullinger hatte Blarer vor dem 11. März 1545 den Großteil der deutschen Ausgabe des "Warhafften Bekanntnuß" zugesandt, am 16. März übersandte er den Rest; s. unten Nr. 2094, 34. 44f; Nr. 2111, 2.<fe>
+Bucer hätte wol ein haarrupff ve[r]dient<fx>^#/+Randtext beschädigt.^#/-<fe>;<f1>Vgl. diese Aussage Bullingers mit einer früheren, die Bucer zu Ohren kam, laut der Bucer Prügel für seine Unaufrichtigkeit verdient hätte; s. HBBW XIV, Nr. 2049, 587.<fe> wir woͤllend aber allwaͤg<f1>stets.<fe> die besseren sin, etc., er wölle
+dann nitt anders, so wirt er minder guͦts dann Luther haben; ir wüssend wol, wie und worumb, etc.
+^$Sis securus de reliquis,<f1>Die Furcht, dass die Öffentlichkeit etwas von den Verhandlungen zwischen Konstanz und den Eidgenossen erfahren könnte; s. oben Nr. 2065, 14-35.<fe> mi frater; omnia probe curabuntur; nemo tuorum quicquam audiet ex nostris.
+Sed commode tuum urgebis et monebis fratrem<f1>Thomas Blarer.<fe>, ne nihil respondeat.
+^$Hodie excessit e vivisd. Lavateri<f1>Hans Rudolf Lavater.<fe> uxor,<f1>Anna, geb. Röichli. - Zu deren Verwandtschaft s. ^#/+Stucki^#/- 19f.<fe> christianissima matrona. Dominus servet nos omnes.
+^$Festinavit rusticus (Jacobus Knächt<f1>Siehe oben Nr. 2065 und Anm. 22.<fe>)<fx>^#/+Die hier in Klammern gesetzten Worte entsprechen einer Randbemerkung Bullingers.^#/-<fe> mirum in modum; vix haec scripsi.
+^$Tiguri, 16. ianuarii anno 1545.
+<un>H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Ambrosius Blaurero, fratri semper colendo.<fx>^#/+Darunter von Blarers Hand das Empfangsdatum:^#/- 19. ianuarii 1545.<fe>
+</content>
+</letter>

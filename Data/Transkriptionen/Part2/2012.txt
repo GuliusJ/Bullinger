@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2012">
+<nr>2012</nr>
+<correspondents>
+	<originator>Matthias Erb</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Reichenweier</place>
+	<date>13. Oktober [1544]</date>
+	<note>Das Jahr ergibt sich aus dem von Fries übersetzten Büchlein; s. unten Anm. 2.</note>
+</space_time>
+<vo>Autograph<fx>^#/+Auf f. 268v. Archivvermerk: "Vor 1550".^#/-<fe>: Zürich StA, E II 361, 268 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 56, 9; Straßburg BNU, Ms 674 (Th. B. 15), 107f; Zit.: Jenny, in: HBGesA II 78, Anm. 69^&x{
+<dr>Ungedruckt</dr>
+<re>Dankt für Bullingers Schrift ["Hoffnung der Glöubigen"], dessen deutsche Übersetzung durch [Johannes] Fries ihm gefällt; will sich einst revanchieren und übersendet zu Bullingers Prüfung die lateinische [Widmungsepistel und Einleitung zu Bullingers Schrift "Resurrectio"], da Bullinger ihm Gelegenheit gab, diese auf Latein zu drucken. Der erste [Stadt-] ^@+Schreiber [Oswald Fürstenlob] wird den empfohlenen Jüngling [Gerold Meyer d.J.] als Lehrling bei sich aufnehmen, sobald [Hans] Vogler [d.J.] zu seiner Familie zurückgekehrt sein wird.
+Um die Kirche [im Elsass] stände es besser, wenn der neue [Landes-]Verwalter [Hans Henman (Amandus) Truchsess von Rheinfelden?] gegen die Taugenichtse vorginge und die [neuen] Ordnungen schützte, doch ist er ein ganz übler Mensch; sehnlich wird der Fürst [Graf Georg von Württemberg] aus Wildbad zurückerwartet, um ihn zu entlassen.
+Gibt sich alle Mühe, damit das von ihm und Erasmus [Schmid] Aufgebaute nicht zerstört wird und die Gegner triumphieren und ihn vertreiben; falls er als alter Mann aber weichen müsste, würde er wieder in die Schweiz zurückkehren; [die Zürcher] sollen für [die Elsässer] beten.
+Wie bisher die Kirche von Mömpelgard, so werden sie von falschen Brüdern aus Württemberg, besonders den Anhängern von [Erhard] Schnepf, [d.h.] Neuerern und Zeremoniasten, hinterhältig angegriffen und stützen sich ganz auf das Wort Gottes.
+Die Weinlese fällt sehr spärlich aus, eine Strafe für die undankbare Verschwendung [der Menschen], gegen die man vergeblich [predigt].
+Empfiehlt sich Bullinger und seiner Kirche und bittet um deren Gebet; Grüße an Pellikan, Gwalther, Megander, Bibliander und Erasmus [Schmid]; grüßt von Nikolaus [König].</re>
+<tx>Gratia domini tecum.
+^$Ago tibi gratias ingentes, doctissime Bullingere, pro
+libello tuo<f1>Bullinger hatte Erb am 3. September 1544 sein gerade erschienenes Buch "Hoffnung der Glöubigen" in der deutschen Übersetzung von Johannes Fries gesandt; s. oben Nr. 1968, 6-8.<fe>,
+et si possum, maiori olim relaturus etc. Placet
+Frisii<f1>Johannes Fries.<fe> docta et familiaris versio, qua admodum diligenter
+piis et ecclesię Christi iisque, qui Teuthonicam<f1>Zu ergänzen: "linguam".<fe> callent,
+ad spem futurę glorię, quę revelabitur in nobis,<f1>Röm 8, 18.<fe>
+incitamentum fidei prebuit. Legent enim simplices et
+pietatis studiosi cum Iobo agnoscentes hanc spem certo
+repositam in sinu illorum<f1>Hi 19, 25-27.<fe>; hac spe denique freti facilius
+tollerent omnium seculorum adversitates etc. Verum cum et
+mihi copiam feceris idem opus Latine excudendi, mitto ad te
+eius rei exemplar<f1>Es handelt sich hierbei wohl um Erbs Widmungsepistel (f. 2r.-5v.) und die Einleitung (f. 6f) zu Bullingers Schrift "Resurrectio. De gloriosa domini nostri Iesu Christi ... resurrectione ... libellus", die 1545 von Christoph Froschauer gedruckt wurde; s. oben Nr. 1953, Anm. 9.<fe>, quod dispitias, obsecro. Temeritatis
+siquidem fuerit id sine tua recognitione publicare etc.
+^$Adolescentem, cuius mentionem facis in tuis litteris,<f1>Gerold Meyer [d.J.]; s. zuletzt oben Nr. 1968, 29-41.<fe>
+prothoscriba noster<f1>Oswald Fürstenlob; s. oben Nr. 1968, Anm. 23.<fe>, simulac Voglerus<f1>Hans Vogler d.J., der als Schreiberlehrling bei Oswald Fürstenlob bis zum 23. April 1545 tätig sein sollte; s. oben Nr. 1968, 36.<fe> ad suos concesserit,
+in suum famulitium facile conscribet salario procul dubio
+non admodum magno in tui Tigurinorumque omnium gratiam.
+^$Ecclesia nostra satis bene haberet, si novus ille
+oeconomus<f1>Möglicherweise Hans Henman (Amandus) Truchsess von Rheinfelden, seit 1539 Vogt (und wahrscheinlich auch Schaffner) zu Reichenweier; s. HBBW XIII 304, Anm. 7.^&xAus der Mömpelgarder Grafschaft - kommen hier nicht in Frage -: Wilhelm Kuhn, vom 1. November 1543 an Landschaftseinnehmer, oder Wolf Bonacker d.Ä., von 1544 bis 1558 Prälateneinnehmer der Landschaftsverwaltung; vgl. Amerbach, Korr. VI 127f, Anm. 2. 3.^&x{<fe>, a quo tota respublica et oppidi et agri pendet,
+consceleratos illos nebulones<f1>Vermutlich sind hier Kleriker der römischen Kirche gemeint. In seinem am gleichen Tag verfassten Brief an Pellikan schreibt Erb: "Impetimur enim nonnunquam a Sathana et ministris eius, qui nunc rursus - post Galli et Caesaris concordiam [der Friede von Crépy, 18./19. September 1544] - prodeunt actum putantes de Evangelio. Minantur grandia ignorantes fortiorem nobis esse patronum quam illis etc. De Keiserspergensibus [Kaysersberg, Dép. Haut-Rhin] nobis nulla spes est resipiscentię. Mutarunt bonum propositum et impia phalanx [die Abtei Alspach?] imperat bonis etc. Nulla superest specula revocationis Valentini [Telis / Klee ? - s. unten] etc.
+Monacho parum devoto [unbekannt] et calumniatori pessimo suggestum a novo commiserunt, monstrum quod pessima illa Chymaera [nicht ermittelt^&xElisabeth von Helfenstein (1527-1584)? 1543 hatte sie den streng katholischen Georg Freiherr zu Rappoltstein (gest. 25. August 1548) des benachbarten Heiteren (Dép. Haut-Rhin) geheiratet; Gatinen weiterer benachtbarten Adelshäusern der Herrschaft Rappoltstein kommen hier auch in Frage; s. Benoît ^#/+Jordan,^#/- La noblesse d'Alsace entre la gloire et la vertu. Les sires de Ribeaupierre, 1451-1585, Straßburg 1991. - Société savante d'Alsace et des régions de l'Est. Collection 'Textes et documents' XLIV, S. 119; Bernard ^#/+Bernhard,^#/- Recherches sur l'histoire de la ville de Ribeauvillé, hg. v. Xavier Moosmann, Colmar 1888, S. 236-249^&x{] hactenus aluit. Nunc libere et magno periculi eius ecclesię in publicum protrahit. Haec Valentino Teli
+[unbekannt; vielleicht der ehemalige Franziskaner aus Rufach (s. oben Nr. 1918 mit Anm. 1)? Vielleicht auch Valentin Boltz? Im Sommer 1544 hatte Letzterer mit Pellikan seine Heimat Rufach besucht, wo Erb sie besuchte; s. ^#/+Pellikan,^#/- Chronikon 163] significabis etc. Plurimum laboravi in eo negotio cum quibusdam bonis et prudentibus viris, sed non cessit foeliciter" (Zürich ZB, F 47, 284r.).<fe>, qui sua turpitudine sanctam
+Christi disciplinam conspurcant, pro meritis multaret, et
+leges (quibus honestas hactenus in barbaro isto et Alsatico
+populo plantata)<fx>^#/+Die öffnende Klammer wurde von Erb vergessen.^#/-<fe> tueretur. Verum cum e diverso homo sit
+impius, durus, inexorabilis, calumniator, impudens atque, ut <vl>268v.</vl> omnia uno verbo dicam, omnium scelerum sentina, susque deque
+omnia ferens, nec deum nec rempublicam recte curat, proinde
+principem<f1>Graf Georg von Württemberg.^&xVgl. Christian Friedrich ^#/+Sattler,^#/- Geschichte des Herzogthums Würtenberg unter der Regierung der Herzogen, Teil 4, Ulm 1771, Abschnitt 5, S. 2: "Den 6. Oct[ober] kam er [Christoph von Mömpelgard] zu Leonberg an, da sein Herr Vater [Ulrich von Württemberg] noch in dem Wildbad war."^&x{<fe> percupide expectamus, qui iam bimestri tempore in
+Termis lavit ferinis<f1>Wildbad im Schwarzwald (Baden-Württemberg). - Am 13. August 1544 berichtete Erb an Pellikan: "In lectica heri abiit [Graf Georg] in Termis ferinis loturus rediensque occasione qualicunque" (Zürich ZB, F 47, 283r.).<fe>.
+Is forte, cum redierit, hypocritam e
+suo statu deiiciet; sin<fx>sin ^#/+korrigiert aus^#/- sint.<fe> minus, conclamatum erit et de
+religione et de bona disciplina.
+^$Omnem ergo movebimus lapidem<f1>Vgl. Adagia, 1, 4, 30 (ASD II/1 429f, Nr. 330^&xLB II 161f^&x{).<fe>, ne ea, quę magno labore
+Erasmus<f1>Erasmus Schmid (Fabricius).<fe> vester et ego pro virili, atque ut potui, in hac
+ecclesia numinis opitulatione edificavimus, corruant, neque
+cedam satanę - confortante me domino, sine cuius benigno auxilio<fx>auxilio ^#/+über der Zeile nachgetragen.^#/-<fe> nullus sum - neque satellitibus eius, dum vel vi, quod absit, me eiiciant, vel melior, qui plus quam ego hanc Spartam tueatur<f1>Zur Redewendung vgl. Otto 329, Nr. 1679; Adagia, 2, 5, 1 (ASD II/3 397-406, Nr. 1401).<fe>, succedat.
+Quod si mihi silicernio<f1>Diesen Ausdruck verwendete Erb schon in seinem Brief an Bullinger vom 24. Oktober [1543]; vgl. HBBW XIII 306, 45. Erb war zur Zeit der Abfassung des vorliegenden Briefs etwa 50 Jahre alt.<fe> migrandum
+fuerit, antiquam meam patriam Helvetiam<fx>Helvetiam ^#/+über der Zeile nachgetragen.^#/-<fe>,<f1>Wohl ein Bezug auf Erbs fast zehnjährige Pfarrertätigkeit (spätestens 1528 bis Juni 1536) in Entfelden (Kt. Aargau). - Erb stammte aus Ettlingen (Landkreis Karlsruhe, Baden-Württemberg) und hatte in Baden-Baden, Pforzheim und Tübingen studiert; s. Beat Rudolf ^#/+Jenny,^#/- Bullingers Briefwechsel mit dem Elsässer Reformator Matthias Erb (1539-1571), in: HBGesA II 64-78.<fe> nisi me dominus
+aliis adpulerit oris<f1>adpulerit oris: dichterisch; vgl. z.B. Vergil, Aeneis, 1, 375. 3, 338, u.a.; Ovid, Fasti, 3, 621.<fe>, repetam.^&xZit. bei Jenny, Erb, in:
+HBGesA II 78, Anm. 69^&x{ Haec generatim de perversis
+impiorum ingeniis; nam singula in spetie persequi longum
+fuerit. Die kere ist jetz an uns<f1>wir sind jetzt an der Reihe; s. Grimm XI 402. - Mögliche Anspielung auf 1Petr 4, 17.<fe>; post tenebras speramus
+lucem<f1>Vgl. Hi 17, 12 (Vulg.).<fe> etc. Tu interim cum fratribus et ecclesia vestra orate
+dominum enixissime, qui nos in hanc tentationem inducit, ne
+vincamur a malo<f1>Vgl. Mt 6, 13; Rm 12, 21.^&xVgl. auch Bullinger, Dekaden I 9 (HBTS III 3/1, 105, 20-22): "Multa ergo hic opus vigilia, multis ieiuniis, quibus carni detrahamus fomenta mali, multis precibus, quibus imploremus dei auxilium, ne vincamur a malo." - Die Dekaden kamen 1550 heraus. Außerdem schreibt hier nicht Bullinger sondern Erb, der diese Schrift 1544 noch nicht gelesen haben konnte: also fallen lassen^&x{<fe>.
+^$Multę insidię, multa perversa ingenia, non pauci falsi fratres ex Wirtenberga, Schnepfiani<f1>D.h. entschiedene Anhänger Luthers, so genannt in Bezug auf den in Württemberg wirkenden strengen Lutheraner Erhard Schnepf. - Erb denkt hier vermutlich u.a. an den strengen Lutheraner Johann(es) Engelmann; s. oben Nr. 2004, Anm. 8.^&xVgl. etwa Leopold ^#/+von Ranke,^#/- Deutsche Geschichte im Zeitalter der Reformation, Lizenzausgabe Zürich [s.a.], S. 687.^&x{<fe>
+maxime et novatores et cęremoniastę<f1>Die Bezeichnung "novatores et cęremoniastę" für die strengen Lutheraner gebraucht Erb auch in einem Brief an Bullinger vom 11. August 1561, Zürich StA, E II 361, 212, zitiert in Johann ^#/+Adam,^#/- Evangelische Kirchengeschichte der elsässischen Territorien bis zur Französischen Revolution, Straßburg 1928, S. 314. Vgl. auch den Brief des in Colmar ansässigen Augustiners Johann Hofmeister an Erb vom 13. März 1543, in dem Hofmeister sich freut, dass die Protestanten im Begriff sind, die Messe wieder einzuführen; s. Timotheus Wilhelm ^#/+Röhrich,^#/- Mittheilungen aus der Geschichte der evangelischen Kirche des Elsasses, Bd. III, Straßburg-Paris 1855, S. 281f.<fe>, nos impetunt non<fx-t>non ^#/+bis^#/- Mombelgardianam ^#/+am Rande nachgetragen.^#/- <fe>
+minus quam hactenus ecclesiam Mombelgardianam<fx-x>non ^#/+bis^#/- Mombelgardianam ^#/+am Rande nachgetragen.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe><f1>Mömpelgard (Montbéliard). - Zur Sache s. John ^#/+Viénot,^#/- Histoire de la réforme dans le pays de Montbéliard, Bd. 1, Paris 1900, S. 105-116; Franz ^#/+Brendle,^#/- Die 'Einführung' der Reformation in Mömpelgard, Horburg und Reichenweier zwischen Landesherrn, Theologen und Untertanen, in: Württemberg und Mömpelgard. 600 Jahre Begegnung, hg. v. Sönke Lorenz und Peter Rückert, Leinfelden-Echterdingen 1999. - Schriften zur südwestdeutschen Landeskunde 26, S. 154-158.<fe>; quot capita,
+tot sententię<f1>Vgl. Adagia, 1, 3, 7 (ASD II/1 319f, Nr. 207^&xLB II 114^&x{).<fe>. Verum solidum dei verbum purumque domini
+<vl>268a r.</vl> eloquium propediem illorum stultitiam prodet. Huic basi,
+quotquot nostrum sunt in isto agro, innitimur; sine illo
+cortice in pelago huius mundi<f1>in pelago huius mundi: Paulinus Nolanus, Epistulae, 49, 5 (CSEL XXIX 395, 3); Caesarius von Arles (Arelatensis), Sermones, 64, 2 (CChr-L CIII 276), und passim.<fe> non namus<f1>sine ... cortice ... namus: Adagia, 1, 8, 42 (ASD II/2 262, Nr. 742).<fe>. Haec raptim de
+rebus nostris, alias, dum vacarit, plura.
+^$Occupamur vindemia, quę apud nos perparce provenit; nec
+mirum, cum dei benefitia adeo ingrate profundantur. In
+huiusmodi perlurcones<f1>lurco: der Schlemmer, der Vielfraß.<fe> clamamus ad rauzim usque<f1>clamamus ad rauzim usque: Schreien wir uns heiser; s. Neues und ausführliches Dictionarium oder Wörter-Buch in dreyen Sprachen, Genf 1718, S. 165 s.v. "sich heiser schreyen". <fe> parum
+proficientes. In rerum omnium caritate nulla frugalitas, sed
+maior luxus; unde impoenitentibus nil aliud quam graviorem
+domini manum expectandam videmus.
+^$Bene vale, vir in Christo sanctissime, nosque deo et filio
+eius Iesu Christo tuis precibus et ecclesię tuę
+commenda, ut ipse in nobis, non propter nos, sed ob nominis
+sui gloriam, ab adversariis triumphet. Salutabis meo nomine
+omnes tuos verbi dei collaboratores, Pellicanum in primis,
+Gwaltherum, Megandrum, Bibliandrum et meum Erasmum<f1>Erasmus Fabricius (Schmid).<fe>, et
+quotquot nobis in Christo iuncti sunt. Salutat te et
+Nicolaus Regius<f1>Nikolaus König.<fe> et omnes ecclesię nostrę antistites.
+^$Raptim, Richenvillę, 13. octobris.
+<un>Tibi deditissimus
+<un>Matthias
+<un>Erbius.
+<lz>[Adresse auf der Rückseite:] Viro pietate simul et
+eruditione eximiod. Henricho Bullingero, ecclesiastae
+Tigurino, patrono suo percharo.
+</content>
+</letter>

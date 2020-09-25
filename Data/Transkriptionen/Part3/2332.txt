@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2332">
+<brief>
+<id>16020</id>
+<nr>2332</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 14. Januar 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), <br/>Ms 35 (VBS VI), 96 (ohne Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 407f, <br/>Nr. 1240<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 23; Zit. (4 Z): Zürich ZB, Ms F 46, 678; Zit.: Immanuel Kammerer: Die Reformation in Isny, Isny 1931, 33</k></dr>
+<re>Bullinger hat den durch die Metzger überbrachten Brief Blarers [<qv>nr2319</qv>] erhalten. Er hat niemandem etwas von [Joachim] Möttelis [angeblichen Äußerungen über den Umgang Zürichs mit zurückkehrenden Söldnern] berichtet. Der [eigentliche Informant Wilhelm von Peyer] hat einfach irgendetwas erzählt.
+<t/>Bullinger dankt für die Übermittlung der Nachrichten, die [Thomas Blarer vom Bundestag zu Frankfurt] sandte, und ist an weiteren Informationen wie auch an dem Gutachten von Luther, Melanchthon und [Johannes] Bugenhagen interessiert.
+<t/>Das [Regensburger] Religionsgespräch wird so leidenschaftlich enden, wie es begonnen hat.
+<t/>Kaiser [Karl V.] lässt angeblich in Belgien Geschosse für einen Krieg herstellen. Es ist zu erwarten, dass [der Reichstag zu] Regensburg nur [ein taktisches Kriegsmanöver] darstellt. [Karl V.] ist nämlich schlimmer als Diokletian.
+<t/>Es schmerzt Bullinger, dass die Kirche in Isny [mit Benedikt Burgauer] einen Prädikanten erhält, der schon in vielen Kirchen Unruhe gestiftet hat.
+<t/>Bullinger freut sich über die positive Aufnahme [Johannes] Hallers in Augsburg und über die ihm vom Rat und von Privatpersonen ausgestellten, ausgezeichneten Zeugnisse. Haller wird in einem Monat, bzw. wann es [der kalte Winter] erlaubt, nach [Augsburg] zurückkehren.
+<t/>Luther hat angeblich erneut eine Schmähschrift gegen die [Zürcher] verfasst. Falls Blarer Zuverlässiges hört, soll er es mitteilen. Der wütende Luther hat auch eine Schrift ["Contra 32 articulos Lovaniensium theologistarum"] veröffentlicht, mit der er mehr zerstört als erbaut.
+<t/>[Konrad] Curio [Hofherr] und [Jakob] Metzler sind Bullinger empfohlen. In Hofherr, der manchmal predigt, setzt er große Hoffnungen. Metzler ist etwas selbstgefällig. Neulich trug ihm der Schulherr [Johann Jakob Ammann] auf, vor den Gelehrten auf Deutsch über ein theologisches Thema zu referieren, was er zu deren Missfallen ablehnte. Aus Rücksicht auf Metzlers geschätzte Heimat [Konstanz] wurde bisher Nachsicht geübt, obwohl ein solches Verhalten an der Zürcher Schule nicht geduldet wird. Daher sollte Metzler schriftlich streng ermahnt werden; auch an Ammann sollte in dieser Sache geschrieben werden.
+<t/>In den letzten zwei Monaten hat Bullinger die Schrift "De sacramentis" verfasst, von der er ein Inhaltsverzeichnis schickt, das Blarer mit dem nächsten Boten zurücksenden soll. Die eigentliche Schrift wird Blarer später wohl auch sehen, wenn sie abgeschrieben ist.
+<t/>Grüße an [Thomas Blarer], [Sebastian Gaisberg] und [Konrad] Zwick.</re>
+<text>
+<p>Gratiam et pacem. Optima fide per lanios accepi, quae misisti,
+<fn><qv>nr2319</qv> und Frölichs Brief vom 25. Dezember 1545 (<a>HBBW</a> XV, Nr. 2313). - Anspielung auf <qv>nr2330</qv>,<qv>zl2330-1</qv> (ein durch Johannes Haller übermittelter Brief).</fn> Ambrosi honorande et dilectissime frater. Nemini quicquam dixi de Metello
+<fn>Joachim Mötteli vom Rappenstein.</fn>, ut non opus fuerit vel retractatione vel declaratione. Certe qui a Bavaris nomen habet
+<fn>Wilhelm von Peyer.</fn>, dixit, quod voluit, non quod debuit.
+<fn>Zu diesen Personen und zum Umgang Zürichs mit Söldnern s. zuletzt <qv>nr2328</qv>,<qv>zl2328-3</qv>.</fn></p>
+<p>Gratissimum fuit, quod de fratre tuo
+<fn>Thomas Blarer.</fn> scripsisti.
+<fn>Zu Thomas Blarers Nachrichten vom Bundestag zu Frankfurt s. <qv>nr2328</qv>,<qv>zl2328-2</qv>.</fn> Perge et alia communicare, quae is submissurus est, quae videlicet mea scire refert. De aliis non sum curiosus. <zzl>zl2332-2A</zzl>Lutheri, Melanchthonis et Pomerani consilium
+<fn>Das Gutachten von Martin Luther, Philipp Melanchthon, Johannes Bugenhagen, Kaspar Cruciger und Georg Maior zur Erstreckung des Schmalkaldischen Bundes; s. <qv>nr2328</qv>, <qv>fn2328-1</qv>.</fn> expecto, si videlicet utile putaris, quod legam<zzl>zl2332-2E</zzl>.</p>
+<p>Colloquium
+<fn>Das Regensburger Religionsgespräch; s. <qv>nr2328</qv>, <qv>fn2328-3</qv>.</fn> ita finietur, ut coeptum est. Affectus coepit, finiet affectus; nascetur affectatio nimia. Dominus bene vertat!</p>
+<p>Caesarem
+<fn>Karl V.</fn> audimus in Belgis parare bombardas
+<fn>Geschosse.</fn>, et parari ad Martis
+<fn>Der Kriegsgott Mars.</fn> ludum. Ratisbonae
+<fn>Gemeint ist der Reichstag zu Regensburg; s. <qv>nr2331</qv>, <qv>fn2331-2</qv>.</fn> interim expectatur litaturus Minervae
+<fn>Minerva, die Göttin der Weisheit und der taktischen Kriegsführung. - Vgl. <a>HBBW</a> XV 665,16-20, wo Bullinger schon das Zweite Regensburger Religionsgespräch als Ablenkungsmanöver von den kriegerischen Machenschaften des Kaisers beschrieb.</fn>. Ego caesarem Diocletiano
+<fn>Der Christenverfolger Diokletian, römischer Kaiser von 284 bis 305.</fn> peiorem, atrociorem, crudeliorem esse scio.</p>
+<p>Dolet et mihi Isnacensi ecclesiae hominem praefectum esse, qui multis ecclesiis servivit, nullam reliquit in pace.
+<fn>Zur Anstellung Benedikt Burgauers in Isny s. <qv>nr2328</qv>, <qv>fn2328-4</qv>. - Zuvor hatte Burgauer in St. Gallen, Schaffhausen und Tuttlingen (Baden-Württemberg) gewirkt; s. <a>Pf-Schwaben</a> 27.</fn> Dominus servet suos.</p>
+<p><zzl>zl2332-4A</zzl>Sed et ipse gratias ago domino Iesu, cuius spiritu effectum est, ut Hallerus a celebri Augustanorum ecclesia sit receptus ac tanto quidem cum consensu et concordia.
+<fn>Auch Blarer hatte von der begeisterten Aufnahme Johannes Hallers in Augsburg berichtet; s. <qv>nr2330</qv>,<qv>zl2330-3</qv>.</fn> Vix credas, quanta attulerit cum publica a senatu amplissimo
+<fn>Zum lobenden Brief des Rates von Augsburg vom 5. Januar 1546 s. <qv>nr2324</qv>, <qv>fn2324-1</qv>.</fn>, tum a privatis testimonia, praesertim a doctis.
+<fn>Gemeint sind <qv>nr2322</qv> bis <qv>nr2325</qv> und <qv>nr2327</qv>.</fn> Redibit eo post mensem
+<fn>Laut Wolfgang Haller reiste dessen Bruder Johannes mit seiner Familie am 19. Februar von Zürich nach Augsburg ab; s. Wolfgang Hallers Kalendereinträge (Zürich ZB, Ms D 269/3) und <a>HBBW</a> XV 647, Anm. 5. Wenn aber Bullingers nachträglich auf der Abschrift seines an Gervasius Schuler gerichteten Briefes (<qv>nr2361</qv>) angebrachtes Datum stimmt, erfolgte die Abreise erst am 20., ja vielleicht sogar erst am 21. Februar. In Augsburg traf Haller am 28. Februar ein; s. <qv>nr2364</qv>,<qv>zl2364-1</qv>.<zfn>fn2332-7</zfn></fn> aut ubi per coeli tranquillitatem
+<fn>Zum kalten Winter s. <qv>nr2337</qv>, <qv>fn2337-1</qv>.<zfn>fn2332-1</zfn></fn> licebit. Ora dominum, ut, quod feliciter coepit, felicissime absolvat.<zzl>zl2332-4E</zzl></p>
+<p>Lutherus denuo dicitur scripsisse in nos librum
+<fn>Zum falschen Gerücht über eine Antwort Luthers auf die Zürcher "Orthodoxa Tigurinae ecclesiae confessio" von März 1545 s. <a>HBBW</a> XV 694, Anm. 19. - Zu dieser Zürcher Schrift s. <a>HBBW</a> XV 66, Anm. 9.<zfn>fn2332-3</zfn></fn>, in quo semetipsum superet conviciando; dicas ergo plena convitiorum plaustra. Ubi is ad te fuerit perlatus, oro, ut mature mittas. <zzl>zl2332-5A</zzl>Scripsit et contra Lovaniensium putidissimas propositiones
+<fn>Luthers Schrift "Contra 32 articulos Lovaniensium theologistarum"; s. <qv>nr2327</qv>, <qv>fn2327-1</qv>.</fn> furiosus homo; certe plus destruit quam aedificet.<zzl>zl2332-5E</zzl></p>
+<p><zzl>zl2332-3A</zzl>Commendas mihi Curionem
+<fn>Konrad Hofherr.</fn> et Mezlerum
+<fn>Jakob Metzler.</fn>.
+<fn>Siehe Blarers Brief vom 9. Januar, <qv>nr2330</qv>,<qv>zl2330-2</qv>.</fn> Sunt autem commendatissimi. <zzl>zl2332-8A</zzl>Ac Curio ita obtemperat et se gerit, ut magnam de eo spem conceperim. Concionatur aliquoties.<zzl>zl2332-8E</zzl> <zzl>zl2332-6A</zzl>Metzlerus bonus est iuvenis et satis studiosus; verum plus sibi tribuit et magis sibi ipsi placet, quam studioso prosit. Iussus nuper a scholarcha
+<fn>Johann Jakob Ammann, siehe unten Z. <qv>zl2332-1</qv>.</fn> Germanice decla-<vl>96v.</vl> mare et specimen theologici studii aedere coram doctis; verum noluit et audacter satis dixit se hoc non facturum. Id quod et scholarcham et praefectos collegio male habuit. Dissimularunt hactenus rebellionem; sed revera plus hac in re patriae illius
+<fn>Metzler stammte aus Konstanz.</fn>, nobis charissimae, datum est quam illi. Inobedientes enim hactenus in schola nostra non tulimus. Haec libere tibi scribo. Puto enim mei esse officii, ut maioribus iuniorum errores indicem. Vellem homini, alioqui nobis charo, scriberetur, ne sibi plus nimium tribueret et placeret. Nondum enim eo devenit, quo putat. Utque in rebus sanctis et utilibus scholarchae pareat, serio autem scripto opus erit. <zzl>zl2332-1A</zzl>Prodesset et illud, si scholarchae d. Ioanni Iacobo Ammiano eadem de re scriberetur.<zzl>zl2332-1E</zzl><zzl>zl2332-6E</zzl> Verum hic tu, quod tibi optimum fuerit visum, facies.<zzl>zl2332-3E</zzl></p>
+<p><zzl>zl2332-7A</zzl>Scripsi praeteritis duobus mensibus librum De sacramentis, cuius summa capita in chartam
+<fn>Nicht erhalten.</fn> coniecta tibi mitto, rogans, ut eadem cum proximo tabellione remittas. Librum forte ipsum quoque videbis, ubi fuerit transcriptus.
+<fn>Bullinger verfasste seine 16 Kapitel umfassende Schrift "De sacramentis" Ende 1545. Wie er später selbst in seinem Diarium vermerkte (<a>HBD</a> 33,26-30), wurde sie 1551 in anderer Form in der fünften Dekade (Sermonum Decas quinta, Zürich, Christoph Froschauer, 1551, <a>HBBibl</a> I 182; Predigten sechs und sieben) sowie in der ursprünglichen Form (vielleicht aber auch überarbeitet; s. <qv>nr2407</qv>, <qv>fn2407-1</qv>) durch Johannes a Lasco (Absoluta de Christi Domini et Catholicae eius Ecclesiae Sacramentis tractatio, London, Stephen Mierdman, 1551, <a>HBBibl</a> I 183) veröffentlicht. In Zürich ZB sind ein undatierter, autographer Entwurf (Ms Car III 206c, Nr. 9 - Schluss fehlt) sowie zwei Abschriften, wohl von ein und derselben Hand, erhalten: Ms K 40, f. 62r.-128v., Nr. 7 (mit einem später hinzugefügten Titelblatt von Bullingers Hand, das das falsche Datum 1544 trägt); Ms Car I 107, 79r.-120v. (Abschrift vom 24. Februar 1546). Siehe ferner Peter <i>Opitz,</i> Heinrich Bullinger als Theologe. Eine Studie zu den Dekaden, Zürich 2004, S. 18. 440-443.<zfn>fn2332-2</zfn></fn><zzl>zl2332-7E</zzl></p>
+<p>Valebis cum omnibus tuis. Salvi sint frater tuus germanus
+<fn>Thomas Blarer.</fn>, d. consul
+<fn>Sebastian Gaisberg, dessen Amtszeit als Bürgermeister offiziell Ende 1545 begonnen hatte; s. <a>Fabian, Quellen</a> 209 und Anm. 68f.</fn>, d. Zviccius
+<fn>Konrad Zwick.</fn>, viri et amici colendissimi.</p>
+<p>Tiguri, 14. ianuarii 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</text>
+</brief>

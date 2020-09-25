@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="31141">
+<nr>31141</nr>
+<correspondents>
+	<originator>Mathieu Coignet</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>14. September (1561)</date>
+</space_time>
+<vo>Zürich StA, E II 377, 2693. / Orig. Aut.</vo>
+S. Quoniamd. Petrus Martir ad te scribit, non dubito, quin ex eius literis satis intelligas bonam eius valetudinem, quodque in ea conservanda nihil prętermiserim.
+Certior etiam fies de progressu religionis; posthac pluribus scribam.
+Salutabis amicos omnes.
+Bene vale.
+Apud Sanctum Germanum  14. septembris.
+                                                    Tuus ex animo Coignetius.
+Domino Henrico Bullinghero, ecclesiae Tigurinae pastori vigilantissimo.
+ Tiguri.
+</content>
+</letter>

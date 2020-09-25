@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="931">
+<nr>931</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>3. Januar 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 360, 319 (Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Bestätigt, daß er das Bestreben bernischer Landpfarrer, Reisläufer mit kirchlichem Bann zu belegen, mißbilligt und
+bekämpfen will. Lobt die Anstrengungen Zürichs zur Unterbindung des Solddienstes und deutet an, daß er gegen das
+Frühjahr bedeutende [militärische] Ereignisse erwartet. Dankt für ein Geschenk und hofft, den Rest [von Pellikans
+Kommentar] zur Apostelgeschichte später zu erhalten. Gruß.</re>
+<tx>Gratiam a domino.
+^$Censuram ecclesiasticam a quibusdam agri nostri ministris praeter consilium ac voluntatem nostram in milites tentatam
+esse recte sentis<f1>Die Pfarrer von Zofingen, Aarburg und Brittnau
+hatten Reisläufer, die unerlaubterweise nach Frankreich gezogen waren, von den
+Sakramenten ausgeschlossen. Nachdem die Stadtpfarrer die Verhängung des Banns laut Ratsmanual (entgegen Meganders
+Darstellung) als zulässig erklärt hatten, wies der Rat die Dekane am 23./24. Dezember 1536 an, den Pfarrern
+eigenmächtiges Vorgehen zu untersagen (s. Bern StA, A II 128, 259. 283. 290f; A III 24, 387f). Bullinger scheint sich in
+einem nicht erhaltenen Brief über den Vorfall erkundigt zu haben.<fe>. Non enim tam iniqui et insipidi sum iudicii,
+tametsi stupidissimus, quin facile capere queam audacem hanc, praesertim tempore hoc perplexo et periculoso, hac in re
+prorupcionem non modo domino fructum nullum reportaturam, imo, nisi deus caveat, quod hactenus labore ac studio ingente
+extructum est, adobruturam. Curabimus igitur sedulo, quo quorundam non solum mitigentur, sed ab instituto avocentur
+animi.
+^$Studium dominorum tuorum, quo bellorum temp[ore] domi suos retineant<f1>Zu den Maßnahmen Zürichs gegen den Solddienst
+s. HBBW VI, S. 317, Anm. 3.<fe>, nemini non perplacet. Est certe facinus comendacione amplissima dignum. Ne dubites,
+charissime mi Bullingere, sub ver nos stupenda et visuros et audituros. Faxit deus, quo omnia in suam cedant gloriam!
+^$Gratissimum quod misisti munus accepi, haud dubie, quod reliquum est in Acta, quoque accepturus<f1>Beim Geschenk
+Bullingers handelte es sich offenbar um einen Teil von Pellikans Kommentar zu den Evangelien und zur Apostelgeschichte
+(BZD C 266), dessen Druck erst im März abgeschlossen wurde. Vgl. auch unten Nr. 951, 2-5 mit Anm. 2.<fe>.
+^$Bene vale.
+^$Bernę, 3. ianuarii anno 37.
+^$Uxore tua<f1>Anna, geb. Adlischwyler.<fe> et fratribus omnibus salvis.<un>Megand. tuus ex animo.
+<lz>[Adresse auf der Rückseite:] Domino Heinrico Bullingero, Tiguri a concionibus sacris, suo colendissimo et charissimo
+fratri.
+</content>
+</letter>

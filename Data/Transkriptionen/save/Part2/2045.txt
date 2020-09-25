@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2045">
+<nr>2045</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>5. Dezember 1544</date>
+</space_time>
+<vo>Autograph<fx>^#/+Am rechten Rand beschädigt. Textverluste sind in eckigen Klammern nach der Abschrift von Johann Jakob Simler (1716-1788) ergänzt. Offensichtlich war damals die Handschrift weniger verstümmelt als heute, denn nur an einigen heute kritischen Stellen wurden die schon damals nicht mehr zu lesenden Worte von Simler nachträglich über der Zeile verzeichnet. Wo die Konjekturen der vorliegenden Edition sich von Simlers Abschrift unterscheiden, ist dies im Apparat vermerkt.^#/-<fe>: Zürich StA, E II 366, 244 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&XKopie: Zürich ZB, Ms S 56, 71. Zit.: ^#/+Gast,^#/- Tagebuch 76(Anm. 217) .94(279). T. Traugott Schieß datiert irrtümlich 1545.^&x{
+<re>Luthers fanatisches Buch ["Kurtz bekentnis"] erhielt Gast aus Wittenberg am 4. Dezember; er schickt es durch den jungen Überbringer [...] weiter an Bullinger, damit dieser darauf antworte; wie gottlos [Luther] Zwingli und Oekolampad behandelt, das Marburger [Religionsgespräch von 1529] für nichtig erachtet, und wie listig er Zwinglis Schrift ["Christianae fidei ... expositio"] an den französischen König [Franz^#. I.] auslegt! Bullinger, den [Luther] auch stichelt, soll darauf achten, es ihm in seiner Antwort nicht gleichzutun; Luther weigert sich, Bücher der [eidgenössischen] Kirchen zu lesen; beim Verfassen seiner Verteidigung soll also Bullinger die Braut Christi vor Augen haben; antworten aber muss man, um Luther zu verstehen zu geben, dass die [Eidgenossen] keine Tölpel sind. Solche gegen die [eidgenössischen] Kirchen gerichteten Schriften sind äußerst zu [bedauern], besonders jetzt, wo Kaiser [Karl^#. V.] und das Reich in Worms schon über Glaubenssachen verhandeln. Luther maßt sich alles an, als ob er allein durch seine Lehre ganz Deutschland bekehren könnte - eine harte Prüfung Gottes für [die Eidgenossen]; der Herr möge sie davon befreien! Jemand [...] aus Wittenberg, der das Buch übersandte, schrieb an Gast, dass Melanchthon über Luthers Schrift sehr verärgert ist; aber wer wagt es schon, sich Luther entgegenzustellen? Grüße an Theodor [Bibliander].</re>
+<tx>S. in domino.
+^$Fanaticus Lutheri liber<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 1971, Anm. 20.<fe>
+4. decembris e Vi[tem]berga<fx>^#/+Simlers Lesung^#/- Viteberga ^#/+ist verdächtig, da er auch Z. 23^#/- Viteberga ^#/+schreibt, wo ganz deutlich^#/- Vitemberga ^#/+zu lesen ist.^#/-<fe><f1>Möglicherweise der Basler Student Johann Jakob Wecker, der sich im Mai 1544 in Wittenberg immatrikulieren ließ; s. Wittenberg, Matrikel I 212a, Z. 15. - Vgl. auch unten Z. 23-26.<fe>
+ad me venit; quem
+per hunc adolescentem<f1>Unbekannt.<fe> mitto, [ut] eum legas, ac Luthero
+insano furenti ne dicam sata[nico] spiritu [agi]tato,<f1>Vgl. oben Nr. 2010, 23-26 und Anm. 15.<fe> qui<fx>[agi]tato, qui ^#/+am Rande nachgetragen anstelle von gestrichenem^#/- agito, qui. ^#/+Simler liest^#/- incitato.<fe>
+ecclesias nostras omnes satanę tradit, respond[eas]<fx>respond[eas] ^#/+über der Zeile nachgetragen.^#/-<fe>.
+Qu[i] impie taxat Zvinglium et Oecolampadium, Marpurgicum
+[con]ventum<f1>Das Marburger Religionsgespräch von 1529.<fe> et pactionem<f1>Gemeint sind die Marburger Artikel.<fe> annihilat, libellum ad regem
+Gallię [a] Zvinglio scriptum, sed<fx>scriptum, sed ^#/+über der Zeile nachgetragen.^#/-<fe> post mortem aeditum<f1>Zwinglis Schrift war von Bullinger unter dem Titel "Christianae fidei a Huldrycho Zvinglio praedicatae, brevis et clara expositio" 1536 herausgegeben und von Christoph Froschauer gedruckt worden; die Vorrede datiert von Februar 1536 (Z VI/V 15. 46; Finsler 72, Nr. 100; HBBibl I 702; II 1003). - Vgl. oben Nr. 2028 mit Anm. 36; 2031, 37-40; 2037, 45-49; unten 2049.<fe>,
+quam vafre interpretetur<fx>^#/+Vor^#/- interpretetur ^#/+ein gestrichener Wortansatz.^#/-<fe>! Vid[e], vide, ne similis in
+respondendo Luthero fias; nam et t[e] taxat, sed callide.
+Libellos nostrarum ecclesiarum legere rec[usat]. Scribe itaque ad
+ecclesiam, Christi sponsam,<f1>Vgl. Hhld 4, 10; 5, 1; Jes 54, 5; 2Kor 11, 2; Eph 5, 25-32; Apk 21, 2. 9.<fe> si quid scripturus [es]. Et
+necesse, ut scribas et apologiam propter<fx>propter ^#/+über der Zeile nachgetragen.^#/-<fe> vestram ecclesiam,
+quam praec[ise] nominat, instituas, ne putet nos<fx>^#/+Die Lesung^#/- vos ^#/+wäre auch möglich.^#/-<fe> omnino
+stipites esse.
+^$D[olet] nostris ex corde hos insanos libellos - quum
+iam in fidei [ne]gotio caesar<f1>Karl^#. V.<fe> et imperium Wormacię
+aliquid sint acturi<f1>^&!s(-70)Auf dem Reichstag zu Worms, der am 15. Dezember 1544 eröffnet werden sollte (s. oben Nr. 1980, Anm. 22), "sollte in Fortsetzung der Regensburger Vergleichsverhandlungen von 1541 über Grundlagen für das Zusammenleben beider Konfessionen im Reich beraten werden. Zu diesem Zweck wollten Kaiser und Stände theologische Reformgutachten erarbeiten" (RTA JR XVI/1 60. 87). - Dieser Reichstag verursachte damals manche Befürchtung; s. oben Nr. 1962, 30f; unten Nr. 2046, 22f; 2049 in fine.^&!s(+0)<fe> - s[acras]<fx>s[acras] ^#/+von Simler ausgelassen.^#/-<fe> nostras ecclesias sic diffamare,
+quasi omnino inemend[abiles] sint. O cęlum, o terra!<f1>Terenz, Adelphoe, 789.<fe>
+Satanę figmentum est, qui absque [dubio] Lutherum occulta
+vi et efficatia agitat illique imponit [amen]tia<fx>^#/+Simler hat keine Lösung anzubieten. Die Lesung^#/- dementia ^#/+wäre auch möglich.^#/-<fe>.<f1>Vgl. schon oben Anm. 4.<fe> Vult
+sapere prae omnibus; sibi omnia arrogat, quasi [sua]
+doctrina solus totam Germaniam ad fidem Christi
+convert[erit]. Turget prae fastu quemadmodum et Corinthii,<f1>1Kor 4, 19; 5,2.<fe>
+licet tot do[na] non habeat, quę Corinthii habuere.<f1>Vgl. 1Kor 1, 4-7.<fe>
+Verum dominus nos [ita] probare vult, nostram constantiam
+et longanimitatem tenta[t]<fx>^#/+Simler liest^#/- tentare.<fe>.<f1>Vgl. 2Kor 6, 4; Jak 1, 3f; 5, 10.<fe> Dominus nos liberet ab omnibus
+malis,<f1>Mt 6, 13.<fe> tam a Luthero qu[am] ab aliis hostibus.
+^$Quidam<f1>Siehe oben Anm. 2.^&xPhilipp Bächi kommt wohl hier nicht in Frage, da er sich nach Studien in Wittenberg seit dem Wintersemester 1542/43 in Leipzig aufhielt (vgl. MBW, Regesten XI 133; Amerbach, Korr. VII 273f).^&x{<fe> ad me scripsit<f1>Ein solcher Brief ist nicht erhalten.<fe> e Vitemberga, qu[i] hunc librum misit,
+Melanthonem scriptum Lutheri abominari [et] vehementissime
+dolere, quod emissum sit.<f1>Vgl. oben Nr. 1966; 2026, 8-13; 2030, 28-34.<fe> Sed quis audet se opp[onere]
+Luthero, ni velit solum vertere<f1>solum vertere: In der römischen Literatur metaphorisch für den erzwungenen Abschied von Rom, den Verbannte auf sich nehmen mussten; s. Peter ^#/+Habermehl,^#/- Petronius, Satyrica 79-141. Ein philologisch-literarischer Kommentar, Bd. 1, Sat. 79-110, Berlin 2006, S. 43.<fe> aut in exilium proscribi?
+^$[Vale] in domino cum omnibus tuis. Esto robustus<f1>Deut 31, 7. 23; Jos 1, 6f. 9; Dan 10, 19.<fe> et
+viriliter age. [Dominus<fx>^#/+Simler liest^#/- Deus.<fe> adsit] suo spiritu ac sapientia,<f1>Vgl. Apg 6, 10.<fe>
+quibus resistere facile possis omnibus adver[sariis]
+ecclesiae Christi.<f1>Lk 21, 15.<fe> D. Theodorum<f1>Bibliander.<fe>
+nomine meo salutabis. V[ale]<fx>Vale ^#/+von Simler ausgelassen.^#/-<fe>.
+^&xSimler, Zürich ZB, Ms S 56, 71, liest:^#/- R[aptim].^&x{
+^$Basileę, 5. decembris 1544.
+<un>T[uus G.]
+<lz>[Adresse auf der Rückseite:] D. Heynricho Bullingero.
+</content>
+</letter>

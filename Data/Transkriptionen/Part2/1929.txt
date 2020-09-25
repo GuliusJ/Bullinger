@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1929">
+<nr>1929</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joseph Macarius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>20. Juni 1544</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand<fx>^#/+Mit autographen Korrekturen Bullingers sowie Unterstreichungen von unbekannter Hand. Eine weitere Abschrift von einer unbekannten Hand des 16. Jahrhunderts in Zürich ZB, Ms F 47, 91r.-92v. (möglicherweise von Ludwig Lavater).^#/-<fe>: Zürich ZB, Ms Car. I 158<fx>^#/+Der Brief ist zusammen mit drei weiteren Schriftstücken lose hinten in den Band eingelegt. Er weist keine Seiten- oder Blattzählung auf und umfasst zwei Doppelblätter, von denen sechs Seiten beschrieben sind.^#/-<fe></vo>
+^&xKopien: Zürich ZB, Ms F 47, 91f (L. Lavater), [diese ist Vorlage für Traugott Schieß und damit für den Computereintrag! -- kollationiert und korrigiert Juli 08, JS];
+Ms S 55, 63; Teilüb'setz'g: I. Schlégel, in: Zwa 12/5, 1966, 337-339^&x{
+<dr>Druck und ungarisches Regest: Endre ^#/+Zsindely,^#/- Pesti Macarius József levelezése Bullinger Henrikkel, in: Studia et Acta Ecclesiastica III, Budapest 1973, S. 943-946, Nr. 2<fx>^#/+Diese Edition beruht auf Zürich ZB, Ms F 47, 91r.-92v. Der Brief wird hier neu aus Ms Car. I 158 ediert, weil diese Hs. autographe Zusätze von Bullinger enthält und bisher nicht ediert wurde. Sie bietet den besseren Text.^#/-<fe></dr>
+<re>Gruß. In der beiliegenden Schrift [vielleicht: Confessio Helvetica prior]
+hat Bullinger seine Auffassung und seinen Glauben hinsichtlich des Abendmahls öffentlich dargelegt,
+und zwar in Übereinstimmung mit seinem Kommentar zu Mt 26
+und 1Kor 10-11. Nirgendwo sonst findet Bullinger dieses Thema einfacher, reiner und dem Evangelium angemessener behandelt, und er wird an der dargelegten Auffassung beständig festhalten, sofern er nicht durch die [Heilige] Schrift eines Besseren belehrt wird. Die
+päpstliche Transsubstantiationslehre ist ein philosophisches und antichristliches Konstrukt, das Bullinger verabscheut, genauso wie er jene zurückweist, die zwar den Begriff "Transsubstantiation" ablehnen, ansonsten aber wie die Papisten behaupten, Christus sei auf unaussprechliche Weise in den
+Elementen des Abendmahls gegenwärtig. Bullinger glaubt und lehrt, dass Jesus Christus der für die Menschen fleischgewordene Sohn Gottes ist, wesenhaft als wahrer Mensch ihnen ähnlich wurde, dass er gestorben, wahrhaft leiblich auferstanden und zum Himmel aufgefahren ist, wo er zur Rechten des Vaters
+sitzt, bis er kommt, um die Lebenden und die Toten zu richten; er ist das Haupt seiner Kirche; er befindet sich leiblich an einem einzigen Ort im Himmel, doch lebt und wirkt er immer gegenwärtig in der Kirche durch den Geist, besonders, wenn die Kirche das Mahl gemäß seiner Einrichtung zum Gedenken
+an seinen Tod feiert; in diesem Mahl bezeugt Jesus seine Hingabe zur Rettung der Sünder; es gibt nur einen wahren Glauben, nämlich den, dass der allerhöchste Gott den Menschen wohlgesonnen ist und sie in Christus mit sich versöhnt hat, der gemäß seiner Göttlichkeit Gott wesensgleich und überall ist,
+gemäß seiner Menschlichkeit jedoch nur an einem Ort, als der eine Christus mit seinen zwei Naturen; dieser Glaube macht lebendig, rechtfertigt und erlöst; in ihm allein bleiben die beiden Naturen Christi unvermischt und ungetrennt, und diejenigen vernichten die Menschlichkeit in Christus, die gegen Augustin
+behaupten, dass sein Leib überall sei;
+durch den Glauben wirkt Christus in den Gläubigen und wird ihnen lebendigmachende Speise, auch wenn er, wie Augustin bestätigt, wie die Sonne an einem bestimmten Ort im Himmel bleibt; diese Lehre von der Gegenwart Christi ist verständlich und sorgt nicht für Verwirrung. Christus wird dadurch nicht
+geteilt, so wenig wie durch sein eigenes Reden vom Weggang zum Vater; der ganze Christus ist im Himmel und dennoch seiner Kirche gegenwärtig; doch darüber hat Bullinger zur Genüge in seinem Kommentar zu Joh 3. 6. 16. 17
+gehandelt, über den verherrlichten Leib im Kommentar zu 1Kor 15, Joh 20 und 21
+und im 12. Buch des Kommentars zu Johannes.
+Soweit Bullingers unzweideutiges Bekenntnis über das Abendmahl, das Macarius erbat; im Weiteren verweist er auf seine Bücher.
+</re>
+<tx>
+Verę pietatis studiosissimo et doctissimo virod. Iosepho Macario
+Pannonio, fratri in domino charissimo, H.
+Bullingerus, Tigurinę ecclesię minister, s[alutem] d[icit].
+^$Sententiam et fidem meam de sacra domini coena hoc scripto
+publico<f1>Gemeint ist die Beilage, vielleicht das Erste Helvetische Bekenntnis (Confessio Helvetica prior) von 1536 (RBS I/2 33-68, Nr. 20; lateinische Fassung: Schaff III 211-231).<fe>
+copiose satis, opinor, exposui et ita, sicuti credo,
+exposui. Congruunt cum his, que dedi in Math. cap. 26.<f1>Bullinger bezieht sich auf seinen Matthäuskommentar (HBBibl I 144) aus dem Jahr 1542. Das entsprechende Kapitel findet sich dort auf f. 224r.-247v.<fe>, in
+1. ad Corinth. 10. et 11. cap.<fx>^#/+F 47:^#/- cap. 10 et 11.<fe>,<f1>Die Kapitel 10 und 11 des im Epistelkommentar 1537 (HBBibl I 84) enthaltenen Kommentars zum 1. Korintherbrief geben Bullingers Abendmahlslehre wieder (vgl. auch HBBibl I 53 und HBBW VI 382, Anm. 5).<fe> ut, si de hac sancta domini
+coena centies mihi vel dicendum vel scribendum sit, aliter
+non possum.
+^$Diu multumque exercitavi me in scriptis veterum et
+neotericorum editis super hac re excutiendis; sed meliorem,
+simpliciorem et puriorem sententiam, quę sacris literis
+ac primitivę ecclesię magis consentanea sit, non reperio,
+quam hęc nostra sit. Hanc ergo teneo, hanc ecclesię
+fidei nostrę creditę trado, in hac ipsa deo iuvante,
+nisi scripturis meliora edoctus fuero, ad extremum usque
+halitum perseverabo.
+^$Nam ut papisticam transsubstantiationem plane philosophicum
+figmentum et antichristianum <vl></vl> commentum execror, ita illorum
+quoque sententiam non probo, qui solo transsubstantiationis<fx>^#/+F 47:^#/- transsubstantianis.<fe>
+vocabulo reiecto cętera omnia fere huius videlicet negotii
+cum papistis communia habent, quippe cum dicant verum et
+naturale domini Iesu Christi corpus substantialiter et
+corporaliter esse et contineri in speciebus panis et vini,
+attamen non qualitative, quantitative et ut<fx>^#/+Nach undeutlichem^#/- ut ^#/+erneut^#/- ut ^#/+am Rande durch Bullinger nachgetragen.^#/-<fe> in loco, sed
+ineffabiliter potius.<f1>Bullinger bezieht sich auf eine 1529 in Marburg von lutherischer Seite vorgelegte Konkordienformel; s. ^#/+Köhler,^#/- ZL II 337.<fe> Quid enim aliud senserunt et docuerunt
+papistę transsubstantiatores?
+^$Credo autem et doceo<fx>^#/+Am Wortende ein undeutliches Zeichen.^#/-<fe> Iesum Christum verum dei filium
+incarnatum pro nobis et verum hominem consubstantialem nobis
+per omnia excepto peccato similem factum mortuum esse in
+cruce, die autem tertia vero suo corpore ex mortuis
+resurrexisse ascendisseque in coelum, ubi nunc sedet
+sedebitque ad dexteram patris, donec in nubibus coeli
+veniat<f1>Dan 7, 13; Mt 24, 30, u.a.<fe> ad iudicandum vivos et mortuos.<f1>Vgl. das nizänische Glaubensbekenntnis (BSLK 27).<fe> Credo et doceo hunc
+esse<fx>hunc esse ^#/+gestrichen und am Rande von Bullinger wieder eingefügt.^#/-<fe> caput, id est regem et pontificem maximum suę
+ecclesię,<f1>Vgl. z.B. Eph 1, 22; Hebr 6, 20-7, 3.<fe> qui, licet iuxta veri sui corporis proprietatem,
+in uno coeli loco sit neque iuxta assumptam a nobis naturam
+ubique sit. Est <vl></vl> tamen, vivit, agit et operatur semper
+presentissimus in ecclesia spiritu<fx>^#/+Am Wortende ein undeutliches Zeichen.^#/-<fe>, vivifex virtute,
+potentia, operatione<fx>^#/+F 47:^#/- et operatione.<fe> salutari et absolutissima, maxime
+vero, cum ecclesia coenam iuxta illius institutionem
+celebrat. Est enim coena actio ecclesię a Christo
+tradita, in qua peragitur memoria mortis domini laudaturque
+eius gratia et gratuita beneficentia. In qua item dominus
+Iesus traditis symbolis testificatur se nostrum esse totum,
+quippe cum<fx>^#/+F 47:^#/- quum.<fe> corpus suum tradiderit et sanguinem suum
+effuderit in remissionem peccatorum, et ut salutem
+consequantur perpetuam, quotquot in eum<fx>in eum ^#/+fehlt in F 47^#/-.<fe> credunt. Fides enim nos
+unit connectitque Christo, fides iustificat et vivificat
+nos. Non est autem nisi una<fx>^#/+F 47: Vor^#/- una ^#/+gestrichenes^#/- vera.<fe> vera fides, ea scilicet, quę
+tradit deum optimum maximum et summe bonum bene velle generi
+mortalium ac<fx>ac ^#/+durch Tintenfleck nicht lesbar; ergänzt aus F 47.^#/-<fe> rediisse cum eo in gratiam propter Christum,
+qui consubstantialis est<fx>^#/+F 47:^#/- ut ^#/+(oder^#/- et?).<fe> patri<fx>est patri ^#/+am Rande nachgetragen.^#/-<fe> secundum divinitatem<fx>divinitatem ^#/+über gestrichenem^#/- humanitatem, in uno duntatxat loco, secundum divinitatem.<fe>, nobis
+autem consubstantialis secundum humanitatem et ideo secundum humanitatem<fx>et ideo secundum humanitatem ^#/+von Bullinger am Rande nachgetragen; fehlt in F 47.^#/-<fe>in uno duntaxat
+loco, secundum divinitatem autem ubique, unus atque idem
+Christus in duabus indivulsis<fx>^#/+Falsch bei Zsindely^#/- videlicet multis.<fe> consistens naturis. Hęc,
+inquam, fides vivificat, iustificat, salvat<fx>^#/+F 47: Vor^#/- salvat: et.<fe> nos. Hęc una
+sola et vera est fides, <vl></vl> quę humanitatem in Christo
+divinitati non aequat aut commiscet neque evacuat aut
+extendit per omnia, rursus autem Christum neque dividit
+neque humanitatem in illo<fx>^#/+F 47:^#/- in illo humanitatem.<fe> separat a divinitate, licet
+diserte confiteatur proprietates naturarum in illo permanere
+inconfusas. Evacuant autem humanitatem a<fx>^#/+F 47:^#/- in.<fe> Christo, qui
+corpus eius contendunt esse ubique.<f1>Bullinger bezieht sich hier auf Luthers Ubiquitätslehre; zu dieser s. Jörg ^#/+Baur,^#/- Artikel "Ubiquität", in: TRE XXXIV 224-241.<fe> Necesse est autem corpus Christi esse ubique, si substancialiter est et continetur in coena.<fx>Necesse ^#/+bis^#/- coena ^#/+von Bullinger am Rande nachgetragen; fehlt in F 47.^#/-<fe> Nam ut de scripturis
+nihil dicamus, an non s. Augustinus ad Dardanum dixit:
+"Spatia locorum tolle in corporibus et nusquam erunt, et
+quia nusquam erunt, nec erunt."<f1>Augustin, Epist. 187, 6 (CSEL LVII 96, 8-11).<fe> Ergo ne inconsistentia
+proferamus et ne quid peccemus in fidem veram, nullam in
+cęna ponimus corporalem presentiam Christi. Confitemur
+interim et docemus coenam fidelium non esse sine
+hospite et sine cibo vitali<fx>vitali ^#/+von Bullinger über gestrichenem^#/- in tali (^#/+F 47:^#/- in tali).<fe> Christo. Operatur
+enim in animis et mentibus fidelibus salutem; mors Christi
+per fidem fit vitalis credenti, atque ita fit ei caro Iesu
+Christi cibus. Idem Christus vivit in suis efficitque, ut
+sui<fx>^#/+F 47:^#/- sui ^#/+am Rande nachgetragen.^#/-<fe> vivant in ipso.<f1>Gal 2, 20; Apg 17, 28; Kol 2, 12.<fe> Sol uno in<fx>Sol uno in ^#/+von Bullinger am Rande für gestrichenes^#/- Sub uno in.<fe> coelis loco consistit,
+sed virtute sua omnia illustrat et exhilerat mortalium.
+Christus, sol iustitię, in uno coeli loco est, sicut et
+August[inus] ait,<f1>Vgl. HBBW I 106, Anm. 42; HBBW XI 259, Anm. 62.<fe> sed spiritu, virtute et<fx>et ^#/+fehlt in F 47^#/-.<fe> operatione nihilominus
+agit in fidelibus semper, praecipue vero cum iuxta eius
+institutionem<fx>^#/+In der Vorlage^#/- instituonem.<fe> coena celebraretur <vl></vl> in ecclesia. Hec expositio
+presentię Christi in coena videtur nobis maxime effabilis
+esse, simplex et clara ac ita temperata, ut Christum
+ecclesię nec adimat nec contraria dicat verę fidei nec
+verborum involucris auditorem implicet magis quam explicat.
+^$His porro Christum dominum non dividimus aut conscindimus,
+nisi ipse semetipsum consciderit, cum dixit<f1>Joh 16, 16. 28.<fe> se non porro
+futurum in mundo, se relicturum mundum et abiturum ad
+patrem etc.<fx>etc. ^#/+fehlt in F 47.^#/-<fe> Quis vero hinc colligat dimidiatum modo<fx>^#/+F 47:^#/- modo ^#/+über der Zeile nachgetragen.^#/-<fe> Christum
+permanere et regnare in ecclesia cum suis? Totus enim cum
+suis est, licet corpore duntaxat in coelis habitat. Nam
+toto<fx>^#/+Vor^#/- toto ^#/+gestrichenes^#/- ex. ^#/+F 47:^#/- ex toto.<fe> sole<fx>^#/+F 47:^#/- solis.<fe> fruimur in terris, licet globus solis<fx>^#/+In der Vorlage^#/- solus.<fe>
+non in terris sit, sed in coelis tantum. Sed de his satis copiose<fx>^#/+F 47:^#/- copiose satis.<fe>
+disputavi in commentariis<fx>^#/+In der Vorlage Doppel-^#/-m ^#/+wie Doppel-^#/-n ^#/+geschrieben.^#/-<fe> nostris in Ioannen<f1>Gemeint ist Bullingers Kommentar zum Johannesevangelium (HBBibl I 153).<fe> in cap.
+3.<fx>^#/+F 47:^#/- 3. 6.<fe>, 16. et 17. De ratione corporis clarificati abunde item
+disputavi in commentariis nostris in 1. ad Corinth. 15.
+cap. et in 20. et 21.<fx>^#/+F 47:^#/- 21 ^#/+korrigiert aus^#/- 12.<fe> cap. Ioannis<fx>^#/+Doppel-^#/-n ^#/+wie^#/- m ^#/+geschrieben.^#/-<fe> et in 12. lib.
+commenta.<fx>^#/+Doppel-^#/-m ^#/+wie^#/- mn ^#/+geschrieben.^#/-<fe> in Ioannen.
+^$Haec<fx>^#/+F 47:^#/- Hec.<fe> libere apud te (doctissime<fx>^#/+Vor^#/- doctissime ^#/+gestrichenes^#/- disputavi.<fe> simul <vl></vl> et charissime
+frater Ioseph) profiteor, ut habeas planam et minime
+ancipitem sententiam meam de coena domini, quam tu manu mea
+proprie scriptam expetebas, ac longo te huc itinere venisse
+dicebas, ut ecclesiam<fx>^#/+F 47: Nach^#/- ecclesiam: Christi.<fe>Tiguri constitutam videres et
+ministros eius, me presertim de hoc sacro Christi instituto
+tum aliis religionis capitibus disserentem audires. Audisti.<fx>^#/+Nach^#/- Audisti ^#/+ein Zeichen ähnlich wie für die Abkürzung^#/- etc.<fe>
+Habes nunc et manum chirographum meum;
+plenam disputationem de his ex libris meis pete. Bene his
+utere, oro ac Christo adhere et vale.
+^$Tiguri, 20. iunii 1544 etc.<fx>adhere ^#/+bis^#/- etc. ^#/+fehlt in F 47 (Papierverlust).^#/-<fe>
+</content>
+</letter>

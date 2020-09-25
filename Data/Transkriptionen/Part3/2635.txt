@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2635">
+<brief>
+<id>16325</id>
+<nr>2635</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-10-20"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 20. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 201 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 524, Nr. 1359<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 29</k></dr>
+<re><t>Blarer dankt für Bullingers Schreiben [nicht erhalten]. Weil die Boten sich immer erst so kurz vor ihrer Abreise anbieten, konnte er nicht früher schreiben.</t>
+<t>Bullinger hat recht, man hätte anders handeln sollen und sollte es auch jetzt. Gott möge alles zum Guten wenden!</t>
+<t>Beiliegend ein Schreiben [Georg] Frölichs, in dem dieser berichtet, dass es strengstens verboten sei, Nachrichten aus Augsburg brieflich zu übermitteln.</t>
+<t>Kaiser [Karl V.] liegt [bei Sontheim] an der Brenz, das schmalkaldische Heer bei Hermaringen [an der Brenz] beim [Augustiner]kloster, eine Meile vom kaiserlichen Lager entfernt. Da der Kaiser ein Regiment und drei Reitergeschwader in Richtung Nördlingen geschickt hat, vermutet man, dass er nach Württemberg gelangen will. Deshalb ziehen die Truppen Herzog Ulrichs [von Württemberg] auf Heidenheim, um den schmalkaldischen Truppen zu Hilfe kommen zu können, falls der Kaiser endlich angreifen würde. Man denkt, dieser wird sich nach Württemberg oder auch die Donau entlang nach Österreich begeben wollen.</t>
+<t>Der Memminger Stadtschreiber [Georg Maurer] berichtete in einem Schreiben vom 17. Oktober, dass die Ulmer etliche Reiter bei Langenau erstochen bzw. gefangen genommen haben, dass aber die italienischen Söldner [des Kaisers] die Ortschaft in Brand gesteckt hätten.</t>
+<t>Blarer muss aufhören, fürchtet dennoch, den Boten verpasst zu haben.</t>
+<t>[P.S.:] Der einäugige [Zürcher] Bote [Felix] Schubinger in Attikon ist ein frecher Kerl. Er hat [die Konstanzer Boten] vor dem Bürgermeister [Sebastian Gaisberg] zu Unrecht kritisiert, denn er will diesen die Schuld für seine Versäumnisse in die Schuhe schieben, wenn er sich etwa verspätet oder in Töss zecht. Bullinger soll ihm Einhalt gebieten, damit [die Konstanzer] sich nicht mit ihm überwerfen müssen.</t></re>
+<text>
+<div>
+<p>F{ue}rgeliepter herr und br{uo}der, ewer schreiben hab ich empfangen. Hab euch nitt eh schreiben konnen, so ylends
+<fn>kurzfristig.</fn> z{oe}gend sich die botten etwan an.</p>
+</div>
+<div>
+<p><zzl>zl16325-3A</zzl>Es ist, wie ir schreiben:
+<fn>In einem nicht erhaltenen Brief Bullingers.</fn> Es bedunckt vyl verstendiger
+<fn>Es bedunckt vyl verstendiger: Vielen Sachkundigen scheint es.</fn>, menschlich ze reden
+<fn>menschlich ze reden: menschlich gesehen.</fn>, man sollte bysanher vyl anderst gehandelt haben und noch handlen.<zzl>zl16325-3E</zzl> Aber es ist allso in fatis. Hoff, es soll alles usß gnediger gottesschickung noch uff g{uo}t weg gewendt werden. Das best lygt noch am boden.
+<fn>Wohl im Sinne von: Das Beste steht noch aus.</fn></p>
+</div>
+<div>
+<p>Von Augspurg schreibt L{e}tus
+<fn>Georg Frölich. - Das Schreiben ist nicht in <a>Blarer BW</a> erhalten, denn in Frölichs Brief von Mitte Oktober (aaO, II 528f, Nr. 1356) ist das Augsburger Nachrichtenverbot nicht erwähnt.</fn>, wie ir hieby
+<fn>beiliegend.</fn> hapt. <zzl>zl16325-2A</zzl>Ist z{uo} Augspurg yetzund by leyb und leben verpotten, das nieman zeytung
+<fn>Nachrichten.</fn> hinauß darff schreiben.
+<fn>Vgl. <qv>nr2631</qv>,<qv>zl16321-3</qv>.</fn><zzl>zl16325-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16325-9A</zzl><zzl>zl16325-4A</zzl>Sonst lygt der kaiser
+<fn>Karl V.</fn> yetz by der Prentz
+<fn>Das kaiserliche Lager befand sich seit dem 14. Oktober bei Sontheim an der Brenz (Lkr. Heidenheim, Baden-Württemberg); s. <a>Schüz, Donaufeldzug</a> 70, Skizze 7.<zfn>fn16325-3</zfn></fn>,<zzl>zl16325-4E</zzl> <zzl>zl16325-5A</zzl>unser leger z{uo} Herwartingen
+<fn>Hermaringen an der Brenz, etwa 3 km südlich von Giengen an der Brenz; vgl. <a>Schüz, Donaufeldzug</a> 70, Skizze 7; 74.<zfn>fn16325-4</zfn></fn> am kloster.
+<fn>Gemeint ist das ehemalige Augustinerinnenkloster in Hermaringen.</fn> Sind ain myl wegs von ainander.
+<fn>Zwischen Hermaringen und Sontheim liegen etwa 6,5 km. - Laut der in <a>PC</a> IV/1 439, Nr. 415, abgedruckten Quelle betrug die Entfernung nur eine halbe Meile.</fn><zzl>zl16325-5E</zzl><zzl>zl16325-9E</zzl> <zzl>zl16325-1A</zzl>Er hat ain regiment und dreu gschwader reuter von im uff Nerdlingen
+<fn>Nördlingen.</fn> hinder sich geschickt. Daruß z{uo} verm{uo}ten, das er hinder sich uff Wirtemperg ziechen werd.
+<fn>Vgl. <qv>nr2612</qv>,<qv>zl16301-13</qv> und <qv>fn16301-8</qv>. - Das kaiserliche Heer zog erst am 31. Oktober weiter; s. <a>Schüz, Donaufeldzug</a> 70, Skizze 7.</fn><zzl>zl16325-1E</zzl> <zzl>zl16325-6A</zzl>So zucht hertzog Ulrichs
+<fn>Herzog Ulrich von Württemberg.</fn> landschafft
+<fn>Volk; s. <a>Fischer</a> IV 969.</fn> stracks uff Haidenhaim
+<fn>Heidenheim an der Brenz (Baden-Württemberg).</fn> z{uo}, da sy dann on alle sorg z{uo} unserm volck kommen können,
+<fn>Die zusätzlichen Truppen unter Herzog Ulrich sollen sich am 26. Oktober dem schmalkaldischen Heer angeschlossen haben; s. <a>Viglius van Zwichem</a> 138. 159f, Anm. 57, wo von 10'000 bzw. gar 20'000 Württembergern berichtet wird, während in <a>Venetianische Depeschen</a> II 72 von 5'000 bis 6'000 Soldaten die Rede ist. Bei <a>Heyd, Ulrich von Württ.</a> III 422 mit Anm. 131 ist von einem Zuzug des württembergischen Landvolks die Rede, welches am 1. November in Giengen (wo das Hauptheer der Schmalkaldener lag) ankam. Laut Heinrich Thomann, dem Gesandten der Zürcher im schmalkaldischen Lager, erwartete man diese Truppen für den 29. Oktober (Zürich StA, A 177, Nr. 110 vom 29. Oktober). Nach einem späteren Bericht desselben trafen erst am Abend des 30. Oktober etwa 7'000 Kriegsknechte des Herzogs im Lager ein (aaO, Nr. 112).<zfn>fn16325-1</zfn></fn> so
+<fn>wenn.</fn> der kaiser, alls lang belypt
+<fn>alls lang belypt: wie schon lang gewünscht.</fn>, m{oe}cht mitt im
+<fn>mit dem Volk der Schmalkaldener.</fn> gschlagen werden.<zzl>zl16325-6E</zzl> <zzl>zl16325-7A</zzl>Man acht, er werd uff Wirtemperg oder der Thonauw nach hinab in {Oe}sterrich ziechen.<zzl>zl16325-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16325-8A</zzl>Die Ulmischen haben ettlich reuter uff gestert erstochen und ettlich gefangen z{uo} Naum oder Langennaum
+<fn>Gemeint ist Langenau (Alb-Donau-Kreis, Baden-Württemberg), 17 km nördlich von Ulm. Die hier angedeutete Begebenheit wird genauer geschildert in einem undatierten, in Ulm verfassten Bericht, der vom Konstanzer Rat für Zürich abgeschrieben wurde (Zürich StA, A 177, Nr. 90), sowie in einem späteren Schreiben von Konstanz an Zürich vom 23. Oktober 1546 (aaO, Nr. 103), wo das Ereignis allerdings auf den 20. (und nicht wie hier auf den 19.) Oktober datiert wird. Auch Heinrich Thomann erwähnt die Angelegenheit in seinem im Lager bei Giengen an der Brenz verfassten Brief an Zürich vom 22. Oktober (aaO, Nr. 102).<zfn>fn16325-2</zfn></fn> gen Ulm geh{oe}rig, aber die Welschen
+<fn>Italiener; s. <qv>nr2607</qv>, <qv>fn16295-16</qv>.</fn> haben das dorff anzundt und verbrendt.<zzl>zl16325-8E</zzl> Diß ist z{uo} Memmingen durch den stattschriber
+<fn>Georg Maurer.</fn> her geschriben. Datum des brieffs ist gstanden 17. octobris.</p>
+</div>
+<div>
+<p>Ich kan nitt mer schreiben. Sorgen danecht
+<fn>dennoch (auch wenn ich aufhöre zu schreiben).</fn>, ich versumme mich des botten
+<fn>ich versumme mich des botten: ich verpasse den Boten.</fn>. Datum den 20. octobris 1546.</p>
+<un>A. Bl.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl16325-10A</zzl>Der an{oe}g
+<fn>einäugige (in <qv>nr2645</qv>,<qv>zl16335-2</qv>, wird er nämlich als "unoculus" bezeichnet).</fn> bott, Schubinger
+<fn>Felix Schubinger. Dieser Zürcher Bote ist in den Rechnungsbüchern der "Laufenden Boten" nachgewiesen; s. z.B. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 57 der Ausgabenabteilung für laufende Boten.</fn> genant, so z{uo} Atticka
+<fn>Attikon, etwa 8 km nordöstlich von Winterthur, zwischen derselben Ortschaft und Frauenfeld, das auf der Strecke nach Konstanz gelegen ist. Offensichtlich übernachtete der Bote jeweils dort.<zfn>fn16325-5</zfn></fn> ligt, ist gar ain frecher bosß
+<fn>Kerl; s. <a>SI</a> IV 1727.</fn>, wie ich bericht wird. Hat die unseren hie vorm burgermaister
+<fn>Sebastian Gaisberg.</fn> übel versagt
+<fn>verleumdet; s. <a>SI</a> VII 411.</fn> gehapt, und dasselbig gar mitt der unwarhait; dann es sind gar vlyssig gsellen mitt irer sach
+<fn>Angelegenheit.</fn>, die nichts versummend. Aber was der Schobinger t{uo}t selbs und sich etwa sumpt
+<fn>sich sumpt: sich verspätet; s. <a>SI</a> VII 959f.</fn>, das will er dann uff die unseren legen, so er z{uo} T{oe}ß
+<fn>Töss (Kloster), heute ein südwestlicher Ortsteil von Winterthur, auf der Strecke Zürich-Winterthur.</fn> zechet, etc. Man k{oe}nde wol anz{oe}gen, wie fleyssig er ist!
+<fn>Ironisch gemeint.</fn> Wellt gern, ir weren daran, das es im undersagt wurde
+<fn>würde.</fn>, damitt er die unsern unbetr{ue}bt liesß. Dann sy sorgend übel, si m{ue}ssind etwa sonst mitt ime z{uo} unf[rid]
+<fa><i>Hier und unten Textverlust. Ergänzung anhand der Abschrift Johann Jakob Simlers (Zürich ZB, Ms S 62, 29). Die Konstruktion "zu unfrieden werden" ist in <a>Fischer</a> VI/1 145f bezeugt.</i></fa> werden; das aber besser vermitten
+<fn>vermieden (würde).</fn>. Darum wellt das best hierin th[ain].<zzl>zl16325-10E</zzl></p>
+<lz/>
+<p>[Adresse darunter:] Bullingero suo. Tiguri.</p>
+</div>
+</text>
+</brief>

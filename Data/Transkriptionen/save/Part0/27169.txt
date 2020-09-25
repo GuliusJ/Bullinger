@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="27169">
+<nr>27169</nr>
+<correspondents>
+	<originator>Johannes Oporin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>18. August 1557</date>
+</space_time>
+<vo>Zürich ZB, Ms F 62, 428.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S. Dominum Hubertum Languetum, virum et pium et eruditum, tibi, mid. Bullingere, etiam atque etiam commendo.
+Is est, a quo literas has accipies, cuius si experimentum accipere et pietatis et eruditionis volueris, non pigebit, spero, aliquantulum temporis ei impendere.
+Annis aliquot familiarissime cumd. Philippo Melanchthone versatus est, cui etiam intime charus est et rerum ipsius etiam secretissimarum conscius.
+Quaeso te, mid. Bullingere, da operam, ut intelligat meam hancce
+commendatiunculam aliquid habuisse apud te ponderis.
+Bene vale.
+Basileae 18. augusti 1557. Subito, proinde ignosce.
+Ioan[nes] Oporinus tuus.
+Quaeso, commenda eum etiamd. Theodoro, P. Martyri, Gvalthero, Gesnero etc.
+Domino Henrico Bullingero, Tigurinae ecclesie pastori fidelissimo, domino et amico suo plurimum colendo.
+^$Tiguri.
+</content>
+</letter>

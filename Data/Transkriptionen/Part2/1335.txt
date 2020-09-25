@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1335">
+<nr>1335</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Simon Grynäus</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. Dezember 1539</date>
+</space_time>
+<vo>Autographe Abschrift: Zürich StA, E II 345, 170 (ohne Siegel)</vo>
+<re>Hat erfahren, daß ihm Bucer wegen seiner Vorrede [Nr. 1283] zu Vadians ["Orthodoxa et erudita ... epistola"] zürnt, da er
+glaubt, die Kritik an der Unbeständigkeit gewisser Leute ziele auf ihn und auf die Straßburger Kirche. Bullinger hat diese
+Schrift auf Anregung von Grynäus und Myconius veröffentlicht, da sie ihnen angesichts der Irrlehre Schwenckfelds nützlich
+schien; seine Vorrede richtet sich vor allem gegen Schwenckfeld und dessen Anhänger, aber auch gegen einige wankelmütige
+Prediger in Schwaben - namentlich Simprecht [Schenck] in Kempten -, die er bei der Abfassung im Juli vor Augen hatte.
+Bittet, ihn bei Bucer zu entschuldigen; da dieser reizbar ist, möchte er ihm nicht selbst schreiben. Bibliander
+hat aus gleichem Anlaß bereits an Johannes Sturm geschrieben. Legt das Büchlein bei für den Fall, daß es Grynäus noch nicht erhalten haben sollte.</re>
+<tx>[Gedruckt: CO X/2 433f, Nr. 199.]
+</content>
+</letter>

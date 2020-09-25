@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1194">
+<nr>1194</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>Ende Oktober / Anfang November 1538]</date>
+	<note>Eine Empfehlung für ungenannte Glaubensbrüder, die von Basel kommend ein Anliegen an den Zürcher Rat bringen wollten (s. unten Z. 1-3), findet sich auch in zwei Briefen von Oswald Myconius
+und Jakob Meyer vom 31. Oktober bzw. 1. November 1538 (oben Nr. 1193, 4-10, bzw. unten Nr. 1195, 10-21). Eine Bestätigung dafür,
+daß der Brief in diesen Zeitraum gehört, ergibt sich aus der Erwähnung einer zunehmenden Bedrohung durch die Pest (vgl. unten
+Z. 4-7 mit Nr. 1193, 14).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 193 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Bittet, das Anliegen der [Fürsprecher der Waldenser] beim Rat zu unterstützen. Berichtet über die erneute Zunahme der Pest und ersucht die Zürcher um ihre Fürbitte.
+</re>
+<tx>S. Obsecro per dominum, ut horum fratrum nomine Christi apud vos vestrosque causam habere comendatam tibi
+velis<f1>Wie sich aus den erwähnten Briefen ergibt, setzte sich die von Antoine Saunier angeführte Delegation aus Genf für eine
+Intervention zugunsten der verfolgten Waldenser im Piemont ein.<fe> et bonorum studio apud senatum vestrum efficere, ut
+voto potiantur. Rem omnem exponet ipse tibi.
+^$Cęterum de rebus nostris arbitror te plusquam satis
+audire. Grassatur equidem pestis iam non amplius
+tollerabiliter. Speraveramus, cum lucidis aliquot diebus
+dominus arrisisset cumque tempus anni serenius
+necessario coelum flagitet<f1>Vgl. oben Nr. 1174, 40f.<fe>, clementius actum iri nobiscum,
+verum intendit se lues. Orabitis dominum istic, ut clementi
+ac misericordi per Iesum Christum vultu respiciat peccata
+nostra ac<fx>^#/+vor ^#/-ac^#/+ gestrichenes ^#/-et.<fe> hinc nos solvens divite<fx>^#/+Endung undeutlich; vielleicht als ^#/-divini ^#/+zu lesen.^#/-<fe>
+spiritus sui testimonio ad ęternitatis iter ingressumque inducat. Amen.
+^$Vale in Christo, suavissime frater. Saluta bonos omnes.
+Orate vere dominum Christum, qui nihil negabit nobis,
+quod ad salutem suorum spectat.
+<un>Simon Grynęus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinrycho Bullingero, amico et fratri charissimo. Tyguri.
+</content>
+</letter>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2780">
+<brief>
+<id>17048</id>
+<nr>2780</nr> <from persid="Bullinger"/> <to persid="HallerJohannes"/> <place plid="Zürich"/> <date when="1547-01-30"/>
+<ae>Bullinger an Johannes Haller</ae>
+<od>Zürich, 30. Januar 1547
+<fn>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem</i> [= Bullinger] <i>Eidem</i> [= Haller]. <i>Tiguro Augustam, 30. ianuarii 1547.</i></fn></od>
+<vo>Abschrift von unbekannter Hand (17. Jh.)
+<fa><i>Mit Unterstreichungen von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 46, 594 <k>Kopie von J. W. Simler, 18. Jh.: Zürich ZB, Ms S 63, 61</k></vo>
+<dr>Ungedruckt<k>Kopie 17. Jh. (Johann Heinrich Hottinger): Zürich ZB, Ms F 46, 594r. (Mitte); Lit.: F. Roth: Augsburgs Ref'g III 473f </k></dr>
+<re><t>Wie aus Hallers Brief [<qv>nr2769</qv>] vom 25. Januar hervorgeht, sind Bullingers Briefe nicht angekommen, doch müsste Haller unterdessen wenigstens den von seinem Verwandten [Konrad Kambli] überbrachten Brief [vom 22. Januar; nicht erhalten] empfangen haben. Bullinger hat seinen [von Haller gewünschten] Ratschlag rechtzeitig genug mitgeteilt: Es gilt, solange in Augsburg auszuhalten, wie es Hallers Gewissen erlaubt und man für [das Evangelium] eintreten kann. Aber natürlich soll Haller sich und seine drei Kollegen [Lorenz Meyer, Thoman Ruman und Rudolf Schwyzer d.Ä.] nicht dem Tod ausliefern, zumal auch Christus und Paulus mehrmals vor ihren Feinden geflohen sind. Wenn Haller aber in Feindeshand geriete, sollte er gemäß Mt 10, [28] nicht die fürchten, die nur den Leib, nicht aber die Seele töten können.</t>
+<t>Gestern traf Hallers Brief [<qv>nr2759</qv> vom 19. Januar] ein. Den an die Zürcher Bürgermeister Hans Rudolf Lavater und Johannes Haab adressierten Brief [vom 18. Januar] hat Bullinger an diese übermittelt. Sie sagten ihre Hilfe zu und berieten sich sogleich wegen ihrer Antwort an Haller, an die [drei] anderen Zürcher Pfarrer in Augsburg und an den Rat von Augsburg. Dabei saßen sie bis zehn Uhr zusammen. Bullinger kennt ihren Beschluss noch nicht. Er hofft aber, dass sie Haller und seinen Kollegen die Rückkehr nach Zürich gestatten, wenn in Augsburg das Evangelium nicht mehr gepredigt werden kann.</t>
+<t>Die Zürcher Pfarrer in Augsburg sollen unterdessen im Gedenken an das Leiden der Propheten, Apostel und Christi tapfer ausharren. Segenswunsch.</t></re>
+<text>
+<div>
+<p><zzl>zl17048-2A</zzl>Recepi tuas 25. ianuarii scriptas,
+<fn>Brief <qv>nr2769</qv>.</fn> ex quibus intelligo te non accepisse meas litteras,
+<fn>Bullinger bezieht sich hier auf seinen Brief <qv>nr2752</qv> vom 14. Januar, der erst am 28. Januar in Augsburg eintraf, sowie auf seinen (heute nicht mehr erhaltenen) Brief vom 22. Januar, der am 27. Januar in Augsburg ankam; s. dazu <qv>nr2752</qv>, <qv>fn17021-2</qv>; <qv>nr2770</qv>, <qv>fn17039-2</qv>; <qv>nr2786</qv>,<qv>zl17054-4</qv>.</fn><zzl>zl17048-2E</zzl> <zzl>zl17048-1A</zzl>quanquam non dubitem te iamiam meas
+<fn>Bullingers nicht erhaltener Brief an Haller vom 22. Januar; s. <qv>nr2786</qv>,<qv>zl17054-2</qv>.</fn> saltem ab affine tuo
+<fn>Konrad Kambli; s. <qv>nr2752</qv>, <qv>fn17021-1</qv>. - Er wurde vom Schwiegervater Hallers, Ulrich Kambli, beauftragt, Hallers Gattin, Elsbeth geb. Kambli, und deren Kinder Agnes und Johannes eventuell nach Zürich zurückzubringen. Er reiste zusammen mit mindestens einem anderen "affinis" nach Augsburg; s. <qv>nr2786</qv>,<qv>zl17054-2</qv>. <qv>zl17054-3</qv>.<zfn>fn17048-1</zfn></fn> accepisse.<zzl>zl17048-1E</zzl> <zzl>zl17048-3A</zzl>Mature satis meum tibi consilium scripsi.
+<fn>Bezug auf Hallers Vorwurf in <qv>nr2769</qv>,<qv>zl17037-4</qv>. Bullinger hatte schon mit <qv>nr2752</qv>,<qv>zl17021-3</qv>, zum Ausharren geraten und dies in <qv>nr2770</qv>,<qv>zl17039-7</qv>, wiederholt.</fn> Consulo, ut tamdiu haereas, quamdiu salva potes conscientia, quamdiu regnum Christi promovere potes. Hic, hic amor et studium erga gregem domini declaratur. <zzl>zl17048-4A</zzl>Caeterum, quia ipse Christus dominus et divinus ille Paulus frequentissime fuga furorem hostium declinarunt, nollem te ipsum et fratres reliquos tres
+<fn>Lorenz Meyer (Agricola), (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä.</fn> coniiceres in flammam.<zzl>zl17048-4E</zzl> <zzl>zl17048-5A</zzl>Quod si divina dispositione contigerit te in manus incidere hostium, invoca dominum, fortis esto et cogita veritatis sententiam illam pronunciatam a domino: "Nolite timere eos, qui corpus occidunt, animam occidere non possunt", etc. Nosti doctrinam salvatoris nostri Mt 10.
+<fn>Mt 10, 28.</fn><zzl>zl17048-5E</zzl><zzl>zl17048-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17048-6A</zzl>Ego tuas
+<fn>Hallers Brief an Bullinger vom 19. Januar (<qv>nr2759</qv>).</fn> heri recepi<zzl>zl17048-6E</zzl> <zzl>zl17048-7A</zzl>et consulibus
+<fn>Johannes Haab, Hans Rudolf Lavater.</fn> suas
+<fn>Hallers Brief an den Zürcher Rat vom 18. Januar; s. <qv>nr2759</qv>, <qv>fn17027-5</qv>.</fn> tradi curavi.<zzl>zl17048-7E</zzl> <zzl>zl17048-8A</zzl>Illi omnem operam pollicebantur et recta ibant in consilium consultaturi, quid tibi, fratribus et Augustanae urbi responderi possit. Sederunt autem solicite diutius usque ad 10
+<fn>decimam horam.</fn>. Iam quid consultarint, certo scire non possum. Spero tamen tibi et fratribus recte esse consultum et reditum apertum, si amplius non libeat libere praedicare verbum veritatis.<zzl>zl17048-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17048-9A</zzl>Interea este fortes in domino. Cogitate, quid prophetae et apostoli sint passi, et ipse dominus noster, et perseverate in confessione veri in finem usque.
+<fn>Vgl. Mt 24, 13; Hebr 3, 6. 14; Apk 2, 26.</fn><zzl>zl17048-9E</zzl> Dominus Iesus servet te et reliquos.</p>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Dieser Brief wurde dem Zürcher Ratsboten Hans Zingg zur Übermittlung anvertraut; s. <qv>nr2788</qv>, <qv>fn17055-1</qv>.</fn></p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1323">
+<nr>1323</nr>
+<correspondents>
+	<originator>Nikolaus Pfister</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>28. Oktober [1539-1541]</date>
+	<note>Ein Anhaltspunkt für die Datierung ergibt sich aus dem Absendevermerk "ex scholico coenobio": Der Brief muß nach der Gründung der Schule im Kloster St. Nikolai, 1539, und vor Pfisters Weggang von Chur, 1542,
+geschrieben worden sein (vgl. HBBW V, S. 408, Anm. 3). Denkbar ist, daß die im Brief erwähnte Reise des Klostervogts zu
+Froschauer der Beschaffung von Büchern für die neugegründete Schule diente; dies würde für 1539 sprechen.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 377, 2589 (Siegelspur)</vo>
+<re>Empfiehlt den Klostervogt [Hans Tscharner]<f1>Als Verwalter des aufgehobenen Klosters St. Nikolai war 1538 Hans Tscharner
+eingesetzt worden; s. ^#/+Vasella,^#/- St. Nicolai 81. 148.<fe>, der wegen eines Geschäfts zu Christoph Fro­­sch­auer nach Zürich reist.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 20, Anhang zu Nr. 16.]
+</content>
+</letter>

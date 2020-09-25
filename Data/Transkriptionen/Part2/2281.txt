@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2281">
+<nr>2281</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>[Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>3. November [1545]</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 716 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 398, Nr. 1229</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 102 ^&x{
+<re>Blarer kam nie dazu, an [Bullinger] zu schreiben, und nahm zudem an, dass dieser von den jeweiligen Nachrichten schon erfahren hatte, wie etwa von dem unblutigen Sieg [der Schmalkaldener] über [Herzog Heinrich von] Braunschweig.
+-^#. Blarer dankt für Bullingers Gutachten zu den Bündnissen [oben Nr. 2269] und übersendet ein Gutachten zu Bündnissen mit den Päpstlichen zur Stellungnahme.
+-^#. Er freut sich, dass die [Eidgenossen] auf dem Tag zu Baden Einigkeit bewiesen haben. Dem Mailänder Marchese [Alfonso d'Avalos] ist nicht zu trauen.
+-^#. Grüße.
+-^#. [P.S.:] Blarer wollte den Brief durch den nach Zürich verordneten [Konstanzer] Boten [...] übersenden, aber dieser war schon abgereist.</re>
+<tx>S. Quum semel atque iterum ad te scripturirem, semper incidit, quod remorabatur,
+quominus pergerem; deinde serum esse intelligebam, quod cęptum erat, absolvere,
+quum iam aliunde istuc, quod scribere volebam, rescisse te non dubitarem (quale nunc etiam illud est,
+quod de nostrorum<f1>Die schmalkaldischen Truppen.<fe> adversus Brunsvicensem<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> incruenta victoria<f1>^#/+Livius,^#/- Ab urbe condita, 2, 31, 6, und passim.<fe> accepisti<f1>Schon am 30. Oktober 1545 hatten Bürgermeister und Rat von Konstanz dem Zürcher Rat die Nachricht von der Gefangenschaft Heinrichs von Braunschweig und dessen Sohnes Karl Victor übermittelt; s. Zürich StA, A 205/1, Nr. 203; ferner oben Nr. 2277, 2-6. 13f und Anm. 7. Am 7. und 8. November 1545 benachrichtigte der Konstanzer Rat den Zürcher Rat nochmals über den Braunschweiger Handel; s. Zürich StA, A 205/1, Nr. 205 (Original) bzw. E II 350, 513-517 (eine Abschrift von Bullingers Hand). - Zur Gefangennahme Heinrichs und seines Sohnes in der Nacht zum 21. Oktober s. ^#/+Demandt^#/- 60f (mit weiterer Lit.).<fe>)<fx>^#/+Klammern ergänzt.^#/-<fe>.
+Non est igitur, ut quicquam de remissiore mea diligentia suspiceris,<f1>Anspielung auf oben Nr. 2272, 1-4, wo Bullinger sich über Blarers Schweigen wunderte.<fe> praesertim
+in iis scribendis, quę ad te adeoque vestrates omnes pertinere videri possunt.
+Omnino curabo, ne quid hic in me desideres, modo ipse nihil desiderem in tabellariis.
+^$Accepi consilium tuum in foederum caussa<f1>Oben Nr. 2269.<fe> et gratias ago. Vicissim autem aliud mitto,<f1>Unbekanntes Gutachten.<fe>
+ubi solum de foederibus cum pontificiis iungendis agitur, de quo, ut paucis ad me
+iudicium tuum perscribas, te vehementer etiam atque etiam rogo. Remittes autem proximo commodo nuncio.<f1>Bullinger antwortete darauf am 10. November; unten Nr. 2284, 1-13.<fe>
+^$Quod adeo inter vestros convenit,<f1>Blarer bezieht sich auf Bullingers Bericht zu den Verhandlungen am Tag zu Baden vom 19. Oktober; s. oben Nr. 2272, 5-35.<fe> supra modum vobis gratulor, magis gratulaturus,
+ubi syncęrioris religionis unanimi consensu in uno spiritu firmius coalueritis.
+Marchio iste Mediolanensis<f1>Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter von Mailand; s. oben Nr. 2272, 26-35.<fe> utinam non monstrum aliquod adversum vos alat<f1>Adagia, 2, 4, 98 (ASD II/3 394, Nr. 1398).<fe>!
+Sunt omnia nunc plena insidiarum et tantum non inhumanorum conatuum.
+Nos adversus mundum mundi domino<f1>Vgl. Joh 16, 33.<fe> nos fortiter muniamus. In illius manu tutissimi futuri. Sed nequeo plura.
+^$Valebis igitur, mi venerande atque omnium mihi charissime frater, ac communem servatorem Christum pro me piis votis perpetuo interpella.
+Salutant te nostri omnes. Saluta tuam domum cum omnibus fratribus et amicis. 3. novembris.
+<un>Tuus Ambr. Blaurerus.
+<lz>[P.S. am Rande des Briefes nachgetragen:] Partem epistolę absolveram, quam ad te per eum tabellarium<f1>Der unbekannte Bote, der den oben in Anm. 4 erwähnten Brief vom 30. Oktober übermittelte.<fe> mittere me posse putabam, qui a nostris istuc abmandatus nuper fuit. Verum mox audiebam illum iam festinabundum abiisse, etc.
+<lz>[Adresse auf der Rückseite:] Tiguri.<fx>^#/+Der obere Teil der Adresse befand sich möglicherweise auf dem Verschlussband.^#/-<fe>
+</content>
+</letter>

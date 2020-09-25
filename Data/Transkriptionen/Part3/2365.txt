@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2365">
+<brief>
+<id>16056</id>
+<nr>2365</nr>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 2. März 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 146 (Siegelabdruck)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 113</k></dr>
+<re>Bullinger schreibt nur ganz wenig, weil Myconius nicht auf seinen Brief [<qv>nr2345</qv>] geantwortet hat und nur selten schreibt, und weil der Überbringer [Rudolf] Gwalther über die [Zürcher] Angelegenheiten berichten wird, über den Tod von Erasmus Schmid und die Hinrichtung der berüchtigten Zauberin Agathe Studler, der Ehefrau von Adam Frey.
+<t/>Grüße.
+<t/>Welche Nachrichten gibt es aus Frankfurt und Regensburg, und warum schreibt Myconius so selten, obwohl es so vieles zu berichten gäbe?</re>
+<text>
+<p>Gratiam et pacem. Paucula haec ad te, vir colendissime et frater in domino charissime, scribo, cum quod tu nondum ad meas
+<fn>Bullingers Brief vom 4. Februar 1546 (<qv>nr2345</qv>).</fn> respondisti
+<fn>Myconius hatte am 27. Februar eine Antwort (<qv>nr2363</qv>) verfasst, die Bullinger bei der Abfassung dieses Briefes offenbar noch nicht erhalten hatte.</fn> rarissimeque scribas, tum maxime, <zzl>zl2365-1A</zzl>quod vivam habeas hic epistolam, charissimum filium et symmistam d. Gvaltherum,<zzl>zl2365-1E</zzl> quem tuae humanitati tanquam me ipsum commendo.
+<fn>Vgl. aber <a>HBBW</a> XV 505f. 547f. 575. - Gwalthers Reise nach Basel stand möglicherweise in Zusammenhang mit seiner Beteiligung an Sixt Bircks Konkordanz zum Neuen Testament (<a>VD16</a> B5581). Außerdem wird er sich dort nach einer Unterkunft für die Jugendlichen Josias Simler (geb. 1530) und Huldrych Zwingli d.J. (geb. 1528) umgesehen haben; s. <qv>nr2378</qv>. Am 9. März befand er sich wieder in Zürich; s. <qv>nr2375</qv>,<qv>zl2375-18</qv>.<zfn>fn2365-2</zfn></fn> Referet ille tibi res nostras, d. Erasmi Fabritii, viri optimi et fidelissimi Christi ministri, migrationem ad dominum
+<fn>Erasmus Schmid war am 23. Februar 1546 gestorben; s. <qv>nr2360</qv>, <qv>fn2360-3</qv>.</fn> et alia quaedam, inter quae et Agathae St{uo}dlerae, Circes
+<fn>Circe: Synonym für "Zauberin"; vgl. <a>DNP</a> VI 487.</fn> famosissimae, supplicium
+<fn>Agathe Studler, seit 1542 mit Heinrich Grebel verheiratet, war wie schon 1539 wegen des Verdachts, mehrere Personen verhext zu haben, verhaftet und am 27. Februar 1546 in Zürich in der Limmat ertränkt worden; s. <a>HBBW</a> IX 106, Anm. 3. 155f, Anm. 2; Zürich StA, B VI 257, f. 64f; Wolfgang Hallers Kalendereinträge (Zürich ZB, Ms D 269/3). Ein illustriertes Flugblatt mit dem Titel "Von einer verrümpten Häxen, die Stuodleren genampt wie die zuo Zürich ertrenckt" findet sich in der Wickiana, Zürich ZB, Ms F 13, 90v.-91r. Zu Erbangelegenheiten der Hingerichteten in Zusammenhang mit Konstanz s. Zürich StA, A 205/1, Nr. 209. 211 vom 8. März bzw. 22. Mai 1546.<zfn>fn2365-1</zfn></fn>. Fuit ea uxor Adami Frygii
+<fn>Adam Frey. Er war Agathe Studlers erster Mann; s. <a>HBBW</a> IX 106, Anm. 3.</fn>.</p>
+<p>Recte valeo gratia domino cum universa domo mea. Vale et tu cum tuis. Tiguri, 2. martii anno 1546.</p>
+<p>Quid, obsecro, habes a Francfordia
+<fn>Vom Schmalkaldischen Bundestag in Frankfurt, der am 8. Februar zu Ende gegangen war.</fn> et Ratisbona
+<fn>Vom Zweiten Regensburger Religionsgespräch.</fn>? Qui fit, quod tot occurrentibus argumentis iisque foecundissimis tam raro scribis?</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Osvaldo Myconio, Basiliensis ecclesiae pastori vigilantissimo, suo in domino dilecto fratri.</p>
+</text>
+</brief>

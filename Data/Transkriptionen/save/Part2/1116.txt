@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1116">
+<nr>1116</nr>
+<correspondents>
+	<originator>Johannes Rhellikan</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Kaspar Megander</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>26. März 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 133-135 (Siegelspur)</vo>
+<dr>Teilübersetzung: ^#/+Lavater,^#/- Täuferdisputation 83</dr>
+<re>Äußert Ungeduld, da er schon zum dritten Mal schreibt und noch nichts über seine zukünftige Stellung erfahren hat. Trotz
+Drängen Basels hat Erasmus [Ritter] erreicht, daß Bern weder den Basler noch den Zürcher Entwurf einer Antwort an Luther einfach
+übernimmt, sondern in einem Zusatz die Gegenwart Christi im Abendmahl im Sinne des [Ersten Helvetischen] Bekenntnisses und
+des Schreibens an Luther auslegt. Angesichts der bevorstehenden Tagung richten sich alle Hoffnungen auf Zürich. Berichtet über
+die Disputation mit den Täuferführern Hans Hotz, Mathias [Wiser], Michel Utt und [Georg Treffer]; da man sich nur beim
+ersten von mehreren Artikeln einigen konnte, wurde den Täufern Verbannung und Todesstrafe angedroht, was aber nur wenige zur
+Umkehr bewegte; Einzelheiten der Debatte wird man den publizierten Akten entnehmen können. Hat vor drei Wochen seinen
+Rücktritt auf Pfingsten angekündigt, worauf [Simon] Sulzer zu seinem Nachfolger bestimmt wurde; wünscht dringend Bescheid über
+sein neues Amt. Grüße.
+</re>
+<tx>Salus et quieta conscientia per Christum Iesum.
+^$Nisi me ecclesiae, communis nostrae ac venerandae matronae,
+cura magis quam mearum ipsius stimularet ac solicitaret,
+possem et ego pariter vobiscum altum in scribendo agere
+silentium. Iam enim tertium ad vos communes do literas<f1>Siehe oben Nr. 1100 und 1109.<fe>, ad
+quarum nullas quisquam vestrum quidquam respondere dignatus
+est, utut ego responsi avidus fuerim. Scio equidem et
+agnosco libenter, quod multis et variis occupationibus multo
+gravioribus occupati sitis ita<fx>ita ^#/+nachträglich eingefügt.^#/-<fe>, ut omnibus ex aequo
+satisfacere nequeatis. Cogito et illud, quod ideo hactenus
+nihil scribere ad me volueritis, quod nihil certi adhuc de
+provintiola mihi decernenda decretum sit et per vos non
+steterit, quominus absolutum et perscriptum sit mihi. At
+velim vicissim, et vos animum diutule expectantis
+perpenderetis atque adeo diutius expectantium animos
+indueritis; hoc enim si feceritis, aliis<fx>aliis ^#/+am Rande nachgetragen.^#/-<fe> morae non omnino
+brevis impatientioribus paulo aequiores fueritis. Tantum de
+diuturno vestro silentio.
+^$Caeterum, quod ad res ecclesiasticas (quarum causa isthaec
+potissimum scribenda duxi) adtinet: Quamvis Basilienses
+omnem (ceu aiunt<f1>Vgl. Adagia, 1, 4, 30 (LB II 161f).<fe>) lapidem moverint, ut nostri in ipsorum, non vestrum de responsione
+Luthero danda praescriptum consentirent<f1>Zu den Entwürfen für ein Schreiben an Luther, die von Zürich und Basel vorgelegt
+wurden, s. zuletzt oben Nr. 1109, 2-10; vgl. ^#/+Bizer,^#/- Abendmahlsstreit 214-218.<fe>, tamen, Christo sit
+gratia, cum vestrum tum ipsorum <gr>^%)/ektypon</gr> ita Erasmi<f1>Erasmus Ritter.<fe>
+potissimum opera temperatum est, ut neque vobis senatus noster de reiiciendis sequestribus<f1>Zürich hatte erklärt, des
+Einsatzes von Vermittlern bedürfe es nicht mehr; vgl. oben Nr. 1104, 21.<fe> assentiat nec per omnia in
+Basiliensium sententiam pedibus iverit<f1>Vgl. Adagia, 1, 4, 15 (LB II 157).<fe>. Ubi enim illi plus nimio Lutherizantes
+cupiunt, ut perinde fateamur Christum in credentium coena adesse, eius corpus et sanguinem edi ac bibi ut Lutherus, hoc
+est, ut divinae potentiae liberum relinquamus, quo pacto adsit et commanducetur, a nostris appendix addita est<f1>Es handelt sich um einen kleinen Zusatz zum Basler Entwurf; vgl. EA IV/1c 934, Nr. 5.<fe>, in qua eam
+domini praesentiam in sacrosancta coena et talem manducationem corporis eius agnoscimus, quae et qualis diserte in Basiliensi
+confessione<f1>d. h. im Ersten Helvetischen Bekenntnis von 1536 (BSRK 101-109).<fe> et responsione Luthero in Schmalchadensi[!]
+conventu data<f1>Gemeint ist das Schreiben der reformierten Städte der Eidgenossenschaft vom 12. Januar 1537 (WA
+Briefwechsel XII 241-275, Nr. 4268).<fe> continetur.
+^$Porro autem, quum senatus noster eatenus Basiliensium technis assensus sit, quatenus comitia ecclesiastica in ecclesia vestra
+metropolitana indicantur<f1>Bern ersuchte Basel am 21. März, einen Tag nach Zürich anzusetzen; s. EA IV/1c 934, Nr. 5.<fe>,
+vestrae prudentiae erit illud<fx>illud ^#/+am Rande nachgetragen.^#/-<fe>
+anceps negotium in utranque expendere partem, num videlicet
+Christi ecclesiae expediat logodaedalos<f1>Redekünstler (Platon, Phaidros 266c; vgl. Adagia, 2, 3, 62 [LB II 509 F]).<fe> illos
+toties audire et contentionem instaurare annon. Certe gravem sustinetis expectationem, viri ac fratres in domino charissimi,
+adeo ut totius orbis christiani papistae, cacobaptistae et orthodoxi homines oculos suos in vos coniiciant ac
+tragoedi[ae]<fx>^#/+Rand beschädigt.^#/-<fe> istius heu nimis diu in proscenio remoratae
+eventum expectent. Nam<fx>^#/+vom Schreiber korrigiert aus ^#/-An[?].<fe> illi quidem partim<fx>partim ^#/+am Rande nachgetragen.^#/-<fe> circum
+circa mussant nos brevi ad ipsos redituros, ex quo quidam nostrum cum Luthero et Bucero dicimus corpus Christi et
+sanguinem confestim cum porrecto pane et poculo <vl> 134</vl> fideli menti distribui; partim vero coniiciunt nos totos ad
+ollas Aegyptiacas respicere<f1>Vgl. Ex 16, 3.<fe> et Lutherum designatum iam summum
+pontificem adoraturos. Hi vero bene de vobis ominantur ac
+sperant vos pro vestra providentia, pietate ac eruditione
+negotium ita moderaturos, ut nihil aliud in absolvenda
+concordia statuatis, quam quod iam olim in Basiliensi
+confessione et responsione ad Lutherum statuistis. Quanto
+igitur<fx>^#/+nach ^#/-igitur ^#/+gestrichenes^#/- igit.<fe> maior et periculosior de vobis expectatio est, tanto
+magis vos advigilare ac in summo dei timore omnia agere
+decet. Ego, quod unicum hac in re possum, pro mea virili
+deum orabo, ut discordem illam cum Luthero concordiam in
+nominis sui gloriam ac ecclesiae emolumentum vertat neve ob
+insignem nostram ingratitudinem<fx>ingratitudinem ^#/+am Rande nachgetragen.^#/-<fe> erga ipsum et ipsius verbum
+a fecibus papisticis repurgatum sinat nos in pristinas aut
+longe peiores relabi tenebras, quin potius nominis sui
+gloriam respiciat et nos ita per spiritum suum irriget,
+laetamen admoveat luxuriantesque ramusculos amputet, ut
+fructus evangelica professione dignos aedamus nominique
+ipsius ornamento, non dehonestamento simus, dum publicam
+inter nos et christianam fovemus charitatem et concordiam.
+Amen<fx>Amen ^#/+in Majuskeln.^#/-<fe>.
+^$Disputatio<fx>^#/+Der neue Absatz ist am Rande mit einem Absatzzeichen markiert.^#/-<fe> cum cacobaptistis septimo die
+absoluta est<f1>Die Disputation endete am 17. März; s. QGTS IV 467.<fe>. Quorum coryphaei alienigenae fuerunt Ioannes
+Hotzius<f1>Hans Hotz.<fe> ditionis Tigurinae, Mathias<f1>Mathias Wiser (Mathiß Wyser) lebte zeitweise bei Bremgarten, scheint
+sich 1543 in Appenzell aufgehalten zu haben und soll nach Mähren ausgewandert sein (s. QGTS II 228).<fe> quidam Bremgartinus,
+Michael sarctor cognomento Uͦtz<f1>Der Schneider Michel Utt (Ut, Schnyder) hatte wie Hotz schon 1532 am Täufergespräch in Zofingen teilgenommen. Vielleicht ist er identisch mit jenem
+Michel Schneider, der 1539 in Matrei am Brenner in Haft war (s. QGT XIV 402, vgl. 472). Er soll aus Stams im Tirol stammen (s. QGTS IV 265); allerdings bezeichnet ihn Rhellikan als
+Etschtaler ("Athesinus"). 1529 ist in Basel ein Täufer namens Melchior Utte von "Schampffs ... uss dem Eetschland" nachweisbar
+(s. ABaslerRef III 464, S. 378); ob ein Zusammenhang besteht, bleibt unsicher. Vgl. auch QGTS II 581, Anm. 70.
+- Lit.: Christian ^#/+Hege,^#/- in: Mennonitisches Lexikon, Bd. IV, Karlsruhe 1967, S. 400.<fe>, Athesinus, ac
+ephippiarius<f1>Der Sattler Georg Treffer (Träffer) stammte aus dem oberbayerischen Ammergau (s. QGTS IV 265).
+Näheres ist über ihn nicht bekannt.<fe> quidam, homuntio
+ex Bavaria oriundus. Articuli, de quibus disceptatum est, hi sunt<f1>Vgl. QGTS IV 268f.<fe>: An veteris instrumenti codices
+ad<fx>ad ^#/+am Rande nachgetragen.^#/-<fe> fidem et charitatem corroborandam facientes novi testamenti libris aequipolleant.
+Quo a catabaptistis concesso primum rationem suae vocationis ad verbi ministerium reddere iussi sunt, deinde, quid ecclesia et
+quotduplex<f1>wie mannigfaltig (s. Laurentius Diefenbach, Glossarium latino-germanicum mediae et infimae latinitatis, Frankfurt a. M.
+1857 [Nachdruck: Darmstadt 1968], S. 481).<fe>. Exinde rerum ordine exigente de paedobaptismo, iureiurando, magistratu
+christiano ac censura ecclesiastica agi coeptum et sexta die
+finitum. Quia vero de nullo praeterquam primo articulo inter
+anabaptistas et nostros evangelistas non pessime disputantes
+convenire potuit, senatus populusque Bernensis postero die
+durissimam in cacobaptistas sententiam in pontibus<f1>auf dem Podium.<fe> dixit,
+videlicet ut omnes exulatum irent et proscribantur, quotquot
+resipiscere iam nollent, ea lege atque omine<f1>Terenz, Andria, 200.<fe>, ut, quicunque
+proscriptus in Bernatum finibus posthac deprehensus fuerit,
+absque ulla venia capitis supplitio afficiatur. Haec ubi
+promulgata esset lex, vix unus et alter ex numerosa
+multitudine repertus est, qui resipiscens domum redierit. <vl>135</vl>
+Hunc exitum cacobaptistica concertatio habuit. Quo pacto
+autem et quibus argumentis ultro citroque decertatum sit,
+acta disputationis publicata testabuntur<f1>Vom Protokoll wurde
+zwar eine Reinschrift angefertigt, im Druck erschien es jedoch erst 1974 (QGTS IV 257-467; vgl. ebd., S. XXXIIIf).<fe>.
+^$Mearum rerum status sic habet: Ex quo ex vobis intellexi me
+in patriam brevi revocandum esse, id ante tres septimanas
+contionatoribus nostris indicavi, ut ipsi senatum
+certiorem facerent me sub pentecostes festum<f1>9. Juni.<fe> hinc soluturum. Ideoque licere illis, si velint, interea
+temporis de successore prospicere. Non displicuit illis conditio; cum enim Sulcerus commodum ad cacobaptisticam
+concertationem venisset<f1>Vgl. oben Nr. 1109, 27f.<fe>, senatus eum mihi (ut audio) subrogavit. Cum itaque
+mihi sub nundinas Duracenseis<f1>Die Zurzacher Frühjahrsmesse fand acht Tage nach Pfingsten (d. h. für 1538: am 16. Juni) statt; s. Leo ^#/+Zehnder,^#/-
+Volkskundliches in der älteren schweizerischen Chronistik, Basel 1976. - Schriften der Schweizerischen Gesellschaft für
+Volkskunde 60, S. 52f.<fe> commoda navigio remeandi occasio in patriam se oblatura sit, quaeso vos per
+christianam charitatem, ut quam ocyssime docendi provintias
+distribuatis et mihi decretam conditionem, quamprimum licet,
+significetis. Nisi enim primo quoque tempore de illa me
+certiorem feceritis, inter sacrum et saxum stabo<f1>Adagia, 1, 1, 15 (LB II 33).<fe> nec, quid mihi faciendum sit, sciam.
+^$Salutant vos, quotquot
+<gr>ŏruódojoi</gr> heic sunt, et rogant, ut munus vobis a
+deo iniunctum pro fidei synceritate asserenda (ut coepistis)
+strenue et constanter administretis, praecipue ursifer<f1>Vgl. oben Nr. 1100, Anm. 26.<fe>
+Sepinus<f1>Peter Im Haag.<fe>, Cyro, urbis Bernensis a secretis, et doctor Valerius<f1>Valerius Anshelm.<fe>, physicus et
+historiographus. Salutate vicissim mea caussa vestros
+symmystas, imprimis Theodorum<f1>Theodor Bibliander.<fe> nostrum. ^$Valete.
+^$Datum Bernę, 26. martii anno 1538.
+<un>Ioan. Rhellicanus.
+<lz>[Adresse auf der Rückseite:] Ornatissimis ac
+pientissims virisd. Heinricho Bullingero, Megandro ac
+Leoni, ecclesiae Tigurinae in verbo dominico praesidibus,
+amicis et patronis suis in domino observa[ndi]s. Z[ürich]<fx>^#/+Der auf das Verschlußband geschriebene Teil der Adresse fehlt.^#/-<fe>.
+</content>
+</letter>

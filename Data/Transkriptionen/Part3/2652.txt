@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2652">
+<brief>
+<id>16341</id>
+<nr>2652</nr> <from persid="Bullinger"/> <to persid="BlarerAmbrosius"/> <place plid="Zürich"/> <date when="1546-11-01"/>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 1. November 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), <br/>205-205a (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 528-530, <br/>Nr. 1366<k>1. Nov. um 12 Uhr mittags; deshalb nach HB an Myconius vom gleichen Tag setzen! ─ Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 125v.; Ms S 62, 55; Zit.: Stucki, Lavater 225. - Mitteilung von Rainer Henrich per e-Mail vom 21.01.2014: Nr. 16341: Der "Fürtrag", der im Anschluss an die reformierte Städtetagung vom Zürcher Rat aufgesetzt wurde, ist verzeichnet in den Quellen zur Zürcher Zunftgeschichte, Bd. 1, S. 257, Nr. 350.</k></dr>
+<re><t>Bullinger hat Blarers Schreiben vom 27. Oktober [<qv>nr2645</qv>] empfangen und ist ganz dessen Meinung. Gott erbarme sich unser!</t>
+<t>Am 30. [Oktober] versammelte der Zürcher Rat die Räte und Bürger und informierte sie über die Tagung [der Vier protestantischen Orte] in Zürich. Dabei beschloss man, alle Gemeinden der Stadt und Landschaft Zürich in Kenntnis der gefährlichen Lage zu setzen und diesen mitzuteilen, was der Zürcher Rat bisher mit den Eidgenossen und anderen verhandelt hat, und was Papst [Paul III.], Kaiser [Karl V.] und [der Schmalkaldische Bund] zu erreichen suchen. Dabei soll klargemacht werden, dass es bei diesem Krieg um den Glauben und um die Freiheit Deutschlands geht; dass der Zürcher Rat am Wort Gottes und am [evangelischen] Glauben festhalten will und den [protestantischen] Stadtkantonen und ihren Nachbarn nach Bedarf mit Hilfeleistung und Truppen beistehen wird; dass er aber auch die Bünde und den Frieden mit den Neun Orten halten will; und, da die Sache alle, Arm und Reich, betrifft, dass er Versammlungen im ganzen Gebiet Zürich angeordnet hat, um zu erfahren, ob er auf die Gemeinden zählen kann oder nicht. Zu diesem Zweck wurde ein schriftlicher "Fürtrag" zur Verlesung abgefasst.</t>
+<t>Am 31. Oktober versammelte man die Zünfte, die den Rat einhellig ermutigten, weiterhin so tapfer und fromm zu handeln und sich den [protestantischen] Eidgenossen und Nachbarn behilflich zu erweisen, falls diese vom Kaiser, Papst und sonstigen Feinden der Wahrheit angegriffen würden.</t>
+<t>Ab dem [7. November] werden die Landesversammlungen in den Graf-, Herr- und Ortschaften Zürichs abgehalten.</t>
+<t>Inzwischen rüstet man und wird wohl innerhalb von 14 Tagen Truppen ausheben.</t>
+<t>Blarer möge Konrad Zwick bitten, an den [schmalkaldischen] Kriegsrat in Ulm wegen eines Soldaten in der Truppe des Hauptmanns Heinrich Richmut zu schreiben. Es handelt sich um Wolfgang, den Sohn des Bürgermeisters [Hans Rudolf] Lavater. Letzterer ist ein redlicher und [den Schmalkaldenern] sehr gewogener Mann, wie Blarer es ja weiß. Bullinger befürchtet, dass die obersten Befehlshaber Wolfgang schlecht bezahlen und seine Herkunft nicht berücksichtigen, während sie anderen (denen er ebenbürtig ist) Ehrensolde gewähren. Doch ist dies nur eine Vermutung. Der Hauptmann [Richmut], sein Leutnant [...] und sein Fahnenträger [...] sind sonst gute Menschen. Diese Anfrage soll ihnen also nicht zum Nachteil gereichen. Der Kriegsrat [in Ulm] möchte doch dieser Sache nachgehen und Wolfgang die Ehre erweisen, die ihm gebührt. Es geht nicht ums Geld, denn Wolfgang ist wohlhabend. Er ist auch nicht um des Geldes willen, sondern aus Eifer für die Sache Soldat geworden. Sein Vater (ohne dessen Wissen er übrigens in den Krieg gezogen ist) weiß nichts von diesem Schreiben. Bullinger schreibt aus eigener Initiative, da er der Überzeugung ist, dass eine angemessene Behandlung der Kinder von solch ehrbaren Leuten Gutes bringt.
+Wolfgang ist Leibwächter des Hauptmanns Richmut.</t>
+<t>Grüße an Bürgermeister [Sebastian Gaisberg], [Thomas] Blarer und Konrad Zwick.</t></re>
+<text>
+<div>
+<p>Gnad und frid. Uwer schryben, 27. octobris uußgangen,
+<fn><qv>nr2645</qv>.</fn> hab ich empfangen. Bin in allw{ae}g der meynung wie ir. Gott w{oe}lle sich unser erbarmen.</p>
+</div>
+<div>
+<p>Und diewyl sunst nut
+<fn>nichts.</fn> ist in üwerm schryben, daruff ich ze antworten bedarff, f{ue}g ich üch ze wüssen, <zzl>zl16341-8A</zzl><zzl>zl16341-1A</zzl>das min herren 30. septembris
+<fn>Richtig: Oktober; s. <qv>nr2651</qv>,<qv>zl16304-2</qv>; <qv>nr2653</qv>,<qv>zl16342-1</qv>.</fn> r{ae}dt und burger
+<fn>r{ae}dt und burger: der Kleine und der Große Rat.</fn> gehept. Da ist verh{oe}rt alles, das man uff dem tag alhie gehallten
+<fn>Das Treffen der Vier protestantischen Orte in Zürich vom 19. bis 26. Oktober; s. <qv>nr2606</qv>, <qv>fn16294-1</qv>.</fn> verhandlet hat.<zzl>zl16341-1E</zzl> <zzl>zl16341-4A</zzl>Daruff habend sich erckent
+<fn>sich erckent: beschlossen.</fn> r{ae}dt und burger, die gantzen gmeind
+<fn>Ortschaften.</fn> in statt und uff dem land ze berichten, wie dise gfarliche l{oe}uff gestalltet
+<fn>wie dise gfarliche l{oe}uff gestalltet (sind): wie es sich mit diesen gefährlichen Ereignissen verhält. - Siehe dazu <qv>nr2651</qv>,<qv>zl16304-3</qv>; <qv>nr2653</qv>,<qv>zl16342-2</qv>.</fn>; was min herren bißhar gehandlet mitt den Eydgnossen und anderen; was bapst
+<fn>Paul III.</fn>, keyser
+<fn>Karl V.</fn> und das rych
+<fn>Der Schmalkaldische Bund.</fn> beg{ae}rt; das man daruß erlernt, das es der tütschen nation z{uo} th{uo}n ist umb den glouben und fryheit; das sich min herren erkent und sich vereinigt, by dem g{oe}ttlichen wort und r{ae}chter religion ze verharren, iren Eydgnossen von stetten
+<fn>Den drei anderen protestantischen Orten.</fn>, ouch iren nachp{uo}ren
+<fn>Den Zugewandten Orten (s. <qv>nr2651</qv>, <qv>fn16304-4</qv>) und wohl auch Konstanz.</fn>, trüwlich z{uo}zesetzen
+<fn>beizustehen.</fn> mitt z{uo}s{ae}tzen
+<fn>Hilfeleistung.</fn> und gwalltigem z{uo}ziehen mitt fenli und panern
+<fn>Das Fähnlein (fenli) und der Banner (paner) sind Heeresfahnen, die als Synonyme für kleine bzw. große Truppenabteilungen stehen; s. <a>SI</a> I 828.</fn>, wie es die notturfft
+<fn>Not, Bedrängnis.</fn> vordert; das man an den 9 Orten pündt und friden ouch hallten w{oe}lle, etc.; und, diewyl die sach mencklich
+<fn>jeden.</fn> antrifft, rych und arm, das man die gemeinden hallte in statt und land,
+<fn>Ab Sonntag, 7. November; vgl. <qv>nr2651</qv>, <qv>fn16304-6</qv>, und unten Z. <qv>zl16341-2</qv>.</fn> erfaare, wez man sich z{uo} inen ze vers{ae}hen habe
+<fn>wez man sich z{uo} inen ze versähen habe: was man von ihnen zu erwarten habe.</fn>. <zzl>zl16341-3A</zzl>Und ist der fürtrag in gschrifft gestellt
+<fn>Gemeint ist der schriftliche "Fürtrag", der vom Zürcher Rat Ende Oktober im Anschluss an die reformierte Städtetagung aufgesetzt wurde. In Zürich StA, A 95/2, Fasz. 4, gibt es davon zwei Abschriften von zwei verschiedenen Händen. Der Endnotiz zufolge, die einer dieser Abschriften von ihrem Abschreiber hinzugefügt wurde, hat man diesen "Fürtrag unnd begeren [...] z{uo}vor an die Constafell unnd Zünfft als ein ganntze gemeynd inn unnser Statt langen [= gelangen] lassen. Welliche unns mit eynheyliger anntwort begegnot sind, namlich, das sy an dem, so wir bißhar gehanndlet, ein g{uo}t gefallen unnd vermügen empfangen, unnd s{oe}llend fürer [= weiter] vollen gewalt haben, alles das zu handlen unnd zethund, so wir z{uo} erhaltung göttlichs worts unnd Eeren und wollfart gemeyns vatterlants gedennckend". Demzufolge (vgl. nämlich <qv>nr2651</qv>,<qv>zl16304-2</qv>) wurde dieses Rundschreiben zwischen dem 26. und 29. Oktober verfasst. Es ist in den Quellen zur Zürcher Zunftgeschichte. 13. Jh. bis 1798, hg. v. Werner Schnyder, Bd. 1, Zürich 1936, S. 257, Nr. 350 (wir danken Rainer Henrich für diesen Hinweis), zusammengefasst. Mit ihm wurde die Bevölkerung über die Hintergründe und die Gefahren des Krieges in Deutschland und über das bisherige Verhalten der Vier protestantischen eidgenössischen Städte unterrichtet und ferner gebeten aufzurüsten, um einen etwaigen Angriff der Vier Städte abwehren zu können. Von einem Eintritt in den Krieg aufseiten der Schmalkaldener ist nicht die Rede. Man wolle aber die Neun Orte über den Zweck dieser Rüstung benachrichtigen, damit diese nicht meinten, dass man einen Angriff gegen sie plane, und zugleich beteuern, dass man die Bünde mit ihnen sowie den nach dem Zweiten Kappeler Krieg geschlossenen Frieden weiterhin halten wolle, weil man "nieman [...] im glauben [...] zwingen" möchte.<zfn>fn16341-1</zfn></fn>, den gmeinden vorzel{ae}sen.<zzl>zl16341-3E</zzl><zzl>zl16341-4E</zzl><zzl>zl16341-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16341-5A</zzl>Gestern hatt man die zünfft all in der statt gehept, etc. Da ist wunder, wie dappffer und einm{ue}tig, trostlich und willig alle mannschafft z{uo}gesagt hat, das min herren fürfarind, dappffer syind, vomm wort gottes nitt wychind, frommen Eydgnossen und <vl>205v.</vl> nachpurn wider keyser und bapst und wer sy von der warheit tr{ae}ngen wil trostlich behulffen syind
+<fn>behulffen syind: dienen, behilflich seien; s. <a>SI</a> II 1195.</fn>; darz{uo} w{oe}llind sy setzen ir lib und g{uo}t und sich erzeigen alls fromme, gehorsame underthanen mitt darstrecken alles, das sy verm{oe}gind.
+<fn>Die hier gemachten Aussagen entsprechen völlig den Angaben der in oben <qv>fn16341-1</qv> erwähnten Endnotiz.</fn><zzl>zl16341-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16341-2A</zzl>Uff künfftigen sontag und volgender tagen wirt man in graffschafften, herschafften, stetten und gepieten gmeinden
+<fn>Gemeindeversammlungen abhalten; s. <a>SI</a> IV 307.</fn>.<zzl>zl16341-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16341-6A</zzl>Darzwüschen rüst man sich h{ae}fftig, dann man sich versicht
+<fn>sich versicht: erwartet.</fn>, man werde uußnemmen inet
+<fn>uußnemmen inet: ausheben innerhalb von.</fn> 14 tagen, etc.<zzl>zl16341-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16341-7A</zzl>Min gantz früntlich pitt langt an üch, das ir mitt üwerm vettern, minem lieben herren J[uncker] Conradt Zwicken, redind, das er üwerm kriegsradt z{uo} Ulmm
+<fn>Gemeint ist der schon seit Beginn des Krieges in Ulm tagende Kriegsrat der Schmalkaldener.</fn> schrybe, wie under Heinrych Rychm{uo}ts
+<fn>Heinrich Richmut (Reichmuth, Richermuth), ein Kaufmann, der einen Schwager in Kempten hatte. Er wurde 1548 vom Landvogt zu Baden, Wolfgang Herster von Zug, in Dietikon (damals Vogtei Baden) verhaftet, weil er während des Schmalkaldischen Krieges eidgenössische Knechte (wohl aus den Neun Orten) unter sich hatte. 1549 gab er das Zürcher Bürgerrecht auf und wurde Bürger von Schaffhausen. 1551 trat er in kaiserlichen Dienst; s. <a>EA</a> IV/1d 905 b. 934 ee. 943 e. 959 x; <a>HBLS</a> V 619.</fn>, houptmans, fenli ein junger gesell ligt. Heist Wolffgang Lavatar
+<fn>Siehe dazu schon <a>HBBW</a> XVII 396f,2f.</fn>. Ist mins herren burgermeister Lavaters
+<fn>Hans Rudolf Lavater.</fn> sun. Da wüssend ir wol, das sin herr und vatter gar ein redlicher und dem rych großgünstiger mann ist. Und wil mich aber beduncken, wie die gwalltigen
+<fn>Befehlshaber.</fn> amm regiment der houptmanschafft den g{uo}ten, redlichen jungen vilicht mitt der besoldung schl{ae}cht haltend, nitt sagend, wemm er z{uo}h{oe}rt oder wer er ist. G{ae}bend aber andern eerens{oe}ld, deren diser wol allsbald genoß
+<fn>deren diser wol allsbald genoß: deren ("eerens{oe}ld) er ebenso würdig.</fn> were und nitt unverdient wurde beliben. <fa1 bis="1"><i>Von Bullinger am Rande nachgetragen.</i></fa1>Suspicor. Nil certi pronuncio. Alioqui capitaneus
+<fn>Richmut.</fn>, locum tenens
+<fn>Unbekannter Leutnant.</fn> et signifer
+<fn>Unbekannter Fähnrich.</fn> viri boni sunt. Sed forte haec ipsi non expendunt. Nolim ergo haec illis esse fraudi.<fa1e von="1"/> Da, so ist min pitt, der kriegsradt w{oe}lle imm
+<fn>dem (der Angelegenheit).</fn> nachvragen und verh{ae}lffen, das er nach eeren ouch bedacht werde. Es ist umb die eer, nitt umb das g{uo}t, dann er sunst wolhabend ist. Ist uß yfer, nitt umb <vl>205a,r.</vl> gällts willen hinuß zogen. Nun weist der herr und vatter darvon nut, das ich hie schrib, dann der jung ouch one wüssen des vatters hinw{ae}g zogen ist. Ich schrib das alein uß miner selbs bewegnus und z{uo} g{uo}tem der sach, dann ich acht, wenn s{oe}licher eerenlüten eerenkind früntlich gehallten, m{oe}g es g{uo}ts bringen. Genampter Wolffgang Lavatar ist des houptman Rychm{uo}ts trabant
+<fn>Leibwächter.</fn>.<zzl>zl16341-7E</zzl></p>
+</div>
+<div>
+<p>Gott mitt üch. Datum in yl Zürych, 1. novembris z{uo} 12 ur mittags 1546. Gr{ue}ssend mir minen herren burgermeister
+<fn>Sebastian Gaisberg.</fn>, üwern br{uo}der
+<fn>Thomas Blarer.</fn> und vettern J[uncker] Conradt Zwicken.</p>
+<un>Der üwer Bullinger.</un>
+<lz/>
+<p>[Adresse auf f. 205a,v.:] [Dem]
+<fa><i>Hier und danach Textverlust bei Entfernung des Verschlussbandes.</i></fa> erwirdigen [und wol]gelerten her[ren m. Am]brosio Blau[reren, pr]edicanten z{uo} [Constantz], sinem lie[ben her]ren und br{uo}der. Constanz
+<fa><i>Darunter, vielleicht von Blarers Hand:</i> Remitte.</fa>.</p>
+</div>
+</text>
+</brief>

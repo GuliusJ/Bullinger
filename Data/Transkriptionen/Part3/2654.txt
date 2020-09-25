@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2654">
+<brief>
+<id>16343</id>
+<nr>2654</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-01"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 1. November 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 49 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, 394f, Nr. 7; <br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 128-131, Nr. 9<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 52; Straßburg BNU, Schmidt f. 222; Madrid BN, 8862 suelto und f. Ddro 5; Erw.: Edward Boehmer, Spanish Reformers of two Centuries, I, Straßburg 1874, S. 183; C. Gilly, Spanien 329. 331; (Boehmer: Hd II 2259; García: Hd II 1023)</k></dr>
+<re><t>Bullingers Brief [nicht erhalten] war ein großer Trost für Enzinas. Auch wenn er wohl weiß, dass die [Protestanten] an der gegenwärtigen Lage nicht schuld sind, macht er sich (wie könnte es anders sein) große Sorgen um die Kirche und um das Gemeinwesen, und empfindet das Bedürfnis, sich mit anderen darüber auszutauschen. Er weiß jedoch, dass der himmlische Vater den Überrest seiner Kirche [vgl. Jes 1, 9; 41, 14] nicht im Stich lassen wird, auch wenn die Zahl der Feinde immer größer werden sollte.</t>
+<t>Gerne hat er von Bullinger über die in die Flucht getriebenen Kaiserlichen gehört. Noch lieber aber hätte er vernommen, dass ihr Anführer [Kaiser Karl V.] gefallen sei. Denn solange dieser lebt, gibt es keinen Frieden für Deutschland, auch wenn jener im entferntesten Inneren Afrikas Zuflucht suchen würde.</t>
+<t>Trotz der Kälte ziehen die Böhmen [die Truppen König Ferdinands I.] angeblich auf die Grenzen von Sachsen und Meißen zu.</t>
+<t>Die Eidgenossen müssten sich folgenden Gedanken von Euripides [richtig: Menander] zu Herzen nehmen, der meinte, dass man zu Hause und frei bleiben sollte, wenn man sein Glück nicht preisgeben möchte.
+<fn><i>Menander,</i> Fragmenta, 82 (132 oder 145), ediert in Poetae comici Graeci, hg. v. Rudolf Kassel und Colin Austin, Bd. VI/2, Berlin 1998, S. 84.</fn> Sie sollten sich auch der kalten Jahreszeit bewusst sein und nicht überstürzt reagieren. Mögen sie sich eher durch Abwarten dem unermüdlichen Feind erfolgreich widersetzen!</t>
+<t>Enzinas wird Theodor [Bibliander] schreiben, wenn ihm die Zeit dazu reicht. Von diesem hat er noch keine Antwort erhalten.
+<fn>Enzinas wollte von Bibliander (s. <qv>nr2656</qv>) die lateinische Fassung vom Glaubensbekenntnis (die "Summa christianae religionis") des am 27. März 1546 ermordeten Juan Diaz erhalten. Sie war Ende Februar/Anfang März 1546 in Neuburg a. d. Donau erschienen (s. <a>HBBW</a> XVI 416, Anm. 2). Bibliander besaß diesen Druck, weil er davon eine deutsche Übersetzung anfertigte, die in Zürich unter dem Titel "Der Gloub und leer ouch läben unnd tod des hochgeleerten gottsäligen Johann Dietzen" erschien (s. <a>HBBW</a> XVII 337f, Anm. 21).<zfn>fn16343-1</zfn></fn> Die "Historia [vera de morte] Diazii"
+<fn><a>VD16</a> E1436; <a>Gilly, Spanien</a> 328-331; <a>HBBW</a> XVI 274, Anm. 12. - Enzinas war Herausgeber dieser unter dem Namen von Claude de Sénarclens veröffentlichten Schrift. Ihr wurde (auf f. m<sub>2</sub>r.-n<sub>2</sub>r.) die lateinische Fassung von Diaz' Glaubensbekenntnis beigefügt. - In Zürich ZB sind zwei Exemplare dieses Druckes erhalten: 5.271/3 und Md F 376/2 (letzteres Exemplar mit einer handschriftlichen Widmung an Johannes Fries).<zfn>fn16343-2</zfn></fn> befindet sich im Druck. Sobald sie erscheint, wird Enzinas [Exemplare davon] nach Zürich senden.</t>
+<t>Enzinas hatte bei Bullinger
+<fn>Ende August 1546; vgl. <a>HBBW</a> XVII 361, Anm. 2.</fn> Aufzeichnungen zu den drei ersten Sitzungen des Konzils von Trient gesehen. Dieser möchte sie ihm bei erster Gelegenheit zukommen lassen. Enzinas ist bereit, für deren Abschrift (durch einen <?tus ^&^&n^&^&{?> Studierenden) zu bezahlen, und verspricht, Bullinger diese in gedruckter Form mit einigen anderen gerade im Druck stehenden Texten zum gleichen Thema zukommen zu lassen.
+<fn>Anspielung auf die Schrift: Acta concilii Tridentini anno M.D.XLVI celebrati una cum annotationibus piis et lectu dignissimis, [Basel, Johannes Oporin] 1546 (<a>VD16</a> K2063 - zwei Exemplare in Zürich ZB: III N 160/2-3 und 5.271/2). - Diese Veröffentlichung enthält u.a. (f. o<sub>4</sub>v.-q<sub>7</sub>r.) Melanchthons Abhandlung "Causae, quare et amplexae sint, et retinendam ducant doctrinam, quam profitentur ecclesiae, quae Confessionem Augustae exhibitam Imperatori sequuntur, et quare iniquis iudicibus collectis in Synodo Tridentina, ut vocant, non sit adsentiendum" (<a>Melanchthon-Bibliogr.</a> II 1215f, Nr. 1546.9). - Der größte Teil dieser von Enzinas herausgegebenen Publikation (f. d<sub>7</sub>v.-o<sub>2</sub>r.) besteht aus den Texten und jeweiligen Kommentaren (Enzinas'?) der sechs ersten Dekrete des Konzils. Bullinger ließ tatsächlich den Text dieser Dekrete Enzinas zukommen; s. <qv>nr2669</qv>. Allerdings ist heute in Bullingers Nachlass nur der Text der fünf ersten Dekrete erhalten (Zürich ZB, Ms A 84, S. 213-236, eine Abschrift von zwei Händen, vermutlich auf Berner Papier), während Enzinas noch ein sechstes Dekret veröffentlichte. Am Schluss des Druckes (f. s<sub>1</sub>r.-s<sub>8</sub>v.) sind die zwei Briefe des Papstes Paul III. an die Eidgenossen (vom 3. Juli 1546) bzw. an die Bischöfe und Äbte der Eidgenossenschaft (vom 11. April 1546) veröffentlicht. Diese Dokumente könnten ebenfalls von Bullinger mitgeteilt worden sein; s. dazu <a>HBBW</a> XVII 221, Anm. 5; 248f, Anm. 7 (in Bullingers Nachlass befindet sich die Abschrift einer deutschen Übersetzung des vom Papst an die Geistlichkeit der Eidgenossenschaft adressierten Briefes; s. Ms A 84, 371f). - Bullinger scheint eine ähnliche Veröffentlichung ins Auge gefasst zu haben. Dies geht nämlich aus einer eigenhändigen Skizze zu einem von ihm geplanten Buch über das Konzil hervor (s. Ms A 84, 255). Nach einer Einleitung zur Einberufung des Konzils sollten die fünf (nicht sechs) ersten Dekrete des Konzils, die Einladungen des Papstes an die Eidgenossen bzw. an die Geistlichkeit der Eidgenossenschaft, sowie die daraufhin entstandene Antwort der Zürcher vom 1. August 1546 (s. dazu <a>HBBW</a> XVI 293, Anm. 27) veröffentlicht werden. Enzinas' Publikation, in der mit Ausnahme des letzten Dokuments alle sonst von Bullinger geplanten Texte erschienen sind bzw. ihr Pendant haben, wird das Vorhaben Bullingers unnötig gemacht haben.<zfn>fn16343-3</zfn></fn></t>
+<t>Grüße an alle Kollegen Bullingers.</t> </re> <textweg>
+<div>
+<p>S. D. Tuas literas legi perlibenter, quas vere dicere possum mihi fuisse loco magnae consolationis. Etsi enim certo sciam nihil malum aut magnopere extimescendum homini forti accidere posse praeter culpam, qua nos omnes in hac tota causa caremus, tamen cum ego tam gravia tamque periculosa ecclesiae ac reipublicae vulnera considero, non possum non ex animo ingemiscere ac omnes istos quasi animi mei aestus cum apud deum in perpetua invocatione tum etiam apud charos amicos in literis aut colloquio deponere. Ac eum profecto hominem ignavum putabo, qui tantis periculis publicis non graviter afficiatur. Affici autem nemo poterit, nisi qui causam totam radicitus exquirat et voluntates hominum, quorum arbitrio haec negotia geruntur, diligenter consideret. Semper in animo meo fixum permanebit adfuturum aeternum patrem ecclesiae suae eiusque reliquias usque ad extremum conservaturum, etiamsi inimicorum numerus crescat et praesidia humana minuantur.</p>
+</div>
+<div>
+<p>Interim fuit pergratum audire, quod nunciasti de caesarianis fugatis, quorum tamen ductorem libentius sublatum audivissem, quo vivo, non video, quomodo firma pax Germaniae restituatur, quamvis ad extremos Garamantas semel fugatus videatur.</p>
+</div>
+<div>
+<p>Audio Bohemos movisse contra Saxoniam et Mysiam neque deterritos frigoris iniuria crudeliter in finibus coepisse grassari.</p>
+</div>
+<div>
+<p>Quodsi Helvetii quoque prudenter considerarent, quod gravissime ab Euripide dictum est:</p>
+<p><gr>ŏíkoi ménein xrh̀ kaì ménein ĕleýueron,</gr></p>
+<p><gr>^%)­h mh́ket' e^%)?inai tòn kalṽw ey̆daímona,</gr> nec imminentem frigoris tempestatem timerent et acrius ac celerius rem aggrederentur. Utinam illi cunctando nobis possent restituere rem, quam adversarius impigre sane perdere conatur. Sed vivit adhuc deus, qui tam immanes adversariorum crudelitates non permittet impunitas.</p>
+</div>
+<div>
+<p>Ad d. Theodorum
+<fn>Theodor Bibliander.</fn> nunc scriberem, si per tempus liceret; sed nondum accepi ab eo responsum, cuius equidem literis vehementer cupiam recreari. Historia Diazii est sub prelo, qua perfecta ad vos mittam.</p>
+</div>
+<div>
+<p>Vidi apud te primam, secundam et terciam sessionem concilii Tridentini, quam rogo ut primo nuncio ad me mittas, etiam si meo sumptu ab aliquo studioso transcribatur, ea lege, ut paulo post typis editam ad te mittam cum aliis non paucis eiusdem argumenti, quae nunc imprimuntur, quem ad libellum perficiendum tres istas sessiones tantum desideramus.</p>
+</div>
+<div>
+<p>Vale et omnes fratres nominatim meis verbis salutabis.</p>
+<p>Basileae, calendis novembris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero, amico et fratri carissimo. Tiguri.</p>
+</div> </textweg>
+</brief>

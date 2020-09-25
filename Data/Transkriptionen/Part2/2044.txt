@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2044">
+<nr>2044</nr>
+<correspondents>
+	<originator>[Ambrosius Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>5. Dezember 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 108f (Brief ohne Siegel); E II 357a, 729f (Beilage mit Siegel)</vo>
+<dr>Brief: Zusammenfassende Übersetzung, Blarer BW II 321, Nr. 1145 Beilage: Teildruck und zusammenfassende Übersetzung, Blarer BW II 325f, Nr. 1149</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 7^&x{
+<re>Hat von Blarers Schwager [Heinrich von Ulm] Bullingers Brief zusammen mit dem [Kölner] Reformationsbuch ["Einfaltigs bedencken"] erhalten; konnte aber aus diesem noch nicht viel lesen; glaubt, dass dessen Verfasser alles reiner eingerichtet hätten, wenn dies ihnen durch das Unrecht der Zeiten und ihren Verhandlungspartnern sowie durch den Fürsten [Erzbischof Hermann von Wied] erlaubt gewesen wäre; ansonsten ist sehr zu wünschen, dass alles sogleich von Anfang an so ernsthaft wie möglich reformiert wird; doch ist die Lage der Kirche nicht mehr die der neugegründeten Kirche, die sich [bloß] auf das Wort des Herrn (auch wenn dieses manchmal einer Deutung bedarf) stützte; demzufolge ist es nicht unangemessen, wenn zunächst vieles nur zum Teil [verbessert wird], bis die Menschen besser werden.
+Auch Blarer wünscht Philipp [Melanchthon] alles Gute; doch welchen Hass zöge sich dieser zu, wenn er sich nach Zürich begeben würde oder man auch nur erfahren würde, dass er Wittenberg zu verlassen gedenke!
+Bucer hat Blarer von seinen Briefen an Bullinger erzählt und Blarer beschworen, ihm zu helfen, den von neuem entfachten Brand zu löschen; was Blarer schon allein um Christi willen gern täte.
+Luthers ["Kurtz bekentnis"] besitzt Blarer nicht; es schmerzt ihn, dass Bullinger ihn der Verheimlichung verdächtigt - zumal ein gedrucktes Werk zwangsläufig Bullinger in die Hände käme; um jeden Preis würde er für Bullinger das Büchlein erwerben und hat diesbezüglich nach Augsburg geschrieben.
+[Beilage:] Blarer kennt nicht genau die Ansprüche des württembergischen Herzogs [Ulrich] an [Schwäbisch] Gmünd und noch weniger diejenigen an Esslingen; [im letzten Fall] ging es um Jagdbeute; jetzt aber hat [Herzog Ulrich] erneut vier Bürger aus Gründen, die Blarer unbekannt sind, gefangen genommen. Blarer hat bereits Bullinger geschrieben, dass die Gmünder einen Edelmann [Hans Christoph von Absberg] gefangen genommen hatten und [der Herzog] dessen Freilassung an eben der Stelle verlangte, wo sie ihn ergriffen hatten; doch haben sich die Gmünder darauf berufen, dass sie die Gerichtsbarkeit über den Ort der Festnahme innehaben und dass ferner der Kaiser ihnen befohlen hat, den Gefangenen bis zur Genugtuung der Nürnberger (deren Feind er sei) festzuhalten; da sie dem Wunsch des Herzogs nicht nachkamen, hat dieser zehn oder zwölf [Gmünder] Bürger festgenommen: ein weiteres Traktandum des bevorstehenden Städtetags.
+Herzog Ulrich hat König [Ferdinand I.] das Kloster Königsbronn, über das er Schirmherr war, zugestanden, so dass dieses jetzt zusammen mit den zugehörigen Dörfern wieder [katholisch] wird; es ist ein großer Jammer, obwohl die Verbündeten [des Schmalkaldischen Bundes] dem zugestimmt haben; wenn dieser Anspruch gerechtfertigt ist, wird es noch vielen anderen Klöstern ähnlich ergehen.
+[König Franz^#. I.] verachtet die Eidgenossen; da er alt ist, lässt [nun] seine Macht nach, und seine Söhne [Heinrich und Charles] beteiligen sich [nun] viel [an der Politik]; die Eidgenossen sollen [Franz^#. I.] geschrieben haben, um zu erfahren, woran sie mit ihm sind.
+Grüße an [Diethelm] Röist.</re>
+<tx>S. Reformationem<f1>Das Kölner Reformationsbuch "Einfaltigs bedencken"; s. oben Nr. 1838, Anm. 15; vgl. ferner oben 2030, 23.<fe>
+a sororio<f1>Heinrich von Ulm.<fe>
+cum literis tuis<f1>Nicht erhalten.<fe>, mi venerande frater, accepi, de qua hoc
+minus possum pronunciare, quod nec totam nec bonam illius
+partem pellegi. Puto vero authores<f1>Zu den Verfassern des "Einfaltigs bedencken" s. oben Nr. 1838, Anm. 15.<fe> ipsos omnia purius
+instituturos fuisse, si per temporum et hominum, quibuscum
+agendum illis fuit, iniuriam adeoque per
+electorem<f1>Hermann von Wied.<fe> ipsum licuisset. Alioqui
+valde optandum, ut omnia mox ab initio quam syncerissime in
+id genus negociis reformentur, quandoquidem res ipsa nos non
+semel iam edocuit parum felicem successum, quoties in tantam
+veritatis lucem qualesquales tenebras inferre voluimus. Quum
+longe alia nunc nostra sit, quam olim erat primo nascentis
+ecclesiae ratio - quę confesso domini verbo, quamquam
+nondum ex figurarum involucris explicato,<f1>Vgl. Joh. 13, 7; 16, 12-14; 20, 9. - Vgl. auch 1Kor 13, 12; 2Kor 3, 13-18.<fe> nitebatur -, unde
+haud immerito tantisper, dum ad perfectiora animi
+assurgerent, multa simulabantur et dissimulabantur non
+absque insigni fructu. Verum istuc nunc quoque in bonam
+partem interpretari conveniet illis, qui vellent quidem, sed
+non possunt per nullas<fx>^#/+In der Vorlage^#/- alias.<fe> remoras recta contendere ad solidam ecclesiarum institutionem.
+^$Philippo<f1>Philipp Melanchthon.<fe> hoc ipsum, quod tu, omnibus votis opto. Sed, o
+Christe servator, quanto se odio degravaret, si, ut istic<f1>In Zürich.<fe>
+dignam se conditionem recipiat,<f1>Bullinger hatte Melanchthon in seinem Brief vom 3. Dezember 1544 (oben Nr. 2042) Zuflucht in Zürich angeboten und muss Blarer in dem nicht erhaltenen Brief (vgl. oben Anm. 3) davon Mitteilung gemacht haben.<fe> adduceretur! Non deerunt,
+scio, alii quoque, qui illi amplissima salaria constituant,
+si resciscant eum semel de deserenda W[ittenberga] secum
+statuisse.
+^$Bucerus ipse mihi de suis ad te literis<f1>Bucers Briefe an Bullinger vom 31. Oktober und 8. November 1544, oben Nr. 2028; 2031.<fe> scripsit<f1>Nicht erhalten. Schon im Brief vom 16. Oktober 1544 (Blarer BW II 310f, Nr. 1135) hat sich Bucer Blarer gegenüber ähnlich geäußert.<fe> obsecrans
+interim et obtestans, ut sedulus adsim extinguendo illi
+rursus oborto incendio;<f1>Vgl. oben Nr. 2028, 22-26.<fe> quod profecto nemine etiam admonente
+unius Christi et ecclesię ipsius studio lubentissime
+facerem, si rationes, quibus istuc possem, alicunde
+adfulgerent. Nihil dubito Bucerum Christi gloriam et regni
+ipsius propagationem unice quęrere, ut multum omnino
+dandum sit tam egregio Christi organo.
+^$<vl>109</vl> Lutheri libellum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 1971, Anm. 20.<fe>,
+sic me Christus amet
+et servet, nec ego nec quisquam hic, quod ego quidem sciam,
+habet, multumque mihi dolet me in eam tibi suspitionem
+venire posse, ut credas me apud te quicquam hac in re
+dissimulare. Quur enim, mi Bullingere, istuc facerem? Fieri
+non potest, quin in manus tuas aliquando veniat, quod in hoc
+typis excusum est, ut ubique divulgetur. Quanto satius
+igitur fuerit tempestiviter hoc fieri! Magno profecto emerem
+libellum vel hac una caussa, ut quam primum ad te mittere
+liceret; id quod, ubi primum nactus ero,<f1>Erst am 13. Dezember 1544 konnte Blarer ein Exemplar, das ihm Frecht ausgeliehen hatte, Bullinger borgen; s. unten Nr. 2048, 1-3.<fe> facturum me
+sanctissime recipio. Augustam scripsi,<f1>An Hans Welser; vgl. unten Nr. 2050, 13f. - Ein entsprechender Brief Blarers ist nicht bekannt.<fe> ut inde accipiam.
+^$Dominus Iesus te conservet.
+^$5. decembris 1544.
+^&x[ohne Unterschr.ift.]^&x{
+<lz><vl>729</vl> [Beilage:]<f1>Dass diese Beilage eher diesem Brief und nicht Brief Nr. 2048 (wie es Traugott Schieß in Blarer BW II 325f tat) zuzuordnen ist, geht aus folgenden Beobachtungen hervor: ^&!s(-40)Die nachfolgend hier gedruckte Beilage trägt - im Gegensatz zu dem hier veröffentlichten Briefteil - eine Adresse und ein Siegel, währenddem Brief Nr. 2048^&!s(+0) bereits mit einer Adresse und einem Siegel versehen ist; bei Abfassung dieser Beilage hatte Blarer noch nicht von Diethelm Röists Tod erfahren (s. unten Z. 72f), was wahrscheinlicher am 5. als am 13. Dezember 1544 ist; im kurzen Brief Nr. 2048 schreibt Blarer "nequeo plura", so dass die Zuordnung dieser gehaltvollen Beilage zu Brief Nr. 2048 unwahrscheinlich wird; in der vorliegenden Beilage (s. unten Z. 38-43) wusste Blarer noch nicht, dass Herzog Ulrich den Esslinger Jägern die Augen ausgestochen hatte, was er aber am Ende seines Briefes Nr. 2048 hinzufügen konnte, so dass diese Beilage nicht für Brief Nr. 2048 verfasst worden sein kann; endlich geht aus der Angabe in Z. 44 hervor, dass der Brief nach dem 7. November verfasst worden sein muss; da aber Brief Nr. 2036 bereits eine Adresse und ein Siegel besitzt, ist die nachfolgend hier gedruckte Beilage einem nicht erhaltenen, nach dem 7. November und vor dem 5. Dezember 1544 verfassten Brief Blarers oder dem vorliegenden Brief vom 5. Dezember zuzuweisen.<fe>
+Was die ansprachen<f1>Ansprüche.<fe> seye
+des hertzog von Wirtempergs<f1>Herzog Ulrich von Württemberg.<fe> an
+Gemynd<f1>Schwäbisch Gmünd; s. oben Nr. 2030, 60f.<fe> und Esslingen, mag ich nitt gruntlich
+wissen, sonderlich Esslingen halber. Die erst ansprach ist
+gewesen des wilprets halber;<f1>Siehe dazu oben Nr. 2036, Anm. 13, in fine.<fe> aber er hat inen darnach
+widerum von den seinen zuͦfuͤren lassen wie vormals;
+yetzünd<f1>gleich darauf.<fe> aber hat er inen von newem vier burger gefangen;<f1>Über diese zweite Gefangennahme von Esslinger Bürgern, die ebenfalls oben Nr. 2036, 15, angedeutet wird, s. ebd., Anm. 13.<fe>
+ausß was ursachen, hab ich noch nitt aigentlich gehört.
+^$Gmynd halber hett ich euch vormals geschriben<f1>Oben Nr. 2030, 53-63.<fe>,
+alls ich gewänt hab, das sy ain
+edelman<f1>Hans Christoph von Absberg; s. oben Nr. 2030 mit Anm. 41.<fe> in seinem forst gefangen haben; den hat er gewellt,
+das sy ledig lassend und in die fuͦstapffen stellen, in
+denen sy in gefangen haben. Aber die von Gmynd habend die hochen
+gericht an denen enden und orten, da diser gefangen worden;
+mainen, sy haben des fuͦg und recht gehapt, zuͦ dem das
+inen der kaiser zuͦgeschriben, sy sollen gemelten edelman
+hanthaben und nitt ledig<f1>frei.<fe> lassen byß uff deren von
+Nuͤrnberg (deren find er sein soll) vernuͤgen<f1>bis zur Zufriedenstellung der Nürnberger, deren Feind er sein soll.<fe>. Diewyl sy
+aber uff des hertzogen anlangen<f1>Aufforderung.<fe> den edelman nitt ledig
+lassen wellen, hat er inen wol 10 oder 12 burger gefangen.<f1>Vgl. oben Nr. 2030, 60f und Anm. 52.<fe>
+Davon wirt man ouch handlen uff nechsten stett tag<f1>Siehe dazu oben Nr. 2036 mit Anm. 11.<fe> etc.
+^$Es hat ouch hertzog Ulrich yetz dem könig<f1>König Ferdinand I.<fe> widerum ein
+kloster eingeruͤmpt, daruber er allweg schirmherr gewesen;
+haist Kuͤnigsbruͤnn<fx>^#/+Randbemerkung Blarers:^#/- monasterium Regii Fontis.<fe><f1>Das Kloster Königsbronn (Baden-Württemberg, Landkreis Heidenheim, Gemeinde Königsbronn) war eine Stiftung von König Albrecht I. von Österreich aus dem Jahr 1302 und schon im 15. Jahrhundert zweimal bei Württemberg gewesen. Herzog Ulrich von Württemberg konnte während des bayerischen Erbfolgekriegs 1504 mit der Herrschaft Heidenheim die Schutzvogtei über die drei Brenztalklöster Herbrechtingen, Anhausen und Königsbronn erwerben (vgl. Stuttgart, Landesarchiv Baden-Württemberg, Bestand A 495, Einführung). Am 7. Juli 1544 hatte König Ferdinand I. erklärt, "es sei weder sein noch des Kaisers Gemüt, ihre Familienstiftung zerfallen zu lassen und ihr Recht daran aufzugeben ... Erst am 19. Mai 1588 kam ein Vergleich zwischen Österreich und Württemberg zustande, durch welchen ersteres gegen Übergabe des Klosters Päris im Elsass seinen Ansprüchen auf Königsbronn völlig entsagte" (Beschreibung des Oberamts Heidenheim, hg. von dem Königlich statistisch-topographischen Büreau, Stuttgart-Tübingen 1844, S. 251). Vgl. ferner RTA JR XV/2 907 mit Anm. 2; XV/4 1884f.^&xNach dem Tode des Abtes Melchior Ruff (1539) wurde die Reformation teilweise eingeführt. Von 1544 bis 1553 war Ambrosius Boxler Abt, der 1533 von Graf Christoph von Mömpelgard seines Amtes entsetzt wurde. Unter Boxlers Nachfolger Johann Epplin wurde die Reformation hier vollständig eingeführt.^&x{<fe>,
+darüber er bysanher alle verwaltung nach
+seinem einkomen gehapt hat und gehandelt wie in andern
+klöstern. Muͦß yetz das closter sampt zuͦgehörigen
+dörffern<f1>Zu den zum Kloster gehörenden Besitzungen und Gütern s. Beschreibung des Oberamts Heidenheim ... (wie oben in Anm. 31), S. 241-251.<fe> widerum päpistisch werden. Ist ain grosser jamer,
+wiewol die ainungsverwandten der Protestierenden<f1>Die Verbündeten des Schmalkaldischen Bundes; s. RTA JR XV/4 1865f. 1901. 2014.<fe> allso
+erkendt haben, er sölls thain<f1>tun.<fe>, diewyl man findt, das diß
+closter ouch allweg in den rychsanlagen angelegt worden.
+Aber wann diß ain gnuͦgsam ansprach sein soll, so werden
+noch vyl ettliche clöster hingeben muͤssen, die sy
+eingenomen habend. In summa: Die sach facht an<f1>fängt an.<fe> allenthalb
+hincken, und zuͦ besorgen, es seye wenig dapferkait und
+hertz by allen etc.
+^$ <vl>730</vl> Item, man will sagen, das der Frantzoß<f1>König Franz^#. I.<fe> seye
+ouch gar nitt wol mitt den aidgnossen zuͦfriden;<f1>Vgl. EA IV/1d 433 a.<fe> hab
+ettlich angespeyen<f1>verspottet, verachtet.<fe>, sy bettler geschollten; dann man
+spricht, der allt konig<f1>Franz^#. I. hatte im September 1544 sein 50. Lebensjahr vollendet.<fe> seye nitt mehr so gantz gwaltig, die
+zwen jungen<f1>Der Dauphin Heinrich (1519-1552), künftiger König Frankreichs, und Charles II. (1522-1545), Herzog von Orléans und Angoulême.^&xDer Erstgeborene, François, war 1536 verstorben.^&x{<fe> nemind sich aller ding vyl an, und sagt man, die
+aidgnossen habend desshalb dem konig geschriben<f1>^&!s(-40)Dieses Schreiben wurde nach dem Tag zu Baden vom 10. November 1544 (EA IV/1d 421f n. o. p) verfasst (s. aaO, 433 a; 435 e). Die Eidgenossen wollten von Franz^#. I. Genaueres über ihre Stellung im Friedensvertrag von Crépy sowie auch über die "ausstehenden Sölde für die Hauptleute und Knechte, welche im Piemont gedient haben" (s. aaO, 435 e), erfahren. Die Antwort Franz' I. wurde am 4. Dezember 1544 verfasst und sollte am 14. Dezember am Tag zu Baden den Eidgenossen vorgelesen werden (s. aaO, 442 zu e).^&!s(+0)<fe>
+^&xWas anderes: Im Berner Ratsmanual vom 30. Oktober bzw. 7. November 1544 finden sich zwei Einträge, in denen es sinngemäß heißt, man habe mit den Boten aus Zürich wegen Frankreich geredet und bitte Zürich, Frankreich "früntlich" zu schreiben (freundliche Auskunft von Frau Dr. Barbara Studen Immenhauser, Staatsarchiv Bern). Die Antwort von König Franz I. auf dieses nicht ermittelte oder nicht erhaltene Schreiben ist offenbar überliefert in einem vom 5. Februar 1545 datierten Schreiben von Hans Wunderlich (zu ihm vgl. HBBW XIII 308, Anm. 20) an Bürgermeister und Rat der Stadt Zürich (Zürich, StA, A 225.2, Nr. 20): "[...] Der Künig schribt mir von Fontainebleauͦ des letsten tags des jungst verschinen manots[!] [31. Januar 1545] und bevilcht mir, uch und andere min herren, die Eydgnossen, alls ich ouch thuͦn, in die Eydgnoschafft zuͦberichten, wie er für sin anwallt, den Herrn von Blancfosse, haruͦß zuͦden selben angentz zeritten, mit bevelch und bescheyd uber des hochgemeltten herrn Künigs will und meynung zegeben, verordnet hab, dadurch ir, min herrn, die Eydgnossen, sächen werden, das er derselbigen gewüsßner und gentzlicher guͦtter frundt ist und beliben wil. Sollichs hab ich uch, usß schulldigenn pflichten, billich wol wöllen angendts berichten, dann uch zuͦdienen, bin ich wol geneygt. Datum zuͦ Newenburg [Neuenburg] den 5. tags Hornung [Februar]".^&x{
+und wellen wissen, wie sy mitt im standen. Was daran seye, wurt die zyt
+zuͦ erkennen geben, und ir werdt es yetzund wol wissen;
+wellt michs ouch bericht[en].
+^$Meinem gunstigen Herrn Rösten wellt vyl dienst, gruͦtz
+und guͦtz von mir sagen.<f1>Diethelm Röist starb am 3. Dezember 1544; s. HBD 32, 11-13.<fe>
+<lz>[Adresse darunter:]<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben. Die fehlenden Stellen wurden ergänzt.^#/-<fe> Egregia valde pietate et doctrina virod. Heinricho Bullingero, f[ratri] suo multum
+ob[servando] longeque chari[ssimo].<f1>Sara [...] übermittelte diesen Brief; s. unten Nr. 2048, 10.<fe>
+</content>
+</letter>

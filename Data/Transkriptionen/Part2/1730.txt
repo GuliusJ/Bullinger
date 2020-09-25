@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1730">
+<nr>1730</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>20. März 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 277 (Siegelabdruck)</vo>
+^&xK: Ms S 52, 155; Zit.: Trechsel, Prot Antitrinitarier I 58.^&x{
+<dr>Gedruckt: [J. J. Breitinger (Hg.)]: Museum Helveticum, Bd. 7, Particula 28, Zürich 1753, S. 671f; zusammenfassende Übersetzung: Blarer BW II 176f, Nr. 998</dr>
+<re>Claude [d'Aliod] von Savoyen wird am gleichen Tag nach Zürich reisen, daher der kurze Brief. Dank für die Vermittlung in der Sache mit Myconius. In Bezug auf die Kriege urteilt Bullinger wie alle guten Menschen, doch in Christus wird es Frieden geben. Hat die übersandten Artikel ["Dreyzehen
+namhaffter irrthumb Gaspar Schwenck­felds"] an [Martin] Frecht geschickt und legt einen Brief von diesem bei; bittet, dem Boten [d'Aliod] Frechts Brief und die Verteidigungschrift der Königin ["Confutation und widerlegung der königin Marie gesandten auff des hertzogen von Cleve vermeint defension ..."] mitzugeben. Entschuldigt die hastige Schrift; Grüße.</re>
+<tx>S. Claudius hic Sabaudus<f1>Claude d'Aliod.<fe> inter prandendum indicat
+Tigurum se hodie profecturum, ut etiam, si per negocia
+vacaret multis ad te scribere, temporis tamen spaciis
+excluderer.
+^$Patrocinio tuo apud clarissimum Myconium gratias ago;<f1>Bullinger hatte in einer Missstimmigkeit zwischen Myconius und Blarer vermittelt; s. zuletzt oben Nr. 1729, 5-10.<fe> nam ex animi sententia et felicissime cecidit.
+^$De gliscentibus bellis hoc plane, quod optimus quisque, iudicas; sed in domino Christo pacem habebimus, utut sęviat mox ruiturus mundus cum suo principe iamdudum elumbe et enervato.
+^$Frechto<f1>Martin Frecht.<fe> nostro articulos istos, quos misisti<f1>Die Korrespondenzen Bullingers, Blarers und Vadians aus diesem Zeitraum legen nahe, dass es sich um Vadians "Dreyzehen
+namhaffter irrthumb Gaspar Schwenck­felds, außzogen auß seinen buͤchern, die er hat lassen ußgon von dem bekenntniß und der
+glori Christi [...]", [Zürich (Christoph Froschauer)] s. a. (VD 16 V 18, BZD C 314) handeln dürfte; Frecht selbst erwähnt am 23. April Vadian gegenüber, dass er ebendiese Schrift von Bullinger geschickt bekommen habe, s. Vadian BW VI, Nr. 1288, S. 220.<fe>,
+reddendos curavi, qui multis te vicissim etc. Sed mitto ipsius
+epistolam<f1>Der Brief scheint nicht erhalten zu sein.<fe>, quę novi nonnihil adfert, quum nihil periculi
+esse putem, si tibi, charissimo capiti et parti animę
+meę,<f1>Vgl. u. a. Horaz, Carmina, 2, 17, 5.<fe> et meipsum et omnia mea communicem. Redibit bonus
+hic homuncio, civis noster, postquam dies aliquot<fx>aliquot ^#/+verbessert aus^#/- aliquos [?].<fe> istic
+transmiserit, per quem valde obsecro, ut et Frechti
+epistolam et reginę apologeticum<f1>Gemeint ist die "Confutation und widerlegung der königin Marie gesandten auff des hertzogen von Cleve vermeint defension das hertzogthumb Geldern und graffschaft Zutphen betreffent", s. l. 1543 (VD 16 N 1571); vgl. unten Nr. 1733, 16-18.<fe> mittas.
+^$Valde pudet
+indiligentissimae et plusquam tumultuarię scriptionis;
+sed velim nolim<f1>Otto 362, Nr. 1852.<fe> avocor, ut nihil praeterea possim.
+^$Domino nos commenda. Saluta totam domum cum omnibus
+fratribus et amicis.
+^$20. marcii 43.
+<un>Tuus A. B.
+<lz>[Adresse auf der Rückseite:] Bullingero suo.
+</content>
+</letter>

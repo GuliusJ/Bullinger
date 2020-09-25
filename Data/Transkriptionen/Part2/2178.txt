@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2178">
+<nr>2178</nr>
+<correspondents>
+	<originator>Gilbert Cousin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Nozeroy</place>
+	<date>13. Juni 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 290 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 129 ^&x{
+<re>Letzthin in Basel übergab Cousin an [Johannes] Gast einen Brief mit einem Geschenk, einem Hemd aus einem Mischgewebe mit Seide, zur Übermittlung an Bullinger. Da er bisher noch keine Antwort von Bullinger erhielt, wird der Brief wohl nicht angekommen sein. Darin stand nichts von Bedeutung; nur, dass sich der schon lange von ihm gehegte Wunsch, Bullinger wenigstens mit einem Brief zu besuchen, erfüllt hätte, wenn er Bullinger durch seinen Brief nähergekommen wäre. Deshalb will er ihn auch jetzt nicht mit vielerlei Themen behelligen, sondern ihm hiermit nur ein Zeichen seiner Ergebenheit zukommen lassen.
+-^#. Er hört, dass die Antwort der [Zürcher] auf Luthers parteiisches ["Kurtz bekentnis"] erschienen und in Basel erhältlich sei. Er hat einige Personen beauftragt, sie ihm zu kaufen.
+-^#. Bullinger soll auf seine Gesundheit achten, um weiter den christlichen Studien nachgehen zu können. Cousin, der Tag und Nacht Bullingers Kommentare zu Matthäus und Johannes, zur Apostelgeschichte und zu allen apostolischen Briefen studiert, ist Bullinger völlig ergeben.
+-^#. Grüße an [Theodor] Bibliander.</re>
+<tx>S[alutem] p[lurimam]. Quum essemus proxime Basileę<f1>Um den 12. März 1545; s. oben Nr. 2104, 1f.<fe>, dedimus ad te Gastio, sanequam ut ferebat<fx>^#/+In der Vorlage^#/- ferabat.<fe>,
+diligenter curaturo, ut perferrentur, literas<f1>Oben Nr. 2104.<fe> cum munusculo levidensi<fx>^#/+In der Vorlage^#/- levidensę.<fe><f1>munusculum levidense: Vgl. ^#/+Cicero,^#/- Epistulae ad familiares, 9, 12, 2.<fe>, ut ille<f1>Cicero.<fe> inquit (erat subsericum pro thorace<f1>Siehe oben Nr. 2104, 1-5 und 17 und Anm. 9; Nr. 2109, 1-3; 2139, 21f; 2148, 1-3.<fe>)<fx>^#/+Klammern ergänzt.^#/-<fe>;
+quas, quia nihil hactenus responsi accepimus, suspicor tibi non esse redditas; novi enim humanitatem tuam.
+Nihil autem erat praeterea in illa epistola, quod te scire vel mea vel tua magnopere interesset, nisi quod,
+cum propius te accessissem, existimaveram cupiditati meae iampridem conceptę animo tui vel per literas invisendi satis esse faciendum.
+Id quod in causa fuit, ut in nullo scribendi argumento nunc quoque occupationibus tuis et gravissimis studiis obstreperem.
+Quod ut parcius ac levius fieret, fui brevior satis vel hanc esse epistolam ratus - ut inter bonos bene agier oportet -, qua tu pro syngrapha addicti tibi hominis utere.
+^$Responsiones vestras<f1>Das "Warhaffte Bekanntnuß" und dessen lateinische Fassung, die "Orthodoxa Tigurinae ecclesiae confessio"; s. oben Nr. 2061, Anm. 9.<fe> ad Lutheri librum carneum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> audio exiisse Basilęaeque haberi. Eas, ego misi, qui<f1>Unbekannt.<fe> mihi emerent.
+^$Tu interea, mi optime atque doctissime Bullingere, si nos diligis, da operam, ut valeas
+et sustentes aetatem istam tuam iis, quibus soles, christianis studiis et conscientia rectorum consiliorum.
+Nos, qui te plurimum amamus et diu noctuque in tuis in Matthęum, Ioannem, Acta et in omnes apo­s­­to­li­cas epistolas
+lucubrationibus<f1>Zu Bullingers Bibelkommentaren s. oben Nr. 2070, Anm. 4.<fe> evolvendis intenti sumus, nullo unquam loco deerimus nec famę nec laudi nec voluntati etiam tuę.
+^$Vale igitur ac dominum Bibliandrum meis verbis iube salvere.
+^$Nozerethi, idibus iunii anno christiano 1545.
+<un>Studiosissimus et amantissimus tui
+<un>Gilbertus Cognatus Nozerenus.
+<lz>[Adresse auf der Rückseite:] Doctissimoque pręstantissimoque theologod. Heinricho Bullingero, domino et praeceptori suo. Tiguri.<f1>Diesen Brief sandte Gast zusammen mit seinem Brief vom 18. Juni 1545 an Bullinger; s. unten Nr. 2183 und Anm. 3.<fe>
+</content>
+</letter>

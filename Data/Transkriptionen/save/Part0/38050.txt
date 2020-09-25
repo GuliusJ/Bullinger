@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="38050">
+<nr>38050</nr>
+<correspondents>
+	<originator>Pomponne de Bellièvre</originator>
+	<addressee>Bullinger.</addressee>
+</correspondents>
+<space_time>
+	<place>Solothurn</place>
+	<date>27. Mai 1568</date>
+</space_time>
+<vo>Zürich StA, E II 378, 1812. / Orig. Aut.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S.  Literisd. Cognetii pauca haec adiunxi, quibus me dei
+beneficio satis valere scies et tibi plurimam salutem
+optare. Hoc unum novi ad me scribitur reginam Scotiae
+carcere, quo detinebatur, procerum quorundam ope elapsam in
+satis munitum oppidum profugisse atque illic auxilia
+expectare. Flandricus ille tumultus neque caput neque pedes
+hactenus mihi quidem habere videtur; vix tamen est, ut tam
+atra nebula impune abeat.
+Bene vale. Dominus Gvalterus hic sibi plurimam salutem
+ascriptam sciet. Iterum vale.
+Soloduro  27. mayi 1568.
+Tuus ex animo P[omponne] Bellieure.
+Clarissimo virod. Henrico Bullingero, ecclesiae Tigurinae
+pastori.
+</content>
+</letter>

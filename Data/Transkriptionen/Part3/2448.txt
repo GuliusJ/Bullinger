@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2448">
+<brief>
+<id>16135</id>
+<nr>2448</nr>
+<ae>Peter Medmann an Bullinger</ae>
+<od>Bonn, 18. Mai 1546</od>
+<vo>Autograph: Zürich StA, E II 338, 1428 (Siegelspur)</vo>
+<dr>Druck: <a>Pollet, Relations</a> II 169f, Nr. 46<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 94; Kopie und Übersetzung 19. Jh.: Emden BGK, Hs fol. 37, Nr. 72</k></dr>
+<re>Bullinger dürfte Medmanns Brief [<qv>nr2419</qv>] durch die von der Frankfurter Messe nach [Zürich] zurückkehrenden Buchdrucker erhalten haben.
+<t/>Da nun jemand [...] aus Bonn nach Zürich geschickt wird, ergreift Medmann die Gelegenheit, um der in Bullingers Brief [nicht erhalten] geäußerten Bitte und dem in seinem vorletzten Brief [nicht erhalten] gegebenen Versprechen nachzukommen. Bullinger kann mit demselben Boten antworten.
+<t/>Medmann stellte beim Lesen der ["Orthodoxa Tigurinae ecclesiae] confessio" fest, dass die Zürcher [Johannes] Campanus kaum kennen,
+<fn>Orthodoxa ... confessio, Zürich, Christoph Froschauer, 1545 (<a>BZD</a> C343), f. 109r.: "Campanum nemo nostrum novit, et si quid is de sacramento scripsit, illud quoque nobis prorsus ignotum est".</fn> was insofern merkwürdig ist, als dieser durch seine Irrlehren bekannt wurde. Als Medmann noch jung war, hatte Campanus sich bei einer öffentlichen Disputation in Köln den dortigen "Sophisten" mit einigen wohl noch heute in Köln kursierenden frommen Thesen entgegengestellt. Seitdem ist er jedoch wieder ein entschiedener Verteidiger des Papsttums. Seine schriftliche Verteidigung des Fegefeuers
+<fn>Nicht erhalten. Das Werk wird aber von Campanus in seinem Brief an Peter Tesch vom 4. April 1546 bezeugt; s. <a>Lenz</a> II 435. Über seinen Inhalt erfährt man Weiteres aus Medmanns Brief an Bullinger vom 20. Januar 1547; s. <a>Pollet, Relations</a> II 174,57-175,65. Die von Pollet in diesem Zusammenhang angeführte und mit Campanus in Verbindung gebrachte Schrift (s. <a>Pollet, Relations</a> II 175, Anm. 3) kommt nicht in Frage, zumal es sich hier um eine Apologie und nicht um eine Widerlegung des Purgatoriums handelt.</fn> wurde von den Kölner "Theologastern" begrüßt. Sobald Medmann ein Exemplar davon hat, wird er es Bullinger zukommen lassen.
+<t/>[P.S.:] Weitere Angaben zu Campanus wird Bullinger mit Medmanns Sendung von Campanus' Schrift erhalten. </re>
+<textweg>
+<p>S. Sub nundinarum Francophordensium tempus ad te scripsi
+<fn>am 10. April, oben Nr. 000.</fn>, mi d. Bulingere, quas meas literas per vestros typographos ad te perlatas arbitror. Et quamquam hoc tempore nihil admodum scriptione dignum haberem, tamen, cum hic civis isthuc proficisci pararet, ad te scribendum esse mihi putavi, ut responderem et tuae peticioni et meae promissioni in penultimis meis. Per quem tuto recribere poteris, si modo tua negocia tantum temporis tibi concesserint.</p>
+<p>In vestra Confessione legi de Campano
+<fn>Johannes Campanus, vgl. HBBW II 214, Anm. 55.</fn>, quem vobis scribitis prorsus ignotum esse
+<fn>Warhaffte Bekanntnuß... (HBBibl I 161), 116r., bzw. Orthodoxa Tigurinae ecclesiae ministrorum Confessio... (HBBibl I 167), 109r.</fn>, quod mihi sane mirum visum est; nam vel ex publicis rumoribus aliquid de illo errore ad vos pervenisse debuerat. Ego memini temporis, quo adolescente Coloniae se obtulit ad publicam disputationem contra meos Colonienses sophistas et mittebat pias aliquot propositiones, quae adhuc, ut puto, Coloniae inter bonos viros reperiri possent. Nunc vero, quantum in eo est, papatum libenter erigere vellet et in hoc totus est, ut purgatorium astruat, de quo volumen quoddam scripsit, quod est approbatum a meis summis amicis theologastris Coloniensibus. Eius mittam brevi, et ubi certum ad te habere potero, exemplo. Iam et brevitas temporis et occupationes plura scribere prohibent.</p>
+<p>Vale in domino et ignosce meis notulis.</p>
+<p>18. maii 1546. Bonnae.</p>
+<un>Petrus Medmannus tuus.</un>
+<lz/>
+<p>Ubi misero assertionem purgatorii, simul etiam de Campano copiosius.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Henricho Bulingero, in ecclesia Tigurina professori sacrarum literarum diligentissimo, etc., suo modis omnibus s[alutem(?)]. Tiguri.</p>
+</textweg>
+</brief>

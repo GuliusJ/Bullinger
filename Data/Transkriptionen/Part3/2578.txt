@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2578">
+<brief>
+<id>16267</id>
+<nr>2578</nr>
+<ae>Claudius Pius Peutinger an Bullinger</ae>
+<od>Augsburg, 11. September 1546</od>
+<vo>Autograph: Zürich StA, E II 346, 187 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie)</k></dr>
+<re>Der Überbringer [Johannes Kielmann] wurde angestellt, um gegebenenfalls mit der Wegführung von Peutingers Kindern [aus Augsburg] beauftragt werden zu können. Nun aber sieht sich Peutinger genötigt, seine Familie schon früher als geplant nach dem Beispiel [des Patriarchen] Jakob aufzuteilen. Er hat [Kielmann] befohlen, den Jungen [...] in Lindau zurückzulassen und sich in Zürich zu erkundigen, ob dieser besser in Basel oder in Zürich untergebracht wäre. Peutinger bevorzugt Zürich. Denn für eine berühmte Hochschule ist sein Sohn noch zu jung und nicht genügend fortgeschritten, auch wenn er schon Kenntnisse in den Sprachen hat und sich auf Latein verständigt. Sollte der Gebrauch des Lateins in Zürich nicht gängig sein, ist Peutinger bereit, so viele Privatlehrer anzunehmen, wie den Zürchern zweckmäßig erscheint. Er schreibt auch [Konrad] Pellikan. Bullinger möge helfen!
+<t/>[P.S.:] Die Päpstlichen haben den Unrat dieser Welt gegen die [deutschen Protestanten] aufgehetzt und verfügen über ein größeres Heer, als man es für möglich hielt. Beide Heere haben gleich viele Infanteristen. Die kleinere Anzahl von [schmalkaldischen] Reitern wird durch deren Qualität wettgemacht. Die Sache der [Schmalkaldener] ist die bessere. Den Kaiserlichen steht mehr Geld zur Verfügung, doch haben die [Schmalkaldener] immerhin so viel, wie sie brauchen. Beide Heere liegen dicht beieinander. Kaiser [Karl V.] hält sich verschanzt. Man wird sehen, was er nach der Zuführung des niederländischen Heeres tun wird! Die [Schmalkaldener] suchen den Kampf, der Kaiser scheint ihn hinauszögern zu wollen. Die [einfachen Soldaten] müssen für das büßen, was die Fürsten sich ausdenken!</re>
+<text>
+<p>S. Clarissime vir. Qui has ad te fert literas, est iuvenis, quem ego selegi, ut cum pueris meis
+<fn>Peutinger hatte neun Kinder; s. Friedrich <i>Roth,</i> Zur Lebensgeschichte des Augsburger Stadtadvokaten Dr. Claudius Pius Peutinger, 1509-1552 (Fortsetzung), in: <a>ARG</a> 25, 1928, 209f. - Welche von ihnen zu diesem Zeitpunkt lebten bzw. im Schulalter standen, konnte nicht eruiert werden, da die Geburtsjahre der Kinder nicht bekannt sind.</fn> olim ablegare possem.
+<fn>Johannes Kielmann. Er wurde, wie aus diesem Brief hervorgeht, von Peutinger nach Zürich gesandt, um für dessen Kinder eine Ausbildungsstätte während des Schmalkaldischen Krieges zu suchen. Aus Peutingers Brief an Bullinger vom 24. Oktober 1546 (Zürich StA, E II 356, 991) geht hervor, dass die Zürcher auf diese Anfrage eingingen. Von Kielmann sind zwei Briefe an Bullinger, der eine vom 13. Januar 1549, der zweite vom 28. September 1550, erhalten (Zürich StA, E II 343, 401, bzw. E II 356, 100). Beide unterschreibt er als "paedagogus Peutingerorum". Im letzten wird Gessner als "antiquus hospes" bezeichnet. Demzufolge wurden Kielmann und Peutingers Sohn bzw. Kinder während deren Aufenthalt in Zürich in Gessners Haus untergebracht - eine bislang noch unbekannte Information.</fn> Id nunc fit citius, quam constitueram. Caussa est, quod hoc statu rerum
+<fn>Der Schmalkaldische Krieg.</fn> huic curae vacare non possum et Iacobi exemplo familiam disiungere aliquantum libuit,
+<fn>Anspielung auf Gen 32,22-24, oder 42,1-4.</fn> ne omnes uno casu procumberent. Iussi relicto puero
+<fn>Unbekannt.</fn> Lindavii ad vos proficisceretur ac vestro consilio
+<fa>consilio <i>in der Vorlage wiederholt.</i></fa> constitueret, num melius apud vos quam Basile{e}. Mallem apud vos. Non enim est ista aetas filii neque tantum profecit, ut ad celebriora gymnasia sit promovendus. Rursus alumnum negligere nollem, cui iam est linguarum cognitio necessaria filio, exercitium frequens in grammaticis et Latini sermonis continuus usus. Si publice illa
+<fn>cognitio Latini sermonis.</fn> non fuit, lubens privatim praeceptoribus, quantum sat est quantumque vos ipsi iubebitis, persolvam. Scribam ea de re etiam d. Pellicano. Rogo te, mi d. Bullingere, meis eam operam praestare eosque commendatos habere velis, cui ego vicissim, ubi quantumque potero, gratificabor.</p>
+<p>Bene vale. Ex Augusta, 11. septembris anno salutis 1546.</p>
+<un>Tuus Cl. P. Peutinger.</un>
+<lz/>
+<p><vl>187v.</vl> Puto vos avide, quae hic gerantur, expectare. Nos etiam anheli expectamus gratiam et auxilium a domino. Pontificii orbem terrarum, quicquid suae fecis est, in nos concitarunt, atque collectas iam habent vireis maiores quam ab initio credebamus. <zzl>zl16267-1A</zzl>Nostri
+<fn>Die Schmalkaldener.</fn> peditatu non sunt inferiores; equitum numero si inferiores sunt, excellentia militum hoc praestabunt. Caussa superamus. Aliis
+<fn>Den Kaiserlichen.</fn> plus nummorum; nobis hactenus, quantum oportuit, non deffuit. Utrinque ingentes copiae <fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>in propinquo admodum<fa1e von="1"/>. Caesar
+<fn>Karl V.</fn> vallum
+<fn>Das kaiserliche Heer hatte sich an einer vorteilhaften, unzugänglichen Stelle verschanzt; s. schon <qv>nr2561</qv>,<qv>zl16252-4</qv>; <qv>nr2572</qv>,<qv>zl16260-11</qv>; <qv>nr2574</qv>,<qv>zl16264-6</qv>; <qv>nr2576</qv>,<qv>zl16265-6</qv>.<zfn>fn16267-1</zfn></fn> tutatur; expectamus, quid accessione Belgici exercitus
+<fn>Maximilian von Egmont, Graf von Büren, traf mit seinem niederländischen Heer am 15. September beim kaiserlichen Heer ein; s. <qv>nr2572</qv>, <qv>fn16260-5</qv>.</fn> sit moliturus. Nostri pugnam desyderant. Caesar protrahere velle videtur. Iliacos intra muros
+<fn>Innerhalb der Mauern von Troja.</fn> peccatur et extra, et quicquid delirant reges, plectuntur Achivi
+<fn>die Griechen. - Hierunter sind metaphorisch wohl die einfachen Soldaten beider Kriegsparteien zu verstehen.</fn>.
+<fn><i>Horaz,</i> Epistulae, 1, 2, 14 und 16.</fn><zzl>zl16267-1E</zzl></p>
+<lz/>
+<p>[Adresse auf f. 188a, v.:] Clarissimo viro domino Henricho Bullingero, ecclesiastae Tigurinensi celeberrimo, domino et amico suo carissimo. Tiguri.</p>
+</text>
+</brief>

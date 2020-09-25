@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2108">
+<nr>2108</nr>
+<correspondents>
+	<originator>Pfarrer</originator>
+	<originator>Lehrer von Zürich</originator>
+	<addressee>Albert Hardenberg</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>14. März 1545</date>
+</space_time>
+<vo>Entwurf<fx>^#/+Mit einem Zusatz von Bullingers Hand (s. unten Anm. f), Bemerkungen von Johann Heinrich Hottinger und Unterstreichungen. - Dass es sich hier um einen Entwurf (möglicherweise nicht gerade um den ersten) und nicht um eine Abschrift handelt, geht aus den hier beobachteten stilistischen Korrekturen hervor, von denen hier nur die bedeutsamsten verzeichnet sind.^#/-<fe> von Rudolf Gwalther: Zürich ZB, Ms F 41, 129r.-132v.<fx>^#/+F. 132r.-v. leer.^#/-<fe></vo>
+<dr>Ungedruckt</dr>
+^&xKopien 18. und 20. Jh.: Zürich ZB, Ms S 57, 7; Emden BGK, Hs. fol. 37, Nr. 101; Zitat: Wim Janse, Hardenberg als Theologe, Leiden 1994, 380f. 507 (Brief 29) [Gd VII 1091]. --- Hardenberg/Rizäus war damals in Bonn oder Köln (Janse 20-22).^&x{
+<re>[Die Zürcher] wissen, dass Albert [Hardenberg] Luthers ["Kurtz bekentnis"] schon lange kennt. Voller Zorn, Hass, Neid und Bitterkeit greift das Buch sie als öffentliche Bekämpfer des Glaubens und als hartnäckige Ketzer an.
+-^#. Sie bedauern dies, nicht so sehr, weil sie sich in ihrer Ehre verletzt fühlten, sondern weil dies eine große Gefahr für die bereits zur Genüge gequälte Zeit darstellt. Luther gibt hier nämlich vielen ein übles Beispiel, so dass die Zürcher nicht länger schweigen konnten, zumal er gegen die Wahrheit wütet und behauptet, dass Brot und Wein wahrhaft und natürlich Christi Leib und Blut sind und körperlich gegessen und getrunken werden. Wenn man Luther gestattet, nach seinem Gutdünken Glaubensartikel selbst festzulegen, ist zu erwarten, dass jedermann seine eigenen Erfindungen als akzeptierte Glaubenswahrheiten vorbringen und anderen aufdrängen wird. Dies würde zu einem neuen Papsttum führen. Die Zürcher fürchten außerdem, dass [der Teufel] dadurch ihre Unterdrückung bewirken will.
+-^#. Sie sind nicht aus privatem Hass in Feindschaft mit Luther geraten. Auch wenn er ein bedeutender Mann ist, können sie dennoch nicht alles, was von ihm kommt, als Werk des [Heiligen] Geistes anerkennen, zumal er von einer solchen Unmäßigkeit der Affekte getrieben wird.
+-^#. Sie haben ihre [beigelegte] Antwort, das ["Warhaffte Bekanntnuß"], nicht aus bloßer Streitsucht verfasst, sondern um für die Wahrheit einzutreten und die Unschuld ihrer Kirchen öffentlich zu bekunden. Die Frommen und Gelehrten Zürichs wie auch Zürichs Großer Rat haben dieses Vorhaben gebilligt und die Schrift gesehen.
+-^#. [Die Zürcher] wenden sich nun an Hardenberg, weil er fähig ist, in nicht geringem Maße für die Wahrheit einzustehen und sich Luther (der sich selbst zum Kläger, Zeugen und Richter einsetzt) in seinem Vorhaben, ihre Schriften zu unterdrücken, zu widersetzen. Hardenberg soll bei den ihm befreundeten, frommen Fürsten (vor allem bei dem Kölner Erzbischof [Hermann von Wied] und bei [Franz von Waldeck, dem Bischof von] Münster), darauf hinwirken, dass sie die Bücher [der Zürcher] nicht verdammen, verbieten und deren Lektüre durch öffentliche oder geheime Edikte behindern. Es besteht nämlich keine Gefahr, dass diese Schriften der begonnenen Reformation im Wege stehen könnten, und es fehlt auch nicht an [evangelisch gewordenen] Orten, bei denen solch ein Verbot in Bezug auf die Reformation eher abschreckende als förderliche Folgen haben könnte. Die Zürcher wollen niemandem etwas aufdrängen und unterwerfen sich gern den Entscheidungen der treuen Kirchen.
+-^#. Sie bitten Hardenberg, sie [Hermann von Wied] zu empfehlen.</re>
+<tx>Gratiam et pacem a domino nostro Iesu Christo.
+^$Lutheri librum contra nos nuper aeditum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> te iam ante vidisse satis novimus,
+Alberte frater observande. Nec ignoras plures obstitisse, quo minus ad nos idem ille perferri posset.
+Sed secus deo nostro visum est. Eundem enim et nos vidimus, irę, odii, invidię et omnis generis amarulentię affectibus tumentem.
+Nec enim in nos ceu privatos Lutherani nominis hostes, sed catholicę fidei et verae religionis
+publicos oppugnatores, contumaces et poenitere nescios hęreticos invehitur.<f1>Vgl. unten Z. 20f.<fe>
+^$Dolorem vero hinc non parvum accepimus; non quidem, quod nostrę famę et honoris violatione
+tantum dolere possimus, sed quod offendiculum hinc longe maius et pernitiosius
+exoriri videamus, quam nostri sęculi alias plus satis afflicti calamitas postulet.<fx>^#/+Nach^#/- postulet ^#/+gestrichenes^#/- Nos lęta animi conscientia animati verborum Christi movet.<fe>
+Iam olim enim multa huius generis sustinere et superare didicimus. Et animi nostri bene sibi conscii huiusmodi minas non multum pertimescunt.
+Christi enim salvatoris et eorum, quae ipse pronuntiat, sumus <vl>129v.</vl> memores: "Beati", inquit, "estis,
+cum probra iecerint in vos homines et insectati fuerint et dixerint omne malum verbum adversus vos
+mentientes propter me. Gaudete et exultate, quoniam merces vestra multa est in coelis" [Mt 5, 11f].
+Quoniam vero Lutheri factum pravi exempli occasionem pluribus praebere et multis
+infirmis offendiculo esse potest, diutius nobis tacendum esse non putavimus.
+Nec enim in nos, ceu privatos homines, sed in doctrinam nostram, adeoque ipsam veritatem, debachatur;<f1>Vgl. oben Z. 6-8.<fe>
+cui si patrocinium nostrum negare voluissemus, illud sine gravi iactura fieri non potuisset.
+Scimus equidem, quanta sit apud multos<fx>^#/+Vor^#/- multos ^#/+gestrichenes^#/- omn[es].<fe> Lutherani nominis authoritas.
+Atqui eo magis illi<f1>Luther.<fe> occurrendum est, sicubi pravi exempli author esse coeperit.
+Ille diro anathemate ferit et satanę tradit omnes eos,<f1>1Kor 5, 5; 1Tim 1, 20.<fe> qui panem et vinum verum ac naturale Christi corpus
+ac sanguinem esse et corporaliter ore tenus manducari et bibi credere noluerint.
+Quod si vero temerariam hanc excommunicationis sententiam nemo publice improbarit,
+quantum, quaeso, veritati imminet periculum? Nonne veritatem plures vel negandam vel reticendam esse putabunt?
+Rursus, si Luthero, ut fidei articulos pro suo arbitrio ipse constituat et privata authoritate
+omnibus credendos obtrudat, permissum fuerit, quid aliud hinc eventurum sperabimus,
+quam quod audacissi-<vl>130r.</vl>mus quisque omnia capitis sui figmenta et somnia pro receptis
+fidei articulis proferet et contradicentes sibi diro anathematis fulmine feriet?
+Atqui hęc non minima surgentis papatus initia et augmenta fuisse legimus.
+Quid? Pontificiis quoque Lutherus se palam iungit, illorum sententiam orthodoxam
+et eam, quae sub papatu est, ecclesiam sanctam et catholicam esse dicit.
+Multum profecto<fx>^#/+Vor^#/- profecto ^#/+gestrichenes^#/- me hercle.<fe> hic metuimus, ne odii et invidię pertinacia totus obcoecatus<f1>Damit ist der Teufel gemeint.<fe>
+hoc unum quaerat, ut nos quibuscunque tandem vel consiliis vel auxiliis opprimere possit.
+^$Nos tamen ingenue illud fatemur et testamur, nullam nobis ob privatum odium inimicitiam cum Luthero incidisse unquam.
+Virum magnum et non poenitendum in domo domini servum illum fuisse non negamus.
+Omnia tamen, quae ab ipso fiunt, spiritus opera esse pronuntiare nondum possumus,
+cum tanta et tam immoderata affectuum intemperie agitetur, ut nec sui officii, nec ecclesię memor
+in insontes nullam iustam ob causam in tantum furiat et tam pernitiosi offendiculi author sit.
+^$Responsionem ergo hanc<f1>Das "Warhaffte Bekanntnuß"; s. oben Nr. 2061, Anm. 9.<fe> non in hoc instituimus, Alberte, quod vel Lutherani nominis authoritati
+quicquam derogatum cupiamus, vel pernitiosa contendendi libidine delectemur, sed quod publicam et communem
+veritatis causam suscipere et ecclesiarum nostrarum innocentiam publico scripto asserere <vl>130v.</vl> extremae necessitatis telo cogeremur.
+Viderunt hoc, quotquot apud nos sunt vere pii et fideles homines. Vidit idem senatus urbis nostrę amplissimus,<f1>Der Große Rat der Zweihundert.<fe>
+cuius consilio et assensu hęc et conscripta sunt et in lucem ędita.
+^$Apud te vero, Alberte frater dilecte, de his tam multis agimus, quod tua fides et integritas
+nobis plene perspecta est, quę simul et hoc loco divinę veritati non leve patrocinium praestare potest.
+Vides haud dubie, quo imprimis Lutherus spectet.
+Illud enim suo exemplo docere et efficere conatur, ne quem vel nos vel scripta nostra
+locum invenire possint, ne quis nos audiat, ne quis nostra vel admittat vel legat.
+Et quaenam hęc in tanto theologo iniquitas!
+Hęreseos nos accusat, et omnem excusationis copiam, quantum in ipso est, eripit.
+Se ipsum ergo et actorem et testem et iudicem constituit.
+Quia vero quorundam animos ab illius nutu tantum non pendere constat, periculum est,
+ne illi, Lutheri exemplum secuti, veritatem repellant et libros nostros, quibus illi<f1>veritati.<fe> patrocinari studuimus, proscribant.
+Ut ergo multorum auxiliares manus petimus, ita tuam quoque in causa hac longe honestissima operam nobis adesse unice postulamus.
+Meruit tua fides et spectata probitas, ut multis et fidelissimis et potentissimis <vl>131r.</vl> principibus gratus et amicus sis.
+Hi tuis utuntur consiliis, te dicentem audiunt, tuam operam in omnibus desyderant.
+Primus autem illorum est fortissimus Christi miles et imperterritus evangelicę veritatis
+patronus, Coloniensis archiepiscopus<f1>Hermann von Wied, Erzbischof von Köln.<fe>, cui et Monasteriensis<f1>Franz von Waldeck, Bischof von Münster.<fe>, eorundem studiorum sectator, accedit.
+Te ergo etiam atque etiam oramus et obtestamur, ut apud hos causam nostram, imo veritatis potius, sic agere digneris,
+ne libros nostros damnent, ne proscribant, ne eorundem lectionem vel publicis vel occultioribus edictis inhibeant.
+Nec enim periculum est aliquod, nec quicquam coeptę reformationi officere possunt:
+Ut enim simplicitati per omnia, ita modestię quoque studuimus. Nec desunt ubique locorum,
+qui veritatem agnoscunt et profitentur, quos nostrorum librorum proscriptio plus terrere
+quam coeptum reformationis studium exhilarare posset.
+Norunt hi Pauli sententiam, qui omnia probare et, quod bonum est, retinere iubet.<f1>1Thess 5, 21.<fe>
+Neque tanta est animorum nostrorum insolentia, quod omnia nostra privata authoritate
+pro divinis oraculis cuiquam hominum obtrudere velimus.
+Ecclesiarum vere fidelium iudicia libenter sustinemus, et quisquis tandem nos meliora edocere potuerit, nos gratos sentiet.
+Tam <vl>131v.</vl> iusta ergo petentibus te nequaquam defuturum esse speramus.
+Scis enim nullius hominis authoritatem tantam esse, quin maior esse debeat divinę veritatis existimatio.
+Dominus deus et te et, quotquot tecum sunt, fideles, suo spiritu illustret et in nominis sui gloriam ac honorem semper provehat. Amen.
+^$Reverendissimo domino Coloniensi archiepiscopo nos fideliter commenda, pro<fx>^#/+Von^#/- pro ^#/+bis^#/- oramus ^#/+von Bullingers Hand am Rande nachgetragen.^#/-<fe> cuius incolumitate perpetuo oramus;
+cui ut lęta omnia precamur, ita nostram operam et studia omnia totis animis illi offerimus.
+^$Vale, Alberte colendissime.
+^$Tiguri, pridie idus martii anno etc. 1545.
+<un>Tigurinę ecclesię ministri
+<un>et lectores.
+<lz>[Adresse als Überschrift:] Eruditione et pietate clarissimo virod. Alberto Hardenburgio Frysio, amico et fratri in Christo unice dilecto, etc.
+</content>
+</letter>

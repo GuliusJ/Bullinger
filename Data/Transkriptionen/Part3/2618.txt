@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2618">
+<brief>
+<id>16307</id>
+<nr>2618</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-10-10"/>
+<ae>[Ambrosius Blarer] an Bullinger</ae>
+<od>[Konstanz], 10. Oktober [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 651f (Siegelabdruck und -fragment)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 518f, <br/>Nr. 1355<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 2 </k></dr>
+<re><t>Blarer dankt für das Schreiben Bullingers [nicht erhalten].</t>
+<t>Er hofft, dass der Zunftmeister [Hans ...] von Isny die von [Konrad] Hofherr dem [in Zürich wohnenden Hans] Meefuss geschuldeten sechs Gulden überbracht hat. Hofherr hatte das Geld seinem Schwager [Fridle ...] geliehen.</t>
+<t>Anbei übersendet Blarer ein am Vortag erhaltenes Schreiben [Georg] Frölichs. Der Bericht des [Konstanzer Rats] an den [Zürcher Rat] über das letzte Scharmützel, bei dem [Prinz Albrecht von Braunschweig-Grubenhagen] schwer verwundet wurde, wird mit gleicher Post [nach Zürich] geschickt und Bullinger sicher vor Augen kommen.</t>
+<t>Blarer hat nur kurz den in der Vornacht [aus Füssen] zurückgekehrten Konrad Zwick aufgesucht, der den früheren Bericht [in <qv>nr2610</qv>] vom unflätigen Benehmen der [eidgenössischen Söldner im schmalkaldischen Heer] bestätigt hat. Besonders die St. Galler, allen voran ihre Hauptleute Christian Vogel, [Hans] Blum und [Konrad] Glintz, haben einen schlechten Ruf. Zwick meint, dass die St. Galler diese Hauptleute bestrafen und ihre erbeuteten Güter den Ständen zurückschicken sollten. Diese würden das zwar kaum annehmen, aber somit wäre der Ruf der Eidgenossen wiederhergestellt. Zwick lässt grüßen.</t>
+<t>Der Konstanzer [Kaufmann] Niklaus Kröl berichtete nach seiner Rückkehr aus Venedig, dass er auf dem Heimweg an die 3'000 nach Italien zurückkehrende [kaiserliche Söldner] gezählt habe, die alle sehr froh über ihre Heimkehr sind und um keinen Preis nach Deutschland zurückkehren würden. Mögen sie mit Gottes Hilfe nie mehr wiederkommen und nun Gott erkennen!</t>
+<t>[Die Eidgenossen] sollen [einen möglichen Einfall der Berner in] das Burgund mit allen Kräften abwehren, da ein solcher nur Nachteile mit sich brächte.</t>
+<t>Auch Blarer steht [den Verhandlungen der Schmalkaldener mit] Frankreich und England sehr kritisch gegenüber.</t>
+<t>Die Sache [der Schmalkaldener] muss wirklich anders angegangen werden, sonst wird sie erfolglos sein. Der Herr aber wird den Seinen beistehen.</t>
+<t>Man soll füreinander beten. In Eile.</t></re>
+<text>
+<div>
+<p>Gnad und frid mitt allem g{uo}tem. Sonders vertrauwter, lieber herr und br{uo}der, ewer schreiben
+<fn>Ein nicht erhaltener Brief, der auf Blarers Brief <qv>nr2610</qv> vom 6. Oktober antwortete.</fn> hab ich z{uo} grossem danck empfangen. Daruff antwurt:</p>
+</div>
+<div>
+<p><zzl>zl16307-4A</zzl>Erstlich hoff ich, ir hapt die 6 fl. dem Meef{uo}ß
+<fn>Hans Meefuss aus Zürich.</fn> geh{oe}rig von dem zunfftmaister von Ysne
+<fn>Wohl der schon in <a>HBBW</a> XV 255,22-31, erwähnte Zunftmeister, der mit Blarer befreundet war und laut <qv>nr2626</qv>,<qv>zl16316-2</qv>, mit Vornamen Hans hieß. Er war Schreiner und nahm nach dem Schmalkaldischen Krieg als Gesandter der Stadt Isny an den Aussöhnungsverhandlungen mit Kaiser Karl V. teil; s. <a>Blarer BW</a> II 580.<zfn>fn16307-1</zfn></fn> empfangen. Curio
+<fn>Konrad Hofherr.</fn> hat die seinem schwager
+<fn>Fridle [...]; s. <qv>nr2610</qv>, <qv>fn16298-11</qv>.</fn> entlechnet
+<fn>geliehen.</fn> gehapt. Der hats jetz erlegt.
+<fn>Zur Sache s. schon <qv>nr2610</qv>,<qv>zl16298-3</qv>.</fn><zzl>zl16307-4E</zzl></p>
+</div>
+<div>
+<p>So schick ich euch abermals
+<fn>Blarer hatte auch seinem letzten Brief an Bullinger vom [6. Oktober] ein Schreiben von Georg Frölich (Laetus, L{e}tus) beigelegt; s. <qv>nr2610</qv>,<qv>zl16298-4</qv>. - Der hier erwähnte Brief Frölichs findet sich nicht in <a>Blarer BW</a>.</fn> ain schreiben vom L{e}to. Ist mir uff gestert z{uo}kommen. Was weyter mynen herren z{uo}komen des letsten scharmutz halber,
+<fn>Siehe dazu den ausführlichen Bericht in der Beilage von <qv>nr2616</qv>.</fn> <zzl>zl16307-5A</zzl>darinn ouch ain hertzog von Luneburg
+<fn>Prinz Albrecht von Braunschweig-Grubenhagen; s. <qv>nr2612</qv>, <qv>fn16301-7</qv>.</fn> erstochen worden (wie man besorgt, er m{oe}ge nitt davon kommen,<zzl>zl16307-5E</zzl> schreiben sy den ewern by diser post
+<fn>Der Konstanzer Rat schrieb am 11. Oktober 1546 an den Zürcher Rat (Zürich StA, A 177, Nr. 78) und teilte dabei tatsächlich den Tod des Prinzen Albrecht mit.<zfn>fn16307-3</zfn></fn>)
+<fa><i>Klammern ergänzt.</i></fa>, blypt euch unverhalten
+<fn>nicht vorenthalten.</fn>.</p>
+</div>
+<div>
+<p><zzl>zl16307-1A</zzl><zzl>zl16307-3A</zzl>So ist min lieber vetter Conrat Zwick necht
+<fn>gestern Abend.</fn> spat kommen.
+<fn>Zwick wurde vom Konstanzer Rat beauftragt, das schmalkaldische Lager bei Füssen zu besuchen; s. <qv>nr2606</qv>,<qv>zl16294-7</qv>.</fn><zzl>zl16307-3E</zzl> Byn nun
+<fn>nur.</fn> ain klains wyle by im gewesen, dann er vyl z{uo} schaffen gehapt. Hat mir aber mitt grossem laid anz{oe}gt und best{ae}t
+<fn>bestätigt.</fn>, was ich euch nechermal
+<fn>Im letzten Brief Blarers vom 6. Oktober; s. <qv>nr2610</qv>,<qv>zl16298-1</qv>.</fn> von den eweren anz{oe}gt hab. Sagt, es seye nitt gl{oe}plich, wie ain groß gschray uber sy seye
+<fn>wie ain groß gschray uber sy seye: welch einen schlechten Ruf sie haben.</fn>. Sogar uberuß ubel haltind sy sich und seyen uber die maß unfletig, sonderlich die Sangaller, z{uo}vor ire hoptleut, Christa Vogel, der Bl{uo}m
+<fn>Hans Blum; s. <qv>nr2610</qv>, <qv>fn16298-3</qv>.</fn> und Glyntz
+<fn>Konrad Glintz; vgl. <a>Vadian BW</a> VI 50. 562. 564.</fn>. Er maint, die von S. Gallen sollten sy strauffen, die hoptleut, und all ir g{uo}t und gelt, das sy erobert, den stenden widerum z{uo}schicken, damitt man seche, das es inen nitt lieb were. Maint, man wurde das gelt danecht
+<fn>dennoch.</fn> nitt nemmen, sonder inen widerum haimschicken. Aber danecht kemend dardurch die Aidgnossen widerum usß dem geschray. Er klagt sichs gantz hoch
+<fn>Er klagt sichs gantz hoch: er beklagt sich sehr darüber.</fn> und empeut
+<fn>entbietet.</fn> euch vyl vyl dienst und gr{uo}tz. <zzl>zl16307-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16307-6A</zzl>Item ain burger von hinnen, Niclauß Cröl, gar ain frommer, redlicher mann, ist uff frytag
+<fn>Am 8. Oktober.</fn> von Venedig heruß kommen.<zzl>zl16307-6E</zzl> <zzl>zl16307-7A</zzl>Sagt, das ime uberuß vyl Italianer begegnet seyen; achtets uff 3'000. Seyen gantz unschlundig
+<fn>mürrisch, ungeduldig; vgl. <a>Grimm</a> XXIV 1338.</fn> und fro, das sy widerum haimziechind. Sagind, die sach gefall inen dermassen
+<fn>Zu verstehen: dermaßen schlecht, dass.</fn>, hett yeder das ain oug im Teutschland gelassen, er
+<fn>Subjekt ist "jeder" (der Italiener).</fn> wellte sich nitt umkeren, dasselbig widerum ze holen. Gott welle, das sy nymmermehr kommind und anhaim
+<fn>daheim.</fn> mitt baiden ougen lernind recht sechen und gott erkennen!<zzl>zl16307-7E</zzl></p>
+</div>
+<div>
+<p><vl>652</vl> <zzl>zl16307-2A</zzl>Mit <i>Burgund</i>
+<fa>Burgund <i>in Blarers Geheimschrift (s. dazu <a>HBBW</a> XVII 45 und Anm. 232f; Abbildung aaO, S. 12).</i></fa> werend, als starck ir sind, dann es wurd ain b{oe}ß sach und hette ain ergerlich ansechen, etc.
+<fn>Vgl. schon <qv>nr2610</qv>,<qv>zl16298-2</qv>.</fn> Gott verlych, uffrecht und redlich zu handlen in allem!<zzl>zl16307-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16307-8A</zzl>Mitt Franckreich und Engelland
+<fn>Zu den Verhandlungen der Schmalkaldener mit Frankreich s. <qv>nr2607</qv>, <qv>fn16295-8</qv>; <qv>nr2610</qv>,<qv>zl16298-14</qv>; mit England s. <qv>nr2607</qv>, <qv>fn16295-9</qv>.<zfn>fn16307-2</zfn></fn> hallt ichs gantz und gar mitt euch, und byn ye und allweg
+<fn>stets.</fn> der mainung gewesen, das wir nichts dann all plagen von <zzl>zl16307-9A</zzl>disen gluckst{oe}bern
+<fn>Störenfrieden; s. <a>SI</a> X 1090.</fn><zzl>zl16307-9E</zzl> haben m{ue}ssind, so wir unß mitt inen inlassind.<zzl>zl16307-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16307-10A</zzl>Und warlich, es m{uo}sß die sach
+<fn>Das militärische Vorgehen der Schmalkaldener.</fn> anderst gestalt werden oder unser ding wirt nichts sein, wiewol der herr unß und alle die sinen v{ae}tterlich durch allen str{uo}del diser wellt erhalten wirt.<zzl>zl16307-10E</zzl> Im seye preyß in ewigkait!</p>
+</div>
+<div>
+<p>Bitten mitt allen truwen f{ue}r unß. Thaind
+<fn>(Das) tun.</fn> wir auch. Datum 10. octobris, sontag, morgens fr{ue}. Hab warlich nitt zyt ze schriben. Drum habend f{ue}r g{uo}t.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf f. [152a]v.:] Bullingero suo. Tiguri. An meister Heinrich Bullinger. Z{ue}rich.</p>
+</div>
+</text>
+</brief>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
     <xs:element name="letter">
-        <xs:complexType>
-            <xs:sequence>
+        <xs:complexType mixed="true">
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
                 <xs:element name="correspondents">
                     <xs:complexType>
                         <xs:sequence>
@@ -15,7 +15,7 @@
                 <xs:element name="space_time">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="place" type="xs:string" maxOccurs="unbounded"/>
+                            <xs:element name="place" type="a_state" maxOccurs="unbounded"/>
                             <xs:element name="date" type="notes" maxOccurs="2"/>
                             <xs:element name="note" type="notes" minOccurs="0"/>
                         </xs:sequence>
@@ -25,17 +25,22 @@
                 <xs:element name="print" type="notes" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element name="statue" type="xs:string"/>
                 <xs:element name="note" type="notes" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="p" type="notes" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="address" type="notes" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="signature" type="notes" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element name="content">
                     <xs:complexType mixed="true">
                         <xs:choice minOccurs="0" maxOccurs="unbounded">
                             <xs:element name="timestamp" type="notes"/>
                             <xs:element name="signature" type="notes"/>
                             <xs:element name="address" type="notes"/>
+                            <xs:element name="print" type="notes"/>
                             <xs:element name="place" type="xs:string"/>
-                            <xs:element name="note" type="xs:string"/>
+                            <xs:element name="note" type="notes"/>
                             <xs:element name="date" type="xs:string"/>
                             <xs:element name="lang" type="a_lang"/>
                             <xs:element name="ps" type="xs:string"/>
+                            <xs:element name="p" type="xs:string"/>
                             <xs:element name="a" type="xs:string"/>
                             <xs:element name="i" type="xs:string"/>
                             <xs:element name="k" type="xs:string"/>
@@ -48,7 +53,7 @@
                     </xs:choice>
                 </xs:complexType>
                 </xs:element>
-            </xs:sequence>
+            </xs:choice>
             <xs:attribute name="id" type="xs:string"/>
             <xs:attribute name="year" type="xs:integer"/>
             <xs:attribute name="lang" type="xs:string"/>
@@ -59,7 +64,12 @@
     <xs:complexType name="notes" mixed="true">
         <xs:choice minOccurs="0" maxOccurs="unbounded">
             <xs:element name="place" type="xs:string"/>
+            <xs:element name="print" type="notes"/>
+            <xs:element name="address" type="notes"/>
+            <xs:element name="signature" type="notes"/>
+            <xs:element name="date" type="a_lang"/>
             <xs:element name="lang" type="a_lang"/>
+            <xs:element name="p" type="xs:string"/>
             <xs:element name="a" type="xs:string"/>
             <xs:element name="i" type="xs:string"/>
             <xs:element name="k" type="notes"/>

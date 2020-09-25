@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="31018">
+<nr>31018</nr>
+<correspondents>
+	<originator>Mathieu Coignet</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Solothurn</place>
+	<date>28. Januar (1561)</date>
+</space_time>
+<vo>Zürich StA, E II 368, 421. / Orig. Aut.</vo>
+S. Bis ad te scripsi Badena.
+Misi caseolos aliquot et bullam Rome impressam.
+Mentionem etiam feci de interesse, sed nesciebam arbitros approbasse usuram de decem pro centum.
+Ubi regis super ea re voluntatem intellexero, pluribus ad te ea de re non boni exempti scribam, et quid ipse sentiam.
+Literas, quas in itinere recepi, reddesd. Galtero et videbis, que ex Italia ad me scripta sunt et ex Gallia perd. Martirem aut Valdunum interpretes; post remittes ad me.
+Nondum recepi ultima folia tue
+tractationis de consilio; nemini, que misisti, communicabo, nisi quando scripseris tempestivum esse.
+Salutabis amicos omnes et nos amabis.
+Soluturi  28. ianuarii.
+                                                     Tuus ex animo Cognetius.
+Domino Henrico Bullingero, ecclesiae Tigurinae pastori vigilantissimo.
+</content>
+</letter>

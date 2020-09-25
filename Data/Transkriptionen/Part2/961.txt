@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="961">
+<nr>961</nr>
+<correspondents>
+	<originator>Thomas Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>7. März 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 24f (neu: 36r.-v.) (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW I 841f</dr>
+<re>Die ausstehende Antwort [auf Nr. 941] wird vom Rat statt von ihm erteilt, um den Freunden in Zürich deutlich zu machen, daß
+man sich mit [den Domherren] auf keinen Fall mehr einlassen will; dank ihrem Auszug aus der Stadt stehen die Aussichten für Konstanz
+gut, nach vielen Stürmen - wie Odysseus - endlich zur Ruhe zu kommen. Hofft auf ein gebieterisches Wort der Eidgenossen,
+wie es einst [Neptun in Vergils Aeneis] sprach, und warnt vor Kompromißbereitschaft. Stellt einen Bericht in Aussicht, sendet
+Grüße und verspricht, Theodor [Bibliander] bei Gelegenheit zu schreiben.
+</re>
+<tx>S. Visum est, honorande Bullingere, optimatibus nostris, ut responsum<f1>Nämlich die Antwort auf Bullingers Anfrage vom 2. Februar (oben Nr. 941; vgl. auch oben Nr. 952 und unten Nr. 966).<fe>, quod ex me expectari debebat, ad senatum
+devolveretur, quo minus, qui bene volunt reipublicę nostrę, amici Tiguricenses dubitarent, quam alienum sit a
+salute civitatis huius denuo cum istis heroibus commisceri.
+Esse enim in foribus<f1>Adagia, 2, 2, 85 (LB II 478).<fe>, ut iam inde misertus dominus
+afflictionum nostrarum suo consilio pacem nobis restituat, valde confidimus. Is autem scorpionem pro pisce non dabit<f1>Vgl. Lk 11, 11f.<fe> aut
+pacem, vere pax quę non sit. Scis enim fidelem deum, cuius providentia id factum esse intelligimus, ut cum ipsa
+persuasę relligionis <gr>ĕuelourhskeíä</gr><f1>Vgl. Kol 2, 23.<fe> eius vitii artifices urbe excederent. Petulantiam illorum aegre
+perferimus, quid tamen? Levius est ab externis vexari quam a domesticis. Pręstat civili concordia gaudere et pietatem
+colere potius quam periculo se exponere intestino ob alienorum astutiam falsis pollicitationibus exornatam. Annos ab hinc
+non minus decem ut Ulisses ille fabulosus laborem de ventis et fluctibus exantlavimus, ita tamen, ut nostram Ithacam
+nobis iam apparere gaudeamus. Quod si cum procis decertandum adhuc fuerit, optandum tamen, ne in his tectis et quam
+potest remota ab illis Penelope<f1>Die Heimkehr des Odysseus nach Ithaka und sein Kampf mit den Freiern Penelopes ist Inhalt der zweiten Hälfte von Homers "Odyssee".<fe>. Sin quis contendat non patriam nos hactenus reperisse, sed fugisse potius ut ducem
+Vergilianum<f1>Gemeint ist Aeneas.<fe>, ecce tamen hic<fx>hic ^#/+über der Zeile nachgetragen.^#/-<fe> Troiam novam et
+Simoenta<f1>Fluß in der Gegend von Troia; vgl. Ludwig ^#/+Bürchner,^#/- in: Pauly/Wissowa III
+A 160f.<fe> novum<f1>Vgl. Vergil, Aeneis 3, 302.<fe>, ad quem appulimus, ut nec Troianis ad abolitam urbem nec
+Gręcis ad confectum negocium postliminio sit remigrandum. ^$Utinam tamen Helvetia, cui toties et tam amice ob oculos
+posuimus difficultatem navigationis nostrę, fluctibus istis aliquando, quod possunt, imperitaret<fx>^#/+Dieses und die beiden folgenden Verben von Plural in Singular korrigiert.^#/-<fe> et ventos folle cohiberet
+aut increparet saltem ministros Aeoli collectasque
+fugans nubes solemque reducens his aut talibus verbis<f1>Vergil, Aeneis 1, 132-141.<fe>:
+<lz>
+^$"Tantane vos generis tenuit fiducia vestri;
+^$<vl>25</vl> iam cęlum terramque meo sine numine, venti,
+^$miscere et tantas audetis tollere moles<fx>^#/+vor ^#/-moles^#/+ gestrichenes^#/- nubes.<fe>?
+^$Quos ego ...! Sed motos pręstat componere fluctus;
+^$post mihi non simili poena commissa luetis.
+^$Maturate fugam regique haec dicite vestro:
+^$Non illi imperium pelagi sęvumque tridentem,
+^$sed mihi sorte datum; tenet ille immania saxa,
+^$vestras, Eure, domos; illa se iactet in aula
+^$Aeolus et clauso ventorum carcere regnet" etc.
+<lz>Est autem in primis cavendum, Bullingere, ne cui persuadeant hęc flamina<fx>^#/+vor ^#/-flamina^#/+ gestrichenes^#/- flamina se.<fe><f1>Wortspiel mit flamina (Winde) und flamines (Priester).<fe> posse<fx>posse ^#/+über der Zeile nachgetragen.^#/-<fe> se
+cum nostro commodo scindi<f1>Vgl. oben Nr. 941, 25f.<fe>, si pars recipiatur. Hac enim simulatione res maximas saepe obtinuerunt, et inventus est
+tertius semper, cuius exitio illi redirent in gratiam.
+^$Superiorum annorum res gestas ad te dabimus<f1>Ein entsprechender Bericht ist nicht bekannt.<fe>, ex quibus intelliges, quo plebis scito interposito illorum reditus
+ad nos prohibeatur<f1>Der Rat kämpfte seit dem freiwilligen Auszug des Domkapitels (1527) entschlossen gegen dessen Rückkehr; vgl. ^#/+Moeller,^#/- Zwick 142f.<fe>, ne quis porro de ea re dubitare queat. Quare quam potes modestissime nostros excusa et saluta meis verbis
+gravissimum virum Dithelmum Röstum<f1>Bürgermeister Diethelm Röist.<fe> aliosque bonos. Theodoro<f1>Theodor Bibliander.<fe> ne nunc quidem scribere potui, scribam tamen per ocium.
+Dominum ora, ut rem publicam nostram conservet et augeat in regni sui honestamentum. Et poetari me in re tanta boni et
+equi consulito.
+^$Vale in servatore nostro cum vestris omnibus, ornatissime Bullingere.
+^$Constantię, 7. martii 1537.<un>Th. Blaurerus tuus.
+<lz>[Adresse vor S. 17 (neu: 29v.):] Domino Henricho Bullingero, pręconi evangelicae ve­ritatis, amico suo venerando apud Tigurum. Zurch.
+</content>
+</letter>

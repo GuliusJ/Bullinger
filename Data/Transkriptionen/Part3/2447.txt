@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2447">
+<brief>
+<id>16134</id>
+<nr>2447</nr>
+<ae>Leonhard Serin an Bullinger</ae>
+<od>Ulm, 13. Mai 1546</od>
+<vo>Autograph: Zürich StA, E II 356, 56 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 89; Erw. Fast, Reublin 421 (A 6) </k></dr>
+<re>Um nicht als Schmeichler zu erscheinen, verschweigt Serin seine Freude über den ihm von Wilhelm [Reublin] in Znaim ausgehändigten Brief Bullingers [Nr. 2246], dem die ["Orthodoxa Tigurinae ecclesiae confessio"] beigelegt war. Durch [Reublin], der alles Weitere berichten kann, will Serin es nun nicht versäumen, wenigstens einen Gruß schriftlich auszurichten, damit die Zürcher nicht denken, er wäre wegen ihrer Schriften aufgebracht.
+<t/>Grüße.
+<t/>[P.S.:] Sollte Bullinger Zeit haben, [Reublin] einen Brief mitzugeben, würde Serin sich freuen.</re>
+<text>
+<p>Salve plurimum, frater dilectissime in Christo Iesu, domino et servatore nostro. Literas tuas una cum libello
+<fn>Bullingers Brief vom 18. September 1545 (<a>HBBW</a> XV, Nr. 2246) und die ihm beigelegte "Orthodoxa Tigurinae ecclesiae confessio" von März 1545; s. <a>HBBW</a> XV 532,23f.</fn> mihi acceptissimo Guilielmus
+<fn>Wilhelm Reublin (s. <a>HBBW</a> XV 458, Anm. 16), der auch den vorliegenden Brief übermittelte; s. unten Z. <qv>zl2447-1</qv>.</fn> Znaym{e}
+<fn>Znojmo, Mähren (Tschechien).</fn> mihi obtulit. Qu{e} omnia quanto desyderio expectarim quantoque cum gaudio atque gloriatione etiam exceperim et exosculatus fuerim, non dicam, ne quid adulari videar. Atque h{e}c tantum nunc scribere licuit imprimisque oportuit, ne scriptis vestris, optimi fratres, ita videar offensus aut exacerbatus, <zzl>zl2447-1A</zzl>ut per commodum etiam nuncium fraterne salutare vos posthac dedigner. C{e}terum, ut res me{e} se habeant, Guilielmus narrare poterit.<zzl>zl2447-1E</zzl></p>
+<p>Vale quam optime, mi Bullingere, una cum symmystis omnibus totaque ecclesia, et domino Iesu per orationem me commendate.</p>
+<p>Ulm{e} Svevorum, 13. maii anno, etc., 46. Raptim.</p>
+<un>Leonhartus Soerinus.</un>
+<lz/>
+<p>Si rescribere vacat, pergratum est; sed et fiat per hunc ipsum tabellarium.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Heynrycho Bullingero, ecclesi{e} Tigurin{e} episcopo, fratri in Christo dilecto et colendo.<k>Hinweis: Bürgermeister und Rat von Znaym (Znoymo): Zeugnis für Leonhard Serin/Soerinus zu St. Niklaus in Znaym, 28. Januar 1546, (Incipit:) "... Wir haben ewr schreiben seines innhalts..."; Original: Basel UB, G I 26, 24-25, Nr. 32; Kopie: ebd., AG V 2, 34v.-35v.</k></p>
+</text>
+</brief>

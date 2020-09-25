@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1041">
+<nr>1041</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>kurz vor 10. September 1537]</date>
+	<note>Am 10. September trafen Grynäus und Myconius mit Bucer und Capito in Bern ein (s. ^#/+Straßer^#/- 133).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 186 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Wird auf Geheiß des Rates zusammen mit Myconius Bucer und Capito nach Bern begleiten, wo man, da Luthers Antwort noch aussteht, kaum über [das Abendmahl], wohl aber über den Streit um Bucer verhandeln wird; ob eine Einigung mit Luther möglich ist, bleibt abzuwarten. Mehr soll hinter dieser Reise
+nicht vermutet werden. Gruß.
+</re>
+<tx>S. Cupio te valere, vigere ac crescere florereque in domino.
+^$Bucerus cum Capitone profecturus his diebus Bernam <gr>ăpologizómenow</gr> apud senatum nostrum literis<f1>Nicht erhalten.<fe> effecit, ut Myconius et ego
+eodem una proficisceremur, ac impetravit, arbitror; sic enim nostris videri video. De eo articulo, in quo nobis cum Luthero dissensio est, nihil agetur, puto. Non enim potest, prius ille ad confessionem
+nostram respondet<f1>Luther antwortete erst am 1. Dezember auf das Schreiben der reformierten Städte der Eidgenossenschaft vom 12. Januar; s. WA Briefwechsel VIII 149-153, Nr. 3191.<fe>. Sed quia gravis est de Bucero querela et gravis etiam inter fratres dissensio, erit, arbitror, non inutile, si
+illi sententiam suam nobiscum suspendant tantisper, dum a Luthero
+respondeatur ac liquidum fiat, conveniat nec ne. Certe reclamare studio eorum, qui conciliare ecclesiam tempore tam periculoso cupiunt, nulla ratione possumus, antequam manifeste constet aut ipsos
+nobis aut nos ipsis tollerabiles non esse. Siquidem potior esse veritas omni necessitudinis vinculo debet.
+^$Hac de re scribere ad te volui, ne eo nos profectos esse intelligens aliud institui putares.
+Officii<fx>^#/+nach ^#/-Officii^#/+ gestrichenes ^#/-gratia.<fe> senatus nos noster illis magis quam negotii gratia adiungit.
+^$Tu interea valebis cum charissimis fratribus, quos diligenter in domino mihi salutabis.<un>Gryneus tuus<un>semper in domino.
+<lz>[Adresse auf der Rückseite:] Domino Bullingero, amico charissimo. Tyguri.
+</content>
+</letter>

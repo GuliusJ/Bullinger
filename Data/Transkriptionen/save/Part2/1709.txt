@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1709">
+<nr>1709</nr>
+<correspondents>
+	<originator fn=1>Johannes Piscatorius</originator>
+	<addressee>Konrad Pellikan</addressee>
+	<addressee>Bullinger</addressee>
+	<addressee>Theodor Bibliander</addressee>
+	<addressee>Erasmus Schmid</addressee>
+	<note fn=1>Johannes Piscatorius (Fischer) Lithopoli­tanus (d. h. von Stein am Rhein) trat jung in den Ulmer Dominikanerkonvent ein und ist vielleicht identisch mit jenem Johannes Piscatoris de Ulma, der sich 1500 als Student in
+Basel immatrikulierte. Nachdem er das Kloster verlassen hatte, wohnte er 1526 der Badener Disputation bei, über die er unter
+dem Pseudonym Antonius Halieus einen Bericht verfasste (VD 16 H 4105 [mit falscher Zuschreibung]; Oekolampad BA I 398).
+Zeitweise hielt er sich in Oberstdorf (Oberallgäu) und in der Gegend von Augsburg auf, bevor er
+1529-1532 als Pfarrer in Mammern (Kt. Thurgau, unweit von Stein) wirkte. Anschließend war er Pfarrer in Bernstadt und
+spätestens ab 1536 in Unterbalzheim (beide Alb-Donau-Kr., Baden-Württemberg). 1546 wurde er zum Missfallen von Martin
+Frecht (vgl. auch Vadian BW VI 544f) nach Ulm berufen. 1548 begab er sich ins württembergische Urach (s. Leonhard
+Serin/Soerinus an Bullinger, 6. Februar 1548, Zürich StA, E II 364, 110f), wo er aber wegen des Interims keine bleibende
+Stellung fand; auch als Pfarrer von Pfullingen (Kr. Reutlingen) konnte er sich 1549 nur wenige Monate halten. 1551 reiste er
+auf der Suche nach einer neuen Anstellung von Stein aus vergeblich nach Bern (s. Johannes Haller an Bullinger, 28. Mai
+1551, Zürich StA, E II 370, 138f). Offenbar ist er identisch mit jenem Hans Fischer aus Stein, der Ende 1551
+Pfarrer im zürcherischen Marthalen wurde, nachdem er einige Zeit zu St. Johann auf Burg (bei Stein) gepredigt hatte; 1556 wurde er nach Bülach und 1558 nach Berg (Kt. Zürich) versetzt, wo er am 24. Juni 1565 starb (s. Zürich StA, E I 30. 75, Nr. 8f; G I 179, f. 51v. 63v. 99r.).
+^&x1554 lebte er noch (s. Epitome Bibliothecae Conradi Gesneri, conscripta primum a Conrado Lycosthene [...], nunc denuo recognita [...] per Iosiam Simlerum [...], Zürich 1555, S. 107).^&x{
+Außer den unten Anm. 3 genannten Schriften verfasste er auch eine Kompilation zur türkischen Geschichte (VD 16 P 2980f). -
+Lit.: Friedrich ^#/+Keidel,^#/- Johannes Piskatorius, in: BWKG VI, 1902, S. 143-178 (mit Nachtrag in: BWKG VII, 1903, S. 189f);
+J[ohannes] ^#/+Haußleiter,^#/- Des Johannes Piscatorius Lehre vom Abendmahl, in: BWKG VIII, 1904, S. 61-65; Ernst
+^#/+Stae­helin,^#/- Zwei private Publikationen über die Badener Disputation und ihre Autoren, in: ZKG XXXVII, 1918, S. 378-405;
+Pfarrerbuch 273; Bernhard ^#/+Appenzeller,^#/- Die Münsterprediger bis zum Übergang Ulms an Württemberg 1810, Weißenhorn 1990. - Veröffentlichungen der Stadtbibliothek Ulm 13, S. 38-41, Nr. 29.
+^&xBlarer BW I 426; II 41. 288 Z VIII 610. 1548 immatrikulierte sich in Tübingen ein "Joannes Piscatorius Uracensis" (s.
+Tübingen, Matrikel I 335 [129, Nr. 51]) und 1551 in Wien ein "Joannes Piscatorius Litopolitanus Sueuus" (s. Wien, Matrikel II 94 [1551 I R 7]) - vermutlich ein Sohn unseres Briefschreibers.^&x{</note>
+</correspondents>
+<space_time>
+	<place>Balzheim</place>
+	<date>3. Januar 1543</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms F 42, 224-226 (Siegelspur)<fx>^#/+Mit Unterstreichungen und Randbemerkungen von J. H. Hottinger.^#/-<fe>:</vo>
+<dr>Ungedruckt</dr>
+<re>Hat nach dem Vorbild von Beda [Venerabilis] aus den Werken Augustins die Kommentare zum Matthäusevangelium ausgezogen und
+ist von [Christoph] Froschauer gebeten worden, dieses Werk bei ihm drucken zu lassen; übersendet die ersten 14 Kapitel, bittet
+um ihr Urteil und stellt es ihnen frei, seine Arbeit zu verbessern. Hat theologisch anstößige Stellen mit aufgenommen,
+um nicht der Fälschung bezichtigt zu werden, hat aber nichts Eigenes beigefügt, sondern den Text nur mit Zitaten aus
+Plinius, Gellius, Ambrosius, Valerius [Maximus], Boccaccio, [Flavius] Josephus und der Kirchengeschichte [von Eusebius?] angereichert und, wo sich Gelegenheit bot, auf die Sektierer
+der Gegenwart zugespitzt. Würde gerne einem eventuellen Ruf in die alte Heimat folgen, vorausgesetzt, dass sich seine Lage dabei nicht verschlechtert. Gruß.
+</re>
+<tx>Collegi, viri praestantissimi, Herculeis quidem
+laboribus<f1>Adagia, 3, 1, 1 (LB II 707).<fe>, quod profecto ipsa veritate comprobaturos vos
+certo mihi persuadeo, divi Augustini, quae hinc inde
+sparsim in infinito operum suorum mare in evangelium beati
+Mathaei apostoli scripsit commentaria,<f1>Von Piscatorius war bereits 1537 bei Heinrich Steiner in Augsburg eine "Epitome"
+der Werke Augustins erschienen (VD 16 A 4156), für die er sich in einem 1538 gedruckten Brief (VD 16 P 2978) rechtfertigte und
+die - z. T. in konfessionell bedingter Bearbeitung - noch mehrfach aufgelegt wurde (vgl. Olivier ^#/+Fatio,^#/- Un
+florilège augustinien du XVI^#'e siècle: l'^#/+Omnium operum Divi Augustini Epitome^#/- de Johannes Piscatorius [1537], in: Revue
+des Études Augustiniennes XVIII, 1972, S. 194-202). Die Catena zum Matthäusevangelium blieb entgegen den in diesem Brief
+geäußerten Plänen ungedruckt, doch erschien 1544 ebenfalls bei Steiner in Augsburg die gegen Schwenckfeld gerichtete Schrift
+"Ex immaculata semper virgine Maria Christum [...] veram humanam assumpsisse creaturam multis [...] ex divo Augustino
+probatur rationibus" (VD 16 A 4162 = P 2979).<fe> tumultuaria licet congerie et emendicato ordine, eruditis tamen et rudibus
+illis meis sudoribus consultum perinde cupiens, doctissimum
+Bedam<f1>Beda Venerabilis, 673/674-735, ein Mönch aus Northumbrien, zählt zu den bedeutendsten Gelehrten des frühen
+Mittelalters. Neben seinem Hauptwerk, der "Historia ecclesiastica gentis Anglorum", verfasste er zahlreiche
+theologisch-exegetische Werke, grammatische Handbücher sowie Schriften zur Chronologie und Kosmographie. - Lit.: H.
+^#/+Bacht^#/- u. a. in: LMA I 1774-1779.<fe>, Anglum illum Augustini studiosissimum longe q[uasi] sequens imitatus, quem
+hoc ipsum in Paulum olim molitum esse atque summa cum dexteritate et ingenii felicitate non sine maxima cum laude factitasse testantur lucubrationes suę.<f1>Gemeint sind die
+"Collectanea in epistolas Pauli" des Florus von Lyon (MPL CXIX 279-420), die des Öfteren Beda Venerabilis zugeschrieben
+wurden.^&xvgl. Stegmüller, Rep. bibl. II (Madrid 1950), Nr. 2276-2290^&x{<fe> Quapropter multum eidem eti­­am pro evo nostro debemus. De illis igitur ipsis superioribus diebus Fro­­sch­ouerum
+certiorem reddidi,<f1>Weder der Brief von Piscatorius an Christoph Froschauer noch dessen Antwort ist erhalten.<fe> qui vicissim mihi rescribens obnixius me
+pręcatus atque contestatus est, suo ut illa dignarer
+proelo. Ad quod tum propter suam in hac re vigilantiam
+diligentiamque, tum propter litterarum suarum et characterum
+voenustatem<fx>^#/+Die Ligaturen æ und œ lassen sich bei Piscatorius nicht immer klar unterscheiden.^#/-<fe> eggregiam ultroneum me habebit et nullo pacto
+obstrepentem, hac tamen lege, ut meritis et conatibus
+nostris respondeat et vices rependat, quamvis in integrum
+restituere non possit. Sed quid multis moror? Paucis
+accipite, ornatissimi patres, quid velim: Per praesentium
+latorem<f1>Unbekannt.<fe>, quod et Froschouerus votis omnibus voluit et a me ef­flagitavit, 14 illorum capita duobus primis
+libris complexa, potiorem quidem operis partem, vestris
+praestantiis transmitto, ut vel a vobis admittantur vel
+improbentur. Ex quibus etiam cętera facile colligi atque
+metiri possunt. Residuum vero operis ipse ego mecum, ubi ad
+opus illud perficiendum eum se accingere comperero, sum
+allaturus asportaturusque. Propterea vestras integritates
+per deum oro atque obsecro illis oculos accommodare
+vestros, illa, dico, manibus convolvere vestris, ne vobis grave
+atque oneri sit. Quodsi deinceps illud omnium vestrum
+calculo ad nominis Christi gloriam et dei optimi maximi
+laudem promovendam aliquid conferre, si inquam ad
+ecclęsię suę aedificationem commodumque (propter quam,
+si necessitudo exigeret, ad aras usque<f1>D. h. bis an die Grenze des Zulässigen; s. Adagia, 3, 2, 10 (LB II
+748).<fe> periclitaturos vos scio extremaque attentaturos) quippiam conducere aestimaveritis iudicaveritisque, ut
+ędatur, in lucem exeat, mundi iudicia subeat, non refragor. Sin autem factu minus opus esse arbitrabimini, supprimatur,
+in­anescat, flaccescat pulvereoque situ squaleat<f1>Vgl. Cyprian, Ad Demetrianum, 7, 120 (CChr III A 38).<fe> et pereat. Sit interim totius negotii ratio in vestra[s]<fx-t>^#/+Rand beschädigt.^#/-<fe> humanitates, a quibus
+pendebit, quicquid illud est, reiecta. Poteritis proinde
+huic addere, demere, supplere, quod deesse videtur, mutar[e]<fx-x>^#/+Rand beschädigt.^#/-<fe>,
+quod perperam positum est, transponere et salvo Augustino
+inverter[e]<fx-x>^#/+Rand beschädigt.^#/-<fe> et, ut summatim perstringam, ad arbitrium vestrum
+cuncta simul ordinare et face[re]<fx-x>^#/+Rand beschädigt.^#/-<fe>. <vl>225</vl> Et licet nullum in his conscribendis non moverim lapidem<f1>Adagia, 1, 4, 30 (LB II 161f).<fe> neque prima facie, ut aederentur, animus fuerit,
+nolui tamen etiam nunc sine vestra censura, consilio et adprobatione id fieret, quos in hac re
+emunctiores, vigilantiores oculatioresque mundus non habet.
+^$Deinde, quod vestras pietates latere nolo, inserui,
+aggessi atque transcripsi quędam, quę humanitus ob
+iniuriam atque malitiam suę tempestatis Augustinum fuisse
+hallucinatum in professo est, sicuti est de auriculari
+confessione locus, de quadragesimalis ieiunii observatione,
+de cura item pro mortuis gerenda, ad quę ut nullo modo
+scripturas retorquet reflectitque, ita cum nemine super his
+pugnaciter contendit atque agit, sed illa patribus accepta
+reffert, consuętudinem esse ecclęsię sinit,
+traditionem necnon instituta esse sinodalium conciliorum
+permittit. Denique illa omnia emunctę naris<f1>Adagia, 2, 8, 59 (LB II 652f).<fe> ho­minibus atque viris peritis nihil
+incommodare video. Potissime autem a me ob id factum est, ne falsitatis, imposturę corruptionisque a Momis<f1>Momus: die
+personifizierte Tadelsucht; vgl. Adagia, 1, 5, 74 (LB II 210f).<fe>, papistis et criticis accusarer insimularerque.
+Postremo, quod ad me attinet, credite vera loquenti me nec verbulum quidem de meo addidisse, paucissimis interim ex aliis
+selectis atque comportatis, ut est natura serpentis et conditio synapis ex Plinio<f1>Von Schlangen ist in der "Naturalis
+historia" von Pliniusd. Ä. oft die Rede; auf welche Stelle sich Piscatorius bezieht, bleibt offen. Zum
+Senf s. besonders Nat. hist. 19, 170f; 20, 236-240.<fe>, Arionis<f1>Der Sänger Arion aus Lesbos wurde, wie Herodot
+erzählt, von einem Delphin gerettet, nachdem ihn Seeleute gezwungen hatten, ins Meer zu springen; s. Emmet
+^#/+Robbins,^#/- in: DNP I 1083f.<fe>, nobilis illius fidicenis, historia Ionę<f1>Gemeint ist der biblische Prophet
+Jona.<fe> mergulo ad con­tundendum gentilium errorem ex Gellio<f1>Aulus Gellius, Noctes Atticae, 16, 19. - Gellius,
+geb. vermutlich in Rom zwischen 125 und 130 n. Chr., unternahm wohl 147/148 eine Bildungsreise nach Griechenland. Darauf spielt
+auch der Titel seines Miszellanwerks an, das im Humanismus modellhaft weiterwirkte. Bullinger schätzte es sehr, ebenso wie
+vor ihm schon Erasmus; vgl. HBSR II 135f. - Lit.: Helmut ^#/+Krasser,^#/- in: DNP IV 896f.<fe> comparata suffurataque,
+genealogia deinde atque ortum senioris et nequioris illius Herodis<f1>Herodes I.d. Gr., geb. um 73 v. Chr. als Sohn des
+idumäischen Verwalters Antipatros, gest. 4 v. Chr., wurde vom römischen Senat im Jahr 40 v. Chr. zum König von Judäa ernannt. Seine hellenistische Prägung und die brutale Austragung von
+Herrschaftskonflikten machten ihn besonders in frommen jüdischen Kreisen verhasst. - Lit.: Klaus ^#/+Bringmann,^#/- in: DNP V 458-460.<fe> ex Ambrosio<f1>Ambrosius, Expositio evangelii
+secundum Lucam, 3, 41 (CChr XIV 98, 705-718).<fe> nonnihil ad chordam pertinens<f1>zur Sache gehörend; vgl. Adagia, 1, 5, 46 (LB II 200).<fe>, preterea
+Portii Catonis<f1>M. Porcius Cato (Catod. Ä.), genannt Censorius, 234-149 v. Chr., zeichnete sich als Zensor durch große Strenge aus. Der tatkräftige Politiker, der sich in zahlreichen Prozessen und politischen Händeln engagierte, gilt als Begründer der römischen Prosaliteratur. - Lit.: Wilhelm ^#/+Kierdorf,^#/- in:
+DNP II 1033-1035.<fe> severa in Lucium Flamminium<f1>L. Quinctius Flaminius nahm 198-194 v. Chr. am Feldzug seines
+Bruders Titus nach Griechenland teil und war 192 Konsul. 184 strich ihn der Zensor Cato aus der Senatsliste, weil er eine Hinrichtung angeordnet hatte, um den Wunsch eines Günstlings zu erfüllen. - Lit.: Tassilo ^#/+Schmitt,^#/- in: DNP X 708f.<fe>
+censura ex Valerio<f1>Valerius Maximus, Facta et dicta memo­ra­bilia, 2, 9, 2. - Valerius Maximus verfasste eine historische Exempla-Sammlung, die er Kaiser Tiberius (gest. 37
+n. Chr.) widmete und die im Mittelalter stark rezipiert wurde. Auch Bullinger verwendete sie; vgl. etwa HBSR II 279. - Lit.: Jörg ^#/+Rüpke,^#/- in: DNP XII/1 1116f.<fe> addita, ex Ioanne
+Boccatio<f1>Giovanni Boccaccio, 1313-1375, italienischer Humanist und Novellist, Verfasser des "Decamerone". - Lit.:
+Amalia ^#/+Barigozzi Brini^#/- und Paola ^#/+Lavagetto Ceschi,^#/- in: DBI X 838-857.<fe> in impudicas foeminas occasione
+Herodiadis<f1>Herodias, die Enkelin von Herodes I. gab nach Mt 14, 1-12 par. den Anstoß zur Enthauptung von Johannes dem Täufer, da
+dieser ihre unrechtmäßige Ehe mit Herodes Antipas kritisiert hatte. - Lit.: Johannes ^#/+Pahlitzsch^#/- in: DNP V 467f.<fe>
+exclamatio<f1>Auf Herodias geht Boccaccio nicht näher ein; welche Äußerung Piscatorius im Zusammenhang mit der genannten
+Matthäus-Stelle zitierte, bleibt deshalb unklar.^&xvielleicht das Kapitel "In mulieres" aus Boccaccios "De casibus virorum
+illustrium", 1, 18 (Giovanni Boccaccio, Tutte le opere, a cura di Vittore Branca, Bd. IX, Milano 1983. - I classici Mondadori, S. 90-101).^&x{<fe>
+et demum nonnulla ex Iosepho<f1>Flavius Josephus.<fe> et ecclesiastica historia<f1>Gedacht ist vielleicht an die
+"Historia ecclesiastica" des Eusebius von Caesarea.<fe>. Quę omnia lectoris pii soe­dulitas gnaviter offendet deprehendetque in nullius rei pręiudicium, sed ut textus illustrior
+clariorque redderetur, accoessisse. Stilum interdum atque
+aciem de composito, maxime cum ansa mihi daretur et
+necessitas postulabat, in sectarios nostrę tempestatis
+dirigens sepius, namque infames paligami[!]<f1>Gemeint sind wohl die Verteidiger der Doppelehe des Landgrafen Philipp von
+Hessen, etwa Johannes Lening (vgl. unten Nr. 1710).<fe>, seditiosi anabaptistę, novi Schwenckfeldiani Manichei,
+detestandi schismatici impii­que papistę negotium facescere nobis omnibus etiam nunc non desistunt. Ad quorum refellendos
+atque eliminandos pestiferos errores conspiratis calamis nos
+agere necessum erit.
+^$Caeterum, viri clarissimi, quam libenter castrorum
+vestrorum commilitonem<f1>Vgl. Seneca, De ira, 1, 18, 4.<fe> agere vellem, difficile affatu est;
+hactenus etenim commigrationis ad vos agendę nulla sese
+voluit offerre oportunitas. Tametsi <vl>226</vl> herus atque collator<f1>Seit 1539 war Hans Ehinger von Ulm (gest. 1583)
+alleiniger Inhaber der Herrschaft Balzheim und Patronatsherr; s. Der Alb-Donau-Kreis, Bd. I, Sigmaringen 1989. -
+Kreisbeschreibungen des Landes Baden-Württemberg, S. 527. 533; Reinhard H. ^#/+Seitz,^#/- Die Ehinger als Inhaber der Herrschaft
+Großkötz 1367-1743, in: Chronik der Gemeinde Kötz, hg. v. Bruno Merk, Kötz 1997, S. 67-136 (hier S. 105).<fe> mihi sit optimus et in omnibus propicius, plaebecula satis bona, conditio haud poenitenda, tamen
+^$"nescio qua natale solum dulcedine cunctos
+^$ducit et immemores non sinit esse sui."<f1>Ovid, Epistulae ex Ponto, 1, 3, 35f.<fe>
+^$Qua propter, si apud vos locus esset vacans et congruus
+fieretque vobis impulsoribus, ut iusta magistratus vocatione
+vocarer, haberetis me in procinctu et in omnibus vobis
+obsequentissimum et pacis atque unitatis studiosissimum.
+Vestrum interim erit curare, ut cum gaudio munus atque
+provinciam verbi subeam, et ne incidam in Scillam cupiens
+vitare Charibdim<f1>Walter von Châtillon, Alexandreis, 5, 301; vgl. Adagia, 1, 5, 4 (LB II 183).<fe>, summopere cavendum. Ego
+namque exoticis atque operosioribus adeo divexor premorque decimarum exactionibus, ut tempus etiam ad studia suffurari me
+necessum sit. Preterea ne Glaucina fiat permutatio<f1>Glaukos tauschte seine goldene Rüstung gegen die bronzene des Diomedes; s. Homer, Ilias, 6, 235; vgl. Adagia, 1, 2, 1 (LB II 68f).^&xOtto 82f, Nr. 384^&x{<fe> et ne
+mihi contingat, quod Aesopicę caniculę<f1>Der nach dem Schatten schnappende Hund verliert sein Fleischstück; s.
+Aesop, Fabulae, 136 (Corpus fabularum Aesopicarum, vol. I, ed. Augustus Hausrath, Leipzig 1957, Fasc. 1, S. 161f).<fe>, videndum erit. Quę omnia vestris charitatibus concrędenda
+committendaque haud ab re esse censui. Nec est, quod male de
+vobis venerabilibus viris atque charissimis meis fratribus
+ominer, imo quęque bona iam pridem de vobis mihi ipsi
+pollicitus sum. Faxit deus, ut omnia ad suam gloriam et
+omnipotentiam refferantur et cędant. De illis igitur
+rebus omnibus, si licebit vobis per occupationes, animos
+vestros mihi insinuetis, precor.
+^$Valete et me defensum conservatumque in album aliquando
+vestrorum ascitum pergite. Salutate invicem amanter.
+^$Raptim, ex aedibus nostris in Baltzsa Ehingerorum<f1>Die Herrschaft Balzheim gehörte seit 1490 dem Ulmer Patriziergeschlecht Ehinger; vgl. oben Anm. 30.<fe>, 3. ianuarii anno salutis etc. 43.
+<un>Totus
+<un>vester
+<un>Ioannes Piscatorius
+<un>Litopolitanus, verbi minister
+<un>in Baltzsa.
+<lz>[Adresse auf der Rückseite:] Eximia pietate et eruditione
+clarissimis viris et dominis Cuͦnrado Pellicano, Heinricho
+Bullingero, Theodoro Bibliandro, Erasmo Fabricio, insignis
+ecclęsię Tigurinę ministris integerrimis, dominis et
+fratribus suis colendissimis.
+</content>
+</letter>

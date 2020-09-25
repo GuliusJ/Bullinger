@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="22131">
+<nr>22131</nr>
+<correspondents>
+	<originator>Pier Paolo Vergerio</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Vicosoprano</place>
+	<date>27. Juni 1552</date>
+</space_time>
+<vo>Zürich StA, E II 356, 474.</vo>
+<dr>Gr. I, S. 255.</dr>
+<re></re>
+<note></note>
+Orig. Aut.
+Clarissime Bullingeri, hii omnes nunciabunt tibi de statu
+meo. Haec paucula scripsi, ne videar oblitus tui, quem
+tantopere amo et colo. Vale et salve cum tota familia,
+schola atque ecclesia. Dominus benedicat tuis laboribus,
+amen.
+Vicosoprani,  27. iunii 1552.
+Vergerius.
+Clarissimo virod. Henrico Bullingero.
+                 Tiguri.
+</content>
+</letter>

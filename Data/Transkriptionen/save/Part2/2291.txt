@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2291">
+<nr>2291</nr>
+<correspondents>
+	<originator>Claudius Pius Peutinger</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Augsburg</place>
+	<date>20. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 152 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 116; zu Dr. iur. Claudius Pius Peutinger vgl. ARG 25, 1929, 125f ^&x{
+<re>Es liegt an Musculus, dass Peutinger Bullingers Brief [nicht erhalten] nicht beantwortet und sich nicht für die ["Orthodoxa Tigurinae ecclesiae confessio"] bedankt hat. Auch Peutinger ist wegen des wieder ausgebrochenen schädlichen [Abendmahls]streits sehr beunruhigt. Keineswegs macht er aber die [Zürcher] dafür verantwortlich, zumal er ja auch das gehässige ["Kurtz bekentnis"] Luthers gelesen hat. Er ist aber der Meinung, dass Schweigen die beste Verteidigung gewesen wäre, zumal die Freunde ohnehin zu den früher publizierten Schriften Zugang haben und man sich auf diese Weise gegenüber dem [römischen] Feind keine Blöße gegeben hätte.
+-^#. Bullingers angebotene Freundschaft nimmt er übrigens gerne an.
+-^#. Grüße.</re>
+<tx>S. Musculus noster praestabit,<f1>Vgl. oben Nr. 2287, 2-11, wo Musculus erklärt, dass er durch Schweigen eine Fortentwicklung des unwillkommenen Streites zu verhindern versuche.<fe> quod hactenus neque literis tuis<f1>Nicht erhalten, aber oben in Nr. 2111, 10, erwähnt. - Dies ist der erste Brief von Claudius Pius Peutinger an Bullinger.<fe> responderim
+proque misso munusculo<f1>Die "Orthodoxa Tigurinae ecclesiae confessio"; s. oben Nr. 2111, 7-11; 2134 und Anm. 1.<fe> nullas habuerim gratias, quod mihi te, viro doctissimo, autore gratissimum fuit.
+Caeterum eo multum conturbatus sum, quod videam vulnus huius dissidii tanto publici negotii incommodo recrudescere;
+quod non dixerim culpa vestra fieri, qui amara Martini scripta<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> legerim,
+sed tamen utrinque caussa salva silentium optimae defensioni<fx>^#/+In der Vorlage^#/- optima defen.<fe> praestitisset, cum ea apud amicos
+non sit amplius opus, quod prioribus scriptis iuditia satis firmari<fx>firmari ^#/+korrigiert aus^#/- informari.<fe> possint.
+Apud inimicos autem tam nihil agimus quam nos, quam publicam evangelii caussam magis illorum libidini prostituimus;
+quae non ideo dixerim, ut, mid. Bullingere, qui in vestros huius mali caussam reiiciam, sed quod piis ac bonis viris
+ad concordiam atque publici negotii rationes utiles pro mea in deum et relligionem fide monitor esse cuperem.
+^$Praeterea amiciciam tuam gratissimam mihi esse scito, quam ego, cum expetere deberem,
+abs te humaniter oblatam<f1>Bei der Sendung der oben erwähnten Schrift; s. Anm. 3.<fe> promptissimo accipio animo, sincere et candide observabo.
+^$Bene vale.
+Ex Augusta, 20. novembris anno 1545.
+<un>Tuus Cl. P. Peutinger,
+<un>iuris consultus.
+<lz>[Adresse auf f. [153b]v.:]<fx>^#/+Papierverlust durch Entfernung des Siegels. Fehlender Text ergänzt in Anlehnung an die Adresse der zwei erhaltenen Briefe Peutingers an Bullinger.^#/-<fe> Doctissimo virod. Hainricho Bullingero, christianae pietatis [atque veri]tatis professori, amico [suo c]arissimo. Tiguri.<f1>Vorliegender Brief wie auch die Briefe Nr. 2287. 2289f. 2293-2296 wurden Bullinger durch Zwingli d.J. überbracht; s. oben Nr. 2290, 57f; unten 2302, 1-9; 2303.<fe>
+</content>
+</letter>

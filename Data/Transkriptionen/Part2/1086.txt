@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1086">
+<nr>1086</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>31. Dezember 1537</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms E 28, 121 (Siegelspur)</vo>
+<dr>Teildruck: ^#/+Hundeshagen^#/- 95, Anm. b </dr>
+<re>[Megander und seine Kollegen] haben ihr Trost- und Mahnschreiben mit großer Rührung gelesen. Er könnte aber ihrem Wunsch, in Bern
+auszuharren, selbst dann nicht entsprechen, wenn er nicht wegen des Katechismus entlassen worden wäre, da seine Gegner auch den
+längst erledigt geglaubten Streit um sein Verhalten zur Zeit des [Zweiten Kappeler-]Kriegs wieder aufleben lassen; hofft deshalb
+auf Billigung seines unverrückbaren Entschlusses, noch vor Lichtmeß nach Zürich zurückzukehren, und bittet nochmals um
+Bereitstellung einer Unterkunft.
+</re>
+<tx>Gratiam a domino.
+^$Amica vestra<f1>Der Brief, auf den sich Megander bezieht, ist nicht erhalten.<fe>, quę accepimus, suasoria, consolatoria
+vel expostulatoria, quam fuerint omnibus nobis grata, verbis eloqui non potest; sine lachrimis enim ingentibus
+a nobis legi non potuere. Verum esse experti sumus, quod proverbio dicitur<f1>Vgl. Wander I 1174, Nr. 58; 1183f, Nr. 252f; V 1278, Nr. 618; Otto 21f, Nr. 92.<fe>: "Amici fides rebus in adversis exploratur."
+^$Cęterum, quod ad rem et negocium ipsum attinet: Non sum nescius me maxime
+quidem decere, ut hac eciam vice petentibus vobis parerem moremque gererem, diutius scilicet Bernę permanendo. At qum
+omnia adamussim, ut dicitur<f1>Vgl. Adagia, 1, 5, 90 (LB II 216).<fe>, expendo atque diiudico, tandem vincit,
+eciamsi liceret, diutius hic mihi nec durandum nec hęrendum esse. Neque id solum ob negocium catechizmique causam<f1>Siehe
+oben Nr. 1084, 2-8.<fe>, verum eciam propter ea, quę iam olim senatus populique decreto sopita et posita
+esse nemo non iudicat. Omnia enim, quę tempore deploratissimi belli nostri acta sunt<f1>Gegen Megander war am 2. Dezember 1531
+ein Predigtverbot ausgesprochen worden, weil er von der Kanzel herab die Haltung Berns im Zweiten Kappelerkrieg
+kritisiert hatte. Dank Capitos Vermittlung konnte der Streit am 12. Januar 1532 vor den beiden Räten beigelegt werden; s. Hans Rudolf ^#/+Lavater,^#/-
+Die "Verbesserung der Reformation" zu Bern, in: Der Berner Synodus von 1532. Edition und Abhandlungen zum Jubiläumsjahr
+1982, hg. v. Forschungsseminar für Reformationstheologie unter der Leitung von Gottfried W. Locher, Bd. II, Neukirchen-Vluyn
+1988, bes. S. 62-64. 74f. 87f. 106-108.<fe>,
+a quibusdam pacis publicae perturbatoribus refricantur ac recrudescunt. Etsi nemini mortalium non constet,
+quid actum, comissum et delictum sit, non tamen sine magno malo obiicere et obtrudere mihi conantur omnemque ita lapidem
+movent<f1>alles versuchen; vgl. Adagia, 1, 4, 30 (LB II 161).<fe>, quo se vel ulciscantur vel iustam missionis datę causam habere
+videantur. Quam­ob­rem consultum videtur non modo mihi, sed divinę glorię ecclesięque nostrę, eciamsi diutius
+hic durare et herere possem, ut semel hinc solvam ad vosque me recipiam. Oro
+igitur vos per dominum deum nostrum, ut in hoc me iuvetis vestroque consensu id fieri queat. Ratum, firmum et imutabile
+consilium hoc meum est. Praeter omnem itaque moram abitum meum maturabo.
+Curate, obsecro, quemadmodum postremis pluribus vos testatus sum<f1>Siehe zuletzt oben Nr. 1084, 13f.<fe>, ut domum et habitacionem habeam. Ego certe ad
+purificacionis usque<f1>bis Lichtmeß (2. Februar).<fe> cum omni suppellectili mea Tiguri ero.
+^$Valete itaque in domino, fratres mei charissimi.
+^$Bernę, decembris ultima anno 37.<un>Megand. totus vester.
+<lz>[Adresse auf der Rückseite:] Doctissimis iuxta ac piissimis Bullingero, Leoni Iudę, Tigurinę ecclesię verbi ministris, dominis ac fratribus suis in domino charissimis.
+^&x DEFINITIVE DATEN FÜR BULLINGER-BRIEFWECHSEL Bd. 8
+(ab Seite 25) ^&x{
+^&^&^&-25^&^&^&{
+</content>
+</letter>

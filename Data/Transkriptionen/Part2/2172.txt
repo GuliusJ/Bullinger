@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2172">
+<nr>2172</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>3. Juni 1545</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 40 ^$^$^$^$(Siegelabdruck)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 118 ^&x{
+<re>Johannes Stumpf kommt mit [den] 13 Büchern [seiner "Eidgenössischen Chronik"] zu Vadian, um ihm den Inhalt jedes dieser Bücher zu erklären, Vadians Meinung darüber einzuholen und die Werke beider<fx>^#/+In Vadian BW VI 420 ist^#/- utrinque ^#/+gemäß der Vorlage in^#/- utriusque ^#/+zu korrigieren.^#/-<fe> ohne widersprüchliche Aussagen hervorbringen zu können. Vadian möge sich für Stumpf Zeit nehmen und ihn freundlich empfangen.</re>
+<dra>[Gedruckt: Vadian BW VI 420, Nr. 1398; Teildruck: Vadian DHS II LIX.]</dra>
+^&x<tx>Gratiam et pacem a domino.
+^$Venit ad te, vir ornatissime, Ioannes Stumppffius<f1>Johannes Stumpf.<fe>, ac affert secum libros,
+quos consignavit 13, ostensurus tibi, quae habet, et collaturus, quae peculiariter quisque habeat,
+in quibus conveniat vobis, in quibus non conveniat, ut opus exeat utriusque per omnia sibi consentiens et simile.
+Non negabit illi tua humanitas tantillum temporis, imo oro illam, ut amice hominem piissimum et optimum excipiat et tractet amice.
+^$Vale et me semper ama, domine semper colendissime.
+^$Tiguri, 3. iunii anno 1545.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. d[octori] Ioachimo Vadiano, domino suo semper colendo. Sangallen.^&x{
+</content>
+</letter>

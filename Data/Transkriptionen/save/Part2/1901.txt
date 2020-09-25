@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1901">
+<nr>1901</nr>
+<correspondents>
+	<originator>Sixt Birck</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Augsburg</place>
+	<date>25. April [1544]</date>
+	<note>6 Jahre und 4 Monate nach der Einladung nach Zürich (s. unten Z. 1-3), welche Birck am 23. Januar [1538] brieflich verdankte (s. HBBW VIII 40-42, Nr. 1095). Auf den Erfolg seines Schauspiels "Susanna" vor 6 Jahren weist Birck auch im Vorwort zur lateinischen Neufassung seines Schauspiels "Judith" hin. Deren undatierte Erstausgabe ist demnach auf 1543 oder spätestens 1544 zu datieren; sie erschien bei Philipp Ulhart in Augsburg und enthält auch Rudolf Gwalthers 1543 erstmals gedruckte "Argumenta in librum Iudith" (s. BZD C 322). Edition: Sixt ^#/+Birck,^#/- Sämtliche Dramen, hg. v. Manfred Brauneck, Bd. 2, Berlin-New York 1976, S. 273-437. Zur Erstausgabe s. ebd., S. 520.^&x BZD C 271 und F 19, sowie unten Nr. 000 [30. Sept. 1544].^&x{</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 189 (Siegelspur)</vo>
+^&xLit.: Blarer BW II 769; Bächtold 303; - undat. Brief 60^&x{
+<dr>Ungedruckt</dr>
+<re>Konnte vor sechs Jahren und vier Monaten der Einladung von Bullinger, [Konrad] Pellikan und [Georg] Binder zur Aufführung seiner "Susanna" nicht folgen, da der Brief erst am Tag der Aufführung eintraf. Sendet ein neues Werk ["Judith"], das vielleicht von der Zürcher Jugend aufgeführt werden kann; hat nichts gegen eine Drucklegung durch Christoph [Froschauer] einzuwenden und schickt deshalb ein gründlich durchkorrigiertes, gedrucktes Exemplar davon. Grüße.
+</re>
+<tx>S[alutem] d[ico]. Sex anni iam et quatuor praeterea menses
+abiverunt, vir doctissime, ex quo a te literas accepi, quae me Tygurum ad Susannae nostrae actum invitabant.<f1>Das Einladungsschreiben ist nicht erhalten, wohl aber Bircks Antwort (s. oben Anm. 1).<fe> Erant hae
+nomine partim tuo, partim domini Pellicani, praeceptoris mei
+colendissimi, et Binderi, paedodidascali vestri nomine
+scriptae. Erat ea res mihi pergrata, impossibile tamen, ut
+Tygurum adirem spectatum, quum eo die ageretur
+ludus, quo ego literas vestras acceperam.
+^$Ecce tibi, mitto tibi aliud drama<f1>Gemeint ist Bircks "Judith" (s. oben Anm. 1). Am 30. April sandte Birck auch an Ambrosius Blarer ein korrigiertes Büchlein; s. Blarer BW II 254, Nr. 1081. Auch der vorliegende Brief mit der Beilage wurde von Blarer nach Zürich weitergeleitet (s. unten Nr. 1906, Anm. 39). - Siehe ferner unten Nr. 2000, 6-13.<fe> huic tempori meo iudicio
+non incongruum, si id etiam forte iuventus vestra actura
+sit.<f1>Über eine eventuelle Aufführung von Bircks "Judith" in Zürich liegen keine Nachrichten vor.<fe> Mitto unum dumtaxat vobis exemplar, quia non minus bene
+quam illud<f1>Bircks Schauspiel "Susanna".<fe> correctum est, licet ipse prelo diligentissime advigilaverim. Si hoc itaque, ut illud<f1>Bircks "Susanna" war 1538 von Christoph Froschauer gedruckt worden; s. BZD C 271.<fe>, Christophori prelo
+committere volueritis<f1>Das Schauspiel "Judith" erschien in Zürich weder auf Latein noch in Deutsch. - Birck bemängelt hier die Qualität des gerade erschienenen Druckes (Z. 9f; vgl. Blarer BW II 254). Weil die sorgfältige Eintragung handschriftlicher Korrekturen im fehlerhaften, kurz zuvor gedruckten Exemplar dieser Schrift wohl viel Zeit beanspruchte, schickte er nach Zürich nur ein korrigiertes Exemplar davon, das Froschauer ebenfalls als Vorlage zu einem Neudruck hätte verwenden dürfen.<fe>, nihil repugnabo; nam ob hoc ipsum
+tibi exemplum lituris conspersum mitto. Rogo tuam
+humanitatem, ut aequi bonique consulas.
+^$Dominum patrem Pellicanum atque etiam Binderum nomine meo
+salutato et eos insuper, cum quibus mihi nulla prorsus
+hactenus familiaritas intercessit, ne scriptis quidem,
+Bibliandrum, Calvinum, Gvalterum et alios pios doctosque
+vestrates, quorum nomina colo et veneror etiam absens et
+ignotus.
+^$Vale bene.
+^$Ex Augusta Vindelicorum, 7. calendas maii.
+<un>T[uae] d[ominationi]
+<un>deditissimus X[ystus] Betuleius.
+<lz>[Adresse auf der Rückseite:] Doctissimo piissimoque viro domino Heinrico Bullingero, Tygurinae ecclesię antistiti, domino suo colendissimo. Tyguri.
+</content>
+</letter>

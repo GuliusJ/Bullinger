@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1697">
+<nr>1697</nr>
+<correspondents>
+	<originator>[Johannes Gast]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>[November/Dezember 1542]</date>
+	<note>Das Jahr ergibt sich aus der Bemerkung über die erhoffte Freigabe des Korans (unten Z. 5f). Die unter Umgehung der Zensur gedruckten Bücher waren am 30. August beschlagnahmt worden (vgl. oben
+Nr. 1657, Anm. 3). Der Brief kann allerdings nicht vor Eintreffen der Nachrichten über den gescheiterten Sturm auf Pest
+geschrieben worden sein (vgl. unten Z. 14-16), also frühestens kurz nach Anfang November (vgl. oben Nr.
+1686, 16-21; 1694, Anm. b). Terminus ante quo ist das Jahresende oder vielleicht schon der 7. Dezember, als der Rat
+die Freigabe des Korans unter bestimmten Bedingungen beschloss (vgl. unten Nr. 1703, bes. Anm. 5). Johann Jakob Simler stellte
+seine Abschrift dieses Briefs (Zürich ZB, Ms S 51, 208) wegen einer gleich lautenden Formulierung neben Gasts Brief an Konrad
+Hubert vom 22. September (Ms S 51, 209: "Insta, si quid potes, quo Oporinus suum recipiat Alcoranum invitis portis inferorum").</note>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkung von späterer Hand.^#/-<fe>: Zürich StA, E II 446, 337 (neu: 339) (Siegel)</vo>
+<vo>Kopie 18. Jh.: Zürich ZB, Ms S 51, 208 (zu: 22. Sept. 1542)</vo>
+<dr>Ungedruckt</dr>
+^&xErw.: Gast, Tagebuch 64 (Anm. 176), 88 (257), 96 (289).^&x{
+<re>Sendet Bullinger einen Taler und einen Halbtaler und bedauert, keine schöneren gefunden zu haben; hat von ihm 14
+Batzen für Bücher erhalten, weiß aber nicht mehr, ob er so viel dafür bezahlt hat. Vielleicht wird der [beschlagnahmte] Koran
+im neuen Jahr freigegeben. Die Graduierten bringen an der Universität wenig zustande; es fehlen Hörer, die theologische
+Lehre liegt darnieder, und man hat fast alles wieder eingeführt, was unter dem Papsttum üblich war. Die Niederlage
+gegen die Türken [vor Pest] war nicht abzuwenden, da Gott selbst gegen uns kämpft, wie Oekolampad in seiner Auslegung der Klagelieder Jeremias vorausgesagt hat. Grüße.
+</re>
+<tx>S. Mitto tibi hic talerum et dimidium, etsi velim omnia expressius esse efficta, sed nullos alios potui nancisci; ob
+id grato animo meum studium et diligentiam accipe. Accepi etiam 14 batziones pro libris. Timeo, ne plus miseris, quam ego adsignaverim;<f1>Der vorausgegangene Briefwechsel ist nicht erhalten.<fe> excidit enim, quid nam exposuerim.
+^$De Alcorano<f1>Vgl. oben Anm. 1.<fe> ne sis sollicitus; dominus forte dabit feliciora tempora futuro anno, ut manumittatur Alcoranum invitis inferorum portis.
+^$Regnant iam nostri graduati,<f1>Gast war einer der schärfsten Kritiker der in Basel sehr umstrittenen akademischen Grade und
+polemisierte mit Vorliebe gegen seinen 1540 zum Doktor der Theologie promovierten Kollegen Wolfgang Wissenburg; vgl. Gast, Tagebuch 63-65.<fe> etsi nihil promoveant. Scholae nostrae quotidie aliquid detrimenti accedit; auditores pauci,
+doctorum multitudo. Quicunque eleemosynam petit, illum mox adiurant, ut nomen det universitati, quo possent gloriari se
+habere saltem aliquos auditores<fx>auditores ^#/+am Rande nachgetragen, darüber gestrichenes^#/-
+discipulos.<fe>. Theologica lectio omnino friget pro dolor.<f1>Die Kritik richtet sich wohl vor allem gegen Wolfgang Wissenburg,
+den Nachfolger von Simon Grynäus als Professor für Neues Testament (vgl. Rudolf ^#/+Thommen,^#/- Geschichte der
+Universität Basel 1532-1632, Basel 1889, S. 114). Den durch Karlstadts Tod verwaisten Lehrstuhl für Altes Testament versah
+Sebastian Münster; vgl. oben Nr. 1601, 7-9; 1602, 31f; 1606, 30-32.<fe> Revocarunt
+nostri omnia fere, quę in papatu hactenus fuerunt, sed non video ullum fructum inde oriri. Dominus illis det mentem meliorem.
+^$A Turcica clade<f1>Vgl. oben Anm. 1.<fe> nostri non potuere cavere, quia dominus nobiscum pugnat. Id enim iam olim
+praedixit Oecolampadius, quum Threnos Hieremię interpretaretur.<f1>Oekolampad warnt in seiner Auslegung der
+Klagelieder Jeremias, Gott selbst werde sich gegen seine Kirche wenden, wenn diese ihm untreu sei; vgl. In Hieremiam prophetam
+commentariorum libri tres Ioannis Oecolampadii, Straßburg (Mathias Apiarius) 1533 (VD 16 B 3783), bes. f. 257r.-v., 259v.-260v.<fe> Video vaticinium verum fuisse.
+^$Vale in domino. Dominum Th[eodorum<f1>Theodor Bibliander.<fe> nom]ine<fx>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> meo salutabis et Pellicanum.
+^$S.<fx-t>^#/+Unterer Rand beschnitten; Ergänzung des fehlenden Textes nach der Abschrift Johann Jakob Simlers (vgl. oben Anm.
+1).^#/-<fe> Cos. et die.<f1>Die nur fragmentarisch überlieferte Zeile bleibt unverständlich.<fe>
+<un>Tuus Gastius.<fx-x>^#/+Unterer Rand beschnitten.^#/-<fe>
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, ecclesiae Tigurinae pastori vigilantissimo. Zurich.
+</content>
+</letter>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="18187">
+<nr>18187</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(...</place>
+	<date>10. August 1548)</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 809</vo>
+<dr>Bl. II, 727R.</dr>
+<re></re>
+<tx>
+S. Accepi etiam postremum epistolium, ubi sero domum redii incertus, an nuncius
+adhuc hic hereat; experiar tam mox. Tu ora pro nobis et ignosce, quod parcius
+scribo; nec enim possum plura, ut moriar etiam. Quę de consule nostro
+Gaisbergo scripsi, quod hinc fugerit, sic nunc re diligentius comperta emendo,
+ut scias ipsum facta sibi potestate demigrasse, quod langueat nec ad ullum usum
+utilis sit; sic enim nunc affirmant nonnulli.
+<un>Zelle ohne Datum, Unterschr.ift und Adresse
+<lz>[Adresse:]
+</content>
+</letter>

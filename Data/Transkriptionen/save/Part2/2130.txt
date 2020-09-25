@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2130">
+<nr>2130</nr>
+<correspondents>
+	<originator>Johann Leopold Frey</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Biel</place>
+	<date>8. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 312 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 45 ^&x{
+<re>Frey dankt für die Übersendung der Schrift ["Antiquissima fides" oder "Der alt gloub"]. Frey hat die Schrift an [Peter] Fuchs weitergegeben, da [Diethelm] Keller ihm schon ein ihm gewidmetes Exemplar davon geschickt hatte.
+-^#. Was die [protestantische] Sache angeht, so bedauert Frey den Wahnsinn des einst so wackeren Kämpfers für das Evangelium [Luther]. Die [katholischen] Gegner sind sich ihrer Sache sicher, zumal sie eine Umkehr bei den [Protestanten] wahrnehmen. Bullingers Landsmann [Johannes] Aal [in Solothurn] betont öfter von der Kanzel herab, dass die [Protestanten], die sich schon gegenseitig als Häretiker verbannen, sich mit ihren eigenen Waffen vernichten werden. Frey hat Bücher von [Aal] bei sich zu Hause; in ihnen ist Aal ganz und gar wiederzuerkennen. Frey ist aber der Meinung, dass diejenigen, die an den [Streitigkeiten der Protestanten] Anstoß nehmen, "Kinder der Verderbnis" sind. Maßgebend ist allein, selbst keinen Anstoß zu erregen. Er bewundert [in diesem Zusammenhang] die von Bullinger in seinen Schriften bewiesene Mäßigung.
+-^#. Auch Gwalther schreibt hervorragend. Seine ["Apologia"] wird in Biel bewundert.
+-^#. Am Vortag hat Freys Frau [...] einen Sohn zur Welt gebracht, der heute auf Wunsch der Schwiegermutter [...] auf den [Vor]namen des Schwiegervaters [Leonhard ...] getauft wurde. Frey geht es gut, auch wenn seine Verwandten [...] [wegen seiner protestantischen Gesinnung] verärgert bleiben. Bullinger soll beten, dass er ein treuer und standhafter Diener Gottes wird. Die unschlüssigen, benachbarten [Berner?] hassen [die Bieler], weil diese zur Wahrheit stehen. Frey konnte sich aber gegen den einen oder anderen mit Erfolg behaupten.
+-^#. Dass Frey so selten schreibt, ist auf den Mangel an zuverlässigen Boten zurückzuführen.
+-^#. Grüße, auch von [Valerius Göuffi], Michael [Schlatter] und [Jakob] Würben.</re>
+<tx>Gratiam [et]<fx>^#/+Papierbeschädigung; Fehlstellen ergänzt aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 57, 45).^#/-<fe> pacem a deo per Iesum Christum.
+^$Accepi, pater charissime, quem mihi libellum<f1>Aufgrund der Erwähnung Diethelm Kellers unten Z. 5 handelt es sich hier entweder um dessen im August 1544 erschienene lateinische Übersetzung "Antiquissima fides" (HBBibl I 103) von Bullingers Schrift "Der alt gloub" von 1537 oder um die deutsche Neuauflage von 1544 (HBBibl I 102); s. HBBW XIV 342, Anm. 13. 358f, 2-4.<fe> misisti, pro quo, quod ego retribuam, non habeo.
+Pergis tu me beneficiis pene obruere, ego tibi obligari. Dominus, cui vivimus, ipse retribuat.
+Verum tamen libellum istum (quia similemd. Ioannes Cellarius<f1>Gemeint ist wohl Diethelm Keller, wie schon oben Nr. 2061, 28 und Anm. 21.<fe> suo chirographo signatum miserat)
+Vulpio meo<f1>Peter Fuchs.<fe>, cui legendum concedere iubebas, tuo nomine donavi simulque scripta tua<f1>Bullingers nicht erhaltener Brief.<fe> ostendi.
+^$Quod ipsam causam<f1>Die Sache der Protestanten bzw. den innerprotestantischen Streit.<fe> attinet, deploro ego strenuissimi illius olim in evangelio domini militis<f1>Luther.<fe>
+insignem dementiam, qui, quod vix ędificarat, tanta nunc animi impotentia demolitur.
+Paulus, quae destruxerat, totis postea viribus restituisse in integrum legitur. Hic<f1>Luther.<fe> contra tendit.
+Quid iam adversarii nostri? Putant suam causam esse optimam, cum nos paulatim redeuntes cernunt.<f1>Siehe hierzu z.B. die Meinung des Augustiners Johann Hofmeister in HBBW XIV 27f. 466 und Anm. 25.<fe>
+Tuum certe conterraneum Anguillam<f1>Johannes Aal, der aus Bremgarten stammte; s. oben Nr. 2061, 16f und Anm. 12.<fe> pro rostris<f1>auf der Kanzel.<fe> huiusmodi verba frequenter inculcare audio:
+"Nonne semper praemonui homuntiones istos tandem se ipsos confecturos iisdem armis,
+quibus in nos modo furiunt? Proscribunt iam ipsi invicem atque se esse hęreticos
+mutuis accusationibus testantur neque, quo se vertant, sciunt."
+Libros<f1>Gemeint sind wohl heute nicht mehr bekannte gedruckte oder ungedruckte Schriften Aals.<fe> ego domi meę habeo. In integrum Anguillam agnoscis. Verum ego sic iudico:
+Offendantur licet et pereant filii perditionis<f1>Vgl. Joh 17, 12; 2Thess 2, 3.<fe>, dum modo ne sit a nobis offendiculum!<f1>Vgl. Mt 18, 6f par.<fe>
+Summa est enim in scriptis tuis modestia, quę et me plurimum delectat. Nescis enim, quid apud nostros efficiat
+illa modestia. Quare obsecro, ne te sciente ulla a nostris exeant acerbiora scripta.
+Quid enim, si cum insanis insanimus et ipsi?<f1>Vgl. Spr 26, 4.<fe>
+^$Scripsit etiam Gvaltherus noster elegantissime profecto piissimeque, adeo ut ex<fx>ex ^#/+über der Zeile nachgetragen^#/-.<fe> nostris,
+qui quidem legerunt, valde mirentur deumque summe laudent.<f1>Frey bezieht sich hier wohl auf Gwalthers "Apologia"; s. oben Nr. 2094, Anm. 36.<fe> Confirmet illum dominus et augeat auctissima illius dona. Amen.
+^$Sed quandiu tibi tacebo, quod dominus fecit mihi? Pridie, quam hęc scriberem,
+filiolum pulcherrimum<f1>Leonhard (s. unten Z. 29f) Frey, bisher namentlich nicht bekannt.<fe> ex uxore mea<f1>Unbekannt.<fe> suscepi, qui hodie (ita socru<f1>Unbekannt.<fe> mea cupiente)
+ad sacrum fontem Leonhardi, soceri mei<f1>Unbekannt.<fe>, nomen accepit.
+Porro contulit mihi dominus abundantiam omnium, quibus familiam alere possim; pro quibus, quid ego debeam, video;
+sed tu, ut possim, pro me precare, videlicet ut fiam fidelis et constans domini mei minister.<f1>1542 hatten die Zürcher Pfarrer Frey der Stadt Biel als Schulmeister empfohlen; s. HBBW XII, Nr. 1618, 14-20 und Anm. 4.<fe>
+Insaniant cognati mei.<f1>Frey stammte aus Baden.<fe> Nunquam tamen mihi vel solem vel dei clementiam prohibebunt.
+Pergunt quoque nos odio prosequi vicini nostri<f1>Vielleicht die Berner, die Frey schon im Brief vom 28. Oktober 1544 als "nostri vicini" bezeichnete (s. HBBW XIV 489, 22 und Anm. 11 und Nr. 2025). Zur unterschiedlichen Haltung der benachbarten Kapitel Büren und Nidau (Berner Landschaft) im Abendmahlsstreit und gegenüber der normativen Funktion der Berner Disputation von 1528 s. schon HBBW XIV 557f. - Möglicherweise ist hier aber der Basler Bischof, Philipp von Gundelsheim, und dessen Geistlichkeit im Basler Bistum (dem auch Biel angehörte) gemeint, zumal die evangelische Predigt im jurassischen Münstertal damals interkonfessionelle Streitigkeiten verursachte; s. Johann Jakob ^#/+Hottinger,^#/- Helvetische Kirchen-Geschichten, Bd. 3/7, Zürich 1708, S. 763.<fe> propter constantem veritatis confessionem;
+sed fluctuum instar et argenti vivi<f1>Quecksilber.<fe> nunc sursum, nunc deorsum volvantur. In omnes mutentur formas.
+Ego tamen, deo et sanctę veritati confidens (in domino glorior)<f1>Vgl. Röm 5, 11; 2Kor 10, 17.<fe>, cum ęqualium<fx>ęqualium ^#/+korrigiert aus^#/- ęqualibus.<fe> meorum
+uno et altero congressus, facile superior fui. Laus domino deo.
+^$Age, pater suavissime! Raro me scribere ais; prolixe igitur! Raro certe tabellio,
+cui fidas, nobis datur, ac sępe non curari nec vestras nec nostras literas comperi<fx>^#/+Vor^#/- comperi ^#/+gestrichener Wortansatz^#/- intelle[xi].<fe>.
+Hęc sunt, quae ad literas tuas, dulcissime pater, respondere visum fuit.
+^$Salutant te, quos et tu per me salutaveras, quinetiam maior noster<f1>Valerius Göuffi von Büderich; s. HBBW XI 168, Anm. 1.<fe>, nec non charissimus compater meus Michael<f1>Michael Schlatter.<fe>
+atqued. Vurbenius<f1>Jakob Würben.<fe>. Tu meo nomine coniugem<f1>Anna, geb. Adlischwyler.<fe>, liberos<f1>Zu Bullingers Kindern s. oben Nr. 2061, Anm. 17.<fe> ac totam familiam tuam salutabis. Vale, et me solito more dilige.
+^$Biellnis, 6. idus aprilis<fx>aprilis ^#/+unter gestrichenem^#/- martii.<fe> 1545.
+<un>Tuus ex animo Ioannes Leo-­
+<un>poldus Fry.
+<lz>[Adresse auf der Rückseite:] Doctissimo piissimoque virod. Heinrycho Bullingero, ecclesię Tigurinę fidelissimo pastori, patri suo summe semper observando. Tiguri.
+</content>
+</letter>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2714">
+<brief>
+<id>16402</id>
+<nr>2714</nr> <from persid="VadianJoachim"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1546-12-11"/>
+<ae>Joachim Vadian an Bullinger</ae>
+<od>St. Gallen, 11. Dezember 1546</od>
+<vo>Abschrift von Johann Rudolf Stumpf: Zürich StA, E II 351, 34v.-35r.</vo>
+<dr>Druck: <a>Vadian BW</a> VI 586, Nr. 1511<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 129 </k></dr>
+<re><t>Wie Vadian kürzlich [mit einem nicht erhaltenen Brief] ankündigte, schrieb er an [Martin] Frecht, damit dieser seine Ulmer um ihres Seelenheils willen anhalte, sich denjenigen zu widersetzen, durch die das [traurig] berühmte Bündnis zustande gekommen ist.
+<fn>Zu diesem Zeitpunkt war es noch nicht zu solch einem Bündnis mit dem Kaiser gekommen, doch bemühten sich seit Mitte November der Augsburger Geschäftsmann Hans Baumgartner und dessen Sohn David, der Ulmer Bürgermeister Georg Besserer und der Ulmer Ratsherr und Weinhändler Erasmus Rauchschnabel d.Ä. (die dazu durch den gebürtigen Ulmer Georg Gienger, Landvogt von Regensburg, veranlasst worden waren) darum und verhandelten deswegen in Lauingen und in Nördlingen mit Nicolas Perrenot, Herrn von Granvelle. Ende November forderte aber Granvelle von den Ulmern, dass sie u.a. ihre Religion aufgäben und wieder die Orden, Kirchen und Gotteshäuser wie vor der Reformation einrichteten, was auf allen Seiten für Empörung sorgte; s. Carl Theodor <i>Keim,</i> Die Reformation der Reichsstadt Ulm. Ein Beitrag zur schwäbischen und deutschen Reformationsgeschichte, Stuttgart 1851, S. 375-380; <qv>nr2712</qv>, <qv>fn16400-1</qv>.<zfn>fn16402-1</zfn></fn> Frecht antwortete ganz freundlich und treffend
+<fn>Mit einem Brief vom 7. Dezember (<a>Vadian BW</a> VI 584f, Nr. 1510).<zfn>fn16402-2</zfn></fn> und gab Vadian die Erlaubnis, den Brief auch an Bullinger zur Information weiterzuleiten. Dieser soll das Schreiben zurückschicken, nachdem er es gelesen hat.</t>
+<t>Es wird immer wieder berichtet, dass sich Kaiser [Karl V.] beim Zusammentragen des Goldes und beim Planen der künftigen Ausgaben besorgt zeigt und gar nicht weiß, wo er im künftigen Frühling den Krieg wieder aufnehmen wird, wobei man vermutet, dass die von ihm hier und da angeworbenen Truppen an mehreren Orten angreifen werden. Gott breche ihm den Mut und belehre ihn eines Besseren oder werfe ihn in die feurige Höhle des [Giganten] Enkelados! Alles liegt in Gottes Hand. Doch muss schnell und effizient gehandelt werden, damit Deutschland nicht um seine Freiheiten gebracht wird. Wüsste Bullinger Belangvolles zu berichten, soll er dies tun.</t>
+<t>Das vor kurzem erschienene Buch Gwalthers über den Antichristen wird überall gekauft!
+<fn>Es kann sich dabei nur um die deutsche Fassung des "Endtchrist" handeln, da die Widmung der lateinischen Fassung dieses Werkes erst vom 12. Dezember datiert; s. <a>HBBW</a> XVII 400, Anm. 7.<zfn>fn16402-3</zfn></fn> [Christoph] Froschauer soll auch ein Exemplar davon schicken. Froschauer sei ferner gedankt für das kürzlich erhaltene dritte Buch von [Johannes Stumpfs Eidgenössischer] Chronik.
+<fn>Das dritte Buch ist Frankreich gewidmet und beansprucht die Blätter 97 bis 258 der im Spätherbst 1547 vollendeten Erstausgabe (von der einige Exemplare auf dem Titelblatt das Jahr 1548 anführen). Das Werk ist mit zahlreichen Holzschnitten versehen, die vom Maler Heinrich Vogtherr entworfen wurden; s. <a>BZD</a> C376. C396; Frank <i>Muller,</i> Heinrich Vogtherr l'Ancien. Un artiste entre Renaissance et Réforme, Wiesbaden 1997.<zfn>fn16402-4</zfn></fn> Was für ein prächtiges und umfangreiches Werk, das Stumpf viel Arbeit und das Nachschlagen vieler Quellen abverlangt haben wird!</t>
+<t>Gruß.</t></re> <textweg>
+<div>
+<p>S. Scripsi ad Frechtum, id quod nuper me facturum significaram, et pro mea virili sum hominem consolatus adhortatusque, ne non suorum animos erigeret, et ne facile ab his, quibuscum foedus tam celebre inierunt, avelli se aut distrahi paterentur. Quanta potui diligentia admonui. Rescripsit ipse satis candide et literis quidem minime ineptis, quas ad te mittere libuit, ne de iis rebus, quarum nos admonuit, non fieres et ipse certior. Eas literas, ubi legeris, remitte.</p>
+</div>
+<div>
+<p>Constans fama est, in contrahendo auro et sumptibus parandis iam caesaris
+<fn>Karl V.</fn> animum angi et sollicitari, nec certum esse admodum, quibus in locis ad verna proxime bellum sit redintegraturus, etiamsi coniectura est, non una a parte illum suo obiter conscripto milite nociturum. Dominus illius animum frangat et sensu meliore donet aut, si id in fatis non sit, profligatum Enceladaeis antris subditum igni urat iugi. Amen. Sunt omnia quidem et certo etiam in manu domini; sed adhibenda ratio erit nec levis nec lenta, qua Germanicae veteri libertati succurratur, ne sua illa avita gloria in universum destituatur. Tu, si quid habebis me dignum, fac scribas.</p>
+</div>
+<div>
+<p>Mire laudatur R{uo}dolphi nostri Gvaltheri liber nuper de Antichristo aeditus
+<fn>BZD C 367f.</fn> et emitur quidem raptim et passim, quem ut videam et legam, a nostro Froschouero dari ad me percupio. Velim autem ipsi meo nomine gratias ageres de tertio illo operis chronici Tigurini libro
+<fn>Johannes Stumpf: Gemeiner loblicher Eydgnoschafft Stetten, Landen und V{oe}lckeren Chronick wirdiger thaaten beschreybung ..., Zürich [Teil 3, 1546] 1547 (BZD C 376).</fn>, quem pridie abs se missum accepi. Deum immortalem, quam eleganter confertum copiosumque opus est et quanti Stumphii nostri labores, quibus res tantas tam latis e fontibus petit et conscribit! Dominus et ipsum nobis servet.</p>
+</div>
+<div>
+<p>Vale. Sangalli, 11. die decembris, anno domini 1546.</p>
+<un>Vadianus tuus.</un>
+<lz/>
+<p>[Adresse als Titel:] Praestantissimo viro d. Heinricho Bullingero, clarissimae urbis Tigurinae episcopo, domino suo longe amantissimo.</p>
+</div> </textweg>
+</brief>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2119">
+<nr>2119</nr>
+<correspondents>
+	<originator>Albert Hardenberg</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bonn</place>
+	<date>23. März [1545]</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1412 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopien 18. und 20. Jh.: Zürich ZB, Ms S 57, 25; Emden BGK, Hs fol. 37, Nr. 62; Lit.: Weerda, Entstehung und Entwicklung der Gottesdienstordnungen, 25; Janse, Hardenberg 375 (A. 177). 379f. 507 (Brief 36).^&x{
+<re>Gruß.
+-^#. Hardenbergs beiliegender Brief [Nr. 2120] an alle [Zürcher] Pfarrer ist so nichtig, dass nur Bullinger ihn lesen und dann verbrennen soll. Bullinger soll selbst an [Johannes] a Lasco schreiben. Hardenberg hat Hermann Aquilomontanus gegrüßt. In Köln hat er zusammen mit [Johannes] Caesarius bei Graf [Christoph] von Oldenburg gegessen. Der gute Greis [Caesarius] zollt beiden Parteien Beifall; vielleicht kann Bullinger ihn umstimmen.
+-^#. Hardenberg hofft mit manch Anderen, dass die Zürcher auf Luthers ["Kurtz bekentnis"] mit Zurückhaltung antworten, zumal die Gegner einen Grund suchen, die [Eidgenossen] von den übrigen Deutschen abzusondern, um ihnen im Notfall nicht helfen zu müssen. Da Luther viele verletzt hat, wäre es für den Ruf der Zürcher gut, wenn diese nicht allzu scharf antworten würden. Hardenberg hofft, dass irgendwann Eintracht herrschen wird. [Hermann von Wied, der Erzbischof von] Köln, hat ihm versprochen, alle Kirchenleiter zu einem Treffen zu bewegen, um dabei eine Einigung zu erzielen. Diese Information soll aber vertraulich bleiben. Viele werfen den Zürchern Strenge und Trotz vor, doch kann Hardenberg in ihren Schriften und in den Gesprächen mit ihnen nichts davon spüren. Deshalb verteidigt er sie. Dadurch aber gerät er in Verdacht.
+-^#. Den Schwachen muss man [durch eine Einigung] helfen, ohne dabei die Reinheit der Lehre preiszugeben. Die Uneinigkeit der Kirche schmerzt Hardenberg, zumal der Antichrist tobt. Die Zürcher sollen der schwankenden Kirche Rat erteilen.
+-^#. Der Herr möge Bullinger und seine Familie bewahren. Grüße an [Konrad] Pellikan, Theodor [Bibliander], [Rudolf] Gwalther, [Kaspar] Megander und alle Übrigen.
+-^#. Gruß an Gerhard [thom Camph].
+-^#. Möge Bullinger diesen freimütigen Brief gut aufnehmen.</re>
+<tx>S[alutem] d[ico]. Mi anime, mi,<f1>Vgl. ^#/+Plautus,^#/- Rudens, 1265.<fe> o mi Bullingere, salve millies ac decies millies!
+^$Epistolam, quam vides, ad omnes ministros scripsi.<f1>Unten Nr. 2120.<fe> Sed postea mihi visum est indignum,
+ut tales nugae ad alios perveniant. Itaque tu mihi eos saluta diligenter et literas lectas combure.
+Rogo, ut tu ipse ad dominum a Lasco scribas.<f1>Ein entsprechender Brief Bullingers an a Lasco aus diesem Zeitraum ist nicht erhalten; s. unten Nr. 2120, Anm. 22.<fe>
+Hermannum Aquilomontanum in Frisia salutavi, virum valde bonum et diligentem. Is se totum tibi commendat.
+Coloniae cum Caesario tuo<f1>Johannes Caesarius.<fe> pransus sum apud comitem ab Oldenborg<f1>Graf Christoph von Oldenburg und Delmenhorst, geb. 1504, gest. am 4. August 1566. 1515 Subdiakon. 1516 Aufnahme in das Kapitel St. Gereon zu Köln. 1517-1524 zunächst in Köln, dann Verleihung einer Dompräbende und Rückkehr nach Oldenburg und Bremen; an letzterem Ort Propst. Doch hielt er sich meist am Hof von Landgraf Philipp von Hessen auf und war an verschiedenen kriegerischen Auseinandersetzungen beteiligt. 1527/28 Studium von Schriften des Urbanus Rhegius, Luthers, Melanchthons und der Bibel; Förderung der Reformation in Oldenburg. 1534/1536 beteiligt an der (nach ihm und Johann von Hoya benannten) "Grafenfehde". - Zu Christoph von Oldenburgs Zugehörigkeit zum Kölner Domkapitel s. BucerDS XI/3 25, Anm. 4; ^#/+Janse,^#/- Hardenberg 23, Anm. 66. Mit dem Grafen stand Hardenberg auch später in Kontakt. Von 1561 bis 1565 gewährte ihm der Graf Zuflucht in seinem Privatwohnsitz, Kloster Rastede; s. ^#/+Janse,^#/- aaO, S. 92. - Lit.: ADB IV 241-243; Werner ^#/+Storkebaum,^#/- Graf Christoph von Oldenburg (1504-1566). Ein Lebensbild im Rahmen der Reformationsgeschichte, Oldenburg 1959 - Oldenburger Forschungen 11.<fe>. Is bonus senex<f1>Gemeint ist Johannes Caesarius, geb. um 1468.<fe> utroque fert humero,
+utrique parti<f1>Der katholischen und der protestantischen Partei.<fe> applaudit, ut mensas sectari possit. Fortasse tu illum movere possis. Ego cum eum admonerem, mox offendebatur.
+^$Spero te modestum fuisse in responsione<f1>Das "Warhaffte Bekanntnuß" der Zürcher (s. oben Nr. 2061, Anm. 9), das Hardenberg offensichtlich mit dem Brief Nr. 2108 noch nicht erhalten hatte.<fe>, si quam<f1>si quam responsionem.<fe> ad Lutheri libellum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> adornasti.
+Sciunt quidam me abs te in amicitiam susceptum esse. Itaque me rogaverunt, quatenus
+te admoneam mansuetudinis et lenitatis christianae, quam alioqui spero tibi nunquam defuturam.<f1>Siehe auch Hardenberg an Vadian, 22. März 1545 (Vadian BW VI 408), wo Vadian indirekt gebeten wird, Bullinger zur Mäßigung zu bewegen: "Sed quid ego apud Bullingerum et quid in tali caussa? Utinam et alii quidam dominentur suis affectibus!"<fe>
+Adversarii hoc semper egerunt, ut hac occasione vos a reliquis Germanis separarent, ne, si incidat necessitas, alter alteri opem ferre queat.<f1>Siehe dazu eine ähnliche Erklärung im Brief Hardenbergs an Vadian, 22. März 1545 (Vadian BW VI 408).<fe>
+Vehementer offendit Luteri scriptum multorum animos,<f1>Siehe z.B. HBBW XIV 574, 23-25; 577, 25f; und oben Nr. 2061, 9f und Anm. 7; 2065, 58-60; 2067, 11f; 2080, 23f; 2084, 7-9; 2097, 64f.<fe> quare putant offitii tui esse non nimis acriter
+illi respondere; ita de tua sententia plures bene iudicaturos. Mihi semper occinitur
+illud Pauli: "Si vos invicem mordetis, videte, ne ab invicem consummamini" [Gal 5, 15].
+Spero, atque utinam sperare liceat, futuram aliquando inter fratres concordiam.
+Meus Colloniensis<f1>Hermann von Wied, Erzbischof von Köln.<fe> mihi pollicitus est se curaturum, ut omnium ecclesiarum praecipui ministri
+convocentur et agant de concordi doctrinae forma; eo vos etiam invitandos, etiamsi ipsius sumptibus fieri debeat.
+Quod tamen tibi soli dictum velim, ne, si non sorciatur effectum, putent alii fratres a me fictum esse.
+Multi vobis austeritatem et perfractam ferotiam in hac caussa tribuunt, et vestra culpa
+ecclesias in tot factiones scindi. Ego vero non invenio hoc in scriptis vestris, multo minus in colloquiis,
+quare non possum non defendere innocentiam vestram mihi in hac<fx>hac ^#/+über der Zeile nachgetragen.^#/-<fe> quidem<fx>^#/+Nach^#/- quidem ^#/+in der Vorlage^#/- in.<fe> parte non pessime cognitam. Sed dum hoc ago, vocor et ego in suspitionem.
+^$Scribo ad te<fx>te ^#/+über der Zeile nachgetragen.^#/-<fe> libere, mi anime, et vere ita scribo, ut te ex animo amo. Cogita,
+quid faciendum nobis<fx>nobis ^#/+über gestrichenem^#/- putes.<fe>, ut multorum imbecillitati succurratur. Omnino non est prodenda
+doctrinae puritas. Sed ipse<f1>Bullinger.<fe> dispice, ecquid leniri aliquo modo queat caussa.
+Obtestor te, mi domine, ne haec feras indigne neque cuiquam ostendas, qui indignanter accipere possit.
+Dolet mihi scindi in tot studia ecclesias, maxime cum ita insaniat alioqui antichristus<f1>Das Papsttum. - Vgl. auch Bucers Stellungnahme zu diesem Streit in HBBW XIV 505f, 95f; ferner HBBW XIV 573f, 13-15; 577, 22f; und oben Nr. 2108, 9-12.<fe>.
+Vestrum certe erit, quoad eius fieri queat, consulere nutanti ecclesiae, in qua
+praecipuum facile locum tenetis; quod equidem non dissimulanter confiteor apud
+quoscunque etiam mortalium, neque enim contra conscientiam possum aut debeo.
+^$Deus conservet te cum tua optima familia. Venerabiles dominos fratres et amicos meos, queso, ut quam diligenter salutes, maximed. Pellicanum, Theodorum<f1>Theodor Bibliander.<fe>, Waltherum<f1>Rudolf Gwalther.<fe>, Megandrum
+et alios omnes, ut in conspectum venient. Hunderttausend<fx>^#/+In der Vorlage^#/- C^#'M.<fe> gutternacht, meyn alder, liebster her brutter in god!
+^$Bonnae, 23. martii.
+^$Gerhardo<f1>Gerhard thom Camph, der sich von der ersten Novemberhälfte 1544 bis Sommer 1545 in Zürich aufhielt; s. HBBW XIV 442f, Anm. 1.<fe> salutem plurimam.
+<un>Tuus Albertus Hardenbergus.
+<lz>Queso<fx>^#/+Von^#/- Queso ^#/+bis^#/- affectu ^#/+am linken Rand nachgetragen.^#/-<fe>, mi pater, ne offendare<f1>offendare = offendaris.<fe>; ex animo ad te scribo et intimo cordis affectu.
+<lz>[Adresse auf der Rückseite:] Singulari pietate et eruditione viro magistro Heynricho Bullingero, Tygurinae ecclesiae pastori longe probatissimo, suo semper observando domino. Zurch.
+</content>
+</letter>

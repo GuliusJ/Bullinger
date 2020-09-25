@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1679">
+<nr>1679</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Bern]</place>
+	<date>19. Oktober 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 362, 46 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 27</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für Bullingers freundschaftliche Unterstützung und ist überrascht, dass die weite Reise des Boten [nach Memmingen]
+keine höheren Kosten verursacht hat. Will Einzelheiten über den Konflikt bald mündlich berichten; sein Gegner [Adam Heinricher] hat Bern verlassen
+und reist möglicherweise nach Schaffhausen, nach Lindau zu Benedikt Burgauer oder gar nach Memmingen, da er aufgefordert
+wurde, Zeugen zu benennen; Ritter wartet seine - ungewisse - Rückkehr ab. Gruß.
+</re>
+<tx>Gratia et pax etc.
+^$Non possum pro dignitate comendare tuam eximiam fidem et
+candorem summum, quem erga me<fx>me ^#/+über der Zeile nachgetragen.^#/-<fe> ostendisti in ista mea
+tentatione gravi,<f1>Zu den Anfeindungen, gegen die sich Ritter mit Bullingers Unterstützung zur Wehr setzte, vgl. seinen Brief
+vom 25. September (oben Nr. 1665).<fe> multo minus<fx>^#/+In der Vorlage^#/- multominus.<fe> dignas refferre gratias, qui, quod vulgo omnium teritur ore, verum esse
+probasti: amicum in necessitate, qualis sit, videri.<f1>Vgl. das Sprichwort "Freunde erkennt man in der Not"
+und seine zahlreichen Varianten (TPMA IV 26-32, Nr. 360-544).^&xWander I 1184, Nr. 253; III 1047, Nr. 75f u. ö.^&x{<fe> Sed dominum, qui remunerator est,<f1>Hebr 11, 6.<fe>
+assiduis precibus interpellare pro te non desistam. Proinde non opus fuisset tam exacta ratione expensarum,<f1>Bullingers
+Abrechnung für die Entsendung eines Boten nach Memmingen, auf die sich Ritter bezieht, ist nicht erhalten.<fe> siquidem ego
+paratus eram adhuc plura super erogare, quoniam non putassem tam exiguo stipendio tantum iter perfici potuisse.
+^$Ceterum optares nimirum totam historiam intelligere, quid actum esset; sed nimis prolixa est. Institui propediem ad te venire et
+coram singula tibi fideliter exponere. Tantum hoc addo, quod adversarius<f1>Adam Heinricher, vgl. oben Nr. 1665, Anm.
+2.<fe> clam se subduxit ab urbe, et quo se receperit, penitus ignoro. Senatus enim et diacosii<f1>D. h. der Kleine und der
+Große Rat.<fe> iusserunt, ut testium nomina propria et loca, ubi habitarent, indicaret, quos producere contra me haberet in
+animo<fx>^#/+In der Vorlage^#/- inanimo.<fe>. Is fassus est se neminem scire. Suspicor igitur eum ivisse Scaphusiam
+sciscitatum, num accipere de me quid<fx>quid ^#/+über der Zeile nachgetragen.^#/-<fe> possit, deinde et Lindoviam ad Benedictum Burgoverum, qui hanc fabulam agit, forsan et
+Memingam. Expectabo igitur reditum, qui tamen incertus est;
+deinde ego ad vos veniam singula vobis narraturus et statum
+ecclesie nostre integrum.
+^$Tu bene vale et fratres omnes, maxime Gasperum<f1>Kaspar Megander.<fe>, meo nomine saluta.
+^$19. octobris 1542.
+<un>Erasmus Ritter,
+<un>ex animo tuus.
+<lz>[Adresse auf der Rückseite:] Dem fromen,
+wolgelertnn<fx>^#/+Auslautendes^#/- -nn (-n̄) ^#/+hier und im Folgenden vielleicht als^#/- -en ^#/+zu lesen.^#/-<fe> herrnn
+Meister Heinrich Bullinger, predicant zuͦ Zurich, minem lieben herrnn und bruͦdernn.
+</content>
+</letter>

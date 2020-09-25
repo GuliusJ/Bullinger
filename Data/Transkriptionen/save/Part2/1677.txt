@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1677">
+<nr>1677</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>[1]5. [oder 16.] Oktober 1542</date>
+	<note>Das Datum 5. Oktober (unten Z. 26) ist wohl in 15. Oktober zu verbessern, weil dieser Brief erst nach Bullingers Brief an Blarer vom 13. Oktober (oben Nr. 1675) geschrieben sein kann. Die Bemerkung über das Begräbnis der Schwägerin (unten Z. 13f), das am 13. Oktober stattfand (vgl. Anm. 7), deutet allerdings auf den 16. Oktober.</note>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 343a, 257 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 13 (5.Okt.)<fn>zit.: Zwa IV 378.</fn></vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 155, Nr. 974</dr>
+<re>Dankt für Bullingers Bericht, wird sich gerne erkenntlich zeigen, wenn sich die Gelegenheit bietet; hat im Moment keine Neuigkeiten über den Kaiser [Karl V.] oder den Krieg gegen die Türken, wird solche aber sofort weiterleiten; hofft, dass Gott den Krieg zwischen Kaiser und [König Franz I.] so
+leiten wird, dass das Reich Gottes noch in weiteren Orten der Eidgenossenschaft Einzug halten kann. Gute Wünsche, Bullinger soll für sie beten; die Pest nimmt zu, vor drei Tagen wurde die Frau seines Bruders [Thomas Blarer] begraben, die nach nur viertägiger Krankheit starb; der trauernde Bruder
+empfiehlt sich und seine Freunde der Fürbitte Bullingers.
+Bedauern den Tod [Werner] Steiners, doch ist dieser glücklich zu preisen; Grüße. [Johannes] Zwick berichtet, dass in Bischofszell diese Woche schon 36 Personen an der Pest gestorben sind; möge Gott uns durch den Tod dieses Leben mit dem Leben in Christus tauschen lassen.</re>
+<tx>S. Ego vero, mi venerande Bullingere, multo maiores tibi
+gratias debeo, quod tantum nostra caussa tuapte manu
+describere volueris.<f1>Blarer bezieht sich wohl auf Bullingers ausführlichen Bericht vom Tag zu Baden, oben Nr. 1675.<fe> Paria tamen tecum faciemus, ubi
+argumentum nobis occasio suppeditaverit. Nunc, ita me ames,
+ne unum quidem verbum habeo de caesare<f1>Karl V.<fe> aut bello Turcico
+extra ea, que proxime ad te scripsi<f1>Vgl. oben Nr. 1673 (Beilage).<fe>, expecto vero in momenta
+literas. Quę si novum mihi nuncium attulerint,
+diligentissime curabo, ut quamprimum omnia resciscas. Valde
+spero sic dominum bellum hoc caesaris et Galli<f1>König Franz I.<fe> temperaturum,
+ut inde occasio nascatur propagandi etiam apud alios
+Helveticos pagos regni Christi, ut solet ille ex pessimis
+optima elicere.
+^$Bene vale, mi suavissime anime, cum tuis omnibus, quos meis
+verbis pulchre in domino valere iubebis. Orate pro nobis, ut
+dominus nostri<fx>nostri ^#/+korrigiert aus^#/- nostric[?].<fe> misertus iubeat angelo percutienti<f1>Vgl. 2Sam 24, 16.<fe>, ne omnia
+hunc in modum devastet. Ingravescit etiamnum pestis apud
+nos; nudius quartus<f1>In einem Brief an Konrad Hubert vom 14. Oktober (Blarer BW II 154f, Nr. 973) gibt Blarer als Begräbnisdatum den 13. Oktober an.<fe> charissimam fratriam<f1>Es handelt sich um Thomas Blarers zweite Frau, deren Name unbekannt ist.<fe> extulimus, quę
+non plus quatriduum latenti et ipsis etiam medicis incognito
+veneno praefocata decubuit, ut multo moerore charissimus
+vereque germanus meus frater<f1>Thomas Blarer.<fe> conficiatur, qui suam quoque
+salutem adscribere tibi iubet petitque anxiis ani[mi]s<fx>^#/+Über^#/- animis ^#/+ein Tintenfleck.^#/-<fe>, ut sui
+apud Christum christianice memineris.
+^$Valde dolet optimum Steinerum<f1>Werner Steiner, der am 6. Oktober verstorben war; vgl. oben Nr. 1675, 55f.<fe> vobis ereptum; illius tamen
+sorti, ut debemus, vehementer etiam atque etiam gratulamur.
+Commenda nos optimis viris Pellicano, Gvalthero, Bibliandro,
+Megandro, Fabricio<f1>Erasmus Schmid.<fe> etc., in primis vero consuli Röstio<f1>Diethelm Röist.<fe> etc.
+^$Zviccius noster<f1>Johannes Zwick.<fe> nondum rediit, scribit<f1>Zwicks Brief ist nicht erhalten.<fe> vero hac septimana
+in Episcopicella 36 peste extinctos et adhuc tamen domini
+manum extentam. Is faxit, ut morte longe superiores hanc cum
+illa vita, quam in Christo habemus, feliciter commutemus.
+Iterum iterumque vale.
+^$Constantiae, 5. octobris anno 42.
+<un>Tuus Ambr. Bl.
+<lz>[Adresse auf der Rückseite:] Bullingero suo. Tiguri.
+</content>
+</letter>

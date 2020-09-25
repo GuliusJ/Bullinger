@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1880">
+<nr>1880</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>24. März 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 298 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 94; TD: a Porta, Hist. Ref. Raet. I 197, A. s.^&x{
+<re>Dankt für ein Geschenk [Bullingers Schrift "Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"?]. Veit [Kappeler d.J.] wird wegen Nachlässigkeit beim Unterricht und schlechter Sitten auf Pfingsten [1. Juni] (oder je nach Verhalten schon früher) aus dem Schuldienst entlassen; Comander bittet deshalb im Auftrag von [Johannes] Travers und der übrigen Schulvorsteher um Empfehlung eines geeigneten Kandidaten und stellt ein Jahresgehalt von 100 Gulden sowie eine Wohnung in Aussicht; ihnen wäre [Johannes] Pontisella willkommen, doch der Prophet gilt nichts im eigenen Land; bittet um Antwort bis Pfingsten. Travers bestellt Bullingers Matthäus- [1542, HBBibl I 144] und Johanneskommentar [1543, HBBibl I 153f], zu einem Band gebunden; Comander wird das Buch durch einen Churer abholen lassen und den gewünschten Betrag senden. Grüße.
+</re>
+<dra>[Gedruckt: Graubünden, Korr. I 66f, Nr. 51; Teildruck: Petrus Dominicus Rosius ^#/+a Porta,^#/- Historia reformationis ecclesiarum Raeticarum, Tomus I/1, Chur 1771, S. 197, Anm. s.]</dra>
+^&xM. Heinricho Bullingero suo S. D. P.
+^$Donum a munificentia tua multis nominibus gratissimum
+accepimus, doctissime vir, pro quo+a{ non, quas deberemus
+gratias, referimus, sed, quas possumus, habemus.
+^$Vitus propter suam in scolis negligentiam et extra scolas
+intemperantiam conditione sua privatus est. Ad festum
+pentecostes loco cedet et, si in illis vitiis perrexerit,
+citius abiicietur; indigi igitur opis vestrae erimus.
+Pręfecti scolarum, nemped. Iohannes Traversius cum
+cęteris mihi iniunxerunt, ut ad te scriberem, quatenus
+nobis aliquem moribus et eruditione pręditum atque ad hoc
+offitium ydoneum exquireres; et si talem nacti fuerint,
+stypendio centum florenorum et habitacione com[m]oda
+sustentabunt, per singulos scilicet annos. Pontasellam
+libenter acceptarent; sed propheta non caret honore nisi in
+patria sua. Tu diligentiam solitam nostri caussa abhibeas ac
+usque ad festum pascę nobis responsum dare digneris.
+^$Preterea rogat dominus Traversius, ut lucubrationes tuas in
+Matheum et Iohannem simul in unum codicem colligatas
+praeparari facias, et ego per aliquem Curiensem huc vehi
+curabo et summam pecuniae, ad me cum scripseris, illico
+mittam. Vale.
+^$Ex Rhetiae Curia, 24. martii 1544.
+^$Omnibus fratribus salutem nostro nomine dicas.
+<un>Iohannes Comander tuus.
+<lz>[Adresse auf der Rückseite:] Eruditione et pietate
+clarissimo viro Magistro Heinricho Bullingero, Tigurinae
+ecclesiae ministro vigilantissimo, amico suo pręcipuo.^&x{
+</content>
+</letter>

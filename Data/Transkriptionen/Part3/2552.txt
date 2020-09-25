@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2552">
+<brief>
+<id>16241</id>
+<nr>2552</nr>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 26. August [1546]
+<fn>Das Jahr ergibt sich zum einen aus der Erwähnung der Truppen unten Z. <qv>zl16241-1</qv>, zum anderen aus der Beobachtung, dass dieser Brief keine Nachrichten enthält, weil solche schon mit Brief <qv>nr2551</qv> vom selben Tag mitgeteilt wurden.</fn></od>
+<vo>Autograph: Zürich StA, E II 370a, 571 (Siegelabdruck)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 103</k></dr>
+<re>Der Überbringer [Hans Großmann], ein ehemaliger offizieller Zürcher Bote, zog ohne Wissen der Obrigkeit [zum Heer]. Jetzt soll er Briefe und Geld nach Zürich bringen. Doch er befürchtet, dass man ihn dort zurückhält. Bullinger soll sich dafür einsetzen, dass er sich frei zwischen Zürich und dem Heer bewegen kann.</re>
+<text>
+<p>S. Qui
+<fn>Hans Großmann. - Diese Identifikation geht aus vier Beobachtungen hervor: 1. Aus unten <qv>nr2596</qv>,<qv>zl16284-13</qv>. 2. Aus einer Angabe Heinrich Thomanns (aus dem schmalkaldischen Lager) in seinem Brief an den Zürcher Rat vom 16. September (Zürich StA, A 177, Nr. 35), laut dem der "Bote Großmann" sich für einige Zeit nach Augsburg u.a. zu Johannes Haller begeben habe. 3. Aus der Tatsache, dass Großmann in den Rechnungsbüchern Zürichs (Zürich StA, F III 32) unter den "Laufenden Boten" der Stadt Zürich nachgewiesen ist. 4. Aus der Feststellung, dass er von der zweiten Junihälfte 1546 ab für längere Zeit nicht mehr in diesen Rechnungsbüchern erscheint. - Großmann ist seit Juni 1537 als Stadtbote Zürichs nachgewiesen, zunächst sehr sporadisch. Zwischen November 1540 bis Juni 1545 kommt er sehr oft zum Einsatz, daraufhin nur noch im Mai und im Juni 1546. Zwischen Oktober 1548 und April 1550 wird er erneut, allerdings nur vier Mal, von der Stadt eingesetzt.<zfn>fn16241-1</zfn></fn> has tibi fert literas
+<fn>Den vorliegenden Brief und Brief <qv>nr2551</qv>.</fn>, tabellarius aliquando Tigurinae urbis publicus insciis dominis
+<fn>Die Ratsherren von Zürich.</fn> discessit. <zzl>zl16241-1A</zzl>Nunc ab exercitu
+<fn>Die Truppen der Schmalkaldener, vielleicht besonders die eidgenössischen Fähnlein.</fn> cum literis et pecuniis domum missus<zzl>zl16241-1E</zzl> valde anxius est, ne dimittatur iterum Tiguri. Rogavit, ut tibi scriberem, ut consulas ei, quo concedatur ipsi hoc unum, ut liber semper possit ad exercitum proficisci et redire. Iusta est causa. Non puto dominos negaturos. Commendo ergo hanc tibi causam.</p>
+<p>Vale. 26. augusti.</p>
+<un>I. Hallerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Bullingero.</p>
+</text>
+</brief>

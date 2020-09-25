@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1357">
+<nr>1357</nr>
+<correspondents>
+	<originator>Bartholomew Traheron</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>London</place>
+	<date>20. Februar [1540]</date>
+	<note>Aufgrund der im Text enthaltenen Angaben über die Hinrichtung dreier Äbte ist der Brief eindeutig dem Jahr 1540 zuzuweisen; vgl. unten Nr. 1361, 1364 und 1367.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 369, 179 (Siegelspur) </vo>
+<re>Hat auf die letzte [Frankfurter] Messe hin aus Zeitgründen nicht geschrieben, bricht aber nun sein Schweigen, da ihm die
+während seines Aufenthalts in Zürich begründete Freundschaft viel bedeutet. In England ist der Mönchsstand aufgehoben worden,
+einige Klöster wurden in Schulen umgewandelt, und vor Weihnachten wurden drei Äbte [Richard Whiting, Hugh Cooke, gen.
+Farringdon, und Thomas Beech, gen. Marshall] hingerichtet, weil sie sich zur Wiedereinsetzung der päpstlichen Herrschaft
+verschworen hatten. Die wichtigsten Aussagen einer "papistischen" Predigt des Bischofs von Winchester [Stephen
+Gardiner] zu Beginn der Fastenzeit, auf die [Robert] Barnes am Sonntag darauf unter allgemeinem Beifall antwortete, wird Bullinger durch John Butler übermittelt bekommen.
+[Lordkanzler Thomas] Audley läßt grüßen; er wird Bullingers Sohn während eines allfälligen Englandaufenthaltes gerne bei sich aufnehmen. Grüße.
+</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 209, bzw. Original Letters I 316f, Nr. 148.]
+</content>
+</letter>

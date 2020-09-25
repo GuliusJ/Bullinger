@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2304">
+<nr>2304</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. Dezember 1545</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms A 40, 32-34, Nr. 15 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh., unbekannte Hand mit Ergänzungen von J. J. Simler (prov. Vorlage für Comp.!): Zürich ZB, Ms S 58, 139 ^&x{
+<re>Bullinger dankt Myconius für die Darstellung des Ausgangs des [Braunschweiger] Kriegs. Hoffentlich wird der Sieg auf die rechte Weise genutzt!
+-^#. Zum Waffenstillstand mit dem türkischen [Sultan Suleiman I.] berichtet Vadian, dass Leonhart von Vels, der gegen die Türken eingesetzte Hauptmann König Ferdinands [I.], in Wien verstarb, und dass [Sultan Suleiman I.] im November die Veste Simonthurn bei Stuhlweißenburg belagert und vielleicht schon eingenommen hat. Am schlimmsten aber ist, dass die Ungarn uneins sein sollen. Es ist zu befürchten, dass die kaiserliche Gesandtschaft nach Konstantinopel nichts erreicht haben könnte. Womöglich wird nun Papst [Paul III.] die Türken gegen die [Protestanten] hetzen.
+-^#. Über die neapolitanischen Reiter wusste Bullinger nichts.
+-^#. Der Brief [von Alfonso d'Avalos], der den aus Mailand zurückkehrenden Gesandten anvertraut wurde, ist eine Verteidigung, die Beschränkung des Mailänder Marktes auf die Region [fortzusetzen]. Dies geht aus der Abschrift des Briefes hervor, die [d'Avalos] den [eidgenössischen] Gesandten übergab. Ohne diese Abschrift hätten die Gesandten das [für die Eidgenossenschaft bestimmte] versiegelte Schreiben nicht akzeptiert.
+-^#. Auch Bullinger würde sich mehr Glaubenseifer von den [Zürchern] wünschen. Deshalb muss man die Trägen weiterhin anspornen.
+-^#. Weiteres werden die Überbringer [Johannes] Oporin, [Johannes] Herwagen und Konrad [Wolfhart] berichten. Grüße an Gast, dem Bullinger nicht schreiben kann. Myconius soll Gast die Nachrichten mitteilen.</re>
+<tx>S[alutem] d[ico]. Diligenter sane belli catastrophen<f1>Vgl. Adagia, 1, 2, 36 (ASD II/1 250, Nr. 136).<fe> descripsisti,<f1>Vgl. oben Nr. 2301, 3-24.<fe> domine et frater in Christo colendissime, pro qua diligentia maximas tibi gratias ago.
+Inprimis autem laudanda est domini bonitas, per quam nostris concessa est victoria felicissima<f1>Zum Sieg Landgraf Philipps von Hessen über Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel s. zuletzt oben Nr. 2289, 34-42.<fe>.
+Utinam vero illa recte utantur, et ita se gerant erga iuratos Christi hostes, ut totus mundus intelligat ipsos ex animo dei gloriam quaerere!
+^$Rogas, quid habeam de induciis cum Turcico monarcha<f1>Sultan Suleiman I. - Siehe oben Nr. 2301, 42-44.<fe> initis:
+Verba hic Vadiani subscribam:<f1>Offenbar zitiert Bullinger aus einem nicht erhaltenen Brief Vadians. Dieser wiederum hatte die Nachrichten einem Brief Martin Frechts aus Ulm vom 23. November entnommen; s. Vadian BW VI 472f, Nr. 1430.<fe> Novorum ex nostratium nihil nisi hoc u[num]<fx>^#/+Hier und unten, wenn nicht anders vermerkt, Textverlust am rechten Rand.^#/-<fe>,
+das h. Lienhart von Fels<f1>Leonhart Colonna, Freiherr von Vels (auch: Fels), geb. um 1497, gest. 10. November 1545, beigesetzt zu St. Stephan in Wien. Geheimer Rat König Ferdinands I., Kämmerer, Burggraf zu Tirol, oberster Feldmarschall. 1537 "obrister" Feldhauptmann in Ungarn. Im Januar 1544 zum obersten Feldhauptmann der böhmischen Truppen gegen die Türken ernannt. - Lit.: Josef ^#/+Neumann,^#/- Beschreibung der bisher bekannten böhmischen Privatmünzen und Medaillen, III. Abtheilung: Münzen der Städte und Ortschaften, Heft 28, Prag 1870, S. 26, Nr. 20; Alfred ^#/+Kohler,^#/- Ferdinand I. 1503-1564. Fürst, König und Kaiser, München 2003, S. 144f.<fe>, houptmann des koͤnigs<f1>Ferdinand I.<fe> wi[der] die Dürggen, der zyt zuͦ Wyen mit todt abg[an]gen,
+und das der Dürgg verganges novembers ein starcken platz nitt ferr von Stuͦlwyssenbu[rg]<f1>Székesfehérvár (Stuhlweißenburg, Ungarn).<fe>,
+heist Sigmundtornay<f1>Simontornya (Simonthurn, Ungarn). Der bereits 1543 eroberte Ort wurde 1545/1546 zu einem der Hauptsitze der 14 Sandschake, in die Sultan Suleiman I. den besetzten Teil des Reiches eingeteilt hatte; s. Michael ^#/+Horváth,^#/- Geschichte der Ungarn, Bd. 2, Pest 1855, S. 61; Claudia ^#/+Römer,^#/- Osmanische Festungsbesatzungen zur Zeit Murāds III. Dargestellt anhand von Petitionen zur Stellenvergabe, Wien 1995 - Österreichische Akademie der Wissenschaften. Schriften der Balkan-Kommission 35, S. 18.<fe>, starck belaͤgeret und, all[s] man sorg, schon eroberet hab.
+Dann das das boͤst<f1>das boͤst: das Schlimmste.<fe>: Saͤhend die Unger übel zamen,<f1>Saͤhend die Unger übel zamen: Die Ungarn halten nicht zusammen.<fe> und besorgt [man]<fx>^#/+Ergänzt aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 58, 139).^#/-<fe> übel, des keyssers bottschafft,
+so zuͦ Constantinop[el] geworben umb ein anstand,<f1>Zur kaiserlichen Gesandtschaft nach Konstantinopel s. oben Nr. 2153, Anm. 16; 2173, Anm. 10; ^#/+Hammer-Purgstall^#/- III 271f.<fe> habe und werd[e] nut geschafft haben.
+Ich besorg, diewyl der baps[t]<f1>Paul III.<fe> keinem christen fürsten mee trüwen gedar<f1>trüwen gedar: zu trauen wagt.<fe>, wer[d] er den Türgken an uns hetzen, etc.;
+der Türg[g] nimpts an, setzt den glouben [an ein ort, wo]<fx>^#/+Diese Wörter sind durch den Falz des Blattes nur noch z.T. lesbar. Ergänzungen aus der Abschrift von Simler.^#/-<fe> nun<f1>nur.<fe> gold und gaͤllt ist, etc.
+^$De equitibus Neap[o]litanis<f1>Vgl. oben Nr. 2301, 45-48.<fe> primum a te audio; proinde plura tuis i[un]gere non possum.
+^$Miraris, quid contineant literae l[e]gatis creditae Mediolano redeuntibus.<f1>Gemeint ist der Antwortbrief, den die eidgenössische Gesandtschaft von Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter zu Mailand, empfing; s. oben Nr. 2298, Anm. 16.<fe>
+Nihil n[isi] excusationem et defensionem fori certis limitib[us] constricti; quod non odio aut invidia,
+sed necessit[a]te adactus forum sepserit arctissimis termini[s].
+Haec summa est. Nam apographum legatis ded[it], qui obsignatam responsionem alioqui non accepissent.
+^$Deploras tuorum frigidas erga religionem me[n]tes.<f1>Vgl. oben Nr. 2301, 54-56.<fe>
+Ego quoque nostrae fidei commissos flagran[ti]o[res]<fx>^#/+Durch Papierbeschädigung ist das Wort nur teilweise lesbar.^#/-<fe> esse in charitate cuperem et religionis studio.
+Sed incidimus in haec tempora, frater chari[ssime]; laborandum ergo assidue,
+clamandum, et instiga[n]di sunt nobis incessanter, qui obtorto collo<f1>Vgl. ^#/+Cicero,^#/- Pro A. Cluentio, 59.<fe> et segniter in via domini procedunt.
+^$Plura exponent, quibus has dedi, Oporinus, Hervagius<f1>Johannes Oporin und Johannes Herwagen d.Ä., die am 3. Dezember zu Gast bei Pellikan gewesen waren; s. ^#/+Pellikan,^#/- Chronikon 172. - Vgl. oben Nr. 2303.<fe>, Conradus<f1>Konrad Wolfhart (Lycosthenes); s. ^#/+Pellikan,^#/- aaO.<fe>.
+Gastium salutabis, cui iam scribere non potui per negotia. Scribam alias. Communica illi hec nova.
+^$Vale.
+Tiguri, 6. decembris anno 1545.
+<un>Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Praestantissimo virod. Osvaldo Myconio, domino et fratri semper colendo. Basileae.
+</content>
+</letter>

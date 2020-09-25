@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1899">
+<nr>1899</nr>
+<correspondents>
+	<originator>[Ambrosius Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>24. April [1544]</date>
+	<note>Der Brief reiht sich nahtlos in die Korrespondenz des Jahres 1544 ein, Blarer bezieht sich zudem unten Z. 15f auf oben Nr. 1892, 56-59.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 638 (ohne Siegel)</vo>
+^&xK: Zürich ZB, Ms S 54, 133^&x{
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 251f, Nr. 1077</dr>
+<re>Ist von einer Reise nach Isny, die kirchlichen Angelegenheiten galt, eilends in Erwartung eines Briefes von Bullinger zurückgekehrt; dankt und sendet den Boten mit Nachrichten zurück. Ist erfreut über den Brief des vortrefflichen Philipp [Melanchthon] an Bullinger [Nr. 1881], der auf ruhigere Zeiten nach dem Ableben Luthers hoffen lässt. Dankt für den Bericht über den Fund [des Grabes von Kaiser Honorius] in Rom und für die [dem Bericht beigefügte] Notiz über den Vandalen Stilicho. Wie traurig wären die Zeiten, wenn uns Gott nicht durch das Evangelium erleuchten würde; Bullinger soll für [die Konstanzer] beten. Grüße. Wird den Boten bezahlen.
+</re>
+<tx>S. Ad quartumdecimum calendas maii<f1>18. April.<fe> Isnam profectus in
+publicis ecclesię nostrę negociis<f1>Straßburg hatte Konstanz den ehemaligen Pfarrer von Isny, Paul Fagius, vorübergehend als Ersatz für den verstorbenen Johannes Zwick zur Verfügung gestellt, berief ihn nun aber zurück. Konstanz versuchte seinen Weggang abzuwenden, wobei als Druckmittel seine Verschuldung gegenüber Peter Buffler in Isny ins Feld geführt wurde, die auf Fagius' Tätigkeit als Drucker zurückging. Es ist zu vermuten, dass Blarer zu Verhandlungen über diese Angelegenheit nach Isny reiste. Gleichzeitig bemühte er sich wohl um Vermittlung im Konflikt zwischen Fagius' Nachfolger in Isny, dem lutheranisch eingestellten Johannes Marbach, und dem zwinglischen Diakon Georg Denneler sowie dem Magistrat; s. Blarer BW II passim, bes. S. 233. 250f. 260-262; Immanuel ^#/+Kammerer,^#/- Die Reformation in Isny, in: BWKG 53, 1953, S. 37f; Richard ^#/+Raubenheimer,^#/- Paul Fagius aus Rheinzabern. Sein Leben und Wirken als Reformator und Gelehrter, Grünstadt (Pfalz) 1959. - Veröffentlichungen des Vereins für Pfälzische Kirchengeschichte 6, S. 41-45.^&x vgl. Blarer BW II Reg., Blarer-Gedenkschrift, S. 152; Martin ^#/+Brecht,^#/- Ambrosius Blarers Wirksamkeit in Schwaben, in: Der Konstanzer Reformator Ambrosius Blarer 1492-1564. Gedenkschrift zu seinem 400. Todestag, hg. v. Bernd Moeller, Konstanz-Stuttgart 1964, S. 140-171, hier S. 152^&x{^&xKammerer, Reformation in Isny, Conv GdIV 488^&x{<fe> hoc lubentius
+reditum, mi Bullingere, maturavi, quod non dubitabam te mihi
+propediem de communibus rebus rursus scripturum. Nec me
+fefellit praesumpta persuasio; nam domum heri reversus tua
+scripta<f1>Nicht erhalten.<fe> repperi, pro quibus tibi etiam praeter<fx>^#/+Vor^#/- praeter ^#/+gestrichenes^#/- si possem[?].<fe> vulgarem
+modum agerem gratias, nisi nihil istis inter me et te opus
+esse viderem. Proinde missis istis visum est huncce rursum
+ad vos nuncium<f1>Unbekannt.<fe> abmandare, quo tibi, quę scitu vobis
+necessaria videntur, significarem. Dominus omnia nobis bene
+vertat, cui te tuosque omnes quam possum diligenter
+commendo, utque vicissim a vobis illi commendemur,
+vehementer exopto.
+^$Philippi<f1>Melanchthon.<fe> ad te literę<f1>Oben Nr. 1881. - Bullinger hatte auch Vadian am 19. April eine Abschrift dieses Briefes geschickt (s. oben Nr. 1896).<fe> sic me exhilararunt, ut diu iam
+nihil ęque. Valet hic homo non tam pietate et eruditione,
+sed iudicii acrimonia et animi singulari modestia, ut minus
+futurum sit turbarum, si<fx>^#/+In der Vorlage:^#/- sit.<fe> demortuo Luthero ille nobis superstes aliquamdiu vixerit.
+^$Quę de thesauro Rhome reperto<f1>Gemeint ist der Fund des Grabes von Kaiser Honorius; s. oben Nr. 1893.<fe> describenda misisti,<f1>Hier handelt es sich sicherlich um den ausführlichen, auch an Vadian gesandten Bericht Bullingers; s. oben Nr. 1896 (Beilage).<fe>
+gratissima fuerunt, praesertim quę tua diligentia de
+Stilico Wandalo<f1>Flavius S. Stilicho (gest. 408), Sohn eines Offiziers vandalischer Herkunft, war seit 395 magister utriusque militiae im Weströmischen Reich. Er war verheiratet mit einer Nichte Theodosius' I., der ihn zum Vormund seiner Söhne Arcadius und Honorius ernannte. Letzterer heiratete Stilichos Tochter Maria, wodurch er seine Stellung weiter festigte. Nach zahlreichen Konflikten mit dem Oströmischen Reich und den Vandalen wurde Stilicho schließlich während eines Feldzuges im Bund mit dem Gotenkönig Alarich gegen das Oströmische Reich mit Honorius' Zustimmung ermordet. - Lit.: Werner ^#/+Lütkenhaus,^#/- in: DNP XI 997f.<fe> adnotanda curavit.<f1>Blarer bezieht sich auf ein Zitat aus dem "Chronicon" des Burchard von Ursberg, das Bullinger auch dem nach St. Germain gesandten Exemplar beifügte (s. Vadian BW VI 308).<fe>
+^$Ah, mi venerande pariter et charissime Bullingere, quam
+esset omnibus modis omnium rerum deploratissimus status
+hocce nostro sęculo, nisi nos optimus et benignissimus
+pater in tantis tenebris et omnium rerum turbinibus
+evangelio Christi, filii sui, illustraret et velut in
+tranquillissimum quendam portum reciperet, quo sane bono
+satis nobis felices videri merito debemus, etiamsi mundi
+princeps<f1>der Teufel (vgl. Joh 14, 30).<fe> omnia sursum ac deorsum rotet ac terrę misceat
+cęlum<f1>Vgl. Adagia, 1, 3, 81 (ASD II/1 384f, Nr. 281).<fe>. Tu illum pro nobis sedulo interpella, ut hoc una
+velut sacra ancora<f1>Vgl. Adagia, 1, 1, 24 (ASD II/1 136, Nr. 24).<fe> nixi omnes mundi procellas velut ex alto rideamus.
+^$Iterum atque iterum vale cum tuis omnibus. Commenda me
+domino Röstio<f1>Diethelm Röist.<fe> et cęteris venerandis mihi fratribus.
+^$24. aprilis.<fx>^#/+Darunter von Traugott Schieß' Hand:^#/- 1544.<fe>
+^$Iam hunc tertium nuncium ad vos abmando; duobus prioribus
+24 bazones<f1>Konstanzer Batzen.<fe> numeravi huic quoque 12 numeraturus, nisi remoris istic iniectis ultra quartum diem reditum differre cogatur.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

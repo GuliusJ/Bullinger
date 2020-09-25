@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2674">
+<brief>
+<id>16361</id>
+<nr>2674</nr> <from persid="ThomannHeinrich"/> <to persid="Bullinger"/> <place plid="Giengen an der Brenz"/> <date when="1546-11-13"/>
+<ae>Heinrich Thomann an Bullinger <br/>mit Nachrichten von Simon Bing</ae>
+<od>[Im Feldlager bei Giengen], 13. November 1546</od>
+<vo>Autograph: Zürich StA, E II 340, 164 (Siegelspur); <br/>[Die im Brief erwähnte Beilage ist nicht erhalten]</vo>
+<dr>Brief ungedruckt <br/>Druck der in Zürich nicht mehr erhaltenen Beilage: <br/><a>Lenz, Bericht</a> 13-15 (Nr. G und H)
+<fa><i>Zu den Bezeichnungen G und H s. <qv>nr2666</qv>, <qv>fn16430-5</qv>.</i></fa><k>Regest 18. Jh.: Zürich ZB, Ms S 62, 31 </k></dr>
+<re><t>Simon Bing, der Sekretär des Landgrafen [Philipp von Hessen], bat Thomann als Dank für Bullingers Schreiben [nicht erhalten], diesem den beiliegenden Bericht [nicht erhalten] über den Kriegsverlauf zu übermitteln. Bing hatte vergessen, ihn seiner letzten Sendung [<qv>nr2666</qv>] beizulegen.</t>
+<t>Seinerseits steht Thomann Bullinger weiterhin völlig zur Verfügung. Er bemüht sich derzeit, den Brief [<qv>nr2651</qv>], den Bullinger an den Landgrafen gerichtet hatte, diesem selbst zu überreichen, doch ergab sich bis jetzt keine Gelegenheit dazu.</t></re>
+<text>
+<div>
+<p>Erwirdiger, wolgelerter, sonders gunstiger, lieber herr, üch syen min unverdrossen, willig dienst allzyt zuvor. <zzl>zl16361-3A</zzl>Uff üwer schryben, Simon Bingen, landtgrevischem
+<fn>Philipps von Hessen.</fn> secretari, gethon,
+<fn>Ein nicht erhaltener und vor dem 5. November verfasster Brief Bullingers an Simon Bing; s. <qv>nr2688</qv>,<qv>zl16374-3</qv> (bes. Z. <qv>zl16374-4</qv>). - Bullingers Brief an Bing vom 5. November (nicht erhalten) traf nämlich erst am 15. November in Augsburg ein, ehe er von dort an Bing weitergeleitet (s. <qv>nr2684</qv>,<qv>zl16371-4</qv> und <qv>fn16371-2</qv>; <qv>nr2693</qv>,<qv>zl16379-2</qv>) und am 21. November beantwortet wurde (s. <qv>nr2688</qv>,<qv>zl16374-1</qv>).<zfn>fn16361-6</zfn></fn><zzl>zl16361-3E</zzl> <zzl>zl16361-4A</zzl>hatt er mir hüt dato byligende schrifften
+<fn>Wohl die während des Donaufeldzuges verfassten Kriegsberichte zu den Ereignissen des 27. (von der landgräflichen Kanzlei als G bezeichnet) und des 30. Oktober (als H bezeichnet), die von der im Feldlager eingerichteten landgräflichen Kanzlei erstellt wurden und in <a>Lenz, Bericht</a> 13-15 veröffentlicht sind. Sie konnten in den heutigen Zürcher Beständen bisher nicht aufgespürt werden; s. dazu <qv>nr2666</qv>, <qv>fn16430-1</qv>.<zfn>fn16361-7</zfn></fn>, was bisher verloffen, üch zu antwurten
+<fn>übermitteln.</fn>, zugstelt. <zzl>zl16361-1A</zzl>Zeygt an, das sollichs nehermals
+<fn>beim letzten Mal - nämlich mit seinem nicht mehr vollständig überlieferten Brief <qv>nr2666</qv> vom 10. November (s. <qv>nr2693</qv>,<qv>zl16379-1</qv>), mit dem Bing auf das vor dem 5. November verfasste Schreiben Bullingers (s. dazu oben <qv>fn16361-6</qv>) geantwortet hatte.</fn> von im vergessen worden.<zzl>zl16361-1E</zzl><zzl>zl16361-4E</zzl></p>
+</div>
+<div>
+<p>Das wöllen also empfahen und mich allweg inn üwerm bevelch haben
+<fn>mich allweg inn üwerm bevelch haben: möge ich Euch stets empfohlen sein.</fn>, dann, üch jederzyt willige dienst zu bewysen, ich gantz bereyt bin. <zzl>zl16361-2A</zzl>Ich han mich dis tags beflissen, ewern brieff
+<fn>Bullingers Brief <qv>nr2651</qv> an den Landgrafen vom 31. Oktober. Er traf am 10. November im Lager ein; s. Thomanns Brief an Zürich vom 10. November (Zürich StA, A 177, Nr. 131). Zum Übermittlungsbericht s. <qv>nr2678</qv>.<zfn>fn16361-2</zfn></fn> dem lanndtgraven selbs zu antwurten, aber ich han noch nit zu im komen mögen.<zzl>zl16361-2E</zzl></p>
+<p>Datum den 13. novembris anno 36.</p>
+<un>Üwer allzit</un>
+<un>williger</un>
+<un>Heynrich Domman.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem erwirdigen, wolgelerten hern Heynrich Bullinger z{uo} Zurich, minem sonders gunstigen lieben herren.</p>
+</div>
+</text>
+</brief>

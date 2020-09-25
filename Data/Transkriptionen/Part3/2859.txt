@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2859">
+<brief>
+<id>17127</id>
+<nr>2859</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-03-24"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, [24.]
+<fn>Das richtige Datum muss sich aus der unten in Z. <qv>zl17127-1</qv> fehlerhaften Angabe "44." erklären können. Da unten in Z. <qv>zl17127-2</qv> Myconius eine Nachricht richtigstellt, die er in <qv>nr2855</qv>,<qv>zl17124-1</qv>, vom 21. März übermittelt hat, datiert vorliegender Brief vom 24. März - zu welchem Schluss auch Bullinger in seinem Brief an Myconius vom 4. April 1547 (<a>Henrich, Myconius BW</a> 955, Nr. 1070) gekommen ist.<zfn>fn17127-1</zfn></fn> März 1547</od>
+<vo>Autograph: Zürich StA, E II 343a, 347 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 951f, Nr. 1066<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 177.</k></dr>
+<re><t>Bei seiner Ankunft in Basel hat Christoph Froschauer den an Myconius sowie an Johannes Gast gerichteten Brief [<qv>nr2850</qv>] sogleich Myconius überreicht. Beim Lesen wunderte sich dieser, dass in dem auch an ihn gerichteten Brief Bullinger darum bat, den Brief ebenfalls ihm, Myconius, dem er nicht schreiben könne, zu zeigen! Dies nur, damit auch Bullinger über seine Vergesslichkeit lachen kann!</t>
+<t>Die aus Marburg zurückkehrenden Zürcher [Studenten, Fabricius Montanus, Karl Schweninger, Heinrich Hindermann, Hans Rudolf Funk und vielleicht auch Wilhelm Meyer] erzählen nichts Gutes über Landgraf Philipp von Hessen. Vermutlich aber verbirgt dieser nur sein eigentliches Vorhaben. Myconius schenkt ihm jedenfalls weiterhin sein Vertrauen, zumal dieser einen [...] seiner Berater niederschlug, nachdem dieser ihm empfohlen hatte, den Frieden mit Kaiser Karl V. zu suchen. Beim Landgrafen muss es sich also um einen Gottesmann handeln, der den vom Kaiser angebotenen Frieden verabscheut! Denn wie schon ein Augsburger [...] in seinem Brief meinte: "Was ist denn das für ein Frieden, der keiner ist?" Kein Wunder, dass unter solchen Umständen Wolfgang Musculus und auch andere Augsburg verlassen wollen. Die Papisten haben gesiegt, während der viel größere Teil verloren hat! Letzterer muss nun auslöffeln, was er sich selbst eingebrockt hat!</t>
+<t>Über Straßburg gibt es nichts als Gerüchte. Man hofft, bald Verbürgtes zu erfahren.</t>
+<t>Der jetzt nach Zürich kommende Engländer [John Hooper] sei den Zürchern empfohlen. Myconius kennt ihn zwar nicht gut, hofft aber, dass er der großen Frömmigkeit seiner Frau [Anne t'Serclaes] gerecht wird.</t>
+<t>Das Bündnis, von dem Bullinger auf der Rückseite seines Briefes schrieb, soll nur dem Kaiser und seiner Devise "Immer weiter" einen richtigen Schlag versetzen, auch wenn davon kein Fortschritt für das Evangelium zu erwarten ist!</t>
+<t>Was Myconius über die vier mit Gold und Silber beladenen Schiffe aus "Indien" [Amerika] in seinem Brief [<qv>nr2855</qv>] mitgeteilt hat, muss berichtigt werden. Die Schiffe gingen nicht in Antwerpen vor Anker, sondern in Spanien, von wo die Kaufleute das für den Krieg gegen Deutschland bestimmte Geld allmählich nach Antwerpen bringen werden. Doch auch dies kann Myconius nicht so richtig glauben, da der Kaiser bekanntlich so geizig ist!</t>
+<t>Die Basler, die sich nach Straßburg begeben haben, sind noch immer nicht zurück.</t>
+<t>Grüße, auch an die ganze Familie und an Rudolf Gwalther, dem Myconius bald schreiben wird.</t></re>
+<text>
+<div>
+<p><zzl>zl17127-3A</zzl>S. Mirum, cur ita luseris in literis
+<fn>Brief <qv>nr2850</qv> vom 19. März. - Vgl. <qv>nr2856</qv>,<qv>zl17125-1</qv>.</fn> per Froschoverum missis. Cum enim eas ad me et ad Gastium inscripsisses et Froschoverus protinus mihi reddidisset, postquam ad finem legendo pervenissem, h{e}c invenio: "diß zeigend an d. Myconio", et paulo post: "Libenter scripsissem d. Myconio; nihil possum."
+<fn><qv>nr2850</qv>,<qv>zl17118-10</qv>. <qv>zl17118-4</qv>.</fn> Coepi ridere (ut qui mox videram errorem et lapsum memoriae)
+<fa><i>Klammern ergänzt.</i></fa>, nam oblitus eras et mihi literas inscriptas!
+<fn>Die richtige Erklärung dafür ist eher in <qv>nr2850</qv>, <qv>fn17118-4</qv>, zu finden.</fn> Volui hoc indicatum, ut et tu rideres.<zzl>zl17127-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17127-4A</zzl>Pr{e}terea qui redeunt ad vos ex Marpurgo,
+<fn>Gemeint sind die seit 1545 in Marburg studierenden Zürcher Fabricius Montanus (Johannes Schmid), Karl Schweninger, Heinrich Hindermann (Opisander), Hans Rudolf Funk und vielleicht auch Wilhelm Meyer; s. zuletzt <a>HBBW</a> XVII 428f, Anm. 59.</fn> non fausta dicunt de Hesso
+<fn>Landgraf Philipp von Hessen.</fn>. Miror, nisi forsitan, quae habet in animo, non vult esse nota. Ego de principe <fa1 bis="1"><i>Fehlt in der Vorlage.</i></fa1>bonam spem<fa1e von="1"/> concepi ab initio, ut mala de ipso non facile credam. <zzl>zl17127-11A</zzl>Confirmat me, quod, dum rogavit sententias suorum, quid in his turbis putarent sibi faciendum, et unus
+<fn>Unbekannt.</fn> ex his consuleret pacificandum cum c{e}sare
+<fn>Karl V.</fn>, eundem pugnis satis contudit. Videtur enim mihi vir dei, qui a pace, qualem dat c{e}sar, abhorret.<zzl>zl17127-11E</zzl> Consentio itaque non difficulter Augustano
+<fn>Unbekannt.</fn>, qui scripsit: "O pacem, non pacem, sed multarum calamitatum parentem!" Non mirum igitur, abitum si minantur Musculus et alii.
+<fn>Vgl. <qv>nr2753</qv>,<qv>zl17000-17</qv>; <qv>nr2759</qv>,<qv>zl17027-13</qv>; <qv>nr2791</qv>,<qv>zl17060-4</qv>; <qv>nr2839</qv>,<qv>zl17106-4</qv>.</fn> Sed papist{e} vicerunt, et pars longe maior victus
+<fn>Mit der "pars longe maior" sind die Schmalkaldener gemeint.</fn> est! Ferant igitur, qu{e} libenter, imo nemine petente, receperunt.
+<fn>Kritik am Frieden, den die süddeutschen Städte mit dem Kaiser suchten.</fn><zzl>zl17127-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17127-5A</zzl>De Argentinensibus nondum accipio praeter rumores, sed plane falsos. Qu{e} vera sunt, expecto in dies.<zzl>zl17127-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17127-6A</zzl>Anglum
+<fn>John Hooper; vgl. <qv>nr2861</qv>.</fn>, qui venit ad vos, habeto commendatum. Habet enim speciem pietatis et doctrin{e} san{e}; quamobrem dignum arbitror, ut cui a vobis bene fiat. Uxor
+<fn>Anne t'Serclaes.</fn> multo piissima est. Vellem itaque maritum haberet per omnia respondentem; quod dico non ob aliud, nisi quod non ita multis diebus cum eo familiaritatem contraxi,
+<fn>Vielleicht an der kurz zuvor in Basel gefeierten Hochzeit von Hooper; s. <qv>nr2861</qv>.</fn> unde ad plaenum potuerim nosse ingenium viri.<zzl>zl17127-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17127-7A</zzl>Foedus, quo de a tergo literarum tuarum
+<fn>In <qv>nr2850</qv>,<qv>zl17118-6</qv>. - Angesprochen ist die Nachricht von dem Bündnis, das die Hansestädte angeblich mit England, Frankreich, Dänemark, Polen und Sachsen geschlossen hatten.</fn>, utinam ictum foret! Non quod ita faveam foederibus pro evangelio, sed ut Carolus haberet, quos cogeretur timere, si forte aliquando casurum esset istud "Plus ultra"
+<fn>Die Devise von Karl V.; s. <a>Brandi, Karl V.</a> I 48f.</fn>.<zzl>zl17127-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17127-8A</zzl><zzl>zl17127-2A</zzl>De navibus quatuor non recte scripsi
+<fn>In <qv>nr2855</qv>,<qv>zl17124-1</qv>.</fn>. Venerunt ex nescio qua Indi{e} parte naves tot, onust{e} auro et argento, in Hispaniam, et ex Hispania paulatim per mercatores importantur Antwerpi{e} in damnum Germani{e}.<zzl>zl17127-2E</zzl> Manet tamen adhuc dubium, si ita sit, ob avariciam c{e}saris incogitabilem.<zzl>zl17127-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17127-9A</zzl>Qui
+<fn>Unbekannt.</fn> hinc abierunt Argentinam, nondum redierunt. Adhuc ergo ignoro, quid rei sit. Plura non habeo.<zzl>zl17127-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17127-10A</zzl>Vale in domino cum tuis et Gvaltero, cui scribam, cum primum fuerit ocium.<zzl>zl17127-10E</zzl> <zzl>zl17127-1A</zzl>Basileae, 44.
+<fa><i>Richtig</i> 24.<i>; s. oben <qv>fn17127-1</qv>.</i></fa> martii anno 1547.<zzl>zl17127-1E</zzl></p>
+<un>Os. Myconius</un>
+<un>tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, episcopo Tigurino dignissimo, fratri ac domino venerando suo. Ti[guri]
+<fa><i>Textverlust bei der Entfernung des Siegels.</i></fa>.</p>
+</div>
+</text>
+</brief>

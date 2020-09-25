@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2435">
+<brief>
+<id>16122</id>
+<nr>2435</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 27. April [1546]
+<fn>Das Jahr ergibt sich aus der Erwähnung der Cyrill-Ausgabe.</fn></od>
+<vo>Autograph: Zürich StA, E II 366, 114 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopien 18. Jh.: Zürich ZB, Ms S 60, 75 (28. April 1546), Ms S 74, 193 (28. April 1551); Zit.: <i>Gast,</i> Tagebuch 86 (A 249)(31. März 1551). ─ Undat. Brief 398: Nach Erscheinen von Herwagens Cyrill-Ausgabe 1546; Westheimer war damals Mitarbeiter Herwagens und aushilfsweise Pfarrer in Therwil/BL.; Zusammenhang mit Gast an HB, 28. August 1548; somit frühestens Osterdienstag 27. April 1546, vielleicht 12. April 1547 oder eher 3. April 1548.</k></dr>
+<re>Gast konnte Myconius zu Hause nicht antreffen, und der Bote [...] wird [schon] in zwei Stunden aufbrechen. Myconius soll [nämlich] vor vier Tagen einen Brief an Bullinger geschrieben haben [<qv>nr2428</qv> oder <qv>nr2438</qv>].
+<t/>Anbei die fehlenden [Lagen] der Cyrill-Ausgabe aus Gasts eigenem Exemplar. Wenn [Bartholomäus] Westheimer [aus Frankfurt] zurückgekehrt ist, wird er Gast diese ersetzen.
+<t/>[Johannes] Oporin hat durch einen Schiffbruch im Hafen von Mainz einen unermesslichen Schaden erlitten. Drei seiner [Bücher]fässer konnten erst nach vier Stunden aus dem Wasser geborgen werden. Oporins Lage ist kritisch, denn wie soll er nun seine Gläubiger zufriedenstellen, auch wenn es heißt, dass er die restlichen Bücher an der [Frankfurter] Messe recht erfolgreich verkaufte? Mit etwas Glück hätte er all seine Schulden begleichen können.
+<t/>Die Beilage [unbekannt] ist für Theodor [Bibliander] zum Lesen bestimmt, dem Gast auch geschrieben hätte, wenn Zeit dafür gewesen wäre. Grüße an [Johannes] Fries, der mitteilen soll, warum er nicht durch den zu ihm geschickten Boten [...] geantwortet hat.
+<t/>Gast konnte den Brief nicht nochmals lesen.</re>
+<text>
+<p>S. in domino. Myconium domi non reperi, et tabellio
+<fn>Unbekannt.</fn> ad duas horas accinctus erat ad iter. Scripsit etiam Myconius ante 4 dies ad te variis de rebus,
+<fn>Damit ist entweder Brief <qv>nr2428</qv> vom 21. April oder aber Brief <qv>nr2438</qv> vom 28. April gemeint. Letzteren könnte Myconius erst bei Übergabe an den Boten datiert haben, denn er hielt manchmal in seinen Briefen vor der Monatsangabe einen Platz für die Tagesangabe frei, um diese später zu ergänzen; s. z.B. <a>HBBW</a> XV 79, Anm. l (zu Nr. 2064).</fn> quemadmodum heri mihi dixit.</p>
+<p><zzl>zl2435-1A</zzl>En defectum in Cyrillo
+<fn>In Bullingers Cyrill-Ausgabe (s. <qv>nr2394</qv>,<qv>zl2394-3</qv>) fehlten offenbar einige Lagen.</fn> ex meo Cyrillo, quem integrum faciet Westhemerus, quum redierit
+<fn>Wohl aus Frankfurt. - Bartholomäus Westheimer handelte hier vermutlich im Auftrag der Offizin Herwagen, bei der die Cyrill-Ausgabe erschienen war; s. schon <qv>nr2394</qv>, <qv>fn2394-2</qv>.<zfn>fn2435-1</zfn></fn>.<zzl>zl2435-1E</zzl></p>
+<p>Verum heus tu, dole nobiscum! Oporinus noster naufragium fecit in portu Moguntino. Tria vasa illi submersa extracta post 4. horam. Omnino madida fuit papyrus. Sic dominus illum optimum et pium virum emergere non vult neque divitiis onerare.
+<fn>Oporin hatte stets Schulden. Als er am 6. Juli 1568 starb, kamen Verpflichtungen in Höhe von 10'000 bzw. 15'000 Gulden zum Vorschein; s. <a>Steinmann</a> 54-56. 87f. 112-116; Karl <i>Schmidt,</i> Die Briefe Joh. Oporins an den Strassburger Prediger Conrad Hubert, in: <a>BZGA</a> 13 (NF 3), 1893, 415-419. 425.</fn> Ingens damnum accepit et vix superabile, ni dominus suo auxilio aliud medium ostendat, quo debitoribus satisfaciat, etsi audierim a mercatoribus nostris nundinas
+<fn>Die Frankfurter Frühjahrsmesse. Zu deren Daten s. <qv>nr2351</qv>, <qv>fn2351-3</qv>.</fn> in distrahendis libris reliquis satis felices habuisse ac propitium numen. Valedixisset omnino usurariis istis, a quibus mutuo pecunias hactenus accepit, si fortunae successum habuisset. Verum domino ita visum fuit, et h{e}c crux, etsi molesta, ferenda aequo animo
+<fa><i>In der Vorlage</i> domino.</fa>. Dominus mitigabit et successum meliorem daturus est, quam unquam credidissemus.</p>
+<p>Vale. Haec
+<fn>Unbekannte Beilage.</fn> d. Theodoro
+<fn>Theodor Bibliander.</fn> legenda mittes; nam et illi scripsissem, sed tabellio properabat. Salutabis Frisium nostrum
+<fn>Johannes Fries.</fn> et dic illi, qui fiat, quod nihil rescripserit per certum illum nuntium
+<fn>Unbekannt.</fn>, quem ad illum miseram.</p>
+<p>Basileae, feria 3. post pascha. Non relegi.</p>
+<un>Tuus Ioannes Gastius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Doctissimo ac humanissimo viro m. Heinrycho Bullingero, ecclesiae Tigurin{e} pastori vigilantissimo, suo fratri dilecto. Zurich.</p>
+</text>
+</brief>

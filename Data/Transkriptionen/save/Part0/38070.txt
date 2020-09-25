@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="38070">
+<nr>38070</nr>
+<correspondents>
+	<originator>Georg von Stetten</originator>
+	<addressee>Bullinger.</addressee>
+</correspondents>
+<space_time>
+	<place>Augsburg</place>
+	<date>21. Juni 1568</date>
+</space_time>
+<vo>Zürich StA, E II 378, 1827. / Orig. Aut.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S.  Mitto ad te, domine colendissime, schedam ex qua, quae
+apud nos feruntur et nuper in Belgio gesta sunt, percipies.
+Mitto etiam literasd. Halleri, quas m. Schenkius rogavit ut
+meis includerem. Is quoque, te plurimum ut suo nomine
+salutem, rogavit.
+Bene vale.
+Datum Augustę  21. iunii anno 1568.
+R[everentiae] t[uae] studiosissimus Georgius a Stetten.
+Reverendo, pio atque erudito domino Henrico Bullingero,
+ecclesię Tigurinę antistiti fidelissimo, domino et
+amico suo colendo.                        Tiguri.
+</content>
+</letter>

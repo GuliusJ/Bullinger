@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1205">
+<nr>1205</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>6. Dezember 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 182 (neu: 200) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für die Nachrichten [Nr. 1203]; erfährt wegen der Pest kaum Neues, hat nur gehört, der Bischof von Münster sei
+vertrieben worden. Bedrot schreibt, im Frühjahr sei mit Krieg gegen [die Protestanten] zu rechnen, wobei wohl der Einzug von
+Kirchengütern zum Vorwand genommen werde; Hedio hat von Caesarius erfahren, es bahne sich ein Konflikt um das Herzogtum
+Geldern an. In Burgund erregt ein neuer Prophet großes Aufsehen, der die Priester kritisiert, aber die Messe verteidigt; er wird
+wohl keinen bleibenden Erfolg haben. Die Universitätsreform läuft in eine falsche Richtung: Die Universität will den Dienst
+am Wort unter ihre Kontrolle bringen und wird dabei von Karlstadt und Wissenburg unterstützt, während Grynäus wie
+Myconius unter Druck steht, den Doktorgrad zu erwerben; auch droht die Entfremdung von Kirchengut zugunsten der Universität,
+was Myconius angesichts der Lage der Pfarrer nicht akzeptieren kann; Bullinger soll all dies für sich behalten, Stellung dazu
+nehmen und wenn möglich den Wortlaut des Doktoratseides mitteilen. Grüße.
+</re>
+<tx>S. Nos hic tam occupatos tenet pestis, ut de exteris
+rebus non sit cura, et qui foris sunt amici, non nisi
+consolantur. Quamobrem, quę scripsisti<f1>Oben Nr. 1203.<fe>, nova sunt omnia, etiam de Monasteriensibus<f1>Ebenda, Z.
+7f.<fe>; nihil enim de his audivi, nisi denuo eiectum esse episcopum<f1>Das Gerücht von der Vertreibung des Bischofs von
+Münster, Franz von Waldeck, erwies sich als falsch; s. unten Nr. 1208, 33f.<fe>. Gratias igitur ago, charissime mi Bullingere,
+quod illa nunciaris; mirum enim, quam talia nosse percupiam, quamvis dolorem et incutiant et augeant.
+^$Ad ver scripsit tamen nuper Bedrotus<f1>Der Brief Bedrots scheint verloren zu sein.<fe> timeri bellum contra nos, haud quidem religionis praetextu, sed occupatorum
+iniuste bonorum ecclesię<f1>Konkreter Anlaß für diese Sorge war wohl die Verhängung der Reichsacht über Minden; vgl. oben Nr. 1193, 11-13 mit Anm. 6.<fe>. Ex Germania quoque Inferiori
+Caesarius Hedioni significavit<f1>Ein entsprechender Brief von Johannes Caesarius an Hedio ist nicht erhalten.<fe> tumultus
+futuros ob ducatum Gelrhię<f1>Nachdem Herzog Karl von Egmont am 30. Juni 1538 kinderlos gestorben war, wurden von
+verschiedener Seite Ansprüche auf das Erbe erhoben; s. ^#/+Brandi^#/- I 371f; vgl. auch Corr. des réformateurs V 146.<fe> gravissimos, ni deus praeveniat.
+^$Mira praeterea narrantur de propheta novo quodam in
+partibus Burgundię<f1>Der angeblich wundertätige Wanderprediger, dessen Name nicht bekannt ist, kam aus ehemals
+savoyischem Gebiet, wo er etwa zwölf Jahre vorher Beichtvater in einem Frauenkloster gewesen war. Nach einem Vergehen soll er in
+Rom die Erlaubnis erwirkt haben, das Kloster zu verlassen und eine Pfarrei zu versehen, doch verlor er sein Amt nach der
+Eroberung des Gebietes durch Bern. 1539 attackierte er in seinen Predigten die Pfarrer von Mömpelgard. Johannes Vogler,
+Pierre Toussain und Calvin berichten über ihn; s. Vadian BW V 556f. 568; Corr. des réformateurs V 343-345. 347-351; Rodolphe Peter und Jean-François Gilmont, Bibliotheca Calviniana. Les oeuvres de Jean Calvin publiées au XVI^#'e siècle, Bd. I, Genf 1991, Nr. 39/2.<fe>:
+Pueros vita defunctos excitat, prędicat contra sacerdotum lasciviam, missam extollit tamen. Confluxus est ingens ad ipsum;
+una concione simul fuerunt ultra quatuordecim millia virorum. Equidem ex his, quę audivi, non possum probare hominem; verum
+non perdurabit, si talis est, qualem iudico.
+^$De universitate vis audire<f1>Vgl. oben Nr. 1203, 29.<fe>. Reformant hanc iam a decimo
+anno, et fit subinde deterior. Paulo ante convenerunt et ob
+eandem causam conscripserunt articulos, e quibus tertius
+ministerium verbi conatur subiicere universitati<f1>Die "Concepta pro instauranda universitate", auf die sich Myconius
+bezieht, finden sich in Basel StA, Erziehung X 2, eine Abschrift in Basel UB, H IV 16, S. 151-154; vgl. Theophil
+^#/+Burckhardt-Biedermann,^#/- Die Erneuerung der Universität zu Basel in den Jahren 1529-1539, in: Beiträge zur vaterländischen
+Geschichte, hg. von der Historischen und Antiquarischen Gesellschaft zu Basel, NF IV, 1892, S. 457-465.<fe>. Et quamvis
+hoc negent strenue, convincuntur tamen ipso articulo. Adsidet his Carolstadius et Wissenburgius, nec solum consentiunt, sed
+rem ut necessariam urgent (hoc in aurem tibi). Dominus Grynęus, quia sollicitatur ad doctoratum, in pari mecum casu
+versatur<f1>Grynäus lehnte ebenso wie Myconius die Annahme des akademischen Doktorgrades ab; vgl. etwa Amerbach, Korr. V
+277-279, bes. Anm. 2.<fe>. Secundus item articulus intolerabilis est mihi, qui petit certum in singulos annos reditum<f1>Die
+Universität hatte bereits 1535 erfolglos verlangt, daß ihr die Pfründen des Petersstifts wieder einverleibt und ergänzende
+Einkünfte aus den Klostergütern bewilligt werden sollten; s. ^#/+Burckhardt-Biedermann,^#/-
+aaO, S. 429-435.<fe>. Constat
+enim bona ecclesiastica defectum hunc oportere sarcire<fx>^#/+in der Vorlage ^#/-sarciri.<fe>, quod
+quidem ferre possem utcunque, nisi interim fratribus non
+esset indigendum extreme. Non potes credere, quanto labore
+hactenus pro illorum paupertate sudaverim frustra; verum non
+desinam, postquam novi, quod fit, opus esse satanę ad
+expellendum evangelium. Hic non pestis, non Turca, non
+pravę contra nos potentium consultationes reprimere
+possunt vanum<fx>^#/+vor ^#/-vanum ^#/+ein gestrichenes Zeichen.^#/-<fe> insolentię conatum, tanquam nihil sit
+agendum nobis aliud nisi de pompa et titulis universitatis.
+Equidem contra hanc absit ut aliquid tentem, imo iuvi
+hactenus pro virili et iuvabo deinceps, ut studia sint quam
+optima, tantum dirigantur in gloriam Christi. Quod quidem
+dum<fx>dum ^#/+aus einem gestrichenen, unlesbaren Wort korrigiert.^#/-<fe> factum fuerit, satis ero contentus, sin
+aliter, eiici malo quam ferre. Hęc ita tibi, ut literas lectas protinus discerpas. Quę scis igitur, nescias volo;
+modo, quid videatur, ante respondeas. Iuramentum doctoratus adeo<fx>adeo ^#/+korrigiert aus ^#/-ad.<fe> me cęlant, ut cognoscere
+nequeam; scio ego autem ad confirmationem regni papistici esse. Sicubi demonstrare potes, fac, quęso, ne diutius istud
+ignorem<f1>Am 19. Januar 1539 erkundigte sich Myconius erneut nach dem Eid der Doktoranden (s. Zürich StA, E II 336, 184); zu
+dessen Inhalt in vorreformatorischer Zeit s. Die Statuten der Theologischen Fakultät der Universität Basel. Im Auftrag der
+Historischen und Antiquarischen Gesellschaft zu Basel hg. v. Carl Christoph Bernoulli, Basel 1910, S. 31f.<fe>.
+^$Vale cum uxore<f1>Anna, geb. Adlischwyler.<fe> et liberis<f1>Siehe oben Nr. 1106, Anm. 11.<fe>, Pellicano item,
+Theodoro<f1>Theodor Bibliander.<fe> et aliis.
+^$Basileae, 6. decembris anno 38.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, praesidi verbi apud Tigurinos, in domino venerando suo.
+</content>
+</letter>

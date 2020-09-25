@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2595">
+<brief>
+<id>16283</id>
+<nr>2595</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 22. September 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 200 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 510f, Nr. 1351<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 164 </k></dr>
+<re>Blarer hat Bullinger am [20. September] mit dem Überbringer [...] der für [Hans] Schöner bestimmten Brief- und Geldsendung geschrieben [<qv>nr2592</qv>].
+<t/>Kaiser [Karl V.] liegt in Ingolstadt.
+<t/>Die Italiener und Spanier [des kaiserlichen Heeres] haben seltsame Sitten. Ein Spanier [...] vollzog die Ehe mit einer Italienerin [...] in der Nebenkapelle der Kirche, während der Zugang von den Dienern des Bräutigams versperrt wurde.
+<t/>Die [Schmalkaldener] liegen noch bei Donauwörth. Ihre Pläne sind unbekannt. Die italienischen [Truppen] sind unwillig und etliche ziehen ab, obwohl der Kaiser die Hinrichtung von Deserteuren angeordnet hat. Auch die deutschen Soldaten [des kaiserlichen Heeres] sind ungehalten, da anscheinend eine Seuche im Lager grassiert, Entbehrungen in Kauf genommen werden müssen und es an Geld mangelt. Es wäre gut, wenn man die Sache hinter sich hätte!
+<t/>Die Venezianer wollen sich die Deutschen nicht zu Feinden machen.
+<t/>Es soll eine erneute Verstimmung zwischen Frankreich und England geben. Genaueres weiß Blarer nicht.
+<t/>Bullinger soll beten.
+<t/>[P.S.:] Grüße.</re>
+<text>
+<p><zzl>zl16283-3A</zzl>Scripsi ad te nudius tertius
+<fn><qv>nr2592</qv> vom 20. September.</fn> per postam
+<fn>Unbekannt.</fn> missis etiam ad Sch{oe}nerum
+<fn>Hans Schöner.</fn> literis cum pecunia.
+<fn>Ein Sendung von Schöners Schwester Sabina; s. <qv>nr2592</qv>,<qv>zl16279-3</qv>.</fn><zzl>zl16283-3E</zzl> Nihil vero prorsus accessit novi, quod nunc scribam.</p>
+<p>Der kaiser
+<fn>Karl V. - Damals befand sich jedoch der Kaiser bereits in Neuburg a.d. Donau (s. <qv>nr2594</qv>, <qv>fn16282-1</qv>), das er schon am 23. September verlassen sollte; s. <qv>nr2596</qv>,<qv>zl16284-4</qv>; <a>Viglius van Zwichem</a> 94-96. - Das hier übermittelte, falsche Gerücht findet sich ebenfalls in einem Brief Heinrich Thomanns vom 19. September (<a>EA</a> IV/1d 737; Zürich StA, A 177, Nr. 34) und ist wohl auf eine Kriegslist des kaiserlichen Lagers zurückzuführen.<zfn>fn16283-1</zfn></fn> ligt z{uo} Ingolstadt in der statt.</p>
+<p>Die Italianer und Spanier habend seltzam hauß
+<fn>hier: Sitten.</fn>. Ain Spanier
+<fn>Unbekannt.</fn> ist ainem italianischen weyb
+<fn>Unbekannt.</fn> hold
+<fn>geneigt.</fn> worden. Hat iren willen
+<fn>Zustimmung.</fn> erlangt. Darnach in der kirchen hat man sy im z{uo}gef{ue}rt in ain n{ae}bencapelle. Habend inn seine diener verwaren
+<fn>abschützen; hier: den Zugang zur Kapelle versperren.</fn> m{ue}ssen, byß er sinen m{uo}ttwillen ausgestossen
+<fn>m{uo}ttwillen ausgestossen: seinem sexuellen Drang freien Lauf gelassen; s. <a>SI</a> XV 1291.</fn> hat, etc.</p>
+<p><zzl>zl16283-1A</zzl>Die unsern ligend noch z{uo} Thainowwerd
+<fn>Donauwörth; vgl. <qv>nr2585</qv> und <qv>fn16274-3</qv>.</fn>.<zzl>zl16283-1E</zzl> Nitt waist man, was sy f{ue}rnemmen wellend. <zzl>zl16283-4A</zzl>Die Italianer
+<fn>des kaiserlichen Heeres.</fn> sind gantz unwillig. Ziechend sich teglich ab, unangesechen
+<fn>obgleich.</fn> das sy der kaiser pryß geben hat.
+<fn>Zu verstehen ist: Italiener werden fahnenflüchtig, obwohl der Kaiser die Hinrichtung von Deserteuren angeordnet hat; vgl. <qv>nr2602</qv>,<qv>zl16289-4</qv>.</fn><zzl>zl16283-4E</zzl> <zzl>zl16283-5A</zzl>So
+<fn>Desgleichen.</fn> sind die teutschen knecht ouch ganz unwillig, dann es wirt constanter gesagt, das ain sterbet
+<fn>Seuche (Grippe?). Vgl. <qv>nr2602</qv>,<qv>zl16289-5</qv>; und einen in Nürnberg am 16. September verfasten Bericht: "In des kaisers lager soll es auch sterben" (zitiert in Georg <i>Voigt,</i> Die Geschichtschreibung über den Schmalkaldischen Krieg, Leipzig 1874, S. 755).<zfn>fn16283-4</zfn></fn> under des kaiser knechten seye und grosser mangel aller ding, ouch an gellt.
+<fn>Vgl. dazu <qv>nr2582</qv>,<qv>zl16271-3</qv>.</fn><zzl>zl16283-5E</zzl> Nitt waiß ich, wie es z{uo}geht. Were g{uo}t, man keme ab
+<fn>keme ab: werde frei von; s. <a>SI</a> III 270 s.v. abkommen.</fn> der sach.</p>
+<p><zzl>zl16283-2A</zzl>Die Venediger wellen die Teutschen nitt z{uo} finden machen.
+<fn>Vgl. <qv>nr2592</qv>,<qv>zl16279-4</qv>.</fn><zzl>zl16283-2E</zzl></p>
+<p>Es soll sich naiswas
+<fn>irgendetwas.</fn> newes unwillens zwyschen Franckrich unnd Engeland widerum z{uo}tragen haben.
+<fn>Entgegen den Bestimmungen des Friedensabkommens von Juni 1546 (s. <qv>nr2470</qv>, <qv>fn16160-1</qv>) hatte Frankreich im August mit dem Bau von Befestigungsanlagen nahe Boulogne begonnen, was englischen Widerstand hervorrief; s. <a>Potter</a> 468.<zfn>fn16283-2</zfn></fn> Kan nitt aigentlich
+<fn>genau.</fn> h{oe}ren, wie oder was.</p>
+<p>Tu bene vale, mi venerande et charissime Bullingere, et dominum pro me nostraque ecclesia diligenter interpella. 22. septembris 1546.</p>
+<un>Tuus Amb. Bl.</un>
+<lz/>
+<p>Salveant fratres et amici. Salutant
+<fa><i>In der Vorlage</i> salutante.</fa> te nostri omnes.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Bullingero suo. Tiguri.
+<fa><i>Darunter von Bullingers Hand:</i> Remitte has per praesentem tabellionem, <i>was darauf hinweist, dass Bullinger vorliegenden Brief einer anderen Person zum Lesen weitergeleitet hat, möglicherweise an Oswald Myconius; vgl. nämlich <qv>nr2514</qv>, <qv>fn16204-9</qv>; <qv>nr2602</qv>, <qv>fn16289-5</qv>.<zfn>fn16283-3</zfn></i></fa></p>
+</text>
+</brief>

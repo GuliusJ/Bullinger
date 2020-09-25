@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2216">
+<nr>2216</nr>
+<correspondents>
+	<originator>[Georg Frölich]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>18. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 164 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 205; Erw.: Johannes Hanhart, Gessner 116; Friedrich Roth, Augsburgs Ref'g' III 237; Friedrich Rudolf, Erstausgabe von Zwinglis Werken, NZZ 17. Juni 1545. ^&x{
+<re>Frölich hat sowohl Bullingers Brief an den [Augsburger] Rat [oben Nr. 2208] als auch Bullingers an ihn gerichteten Brief [nicht erhalten] gelesen. Bezüglich [der Berufung] Erbs [nach Augsburg] ist abzuwarten, was der junge [Markus Wüst] berichten wird; einstweilen dankt der [Augsburger] Rat für Bullingers Bemühungen.
+-^#. Dass Gessner und Froschauer so ehrenhaft über Frölich denken, ist ihrem Anstand zuzuschreiben. Gern hätte Frölich noch mehr mit ihnen gesprochen, doch sie reisten unerwartet ab. Es ist kein Wunder, dass [Anton] Fugger, ein strenger Papist, und der fromme Gessner hinsichtlich einer Anstellung nicht übereinkamen.
+-^#. Dass Luther schon wieder etwas gegen die [Zürcher] geschrieben habe, ist Frölich nicht bekannt. Er kennt nur das ["Kurtz bekentnis"], das Bullinger [mit dem "Warhafften Bekanntnuß"] so vortrefflich beantwortet hat. Sollte eine neue Schrift Luthers in [Augsburg] auftauchen, wo Luther auch Anhänger hat, würde Frölich sie unverzüglich an Bullinger senden.
+-^#. Der Reichstag [zu Worms] ist abgebrochen worden, zum Gespött des Kaisers und der Reichsstände, denn er brachte nichts hervor als Tricks, die besonders darauf abzielten, die nicht besonders einträchtigen Reichsstände noch zwieträchtiger zu stimmen. Weder die Fragen zum
+[Religions]frieden noch die Rechtsangelegenheiten wurden geklärt. Italiener und Spanier wollen in der Tat ganz Deutschland zugrunderichten.
+-^#. [Andreas] Osiander hat dieser Tage zum dritten Mal geheiratet, und zwar die junge Tochter [Helena] des Doktors [Johann] Magenbuch, und dies mit solchem Prunk, dass man diese Hochzeit mit dem Pomp Sardanapals verglichen hat.
+-^#. Der Bullinger ergebene Nikolaus [Müller, gen.] Maier, ein guter Freund Frölichs, wirkt in [Augsburg] als Ratgeber. Er vertrat Augsburg auf dem Reichstag zu Worms.
+-^#. Frölich wird sich Gessners "Bibliotheca [universalis]" von [der] Frankfurt[er Messe] mitbringen lassen; desgleichen die Werke Zwinglis.
+-^#. Grüße an [Kaspar] Megander, [Konrad] Pellikan, [Theodor] Bibliander, [Konrad] Gessner und [Rudolf] Gwalther, dessen poetisches Talent er in dem Gedicht ["De quinque primariis evangelicae doctrinae instauratoribus"] bewundern konnte.
+-^#. Bullinger möge die Fehler [in diesem Brief] verzeihen.</re>
+<tx>S. Tuas tam ad senatum nostrum<f1>Oben Nr. 2208.<fe> quam ad me datas literas<f1>Nicht erhalten. Siehe aber oben Nr. 2211, Anm. 16.<fe>, desyderabilissime vir, perlegi.
+Quantum add. Erbium pertinet,<f1>Zur Berufung Matthias Erbs nach Augsburg s. zuletzt oben Nr. 2213.<fe> expectabimus, quid adulescens<f1>Markus Wüst; s. oben Nr. 2209 und Anm. 11.<fe> tibi ad ipsum ablegatus reportaturus sit.
+Magistratus noster interim agit tibi gratias pro diligentia et labore in hac re impensis polliceturque se aliquando tibi regratificaturum.
+Ego, etsi negotiis distringar, tamen amicos pręterire neutiquam debeo, cum plęraque facere cogar,
+quę multo minoris momenti sunt quam ea, quę in amicos, omni metallo preciosiores, iure optimo semper
+vel scriptitando vel respondendo conferenda sunt. Utinam illis pro decoro et dignitate satisfacere queam!
+^$Quodd. d. Gesnerus et Froschouerus tam honeste de me sentiant,<f1>Gessner und Froschauer waren in Augsburg von Frölich zum Essen eingeladen worden; s. oben Nr. 2203, 8-11.<fe> ipsis decori adscribo, qui etiam negligentiam
+et tenuitatem amiculi candide accipiunt. Volui sane plura cum illis conferre, nisi quasi insperato abiissent.
+Fuggeri vocatio viri tanti, nostri nemped. Gesneri,<f1>Zu Anton Fuggers Interesse an Konrad Gessner s. oben Nr. 2185, 27-36; 2203, 14-19.<fe> fęcit mihi varias cogitationes, cum sciveram
+Fuggerum esse extreme papistam, illum vero per omnia pium; inde non mirum est,
+si de conditione inter eos parum convenerit. Dominus virum hunc<f1>Gemeint ist Gessner.<fe> ad meliorem frugem nobis servaturus est.
+^$An Lutherus adversum vos iam denuo scripserit, mihi omnino non constat,<f1>Ähnlich hatte sich Frölich schon am 28. Juli geäußert; s. oben Nr. 2203, 20-22.<fe> neque aliud exemplum
+quam illud ipsum,<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> ad quod tu tam pie tamque necessario respondisti,<f1>Das "Warhaffte Bekanntnuß" der Zürcher; s. oben Nr. 2061, Anm. 9.<fe> hactenus vidi.
+Verum, si quid pro more suo relatravit, brevi crędo ad nos venturum. Habet enim Lutherus
+et hic suę farinę<f1>von seinem Schlag; vgl. Adagia, 3, 5, 44 (ASD II/5 321f, Nr. 2444).<fe> homines, qui regnum ipsius propagatum velint; sed, deo gratia, frustra.
+Quamprimum tale quid prodierit, tibi citra moram communicabo.
+^$Comitia iam tandem dirempta sunt cum magno deludibrio<f1>deludibrio = ludibrio.<fe> tam caęsaris<f1>Karl V.<fe> quam ordinum imperii;<f1>Zum Reichstag zu Worms s. zuletzt Nr. 2211, Anm. 24. 28; 2213, 85-88.<fe>
+nam nihil pręter technas et imposturas pepererunt, maxime vero ad id instituta,
+quomodo status imperii alioqui male concordes discordiores redderentur.
+Discessum est ex Wormatia<f1>Zur Abreise des Kaisers aus Worms s. oben Nr. 2211, 36f und Anm. 23.<fe> rębus omnino inconfectis, ita ut neque pacis conditiones neque ius et iustitię administratio<f1>Anspielung auf die Probleme, die das Reichskammergericht damals hatte; s. oben Nr. 2131, 96-100 und Anm. 58f.<fe> extent.
+Velint profecto et ex animo cuperent Itali et Hispani Germaniam totam pessum iri.
+^$Osiander iam valeat. His diebus<f1>Der Ehevertrag datiert vom 20. Juli 1545 und wurde am 27. Juli 1545 verkündet; s. Osiander GA VIII 367-369, Nr. 324.<fe> tertiam<f1>Osiander war von 1525 bis 1537 mit Katharina Preu, von 1537 bis Mai 1545 mit Helena Kunhofer verheiratet gewesen; s. Osiander GA III 450, Anm. 14.<fe> duxit uxorem, iuvenculam omnino, doctoris Magenbuchi<f1>Johann Magenbuch, geb. 1487 in Blaubeuren (Alb-Donau-Kr., Baden-Württemberg), gest. 14. Oktober 1546 in Eichstätt (Bayern). 1518 immatrikuliert in Wittenberg. Am 9. Dezember 1523 dort Dr. med.; Am 20. Juni 1524 Stadtarzt in Nürnberg. Mit Osiander kollegial und freundschaftlich verbunden. - Lit.: Osiander GA III 57 (mit weiterer Lit.); Wikipedia.<fe> filiam,<f1>Helena Magenbuch, geb. 14. März 1523, gest. 8. September 1597 in Hohenacker (zu Waiblingen, Baden-Württemberg) als Tochter von Johann Magenbuch und dessen erster Gattin Priskia Hunnia von Schweinitz. Helena Magenbuch verfügte über Kenntnisse in Botanik und Arzneikunde und interessierte sich für Alchemie. Juli/August 1545 Hochzeit mit Andreas Osiander. 1549 ging sie mit Osiander nach Königsberg (s. dazu Gottfried ^#/+Seebaß,^#/- Zwei Briefe von Andreas Osiander, in: Mitteilungen des Vereins für Geschichte der Stadt Nürnberg 57, 1970, 213f). Nach Osianders Tod (1552) heiratete sie 1556 Johannes Rucker oder Rückher (gest. 6. Dez. 1579), mit dem sie zwei Söhne und drei Töchter hatte. Nach Ruckers Tod zog sie nach Stuttgart, wo sie unter der Herzogin von Württemberg, Sibylla von Anhalt, bis zum 14. März 1597 als Hofapothekerin wirkte. Danach wurde ihr ein jährliches Leibgeding ausgesetzt. Sie lebte dann wahrscheinlich bei ihrer Tochter Maria (verheiratet mit Pfarrer Stephan Zahn) in Hohenacker (zu Waiblingen, Lkr. Rems-Murr-Kreis, Baden-Württemberg), wo sie starb. - Lit.: G[ustav] ^#/+Bossert,^#/- Die dritte Gattin von Andreas Osiander, in: ARG 12, 1915, 158-160; Osiander GA VIII 367, Anm. 8; NDB XIX 608f.<fe>
+tanta cum pompa et apparatu, ut Sardanapali<f1>Sardanapal, legendärer assyrischer Herrscher, Besitzer großer Reichtümer und berüchtigt wegen seiner ausschweifend-verweichlichten Lebensart; s. Pauly/Wissowa II/2 2436-2475; Adagia, 3, 7, 27 (ASD II/6 439f, Nr. 2627).<fe> insolentię sponsalia ista conferri audierim.
+^$D. Nicolaus Mayer<f1>Nikolaus Müller gen. Maier.<fe>, tibi olim et adhuc addictissimus,<f1>Frölich bezieht sich auf Bullingers Briefwechsel mit Maier aus dem Jahr 1541.<fe> iam consiliarium nostrum agit.<f1>Maier wirkte von 1544 bis 1548 als Stadtadvokat in Augsburg; s. HBBW XI 185, Anm. 1.<fe> Fuitque per totum comitiorum tempus
+Wormatię.<f1>Zu Maiers Teilnahme am Wormser Reichstag s. RTA JR XVI/2 1495-1508 u.ö. Er war an den Verhandlungen über die Wiederbelebung des Schwäbischen Bundes (s. dazu oben Nr. 2173, 40-42 und Anm. 23; unten 2227, 61f) beteiligt.<fe> Ante triduum vero reversus domi delitescit. Vir pius et optimus, mihi in fratrem selectus.
+^$Bibliothecamd. Gesneri<f1>Zu Gessners Bibliotheca universalis s. oben Nr. 2203, 28-30 und Anm. 13.<fe> mihi ex Franckfordia<f1>Zum Termin der Frankfurter Herbstmesse s. oben Nr. 2095, Anm. 26.<fe> advehi curabo,<f1>Schon in seinem Brief vom 28. Juli hatte Frölich dieses Vorhaben geäußert; s. oben Nr. 2203, 28-30 und Anm. 13.<fe>
+neque operibus divi<fx>divi ^#/+am Rande nachgetragen.^#/-<fe> Zvinglii<f1>Zur Gesamtausgabe der Werke Zwinglis s. oben Nr. 2069, Anm. 30.<fe>, papę fulminis illius trisulci<f1>Das "fulmen trisulcum", der dreizackige Blitz, ist Attribut Jupiters; vgl. etwa ^#/+Ovid,^#/- Metamorphosen, 2, 848f ("trisulcis ... ignibus"). - "papę" ist als Dativ aufzufassen: der für den Papst bestimmte Blitz.<fe>, carebo.
+^$Vale in domino et salutem ex me dicito viris incomparabilibus dominis Megandro, Pellicano, Bibliandro,
+Gesnero et Gvaltero, cuius delectabilem venam in carmine<f1>Wohl "Rodolphus Gvaltherus Tigurinus de quinque primariis evangelicae doctrinae instauratoribus"; s. oben Nr. 2214, 24f und Anm. 16.<fe> vidi et ob id, antea dilectus, mihi dilectior erit.
+^$Celerrime, 18. augusti 1545. Ignosce oscitantię<f1>Fahrlässigkeit; s. ^#/+Hoven,^#/- s.v.<fe>.
+^&x[ohne Unterschr.ift.]^&x{
+<lz>[Adresse auf f. 164a,v.^&x<fx>^#/+F. 164a, r. ist leer.^#/-<fe>^&x{:] Incomparabili viro domino Henricho Bullingero, Tigurinę ecclesię anthistiti vigilantissimo, amico et fratri perpetuo.
+</content>
+</letter>

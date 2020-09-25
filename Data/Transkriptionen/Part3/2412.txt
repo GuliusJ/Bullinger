@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2412">
+<brief>
+<id>16100</id>
+<nr>2412</nr>
+<ae>Josias Simler an Bullinger</ae>
+<od>[Basel], 5. April [1546]
+<fn>Jahr und Abfassungsort des Briefes ergeben sich aus den im Brief gemachten Zeitangaben (unten Z. <qv>zl2412-3</qv>), aus der auf unten Z. <qv>zl2412-4</qv> angeführten Schrift zu Luthers Tod und aus den im Schreiben erwähnten Professoren.</fn></od>
+<vo>Autograph
+<fa><i>Mit Randbemerkungen von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 40, 443 (ohne Siegel)</vo>
+<dr>Ungedruckt<k>Zürich ZB, Ms S 60, 32. ─ Undat. Brief 630. Jahr: Simler, in Basel, bald nach Luthers Tod.</k></dr>
+<re>Simler empfing Bullingers Brief [nicht erhalten] wie auch den seines Vaters [Peter]. Er wundert sich über das in den zwei Schreiben geäußerte Gerücht, in [Basel] wüte die Pest. Wahrscheinlich rührt es von einigen Todesfällen in der [Basler] Vorstadt St. Alban her, die eingetreten waren, bevor Simler und [Huldrych Zwingli d.J.] vor drei Wochen in [Basel] ankamen. Seitdem sind höchstens fünf Menschen aus der großen Gemeinde von St. Leonhard verstorben, und zwar an Altersschwäche oder anderen Krankheiten, wie [Konrad Wolfhart], der [Haus]herr [von Simler und Zwingli d.J.], bezeugte. Niemand hatte die Pest. Dies teilt Simler auch in der beiliegenden Antwort an seinen Vater mit.
+<t/>Zu den Lehrveranstaltungen: Am Morgen besuchen sie lediglich Johannes Hospinians Vorlesung zu Ciceros rhetorischer Schrift "De inventione". Ab Mittag liest Veit Ardüser über Arithmetik. Hospinian legt Ciceros Rede "Pro Milone" aus. Hinzu kommen [Martin] Borrhaus' Lektionen über [das Buch] Exodus sowie [Ulrich] Hugwalds Vorlesung über die aristotelische Ethik. Sie würden auch Dialektik hören, doch ist Markus Hopper [damit] schon fast am Ende angelangt. Sie werden aber an Hoppers Vorlesung über [Johannes] Caesarius' "Dialektik" teilnehmen.
+<t/>Ein von Justus Jonas herausgegebenes Büchlein zu Luthers Tod schickt Simler nicht, weil die [Zürcher] es schon längst erhalten haben dürften. Anbei sendet er ein gedrucktes Bild mit dem Papst [als Antichrist], welches Bullinger auf einem [glänzenden, metallischen] Gegenstand besitzt.
+<t/>Simler und Zwingli [d.J.] grüßen [Anna Bullinger, geb. Adlischwyler], die Magd [Brida Schmid] und die ganze Familie. [Konrad Wolfhart] und Zwingli [d.J.] lassen Bullinger zurückgrüßen.</re>
+<text>
+<p>Gratiam et pacem a domino. Accepi litteras tuas,
+<fn>Nicht erhalten.</fn> domine colendissime, quibus significas rumorem sparsum apud vos esse pestem apud nos grassari,
+<fn>Bullinger hatte Ähnliches von Johannes Gast aus Basel vernommen; s. <qv>nr2394</qv>,<qv>zl2394-2</qv>; <qv>nr2402</qv>,<qv>zl2402-1</qv>.</fn> quod tamen mirari satis non possum. Agnosco tamen hic famam malum, quo non aliud velocius ullum,
+<fn>Vgl. <i>Vergil,</i> Aeneis, 4, 174.</fn> bene a poetis descriptum esse; vere etenim poeta dixit: "Tam pravi fictique tenax quam nuntia veri."
+<fn><i>Vergil,</i> Aeneis, 4, 188.</fn> Hunc tamen rumorem hinc semina sua cepisse existimo, quod <zzl>zl2412-3A</zzl>in suburbio, quod divi Albani nomen habet, homines aliquot dolore capitis decesserunt, priusquam nos
+<fn>Josias Simler und Huldrych Zwingli d.J., die sich Mitte März für das Studium nach Basel begeben hatten; s. <qv>nr2378</qv>, <qv>fn2378-1</qv>.</fn> huc pervenerimus. Morbus tamen deo volente iam cessat. Et pauci admodum decumbunt et
+<fa>et decubuere <i>am Rande nachgetragen.</i></fa> decubuere. Tribus quoque his hebdomadibus quatuor aut ad summum quinque homines in ecclesia divi Leonardi (quae tamen numerosissima est) decesserunt,<zzl>zl2412-3E</zzl> et ii tum senio tum aliis morbis confecti, quod domino nostro
+<fa>nostro <i>über der Zeile nachgetragen.</i></fa>
+<fn>Gemeint ist Konrad Wolfhart (Lycosthenes), bei dem Simler und Zwingli d.J. wohnten; s. <qv>nr2378</qv>, <qv>fn2378-1</qv>.</fn> referente cognovi, qui {e}grotos ipsos invisit. Nemo tamen horum peste laboravit. Significavit mihi hec eadem pater
+<fn>Peter Simler, der demnach seinem Sohn einen (heute nicht mehr erhaltenen) Brief geschrieben hatte.</fn>, cui breviter his adiectis litteris
+<fn>Nicht erhalten.</fn> respondi. Nolim itaque existimes me celaturum vos fuisse pestem regnantem, si qua esset. Adhortationis tu{e} sedulum executorem me praebebo auxiliante domino.</p>
+<p><zzl>zl2412-1A</zzl>Paucis quoque hic tibi lectiones nostras enarrabo, quo etiam cognoscas, quae nostra sint studia. Horis matutinis unicam tantum lectionem audimus, d. videlicet Ioannem Hospinianum Rhetorica Ciceronis De
+<fa>De inventione <i>korrigiert aus</i> ad Herennium.</fa> inventione profitentem.
+<fn>Zu diesem Unterricht Johannes Hospinians s. <qv>nr2386</qv>,<qv>zl2386-4</qv>.</fn> A meridie vere Vitum Ardiseum
+<fn>Veit Ardüser.</fn> praelegentem arithmeticam audimus, et Hospinianum legentem orationem Ciceronis Pro Milone,<zzl>zl2412-1E</zzl> adhec Cellarium
+<fn>Martin Borrhaus.</fn> in Exodo et Hugwaldum
+<fn>Ulrich Hugwald.</fn> Ethica praelegentem Aristotelis. Dialecticam audiremus, sed eam ferme finiit Marcus Hoperus. Cum
+<fa><i>Nach</i> cum <i>gestrichenes</i> ab initio.</fa> incepturus est Cesarium
+<fn>Damit sind Johannes Caesarius und dessen "Dialectica", die seit 1529 (<a>VD16</a> C100) zahlreiche Ausgaben erlebte, gemeint; s. <a>Thommen</a> 267 und Beilage IX.</fn>, audiemus.</p>
+<p><zzl>zl2412-4A</zzl>Circumfertur hic apud nos libellus, quonam modo vitam finierit d. Martinus Lutherus, {e}ditus a Iusto Iona, qui interfuit;
+<fn>Justus Jonas' und Michael Caelius' Bericht über Luthers Tod (s. <qv>nr2385</qv>, <qv>fn2385-1</qv>), von der allerdings 1546 kein lateinischer oder deutscher Nachdruck in Basel bekannt ist.</fn> quem, nisi diutius ad vos pervenisse existimarem,
+<fn>Vgl. <qv>nr2385</qv>,<qv>zl2385-2</qv>; <qv>nr2389</qv>,<qv>zl2389-3</qv>; <qv>nr2409</qv>,<qv>zl2409-2</qv>.</fn> misissem.<zzl>zl2412-4E</zzl> Mitto hic figuram pontificis
+<fn>Wohl nicht das Bildnis eines bestimmten Papstes, sondern eine Karikatur des Papstes als Antichrist.</fn> typis excusam,
+<fn>Wohl ein Einblattdruck. - 1545 hatten die Zürcher die Schrift "Cento Vergilianus, De vita monachorum" von Lelio Capilupi nachdrucken lassen, die mit einem auf einen Entwurf von Heinrich Vogtherr zurückgehenden Holzschnitt versehen war, der den Papst als Antichristen darstellte. Bullingers Schützling Rudolf Gwalther nutzte den Holzschnitt in der deutschen Ausgabe seines "Endtchristen" von 1546. - Josias Simler übersandte hier möglicherweise einen Druck von demjenigen Holzschnitt aus Capilupis "Cento", der in einer wohl nicht in Zürich und auch erst nach April 1545 erschienenen Ausgabe zu finden war. Möglicherweise wurde diese Ausgabe erst Ende 1545 oder Anfang 1546 in Basel gedruckt, da Simler das Bild aus Basel schickte; s. <a>HBBW</a> XV 271f,37-42 mit Anm. 25-28.</fn> qualem tu argento
+<fn>Damit kann irgendein glänzendes Metall gemeint sein.</fn> sculptam habes.
+<fn>Um welches in Bullingers Besitz befindliche Objekt es sich handelt, ist nicht bekannt. Vielleicht diente es als Modell für die Zeichnung Vogtherrs zu dem Holzschnitt. - Sollte hier nicht eine bildliche, sondern eine thematische Ähnlichkeit angesprochen sein, könnte Simler die ca. 1543 in Deutschland geprägte Silbermedaille des Papst-Teufels gemeint haben. Abbildung und weiterführende Literaturangaben in: Enfer ou paradis. Aux sources de la caricature. XVI<sup>e</sup>-XVIII<sup>e</sup> siècles, hg. v. Frédéric Elsig und Simona Sala, Genf 2013, S. 112, Nr. 32a.</fn></p>
+<p>Pluribus nugis meis te alioqui occupatissimum nolo
+<fa>nolo <i>am Rande nachgetragen.</i></fa> onerare. Dominus vos omnes incolumes quam diutissime conservet. <zzl>zl2412-2A</zzl>Plurimam salutem tum meo tum Zwinglii
+<fn>Huldrych Zwingli d.J.</fn> nomine coniugi
+<fn>Anna, geb. Adlischwyler.</fn>, ancill{e}
+<fn>Brida Schmid.</fn> et omni famili{e} dicito. Resalutat
+<fa><i>Wortanfang</i> "res" <i>in der Vorlage in Versalien.</i></fa> te plurimum dominus noster et Zwinglius.<zzl>zl2412-2E</zzl> Vale. Datum 5. aprilis.</p>
+<un>Tibi deditissimus omni tempore</un>
+<un>Iosias Simlerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:]
+<fa><i>Das ursprüngliche Blatt wurde verkürzt, so dass dabei der rechte Teil der Adresse verloren ging.</i></fa> Vigilantissimo Ti[gurinae ecclesiae antistiti], d. Heinricho Bul[lingero, patri] suo observandiss[imo]. Zürich.</p>
+</text>
+</brief>

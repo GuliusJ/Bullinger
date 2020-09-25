@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1604">
+<nr>1604</nr>
+<correspondents>
+	<originator>Oswald Pergener</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Zittau</place>
+	<date>20. Februar 1542</date>
+</space_time>
+<vo>Original<fx>^#/+Die Briefe Pergeners an Bullinger stammen von verschiedenen Händen (vgl. unten Nr. 1654, Anm. a); manche Eigenarten der Schreibweise deuten darauf hin, dass es sich bei diesem Brief nicht um ein Autograph des Stadtschreibers handeln kann.^#/-<fe>: Zürich StA, E II 345, 221f (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 41</vo>
+<dr>Gedruckt: Karl Theodor ^#/+Hergang^#/- und [Christian Adolf] ^#/+Peschek,^#/- Briefwechsel Zittauer Ratsherren mit Häuptern der reformirten Kirche zu Zürich im Zeitalter 1541, in: Neues Lausitzisches Magazin 36, 1860, S. 152f; Übersetzung: E[rnst]
+A[lwin] ^#/+Seeliger,^#/- Zittauer Freunde der Züricher Reformatoren und der Böhmischen Brüder, in: Zittauer Geschichtsblätter IX/10, 1932, S. 39</dr>
+<re>Hat zu den beiden letzten Messen nicht geschrieben, da Johannes [Hensenstein] seit seiner Heirat seltener nach
+Frankfurt reist, doch neuerdings steht ein Bote aus Bautzen zur Verfügung. Seit zwei Jahren sind keine Bücher [aus Zürich] zu
+ihnen gelangt, doch konnte er sich Zwinglis Genesis- und Exodus-Auslegung beschaffen; von den Wittenbergern kommen nur
+deutsche Schriften. Die Türken sind - vielleicht wegen der Pest - nicht weiter vorgedrungen; an einem Landtag zu Prag wurde
+König Ferdinand Hilfe zugesagt, die aber wenig nützen wird. Die Österreicher wünschen, dass das Evangelium gepredigt wird,
+da sie die ausbleibenden Erfolge gegen die Türken der Gottlosigkeit zuschreiben, doch der Wiener Bischof
+[Friedrich] Nausea wandte sich dagegen. Weiteres in einem deutschen Brief an Froschauer; Grüße.
+</re>
+<tx>Salutem et graciam per Christum, dominum nostrum.
+^$Duabus nundinis Franckfordium[!] proximis elapsis<f1>Pergener bezieht sich auf die Frühjahrs- und Herbstmesse des Jahres 1541
+(allerdings liegt ein Brief an Bullinger vom 1. März 1541 vor; s. HBBW XI, Nr. 1470).<fe> litteras nullas ad
+fidelissimos<fx>^#/+In der Vorlage^#/- fidelissimas.<fe> ministros verbi dei apud Tigurum<fx>^#/+In der Vorlage^#/- Tigurnn
+^#/+oder^#/- Tigurim.<fe> dedi, Bullingere charissime. Hoc autem factum est non mea negligencia vel fortę[!] oblivione;
+nam semper memor sum vestri et ex vestris scriptis vere agnosco spiritum Christi inhabitare vestra pectora. Sincero animo
+hoc scribo; sentiunt mecum fratres fideles quam plurimi. In
+causa vero fuit iuvenis ille Francfordianus, Ioannes<f1>Johannes Hensenstein.<fe> nomine; ex quo uxorem<f1>Unbekannt.<fe> in
+Chutnis Montibus<f1>Kuttenberg (Kutná Hora, Mittelböhmen).<fe> duxerit,<f1>Vgl. HBBW IX, S.
+186, 3f.<fe> raro Francfordiam adit, licet natus hic sit. Reperi tandem hominem in Budissin<f1>Bautzen (Sachsen).<fe>, que civitas iter diei ab hac urbe sita est, qui nundinas
+Francfordienses<fx>^#/+Undeutlich korrigiert aus^#/- Francfordium.<fe> non negligit. Is
+ultro<fx>^#/+In der Vorlage^#/- ultero.<fe> promisit litteras meas Christofero Froschouero sese<fx>^#/+In der Vorlage^#/- se se.<fe>
+exhibiturum addens insuper bibliothecam<f1>Gemeint ist offenbar Froschauers Niederlassung in Frankfurt.<fe> eius sibi
+esse notam. Cuius opera fiet, ut post hac negligencię non sit locus.
+^$Ego vicissim vestra commentaria summo gaudio expecto.
+Biennio ferme nihil librorum ad nos pervenit. Mirantur multi
+fratres et ego cum illis. Illis diebus dei benignitate
+nactus sum annotaciones sancti viri Hul[drichi] Tzving­lii in
+Genesin et Exodum per Leonem Iudę et Casparum Megandrum
+excerptas.<f1>Zwinglis Erläuterungen zu Genesis und Exodus (Z XIII 1-290 bzw. 291-427) waren bereits 1527 in einer von Leo
+Jud und Kaspar Megander besorgten Ausgabe bei Christoph Froschauer erschienen (BZD C 131 bzw. 134).<fe>
+Wittembergensis[!] ministri nihil preter Germanicos libros nobis obtrudunt.
+^$Lubens plura scriberem; sed omnia, quę in mente habeo,
+nota vobis sunt. Novarum rerum nihil est, quod vos delectare posset. Turca<f1>Sultan Suleiman I.<fe> regnat in Hungaria late
+quietę[!] factus noster vicinis[!]. Ultra fines Hungarie nondum progressus est. Obstitit forte pestilencia, que Austriam
+et Moraviam invaserat. In mense decembri iam preterito congregavit rex Ferdinandus Pragam Moravos, Schlesitas et
+utramque Lusaciam; aderant et Austriaci.<f1>Zum Generallandtag in Prag, der am 5. Dezember 1541 begann und am 15. Januar 1542
+endete, s. RTA JR XII/1 61.<fe> Postulabat auxilia contra Turcam. Promissa sunt subsidia, sed nihil contra Turcam que fatient.
+^$Austriaci inprimis cupiunt evangelium in eorum<fx>^#/+In der Vorlage^#/- erorum[?].<fe> terra sincere predicari asserentes
+impietatem in causa esse, quod nihil feliciter sit gestum contra Turcam. Obluctabantur papistę, presertim monachus<f1>Pergener bezeichnet Friedrich Nausea zu Unrecht als Mönch.<fe> quidem nomine Nausea factus iam episcopus Viennensis.
+^$Cetera scribam Germanice ad Christo[ferum] Frosch[ouerum].<f1>Siehe Pergeners Brief an Froschauer vom 21. Februar 1542 (Zürich StA, E II 367, 5-8).<fe>
+Opto vestris ecclesiis et ministris earum incrementa congnicionis[!] dei. Salvus sit Pellicanus, <vl>222</vl> Leo
+Iude, Megander, Bibliander et ceteri. Ad futuras nundinas, si Christi gracia adfuerit, pluribus scribam; ea sit cum nobis omnibus.
+^$Celerrime ex Zitavia in marchionatu Superioris Lusacię,
+20. mensis februarii anno 1542.
+<un>Fraternitatis vestre
+<un>deditissimus
+<un>Osvaldus Pergenerus etc.
+<un>a commentariis<f1>Stadtschreiber.<fe>.
+<lz>[Adresse darunter:] Vere pio et erudito virod. Henricho Bullingero, amplissime ecclesię Tigurine episcopo, amico sinccerissimo.
+</content>
+</letter>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="23230">
+<nr>23230</nr>
+<correspondents>
+	<originator>Franciscus Niger</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chiavenna</place>
+	<date>12. November 1553</date>
+</space_time>
+<vo>Zürich StA, E II 335, 2219.</vo>
+<dr>Druck: Graubünden, Korr. I 334f, Nr. 232</dr>
+Nulla mihi commodior facultas adest, qua possim litteras ad
+reverendumd. Vergerium mittere, quam per te. Tu igitur,
+quae tua benignitas est, utrique nostrum id officii
+praestabis, ut fasciculum hunc per aliquem fidum nuntium
+cures ad illum deferri, quod nihilominus tuo commodo fiat.
+Hoc [c]erte et illi et mihi gratissimum erit. Bene vale, mid. Bullingere, ac reverendos istic patres fratresque in
+domino ex me salvere iube. Clavennae,  12. novembris 1553.
+Tuus ex animo Franciscus Niger.
+Domino Henricho Bullingero, suo plurimum observando.
+         Tiguri.
+</content>
+</letter>

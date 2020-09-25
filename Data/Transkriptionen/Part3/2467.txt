@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2467">
+<brief>
+<id>16157</id>
+<nr>2467</nr>
+<ae>Johannes Haller an Bullinger</ae>
+<od>Augsburg, 20. Juni 1546</od>
+<vo>Autograph: Zürich StA, E II 370, 13 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 135</k></dr>
+<re>Haller schrieb neulich [<qv>nr2462</qv>] in Eile; so auch diesmal.
+<t/>Wegen der Flucht reicher Bürger [aus Augsburg] kommt es vielleicht zu einem Volksaufstand. Haller fürchtet, dass besonders [Bürgermeister Hans] Welser aus Angst beliebige Friedensbedingungen akzeptieren könnte. Die Eidgenossen sollen die Augsburger ermutigen. [Letztere] haben nämlich Hemmungen, sich den [Eidgenossen] gegenüber zu öffnen.
+<t/>Hinter den Vermittlungsversuchen des Herzogs [Wilhelm] von Bayern steckt die Absicht, den [Augsburgern] wieder einen Bischof aufzuzwingen und in Augsburg eine ebenso papistisch geartete Reformation wie in Nürnberg durchzuführen. Haller fürchtet, dass einige Pfarrer sich darauf einlassen könnten. Er würde aber lieber sterben, als die Reinheit der Lehre preiszugeben. Bullinger soll die [Augsburger] mittels häufiger Briefe ermutigen und die [Zürcher] in seinen Predigten zur Hilfsbereitschaft anspornen. Es ist kaum zu fassen, wie Menschen, die so sehr für das Wort Gottes zu eifern schienen, nun so ängstlich sind! Haller wird nach Kräften [zur Standhaftigkeit] ermahnen.
+<t/>Der unerschrockene [Sebastian] Schertlin wird [Hans Wilpert] Zoller zum Bannerherrn machen und möchte 2'000 Schweizer [Söldner] anwerben, weil er sich von diesen mehr erhofft als von 10'000 Lanzenträgern. Die Schweizer genießen nämlich ein hohes Ansehen. Da ihre Nachbarn betroffen sind, geht es auch sie etwas an.
+<t/>Haller muss nun predigen. Grüße.</re>
+<text>
+<p>Salus et vita per Christum Iesum, servatorem nostrum, etc. Scripsi nuper festinanter et turbulente,
+<fn><qv>nr2462</qv>.</fn> quod et nunc facio. Boni ergo consulas.</p>
+<p>Urbs nostra in magna est trepidatione. <zzl>zl16157-1A</zzl>Diffugiunt cives ditiores magna vulgi impatientia, ita ut metuamus tumultum.
+<fn>Vgl. <qv>nr2462</qv>,<qv>zl16152-6</qv>; <qv>nr2473</qv>,<qv>zl16163-2</qv>. In einem Brief von Christoph von Carlowitz an Herzog Moritz von Sachsen, 27. und 28. Juni 1546 (<a>Moritz von Sachsen PK</a> II/2 682, Nr. 933), sind Unruhen in Augsburg bezeugt.</fn><zzl>zl16157-1E</zzl> Sedamus, quantum possumus. Senatus etiam pusillanimis. <zzl>zl16157-2A</zzl>Welserus inprimis reciperet, credo, quasvis pacis conditiones quam bellum.<zzl>zl16157-2E</zzl> Vereor ergo, ne haec eorum formidatio magnum malum sit datura. <zzl>zl16157-9A</zzl>Vellem libenter, ut vel aliquid saltem animi eis adderetur ab Helvetiis.<zzl>zl16157-9E</zzl> Pudet eos, ut se aperiant eis.
+<fn>Vonseiten der Augsburger war es jedoch schon zu einem an Zürich gerichteten Brief mit der Bitte um Hilfe gekommen; s. dazu <qv>nr2460</qv>,<qv>zl16148-1</qv>; <qv>nr2468</qv>,<qv>zl16158-5</qv>. Am 26. Juni verfassten die Augsburger ein weiteres Gesuch an den Zürcher Rat (Zürich StA, A 202/1, Nr. 11): Dieser solle an der kommenden eidgenössischen Tagsatzung in Baden alles daran setzen, "damit unnß wurkliche hilff ouff unnßern unnd gemainnen christlichen ainigung costen gelaist unnd nit versagt werde".<zfn>fn16157-2</zfn></fn></p>
+<p><zzl>zl16157-3A</zzl>Dux Bavari{e}
+<fn>Wilhelm IV. von Bayern. - Sein Verhalten war damals zweideutig. Am 7. Juni 1546 hatte er sich mit dem geheim gehaltenen Regensburger Vertrag Karl V. und Ferdinand I. gegenüber verpflichtet, bei den Kriegsvorbereitungen mitzuwirken, während er in der Öffentlichkeit vorgab, neutral zu sein; s. <a>RTA-JR</a> XVII 446, Nr. 76 mit Anm. 3; <a>Karl V. BW</a> II 648-652, Nr. 623 (Wortlaut des Vertrags, der dort auf den 2. Juni datiert wird); <a>Roth, Augsburg</a> III 355-357.<zfn>fn16157-1</zfn></fn> intercedit, quantum potest. Sed quantum ego iudicare possum, hoc unum subest, quod et inprimis metuo, ut urbi nostrae obtrudant iterum episcopum
+<fn>Seit 1537 residierten die Bischöfe Augsburgs in Dillingen, dem Sitz des Augsburger Hochstifts.<zfn>fn16157-3</zfn></fn> et faciant reformationem Noribergensem papisticae tam
+<fa>tam <i>über der Zeile nachgetragen.</i></fa> similem, quam anguilla est serpenti.
+<fn>Vgl. <a>Adagia</a> 1, 5, 10-13 (<a>ASD</a> II/1 486f, Nr. 410-413).</fn> <zzl>zl16157-3E</zzl> Et metuo, ne quidam ex ministris hoc unice exoptent
+<fa>o <i>in</i> exoptent <i>über der Zeile nachgetragen.</i></fa>, ut hac ratione fiat pax. Dominus conservet puritatem doctrinae suae! <zzl>zl16157-8A</zzl><zzl>zl16157-5A</zzl>Malo enim mori propter purum evangelium gloriose quam in fucato dedecorose vivere.<zzl>zl16157-5E</zzl> Rogo ergo, ut literis frequentibus et nostros animes, et tuos tuis sermonibus, ut vel aliquid auxilii praestent, quo nostri recipiant animos. <zzl>zl16157-6A</zzl>Impossibile enim esse putavi, ut, qui tantum simularunt erga dei verbum studium, tantum possent humanis vel minis
+<fa><i>Nach</i> minis <i>wiederholtes</i> tantum.</fa> consternari.
+<fn>Haller denkt nicht nur etwa an Hans Welser (vgl. Z. <qv>zl16157-2</qv>), sondern auch an weitere Angehörige der prominenten Familien Fugger, Baumgartner, Herwart und Welser.</fn><zzl>zl16157-6E</zzl> Ego ago domino gratias, quod dederit mihi spiritum fortem
+<fn>Vgl. 2Tim 1, 7.</fn> et animum inconcussum. Volo laborare, quantum possum, monendo, hortando, confortando, consolando, orando, manibus etiam aliquid, si opus fuerit, praestando.<zzl>zl16157-8E</zzl></p>
+<p><zzl>zl16157-7A</zzl>Schertlius supra modum fortis et animosus est. Zollerum faciet signiferum.
+<fn>Der Zürcher Hans Wilpert Zoller stand im Dienst des Freiherrn Sebastian Schertlin von Burtenbach; s. zuletzt <qv>nr2453</qv>,<qv>zl16141-3</qv>.<zfn>fn16157-4</zfn></fn><zzl>zl16157-7E</zzl> <zzl>zl16157-4A</zzl>Exoptat habere vel 2'000 tantum Helvetiorum, quorum se plus pollicetur effecturum opera quam 10'000 lanciferorum
+<fn>Lanzenträger; s. <a>Kirsch</a> 1616.</fn>.
+<fn>Vgl. <qv>nr2462</qv>,<qv>zl16152-7</qv>.</fn> <zzl>zl16157-10A</zzl>In summa: Helvetiorum nomen apud nos tam nobile, ut tantum non adoretur.<zzl>zl16157-10E</zzl><zzl>zl16157-4E</zzl> Vellem igitur considerarent, quod sua res agitur, paries cum proximus ardet.
+<fn>Vgl. <a>Adagia</a> 3, 6, 71 (<a>ASD</a> II/6 376, Nr. 2571).</fn> Quia causa iusta, non deseret ergo dominus.</p>
+<p>Vale. Non potui plura, quia iam iam eo praedicatum. Saluta fratres omnes. Augustae Vindelicorum, 20. iunii 1546.</p>
+<un>Tuus Hallerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo doctissimoque viro d. Heinrycho Bullingero, Tigurinae ecclesiae fidelissimo doctori, domino et patri suo unice colendo. M. Heinrich Bullinger.</p>
+</text>
+</brief>

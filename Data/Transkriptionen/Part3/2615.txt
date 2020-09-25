@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2615">
+<brief>
+<id>16305</id>
+<nr>2615</nr> <from persid="FrölichGeorg"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-10-08"/>
+<ae>[Georg Frölich] an Bullinger</ae>
+<od>[Augsburg], 8. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 332 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 192</k></dr>
+<re><t>Auch wenn die Zürcher Prädikanten [Lorenz Meyer, Thoman Ruman und Rudolf Schwyzer] mündlich alles berichten werden, schreibt Frölich aus Freundschaft dennoch. Man erwartet, dass die Prädikanten noch vor Einbruch des Winters mit ihren Frauen und Kindern nach Augsburg zurückkehren. Das Reisegeld wurde ihnen vorgestreckt. Sollte es nicht reichen, wird man ihnen die zusätzlichen Ausgaben erstatten. [Johannes] Haller, Michael Keller, Bernardino Ochino und Frölich selbst werden sich um sie kümmern. [Wolfgang] Musculus würde den Gelehrtesten von ihnen, Meyer, gern [auf das Land] entfernen. Frölich und andere möchten ihn aber in der Stadt behalten.</t>
+<t>Die Basler haben Sebastian Lepusculus und Hieronymus Gunz entsandt. Gunz gefällt den Augsburgern gut. Er scheint auch gelehrter und von besserem Lebenswandel als Lepusculus zu sein, auch wenn Letzterer durch Myconius' Brief wärmer empfohlen wurde.</t>
+<t>Neue Nachrichten gibt es nicht. Beide Heere liegen dicht beieinander. Beide trachten nach vorteilhaften Stellungen, besonders Kaiser [Karl V.], der sich nicht auf eine Schlacht einlassen will. Wegen des nahenden Winters kann man die Feldlager nicht mehr lange aufrechterhalten. Wer dann zuerst weicht, wird einer größeren Gefahr ausgesetzt sein.</t>
+<t>Frölich warnte über die [Sachlage betreffend die eidgenössischen] Bünde. Er hofft, dass man dementsprechend handeln wird.</t>
+<t>Die Reichsstände haben an Zürich, Bern, Basel und Schaffhausen geschrieben. Beiliegend eine Kopie ihres Schreibens. Man kann derzeit nichts Besseres raten. Denn sollte der Krieg sich in die Länge ziehen und der Feind nicht an anderen Fronten angegriffen werden, kommt es die [Schmalkaldener] gewiss teuer zu stehen. Schon wurden 2 Millionen Gulden ausgegeben! Man hofft, bald an neues Geld zu gelangen.</t>
+<t>Man sei guten Mutes, denn die Sache ist die des Herrn! Bis jetzt ging es nicht anders. Doch liegt dies nicht an den [Haupt]leuten, die wohl die besten in ganz Deutschland sind. Ihnen und Gott sei alles anheimgestellt.</t>
+<t>Grüße an die Bürgermeister [Hans Rudolf Lavater und Johannes Haab], an Stadtschreiber [Hans Escher vom Luchs], an Rudolf [Gwalther], [Konrad] Gessner, [Theodor] Bibliander, [Johannes] Fries, [Konrad] Pellikan, [Johannes] Wolf und an alle [Gelehrten].</t></re>
+<text>
+<div>
+<p><zzl>zl16305-2A</zzl>S. Etsi viri optimi verbi contionatores Tigurini
+<fn>Lorenz Meyer (Agricola), (Hans) Thoman Ruman und Rudolf Schwyzer d.Ä.; s. <qv>nr2612</qv>, <qv>fn16301-2</qv>.</fn> omnia, qu{e} hic geruntur, verbis melius consequi quam ego scribere possint, et viva sint epistola,
+<fn>Weil sie zu dieser Zeit nach Zürich zurückkehrten, um ihren Hausrat und ihre Familie nach Augsburg zu holen; s. <qv>nr2612</qv>,<qv>zl16301-8</qv>.</fn> tamen charitas me non sinit ad te nonnihil non strepere.<zzl>zl16305-2E</zzl> <zzl>zl16305-3A</zzl>Viri illi nobis hic gratissimi erunt, modo autem ea lege dimissi, ut una cum uxoribus et liberis ante increbescentem hiemem redeant.
+<fn>Meyer und Schwyzer gelangten erst am 2. November wieder nach Augsburg, doch ohne ihre Frauen (s. <qv>nr2663</qv>, <qv>fn16352-1</qv>), und Ruman erst etwa vierzehn Tage später mit seiner Frau; s. <qv>nr2677</qv>, <qv>fn16364-2</qv>.<zfn>fn16305-2</zfn></fn><zzl>zl16305-3E</zzl> <zzl>zl16305-4A</zzl>Sumptus itineris hic acceperunt,
+<fn>Vgl. <qv>nr2612</qv>,<qv>zl16301-9</qv>.</fn> satis profecto tenues, sed quod ipsis defuerit, hic supplebitur.<zzl>zl16305-4E</zzl> <zzl>zl16305-5A</zzl>Dilectissimus frater Hallerus, Michael Cellarius, Bernhardinus Ochinus atque ego illos fraterne fovebimus.<zzl>zl16305-5E</zzl> <zzl>zl16305-1A</zzl>Musculus magistrum Laurentium
+<fn>Lorenz Meyer.</fn>, doctiorem ex tribus, libenter hinc ablegaret.
+<fn>Vgl. <qv>nr2613</qv>,<qv>zl16300-5</qv>.</fn> Nos autem secus sentimus dabimusque operam, ut in urbe, etiam contra odium quorundam, si fieri poterit, maneat.<zzl>zl16305-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16305-6A</zzl>Basilienses miserunt nobis Sebastianum Lepusculum et Hieronimum Guntium,
+<fn>Zum Schicksal Lepusculus' und Gunz' s. <qv>nr2612</qv>, <qv>fn16301-9</qv> und <qv>fn16301-5</qv>.</fn> viros satis doctos. Guntius ingenio nostro propius accedit. Videtur enim et moribus et eruditione alteri preire, quamvis alter mihi operosius per d.
+<fa><i>Über der Zeile nachgetragen.</i></fa> Myconium literis
+<fn>Unbekannter Brief.</fn> commendatus sit.<zzl>zl16305-6E</zzl></p>
+</div>
+<div>
+<p>Unnsere krigssachen steen noch im alten stannd.
+<fn>Hinsichtlich der von Frölich erst einen Tag zuvor mitgeteilten Nachrichten in <qv>nr2613</qv>,<qv>zl16300-7</qv>.</fn> <zzl>zl16305-7A</zzl>Bede huffen liegen nahen beisamen, dringen sich umb die vortail
+<fn>vorteilhafte Stellung.</fn>, darein sich der fynndt fur unnd fur
+<fn>fur und fur: immer wieder.</fn> legt, unnd will nit schlahen, wiewol es nit möglich, das die keldti das veldtgelager lanng zulassen werde.
+<fn>Vgl. schon <qv>nr2613</qv>,<qv>zl16300-4</qv>.</fn> Welcher tail dann vor dem anndern weicht, der m{uo}ß gefahre bestohn.<zzl>zl16305-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16305-8A</zzl>Der bunnde, auch 5 ort
+<fn>die Fünf (katholischen) Orten der Eidgenossenschaft.</fn> halber, hab ich trewlich gemanet.
+<fn>Siehe dazu <qv>nr2613</qv>,<qv>zl16300-6</qv>.</fn> Will mich versehen
+<fn>Will mich versehen: Ich möchte hoffen.</fn>, man werde darzu thun, was sich gehöret.<zzl>zl16305-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16305-9A</zzl>Eurn herrn, Bern, Basel und Schaffhusen ist von den reichstennden geschrieben,
+<fn>Gemeint ist der an diese Orte adressierte Brief der Fürsten und Stände vom 26. September; s. <qv>nr2605</qv>, <qv>fn16293-1</qv>.</fn> wie inligende copi ußweist. Daran es alles gelegen, unnd kein besser rate ditsmals ist. Dann
+<fn>Denn.</fn> da sich die sach verzeucht
+<fn>in die Länge zieht.</fn> unnd der fynnd nit an anndern ortten angriffen, wurdt er unns des ubermessigen cosstens halb miehe
+<fn>Mühe, Schwierigkeiten.</fn> machen (dann ob
+<fn>über, etwa.</fn> 20 mal hundert taussent guldin synnd schon dahin!)
+<fa><i>Klammern ergänzt.</i></fa>,
+<fn>Vgl. schon Frölichs Mitteilung vom 20. September in <a>HBBW</a> XVII 485,24f.</fn><zzl>zl16305-9E</zzl> <zzl>zl16305-10A</zzl>wiewol wir yetzt wider gellt machen.
+<fn>Zum einen bezieht sich Frölich hier auf das geplante Darlehen an die Schmalkaldener; s. dazu <qv>nr2612</qv>, <qv>fn16301-6</qv>. Zum anderen sind Geldforderungen der Schmalkaldener an die Fugger und Welser gemeint. Aus beschlagnahmten Briefen ging hervor, dass diese dem Kaiser 7 Tonnen Gold geliehen hatten, eine Summe, die die Schmalkaldener nun auch verlangten; s. <a>HBBW</a> XVII 243, Anm. 42; bes. 258,106-114.<zfn>fn16305-1</zfn></fn><zzl>zl16305-10E</zzl></p>
+</div>
+<div>
+<p>Wolan, die sach ist des herrn! Der soll billich
+<fn>zu Recht.</fn> meisster unnd hertzog darinn sein. <zzl>zl16305-11A</zzl>Bißhere hat es nit annderst sein wollen.<zzl>zl16305-11E</zzl> <zzl>zl16305-12A</zzl>Wir haben fürwar lewt
+<fn>Kriegsvolk; vgl. <qv>nr2612</qv>,<qv>zl16301-11</qv>. - Hier könnten bes. die Hauptleute gemeint sein; vgl. <qv>nr2613</qv>,<qv>zl16300-8</qv>.</fn>! Wann man sie inn gantzer teütscher nation ußerlesen sollt, wisst ichs nit zu verbessern.<zzl>zl16305-12E</zzl> Denen unnd gott dem almechtigen zuvor thu ich diesen schweren hanndel billich befelhen.</p>
+</div>
+<div>
+<p>Gruesst mir die herrn burgermaister
+<fn>Hans Rudolf Lavater und Johannes Haab.</fn>, statschriber
+<fn>Hans Escher vom Luchs.</fn>, d. Rodolphum
+<fn>Rudolf Gwalther.</fn>, Gessnerum, Bibliandrum, Frisium
+<fn>Johannes Fries.</fn>, Pellicanum, Gvolfium
+<fn>Johannes Wolf.</fn> atque totum musarum c{e}lum
+<fn>Gemeint sind die Zürcher Gelehrten; vgl. ähnliche Ausdrücke Frölichs in <a>HBBW</a> XVII 70,97 mit Anm. 74; 305,37.</fn>. 8. octobris 1546.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Herren Hennrichen Bullinger, vorgeern
+<fn>Antistes.</fn> der christlichen gemeind. Zurch.
+<fn>Vorliegender Brief wurde, wie auch die Briefe <qv>nr2612</qv>, <qv>nr2613</qv> und <qv>nr2617</qv>, den drei nach Zürich zurückreisenden Zürcher Pfarrern anvertraut; s. oben Z. <qv>zl16305-2</qv>.</fn></p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2271">
+<nr>2271</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>27. Oktober 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 132 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 84 ^&x{
+<re>Bullinger hält sich für unglücklich, da er so schreibt, dass Myconius ihn falsch versteht. Myconius kennt doch Bullingers Gesinnung seit vielen Jahren. Bullinger fürchtet aber, dass Myconius ihm nicht ganz vertraut. Warum hat Myconius nicht bedacht, dass es einen Grund hatte, dass die Antwort [betreffend Schwenckfelds Ansuchen um ein Gespräch] auf Deutsch geschrieben wurde? Nämlich nicht wegen Myconius, sondern wegen der Schwenckfelder, die alles auf Deutsch schreiben. Myconius hätte dies vermuten können. Gewiss ist die Antwort kategorisch, aber, um es nochmals zu sagen, nicht wegen Myconius, sondern wegen [der Schwenckfelder], denen auch der Befehl "Und lassend ir uns sinen [Schwenckfelds] halb unbeckümberet" galt. Das hätte Myconius erlauben sollen, sie damit besser zurückzuweisen. Myconius soll also seine Aufregung dämpfen. Wenn das Schreiben Vadians Anstoß erregt hat, dann soll Myconius es [Vadian] anrechnen und nicht den [Zürchern]. Es missfällt Myconius, dass Schwenckfeld zu einem Gespräch zugelassen wird; Myconius soll also in dieser Gesinnung verharren und sich auch in Zukunft vor diesem Heuchler und Schwätzer hüten.
+-^#. Wie Myconius weiß, ist die Badener Tagsatzung beendet. Im Namen aller Eidgenossen werden Gesandte, [nämlich] zwei von den Städten Zürich und Luzern, zwei von den Orten Uri und Schwyz, an den Mailänder Marchese [Alfonso d'Avalos] geschickt, um sich wegen des [erlittenen] Unrechts zu beklagen und zu bitten, dass er den [Eidgenossen] den [Mailänder] Markt freigibt. Außerdem will man sehen, wie es mit den Truppenbewegungen in Italien steht. Man hat jetzt den Bund durch Beteuerungen und Versprechen bekräftigt, da dieser nicht durch [das Schwören] der Eidformel erneuert werden konnte. Man beschloss aber, keinen Anstoss an der Tatsache zu nehmen, dass man den Eid nicht geschworen hat. Zu Baden wurden auch zwei Wagen mit Kriegsrüstung beschlagnahmt. Manche glauben, es handle sich dabei um aus Mailand herangeschaffte Waffen des Kaisers.
+-^#. Falls Myconius Berichtenswertes hat, soll er es mitteilen. Grüße.</re>
+<tx>Gratiam et pacem a domino.
+Ego potius me infelicem puto, qui ita scribo, ut te tam iniquum habeam interpretem, ac si quid hic pecco, non malitia pecco, sed falsa opinione.<f1>Bullinger bezieht sich auf seinen Brief vom 28. September (oben Nr. 2255) und auf Myconius' Reaktion vom 3. Oktober (oben Nr. 2259).<fe>
+Hactenus arbitratus sum talem te esse, qui principio scribentis animum spectes, deinde vero circumstantias excutias.
+Qualis sit animus erga te meus, didicisti iam multis ab annis et argumentis quidem non paucis.
+De circumstantiis huius praesertim causae, in qua tu tam impacienter ringeris,
+nihil dicam. Certe plures essent, quae me et epistolam meam excusarent.
+Verum, ut ingenue quod dicam sentio, metuo, ne bene mihi per omnia fidas;
+hinc enim tam facili de causa stomacharis contra me et conquereris.
+An non oportebat illud praecipue cogitare, quod non sine causa Germanice responsionem<f1>Oben Nr. 2255, 8-24.<fe> scripsi?
+Profecto non propter te, sed propter Schwenckfeldianos, qui Germanice omnia scribunt et agunt.
+An non inde, si voluisses, colligere potuisses, ergo non ad te scriptum illud pertinet, sed ad Schvenckfeldianos?
+Sed imperiosa et emphatica sunt omnia.<f1>Anspielung auf Nr. 2259, 61f. 68f.<fe>
+Sane! Studio id factum est, non propter te, sed propter illos, quibus exhibenda responsio.
+Improbi illi sunt ac importuni. Inde scriptum est: "Und lassend ir uns sinen halb unbeckümberet."<f1>Oben Nr. 2255, 22f.<fe>
+Potuisses ergo illorum importunis precibus et interpellationibus opponere hanc nostram destinatam voluntatem,
+illis testatam et ita testatam, ut prodesset tibi ac a te illos posses commode ablegare aut repellere potius.
+Istisne ita peccavimus? Verum adhibuisti profecto affectum nonnihil; hunc ergo remove rursus et intellige nos non tali scripsisse animo, quali opinaris.
+Quod sid. Vadiani scriptum<f1>Vadians nicht erhaltene Antwort auf Myconius' Brief an Vadian vom 7. September 1545 (Vadian BW VI 441-443), die Bullinger mit der Bitte um Rückgabe an Myconius gesandt hatte; s. oben Nr. 2255, 2f.<fe> offendit, illi imputa, non nobis.
+Non placet animo tuo, ut ad colloquium admittatur Schvenckfeldius. In hoc persevera
+ac cave tibi ab hypocritico et loqutuleio homine, et bene habebit res.
+^$Finita nosti comitia Badensia.<f1>Die Badener Tagsatzung vom 19. Oktober 1545; s. oben Nr. 2260, Anm. 6.<fe>
+Mittuntur omnium Helvetiorum nomine legati, duo ab urbibus Tiguro et Lucerna,<f1>Unbekannt.<fe>
+duo a pagis Ury et Svytz,<f1>Unbekannt.<fe> ad vicarium Mediolanensem, marchionem de La Quasta<f1>Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter von Mailand.<fe>,
+expostulatum super iniuriis<f1>Siehe dazu oben Nr. 2260, 12-16.<fe> et postulatum, ut forum nostris aperiat,<f1>Siehe oben Nr. 2260, Anm. 13.<fe> etc. Praeterea visum, qualis sit in Italia expeditio.<f1>Hier wohl in Zusammenhang mit den auf dem Badener Tag vorgebrachten Nachrichten über Rüstungen in Italien; s. oben Nr. 2232, 32-39; 2252, Anm. 24.<fe>
+Renovarunt foedera nunc Badenae sanctis obtestationibus et pollicitationibus
+(quod hactenus impediit, sacramenti formulam renoverint)<fx>^#/+Klammern ergänzt.^#/-<fe>, ut in praesenti foedus renovatum sit,
+singulique norint singulos foederis capita sanctissime servaturos, und das man das nütschweren<f1>das nütschweren: das Nichtschwören.<fe>
+ietzund ruͦwen lasse, sunst trüw einan-<vl>132v.</vl>dren bewyse wider mencklichen<f1>jeden.<fe> zuͦ schirmm unsers libs und guͦts, landen und lüten, etc.<f1>Siehe dazu zuletzt oben Nr. 2262 und Anm. 10.<fe>
+Daruff hatt man ouch ze Baden zwen waͤgen nidergeworffen<f1>beschlagnahmt.<fe>; dann,
+diewyl kriegsrüstung druff gewaͤsen, wil man wüssen, wannen<f1>woher.<fe> sy kumm und wahin sy gange.<f1>Siehe hierzu EA IV/1d 546f q: Die Boten von Zürich meldeten den Durchzug zweier mit Waffen beladener Wagen durch Zürich und befürworteten deren Beschlagnahmung in Baden. Darauf wurde der Landvogt zu Baden [Niklaus Imfeld von Unterwalden] beauftragt, die Wagen bis zum nächsten Tag festzuhalten. An die Bundesgenossen und an die Vögte jenseits der Alpen wurde erneut geschrieben, dass sie Kriegsgüter, die bei ihnen durchgeführt werden, bis auf weiteren Bescheid zurückhalten sollen.<fe>
+Putant alii caesaris<f1>Karl V. - Siehe dazu die Briefe des Konstanzer Rats an Zürich, 12. und 20. Oktober 1545, Zürich StA, A 205/1, Nr. 197f.<fe> esse arma e Mediolano profecta, etc.
+^$Tu, si quid habes rerum, quae nostra putaris referre, ut sciamus, significa.
+Vive et vale cum omnibus fratribus; salutant te fratres.
+^$Tiguri, 27. octobris anno 1545.
+<un>Heinrychus Bullingerus
+<un>tuus ut semper.
+<lz>[Adresse darunter:] Praestantissimo virod. Osvaldo Myconio, Basiliensis ecclesiae ministro, domino et fratri suo colendo. Basel.
+</content>
+</letter>

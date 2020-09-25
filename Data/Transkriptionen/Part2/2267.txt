@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2267">
+<nr>2267</nr>
+<correspondents>
+	<originator fn=1>Konrad Frick</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Konrad Frick, Magister artium. Seit 18. Juni 1518 Prädikant und Reformator in Isny. Weitere Briefe Fricks an Bullinger sowie Briefe Bullingers an Frick sind nicht bekannt. Möglicherweise trug er dazu bei, dass Konrad Klauser in Isny nicht angestellt wurde; vgl. oben Nr. 2263, 18-22. - Lit.: Paul ^#/+Warmbrunn,^#/- Die Reformatoren der oberschwäbischen Reichsstädte Biberach, Isny und Ravensburg: Bartholomäus Müller, Konrad Frick und Thomas Lindner, in: Reformationsgeschichte Württembergs in Porträts, hg. v. Siegfried Hermle, Holzgerlingen 1999, S. 171-182.</note>
+</correspondents>
+<space_time>
+	<place>Isny</place>
+	<date>15. Oktober 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1413 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 75; Lit.: Peter Frei, Conradus Clauserus, 1997, 24f ^&x{
+<re>Der Zürcher Konrad Klauser entsprach während seines Aufenthalts in [Isny] ganz Bullingers Beschreibung: Als er bei Frick wohnte, übersetzte er das erste Buch des griechischen [Autors] Theophilos an Autolykos aus dem Griechischen ins Lateinische; er ist beredt, ein guter Verkündiger der [Heiligen] Schrift und freundlich im Umgang. Doch konnte man sich mit ihm nicht über das Gehalt einigen; er wird selbst davon berichten. Frick dankt Bullinger einstweilen für Klausers Entsendung, mit der Bullinger der Bitte [Isnys] nachkam.</re>
+<tx>Salus et pax a deo.
+Quae in literis tuis<f1>Nicht erhalten und wohl Klauser als Empfehlungsbrief mitgegeben.<fe> mihi gratissimis ded. Conrado Claussero Tigurino testatus es,
+vir doctissime, omnia, ubi ad nos pervenit, pulchre praestitit, nempe quod sit Graece et Latine doctus,
+in divinis et humanis literis non vulgariter eruditus, humanus et fidelis;
+quae facile ex multis argumentis cernere licuit: Transtulit enim interim, quando mecum habitavit,
+librum primum Theophili Graeci ad Autolycum ex Graeco in Latinum sermonem,<f1>Klausers Übersetzung der apologetischen Schrift "<gr>Pròw Ay̆tólykon</gr>" ("An Autolykos") des Theophilos aus Antiochia (gest. um 183 n. Chr.) vom Griechischen ins Lateinische war bestimmt für einen Sammeldruck, in den auch Übersetzungen von Konrad Gessner, Jean Ribit und Vincentius Opsopoeus aufgenommen wurden. Der Sammeldruck erschien im Folgejahr unter dem Titel: "<gr>Ăpomnhmoneymátvn</gr> ... Sententiarum sive capitum theologicorum praecipue ex sacris et profanis libris ...", Zürich, Christoph Froschauer, 1546 (VD 16 A 2966; BZD C 354f); s. dazu Peter ^#/+Frei,^#/- Conradus Clauserus Tigurinus (ca. 1515-1567). Pfarrer, Schulmann, Gelehrter, Zürich 1997 - Njbl. der Gelehrten Gesellschaft in Zürich 160, S. 87f, Nr. 7.<fe>
+in cottidiano colloquio usque ad miraculum facundus, pro concione in scripturis exercitatus,
+in conversatione supra modum humanus, sicut nihil defuerit eorum, quae de eo adserueris; id quod eciam nostris clare fuit perspectum.
+Sed qui factum sit, ut pro mercede transigenda cum nostris minus convenerit, ipse abunde narrabit.<f1>Siehe dazu den von Klauser auf der Zürcher Herbstsynode vom 20. Oktober 1545 erstatteten Bericht, in: Zürich StA, E II 1, 320.<fe>
+Tibi interim nomine tocius ecclesiae nostrae gracias habeo uberrimas, qui hunc ad nos, nostris praecibus adactus, transmiseris.
+^$Vale in domino quam felicissime et me, licet facie ignotum, spiritu tamen notissimum, semper ama.
+^$Datum Isnae, 15. die octobris anno a Christo nato 1545.
+<un>Tuus Cunradus Fricci-­
+<un>us, Isnae a sacris
+<un>concionibus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Hainricho Bullingero, ecclesiae Tigurinae episcopo,d. suo semper suspiciendo. Zurch.
+</content>
+</letter>

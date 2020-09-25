@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2619">
+<brief>
+<id>16309</id>
+<nr>2619</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-10-12"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>Augsburg, 12. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 370, 23 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 4; Lit.: F. Roth, Augsburgs Ref'g III 397 und 422 (A 58)</k></dr>
+<re><t>Am 9. Oktober, als die Zürcher Prädikanten aus Augsburg abreisten, wurde Donauwörth von den Kaiserlichen durch Verrat seitens einiger Bürger eingenommen. Die zwei dort stationierten [schmalkaldischen] Fähnlein sind geflohen. Niemand wurde ausgeplündert oder misshandelt (anders als die Truppen Kaiser [Karls V.] es in Neuburg [a.d. Donau] getan hatten). Dies ist wohl den deutschen Soldaten des Kaisers zu verdanken.</t>
+<t>Der Kaiser hatte sein Lager bei Nördlingen aufgeschlagen, den Schmalkaldenern gegenüber. Am 11. Oktober strebte er mit dem ganzen Heer nach Donauwörth, wo er sich auf einem Hügel unweit der Stadt postierte. Die [Schmalkaldener] berichten fortwährend an den Augsburger Rat, dass ihre Sache gut stehe, aber Haller ist sich da nicht so sicher, denn die Verantwortlichen scheinen alles zu vernachlässigen. Es werden Dörfer verbrannt, und Mütter irren mit ihren Kindern umher. Man stößt auch auf Leichname verhungerter und erfrorener Kinder. Die Menschen klagen und sind nahe daran, gegen ihre Behörden zu rebellieren.</t>
+<t>Die Augsburger Kirchendiener sind alle unerschrocken und mahnen fortwährend, aber nichts geschieht. Gott hat also wohl vor, uns zu bestrafen. In Augsburg erwartet man stündlich, von den Kaiserlichen überrannt zu werden. Man bereitet sich auf eine Belagerung vor, obwohl es kaum vorstellbar ist, dass der Kaiser den Winter hindurch vor Augsburg liegen wird. Ein Angriff ist jedoch zu befürchten. Die Bevölkerung ist tapfer, aber der Rat verhält sich kindisch.</t>
+<t>Die an der Klause [Ehrenberg] stationierten eidgenössischen Truppen sind der Stadt Augsburg zu Hilfe geschickt worden. Bullinger wird wissen, was die [Schmalkaldener über die eidgenössischen Söldner] nach Zürich und Bern geschrieben haben.</t>
+<t>Bis jetzt sind [Sebastian] Lepusculus und [Hieronymus] Gunz noch in Augsburg. Gunz ist zwar gelehrt, predigt aber nicht besonders gut. Den Lepusculus kennt Bullinger ja.</t>
+<t>Bitte um Gebet in dieser besorgniserregenden Lage. Der Feind ist listig und mächtig, aber Gott ist auf der Seite [der Schmalkaldener]. Er wolle diese retten!</t>
+<t>Haller kann kaum noch studieren. Viel lieber würde er mitkämpfen. Gruß an die Kollegen.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16309-1A</zzl><zzl>zl16309-4A</zzl>Eo ipso die eademque ferme hora, qua fratres nostri
+<fn>Die aus Zürich nach Augsburg entsandten Pfarrer Rudolf Schwyzer d.Ä., Lorenz Meyer (Agricola) und (Hans) Thoman Ruman; s. <qv>nr2612</qv>, <qv>fn16301-2</qv>. Sie kehrten vorläufig nach Zürich zurück, um ihre Familien nach Augsburg zu holen; s. <qv>nr2612</qv>,<qv>zl16301-8</qv> und <qv>fn16301-4</qv>.</fn> Augusta egressi sunt, <zzl>zl16309-15A</zzl>9. scilicet octobris,<zzl>zl16309-1E</zzl> caesareani Werdam
+<fn>Donauwörth. - Über dessen Einnahme am 9. Oktober meldete Heinrich Thomann aus dem Feldlager bei Nördlingen in einem Brief an den Rat von Zürich vom 10. Oktober 1546 (Zürich StA, A 177, Nr. 76): Ein Landsknecht aus einem der zwei schmalkaldischen Fähnlein (s. Z. <qv>zl16309-2</qv>), die in Donauwörth lagen, habe gerade berichtet, dass einige Ratsmitglieder von Donauwörth den andrängenden Kaiserlichen die Schlüssel herausgegeben hatten, mit denen diese dann in die Stadt gelangten. Einige schmalkaldische Söldner konnten durch ein anderes Tor flüchten, weitere wurden getötet. Siehe ferner <a>Viglius van Zwichem</a> 135; <a>Paulus, Schertlin</a> 72.<zfn>fn16309-1</zfn></fn> occuparunt <zzl>zl16309-2A</zzl>facta inter cives proditione<zzl>zl16309-2E</zzl>.<zzl>zl16309-4E</zzl> 2 vexilla nostrorum illic fuerunt tantum, qui caesaris copias videntes et proditionem ipsius senatus Werdensis fuga sibi consuluerunt.<zzl>zl16309-15E</zzl> <zzl>zl16309-7A</zzl>Caeterum non ita egerunt cum eis ut Neoburgi
+<fn>Neuburg a.d. Donau. - Zu den dort von den Kaiserlichen verübten Verbrechen s. <a>HBBW</a> XVII 493,27-40, und zuletzt <qv>nr2607</qv>,<qv>zl16295-9</qv> mit <qv>fn16295-10</qv>.</fn>: Nihil diripuerunt, nemini iniuriam fecerunt. Non enim nisi Germani milites caesaris
+<fn>Karl V.</fn> hoc fecerunt.<zzl>zl16309-7E</zzl></p>
+</div>
+<div>
+<p>Caesar interim
+<fn>Seit Hallers letztem Schreiben <qv>nr2612</qv> vom 6. Oktober.</fn> cum maiore copiarum suarum parte contra nostrum exercitum prope N{oe}rdlingam castrametatus
+<fn>castrametari: das Lager aufschlagen; s. <a>Dasypodius, Dic.</a> 26v.; <a>König</a> 174. - Zur genauen Position des kaiserlichen Lagers bis zum 10. Oktober s. <a>Paulus, Schertlin</a> 72. Die beiden Lager standen sich gegenüber; s. <qv>nr2615</qv>,<qv>zl16305-7</qv>.</fn> est. 11. octobris
+<fn>Genauer: In der Nacht vom 10. auf den 11. Oktober; s. <qv>nr2623</qv>, <qv>fn16313-2</qv>.</fn> <zzl>zl16309-14A</zzl>cum omni exercitu Werdam etiam petiit et se, ut audio, in monte quodam oppido vicino collocavit.<zzl>zl16309-14E</zzl> Quid nostri agant, satis mirari nequeo. <zzl>zl16309-9A</zzl>Scribunt subinde magistratui nostro rem bene habere; ipsos earum, quae ad rem faciunt, nihil neglecturos rerum, cum tamen interim nihil non negligant!<zzl>zl16309-9E</zzl> O bone deus, quantam videres miseriam! <zzl>zl16309-8A</zzl>Pagi concremantur.
+<fn>Siehe schon <qv>nr2612</qv>,<qv>zl16301-18</qv> und <qv>fn16301-20</qv>; <qv>nr2613</qv>,<qv>zl16300-12</qv>.</fn> In campis et sylvis passim vagantur cum matribus pueri. Inveniuntur etiam mortua puerorum cadavera fame et frigore confecta. Clamat vulgus et tantum non seditionem excitat contra magistratum negligentius agentem.<zzl>zl16309-8E</zzl></p>
+</div>
+<div>
+<p>Ministri omnes
+<fn>Zu den Namen der damals in Augsburg wirkenden Pfarrer s. <a>HBBW</a> XVII 379, Anm. 46.<zfn>fn16309-3</zfn></fn> sumus imperterriti. Clamamus, hortamur, urgemus.
+<fn>Vgl. das Spottlied über die Augsburger Prädikanten in <a>Roth, Augsburg</a> III 353f; 375-377 (Beilage I). Darin werden die Eigenschaften jedes einzelnen Augsburger Pfarrers verhöhnt.<zfn>fn16309-4</zfn></fn> Interim tamen nihil fit. Imminet ergo manus dei nobis graviter.
+<fn>Vgl. Hebr 10, 31; 1Petr 5, 6.</fn> <zzl>zl16309-10A</zzl>Expectamus iam singulis horis, ne ex
+<fa><i>Über der Zeile nachgetragen.</i></fa> improviso a caesaris obruamur exercitu. Inn summa: Man schickt sich z{uo} einer bl{ae}gerung, wiewol man nitt kan achten
+<fn>sich vorstellen.</fn>, das sich der kaiser für
+<fn>vor.</fn> Augspurg könn leggen, diewyl der winter uff dem hals. Man bsorgt aber ein anlauff
+<fn>Angriff; s. <a>Fischer</a> I 231.</fn> oder starcken fürzug
+<fn>Vorstoß; s. <a>Fischer</a> II 1890.</fn>.<zzl>zl16309-10E</zzl> Gott gebe uns gnad, das wir nitt in dem schrecken überylt werdendt! Der gmein man ist g{uo}t und dapfer. <zzl>zl16309-11A</zzl>Magistratus autem tam meo quam multorum aliorum iudicio pueriliter in re tanta agere videtur.<zzl>zl16309-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16309-6A</zzl><zzl>zl16309-12A</zzl>Die Eidtgnossen an der Klus
+<fn>Klause Ehrenberg. - Siehe dazu zuletzt <qv>nr2612</qv>,<qv>zl16301-31</qv>.</fn> hatt man bschickt in subsidium nostrae urbis.<zzl>zl16309-12E</zzl> Was man Zürich und Bern gschriben hab,
+<fn>Gemeint ist das Schreiben der Kommissarien von Fürsten und Ständen des schmalkaldischen Bundes aus Kempten an den Rat von Zürich vom 6. Oktober (Zürich StA, A 193, Nr. 9). Siehe dazu schon <qv>nr2610</qv> und <qv>fn16298-3</qv>.<zfn>fn16309-2</zfn></fn> ist üch on zwyfel z{uo} wüßen
+<fn>z{uo} wüßen: zur Kenntnis gelangt.</fn>.<zzl>zl16309-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16309-5A</zzl>Lepusculus et Guntius adhuc nobiscum sunt.
+<fn>Die beiden aus Basel nach Augsburg entsandten Prediger Sebastian Lepusculus und Hieronymus Gunz.</fn> <zzl>zl16309-13A</zzl>Guntius est vir doctus, sed non foelix concionando; Lepusculum nosti. Nihil adhuc cum iis actum.<zzl>zl16309-13E</zzl><zzl>zl16309-5E</zzl></p>
+</div>
+<div>
+<p>Ich kan üch jetz nüt mee schriben dann bittend gott für uns mitt allen frommen, dann es warlich sorglich
+<fn>besorgniserregend.</fn> stat. Wir habend ein listigen und gwaltigen fynd, aber vil ein wyseren und sterckeren f{ue}rer uff unser syten: gott den herren. Der welle sin eer retten und uns gnedicklich z{uo} hilff kommen durch den, den er uns geschenckt hatt, Iesum Christum. Amen.</p>
+</div>
+<div>
+<p>Ich kan nüt studieren. <zzl>zl16309-3A</zzl>Welt lieber darby sin und helffen drin schlahen
+<fn>Vgl. schon Hallers Äußerung in <qv>nr2612</qv>,<qv>zl16301-36</qv>.</fn>, damitt mir der groll ab dem hertzen kem.<zzl>zl16309-3E</zzl> So es darz{uo} kumpt, wil ich mich eerlich und dapfer halten. Wie es mir dann gat,
+<fn>Wie es mir dann gat: Wie immer es mir dabei ergeht.</fn> so lassend mich und die minen üch befolhen sin.</p>
+<p>Datum Augustae Vindelicorum raptim, 12. octobris anno 1546. Salvos cupio fratres omnes.</p>
+<un>Tui studiosissimus Ioan. Hallerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An m. Heinrych Bullinger, predicannten z{uo} Zürich, minem insonders günstigen herren, z{uo} handen.
+<fn>Dieser Brief wurde zusammen mit Brief <qv>nr2621</qv> von einem Augsburger Nachbarn Hallers nach Zürich befördert; s. <qv>nr2621</qv>,<qv>zl16311-2</qv>.</fn></p>
+</div>
+</text>
+</brief>

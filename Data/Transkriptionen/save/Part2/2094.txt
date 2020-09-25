@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2094">
+<nr>2094</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>11. März 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 121f (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 351f, ^$^$^$^$Nr. 1170</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 190^&x{
+<re>In Eile. Der Augsburger Bürgermeister [Hans] Welser bittet um ein Exemplar der Antwort ["Warhaffte Bekanntnuß"] auf Luthers ["Kurtz bekentnis"] und lässt grüßen.
+-^#. Welser schreibt Folgendes: Er wird bald mehr über die spanischen Truppen bei Straßburg erfahren; der Papst und die Seinen planen Großes und bedienen sich des Herzogs Heinrich von Braunschweig, der Truppen wirbt. Man erwartet einen Angriff der Türken. Papst [Paul III.] hat [Ferdinand I.] erlaubt, die Flotte auf die Donau zu verlegen. Kaiser [Karl V.] liegt für mindestens acht Wochen krank in Brüssel darnieder. Die kaiserlichen Gesandten [am Reichstag] zu Worms sind König [Ferdinand I.], der Kardinal von Augsburg [Otto Truchsess von Waldburg], [Nicolas Perrenot, Herr von] Granvelle, Friedrich [II.] von Fürstenberg und [Johann von] Naves. Der Papst hat den Kardinal von Trient [Cristoforo Madruzzo] als seinen Legaten zum Reichstag geschickt.
+-^#. [Wolf oder Wolf Dietrich] von Homburg, der von Worms kam, berichtete, dass [Karl V.] todkrank sei, und dass Landgraf [Philipp von Hessen] den Grafen [Anton I.] von Oldenburg[-Delmenhorst], der Heinrich [von Braunschweig] unterstützt, sowie 13 weitere Personen gefangengenommen und zur Befragung nach Kassel gebracht habe.
+-^#. [Martin] Frecht empfiehlt sich und schreibt, dass Philipp von Hessen und [Kurfürst Johann Friedrich] von Sachsen über die Unterstützung des Kurfürsten von Köln [Hermann von Wied] beraten.
+-^#. Grüße, besonders an Theodor [Bibliander] und Gwalther. Blarer dankt für die übersandten Büchlein.
+-^#. Das ["Warhaffte Bekanntnuß"] scheint etwas zu lang und wird viele von der Lektüre abschrecken; einige Kapitel hätten zusammengefasst werden sollen.
+-^#. Grüße von [Thomas Blarer] und [Konrad] Zwick.
+-^#. Blarer hat die ["Warhaffte Bekanntnuß"] noch nicht gelesen, da er es einem Freund [...] weitergeleitet hat. Er bittet um den letzten Teil der deutschen Fassung und empfiehlt den Briefüberbringer [...].</re>
+<tx>Properiter. Welserus, consul Augustanus<f1>Hans Welser.<fe>, nudius tertius datis ad me literis<f1>Welsers Brief vom 9. März 1545 findet sich nicht in Blarer BW.<fe>
+obnixe petit, ut quamprimum ad se mittam responsionem vestram<f1>Das "Warhaffte Bekanntnuß" der Zürcher; s. oben Nr. 2061, Anm. 9.<fe> ad Lutheri libellum<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>;
+interim diligenter admonet, ut te suo nomine officiose salutem.
+^$Scribit inter cętera:
+"Wa die 4000 Spanyer hinauß wellen, die nitt weyt von Strasburg ligend, will ich gar bald vernemen.<f1>Siehe oben Nr. 2068, Anm. 12.<fe>
+Es sind groß practica vorhanden vom papst<f1>Paul III.<fe> und desselbigen<fx>^#/+In der Vorlage^#/- dessselbigen.<fe> anhang;
+brauchend hertzog Hainrichen von Braunschwig<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe>;
+der stat in werbung, empoͤrung zemachen.<f1>Zu Heinrichs Truppenwerbung s. ^#/+Demandt^#/- 59f; s. auch unten Anm. 30.<fe> Der Türk<f1>Sultan Suleiman I.<fe> soll gewiss kommen, und der papst hat dem roͤmischen konig<f1>Ferdinand I.<fe> bewilliget,
+die armada<f1>die Flotte.<fe> zuͦverlegen auff der Tonauw, on zweyfel, dass er inn dest baß<f1>dest baß: umso besser.<fe> by seinem glouben erhalte.<f1>Ferdinand I. verhandelte mittels Kardinal Christoforo Madruzzo mit dem Papst um die finanzielle Unterstützung einer Flotte auf der Donau (s. unten Anm. 23). Diese Bitte richtete er auch an die Reichsstände am Reichstag in Worms; s. RTA JR XVI/2 1228-1230. 1397; NBD VIII 26. 91.<fe>
+Kai. mt.<f1>Karl V.<fe>
+lygt zuͦ Pryssel im holtz;<f1>im Holz liegen: Ein längerer Bettaufenthalt im warmen Zimmer, verbunden mit einer Fastenkur, oft bei Syphilis angewandt; s. Hermann ^#/+Fischer,^#/- Schwäbisches Wörterbuch, Bd. 3, Tübingen 1908, Sp. 1782; J. Andreas ^#/+Schmeller,^#/- Bayerisches Wörterbuch, 2. Ausg. bearb. v. G. Karl ^#/+Frommann,^#/- Bd. 2, München 1872, Sp. 1104; Amerbach Korr. XI/2 655f.<fe>
+muͦss auffs wenigst 8 wochen haben zuͦ beholung der gsunthait.<f1>Zum Aufenthalt Karls V. in Brüssel (laut ^#/+Stälin^#/- 578 vom 16. Januar bis zum 7. April) aufgrund seiner Gichterkrankung s. zuletzt oben Nr. 2089.<fe>
+Die kaiserliche commissari, gen Wurmß verordnet, seind dise:<f1>Eine gleiche Liste der kaiserlichen Gesandten an den Reichstag zu Worms in RTA JR XVI/2 104-106, Nr. 12.<fe>
+^$^$^$der römisch könig
+^$^$^$der cardinal von Augspurg (id est ir bischoff<f1>Otto Truchsess von Waldburg.<fe>, den er zuͦ ainem cardinal gemacht<f1>Siehe oben Nr. 2065, Anm. 30.<fe>)
+^$^$^$der Granvela<f1>Nicolas Perrenot, Herr von Granvelle.<fe>
+^$^$^$grauff Friderich von Furstenberg<f1>Friedrich II. von Fürstenberg (1496-1559), jüngerer Bruder des Grafen Wilhelm von Fürstenberg. Er wuchs zusammen mit Karl V. und Ferdinand I. auf und genoss somit eine ausgezeichnete Bildung. Zeitlebens bekleidete er administrative und militärische Ämter für Karl V. - Lit.: ADB VIII 219f.<fe>
+^$^$^$der von Navis<f1>Reichsvizekanzler Johann von Naves.<fe>.
+^$So hat der papst den cardinal von Trient<f1>Cristoforo Madruzzo war nicht päpstlicher Legat, sondern als geistlicher Fürst am Reichstag teilnahmeberechtigt. Er erschien jedoch nicht persönlich, sondern entsandte seinen Vater Hans Gaudenz von Madruzzo; s. RTA JR XVI/2 1663 und Anm. 2. Im Januar und Februar 1545 hielt er sich in Rom auf, um für Ferdinand I. mit dem Papst zu verhandeln, u.a. auch über finanzielle Unterstützung einer Donau-Armee gegen die Türken (NBD VIII 25f. 91). Im März war Madruzzo schon mit der Vorbereitung des Konzils von Trient beschäftigt.<fe> zuͦ seinem legaten uff den reychstag verordnet.<f1>Päpstlicher Legat am Reichstag war nicht Madruzzo, sondern Fabio Mignanello, Bischof von Lucera, der am 2. April in Worms eintraf, wenig später gefolgt von Kardinal Alessandro Farnese; s. NBD VIII 27-29.<fe>"
+^$So ist der von Honburg<f1>In Frage kommen die baden-württembergischen Adligen Wolf von Homburg (Honburg, gest. 1556) oder sein Cousin Wolf Dietrich von Homburg (Honburg, gest. 1553); s. Kindler von Knobloch II 102.<fe> yetz von Wurms herauff<f1>nach Konstanz.<fe> kommen; sagt, es seye gewisß, das kai. mt. tötlich kranck seye.<f1>Diese Mitteilung ist falsch.<fe>
+So hat der landgrauff<f1>Philipp von Hessen.<fe> den grauffen von Oldenburg<f1>Anton I. von Oldenburg-Delmenhorst (1505-1573) behauptete nach langjährigem Streit mit seinen Brüdern die Alleinherrschaft über seine Grafschaft. Äußerlich kaisertreu, führte er zur Stärkung seiner eigenen Macht die Reformation ein; s. HBBW VIII 162, Anm. 42; NDB I 316f (mit weiterer Lit.).<fe>, der dem von Braunschweig gar gehaim und im in allen sachen hilfflich und rätlich gewesen, gefangen und ander 13 personen mitt im,
+sy gon Cassel gefürt, dardurch man in allerlay sachen erfarung komen wurt.<f1>Anton von Oldenburg hatte sich 1544 für die Aufnahme in den Schmalkaldischen Bund beworben, obwohl er schon seit 1542 Heinrich von Braunschweig unterstützte und Truppen für ihn warb; s. PC III 530; PA I 379, Nr. 617; PA II 165f, Nr. 1497. 433, Nr. 1767; PA III 264, Nr. 2621. Zu einer Gefangennahme ließ sich nichts ermitteln.<fe>
+^$Frechtus datis ad me literis<f1>Martin Frechts Brief vom 5. März (Blarer BW II 350f, Nr. 1169).<fe> valde petit, ut se vobis officiose commendem. Scribit Saxonem<f1>Kurfürst Johann Friedrich von Sachsen.<fe> et landtgravium iam deliberare et constituere de iuvando electore Coloniense<f1>Hermann von Wied.<fe>.<f1>Dazu konnte nichts ermittelt werden.<fe>
+^$<vl>122</vl> Non potui praeterea quicquam, mi venerande et chari[ssime]<fx>^#/+Hier und im Folgenden Text im engen Einband verdeckt. Die fehlenden Stellen wurden aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 56, 190) ergänzt.^#/-<fe> Bullingere. Salutabis amantissime
+fratres et ami[cos], inprimis Theodorum<f1>Theodor Bibliander.<fe> et Gvaltherum vestros. Pro missis l[ibel]lis<f1>Wohl ein noch unvollständiges Exemplar (s. unten Anm. 43) der Schrift "Warhaffte Bekanntnuß" und möglicherweise ein weiteres Exemplar der gerade erschienenen Schrift Gwalthers Ad catholicam ecclesiam omnemque fidelium posteritatem pro D. Huld. Zvinglio et operum eius aeditione Apologia, Zürich, Christoph Froschauer, Februar 1545, A-H8, I4 (VD 16 W 1015; BZD C 351), deren Text vom 3. und deren Widmungsepistel vom 12. Februar 1545 datieren. - Dass es sich dabei nicht um die "Orthodoxa Tigurinae Ecclesiae confessio" (s. oben Nr. 2061, Anm. 9), die lateinische Fassung der Schrift "Warhaffte Bekanntnuß", handeln kann, geht aus unten Nr. 2111, 27f, hervor, einer Bemerkung, die dort sonst überflüssig wäre.<fe> maximas ago gratias,
+atque utinam sit ali[quando], unde vicissim gratificari et paria facere queam!
+^$Germanica responsio<f1>Das "Warhaffte Bekanntnuß".<fe> plus ęquo prolixa videtur et quamplurimos a legendo absterrebit. Utinam etia[m] capita quędam illius in breve quoddam summariu[m] contracta! Esset ea merx vendibilior et plurib[us] usui.
+^$Salutant te germanus frater meus<f1>Thomas Blarer.<fe> cum Zviccio<f1>Konrad Zwick.<fe>. Bene vale, mi charissime anime.
+^$11. martii 1545.
+<lz>Ego nihil etiamnum legi vestrę responsionis<f1>Das "Warhaffte Bekanntnuß".<fe>; cum ea affer[ebatur]<fx>^#/+In der Vorlage^#/- afferr[ebatur].<fe>, commodum
+aderat nuncius<f1>Unbekannt.<fe>, per quem hanc ad singular[em] quendam et optimum amicum<f1>Unbekannt.<fe> misi.
+Postremam partem Germanicę responsionis desyderabam ab<fx>^#/+In der Vorlage^#/- ad.^#/+ - Zur Korrektur s. unten Anm. 43. ^#/-<fe> 16. octernio[ne]<f1>Das "Warhaffte Bekanntnuß" (HBBibl I 161 oder 162f) zählt 18, von A bis S signierte Lagen (Luthers "Kurtz bekentnis" im Anhang entspricht den Lagen a-c8). Falls Blarer tatsächlich ^#/+ad^#/- [im Sinne von ^#/+ca.^#/-] ^#/+16. octerniones^#/- zu schreiben beabsichtigte, hätte er nur die zwei ersten Lagen erhalten, da die Schrift im ganzen 18 Lagen zählt. Doch wie hätte er sich nur anhand zweier Lagen über die Länge der Schrift beschweren können (Z. 36-38) und außerdem wissen sollen, wieviele Lagen ihm noch fehlten? Demzufolge ist wohl ^#/+ad^#/- in ^#/+ab^#/- zu korrigieren. Blarer besaß die ersten 15 (vielleicht 16) Lagen A bis P (oder Q) und bat um den Rest.<fe>.
+Commendo tibi bonum hunc fratrem<f1>Unbekannt; der Briefüberbringer.<fe>.
+<un>Tuus Ambr. Bl.
+<lz>[Adresse darunter:] Clarissimo viro domino Heinricho Bullingero, venerando suo atque charissimo in Christo fratri. Tiguri.
+</content>
+</letter>

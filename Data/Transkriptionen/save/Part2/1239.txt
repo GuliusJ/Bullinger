@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1239">
+<nr>1239</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>10. März 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 90 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt ihm für alles, was er für Rudolf [Gwalther] tut, und bittet ihn, Grynäus daran zu erinnern, was er ihm bezüglich
+Gwalthers vorgeschlagen hat. Schickt ihm und Grynäus die Neubearbeitung seiner Schrift "De origine erroris" und bittet um ihr Urteil.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Nihil nunc habeo, frater in domino colendissime, quod scribam, nisi quod maximas tibi gratias ago pro tua illa in
+Rodolphum<f1>Rudolf Gwalther.<fe> insigni humanitate exhibita<f1>Myconius hatte Gwalther nach dessen Rückkehr
+aus Straßburg wieder in sein Haus aufgenommen; vgl. oben Nr. 1230, 32; 1232, 12-15.<fe>. Dominus sit merces tua. Quicquid autem huic impenderis, mihi impensum putabo. Amo enim ingenuitatem et
+candorem adolescentis, [p]upilli alioqui<fx>[p]upilli alioqui ^#/+am Rande nachgetragen; Rand beschädigt.^#/-<fe><f1>Vgl. HBBW VIII, S. 177, Anm. 5.<fe>.
+Oro ergo, ut pater illius esse velis, sancte educes et a lubricitate pravitateque, imo
+stoliditate iuvenili abstrahas. Rogabis praeterea meo nomine Grynaeum, eius meminerit, quod ei<fx>ei ^#/+anstelle von
+gestrichenem ^#/-cum es[?] ^#/+über der Zeile nachgetragen.^#/-<fe>, dum Tiguri esset<f1>Anläßlich der Zürcher Konkordientagung von Ende April / Anfang Mai 1538 (vgl. Stumpf, Abendmahlsstreit
+111).<fe>, de Rodolpho suggerebam<f1>Bullinger muß mit Grynäus über die Aufnahme von Gwalther in sein Haus gesprochen haben; vgl. unten Nr. 1245, 24-28; 1252, 25-30.<fe>, et ut illum sibi habeat commendatum.
+^$Recognovi hac hyeme libellos illos meos ante decennium De
+origine erroris aeditos<f1>Zur Neubearbeitung von "De origine erroris libri duo" s. oben Nr. 1237, Anm. 7.<fe>, imo veluti
+novos magnis sudoribus<fx>magnis sudoribus ^#/+am Rande nachgetragen.^#/-<fe>
+feci in gratiam studiosorum et in assertionem veritatis,
+quam pontifitii omnibus modis oppugnant. Non displicebit,
+spero, bonis labor noster. Mitto autem tibi et Grynaeo unum
+exemplar, ut, quos una copulavit charitas, unum munus
+constringat arctius. Si vacabit, legite et, quid iudicetis,
+significate.
+^$Valete in domino.
+^$10. martii 1539.
+<un>H. Bullingerus vester.
+<lz>[Adresse auf der Rückseite:] Domino Osvaldo Myconio, fratri charissimo.
+</content>
+</letter>

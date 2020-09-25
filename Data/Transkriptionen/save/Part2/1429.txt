@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1429">
+<nr>1429</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>die übrigen Pfarrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>12. November 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 173 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 150</vo>
+<dr>Ungedruckt</dr>
+<re>Schickt die Abschrift eines Briefs von Grynäus mit einem Verzeichnis der Abgeordneten zum Wormser Religionsgespräch. Der Kaiser
+leidet an einer Fußerkrankung, und einige seiner besten Räte sind gestorben; die Niederländer hassen ihn so sehr, daß sie ihn nur als Herzog von Flandern titulieren.
+</re>
+<tx>S. Scripsitd. Grynęus mihi<f1>Der Bericht, den Grynäus aus Worms an Myconius sandte, ist nicht erhalten.<fe> conditione
+adiuncta, ut literas<fx>^#/+in der Vorlage^#/- literias.<fe> descriptas mitterem ad vos una cum catalogo eorum,
+qui ad conventum destinati sunt<f1>Ein vorläufiges Verzeichnis katholischer und protestantischer Delegierter findet sich in
+einer Abschrift von Bullingers Hand in Zürich StA, E II 350, 355-357.<fe>. De rebus istis non est, ut pluribus dicam; quid
+agatur enim Wormacię, ex eius literis facile deprehendetis. Addo, quę in illis non habentur: Caesar<f1>Karl V.<fe> in
+altero pede laborat morbo, quem nos lupum<f1>Vgl. SI XV 1556f.<fe> vocamus, ut nec ingredi nec equitare valeat, sed
+lectica vehatur. Dein optimi quique ex consiliariis eius
+mortem obierunt<f1>Am 28. Dezember 1539 war Jan Hannart gestorben, am 2. April 1540 Antoine de Lalaing, Graf von
+Hoogstraten, am 5. August 1540 Jean Jonglet; vgl. Michel ^#/+Baelde,^#/- De collaterale raden onder Karel V en Filips II
+(1531-1578), Brüssel 1965. - Verhandelingen van de Koninklijke Vlaamse Academie voor wetenschappen, letteren en schone kunsten
+van België, Klasse der letteren, Nr. 60, S. 266f. 270-272.^&xVgl. Martin ^#/+Lunitz,^#/- Diplomatie und Diplomaten im 16.
+Jahrhundert. Studien zu den ständigen Gesandten Kaiser Karls V. in Frankreich, Konstanz 1988. - Konstanzer Dissertationen 213,
+S. 249 bzw. 240.^&x{<fe>. Ob tyrannidem miserabili odio prosequuntur eum Inferioris Germanię populi, adeo ut non
+caesaris, sed ducis Flandrię nomine vocitent. Hęc adiecta volui, ne nihil scriberem.
+^$Valete cum vestris in Christo.
+^$Basileae, raptim, 12. novembris anno 40.
+<un>Os. Myconius
+<un>vester.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho
+Bullingero et fratribus reliquis, ministris Christi, suis in
+domino. Zurich.
+^&x Vgl. zum Wormser Kolloquim: E II 350, um 320-390. ^&x{
+</content>
+</letter>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="544">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>(*Sulpitius Haller*)+1</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>5. März 1535</date>
+</space_time>
+<record>Abschrift: Bern Burgerbibliothek, Mss. Hist. Helv. XII 20, 216</record>
+<print>Ungedruckt</print>
+<statue>
+Auf die Anfrage der Wiler Kanzlei des Abtes von St. Gallen, wieviele
+Berner (*Politiker*) auf der Kyburg und in Zürich gewesen seien, wurden
+(*von Landschreiber Grossmann*) aus Pfäffikon übertriebene
+Angaben gemacht; Landvogt Lavater lässt dies mitteilen, um Gerüchten
+vorzubeugen.
+</statue>
+<content>
+Mein willig dienst, fründtlichen gru^%tz unnd alles gu^%tz bevor,
+fründtlicher, lieber her vogt.
+<p>Es hat der schryber+2 dess münchs ze S. Gallen+3 von Wyl+4 gen Pfäfficon+5 gar ernstlich geschriben und begert zewüssen, wievil der Berneren bei dem vogt von Kyburg+6
+und Zürich gsin+7.
+Do hat der+8
+zuo Pfefficon herwiderumb+9
+geschriben nun prachtlich und herlich+10
+vil mee, dann ann
+der sach. Namlich, es syenndt 6 von rhadten von Bern da gsinn etc.
+Unnd was er nun gewüst, das dem appt widerig,
+das hat er gschriben. Söllichs hat mich mein herr von Kyburg
+heissen schryben, ob vilicht+11
+etwas reden daruss erwachsen wöllen, dass ir wüsstennd, wie es gangen sye.
+Nit meer, dann gott sye mit üch.</p>
+<p>Datum, Zürich den 5. martii anno 1535. jar.</p>
+<signature>
+Heinrich Bullinger,
+eüwer williger diener.
+</signature>
+<address>
+(*Ohne Adresse.*)
+</address>
+</content>
+<note>
++1>Der Adressat ergibt sich aus der Anrede "lieber her vogt" (Z. 1f)
+und Sulpitius Hallers Antwortschreiben vom 21. März (vgl. unten Nr. 560).
++2>Ulrich Sailer, Kanzler.
++3>Gemeint ist der Abt des Klosters St. Gallen,
+Diethelm Blarer von Wartensee.
++4>Wil (Kt. St. Gallen), die zweite Residenz des Abtes, war das
+Verwaltungszentrum des fürstäbtischen Unteramtes (vgl. Paul
+<print>
+Staerkle,
+Der fürstlich-st. gallische Hofstaat bis zur Glaubensspaltung, in:
+FS Oskar Vasella. Zum 60. Geburtstag am 15. Mai 1964 überreicht
+von Schülern und Freunden, Freiburg i. Üe. 1964, S. 47f).
++5>In Pfäffikon (Kt. Zürich) befand sich eine der beiden Kanzleien
+der Landvogtei Kyburg.
++6>Landvogt Hans Rudolf Lavater.
++7>Im Brief Lavaters an Bullinger vom 27. Dezember 1534 war von
+einem bevorstehenden Besuch Sulpitius Hallers bei Lavater die Rede
+gewesen (vgl. HBBW IV, S. 461, 4-10).
++8>Gemeint ist der Landschreiber in Pfäffikon, damals Melchior
+Grossmann (vgl. Georg
+Sibler,
+Zinsschreiber, geschworene Schreiber und Landschreiber im alten Zürich,
+in: Zürcher Taschenbuch 1988, S. 151 und 156).
++9>zurück.
++10>prahlerisch und überheblich (SI V 392 und II 1552).
++11>falls.
+</print>
+</note>
+</letter>

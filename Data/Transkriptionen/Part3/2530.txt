@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2530">
+<brief>
+<id>16221</id>
+<nr>2530</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 9. August [1546]
+<fn>Das Jahr ergibt sich aus dem Inhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 684 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 486, Nr. 1325<k>Kopie 18. J.: Zürich ZB, Ms S 61, 71 </k></dr>
+<re>Letzte Nacht kam [Konrad] Hofherr mit Briefen (davon einer an Blarer [nicht erhalten]) und mit Schriften Bullingers. Die für Augsburg bestimmten Schreiben wird Blarer bei nächster Gelegenheit weiterleiten. Der Übermittler vorliegenden Briefes [...] wird bald abreisen wollen, ehe Blarer etwas geschrieben hat.
+<t/>[Georg] Frölich hat sich immer wieder kritisch über [Hans] Welser geäußert. Mit seinem Kleinmut hätte er dem Kaiser [Karl V.] alles zugestanden! Wie Bartholomäus Welser brachte auch er als einer der Ersten in Augsburg seinen Besitz, seine Gattin [Barbara, geb. Adler] und seine Kinder in Sicherheit. Doch in seinen Briefen an Blarer gibt er zwar seine Angst zu, hofft aber, dass Gott ihn nicht verlassen wird. Demnach spricht Blarer ihm laufend Mut zu. Gott allein kennt Welsers wahres Wesen. Es ist daher Bullinger überlassen, ob er diesem [seinen Lukaskommentar] widmen will oder nicht.
+<t/>Bullingers ["Antwort uff des Papsts Laden in das Concilium"] gefällt Blarer gut.
+<t/>Herzog [Wilhelm] von Bayern hätte gestern mitteilen sollen, ob er Freund oder Feind sein wolle. Die [Schmalkaldener] drohten ihm, ihn als Ersten anzugreifen, da sie durch sein Territorium ziehen müssen. Doch wurde Ingolstadt in den letzten Jahren gut befestigt ...
+<t/>Da alle [schmalkaldischen] Truppen nord[östlich in Richtung Regensburg] ziehen, macht man sich um [die Bodenseeregion und um das Allgäu] Sorgen. Die [katholischen] Nachbarn könnten nämlich nun Ravensburg, Kempten, Isny wie auch andere Orte leicht überfallen.
+<t/>In großer Eile.
+<t/>[P.S.:] Hofherr traf erst ein, nachdem Blarer den [vorgehenden] Brief [<qv>nr2522</qv>] geschrieben hatte.</re>
+<text>
+<p><zzl>zl16221-1A</zzl>Necht
+<fn>Letzte Nacht.</fn> kompt Curio
+<fn>Konrad Hofherr.</fn> mitt ewern andern brieffen
+<fn>Nicht erhalten.</fn> und schrifften
+<fn>Dazu gehörte sicherlich Bullingers Entgegnung auf die päpstliche Einladung zum Trienter Konzil (s. unten <qv>fn16221-2</qv>).</fn>,<zzl>zl16221-1E</zzl> deren ich mich zum h{oe}chsten bedanck.
+<fn>Zu Hofherrs Rückberufung s. zuletzt <qv>nr2513</qv>,<qv>zl16203-7</qv>.</fn> Will die andern
+<fn>Aus diesem Zeitraum sind keine Briefe Bullingers nach Augsburg erhalten.</fn> uff Augspurg schicken by erstem
+<fn>by erstem: bei der ersten Gelegenheit.</fn>. Diser
+<fn>Der unbekannte Bote, der Blarers Brief nach Zürich befördern sollte.</fn> will uff sin, das ich nichts waiß ze schriben.</p>
+<p><zzl>zl16221-2A</zzl><zzl>zl16221-5A</zzl>Der L{e}tus
+<fn>Der Augsburger Stadtschreiber Georg Frölich. - In einem unbekannten Brief.</fn> hat mich ettlich mal bericht, das es um den Welser
+<fn>Hans Welser.</fn> gar schwach stande.
+<fn>Vor der politisch angespannten Lage hatte Frölich Welser ganz anders beurteilt; vgl. <a>HBBW</a> XVI 150,68-82.</fn> Seye klainm{ue}tig
+<fn>Dies erklärt die aufmunternden Worte Bullingers in dessen Widmung an Welser (<qv>nr2545</qv>), die er seinem Lukaskommentar voranstellte.</fn>, stecke tieff hinder dem kaiser
+<fn>Karl V.</fn>. Hat wyb
+<fn>Barbara, geb. Adler.</fn> und kind
+<fn>Zu Welsers Kindern s. <a>Augsburger Eliten</a> 935.</fn> zytlich hinwegg gefl{oe}chnet
+<fn>zytlich hinwegg gefl{oe}chnet: frühzeitig [wegen der drohenden Kriegsgefahr] außerhalb [von Augsburg] in Sicherheit gebracht; s. <a>SI</a> I 1160 s.v. flöchen.</fn>, und sein g{uo}t und hab, wie auch Bartlome Welser
+<fn>Bartholomäus V. Welser d.Ä. (1484-1561), Cousin von Hans Welser und zu diesem Zeitpunkt Geschäftsführer der Augsburger Welser-Gesellschaft.</fn> den ersten uffbruch in Augspurg gemacht.
+<fn>Zum Verhalten der Augsburger Patrizier s. zuletzt <qv>nr2498</qv>,<qv>zl16189-18</qv>; <qv>nr2511</qv>,<qv>zl16201-9</qv>.<zfn>fn16221-3</zfn></fn><zzl>zl16221-5E</zzl> Aber in seinen brieffen, die er noch f{ue}r und f{ue}r
+<fn>f{ue}r und f{ue}r: weiterhin.</fn> an mich schreibt,
+<fn>Nicht in <a>Blarer BW</a>.</fn> find ich gar g{uo}te christliche wort. Schreibt wol, das creutz trucke inn ubel, hoffe aber, gott werd inn nitt lassen. Daruff ich im ouch vyl geschriben
+<fn>Nicht in <a>Blarer BW</a>.</fn> und inn gesterckt, so vyl mir der herr gott gnad verlichen. Aber L{e}tus maint ye
+<fn>immer wieder; s. <a>FNHDW</a> VIII 337.</fn>, es seye kain g{uo}t fundament da, und so es an im were gestanden, er hette dem kaiser aller ding willfaret. Ich waiß aber nitt und kans nitt urtailen. Gott kennt alle hertzen.
+<fn>Apg 15, 8.</fn> Dem seye es bevolchen! Daran thaind
+<fn>Daran thaind: Darum tut.</fn> im mitt der dedication
+<fn>des Lukaskommentars; s. <qv>nr2545</qv>, <qv>fn16211-1</qv>.</fn>, wie euch f{ue}r g{uo}t ansicht. Kan min urtail hierinn nitt styf setzen.<zzl>zl16221-2E</zzl></p>
+<p>Ewer antwort des concilii halber gefellt mir sehr wol.
+<fn>Die von Bullinger konzipierte "Antwort der Predigeren zu Z{ue}rich uff des Papsts Laden in das Concilium zu Trient" vom 1. August 1546. Original in Zürich StA, E I 1.5, Nr. 14a. Kopien aus Bullingers Besitz: Zürich ZB, Ms A 65, 95-100; Ms A 128, 2r.-6v. In Zürich ZB und StA befinden sich noch mindestens sieben weitere Kopien dieser Abhandlung. Druck: <a>MiscTig.</a> I/3, S. 26-38 (<a>HBBibl</a> I 733). Die Schrift wurde von Bullinger vor dem Zürcher Rat am 4. August vorgetragen; s. <a>HBD</a> 34. Siehe ferner <a>EA</a> IV/1d 651 d. 653 zu d.<zfn>fn16221-2</zfn></fn></p>
+<p>Uff gestert hat der hertzog von Payer
+<fn>Wilhelm IV. von Bayern.</fn> sollen antwurt geben, ob er find oder freund welle sein.
+<fn>Schon am 3. August 1546 hatten Landgraf Philipp von Hessen und Kurfürst Johann Friedrich von Sachsen einen Brief an Herzog Wilhelm gerichtet, um dessen Haltung auszuforschen. Dieser Brief wurde mehrmals gedruckt (<a>VD16</a> S950-S956); die Erstausgabe der Schrift wird wohl in Augsburg erschienen sein unter dem Titel: Von Gottes genaden Johannes Friderich Hertzog z{uo} Sachssen, Philips Landtgraue z{uo} Hessen und gemeyner Christlicher einung verordnete Kriegs Räthe an Hertzogen Wilhelmen z{uo} Bayern. M.D.XLVI. Den III. Augusti, [Augsburg: Heinrich Steiner 1546] (<a>VD16</a> S955). Zürich ZB besitzt unter der Signatur 18.1453/13 eine Nürnberger Ausgabe (<a>VD16</a> S952). - Nachdem der Herzog keine deutliche Antwort gab, kam es am 7. August zu einem erneuten Schreiben, in dem der Landgraf und der Kurfürst den Herzog aufforderten, sich bis zum 9. August zu erklären. Auch dieses Ultimatum ließ der Herzog verstreichen und schickte erst am 12. August Gesandte mit Falschinformationen ins protestantische Lager; s. <a>Herberger, Schertlin</a> 123-125, Nr. 34; <a>Schüz, Donaufeldzug</a> 26-29; Zürich StA, A 227/1, Nr. 83 (Verso-Seite vom 8. August 1546); Nr. 84 (vom 10. August) und Nr. 85 (Nachricht aus Augsburg).<zfn>fn16221-1</zfn></fn> Wirt er find sin wellen, so werden sy inn am ersten angrifen, dann
+<fn>weil.</fn> sy m{uo}ssend ye
+<fn>auf jeden Fall; s. <a>FNHDW</a> VIII 339.</fn> den pasß
+<fn>Durchgang.</fn> haben. <zzl>zl16221-4A</zzl>So ist aber Yngolstatt sehr vest buwen in kurtzen
+<fn>buwen in kurtzen: befestigt worden in den letzten.</fn> jaren und nitt lichtlich ze gewynnen.
+<fn>Offensichtlich war es die Absicht des Herzogs, die schmalkaldischen wie auch die kaiserlichen Truppen nach Ingolstadt zu locken, um eine Entscheidungsschlacht zu provozieren; s. <a>Schüz, Donaufeldzug</a> 29.</fn><zzl>zl16221-4E</zzl></p>
+<p><zzl>zl16221-3A</zzl>Wir sorgend, man mach das land hie oben
+<fn>Die Bodenseeregion und das Allgäu.</fn> gar z{uo} blooß
+<fn>ungeschützt durch Truppen.</fn>. Und wer nitt von n{oe}ten, das alles
+<fn>alle schmalkaldischen Truppen.</fn> hinab
+<fn>Richtung Nordosten, dem bei Regensburg liegenden Kaiser entgegen; vgl. den Brief des Konstanzer Rats an Zürich vom 5. August 1546 (Zürich StA, A 205/1, Nr. 220): Man habe vernommen, dass man "one verzug uff Regenspurg ze ziehen willens sige".</fn> zucht, dann unsere nachpuren
+<fn>Blarer denkt wohl an die Truppenwerbungen des Konstanzer Bischofs Johann von Weeze; s. <qv>nr2518</qv>,<qv>zl16212-11</qv>.</fn> m{oe}chten licht
+<fn>leicht.</fn> ain volck machen, sy uberzucktind
+<fn>überfallen; s. <a>Fischer</a> VI/1 74.</fn> Ravenspurg, Kempten, Ysne, etc. Es gat warlich nitt aller ding furtrechtlich
+<fn>überlegt.</fn> z{uo}.<zzl>zl16221-3E</zzl> Gott m{uo}ß besser machen, dann
+<fn>als.</fn> wir handlen. Den bitten trulich f{ue}r unß.</p>
+<p>Datum 9. a[ugusti]
+<fa><i>Textverlust durch Ausschnitt des Siegels.</i></fa> in grosser yl.</p>
+<un>A. Bl.</un>
+<lz/>
+<p>Curio ist erst komen, nachdem ich den andern brieff
+<fn>Wohl der letzte Brief Blarers vom 2. oder 3. August (<qv>nr2522</qv>).</fn> geschriben hatt.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Bullingero suo.</p>
+</text>
+</brief>

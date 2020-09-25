@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1582">
+<nr>1582</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>10. November 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 217 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 127</vo>
+<re>Bittet um Rücksendung der Regensburger Akten. Empfehlung des Briefüberbringers Erhardus [Eynard Pichon], Gesandter der Neuenburger Pfarrer; dem Versuch, [Guillaume] Farel aus dem Amt zu drängen, muss Widerstand entgegengesetzt werden.</re>
+<tx>[Gedruckt: CO XI 320f, Nr. 372, Corr. des réformateurs
+VII 332f, Nr. 1063; zusammenfassende Übersetzung: Blarer BW
+II 91, Nr. 917.]
+^&xS. Scripsi ad te nuper, mi charissime frater, additis
+actis illis comitiorum Ratisponensium, quę valde rogo ut
+nuncii opportunitatem nactus quam primum remittas, quo
+nostri quoque legant.
+^$Nunc unum illud scribo, quod pius hic et eruditus vir
+Erhardus [Eynard Pichon. - Lit.: Louis ^#/+Aubert,^#/- in: Guillaume Farel 1489-1565. Biographie nouvelle écrite [...] par un groupe d'historiens [...], Neuchâtel-Paris 1930, S. 690, Anm. 1.], Gallus quidem, sed nunc Noecomensis urbis et agri
+fratrum legatus, vel paucissimis tibi a me indicari voluit,
+nempe quo felicius suscepto munere fungatur et a vobis
+quoque, quę ab Argentoratensibus pariter et nobis,
+impetret. Age igitur, mi venerande Bullingere, adesto optimo
+viro caussam plane iustam et optimam agenti, ut votorum
+suorum compos evadat. Rem omnem ex ipso bona fide audies.
+Pessimum profecto exemplum fuerit, si vel semel praeclarus
+aliquis, qualis etiam Farellus est, ecclesię Christi
+minister quorundam libidini et insolentię cedere cogatur,
+in iis puto locis, ubi Christi verbum receptum est. Quare
+nemo, puto, bonus non existimabit fortiter hic principiis
+obstandum<f1>Ovid, Remedium amoris 91 (Otto 287, Nr. 1470).<fe>. Vos praecipue, qui nostrum hunc in locum
+pręter ceteros valde quam constanter tuemini.
+^$Bene vale, mi charissime et optime frater. Salveat tota tua
+domus cum omnibus administris tuis in domino. Nostri omnes
+amanter et reverenter vos optant in domino valere, cui ut
+sedulo nos commendetis, iterum atque etiam rogamus.
+^$Constantię, 10. novembris anno 1541.
+<un>Tuus ab animo Ambr. Bl.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Heinricho Bullingero, Tiguricensi antistiti incomparabili,
+fratri suo cum primis colendo et charissimo.^&x{
+</content>
+</letter>

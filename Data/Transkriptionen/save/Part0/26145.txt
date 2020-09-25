@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="26145">
+<nr>26145</nr>
+<correspondents>
+	<originator>Thomas Sampson</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lausanne</place>
+	<date>12. August 1556</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 393. (Siegel...)</vo>
+<dr>Zur. lett. III, S. 176</dr>
+<re></re>
+<tx>Lausan[nae].
+^$Literae, quas mihi deferendasd. Hallero tradidisti, Bullingere
+optime, mea multum iuvarunt negotia. Cum enim Bernam venissem et
+nullum meorum illic reperissem, illa omnia mea confecit; nam et
+hospitio benignissime excepit et comitem diligentissime
+quesivit, qui me Lausannam comitaret. Haec autem omnia, quia mei
+mentionem tu feceras in illius literis, ille fecit. Tibi igitur
+gratias ago, quod me benigne tam benigno viro commendare
+dignatus es, teque rogo, ut illi gratias agas pro prestita in me
+humanitate; ego vero me utrique vestrum devinctissimum
+profiteor. Deus optimus maximus te diu conservet ecclesiae suae
+utilem ministrum! Saluta, queso, meo nomined. Ioannem Iacobum
+Wikium, hospitem meum humanissimum.
+^$Vale.
+^$Raptim 12. augusti.
+^$Tuus in Christo Thomas Sampson.
+<lz>[Adresse ...]: Doctissimo virod. Heinricho Bullingero
+dentur hae. Tyguri.
+</content>
+</letter>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1676">
+<nr>1676</nr>
+<correspondents>
+	<originator>Benedikt Euander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Kempten</place>
+	<date>13. Oktober [1542]</date>
+	<note>Kurz vor Euanders Rückberufung nach Zürich (vgl. auch unten Nr. 1708).</note>
+</space_time>
+<vo>Autograph<fx>^#/+Durch Feuchtigkeit vor allem am rechten Rand stark beschädigt.^#/-<fe>: Zürich StA, E II 356, 43 (ohne Siegel)<fx>^#/+Die ursprünglich wohl vorhandene Siegelspur ist nicht mehr erkennbar.^#/-<fe></vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 21; (undat. Brief 366)</vo>
+<dr>Ungedruckt</dr>
+<re>Antwortet auf die verspätet eingegangene Anfrage, wie er sich zu einer Berufung an eine Zürcher Schule stellen würde;
+hofft seit neun Jahren auf seine Rückberufung, die ihm bei seinem durch Armut erzwungenen Abgang und später durch Briefe
+Heinrich Utingers mehrfach zugesichert wurde; seine alte Verbundenheit mit Zürich hat es ihm schwer gemacht, außerhalb
+der Eidgenossenschaft zu leben, doch für eine Rückkehr müsste eine ihm angemessene Stelle zur Verfügung stehen, und außerdem hat er eine vierteljährige Kündigungsfrist einzuhalten. Grüße.
+</re>
+<tx>Accepi litteras<f1>Nicht erhalten (vgl. auch oben Nr. 1671, 26).<fe> tuas, humanissime vir, at serius fortassis, quam tu speraveris, et certe serius,
+quam ego velim. Et quod certior fieri cupis, quae futura sit sententia mea, si quando a vobis vocer ad capessendum apud vos
+munus scholicum, paucis et prompte dicam me iam novem perpetuos annos magno desiderio expectavisse, quando tandem a vobis, a
+quibus olim egestate compulsus discesseram,<f1>Bevor Euander 1534 nach Isny gezogen war, hatte er ab 1531 als Provisor an der
+Großmünsterschule unterrichtet; s. HBBW III, S. 154, Anm. 1.<fe> revocer; id
+quod mihi abeunti magno foenore futurum, quamprimum se occasio offerat, publico instrumento collegii vestri (imo nostri quoque)
+sygillo obsignato pollicitum et confirmatum est, quin et haec spes binis aut ternisd. Heinerici Utingeri, vi[ri]<fx-t>^#/+Randtext beschädigt.^#/-<fe> sine
+honoris titulo non no­minandi, litteris familiariter ostensa est.<f1>Weder die erwähnte Urkunde noch die entsprechenden
+Briefe Heinrich Utingers scheinen erhalten zu sein.<fe> Quare, sincerissime vir ac studiosorum singularis patrone, scias
+me non detrectaturum, si mihi a vobis offeratur conditio
+paulo tollerabilis. Nam quamvis mihi hactenus hic nihil
+defuerit, nec quod attinet ad vitae splendorem nec ad
+victus rationem, tamen diu­tina illa consuetudo et labores
+(quae quidem animos hominum non minus sociant quam<fx>^#/+Nach^#/- quam ^#/+gestrichenes^#/- consang.<fe>
+consanguinitas) domi militiaeque exantlati me ita vestrum
+fecerunt, ut[?]<fx-x>^#/+Randtext beschädigt.^#/-<fe> ab eo tempore extra Helvetiam vivere non dulce
+fuerit. Ve­rum ut sublime ac supra ingenii mei modulum nihil
+nec ambio nec subibo, ita ad sordidam aliquam aut non
+litteratam functionem vocari depręcatum esse cupio; at de
+eo tu (quod scio) melius[?] s[tatues?]<fx>^#/+Randtext beschädigt, ergänzt nach der Abschrift Johann Jakob Simlers (Zürich ZB, Ms
+S 52, 21).^#/-<fe>, quam quod necesse sit scribere. Illud etiam admonuisse volo, me ex pacto hinc non posse discedere, nisi
+integram angariam<f1>Vierteljahr (Quatember).<fe>, ut vocant, ante dominos meos meae abitionis praescios faciam et munus
+abdicem, quo et ipsis spacium sit prospiciendi de alio idoneo ludimagistro.
+^$Vale cum tua universa familia. Salutabis meo nomine Pellicanum, Megan­drum, Theodorum<f1>Theodor Bibliander.<fe> ac
+omnes collegii vestri viros, meos dominos et Moe­cenates<f1>Mäzene (vgl. Peter L. ^#/+Schmidt,^#/- in: KP III
+860-862).<fe> omnes, vehementer salvos esse cupio.<f1>Die Gliederung des Satzes bleibt unklar (in der Vorlage ein einziges Komma nach "Mocenates omnes"). Eventuell ist nach "vehementer" zu ergänzen: eos.<fe> Vale iterum.
+^$Cambidoni, 13. die octobris a[nno 1542]<fx>^#/+Randtext beschädigt.^#/-<fe>.
+<un>Benedictus Euander tu[us].<fx>^#/+Die ausgeschnittene, am Rand beschädigte Unterschr.ift ist am Briefrand aufgeklebt.^#/-<fe>
+<lz>[Adresse auf der Rückseite]: Domino Magistro Heinricho<fx>Heinricho ^#/+über gestrichenem^#/- Bullingero.<fe>
+Bullingero, viro modis omnibus ornatissimo, episcopo Tigurino
+primario, domino ac fratri suo colendissimo.
+</content>
+</letter>

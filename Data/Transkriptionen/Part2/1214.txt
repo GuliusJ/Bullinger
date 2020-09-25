@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1214">
+<nr>1214</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>17. Januar 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 54 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Wird aufgrund von Bullingers Brief mit Jakob [Zorn] sprechen und hofft, daß dieser [in Alterswilen] bleiben kann.
+Erkundigt sich bei Capito nach dessen Reiseplänen und ist überzeugt, daß [die Konkordie] am besten durch Stillhalten
+gefördert wird; was Bucers Reise nach Hessen und Wittenberg erbracht hat, wird sich nach seiner Rückkehr zeigen.
+Freut sich, von der positiven Entwicklung in Zürich zu hören; die göttlichen Warnzeichen sind nicht neu, werden aber selten
+ernst genommen. Graf [Wilhelm] von Fürstenberg kam nur deshalb nach Konstanz, weil er mit seinem Bruder [Friedrich] in der Nähe war.
+</re>
+<tx>Salus et pax Christi.
+^$Cum Iacobo<f1>Jakob Zorn; vgl. oben Nr. 1212, 2-10, und unten Nr. 1247.<fe> conferam ex<fx>^#/+vor ^#/-ex ^#/+gestrichenes ^#/-l.<fe> tuis literis<f1>Nicht erhalten.<fe>,
+ubi ad me redierit. Ego optarem illum diutius hęrere posse, cum rarissimi sint, qui digne substituantur, et periculosum sit,
+si vacent ecclesiae.
+^$Capitoni hodie mitto literas<f1>Nicht erhalten.<fe>, in quibus peto, ut me profectionis suae faciat, quantum licet,
+certiorem<f1>Zum Gerücht, Capito werde nach Bern reisen, s. oben Nr. 1212, 11 mit Anm. 2.<fe>; acceptum ergo responsum tibi
+quoque communicabo. Alioqui res nunc bene habent, et semper putavi silentio commodissime posse mederi controversiis. Bucerus
+iam diu abfuit in Hassia et etiamnum aiunt esse Wittenbergae<f1>Vgl. HBBW VIII, S. 269, 6-10.<fe>; illius reditus quid sit daturus, audiemus postea.
+^$Ach, quam exhilarat me, quod scribis quotidie apud vos
+proficere pietatem et bonas literas! Dominus hunc profectum
+magis ac magis firmet. Quę nobis dominus minatur, non
+sunt nova; nunquam non aliquo portento multis iam annis
+monuit nos, sed fides rara est.
+^$Co[mes] a Furstenberg nihil apud nos aliud egit, nisi quod
+urbem invisit<f1>Über den Besuch Wilhelms von Fürstenberg in Konstanz berichtet auch Ambrosius Blarer, s. Blarer BW II 14.<fe>; fuit enim in vicino cum fratre<f1>Graf Friedrich von Fürstenberg-Heiligenberg.<fe> suo etc.
+^$Vale, nec desinas me amare et orare pro me. Familiam totam cupio bene habere.
+^$17. ianuarii 1539.
+<un>Tuus Io. Zwick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, Tigurinę ec­clesiae ornamento, fratri observando.
+</content>
+</letter>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2778">
+<brief>
+<id>17046</id>
+<nr>2778</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-01-29"/>
+<ae>Ambrosius Blarer an [Bullinger]
+<fn>Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn></ae>
+<od>[Konstanz], 29. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 357, 218f (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 579f, Nr. 1402 <k>Kopie 18. Jh.. Zürich ZB, Ms S 63, 60 </k></dr>
+<re><t>Der Briefüberbringer, Blarers Vetter Konrad Zwick, ist vom Konstanzer Rat an den Rat von Zürich entsandt. Den Grund dafür wird Bullinger von Zwick selbst erfahren. Er möge sich dessen im öffentlichen Interesse gut annehmen.</t>
+<t>Augsburg hat sich Kaiser Karl V. unterworfen. Allerdings kennt Blarer die Friedensbedingungen noch nicht. Gestern trafen von Georg Frölich einige auch an Bullinger gerichtete Schreiben ein, die Blarer Zwick ebenfalls anvertraut. Gottes Zorn offenbart sich im kläglichen Versagen aller [Protestanten]. Mit Ausnahme von Straßburg und Konstanz haben sich nun alle Städte ergeben, und vermutlich wird Konstanz diesem Beispiel leider auch bald folgen. Blarer kennt nämlich die Gesinnung der Konstanzer nur zu gut! Die Mehrheit ist nicht imstande, auf Gott zu vertrauen, wenn keine menschliche Hilfe in Aussicht steht.</t>
+<t>Daher sollen sich die Zürcher in Wort und Tat für den Erhalt der friedlichen, gutnachbarschaftlichen Beziehungen zwischen Konstanz und Zürich einsetzen, mit Zwick alles vertraulich besprechen und Gottes Beistand erbitten. Blarer wird seinerseits sein Bestes dazu tun. Viel besser ist es, mit Gott Frieden zu haben und in der Welt im Unfrieden zu leben, als einen weltlichen vorübergehenden Frieden zu genießen, dabei aber in Gottes Ungnade zu stehen. Blarer weiß jedoch, wie schwach die Menschen, ja sogar Gottes Kinder sind.</t>
+<t>Bestimmt hat Bullinger den Eid, den die Gesandten der Städte [Biberach, Isny, Kempten, Memmingen und Ravensburg] dem Kaiser geschworen haben, beim Zürcher Rat zu sehen bekommen. Was meint er denn dazu? Kann man irgendwie solch einen Eid für akzeptabel und entschuldbar halten, zumal er einen Treuebruch gegenüber Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen bedeutet? So etwas kann man wohl nicht verantworten!</t>
+<t>Ebenso wenig begreift Blarer, wieso die [vier protestantischen Städte] sich den anderen Eidgenossen gegenüber verpflichtet fühlen und sich dadurch zu gottlosen Handlungen hinreißen lassen und weder den Konstanzern noch den anderen [deutschen Protestanten] zu Hilfe kommen! Nun denn! Bullinger versteht ja Blarer.</t>
+<t>Möge der Herr seinen Kindern die Kraft verleihen, seinen Willen auszuführen, damit sie sich nicht gegenseitig ins Verderben stürzen! Bullinger soll für Gottes Kirche beten.</t>
+<t>Segenswunsch und Gruß, besonders an die Ratsherren. Gruß von Thomas Blarer.</t></re>
+<text>
+<div>
+<p><zzl>zl17046-1A</zzl>Furgeliepter herr und br{uo}der, hiemitt hapt ir den frommen, christelichen, theuren gottesmann, meinen allerliebsten vetter
+<fn>Konrad Zwick. - Er kam mit dem vorliegenden Brief am 29. Januar 1547 nach Zürich (s. auch <a>EA</a> IV/1d 764; <a>Maurer, Übergang</a> 25, wo das falsche Datum vom 27. Januar zu korrigieren ist), vergaß aber dann, den Brief zu übermitteln; s. unten <qv>fn17046-1</qv>. Spätestens am 1. Februar befand er sich wieder in Konstanz, da das von ihm am 1. Februar verfasste Schreiben im Namen des Konstanzer Rats an die vier protestantischen Städte (s. dazu <qv>nr2767</qv>, <qv>fn17035-2</qv>) als Abfassungsort Konstanz anführt.<zfn>fn17046-3</zfn></fn>, der von meinen herren
+<fn>d.h. vom Konstanzer Rat.</fn> an die eweren
+<fn>die Ratsherren von Zürich.</fn> abgefertiget ist uß ursachen, wie ir vernemmen werdt. Den bevilch ich euch zum besten, das ir ime fruntlich und christelich z{uo}sprecht, nitt von seiner person, aber gmainer sachen wegen, die er als gantz getrulich und hertzlich g{uo}t maint.<zzl>zl17046-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17046-3A</zzl>Augspurg hat sich auch dem kaiser
+<fn>Karl V.</fn> undergeben;
+<fn>Siehe dazu <qv>nr2769</qv>, <qv>fn17037-3</qv>.</fn> mitt was conditionen, mag ich noch nitt wissen.<zzl>zl17046-3E</zzl> <zzl>zl17046-2A</zzl>L{e}tus
+<fn>Georg Frölich.</fn> hat mir auff gestert dise schriben z{uo}geschickt, welch ouch an euch stond
+<fn>adressiert sind. - Der Brief Frölichs an Blarer findet sich nicht in <a>Blarer BW</a>. - Auch Frölichs Brief an Bullinger ist nicht erhalten. Zwick vergaß, diesen zu übermitteln, sodass Blarer ihn erneut am 1. Februar abschicken musste; s. <qv>nr2790</qv>,<qv>zl17057-4</qv>.<zfn>fn17046-2</zfn></fn>.<zzl>zl17046-2E</zzl> <zzl>zl17046-4A</zzl>Wie ain grosse strauff ists doch und wie grosser zorn
+<fn>Gottes.</fn> ist es, das yederman alls
+<fn>so.</fn> verzagtlich jemerlich handelt. Diewyl nun alle stett hindurch
+<fn>hinüber (zum Kaiser).</fn> und nieman mehr dann
+<fn>außer.</fn> Strasburg und Costentz uberig sind, sorg ich billich, das wir, nach unser statt gelegenhait und nachdem ich die leut laider zum mehrtail, wie sy gesynnet, erkenn, werdend
+<fa><i>In der Vorlage befindet sich vor</i> werdend <i>ein unnötiges</i> wir.</fa> ouch hinunder und dem hufen nachfaren
+<fn>dem hufen nachfaren: der Menge folgen.</fn>, nammlich, diewyl wir aller menschlicher mittel, durch die unß verhoffelich
+<fn>voraussichtlich.</fn> möcht geholffen werden, gantz und gar entsetzt
+<fn>aller mittel entsetzt: um jede Hilfe gebracht (sind).</fn>, und aber die leut (ich red von dem gr{oe}ssern hauffen) nitt dermassen gesynnet und auff gott gelassen sind
+<fn>gelassen sind: vertrauen.</fn>, das sy alles on mittel uff inn wagen wellen und seiner wunderwerck erwarten.
+<fn>Vgl. <qv>nr2762</qv>,<qv>zl17030-28</qv>.</fn><zzl>zl17046-4E</zzl></p>
+</div>
+<div>
+<p>Derhalb wellt den sachen zum besten nachgedencken und thain
+<fn>tun.</fn>, wie ir m{oe}gt, damitt ir und wir lenger möchten im fryden bliben und g{uo}t nachpaurn sein, wie ich euch dann on allen zwyfel genaigt waiß. Conferieren mitt meinem vetter vertrauwlich von allen sachen und bitten den herren von gantzem hertzen, das er die hertzen (so er doch in seinen henden hat) bewegen und erregen welle z{uo} s{oe}lichen ratschlegen und f{ue}rnemender mittel, durch die unß m{oe}ge liberung
+<fn>Erleichterung; Befreiung.</fn> widerfaren. Ich wellte (dem herren seye ewig lob) mynen tails gern alles daran setzen und vyl lieber mitt gottes hylff und bystand tausend t{oe}d lyden, so es m{oe}glich, dann etwas wider gott und die liebe
+<fn>Die Nächstenliebe, die die Konstanzer mit den noch übrig gebliebenen Verbündeten des Schmalkaldischen Bundes und mit den eidgenössischen protestantischen Nachbarn verbindet.</fn> nachgeben und bewilligen; dann ye
+<fn>dann ye: denn viel.</fn> besser mitt gottes friden, in der wellt unfrid und aller anderer ding gefarlichait stehn, dann in gottes ungnad der wellt falschen, nichtigen und augenplicklichen
+<fn>vorübergehenden.</fn> friden haben. <zzl>zl17046-5A</zzl>Aber, ach gott, ich <vl>219</vl> waiß das ungl{oe}big hertz der b{oe}sen und grosse schwachait deren, so ich danecht
+<fn>dennoch.</fn> gloub, das sy gottes kinder seyen. Derhalben ich gern wellt furderlich sein z{uo} allem demjhenigen, damitt wir nitt schand und spott wider gott und den nechsten inlegen
+<fn>davontragen.</fn> m{ue}ssen, etc.<zzl>zl17046-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17046-6A</zzl>Ir habt den aid, so die gesandten der steddt
+<fn>Gemeint sind Biberach, Isny, Kempten, Memmingen und Ravensburg.</fn> dem kaiser schweren m{ue}ssen, wol gesechen by ewern herren.
+<fn>Siehe dazu <qv>nr2775</qv>,<qv>zl17042-8</qv>.</fn> Bitt ich euch um gottes willen, schreibt mir mitt drey worten ewer iudicium, ob er doch in aliqua interpretatione m{oe}g vertedingt<fn>verteidigt.</fn> und entschuldiget werden, sonderlich, das man verschweren
+<fn>abschwören.</fn> m{uo}ß alle erz{oe}gung
+<fn>Bekundung.</fn> br{ue}derlicher lieb und trüw gegen Sachsen
+<fn>Johann Friedrich I. von Sachsen.</fn> und Hessen
+<fn>Landgraf Philipp von Hessen.</fn>. Ich kans in meinem hertzen und urtail kainswegs finden, das es verantwurtlich seye. Will ettlicher anderer puncten geschwigen, die in der red der stett und dann im aid ouch begriffen sind.<zzl>zl17046-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17046-7A</zzl>Allso
+<fn>Desgleichen.</fn> kan ich ouch kainswegs finden
+<fn>begreifen.</fn>, wie ir euch gegen ewern andern Aidgnossen
+<fn>Mit den Neun Orten.</fn> mitt gott begeben
+<fn>einlassen; verpflichten.</fn> können, das ir euch weder unser noch anderer wellind in unseren nöten annemmen, damitt wir z{uo} ung{oe}ttlichen dingen nitt getrungen werden. Nun wolan! Ir merckt
+<fn>begreift.</fn> und verstand mich wol.<zzl>zl17046-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17046-8A</zzl>Der herr gott well yederman z{uo} thain geben
+<fn>z{uo} thain geben: anleiten zu tun.</fn> seinen wolgefelligen willen, damitt sich nitt dermassen ainer an dem andern verschuld, das wir all den gottes zorn und sein grausam straff lyden, und mittainander (das er gnedigklich verh{ue}ten welle) verderben m{ue}ssind! Bittend und bettend, so best ir m{oe}gend f{ue}r die kirchen gottes, das sy seliklich erbauwen und nitt dermass zerst{oe}rt werden.<zzl>zl17046-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17046-9A</zzl>Gott mitt euch und ewerm haus. Grutzt all g{uo}t herren und freund, sonderlich administros tuos
+<fn>d.h. die Ratsherren von Zürich.</fn> in domino. Myn lieber br{uo}der
+<fn>Thomas Blarer.</fn> empeut
+<fn>entbietet.</fn> euch sein dienst und alles g{uo}ts.<zzl>zl17046-9E</zzl> Datum in grosser yl, den 29. ianuarii 1547.</p>
+<un>A. B.</un>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Zwick vergaß, vorliegenden Brief auszuhändigen. Daraufhin sandte ihn Blarer erneut an Bullinger, und zwar vermutlich zusammen mit seinem Brief <qv>nr2782</qv> vom 31. Januar und seinem Zettelchen <qv>nr2784</qv> vom 1. Februar; s. <qv>nr2782</qv>, <qv>fn17050-2</qv>; <qv>nr2784</qv>,<qv>zl17052-1</qv>; <qv>nr2790</qv>,<qv>zl17057-4</qv>.<zfn>fn17046-1</zfn></fn></p>
+</div>
+</text>
+</brief>

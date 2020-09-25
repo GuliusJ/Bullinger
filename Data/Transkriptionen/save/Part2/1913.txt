@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1913">
+<nr>1913</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee fn=1>[Bullinger]</addressee>
+	<note fn=1>Der Brief reiht sich in die Korrespondenz zwischen Blarer und Bullinger dieser Zeit ein, auch der Aufbewahrungsort spricht für Bullinger als Empfänger.</note>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>Mitte Mai 1544]</date>
+	<note>Das in diesem Brief erwähnte Schreiben der Eidgenossen an die Reichsstände (oben Nr. 1890, Anm. 25) traf am 4. Mai in Speyer ein (RTA JR XV/2 700) und wurde vor dem 10. Mai verlesen (PC III 503).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 660 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 54, 142^&x{
+<re>Vom [Reichstag zu] Speyer gibt es keine guten Nachrichten, man versucht, die Städte zu versklaven, die dies auch mit sich geschehen lassen. Vom Reichstag wird das Eintreffen des Schreibens der Eidgenossen gemeldet, das teils positiv aufgenommen, teils belacht wurde. Religionsfragen werden ausgelassen. Momentan wird über Friede und Recht verhandelt.</re>
+<dra>[Gedruckt: Blarer BW II 260, Nr. 1089.]</dra>
+^&xVon Spyr<f1>Gemeint ist der Reichstag zu Speyer.<fe> schreibt man unß gar nichts guͦts. Die stett
+gedenckt man gar in servitut zebringen, darzuͦ sy dann
+inen selbs gantz getreulich helffend.
+^$Zwen guͦt menner, so ouch der gesandten seind von den
+stetten, ainer von Memmingen<f1>Wohl Christoph Zwick; s. RTA JR XV/4 2285.<fe>, der ander von Augßpurg<f1>Augsburger Gesandte: Claudius Pius Peutinger, Marx Pfister, Sebastian Seitz.<fe>,
+schreibend<f1>Nicht erhalten.<fe>, ainer: "Die aidgnossen habend ain guͦt
+schreiben geschickt den stenden, das nitt von kindern
+gemacht, dann das es vom schreiber nitt gantz formlich
+zuͦsamengefügt seye, daran aber die verstendigen kain
+mangel, ettlich ander aber gelacht haben." Er sorge aber
+ubel, es sölte dem gelechter werde wainen nachfolgen. Der
+ander schreibt also: "Die Schweytzer haben fürwar den
+stenden ain schreiben her gesandt, in dem ich vyl mehr
+verstands befind, dann derhalb allhie gehandelt worden. Wir
+haben unß wider Franckreich seinen halb unverhort zuͦ
+fynden erklert, welchs doch wider alle pillichait und<fx>und ^#/+verbessert aus ^#/-?.<fe> recht
+ist, welchs ouch by mir dahin bedacht, das unß im reych
+aller bystand, den wir zuͦ guͦtem haben möchten,
+abgestellt werde. Der religion wirt nitt gedacht, und gleych
+wie man mitt gott handelt, also ist er by unß hie im
+reychsrath. Frid und recht ist yetz in handlung; kan man
+nitt gnuͦg spytzen, das man inn dermassen geben, damitt
+man widerum ain loch darin prechen möge, so es die
+glegenhait gybt." Hęc ille mitt vyl worten.
+<lz>[Ohne Unterschr.ift und Adresse.]^&x{
+</content>
+</letter>

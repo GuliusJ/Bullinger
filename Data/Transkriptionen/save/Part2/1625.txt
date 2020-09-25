@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1625">
+<nr>1625</nr>
+<correspondents>
+	<originator fn=1>Johannes Arlius Spaldinus</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Die Unterschr.ift des Briefschreibers, eines Studenten der Medizin (vgl. unten Z. 39), ist nicht ganz zweifelsfrei zu entziffern, der Name (oder die Herkunftsbezeichnung?) könnte auch als Spalding oder Paldinus gelesen werden. Die Bemerkung über fehlenden Kontakt mit
+Reisenden aus Schottland (unten Z. 36-38, vgl. auch Anm. 3) lässt vermuten, dass es sich um einen Schotten handelt. Zu denken ist eventuell an den 1525/26-1535 an der Artistenfakultät in St. Andrews nachweisbaren Johannes Spalding, s. Acta facultatis artium universitatis Sanctiandree 1413-1588,
+hg. v. Annie I. Dunlop, Edinburgh-London 1964, S. 350-375 passim.</note>
+</correspondents>
+<space_time>
+	<place>Bologna</place>
+	<date>27. April 1542</date>
+</space_time>
+^&xNicht bei Knod (dort nur deutsche Stud.!), nicht in Matr. Oxford u. Cambridge, Brit. Biogr. Index; Pellikan, Chronikon.^&x{
+<vo>Autograph: Zürich StA, E II 361, 121 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 90</vo>
+<dr>Ungedruckt</dr>
+<re>Die Nachricht von Grynäus' Tod hat ihn in Sorge um die Gesundheit der Zürcher Gelehrten versetzt, da er ihre
+nachbarschaftliche Fürsorge selbst erlebt hat, als er bei Pellikan war, und sich der damit verbundenen Gefahren bewusst
+ist; auch die Kirche nimmt Schaden, wenn sie die Verkündiger von Gottes Wort verliert. An seinem jetzigen Aufenthaltsort
+herrscht [geistliche] Dürre, wenn auch weniger als in Frankreich und in seiner Heimat; auch kann hier mehr ungestraft
+gesagt werden als dort. [Jacopo] Sadoleto hat zwei Bücher "De aedificatione ecclesiae" geschrieben und arbeitet an einem
+dritten; Kardinallegat [Gasparo Contarini] soll erneut nach Deutschland reisen; was sonst geredet wird, ist zu wenig
+gesichert, um mitgeteilt zu werden. Ist mit seinen Lebensverhältnissen knapp zufrieden, hat aber noch keinen Brief
+aus der Heimat erhalten und hatte keinen Kontakt mit den schottischen Messebesuchern - weshalb, verschweigt er aus
+Kummer. Hat dieses Jahr Medizin studiert, einerseits wegen seiner schwachen Gesundheit, andererseits auf Rat des gelehrten
+Schweizers Jakob Lemonius, der ihn sehr unterstützt und ihm einen Bürgersohn als Schüler vermittelt hat. Grüße.
+</re>
+<tx>Nimium iam diu est, vir ornatissime, quod de tuo tuaeque
+sodalitatis mihi charissimae statu nihil audierim. Amor est
+semper timidus; postquam enim intellexeram insignem virum
+tibi ceterisque, qui isthic sunt, eruditis omnibus
+coniunctissimum Symonem Grynaeum e vita excessisse,<f1>Grynäus war am 1. August 1541 gestorben, s. HBBW XI, S. 290, Anm.
+b.<fe> dii boni, quam sum veritus, ne alii etiam praeclari viri contagione illa impura e medio simul auferrentur<fx>^#/+Vielleicht als ^#/-aufierentur^#/+ o. ä. zu lesen, was jedoch keinen Sinn ergibt.^#/-<fe>. Quae cura
+animum meum eo magis anxerat, quo propius auram illam pestilentem se intra vestra loca propter vicinitatem penetrare
+audieram. Novi charitatem vestram, novi amiciciam, scio animos vestros non magis in vestris quam in vicinorum omnium corporibus
+insitos esse et collocatos. Quae res non mihi ex hominum voculis, sed ex certissima constat scientia. Nunquam enim, dum
+vivo, mihi excedere patiar<fx>patiar ^#/+am Rande nachgetragen.^#/-<fe> humanitatis memoriam, quam humanissimus vird. Pellicanus, quum apud illum agerem,<f1>Über diesen Aufenthalt ist nichts Näheres bekannt. Zur Durchreise von Medizinstudenten
+auf dem Weg nach Italien im Sommer 1541 vgl. das Empfehlungsschreiben von Grynäus, HBBW XI, Nr. 1552. Bereits am
+19. Februar desselben Jahres hatte Johannes Zwick Pellikan den Brief eines Schotten ("literas [...] a Scoto nostro") übersandt,
+der ihm (Zwick) lieb sei und den er nach Italien senden wolle (s. Zürich ZB, Ms F 47, 49). In beiden Fällen bleibt unsicher,
+ob vom Schreiber des vorliegenden Briefes die Rede ist.<fe> in viciniam extreme laborantem declaravit. Interior illa et vera
+amicitia pericula non videt. Quod ubi fit, necesse est fieri, ut
+morbi etiam fiant communes. Haec res, ut dixi, me valde
+solicitum, uti habere debuit, habuit, non tam propter
+amorem meum, qui erga vos vestro singulari in me benefitio
+maximus esse debet et est, quam propter reipublicae
+christianaeque ecclesię utilitatem. Etenim tum graviter
+laborat ecclesia, cum sacrorum oratorum, qui verbum enim
+dei profitentur et docent, facit iacturam; messis enim
+multa, operarii pauci.<f1>Mt 9, 37; Lk 10, 2.<fe> Quorum penuria quo vestra natio minus quam aliorum laboret, eo magis felix magisque aeterno deo et patri curae esse videtur.
+^$Hic magna laboratur siti propter loci, ut opinor, siccitatem.<f1>Grund für die verhüllende Ausdrucksweise in
+diesem Briefabsatz ist wohl die Unsicherheit des Briefverkehrs.<fe> Generosiora atque nativa vina corrumpuntur infusa ex puteis
+aqua. At iam minus late patet hoc vicium quam olim et minus hic quam apud Gallos et nos. Adde illud, quod his in locis fit et
+dicitur impune et recte, nobiscum si fieret aut audiretur,
+extremas lueret penas.<fx>^#/+Es folgt gestrichenes^#/- Sed redeo ad haec loca.<fe>
+^$Sadoletus duos libros De edificatione ecclesię confecit et iam versatur in elucubrando tertio.<f1>Das erste Buch des
+Traktats "De christiana ecclesia", der auch unter dem Titel "De aedificatione ecclesiae" bekannt ist, hatte Sadolet bereits 1539
+fertiggestellt. Das zweite Buch ist verschollen; ob ein drittes überhaupt geschrieben wurde, ist unbekannt. Siehe Spicilegium
+Romanum, hg. v. Angelo Mai, Bd. II, Rom 1839, S. 101-178.<fe> Rumor est cardinalem Tarentinum<f1>Gemeint ist: Contarenus
+(Gasparo Contarini).<fe>, qui modo hic Bononiae legatum gerit, in Germaniam reversurum.<f1>Contarini - im Vorjahr päpstlicher Gesandter am Reichstag zu Regensburg - war seit März
+Kardinallegat in Bologna, wo er am 24. August dieses Jahres starb; s. Klaus ^#/+Ganzer,^#/- in: TRE VIII 204f.<fe> Audiuntur
+et alia multa, utinam vera, quae quia in coniectatione posita sunt, nolui literis committere, praeterea etiam, quod haecipsa melius cautiusque ab aliis ad te deferri putem.
+^$Ignosce, obsecro, imperitię<fx>^#/+In der Vorlage^#/- iperitię.<fe> meę simul et amori, cui
+cum obsequor, non tam, quid aut cui scribo, quam quid debiti
+mei sit, soleo cogitare. De meis rebus ea est earum conditio
+et status, quo possum esse contentus, minore nullo pacto
+possum. Ex patria ne litera quidem adhuc. Ex Scotia autem plerique hac transeunt ad nundinas, ex quibus tamen a me
+conventus est nullus. Id quam ob rem, scribere dolore prohibeor.<f1>Als Grund für dieses Vermeiden von Kontakt ist die religiöse Dissidenz des Briefschreibers zu vermuten.<fe>
+^$Hunc annum in medicinę studio consumpsi, vel quod
+impulerit valetudo, qua sum plerumque infirma, vel quod
+consuluerit vir in utraque lingua<f1>Gemeint ist hier wohl Latein und Griechisch.<fe> ac<fx>^#/+Vielleicht als^#/- at ^#/+oder^#/- et ^#/+zu lesen.^#/-<fe> in hac ipsa facultate
+magna cum laude versatus mihique imprimis charus doctor
+Iacobus Lemonius, natione<fx>natione ^#/+über der Zeile nachgetragen.^#/-<fe> Helvetius, cuius ego non solum
+consilio et amicitia, sed etiam opera, studio, re familiari
+et copiis in difficillimis meis temporibus largiter sum
+usus. Et ne alia mittam, adolescentem<f1>Unbekannt.<fe> hic civem mihi in humanitate erudiendum curavit. Quam rem<fx>Quam rem ^#/+korrigiert aus^#/- Quod.<fe> ego apud te libenter commemoro, quod eius in me benefitia tibi etiam grata fore intelligam.
+^$Vale, mi dulcissime et desideratissime B[ullingere]. Iterum ac sepius vale cum uxore<f1>Anna, geb. Adlischwyler.<fe> charissima et liberis<f1>Von Bullingers Kindern lebten zu diesem
+Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich (1534), Hans Rudolf (1536), Christoph (1537) und Diethelm (1541); vgl. ^#/+Pestalozzi^#/- 314.<fe>.
+Adolescentibus, quorum familiaritate et lepidissimis moribus
+domi tuę valde delectabar, optime esse cupio. D.
+Theodorum Bibliandrum etd. Pellicanum, summae humanitatis
+summaeque e­­ru­ditionis viros<fx>^#/+Dazu eine unlesbare (radierte?) Randbemerkung.^#/-<fe>, meo nomine salvere iubeas, volo.
+Toti denique isti doctorum hominum collegio cum fratre<f1>Johannes Bullinger.<fe> tuo, humanissimo viro, rectissime esse volo et precor.
+^$Bononiae, quinto calendas maii 1542.
+<un>Johannes Arlius Spaldinus s[ubscri]p[s]it.
+<lz>[Adresse auf f. 121a v.:] Pręstantissimo
+virod. Henrico Bullingero, Tigurensis ecclesiae pastori
+vigilantissimo, domino suo perpetuo observando. Tiguri.
+</content>
+</letter>

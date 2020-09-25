@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1949">
+<nr>1949</nr>
+<correspondents>
+	<originator>Celio Secondo Curione</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lausanne</place>
+	<date>29. Juli 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 87 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 55, 103; Basel UB, G^#'2 I 28a, 137v.-139r., Nr. 3^&x{
+<dr>Gedruckt: Caelii Secundi Curionis selectarum epistolarum libri duo ..., Basel, Johannes Oporin, 1553, S. 36-38; Giuseppe Paladino, Opuscoli e lettere di riformatori italiani del cinquecento, Bd. II, Bari 1927, S. 240f</dr>
+^&x[ohne Jahrzahl; IRG, Hd I 1743:1-2]; Zit.: Corr. des réformateurs IX 270, Anm. 2; Erw: F. Meyer, Locarno I 161; Kutter, Curione 296, Nr. 14^&x{
+<re>Erhielt Bullingers [nicht erhaltenen] Brief durch Girolamo Mariano, der Bullingers brüderliche Liebe und Hilfsbereitschaft lobte; diese ist auch Curione bekannt, und sie wird von den Bischöfen gefordert, wie ja auch bei Paulus nachzulesen ist - Bullinger erweist sich hierdurch als
+wahrer Bischof; Girolamo [Mariano] war [in Lausanne] für kein Amt geeignet und will nach Graubünden weiterreisen. Bullingers Bibelgeschenk kam nicht ohne verständliche Ursache so spät an, wie ihm auch der von Bullinger beauftragte [Eberhard von Rümlang] schrieb; den Aufschub verstand Curione nie
+falsch, sondern teilte Bullinger das Geschehen mit, um das lange Ausbleiben seines Dankes zu entschuldigen. Eine Ermahnung wie die aus Bullingers letztem Brief zu Tapferkeit und Verkündigung würde sich Curione öfter wünschen, denn einerseits ist er mitunter träge, andererseits schrecken ihn
+menschliche Bestien, die schlimmer als die Türken sind; vertraut auf Gottes baldige Hilfe. Dies Wenige, da er gerade seinen Diener Timotheus, den er aus Italien mitbrachte und den Bullinger schon einmal sah, als Boten benutzen kann; er befindet sich auf dem Weg nach Italien, und Bullinger kann ihm
+[Briefe dorthin] mitgeben. Grüße. [Pierre] Viret und Béat Comte erwidern Bullingers Gruß.
+</re>
+<tx>S[alutem] p[lurimam] d[ico] per Christum Iesum.
+^$Ab Hieronymo Mariano<f1>Girolamo Mariano, Guardian eines Minoritenklosters bei Mailand (s. oben Nr. 1924), floh 1544, kam zum Landvogt von Mendrisio, Hieronymus Fricker, der ihn zu Pellikan weiterschickte (s. das Empfehlungsschreiben von Fricker an Pellikan vom 25. Mai 1544, Zürich ZB, Ms F
+47, 88), wo sich Mariano anschließend (im Oktober?) aufhielt (s. ^#/+Pellikan,^#/- Chronikon 167f). Mariano wird erwähnt bei Mark ^#/+Taplin,^#/- The Italian Reformers and the Zurich Church, c. 1540-1620, 2003, S. 28f. 71, ist jedoch entgegen Taplins Vermutung nicht identisch mit dem 1542 erwähnten
+Hieronymus von Neapel; außerdem erwähnt bei Salvatore ^#/+Caponetto,^#/- La riforma protestante nell'Italia del Cinquecento, Torino 1992, S. 75.<fe> Italo superioribus diebus tuas
+suavissimas literas<f1>Nicht erhalten; vermutlich war es die Antwort auf Curiones Brief vom 6. Mai 1544 (oben Nr. 1908).<fe> accepi. Is mihi tuam erga se charitatem
+narravit predicavitque, quod quidem mihi novum non fuit, qui
+toties a te humanissime acceptus et dimissus fuerim. Novi
+ego Bullingeri pietatem singularem et animum ad sublevandos
+miseros et evangelii caussa afflictatos flagrantissimum. Hoc
+demum est episcopum agere: et eruditione quadam eximia
+christianaque eloquentia mentes regere populorum, et
+calamitosorum pręsertim bonorum inopiam hospitalitate
+levare. Quae duo sanctissime Paulus in episcopo requirit
+suo, cum et ad docendum aptum et hospitalem illum esse dicit
+oportere.<f1>Vgl. 1Tim 3, 2; Tit 1, 6-9.<fe> Hosce tu numeros et alios omnes implesti. Quare
+tu, tu inquam, tu optime frater, tuique similes, non qui
+tiaris et mitris quibusdam<fx>quibusdam ^#/+über der Zeile nachgetragen.^#/-<fe> venditant sese, et estis
+episcopi et iure potestis appellari. Sed ut ad Hieronymum
+redeam, ego illum, quandiu voluit, nutrivi; verum bonus vir
+et pudens, ubi agnovit se ad nullam apud nos functionem
+idoneum esse, ad Rhetos proficisci voluit sperans se illic
+aliquo pacto utilem fore. Equidem hominis consilium,
+pręsertim non malum, impedire nolui.
+^$Quod sero nobis Biblia<f1>Siehe hierzu oben Nr. 1908 mit Anm. 1.<fe>, tuum, Bullingere amantissime, munus
+sanctissimum pariter et preciosissimum, reddita<fx>^#/+In der Vorlage^#/- redita.<fe> fuerint,
+non sine iusta caussa factum fuisse scio; nam et is<f1>Eberhard von Rümlang; s. oben Nr. 1841 mit Anm. 69; 1864 mit Anm. 3.<fe>, cui
+mandaras negotium, literas<f1>Nicht erhalten.<fe> ad me dedit humanissimas
+pietatisque<fx>^#/+Vor^#/- pietatisque ^#/+gestrichenes^#/- et.<fe> plenissimas, neque ipse unquam moram sinistre
+fueram interpretatus; tantum<fx>^#/+In der Vorlage^#/- tamtum.<fe> te certiorem<fx>^#/+Vor^#/- certiorem ^#/+ein gestrichener Buchstabe.^#/-<fe> facere visum
+fuit, quid esset actum in ea re, ne sillentio tantum munus
+tanto intervallo missum velle pręterire videremur, pro
+quo immortales tibi agere gratias deberemus.
+^$Tua autem illa hortatiuncula, qua me in extremis literis
+tuis ad fortiter ferenda adversa gloriamque domini et
+ecclesiam propagandam adhortaris, ea me vehementer incendit,
+et cuperem sępius tali voce excitari; nam cum
+sępenumero langueo, tum etiam monstra quaedam me hominum
+terrent, qui, cum homines appellentur et christiano nomine
+censeantur, belluas tamen et Turcas ipsos crudelitate
+at impietate vincunt; nam nihil quam humanum cruorem et
+reipublicae christianae veraeque ecclesię ruinam sitire
+molirique videntur. Scis, quid dicam. Sed tamen confido brevi
+dominum nostrum, regem illum regum,<f1>Vgl. Apk 17, 14.<fe> supplicia et quidem
+atrocia de omni immanitate impietateque sumpturum.
+^$His paucis tecum agere volui propterea, quod nuncium ex
+animi sententia nactus sum. Is est meus famulus Timotheus<f1>Nichts Näheres ermittelt.<fe>,
+quem mecum ex Italia duxi, quem tu vidisti; in<fx>^#/+Vor^#/- in ^#/+gestrichenes^#/- it.<fe> Italiam
+proficiscitur, ut videat patrem. Siquid illi mandare
+vellis, diligenter curabitur.
+^$Vale per Iesum Christum et uxorem liberosque<f1>Bullingers Ehefrau Anna, geb. Adlischwyler, und deren Kinder; s. oben Nr. 1838, Anm. 19.<fe>
+tuos
+dulcissimos meo et uxoris<f1>Margarita Bianca Isacchi; s. ^#/+Kutter,^#/- Curione 15.<fe> meae nomine saluta; digneris
+quoque fratres istos optimos salutare.
+^$Lausannę, 29. iulii 1544.
+<un>Tuus Cęlius Secundus Curio.
+<lz>D.<fx-t>^#/+Von^#/- D. ^#/+bis^#/- salutant ^#/+am Rande nachgetragen.^#/-<fe> Viretus etd. Comes<f1>Béat Comte.<fe> te vicissim salutant.<fx-x>^#/+Von^#/- D. ^#/+bis^#/- salutant ^#/+am Rande nachgetragen.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe>
+<lz>[Adresse auf der Rückseite:] D. Henrico
+Bullingero, viro optimo, episcopo Tigurino sanctissimo ac
+vigilantissimo fratrique observandissimo. Tiguri.
+</content>
+</letter>

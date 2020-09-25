@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2665">
+<brief>
+<id>16354</id>
+<nr>2665</nr> <from persid="MedmannPeter"/> <to persid="Bullinger"/> <place plid="Giengen an der Brenz"/> <date when="1546-11-08"/>
+<ae>Peter Medmann an Bullinger</ae>
+<od>Im Feldlager bei [Giengen], 8. November 1546</od>
+<vo>Autograph: Zürich StA, E II 338, 1429 (Siegelspur)</vo>
+<dr>Druck: <a>Pollet, Relations</a> II 170f, Nr. 47<k>Kopien 18., 19., 20. Jh.: Zürich ZB, Ms S 62, 71; Straßburg BNU, Ms 682 (Thes. Baum. 23), 338; Emden BGK, Hs. fol. 37, Nr. 73 </k></dr>
+<re><t>Vor fünf Monaten hat Medmann Bullingers Brief [nicht erhalten] mit dem ihm beigelegten Buchgeschenk
+<fn>Vielleicht die "Cosmographia" von Johannes Honter (vgl. <a>HBBW</a> XVII 87 und Anm. 37) oder auch die Schrift "De sacramentis" (s. dazu <a>HBBW</a> XVI 100, Anm. 29), die Bullinger damals in Abschrift immer wieder an verschiedene Personen versandte; s. <a>HBBW</a> XVI und XVII Reg. - Zu Honters "Cosmographia" s. nun: Johannes Honterus. Rudimenta cosmographica, Grundzüge der Weltbeschreibung, Corona/Kronstadt 1542. Ins Deutsche, Rumänische und Ungarische übersetzte und kommentierte Faksimile-Ausgabe, hg. und bearb. v. Robert Offner, Harald Roth, Thomas Sindilariu, Ulrich Andreas Wien, Bonn 2015.<zfn>fn16354-1</zfn></fn> empfangen. Derzeit kann er sich dafür nur bedanken, wird sich aber revanchieren, sollte er bei seinen Kölnern irgendwann [ein Buch] entdecken, von dem er annehmen kann, dass die Zürcher es noch nicht besitzen. Er bedankt sich auch für Bullingers Gewogenheit und hofft mit Gottes Gnaden, sich dieser Freundschaft würdig zu erweisen.</t>
+<t>Medmann entschuldigt sich ferner, Bullingers ausführlichen und wohlwollenden Brief nur mit dem vorliegenden kleinen Schreiben zu beantworten. Sollte er wieder heil in die Heimat [Köln] zurückkehren, wird er ausführlich schreiben und über die Ereignisse und seine Erlebnisse informieren. Er reitet nämlich schon seit etwa vier Monaten umher und ist vorgestern ins Lager gelangt. Möge das berühmte [helvetische] Volk begreifen, was der habgierige Österreicher Karl [V.] mit diesem Krieg bezweckt! Medmann fürchtet, dass viele dies zu spät verstehen könnten ...</t>
+<t>Herzog Moritz von Sachsen hat gegen allen Verträge und gegen seine Verpflichtung Deutschland gegenüber dem Kurfürsten [Johann Friedrich von Sachsen] völlig unerwartet den Krieg erklärt, und noch dazu in dieser schlimmen Zeit!</t>
+<t>Grüße an alle Kollegen. Medmann hätte schon längst geantwortet, wenn er sich an den Inhalt von Bullingers Brief hätte erinnern können. In Eile, aus dem Feldlager.
+<fn>Der Brief wurde wohl einem der Schreiben Heinrich Thomanns an den Zürcher Rat (aufbewahrt in Zürich StA, A 177) beigelegt.</fn></t></re> <textweg>
+<div>
+<p>S. D. Ante quinque menses de te accepi epistolam longam simul cum libro muneri misso, pro quo tibi gratias ago hoc tempore ac promitto me quandoque paria facturum, si quando aliquid apud meos Ubios
+<fn>Kölner.</fn> invenero, quod forte ad vos non ita perferatur. Agnosco vero tuam erga me benevolentiam, quam adeo copiose tua in epistola mihi offers, atque per dei gratiam ita me gessero in nostra sancte instituta amicicia, ut in necessitudinem coalescat duretque, quamdiu omnipotens pater nos hic esse volet.</p>
+</div>
+<div>
+<p>Debes mihi pro tua humanitate condonare, quod tandem istas notulas ad tuam plenam et humanissimam epistolam rescribam. Si deus, ut quidem spero, me patriae restituerit, ego et copiose tibi respondero et scripsero de aliis, quae vel acciderunt vel accidere me praesente poterunt. Iam enim in quartum mensem obequito et nudius tertius in castra nostrorum perveni. Utinam vestra inclyta natio intelligere vellet, quid Carolus Austriacus hians suo bello quaerat, quod metuo multos sero intellecturos, mi Bullingere, si, quod deus clementissime avertat, Carolus victoria potiretur.</p>
+</div>
+<div>
+<p>Mauritius, Saxoniae dux, praeter pacta, praeter omnium expectacionem praeterque Germanicam fidem electori
+<fn>Johann Friedrich I. von Sachsen.</fn> bellum denunciavit et tempore isto calamitosissimo!</p>
+</div>
+<div>
+<p>Bene ac foeliciter vale, ornatissime vir, meque, ut coepisti, amare perge. 8. novembris 1546.</p>
+<p>Omnibus vestrae ecclesiae ministris commender. Ego iam tibi respondissem, maxime cum certum haberem, sed meminisse non poteram eorum, quae in tua sunt. Ex castris. Raptim.</p>
+<un>Tuus totus Petrus Medmannus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Henrico Bullingero, suo singulari et observando. Zurich.</p>
+</div> </textweg>
+</brief>

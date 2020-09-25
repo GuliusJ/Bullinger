@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1391">
+<nr>1391</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Rudolf Gwalther</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>11. Mai 1540</date>
+</space_time>
+<vo>Autograph<fx>Mit Randbemerkung und Anstreichungen von J. H. Hottinger.<fe>: Zürich ZB, Ms F 37, 489 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 27<fn>erw.: ^#/+Köhler,^#/- Hessen und die Schweiz 468, Nr. 7.</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Die Anweisung der Schulverordneten wurde Gwalther von [Johann Jakob] Ammann mitgeteilt, und ausschließlich durch ihn
+soll er auch seine Anliegen an diese Behörde vorbringen. Bullinger erwartet baldigen Bericht über die Verhältnisse in
+Marburg, da eventuell auch Wolf, Wick und [Haller] dorthin geschickt werden sollen; konnte an Geldenhauer wegen der Synode
+nur kurz schreiben und fordert Gwalther auf, ihn zur Beantwortung seines Briefs zu drängen.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Quid a te fieri velint scholarchae<f1>Zu den Schulverordneten vgl. oben Nr. 1374, Anm. 1.<fe>, indicavit literis
+Ammianus<f1>Der Brief des Schulherrn Johann Jakob Ammann, durch den Gwalther angewiesen wurde, zur Fortsetzung seines Studiums
+nach Marburg zu ziehen, ist nicht erhalten.<fe>. Huic tu scribes, quicquid rerum tuarum velis agi coram scholarchis.
+Interea non prohibeo, quo minus mihi etiam, quae velis, scribas; sed istum porro habebis apud istos patronum. Ego patris curam
+non abiiciam, modo tu respondeas meae expectationi.
+^$A Marpurgo celeriter studiorum et ecclesiae rationem et
+statum significabis: Qualis sit religio, an religio nostra
+traducatur publice, qui professores sint et quae studia,
+quis sumptus faciendus. Quod si videbitur, mittemus
+Marpurgum Wolphium, Wickium etc.<f1>Gemeint sind Johannes Wolf, Hans Jakob Wick und Johannes Haller, die zu diesem Zeitpunkt noch in Tübingen studierten.<fe> Praeterea inhortaberis
+Noviomagum<f1>Gerhard Geldenhauer.<fe>, ad illa mihi capita respondeat<f1>Bullinger hatte sich in einem nicht mehr
+vorhandenen Brief nach der Marburger Schule erkundigt; vgl. Geldenhauers Antwort vom 30. Juni (unten Nr. 1407).<fe>. Non licuit illi copiosius scribere. Hisce enim diebus celebramus synodum<f1>Die Frühjahrssynode des
+Jahres 1540 fand am 11. Mai statt, s. Zürich StA, E II 1, 239.<fe>. Itaque factum est, ut illi brevem tantum tui
+commendationem scripserim<f1>Auch dieses zweite Schreiben ist verloren.<fe>. Agito ergo apud illum optima fide, quae tibi mando, et vide, pius sis, sedulus et probus.
+^$Vale, mi fili. Salvum te vult familia.
+^$11. maii 1540.
+<un>H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Rodolpho Gvalthero Basileae
+in aedibusd. Myconii agenti, filio.
+</content>
+</letter>

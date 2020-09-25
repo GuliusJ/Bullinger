@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="512">
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Tübingen</place>
+	<date>14. Januar [1535]+1</date>
+</space_time>
+<record>Autograph+a: Zürich ZB, Ms F 62, 250 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Drängt Bullinger zu verstärkten Bemühungen um eine Übereinkunft der
+(*schweizerischen*) Kirchen (*in der Abendmahlsfrage*), nachdem er
+von der Uneinigkeit zwischen Zürich und Bern vernommen hat.
+</statue>
+<content>
+S. Obsecro, ut in hoc concordiae negotium, non dico cum Luthero, quod
+longius fortasse abest adhuc, sed nostrum vere aliquanto
+incumbas. Quid enim audio! Bernates non satis convenire. Ah deum
+immortalem, quam prebemus adversariis nos! Scribis praeclare de
+morbis ecclesiae hodie, sed non aeque incumbimus ad tollendum morbos.
+:gr.Gnwsin ecomen apanteV:egr.+2
+sed vide, quomodo foede interea
+secti! Nusquam convenimus, nemo se alter alteri vere summittit, ut vera animis conspiratio sit.
+Non tu Bernam ipse adis, non istic
+tantisper es, dum plane res conficiatur. Si vere amamus nos invicem et veritatem, aspirabit dominus nec adversabitur conatus
+nostros. Obsecro te, incumbe, ut pax, què impetrari in omni ecclesia non potest, in nostra saltem constet, ne habeant adversarii
+perpetuo, quod merito reprehendant. Volo, si qua est mea apud+b
+authoritas, ut in hoc vere incumbas.
+<p>Vale+c.</p>
+<p>Tub[ingae*), 14. ianuarii.</p>
+<signature>
+Grynaeus tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinricho Bullingero, suo
+amico. Tiguri.
+</address>
+</content>
+<note>
+.us; +a >Mit Randbemerkungen von J. H. Hottinger.
+<print>
++b>zu ergänzen:  te.
++c>Vale
+übergeschrieben.
+</print>
+<address>
++1>Die Jahreszahl ergibt sich aus dem Absendeort Tübingen, wo
+sich Grynäus im Winter 1534/35 aufhielt. Anlass des Briefs ist
+die Weigerung Berns, das Zürcher Abendmahlsbekenntnis vom Dezember 1534
+(HBBW IV, Nr. 482) zu unterzeichnen, s. unten Z. 2f.
++2>Vgl. 1Kor 8, 1.
+</address>
+</note>
+</letter>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2504">
+<brief>
+<id>16150</id>
+<nr>2504</nr>
+<ae>Matthias Erb an Bullinger</ae>
+<od>Reichenweier, 16. [Juli]
+<fn>Der Brieftext trägt die Angabe "Juni". Da Erb aber mit vorliegendem Schreiben einen Brief Gwalthers verdankt, in dem sich starke Argumente für eine Widerlegung von Veit Dietrich befanden, da ferner Erb um diese in einem Brief vom 22. Mai 1546 gebeten hatte (<a>HBBW</a> XVI, Nr. 2450) und die Antwort auf dieses Schreiben unmöglich bereits am 26. Mai in Reichenweier eingetroffen sein kann, stimmt im vorliegenden Brief die in Z. <qv>zl16150-1</qv> angeführte Zeitangabe, währenddem das Datum des Briefes falsch ist und wohl als "16. Juli" zu deuten sein wird.</fn> 1546</od>
+<vo>Autograph: Zürich StA, E II 361, 157 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopien 18. und 19. Jh.: Zürich ZB, Ms S 60, 151 (korrigiert 16. Juni in 26. Juni oder 16. Juli); danach: Straßburg BNU, Ms 676 (Thes. Baum. 17), 100 (16. oder 26. Juni) </k></dr>
+<re>Erb dankt für [Rudolf] Gwalthers Brief, den er durch einen Bürger [...] aus Colmar empfing, der ihn wiederum von Leonhard Hospinian erhalten hatte. Die darin aufgeführten und der Heiligen Schrift entsprechenden Argumente werden ihm Gelegenheit geben, den in Nürnberg tätigen Veit Dietrich zu widerlegen. Dieser hat in Reichenweier einige Anhänger.
+<t/>Bullinger wird wohl wissen, dass man in Deutschland gegeneinander rüstet. Herzog Ulrich von Württemberg soll 12'000 Reiter in eiserner Rüstung haben und weiterhin Fußsoldaten ausheben. Die [Grafschaft Reichenweier] hat ihm eine Truppeneinheit gestellt. In Straßburg wird ebenfalls angeworben. Von dort aus werden Truppen an Landgraf [Philipp] von Hessen und an Reichsstädte geschickt. Alle sind guten Mutes.
+<t/>Erb muss aufhören, weil der Bote [...] drängt.</re>
+<text>
+<p>Gratia domini tecum. <zzl>zl16150-1A</zzl>Litteras Gvaltheri accepi 26. iunii<zzl>zl16150-1E</zzl> a quodam cive Colmariense
+<fn>Unbekannt.</fn>, cui reddit{e} fuerant a Leonhardo Hospiniano
+<fn>Leonhard Hospinian (Wirth) sah sich damals nach einer Stelle um; s. <a>AK</a> XI/2 1052f.</fn>. Ago vobis utrisque ingentes gratias, inprimis vero tibi, humanissime pariter et doctissime Bullingere, qui tot ecclesiarum negotiis obrutus pararis mihi responsum per dilectum fratrem nostrum Rodolphum
+<fn>Rudolf Gwalther, dessen Schreiben an Erb vom 12. Juni 1546 datiert (Original: Basel UB, Ms. Ki. Ar. 25c, Nr. 18; eigenhändige Abschrift: Zürich StA, E II 346, 177f - wir danken Herrn Kurt Jakob Rüetschi für diesen Hinweis). - Erb hatte Bullinger und Gwalther um ein Argumentationsgerüst gebeten, um Veit Dietrichs Abendmahlsauffassung widerlegen zu können; s. <a>HBBW</a> XVI 413.<zfn>fn16150-1</zfn></fn>. Ut enim omnia argumenta sunt solida et firma et sacr{e} scriptur{e} consona, ita mihi ansam prebebunt et respondendi et cogitandi contra technas et fucos Viti Nurenbergensis
+<fn>Veit Dietrich. - Wenn es je zu einer Antwort Erbs gekommen ist, wird diese wohl in Form eines Briefes und nicht als Druck gegeben worden sein.</fn>, qui apud nos plures habet discipulos. Oper{e} pretium fuerit talium pervicatiam refellere, etc. De quo, dum vacat, alias forte plura.</p>
+<p>Qui sit omnium rerum status in Germania, non est, ut pluribus scribam. Ipse enim plura et maiora, ni fallor, audis, quam scribere possum. Summa: Concurritur undique, armatur fere civis in civem, ita ut fore putem propediem id, quod Christus dixit, inimicos hominis esse domesticos eius, etc.
+<fn>Mt 10, 36.</fn> Dux Wutenbergensis
+<fn>Wohl ironisch.</fn> Ulrichus duodecim millia cataphractorum equitum habet, ni menciantur illi, qui ista adeo sancte adfirmant, gregarius miles adhuc concurrit.
+<fn>Vgl. vor allem <a>PC</a> IV/1 196, Nr. 171 (vom 1. Juli).</fn> Nos illi nuper cohortem sive vexillum, inquiunt, misimus. Argentorati omnes, qui militare volunt, stipendia habent in promptu. Quidam mittuntur principi Cattorum
+<fn>Philipp von Hessen.</fn>, reliqui urbibus imperii.
+<fn>Siehe dazu z.B. <a>PC</a> IV/1 142, Nr. 109; 154, Nr. 125; 163f, Nr. 136f; 175, Nr. 148; 193f, Nr. 169; 224f, Nr. 198; und Johann Wenckers handschriftliche Chronik (1637) in: Fragments des anciennes chroniques d'Alsace, Bd. 3: Les chroniques strasbourgeoises, hg. v. Léon Dacheux, Straßburg 1892, S. 160, Nr. 3065.</fn> Nemo est ex omnibus, qui vel metuat vel animum despondeat, etc. Oramus proinde diligenter deum, ut suam causam tueatur. Monemus reliquos, ut resipiscant.</p>
+<p>Cogor contrahere manum
+<fn>sich zurückhalten, aufhören; vgl. Dtn 15, 7; 1Sam 14, 19.</fn>. Nuntius
+<fn>Unbekannt.</fn> enim humeros pressit
+<fn>Hier wohl im Sinne von: Druck ausüben.</fn>. Richevill{e}, 16. iunii 1546.</p>
+<un>Matthias Erbius.
+<fa><i>Aus Platzmangel am unteren linken Rande des Briefes vermerkt.</i></fa></un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Viro docto iuxtaque pio d. Henricho Bullingero, ecclesiastae Tigurino diligentissimo, fratri semper observando. Zürich an Hanrich Bullinger.</p>
+</text>
+</brief>

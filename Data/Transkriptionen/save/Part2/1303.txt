@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1303">
+<nr>1303</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Travers</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>28. August 1539</date>
+</space_time>
+<vo>Abschrift von Petrus Dominicus Rosius a Porta<fx>^#/+Autograph verschollen; vgl. oben Nr. 1228, Anm. a.^#/-<fe>: Chur StA, A Sp III/11a, VI. B. 7. 4, S. 333</vo>
+<re>Bittet Travers, das ihm gewidmete Buch ["Orthodoxa et erudita D. Ioachimi Vadiani ... epistola"] in Freundschaft anzunehmen, und bekräftigt seine Bereitschaft, ihn und andere vorzügliche Männer zu unterstützen; ermuntert sie, ihr Handeln tatkräftig auf Gott zu richten, welcher die Seinen gegen
+ihre Feinde beschützen wird. Wünscht sich für die Eidgenossenschaft so fromme und aufrichtige politische Führer, wie der Überbringer, der Churer [Alt-] Bürgermeister [Luzi Heim], einer ist.</re>
+<tx>[Gedruckt: Petrus Dominicus Rosius ^#/+a Porta,^#/- Historia Reformationis Ec­clesiarum Raeticarum, Tomus I/1, Chur 1771, S. 194, Anm. m; Graubünden, Korr. I 17, Nr. 15.]
+</content>
+</letter>

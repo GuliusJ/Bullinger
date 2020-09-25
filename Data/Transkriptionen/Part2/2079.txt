@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2079">
+<nr>2079</nr>
+<correspondents>
+	<originator>Adam Bartholomäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Neuburg an der Donau</place>
+	<date>1. Februar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 147 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 150^&x{
+<re>Am [25. Januar] erhielt Bartholomäus in Neuburg durch [Wolfgang] Musculus aus Donauwörth Bullingers ["Brevis <gr>ănti­bolh́</gr>"]. In Donauwörth ist Musculus recht erfolgreich bei der Einführung der Reformation; am 1. Januar entschied man sich [dort] für das Psalmensingen auf Deutsch nach Augsburger Vorbild; auch werden die Bilder und die Vielzahl der Altäre abgeschafft.
+-^#. Das zweite, für [Johannes] Cochläus bestimmte Exemplar der ["Brevis <gr>ănti­bolh́</gr>"] hat Bartholomäus sogleich durch einen eigenen Boten [...] der [gräflichen] Kanzlei zu Cochläus nach Eichstätt übermitteln lassen. Bartholomäus wird Bullinger in Kürze ein weiteres Buch ["De sanctorum invocatione ... liber unus"] von Cochläus zusenden, das noch verworrener ist als [Cochläus' "Kurtze Replica" bzw. "Replica brevis"], die Bullinger jetzt [mit der "Brevis <gr>ănti­bolh́</gr>"] widerlegt hat.
+-^#. Bartholomäus kann sich nicht genug über Luther und sein ["Kurtz bekentnis"] wundern, zumal auch dieser zugesteht, dass der Leib und das Blut nicht in den Symbolen des Abendmahls enthalten sind. Melanchthon hat in den "Loci [communes]" die Lehre von der Transsubstantiation zurückgewiesen. Im Grunde besteht fast gar kein Unterschied zu den Lehren der eidgenössischen Kirchen, und Bartholomäus bleibt bei seiner bisherigen Einstellung [den Eidgenossen gegenüber].
+-^#. Die [hiesigen] Papisten jubeln über das Konzil, das [am 15. März] eröffnet werden soll; noch mehr werden sie sich über den Kampf zwischen Sachsen und Eidgenossen freuen. Bartholomäus schmerzt diese neu aufgeflammte Auseinandersetzung.
+-^#. Grüße an [Konrad] Pellikan, [Theodor] Bibliander, [Rudolf] Gwalther und die Übrigen.</re>
+<tx>Salus maxima.
+^$Conversionis sancti Pauli<f1>25. Januar.<fe>, vir tum doctissime tum pientissime, ante paucos dies
+per Musculum Augustanum, amicissimum meum, munera illa chartacea<f1>Siehe unten Anm. 5.<fe> mihi gratissima certe sunt
+ex Werdea<f1>Donauwörth.<fe>, oppidulo imperiali, Neoburgum<f1>Neuburg an der Donau (Bayern).<fe> usque perlata.<f1>Bullinger hatte drei Exemplare seiner Schrift "Brevis <gr>ănti­bolh́</gr>" (mit einem nicht erhaltenen Brief) an Wolfgang Musculus gesandt, welcher zwei davon an Bartholomäus weiterleitete. Ein Exemplar war für Bartholomäus selbst bestimmt (s. HBBW XIV 519, Anm. 1), das andere sollte Bartholomäus an Cochläus weiterschicken, was zwar auch geschah, wie Bartholomäus hier schreibt (s. unten Z. 13-16), jedoch offenbar nicht sofort, denn Cochläus schickte einen eigenen Boten nach Zürich (s. oben Nr. 2078 und Anm. 3) und veranlasste Bullinger zu einem Brief (oben Nr. 2078), dem dieser ein weiteres Exemplar der "Brevis <gr>ănti­bolh́</gr>" beilegte.<fe>
+Nam istic nunc Guolphgangus Musculus evertendo papatu et rursus erigendo vero
+dei cultu iuxta verbi pręscriptum est occupatissimus.<f1>Musculus wirkte vom 27. Dezember 1544 bis zum 24. März 1545 in Donauwörth; s. oben Nr. 2065, Anm. 28.<fe> Hucusque satis foeliciter
+in saxea antea Werdensium corda semen verbi dei ceu in agrum bonum seminatum est<f1>Vgl. Mt 13, 8; Adagia, 1, 4, 54 (ASD II/1 450, Nr. 354).<fe>.
+Nam prima die ianuarii cantilenis papisticis in notas relatis valedixerunt, et ad
+formam ecclesiae Augustensis cęperunt lingua omnibus nota psalmodiam, et, ut audio,
+periclitantur imagines, altarium multitudines;<f1>Siehe hierzu die Briefe von Musculus an Georg Herwart vom 10. Februar und 18. März 1545, an Hans Welser und Jakob Herbrot vom 21. März 1545 und an Jakob Herwart und Simprecht Hoser vom 15. Januar 1545; s. James Thomas ^#/+Ford,^#/- Unter dem Schein der concordien und confession: Wolfgang Musculus and the Confessional Identity of Augsburg, 1531-1548, in: Wolfgang Musculus und die oberdeutsche Reformation, hg. v. Rudolf Dellsperger, Rudolf Freudenberger und Wolfgang Weber, Berlin 1997. - Colloquia Augustana 6, S. 124 und Anm. 57f.<fe> contra ista enim omni panoplia<f1>griech. <gr>panoplía</gr>: die volle Rüstung der Schwerbewaffneten; hier metaphorisch: die geistliche Rüstung; vgl. Eph 6, 11. 13.<fe>
+instructus certare nititur. Dominus sit a dexteris eius.
+^$Porro exemplare<f1>Zu diesem Wort s. unten Anm. 12.<fe> alterum<f1>Das zweite Exemplar von Bullingers "Brevis <gr>ănti­bolh́</gr>", das für Cochläus bestimmt war.<fe>, ut sic veteri more dicam,<f1>Anspielung auf das von ^#/+Lukrez,^#/- De rerum natura, 2, 124, gebrauchte Substantiv exemplare, -ris, n.<fe>
+sive exemplar Cochlęo inscriptum,
+statim per certum et proprium nuncium<f1>Unbekannt. Dieser wird von Cochläus in seinem gegen Bullingers "Brevis <gr>ănti­bolh́</gr>" gerichteten "Epilog" (s. oben Nr. 2078, Anm. 4) als "ignotus quisdam" (aaO, f. K1v.) bezeichnet.<fe> ex principis<f1>Pfalzgraf Ottheinrich.<fe> cancellaria Archytae<f1>Gemeint ist Cochläus; s. HBBW XIV 429 und Anm. 9.<fe>
+crepitando<f1>Archytae crepitando: Siehe Adagia 2, 7, 44 (ASD II/4 114-116).<fe>, ut tu pridem Cochlęum vocabas, perferri in Aichsteten curavi.
+Superest, ut in brevi rursus ad te mittam aliam, longe intricatiorem Repplicam<f1>Cochläus' "De sanctorum invocatione ... liber unus". Von dieser Schrift hatte Bullinger kurz zuvor erneut ein Exemplar erhalten; s. oben Nr. 2078 und Anm. 1, und unten Nr. 2095, 62-66.<fe>,
+quam ea est, quam nunc doctissime quidem confutaveris<f1>Bezug auf Johannes ^#/+Cochläus,^#/- Ein kurtze Replica, Ingolstadt, Alexander Weißenhorn, 1544, bzw. dessen Replica brevis, Ingolstadt, Alexander Weißenhorn, 1544, die Bullinger von Bartholomäus mit einem Brief vom 30. September 1544 erhalten hatte (s. HBBW XIV 429f und Anm. 12), sowie auf Bullingers Gegenschrift "Brevis <gr>ănti­bolh́</gr>", die im Dezember 1544 erschienen war (s. HBBW XIV 460, Anm. 23. 588, Anm. 2).<fe>; paroemia enim "<gr>trygónow lalísterow</gr>"<f1>D.h. "turture loquacior"; s. Adagia, 1, 5, 30 (ASD II/1 504, Nr. 430).<fe> in Cochlęo solo proprium habet locum.
+^$De Luthero, ut verum fatear, satis mirari nequeo, quid sibi in mentem venerit,
+quod haec ipsa<f1>Die in Luthers "Kurtz bekentnis" (oben Nr. 2061, Anm. 7) enthaltenen Aussagen.<fe>, pręsertim hoc tempore, tali rerum statu, hisce etiam hominibus,
+in vulgus spargere animum inducit, maxime cum et ille fatetur non contineri corpus et sanguinem
+in coenę symbolis ut vinum in cantharo seu, ut crassius ipse ait, ceu stramen in sacco<f1>Vgl. ^#/+Luther,^#/- Kurtz bekentnis ... (WA LIV 153, 10-16): "Und der Zwingel hatte ein lange ungereimpt Geschwetz mit mir, de locali inclusione, das im brot nicht sein kuͤndte der leib Christi, wie im raum oder gefesse, gerade, als lereten wir, das Christus leib im brot were, wie stro im sacke, oder wein im fass. Demnach jr etliche entschuͤldigeten sich, sie hettens nicht anders verstanden, wir und die Papisten lereten also, das Christus leib were im Sacrament Localiter, wie stro im sacke. O das war eine faule, kalte, lame entschuͤldigung!"<fe>.
+Melanchton in suis Locis satis docte et breviter receptum hactenus dogma de
+transsubstantiatione in ordinem redegit.<f1>Vgl. Philipp ^#/+Melanchthon,^#/- Loci communes, MO XXI 301-303; 476-485; 861-876.<fe> Quodsi Helveticarum ecclesiarum
+dogmata
+cum huius componuntur, non video, quomodo ista inter sese pugnent.
+Non igitur est, ut de me aliter, quam hucusque solitus fuisti, speres.
+^$Concilio suo oecumenico iam Letare<f1>15. März 1545. Das Konzil war für diesen Tag ausgeschrieben, wurde aber erst am 13. Dezember 1545 eröffnet; s. oben Nr. 2071, Anm. 24.<fe> celebrando insultant nobis nostri papistę;
+maius erit illorum gaudium, cum videbunt certantes mutuis scriptis Saxones et Helvetios.
+Doleo itaque supra modum sopitas controversias, praesertim nunc,
+quum maxime referebat concordes esse, <gr>ănazvpyréesuai</gr><f1><gr>ănazvpyréesuai</gr> = <gr>ănazvpyreĩsuai</gr>, wieder entflammt werden.<fe>.
+^$Saluta plurimum doctissimos atque integerrimos viros <gr>synergoýw</gr><fx>^#/+In der Vorlage^#/- <gr>synérgoyw</gr>.<fe><f1>die Mitarbeiter.<fe>, Pellicanum,
+Bibliandrum, Gvaltherum et reliquos, etc. Vale plurimum.
+^$Neoburgi Danubii, anno etc. 45., die februarii prima.
+<un>Adam Bartholomaeus, ministe-­
+<un>r verbi, tuus in domino cooperari-­
+<un>us et frater.
+<lz>[Adresse auf der Rückseite:] Doctissimo et pientissimo viro domino Heynricho Bullingero, apud Tigurinos verbi divini contionatori primario, domino et amico meo colendissimo.
+</content>
+</letter>

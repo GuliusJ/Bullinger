@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2345">
+<brief>
+<id>16035</id>
+<nr>2345</nr>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 4. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 145 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 62.</k> <k>=====Hinweis: Bucer an ?[Myconius/nicht: Bullinger], 4. Februar "1546" [recte: 1547], "Dominus vos confortet ... Vides, ut ..."; Autograph: E II 358, 159; Kopie: Ms S 63, 80. Vgl. zum Jahr und zur Zuschreibung: Myconius an Vadian, 9. und 10. Februar 1547 (Ms F 81, 401, und Vadian BW VI 597, Nr. 1517); zum Jahr auch: Bucer an A. Blarer, 4. Feb. 1547 (Blarer BW II 586f). ===== </k></dr>
+<re>Bullinger ist Gott dafür dankbar, dass er die Pfalz durch sein Evangelium erleuchtet hat. Mögen die [Evangelischen] sich dem Herrn gegenüber nicht weiterhin undankbar erweisen, damit dessen Wohltat ihnen zum Segen dient. Wenn sich doch die Frommen nur nicht allzusehr auf die Stärke ihres [Schmalkaldischen] Bundes verließen! Denn es könnte ihnen ähnlich ergehen wie den [eidgenössischen Protestanten im Kappeler Krieg], die plötzlich besiegt wurden.
+<t/>Manche sagen, dass der französische [König Franz I.] und der englische [König Heinrich VIII.] immer wieder versuchen, in den [Schmalkaldischen Bund] aufgenommen zu werden oder zumindest eine Freundschaft mit den Verbündeten anstreben. Doch ob dies wahr ist, kann Bullinger nicht beurteilen. Er kennt nämlich die listigen Ränke der Fürsten und weiß, dass [Franz I.] einst einen Bund [mit den protestantischen eidgenössischen Orten] plante. Seitdem aber hat [Franz I.] sich für Kain und nicht für Abel entschieden. Die Frommen dürfen sich nicht mit irgendwelchen Verbündeten belasten, damit sie nicht daran zugrunde gehen, denn Kaiser [Karl V.] schläft nicht. Er hat überall seine Informanten, sogar unter den engsten Verbündeten [der Protestanten].
+<t/>Myconius soll über den in seinem vorigen Brief [<qv>nr2341</qv>] angesprochenen Kriegsplan [zwischen Franz I. und dem Kaiser] berichten.
+<t/>[Johannes] Gast wird sich gerne um die Übermittlung von [Myconius'] Briefen nach Zürich kümmern.
+<t/>In [Zürich] geht es allen gut. Grüße von [Konrad] Pellikan, [Theodor] Bibliander, [Rudolf] Gwalther, [Heinrich] Buchter und den Übrigen.</re>
+<text>
+<p>Gratiam et pacem. Gratias ago domino nostro Iesu Christo, qui totum Palatinatum lumine evangelii sui illustravit Germaniamque beneficiis obruere non cessat.
+<fn>Siehe Myconius' Brief vom 31. Januar 1546 (<qv>nr2341</qv>).</fn> Cedent haec nobis ad salutem, si beneficiis dei recte usi fuerimus; cedent rursus ad interitum idque nostra culpa, si ingrati esse perrexerimus. Utinam vero non nimium innitantur in robur foederis
+<fn>Der Schmalkaldische Bund.</fn> sui fideles iisque eveniat, quod nobis usu venit, ut unica hora a pauculis iisque pessimis nebulonibus superati prorsus dissipentur.
+<fn>Anspielung auf die eidgenössischen Protestanten im Zweiten Kappeler Krieg.</fn> Video ego foedera huiusmodi non fuisse fausta perpetuo.</p>
+<p>Dominus gratiam suam illis et nobis aspiret. Aiunt nonnulli Gallum
+<fn>König Franz I.</fn> et Anglum
+<fn>König Heinrich VIII.</fn> ambire fere foedus illud evangelicum aut saltem amicitiam cum conf{e}deratis exposcere. Quod an verum sit an falsum, non facile divinarim. Novi principum artes et simulationes. Scio Gallum aliquando petivisse civitatem christianam;
+<fn>Anspielung auf die früheren Annäherungsversuche Franz' I. an die protestantischen eidgenössischen Orte bzw. Städte; s. Walther <i>Köhler,</i> Zu Zwinglis französischen Bündnisplänen, in: <a>Zwa</a> 4/10, 1925, 302-311. - Wir danken Herrn Rainer Henrich, uns auf diesen Aufsatz aufmerksam gemacht zu haben.</fn> tempore enim felici multos numeramus amicos
+<fn>Vgl. <a>TPMA</a> IV 11, Nr. 104f.</fn>. Ubi vero dominus igni nos probavit,
+<fn>Vgl. 1Kor 3, 13; 1Petr 1, 7.</fn> declaravit Gallus interea sibi magis Cainicae urbis
+<fn>Vgl. Gen 4, 17. - Die Stadt, die Kain bauen ließ, benannte er nach seinem Sohn Henoch.</fn> quam Abelicae
+<fn>Zu Abels Gottgefälligkeit s. Gen 4, 4.</fn> municipium
+<fn>Hier im Sinne von Bürgerschaft; s. <a>Kirsch</a> 1831. - Vgl. <i>Augustin,</i> De civitate dei, 15, 1, 5-9.</fn> placere.
+<fn>Zu verstehen ist, dass Franz I. lieber wie Kain Anhänger eines von Gott nicht gewollten Gottesdienstes (bzw. der Papstkirche) bleiben wollte, als sich wie Abel Gottes Willen zu unterwerfen.</fn> Caveant ergo pii, ne onerent se sociis qualibuscunque et tandem sua mole ruant. Non stertit aut dormit caesar
+<fn>Karl V.</fn>. Habet ille latas aures et longe videntes oculos, nam habet ubique fautores suos. Habemus item plures, quam ipsi putemus, hostes, etiam inter coniunctissimos.</p>
+<p>Rem vero longe gratissimam faceres, si in tempore moneres de bello, cuius mentionem fecisti in postremis
+<fn>Siehe <qv>nr2341</qv>,<qv>zl2341-3</qv>.</fn>. Maximam inde utilitatem caperem, si verum esse audirem idque in tempore, quod dicitur Gallum et Aquilam
+<fn>Kaiser Karl V.</fn> denuo aleam Martis
+<fn>Mars, der römische Kriegsgott. - aleam Martis: das ungewisse Kriegsglück.</fn> experturos. Proinde oro, ne hic quid negligas.</p>
+<p>Gastius libenter curabit literas; denique observanti
+<fn>Damit ist Gast gemeint.</fn> semper in tempore offerentur, qui Tigurum abeunt.
+<fn>Anspielung auf <qv>nr2341</qv>,<qv>zl2341-4</qv>.</fn></p>
+<p>Recte hic valemus omnes gratia domino. Utinam tu quoque cum tuis valeas! Vale. Salutant te Pellicanus, Bibliander, Gvaltherus, Buchterus
+<fn>Heinrich Buchter, der Nachfolger von Kaspar Megander; s. <a>HBBW</a> XV 481f, Anm. 12. 535, Nr. 2247.</fn> et reliqui.</p>
+<p>Tiguri, 4. februarii anno 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Osvaldo Myconio, vigilantissimo Basiliensis ecclesiae pastori, domino et fratri colendo et dilecto.</p>
+</text>
+</brief>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2651">
+<brief>
+<id>16304</id>
+<nr>2651</nr> <from persid="Bullinger"/> <to persid="PhilippVonHessen"/> <place plid="Zürich"/> <date when="1546-10-31"/>
+<ae>Bullinger an Philipp von Hessen</ae>
+<od>[Zürich, 31. Oktober 1546]
+<fn>Das Datum geht aus unten Z. <qv>zl16304-2</qv> und <qv>fn16304-3</qv> hervor.</fn></od>
+<vo>Autographer Entwurf:
+<fa><i>Fast vollständig auf dem leeren Verso eines schon gebrauchten Papiers, mit Ausnahme der letzten Wörter (unten Z. <qv>zl16304-4</qv>), die an einem Rand der bereits beschriebenen Rectoseite dieses Zettels verzeichnet wurden. Auf dieser Seite findet sich ein von Bullinger geschriebenes Textfragment über den Papst und dessen Anspruch, ein Reformationskonzil einberufen zu dürfen. Dieses Fragment ist nicht ein Auszug aus der Schrift "Antwort der Predigeren zu Z{ue}rich uff des Papsts Laden in das Concilium zu Trient" (s. <a>HBBW</a> XVII 293, Anm. 27). Hier (unkommentiert) das erhaltene Fragment:</i> ... er es sind? Diese priester hattend nitt minder verheissung dann ir des geists. Paulus III. mag nitt beston by dem canon (Titum 1). Dorumb ist er nitt ein bischoff (Distinct. 23., von der waal eins bapsts), wie sin soll. Nicolao vorgschriben. Qui ecclesiam non audierit, sit tibi velut ethnicus et publicanus. Simoniaci cum erretici. Zum ersten ist der bischoff z{uo} Rhom nitt ein allgemeinder bischoff. Und wenn ers schon were, so ist doch dieser kein bischoff, der reformieren s{oe}lle.<zfn>fn16304-1</zfn></fa> Zürich StA, E II 441, 694</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 50 [Ende Oktober 1546]</k></dr>
+<re><t>Bullinger bedankt sich für das im Feldlager bei Nördlingen am 8. Oktober verfasste Schreiben [Brief <qv>nr2616</qv>]. Er hat sich seitdem bemüht, so gut wie möglich im Sinne des Landgrafen zu wirken, dessen Ziel es ist, das Christentum und die Freiheit Deutschlands gegen den Angriff Kaiser [Karls V.] zu verteidigen.</t>
+<t>Durch das Schreiben der Vier [protestantischen] Orte wird der Landgraf erfahren, was diese Orte an ihrem Treffen in Zürich beschlossen haben. Gestern [Samstag, 30. Oktober] versammelte der Zürcher Rat die Räte und die Bürger, die sich deutlich [hinter ihn] stellten. Am kommenden Sonntag [werden Versammlungen] in den Graf- und Herrschaften [der Landschaft Zürich stattfinden]. [Man erhofft sich davon] alles Gute.</t>
+<t>Der Landgraf sieht also, welch guten Willens [der Zürcher Rat ist], der sein Möglichstes tut.</t>
+<t>Er habe Dank, dass er [mit seinem Brief vom 8. Oktober] Bullinger erneut [wie schon am 12. September mit Brief <a>HBBW</a> XVII, Nr. 2581] einen [Kriegs]bericht zukommen ließ.</t>
+<t>Bullinger steht ihm weiterhin zur Verfügung.</t>
+<t>Gott ...</t></re>
+<text>
+<div>
+<p>Ü[wer] f[ürstlichen] g[naden] gnedig z{uo}schriben des datum imm veldleger z{uo} Nörlingen, 8. octobris,
+<fn>Brief <qv>nr2616</qv>.</fn> hab ich empfangen, sins ynhalts verstanden, daruff min m{uo}glichen flyß angewendt, alles das ze befürderen, das allhie m{uo}glich, ze erheben und z{uo} g{uo}tem diser ü. f. g. vorhaben dienet, namlich die christenliche religion und tütsche nation wider des ke[ysers]
+<fn>Karl V.</fn> usfal ze erhallten.</p>
+</div>
+<div>
+<p><zzl>zl16304-1A</zzl>Was sich dann die 4 stett sampt anderen iren anhangenden allhie uff dem tag
+<fn>Das Treffen der Vier protestantischen Städte in Zürich, das am 26. Oktober zu Ende ging; s. <qv>nr2606</qv>, <qv>fn16294-1</qv>. - Mit "anhangenden" sind die Zugewandten Orte Biel, Mulhouse und St. Gallen gemeint, die sich an dem Treffen beteiligten; s. <a>EA</a> IV/1d 698.<zfn>fn16304-4</zfn></fn> entschlossen, hatt ü. f. g. durch ir z{uo}schriben
+<fn>Mit dem Brief, den die Vier Städte am 26. Oktober an die schmalkaldischen Verbündeten richteten; s. <qv>nr2606</qv>, <qv>fn16294-1</qv>. - Er wurde dem Landgrafen durch Hartmann von Hallwyl am Mittwoch, den 3. November übermittelt; s. Heinrich Thomanns Briefe an den Zürcher Rat vom 7. und 20. November (Zürich StA, A 177, Nr. 126 bzw. 146).<zfn>fn16304-5</zfn></fn> verstanden.<zzl>zl16304-1E</zzl> <zzl>zl16304-2A</zzl><fa1 bis="1"><i>Korrigiert aus:</i> Was sich dann wyter zutragen, hallt sich also: Es habend sich.</fa1>Syderhar und <?tus ^&^&n^&^&{?> wyter hat sich z{uo}tragen,<fa1e von="1"/> das min g[nädig] h[erren] r{ae}t und burger
+<fn>r{ae}dt und burger: der Kleine und der Große Rat; s. <a>SI</a> IV 1582.</fn> vereinigt, alle gemeinden in der statt ze berichten. Das ist gestern besch{ae}hen,
+<fn>Dieses Treffen fand am Samstag, den 30. Oktober statt; vgl. <qv>nr2652</qv>,<qv>zl16341-1</qv> (wo Bullinger irrtümlich "30. september" schrieb), und <qv>nr2653</qv>,<qv>zl16342-1</qv> (wo das Treffen auf "sampstag" datiert wird).<zfn>fn16304-3</zfn></fn> und ein einh{ae}llige antwort gefallen.<zzl>zl16304-2E</zzl> <zzl>zl16304-3A</zzl>Volgents sontags
+<fn>Also am 7. November; vgl. auch <qv>nr2652</qv>,<qv>zl16341-2</qv>; <qv>nr2653</qv>,<qv>zl16342-2</qv>. <qv>zl16342-5</qv>. Im letzten dieser Briefe erfährt man, dass von jenem Sonntag ab Versammlungen in den Graf-, Herr- und Ortschaften der Landschaft Zürich geplant waren, um die Bevölkerung über die Lage und über das vom Papst Paul III. und vom Kaiser Karl V. verfolgte Ziel (nämlich das "Evangelium" in Deutschland auszurotten) zu informieren. Aus <qv>nr2652</qv>,<qv>zl16341-3</qv>, und <qv>nr2653</qv>,<qv>zl16342-3</qv>, geht ferner hervor, dass für diese Gemeindeversammlungen ein Schreiben verfasst wurde.<zfn>fn16304-6</zfn></fn> graffschafften, herschafften; da man sich g{uo}ts
+<fa><i>Gemeint ist, wie es schon Johann Jakob Simler in seiner Abschrift (Zürich ZB, Ms S 62, 50) vermutete:</i> g{uo}ts versicht.</fa>.<zzl>zl16304-3E</zzl></p>
+</div>
+<div>
+<p>Zeig ü. f. g. sölichs an, das ich noch nitt dann
+<fn>noch nitt dann: nichts anders als.</fn> allen g{uo}ten willen und gunst
+<fa><i>Zu ergänzen ist wohl (so auch Simler):</i> gespürt.</fa>, und das, was ienen
+<fn>irgendwie; s. <a>SI</a> I 296.</fn> m{uo}glich, alle zyt th{uo}n.</p>
+</div>
+<div>
+<p>Das ü. f. g. mich abermals
+<fn>Der Landgraf hatte nämlich schon am 12. September Bullinger einen Brief mit Nachrichten zum Kriegsverlauf zukommen lassen (<a>HBBW</a> XVII, Nr. 2581).</fn> bericht, <vl>v.</vl> <zzl>zl16304-4A</zzl>sag ich hohen danck.</p>
+</div>
+<div>
+<p>Embüt mich willig ze dienen, wo ich k{oe}nt.</p>
+</div>
+<div>
+<p>Gott [etc.].<zzl>zl16304-4E</zzl></p>
+<un>H. B.</un>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Die abgesandte Ausfertigung des Briefes traf am 10. November im Feldlager ein (s. <qv>nr2674</qv>, <qv>fn16361-2</qv>) und wurde dem Landgrafen am 13. oder 14. November durch Thomann übermittelt; s. <qv>nr2678</qv>,<qv>zl16365-1</qv> mit <qv>fn16365-1</qv>.</fn></p>
+</div>
+</text>
+</brief>

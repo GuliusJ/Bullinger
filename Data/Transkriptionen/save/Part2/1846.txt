@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1846">
+<nr>1846</nr>
+<correspondents>
+	<originator>Bullinger im Namen der Pfarrer</originator>
+	<originator>Brüder von Zürich</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. Februar 1544</date>
+</space_time>
+<vo>Autograph<fx>^#/+Eine (von Bullinger zurückbehaltene) Abschrift in Zürich StA, E II 345, 252.^#/-<fe>: Zürich StA, E II 342, 115 (Siegelspur)</vo>
+<vo>Kopien: Zürich StA, E II 345, 252<fn>Zürich ZB, Ms S 54, 35 (mit Anm.!).</fn></vo>
+<dr>Teildruck<fx>^#/+Mit falschem Datum:^#/-d. 26. martii 1543. ^#/+Aus der Antwort vom 12. März 1544 (s. unten Nr. 1866) und aus Wolfgang Hallers Brief vom 22. Februar 1544 (unten Nr. 1853) geht klar hervor, dass 1544 des Autographs und nicht 1543 des auch sonst fehlerhaften Teildrucks das richtige Jahr ist.^#/-<fe>: Bibliotheca historico-philologico-theologica, classis tertiae fasciculus sextus, hg. v. Johann Jakob Ulrich, Bremen 1720, S. 1092-1095^&xEine Xerokopie des Druckes (von E. Fabian 1988 erhalten) in Bull. Corr. 8.^&x{</dr>
+<re>Bullinger wurde berichtet, Myconius habe abweichend von seiner früheren Haltung über das Abendmahl gepredigt, dies zu Weihnachten wiederholt und zudem geäußert, Oekolampad habe über die Eucharistie dasselbe gedacht wie Luther; Aufforderung, der apostolischen Einfachheit gemäß zu predigen, die
+darin besteht, dass Christus seiner Kirche beständig und besonders beim Abendmahl beisteht; eine nicht zu ergründende körperliche Präsenz des Herrn im Abendmahl zu behaupten, verfälscht und verdirbt die
+apostolische Reinheit; Erinnerung an die Stellungnahmen der evangelischen Städte der Eidgenossenschaft gegenüber Luther, der die Verdammung Berengars [von Tours] durch Papst Nikolaus [II.] sogar öffentlich gebilligt hat, und an Oekolampad, der zeitlebens [den Begriff einer] unformulierbaren Präsenz bestritt. Uns
+als Dienern der Wahrheit und nicht der Menschen ist das Wort Gottes und nicht Luther maßgeblich für Lehre und Leben; Bitte, sich nicht von der [Zürcher] Kirche zu entfernen. Da Myconius seine Kostgänger nur mühselig unterhält, wurde diesen freigestellt, einen anderen Logisgeber zu suchen; Dank für
+die geleisteten Wohltaten. Leodegar [Hirsgarter] heiratete ohne Wissen des Vaters und der Schulverordneten in Myconius' Haus; falls Myconius dies gewusst haben sollte, wären ihm schwere Vorhaltungen zu machen. Dies als brüderliche Ermahnungen in gefahrvollen Zeiten. Grüße von allen Brüdern.</re>
+<tx>Gratiam et pacem a domino.
+^$Post nundinas illas nostras Martinianas<f1>Die Zürcher Herbstmesse um den Martinstag (11. November).<fe> natalem domini
+praecedentes venerunt ad nos cives aliquot nostri pietatis
+et nominis tui satis studiosi conquaerentes Myconium sui
+factum dissimilem, nunc longe alia Basileiensem docere
+ecclesiam, quam olim docuerit Tigurinam, nempe domini Iesu
+corpus vere interesse coenae corporaliterque sumi a
+coenantibus, ratione tamen ineffabili; nam modum non esse
+inquirendum, ac sermonis<f1>Der Text dieser wohl im November gehaltenen Predigt ist erhalten (Basel UB, Ki. Ar. 23a, Nr. 96, f. 282r.-288r.; Auszug in: ^#/+Kirchhofer,^#/- Myconius 354f). Nicht erhalten scheint hingegen Myconius' unten angeführte (Z. 11) und während der Weihnachtszeit gehaltene Predigt.<fe> quidem huius, in quo haec ardenter
+docuisti et aliter sentientes damnasti, auditores se fuisse
+magna asseverabant constantia. Dolebat tum ea res nobis
+omnibus non mediocriter ac dolorem hunc nostrum auxit non
+leviter, quod alii non leves aut futiles fratres referunt in
+feriis natalibus eadem per te repetita et haec insuper
+adiecta: Beatae memoriae Oecolampadium eadem de eucharistia
+sentire quae Lutherus, qua re multos etiam inter tuos
+pietatis studiosos graviter offenderis. Nos certe ac nostros
+offendisti gravissime, quocirca et haec ad te scribimus
+postulantes et obsecrantes per dominum Iesum et per
+charitatem christianam, ut de negotio coenae purius,
+circumspectius et apostolicae simplicitati magis consentanee
+posthac disseras.
+^$Christum adesse ecclesiae suae perpetuo et
+tum maxime, cum coenam celebrat, Christum nutrire,
+conservare, gubernare, vivificare fideles suos in ecclesia
+nemo negat; imo nec rex nec sacerdos<f1>Zum Priesterkönigtum Christi ("rex et sacerdos") vgl. Heb 5 und 7; ferner etwa Augustin, De consensu evangelistarum, 1, 3, 5f (CSEL XLIII 4, 24-6, 15).<fe> esset suae ecclesiae,
+nisi ipse in suis viveret et sui in ipso. Sic sane docuerunt
+apostoli domini.<f1>Vgl. Joh 6, 56 (Vulg. 57).<fe> At huic simplicitati purae disputationem
+inserere de corporali in coena domini praesentia apostolicam
+puritatem viciat atque corrumpit. Praeterea pugnant inter se
+corporaliter dominum adesse coenae et modum praesentiae esse
+illocabilem, ineffabilem<f1>Die Rede von einem "modus ineffabilis" hatte bereits Zwingli kritisiert; s. etwa Z IV 901, 17-26.<fe> etc. Dominus noster corpore suo in
+coelis est, in terris non est; spiritu, divinitate,
+redemptione, gratia, conservatione et vivificatione sua in
+ecclesia est et intra coenantes fideles. Et haec ratio
+maxime effabilis et intelligibilis est. Nosti dominum
+Oecolampadium <vl>115v.</vl> modum illum praesentiae ineffabilem valde
+oppugnasse, dum viveret. Nosti, quid nos de eo modo
+scripserimus ad Lutherum.<f1>Bullinger meint den am 12. Januar 1537 abgeschickten Brief
+der evangelischen Orte der Eidgenossenschaft an
+Luther (WA Briefwechsel XII 241-275, Nr. 4268); s. auch aaO, 241-245 sowie WA Briefwechsel VIII 6f zu Nr. 3126-3128.<fe> Nosti, quid coram illo simus
+confessi<f1>Vgl. die vorige Anm.<fe> et quid nostra contineat confessio<f1>Das Erste Helvetische Bekenntnis (Confessio Helvetica prior) von 1536 (RBS I/2 33-68, Nr. 20; lateinische Fassung: Schaff III 211-231).<fe> confessionisque
+declaratio<f1>Deklaration der Zürcher Synode vom 24. Oktober 1536; die Deklaration ist Teil des erwähnten Briefs an Luther (gedruckt: WA Briefwechsel XII 246-261, Nr. I unter Nr. 4268).<fe>. Nosti, quid scripserit Lutherus et quid hodie
+scribat.<f1>Gedacht ist hier wohl an Luthers Brief vom 1. Dezember 1537 an die eidgenössischen Städte (WA Briefwechsel VIII 149-153, Nr. 3191) und an seinen Brief
+an Christoph Froschauer vom 31. August 1543 (WA Briefwechsel X 384-388, Nr. 3908).<fe> Probavit hic scripto publico Nicolai papae<f1>Papst Nikolaus II. (24. 1. 1059-20. 7. 1061). - Lit.: LThK^#'3 VII 862f.<fe> fidem de
+eucharistia, quia consentit damnationi Berengarianae.<f1>Martin ^#/+Luther,^#/- Von abendmal Christi, bekendnis, Wittenberg, Michael Lotter, 1528 (WA XXVI 241-509, bes. 442f). Berengar von Tours (um 1000-1088) wich von der traditionellen Abendmahlslehre ab; er vertrat die Meinung, dass Brot und Wein bei der
+Wandlung substantiell nicht verändert würden, sondern "sacramentum", Zeichen und Unterpfand der Liebe Christi, seien. Er wurde im Jahr 1050 von Papst Nikolaus II. auf einer eigens einberufenen Synode in Vercelli zum Bekenntniseid gezwungen; s. CorpIC, Grat., De cons., 2, 42; Denzinger 690;
+TRE V 598-601; WA XXVI 443, Anm. 1 (der Kernsatz des erzwungenen Bekenntnisses).<fe>^&xRealencyclopädie für protestantische Theologie und Kirche 2 (1897), 607-612^&x{
+Caeterum quid de ea senserit beatae memoriae Oecolampadius,
+nosti; typis excusum legitur a tota ecclesia.<f1>Gemeint ist das Kapitel "De condemnatione Berengarii et Adelhardi" in Oekolampads Buch "Quid de eucharistia veteres tum Graeci, tum Latini senserint, dialogus", Basel, Hieronymus Froben, 1530 (Oekolampad-Bibliographie, Nr. 164), f. I4r.-I7r.<fe>
+Nunquam itaque
+Oecolampadius eadem docuit cum Luthero de sacramento coenae
+domini.
+^$Oramus te itaque, doctissime Myconi idemque frater
+dilectissime, ne a pura et aperta simplicitate recedas neve
+ab ecclesiis nostris, cum quibus aliquando optime tibi
+convenit, discedas. Veritatis, non hominum ministri sumus.
+Verbum domini nobis regula est doctrinae et vitae nostrae,
+non Lutherus. Ad hanc, quaesumus, unanimes respiciamus, ut
+et nos in periculosissimis istis temporibus postremis<f1>Zweimal in diesem Brief (s. unten, Z. 52) bezeichnet Bullinger seine Zeit mit diesen Worten. Nur wenige Tage zuvor, am 28. Januar, hatte er die nur handschriftlich überlieferte Schrift "Quomodo se gerat fidelis quisque ac minister praesertim verbi dei in periculosissimis hisque nostris temporibus brevis institutio" (Zürich ZB, Ms F 95, Nr. 14, von der Hand Bullingers; Abschriften ebd., A 137, Nr. 1, Stück 4; Ms S 54, 19) fertig verfasst. Es handelt sich dabei um eine Ansprache Bullingers an die Pfarrer, die er am selben Tag vorgetrug; s. ^#/+Pellikan,^#/- Chronikon 157.<fe> respiciat et ex
+omni malo nos eruat benignus dominus.
+^$Quia vero intelligimus te variis negotiis implicitum aegre
+convictores alere, nostris potestatem fecimus ad alium civem
+honestum divertendi. Tibi vero pro tua in Tigurinos
+benevolentia, pro beneficiis item in nostros collatis, quas
+possumus maximas agimus gratias. Id vero valde nobis dolet,
+quod Leodigarius<f1>Leodegar Hirsgarter (1524-1567), Sohn von Mathias Hirsgarter, Pfarrer in Winterthur, war seit 1539 Stipendiat, wurde 1543 in Basel immatrikuliert, 1544 ordiniert; Provisor an der Großmünsterschule und Pfarrer in Schwamendingen, 1547 Pfarrer in Laufen, 1562 wegen Krankheit
+pensioniert. - Lit.: Zürich ZB, Ms Car C 44, 921f, Nr. 22 (Bullingers Stipendiatenliste); Basel, Matrikel II 35, Nr. 10; HBLS IV 229 unter Hirschgartner); Pfarrerbuch 343.<fe>
+inconsulto patre inconsultisque scholarchis
+uxorem<f1>Anna Grunder; s. Carl ^#/+Keller-Escher,^#/-
+Promptuarium genealogicum, Bd. III (Zürich ZB, Ms Z II 3), S. 709 unter "Hirschgartner".<fe> duxit in aedibus tuis, neque cogitare possumus te
+conscio id esse factum; alioqui enim exprobraremus tibi
+tecumque expostularemus.
+^$Nunc vero paucula haec tibi
+exponimus ingenue, ut decet fratres, obsecrantes dominum
+nostrum, nobis in periculosis illis temporibus adesse
+dignetur, quo ecclesias eius nostrae commissas fidei verbo
+veritatis iuxta ipsius voluntatem gubernare liceat. Vale.
+^$Tiguri, 12. februarii anno 1544.
+^$Salutant te fratres omnes.
+<un>H. Bullingerus omnium minist[ro-]
+<un>rum<fx>^#/+Wort im engen Einband nicht vollständig lesbar.^#/-<fe> et fratrum nomine.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

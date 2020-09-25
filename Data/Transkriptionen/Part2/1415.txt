@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1415">
+<nr>1415</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Theodor Bibliander</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>20. August 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 170 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 98</vo>
+<dr>Ungedruckt</dr>
+<re>Wünscht gute Genesung. Empfiehlt den aus Frankreich zurückberufenen Otto [Werdmüller] und rät dazu, ihn als Lehrer
+für Dialektik und Mathematik einzusetzen. In Straßburg hat sich Ruprecht von Mosham als hartnäckiger Gegner erwiesen; er lehrt
+nicht nur die Rechtfertigung durch Glauben und Werke, sondern hält auch Gottes Gesetz für erfüllbar. [Kaiser] Karl ist immer
+noch in den Niederlanden und wird gegen die Protestanten aufgehetzt. Grüße.
+</re>
+<tx>S. Si in dies magis ac magis revalescis, gaudeo.
+^$Ecce, remitto vobis Ottonem<f1>Otto Werdmüller.<fe> (nam rogatu parentum<f1>Heinrich Werdmüller und Anna Schmid (Ottos
+Stiefmutter); vgl. Leo ^#/+Weisz,^#/- Die Werdmüller. Schicksale eines alten Zürcher Geschlechtes, Zürich 1949, Bd. I, S. 13f;
+Bd. III, Stammtafel 2.<fe> e Gallia revocavi<f1>Diesbezügliche Briefe an bzw. von Myconius sind nicht erhalten.<fe>). Iuvenis est pius et doctus, et qualem (verbo sit venia) Tigurum hactenus non fovit. Hoc testimonium non ego solus, sed docti viri tribuunt. Ergo si recte fueritis ipso usi,
+gaudebit olim non tam schola vestra quam<fx>quam ^#/+für gestrichenes^#/- sed et ^#/+am Rande nachgetragen.^#/-<fe> civitas
+tota. Habetis scholam egregiam et cui nihil videtur deesse, verum si<fx>si ^#/+nachträglich eingefügt.^#/-<fe> adieceritis
+dialecticen<f1>Bereits seit Zwinglis Zeit wurde Dialektik durch den Latein-Professor Johann Jakob Ammann unterrichtet; s. Ulrich ^#/+Ernst,^#/- Geschichte des Zürcherischen Schulwesens bis
+gegen das Ende des sechzehnten Jahrhunderts, Winterthur 1879, S. 57.<fe> et mathemata, quibus recte praeerit Otto, minus deerit<f1>Werdmüller versah zunächst allein, von 1541 bis 1546
+zusammen mit Konrad Geßner (und 1541/42 mit Melchior Wirz) die neugeschaffene "professio physices", die Philosophie und Naturgeschichte, Mathematik und Ethik umfaßte; s. Bernhard
+^#/+Milt,^#/- Zürichs Vergangenheit in Naturwissenschaft und Medizin (Mittelalter und 16. Jahrhundert), in: Gesnerus 4, 1947, S. 33-36.<fe>. Artificem hic praestabit; nam non solum illas
+artes tradere, sed etiam exercere novit. Qua quidem re si quid possit<fx>^#/+vor^#/- possit ^#/+ein gestrichenes, unlesbares
+Wort.^#/-<fe> magis prodesse adulescentię, praesertim hac tempestate, non video (de humanis disciplinis loquor). Excipite
+igitur Ottonem et sustinete, quemadmodum dignus<fx>dignus ^#/+am Rande nachgetragen.^#/-<fe> est, et nunquam vos poenitebit.
+^$Cum Rudberto a Mosham egerunt Argentinenses<f1>Mitte August verhandelte Mosham erfolglos mit Straßburger Gelehrten und
+Ratsherren; s. QGT XV 420-424. 427f.<fe> et hominem repererunt in consilio suo pertinacissimum; securus est eorum, quę
+obiecta sunt. Dogma eius nuper scripsi, opera videlicet una cum fide iustificare. Nunc addit hominem in hac vita pervenire posse ad summam perfectionem ideoque legem dei possibilem esse.
+^$Carolus<f1>Kaiser Karl V.<fe> adhuc subsistit in Germania Inferiore; quid moliatur, clam est. Illud certum, quod squamę
+pontificię<f1>Zur Anwendung von Hi 41, 6 auf den Papst und seine Gefolgsleute vgl. etwa Graubünden, Korr. I 39; WA VIII 413, 31.<fe> plus satis ipsum<fx>ipsum ^#/+über der Zeile nachgetragen.^#/-<fe> in nos extimulant. Verum spes est dominum adfuturum nobis, modo nos non deficiamus.
+^$Valete cum liberis<f1>Siehe oben Nr. 1344, Anm. 14 (zu Bullingers Kindern) bzw. ^#/+Egli,^#/- Analecta 23 (zu Biblianders
+Kindern).<fe> et uxoribus<f1>Anna Adlischwyler und Rosilla Rordorf.<fe>; Pellicano item et reliquis semper bene opto.
+^$Basileę, raptim, 20. augusti anno 40.
+<un>Os. Myconius
+<un>vester.
+<lz>[Adresse auf der Rückseite:] D[ominis] Heinricho Bullingero et Theodoro Bibliandro, viris doctissimis, in domino suis.
+</content>
+</letter>

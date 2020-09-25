@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1605">
+<nr>1605</nr>
+<correspondents>
+	<originator>Johannes Blasius</originator>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Chur]</place>
+	<date>21. Februar 1542</date>
+</space_time>
+<vo>Autograph von Johannes Comander: Zürich StA, E II 365, 25 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 42<fn>Zitat: de Porta, Hist. Ref. Raet. I 256</fn></vo>
+<re>Es herrscht große Verwirrung; man hat begonnen, gegen die mächtigen Pensionenempfänger einzuschreiten; diese geben die Schuld dafür den Pfarrern, die diesem Frevel entgegengetreten sind und sich in größerer Gefahr als jemals zuvor befinden; Bullinger und seine Kirche sollen für sie beten. Gruß.
+Der Briefbote Stephan [Willi?] wird Genaueres berichten.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 39f, Nr. 30.]
+^&xGratiam et vitae innocentiam a domino.
+^$Non est, ut multis tecum verbis agam, charissime
+Bullingere. In magna sumus conturbatione. Coeptum est agi
+contra pensionarios, ut corrigantur et in ordinem
+redigantur; illorum tamen impudentia per multitudinem et
+sublimitatem personatorum hominum tantas nacta est vires, ut
+iuri stare renuant. Interea omnem culpam in nos, qui verbum
+dei annuntiamus, reiiciunt, eo quod pro contionibus huic
+sceleri semper restiterimus. Affingunt nobis+a{ mendatia
+foeda, sermones invertunt, ita ut in maiori[e?] periculo quam
+nunc fuerimus nunquam. Hoc tantum a te et fratribus exoratum
+volumus, ut cum ecclesia vestra pro nobis orare ad dominum
+velitis, quatenus ex his turbis liberati ad vitae
+tranquillitatem commode perveniamus.
+^$Vale una cum fratribus omnibus.
+^$21. februarii 42.
+<un>Tui Ioannes Blasius, Ioannes Comander.
+<lz>Praesentium lator Stephanus omnem rem melius indicabit,
+quam scribere potuerimus; hunc et tibi commendatum fore
+rogamus.
+<lz>[Adresse .....:] Pietate et doctrina
+ornatissimo viro magistro Heinrico Bullingero, Tigurinae
+ecclesiae episcopo, amico ac in Christo fratri primario.^&x{
+</content>
+</letter>

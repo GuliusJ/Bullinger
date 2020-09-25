@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2235">
+<nr>2235</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>5. September 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkung und Anstreichung von Johann Heinrich Hottinger.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 55 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 386f, ^$^$^$^$Nr. 1214</dr>
+^&xKopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 116r.-v., Ms S 58 24 ^&x{
+<re>Selbstverständlich hat Bullinger [Matthäus Molckenpur] nichts [über Blarers Brief zu Molckenpurs Werbung und über die Verhandlungen zu Konrad Zwicks Kriegskunst] eröffnet.
+-^#. Die [Zürcher] haben dem Anliegen [Molckenpurs im Auftrag des Schmalkaldischen Bundes] zugestimmt. Bullinger hofft, dass [Molckenpur] freundlich [behandelt worden ist]. Auch [Johannes Haab und Hans Rudolf Lavater] haben [Zwicks] Kriegskunst Molckenpur gegenüber nicht erwähnt. Haab hat ferner an [Zwick] geschrieben.
+-^#. Der neue Vogt im Thurgau, Leonhard Holzhalb, war vorher Vogt im Freiamt und hat das Amt dort so gut versehen, dass er dies bestimmt auch künftig tun wird. Die Zürcher dürfen von Fürsten, Herren oder Prälaten keine Geschenke annehmen. Präsente von Eidgenossen, wie sie von alters her üblich sind, dürfen sie aber empfangen. So dürfen z.B. die [Zürcher] Vögte kein Geschenk vom Konstanzer Bischof oder von Domherren annehmen. Auch im Falle eines Rechtsstreits ist ihnen dies untersagt. Der Vogt darf jedoch bei seinem Einzug Willkommensgeschenke von Eidgenossen erhalten.
+-^#. Die Idee eines [zweiten] Religionsgesprächs [zu Regensburg] missfällt Bullinger. Hoffentlich werden dadurch die [Evangelischen] nicht entzweit. Möge Bucer ein für alle Mal schweigen!
+-^#. Bullinger konnte von den Buchdruckern nichts erfahren. Blarer soll aber sein Anliegen auch den [Druck]aufsehern mitteilen.
+-^#. Bibliander wird unterdessen die Mühlen[skizze] von Gerhard Westerburg, der 14 Tage bei Bullinger wohnte und ihm auch einen Druck davon schenkte, an Blarer geschickt haben. Bullinger glaubt nicht, dass das Projekt ausgeführt werden kann.
+-^#. Vadian geschieht es recht, wenn er vertrauensselig Leuten schreibt, die dann mehr daraus machen, als er geschrieben hat.
+-^#. Bullinger hat [Johannes] a Lascos Brief [an Bucer vom 23. Juni 1545] [zurück]erhalten und erwartet Blarers Urteil darüber, zusammen mit [a Lascos "Defensio verae doctrinae"].
+-^#. Er sendet seinen Markus[kommentar].</re>
+<tx>Gnad und frid.
+^$Alles, das ir begaͤrt der stille und verschwigens halb, lieber herr und bruͦder, soͤllend ir wüssen, das ir sy gewaͤret sind,
+und darff deßhalb der worten und so vil nitt<f1>darff deßhalb der worten und so vil nitt: es bedarf deshalb nicht so vieler Worte.<fe>; wenn ich weiß, das ich schwygen sol, so hat es wyter kein nodt.<f1>Blarer hatte Bullinger gebeten, Matthäus Molckenpur nicht zu sagen, dass er dessen Mission in Zürich bereits angekündigt hatte, und diesem gegenüber die Verhandlungen über Konrad Zwicks Kriegskunst zu verschweigen; s. oben Nr. 2227, 22-38.<fe>
+^$Ir habend uns mitt üwerm anzeigen gar ein grossen dienst gethan, und der werbung halb,
+wie sy von h. Mattheo<f1>Matthäus Molckenpur.<fe> gethan ist, habend die unsern bewilligt,
+wie ir baaß<f1>besser.<fe> von imm verstan werdint; dann er fürnemlich geworben, so sich krieg zuͦtruͤge, das wir unser lüt wider üch nitt louffen lassen<fx>^#/+In der Vorlage^#/- lasse.<fe>, etc.<f1>Zur Werbung Molckenpurs in der Eidgenossenschaft im Auftrag des Schmalkaldischen Bundes s. oben Nr. 2227, 1-21 und Anm. 4.<fe>
+Ich acht und hoff, der bott<f1>Damit ist Molckenpur gemeint, der nachweislich mit der Antwort des Zürcher Rats wieder nach Konstanz ritt, von wo er wiederum zu weiteren eidgenössischen Orten entsandt wurde; s. EA IV/1d 529, Nr. 3 (Zürich StA, A 205/1, Nr. 196); und unten Nr. 2240, 4. - Demzufolge ist der Satz wie folgt zu verstehen: Bullinger hofft, dass der Bote freundlich und gut [empfangen worden] sei.<fe> sye früntlich und wol gehallten.
+So hab ich fürsaͤhen, das mine herren<f1>Die Bürgermeister Johannes Haab und Hans Rudolf Lavater.<fe> der kunst<f1>Konrad Zwicks Kriegskunst; s. zuletzt oben Nr. 2227, 39-49.<fe> halb nüt redtind mitt h. Mattheo<fx>^#/+In der Vorlage^#/- Matthe.<fe>.
+Min h. Hab hatt mir gesagt, er habe üwerm vettern<f1>Zwick.<fe> geschriben;
+dann ich huͦb an ze vragen von fernuß<f1>vragen von fernuß: aus der Ferne fragen, hintenherum fragen.<fe>, ob die handlung mitt der kunst gar ersaͤssen<f1>gestockt.<fe> sye, etc.
+Daruff er geantwort: Nein, er woͤlle schriben und habe geschriben, etc.<f1>Siehe dazu oben Nr. 2227, 40-43; unten Nr. 2237, 2f.<fe>
+^$Mitt dem nüwen vogt in dem Durgoͤw, Lienhart Holtzhalben, stat es also: Er ist vorhin
+vogt gewaͤsen in dem Fryen Ampt<f1>Nämlich in der Vogtei Knonau; s. HBBW III 104, Anm. 2. - Zu Holzhalbs Amtsführung im Thurgau s. oben Nr. 2227, 50-59 und Anm. 26.<fe> und hat seer wol regiert, das man truwt, er werde ouch da sin bests thuͦn.
+Und alls mitt imm ouch andere amptlüt hinus verordnet,<f1>Möglicherweise noch vor dem 21. August 1545. Das Rechnungsbuch 1545/46, f. 47 (Zürich StA, Seckelamt Rechnungen F III 32), verzeichnet nämlich eine Abordnung von Zürcher Amtsträgern, unter denen sich auch der neue Landvogt befunden haben könnte: "Herren Bürgermeyster Laffatern unnd m. Wägman [Hans Wegmann], als sy den Eydt zu Stamen ingenommen und demnach sampt andern verordneten gan Diessenhofen gerithen ...".<fe> hat man ein vrag gehept, wie sy sich aller dingen halben haltind.
+Da ist ouch anzogen von schenckungen<f1>Da ist ouch anzogen von schenckungen: Dort ist auch die Frage von Geschenken aufgegriffen worden.<fe>, und erkendt<f1>beschlossen.<fe>, das es soͤlle blyben by unserm geschwornen brieff<f1>Am 15. November 1522 hatte der Kleine und Große Rat eine "Satzung wider die Pensionen" erlassen, die am 13. Dezember 1526 erneuert wurde; s. Urs ^#/+Leu,^#/- "... schenkungen zu nemen verbotten haben ...". Kritische Überlegungen zum Bullinger-Pokal von Königin Elisabeth I, Zürich 2004, S. 8; AZürcherRef 103-105, Nr. 293; 519-521, Nr. 1084. - Das Verbot, Geschenke anzunehmen, geht auf eine im Juli 1513 verabschiedete Satzung zurück, die im Januar 1516 in einem Abkommen zwischen Stadt und Landschaft Zürich bekräftigt wurde. Die Satzung vom Jahre 1522 bzw. 1526 wurde wahrscheinlich der Stadtverfassung Zürichs (dem 5. "Geschworenen Brief") von 1498 (ediert in: Quellen zur Zürcher Zunftgeschichte. 13. Jh. bis 1798, hg. v. Werner Schnyder, Bd. 1, Zürich 1936, S. 132-141, Nr. 166) beigelegt, in welcher betreffend Geschenke nichts verfügt war. Laut Pellikan mussten alle Zürcher Bürger zweimal jährlich den Eid, keine Geschenke anzunehmen, ablegen; s. Leo ^#/+Weisz,^#/- Verfassung und Stände des alten Zürich, Zürich 1938, S. 108; Kaspar ^#/+Hauser,^#/- Die Herren Rümlang zu Alt-Wülflingen, in: JSG 32, 1907, 76; ^#/+Pellikan,^#/- Chronikon 153; Z X 154, Anm. 12. Siehe ferner HBBW XII 245, Anm. 14.<fe>,
+der vermag, das unser keiner gaben noch schenckinen von keinem fürsten, herren noch prelaten nemmen soͤlle, etc.
+Doch wenn ein Eignoß, ein<fx>ein ^#/+über unlesbar gemachten Wörtern ergänzt.^#/-<fe> guͦter herr und fründ, ungfarlicher<f1>ohne böse Absicht.<fe> wys, wie von alter har gebrucht ist,
+und uß sinem eignen guͦt yemants ützid<f1>etwas.<fe> gibt oder schenckt, das moͤge wol sin, etc.
+Dorumb soͤllend unsere voͤgt keine schenckinen nemmen vom bischoff von Constanz, duͦmherren, usseren<f1>auswärtigen.<fe> prelaten,
+herren, etc., ouch sunst in raͤchthaͤndlen, sachen und spenen<f1>Zerwürfnissen.<fe> von niemans überal.
+So aber der vogt uffryt<f1>feierlich einzieht.<fe> und denn yemandts innet der eydgnoschafft selbs guͦtwillig<fx>selbs guͦtwillig ^#/+über der Zeile nachgetragen.^#/-<fe> uoß dem sinen
+ungfarlicher wys, wie mans nemmpt, ein wilkumb gaͤb, moͤge er nemmen. So vil ist darvon gehandlet.
+^$Das colloquium<f1>Das ursprünglich für den 14. Dezember 1545 angesetzte Zweite Regensburger Religionsgespräch; s. oben Nr. 2227, 65-71.<fe> gfallt mir gar nit. Gott woͤlle, das üch soͤlichs nitt zuͦ einer zertrennung geradt!
+Ich woͤlt gern, das Bucer gnuͦg colloquia angericht und gnuͦg geredt haͤtte, etc.
+^$Mitt den buͦchtruckern kan ich gar nüt erfaren; sy muͤssendts neißwan hinder mir thuͦn<f1>neißwan hinder mir thuͦn: irgendwann/irgendwie hinter meinem Rücken tun.<fe>.
+Dorumb moͤgend ir wol ouch an andere werben, die ein uffsaͤhen<f1>Aufsichtsfunktion. - Bullinger bezieht sich auf die Zensurbehörde, die am 3. Januar 1523 vom Rat eingesetzt worden war; s. ^#/+Bächtold,^#/- Bullinger vor dem Rat 87-112; Urs ^#/+Leu,^#/- Die Zürcher Buch- und Lesekultur 1520 bis 1575, in: Zwa 31, 2004, 88-90.<fe> habind. Was ich erwerren<f1>abwehren.<fe> koͤnde, woͤlt ich thuͦn oder üch berichten.<f1>Blarer hatte Bullinger gebeten, bei den Zürcher Druckern zu erreichen, dass diese die von Balthasar Romätsch geplanten Werke nicht ebenfalls druckten; s. oben Nr. 2227, 83-95.<fe>
+^$<vl>55v.</vl> Theodorum<f1>Theodor Bibliander.<fe> hab ich an die müly<f1>Zur Mühlenskizze Gerhard Westerburgs s. zuletzt oben Nr. 2229, 31 und unten Nr. 2240, Anm. 30.<fe> gemanet. Acht wol, ir habints hie<f1>jetzt.<fe>.
+Doctor Erhart<f1>Gerhard.<fe> Westerburg, der 14 tag hie by mir ze herberg gelaͤgen, hat mir ouch eine gaͤben getruckt.
+Acht nitt, das es müglich sye ze machen und ins werch ze bringen. Malen ists nitt schwerr, etc.
+^$Vadiano beschicht<f1>geschieht.<fe> raͤcht in einen waͤg<f1>in einen waͤg: in gewisser Weise.<fe>, das er ettlichen vertruwt und schribt; die dann mee darus machend, dann an imm selbs ist, etc.<f1>Siehe oben Nr. 2227, 106-110.<fe>
+^$Epistolamd. a Lasco recepi,<f1>Johannes a Lascos Brief an Bucer vom 23. Juni 1545, den Blarer durch Matthäus Molckenpur oder Katharina von Zimmern an Bullinger zurückgeschickt hatte; s. oben Nr. 2229, 2-8.<fe> sed iudicium tuum de ea expecto adhuc, una cum libello contra Menonem anabaptistam<f1>A Lascos "Defensio verae doctrinae", die Bullinger auch an Blarer übermittelt hatte; s. zuletzt oben Nr. 2229, 6-8.<fe>.
+^$Valebis. Iam non plura potui.
+Munusculum hic mitto labores nostros in Marcum<f1>Heinrich ^#/+Bullinger,^#/- In evangelium secundum Marcum commentariorum libri VI, Zürich, Christoph Froschauer, August 1545 (HBBibl I 170; BZD C 342). Der Kommentar wurde Christoph Froschauer gewidmet (oben Nr. 2206).<fe>.
+^$Tiguri, 5. septembris 1545. Saluta tuos.
+<un>Bullingerus tuus.
+<lz>[Adresse darunter:] Praestantissimo virod. Ambrosio Blaurero, fratri suo incomparabili<fx>^#/+Darunter Empfangsvermerk von Blarers Hand:^#/- 8. septembris 1545 per Iacobum im Schuͦlhof. ^#/+- Zu denken wäre hier an Jakob Funcklin, der seit 1542 Prädikant in Konstanz war und Privatschüler beaufsichtigte; s. Max^#/- Schiendorfer, ^#/+Die Bühne als Kanzel. Der Bieler Prädikant und Dramatiker Jakob Funcklin (1522/23-1565), Nova Acta Paracelsica, NF 22/23, 2008/09, 52-54. Vielleicht käme auch Jakob Metzler in Frage.^#/-<fe>.
+</content>
+</letter>

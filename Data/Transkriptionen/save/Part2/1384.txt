@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1384">
+<nr>1384</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>14. April 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2032b<fx>^#/+Zur Blattzählung s. oben Nr. 1379, Anm. a.^#/-<fe> (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 7</vo>
+<dr>Ungedruckt</dr>
+<re>Ist beunruhigt, weil seine Briefe [Nr. 1379 und 1382] noch nicht beantwortet wurden. Der Briefüberbringer hat der Frau von
+Myconius Leinen verkauft und soll dafür aus Gwalthers Stipendium entschädigt werden. Die Fertigstellung seiner Joseph-Dichtung
+verzögert sich. Wiederholt seine Bitte um Zusendung von Büchern. Gruß.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Binas iam ad te literas misi<f1>Oben Nr. 1379 und 1382.<fe>, pater humanissime, nec dum adhuc responsum ullum video. Quae
+res non parum animum meum curis et sollicitudine implicat, cum res mihi talis videatur, quę moram tantam minime postulet.
+Quare vęhementer te rogo, ut, quoad fieri potest, cures, ne diutius hęc res procrastinetur. Sed me hortatore opus forsan
+non est; te enim in rebus meis etiam meipso diligentiorem esse credo.
+^$Quod tamen nunc denuo ad te scribam, tabellarius<f1>Unbekannt.<fe> hic caussa
+est, civis Tigurinus et uxoris Myconii<f1>Margret.<fe> cognatus. Ab hoc enim Myconii uxor pannum lineum emit florenorum duorum et
+dimidii pretio et a me, ut tibi scriberem, petiit, ut nummos hos meo nomine ex angarię, ut vocant, stipendio<f1>d. h. aus der vierteljährlichen Teilauszahlung des Stipendiums.<fe> illi
+solvas. Quare te obsecro, ut hisce precibus meis satisfacere digneris et huic pecuniam hanc numeres.
+^$Iosephi historiam iamdudum absolvissem<f1>Gwalthers ungedruckte Dichtung "De venditione Iosephi in Aegyptum et insano Sephirae
+amore" (Zürich ZB, Ms D 152, 201r.-234v.) wurde bereits in Lausanne begonnen; die Widmung an Bullinger datiert
+vom 15. Februar 1540.<fe>, nisi curis tot perplexus ingenium meum ad carminis studium applicare nequirem. Sed quamprimum perfecero, ad te mittam.
+^$Libros, de quibus nuper scripsi<f1>Siehe oben Nr. 1379, 30-32 und 1382, 34f.<fe>, quaeso, mittito.
+^$Salutabis nomine meo uxorem<f1>Anna, geb. Adlischwyler.<fe> et matrem<f1>Anna, geb. Wiederkehr.<fe> tuam cum omni
+liberorum coetu<f1>Siehe oben Nr. 1344, Anm. 14.<fe>. Vale, pater charissime, deusque te mihi diu servet incolumem.
+^$Basileae, 18. calendis maii 1540.
+<un>Tuus observantissimus
+<un>Rodolphus Gvaltherus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Heinrycho
+Bullingero, Tigurinę ecclesię episcopo vigilantissimo,
+patri suo plurimum colendo. An M. Heinrych Bullinger,
+predicant zuͦ Zürich.
+</content>
+</letter>

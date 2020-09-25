@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1421">
+<nr>1421</nr>
+<correspondents>
+	<originator>Johannes Wolf</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Frankfurt am Main</place>
+	<date>15. September 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 340, 95 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 114<fn>Zit.: Senn, Wick 15f.</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Ist entgegen seiner Ankündigung bereits [mit Wick und Haller] auf dem Weg nach Marburg, da die Erlaubnis dazu ohnehin
+zu erwarten war und da sich eine günstige Reisegelegenheit bot; bittet um Verständnis, denn das Geld hätte nicht mehr lange
+gereicht. Grüße.
+</re>
+<tx>Proximis tuis literis,d. Bullingere observande, cum responderem, decretum vestrum expectaturos pollicebar<f1>Siehe
+oben Nr. 1404, 9-11. - Die Rede ist außer von Wolf selbst auch von Wick und Haller.<fe>. Verum, quoniam quasi
+certissimo<fx>^#/+korrigiert aus^#/- certissimam.<fe> proficiscendi facultatem a vobis datum iri animis nostris
+conceperamus, non potuimus cum temporis, tum vero maxime itineris quam commodissimam oblatam occasionem praetermittere,
+ne amissa illa frustra recuperandi tantum non assequendi copia concederetur. Proinde petitis et comparatis ad. rectore<f1>Kaspar Volland; s. Tübingen, Matrikel I 300.<fe> et universitat[e] scholae Thubingensis [necessari]is[?]
+testimoniis<fx>[necessari]is testimoniis ^#/+am Rande nachgetragen, im engen Einband nur teilweise lesbar.^#/-<fe><f1>Nicht
+erhalten.<fe> una cum typographo<f1>Gemeint ist gewiß der Tübinger Buchdrucker Ulrich Morhart; s. ^#/+Benzing,^#/-
+Buchdrucker 465.<fe>, homine piissimo, Francfordiam profecti sumus et illinc nunc Marpurgum.
+^&x immatr.: 17. 9. ^&x{
+Quare te et patronum et patrem seu
+sacram anchoram<f1>Vgl. Adagia, 1, 1, 24 (LB II 35f).^&xFerrario, S. 44^&x{<fe> oratum quammaxime voluerim, ne id, quod
+factum est, indignius feras, siquidem totum id factum est, ut
+aeris alieni obligationem evitaremus, praesertim, quod ob
+nostri aeris tantam tenuitatem diutius manere non licuisset.
+^$Quin iam vale et Wolffium tuum, quod soles, ama.
+^$Francfordię, raptim, 1540, 15. septembris.
+^$Salutabis matrem<f1>Anna, geb. Wiederkehr.<fe>, uxorem<f1>Anna, geb. Adlischwyler.<fe>, liberos<f1>Siehe oben Nr. 1344, Anm. 14.<fe> etc.
+<un>Iohan. Wolffius
+<un>tuus quam etc.
+<lz>[Adresse auf der Rückseite:] Cum docto tum integro virod. Heinricho Bullingero, Tigurinę ecclesię episcopo vigilantissimo.
+</content>
+</letter>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1067">
+<nr>1067</nr>
+<correspondents>
+	<originator>Die Pfarrer von Genf</originator>
+	<addressee fn=1>die Pfarrer von Zürich</addressee>
+	<note fn=1>Ein gleichlautendes Schreiben ging offenbar auch an die Pfarrer von Basel und Bern; s. Corr. des réformateurs IV 316, Anm. 1, bzw. ebd., S. 320f, Nr. 669.</note>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>13. November 1537</date>
+</space_time>
+<vo>Original von unbekannter Hand<fx>^#/+Mit Anstreichung und Dorsualvermerk von späterer Hand.^#/-<fe>: Zürich StA, E II 337, 265 (Siegel)</vo>
+<dr></dr>
+<re>Der Briefüberbringer berichtet über die unerwartet ausgebrochene Verfolgung der Brüder in Nîmes; in Genf hatte man geglaubt, Graf Wilhelm [von Fürstenberg] habe sich auf Ersuchen von Straßburg und Basel an König [Franz I.] gewandt und die Freilassung aller Gefangenen erreicht, nun aber wurden
+zwei verbrannt, und weitere sind in Lebensgefahr. Da die Genfer gehört haben, in einem Vertrag [eidgenössischer Orte] mit dem König sei eine Klausel zum Schutz der Glaubensgenossen enthalten, bitten sie dringend, die Obrigkeit zu einer Intervention zu veranlassen.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs IV 315-319, Nr. 668; CO X/2 129f, Nr. 81.]
+</content>
+</letter>

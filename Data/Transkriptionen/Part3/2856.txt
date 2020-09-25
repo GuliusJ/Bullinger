@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2856">
+<brief>
+<id>17125</id>
+<nr>2856</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1547-03-23"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 23. März 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 169 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 951, Nr. 1065<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 174</k></dr>
+<re><t>Bullinger dankt für Myconius' Brief [<qv>nr2855</qv>]. Seine Neuigkeiten hat er bereits [mit <qv>nr2850</qv>] durch Christoph Froschauer übermittelt.</t>
+<t>Francisco de Enzinas soll mitgeteilt werden, dass Bullinger alles gut von ihm erhalten hat.</t>
+<t>Es steht fest, dass die Böhmen keinen Krieg [gegen Kurfürst Johann Friedrich von Sachsen] aufnehmen wollen. Bullinger hat das Manifest ihres [gegen Ferdinand I.] gerichteten Aufstandes gelesen. Der Kurfürst braucht sich also nicht vor ihnen zu fürchten.</t>
+<t>Myconius soll den beigelegten Brief sogleich Sebastian Münster übermitteln, damit dieser das [für Erasmus Oswald Schreckenfuchs bestimmte] Geld dem Übermittler [Andreas Müller] des vorliegenden Briefes noch anvertrauen kann.</t>
+<t>Grüße an Johannes Gast und Dank für dessen Brief [<qv>nr2848</qv>].</t>
+<t>Auch die Kollegen und Freunde seien gegrüßt. In Eile.</t></re>
+<text>
+<div>
+<p><zzl>zl17125-3A</zzl>Salve. Recepi tuas
+<fn>Brief <qv>nr2855</qv> vom 21. März.</fn>, Myconi colendissime, et ago tibi gratias pro fide et labore. <zzl>zl17125-1A</zzl>Quae habui, scripsi
+<fn>Nämlich mit Brief <qv>nr2850</qv> vom 19. März.</fn> per Froschoverum.<zzl>zl17125-1E</zzl><zzl>zl17125-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17125-2A</zzl>D. Dryandro dices me recepisse omnia
+<fn>Gemeint ist Francisco de Enzinas' Brief <qv>nr2840</qv> vom 7. März, dem auch Bullingers Schrift "De sacramentis" beigelegt war - eine Sendung, die Myconius offensichtlich erst am 21. März zusammen mit seinem Brief <qv>nr2855</qv> vom gleichen Tag einem sicheren Boten anvertrauen konnte; s. <qv>nr2854</qv>, <qv>fn17123-1</qv>.<zfn>fn17125-3</zfn></fn> et agere gratias.<zzl>zl17125-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17125-4A</zzl>Certum est Bohemos coniurasse, quod nolint arma ferre extra suam ditionem.
+<fn>Siehe dazu schon <qv>nr2821</qv>,<qv>zl17087-27</qv>; <qv>nr2841</qv>,<qv>zl17109-12</qv>; <qv>nr2848</qv>,<qv>zl17116-2</qv>; <qv>nr2858</qv>,<qv>zl17113-28</qv>; <a>MBW-T</a> XVI 201, Nr. 4654.<zfn>fn17125-2</zfn></fn> Coniurationem conscriptam vidi et legi.
+<fn>Es ist unbekannt, wie (vielleicht durch die damals aus Augsburg gerade zurückgekehrten Lorenz Meyer, gen. Agricola, und Rudolf Schwyzer d.Ä.; s. <qv>nr2850</qv>, <qv>fn17118-2</qv>) und in welcher Form (in handschriftlicher oder gedruckter Fassung) Bullinger das auf dem Landtag zu Prag am 15. Februar 1547 beschlossene Mandat zu Gesicht bekam, mit dem der böhmische Adel die Kündigung früherer Bündnisse und einen Zug gegen den Kurfürsten ablehnte. Vom Mandat ist derzeit nur ein vierblättriger, an einem unbekannten Ort erstellter Druck bekannt (<a>VD16</a> ZV29921 - nicht in Zürich ZB; wir danken Rainer Henrich für den Hinweis auf diesen Druck). Das Mandat wurde später mehrmals in Magdeburg in einer umfangreicheren, von Melanchthon veröffentlichten Schrift ("Historia und erzelung der handlung") nachgedruckt (<a>VD16</a> H3937-H3939); s. <a>MBW-T</a> XVI 222, Nr. 4668; 228, Nr. 4671.<zfn>fn17125-1</zfn></fn> Unde non est, quod ea parte sibi metuat elector
+<fn>Johann Friedrich I., Kurfürst von Sachsen.</fn>.<zzl>zl17125-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17125-5A</zzl>Literas has protinus reddi curabis d. Munstero,
+<fn>Den von Blarer an Bullinger übermittelten Brief für Sebastian Münster, der vermutlich von Erasmus Oswald Schreckenfuchs verfasst war; s. <qv>nr2853</qv>,<qv>zl17122-2</qv>.</fn> ut is pecunias ad me per certum hunc nuncium
+<fn>Wohl der Zürcher Stadtbote Andreas (Andres) Müller, dessen Gesandtschaft nach Basel für diese Zeit belegt ist; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 68 der Ausgabenabteilung für laufende Boten.<zfn>fn17125-4</zfn></fn> perferendas tradat.<zzl>zl17125-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17125-6A</zzl>Gastium amice salutabis et ages gratias pro literis
+<fn>Brief <qv>nr2848</qv> vom 17. März.</fn> diligentissimis.<zzl>zl17125-6E</zzl></p>
+</div>
+<div>
+<p>Vale. Salutabis fratres et amicos. 23. martii 1547. Festinantissime.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Ornatissimo viro d. Osvaldo Myconio, domino et fratri colendissimo. Basel.</p>
+</div>
+</text>
+</brief>

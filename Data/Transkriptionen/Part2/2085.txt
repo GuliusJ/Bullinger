@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2085">
+<nr>2085</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>17. Februar [1545]</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 658 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 348, Nr. 1166/2</dr>
+^&x2. Brief des Tages. Kopie 18. Jh.: Zürich ZB, MsS 56, 165^&x{
+<re>Blarer empfiehlt den jungen Konrad Hofherr mit Frau [...] und Söhnchen [...]. Hofherr wird in Zürich (anstatt in Wittenberg oder Straßburg) auf Kosten des Augsburger Bürgermeisters [Jakob] Herbrot Theologie und [Alt]sprachen studieren. Blarer hat ihm dieses jährliche [Stipendium] von 80 Florin verschafft.
+-^#. Hofherr hatte mehr als zwei Jahre die Grundschule von Bischofszell geleitet und stand [Johannes] Zwick während des Pestausbruchs bei der Pflege der Sterbenden und beim Predigen wie ein Diakon bei.
+-^#. Vielleicht gibt es bei Zürich ein Dorf, wo Hofherr einmal pro Woche predigen könnte? Auf diese Weise könnte er seine rednerischen Fähigkeiten üben und zugleich eine Zulage erhalten, die es ihm erlauben würde, Bücher zu kaufen.
+-^#. Bullinger soll Hofherr einen Studienplan zusammenstellen, damit dieser Zeit sparen kann. Falls erforderlich, soll er ermahnt werden, damit er nicht vom rechten Wege abkomme, damit der Aufwand nicht vergeblich sei. Weiteres darüber gibt es vorläufig nicht zu schreiben, da Blarer noch nicht weiß, wann Konrad [Hofherr] nach [Zürich] aufbricht.
+-^#. Blarer empfiehlt sich Bullinger und den Seinen.
+-^#. [P.S.:] Er bittet, auch Bibliander und Gwalther zu informieren.
+-^#. [Nachschrift unter der Adresse:] [Hofherr] folgt demnächst, wenn er nicht schon in Zürich ist.</re>
+<tx>Salve, mi venerande pariter et charissime Bullingere.
+^$Pium huncce ac mediocriter eruditum, optimę vero spei iuvenem Conradum Hofher<f1>Konrad Hofherr (Curio; gest. 1581), aus Ulm, studierte zunächst in Straßburg und immatrikulierte sich im Mai 1541 in Tübingen. Durch Blarers Empfehlung an Johannes Zwick (Blarer BW II 142f, Nr. 963) wurde er im September 1542 als Lehrer in Bischofszell (Kt. Thurgau) angestellt. 1544 wollte Hofherr wohl aufgrund finanzieller Nöte, die ihn ein Leben lang begleiteten, seine Stellung verlassen. Eine von Blarer angestrebte und von der Stadt Ulm letztlich bewilligte und vom Augsburger Bürgermeister Jakob Herbrot finanzierte Förderung für ein weiteres, zweijähriges Studium Hofherrs (s. Ambrosius Blarer an Georg Besserer, 27. August 1544, in: Bernd ^#/+Moeller,^#/- Nachträge zum Blarer-Briefwechsel 1523-1548, in: Blätter für württembergische Kirchengeschichte 10, 1964, 45-48) führte zum vorliegenden Gesuch, dem Bullinger nachkam (s. unten Nr. 2118, 51-55). Hofherr wurde auch gestattet, in Zürich und Umland zu predigen. Im Juli 1546 stellte Bullinger ihm ein wohlwollendes Zeugnis aus (Blarer BW II 463, Nr. 1305), woraufhin Blarer ihn nach Konstanz berief (Blarer BW II 477-479, Nr. 1318). Hofherr hinterließ in Zürich Schulden, für die Bullinger und Bibliander teilweise aufkamen. In den Wirren des Interims kam Hofherr nach Bern, von dort 1549 als Pfarrer nach Grindelwald, 1557 nach Nidau und 1583 nach Mett (Kt. Bern), wo er 1585 starb. - Lit.: ^#/+Lohner^#/- 215. 504. 517; Tübingen, Matrikel 305, Nr. 3; Blarer BW II und III Reg.; Walther ^#/+Köhler,^#/- Miszellen. Zur Korrespondenz des Ambrosius Blarer, in: Zwa 6/1, 1934, 54-57, bes. 56f; ^#/+Moeller,^#/- aaO.<fe>
+sic vobis commendo, ut vestro beneficio commode istic cum uxore<f1>Unbekannt.<fe> et puello<f1>Unbekannt.<fe> degere possit;
+aget vobiscum Herbroti, consulis Augustani<f1>Jakob Herbrot.<fe>, sumptibus, qui annue in hunc 80 fl. impendet,
+ut totus in sacra et linguarum studia incumbat; quam munificentiam ego illi a consule impetravi.
+Visum autem est istuc<f1>nach Zürich.<fe> potius quam vel Wittenbergam vel Argentoratum illum mittere hoc quidem tempore, idque certas ac graves ob caussas.
+^$Moderatus iam est ultra biennium ludum literarium apud Episcopicellam<f1>Bischofszell (Kt. Thurgau).<fe>, quum
+nullicunde<f1>nullicunde: von nirgendwo anders her.<fe> melior affulgeret conditio. Mihi vero semper ad meliora natus
+videbatur bonus iuvenis, quam ut optimam hanc aetatem hunc in modum tantum perderet<fx>^#/+In der Vorlage^#/- non perderet.<fe>.
+Venit Episcopicellam id temporis, quando charissimus Zviccius<f1>Johannes Zwick.<fe> noster illic sęviente peste officium faciebat,<f1>Johannes Zwick hatte ab August 1542 während einer Pestepidemie als Pfarrer in Bischofszell gewirkt und starb dort kurz darauf am 23. Oktober an der Pest; s. ^#/+Moeller,^#/- Zwick 243f.<fe>
+atque illi<f1>Zviccio.<fe> velut diaconus fuit, invisens et confirmans in domino moribundos, pro concione etiam ecclesiam non sine gratia ędificans, ut Zviccio valde probaretur illius ingenium, quod literis etiam
+maximopere mihi commendavit,<f1>Johannes Zwick an Ambrosius Blarer, 12. September 1542, Blarer BW II 143, Nr. 964.<fe>
+ita ut de rationibus iuvandi studia illius sępe ac multum mecum cogitarim, quas iam sua mihi benignitate dominus suppeditavit.
+^$Quod si forte proxime urbem vestram pagus aliquis esset<fx>esset ^#/+über der Zeile nachgetragen.^#/-<fe>, qui verbi ministrum desideraret,
+sed talem, qui singulis septimanis semel forte concionaretur
+nec cunctum se illi addiceret, operę precium vos facturos scio, si hunc Conradum
+huic functioni destinaveritis;
+id quod, ut etiam mea caussa faciatis, quam possum, vos obnixe obsecro et obtestor.
+Ex re enim istuc fuerit hominis duplici nomine, quandoquidem ad dicendi facultatem plurimum hoc illi adferet momenti, deinde etiam, quantulumcunque id erit, quod ei pro labore numerabitur, auctarium fuerit ad illos 80 fl., unde codices usui sibi futuros comparare queat.
+^$Valde autem et illud te oro, ut ordinem aliquem studiorum pro numero et modo lectionum vestrarum illi indices, quo felicius et maturius ad frugem, quam spectamus, promovere possit,
+necnon ut, sicubi opus fuerit, diligenter ipsum admoneas et obiurges omninoque in viam revoces, si forte praevaricari perrexerit, quamquam bona spes habet animum illum fore optimum sui moderatorem.
+Interim tamen merito sum sollicitus, ne illi, quod plęrisque, accidat; cupio igitur vos quoque hic
+advigilare, ut ne frustra fiant sumptus.<f1>Blarers Befürchtung war nicht unbegründet. So sollte Hofherr in Blarers weiterer Korrespondenz meist in Zusammenhang mit seinen Schulden erwähnt werden; s. Blarer BW II Reg.<fe>
+Nihil de aliis rebus scribendum iam duxi, quod nesciam, quando Conradus istuc profecturus sit.
+^$Tu bene vale, mi venerande et charissime frater, meque domino diligenter
+commenda cum omnibus tuis, quibus etiam meis verbis plurimam dices salutem.
+^$Constantiae, 17. februarii<fx>^#/+Dahinter von der Hand Traugott Schieß':^#/- 1545.<fe>.
+<un>Tuus Amb. Bl.
+<lz><vl>658v.</vl> Quod tibi scripsi, etiam Theodorus<f1>Theodor Bibliander.<fe> et Gvaltherus nostri sibi scriptum accipiant, velim.
+<lz>[Adresse darunter:] Clarissimo virod. Heinricho Bullingero,
+Tiguricensis ecclesię antistiti syncerissimo, venerando suo atque charissimo fratri.
+<lz>[Nachschrift unter der Adresse:] Ille propediem sequetur, si tamen non antevortit.
+</content>
+</letter>

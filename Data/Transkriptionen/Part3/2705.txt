@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2705">
+<brief>
+<id>16392</id>
+<nr>2705</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-12-06"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 6. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 44 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, S. 401f, Nr. 15; <br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 152-154, Nr. 18<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 118; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 230 (Schmidt); Madrid BN, 8862, f. Ddro 12; Teildruck: Edward Boehmer, Spanish Reformers of two Centuries, Bd. 1, Straßburg 1874. ─ Bibliotheca Wiffeniana, S. 207. (Boehmer, Dryandri ep.: Hd II 2259; García: Hd II 1023)</k></dr>
+<re><t>Vor kurzem hat Enzinas einem Angestellten [...] des Druckers Christoph [Froschauer] seinen Brief an Bullinger [<qv>nr2694</qv>] mit einem Buchpaket anvertraut. Darin befanden sich einige kleinere Drucke für [Hieronymus] Sailer. Enzinas schickt nun mit dem gegenwärtigen Boten [...] erneut Bücher für Sailer.</t>
+<t>Wie gefällt denn Bullinger die schreckliche Geschichte [von Juan Diaz]?
+<fn>Gemeint ist die "Historia vera de morte Diazii"; s. <qv>nr2654</qv>, <qv>fn16343-2</qv>.</fn> Er wird bestimmt zugeben müssen, dass diese Angelegenheit eines Berichts bedurfte! Was soll man aber machen, wenn dafür kein Schreiber zur Verfügung steht? Dann muss man selbst zur Feder greifen, auch wenn man weder ein sehr guter Schriftsteller noch Historiker ist, um den Ansprüchen der Gelehrten gänzlich genügen zu können. Wichtig ist es, dass [nun auch] die Letzteren über diesen Vorfall informiert werden. Vielleicht schreibt Enzinas einmal etwas Besseres dazu.</t>
+<t>[Oswald] Myconius hat den an ihn gerichteten Brief Bullingers [<qv>nr2695</qv>] auch Enzinas gezeigt. Was für eine traurige Nachricht! Fast das Gleiche wurde aus Straßburg berichtet.
+<fn>Anspielung auf Martin Bucers Brief an Myconius vom 20. November 1546 (<a>Henrich, Myconius</a>, Nr. 1030), wo ebenfalls schlechte Nachrichten zur Kriegsentwicklung, besonders zur Lage in Sachsen, übermittelt werden.</fn></t>
+<t>Von [Hieronymus] Sailer aber erfuhr man
+<fn>Der nicht erhaltene Brief war auf Sailers Geheiß von Matthias Claudius an Enzinas am 29. November in St. Gallen geschrieben worden; s. <qv>nr2702</qv>,<qv>zl16390-1</qv>.</fn> viel Erfreulicheres. In einem Scharmützel sollen dem Kaiser [Karl V.] 2'000 Reiter getötet worden sein. Er selbst sei mit 8 Reitern nach Lauingen geflüchtet.</t>
+<t>Erfährt Bullinger etwas Neues zur letzten Nachricht oder sonst etwas, möchte er berichten. Falls ihm ferner Verbürgtes über die Badener Tagsatzung zuteilwird, soll er darüber an Sailer schreiben.</t>
+<t>Grüße, auch an die Kollegen.</t></re> <textweg>
+<div>
+<p>S. D. Superioribus diebus ad te scripsi
+<fn>am 26. November.</fn> per famulum
+<fn>Unbekannt.</fn> Christophori typographi
+<fn>Christoph Froschauer.</fn>, cui tradidi sarcinulam librorum, quam arbitror tibi esse traditam. In ea continebatur alia quaedam parva mittenda ad Sailerum. Rursus per hunc aurigam alios libellos mitto, quos ut transmittas ad eundem Sailerum magnopere oro.</p>
+</div>
+<div>
+<p>Cupio ex te cognoscere, quomodo tibi probatur sordidula historiae narratiuncula. Argumentum sane erat, ut ex materia ipsa perspicere potuisti, dignum, in quo aliquis artifex elaborasset. Sed quid facias, quando nullus eorum est, qui cum laude istiusmodi argumenta tractare possint, qui manum admoveat? Certe voluntas nostra laudanda erit, etiamsi conatus non per omnia eruditorum auribus satisfaciat. Illud sane non possum non dolere aliquid forte detractum esse dignitati rerum propter orat[ionis]
+<fa><i>Textverlust bei Entfernung des Siegels.</i></fa> tenuitatem et ordinem fortasse perturbatiorem. Utcunque sit, iuvabit eruditioribus argumentum suppeditasse, et si vita contingat et aliquid melius a nobis praestari poterit, non negligemus occasionem.</p>
+</div>
+<div>
+<p>Ostendit Myconius literas tuas
+<fn>vom 27. November.</fn>, quae nobis tristissimum nuncium attulerunt, etsi enim eadem ipsa prius ex Argentina ad nos fuerant perscripta.</p>
+</div>
+<div>
+<p>Tamen postea intelleximus longe his contraria. <zzl>zl16392-1A</zzl>Nominatim ego accepi a Sailero de clade caesaris
+<fn>Karl V.</fn>, cuius in parvo praelio duo millia equitum ceciderunt atque ipse cum octo equitibus coactus fuit confugere in oppidum Luingum
+<fn>Lauingen.</fn>.<zzl>zl16392-1E</zzl></p>
+</div>
+<div>
+<p>Quicquid habes vel de hac clade vel aliunde, nobis communica, et si quid certi accepisti de comiciis Helvetiorum, indica Sailero.</p>
+</div>
+<div>
+<p>Saluta meis verbis omnes fratres. Vale. Basileae, 6. die decembris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero. Tiguri.</p>
+</div> </textweg>
+</brief>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1157">
+<nr>1157</nr>
+<correspondents>
+	<originator>Eberhard von Rümlang</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>6. August 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 360, 341 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Übersendet Sebastian Meyers Apokalypsenkommentar zur Begutachtung und bittet um eine Einleitung oder ein empfehlendes
+Geleitwort von Bullinger, Leo [Jud] oder Bibliander; für den Fall, daß sie dazu nicht bereit sind, hat er einen eigenen
+Entwurf verfaßt. Kann Bibliander jetzt nicht schreiben; hat wegen Arbeitsüberlastung bisher nichts von sich hören lassen.
+</re>
+<tx>S. Mitto ad te, doctissime simul et integerrime
+Bullingere, apocalypsim Iohannis opera Sebastiani Meyer<fx>^#/+nach^#/- Meyer^#/+ ein gestrichenes, unlesbares
+Wort.^#/-<fe> illustratam<f1>Sebastian Meyer, In apocalypsim Iohannis apostoli ... commentarius, Zürich [1539] (BZD C 281).^&xs. Petra
+Roettig, Ref. als Apokalypse, GD XIX 1042^&x{<fe>, opus profecto non levi diligentia congestum, quod plane sub nutum censuramque
+tuam committimus hoc nomine, si non excudendum videatur, ut certo nuntio incorruptum et integrum remittas. Titulum tu, si
+perspexeris<fx>^#/+korrigiert aus^#/- persperis.<fe> librum<fx>librum ^#/+über der Zeile nachgetragen.^#/-<fe>,
+adiungito, atque velim te praefari quoque in librum, sin minus, testimonio saltem tuo commendari comprobarique. Si
+hoc quoque grave videatur, ut non confido, velim vel Leonem<fx>^#/+nach ^#/-Leonem ^#/+gestrichenes ^#/-alium.<fe><f1>Leo
+Jud.<fe> vel Bibliandrum in eum praefari testimonioque suo libro adesse. Quod si nullus vestrum hoc munus subire velit, poteris,
+si videatur, quam ego consarcinavi tumultuariam meditationem<fx>^#/+nach ^#/-meditationem ^#/+gestrichenes
+^#/-et.<fe><f1>Der Entwurf wurde nicht verwendet (vgl. den Brief Eberhards von Rümlang an Bullinger vom 13. Februar 1539,
+Zürich StA, E II 346, 115) und scheint auch nicht erhalten zu sein; das Werk erschien mit einer Einleitung und einem
+Nachwort von Sebastian Meyer.<fe> praefationis vice adiungere, tametsi rudem et agrestem nullaque parte excultam, at integro
+animo profectam. Hanc vix semel recognoscere, nedum describere vacabat nuntio<f1>Quirinus von Leiden; vgl. unten Nr. 1207,
+1f.<fe> moleste instante abitumque petente.
+^$Scripsissem quoque Bibliandro, si vacaret, et quod hactenus
+nihil literarum ad vos dederim, immensę occupationes
+meę in causa fuere, multa siquidem senatus negotia me
+expectarunt rationesque omnium praefectorum<f1>Gemeint sind die Jahrrechnungen der Vögte.<fe>; quę<fx>^#/+nach ^#/-quę
+^#/+gestrichenes ^#/-omni.<fe> ubi primum expedivero, ut negotia scribendi otium suppeditent, non committam, quin vos literis
+meis neniisque satis obtundam. Sed novi facilitatem candoremque tuum etc. Queso, boni consule meque commendatum habeatis, et si
+quid a me fieri velis, facito certiorem; experiere et senties me tibi obsequentissimum et paratissimum fore.
+^$Datum Bernę, 8. idus augusti anno 1538.
+<un>Totus tuus Eberardus
+<un>a Rümlang, Vituduranus.
+<lz>[Adresse auf der Rückseite:] Doctissimo et
+integerrimo virod. Henricho Bullingero, ecclesiastę
+Tigurino primario, amico suo semper observando colendoque.
+</content>
+</letter>

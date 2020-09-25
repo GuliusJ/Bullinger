@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2446">
+<brief>
+<id>16133</id>
+<nr>2446</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 13. Mai 1546</od>
+<vo>Autograph
+<fa><i>Mit Unterstreichungen.</i></fa>: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 142 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 446f, Nr. 1288<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 119; Ms S 60, 88 </k></dr>
+<re>Wegen der unmittelbar bevorstehenden öffentlichen Schulprüfung kann Bullinger nur ganz kurz auf Blarers Briefe [<qv>nr2437</qv> und <qv>nr2444</qv>] eingehen. Er bedauert, dass Blarers Begegnung mit [Hans Wilhelm von Laubenberg] ergebnislos blieb, wobei er wohl weiß, dass fast alle Schwenckfeldianer unheilbar sind. Es ist ein schweres Vergehen, das Geheimnis der Fleischwerdung Christi anzugreifen und zu verdrehen.
+<t/>Sollte [Konrad] Hofherr seinen Hochmut ablegen, würde ihm dies zugutekommen, und er würde sich Blarer gegenüber respektvoller benehmen.
+<t/>Bullinger weiß, dass Kaiser [Karl V.] dem [Schmalkaldischen] Bund schaden will. Von Verrätern hat dieser gehört, dass die Eidgenossen den Deutschen zugetan sind. Daher hat er einen burgundischen Boten [Jean Mouchet de Poligny?] nach Zürich entsandt, der am [10. Mai] vor dem Rat erschien und ein überaus freundliches Schreiben des Kaisers überreichte. Darin betonte der Kaiser, entgegen dem Gerücht, nichts gegen die Eidgenossen zu planen, sondern ihnen freundlich gesinnt zu sein. Einige glauben das! Falls Blarer weiß, wer hinter dieser Sache steckt, möge er berichten.
+<t/>Auch über die Verlängerung des [Schmalkaldischen] Bundes und über dessen Tag zu Frankfurt sowie über den Reichstag zu Regensburg und den angeblichen Wunsch der Straßburger und Ulmer, sich aus dem [Schmalkaldischen Bund] zurückzuziehen, soll Blarer nach Möglichkeit Auskunft geben.
+<t/>Bullinger weiß nicht, ob [die Erscheinung bei] Luzern, von der man auch in Zürich spricht, glaubhaft ist. Denn wollte Gott ein Volk warnen, würde er nicht nur einen oder zwei betrunkene Gesellen davon in Kenntnis setzen. Das Gerücht über den Fund unverwester Leichen bei Kappel ist erdichtet. Die Herren aus Kappel [Schaffner Hans Steinbrüchel und Dekan Peter Simler] bestätigten dies auf Bullingers Anfrage.
+<t/>Der Metzger [...], den Bullinger nicht antraf, übermittelte Blarers letzten Brief [<qv>nr2444</qv>] mit der beigelegten Abschrift von [Bullingers] Brief an Melanchthon [<qv>nr2404</qv>]. Möge der letzte Brief gute Folgen haben, zumal Bullinger Streitigkeiten nicht liebt. Die Briefe für [Jakob] Ruf, [Rudolf] Gwalther und Benedikt [Euander] wurden jedem persönlich übermittelt. Seitdem ist Bullinger Ruf nicht mehr begegnet.
+<t/>Er muss nun zur Prüfung. </re>
+<text>
+<p>Gratiam et pacem. Examen illud publicum nostrarum scholarum
+<fn>Als Zürcher Antistes war Bullinger gleichzeitig Examinator. Die Prüfungen fanden gewöhnlich um Ostern und im Herbst statt; s. Ulrich <i>Ernst,</i> Geschichte des Zürcherischen Schulwesens bis gegen das Ende des sechzehnten Jahrhunderts, Winterthur 1879, S. 87. 97.</fn> cogit me esse brevissimum, Ambrosi suavissime. Binis tuis respondeo
+<fn>Blarers Briefe vom 28. April (<qv>nr2437</qv>) und 11. Mai (<qv>nr2444</qv>).</fn>. <zzl>zl2446-1A</zzl>Doleo te nullo cum fructu contulisse cum Schwencfeldii discipulo
+<fn>Hans Wilhelm von Laubenberg zu Wagegg, der auf Besuch in Konstanz war; s. <qv>nr2437</qv>,<qv>zl2437-1</qv>.</fn>, quamvis videam illius discipulos omnes fere incurabiles esse.<zzl>zl2446-1E</zzl> Grave enim est mysterium incarnationis filii dei impetere et ad animi nostri sensum retorquere. Dominus misereatur illorum!</p>
+<p>Curio
+<fn>Zu Konrad Hofherr s. zuletzt <qv>nr2437</qv>,<qv>zl2437-5</qv>. <qv>zl2437-6</qv>.</fn>, si sapit, cristas ponet
+<fn><a>Adagia</a> 1, 7, 69 (<a>ASD</a> II/2 294, Nr. 769).</fn> et diligentius porro res suas curabit magisque beneficium te reverebitur.</p>
+<p>Nihil dubito de caesaris
+<fn>Karl V.</fn> infesto in foedus evangelicum
+<fn>Der Schmalkaldische Bund.</fn> animo. <zzl>zl2446-5A</zzl>Audi, quid his designarit diebus! Animadvertit animos Helvetiorum propendere ad Germanos. Sunt enim et nobis homines proditores, qui ea, quae apud nos aguntur, caesari nunciant. Da hat er ein botten gen Zürych gesandt
+<fn>Die Gesandtschaft wurde am Montag, 10. Mai, vom Zürcher Rat empfangen; s. Zürich StA, Ratsprotokolle, B II 64 (28. April bis 31. Mai 1546), S. 20 (ohne Angabe von Namen). Vielleicht handelt es sich beim Gesandten um Jean Mouchet de Poligny, der in ähnlicher Mission am 7. Juli auf dem Tag zu Baden anwesend war und auch schon 1544 als Bote fungiert hatte; s. <a>EA</a> IV/1d 629. 633 i1. 640f zu i1; Bettina <i>Braun,</i> Die Eidgenossen, das Reich und das politische System Karls V., Berlin 1997 - Schriften zur Verfassungsgeschichte 53, S. 169, Anm. 159. 280, Anm. 234. 448f.</fn> mitt bef{ae}lch und geschrifften
+<fn>Der erhalten gebliebene Brief des Kaisers datiert von Luxemburg, 12. März 1546 (Zürich StA, A 176.2, Nr. 152). - Der Name des "uberanntworters ditz Briefs" ist im Schreiben nicht genannt.</fn>. Die sind nun uß der massen schnitzig
+<fn>gut gewillt.</fn>. Man weist ouch nitt, das er ye gen Zürych und gemeinen eydgnossen habe früntlicher geschriben. Und ist die meynung, er werde den eydgnossen yngebildet
+<fn>dargestellt.</fn>, alls ob er unfrüntlichs und dückischs gen inen fürnemme, etc. Das sye gar nitt! Er sye mitt inen wol zefriden, etc., und sy s{oe}llind niemants glouben, der anders fürg{ae}be, etc. Intelligis, quo haec pertineant. Quidam his blanditiis credunt, alii fucum intelligunt. <zzl>zl2446-4A</zzl>M{oe}gend ir wüssen, in was haffen
+<fn>Topf.</fn> und wo diser pry
+<fn>Brei.</fn> kochet,
+<fn>in was haffen und wo diser pry kochet: wer hinter der Sache steckt.</fn> lassend uns wüssen.<zzl>zl2446-4E</zzl><zzl>zl2446-5E</zzl> Der bott was ein Burgundier und ist mentags vergangen vor radt xin.</p>
+<p>Si quid habes de foedere reparato
+<fn>Die Verlängerung des Schmalkaldischen Bundes.</fn>, de comitiis vel Francfordiensibus
+<fn>Der Schmalkaldische Bundestag zu Frankfurt, der allerdings im April seine Tagung in Worms fortsetzte; s. <qv>nr2351</qv>, <qv>fn2351-2</qv>.</fn> vel Ratisbonensibus
+<fn>Der Reichstag zu Regensburg, der noch nicht begonnen hatte; s. <qv>nr2331</qv>, <qv>fn2331-2</qv>.</fn>, fac sciam. Quidam putant Argentinenses et Ulmenses missionem petituros.
+<fn>Vgl. nämlich <qv>nr2422</qv>,<qv>zl2422-6</qv>.</fn> Quid?</p>
+<p><zzl>zl2446-6A</zzl>Ob das waar sye, das man von Lucern sagt,
+<fn>Zur Erscheinung in Nebikon, Kt. Luzern, s. <qv>nr2437</qv>,<qv>zl2437-3</qv>.</fn> weiß ich nitt. Es ist hie ouch also ein gassenm{ae}r
+<fn>Gerücht.</fn> xin. Niemandts gipt imm glouben. Dann wenn gott durch zeichen ein volck schrecken und warnen wil, last er die zeichen nitt einem alein oder zwen winiger xellen
+<fn>winiger xellen: betrunkener Gesellen.</fn> s{ae}hen, sunder, etc. Das z{uo} Cappel funden syend unverw{ae}ßne lüt, ist offentlich
+<fn>offenbar.</fn> erdicht
+<fa><i>Durch Wasserschaden sind außer</i> er <i>und</i> cht <i>weitere Buchstaben nicht zu erkennen.</i></fa>,
+<fn>Zum angeblichen Fund bei Kappel s. <qv>nr2437</qv>,<qv>zl2437-4</qv>.</fn> dann den herren von Cappel
+<fn>Damit meint Bullinger wohl Hans Steinbrüchel, Schaffner in Kappel (s. <a>Bächtold, Rat</a> 207), und Peter Simler, Dekan des Kapitels Freiamt.</fn> hab ich drumb selbs gevragt, diewyl das gschrey ouch by uns was.<zzl>zl2446-6E</zzl></p>
+<p><zzl>zl2446-2A</zzl>Iam ad postremas
+<fn><qv>nr2444</qv> vom 11. Mai.</fn>, quas heri mihi tulit lanius
+<fn>Unbekannt; vgl. schon <qv>nr2330</qv>,<qv>zl2330-1</qv>; <qv>nr2354</qv>,<qv>zl2354-2</qv>; und <qv>nr2366</qv>,<qv>zl2366-7</qv>.</fn> (quem tamen non vidi)
+<fa><i>Klammern ergänzt.</i></fa><zzl>zl2446-2E</zzl> respondeo. Recepi literas d. Melanchtoni inscriptas,
+<fn>Die Abschrift von Bullingers Brief an Melanchthon vom 1. April (<qv>nr2404</qv>); vgl. <qv>nr2444</qv>,<qv>zl2444-1</qv>.</fn> et oro dominum tecum, ut bene cadant. Non enim delector dissidio. <zzl>zl2446-3A</zzl>Literas R{ue}fio
+<fn>Jakob Ruf.</fn> et Gvalthero, Benedicto
+<fn>Benedikt Euander, Schulmeister der Lateinschule am Großmünster.</fn> item inscriptas tradidi <vl>142v.</vl> singulas singulis.
+<fn>Zu den von Blarer zur Übermittlung an Bullinger gesandten Briefen an Ruf und Gwalther s. <qv>nr2444</qv>,<qv>zl2444-4</qv>. Der Brief an Euander ist dort nicht erwähnt.</fn><zzl>zl2446-3E</zzl> Chirurgum,
+<fn>Jakob Ruf.</fn> alioqui familiarem, mihi nondum conveni. Plura iam non possum, nam vocor in examen.</p>
+<p>Vale ergo cum tuis omnibus. Tiguri, 13. maii anno 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse darunter:] Fidelissimo Christi servo d. Ambrosio Blaurero, fratri longe charissimo et plane suo. Constantz.
+<fa><i>Darunter Blarers Empfangsvermerk:</i> 14. maii 15[46]. <i>Die zwei letzten Zahlen sind aufgrund von Papierverlust nicht mehr erhalten.</i></fa></p>
+</text>
+</brief>

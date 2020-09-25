@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2163">
+<nr>2163</nr>
+<correspondents>
+	<originator>Camillo Renato</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chiavenna</place>
+	<date>15. Mai 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2078 (Siegelspur)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 96; Zit.: Trechsel, Prot Antitrinitarier II 86; P. Dalbert 28, 33ff; G. H. Williams, Renato 144; Rotondò, Renato-Opere 303 ^&x{
+<re>Renato dankt für Bullingers Brief [nicht erhalten] und für die ["Orthodoxa Tigurinae ecclesiae confessio"] der [Zürcher]. Über das Abendmahl lehren Renato [und seine Pfarrkollegen] sozusagen dasselbe [wie die Zürcher], denn auch sie erkennen nichts anderes im Abendmahl als ein Gedächtnis des Todes Christi, durch den der Mensch von der Macht der Finsternis in das Reich des Lichtes aufgenommen wird. Anders Lehrende haben keine Chancen bei ihnen.
+-^#. Angeblich soll der einflussreiche Peter Finer Bullinger bald besuchen. Bullinger möge Renato bei Finer wärmstens empfehlen, zumal dessen Sohn [Johann Jakob] nun als Commissari des Veltlins<f1>Richtig: als Vicari in Sondrio; s. Handbuch der Bündner Geschichte IV 302.<fe> beim Präfekten [Jörg Beeli von Belfort]<f1>Landeshauptmann in Sondrio; s. aaO.<fe> wirkt. Bullinger soll Peter Finer auch die Sache des Evangeliums ans Herz legen.
+-^#. Vom Konzil zu Trient ist nichts Ernstes zu erwarten. Angeblich befinden sich dort immer noch nur drei Kardinäle [Giovanni Maria Ciocchi del Monte, Marcello Cervini und Reginald Pole]<f1>Siehe oben Nr. 2153, Anm. 40.<fe>, die unter dem Vorwand des Konzils für ihre Mägen sorgen und der unerfahrenen Menge glaubhaft machen, dass es nicht an ihnen liege, wenn die Religions[sache] nicht geregelt wird.
+-^#. In Italien gedeiht die Frömmigkeit gut.
+-^#. Die Brüder grüßen und beglückwünschen [die Zürcher] zu ihrem Bekenntnis. Irgendwann wird Renato Bullinger besuchen.
+-^#. Renato ist nicht Prediger in Tirano, sondern Schulmeister im Veltliner Städtchen Traona, was ihn dennoch nicht davon abhält, [das Evangelium] zu bekennen.</re>
+<dra>[Gedruckt: Epistolae ineditae, in: Museum Helveticum V/19, Zürich 1751, 479f (ohne Datum); Petrus Dominicus Rosius ^#/+a Porta,^#/- Historia Reformationis Ecclesiarum Raeticarum, Bd. 1/2, Chur 1771, S. 45, Anm. c (ohne Datum); Graubünden, Korr. I 74f, Nr. 58; ^#/+Renato,^#/- Opere 140f, Nr. 4.]</dra>
+^&x<tx>Henrico Bullingero Camillus Renatus pacem et gratiam a domino.
+^$Accepi literas tuas, accepi cum his quoque confessionem vestram. Tantas me tibi gratias agere,
+velim, scias de dono, quam gratum christiano homini donum arbitrere, eoque maiores, quo vestra magis nostrę sententia respondet de coena domini.
+Ita propemodum nostros homines docemus, ut (quod ad hanc rationem pertinet) Camillum dicere possis Bullingerum et Bullingerum Camillum.
+Quam ob rem nihil dubites, quin mihi proberis vel potius probentur, quicunque eo pervenerunt, ut ipsum idem sentiant.
+Nihil enim in coena, quam a Christo institutam, ab apo­s­­to­lis usurpatam celebrare nuper instituimus,
+pręter memoriam mortis Christi, qua a satanę tyrannide et potestate tenebrarum in regnum lucis asciti sumus,
+agnoscimus, ut nihil putes a nobis impetraturos, qui aliter sentiunt ac docent.
+Id vero commodius explicabimus, ubi maius erit otium, teque certiorem faciemus.
+^$Nunc enim hęc tantum ad te, quodd. Petrum Phinerium<f1>Peter Finer.<fe>, cuius nunc primum hic amicitiam conflavimus,
+ad te propediem venturum audiverimus, virum summę autoritatis et (ut audio) pietatis studiosissimum,
+cui ut me (ita enim videtur) plurimum commendes, etiam atque etiam rogo, neque id solum,
+sed ut religioni ex animo faveat et iis, qui publice profitentur, non desit, nunc pręsertim
+cum eius filius legatum, quem commissarium appellant, agat apud pręfectum Vallis Tellinę.
+^$De concilio Tridentino nihil serium expectes. Aiunt tres cardinales ibi etiam nunc commorari
+atque concilii nomine indulgere, ut solent, ventri, nihil plane facturos quam imperitę multitudini
+per se non stetisse, quominus res religionis componeretur, ostentaturos. Nosti hominum ingenia, nosti mores.
+Res pietatis bellisime procedunt in Italia, optime cessurum speramus; id ut quam ocyssime eveniat, comprecemur.
+^$Salutant te fratres atque vobis omnibus de eiusmodi confessione<f1>HBBibl I 167f.<fe> gratulantur. Salutabis nobis ecclesiam Tigurinam; aliquando ad te advolabo. Bene valete idque in domino.
+^$Ego non Tirani concionatorem ago, sed Trahonę, quod est oppidulum Vallis Tellinę, ludimagistrum; non silemus tamen.
+^$<vl>2078v./2079(?)</vl> Clavennę, 15^#'o maii 1545.
+<lz>[Adresse darunter:] Preclaro evangelicę veritatis ministrod. Henricho Bullingero, suo in domino fratri observandissimo. Tiguri.^&x{
+</content>
+</letter>

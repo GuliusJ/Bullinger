@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2645">
+<brief>
+<id>16335</id>
+<nr>2645</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-10-27"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>Konstanz, 27. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 206f (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 526-528, <br/>Nr. 1364<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 44</k></dr>
+<re><t>Gestern empfing Blarer Bullingers Brief [nicht erhalten], den dieser allerdings schrieb, ehe er den von Blarer an Johannes von Ulm übergebenen Brief [<qv>nr2644</qv>] bekam. Auch [Thomas] Blarer war über das Treffen mit Bullinger [in Zürich] sehr erfreut und bedauert, dass er nicht länger bleiben konnte.</t>
+<t>Blarer ist dankbar, dass Bullinger die Botenangelegenheit regeln konnte. Der einäugige Zürcher [Bote Felix Schubinger] hat dem Konstanzer Boten [...] gestanden, dass er von den Zürcher Bürgermeistern [Hans Rudolf Lavater und Johannes Haab] in Anwesenheit [Thomas] Blarers zurechtgewiesen wurde, um Verzeihung bat und Besserung versprach.</t>
+<t>Das Schicksal des [Schmalkaldischen] Krieges muss man tragen, da man es nicht ändern kann. Die Gebete [der Protestanten] werden wohl nicht vergebens sein, auch wenn Blarer kaum einen glänzenden Sieg [der Schmalkaldener] erwartet, weil diese zu wenig an ihren eigenen Kräften zweifeln und sich ihrer Sünden nicht bewusst genug sind, um sich ganz auf Gott zu verlassen. Auch fehlt es an wahrem Eifer im Beten und Handeln, wie es die Heilige Schrift verlangt. Dennoch hofft Blarer, dass der Herr [den Protestanten] sein Reich nicht verweigert, sondern in ihnen die Sehnsucht danach und das Vertrauen auf Christi Erlösung stärken wird.</t>
+<t>Blarer ist über die neuen Grausamkeiten der Könige von Frankreich [Franz I.] und England [Heinrich VIII.] entsetzt! Gewiss sucht [Franz I.] damit die Gunst des Papstes [Paul III.], um diesen besser vom Kaiser [Karl V.] entfremden zu können. Inzwischen schmeichelt er sich auch bei [den Schmalkaldenern] ein und besticht sie mit Geld, weil es in seinem Interesse ist, dass der Kaiser nicht noch mächtiger wird. Doch wird ihm dies kein Glück bringen, zumal er dabei das Blut von Christen vergießt. Gott ertappt nämlich die Schlauen in ihrer Verschlagenheit.</t>
+<t>Man schreibt, dass der Kaiser seinen Abzug über die Donau vorbereite, doch weiß man nichts Sicheres darüber. Er ist verschlagen und windet sich wie eine schlüpfrige Schlange, um der Gefahr zu entkommen. Jedoch sind auch seine Tage gezählt, und seine Pläne gegen den Herrn werden erfolglos bleiben.</t>
+<t>Grüße.</t></re>
+<text>
+<div>
+<p><vl>207</vl> Gratia Christi tecum. Heri tuas
+<fn>Nicht erhalten.</fn>, mi venerande Bullingere, accepi, pariter autem <zzl>zl16335-1A</zzl>nondum acceptis illis
+<fn>Gemeint ist Blarers Brief <qv>nr2644</qv> vom 26. Oktober.</fn>, quae
+<fa>quae <i>fehlt in der Vorlage.</i></fa> per adulescentem Ioannem ab Ulmis ad te scripsi.<zzl>zl16335-1E</zzl> <zzl>zl16335-3A</zzl>Frater
+<fn>Thomas Blarer, der den Tag der Vier protestantischen Orte in Zürich (s. dazu <qv>nr2606</qv>, <qv>fn16294-1</qv>) besucht hatte; s. <qv>nr2636</qv>,<qv>zl16326-2</qv>.<zfn>fn16335-3</zfn></fn> vicissim affirmat
+<fn>So schon in <qv>nr2644</qv>,<qv>zl16334-2</qv>.</fn> se magna voluptate Bullingerum coram vidisse et audisse. Interim valde sibi doluit, quod diutius illa sibi frui non licuit.<zzl>zl16335-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16335-4A</zzl>Tabellariorum negocium feliciter confectum gratulor tibique magnam hoc nomine gratiam habeo.<zzl>zl16335-4E</zzl> <zzl>zl16335-2A</zzl>Unoculus vester
+<fn>Felix Schubinger; s. <qv>nr2635</qv>,<qv>zl16325-10</qv>.</fn> nostro tabellioni
+<fn>Unbekannt.</fn> ultro confessus est se acriter obiurgatum a vestris consulibus
+<fn>Hans Rudolf Lavater und Johannes Haab.</fn> praesente meo fratre ignoscique sibi petiit meliora pollicitus.<zzl>zl16335-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16335-5A</zzl>Fatum belli nostri ferendum nobis erit, quandoquidem mutare non possumus. <zzl>zl16335-6A</zzl>Sperabimus autem haudquaquam frustratum iri tot filiorum dei pia ardentissimaque vota, tametsi ob non parum multas nec leves caussas
+<fa><i>Am Rande nachgetragen.</i></fa> splendidam nostris de hoc hoste victoriam polliceri haudquaquam ausim,<zzl>zl16335-6E</zzl> praesertim cum nondum videam veram de viribus nostris diffidentiam nec dignam pro peccatis nostris consternationem, sine qua haud unquam plena in domino fiducia poni potest. Omnino profecto nusquam animadvertimus in nostris publicam et iustam sive praecandi sive agendi <gr>ȏrmh́n</gr>
+<fn>Eifer.</fn>, qualem praesens patri{e} et religionis periculum iuxta scripturarum exempla requirit,
+<fn>Siehe z.B. Dtn 30, 1-10; Jer 29, 11-14; Jo 2, 12-17.</fn> ut ne alia tibi commemorem, non minus me terrentia. Confido tamen dominum non prorsus ablaturum a nobis suum regnum, sed desiderium eius amplius in nobis accensurum, quando id publice nondum adeo qu{e}ritur et ante omnia expetitur Christus rex et servator noster, qui in hoc venit
+<fa><i>In der Vorlage folgt</i> in.</fa> mundum, ut quaereret et servaret, quod periit.
+<fn>Lk 19, 10.</fn> Quamprimum nos ad se vera resipiscentia convertat et salvi simus!
+<fn>Blarer argumentiert in diesem Absatz in enger Anlehnung an den an ihn gerichteten Brief Bucers vom 18. Oktober 1546 (<a>Blarer BW</a> II 522f, Nr. 1358).</fn><zzl>zl16335-5E</zzl></p>
+</div>
+<div>
+<p>Ad novam istam Galli{e}
+<fn>König Franz I. - Zu den Hinrichtungen von Protestanten in Frankreich von 1546, besonders der von 14 Männern in Meaux am 6. Oktober 1546, s. Religion, Reformation and Repression in the Reign of Francis I. Documents from the Parlement of Paris, 1515-1547, hg. v. James K. Farge, Bd. 2: Documents 1544-1547, Toronto 2015, Nr. 997, S. 1097-1104; Jean <i>Crespin</i>, Histoire des martyrs (1619), Nachdruck Toulouse 1885, S. 493-501; Theodor <i>Beza</i>, Histoire ecclésiastique des Eglises réformées au Royaume de France (1580), Bd. 1, Nachdruck Paris 1883, S. 67-72; H[erbert] M[orris] <i>Bower</i>, The Fourteen of Meaux: An account of the earliest "Reformed Church" within France proper, London 1894 (Nachdruck von Proceedings of the Huguenot Society of London, Bd. 5, Jg. 1885).<zfn>fn16335-1</zfn></fn> et Angli{e} monarcharum
+<fn>König Heinrich VIII. - Zur Hinrichtung von Anne Askew und anderen englischen Protestanten im Sommer 1546 s. John <i>Foxe</i>, Acts and Monuments [1576], hg. v. Stephen Reed Cattley, Bd. 5, London 1838, S. 530-553 (auch online unter www.johnfoxe.org).<zfn>fn16335-2</zfn></fn> crudelitatem plusquam tyrannicam totus cohorrui. <zzl>zl16335-7A</zzl>Quod Gallus facit, in gratiam, non dubito, pontificis
+<fn>Paul III.</fn> facit, quo illum sibi propicium retineat faciliusque a caesare
+<fn>Karl V.</fn> (quod iam moliri ipsum nonnulli putant)
+<fa><i>Klammern ergänzt.</i></fa> alienet. Interim nostris quoque non vulgaribus rationibus se insinuat illosque sibi magna vi auri obstringit,
+<fn>Zu den Hilfsangeboten Franz' I. an die Schmalkaldener, u.a. durch Piero Strozzi, s. <qv>nr2610</qv>,<qv>zl16298-5</qv>; <qv>nr2612</qv>, <qv>fn16301-6</qv>.</fn> quod ita in rem suam esse credat, si non porro crescat caesar. Verum non poterit hoc illi felix esse, quod tanta christiani sanguinis iactura efficere conatur. Dominus est, qui comprehendit sapientes in sua ipsorum astutia;
+<fn>Hi 5, 13.</fn> quem efflictim pro afflicta sua ecclesia interpellamus.<zzl>zl16335-7E</zzl></p>
+</div>
+<div>
+<p><vl>206</vl> <zzl>zl16335-8A</zzl>Scribitur nunc caesarem per Danubium abitum parare,
+<fn>Vgl. schon <qv>nr2635</qv>,<qv>zl16325-7</qv>.</fn> sed sciri tamen certo non potest.<zzl>zl16335-8E</zzl> Adeo ille mirifice simulat ac dissimulat omnia sicque se multis rationibus velut lubricus anguis
+<fn>Vgl. <i>Vergil,</i> Aeneis, 5, 84.</fn> intorquet, ut elabi absque magno suorum periculo se posse confidat. Sed stat etiam ipsi sua dies,
+<fn>Hi 14, 5.</fn> nec ullum valebit consilium contra dominum.
+<fn>Vgl. Hi 5, 12; Ps 37 (Vulg. 36), 12-17.</fn> Huic nos cunctos permittemus,
+<fn>Vgl. 2Chr 20, 20; Ps 4, 5; 62 (Vulg. 61), 8; 115 (Vulg. 114), 11; Jes 26, 4.</fn> hunc agnoscemus fortissimum nostrum vindicem.
+<fn>Vgl. Jes 1, 24; 1Thess 4, 6.</fn> Sub ipsius alis securi ac tutissimi futuri.
+<fn>Vgl. Ps 91 (Vulg 90), 4.</fn></p>
+</div>
+<div>
+<p>In illo bene ac perpetuo vale, mi charissime et optime frater! Saluta fratres et amicos omnes cum tua domo. Nostri te diligenter salutant. Iterum atque iterum vale! Constantiae, 27. octobris 1546.</p>
+<un>Tuus Ambr. Bl.</un>
+<lz/>
+<p>[Adresse darunter:] Praestantissimo viro d. Heinricho Bullingero, fratri suo incomparabili. Tiguri.</p>
+</div>
+</text>
+</brief>

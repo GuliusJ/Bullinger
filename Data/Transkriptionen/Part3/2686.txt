@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2686">
+<brief>
+<id>16373</id>
+<nr>2686</nr> <from persid="HochholzerChristian"/> <to persid="Bullinger"/> <place plid="Aarau"/> <date when="1546-04-20"/>
+<ae>Christian Hochholzer an Bullinger</ae>
+<od>Aarau, 20. November 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 341 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 91 </k></dr>
+<re><t>Hochholzer weiß gut, dass er Bullingers Gunst nicht durch häufigeres Briefeschreiben gewinnen muss. Wenn er ihn also mit vorliegendem Brief in seiner Arbeit unterbricht, geschieht das, weil viele rechtschaffene Menschen ihn darum gebeten haben.</t>
+<t>Vor fast einem Jahr verstarb Johannes Senger, Pfarrer zu Veltheim. Er hinterließ eine schwangere Frau [...] und acht Kinder. Vor einigen Tagen ist nun auch diese mit einem der Knaben [...] verschieden. Die hinterbliebenen acht Waisen sollen durch die Mühe guter Menschen an unterschiedlichen Orten aufgezogen werden. Das älteste Kind mit Vornamen Isaak ist der Überbringer des Briefes. Er hat im Bäckerhandwerk Begabung gezeigt. Seine redlichen, aber mittellosen Verwandten wünschen, dass er in Zürich, wo es sehr gute Bäckermeister gibt, angestellt werde.</t>
+<t>Weil der Junge anständig, im Umgang mit anderen aber unerfahren und einfältig ist, haben die Verwandten Hochholzer gebeten, sich in ihrem Namen und im Namen des Verstorbenen an Bullinger zu wenden, auch wenn es sich bei dem Jungen um einen Bäcker handelt. Sie sind nämlich überzeugt, dass er, der in Zürich so einflussreich ist, in Erinnerung an den Verstorbenen etwas für dessen Sohn tun wird. Daher bitten sie Bullinger, den Knaben Jakob Sprüngli oder einem anderen tüchtigen und geschickten Bäcker zu empfehlen.</t>
+<t>Gabriel [Meyer] und die anderen Verwandten wären dafür äußerst dankbar. Hochholzer weiß ferner sehr wohl, dass der wohltätige Bullinger nicht an die christliche Pflicht gegenüber Waisen und Pfarrerskindern erinnert werden muss! Keiner bezweifelt also, dass er sich um Isaak kümmern wird.</t>
+<t>Hochholzer hat vor drei Tagen [mit <qv>nr2681</qv>] geschrieben, weiß aber nicht, ob Bullinger den Brief schon empfangen hat. Er hat zumindest darauf noch keine Antwort erhalten. Grüße.</t>
+<t>Die Berner haben 12'000 Soldaten gemustert. Davon stammen 122 allein aus dem Städtchen Aarau! Was wird denn die Zukunft bringen? Der Herr möge in seiner Gnade dieser Lage ein Ende bereiten!</t></re>
+<text>
+<div>
+<p>Graciam et pacem a domino. Veniam apud te exorare literis meis frequentioribus opus non habeo, domine colende, cum tuam erga me benevolentiam iam dudum exploratam habuerim. Verum tamen nunc non te interturbarem literis, nisi preces quorundam bonorum hominum tantum non ad tuam humanitatem literas exarare coegissent. Causam brevi audies.</p>
+</div>
+<div>
+<p><zzl>zl16373-1A</zzl>Fuit apud nos homo probus, honestus, doctus et fidelis, d. Ioannes Senger
+<fn>Johannes Senger aus Aarau, dort als Lateinschulmeister tätig. Ab 7. Mai 1539 bis zu seinem Tod im Jahre 1545 Pfarrer in Veltheim, Kt. Aargau; s. <a>Pf-Aargau</a> 137, Nr. 1065.</fn> piae memoriae. Hic ante aliquot menses, fere anni spacium, extremum clausit diem (cum aliquandiu in Veltheim
+<fn>Veltheim, Kt. Aargau.</fn> ecclesi{e} Christi summa diligentia et fide evangelium praedicasset)
+<fa><i>Klammern ergänzt.</i></fa> relicta uxore gravida
+<fn>Unbekannt.</fn> cum liberis octo. Proximis autem diebus contigit
+<fa>contigit <i>über der Zeile nachgetragen.</i></fa>, ut et ipsa, viam universae carnis profecta, mortem obierit una cum filiorum uno. Supersunt itaque liberi orphani octo, qui opera bonorum hominum hic atque illic aeducabuntur. Horum ex numero maximus est natu hic iuvenis, Isaac Senger, qui has ad te perfert literas, artem callens pistoriam. Placuit itaque cognatis ipsius, qui sunt homines probi et honesti, caeterum tenuis fortunae, ut hic Tigurum petat, ubi magistri artificii huius sint optimi, ubi alicui ad tempus serviat pro mercede.</p>
+</div>
+<div>
+<p>Et quia iuvenis est probus, caeterum omnium rerum tantumnon expers, quod attinet ad conversationem hominum, ac simplex, maximopere me rogarunt, ut hunc iuvenem et patris et ipsorum nomine tu{e} commendem humanitati, quod quidem non aegre te laturum confidebant, cum propter patrem tibi commendatum fore sperabant. Alioqui enim non ad te pertinebat, ut pistorem tibi commendaremus. Sed quia sciunt te tant{e} apud vestros esse aestimationis, ut, quem tu ames et promoveas, eum omnes promotum velint, quare hoc unum est, quod a te petimus, ut, si potest fieri, hunc iuvenem vel Iacobo Sprüngly
+<fn>Jakob Sprüngli aus der Zunft zum Weggen, 1546 Mitglied des Großen Rates in Zürich; s. <a>HBBW</a> XIII 279, Anm. 26.</fn>, vel alii cuidam probo et honesto viro eius artificii perito, commendes oresque, ut famili{e} su{e} adscribere dignetur.</p>
+</div>
+<div>
+<p>Hoc si feceris, m. Gabriel
+<fn>Der Stadtschreiber von Aarau, Gabriel Meyer.</fn> aliique boni loco maximi beneficii sunt reputaturi. Non est, ut quicquam dicam de officio, quid orphanis debeamus et maxime cooperariorum in evangelio Christi liberis, cum te sciam pro solita tua erga ministros Christi humanitate totum in hoc esse, ut quamplurimis benefacias. Multis itaque nominibus hunc Isaac tibi commendatum fore non dubitamus. Rogo, ne aegre feras. Nam hoc officii bonis illis hominibus denegare non potui.<zzl>zl16373-1E</zzl></p>
+</div>
+<div>
+<p>Scripsi ante triduum ad te.
+<fn>Mit Brief <qv>nr2681</qv> vom 17. November.</fn> Nescio, an acceperis eas literas. Ego certe a te accepi nihil. Vale. Salutant te omnes boni.</p>
+</div>
+<div>
+<p><zzl>zl16373-2A</zzl>Domini nostri Bernenses
+<fn>Aarau war damals Teil des Berner Aargaus.</fn> conscripsere ex subditis exercitum 10'000 militum,
+<fn>Siehe dazu <qv>nr2670</qv>,<qv>zl16357-9</qv>.</fn> ad quem numerum explendum Aarovienses dabunt 122 milites, eosque ex oppidulo tam parvo! Quid futurum sit, dubitamus. Dominus gratia sua dirimat.<zzl>zl16373-2E</zzl> Amen. Aarovi{e}, 20. novembris 1546.</p>
+<un>Tuae humanitati deditissimus</un>
+<un>Christianus Hochholzer.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, Tigurin{e} ecclesiae antistiti fidelissimo, domino suo tanquam patri plurimum colendo.</p>
+</div>
+</text>
+</brief>

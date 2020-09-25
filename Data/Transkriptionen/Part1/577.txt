@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="577">
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Tübingen</place>
+	<date>26. April 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 307, 9 (Siegelspur)</record>
+<print></print>
+<note>Zusammenfassende Übersetzung: Blarer BW I 687</note>
+<statue>
+Wird von Bullinger Empfohlene immer unterstützen, bittet aber,
+nicht zu zürnen, wenn er wegen Überlastung selten schreibt. Grüsse.
+</statue>
+<content>
+S. Mi venerande Bullingere, charissime frater,
+ego semper erga omnes, quos mihi commendas,
+officium fecero+1, modo unum hoc a te impetrem, ut ne succenseas, quod
+rarissime quicquam ad te perscribo; nam sic discerpor etiam in sexcenta+2
+negocia, ut nihil possim ad amicos. Erit brevi forte, ut ocii plusculum
+adfulgeat.
+<p>Bene vale et commenda me, ut facis, Christo. Saluta Pellicanum, Theodorum+3, Leonem+4 et reliquos omnes.</p>
+<p>Tubingè, 26. aprilis anno 1535.</p>
+<signature>
+Vere tuus Ambros. Bl.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Clarissimo viro d. Heinricho
+Bullingero, Tiguricen(*sium*)
+episcopo, domino et fratri multum in Christo venerando.
+</address>
+</content>
+<note>
++1>Blarer hatte kurz zuvor auf Bullingers Empfehlung Konrad Lüthard
+berufen, vgl. oben Nr. 573, 2-4.
++2>unzählige (Georges II 2636).
++3>Theodor Bibliander.
++4>Leo Jud.
+</note>
+.im vorsp
+</letter>

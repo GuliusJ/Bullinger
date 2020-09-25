@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2248">
+<nr>2248</nr>
+<correspondents>
+	<originator>Nikolaus Müller gen. Maier</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>18. September 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1406f (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 43 ^&x{
+<re>Müller erhielt Bullingers Brief und Kommentar zum Markusevangelium. Dabei hätte Bullinger doch Grund gehabt, Müller für sein langes Schweigen zu tadeln oder ihm gar nicht mehr zu schreiben! Doch war Müller mit vielen Geschäften beladen, zumal ihm seine Feinde bei Herzog [Ulrich von] Württemberg üble Fallstricke legten, als er für ein Jahr [1541/42] zu Kaiser [Karl V.] gesandt wurde. Sie konnten aber zum Glück nichts anderes bewirken, als ihn aus Neid beim Herzog zu verleumden, der immer offene Ohren für so etwas hat. Damit erreichten sie aber nur, dass Müller die Tyrannei [des württembergischen Hofes] verließ und sich [der Ausübung des] Rechts [in Augsburg] zuwandte. Seine Feinde schmerzt es, dass Müller jetzt eine bessere, für das Studium geeignetere Stelle hat als zuvor, und dass der Fürst gemerkt hat, dass sie ihn um einen seiner treuesten Hofbeamten gebracht haben.
+-^#. In welcher Gefahr Müller sich auch befand, nie hat er Bullinger vergessen, sondern vielmehr daran gedacht, ihm sein ganzes Unglück ausführlich zu schildern, doch fehlte es an Zeit oder an Boten.
+-^#. Er nahm Bullingers Brief über das Abendmahl [HBBW XI, Nr. 1548] sogar nach Spanien mit, ohne Furcht vor der Inquisition, und [auf dem Reichstag] in Worms hatte er immer Bullingers "De scripturae sanctae autoritate" in den Händen. Auch freut er sich sehr über Vadians "Orthodoxa et erudita epistola de corpore Christi" und über die anderen übersandten Schriften Bullingers.
+-^#. Nachdem sich seine Situation nun verbessert hat, möchte er Bullinger gern öfters schreiben.
+-^#. Er wusste, dass sein Verwandter [Georg Müller] gestorben ist, freut sich aber zu hören, dass dessen Witwe [Sybille, geb. Vollrat] und die Tochter [...] in Basel wohlauf sind. Gute Wünsche und Grüße an Anna [geb. Adlischwyler], Vadian und alle Brüder. Müller bittet um Verzeihung für die Hast. In Kürze wird er über die gefährliche Lage Deutschlands schreiben.
+-^#. [P.S.:] Er entschuldigt sich für die Korrekturen.</re>
+<tx>S[alutem] p[lurimam]. Suavissime frater, literas tuas<f1>Nicht erhalten.<fe> cum Commentariis in Marcum<f1>Zu Bullingers im August 1545 erschienenem Markuskommentar s. oben Nr. 2235, Anm. 37.<fe>, testes amoris in me tui, accepi iucundissimus.
+Fate[or]<fx>^#/+Hier und unten Textverlust durch Papierverlust am rechten Rand.^#/-<fe> enim negligentiam te meam, quod ad te, dilectissimum amicum meum, diu nihil perscripserim,<f1>Müller hatte zuletzt im Jahr 1541 an Bullinger geschrieben; s. HBBW XI, Nr. 1517. 1537.<fe>
+accusandi te occasionem habere o[por]tunissimam, cum dudum etiam multis tuis ad me perscrip[tis] literis<f1>Bullingers Briefe an Müller sind bis auf einen (HBBW XI, Nr. 1548) nicht erhalten.<fe>
+et transmissis opusculis fraternum tuum in me amorem testatus sis, et semper, quod non responderim,
+timui te vel acerbas, hac mea negligentia dignas, vel<fx>vel ^#/+über der Zeile nachgetragen.^#/-<fe> nec ullas unquam ad me missurum literas.
+Sed, qua ratione<fx>ratione ^#/+über der Zeile nachgetragen.^#/-<fe> me apud te amicum excusare debui, fratris tu<fx>tu tui ^#/+über der Zeile nachgetragen.^#/-<fe> tui officium prestas
+et fratrem tu ipse excusas; nam, quod nihil perscripserim, negotiis meis tribuis.
+Iis enim, ne tibi scriberem, impeditus sum, et<fx>et maxime ^#/+über der Zeile nachgetragen.^#/-<fe> maxime que mihi apud ducem Wirtenbergensem<f1>Herzog Ulrich von Württemberg.<fe>
+iniquissimi osores mei fecerunt; et pernitiosissimas insidias struxerunt<fx>struxerunt ^#/+über der Zeile nachgetragen.^#/-<fe>,
+dum in Hispania in legatione principis<f1>Gemeint ist auch hier Herzog Ulrich von Württemberg.<fe> imperatorem<f1>Karl V.<fe> ad annum sequutus sum<f1>Am 23. Juli 1541 hatte die Reichsstadt Esslingen in ihren Forststreitigkeiten mit Württemberg ein kaiserliches Mandat gegen das Vorgehen Herzog Ulrichs gegenüber Esslingen bewirkt. Um dieser Situation zu begegnen, sandte Württemberg am 19. September 1541 den Vizekanzler Nikolaus Müller von Stuttgart aus an den kaiserlichen Hof nach Spanien. Müllers lange Reise war überaus kostspielig, was dazu führte, dass er in Ungnade fiel, obwohl der Kaiser sich für ihn einsetzte. Näheres dazu bei Walter ^#/+Bernhardt,^#/- Nikolaus Müller gen. Maier, in: Lebensbilder aus Schwaben und Franken, hg. v. Robert Uhland, Bd. 12, Stuttgart 1972, S. 32-35; ^#/+Heyd^#/- III 307f und Anm. 36. Siehe auch PA III 666, Nr. 3078f.<fe>.
+Sed<fx>^#/+Von^#/- Sed ^#/+bis^#/- quod ^#/+über der Zeile nachgetragen.^#/-<fe> mihi gratulor, quod nec ullam habent causam, quam quod fortunam meam, que nescio quo fato
+eiusmodi procellis tam facile semper exponatur, ferre non potuere, et quod impotentis animi
+princeps ad eiusmodi detrectatores<fx>^#/+In der Vorlage^#/- detrectatorum.<fe> semper faciles apertasque habet aures.
+Quare inde ipsi nihil adepti sunt, quam quod me ex tirannide ad leges<f1>Müller war von 1544 bis 1548 Syndikus (Stadtadvokat) in Augsburg.<fe> duxerunt et iniuria,
+quam mihi inferre conati sunt, ipsi cruciantur, dolentque ratem meam, quam collidere conati sunt,
+ad quietiorem applicuisse portum, ubi circa reipublice curam mus[is] mansuetioribus<f1>Zu den "sanfteren Musen" s. etwa ^#/+Cicero,^#/- Epistulae ad familiares, 1, 9, 23. Gemeint sind die Studien.<fe> melius,
+atque in principum aulis fieri potest, inservire possum, et quod imprudentem principem fidelissimo ministro exuerunt, etc.
+^$<vl>1406v.</vl>
+At quantiscunque interim fluctibus periclitarim<f1>Zu dem Infinitiv "periclitare" (klassisch nur Deponens "periclitari") s. ^#/+Niermeyer^#/- II 1028.<fe>, te tamen, fratrem meum charissimum, nunquam abolevi,
+sed semper constitui me<fx>me ^#/+über der Zeile nachgetragen.^#/-<fe>, cum vacaret, totam tragediam calamitatis meę ad te longo ordine perscripturum;
+breviores tamen ut perscriberem literas, vacavit sepius, sed defuere tabellariorum oportunitates.<f1>Dieser Brief wurde wahrscheinlich Georg Frölich mitgegeben; s. unten Nr. 2256, 31f.<fe>
+^$Tam te amamo<f1>Spanisch bzw. italienisch für "amo"; entweder absichtlich oder aus Versehen.<fe>, tam charę mihi sunt tuę literę, quas de eucharistia ad me<fx>me ^#/+über der Zeile nachgetragen.^#/-<fe> nuper scripseras,<f1>Müller meint Bullingers Brief vom 22. Juli 1541 (HBBW XI, Nr. 1548).<fe>
+quod etiam has mecum in Hispaniam ferre libuit; sepius legi atque amplexus sum, nec inquisitorum tyrannis crudelissima me inde absterruit.
+Proinde iam Wormatię<f1>Müller hatte als Augsburger Gesandter am Reichstag zu Worms teilgenommen; s. oben Nr. 2156, 28 und Anm. 33; 2216, 33-36 und Anm. 25.<fe> succisivis horulis<f1>horula: Stündlein; s. ^#/+Hoven,^#/- s.v.<fe> libellus tuus De scripturę sanctę authoritate<f1>Wohl die zweite Ausgabe von Bullingers "De scripturae sanctae authoritate" von 1544; s. HBBibl I 112; BZD C 335.<fe> ad me missus semper mihi fuit in manibus.
+Quo atque doctissimi Vadiani nostri Orthodoxa et erudita epistola de corpore Christi<f1>Vadians "Orthodoxa et erudita ... epistola"; s. HBBibl I 113 und HBBW IX, Nr. 1283.<fe>
+cum reliquis christianissimis simul compactis ad me missis libellulis<fx>libellulis ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Wohl "Der alt gloub", der "Bericht der krancken" und die "Hoffnung der Glöubigen", die 1544 neu aufgelegt bzw. zum ersten Mal gedruckt worden waren und die Bullinger auch Georg Frölich zukommen ließ; s. oben Nr. 2195.<fe> quam oblecter, non satis scribere possum.
+^$Iamiam in ea sum republica et talem nactus conditionem, quam semper per mare per terras
+multaque pericula quesivi<fx>quesivi ^#/+über der Zeile nachgetragen.^#/-<fe>, quaque melius vacabit te creberrimis meis invisere literis.
+Quare rogo, negligentię meę, quod interim non scripserim, non tam, qu[am]<fx>^#/+Hier und unten Randtext im engen Einband verdeckt.^#/-<fe> quod in diversis locis variis iactatus periculis, ascribere velis.
+^$Scivi consanguineum meum<f1>Georg Müller, der ehemalige Abt von Wettingen; s. HBBW XI 185, Anm. 3. - Bullinger hatte diese und die darauf folgende Nachricht in seinem nicht erhaltenen Brief (s. oben Z. 1f) übermittelt.<fe> ad dominum migrasse. Viduam<f1>Sybille, geb. Vollrat; s. ^#/+Gast,^#/- Tagebuch 326f, Anm. 37.<fe> autem eius et filiam<f1>Unbekannt.<fe> Basileę
+incolumes agere gaudeo. Ac te cum uxore<f1>Anna, geb. Adlischwyler.<fe> liberis[que]<f1>Zu Bullingers Kindern s. oben Nr. 2061, Anm. 17.<fe>, <vl>1407</vl> doctissimo Vadiano fratribusque nostris omnibus
+optime valere opto, et rogo, ne molestum tibi sit Vadianum ipsum fratresque nostros omnes nomine meo valde salutare.
+Parce festinationi. Brevi enim et quamprimum vacaverit, ad te plu[ra] et tecum de periculosissimo
+Germanię nostrę statu communicabo et nihil, quod e re religionis nostrę visum fuerit, vos celabo.
+^$Datum 18. septembris anno 1545.
+<un>Tuus Nicolaus Maier.
+<lz>Parce lituris<fx>^#/+Der Brief weist etliche Streichungen auf.<fe>, quibus festinatio mea nunquam vacat.
+<lz>[Adresse auf der Rückseite:] Summę pietatis eruditionisque viro Heinricho Bullingero, ecclesiasti Tigurensi, fratri suo charissimo, etc.
+</content>
+</letter>

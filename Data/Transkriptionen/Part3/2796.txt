@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2796">
+<brief>
+<id>17065</id>
+<nr>2796</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1547-02-06"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>St. Gallen, 6. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 40 (Siegelspur)</vo>
+<dr>Druck: <a>Boehmer, Dryander</a> S. 406f, Nr. 20;<br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 182f, Nr. 23; <br/>Teildruck: <a>CO</a> XII 479f, Nr. 877 <k>Kopie 18. Jh.: Zürich ZB, Ms 63, 85; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 235 (Schmidt); Madrid BN, 8862, suelto und f. Ddro 17. </k></dr>
+<re><t>Enzinas wäre zusammen mit Bernardino Ochino nach Zürich gekommen, wenn er gewusst hätte, dass auch Calvin nach Zürich kommt.
+<fn>Siehe dazu <qv>nr2789</qv>, <qv>fn17056-1</qv>.</fn> Bullinger soll Letzteren grüßen. Enzinas kann sich derzeit leider nicht nach Zürich begeben, weil er auf Wunsch Hieronymus Sailers die Niederkunft von dessen Frau [Felicitas, geb. Welser] abwartet.
+<fn>Sailers Frau entband kurz darauf, wahrscheinlich noch am gleichen Tag, da die neugeborene Tochter, die ebenfalls Felicitas genannt wurde und deren Pate Enzinas werden sollte, am 7. Februar getauft wurde; s. <a>Henrich, Myconius BW</a> 934, Nr. 1050.<zfn>fn17065-1</zfn></fn> Auch wenn Enzinas von Sailer und dessen Frau sehr gut behandelt wird, wäre er lieber in Zürich oder wieder in Basel.</t>
+<t>Sailer und dessen Frau lassen grüßen. Sailer dankt für die Mitteilung [nicht erhalten] über den Streit um Rudolf Gwalthers ["Endtchrist"].
+<fn>Vgl. <qv>nr2783</qv> bei <qv>fn17051-2</qv>.</fn> Hoffentlich wird nach Beilegung dieses Streits die Zürcher Kirche eine dauerhafte Ruhe genießen können.</t>
+<t>Einem vagen Gerücht zufolge soll es in Lindau Unruhen gegeben haben und zur Festnahme des Stadtoberhaupts [Laux (Lucas) von Kirchen]
+<fn>Er wurde 1546 zum Oberbürgermeister gewählt. - Das Amtsjahr der Lindauer Bürgermeister (bis 1551 gab es je einen Ober- und Unterbürgermeister) dauerte jeweils bis in die Mitte des folgenden Kalenderjahres; s. Geschichte der Stadt Lindau im Bodensee, hg. v. Karl Wolfart, Bd. 2, Lindau 1909, S. 323 (Liste der Bürgermeister). - Das vorliegende Gerücht ist falsch.</fn> gekommen sein. Sollte dies stimmen, würde Enzinas sich wieder melden. Gruß.</t>
+<t>[P.S.:] Beiliegend zwei Briefe Sailers an zwei Zürcher [...] mit der Bitte um Zustellung. Falls Bullinger etwas in St. Gallen zu erledigen hätte, wird das gerne besorgt!</t></re> <textweg>
+<p>S. D. Si scivissem de adventu domini Calvini, venissem ad vos cum Bernardino
+<fn>Bernardino Ochino, der von St. Gallen nach Zürich gegangen war, wo er am 2. Februar 1547 ankam und zufälligerweise auch Calvin begegnete; siehe dazu <qv>nr2789</qv>, <qv>fn17056-1</qv>.</fn>, quia eum mirifice videre cupio. Salutabis eum meis verbis accuratissime, ad quem sine mora venirem, si permitteret Sailerus
+<fn>Hieronymus Sailer.</fn>. Sed cogor hic manere, donec peperit uxor
+<fn>Sailers Ehefrau Felicitas, geb. Welser (eine Tochter von Bartholomäus Welser).</fn>. Etsi enim peramica est inter nos communicatio et suavitate ac benevolentia uxoris, foeminae prudentissimae, tractatus sum aliquanto deliciosius
+<fa><i>In der Vorlage</i> deliciosius.</fa>, quam homini studioso conveniret, tamen hoc mihi iniurato crede, Bullingere doctissime, multo me libentius apud vos aut in nostris sedibus Basileae versari.</p>
+<p>Salutat te Sailerus cum uxore et gratiam habet pro eo, quod scripsisti de causa Gvalteri
+<fn>Streit um Gwalthers Antichrist.</fn>. Ego ecclesiae vestrae gratulor tranquillitatem, quam spero fore durabilem, siquidem hoc negotium est compositum de sententia vestra. Nescio quid nunciatur de perturbatione Lydaviensi; dicitur captus urbis praefectus, sed nihildum certi constat. Scribam, quid sit, ubi aliquid veri accepero. Interim bene vale cum omnibus fratribus.</p>
+<p>Sangalli, 6. die februarii 1547.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>Mitto duas epistolas domini Saileri ad duos Tigurinos
+<fn>Unbekannt.</fn>; quaeso, ne sit grave eas per famulum mittere. Si quid hic a nobis curatum velis, erimus omnes paratissimi.</p>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero, ecclesiae Tigurinae pastori vigilantissimo.</p> </textweg>
+</brief>

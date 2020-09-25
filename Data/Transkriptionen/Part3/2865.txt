@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2865">
+<brief>
+<id>17133</id>
+<nr>2865</nr> <from persid="KellerMichael"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-03-29"/>
+<ae>Michael Keller an Bullinger</ae>
+<od>Augsburg, 29. März 1547
+<fn>Vorliegender Brief ist vermutlich auf den 30. März zu datieren; vgl. <qv>nr2867</qv>,<qv>zl17135-1</qv>. <qv>zl17135-2</qv>.</fn></od>
+<vo>Autograph: Zürich StA, E II 346, 218 (Siegelspur)</vo>
+<dr>Ungedruckt <k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 185 </k></dr>
+<re><t>Keller liegt krank im Bett. Doch weil Georg Frölich nach Konstanz und vielleicht auch nach Zürich reist, nutzt er die Gelegenheit zum vorliegenden uneleganten Brief. Er will Bullinger mitteilen, dass sowohl die politische als auch die religiöse Zukunft von Augsburg auf der Kippe steht, ja dass jederzeit mit dem Schlimmsten zu rechnen ist! Denn wenn dann Kaiser Karl V. den Kurfürsten Johann Friedrich von Sachsen besiegt hat, wird es im Reich und besonders in den Reichsstädten, die sich ihm ergeben haben, zu solch einer Unterdrückung kommen wie noch nie zuvor. Kein Verständiger, einschließlich Georg Frölich, bezweifelt das.</t>
+<t>Sollte Gott mit [den Protestanten] wegen deren Missetaten und Undankbarkeit solches vorhaben, dann möge Bullinger seine Tür für Johannes Haller, Keller und andere Kollegen offenhalten! Denn auch wenn die Religionssache in Augsburg wieder gut geregelt würde, wird dennoch der Kaiser unter dem Vorwand des im Reich einzuhaltenden Friedens die Religionsangelegenheit so festlegen, dass man nicht nur den Priestern den Einlass in die Städte erneut gewähren muss, sondern auch allen erlauben muss, sich der päpstlichen Faktion anzuschließen. Und selbst wenn [den Protestanten] eine Zeit lang die Predigt des Evangeliums zugestanden wird, was nützt das? Denn welcher Gottesfürchtige könnte dulden, dass unter seiner Aufsicht Christus und der Teufel derart vereint werden? Bullinger weiß, was Keller meint. Die Augsburger Pfarrer sind besorgt! Der Rat ist korrupt, und dementsprechend geht er mit ihnen um.</t>
+<t>Der Herr erbarme sich! Bullinger verzeihe etwaige Ungeschicklichkeiten.</t>
+<t>[P.S.:] Bullinger wird dies vielleicht ausführlicher aus Hallers Brief [<qv>nr2867</qv>] erfahren. Er soll sich von niemandem eines anderen belehren lassen!</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17133-2A</zzl><zzl>zl17133-1A</zzl>Quandoquidem frater noster communis Georgius Loetus
+<fn>Georg Frölich (Laetus).</fn>, archigrammateus, Constantiam et forte subinde Tigurum petiturus esset,
+<fn>Siehe dazu <qv>nr2858</qv>, <qv>fn17113-9</qv>. - Frölich kam nicht bis nach Zürich.<zfn>fn17133-2</zfn></fn><zzl>zl17133-1E</zzl> committere nolui, quin has meas impexas graviterque in lecto decumbens
+<fn>Keller litt an der Gicht; s. <a>HBBW</a> XVI 254,77f; XVIII 308,103.<zfn>fn17133-3</zfn></fn> ad te darem, hoc potissimum argumento motus, quod res cum prophana
+<fn>res prophana: das Gemeinwesen.</fn> tum et religio ipsa hic ita nutent, ut in diem variam et perniciosam mutationem variationemque expectemus. Nam superato a caesare
+<fn>Karl V.</fn> electore
+<fn>Johann Friedrich I. von Sachsen.</fn> ea tyrannis in imperio, praecipue in his civitatibus, quae se caesari dederunt et quas etiamnum multo milite vi tenet, subsecutura est multis retro saeculis nunquam vel visa vel audita;
+<fn>Anspielung auf Mt 24, 21 par.</fn> id quod nemo prudentum, etiam Loetus ipse, inficiari poterit!<zzl>zl17133-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17133-3A</zzl>Proinde, si dominus ob nostra peccata, praesertim detestandam ingratitudinem, sic in nos animadvertet, fac, ut ianua tua Hallerum, me et alios symmystas citra iacturam tamen tuam agnoscat.<zzl>zl17133-3E</zzl> <zzl>zl17133-4A</zzl>Nam si res religionis hic foelicissime instituetur, tum in hunc finem caesar caussam religionis pro communi pace in imperio servanda confirmabit, ut nimirum sacrificuli denuo intromittantur non solum, sed ad pristinam papisticam factionem libere adspirare permittantur.
+<fn>Am 17. Januar 1537 waren in Augsburg die Messfeiern völlig abgestellt und daraufhin die "Pfaffen" aus der Stadt verwiesen worden. Zuvor, im Juli 1534, war die Messe nur teilweise abgeschafft und in acht Kirchen der Stadt weiterhin geduldet worden; s. <a>Bodenmann</a> 158f. 230, Anm. 164. 166 und 168.<zfn>fn17133-4</zfn></fn><zzl>zl17133-4E</zzl> <zzl>zl17133-5A</zzl>Nobis quoque annunciatio evangelica forte ad tempus libera sit, sed quis piorum Christum et Belial
+<fn>Teufel. - Anspielung auf 2Kor 6, 15.</fn> sic coniungi suo patrocinio sustinebit? Habes, quid velim. Anxii sumus! Magistratus corruptus est; ideo fraude et dolo omnia corruptissime
+<fa><i>Am Rande nachgetragen.</i></fa> agunt nobisque verba dant.<zzl>zl17133-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17133-6A</zzl>Dominus nostri misereatur! Ineptias boni consulas, oro.<zzl>zl17133-6E</zzl> 29. marcii 47., Augustae. Raptim.</p>
+<un>Tuus in domino</un>
+<un>M. Cellarius.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17133-7A</zzl><fa1 bis="1"><i>Am Rande, neben der Unterschrift, nachgetragen.</i></fa1>Haec fortassis ex Halleri literis
+<fn><qv>nr2867</qv>.</fn> fusius accipies. Neminem
+<fn>Vermutlich denkt Keller an Claudius Pius Peutinger (s. <qv>nr2759</qv>, <qv>fn17027-3</qv>; <qv>nr2769</qv>, <qv>fn17037-4</qv>), der damals seine Söhne in Zürich in Sicherheit gebracht hatte, wo diese studierten; s. <a>HBBW</a> XVIII 89,39-90,40 und Anm. 26; 175,4-8; 178,52-55. - Siehe ferner <qv>nr2867</qv>, <qv>fn17135-2</qv>.<zfn>fn17133-1</zfn></fn> tibi aliud persuadere sinas, oro!<fa1e von="1"/><zzl>zl17133-7E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Venerando in Christo domino m. Heinrichio Bullingero, Tigurinorum episcopo praecipuo, fratri et domino suo suspiciendo.</p>
+</div>
+</text>
+</brief>

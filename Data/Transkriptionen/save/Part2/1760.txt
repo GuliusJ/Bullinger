@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1760">
+<nr>1760</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>7. Juli 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Wasserschäden.^#/-<fe>: St. Germain, Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 199 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms F 43, 86v.</vo>
+<vo>Ms S 53, 39</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 193f, Nr. 1022</dr>
+<re>Dankt für Blarers Brief [Nr. 1757] mit den schrecklichen Kriegsnachrichten; wir hoffen auf die Wiederkunft Christi; die Innerschweizer warten zum Missfallen der Zürcher auf das Signal von König Franz [I. von Frankreich] zum Aufbruch. Hat Blarers Nachrichten an [Johannes] Haab und Säckelmeister [Hans Rudolf] Lavater weitergeleitet, da sich [Diethelm] Röist zur Kur in Baden aufhält; jene schmerzt das Schicksal unserer Zeit, aber wir müssen es tragen; Blarer soll auch weiterhin Nachrichten mitteilen. Erbittet Rückmeldung zum Johanneskommentar, dessen Rest er noch senden wird; er arbeitet am 14. Kapitel, das zehnte ist im Druck. Ist in Eile. Grüße. Lasst uns in diesen Wirren Gott anrufen!</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Hodie tuas, venerande mi Blaurere, literas<f1>Oben Nr. 1757.<fe> accepi scriptas
+de calamitosissimis regnorum totius orbis christiani bellis.
+Undique angustia, undique labor et dolor; sed sunt illa
+extrema tempora. Utinam mox nos liberet glorioso suo in
+mundum adventu dominus Iesus<fx>Iesus ^#/+in Versalien.^#/-<fe>, salus, spes et consolatio
+nostra. Immontani<f1>Die Innerschweizer Orte.<fe>, id est Moabitae, Amonitae et Idumaei<f1>D. h. Feinde des Gottesvolkes.<fe>
+expectant, quando infoelix Aegyptiorum rex Franciscus<f1>Franz I. von Frankreich (als Gott missfälliger Bundesgenosse, vgl. Jes 30f).<fe> signum
+det et classicum canat. Nostri vehementer dolent.
+^$Ego pro tuis illis maximas ago
+gratias; exhibui, quas misisti,d. Habio consuli<f1>Johannes Haab.<fe> et Lavatero
+quaestori<f1>Hans Rudolf Lavater.<fe> etc.; namd. Röystius<f1>Diethelm Röist.<fe> lavat Badenae, quod ipsi et
+familiae eius felix et faustum sit, oro. Dolent illi sortem
+nostri sae­culi; sed forti et infracto per Christum animo
+haec ferenda sunt. Fortassis dolorum initia sunt. Quaeso, ne
+desis nobis, sed perpetuo ea fide et diligentia nobis
+scribere digneris, quae a fide dignis hominibus accipis,
+sicut consuevisti hactenus.
+^$Quae in Ioannem scripsi<f1>Zu Bullingers Johanneskommentar s. zuletzt oben Nr. 1754, 20f mit Anm. 6.<fe>, habes. Oro, ne quid in his
+dissimules. Mone, quaeso, et siquid videtur mutandum,
+indica. Reliqua, ubi absoluta fuerint, mittam. Vertor nunc
+in 14. capite; illi in 10. imprimunt<f1>Der Drucker war Christoph Froschauer.<fe>. Vix tantum scribere
+possum, quantum insatiabile praelum devorat.
+^$Ignosce, quaeso, parum diligenti scriptioni. Coenare
+incoeperam; indicat se abiturum tabellio<f1>Unbekannt.<fe>; nox ingruebat.
+Paucula haec amico et fratri amantissimo et semper colendo
+scribebam.
+^$Vale, charissime mi frater, una cum uxore<f1>Katharina, geb. Ryff.<fe> castissima et
+fideli familia.<f1>Zu Blarers Kindern s. HBBW XI, S. 336, Anm. 8.<fe>
+^$7. iulii 1543.
+<un>H. Bullingerus tuus.
+<lz>Levemus in hisce turbis capita et clamemus ad deum
+nostrum clementissimum.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Ambrosio Blaurero charissimo suo.
+</content>
+</letter>

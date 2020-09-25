@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1572">
+<nr>1572</nr>
+<correspondents>
+	<originator>[Bullinger</originator>
+	<originator fn=1>die Examinatoren von Zürich]</originator>
+	<addressee fn=2>den Dekan des Kapitels Freiamt [Peter Simler]</addressee>
+	<note fn=1>Zur Kompetenz des Examinatorenkollegiums (s. HBBW VI, S. 163, Anm. 1) zur Verschiebung und Suspendierung von Synoden vgl. W[ilhelm] ^#/+Baltischweiler^#/-, Die Institutionen der evangelisch-reformierten Landeskirche des Kantons Zürich in ihrer
+geschichtlichen Entwicklung, Zürich 1905. - Zürcher Beiträge zur Rechtswissenschaft II, S. 58.</note>
+	<note fn=2> Vgl. zur Zusammensetzung des Kapitels AZürcherRef 1899, III. Gleichartige Briefe gingen zweifellos an die Dekane der anderen Kapitel.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>30. September 1541</date>
+</space_time>
+<vo>Original<fx>^#/+Der Brief ist von unbekannter und nicht, wie J. J.
+Simler (Zürich ZB, Ms S 50, 98) angibt, von Rudolf Gwalthers
+Hand. Adresse von der Hand Bullingers. Marginalien von der Hand J. H. Hottingers.^#/-<fe>: Zürich ZB, Ms F 61, 552 (Siegelabdruck<fx>^#/+Siegel Bullingers.^#/-<fe>)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 98</vo>
+<dr>Ungedruckt</dr>
+<re>Angesichts der bevorstehenden Weinlese, noch mehr aber angesichts der grassierenden Pest, haben sie mit der Zustimmung des Rates beschlossen, die anstehende Synode abzusagen. Dies soll der Dekan den Prädikanten des Kapitels rechtzeitig anzeigen und sie ermahnen, ihr Amt gewissenhaft auszuüben,
+wie es ihnen als Vorbildern der Gläubigen geziemt; Gottes Strafen drohen, wenn wir unseren schlechten Lebenswandel nicht bessern; das Heer König [Ferdinands] ist bei Buda von den Türken geschlagen worden; von allen Seiten drängen die Türken und andere Übel auf uns ein. Sollte sich ein Prädikant so
+schuldig gemacht haben, dass der Fall nicht einfach der nächsten Synode übergeben werden kann, soll der Dekan dies schriftlich melden. Grüße.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Hactenus quidem bis in anno pro ritu veteris ecclesiae<f1>Ein Beschluss zur halbjährlichen Abhaltung von Provinzialkonzilien findet sich in den Canones der Konzilien von Nicäa und Chalcedon (s. Dekrete der ökumenischen Konzilien - Conciliorum Oecumenicorum Decreta, besorgt von Giuseppe
+^#/+Alberigo^#/- u. a., 3. Aufl., Bd. 1, Paderborn u. a. 1998, S. 8, Z. 14-17; S. 96, Z. 8-12) und fand auch Aufnahme in die Novellen des "Corpus iuris civilis" (Nov. 123, 10). In seinem Handexemplar (Zürich ZB, 11.75^&!H-2^&!H., vgl. HBBibl III 61) der Novellenausgabe "Novellarum constitutionum dn.
+Iustiniani [...]", Nürnberg (Johann Petreius) 1531 (VD 16 C 5261) hat Bullinger S. 207 die entsprechende Stelle unterstrichen und mit Marginalien versehen. Auch in seinen theologischen Werken verweist Bullinger auf den altkirchlichen Konzilsrhythmus, vgl. etwa "Sermonum decades quinque", Zürich
+(Christoph Froschauer) 1552 (HBBibl I 184), f. 384r.<fe>
+sancto et utili celebrare consuevimus synodum in urbe,
+frater in domino colendissime, et aderit quidem hoc ipso
+mense definita dies<f1>Gemäß der Synodalordnung von 1532 sollte die Herbstsynode jeweils am ersten Montag nach dem Gallustag (16. Okt.) stattfinden (s. AZürcherRef 1899, III).<fe>, qua iam altera coiret in domino.
+Quoniam vero propter vindemiae imminentia negotia, tum
+maxime propter pestem ubique fere grassari incipientem
+melius ac utilius est quemlibet domi suae et apud
+ecclesiam sibi creditam manere, placuit omnibus nobis<f1>den Examinatoren, s. Anm. 1.<fe>
+con­s­­entiente etiam magistratu nostro futuram ac iam
+imminentem synodum intermittere prorsus.<f1>Dass die Herbstsynode 1541 nicht durchgeführt wurde, bestätigen auch die Synodalprotokolle (s. Zürich StA, E II 1, 277), wo ein entsprechender Eintrag fehlt.<fe>
+^$Id quod tibi,
+charissime in domino frater, in hoc indicamus, ut fratribus
+per capitulum singulis significes mature eosque nostro, imo
+Christi domini nomine horteris, ut pro offitio suo Christo
+serviant fideliter, idest, oves fidei suae creditas verbo
+veritatis pascant, poenitentiam cum fide doceant, preces
+assiduas urgeant, ipsi denique sancte et inculpate vivant,
+ut exemplaria gregis decet. Imminent enim cervicibus nostris
+maxima et plurima dei flagella, nisi pessimos mores nostros
+vita meliore emendemus. Deletus est exercitus regis
+Romanorum a Turcis ad Budam,<f1>Siehe oben Nr. 1564, Anm. 8.<fe> triumphat et insolescit fidei
+hostis, imo et minatur gravissima, irruunt in nos undique et
+alia mala quamplurima. Convertamur ergo ad dominum, ut is
+vicissim convertatur ad nos iuxta ipsius promissionem per
+Ieremiam in cap. 18 [7f].
+^$Quod si quis fratrum vel in
+functione vel in vita sua enormius peccavit, quam ut
+conveniat eius causam ad futuram deferri synodum,<f1>Haupttraktandum der Synode war jeweils die Zensur der Pfarrerschaft, s. AZürcherRef 1899, III. 4.<fe> eum per
+litteras indica, quo illius cognoscatur causa ac, quid facto
+opus sit, deliberetur.
+^$Vale cum tuis omnibus in Christo domino.
+^$Tiguri, pridie<fx>pridie ^#/+am Rande von Bullinger nachgetragen.^#/-<fe> calendas octobris anno 1541.
+<lz>
+[Adresse auf der Rückseite:] Fidelissimo Christi
+ministro,d. decano capituli Fryampt, fratri charissimo.
+Fryampt.
+</content>
+</letter>

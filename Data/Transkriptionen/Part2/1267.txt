@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1267">
+<nr>1267</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Simon Grynäus</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>7. Mai 1539</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms D 197d, 41r., Nr. 21 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Faßt sich wegen der Synode kurz; schickt den erbetenen Brief Vadians [Nr. 894]. Empfehlung für [Michael Adam]. Ist vom
+Ergebnis der Frankfurter Tagung enttäuscht und befürchtet vom geplanten Religionsgespräch eine Verdunkelung der Wahrheit, worauf auch die Sonnenfinsternis [vom 18. April] hindeutet.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Celebravimus hisce diebus synodum<f1>Am 6. Mai; vgl. oben Nr. 1265, Anm. 31.<fe>, amice et frater
+colendissime; ideo negotiis occupatissimus paucula haec
+scribo. Quam petisti, Vadiani nostri epistolam<f1>HBBW VI, Nr. 894 (Teildruck); s. oben Nr. 1257, 34-44 mit Anm. 23 und Nr. 1258, 18-20.<fe> mitto,
+sed ea lege, ut per hunc tabellionem<f1>Vgl. unten Z. 6-8.<fe> remittas. Praeter uni tibi et Myconio alii non communicassem.
+^$Tabellionem, hominem Hebraeum<f1>Michael Adam (vgl. auch unten Nr. 1269, 3; 1270, 2).<fe>, tibi commendo.
+Nam ad Leonis<f1>Leo Jud.<fe> et meas preces, quemadmodum petieras<f1>Ein entsprechender Brief von Grynäus ist nicht
+bekannt.<fe>, ad te descendit. Vir est pius et doctus.
+^$Quam vero nihil votis nostris responderunt comitia
+Franckfordiensia<f1>Zum Frankfurter Anstand vom 19. April 1539 vgl. oben Nr. 1261, 2-21.<fe>! Deus misereatur et nostri et eorum, quorum
+consiliis in tanta pericula con­iicitur ecclesia domini.
+Agetur Nerobergae de concordia papisantium et evangelizantium<f1>In Frankfurt war beschlossen worden, auf den
+1. August ein Religionsgespräch nach Nürnberg einzuberufen; vgl. oben Nr. 1261, Anm. 6.<fe>. At quae potest esse concordia inter
+lucem et tenebras<f1>Vgl. 2Kor 6, 14.<fe>? Deliquia illa solis<f1>Am 18. April, dem Vortag des Frankfurter Abkommens,
+hatte eine Sonnenfinsternis stattgefunden; vgl. WA TR IV 465f, Nr. 4747.<fe> portendunt veritati inducendas esse tenebras.
+^$Vale et me ama. Plura nunc non potui.
+^$7. maii 1539.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Simoni Grynaeo, plane suo.
+</content>
+</letter>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="786">
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>7. April 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 336, 151 (neu: 170) (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Der angebliche Plan des Papstes, den Kaiser gefangenzunehmen,
+hat ihn erheitert. Hat das Bekenntnis Strassburgs (*die Confessio
+Tetrapolitana*) einst gesehen, von Bucers Apologie (*des Bekenntnisses*)
+jedoch noch nie gehört; keine dieser Schriften ist in Basel zu finden.
+Mehr kann er zurzeit nicht schreiben. Einige Buchhändler haben
+Schiffbruch erlitten. Grynäus hat als sein Nachfolger die Professur für
+Neues Testament übernommen.
+</statue>
+<content>
+S. Equidem satis risi, quia scribis de vinculis papae caesari
+paratis+1. Timeo, ne verum sit facinus tam nobile.
+<p>Argentinensium confessionem+2 aliquando vidi, de apologia+3 ne verbum quidem audivi unquam. Basileae nec confessio est nec apologia.</p>
+<p>Quod et rarius et brevius scribo, quèso, ne te moveat. Aliter hoc tempore non valeo. Dabitur, ut omnia sarciam.</p>
+<p>Naufragium librarii quidam fecerunt infra Argentinam+4. Grave dicunt, at nondum constat, quibus id mali acciderit.</p>
+<p>Grynèus theologus factus in praelegendo novo testamento mihi successit+5.</p>
+<p>Vale.</p>
+<p>Raptim, Basileae, 7. aprilis anno 36.</p>
+<signature>
+Tuus Myconius.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinricho Bullingero, fratri
+in domino charissimo suo.
+</address>
+</content>
+<note>
++1>Siehe oben Nr. 783, 18-20.
++2>Die Confessio Tetrapolitana; s. ebd., Z. 7-17 mit Anm. 3.
++3>Bucers Apologie der Tetrapolitana; s. ebd., Anm. 4.
++4>Über das Unglück, das den Buchhändlern offenbar auf dem Weg
+zur Frankfurter Frühjahrsmesse zugestossen war, ist nichts Näheres
+bekannt.
+??????
++5>Vgl. oben Nr. 777, 19-21 mit Anm. 7.
+;----------------------------------------------------------------------
+</note>
+</letter>

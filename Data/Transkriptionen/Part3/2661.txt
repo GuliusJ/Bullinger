@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2661">
+<brief>
+<id>16350</id>
+<nr>2661</nr> <from persid="ComanderJohannes"/> <to persid="Bullinger"/> <place plid="Chur"/> <date when="1546-11-08"/>
+<ae>Johannes Comander an Bullinger</ae>
+<od>Chur, 8. November 1546</od>
+<vo>Autograph: Zürich StA, E II 365, 57 (Siegelspur)</vo>
+<dr>Druck: <a>Graubünden, Korr.</a> I 102f, Nr. 77<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 67; Zit.: a Porta, Hist. Ref. Raet. I 260 (Anm. a)</k></dr>
+<re><t>Comander dankt für den von [Johannes] Pontisella überbrachten Brief
+<fn>Nicht erhalten. - Pontisella hatte sich am 19. Oktober nach Zürich begeben, weil er seine Stelle in Chur aufgeben wollte; s. <qv>nr2633</qv>.</fn> und dessen Nachrichten über den [Schmalkaldischen] Krieg, die er den wichtigsten Kollegen mitgeteilt hat.</t>
+<t>Folgendes zum Gotteshaustag [vom 24. Oktober in Chur]: Sowohl Kaiser [Karl V.] als auch das Reich [die Schmalkaldener] haben ihre Botschafter dorthin entsandt. Der kaiserliche Botschafter [...] hat das Gerücht über das vergiftete Salz
+<fn>Siehe dazu <qv>nr2630</qv>, <qv>fn16320-1</qv>.</fn> dementiert und die Bündner ermahnt, sich an die Erbeinung
+<fn>Anspielung auf die Erbeinung mit dem Kaiser und dem Hause Österreich von Dezember 1518; s. <a>EA</a> III/2 1417-1421, Nr. 39 (Text); Handbuch der Bündner Geschichte, Bd. 1, Chur 2000, S. 276 und Anm. 130.<zfn>fn16350-1</zfn></fn> zu halten, an die sich Kaiser und König [Ferdinand I.] ebenfalls halten wollten. Daraufhin brachten die schmalkaldischen Botschafter [Hieronymus Pappus und Bastian Bär]
+<fn>Siehe <qv>nr2633</qv>, <qv>fn16323-6</qv>.</fn> auch ihr Anliegen vor, baten im Namen ihrer Freundschaft, dass die Bündner über die Pässe [keine feindlichen Truppen durchlassen möchten] und sprachen u.a. die Angelegenheit des Getreides an. Sie gaben ferner zu verstehen, dass die Bündner auf schlimme Folgen gefasst sein müssten, falls sie vom Kaiser besiegt werden sollten. Bürgermeister [Luzi Heim] wird diesbezüglich ausführlicher an [Johannes] Haab schreiben. Von diesem wird dann Bullinger Genaueres erfahren.</t>
+<t>Bei den Bündnern hält es keiner (egal, ob er für oder gegen das Evangelium ist) mit dem Kaiser, außer den "Pfaffen" [den katholischen Geistlichen], die jedoch keine politische Macht mehr haben. Bischof [Lucius Iter] kam mit großem Prunk [nach Chur] geritten und wollte am Gotteshaustag teilnehmen. Allerdings schlug man ihm dies ab.</t>
+<t>Johannes Blasius wurde im Prozess gegen den Bischof freigesprochen.
+<fn>Siehe <a>HBBW</a> XIII, Nr. 1798, 1816-1818; XIV, Nr. 1840, 1850f; <a>Graubünden, Korr.</a> I, S. XVIIf.<zfn>fn16350-2</zfn></fn></t>
+<t>Blasius und [Luzi] Heim lassen grüßen.</t></re> <textweg>
+<div>
+<p>Gratias et pacem a domino. Literas per Pontasellam missas accepi et, quae de bello nova in illis precipuis fratribus communicavi. Ago gratias diligentiae tuae.</p>
+</div>
+<div>
+<p>Quae ex comitiis nostris habeo, h{e}c sunt: Der keyser
+<fn>Karl V.</fn> und daz rich hand ir botschafft gegenwürtig gehebt. Der keyserisch hat fürbracht, entschuldiget die verlündung[!] des vergifften saltzes, ouch daby ermanet, man sölle die erbainig trüwlich und stätt halten; das wellind keyserlich m[ajestä]t und Ferdinan[d] herwiderumb ouch th{uo}n. Der ist also mit g{uo}tten worten abgefertiget. Die aber vom rich hand fürbracht ouch ir schwär anligen, ouch erbotten aller früntschafft und g{uo}ts der pässen halb, der[!] korns halb und dessglichen, daby ouch den unseren z{uo} ermässen, fürgehalten, wo sy [durch] den keyser undertruckt werden, was uns daruss erfolgen möchte. Denen ist ein eerliche antwort worden mit erbiettung alles g{uo}ts etc. Unser burgermeister
+<fn>Luzi Heim.</fn> wirt disen handel des tags clärer und besser z{uo}schryben üwerem burgermeister Haben; da mögen ir ouch ein besseren bericht nemmen.</p>
+</div>
+<div>
+<p>By uns ist nieman, sy syen mit dem evangelio oder darwider, ders mit dem keyser halte oder imm g{uo}ts gunne, usgenommen die pfaffen. Doch so hat man sy widerumb von nüwen[!] alles weltlichen gwalts entsetzt. Der byschoff
+<fn>Lucius Iter.</fn> was mit grossem pomp uff den tag gerytten in dem nammen, in dem tag ze sytzen; aber man hat inn nit wellen dulden, quod male habet virum. </p>
+</div>
+<div>
+<p>Ioannes Blasius liberatus est in causa sua contra episcopum et scortum eius, episcopus coactus reddere literas illum scriptas etc.</p>
+</div>
+<div>
+<p>Vale, charissime et observande frater. Ex Rhetiae Curia, 8. novembris 46. Salutant te Ioannes Blasius et consul Heymius.</p>
+<un>Tuus Ioannes Comander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo doctissimoque viro magistro Heinricho Bullingero, Tigurinae ecclesi{e} antistiti vigilantissimo, domino ac fratri suo praecipuo.</p>
+</div> </textweg>
+</brief>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1027">
+<nr>1027</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>[Bern]</place>
+	<date>27. Juli 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 141 (Siegelspur) </vo>
+<dr>Ungedruckt</dr>
+<re>Es wäre - besonders in der gegenwärtigen Situation - aussichtslos, wenn er den [Berner] Rat um die Aufnahme eines [auswärtigen] Knaben in das Brugger Stipendium ersuchen würde. Bucer soll [vom Rat] angefragt worden sein, mit wem er
+verhandeln wolle; auf Grund seiner Antwort werde dann das weitere Vorgehen festgelegt. Megander bittet angesichts seiner unhaltbar gewordenen Lage nochmals dringend, ihm ein Haus [in Zürich] zu verschaffen.
+Die Frau, deretwegen Leo [Jud] schrieb, ist eine verlogene Schwätzerin, die nicht nur ihn und Berchtold [Haller] verleumdet, sondern auch in Basel Unheil angerichtet hat.
+</re>
+<tx>Gratiam a domino.
+^$De recipiendo in stipendium nostrum Brugense puero<f1>Bullinger muß Megander in einem nicht erhaltenen Brief gebeten haben, die
+Aufnahme eines Schülers an die Lateinschule in Brugg zu vermitteln. Mit großer Wahrscheinlichkeit handelt es sich um
+Josua Maler; ein Brief, den dessen Vater Balthasar am 13. Juli an Hans Rudolf von Graffenried richtete, enthält nämlich
+ebenfalls die Bitte, für einen Sohn ein Stipendium in Brugg zu erwirken (s. Zürich StA, B IV 8, 116r.-v.).
+Zum Stipendium vgl. Max ^#/+Banholzer, ^#/-Geschichte der Stadt Brugg im 15. und 16.
+Jahrhundert. Gestalt und Wandlung einer schweizerischen Kleinstadt, Diss. Zürich, Aarau 1961, S. 269.<fe>, quando certo
+constat impetrari non posse, non est, ut ad senatum referam, praesertim hoc tempore. Negocium tentandum esse
+plane non videtur.
+^$Quantum ad responsionem Buceri<f1>Siehe oben Nr. 1010, 69-71 mit Anm. 16.<fe>, hoc modo homini responsum esse inteligo: Quando non solum nostri, sed aliarum quoque Helve[ticarum] ec­clesiarum mentionem scriptis suis facit,
+scire cupiunt domini, an solum nobiscum et apud nos, quo cum aut contra quem agere velit; quo intelecto latius, quid agant, se
+consulturos pollicentur<f1>Bucer wurde am 29. Juni ("penultima iunii") aufgefordert, jene zu benennen, deretwegen er sich beklagen wolle, dann werde man ihm gebührend antworten und ihm den Rechtsweg nicht verweigern (Entwurf: Bern StA, A III 24, S. 475; das Datum wird bestätigt durch einen Eintrag
+im Ratsmanual, ebd., A II 130, 99). Überliefert sind auch zwei von Erasmus Ritter im Namen der Pfarrer vorgeschlagene Antworten (s.
+^#/+Pollet,^#/- Bucer II 421, Anm. 1); auf diesem Dokument ist vermerkt, man habe Bucer "penultima iulii" in eben diesem Sinne geschrieben. Ein Brief, der Anfang August in Straßburg eintraf, scheint allerdings eher den Charakter einer Einladung gehabt zu haben, wie der Antwort Capitos zu entnehmen ist
+(s. CO X/2 123f, Nr. 75).<fe>.
+^$Quo vero ad rem meam accedam: Verbis certo adsequi
+non possem, quanto subinde labyrintho versat. Adeo enim res mea impedita et inextricabilis est, ut huius exitum nullum videam.
+Per Christum igitur rogo, ut ex illo me reducatis. Sunt certe, qui sedulo
+sursum ac deorsum cursitando neminem non exosum adversarium et hostem mihi reddere conantur; quam ob rem, nemo surdus non inteligit. Rogo igitur per Christum et mutuam nostram amiciciam et fraternitatem,
+ut in hoc sitis, quo domus mihi curetur, hoc est, modo proxime praescripto<f1>Siehe oben Nr. 1011.<fe> promittatur. Quo facto domum me recipiam et suppellectilem meam vel in Pinderi edes<f1>Gemeint ist Georg Binders Haus "zum Loch", s. oben Nr. 999, Anm. 4.<fe> vel aliquem alium in locum
+transferam<fx>transferam^#/+ am Ende der Zeile nachgetragen.^#/-<fe>.
+Iuvate me, obsecro; necessitas instat.
+^$Mulier<f1>Unbekannt.<fe>, de qua proxime Leo plura<f1>Ein entsprechendes Schreiben Leo Juds ist nicht erhalten.<fe>, vana est, futilis, mendax, maledica, sediciosa, perturba[trix] reipublicae, iniqua non solum erga maritum suum, sed in nos
+omnes. Ego illa nunquam cogitavi, ne dicam Berchtoldus<f1>Berchtold Haller.<fe>, quę contra nos effutivit mendaciter. Ex quo facile coniicere poteritis, et reliqua omnia esse ficta et mendaciter et maliciose excogitata.
+Verum quidem est, ut narrat, quod hisce nugis non semel domi meę obtudit. Sed quia cognita mulier, semper nihili fęci et adhuc facio. Basileę longe aliam tragediam et plane diversam movit. Sy
+ist ein klapper<f1>Verleumderin.<fe> und verlogen wyb, uff deren red nutz<f1>nichts.<fe> ze setzen ist. Synd yr wol ze fryden? O sectio, o heresis, quam odiosę et hostiles ex te oboriuntur partes! Megander hoc nunquam credidisset, nisi
+ipse suis vidisset oculis et fere per crucem expertus esset.
+^$Festinate cum domo, et habebitis brevi rem coram me narrantem.
+^$Iulio 27. anno 37.<un>Megand. vester.
+<lz>[Adresse auf der Rückseite:] Charissimis suis et amicis et fratribus Bullingero et Leoni, Tiguri a concionibus.
+</content>
+</letter>

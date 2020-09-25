@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2528">
+<brief>
+<id>16218</id>
+<nr>2528</nr>
+<ae>Giovanni Domenico Panizzone an Bullinger</ae>
+<od>Bremgarten, 7. August 1546</od>
+<vo>Autograph: Zürich StA, E II 355, 113 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie)</k></dr>
+<re>Panizzone will Bullinger mitteilen, dass er sich im Auftrag Mailands erneut [in diplomatischer Mission] in der Eidgenossenschaft aufhält.
+<t/>[In Bremgarten] ist er wieder im Gasthaus von Marti, dem Verwandten Bullingers, den Letzterer ihm einst empfohlen hatte, abgestiegen. Er hat auch den päpstlichen Nuntius [Girolamo Franco] dazu bewogen.
+<t/>Außer dem am 18. Juli stattgefundenen Auszug des zur Unterstützung Kaiser [Karls V.] zusammengestellten päpstlichen Heeres aus Bologna hat Panizzone nichts Neues zu berichten. Er könnte aber Bullinger eine Kopie des zwischen [Paul III.] und [Karl V.] abgeschlossenen Vertrages zustellen, durch den die Ungehorsamen [Deutschlands] zum Gehorsam gezwungen werden sollen. Seinerseits möge Bullinger allfällige Neuigkeiten zum Krieg in Deutschland senden. Grüße an die Ratsherren von Zürich und an Bullingers Familie.</re>
+<text>
+<p>Observandissime domine, praesentibus te saluto, ut scias me iterum ad dominos Helvetios pro observanda et manutenenda
+<fn>aufrechtzuerhaltende; s. <a>Kirsch</a> 1729 s.v. manuteneo.</fn> bona amicitia et vicinitate status Mediolani
+<fn>Panizzone war seit 1535 Repräsentant des Statthalters von Mailand (zur Zeit des vorliegenden Schreibens war dies Ferrante I. Gonzaga); s. <a>HBBW</a> XIV 386, Anm. 1; XVI 386, Anm. 28. - Schon 1544 hielt sich Panizzone auf Mission in der Eidgenossenschaft auf und war auch damals im Gasthaus der Bullinger in Bremgarten abgestiegen; s. <a>HBBW</a> XIV, Nr. 1979. 1983. 1992.<zfn>fn16218-1</zfn></fn> missum fuisse. Si in aliquo igitur tibi usui esse possum, tuus sum, et superi
+<fn>die vergangenen Beziehungen mit Bullinger.</fn> me genuere tuum.</p>
+<p>Quoniam Martinum Bolingerium
+<fn>Bullingers Verwandter Marti Bullinger, Wirt "Zum Ochsen" in Bremgarten; s. <a>HBBW</a> XIV 387f, Anm. 13.</fn> tuum mihi aliquando commendasti
+<fn>Ein solcher Brief Bullingers ist nicht erhalten; s. aber <qv>fn16218-1</qv>.</fn>, ego ad hospitium suum diverti et oratori pontificio
+<fn>Girolamo Franco, päpstlicher Nuntius an der Tagsatzung zu Baden im Juli; s. <qv>nr2474</qv>, <qv>fn16164-1</qv>; <qv>nr2494</qv>, <qv>fn16184-1</qv>.</fn> persuasi, ut ipse pariter diverteret, prout ambo simul fecimus et apud eum hospitamus! Nec deero, ubi potero, eum semper iuvare.</p>
+<p>Nova alia non habeo, <zzl>zl16218-1A</zzl>nisi quod exercitus pontificius 18. iulii ex Bononia recessit,
+<fn>Zum Auszug des päpstlichen Heeres aus Bologna s. <qv>nr2511</qv>, <qv>fn16201-7</qv>; <qv>nr2518</qv> und <qv>fn16212-5</qv>.</fn> ut in Germaniam transeat ad c{e}sari
+<fn>Karl V.</fn> suppetias.<zzl>zl16218-1E</zzl> <zzl>zl16218-2A</zzl>Est mihi etiam f{e}dus inter suam sanctitatem
+<fn>Paul III.</fn> et maiestatem factum, ut inobedientes ad obedientiam cum armis vel sine armis reducantur.
+<fn>Es handelt sich um die am 26. Juni zwischen Kaiser und Papst ausgehandelten Artikel, die u.a. in "Bapsts Pauli III Breve" (<a>VD16</a> K437), f. Ciii v.-Dii r., veröffentlicht wurden; s. schon <qv>nr2485</qv>, <qv>fn16175-4</qv>.<zfn>fn16218-2</zfn></fn> Si videre cupis dictum fedus, monitus exemplum statim transmittam.<zzl>zl16218-2E</zzl> Si tu aliquid de bello Germanico novi habes, literis tuis
+<fn>Eine Antwort Bullingers ist nicht erhalten.</fn> libenter intelligam, cui ac dominis Tigurinis et tu{e} famili{e} ex animo me comendo.</p>
+<p>Bremgarti, 7. augusti 1546.</p>
+<un>Totus tuus Ioannes Dominicus Panizonus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Observandissimo domino meo d. H. Bolingerio, etc. Turregi.</p>
+</text>
+</brief>

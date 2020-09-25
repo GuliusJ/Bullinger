@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2098">
+<nr>2098</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>Bürgermeister</addressee>
+	<addressee>Rat ^$^$^$^$zu Frankfurt am Main</addressee>
+	<note fn=1>Weicker (Wicker) Reiss (Reiß, Raiss), geb. 1500, gest. 1559, Älterer Bürgermeister in Frankfurt im Amtsjahr 1544. Reiss war 1529 in die Gemeindebank kooptiert und 1533 zum Jüngeren Bürgermeister gewählt worden. 1536 wurde er in die Schöffenbank gewählt. Das Amt des Älteren Bürgermeisters bekleidete er 1539, 1544 und 1551. In Frankfurt wurden jährlich am 1. Mai zwei Bürgermeister auf ein Jahr gewählt: der Ältere Bürgermeister aus der ersten Ratsbank (Schöffenbank) und der Jüngere Bürgermeister aus der zweiten Ratsbank (Gemeindebank). Diese beiden Bänke wurden von Patriziern besetzt. Jüngerer Bürgermeister des Amtsjahrs 1544 war Daniel zum Jungen (Georg Ludwig ^#/+Kriegk,^#/- Deutsches Bürgerthum im Mittelalter nach urkundlichen Forschungen und mit besonderer Beziehung auf Frankfurt am Main, Frankfurt a. M. 1868, S. 491). Wir danken Herrn Dr. Michael Matthäus, Institut für Stadtgeschichte Frankfurt a. M., für freundliche Auskunft. ^&xReiss' Nachfolger wurde Oger (Ogir, Ogier, Oyer) von Melem, älterer Bürgermeister in Frankfurt am Main in den Jahren 1545, 1550 und 1553. Siehe Reinhard ^#/+Frost,^#/- Im Zeichen des Krebses. Die Frankfurter Kaufmannsfamilie Melem, in: Spurensuche in Sprach- und Geschichtslandschaften, FS für Ernst Erich Metzner, Münster-Hamburg-London 2003, S. 179-191. Von Melem wurde am 1. Mai 1545 in Frankfurt zum Schöffenbürgermeister des neuen Amtsjahrs gewählt; s. Irene ^#/+Haas,^#/- Reformation-Konfession-Tradition. Frankfurt am Main im Schmalkaldischen Bund 1536-1547, Frankfurt am Main 1991, S. 284.^&x{</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. März 1545</date>
+</space_time>
+<vo>Autographer Entwurf: Zürich StA, E II 337a, 370v.-371r.</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 196^&x{
+<re>Den Adressaten ist gewiss bekannt, wie schmählich Luther sich in seinem ["Kurtz bekentnis"] über die [Zürcher Kirche] und auch über Verstorbene geäußert hat. Deshalb übersendet Bullinger das ["Warhaffte Bekanntnuß"] der [Zürcher] Kirche und bittet, deren Schriften nicht ungelesen zu verdammen, zumal manche diese unterdrücken und verbieten wollen. [Die Zürcher] sind unschuldig und ohne rechtmäßigen Anlass von Luther geschmäht und als offenkundige Ketzer, die keinen Glaubensartikel anerkennen, verdammt worden, so dass es nur gerecht wäre, ihre Antwort ebenfalls anzuhören.
+-^#. Bullinger bittet um wohlwollende Aufnahme seines Schreibens und des [beigelegten] Büchleins.</re>
+<tx>Fromen, erenvesten, fürsichtigen, ersammen und wysen, gnedigen lieben herren, min willig dienst, früntlicher gruͦß und alles guͦts sye u[wer] w[ysheit] bevoran bereit<f1>bevoran bereit: vorab entboten.<fe>.
+^$Wie schmaͤchlich und grüwlichd. Martin Luther wider unsere kylchen, denen wir dienend,
+wider uns, ouch wider abgestorbne, fromme eeren, glerte lüt<f1>Gemeint sind u.a. Zwingli und Oekolampad; s. HBBW XIV 507, Anm. 47.<fe> vergangens jars
+geschriben hab<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>, ist mencklichem<f1>jedem.<fe> kundt.
+Deßhalb ich wol gedencken kan, das soͤlich sin schryben ouch u. w. fürkummen<f1>vorgekommen, bekannt geworden.<fe> sye.
+Dorumb überschick ich u. w. hie gar früntlicher guͦter meinung unser kylchen bekanntnus
+des gloubens<fx>bekanntnus des gloubens ^#/+am Rande nachgetragen.^#/-<fe>, verantwortung und unschuld<f1>Das "Warhaffte Bekanntnuß" der Zürcher, das kurz vor dem 12. März 1545 erschienen war; s. oben Nr. 2061, Anm. 9.<fe>, und bitt umb gottes willen,
+u. w. woͤlle uns ouch verhoͤren<f1>anhören.<fe> und, ob<f1>falls.<fe> unsd. Luther by u. w. mitt sinem ungebürlichen schryben
+verleydet<f1>verleumdet.<fe> haͤtte, unser gebürlich<f1>angemessenes.<fe>, zymlich<f1>sich ziemendes.<fe> schryben dargaͤgen von u. w. eigentlich<fx>von u. w. eigentlich ^#/+über der Zeile nachgetragen.^#/-<fe> ermaͤssen <vl>371r.</vl> werde.
+Und wiewol wir uns gaͤgen u. w. aller früntlikeit<fx>früntlikeit ^#/+am Rande nachgetragen.^#/-<fe>, gebürlikeit und billikeit versaͤhend,
+diewyl aber ettliche troͤwend<f1>drohen.<fe>, unsere buͤcher muͤssind uns<fx>ettliche troͤwend, unsere buͤcher muͤssind uns ^#/+über gestrichenem^#/- an ettlichen orten unsere buͤcher.<fe> undertruckt und verbotten werden,
+so bitten ich im namen aller dienern der kylchen hie<f1>hier in.<fe> Zürych umb gottes, der graͤchtikeit und goͤttlicher warheit willen<fx>umb gottes, der graͤchtikeit und goͤttlicher warheit willen ^#/+am Rande nachgetragen.^#/-<fe>,
+u. w. woͤlle soͤmlichen<f1>solche.<fe> ungebürlichen anmuͦten<fx>soͤmlichen ungebürlichen anmuͦten ^#/+über gestrichenem^#/- mitt der gstallt mitt uns handlen.<fe><f1>Ersuchen (nämlich die Zürcher Bücher zu verbieten).<fe>, ob es an u. w. gebracht wurde,
+nitt willigen und vergünstigen, das wir unverhoͤrt<f1>ungehört.<fe> mitt verbieten unser buͤchern verdampt werdint.
+Doctor Luther hatt uns und die unsern<fx>und die unsern ^#/+am Rande nachgetragen.^#/-<fe> one alles unsers beschulden und one raͤchtmaͤssigen anlaß geschmaͤcht
+und alls wüssenhaffte<f1>offenkundige.<fe> kaͤtzer, ja alls die aller ergiste lüt verdampt, die keinen artickel des gloubens raͤcht gloubind, etc.
+Billich<f1>Angemessen.<fe> ist es, das unsere antwort und unschuld dargaͤgen ze verhoͤren<f1>ze verhoͤren: anzuhören.<fe> nitt abgeschlagen werde.
+Und so u. w. uns hierinn gnedicklich erhoͤrt, hoffend wir, gott werde das rychlich widergelten.
+Dann wo wir u. w. uns<fx>uns ^#/+am Rande nachgetragen.^#/-<fe> immermee mitt underthaͤnigen diensten<fx>mitt underthaͤnigen diensten ^#/+über der Zeile nachgetragen.^#/-<fe> danckbar bewysen koͤndent, woͤltend wir gantz trüwlich und willig thuͦn.
+^$Hiemitt bitten ich u. w. gantz demuͤtig und früntlich, sy woͤlle diß min schryben
+sampt dem buͤchlin gnedicklich und guͦtwillig von irem willigen dienern empfahen und zuͦ guͦtem uffnemmen.
+Gott der allmaͤchtig woͤlle u. w. sampt iren zuͦghoͤrigen allen<fx>sampt iren zuͦghoͤrigen allen ^#/+über der Zeile nachgetragen.^#/-<fe> in sinen gnaden trüwlich erhalten.
+^$Datum Zürych in der eydgnoschafft, 12. martii anno domini 1545.
+<un>U. w. alle
+<un>zyt williger
+<un>Heinrych Bullinger,
+<un>diener der kylchen Zürych.
+<lz>[Adresse als Überschrift:] Den frommen, erenvesten, fürsichtigen, ersammen und wysen herren burgermeistern und radt zuͦ Franckfurt amm Mayn, minen<fx>minen ^#/+unter gestrichenem^#/- sinen ^#/+(auf der Zeile) und gestrichenem^#/- unsren ^#/+(über der Zeile). Unter^#/- minen ^#/+ungestrichenes^#/- sinen.<fe> gnedigen, lieben herren.
+</content>
+</letter>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1876">
+<nr>1876</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>19. März 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 351, 10 (Siegel)</vo>
+^&xK: Zürich ZB, Ms S 54, 88; Erw.: JSG 31, 1906, 39. 63.^&x{
+<re>Hat Bullingers Schrift gegen Cochläus ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"] überflogen und festgestellt, dass er die Verleumdung der Wahrheit derart kundig und maßvoll widerlegt, dass selbst Cochläus, wenn er bei klarem Verstand ist, dies wird anerkennen müssen; eine Übersetzung der Schrift ins Deutsche wäre wünschenswert.<f1>Zu einer Übersetzung kam es nicht.<fe> Zwar erwähnt Cochläus, dass er von Breslau aus schreibe, doch Bullinger scheint dieser Angabe nicht zu trauen; Vadian will ihm helfen, den wahren Aufenthaltsort ausfindig zu machen, möchte aber Bescheid, sobald sich weitere Nachforschungen erübrigen. Gruß; bittet um Nachrichten aus Speyer [vom Reichstag] sowie um die Rücksendung von Dokumenten; es heißt, den Eidgenossen drohe der Bann Kaiser [Karls V.], falls sie sich nicht vom französischen [König Franz^#. I.] lossagen.
+</re>
+<dra>[Gedruckt: Vadian BW VI 287f, Nr. 1331.]</dra>
+^&xS. Legi obiter responsionem tuam, clarissime vir, nec
+aliud indicare habeo, quam locos omnes, qui sunt Cochlei
+sycophantia contaminati, ea te fide et sinceritate tractasse
+vindicasseque, qua debent et possunt ab ullo tractari, qui
+scripturarum et veteris orthodoxae doctrinae peritissimus
+est, et in sale quidem aspergendo non modo foelix existis
+eximia quadam animi moderatione, sed etiam artificiosus;
+neque sane quicquam mea sententia praeteritum est, quod
+veritatem per calumniam in iudicium tratam asserere
+iudiceque vel Cochleo ipso defendere et, ut omnium calculis
+absolvatur, assequi possit. Atque utinam essent, qui bona
+tua gratia Germanicam in linguam transferrent, quo passim et
+ab omnibus legi posset! Cochleum profecto insanum esse
+pronunciabo, si eo lecto meliorem mentem et saniorem non
+recipiet. Quaeris autem, ubinam locorum sit Cochleus?
+Equidem Vratislavię putabam; hinc enim distantiam inter
+se et te, hoc est Tigurum usque, mensus est. Sed nugari
+hominem video te suspicari. Dabo igitur operam, ut
+latitantem e suo specu ceu Cerberum aliquem extrahamus. Si
+prius rescieris, fac, sciam quoque, ne actum agam. Interim
+percontari non desinam, ut, si quid certi habuero, ad te
+repente perscribam.
+^$Vale et me ama, et si quid ex Spira vel rari vel scitu
+digni, fac, oro, sciam, et exemplaria nuper missa remitte.
+Varii sermones sparguntur a nostris de nescio quo banno
+imperiali, cui et Helvetia implicanda sit, ni Gallo
+renunciarit. Dii meliora!
+^$Sangalli, 19. die martii, anno 1544. Raptim.
+<un>Ioach. Vadianus.
+<lz>[Adresse auf der Rückseite:] Henrycho Bullingero,
+Tigurinae urbis episcopo, viro longe clarissimo doctissimoque.^&x{
+</content>
+</letter>

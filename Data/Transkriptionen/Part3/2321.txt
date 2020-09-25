@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2321">
+<brief>
+<id>16009</id>
+<nr>2321</nr>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 3. Januar 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 144 (Siegelabdruck)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 5</k></dr>
+<re>Bullinger hat Myconius zwar nichts Interessantes mitzuteilen, schreibt aber, weil er einen zuverlässigen Boten [...] hat.
+<t/>Freunde schrieben aus Hessen [<a>HBBW</a> XV, Nr. 2305, und ein nicht erhaltener Brief] über die grausamen Pläne von [Herzog Heinrich von] Braunschweig. Man fand in seinem Lager Schilder, die er nach seinem Sieg an die Tore der [eingenommenen] Städte heften wollte: Das eine mit seinen Herrschaftsinsignien für die Gewährung von Gnade gegenüber denen, die sich ergeben würden (wobei diejenigen, die sich widersetzt hätten, hingerichtet worden wären). Das andere Schild mit Fackeln und Besen als Anzeichen dafür, dass die betreffende Stadt in Brand gesteckt und ausgefegt würde. Dass man nun einen solchen Tyrannen milde behandelt, ziemt sich freilich! [Die Freunde aus Hessen] schreiben auch, dass über den Tyrannen noch nichts beschlossen wurde, und dass der jüngere [Karl Viktor] zu Kassel [richtig: Marburg] häufig Ball spiele. Der Brief wurde am 9. Dezember [1545] in Marburg geschrieben.
+<t/>Über die [Zürcher] Angelegenheiten kann der Bote Auskunft geben.
+<t/>Bullingers letzten Brief [<a>HBBW</a> XV, Nr. 2314] hat der Wiler Bürger [Thomas Grunder] überbracht.
+<t/>Gruß an [Johannes] Gast.</re>
+<text>
+<p>Gratiam et vitae innocentiam a domino. <zzl>zl2321-3A</zzl>Quia certum habebam tabellionem
+<fn>Unbekannt. Vielleicht Rudolf Kopp oder Johann Felix Renner; vgl. <qv>nr2386</qv>,<qv>zl2386-2</qv>.</fn>,<zzl>zl2321-3E</zzl> scribere volebam, saltem ne omnino tacerem
+<fn>Anspielung auf Myconius' Vorwurf aus dem Vorjahr; vgl. <a>HBBW</a> XV 506,1.</fn>. Alioqui quod dicam, non habeo, quod tua videlicet scire magnopere referat.</p>
+<p><zzl>zl2321-1A</zzl>Ex Hassia scribunt amici
+<fn>Heinrich Hindermann mit einem am 6. Dezember 1545 aus Marburg verfassten Schreiben (<a>HBBW</a> XV 680-682, Nr. 2305) und Johannes Pincier mit einem nicht mehr erhaltenen, jedoch bezeugten Brief an Bullinger, der am 9. (vgl. unten Z. <qv>zl2321-2</qv>), vielleicht aber auch am 10. (vgl. <qv>nr2326</qv> und <qv>fn2326-3</qv>) Dezember 1545 aus Wetter geschrieben wurde, und in dem wohl von den beiden unten angeführten Schildern erzählt wurde. - Allerdings hatte Pincier auch Konrad Pellikan darüber berichtet, und zwar in einem Brief datiert "circiter solstitium hybernum", was damals - vor der gregorianischen Kalenderreform - ca. dem 9. oder 10. Dezember entsprach (Zürich ZB, Ms F 47, 118). - Wir danken Herrn Rainer Henrich für diesen Hinweis.<zfn>fn2321-1</zfn></fn> de consiliis Brunsvicensis
+<fn>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.</fn> plane crudelissimis. Inventae sunt in castris picturae, quas post victoriam adeptam urbium
+<fn>Die Städte, die Herzog Heinrich erobern wollte.</fn> portis affigere voluit. Et altera quidem habuit tyranni insignia: indicia clementiae, attamen tyrannicae; debuit enim civitas illa non vastari quidem, sed diripi caesis obsistentibus, in dedicionem acceptis supplicantibus. Altera facem habuit et scopas: indicium, quod ea urbs igni in cineres ita redigi deberet, ut scopis possit verri.
+<fn>Vgl. dazu auch <qv>nr2326</qv>.</fn> Merito autem huiusmodi tyrannus clementer excipitur et clementissime tractatur!
+<fn>Ironisch gemeint.</fn> Addunt isti nihildum tamen de principe sive tyranno constitutum adhuc; iuniorem
+<fn>Karl Viktor, der Sohn Herzog Heinrichs.</fn> Cassellis
+<fn>Korrekt ist Marburg; s. <a>HBBW</a> XV 682,36-38.</fn> pila frequenter ludere.
+<fn>Angabe aus <a>HBBW</a> XV 682,38, ein Brief, der allerdings am 6. Dezember 1545 verfasst wurde.</fn> <zzl>zl2321-2A</zzl>Literae
+<fn>Gemeint sind die oben Z. <qv>zl2321-1</qv> erwähnten Mitteilungen hessischer Freunde.</fn> scriptae sunt Marpurgi
+<fn>Wahrscheinlich auch aus Wetter; s. oben <qv>fn2321-1</qv>.</fn>, 9. decembris.
+<fn>Vielleicht aber auch am 10. Dezember; s. oben <qv>fn2321-1</qv>.</fn><zzl>zl2321-2E</zzl></p>
+<p><zzl>zl2321-4A</zzl>De rebus nostris poterit hic tibi tabellio referre.<zzl>zl2321-4E</zzl></p>
+<p>Vale cum omnibus bonis et amicis. Tiguri, 3. ianuarii anno 1546.</p>
+<p>Proximas
+<fn><a>HBBW</a> XV, Nr. 2314.</fn> tibi per civem Wilanum
+<fn>Thomas Grunder aus Wil. Zu ihm als Überbringer des vorhergehenden Briefes an Myconius s. <a>HBBW</a> XV 705,43-47; zu seiner Person s. <a>HBBW</a> XV 433f mit Anm. 18.</fn> redditas arbitror.</p>
+<p>Salutabis d. Gastium.</p>
+<un>Tuus Bullingerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Osvaldo Myconio, Basiliensis ecclesiae ministro fidelissimo, domino et fratri suo semper colendo.</p>
+</text>
+</brief>

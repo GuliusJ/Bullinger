@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1521">
+<nr>1521</nr>
+<correspondents>
+	<originator fn=1>Syndics</originator>
+	<originator>Rat von Genf</originator>
+	<addressee>die Pfarrer von Zürich</addressee>
+	<note fn=1>Die vier Syndics des Jahres 1541 waren Jean-Ami Curtet, Ami Bandière, Dominique d'Arlod, und Pernet des Fosses; vgl. Corr. des réformateurs VII 17.^&xListen in: A. Roget, Hist. du peuple de Genève.^&x{</note>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>26. Mai 1541</date>
+</space_time>
+<vo>Original<fx>^#/+Mit Dorsualvermerk von der Hand Johann Jakob Breitingers.^#/-<fe>: Zürich StA, E II 337a, 332 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 113</vo>
+<re>Da sie auf gottesfürchtige Pfarrer angewiesen sind, um den Schäden zu wehren, die aus der unrechtmäßigen Vertreibung
+ihrer früheren Pfarrer entstanden sind, wenden sie sich an die Pfarrer von Zürich [sowie von Basel und Straßburg], haben diese
+doch bereits [im Mai 1538] durch ihre Fürsprache für Farel, Calvin und Coraud bewiesen, dass sie sich um die Kirche von Genf
+ebenso sorgen wie um ihre eigenen Gemeinden. Nachdem Gott die Genfer geeint hat, bitten sie nun um Unterstützung ihrer
+Bemühungen, die Vertriebenen zurückzuholen; sie schic­­ken ihnen einen Brief an den Rat [CO XI 221-226, Nr. 312; Corr.
+des réformateurs 129-132, Nr. 985] samt Abschrift, überlassen es aber ihnen, ob sie diesen weiterleiten oder das Anliegen mündlich vortragen wollen.
+</re>
+<tx>[Gedruckt: CO XI 226-228, Nr. 315; Corr. des réformateurs VII 132f, Nr. 986.]
+^&x Non ignoratis, fratres et amici integerrimi, in quos
+tumultus et horrenda incidimus scandala ab eo, quo pii
+pastores ac ministri nostri magna quidem iniuria tumultu et
+conspiratione potius quam iuditii ordine ab urbe nostra
+iniuste profligati fuerunt. Quibus nequaquam mederi possumus
+neque id tam periculosum curare vulnus, nisi pios habuerimus
+pastores et ministros peritos, sapientes et deum timentes ad
+hanc resartiendam ruynam. Quam ob rem ad vos confugimus,
+quos tanta teneri solicitudine huius ecclesie nostre, quanta
+earum, que vobis istic concredite sunt, certo novimus,
+huiusque vel edificationem vel destructionem pariter
+vestrarum esse ducentes, quod abunde demonstrastis, dum tot
+viribus magistratui nostro persuadere conati estis
+charissimorum fratrum fidorumque ministrorum nostrorum
+Farelli, Calvini et Choraudi restaurandum esse ministerium,
+in pristinum quoque statum et offitium esse integrandos. ^&x{
+^&x Quod tunc importunitate ac prefractione eorum, qui populi
+turbatores erant, nullo fieri pacto potuit, und ingentem
+piorum ac proborum virorum turbam ad gemitum et lachrymas
+adegerunt animadvertentes urbem nostram tanta dei ira
+concussam esse. Nunc autem, quum pientissimus pater
+benignitate sua nos visitaverit et in gregem unum nos
+congregaverit, in nomine domini vos ardentissime oramus, ut,
+qui adeo laborastis in restituendis fratribus et pastoribus
+nostris fidelibus, dum per eos reiecti essent, qui propriam
+sectabantur concupiscentiam potius quam dei voluntatem, nunc
+quoque in his revocandis nos iuvare velitis, dum ab ipso
+magistratu totoque requiruntur populo abunde sentientes, ^&x{
+^&x quam gravem hinc iacturam sustinuerint et adhuc sustineant.
+Placeat igitur vobis in tanto opere nobis adesse iuxta
+tenorem litterarum nostrarum ad magnificos dominos principes
+vestros scripturarum, quas ideo ad vos cum earum exemplari
+transcriptio mittimus, ut, si necessarium et utile
+duxeritis, reddantur, sin minus retineantur. Omnino agite,
+prout vestra providentia et consilio magis expedire
+videritis, sive reddatis sive domninorum vestrorum
+excellentiam ipsi pro nobis conveniatis ea, que in ipsis
+continentur literis, proposituri eis; omnia enim vestro
+committimus iuditio vobis perinde atque nobis confidenetes
+certo persuasi vos totis viribus in hoc tam gravi serioque
+domini negotio nobis auxiliatrices manus porrecturos. Id ^&x{
+^&x autem facientes declarabitis, quanta sit vobis cura et
+solicitudo christiane ecclesie, qua demum vigilantia super
+grege ipsius attendatis quave dilectione rempublicam nostram
+prosequamini. Dominus vos omni benedictione et gratia
+impleat ad perfitiendum atque illustrandum hoc suum opus,
+quod vobis concreditum est.
+^$Valete.
+^$Genevae, 26. maii 1541.
+<un>Vestri ex animo amici syndici et
+<un>senatus Genevensis civitatis.
+<lz>[Adresse .....:] Vigilangissimis
+prudentissimisque pastoribus ac ministris ecclesie
+Tigurinis, amicis nostris in domino observandis.^&x{
+</content>
+</letter>

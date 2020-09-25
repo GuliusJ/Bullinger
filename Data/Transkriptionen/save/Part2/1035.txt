@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1035">
+<nr>1035</nr>
+<correspondents>
+	<originator>Die Pfarrer von Genf</originator>
+	<addressee>die Pfarrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>30. August [1537]</date>
+	<note>Der Konflikt der Genfer mit Caroli, Hauptgegenstand dieses Briefes, fällt in das Jahr 1537.</note>
+</space_time>
+<vo>Ausfertigung von unbekannter Hand<fx>^#/+Entwurf von der Hand Calvins in Genf BPU, Ms. lat. 106, 9r.-10r.^#/-<fe>: Zürich StA, E II 337, 260r.-v. (Sie­­gel­­spur)
+</vo>
+<dr></dr>
+<re>Obwohl sie Carolis Vorwürfe bereits durch das von Grynäus übersandte Bekenntnis entkräftet haben, werden sie immer
+noch verdächtigt, falsch zu lehren und Caroli zu scharf angegriffen zu haben. Von dessen Kritik an ihrem Bekenntnis
+blieben nach ihrer Stellungnahme nur zwei Punkte umstritten: die Verwendung der Begriffe "Trinität" und "Person" sowie
+die Gottheit Christi. Die erwähnten Begriffe haben sie einzig deshalb vermieden, weil sie den Zwang zu vorgeschriebenen
+Formulierungen ablehnen und nicht den Anschein erwecken wollten, ihre bisherige Lehre korrigieren zu müssen. Daß Christus Gott ist und nicht nur an
+der Gottheit des Vaters Anteil hat, lehrt schon Cyrill; dies drückt auch die Heilige Schrift aus, wenn sie Christus
+Jehovah nennt. Urheber des Konflikts ist Caroli, der über die Fürbitte für die Toten zu streiten begann und Viret trotz
+dessen Zurückhaltung schließlich des Arianismus bezichtigte; erst als ihn Calvin und Farel mit dem Hinweis auf die Lehre
+des Genfer Katechismus nicht zur Ruhe bringen konnten, verlangte Calvin, sich vor der Berner Synode verantworten zu
+dürfen. Der klare Ausgang zeigt, daß sie sich zu Recht zur Wehr gesetzt haben; ihnen liegt einzig daran, die Sache
+klarzustellen und die Verbindung mit der Zürcher Kirche zu stärken.
+</re>
+<tx>[Gedruckt<fx>^#/+Auch in: F[riedrich] Trechsel, Die Protestantischen Antitrinitarier vor Faustus Socin, Erstes
+Buch, Heidelberg 1839, 273-275 (Beilage I). Dieser Abdruck beruht auf den
+Kopien in Bern StA, B III 61, 1-5. 13-15. l7-22.^#/-<fe>: Corr. des réformateurs IV 281-286, Nr. 654; CO X/2 119-123, Nr. 74.]
+</content>
+</letter>

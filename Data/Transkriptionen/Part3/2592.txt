@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2592">
+<brief>
+<id>16279</id>
+<nr>2592</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 20. September 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 199 (Siegel)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 510, Nr. 1350<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 161</k></dr>
+<re>Blarer hat den Brief [nicht erhalten] empfangen, in dem Bullinger das Zögern [der Schmalkaldener] tadelt. Er kann dem nur zustimmen und hofft auf göttliche Lenkung.
+<t/>Bullingers Befürchtungen in Bezug auf [Francesco di] Castellalto sind ebenfalls berechtigt. Die [Schmalkaldener] waren viel zu langsam.
+<t/>Sonst gibt es kaum vertrauenswürdige Nachrichten, außer dass [Maximilian von Egmont, Graf von] Büren, sich derzeit bereits beim Kaiser [Karl V.] befinden soll. Gott möge helfen, dass man ohne Schande aus der Sache herauskomme!
+<t/>Ein Konstanzer Kaufmann, Niklaus Kröl, schreibt aus Venedig, dass der Kaiser von den Venezianern Durchzugsrecht und Proviant sowie Hilfe [im Kampf gegen die Protestanten] verlangt hat. Außerdem fordert er, dass sie die Güter der deutschen Protestanten beschlagnahmen. Sie lehnten dies jedoch ab.
+<t/>Gerne hätten die [Konstanzer] ihren Prediger [...] mit den nun leider schon nach Augsburg aufgebrochenen [Zürcher] Pfarrern [Rudolf Schwyzer, Lorenz Meyer und Thoman Ruman] mitgeschickt. Nun muss er allein reisen. Die Augsburger haben auch die Konstanzer um Prediger gebeten. Da aber schon drei [Johannes Schnell, Johannes Jung und Martin Wetzler an andere Orte] entsandt wurden, können sie jetzt nur einen entbehren.
+<t/>Warum die Berner die Zürcher wohl um einen Prediger bitten? Es gibt Gerüchte, laut denen sie ein für alle Mal an der Abendmahlslehre festhalten wollen, die während ihrer Disputation [von 1528] diskutiert, [bestätigt] und gedruckt wurde. Bullinger soll Näheres mitteilen.
+<t/>Er möge beten, was Blarer auch tun wird.
+<t/>Er soll ferner helfen, dass [Hans] Schöner den von seiner Schwester [Sabina] verfassten Brief mit dem Geld bekommt.
+<t/>Grüße.</re>
+<text>
+<p>S. <zzl>zl16279-2A</zzl>Accepi postremas tuas
+<fn>Nicht erhalten.</fn>,<zzl>zl16279-2E</zzl> mi charissime frater, in quibus nostrorum comperendinationem
+<fn>Aufschub; s. <a>Kirsch</a> 622.</fn> utinam tam feliciter accusares, quam merito istuc facis. Video domini cogitationes longe alias esse,
+<fn>Jes 55, 8f.</fn> quibus glorificare vult suum nomen non in nostra, sed sua virtute. De Castelalter
+<fn>Francesco di Castellalto, unter dessen Führung die Klause Ehrenberg von den Kaiserlichen zurückerobert wurde; s. dazu die Verweise in <qv>nr2582</qv>, <qv>fn16271-1</qv>.</fn> recte admones. Verum video mirabilles nostrorum in iis, ubi sedulos esse opportebat, cessationes. Dominus consilia ipsorum sui spiritus sapientia moderetur et dirigat!</p>
+<p>Nihil nunc est novi, quod ego quidem sciam, cuius te certiorem reddere possim, dann das man constanter sagt, der von Peuren
+<fn>Maximilian von Egmont, Graf von Büren. - Er war am 15. September im kaiserlichen Lager in Kösching bei Ingolstadt (Lkr. Eichstätt) eingetroffen (s. <qv>nr2572</qv>, <qv>fn16260-5</qv>), während sein Heer am 15. und 16. September ankam; s. <qv>nr2560</qv>, <qv>fn16250-11</qv>.<zfn>fn16279-1</zfn></fn> seye auff den huttigen tag schon by dem kaiser
+<fn>Karl V.</fn>. Was weyter folgen werde, gewarten wir all stund z{uo} vernemen. Gott geb, das man on schand und spott usß der sach komme!</p>
+<p><zzl>zl16279-4A</zzl>Ain koffman von hinnen
+<fn>hier (d.h. Konstanz).</fn>, Nicla{uo}ß Cröl
+<fn>Niklaus Kröl (Cröl, Crol, Krell), aus einer reichen Kaufmannsfamilie, war 1542-1547 Konstanzer Ratsherr. Er war ein Schwager von Sebastian Gaisberg (s. <a>Dobras, Ratsregiment</a> 206, Anm. 269). Laut <a>Kindler von Knobloch</a> II 381 bleibt seine Zugehörigkeit zum rhätischen Geschlecht der Kroell von Grimmenstein offen.<zfn>fn16279-3</zfn></fn>, gar ain redlicher mann, schreibt von Venedig, der kaiser habe den Venedigern angem{uo}tet
+<fn>den Venedigern angem{uo}tet: von den Venezianern verlangt.</fn>, das sy
+<fa>sy <i>über der Zeile nachgetragen.</i></fa> pass gebind, item profiandt, item, das sy allen Teutschen der Protestierenden ire g{ue}ter arrestieren wellen, etc. Aber sy habinds alles abgeschlagen.
+<fn>Am 21. September schrieben Johannes Haab und Itelhans Thumysen aus Baden nach Zürich (Zürich StA, A 227/1, Nr. 87), dass laut eines Augsburger Kaufmanns der Papst zwei Kardinäle nach Venedig entsandt hatte, um die Venezianer dazu zu bewegen, die Güter der deutschen Kaufleute zu konfiszieren. Die Venezianer schlugen dies ab und bekräftigten, dass sie die deutschen Kaufleute vielmehr unterstützen würden. Ähnliches findet man in einem am 16. September in Nürnberg verfassten Brief: "Von Venedigen hat ehr [= er, der Kaiser] viel gelder begeret und die deutschen kaufleute zu arrestiren. Das haben die Venediger abgeschlagen"; s. Georg <i>Voigt,</i> Die Geschichtschreibung über den Schmalkaldischen Krieg, Leipzig 1874, S. 755.</fn> Soll inen ouch hilff wider die ketzer z{uo}gem{uo}tet haben.
+<fn>inen ... hilff ... z{uo}gem{uo}tet haben: von ihnen Hilfe verlangt haben; s. <a>Fischer</a> VI/1 1338.</fn><zzl>zl16279-4E</zzl></p>
+<p><zzl>zl16279-6A</zzl>Quod vestri
+<fn>Die drei Zürcher Pfarrer Rudolf Schwyzer d.J., Lorenz Meyer (Agricola) und Thoman Ruman (s. <qv>nr2573</qv>, <qv>fn16262-2</qv>), die sich offenbar via St. Gallen und Lindau nach Augsburg begeben haben.</fn> iam Augustam abierunt, dolet nonnihil, nam sperabamus huc illos venturos, ut <zzl>zl16279-1A</zzl>ex nostris quoque bonus quidam verbi minister
+<fn>Unbekannt.</fn><zzl>zl16279-1E</zzl> ipsis comes iungeretur, qui solus nunc illuc proficisci cogetur. Petierunt Augustani a nobis quoque concionatores,
+<fn>Siehe <qv>nr2572</qv>,<qv>zl16260-8</qv>.</fn> sed iam tres absunt,
+<fn>Nämlich Johannes Schnell, Johannes Jung und Martin Wetzler; s. <qv>nr2572</qv>,<qv>zl16260-5</qv>.</fn> ut extra unum illum
+<fn>Der in Z. <qv>zl16279-1</qv> erwähnte Pfarrer.</fn> nullus sit reliquus, cuius ministerio carere possit nostra ecclesia.<zzl>zl16279-6E</zzl> Dominus ipse operarios extrudat in multam suam messem!
+<fn>Mt 9, 38; Lk 10, 2.</fn></p>
+<p><zzl>zl16279-5A</zzl>Quid sibi velit, quod Bernates a vobis concionatorem petunt,
+<fn>Am 15. September hatte der Berner Rat Zürich um die Entsendung Jodocus Kilchmeyers gebeten; s. <qv>nr2583</qv>, <qv>fn16272-2</qv>.</fn> scire vehementer aveo. Iactitant rumusculi illos semel statuisse iis stare in c{e}n{e} Christi doctrina, qu{e} superioribus annis in sua urbe disputata et excussa sunt
+<fn>Gemeint sind die zehn Thesen, die im Januar 1528 auf der Berner Synode disputiert und danach auch gedruckt wurden; s. <qv>nr2584</qv>, <qv>fn16273-2</qv>.</fn>. Verum nihil certi de hoc a quoquam est allatum. Expecto igitur, quid porro de hac
+<fa><i>In der Vorlage</i> ha.</fa> re ipse scribas.<zzl>zl16279-5E</zzl></p>
+<p>Bene vale. Commenda nos domino piis votis et diligenter et sedulo, quod ipsi quoque vicissim tibi tuisque praestamus.</p>
+<p><zzl>zl16279-3A</zzl>Rogo, ut literas Sch{oe}nero
+<fn>Hans Schöner.</fn> inscriptas, quas una hic accipis, illi reddendas cures. Scripsit ad eum germana ipsius soror
+<fn>Sabina Schöner, wohl eine ehemalige Nonne; s. <a>Blarer BW</a> II 661. Während des Aufenthalts ihres Bruders in Zürich schickte sie ihm des öfteren Briefe und Geld durch Blarer. Dabei schien sie sich in Augsburg aufzuhalten; s. <a>Blarer BW</a> II 669. 701. Im Oktober 1547 sandte ihr Bullinger einen heute nicht mehr erhaltenen Brief; s. <a>Blarer BW</a> II 669. Sie starb Ende 1553/Anfang 1554; s. <a>Blarer BW</a> III 240. - Lit.: <a>Blarer BW</a> II und III Reg.</fn> addito etiam viatico, quo bonus exul commodius vivere queat.<zzl>zl16279-3E</zzl></p>
+<p>Iterum atque iterum vale. 20. septembris 1546.</p>
+<un>Tuus Ambr. Bl.</un>
+<lz/>
+<p>Gratias habeo pro misso libello
+<fn>Da Blarer bereits am 14. September Rudolf Gwalthers "Endtchrist" erhalten hatte (s. <a>Blarer BW</a> 508, Nr. 1347; <qv>nr2589</qv>,<qv>zl16277-3</qv>), ist hier vermutlich Johannes Honterus' Schrift "Rudimenta cosmographica" gemeint (s. dazu <qv>nr2459</qv>, <qv>fn16147-5</qv>), die Ende August erschienen war; vgl. <qv>nr2561</qv>,<qv>zl16252-16</qv>.<zfn>fn16279-2</zfn></fn> maximas.</p>
+<lz/>
+<p>[Adresse auf f. [193a]v.:] An meister Heinrich Bullinger z{uo} Zurich.
+<fn>Dieser Brief wurde dem Boten anvertraut, den Sabina Schöner mit der Übermittlung ihres Briefes und eines Geldbetrages für ihren Bruder Hans in Zürich beauftragt hatte; s. <qv>nr2595</qv>,<qv>zl16283-3</qv>.</fn></p>
+</text>
+</brief>

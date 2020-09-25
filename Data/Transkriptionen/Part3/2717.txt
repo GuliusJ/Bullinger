@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2717">
+<brief>
+<id>16406</id>
+<nr>2717</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-12-17"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 17. Dezember [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 717 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 545f, <br/>Nr. 1380<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 139 </k></dr>
+<re><t>Schon gestern schrieb Blarer [mit <qv>nr2716</qv>] in Eile, und auch jetzt mangelt es ihm an Zeit, da er auch an die Augsburger schreiben möchte, um diese zu weiterer Standhaftigkeit zu ermahnen. Zudem gibt es weder über die [Schmalkaldener] noch über die [Kaiserlichen] irgendetwas Sicheres zu berichten.</t>
+<t>Die Ulmer schicken (leider wohl aus guten Gründen) die Briefe [der Zürcher] zurück. Der Konstanzer Rat wird jetzt die an [Johannes] Haller adressierte Sendung der Zürcher Obrigkeit nach Augsburg übermitteln. Doch zuvor möchte Blarer dieser Sendung seine eigenen Briefe beilegen.</t>
+<t>Über Kaiser [Karl V.] gibt es nichts Verbürgtes. Der Konstanzer Rat, der sonst keine Ausgaben scheut, war überraschenderweise nicht bereit, Geld auszugeben, um durch einen Boten Gewisses über die [Schmalkaldener] und die Feinde erfahren zu können. Doch sobald Blarer etwas Wichtiges vernimmt, wird er es melden.</t>
+<t>Es ist erfreulich, dass die [Zürcher] keinen Schutz ihres Glaubens von den Neun Orten fordern, zumal so etwas nun wirklich nicht getan werden sollte, wie Bullinger es [in einem nicht erhaltenen Brief] schon trefflich dargelegt hat. Dass aber Bern und Basel dies beabsichtigen, befremdet Blarer sehr! Da muss etwas dahinter stecken, das man wohl bald erfahren wird, besonders wenn die Neun Orte das Gesuch ablehnen.</t>
+<t>Ach, wie schlecht steht es um diese Welt! Jeder denkt nur an sich. Man kann auf kein Bündnis mehr zählen. Alles bröckelt auseinander. Doch Bullinger hat recht: Gott wird die Seinen nicht verlassen, solange diese sich von ihm nicht abwenden. Zunächst aber muss man echte Reue und Bekehrung bekunden, da Christus, der die Wahrheit ist, jegliche Falschheit verabscheut.</t>
+<t>Grüße. [Thomas] Blarer und [Konrad] Zwick lassen auch grüßen.</t></re>
+<text>
+<div>
+<p><zzl>zl16406-1A</zzl>Scripsi ad te heri
+<fn>Mit dem in Eile verfassten Brief <qv>nr2716</qv>, da der Bote im Aufbruch war; s. <qv>nr2716</qv>,<qv>zl16405-16</qv>. <qv>zl16405-17</qv>.</fn> plus quam tumultuanter;<zzl>zl16406-3A</zzl> id quod nunc quoque velim nolim facere cogor, mi venerande et plusquam charissime Bullingere, <zzl>zl16406-6A</zzl>quoniam nunc Augustam
+<fn>nach Augsburg.</fn> multa mihi omnino scribenda sunt,<zzl>zl16406-6E</zzl> quos valde cuperem in illa sua laudata constantia pro mea virili
+<fn>= pro mea virili parte.</fn> retinere,
+<fn>Wobei Blarer noch am Vortag Augsburgs Standhaftigkeit gepriesen hatte; s. <qv>nr2716</qv>,<qv>zl16405-3</qv>.</fn><zzl>zl16406-3E</zzl> quamquam, ut maxime vacaret
+<fn>= ut maxime tempus vacaret.</fn>, nihil tamen esset, quod ad te nunc de nostris
+<fn>über die Schmalkaldener.</fn> aut adversariorum rationibus scribere possem; adeo omnia iactantur incerta!<zzl>zl16406-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16406-7A</zzl>Ulmenses vestrorum literas
+<fn>Ein vom Zürcher Rat an Heinrich Thomann gerichteter Brief, den die Ulmer hätten weiterbefördern sollen, den sie aber wegen des am 22. November erfolgten Aufbruchs des schmalkaldischen Heeres den Zürchern via Konstanz zurücksenden ließen; s. die Briefe des Konstanzer Rats an den Zürcher Rat vom 13. und 16. Dezember (Zürich StA, A 177, Nr. 152f). Unterdessen aber war Thomann am 8. Dezember wieder nach Zürich gelangt; s. <qv>nr2713</qv>,<qv>zl16401-1</qv>. Dem Brief des Zürcher Rats an Thomann war vermutlich auch ein Brief Bullingers an denselben beigelegt, dem wohl auch Bullingers Schreiben <qv>nr2693</qv> (vom 26. November) an Simon Bing beigefügt gewesen war. Dies würde erklären, warum Blarer hier auch Bullinger über die Rücksendung der Briefe durch seine Behörden benachrichtigt; vgl. nämlich <qv>nr2693</qv>, <qv>fn16379-9</qv>.<zfn>fn16406-3</zfn></fn> remittunt. Vereor, ut sync{e}ro animo fecerint.<zzl>zl16406-7E</zzl> <zzl>zl16406-2A</zzl>Nostri senatus
+<fn>= Nostrum senatus; s. dazu <a>Stotz</a> IV 406, Nr. 111.8.</fn> vestri literas iam Augustam mittet, quibus Hallero inscriptas
+<fn>Ein nicht erhaltener Brief Bullingers an Haller, etwa vom 14. Dezember (s. schon <qv>nr2716</qv>,<qv>zl16405-2</qv>), den Haller am 26. Dezember empfing (s. <qv>nr2726</qv>,<qv>zl16415-2</qv>), und ein Schreiben des Zürcher Rats an den Augsburger Rat vom 14. Dezember (Zürich StA, B IV 16, 73v.). Mit Letzterem verlangten die Zürcher, dass man ihnen Lorenz Meyer, Thoman Ruman und Rudolf Schwyzer d.Ä. zurückschicke (vgl. <qv>nr2726</qv>,<qv>zl16415-1</qv>). Die Augsburger verdankten das Schreiben am 7. Januar 1547 (Zürich StA, A 202/1, Nr. 21), baten aber, dass man ihnen die drei Prädikanten weiterhin überlasse.<zfn>fn16406-1</zfn></fn>, pariter et meas
+<fn>Die schon oben Z. <qv>zl16406-3</qv> erwähnten Briefe, u.a. auch ein in <a>Blarer BW</a> nicht veröffentlichter Brief an Georg Frölich; s. <qv>nr2726</qv>,<qv>zl16415-2</qv>.<zfn>fn16406-2</zfn></fn> coniunctas cupio.<zzl>zl16406-2E</zzl></p>
+</div>
+<div>
+<p>Wir h{oe}rend ain ainigs gewisses gschray nitt
+<fn>ain ainigs gewisses gschray nitt: kein einziges verbürgtes Gerücht.</fn> vom keyser
+<fn>Karl V.</fn>, ut supra modum demirer nostrorum negligentiam, qui, quum alioqui non ferendos sumptus faciunt, nolint etiam in tabellarios tantum impendere, ut, quid a nostris quidve ab adversariis agatur, certo subinde resciscant. Ubi primum tua cognitione dignum aliquid accepero, diligenter curabo, ut nulla tibi mora significem.</p>
+</div>
+<div>
+<p><zzl>zl16406-5A</zzl>Es gefellt unß treffelich wol, das ewer herren
+<fn>Die Zürcher Ratsherren im Gegensatz zu denen von Bern oder Basel; s. dazu schon <qv>nr2708</qv>,<qv>zl16398-10</qv>.</fn> alls handtlich
+<fn>alls handtlich: derart standhaft; s. <a>SI</a> XII 1404.</fn> sind und mitt den 9 orten des schirms halb irer religion sich nitt haben wellen inlassen. Dann solichs ja usß ursachen, wie ir die gemeldt,
+<fn>In einem nicht erhaltenen Brief Bullingers, der auch unten Z. <qv>zl16406-4</qv> vorausgesetzt wird.</fn> kainswegs z{uo} thain
+<fn>tun.</fn> ist. Nympt unß treffelich frombd an Bern und Basel,
+<fn>Nympt unß treffelich frombd an Bern und Basel: Berns und Basels Haltung befremdet uns sehr.</fn> was sy doch damitt mainind
+<fn>beabsichtigen; s. <a>Fischer</a> IV 1577.</fn>. Achtend, es stecke sonst etwas darhinder, wie sich die sach dann bald wirt sechen lassen, sonderlich im fal, das inen durch die neun ort s{oe}lichs ir beger abgeschlagen wurde
+<fn>würde.</fn>.<zzl>zl16406-5E</zzl></p>
+</div>
+<div>
+<p>Ach herr gott, wie zerrütt und zerludlet
+<fn>verlottert; s. <a>Fischer</a> VI 1140.</fn> steht es in aller wellt! Es sicht kains mer recht z{uo} dem andern.
+<fn>Vgl. Mt 24, 12.</fn> All f{uo}gen und band lassend
+<fn>brechen auseinander. - Vgl. Mt 10, 21; 24, 10; 2Tim 3, 2-4.</fn>. Es kracht und brastlet
+<fn>prasselt; s. <a>SI</a> V 833.</fn> alles, sam
+<fn>als ob; s. <a>SI</a> VII 902.</fn> es welle z{uo} trümern gehn! <zzl>zl16406-4A</zzl>Verum ita est, ut scribis: Non deseret dominus suos,
+<fn>Vgl. z.B. 1Sam 12, 22.</fn> modo nos non ipsum deseramus.<zzl>zl16406-4E</zzl> Urgeamus, quantum possumus dignam christianis hominibus resipiscentiam solidamque ad dominum conversionem, qua sine frustra illius opem imploramus, adeoque magis ac magis iram illius gravius contra nos irritamus
+<fa><i>In der Vorlage</i> iritamus.</fa>. Odit enim, qui veritas est,
+<fn>nämlich Christus; vgl. Joh 14, 6.</fn> quicquid falsum,
+<fn>Vgl. Ps 119 (Vulg 118), 104. 128. 163.</fn> quicquid fucatum est, et proximus praesenti suo numine adest omnibus invocantibus se in veritat[e]
+<fa><i>Textverlust durch Papierverlust.</i></fa>.
+<fn>Vgl. Ps 145 (Vulg 144), 18; Joh 4, 23f.</fn></p>
+</div>
+<div>
+<p>Bene vale, domine et anime mi, nostri apud dominum memor. Salutant te germanus meus frater
+<fn>Thomas Blarer.</fn> cum Zviccio
+<fn>Konrad Zwick.</fn>. 17. decembris.</p>
+<un>Tuus Amb. Bl.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinricho Bullingero, summo amico fratrique in domino charissimo su[o]
+<fa><i>Textverlust bei Entfernung des Verschlussbandes.</i></fa>. Z{ue}rich.</p>
+</div>
+</text>
+</brief>

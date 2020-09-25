@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2657">
+<brief>
+<id>16346</id>
+<nr>2657</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-04"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 4. November 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 47 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, 396f, Nr. 9; <br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 132-135, Nr. 11<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 54; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 224 (Schmidt); Madrid BN, 8862, suelto und f. Ddro 7; Erw.: Boehmer, Spanish Reformers I, 1874, S. 183 (Boehmer: Hd II 2259; García: Hd II 1023) </k></dr>
+<re><t>Enzinas schrieb gestern an Bullinger [<qv>nr2656</qv>] und vertraute seinen Brief Myconius an.
+<fn>Myconius wird Enzinas' Brief <qv>nr2656</qv> wie auch das vorliegende Schreiben seinem Brief vom 4. November (<qv>nr2658</qv>) beigelegt haben.<zfn>fn16346-1</zfn></fn> Er hatte seinem Schreiben einen Brief an [Hieronymus] Sailer beigelegt, welchen er noch in Lindau vermutete. Danach erhielt er aber einen Brief von Sailer, durch den er erfuhr, dass Letzterer nach St. Gallen gezogen ist,
+<fn>Zu den damaligen Aufenthaltsorten Sailers s. schon <a>HBBW</a> XVII 195, Anm. 2. Laut Enzinas' Angabe wird Sailers Umzug nach St. Gallen wohl erst auf Oktober 1546 anzusetzen sein.<zfn>fn16346-2</zfn></fn> was Bullinger möglicherweise bereits wusste. Bullinger möchte also den Brief an Sailer sowie den beiliegenden Brief an [Joachim] Vadian
+<fn><a>Vadian BW</a> VI 577f, Nr. 1505; <a>Enzinas BW</a> 134-137, Nr. 12.<zfn>fn16346-3</zfn></fn> nach St. Gallen befördern. Sonst wartet Enzinas weiterhin auf die Dekrete des Konzils von Trient und auf Diaz' [Glaubensbekenntnis].</t>
+<t>Verbürgtes kann er nicht melden. Jeder erzählt, was ihm gerade einfällt und was seinen Vermutungen bzw. Erwartungen entspricht. Man weiß, dass Lügen sich lohnen.
+<fn>Mögliche Anspielung auf ein von Sophokles überliefertes Sprichwort (Gewinn ist süß, auch wenn er aus einer Lüge kommt), das durch ein Textfragment in der Moralia-Sammlung von Plutarch (genauer in der Schrift De audiendis poetis) erhalten geblieben ist; s. <i>Sophokles,</i> Fragment 833, in: Tragicorum Graecorum Fragmenta, Bd. 4, hg. v. Stefan Radt, Göttingen 1999, S. 552. - Das Sprichwort wurde von Celio Secondo Curione in seiner Basler Plutarch-Ausgabe von 1542 (<a>VD16</a> P3675) veröffentlicht (dort auf S. 15).</fn> Aber solch dummes Gerede können nur maßlose und fürchterliche Menschen verbreiten! Hoffentlich erfährt man aus Zürich Erfreulicheres, besonders den Tod dieses schrecklichen Machthabers [Kaiser Karls V.], dessen Frechheit doch nicht ungestraft bleiben kann!</t>
+<t>Grüße.</t></re> <textweg>
+<div>
+<p>S. D. Heri ad te scripsi et literas dedi Myconio. Mittebam literas ad Sailerum, quem putabam adhuc esse Lindavii; sed postea acceptis ab eo literis intellexi com[m]igrasse Sangallum, quod te antea scivisse non dubito. Illas igitur literas cum istis ad Vadianum primo nuncio mittas Sangallum. Caeterum expecto quoque abs te sessiones Tridentinas et scriptum Diazii, quod antea postulavi.</p>
+</div>
+<div>
+<p>De rebus publicis nihil habeo te dignum. Multa in pervulgatis hominum sermonibus iactantur, sed eius generis omnia, ut neque audire libeat nec scribere. Quisque eos sermones evulgat, qualem ipse in animo opinionem concepit, talemque fore rerum eventum putat, qualem induit ipse cogitationem. Scite mentiri laus est; sed tam stolidos sermones profundere hominis est intemperantis ac ingenii portentosi. A vobis aliquid laeti nuncii accipere posse speramus, quo nullum contingere laetius posset quam de morte istius crudelissimi tyranni
+<fn>Karl V.</fn> certo audire. Certe non credam permansurum impunitam istam giganteam audaciam; quam ut cito de medio sublatam videamus, toto animo a deo postulo.</p>
+</div>
+<div>
+<p>Vale. Basileae, 4. novembris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero, ministro ecclesiae dei, quae est Tiguri, fidelissimo.</p>
+</div> </textweg>
+</brief>

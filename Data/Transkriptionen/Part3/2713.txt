@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2713">
+<brief>
+<id>16401</id>
+<nr>2713</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1546-12-11"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>Zürich, 11. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 158 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 130</k></dr>
+<re><t>Der zu Kriegsbeginn vom Zürcher Rat an die Kanzlei des Landgrafen [Philipp von Hessen] entsandte [Heinrich Thomann] hat den Zug der sich nach Franken begebenden Fürsten [Johann Friedrich von Sachsen und Landgraf Philipp] verlassen und ist am 8. Dezember wieder heimgekehrt. Er berichtet nichts anderes, als was Bullinger bereits [mit <qv>nr2708</qv>] geschrieben hat.</t>
+<t>Der Postverkehr ist eingestellt. Die daraus entstandenen Kosten für Zürich sind viel höher, als man glauben mag, und dabei ist der Krieg noch nirgends zu Ende! Wenn die Dinge wenigstens gut stünden!</t>
+<t>Die Fürsten haben bei ihrem Abzug dem [Herzog Ulrich] von Württemberg etliche Reiter und Fußsoldaten überlassen, der sonst schon 5'000 Landsleute für die Gegenwehr gerüstet hatte.</t>
+<t>Augsburg versieht sich mit etwa 2'000 bis 3'000 Fußsoldaten und 200 oder 300 Kavalleristen. Gott wolle, dass es auch um Ulm gut stünde!</t>
+<t>Kaiser [Karl V.] versucht, die Städte und die Fürsten sowie Letztere untereinander zu spalten. Er verspricht zum Beispiel Württemberg freie Religionswahl. Alles nur Betrug!</t>
+<t>Über den angeblichen und seltsamen Tod des Kaisers wird viel erzählt und gewettet. Bullinger hat dazu Nachrichten aus Augsburg erhalten. Er glaubt dies aber nicht. Es handelt sich dabei gewiss um eine typisch spanische Intrige, ja um ein Ablenkungsmanöver!</t>
+<t>Denn als die Fürsten abzogen, brachen [Maximilian von Egmont, Graf] von Büren, und andere Hauptleute mit dem kaiserlichen Heer auf und folgten unter Besetzung der Städte und Ortschaften den Fürsten nach. Vermutlich kommt es noch zu einer Schlacht. Die [Schmalkaldener] zählen noch etwa 30'000 Mann, nachdem sie und die süddeutschen Städte ihre Kriegsknechte entlassen haben (abgesehen von den für die Besatzung zurückbehaltenen Soldaten). Sie werden vermutlich die Bistümer Würzburg und Bamberg plündern und ihr Winterlager im Bistum Mainz aufschlagen, von wo aus sie ihr Territorium besser verteidigen können.</t>
+<t>Wegen des frühzeitigen Aufbruchs des Landgrafen nach Heidelberg vermuten einige, dass dieser nach Frankreich oder nach Dänemark oder zu [Herzog] Moritz [von Sachsen] gezogen sei, um einen Frieden auszuhandeln. Man wird sehen. Es gäbe noch andere merkwürdige Nachrichten, doch Bullinger muss schließen.</t>
+<t>Am Abend kommen die Zürcher Gesandten [Johannes Haab und Itelhans Thumysen] von [der Tagsatzung in] Baden zurück.</t>
+<t>Segenswunsch. Gruß an [Francisco de] Enzinas und an [Johannes] Gast, für die die hier vermittelten Nachrichten ebenfalls bestimmt sind.</t>
+<t>Beiliegend ein Augenzeugenbericht über den unseligen sächsischen Krieg.</t>
+<t>Bullinger muss aufhören.</t></re>
+<text>
+<div>
+<p><zzl>zl16401-1A</zzl>Der
+<fn>Heinrich Thomann. - Er hatte sich ab dem 12. September 1546 bei Landgraf Philipp von Hessen im schmalkaldischen Feldlager befunden; s. <a>HBBW</a> XVII 399, Anm. 1; 408f, Nr. 2569.<zfn>fn16401-2</zfn></fn>, den min herren
+<fn>Der Zürcher Rat.</fn> habend von anfang des kriegs by dem lantgraven
+<fn>Philipp von Hessen.</fn> in siner cantzli gehept, ist des 8. decembris wider heym kummen<zzl>zl16401-1E</zzl> und vor wenig tagen von dem züg der fürsten in Franckenland abgeritten.
+<fn>Anlässlich des Abzugs vom Landgrafen und von Kurfürst Johann Friedrich von Sachsen. - Noch bis kurz vor Mitte Dezember nahm man an, dass der Kurfürst durch Franken ziehen würde. Zum tatsächlichen Verlauf der Route des Kurfürsten s. <qv>nr2700</qv>, <qv>fn16388-3</qv>; zu der des Landgrafen s. <qv>nr2702</qv>, <qv>fn16390-2</qv>.<zfn>fn16401-1</zfn></fn> Zeigt nüt sunders
+<fn>Besonderes.</fn> an, dann
+<fn>als.</fn> wie ich üch diser tagen z{uo}geschriben.
+<fn>Mit dem Brief <qv>nr2708</qv>.</fn></p>
+</div>
+<div>
+<p><zzl>zl16401-5A</zzl>Also ist nunme die post und alles abgestellt. Ist vil ein gr{oe}ssern kosten daruff gangen, dann ir yenen
+<fn>irgendwie; s. <a>SI</a> I 296.</fn> glouben m{oe}gind. Der krieg, wiewol er noch nienan
+<fn>nirgends; s. <a>SI</a> IV 761.</fn> uuß, hatt min herren ettwas
+<fn>einiges, etliches.</fn> kostet! Ist aber nut ze r{ae}chnen, st{ue}nde es nun r{ae}cht.<zzl>zl16401-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16401-3A</zzl>Zum abzug habend die fürsten ettlich z{uo} roß und f{uo}ß gelassen dem Wirtenberger
+<fn>Herzog Ulrich von Württemberg. - Tatsächlich nahm Herzog Ulrich infolge des Abzugs der Fürsten etliche Knechte aus deren Heer auf und warb zudem Soldaten zum Schutz seines Landes an; s. dazu <a>Heyd, Ulrich von Württ.</a> III 440-445, bes. 443.<zfn>fn16401-3</zfn></fn>, der one die sunst 5'000 der sinen gerüst hatt zur g{ae}genweer.<zzl>zl16401-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16401-6A</zzl>Augsburg rüst in die 2 und 3'000 ze f{uo}ß und in 2 oder 300 pferd z{uo} besatzung ir statt.<zzl>zl16401-6E</zzl> <zzl>zl16401-7A</zzl>Wie es umb Ulmm stande, weiß ich nitt: Gott w{oe}lte vast
+<fn>recht.</fn> dappffer und wol.
+<fn>Vgl. aber <qv>nr2712</qv>, <qv>fn16400-1</qv>; <qv>nr2714</qv>, <qv>fn16402-1</qv>.<zfn>fn16401-4</zfn></fn><zzl>zl16401-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16401-8A</zzl>Der keyser
+<fn>Karl V.</fn> gadt daruff, die stett von fürsten und die fürsten selbs von einandren ze trennen. <zzl>zl16401-9A</zzl>Verheist vil;<zzl>zl16401-8E</zzl> ouch Wirtenberg fry lassen bim glouben. Wirt hernach amm hallten
+<fn>d.h. am Halten der gemachten Versprechen.</fn> ligen. Ist alles nut dann betrug, lüg und valsch!
+<fn>Vgl. auch dazu die Verweise in <qv>nr2723</qv>, <qv>fn16412-4</qv>.</fn><zzl>zl16401-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16401-4A</zzl>Es ist ein groß geschrey
+<fn>Gerücht.</fn>, wie der keyser vergangner tagen wunderbarlich
+<fn>Als ein Echo von <qv>nr2700</qv>,<qv>zl16388-2</qv>.</fn> s{oe}lle gestorben sin. Wirt hin und har für warhafft geschriben und vil daruff verwettet. Die wyß sines todts sol ouch so wunderbar sin, das es ze verwundern. Also schript man
+<fn>Gemeint sind Georg Frölich (mit dem eben erwähnten Brief <qv>nr2700</qv>) und Johannes Haller (in <qv>nr2701</qv>,<qv>zl16389-7</qv>).<zfn>fn16401-6</zfn></fn> mir von Augspurg, aber ich setz gar nut daruff; gib imm keinen glouben. Acht, es sye ein hispanische prattica
+<fn>Intrige.</fn>, damitt jederman sorgloß uff den todt
+<fn>des Kaisers.</fn> hoff, nut fürs{ae}he
+<fn>nut fürs{ae}he: keine Vorkehrung treffe, nicht achtgebe.</fn> und der fuchs
+<fn>Gemeint ist der Kaiser.</fn> dann uß dem loch über die sorglosen h{ue}ner
+<fn>Gemeint sind die Schmalkaldener.</fn> wüsche
+<fn>herfalle; s. <a>SI</a> XVI 2358.</fn>.<zzl>zl16401-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16401-2A</zzl>Dann wie der keyser ges{ae}hen, das die fürsten hinab ziehend in Francken, ist der von Büren
+<fn>Maximilian von Egmont, Graf von Büren. - Zu dessen Route s. <qv>nr2706</qv>, <qv>fn16394-1</qv>.</fn> und andere houptlüt mitt dem keyserischen züg uff
+<fn>aufgebrochen.</fn>. Hatt alein die flecken
+<fn>Ortschaften.</fn> und stett hin und har besetzt und zücht den fürsten mitt dem h{ae}llen huffen
+<fn>h{ae}llen huffen: Der "helle Haufen" bezeichnet ursprünglich den Kern des Heeres, die beste Streitmacht (im Gegensatz zu Vor- und Nachhut), wird aber als Phrase auch in freierer Bedeutung und als feste Formel verwendet; s. <a>Grimm</a> X 965; <a>FNHDW</a> VII 1238f (unter 4.).</fn> nach.
+<fn>Vgl. <qv>nr2701</qv>,<qv>zl16389-41</qv>.</fn><zzl>zl16401-2E</zzl> <zzl>zl16401-10A</zzl>Und acht man, es m{oe}chte noch zur schlacht kummen. Die unsern sind noch ob
+<fn>etwa.</fn> trissig tusend starck.<zzl>zl16401-10E</zzl> <zzl>zl16401-11A</zzl>Das rych
+<fn>Die Schmalkaldener.</fn> und die stett hie oben
+<fn>in Süddeutschland.</fn> hatt sine kn{ae}cht <vl>158v.</vl> louffen lassen, on
+<fn>ausgenommen, mit Ausnahme; s. <a>SI</a> I 262 s.v. ane.</fn> die zur besatzung behallten.
+<fn>Vgl. <qv>nr2701</qv>,<qv>zl16389-40</qv>.</fn><zzl>zl16401-11E</zzl> <zzl>zl16401-12A</zzl>Man acht, die unsern werdint streyffen
+<fn>Raub- und Beutezüge unternehmen; plündern; s. <a>SI</a> XI 2132f.</fn> die bisthumb Wirtzburg und Bamberg, und sich l{ae}gern in das bisthumb Mentz
+<fn>Mainz.</fn>, da warten und sich weeren oder wyntern. Da sind sy ouch z{uo} schirmm irem landen baas
+<fn>besser.</fn> gel{ae}gen und habent den z{uo}louff uß iren landen.<zzl>zl16401-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16401-13A</zzl>Das der lantgraff zytlich
+<fn>frühzeitig; s. <a>Fischer</a> VI/1 1111. - Zur Route des Landgrafen s. den Verweis in oben <qv>fn16401-1</qv>.</fn> abgeritten uff Heydelberg, alls
+<fn>wie.</fn> ich üch vor bericht,
+<fn>In einem nicht erhaltenen Brief.</fn> achtend ettlich, er sye in Franckrych,
+<fn>Hier (wie schon in <qv>nr2706</qv>,<qv>zl16394-9</qv>) und im Folgenden falsche Gerüchte.</fn> ettlich in Denmarch, ettlich z{uo} Moritzen
+<fn>Herzog Moritz von Sachsen.</fn>, friden z{uo} machen, etc.<zzl>zl16401-13E</zzl> <zzl>zl16401-14A</zzl>Die zyt wirt es z{uo} erkennen g{ae}ben. Vil ander wunderseltzam ding ist vorhanden, darvon wunder z{uo} schriben.
+<fn>Gemeint ist wahrscheinlich das erstaunliche Verzagen des Landgrafen, von dem Bullinger aus Blarers Briefen <qv>nr2690</qv> und <qv>nr2698</qv> erfahren hat, mit der Bitte, dies nicht weiterzuerzählen.</fn><zzl>zl16401-14E</zzl> Ich m{uo}ß abbr{ae}chen.</p>
+</div>
+<div>
+<p><zzl>zl16401-15A</zzl>Hinecht
+<fn>Heute Abend.</fn> kummend unser botten
+<fn>Johannes Haab und Itelhans Thumysen; s. <a>EA</a> IV/1d 723.</fn> heim von Baden.<zzl>zl16401-15E</zzl></p>
+</div>
+<div>
+<p>Gott mitt üch eewiklich! Salvi sint d. Dryander
+<fn>Francisco de Enzinas.</fn>, d. Gastius, quibus haec communicabis.</p>
+</div>
+<div>
+<p><zzl>zl16401-16A</zzl>Initium belli Saxonici inauspicatum hic habes descriptum ab eo, qui interfuit et pleraque vidit.
+<fn>Gemeint ist die Abschrift (Zürich StA, E II 355, 119f) von unbekannter Hand eines von einem Unbekannten verfassten Berichts, der Blarers Brief <qv>nr2696</qv> vom 27. November beigelegt worden war; s. dazu <qv>nr2696</qv>, <qv>fn16381-1</qv>.</fn><zzl>zl16401-16E</zzl></p>
+</div>
+<div>
+<p>Plura non possum. Tiguri, 11. decembris anno 1546.</p>
+<un>Bullinger.</un>
+<lz/>
+<p>[Adresse darunter:] Sinem früntlichen, lieben herren unnd br{uo}der h. Oßwalden Myconien, predicanten uff Burg
+<fn>Der Platz, auf dem das Basler Münster steht, hieß "Burg" oder auch "Burg von Basel" (castrum Basiliense). Die Bezeichnung geht auf den mittelalterlichen Bischofssitz zurück; s. Daniel Albert <i>Fechter,</i> Das Münster zu Basel, [Basel] 1850, S. 5.<zfn>fn16401-5</zfn></fn> z{uo} Basel.</p>
+</div>
+</text>
+</brief>

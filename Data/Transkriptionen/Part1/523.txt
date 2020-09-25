@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="523">
+<correspondents>
+	<originator>Ludwig Lopadius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Konstanz*)</place>
+	<date>7. Februar 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 358, 107 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Hat in tage- und nächtelanger Arbeit sein Griechisch-Lehrbüchlein
+fertiggestellt und möchte, dass es Bullinger
+beurteilt und in Zürich oder, falls es an (*Griechisch-*)Typen mangelt,
+in Basel zum Druck gibt; er rechnet damit, dass Theodor
+(*Bibliander*) die Korrekturarbeit übernimmt. Wünscht der Reformation
+in Zürich guten Bestand und Fortgang. Grüsse.
+</statue>
+<content>
+S. Factum est, Bullingere integerrime, tuis hortatibus+1,
+ut continuato diurno et nocturno labore hanc breviusculam
+graecae grammatices
+institutionem+2
+absolverem. Principio quidem cepi eo animo componere, ut
+iam adulta èstate imprimeretur; sed cum in praesens poscitur, haud
+me quieti dare statui, quoad perficeretur. Porro peto oroque, si quod
+datur mihi observiendi temporis, perspicias paululum ac ad animi revoces
+iudicium. Depone interim sodes amici personam et indue iudicis. Cum
+placitus fuerit, libellus servetur. Sin vero iudicium ferre nequit,
+abiiciatur velut impurus partus atque foetus adulterinus et
+suppositius(*!*), quemad(*mod*)um+a
+de aquila fertur, cuius pullos ad solis radios
+admotos probari aiunt in hunc modum, ut si solem ferant adhibiti, habeat
+pro suis atque vera sobole. Quodsi ad splendorem solis conniveant,
+abiicit ceu illegitimos filios+3.
+Si ergo dignus prelo putabitur, detur opera, quo excudatur sive apud
+vos, sive, si non per typorum licebit inopiam, Basileè. Theodorus+4
+non defuturus. Ille enim promisit+5
+se velle fungi correctoris officio. In summa rem totam in vos reiicio.
+Ut ut cecederit, boni consulam.
+<p>In praesencia non pluribus agam tecum. Dominus te+b dirigat in omnia, quae suo ipsius verbo et evangelio sunt digna, qui et apud vos evangelium sic provehat, ut amplissimos faciat fructus.</p>
+<p>Vale et saluta fratres mei amantes, in primis vero tuam domum.</p>
+<p>7. idus februarii 35.</p>
+<signature>
+Tuus Ludovicus Lopadius.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Insigni pietate et doctrina viro M.
+Hanrico Bullingero, singulari amico.
+</address>
+</content>
+<note>
+<print>
++a>Beim Öffnen des Briefes beschädigt.
++b>te  korrigiert aus  tecum.
+</print>
+<address>
++1>Ein Brief ist nicht erhalten.
++2>Zur Griechisch-Grammatik des Lopadius vgl. oben Nr. 516,
+Anm. 5.
++3>Plinius d. Ä. berichtet, dass der Fischadler, der auf seine
+scharfen Augen angewiesen sei, seine noch ungefiederten Jungen durch
+Stösse in die Sonne zu sehen zwinge und diejenigen, die blinzelten oder
+deren Augen tränten, als entartete Bastarde aus dem Nest werfe (vgl.
+Plinius, Naturalis historia X, 3).
++4>Theodor Bibliander.
++5>Ein Brief ist nicht erhalten.
+</address>
+</note>
+</letter>

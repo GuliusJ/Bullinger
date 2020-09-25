@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="887">
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Theodor Bibliander und Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>31. August 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 336, 157 (neu: 176) (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Erwähnt die Übersendung eines Briefs von (*Jakob*) Bedrot.
+Basel hat die Stellungnahmen
+Zürichs und Berns (*zur Wittenberger Konkordie*) nach Strassburg
+weitergeleitet. Bucers
+Äusserungen zur Abendmahlslehre
+in einem Brief an Grynäus
+lassen Myconius an ein Gelingen der Konkordie
+glauben. Ein Aufschub, wie ihn Konstanz wünscht, würde den Gegnern
+nützen. (*Jakob Schmid*), ein Schwager von Leo (*Jud*), hat sich nach
+dessen Gesundheit
+erkundigt. Empfehlung der Briefüberbringer, (*...*) von Pfirt und
+(*...*) von Staufen. Der Brief ist auch für Bullinger gedacht. Grüsse.
+</statue>
+<content>
+S. Literas a Bedrotto+1, quas misi, te accepisse credo.
+<p>Hodie, què responsa sunt a vobis et a Bernensibus+2, dimissa sunt a dominis nostris Argentinam+3 spe forti rem cessuram feliciter.</p>
+<p>Scripsit interim Bucerus huc ad Grynèum+4, unde video (tam omnia sunt clara) concordiam non posse impediri nisi per adfectuum improbitatem. Utinam nos ab his simus (quod certe spero) quam liberrimi!
+Scopus negocii videtur hic esse: Christus totus editur fide, ut fides
+edere potest et ut Christus a fide comedi potest. Et quis negaret illud?
+De indignis quèstio facilis videtur, dum consyderantur Corinthii, quos
+Paulus hoc nomine vocat, et clausula recte perpenditur, quam idem ad
+finem adnectit: "At cum iudicamur, a domino corripimur, ne cum mundo
+damnemur"+5.</p>
+<p>Rumor volat concordiam esse factam. Mirum profecto, quam gaudeant boni, etiam, qui iamdum foris sunt. Ringantur autem papistae, quod discordia nostra foti sint hactenus. Sperant adhuc aliquid interlapsurum, quod
+consilium remoretur. Illud non capimus, curnam Constantienses senatum
+vestrum+a monuerint, ne conventum communem celerius, quam par sit,
+congregent; prius enim et alios rogandos esse+6. Hic si quid potes,
+responde.</p>
+<p>Fuit hodie apud me ex Alsatia vir, adfinis Leonis+7, qui diligenter quèsivit de valitudine eius. Dixerat se esse, credo, sororium.</p>
+<p>Qui literas ferunt, viri nobiles sunt et pii, alter a Pfirt, alter a Stouufen+b+8. Quod dico, ut excipiatis, ut dignum est.</p>
+<p>Communes sint hae cum Bullingero. Vertigo prohibuit et tempus, ne scribere potuerim ambobus.</p>
+<p>Saluto uxorem+9, Pellicanum, omnes. Vale.</p>
+<p>Basileae, 31. augusti anno 1536.</p>
+<signature>
+Tuus Myconius.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) D(*ominis*) Theodoro Bibliandro seu
+Bullingero, fratribus in domino suis.
+</address>
+</content>
+<note>
+.us; +a>vestrum  am Rande nachgetragen.
+<print>
++b>vor  Stouufen  gestrichenes  Sto^^^^^'16.^^^S'^^^S'u.u(*?*).
+</print>
+<address>
++1>Zum (nicht erhaltenen) Brief Jakob Bedrots an Bibliander
+s. Vadian BW V 366.
++2>Gemeint sind die von Myconius und Grynäus in Zürich und Bern
+eingeholten Stellungnahmen zur Wittenberger Konkordie; s. oben Nr. 877,
+9-30, bzw. Nr. 878.
++3>In der Missive Basels an Strassburg vom 30. August (s. PC II 693)
+sind diese Beilagen nicht erwähnt; möglicherweise ging jedoch
+ein separates, nicht erhaltenes Schreiben an Capito und Bucer.
++4>Vgl. oben Nr. 885, 16-31.
++5>1Kor 11, 32.
++6>Zürich hatte die in einer Konstanzer Missive vom 21. August
+(Zürich StA, E I 1. 2b) enthaltene Bitte am 24. August an Basel
+weitergeleitet (Basel StA, Kirchenakten A 4, 167).
++7>Gemeint ist wohl Jakob Schmid, Metzger und später Spitalmeister in
+Bergheim (Elsass), Ehemann von Leo Juds Schwester Clara und Vater von
+Johannes Fabricius; s. Graubünden, Korr. II, S. VII.
++8>Welche Angehörigen der beiden Adelsgeschlechter von Pfirt und
+von Staufen gemeint sind, liess sich nicht feststellen.
++9>Biblianders Ehefrau Rosilla Rordorf.
+;---------------------------------------------------------------------
+</address>
+</note>
+</letter>

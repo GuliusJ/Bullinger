@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1732">
+<nr>1732</nr>
+<correspondents>
+	<originator>Richard Hilles</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Frankfurt am Main</place>
+	<date>24. März 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 293 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 160</vo>
+<re>Dank für den durch [Heinrich] Falkner übermittelten umfangreichen Brief und für die Unterstützung John Burchers. Wie Hilles in einem Brief an John Butler angedeutet hat, ist der schottische König [Jakob V.] tatsächlich [am 14. Dezember 1542] gestorben, nachdem zuvor einige schottische Adelige von den Engländern [in der Schlacht bei Solway Moss] gefangen genommen worden waren; König [Heinrich VIII.] sandte sie zurück nach Schottland, um über dessen Aufnahme in das englische Königreich zu verhandeln, was jedoch erfolglos blieb. In Antwerpen berichtete man, dass der schottische Kardinal [David Beaton] nach England geschickt worden sei, aus anderer Quelle hörte er, dass die Schotten vielmehr einen neuen König gewählt und [Franz I.] um Hilfe gebeten hätten und dass sie [Heinrich VIII.] zurückdrängen wollten. Hat nichts davon gehört, dass sich [Heinrich VIII.] mit Kaiser [Karl V.] verbündet und die Freundschaft mit [Franz I.] aufgekündigt habe, obwohl er das im Falle einer Allianz Frankreichs mit Schottland wohl tun wird.
+Nach der Eroberung einiger englischer Schiffe durch die Schotten erlauben deren Stände ihnen nicht, die Fracht zu verkaufen, vielleicht, um [Heinrich VIII.] nicht zu provozieren. Grüße; wird nun für etwa einen Monat nach Nürnberg reisen, um dort sein Tuch zu verkaufen, das wegen [des Krieges zwischen] Herzog [Wilhelm von] Jülich[-Berg-Kleve-Geldern und Karl V.] nicht zur [Frankfurter] Messe gesandt werden konnte.</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 157f, Nr. 110 bzw. Original Letters I 239f, Nr. 110; Regest: LP XVIII/1 180, Nr. 317.]
+</content>
+</letter>

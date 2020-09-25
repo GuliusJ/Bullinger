@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2089">
+<nr>2089</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Travers</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>27. Februar [1545]</date>
+	<note>Das Jahr ergibt sich aus der Angabe über den Stand der Abfassung der Zürcher Antwort auf Luthers Angriff.</note>
+</space_time>
+<vo>Abschrift von Petrus Dominicus Rosius a Porta<fx>^#/+Das Original ist verschollen. A Portas Abschrift datiert vom Jahr 1767.^#/-<fe>: Chur StA, A Sp III/11a, VI. B. 7. 4, S. 333</vo>
+<re>Bullinger empfiehlt Travers den Überbringer [...], einen Boten der Universität Wittenberg,<f1>Wohl derselbe, den Gast an Bullinger geschickt hatte; s. oben Nr. 2088, 2f und Anm. 2.<fe> durch den Travers an Bullinger schreiben kann, da der Bote wieder zu Bullinger zurückkehren wird. Abgesehen von der Teuerung geht es [den Zürchern] gut.
+-^#. Luther hat ein Buch ["Kurtz bekentnis"] gegen Zwingli, Oekolampad und die Zürcher geschrieben. Die Antwort darauf, die die Zürcher auf Latein ["Orthodoxa Tigurinae ecclesiae confessio"] und auf Deutsch ["Warhaffte Bekanntnuß"] verfassen, wird Travers bald erhalten.
+-^#. [Karl V.], der noch nicht [auf dem Reichstag] in Worms erschienen ist, sondern in Brüssel an der Gicht darniederliegt, verfolgt die [Evangelischen] in den Niederlanden. Obwohl er schrieb, er werde bald [nach Worms] kommen oder seinen Bruder [Ferdinand I.] oder Kommissäre schicken, glauben die meisten, dass er nicht kommen werde. Er versprach widerstrebend, Frieden in der Religionssache zu stiften, und fürchtet sich nun, zumal Papst [Paul III.] das Konzil ausgeschrieben hat.
+-^#. Mehr kann Bullinger wegen Arbeitsüberlastung nicht schreiben.
+-^#. Grüße an Travers' Söhne [Johannes Travers d.J. und Jakob Travers] und an Anton Travers.
+-^#. [Franz I.] soll Stellungen [bei Boulogne] an [Heinrich VIII.] verloren haben und davon sehr getroffen worden sein.</re>
+<dra>[Gedruckt: Graubünden, Korr. I 73, Nr. 57.]</dra>
+^&x<tx>Gratiam et pacem.
+^$Nuntius hic tabellio est universitatis Witembergensis. Commendo ergo hunc tuae humanitati, quo possit vestram caritatem et beneficentiam praedicare suis.
+Redibit ad me; per hunc igitur, si quid velis, scribere poteris.
+Recte valemus hic omnes; sed caritas est rerum omnium; speramus tamen meliora. Domini est potentia et regnum.
+^$Scripsit contra Zwinglium, Oecolampadius et nos Tigurinos petulantem libellum Lutherus<f1>Kurtzes Bekenntnis vom heiligen Sakrament, 1544 (WA LIV 119-167).<fe>.
+Ei respondimus Latine et Germanice<f1>Orthodoxa Tigurinae ecclesiae ministrorum confessio/ Warhaffte Bekanntnuß der dieneren der kilchen zuͦ Zürych, 1545 (HBBibl I 167f und 161-163; RGW 13.1-2).<fe>; brevi illum habebis.
+^$Caesar in Inferiori Germania valde persequitur fideles.
+Hactenus diu expectatus est frustra in comitiis Wormatiensium; decumbit Bruxellae podagra valde laborans.
+Scripsit Wormatiam se brevi vel ipsum venturum ad comitia vel missurum aut fratrem aut commissarios.
+Putant plerique illum non venturum; pudet enim ipsum promissionis, quam non audet praestare.
+Promisit se pacaturum religionis negotium dissidens; iam cum papa indixit concilium; metuit sibi.
+^$Vale. Plura enim modo non possum opressus negotiis.
+^$Tiguri, 27. februarii.
+^$Valeant filii tui etd. Antonius Traversus.
+^$Fama est Gallum ab Anglo castris exutum valde graviter afflictum esse.
+<un>Heinricus Bullingerus tuus.
+<lz>[Adresse ............:] Clarissimo virod. Ioanni Traverso Zuzatiensi maiori, domino suo colendissimo et fratri venerando. Travers. Zutz.^&x{
+</content>
+</letter>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2837">
+<brief>
+<id>17104</id>
+<nr>2837</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-03-05"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 5. März 1547</od>
+<vo>Autograph: Zürich StA, E II 370, 55 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 136; Lit.: F. Roth, Augsburgs Ref'g. III 473ff; IV 13</k></dr>
+<re><t>Der Augsburger Rat hat den beiden Kollegen Lorenz Meyer und Rudolf Schwyzer d.Ä. ohne Weiteres die Rückkehr nach Zürich gestattet, zumal sie der Augsburger Kirche kaum von Nutzen waren und ohnehin täglich geflohene Pfarrer in Augsburg eintreffen. Haller versuchte vergeblich, die beiden zum Bleiben zu bewegen. Weder sie noch der Augsburger Rat waren dazu gewillt. Der Rat hielt allerdings den von seiner Frau [...] begleiteten Thoman Ruman zurück, damit Haller nicht allein bleibe. Meyer und Schwyzer werden über die Lage berichten und diese vermutlich überspitzt darstellen, um ihre Rückkehr zu rechtfertigen.</t>
+<t>Der gelehrte Meyer, den Haller gut leiden kann, sei Bullinger empfohlen. Für Schwyzer, der sich Haller gegenüber unmöglich verhielt, sollen jedoch keine Nachteile in Zürich entstehen. Falls er aber schlecht über Haller spricht, möge Bullinger dies mitteilen. Haller kann bei diesem nicht den apostolischen Geist spüren, welcher nach dem Heil und dem Frieden in der Kirche trachtet und sich sogar den Andersgesinnten anpassen kann. Daher sollte Schwyzer lieber bei seinen Bauern bleiben, die derartige Prädikanten schätzen!</t>
+<t>Hoffentlich ziehen die kaiserlichen Besatzungstruppen bald wieder ab. Kaiser Karl V. soll aus Ulm abgereist sein. Neulich ließ der Hauptmann [Bernhard von Schaumburg] durch einen Priester [...], welcher zugleich als Soldat dient, eine Privatmesse in der Kapitelstube des Stiftes St. Ulrich abhalten. Die Pfarrer meldeten dies dem Rat, und daraufhin sprachen die Bürgermeister [Jakob Herbrot und Hans Welser] mit dem Hauptmann. Das Ergebnis ist unbekannt. Haller fürchtet, dass der Teufel sich so wieder in die Stadt einschleicht.</t>
+<t>Herzog Wilhelm von Bayern, der Augsburger Bischof Otto Truchsess von Waldburg und König Ferdinand verhandeln über ihre Geldforderungen mit den Augsburgern. Dass dabei die Kassen geleert werden, ist erträglich, solange die Religion unangetastet bleibt!</t>
+<t>Am 27. Februar hat Graf Friedrich von Fürstenberg dem Rat im Namen des Kaisers den Eid abgenommen. Die an der Nase herumgeführte Bürgerschaft weigerte sich allerdings, den Eid zu leisten. Die Pfarrer argwöhnen, dass man ihnen die Religionsfreiheit nur deshalb gewährt, damit auch den Pfaffen und Mönchen die Rückkehr in die Stadt und die Ausübung ihrer Religion erlaubt werde. Bullinger möge Haller diesbezüglich väterlich beraten.</t>
+<t>Grüße an Konrad Pellikan, Theodor Bibliander, Rudolf Gwalther, an die übrigen Kollegen und an Bullingers Familie. Nächste Woche wird Haller vielleicht ausführlicher mit einem nach Zürich reisenden Augsburger [...] berichten.</t>
+<t>[P.S.:] Gruß an den Schwiegervater Ulrich Kambli, dem Haller nicht schreiben kann. Bullinger möge den beigelegten Brief dem Stiefvater [...] übermitteln.</t></re>
+<text>
+<div>
+<p>S. P. D. <zzl>zl17104-1A</zzl><zzl>zl17104-3A</zzl>Redeunt ad vos fratres duo Laurentius
+<fn>Lorenz Meyer (Agricola).</fn> et Svitzerus
+<fn>Rudolf Schwyzer d.Ä.</fn> senatu facile hoc eis concedente,
+<fn>Vgl. <qv>nr2786</qv>,<qv>zl17054-22</qv>; <qv>nr2791</qv>,<qv>zl17060-34</qv>; <qv>nr2805</qv>,<qv>zl17073-5</qv>.</fn> quandoquidem parvus vel nullus eorum in ecclesia nostra usus fuit
+<fa><i>Über der Zeile nachgetragen.</i></fa>, <zzl>zl17104-2A</zzl>cum quotidie confluant ministri exules multi.
+<fn>Vgl. etwa <a>HBBW</a> XVIII 281f,46-51; und <qv>nr2839</qv>,<qv>zl17106-1</qv>.</fn><zzl>zl17104-2E</zzl><zzl>zl17104-3E</zzl> <zzl>zl17104-4A</zzl>Laboravi multum, ut retinerem eos, si quo modo vel una haec possit conservari ecclesia; sed nec apud ipsos hoc impetrare potui nec senatum cogere, ut invitos detineret.<zzl>zl17104-4E</zzl> <zzl>zl17104-5A</zzl>Romanum
+<fn>(Hans) Thoman Ruman (Römer).</fn>, quia uxorem
+<fn>Unbekannt.</fn> secum habet, retinuerunt, ne ego essem solus.<zzl>zl17104-5E</zzl> <zzl>zl17104-6A</zzl>Quomodo se res habeant modo, narrabunt ipsi, quamvis non dubito exaggeraturos valde, ut reditus iustiorem videantur habere causam.<zzl>zl17104-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17104-7A</zzl>Laurentium amo valde propter eruditionem.
+<fn>Vgl. <a>HBBW</a> XVIII 96,176f; 107,8; 285,142f; 306,52f.</fn> Eum, tibi alias commendatum, iterum commendo.<zzl>zl17104-7E</zzl> <zzl>zl17104-8A</zzl>Alter indigne mecum egit.
+<fn>Siehe aaO, 306,57f; 363,161-163.</fn> Dominus illi condonet, quia ego remisi dudum. Nolo etiam, ut propter me minus a vobis promoveatur. Hoc unum oro, ut, si me sit traducturus, in tempore significes. Non video in eo spiritum apostolicum, qui ecclesiae pacem et salutem quaerat, qui possit se accommodare etiam ignotorum ingeniis
+<fn>Anspielung auf 1Kor 9, 19-23.</fn>. Satius ergo est, ut apud suos rusticos
+<fn>Schwyzer d.Ä. war vor seiner Anstellung in Augsburg Pfarrer in Richterswil (Landschaft Zürich) gewesen (s. <a>HBBW</a> XVII 380, Anm. 64), wohin er nach seinem Augsburger Aufenthalt zurückkehrte.</fn> retineatur, qui tales magnifaciunt concionatores.<zzl>zl17104-1E</zzl><zzl>zl17104-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17104-9A</zzl>Speramus militem
+<fn>Die kaiserliche Besatzung; s. <qv>nr2821</qv>,<qv>zl17087-5</qv>. <qv>zl17087-35</qv>. - Am 27. Februar gelangte das siebte und am 14. März (vielleicht aber schon am 12. oder kurz davor - s. nämlich <qv>nr2844</qv>,<qv>zl17112-6</qv>) die drei letzten Fähnlein der Besatzung in die Stadt; s. <a>Roth, Augsburg</a> IV 13f. Auch <a>Schertlin, Leben</a> 61 berichtet von zehn Fähnlein.<zfn>fn17104-1</zfn></fn> mox ab urbe discessurum.<zzl>zl17104-9E</zzl> <zzl>zl17104-10A</zzl>Caesarem
+<fn>Karl V. - Zu dessen Aufbruch von Ulm s. <qv>nr2835</qv>, <qv>fn17102-1</qv>.</fn> Ulmam reliquisse fama est.<zzl>zl17104-10E</zzl> <zzl>zl17104-11A</zzl>Summus ille capitaneus
+<fn>Bernhard von Schaumburg, Hauptmann der kaiserlichen Besatzung in Augsburg.</fn> proxime per sacerdotem
+<fn>Unbekannt.</fn> (qui et miles est) privatim missam celebrari fecit in stuba
+<fn>Kapitelstube. - Vgl. <a>Henrich, Myconius BW</a> 948f, Nr. 1062.</fn> collegii S. Ulrychi. Monuimus senatum. Allocuti sunt ipsum consules
+<fn>Jakob Herbrot und Hans Welser.</fn>. Quid impetraverint, nescio. Vereor, ne ita pedetentim relabatur satan.<zzl>zl17104-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17104-12A</zzl>Dux Bavariae
+<fn>Herzog Wilhelm IV. von Bayern. - Er hatte eine Gesandtschaft nach Augsburg geschickt, die am 2. März dort ankam und mit dem Rat aushandelte, dass dem Herzog 20'000 Gulden entrichtet wurden, woraufhin dieser die Sperre gegen die Stadt aufhob; s. <a>Roth, Augsburg</a> IV 25-27.<zfn>fn17104-2</zfn></fn>, episcopus Augustanus
+<fn>Kardinal Otto Truchsess von Waldburg. - Siehe dazu <qv>nr2836</qv>, <qv>fn17103-1</qv>.</fn> et Ferdinandus
+<fn>König Ferdinand I. - Siehe <qv>nr2836</qv>, <qv>fn17103-2</qv>.</fn> iam etiam cum nostris agunt de pecuniis. Ich mein, die seck werdind einmal
+<fn>schließlich.</fn> glert. Sed possunt omnia ferri, modo salva sit religio.<zzl>zl17104-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17104-13A</zzl>27. februarii hatt der rat dem graff Friderychen von Fürstenberg gschworen in nammen deß keisers.
+<fn>Siehe <a>Roth, Augsburg</a> IV 10f.</fn> Die gmein
+<fn>Bürgergemeinde.</fn> hatt nitt wellen schweeren, aber man f{ue}rt si bi der nasen umb, das unser keiner weißt, woran wir sind. Metuimus, ne ita libera nobis relinquatur doctrina, ut etiam sua interim libera pfaffis et monachis in urbe restituatur et permittatur religio. Non video, quem alium finem hoc negotium sit habiturum. Tu itaque, venerande pater, mihi tanquam filio rebus sic habentibus, quid agere debeam, consule, quaeso, meque habeto tibi commendatum.<zzl>zl17104-13E</zzl></p>
+</div>
+<div>
+<p>Salvos cupio patres
+<fa><i>In der Vorlage aus</i> fratres <i>korrigiert.</i></fa> ac dominos venerandos Pellicanum, Bibliandrum, Gvaltherum et reliquos una cum familia tua. <zzl>zl17104-14A</zzl>Proxima septimana quidam civis Augustanus
+<fn>Der unbekannte Augsburger, den Haller auch in <qv>nr2844</qv>,<qv>zl17112-1</qv>, erwähnt.<zfn>fn17104-3</zfn></fn> ad vos proficiscetur, per quem, si quae habuero, scribam plura.<zzl>zl17104-14E</zzl> 5. martii 1547.</p>
+<un>Ioan. Hallerus, perpetuo tuus.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17104-15A</zzl>Socero meo
+<fn>Ulrich Kambli.</fn> dicas salutem et salva esse omnia. Non vacat ei scribere.<zzl>zl17104-15E</zzl> <zzl>zl17104-16A</zzl>Literas vitrico
+<fn>Unbekannt. - Er lebte in Bülach; s. <a>HBBW</a> XVIII 155, Anm. 101.</fn> mittendas ei modo tradas.<zzl>zl17104-16E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, domino et patri suo venerando. Tiguri.
+<fn>Dieser Brief wie auch die Briefe gleichen Datums von Michael Keller (<qv>nr2838</qv>) und Wolfgang Musculus (<qv>nr2839</qv>) wurden durch Meyer und Schwyzer übermittelt, denen Hans Wilpert Zoller als Begleiter zugewiesen wurde; s. <qv>nr2844</qv>,<qv>zl17112-2</qv>.<zfn>fn17104-4</zfn></fn></p>
+</div>
+</text>
+</brief>

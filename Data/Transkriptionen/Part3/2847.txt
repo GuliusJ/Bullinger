@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2847">
+<brief>
+<id>17115</id>
+<nr>2847</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-03-17"/>
+<ae>[Ambrosius Blarer] an Bullinger</ae>
+<od>[Konstanz], 17. März [1547]
+<fn>Das Jahr ist am Briefinhalt zu erkennen.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 555 (Siegelabdruck)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 608, Nr. 1423 <k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 161 </k></dr>
+<re><t>Blarer hat durch diesen Boten [...] nur mitzuteilen, dass Konrad Zwick über die Erfolge des Kurfürsten Johann Friedrich von Sachsen berichten wird. Gott wird auch weiterhin wunderbaren Beistand leisten, wenn man sich nur auf ihn verlässt und nicht auf den weltlichen Schein!</t>
+<t>Esslingen muss Kaiser Karl V. 40'000 und Reutlingen 20'000 Florin zahlen. Wie sollen diese Städte das Geld aufbringen? Lindau wurde nur mit 4'000 belegt. Man ist der Meinung, dass Konstanz einen Frieden sogar ohne Geldstrafe und mit guten Bedingungen erlangen würde. Zwick wird darüber vermutlich auch berichten.</t>
+<t>Straßburg hat sich nun wohl schon ergeben. Die Stadt soll gute Friedensbedingungen erhalten haben und nicht [mit einer kaiserlichen Garnison] beschwert worden sein. Hoffentlich stimmt das! Denn alles kann noch anders kommen.</t>
+<t>Marcell Dietrich von Schankwitz wird anstelle der Burg Dübelstein vielleicht eine andere Liegenschaft erwerben, die ihm zum Kauf angeboten wurde. Blarer dankt für Bullingers Einsatz.</t>
+<t>Er hatte wirklich keine Zeit, das von Bullinger übersendete Büchlein ["Usszug der fürnemisten Eesatzungen"] einzusehen. Dieser soll doch nur mit Ja oder Nein die an ihn gerichteten Fragen (bezüglich der ihm [in <qv>nr2841</qv>] geschilderten Eheprobleme) beantworten.</t>
+<t>Das [von Rudolf Gwalther] an Hans Widenhuber gesandte Schreiben wurde anders aufgefasst, doch ist dies nicht weiter wichtig.</t>
+<t>Hoffentlich stimmen die Gerüchte über Landgraf Philipp von Hessen doch nicht! Möge Gott ihn nicht so tief fallen lassen!</t>
+<t>Segenswunsch. Bullinger bete für Konstanz. Grüße.</t>
+<t>[P.S.:] Den beiliegenden, aus Augsburg gekommenen Brief soll er an Bernardino Ochino weiterleiten. [Von dort] wird gar nichts über den Landgrafen berichtet.</t></re>
+<text>
+<div>
+<p>Alles liebs und g{uo}ts. <zzl>zl17115-4A</zzl>By disem botten
+<fn>Unbekannt.</fn> nichts sunders ze schriben, dann
+<fn>als.</fn> das ir von meinem lieben vetter
+<fn>Konrad Zwick.</fn> vernemen werdt des churfursten halber, wie glucklich es ime geht.
+<fn>Anspielung auf den Sieg des Kurfürsten Johann Friedrich I. von Sachsen über Markgraf Albrecht II. Alcibiades von Brandenburg-Kulmbach; s. <qv>nr2832</qv>, <qv>fn17099-2</qv>. Zudem wollten die böhmischen Stände nicht gegen den Kurfürsten ziehen. Dieser stand damals bei Altenburg und wollte Zwickau zurückerobern; s. <qv>nr2797</qv>,<qv>zl17066-20</qv>; <a>MBW-T</a> 201, Nr. 4654.<zfn>fn17115-1</zfn></fn> Gott welle diß werck fortbringen
+<fn>fördern.</fn> und seiner hand wunder beweysen, alls er dann wol kan, auch wurde, wa
+<fn>wenn; sofern.</fn> das vertruwen uff inn gstellet wurde und wir nitt an menschlichem schowfalt verglarrten
+<fn>wir nitt an menschlichem schowfalt verglarrten: wir uns nicht von der menschlichen Pracht verblenden lassen.</fn>.<zzl>zl17115-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17115-5A</zzl>Esslingen gibt dem kaiser
+<fn>Karl V.</fn> 40'000 fl. und Reutlingen 20'000 fl.
+<fn>Siehe dazu <qv>nr2845</qv>,<qv>zl17114-3</qv> und <qv>fn17114-1</qv>.</fn> Wissend nitt, wa
+<fn>woher.</fn> sy das gellt uffpringen s{oe}llen oder m{oe}gen.<zzl>zl17115-5E</zzl> <zzl>zl17115-6A</zzl>Lyndauw gibt nun
+<fn>nur.</fn> 4'000 fl.
+<fn>Der gleiche Betrag wird auch in Johann Georg Saladins Straßburger Chronik (<a>MGEGDE{2}</a> XXIII 352) angegeben.<zfn>fn17115-2</zfn></fn><zzl>zl17115-6E</zzl> <zzl>zl17115-7A</zzl>Man achtet, wir
+<fn>Konstanz. - Falls die Stadt einen Frieden mit dem Kaiser schließen wollte.</fn> möchten diser zeyt wol on gellt hindurch kommen und sonst auch mitt g{uo}ten conditionen, davon euch, acht ich, mein lieber vetter anz{oe}gung th{uo}t.<zzl>zl17115-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17115-8A</zzl>Mitt Straussburg, achten wir, seye es nunmehr ouch uberhe
+<fn>hinüber. - Die Ergebung Straßburgs stand damals unmittelbar bevor; s. <qv>nr2822</qv>, <qv>fn17088-7</qv>.</fn>. Sollend nun gar ain g{uo}ten bericht
+<fn>Vertrag; s. <a>Fischer</a> I 874.</fn> haben und niener nitt
+<fn>niener nitt: durch nichts; s. <a>Fischer</a> IV 2042. - Gedacht ist hier an eine kaiserliche Besatzung, die der Stadt aber erspart blieb.</fn> beschwerdt werden. Gott well, das die sach g{uo}ten grund habe! Dann
+<fn>Denn.</fn> es mugend dise ding noch seltzam fallen, etc.<zzl>zl17115-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17115-3A</zzl>Dietrich Marcellen
+<fn>Dietrich Marcell von Schankwitz. - Siehe dazu <qv>nr2824</qv>,<qv>zl17090-1</qv>; <qv>nr2841</qv>,<qv>zl17109-1</qv>; <qv>nr2842</qv>,<qv>zl17111-6</qv>.</fn> halber hat es kain not mehr. Er
+<fa><i>In der Vorlage</i> es.</fa> wirt Diepolltstain
+<fn>Dübelstein (bei Dübendorf, Kt. Zürich).</fn> nitt kouffen. Ist im ain ander kouff z{uo}gestanden
+<fn>angeboten (worden).</fn>. Wirt inn
+<fn>den Kauf.</fn> vyllicht treffen.<zzl>zl17115-3E</zzl> <zzl>zl17115-9A</zzl>Bedanck mich gantz flyssig unnd fruntlich gehapter m{ue}h und arbait.<zzl>zl17115-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17115-2A</zzl>Kurtzen bschaid uff meine zwen casus,
+<fn>Die zwei Eheprobleme, die Blarer mit <qv>nr2841</qv>,<qv>zl17109-18</qv>, darstellte. - Siehe ferner <qv>nr2842</qv>,<qv>zl17111-2</qv> sowie <qv>nr2845</qv>,<qv>zl17114-2</qv>.</fn> euch vormals z{uo}geschriben, beger ich von euch ze vernemmen, dann ich warlich, warlich nitt zeyt gehapt, mich nach notturfft in ewerm uberschickten b{ue}chlin
+<fn>Der Druck mit den Zürcher Ehesatzungen; s. <qv>nr2842</qv>, <qv>fn17111-1</qv>.</fn> z{uo} ersechen
+<fn>mich ... z{uo} ersechen: mich umzusehen; kundig zu machen; s. <a>SI</a> VII 564.</fn>. Habs
+<fa><i>In der Vorlage</i> hab.</fa>
+euch doch nitt lenger behalten wellen,
+<fn>Gemeint ist das von Bullinger zugesandte Buch.</fn> diewyl ir des nitt geraten
+<fn>entbehren; s. <a>Fischer</a> III 386. - Vgl. nämlich <qv>nr2842</qv>,<qv>zl17111-8</qv>.</fn> m{oe}gen. Ir k{oe}ndt mitt aim wort schreiben ja oder nain.<zzl>zl17115-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17115-10A</zzl>Von Widenh{uo}bers
+<fn>Hans Widenhuber. - Gemeint ist hier ein Brief Rudolf Gwalthers an diesen; s. dazu <qv>nr2841</qv>,<qv>zl17109-6</qv>; <qv>nr2842</qv>,<qv>zl17111-3</qv>.</fn> schriben, im worden, will man anderst verstanden haben. Ligt aber gar nichts daran.
+<fn>Zu verstehen: Es ist aber unwichtig.</fn><zzl>zl17115-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17115-11A</zzl>Des landtgrauffen
+<fn>Philipp von Hessen.</fn> halber will ich auch noch ausß allerlay anz{oe}gungen das besser verm{uo}ten,
+<fn>Wie auch Bullinger; s. <qv>nr2842</qv>,<qv>zl17111-4</qv>.</fn> byß ich nitt mehr kan. Hoff, der herr lasß inn nitt dermassen z{uo} schanden werden und alls
+<fn>so.</fn> grosß unehr inlegen.<zzl>zl17115-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17115-12A</zzl>Damitt, mein liebster hertzbr{uo}der und herr, gott bevolchen! Den bitten on alles uffh{oe}ren f{ue}r unß unnd unser kirchen: Wie er unß mitt seinem namen ziert, das er unß ouch mitt seinem gaist stercke und mitt seiner gwaltigen hand gnedigklich z{uo} seinem ewigen preyß erhalte! Gr{ue}st all g{uo}t herren und fründ.<zzl>zl17115-12E</zzl> 17. martii.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17115-1A</zzl>Hiemitt ain brieff. Wellt dem herrn Bernardino
+<fn>Bernardino Ochino.</fn> verschaffen. Ist mir yetz von Augspurg z{uo}kommen.<zzl>zl17115-1E</zzl> <zzl>zl17115-13A</zzl>Schreibt man vom landtgrauffen ain wort nitt.<zzl>zl17115-13E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] An maister Hainrich Bullinger z{uo} Z{ue}rich.
+<fn>Vorliegender Brief wurde zusammen mit Brief <qv>nr2849</qv> vom 18. März übersandt; s. <qv>nr2849</qv>,<qv>zl17117-1</qv>.</fn></p>
+</div>
+</text>
+</brief>

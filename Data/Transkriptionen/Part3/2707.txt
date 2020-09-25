@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2707">
+<brief>
+<id>16395</id>
+<nr>2707</nr> <from persid="SchulerGervasius"/> <to persid="Bullinger"/> <place plid="Memmingen"/> <date when="1546-12-07"/>
+<ae>Gervasius Schuler an Bullinger</ae>
+<od>Memmingen, 7. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 318 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 119 </k></dr>
+<re><t>Bullingers Ermahnung an die Memminger Geistlichkeit, das Volk zur Erkenntnis seiner Sünden und zu einem besseren Lebenswandel anzuhalten, entspricht auch Schulers Ansicht. Er ist nämlich der Überzeugung, dass Gott mit diesem Krieg die Menschen auf ihre Sünden aufmerksam machen will, um sie zur Buße aufzufordern. Wohl deshalb wird der Herr dem Feind [Kaiser Karl V.] nicht gestattet haben, die [Schmalkaldener] zu vernichten. Bullinger weiß bestimmt vom bedrohlichen Bündnis zwischen dem Antichristen [Papst Paul III.] und dem Genter [Karl V.]. Der langmütige und züchtigende Gott aber hat sich einen Rest aufbewahrt, damit dieser sich ihm von ganzem Herzen zuwendet. Mit Gottes Hilfe will Schuler seiner Aufgabe gerecht werden. Bullinger soll mit seinen Gebeten die Bemühungen Schulers und seiner Kollegen unterstützen!</t>
+<t>Der gemeinsame Freund [Balthasar] Funk wird die die Zürcher interessierende Angelegenheit treu ausführen.</t>
+<t>Es geht beständig das Gerücht um, dass der Kaiser gestorben sei. Die Augsburger berichten dies ebenfalls. Auch Ambrosius Blarer schrieb diesbezüglich aus Konstanz an den Memminger Stadtschreiber [Georg Maurer] und an den mit großem Erfolg in Leutkirch predigenden Johannes Schnell. Sollte dies wirklich stimmen, ist zu erwarten, dass Gott seine heimgesuchte Kirche bald nach seinem Willen reformieren wird!</t>
+<t>Den Brief, den Bullinger zur Weiterleitung an den Zürcher Bürger Fridli Wirth gesandt hatte, schickt Schuler versiegelt wieder zurück, zusammen mit anderen Briefen, die auch für Wirth bestimmt sind.</t>
+<t>Schuler hat Kenntnis von Jakob Reinharts Schwindel, mit dem dieser einigen Hauptleuten geschadet hat. Er wurde vom Ulmer Rat mit Gefängnishaft bestraft. Der Herr reinige die Herzen der Menschen, damit ein jeder seiner Berufung ehrlich nachkomme!</t>
+<t>Grüße, auch vom Arzt Ulrich [Wolfhart], von [Johannes Rembold] Funck, [Bartholomäus] Bertlin und Johannes Schmid, sowie von Schulers Gattin [..., geb. Lübegger] und der Tochter Rahel.</t></re>
+<text>
+<div>
+<p>S. D. Bene et sancte admones nos, ut docendo populum purgemus, ut suorum peccatorum conscius vitam suam, qua irritavit dominum, emendet in melius. Non enim michi aliter persuasum habeo, quam ut dominus hoc bellico tumultu voluerit nos nostrorum peccatorum admonere et ad poenitentiam adhortari. Ob id enim non permisit hosti
+<fn>Kaiser Karl V.</fn>, secundum quod apud se statuerat, in nos s{e}vire. F{e}dus enim antichristi
+<fn>Papst Paul III.</fn> cum suo executore Gandavo illo
+<fn>Der in Gent geborene Kaiser.</fn>, quid prae se tulerit quamque atrotia minatum fuerit, ipse nosti. Sed longanimus dominus voluit nobis et nunc temporis reliquum superesse
+<fn>Vgl. Ez 14, 22; Röm 9, 27.</fn>, ut ad illum toto pectore convertamur
+<fn>Vgl. 1Kön 8, 48; Jes 21, 12.</fn> et redeamus ad percutientem nos
+<fn>Jes 9, 12 (Vulg. 13); Ez 7, 9. - Mit dem "percutiens nos" ist Gott gemeint.</fn>. Ego, quoad dominus suo michi adfuerit spiritu, officio michi commisso non defuturus sum. Iuva tu, charissime frater, hos meos meorumque symmistarum conatus tuis orationibus quam fidelissime!</p>
+</div>
+<div>
+<p><zzl>zl16395-2A</zzl>Res ceterum Tigurinorum Funckius
+<fn>Altbürgermeister Balthasar Funk.</fn>, ille communis amicus noster, satis fideliter aperuit.
+<fn>Die Reise Funks nach Zürich steht vielleicht im Zusammenhang mit dem am 7. Dezember eröffneten Tag zu Baden (s. <qv>nr2693</qv>, <qv>fn16379-7</qv>), an dem u.a. die Beschlagnahmung einer für Memmingen und andere schwäbische Städte bestimmten Waffenlieferung sowie die in Memmingen erfolgte Gefangennahme von Konrad Schweri (dem vom Badener Landvogt Niklaus Imfeld dem kaiserlichen Gesandten Jean Mouchet zur Verfügung gestellten Boten; s. <qv>nr2606</qv>,<qv>zl16294-2</qv>. <qv>zl16294-1</qv> mit <qv>fn16294-4</qv> und <qv>fn16294-5</qv>) zur Sprache kamen; s. <a>EA</a> IV/1d 723 b. 725 i.<zfn>fn16395-1</zfn></fn><zzl>zl16395-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16395-3A</zzl>Apud nos constans fama est caesarem extremum diem obiisse.
+<fn>Zu diesem falschen Gerücht s. die Verweise in <qv>nr2700</qv>, <qv>fn16388-4</qv>.</fn> Augustani scribunt idem firmissime.<zzl>zl16395-3E</zzl> Ambrosius Blaurerus, Constantiensis ecclesi{e} minister fidelissimus, ad archigrammatheum
+<fn>Georg Maurer.</fn> urbis nostre idem scripsit simul atque ad <zzl>zl16395-4A</zzl>Ioannem Schnellium
+<fn>Johannes Schnell (Velocianus), 1546/47 Prediger in Leutkirch im Allgäu (Lkr. Ravensburg).</fn>, qui nunc Luthkirchi Christum magno cum foenore salutis
+<fn>Vgl. Mt 9, 37 par.</fn> praedicat.
+<fn>Beide Briefe nicht in <a>Blarer BW</a>.</fn><zzl>zl16395-4E</zzl> Quod si verum est, spero dominum brevi ecclesiae su{e} adflict{e} laturum auxilia eamque ad suum nutum reformaturum.</p>
+</div>
+<div>
+<p><zzl>zl16395-1A</zzl>Litteras
+<fn>Höchstwahrscheinlich ein von Bullinger verfasster und heute unbekannter Brief.</fn>, quas Fridelino Wirt
+<fn>Der ursprünglich aus Stammheim kommende Wundarzt ("Scherer") Fridli (Friedrich) Wirth, der jüngere Bruder Leonhard Hospinians. Die Angabe in <a>HBBW</a> XVI 429, Anm. 60, dass Fridli Wundarzt in Stammheim war, ist zu korrigieren. 1541 wurde er Ehrenbürger von Zürich, 1557 "Zwölfer" in der Zunft zur Schuhmachern. Am 31. Januar 1563 starb seine Frau Barbara Stumpf; am 16. November 1567 er selbst. Beide gehörten der Gemeinde des Zürcher Großmünsters an. Als Zwölfjähriger hatte er Ende September 1524 seine Mutter Anna Wirth (geb. Keller) zur Tagsatzung nach Baden begleitet, als diese (mit Erfolg) versuchte, ihren zur Hinrichtung verurteilten Sohn Adrian, der sich am Ittinger Sturm vom Sommer 1524 beteiligt hatte, zu retten; s. Zürich StadtA, VIII C 48, 1549-1574 (unter den entsprechenden Sterbedaten); Erhard <i>Dürsteler,</i> Stemmatologia Tigurina, Bd. 9 (Zürich ZB, Ms E 24), f. 232r./v.; Alfred <i>Farner,</i> Geschichte der Kirchgemeinde Stammheim und Umgebung, Zürich 1911, S. 168.<zfn>fn16395-2</zfn></fn>, Tigurino civi, tradendas misisti, obsignatas remitto una cum aliis illi bono viro tradendis.<zzl>zl16395-1E</zzl></p>
+</div>
+<div>
+<p>Scio Reinharti
+<fn>Jakob Reinhart; s. schon <qv>nr2612</qv>,<qv>zl16301-22</qv>; <qv>nr2683</qv>,<qv>zl16370-5</qv>. In <qv>nr2701</qv>,<qv>zl16389-13</qv>, berichtet Haller, dass Reinhart gefangen nach Frauenfeld geführt worden wäre.</fn> imposturas, quas quibusdam militi{e} capitaneis struxit. Ulme a senatu mulctatus
+<fa><i>Am Rande nachgetragen.</i></fa> carceribus p{e}nam dedit. Dominus Iesus expurget suo spiritu hominum pectora, ut exclusa hypochrisi universa syncero pectore quisque su{e} vocationi inserviat. Nam mundus dolis, technis et imposturis plenissimus est. Periit fides et veritas.
+<fn>Jer 7, 28.</fn> Omnes patern{e} correptionis
+<fn>Vgl. Spr 3, 11.</fn> fere sumus inpatientes, etc.</p>
+</div>
+<div>
+<p>Vale, amice inconparabilis. Salutant te Huldricus medicus
+<fn>Ulrich Wolfhart.</fn>, d. Funckius
+<fn>Wohl der Handelsmann Johannes Rembold Funck; vgl. <a>HBBW</a> XV 660f,2f. 663,60f.</fn>, Berthlinus
+<fn>Bartholomäus Bertlin, damals Pfarrer im nahe bei Memmingen gelegenen Woringen (Unterallgäu, Bayern).</fn> et Ioannes Fabri
+<fn>Johannes Schmid, Helfer in Memmingen; vgl. <a>Culmann, Schuler</a> 65. 87.</fn>, uxor mea
+<fn>[...] Schuler, geb. Lübegger.</fn> et Rachel filia. Dat{e} Memminge, 7. decembris 1546. Dominus Iesus servet te.</p>
+<un>Gervasius tuus Sch{uo}ler.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Seynem fruntlichen, lieben herren und pruder Mayster Haynrich Bullinger, predicanten zu Zürich.
+<fn>Der Brief wurde durch Balthasar Funk überbracht; s. oben Z. <qv>zl16395-2</qv>.</fn></p>
+</div>
+</text>
+</brief>

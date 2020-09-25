@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2039">
+<nr>2039</nr>
+<correspondents>
+	<originator>Eberhard von Rümlang</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>26. November 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 360, 377 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Von den Deputierten der einzelnen deutschsprachigen Kapitel der [Berner Landschaft] baten fünf, dass der [Berner] Streit geschlichtet werde, und drei drängten darauf, dass man der Wahrheit, die an der [Berner] Disputation [1528] erschlossen wurde, treu bleibe, und dass alle Prediger sich künftig durch einen Eid dazu verpflichteten; der [Kleine] Rat versicherte allen Deputierten, dass er mit dem [Großen] Rat der Zweihundert diese Angelegenheit am Donnerstag [4. Dezember] behandeln werde.
+Für diesen Tag wird ebenfalls das Schreiben des Zürcher Rats aufbewahrt; es hat bereits vieles bewirkt und stürzte die Buceraner in Verlegenheit; Gott gebe diesem Handel einen würdigen Ausgang und möge [die Seinen in Bern] erlösen.
+Sulzer ist über Meganders Brief aufgebracht. Rümlang empfiehlt sich den Zürchern.</re>
+<tx>S. Adfuerunt a singulis capitulis agri nostri Germanici
+deputati quidam<f1>Die Gesandten der deutschsprachigen Kapitel Berns: Bern, Thun, Burgdorf, Signau, Trachselwald, Nidau, Büren, Aarau, Lenzburg, Brugg und Thunstetten/Langenthal; s. ^#/+Guggisberg^#/- 155f. Initianten dieses Treffens der Kirchengesandten waren die sogenannten oberen Kapitel Bern, Thun, Burgdorf, Büren und Thunstetten; s. ^#/+Hundeshagen^#/- 190. Sie trafen am Donnerstag, den 20. November 1544, in Bern ein und wurden am Samstag, den 22. November, vom Kleinen und Großen Rat empfangen; s. ^#/+Hundeshagen^#/- 190f.^&xVgl. ferner die Berner Chronik von Michael Stettler, 1544 (StA Bern, DQ 11, Bd. D, 1541-1550, f. 91r.); F[riedrich] Trechsel, Beiträge zur Geschichte der Schweizerisch-reformirten Kirche, zunächst derjenigen des Kts. Bern. Viertes Heft, Bern 1842, S. 20f.- Das Berner Ratsmanual (Bern StA, A II 160, Nr. 290) enthält darüber keinen Eintrag.^&x{<fe>, quorum a quinque<f1>Darunter Thun, Büren und Aarau; s. ^#/+Hundeshagen^#/- 191.<fe> capitulis legati petiere
+disceptationem concionatorum nostrorum componi, a tribus<f1>Aarau, Brugg und Nidau; s. ^#/+Hundeshagen^#/- 189, Anm. a; 191-193; Michael Stettler, Berner Chronik (StA Bern, DQ 11), Bd. D: 1541-1550, f. 91r.-v.^&xAkten in Aarau StA (AA 2233, Nr. 30[?], 34[?], 35; AA 2247, 5. Dez. 1544; es handelt sich um die Brugger Kapitelsakten, vgl. im Ordner zu Aarau StA).^&x{<fe>
+vero veritatem in Disputatione<f1>Die Berner Disputation von Januar 1528.<fe> evictam et obtentam ursere et,
+ne<fx>ne ^#/+über der Zeile nachgetragen.^#/-<fe> quid tale posthac contingat, iuramento omnes
+concionatores obstringi efflagitarunt. Dimissi sunt omnes
+cum hoc responso, quod senatus cum ducentis<f1>Der Kleine Rat und der Rat der Zweihundert (d.h. der Große Rat); s. ^#/+Hundeshagen^#/- 193: "Hiemit wurde die ziemlich unbefriedigt gelassene Deputation verabschiedet".<fe> hoc negotium
+pertractandum suscipere velit diemque constituere, Iovis
+videlicet post Andreę festum,<f1>D.h. Donnerstag, den 4. Dezember 1544, nach dem Andreastag (d.h. dem 30. November). An diesem Tag fand tatsächlich eine Beratung über den Sakramentenstreit statt, wie aus folgender Notiz des Ratsmanuals (Bern StA, A II 160, Nr. 290, S. 201) hervorgeht: "Ist geraten des spans halb zwyschen den predicanten". Am Tag darauf wurden die Berner Prädikanten vor den Kleinen Rat geladen und gebeten, sich nicht mehr zu streiten und sich an den Beschluss von August 1542 zu halten; s. das Berner Ratsmanual unter dem 5. Dezember 1544 (Bern StA, A II 160, Nr. 290, S. 206-222, wo die Reden der Prädikanten Erasmus Ritter, Beat Gering, Simon Sulzer und Johannes Wäber detailliert wiedergegeben sind); und Michael Stettler, Berner Chronik, 1544 (StA Bern, DQ 11), Bd. D, 1541-1550, f. 92r.-95r.<fe>
+et quicquid ad hanc rem
+conducat, tunc universum audiri.
+^$Ad hunc ergo diem et scripta senatus vestri<f1>Siehe zuletzt oben Nr. 2034 mit Anm. 1. Im Berner Ratsmanual findet sich unter dem 4. Dezember 1544 der Eintrag: "Der Brieff von Zurich verläßen. Ist angstellt Inen ze antwurten bis zum beschluss des sacramentischen spans." (Bern StA, A II 160, Nr. 290, S. 201).<fe> servantur, quę plurimum promovere
+neque parum Buceranos consternatos reddidere. Orabimus deum,
+ut eventum suę glorię condignum et nobis salutarem
+largiri dignetur.
+^$Valete omnes. Indignatur Sultzerus ob Megandri literas<f1>^&!s(-60)Kaspar Meganders Brief und dessen Adressat wurden nicht ermittelt.^&!s(+0)<fe>.
+^$Habete me commendatum.
+^$Datum Bernę, 26. die novembris anno 1544.
+<un>Totus tuus Eb. a Rumlang.
+<lz>[Adresse auf der Rückseite:] Integerrimo virod. d.
+Heinricho Bullingero, ecclesiastę Tigurinę ecclesię
+primario, domino et patrono suo semper observando. Zürich.
+Meister Heinrich Bullinger.
+</content>
+</letter>

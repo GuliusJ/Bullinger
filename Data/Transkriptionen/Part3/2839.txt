@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2839">
+<brief>
+<id>17106</id>
+<nr>2839</nr> <from persid="MusculusWolfgang"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-03-07"/>
+<ae>Wolfgang Musculus an Bullinger</ae>
+<od>Augsburg, 5. März 1547</od>
+<vo>Autograph: Zürich StA, E II 360, 83 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 134; Lit.: F. Roth: Augsburgs Ref'g III 473ff, IV 13</k></dr>
+<re><t>Die Pfarrer Lorenz Meyer und Rudolf Schwyzer d.Ä. kehren nach Zürich zurück; nicht etwa, weil der Rat sie entlassen hätte oder sie sich selbst das Recht dazu angemaßt hätten, sondern aufgrund der miserablen Lage bzw. des Versagens der Stadt.</t>
+<t>Nachdem das Papsttum aus der Diözese vertrieben worden war, hatte der Rat vor, dort das Evangelium verkündigen zu lassen. Dazu berief er Pfarrer von allen Seiten (darunter auch die oben Genannten). Da nun das Umland erneut in die Hände der Pfaffen gefallen ist und sich ohnehin viele Pfarrer der Umgebung nach Augsburg zurückgezogen haben, erschien es den beiden Pfarrern ratsam, wieder heimzukehren, was dem Zürcher Rat wohl auch behagen wird. Meyer und Schwyzer werden selbst erzählen, wie ehrenvoll sie verabschiedet wurden.</t>
+<t>Sie werden auch über die Lage in Stadt und Kirche sowie über Musculus' Aussichten, in der Stadt bleiben zu können, berichten. Sollte dieser Augsburg verlassen müssen, wird er vielleicht die Gelegenheit haben, Helvetien als Vertriebener kennenzulernen.</t>
+<t>Thoman Ruman (noch zutreffender "Frumman" [frommer Mensch]!) und Haller haben beschlossen, in Augsburg zu bleiben. Sie werden vermutlich selbst darüber brieflich berichten.</t>
+<t>Gruß.</t></re>
+<text>
+<div>
+<p><zzl>zl17106-2A</zzl>S. D. Redeunt ad vos, Bullingere doctissime, dilecti in domino fratres, Laurentius Agricola
+<fn>Lorenz Meyer (Agricola).</fn> et Rudolfus Schwitzer
+<fn>Rudolf Schwyzer d.Ä.</fn>. Redeunt autem, non reiecti a nostris
+<fn>Gemeint sind die Augsburger Ratsherren.</fn> nec sua aliqua temeritate, sed propter miserabilem statum, imo verius lapsum nostr{e} huius urbis
+<fn>Zur Unterwerfung Augsburgs unter Kaiser Karl V. s. <qv>nr2769</qv>, <qv>fn17037-3</qv>.</fn>.<zzl>zl17106-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17106-3A</zzl>Sperabatur toti diocesi posse praedicatione evangelii consuli propter eiectum papatum, ad quam rem nostri ministros verbi undequaque
+<fn>Nämlich auch von Basel und Straßburg.</fn> vocare statuerant; ob quam causam dicti etiam fratres ad nos vocati sunt. Verum (quoniam spes ista, quantum praesentem rerum statum concernit, prorsus evanuit, ita ut totus ager in manus pfafforum redierit, factumque est, ut causa vocationis ipsorum desierit, <zzl>zl17106-1A</zzl>et urbs haec alioqui ministris verbi abundat, quorum aliqui ex agro pulsi hic haerent
+<fn>Vgl. <qv>nr2837</qv>,<qv>zl17104-2</qv>.</fn><zzl>zl17106-1E</zzl>)
+<fa><i>Klammern ergänzt.</i></fa> iudicarunt dicti fratres, et meo iudicio non absque ratione, consultum esse, ut ad suos reverterentur, id quod vestri
+<fn>Gemeint ist der Zürcher Rat.</fn> dubio procul boni consulent. Quam honorifice dimissi sint a nostris, ipsi referent.<zzl>zl17106-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17106-4A</zzl>De urbe hac et ecclesia nostra cognosces ex ipsis, ut necesse non sit aliquid rerum nostrarum chartae committere. Quae mihi spes sit hic manendi, et ipsum illi tibi indicare possunt. Si non dabitur hic manendi libertas, dabitur forsan, ut Helvetiam vestram aliquando tanquam asylum ministrorum Christi videam.<zzl>zl17106-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17106-5A</zzl>Reliqui duo, Hallerus
+<fn>Johannes Haller.</fn> et Rummanus
+<fn>(Hans) Thoman Ruman (Römer).</fn>, quem una addita litera rectius vocaremus Frumman, diutius apud nos manere constituerunt, qua de re ex ipsorum forsan literis
+<fn>Bekannt ist nur ein Brief Hallers vom 5. März (<qv>nr2837</qv>).</fn> intelliges.<zzl>zl17106-5E</zzl></p>
+</div>
+<div>
+<p>Bene in domino vale, virorum colendissime. Augustae Vindelicorum, 1547, 5. martii.</p>
+<un>W. Musculus</un>
+<un>tuus in domino.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Doctissimo viro d. Heinricho Bullingero, Tigurinae ecclesiae antistiti fidelissimo, domino ac fratri plurimum colendo.
+<fn>Dieser Brief wurde wie auch die Briefe gleichen Datums von Haller (<qv>nr2837</qv>) und von Michael Keller (<qv>nr2838</qv>) durch Meyer und Schwyzer übermittelt, denen Hans Wilpert Zoller als Begleiter zugewiesen wurde; s. <qv>nr2844</qv>,<qv>zl17112-2</qv>.</fn></p>
+</div>
+</text>
+</brief>

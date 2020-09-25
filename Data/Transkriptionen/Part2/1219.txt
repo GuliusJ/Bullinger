@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1219">
+<nr>1219</nr>
+<correspondents>
+	<originator fn=1>Lienhart Biberli</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Lienhart Biberli (Leonardus Castor), von Basel, gest. um 1542, war seit 1521 Schulmeister an der Lateinschule in Winterthur. Im Jahre 1531 erscheint er als Käufer eines Hauses.
+Aus seiner Korrespondenz ist ein Brief an Zwingli, in dem er sich gegen das Psalmensingen und für die Verstärkung des Sprachunterrichts ausspricht, und das vorliegende Schreiben an Bullinger erhalten. - Lit.: Z IX 216f; Hermann ^#/+Walser,^#/- Geschichte der Laurenzen- oder Stadtkirche Winterthur, II.
+Teil: Zeit der Reformation und Gegenreformation, in: Neujahrsblatt der Stadtbibliothek Winterthur 1945, S. 48. 54f; Pfarrerbuch 196.</note>
+</correspondents>
+<space_time>
+	<place>Winterthur</place>
+	<date>26. Januar 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2792 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Die Nachricht von Matthias [Hirsgarter], daß zwei Jünglinge aus der [Winterthurer] Lateinschule im Examen in Zürich gut abgeschnitten haben, freut ihn sehr; hofft nun, daß die Kritiker verstummen. Dankt für die Grüße und rühmt Bullingers Freundlichkeit und Gelehrtheit. Ist froh, daß Bullinger
+Leodegar [Hirsgarter] bei sich aufgenommen hat.</re>
+<tx>Gratia et pax a deo per Christum.
+^$Quantumvis temerarium sit, Bullingere doctissime, meis
+nugis remorari te occupatissimum adeoque innumeris districtum rebus, non potui tamen non (tua fretus humanitate) animi mei gaudium in sinum tuum effundere et paucis testari, quam lęta ac auspicatad. Mathias<f1>Matthias Hirsgarter.<fe>,
+summus meus necessarius, Tiguro nuper regressus adportarit.
+Di boni, quantum lętitiae subito obortum, quando significavit duos adolescentes<f1>Unbekannt.<fe>, qui hactenus nostra
+disciplina usi sunt, in celebri doctorum cętu, cum in
+literis factum esset periculum, non omnino
+<gr>ămoýsvw</gr> ad interrogata respondisse. Accedit huc,
+quod ex epistola<f1>Nicht erhalten.<fe> Rhellicani, quam nuperrime ad me scripsit,
+intellexi publico oppidi nostri ministro commissum esse a
+pio quodam viro<f1>Unbekannt.<fe>, ut rem gestam praetori et senatui meo<fx>meo ^#/+über der Zeile nachgetragen.^#/-<fe>
+exponat. Hinc ego in bonam spem adducor, ut, qui conatus
+meos non dico non probarunt, sed calumniari (ut est
+ingratitudo) nunquam desierunt, posthac cum de me tum de
+iis, qui fidei meę concrediti sunt, si non melius, at
+peius<fx>peius ^#/+am Rande nachgetragen.^#/-<fe> minus sentiant.
+^$Cęterum, quod tu in literis<f1>Nicht erhalten.<fe> parocho missis salutem mihi
+adscripsisti, mox per eundem istinc digredientem<fx>^#/+vor^#/- digredientem ^#/+gestrichenes, unlesbares Wort.^#/-<fe> verbis
+quoque me salvere iussisti, tam gratum quam quod gratissimum
+fuit; iam enim liquido apparet mihi tuam ab omnibus
+decantatam humanitatem doctis pariter ac indoctis patere.
+Quando igitur alii apud te pluris sunt eruditionis nomine,
+sine me tuum demereri favorem, quod literas amo, literatos
+suspicio atque exosculor.
+^$Quod autem nostri Mathię filium Leodigarium<f1>Leodegar Hirsgarter, von Winterthur, 1524-1567, Sohn von Matthias, ab 1539 Stipendiat in Zürich, 1544 ordiniert, wurde vorerst Provisor an der Lateinschule am Großmünster und Pfarrer der Stiftsfiliale Schwamendingen, dann 1547 Pfarrer in Laufen (Kt.
+Zürich). 1562 wurde er aus gesundheitlichen Gründen in den Ruhestand versetzt.
+Er kaufte sich in Zürich ein Haus am Salzmarkt. Bullinger, der ihn - wie hier gemeldet wird - als Schüler in sein Haus aufgenommen hatte, schrieb über ihn: "Was ein geflißner, geschickter mensch, der vil und wol schreib." - Lit.: Zürich ZB, Ms. Car C 44, 921f; Zürich Stadtarchiv, VIII C 48, Nr.
+2803; Zürich StA, B III 28, 63; Hermann ^#/+Bleuler,^#/- Die Hirschgartner von Zürich, [Küsnacht-Zürich 1944]; Pfarrerbuch 343; HBLS IV 229.<fe> in convictum
+tuum recipis, bene facis; est enim pius et studiosus
+adolescens.
+^$Vale.
+^$Vituduri, septimo calendas februarii anno 39.
+<un>Leonardus Castorius.
+<lz>[Adresse auf der Rückseite:] Et eruditione et
+pietate insigni viro, domino Henricho Bullingero, domino suo
+observandissimo.
+</content>
+</letter>

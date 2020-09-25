@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1708">
+<nr>1708</nr>
+<correspondents>
+	<originator>Benedikt Euander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Kempten</place>
+	<date>29. Dezember 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 226 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 94</vo>
+<dr>Ungedruckt</dr>
+<re>[Der Rat der Stadt Kempten] hat ihm, wenn auch widerwillig, die Entlassung gewährt; Euander sagt den Zürchern seine
+Dienste zu und empfiehlt sich ihnen. Das Übrige wird Bullinger vom Boten und später von ihm selbst hören. Grüße.
+</re>
+<tx>Facilius equidem a me impetrasti, humanissime vir, ut operam meam vobis condicerem,<f1>Zur Berufung Euanders vgl.
+oben Nr. 1676.<fe> quam a dominis meis permissum sit. Veruntamen[!], cum praecibus a me nihil impetrare possent et
+iure aut aliquo pacto vi retinere non liceret, tandem bona pace concesserunt. Polliceor itaque vobis meam operam rogoque, ut me
+vobis<fx>^#/+Korrigiert aus^#/- tibi.<fe> semper et ubique commendatum habere velitis<fx>^#/+Korrigiert aus^#/-
+velis.<fe>.<f1>Euander trat am 20. März 1543 die Nachfolge Georg Binders als Schulmeister der Lateinschule am Großmünster an; s. Leo ^#/+Weisz,^#/- Quellen zur Reformationsgeschichte des Großmünsters in Zürich, in: Zwa VII/3, 1940, S. 200.^&xZürich ZB, Ms Car. C 44, 908f^&x{<fe>
+^$Cetera omnia partim ex nuntio<f1>Unbekannt.<fe>, partim ex me propediem audies.
+^$Vale cum tua honestissima coniuge<f1>Anna, geb. Adlischwyler.<fe> et tota familia<fx>^#/+in der Vorlage irrtümlich^#/- familiam.<fe>, quam salvam esse volumus et
+ego et uxor<f1>Nicht namentlich bekannt.^&x???^&x{<fe> mea. Salutabis meo nomine vicissim Pellicanum, Bibliandrum,
+Megandrum, Gvaltherum, Binderum, Frisium<fx>^#/+Nach^#/- Frisium ^#/+gestrichenes^#/- ac doct.<fe>, Ammannum, Collinum ac doctos omnes.
+^$Vale.
+^$Cambidoni, 29. decembris anno 1542.<fx>^#/+Nach^#/- 1542 ^#/+gestrichenes^#/- Benedictus.<fe>
+<un>Benedictus Euander, tui
+<un>nominis studiosissimus.
+<lz>[Adresse auf der Rückseite:] Domino Magistro Heinricho Bullingero, viro piissimo et doctissimo, contionatori Tigurino primario, domino suo colendissimo.
+</content>
+</letter>

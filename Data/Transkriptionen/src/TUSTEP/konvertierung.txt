@@ -1,0 +1,22 @@
+
+Konvertieren der Daten (TUSTEP)
+
+> *DESI
+> #AN, LE=<in.txt>, SC=<out.txt>
+> #UM, QE=<in.txt>, ZI=<out.txt>, MO=-1, LO=+, CO=UTF8
+
+
+Dateipfade defieren
+> *DESI
+
+Dateien laden
+> #ANMELDE, LESEN=<input.txt>, SCHREIBEN=<output.txt>
+
+    Kurzform:
+    > #AN, LE=<in.txt>, SC=<out.txt>
+
+Konvertieren
+> #UMWANDLE, QUELLE=<input.txt>, ZIEL=<output.txt>, MODUS=-1, LOESCHEN=+, CODE=UTF8
+
+    > #UM, QE=<in.txt>, ZI=<out.txt>, MO=-1, LO=+, CO=UTF8
+

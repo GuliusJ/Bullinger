@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1126">
+<nr>1126</nr>
+<correspondents>
+	<originator>Martin Luther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Wittenberg</place>
+	<date>14. Mai 1538</date>
+</space_time>
+<vo>Abschrift von Bullingers Hand<fx>^#/+Mit Überschrift und Anstreichungen jüngeren Datums. Erhalten ist auch eine Teilkopie (ab unten Z. 8: ^#/-Nosti^#/+) von unbekannter Hand in Zürich StA, E I 1. 3a (nachfolgend zit.
+als: Tk). Hierbei handelt es sich entgegen der Annahme de Wettes (s. WA Briefwechsel VIII 223) nicht um das Original;
+letzteres war wohl bereits im 18. Jahrhundert verschollen, da es J. J. Simler nicht erwähnt (s. Zürich ZB, Ms S 44, 118).
+Ob dem Abdruck in Hottingers "Historia ecclesiastica" (zit.: H)
+das Original zugrunde lag, bleibt zweifelhaft.^#/-<fe>: Zürich StA, E II 348, 21
+</vo>
+<dr>Gedruckt: Johann Heinrich Hottinger, Historia ecclesiastica Novi Testa­men­­ti, Bd. VI, Zürich 1665, S. 730-732; WA Briefwechsel VIII 223f, Nr. 3229<fx>^#/+Die Edition in WA Briefwechsel VIII bietet einen Mischtext. Weitere Drucke s.
+ebd., S. 223.^#/-<fe>; Übersetzung: Martin Luther, Ausgewählte Schriften, Bd. VI, Frankfurt a. M. 1982, S. 195f, Nr. 125</dr>
+<re>Hat seinen Brief [Nr. 1114] und sein Buch "De scripturae sanctae authoritate" [HBBibl I 111] erhalten, kann jedoch über
+letzteres noch kein Urteil abgeben. Ihre Auffassungen unterscheiden sich auch weiterhin; zwar hat er Zwingli - wie
+auch Oekolampad - in Marburg als ausgezeichneten Mann kennengelernt, doch sah er sich in der Lehre von ihm getrennt,
+und auch die Veröffentlichung seiner ["Fidei expositio"] durch Bullinger hat ihm mißfallen. Trotz gegenseitiger
+Vorbehalte hofft er aber zu erleben, daß Gott durch seinen Geist Einigkeit schafft.
+</re>
+<tx>Ornatissimo virod. Heinrycho<fx>^#/+H:^#/- Henrico.<fe> Bullingero, ecclesiae
+Tigurensis ministro sedulo et diligenti, suo in domino
+venerabiliter amando.
+^$Gratiam et pacem in Christo.
+^$Redditae mihi sunt<fx>^#/+H:^#/- sunt mihi.<fe> literae tuae<f1>Oben Nr. 1114.<fe>, mi Bullingere, una cum
+libro tuo De authoritate scripturae et functione
+episcoporum<f1>HBBibl I 111.<fe>. Librum sane nondum perlegi aliis et multis occupatus, nec tamen volui ultra has Lipsenses
+nundinas<f1>Gemeint ist die Leipziger Jubilatemesse; Jubilate fiel 1538 auf den 12. Mai.<fe>
+differre responsum, etiamsi, quod petis, iudicium meum
+de libro tuo in tanta penuria temporis significare
+non possim. Nosti vero alias nobis non displicere stilum et
+argumentum rerum, in quibus versamini, sed sensu et affectu
+sumus dissimiles. Libere enim dicam: Zwynglius<fx>^#/+Tk:^#/- Zwinglium.<fe> postquam
+Marpurgi mihi visus et auditus est<fx>^#/+H:^#/- visus et auditus mihi est.<fe>, virum optimum esse iudicavi
+sicut et Oecolampadium, ita ut eorum casus me pene
+exanimaverit nulla maiore causa, quam quod credere cogebar
+alienum esse seu potius permansisse a sententia nostra, quam
+nos arbitramur veram esse non minus quam vos vestram. Et id
+quoque dolebat, quod sub nomine tuo postea aedidisti
+Zwinglii librum ad regem christianum scriptum<f1>Luther bezieht sich auf Zwinglis "Fidei expositio" (Z VI/V 1-163), die an König Franz I.
+gerichtet ist. Im Februar 1536 erschien sie erstmals im Druck, versehen mit einer Vorrede Bullingers.<fe> mira laude celebrans,
+cum in eo libro esse nosses quam plurima, quae non modo nos, sed omnes pios offendunt optimo iure<f1>Besonders mißfiel Luther Zwinglis Lehre von der Seligkeit erwählter Heiden; s. BucerDS VI/1 142, 1-7; Vadian BW VII 78.<fe>. Non quod
+invideam honori Zwinglii, de cuius morte tantum<fx>^#/+H:^#/- tecum.<fe> dolorem concepi, sed quod synceritas doctrinae gratia
+nullius hominis vilipendi debeat. Haec scribo, ut videas me
+candore vero sine omni simultate tecum agere. Vos fortasse
+creditis nos errare. Id commendo dei iuditio. Certe nos
+etiam non possumus vestra omnia probare, nisi conscientiam
+vellemus<fx>^#/+H:^#/- mallemus.<fe> onerare, quod non exigetis a nobis, ut non dubito. Sed nihil posset mihi ante obitum
+meum laetius contingere<fx>^#/+Tk:^#/- Sed nichil posset michi letius ante obitum contingere.<fe>, quam si daretur
+tandem<fx>^#/+vor^#/- tandem ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe> per gratiam dei spiritus ille, qui cor et animam
+unam<fx>^#/+H:^#/- meam.<fe> in domino recrearet, ut unum saperemus et diceremus in Christo ad
+gloriam dei patris et salutem animarum. Haec interim boni
+consule, donec, si deus volet<fx>^#/+H:^#/- velit.<fe>, librum<fx>^#/+Tk:^#/- libellum^#/+; dazu am Rande nachgetragen:^#/- libellus de autoritate scripture et functione.<fe> tuum legero.
+^$Bene vale.
+^$Wittenbergae, 14. maii 1538.
+<un>Martinus Lutherus.
+</content>
+</letter>

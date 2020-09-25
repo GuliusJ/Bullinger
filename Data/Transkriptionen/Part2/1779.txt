@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1779">
+<nr>1779</nr>
+<correspondents>
+	<originator>[Bullinger]</originator>
+	<addressee>Philipp Melanchthon</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[kurz vor 28. August 1543]</date>
+	<note>Der zusammen mit diesem Brief über­sandte Johanneskommentar Bullingers (HBBibl I 153) wurde am 21. August 1543 fertiggestellt (s. HBD 32, 6). Dass Bullinger vom vergangenen Sommer ("aestate praeterita") spricht, wenn er über die
+Rückkehr von Studenten aus Wittenberg berichtet (vgl. dazu oben Nr. 1766, 112-114 mit Anm. 61), lässt zwar eher an den Herbst oder Winter denken (vgl. MBW 3327, Anm.); der Briefentwurf findet sich jedoch als dritter in einer Reihe von vier fortlaufend geschriebenen Entwürfen (vgl. oben Nr. 1777f sowie unten Nr. 1780), dessen letzter am 28. August
+ausgefertigt wurde. Einige Formulierungen stimmen fast wörtlich mit dem wohl gleichzeitigen Brief an Bucer überein (vgl. oben Nr. 1777, 16-32). Melanchthon antwortete allerdings erst am 25. März 1544 (MO V 342f, Nr. 2893; MBW 3487).</note>
+</space_time>
+<vo>Autographes Konzept: Zürich StA, E II 345, 365r.-366r.</vo>
+<re>Aus Wittenberg zurückkehrende Studenten [Johannes Pontisella, Christian Hochholzer und Johannes Faber?]^&xHochholzer war aber bereits am 15. Juli 1543 Pfarrer in Albisrieden geworden! Anm. JS 11.1.10^&x{ rühmten Melanchthons Wohlwollen gegenüber den Zürchern und überbrachten seinen Brief an die Schulvorsteher; Bullinger dankt und bietet seine Dienste an. Sendet seinen Johanneskommentar, an dem er neun Monate gearbeitet hat; darin verteidigt er die altkirchliche Christologie und Trinitätslehre gegen [Kaspar] Schwenckfeld, [Michael] Servet, Campensis [Johannes Campanus] und die Täufer. Grüße von den Zürcher Pfarrern und Lehrern; Empfehlung an Luther und die übrigen Gelehrten.</re>
+<tx>[Gedruckt: Bindseil 185-187, Nr. 2749; Regest: MBW 3327.]
+</content>
+</letter>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2195">
+<nr>2195</nr>
+<correspondents>
+	<originator>Georg Frölich</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>11. Juli 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 161 (Siegel)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 162 ^&x{
+<re>Frölich dankt für Bullingers Freundschaft und die Übersendung seiner Schriften "Der alt gloub", "Bericht der krancken" und "Hoffnung der Glöubigen". Bei der ersten Durchsicht ist Frölich vieles ihm bisher Unbekannte aufgefallen. Er wird sich in seinem Glauben von Bullingers Büchern leiten lassen und sie seiner Frau [Anna, geb. Lochner] und seinen Kindern [Jonas, Katharina, Anna, Afra, Caritas, Theodora und Georg d.J.] zu lesen geben. Vielleicht gibt es den Band auch in Augsburg zu kaufen; anderenfalls würde er Bullinger um weitere Exemplare bitten.
+-^#. Während Luther und seine Brut bellen, trägt das ["Warhaffte Bekanntnuß"] der Zürcher reiche Frucht. Frölich stimmte nie mit Luther überein. Deshalb verließ er seine gute Stellung in Nürnberg und wandte sich nach Augsburg, wo der eifrige Michael Keller die Reinheit der Abendmahlslehre verteidigt, während andere ins Papsttum abgleiten. Diese [Abneigung gegen Luther] erklärt auch, [warum Frölich die Zürcher um einen Prediger für Augsburg bittet].
+-^#. Er übersendet das bissige ["Speculum Osiandri"], das verfasst wurde, weil Osiander in seinen "Coniecturae de ultimis temporibus" Zwingli und Oekolampad angegriffen hatte. Bullinger soll daran keinen Anstoß nehmen und kann verschweigen, dass er es von Frölich zugeschickt bekam.
+-^#. Frölich versucht, Matthias Erb eine ehrenhafte Berufung zu verschaffen; wenn er dabei Erfolg hat, wird er es Bullinger mitteilen. Dieser soll ihm die Adresse Erbs mitteilen.
+-^#. Empfehlungen an die Brüder.</re>
+<tx>S. et gratiam a domino.
+^$Quod literis prioribus<f1>Nicht erhalten.<fe> pollicitus es, nimirum pignus initę inter nos amicitię,
+proximis<f1>Nicht erhalten. Es handelt sich um den Brief vom 20. Juni 1545, der Bullingers Buchsendung an Frölich (über Blarer) begleitet hatte; s. oben Nr. 2184, 6f mit Anm. 5.<fe> tam abunde prestitisti, ut ignorem plane, quomodo vicem rependam.
+Dono dedisti mihi libellum omnibus mundi thesauris pretiosiorem: primum vetustatem christianę religionis nostrę,<f1>"Der alt gloub". Diese Schrift wurde 1544 erneut gedruckt; s. HBBibl I 102.<fe>
+secundo emigrantium iamiam pręparatoria,<f1>Die Schrift: Bericht der krancken. Wie man by den krancken und staͤrbenden menschen handlen, ouch wie sich ein yeder in siner kranckheit schicken und zuͦm staͤrben rüsten soͤlle, Zürich, Christoph Froschauer, Mai 1544 (HBBibl I 76; BZD C 333). - Das Titelblatt dieses Druckes kündigt ferner die "Hoffnung der Glöubigen" als zweite Schrift an, doch sollte diese erst später und separat gedruckt werden; s. die folgende Anm.<fe> tertio spem crędentium<f1>Die "Hoffnung der Glöubigen", die im August 1544 erschienen war; s. HBBibl I 147; HBBW XIV 331, Anm. 9.<fe> complectentem,
+eundemque non ex philozophorum scitis, sed ex divinarum literarum oraculis congestum,
+non ab ethnico quopiam prudente, non a peregrino aliquo, sed coniunctissimo adeoque mihi
+notissimo iugique amico Henricho Bullingero pie, fideliter et docte conscriptum;<f1>Zur Sendung dieser Schriften s. oben Nr. 2184, 6f.<fe>
+quem etsi nondum per temporis brevitatem legere licuit, tamen obiter hinc inde oculos in ipsum spargendo
+multa mihi antea incognita scituque necessaria tum et saluberrima reperii.
+Erit igitur mihi perpetuum mnemosinon et arrabo amicitię erga te, quam nulla ręrum oblivio, iuro,
+nec mors ipsa, deletura est. Nam eam etiam usque ad cęlestem patriam et sine fine duraturam firmiter crędo.
+Dabo etiam operam, ut ille tuus libellus non tam mihi quam meę uxori<f1>Anna, geb. Lochner; s. ^#/+Augsburger Eliten^#/- 134.<fe> meisque liberis, quorum 7 habeo,<f1>Jonas, Katharina, Anna, Afra, Caritas, Theodora und Georg d.J.; s. ^#/+Augsburger Eliten^#/- 134.<fe>
+tritus fiat et bene imprimatur, eoque duce in deum crędam, illi vivam atque moriar.
+Quem fructum ut inde capiam, tu apud parentem ręrum<f1>"Parens rerum" ist eine antike Gottesbezeichnung.<fe> pro me diligenter interpellato.
+Sciscitaturus sum, an libellus ille hic apud nos venundetur, ut eius copiam nonnullis
+ex meis faciam. Si hic non venit, vix continebo te pro uno atque altero adhuc appellare.
+^$Confessio<f1>Das "Warhaffte Bekanntnuß" bzw. die "Orthodoxa Tigurinae ecclesiae confessio"; s. oben Nr. 2061, Anm. 9.<fe> vestra plęnis navigat vęlis<f1>plęnis ... vęlis: Adagia, 4, 6, 1 (ASD II/8 19, Nr. 3501).<fe> et amplissimos protrudit fructus relatrante etiam Luthero et toto eius farinę cuneo.
+Scis, mi dilectissime Henriche, quantum turbę res sacramentaria hactenus ecclesiis dederit.
+Scis etiam papatum unice crudo isto et literali verborum Christi intellectu fulciri.
+Inde mihi a viginti annis hactenus nunquam cum Luthero convenit. Ubi ubi degi, semper istiusmodi hominibus<f1>Darunter Andreas Osiander.<fe> invisus fui.
+Propterea etiam Norinbergam et splendidam istic ad decennium actam functionem deserui
+me Augustam solum ob sinceriorem religionem conferens; et profecto falsus non sum.
+Habemus hic m. Michaelem Cellarium<f1>Michael Keller (Vesemarus, Cellarius, Hydropolitanus; Pseudonym: Conrad Reyß von Ofen), geb. in Burgheim (Kr. Neuburg-Schrobenhausen, Bayern), gest. Februar 1548 in Augsburg. 1512 Immatrikulation in Leipzig; 1517 Baccalaureus; 1520 Magister. Danach Kaplan in Wasserburg am Inn (Kr. Rosenheim, Bayern), von wo er wegen evangelischer Predigten weichen musste. Im Sommer und Herbst 1524 Aufenthalt in Wittenberg. Seit dem 23. November 1524 in Augsburg, wo er bald zum Prediger an der Barfüßerkirche ernannt wurde. Am 18. Oktober 1526 Heirat mit Felicitas Österreicher. Während des Augsburger Reichstags zog er sich von Juli 1530 bis Februar 1531 nach Memmingen zurück. Im Oktober 1538 erlitt er einen Schlaganfall und konnte erst 1541 wieder predigen, erkrankte aber im Januar 1542 erneut schwer. 1544 Pfarrer an St. Moritz in Augsburg. Von der Stadt Augsburg dazu abgeordnet, wirkte er zeitweise zwischen April und Dezember 1545 in Kaufbeuren. Erhalten sind vier Briefe Kellers an Bullinger und ein Brief Bullingers an ihn aus den Jahren 1546 und 1547. Im April 1547 erklärte Bullinger sich bereit, ihn und Musculus in Zürich zu empfangen, falls diese aus Augsburg verwiesen werden sollten (Bullinger an Johannes Haller, 9. April 1547, Zürich ZB, Ms F 46, 594f). - Lit.: Leipzig, Matrikel II 525. 556; III 896 (unter "Michael Vesemarus Burkamensis"); MBW-Reg XII 405f; Friedrich ^#/+Roth,^#/- Zur Lebensgeschichte des Meisters Michael Keller, Prädikant in Augsburg, in: Beiträge zur bayerischen Kirchengeschichte 5, 1899, 149-163; Wolfgang ^#/+Zorn,^#/- Michael Keller, in: Lebensbilder aus dem Bayerischen Schwaben, Bd. 7, München 1959, S. 161-172; Große Bayerische Biographische Enzyklopädie, Bd. 2, München 2005, S. 1000f.<fe>, virum optimum adeoque primum instrumentum, per quod dominus evangelium suum Augustę voluit innotescere.
+Is tanquam fortis et exercitatus athleta hactenus puritatem cęnę strenue tutatus est
+et adhuc viriliter tutatur et defendit quibusdam fere ad papismum in hoc negotio relabentibus.
+Hinc est, quod tibi inter cętera prioribus scripsi literis,<f1>Frölich spielt hier auf seine Bitte an Zürich wegen eines Predigers für Augsburg an; s. oben Nr. 2164. 2185.<fe> etc.
+^$En tibi mordax, attamen valde verum carmen<f1>Das von Frölich anonym im August 1544 veröffentlichte "Speculum Osiandri"; s. HBBW XIV 350, Anm. 10.<fe> ab authore eam ob causam ęditum, quod Osiander
+in suis coniecturis de extremo iudicio<fx>^#/+In der Vorlage^#/- iudio.<fe> somniatis<f1>Andreas ^#/+Osiander,^#/- Coniecturae de ultimis temporibus ac de fine mundi, Nürnberg, Johannes Petreius, Juni 1544; s. HBBW XIV 349, Anm. 5.<fe> divos Zvinglium et Oecolampadium inter pseudoprophetas connumerarit<f1>Vgl. ^#/+Osiander,^#/- aaO, f. C4r. (Osiander GA VIII 150-271, Nr. 315, hier 192, 11-194, 2).<fe>.
+Tu boni consule nec offendaris, oro. Poteris quoque id tibi per me transmissum esse obticere.
+^$Iam paro honestam vocationem domino Mathię Erbio, quam tibi, postquam effectum sortita fuerit, significabo.<f1>Siehe zuletzt oben Nr. 2185, 37-50.<fe>
+Oro autem, ut quam primum mihi rescribas, ubi vir ille invenietur.
+^$Vale cum pientissimis adeoque optimis fratribus tuis, quibus me commendatum esse cupio.
+^$Date festinanter, 11. iulii 1545.
+<un>Tuus ex animo Georgius Lętus,
+<un>archigrammateus Augustę Vindelicorum.
+<lz>[Adresse auf f. 163a,v.:] Ornatissimo viro domino Henricho Bullingero, Tigurinę ecclesię pastori optimo merito, domino amico et fratri.
+</content>
+</letter>

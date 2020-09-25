@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1289">
+<nr>1289</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>22. Juli 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 59 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat Luthers Kritik an Zwingli [in: "Von den Konziliis und Kirchen"] übersehen; empfiehlt ein freundliches
+Schreiben, das Luther Gelegenheit zur Stellungnahme gibt. Begrüßt die Ablehnung der [Nürnberger?] Zusammenkunft durch
+[Zürich]. Ambrosius [Blarer] kann die Erfolgsaussichten seiner Bemühungen um die Augsburger Kirche noch nicht abschätzen und
+braucht Unterstützung durch Gebet. Zwicks Bitten um Vadians Brief über die Verherrlichung Christi [Nr. 894] bzw. um Nennung
+eines [als Hilfskraft geeigneten] jungen Mannes sind noch unbeantwortet. Was Michael [Back?] aus Wien geschrieben hat, wird Leo [Jud] mitteilen.
+</re>
+<tx>S. Aut non legi aut non observavi, Bullingere suavissime, eum locum, ubi Lutherus Zvinglium perstringit<f1>Gemeint ist
+eine Stelle in Luthers Schrift "Von den Konziliis und Kirchen" (WA L 488-653; vgl. oben Nr. 1286, 10f), an der Zwingli in die Nähe der Nestorianer gerückt wird (aaO, S. 591, 9-14).<fe>.
+Caeterum cavendum est forte, ne quid in illum retorqueatur.
+Excusandus tamen esset praeceptor a discipulo amicis literis
+erga Lutherum, non solum propter excusationem, sed ut
+audires, quid ille contra aut quo animo in vos etc.
+^$Quod vestri conventum negaverunt<f1>Wahrscheinlich ist das geplante Religionsgespräch in Nürnberg gemeint (vgl. oben Nr.
+1261, Anm. 6). Ein formeller Ablehnungsbeschluß ist zwar nicht bekannt, vgl. aber das anonyme und undatierte Gutachten in Zürich StA, E II 347, 190-194.<fe>, libenter audimus; sic enim se res habet, quemadmodum scribis<f1>Bullingers Brief ist nicht erhalten.<fe>.
+^$Ambrosius<f1>Ambrosius Blarer; vgl. oben Nr. 1286, 2f.<fe> de instituenda domo dei apud Augustanos nec
+sperat aliquid nec desperat etiamnum. In neutram partem
+satis habet coniecturarum; preces autem ad dominum extorquet
+a nobis omnibus, quibus iuvetur in conatibus suis.
+^$Tu de epistola Vadiani de glorificatione Christi<f1>Vgl. oben Nr. 1282, 22-24.<fe> nichil
+rescripsisti, cum ipsius iussu ad me dare illam possis et
+debeas; nam sic impetravi. Nec de adolescente<f1>Vgl. oben Nr. 1286, 14-18.<fe> quicquam addidisti, quanquam non mittendo, sed describendo.
+^$Quid Michael<f1>Michael Back(?); vgl. oben Nr. 1220, 12f mit Anm. 9.<fe> ad me ex Wienna<f1>Der Brief aus Wien ist nicht erhalten.<fe>, dicet Leo<f1>Leo Jud.<fe>.
+^$Tu vale.
+^$22. iulii 1539.
+^$Totam familiam tuam salvam volo.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, Tigurinae ec­clesię pastori vigilantissimo,
+fratri et domino unice deamando.
+</content>
+</letter>

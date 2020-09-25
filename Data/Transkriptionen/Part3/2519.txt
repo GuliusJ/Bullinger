@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2519">
+<brief>
+<id>16208</id>
+<nr>2519</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 30. Juli 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 241 (neu: 259) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 55</k></dr>
+<re>Alle bedauern sehr, dass die [kaiserlichen Fähnlein aus Salem] entkommen konnten. Die [Schmalkaldener] haben das nicht verdient, denn [Kaiser Karl V.] ist falsch und listiger als der Teufel. Er vermeidet den Kampf, erzeugt dabei bei den [Schmalkaldenern] ein trügerisches Gefühl der Sicherheit und zwingt sie zu großen Ausgaben. Nur durch Buße und Gebet können der Glaube und die innere sowie auch die äußere Freiheit erhalten bleiben.
+<t/>Landgraf [Philipp von Hessen] ist am 16. [Juli] mit einem Heer aus Kassel gezogen. Am Sonntag davor [11. Juli] hat er mit der Gemeinde am Abendmahl teilgenommen. Er soll am 26. [Juli] über Würzburg hinaus gelangt sein. Jetzt befindet er sich in der Nähe der Feldlager der Schmalkaldener. Nach der Vereinigung mit ihnen wird er gegen den Kaiser vorstoßen; es sei denn, die Verbündeten halten ihn davon ab.
+<t/>König [Christian III.] von Dänemark und die [Hansestädte] rüsten gegen die [südlichen Niederlande]. Herzog Moritz [von Sachsen] bewacht die Grenzen zu den Territorien [König] Ferdinands, nämlich zur Lausitz, zu Schlesien und zu Böhmen. Karl V. verfolgt sein Ziel schon seit 25 Jahren. Welche Intrigen er seitdem gegen die Fürsten und Städte geschmiedet hat, wird sich Bullinger gut vorstellen können. Der Herr wird ihn aber für seine Lügen bestrafen!
+<t/>Bei der Einnahme von Weißenhorn soll ein recht großer Schatz beschlagnahmt worden sein. Abteien werden immer wieder besetzt, die Ortschaften des Augsburger Bischofs [Otto Truchsess von Waldburg] wurden belagert und weitere Städte gebrandschatzt. Ferner soll von feindlichen Truppen vergeblich ein Angriff gegen die [Graubündner] versucht worden sein.
+<t/>Die Schmalkaldener brauchen Geld; die Feinde haben es im Überfluss. Hoffentlich aber greifen jene nicht zu unlauteren Mitteln! Denn wenn Gott den Sieg geben will, wird er auch das nötige Geld für den Unterhalt der Söldner verschaffen.
+<t/>Trotz des durch die [katholischen Orte] bewirkten Verbots ziehen aus verschiedenen Kantonen der Schweiz große Mengen von Söldnern durch Basel, einige davon nach Straßburg.
+<t/>Bullinger hat gewiss von dem schrecklichen Blitzeinschlag in Solothurn gehört. Es sind einige Menschen dabei umgekommen.
+<t/>Grüße, u.a. an Rudolf [Gwalther].</re>
+<text>
+<p>S. Nemo satis mirari potest, quod e faucibus nostrorum bolus ille
+<fn>Mit "bolus ille" sind die Truppen gemeint, die bei Salem (Salmansweiler) lagen und sich rechtzeitig (ehe sie von den Schmalkaldenern angegriffen wurden) nach Tirol zurückziehen konnten; s. <qv>nr2505</qv>, <qv>fn16195-2</qv> und <qv>fn16195-11</qv>.</fn> ereptus est.
+<fn><a>Adagia</a> 3, 6, 99 (<a>ASD</a> II/6 391, Nr. 2599).</fn> Dolent omnes, quod putant securitatem eos cepisse - quod malum haud decet nos contra hostem
+<fn>Gemeint ist Kaiser Karl V.</fn> adeo fraudulentum. Nam dolis est instructior vel ipso satana
+<fn>Vgl. Gen 3, 1; 2Kor 11, 14; Apk 12, 9.</fn> et ex hoc fonte istud hauriet. Copiam pugn{e} haud faciet, nisi cogatur Gandavensis
+<fn>Der in Gent geborene Kaiser.</fn>: Primo, ut securiores reddat,
+<fn>Vgl. 1Thess 5, 3.</fn> deinde, ut fatiget et tandem, ut depauperet.
+<fn>Indem die Schmalkaldener länger für den Unterhalt ihrer Truppen aufkommen müssen.</fn> Occurrendum est itaque versipelli
+<fn>Karl V.; s. schon <qv>nr2501</qv>,<qv>zl16192-3</qv>.</fn> in domino, qui novit et potest omnes astus mali infringere,
+<fn>Vgl. Hi 5, 12f; Ps 33 (Vulg. 32), 10f.</fn> ac praeter ipsum nemo.
+<fn>Vgl. Judith 5, 29.</fn> Cogitandum igitur nobis, quorsum nam populus sit impellendus, nempe ad poenitentiam et preces, ut retinere queamus religionem et libertatem, hoc est duplicem libertatem, internam et externam. H{e}c enim sola petuntur.</p>
+<p><zzl>zl16208-1A</zzl>Sedecima huius Cassellis egressus est lantgraphius
+<fn>Philipp von Hessen.</fn> cum exercitu, postquam cum ecclesia sua dominico precedente
+<fn>Am Sonntag, 11. Juli.</fn> communicasset et se precibus eius commisisset. Vigesima sexta putatur profectus ultra Wurtzburgum
+<fn>Siehe dazu <qv>nr2514</qv>, <qv>fn16204-8</qv>; <qv>nr2515</qv>, <qv>fn16205-2</qv>.</fn> et nunc non procul abesse a castris nostrorum;
+<fn>Siehe dazu <qv>nr2518</qv>, <qv>fn16212-2</qv>.</fn> cum quibus ubi se coniunxerit, petiturus est recta fontem mali, nisi prohibeatur a sociis.<zzl>zl16208-1E</zzl></p>
+<p>Rex Dani{e}
+<fn>Christian III. von Dänemark.</fn> et civitates Saxonic{e}
+<fn>Gemeint sind die Hansestädte; vgl. <qv>nr2511</qv>,<qv>zl16201-3</qv>.</fn> contra Belgas
+<fn>Die südlichen Niederlande. - Zur Sperre des Seewegs s. <qv>nr2511</qv>, <qv>fn16201-1</qv>.</fn> se probe instruunt. <zzl>zl16208-2A</zzl>Custodit autem dux Mauricius
+<fn>Herzog Moritz von Sachsen. - Vgl. dazu <qv>nr2541</qv>,<qv>zl16429-11</qv>; <qv>nr2603</qv>,<qv>zl16291-1</qv>.</fn> fines communes a ditionibus Ferdinandi
+<fn>König Ferdinands I.</fn> vicinis, ut Lusitia
+<fn>Lausitz.</fn>, Silesia, Bohemia.<zzl>zl16208-2E</zzl> Gandavensis saxum hoc volvit
+<fn>Vgl. <a>Adagia</a> 2, 4, 40 (<a>ASD</a> II/3 352, Nr. 1340).</fn> annis iam 25. Quibus fallaciis, quibus mendaciis sit interea contra principes et civitates usus, ipse cogitabis. Perdet autem dominus omnes, qui loquuntur mendacium.
+<fn>Ps 5, 7.</fn> Num ergo putas illum impune laturum sua mendacia?</p>
+<p>Narratur hic Wishornum oppidum captum et thesaurum repertum satis grandem,
+<fn>Dabei handelte es sich um die Beschlagnahmung des Gemeinen Pfennigs in Weißenhorn (Lkr. Neu-Ulm, Bayern); s. <qv>nr2516</qv>,<qv>zl16206-1</qv>.</fn> <zzl>zl16208-3A</zzl>abbatias item passim occupari,
+<fn>Vgl. <qv>nr2514</qv>,<qv>zl16204-13</qv>; <qv>nr2538</qv>,<qv>zl16228-9</qv>.</fn><zzl>zl16208-3E</zzl> similiter et omnes civitates episcopi Augustani
+<fn>Otto Truchsess von Waldburg. - Vgl. dazu <qv>nr2510</qv>,<qv>zl16200-2</qv>.</fn> receptas. Civitates quasdam multari pro incendio.
+<fn>D.h., dass die Städte zahlen mussten, um nicht in Brand gesteckt zu werden.</fn> <zzl>zl16208-4A</zzl>Milites <fa1 bis="1"><i>Von Myconius am Rande nachgetragen.</i></fa1>(equites adversariorum)<fa1e von="1"/> aliquid tentasse contra Leopontios
+<fn>Hier wohl im Sinne von Graubündner, wie dies aus Heinrich <i>Glarean,</i> Descriptio de situ Helvetiae et vicinis gentibus ... Idem de Quatuor Helvetiorum Pagis ... cum commentariis Osvaldi Myconii, Basel, Johannes Froben, 1519 (<a>VD16</a> L2675), S. 60, hervorgeht. - Zum Begriff "Leopontius" s. schon <qv>nr2494</qv>, <qv>fn16184-9</qv>.<zfn>fn16208-2</zfn></fn>, nescio in quibus faucibus, sed infeliciter. Dic, si quid habes certi.<zzl>zl16208-4E</zzl></p>
+<p>Queruntur nostri de indigentia pecuni{e}, qua tamen abundent hostes. Verentur ergo, ne quid sit facien[dum]
+<fa><i>Textverlust durch Beschädigung des Papiers.</i></fa> contra, quam deceat. Hoc mihi dolet vehementer. In hoc tamen sum, quod si dominus daturus est victoriam, <vl>241v.</vl> daturus est et pecuniam, unde milites sustentari poterunt.</p>
+<p>Ex Helvetiorum Pagis
+<fn>Die Schweizer Kantone.</fn> nescio quibus ingens hac vis transit, quicquid isti
+<fn>Gemeint sind hauptsächlich die katholischen Orte; vgl. <qv>nr2478</qv>, <qv>fn16168-7</qv>; <qv>nr2489</qv>, <qv>fn16179-8</qv>, und die Verweise in <qv>nr2505</qv>, <qv>fn16195-4</qv>.</fn> prohibeant - belli certe viri. Et constat aliquem numerum esse nunc Argentin{e}.
+<fn>Vgl. <qv>nr2515</qv>,<qv>zl16205-5</qv>.</fn></p>
+<p>De fulmine, quod Salodorenses petiit,
+<fn>Am 26. Juli 1546 wurde in Solothurn der Nideggturm von einem Blitzschlag getroffen, wobei 30 Zentner Büchsenpulver explodierten, fünf Menschen starben und viele verletzt wurden. Den später errichteten Neubau nannte man Riedholzturm; s. Benno <i>Schubiger,</i> Die Kunstdenkmäler des Kantons Solothurn, Bd. 1: Die Stadt Solothurn I, Basel 1994, S. 168. 222, Anm. 128; Bruno <i>Weber,</i> "In absoluti hominis historia persequenda". Über die Richtigkeit wissenschaftlicher Illustration in einigen Basler und Zürcher Drucken des 16. Jahrhunderts, in: Gutenberg-Jahrbuch 61, 1986, S. 107f; <a>Vadian BW</a> VI 554. Das Unglück wurde sogar in einem Augsburger Druck festgehalten; s. Beschreibung der grausamen erschrocklichen geschicht vom Himmel herab mit ungewonlichem Wetter, Plitzen, Feürsträl und Hageln [...] zu Mecheln in Brabandt, zu Soleturn in Schweitz und zu Lezo in Neapels..., [Augsburg] 1546, f. Aiij,v. (<a>VD16</a> B2213 - Nachdruck in Robert <i>Foncke,</i> Die Explosion des Mechelner Sandtores (1546) in Flugschriften der damaligen Zeit, Antwerpen/Paris/Amsterdam 1932, S. 75-85), wo die Begebenheit fälschlich auf den 27. Juli datiert wird (es gibt einen weiteren Druck dieses Berichtes in aaO, B2212); s. ferner <qv>nr2548</qv>, <qv>fn16237-5</qv>. - Über die darauf erfolgte Berner Hilfeleistung s. Michael <i>Stettler,</i> Berner Chronik (StA Bern, DQ 11), Bd. D: 1541-1550, f. 189v.<zfn>fn16208-1</zfn></fn> audisti nimirum. Crudele est, quod dicitur. Perierunt homines aliquot. Reliqui sic fuerunt territi, ut propemodum desperarint.</p>
+<p>Vale in Christo, in quo et fortis sis cum Rodulpho
+<fn>Rudolf Gwalther.</fn> et aliis fratribus. Basile{e}, 30. iulii anno 1546.</p>
+<un>O. M. tuus.</un>
+<lz/>
+<p>[Adresse darunter:] D. Heinricho Bullingero, viro doctissimo, fratri in domino observando suo.</p>
+</text>
+</brief>

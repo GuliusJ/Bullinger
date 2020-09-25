@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2784">
+<brief>
+<id>17052</id>
+<nr>2784</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-02-01"/>
+<ae>[Ambrosius Blarer an Bullinger]
+<fn>Der Empfänger kann durch einen Vergleich von unten Z. <qv>zl17052-1</qv> mit <qv>nr2778</qv>,<qv>zl17046-1</qv>, ermittelt werden.</fn></ae>
+<od>[Konstanz, 1. Februar 1547]
+<fn>Die Datierung ergibt sich aus <qv>nr2790</qv>,<qv>zl17057-3</qv>.</fn></od>
+<vo>Autograph: Zürich StA, E II 357, [92a] (ohne Siegel)
+<fa><i>Dieses auf beiden Seiten beschriebene Zettelchen konnte Blarers Brief <qv>nr2778</qv> vom 29. Januar beigefügt werden, weil dieser vermutlich noch unversiegelt war (da Blarer ihn seinem Cousin Konrad Zwick zur Übermittlung anvertraut hatte). Erst nachdem das Zettelchen dem Brief beigelegt wurde, wurde dieser versiegelt.</i></fa></vo>
+<dr>Druck: <a>Blarer BW</a> II 582, Nr. 1404</dr>
+<re><t>Den mit diesem Zettelchen übersandten Brief [<qv>nr2778</qv>] hatte Blarer seinem [nach Zürich reisenden] Vetter Konrad Zwick anvertraut. Dieser vergaß aber, ihn auszuhändigen.</t>
+<t>Zwick teilt mit, dass Bullinger eine Kopie des von ihm [im Namen des Konstanzer Rats] verfassten Briefs [an die Vier Städte] beim Zürcher Stadtschreiber [Hans Escher vom Luchs] einsehen kann. Er ist nicht dazu gekommen, ihn für Bullinger abzuschreiben. Er muss bereits wieder auf Dienstreise.</t>
+<t>Eine Gesandtschaft des Konstanzer Bischofs Johann von Weeze wurde heute bei dem Konstanzer Rat vorstellig. Sie warnte diesen und sagte, dass der Bischof bereit sei, zugunsten Konstanz' mit Kaiser Karl V. zu verhandeln. Mögen die Konstanzer beständig bleiben!</t></re>
+<text>
+<div>
+<p><vl>[92a]v.</vl> <zzl>zl17052-1A</zzl>Disen brieff
+<fn>Gemeint ist Blarers Brief <qv>nr2778</qv> vom 29. Januar 1547.</fn> hab ich euch by minem vetter
+<fn>Konrad Zwick.</fn> geschickt. Der hat dero in der bulgen
+<fn>Reisetasche; Ledersack.</fn> vergessen; schick ich hiemitt.<zzl>zl17052-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17052-3A</zzl>Ich soll euch anz{oe}gen, das ir ain abschrifft seiner werbung
+<fn>Es handelt sich um das Schreiben des Konstanzer Rats an die vier protestantischen Städte der Eidgenossenschaft vom 1. Februar 1547; s. dazu <qv>nr2767</qv>, <qv>fn17035-2</qv>.<zfn>fn17052-1</zfn></fn> by ewerm stattschriber
+<fn>Hans Escher vom Luchs.</fn> finden werdind. Hat
+<fn>Subjekt ist Zwick.</fn> nitt zyt abzeschriben.<zzl>zl17052-3E</zzl> <zzl>zl17052-2A</zzl>M{uo}ß glich widerum hinweg ryten.
+<fn>Zwick verließ Konstanz vor Tagesanbruch des 2. Februars in Richtung eines unbekannten Ortes in Süddeutschland; s. <qv>nr2783</qv>,<qv>zl17057-2</qv>. Er wollte schon am Abend des 3. Februars wieder in Konstanz sein; s. <qv>nr2790</qv>,<qv>zl17057-5</qv>.<zfn>fn17052-2</zfn></fn><zzl>zl17052-2E</zzl></p>
+</div>
+<div>
+<p><vl>[92a]r.</vl> <zzl>zl17052-4A</zzl>Unser bischoff
+<fn>Johann von Weeze.</fn> hatt uff hutt sein bottschafft vor rath gehapt, mine herren gewarnet, etc., sich ouch empotten, das er gern gegen
+<fn>gegenüber.</fn> kai[serliche] m[ajesta]t
+<fn>Karl V.</fn> unterhandler sein
+<fa><i>In der Vorlage</i> seine.</fa> welle; und er maine es alles getrulich und v{ae}tterlich, etc. Ach ewiger gott, gib hertz und stercke, das wir bestandind!<zzl>zl17052-4E</zzl></p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Dieses Zettelchen war vermutlich zusammen mit Blarers Briefen <qv>nr2778</qv> und <qv>nr2782</qv> vom 29. bzw. 31. Januar Teil einer einzigen Briefsendung; s. oben <qv>nr2782</qv>, <qv>fn17050-2</qv>.</fn></p>
+</div>
+</text>
+</brief>

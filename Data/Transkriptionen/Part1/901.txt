@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="901">
+<correspondents>
+	<originator>Georg Distel</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Entringen</place>
+	<date>10. Oktober 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 355, 73 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Hat durch Ambrosius Blarer erfahren, dass es Bullinger und den Seinen
+gut geht. Seine eigene Lage hat sich seit der Visitation gebessert, wie
+der Briefüberbringer, sein Schwager, berichten wird. Möchte
+gerne selbst nach Zürich kommen und die neuen Schriften (*Bullingers*)
+abholen. Entschuldigt sein mangelhaftes Schreiben mit der überraschenden
+Verfügbarkeit eines Boten. Grüsse.
+</statue>
+<content>
+Min gantz undertänig dienst etc. zu^%+1, lieber herr und preceptor.
+Ich horte alltzytt gern, das es wol stände um uwer volck etc.,
+wie dann ich gehört hab vonn minem herren und bru^%der Ambrosy Blarern.
+<p>Wie wol ich in armu^%t byhar gsin+2, doch nach dem visitireren(*!*)+3 min sach (uss gunst gotts) wol statt und wol versehen. Wie wol vyl uffsatz+4
+und versu^%chung mir zu^% gestanden+5, ist doch es von gott besser worden,
+wie dann uch hie zeyger dyss brieff, min lieber schwager+6, sagen wirt
+etc.</p>
+<p>So gott wolte, wurde der tagen eynist+7 zu^% uch komen und die exemplar holen, so ir byhar geschryben und gemacht.</p>
+<p>Das(*?*)+a ich uch so schlechtig+8 geschryben, ist under wegen+9 geschehen, das min schwager im+10 ain andren weg fri+11 hat genomen und maint+b, er werde Zürch zu^%
+komen. Damit danck ouch gott uch, der aleyn+c um+d alles gu^%ts.</p>
+<p>Datum zinstag+12 vor Galli anno etc. 1536.</p>
+<signature>
+Görg Distel,
+predicant zu^%
+Entringen.
+</signature>
+<address>
+Griessent mir den Leonen+13, Theodorum+14 und omnes alios etc.
+(*Adresse auf der Rückseite:*) Dem wolgelerten M. Hainrich Bully,
+predicant zu^% Zürich etc.
+</address>
+</content>
+<note>
+.us; +a >Text durch Siegel beschädigt.
+<print>
++b>in der Vorlage  mait(*?*).
++c>in der Vorlage  aleym.
++d>nach  um  gestrichenes  alltzytt.
+</print>
+<address>
++1>zuvor.
++2>bisher gewesen bin (vgl. Distels Brief vom 24. Juni 1535, HBBW V,
+Nr. 599).
++3>Von der Visitation im Amt Tübingen vom August/September 1536
+liegen nur Akten vor, die sich auf die Stadt beziehen; vgl.
+Württembergische Visitationsakten, Bd. I: (1534) 1536-1540, bearb. v.
+Julius Rauscher, Stuttgart 1932. -- Württembergische Geschichtsquellen
+22, S. XXXIV.
++4>Anfechtung (SI VII 1536-1538).
++5>zugestossen (SI XI 745-747).
++6>Unbekannt.
++7>nächstens einmal (SI XII 800).
++8>mangelhaft (vgl. SI IX 56. 67).
++9>deswegen, deshalb(?).
++10>für sich.
++11>etwa im Sinne von: gerade (vgl. SI I 1260).
++12>Dienstag.
++13>Leo Jud.
++14>Theodor Bibliander.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

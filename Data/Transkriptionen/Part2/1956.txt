@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1956">
+<nr>1956</nr>
+<correspondents>
+	<originator>Hermann Aquilomontanus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Oldersum</place>
+	<date>25. August 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1393r.-1394v. (Siegelspur)</vo>
+^&xKopien: Zürich ZB, Ms S 55, 122; Emden BGK, Hs. fol. 37, Nr. 6;
+Zit.: J[acobus] ten ^#/+Doornkaat Koolman,^#/- De Anabaptisten in Oostfriesland ten tijde van Hermannus Aquilomontanus (1489-1548), in: Nederlands Archief voor Kerkgeschiedenis, NS 46, 1964/65, S. 98 (Kopie IRG); Weerda, Das ostfries. Experiment 99.^&x{
+<dr>Übersetzung: ^#/+Krömer,^#/- Aquilomontanus 56-60</dr>
+<re>Dankt für den durch Johannes a Lasco übermittelten Gruß; hält a Lasco für ebenbürtig mit Erasmus und würdig, Erzbischof Deutschlands zu sein; schildert seine Herkunft, sein Aussehen und seine Frömmigkeit und rühmt seine nicht aus den Scholastikern, sondern aus der Hl. Schrift geschöpfte theologische Bildung; in Basel pflegte er vertrauten Umgang mit Erasmus, der ihm zuliebe seine "Lingua" verfasste, und erwarb dessen Bibliothek, die er hier den Armen zur Verfügung stellt; von seiner Kenntnis der lateinischen und griechischen Literatur zeugt auch sein Werk ["Epitome doctrinae ecclesiae Phrisiae orientalis"], dessen Drucklegung Aquilomontanus von Bullinger erhofft. Um der Versuchung weltlicher Ehren zu entgehen, heiratete a Lasco eine arme Frau und hat nun drei Kinder; er zieht viele Ratsuchende an und nennt Aquilomontanus "Vater". Er ließ sich von der Landesherrin [Anna von Ostfriesland] zur Annahme des Bischofsamtes bewegen und hat begonnen, die zerstrittenen Pfarrer zu einen und den Häretikern entgegenzutreten; Aquilomontanus bittet um Empfehlung an ihn und entschuldigt sein unbeholfenes Lob. Stößt mit seiner Verkündigung bei den Gebildeten auf Unverständnis und leidet unter Altersbeschwerden, möchte aber vor seinem Tod für eine gute Erziehung seiner drei Söhne sorgen. Bittet um wohlwollende Aufnahme seines mangelhaften Schreibens. Hofft, Bullingers Bibel und neueste Werke durch a Lasco zu Gesicht zu bekommen. Bittet um Fürbitte, sendet Grüße und hält ihn zur Schonung seiner Gesundheit an.
+</re>
+<tx>Gratiam et spiritus augmentum.
+^$Gratiam habeo, amicorum optime, quod mei apud ornatissimum
+virumd. Ioannem a Lasco memineris et amice salutare
+iusseras.<f1>Vgl. oben Nr. 1933, 57f.<fe> Hunc virum, mi praeceptor, tanti facio, quanti omnes studiosi magnum Erasmum. Ita nihil in eo viro desidero
+(absit invidia dicto<f1>Livius, Ab urbe condita, 9, 19, 15.<fe>), sed doleo eum in hanc barbaram et
+ingratam regionem incidisse; dignus enim est archiepiscopatu
+Germanie, aut si que natio humanior inveniri potest. Tanta
+est hominis humanitas, comitas, facundia et praeter alia in maximis donis humilitas, ut sepius apud amicos ingenue
+profitear me nusquam gentium (nationes aliquot lustravi
+cum pluribus doctis et piis loquutus) hominem invenisse
+humiliorem tot donis sublimibus ornatum. Audisti (ut verum
+est) ex baronibus Polonie natum, divitem ac opulentum,
+statura principem ostendere, prolixa barba, raso capite, ut
+mos patrie sue. Facies est homini heroica, omnibus expositus,
+hilaris alloquio. Quid dicam de pietate in deum, cum praeter
+alias disciplinas theologiam calleat, ut omnibus sit
+miraculo, et, quod paucis datum, non modo scit, sed sapit, ut
+non ore, sed et corde loqui dicatur. Hanc theologiam non e
+sophistis impiis, et<fx>^#/+Lesung des Zeichens unsicher.^#/-<fe> nec e Thoma<f1>Thomas von Aquin.<fe> aut Durando<f1>Der Dominikaner Durandus von Saint-Pourçain, geb. um 1275, gest. 1334.<fe> ac Scoto<f1>Johannes Duns Scotus, 1265/66-1308, gen. "Doctor subtilis".^&xJohannes Duns Scotus, 1265/66-1308, gen. "Doctor subtilis", stammte aus Schottland, studierte in Oxford und Paris und wirkte außer an den genannten Orten auch in Cambridge und zuletzt in Köln. Als einer der herausragenden Theologen des abendländischen Mittelalters wurde er zum Begründer der jüngeren Franziskanerschule. Die neuere Forschung hat gezeigt, dass auch Zwinglis theologisches Denken stark scotistisch geprägt ist. Eine Untersuchung der Einflüsse scholastischen Denkens auf Bullinger fehlt hingegen (zu Bullingers Abneigung gegen alle Scholastik vgl. Joachim ^#/+Staedtke,^#/- Die Theologie des jungen Bullinger, Zürich 1962. - Studien zur Dogmengeschichte und systematischen Theologie 16, S. 31-33). - Lit.: Daniel ^#/+Bolliger,^#/- Infiniti contemplatio. Grundzüge der Scotus- und Scotismusrezeption im Werk Huldrych Zwinglis, Leiden 2003. - Studies in the History of Christian Thought CVII; Werner ^#/+Dettloff,^#/- in: TRE IX 218-231.^&x{<fe> et
+Occam<f1>Der Franziskaner Wilhelm von Ockham (Occam), geb. um 1285, gest. 1347, von Ockham (Surrey), England.^&xgilt als herausragender Vertreter eines differenzierten Nominalismus. Der in Oxford ausgebildete Franziskaner, der u.a. einen Sentenzenkommentar und eine "Summa logicae" verfasste, musste sich ab 1524 in Avignon gegen Häresievorwürfe verteidigen. Nachdem er sich im Armutsstreit zwischen dem Ordensgeneral Michael von Cesena und Papst Johannes XXII. gegen den Papst gestellt hatte und exkommuniziert worden war, lebte er ab 1330 unter dem Schutz von Kaiser Ludwig IV. in München und verfasste verschiedene kirchenpolitische Schriften. - Lit.: Gordon ^#/+Leff^#/- und Volker ^#/+Leppin,^#/- in: TRE XXV 6-18.^&x{<fe>, sed a piissimis et sacris literis hausit veram nobilitatem animi ornamenta existimans.
+Cum Erasmo summam consuetudinem Basilee habuit, ut in eius gratiam Linguam
+conscripserit;<f1>Erasmus widmete während des Aufenthalts von a Lasco in Basel den Traktat "Lingua" (Basel, Johannes Froben 1525; ASD IV/1A) dem polnischen Kronkanzler Krzysztof Szydłowiecki (s. ^#/+Jürgens,^#/- a Lasco 57). Welche Rolle a Lasco dabei im Einzelnen spielte, ist nicht bekannt.<fe> eius bibliotecam post mortem multis
+centenariis emit,<f1>Der Kauf der Bibliothek erfolgte bereits 1525, doch wurden die Bücher erst nach Erasmus' Tod nach Krakau an a Lasco gesandt; s. ^#/+Jürgens,^#/- aaO, 61-71.<fe> ut bibliotecam omni genere voluminum
+instructam in usum pauperum huc advexerit. Grecam
+literaturam Latinis adiunxit, ut in qualibet valeat et
+excellat, quod quidem epistole tibi scripte et opus<f1>Gemeint sind a Lascos Brief an Bullinger vom 31. August 1544 (unten Nr. 1964) und die zuvor in einer handschriftlichen Fassung nach Straßburg geschickte "Epitome doctrinae ecclesiae Phrisiae orientalis". Diese sollte zunächst von Bucer begutachtet werden (s. unten Nr. 1964; ferner oben Nr. 1933, Anm. 17), bevor sie dann durch den damals in Straßburg weilenden Albert von Hardenberg nach Zürich weiterbefördert werden sollte.<fe> eruditum et pium indicant. Utinam opus illud a te revisum incusum ad nos rediret!<f1>Die Zürcher sollten, wie auch andere, von dieser Veröffentlichung abraten, s. ^#/+Jürgens,^#/- a Lasco 314.<fe>
+^$<vl>1393v.</vl> Hic vir mundo valedicens ad nos declinavit, et ne honores
+mundani<fx>mundani ^#/+über der Zeile nachgetragen.^#/-<fe> eum rursum monerent ac titillarent<fx>^#/+Vor^#/- titillarent ^#/+gestrichenes^#/- till.<fe>, honoribus viam
+praeclusit, virginem pauperem attamen honestam uxorem duxit,<f1>A Lasco muss spätestens in den ersten Monaten des Jahres 1540 in Löwen seine Frau Barbara geheiratet haben; s. ^#/+Jürgens,^#/- aaO, S. 142f.<fe>
+e qua tres proles sustulit,<f1>Welche drei Kinder zu diesem Zeitpunkt lebten, ist unsicher; neben der erstgeborenen Tochter Barbara ist an Ludovica, Johannes und Hieronymus zu denken; s. Hermann ^#/+Dalton,^#/- Johannes a Lasco, Gotha 1881 (Nachdruck: Nieuwkoop 1970), S. 274f.<fe> quibus se oblectat vir optimus.
+Hec quidem magna et admiranda, maiora tamen audies. Cum
+sedem hic posuisset ob libertatem evangelii et uxori
+domesticam curam et regimen commisisset, quo liberius
+studiis vacaret, non potuit latere lumen a deo accensum.
+Adfluunt pii, adfluunt docti; omnes ambabus manibus et
+amplexu amabili accepit, omnibus se affabilem et expositum
+praebens, ut dulci alloquio et salutari consilio omnes
+tanquam Hercules Gallicus<f1>Die auf Lukians Schrift "Hercules" zurückgehende Figur des "Hercules Gallicus" galt den Humanisten als Versinnbildlichung der Beredsamkeit; s. Dietmar ^#/+Till,^#/- Der 'Hercules Gallicus' als Symbol der Eloquenz. Zu einem Aspekt frühneuzeitlicher Rhetorikikonographie, in: Artibus. Kulturwissenschaft und deutsche Philologie des Mittelalters und der frühen Neuzeit, FS für Dieter Wuttke zum 65. Geburtstag, hg. v. Stephan Füssel u.a., Wiesbaden 1994, S. 249-275.<fe> alliceret; me vero ob canitiem et simplicitatem patrem vocabat et in literis ad me<f1>Zwischen a Lasco und Aquilomontanus gewechselte Briefe sind nicht erhalten.<fe> eo nomine utitur.
+^$Tandem, cum pastores hic plures dissentirent et paucis res cordi esset, non dereliquit suos deus optimus. Optimam viduam marito mortuo praefecit regioni,<f1>Gräfin Anna von Ostfriesland hatte 1542 als Regentin für ihre unmündigen Kinder die Herrschaft angetreten, nachdem Graf Enno II. 1540 gestorben war; s. HBBW XIII 192, Anm. 18.^&xHeiko ^#/+Ebbel Janssen,^#/- Gräfin Anna von Ostfriesland - eine hochadelige Frau der späten Reformationszeit (1540/42-1575). Ein Beitrag zu den Anfängen der reformierten Konfessionalisierung im Reich, Münster 1998. - Reformationsgeschichtliche Studien und Texte 138, S. 74-85.^&x{<fe> cui nil eque cordi ut Christi doctrina et publica pax. Hec optimum<fx>^#/+Vor^#/- optimum ^#/+gestrichenes^#/- ho.<fe> virum
+sepius vocavit in consilium, tandem petiit, ut ob Christum
+servatorem regionis episcopus esse dignaretur,<f1>Zur Berufung a Lascos s. ebd. (Lit.).<fe> qui ob plurimos redditus annuos allici aut flecti non potuit, ut
+aliis regionibus esset episcopus. Non recusavit vir omnibus
+donis cumulatus, sed gratis se ecclesie inserviturum
+promisit, si illi et consiliariis vera religio cordi esset.
+Accepit regimen, convocavit maiores<f1>Siehe dazu ^#/+Jürgens,^#/- a Lasco 306.<fe>, inter quos me ob
+canitiem numerat, et de concordia tractare cepit. Quid
+dicam, optimus vir omnes sua facundia et eruditione erudivit,
+ut nullus quid contra haberet, quanquam non omnes ob
+pertinatiam a sententia concepta mutavit. Laborem improbum et
+quotidianum contra hereticos plures cepit, quos plurimos hic
+habemus,<f1>Konkret sind wohl Täufer und Joristen gemeint; s. HBBW XIII 193f, 29-40. 58f; ^#/+Jürgens,^#/- a Lasco 245-271.<fe> ut nunquam Augustinus aut Hieronimus plures
+habuerit. <vl>1394r.</vl> Maxima itaque iudico, quod vir nobilissimus
+honores spreverit, mundo valedixerit; attamen maiora hisce
+facio, quod ecclesiam gratis et ultro vocatus regendam
+susceperit, praesertim in regione barbara, ubi nullus honor
+piis et doctis. Hec boni consules, vir bone, quod de viro
+optimo et omnibus donis ornato triviali stilo audeam
+quidquam<fx>^#/+Nach^#/- quidquam ^#/+gestrichenes^#/- Nihil.<fe>. Nunquam Phrisie nostre omnipotens magis
+meo iuditio propitium se exibuit, quam cum evangelio suo
+hunc virum adiunxerit. Precor, me homini tuis literis
+commendes, quanquam nil in homine desidero, attamen dulce
+est laudari a viro laudato.<f1>Vgl. Otto 188, Nr. 926.<fe> Monebisque, ne ob plurium
+ingratitudinem lassus munus suum ponat; quod si fecerit,
+essemus membra absque capite. Habes de viro optimo, piissimo
+ac doctissimo et, quod maxime observo, humillimo ac omnibus
+exposito; quem utinam alius eloquens ac Romana castimonia
+facundus descripsisset! Magis afficeret, sed nos nostris
+opibus edificamus<f1>Adagia, 1, 7, 62 (ASD II/2 187, Nr. 662).<fe>.
+^$De me hec pauca accipies: Ago, quae egi, et multorum
+invidiam in<fx>in ^#/+über der Zeile nachgetragen.^#/-<fe> me provoco, quanto magis uni Christo omnem
+salutem acceptam praedico et hominem pro<fx>^#/+Vor^#/- pro ^#/+gestrichenes^#/- ad.<fe> sua indole pessima
+omnibus propono. Ni expertus hec scriberem, nunquam
+credidissem doctos seculi in re salutis talpis ceciores<f1>Adagia, 1, 3, 55 (ASD II/1 366, Nr. 255).<fe>; sed
+domino me commisi. Indies senesco; attamen oculi, manus ac
+dentes suo munere funguntur absque adiutorio; soli pedes
+scipionem desiderant. Tres mihi filii<f1>Nicht namentlich bekannt.<fe> sani et satis
+morigeri, quos si aliquo modo in pietate et doctrina vulgari
+educassem, mori liberet; sed fiat voluntas domini. Amen.
+^$<vl>1394v.</vl> Habes epistolam pessimam de viro optimo, quam tu bonam
+reddes, si animum, non manum aut calamum scribentis consideres.
+^$Biblia tua<f1>Gemeint ist wohl die 1543 erstmals (und unterdessen in weiteren Ausgaben) erschienene "Biblia sacrosancta" (BZD C 319f. 327f), von der Aquilomontanus bereits im August 1543 Kenntnis hatte (s.^#. HBBW XIII 193, 44f). Sie enthält zwar^#. eine Einleitung Bullingers ("De omnibus sanctae scripturae libris [...] expositio", HBBibl I 115f), ist jedoch ein Gemeinschaftswerk der Zürcher Pfarrer (s.^#. HBBW XII 272, 8-17).<fe> et reliqua opera posteriora videre non licuit; sed perd. meum a Lasco omnia spero.
+^$Vale, amicorum praestantissime, et tuis precibus me et
+ecclesiam commissam deo commenda<fx>^#/+Vor^#/- commenda ^#/+gestrichenes^#/- commissa.<fe>. Saluta, queso, tuos
+commilitones, amicos meos, diligenter et valetudinem tuam
+cura, cum audiam te valetudinarium<f1>Vgl. auch oben Nr. 1932 mit Anm. 4. - Darüber ist sonst nichts weiteres bekannt.<fe>. Rursum vale et me, quod facis, ama.
+^$Prepropere, postridie Bartholome[i]<fx>^#/+Randtext im engen Einband unzugänglich.^#/-<fe> e domo pastorali ecclesie Domus Senum<f1>Oldersum.<fe> prope Emdam, anno 1544.
+<un>Tuus ex animo Hermannus Aquilo-­
+<un>montanus, ecclesie Domus Senum minister.
+<lz>[Adresse darunter:] Prestantissimo viro domino Henrico Bullingero, ecclesie Tigurine pastori vigilantissimo, suo preceptori. Tiguri.
+</content>
+</letter>

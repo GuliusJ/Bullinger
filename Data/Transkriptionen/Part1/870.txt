@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="870">
+<correspondents>
+	<originator>Andreas Karlstadt</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>29. Juli 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 364, 31 (Siegelspur)</record>
+<print></print>
+<note>.us; Gedruckt:  Barge  II 607, Nr. 51</note>
+<note>Hermann  Barge,  Andreas Bodenstein von Karlstadt,</note>
+<note>2. Band, Leipzig 1905 (Nachdruck: Nieuwkoop 1968), S. 607</note>
+<statue>
+Schickt einen Brief Melanchthons. Hat zusammen mit Grynäus in
+Strassburg über die (*Wittenberger Konkordie*) verhandelt und eine
+annehmbare Antwort erhalten, kann aber
+jetzt nicht ausführlich schreiben; will veranlassen, dass die Zürcher
+durch Grynäus schriftlich oder mündlich unterrichtet werden.
+</statue>
+<content>
+S. In hisce literis offendes, opinor, Melanchthonis epistolam+1.
+<p>Argentorati fuimus Grynèus et ego; tentavimus concordiè pacisque communis ecclesiarum articulos+2. Interlocuti sumus elicuimusque sententiam meo iudicio et tolerandam et ad pacem non parva momenta habituram+3. Non vacat
+autem mihi nunc plenius scribere, quod referre me oportet illic acta
+idque hodie a prandio. Instigabo d. Gryneum, quo omnia scribat, et totus
+in hoc ero, ut vobis mittatur expositurus cuncta. Hec pauca, queso, boni
+consule.</p>
+<p>Basileè, die 29. iulii anno 36.</p>
+<signature>
+Tuus Carolostadius.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Eruditissimo viro d. Henricho
+Bullingero, Tiguri primario pastori, maiori suo colendissimo+a.
+</address>
+</content>
+<note>
+.us; +a >Darunter von unbekannter Hand:  N+o. 7.
+<address>
++1>Gemeint ist der (nicht erhaltene) Brief Melanchthons
+vom 1. Juli; s. unten Nr. 883, 5-7.
++2>Grynäus und Karlstadt waren zu Gesprächen über die
+Wittenberger Konkordie nach Strassburg eingeladen worden; s. oben Nr. 866,
+30-35.
++3>Zur Stellungnahme der Strassburger s. unten Nr. 871, 1 mit Anm. 1.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

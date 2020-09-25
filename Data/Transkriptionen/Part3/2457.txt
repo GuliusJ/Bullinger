@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2457">
+<brief>
+<id>16145</id>
+<nr>2457</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 7. Juni 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 205 (Siegelteilabdruck)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 114; Zit.: <i>Gast,</i> Tagebuch 271 (A 26)</k></dr>
+<re>Infolge [vieler] Aufgaben und Augenbeschwerden kann Gast den von Bullinger schon oft erbetenen Bücherkatalog erst jetzt senden.
+<t/>Da er ferner nicht genau wusste, in welcher Form Bullinger die Gewürze haben wollte, schickt er sie ihm hier in unzerstoßenem Zustand mit.
+<t/>Um die Fürsten und Bischöfe [auf dem Reichstag zu Regensburg] hüllt sich alles in Schweigen.
+<t/> Myconius hat angeblich viel Berichtenswertes mitzuteilen [<qv>nr2452</qv>]. Gast sagte ihm auf seinen Wunsch hin Bescheid, dass [nun] ein Bote zur Verfügung steht.
+<t/>Die Basler Bürger haben [die Tragikomödie] "Sant Pauls bekerung" aufgeführt.
+<t/>Grüße an Theodor [Bibliander], [Rudolf] Gwalther und an Bullingers Gattin [Anna, geb. Adlischwyler].</re>
+<text>
+<p>S. in domino. <zzl>zl16145-2A</zzl>En tandem catalogum librorum, quem toties a me petiisti.
+<fn>Siehe dazu <a>HBBW</a> XVI 205,1-3; 264,3f.</fn><zzl>zl16145-2E</zzl> In causa fuit, quod tam tarde miserim, nescio quid, partim dolores oculorum, partim negotia.</p>
+<p><zzl>zl16145-1A</zzl>Mitto praeterea aromaticas species, sed dubius fui, an contritas vel integras volueris. Integras autem mitto, ne putes me hac in re tibi noluisse inservire.<zzl>zl16145-1E</zzl></p>
+<p>Novi nihil habeo omnino. Adeo omnia alto silentio aguntur apud principes et episcopos.
+<fn>Beim Reichstag zu Regensburg.</fn></p>
+<p>Myconius me rogavit, ut, si in tabellionem aliquem incidissem, illi
+<fa><i>Vor</i> illi <i>versehentlich wiederholtes</i> ut.</fa> narrarem. Admonui eum, qui dixit ipse velle scribere
+<fn>Brief <qv>nr2452</qv> vom 2. Juni 1546.</fn> et multa habere, qu{e} digna sunt, ut bonis viris communicentur.</p>
+<p>Unser burgerschafft haben Conversionem Pauli
+<fn>Das erst einige Jahre später gedruckte Werk von Valentin <i>Boltz,</i> Tragicocomoedia Sant Pauls bekerung. Gespilt von einer Burgerschafft der wytberuempten frystatt Basel im jor M.D.XLVI [...], Basel, Jakob Kündig, 1551 und 1552 (<a>VD16</a> B6527; ZV2243); s. <qv>nr2459</qv>,<qv>zl16147-1</qv>.<zfn>fn16145-1</zfn></fn> gespilt mit grossem possen
+<fn>mit grossem possen: mit prunkvollem Spektakel; s. <a>Fischer</a> I 1313; <a>SI</a> IV 1733. - Zu dieser Aufführung s. auch <a>Gast, Tagebuch</a> 270f; Felix Platter, Tagebuch (Lebensbeschreibung) 1536-1567, hg. v. Valentin Lötscher, Basel/Stuttgart 1976, S. 82f.</fn>.</p>
+<p>Vale in domino. Salutabis mihi d. Theodorum
+<fn>Theodor Bibliander.</fn> et Gvaltherum cum uxore tua
+<fn>Anna Bullinger, geb. Adlischwyler.</fn>. Basile{e}, 7. iunii 1546.</p>
+<un>Tuus Gastius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Bullingero suo. Zurich.</p>
+</text>
+</brief>

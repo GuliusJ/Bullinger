@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2625">
+<brief>
+<id>16315</id>
+<nr>2625</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-14"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 14. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 252 (neu: 270) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 12. - Mitteilung von Rainer Henrich per e-Mail vom 21.01.2014: Nr. 16315: Zur angeblichen Misshandlung eines Geistlichen in Neuburg vgl. MBW 4398. Näheres zur Quelle des Gerüchts schreibt Heinrich Thomann in: Zürich StA, A 177, Nr. 39. Der Neuburger Pfarrer Wolfgang Calixtus, der später in Heidelberg tätig war, kann kaum gemeint sein, und das Neuburger Pfarrerbuch habe ich vergeblich nach weiteren Hinweisen durchsucht.</k></dr>
+<re><t>Dank Bullingers letztem Schreiben [nicht erhalten] weiß Myconius nun, dass [Sebastian] Schertlin kein Verräter ist, denn in der ganzen Stadt hatte man erzählt, dass er der Verräter sei, von dem auch Bullinger in seinem vorhergehenden Brief [<qv>nr2607</qv>] geschrieben hatte. Der Attentäter [Pantaleon Ebner] von Lindau soll nämlich gesagt haben, dass er [mit dem Anschlag auf Schertlin] beauftragt wurde, weil Letzterer sich nicht, wie abgemacht, gegen die Schmalkaldener stellte, als Kaiser [Karl V.] diese angriff. Zwar erschien dieses Gerücht kaum glaubwürdig, doch weiß auch Myconius, was Geld vermag. Angesichts Schertlins guten Rufes hoffte aber Myconius, [dass es sich dabei um ein falsches Gerücht handele]. Jemand [...] erzählte dann in Basel von [Bullingers letztem] Schreiben [an Myconius]. Und so kam es, dass einige Beamte Myconius heute baten, ihnen das Schreiben zur Lektüre zu übermitteln. Am Beispiel dieses Gerüchts erkennt man die Verschlagenheit des Kaisers! Er ist vom Teufel getrieben, zumal er sich nach dem Rat von Astrologen und Wahrsagern richtet.</t>
+<t>Was Myconius ermutigt, ist die Überzeugung, dass es nicht mehr lange so weitergehen kann. Wie schlimm aber für die armen Opfer der Raubzüge, Brandstiftungen und Vergewaltigungen! Dies sollte zum Gebet und zu einem besseren Leben anspornen. Ein auswärtiger Edelmann [...] berichtete, dass in Neuburg a.d. Donau ein alter Prediger [...] von den Spaniern gefangen genommen, entmannt und solange gefoltert wurde, bis er starb.</t>
+<t>Durch Bullingers Meldung, dass [Kurfürst Friedrich II. von der] Pfalz und [Herzog Ulrich von] Württemberg das Heer des Kaisers wohl aufhalten würden, konnte Myconius neuen Mut fassen. Die Nachricht von einem Rückzug [des Kaisers] hatte ihn nämlich nicht mehr schlafen lassen. Solch ein Rückzug wäre Deutschland schädlicher als eine Kampfhandlung, wie dies am Beispiel der Grafschaft Oettingen (über die Bullinger berichtete) gut zu beobachten ist. Würde sich doch Herzog Moritz von Sachsen den [Schmalkaldenern] anschließen und der Kaiser sich nicht zurückziehen! Bestimmt würde es dann besser werden!</t>
+<t>Ein von Basel nach Mailand geschickter Bote [...] erzählte, wie dort ein Herold [...] verkündete, dass unter Androhung schwerer Strafe alle Einkünfte im Herzogtum Mailand, die dem Papst [Paul III.] zukommen sollten, in die kaiserliche Kammer gebracht werden müssen. Der Grund: Der Papst hätte 12'000 Reiter und 1'000 Fußsoldaten auf seine Kosten zugesagt, bis jetzt aber nichts bezahlt. Die bösen Geister sollen sich nur weiter so gegenseitig ausplündern!</t>
+<t>Ein fränkischer Edelmann [...] berichtete, dass der bessere Teil der fränkischen Ritter schon im Dienste des [Kurfürsten Johann Friedrich von] Sachsen und des [Landgrafen Philipp von] Hessen stünde, während der [Bischof von] Würzburg [Melchior Zobel] seine Ritter [dem Kaiser] schon längst geschickt habe. Die zu Hause gebliebenen Ritter sind also für den Krieg kaum tauglich.</t>
+<t>Ein Niederländer [...]
+meinte, dass der Kaiser die Eidgenossen solange bestechen werde, bis er aus ihnen Verrätern gemacht habe. Myconius erwiderte, dass der Kaiser viel zu geizig dafür sei. Darauf antwortete jener, dass andere es wohl für ihn tun würden.</t>
+<t>Angeblich wirbt [Piero] Strozzi in Venedig Soldaten an und entzieht dem Kaiser so viele, wie er nur kann.</t>
+<t>Gruß. Myconius wird schon noch an [Rudolf] Gwalther schreiben.</t></re>
+<text>
+<div>
+<p><zzl>zl16315-12A</zzl>S. Gratissimum fuit <zzl>zl16315-2A</zzl>hoc postremum scriptum
+<fn>Ein nicht erhaltener Brief Bullingers.<zfn>fn16315-2</zfn></fn><zzl>zl16315-2E</zzl>, <zzl>zl16315-3A</zzl>maxime quod Schertlium apud me liberavit a grandi infamia. Per totam urbem ferebatur proditorem eum
+<fn>Sebastian Schertlin von Burtenbach. - Offensichtlich hatte in Basel das Gerücht den sonst auch von Bullinger in <qv>nr2607</qv>,<qv>zl16295-8</qv>, erwähnten Verräter Sebastian Schnell aus Bregenz mit Schertlin identifiziert.</fn> esse, de quo et priores tu{e}
+<fn>Gemeint ist Bullingers Brief <qv>nr2607</qv> vom 5. Oktober, den Myconius schon mit <qv>nr2614</qv> vom 7. Oktober verdankt hatte.</fn> meminerunt.
+<fn>Aus <qv>nr2632</qv>,<qv>zl16322-1</qv>, geht hervor, dass Bullinger fürchtete, Myconius könnte der Ansicht gewesen sein, er (nämlich Bullinger) habe den Verräter mit Schertlin identifiziert, wobei Myconius nur sagen wollte, dass der Verräter, von dem Bullinger in seinem Brief berichtet hatte, in Basel gerüchtweise mit Schertlin gleichgesetzt wurde.<zfn>fn16315-1</zfn></fn><zzl>zl16315-3E</zzl> <zzl>zl16315-6A</zzl>Accusatum aiebant a latrone Lindaviensi
+<fn>Pantaleon Ebner von Lindau. - Laut diesem Gerücht also soll Ebner mit dem Mord an Schertlin bauftragt worden sein, weil dieser sich nicht (wie es angeblich zuvor mit dem Kaiser abgemacht worden war) gegen die Schmalkaldener stellte, als der Kaiser diese angriff.</fn>, ut qui propter hoc missus fuisset, quod non servasset fidem c{e}sari
+<fn>Karl V.</fn> Schertlius. Nam sic constitutum, ut, dum c{e}sar invasurus esset nostros
+<fn>die Schmalkaldener.</fn>, ille
+<fn>Gemeint ist Schertlin.</fn> cum suis eosdem pariter invaderet.<zzl>zl16315-6E</zzl> Equidem non potui credere, quamvis non nesciam, quantum valeat pecunia apud militem. Melioris tamen not{e} vir ille ab omnibus, qui norunt, semper habitus est. Quamobrem et mihi spes mansit de eo hactenus non mala. <zzl>zl16315-7A</zzl>Nescio quis
+<fn>In Frage käme vielleicht Johannes Gast, dem Myconius Bullingers Briefe zu lesen gab; vgl. <qv>nr2624</qv>,<qv>zl16314-2</qv>.</fn> de hoc scripto
+<fn>Gemeint ist der oben in Z. <qv>zl16315-2</qv> erwähnte Brief Bullingers.</fn> narrarit. Miserunt hodie capita
+<fn>Die Stadtoberhäupter Basels.</fn>, ut id mitterem
+<fa>erem <i>am Rande korrigiert.</i></fa> ad se legendum.<zzl>zl16315-7E</zzl><zzl>zl16315-12E</zzl> Vides autem, mi Bullingere, quam vafer sit vir iste
+<fn>Gemeint ist der Kaiser.</fn>, quibus artibus conetur delassare viros optimos et interim mala inferre non vulgaria! A malo
+<fn>vom Teufel.</fn> dirigitur, quocirca fere credo, qu{e} narrantur habere ipsum Aegyptios et Chald{e}os
+<fn>Aegyptios et Chald{e}os: Sammelbegriff für Astrologen und Wahrsager.</fn>, quorum consiliis obsequatur; nam isti d{e}monia sequuntur.</p>
+</div>
+<div>
+<p>Una spes hic mihi est: Non diutius ita fore. Sed interea fiunt latrocinia, incendia, stuprationes et alia mala, quod dolendum propter eos, qui patiuntur. Nam eadem debent esse nobis veluti stimulus
+<fn>Anspielung auf Lk 21, 28.</fn> ad precandum et ad vitam emendandam. Adeo vero, dum stuprationes illas violentas
+<fn>Anspielung auf die Misshandlungen der Frauen in Neuburg a.d. Donau unter Bezug auf Bullingers Mitteilungen in <a>HBBW</a> XVII 513,3-6, und <qv>nr2607</qv>,<qv>zl16295-9</qv>.</fn> audio, exhorresco, ut fide plaenus dicam apud me: Haud feret dominus! <zzl>zl16315-4A</zzl>Fuit hic vir nobilis
+<fn>Unbekannt.</fn>, non nostras, qui narravit Neoburgi
+<fn>Neuburg a.d. Donau.</fn> concionatorem senem
+<fn>Unbekannt.</fn> ab Hispanis comprehensum (duos enim evasisse) et super mensam ligatum exectis pudendis acutissimis, quales gerunt, pugionibus tamdiu stimulatum, dum animam exhalarit.
+<fn>Zur Sache s. schon <a>HBBW</a> XVII 493, Anm. 23. Dort findet man aber auch nicht den Namen. <i>Weissmann</i> weiß nichts dazu. Es handelt sich vielleicht um ein falsches Gerücht, von dem auch in <qv>nr2631</qv>,<qv>zl16321-2</qv>, und <a>MBW-T</a> XV, Nr. 4398, die Rede ist.<zfn>fn16315-3</zfn></fn> Habemus exemplum tyrannidis et crudelitatis Hispanic{e} contra ministros Christi.<zzl>zl16315-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16315-8A</zzl>Reddidisti animum, ubi scribis, Palatinum
+<fn>Kurfürst Friedrich II. von der Pfalz.</fn> et Wirtembergensem
+<fn>Herzog Ulrich von Württemberg.</fn> excepturos
+<fn>Hier im Sinne von "aufhalten, auffangen"; s. <a>Kirsch</a> 1099.</fn> exercitum c{e}saris.<zzl>zl16315-8E</zzl> <zzl>zl16315-9A</zzl>Adeo enim recessus ille
+<fn>Der vermutete Rückzug des Kaisers in die Niederlande; vgl. Johannes Gasts Mitteilung vom gleichen Tag in <qv>nr2624</qv>,<qv>zl16314-4</qv>.<zfn>fn16315-6</zfn></fn> me vexavit, ut noctes duxerim propterea difficiles. Nam hac ratione multo graviora damna intulisset Germanis nostris quam repugnando, qualiter et iam coepit in ditione comitum Oetingensium
+<fn>In den Territorien von Ludwig XV. von Oettingen und seinem Sohn Ludwig XVI. ("der Igel") von Oettingen (vgl. schon <qv>nr2612</qv>, <qv>fn16301-20</qv>) und sogar auch in der Herrschaft des katholischen Martin von Oettingen (1506-1549), die ebenfalls verwüstet wurde; s. den Brief von Konstanz an Zürich vom 11. Oktober 1546 (Zürich StA, A 177, Nr. 78).<zfn>fn16315-5</zfn></fn>, ut scriptum tuum habet. Si dux Mauricius
+<fn>Moritz von Sachsen.</fn> se illis
+<fn>den Schmalkaldenern.</fn> adiungeret, modo pergeret c{e}sar, rebus foret melius consultum.<zzl>zl16315-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16315-10A</zzl>Nescio, si hoc noris: Audivi ex ore tabellionis nostratis
+<fn>Unbekannt. - Siehe <a>PC</a> IV/1 431, Nr. 405, wo diese Angelegenheit ausführlich beschrieben ist.</fn>, qui nudiusquintus
+<fn>Am 10. Oktober. Aus <a>PC</a> aaO geht aber hervor, dass der Bote sich schon am 9. Oktober in Basel befand.</fn> venit ex Mediolano, se vidisse et audisse aeneatorem
+<fn>Trompeter (offizieller Bote); s. <a>Kirsch</a> 82. - Unbekannt.</fn> per totam urbem pronunciasse, ut omnia bona, qu{e} per ducatum Mediolanensem pertineant ad papam
+<fn>Paul III.</fn>, in cameram inferantur c{e}saream sub poena gravi. Adiecit causam: Papam promisisse 12'000 peditum et mille equitum suis expensis. Hactenus tamen ne teruncium
+<fn>ne teruncium: sprichwörtlich: nicht einen Heller; vgl. <i>Cicero,</i> Epistulae ad Atticum, 6, 2, 4.</fn> solvisse. Ego vero: Salva res cacod{e}monibus inter se invicem depilantibus!<zzl>zl16315-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16315-1A</zzl>De Francis equitibus
+<fn>Die fränkischen Ritter; s. <qv>nr2607</qv>,<qv>zl16295-11</qv> mit <qv>fn16295-15</qv>.</fn> Francum nobilem
+<fn>Unbekannt.</fn> rogavi, qui respondit meliorem partem esse apud Saxonem
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> et Hessum
+<fn>Landgraf Philipp von Hessen.</fn>. Wirtzburgensem
+<fn>Melchior Zobel, Bischof von Würzburg.</fn> suos misisse
+<fn>Nämlich dem Kaiser; s. <a>HBBW</a> XVII 467,34-36.</fn> iam pridem. Qui domi sint, tales esse, ut capita non facile gladiis submittant.<zzl>zl16315-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16315-11A</zzl>Ex Germania Inferiore dixit quidam
+<fn>Unbekannt.</fn> c{e}sarem pecunia
+<fa><i>Über der Zeile nachgetragen.</i></fa> tam diu obpugnaturum Helvetios, donec omnes faciat proditores. Ego tum: "Nunquam faciet hoc c{e}sar, utpote avarior!" Ille: "Facient alii!"<zzl>zl16315-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16315-5A</zzl>Strotius
+<fn>Piero Strozzi, dessen Reise nach Italien im Herbst 1546 in <a>NBD</a> IX 306-309, Nr. 93 mit Anm. 1, belegt ist.<zfn>fn16315-4</zfn></fn> dicitur abiisse ad Venetos collecturus milites et abstracturus c{e}sari, quocunque valeat, etc.<zzl>zl16315-5E</zzl></p>
+</div>
+<div>
+<p>Vale cum tuis et Gvalthero, cui scribere non potui.
+<fn>In Bezug auf Myconius' Ankündigung in <qv>nr2614</qv>,<qv>zl16302-15</qv>.</fn> Scribam tamen. Basile{e}, 14. octobris anno 1546.</p>
+<un>Tuus Os. Myco.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, viro praestantissimo, ministro optimo, fratri ac domino in Christo venerando suo. Z[urich].</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1461">
+<nr>1461</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>9. Februar 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 367 (Siegel), [Beilage:] 369</vo>
+<dr>Ungedruckt</dr>
+<re>Das Wormser Kolloquium ist nach viertägiger Disputation über den zweiten Artikel des Augsburger Bekenntnisses,d. h. die
+Lehre von der Erbsünde, ergebnislos auf den Reichstag zu Regensburg vertagt worden; es scheint Zwick bedenklich, wenn die
+evangelische Lehre aus den beiliegenden Artikeln von [Johannes] Eck [und Melanchthon] entnommen werden soll. Es steht zu befürchten, dass
+uns [Sultan] Suleiman bald disputieren lehren wird. Grüße. [Beilage:] Vergleichsartikel Ecks [und Melanchthons] über die
+Erbsünde.^&x [Beilage 2 (? gehört eher zu Brief an Pellikan, Zürich ZB, Ms F 47, 49):] Bericht über eine Haloerscheinung in Wittenberg.^&x{
+</re>
+<tx>S. Utcunque iam aliquandiu siluerim non habens, quod
+scriberem, tamen nec iam est quicquam, quod scire vos
+maximopere referat, nisi quod colloquium Wormacense finitum
+est idque maximis sumptibus et nullo fructu. Obtulerunt
+nostri dudum confessionem Augustanam<f1>Vgl. HBBW X, S. 200, Anm. 27.<fe> audituri, quid vellet adversaria pars refellere;
+sed post longam deliberationem et ommisso articulo de trinitate<f1>Johannes Eck hatte zu Beginn der Disputation am 14.
+Januar den ersten Artikel des Augsburger Bekenntnisses ("De Deo") als katholisch anerkannt; s. ADRG II/1 214, 7-11; MO IV 34.<fe> ventum est ad
+peccatum originale, de quo quid disputatum, hic ad vos mitto.<f1>Die Beilage mit dem Titel "De articulo 2." (Zürich
+StAZ, E II 350, 369) gibt die von Eck und Melanchthon nach Abschluss der Disputation aufgestellten Vergleichsartikel in
+einer Abschrift von unbekannter Hand wieder (gedruckt: ADRG II/1 211, Nr. 114; MO IV 32f, Nr. 2131; vgl. ^#/+Lexutt^#/- 232-235).<fe> Reliqua in comitiis
+Ratisponensibus<fx>^#/+In der Vorlage^#/- Ratis-sponensibus.<fe> absolvenda sunt. Vah insignem insipientiam hominum
+sapientissimorum! Sunt autem isti articuli ab Eccio conscripti et oblati nostris, et disputatum est quadriduo,<f1>Das
+Gesprächsprotokoll ist gedruckt in: ADRG II/1 213-261, Nr. 117-122; MO IV 33-78, Nr. 2132; zu den Einzelheiten s. ^#/+Lexutt^#/- 215-232.<fe> et quanquam
+in multis convenerint, tamen convenire non potuerunt, an materiale peccati originalis in renatis peccatum dici possit nec
+ne. Nunc si nostra theologia ex tricis Eccii discenda est, misere nobiscum agetur certe.
+^$Sed nunc expectabimus, quid sequens dies nobis sit pariturus. Es meinend aber etlich, junckher Soliman<f1>Sultan Suleiman I.<fe> mit der wysen stuchen<f1>mit dem weißen Tuch (Turban).<fe> um den kopf, der werd uns och bald leeren disputieren.
+^$Sed fiat voluntas domini, in quo vale nec desine nos amare.
+Salutat te Ambrosius<f1>Ambrosius Blarer.<fe> studiosissime cum omnibus fratribus.
+^$Datum Constantiae, 9. februarii 1541.
+^$Uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam et matrem<f1>Anna, geb. Wiederkehr.<fe>, liberos<f1>Zu Bullingers Kindern
+vgl. oben Nr. 1460, Anm. 122.<fe> denique salutabis meo nomine officiosissime.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Ornatissimo virod. Hainricho Bullingero, Tigurinae ecclesiae pastori diligentissimo, fratri suo.
+<lz>
+<vl>369</vl> [Beilage, s. oben Anm. 3.]
+^&x De articulo 2.
+^$Fatemur unanimi sententia omnes ab Adam propagatos secundum
+legem communem nasci cum peccato originali et ira in ira
+dei.
+^$Esse autem peccatum originale carentiam iustitię
+originalis debite inesse cum concupiscentia.
+^$Consentimus etiam in baptismo remitti reatum peccati
+originalis cum omnibus peccatis permeritum passionis
+Christi.
+^$Manere autem, non solum apostolicis scripturis, sed ipsa
+etiam experientia docti, concupiscentiam, vitium naturę,
+infirmitatem, morbum, de quo quidem morbo in renatis inter
+nos convenit,
+^$quod maneat materiale peccati originalis formati sublato
+per baptismum.
+^$Materiale autem vocamus peccatum, quod fiat ex peccato,
+quod ad peccatum inclinet, quod repugnet legi dei,
+quemadmodum Paulus quoque peccatum appellat.
+^$Ad eandem rationem in scholis compendio doceri solet manere
+in baptisato originalis peccati materiale, formale vero,
+quod reatus est, aufferri. ^&x{
+^&x <lz>
+<vl>365</vl> [Beilage 2 (? gehört eher zu Brief an Pellikan, Zürich ZB, Ms F 47, 49):] Anno 1540, 15. decembris intra
+horam primam et secundam pomeridianam Vitenbergae conspecti
+sunt coelo aequabiliter nubibus albicantibus obducto tres
+soles et irides duae, quarum una<fx>^#/+Vor^#/- una ^#/+gestrichenes^#/- d.<fe> contrario situ alteri erat
+opposita, sic: <vl>366</vl> [Federzeichnung der Haloerscheinung]. ^&x{
+</content>
+</letter>

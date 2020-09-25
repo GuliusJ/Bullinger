@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2695">
+<brief>
+<id>16382</id>
+<nr>2695</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1546-11-27"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>[Zürich], 27. November 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 156 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 99 </k></dr>
+<re><t>Was soll man denn noch schreiben, wenn das, was bisher als sicher galt, unsicher erscheint? Die Lage ist so verstrickt. Christus möge diesen gordischen Knoten zerhauen!</t>
+<t>Gestern kam ein Brief vom 22. November aus dem [schmalkaldischen] Feldlager bei Giengen, laut dem [Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen] noch am selben Tag vorhatten, nach Hause aufzubrechen. Die Fürsten haben nämlich erfahren, dass Sachsen beinahe ganz besetzt sei und die Böhmen nachziehen würden. Ferner soll Herzog Moritz [von Sachsen] bald Wittenberg angreifen. Die [oberdeutschen] Städte haben guten Grund zur Furcht, zumal Kaiser [Karl V.] immer noch im Feldlager ausharrt. Das kann schlimme Folgen für sie und für [Herzog Ulrich von] Württemberg haben. Doch gibt es auch jetzt keinen Anlass, die Hoffnung aufzugeben, denn der Sieg ist allein Gottes Angelegenheit! Außerdem besitzen die Städte und Württemberg genügend Soldaten, falls sie Menschen aufbieten und auf Gottes Hilfe zählen wollten (das Heer des Kaisers ist ja auf wundersame Weise durch Pest und Seuche dezimiert). Sollten sie in die Hände des Kaisers fallen, werden sie schließlich doch noch den Sieger bezwingen! War denn Daniels Sieg in Babylon nicht größer als derjenige, den Jojachin oder Zedekia in Jerusalem hätten erringen können? Vielleicht sind aber auch die nach Zürich übermittelten Nachrichten falsch.</t>
+<t>Sicher ist, dass es bald zu einem Bündnis zwischen König [Franz I.] von Frankreich und dem Schmalkaldischen Bund kommt. Der Abzug der Fürsten könnte wohl das erste Ergebnis dieses Bündnisses mit dem ägyptischen König sein! Myconius und [Francisco de] Enzinas sollen dies für sich behalten, es sei denn, sie würden das Gleiche auch von anderen hören.</t>
+<t>Momentan beraten der Kleine und der Große Rat, ob man schon jetzt oder erst nach Weihnachten Truppen zum Banner oder zum Fähnlein mustern soll und wie man sich gegenüber den Söldnern, die den Schmalkaldenern zugezogen sind, verhalten soll. Die Zürcher haben ja diesbezüglich strenge, doch völlig gerechtfertigte Gesetze.</t>
+<t>Gruß, auch an Enzinas, [Johannes] Gast und [Johannes] Oporin.</t></re>
+<text>
+<div>
+<p>Gratiam et pacem. Quid scribam, mi Myconi, cum incipiant ea quoque, quae certa hactenus fuerunt, fieri incerta? Videtur mihi plane totum negotium esse intricatissimum et nodus quidam Gordius
+<fn>Der unlösbare Knoten von Gordius; s. <a>DNP</a> IV 1146. 1149; <a>Adagia</a> 1, 9, 48 (<a>ASD</a> II/2 367f, Nr. 848).</fn> versari partium manibus. Dominus Iesus dissecet illum ad gloriam nominis sui et ecclesiae suae incolumitatem!</p>
+</div>
+<div>
+<p><zzl>zl16382-1A</zzl>Heri accepimus literas, easque ex castris Danubianis ad Giengen datas 22. novembris,
+<fn>Gemeint ist der im Feldlager bei Giengen a.d. Brenz am Vormittag des 22. November von Heinrich Thomann an Bürgermeister und Rat von Zürich abgefasste Brief (Zürich StA, A 177, Nr. 148). Darin wird der an demselben Tag geplante Abzug der Schmalkaldener erwähnt. Der Brief war am Vortag in Zürich eingetroffen; s. <qv>nr2693</qv>, <qv>fn16379-6</qv>.</fn> quae indicant ea die <zzl>zl16382-3A</zzl>nostrorum castra sese apparasse non hibernis sed domui,<zzl>zl16382-3E</zzl> idque magno cum metu et dolore urbium, maxime cum caesar
+<fn>Karl V.</fn> firmus suis adhuc castris
+<fn>In der Nähe von Ballmertshofen; s. <qv>nr2684</qv>, <qv>fn16371-1</qv>.</fn> inhaereat.<zzl>zl16382-1E</zzl> <zzl>zl16382-5A</zzl>Nuncium acceperunt principes
+<fn>Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen.</fn> totam fere ditionem Saxonis esse occupatam (<zzl>zl16382-7A</zzl>iam vero Mauritium
+<fn>Herzog Moritz von Sachsen.</fn> proxima
+<fn>proxima die, zum nächsten Zeitpunkt. - Am 18. November hatte Moritz die Stadt Wittenberg angreifen lassen, allerdings ohne Erfolg; s. Georg <i>Voigt</i>, Moritz von Sachsen 1541-1547, Leipzig 1876, S. 226-228.<zfn>fn16382-1</zfn></fn> petere Witenbergam<zzl>zl16382-7E</zzl>)
+<fa><i>Dieses und das nächste Klammerpaar ergänzt.</i></fa>, insequi Bohemos. Ideo fortassis domum redire properant.<zzl>zl16382-5E</zzl> Quid interim putas futurum et eventurum urbibus et Wirtembergensi
+<fn>Herzog Ulrich von Württemberg. - Auch nach dem Abzug der Schmalkaldener am 22. November setzte er sich noch für eine gemeinsame Verteidigung ein, doch nützte ihm dies nichts, da seine Bundesgenossen ihn allmählich im Stich ließen; s. dazu <a>Heyd, Ulrich von Württ.</a> III 430-433.</fn>? Nondum abieci spem, mi frater (etiamsi certa sunt, quae scripta sunt), nam victoria non est ex hominibus.
+<fn>Vgl. 1Sam 17, 47; Spr 21, 31.</fn> Sat multi, sat instructi sunt milites Wirtembergensis et urbium, si viros praestare volunt, si dei auxilium implorarint, praesertim cum contagio et lues caesaris exercitum vastarit ad miraculum usque.
+<fn>Siehe dazu zuletzt <qv>nr2685</qv>,<qv>zl16372-9</qv>.</fn> Dominus providebit. Quodsi illos dederit in manus caesaris, vincent tamen victi, vincetur victor!
+<fn>Zum Paradoxon vom Sieger als Besiegten vgl. etwa <i>Horaz,</i> Epistulae, 2, 1, 156.</fn> Nosti vias domini dei nostri! <zzl>zl16382-6A</zzl>Amplior fuit Danielis in Babylone victoria, quam fuisset Jehoiachin aut Zedechiae ad Hierosolymam.
+<fn>Anspielung auf Dan 3 und (was das Schicksal der Könige von Judäa, Jojachin und Zedekia, betrifft) 2Kön 24, 8-25. 30; 2Chr 36, 4-13.</fn> Fortassis falsa et ficta sunt, quae ad nos scripta sunt.<zzl>zl16382-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16382-4A</zzl>Certum est praeterea modo consignandum fore foedus inter regem Galliae
+<fn>König Franz I. von Frankreich.</fn> et foedus Schmalkaldicum. <zzl>zl16382-2A</zzl>Wenn grad der ellend abzug
+<fn>der oben erwähnte Abzug der Schmalkaldener.</fn> die erst frucht wer icti foederis cum rege Aegyptio?
+<fn>Bullinger denkt offensichtlich an 2Kön 23, 34-24, 7. Das Bündnis mit Ägypten (das hier für das von den Schmalkaldenern mit Frankreich und England angestrebte Bündnis steht) hatte das Ende des Königreichs Judäa eingeläutet. Zu Bullingers Abneigung gegenüber diesem Bündnis s. <qv>nr2689</qv>, <qv>fn16376-1</qv>.</fn><zzl>zl16382-2E</zzl> <zzl>zl16382-8A</zzl>Haec tibi soli scribo et d. Dryandro
+<fn>Francisco de Enzinas.</fn>. Nisi ab aliis eadem au-<vl>156v.</vl>dieritis, nolo ut dicatis
+<fa><i>In der Vorlage folgt</i> me.</fa> huius quicquam [a]
+<fa><i>Hier und unten im engen Einband verdeckt. Fehlstellen wurden aus Johann Jakob Simlers Abschrift (Zürich ZB, Ms S 62, 99) ergänzt.</i></fa> me accepisse.<zzl>zl16382-8E</zzl><zzl>zl16382-4E</zzl> Oremus dominum, ut nostri misertus in sancta sua voluntate serve[t].</p>
+</div>
+<div>
+<p><zzl>zl16382-9A</zzl>Grad jetzund ist man in r{ae}t und burgern
+<fn>r{ae}t und burgern: Kleiner und Großer Rat.</fn> z{uo} radtschlagen, wie man uußneme
+<fn>aushebe; s. <a>SI</a> IV 744.</fn> zu[m] paner oder zum fenli,
+<fn>Das Banner und das Fähnlein stehen für größere bzw. kleinere Truppenabteilungen; s. <a>SI</a> I 828.</fn> oder ob man es bi[ß] nach Wynacht r{uo}wen lassen w{oe}lle; wi[e] man die kn{ae}cht hallten, die zum rych gelouffen.<zzl>zl16382-9E</zzl> Ir wüssend wol, was strenge[r], doch g{uo}ter satzungen
+<fn>Bezug auf das am 25. November 1542 erlassene Mandat; s. <a>HBBW</a> XII 260, Anm. 10; Hermann <i>Romer,</i> Herrschaft, Reislauf und Verbotspolitik. Beobachtungen zum rechtlichen Alltag der Zürcher Solddienstbekämpfung im 16. Jahrhundert, Zürich 1995 - Zürcher Studien zur Rechtsgeschichte 28, S. 113f. 346 (Tab. 12).<zfn>fn16382-2</zfn></fn> wir habend. Gott de[r] allm{ae}chtig schick es wol!</p>
+</div>
+<div>
+<p>Vale cum omnibus bonis. Salvi sint d. Dr[y]ander, Gastius, Oporinus. 27. novembris anno 1546.</p>
+<un>Bullinger.</un>
+<lz/>
+<p>[Adresse darunter:] D. Osvaldo Myconio, fideli Basiliensis ecclesiae ministro, domino et fratri percharo suo. Basel.</p>
+</div>
+</text>
+</brief>

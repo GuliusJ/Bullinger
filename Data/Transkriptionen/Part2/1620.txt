@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1620">
+<nr>1620</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>15. April 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 238 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 79</vo>
+<dr>Ungedruckt</dr>
+<re>Christoph [Rotacher] ist von der Magd, die ihn verführte, durch eine wohl nur vorgetäuschte Schwangerschaft betrogen
+worden; er eignet sich zum Dienst in Schule oder Kirche und wird seinen Fehler durch künftiges Wohlverhalten vergessen machen.
+Der Reichstag [zu Speyer] soll in großer Eintracht geendet haben, und nun wird [zum Türkenfeldzug] gerüstet; Papst [Paul
+III.] sieht Italien bedroht und will deshalb nur ein kleines Truppenkontingent zur Verfügung stellen. Das von Pfingsten auf Mariä Himmelfahrt [15. August] verschobene Konzil soll in
+Mantua, Ferrara, Bologna, Piacenza oder allenfalls Trient stattfinden, wie der Bischof von Modena [Giovanni Morone] bekannt gab.
+</re>
+<tx>S. Redit Christophorus<f1>Christoph Rotacher.<fe> tandem, ut vides, iuvenis certe bonus, quamvis foe­de me fefellerit<f1>Vgl. HBBW XI, S. 303, 22-29 mit Anm. 12.<fe>, falsus tamen longe
+foedius; scortum<f1>Barbel Esslisperg oder Esslispach (s. ebd.).<fe> enim, quod ad stuprum innocentem coegit, id quod
+negare nunquam potuit, postquam uterum diutius circumgestavit, interim etiam famulam agens, evanuit et a nemine non dicitur
+nihil minus quam gravidam fuisse. Quod si verum, quid aliud in animo fuit quam me et illum infamare et omnibus exponere ludibrio? Quod is igitur peccavit,
+stulticia fuit, non malicia, id quod tamen non in omnibus
+reperire est. Quamobrem videtur omnino recipiendus ac
+fovendus, donec poterit vel in ludo vel in ecclesia suum
+officium peragere. Commendo igitur illum tibi et reliquis,
+quibus cura demandata est scholarum; non dubium est enim,
+quin sic sit acturus deinceps, ut, quod ante peccavit,
+facile in oblivionem deveniat.
+^$De finitis comitiis et adparatu bellico<f1>Der Speyrer Reichstag endete am 11. April mit der Verlesung des Abschieds
+(RTA JR XII/2 1168-1210, Nr. 285^&xWalch XVII 804-854, Nr. 1406^&x{); zur letzten Phase der Verhandlungen und zur anschließenden Vorbereitung des Türkenfeldzugs s. ^#/+Traut^#/-
+35-46 bzw. 47-51.<fe> nimirum mercatores vestri nunciarunt. Digressi sunt per magnam, ut
+aiunt, concordiam; pecunię vis ingens ubique colligitur, magna item multitudo hominum. Papa<f1>Papst Paul III.<fe>, quod
+nescit, an et Italiam petiturus sit Turca<f1>Sultan Suleiman I.<fe> (classem enim ingentem habere congregatam dicitur),
+promisit quinque tantum millia peditum, si imperator<f1>Kaiser Karl V.<fe> in expeditionem exiturus sit, sin minus, partem dimidiam.<f1>Vgl. RTA JR XII/2 840.<fe>
+^$Concilium edicturus erat ad festum pentecostes<f1>28. Mai.<fe>, verum propius est, quam ut sic conveniat; differet usque ad
+assumptionis Marię<f1>15. August.<fe>. Quia vero cupit ipsemet interesse, civitates destinavit in Italia Mantuam,
+Ferrariam, Bononiam seu Placentiam. Quodsi cui pertinaciter placeat Germania, civitatem et hic nominat, Tridentinum. Sic
+episcopus Mutinensis<f1>Nuntius Giovanni Morone, Bischof von Modena.<fe> proposuit Spirę principibus.<f1>Die Rede
+Morones vom 23. März ist gedruckt in: RTA JR XII/2 839-842, Nr. 153; CT IV 218f, Nr. 175 (nur der das Konzil betreffende Teil);
+zu den daran anschließenden Diskussionen s. RTA JR XII/2 842-847, Nr. 154-157 bzw. CT IV 219-221, Nr. 176-178. Vgl.
+Silvia ^#/+Schweinzer,^#/- Das Ringen um Konzil und Kirchenreform. Die Mission des Nuntius Giovanni Morone auf dem Speyrer
+Reichstag 1542, in: Erich Meuthen (Hg.), Reichstage und Kirche, Göttingen 1991. - Schriftenreihe der Historischen Kommission bei
+der Bayerischen Akademie der Wissenschaften 42, S. 137-189.^&x^#/+Pastor^#/- V 466^&x{<fe> Quid responsum sit, ignoro. Hęc prioribus literis<f1>Oben Nr. 1619.<fe> adiecta volui.
+^$Vale cum tuis in domino.
+^$Basileę, raptim, 15. aprilis anno 42.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero doctissimo, in domino suo.
+</content>
+</letter>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="693">
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Leo Jud und Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>30. November 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 343, 106 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Bedauert, dass die Einladung zum Theologenkonvent in Aarau zu spät in
+Bern eingetroffen ist, und bittet um erneute Ansetzung der Zusammenkunft.
+</statue>
+<content>
+Gratiam a domino.
+<p>Bullingeri, charissimi nostri fratris, scripta+1 novembris penultima sub noctem accèpimus, unde non modico mèrore affecti -- quod petitis, satisfacere non datum est. In tempore enim dies indicta insinuata si
+fuisset, per nos nequaquam neglecta foret. Consilium enim habendi
+conventus, praesertim fratrum in Helvecia Christum profitentium, a nobis
+summopere probatur; ut fiat, et brevi quidem, obnixe rogamus. Opere
+precium -- quid dico? -- e re ecclesiarum nostrarum esse videtur, ut de
+veritate inter nos conveniat et ad eventum omnem confirmetur.
+Qum igitur hac vice negotium(*?*) non successit, fratres charissimi,
+alia a vobis erit indicenda dies illaque per certum nuncium et in
+tempore significanda nobis+a. Locus Aroè+2 ut omnibus fere nobis aptus
+non displicet.</p>
+<p>Bernè, ultima novembris anno 35.</p>
+<signature>
+Megander, totus ex animo vester.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Leoni, Bullingero Tigurinis,
+fratribus suis in domino charissimis.
+</address>
+</content>
+<note>
++a>nobis
+<print>
+am Rande nachgetragen.
+</print>
+<address>
++1>Nicht erhalten, vgl. oben Nr. 690, 1-3.
++2>Aarau (Kt. Aargau).
+</address>
+</note>
+</letter>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2247">
+<nr>2247</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Travers</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>18. September 1545</date>
+</space_time>
+<vo>Autograph: Chur StA, Ms B 1818<f1>Früher: Chur Kantonsbibliothek, Ms 315.<fe>, 1r. (Siegelabdruck)</vo>
+^&x(Keine Simler-Kopie) ^&x{
+<re>Bullinger dankt für die zwei von Travers' Sohn [Johannes d.J.; s. oben Nr. 2241] überbrachten Käse. Bullinger wird [Johannes d.J.] mit einem [Empfehlungs]schreiben [nicht erhalten] nach Basel schicken. Etwaige Briefe [von Johannes d.J.] aus Basel wird Bullinger dann umgehend an Travers weiterleiten.
+-^#. Mehr kann er wegen seiner Arbeitslast nicht schreiben. Übersendet seinen Markuskommentar mit der Bitte um freundliche Aufnahme desselben.
+-^#. Der Wormser Reichstag hat kein solides Ergebnis gebracht. Kaiser [Karl V.] hintergeht die Protestanten, die seine List spüren. Wenn er könnte, würde er den [Religions]streit mit Waffengewalt beilegen.
+-^#. [Kaspar] Megander ist verstorben; als Ersatz für ihn wurde Heinrich Buchter gewählt.
+-^#. Gute Wünsche für die ganze Familie Travers, besonders für Anton, und für die Kirchendiener von Chur.</re>
+<dra>[Gedruckt: Graubünden, Korr. I 86, Nr. 62.]</dra>
+^&x<tx>Gratiam et vitae innocentiam a domino.
+^$Accepi munus liberalissimum plane, vir praestantissime, duos inquam caseos, a dilecto filio tuo, pro quibus maximas ago gratias.
+Quod sicubi gratitudinem erga te meam declarare possum, faciam id quidem animo promptissimo.
+Nunc prandebit mecum filius, deinde litteris instructum Basilaeam dimittam.
+Habeo Basilęae amicos charos, qui haud dubie curam filii in se recipient diligentem, ac fideliter hic agam, quasi res agatur filii mei.
+Quodsi quas ad me Basilea litteras dederit, curabo, ut quam primum habeas.
+^$Per cętera me tibi commendo; oppressus enim negotiorum mole iam plura non possum.
+Mitto hic in gratitudinis argumentum commentarios meos in evangelium secundum Marcum<f1>HBBibl I 170.<fe>;
+oro, ut munusculum accipias benevolo animo a tui nominis addictissimo.
+^$In comitiis Wormaciensibus nihil solidi actum est.
+Caesar lactat vana spe protestantes; hi dolum sentiunt.
+Si occasionem et vires haberet caesar, dissidium armis componeret; sed vincit in suis Christus.
+^$Vale in Christo.
+^$Tiguri, 18. septembris. ─ Dominus Megander concessit ad dominum; suffectus est ipsi vir pius et doctus Heinrychus Buchterus. ─ 1545.
+^$Valeant Traversi omnes, inprimis Anthonius, et reliqui fratres ministri ecclesiae Curiensis.
+<un>H. Bullingerus tuus.
+<lz>[Adresse ............:] Clarissimo virod. Ioanni Traverso Zuzati, apud Rhetos viro primario, amico suo colendissimo. Zutz<f1>Zuoz.<fe>.^&x{
+</content>
+</letter>

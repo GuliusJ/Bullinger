@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2553">
+<brief>
+<id>16242</id>
+<nr>2553</nr>
+<ae>Gervasius Schuler an Bullinger</ae>
+<od>[Memmingen], 26. August 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 317 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.. Zürich ZB, Ms S 61, 104</k></dr>
+<re>Schuler kann nur ganz kurz schreiben, denn ihm war der Abreisetermin des Boten [...] entfallen. Dieser wird alles Nötige mündlich mitteilen. Schuler ist weiterhin sehr gefordert. Ihm, seiner Frau [geb. Lübegger] und den Kindern geht es allerdings gut. Die Kriegsgerüchte versetzen aber seine Kirche in Unruhe.
+<t/>Bullinger soll dem Boten schriftlich oder mündlich auf die Frage antworten, wie die Eidgenossen miteinander auskommen. Manch ein Lästermaul behauptet, die Eidgenossen hätten beschlossen, weder den [Schmalkaldenern] noch Karl V. Hilfstruppen zu schicken.
+<t/>Die eidgenössischen Fähnlein, die den Landsknechten vorgezogen werden, benahmen sich in Memmingen anständig und wurden von den Einwohnern auch gut versorgt.
+<t/>Grüße, u.a. an [Anna, geb. Adlischwyler]. Bullinger kann sich Schulers Freundschaft sicher sein.</re>
+<text>
+<p>Pax Christi tecum. Tempus abituri nunctii
+<fn>Unbekannt.</fn>, optimi viri, me fefellit, charissime Bullingere, ut tibi pro animi mei voluntate non possum scribere. Mitto tamen, qu{e} primum in manus meas venerunt. Nunctius hic plane meus exponet tibi, qu{e} tibi scitu necessaria videbuntur. Multis negotiis distrahor urgentibus ad hoc variis negotiis. Quod externa attinet, una cum uxore
+<fn>[...] Schuler, geb. Lübegger.</fn> et liberis
+<fn>Zu Schulers Kindern s. <a>Culmann, Schuler</a> 76; <a>HBBW</a> X 32, Anm. 9f; XIII 66, Anm. 19; XV 222, Anm. 48f; 480,33-35.</fn> optime valeo. Quod ecclesiam michi commissam spectat, turbamur supra modum variis bellicis rumoribus, sed in orationibus assidui sumus et multa poenitentia ducimur. Dominus exaudiat servorum suorum preces!</p>
+<p>Hoc unum abs te scire cupio, qui conveniat inter Helvetios. Qui nobis apud nos malevolunt, hoc unum gloriantur: Helvetios in hoc
+<fa>hoc <i>über der Zeile nachgetragen.</i></fa> convenisse, ut neutri
+<fa>u <i>über der Zeile nachgetragen.</i></fa> parti, neque nobis scilicet neque Karolo Gandavo
+<fn>Der in Gent geborene Karl V.</fn>, laturi sint auxilium.
+<fn>Siehe dazu <qv>nr2540</qv>, <qv>fn16232-6</qv>.</fn> Scribe aut praesenti nunctio, si quid hac in re tibi compertum est, ore michi referendum commenda.</p>
+<p>Die Eydgnoßen habend sich bey unß zu Memmingen treffenlich wol und eerlich gehalten.
+<fn>Es handelte sich um die Schweizer Fähnlein, die Ende Juli/Anfang August in Memmingen nachgewiesen sind (s. <qv>nr2524</qv>,<qv>zl16214-13</qv>) und in diesen Tagen von den Memmingern wieder zurückgefordert wurden; s. Sebastian Schertlins Brief an Georg Herwart vom 26. August 1546 (<a>Herberger, Schertlin</a> 181).<zfn>fn16242-1</zfn></fn> Sind ouch von den unßern wol gehalten worden. Wir welten lieber zwey taußend Aydgnoßen bey unß in der statt haben dan 1'000 landsknecht!</p>
+<p>Vale. Summa cum festinatione datum 26. augusti anno 1546. Saluta multis nominibus uxorem
+<fn>Anna Bullinger, geb. Adlischwyler.</fn> tibi et michi charam et omnes, quotquot salutem nostram sitiunt, et persuadeas tibi omnia, qu{e} verum concernunt amicum et fratrem, de Gervasio tuo vetere amico et fratre. Iterum vale.</p>
+<un>Gervasius tuus Scolasticus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Charissimo meo veteri amico Hainricho Bullingero, Tigurine ecclesi{e} antistiti, domino et fratri in Christo dilecto.</p>
+</text>
+</brief>

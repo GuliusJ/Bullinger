@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2869">
+<brief>
+<id>17137</id>
+<nr>2869</nr> <from persid="WyttenbachNiklaus"/> <to persid="Bullinger"/> <place plid="Biel"/> <date when="1547-03-30"/>
+<ae>Niklaus Wyttenbach an Bullinger</ae>
+<od>Biel, 30. März 1547</od>
+<vo>Autograph: Zürich StA, E II 356a, 1009 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Regest 18. Jh.: Zürich ZB, Ms S 63, 83 </k></dr>
+<re><t>Wyttenbach erfuhr durch seinen Schwiegersohn Hans Wunderlich, dass Bullinger unzufrieden ist, weil er seinen Sohn Josua (den Bullinger als eigenen Sohn ansieht) aus Paris zurückbeordert hat. Doch dazu entschloss er sich nicht allein! Auch andere, darunter Gelehrte, rieten ihm dazu. In zwei Jahren und fünf Monaten hat Josua dort nämlich 352 écus ausgegeben, und zwar wohl nicht immer auf umsichtige Weise. Sogar reicheren Vätern wäre dies zu viel gewesen. Auch konnte Wyttenbach nie Genaueres über Josuas Studien in Paris erfahren. Deshalb wird dieser nun zu seinem Präzeptor Rudolf Gwalther und zu Bullinger gesandt. Beide sollen erkunden, welche Fortschritte der Jüngling gemacht hat und wofür er sich am besten eignen würde. Bullinger soll das Ergebnis ganz offen mitteilen. Wyttenbach wird sich danach richten.</t>
+<t>Bullinger möge das lange Schweigen verzeihen. Es ist allein auf Wyttenbachs geringe Bildung und dessen schlechtes Schreiben zurückzuführen, zumal Wyttenbach Bullingers Liebe und Freundschaft nie vergessen könnte. Täglich dankt er dem Herrn für dessen Begabungen und Standhaftigkeit.</t>
+<t>Grüße, auch von der Gattin [Anna, geb. May von Rued].</t></re>
+<text>
+<div>
+<p>Von gott gnad und heyll, mitt erpiettung alles myns vermügens gegen üch g{uo}ttwillig bereitt zuvor. Erender und insunders wollgelertter her und br{uo}der, ich han von mynem tochterman Hansen Wunderlich
+<fn>Jean de Merveilleux. - Bullingers Brief an Wunderlich ist nicht erhalten.</fn> verstanden, wie ir übell zefriden sient in dem, <zzl>zl17137-2A</zzl>das ich Josue
+<fn>Josua Wyttenbach. - Aus vorliegender Stelle wie auch aus unten Z. <qv>zl17137-3</qv> wird deutlich, dass Josua vor seinem Aufenthalt in Paris in Zürich studiert hat und vermutlich bei Rudolf Gwalther untergebracht war.</fn>, üweren und mynen sun, von Paryß beschriben
+<fn>schriftlich zurückbeordert.</fn> habe.<zzl>zl17137-2E</zzl> Worlich ich es nit allein uss mir selbs gethon, sunders uß gehepttem ratt der gelertten und andere. Dan er in kurtzem zit so vill geltz mit imm uffgangen
+<fn>aufgebraucht; s. <a>SI</a> II 14.</fn> ist, das es einen vill rycheren, dan ich bin, beduren solt
+<fn>beduren solt: beschwerlich fallen würde.</fn>. Dan er in zweyen joren und 5 monet 352 écus
+<fn>In der Vorlage ist ein Dreieck mit der Spitze nach unten angebracht, nämlich das Schildzeichen, das oft auf der entsprechenden Münze zu sehen war. Ein écu (= coronatus aureus oder französische Krone) entsprach im Jahre 1546 ein wenig mehr als 48 Kreuzern; s. Guillaume <i>Budé,</i> De Asse et partibus eius, Basel 1546 (<a>VD16</a> ZV2652), f. A<sub>8</sub>v. Aus ebenda, f. [A<sub>7</sub>]v., geht hervor, dass ein Kreuzer damals etwa 5 Pfennige galt. Da ein Pfund aus 240 Pfennigen besteht, entsprechen 352 écus etwa 353 Pfund. Da ferner um diese Zeit 2 Gulden etwa 2,5 Pfund wert waren (vgl. <a>HBBW</a> XVIII 451, Anm. 19), sind hier etwa 282 Gulden oder Florin gemeint (ein Handwerker verdiente jährlich 20 bis 40 Florin).</fn> verthon
+<fn>verbraucht; s. <a>SI</a> XII 413f.</fn> hatt, das zu besorgen ist gesin
+<fn>gewesen.</fn>, das er sölich gelt nit recht gebrucht habe. Ich han ouch von sinem studio nie nutt eygenlich
+<fn>genau.</fn> mögen erfaren. <zzl>zl17137-1A</zzl><zzl>zl17137-3A</zzl>Uff söllichs, so schick ich in zu üch und zu synem preceptor, hernn Gwalther, alß zu mynem sunderlichen wollvertrüwtte hernn und br{ue}der,<zzl>zl17137-3E</zzl> das ir üch so vill bem{ue}gen
+<fn>bemühen.</fn> wellen und an im erkündigen, wie vill er doch z{uo}genommen habe und woz{uo} er fürhin gebrucht mög werden oder waß wytters mit imm anzefachen sige
+<fn>anzefachen sige: anzufangen sei.</fn>. Dan ir an imm woll gespüren und erfaren mögent, was wytters uff in ze buwen sige.<zzl>zl17137-1E</zzl> Und was dan ir mit imm rättig werdent
+<fn>rättig werdent: beschließt; s. <a>SI</a> VI 1627.</fn>, mich des zu berichten und mir syner geschicklickeit halb nut verhalten
+<fn>syner geschicklickeit halb nut verhalten: was seine Fähigkeiten anbetrifft, nichts (zu) verbergen.</fn>. Will ich, ob gott will, üwerem trüwen ratt nachkomen und erstatten
+<fn>ausführen; s. <a>SI</a> XI 1784.</fn>.</p>
+</div>
+<div>
+<p>Geliepter herr und br{uo}der, wellent üch nit beschweren, das ich üch so lang nut geschriben han, dan es allein myner ungeschicklickeit und übel schrybens schuld ist. Dan der liebi und früntschafft, so ir mir und den mynen bewysen, wirt myn läben lang in mir unvergessen syn. Ich sagen dem hernn täglich danck, in dem er üch, sinen dieneren, also rychlich begabet, und also standthafft sindt. Gott, der her, welle syn angefangen werck in üch z{uo} sinem lob und eeren volf{ue}ren!
+<fn>Vgl. Phil 1, 6.</fn></p>
+</div>
+<div>
+<p>Hiemit sindt gote, dem herren, trüwlichen befolen. Myn husfrouw
+<fn>Anna, geb. May von Rued.</fn> th{uo}t vast
+<fn>sehr.</fn> gr{ue}ssen. Uß Biell, 30. tag mertz 1547.</p>
+<un>Der üwer gantz</un>
+<un>eygen</un>
+<un>Niclaus Wyttenbach.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem eerwirdigen und hochgelertten hernn, meister Heinrichen Bullinger, diener des wort gottes z{uo} Zürich, sinem insundren gelieptten hernn und br{uo}der.
+<fn>Vorliegender Brief wurde zusammen mit <qv>nr2866</qv> durch Josua Wyttenbach überbracht; s. oben Z. <qv>zl17137-1</qv> sowie <qv>nr2866</qv>,<qv>zl17134-1</qv>.</fn></p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1602">
+<nr>1602</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>15. Februar 1542</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 375 (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 38<fn>Zit.: Gast, Tagebuch 39</fn></vo>
+<vo>Pollet, Bucer II 355 (A 2)</vo>
+<dr>Ungedruckt</dr>
+<re>Der Reichstag konnte noch nicht eröffnet werden; [König] Ferdinand soll [in Speyer] eingetroffen sein, aber noch nichts
+unternommen haben; er hat die Kosten seiner Pläne zu wenig bedacht. Das Zögern der Fürsten ist durch die Feindschaft
+zwischen Hans Wurst [Herzog Heinrich von Braunschweig] und [Landgraf Philipp von] Hessen bedingt; letzterer soll auf die
+jüngste Schmähschrift des ersteren geantwortet haben. Mehr als äußere Feinde beunruhigen Myconius jene, die sagen: "Die Kirche
+ist auf dem Rathaus"; Pfarrer, die offen auf Missstände hinweisen, werden vor die Obrigkeit zitiert, wodurch Myconius
+sein Amt verleidet wird; die [Ratsherren] sind empfindlich geworden, weil [Karlstadt] sie geschont hat. Gruß; erkundigt
+sich nach dem von Theodor [Bibliander] versprochenen [Türkenbüchlein]. Hofft, dass [Sebastian] Münster trotz seiner
+Ablehnung des akademischen Grads den theologischen Lehrstuhl Karlstadts übernehmen wird.
+</re>
+<tx>S. Nova non sunt; non est igitur, quod scribam. Comitia nondum coeperunt, etiam postquam dies constituta pridem
+praeterierit.<f1>Zur verzögerten Eröffnung des Reichstags zu Speyer s. oben Nr. 1601, Anm. 10.<fe> Aiunt Ferdinandum adesse, verum nihil agere. Verum
+quid ageret vir (in animo meo) nihili? Extruere turrim instituit nec rationem iniit prius impensarum; non mirum igitur, si non ipse solus periclitatur, sed etiam<fx>^#/+In der Vorlage^#/- sedetiam.<fe> omnes ab eo stantes.
+^$Quid vero putas inesse principibus animi, quia tam lente
+Spiram veniunt, nisi quod dissidiis fervent? Hans Wurst de
+novo scripsit contra Hessum<f1>Zur jüngsten Schmähschrift Herzog Heinrichs von Braunschweig gegen Landgraf Philipp von
+Hessen vgl. oben Nr. 1601, 23f mit Anm. 17f.<fe>; hic de novo respondisse fertur<f1>Die Schrift mit dem Titel "[...] herrn
+Philipsen, landtgraven zu Hessen [...] vierte warhafftige verantwortunge [...]" erschien im März 1542 in Marburg; s. VD 16
+H 2919.<fe>. Habet ille adhęrentes papistas, alius reliquos. Timet exire Hessus, ne turbas in suo principatu concitet organum
+illud pessimum. Verum esto, pariter exeant ambo, periculum erit huic ab altero et contra, ut verisimile sit ab hoste non esse
+parem formidinem. Sic turbare Satan novit omnia; deus autem permittit, ut ingratitudini nostrę par referat.
+^$Adhuc tamen magis me divexat nostra impietas. Pugnandum
+fuit hactenus contra papistas et contra catabaptistas, nunc
+contra eos, qui evangelium adversus vim tutati sunt. Audi,
+quid dicant inter se: "Kilchen", inquiunt, "ist uff dem
+radthus." Quare vero sic? Quia nostram omnem authoritatem et
+libertatem obpressam cupiunt. Igitur, quotiescunque in
+flagitia quis invehitur paulo liberius, vocatur ad capita,
+examinatur, quid dixerit, cur dixerit, ex quo dixerit,
+contra quem dixerit. Num hic mos est etiam apud vos? aut apud
+alias ecclesias? Crede mihi, faciunt haud raro, ut cogitem
+de resignando ministerio. Atqui dum Christus dicit: "Ego
+passus sum<fx>sum ^#/+über der Zeile nachgetragen.^#/-<fe> talia, et tu pati renuis?", restituor quidem, sed ita nauseam concipio,
+ut aliud mallem sępe qu[am]<fx>^#/+Randtext beschädigt.^#/-<fe> docere. Tales reliquit ille<f1>Gemeint ist
+Karlstadt; vgl. z. B. HBBW X, S. 25, 16-27.<fe>, hoc est adeo teneros, ut quicquid malint quam severitatem nostram sive in
+docendo sive in corripiendo. Hęc tibi, ut, si vacabit, aliquan[do]<fx>^#/+Randtext beschädigt.^#/-<fe> nos soleris. ^$Vale cum tuis in Christo. Salutabis Theodorum<f1>Theodor
+Bibliander.<fe> rogabisque, cur dilatet mittere, quod missurum pollicitus est<f1>Die Rede ist von Biblianders Schrift "Ad
+nominis christiani socios consultatio, quanam ratione Turcarum dira potentia repelli possit ac debeat a populo Christiano".
+Bibliander hatte das Manuskript in seinem Brief an Myconius vom 3. Januar 1542 angekündigt (s. Zürich StA, E II 340, 107); das
+Büchlein erschien im März 1542 bei Nikolaus Brylinger in Basel (VD 16 B 5314; vgl. ^#/+Egli,^#/- Analecta II 51f; Rudolf ^#/+Pfister,^#/- Das Türkenbüchlein Biblianders, in: Theologische Zeitschrift 9, 1953, S. 438-454).<fe>.
+^$Basileę, 15. februarii anno 42.
+<un>Os. Myconius
+<un>tuus.
+<lz>Colloquutus<fx-t>^#/+von^#/- Colloquutus ^#/+bis^#/- hęret etc. ^#/+am Rande nachgetragen.^#/-<fe> sum hodie cum
+Munstero<f1>Sebastian Münster.<fe>; spero ipsum tandem successurum Carolstadio in lectione theologica. De gradu tamen
+adhuc hęret<f1>Vgl. oben Nr. 1601, 7-9.<fe> etc.<fx-x>^#/+von^#/- Colloquutus ^#/+bis^#/- hęret etc. ^#/+am Rande nachgetragen.^#/-<fe>
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero doctissimo optimoque, in domino suo.
+</content>
+</letter>

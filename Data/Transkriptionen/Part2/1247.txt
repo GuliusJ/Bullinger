@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1247">
+<nr>1247</nr>
+<correspondents>
+	<originator>Ulrich Lieb</originator>
+	<originator>Alexander Schmutz</originator>
+	<originator>Martin Mötteli</originator>
+	<originator>Andreas Klinger</originator>
+	<originator>Johannes Schmid</originator>
+	<originator fn=1>Johannes Stäbinger</originator>
+	<originator fn=2>Gregor [...]</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+	<addressee>die übrigen Pfarrer von Zürich</addressee>
+	<note fn=1>Johannes Stäbinger, gest. 1573. Stäbingers Wirkungsort in diesem Jahr 1539 ist nicht bekannt. Von 1559 bis zu seinem Tod war er als Pfarrer in Affeltrangen tätig, ab 1566 zusätzlich im benachbarten Märwil (beide Kt. Thurgau). - Lit.: Hans Gerwig Blarer an Rudolf Gwalther, 7. Sept. 1573 (Zürich StA, E II 378, 1918); Sulzberger 40. 139; ^#/+Bühler,^#/- Tobel 50. 261.</note>
+	<note fn=2>Pfarrer Gregor [...] von Hugelshofen - bis 1542 eigenständige Kirchgemeinde, dann vom Pfarrer von Alterswilen betreut (vgl. Sulzberger 246f) - ist nicht weiter bekannt.</note>
+</correspondents>
+<space_time>
+	<place>[Wigoltingen]<f1>Der Schreiber des Briefs</place>
+	<date>Ulrich Lieb, war Pfarrer in Wigoltingen; s. HBBW VI, S. 100, Anm. 7.</date>
+	<note>, 19. März 1539</note>
+</space_time>
+<vo>Autograph von Ulrich Lieb<fx>^#/+Auch die Unterschr.iften sind von Lieb gesetzt.^#/-<fe>: Zürich StA, E II 340, 91 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Jakob Zorn, Pfarrer in Alterswilen, hat um ein Zeugnis gebeten, weil er in seiner schwierigen Lage gänzlich auf Zürich hofft; sie können guten Gewissens bezeugen, daß er sich bezüglich Lebensführung und Lehre untadelig verhalten und seine kirchlichen Aufgaben gut wahrgenommen hat. Sie haben
+Zorn, der ihnen seine Händel der vergangenen Jahre dargelegt und um Rat gefragt hat, auszuharren empfohlen, müssen ihn nun aber ziehen lassen. Andreas Klinger hat für das [Steckborner] Kapitel gesiegelt.
+</re>
+<tx>Gratia et pax per Iesum Christum.
+^$Ornatissimi viri ac fratres in domino observandi, comparuit
+apud nos Iacobus Zorn<f1>Jakob Zorn, von Konstanz, gest. nach 1566, seit 1536 Pfarrer in Alterswilen (Kt. Thurgau), flüchtete 1539 nach Zürich und wurde - nach vorübergehender Unterstützung aus dem Studentenamt - im selben Jahr als Pfarrer nach Regensdorf (Kt. Zürich) gewählt (s. Bullingers
+Fürschlag vom 12. August; Zürich StA, E II 381, 1836r./1843v.); 1543 erhielt er in der Stadt das Bürgerrecht (Zürich Stadtarchiv, VIII. C. III. A. 1, 407v.).
+Seine Lebens- und Amtsführung wurde auf den Synoden mehrmals gerügt, und im Herbst 1549 setzte ihn der Rat nach einem betrügerischen Handel ab, gewährte ihm jedoch 1550/51 wiederum Unterstützungsgelder aus dem Studentenamt.
+Die Familie von Diesbach setzte ihn, nachdem er beim Berner Rat abgewiesen worden war, 1551 in ihre Kirchgemeinde Worb (Kt. Bern) ein (s. Johannes Haller an Bullinger, 27. April 1551; Zürich StA, E II 370, 137). 1557 erscheint er als Pfarrer in Rapperswil, wurde aber 1560 seines Amtes enthoben, und
+auch als Pfarrer der Gemeinden Kallnach (bis 1564) und Niederbipp (1566) wurde er jeweils - wegen Ehebruchs - abgesetzt (alle drei Kt. Bern). - Lit.: Zürich StA, G II 39. 1 und 2 (Studentenamtsrechnungen); Zürich StA, E II 1, 244. 328f. 332. 347. 351 (Synodalprotokolle); Blarer BW II, Reg.; Lohner
+160. 496. 590. 609; Sulzberger 242; Pfarrerbuch 658.<fe>, Alterschwilensis ecclesie liturgus, precatusque est nos, quatenus doctrine eius ac conversationis digna demus ad vos testimonia, spe bona
+fretus eadem plurimum apud prestantias vestras pollere,
+quibus in tribulatione sua omnem opitulationis locavit
+fidutiam<f1>Zorn hatte Bullinger bereits im Januar seine schwierige Lage geschildert, worauf dieser versuchte, ihn zum Bleiben zu bewegen (vgl. oben Nr. 1212, 2-10, und Nr. 1214, 2-4).
+Am 8. Februar beschwerte er sich vor dem Zürcher Rat über die Nachstellungen "um des Evangeliums willen" im Thurgau. Er sei von Landvogt Christoph von Sonnenberg (1534-1536) um 20 Gulden gebüßt worden, weil er einen sterbenden Bauern zum "falschen, zweifelhaften Glauben" bekehrt habe, danach um 10
+Gulden, weil er Allerheiligen nicht zu feiern geboten habe, und im Herbst 1538 sowie kurz nach Neujahr sei er von Landrichter Hans Vogel aus Altnau auf offener Straße beschimpft und angegriffen worden.
+Der Rat leitete die Klage umgehend an seine Gesandten Lavater und von Cham in Baden weiter (s. Zürich StA, A 268), und am 12. Februar bat er die Ehefrau von Sebastian Muntprat zu Salenstein vertraulich um weitere Informationen (s. ebd., B IV 10, 33r.); mit Brief vom 9. März bescheinigten sodann vier
+Thurgauer Pfarrer, von Vogel nie in ihrem Glauben verletzt worden zu sein (s. ebd., A 323. 2; vgl. auch ^#/+Knittel,^#/- Kirche 49).<fe>. Cum ergo de morum eius integritate, predicationis
+candore aliud certi nihil habeamus neque aliter a
+vicinioribus explorare potuerimus, quam quod hactenus
+fideliter ec­clesiam suam providerit functionemque ecclesiasticam iuxta donum ipsi traditum bene
+administraverit, corruptos mores ac vitiatas oves modesta
+quidem cor­rexerit parrhesia, denique nulla culpata vita
+quemquam offenderit, damus illi sincera conscientia, quantum
+omnibus nobis constat huius rei, indubitatum ac verum
+testimonium, interim obnixe orantes, ut illum vobis habeatis
+quam comendatissimum; neque enim vacillamus eum sic se apud
+vos habiturum, ut piis quibuslibet diplicere non possit<f1>Vgl. auch die Empfehlungen Zwicks (oben Nr. 1212, 4f, und unten Nr. 1276, 19f) sowie jene des Konstanzer Rates im Brief an Zürich vom 26. Februar (Zürich StA, A 205. 1, Nr. 172).<fe>.
+^$Causas suas lapso anni curriculo ac nunc temporis exposuit<f1>Siehe oben Anm. 5.<fe>
+consuluitque intime, an ob quorundam excandescentiam ac
+persequutionem deserenda sit ecclesia necne. Cui semper
+respondimus ac consilium dedimus ex scripture sacre
+fontibus pium multas oportere pati ob evangelii
+professionem tribulationes<f1>Ps 34 (33 Vulg.), 20.<fe>, inprimis vero preconem, si
+conformes fieri velimus imagini crucis Christi<f1>Vgl. Röm 8, 29.<fe>, unde temere
+ob aliquorum ingratitudinem ipsi ecclesiam nullo pacto
+deserendam; quibus admonitionibus hactenus obtemperavit ac
+cordatum se prestitit. Iam vero exerente se per membra sua
+maiore vi satane, subsidium ex fratrum instinctu a tota
+ecclesia adversus eos, quos estimat supplantatores, petiit,
+quo frustrato discessus sui iuxta iuditiorum nostrorum
+parvitatem ipsum liberam habere facultatem cognoscimus. Quod
+et vos dominos observandos latere noluimus, iterato ipsum
+vobis comendantes, ut ope ac industria vestra colendissimis
+patritiis vestris insinuatus sibi ac puerulis<f1>Zorn hatte zu dieser Zeit sechs Kinder; vgl. Zürich StA, A 268 (8. Februar 1539).<fe> suis alimoniam comparare valeat.
+^$Date ac consueto capituli nostri<f1>Gemeint ist das Steckborner Kapitel.<fe> sigillo per Andream
+Clingerum signate decima nona die marcii anno 1539.
+<un>Huldrichus Amantius ceterique per agrum
+<un>Thurgeum ecclesiaste viciniores:
+<un>M. Alexander Schmutz,
+<un>Martinus Motyli,
+<un>Andreas Clingerus,
+<un>Ioannes Schmid,
+<un>Ioannes Stäbinger,
+<un>Gregorius in Hugelshofen.
+<lz>[Adresse auf der Rückseite:] Prestantissimis viris ac
+observandissimis fratribus M. Hainrico Bullingero, M. Leoni
+Iude ceterisque per Tigurinum agrum symmistis, dominis suis
+colendissimis.
+</content>
+</letter>

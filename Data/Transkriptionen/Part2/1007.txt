@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1007">
+<nr>1007</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[Mitte Juni 1537]</date>
+	<note>Nach der im Brief erwähnten Ankunft der Engländer (8. Juni). Zwick dankt am 19. Juni für einen Brief, der ungefähr die gleichen Nachrichten enthielt (s. unten Nr. 1008).</note>
+</space_time>
+<vo>Teilabschrift von Johannes Keßler<fx>^#/+Eingefügt in Keßlers "Sabbata". Laut Keßlers Vorbemerkung (s. Keßler, Sabbata 464, 36-39) handelt es sich um einen Auszug aus dem Brief, den Bullinger zusammen mit dem Schreiben Cranmers (oben Nr. 984) an Vadian sandte.^#/-<fe>: St. Germain Kantonsbibliothek
+(Vadiana), Ms 72, 482r.-v.</vo>
+<dr></dr>
+<re>An der Lausanner Synode vom 14. Mai hat Claude [d'Aliod] seinen neuen Arianismus widerrufen; auch vor den Zürcher Pfarrern hat er
+inzwischen Abbitte geleistet. Am 8. Juni kehrten [Rudolf Gwalther] und Nicholas Partridge aus England zurück; mit ihren drei
+Begleitern sind nun sechs englische Studenten in Zürich. Sie brachten gute Nachrichten mit, wie sie auch dem beiliegenden
+Brief Cranmers [Nr. 984] zu entnehmen sind. Über 30 [nordenglische] Aufständische, darunter ein Abt im Ordensgewand, wurden
+hingerichtet, etwa vierzig Gefangene warten noch auf ihre Strafe.
+</re>
+<tx>[Gedruckt: Keßler, Sabbata 464,40-465,8.]
+</content>
+</letter>

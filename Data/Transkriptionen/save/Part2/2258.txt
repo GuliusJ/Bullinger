@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2258">
+<nr>2258</nr>
+<correspondents>
+	<originator>[Bullinger</originator>
+	<addressee fn=1>Rudolf Gwalther ]</addressee>
+	<note fn=1>Der Empfänger geht aus Z. 11-13 und Anm. 6f hervor.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich</place>
+	<date>Herbst 1545]</date>
+	<note>Die Datierung geht auf ^#/+Rüetschi,^#/- aaO, zurück.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E I 4.1, Nr. 1, 1 (ohne Siegel)</vo>
+<dr>Gedruckt: Kurt Jakob ^#/+Rüetschi,^#/- Bildgedichte Rudolf Gwalthers. Eine ^$^$^$^$Quelle für Nachweis und Datierung von Zürcher Kunstwerken, ^$^$^$^$in: Von Cyprian zur Walzenprägung. Streiflichter auf Zürcher Geist und ^$^$^$^$Kultur der Bullingerzeit. Prof. Dr. Rudolf Schnyder zum 70. Geburtstag, ^$^$^$^$hg. v. Hans Ulrich Bächtold, Zug 2001, S. 194</dr>
+^&xVgl. Gwalthers Gedichtsammlung, Zürich ZB, Ms D 152, 66v. ^&x{
+<re>[Gwalther] soll sobald wie möglich ein [lateinisches] Distichon [aus dem von Bullinger mitgeteilten deutschen Vers] verfertigen.</re>
+<tx>S. Quaeso amicum, hoc distichon adhuc mihi pares, quam primum vacabit.
+Rem facies gratissimam.
+^$Valebis.
+<lz><vl>v.</vl> Nitt volgen gott, macht arme lüt,
+^$^$^$Gotts wort darff unsers hebens<f1>darff unsers hebens: bedarf unserer Stütze.<fe> nüt.
+<lz>Oza<f1>Ussa.<fe> ruͤrt die pundts laden an und fallt. 2. Sam. 6 [6-8].
+^$^$^$Nadab und Abihu<f1>Zwei Söhne Aarons.<fe> oppfferend froͤmbd fhür und verbrünnend. Levit. 10 [1-5].
+<lz>Ottho, Wolff, Zingg<f1>Die Wappen und Namen von Otto Werdmüller, Johannes Wolf und Ulrich Zingg mit der Jahresangabe 1545 befinden sich auf dem von ihnen dem Großmünsterpfarrhaus gestifteten Glasbild. Darüber steht das hier unten angeführte lateinische Distichon, welches Gwalther als Antwort auf Bullingers Bitte verfasste. - Das Glasbild befindet sich heute im Schweizerischen Landesmuseum Zürich (Sig.: AG 1169); Abbildung in: Jenny ^#/+Schneider,^#/- Glasgemälde. Katalog der Sammlung des Schweizerischen Landesmuseums Zürich, Bd. 1, Stäfa (Kt. Zürich) [1971], Nr. 237. - Ein Großhans Thomann zugeschriebener Scheibenriss von 1559 befindet sich in München, Staatliche Graphische Sammlung, Inv.-Nr. 40514; Abbildung in: Zürcher Kunst nach der Reformation. Hans Asper und seine Zeit, Zürich 1981, S. 110, Nr. 92. - Die abgebildeten Szenen wie auch das Distichon verstehen sich als Kritik am Messopfer.<fe>.
+<lz>[Ohne Adresse.]
+<lz>[Darunter von Gwalthers Hand:]
+^$Quid domini iuvat, ah miseri, contemnere verbum?
+^$^&=020Viribus a vestris non petit illud opem.<f1>Das Distichon findet sich auch in Gwalthers Gedichtsammlung 1542-1582 (Zürich ZB, Ms D 152, 66v.).<fe>
+</content>
+</letter>

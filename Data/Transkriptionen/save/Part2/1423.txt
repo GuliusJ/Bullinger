@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1423">
+<nr>1423</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>Herbst 1540]</date>
+	<note>Grynäus nimmt Stellung zu Gerüchten über die Nebenehe Philipps von Hessen, die ihm von Bullinger zugetragen worden waren (s. unten Z. 13-21). Bullinger dürfte erstmals durch Gwalthers Brief vom 17. Juni (oben Nr. 1406)
+davon gehört haben; Näheres erfuhr er durch die Briefe vom 4. August und 15. September (oben Nr. 1413 bzw. 1420). Die
+Nachricht von Bullingers Erkrankung (s. unten Z. 1-12) ist offenbar nicht vor Anfang August nach Basel gelangt (vgl. oben
+Nr. 1412, 1-4); gesundheitliche Ratschläge erteilt am 15. Oktober auch Myconius (s. unten Nr. 1426, 17-22). Auch gegenüber
+Johannes Zwick muß sich Bullinger im Laufe des Herbstes über seine Gesundheit und über die Nebenehe des Landgrafen geäußert
+haben, wie sich Zwicks Brief vom 16. November (unten Nr. 1434) entnehmen läßt.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 195r.-v. (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 129<f1>[dat. um 15. Oktober], undat. B 426<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Mahnt ihn, sich seiner Gesundheit, aber auch der Kirche zuliebe mehr zu schonen. Bucer hat ihm versichert, weder er
+noch Philipp [Melanchthon] oder Luther sei sich hinsichtlich der Bigamie [Philipps von Hessen] einer Schuld bewußt; eine von
+dessen Geliebten soll sich gebrüstet haben, seine Gattin zu sein, doch wie es sich wirklich verhält, bleibt ungewiß. In der
+Frage der kirchlichen Disziplin ist [von den Straßburgern] nichts zu befürchten; es geht ihnen nur um die Freundschaft
+unter den Kirchen. Bittet ihn, sich und der Kirche Sorge zu tragen.
+</re>
+<tx>S. Oro te, ut cures valetudinem diligentius. Contemnis
+imbecillitatem hanc et nullum finem laboribus facis.
+Purgatione integra tocius corporis erit opus, quae adhiberi
+hoc tempore potest optime, tum leni capitis evacuatione et
+dieta accurata tota hyeme. Hęc si vis contemnere,
+contemnis ecclesiam, cuius te usui subducis. Video hoc
+seculo in hoc peccari ab omnibus, quod sui curam credunt
+esse supervacuam, quasi se curans aliquis minus ecclesię
+commodet quam ea ipsa curanda. Hoc igitur oro te, ut velis
+serio et consulere de te et mox diligenter exequi, ut
+morbum hunc prorsus repellas primo, tum cura diligenti te
+ab illo pręserves. Hoc nisi fit, cętera, ut vides,
+omnia iacent tibi. Hanc ergo pietatem in patriam et
+ecclesiam servemus, nec me credas<fx>^#/+kann auch als^#/- credes ^#/+gelesen werden.^#/-<fe> consulere tibi falsa<fx>^#/+vor^#/- falsa ^#/+gestrichenes^#/- ex.<fe>
+officii specie; sic me charitas vera et verum in religionem
+studium hortatur.
+^$De bigamia quod quaeris<f1>Bullingers Brief ist nicht erhalten; zur Nebenehe Philipps von Hessen vgl. die oben Anm. 1 erwähnten Berichte Gwalthers.<fe>, etiam me
+res hęc valde sollicitavit. Quaesivi ex ipso Bucero. Se, Philippum<f1>Philipp Melanchthon.<fe>, Lutherum negat conscios
+illius culpę esse; fecisse, monuisse omnia, quae quidem recta sunt coram deo. Cęterum fama est orta
+hoc pacto: Extra uxorem<f1>Landgräfin Christine.<fe> duas amavit Hessus; inter
+has exorta ęmulatio, in qua incensa et quae diutius in amore fuit, ausa est<fx>est ^#/+über der Zeile nachgetragen.^#/-<fe>
+iactare se coniugem esse. Hęc stultę puellae gloriatio emanavit. Quid porro in ipsa sit re, scire ego nescius
+unde<fx>^#/+in der Vorlage^#/- nesciusunde[?].<fe>[?] non potui. Hoc scio miseros nos esse propter talia exempla eoque magis
+miseros, quod tam frigide in summa difficultate rerum inter nos congruimus.
+^$De disciplina ecclesiae oro te, ne quid credas temere institui
+aut conari istos<f1>Die Rede ist wohl von den Straßburger Theologen.^&x Am 13. August hatten diese beim Rat auf eine
+Verbesserung der Bannordnung gedrängt (s. QGT XV/III 1052, S. 425), aber hier geht es eher um zwischenkirchliche Verhältnisse. ^&x{<fe>; hoc solum quaeritur, si qua sit mutua et
+arctior[?] magis inter ec­clesias amicitia, qua melius <vl>195v.</vl> et
+posteris evangelium, quod tenemus, relinquere et fortius
+adversariis liceret<fx>^#/+vor^#/- liceret ^#/+gestrichenes ^#/-contraire.<fe> occurrere. De vobis omnibus omnes
+humanissime sentiunt.
+^$Oro te per charitatem Christi Iesu, ut conservare te velis
+huic tempori cura et diligentia, tum, ut publicam
+religionis caussam<fx>^#/+eventuell als^#/- religionem commissam ^#/+zu lesen.^#/-<fe> velis toto corde cogitare. Respiciat
+dominus deus noster nos de coelo. Amen.
+^$Saluta mihi omnes fratres; omnes quaeso dominum, ut bene in
+ipso valeant. Vale in domino.
+<un>S. Gryneus tuus.
+<lz>[Adresse darunter:] Domino Henricho Bullingero, fratri in Christo dilecto.
+</content>
+</letter>

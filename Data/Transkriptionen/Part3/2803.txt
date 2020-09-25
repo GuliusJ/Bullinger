@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2803">
+<brief>
+<id>17071</id>
+<nr>2803</nr> <from persid="FrölichGeorg"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-02-08"/>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 8. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 346, 224 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 91; Lit.: F. Roth, Augsburgs Ref'g. 3, 473f, A. 114</k></dr>
+<re><t>Wenn doch der Frieden zwischen Augsburg und Kaiser Karl V. auf Gottes Wohlgefallen ausgerichtet wäre! Zwar hat Nicolas Perrenot, Herr von Granvelle, den Augsburgern die freie Ausübung ihrer Religion bis zu einer allgemeinen Reformation im Reich versprochen, doch kann man sich gut denken, was daraus werden soll, und was es bedeutet, dass man sich nun der kaiserlichen Gerichtsbarkeit zu unterstellen hat!</t>
+<t>Johannes Haller und die anderen Zürcher Pfarrer in Augsburg [Lorenz Meyer, Thoman Ruman und Rudolf Schwyzer d.Ä.] brauchen keine gewaltsamen Angriffe zu befürchten. Im Falle einer Preisgabe des Evangeliums wird man sie auf sichere Weise nach Zürich zurückschicken. Meyer und Schwyzer werden allerdings schon bei Nachlassen der Kälte abreisen. Der Augsburger Rat schreibt diesbezüglich.</t>
+<t>Bullinger möge dafür sorgen, dass Francesco Stancaro Unterstützung bekommt. Frölich meint, diesen bereits an Bullinger empfohlen zu haben. Stancaro sucht nämlich wegen der üblen Zustände in Augsburg eine Stelle in Basel. Er ist ein ausgezeichneter, sprachkundiger Theologe und hat ein Buch über das Abendmahl verfasst, in dem er angeblich die gleiche Auffassung wie Bullinger in dessen Abhandlung zum gleichen Thema ["De sacramentis"] vertritt.</t>
+<t>Vielleicht kann Rudolf Gwalther zwei Träume deuten, die Frölich in den zwei letzten Nächten hatte. Im ersten Traum befand er sich in Leipzig unter Studenten, als er plötzlich ganz furchtlos auf bewaffnete Studenten zuging, die Wache um das Universitätsgebiet hielten. Letztere staunten, dass er dies wagte, wo doch die anderen Studenten ihm davon abrieten. Einer der Wächter erkannte ihn als Kollegen und Gelehrten. So wurde er für den Abend zu ihrem Stammtisch eingeladen, was er annahm. Nachdem er von ihnen Abschied genommen hatte, geriet er immer wieder in Gässlein voller Exkremente, sodass er völlig besudelt zu den bewaffneten Studenten zurückkehren musste. Diese reinigten ihn mit Gras und Kräutern. Und dann wachte er auf.</t>
+<t>Im zweiten Traum war sein Gürtel zur Hälfte von Mäusen zernagt. Da er nicht wusste, ob dieser reißen würde, spannte er ihn mit beiden Händen; doch war er fest genug. Wie Daniel sollen nun Gwalther oder Konrad Gessner diese Träume deuten!</t>
+<t>Entschuldigung für diese Bagatellen! Frölich schenkt sonst seinen Träumen keine Aufmerksamkeit, doch haben diese offenbar etwas mit seiner schwierigen Lage zu tun.</t>
+<t>Gruß.</t>
+<t>[P.S.:] Hans Vogler d.J. und seine Braut [Maria Grafner] aus St. Gallen oder genauer aus Lindau, wo sie aufgewachsen ist, werden morgen heiraten. Frölich würde sich nicht zur Hochzeit gesellen, wenn er nicht dazu eingeladen wäre. Er wird also am Kirchgang teilnehmen. Diesen seinem Vater [Hans Vogler d.Ä.] gegenüber ungehorsamen Sohn hat er schon längst wegen dieser Ehe zurechtgewiesen.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17071-2A</zzl>Conciliati nos sumus c{e}sari
+<fn>Karl V. - Siehe dazu <qv>nr2769</qv>, <qv>fn17037-3</qv>.</fn>. Pacem ergo habemus, utinam eam, quam dominus exposcit. Religio nobis secundum promissionem d. Granvel{e}
+<fn>Nicolas Perrenot, Herr von Granvelle. - Als kaiserlicher Rat war er entscheidend an den Aussöhnungsverhandlungen mit Augsburg beteiligt; s. <a>Kirch, Fugger</a> 119-132.</fn> integra est mansura usque ad communem in imperio reformationem.
+<fn>Siehe dazu schon Frölichs Mitteilung in <qv>nr2785</qv>,<qv>zl17053-2</qv>.</fn> Iustiti{e} administrationi, quam c{e}sar ordinaturus est,
+<fn>Gemeint ist das Reichskammergericht in Speyer.</fn> nos parere oportebit. Collige tu, quid inde!<zzl>zl17071-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17071-3A</zzl>Domini Halleri atque aliorum Tigurinorum
+<fn>Lorenz Meyer (Agricola), (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä.</fn> res bene habent. Vis illis non facile inferetur. Verum cum ad id deventum fuerit, ut evangelio sit hic renunciandum, facile et tuto dimittentur vestri.<zzl>zl17071-3E</zzl> <zzl>zl17071-1A</zzl>Dominus Laurentius Agricola atque Rodolphus brevi, <zzl>zl17071-10A</zzl>postquam frigus deferbuerit,<zzl>zl17071-10E</zzl> ad vos redituri sunt, quemadmodum id amplissimo vestro senatui scribitur.
+<fn>Nämlich mit dem Schreiben des Augsburger Rates an den Rat von Zürich vom 8. Februar 1547 (Zürich StA, A 202.1, Nr. 22). Der hier genannte Beschluss der Augsburger Ratsherren wird auch in dem Brief von Johannes Haller und Thoman Ruman an den Bürgermeister und Rat von Zürich vom 9. Februar 1547 erwähnt (Zürich StA, A 177, Nr. 168). - Meyer und Schwyzer verließen Augsburg am 5. März, wie aus Hallers Brief an Bullinger von ebendiesem Tag hervorgeht; s. <qv>nr2837</qv>,<qv>zl17104-1</qv>. Siehe ferner <a>HBBW</a> XVII 417f, Anm. 21, zu korrigieren bzw. zu ergänzen anhand von <a>HBBW</a> XVIII 101f, Anm. 44; 240, Anm. 7; 350, Anm. 98.<zfn>fn17071-1</zfn></fn><zzl>zl17071-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17071-4A</zzl>Commendavi,
+<fn>Wenn Stancaro jemals solch ein Empfehlungsschreiben ausgestellt worden ist, hat dieser davon keinen Gebrauch gemacht, da er sich direkt nach Basel begab und Bullinger sich von selbst seiner annahm; s. <qv>nr2753</qv>, <qv>fn17000-1</qv>. <qv>fn17000-2</qv>; <qv>nr2799</qv>,<qv>zl17067-1</qv>.<zfn>fn17071-3</zfn></fn> ni fallor, tibi quendam eruditum et pium virum d. Franciscum Stancarum Italum. Is propter insidias et motus apud nos Basileam concessit illic conditionem qu{e}siturus.
+<fn>Zu Stancaros Weggang aus Augsburg s. <qv>nr2753</qv>,<qv>zl17000-1</qv>; <qv>nr2786</qv>, <qv>fn17054-1</qv>.</fn> Theologus est sincerus et incomparabilis, trium linguarum
+<fn>Hebräisch, Griechisch und Lateinisch. - Vgl. auch <a>HBBW</a> XVIII 309,106.</fn> valde gnarus. Scripsit librum de sacramentis Italica lingua
+<fn>Gemeint ist vermutlich das 60. Buch (damals nur handschriftlich vorhanden) seiner Dogmatik, die er in Basel am 1. April 1547 unter dem Titel "Opera nuova della Riformatione, si della dottrina Christiana, come della vera intelligentia de i sacramenti, con matura consideratione et fondamento della scrittura santa et consiglio de santi Padri" veröffentlichen ließ (<a>VD16</a> S8553), und die er dieser Stelle zufolge offensichtlich bereits in Augsburg verfasst hatte.<zfn>fn17071-2</zfn></fn> et, quantum ex eius relatione percepi, <zzl>zl17071-11A</zzl>per omnia tuo eiusdem argumenti libro
+<fn>Gemeint ist Bullingers damals nur handschriftlich zirkulierende Schrift "De sacramentis" (s. <a>HBBW</a> XVI 100, Anm. 29), die auch in Augsburg verfügbar war (s. <a>HBBW</a> XVI 191. 299. 352; XVII 430), und kaum Bullingers Schrift "De origine erroris in negocio eucharistiae" von 1528, deren letzter Nachdruck 1539 erschienen war; s. <a>HBBibl</a> I, Nr. 10-12.<zfn>fn17071-4</zfn></fn> similem.
+<fn>Allerdings sollte sich dies während Stancaros Aufenthalt in Graubünden nicht als richtig herausstellen; s. Agostino Mainardi an Bullinger, 22. September 1548 (<a>Graubünden, Korr.</a> I 133).</fn><zzl>zl17071-11E</zzl> Si poteris virum iuvare per alios, quo minus inediam patiatur, facturus es, quod nosti, etc.<zzl>zl17071-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17071-5A</zzl>Duo duabus noctibus praeteritis post medium noctis habui somnia, quorum dominum Rodolphum Gvaltherum illum nostrum cupio esse interpretem.<zzl>zl17071-5E</zzl> <zzl>zl17071-6A</zzl>Visus sum mihi esse Lipsi{e}
+<fn>In Leipzig hatte Frölich von 1513 bis 1517 studiert; s. <a>M-Leipzig</a> I 526; III 212.</fn> inter studiosos, quorum aliqui in liminibus gymnasii armati excubias agebant. Quos cum ego accederem, admirabantur meam audatiam, cur c{e}teris eos aversantibus ego adessem. Ego autem nihil trepidabam. Infit autem quidam ex illis: "Sine illum, noster est, literas apprime callet" atque porrigebant mihi manum petentes, ut illis ea vespera essem conviva. Ego vero dicebam: "In tempore adhuc vobiscum ero; nunc mihi abeundum", etc. Cumque abirem volens latas pertransire vias et plateas, semper veni in angiportus, ubi omnia stercoribus humanis adeo erant referta, ut citra commaculationem exire nequibam. Cumque tinctus probe et f{e}tens ad quosdam studiosos reverterer, condoluerunt ipsi mihi atque evellebant grammina et herbam me emundaturi, inter emundandum ego evigilo.<zzl>zl17071-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17071-7A</zzl>Proximum et aliud somnium fuit: Videbatur cingulum quoddam meum a muribus ad dimidietatem usque esse corrosum, adeo ut dubitabam, num cingendo esset rupturum. Propterea ego utraque manu, quam poteram fortissime, cingulum extendebam et experiebar sat roboris adhuc illi inesse, etc. Dic Daniel, Rodolphe aut Geßnere,
+<fn>Hier werden Rudolf Gwalther und Konrad Gessner wie der Prophet Daniel als Traumdeuter bezeichnet. - Gessner hatte 1541 eine griechische Schrift von Michael von Ephesus (12. Jh.) über Aristoteles' Schrift "De divinatione per somnum" übersetzt, in Basel veröffentlicht und mit einer Widmungsvorrede, die auf Traumdeutung Bezug nimmt, versehen; s. Urs <i>Leu,</i> Conrad Gessner (1516-1565). Universalgelehrter und Naturforscher der Renaissance, Zürich 2016, S. 79-81. - Weshalb Gwalther in diesem Zusammenhang erwähnt wird, bleibt unklar.<zfn>fn17071-5</zfn></fn> quid sibi velint h{e}c somnia!<zzl>zl17071-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17071-8A</zzl>Tu, mi venerande Bullingere, ignosce istis ineptiis. Ego minus quam quisquam alius superstitiosus sum nec somnia curo. Sed difficultatem in rebus meis certe h{e}c praesagiunt.<zzl>zl17071-8E</zzl></p>
+</div>
+<div>
+<p>Vale cum sacro musarum choro.
+<fn>Gemeint sind die Zürcher Gelehrten; vgl. schon <a>HBBW</a> XVIII 108 mit Anm. 30.</fn> 8. februarii 1547.</p>
+<un>Tuus G. Laetus, etc.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17071-9A</zzl>Filius
+<fn>Hans Vogler d.J. - Vgl. <qv>nr2785</qv>,<qv>zl17053-24</qv>.</fn> d. Ioannis Vogleri cras nuptias cum sua nupta
+<fn>Maria Grafner.</fn> Sangallensi, vel unde
+<fn>Lindau.</fn> oriunda sit, celebraturus est. Ego nolui ipsius sponsalitiis
+<fn>Hier offensichtlich als Substantiv gebraucht, im Sinne von Hochzeitsfeier.</fn> alias interesse. Rogatus autem adero copulationi in faci{e} ecclesi{e}. Ego illum iamdudum, tanquam parenti optimo in hoc immorigerum
+<fn>Ungehorsamer.</fn>, increpavi.<zzl>zl17071-9E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Herrn Henrichen Bullinger, der kirchen Zurch christlichen trewen vorgeer, minem besonnder lieben herren und brudern, zu handen
+<fn>Dieser Brief wurde also dem Boten mitgegeben, der den oben in <qv>fn17071-1</qv> erwähnten Brief des Augsburger Rates an die Zürcher beförderte. Der Bote ist in den Zürcher Rechnungsbüchern nachgewiesen; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 95 der verschiedenen Ausgaben.<zfn>fn17071-6</zfn></fn>. Zurch.</p>
+</div>
+</text>
+</brief>

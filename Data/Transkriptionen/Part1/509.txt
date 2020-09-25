@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="509">
+<correspondents>
+	<originator>Andreas Karlstadt</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>11. Januar 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 336, 27 (Siegelspur)</record>
+<print></print>
+<note>.us; Gedruckt:  Barge  II 602, Nr. 48</note>
+<statue>
+Rechtfertigt die von ihm beabsichtigte Teilnahme an der vom Rat
+angeordneten akademischen Disputation und übersendet seine Thesen.
+Grüsse.
+</statue>
+<content>
+S. Mitto tibi, optime vir, olera+1 eaque minuta pro tuis magnis et
+argenteis muneribus+2, nec tamen ausus mittere, nisi sperassem te vel
+inde collecturum istud+a: Si posset, maiora tradidisset. Videbis autem
+ex epistola+3 senatus nostri consilium literas exercitatione roborare+b
+molientis. Sunt, quibus non placet+4, sed ego imperio praesertim ad
+incrementum literarum apposito non potui refragari, maxime cum mihi sic
+praeceperint, ut parendum sit aut amittenda functio, e qua nunc vivo.
+Invitassem vos ad eandem disputationem, nisi obstitisset hyemis
+inclemencia. Adhuc tamen consultatur, an invitare plerosque velint. Sic
+enim me obtuli, verum neutiquam fiducia eruditionis aut virium. Quas si
+habui, tanto exilio aut amisi aut sic tenuatas habeo, ut plane sciam
+infirmiores, quam ut quicquam spei in eis ponam. Quicquid feci, ob
+utilitatem studii publici et ob spem recipiendarum virium feci fiducia
+in deum collacata, qui sapientia ac bonitate sua verbo suo huiusque
+scrutatoribus scireque ac discere ab ipso cupientibus solet adesse. Quod
+de hypotheticis inserui, si vacat cum d. Theodoro+5 excutito. In hoc
+plane fui, ut tandem diligentius studeant dialecticè, sine cuius
+praesidio nullum thema, nullum textum recte tractare nec locos, qui
+insunt, videre possunt.
+<p>Vale fèliciter. Saluta d. Theodorum, d. P(*etrum*) Tossanum+6. Hunc etiam meis verbis precare, ut dignetur locum geneseos de imagine hominis+7 ad me scribere. Ne pigeat te hèc pronunciata distribuere+8.
+Saluta Leonem+9, d. H(*enricum*) Utingerum et omnes vicinos supra et infra.</p>
+<p>Basilee, die ianuarii 11. anno 1535.</p>
+<signature>
+Tuus Carostadius(*!*).
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Prudentissimo et doctissimo viro
+d. Henricho Bullingero, ecclesiastae Tugurino, maiori suo charissimo+c.
+</address>
+</content>
+<note>
++a>istud
+<print>
+übergeschrieben.
++b>vor  roborare  gestrichenes  velle.
++c>Darunter von unbekannter Hand:  N+o. 5.
+</print>
+<address>
++1>Bei diesem Geschenk handelt es sich um Karlstadts
+Disputationsthesen ("Axiomata disputationis pro receptione ad facultatem
+Theologicam gymnasii Basiliensis", Basel 1535, s. Ernst Freys und Hermann
+Barge, Verzeichnis der gedruckten Schriften des Andreas Bodenstein von
+Karlstadt, in: Zentralblatt für Bibliothekswesen XXI, 1904, S. 318f,
+Nr. 153 (*Nachdruck Nieuwkoop 1965, S. 76f*)).
++2>Bullinger hatte Karlstadt kurz zuvor seine "Assertio utriusque
+in Christo naturae" geschenkt, vgl. HBBW IV, S. 338, 25f.
++3>Gemeint ist die Vorrede zu den Disputationsthesen.
++4>Insbesondere Myconius hatte sich gegen die vom Basler Rat
+beschlossenen Massnahmen gewandt, s. oben Nr. 507, 19-36.
++5>Theodor Bibliander.
++6>Pierre Toussain.
++7>Die Gottesebenbildlichkeit des Menschen (Gen 1, 27) spielt auch in
+Karlstadts Disputationsthesen eine wichtige Rolle (s. die
+Thesen 60ff, vgl.
+<print>
+Barge  II 468f).
++8>Karlstadt liess seine Thesen mehreren Freunden in Zürich zukommen;
+ein Christoph Klauser gewidmetes Exemplar ist erhalten geblieben (Zürich
+ZB, Ms S 37, nach Nr. 134).
++9>Leo Jud.
+</print>
+</address>
+</note>
+</letter>

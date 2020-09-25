@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1615">
+<nr>1615</nr>
+<correspondents>
+	<originator fn=1>Meier</originator>
+	<originator>Rat von Biel</originator>
+	<addressee>die Pfarrer</addressee>
+	<addressee>Lehrer von Zürich</addressee>
+	<note fn=1>Vgl. HBBW XI, S. 168, Anm. 1.</note>
+</correspondents>
+<space_time>
+	<place>Biel</place>
+	<date>27. März 1542</date>
+</space_time>
+<vo>Original: Zürich StA, E II 359, 2799 (Siegelspur)<f1>Erw.: HBBW I 246, Anm. 4 (Michael Schlatter)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Dank für die Vermittlung eines Nachfolgers für den verstorbenen [Johannes] Rhellikan; Bitte um weiteren Beistand in dieser gefährlichen Zeit, damit das Werk Gottes Bestand hat und [die ungenannten Gegner] keine Unruhe und Zwietracht in der Kirche stiften können. Wollen weiterhin auf die
+Freundschaft mit Zürich setzen und sichern Michael [Schlatter] und [Johann Leopold Frey] ihr Wohlwollen zu.
+</re>
+<tx>Unser fründtschafft, guͦttwilligkeitt sambt allem, so
+wir eeren, liebß und guͦtts vermögen, zuͦvor.
+^$Hoch und wolgelertte herren, insonders getrüwe gönner und
+fürgeliebte fründ und bruͤder, üwern gar emmsigen und
+ernsthafften fliß uff den schädlichen und leidbaren<f1>Schaden und Leid bringenden.<fe> tod
+unsers frommen und getrüwen vorstenders<f1>Vorstehers.<fe>, her Rellicani, unß mitt einem redlichen, dapfferen<f1>tüchtigen.<fe> lerer (und daß on verzug)
+zuͦ versehen,<f1>Vgl. oben Nr. 1598f.<fe> habent wir wol befunden, allda<f1>dabei.<fe> unß üch nitt
+minder dann die üwern selbß angelegen sin vermerckt und
+verstanden, deß wir üch, unsern fürgeliebten, hochen danck
+(alß wir billich söllen) mitt erbietten aller dienstbarkeitt
+und trüwer erkantnuß wüssen und sagen.<f1>Ein Zürcher Schreiben mit einem Beschluss betreffend die von Biel gewünschte Neubesetzung der Pfarr- und Schulmeisterstelle ist nicht erhalten. Die Wahl fiel (s. u.) auf Michael Schlatter und Johann Leopold Frey.<fe> Wöllent darby üwer
+lieb gebetten han, unß allweg furterhin<f1>weiterhin, immer.<fe> wie bißhar für<f1>weiter.<fe>
+befolhen und uff unsere kilchen trüw uffsechen ze haben,
+damitt daß werch gottes, so by uns durch fromme, dapffere
+und gelertte männer gepflantzet, in heilsamem uffwachsen und
+wirigem<f1>dauerhaftem, fortwährendem.<fe> bestand blibe und der satan sin verwirtten<f1>Unheil bringenden, Verwirrung stiftenden.<fe> samen
+under unß nitt inbringe,<f1>Vgl. Mt 13, 25.<fe> dardurch wir in zwispaltig meinung
+(wider das wir bißhar gelernet) gfuͤrt werden, wie dann
+ettliche vermeint und sich ouch gern deß undernommen hetten.
+Der herr wöll aber unß (bitten wir) in siner waren gebnen<f1>gegebenen.<fe>
+und noch wärender leer gnädigklich erhalten, alß wir daran
+ouch gar nitt zwifeln, dwil<f1>da.<fe> wir sin vätterlichen bistand an
+üch, unsern fürgeliebten herren und bruͤdern, ougenschinlich
+sehen und empfinden. Wiewol unß daß verbittert und heiter
+under ougen uffgrupfft und verwissen wirtt<f1>schwer gemacht, direkt ins Gesicht vorgeworfen und untersagt wird. - Die Anspielung lässt vermuten, dass aus Bern Kritik an der engen Anlehnung der Bieler Kirche an Zürich laut geworden war.<fe>, muͦß uns aber
+nitt irren, sonder unser trost und zuͦversicht, hertz und
+gmuͤtt in diserm und andern fälen in einhäligkeitt deß
+gloubens mitt gott, der ein stiffter warer lieb,
+fründschafft und fridens ist, stif<f1>fest, beständig.<fe> und dapffer zuͦ üch
+haben und setzen unangsehen jemandß. Wöllent ouch herren
+Michel<f1>Michael Schlatter.<fe>, unsern jetzigen predicanten, sambt dem
+schuͦlmeister<f1>Neuer Schulmeister wurde als Nachfolger Albrecht Bürers Johann Leopold (Lüpold) Frey, vgl. J[acob] ^#/+Wyss,^#/- Das Bieler Schulwesen. Von seinen Anfängen bis zur Vereinigung der Stadt mit dem Kanton Bern 1269-1815, Biel 1919, S. 19f.<fe>, sich alleß guͦttes gegen unß zuͦ
+versehen, getrösten<f1>ihnen zusichern, dass sie alles Gute von uns erwarten können.<fe>; nitt anders sy ouch hinder unß gespüren werden. Die gnad deß herrn sye mit unß allen.
+^$Datum zuͦ Biel, uff mentag nach iudica<f1>27. März. Das parallele Dankschreiben an den Zürcher Rat in Zürich StA, A 242. 1 ist auf Montag 17. März datiert, was für 1542 nicht möglich ist.<fe> anno etc. 42.
+<un>Meyer und raat
+<un>der statt Biel.
+<lz>[Adresse auf der Rückseite:] Den hoch und
+wolgelertten, erwürdigen, frommen herren pfarrer,
+predicanten und läser der statt Zürich, unsern insonders
+getrüwen herren und fründen.
+</content>
+</letter>

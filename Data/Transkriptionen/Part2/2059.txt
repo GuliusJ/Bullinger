@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2059">
+<nr>2059</nr>
+<correspondents>
+	<originator>[Ambrosius Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>1. Januar [1545]</date>
+	<note>Der vorliegende Brief (und nicht, wie von Traugott Schieß angenommen, der Brief Nr. 2060) ist wohl der erste Brief Blarers aus dem Jahre 1545. Als Blarer um "zway uren nachmittag" (unten Z. 17) den vorliegenden Brief verfasste, legte er diesem wohl das unten Z. 1 erwähnte Schreiben vom 30. oder 31. Dezember bei, das er nicht mehr rechtzeitig hatte absenden können. Am Abend des Neujahrstages, wohl nach einem der häufigen abendlichen Treffen mit seinem Bruder Thomas Blarer oder mit Konrad Zwick, bei denen diese aus dem Rat berichteten, verfasste Blarer das zweite Schreiben dieses Tages, unten Nr. 2060, das er zusammen mit dem vorliegenden Brief, aber eben nicht als Einlage, verschickte. - Die Thematik erlaubt eine sichere Zuordnung in das Jahr 1545.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 692 (Siegel)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 339, Nr. 1156.2</dr>
+^&x 2. Brief des Tages! Kopie 18. Jh.: Zürich ZB, Ms S 199, 225^&x{
+<re>Blarer wollte das beigelegte [nicht erhaltene] Schreiben schon am Vortag mit den Metzgern abschicken; er war aber zu spät. Nach Empfang von Bullingers [nicht erhaltenem] Brief entschied sich Blarer, die Zürcher mit einem eigenen Boten darüber zu benachrichtigen, dass es mit der Abfassung eines eidgenössischen Schreibens für den Städtetag nicht eilt. Dies teilt er mit, um unnötige Kosten durch eine verfrühte Einberufung der Eidgenossen zu vermeiden.
+-^#. Der Botenlohn [nach Zürich und zurück] beträgt 24 Batzen.</re>
+<tx>Diß ingelegt schreiben<f1>Das Schreiben, das Blarer hier erwähnt, ist wahrscheinlich ein nicht erhaltenes Schreiben vom 30. oder 31. Dezember 1544. Die Unterschiede in Faltung und Schnittspuren schließen einen Bezug auf HBBW XIV, Nr. 2054 oder 2056, wie Schieß dies vorschlug, aus. In diesem nicht erhaltenen Brief wird Blarer die Zürcher benachrichtigt haben, dass der von ihm am 28. Dezember 1544 angekündigte Städtetag schließlich nicht schon am 6. Januar stattfinden würde; s. oben HBBW XIV 600, 139-167.<fe> wolt ich euch uff gestert
+zuͦgeschickt haben by unsern metzgern; sind sy am tor gewesen,
+und byn ich aber der sach erst nach 9 ur bericht worden.
+Nachdem mir nun ewer schreiben<f1>Nicht erhalten. - Wahrscheinlich hat Bullinger Blarer als Reaktion auf ein früheres Schreiben (HBBW XIV 600, 139-167) mitgeteilt, dass die Zürcher sich bemühen werden, ein Schreiben an den Städtetag zu verfassen.<fe> hütt zuͦkommen, hab ich lang by mir deliberiert,
+ob ich euch widerum ain aignen botten zuͦschicken sölle;
+dann ich gesorget, diewyl ich euch geschriben, der stett tag werde nitt lang weren,<f1>währen. - Siehe HBBW XIV 601, 160f.<fe> und
+ich geachtet, man wuͤrde inen<f1>Die Abgeordneten zum Städtetag.<fe> schriben, es möchte in der yl ain kost ufftriben<f1>kost ufftriben: Kosten verursacht.<fe> werden,
+das vyllicht ettlich aidgnossen beschriben<f1>eingeladen, einberufen. - Zürich als Vorort ("vorderster Ort"; s. HBLS VII 299f) hatte u.a. die Aufgabe, außerordentliche Tagsatzungen einzuberufen oder alle Orte über gemeineidgenössische Angelegenheiten zu benachrichtigen.<fe> wurden, etc., des es aber nichts bedörffte.
+Dann ob man glych schreiben wellte, möchte es doch noch wol
+beschechen über etlych wochen, so die aidgnossen glich mitt guͦten statten<f1>mitt guͦten statten: wie es sich gehört.<fe>
+versamlet möchten werden<f1>bis sich die Eidgenossen [zu einer Tagsatzung in Baden] versammeln würden.<fe>. Und habs entlich für das nützest geachtet, so ich
+sunst nitt vergebene bottschafft hab,<f1>so ich sunst nitt vergebene bottschafft hab: da mir sonst keine kostenlose Botensendung zur Verfügung steht.<fe> ich schickte euch ain aignen botten, damitt
+nitt vyllicht vergebner kost<f1>vergebner kost: unnötige Kosten.<fe> ufftriben wurde.
+Derhalb wellt mirs um gottes willen zuͦ guͦt halten.
+Ich wellt gern allen unkosten verhuͤten; in sölichen zwyflichen dingen aber
+achten ich nützer sin, ouch ain gewissen klainen kosten darzestrecken, wa man
+ain grössern<fx>^#/+In der Vorlage^#/- grössen.<fe>, wie wol ungewissen, besorgen muͦß.
+^$Datum in yl, den newen jartag zuͦ zway uren nachmittag.<fx>^#/+Daneben von Traugott Schieß' Hand:^#/- 1545.<fe>
+^$Yeder bottenlon ist 12 batzen,
+tuͦt 24 batzen.
+<lz>[Adresse auf der Rückseite:] Meinem in sonder geliepten herren und bruͦder maister Hainrich Bullinger zuͦ Zuͤrich, zuͦ aignen handen.
+</content>
+</letter>

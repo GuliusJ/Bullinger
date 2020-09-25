@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2768">
+<brief>
+<id>17036</id>
+<nr>2768</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <to persid="GastJohannes"/> <place plid="Zürich"/> <date when="1547-01-25"/>
+<ae>Bullinger an Oswald Myconius oder Johannes Gast</ae>
+<od>[Zürich], 25. Januar [1547]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 441, 424 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 931f, Nr. 1047<k>Undat. Brief 170; Kopie 18. Jh.: Zürich ZB, Ms S 63, 46; Jahr: vgl. zum mißlungenen Versuch des Grafen von Fieschi, die Herrschaft der Doria über Genua zu stürzen, Blarer BW II 575</k></dr>
+<re><t>Myconius soll dafür sorgen, dass der beiliegende Brief durch den nächsten zuverlässigen Boten nach Straßburg an Bucer befördert wird, indem er das Schreiben etwa dem gemeinsamen Freund, dem Basler Stadtschreiber [Heinrich Ryhiner] (den Bullinger übrigens grüßen lässt), anvertraut.</t>
+<t>Vadian schreibt [nicht erhalten], dass Giannettino Doria, ein Beamter Kaiser Karls V., bei einem blutigen Aufruhr in Genua erstochen worden sei. Man habe den Urheber des Aufstandes, Graf Gian Luigi Fieschi, einen Anhänger des Papstes Pauls III., festgenommen. Er wollte, wie er gestand, Genua einnehmen und dem Papst übergeben. Dies sei von einem aus Mailand zurückgekehrten Mann [...] berichtet worden. Sollte die Nachricht stimmen (und möge sie zutreffen!), wird der Papst wohl auch erfahren, dass der Kaiser zum Fluss Styx [an der Grenze zum Totenreich] hinabgestiegen ist und von den römischen Kaisern Nero, Domitian, Diokletian und Julian gelernt hat, wie man das Evangelium ausrottet!</t>
+<t>In Ulm geht es schlimm zu. Die Spanier und Italiener benehmen sich so, wie man es von ihnen kennt. Gott erbarme sich! Der Kaiser hätte gestern dort einreiten sollen, ist aber angeblich krank.</t>
+<t>Am Samstag [22. Januar] erhielt Bullinger den Brief von Myconius [<qv>nr2761</qv>] durch den Zürcher Boten [Melchior Schlosser]. Am selben Tag zog die Zürcher Obrigkeit für das Banner und das Fähnlein 6'000 [richtig: 4'000] bzw. 2'000 Mann ein. Zudem werden die Vogteien [der Gemeinen Herrschaften] Thurgau und Sargans sowie die durch das Burgrecht mit Zürich verbündeten und verpflichteten Gebiete [in der Landschaft Zürich] wohl an die 2'000 weitere Mann stellen. [Für das Banner] wurde Bernhard von Cham zum Hauptmann, Andreas Schmid zum Bannerherrn, der alte [Rudolf] Schwyzer zum Vortrager, [Itelhans] Thumysen zum Schützenhauptmann, [Hans] Holzhalb zum Schützenfähnrich und Heinrich Lochmann zum [Schützen]vortrager ernannt. Für das Fähnlein wurde Seckelmeister Heinrich Rahn d.Ä. zum Hauptmann, Heinrich Kramer zum Fähnrich, Rudolf Lochmann zum Vortrager und Balthasar Keller zum Schützen bestimmt. Heute werden die Wachen und die Proviantmeister sowie die Hauptleute zu den Spießen und Hellebarden gewählt. Auch für Stein am Rhein und andere Orte sollen Hauptleute eingesetzt werden.</t>
+<t>Gruß, auch an Johannes Gast.</t></re>
+<text>
+<div>
+<p>S. D. <zzl>zl17036-5A</zzl>Hasce literas
+<fn>Vielleicht ein Brief des Bürgermeisters Hans Rudolf Lavater im Anschluss an den Brief der Zürcher Pfarrer <qv>nr2745</qv> vom 10. Januar in Zusammenhang mit der Weigerung von Lavaters Sohn Ludwig, am Abendmahl teilzunehmen.</fn> d. Bucero primo quoque tabellioni et certo quidem tradas, oro, Argentinam perferendas. Poteris id commode per archigrammateum
+<fn>Der Basler Stadtschreiber Heinrich Ryhiner.</fn>, comunem amicum nostrum, perficere, quem et salutabis.<zzl>zl17036-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17036-6A</zzl>D. Vadianus scribit
+<fn>In einem nicht erhaltenen Brief, den Bullinger dem Ambrosius Blarer zum Lesen weiterleitete; s. <qv>nr2774</qv>,<qv>zl17043-1</qv>.</fn> Ianuae (Genow)
+<fn>Genua.</fn> tumultuatum esse multo cum sanguine et transfixum quidem conto Ianingne de Doria
+<fn>Graf Giannettino Doria; s. <qv>nr2759</qv>, <qv>fn17027-6</qv>.</fn>, caesaris
+<fn>Karl V.</fn> officialem, occubuisse, conto autem de Flisco
+<fn>Gian Luigi Fieschi.</fn>, papisticum et seditionis authorem coniectum in vincula, confiteri, quod pontifici
+<fn>Paul III.</fn> voluerit Ianuam occupare et tradere. Haec retulit, qui
+<fn>Unbekannt.</fn> hisce diebus e Mediolano venit. <zzl>zl17036-8A</zzl>Quod si verum est, novit forte papa caesarem Stygias profectum ad undas
+<fn>Stygias undas: Der Fluss Styx in der Unterwelt, der die Grenze zum Totenreich (Hades) bildet.</fn> a Nerone
+<fn>Nero, römischer Kaiser von 54 bis 68, bekannt (wie auch die hier nachfolgend angeführten römischen Kaiser) als Verfolger der Christen.</fn>, Domiciano
+<fn>Domitian, römischer Kaiser von 81 bis 96.</fn>, Diocletiano
+<fn>Diokletian, römischer Kaiser von 284 bis 305.</fn> et Iuliano
+<fn>Julian, gen. Apostata, römischer Kaiser von 361 bis 363.</fn> artes discere, quomodo herbescens evangelium extinguat;<zzl>zl17036-8E</zzl> quod tam verum vellem, quam constanter a multis asseveratur.<zzl>zl17036-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17036-7A</zzl>Z{uo} Ulm gadts übel. Die hispanier und Italier th{uo}nd wie ir bruch. Gott erbarm sich der armen lüten! <zzl>zl17036-9A</zzl>Keyser hatt gester
+<fn>Er traf am Abfassungstag des vorliegenden Briefes in Ulm ein; s. <qv>nr2754</qv>, <qv>fn17022-3</qv>.</fn> ynryten s{oe}llen. Sagend wol, er lig imm holtz.
+<fn>im Holz liegen: Ein längerer Bettaufenthalt im warmen Zimmer, verbunden mit einer Fastenkur, oft bei Syphilis angewandt; s. <a>HBBW</a> XV 147, Anm. 15. Vgl. ferner <a>HBBW</a> XVI 177 mit Anm. 18.<zfn>fn17036-3</zfn></fn><zzl>zl17036-7E</zzl><zzl>zl17036-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17037-8A</zzl>Sampstags
+<fn>D.h. am 22. Januar.</fn> ist mir üwer schriben
+<fn>Myconius' Brief vom 20. Januar (<qv>nr2761</qv>).</fn> von unserm l{oe}uffer
+<fn>Sehr wahrscheinlich Melchior Schlosser. Zu seiner Entsendung nach Basel um diese Zeit s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 65 der Ausgabenabteilung für laufende Boten.<zfn>fn17036-2</zfn></fn> worden.<zzl>zl17037-8E</zzl> <zzl>zl17036-4A</zzl><zzl>zl17036-2A</zzl>Desselben tags habend min herren ußgenomen
+<fn>einberufen.</fn> z{uo} irem stattpaner und fenli
+<fn>Das Banner und das Fähnlein stehen für größere bzw. kleinere Truppenabteilungen.</fn>: Acht man, dem fenli 2'000 man, der paner 6'000
+<fn>Richtig: 4'000 Mann, wie aus der in Zürich StA, A 29.1 (Kriegs- und Reissachen), Aktenbündel Nr. 11, unter dem 22. Januar 1547, überlieferten Liste hervorgeht, in der die Zusammenstellung des damals einbezogenen Banners überliefert ist. - Ein entsprechende Liste für das Fähnlein ist nicht erhalten.<zfn>fn17036-1</zfn></fn>. Und diewyl die vogthien Durg{oe}w
+<fn>Thurgau.</fn> und Sargans an Zürych, werdint sy da ouch ußnemmen
+<fn>ausheben, mustern.</fn> sampt andern, die minen herren mitt burgr{ae}cht
+<fn>Das Burgrecht war eine staatsrechtlich bedeutende Verbindung städtischer Gemeinwesen durch Verträge und Bündnisse; s. <a>SI</a> VI 297. - In dem oben in <qv>fn17036-1</qv> angeführten Aktenbündel Nr. 11 sowie in Zürich StA, A 30.3, Nr. 153f, und B IV 17, f. 210r.-211r., befinden sich mehrere Dokumente im Zusammenhang mit den damaligen Musterungen in den Vogteien und Herrschaften der Landschaft Zürich.</fn> und pflicht verwandt: ouch ettwan in 2'000.<zzl>zl17036-2E</zzl> <zzl>zl17036-1A</zzl><zzl>zl17036-3A</zzl>Bernhart von Cham,
+<fn>Zu dieser Ernennung s. schon <a>HBBW</a> XVIII 18f.</fn> ein trüw, redlich man, houptman;<zzl>zl17036-1E</zzl> Anderes Schmid,
+<fn>Andreas Schmid (Faber).</fn> vast trostlich,
+<fn>vast trostlich: sehr nützlich (im Kriegsfall); s. <a>SI</a> XIV 1429f.</fn> panerher; der allt m. Schwyzer
+<fn>Rudolf Schwyzer. - Der Vorname (wie auch der der unten aufgeführten Personen) wurde anhand der oben in <qv>fn17036-1</qv> erwähnten Liste ergänzt. - Da Rudolf Schwyzer hier mit "m." bezeichnet wird, handelt es sich vermutlich um den Zunftmeister zur Zimmerleuten, gest. am 8. März 1564; s. <a>Schnyder, Ratslisten</a> 605.</fn> vortrager
+<fn>Adjutant des Fähnrichs; s. <a>SI</a> XIV 538.</fn>; m. Dumysen
+<fn>Itelhans Thumysen.</fn> schützenhouptmann; m. Holtzhalb
+<fn>Hans Holzhalb.</fn> schützenfenrych; Heinrych Lochman vortrager
+<fn>Heinrich Lochmann, als Vorträger des "schützenfenrich" laut der oben in <qv>fn17036-1</qv> angeführten Liste.</fn>; seckelmeister Heinrych Raan
+<fn>Heinrich Rahn.</fn>, der allt, houptman zum fenly; m. Heinrych Kramer
+<fn>Es kommen folgende Personen in Frage: 1) Heinrich Kramer, gest. 28. Januar 1552, 1532 Zunftmeister zur Schmiden, Natalrat 1532-1552; 2) Heinrich Kramer, gest. 2. Juni 1559, Metzger, 1542 Zunftmeister zum Widder, Natalrat 1542 bis 1546, 1547-1553 Vogt zu Grüningen, Baptistalrat 1553-1558. - Heinrich Kramer, Hufschmied, geb. 15. April 1529, gest. 13. Oktober 1594, Natalrat 1586-1594, der erst viel später Zunftmeister zur Schmiden wurde, ist hier kaum gemeint. - Lit.: <a>Schnyder, Ratslisten</a> 571; <a>Dütsch, Landvögte</a> passim.</fn> fenrych; Rodolff Lochman
+<fn>Rudolf Lochmann, geb. 1510, gest. am 20. April 1557. Zunftmeister zur Schiffleuten, im Natalrat von 1554 bis 1557; s. <a>Schnyder, Ratslisten</a> 591.</fn> vortrager; Baltazar K{ae}ller
+<fn>Möglicherweise handelt es sich um Balthasar Keller, gest. 11. Februar 1554, der von 1529 bis 1540 als Zunftmeister der Schneidern im Kleinen Rat saß. 1547 erneut Ratsherr, später Fraumünsterammann; s. Christa <i>Köppel,</i> Von der Äbtissin zu den gnädigen Herren. Untersuchungen zu Wirtschaft und Verwaltung der Fraumünsterabtei und des Fraumünsteramts in Zürich 1418-1549, Zürich 1991, S. 92; <a>Schnyder, Ratslisten</a> 309, obere Anm. 1.</fn> schützen zum fenlihouptman.<zzl>zl17036-3E</zzl> <zzl>zl17037-9A</zzl>Hütt ordnet man wacht und provandtmeister, z{uo} den spiessen, helmbarten houptlüt,
+<fn>Die Namen der Wachtmeister sowie der Hauptleute zu den Spießen bzw. den Hellebarden sind in der oben in <qv>fn17036-1</qv> erwähnten Liste angeführt.</fn> item gen Stein am Rhyn
+<fn>Siehe dazu das auf den 31. Januar 1547 datierte und an den Zürcher Rat gerichtete Schreiben aus Stein am Rhein, das im oben <qv>fn17036-1</qv> angeführten Aktenbündel Nr. 11 erhalten geblieben ist.</fn> und anderschwo hin houptlüt.<zzl>zl17036-4E</zzl><zzl>zl17037-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17037-23A</zzl>Gott mitt uns. Valeat et Gastius.<zzl>zl17037-23E</zzl> 25. ianuarii.</p>
+<un>Bullinger.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An herren Oßwalden Myconien oder in sinem abw{ae}sen an herren Hansen Gasten, predicanten z{uo} Basel
+<fa><i>Anmerkung von anderer Hand als Überschrift für ein Briefbündel:</i> Bullingeri ad d. Myconium, pastorem Basiliensem, literae Basilaea remissae. <i>- Diese Briefe wurden nach Myconius' Ableben von Bullinger zurückgefordert; s. <a>Henrich, Myconius BW</a> 80.</i></fa>.</p>
+</div>
+</text>
+</brief>

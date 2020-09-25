@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1272">
+<nr>1272</nr>
+<correspondents>
+	<originator>Pierre Viret</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lausanne</place>
+	<date>15. Mai 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 337a, 317 (Siegelspur)</vo>
+<re>Entschuldigt sich für die Kühnheit, ihn erneut mit einem Brief zu belästigen; weiß nicht, ob sein erstes Schreiben, zu
+dem ihm Grynäus den Anstoß gab, angekommen ist. Empfiehlt einen Glaubensbruder [Jean Ribit?], der sich einige Monate als Kostgänger von Konrad [Geßner] [in Lausanne] aufhielt. Grüße.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs V 310-312, Nr. 788; Übersetzung ins Französische: Pierre Viret d'après lui-même, hg. v. Charles Schnetzler, Henri Vuilleumier und Alfred Schroeder, Lausanne 1911, S. 40-42, Nr. 3.]
+</content>
+</letter>

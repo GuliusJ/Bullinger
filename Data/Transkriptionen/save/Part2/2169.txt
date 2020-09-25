@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2169">
+<nr>2169</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>2. Juni 1545</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 39 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 368, Nr. 1189<f1>Mit falschem Datum vom 3. Juni 1545.<fe></dr>
+^&xKopien 18. Jh.: Zürich ZB, Ms S 57, 116; Ms S 199, 380r.-v.^&x{
+<re>Bullinger empfiehlt den Überbringer Johann Rudolf Stumpf. Sein Vater Johannes Stumpf, der ["Des grossen gemeinen Conciliums zuͦ Costentz gehalten ... beschreybung"] verfasst hat, möchte, dass sein Sohn in Konstanz studiert, weil er Gutes über die dortige Schule gehört hat. Da er niemanden in Konstanz kennt, hat er Bullinger gebeten, seinen Sohn zu empfehlen. Aus Zeitmangel richtet sich das vorliegende Schreiben sowohl an Blarer als auch an den Lehrer [Matthias Schenk] und bittet Letzteren, einen geeigneten Kostgeber für den noch der Aufsicht bedürftigen guten Knaben zu finden. Gerne werden sich [die Zürcher] den [Konstanzern] in gleicher Weise gefällig erweisen. Sollte Blarer nicht wissen, wer [Johannes] Stumpf ist, so möge er sich erinnern, dass er ihr Gastgeber war, als sie sich [am 11. Mai 1544] in Stammheim trafen. Der Großvater Johann Rudolfs mütterlicherseits ist Heinrich Brennwald, der Propst von Embrach.
+-^#. Grüße, besonders an [Schenk].</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Venit ad vos Ioannes Rodolphus Stumppffius, optimae spei adolescens<f1>Johann Rudolf Stumpf, geb. 28. August 1530 in Bubikon, gest. 19. Januar 1592 in Zürich, Sohn von Johannes Stumpf und Regula, geb. Brennwald. Nach Studien in Konstanz und Zürich reiste er im März 1549 mit dem englischen Exilanten und späteren Bischof von Gloucester, John Hooper, nach England. Ab Mai 1549 bis mindestens Mai 1550 besuchte er, ohne sich in die Matrikel eintragen zu lassen, Vorlesungen am Christ Church College, Oxford (Epistolae Tigurinae 460-462, Nr. CCXX), zusammen mit Johannes von Ulm und später auch mit Christoph Froschauer d.J., mit dem er nach dem Rückruf durch den Vater im Oktober 1551 wieder auf den Kontinent zurückkehrte. Im Januar 1552 traf er bei seinem Vater in Stammheim ein. Von September 1552 bis Pfingsten 1553 erhielt er in Zürich vier Mal 12,5 lb. (= 25 Rechnungsgulden; s. Zürich StA, G II 39/3) als "Wartgeld" (ein Einkommen während des Wartens auf eine Stelle; s. Bullingers Stipendiatenlisten, ZB Zürich, Ms F 95/1, Nr. 109; Ms Car C 44, 932, Nr. 113 - für freundliche Auskunft danken wir Rainer Henrich). Während dieser Zeit besuchte er wohl Vorlesungen und Predigten und versah ab 13. Dezember 1552 Samuel Pellikans Stelle als Vikar in Albisrieden (Kt. Zürich), ehe er am 3. Juni 1553 zum Pfarrer in Kilchberg (Kt. Zürich) ernannt wurde (Zürich StA, G I 179, f. 21r.). 1583 Dekan des Seekapitels, 1585 Pfarrer an der Zürcher Predigerkirche und 1586 Antistes. 1553 Heirat mit Margaretha Röuchli, 1586 mit Margaretha Jäger. Stumpf d.J. gab 1586 die Beschreibung der Eidgenossenschaft seines Vaters neu heraus und hinterließ zahlreiche ungedruckte Predigten. Von seiner Korrespondenz mit Bullinger sind sechs Briefe aus Oxford von 1549 bis 1550 erhalten, daneben zwei Briefe Bullingers an ihn von 1550 und 1559. - Lit.: ^#/+Pfarrerbuch^#/- 555; HBLS VI 592; Epistolae Tigurinae und Original Letters (Reg., und neben den Briefen Stumpfs bes. die von John Hooper, Johannes von Ulm und Christoph Froschauer d.J.); Attilio ^#/+Bonomo,^#/- Johannes Stumpf, der Reformator und Geschichtsschreiber, Diss. phil. I Zürich, Genua 1923, S. 55. 86-93.<fe>,
+praesentium lator,d. Ioannis Stumppffii<f1>Das vorliegende Empfehlungsschreiben wurde dem Brief Bullingers an Johannes Stumpf vom gleichen Tag beigelegt; s. unten Nr. 2170, 17f.<fe>,
+qui consilium Constantiense descripsit et edidit,<f1>Johannes ^#/+Stumpf,^#/- Des grossen gemeinen Conciliums zuͦ Costentz gehalten ... beschreybung, [Zürich, Christoph Froschauer, 1541] (VD 16 S 9868; BZD C 300).<fe> filius, discendarum literarum bonorumque morum gratia.
+Pater, ut est vir pius et honestatis amantissimus, intellexit et institutionem optimam
+et disciplinam sanctissimam adolescentium apud vos florere. Cupivit ergo vestrae institutioni
+et disciplinae filium suum, quem vellet sanctissime institutum, subdere.
+Quia vero apud Constantienses nullos novit, quibus illum commendet, me rogavit, ut amicis scriberem.
+Libenter eum suscepi laborem, praesertim cum aliquid et apud te et apud ludi literarii moderatorem<f1>Matthias Schenk, der von 1543 bis 1548 die Konstanzer Lateinschule leitete; s. HBBW XIV 452f, Anm. 29.<fe> posse confidam.
+Non vacabat autem utrique sigillatim scribere; unis<f1>unis literis.<fe> ergo adolescentem utrique volui commendare,
+ac te quidem primum per nostram amicitiam oro, ut adolescenti non desis, sed iuves, quo possit commodo et honesto uti hospicio.
+Verum cum hic sciam te usurum opera ludi moderatoris (nolui enim hac re gravari te longe maioribus occupatum),
+etiam illum oro, ne quid hic diligentiae, humanitatis et fidei nobis neget.
+Adolescens est bonus et tractabilis, sed qui tamen pro iuvenili ingenio moderatore strenuo et disciplina indiget iusta.
+Quod si paria aliquando vestratibus conferre licet, sedulos nos exhibebimus.
+Ac si nescis, quis ille Stumpffius sit, scias illum esse hospitem nostrum, cuius usi sumus humanitate, cum Stameniae colloqueremur<f1>Am 11. Mai 1544 hatten sich Bullinger und Blarer in Stammheim zur Beratung über Konrad Zwicks Kriegskunst getroffen; s. HBBW XIV, Nr. 1904, 19-21; Nr. 1906, 2-21. 54-56.<fe>.
+Avus adolescentis maternus est praepositus Embracensis Heinrychus Brennwald<f1>Heinrich Brennwald, seit 1518 Propst in Embrach, übergab 1524 das dortige Chorherrenstift an Zürich. Seine Tochter Regula heiratete 1529 Johannes Stumpf; s. HBBW III 26, Anm. 1; HBBW IV 76, Anm. 1.<fe>, de pietate optime meritus.
+^$Vale et me semper commendatum habe. Salutabis fratres et amicos, imprimis ludi literarii magistrum.
+^$Tiguri, 2. iunii anno 1545.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Praestantissimo virod. Ambrosio Blaurero, fratri et amico incomparabili et semper colendo<fx>^#/+Darunter von Blarers Hand das Empfangsdatum:^#/- 18. Iunii 1545.<fe>.
+</content>
+</letter>

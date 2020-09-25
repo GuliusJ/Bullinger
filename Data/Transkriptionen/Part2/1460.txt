@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1460">
+<nr>1460</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>8. Februar 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 351, 2r.-8v. (neu: 16r.-22v.) (Siegelspur); Teilabschrift von Bullingers Hand: Zürich ZB, Ms Car C 43, 84v.-88v., 90v.-91r., 142r. und 153v. Autographe Beilage: Zürich StA, E II 440, 49-58; Abschrift von Bullingers Hand: Zürich ZB, Ms Car C 43, 142v.-144r.,
+153v.-155r., 238v.-240r.</vo>
+<dr>Gedruckt: Melchior ^#/+Goldast,^#/- Alamannicarum rerum scriptores aliquot vetusti, Bd. II, Frankfurt a. M. 1606, S. 82-86 [Ed. Frankfurt a. M. 1661, S. 59-62; Ed. Frankfurt a. M.-Leipzig 1730, S. 61-64]<fx>^#/+Goldast veröffentlichte den Brief unter dem Titel "Ioachimi Vadiani de obscuris Alemannicorum verborum significationibus epistola ad Heinricum Bullingerum". Seine Ausgabe weicht vielfach von dem nach Zürich
+gesandten Schreiben ab und wurde wohl nach einem verschollenen Entwurf Vadians gefertigt (s. die Bemerkungen in Vadian BW VI 4; zum Zugang zu Vadians Manuskripten und zur Verwendung von dessen Werken durch Goldast vgl. Rudolf Gamper, Die Bücherdiebstähle des Melchior Goldast in St. Germain, in: Lesen
+- Schreiben - Drucken, hg. v. Marcel Mayer u. a., St. Germain 2003, S. 73-88, Anm. S. 144-147). Goldasts Varianten werden nach der Ausgabe 1606 unter dem Sigel "G" verzeichnet, wobei rein orthographische Abweichungen sowie Wortumstellungen bei gleichem Wortbestand keine Berücksichtigung
+finden.^#/-<fe>; Teildruck<fx>^#/+Druck der Anfangs- und Schlusssentenz, ohne die Erläuterungen zu den Urkunden.^#/-<fe>: Vadian BW VI 3f, Nr. 1150. Beilage ungedruckt</dr>
+^&xK:ZZB, Ms S 49, 22; Erw. JSG 31, 1906, 62; B. Hertenstein 27. 38. 47(A). 55f. 64(A). 66(A). 122. 140. 178.^&x{
+<re>Sendet Dokumente der fränkischen Geschichte zurück [ZUB I, Nr. 37/Umarbeitung, 68 und 343], die er mit Genuss gelesen und Bullingers Bitte gemäß übersetzt hat; bei der Übersetzung ins Deutsche war er der Klarheit halber teilweise gezwungen zu paraphrasieren, statt wörtlich zu übersetzen.
+Man liest, dass die Schreiber jener Epoche [des 9. Jahrhunderts] so ungebildet waren wie kaum sonst je; Vadian war es deswegen unmöglich, alle sprachlichen Eigenheiten der Dokumente angemessen wiederzugeben; er hat zum Teil auch Korrekturen angebracht, wie etwa bei der Schenkungsurkunde Ludwigs des
+Deutschen, wo es ihm sinnvoll erschien, die Anfangssentenz auf einen größeren Personenkreis zu beziehen.
+- Erläuterungen zu den übersetzten Urkunden und zur mittelalterlichen Urkundenterminologie: [1.] Das Eigentum [und den Bereich der Grundherrschaft] betreffende Begrifflichkeit:
+Mit "allodium" wird der rechtlich gesicherte [volleigene] Besitz bezeichnet; nach Beatus Rhenanus geht die Bezeichnung auf das Wort "anlodt" zurück; unterschiedliche Deklination von "mansus" in den alten Urkunden. Für die dem Ehrschatz unterliegenden Güter musste bei einem Besitzerwechsel eine
+Handänderungsgebühr entrichtet werden;
+"terra salica" bedeutet ein unter gewissen Bedingungen bewirtschaftetes Freilehen- oder auch Freieigengut, dessen Pächter nur bei Verletzung der Vertragsbedingungen enteignet werden darf; die Quittung der vertraglichen Vereinbarung wird Reversbrief genannt, die Verpachtung insgesamt Erblehen;
+diese Form der Bewirtschaftung war abgabenpflichtig, wie aus den Pandekten Justinians hervorgeht, nicht aber der Willkür des Grundherrn ausgesetzt; im Zeitalter Justinians wurde mit dem Begriff "emphyteusis" die enge Bindung des Pächters an sein Erblehen zum Ausdruck gebracht;
+"[ius] emphyteuticum" ist deutsch mit "Erblehenrecht" zu übersetzen; Erblehen deshalb, weil das Lehen auf die Erben und Nachfahren übergeht;
+solcher Grundbesitz wurde bei den Alemannen und Franken mit dem Wort "mansus" bezeichnet; da den Höfen der Unterhalt des zuständigen Geistlichen auferlegt war, nannte man diese Höfe nach der menschlichen Kehle gewöhnlich "Kelnhöfe";
+diese [Einkünfte] waren eigentlich für die Pfarreien bestimmt, wurden ihnen aber von den Mönchen zunehmend durch Inkorporation entzogen; bis heute ist das Wort "Kelnhof" vor allem bei den Benediktinern bekannt geblieben.
+"Mansus" wurde von den Franken als Sammelbegriff für "Hof" verwendet, "terra salica" bedeutete Freieigengut, das aus dem Erbe an die männlichen Nachkommen fiel;
+der Begriff fand oft Erwähnung in den Urkunden der fränkischen Könige; die Schenkungsurkunden wurden in jener Zeit als "chartae" bezeichnet, von denen sich viele in deutschen Klöstern erhalten haben.
+[2.] Der Begriff "curtis" bedeutet wie "cors/cohors" grundsätzlich Versammlung oder Versammlungsort, wurde aber von den fränkischen Schreibern auf verschiedene Weise verwendet, reicht die Palette der Anwendungen doch vom königlichen Hof bis zu einem Weideplatz;
+es scheint Vadian, ihm sei eine ähnliche Verwendung des Wortes "cohors" im Codex Justinianus begegnet, er kann sich allerdings nicht mehr an die genaue Stelle erinnern; "curtis" meint aber auch Gerichtsbarkeit und Herrschaftsgewalt; kommt Letztere in quasi reiner Form vor, nennt man sie in deutscher
+Sprache "Hochgericht" oder "hohe Obrigkeit", eine gemischte Herrschaftsgewalt liegt hingegen vor, wenn sich in einer Herrschaft hohe und niedere Gerichte vorfinden, wie dies ohne Zweifel im zürcherischen Herrschaftsbereich Ludwigs [des Deutschen] der Fall war.
+Die niedere Gerichtsbarkeit - ohne Malefizhoheit - wurde häufig den Klöstern und Kirchen übertragen; lange Zeit scheuten sich die Kirche und die Städte jenes mittleren Zeitalters vor der Übernahme der hohen Gerichtsbarkeit, im Gegensatz zu den Mönchen und Bischöfen der späteren Zeit;
+eine "curtis" ist immer verbunden mit einer Form von Gerichtsbarkeit und Herrschaftsgewalt und kann deutsch mit "Vogtei" umschrieben werden, die jeweiligen spezifischen Rechte differieren aber;
+Helvetien war, wie die alten Urkunden bezeugen, vollständig der harten fränkischen Herrschaft unterworfen; die "curtes" und auch die ungleich größeren "pagi", die deutsch mit "Gegenden/Bezirke" oder "Gaue" wiederzugeben sind, werden von Grenzen umfasst, die mit "marcae" bezeichnet werden; ein
+"pagus" wurde von einem Grafen regiert und war in mehrere "curtes" gegliedert, diese wiederum in mehrere Dörfer und Höfe.
+[3.] Weitere erklärungsbedürftige Ausdrücke: "Vestitura" bedeutet dasselbe wie Investitur und kann deutsch mit "Lehenbestätigung" übersetzt werden; "distringere" bedeutet "vor Gericht zitieren", ein in den alten Volksrechten häufiger Ausdruck; "fredus" entspricht dem Wort "Frieden", genauer dem
+Friedstand oder Landfrieden, wobei der Begriff die dem Friedbrecher gesetzlich angedrohten Strafen, die auch heute noch drastisch sind, in sich enthält; hinsichtlich des Bannes wird ein größerer und ein kleinerer Bann unterschieden, der größere kommt dem König zu, bei beiden wird für eine
+Übertretung ein Geldbetrag fällig; von anderer Art ist der Bann, der deutsch mit "Acht" oder "Reichsacht" wiedergegeben wird.
+Soviel zu den Sachausdrücken, weitere Worterklärungen finden sich in Vadians Schrift über die alten Stifte und Klöster Deutschlands. - Zu Berthold [V.], Herzog von Zähringen, der in einer Urkunde erwähnt wird, ist zu bemerken, dass er nicht dem großen Burgunderreich vorstand, sondern nur einem
+diesseits des Juras gelegenen Teil davon, ein Gebiet, das heute unter Berner, Solothurner und Freiburger Herrschaft steht; seinen Herrschaftssitz hatte Berthold in Burgdorf; das ganze Gebiet diesseits des Juras von Aare und Neuenburgersee bis [an den Genfersee] und ins Wallis gehörte einst zu
+Burgund.
+Über Zürich hat Otto von Freising in seiner Chronik, die Bullinger ja zur Hand hat, einiges geschrieben. Die Verwendung des Begriffs "redhibitio" in der Schenkung Ludwigs [des Deutschen] dokumentiert den Einfluss römischer Rechtsterminologie auf die fränkische und alemannische Urkundensprache.
+Gemäß Ulpians Definition bedeutet "redhibitio" die Rückgängigmachung eines Kaufes, welche Möglichkeit zum Schutz vor Missbräuchen diente; solche Betrügereien im Zusammenhang mit Kauf und Verkauf schildert das 21. Buch der Digesten. Derselbe Missbrauch lag bei der "Aufhebung der Bürgen" vor, was
+ebenfalls in der Urkunde Ludwigs erwähnt wird, wenn eine legitime Bürgschaft für rechtswidrig ausgegeben und in der Folge aufgelöst wurde. Die Bestätigung der zur Propstei Zürich gehörigen Kirchen in der Urkunde Bertholds [V. von Zähringen] bezieht sich auf Kirchen der zur Pfarrei gehörigen
+Landschaft.
+Vadian übersendet ein von einem St. Galler Mönch verfass­tes Epitaph auf Hildegard, die erste Äbtissin des Fraumünsterstifts, das in einem Codex der St. Galler [Stifts-]Bibliothek überliefert ist. Epitaph auf Hildegard, zusammen mit einem Nekrolog-Eintrag und einer Bauinschrift für die
+Fraumünsterkirche. Diese kunstvollen Zeilen des mönchischen Verfassers stehen ganz im Gegensatz zu den heutigen, durch Müßiggang gemästeten Vertretern des Mönchtums, die nichts weniger lieben als Bildung und Gelehrsamkeit.
+Bullinger weiß besser Bescheid über diese [besprochenen] mittleren Zeitalter der Franken und Alemannen, Vadian bittet um gelegentlichen Rat und um eine lateinische Abschrift der Gründungsurkunde des Klosters Reichenau; vermutet, dass sich eine solche in Bullingers Besitz befindet, da dieser ihm ja
+eine wohl von ihm selbst verfertigte deutsche Übersetzung zugesandt hat;
+Vadian bittet außerdem um die Chronik [Hermanns] des Lahmen aus Bullingers Bibliothek, falls er diese nicht aus anderer Quelle beschaffen kann. Dank für einen Brief Bullingers, den Vadian zusammen mit einem von [Simon] Grynäus verfertigten Hekatostichon erhalten hat. Kaiser Karl [V.] ist mit großem
+Geleit nach Nürnberg unterwegs, die Papisten wollen eine Übereinkunft verhindern; Grüße, auch an Frau und Kinder sowie an die Kollegen. Beilage: Drei von Vadian übersetzte, das Zürcher Großmünster und Fraumünster betreffende Urkunden: 1. Verzeichnis der Besitzungen des Großmünsters, 2. Bestätigung
+Herzog Bertholds [V.] von Zähringen betreffend die Wahl des Leutpriesters durch die Chorherren der Propstei Zürich und Bestellung zweier Hilfspriester, 3. Stiftung der Fraumünsterabtei durch Ludwig den Deutschen.
+</re>
+<tx>S. Remitto humanitati tuae Francicas illas antiquitates,
+exempla videlic[et]<fx>^#/+Textverlust durch Randbeschnitt, der jeweils die Recto-Seiten tangiert; hier und im Folgenden - wo möglich - ergänzt nach G.^#/-<fe> veterum tabularum<fx>exempla videlic[et] veterum tabularum ^#/+fehlt in G.^#/-<fe>, quae<fx>^#/+In G^#/- quas.<fe> sane magna cum
+voluptate, sed et fructu non mo[di]co, legi, et petenti<fx>petenti ^#/+fehlt in G.^#/-<fe> tibi<f1>Eine entsprechende Bitte Bullingers ist nicht erhalten.
+Vadian galt nach der Abfassung der zu seiner Zeit ungedruckt gebliebenen "Farrago de collegiis et monasteriis Germaniae veteribus" (1537) (St. Germain Kantonsbibliothek [Vadiana], Ms 48, f. 1-116; Abdruck in: ^#/+Goldast,^#/- aaO, Bd. III, S. 1-111) als Experte der frühmittelalterlichen Geschichte,
+vgl. Bullingers diesbezügliche Bemerkung in seiner Tigurinerchronik (Zürich ZB, Ms Car C 43, f. 153r.-v.):
+"hab ich [...] an h. doctorn Vadianum geworben, alls den, der in sömlichen allten instrumenten und vergabunges brieffen wol geruͤmpt [...]."
+Vadian konnte für seine an Bullinger gerichteten Erklärungen auf seine "Farrago" zurückgreifen, die ähnlich wie im vorliegenden Brief Probleme der mittelalterlichen Urkundenterminologie und Diplomatik behandelt.
+Aspekte von Vadians Beschäftigung mit dem Mittelalter behandelt Bernhard ^#/+Hertenstein,^#/- Joachim von Watt (Vadianus), Bartholomäus Schobinger, Melchior Goldast. Die Beschäftigung mit dem Althochdeutschen von St. Germain in Humanismus und Frühbarock, Berlin-New York 1975. - Das Althochdeutsche von
+St. Germain. Texte und Untersuchungen zur sprachlichen Überlieferung St. Germains vom 8. bis zum 12. Jahrhundert 3, bes. S. 19-87.
+<fe>
+in aliquot literis transferendis gessi morem,<f1>Zu den von Bullinger übersandten Urkunden und Vadians autographen Urkundenübersetzungen vgl. unten die Beilage, Anm. ***, *** und ***.<fe>
+ in quib[us]
+tamen nostram in linguam conversis<fx>nostram in linguam conversis ^#/+fehlt in G.^#/-<fe> ob sensus claritatem
+assequendam paraphrasten quendam<fx>quendam ^#/+fehlt in G.^#/-<fe> agere coactus sum, quum
+verbum verbo reddere non d[a]retur, nisi una inscitiam<fx>inscitiam ^#/+fehlt in G.^#/-<fe> et
+barbariem prodere libuisset<fx>^#/+In G^#/-libuerit.<fe>.
+^$Saecula ista lo[n]ge
+incultissima tale genus scribas<fx>^#/+Der erste Buchstabe von Vadian korrigiert aus^#/- g.<fe> habuere<fx-t>^#/+In G^#/- habuerunt vel in aulis et curiis principum, ut assequi Latina lingua non valuerint, quo.<fe> in aulis etiam et
+curiis princ[i]pum, quale nulla alia vel vetusta vel
+recentia habuisse leguntur, et ea linguę scabricies<f1>Zu ergänzen ist "fuit" o. ä.<fe>, ut<fx-x>^#/+In G^#/- habuerunt...<fe>
+rem ullam vel clare vel inoffensa ve[r]borum simplicitate<fx-t>^#/+In G^#/- simplicitate posteris relinquerent .<fe>
+referre in literas nullo modo potuerint<fx-x>^#/+In G^#/- simplicitate...<fe>. Quum nemo tame[n]<fx>tame[n] ^#/+fehlt in G.^#/-<fe>
+interim vernacula lingua quicquam scriberet adeo dura illo
+tempore, ne<fx>^#/+In G^#/- ut ne.<fe> ore quidem exprimi sine magnis sibilis
+hiatibusque et rictibus potuer[it], nedum calamo commodum
+depingi<fx>^#/+In G^#/- in literas commodum referri ^#/+statt^#/- calamo commodum depingi.<fe>. Mutavi autem alicubi persona[s]<fx>^#/+In G^#/- Mutavi alicubi et personam ^#/+statt^#/- Mutavi autem alicubi persona[s].<fe>, ut in Ludewici
+iunioris<f1>Ludwig II. der Deutsche, ostfränkischer König. Geb. um 805, gest. 876, Sohn Kaiser Ludwigs des Frommen, s. Wilfried ^#/+Hartmann,^#/- Ludwig der Deutsche, Darmstadt 2002; Ludwig der Deutsche und seine Zeit, hg. v. Wilfried Hartmann, Darmstadt 2004; Wilhelm ^#/+Störmer,^#/- in: LMA V
+2172-2174 (Lit.).<fe> donatione in principio<f1>Vgl. unten Z. ***.<fe>, ubi mihi visum es[t] communem
+sententiam, qua praefationis loco scriba est usus, rectius ad
+omnes eo modo<fx>eo modo ^#/+fehlt in G.^#/-<fe> liberales principes quam ad solum Ludewicum
+referr[i].<f1>Zur Urkunde Ludwigs des Deutschen vgl. unten die Beilage 3, mit Anm. ***.<fe> Plus enim gravitatis habet sensus hoc modo
+redditus, ut<fx>^#/+In G^#/- dum.<fe> omnium liber[a]litati merces coelestium rerum
+constituta intelligatur<fx>^#/+In G^#/- intelligitur.<fe>, quam si uni alicui<fx>alicui ^#/+fehlt in G.^#/-<fe> so[lum]
+tribuatur. Verum<fx-t>^#/+In G^#/- Sed tuum erit isthaec.<fe> tui erit iudicii isthaec<fx-x>^#/+In G^#/- Sed...<fe> vel sinere vel
+mutare pro a[ni]mi sententia.
+^$De<fx-t>^#/+In G^#/- De vocabulis nonnullis illorum temporum.<fe> vocabulis autem quibusdam<fx-x>^#/+In G^#/- De vocabulis...<fe>, quibus Franci et Alemanni
+veteres<fx>veteres ^#/+fehlt in G.^#/-<fe> sunt usi, haud<fx-t>^#/+In G^#/-equidem facile non responderim, nisi et coniectutis[!] agere liceat.<fe> facile petenti tibi responderim , ni
+et coniecturae locum cedas<fx-x>^#/+In G^#/- equidem facile... <fe>; hac<fx>^#/+In G^#/- iis.<fe> enim tutius utemur<fx>^#/+In G^#/- utimur.<fe>, etiamsi
+pluscula pe[rspec]ta et probe cognita teneamus. Ac primum
+quidem<fx>Ac primum quidem ^#/+fehlt in G.^#/-<fe> praedii voc[e] <vl>2v. (16v.)</vl> nec inepte mihi usi videntur
+scribę<fx-t>^#/+Fehlt in G.^#/-<fe> illi utcunque insulsi<fx-x>^#/+Fehlt in G.^#/-<fe> nec barbare, quum praedii
+nomine<fx>^#/+In G^#/- ea ^#/+statt^#/- praedii nomine.<fe> ceu generali agros, hortos, pascua, salicta<fx>salicta ^#/+fehlt in G.^#/-<fe>, vineta,
+aedificia et alia id genus fundi nomine comprehensa<fx>fundi nomine comprehensa ^#/+fehlt in G.^#/-<fe>
+significarunt, quae in nostra sunt possessione. Quippe<fx>^#/+In G^#/- ut.<fe> et
+salica terra et allodium et mansa in prędiis censeri
+potuerant<fx>^#/+In G^#/- potuerint.<fe>.
+Alodia<fx-t>^#/+In G^#/- Quanquam enim Alodia nobilium erant .<fe><f1>Allod/Allodium bezeichnet das in vollem Eigentum stehende Gut, im Gegensatz zum Lehngut. Spezieller bezeichnet es das Familienerbgut, s. W. ^#/+Goez,^#/- in: HRG I 120f.<fe> enim tametsi nobilium erant<fx-x>^#/+In G^#/- Quanquam enim...
+<fe> ceu gentilitia
+quaedam bona, quae non ullius beneficio, sed<fx-t>^#/+In G^#/- sed iure proprio tenebantur.<fe> iure quodam, ut
+sic dicam, suo tenebantur<fx-x>^#/+In G^#/-sed iure... <fe>, tamen ex lege de alode, quae
+inter Alemannicas, nisi<fx>^#/+In G^#/- ni.<fe> fallor, extat, aliorum<fx-t>^#/+In G^#/- apparet et aliorum alodia fuisse.<fe> quoque alodia
+fuisse apparet<fx-x>^#/+In G^#/-apparet...<fe>. Recipio autem Rhenani<f1>Beatus Rhenanus.<fe> coniecturam vocem
+alodii<fx>alodii ^#/+fehlt in G.^#/-<fe> inde natam arbitrantis, quod ea bona familiis velut
+coagmentata et coniuncta essent, "anlodt".<f1>Beatus Rhenanus, Rerum Germanicarum libri tres, Basel (Offizin Froben) 1531 (VD 16 R 2064), S. 90: "Haec proprii iuris erant, fortasse Germanico vocabulo sic dicta, quod familiae velut coagmentata sint et coniuncta, hoc est inseperabilia a familia, ein
+Anlod."<fe> Mansum<fx>^#/+Vor^#/- Mansum ^#/+in der Vorlage ein Absatzzeichen, das auch im Folgenden nur wiedergegeben wird, wenn es Bestandteil einer Quellenangabe ist.^#/-<fe><f1>Zum Begriff "mansus" vgl. unten Anm. ***.<fe> Alemanni
+fundum dixere cum villula. Scribę barbari, qui<fx-t>^#/+Fehlt in G.^#/-<fe> sine
+regula quaslibet sibi terminationes usurparunt<fx-x>^#/+Fehlt in G.^#/-<fe>, mansam etiam
+vocarunt<fx-t>^#/+In G^#/- vocarunt, sed chartae veteres puriores mansum masculino et in flexione quarta, licet et mansos legerim in multis. Tanta scribarum imperitia fuit, clostarium etiam pro claustro ponere ausa.<fe> et mansos etiam, quod in pluribus chartis
+invenimus. Ea enim imperitia fuit quorundam, ut "clostarnum"
+etiam Latina declinatione pro "claustro" scribere non
+dubitarint.<f1>In seiner "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 64) zitiert Vadian aus einer frühmittelalterlichen Urkunde, wobei er "clostareum" [sic] als korrupte Form von "claustrum" deutet und durch "coenobium" ersetzt.<fe> Puriores tamen tabulae veteres mansum masculino
+genere et in flexione quarta protulerunt<fx-x>^#/+In G^#/- vocarunt...<fe>.
+^$Enimvero agri in
+illa gente varii iuris erant; multi enim<fx>multi enim ^#/+fehlt in G.^#/-<fe> fiscalini dicti<fx>^#/+In G^#/- scilicet.<fe>,
+quorum reditus fiscis principis deserviebant. Hi<fx-t>^#/+In G^#/- Qui donati venditive monasteriis parochiisve.<fe> donati
+collegiis aut monasteriis<fx-x>^#/+In G^#/- Qui donati... <fe> ecclesiastici vocabantur; sed<fx-t>^#/+Fehlt in G.^#/-<fe> et
+empti idem sibi nomen arrogabant; quorum ea erat servitus et
+est<fx-x>^#/+Fehlt in G.^#/-<fe> hodieque<fx>^#/+In G^#/- qui hodieque.<fe> multis in locis, ut vel<fx>^#/+In G^#/- licet ^#/+statt^#/- ut vel.<fe> venditi et abalienati <vl>3r. (17r.)</vl>
+et privatae possessiones facti toties<fx-t>^#/+In G^#/- sint, tamen ea servitute laborant, ut quoties venduntur et novum colonum possessoremve recipiunt, toties certa aeris summa ecclesiae seu monasterio pendenda sit, in cuius primaeva possessione fuerant, vulgo eerschätzige hofguͤter vocamus.<fe>
+certam aeris summam
+ecclesiis s[eu] monasteriis, in quorum primaeva possessione
+fuerunt, quoties venditi colonum novum recipiunt. Agri illi
+lingua nostra eeerschetzige hofguͤter appellantur<fx-x>^#/+In G^#/- sint...<fe>.<f1>Der Ehrschatz (lat. laudemium) war eine Handänderungsgebühr, die dem Lehnsherr für eine Besitzübertragung zu leisten war, vgl. H.-J. ^#/+Becker,^#/- in: HRG II 1643-1647; DRW II 1294; SI VIII 1642-1649.<fe>
+Ager salicus<fx>^#/+In G^#/- Agri salici.<fe> seu terra salica<f1>Vgl. unten Anm. ***.<fe> illa servitute vac[a]bat.
+Salicum<fx-t>^#/+Fehlt in G.^#/-<fe> idem erat quod Francicum;<f1> Zum Volksnamen der salischen Franken besteht entgegen der Deutung Vadians, die er auch in seiner "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 80) vertritt, keine Verbindung, s. Ruth ^#/+Schmidt-Wiegand,^#/- in: HRG IV 1274.<fe> praecipui
+enim Francorum
+vete[rum] erant, qui Salingi sunt cognominati; nam et Salice
+legi ab illis [no]men datum est,<f1>Gemeint ist die Lex Salica, das in den Jahren nach 507 unter Chlodwig I. verschriftlichte fränkische Volksrecht. Ausgabe: Lex Salica, hg. v. Karl August Eckhardt, Hannover 1969. - MGH.LNG 4/2. Vgl. Ruth ^#/+Schmidt-Wiegand,^#/- in: HRG II 1949-1962; ^#/+dies.,^#/- in:
+LMA V 1931f.<fe> quod et a Beato Rhenano,
+magni iudicii viro, d[ili]genter est observatum<fx-x>^#/+Fehlt in G.^#/-<fe>.<f1>Rhenanus, aaO, S. 90.<fe> Terram<fx-t>^#/+In G^#/- hanc vulgo frygelehengut vocamus.<fe>
+salicam<f1>Terra salica (Salland) bezeichnete im Frühmittelalter den vom Grundherrn innerhalb einer Grundherrschaft in eigener Regie bewirtschafteten Bereich (Herrengut), im Gegensatz zum Land, das von den vom Grundherrn abhängigen Hufenbauern selbständig bebaut wurde, vgl. Ruth
+^#/+Schmidt-Wiegand,^#/- in: HRG IV 1273-1277; LMA VII 1306. Vadian charakterisiert das Salland als privilegierten und vererbbaren Grundbesitz, vgl. auch unten S. ***.<fe> nostra lingua freylehen­g[uͦt]<f1>Vollständig oder partiell von Abgaben und Diensten befreites Lehen, vgl. DRW III 789.<fe>
+vocamus et etiam
+frey aigenguͦt<fx-x>^#/+In G^#/- hanc vulgo... <fe><f1>Freies Eigentum. Der Begriff wurde normalerweise als Äquivalent zu Allod/Allodium verwendet.<fe>.
+Id<fx-t>^#/+In G^#/- Agros salicos elocabant nonnunquam certa conditione reddituum et culturae in perpetuam possessionem, nec mutare licebat colonum aut posteros, nisi pactum aut conditionem violassent, vel non solutis reditibus, vel fundo neglectui habito, vel parte fundi inscio domino distracta aut
+usuriis recentibus gravata.<fe> genus agri nonnumquam loc[a]bantur in
+perpetuam possessionem cum certa condictione redituum et
+cultu[rae] eo quidem pacto,
+ut neque colonum nec posteros
+eius mutare aut p[ri]vare possessione liceret, nisi pactum<fx>^#/+Vor^#/- pactum ^#/+gestrichene Buchstaben.^#/-<fe>
+locationis violassent v[el] reditibus<fx>^#/+Vor^#/- reditibus ^#/+gestrichenes^#/- non solutis.<fe> suo tempore non
+solutis vel neglectui habito fundo vel parte ulla fundi
+inscio domino distracta aut usuris recen[ti]bus gravata<fx-x>^#/+In G^#/- Agros salicos ... <fe>.
+Quare et<fx>^#/+In G^#/- Proinde ^#/+statt^#/- Quare et.<fe> apochas dabant coloni, quibus<fx-t>^#/+In G^#/- quibus quo pacto quave conditione locatio facta esset continebatur. Eas tabulas vulgo reversas, et Germanice reversbrief.<fe> de pac[to] et
+condictione, qua locatus erat ager, cavebatur, quas hodie
+vulg[o] literas reversi et lingua nostra reversbrief<fx-x>^#/+In G^#/- quibus ...<fe>,
+locationem autem ip[sam] erblehen<f1>Vererbliches Lehen, vgl. DRW III 95.<fe> vocamus. Ager<fx-t>^#/+In G^#/- Ager hoc pacto locatus antiquis vectigalis dicebatur.<fe> hac
+lege locatus et addictus veterib[us] vectigalis dicebatur<fx-x>^#/+In G^#/- Ager hoc..<fe>,
+quem eleganter descripsit Paulus iureconsultus<fx>iureconsultus ^#/+fehlt in G.^#/-<fe><f1>Julius Paulus, römischer Jurist, ca. 160-230.
+Paulus war wohl Schüler des Cervidius Scaevola, Rechtsanwalt und Assessor des Prätorianerpräfekten Papinianus, sodann Berater der Kaiser Septimius Severus, Caracalla sowie - nach einer Zeit der Verbannung unter Elagabal - Alexander Severus.
+Paulus hat sich in umfassender Weise zum Recht und zur Rechtssprechung geäußert. Sein Werk umfasst neben Edikts- und Gesetzeskommentaren Schriften zum Finanz-, Steuer-, Privat-, Verwaltungs-, Prozess- und Strafrecht, "Quaestiones", Rechtsgutachten und Lehrbücher.
+Weiter sammelte er kaiserliche Urteile und kommentierte, exzerpierte und annotierte die ältere juristische Literatur.
+Das sog. Zitiergesetz von 426 (Codex Theodosianus 1, 4, 3) bestimmte Julius Paulus zu einer von insgesamt fünf juristischen Autoritäten, die zur Entscheidung strittiger Rechtsfälle herangezogen werden sollten. Ungefähr ein Sechstel der Digesten (Pandekten) des Corpus iuris civilis entstammt seinem
+Werk. - Lit.: Detlef ^#/+Liebs,^#/- in: Handbuch der lateinischen Literatur der Antike, Bd. 4: Die Literatur des Umbruchs. Von der römischen zur christlichen Literatur 117 bis 284 n. Chr., hg. v. Klaus Sallmann, München 1997. - Handbuch der Altertumswissenschaft VIII/4, S. 150-175; Tomasz ^#/+Giaro,^#/-
+in: DNP VI 50f.<fe>. [Cuius]
+verba in titulo: "Si ager vectigalis etc." libro pandectarum
+Iustinia[ni] sexto legimus.<f1>Corpus iuris civilis, D. 6, 3, 1. "Ager vectigalis" ist in römischem Staatseigentum oder Gemeindeeigentum stehendes Kulturland, das gegen Zins ("vectigal") in Erbpacht gegeben wird. In der Spätantike fließender Übergang zur Emphyteusis (s. unten Anm. ***), s. Max
+^#/+Kaser,^#/- Das römische Privatrecht. Erster Abschnitt, 2. Aufl. München 1971. - Handbuch der Altertumswissenschaft X/3, 3. 1, S. 455f.<fe> Non vectigalis autem<fx>autem ^#/+fehlt in G.^#/-<fe> erat, qui<fx-t>^#/+In G^#/- qui ad certum tempus locabatur et eo pacto ut auferri colono, domino volente,
+potuerit; nos vulgo schupflehen dicimus.<fe>
+ea lege locabatur, ut [in] domini manu esset mutare colonum
+et agrum auferre, ubi libuisse[t]<fx-x>^#/+In G.^#/- qui ad... <fe>. <vl>3v.  (17v.)</vl> Iustiniani<fx-t>^#/+In G^#/- Iustiniani aetas voce, ut puto, nova et Graeca <gr>ĕmfyteýsin</gr>[!], sive, ut vulgaris codex habet Iustiniani, emphitheosin, perpetuam illam locationem vocavit, a verbo
+<gr>ĕmfyteýein</gr>, quod inserere seu plantare significat, quoniam hoc genus locatione ager in familiae alicuius possessionem velut inseratur et implantetur, ut avellere iure non liceat, nisi pacto locationis violato. Unde ius emphyteuticum (sic enim Alciatus emendat) dicitur, quod corrupte
+emphiteoticum, erblehenrecht, et ager emphiteoticarius, quem et ipsum Alamanni et Franci mansus vocabulo complexi sunt.<fe> aetas vocem
+raram et Graecam quidem
+<gr>ĕmfýteysin</gr><fx>^#/+In der Vorlage^#/- <gr>ĕmfyteýsin</gr>.<fe><f1>Emphyteusis. Seit dem 4. Jh. n. Chr. auftretendes Rechtsinstitut, das die dauernde Überlassung von Land in Erbpacht regelte, vgl. Pierre ^#/+Toubert^#/- in: LMA III 1892-1894 (Lit.); zur rechtlichen Grundlegung vgl. unten
+Anm. ***.<fe> frequentem fecit a verbo, arbitror,
+<gr>ĕmfyteýv,</gr> quod "insero" seu "implanto" significat,
+quoniam eius generis locatione ager in familiae possessionem
+ita insertus et implantatus videri possit, ut avellare iure
+non liceat nisi pacto, ut diximus, locationis violato. Usus
+est ea voce Ulpianus<f1>Domitius U. Ulpianus, römischer Jurist der Severerzeit (193-235 n. Chr.), wohl 223 durch die Prätorianergarde ermordet.
+Ulpian, wohl Schüler des Papinianus und Lehrer des Modestinus, stammte aus dem syrischen Tyros und bekleidete verschiedene hohe Ämter unter den Kaisern Septimius Severus (Leiter der Kanzlei des kaiserlichen Justizbüros), Elagabal (Leiter der Lebensmittelversorgung) und Severus Alexander
+(Prätorianerpräfekt und kaiserlicher Berater).
+Sein umfangreiches juristisches Werk umfasst neben den großen Kommentaren "Ad edictum" (Amtsrecht) und "Ad Sabinum" (Zivilrecht) Schriften zu Aspekten des Privat-, Finanz-, Steuer-, Straf- und Prozessrechts, juristische Disputationen sowie Lehrbücher und zahlreiche, verschiedene Ämter betreffende
+Instruktionsschriften.
+Wie Julius Paulus (s. oben Anm. ***) wurde auch Ulpian durch das sog. Zitiergesetz von 426 im Verbund mit weiteren Autoren zu einer maßgeblichen juristischen Entscheidungsinstanz bestimmt.
+Seine Bemerkungen "De iustitia et iure" leiten die Digesten (Pandekten) des Corpus iuris civilis ein, wie diese insgesamt zu mehr als einem Drittel aus Exzerpten seiner Schriften bestehen. - Lit.: Tony ^#/+Honoré,^#/- Ulpian. Pioneer of Human Rights, 2. Aufl. Oxford u. a. 2002; Detlef ^#/+Liebs,^#/-
+in: Sallmann, aaO, S. 175-187; Tomasz ^#/+Giaro,^#/- in: DNP XII/1 980f (Lit.).<fe> # "De rebus eorum, qui sub tutoribus" etc.
+leg. tertia, ^&!(^#^#31801/266) antepenultimo.<f1>Corpus iuris civilis, D. 27, 9, 3, 4.<fe> Libro vero sexto codicis
+Iustiniani ius emphyteoticum<fx>^#/+In der Vorlage^#/- ephyteoticum.<fe> vulgo aeditis libris
+appellatur.<f1>Vadian bezieht sich auf die Konstitution Kaiser Zenons "De emphyteutico iure" (Corpus iuris civilis, C. 4, 66, 1), die der Emphyteusis ihre rechtliche Form gab und sie als eigene Vertragsform definierte, vgl. Pierre ^#/+Toubert^#/- in: LMA III 1893f. In der Ausgabe des "Codex
+Iustiniani" [Nürnberg:] Anton Koberger, 1488 (GW 7735), die Vadian besaß (s. Bibliotheca Vadiani. Die Bibliothek des Humanisten Joachim von Watt nach dem Katalog des Josua Kessler von 1553, unter Mitwirkung von Hans Fehrlin† und Helen Thurnheer bearb. von Verena ^#/+Schenker-Frei,^#/- St. Germain 1973.
+- Vadian-Studien: Untersuchungen und Texte 9, Nr. 634), lautet die entsprechende Überschrift "De iure emphyteotico" (ebd., f. CCXXVIIIv.).<fe> Alciatus libro
+<gr>parérgvn</gr> primo<f1>Andreae Alciati iuris consulti Mediolanensis <gr>parérgvn</gr> iuris libri III [...], Basel (Johannes Herwagen und Johann Erasmius Froben) 1538 (VD 16 A 1668), die folgende Paraphrase im Anschluss an ebd., S. 25. Das Handexemplar Vadians verzeichnet
+^#/+Schenker-Frei,^#/- aaO, Nr. 630.
+- Andrea Alciati (Alciatus, Alciato), 1492-1550, von Mailand, studierte ab 1504 unter Aulus Janus Parrhasius und Janus Lascaris in Mailand und wandte sich ab 1507 in Pavia, Bologna und Ferrara dem Studium der Rechtswissenschaft zu. Nach seiner Promotion 1516 begann sein Aufstieg zum Juristen und
+Gelehrten internationaler Reputation. Ab 1518 lehrte er in Avignon und betrieb 1522-27 private Studien in Mailand, nahm sodann seine Lehrtätigkeit in Avignon 1527 wieder auf, ehe er 1529 auf Einladung von König Franz I. nach Bourges übersiedelte, wo er mit großem Erfolg bis 1533 lehrte - unter
+seinen Zuhörern befand sich neben Franz I. auch Calvin.
+Seine Arbeiten zum Römischen Recht (Gesamtausgabe in vier Bänden Basel [Michael Isingrin] 1546/47 und 1549 [VD 16 A 1633f]) fanden weite Beachtung und Verbreitung. Daneben betätigte sich Alciati als Übersetzer griechischer Poetik und untersuchte historische Maß- und Gewichtsangaben ("De ponderibus
+et mensuris", Bullingers Handexemplar verzeichnet HBBibl III 1) und korrespondierte u. a. mit Erasmus und Bonifacius Amerbach in Basel (s. Erasmus, Corr. und Amerbach, Korr., passim; Le lettere di Andrea Alciato giureconsulto, hg. v. Gian Luigi Barni, Florenz 1953).
+Als sein einflussreichstes Werk ist der erstmals in Augsburg 1531 und in der Folge in unzähligen Neuauflagen und Übersetzungen erschienene "Emb­lematum liber" zu bezeichnen, eine Sammlung von insgesamt 104 (später 212) Emblemata, die ihren Autor zum Vater der Emblematik werden ließen.
+1533 kehrte Alciati nach Italien zurück, veröffentlichte seine "Parerga" (gesammelte kleine Schriften) und versah bis zu seinem Tod 1550 Lehrstühle an den Universitäten Pavia, Bologna und Ferrara.
+- Lit.: Andrea Alciato and the Emblem Tradition, hg. v. Peter M. Daly, New York 1989. - AMS Studies in the Emblem 4; Hans ^#/+De Giacomi,^#/- Andreas Alciatus, Basel 1934; Donald R. ^#/+Kelley,^#/- Foundations of Modern Historical Scholarship. Language, Law, and History in the French Renaissance, New
+York-London 1970, S. 87-115; Paul Émile ^#/+Viard,^#/- André Alciat, 1492-1550, Paris 1926; Virginia W. ^#/+Callahan,^#/- in: Contemporaries I 23-26; Roberto ^#/+Abbondanza,^#/- in: DBI I 69-77 (Lit.).<fe>
+non emphyteoticum, sed<fx>^#/+Vor^#/- sed ^#/+gestrichenes^#/- ratio.<fe>
+<gr>ĕmfyteytikòn</gr><fx>^#/+In der Vorlage^#/- <gr>ĕmfyteýtikòn</gr>.<fe> Graeci sermonis ratione legi
+proferrique debere confirmat;
+<gr>ĕmfýteysiw</gr> enim insitio est et implantatio, qua ita
+trunco ac­­crescit planta, ut non cohaereat modo, sed unam
+etiam arborem efficiat. Emphyteuticum igitur nos hodieque
+Germanice "erblehen recht" nominamus, et ager emphyteuticarius
+Iustiniani saeculo, qui emphyteusi locatus esset; "er­­b­lehen"
+autem dicimus Germanice ab hereditate, quoniam ius illud
+perpetuae locationis ad haeredem et posteros transeat.
+Hunc
+ipsum agrum Franci et Alemanni mansus<f1>Mansus (Hufe): Bäuerlicher Wirtschaftsbetrieb und grundlegende Einheit im Rahmen der mittelalterlichen Grundherrschaft, s. H. ^#/+Kellenbenz^#/- / G. ^#/+Philipp,^#/- in: HRG II 248-251; SI II 957-959.<fe> vocabulo amplexi sunt<fx-x>^#/+In G^#/- Iustiniani aetas...
+<fe>.
+^$Porro ecclesiis instituendis et donandis illa saecula mansus
+fere attribuebant<fx>^#/+In G^#/- attribuerunt.<fe>, in alimoniam videlicet presbyteri, qui ei<fx>^#/+In G^#/- ecclesiae.<fe>
+esset impositus; ea<fx-t>^#/+In G^#/- ea causa id genus mansus ecclesiis fundatis attributos kälnhof veteres dixere, a stomacho scilicet aut gulae parte, quam Germanice kälen appellamus.<fe> caussa veteres ab alimonia "kelnhöf"<f1>Bezeichnung für einen Hof, der als Mittelpunkt einer
+grundherrschaftlichen Wirtschaftseinheit dem Kell(n)er zugewiesen ist, vgl. DRW VII 736-738; SI II 1027f. Die Etymologie der Bezeichnung bleibt entgegen der Deutung Vadians unklar, vgl. ebd., Sp. 1028.<fe>
+vocitabant, a ventre scilicet et stomachi parte, quam "gulam"
+Latine, nostra vero lingua "kelen" dicimus<fx-x>^#/+In G^#/- ea causa...<fe>. Hi<fx-t>^#/+Fehlt in G.^#/-<fe> mansus ita
+erant sacri quondam et annexi parrochiae, ut inde non
+liceret quicquam auferri abalienarique nisi magno cum
+ecclesiae emolumento. Monachi postea peste illa
+incorpo-<vl>4r. (18r.)</vl>rationis accensi, ne quid integrum ec­clesiis Christi
+relinquerent, plurimis [ec]clesiis, illis autem maxime,
+quarum ius collationis<f1>Kollationsrecht, das zur Nomination von geeigneten Kandidaten für kirchliche Ämter legitimierte, vgl. Dictionnaire de droit canonique, hg. v. Raoul Naz u. a., Bd. 2, Paris 1937, Sp. 413-416; Richard ^#/+Puza,^#/- Art. Nomination, in: LMA VI 1228. Vgl. auch Vadians "Farrago"
+(^#/+Goldast,^#/- aaO, Bd. III, S. 59).<fe>, ut vocant, a Ro[ma]no episcopo vel
+prece vel pretio<f1>Vgl. Ovid, Fasti 2, 806: "nec prece nec pretio".<fe> accepissent, mansus illos non sine auctis
+redditibus abstulerunt<fx-x>^#/+Fehlt in G.^#/-<fe>. Durat adhuc vox illa kelnhof
+Benedictin[is] sodalitiis notissima<fx>kelnhof Benedictin[is] sodalitiis notissima ^#/+fehlt in G.^#/-<fe>.<f1>Zur Thematik der "incorporatio" und des "kelnhof" vgl. auch Vadians "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 14).<fe>
+^$Mansum<fx-t>^#/+In G^#/- Mansus ergo dixere Franci et Alamanni ainen hof, es wäre ain erschätziger hof oder erblehen hof oder fry unnd schuͤpflehen hof.<fe> igitur (ut
+institutum prosequamur) Franci [vo]cabant ain hof, er were
+ain eerschetziger hof oder ain erblehen g[uͦt] oder ain freylehen<fx-x>^#/+In G^#/- Mansus...<fe>,
+salica autem<fx>autem ^#/+fehlt in G.^#/-<fe> terra ain fry aigen guͦt. Haec<fx-t>^#/+In G^#/- Huius possessionem ex hereditate soli adibant, nulla prorsus parte ad foemellas attinente, quemadmodum lege Salica erat cautum.<fe> enim proprie
+salica vocabatur, cuius possessionem soli mares ex
+haereditate adibant nulla prorsus portione ad foemellas
+attinente, si modo mares extitissent, quorum iusta esset
+haereditas, quemadmodum in lege Salica et Alemannica erat
+cautum<fx-x>^#/+In G^#/- Huius possessionem... <fe>.<f1>Vgl. die Lex Salica, Titel "De alodis", §6 (Eckhardt, aaO, S. 164f): "De terra vero salica nulla in muliere hereditatis transeat porcio, sed ad virili sexus tota terra proprietatis sue possedeant." Ebenso der Pactus legis Salicae (hg. v. Karl
+August Eckhardt, Hannover 1962. - MGH.LNG 4/1, S. 223). Siehe auch Vadians "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 88).<fe> Frequens autem mentio fit terrę salicę in
+c[har]tis, quae sub Pipino<f1>Pippin III. der Jüngere, König der Franken 751/52-768. Geb. 714/15, gest. 768, Sohn Karl Martells, Vater Karls des Großen, s. Josef ^#/+Fleckenstein,^#/- in: LMA VI 2168-2170 (Lit.).<fe>, Carlo<f1>Karl (I.) der Große, König der Franken (ab 768) und Langobarden (ab 774),
+Krönung zum Kaiser 800. Geb. 747, gest. 814, Sohn Pippins III. des Jüngeren, s. Josef ^#/+Fleckenstein,^#/- in: LMA V 956-961 (Lit.).<fe>,
+Ludevicis<f1>Ludwig (I.) der Fromme, Kaiser. Geb. 778, gest. 840, jüngster Sohn Karls des Großen, Vater Ludwigs des Deutschen und Karls des Kahlen, s. Josef ^#/+Fleckenstein,^#/- in: LMA V 2171f (Lit.); Ludwig II. der Deutsche, s. oben Anm. ***; Ludwig IV. das Kind, ostfränkischer König. Geb. 893,
+gest. 911, Sohn Arnulfs von Kärnten, letzter Vertreter der ostfränkischen Linie der Karolinger, s. Alois ^#/+Schmid,^#/- in: LMA V 2175 (Lit.).<fe>, Crasso<f1>Karl (III.) der Dicke, fränkischer König und Kaiser. Geb. 839, gest. 888, s. Bernd ^#/+Schneidmüller,^#/- in: LMA V 968f (Lit.).<fe> et
+Arnulpho<f1>Arnulf von Kärnten, ostfränkischer König und Kaiser. Geb. um 850, gest. 899, Sohn König Karlmanns, Vater Ludwigs des Kindes, s. Wilhelm ^#/+Störmer,^#/- in: LMA I 1013-1015 (Lit.).<fe>, Franc[o]rum regibus et imperatoribus, scriptae sunt.
+Tabulas<fx-t>^#/+Fehlt in G.^#/-<fe> donationum illa [ae]tas chartas appellabat, quarum
+plurimae multis in coenobiis Alemannię etiamnum extant.<f1>Vadian befasste sich intensiv mit der Sammlung und dem Studium von diplomatischen Dokumenten, wovon auch seine "Farrago" zeugt (vgl. ^#/+Goldast,^#/- aaO, Bd. III, bes. S. 48-111).<fe>
+Atque haec quidem obiter de mansu seu mansa, u[t] tuis
+illi in tabulis scriptum est.<f1>Die erörterten Begriffe finden sich insbesondere im Verzeichnis der Besitzungen der Großmünsterkirche (ZUB I, Nr. 37/Umarbeitung).<fe>
+^$Nunc de curte<f1>Curtis: Im Frühmittelalter Bezeichnung für eine Gruppe von Bauwerken, oft unter Einschluss der zugehörigen Ländereien, die in der Regel als wirtschaftliches Zentrum eines Wirtschaftsbetriebes dienten, z. T. Synonym zu "villa". Analog zu "curia" fand der Begriff auch Verwendung für
+"königliche Residenz" oder "königlicher Hof", s. Adriaan ^#/+Verhulst,^#/- in: LMA III 392f.<fe> pauca<fx-x>^#/+Fehlt in G.^#/-<fe>.<f1>Zum Begriff "curtis" äußert sich Vadian auch in der "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 54).<fe> Curtis vocabulum [cor]ruptum illis
+idem<fx>^#/+In G^#/- id ^#/+statt^#/- illis idem.<fe> significabat quod cors, qua<fx-t>^#/+In G^#/- qua voce quanquam domesticarum pastionum locus et numerus denotetur, tamen Latinis et hominum uno aliquo in loco coniunctorum ac velut cohabitantium coetus ea voce intelligitur, licet cohors quam cors
+usitatius existat. In ea significatione vel a Cicerone accipitur, Actione in Verrem V., pro coetu hominum turpi aliqua de caussa sociatorum, in malam partem, a Caesare in bonam.<fe> voce tametsi altilium
+loc[us] et congregatio significatur, tamen Latinis etiam
+hominum, imo aliquo in [loco] sociatorum ac velut
+cohabitantium coetus ea voce intelligitur, licet coh[or]tis
+quam cortis usitatius nomen existat. Nam et Cicero Actione
+in Verrem q[uin]ta, si recte memini, ea voce coetum hominum
+turpi aliqua de caussa so[cia]torum significatam et malam in
+partem accipit,<f1>Vgl. Cicero, In Verrem II, 3, 28 u. ö. Die Zitierweise entspricht zeitgenössischen Gepflogenheiten, vgl. etwa: In omnes M. Tullii Ciceronis orationes, Basel (Robert Winter) 1539 (VD 16 L 3126).<fe> cum contra Caesar eo[d]em significatu, sed
+bonam tamen in partem accipiat<fx-x>^#/+In G^#/- qua voce... <fe>.<f1>Auf welche Cäsarstelle sich Vadian bezieht, bleibt offen.<fe> Certe factum est hac
+[ra-]­ <vl>4v. (18v.)</vl>­tione, ut<fx>^#/+In G^#/- Inde ^#/+statt^#/- Certe factum est hac [ra]tione, ut.<fe> scribae Francici<fx>^#/+In G^#/- Francici et Alemannici.<fe> curtim nunc palatium regis (ut
+in lege "Si quis in curte regie furtum fecerit"<f1>Das Gesetz findet sich in den Leges Alamannorum (vgl. unten Anm. ***), Gesetz XXX/XXXI (hg. v. Karl Lehmann, Hannover 1888. - MGH.LNG 5/1, S. 89).<fe>), nunc pagum
+aliquem aut vicum villamque<fx>^#/+In G^#/- villamve.<fe> plusculis aedificiis constantem
+vocarint<fx>^#/+In G^#/- vocarunt.<fe> curtilemque<fx>^#/+In G^#/- curtilem quoque.<fe> (nam et hanc voculam<fx>^#/+In G^#/- vocem.<fe> veteres chartę
+usurpant<fx>^#/+In G^#/- crebro usurpant.<fe>) villulam aliquam paucis aedificiis constructam
+dixere<fx>dixere ^#/+fehlt in G.^#/-<fe>. Potuit<fx-t>^#/+Fehlt in G.^#/-<fe> autem fieri, ut et curtim pro mansu aut loco
+aliquo domesticarum pastionum acceperint, sed est
+frequentior usus, quo antedictam significationem et eam,
+quam mox explicabimus, retinuerunt<fx-x>^#/+Fehlt in G.^#/-<fe>. Et legisse me, nisi
+fallor<fx>^#/+In G^#/- Nisi vero fallor, legisse ^#/+statt^#/- Et legisse me, nisi fallor.<fe>, memini cohortis vocem simili<fx>^#/+In G^#/- non absimili.<fe> in<fx>in ^#/+fehlt in G.^#/-<fe> significatu in
+tribus posterioribus libris codicis<fx>codicis ^#/+fehlt in G.^#/-<fe> Iustiniani, verum quo in<fx>^#/+Fehlt in G.^#/-<fe>
+titulo aut qua in lege vel quaerenti mihi, dum haec
+scribebam, non succurrebat<fx>^#/+In G^#/- occurrebat. <fe>.<f1>Vgl. Corpus iuris civilis, C. 10-12.<fe> Illud obiter notandum curtis
+nomine Francis et Alemannis, qui et ipsi in Orientali
+Francia censi sunt<fx>Francis et Alemannis, qui et ipsi in Orientali Francia censi sunt ^#/+fehlt in G.^#/-<fe>, non simpliciter locum<fx>^#/+In G^#/- aut locum.<fe>, ubi multi
+gregatim<fx>^#/+In G^#/- congregati.<fe> degerent, aut homines ipsos iunctim<fx>^#/+In G^#/- iunctius.<fe> habitantes, sed
+imperium etiam et iurisditionem, praeterea et proprietatem
+mancipiorum et omnino eam possessionem, quam integri status
+iureconsulti vocant,<f1>Vgl. etwa Corpus iuris civilis, D. 48, 4, 11.<fe> significatum fuisse<fx>^#/+In G^#/- pleno cum iure coniunctam significatam esse ^#/+statt^#/- significatum fuisse.<fe>.
+Imperium autem,
+sicut ex<fx>ex ^#/+fehlt in G.^#/-<fe> libro primo Digestorum tit[ulo] "De iurisditione
+omnium iudicum"<f1>Die Konstitution "De iurisdictione omnium iudicum et de foro competenti" findet sich in Corpus iuris civilis, C. 3, 13.<fe> discimus, duplex est, merum scilicet<fx>scilicet ^#/+fehlt in G.^#/-<fe>, quo in
+facinorosos animadvertitur cuiusque proprie usus est
+publicorum iudiciorum<fx>cuiusque proprie usus est publicorum iudiciorum ^#/+fehlt in G.^#/-<fe>. Hoc imperium Germanice<fx>^#/+In G^#/- nostra lingua ^#/+statt^#/- Hoc imperium Germanice.<fe> das<fx>^#/+In G^#/- die.<fe>
+hochgericht<f1>Hochgerichtsbarkeit, s. DRW V 1117.<fe> oder die hoch oberkhait<f1>Hohe Obrigkeit mit Hochgerichtsbarkeit, s. DRW IX 215-223.<fe> dicitur, quale multis in
+locis Alemannię comites olim regum nomine administrabant.
+Mixtum fit imperium, cum<fx-t>^#/+In G^#/- cum huic iurisdictio accesserit, vulgo hoch und nider gericht, quale apud Thuregum habuit in sua curte sine dubio Hludewicus.<fe> mero iurisdictio accedit, wan man
+in ainer herschaft hoch und nidere gericht<f1>Niedergericht, die für leichtere Straffälle zuständige Instanz, s. F. ^#/+Neef,^#/- in: HRG III 983-987.<fe> hat , quale
+imperium sine dubio in curte sua Thuregiensi Ludovicus<f1>Ludwig II. der Deutsche, Stifter der Fraumünsterabtei Zürich.<fe> ille,
+qui monasterium <vl>5r. (19r.)</vl> sanctimonialium instituit, habuit<fx-x>^#/+In G^#/- cum huic...<fe>. Diversa
+ab illis est pars illa iusti[tiae] administrandę, quae
+nulli imperio coniungitur,
+et<fx>^#/+In G^#/- et haec.<fe> iurisditio vocatur vulgo
+die ainigen nidern gericht oder das ainig nider gericht<fx>oder das ainig nider gericht ^#/+fehlt in G.^#/-<fe>, da
+ma[n] dehaineß malefitzes gwalt<f1>kein Recht zur Aburteilung irgendeines Kapitalverbrechens, s. DRW IX 65.<fe> hat, qualis<fx>^#/+In G^#/- Talis.<fe> iurisditio et
+cathedris et c[oe]nobiis<fx>^#/+In G^#/- monasteriis.<fe> haud<fx-t>^#/+In G^#/- haud raro est a regibus illis primis et imperatoribus Francorum et Germanorum donata.<fe> raro a regibus concessa<fx>^#/+Vor^#/- concessa ^#/+gestrichenes, unlesbares Wort^#/-.<fe> et
+ecclesiis attributa est, cum de imperiis vel donandis vel
+admittendis obeundis nemo vel [co]gitarit<fx-x>^#/+In G^#/- haud raro...<fe>. Religio<fx-t>^#/+In G^#/- Vetus enim et mediae etiam aetatis religio.<fe> enim illa
+aetatis mediae<f1>Früher Beleg des Mittelalterbegriffs, vgl. Uwe ^#/+Neddermeyer,^#/- Das Mittelalter in der deutschen Historiographie vom 15. bis zum 18. Jahrhundert. Geschichtsgliederung und Epochenverständnis in der frühen Neuzeit, Köln-Wien 1988. - Kölner Historische Abhandlungen 34, S.
+110-124.<fe> utcunque afflicta et vitiata<fx-x>^#/+In G^#/- Vetus enim...<fe> [lon]ge maxime
+ab imperiis<fx>^#/+In G^#/- imperio.<fe> et sanguinis iudiciis<fx>^#/+In G^#/- iudicio.<fe> abhorruit, quod et
+o[p]pida pleraque Germanię multis saeculis fecerunt. Se­­d<fx-t>^#/+In G^#/- Postea ambitio licentiaeque et regnandi studium in causa fuerunt, ut et monachi et episcopi alicubi imperia mixta et mera mercari et sua facere vel reclamante professione veriti non fuerint.<fe>
+factum est postea, ut et monachi ambitione et licentię
+studio occaecati et episcopi nonn[unquam] imperia mixta et
+mera mercari et quocunque praetextu sua facere reclamante
+professione perrexerint, quamquam sero id factum est<fx-x>^#/+In G^#/- Postea...<fe>.
+[Ar]bitror autem nullam curtim sine iurisditione fuisse et
+eo<fx>^#/+In G^#/- hoc.<fe> nomine id significatum esse, quod nos Germanice<fx>^#/+In G^#/- iam vulgo ^#/+statt^#/- nos Germanice.<fe> ain
+vogtey oder gerichtz[wang] nominamus mit aygenschafft der
+leuten<f1>Leibeigenschaft, Hörigkeit, persönliche Unfreiheit, s. DRW II 1343f; allgemeiner: uneingeschränktes Recht über die Untertanen, s. DRW II 1342.<fe> und ußgetrukten<f1>festgelegten.<fe> rendten<f1>Einkünfte, Ertrag.<fe> u[nd] gülten<f1>Schuldige Leistung, Zahlung: Zins, Steuer, Miete, Pacht,
+s. DRW IV 1255-1260.<fe>, mit angemaßtem<f1>festgesetztem.<fe>
+pott<fx>^#/+In G^#/- gebott.<fe> und verpott<f1>"Gebot und Verbot" als formelhafter Ausdruck für obrigkeitliche Gewalt, s. DRW III 1266.<fe> etc. Imo et curtilem pu[to] saepe
+iurisditionem cum proprietate mancipiorum et certa redditum
+parte a Francis et Alemannis<fx>et Alemannis ^#/+fehlt in G.^#/-<fe> apellatam<fx>^#/+In G^#/- intellectam.<fe> fuisse. Verum
+regię curtes longe maximę et amplissimi iuris erant<fx>^#/+In G^#/- fuerunt ^#/+statt^#/- et amplissimi iuris erant.<fe> et
+imperium etiam habebant<fx>^#/+In G^#/- imperia etiam habuerunt ^#/+statt^#/- imperium etiam habebant.<fe> [cum] mancipiis, agris, pascuis,
+censibus, venatione, piscatione et omnimoda illa, de qua
+diximus<fx>de qua diximus ^#/+fehlt in G.^#/-<fe>, integri status possessione etc. Aliae<fx-t>^#/+In G^#/- Aliae curtes tenuiores pleraeque solius iurisdictionis cum agris mancipiisque. Proinde dum legimus in veteribus (quarum plurimas vidimus) Francorum Alamannorumque tabulis legari ecclesiis vel
+monasteriis curtim cum agris, pascuis, mancipiis, sylvis, aquis aquarumque decursibus, fundum ipsum in homines una cum iurisdictione, intelligimus: Wir verschaffend unser gericht da unnd dort gelegen mit gebüw, mit aignen lüten, mit holtz, mit veld etc. <fe> interim
+tenuiores erant, interdum cum iure solius iurisditionis cum
+prop[rie]tate serviciorum et fundi possessione. Hinc est,
+quod in vetustis ill[is] <vl>5v. (19v.)</vl> Francorum et Alemannorum tabulis
+saepe legimus legatas curtes cum mancipiis, sylvis, aquis
+aquarumque decursibus et fundum ipsum cum mancipiis et
+iurisditione legatum donatione fuisse intelligimus<fx-x>^#/+In G^#/- Aliae curtes...<fe>. Plena
+autem<fx>^#/+In G^#/- enim.<fe> fuit servis et servitutibus olim<fx>^#/+In G^#/- quondam.<fe> Alemannia nostra, cuius
+magna pars fuit, quae hodie Helvetia vocatur<fx>^#/+In G^#/- hodie Helvetia est ^#/+statt^#/- fuit, quae hodie Helvetia vocatur.<fe>, nec est pagus
+ullus immontanus, quod quidem sciam<fx>^#/+In G^#/- nec est, quod sciam, montanus pagus aliquis Helveticus ^#/+statt^#/- nec est pagus ullus immontanus, quod quidem sciam.<fe>, qui rebus Francorum
+florentibus durissimam illam servitutem non servierit. Extant
+enim tabulae veteres, quae hac de re<fx>^#/+In G^#/- hanc rem ^#/+statt^#/- hac de re.<fe> clarissime testantur,
+und<fx-t>^#/+In G^#/- Et verbum illud nobilium: "Kuͦttlen unnd kaat im bauch ist unser", laudatissimo Helvetiorum foederi primam dedit originem Helvetiosque in hanc rerum summam evexit. <fe> daß trotzwordt der tyrannen: "Kutlen<f1>Gedärme.<fe> und khat<f1>Kot.<fe> in üwerm
+bauch sind unser" etc. hat ain loblich Aydgnoschaft erhaben
+und aufbracht<fx-x>^#/+In G^#/- Et verbum...<fe>.<f1>Die stabreimende Paarformel als Ausdruck für schlechthinnige Abhängigkeit und Verfügbarkeit, ähnlich dem heutigen Ausdruck "mit Haut und Haaren" (für ähnliche zeitgenössische Belege vgl. SI III 575). Das Motiv der Tyrannei der fremden Vögte spielte
+eine zentrale Rolle in der eidgenössischen Chronistik zu den Emanzipationsbemühungen der drei Waldstätte und dem sogenannten Befreiungsgeschehen, das am Anfang der Bildung der Eidgenossenschaft stand, vgl. Bernhard ^#/+Stettler,^#/- Tschudis Bild von der Befreiung der drei Waldstätte und dessen Platz
+in der schweizerischen Historiographie, in: Aegidius Tschudi, Chronicon Helveticum, bearb. von Bernhard Stettler, 3. Teil, Bern 1980. - QSG, NF I. Abt., VII/3, S. 9*-128*.<fe> Curtes autem et, qui longe ampliores erant,
+pagi, quos Germani gegni<f1>Gegenden, Bezirke.<fe> oder geuw<f1>Gaue.<fe> vocant<fx>quos Germani gegni oder geuw vocant ^#/+fehlt in G.^#/-<fe>, certis limitibus
+distinguebantur in Francorum et Alemannorum regnis<fx>^#/+In G^#/- apud Francos et Alamannos ^#/+statt^#/- in Francorum et Alemannorum regnis.<fe>, quos
+ipsi marcas<f1>Mark: Grenze, s. DRW IX 194.<fe> vocabant, quod<fx>^#/+In G^#/- id quod.<fe> clarissime fere<fx>fere ^#/+fehlt in G.^#/-<fe> ex omnibus
+tabulis intelligitur<fx>^#/+In G^#/- discitur.<fe>. Pagis<fx-t>^#/+Fehlt in G.^#/-<fe> praeerant comites, et erant in
+pago uno multae curtes, in curte autem pluscula aedificia,
+vici et villae et mansus, in quibus omnibus distincta et
+magna cura administrata iudicia exercebantur<fx-x>^#/+Fehlt in G.^#/-<fe>.
+^$Sunt autem et alia quaedam vocabula, quae<fx-t>^#/+In G^#/- quae in veteribus illis chartis (sicut ipsi vocabant) obvia sunt, nempe vestitura, advocatus, bannus, foedum, distringere etc., qualia in vestratibus illis donationibus leguntur, quae facilius quam priora illa explicantur.<fe> veteribus
+illis
+in chartis frequenter occurrunt et nostratibus etiam in
+donationibus leguntur, de quorum numero haec sunt:
+vestitura, advocatus, bannus, fredum, distringere et id
+genus pluscula, quae facilius, ni fallor, quam priora illa
+explicantur<fx-x>^#/+In G^#/- quae in...<fe>. Vestitura enim hoc ipsum est quod investitura,
+hoc est in possessionem missio aut possessionis datio<fx>^#/+In G^#/- securitas.<fe> et
+confirmatio, quam et beneficium illa saecula et feudum voce
+a Francis nata et inducta<fx>^#/+In G^#/- quod fere a Francis natum et inductum est ^#/+statt^#/- voce a Francis nata et inducta.<fe> vocarunt, quam hodie Germanice<fx>^#/+In G^#/- hodie lingua nostra ^#/+statt^#/- quam hodie Germanice.<fe>
+lehen <vl>6r. (20r.)</vl> oder lehensbestätung dicimus<fx>^#/+In G^#/- vocamus.<fe>. Vulgatissimum<fx-t>^#/+In G^#/- etiamsi investiturae nomen vulgatissimum est et locum habet cum in prophanis tum ecclesiasticis bonis conferendis<fe> autem est
+et hodie inve[sti]turae nomen et in rebus<fx>rebus ^#/+für gestrichenes^#/- bonis ^#/+am Rande nachgetragen^#/-.<fe> cum profanis tum
+ec­­clesiasticis conferendis [ha]bet locum<fx-x>^#/+In G^#/- etiamsi...<fe>. Distringere
+vocabant in ius trahere vel citare, quod horum temporum
+legibus palam deprehenditur<fx>^#/+In G^#/- quod ex Salica lege notissimum est ^#/+statt^#/- quod horum temporum
+legibus palam deprehenditur.<fe>. Extant enim<fx>^#/+In G^#/- autem.<fe> et Salicę<f1>Lex Salica, vgl. oben Anm. ***.<fe> [et]
+Ripuariae<f1>Mit Lex Ribuaria wird ein merowingisches Gesetzbuch für die Franken im Land Ribuarien bezeichnet, das sich zum Teil eng an die Lex Salica anlehnt und unter König Dagobert I. im 7. Jahrhundert aufgezeichnet wurde, s. Ruth ^#/+Schmidt-Wiegand,^#/- in: LMA V 1929f; ^#/+dies.,^#/- in: HRG II
+1923-1927. Ausgabe in: Lex Ribuaria, hg. v. Franz Beyerle und Rudolf Buchner, Hannover 1954. - MGH.LNG 3/2. Eine Ausgabe der Lex Ribuaria aus dem Besitz Bullingers verzeichnet HBBibl III 130.<fe> et Alemannicę<f1>Das Stammesrecht der Alemannen ist in zwei Fassungen als "Pactus legis Alamannorum"
+(frühes 7. Jh. unter Chlothar II., Ausgabe in: Leges Alamannorum, aaO) und als "Lex Alamannorum" (724-730 unter Herzog Lantfrid, Ausgabe ebd.) überliefert, s. Clausdieter ^#/+Schott,^#/- in: LMA V 1927f; ^#/+ders.,^#/- in: HRG II 1879-1886.
+Eine Ausgabe der "Alemannorum leges" aus dem Besitz Bullingers verzeichnet HBBibl III 130.<fe> leges mirabili ac prope
+inexplicabili re[rum] verborumque<fx>^#/+In G^#/- vocumque. <fe> barbarie confertae<fx>^#/+So G, in der Vorlage^#/- conferti.<fe>, in
+quibus distringendi verbum freque[ns] est.<f1>Vadian waren die Leges Salica, Ribuaria und Alamannorum in einem Codex des 9. Jahrhunderts (St. Germain Kantonsbibliothek [Vadiana], Ms 338) zugänglich, den er ausgiebig annotierte, s. Gustav ^#/+Scherer,^#/- Verzeichniss der Manuscripte und Incunabeln der
+Vadianischen Bibliothek in St. Germain, St. Germain 1864, S. 95-97. Vgl. auch Vadians diesbezügliche Bemerkungen in der "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 12).<fe>
+Fredum<fx-t>^#/+In G^#/- Fredum hoc ipsum est, quod nos hodie friden vocamus.<fe><f1>Fredus: Friedensgeld, das für Friedensbruch zu bezahlen war, z. T. synonym mit der Bannbuße, s. DRW III 682f. Vadian erörtert den Begriff auch in seiner "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 38f).<fe> dicebatur,
+quod hodie vulgo friden vocamus<fx-x>^#/+In G^#/- Fredum... <fe>. Populus<fx>^#/+Von Vadian korrigiert aus^#/- Populi.<fe><fx-t>^#/+In G^#/- Populi enim illi ferocissimi et ad arma prope sola nati, perpetuo fredo, hoc est pace, obligabantur.<fe> enim ille<fx>^#/+In der Vorlage^#/- illi.<fe>
+ferissimus<fx>^#/+Von Vadian korrigiert aus^#/- ferissimi.<fe> et ad arma prope sola natus regum cura
+perpetuo fr[edo] coercebatur<fx-x>^#/+In G^#/- Populi enim... <fe>, ne quid vi aut<fx>^#/+In G^#/- et.<fe> armis gereretur,
+quod publicae tranquillita[ti] officeret<fx>^#/+In G^#/- obesset. <fe>. Quem morem et
+Germani multis annis post Fridericum primum<f1>Friedrich I. (Barbarossa), Kaiser, dt. König, geb. nach 1122, gest. 1190. Der aus dem Hause der Staufer stammende Friedrich übernahm 1146 für seinen Vater Friedrich II. von Schwaben die schwäbische Herzogsgewalt und nahm am 2. Kreuzzug teil, ehe er 1152
+zum König, 1155 von Hadrian IV. zum Kaiser gekrönt wurde. Ein Jahr darauf Heirat mit Beatrix von Burgund, 1178 folgte die Krönung zum König von Burgund.
+Mit insgesamt sechs Italienzügen versuchte Friedrich die kaiserliche Herrschaftsgewalt in Italien zu sichern, was ihn in Konflikt und kriegerische Auseinandersetzungen mit den norditalienischen Städten, Byzanz und Papst Alexander III. brachte. 1175-1181 Auseinandersetzung mit seinem welfischen
+Vetter Heinrich dem Löwen, die mit der Entmachtung Heinrichs und dessen Exilierung endete.
+Er starb im Jahre 1190 auf dem 3. Kreuzzug. - Lit.: Joachim ^#/+Ehlers,^#/- Friedrich I., in: Die deutschen Herrscher des Mittelalters. Historische Porträts von Heinrich I. bis Maximilian I., hg. v. Bernd Schneidmüller und Stefan Weinfurter, München 2003, S. 232-257; Odilo ^#/+Engels,^#/- Die Staufer,
+7. Aufl. Stuttgart u. a. 1998; ^#/+ders.,^#/- in: LMA IV 931-933 (Lit.).<fe>, quem Itali
+Barbarossam cognominarunt, in omni Germania principes
+custo[die]runt et<fx-t>^#/+In G^#/- ut hodie quoque ainen fridstand oder landsfriden nominant.<fe> adhuc publicas illas leges<fx>^#/+Vor^#/- leges ^#/+gestrichenes, unlesbares Wort^#/-.<fe> aut
+pacificationes, quae vim armatam coercent, fridstand<f1>Friede, Waffenstillstand, s. DRW III 944.<fe> oder
+landtzfriden<f1>Landfrieden: Von der weltlichen Gewalt ausgehende Rechtssatzung zur Friedenssicherung in einem Territorium, s. DRW VIII 383-385.<fe> nominare solemus<fx-x>^#/+In G^#/- ut hodie...<fe>. N[on]<fx>Hinc non ^#/+G, davor ebd. der Zusatz^#/- Et pacis turbatoribus solet acclamari frid/frid,
+quin et ipsi ad magistratum delati dicuntur den friden anloben, data manu ex fide praestiti iuramenti nihil amplius turbaturum esse pollicentur.<fe> pacem solum hac voce
+scribae significabant, sed mulctam etiam, quam pa[cis] violatori leges irrogabant<fx>^#/+In G^#/- quae pacem violanti irrogabatur ^#/+statt^#/- quam pa[cis] violatori leges irrogabant.<fe>. Unde et<fx>et ^#/+fehlt in G.^#/-<fe> in legibus Francicis et
+Alemann[i]cis saepe legimus haec verba: "Et fredum insuper
+componat vel<fx>componat vel ^#/+fehlt in G.^#/-<fe> solvat",<f1>Vadian zitiert frei, vgl. etwa die Leges Alamannorum, Gesetze XXXf (bzw. XXXIf) (aaO, S. 89f).<fe> hoc<fx-t>^#/+In G^#/- id est: mulctam fredi violati.<fe> [est]: Mulctam solvat fredi violati,
+componendi verbo pro voce transigendi usu[r]pantes<fx-x>^#/+In G^#/- id est...<fe>. Nec est
+levis hodie poena pacis etiam<fx>^#/+In G^#/- vel.<fe> privatim iussae<fx>^#/+In G^#/- mandatae et iussae.<fe>, si quis eam
+violet, wan<fx-t>^#/+In G^#/- wann ainer den angelegten oder gebottenen friden mit wordt oder that bricht.<fe> ainer den friden, der imm gebotten oder angelegt
+ist, mit wordt oder mit that pricht<fx-x>^#/+In G^#/- wann ainer...<fe>. In urbe vestra Tigurina<fx>^#/+In G^#/- In urbe tua et multis locis Helvetiae^#/+, mit marginalem^#/- Tiguri^#/+, statt^#/- In urbe vestra Tigurina.<fe>
+poena cap[i]tis irrogatur fredum vulnere illato<fx>illato ^#/+von Vadian am Rande nachgetragen; fehlt in G^#/-.<fe> violanti.<f1>Vgl. Erich ^#/+Wettstein,^#/- Die Geschichte der Todesstrafe im Kanton Zürich, Winterthur 1958. - Sammlung schweizerischer Dissertationen, Rechts- und staatswissenschaftliche
+Reihe 11, bes. S. 53f.<fe>
+Duplex erat bannus<f1>Bann bedeutete im hier erörterten Zusammenhang zunächst Banngewalt,d. h. das Recht zu gebieten und zu verbieten, bezeichnete sodann aber auch die bei Bannbruch fällige Strafe, s. Robert ^#/+Scheyhing,^#/- in: LMA I 1414f.<fe>, maio[r]<fx-t>^#/+In G^#/- minor et maior, qui et
+dominicus (ni fallor) dictus est, hoc est regius vel imperatorius, si eum vel rex vel imperator edixisset.<fe> et minor; maior etiam dominicus
+dicebatur, hoc est regis vel imperator[is] iussu edictus<fx-x>^#/+In G^#/- minor...<fe>.
+Uterque certa summa auri argentique<fx-t>^#/+In G^#/- argentive solvebatur, de qua in legibus illis clare discitur, quae a Francis et Alemannis constitutae sunt. Alius generis est proscriptio, quam hodie bannum vocant quidam, vulgo die acht oder deß reichsacht. Proprie enim proscriptio est, vitae,
+famae et rerum omnium illius, qui huic durę poenae subiicitur. <fe> diluebatur.<f1>Die für den "bannus maior" (Königsbann) kennzeichnende Buße betrug 60 Schilling, Bußen anderer Amtsträger waren entsprechend niedriger, s. Robert ^#/+Scheyhing,^#/- in: LMA I 1414f.<fe> Raro
+a[utem?] nec nisi insignium criminum gratia capite
+plectebantur sontes a Francis et [Ale-]<vl>6v.</vl>  ⁽^#'2^#'0^#'v^#'.⁾mannis. Poena prope
+omnis pecuniaria erat. Aliud generis est bannus, quem
+proscriptionis voce significamus et Germanice "die acht" oder
+"dess reychs acht" appellamus<fx-x>^#/+In G^#/- argentive... <fe>.<f1>Acht: Verurteilung und Verfolgung eines Angeklagten durch die oberste Gerichtsgewalt, s. SI I 77f; E. ^#/+Kaufmann,^#/- in: HRG I 25-32.<fe>
+^$Haec<fx-t>^#/+In G^#/- Haec de vocabulis, quae sane multa exposuimus in libris, quos de veteribus Germaniae collegiis et monasteriis conscripsimus, quorum, si qua edendorum mihi occasio olim dabitur, et haec et alia haud omnino vulgo nota diligentius explicata leges.<fe> de voculis illis in
+praesentia, quae referremus,
+habuimus. Pluscula autem exposuimus in libris, quos de
+veteribus Germaniae collegiis et monasteriis conscripsimus,
+quorum si qua aedendorum mihi olim occasio dabitur, et haec ipsa
+et alia nonnulla haud omnino vulgo nota diligentius, quam
+iam daretur, explicata cognosces<fx-x>^#/+In G^#/- Haec... <fe>.<f1>Vadian bezieht sich auf seine Schrift "Farrago de collegiis et monasteriis Germaniae veteribus" (s. oben Anm. ***).
+Zur Diskussion Vadians mit Bullinger und Froschauer über eine etwaige Publikation vgl. Vadian BW VII 94f, Nr. 66, bzw. HBBW X, Nr. 1401, knappe Hinweise zur Schrift bei ^#/+Näf,^#/- Vadian II 388.<fe>
+^$De<fx-t>^#/+In G^#/- Caeterum de Berchtoldo illo duce Zeringensi illud, quod vulgo tamen satis notum est, admonuisse libebit: Burgundiae ipsum, non magnae illius, quae olim regnum illustre fuit, sed eius, quae cis Iuram montem est, ducem et rectorem fuisse
+et curiam suam in arce illa plane regia habuisse, quae hodie ditionis est clarissimae urbis Bernensis et Germanice Burgdorf appellatur. Cisiuranae autem Burgundiae tractum hodie Bernenses et Solodorenses, partim etiam Friburgenses tenent. Et extant tabulę etiam Germanicę, quae hanc Burgundiam
+"Bürgünden" nominant.
+Verba hęc sunt: "Unnd ist alle landtschafft hie disset dem Lebern" (sic hodieque Iuras mons vocatur) "um Bern und Soloturn by der Aren unnd dem Nüwenburgersee uf biß an Wallis und Genfersee etc. in Bürgünden gelegen."<fe>
+Berchtoldo vero illo, duce Zeringensi<f1>Berthold V., Herzog von Zähringen, Rektor von Burgund, geb. um 1160, gest. 1218. Berthold folgte 1186 seinem Vater Berthold IV. als Herzog und forcierte den Landesausbau - u. a. mit der Gründung Berns 1191 - in seinem Territorium, im Gebiet der späteren
+Eidgenossenschaft. Er nahm am 3. Kreuzzug teil und warf in den Jahren 1190/91 eine burgundische Adelserhebung nieder.
+Nach dem Tode Heinrichs VI. (1197) wurde er als Thronkandidat vorgeschlagen, verzichtete aber gegen Entschädigung zugunsten des Stau­fers Philipp von Schwaben auf die Königswürde. 1209/10 zog er mit Kaiser Otto IV. nach Italien, fiel aber nach dessen Exkommunizierung von ihm ab. Mit seinem Tod starb
+die Linie der Zähringer aus und deren Territorium zerfiel. Die Nachwelt hat ein äußerst negatives Bild des letzten Zähringerherzogs gezeichnet.
+- Lit.: Dieter ^#/+Geuenich,^#/- Bertold V., der "letzte Zähringer", in: Die Zähringer. Eine Tradition und ihre Erforschung, hg. v. Karl ^#/+Schmid,^#/- Sigmaringen 1986. - Veröffentlichungen zur Zähringer-Ausstellung 1, S. 101-116; Gerd ^#/+Althoff,^#/- Die Zähringer. Herzöge ohne Herzogtum, in: Die
+Zähringer. Schweizer Vorträge und neue Forschungen, hg. v. Karl Schmid, Sigmaringen 1990. - Veröffentlichungen zur Zähringer-Ausstellung 3, S. 81-94; Karl ^#/+Schmid,^#/- in: LMA I 2028 (Lit.).<fe>, cuius tabula una
+meminit,<f1>Berchtold V. von Zähringen erscheint in der Urkunde ZUB I, Nr. 343, s. Vadians Übersetzung unten S. ***.<fe> illud admonendum ducebam. Rectorem<fx>^#/+In der Vorlage^#/- Rectore.<fe> ipsum et ducem
+fuisse Burgundię non magnę illius, quae illustre
+quondam regnum fuit, sed partis eius, quae cis Iuram nostrum
+in Allobroges<f1>Das Gebiet der Allobroger wurde zu Vadians Zeit zumeist mit Savoyen gleichgesetzt, vgl. etwa Johannes Stumpf, Gemeiner loblicher eydgnoschafft [...] beschreybung [...], Zürich (Christoph Froschauerd. Ä.) 1547 (BZD C 376), Bd. I, f. 262r und 273r. Vadian meint hier die Waadt.<fe> et
+Valesios<f1>ins Wallis.<fe> excurrit, quam hodie fere
+Bernenses et Solodorenses<f1>Solothurner.<fe> et Friburgenses tenent, et extant
+tabulae etiam<fx>^#/+Vor^#/- etiam ^#/+gestrichenes^#/- quae.<fe> Germanicę, quae hanc Burgundiam "in
+Bürgünden" nominant;<f1>Vgl. auch die Beschreibung von Johannes Stumpf (Stumpf, aaO, Bd. I, f. 279v.): "wirt noch von Uechtland herab biß an die Murg, den obgenennten bach, genennt Bürgenden". Ebenso ebd., Bd. I, f. 284v.<fe> haec et Vüthlandia dicta Alemannis,
+hodie Uͤchtland<fx>^#/+Vor^#/- Uͤchtland ^#/+gestrichener Buchstabe^#/-.<fe>, cuius nominis originem certo indicavit
+Rhenanus.<f1>Rhenanus, aaO, S. 134 (zu "Nuithlandia"). Vadian selbst bietet in seiner größeren Äbte­ch­­ronik (Joachim von Watt [Vadian], Deutsche historische Schriften, hg. v. Ernst Götzinger, Bd. 1, St. Germain 1875, S. 249) eine Etymologie zu "Nüchtland".<fe> Palatium suum Berchtoldus in arce
+habuit plane
+regia, cui hodie subiacet oppidum perclarum ditionis
+Bernensium, quod vulgo Burgdorf nominatur, "und ist alle
+landtschaft hie disset<f1>diesseits.<fe> demm Läbern" (sic enim eo tractu ab
+accolis Iura mons vocatur<f1>Vgl. auch Stumpf, aaO, Bd. I, f. 262r: "Dannenhin hat Helvetia den berg Iuram oder Iurassum, den Läberberg [...]".<fe>) "umb Bern und Soloturn bey der
+Aren und den Nüwenburgersee uf biß an Walliß und den
+Genfersee hin etc. in Burgünden gelägen"<f1>Auf welche Quelle sich Vadian genau stützt, bleibt unklar. Die Lokalisierung Burgunds bzw. von "Burgundia minor" mit Hilfe der Grenzen Jura und Alpen findet sich unter Berufung auf frühmittelalterliche Quellen auch in zeitgenössischen Chroniken, vgl. etwa
+Stumpf, aaO, Bd. I, f. 297v.: "Anno domini 888 hat Rudolphus, ein sun Conradi, des obberuͤrten Burgundischen fürsten und regierers, die Helvetisch landschafft sampt Wallisserland zwüschend dem berg Iura oder Läberberg und dem Peninischen Alpgebirg, das ist S. Bernharts berg, gelegenn, eyngenommen
+und hat sich als bald durch etliche bischoff, priester und edlesten des volcks zuͦ S. Mauritzen im closter lassen bekrönen und einen künig zuͦ Burgundia nennen."<fe>.<fx-x>^#/+In G^#/- Caeterum ...<fe>
+^$De<fx-t>^#/+In G^#/- De praefectura autem illa Thuregica Berchtoldi multa scripsit Otto Frisingensis in opere suo chronico, quod vulgo est notum.<fe> praefectura autem illa Thuregiensi, cuius ipse in
+literis suis a me translatis meminit,<f1>"quod kastfoget dicitur", ZUB I, Nr. 343, S. 219.<fe> pluscula annotavit
+Otto Frisingensis<f1>Otto von Freising, geb. um 1112, gest. 1158. Um 1126 wurde Otto - Enkel Kaiser Heinrichs IV. und Onkel Kaiser Friedrichs I. Barbarossa - Propst des Chorherrenstifts Klosterneuburg, das er kurze Zeit später zugunsten eines sechsjährigen Studienaufenthalts in Paris verließ. 1132
+erfolgte der Eintritt in die Zisterzienserabtei Morimund, zu deren Abt er 1138 gewählt wurde. Noch im selben Jahr übernahm er das Bischofsamt in Freising. Vornehmlich mit der Betreuung seines Bistums beschäftigt, war Otto als Teilnehmer an Reichstagen und Synoden auch in die Reichspolitik
+involviert, wie er auch Ausgleichsverhandlungen mit der Kurie führte und am 2. Kreuzzug, der ihn bis nach Jerusalem führte, teilnahm.
+Herausragende und bleibende Bedeutung erlangte Otto von Freising als Verfasser der "Chronica sive Historia de duabus civitatibus", einer in kreativer Anlehnung an Augustin in den Jahren 1132-1146 gefertigten, von der Schöpfung bis zum Weltende reichenden Universalgeschichte, die große Wirkung
+entfaltete. Die Zeitgeschichte behandeln Ottos "Gesta Friderici", eine Darstellung des Aufstiegs der Staufer und der frühen Regierungszeit seines Auftraggebers Friedrich I. Barbarossa, die eine Fortsetzung aus der Feder seines Schülers Rahewin fand.
+- Lit.: Hans-Werner ^#/+Goetz,^#/- Das Geschichtsbild Ottos von Freising. Ein Beitrag zur historischen Vorstellungswelt und zur Geschichte des 12. Jahrhunderts, Köln-Wien 1984; Werner ^#/+Goez,^#/- Gestalten des Hochmittelalters. Personengeschichtliche Essays im allgemeinhistorischen Kontext, Darmstadt
+1983, S. 219-237; Josef ^#/+Maß,^#/- Das Bistum Freising im Mittelalter, München 1986. - Geschichte des Erzbistums München und Freising 1, S. 157-175; Cornelia ^#/+Kirchner-Feyerabend,^#/- Otto von Freising als Diözesan- und Reichsbischof, Frankfurt a. M. u. a. 1990. - Europäische Hochschulschriften
+III/413; Karl ^#/+Schnith,^#/- in: LMA VI 1581-1583; Ulrich ^#/+Schmidt,^#/- in: BBKL VI 1373-1375 (Lit.).<fe>
+in opere suo chronico,<f1>Gemeint ist nicht Otto von Freisings Weltchronik, sondern dessen "Gesta Friderici" (vgl. oben Anm. ***), s. Die Taten Friedrichs oder richtiger Cronica - Gesta Frederici seu rectius Cronica, übers. von Adolf Schmidt, hg. v. Franz-Josef Schmale, 4. Aufl. Darmstadt 2000. -
+Ausgewählte Quellen zur deutschen Geschichte des Mittelalters 17, S. 146f; s. auch Verena ^#/+Pliha,^#/- Nobile Turegum. Die Erwähnung Zürichs in den "Gesta Friderici" Ottos von Freising (1157/58), in: Turicensia Latina. Lateinische Texte zur Geschichte Zürichs aus Altertum, Mittelalter und Neuzeit,
+hg. v. Peter Stotz, Zürich 2003, S. 68-72.<fe> quod tibi ad manum
+esse novimus<fx-x>^#/+In G^#/- De praefectura... <fe>.<f1>Ein Handexemplar Bullingers der "Gesta Friderici" Ottos von Freising hat sich nicht erhalten (vgl. HBBibl III), ebenso wenig erscheint das Werk in Konrad Pellikans Katalog der Stiftsbibliothek am Großmünster, s. Martin ^#/+Germann,^#/- Die
+reformierte Stiftsbibliothek am Großmünster Zürich im 16. Jahrhundert und die Anfänge der neuzeitlichen Bibliographie, Wiesbaden 1994. - Beiträge zum Buch- und Bibliothekswesen 34. Eine von Johannes Cuspinian herausgegebene Druckausgabe war im Jahre 1515 in Straßburg bei Matthias Schürer erschienen
+(VD 16 O 1434).<fe>
+^$Iam<fx-t>^#/+In G^#/- Est autem in donatione Ludowici, qua monasterio sanctimonialium Thuregi providit, vocabulum redibitionis, quod quanquam e re non videbatur, tamen libebat obiter indicare.<fe> quod in Ludovici iunioris, qui Pii filius
+fuit,<f1>Ludwig II. der Deutsche, Sohn Kaiser Ludwigs des Frommen.<fe> dona-<vl>7r. (21r.)</vl>tione legitur vocabulum redibitionis,<f1>"cum universis censibus et diversis redibitionibus"; "aut ullas redibitiones vel freda aut bannos exigendo", ZUB I, Nr. 68, S. 23.<fe> admonendum
+duxi Francos ne dum et Alemannos non suis tantum, quae ad
+vulgus modo coercendum statutę videbantur, sed Romanis
+etiam legibus usos, iis inprimis, q[uae] Iustiniano authore
+invectae fuerant, quod sane omnibus in tabulis liqu[ido]
+constat, atque inde legum voces plusculae illorum tabulis
+insertę<fx-x>^#/+In G^#/- Est autem...<fe>.
+^$Redib[itio]<fx-t>^#/+In G^#/- Redibitionem constat, Ulpia[no] definiente, emptionis solutionem esse, wann ain kouf aufgehebt oder abkendt wird unnd der verkoüffer ghaissen oder mit recht gewisen wird, dasjenig, so er verkoufft, wider zunemmen. <fe> autem Ulpiano definiente emptionis erat
+solutio;<f1>Corpus iuris civilis, D. 41, 2, 13, 2: "venditionis est resolutio redhibitio", vgl. auch 21, 1, 21pr. Die "actio redhibitoria" gestattete dem Käufer im römischen Recht, insbesondere beim Sklavenkauf, die Rückgabe seines Kaufes und zwang den Verkäufer zur Rückerstattung im Falle von
+Sachmängeln, die er anzuzeigen verpflichtet gewesen wäre, s. ^#/+Kaser,^#/- aaO, S. 559f.<fe> wann ain kouff a[uf]gehept oder abkendt ward und
+der verkoüffer gehayssen oder [mit] recht gewisen ward,
+dasjenig, so er verkoufft hatt, wider zuͦ e[m]pfachen<fx-x>^#/+In G^#/- Redibitionem...<fe>. Ea
+in re miris fraudibus agebatur ab emptoribus, presert[im] in
+mancipiis reddendis ceu viciosis aut talibus, ut horum
+gratia emp[tio]nem ratam<fx>^#/+In der Vorlage^#/- rata.<fe> esse non posse iudicabant<fx>aut talibus, ut horum
+gratia emp[tio]nem ratam esse non posse iudicabant ^#/+fehlt in G.^#/-<fe>. Saepe<fx>^#/+Nach^#/- Saepe ^#/+gestrichener Buchstabe^#/-.<fe>
+enim empta mancipia<fx>mancipia ^#/+fehlt in G.^#/-<fe> ve[l] in pignus dabantur<fx>^#/+In G^#/- data erant.<fe>, vel sciente
+domino furtum patrarant<fx>^#/+In G^#/- fecerant.<fe>, quarum rerum actiones postea in
+servum redditum<fx>^#/+In G^#/- ipsum.<fe> redundabant et ex consequen[ti] in domini
+et proprietatis detrimentum. Extat titulus libro
+dige[sto]rum 21. "De aedilitio aedicto et redhibitoria",<f1>Corpus iuris civilis, D. 21. 1: "De aedilicio edicto et redhibitione et quanti minoris".<fe>
+in<fx>in ^#/+in der Vorlage über gestrichenem Buchstaben;^#/- ex ^#/+G^#/-.<fe>
+quo de fraude ill[a] multiplici multa mentio fit<fx>^#/+In G^#/- (a qua suos liberos esse Hludewicus cupit) plene cognosces ^#/+statt^#/- multiplici multa mentio fit.<fe>, praesertim
+in leg. "Redhibere" eodem titu[lo]<f1>Corpus iuris civilis, D. 21, 1, 21.<fe>.
+^$Idem dolus et in tollendis
+fideiussoribus accidebat, cuius eadem illa tabula meminit.<f1>"nec fideiussores tollendos", ZUB I, Nr. 68, S. 23.<fe>
+Tollebantur autem, ut coniicio<fx>^#/+In G^#/- iudicio. <fe>, fideiussor[es], quum legitima
+fideiussio ceu iniqua et contra legem postulata
+diss[ol]vebatur, sicut in redhibitoria iusta interdum et
+legitima emptio d[- - -]<fx>d[- - -] ^#/+fehlt in G.^#/-<fe> tanquam iniqua<fx>^#/+In G^#/- fraudulenta.<fe> dissolvebatur.
+^$Et
+quoniam Berchtoldi confirmatio cap[el]larum meminit<f1>Vgl. unten Z. ***.<fe>,
+quarum<fx>^#/+In der Vorlage ^#/-quorum.<fe> reditus parocho debebantur, non<fx-t>^#/+In G^#/- de capellis in agro Thuregiensi passim extructis intelligere videtur, quae postea auctae et amplius extructę parochiae factę fuerint.<fe> de urbicis
+capellis, quae tum aut nullae aut paucę erant, sed de
+iis, quae in parochia et <vl>7v. (21v.)</vl> agro Thuregiensi propinquo
+extructae passim ac deinde ius parochiale, ut vocant,
+indeptae fuerint<fx-x>^#/+In G^#/- de capellis...<fe>.
+^$Mitto<fx-t>^#/+In G^#/- Hiltgardae abbatissae meminere monachi veteres coenobii urbis nostrae. Epitaphion enim reperi Hiltgardę, Ludewici filiae, in bibliotheca monasterii nostri in haec verba.<fe> vero inter postre[ma] ad te Hiltegardae<f1>Hildegard, Tochter Ludwigs II. des Deutschen, geb. um
+828, gest. 856, amtete von 844 bis 853 als Vorsteherin des Klosters Frauenschwarzach am Main, ehe ihr Vater ihr am 21. Juli 853 seine mit Ländereien ausgestattete Stiftung Zürich übergab. Unter Hildegard als Laienäbtissin lebten 17 Nonnen in der Abtei. Die Vollendung der Abteikirche erlebte
+Hildegard nicht mehr, sie starb bereits am 23. Dezember 856 (evtl. erst 857). 1272 wurden ihre Gebeine unter der Äbtissin Elisabeth von Wetzikon neu beigesetzt. - Lit.: Judith ^#/+Steinmann,^#/- in: Helvetia Sacra III/1 1994f; Peter ^#/+Vogelsanger,^#/- Zürich und sein Fraumünster. Eine
+elfhundertjährige Geschichte (853-1956), Zürich 1994, S. 55-59.<fe>, primae
+illius sanctimonialium Thuregiensium monasterii abbatissae,
+epitaphium a monacho quodam coenobii nostri<f1>Die beiden Gedichte wurden ursprünglich anonym überliefert. Melchior Goldast wies 1606 die Verfasserschaft in seinen "Alamannicarum rerum scriptores" (Bd. II, S. 85) ohne Angabe von Gründen Ratpert von St. Germain (geb. 840/850, gest. um 900), dem
+Verfasser der "Casus sancti Galli", zu. Ob die Zuschreibung durch Goldast selbst erfolgte oder ob er diese bereits in Vadians Briefentwurf, seiner Vorlage (s. oben Anm. ***), vorfand, bleibt offen. Vgl. Peter ^#/+Stotz,^#/- Die bisher Ratpert zugeschriebenen Verse über Bau und Weihung von Bertas
+Fraumünsterkirche in Zürich, Lizentiatsarbeit Zürich 1966 (Typoskript), S. 91-93.<fe> scriptum, quod
+nescio an Thuregum olim missum et isthic scriptum sculptum
+ullo loco visatur an minus, quod in codice quodam
+bibliothecae
+nostrę<f1>Die beiden Gedichte sind samt Nekrolog in zwei Handschriften der St. Galler Stiftsbibliothek überliefert: Ms 397 (Mitte 9. Jahrhundert) und Ms 899 (10. Jahrhundert) (vgl. Gustav ^#/+Scherrer,^#/- Verzeichniss der Handschriften der Stiftsbibliothek von St. Germain, Halle 1875 [Nachdruck:
+Hildesheim-New York 1975], S. 135f und 315f); der Nekrolog entstammt dem ältesten St. Galler Totengedenkbuch (ebd., Ms 914). Vgl. ^#/+Stotz,^#/- Verse über Bau und Weihung, S. 88f.<fe>
+in haec verba scriptum legi<fx-x>^#/+In G^#/- Hiltgardae... <fe>:<f1>Druck der beiden Hildegard-Epigramme in ^#/+Stotz,^#/- Verse über Bau und Weihung, S. 90f, mit Kommentar ebd., S. 93-98, und Verweis auf weitere Drucke ebd., S. 90; Poetae Latini aevi Carolini (IV), hg. v. Paul von Winterfeld, Berlin
+1899. - MGH.PL 4/1, S. 335; eingeleitet und übersetzt in Peter ^#/+Stotz,^#/- Die erste Äbtissin des Fraumünsters. Zwei Inschriften-Gedichte zu Hildegard, Tochter Ludwigs des Deutschen (um 853/856), in: ders., Turicensia Latina, S. 40-43. Bullinger hielt diese ihm von Vadian übermittelten Gedichte in
+seiner Tigurinerchronik (Zürich ZB, Ms Car C 43, f. 159v.-160r.) fest, mit der Begleitnotiz: "Und ir epitaphium, welchs zuͦ Sangallen im kloster uß der libery abgeschriben mittgeteylt hat min lieber herr und guͦter fründ h. Jochim von Wadt hochloblicher und seliger gedächtnuß."<fe>
+<lz>
+^&=(10)10. kalendas ianuarii<f1>23. Dezember [856, evtl. 857].<fe> Hildigarda, virgo Christi et domini
+Hludowici<f1>Ludwig II. der Deutsche.<fe> regis
+filia, de hoc saeculo migravit ad Christum
+et humata est in ecclesia
+^$S. Regulae et Felicis<f1>Fraumünsterkirche.<fe>, martyrum
+Christi, in castello Turego<fx>^#/+Zusatz^#/- cui Ratpertus hoc epitaphium posuit ^#/+G, mit der Marginalie^#/- alii Hartmuoto tribuunt.<fe>.^&=999
+<lz>
+^$Hic<fx>^#/+Die St. Galler Codices schreiben^#/- hoc^#/+, s.^#/- Stotz,^#/+ Verse über Bau und Weihung, S. 92; ebenso G.^#/-<fe> iacet in tumulo Christi dignissima virgo
+^$^&=(30)Hildigarda nitens moribus egregiis.^&=999
+^$Haec fuit eximii Hludowici filia regis
+^$^&=(30)Mentem sponte sua<fx>^#/+Die St. Galler Codices schreiben^#/- suam^#/+, s.^#/- ebd., ^#/+S. 92 und 95; ebenso G.^#/-<fe> voverat illa deo^&=999
+^$Bis denos octo vitae compleverat annos
+^$^&=(30)Migrans ad sponsum virgo beata suum.^&=999
+<lz>
+^$Eodem libro et hoc elogium extabat<fx>^#/+Die Überschrift lautet bei G:^#/- Sed et elogium iisdem numeris scriptum super eo ipso templo, cui donatio illa facta est, quod in haec verba habebat.<fe>:
+<lz>
+^$Condidit hoc sanctum stabili fundamine templum
+^$Cum genitore pio Hludewico, principe terrae,
+^$Hildigarda potens, Christi clarissima virgo,
+^$Cui deus aeternae concedat gaudia vitae.
+<lz>
+<vl>8r. (22r.)</vl> Sic quondam<fx>^#/+In G^#/- Si quidem ^#/+statt^#/- Sic quondam.<fe> monachi nostri numeris et carmine ludebant,
+literis<fx-t>^#/+In G^#/- litteris et musis dediti et dura quidem in religione, cum hodiernis summo in ocio saginatis hęc una sit cura, ut et musas et literas quanta possunt invidia, in aetate literarum tam felici, persequantur et fastuoso etiam supercilio damnent.<fe> videlicet et musis, ut in
+ludo publico et celebri
+dediti, quum nostri hodie in otio saginati longe alias
+colant musas et nihil minus ament quam literas<fx-x>^#/+In G^#/- litteris ...<fe>.<f1>Zu Vadians negativer Beurteilung der Entwicklung der monastischen Bildung und Gelehrsamkeit vgl. u. a. dessen "Farrago" (^#/+Goldast,^#/- aaO, Bd. III, S. 2f).<fe> Sed de his
+satis.
+^$Quae<fx-t>^#/+Fehlt in G.^#/-<fe> utcunque perscripta ad te mitto, ne non
+gratificarer tibi optimo viro, cui debere me multis
+nominibus dudum fassus sum<fx-x>^#/+Fehlt in G.^#/-<fe>. Nihil enim
+dubito, quin perspectiora sint tibi medię illius aetatis
+saecula<f1>Vgl. oben Anm. ***.<fe> Francica et Alemannica, quam mihi hactenus ullis ex
+observationibus<fx>ullis ex observationibus ^#/+fehlt in G.^#/-<fe> esse potuerint. Quare<fx-t>^#/+In G^#/- quare peto, ut boni consulas, quae in tuam gratiam, te maxime flagitante, obiter congessi. Peto autem, ut exemplum Carolinae fundationis de Augiae monasterio Latinum ad me mittas.<fe> peto, ut
+obiter
+exarata boni consulas et ut Latinum exemplum<fx>^#/+In der Vorlage^#/- exemplus.<fe> fundationis
+Augiensis monasterii<f1>Kloster Reichenau, Kr. Konstanz, Baden-Württemberg.<fe> ad me mittas; coniicio enim et Latinum
+penes te esse, cum Germanicum a te, arbitror, translatum ad
+me miseris<fx-x>^#/+In G^#/- quare...<fe>.<f1>Von einer solchen Übersendung ist nichts bekannt. Eine deutsche Übersetzung der Reichenauer Gründungsurkunde von Bullingers Hand in Zürich StA, E II 437, 164r.-165v.<fe> Contracti<f1>Hermann von Reichenau, gen. der Lahme (Contractus), geb. 1013, gest.
+1054. Der mit sieben Jahren dem Kloster Reichenau übergebene und seit seiner Kindheit gelähmte Hermann empfing 1043 die Priesterweihe und entfaltete eine beeindruckende wissenschaftliche und publizistische Tätigkeit auf den Gebieten
+der Mathematik, Astronomie, Komputistik, Chronistik und Musiktheorie, die ihn zu einem der bedeutendsten Gelehrten seiner Zeit werden ließ. Daneben verfasste er hagiographische und liturgische Schriften, überarbeitete das Martyrologium des Notker Balbulus und betätigte sich als Dichter.
+- Lit.: Anna Dorothee ^#/+von den Brincken,^#/- Studien zur lateinischen Weltchronistik bis in das Zeitalter Ottos von Freising, Düsseldorf 1957, S. 150-159, 219-222 und 233f; Arno ^#/+Borst,^#/- Mönche am Bodensee. 610-1525, 3. Aufl. Sigmaringen 1991. - Bodensee-Bibliothek 5, S. 102-118; Herbert
+^#/+Grundmann,^#/- Geschichtsschreibung im Mittelalter, 3. Aufl. Göttingen 1978; Tillmann ^#/+Struve,^#/- in: LMA IV 2167-2169; Franz-Josef ^#/+Schmale,^#/- in: Die deutsche Literatur des Mittelalters. Verfasserlexikon, Bd. 3, Berlin-New York 1981, S. 1082-1090; Egon ^#/+Boshof,^#/- in: LThK^#'3 IV 1443.<fe>
+Chronicon, si aliunde non possum
+assequi, de tua bibliotheca petam.<f1>Ein Handexemplar Bullingers der von Christi Geburt bis 1054 reichenden Weltchronik Hermanns von Reichenau (Ausgabe in: Annales et chronica aevi Salici, hg. v. Georg Heinrich Pertz u. a., Hannover 1844. - MGH.SS 5, S. 74-133) hat sich nicht erhalten (s. HBBibl
+III), zweifellos war das Werk aber Bullinger bekannt, da er es als Quelle im Vorspann zu seiner ungedruckt gebliebenen Papstvitensammlung (vgl. dazu Christian ^#/+Moser,^#/- "Papam esse Antichristum". Grundzüge von Heinrich Bullingers Antichristkonzeption, in: Zwa XXX, 2003, S. 65-101, hier 94-97)
+anführte.
+Bullinger benützte die Chronik wohl in der von Johann Sichard herausgegebenen und 1529 bei Heinrich Petri in Basel erschienenen Chroniksammlung "Chronicon divinum plane opus eruditissimorum autorum, repetitum ab ipso mundi initio ad annum usque salutis MDXI" (VD 16 E 4266).<fe>
+^$Tuas<fx-t>^#/+In G^#/- Novarum rerum in praesentia non habemus, quod relatu dignum sit. Tuas literas accepimus cum Grynaei nostri elegantissimo hecatostycho. Patientia longa in libertatem erumpet, libertas ad arma, quae sane,
+ut hodie res habent, iuste sument magistratus vel innocentissimi, duntaxat ut aequis legibus locus esse et arceri libidinosissima quorundam et per omnia probra perfricta tyrannis queat. Cęsarem Carolum ferunt Norinbergam advolare magno comitatu et in hoc esse papistas omnes, ne pax nostris detur.
+<fe> vero literas<f1>Nicht erhalten.<fe> pridie cum elegantissimo Grynaei<f1>Simon Grynäus.<fe> nostri
+hecatosticho<f1>Gedicht in hundert Versen. Das Gedicht des Simon Grynäus ist an Jakob Sturm gerichtet und datiert vom 1. Januar 1541. Eine Abschrift von der Hand Theodor Biblianders ("Ad clarissimum virum Iacobum Sturmium Simonis Grynaei somnium sive libertas carmen hecatostichon") findet sich in
+Zürich ZB, Ms Car I 93 (ohne Paginierung oder Nummerierung).<fe> accepimus, et sum miratus tantum te ocii
+nancisci posse, ut tua etiam manu nobis inservias.
+^$Novi apud nos nihil, nisi quod Carolum<fx>Carolum ^#/+in der Vorlage in Versalien.^#/-<fe> caesarem<f1>Kaiser Karl V.<fe> praeterita
+Heidelberga proximare Norimbergę ferunt multo varioque
+comitatu pergentem.<f1>Zur Ankunft Kaiser Karls V. in Nürnberg vgl. unten Nr. 1472, 63-101.<fe> In hoc autem esse papistas omnes, ne pax
+nostris ulla concedatur<fx-x>^#/+In G^#/- Novarum...<fe>.
+At nos<fx>^#/+In G^#/- Sed ^#/+statt^#/- At nos.<fe> optima quęque nobis de
+principe illo nobili et miti multis quidem<fx>^#/+In G^#/- nobilissimo utcunque ^#/+statt^#/- nobili et miti multis quidem.<fe> aculeatis
+consiliorum oestris agitato, sed<fx-t>^#/+Fehlt in G.^#/-<fe> in hunc usque diem ab armis
+intestinis alieno magna cum spe<fx-x>^#/+Fehlt in G.^#/-<fe> pollicemur. Quod si pax
+saeculi nostris obtingere nequit, sufficiat nobis<fx>nobis ^#/+fehlt in G.^#/-<fe> pax
+Christi, prora et puppis<f1>Vgl. Adagia, 1, 1, 8 (^&xASD II-1 120f^&x{LB II 28f).<fe> salutis nostrae.
+^$Vale cum uxore<f1>Anna, geb. Adlischwyler.<fe> et liberis<f1>Von Bullingers
+Kindern lebten zu diesem Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich (1534), Hans Rudolf (1536),
+Christoph (1537), Johannes (1539) und Diethelm (1541); vgl. ^#/+Pestalozzi^#/- 314.<fe> cumque collegio fratrum in<fx>^#/+In G^#/- mihi in.<fe> domino
+colendissimorum<fx>^#/+In G^#/- colendissimorum et me barbare de saeculis barbarissimis locutum aequo animo ferto.<fe>.
+^$Sangalli, 8. die februarii anno 1541.
+<un>Ioach. Vadianus.<fx>^#/+Datierung und Unterschr.ift fehlt in G.^#/-<fe>
+<lz>
+[Adresse auf f. 8v. (22v.):] Domino Henrycho
+Bullingero, ecclesiae Tigurinae antistiti, suo.
+<lz>
+<vl>E II 440, 49</vl> [Beilage: Drei Urkundenübersetzungen Vadians.]
+<lz>
+1. Donatio Carolina.<fx>^#/+Daneben von anderer Hand^#/- Vadiani manus.<fe><f1>Übersetzung der Urkunde ZUB I, Nr. 37/Umarbeitung. Lateinische Abschriften der Urkunde aus Bullingers Besitz in Zürich StA, E II 451, 17f (Autograph Bullingers) und E II 440, 45.
+Eine weitere deutsche Übersetzung, die von Vadians Versuch leicht differiert, ist überliefert von Bullingers Hand in Zürich StA, E II 451, 1f (Teilübersetzung ebd., E II 440, 45).
+Bullingers Verarbeitung dieser Urkunde in seiner Tigurinerchronik: Zürich ZB, Ms Car C 43, 140v.-142r. (lat. Urkunde), 142v.-144r. (Vadians Übersetzung) und 155r.-159r. (Kommentar). Zur Arbeit Vadians an den Urkunden hielt Bullinger ebd., 142r. fest: "Dises instrument sampt andern zweien, königen
+Ludwigen des jüngern und hertzog Berchtoldts von Zäringen, hab ich zuͦgeschickt dem wytverruͤmpten herren doctorn Jochimen von Watt, der zyt burgermeister zuͦ Sangallen, mit pitt, das er die ins tütsch wöllte verdolmetschen. Das er gethan, doch mitt nachvolgender andingung und entschuldigung:
+[es folgt ein Auszug aus Vadians Brief, oben Z. ***-***]." Eine weitere Erwähnung des diesbezüglichen Briefwechsels mit Vadian samt Briefauszug (oben Z. ***-***) ebd., 153v.
+Bei der lat. Vorlage der Urkunde, die Bullinger und Vadian zur Verfügung hatten, handelt es sich um eine Umarbeitung von zwei Händen (Mitte des 12. und Anfang des 13. Jahrhunderts) der ersten Urkunde des Großmünster-Rotulus (ZUB I, Nr. 37 [mit neuer Einleitung und Datierung in ZUB XIII, Nr.
+121b/130a]), die die Urkunde durch Transponierung vom objektiven Stil des Rotulus in den subjektiven Stil eines Herrschererlasses sowie eine neue, urkundenkonforme Intitulatio zu einer angeblichen Urkunde Kaiser Karls des Großen werden ließ. Druck der Abweichungen der Umarbeitung mit Einleitung in
+ZUB I, S. 11f. Zum Großmünster-Rotulus grundlegend Hannes ^#/+Steiner,^#/- Alte Rotuli neu aufgerollt. Quellenkritische und landesgeschichtliche Untersuchungen zum spätkarolingischen und ottonischen Zürich, Freiburg i. Br.-München 1998. - Forschungen zur oberrheinischen Landesgeschichte 42, bes. S.
+136-139. Für freundliche Hinweise danken wir Dr. Hannes Steiner, Frauenfeld.<fe>^@-z
+^$<lz>
+In dem namen der haylgen und onzerteylbarlichen drifaltikhait. Ich, Carolus<f1>Die ursprüngliche Urkunde nahm wohl auf den fränkischen König und Kaiser Karl (III.) den Dicken Bezug, s. ZUB XIII, Nr. 121b/130a. Vadians Vorlage führt die Urkunde durch die Datierung auf Karl den Großen zurück.<fe>, uss
+göttlicher erbärmd romischer kayser, merer dess rychs, mit radt meiner bischofen und anderer meiner fürsten und<fx>und ^#/+von Vadian am Rande nachgetragen.^#/-<fe> uff ernstlich ansuͦchen und begeren ettlicher frommer christen, so mit iren aygnen guͤtern, die sy jetz erkondiget<f1>Wohl:
+abgegrenzt, festgelegt haben.<fe> oder noch erkondigen möchtend, an vilen und mancherlay ordten gelägen, mit unser verwilgung, damit sy ire seelen von den sünden endtbinden möchtend, an die kirchen und begrepnuss der haylgen<fx>^#/+Nach^#/- haylgen ^#/+von Bullinger über der Zeile nachgetragen^#/-
+marteren zuͦ Zürych.<fe> zuͦ geben und zuͦ verschaffen willens sind,
+diß unser instrument und geschäftz brief ze stellen und uf ze richten verorndt und gehayssen hab, namlich<fx>^#/+Vor^#/- namlich ^#/+gestrichenes^#/- umb.<fe> umb erlüterung und erdurung<f1>Ergründung, Erforschung.<fe> willen der guͤter (der kirchen Zürich), da die haylgen marterer ire höupter, durch
+ghayß dess wuͤtrichs Decius inen abgeschlagen, von dem fluss, die Lindmagt<f1>Limmat.<fe>
+genandt, vierzig ellenbogen weyt<fx>^#/+Darüber von Bullingers Hand^#/- hoch.<fe> biß uff die ebny dess nächstgelägnen büchells<f1>Anhöhe.<fe> mit iren henden getragen und alda sampt iren körpern durch die hilf Christi, genad und fürsechen gottes zuͦ verbesserung aller christglöubigen in langwirige
+ruͦh bestattet habend.<f1>Die beiden Zürcher Stadtheiligen Felix und Regula flohen der Legende nach aus der in Saint-Maurice (Acaunum) stationierten Thebäischen Legion über Glarus nach Zürich, wo sie unter dem römischen Statthalter Decius den Märtyrertod erlitten und nach ihrer Enthauptung ihre
+Köpfe selbst bis zu ihrer Grabstätte trugen, über der das Zürcher Großmünster errichtet wurde. Die früheste "Passio" der beiden Märtyrer wurde Ende des 8. Jahrhunderts aufgezeichnet.
+- Lit.: Die Zürcher Stadtheiligen Felix und Regula. Legenden, Reliquien, Geschichte und ihre Botschaft im Licht moderner Forschung, hg. v. Hansueli F. Etter u. a., Zürich 1988; Iso ^#/+Müller,^#/- Die frühkarolingische Passio der Zürcher Heiligen, in: ZSKG 65, 1971, S. 132-187.<fe>
+Daruf nun wir von wegen der eer gottes und umb liebe willen, so wir zuͦ den<fx>^#/+Über^#/- den ^#/+von Bullinger über der Zeile nachgetragen^#/- dem lyden der. ^#/+Vgl. ZUB I, Nr. 37, S. 8: "vero pro dei amore et dilectione passionis germanorum ipsorum martyrum".^#/-<fe> haylgen marterer,
+geschwüstertig
+Felix<fx>Felix ^#/+in der Vorlage korrigiert aus^#/- Felixen.<fe> und Regula tragend<fx>^#/+Nach^#/- tragend ^#/+von Bullinger am Rande nachgetragen^#/- ouch uß andacht und lieplichem guͦten willen. ^#/+Vgl. ZUB I, Nr. 37, S. 8: "devotis et caritativis perfecerunt voluntatibus".^#/-<fe>, den
+chorbruͤdern<fx>^#/+Darüber von Bullingers Hand^#/- canoniken chorherren^#/+. Vgl. ZUB I, Nr. 37, S. 12: "ad incrementum canonicorum".^#/-<fe> daselbs<fx>^#/+Nach^#/- daselbs ^#/+von Bullinger am Rande nachgetragen^#/- von jetzund biß in eewikeyten. ^#/+Vgl. ZUB I, Nr. 37, S. 12: "a primordio et usque in
+evum".^#/-<fe>
+zuͦ verbesserung ireß leybs narung und endthaltung<f1>Unterhalt.<fe>
+(wie sy dann nach orndenlicher regel wandlend und tag und nacht zuͦ syben <vl>50</vl> malen gott dem herren lob verjechend<f1>bekennen, verkündigen.<fe>) und das sy fürohin<fx>^#/+Vor^#/- fürohin ^#/+von Bullinger über der Zeile nachgetragen^#/- von jetzund.<fe> zuͦ jemer werenden zeyten dester
+baß<f1>umso besser.<fe> on mangell und abgang verharren und bleyben mögind, so hab ich h[ie] uß kayserlicher macht gebotten und angesechen, das obg[emelte] gotzgaben sampt den guͤtern und gaben, so unser voralt<fx>^#/+Von Bullinger über der letzten Silbe ergänzt^#/- [vor-]far.<fe>
+<f1>Vorfahren.<fe>
+an gemelte muͦter und kirchen geben, der selben kirch hinnen hin<f1>von nun an.<fe> und allweg<f1>immer.<fe> on menklichs intrag und ierr<f1>ohne Einsprache und Hinderung durch irgendjemanden.<fe> gehören und bleyben söllind sampt den gaben, so unser [bi]schof säliger gedachtnuss
+Theodorus<f1>Die Identifizierung des "episcopus Theodorus" (ZUB I, Nr. 37, S. 12) ist umstritten, s. ZUB ebd., S. 9, Anm. 1; Helmut ^#/+Maurer,^#/- "Bischof" Theodor "von Zürich". Über das Verhältnis von Bischof und Chorbischof im Bistum Konstanz der Karolingerzeit, in: Person und Gemeinschaft im
+Mittelalter, hg. v. Gerd Althoff u. a., Sigmaringen 1988, S. 199-210 identifiziert ihn mit dem Konstanzer Chorbischof Theoto (Thioto). Vgl. ^#/+Steiner,^#/- aaO, S. 22, 55 und 339 (Lit.).<fe>
+zuͦ der zeyt, als kirchen geweycht, wie er die vormals von uns empfan[gen], an gedachte kirchen geben hat, namlich das dörflin R[ie]den<fx>R[ie]den ^#/+in der Vorlage korrigiert aus^#/- R[ie]deren.<fe><f1>Albisrieden, heute Stadtteil von Zürich. Zur Lokalisierung von Albisrieden und der nachfolgend
+genannten Orte s. die Karte "Zinse und Zehnten der drei kirchlichen Institutionen Zürichs bis 1220", in: Hedwig ^#/+Wicker,^#/- St. Peter in Zürich, Zürich 1955. - Wirtschaft, Gesellschaft, Staat. Zürcher Studien zur allgemeinen Geschichte 12, S. 92.<fe> amm Albiss gelägen mit lüt und guͦt<fx>lüt
+und guͦt ^#/+unterstrichen, darüber von Bullingers Hand^#/- hußgsind und eignen lüthen. ^#/+Vgl. ZUB I, Nr. 37, S. 12: "cum familiis et mancipiis omnibusque".^#/-<fe> in berg und tal, so darzuͦ gehörig sind.
+Item<fx>Item ^#/+unterstrichen, darüber von Bullingers Hand^#/- und darüber. ^#/+Vgl. ZUB I, Nr. 37, S. 9 bzw. 12: "atque insuper in Hoinca".^#/-<fe> zuͦ Höngg<f1>Höngg, heute Stadtteil von Zürich.<fe> zwen lehen hö[f] und ain halben hof<fx>^#/+Von Bullinger am Rande in Klammern angemerkt^#/- 2^#'1/^#-2
+huͦben. ^#/+Vgl. ZUB I, Nr. 37, S. 12: "duas mansas et dimidiam".^#/-<fe> usserhalb dess frygen lehen<fx>^#/+Darüber von Bullingers Hand^#/- one das widenn erterych. ^#/+Vgl. ZUB I, Nr. 37, S. 12: "preter salicam terram".^#/-<fe> franke[n]guͦtz<f1>Hier Übersetzung für "terra salica", vgl. ZUB I, Nr.
+37, S. 12.<fe>, wie er die uss meiner hand<fx>^#/+Vor^#/- meiner hand ^#/+gestrichenes^#/- unser hand.<fe> in sein han[d] (als gebreuchlich ist) empfangen hat.
+Zuͦ dem Zurch gelägen<fx>Zurch gelägen ^#/+in der Vorlage mit Pfeil an diese Stelle verschoben.^#/-<fe> ettlich sonderbare<f1>einzelne, abgesonderte.<fe> guͤter<fx>guͤter ^#/+unterstrichen, darüber von Bullingers Hand^#/- abgesunderete oder abgeteylte ort. ^#/+Vgl. ZUB I, Nr. 37, S. 9: "et in
+Turego segregata loca".^#/-<fe> mit reben und fisch, sampt den mülinen und demm zechenden, so wir uss unser gerichten und vogtyen der frygen lehen guͦter an den ti[sch] der chorherren verorndt und verschafft haben,
+namlich ab Stadelhofen<f1>Zum Stadelhof vgl. ^#/+Wicker,^#/- aaO, S. 26-32, und ^#/+Steiner,^#/- aaO, S. 154.<fe>, ab Wibicheta<f1>Wipkingen, heute Stadtteil von Zürich.<fe>, ab Östen<f1>Aeugst am Albis, Kt. Zürich.<fe>, ab Illingen<f1>Lokalisierung unsicher, möglicherweise Illinger Mühle bei Embrach,
+Kt. Zürich. Vgl. ZUB I, Nr. 37, S. 9, Anm. 7.<fe>, Velland<f1>Fällanden, Kt. Zürich.<fe>, ab Muͦr<f1>Maur, Kt. Zürich.<fe>, ab Hövstetten<f1>Hofstetten, Dorfteil von Meilen, Kt. Zürich. Vgl. ZUB I, Nr. 37, S. 9, Anm. 10.<fe>, ab Meylen<f1>Meilen, Kt. Zürich.<fe>, ab Boswil<f1>Boswil, Kt.
+Aargau.<fe>.
+Den zechenden aber, so uns<fx>^#/+Vor^#/- uns ^#/+gestrichenes^#/- wir.<fe> ab aller gegin und barc[hy]<fx>uns ab aller gegin und barc[hy] ^#/+unterstrichen, darunter von Bullingers Hand^#/- uß zuͦgehörig pfarr der muͦter der kylchen zuͦkumpt.<fe><f1>Pfarrei.<fe> <vl>51</vl> daselbst gath, hab ich
+obgemelter muͦter und kirchen zuͦ freiger besitzung bestädt und haimgeben.
+Zuͦ demm allemm so hat Picho, der son Ertilonis<f1>Über den Donator Picho, der auch in ZUB I, Nr. 145 (4. Feb. 883) erscheint, und dessen Vater Ertilo ist nichts Weiteres bekannt, s. ^#/+Steiner,^#/- aaO, S. 334.<fe>, in unser und der unseren gägenwirtikhait umb seiner seel und seiner vordern hayl
+willen eegemelten<f1>oben erwähnten.<fe> chorbruͤdern zuͦ aygnem geschenkt zuͦ jemerwerender erhaltung übergeben alles das, so er zuͦ Schwamendingen<f1>Schwamendingen, heute Stadtteil von Zürich.<fe> und in umbligender march in berg und tal gehept hat.
+Dessgleychen Isenbert<f1>Die drei genannten Priester Isinpert(us), Comolt und Helfirich erscheinen auch in ZUB I, Nr. 139, s. ^#/+Steiner,^#/- aaO, S. 327, 317 und 324; Martin ^#/+Gabathuler,^#/- Die Kanoniker am Grossmünster und Fraumünster in Zürich. Eine Prosopographie von den Anfängen bis 1316, Bern
+u. a. 1998. - Europäische Hochschulschriften III/774, S. 194, Nr. 126, S. 130, Nr. 28 und S. 172, Nr. 91.<fe> zuͦ erledigung und vergeltung seiner prebend<f1>Pfründe.<fe> ainen hof zuͦ Wollisseld<f1>Wallisellen, Kt. Zürich.<fe> geben.
+Item Comolt, der priester, hat geschenkt der kirchen und den bruͤdern alles das, so er zuͦ Flobotisrein<f1>Fluntern, Stadtteil von Zürich.<fe> und in der selben march umb besessen hat. Gleycher maß der cleric genandt Helf­rych, sich den bruͤdern und der versamlung zuͦ empfelhen, der kirchen
+und den bruͤdern geschenkt alles, so er zuͦ Rüty<f1>ZUB I, Nr. 37, S. 10, Anm. 1 lokalisiert das in den Urkunden des Großmünster-Rotulus vorkommende "Riutin" bzw. "Samilinis Riutin" bei Riesbach, Kt. Zürich; in Frage käme auch der Rütihof beim "Fallenden Brunnen" auf dem Milchbuck (Zürich) (so
+^#/+Steiner,^#/- aaO, S. 310).<fe> und in der selben mark umb besessen hat.
+Ferrer so hat der jüngling Frieso<f1>Über Frieso ist nichts Weiteres bekannt, s. ^#/+Steiner,^#/- aaO, S. 323.<fe>, fro<f1>Frau.<fe> Perchta<f1>Berta, gest. 877. Jüngste Tochter Ludwigs (II.) des Deutschen, 853-857 Nachfolgerin Hildegards (s. oben Anm. ***) als Vorsteherin der Abtei Frauenschwarzach
+am Main, 857-877 als Äbtissin der Fraumünsterabtei. Unter Berta, die umfangreiche elsässische Besitzungen in die Abtei einbrachte, wurde die Abteikirche fertiggestellt, wobei die Reliquien von Felix und Regula in das neue Gebäude transferiert wurden. Bertas Gebeine wurden 1272 zusammen mit
+denjenigen ihrer Schwester Hildegard umgebettet. - Lit.: Judith ^#/+Steinmann,^#/- in: Helvetia Sacra III/1 1995f; ^#/+Vogelsanger,^#/- aaO, S. 59-69.<fe>
+son<f1>"Insuper Frieso puer dominę Perichtę", ZUB I, Nr. S. 10. "Puer" ist wohl nicht im Sinne von Vadians Übersetzung als "Sohn", sondern als "Vasall" zu verstehen, s. ^#/+Steiner,^#/- aaO, S. 333.<fe>, den bruͤdern alles das geschenkt, das er zuͦ Meyla<f1>Meilen, Kt. Zürich.<fe> und in der
+selben mark umb innghon<f1>innegehabt.<fe> hat. Item Peringhart der lay<f1>Über den Laien (laicus) Perinhart ist nichts Weiteres bekannt, s. ^#/+Steiner,^#/- aaO, S. 334.<fe> hat geben den bruͤdern all sin hab in Fenkhland<f1>Fällanden, Kt. Zürich.<fe> und der selben mark, was er darinnen besessen.
+Ainer ouch von den bruͤdern hat ainen hof zuͦ Boßwil gelägen mit lüt und guͦt der kirchen übergeben.
+Und sind diß gaben und genandte guͤter alle an die kirchen geben und geschenkt mit leüten, mit gebüw<fx>gebüw ^#/+in der Vorlage aus^#/- gebüwen ^#/+korrigiert.^#/-<fe>, mit grund und gradt<f1>mit dem gesamten Grundbesitz.<fe>, mit achern, matten, wisen, weyden, mit holtz in berg und talen, mit
+<vl>52</vl> wasser, wasserflüssen, mit gebuwnen und ungebuwnen, eß sy jetz erkondiget oder man erkondige eß noch, mit eingang, usgang und aller zuͦ ghörd, mit hayterem<f1>klarem.<fe> dess kayser Carols befelch und gebott, das den bruͤderen, so jetz in leben sind oder in künfftiger zeyt da syn
+werdend, obgedacht gaben und guͤter on menklich ierrung und intrag bestädt sein und bleyben,
+und sölle nieman macht noch gwalt haben, ainichen tayl oberzelter guͤter der kirchen ab ze ziechen oder jemand anderemm eingeben und zuͦ lehen verleychen, oder gedachte bruͤder der gemelten guͤter halb mit ainicher beschwerd oder neuwerung zw[in]genlichen zuͦ beladen, in
+dhain<f1>keinerlei.<fe> wyß noch weg.
+Disß alles ist geschechen und geben zuͦ Zürich im zechenden jar unsers kayserthumbs, der römer zinß zal<f1>Indiktion.<fe> 13, gezelt nach der geburdt Christi achthunderundzechen.<f1>Die Indiktion stimmt nicht mit Herrscher- und Inkarnationsjahr überein. ZUB XIII, Nr. 121b/130a datiert die
+ursprüngliche Urkunde auf den 12. September 874 oder 876-887. Zur Datierungsproblematik vgl. ebd. und ^#/+Steiner,^#/- aaO, S. 53-57. Bullinger erörtert die Datierung im Anschluss an seine Abschrift der lateinischen Urkunde in Zürich StA, E II 451, 17f.<fe>
+<lz>
+^@-z2. Literae Berchtoldi, ducis de Zeringen, de plebanatu Tigurino ^$^$^$ monasterii maioris.<f1> Übersetzung der Urkunde ZUB I, Nr. 343. Bullingers Verarbeitung dieser Urkunde in seiner Tigurinerchronik: Zürich ZB, Ms Car C 43, 237v.-238v. (lat. Urkunde), 238v.-240r. (Vadians Übersetzung) und
+240r.-243r. (Kommentar).<fe>^@-z
+<lz>
+Imm namen der haylgen und unzertaylbarlichen drifalt[i]khait. Ich, Berch­told von Zeringen, hertzog und regierer in Bürgünden, uss gottes und kayserlichen gnaden erwelter und eingesetzter kastvogt<f1>Kastvogt bezeichnete insbesondere in süddeutschen Urkunden den obersten Schirmherr einer Kirche, der
+die hohe Gerichtsbarkeit ausübt, s. Heinz ^#/+Dopsch,^#/- in: LMA V 1053.<fe> dess münsters Zürich, de[m] erwirdigen herren Walthern<f1>Walter ist über den Zeitraum 1185-1187 als Propst am Großmünster nachweisbar, gest. Ende 1187 oder Anfang 1188. - Lit.: ^#/+Gabathuler,^#/- aaO, Nr. 199, S. 234.<fe>,
+gedachts münsters propst, u[nd] <vl>53</vl> den andern seynen mitbruͤdern<fx>^#/+Vor^#/- mitbruͤdern ^#/+über der Zeile von Bullinger nachgetragen^#/- heiligen frommen, ^#/+Vgl. ZUB I, Nr. 343, S. 219: "sanctisque confratribus eius".^#/-<fe>.
+Damitt die ding, so mit guͦter vorbetrachtung<f1>Erwägung der Umstände.<fe> umb viler hayl willen zuͦ endt pracht werdend,<f1>Berthold spielt auf die langwierigen Auseinandersetzungen seines Vaters Berthold IV. von Zähringen mit den Zürcher Chorherren an, die mit dessen Einwilligung in die freie
+Leutpriesterwahl endete (ZUB I, Nr. 329), vgl. ^#/+Gabathuler,^#/- aaO, S. 293f.<fe> mit gebürlichen freyhaiten bestädt und in dehain vergesslikhait noch gefar ainicher iertumb<f1>Hinderung.<fe> khomen mögind, so thuͦnd wir hiemit kundt allermenklichen<f1>jedem, allen.<fe> der christgloübigen:
+Demnach und die pfarr der propstey Zürich vom ursprung har irer stifftung von den bruͤdern der kirchen der gstalt versechen worden, das alle chorherren ire gebürlich und empsig dienst gemaynem volk der kirchhöre<f1>Kirchgemeinde.<fe> mit sonderem fleyß (wie trüwen hirten gepürdt) gelaistet und
+mittaylt, so hat sich doch nachgender louffender<fx>^#/+Vor^#/- louffender ^#/+gestrichenes^#/- zeyt.<fe> zeyt zuͦtragen, daß das gemain volk der kirchhöre umb ainen sonderbaren<f1>eigenen.<fe> pfarrer angelangt und gebetten und den ouch in sonderen schutz und schirm ze setzen begerdt habend.
+Hieharumb wir
+in ansechen, das söllich pitt und begär demm propst und den bruͤdern nit widerwillig und mit vergünstigung<fx>^#/+Vor^#/- vergünstigung ^#/+gestrichener Buchstabe^#/-.<fe> ireß bischoffs nit zuͦ gegen noch überlegen ist und wir ouch uss kayserlichem befelch darzuͦ verwilget habend<f1>"habend" auch
+zum nachfolgenden Satzteil zu ziehen (Apokoinou).<fe>, gedachte chorherren ainen uss inen zuͦ pfarer erwelt und dabey ainhellig aufgenomen, dehainen zuͦ künftiger zeyt zuͦ söllichem ampt zuͦ erwellen, dann allain den, der uss der zal und gmainsamme der chorherren und bruͤdern syge.
+Und die weyl (wie die geschrifft meldt<fx>^#/+Vor^#/- meldt ^#/+gestrichenes^#/- redt[?].<fe><f1>1Kor 9, 13.<fe>) der, so demm altar diendt, ouch von dem altar sein narung haben sol,
+ist gedachtem erweltem pfarrer umb khomlikhait willen<f1>zugunsten.<fe> seiner narung ain sonderba-<vl>54</vl>ren eingang uss gemaynen obgemelten kirchen guͤtern in maß, wie harnach volgt und geschriben stadt, beschayden<f1>zugewiesen.<fe> und abgezaychnett worden. Namlich und von
+erst<fx>^#/+Vor^#/- erst ^#/+gestrichenes, unlesbares Wort.^#/-<fe> die stiftungen aller capelen der barchy und der zechenden deß gantzen<fx>^#/+Vor^#/- gantzen ^#/+gestrichenes, unlesbares Wort.^#/-<fe> dorfs Witlichen<f1>Witellikon, Pfarrei Zollikon (Kt. Zürich).<fe>, dessgleychen der halb tayl opffer und
+dess almuͦsens, so die kranken in sterbenden nöten umb irer seel hayl willen darheraychen und zuͦ verschaffen gewon sind.
+Mitt diser massung<f1>Bestimmung.<fe> und erlüterung, das ain recht erwelter pfarrer, demm nach und<f1>nachdem.<fe> er von demm probst zuͦglassen<f1>anerkannt, aufgenommen.<fe> und in besitzung khommen ist, allwegen zwen priester bey imm haben und die pfarrliche recht sampt den selben mit allem
+fleyß vollziechen und versechen sölle etc.
+Die weyl nun wir söllich<fx>Die weyl nun wir söllich ^#/+von Vadian am Rande statt gestrichenem^#/- wellich ^#/+nachgetragen.^#/-<fe> ordnung und zuͦ vor das gedacht chorherren nu hinnen hin und<fx>und ^#/+am Rande von Vadian nachgetragen.^#/-<fe> niemand anderst die wal und den insatz aineß pfarrers
+haben und dabey geschützt werden möchtend<fx>^#/+Vor^#/- möchtend ^#/+gestrichenes^#/- mögind, wir mit unsern brief und siglen.<fe>, mit unsern brief und siglen ufzerichten und zuͦ bestäten, gebätten und angeruͤfft word[en] sind, so habend wir, angesechen das zimlich<f1>angemessene, billige,
+zulässige.<fe> pitt der bruͤdern, inen die fryge wal, und das ain probst allain de[n] erwelten pfarrer einzesetzen und zebestäten habe, mit dis[er] unser gegebnen fryhait verwilget, zuͦgeben<fx>^#/+Vor^#/- zuͦgeben ^#/+gestrichenes^#/- z.<fe>
+und bestädt mitt urkund und in krafft diss briefs, verwilgend ouch und bestädten das uss kaysserlicher verwilgung, dero wir uns in diser unser vogtey getröstend<f1>auf die wir uns stützen, verlassen.<fe>, zuͦm höchsten ge-<vl>55</vl>bietende, das niemand unserer nach­khomen ainichs gwaltz söllich
+unser bestätung anzefechten, zehindern oder ze ierren dhains wegs undernemmen sölle. Darum wir ouch zuͦ merer sicherhait bewilget habend, das diß fürgenomen ordnung mit kayserlichen und bäpstlichen instrumenten ferrer confirmiert und bestätett werden möge<fx>möge ^#/+am Rande von Vadian
+nachgetragen.^#/-<fe>.<f1>Eine päpstliche Bestätigung erfolgte 1188 (ZUB I, Nr. 346), eine kaiserliche Bestätigung ist nicht überliefert.<fe> Geben und beschechen in nachgeschribner zeugen gegenwirtkhait, Walthers, deß propsts, und aller seiner bruͤder (etc. sicut in literis<f1>In ZUB I, Nr. 343,
+S. 220f folgt eine Zeugenliste und Datierung auf den 29. August 1187.<fe>).
+<lz>
+3. Donatio Hludevici iunioris<f1>Ludwig II. der Deutsche.<fe>, qui Caroli Crassi<f1>Karl (III.) der Dicke.<fe> fuit pater.<f1>Übersetzung der Urkunde ZUB I, Nr. 68. Lateinische Abschriften der Urkunde aus Bullingers Besitz in Zürich StA, E II 451, 20f (Autograph Bullingers) und E II 440, 8.
+Bullingers Verarbeitung dieser Urkunde in seiner Tigurinerchronik: Zürich ZB, Ms Car C 43, 152r.-153r. (lat. Urkunde), 153v.-155r. (Vadians Übersetzung) und 155r.-159r. (Kommentar). Zur Schenkung Ludwigs des Deutschen vgl. ^#/+Vogelsanger,^#/- aaO, S. 35-54.<fe>^@-z
+<lz>
+Im namen der haylgen und onzertaylbarlichen drifaltikhait, Ludwig von gottes gnaden künig.
+Die weyl offenbar und menklichen<f1>allen, jedem.<fe> der glöubigen wissend ist, das denen<fx>denen ^#/+von Vadian aus gestrichenem^#/- die ^#/+korrigiert.^#/-<fe>, so uss künglicher miltikhait die irdischen guͤter, die inen uss fürsechen der guͤtikhait gottes mittgetaylt und zuͦgestelt sind, an
+die haylgen stett zuͦ pryß und eer gottes gebend<fx>^#/+Vor^#/- gebend ^#/+gestrichenes^#/- ze.<fe> und verordnend, gedachte guͤter und gaben in jenem läben mit himelschen guͤter und ewiger vergeltung bezalt und reychlich widerlegt<f1>entgolten.<fe> werdend, so thuͦnd wir hieharumb kundt und ze
+wissen allermenklichen gegenwirtigen und zuͦkünftigen christglöubigen, das wir umb vergeltung willen ewiger sälikhait dess durchlüchtigen kayser Carols<f1>Karl der Große.<fe>, unsers lieben anherren, und herrnn Ludwigs<f1>Ludwig (I.) der Fromme.<fe> , kaysers und merers dess reychs, unsers lieben
+herren und vatter säligen<fx>säligen ^#/+unterstrichen^#/-.<fe>,
+<vl>56</vl> und unser selbs sampt unsernn kinden und eegemachlen<f1>Ehegemahlen (des Kaisers und seiner Kinder).<fe> eewige belonung und sälikhait unser gericht und vogtey zuͦ Zürich im hertzogthum Schwaben (oder Allemannię) und<fx>^#/+Vor^#/- und ^#/+gestrichenes^#/- gelägen.<fe> in dem
+crayss<f1>Gau (lat. pagus).<fe> dess Turgöuws<f1>Thurgau. Zur frühmittelalterlichen Ausdehnung des Gaus Thurgau vgl. Erwin ^#/+Eugster,^#/- in: LMA VIII 746.<fe> gelegen mit aller aygenschafft, gerechtikait und zuͦ gehörd sampt anderen verwaltungen diser vogtey zuͦ gehörig, namlich mit dem ländlin
+zuͦ Ure<f1>Uri.<fe>, mit den kirchensatzen<f1>mit dem Recht der Kirchenstellenbesetzung (ius patronatus).<fe>, mit hüser, gebüw, so daselbs stadt, sampt der aygenschafft der leüten, manß und frowen geschlecht, jung und alt, mit grond und ertrich, eß sey gebuwen oder ungebuwen, mit wald, mit feld,
+mit<fx>mit ^#/+in der Vorlage irrtümlich wiederholt.^#/-<fe> wunn<f1>Wiese.<fe> und wayd, mit wasser, mit wasserflüssen, mit zuͦ gehörungen, straßen, ingengen und ußgengen, sy sigend jetz erkondigot oder man erkondige sy noch, sampt allen zinsen, rendten und gülten,
+darzuͦ ouch den forst, so man nendt das Albiss<f1>Der Albisforst umfasste "das ganze mittlere Albis- und Sihlgebiet bis nach Hirzel" (Paul ^#/+Kläui,^#/- Die Anfänge des Klosters Luzern und ihre politische Bedeutung, in: Zeitschrift für Schweizerische Geschichte 25, 1945, S. 4).<fe>, sampt allemm
+demm, so desselben ordtz unsere<fx>^#/+Zweites^#/- e ^#/+von Vadian über der Zeile nachgetragen.^#/-<fe> verwaltung, besitzung und aygenschafft ist, nützit ußgenomen noch hindan gesetzt, an das frowen münster<fx>an das frowen münster ^#/+unterstrichen, darüber von Bullingers Hand^#/- unser münster oder
+kloster^#/+, vgl. ZUB I, Nr. 68, S. 23: "totum et integrum ad monasterium nostrum tradimus".^#/-<fe> in dem fläken Zürich<fx>^#/+Darüber von Bullingers Hand die entsprechende Passage der lateinischen Urkunde^#/- in eodem vico. ^#/+Vgl. ZUB I, Nr. 68, S. 23.^#/-<fe> gelegen, da die hayligen marterer s.
+Felix und Regula ruͦbend<fx>^#/+Darüber von Bullingers Hand der wieder gestrichene Zusatz^#/- mit irem lib. ^#/+Daneben Bullingers Korrektur seines eigenen Zusatzes:^#/- liplich. ^#/+Vgl. ZUB I, Nr. 68, S. 23: "corpore quiescunt".^#/-<fe>, geschenkt, verschafft und übergeben habend, söllicher maß und
+gestalt,
+das nun furohin zuͦ jemer werenden zeyten allwegen daselbst gaystlich frowen<fx>^#/+Darüber von Bullingers Hand, den entsprechenden Passus der lateinischen Urkunde aufnehmend:^#/- sanctimoniales^#/+, vgl. ZUB I, Nr. 68, S. 23.^#/-<fe>, die der regel und closterzucht und andern gaistlichen wandell
+underwo[rfen] sygind<fx>^#/+Darüber von Bullingers Hand der entsprechende Passus der lateinischen Urkunde:^#/- sub regulari forma[!] [ZUB: norma] degentium vita conversatioque monasterialis monachico cultu instituta^#/+, s. ZUB I, Nr. 68, S. 23.^#/-<fe>, ufgenomen und endthalten werden<fx>werden ^#/+in
+der Vorlage korrigiert aus^#/- werdind.<fe>
+söllind, damit der <vl>57</vl> gotzdienst und vereerung gedachter marterer an jetzgemelter statt mitt meererem andacht vollzogen und erstattet und die barmhertzikhait gottes für unser und der unseren schuld dester empsiger und rychlicher erbetten werden möge. Wellend also hiemit menklichem kondt und
+zewissen thuͦn haben, das wir von jetzgemelter ursach halb uss vätterlichem gemuͤt bewegt, gedacht münster<fx>münster ^#/+unterstrichen. Am Rande von Bullinger Hand^#/- closter.<fe> mit allen zuͦghörd und begabungen unser aller liebsten tochter Hiltgarden zuͦ aygnem haimgestelt und ubergeben
+habend,
+uff das sy gedachten frowen vorstan, die selben under ir zucht und regel und orden halten und also durch hilf und genad gottes dem herren dienen, soldnen<f1>ihre Pflicht erfüllen.<fe> und leben und die gaistlich closterzucht mit täglichem zuͦ nemen, so vil got gnad gibt, erhalten, meeren und
+verbesseren möge.
+Hieharumb so gebietend wir mit ernst und wellend, das khain gemainer richter noch graf noch jemands anderer<fx>anderer ^#/+in der Vorlage korrigiert aus^#/- anderere.<fe> ain[!] vorgedachten enden und stetten uss gerichtz gwalt ainiche der gemelten guͤter oder leuten, sy sigind aygen oder frey,
+anfechten noch bekümmern noch für ainiche<fx>^#/+Nach^#/- ainiche ^#/+gestrichene Buchstaben^#/-.<fe> frömbde gericht laden und sy ufrechter bürgschaft zuͦ endtziechen oder mit<fx>^#/+Vor^#/- mit ^#/+gestrichenes^#/- zeschedigen.<fe> ufsag<fx>ufsag ^#/+am Rande von Vadian aus gestrichenem^#/- abschlag
+^#/+korrigiert.^#/-<fe> redlicher keüffen beschedigen noch ainich vergeltungen, buͦßen und hochstrafen von inen zuͦ erzwingen noch mit ainicher gwaltsammen zuͦ belestigen undernemmen, sonder in unserm schutz und schirm und gegebnen fryhaiten und in verwaltung der kastvögten, so der
+enden<f1>dort.<fe> dem münster geben sind, <vl>58</vl> ruͤbig und on angefochten zuͦ allen zeyten bleyben lassen wellind und sollind.
+Und damit söllicher unser gab und verordnung werende<f1>bleibende.<fe> kraft und bestendikhait, ouch in gegenwirtiger und künftiger zeyt so vil mer ansechens und glauben ha[be], so hand wir disen brief mit unser hand underschriben und mit unserm sigell bewaren<f1>bestätigen, befestigen.<fe> lassen,
+der geben ist uff 19. tag Ougs[ten]<f1>ZUB I, Nr. 68 datiert "XII. kal. Aug." (21. Juli).<fe> unsers dess ostfrankischen reychs imm 20. jar<f1>853 n. Chr.<fe> zuͦ Regenspurg in der statt, in gottes namen säliklich<fx>^#/+In der Vorlage^#/- sälikhich.<fe>. Amen.
+</content>
+</letter>

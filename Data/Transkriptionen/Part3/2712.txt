@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2712">
+<brief>
+<id>16400</id>
+<nr>2712</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-12-10"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>Augsburg, 10. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 370, 33 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 127; Lit.: F. Roth, Augsburgs Ref'g III 473f</k></dr>
+<re><t>Haller empfiehlt den jungen, reumütigen [Johannes] Huser, der nun nach Zürich zurückkommt. Es war nicht leicht, diesen dazu zu bewegen. Sein Ausreißen will er durch Gehorsam wieder wettmachen. Nach vielen Missgeschicken weiß er nun, wie schön es ist, in der Heimat zu leben, wenn auch unter der Aufsicht eines Erziehers. Als er zu Haller kam, war er völlig heruntergekommen und verzweifelt. Hätte Haller ihn nicht aufgenommen, wer weiß, was aus ihm geworden wäre! Die Zürcher möchten ihn nun Haller zuliebe gut empfangen, damit er nicht erneut auf schlechte Gedanken kommt. Soldaten berichteten, dass er sich während des Krieges anständig verhalten habe. Das lässt hoffen.</t>
+<t>Wie sich jetzt herausstellt, sind die meisten Nachrichten, die Haller vor drei Tagen [in <qv>nr2706</qv>] meldete, falsch. Seit gestern steht nämlich fest, dass Kaiser [Karl V.] sich in Rothenburg ob der Tauber befindet und neue Söldner aus den von den [Schmalkaldenern] entlassenen Truppen anwirbt.</t>
+<t>Man sagt leider, dass die Ulmer sich um eine Aussöhnung mit dem Kaiser bemühen. Würden sie nun zu Feinden werden, wäre es um die [Augsburger und die übrigen evangelischen Reichsstädte] geschehen!</t>
+<t>Eine bedeutende Persönlichkeit [Hans Welser?] erzählt, dass der Kaiser vorhabe, alle Bürger und sonstigen Einwohner von Augsburg, die Güter oder Waren in kaiserlichen Gebieten besitzen, aufzufordern, die Stadt in Kürze zu verlassen, um wieder an ihr beschlagnahmtes Gut kommen zu können. Stimmt das, sind schlimme Folgen zu erwarten! Denn fast alle Bürger, auch die Ärmsten, haben Geld in den Augsburger Handelshäusern angelegt und beziehen Zinsen daraus, die sie wiederum anderswo anlegen. Werden nun diese Renditen den Bürgern nicht mehr ausgezahlt, geriete die ganze Stadt in äußerste Armut! Alle sind höchst beunruhigt. Niemand will etwas zurücklassen, niemand [aber] will etwas verlieren. Es ist auch zu befürchten, dass die Pfaffen in die Stadt zurückkehren. Dann wäre es auch mit allen Pfarrern aus! Der Herr, der über die Welt gesiegt hat, wende dies ab!</t>
+<t>Aus Venedig kommt die Nachricht, dass der türkische [Sultan Suleiman I.] mit einem großen Heer bei Adrianopel überwintere. Dies ist ein unmissverständliches Vorzeichen eines künftigen Feldzuges gegen die [Christenheit].</t>
+<t>Bullinger und seine Familie seien Christus empfohlen. Alle Kollegen lassen grüßen.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16400-1A</zzl>Redit ad vos Huserus
+<fn>Johannes Huser. - Haller hatte ihn Anfang November bei sich aufgenommen und ihm alsbald zur Rückkehr nach Zürich geraten, zumal er den Zürchern verpflichtet war; s. <qv>nr2685</qv>,<qv>zl16372-20</qv>.</fn>, cui vix tandem, ut hoc faceret, persuasi. Commendo eum tibi. Est enim iuvenis non malus. Quod discedendo deliquit, obediendo posthac recompensabit. Didicit enim per multos profecto iactatus casus, quam suave sit in patria sub iugo paedagogi vivere. Summam est perpessus pauperiem et inediam, frigore quoque tantumnon confectus, pediculorumque corrosus morsibus. Et nisi ego eum retinuissem mecum et fovissem, nescio, quo miser desperabundus
+<fn>Verzweifelter; s. <a>Hoven</a> 158.</fn> abiisset. Promisit ergo se rediturum mea fretus commendatione. Rogo ergo, ut acolastum
+<fn>Vom griechischen <gr>ăkólastow</gr>, undiszipliniert, ausschweifend.</fn> poenitentem recipiatis nec reiiciendo ad peiora meditanda adigatis. Vixit profecto (sicut omnes ei milites testimonium ferunt) sobrie et honeste, et in ipsa impietatis palestra
+<fn>impietatis palestra: Gemeint ist der Krieg.</fn> pium se reservavit, id quod indicium infallibile
+<fn>untrügliches; s. <a>Kirsch</a> 1485.</fn> est superstitis de ipso spei bonae. Ita ergo cum ipso agatis, quaeso, ut sentiam has meas apud vos aliquid potuisse preces.<zzl>zl16400-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16400-2A</zzl>Scripsi ante triduum
+<fn>Am 6. Dezember mit Brief <qv>nr2706</qv>.</fn> quosdam rumores, qui nobiscum volitabant, quorum magnam nunc repperi partem esse falsam. <zzl>zl16400-6A</zzl>Certo enim heri relatum nobis caesarem
+<fn>Karl V., über dessen Tod falsche Gerüchte kursierten; s. die Verweise in <qv>nr2700</qv>, <qv>fn16388-4</qv>.</fn> agere apud Rotenburgum Tuberiacum
+<fn>Rothenburg ob der Tauber. - Siehe dazu <qv>nr2701</qv>, <qv>fn16389-6</qv>.</fn> novasque colligere copias ex his militibus, quos nostri dimiserunt.<zzl>zl16400-6E</zzl><zzl>zl16400-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16400-3A</zzl>Ulmenses etiam dicuntur, proh dolor, claudicare in partes caesareanas eiusque ambire amicitiam;
+<fn>Schon Mitte November ließ sich Ulm in geheime Unterhandlungen mit dem Kaiser ein; s. <qv>nr2714</qv>, <qv>fn16402-1</qv>. Am 11. Dezember 1546 schrieb der Ulmer Bürgermeister Georg Besserer an Herzog Ulrich von Württemberg (Druck in: <a>Egelhaaf</a> 41f, Nr. 39), dass sich die Stadt genötigt sehe, sich mit dem Kaiser auszusöhnen. Am 23. Dezember leisteten Besserer und der Ratsherr Jos Weickmann den Fußfall vor dem Kaiser in Schwäbisch Hall und wurden daraufhin begnadigt; s. Carl Theodor <i>Keim,</i> Die Reformation der Reichsstadt Ulm. Ein Beitrag zur schwäbischen und deutschen Reformationsgeschichte, Stuttgart 1851, S. 375-386; <a>Egelhaaf</a> 43, Anm. 1; <a>Roth, Augsburg</a> III 458; Hermann Joseph <i>Kirch,</i> Die Fugger und der Schmalkaldische Krieg, München/Leipzig 1915 - Studien zur Fugger-Geschichte 5, S. 118, Anm. 1; <a>Rommel, Ulm</a> 60-87.<zfn>fn16400-1</zfn></fn> iis factis hostibus de nobis
+<fn>Gemeint sind die Augsburger und wohl auch die übrigen evangelischen Reichsstädte Süddeutschlands.</fn> erit actum!<zzl>zl16400-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16400-4A</zzl>Audivi etiam de quodam viro magno
+<fn>Hans Welser? - Das hier gemeldete Gerücht dürfte falsch sein. Jedenfalls wurde ein etwaiges Vorhaben dieser Art nicht durchgesetzt.</fn> caesarem mandatum missurum Augustam, ut omnes tam cives quam inquilini, qui habeant in ditione suae maiestatis opes aut mercimonia, sive sint ex sodalitiis
+<fn>sodalitium, -ii: Hier im Sinne von "Gesellschaft".</fn> illis Augustanis sive ex civibus aut inquilinis, qui sua reposuerint bona in illorum sodalitiorum commertium, ocius urbe exeant; tunc omnia eis restituenda esse bona. Cunctis vero manentibus sua esse publicanda. Quod si fit, bone deus, quanta erit commotio! Omnes enim fere, etiam ex pauperrimis, cives habent suos census ab his sodalitiis. Si quis enim civis vel 100 vel 50 tantum habuit florenos, contulit sodalitio alicui, a quo annum accepit censum. Illi elocarunt alio. Unde si nihil eis f[uerit]
+<fa><i>Hier und danach Textverlust durch Herausschneiden des Siegels. Zur Zeit von Johann Jakob Simlers Abschrift (Zürich ZB, Ms S 62, 127) fehlten diese Textteile bereits. Die hier vorgeschlagenen Ergänzungen können nicht garantiert werden.</i></fa> redditum, in extremam universa urbs redigetur paupertatem. M[axima] ergo hic omnibus nobis imminet cura et sollicitudo. Nemo p[utat sua] relinquere; nemo sua amittere vult. Vereor, ne pfaffi denuo in urbem sint recipiendi. Quod si fit, de omnium nostrum agetur capitibus. Spero autem dominum clementer hoc malum aversurum.<zzl>zl16400-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16400-5A</zzl>Ex Venetiis habemus Turcam
+<fn>Sultan Suleiman I. - Siehe schon <qv>nr2671</qv>,<qv>zl16358-3</qv>, und den Bericht des Rates von Konstanz an den Rat von Zürich vom 16. Dezember 1546 (Zürich StA, A 177, Nr. 153), wonach die Türken in großer Rüstung stünden und vorhätten, 1547 gegen Ungarn und Österreich zu ziehen.</fn> magno apparatu apud Adrianopolim
+<fn>Edirne, Türkei.</fn> hyemare, certum futurae expeditionis in nos signum.<zzl>zl16400-5E</zzl> Dominus Iesus, qui vicit mundum,
+<fn>Jo 16, 33.</fn> servet nos! Amen.</p>
+</div>
+<div>
+<p>Ei te commendo cum omnibus fratribus familiaque. Salvere te iubent fratres nostri omnes. Augustae Vindelicorum, 10. decembris anno 1546.</p>
+<un>Ioan. Hallerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro fidelissimoque Tigurinae ecclesiae pastori, d. Heinrycho Bullingero, domino patrique suo venerando. Zürich.</p>
+</div>
+</text>
+</brief>

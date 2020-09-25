@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1927">
+<nr>1927</nr>
+<correspondents>
+	<originator fn=1>Gilbert Cousin</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Cousins (Cognatus') erster Brief an Bullinger.</note>
+</correspondents>
+<space_time>
+	<place>Nozeroy</place>
+	<date>15. Juni 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 295f (Siegelabdruck<f1>Siegel in Papier eingebunden, darauf Abdruck "G".<fe>)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 60^&x{
+<dr>Ungedruckt</dr>
+<re>Entschuldigt sich, einen bekannten und frommen Mann wie Bullinger, der einen bedeutenden Beitrag zur wahren Theologie leistet, zu behelligen; preist Bullinger. Legt seine Auffassung des Abendmahls dar: Er hegt keinen Zweifel daran, dass das geistige Essen allein im Glauben vollendet wird, und er glaubt, dass das Abendmahl nicht nur ein Zeichen des Bekenntnisses ist, sondern zur Vermehrung des Glaubens hinterlassen wurde, bei dem zwei Dinge besonders zu beachten sind: dass es zum Gedächtnis des Herrn mit Dank für die uns erwiesene Wohltat begangen werde und dass man dabei seinen Worten vertraue; er glaubt, dass Leib und Blut Christi im Abendmahl wahrhaft anwesend sind und durch das Mahl ausgeteilt werden, was für den menschlichen Verstand nicht erklärbar, aber für den Glauben als aus dem Wort Gottes heraus erwiesen gilt; weil heutzutage einige von diesem Verständnis der [Einsetzungs-] ^@+Worte "Dies ist mein Leib, dies ist mein Blut" abweichen, bittet er Bullinger um beratende Hilfe.
+</re>
+<tx>Salus a salutis authore Iesu.
+^$Quum hodie pauci admodum vivant homines, vir in omni
+doctrinarum genere eminentissime ac bonorum omnium
+celebratissime, qui apposite citraque reprehensionem tibi
+scribere queant utpote viro extra omnem ingenii aleam
+posito<f1>vir extra omnem ingenii aleam positus: Plinius d.Ä., Naturalis historia, Praefatio, 7. Zu verstehen ist etwa: "ein zuverlässiger Mensch", "ein Mann von sicherer Begabung".<fe>, videbar mihi non leve admittere piaculum, si ego
+homuncio undique minimus tantum heroa divinissimis negociis
+addictum
+<gr>ăkaíroiw</gr><fx>^#/+In der Vorlage^#/- <gr>ăkairoĩw</gr>.<fe> <gr>lógoiw</gr> vexarem molestiaque afficerem.
+Verum plurima et cedro quidem dignissima<f1>Adagia, 4, 1, 54 (ASD II/7 73f, Nr. 3054).<fe> monumenta, quibus
+te deum mortalibus prebes (vel nusquam locum habet illud
+verbum
+<gr>^%)/anurvpow ănurv́poy<fx>^#/+In der Vorlage^#/- <gr>^%)/anurvpoy</gr>.<fe> daimónion</gr>)<f1>Adagia, 1, 1, 69 (ASD II/1 180-182, Nr.^#. 69).<fe>, cum te pingunt,
+effigiant, exprimunt, ut in spem veniam hasce nostras
+naenias boni aequique consulturum, pręsertim cum ab eo
+proficiscantur pectore, cui numen quoddam divinissimum sis
+colendum vel toto vitae spacio. Quis enim nisi pessimus
+Bullingerum non suspiciat, veneretur, colat, qui divinitus e
+coelo delapsus orbis terrarum utilitati verissime creditur
+et ab omnibus predicatur, qua patet trium linguarum peritia?
+<gr>^%)?V</gr> ter et amplius felices<f1>Horaz, Carmina, 1, 13, 17.<fe>, quibus tuo seculo nasci
+contigit! Haec nimirum dies saeculum illud aureum, quod vates
+divinissimi laudare sibi permisere<f1>Vgl. z.B. Vergil, Aeneis, 6, 791f; 8, 324f und Ovid, Metamorphosen, 1, 89. - Lit.: Hartwig ^#/+Heckel,^#/- in: DNP XII/2 706-710 (mit weiterer Lit.).<fe>. Iam reddita est virgo
+illa Pallas, reddita per
+Bullingerum Saturnia regna,<f1>reddita Pallas, reddita Saturnia regna: Vgl. Vergil, Eclogae, 4, 6.<fe> hoc est syncerae theologiae et
+divinae doctrinae vera cognitio. Sit citra invidiae morsum
+dictum: "Tu maximus ille est unus, qui nobis cunctando<fx>^#/+In der Vorlage^#/- conctando.<fe>, imo
+scribendo restituis rem".<f1>Vgl. Ennius, Annales, 12, 370 und z.B. Vergil, Aeneis, 6, 845; Hieronymus, Epistula adversus Rufinum presbyterum Aquileiensem (= Liber tertius), 29 (CChr-L LXXIX 101, 14f).<fe> Rem dii servent in Nestoreos annos<f1>Vgl. Adagia, 1, 6, 66 (ASD II/2 93f, Nr.^#. 566).<fe>!
+Dignus enim vir es, qui nunquam senescas aut moriaris. Sed
+quid te marmoreum facere pergo, quum in Olympia, imo in
+Olympo aureus erectus sis, et de Carthagine prestet tacere
+quam pauca dicere<f1>de Carthagine prestet tacere quam pauca dicere: Vgl. Sallust, De bello Iugurthino, 19, 2. Hier steht Karthago als Metapher für Bullinger.<fe>? Proinde mecum habitabo cognoscens, quam
+mihi sit curta supellex<f1>Vgl. Persius, Saturae, 4, 52.<fe>, atque huic parti coronide impacta
+ad reliqua properabo.
+^$De eucharistia, clarissime Bullingere, in ea et fui et sum
+sententia, ut manducationem spiritualem sola in Christum
+fide, qua pro nobis mortuum et pro peccatis nostris
+satisfecisse credimus, peragi non dubitem. <vl>296</vl> Caeterum
+sacramentum coenę non solum notam esse et signum
+professionis, sed et augendae fidei nostrae atque adeo
+excitandae relictum credo, in quo nobis duo praecipua, nisi
+fallor, habenda sunt: alterum, ut in memoriam domini
+faciamus pro ineffabili in nos collocato beneficio
+<gr>ey̆xaristoỹntew</gr>, alterum, ut verbis suis fidem<fx>^#/+Nach^#/- fidem ^#/+gestrichenes^#/- fidem.<fe>
+habeamus. Quum enim omnipotens sit, eum longe maiora, quam
+quae verba promittunt, posse, an est cur ambigamus? Verba
+porro quum sic habeant: "Hoc est corpus meum, hic est sanguis
+meus"<f1>Mt 26, 26-28; vgl. Lk 22, 19f.<fe>, adducor, imo perpellor (ne quid de unanimi horum
+interpretatione tot seculis recepta dicam), ut corpus et
+sanguinem Christi vere adesse et in coena distribui credam.
+Qui autem id accidat, ut rationi humanae est impervium, ita
+fidei ex verbo domini notum adfirmo. Ab hac sententia cum
+multi hodie nonnihil varient, nonnunquam hęreo et, ut
+ingenue fatear, inter sacrum et saxum sto<f1>Adagia, 1, 1, 15 (ASD II/1 128f, Nr. 15).<fe>. Est in hoc mihi
+tuo consilio opus; quod si non habita dignitatis tuae
+ratione imploro, qua humanitate es, boni consules. Haec sane
+facit, ut nihil mihi non apud te licere putem. Te igitur per
+Christum servatorem, ut hunc mihi scrupulum eximere tuumque
+consilium communicare ne graveris, et rogo et obtestor.<f1>Bullingers Antwort ist durch Cousins Brief vom 12. März 1545 (Zürich StA, E II 345, 289) bezeugt, aber nicht erhalten.<fe>
+^$Vale, theologorum omnium altissimum decus, et felicissime
+vive.
+^$Nozerethi Burgundionum<f1>Nozeroy (Franche-Comté), Frankreich.<fe>, 17. calendas iul[ias] anno Christiano
+1544.
+<un>Tuus addictissimus discipulus
+<un>Gilbertus Cognatus Nozerenus.
+<lz>[Adresse auf f. 296a v.:] Clarissimo virod. domino Heinrycho Bullingero, verae theologiae decori, domino
+et pręceptori observando. Tiguri Helvetiorum.
+</content>
+</letter>

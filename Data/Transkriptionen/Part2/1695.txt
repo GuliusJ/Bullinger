@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1695">
+<nr>1695</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>24. November 1542</date>
+</space_time>
+<vo>Zürich ZB, Ms S 313, 11r. / Abschrift von Johannes Stumpf</vo>
+<vo>Zürich ZB, Ms S 52, 63 / Maschinenschrift<f1>Bonomo, Stumpf Brief- und Aktensammlung I 1, 168 (Zürich ZB, Ms Z I 103)<fe></vo>
+<vo>Zürich ZB, Ms Z I 103</vo>
+<dr>Ungedruckt</dr>
+<re>Ist begeistert von Stumpfs Entwurf einer [historisch-topographischen] Beschreibung des Zürcher Gebietes; Stumpf soll mit seiner Arbeit weiterfahren; legt [diesbezügliches] Material bei, das Stumpf nach Gebrauch zurücksenden soll; will Stumpfs Vorhaben im Rahmen seiner Möglichkeiten unterstützen;
+begrüßt die Einteilung [des geplanten Werks] in dreizehn Bücher; Stumpf soll gemäß seinem Plan fortfahren; Bullinger erwartet den Deutschland betreffenden Teil und weitere fertig gestellte Passagen; er studiert jeweils mit Freude, was Stumpf ihm zusendet.
+</re>
+<tx>H. Bullingerus Stumphio.
+^$Gratiam et pacem etc.
+^$Expectas, quomodo placeant, quae exarasti de agro
+Tigurino?<f1>Es handelt sich um einen Entwurf, der im Zusammenhang mit Stumpfs Arbeit an einer historisch-topographischen Beschreibung der Eidgenossenschaft entstand, die schließlich 1547/48 bei Christoph Frosch­auer als "Gemeiner loblicher eydgnoschafft stetten, landen und völckeren
+chronickwirdiger thaaten beschreybung [...]" (BZD C 376) erschien. Vgl. Gerald ^#/+Strauss,^#/- The Production of Johann Stumpf's Description of the Swiss Confederation, in: Medievalia et Humanistica XII, 1958, S. 104-122 (Nachdruck in: ^#/+ders.,^#/- Enacting the Reformation in Germany. Essay on
+institution and reception, Ashgate 1993, Teil III).<fe> Ita, ut nihil supra. Sed nolo quicquam dicere
+coram et faciem<fx>Sc. in faciem.<fe> laudare amicum charissimum. Oro, ut pergas.
+Adieci quaedam, quae invenies; iis, ubi fueris<fx>^#/+Vor^#/- fueris ^#/+gestrichenes^#/- frueris.<fe> usus,
+remittas.<f1>Bullinger und Stumpf ließen sich regelmäßig gegenseitig historisches Material zukommen, vgl. im Zusammenhang mit Stumpfs Arbeit an einer Reformationsgeschichte in den Jahren 1535/36 Christian ^#/+Moser,^#/- Heinrich Bullinger's Efforts to Document the Zurich Reformation. History as
+Legacy, in: Architect of Reformation. An Introduction to Heinrich Bullinger, 1504-1575, hg. von Bruce Gordon und Emidio Campi, Grand Rapids, Mich. 2004. - Texts and Studies in Reformation and Post-Reformation Thought, S. 208-210.<fe> Cupio enim ex animo institutum tuum promovere, ne
+dum iuvare. Nec parcam laboribus ac sumptibus meae quidem
+tenuitati congruentibus etc.
+Digestio 13 librorum
+videtur plus habitura lucis, gratiae, evidentiae.<f1>Stumpf hielt an seiner Einteilung in dreizehn Bücher fest, wie der Druck des Jahres 1547/48 zeigt.<fe> Proinde
+perge eum sequi ordinem, quem instituis. Expecto tuam
+Germaniam<f1>Im Druck des Jahres 1547/48 handelt das zweite Buch von Deutschland.<fe> et quae absolvisti. Mira cum voluptate illa lego,
+quae mittis.
+^$Dominus servet te una cum uxore<f1>Regula, geb. Brennwald.<fe> incolumem<fx>incolumem ^#/+mit dünnerer Feder und wohl von anderer Hand
+am Rande nachgetragen.^#/-<fe>.
+^$Tiguri, 24. novembris 1542.
+</content>
+</letter>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2836">
+<brief>
+<id>17103</id>
+<nr>2836</nr> <from persid="CurioneCelio"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-03-04"/>
+<ae>Celio Secondo Curione an Bullinger</ae>
+<od>Basel, 4. März 1547</od>
+<vo>Autograph: Zürich ZB, Ms F 62, 180 (Siegelspur)</vo>
+<dr>Teildruck: Petrus Dominicus Rosius <i>a Porta,</i> Historia Reformationis Ecclesiarum Raeticarum, Bd. 1/2, Chur und Lindau 1772, S. 40, Anm. u <k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 132; Erw.: Markus Kutter, Curione 296, Nr. 29; E. Comba, Protestanti II 164 </k></dr>
+<re><t>Curione hat neulich gemeinsam mit dem bei ihm wohnenden Francesco Stancaro einen Brief [<qv>nr2802</qv>] an Bullinger geschrieben, mit dem sie auf dessen vorigen Brief [nicht erhalten] antworteten. Nun warten sie gespannt auf Bullingers Antwort [nicht erhalten]. Stancaro (der grüßen lässt) möchte nämlich wissen, ob Bullinger eine Stelle für ihn gefunden hat. Bullinger soll darüber sobald wie möglich Bescheid geben.</t>
+<t>Er möge zudem die beiliegende, für Italien bestimmte Briefsendung an Johannes Comander oder an jemand anderen in Chur übermitteln, damit sie von dort an den evangelischen Prediger in Poschiavo, den Mailänder Giulio [della Rovere], weitergeschickt werden kann.</t>
+<t>Es wird so viel Verschiedenes gemeldet (typisch für Kriegszeiten!), dass man nicht mehr weiß, was zu glauben ist. Manche berichten von Messfeiern in zwei Ulmer Kirchen; von Zusammenstößen zwischen kaiserlichen und einheimischen Söldnern in Augsburg; von enormen Geldforderungen des Augsburger Kardinals Otto Truchsess von Waldburg, des Königs Ferdinand I. und des Kaisers Karl V.; sowie von einer gewaltigen Truppensammlung Ferdinands für Herzog Moritz von Sachsen. Andere behaupten wiederum, dass Ferdinand wegen des herannahenden türkischen Sultans Suleiman die Flucht ergreifen wolle, oder dass der Kaiser in Flandern sei, weil er Schlimmes vonseiten des französischen Königs Franz I. und des Landgrafen Philipp von Hessen befürchtet.</t>
+<t>Bullinger wird gehört haben, dass Straßburg eine Delegation an den Kaiser gesandt hat, um mit diesem über einen Frieden zu verhandeln, dass diese aber noch nicht angehört wurde, weil Nicolas de Perrenot, Herr von Granvelle, abwesend und Johann von Naves gestorben ist.</t>
+<t>Bullinger soll bei Gelegenheit Nachrichten übermitteln, ja auch seine Meinung zu Curiones Buch ["Pro vera et antiqua ecclesiae Christi autoritate oratio"] mitteilen.</t>
+<t>Grüße, auch an die Familie und an die Kollegen.</t></re>
+<text>
+<div>
+<p>Caelius Secundus Curio S. D. per Christum Iesum. <zzl>zl17103-2A</zzl>Ego et F. Stancarus, qui mecum est,
+<fn>Vgl. <qv>nr2802</qv>,<qv>zl17070-6</qv>.</fn> superioribus diebus ad te literas
+<fn>Curiones Brief <qv>nr2802</qv> vom 8. Februar.</fn> dedimus, quibus uterque tuis
+<fn>Nicht erhalten.</fn> respondebamus. Expectabamus autem responsum,
+<fn>Diese nicht mehr erhaltene Antwort kreuzte den vorliegenden Brief, mit dem Stancaro erfuhr, dass Bullinger ihm keine Stelle vermitteln konnte; s. <qv>nr2840</qv> vom 7. März.</fn> presertim quod Stancarus valde suspensus haeret de eo, quod tua humanitate ultro ipsius caussam­­
+<fa><i>In der Vorlage</i> caussa.</fa> curandum suscepisti.
+<fn>Vgl. <qv>nr2799</qv>,<qv>zl17067-1</qv>. <qv>zl17067-4</qv>.</fn> Sed, quia valde est occupatus, non potuit hodie tibi scribere. Rogavit autem me, qui alioquin ad te literas dabam, tuam humanitatem suo nomine salutarem rogaremque, si quid spei habeas, nobis primo quoque tempore significes, ut, sibi quid sit agendum, intelligat.<zzl>zl17103-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17103-3A</zzl>Quod reliquum est, cum haberem literas in Italiam mittere nec haberem nuntium, mi optime Bullingere, ad te eas mittere cogitavi, ut, si quo pacto queas, eas Curiam
+<fn>Chur (Kt. Graubünden).</fn> ad aliquem tuum, ad d. Comandrum
+<fn>Johannes Comander.</fn> aut alium, ferendas curares, ut illinc ad Iullium nostrum Mediolanensem
+<fn>Giulio della Rovere, über den in <a>HBBW</a> XV 549, Anm. 20, bereits eine Notiz vorliegt - allerdings in Zusammenhang mit einer in <a>HBBW</a> XV 549,26, nicht genannten Person, die mit Alfonso d'Avalos, dem Statthalter des Kaisers in Mailand, hätte identifiziert werden sollen (richtig in <a>Henrich, Myconius BW</a> 819, Nr. 923).<zfn>fn17103-4</zfn></fn>, qui Pusclave Rethorum
+<fn>Poschiavo (Kt. Graubünden).</fn> evangelium docet. Quod, ut quamprimum facias, te etiam magnopere atque etiam rogo.<zzl>zl17103-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17103-4A</zzl>De novis rebus multa quotidie, imo singulis horis (ut in magnis calamitatibus fieri solet) nuntiantur et varia, adeo ut, quid credas, vix scire possis.<zzl>zl17103-4E</zzl> <zzl>zl17103-1A</zzl>Alii enim dicunt Ulm{e} duobus in templis iam missas celebrari,
+<fn>In der Dominikanerkirche (Predigerkloster; s. <qv>nr2812</qv>,<qv>zl17080-12</qv>; <a>Fischer, Chronik</a> 130) sowie im Münster (s. <a>Keim, Ulm</a> 395). - Vgl. auch <qv>nr2821</qv>,<qv>zl17087-39</qv>.</fn><zzl>zl17103-1E</zzl> <zzl>zl17103-5A</zzl>Augustae tumultum exhortum inter caesareanos Augustanosque milites esse;<zzl>zl17103-5E</zzl> <zzl>zl17103-6A</zzl>cardinalem Augustanum
+<fn>Otto Truchsess von Waldburg. - Zu dessen Entschädigungsforderungen s. <a>Roth, Augsburg</a> IV 16-21.<zfn>fn17103-1</zfn></fn>, Ferdinandum
+<fn>König Ferdinand I. - Die Verhandlungen über dessen Entschädigung zogen sich bis Ende Mai 1547 hin; s. <a>Roth, Augsburg</a> IV 21-25.<zfn>fn17103-2</zfn></fn> c{e}saremque
+<fn>Karl V.</fn> ingentem pecuni{e} vim postulare;<zzl>zl17103-6E</zzl> <zzl>zl17103-7A</zzl>Ferdinandum militem magnum colligere, ut eo Mauritio
+<fn>Herzog Moritz von Sachsen. - Am 25. Februar 1547 kam Ferdinand mit 2'000 Reitern in Pirna (Sachsen) an und zog dann bis Meißen, wo er noch Anfang März lag; s. <a>Moritz von Sachsen PK</a> III 18.<zfn>fn17103-3</zfn></fn> suppetias ferat;<zzl>zl17103-7E</zzl> et demum omnia misera esse! <zzl>zl17103-8A</zzl>Alii caesarem in Flandriam cogitare, nescio quid in Inferiori Germania tum a Gallo
+<fn>Franz I.</fn> tum a lantgravio Hessorum
+<fn>Philipp von Hessen.</fn> timens et subodorantes
+<fa><i>In der Vorlage</i> subodorans.</fa>;<zzl>zl17103-8E</zzl> <zzl>zl17103-9A</zzl>Ferdinandum propter Turci
+<fn>Sultan Suleiman I.</fn> adventantem fugam adornare;
+<fn>Ein falsches Gerücht. - Zu den Abwehrmaßnahmen, die Ferdinand im Januar und Februar 1547 von Prag aus gegen die Türken ergriff, s. Johann <i>Loserth,</i> Innerösterreich und die militärischen Maßnahmen gegen die Türken im 16. Jahrhundert. Studien zur Geschichte der Landesdefension und der Reichshilfe, Graz 1934, S. 50.<zfn>fn17103-5</zfn></fn><zzl>zl17103-9E</zzl> et alia id genus multa, qu{e} dominus vertat bene!</p>
+</div>
+<div>
+<p><zzl>zl17103-10A</zzl>Hoc autem certum est, nec dubito te id accepisse: Argentoratenses legatos ad caesarem de pace misisse.
+<fn>Siehe dazu <qv>nr2822</qv>, <qv>fn17088-7</qv>.</fn> Nundum
+<fn>= Nondum; s. <a>Stotz</a> III 51, Nr. 39.8.</fn> auditos esse propter Granvelani
+<fn>Nicolas de Perrenot, Herr von Granvelle, der damals nach Burgund gereist war; s. <qv>nr2822</qv>, <qv>fn17088-1</qv>.</fn> absentiam, et Naves mortem, qui dum Augustam cum copiis proficisceretur, in itinere interiit.
+<fn>Vgl. auch <qv>nr2821</qv>,<qv>zl17087-2</qv>. - Johann von Naves starb am 20. Februar; s. <qv>nr2824</qv>, <qv>fn17090-1</qv>.</fn><zzl>zl17103-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17103-11A</zzl>Sed si tu certiora habes, rogo, ad nos aliquid scribas, tuumque de nostro libello
+<fn>Siehe dazu <qv>nr2758</qv>, <qv>fn17026-1</qv>.</fn> iudicium audire valde cupio, mi optime et doctissime Henrice, semper
+<fa><i>In der Vorlage</i> sempe.</fa> amantissime et observandissime.<zzl>zl17103-11E</zzl></p>
+</div>
+<div>
+<p>Vale et familiam meo nomine saluta tuam et una fratres istos doctissimos. Basile{e}, die 4. martii 1547.</p>
+<un>Caelius, ex animo tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo doctrina et pietate viro d. Henrico Bullingero, antistiti Tigurin{e} ecclesiae vigilantissimo, amico et fratri observandissimo. Tiguri.</p>
+</div>
+</text>
+</brief>

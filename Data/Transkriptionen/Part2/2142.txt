@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2142">
+<nr>2142</nr>
+<correspondents>
+	<originator>[Christian] Hospinian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Aarau</place>
+	<date>20. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms F 62, 331r.-332v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 65. Von Schrift und Inhalt her nicht Johannes, sondern Christian Hospinian. ^&x{
+<re>Hospinians Schreiben ist durch Bullingers ihm erwiesene Güte motiviert.
+-^#. Es schmerzt Hospinian sehr, sich in einer solch aussichtslosen Lage zu befinden. Seine [Landsleute] bemühen sich, seine Berufung [nach Zürich] mittels immer neuer Hindernisse hinauszuschieben. In seiner Naivität hatte er bei ihnen Zuflucht gesucht und nicht erkannt, dass sie ihn, den sie einmal der Tretmühle ausgeliefert hatten, dort auch zum Schaden seiner Gesundheit zurücklassen würden. Supplikationen seiner Mutter [Margaretha Züst], seines Bruders [Johannes Hospinian] und der übrigen Familienangehörigen an Kirchen- und Stadtrat von [Zürich] blieben unbeantwortet, so dass er sich gezwungen sieht, anderenorts nach Hilfe zu suchen, wo doch das Zürcher Herrschaftsgebiet so weit reicht, es so viele Stellen in der Kirche gäbe und einige [Ämter] in den letzten Jahren frei wurden. Doch auch wenn man ihn nun berufen würde, hätte er Bedenken, darauf einzugehen, da er ständig befürchten müsste, dass die [Zürcher] ihm weiterhin misstrauen, wie schon früher, als er sich in Basel und Marburg aufhielt; damals hielten sie ihm vor, Gott, sein Vaterland, seine Lehrer und Förderer vergessen zu haben. Sollten sie immer noch dieser Meinung sein, täten sie klug daran, wenn sie ihn erst nach erbrachtem Beweis seines Nutzens für ein Amt heranziehen würden; anderenfalls würde er sich bald als Hindernis erweisen.
+-^#. Ähnliches ist schon anderen widerfahren; so zum Beispiel seinem Verwandten und Lehrer Johannes Rhellikan, der fast sein ganzes Leben in der Fremde zubringen musste, dessen Verbundenheit zur Heimat jedoch in seinen posthum veröffentlichten ["In C. Iulii Caesaris ... et Auli Hirtii ... commentaria ... annotationes"] zum Ausdruck kommt.
+-^#. Hospinian schreibt freimütig im Vertrauen auf Bullingers Pflichtbewusstsein und andauerndes Wohlwollen, ist aber entschlossen, ihn mit dieser Angelegenheit nicht weiter zu behelligen. Bullinger trägt ja keine Schuld an dieser Lage. Vielmehr dankt Hospinian ihm für alle ihm bisher erwiesenen Wohltaten.</re>
+<tx>S. Quanquam ego pro infantia<f1>Mangel an Rednergabe.<fe> mea, colendissime patrone, coram tanti viri humanitate merito silerem,
+utpote ad quem nonnisi eloquentissimi homines scribere et solent et debent, tamen, quoniam dolor pudoris
+offitio adeo obstat, ut non possim non illum<f1>dolorem. - Christian Hospinian kam mit seiner Lehrerstelle in Aarau nicht mehr zurecht; s. zuletzt HBBW XIV 484.<fe> in sinum effundere tuum, rogatam velim humanitatem tuam,
+ne alio animo id fieri suspicetur, quam de te adhuc optime nihilque fere non et sentiente et sperante.
+Charior siquidem<fx>siquidem ^#/+aus^#/- quidem ^#/+korrigiert.^#/-<fe> mihi es meliusque de me meritus, quam ut tibi irasci aut possim aut debeam,
+ac quidvis suspicari malim, quam te ab offitio cessasse<f1>= cessavisse.<fe>.
+^$Sed tamen vehementer et miror et doleo, quod, licet sciant nostrates<f1>Die Zürcher. - Hospinian stammte aus Stein am Rhein, das unter der Landesherrschaft von Zürich stand.<fe> in hisce pulveribus me, nisi propediem liberer,
+penitus suffocatum iri, tamen subinde sit ipsis hactenus morae aliquid, qua a vocatione mea impediantur.
+Ad hos sane hactenus hisce in miseriis meis tanquam ad sacram ancoram confugiendum<f1>Vgl. Adagia, 1, 1, 24 (ASD II/1 136, Nr. 24).<fe> censebam;
+non enim stultus subodorabar eos, postquam me semel praecipue in pistrinum dedissent,
+in eodem tam diu non sine summo salutis et valetudinis discrimine esse derelicturos.
+Nam, si hoc, ut crederem, potuissem adduci, potius quidvis fuissem perpessus quam miserrimo huic me servitutis generi addici.<f1>Die Zürcher stellten 1542 Christian Hospinian dem Ort Aarau als Schulmeister zur Verfügung; s. HBBW XII, Nr. 1678.<fe>
+Postquam enim colendę genitricis<f1>Margaretha Züst.<fe>, germani etiam fratris<f1>Johannes Hospinian.<fe> reliquorumque meorum<f1>Zu deren Namen s. HBBW XIV 333, Anm. 7.<fe> et meae petitiones necnon et
+supplicationes ad tam ecclesiasticum quam polyticum magistratum tantum ponderis nondum habuerunt, ut vel gry<f1>Vgl. Adagia, 1, 8, 3 (ASD II/2 234, Nr. 703).<fe> responderint
+neutri, res clamitat ipsa cogi me omni et expectatione et spe de his positis aliunde opem sperare flagitareque.
+Siquidem ex certorum mihi relatione hominum constat potuisse, si modo cordi fuisset, pistrino eximere me.
+Nam ea est Tigurinę ditionis amplitudo, ea ecclesiasticarum conferendarum functionum copia,
+ut intra triennium fere credam non vel unam atque alteram tertiamque vacasse,
+ut, si me revocandi extitisset animus, vel dudum legitima vocatione revocatus rediissem.
+Nunc vero, etsi tandem accersitus fuero, improbitate mea factum arbitrabor, eamque vocationem nec iustam nec legi-<vl>331v.</vl>timam ducam,
+ideoque haud absque conscientiae scrupulo vocationi acquiescam, licet gravibus causis adductus ego revocari et cupiverim et etiamnum cupiam desideremque.
+Quum namque toties contemptus, spretus, neglectus prae cęteris mecumque facta, transacta omnia,
+ut comicus adolescens conquerebatur,<f1>Nämlich Pamphilus bei ^#/+Terenz,^#/- Andria, 248: "quot modis contemptus, spretus! Factus, transactus omnia."<fe> etiamsi alicui functioni alii ab his olim fuero pręfectus,
+tamen me iisdem fidei suspectum verebor anxieque suspicabor, utpote cui, cane vehementius
+et angui,<f1>cane peius et angui [= angue] aliquem vitare; vgl. ^#/+Horaz,^#/- Epistulae 1, 17, 30f und Adagia, 2, 9, 63 (ASD II/4 254, Nr. 1863). - Beim Verfassen der Reinschrift seines Briefes hat Hospinian hier wohl ein Wort wie "vitato", "inviso" oder "odioso" ausgelassen.<fe> committere concredereque diu, quae aliis coaequalibus dudum commisere, horruerint.
+Nam ut eos parum de me frugis bonę et expectare et sperare persuasum habeam, facit,
+quod ante, cum Basileę Marpurgique agerem,<f1>Hospinian hatte sich 1539/1540 in Basel immatrikuliert und anschließend eine Studienreise nach Marburg unternommen; vgl. HBBW VII 221, Anm. 4.<fe> tam mordaci ac intollerabili fere invectiva in me,
+licet innoxium, ferrentur, tanquam omnis in deum, patriam, praeceptores ac patronos pietatis oblitum.
+Quod si idem etiam iam sentiunt de me, prudenter faciunt, quod me ad inclytae ecclesiae vestrae
+officia administranda adhibere renuunt, priusquam evidens melioris de me frugis specimen aedam;
+nam sic volens sciensque<f1>volens sciensque: ^#/+Seneca,^#/- Hercules furens, 1300.<fe> vidensque offendiculo essem futurus, quo an aliud gravius vel salvatore teste
+crimen queat a me admitti nescio.
+^$Quid vero tot verbis haec conqueror et deploro, quasi vero ante me
+nulli aut eadem aut similia obtigerint? Solatii enim est miseris socios habere malorum.<f1>Vgl. TPMA XI 459, Nr. 25 mit Bezug auf Luther, WA XXXI/1 138, 25 (1530); sowie ^#/+Wander^#/- IV 1337, Nr. 3; 1445, Nr. 157.<fe>
+Annon, siquidem accidit idem pię memorię viro Ioanni Rhellicano, affini et praeceptori meo colendo
+eidemque erga Tigurinam ecclesiam et rempublicam optime affecto nec parum de eadem commerito?
+Id quod ab obitu eius<f1>Rhellikan war am 14. Januar 1542 verstorben; s. HBBW XII, Nr. 1598.<fe> libellus aeditus<f1>Johannes ^#/+Rhellikan,^#/- In C. Iulii Caesaris dictatoris viri disertissimi et Auli Hirtii seu Oppii commentaria de bello Gallico, civili Pompeiano, Alexandrino, Africano et Hispaniensi Annotationes ..., Basel, Hieronymus Curio, Februar 1543 (VD 16 M 6588), mit einer Vorrede vom 4. April 1540, die Rhellikan seinen Freunden Lorenz Meyer (Agricola) aus Winterthur und Leonhard Wirth (Hospinian) aus Stammheim widmete.<fe> testatur,
+quo Tigurum Tigurinosque, per sese quidem satis claros, honorificis tamen encomiis ornare atque celebrare<f1>In seiner Schrift widmet Rhellikan allein der Stadt und Landschaft Zürich 21 von den 333 Seiten seiner "Annotationum" (S. 36-56). Darin beschreibt er seine Heimat sowie deren Reformation auf sehr vorteilhafte Weise und stellt Bullinger als einen der gelehrtesten Pfarrer der damaligen Christenheit dar (S. 54f). Daraufhin bittet er um Verständnis dafür, dass er aus Liebe zu seiner Heimat (S. 56) Zürich einen solch wichtigen Platz eingeräumt hat.<fe> sicque gratitudinem pietatemque in patria suam exerere studuit.
+At ipse interim totam fere tanquam exulem quodammodo vitam extra dulcissimae patriae limites conterere fuit coactus,
+nec unquam in ea, quanquam id nunquam non ardentissimis expetiverit votis, commoda potiri conditione quivit.
+^$Haec ad te scripsi liberius copiosiusque fretus partim conscientia offitii tui benevolentiaque,
+quam in me, quoad poteris, conservabis, partim statute<fx>^#/+In der Vorlage^#/- statuti.<fe> mei non ampli-<vl>332r.</vl>us obtundendi hac de re te.
+Te omni vacare culpa omnino fateor, quod multoties in conferendis ecclesiasticis muneribus nulla mei mentio fit, inprimis vero nuper admodum apud vos facta est.
+Atque his exagitatus meditationibus in spem erigor tandem me eos tyrannos Tigurinos non experturum; ut, quia devinctio mea<fx>^#/+In der Vorlage^#/- me.<fe>, qua his devinctus teneor, apud eosdem nihil promovet, etiam apud alios remorari ac male cedere debeat.<f1>Wohl wie folgt zu verstehen: dass mein Festgenageltsein, das mich hier festhält und bei ihnen nichts bewirkt, auch [mit einer entsprechenden Bitte] bei anderen andauern und schlecht ausgehen müsste.<fe>
+Tu ergo iam, colendissime Bullingere, una mecum patrocinari mihi ac sollicitare hos<f1>tyrannos Tigurinos.<fe> desine,
+quibus surdis eandem usque videmur narrare fabulam<f1>Adagia, 1, 4, 87 (ASD II/1 467f, Nr. 387).<fe>. Ego simul tibi, a quo abunde plus satis factum est,
+mihi vicissim et his molestus esse cesso, tibique pro omnibus beneficiis, quibus me meosque affecisti,
+immortales gratias ago habeoque. Vale.
+^$Datum Hergoeorum<f1>Abgeleitet von Ergow = Aargau. - Zur Form "Hergoeus" s. z.B. Bullingers Besitzvermerk in einem seiner Bücher (HBBibl III 108, Nr. 76).<fe> Aroę<f1>Abgeleitet von Arowa = Aarau.<fe>, 12. calendas maii anni dominici 1545. Raptim.
+<un>Humanitatis tuę devinctissimus
+<un>Hospinianus.
+<lz>[Adresse auf der Rückseite:] Viro undiquaque doctissimo clarissimoque domino m. Heinrycho Bullingero, patrono Mecoenatique unice colendo, archiepiscopum Tigurinae ecclesię agenti fidelissimo. [Zü]rich<fx>^#/+Adresse teilweise über das nicht mehr erhaltene Siegelband geschrieben.^#/-<fe>.
+</content>
+</letter>

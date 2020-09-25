@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1010">
+<nr>1010</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>26. Juni 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 135r.-136v. (Siegelspur)</vo>
+<dr>Teildruck: CO X/2 111, Nr. 67</dr>
+<re>Beklagt, daß Bullinger und Jud trotz Aufforderung [zur Teilnahme an der Berner Synode] nichts von sich hören ließen.
+Sebastian [Meyer] konnte den Vorwurf falscher Sakramentslehre nicht belegen und mußte Megander und Erasmus [Ritter] um Entschuldigung bitten, wird aber wohl an seiner Auffassung
+festhalten; die Beschuldigten werden zu Unrecht verdächtigt, Gegner der Konkordie zu sein. Man hat beschlossen, daß weiterhin in gewohnter Weise und unter Vermeidung neuer
+Begriffe über die Sakramente gelehrt werden soll. Im Hinblick auf die Konkordie sollen keine über das an Luther gesandte Bekenntnis und die Berner Disputation hinausgehenden Zugeständnisse gemacht werden.
+Diese Beschlüsse sind vom Großen Rat gutgeheißen worden. Was den an der Lausanner Synode ausgetragenen Streit Carolis mit Calvin, Farel und Viret betrifft, so lassen letztere die Rede von den Personen [Gottes] und von der Trinität gelten, ohne sich von ihrem Gegner darauf festlegen zu lassen.
+Dieser Bericht soll helfen, jene zum Schweigen zu bringen, die Falsches verbreiten.
+Luther soll gestorben sein; wäre dies vor zwei Jahren geschehen, wäre die Kirche jetzt in einer besseren Lage.
+Bucers listige Pläne sind dem beiliegenden Schreiben zu entnehmen; die Antwort Berns wird später mitgeteilt. Der württembergische Gesandte Philipp [Lang] war erfolglos und sendet einen Brief zurück.
+</re>
+<tx>Gratiam a domino.
+^$Quod periculo tam ancipiti, tam perplexo, tam denique ambiguo constitutis nec rogati<f1>Megander hatte um Bullingers oder Juds
+Erscheinen zu der auf den 30. Mai einberufenen Synode gebeten; s. oben Nr. 999, 16-21.<fe> denique, qui prora tamen et puppis<f1>im Sinne von: das A und O; vgl. Adagia, 1, 1, 8 (LB II 28f).<fe>
+nobis hactenus visi, verbulo non astitistis, literis satis conqueri non possum. Qui hoc factum sit, plane persuadere
+mihi aut satis facere non possum, nec denique multa variaque cogitando mala de vobis suspicari. Sed omnino hoc ignorare
+vos cupio<fx>^#/+wohl irrtümlich für^#/- nolo.<fe>, hanc vestram taciturnitatem non parum adfecisse fratres nec immerito quidem. Ancoram<f1>Vgl. Adagia, 2, 6, 17 (LB II 588).<fe> enim, quam unice hucusque
+praestitistis, tollere atque adeo discessum a nobis moliri multis visi estis. Ego vero meliora semper idque tam
+firmiter, ut ne animum meum diversum tangat, ne dicam in mentem veniat. Sed quorsum hęc?
+^$Ad institutum accedamu[s]<fx-t>^#/+Rand beschädigt.^#/-<fe> et, quomodo omnia synodo nostra transacta sint, audiamus:
+^$Sebastianum<f1>Sebastian Meyer.<fe> nostrum nos pessime traduxisse neque uno solum loco de sacramentis hactenus parum recte et auguste
+concionatos insimulasse atque, sive vivat, sive moriatur, nostra in ecclesia aliter de eisdem disserendum tantum non
+iureiuran[do]<fx-x>^#/+Rand beschädigt.^#/-<fe> adseruisse iam dudum vobis notum et conpertum esse non dubitamus<f1>Vgl. oben Nr. 989, 23-30.<fe>. Id quia non solum nos, sed et senatus
+quoque noster audire et ferre non potuit, ad penultimam maii synodum generalem in urbem nostram coegit atque, quamobrem
+convocarit, causam narrat negocioque transigendo duos integros interfuit atque adsedit dies<f1>Zum Verlauf der Verhandlungen vgl. ^#/+Hundeshagen^#/- 74-77.<fe>. Et quando biduum iam
+concertatum nec tamen de praesencia Christi in coena fidelium aut unione sacramentali nec item de vera Christi
+manducacione nec denique de modo, quo Christus semetipsum fidelibus ad edendum prebet aut de virtute vel sacramentorum
+vel ministerii deque eorund[em]<fx-x>^#/+Rand beschädigt.^#/-<fe> usu perperam aut minus<fx>^#/+in der Vorlage^#/- mimus.<fe> auguste nos docuisse convincere potuit<fx>^#/+vor ^#/-potuit^#/+ gestrichenes^#/- non.<fe>, senatum ac
+synodum, quo inter nos et iudicent et deliberent, appellavimus. Et ne nos, qui illatam nobis infamiam - quid dico? -
+veritatem ipsam, minime impotentes adfectus defendimus, in re nostra iudices esse caussaremur<f1>Gemäß dem Grundsatz "nemo iudex in sua causa"; vgl. Detlef Liebs, Lateinische Rechtsregeln und Rechtssprichwörter, 5. Aufl., München 1991, Nr. N 56.<fe>, una cum Sebastiano coetum
+egressi sumus atque causam modo nominatis comisimus. Et nisi non mitius cum homine egissemus, et senatus et synodi
+decreto ad illatę infamię<fx>^#/+in der Vorlage ^#/-famię.<fe> redargucionem ac revocacionem
+<vl>135v.</vl> haud dubie damnatus fuisset. Sed nos homini vel propter senium venerandum vel quod
+nihil non ob evangel[ii] ac veritatis restauracionem ac propagacionem passus est, parcentes hoc solo contenti, quod nos
+rogare iussus et, ut omnia, quibus nos in et extra synodum per incogitantiam offendit, sibi ignoscamus. Id quod factum
+est, utinam non<fx>non ^#/+am Rande nachgetragen.^#/-<fe> magno ecclesię nostrę malo. Vereor hominem non mutaturum propositum coeptum et sibi haud dubie
+iniunctum, praesertim, quando unum atque alterum in suam sentenciam pellectum esse videt, donec omnes vel ad se
+pertrahat vel ecclesiam perturbet. Non dormitat homo, quare non spero quietum nobis fore, donec nobiscum mansurus est.
+Hęc sunt, quę inter Sebastianum et nos, hoc est Erasmum<f1>Erasmus Ritter.<fe> et me, transacta sunt, et certe non sine animi nostri
+ingenti dolore. Plurimum enim piguit homine cum tanto ac fratre eciam ita agere, tametsi sint, qui nos longe alios esse
+vel suspicantur vel traducant, videlicet vel dissidiorum inventores vel christianę pacis et concordię ineundę
+perturbatores et impeditores.
+^$Quantum ad modum concionandi de sacramentis attinet, decretum et deliberatum est modum in ecclesiis nostris hucusque
+servatum plane non mutandum, sed ut hactenus servandum, videlicet simpliciter, aperte, suetis et nobis usitatis voculis
+de sacramentis disseramus omissis et neglectis raris et noviter, ut ita dicam, inventis, nempe substantialiter,
+realiter, corporaliter, personaliter, inefabili, imprehensibili et miraculoso modo, et si quę sunt alia ecclesiis
+nostris insueta et inusitata.
+^$Quod vero concordiam attinet, praeter communem nostram confessionem ultimam Luthero transmissam<f1>Das Erste Helvetische Bekenntnis bzw. dessen Auslegung im Brief der reformierten Städte der Eidgenossenschaft an Luther vom 12. Januar (vgl. oben Nr. 934, Anm. 15).<fe> atque disputacionem
+Bernę habitam<fx>^#/+in der Vorlage ^#/-habitatam.<fe><f1>Gemeint ist die Berner Disputation von 1528, insbesondere deren vierte Schlußrede (s. unten Nr. 1045, Anm. 21).<fe> non quicquam aliud. Quę omnia synodo dimissa ad diacosios<f1>d. h. den Rat der Zweihundert.<fe> nostros relata ab eisque
+et recepta et
+adprobata sunt<f1>Der Rat bestätigte den Beschluß der Synode am 8. Juni, vgl. ^#/+Hundeshagen^#/- 76f; ^#/+Straßer^#/- 132.<fe>.
+^$ <vl>136r.</vl> Quod synodum Lauzanensem<f1>Vgl. oben Nr. 999, 9-15.<fe> attinet atque controversiam Charoli<f1>Pierre Caroli.<fe> adversus Calvinum, Farellum et Viretum,
+iamdudum vobis constat Genevenses de deo, Christo et spiritu sancto sancte et catholice nec denique aliter atque nos de
+sacramentis sentire. Voculas personarum et trinitatis non requirunt nec recusant, eas tamen in gratiam Charoli recipere
+nolebant<f1>Vgl. Calvins Bericht in CO VII 318f (s. a. CO IX 707f); zu den Verhandlungen der Synode über die Anschuldigungen Carolis außerdem: CO VII 325-337; ^#/+Bähler,^#/- Caroli 79-82.<fe>.
+^$Habetis itaque, charissimi fratres, omnia synodo nostra peracta, transacta ordine conscripta, omnia dico, quę vestra
+scire refert idque propter veritatem, quo omnium ora diversa adserencia obstruere possitis.
+^$Rumor est Lutherum extremum clausisse diem. Utinam ante biennium in domino hoc factum esset! Haud dubie longe tuciore
+pacto ecclesia nostra ageret, quam nunc agat.
+^$Quid contra nos Bucerus tentet, hoc scripto ad vos transmisso aperte videre poteritis<f1>Bucer hatte in einem Schreiben an den Berner Rat vom 8. Juni angeboten, sich persönlich vor der Synode zu rechtfertigen (s. ^#/+Hundeshagen^#/- 78f). Die nach Zürich gesandte Abschrift scheint nicht erhalten zu
+sein.<fe>. Dolus an virtus sit<f1>Vgl. Vergil, Aeneis 2, 390; Adagia, 3, 5, 81 (LB II 846f).<fe>, perpendatis,
+obsecro. A nostratibus quid responsi recepturus sit, brevi aut coram aut literis inteligetis<f1>Siehe unten Nr. 1027, 5-9.<fe>. En morosam senectutem!
+Quando hac, idest vulpina, non succedere videt, leoninam induit<f1>Vgl. Adagia, aaO (dort die ursprüngliche, umgekehrte Variante im Sinne von: der Gewalt mit List nachhelfen).<fe>.
+^$Valete diu incolumes, fratres charissimi.
+^$Bernę, 26. iunii anno 37.<un>Megand. totus vester.
+<lz>
+<vl>136v.</vl>
+Doctor Philippus<f1>Philipp Lang.<fe>,
+ducis Wirtenbergensis ad nos legatus, horum, quę petiit, nihil impetravit<f1>Lang hatte am 16./17. Juni vergeblich versucht, die Unterstützung Berns für die württembergischen Ansprüche auf die burgundische Herrschaft La Roche zu erhalten;
+s. Anna ^#/+Feyler,^#/- Die Beziehungen des Hauses Württemberg zur schweizerischen Eidgenossenschaft in der ersten Hälfte des XVI. Jahrhunderts, Diss. Zürich 1905, S. 378f.<fe>. Obnixe rogat, ut has
+tibi remitterem literas<f1>Möglicherweise hat Lang das an Bullinger adressierte Empfehlungsschreiben Herzog Ulrichs (oben Nr. 1003) auch Megander vorgelegt und es anschließend zurücksenden lassen.<fe>.
+<lz>[Adresse darunter:] Erudicione et pietate viris spectatissimis Bullingero ac Leoni Iudę, Tiguri a concionibus, fratribus suis charissimis.
+</content>
+</letter>

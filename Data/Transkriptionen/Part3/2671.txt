@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2671">
+<brief>
+<id>16358</id>
+<nr>2671</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-12"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 12. November 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 258 (neu: 275) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 76 </k></dr>
+<re><t>Bullinger hat Myconius eine große Wohltat erwiesen! Da aber die Überbringer von Bullingers Brief [nicht erhalten] schon gehen wollen, muss Myconius sich kurz fassen.</t>
+<t>[Herzog] Moritz [von Sachsen] ist eher kaisertreu als christlich. Er drängt auf die Abhaltung eines Konzils. Konzilien sind aber sinnlos, ganz gleich, ob sie von Papst [Paul III.] oder von Kaiser [Karl V.] veranlasst werden. Und da der Kaiser die Protestanten für Ketzer hält, wird er seine Versprechen niemals halten. Das beweist schon die Vergangenheit! Er würde frohlocken, wenn er alle evangelischen Gelehrten zur Teilnahme am Konzil bewegen könnte, weil er [sie] dann nämlich aus Feindschaft gegen das [Evangelium] und aus Frustration über den ungünstigen Kriegsausgang vernichten würde! Nach der Meinung kluger Leute wurde Moritz vom Kaiser zu Friedensverhandlungen überredet. Dass er darauf einging, ist auf seine Furcht vor dem Türken [Suleiman I.] zurückzuführen. Aber warum dringt er denn in das Territorium seines Verwandten, des Kurfürsten [Johann Friedrich von Sachsen], ein? Einen Brief an diesen vom 27. Oktober hat er wie eine Kriegserklärung ohne Anrede und Gruß formuliert, und er schrieb darin, dass er nach stattgefundener Beratung [mit den Seinen] das Land des Kurfürsten besetzen müsse, damit die Böhmen es nicht tun. Myconius will hier nicht seine Vermutung zu Moritz' Vorgehen äußern! Fest steht, dass dieser den Angriff der Böhmen hätte verhindern können. Aus Nürnberg schreibt man, dass ungarische und böhmische Einheiten in [Kursachsen] wüten. Und in Briefen aus Venedig und aus Ungarn erfährt man, dass [Sultan] Suleiman schon in Adrianopel sei und stärker als je zuvor rüste ...</t>
+<t>Ein christgläubiger Spanier [...], der vier Tage lang bis zum 9. November im Feldlager des Kaisers war, empfing von einem Italiener [...] [die Abschrift eines Kriegs]tagebuchs. Er konnte sich auch überall im kaiserlichen Lager umsehen, da er ja Spanier ist. Wie er berichtete, wäre er schon in der Provence, in "Belgien" und in der Champagne in kaiserlichen Lagern gewesen, hätte aber noch nie so viel Elend wie diesmal gesehen. Täglich stürben zahlreiche Menschen und Pferde an der Pest. Leichname blieben ohne Bestattung. Wegen der Kälte sähen die Soldaten wie Bettler aus, da sie sich in Decken, Frauenkleider, Felle und Lumpen hüllen, die sie von armen Bauern geraubt haben. Er habe sogar gesehen, wie sich einer an einem gerade Verstorbenen aufwärmte! Eine "hemina" Wein kostet drei Batzen, ein Stück Brot (das so klein ist, dass es kaum einen Hungrigen zu sättigen vermag) einen Batzen. Deshalb wären viele Tausend Italiener desertiert. Viele sind übrigens gefallen, so dass nicht einmal 3'000 von ihnen noch übrig geblieben sind. Der Kaiser soll nämlich nur sie eingesetzt haben, weil er die Spanier schonen wollte und den Deutschen misstraut hat. Die Kavallerie des [Maximilian von Egmont, Grafen] von Büren soll auf 4'000 Reiter (von denen nicht einmal 3'000 kampftauglich seien) zusammengeschrumpft sein. Alle
+kaiserlichen Feldherren raten zum Winterlager, doch der Kaiser bleibt stur, denn er will nicht als erster das Schlachtfeld verlassen haben. Dies sind verbürgte Nachrichten.</t>
+<t>Möge der Herr dem Geldmangel der [Schmalkaldener] abhelfen! Nur bei einem Sieg [der Protestanten] kann es zu einer Lösung [in der Religionsfrage] kommen, und nicht etwa durch Konzilien, welche Myconius verabscheut.</t>
+<t>Gruß, auch an Gwalther und an die Kollegen.</t>
+<t>[P.S.:] Myconius kann die [Dokumente zu den] Gemeindeversammlungen in der [Zürcher] Landschaft nicht zurücksenden, da er sie nicht erhalten hat.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16358-4A</zzl>Magna facis erga me, agnosco. Dominus rependat!<zzl>zl16358-4E</zzl> Dum literas
+<fn>Die hier bekundete große Dankbarkeit ("magna facis erga me!") weist darauf hin, dass der hier erwähnte Brief Bullingers wohl inhaltsreich gewesen sein muss. Doch handelt es sich kaum um Bullingers Brief vom 5. November (<qv>nr2659</qv>), zumal Myconius diesen bereits in seinem Schreiben vom 11. erwähnt hat; s. <qv>nr2670</qv>,<qv>zl16357-2</qv>.</fn> tui
+<fn>Unbekannte.</fn> reddunt, abituriunt. Quamobrem cogor respondere brevius.</p>
+</div>
+<div>
+<p><zzl>zl16358-6A</zzl>Mauricio
+<fn>Herzog Moritz von Sachsen.</fn> non fido, quia c{e}sareanus est quam christianus (meo videre)
+<fa><i>Dieses und die zwei nächsten Klammerpaare ergänzt.</i></fa> magis.<zzl>zl16358-6E</zzl> <zzl>zl16358-2A</zzl>Inculcat concilia. Ideo displicet; nam sive papa
+<fn>Paul III.</fn> sive c{e}sar
+<fn>Karl V.</fn> instituat, frustranea sunt.<zzl>zl16358-2E</zzl> <zzl>zl16358-7A</zzl>Certum est apud c{e}sarem h{e}retico nihil servandum: Nos pro h{e}reticis habet; ergo nihil servabit, si millies promiserit! Videamus acta usque huc. Mauricius ad pacem faciendam persuasus est a c{e}sare iudicio prudentum.
+<fn>Moritz hatte dem Landgrafen Philipp von Hessen und den Kriegsräten des Schmalkaldischen Bundes seine Vermittlung für einen Friedensschluss mit dem Kaiser angeboten. Zu dessen Bedingungen gehörte auch ein Konzil; s. dazu Erich <i>Brandenburg,</i> Moritz von Sachsen, Bd. 1: Bis zur Wittenberger Kapitulation (1547), Leipzig 1898, S. 505f, und vgl. <a>Moritz von Sachsen PK</a> II/2 904-906, Nr. 1041; 916f, Nr. 1050; 902, Nr. 1052a.</fn> Non vana dico aut vaga. Si c{e}sar ad concilium
+<fn>Das schon begonnene Konzil von Trient.</fn> posset producere omnes doctos evangelii probosque viros, tunc cantaturus esset: "Io, io!"
+<fn>Ausruf der Freude.</fn> Perditurus enim esset,
+<fn>Zu verstehen: Perditurus eos (doctos evangelii probosque viros) enim esset.</fn> adeo infestus est sanct{e} religioni <zzl>zl16358-5A</zzl>et iam melancholia movetur mirabili, quod bellum non cessit ex sententia.<zzl>zl16358-5E</zzl><zzl>zl16358-7E</zzl> <zzl>zl16358-19A</zzl>Idem Mauricius ita horret Turcam
+<fn>Sultan Suleiman I.</fn>, ut libentius illa tentet.<zzl>zl16358-19E</zzl> <zzl>zl16358-8A</zzl>Sed cur interim invadit electoris cognati
+<fn>Johann Friedrich I. von Sachsen. - Zum Einfall in Kursachsen s. <qv>nr2664</qv>, <qv>fn16353-5</qv>. - Zur Verwandschaft der zwei Fürsten s. <qv>nr2659</qv>, <qv>fn16348-7</qv>.</fn> imperium? Nam id verum esse constat ex ipsius literis; <zzl>zl16358-21A</zzl>nam 27. octobris scripsit
+<fn>Siehe dazu <qv>nr2664</qv>, <qv>fn16353-3</qv>.</fn> ad electorem sine titulo
+<fn>Gemeint ist die damals zu Beginn eines Briefes übliche Aufzählung all der Untertanengebiete des Adressaten, wenn es sich bei diesem um einen Fürsten handelte.</fn> et salutatione, tanquam bellum indicens, quod provinci{e} su{e} <zzl>zl16358-1A</zzl>concilio habito<zzl>zl16358-1E</zzl> definierit occupare ditionem eius, ne id Boemi faciant.<zzl>zl16358-21E</zzl> Qua ratione sic fecerit, equidem indicare nolo. Ita tamen videtur: Si voluisset esse vir bonus, Boemos valuisset prohibere, ne domo exiissent. <zzl>zl16358-9A</zzl>Scribitur ex Nuremberga collectam manum Hungarorum et Boemorum incendio et ferro grassari coepisse in ditionem electoris.<zzl>zl16358-9E</zzl><zzl>zl16358-8E</zzl> <zzl>zl16358-3A</zzl>Scribitur item Venetiis et ex Hungaria constanter a viris optimis Solimanum iam agere Adrianopoli
+<fn>Edirne, Türkei.</fn> et se contra nos maiore quam unquam apparatu instruere.
+<fn>Vgl. dazu die Berichte Heinrich Thomanns aus dem Feldlager bei Giengen an die Zürcher vom 12. und 13. November 1546 (Zürich StA, A 177, Nr. 133. 135), in denen Rüstungen der Türken erwähnt werden. Aus den Briefen des kaiserlichen Botschafters Gerhard Veltwyck, die dieser am 9. Oktober und 5. November 1546 aus Konstantinopel an König Ferdinand I. (<a>Austro-Turcica</a> 113. 117) sandte, wird allerdings ausdrücklich mitgeteilt, dass für diesen keine Kriegsgefahr bestünde.<zfn>fn16358-2</zfn></fn><zzl>zl16358-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16358-10A</zzl>Pr{e}terea vir Christo fidelis (quamvis Hispanus)
+<fn>Unbekannt.</fn> et rerum praesentium peritus quatuor integros dies in castris imperatoris fuit eaque reliquit 9. huius. <zzl>zl16358-11A</zzl>Hic ab Italo quodam
+<fn>Unbekannt. - Sind hier vielleicht die bis zu diesem Zeitpunkt aufgezeichneten Einträge in dem von dem Italiener Giovanni de Godoi verfassten Tagebuch gemeint, das 1548 in Venedig unter dem Titel "Comentari della guerra fatta nella Germania" veröffentlicht wurde? Siehe dazu <a>Voigt, Geschichtschr.</a> 93-96. - Godoi stand damals im Dienste eines Statthalters der spanischen Krone.<zfn>fn16358-3</zfn></fn> nactus diaria totius belli<zzl>zl16358-11E</zzl> et auditis multis in castris, tum etiam hisce undique inspectis, quia Hispanus, narravit se et ante fuisse in castris c{e}saris in Provincia
+<fn>Provence.</fn>, in Belgico
+<fn>"Belgien", entsprechend z.T. dem nördlichen Teil Frankreichs, Belgien und dem südlichen Teil der Niederlande.</fn> et Campania
+<fn>Champagne.</fn>, sed tantam miseriam nunquam conspexisse. Peste cotidie multos absumi homines et equos; cadavera relinqui inhumata; <zzl>zl16358-22A</zzl>frigore quoque sic adfligi milites, ut viderit, qui se super recens mortui corpus utcunque foveret. Milites militum speciem non habere, sed mendicorum, ita esse involutos stragulis, vestibus muliebribus, pellibus ac pannis, quos miseris agricolis abstulerunt.<zzl>zl16358-22E</zzl> <zzl>zl16358-20A</zzl>Inopiam annon{e} et vini laborare, ut hemina
+<fn>Ungefähr ein Viertel einer Straßburger Maß (s. <a>Dasypodius, Dic.</a> 91r.), was also etwas weniger als einem halben Liter entspricht; s. Spätmittelalter am Oberrhein, Teil II: Alltag, Handwerk und Handel 1350-1525, hg. v. Sönke Lorenz und Thomas Zotz, Bd. 1: Katalogband, Stuttgart 2001, S. 212.</fn> vini 3 batziis ematur, panis, quo vix semel fames dometur, batzio.<zzl>zl16358-20E</zzl> <zzl>zl16358-13A</zzl>Hisque de causis multa millia Italorum abiisse; multos quoque in velitationibus
+<fn>Scharmützeln; s. <a>Kirsch</a> 2925.</fn> cecidisse, ut non supra tria millia supersint.
+<fn>Zur Dezimierung der italienischen Truppen s. zuletzt <qv>nr2659</qv>,<qv>zl16348-5</qv>.</fn><zzl>zl16358-13E</zzl> <zzl>zl16358-12A</zzl>Nam hos solos ad velitationes procurrisse, imperatorem enim Hispanis pepercisse, Germanis non bene fisum esse
+<fn>Zum Misstrauen des Kaisers gegenüber den deutschen Landsknechten s. schon <a>HBBW</a> XVII 385.</fn>.<zzl>zl16358-12E</zzl> <zzl>zl16358-14A</zzl>Burensis
+<fn>Maximilian von Egmont, Graf von Büren.</fn> equitatum narrat redactum ad 4'000, et non tria ex his idonea esse ad pugnam; ita homines et equos inedia debilitatos.
+<fn>In einem Bericht des Landgrafen vom 2. November (Zürich StA, A 177, Nr. 121) will dieser erfahren haben, dass von den 24 ursprünglichen Fähnlein des Grafen von Büren nur noch 12 übrig geblieben seien, weil viele dieser Söldner desertiert oder umgekommen wären. Auch Thomann berichtet am 12. November nach Zürich (Zürich StA, A 177, Nr. 133), dass der Graf vielen seiner Soldaten kündigen musste und viele davon gestorben waren. Von Büren selbst sollte "inn sym gm{uo}t irrig syn" und auf baldige Genesung hoffen, um im Feld bleiben zu können. Am 19. November berichtet Thomann, dass dem Grafen nicht mehr als 3'000 Söldner zur Verfügung stünden (aaO, Nr. 145).<zfn>fn16358-1</zfn></fn><zzl>zl16358-14E</zzl> <zzl>zl16358-15A</zzl>Omnium ducum consilia ad hyberna
+<fn>Winterlager, Winterquartier; s. <a>Kirsch</a> 1381.</fn> tendunt; solam c{e}saris pertinaciam nolle, ne dicatur prior reliquisse (ut loqui solemus) campum.<zzl>zl16358-15E</zzl> H{e}c quamvis non ignores, volui tamen, ut eadem et ex me cognosceres ut certa.<zzl>zl16358-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16358-16A</zzl>Non est alia querela apud nostros nisi inopia pecuni{e},
+<fn>Zum Geldmangel der Schmalkaldener s. <qv>nr2662</qv> und <qv>fn16351-1</qv>; <qv>nr2663</qv>,<qv>zl16352-15</qv>. <qv>zl16352-56</qv>.</fn> qu{e} nervus est tamen belli
+<fn>Vgl. <i>Cicero,</i> Orationes Philippicae, 5, 5.</fn>. Oremus dominum, ut et nos ditet. Non videtur enim ad concordiam nos alio pacto venire posse nisi victoria.<zzl>zl16358-16E</zzl> <zzl>zl16358-18A</zzl>Concilia horreo.
+<fn>Vgl. oben Z. <qv>zl16358-2</qv>.</fn><zzl>zl16358-18E</zzl></p>
+</div>
+<div>
+<p>Vale in Christo cum Gvalthero et piis fratribus. Basile{e}, 12. novembris anno 1546.</p>
+<un>Tuus Os. Myc.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl16358-17A</zzl><fa1 bis="1"><i>Senkrecht am Rande nachgetragen.</i></fa1>Acta in rure
+<fn>In der Zürcher Landschaft, wo seit dem 7. November Gemeindeversammlungen veranstaltet wurden; s. dazu zuletzt die Verweise in <qv>nr2659</qv>, <qv>fn16348-6</qv>.</fn> equidem non accepi, quocirca remittere nihil possum.<fa1e von="1"/><zzl>zl16358-17E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, viro doctissimo pientissimoque, domino in Christo venerando suo. Zurich.
+<fn>Laut <qv>nr2682</qv>,<qv>zl16369-1</qv>, wurde vorliegendes Schreiben zusammen mit dem am gleichen Tag verfassten Brief <qv>nr2672</qv> nach Zürich befördert.</fn></p>
+</div>
+</text>
+</brief>

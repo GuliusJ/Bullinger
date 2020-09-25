@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1056">
+<nr>1056</nr>
+<correspondents>
+	<originator>Johannes Caesarius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Köln</place>
+	<date>16. Oktober [1537]</date>
+	<note>Die Erwähnung von Gwalthers Besuch (s. unten Z. 2-14 mit Anm. 2) erlaubt eine zweifelsfreie Datierung.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 361, 123 (Siegelspur)</vo>
+<dr>Gedruckt: ^#/+Krafft^#/- 123f</dr>
+<re>Als ihn Gwalther im Sommer besuchte, vermutete Caesarius in der Grußübermittlung einen bloßen Vorwand, um bei ihm
+vorsprechen zu können. Sein Zweifel wurde durch Bullingers Brief zerstreut, worin er ihm als Zeichen der Dankbarkeit seinen
+Epistelkommentar [HBBibl I 84 und 91] ankündigte; da das Buch noch nicht eingetroffen ist, bittet er, es durch den Buchhändler
+Arnold Birckmann liefern zu lassen. Freut sich über das Geschenk und bedauert, daß ihm Alter und Krankheit einen Besuch
+verunmöglichen. Grüßt Gwalther und Vadian, dessen Werke er ebenso wie Pellikans Kommentare mit Gewinn liest; an
+letzteren mißfällt ihm jedoch die zu enge Anlehnung an Erasmus' "Paraphrasen".
+</re>
+<tx>Salutem in Christo Iesu, domino et servatore nostro.
+^$Venit ad me aestate superiori Gvalterus<f1>Zu Gwalthers Besuch bei Caesarius am 20. Mai 1537 s. ^#/+Boesch,^#/-
+Gwalthers Reise 457 [lat.] bzw. 459 [dt.].<fe> tuus, imo et meus, adolescens
+profecto et admiranda morum suavitate et
+optimarum literarum institutione neutiquam vulgari pręditus idemque simul comitatus duobus Anglis<f1>Gwalther reiste
+zusammen mit Nicholas Partridge (s. HBD 25, 18-20). Auf dem Rückweg aus England schlossen sich ihnen in Antwerpen Nicholas Eliott und John Finch an (s.
+^#/+Boesch,^#/- Gwalthers Reise 456 [lat.]; 458 [dt.]; 464, Anm. 42; 466, Anm. 58). Bullinger spricht allerdings von ^#/+drei^#/- englischen
+Studenten, die mit Gwalther und Partridge nach Zürich kamen (s. oben Nr. 1007).<fe>, viris certe,
+ut mihi facile coniicere licebat, tum doctissimis tum piissimis. Venit, inquam, adolescens ille (opinor) non tam, ut me tuis
+verbis salutaret, quam ut me, hominem iam mediocri senecta, quam Iuvenalis primam et rectam vocat<f1>Juvenal, Saturae 3, 26.<fe>, confectum videret<fx>videret^#/+ irrtümlich wiederholt, gestrichen^#/-.<fe>
+audiretque, ut de quo maior apud exteros eruditionis fama extat, quam res est. Et nisi idem adolescens protinus
+addidisset te meum hic aliquando discipulum fuisse<f1>Vgl. HBD 125, 20f.<fe>, poteram suspicari salutationem illam ab ipso confictam potius quam
+abs te illi commendatam. Nam ita plerumque fit, ut, dum conveniendi alicuius desiderio tenemur et non adest occasio
+iusta, tale aliquid comminiscimur, per quod occasio qualiscunque accedendi, ad quem volumus, habeatur.
+^$Cęterum, ubi ad proxime pręteritas nundinas Franckfordianas<f1>Zum Termin der Frankfurter Herbstmesse s. HBBW VI, S. 406, Anm. 5.<fe> literę tuę<f1>Nicht erhalten.<fe> ad me perlatę sunt, omnem hac de
+re scrupulum abieci, ut ex quibus plane cognovi adolescentem ipsum abs te ad hoc subornatum, uti me non solum tuis
+verbis salutaret, sed et inviseret ac videret insuper. Ex eisdem quoque literis tuis intellexi te in argumentum
+gratitudinis erga me tuę Commentarios tuos in omnes apostolorum epistolas<f1>HBBibl I 84 und 91.<fe> misisse; sed cui ex nostris bibliopolis
+traderentur ad me perferendi, hactenus rescire non potui. Arbitror id hinc evenisse, quod typographus<f1>Christoph Froschauer?<fe> ille apud vos, cui
+illud iniunxeras, huius commissi plane oblitus sit, ne dicam neglexerit propter occupationem. Sed huic sive oblivioni
+sive negligentię facilimum adhiberi poterit remedium, si vel tu vel ipse typographus scripserit ad Arnuldum
+Pyrckmannum<f1>Arnold Birckmannd. Ä., von Hinsbeck (Kr. Viersen, Nordrhein-Westfalen), gest. 1541/42, war bereits 1508
+buchhändlerisch tätig. Von 1525 an baute er einen eigenen Buchhandel auf, doch nach dem Tod seines Bruders Franz (1530)
+übernahm er dessen Kölner Stammgeschäft, das er bis zu seinem Tod erfolgreich führte. - Lit.: ^#/+Grimm,^#/- Buchführer
+1528-1530; ^#/+Benzing,^#/- Buchdrucker 239; Contemporaries I 148f.<fe>, bibliopolam apud nos insignem, simulque per easdem
+literas illum commonefaciat, uti unum ex exemplaribus
+tuorum Commentariorum mihi exhibere non gravetur in pręsens usque ad proxime futuras nundinas.
+^$Quos tamen Commentarios illos tuos etsi nondum<fx>dum ^#/+über der Zeile nachgetragen.^#/-<fe> receperim, nihilo<fx>^#/+vor ^#/-nihilo^#/+ gestrichenes ^#/-ta.<fe> minus tam grato istum animum erga me tuum amplector
+animo affectuque<fx>affectuque ^#/+am Rande nachgetragen.^#/-<fe>, quam qui gratissimus mihi esse possit. Et utinam illum erga te beneficio aliquo minime vulgari
+declarare possem! O quanto desiderio iam dudum te et reliquos tui similes doctissimos isthic<fx>isthic ^#/+über der Zeile nachgetragen.^#/-<fe> et pietate insignes viros videre ac invisere cupivi; sed aetas et
+ęgritudo certe gravissima, qua iam annis ferme quatuor laboravi ex vertigine, non ferunt, ut isto ad vos desiderio
+implear unquam.
+^$Bene vale et meis verbis officiosissime salutato Gvalterum meum, charissimum adolescentem, et Ioachimum Vadianum, virum
+undecunque doctissimum, cuius sane lucubrationum lectione mirifice oblector, quemadmodum et Chunradi Pellicani -
+pręsertim Commentariorum lectione in vetus testamentum<fx>pręsertim ... testamentum^#/+ am Rande nachgetragen.^#/-<fe><f1>BZD C 217 und C 256f.<fe> -,
+in cuius Commentariis in quatuor
+evangelistas<f1>BZD C 256 (Teil 6) und C 266.<fe> nunc versor prope quotidie. Quos mallem non tam crebro Erasmi commentariis ex suis Paraphrasibus<f1>LB VII.<fe> aspersos adeoque, ut quos vix secernere queam ab iis, qui Pellicani sunt<fx>^#/+Ganzer Satz am Rande nachgetragen.^#/-<fe>.
+^$Colonię, ipso die Galli confessoris.<un>Ioannes Cęsarius ex animo totus tuus.
+<lz>[Adresse auf der Rückseite:] Viro et pietate et eruditione clarissimo Henrico Bullingero, amico suo
+optimo et mihi cum primis amando<fx>^#/+Darunter von Bullingers Hand:^#/- Ioannes Caesareus Iuliacensis.<fe>.
+</content>
+</letter>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1890">
+<nr>1890</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>9. April [1544]</date>
+	<note>Die in Bullingers Teilabschrift sowie in den Briefteilen in Blarers Hand erwähnten Ereignisse lassen sich eindeutig dem Jahr 1544 zuordnen.</note>
+</space_time>
+<vo>Teilabschrift von Bullingers Hand (Briefanfang<fx>^#/+Bullingers Teilabschrift ist zunächst als undatiertes Fragment zu betrachten. Die Verbindung zum ebenfalls fragmentarischen Briefschluss Blarers vom 9. April ergibt sich einerseits aus dem zusammen mit beiden Teilen überlieferten Vorschlag Blarers für ein Schreiben der Eidgenossen an die Reichsstände (vgl. unten Z. 19-22 mit Anm. 25), andererseits aus folgenden Indizien zur Datierung des Briefanfangs: Die unten Z. 5-8 angeführten Zahlen zur Aufteilung der von den Reichsständen zu bewilligenden Truppen finden sich erstmals in der Triplik Kaiser Karls V. vom 29. März 1544 (RTA JR XV/3 1018-1020, Nr. 112). Die unten Z. 8-12 mitgeteilte Zustimmung der Stände erfolgte mit der Quadruplik vom 4. April (s. unten Nr. 1894, Anm. 10). Bullinger dürfte das fehlende Original des Briefanfangs an Diethelm Röist weitergereicht und seine eigene Abschrift zurückbehalten haben.^#/-<fe>): Zürich StA, E II 453, 189r.-v.; Autograph (Briefschluss und Beilagen<fx>^#/+Zur 1. Beilage vgl. oben Anm. a. Die Zugehörigkeit von Beilage 2 zu diesem Brief lässt sich aufgrund von Bullingers Antwort vom 11. April (unten Nr. 1892, 64-70) vermuten; sie könnte aber auch schon etwas früher übersandt worden sein.^#/-<fe>): Zürich StA, E II 357a, 663. 666f. 662r.-v. (Siegelspur)<fx>^#/+Mit Anmerkung in der Hand von Traugott Schieß.^#/-<fe></vo>
+^&xLässt sich die Zugehörigkeit der Beilagen wirklich belegen? ^&x{
+^&xK: Zürich ZB, Ms S 54, 99; Ms S 199, 62; Zit.: Stucki, Lavater 221^&x{
+<dr>Teildruck und zusammenfassende Übersetzung von Briefschluss und Beilagen: Blarer BW II 244-246, Nr. 1073</dr>
+<re>Aus Speyer wird berichtet, dass die Kurfürsten und Fürsten dem Kaiser [Karl^#. V.] 24'000 Fußsoldaten und 4'000 Reiter bewilligt haben, die er mit König [Ferdinand I.] zum Kampf gegen [Franz^#. I.] bzw. [Suleiman^#. I.] aufteilen wird; die genannten Stände und Fürsten wollen Franz [I.] aufgrund seines Bündnisses mit den Türken zum Feind der Christenheit erklären, wovon die Eidgenossen bald informiert werden sollen; ihre Antwort ist genau zu überdenken, da ihr Ansehen im Reich auf dem Spiel steht, und sollte möglichst einstimmig erfolgen und allgemein gehalten sein. Grüße an [Diethelm] Röist. Bemüht sich sehr um Nachrichten und deren Übermittlung. Hofft, dass ihm durch [deren Mitteilung an] Seckelmeister [Hans Rudolf] Lavater keine Nachteile entstehen, vertraut aber auf Bullingers Urteil über dessen Vertrauenswürdigkeit. Hat um fünf Uhr [nachmittags] noch keinen Boten gefunden, möchte den Brief aber schnell abschicken und keinen Stadtboten nehmen, um Misstrauen zu vermeiden. [1. Beilage:] Entwurf eines Schreibens der Eidgenossen an die Reichsstände: Betrachten mit Sorge den Zwist zwischen [Karl^#. V.] und [Franz^#. I.] und wünschen dessen Beilegung, bitten aber um Nachsicht, wenn etliche Eidgenossen aufgrund ihrer Bündnisverpflichtungen in den Krieg ziehen oder wenn sie ungehorsame Untertanen nicht davon abhalten können.
+[2. Beilage:] Bittet Bullinger um Erkundigung nach eidgenössischen Rechtsentscheidungen über die Erbansprüche von Kindern, die von den Eltern in ein Kloster eingewiesen wurden, [nach der Reformation] jedoch wegen Gründung einer Familie enterbt worden sind oder einst auf ihr Erbe verzichtet haben; erkundigt sich desgleichen nach der Gültigkeit derartiger Testamente, die am Kammergericht, am Hofgericht zu Rottweil oder am Landgericht aufgesetzt wurden, und bittet um konkrete Beispiele aus der Eidgenossenschaft. Hat dies bisher vergessen und bittet um baldige Antwort, die aber nicht gleich durch diesen Boten erfolgen muss.</re>
+<tx>Lieber und guͦter freund, es ist nächt<f1>gestern Abend, letzte Nacht.<fe> widerumb
+bottschafft von Spyr<f1>Vom Reichstag zu Speyer.<fe> kummen, und stadt die sach gantz
+gefarlich. Die chur- und fürsten habend k.
+m.<f1>Karl^#. V.<fe> bewilligt 24'000 zuͦ fuͦß und 4'000 zuͦ roß
+in iren kosten zuͦ erhalten.<f1>Vgl. Nr. 1886, 43.<fe> Die sölle sin maiestat und
+der römisch könig<f1>Ferdinand I.<fe> teylen uff den Franzosen<f1>Franz^#. I.<fe> und die Türggen,
+wie es inen amm gelägnisten ist. Daruff ist ouch die teylung
+beschähen, das der keysser nemmen wirt 16'000 ze fuͦß und
+3'000 zuͦ roß; die überigen 8'000 zuͦ fuͦß und 1'000 ze
+roß wirt der könig in besatzung wider die Türggen nemmen.<f1>Siehe dazu die oben Anm. a erwähnte Triplik; s. RTA JR XV/3, Nr. 112, S. 1018-1020, bes. 1019. Das entsprechende kaiserliche Mandat an Konstanz vom 24. Juni findet sich im dortigen Stadtarchiv, Ref. A. Fasc. 23, f. 250.<fe> So
+wöllend genampt ständ und fürsten den Franzosen, von wägen
+das er sich zum Türggen<f1>Sultan Suleiman^#. I.<fe> xellet<f1>gesellt hat.<fe>, declarieren und uußschryben
+alls iren und gemeiner christenheyt vind<f1>Feind.<fe>. So wirt man ylendts
+üch eydgnossen ouch vomm rych zuͦschryben und üch abmanen
+vomm Franzosen, wie ir wol verston werdent etc.<f1>Das Schreiben der in Speyer versammelten Reichsstände an die Eidgenossen wurde bereits am 2. April abgefasst; s. RTA JR XV/3 1020-1023, Nr. 113.<fe> Dorumb
+luͦgend, wie ir wyslich<f1>weise.<fe> <vl>189v.</vl> handlind.
+Dann an üwer antwurt
+wirt
+vast<f1>sehr.<fe> vil gelägen sin.<f1>Zur Antwort der Eidgenossen vom 29. April s. unten Anm. 25.<fe> Gut eeren lüt im rych<fx>im rych ^#/+am Rande nachgetragen.^#/-<fe> und
+günstig der eydgnoschafft redent gar vil darvon, das, so
+ir da nitt fürsichticklich handlend, das es vil anlassens<f1>Gelegenheit, Grund (zu Auseinandersetzung).<fe>
+bringen wirt. Söllend ir eydgnossen üch von einanderen
+trännen und gespalltene antwurt gäben, so sterckend ir
+üwere mißgünstigen gar häfftig. Söllend sich dann die ort in
+glyche fuͦßstapfen stellen, da die stond, die gällt
+genommen und vil iamers angericht, wirt vor gott und
+aller erbarckeit imm rych übel luten. Und were vilicht
+das fuͦgcklichest, man gäbe ein allgemeine antwurt
+unvergriffenlich<f1>unverbindlich, ohne den Rechten anderer vorzugreifen.<fe> uff beide teyl. Darvon ich wyter üch
+wyser und verständiger lüten gedancken<fx>^#/+Vor^#/- gedancken ^#/+gestrichenes^#/-
+ant.<fe> und reden
+mitteylen wil etc.<fx>^#/+Hier endet Bullingers Teilkopie mit der Überschrift^#/- Formm der antwurt und entwürffen ^#/+(zu Bullingers Abschrift des Entwurfs s. unten Anm.^#/- g^#/+).^#/-<fe>
+^$<vl>E II 357a, 663</vl> Wellt mir meinem günstigen her Rösten<f1>Diethelm Röist.<fe> vyl vyl
+dienst, guͦts und gruͦtz sagen. Hapt mich allzeyt
+bruͤderlich für bevolchen.
+^$Ir wisst und gloubt nitt, wie ich mich wider meinen brauch
+reysß<f1>bemühe.<fe> und uͤb, unverzug dise ding zuͦerfaren und
+verstendiger leut guͦt beduncken darinn zuͦvernemmen.
+Der treuw gott verleich zytlichen unnd ewigen friden durch
+Christum Jesum.
+^$Ir söllt gewisß und ungezwyfellt sein, das ich mich kains
+wegs sparen will in erfarung<f1>Ermittlung.<fe>, ouch in zuͦschreibung alles
+des jhenigen, daran ich achten mag euch etwas gelegen sein.
+Doch das mir sölichs nitt zuͦ nachtail raiche. Des herr
+Laveters<f1>Hans Rudolf Lavater.<fe> seckelmaister halber, diewyl ir mir anzögen, das im
+nit weniger dann dem h. R[östen] zetrauwen,<f1>Ein Brief Bullingers mit dieser Mitteilung ist nicht erhalten.<fe> lasß ichs ouch
+geschechen, dann ich ewerm iudicio sovyl zuͦgib, das ir
+nunmehr uss erfarung der eweren wol muͦtmassen mögt, wem
+zuͦ trauwen seye oder nitt.
+^$Diß schreib ich zuͦ drey uren; hab zuͦ wol zuͦ
+funffen geschickt, kan kain potten ankomen. Wellt gern, das
+ainer noch etwa wyt gieng und uff morn dunstag by euch were
+zytlich. Ich will den brieff schliessen, dann ich hab wyter
+um ain boten usgeschickt, das ich inn nitt summe<fx>^#/+Erster Buchstabe korrigiert aus^#/- z.<fe><f1>aufhalte.<fe>; darff kein
+stattbotten brauchen, argwon zuͦverhuͤten. Will euch die
+horam uff den brieff schreiben.<f1>Auf dem im Original erhaltenen Briefteil findet sich keine entsprechende Notiz.<fe>
+^$Datum f[eria] 4. post palmarum.
+<un>AB.
+<lz>
+<vl>666f</vl> [1. Beilage gedruckt in: Blarer BW II 245f, (Teil von) Nr. 1073.]<fx>^#/+Eine von Bullinger angefertigte Abschrift dieses Konzepts für eine Antwort der Eidgenossen an die Reichsstände findet sich in Zürich StA, E II 453, 189.3r.-v.^#/-<fe><f1>Der Brief der Eidgenossen an die Reichsstände vom 29. April 1544 (in RTA JR XV/3, Nr. 124, S. 1049-1052, bes. 1051) weist teils starke Parallelen zu dem hier beigelegten Entwurf Blarers auf. Unter dem Titel "Churfürsten, Fürsten und gemeiner des heiligen Rychs Stendt, so uff dem Rychßtag zuͦ Spyr versamlet, Zuͦschryben an gemeine Eydgnoschafft im M.D.XLIIII. Jar. Item, Gmeiner Eidgnoschaft gesanten Radtsbotten zuͦ Baden Antwort uff gemelts der Rychsstend Zuͦschryben" wurde dieser Brief in Bern durch Matthias Apiarius 1544 gedruckt (s. VD 16 R 747; Exemplar in Zürich ZB, Ms S 54, 105).<fe>
+^&x^$Der aidgnossen schreiben möchte allso gestellt werden:
+^$Si hetten ir schriben [Zum Schreiben der Reichsstände an die Eidgenossen vom 2. April s. oben Anm. ***.] empfangen und hörten nitt gern, das
+sich die unainikait zwüschen der kai. mt.
+und der cron Franckrich ye lenger ye beschwarlicher
+zuͦtrüg; denn was für unrat gemainer teutscher nation mitt
+der zyt hieruß ervolgen möge, das seye lichtlich zuͦ
+ermessen. Derhalben wellten sy irs tails nichts liebers
+sechen und hochstens vermögens furdern helfen, dann das
+sölich spenn [Zerwürfnisse, Streitigkeiten.] hingelegt, ain bestendig frid uffgericht und
+Teutsche nation, ouch ganze christenhait vor grossem
+verderben, welchs usß der christlichen potentaten
+erschrockelichen spaltung gwisslich folgen werde, verhütet
+wurde. Sovyl aber sy und ir hilff belangte, in dem wellten
+sy sich also bewisen, das nieman sagen möchte, das sy zuͦ
+ainichem krieg billich ursach geben hetten, wie sy dann zwar
+sich bisher des ouch alweg [alweg ^#/+am Rande nachgetragen.^#/-] beflissen hetten. Ob aber
+daneben ettlich uss inen in jetz vorstenden oder ander krieg
+ziechen wurden, das weltind ir kai. und könig[lich]
+m[ajeste]ten, churfurstlich und furstlich gnaden, gnaden [gnaden ^#/+am Rande nachgetragen.^#/-]
+und lieb [^#/+Nach^#/- lieb ^#/+gestrichenes^#/- dahin(?).] (das bätind [bitten.] sy underthenig und flyssig) dahin
+gnedigst, gnedigklich und fruntlich verston, das solichs von
+etlichen in crafft irer ainigung und pundten, von ettlichen
+aber, das sy irer ungehorsamen underthonen wie ouch andere
+oberkaiten [^#/+Vor^#/- oberkaiten ^#/+gestrichenes^#/- undertho.] nitt mechtig seyen, gescheche, und derhalben
+dasjhenig, so von inen aintweders usß billicher schuld oder
+ungehorsame der iren fürgon wurde,
+<vl>667</vl> inen nitt verargen, sonder nichts destmynder
+sich der massen gnedigst, gnedig, freunt- und nachpurlich
+erzögen, wie sy hinwider gegen ir kais. und kö. maiesteten,
+churf. und f[urstlich] gnaden und lieb, in underthenig und
+nachpurlich ze thain, hoch genaigt seyend [seyend ^#/+gestrichen?^#/-].^&x{
+<lz>
+<vl>662r.</vl> [2. Beilage:]
+^$Liebster herr und bruͦder, es langt an euch min gar
+fruntlich beger, wellt euch sovyl möglich erfaren by
+den jenigen, so gemainklich auff die täg von ewern herenn
+gesandt werden, ob sölich fäll ouch etwa fur gemain
+aidgnossen kommen und was von inen darinn gesprochen seye,
+was ouch noch hierinn verhoffelich<f1>voraussichtlich.<fe> by inen erlangt möchte
+werden; namlich das die elteren in oder usserhalb ainer
+aidgnoschafft testament uffrichtend und ettliche irer kind
+enterbend ausß kainer anderen ursach, dann das die kind inen
+yn iren kintlichen jaren gefolget und in clöster gangen,
+darnach aber, alls sy der sachen verstendig worden, widerum
+herausß gangen und in eestand kommen, darinn mitt kindlin
+von gott begabt sind.
+^$Item, was in sölichem fall gesprochen worden, wa sich die
+kind usß unwissenhait der erbschafft verzygen<f1>auf das Erbe verzichtet.<fe> habend.
+^$Item, wie es mitt den jhenigen gehalten werde, die sich nitt
+verzygen habend und danecht<f1>dann doch.<fe> enterbt werden von den elteren
+allain usß ursach wie obgemeldt.
+^$Item, was man söliche testament gelten lasß, wa sy vorm
+camergricht oder hoffgricht zuͦ Rotwyl<f1>Rottweil.<fe> uffgericht
+werden.
+^$Item, wie im falle, so sy vorm landtgricht uffgericht werden.
+^$Und ob ir mir ettliche exempel kondten anzögen, wie man vor
+gmainen aidgnossen hierinn gehandelt und was man gsprochen
+hette; dann mir etwas daran gelegen von ains guͦten
+freunds<f1>Unbekannt.<fe> wegen, derhalb ich euch gantz vleyssig pitt, sovyl
+von minen wegen bemuͤet zesin und mir sölichs zuͦerfaren.
+^$<vl>662v.</vl> Diß<fx-t>^#/+Die Nachschrift quergestellt auf der Rückseite des Blattes.^#/-<fe> wollt ich euch nehermals<f1>unlängst, beim letzten Mal.<fe> zuͦgeschickt
+haben, aber in der yl ists mir abgefallen. So bald ir mitt
+statten mögt, wellt mirs erfaren; muͦß nitt gleych bey
+disem botten sein.<fx-x>^#/+Die Nachschrift quergestellt auf der Rückseite des Blattes.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe>
+<lz>[Adresse über Kopf zur Nachschrift:] Bullingero suo.
+</content>
+</letter>

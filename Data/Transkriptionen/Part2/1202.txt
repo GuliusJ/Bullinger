@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1202">
+<nr>1202</nr>
+<correspondents>
+	<originator fn=1>Hans von Landenberg</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Hans (Ytelhans) von Landenberg (Breitenlandenberg), gest. 1541, mit Zürich verburgrechtet und auf der Burg Liebenberg bei Zell (Kt. Zürich) seßhaft, wurde 1505 von Franz Gaisberg, Abt von St. Germain, mit der Herrschaft Turbenthal und 1518 mit Schloß und Herrschaft
+Breitenlandenberg belehnt.
+Zwischen 1499 und 1526 trat er als Vogt des Bischofs von Konstanz in Arbon und immer wieder auch als bischöflicher und königlicher Gesandter in Erscheinung. 1526 kaufte er aus Rechbergschem Besitz die Burg und Herrschaft Schramberg (Kreis Rottweil, Baden-Württemberg).
+Von 1538 an führte er einen Prozeß um Jagdrechte gegen die Reichsstadt Rottweil, der 1539 mit einem eidgenössischen Schiedsspruch endete; sein Sohn Christoph (Stoffel) führte den Streit jedoch mit Waffengewalt weiter (Landenberger Fehde). Weitere Briefe aus der Korrespondenz mit Bullinger sind nicht
+erhalten. -
+Lit.: Julius ^#/+Studer,^#/- Die Edeln von Landenberg. Geschichte eines Adelsgeschlechtes der Ostschweiz, Zürich 1904, S. 260-272 mit Stammtafel X; Hans ^#/+Lehmann,^#/- Aus der Geschichte der Herren von Landenberg zu Ende des 15. und in den ersten Jahrzehnten des 16. Jahrhunderts, in: ZTB 1933, NF 53,
+S. 19-48; ^#/+ders.,^#/- Stoffel von Breitenlandenberg und der geplante Kriegszug der Eidgenossen nach Rotweil, in: ZTB 1937, NF 57, S. 137-164, und ZTB 1938, NF 58, S. 102-127; Kindler von Knobloch II 442 (mit Fehlern); HBLS IV 588f.</note>
+</correspondents>
+<space_time>
+	<place>Schramberg</place>
+	<date>2. Dezember 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 355, 93 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Versichert Bullinger, daß er seinem [Neffen] Johann Heinrich Göldli gerne behilflich sein will; dieser wird selbst berichten. Entbietet seine Dienste und bittet um Nachsicht für sein knappes Schreiben.
+</re>
+<tx>Sunders guinstiger, lieber herr. Uff uiwer schriben und
+begeren, her Hans Hainrichen Gollin, min lieben vettern<f1>Johann Heinrich Göldli, 1496-1553, war der Sohn von Kaspar Göldli und Ursula von Breitenlandenberg, der Halbschwester von Hans von Landenberg; siehe René ^#/+Goeldlin de Tiefenau,^#/- Le recueil d'armoiries du chevalier Renward Goeldlin, in:
+Archives héraldiques suisses LXXXIV, Annuaire 1970, S. 77, und ^#/+Studer,^#/- aaO, S. 235; vgl. HBBW IV, S. 254, Anm. 8.<fe>, bellangend<fx>^#/+in der Vorlage^#/- bellangen.<fe>, loss ich uich wuissen, dass ich im mitsamt andern gernn hellffen will lut uiwers und her Hainrich
+Goelldliss schriben<f1>Nicht erhalten. - Über die angesprochene Angelegenheit ist nichts weiter bekannt.<fe>, wieg er uich selbss anzaigen wirt. Wellend in uich auch beffollen lassen sin.
+^$Will mich uich auch allsso beffollen haben gegen got und im zit<f1>in der Welt.<fe>, mit
+herbiettung, was ich uich fruindschaft, libss und guͦtz
+bewissen kann, findend ir mich allwegens guͦtwillig.
+Wellend allsso mins schlechten schribens verguͦt haben<f1>vorlieb nehmen.<fe>, dan ich allss<f1>so.<fe> müed von schriben bin, dass ich nuimen<f1>nicht mehr.<fe> mag.
+Damit sind got beffollen, und wass uich lieb ist. Damit
+bewar unss gott ally.
+^$Datum in ill zum Schramberg, uff mendag nach sant Andrass
+tag im 38. jar.
+<un>Hans von Landenberg zum Schramberg.
+<lz>[Adresse auf der Rückseite:] Dem erwirdigen heren
+Maister<fx>Maister ^#/+über der Zeile nachgetragen.^#/-<fe> Hainrichen Bullin, bredykant zum Grossen
+Muinster zuͦ Zuirch, minem sundern, guinstigen, lieben
+heren.
+</content>
+</letter>

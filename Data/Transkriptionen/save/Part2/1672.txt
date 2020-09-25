@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1672">
+<nr>1672</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Eberhard von Rümlang</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>4. Oktober 1542</date>
+</space_time>
+<vo>Autograph: Bern Burgerbibliothek, Cod. A 30, Nr. 1 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 10</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für Briefe [Nr. 1669f] und wird [die Beilage?] nach erfolgter Abschrift zurücksenden; die zwei Exemplare [seines
+Matthäuskommentars] kosten 28 Batzen. Hat - wie von Rümlang gewünscht - im eigenen und in Erasmus [Schmids] Namen an [Peter]
+Kunz geschrieben. Es war unklug, den Sohn des Säckelmeisters zu [Johannes] Fries zu schicken, da dieser bereits 20
+Schüler beherbergt; Bullinger hätte ihn bei [Peter] Kolin unterbringen und auch selbst ein Bett zur Verfügung stellen
+können, zieht sich aber angesichts der Empfehlung an Fries zurück. Bittet um Nachrichten über die [eidgenössischen] Truppen
+in Italien und Frankreich; [Christoph] Froschauer wird wohl bald nach Bern kommen. Mehr zu schreiben ist ihm jetzt nicht möglich.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Summa cum laetitia et expectatione tuas accepi literas<f1>Oben Nr. 1669f.<fe>, charissime Eberharte, et ago tibi gratias
+immortales. Ubi descripsero exemplum,<f1>Die Rede ist vielleicht von der Briefbeilage, die Exzerpte zur eidgenössischen
+Geschichte enthielt (vgl. oben Nr. 1669, 37-41).<fe> remittam. Exemplaria duo<f1>Gemeint sind Exemplare von Bullingers
+Matthäuskommentar; vgl. oben Nr. 1670, 11-13.<fe> constant 28 batz.
+^$Scripsi Conzeno<f1>Peter Kunz.<fe> sicut petisti<f1>Vgl. oben Nr. 1669, 26-36. 56f; 1670, 17-25.<fe>d. Erasmi<f1>Erasmus Schmid; vgl. oben Nr. 1669, Anm. 3.<fe> et meo nomine.
+^$Quod puerum attinet quaestoris aerarii<f1>Rümlang hatte den aus Thun stammenden (Pflege-?)Sohn eines Säckelmeisters
+empfohlen; vgl. oben Nr. 1670, 1-9.<fe>, vellem actum esse prudentius. Frisius<f1>Johannes Fries.<fe> est vir diligens et
+bonus, sed in uno contubernio fovet adolescentes 20. Potes ipse cogitare, quam impediantur multitudine studia. Ego apudd. Petrum Cholinum<f1>Peter Kolin.<fe>, virum doctissimum et integerrimum, ipsi hospitium impetraram, lectum ipse daturus
+fueram; quoniam vero Frisio commendatus fuerat, ego facile cessi.
+^$Oro, ut scribas, si quid habes ex Italia vel Gallia de nostris exercitibus. Puto Froschouerum brevi Bernam venturum.
+^$Vale. Plura nunc non potui, plura alioqui scripsissem. Vale
+iterum cum omnibus bonis.
+^$Tiguri, 4. octobris anno 1542.
+<un>H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Domino Eberharto a Rümlang,
+suo in domino charissimo fratri.
+^&xVerweis: A. Blarer an HB, 5. Okt. 1542, siehe [15.] Okt. 1542.^&x{
+</content>
+</letter>

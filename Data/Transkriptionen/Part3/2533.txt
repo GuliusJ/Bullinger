@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2533">
+<brief>
+<id>16222</id>
+<nr>2533</nr>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 11. August 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 339 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 75</k></dr>
+<re>Da sich mit Hans Vogler [d.Ä.] ein so geeigneter Berichterstatter gefunden hat, war Frölich im Zweifel, ob er überhaupt schreiben sollte. Denn Vogler hat die Kriegsrüstungen, von denen Frölich nur durch Hörensagen erfährt, mit eigenen Augen gesehen. [Im Lager] befinden sich zehn Fürsten, darunter Kurfürst Johann Friedrich von Sachsen, dessen Sohn [Johann Friedrich II. der Mittlere] und des Kurfürsten Bruder [Johann] Ernst [von Sachsen-Coburg], Landgraf Philipp von Hessen, Herzog Franz von Anhalt [richtig: Franz von Braunschweig-Lüneburg oder Wolfgang von Anhalt], Fürst Ernst von Braunschweig-[Grubenhagen], ein weiterer Fürst von Grubenhagen sowie ein Graf von Henneberg. Weitere Namen hat Frölich vergessen.
+<t/>Herzog Ulrich von Württemberg liegt in Dillingen an der Gicht darnieder. Bald wird er aber dem [schmalkaldischen] Heer folgen. Der Landgraf hat sich mit ihm in Dillingen getroffen. [Das Heer] ist riesig. Freilich darf man nicht darauf, sondern allein auf Gott vertrauen!
+<t/>Die [schmalkaldischen Verbündeten] ziehen heute über den Rubikon, d.h. über den Lech, und schlagen ihr Lager bei dem Städtchen Rain in Bayern auf, das von Herzog [Wilhelm] von Bayern und Kaiser [Karl V.] gehalten wird. Heute oder morgen greifen sie [Rain] an. Der Herzog würde lieber neutral bleiben, wird aber seine Gesinnung bald verraten müssen.
+<t/>Der Kaiser hat eine beträchtliche Verstärkung durch die räuberischen und sodomitischen Italiener erhalten. Bis jetzt ist noch nicht klar, ob er angreifen oder fliehen wird. Von Regensburg ist er nach Landshut gezogen. Bullinger soll, wie einst Moses für Israel, beständig beten! Der [Krieg] kann gar nicht als ernst genug angesehen werden, denn er wird eine Veränderung im deutschen Reich nach sich ziehen.
+<t/>Die Fürsten, vor allem [Johann Friedrich] von Sachsen und [Philipp von] Hessen, sind zuversichtlich. Im [schmalkaldischen] Heer ermahnen Prediger die meist anständigen Soldaten zur Frömmigkeit, was Frölich sehr freut.
+<t/>Grüße an die Bürgermeister [Johannes Haab und Hans Rudolf Lavater], den Stadtschreiber [Hans Escher vom Luchs], [Rudolf] Gwalther und die [Zürcher Gelehrten].
+<t/>[P.S.:] Frölich ist besorgt wegen der Streitigkeit zwischen den Eidgenossen. Kaiser und Papst [Paul III.] sind daran schuld. Die [protestantischen Eidgenossen] sollen sich von ihren katholischen [Verbündeten] nicht provozieren lassen, sondern den Kriegsausgang abwarten.</re>
+<text>
+<p><zzl>zl16222-2A</zzl>S. Cum mihi tam idoneus contigerit interpres, imo viva epistola, vir ornatissimus dominus Ioannes Vogler Tigurinus
+<fn>Hans Vogler d.Ä. verließ Augsburg einige Tage nach Abfassung dieses Briefes; vgl. <qv>nr2531</qv>, <qv>fn16231-11</qv>.</fn>, hesitavi, num tibi, frater devinctissime, scribendum an potius modicum illud, quod scribo, tabellario committendum fuit.<zzl>zl16222-2E</zzl> Nam is ea, qu{e} ego vel scriptis vel relatione aliorum percipio, oculis suis magna ex parte vidit et testari potest, presertim qu{e} ad bellicos apparatus, equitatum, peditatum et munitiones pertinent.
+<fn>Siehe Voglers ausführlichen Bericht in <qv>nr2531</qv>.</fn> <zzl>zl16222-1A</zzl>Adsunt principes decem: Ioannes Friderichus, dux Saxoni{e} elector; Philippus, landgravius Hessi{e}; electoris filius
+<fn>Johann Friedrich II. der Mittlere von Sachsen.</fn> et frater Ernestus
+<fn>Johann Ernst von Sachsen-Coburg.</fn>; <zzl>zl16222-7A</zzl>Franciscus dux ab Anhalt
+<fn>Sic! - Gemeint ist entweder Herzog <i>Franz</i> von Braunschweig-Lüneburg-Gifhorn oder dann Wolfgang von <i>Anhalt</i>; vgl. <qv>nr2524</qv>,<qv>zl16214-2</qv>; <qv>nr2531</qv>,<qv>zl16231-2</qv>.</fn>;<zzl>zl16222-7E</zzl> princeps Ernestus a Brunschvig;
+<fn>Ernst III. (IV.) von Braunschweig-Grubenhagen; vgl. <qv>nr2524</qv>, <qv>fn16214-2</qv>; <a>Mameranus, Rebel.</a> B3v.</fn> princeps quidam a Grubenhagen;
+<fn>Vermutlich Herzog Philipp I. von Braunschweig-Grubenhagen, der Vater von Ernst von Braunschweig, oder einer der Brüder von Ernst.</fn> <fa1 bis="1"><i>Am Rande nachgetragen und im engen Einband z.T. verdeckt; Fehlstellen ergänzt aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 61, 75).</i></fa1>[etiam] comes quidam [a]b Hennenberg<fa1e von="1"/>
+<fn>Graf Christoph von Henneberg (1510-1548); s. <a>Mameranus, Rebel.</a> B4v. Zu diesem s. Günther <i>Franz,</i> Graf Christoph von Henneberg, Heidelbergs Rektor im Jahre des Bauernkriegs, in <a>ZGO</a> 89, 1936, 58-73. - Beteiligt am Krieg war auch Joachim von Henneberg, der aber nicht als Graf bezeichnet wird; s. <a>Mameranus, Rebel.</a> B1v. Zu diesem s. Heike <i>Preuß,</i> Söldnerführer unter Landgraf Philipp dem Großmütigen von Hessen (1518-1567). Aufbau und Verwaltung einer personalen Friedensorganisation in Kriegssachen, Darmstadt 1975, S. 50. 95. 516.</fn>. Aliorum nomina nunc mihi non occurrunt.<zzl>zl16222-1E</zzl></p>
+<p><zzl>zl16222-5A</zzl>Dux Ulrichus a Wirtemberg Diling{e}
+<fa><i>In der Vorlage</i> Dilinge.</fa>, dum iter ad alios principes facit, podagra decumbit, sed brevi exercitum sequetur.
+<fn>Vom 5. bis zum 12. August befand sich Herzog Ulrich in Dillingen; s. Leo Ignaz von <i>Stadlinger,</i> Geschichte des Württembergischen Kriegswesens von der frühesten bis zur neuesten Zeit, Stuttgart 1856, S. 239.</fn> Landgravius Diling{e} ipsum convenit.
+<fn>Am 5. August, eher in Donauwörth; vgl. <qv>nr2527</qv>, <qv>fn16217-5</qv>.</fn><zzl>zl16222-5E</zzl> Ingens quippe numerus est, ingens manus.
+<fn>Zur Truppenstärke der in Donauwörth versammelten Schmalkaldener s. die widersprüchlichen Angaben in <qv>nr2529</qv>,<qv>zl16220-3</qv>, und <qv>nr2531</qv>,<qv>zl16231-19</qv>.<zfn>fn16222-3</zfn></fn> In quibus tamen omnibus nihil confidemus, sed in triumphatorem unicum et fortem deum solum sperabimus
+<fa>sperabimus <i>über der Zeile nachgetragen.</i></fa>.
+<fn>Vgl. 2Sam 22, 3.</fn> C{e}tera tantum instrumenta et media sint.</p>
+<p><zzl>zl16222-3A</zzl>Hodie primum transcenditur Rubicon,
+<fn>Vgl. <a>Wander</a> III 1751 s.v. Rubikon.</fn> hoc est nostri traiiciunt Lycum
+<fn>Den Lech.</fn> et castrum
+<fa><i>In der Vorlage</i> castram.</fa> metant in Boioaria ad oppidum Rhain,
+<fn>Vgl. <qv>nr2531</qv>,<qv>zl16231-18</qv>. Andere zeitgenössische Quellen datieren der Beginn dieser Belagerung auf den 9. August; s. <a>Paulus, Schertlin</a> 63 und Anm. 103.<zfn>fn16222-5</zfn></fn> quod forti pr{e}sidio custoditur, a nostris vero hodie vel cras oppugnabitur.<zzl>zl16222-3E</zzl>
+<fn>Rain wurde am 10. oder 11. August eingenommen; s. den Brief des Rats von Konstanz an den Rat von Zürich, 18. August 1546 (Zürich StA, A 177, Nr. 24). Siehe ferner <qv>nr2538</qv>,<qv>zl16228-8</qv>; <a>Schüz, Donaufeldzug</a> 28.<zfn>fn16222-1</zfn></fn> Nam non ducis Boioariorum
+<fa><i>In der Vorlage</i> Boiariorum.</fa>
+<fn>Herzog Wilhelm IV. von Bayern.</fn> solum, sed etiam c{e}saris
+<fn>Karl V.</fn> milite occupatur. Dux Boioari{e} mallet esse neutralis quam alterutrius
+<fa>utr <i>über der Zeile nachgetragen.</i></fa> partes fovere,
+<fn>Zur listigen Haltung des Herzogs von Bayern s. <qv>nr2467</qv>, <qv>fn16157-1</qv>; <qv>nr2530</qv>, <qv>fn16221-1</qv>; <qv>nr2531</qv>, <qv>fn16231-10</qv>.</fn> sed brevi cogetur animum prodere suum.</p>
+<p>C{e}sar latronibus et zodomitis
+<fn>= sodomitis.</fn> Italis non contemnendis stipatus est copiis.
+<fn>Zum päpstlichen Heer s. zuletzt <qv>nr2529</qv>,<qv>zl16220-1</qv>.</fn> An vero pr{e}lium initurus sit vel fuga sibi consulturus, adhuc nescitur. <zzl>zl16222-4A</zzl>Ratisbonam ipse dereliquit et contulit se ad Landshut
+<fa><i>In der Vorlage</i> Landhut.</fa>, civitatem Boioari{e}.
+<fn>Karl V. brach am 3. August von Regensburg auf und traf am 4. in Landshut ein, um sich mit den Truppen aus Italien zusammenzuschließen, was bis zum 13. geschah (s. <qv>nr2531</qv>, <qv>fn16231-12</qv>). Am 15. brach er wieder nach Regensburg auf; s. <a>Viglius van Zwichem</a> 53f; <a>Stälin</a> 579; <i>Stadlinger,</i> aaO, S. 242; <qv>nr2541</qv>,<qv>zl16429-2</qv>.<zfn>fn16222-4</zfn></fn><zzl>zl16222-4E</zzl> Nostri statuerunt illi nacta oportunitate quamprimum obviam et contra ire. Tu, qu{e}so, obtestor atque obsecro, nunc sis Moses noster
+<fn>Anspielung auf Ex 17, 8-13; s. schon <qv>nr2523</qv>,<qv>zl16213-8</qv>.</fn> et ora pro liberatione Israel. Non solum gladio, prece sed quoque vincitur hostis. Ardua siquidem res est et maior, quam edici potest. Nam hanc tragediam certa immutatio imperii Germanici sequetur. Dominus servet simpliciter ambulantes in lege sua! Amen.</p>
+<p>Principes nostri, pr{e}sertim Saxo et Hessus, sunt magnanimes et l{e}ti in domino. <zzl>zl16222-6A</zzl>Pr{e}terea audio exercitum nostrum per contionatores
+<fn>Als Feldprediger wirkten damals u.a. Johann Flinner, Johann Meckart und Johannes Piscatorius; s. <qv>nr2524</qv> und <qv>fn16214-4</qv>; <qv>nr2527</qv>,<qv>zl16217-5</qv>.</fn> ad pietatem sedulo moneri militemque adesse satis tractabilem et pium; id quod me valde delectat.<zzl>zl16222-6E</zzl></p>
+<p>Vale et salutem ex me dicito d. consulibus
+<fn>Johannes Haab und Hans Rudolf Lavater.</fn>, archigrammateo
+<fn>Hans Escher vom Luchs.</fn>, Gvalthero et toti musarum coron{e}
+<fn>Gemeint sind die Zürcher Gelehrten; vgl. <qv>nr2453</qv>, <qv>fn16141-6</qv>.</fn>. 11. augusti 1546.</p>
+<un>Tuus G. Laetus, etc.</un>
+<lz/>
+<p>Flagrare inter vestros dissidia gravatim audivi,
+<fn>Anspielung auf die Meinungsverschiedenheit zwischen den protestantischen Stadtkantonen und den Neun Orten; s. zuletzt <qv>nr2524</qv>,<qv>zl16214-9</qv>.<zfn>fn16222-2</zfn></fn> pr{e}sertim cum argumentum eius rei ex ista c{e}saris et pap{e}
+<fn>Paul III.</fn> seditione pessima oriatur. Videte, ne manus conseratis, sed calumnias potius papistarum toleretis, donec victoria alterutrius partis hic emicuerit. Vale, etc.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henricho Bullingero, anthistiti Tigurino, incomparabili amico et fratri.</p>
+</text>
+</brief>

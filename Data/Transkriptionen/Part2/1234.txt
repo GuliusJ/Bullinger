@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1234">
+<nr>1234</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Peter Simler</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich</place>
+	<date>Anfang März 1539]</date>
+	<note>Vgl. oben Nr. 1233, Anm. 1.</note>
+</space_time>
+<vo>Gedruckt: De origine erroris libri duo Heinrychi Bullingeri, Zürich 1539, f. 179v.-180r. (Widmungsvorrede)<f1>Vorrede zum zweiten Buch von "De origine erroris" (HBBibl I 12); vgl. oben Nr. 1233, Anm. 2. Zur Vorrede der 1528 erschienenen Erstauflage s. unten Z. 20f mit Anm. 8.<fe>; deutsche
+Übersetzung<f1>Vgl. HBBibl I 18.<fe>: De origine erroris et de conciliis ..., Heidelberg 1574, S. 219; niederländische Übersetzung<f1>Vgl. HBBibl I 21.<fe>: Vanden oorspronc der dvvalinghe ..., Dordrecht 1582, f. 72v.</vo>
+<re>So wie sein Büchlein über den Ursprung des Irrtums der Götter- und Bilderverehrung [von 1529] hat er auch jenes über den Irrtum der Messe [von 1528] überarbeitet; ausgehend von der Erlösung durch Christus behandelt er darin das Abendmahl, seine Benennung, seine einfache apostolische Form, den
+Ursprung der Messe und die Streitereien über die Transsubstantiation.
+Von Wolfgang Joner, Andreas Hoffmann und Peter Simler, denen er [1528] sein erstes Werk gewidmet hat, ist nur Simler übriggeblieben; ihm, der nach dem zweiten Kappelerkrieg in verdienstlicher Weise die Schule in Kappel wieder aufgerichtet hat, widmet er das vorliegende Werk, denn zweifellos wird er
+weiterhin die Wahrheit schützen und die Irrtümer bekämpfen.
+</re>
+<tx>In librum de origine erroris circa coenam domini sacram et missam papisticam ad Petrum Simlerum praefatio.
+^$Quemadmodum libellum de origine erroris circa invocationem et cultum deorum et simulachrorum<f1>De origine erroris in divorum ac simulachrorum cultu, Basel 1529 (HBBibl I 11).<fe> ante annos 10 aeditum nunc demum certo consilio recognovi et locupletavi, ita et eum libellum, qui olim de origine
+erroris in negotio eucharistiae et missae<f1>De origine erroris in negocio eucharistiae ac missae, Basel 1528 (HBBibl I 10).<fe> vulgatus est, rursus sub incudem revocare locupletioremque reddere volui.
+Divina enim bonitate fretus confido me nunc totum illud negotium et planius et copiosius diligentiusque expositurum. Principio ergo de mysterio redemptionis et coniunctionis fidelium cum deo per Iesum Christum, de institutione item, vi et efficatia usuque coenae sacrae dissero.
+Hinc affero quaedam de eius nomenclatura variisque appellationibus. Deinde ostendo, quanta puritate simplicitateque absque ceremoniarum pompa apostoli, et qui proxime apostolorum tempora insequuti sunt, coenam celebraverint.
+Quibus mox adiicio, unde noster ille missandi ritus veniat, praeterea quomodo et quibus rebus increverit missarum impia et quaestuosa illa nundinatio. Postremo perstringo horribilem illam concertationem eruditorum posterioris saeculi hominum super transsubstantiationis perplexissimo negotio, quod
+quę protinus absurda et impia sequuta sint, subiicio.
+^$Dedica-<vl>180r.</vl>ram vero prius illud opusculum, ut
+nosti, clarissimo virod. Wolphgango Ionero, Mecoenati<f1>Mäzen (vgl. Peter L. ^#/+Schmidt,^#/- in: KP III 860-862).<fe> dignissimo, Andreae Curiano et tibi<f1>Bullinger an Wolfgang Joner, Peter Simler und Andreas Hoffmann, Kappel, 27. Dezember 1527, in: Bullinger, De origine erroris ..., 1528, f.
+1v.; vgl. auch HBBW I, S. 259, Nr. 10.<fe>. Intercessere anni undecim, interim et magno omnium bonorum moerore et maximo studiorum detrimento fato sublati sunt piissimi et fortissimi fratres illi<f1>Joner und Hoffmann waren 1531 in der Schlacht bei Kappel gefallen; vgl. HBBW I, S. 48f, Anm. 4, und
+S. 79, Anm. 3.<fe>.
+Tu solus supereras vetus amicus et ipse de me et literis literatisque bene meritus, quippe qui a clade Capellensi rebus admodum adflictis temporibusque difficillimis Cappellensis scholae quasi reparator extitisti<f1>Peter Simler hatte im geplünderten und beschädigten Kloster Kappel nach dem Krieg
+1531 die Ordnung wieder hergestellt und die Wiedereröffnung der Schule ermöglicht; s. HBRG I 94f.<fe>.
+Tibi itaque recognitum hunc librum meum de origine erroris circa coenam domini sacram et missam papisticam rursus dedicare volui. Perges enim haud dubie veritatem agnitam et confessam ipse tueri et studiosis favere adesseque, qui mortuis nobis in harenam intrepidi descendant<f1>Adagia, 1, 9, 83 (LB
+II 361).<fe> et sub imperatore Christo pro veritate orthodoxa contra errores et superstitiones papisticas prudenter ac fortiter pugnent virtuteque numinis superni vincant ad dei gloriam et ecclesiae suae incolumitatem.
+</content>
+</letter>

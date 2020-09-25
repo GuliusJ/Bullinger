@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="24026">
+<nr>24026</nr>
+<correspondents>
+	<originator>Jean du Fraisse</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>25. Januar 1554</date>
+</space_time>
+<vo>Zürich StA, E II 365, 134.</vo>
+<dr>Gr. I, S. 358f.</dr>
+<re></re>
+<note></note>
+S.  Literas tuas cum Vergerii nostri fasciculo accepi; ei
+breviter respondeo. Si commodo tuo facere poteris, ad eum
+mittes. Non sum tam expers humanitatis, ut te aut ea aut
+alia re gravare velim. Scribo, ut se res offerunt, et scribo
+aperte. Nihil mihi gratius est, quam ut omnes erga me eadem
+libertate utantur, nedum ii, quibus tribuo, ut debeo,
+plurimum. Te certe imprimis amo et veneror. Vale. Curiae,
+8. calendas februarii.
+Tuus Ioh[annes] Frax[ineus], episcopus Bay[onensis].
+Doctissimo virod. Henrico Bullingero, ecclesiae Tigurinae
+ministro, amico charissimo.
+</content>
+</letter>

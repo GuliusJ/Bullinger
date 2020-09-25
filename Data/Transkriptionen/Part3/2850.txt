@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2850">
+<brief>
+<id>17118</id>
+<nr>2850</nr> <from persid="GastJohannes"/> <to persid="Bullinger"/> <place plid="Zürich"/> <date when="1547-03-19"/>
+<ae>Bullinger an Johannes Gast</ae>
+<od>[Zürich], 19. März 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 168 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 949f, Nr. 1063<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 169 </k></dr>
+<re><t>Die Straßburger scheinen sich durch Kaiser Karl V. verführt haben zu lassen! Sollte Gast Verbürgtes dazu wissen, möge er es berichten.</t>
+<t>Kurfürst Johann Friedrich von Sachsen hat am 2. März die Kaiserlichen besiegt, etwa 1'000 Pferde und zahlreiche Fußsoldaten getötet und die sechs übriggebliebenen Fähnlein schwören lassen, ein halbes Jahr lang nicht gegen ihn zu ziehen. Aus Konstanz wird gemeldet, dass u.a. Markgraf Albrecht Alcibiades von Brandenburg-Kulmbach, Landgraf [Christoph] von Leuchtenberg, Graf [Georg] von Helfenstein sowie Graf [Johann] Georg von Mansfeld-[Vorderort] gefangen genommen und nach Dänemark verschleppt wurden. Der Kurfürst soll auch seine Frau [Sibylle, geb. von Jülich-Kleve-Berg] und seine Kinder dorthin in Sicherheit gebracht haben lassen, da er nun gegen den Kaiser ziehen will. Als Letzterer in Nördlingen (auf dem Weg nach Nürnberg) von der Niederlage erfuhr, hat er sich zurück in Richtung Ulm aufgemacht. Den Augsburger Bischof Otto Truchsess von Waldburg sandte er zur Anwerbung neuer Truppen nach Rom.</t>
+<t>Gast soll dies auch Myconius, Francisco de Enzinas, Johannes Oporin, Johann Herwagen und Nikolaus Episcopius mitteilen. Grüße. Bullinger kommt leider nicht dazu, auch an Myconius zu schreiben.</t>
+<t>[P.S.:] Papst Paul III. hat mit dem englischen Kardinal Reginald Pole ein Heer gegen England entsandt, doch dabei sein Ziel verpasst, da Eduard VI. am 20. Februar gekrönt wurde und das ganze Königreich ihm bereits gehuldigt hat. In Hamburg haben der englische, der französische (Franz I.), der dänische (Christian III.) und der polnische König [Sigismund II. August oder Sigismund I.] sowie der Kurfürst von Sachsen mit den Hansestädten einen Bund geschlossen. Bullinger, der hier abbrechen muss, hat dies aus Augsburg erfahren.</t></re>
+<text>
+<div>
+<p>Gnad und frid. <zzl>zl17118-11A</zzl>Ich fürcht, Straßburg habe sich lassen mitt glatten
+<fn>schmeichlerischen.</fn> worten under den keyser
+<fn>Karl V. - Der Fußfall der Straßburger vor dem Kaiser stand damals unmittelbar bevor; s. <qv>nr2822</qv>, <qv>fn17088-7</qv>.</fn> bringen. Habend ir gewüsses, so schrybend.
+<fn>Gast hatte darüber in Brief <qv>nr2848</qv>,<qv>zl17116-1</qv>, vom 17. März geschrieben, was Bullinger offenbar noch nicht wusste.</fn><zzl>zl17118-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17118-8A</zzl>2. martii hat der churfürst
+<fn>Johann Friedrich I. von Sachsen. - Zu dessen Sieg bei Rochlitz am 2. März s. <qv>nr2832</qv>, <qv>fn17099-2</qv>.</fn> den keyserischen huffen geschlagen und gar zertrent, in
+<fn>etwa.</fn> 1'000 pferd erlegt, vil f{uo}ßvolcks umbbracht, 6 fenli überig zwungen ze schweren
+<fn>schwören.</fn>, in 6 monaten wider den churfürsten nitt ze kriegen. <zzl>zl17118-1A</zzl>Da ist, inn und nach der schlacht, vil adels gfangen und insonders ettlich herren, <zzl>zl17118-3A</zzl>alls margraff Albraecht von Brandenburg
+<fn>Albrecht II. Alcibiades von Brandenburg-Kulmbach. Vgl. zu dieser Stelle <qv>nr2849</qv>,<qv>zl17117-4</qv>; <qv>nr2851</qv>,[2]. Bullinger bezog sich hier auf Blarers Brief <qv>nr2849</qv> sowie auf einen verschollenen Brief von Konstanz an Zürich (s. <qv>nr2849</qv>, <qv>fn17117-3</qv>). - Erst später erhielt er von einem Unbekannten die von Georg von Reckerode angefertigte Abschrift eines Berichts über die Kampfhandlungen bei Rochlitz (Zürich StA, E II 441, 282-284), in dem die Gefangennahme des Markgrafen Albrecht und des Landgrafen Christoph von Leuchtenberg erwähnt ist, nicht aber die der anderen unten erwähnten Grafen.<zfn>fn17118-1</zfn></fn>, lantgraff von Lüchtenberg
+<fn>Christoph von Leuchtenberg; s. <qv>nr2849</qv>, <qv>fn17117-1</qv>.</fn>, der graff von H{ae}lffenstein
+<fn>Georg II. von Helfenstein-Wiesensteig; s. <qv>nr2849</qv>, <qv>fn17117-2</qv>.</fn>, graff J{oe}rg von Manßfeld
+<fn>Johann (Hans) Georg I. von Mansfeld-Vorderort zu Eisleben, geb. 1515, gest. 14. August 1579 in Dresden (s. Ludwig Ferdinand <i>Riemann,</i> Geschichte der Grafen von Mansfeld, Aschersleben 1834, S. 153f), der aufseiten der Kaiserlichen auch in <a>Moritz von Sachsen PK</a> III 882 (Reg.) nachgewiesen ist.</fn>, etc.<zzl>zl17118-3E</zzl> Diß all sind gf{ue}rt in Denmarck.
+<fn>Ein falsches Gerücht. Markgraf Albrecht wurde vom Kurfürsten schon in der Nacht nach seiner Gefangennahme nach Wittenberg, dann auf die Leuchtenburg bei Kahla (Thüringen) und anschließend nach Gotha in Verwahrung gebracht; s. <a>Voigt, Albrecht</a> I 156; <a>MBW-T</a> XVI 68, Nr. 4641.<zfn>fn17118-3</zfn></fn><zzl>zl17118-8E</zzl> <zzl>zl17118-12A</zzl>Es hat ouch der churfürst sin eigen wyb
+<fn>Sibylle von Jülich-Kleve-Berg.</fn> und kind
+<fn>Zu deren Namen s. <qv>nr2849</qv>, <qv>fn17117-5</qv>.</fn> dahin gefertigt z{uo} merer sichrung <zzl>zl17118-2A</zzl><fa1 bis="1"><i>Am Rande gegenüber dem ganzen Abschnitt nachgetragen. Klammern ergänzt. Siehe dazu <qv>nr2849</qv>, <qv>fn17117-3</qv>.</i></fa1>(es wirt mir z{uo}geschrieben von Constanz)<fa1e von="1"/><zzl>zl17118-2E</zzl><zzl>zl17118-1E</zzl>, dann er sich gar in lermen gerüst
+<fn>er sich gar in lermen gerüst: er stark aufgerüstet und [sein Land] in Alarmbereitschaft (lermen; s. <a>Fischer</a> IV 996) versetzt hat.</fn>. Wil dem keyser wyter under ougen ziehen.<zzl>zl17118-12E</zzl> <zzl>zl17118-13A</zzl>Der keyser was uff dem w{ae}g uff N{ue}renberg.
+<fn>Siehe <qv>nr2838</qv>,<qv>zl17105-5</qv> und <qv>fn17105-1</qv>.</fn> <zzl>zl17118-9A</zzl>Alls imm aber z{uo} N{oe}rlingen
+<fn>Nördlingen. - Siehe <qv>nr2848</qv>, <qv>fn17116-3</qv>.</fn> der fürsten niderlag angezeigt, ruckt er wider uff Ulm.
+<fn>Ein falsches Gerücht; vgl. nämlich <qv>nr2848</qv>, <qv>fn17116-2</qv>.</fn><zzl>zl17118-9E</zzl><zzl>zl17118-13E</zzl> <zzl>zl17118-7A</zzl>Den bischoff von Augspurg
+<fn>Kardinal Otto Truchsess von Waldburg. - Ein falsches Gerücht.</fn> schickt er mitt 50 pferden ylendts gen Rom umb ein frischen italischen züg.<zzl>zl17118-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17118-14A</zzl><zzl>zl17118-10A</zzl>Diß zeigend an d. Myconio,<zzl>zl17118-10E</zzl> d. Dryandro
+<fn>Francisco de Enzinas, der damals in Basel wohnte.</fn>, d. Oporino, d. Hervagio
+<fn>Johann Herwagen.</fn> et Episcopio
+<fn>Nikolaus Episcopius.</fn>, etc. Die gr{ue}ssend mir, etc.<zzl>zl17118-14E</zzl> <zzl>zl17118-15A</zzl><zzl>zl17118-4A</zzl>Libenter scripsissem d. Myconio.<zzl>zl17118-4E</zzl> Nihil possum.<zzl>zl17118-15E</zzl> 19. martii 1547.</p>
+<un>H. B.</un>
+<lz/>
+</div>
+<div>
+<p><vl>v.</vl> <zzl>zl17118-5A</zzl>Papa
+<fn>Paul III.</fn> misit exercitum sub duce Reginaldo Polo
+<fn>Reginald Pole. - Erneut ein falsches Gerücht. Vgl. <qv>nr2849</qv>,<qv>zl17117-5</qv>.</fn>, Anglo cardinale, ut Angliam vexet;<zzl>zl17118-5E</zzl> <zzl>zl17118-16A</zzl>sed frustra, nam 20. februarii coronatus et receptus est
+<fn>Gemeint ist Eduard VI.; vgl. <qv>nr2849</qv>,<qv>zl17117-9</qv>.</fn> a toto regno.<zzl>zl17118-16E</zzl> <zzl>zl17118-6A</zzl>Deinde foedus Hamburgi pepigerunt Anglus, Gallus
+<fn>Franz I.</fn>, Danus
+<fn>Christian III.</fn>, Polonus
+<fn>Gemeint ist eher Sigismund II. August, Sohn des Sigismund I., da Bullinger bereits erfahren hatte (s. <qv>nr2841</qv>,<qv>zl17109-17</qv>) dass Letzterer gestorben war (was allerdings nicht stimmte).</fn> et Saxo cum urbibus maritimis
+<fn>Hansestädte. - Ein falsches Gerücht wie schon in <qv>nr2849</qv>,<qv>zl17117-10</qv>.</fn>, etc.<zzl>zl17118-6E</zzl> <zzl>zl17118-17A</zzl>Plura non possum. Haec iam accipio ex Augusta.
+<fn>Vielleicht durch die damals gerade aus Augsburg zurückgekehrten Lorenz Meyer (Agricola) und Rudolf Schwyzer d.Ä., die kurz nach Erstellung der für sie bestimmten Empfehlungsschreiben (s. die Briefe <qv>nr2838</qv> und <qv>nr2839</qv>) und eines vom Rat auf Pergament verfassten Dankschreibens (Zürich StA, A 202/1, Nr. 23), alle vom 5. März, Augsburg verlassen hatten. Wahrscheinlich aber liegt hier eine Verschreibung für "ex Constantia" vor; vgl. nämlich <qv>nr2849</qv>,<qv>zl17117-12</qv>.<zfn>fn17118-2</zfn></fn><zzl>zl17118-17E</zzl></p>
+<lz/>
+<p>[Adresse darunter:] Sinem lieben herren und br{uo}der d. Myconio
+<fn>Aus dem Inhalt geht deutlich hervor, dass Bullinger den Brief an Gast schrieb. Da er aber nicht mehr dazu kam, auch an Myconius zu schreiben (s. oben Z. <qv>zl17118-4</qv>), wird er sich beim Verfassen der Adresse entschlossen haben, den Brief auch an Myconius zu adressieren. - Vorliegender Brief wurde von Christoph Froschauer übermittelt (s. <qv>nr2856</qv>,<qv>zl17125-1</qv>), der damals vielleicht das von Enzinas bestellte Papier (s. <qv>nr2840</qv>,[7]) nach Basel lieferte.<zfn>fn17118-4</zfn></fn> und Ioanni Gastio, predicanten z{uo} Basel.</p>
+</div>
+</text>
+</brief>

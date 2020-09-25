@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1047">
+<nr>1047</nr>
+<correspondents>
+	<originator>Martin Bucer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Biel</place>
+	<date>25. September [1537]</date>
+	<note>Das Jahr ergibt sich aus dem Bezug auf die Berner Sondersynode vom September 1537 (vgl. oben Nr. 1045).</note>
+</space_time>
+<vo>Autograph<fx>^#/+Nachsatz und Adresse von Grynäus' Hand.^#/-<fe>: Zürich StA, E II 348, 389 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat Bullingers Brief am 5. September, dem Tag seiner Abreise nach Bern, erhalten; wird erst von Basel aus antworten und auch die Akten der Berner [Sondersynode] mitsenden. Da
+Eras­mus [Ritter] überraschend aus Bern abgereist ist, zweifelt Bucer an seiner Zustimmung zur Übereinkunft, deren Geltung Megander im Namen der Pfarrer vor beiden Räten bezeugt hat. Bittet die Zürcher, erst nach Erhalt der Akten zu urteilen. Grüße.</re>
+<tx>Gratia et pax.
+^$Literas tuas<f1>Bullingers Brief, der wohl an Bucer und Capito gemeinsam adressiert war, ist nicht
+erhalten.<fe> per Froschouerum domi accępimus, quo die Bernam iter ingressi sumus, hoc est 5. septembris. Nunc non est tempus respondendi; eques enim hic
+tabellarius vester<f1>Unbekannt.<fe> ad iter
+accinctus est. E Basilęa respondebimus et acta Bernen[sia] mittemus<f1>Siehe unten Nr. 1051, 2-5 mit Anm. 2f.<fe>, quae autoritate et fide senatus et diacosiorum<f1>des Kleinen und des Großen Rates.<fe> illic conscripta sunt.
+^$Erasmus<f1>Ritter.<fe> nobis insciis abiit Berna, etiam si vesperi pridie, quam
+abiret, eum apud suas edes salutarem. Quo profecto metum iniecit eum restitutum consensum et summam charitatem nondum ex toto corde professum esse, utcunque et coram fratribus et senatu utroque
+eam Megander iussu omnium fratrum verbis sane amplissimae consensionis et dilectionis profiteri se testatus sit<fx>sit ^#/+am Rande nachgetragen.^#/-<fe>.
+^$A te et caeteris symmystis nostris isthic aliud non petimus, quam ut iudicium
+differatis, donec acta videritis. Sed ipsa vos ęquitas monet alteram aurem nobis servandam esse<f1>Zur Redensart vgl. Plutarch, Alexander, 42, 2; LB IV 605f.<fe>.
+^$Valete in domino. Capito vos salutat.
+^$Bihelae, 25. septembris.<un>M. Bucerus tuus.
+<lz>Salutat te Grynęus tuus amantissime. Vale.
+<lz>[Adresse auf der Rückseite:] Optimo virod. Heinricho Bullingero suo.
+</content>
+</letter>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2317">
+<nr>2317</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>30. Dezember 1545</date>
+</space_time>
+<vo>Abschrift von Johann Rudolf Stumpf: Zürich StA, E II 351, 13v.-14v.</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 181 (1545 eingeordnet); Erw.: JSG 31, 1906, 63, 65; Kessler, Sabata 633, Nr. 5^&x{
+<re>Bullinger soll den wichtigen Brief [von Lorenzo Torrentino] an [Johannes] Oporin<f1>Lorenzo Torrentino aus Bologna legte diesen Brief seinem Brief an Vadian vom 10. Dezember 1545 bei; s. Vadian BW VI 480f, Nr. 1436.<fe> mit einem sicheren Boten nach Basel weiterbefördern.
+-^#. Der St. Galler Kaufmann Huldrych Sclappritz hatte die vor kurzem in Rom gedruckte Schrift des vortrefflichen Theologen Theodoret von Cyrus, De Providentia [Sermones X], die Vadian [mit einem nicht erhaltenen Brief] Bullinger schenken durfte, aus Italien mitgebracht.<f1>Huldrych Sclappritz ist am 30. November 1545 in Ferrara nachgewiesen; s. Vadian BW VI 476f, Nr. 1433. Vadians Brief an Bullinger, dem die Schrift Theodorets beigelegt wurde, kann also nicht vor Mitte Dezember 1545 verfasst worden sein. Demzufolge wird es sich bei diesem Brief um den bezeugten, aber nicht erhaltenen Brief Vadians handeln, auf den Bullinger in seinem Schreiben vom 27. Dezember (Nr. 2315) anspielt. Doch verdankte damals Bullinger das Geschenk nicht, was möglicherweise hier zu dessen Erwähnung führte. Offensichtlich wurde also die Schrift Theodorets Bullinger nicht gleichzeitig mit Vadians nicht erhaltenen Brief übermittelt. Erst am 5. Januar 1546 sollte Bullinger das Geschenk empfangen und sogleich auch verdanken; s. Vadian BW VI 486f, Nr. 1441.<fe>
+-^#. Nun aber wird berichtet,<f1>Aus dem oben erwähnten Brief Torrentinos.<fe>dass sich derzeit in Rom der Kommentar des Eustathios [von Thessalonike] zum ganzen Homer, ein noch unveröffentlichtes Stück ["Elektra"] des Euripides wie auch weitere Schriften vorzüglicher Autoren, die vor kurzem in der Bibliothek des Vatikans entdeckt wurden, im Druck befinden. Vadian kann nur staunen, dass eine Lasterhöhle [wie Rom] in kritischen Zeiten wie diesen die schönen Künste zu fördern beginnt.
+-^#. Papst [Paul III.] befürwortet das Konzil mehr als je zuvor, aber nur ein solches, das seinen Mist bestätigt und über das er die Kontrolle behält.
+-^#. Vom [Schmalkaldischen Bundestag] in Frankfurt, der noch länger andauern soll, gibt es keine Nachricht.
+-^#. [Johannes] Kessler hat schon [die biographischen Notizen] zu zwölf Äbten [der "Kleinen Chronik"] gelesen. Bis zum kommenden 1. Dezember [richtig: Januar] wird [alles] mit den für Bullinger und [Johannes] Stumpf bestimmten Erläuterungen Vadians nach Zürich gesandt [Vadian BW VI 487-493, Nr. 1442]. Vadian hat bei der Behandlung der verschiedenen Mönche die Ereignisse vom 10. Jahrhundert an so dargelegt, wie dies noch kein anderer Autor, auch kein Mönch, je getan hat. Zudem gab es bis jetzt weder eine lateinische noch eine deutsche Darstellung der sechs letzten Äbte [St. Germains], [Kaspar von Breitenlandenberg, Ulrich Rösch, Gotthard Giel von Glattburg, Franz Geißberg, Kilian Germann und Diethelm Blarer von Wartensee].</re>
+<dra>[Gedruckt: Vadian BW VI 363f, Nr. 1374<f1>In Vadian BW zunächst auf das Jahr 1544, danach (aaO, S. 483) richtig auf 1545 datiert.<fe>.]</dra>
+^&x<tx>S. Inclusas illas, ad Oporinum ferantur, oro, curare certo nuncio Basileam velis.
+Invitus te id genus curis gravo; verum cum non sint ad manum tabelliones, quibus concredam, et sane ipsas intercidere nollem,
+operae precium esse duxi, fatigare te potius vel occupatissimum, quam ulli fide incerta committerer.
+^$Allatus vero mihi est ex Italia<f1>Aus Bologna, siehe dazu: Laurentius Torrentinus an Vadian, Bologna, 10. Dezember 1545 (Vadian BW VI 480f).<fe> per Huldrichum Slaperitium<f1>Sclappritz, Schlappritzi.<fe>, mercatorem nostratem,
+Theodoretus, Cyri episcopus<f1>Theodoret, um 395 bis um 460, von 423 an Bischof von Kyros.<fe>, qui De providentia libros aliquot (recenter excusos Romae<f1><gr>UEODVRHTOY EPISKOPOY KYROY, PERI PRONOIAS LOGOI DEKA.</gr> Thedoreti Episcopi Cyri de Providentia Sermones X, Rom 1545. Herausgeber ist der vatikanische Bibliothekar Nicolaus Maioranus. (s. A. Ganoczy, Académie de Calvin, Catalogue 1572, Genf 1969, 31: Exemplar Genf BGE, Bd 935*).<fe>) scripsit,
+quem tibi dono dare libuit, nimirum theologum theologo et sapienti sapientiam<f1>Auf Bullingers Empfehlung ist Theodorets De providentia von Froschauer 1546 nachgedruckt und von Gwalther ins Lateinische übersetzt worden (RGW 14.2'1-2; BZD C 371f); der zugrunde gelegte Römer Druck wurde und dafür zertrennt und nicht mehr aufbewahrt. Gwalther sandte die Zürcher Drucke am 28. März 1546 an Vadian, der am 31. März dafür dankte (Vadian BW VI 519f und 523; Joachim Vadian, Ausgewählte Briefe, hg. v. Ernst Gerhard Rüsch, St. Germain 1983, S. 94f).<fe>.
+Fertur, Romae iam nunc Eustathium totum in Homerum excudi et Euripidis nondum aeditam usque fabulam
+aliosque nobiles authores, quos Vaticana bibliotheca quibusdam nuper omnia diligentius perquirentibus exhibuit.
+Sed et Latine aiunt quosdam authores satis preciosos excudi, ut mirari equidem ceperim, quonam propitio deo
+isthaec morum et doctrinarum sentina bonarum literarum decori consulere in rerum cardine tam turbulento occeperit.
+Sed habent ubique suos fautores Musae, et in illa principi quondam literarum urbe forte non mirandum,
+si sint, qui bonas ad artes respiciant et avitae humanitati cupiunt esse consultum.
+^$Der bapst<f1>Paul III.<fe> laßt sich widerumb uff syn concilium hin und ist strenger doran, dan vor ie,
+wil es aber uff synem mist halten und darinn herr und meister syn; gath mitt wilden schwencken umb.
+Das wirt die zyt zuͦ erkennen geben.
+^$Von Franckfurt habend wir noch nüntz, und will die sag syn, sy werdind noch inn kurzem
+nitt von einandern kommen. Gott wölle, das man guͦz finde!
+^$Abbates 12 legit Kesslerus, et ad kalendas proximas decembres<f1>Wohl war "ianuarias" gemeint.<fe> isthuc mittentur
+una cum meis meum in scribendo consilium explicantibus, quas et tu et Stumphius<f1>Johannes Stumpf.<fe> noster legant.
+Reclusisse mihi visus sum res nostrates ab annis nongentis, et ita quidem reclusisse, ut nihil ambigam,
+non extare apud ullos, ne monachos quidem ipsos, partem potiorem rerum actarum gestarumve,
+quam illis passim inserui, nec est ab ullo in literas vel Latinas vel vernaculas relata
+sex postremorum abbatum historia, cognitu imprimis digna.
+^$Vale.
+S. Galli, 3. kalendas ianuarias 1545.
+<un>Vadianus tuus.
+<lz>[Adresse als Überschrift:] Pientissimo iuxta et doctissimo viro domino Heinricho Bullingero, clarissimae urbis Tigurinae episcopo, domino suo colendissimo.
+</content>
+</letter>

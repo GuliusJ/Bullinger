@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1489">
+<nr>1489</nr>
+<correspondents>
+	<originator>Die Pfarrer</originator>
+	<originator>Lehrer von Zürich</originator>
+	<addressee>die Pfarrer</addressee>
+	<addressee>Lehrer von Straßburg</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>4. April 1541</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand: Zürich StA, E II 337a, 329r.-v. (ohne Siegel)<f1>Schrift von Hochholzer ähnlich, aber nicht identisch. K: Zürich ZB, Ms S 49, 76; Straßburg BNU, Ms 672 (ThB 13), 33.<fe></vo>
+<re>Der Wunsch der Genfer Kirche, den von ihr vertriebenen Calvin zurückzuholen, ist den Straßburgern bereits [im
+November] durch eine Gesandtschaft aus Genf vorgetragen worden; es ist ihre Pflicht, das Reich Gottes zu fördern, indem sie
+Calvin an die ihm angemessene Wirkungsstätte - an der Grenze zwischen Deutschland und Italien - ziehen lassen, so wie einst
+die Kirche von Antiochien Paulus und Barnabas für die Heidenmission freigab; wenn sie dieser Bitte Folge leisten, ist ihnen Gottes Wohlgefallen und Lob bei den Menschen sicher.
+</re>
+<tx>[Gedruckt: CO XI 183-185, Nr. 293; Regest: Capito, Corr. 268, Nr. 750.]
+^&x Gratiam et pacem a deo patre per dominum nostrum Iesum
+Christum.
+^$De Gebennensi ecclesia, qualis olim fuerit, nostis, fratres
+in domino venerandi et dilecti, qui virum clarissimumd. Ioannem Calvinum ab illa indignissime eiectum suscepistis et
+fovistis humanissime magna cum laude omnium bonorum. Nec
+ignoratis, qualis nunc per domini gratiam affecta sit.
+Honestissimam enim ad vos legationem misit, fidelissimum
+pastorem suum Calvinum revocatum. Dum enim is abest ab
+ecclesia et quasi in exilio agit, dominus ecclesiae illius
+ingratae res sic temperat, ut palam cernere ac sentire
+cogatur, quales nunc meruerit habere pastores et quales olim
+pepulerit. Atque hoc nomine bonitati divinę merito magnas
+agimus gratias, quę oviculas dispersas et sua sponte in
+perniciem proruentes recollegit ac revocavit. Debetis autem ^&x{
+^&x vos inprimis opus illud domini, quod cepit, vestro favore
+prosequi et vestris consiliis, quo absolvatur, iuvare, id
+est, omnibus anniti viribus, ut ecclesiae suus reddatur
+pastor, quem ipsa tot votis tantisque expetit suspiriis,
+quem denique tam honesta legatione repetiit. Suadet hoc
+ipsum vobis iusta illa, qua deo obstricti estis, obedientia. ^&x{
+^&x Nam divinae se opponere vocationi est deo rebellare,
+vocantem sequi, obedire. At Calvinum divina vocatione repeti
+quis negabit? Poscit hoc ipsum a vobis pietas in dominum
+Iesum, cuius regni pomeria haud dubie proferre cupitis.
+Proferetis autem latissime, si Calvinum suae ecclesiae
+restituatis. Novistis Gebennensem ecclesiam in confiniis
+quasi Germanię et Ialiae, Galliae sitam esse, unde vir
+ille praeclarissimis a deo ornatus muneribus aliquot
+regnorum ecclesiis plus prodesse et regnum Christi amplius
+propagare queat, quam si uspiam alias terrarum doceat.
+Flagitat hoc ipsum a vobis ipsa in fratres charitas
+christiana, quę Gebennensibus nedum Calvinum, sed vestras
+ipsorum animas impendere iubet. Urget denique consilia
+vestra exemplum ecclesiae apostolicae, Antiochenę
+videlicet, in qua tametsi utiles adeoque necessarii essent
+Paulus et Barnabas, cum tamen ipsi vocarentur gentibus
+predicatum evangelium, vocationi divinae neutiquam sese
+opponebat, sed cessit benigne, iuvit amplissime abeuntesque ^&x{
+^&x prosequta est charitate et orationibus ardentissimis. Hoc
+ipsum si fide bona et dilectione syncera imitati fueritis,
+fratres colendissimi, gratiam a deo reportabitis, et ab
+hominibus mirifice commendabitur pietas atque humanitas
+vestra. His iungimus iam preces nostras et oramus vos,
+fratres in domino dilectissimi, per nomen domini Iesu, ne
+periclitanti desitis ecclesiae. Oramus per charitatem domini ^&x{
+^&x Iesu, ut pastorem suae reddatis ecclesiae. Soli vos, si
+vultis, potestis illam servare ecclesiam. Si vero vel
+negaveritis vel non strenue Calvinum urseritis, miseram in
+summum discrimen coniicietis. Speramus autem plurimum apud
+vos valituras primum quidem tot sanctorum Calvinum
+repetentium querelas, deinde vero et nostras preces, qui
+amamus et colimus vos in domino syncere, qui denique in
+Argentinensis ecclesiae fratrumque gratiam alacri mente
+quidvis, si ita res postulet, obiremus. Concedite, quesumus,
+Calvinum ecclesiae suae. Amate nos, vivite ac valete in
+domino nostro Iesu Christo, fratres in domino venerandi et
+charissimi.
+^$Tiguri, 4. aprilis 1541.
+<un>Pastores et doctores ministri ecclesiae
+<un>Tigurinae vestri. ^&x{
+^&x <lz>[Adresse .....:] Fidelissimis doctissimisque
+pastoribus et doctoribus Argentinensis ecclesiae ministris,
+fratribus in domino venerandis et dilectis. ^&x{
+</content>
+</letter>

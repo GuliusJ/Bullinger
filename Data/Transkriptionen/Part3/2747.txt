@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2747">
+<brief>
+<id>17016</id>
+<nr>2747</nr> <from persid="KilchmeyerJodocus"/> <from persid="PfisterNikolaus"/> <from persid="RümlangEberhardVon"/> <from persid="WäberJohannes"/> <to persid="Bullinger"/> <to persid="BiblianderTheodor"/> <to persid="GwaltherRudolf"/> <to persid="PellikanKonrad"/> <place plid="Bern"/> <date when="1547-01-11"/>
+<ae>Jodocus Kilchmeyer, Nikolaus Pfister, Eberhard von Rümlang und Johannes Wäber an Bullinger, <br/>Theodor Bibliander, Rudolf Gwalther <br/>und Konrad Pellikan</ae>
+<od>Bern, 11. Januar 1547</od>
+<vo>Original: Zürich StA, E II 360, 415 (Siegelspur)</vo>
+<dr>Druck: <a>CO</a> XII 466-468, Nr. 873<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 22 </k></dr>
+<re><t>Gruß. Die Absender Eberhard von Rümlang, Nikolaus Pfister, Johannes Wäber und Jodocus Kilchmeyer haben einen zwingenden Grund für diesen an Bullinger, Theodor Bibliander, Rudolf Gwalther und Konrad Pellikan gerichteten Brief.</t>
+<t>Zwischen Peter [Schnyder] aus Aarburg und zwei Zofinger Pfarrern [Johannes Ulrich Göppel und Benedikt Schürmeister] brach ein Streit über die Amtsgewalt eines Pfarrers und über die Abendmahlsfrage aus. Es kam sogar in aller Öffentlichkeit auf einem Platz in Zofingen zu einem heftigen Wortgefecht. Manche Leute fanden das lustig, andere aber regten sich darüber auf.</t>
+<t>[Schnyder] hielt sich in diesem Streit ziemlich zurück und wurde deshalb von den Ratsherren nicht bestraft. Er bezog jedoch dabei keine eindeutige Position in der Abendmahlsfrage. Manchmal sagte er, dass Christus im Abendmahl anwesend sei, dann wieder das Gegenteil. Damit fand er zwar die Zustimmung seiner Gegner, tat aber dabei [der Lehre] der Kirche nicht Genüge. Er legte nicht klar dar, dass Christus im Abendmahl mit seiner göttlichen Majestät anwesend, mit dem [bei seiner Menschwerdung] angenommenen Leib aber abwesend ist. In seinen Predigten allerdings trägt er dies richtig vor, was sich aus der Beobachtung ableiten lässt, dass man ihn in Aarburg schätzt und dort Ruhe herrscht.</t>
+<t>Die beiden Zofinger hingegen wurden für ihr aggressives Verhalten nach öffentlichem Recht bestraft. Sie stiften mit ihren Predigten Verwirrung. Zudem haben sie einige Kirchgänger vom Abendmahl suspendiert, andere [durch ihr Verhalten] davon abgehalten. Sie haben auch über die Amtsgewalt des Pfarrers viel zu viel geschwatzt und dadurch Verdacht bei ihren Kirchgängern hervorgerufen. Nur ungern gaben sie zu, dass die Amtsgewalt weder vom Pfarrer noch von dessen Amt, sondern von Gott abhängt. Außerdem ist wegen ihrer undeutlichen Abendmahlslehre zu vermuten, dass sie eher Lutheraner als Christen sind. Ihre weitschweifigen Erklärungen der Wörter "wahrhaft" und "geistlich" lassen den gleichen Schluss zu.</t>
+<t>Nun hat vor kurzem der Vogt von Aarburg [Vincenz Pfister] die ganze Angelegenheit dem Berner Rat anvertraut. Dieser soll sie sorgfältig überprüfen und den Streit definitiv beenden.</t>
+<t>Vom Rat wurde die Sache an Rümlang, Pfister, Wäber und Kilchmeyer übertragen, ohne dabei [Simon] Sulzer und Beat [Gering] einzubeziehen. Da die Angelegenheit heikel ist und Gefahr besteht, dass dadurch nur noch weitere Konflikte entstehen könnten, bitten die vier Berner, dass die vier Zürcher ihnen im Interesse der Kirche zu Hilfe kommen und ihnen ihre von Gott erhaltenen Gaben zur endgültigen Beilegung des Streites und Durchsetzung der Wahrheit zur Verfügung stellen.</t>
+<t>Dabei sind Eile und größte Verschwiegenheit geboten, denn die Inanspruchnahme fremder Hilfe könnte in Bern Anstoß erregen! Die Zürcher sollen also darauf achten, dass der Bote [...] nichts von der Sache mitbekommt. Sollte man diese Angelegenheit auf gute und definitive Weise regeln können, werden sich dann wohl auch die anderen Probleme Berns erübrigen. Gott sei Dank setzt sich die Wahrheit immer mehr durch.</t>
+<t>Gruß. Im Interesse des gemeinsamen Dienstes an Christus werden die Berner bestimmt auf die Hilfe der Zürcher zählen können. Beiliegend ein über die Streitangelegenheit angefertigtes, klares Dokument, damit anhand dessen zutreffender und rascher argumentiert werden kann. Die übrigen beigelegten Briefe soll Bullinger den jeweiligen Adressaten zukommen lassen.</t></re>
+<text>
+<div>
+<p>Salutem et pacem. Magna necessitate compulsi d. Eberhardus a Rumlang, Nicolaus Artopeus
+<fn>Nikolaus Pfister.</fn>, Ioannes Textorius
+<fn>Johannes Wäber.</fn> et ego
+<fa><i>Die am Rande nachgetragenen Wörter</i> et ego <i>(auf die im Text durch Einfügezeichen verwiesen wird) sind heute im engen Einband verdeckt. Unsere Ergänzung erfolgt aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 63, 22).</i></fa> ad te, Bibliandrum, Rudolphum Gwaltherum, Pellicanum, quatuor ad quatuor, scribimus. Et ne prolixioribus verbis a solitis studiis utrinque suspendamur, caput illud esto.</p>
+</div>
+<div>
+<p>Oborta est inter d. Petrum Arburgensem
+<fn>Gemeint ist Peter Schnyder (Sartorius), der von 1542 bis 1545 in Zofingen als Pfarrer amtiert hatte, im März 1545 nach Aarburg versetzt wurde und zwinglisch ausgerichtet war; s. <a>HBBW</a> II 83, Anm. 2; VII 35, Anm. 1. Die Behauptung von Rudolf <i>Weber,</i> Zofingens Prädikanten, Zofingen 1977 (Separatdruck aus Zofingen Njbl. 62, 1977), S. 13, laut der Schnyder zur "lutherischen Lehre ... neigte", ist völlig falsch. Schnyders Briefe an Bullinger aus den Jahren 1537 und 1538 und Hans-Rudolf <i>Lavater,</i> Johannes Goeppel, Prädikant zu Rohrbach 1527-1545 und zu Zofingen 1545-1548, in: Jb. des Oberaargaus 21, 1978, 161, erlauben diese Berichtigung.</fn> ac duos Zoffingensis ecclesiae episcopos
+<fn>Johannes (Ulrich) Göppel und Benedikt Schürmeister, die seit Ende Februar bzw. Ende April 1545 in Zofingen wirkten. Spätestens am 21. September 1545 brach der Streit über das Abendmahl zwischen der Gemeinde und den Pfarrern wieder aus. Göppel und sein Kollege Schürmeister unterschrieben zwar beide am 5. Januar 1547 die "Zehn Schlußreden" der Berner Disputation (s. Bern StA, B III 21, S. 22, Nr. 140, bzw. S. 24, Nr. 149), weil sie dazu von den Berner Behörden aufgefordert wurden (s. <a>HBBW</a> XVIII 369, Anm. 3), äußerten sich aber gegen diesen neu aufgelegten Zwang und hielten weiterhin an ihren lutherischen Auffassungen fest. Sie wurden beide am 17. Januar 1548 vom Berner Rat aus ihrem Amt entlassen; s. <i>Lavater,</i> aaO, S. 161-168. Schürmeister kam als Helfer nach Brugg, wo er spätestens vom 18. August (vielleicht aber auch schon vom 22. Februar) 1548 bis spätestens zum 11. März 1549 wirkte; s. <a>Pf-Aargau</a> 7, Nr. 313f. Über Göppels weiteres Schicksal ist nichts bekannt; s. <i>Lavater,</i> aaO, S. 170.</fn> acris qu{e}dam contencio de ministerio ecclesi{e} atque eucharisti{e} negotio.
+<fn>Der spätestens im September 1545 ausgebrochene Streit flammte Ende 1546 wieder auf, als Göppel und Schürmeister ein eigenes Bekenntnis erstellten. Anstoß erregte ihre Ansicht, dass die versammelte Synode der Pfarrer und nicht der Magistrat das letzte Wort in Glaubenssachen hat, sowie ihre Überzeugung, dass Gott im Abendmahl den Teilnehmenden seine Gnade vermittelt; s. <i>Lavater,</i> aaO, S. 165f, und <qv>nr2756</qv>.</fn> Qu{e} ita pedetentim progressa atque aucta, ut palam tandem eruperit. Pugnantes enim in platea oppidi Zofingensis, duo adversus unum Petrum, quibusdam risum, quibusdam vero pro animorum diversitate, ut solet fieri, bilem
+<fa><i>Über gestrichenem</i> contencionem.</fa> moverunt.</p>
+</div>
+<div>
+<p>Petrus pugnando longe modestior est repertus. Evasit enim ill{e}sus, neque in aliquo ab oppidi Zoffingensis moderatoribus velut reus pugn{e}
+<fa><i>Das am Rande nachgetragene Wort</i> pugn{e} <i>(auf das im Text durch Einfügezeichen verwiesen wird) ist heute im engen Einband verdeckt. Unsere Ergänzung erfolgt aus der gleichen Abschrift wie in oben Anm. a.</i></fa> mulctatus est. Adhoc in eucharisti{e} causa sic egit ac docuit, ut nunc dixerit Christum in c{e}na presentem, nunc vero minime. In quo calumniatoribus suis recte quidem sensisse, at parum ecclesi{e} satisfecisse videtur, propterea quod mentem suam non liquido exposuerit. Pr{e}sentem quidem maiestate divina, absentem vero corpore assumpto. Quam tamen differenciam in aliis suis sermonibus luculenter adposuisse abunde satis testantur tum ecclesi{e} Arburgensis syncera in pastorem dilectio cumque mutua ecclesi{e} tranquillitas sanctaque concordia.</p>
+</div>
+<div>
+<p>Contra vero Zoffingenses sic certarunt, ut ab oppidanis iure publico sint puniti, suisque concionibus ecclesiam non parum turbantes quosdam
+<fn>Darunter die Zofinger Bürger Maritz Lüscher und Clewi (Claus, Niklaus) Huber (H{uo}ber); s. <i>Lavater,</i> aaO, S. 164. 167.</fn> a sacr{e} mens{e} participatione suspenderint ac p{e}nitus dimmoverint. <zzl>zl17016-1A</zzl>Nam de ministerio ecclesi{e} plura, imo nimia effutientes (sero, frigide ac tarde sic concluserunt, fructum dei non ministri esse neque ministerii)
+<fa><i>Hier und unten Klammern ergänzt.</i></fa>, ut se de ambiendo dominio non tam apud nos quam suos parrochianos suspectos fecerint.<zzl>zl17016-1E</zzl> Pr{e}terea in negotio eucharisti{e} adeo obscure atque ambigue docent, ut plures extent, qui magis esse Lutheranos intelligant quam christianos. Voculam "warlich" multis exponunt, pariter et "geystlich", cuius expositionis certe minime indigerent, nisi nebulas offundere clamque Lutherum introducere niterentur.</p>
+</div>
+<div>
+<p>Sed quid factum nunc tibi expando. Novissime omne negotium per proconsulem Arburgensem
+<fn>Vincenz Pfister, Vogt von Aarburg; s. <a>LL</a> I 327.</fn> ad magnificum Bernensium magistratum delatum est, ut illic rebus pro utraque parte diligenter discussis et examinatis certamini aliquando summa manus imponeretur.</p>
+</div>
+<div>
+<p>Magistratus vero universum negocium ad d. Eberhardum, Nicolaum, Textorium et me exclusis Sulzero ac Beato illo nostro
+<fn>Beat Gering, der früher in Zürich gewirkt hatte, ehe er von dort 1538 ausgewiesen wurde.</fn> transtulit. Quod, quum nobis satis arduum visum est (posseque facile non tam finiri quam novis forte contencionibus et sutelis ansam pr{e}bere), constituimus inter nos et huius caus{e} laborumque te, Bibliandrum, Rudolfum, Pellicanum, in domino confratres nostros, participes facere, per misericordiam dei ac domini nostri Iesu Christi sanguinem ecclesi{e}que salutem obsecrantes, ut nervos nobiscum extendatis rem ita componere, ut veritas ab omnibus strenue vindicata appareat, sicque vicisse, ut in posterum ardor talia audendi in aliis extinguatur. Et si nostra sententia vel declaratio universis christianis sit manifestanda, tum huius oporteat nos neque pudere neque p{e}nitere. De quo minime dubitamus, si quaquam
+<fn>= quaqua, wohin man will; s. <a>Kirsch</a> s.v.</fn> talenta vestra a domino accepta in foenus domini et ecclesi{e} dei salutem nobiscum conferre dignaremini.</p>
+</div>
+<div>
+<p>In negotio isto properandum est, et omnia summo silencio peragenda. Ignoramus enim, ne gratum fuerit, quod nobis amandatum externo auxilio perficere. Estque a vobis tabellio
+<fn>Unbekannt.</fn> sic excipiendum et relegandum, ne quicquam horum, qu{e} modo inter nos versantur, intelligat. Speramus, fratres, hoc negocio viriliter et semel pro dignitate composito reliqua, quibus ecclesiae apud nos impetuntur, facilime in ordinem redingenda. Veritas enim subinde magis sese porrigit et vindicat. Laus sit deo!</p>
+</div>
+<div>
+<p>Valete in domino semper, qui
+<fn>Gemeint sind die Zürcher Pfarrer.</fn>, ut nos in communem usum ministros posuit
+<fn>Subjekt ist der Herr.</fn> ecclesi{e} su{e} sanct{e}, ita et pro gloria domini et salute ecclesiarum eius nobiscum, qui Bern{e} pugnamus, arma vestra adponere haud gravemini. Iterum valete. Materiam contentionis distinximus in certa capita,
+<fn>Unbekannte Beilage.</fn> quo brevius ac luculencius appareat, quid et quomodo ad unumquodque commodum responderi possit et debeat. Reliquas literas tuis annexas
+<fn>Unbekannte Briefe Kilchmeyers an Zürcher Bekannte.</fn> tuum erit expendere et unicuique, quod suum est, reddere.</p>
+<p>Datum Bernae, 11. ianuarii anno 1547.</p>
+<un>I. K., tuus</un>
+<un>ad aras usque.
+<fn>Vgl. <a>Adagia</a>, 3, 2, 10 (<a>ASD</a> II/5 112, Nr. 2110): "usque ad aras amicus". Das Sprichwort hat den Sinn "ich bin mit dir, soweit Gottes Ansprüche dadurch nicht verletzt werden". - In den alten Religionen hatte der Altar die Funktion einer Asylstätte. Er setzte also den menschlichen Rechtsansprüchen eine Grenze.</fn></un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Minem lieben erwirdigen heren und br{uo}der m. Heinrich Bullinger. Zurich.</p>
+</div>
+</text>
+</brief>

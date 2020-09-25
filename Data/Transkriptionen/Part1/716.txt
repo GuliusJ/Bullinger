@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="716">
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Konstanz*)</place>
+	<date>7. Januar 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 346, 48 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Befürwortet die baldige Entsendung einer Gesandtschaft an Luther.
+Dieser hat sich gegenüber den Strassburgern für einen Konvent auch ohne
+Unterstützung durch Fürsten und Städte ausgesprochen, doch würde damit
+der evangelischen Sache geschadet. Die Strassburger drängen auf die
+Teilnahme (*der Zürcher*). Schickt Nachricht über einen in
+Meersburg gefangenen Bruder und bittet, diesem zu helfen.
+</statue>
+<content>
+Salus.
+<p>Magis atque magis arridet nobis consilium de mittendis legatis a vobis ad Lutherum+1, neque iam aliud volumus, quam ut maturetis hanc rem; vigilant enim alii atque urgent conventum.</p>
+<p>Lutherus visus est Argentoratensibus conventum in principum et magistratuum arbitrium+a reiicere, sed persuasus est venire et adesse, etiam si nolint civitates et principes manum addere auxiliatricem+2. Nos vero non dubitamus, quin+b
+maximam invidiam simus conflaturi rei evangelicae, si conemur vel
+invitis vel insciis potestatibus convenire. O quam strenue orandus est
+dominus, ne nobis ipsis nos sinat! Iterum atque iterum urgent
+Argentoratenses, ne fugiatis congressum.</p>
+<p>Vale, mi frater+c, cum omnibus fratribus.</p>
+<p>Datum raptim 7. ianuarii 1536.</p>
+<p>Hic mitto+d negotium boni illius fratris, qui iam biennio fere carceri inclusus est Merspurgi+3, nec dubita, quin ita sese res habeat. Si quicquam excogitare potes in consolationem captivi, fac, ut+e tuam
+diligentiam experiatur.</p>
+<p>Vale cum tota domo.</p>
+<signature>
+Tuus Io. Zvick.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Hainricho Bullingero,
+Tigurinae eclesiae ecclesiastae, fratri charissimo.
+</address>
+</content>
+<note>
+.us; +a >vor  arbitrium  gestrichenes  conven aut.
+<print>
++b>in der Vorlage  quim.
++c>nach  frater  gestrichenes  raptim.
++d>Hic mitto  am Rande nachgetragen.
++e>vor  ut  gestrichenes  c.
+</print>
+<address>
++1>Vgl. unten Nr. 731, 64-67.
++2>Zwick bezieht sich auf Luthers Brief an die Strassburger
+Geistlichen vom 27.
+November 1535 (s. oben Nr. 713, Anm. 9).
++3>Vgl. HBBW V, S. 223, 32f mit Anm. 16.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

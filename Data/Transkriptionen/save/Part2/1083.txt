@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1083">
+<nr>1083</nr>
+<correspondents>
+	<originator>Johannes Rhellikan</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>22. Dezember 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 458a r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Am Vortag haben die beiden Räte nach langer Diskussion über den Brief der Zürcher Pfarrer [Nr. 1073] beschlossen,
+den abgeänderten Katechismus zu publizieren und die Pfarrer, die ihn nicht annehmen wollen, zu entlassen; während
+[Meyer und Kunz] den von Schultheiß von Wattenwyl mitgeteilten Beschluß bereitwillig akzeptierten, baten [Megander
+und Ritter] um Bedenkzeit. Diese beiden werden von der Mehrheit des Großen Rates derart angefeindet, daß nur noch
+eine Gesandtschaft von Zürich und St. Germain in der Lage wäre, Bern zum Abwarten der Antwort Luthers zu bewegen; höchste
+Eile ist geboten. Verweist im übrigen auf die Briefe von Megander [Nr. 1082] und Erasmus [Ritter, Nr. 1081] und erkundigt sich, ob Bibliander die
+ihm zugeschickten Schriften erhalten hat; bittet, ihm eine Anstellung zu verschaffen, da er mit seiner baldigen Entlassung rechnet.
+</re>
+<tx>Salus et pacata conscientia per Christum Iesum.
+^$Pridie quam haec scriberem, doctissime Bullingere, senatus populusque Bernensis propter aucti et immutati catechismi
+aeditionem coactus est<f1>Zu den Verhandlungen des Großen und Kleinen Rates über den
+Katechismus vgl. Ritters Bericht vom Vortag, oben Nr. 1081, 79-83; ^#/+Straßer^#/- 148.<fe>. In quo cum et communes vestrae literae ad nos communes huius ecclesiae
+ministros<f1>Oben Nr. 1073.<fe> diligentissime a Cyrone, huius urbis a secretis<f1>Stadtschreiber Peter Cyro.<fe>, recitatae
+essent, diu et multum perpensae, tandem sic uterque senatus decrevit: Praedictum catechismum omnino publicandum ac typis
+statim excudendum. Quod si qui autem<fx>autem ^#/+über der Zeile nachgetragen.^#/-<fe> ex verbi ministris <gr>o^%(/ytvw kathxeĩn toỳw kathxoyménoyw oy̆ uélvsi,</gr>
+illis iam copiam discedendi amicam esse factam. Quod decretum ubi praetor Vadivillius<f1>Schultheiß Hans Jakob von Wattenwyl.<fe> eodem die sub vesperam ecclesiastis in
+templum convocatis enarrasset, duo ex eis<f1>Sebastian Meyer und Peter Kunz.<fe>illud obviis amplexi sunt manibus; alii vero<f1>Kaspar Megander und Erasmus Ritter.<fe> (quos facile
+agnoscis) petito deliberandi cum doctis spacio polliciti sunt se brevi daturos senatui responsum.
+^$Unde, mi Bullingere, facile deprehendis nostram ecclesiam a vestra semiavulsam et, ni in tempore
+succuratur, penitus avellendam. Certe, quod ad Megandrum et Erasmum nostrum pertinet, et hactenus et nunc rerum suarum
+sategerunt uterque; sed nescio quo fato et quibus machinis uterque plaerisque
+<gr>diakosíoiw</gr><f1>Angehörige des Rates der Zweihundert.<fe> adeo exosus sit factus, ut cum clarissima etiam ve­ritate
+explodantur omniaque non veritatis retinendae, sed contentionis studio facere dicantur. Proinde tibi cum tuis symmystis
+dispiciendum esse putarim, quonam remedio tantae lui medendum sit. Mihi profecto dubium non est, quin, si ex vobis et Sangallensibus aliqui legati huc venirent vestramque sententiam et controversiam,
+quae etiamnum in eucharistiae negotio est, exponeretis, vestram respiciendo authoritatem nihil privatim novaturi essent Bernenses<fx>Bernenses ^#/+am Rande nachgetragen.^#/-<fe>, donec commune a Luthero super concordia absolvenda responsum
+acceperimus. Haec mea cum fratribus aliis sententia est. Interim tamen nihil nec tibi nec aliis praescriptum volo; scio enim vos (quae vestra tum eruditio tum prudentia est) aliquid melius invenire
+posse. Quidquid autem excogitaveritis et provideritis, rogo, oro, obsecro et per christianam charitatem obtestor, ut quam
+ocyssime periclitanti ecclesiae nostrae plus quam credi possit, suppetias feratis.
+^$Pluribus hac de re tecum agerem, ni scirem super eadem cum a Megandro tum Erasmo copiosius scribi<f1>Siehe oben Nr. 1081f.<fe>.
+Haec autem<fx>autem ^#/+über der Zeile nachgetragen.^#/-<fe> qualiacunque Theodoro<f1>Theodor Bibliander.<fe> nostro communices velim. Cui et hoc dicas, me per Huiufium
+tornatorem<f1>Ritter bezeichnet Huiuff als Krämer; s. oben Nr. 1081, 17.<fe> literas<f1>Nicht erhalten.<fe> ad ipsum
+dedisse, quibus non<fx>^#/+vor ^#/-non ^#/+gestrichenes ^#/-et.<fe> solum ipsius scripta ad me transmissa<f1>Vgl. oben Nr. 1074,
+140f.<fe>, ve­rumetiam catechismum a Capitone et Bucero emendatum et auctum adiunxi. Quae omnia ei nondum reddita
+fuisse, dum Hagerus<f1>Hans Hager.<fe> ad nos proficiscebatur, et tuum et illius silentium arguit; scripseram enim <vl>458a
+v.</vl> Bibliandro, ut correctum catechismum tecum conferret. De quibus omnibus per Theodorum certior fieri cuperem,
+quem et una cum <gr>synergoĩw soy</gr> plurimum salvere iubeto. Et facite simul omnes, praecipue autem tu, mi patrone,
+ut Rhellicano <gr>^%)/hdh mèn pálai ăposynagv́g^v gegonóti</gr><f1>Vgl. Joh 16, 2.<fe>, statim vero penitus
+relegando, de provincia aliqua apud vos prospiciatis, si modo aliquis mei apud vos usus esse potest. Quod si nihil spei isthic
+mihi foret, velim id quoque mihi notum fieri, quo<fx>^#/+vor ^#/-quo ^#/+gestrichenes^#/- cert.<fe> alibi fortassis mihi
+prospicere queam, imo dominum rogare possem, ut, quemadmodum me huc per Zvinglium, felicis recordationis virum, l[ega]vit<fx>^#/+Rand beschädigt.^#/-<fe>, ita
+seu per te seu per alios alio leger. Nihil nanque m[ihi]<fx>^#/+Rand beschädigt.^#/-<fe> certius est, quam quod
+rebus se ad hunc modum heic habentibus et permanentibus brevi<fx>^#/+vor ^#/-brevi ^#/+gestrichenes ^#/-quam quod.<fe> propter posthabitum Buceranismum ab offitio movendus sim.
+^$Vale.
+^$Ex Berna supra modum perturbata, 22. decembris anno 1537.<un>Ioan. Rhellicanus.
+<lz>[Adresse darunter:] Vigilantissimo christiani gregis apud Tigurinos pastori,d. Heinrycho Bullingero, amico et patrono
+s[u]o observan[dis]simo<fx>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe>.
+</content>
+</letter>

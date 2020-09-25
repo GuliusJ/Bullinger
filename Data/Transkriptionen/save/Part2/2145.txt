@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2145">
+<nr>2145</nr>
+<correspondents>
+	<originator>Hermann Aquilomontanus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Oldersum</place>
+	<date>25. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1414 (Siegelabdruck)</vo>
+<dr>Übersetzung: ^#/+Krömer,^#/- Aquilomontanus 62f</dr>
+^&xKopien 18. und 20. Jh: Zürich ZB, Ms S 57, 73; Emden BGK, Hs. fol. 37, Nr. 7 (mit Übers.) (Xk da)^&x{
+<re>Aquilomontanus dankt für Bullingers Brief [nicht erhalten] mit der Beschreibung des Zürcher Kirchen- und Schulwesens. Er freut sich über die von vielen erwartete [Neu]ausgabe von Zwinglis Werken. Bullinger soll seinerseits mit der gleichen arglosen Gesinnung an seinen Bibelkommentaren weiterarbeiten; die Kirche ist bereits mehr als genug geplagt.
+-^#. Aquilomontanus hat gehört, dass die Zürcher wieder eine Schrift gegen die fleischliche Gegenwart Christi im Abendmahl planen. Dabei dürfen sie sich keinesfalls von ihren Affekten hinreißen lassen. Insbesondere sollte Bullinger den jungen und temperamentvollen Pfarrer Gwalther an St. Peter, der mit [Regula] Zwingli verheiratet ist und dem Aquilomontanus ebenfalls geschrieben hat, in Schranken halten. Man soll nicht nach dem Sieg, sondern nach der in Geduld anzustrebenden Wahrheit streben.
+-^#. Aquilomontanus bemüht sich weiterhin, ein guter Katechet und Pfarrer zu sein. Daher wäre er daran interessiert, über [Johannes] a Lasco die Veröffentlichungen des dank Bullingers Predigttätigkeit hervorragend ausgebildeten Zürcher Katecheten [Otto Werdmüller] zu erhalten.
+-^#. Wenn nur alle allein die Einheit anstreben würden und keiner darauf bedacht wäre, klüger als der andere zu sein! Jetzt, wo alle Christus feindlich gesinnten Mächte zusammenrücken, sollten [die Gläubigen] umso mehr zusammenhalten, wie dies Calvin im Vorwort seines Katechismus trefflich hervorgehoben hat.
+-^#. Aquilomontanus wird Bullinger nicht untreu, auch wenn dieser ihn [wegen dieses Briefs] verachten sollte.</re>
+<tx>Salutem et spiritus incrementum.
+^$Gratum tibi de literis prolixioribus, quibus ecclesie vestre modum et scole formam
+prolixe perscribis.<f1>Nicht erhaltener Brief Bullingers, der kurz vor dem 28. August 1544 geschrieben wurde; s. HBBW XIV 340, 24-27 und Anm. 16.<fe> Affectum tuum erga me et viscera mea, si facultas adfuerit, exosculor.
+Insuper gaudeo de operum Zwinglii publicatione<f1>Siehe oben Nr. 2069, Anm. 30.<fe>, que a pluribus desiderantur
+neque minimum utilitatis ecclesie dei ex illis speratur. Perge, queso, in evangeliorum enarratione<f1>Bullinger arbeitete damals an einem Kommentar zum Markusevangelium; s. oben Nr. 2091, Anm. 9. - Zu Bullingers damals bereits erschienenen Bibelkommentaren s. oben Nr. 2070, Anm. 4.<fe>
+et candoris tui hucusque servati ne obliviscaris. Plus satis calamitatum in ecclesia dei;
+sed hec futura praedixit dominus.<f1>Mt 24, 21 par.<fe> Ideo forti animo orantes in humilitate ferenda.
+^$Accepi vos isthic adversus carnalem praesentiam in cena rursum quedam moliri.<f1>Wohl von Albert Hardenberg, der 1544 in Zürich auf Besuch war (s. HBBW XIV 368, Anm. 1; 383f; 414, 68f; 425, Nr. 1996) und während seines Besuchs in Ostfriesland im Winter 1544/45 Aquilomontanus begegnet war (s. oben Nr. 2119, 6; 2120, 102-104). Hardenberg wird wohl auch bei Aquilomontanus die vorliegende Ermahnung bewirkt haben (s. nämlich Hardenbergs Zurückhaltung gegenüber der geplanten Zürcher Antwort oben Nr. 2119, 11-14 und Anm. 11).<fe>
+Precor per Christum servatorem, ne caro hic consilium det aut a consiliis sit;
+quod maxime in Rodolpho, apud divum Petrum pastore,<f1>Rudolf Gwalther, seit 1542 Pfarrer an St. Peter.<fe> vereor, cum filiam Zwinglii<f1>Regula Zwingli, Gwalthers Ehefrau seit dem 3. August 1541; s. HBBW XI 291. 314, Anm. 4.<fe> uxorem habeat
+et fervor ille in homine iuvene ac florenti<f1>Gwalther war damals 26 Jahre alt.<fe> nondum sedatus, cum omnia Zvinglio intentata in se receperit.
+Cura itaque, absque tua moderatione ac lima nil emittat. Non victoria, sed veritas patientia nobis spectanda.
+Nullus enim, ut nostrate lingua fertur, in propria causa sapit.<f1>^#/+Wander^#/- V 128, Nr. 56.<fe>
+Hec ad te, virorum ornatissime, christiana libertate, a quo in seriis semper monitionem desidero.
+Scripsi homini,<f1>Der Brief an Gwalther ist nicht erhalten.<fe> ut amicitiam cum ho­mine docto et ferventi contraham; tuum est, meam simplicitatem et triviale scriptum boni consulat.
+^$Ego quidem ago, que egi hucusque, et ad iuventutem ac scolam me sepius declino,
+ut catechista esse incipiam et pastorale offitium minime negligam.
+Audio istic tua predicatione esse virum doctum et pium, qui istic catechista iuventuti datus sit;<f1>Otto Werdmüller; s. HBBW XIV 613, Anm. 1. - Auch Bullinger bezeichnet Werdmüller in seinem Brief an Melanchthon von 22. Juni 1544 (HBBW XIV, Nr. 1931) als "ecclesiae nostrae catechista"; s. Bindseil 199.<fe>
+hic magna dexteritate et perspicuitate. Si quid in hunc usum incusum fuerit,<f1>Am selben Tag äußerte Aquilomontanus die gleiche Bitte an den damals in Zürich studierenden Gerhard thom Camph; s. HBBW XIV 613, Anm. 1. - Ende 1544 war Werdmüllers Schrift De dignitate, usu et methodo, quam Aristoteles ad Nicomachum filium conscripsit, libri duo in Basel erschienen; s. HBBW XIV, Nr. 2058.<fe> velimd. a Lasco, viro magnifico et vere episcopo, transmittas.
+^$Utinam omnes ad unitatem conspirarent<f1>Vgl. Eph 4, 3.<fe> et quisque alteri manus preberet adiutrices nec quisque sibi rabbi nomen peteret!<f1>Vgl. Mt 23, 8.<fe>
+Videmus nunc omnes ordines ante Christum natum hoc seculo fatali odio divisos, nunc ad Christum impetendum in densum cuneum sese agglomerasse. Si in principe odiorum, factionum et dissidiorum<f1>Der Teufel.<fe> ea est consensio, quanto nos pressius animos et copias coniungere decet, qui pro rege pacis<f1>Christus; s. Hebr 7, 2f.<fe> adversus eum confligimus!
+Hac de re latius Calvinum in prologo Catecheseos legas, quaeso.<f1>Jean ^#/+Calvin,^#/- Catechismus sive christianae religionis institutio, Basel, Robert Winter, 1538 (Bibliotheca Calviniana I, Nr. 38/1), in der Widmungsepistel: "Tametsi enim belua est tot capitum [vgl. Apk 12, 3; 13.1], videmus tamen, ut ad impetendum Christi regnum [vgl. Apk 19, 19; 20, 8f] in densum cuneum se agglomeret. Si in principe odiorum, factionum, dissidiorum ea est consensio, quanto nos pressius animos et copias coniungere decet, qui pro rege pacis adversus eum confligimus!" (CO V 321; CO-R, Epist. I 288).<fe>
+^$Vale, optime Bullingere, et nostram infantiam<f1>Mangel an Beredsamkeit.<fe> boni consule. Non te deseram, cum me semel receperis,
+etiam si me contemseris. Etiam vale et ora, nobis dominus adsit, cum nunc in tot calamitatibus summe necessarium.
+^$E cubiculo nostro, 25. aprilis anno 1545.
+<un>Tuus Hermannus Aquilomontanus, ecclesie
+<un>Domus Senum<f1>Oldersum.<fe> minister
+<un>apud Emdam, caput Phrisie Orientis.
+<lz>[Adresse auf der Rückseite:] Pietate, eruditione ac vigilantia clarod. Henrico Bullingero, ecclesie Tigurine pastori, amico singulari.<f1>Dieser Brief wurde von Gerhard Westerburg in Zürich ausgehändigt; s. unten Nr. 2222 und Anm. 9.<fe>
+</content>
+</letter>

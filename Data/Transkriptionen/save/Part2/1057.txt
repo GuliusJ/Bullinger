@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1057">
+<nr>1057</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>16. Oktober 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 5 (Siegelspur) </vo>
+<dr></dr>
+<re>Konnte nicht gleich antworten, als er am 9. Oktober Bullingers Brief zusammen mit den Akten der Berner [Sondersynode] erhielt; wundert sich sehr über die Wankelmütigkeit der Menschen. Ist froh, daß sich Bullinger [Johannes] Pontisellas annimmt; wird diesem nach der Weinlese eine Lukian-Ausgabe
+und etwas Geld zukommen lassen. Ein türkischer Angriff auf Korfu ist fehlgeschlagen. Grüße an Leo [Jud] und [Konrad] Pellikan.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 10f, Nr. 9.]
+</content>
+</letter>

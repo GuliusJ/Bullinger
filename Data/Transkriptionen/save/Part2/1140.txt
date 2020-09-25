@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1140">
+<nr>1140</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>24. Juni 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 11 (Siegelspur)</vo>
+<dr></dr>
+<re>Erhofft sich einen Brief von Bullinger. In Chur plant man, die Klöster in Schulen umzuwandeln; Rudolf [von Salis?] kann mehr erzählen. Das Konzil in Vicenza ist möglicherweise nicht zustande gekommen. Papst Paul III. hat beim Vermitteln zwischen [Kaiser Karl V. und König Franz I.] ^&x s. Brandi I
+333 ^&x{
+in Nizza nichts erreicht. Megander berichtete Comander und seinen Amtsbrüdern über die Tagung [der evangelischen Schweizer Städte] in Zürich; sie wünschen sich Frieden zwischen den Kirchen, aber ohne Preisgabe der Wahrheit, und bitten, auf dem laufenden gehalten zu werden. Grüße. </re>
+<tx>[Gedruckt: Graubünden, Korr. I 12f, Nr. 11.]
+^&x<tx>Gratiam, pacem ac vitae innocentiam a domino per
+Christum.
+^$Tam idoneum nactus tabellarium continere non potui, quin ad
+te literas darem, doctissime Bullingere. Hoc argumento usus
+potissimum, ut literas a te reposcerem; meas quidem adeo
+aridas ac ieiunas nihili reputo, tuas vero omne genus
+eruditione plenas magnifacio.
+^$De monasteriis agitur hic apud nos in spem illam, ut scolae
+fundentur. Deus optimus benevertat; sed quousque iam ventum
+sit in hac re, Rudolphus noster ipse enumerabit melius, quam
+ego calamo consequi possem.^&x{
+^&x^$Concilium Vincentiae celebrari debuit; illuc quidam ex
+Romanis cardinalibus ordinati aut missi; quid egerint
+nescimus. Nihil rumoribus parit hoc conciliabulum fortassis
+penitus sopitum, ut illud prius quod Mantuae debuit haberi.
+Paulus tercius a Nicea nondum solvit; illic de resarcienda
+pace inter monarchas agendo nihil egit; aiunt monarchas
+illos rediisse quemque ad sua.^&x{
+^&x^$De conventu vestro Tiguri Megander nos certiores reddidit.
+Pacem quidem inter ecclesias magnopere optamus ac a domino
+obsecrando petimus, sed eam, que non fit cum veritatis
+iactura, sed usura. Rogamus igitur te atque obsecramus, ut
+si de hoc negotio quid amplius agi contigerit, quod nos
+scire referat aut conducat, ad nos scribere digneris. Deus
+opimus superstitem te nobis conservare velit.^&x{
+^&x^$Ex Curia Rhetiae, octavo k[a]l[enda]s iulii 38.
+^$Saluta meo nomine Leonem, Pellicanum, Megandrum et
+Io[annem] Ammanum, viros omni honore dignos.
+<un>Tibi deditus Ioannes Comander.
+<lz>[Adresse auf der Rückseite:] Eruditione ac pietate
+ornatissimo viro M. Heinricho Bullingero, Tigurinae
+ecclesiae antistiti, domino et amico suo primario.^&x{
+</content>
+</letter>

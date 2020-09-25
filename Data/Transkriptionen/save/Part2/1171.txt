@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1171">
+<nr>1171</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>9. September 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 179 (neu: 197) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Bonifacius Amerbach hat ihn gebeten, einen bisher von ihm unterstützten begabten Knaben [Heinrich Hindermann] an
+Bullinger zu empfehlen, damit er in seiner Heimatstadt Zürich ausgebildet wird; nach der Wiederverheiratung seines Stiefvaters
+[Peter Kriesi] kann er nicht länger in Basel bleiben. Myconius bittet, Luthers Kommentar zu Ps. 51 und 130 sowie Johannes
+Sturms Schrift über die Einrichtung von Schulen nach St. Germain [an Vadian] weiterzuleiten. Der Kurfürst von Mainz [Albrecht von
+Brandenburg], Herzog Georg von Sachsen und ein weiterer Fürst sollen den Papst durch eine Gesandtschaft um die Freigabe von
+Laienkelch und Priesterehe ersucht haben.
+</re>
+<tx>S. Venit hodie doctor Bonifacius Amorbachius ad me;
+hunc puerum<f1>Heinrich Hindermann (Opisander), von Zürich, lebte bei seinem Stiefvater, dem Schneider Peter Kriesi, in
+Basel. Nach dem Tod seiner Mutter kam er 1538 auf Amerbachs Empfehlung (vgl. auch unten Nr. 1172 und Amerbach, Korr. X/1, S.
+LXIV) nach Zürich, wo er in das neueröffnete Fraumünster-Alumnat aufgenommen wurde (s. ^#/+Bächtold,^#/- Bullinger vor dem Rat 202,
+Anm. 36). 1545/46 studierte er in Marburg, von wo er drei Briefe an Bullinger schrieb. Über sein weiteres Schicksal ist
+nichts bekannt. - Lit.: Amerbach, Korr. V 262f. 345f. 381; VI, S. XXXIf. ^&x ^#/+Köhler,^#/- Hessen und die Schweiz 477.
+484; Zürich ZB, Ms. B 282, enthält "Primordia paedagogii" aus Besitz v. Hindermann.^&x{<fe>, quem ab arte sartoria transtulit
+ante annum ob ingenii nobilitatem ad literas et sumptu proprio
+iuvit etiam<f1>Amerbach verschaffte Hindermann 1537 ein Stipendium der Erasmusstiftung; s. Amerbach, Korr. V 262f.<fe>, commendavit, ut eundem ego commendarem tibi, si
+qua via posses eum in literarum studiis retinere. Habet a
+praeceptoribus suis laudem valde plausibilem, ut spes sit
+aliquando futurum usui. Tigurinus est, ut ex ipso audies, et
+mater<f1>Nicht namentlich bekannt.<fe> hic nuper obiit, duxitque vitricus<f1>Peter Kriesi (s. oben Anm. 1). Kriesi stammte aus Grüningen (Kt. Zürich) und war seit 1533 Bürger von Basel; s. Basel StA, Protokolle, Öffnungsbuch 8, 26v.<fe> uxorem
+aliam<f1>Nicht namentlich bekannt.<fe>, ut apud hunc puero non sit locus amplius. Amorbachio autem sumptus vires excedit, unde
+per me<fx>me^#/+ über der Zeile nachgetragen.^#/-<fe> rogat, ut bonae spei ingenio, si qua<fx>^#/+zu ergänzen: ^#/-via.<fe> fieri
+possit, subveniri cures per dominos tuos. Quia vero valet puer ingenio et opus est in futurum viris doctis et bonis, et ipse
+quaeso, quod agis libenter, agas erga puerum hunc.
+^$Fasciculum, quem vides, obsecro Sangallum mittas<f1>Es handelt sich um zwei Straßburger Neuerscheinungen, die Bucer an Vadian
+sandte; vgl. Vadian BW V 508 und VII 82f.<fe>; habet, ne dubites, commentarium<fx>^#/+nach ^#/-commentarium
+^#/+gestrichenes^#/- cum.<fe> Lutheri in psalmum 51. et centesimum trigesimum<f1>Martin Luther, Enarratio Psalmorum LI "Miserere
+mei Deus" et CXXX "De profundis clamavi", Straßburg (Crato Mylius) 1538 (VD 16, L 4536); s. Verena Schenker-Frei, Bibliotheca Vadiani, St. Germain 1973. - Vadian-Studien 9, S. 355, Nr. 1092.<fe>, dein Ioannis Sturmii De instituendis ludis
+literariis<f1>Johannes Sturm, De literarum
+ludis recte aperiendis, Straßburg (Wendelin Rihel) 1538 (VD 16, S 9945).<fe>.
+^$Rumor est electorem Moguntinum<f1>Albrecht von Brandenburg, Erzbischof und Kurfürst von Mainz.<fe>, ducem Georgium
+Saxonem<f1>Georg der Bärtige, Herzog von Sachsen.<fe> et adhuc alium e principibus legationem misisse Romam<f1>Hintergrund des
+Gerüchts ist das von Herzog Georg Ende Juli einberufene Prälatentreffen, an dem über die Wiederherstellung der religiösen
+Einheit beraten wurde. Der Herzog lehnte es ab, selber an den Papst zu gelangen, bat jedoch die Bischöfe von Merseburg und
+Meißen, sich bei den kirchlichen Organen für das Konzil einzusetzen, worauf diese an Erzbischof Albrecht schrieben; s. Ludwig ^#/+Cardauns,^#/- Zur Kirchenpolitik Herzog Georgs von
+Sachsen vornehmlich in seinen letzten Regierungsjahren, in: Quellen und Forschungen aus italienischen Archiven und
+Bibliotheken 10, 1907, S. 101-151 (bes. S. 114-120 und 133-144).<fe>, ut hos duos articulos pontifex<f1>Papst Paul III.<fe> permittat: ut populus
+sub utraque specie communicet et matrimonium permittatur sacerdotibus liberum<f1>Vgl. ^#/+Cardauns,^#/- aaO, S. 120-123.<fe>; aliter enim se suos non posse continere in
+officio. Cogita, quid sit futurum, si de legatione certum est.
+^$Vale cum tuis et fratribus.
+^$Basileae, 9. septembris anno 38.
+<un>Tuus Os. My-­
+<un>conius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho B[ul]lingero<fx-t>^#/+Rand abgeschnitten.^#/-<fe>,
+doctis[simo]<fx-x>^#/+Rand abgeschnitten.^#/-<fe> antistiti Tigu[rino]<fx-x>^#/+Rand abgeschnitten.^#/-<fe>, in domino
+vener[an]do<fx-x>^#/+Rand abgeschnitten.^#/-<fe> suo.
+</content>
+</letter>

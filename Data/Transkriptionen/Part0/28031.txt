@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="28031">
+<nr>28031</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Fabricius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>11. Februar 1558</date>
+</space_time>
+<vo>Zürich StA, E II 373, 87. / Orig. Aut.</vo>
+<dr>Gr. II, 57 R.</dr>
+<re></re>
+<note></note>
+S. D. Nihil prorsus nunc habeo nisi hoc unum: oro te, ut diligenter curas has literas urgeasque, ut nobis respondea(tur). Consanguinea illa nostra exponit nobis se fraudatam esse sua facultate et paupertate.
+Eam rem si ita habere intellexerimus, iure agetur cum illis, qui iniuria ipsam miseram affecere.
+Scribe per proximum tabellionem.
+Vale cum omnibus piis.
+Tiguri 11. februarii anno 1558.
+                                               Bullingerus tuus.
+Praestantissimo virod. Ioanni Fabritio, Curiensis ecclesiae ministro, domino et compatri meo colendissimo et charissimo.
+^$Chur.
+</content>
+</letter>

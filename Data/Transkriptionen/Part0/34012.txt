@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="34012">
+<nr>34012</nr>
+<correspondents>
+	<originator>Matthias Schenck</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>18. Januar 1564</date>
+</space_time>
+<vo>Zürich StA, E II 364, 108. / Orig. Aut.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S. Cum Augusta discederem, Tigurum etiam ire decreveram literasque hasd. G[eorgii] a Stetten praesenti tibi praesens quasi in manus tradere.
+Verum affinium* (*
+iun ! .. .. ..) et aliorum interpellationibus crebris precibusque meorum impedior, quominus sequi, quod intenderam ceperamque consilium, possim.
+Mitto ergo
+illas per aurigam una cum S. Heideni confessione, quam iam pridem tibi sum pollicitus.
+Pergratum autem cum mihi tum Stettensi feceritis, si primo quoque
+tempore, imo hoc ipso tabellario praesente nobis rescripseritis, qui ante diem solis huc reversurus dicitur quemque expectare ego constitui.
+Velim autem
+catechesin vestram Latinam minorem mihi mittas simul; de ea enim comparanda ut cogitem, iamdudum me rogavitd. Stettensis noster.
+Bene vale etd. Gvalthero Bettoque necnon generis tuis meo nomine S. P.
+Constantiae  18. ianuarii anno 1564.
+Matthias Schencus t[uus].
+Viro optimo hominique doctissimod. Heinricho Bullingero, ecclesiastae Tigurino,d. atque amico in primis colendo.
+</content>
+</letter>

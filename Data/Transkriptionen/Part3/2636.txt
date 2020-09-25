@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2636">
+<brief>
+<id>16326</id>
+<nr>2636</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-10-21"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 21. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 205 (Siegelfragment)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 524f, Nr. 1360<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 30</k></dr>
+<re><t>Blarer hat am Vortag [mit Brief <qv>nr2635</qv>] geschrieben, weiß aber nicht, ob die Post abgegangen ist. Erst heute hat er erfahren, dass sein Bruder [Thomas] vom Konstanzer Rat an den Tag [zu Zürich] entsandt wird. Dieser kann Genaueres über den Krieg mitteilen. Bullinger möge seinerseits über den Tag Bericht erstatten, damit Blarer auch [Georg] Frölich davon informieren kann.</t>
+<t>Grüße. Man bitte Gott beharrlich um Beistand und um Sieg!</t></re>
+<text>
+<div>
+<p>S. Scripsi ad te heri
+<fn>Mit Brief <qv>nr2635</qv>.</fn> per postam, quamquam non satis scio, an abierit illa. Nihil autem istuc refert, quandoquidem <zzl>zl16326-2A</zzl>germanus meus frater
+<fn>Thomas Blarer.</fn> (quod heri nesciebam) hodie ad vos a nostro senatu ablegatus
+<fn>Auf Anfrage des Schmalkaldischen Bundes (<a>EA</a> IV/1d 702 zu c) wurde Thomas Blarer an den Tag zu Zürich entsandt, um die protestantischen Orte der Eidgenossenschaft um Unterstützung zu ersuchen.<zfn>fn16326-1</zfn></fn> proficiscitur;<zzl>zl16326-2E</zzl> qui quavis epistola fidelior coram tibi exponet, quicquid hic de belli successu habemus. Commendarem illum tibi, nisi supervacaneum existimarem amicissimum amicissimo. <zzl>zl16326-1A</zzl>Quicquid istic dicta dies
+<fn>Zu diesem Treffen vom 19. bis 26. Oktober s. <qv>nr2606</qv>, <qv>fn16294-1</qv>.</fn> pepererit, summatim ad me perscribes
+<fn>Bullinger benachrichtigte offensichtlich Blarer davon; vgl. <qv>nr2684</qv>,<qv>zl16371-7</qv>. Ob dabei Bullingers Schreiben <qv>nr2652</qv> vom 1. November gemeint ist, muss offen bleiben. Mit diesem erfuhr Blarer, welche Beschlüsse die Behörden von Zürich nach dem Treffen gefasst und der Bevölkerung mitgeteilt hatten.<zfn>fn16326-2</zfn></fn>, ut vicissim ego L{e}to
+<fn>Georg Frölich. - Ein solcher Brief an Frölich findet sich nicht in <a>Blarer BW</a>.</fn> nostro significare istuc possim.<zzl>zl16326-1E</zzl></p>
+</div>
+<div>
+<p>Bene vale, mi charissime et optime Bullingere. Saluta tuam domum cum omnibus fratribus et amicis in domino. Adeamus autem constanter suplicibus votis grati{e} thronum, ut auxilium impetremus eius
+<fn>Vgl. Hebr 4, 16.</fn>, qui fortior est quam mundi princeps
+<fn>Vgl. Joh 12, 31.</fn>, quem etiam iamdudum potenti sua manu enervavit sua nobis victoria benigne donata
+<fn>Vgl 1Kor 15, 57.</fn>.</p>
+<p>Iterum vale. 21. octobris 1546.</p>
+<un>Tuus Ambr. Bl.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Heinricho Bullingero, amico et fratri suo incomparabili.</p>
+</div>
+</text>
+</brief>

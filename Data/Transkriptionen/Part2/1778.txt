@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1778">
+<nr>1778</nr>
+<correspondents>
+	<originator>[Bullinger]</originator>
+	<addressee>Hermann von Wied</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[kurz vor 28. August 1543]</date>
+	<note>Die Erwähnung von Bullingers Johanneskommentar (HBBibl I 153), fertiggestellt am 21. August 1543 (s. HBD 32, 6), sowie die Bemerkungen zur Situation im Erzbistum Köln (s. unten Z. 12-15) erlauben eine ungefähre Datierung auf Ende August 1543. Der Briefentwurf findet sich als zweiter in einer Reihe von vier fortlaufend geschriebenen Entwürfen (vgl. oben Nr. 1777 und unten Nr. 1779f); die Ausfertigung des letzten dieser Briefe datiert vom 28. August.</note>
+</space_time>
+<vo>Autographes Konzept: Zürich StA, E II 345, 364v.-365r.
+(ohne Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 90</vo>
+<dr>Gedruckt<fx>^#/+Nach der Abschrift Johann Jakob Simlers (Zürich ZB, Ms S 53, 90).^#/-<fe>: ^#/+Krafft^#/- 146</dr>
+<re>In der Kirche Zürichs und anderer eidgenössischer Städte dankt man Gott dafür, dass der Kölner Erzbischof das
+Evangelium angenommen hat; nachdem [die Zürcher] in den vergangenen Tagen gehört haben, dass [der Reformationsentwurf von Bucer und
+Melanchthon] von den Ständen angenommen wurde und nur das Domkapitel, die Universität und die Bürger von Köln
+widerstreben, beten sie zu Gott, dass er der Stadt die Augen öffnen möge. Als treuer Hirte seiner Schafe ist von Wied ein
+Vorbild für andere Bischöfe; Bullinger wünscht ihm Standhaftigkeit und bietet ihm Unterstützung durch die Zürcher
+Pfarrer und Lehrer an. Übersendet als Zeichen seiner freundschaftlichen Gesinnung seinen Johanneskommentar.
+</re>
+<tx>Reverendissimo in Christo patri, illustrissimo principid. Hermanno a Weda, ecclesiae Coloniensis archiepiscopo, sacri imperii Romani per Italiam archi­cancellario, principi electori,
+Westphaliae et Angariae<f1>Engern.<fe> duci, domino suo clementissimo.<fx>^#/+Es folgt eine Wiederholung der Adresse in leicht abgeänderter Form (mit Unterstreichung der ersten drei Wörter):^#/- Reverendissimo in Christo patri ac domino, D. H. a V., archiepiscopo Coloniensi, principi electori, Westphaliae et Angariae duci, domino suo clementissimo.<fe>
+^$Gratiam et vitae innocentiam a deo patre per dominum Iesum
+Christum.
+^$Non dixero facile, quanto exultarit gaudio non Tigurinorum
+dumtaxat, sed<fx>^#/+Vor^#/- sed ^#/+gestrichenes^#/- ecclesia.<fe> vicinarum quoque per Helvetiam urbium veritati
+faventium ecclesia<fx>ecclesia ^#/+über gestrichenem^#/- ecclesiae.<fe>, ubi nunciatum est etiam archipraesulem
+Coloniensem recepisse verbum dei. Magnas clementissimo patri
+agebamus gratias ac cum omnibus sanctis<fx>cum omnibus sanctis ^#/+(gefolgt von einem unklaren Zeichen) über der Zeile nachgetragen.^#/-<fe> precabamur, ut<fx>^#/+Vor^#/- ut ^#/+gestrichenes^#/- omnes.<fe>
+animum tuae<fx-t>^#/+Von^#/- tuae ^#/+bis^#/- subditis ^#/+über gestrichenem^#/- tibi.<fe>
+pietati, consiliariis et subditis<fx-x>^#/+Von^#/- tuae ^#/+bis^#/- subditis ...<fe> largiretur, quo in gravibus huius mund[i]<fx>^#/+Randtext beschädigt.^#/-<fe> tentationibus firmiter
+perstares. Nec respuit prece[s]<fx>^#/+Randtext beschädigt.^#/-<fe> sanctorum suorum dominus.
+Superioribus enim diebus<fx>Superioribus enim diebus ^#/+über der Zeile nachgetragen.^#/-<fe> audimus<fx>^#/+Korrigiert aus^#/- Audimus; ^#/+es folgt gestrichenes^#/- enim sup.<fe><f1>Bullinger bezieht sich wohl hauptsächlich auf die Nachrichten, die Oswald Myconius am 14. August übermittelt hatte; s. oben Nr. 1773, 1-18.<fe> et reformationem esse a
+piis et doctis<fx>a piis et doctis ^#/+über der Zeile
+nachgetragen.^#/-<fe> compositam,<f1>Gemeint ist der von Bucer und Melan­ch­­thon verfasste Reformationsentwurf ("Einfaltigs bedencken"); s. oben Nr. 1773, Anm. 6.<fe>
+oblatam ecclesiis<fx>oblatam ecclesiis ^#/+über der Zeile
+nachgetragen.^#/-<fe> et ab omnibus
+receptam ordinibus, solis cathedralibus, academia<fx>academia ^#/+über der Zeile
+nachgetragen.^#/-<fe> et civibus
+urbis reclamantibus.<f1>Das Domkapitel erbat sich Bedenkzeit, vgl. ebd., Anm. 4.<fe> Novo itaque gaudio perfusi non
+cessamus precari dominum, et ut confirmet, quod coepit, et
+Coloniensi urbi alioqui<fx>alioqui ^#/+über der Zeile nachgetragen.^#/-<fe> clarissimae oculos aperiat, quo et
+ipsa salutare illud dei omnibus gentibus propositum videat
+et amplectatur ad incolumitatem animae et corporis.
+^$Tua certe pietas una et sola<fx>et sola ^#/+über der Zeile nachgetragen.^#/-<fe> inter tot Germaniae, Galliae,
+Italiae aliorumque regnorum episcopos suo respondit nomini
+ac functioni coelitus per Christum dominum iniunctae. Voluit
+is tuam pietatem<fx>tuam pietatem ^#/+über gestrichenem^#/- te ovium suarum.<fe> agere pastorem et vigilem ovium suarum,
+quas proprio redemit sanguine.<f1>Vgl. Apg 20, 28.<fe> Voluit, hoc<fx>hoc ^#/+über gestrichenem^#/- ut mysterium.<fe> redemptionis suae
+mysterium his<fx>suae
+mysterium his ^#/+über der Zeile nachgetragen.^#/-<fe> maxime ovibus[?]<fx>ovibus ^#/+über der Zeile auf unklare Weise eingefügt (oder gestrichen?).^#/-<fe> innotesceret. Proinde summa fide et
+diligentia per illius gratiam curas, ut verbo pascantur
+veritatis, ut videant, intelligant, quomodo iustificentur ac
+salvi fiant. Sic autem plurimos Christo domino lucrifacis.
+Sic animam tuam liberas. Non enim ignorat tua pietas, quid
+apud Ezech. dominus<f1>Vgl. Ez 3, 19. 21; 33, 9.<fe>. Quandoquidem ergo iuditia domini
+annunciari curas, bene res habet; liberasti<fx-t>^#/+Von^#/- liberasti ^#/+bis^#/- sunt ^#/+über der Zeile und am Rande
+nachgetragen.^#/-<fe> animam tuam,
+servos et eos, qui tuae fidei crediti sunt<fx-x>^#/+Von^#/- liberasti ^#/+bis^#/- sunt ...<fe>. Relinquis
+exemplum omnibus aliis episcopis<fx>omnibus aliis episcopis ^#/+anstelle von gestrichenem^#/- relinquis ^#/+unter der Zeile
+nachgetragen.^#/-<fe>, quod cum gloria ac
+utilitate maxima imitentur. Quid <vl>365v.</vl> quod in veneranda illa
+tuae pietatis senecta ad quietem inclinante et meliorem mox
+vitam velut<fx>velut ^#/+über der Zeile
+nachgetragen.^#/-<fe> promittente<fx>^#/+In der Vorlage^#/- promitente.<fe> cum iustissimo virorum Simeone non
+sine iubilo cordis clamare potes: "Nunc dimittis servum
+tuum" [Lk 2, 29]. Vidit enim tua pietas in veritate evangelica per
+fidem dominum Iesum. Certa et indubitata est doc­trina<fx-t>^#/+Von^#/- doctrina ^#/+bis^#/- tametsi ^#/+über gestrichenem^#/- utcunque
+(quam tradimus ^#/+nachträglich über der Einfügung nachgetragen^#/-).<fe>, quam
+tradimus, evangelica; tametsi
+dicatur nova, tam­etsi<fx-x>^#/+Von^#/- doctrina ^#/+bis^#/- tametsi
+...<fe> insaniat orbis et<fx-t>^#/+Von^#/- et ^#/+bis^#/- aeternum ^#/+über gestrichenem^#/- doctrina evangelii, quam tradimus.<fe> pro haeretica ducat. Vincet illa; nam veritas manet in aeternum<fx-x>^#/+Von^#/- et ^#/+bis^#/- aeternum
+...<fe><f1>Vgl. Ps 117 (Vulg. 116), 2.<fe>. Macte igitur virtute, praesul<fx>praesul ^#/+nach gestrichenem^#/- praesul.<fe>
+sanctissime, perseverando<fx-t>^#/+Von^#/- perseverando ^#/+bis^#/- pietas (^#/+gefolgt von gestrichenem^#/- sic itur ad astra) ^#/+über gestrichenem^#/- sic places.<fe>
+itur ad astra;<f1>Vgl. Vergil, Aeneis, 9, 641.<fe> sic placebit tua
+pietas<fx-x>^#/+Von^#/- perseverando ^#/+bis^#/- pietas ...<fe>
+pastorum principi Christo<fx>pastorum principi Christo ^#/+erst durchgestrichen, dann unterstrichen.^#/-<fe>. Cui cum<fx>Cui cum ^#/+über gestrichenem^#/- Huic quando.<fe>
+servierim<fx>^#/+Endung undeutlich korrigiert.^#/-<fe> ab<fx>^#/+Vor^#/- ab ^#/+verwischtes^#/- iam.<fe> annis iam ^&xviginti^&x{20 et hic me uti voluit ministro et praecone verbi sui<fx>verbi sui ^#/+über der Zeile
+nachgetragen.^#/-<fe>, volui pro<fx-t>^#/+Von^#/- pro ^#/+bis^#/- literis ^#/+über der Zeile
+nachgetragen.^#/-<fe> meo officio hisce literis<fx-x>^#/+Von^#/- pro ^#/+bis^#/- literis
+...<fe> gratulari tuae
+pietati simul et mea ei offerre obsequia. Si quo modo ei<fx>ei ^#/+über der Zeile nachgetragen.^#/-<fe>
+gratificari possim ac<fx>possim (^#/+gefolgt von gestrichenem^#/- tuae pietati) ac ^#/+über der Zeile
+nachgetragen.^#/-<fe> iuvare queam sancta eius in evangelio<fx>eius (^#/+gefolgt von unlesbar gestrichenem Wort^#/-) in evangelio ^#/+über der Zeile nachgetragen.^#/-<fe>
+instituta, me praesto futurum. Promptissimi erunt et reliqui
+symmistae mei, ecclesiae<fx>ecclesiae ^#/+korrigiert aus^#/- ecclesiarum.<fe> Christi<fx>Christi ^#/+über der Zeile
+nachgetragen.^#/-<fe> ministri, pastores et
+professores scholae nostrae, viri pii et docti.
+^$Cupivi ego singulari aliquo argumento animi mei
+benevolentiam erga pietatem tuam declarare; sed quia id
+nunc, ut volui<fx>ut volui ^#/+über der Zeile
+nachgetragen.^#/-<fe>, non potui, aliquod saltem studii erga tuam
+pietatem mei indicium depono<fx>depono ^#/+korrigiert aus^#/- deponere, ^#/+ersetzt gestrichenes^#/- relinquere [- - -].<fe> exemplum commentariorum meorum in evangelium Ioan.<f1>Die Rede ist von Bullingers Johanneskommentar (s. oben Anm. 1).<fe>, quos<fx-t>^#/+Von^#/- quos ^#/+bis^#/- scripsi ^#/+über gestrichenem^#/- misi, donec amplio
+(scripsi ^#/+über gestrichenem^#/- vulgavi[?]).<fe> hac aestate in usus piorum
+scripsi<fx-x>^#/+Von^#/- quos ^#/+bis^#/- scripsi
+...<fe>. Oro autem tuam humanitatem, princeps illustrissime,
+ut has meas literas una cum libro evang[elii]<fx>evang[elii] ^#/+über der Zeile nachgetragen.^#/-<fe> boni consulas et
+benigno recipias animo. Exosculor<fx>Exosculor ^#/+über gestrichenem^#/- Amo.<fe>
+enim tuam pietatem et,
+quod feci, animo feci tui amantissimo. Dominus Iesus servet
+te suae<fx-t>^#/+Von^#/- suae ^#/+bis^#/- Helvetiis ^#/+über der Zeile nachgetragen, ersetzt gestrichenes^#/- Salutant reve­rendam[?] tuam pietatemd. Pellicanus, Theod. Bibliander ac.<fe> ecclesiae ac nobis omnibus diu incolumem.
+^$Tiguri in Helvetiis.<fx-x>^#/+Von^#/- suae ^#/+bis^#/- Helvetiis ...<fe>
+</content>
+</letter>

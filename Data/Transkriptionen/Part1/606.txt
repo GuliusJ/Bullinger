@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="606">
+<correspondents>
+	<originator>Benedikt Euander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Isny</place>
+	<date>2. Juli (*1535*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 361, 277 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Ist sehr dankbar, dass ihn Melchior Volmar aufgrund von Bullingers
+Empfehlung so freundlich behandelt; er wird alles daransetzen, dass
+die Verdienste der Zürcher (*in Isny*) erkannt und gewürdigt werden,
+besonders von (*Peter*) Buffler, dem Bullinger -- wie er von (*Georg*)
+Binder erfahren hat -- noch schreiben wird.
+</statue>
+<content>
+Doctor Melchior Volmarius adhuc apud nos agit, et ex tua
+amicissima commendatione+2
+tam humaniter me fovet ac tractat, ut certe nesciam, quibus rebus et
+tibi et ipsi vel saltem aliquas gratias referam; video autem
+liquidissime, quantum tua apud ipsum valeat
+autoritas, qui omnibus modis studet, ut tuis iussis mihi benefaciendo
+satisfaciat; tum insuper, quid mihi a vobis sperandum sit,
+planissime intelligo; etenim si me aliis tam sedulo committis, quid
+tu mihi, si occasio se obtulerit, non ultro offeres. Sed age perge,
+humanissime doctissimeque vir, in rebus meis promovendis, atque hoc
+mutuum facies; nam et ego (si saltem vestris laudibus et autoritati
+aliquid addi potest) in eis augendis sum occupatissimus, neque desistam,
+donec vos in rebus omnibus et optime sentire et rectissime agere
+evicero, id quod nunc+a
+apud multos obtinui, prèsertim apud Buflerum+3,
+cui te brevi scripturum+4
+ex litteris Binderi+5
+non sine summa voluptate intellexi.
+<p>Vale.</p>
+<p>E ludo nostro, 6. nonas iulii.</p>
+<signature>
+Benedictus Euander.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinrico Bullingero,
+contionatori Tigurino christianissimo, praeceptori et domino suo
+colendissimo.
+</address>
+</content>
+<note>
+<print>
++a>in der Vorlage  nuc.
+</print>
+<address>
++1>Aus dem Hinweis auf Volmars Aufenthalt in Isny (Z. 1) ergibt sich
+1535 als Abfassungsjahr (vgl. oben Nr. 605, 13-15).
++2>Volmar hatte auf seiner Rückreise von Frankreich in Zürich
+Halt gemacht und dabei Bullinger persönlich kennengelernt (vgl. oben
+Nr. 605, 3 mit Anm. 1).
++3>Peter Buffler.
++4>Ein Brief Bullingers an Buffler ist nicht erhalten.
++5>Georg Binder. -- Sein Brief an Euander ist nicht erhalten.
+</address>
+</note>
+</letter>

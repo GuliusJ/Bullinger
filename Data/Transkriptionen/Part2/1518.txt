@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1518">
+<nr>1518</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>10. Mai 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 487 (Siegelspur)</vo>
+<re>[Gasparo] Contarini, der päpstliche Legat am Regensburger Reichstag, ist mit seiner Forderung nach Anerkennung und Bewahrung der Autorität des apostolischen Stuhls bei den Ständen und sogar bei Kaiser [Karl V.] auf Ablehnung gestoßen; es heißt, der Kaiser verstehe allmählich, welche Lehre der
+Lehre Christi und der Schrift entspricht und sich zu Recht auf die Apostel und die Väter berufen kann; Gott möge ihm Weisheit verleihen. Vadian verspricht sich von den Verhandlungen mindestens eine temporäre Milderung des Druckes, der auf den Protestanten lastet.</re>
+<tx>[Gedruckt: Vadian BW VI 26, Nr. 1170.]
+<tx>S. E Ratisbona novi nihil, nisi quod Contarenus ille,
+papae legatus, non ab ordinibus modo, sed ipso etiam a
+caesare reiectus est, quum diceret, se aliud ab hyaena sua
+^&x Anspielung auf den Traum Melanchthons? Vgl. Nr. 11092! ^&x{
+mandatum non habere, quam summa ope ut contendat, ne novae
+doctrinae Lutheranę impulsu ullo pacto vel veteribus
+patrum decretis vel nuperrimis sanctis conciliis vel
+sacrosanctę pontificis et Romanę sedis authoritati
+quicquam detrahi sineret et ad hoc omnes ordines provocaret,
+ne novas novorum hominum excogitationes ecclesiasticae
+religioni tot iam saeculis receptae et adprobatę
+anteferrent, sed matrem illam suam Romam, apostolorum
+scilicet sedem, agnoscerent, honorarent et tuerentur.
+Ferunt caesarem in hoc iam esse, ut intelligat tandem, utra
+doctrina cum Christi doctrina et spiritu scripturarum magis
+conveniat+h{; illane pontificia, quam Paulus Romanista
+tantorpere iactat esse apostolicam, an potius nostra, quacum
+universa vetustas et doctores omnes orthodoxi sentiunt.
+Dominus cor eius imbuere dignetur consiliis optimis. Ego
+mihi certo polliceor si non exactam rerum discussionem,
+tamen finem eiusmodi fabulae, qui nos+i{ aliqua
+pacificatione possit e faucibus adversariorum eripere et,
+quod factum cupimus, in tempora magis commoda differre.
+^$Vale.
+^$Celerrime. Sangalii, 10. die maii anno domini 1541.
+<un>Ioachimus Vadianus tuus.
+<lz>[Adresse .....] Doctisiimo viro domino
+Henrycho Bullingero, ecclesiae Tigurinae episcopo, domino
+suo colendissimo.
+<fx>+h^$conveniat^#/+ für ursprüngliches ^#/-accedat.<fe>
+<fx>+i^$Nach ^#/+nos^#/- gestrichenes ^#/+liberare.^#/-<fe>
+</content>
+</letter>

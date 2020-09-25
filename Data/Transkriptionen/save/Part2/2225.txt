@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2225">
+<nr>2225</nr>
+<correspondents>
+	<originator>Gervasius Schuler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Memmingen</place>
+	<date>25. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 293 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xkopie 18. Jh.: Zürich zB, Ms S 57, 221; Zit.: Ott, Annales Anabaptistici (HBBibl II 1070), 106f. ^&x{
+<re>Schuler teilt durch den Überbringer, einen nach Zürich reisenden Patrizier [...], mit, dass er den Käse erhalten hat. Zudem hat er den Boten mit der Beschaffung des [als Bezahlung] für [Anna, geb. Adlischwyler] bestimmten Flachses und dessen Sendung nach [Zürich] beauftragt; doch könnte der Flachs auf den kommenden [12. November] bei weiterhin guter Wetterlage billiger werden, so dass man für den gleichen Preis mehr davon erwerben könnte.
+-^#. Bullinger ist gewiss über den Wormser Reichstag und über das zugestandene [Zweite Regensburger Religionsgespräch] informiert. Auf [protestantischer] Seite sind, wie es heißt, Bucer, Melanchthon, Caspar Cruciger und der Nürnberger Prediger Veit Dietrich zur Teilnahme an dem Gespräch bestimmt worden. Über die päpstlichen Teilnehmer weiß Schuler nichts.
+-^#. Die Schwenckfelder machen den umliegenden Kirchen viele Schwierigkeiten; in Kaufbeuren gingen sie bis zum Äußersten. Doch die Räte von Augsburg, Ulm, Memmingen und Kempten schickten Abgesandte und schafften in Schulers und [Balthasar] Funks Beisein am 8. August den Handel mit den Messen und die Bilder in der Kirche ab. Schuler kennt nichts Schlimmeres als diese Schwenckfelder.
+-^#. In Memmingen ist alles ruhig.
+-^#. Schulers Frau [..., geb. Lübegger] gebar vor drei Wochen einen Sohn, der jedoch mit dem Tode ringt. Der Wöchnerin geht es nur einigermaßen gut. Sie wünscht Bullinger und [Anna] Wohlergehen.
+-^#. Grüße von dem Ratsherrn [Balthasar] Funk und von Bartholomäus Bertlin.</re>
+<tx>S. Cum praesentium lator, vir patritius,<f1>Unbekannt.<fe> Tigurum abiturus esset, placuit per illum
+ad te meas dare litteras, quibus de rebus meis certior esses, Bullingere amice incomparabilis.
+Accepi primum, quos misisti, caseos,<f1>Schuler hatte Bullinger am 23. März 1545 (s. oben Nr. 2121, 84-87) und am 27. Mai 1545 (s. oben Nr. 2166, 33-39) um Zusendung zweier Kräuterkäse gebeten.<fe> quibus summe delector, pro quo tuo beneficio michi impenso ingentes gratias ago.
+Quod vere petis a me uxori tuę<f1>Anna, geb. Adlischwyler.<fe> pro exposita pecunia linum mitti,<f1>Schuler hatte Bullinger am 23. März 1545 (s. oben Nr. 2121, 84-87) angeboten, seiner Ehefrau Anna (zur Bezahlung der Käse) Flachs zu senden.<fe> curavi,
+ut decem librę<f1>Pfund.<fe> optimi lini mitterentur, quas praesentium nunctius curavit, ut inde ad te veherentur.
+Poterit fortassis ad diem sequentem Martini<f1>D.h. am Tag nach St. Martin, also am 12. November.<fe> minoris<f1>für einen geringeren Preis.<fe> vendi, ubi temperie presenti perrexerit nobis favere dominus.
+Si tibi gratum fuerit, non gravabor uxori tuę maiore comodo gratificari.
+^$Ceterum quid in Vormatiensibus comitiis<f1>Auf dem Reichstag zu Worms.<fe> fixum et refixum, tandem in recessu permissum sit,<f1>Der Entscheid für die Abhaltung des Zweiten Regensburger Religionsgesprächs, der im Juli 1545 auf dem Reichstag in Separatverhandlungen mit den Protestanten (unter Mitwirkung von Pfalzgraf Friedrich) getroffen worden war und erst am 28. Juli 1545 durch Johann von Naves den katholischen Reichsständen offiziell bekanntgegeben wurde; s. Lothar ^#/+Vogel,^#/- Das Zweite Regensburger Religionsgespräch von 1546. Politik und Theologie zwischen Konsensdruck und Selbstbehauptung, Gütersloh 2009 - QFRG 82, S. 176-185 sowie bes. 186.<fe> non puto te latere.
+Pontificii sęviunt supra modum, exerunt omnes vires adversus veritatem.
+A parte nostra aiuntd. Butzerum, Melanctonem,d. d. Casparem Crutziegerum et Vitum Dietrich, Nurnburgensem ecclesiasten,
+ad colloquium futurum destinatum. Quem pontificii selecturi sint, ignoro.<f1>Zu den Teilnehmern am Religionsgespräch s. ^#/+Vogel,^#/- aaO, S. 220-266.<fe> Durum est contra stimulum calcitrare.<f1>Apg 9, 5; 26, 14.<fe>
+^$Svenckfeldiani magnum ecclesiis nobis circumiacentibus facessunt negotium. Egregie tandem produnt sua venena, fuco hypochriseos oblita.
+Kauffbire extrema tentarunt,<f1>Zur Rolle der Anhänger Schwenckfelds in Kaufbeuren (Bayern) s. ^#/+Litz,^#/- 236; Christopher W. ^#/+Close,^#/- The Negotiated Reformation. Imperial Cities and the Politics of Urban Reform, 1525-1550, Cambridge 2009, S. 150-157.<fe> sed vicit dominus per suam veritatem, ut tota illic ecclesia nostrum dogma receperit per omnia.
+Octava die augusti me praesente sacram ędem a nundinatione missarum et idolis repurgavit
+Augustanus, Ulmensis, Memmingensis et Kampidunensis senatus;<f1>Unter dem Druck der vier Städte Augsburg, Ulm, Kempten und Memmingen nahm Kaufbeuren im August 1545 offiziell die Confessio Augustana an. Schuler selbst sollte zusammen mit dem Pfarrer Hans Schalheimer "leihweise" in Kaufbeuren eingesetzt werden, jedoch schlug dieser Versuch aufgrund des Widerstands des verbliebenen schwenckfeldischen Pfarrers Matthias Espenmüller fehl; s. ^#/+Gritschke,^#/- Schwenckfeldertum 262; ^#/+Litz,^#/- 236f; ^#/+Close,^#/- aaO, S. 172-178.<fe> illuc nunctios misit viros senatorios. Ego cum Funckio<f1>Balthasar Funk, Bürgermeister in Memmingen.<fe> adfui.
+Hii omnes nomine suorum Kouffbirenses consolati sunt auxilia promittentes, ne ullis minis absterrerentur.
+In summa: Dominus adfuit suis, utcunque catabaptiste et Svenckfeldiani reniterentur.
+Ich hab kein boͤßer, schalckhafftiger volck nie erfaren dann die Svenckfeldianer, vollen neyd und haß,
+das sy übergohnd<f1>das sy übergohnd: so dass sie überfließen.<fe>, verechter aller sacramenten und alles außerlichen diensts der kirchen Christi.
+Riemend<f1>Rühmen.<fe> sich vyl der nuwen gepurt, und sind aber in der alten gar und gantz erstorben.
+Waß soll ich sagen? eß ist die recht sucht<f1>Krankheit.<fe> aller gotseligkeyt! Gangend die widerteuffer schlaaffenn!<f1>Gemeint ist, dass die Schwenckfelder schlimmer als die Wiedertäufer sind; vgl. Niklaus Manuel, Krankheit und Testament der Messe, Vers 5.<fe>
+Dominus liberet ecclesiam suam ab hac execranda peste.
+^$Apud nos Memminge per dominum omnia tranquilla sunt.
+^$Uxor mea<f1>[...], geb. Lübegger; s. HBBW I 222, Anm. 4.<fe> ante tres septimanas peperit filium<f1>[...]. - Siehe dazu oben Nr. 2121, Anm. 48.<fe>. Sed dum hec scribo, extremum vitae agit infans. Dominus illum reducat ad eternam patriam.
+Puerpera mediocriter valet. Optat cumprimis te tuamque uxorem plurimum salvere.
+Salutat ted. Funckius consul, Bartholomeus Bertlinus. Dominus Iesus servet te ecclesie sue et nobis diu incolumem. Vale, vir optime, et precibus tuis me commendatum habeto.
+^$Datę Memminge, 25. augusti anno 1545.
+<un>Gervasius tuus Schuler.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro domino Heynricho Bullingero, Tigurinę ecclesię antistiti vigilantissimo, domino praeceptori et fratri in Christo charissimo.
+</content>
+</letter>

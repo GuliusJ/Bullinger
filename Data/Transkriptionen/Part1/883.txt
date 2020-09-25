@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="883">
+<correspondents>
+	<originator>(*Bullinger*)</originator>
+	<addressee>Philipp (*Melanchthon*)^^^S'^^^'bitalic(1)</addressee>
+</correspondents>
+<space_time>
+	<place>(*Zürich</place>
+	<date>nach 22. August 1536*)+2</date>
+</space_time>
+<record>Abschrift, Konzept+a: Zürich ZB, Ms F 36, 486</record>
+<print></print>
+<note>Gedruckt: Heinrich Ernst Bindseil, Philippi Melanchthonis epistolae,</note>
+<note>iudicia, consilia, testimonia aliorumque ad eum epistolae quae in Corpore</note>
+<note>Reformatorum desiderantur, Halle 1874, Nachdruck Hildesheim-New York</note>
+<note>1975, S. 114f, Nr. 160; Regest: Melanchthon BW, Regesten II 265f, Nr. 1774</note>
+<statue>
+Dankt für die freundliche Antwort vom 1. Juli auf seinen Brief
+vom vergangenen Jahr (*Nr. 636*) und sendet als Unterpfand der
+begonnenen Freundschaft Vadians (*Aphorismorum libri sex*) "De
+consideratione eucharistiae". Die darin enthaltene Lehre von den
+Sakramenten wird auch Luther zufriedenstellen. Bucer und (*Johannes*)
+Zwick haben über das von den (*Wittenbergern*) vertretene Verständnis
+der Gegenwart Christi im Abendmahl berichtet; da letztere die von den
+(*Schweizern*) bekämpften Auffassungen ebenfalls ablehnen, besteht nun
+Einigkeit.
+</statue>
+<content>
+Superiore+b anno scripseram ad te, Philippe doctissime+c, epistolam+3,
+qua amicitiam petii+d tuam. Addideram commentarios nostros in aliquot
+Pauli epistolas+4, ut in iis videres sententiam nostram de communi
+religione, ne fortassis imbutus sinistris quorundam rumoribus indignum
+me tua putares amicitia.
+Is vero conatus meus haud caruit successu foelici. Scripsisti enim+e
+calendis iulii praeteritis+f epistolam+5 multo gratissimam, qua te mihi
+totum pro tua humanitate vinculis astrinxisti+g amicitiae. Gratias ago+h
+tibi maximas pro isto tuo in me animo promptissimo+i, et vicissim de me
+tibi pollicearis volo, quod frater de fratre amantissimo. Nunc autem,
+quo arctius haereat inita amicitia, mitto hic tibi eruditissimi viri doctoris
+Vadiani De eucharistiae consideratione libros+6, munus literarium et
+initae amicitiae pignus. Nihil enim dubito concoeptam illam de nobis
+opinionem in sacramentis nos nuda modo agnoscere signa multorum a nobis
+abalienasse animos. Videbis autem in hisce libris, quam sancte et
+religiose de sacramentis loquamur. Nihil, opinor, desiderabit vel ipse
+de literis et pietate optime meritus d. doctor Lutherus. De tua eruditione
+et modestia nihil dubito. Bucerus atque Zviccius, fratres in domino
+charissimi, multis exposuere nobis+7, quae sit vestra in hoc negotio
+sententia et quam disertis verbis excludatis localem corporis Christi
+praesentiam, omnem denique eam, quae non est salva+k, eo quod Christus
+sit in uno caeli loco circumscriptive+l, aut quae veritati humanitatis
+Christi videri possit contraria, rursus quam ingenue fateamini nullam
+hic unionem corporis Christi cum pane corporalem, sed mysticam tantum,
+nullam item fieri vel localem inclusionem vel transubstantiationem vel
+carnalem praesentiam+8.
+Illa enim sunt, quae impugnavimus hactenus, illa vos tueri putavimus;
+veram Christi praesentiam nunquam negavimus. Verum si hunc legeris
+librum, dices, opinor, nobis convenire. Nil ergo restat aliud, quam ut
+domino agamus gratias omnesque animi dotes huc conferamus, ut regnum
+Christi, domini nostri, quam latissime propagetur, ut diligenter amicitiam
+veterem+m colamus, carnem et sanguinem vere edi et bibi a fideli mente,
+idque non modo carnali, sed spirituali+n, hoc est, indies magis atque
+magis conglutinemur in vero+o spiritu, animo et mente vera+p.
+</content>
+<note>
++a>Die fehlerhafte Kopie von unbekannter Hand in der
+Sammlung Johann Heinrich Hottingers (zitiert: H) beruht auf einem nicht
+mehr auffindbaren Konzept Bullingers, das sich in der Sammlung Hans
+Ludwig Schneebergers befand (vgl. dazu HBBW II, S. 42, Anm. a; HBGesA II
+258f). Eine von Johann Jakob Simler erstellte Abschrift (Zürich ZB, Ms S
+41, Nr. 84, zitiert: S) enthält verschiedene Verbesserungsvorschläge.
+Abweichungen, die über orthographische Unterschiede hinausgehen, werden
+nachfolgend angemerkt.
++b>H:  Verum superiore  (vgl. unten Nr. 889, Anm. z-aa).
++c>H:  Philippi doctiss.
++d>So S anstelle eines vielleicht aus  ambieram  entstellten Wortes in H.
++e>S:  nempe.
++f>S:  praeteriti.
++g>H:  astruxisti.
++h>S ergänzt  et habeo.
++i>So S; H:  promptissimo habeo.
++k>Vielleicht aus  salvo  verschrieben; vgl. Anm. 8.
++l>H und S:  circumscriptim.
++m>S:  veram.
++n>S ergänzt:  (credamus).
++o>S:  uno.
++p>S ergänzt:  una vera etc.
+<address>
++1>Der Abschreiber von Bullingers Konzept (vgl. Anm. a)
+hat den Brief irrtümlich als Teil eines Briefes an Martin Bucer (unten
+Nr. 889) aufgefasst (vgl. Z. 1, mit Anm. b und c). Bereits Simler hat
+erkannt, dass es
+sich um einen selbständigen Brief handelt. Dieser Befund bestätigt sich
+beim Vergleich zwischen der Abschrift des Konzeptes und der Ausfertigung
+des Briefes an Bucer. Bullinger bezieht sich ausserdem deutlich
+auf seinen ersten Brief an Melanchthon vom 31. August 1535 (HBBW V, Nr.
+636), vgl. Z. 1-4.
++2>Am 22. August kündigte Bullinger Vadian gegenüber an, er werde
+Melanchthon schreiben und ihm die "Aphorismen" Vadians zusenden (s. oben
+Nr. 881, 8f).
++3>Bullinger an Melanchthon, 31. August 1535 (HBBW V, Nr. 636).
++4>Bullinger, Commentarii in epistolas Pauli ad Galatas, Ephesios,
+Philippenses et Colossenses (HBBibl I 72).
++5>Melanchthons Brief an Bullinger vom 1. Juli 1536 ist nicht
+erhalten.
++6>Zu Vadians "Aphorismorum libri sex de consideratione
+eucharistiae" s. HBBW V, S. 360, Anm. 9.
++7>Vgl. besonders Bucers Bericht über die Wittenberger Verhandlungen
+(BucerDS VI/1 135-174) sowie den Brief Johannes Zwicks an Bullinger vom
+19. August (oben Nr. 879).
++8>Bullinger lehnt sich deutlich an Formulierungen Zwicks an, vgl.
+oben Nr. 879, 64-69.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

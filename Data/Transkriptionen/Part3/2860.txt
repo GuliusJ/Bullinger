@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2860">
+<brief>
+<id>17128</id>
+<nr>2860</nr> <from persid="VadianJoachim"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1547-03-24"/>
+<ae>Joachim Vadian an Bullinger</ae>
+<od>St. Gallen, 24. März 1547</od>
+<vo>Autograph: Zürich StA, E II 351, 47 (Siegelspur)</vo>
+<dr>Druck: <a>Vadian BW</a> VI 608f, Nr. 1526<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 176; Erw.: JSG 31, 1906, 40 </k></dr>
+<re><t>Vadian hätte sich dem Druckergesellen
+<fn>Das im Original verwendete Wort "chalcographus" kann sowohl einen Formschneider, einen Schriftgießer als auch einen Druckergesellen bezeichnen. Wir entscheiden uns für Letzteres, ohne dies als richtig behaupten zu können.</fn> [Franz] Spitz,
+<fn>Im Original wird der Name "Spitzius" (ohne Vornamen) angeführt. Dass es sich vermutlich um Franz handelt, geht aus folgender Beobachtung hervor: Ein Franz Spitz ist in Zürich für die Jahre 1550/51 belegt. Johannes Comander hatte nämlich auf Bullingers Empfehlung hin in den genannten Jahren seine Tochter Sarah in Zürich bei Spitz unterbringen lassen, als die Pest in Chur wütete. Am 16. März 1551 wurde ferner Bullinger von Comander gebeten, die Kosten "cum Francisco Spitzli" abzurechnen; s. <a>Graubünden, Korr.</a> I 181f. 185. 190. 197f. - Spitz wird vermutlich in der Offizin von Christoph Froschauer gewirkt haben. Welche Funktion er dort genau innehatte, bleibt offen.<zfn>fn17128-1</zfn></fn> den Bullinger mit seinem Brief [nicht erhalten]
+<fn>Dabei kann es sich nicht um Bullingers Brief <qv>nr2859</qv> handeln, der erst am Vortag geschrieben wurde, St. Gallen also noch nicht erreicht haben konnte.</fn> empfohlen hat, gerne behilflicher erwiesen. Schließlich aber hat auch Spitz einsehen müssen, dass seine Erwartungen unrealistisch waren. Den Umständen zufolge hätte er nämlich nach dem kürzlich erfolgten Tod seiner Mutter nicht noch mehr erben können. Diese wurde trotz ihrer großen Armut im Hospiz aufgenommen und dort bis zu ihrem letzten Atemzug drei Monate lang gepflegt und gut ernährt. Zuvor hatte sie ihren Hausrat aufgelöst, um nicht mit ganz leeren Händen im Hospiz aufgenommen werden zu müssen. Dennoch hatte sie ihrem Sohn vier Gulden und einen Mantel nach Zürich übermittelt. Für die seiner Mutter erwiesene Fürsorge zeigte sich Spitz letztlich dankbar.</t>
+<t>Die Nachricht über Kurfürst Johann Friedrich von Sachsen ist verbürgt.
+<fn>Vgl. <qv>nr2851</qv>.</fn> Sie wurde durch glaubwürdige Männer ebenfalls den St. Galler Kaufleuten übermittelt. Der Rat ließ aus diesen Briefen eine Aufstellung für den Zürcher Rat anfertigen, die auch Bullinger zum Lesen erhalten wird.</t>
+<t>Jener Martin von Rossem, der von allen Bewohnern der südlichen Niederlande gefürchtet wird, soll von den Bremern und den Hansestädten geschlagen worden sein! Dies soll Landgraf Philipp von Hessen ermutigt haben, den Krieg wieder aufzunehmen.
+<fn>Vgl. <qv>nr2862</qv>,<qv>zl17130-1</qv>.</fn> Auch die süddeutschen Städte freuen sich über die Nachricht und wünschen nichts anderes, als den von den Spaniern verübten Verwüstungen ein Ende zu setzen! Einzig Konstanz macht seinem Namen Ehre. Auch hofft man immer noch Gutes vonseiten Straßburgs. Der alte Herzog Ulrich von Württemberg hingegen ist vor Kaiser Karl V. in die Knie gegangen. Mögen sich bald Männer erheben, die den angeborenen Mut der Deutschen wiederherstellen!</t>
+<t>Martin Frecht schrieb nur kurz [aus Ulm]. Auch wenn er sich dabei angesichts der vielen Spione mit Vorsicht und Zurückhaltung äußerte, erwies er sich immer noch voller Hoffnung. Er lässt grüßen und empfiehlt sich Bullinger wärmstens.</t>
+<t>Vadian liest mit Vergnügen die [ihm von Bullinger zugesandte] Schrift aus Köln.
+<fn>Wohl eine der von Peter Medmann an Bullinger gesandten Schriften; s. dazu <qv>nr2793</qv>, <qv>fn17061-1</qv>.</fn> Wie mutig ist doch dieser ehrwürdige greise Erzbischof Hermann von Wied! Er ist wohl der einzige Deutsche, dem es gebührt, als apostolischer Nachfolger bezeichnet zu werden. Der Herr bewahre ihn für bessere Zeiten!</t>
+<t>Gruß. Vadian wird die Schrift [aus Köln] zurücksenden, sobald er sie fertig gelesen hat. Er kann sie nicht in einem Zug lesen, da er ständig durch Amtsaufgaben unterbrochen wird.
+<fn>Im Jahre 1547 war Vadian erneut Bürgermeister; s.<a>Gamper, Vadian</a> 187f.<zfn>fn17128-2</zfn></fn></t></re> <textweg>
+<div>
+<p>S. P. D. Chalcographo, quem tu mihi tuis in literis commendasti, libenter fuissem gratificatus, si ullo modo potuissem. Verum ipsemet coram expertus est a nescio quo eximie sibi esse illusum spe magnae haereditatis proposita a matre videlicet relictae, quae extremae tamen egestatis intuitu in hospitale nostrum excepta, et liberaliter quidem prope tribus mensibus, quam voluit, exquisita luculentaque alimonia adusque supremum halitum fota et tractata est. Distraxit ipsa suppellectilis suae partem, ne vacuis prorsus manibus acciperetur, quatuor interim aureis Tigurum filio missis, et tunica quoque, quam quinque puto aureis aestimavit. Ea de re et ipse Spitzius, quicquid ei negatum est, tam urgentibus de caussis consulit boni, et agnoscit, plurimum beneficii nostrorum commiseratione in dulcissimam matrem esse collatum.</p>
+</div>
+<div>
+<p>De victoria principis electoris
+<fn>Johann Friedrich I. von Sachsen siegte am 2. März bei Rochlitz gegen Moritz.</fn> certum est, et recentibus literis a viris honestissimis nostri mercatores rem ipsam, ut obtigit, acceperunt, quarum compendium senatus noster Tigurino senatui summisit, quod et tibi, ut legas, dabitur.</p>
+</div>
+<div>
+<p>Est et Rossensis ille Martinus
+<fn>Martin von Rossem.</fn>, qui Belgis hactenus omnibus terrori fuit, a Premensibus
+<fn>Bremen.</fn> et urbibus Germanicis maritimis magna clade profligatus, unde et Hessum
+<fn>Phlipp von Hessen.</fn> animum resumpsisse et instruere se ad bellum sustinendum fertur. Arrigere autem et urbes aures dicuntur nec aliud cupere magis, quam dira illa Hispanorum hominum panolethria sublevari. Sola interim Constantia et laudem et praemium constanti{e} feret. De Argentorato bene speratur; sed senem illum Wirtenbergensem
+<fn>Ulrich von Württemberg.</fn> caesaris
+<fn>Karl V.</fn> genua osculatum esse ferunt. Utinam sint, qui avitam Germani{e} virtutem postliminio revocatam gloriose vindicent!</p>
+</div>
+<div>
+<p>Frechtus schedam potius quam epistolam dedit
+<fn>16. Februar/20. März (Vadian BW VI 598-601, Nr. 1518).</fn>, spei plenam, sed trepide tamen circumspectam et solita carentem libertate, quod mirum non est in tanto Corycaeorum coetu. Iubet tamen, te cum tuis omnibus salvere, et in tuorum albo censeri summopere cupit.</p>
+</div>
+<div>
+<p>Librum istum e Colonia missum lego libenter et gaudeo, in adversis tanta cum asseveratione gloriae Christi persistere senem illum et vere reverendum principem episcopum
+<fn>Hermann von Wied.</fn>, quem solum in tota ferme Germania video dignum esse, qui apostolic{e} functionis successor habeatur. Dominus illum conservet incolumem eventibus laetis et auspicatis. Amen.</p>
+</div>
+<div>
+<p>Vale et me ama. Mittam librum, ubi perlegero; continuam enim lectionem crebra mihi negocia non concedunt. S. Galli, nono calendas aprilis anno 1547.</p>
+<un>Tuus Ioachimus Vadianus.</un>
+<lz/>
+<p>[Adresse darunter:] Praestantissimo viro domino Heinrycho Bullingero, clarissimae urbis Tigurinae episcopo, domino et amico sumopere colendo.</p>
+</div> </textweg>
+</brief>

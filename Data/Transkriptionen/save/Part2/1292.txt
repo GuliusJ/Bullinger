@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1292">
+<nr>1292</nr>
+<correspondents>
+	<originator>Benedikt Euander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Kempten (Allgäu)</place>
+	<date>5. August [1539]</date>
+	<note>Der Briefinhalt verweist das Schreiben Euanders eindeutig ins Jahr 1539, in dem der Streit der Kemptener Pfarrer über die Abendmahlslehre (vgl. unten Anm. 4) nach scheinbarer Beruhigung erneut eskalierte
+(vgl. oben Nr. 1220, 5-7, und Nr. 1246, 15f, sowie die Bemerkung über Simprecht Schenck in Bullingers Brief an Grynäus
+vom 12. Dezember, unten Nr. 1335). In den gleichen Zusammenhang (eventuell ins Vorjahr) gehört auch der nur mit einem Tagesdatum
+(18.) versehene Brief Euanders an Pellikan in Zürich ZB, Ms F 47, 249; vgl. auch Euander an Pellikan, 20. November 1539 (Zürich ZB, Ms F 47, 32).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 227 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Die Kopie des Dialoges "Syfrid" von Paul Rasdorfer, die er geschickt hat, ist zwar fehlerhaft, doch Bullinger kann ihr dennoch entnehmen, welche Ungereimtheiten zum Abendmahl die Pfarrer in Kempten täglich auf den Kanzeln von sich geben; sie sind schon wieder derart uneins, daß der Rat kaum Ruhe
+herstellen konnte und sie beinahe entlassen hätte.
+</re>
+<tx>S. Ego tibi nuper misi, doctissime vir, dialogum Pauli
+Rasdorffer, cui titulum indidit Syfrid<f1>Die Schrift scheint nicht mehr erhalten zu sein.<fe>, quem si accepisti,
+id quod minime dubito, certe in aliquibus locis mendosum et
+male scriptum accepisti; nam cum ab eo nullis praecibus
+impetrare possem, ut mihi eius dialogi transcribendi copiam
+faceret, per alium<f1>Unbekannt.<fe> ex ipsius amicis non vulgarem transcribi
+curavi, quo pollicitis stare possem. Qui dum nec Latine
+calleret nec ipsius characteribus assuetus<fx>^#/+in der Vorlage^#/- asuetus.<fe> esset, erravit
+stilo in aliquibus dictionibus, sed ita tamen, ut ipsius et
+prędicatorum nostrorum omnium animum et sententiam, quam
+nunc in eucharistiae negotio tenent<f1>Zum Streit zwischen Anhängern der zwinglischen und der lutherischen Abendmahlsauffassung in Kempten, der im August 1539 zu Simprecht Schencks Entlassung führte, vgl. die in Anm. 1 genannten Briefe sowie Emil ^#/+Schenck,^#/- Simprecht Schenck. Das Lebensbild
+eines schwäbischen Reformators, Darmstadt 1938. - Beiträge zur Geschichte der Familie Schenck, 5, S. 43.<fe>, facile estimare possis,
+licet ista vix sit umbra eius absurditatis, quam quotidie
+magnis vocibus et longissimis orationibus intonant populo.
+Sed ne te hoc lateat: Iam iterum inter se discordant et
+quidem gravius quam unquam antehac, adeo ut hos tumultus
+senatus ipse maximis laboribus vix tandem sedaverit; ita
+erumpit pax, quae non ex spiritu dei conflatur, et exilium,
+quod mihi et aliis interminabantur, pene ipsis usu venisset<fx>^#/+von^#/- et exilium ^#/+bis^#/- venisset ^#/+am Rande nachgetragen.^#/-<fe>.
+^$Vale.
+^$Cambidoni, 5. augusti.
+<un>Benedictus Euander tuus.
+<lz>[Adresse auf der Rückseite:] Pietate atque
+eruditione eximio viro magistro Heinricho<fx>^#/+in der Vorlage^#/- Heimricho.<fe> Bullingero,
+contionatori Tigurino primario, domino suo colendissimo.
+</content>
+</letter>

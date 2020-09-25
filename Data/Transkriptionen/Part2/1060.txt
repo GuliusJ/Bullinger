@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1060">
+<nr>1060</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Guillaume Farel</addressee>
+	<addressee>Johannes Calvin</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>1. November 1537</date>
+</space_time>
+<vo>Autographes Konzept: Zürich StA, E II 369, 69 (Siegelspur)</vo>
+<dr>[Gedruckt: Corr. des réformateurs IV 309-311, Nr. 665; CO X/2 127f, Nr. 80.]</dr>
+<re>Daß er nicht früher schrieb, soll sie nicht an seiner Wertschätzung zweifeln lassen. Lobt das von ihnen übersandte Bekenntnis zur Trinitätslehre; in Zürich hat man Carolis wahres Wesen erkannt und seinen Verdächtigungen nie geglaubt, auch die Berner Pfarrer haben mehrfach über die Angelegenheit
+berichtet. Empfiehlt die Briefüberbringer, Studenten aus England, und bittet, ihnen eine Unterkunft zu verschaffen. Sie sind wohlhabend: Nicholas Eliott studiert mit einem königlichen Stipendium, John Butler und Nicholas Partridge auf eigene Kosten.
+</re>
+<tx>
+</content>
+</letter>

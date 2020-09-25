@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1209">
+<nr>1209</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Fries</addressee>
+	<addressee>dessen Ehefrau [Elisabeth</addressee>
+	<addressee fn=1>geb. Schittli ]</addressee>
+	<note fn=1>Elisabeth Schittli (Schitlin, Scheitlin), von St. Germain, gest. 1586, heiratete am 27. Dezember 1538 Johannes Fries; s. Zürich ZB, Ms E 17, 293v., und E 54, 576. ^&xNicht in Ehe- u. Totenbüchern; nichts in St. Germain
+(Auskunft Dr. Ziegler an Dr. Bührer).^&x{</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[um 27. Dezember 1538]</date>
+	<note>Das Datum ergibt sich daraus, daß es sich um Bemerkungen zur Hochzeitsgabe handelt (vgl. unten Z. 1). Bullinger schreibt "1539" (Z. 38), weil er das neue Jahr mit Weihnachten beginnen läßt.</note>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms T 406, 17 (ohne Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 45, 147 (nach Simler: 1538)</vo>
+<dr>Ungedruckt</dr>
+<re>Leitsätze über die Ehe, ausgehend von ihrer Einsetzung bzw. der Erschaffung des ersten Menschenpaares [Gen 2], als Erläuterung zu einem [Hochzeits-]Geschenk.</re>
+<tx>Explicatio muneris<fx>^#/+Titel auf der Außenseite des gefalteten Blattes. Vermerk von späterer Hand: ^#/-No. 2.<fe><f1>Über die Art der Hochzeitsgabe ist nichts bekannt; zu denken ist vielleicht an eine bildliche Darstellung der Erschaffung von Adam und Eva.<fe>.
+^$Alle ständ sind usset<f1>außerhalb.<fe> dem paradys, nach dem faal und in der harttseligheyt<f1>Mühsal.<fe> uffgesetzt;
+alein die heilig ee ist vor dem faal in allem wolstand des menschen yngesetzt, nitt durch die engel oder sust heilige
+diener gottes, sunder durch gott selbs.
+^$Der herr sprach: "Es ist nitt guͦt, das der mensch alein
+sye, ich muͦß imm ein ghilffen machen, der by imm sye" [Gen 2, 18]. Dorumb die ee dem menschen von gott zuͦ trost und
+hilff und nitt, sin fröüd und ruͦw ze betruͤben, geordnet ist.
+^$Zwey und nitt mee in der ee söllend ein lib sin<f1>Vgl. Gen 2, 24.<fe> und unzertrennlich einandren anhangen und lieb haben.
+Dann der herr den man von der erden<f1>Vgl. Gen 2, 7.<fe> und das wyb uß dem ripp siner syten<f1>Vgl. Gen 2, 21.<fe>, nitt als
+er wachet, sunder do er schlieff<f1>Vgl. ebd.<fe>, gestaltet hat.
+^$Des wybs uffsähen<f1>etwa im Sinne von: Beistand (vgl. SI VII 549-551).<fe>, trost, krafft und stercke sol der mann sin. Dann
+sy dorumb uß des manns gepein gemachet ist. Hinder dem man und one sin wüssen sol sy träfflicher sachen<f1>in gewichtigen
+Dingen.<fe> nützid fürnemmen. Sy ist das blöder gschirr<f1>schwächere Gefäß (vgl. SI VIII 1158f).<fe>, von der
+syten des mans und nitt vomm houpt genommen.
+^$Der mann ist das houpt, das wie imm houpt alle vernunfft und
+fürsorg ist für den gantzen lib, also sol der man mitt
+vernunfft by dem wyb whonen und sy mitt wyßheyt in
+früntligheit leyten. Das wyb ist von der syten und von
+dem hertzen genommen und nitt an fuͤssen uffgeläsen.
+^$Das wyb ist nitt uß dem kadt der erden<f1>Erde vom Erdboden.<fe> gemacht, sunder uß des mans syten und gepein, das
+sy zuͦ iro ursprung tringen<f1>drängen.<fe> und den lieben sol. Herwiderumb sol der man ouch das wyb alls sin eigen fleisch
+und das sin lieben und dem sinen trüwlich nachleben.
+^$Hie aber sol nitt angesähen werden die schöne<f1>Schönheit.<fe> und gstallt, wie joch<f1>auch.<fe> die sye, sunder das sol in
+der ee betrachtet werden, das ye eins des<fx>^#/+in der Vorlage^#/- das.<fe>anderen fleisch und gepein ist und das sy
+beide ein lib sind. Dann hierumb ward das wyb vom schlaffend und nitt wachenden man gebuwen.
+^$Hierumb söllend sy wol bedencken das wort des herren:
+"Dorumb sol der mensch vatter und muͦter verlassen und
+sinem gmahel anhangen" [Gen 2, 24], und das s[anct] Paulus den eelüten die höchsten liebe fürbildet<f1>vor Augen stellt.<fe>,
+die liebe Christi und der kylchen, da sich yedes für das ander in todt gipt<f1>Vgl. Eph 5, 25.<fe>.
+^$Dorumb kan fürohin niemands frömbd und nüw beduncken, das
+Paulus so vertröst<f1>seiner Sache sicher.<fe> sagt: "Die ee ist
+eerlich by jederman, und die eelichen werck sind nitt sünd. Die huͦrer aber und eebrecher wirt gott plagen" [Hebr 13, 4].
+<un>H. B.
+<un>1539.
+<lz>[Adresse darunter:] M. Johansen Fryesen unnd sinem
+gemahel.
+^&x Eine an Fries gesandte Spruchsammlung, kein eigentlicher Brief. ^&x{
+^&x DEFINITIVE DATEN FÜR BULLINGER-BRIEFWECHSEL Bd. 9
+(ab Seite 27) ^&x{
+^&^&^&-27^&^&^&{
+</content>
+</letter>

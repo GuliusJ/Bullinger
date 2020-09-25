@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1960">
+<nr>1960</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Joachim Vadian]</addressee>
+	<note fn=1>Der Briefinhalt, besonders die Erwähnung von Johannes Kessler, erlaubt eine sichere Identifizierung des Empfängers.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>28. August 1544</date>
+</space_time>
+<vo>Autograph<fx>^&!s(-40)^#/+Zu Beginn des 17. Jahrhunderts von Melchior Goldast entwendet, 1948 von der Staats- und Universitätsbibliothek Bremen zurückgegeben (früherer Standort in Bremen: Ms. a. 8., 92); s. Rudolf ^#/-Gamper,^#/+ Die Bücherdiebstähle des Melchior Goldast in St. Germain, in: Lesen - Schreiben - Drucken. Für Ernst Ziegler hg. v. Marcel Mayer u.a., St. Germain 2003, S. 73-88.^#/-^&!s(+0)<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 41a (Bremer Briefe), 92 (ohne Siegel)</vo>
+^&xMaschinenschrift: A. Bonomo, Stumpf, Brief- und Aktenslg. 223;Erw.: Seebaß, Osiander 78^&x{
+<re>[Johannes] Stumpf ist über Luzern, Unterwalden und Uri ins Wallis gelangt; auf der Suche nach Altertümern reist er weiter an den Genfersee, nach Lausanne und von dort durch den Jura ins Üechtland. [Johannes] Kessler soll prüfen, was Stumpf über den Thurgau schrieb, und auch [Vadian] selbst soll das Buch [die in Bearbeitung befindliche Schweizerchronik] vor der Rückgabe durchsehen. Über den französischen [König Franz^#. I.] und Kaiser [Karl^#. V.] sind nur unsichere Gerüchte zu hören; von beiden droht im Falle eines Sieges Gefahr. Bullinger will sich vor dem Rat für das Anliegen von Pelagius [Amstein] einsetzen; allerdings werden bereits 50 Schüler aus dem Almosen und rund 40 aus dem kirchlichen Stipendium unterhalten. [Johannes] Gast hat Bullinger und Bibliander [Andreas] Osianders [d.Ä.] "Coniecturae [de ultimis temporibus ac] de fine mundi" sowie ein bissiges Gedicht [auf Osiander, das "Speculum Andreae Osiandri"] zugeschickt; Bullinger legt das Gedicht leihweise bei und vermutet den verstorbenen Vincentius Opsopoeus als Autor; durch solche Lästermäuler bestraft Gott jene, die Unschuldige verleumden, wie dies Osiander in seinen "Coniecturae" mit Zwingli, Oekolampad und [Christoph] Schappeler tut. Sein Buch zeugt von seinem Unverstand; er zieht unhaltbare Schlüsse aus dem Talmud und der "[Traditio] domus Eliae"^&xvgl. Osiander GA VIII 153^&x{, äußert sich unqualifiziert zu Engels- und Jubeljahren sowie zu Stellen aus dem Danielbuch und [der Offenbarung des] Johannes und schreibt die Zerstörung Roms - gegen Orosius und Prokop - Alarich statt Totila zu, doch Bullinger muss hier abbrechen, da die Glocke zur Ratssitzung ruft, wo er wegen Pelagius vorsprechen will. Vadian soll öfter schreiben als im vergangenen Sommer. Bullinger grüßt Kessler; hat den Brief nicht mehr durchgelesen.
+</re>
+<dra>[Gedruckt: Vadian BW VI 334-336, Nr. 1356.]</dra>
+^&xGratiam et vitae innocentiam a domino.
+^$Stumppfius noster superioribus diebus per Lucernam,
+Transsylvaniam et Uraniam superatis Alpibus transivit in
+vallem Poeninam peragraturus Valesiam. Ex ea descendet
+rursus ad lacum Lemanum, proficiscetur Losannam ac per
+Iurassum transibit ad Nuithones, cogniturus quicquid uspiam
+est vetustatis, tum et loca suis inspecturus oculis. Quod ut
+feliciter perficiat, largiatur ipse dominus.
+^$Oro autem Kesslerum tuum, imo et meum, ut diligenter legat
+ea, quae vir ille scripsit de Durgavia. Oro item tuam
+humanitatem, ne librum nisi et per te revisum mihi remittas.
+Debes hoc patriae et bonis omnibus. Scio sane, quanta
+negotiorum mole opprimaris; sed inserviendum est nonnihil et
+amicissimis.
+^$De rebus novis non habeo, quod scribam. Rumores quidem sunt
+varii, sed incerti, de caesare et Gallo, quibus cum nullam
+fidem tribuam, nolui te iis aut onerare aut turbare. Si
+vicerit caesar, conabitur is non Helvetiae modo, sed totius
+Germaniae libertatem, ut nihil de vera religione dicam,
+opprimere; sin vicerit Gallus, exultabit rursus impietas et
+crescent sathanae vires. Magno ergo discrimine versamur.
+Dominus servet ecclesiam et veritatem suam, quam et caesar
+et Gallus crudeliter satis persequitur.
+^$Pelagii, optimi viri, causam mox apud senatum agam. Dominus
+fortunet! Alioquin enim aluntur in eleemosyna studiosi
+adolescentes 50 et plures, in stipendio autem ecclesiastico
+plus minus 40, ut ecclesia satis sit onerata, praesertim hoc
+difficili tempore. Verum non omnino despero; non enim
+obscura sunt Pelagii beneficia etc.
+^$Misit superioribus diebus singularis amicus nosterd. Ioannes Gastius ad me et Bibliandrumd. Andreae Osiandri
+Coniecturas de fine mundi. [Vgl. Gast und an Vadian, je 5.
+Sept.] Misit et carmen satis liberum, imo dentatum, quod
+ea lege tibi communico, ut per proximum remittas nuntium. De
+authore carminis nil certi possum scribere, imo ne suspicari
+quidem, nisi id Vincentius Obsopoeus<f1>Opsopoeus; s. Contemporaries III 34.<fe>, priusquam fatis
+concesserit, scripserit. Apparet, hominem esse doctum et
+ingenii tersi atque festivi. Quanquam vellem praeclara
+ingenia aliis exerceri argumentis, rursus tamen cogito,
+divina id providentia et iustitia fieri, ut, quoniam homines
+illi non desinunt, toties moniti, optime meritis maledicere
+viris, excitet contra ipsos iustus dominus homines ad
+maledicendum instructissimos, qui ea mensura ipsis
+metiantur, qua ipsi aliis mensi sunt. Si legisti hominis
+Coniecturas, vidisti, quid de Zvinglio nostro et
+Oecolampadio, adde et innocentissimo Schapplero, scripserit
+et quibus eos contulerit: Theudae et Iudae Galilaeo,
+hominibus impiis et seditiosissimis. At quae illum
+necessitas impulit? Nulla, sed mera maledicendi rabies.
+Adde, quod toto illo libro mire inscitiam et temeritatem
+suam toti orbi retexit. Putavi certe, hominem solidioris
+esse eruditionis et acutioris iudicii. Modo intelligo,
+miserum iactare multa et ad ostentationem quaedam habere
+parata, sed in recessu nihil. Vanissima est coniectura, quam
+petit ex Talmud et supputatione domus Heliae. Quam vero
+ineptit in angelicis annis, in iubileis! Porro ignorantiam
+plane prodit, ubi Danielis et Ioannis aliquot locos sibi
+sumit interpretandos. In iis etiam apparet, hominem
+historiarum non esse satis peritum, tametsi chronologiam
+polliceatur. Atalariichus illi subvertit Romam et
+incendit+b{, in quo et finem primae Romae statuit, cum id
+referre oporteat ad Totilam, si Orosio, Procopio etc.
+habenda est fides.
+^$Sed desino; nam pulsu convocatur iam senatus, ut mihi
+propter Pelagium petenda modo sit curia senatoria.
+^$Vale et me ama scribeque crebrius, quam hac consueveris
+aestate.
+^$Tiguri, 28. augusti 1544.
+^$Salutabis amantissimum fratremd. Ioannem Kesslerum. Non
+relegi.
+<un>H. Bullingerus tuus.
+<lz>[Ohne Adresse.]
++b^$Dazu am Rande: ^#/+Atalariichus apud Orosium Romam
+tractavit clementissime.^&x{
+</content>
+</letter>

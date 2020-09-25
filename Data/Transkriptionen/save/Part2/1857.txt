@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1857">
+<nr>1857</nr>
+<correspondents>
+	<originator>Oswald Pergener</originator>
+	<originator>Onofrius [Herzog]</originator>
+	<originator>Cölestin [Hennig]</originator>
+	<originator>andere an Bullinger Oswald Pergener</originator>
+	<addressee fn=1>Christoph Froschauer</addressee>
+	<note fn=1>Im ersten, lateinischen Teil seines Schreibens (unten Z. 1-32) wendet sich Pergener im Namen einiger Zittauer an Bullinger, Adressat des ganzen Briefs ist jedoch Christoph Froschauer, an den sich der zweite, deutsche Briefteil richtet.</note>
+</correspondents>
+<space_time>
+	<place>Zittau</place>
+	<date>3. März 1544</date>
+</space_time>
+<vo>Autograph Pergeners(?)<fx>^#/+Die Handschrift variiert in den Briefen Pergeners so stark, dass sie nicht einer einzigen Hand zugeschrieben werden kann.^#/-<fe>: Zürich StA, E II 345, 242-245 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 63a^&x{
+<dr>Teildruck<fx>^#/+Der Abdruck (nach der Abschrift in Zürich ZB, Ms S 54, 63a) umfasst nur den ersten, an Bullinger gerichteten Teil des Briefs.^#/-<fe>: Karl Theodor ^#/+Hergang^#/- und [Christian Adolf] ^#/+Peschek,^#/- Briefwechsel Zittauer Ratsherren mit Häuptern der reformirten Kirche zu Zürich im Zeitalter 1541, in: Neues Lausitzisches Magazin 36, 1860, S. 153f Teilübersetzung<fx>^#/+Die Übersetzung beruht auf dem erwähnten Teildruck.^#/-<fe>: E[rnst] A[lwin] ^#/+Seeliger:^#/- Zittauer Freunde der Züricher Reformatoren und der Böhmischen Brüder, in: Zittauer Geschichtsblätter IX/10, 1932, S. 39f</dr>
+<re>Hat zwei Briefe Bullingers wegen Botenmangels und Arbeitsüberlastung im Zusammenhang mit dem Einzug der Türkensteuer noch nicht beantwortet; dass [in Zürich] für sie gebetet wird, erfüllt sie mit Freude, und sie werden Gleiches tun. Wünschen Biblianders [Koranausgabe] zu erhalten, besitzen bereits Bullingers Kommentare zum Matthäus- und Johannesevangelium und warten auf einen solchen zu Lukas. Der Tod schreckt sie nicht, doch sie sind betrübt über den Tod von Leo Jud. In Prag ist der Prediger Václav Mitmánek festgenommen worden, der einst in Paris, Zürich und Basel weilte, sehr gelehrt ist, sich für die Werke [der Zürcher Theologen] interessiert und in Pergeners Haus verkehrt hat; ob er schon freigelassen wurde, wird dieser bald erfahren. Grüße; der "Sängerchor" in Zittau liegt darnieder. [Brief Pergeners an Froschauer:] Dankt für den Brief vom 24. März 1543 und für das Verzeichnis der von ihm gedruckten Bücher; besitzt die meisten der lateinischen Werke außer der neuen Bibel und hofft, die fehlenden noch zu erhalten. Beim Feldzug [Sultan Suleimans I.] in Ungarn kam es im vergangenen Jahr zu keiner Schlacht mit den Truppen [König Ferdinands], doch wurden Stuhlweißenburg und Gran besetzt; [die Oberlausitz] ist nur noch durch Mähren und Schlesien von den Türken getrennt, und angesichts der erfolglosen Gegenmaßnahmen herrscht Verzagtheit. Entschuldigt die Zusammenfassung zweier Briefe; die Briefübermittlung ist schwierig. Gruß und Bitte um Fürbitte.
+</re>
+<tx>Gratia et pax a deo patre et domino nostro Iesu Christo.
+^$Duas abs te accepi litteras<f1>Nicht erhalten.<fe>, christianissime Bullingere, ex
+quibus cognosco animum tuum erga nos benignum. Merito me
+accusabis pigritię, quod tanto tempore responsum non
+dederim; excusabit me primum, quantum poterit, raritas eorum
+hominum, qui litteras Francfordium perferrent, deinde
+nonnihil negotia huius reipublicae. Medio anno impeditus fui
+in exigenda regia pecunia contra Turcam; iam postulatur nova exactio in expeditionem Turcicam.<f1>Zu der von König Ferdinand 1543 und 1544 erhobenen Türkensteuer s. Winfried ^#/+Eberhard,^#/- Monarchie und Widerstand. Zur ständischen Oppositionsbildung im Herrschaftssystem Ferdinands I. in Böhmen, München 1985. - Veröffentlichungen des Collegium Carolinum 54, S. 340-342.<fe> Summo perfundimus gaudio
+apud vos fieri preces pro nobis; idem et nos faciemus.
+^$Librum de legibus deque religione Turcarum, quemd. Bibliander edidit,<f1>Gemeint ist die 1543 bei Johannes Oporin in Basel erschienene lateinische Koranausgabe ("Machumetis, Saracenorum principis, eiusque successorum vitae, doctrinae ac ipse Alcoran ...", VD 16 K 2583-2585. ZV 16001. 18456).<fe> valde desideramus. Habemus dei benignitate commentaria tua in evangelia tum Mathei<f1>HBBibl I 144. Vgl. ferner Pergeners Brief vom 8. Februar 1543, HBBW XIII 73, 9-11.<fe> tum Iohannis<f1>HBBibl I 153.<fe>, eadem et in Lucam expectamus.<f1>Bullingers Kommentar zum Lukasevangelium (HBBibl I 173) erschien erst 1546. Zu ähnlichen Erwartungen s. HBBW XIII 96, 12-14, und unten Nr. 1952, 55 mit Anm. 23. - Bullinger begann am 11. Juni 1542 über dieses Evangelium am Sonntag zu predigen und sollte erst Ende August 1546 damit fertigwerden; s. HBD 30, 29f; 34, 10f.<fe>
+^$Nos hic, qui vestra sedulo legimus scripta, mortem non adeo
+horremus; scimus namque mortem christianorum nihil aliud
+esse nisi permutationem vitę deterioris in longe
+meliorem. Ideo mori christianis nihil aliud est quam mundum
+relinquere, quam ire ad deum, patrem pientissimum. Ob mortem
+Leonis Jud<f1>Leo Jud war bereits am 19. Juni 1542 gestorben; s. HBBW XII 99.<fe> affecti sumus merore, non tamen ethnico, sed vere christiano.
+^$Propter sanctissimum evangelium quidam doctor Wenceslaus
+<vl>243</vl> cognomento Mitnanek<f1>Václav Mitmánek, von Uherský Brod (Mähren), geb. um 1510, gest. 1553 oder später, studierte in Wittenberg (1531), Basel, Paris und Italien, wo er 1540 in Venedig zum Doktor der Theologie promovierte. Er gehörte zunächst der Brüderunität an, wandte sich jedoch dem Luthertum zu und bemühte sich als reformutraquistischer Prediger an der Prager Teynkirche und Konsistoriale um die Gründung einer tschechischen Nationalkirche. 1543 verbannte ihn König Ferdinand; nach seiner heimlichen Rückkehr wurde er Anfang 1544 inhaftiert. Ab dem Sommer dieses Jahres lebte er in Sachsen und Polen im Exil. - Lit.: Kamil ^#/+Krofta,^#/- Doktor Václav Mitmánek. Ein Kapitel aus der tschechischen Reformationsgeschichte, in: Prager Rundschau V/6, 1935, S. 397-421; Jaroslav ^#/+Pánek,^#/- in: OER III 69.<fe> Moravus hisce diebus Pragę coniectus
+est in durissima vincula.<f1>Zu den näheren Umständen s. ^#/+Eberhard,^#/- aaO, S. 377-379.<fe> Predicavit is sincere verbum dei
+Bohemico sermone; Bohemis et Moravis idem est sermo. Fuit is
+Wenceslaus olim Parrisiis et vobiscum Tiguri, Basileę<f1>Mitmánek hatte sich 1533/34 in Basel immatrikuliert (s. Basel, Matrikel II 6, Nr. 29); über einen Besuch in Zürich ist sonst nichts bekannt.<fe> et
+in aliis celebribus locis. Doctiorem hominem in Bohemia nec
+vidi nec audivi. Est et ipse studiosissimus vestrarum
+ęditionum, mihi familiarissimus, qui sepius in his meis
+ediculis mecum contulit de<fx>de ^#/+korrigiert aus^#/- der.<fe> rebus christianis. An liberatus sit, ignoro, sciam autem brevi.
+^$Vale, pientissime Heinriche, cumd. Chuonrado Pellicano,
+Theodoro Bibliandro, Megandro, Erasmo Fabritio<f1>Erasmus Schmid.<fe>, Gvaltero et
+omnibus aliis. Chorus cantorum<f1>Wohl nicht im wörtlichen Sinn zu verstehen. Vgl. "musarum chorus" in HBBW V 28, 24.<fe> apud nos friget.
+^$Datum Zitte, tertio die martii anno etc. 1544.
+<un>Osvaldus Pergenerus,
+<un>Onofrius<f1>Onofrius Herzog.<fe>, Celestinus<f1>Cölestin Hennig.<fe> et
+<un>alii vestri studiosissimi.<fx>^#/+Alle Unterschr.iften von derselben Hand.^#/-<fe>
+<lz>Mein willig und freuntlich dienst zuvor, erbar, hochberumbtter herr, bsonder guetter freundt.
+^$Euer schreyben, den 24ten martii zu Franckfurt gegeben im
+43ten an mich gethan,<f1>Nicht erhalten.<fe> hab ich mit sampt dem gedrucktten
+buchle ader indice aller euer gedrucktten bucher<f1>Index librorum, quos Christophorus Froschouerus Tiguri hactenus suis typis excudit, [Zürich, Christoph Froschauer], 1543 (BZD C 323).<fe> entpfangen und dancke euch aufs höchst solcher
+freuntlichen gunst, die ir alle von Tzurch zu mir armen
+tragt. Den grösten teyl <vl>244</vl> der latinischen bucher hab ich bey
+mir, ausgenommen die itzige newe Biblia<f1>Gemeint ist die 1543 erschienene "Biblia sacrosancta" (BZD C 319f).<fe> und anderß vil mer,
+verhoffe, dieselben auch zubekommen; dann so wir eure bucher
+nicht hetten, wösten wir nichtten zulesen.
+^$Im lande zu Hungern ist der turckisch keyser<f1>Sultan Suleiman^#. I.<fe> im vergangen
+jar eigner person gewest, hat aber keyne schlacht noch
+schermutzel mit den unsern gehaltten, sunder tzwene veste,
+mechtige flecken eingenommen als Stulweissenburg und Gran,<f1>Zur Einnahme von Stuhlweißenburg (Székesfehérvár) und Gran (Esztergom) s. HBBW XIII 271, Anm. 19; bzw. 263, Anm. 32.<fe>
+dieselben mit Turcken und aller notturft wol befestnet und
+besatzt. Gott weis, was auf dis jar gescheen wirt. Es sein
+noch tzwey lande als Merhern<f1>Mähren.<fe> unnd Schlesien ym wege, susten
+wehr der Turck auch unser nagbur. Alles volck ist ser
+vertzagt, mussen grose schatzung und steuer geben; wirtt
+nichtten damit ausgericht, verliren von jar zu jar.
+^$Wellet hierynnen keynen verdrieß haben, das ich beyde
+brieff zusammenn geschriben; wolt euch allen gernn vilmer
+schreyben, so bin ich der potschaft gantz ungewiß, muß
+alletzeit die brieff in frembde stete bestellen, hab nicht
+wol tzeit selber auszureyttenn. <vl>245</vl> Hiemit gehabt euch alle wol
+und bittett gott, unsren herrn, vor uns.
+^$Geben eylent aus Zittau, im marggrafthumb Oberlausatz am Bemischen Gebirge gelegen, den dritten tag martii anno im 44ten.
+<un>Oswalt Pernger etc.,
+<un>stadtschr[eiber] daselbst.
+<lz>[Adresse darunter:] Dem erbarnn, hochberumbtten herrn Cristoffel Froschouer, buchdrucker zu Tzurch etc., meynem gunstigen, liebenn freunde, itzt zu Franckfurt am Mayn. In abwesen seynem verwaltter<f1>Unbekannt.<fe>.
+^&xNachrichten aus beiden Briefen teilt Bullinger am 19. April Vadian mit (vgl. unten Nr. ***; ferner A. Blarer, 18. März).^&x{
+</content>
+</letter>

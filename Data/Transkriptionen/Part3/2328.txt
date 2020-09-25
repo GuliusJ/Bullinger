@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2328">
+<brief>
+<id>16016</id>
+<nr>2328</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 6. Januar 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 154 (Siegelspur); <br/>[Beilage:]
+<fn>Die undatierte und unterschriftslose Beilage gehört nicht, wie Schieß vermutete, zu Blarers Brief vom 24. Dezember 1545 (<a>HBBW</a> XV, Nr. 2309), da Blarer dort (Z. 9-12) noch keine Nachrichten vom Frankfurter Bundestag vermelden konnte, wohl aber in der vorliegenden Beilage (Z. <qv>zl2328-1</qv>). Die übermittelten Nachrichten, die übereinstimmende Schrift und Tinte sowie die Faltungen des Briefes und der Beilage beweisen die Zusammengehörigkeit dieser zwei Dokumente. - Die Nachrichten wurden offensichtlich kurz nach Blarers Empfang von Frölichs Brief und vor der Abfassung des vorliegenden Briefes niedergeschrieben; vgl. unten Z. <qv>zl2328-1</qv> mit Z. <qv>zl2328-4</qv>. <qv>zl2328-5</qv>.</fn> E II 357a, 637</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 406f, <br/>Nr. 1238 (Brief); 402f, Nr. 1233 (Beilage)<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 17; Zit.: Imm. Kammerer, Die Reformation in Isny 1531, Isny 1931, 32f</k></dr>
+<re>Blarer leitet einen Brief von [Georg] Frölich [<a>HBBW</a> XV, Nr. 2313] weiter. Statt auf Bullingers Brief [<qv>nr2319</qv>] zu antworten, kann er jetzt nur auf ein Versehen in seinem letzten Brief [<a>HBBW</a> XV, Nr. 2316] hinweisen: Nicht [Joachim] Mötteli [vom Rappenstein], sondern Wilhelm von Peyer, Vogt des [Konstanzer] Bischofs [Johann von Weeze] in Gottlieben, hat vom geänderten Umgang der [Zürcher] mit den Söldnern berichtet. Mötteli und der [Konstanzer] Arzt [Johann Jakob] Menlishofer waren nur anwesend.
+<t/>[Am 5. Januar] erhielt Blarer einen Brief von seinem Bruder [Thomas Blarer] über die mangelnden Fortschritte [am Bundestag zu Frankfurt]. [Thomas Blarer] weiß noch nicht, wann er [nach Konstanz] zurückkommt. Er schreibt, dass [aufgrund] des Todes des Trierer Bischofs [Johann IV. Ludwig von Hagen] nun [Johann] von Naves [in Trier] sei. Auch schickte er dem Rat [von Konstanz] ein Gutachten von Philipp [Melanchthon], [Johannes] Bugenhagen und Luther, welches jedoch der Rat noch nicht verlesen ließ; Blarer bekommt es vielleicht zu sehen und würde dann auch Bullinger informieren. [Thomas Blarer] hat nichts über das [Zweite Regensburger Religions]gespräch mitzuteilen, außer dass [Johannes] Brenz in Regensburg eine Zeitlang allein war und auf die anderen Teilnehmer warten musste, von denen bisher [Erhard] Schnepf und Balthasar von Gültlingen eingetroffen sind.
+<t/>Dies in Eile wegen des Boten [...]. Grüße.
+<t/>[P.S.:] Die von Isny haben Benedikt Burgauer, der in Bern als strenger Lutheraner bekannt war, zum Pfarrer gewählt. Dieser gewagte Entscheid verstimmt Blarer wie kaum etwas anderes seit vielen Jahren.
+<t/>[Beilage:] Aus Augsburg wird Folgendes berichtet: In England haben König [Heinrich VIII.] und das Parlament beschlossen, dass alle kirchlichen Güter der Krone gehören, was die Geistlichen bewilligt haben mit der Bitte, der König möge wenigstens ihren Unterhalt gewähren. Das Gesetz ordnet auch die Verbannung des Papstes und seiner Anhänger aus dem Königreich an. Zudem plant man eine Kirchenreform und die Abschaffung der Messe.
+<t/>Die Gesandten [des Schmalkaldischen Bunds] verhandeln weiterhin über einen Frieden zwischen [Heinrich VIII.] und [Franz I.] und sind zuversichtlich. England und Frankreich bieten [dem Schmalkaldischen Bund] ein Abkommen und finanzielle Unterstützung an. Dies wird Papst [Paul III.] am Konzil [zu Trient] wohl erfreuen!
+<t/>[Suleiman I.] hat einen langfristigen Frieden noch nicht bewilligt. Es soll erst dazu kommen, wenn [Karl V.] Mailand an [Franz I.] abtritt. Das kann noch lange dauern!
+<t/>[Karl V.] ist verlegen und weiß nicht, wie er sein Versprechen, [die Protestanten anzugreifen], gegenüber dem Papst halten soll, so dass man wohl bald von einem Frieden und der [Neubesetzung] des Kammergerichts hören wird.
+<t/>[Am Bundestag] zu Frankfurt steht es gut. Blarer hofft auf die baldige Verlängerung des [Schmalkaldischen Bundes].
+<t/>[Georg] Frölich schreibt Ähnliches und lässt grüßen.</re>
+<text>
+<p>S. Mitto literas, quas a L{e}to accepi
+<fn>Georg Frölichs Brief an Bullinger vom 25. Dezember 1545 (<a>HBBW</a> XV, Nr. 2313).</fn>. <zzl>zl2328-4A</zzl>Ad tuas
+<fn><qv>nr2319</qv>.</fn> nihil nunc possum<zzl>zl2328-4E</zzl>, nisi quod admissi erroris in proximis meis
+<fn><a>HBBW</a> XV, Nr. 2316 vom 30. Dezember 1545.</fn> ad te literis admoneo. <zzl>zl2328-3A</zzl>Non enim Metellus
+<fn>Vogtherr Joachim Mötteli vom Rappenstein.</fn> is fuit, qui de vestris, quod de militibus decretum mutarint, iactavit,
+<fn>Vgl. <qv>nr2319</qv>,<qv>zl2319-1</qv>.</fn> sed episcopi nostri
+<fn>Johann von Weeze.</fn> praefectus apud Gottlieben, cui Gulielmo a Payer nomen est
+<fa><i>Randbemerkung von Blarer:</i> [Wil]halm von Payer.</fa>
+<fn>Wilhelm von Peyer, der schon 1536 als Vogt zu Gottlieben (Kt. Thurgau) erwähnt wird; s. <a>EA</a> IV/1c 752.</fn>. Praesente tamen Metello istuc affirmavit audiente medico nostro Menlishofero
+<fn>Johann Jakob Menlishofer d.J.</fn>. Corriges igitur errorem apud eos, quibus forte hoc indicasti.<zzl>zl2328-3E</zzl></p>
+<p><zzl>zl2328-2A</zzl>Literas heri a fratre
+<fn>Ein Brief von Thomas Blarer an Ambrosius Blarer findet sich nicht in <a>Blarer BW</a>. Erhalten ist aber ein Brief Thomas Blarers mit ähnlichen Informationen vom 28. Dezember 1545, den er vom Bundestag zu Frankfurt an den Rat von Konstanz schrieb und der am 4. Januar 1546 in Konstanz eintraf; s. <a>Fabian, Quellen</a> 202-210, Nr. 31.</fn> accepi, qui nihil aliud, quam quod respublica religionis nostr{e} ita illic agatur lente, ut, que extant, {e}molumenta vix {e}quiparent t{e}dium. Nihil certi pollicetur de reditu. Praeterea de morte episcopi Treverensis
+<fn>Diese von Thomas Blarer übermittelte Nachricht (<a>Fabian, Quellen</a> 207f) ist falsch. Johann IV. Ludwig von Hagen starb nach längerer Krankheit am 28. März 1547; s. <a>ADB</a> XIV 424. - Vgl. <a>HBBW</a> XV 616 und Anm. 13. 618,17f.</fn> scribit atque ibi
+<fn>In Trier; s. <a>Fabian, Quellen</a> 208.</fn> nunc d. a Navis
+<fn>Reichsvizekanzler Johann von Naves. Zu seinem Aufenthalt in Trier s. <a>Neudecker</a> 649.</fn>, ut vocant, esse, pestem caesaris<zzl>zl2328-2E</zzl>
+<fn>Karl V.</fn>. Misit senatui frater consilium Philippi, Pomerani et Lutheri
+<fn>Das Anfang Dezember 1545 verfasste Gutachten von Philipp Melanchthon, Johannes Bugenhagen, Martin Luther, Kaspar Cruciger und Georg Maior zur Erstreckung des Schmalkaldischen Bundes ist abgedruckt in <a>MO</a> V 719-724; Erläuterungen zur Datierung in <a>MBW-Reg</a> IV, Nr. 4084.<zfn>fn2328-1</zfn></fn>; verum senatui nondum lectum est,
+<fn>Die Verlesung vor dem Konstanzer Rat erfolgte erst am 11. Januar, s. <a>Fabian, Quellen</a> 204, Anm. 17.<zfn>fn2328-2</zfn></fn> tanto minus mihi, cui postea fortassis communicabitur. Quod, si quid erit, quod scire te referat, diligenter curabo, ut resciscas. De colloquio
+<fn>Das Zweite Regensburger Religionsgespräch vom 27. Januar bis zum 10. März 1546; s. <a>RTA-JR</a> XVII 38-41; <a>Vogel</a>.<zfn>fn2328-3</zfn></fn> nihil certi habere se affirmat, nisi Brentium
+<fn>Johannes Brenz, Pfarrer von Schwäbisch Hall.</fn> aliquamdiu solum Ratisbon{e} fuisse ac expectasse reliquos, quorum aliqui iam advolarint: Schnepffius
+<fn>Erhard Schnepf, Pfarrer und Professor in Tübingen.</fn> et Balthassar a Gultlingen
+<fn>Der württembergische Hofrat Balthasar von Gültlingen. - Zur protestantischen Gesandtschaft an das Regensburger Religionsgespräch s. <a>HBBW</a> XV 636,30-35.</fn>. Dominus bene vertat, cui me diligentissime commenda.</p>
+<p>H{e}c properiter. <zzl>zl2328-5A</zzl>Nolui enim tabellionem istum
+<fn>Siehe <qv>fn2328-5</qv>.</fn> negligere. Saluta amicos et fratres, inprimis tuam domum. Ich kan gar nichts weyter<zzl>zl2328-5E</zzl>. Es stat in alten rechten.
+<fn>Zu verstehen ist: Alles ist in Ordnung (insofern alles beim Alten bleibt). - Vgl. schon <a>HBBW</a> XIV 589,28; XV 131,20f.</fn></p>
+<p>6. ianuarii 1546.</p>
+<un>Tuus A. Bl.</un>
+<lz/>
+<p>Isnenses istum Benedictum Burgouwer
+<fn>Zur Anstellung Benedikt Burgauers in Isny Ende 1545 anstelle des ursprünglich von Zürich entsandten Konrad Klauser (s. <a>HBBW</a> XV 570, Anm. 5) s. Immanuel <i>Kammerer,</i> Die Reformation in Isny, in: <a>BWKG</a> 53, 1953, S. 40-44.<zfn>fn2328-4</zfn></fn>, qui Bern{e}
+<fn>Gemeint ist an der Berner Disputation vom Januar 1528, an der er teilnahm; s. <a>ABernerRef</a> I 591.</fn> L[utheri] partes strenue, si diis placet, defendit, in pastorem sibi malis profecto auspiciis delegerunt, id quod tam male me habet quam vix quicquam aliud multis iam annis, quod tam temeraria sunt omnia illorum consilia.</p>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Dieser Brief wurde von Blarer durch die Metzger geschickt, s. <qv>nr2330</qv>,<qv>zl2330-1</qv>.<zfn>fn2328-5</zfn></fn></p>
+<lz/>
+<p><vl>E II 357a, 637</vl> [Beilage:]</p>
+<p>Aus Augspurg.
+<fn>Ein Brief solchen Inhalts an Blarer findet sich nicht in <a>Blarer BW</a>.</fn></p>
+<p>Auff gestert sind zytung ausß Engeland kommen, das der k{oe}nig
+<fn>Heinrich VIII.</fn> daselbst mit rath des gantzen parlaments ainhellig erkent und beschlossen habe, das aller gaistlichen g{ue}ter des gantzen konigrichs nieman billicher dann irem herren dem konig z{uo}geh{oe}ren, land, leut und die christelich kirch damitt z{uo} beschirmen. Darin haben och die gaistlichen bewilliget, und allain um ain ehrliche underhaltung ir lebenlang gebetten. Daruff der konig gesagt, er welle sich gepurlich gegen inen halten.
+<fn>Es handelt sich um den sogenannten Chantries Act von Dezember 1545 (Druck in: The Statutes of the Realm. Printed by Command of His Majesty King George the Third, Bd. 3/2, London 1817, S. 988-992: 37 Henry VIII, c. 4), der dem König erlaubte, bei finanziellem Bedarf weitere kirchliche Institutionen aufzulösen. Dieser wurde jedoch bis zu seiner Revision im Jahr 1547 nicht umgesetzt; s. Alec <i>Ryrie,</i> The Gospel and Henry VIII. Evangelicals in the Early English Reformation, Cambridge u.a. 2003, S. 51. 164f.</fn> Es ist ouch in obgedachter des parlaments erkantnuß
+<fn>Beschluss.</fn> offenlich unnd usstruckelich geordnet, das der papst und all sin anhang auss dem konigrich Engeland in ewig zyt verbant sollen sin.
+<fn>Das war allerdings schon mit dem Act of Supremacy von 1536 geschehen.</fn> Man gat ouch mitt ainer kirchenreformation
+<fa><i>In der Vorlage</i> kirchereformation.</fa> und abth{ue}ung der mesß in Engeland um.
+<fn>umgehen: sich mit etwas beschäftigen, planen. - Gemeint ist wohl die Einführung einer Liturgie in englischer Sprache 1544/45; s. <i>Ryrie,</i> aaO, S. 51f.</fn></p>
+<p>Item, der christelichen ainungsverwandten bottschafft ist yetzund in Engelland zwischend dem k{oe}nig und dem Frantzosen
+<fn>Franz I.</fn> frid zemachen; wirdt zum aller erlichesten gehalten, und
+<fn>Zu ergänzen: ist.</fn> g{uo}te hoffnung, die unsren werden den friden finden, welchs nitt yederman gefallen wirt. So beüt
+<fn>bietet.</fn> sich Engelland und Franckrich an, mitt den unsren verstand
+<fn>ein Abkommen.</fn> zemachen und ain summa gellts z{uo} unß zelegen.
+<fn>Zu den seit Ende November 1545 stattfindenden Verhandlungen zwischen England und Frankreich unter Leitung der deutschen Protestanten s. <a>HBBW</a> XV 618, Anm. 27. Zu diesem Zeitpunkt waren die Verhandlungen jedoch schon gescheitert, wie beide Könige dem Schmalkaldischen Bund in apologetischen Briefen mitteilten; s. <a>Potter</a> 425 mit Anm. 146. Die protestantischen Botschafter verließen aber den Verhandlungsort in der Nähe von Calais erst am 6. Januar 1546; s. Johannes <i>Sleidan,</i> De statu religionis et reipublicae Carolo V. caesare, Genf, Thomas Courteau, 1559, f. 271r. - Weder England noch Frankreich unterstützten die Protestanten im Schmalkaldischen Krieg.<zfn>fn2328-6</zfn></fn> Diß pancketh
+<fn>festliches Gelage. - Hier wohl ironisch und bezogen auf die Nachricht, dass Franz I. und Heinrich VIII. vorhatten, die Protestanten finanziell zu unterstützen.</fn> kompt yetz dem papst
+<fn>Paul III.</fn> uff concilium
+<fn>Das Konzil zu Trient.</fn>. Weren g{uo}t sachen; köndten wirs wol gepruchen.</p>
+<p>Der Turck
+<fn>Sultan Suleiman I.</fn> hat noch kainen friden geben. Es soll aber uff ain jar frid sin,
+<fn>Am 10. November 1545 war ein anderthalbjähriger Friede geschlossen worden; s. <a>HBBW</a> XV 674, Anm. 33.</fn> wann der kaiser dem Frantzosen Mayland gebe, allso das solicher frid noch witlöffig
+<fn>weit entfernt.</fn> ist.
+<fn>Franz I. hatte gehofft, durch eine Vermittlung zwischen den Türken und dem Kaiser von diesem doch noch Mailand zu erhalten, das ihm durch den Tod seines Sohnes Charles II. von Orléans vor der geplanten Hochzeit mit Anna von Österreich wieder entglitten war; s. Johann Wilhelm <i>Zinkeisen,</i> Geschichte des osmanischen Reiches in Europa, Bd. 2: Das Reich auf der Höhe seiner Entwickelung 1453-1574, Gotha 1854, S. 859-884; <a>Lenz</a> III 384; vgl. auch <a>HBBW</a> XIV 462, Anm. 44.</fn></p>
+<p>Die kai. mt. ist gantz irr. Waist nitt, wie sy dem papst das gethon z{uo}sagen
+<fn>Das Versprechen, die Protestanten anzugreifen; s. <a>HBBW</a> XV 367,36f. 368, Anm. 9. 386,75-77. Nr. 2192. 502,32. 507f,33f und Anm. 22.<zfn>fn2328-8</zfn></fn> laisten soll, und ich glob, wir wellen bald zeytung haben, das man unß friden und anordnung
+<fn>Einrichtung.</fn> des chamergrichts anpieten soll.
+<fn>Am Reichstag zu Worms wurde im Juli 1545 beschlossen, die Frage der Neubesetzung und Finanzierung des Reichskammergerichts auf den nächsten Reichstag zu verschieben; s. <a>RTA-JR</a> XVI/1 77. Am Reichstag zu Regensburg 1546 wurde die Sache wieder aufgegriffen (s. <a>RTA-JR</a> XVII 393f, Nr. 58. 408f, Nr. 63. 428f, Nr. 67), jedoch erneut verschoben (s. <a>RTA-JR</a> XVII 522, Nr. 109).<zfn>fn2328-7</zfn></fn></p>
+<p><zzl>zl2328-1A</zzl>Z{uo} Franckfurt steht es in g{uo}ter handlung. Hoff, die christelich ainung
+<fn>Der Schmalkaldische Bund.</fn> s{oe}lle mitt irer erstreckung unnd erweyterung bald volzogen sein oder werden.</p>
+<p>Similia scripsit etiam L{e}tus noster<zzl>zl2328-1E</zzl>
+<fn>Nicht in <a>Blarer BW</a>.</fn>, qui se tibi accurate commendat teque plurimum in domino iubet salvere.</p>
+</text>
+</brief>

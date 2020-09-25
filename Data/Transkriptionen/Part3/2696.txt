@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2696">
+<brief>
+<id>16381</id>
+<nr>2696</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-11-27"/>
+<ae>[Ambrosius Blarer an Bullinger
+<fn>Dies geht aus unten <qv>fn16381-1</qv> hervor.</fn>]</ae>
+<od>[Konstanz], 27. November 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 209-212
+<fa><i>In Zürich StA, E II 355, 119f, gibt es von diesem Schreiben eine fast vollständige Abschrift (von derselben unbekannten Hand, die für Bullinger auch Brief <qv>nr2659</qv> abgeschrieben hatte) mit Randbemerkungen von Bullingers Hand, die hier im Apparat verzeichnet werden. Diese Abschrift wurde Bullingers Brief an Myconius vom 11. Dezember 1546 (<qv>nr2713</qv>) beigelegt, wie es die Faltungen und Schnitte beider Dokumente deutlich belegen.</i><zfn>fn16381-1</zfn></fa> (Siegelspur)</vo>
+<dr>Druck: <a>Blarer BW</a> II 532-535, Nr. 1372<k>Abschrift Bullingers [für Myconius, Beilage zu Bullingers Brief an Myconius vom 27. November]: Zürich StA, E II 355, 119ff; Kopie 18. Jh.: Zürich ZB, Ms S 62, 100. == Brief oder nur Neue Zeitung? == </k></dr>
+<re><t>[Aus einem kurz nach dem 4. November
+<fn>Vgl. unten § [8] und [11].</fn> verfassten Bericht
+<fn>Zu den hier geschilderten Ereignissen s. Friedrich Albert von <i>Langenn</i>, Moritz, Herzog und Churfürst zu Sachsen. Eine Darstellung aus dem Zeitalter der Reformation, Teil 1, Leipzig 1841, S. 291-294; <a>Voigt, Moritz</a> 212-216; Erich <i>Brandenburg</i>, Moritz von Sachsen, Bd. 1: Bis zur Wittenberger Kapitulation (1547), Leipzig 1898, S. 493-497.<zfn>fn16381-2</zfn></fn> eines Unbekannten
+<fn>Es handelt sich hier offenbar um einen Auszug aus einem Bericht, der nicht an Blarer gerichtet war. Der Erzähler, der sonst in der Ich-Form schreibt, war Teil einer Gruppe, die er als "wir" bzw. "uns" bezeichnet. Wie aus seinem Bericht hervorgeht, war er mit dem ebenfalls nicht identifizierten Hauptmann von Königsberg an der Eger (Kynšperk nad Ohří, Tschechien) zu Albrecht Graf von Schlick in das böhmischen Lager geritten. Dass sein Bericht nach sukzessiven Abschriften in Blarers Hand gelangte, kann zwei Gründe gehabt haben: Entweder wurde der Bericht abgefangen, oder es handelt sich bei dessen Verfasser um einen schmalkaldischen Spion.<zfn>fn16381-3</zfn></fn>:]"Die Böhmen haben am 23. Oktober die bei [Sankt] Joachimsthal
+<fn>Jáchymov, Böhmen (Tschechien), das damals wie die beiden folgenden Orte zum Herrschaftsgebiet Kurfürst Johann Friedrichs I. von Sachsen gehörte.</fn> gelegenen Orte Gottesgab
+<fn>Boží Dar, Böhmen (Tschechien).</fn> und Platten
+<fn>Horní Blatná, Böhmen (Tschechien).</fn> eingenommen.</t>
+<t>Am Samstag den 30. Oktober gegen Mittag hat Albrecht [Graf von] Schlick
+<fn>Albrecht Graf von Schlick (gest. 1554), Graf zu Passaun (Bassano) und Weißkirchen; Landeskämmerer König Ferdinands I. in Böhmen sowie böhmischer Landvogt in der Niederlausitz. Am 5. Oktober wurde gemeldet, dass Schlick "mit etzlich hundert pferden zu felde liegt, der meinung der Doberlin [das zu Böhmen gehörende Kloster Dobrilugk, welches Kurfürst Johann Friedrich von Sachsen 1541 hatte besetzen lassen; s. Winfried <i>Töpler</i>, Das Kloster Neuzelle und die weltlichen und geistlichen Mächte 1268-1817, Berlin 2003 - Studien zur Geschichte, Kunst und Kultur der Zisterzienser 14, S. 125] einzunehmen" (<a>Moritz von Sachsen PK</a> II/2 845, Nr. 1013). Laut <i>Langenn</i>, aaO, S. 288, sollte Sachsen von drei Seiten angegriffen werden, wobei von Schlick einen der drei Heereszüge anführte.<zfn>fn16381-4</zfn></fn> als Anführer die eine Viertelmeile
+<fn>Also etwa 2,5 bis 3 km angesichts der Tatsache, dass der Berichterstatter zwischen Adorf und Plauen mit etwa 2 Meilen rechnet; s. unten bei <qv>fn16381-8</qv>. Sein Meilenbegriff wird also der in <a>Zedler</a> XX 307 belegten großen sächsischen Meile entsprochen haben, die etwa aus 5'000 Schritten bestand, d.h. aus etwa 10'000 m (zur ungefähren Schrittlänge s. Hans <i>Kleinn,</i> Maßstäbe und Maßstabsberechnungen alter Karten, in: Kartenhistorisches Colloquium Bayreuth '82, hg. v. Wolfgang Scharfe, Hans Vollet und Erwin Herrmann, Berlin 1983, S. 71). - Wir danken Kurt Jakob Rüetschi, uns auf den Aufsatz von Kleinn aufmerksam gemacht zu haben.<zfn>fn16381-9</zfn></fn> von unserem Aufenthaltsort entfernten, bei Markneukirchen
+<fn>Markneukirchen, Vogtlandkreis, Sachsen.</fn> gelegenen Dörfer Landwüst und Siebenbrunn
+<fn>Beide Dörfer sind heute Ortsteile von Markneukirchen.</fn> mit Husaren und einem Reitergeschwader aus dem böhmischen Lager angegriffen und abgebrannt. Danach zog er auf Adorf
+<fn>Adorf/Vogtland, Vogtlandkreis, Sachsen. - Zu den Ereignissen s. <i>Voigt</i>, aaO, S. 213-215; <a>Moritz von Sachsen PK</a> II/2 913-916, Nr. 1049. - Laut Erich <i>Brandenburg</i>, aaO, S. 494, soll Adorf am hier angeführten Tag nicht vom Grafen von Schlick, sondern von dem böhmischen Truppenführer Sebastian von Weitmühl angegriffen worden sein.<zfn>fn16381-5</zfn></fn>, das sich ergab. Während in anderen Dörfern je drei bis vier Bauernhöfe niedergebrannt wurden, waren es in Adorf nur zwei Scheunen. Allerdings wurde innerhalb einer Meile alles geplündert und zerstört. Die Leute des Kurfürsten [Johann Friedrich von Sachsen] hatten den Überfall nicht erwartet und daher auch nichts versteckt, so dass Pferde, Vieh sowie Geld und viel anderes aus Kirchen und Häusern entwendet wurde. Am Abend wurden von den Angreifern an die 400 Kühe nach Schönbach [bei Asch]
+<fn>Krásná, Böhmen (Tschechien). - Angesichts der sonstigen Angaben dieses Briefes wird hier kaum von dem östlicher gelegenen Schönbach/Luby (ebenfalls im böhmischen Vogtland) die Rede sein, zumal die Angreifer sich wohl so schnell wie möglich auf böhmisches Territorium zurückgezogen und nicht die ganze sächsische Enklave durchquert haben werden.</fn> geführt, um diese am Morgen darauf in das anderthalb Meilen von uns entfernte bei [der] Eger
+<fn>Angesichts der hier angegebenen Distanzen (falls diese etwa stimmen sollten - s. dazu oben <qv>fn16381-9</qv>), kann es sich dabei weder um das Städtchen Eger (Cheb; Karlovarský kraj, Tschechien) noch um die Eger handeln, sondern um einen ihrer Zuflüsse oder, noch wahrscheinlicher, um ein sonstiges Gewässer (etwa die Weiße Elster?), so dass das böhmische Lager sich vielleicht bei Wernersreuth (Vernéřov), etwa 15 km südwestlich von Markneukirchen, befand und der Berichterstatter etwa 2 bis 3 km südwestlich von Markneukirchen gelegen haben wird.<zfn>fn16381-6</zfn></fn> gelegene Lager zu treiben.</t>
+<t>Am Montag den 1. November rückte das böhmische Heer erneut auf Adorf zu, das nämlich am Vorabend [von den kursächsischen Truppen] unter Wolf von Gräfendorf
+<fn>Wolf von Gräfendorf, kursächsischer Amtmann in Plauen und Feldhauptmann für das Vogtland. - Laut <i>Voigt</i>, aaO, S. 213f, soll am 31. Oktober die Rückeroberung nicht unter Gräfendorf, sondern unter einem seiner Hauptleute, nämlich Erhard Zölchner oder Sollinger, erfolgt sein.<zfn>fn16381-7</zfn></fn>, dem Hauptmann von Plauen, mit 300 Reitern und 6 Fähnlein zurückerobert worden war. Als die Böhmen merkten, dass Gräfendorf auf einer Anhöhe unweit von Adorf Stellung bezogen hatte, bildeten sie aus ihren 200 Husaren und einem Reitergeschwader drei Gruppen und griffen die Kurfürstlichen von drei Seiten an, woraufhin diese flohen. 300 bis 400 Mann ihrer Besatzung wurden umgebracht; die nackten Leichname haben wir am Tag darauf am Kampfort liegen gesehen, als der Hauptmann [...] von Königsberg [an der Eger]
+<fn>Kynšperk nad Ohří, Böhmen (Tschechien).</fn>, der neben den Husaren ein eigenes Reitergeschwader anführt, mit mir zu Graf Schlick (mit dem er schon gemeinsam gekämpft hat) geritten ist. Von den Böhmen und Husaren wurden weniger als 10 Männer getötet; von den Reitern des Kurfürsten zwei Hauptleute, nämlich Hans Wilhelm von Weißenbach aus Helmsgrün
+<fn>Heute Ortsteil von Pöhl, Vogtlandkreis, Sachsen.</fn> und ein Adeliger namens Adam Weder, Fähnrich des Reitergeschwaders. Wer sonst noch umgekommen ist, konnten wir in der Eile nicht erfahren und auch nicht erkennen, da alle Toten unbekleidet herumlagen. Die meisten Opfer waren auf der Flucht von hinten am Hals oder am Kopf getroffen worden. Auf unserem Weg mussten wir öfters über Tote reiten; die Böhmen fahren sogar mit ihren Wagen über die auf der Straße liegenden Leichen. Etliche kursächsische Reiter sind auf ihrer Flucht auf das zwei Meilen von Adorf entfernte Plauen
+<fn>Plauen (Vogtlandkreis, Sachsen), das etwa 25 km nördlich von Adorf liegt.<zfn>fn16381-8</zfn></fn> geritten. Dort standen 12'000 kampfbereite kurfürstliche Söldner, die aber durch die fliehenden Reiter alle in die Flucht getrieben wurden und dabei sogar ihr Geschütz, ihre Spieße und Rüstungen zurückließen! Am 4. November löste sich die fliehende Truppe auf.</t>
+<t>Oelsnitz
+<fn>Vogtlandkreis, Sachsen.</fn> hat sich am 2. November ergeben. Vier Bürger kamen Graf Schlick auf dem Schlachtfeld mit weißen Stäben [als Zeichen der Kapitulation] und einem [Kapitulations]brief entgegen.</t>
+<t>Am gleichen Tag ist Herzog Moritz [von Sachsen] mit seinem Heer vor Zwickau gezogen. Er steht aufseiten des Königs [Ferdinand I.], wobei sein Volk ganz unwillig in den Krieg zieht.</t>
+<t>Sebastian von Weitmühl ist oberster Befehlshaber [der Böhmen]. Anstelle des Königs hat er dem Kurfürsten den Krieg erklärt.
+<fn>Mit einem Absagebrief vom 20. Oktober; s. <i>Langenn</i>, aaO, S. 288, Anm. 2.</fn> Bei der Kriegserklärung waren auch der böhmische Kanzler [und Burggraf von Meißen, Heinrich IV.] von Plauen und viele böhmische Adelige anwesend.</t>
+<t>Es sind über 2'200
+<fa><i>Im Text über gestrichenem</i> 2'300 <i>nachgetragen.</i></fa> Husaren und Türken
+<fa><i>In E II 355 (s. oben <qv>fn16381-1</qv>) sind die Wörter "Husaren und Türken" von Bullinger unterstrichen und mit einem Zeigehändchen sowie mit dem folgenden Kommentar versehen:</i> Lernend den w{ae}g; lernend lieben Türggen, lernend! <i>- Zur damals oft hergestellten Verbindung zwischen Husaren und Türken s. <qv>nr2699</qv>, <qv>fn16387-1</qv>.</i></fa> und 2'500 andere Reiter im Feld, also insgesamt über 4'000 Kavalleristen und 12'000 Fußsoldaten. Täglich kommen noch weitere Soldaten dazu.</t>
+<t>Am 4. November lag [der böhmische Truppenführer] Wolf Christoph von Liechtenstein mit 130 Reitern vor Schönbach [bei Asch]. Gerade jetzt ziehen 40 Reiter aus Österreich
+<fn>Gemeint sind die habsburgischen Gebiete Ferdinands I.</fn> und Mähren durch. Man erwartet noch weitere Truppen.</t>
+<t>In Eger
+<fn>Cheb, Tschechien.</fn> hat man zwei Klöster für den König geräumt, der dort sein Winterlager einrichten will, damit er besser über das Geschehen informiert werden kann.</t>
+<t>Die Böhmen hatten im Lager bei Landwüst
+<fn>Also in dem Lager, in dem sich der Berichterstatter am 30. Oktober befand; vgl. oben § [2].</fn> 700 Wagen, davon mehr als 60 mit Pulver und viele mit Kriegsmaterial beladen. Auch von Wien traf Geschütz ein, darunter acht große Mauerbrecher
+<fn>Hier als große Kanonen zu verstehen.</fn>, die je von 26 bis 28 Pferden gezogen werden, sowie mehrere Feldgeschütze, die je von 12 bis 14 Pferden gezogen werden. Der Zug hatte eine Gesamtlänge von anderthalb Meilen. Der Zugmeister [...] berichtete, dass die wöchentlichen Ausgaben allein für die Artillerie sich auf 18'000 Florin beziffern.</t>
+<t>Am heutigen Tag hat die Stadt Eger 200 Soldaten zur Verfügung gestellt. Der Adel der Region liefert auch Truppen; ich weiß allerdings nicht, wie viele Fußsoldaten und Kavalleristen. Ferner wird sehr viel Proviant ins Lager gesandt.</t>
+<t>Etliche berichten, dass Hessen und die Hansestädte dem Kurfürsten viele Soldaten zukommen lassen."
+<fa><i>In E II 355 fügt Bullinger unter diesem Bericht folgende Angabe hinzu:</i> Uß dem l{ae}ger Hertzog Moritzen.</fa></t>
+<t>[Blarers Brief:] Aus Augsburg wurde mitgeteilt, dass im ganzen Donautal zwischen dem Gewässer "Müssel"
+<fn>Hier liegt wahrscheinlich ein Fehler vor, der wohl auf eine Fehllesung Blarers der aus Augsburg stammenden Quelle zurückzuführen ist. Möglicherweise ist hier die Mindel gemeint, die etwa parallel zur Schmutter zwischen Günzburg und Lauingen in die Donau mündet.</fn> und dem kaum eine Meile von Augsburg gelegenen Schmuttertal alle der Stadt angehörenden Dörfer geplündert und zerstört wurden. Frauen und Kinder sind mit über 1'000 Wagen, auf die sie die wenigen geretteten Habseligkeiten geladen hatten, in die Stadt geflohen. Die Bauern hat man erstochen, die Reichen gefangen und abgeführt: eine unbeschreiblich jämmerliche Lage! In Augsburg aber befinden sich nicht mehr als 200 Kavalleristen, und wegen des nassen Wetters konnten die Fußsoldaten zwischen dem 7. und etwa dem 15. November nichts gegen die zahlreichen umherstreifenden feindlichen Reiter ausrichten. Möge Gott sich der armen Leute erbarmen!</t>
+<t>Kaiser [Karl V.] handelt auf eigenartige Weise, denn in allen von ihm eingenommen Städten wie Donauwörth, Lauingen, Leipheim
+<fn>Lkr. Günzburg, Bayern.</fn>
+<fa><i>In E II 355 fügt hier Bullinger mit Hilfe eines Verweiszeichens folgende Angabe hinzu:</i> N{oe}rdlingen und Giengen. <i>Mit einem Brief des Konstanzer Rats an den Zürcher Rat vom 4. Dezember (Zürich StA, A 177, Nr. 150) hatte Bullinger noch vor Absendung der für Myconius erstellten Abschrift des vorliegenden Schreibens erfahren, dass sowohl Nördlingen als auch Giengen sich dem Kaiser ergeben hatten.</i></fa> und vielen anderen mehr hat er die Einwohner verschont und die Beibehaltung der evangelischen Predigt erlaubt. Zur Verwaltung dieser Städte hat er treue Männer eingesetzt, damit das schlechte Kriegsgesindel den Einwohnern keinen Schaden zufügen mag. Aus welchem Grund auch immer der Kaiser so handelt, so ist doch Gott dafür zu loben! Auf dem Land und in den Dörfern hingegen ist es schrecklich zugegangen.</t></re> <textweg>
+<div>
+<p>"Die
+<fn>Es handelt sich hier offensichtlich um einen Auszug aus einem anderen Brief, der nicht dringend an Blarer gerichtet gewesen sein muss. Der Berichterstatter muss ein Spion gewesen sein, oder der vorliegende Brief wurde abgefangen.</fn> Bechem habend adi 23. octobers Goggab
+<fn>Gottesgab in Böhmen, heute Boží Dar (Tschechien).</fn> und Platten
+<fn>Platten in Böhmen, heute Horní Blatná.</fn> eingenommen, by Johannstal
+<fn>Sankt Joachimsthal in Böhmen, heute Jáchymov (Tschechien).</fn> gelegen. Am 30. octobers
+<fn>Samstag.</fn> habend die Behem den ersten angriff by unß am 1/4 myl thon. Hat herr Albrecht Schlick
+<fn>Albrecht Graf von Schlick (gest. 1554), Graf zu Passaun (Bassano) und Weißkirchen; Landeskämmerer König Ferdinands I. in Böhmen sowie böhmischer Landvogt in der Niederlausitz. Am 5. Oktober wurde gemeldet, dass Schlick "mit etzlich hundert pferden zu felde liegt, der meinung der Doberlin [das zu Böhmen gehörende Kloster Dobrilugk, das Kurfürst Johann Friedrich von Sachsen 1541 hatte besetzen lassen; s. Winfried <i>Töpler</i>, Das Kloster Neuzelle und die weltlichen und geistlichen Mächte 1268-1817 - Studien zur Geschichte, Kunst und Kultur der Zisterzienser 14, Berlin 2003, S. 125) einzunehmen" (<a>Moritz von Sachsen PK</a> II/2 845, Nr. 1013). Laut von Langenn, Moritz S. 288 sollte Sachsen von drei Seiten angegriffen werden; Schlick leitete dabei eine der drei Heereszüge.</fn> die hussern
+<fn>Husaren aus Ungarn.</fn> gefierth und ain gschwader reyter mitt ausß dem böchemschen leger, und um mittag (das war am sampstag) griffen sy das erst dorff an (haist Laidwytz
+<fn>Landwüst, heute Ortsteil von Markneukirchen, Vogtlandkreis, Sachsen (nahe der Grenze zu Tschechien.</fn>, mehr in der stund ain Marckt Newkirchen
+<fn>Markneukirchen im sächsischen Erzgebirge.</fn>) und ain dorff Sibenbryn
+<fn>Siebenbrunn, heute auch Teil von Markneukirchen.</fn> genannt. Haben die hussern alles geplundert und verbrennt und indem f{uo}hr
+<fn>vor.</fn> das stettlin Attorff
+<fn>Adorf/Vogtland, Vogtlandkreis, Sachsen (D).</fn> genant verruckt
+<fn>begeben.</fn>. Das hat sich uffgeben. Und sind allda nun
+<fn>nur.</fn> zwo scheuren
+<fn>Scheunen.</fn> abprent (sonst in andern d{oe}rffern 3 oder 4 paurnh{oe}f abprent), aber in ainer myl alles geplundert und verderbt worden, dann des churfursten
+<fn>Johann Friedrich I. von Sachsen.</fn> leut haben nitt vermaint, das die findt alls
+<fn>also.</fn> nach kommen sollten. Habend nichts geflöchnet
+<fn>versteckt.</fn>, sonder rosß, vych
+<fn>Vieh.</fn>, gellt unnd anders in den kirchen und heusern zum tail gefunden worden. Dieselbigen nacht prachten die husern und reuter by 400 k{ue} gen Schienbach
+<fn>Schönbach?</fn>. Wolltens morgens dem leger z{uo}triben, 1 1/2 myl von uns, umb Eger gelegen, etc.</p>
+</div>
+<div>
+<p><zzl>zl16381-1A</zzl>Item am montag dem ersten tag novembris da ruckt das böchemisch leger fur
+<fn>vor.</fn> Attorff. Das was
+<fn>war.</fn> in der nacht widerumb umgefallen. Ursach: der hoptman von Plauwen
+<fn>Plauen.</fn>, haist Wolff Gravendorffer
+<fn>Wilhelm oder Wolf von Grefendorf (Gräfendorf), kursächsischer Amtmann in Plauen und Fehdhauptmann für das Vogtland.</fn>, war mitt 300 pferdten und 6 fendlin landtvolck heruff kommen. Hiellt hinder Attorff by 2 ackerlengin wegs davon uff ainer h{oe}chin. Alls die Böchem gewar wurden, machten sy mitt den 200 hussern und aim gschwader reuter 3 hauffen und griffen die churfurstischen an drey orten an. Da gaben sy
+<fn>die Sachsen.</fn> die flucht. Der churfurstischen seind 3 biß in 400 umkomen, die wir deß andern tags uff dem platz hin und her selbs gesechen haben. Sind all nackend usgezogen worden. Der hauptman von Kungsperg
+<fn>Königsberg an der Eger (Kynšperk nad Ohří, Tschechien).</fn> ist mitt mir geritten z{uo} her Albrechten Schlicken. Der f{uo}rt neben den hussern selbs ain gschwader reuter. Ist ouch selbs mitt im
+<fn>Schlicken.</fn> im scharmutz gewesen. Es sind der Behem und hussern nitt 10 umkommen; under des churfursten reuter zwen hoptman mitt nammen Hans Wilhalm von Wissenbach
+<fn>von Weißbach.</fn> von Helmersgrim und der reuterfenderich, ouch ain <vl>210</vl> edelman (haist Adam Weder), etc., sind tod belyben. Wer sonst mehr nammhaffter belyben, haben wir in der yl nitt erfaren kunden, dann die todten all nackend usßgezogen, das wirs nitt erkennen k{oe}nnen. Sind all in der flucht am maisten hinden in die hels und köppf gehauwen worden. Wir m{uo}sten an ettlichen orten im weg mitt den rossen uber sy reyten. Wa
+<fn>wenn.</fn> ouch ainer in der wagenlaiß
+<fn>Wagengeleise.</fn> lag, f{uo}ren die Bechem glich mitt den wegen daruber! Item in der flucht waren ettlich reuter auff Blauwen z{uo} (ist zwo myl wegs davon gewest) kommen. Da waren 12'000 churfurstisch knecht in der schlachtordnung gestanden. Die waren, allsbald die reuter sagten, sy sollten fliechen, von stund an geflochen und das gschütz, spies und wehr dahinden gelassen. Und sind uff 4. ditto der flucht halber aller ding zertrent worden.<zzl>zl16381-1E</zzl></p>
+</div>
+<div>
+<p>Zu Allschnitz
+<fn>Ölsnitz im Vogtland.</fn> hatt sich dasselbig stettlin ergeben uff 2. novembris. Dann es kamen 4 burger mitt wyßen stäblin z{uo} herr Albrecht Schlicken uff der walstatt und brachten ain brieff mitt.</p>
+</div>
+<div>
+<p>Uff 4. ditto ist hertzog Mauritz
+<fn>Moritz von Sachsen.</fn> f{ue}r
+<fn>vor.</fn> Zwickauw mitt seinem hauffen kommen. Ist auch uffs königs
+<fn>Ferdinand.</fn> seyten, wiewol sein volck nitt gern zeucht.</p>
+</div>
+<div>
+<p>Item herr Sebastian von der Weytmiln
+<fn>Sebastian von der Weitmühl.</fn> ist oberster. Der hat an des königs statt dem churfürsten abgesagt, und der bömisch canzler, der von Blauwen
+<fn>Heinrich von Plauen, Burggraf von Meißen und böhmischer Kanzler.</fn>, ist auch daby und sonst vyl bochemscher herren.</p>
+</div>
+<div>
+<p>Der hussern und Turcken sind ob 2'200
+<fa><i>Über gestrichenem 2'300 nachgetragen</i></fa> und der andern reuter ob 2'500, allso das ob 4'000 z{uo} rosß und 12'000 zu f{uo}sß. Und kompt noch all tag vyl volcks darz{uo}.</p>
+</div>
+<div>
+<p>Uff 4. novembris ist herr Wolf Christoph von Liechtenstain
+<fn>Böhmischer Truppenführer.</fn> mitt 130 pferdten zum Schönbach gelegen, und in der stund rytend wider 40 pferdt durch: Osterrich und Mehren. Wart man noch mehr volcks.</p>
+</div>
+<div>
+<p>Item z{uo} Eger hat man zway kloster gerumpt dem konig z{uo} g{uo}t. Der will sin wynterleger da halten, damitt ime die posten bald zukommind.</p>
+</div>
+<div>
+<p><vl>211</vl>Item die Behem hetten im leger oben z{uo} Landwytz
+<fn>Landwüst bei Markneukirchen.</fn> by 700 wegen. Da zellten wir mehr alls 60 wegen pulver. Und ist auch geschutz von Wien kommen, darunder 8 grosser maurbrecheren, da allweg 26 oder 28 roß an ainer ziechen, und ain feldgschutz
+<fn>Kanone. </fn>, des ain g{uo}te summa
+<fn>Summe.</fn> (ich habs nitt alles gesechen, auch mercken können) allweg 12 oder 14 rosß an ainem ziechen, sonst vyl wegen mitt allerley kriegsrüstung. Das hat 1 1/2 myl wegs anainander gewehret. Der zugmaister zaigt mir an, er m{ue}sse all wochen 18'000 florin allain uff die ardlerey
+<fn>Artillerie.</fn> haben.</p>
+</div>
+<div>
+<p>Item uff datum
+<fn>4. november.</fn> schicken die von Eger auch 200 mann; dessglichen der adel hierum. Waiß aber noch nitt, wie vyl z{uo} rosß und f{uo}sß schicken worden; aber sehr vyl proviant geht in das leger.</p>
+</div>
+<div>
+<p><zzl>zl16381-2A</zzl>Item ettlich sagen, wie die Hessen und Seestett
+<fn>Hansestädte.</fn> schicken dem churfursten
+<fn>Johann Friedrich I. von Sachsen.</fn> vyl volck z{uo}."
+<fn>In E II 355 fügt Bullinger unter dieser Zeile folgende Angabe hinzu: Uß dem l{ae}ger Hertzog Moritz[en].</fn><zzl>zl16381-2E</zzl></p>
+</div>
+<div>
+<p>Sonst
+<fn>Hier schreibt wieder Blarer.</fn> bericht man mich von Augspurg
+<fn>Bis dahin wörtlich mitgeteilter Bericht eines, der den krieg auf königlicher Seite mitmachte; das Folgende direkte Nachrichten aus Augsburg.</fn>, wie das gantz Thainauw tal von dem wasser Müssel
+<fn>Müsstl? Verwechslung mit den Donau-Nebenflüssen Mindel oder Ussel.</fn> byß an das Schmuttertal
+<fn>Nebenfluß der Donau, westlich vom Lech.</fn> (ist nun
+<fn>nur.</fn> ain klaine mil wegs von Augspurg), alle dorffer geplundert, verderbt und beraubt seyen (was der burger von Augspurg), alles gar zerrissen und geschlaipfft. Und sind ob tausend wegen
+<fn>Wagen.</fn>, wyb und kind sampt geringenn hausrätlin (wie sy es haben davon bringen mögen), in die statt Augspurg geflochnet, die pauren erstochen, die rychen gefencklich angenommen und hingf{ue}rt, das man mir den jomer nitt gn{uo}g schreiben kan. Dann sy habend z{uo} Augspurg nitt uber 200 pferdt gehapt in der statt. Hat das f{uo}svolck diß wetters a
+<fn>vom.</fn> 7. novembris und acht tag darnach, diewyl es fücht gewesen, nichts aussrichten mögen wider die raisigen find, die mitt grossen rotten gestraifft haben. Gott erbarme sich und seye vatter der armen leut!</p>
+</div>
+<div>
+<p><vl>212</vl>Es
+<fn>In der Abschrift in E II 355 bemerkt Bullinger am Rand ein: Nörlingen und Giengen.</fn> handelt der kaiser
+<fn>Karl V.</fn> sunst wunderbarlich
+<fn>auf merkwürdige Art.</fn>. Dann in allen stettlin, Thainowwerd
+<fn>Donauwörth.</fn>, Laugingen, Lupheim
+<fn>Leipen, Leipheim/Donau.</fn> und anderen vylen, die er ingenommen, hat er nieman laid z{uo}gef{ue}gt, sonder sy aller ding wol beschutzt. Habend noch ire evangelische predig und sind uberal wie vor
+<fn>zuvor.</fn>. Hat in
+<fn>ihnen?</fn> ettlichen leut uber sy verordnet, die ob inn
+<fn>ihnen?</fn> haltind, darmitt sy von dem hudelmansharsch
+<fn>liederlichem Volk oder Heer.</fn> nitt m{uo}twillig geschediget werdind. Sovyl g{uo}tz hat gott disen st{ae}ttlin gundt. Der kaiser th{ue} es gleich ausß was grund er welle,
+<fn>Egal aus welchem Grund der Kaiser so handelt.</fn> ist doch
+<fn>so ist doch.</fn> gott darin hertzlich mitt aller danckbarkait z{uo} lobind. Aber uff dem land und in den dörffern ists ruch z{uo}gangen!</p>
+<p>Datum, 27. tag novembris 1546.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div> </textweg>
+</brief>

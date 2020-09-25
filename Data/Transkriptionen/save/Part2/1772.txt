@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1772">
+<nr>1772</nr>
+<correspondents>
+	<originator fn=1>Hermann Aquilomontanus</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Zu Aquilomontanus s. nun auch Eckart ^#/+Krömer,^#/- in: Biographisches Lexikon für Ostfriesland, hg. im Auftrag des Ostfriesischen Landschaft von Martin Tielke, Aurich 2007, S. 16-18.</note>
+</correspondents>
+<space_time>
+	<place>Emden</place>
+	<date>14. August 1543</date>
+	<note>Der Brief, der zunächst wegen Botenmangels liegen blieb, wurde von Aquilomontanus am 12. März 1544 nochmals geöffnet und mit einer Nachschrift versehen; diese wird im folgenden Briefband separat ediert.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1388r.-1389r. (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 73; Straßburg BNU, Ms 682 (Th. B.
+23), 312r.-313v.; K+U 20. Jh.: Emden BGK, Hs. fol. 37, Nr. 5^&x{
+<dr>Teildrucke: Johann Heinrich ^#/+Ott,^#/- Annales anabaptistici, Basel 1672, S. 100; J[acobus] ten ^#/+Doornkaat Koolman,^#/- De Anabaptisten in Oostfriesland ten tijde van Hermannus Aquilomontanus (1489-1548), in: Nederlands Archief voor Kerkgeschiedenis, NS 46, 1964/65, S. 98</dr>
+<re>Hat Bullingers Brief vom 1. März erhalten. Der brabantisch-klevische Krieg bringt große Teuerung; der
+klevische Herzog [Wilhelm von Jülich] hat mit Gottes Hilfe Amersfoort besetzt und soll auch Breda eingenommen haben, doch
+die Kaiserlichen verfolgen die Kirche auch weiterhin; die Regentin [der Niederlande, Maria von Ungarn] steht unter dem
+Einfluss der Löwener Theologen und hat nach Ostern Besucher [protestantischer] Gottesdienste hinrichten lassen; die
+Theologen ertragen den Widerspruch von Laien nicht. In [Ost-]Friesland, wo die gottesfürchtige [Gräfin Anna] regiert,
+leitet ein frommer Pole [Johannes a Lasco] die Kirche, doch die hier aufgenommenen Täufer aus Belgien erweisen sich als
+halsstarrig und gefährden die Kirche. Freut sich über Bullingers Gesundheit und bedauert den Tod von Leo [Jud],
+dessen Katechismus hier geschätzt wird und dessen Passionshistorie man erwartet hatte; begrüßt die neue
+Bibelausgabe ["Biblia sacrosancta"], die er noch nicht zu Gesicht bekam; hat [Bullingers] Matthäuskommentar gesehen, aber
+noch nicht gelesen; der Johanneskommentar wird von vielen erwartet. Würde sich wünschen, einen seiner drei Söhne zur
+Ausbildung nach Zürich schicken zu können. Bittet um ein gelegentliches Schreiben; ist auf die Werke der Gelehrten und
+besonders Bullingers angewiesen; hat täglich mit den Täufern zu kämpfen; entschuldigt sein verworrenes Schreiben.^&x[Nachtrag:] Hat den wegen Botenmangels liegen gebliebenen Brief geöffnet und
+ergänzt. Kaiser [Karl V.] hat Geldern für sich gewonnen; trotz Friedensschluss mit [Herzog Wilhelm] geht der Krieg gegen
+[König Franz I.] weiter, und vom [Reichs-]Tag [zu Speyer] erwartet man nichts Gutes. Bittet um Stellungnahme zur
+Restitution der Kirchengüter. Bullinger soll öfter schreiben und seine Gesundheit schonen.^&x{
+</re>
+<tx>Salutem.
+^$Tandem literas kalendis martii descriptas<f1>Bullingers Brief vom 1. März 1543 ist nicht erhalten.<fe> 7. iulii Colonia missas accepi, amicorum praestantissime.
+^$Infelix illud bellum Brabanticum cum Clivensi duce<f1>Herzog Wilhelm von Jülich-Kleve-Berg-Geldern.<fe> omnem calamitatem his terris
+inducit, ut vix pauperibus supersit, quod edatur; tanta hic caristia<f1>Teuerung; vgl. Hoven 51.<fe> siliginis. Deus favet nunc Cliven[si] contra domum Burgundicam, que huc­usque
+deum et homines sprevit; sic coguntur agnoscere se homines fore<f1>Vgl. Augustin, De civitate dei, 5, 24, 10-12 (CChr XLVII
+160).<fe> et deum esse. Varia infestant Cliven[ses]. Ceperunt opidum[!] fortissimum in diocesi Traiectensi Amersfort
+nomine,<f1>Zum erneuten Vorstoß des Söldnerführers Martin van Rossem, in dessen Verlauf Amersfoort und Eindhoven eingenommen
+wurden, s. ^#/+Henne^#/- VIII 115f. Die Nachricht findet sich auch in einer um Anfang August von Ambrosius Blarer weitergeleiteten "neuen Zeitung" aus Augsburg; s. Blarer BW II 197, Nr. 1027.<fe> tribus miliaribus a Traiecto Inferiori<f1>Utrecht.<fe>, quod propugnaculis muniunt,
+quibus se tueri satagunt; est enim finibus Gelrie propinquum. Insuper rumor<fx>^#/+Randbemerkung, vermutlich gleichzeitig mit
+der Nachschrift (vgl. Anm. 2) im folgenden Jahr angebracht:^#/- falsus rumor.<fe> constans perseverat Clivensem (qui
+nunc Gelriam moderatur) Bredam valido Marte<f1>mit starker Heeresmacht.<fe> cepisse;<f1>Das Gerücht steht in Zusammenhang
+mit dem oben Anm. 7 erwähnten Vorstoß van Rossems; vgl. auch unten Nr. 1775, 25-27, sowie MBW 3302.<fe> est
+enim<fx>^#/+Nach^#/- enim ^#/+gestrichenes^#/- in.<fe> singulare opidum Brabantie, quod comitatum cum agris subiectis
+merito reddit. Consternati sunt cesariani, cum omnia infeliciter cadant, consiliorum inopes, nec tamen<fx>^#/+In der
+Vorlage^#/- nectamen.<fe> ecclesiam persequi cessant, ne in malis inconstantes reperiantur. Infausta de cesare<f1>Karl
+V.<fe> mussantur; qui<fx>^#/+Vor^#/- qui ^#/+gestrichenes^#/- cum.<fe> eloquuntur, plectuntur capite;<f1>Vgl. auch oben Nr. 1711, 27f.<fe> sic ludimus in hisce regionibus. Lovanienses theologi in instituto
+fortiter perseve­rant neque i[ota] de conceptis mittunt, ut indulgentias, cereas et parentalia post decennium absque rubore
+praedicent. Quid dicam, nisi mortem<fx>mortem ^#/+über der Zeile nachgetragen.^#/-<fe> Pharaonis brevi instare post tantas
+tenebras?<f1>Vgl. Ex 10, 21ff.<fe> Attamen horum cecorum, insanorum consilio ac iuditio omnia regina,<f1>Maria von Ungarn, Statthalterin der
+Niederlande.<fe> cesaris soror, harum regionum gubernatrix, strenue<fx>^#/+In der Vorlage^#/- strennue.<fe> exequitur. A pascate<f1>25. März.<fe> exusti, submersi, vivi confossi
+sunt, qui tamen celebrabant, indies templa visitabant, de quibus nullus habebat, quod mali diceret.<f1>Zum großen Ketzerprozess in Löwen, der im März begann und im Juni mit fünf Todesurteilen endete, s. unten Nr. 1811, 14f mit Anm. 10. Über Ketzerverbrennungen in den Niederlanden im Frühjahr 1543 berichtet auch Bucer in seinen Briefen an Landgraf Philipp von Hessen; s. Lenz II 131. 139.<fe> Quid volo? Insaniunt
+theologi, cum videant eorum gloriam obscurari et a laycis
+argui; sed hec est hora eorum et tenebrarum potestas.<f1>Vgl. Lk 22, 53.<fe>
+^$Hic satis valemus in Phrisia, quae nunc sub optima principe<f1>Gräfin Anna von Ostfriesland, geb. Gräfin von
+Oldenburg, 1501-1575, heiratete 1530 Graf Enno II. Cirksena von Ostfriesland. Nach dessen Tod 1540 übte sie ab 1542 die
+Regentschaft für ihre noch unmündigen Söhne aus. Dass sie 1558 entgegen dem Primogeniturrecht alle drei Söhne vom Kaiser
+belehnen ließ, führte zu einem verhängnisvollen Bruderzwist. Die persönlich der reformierten Richtung zuneigende Gräfin
+verfolgte eine konfessionsneutrale Politik und nahm viele Glaubensflüchtlinge auf, erließ auf Druck des Kaisers allerdings
+auch Mandate gegen die Täufer. 1554 ermahnte Bullinger die Gräfin im Namen der Zürcher Pfarrer zu weiterer Aufnahme
+französischer und englischer Exulanten und zu konsequenter Durchsetzung der Reformation (s. Zürich StA, E II 338, 1499f). -
+Lit.: Heiko ^#/+Ebbel Janssen,^#/- Gräfin Anna von Ostfriesland - eine hochadelige Frau der späten Reformationszeit
+(1540/42-1575). Ein Beitrag zu den Anfängen der reformierten Konfessionalisierung im Reich, Münster 1998. -
+Reformationsgeschichtliche Studien und Texte 138; Henning P. ^#/+Jürgens,^#/- Die vormundschaftliche Regierung der Gräfin Anna
+und die Berufung Johannes a Lascos zum ostfriesischen Superintendenten, in: Emder Jahrbuch 79, 1999, S. 42-65; Heinz
+^#/+Maybaum,^#/- in: NDB I 300f.<fe> vidua deum timente agimus et divino favore nobilem, pium et eruditum virum Polonum<f1>Der
+polnische Adlige Johannes a Lasco (Laski, Lascius, Jan Łaski), 1499-1560, ein Neffe des gleichnamigen polnischen
+Primas, studierte mit dessen Förderung in Rom, Bologna und Padua, bevor er 1521 Priester und königlicher Sekretär wurde.
+1524 begegnete er, inzwischen mit verschiedenen Benefizien versehen, möglicherweise Zwingli, vor allem jedoch Erasmus, bei
+dem er nach der Rückkehr aus Paris 1525 für ein halbes Jahr wohnte und dessen Bibliothek er erwarb. Geprägt durch
+erasmianischen Geist kehrte er nach Polen zurück, wo er u. a. für Johannes Zápolya diplomatisch tätig war. Nachdem sich die
+Aussichten auf das Erzbistum Gnesen zerschlagen hatten, begab er sich nach Löwen, wo er 1540 heiratete. Zunächst suchte er
+Zuflucht in Emden, kehrte dann aber nochmals nach Polen zurück und bekannte sich mit einem Eid zum alten Glauben. Kurz darauf
+brach er jedoch mit der römischen Kirche und wurde 1543 zum Superintendenten der ostfriesischen Kirche berufen. Theologisch
+der oberdeutschen Richtung und Bucer nahestehend, engagierte er sich für den Aufbau eines einheitlichen Kirchenwesens in der
+konfessionell gemischten Grafschaft. Nach der Einführung des Interims verlor er sein Amt; darauf stand er
+1550-1553 der Flüchtlingsgemeinde in London vor. Aus England und Dänemark vertrieben, hielt er sich 1555/56 nochmals in Emden
+auf, wo er seine Stellung jedoch nicht mehr festigen konnte; nach kurzer Tätigkeit in der Frankfurter Flüchtlingsgemeinde
+(1556) kehrte er, ermutigt durch Bullinger und Calvin, 1557 in seine Heimat zurück, wo er bis zu seinem Tod als Superintendent
+der reformierten Gemeinden Kleinpolens wirkte, ohne die konfessionelle Spaltung dieser Kirche überwinden zu können. Aus
+seiner Korrespondenz mit Bullinger sind rund 25 Briefe erhalten. - Lit.: Christoph Strohm (Hg.): Johannes a Lasco (1499-1560).
+Polnischer Baron, Humanist und europäischer Reformator.
+Beiträge zum internationalen Symposium vom 14.-17. Oktober 1999 in der Johannes a Lasco Bibliothek Emden, Tübingen 2000. - Spätmittelalter und Reformation, Neue Reihe 14; Henning P.
+^#/+Jürgens,^#/- Johannes a Lasco in Ostfriesland. Der Werdegang eines europäischen Reformators, Tübingen 2002. - Spätmittelalter und Reformation, Neue Reihe 18; Maria Cytow­ska, in: Contemporaries II 297-301; Menno
+^#/+Smid,^#/- in: TRE XX 448-451^&xauch in NDB XIII 657f^&x{; Hellmut ^#/+Zschoch,^#/- in: RGG^#'3 V 83.<fe> nacti, qui principis nomine ecclesiam Phrisie episcopus moderatur; sed anabaptiste, qui huc <vl>1388v.</vl> ex
+Gallia Belgica numerosi declinarunt illinc propulsi,
+negotium non absque molestia omnibus praebent. Rectores,
+regiones resipiscentiam miserorum (miseros ac desolatos
+primum se proclamant) sperantes misericordia moti
+receperunt; nunc recepti fortius perseve­rant, novum Iudeorum
+genus, quod nullis monitionibus flectitur, sed indies
+gregariorum more, quo plures, eo vicinis graviores sunt, et
+ni singularis deus nos aspitiat, totam hanc provintiam
+infitient. Utinam remedium sanum quis adponeret! Victi se<fx>^#/+Vor^#/- se ^#/+gestrichenes^#/- ostendunt.<fe>
+vicisse proclamant, ecclesiam nostram ut impuram
+detestantur, contiones, ministros rident, habent suos
+doctores et conventus, attamen secrete. Absque turba pelli
+non possunt, et si hoc modo perseverent, hec pestis totum
+corpus infitiet. Hec de infausto bello et nostra Phrisia.
+^$Nunc paucis ad literas tuas. Gaudeo te valere cum tuis, sed
+doleo Leonem, fidum ministrum, ecclesie sue sublatum.<f1>Leo Jud war am 19. Juni des Vorjahres gestorben; s. HBBW XII, S.
+99.<fe> Catechismus<f1>Der größere Katechismus Leo Juds (dieser ist gemeint, wie aus der anschließenden Bemerkung
+hervorgeht) war erstmals 1534 bei Christoph Froschauer erschienen; s. Karl-Heinz ^#/+Wyss,^#/- Leo Jud. Seine
+Entwicklung zum Reformator 1519-1523, Bern 1976. - Europäische Hochschulschriften III/61, S. 203, Nr. 33; BZD C 231. 677.<fe>
+hominis hic ab omnibus laudatur. Expectabatur passionis dominice memoria<f1>Juds Passionshistorie ("Des lydens Jesu
+Christi [...] historia [...]") war bereits 1534 und in zweiter Auflage 1539 ebenfalls bei Froschauer gedruckt worden; s.
+^#/+Wyss,^#/- aaO, S. 203, Nr. 34; BZD C 232. 280; Leo ^#/+Jud,^#/- Vom Leiden / Sterben und Auferstehen des Herrn, bearb. von Oskar Farner, Zürich 1955.<fe> in<fx>^#/+Vor^#/- in ^#/+ein
+unklares (gestrichenes?) Zeichen.^#/-<fe> fine catechismi promissa.<f1>AaO (vgl. oben Anm. 21), f. CVIIr.<fe> Insuper gaudeo biblia
+emissa<f1>Die "Biblia sacrosancta" (BZD C 319f) war im Frühjahr 1543 erschienen; vgl. Pellikan, Chronikon 156.<fe> diutius desiderata<f1>Vgl. Aquilomontanus an Bullinger, 7. März 1542, HBBW XII, S. 53, 27.<fe>, quae nondum
+videre licuit; spero ex hisce nundinis<f1>Zum Termin der Frankfurter Herbstmesse s. HBBW VI, S. 406, Anm. 5.<fe> omnia tua. Commentariorum in Mat[thaeum]<f1>Gemeint ist Bullingers
+Matthäuskommentar von 1542 (HBBibl I 144).<fe> unum exemplar vidi, sed non legi; in Ioannem plures desiderant, quod
+promisisti.<f1>Bullingers Kommentar zum Johannesevangelium (HBBibl I 153) wurde in diesen Tagen fertiggestellt; vgl. unten Nr. 1774.<fe> Perge, praestantissime virorum, vineam domini excolere et vulpeculas demolientes eiicere.<f1>Vgl. Hhld 2, 15.<fe>
+^$Ego senio fractus testamentum condo, quanquam nil sit fortunarum; attamen mihi tres sunt filii<f1>Nicht namentlich bekannt.<fe> pauperes, qui nunc literas flectere et vexare incipiunt; iis pro paterno affectu provisum velim.
+Utinam mihi vicinius<fx>^#/+Endung undeutlich korrigiert.^#/-<fe> Tigurum; mitterem iuvenem pulchrum facie
+et ingenio pulcherrimum, parvum statura, animo maximum, ut
+istic pietatem, mores bonos una imbiberet; sed hec optare,
+sperare nequaquam.
+^$Postremo velim quandoque, praesertim in nundinis, paucis scribas, quid valeas, quid cuda[s]<fx>^#/+Randtext im engen Einband verdeckt.^#/-<fe>. Nos hic ab uberibus
+doctorum, praesertim tuis, pendemus. Tuum est rationale lac filiis tuis habunde (cum large acceperis) ministrare et
+fovere.<f1>Vgl. 1Petr 2, 2.<fe> Ego, ut nosti, in alium locum celebriorem migravi,<f1>Gemeint ist offenbar Oldersum; vgl. HBBW XII, S. 52, 10f.<fe> ubi quotidie cum anabaptistis pertinacissimis concertandum.
+^$Hec, oro, boni consulas, amicorum suavissime, que, ut in buccam<f1>Zu ergänzen: venerit; vgl. Adagia, 1, 5, 72 (LB II 209f).<fe>, evomui contentus mentem indicasse, de compositione minime sollicitus. Vale.
+^$Emde, pridie assumpte virginis anno 1543.
+<un><vl>1389r.</vl> Hermannus Aquilomontanus, ecclesie Domus
+<un>Senum<f1>Oldersum.<fe> prope Emdam minister, tibi deditissimus.
+<lz>[Adresse auf der Rückseite:] Prestantissimo virod. [Henri]co<fx-t>^#/+Teilweise auf das nicht mehr vorhandene
+Verschlussband geschrieben.^#/-<fe> Bullingero, Tig[urine ecclesie]<fx-x>^#/+Teilweise auf das nicht mehr vorhandene
+Verschlussband geschrieben.^#/-<fe> ministro vigila[ntissimo, suo]<fx-x>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe> maiori in domino. Tho Zurick.
+</content>
+</letter>

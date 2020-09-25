@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="936">
+<nr>936</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>21. Januar 1537</date>
+</space_time>
+<vo>Abschrift: Zürich ZB, Ms F 64, 645 </vo>
+<dr></dr>
+<re>Die Schaffhauser Pfarrer wären an einer Übereinkunft [mit Luther] interessiert, doch der in sich zerstrittene Rat hält sich zurück und sucht Ausflüchte; es empfiehlt sich, nichts zu unternehmen, bis von Luther ein günstiger Bescheid vorliegt. Bibliander verfaßt keine Apologie gegen Bucers
+"Retraktationen", sondern eine private Antwort auf einen teilweise scharfen Brief Bucers, der auch Bullinger nicht gut gefiel.</re>
+<tx>[Gedruckt: Vadian BW VII 65f, Nr. 50.]
+</content>
+</letter>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1145">
+<nr>1145</nr>
+<correspondents>
+	<originator>Thomas Platter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>12. Juli [1538]</date>
+	<note>Die Hinweise auf Reisen von Myconius nach Zürich (s. unten Z. 9f mit Anm. 5) bzw. von
+Otto Werdmüller nach Basel (Z. 69 mit Anm. 14) sprechen für 1538. Dies wird bestätigt durch die inhaltlichen Bezüge zu
+Bullingers Brief an Platter vom 3. November 1537 (vgl. unten Anm. 2 und 20f).</note>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 449r.-v. (Siegelspur)</vo>
+<dr>Teildruck: Corr. des réformateurs V 46-50, Nr. 723 </dr>
+<re>Entschuldigt die verspätete Rückgabe des [Neuen] Testaments [Zwinglis], das er bis zur Fertigstellung der eigenen Ausgabe
+behalten wollte, und nennt Gründe, weshalb er es mehreren Boten nicht mitgeben konnte. Abgehalten hat ihn u. a. seine Reise ins
+Wallis, wo der Übergang zur Reformation nur deshalb noch nicht erfolgt ist, weil man Unruhe vermeiden will und weil der
+"Lutheranismus" bei den Bauern in Verruf steht; vom Bischof [Adrian von Riedmatten] hat er im Gespräch einen günstigen
+Eindruck erhalten. Führende Kreise fördern insgeheim die evangelische Lehre, halten aber aus Rücksicht auf die Bauern an
+Messe und Fasten fest; sie sind gebildet genug, um den Priestern in einer Disputation überlegen zu sein, doch ist es schwierig,
+diese für ihre Laster zu belangen. Das Wallis würde vermehrt Bern zuneigen, wenn nicht die dortige Scheidungspraxis
+Anstoß bereiten würde, deshalb sollte Bullinger zu diesem Problem öffentlich Stellung nehmen; Platter selbst trägt durch
+die Aufnahme von Studenten dazu bei, das Land für Christus zu gewinnen. Bittet Bullinger, ein Büchlein aus Wittenberg nach
+Elgg weiterzuleiten und sich, was die Dichtung ["Alexandreis" des Walter von Châtillon] betrifft, zu gedulden; hinsichtlich
+des "Nizolius" ist er zufriedengestellt. Mahnt zu Vorsicht, da die Stimmung im Wallis auf der Kippe steht; durch geschicktes
+Vorgehen könnte es gelingen, das Land den Fünf Orten zu entfremden. Entschuldigt sein weitschweifiges Schreiben. Grüße.
+</re>
+<tx>S. Non dubito, observanded. Bullingere, quin iamdudum mihi ita irascaris, ut magis non possis, quod testamentum<f1>Gemeint
+ist offenbar "Zvinglii exemplum novi testamenti", das Bullinger am 3. November 1537 an Platter ausgeliehen hatte (s. HBBW VII,
+S. 292, 14-22). Wahrscheinlich handelt es sich um Zwinglis Abschrift der Paulusbriefe (s. ebd., Anm. 5), die Platter für
+seine Ausgabe des Neuen Testaments (vgl. unten Anm. 4) beiziehen wollte.<fe> in hanc diem usque non remisi, imo iam dudum procul
+dubio me aut perdidisse aut ita foedasse credis, ut non audeam reddere, aut omnino reddere nolle. Verum nihil horum est,
+quod vereare; tale<fx>^#/+korrigiert aus ^#/-talem.<fe> adhuc mecum habeo, quale<fx>^#/+korrigiert aus ^#/-qualem.<fe> accepi.
+Caeterum quod non<fx>non ^#/+über der Zeile nachgetragen.^#/-<fe> citius reddiderim, eae sunt causae, et,
+aut nunquam salver, verissimae. Prima, quod antequam
+Francofordiam abirem<f1>Zur Frühjahrsmesse, wie nachfolgend deutlich wird.<fe>, mittere<fx>^#/+vor ^#/-mittere ^#/+gestrichenes ^#/-vix.<fe> potuerim nequaquam, quia vix
+absolvi testamentum ante nundinas<f1>Platters Ausgabe des griechischen Neuen Testaments erschien laut Kolophon im März
+1538; s. Historical Catalogue of the Printed Editions of Holy Scripture in the Library of the British and Foreign Bible
+Society, compiled by T. H. Darlow and H. F. Moule, Bd. II/2, London 1911 (Nachdruck: Cambridge 1993), Nr. 4611.<fe>. Ubi
+Basileam redii, daturus eram Froschouero, sed ille abiit, antequam ego scirem. Tum volui Myconio dare<f1>Myconius reiste
+Ende April zur Konkordientagung nach Zürich; vgl. oben Nr. 1128, Anm. 1.<fe>, sed videbam illum
+alioqui<fx>^#/+korrigiert aus ^#/-alioque.<fe> onustum. Comittibus credere non audebam; sciebam enim, quam sępe negligentes
+sient, praesertim si, ut ipsi inquiunt, pfaffis servire debeant. Retinui igitur, ut qui quotidie expectarem nostrum
+Quirinum<f1>Quirinus von Leiden.<fe>, dum ex nundinis aut patria rediret. Hunc ego a nundinis non vidi.
+^$Tandem accidit, ut eundum esset in patriam, in qua (ut
+haec obiter dicam et habeas, mid. Heinrice, quod laeteris,
+nam scio te adeoque omnes pios homines haec libenter audire)
+ita omnia offendi, ut sit certissima spes, certissima,
+inquam, illos quoque veritatem accepturos. Nam quod
+differunt, nulla alia ratio est, quam quod boni illic viri
+occasionem expectant, dum hoc possint citra tumultum. Et
+episcopus<f1>Adrian von Riedmatten, Bischof von Sitten.<fe> ipse, quo cum diu colloquutus sum et prandium
+sumpsi, videtur vir minime malus. Is ad auram rusticorum sua
+vela pandit<f1>Zur Redensart vgl. Grimm X/I 85.<fe>. Rustici omnes uno ore clamant in sacerdotes
+(nam vivunt turpissime); tamen Lutheranismum nolunt, quia
+putant nescio quid ab­omi­na­bi­le esse et plane impium, quod
+apud nos docetur, ut sunt a pfaffis seducti et persuasi.
+^$Tertium genus est, qui rerum potiuntur, id est post
+episcopum summi. Omnes favent evangelio, quorum magnus certe
+hinc inde est numerus, non tamen adeo fortes, quin a rusticis
+domari possent, si suspicarentur illos tales esse. Hi igitur
+pulchre hoc dissimulant et interea hinc inde rusticis et
+cognatis primum, quae vera salutis via sit, ostendunt domi
+et ubicunque sermo de his rebus incidit<fx>^#/+korrigiert aus ^#/-accidit.<fe>. Sunt igitur illi in
+suspicione apud omnes, quod Lu­the­ra­ni sint; interim tamen ex
+eorum dictis eos Lutheranos iudicare non possunt. Fatentur
+enim<fx>enim ^#/+irrtümlich wiederholt, gestrichen.^#/-<fe>, quae dicunt pia esse et minime Lutherana, dum abusus
+non manifeste accusant. Interim ipsi rustici incipiunt per
+se abusus calumniari propter sacerdotum vitia. Et observant
+diligenter suspectos, numquid designent, quod Lutheranos
+arguat. At illi boni viri cavent tumultum et adeunt
+ceremonias cum caeteris et semper hoc in ore habent,
+expectanda esse domini iudicia, illum inventurum viam, ut
+res procedat. Et ut scias, isti tales sunt, ut, si
+congrediendum sit cum sacerdotibus et disputandum, facillime
+forent superiores. Nam plerique Latine docti sunt, non
+absolute, sed intelligunt utcunque, quae legunt<fx>^#/+vor^#/- legunt^#/+ gestrichenes ^#/-loquuntur.<fe>. Hi igitur
+in manifestissima suspicione sunt; sed nemo est, qui illis
+vim inferre audeat, tantisper dum cum illis adeunt missas,
+abstinent a carnibus diebus prohibitis, ut ipsi aiunt etc.<fx>etc. ^#/+über der Zeile nachgetragen.^#/-<fe>
+Rustici amant ipsos<fx>^#/+korrigiert aus ^#/-ipsi.<fe>, utpote quos eligunt magistratus.
+Sacerdotes accusare apud episcopum non audent, et si clam
+accusent, ille palam poena afficere non conatur, nam
+aliorum exempla eum docent, quam sit difficile Vallesianis
+manum inferre.
+^$Ita varie se res habent. Incipiunt odisse Quinque Pagos<f1>Die katholischen Fünf Orte der Innerschweiz.<fe>, suos
+confoederatos, et amorem ab illis ad Bernates transferunt. Et unicum est, quod pios offendit in Bernatibus, quod scilicet
+matrimonia separent. Ita ipsi aiunt. Separari quidem fatentur posse adulteros; sed quod
+is, qui peccavit, vel illa, ut isti possint alteri se associare, istud vehementer offendit. Et est hodie vix res<fx>res ^#/+für
+gestrichenes ^#/-locus^#/+ über der Zeile nachgetragen.^#/-<fe>, quę plus offendat, non apud
+<vl>449v.</vl> illos solum, sed ubique, quod boni viri
+verentur, ne hic peccetur. Atque utinam aliquis sit, qui eum
+locum tractet! Et vix scio, qui melius istud possit quam tu,
+si animum adieceris. At non oporteret haec ad meos scribere,
+nam tum Pagis Quinque suspecti forent, et fortassis
+struerent insidias, ut Christum in pueris innocentibus, ut
+conabatur Herodes<f1>Vgl. Mt 2, 16.<fe>, perderent. Verum si scirem te haec propter Christum aut velle aut propter negotia
+posse tractare, dicerem, quid illos maxime hic torqueret etc. Indicabis igitur, si quid etc. Ich bitten uch umb der eer
+gottes willen, mag es sin<f1>falls es möglich ist.<fe>. Si haec natio<fx>natio ^#/+für gestrichenes ^#/-patria ^#/+über der Zeile nachgetragen.^#/-<fe> ad Christum
+pertrahi posset, actum propemodum de Quinque Paganis (ut ita
+dicam) esset<fx>^#/+nach ^#/-esset ^#/+gestrichene schließende Klammer.^#/-<fe>. Bene res se habent, si absint a nostris
+offendicula. Tamen res, ut spero, procedet, si adiuverint
+boni viri. Ego mecum reduxi pueros decem et prius quinque
+habebam<f1>Mindestens einige von ihnen werden die Universität bezogen haben. In der Matrikel sind 1536/37 fünf
+Studenten aus Sitten eingeschrieben (s. Basel, Matrikel II 11, Nr. 4f; S. 14, Nr. 40-42); vier weitere Walliser folgten 1537/38
+(s. ebd., S. 17f, Nr. 25-28; vgl. auch S. 19, Nr. 45), vereinzelte auch in den folgenden Jahren (vgl. ebd., S. 26, Nr.
+23-26 u. ö.).<fe>; mittentur plures, nec est, qui amplius hiscere contra audeat<f1>Noch 1536 hatte der Landrat
+beschlossen, die Schüler aus den reformierten Schulen zurückzurufen; s. Die Walliser Landrats-Abschiede seit dem Jahre
+1500, Bd. 3 (1529-1547), bearb. v. Bernhard Truffer, Sitten 1973, S. 125; vgl. Mario ^#/+Possa,^#/- Die Reformation im Wallis
+bis zum Tode Bischof Johann Jordans 1565, Diss. phil. Freiburg i. Ue. 1938 [Freiburg 1941; Sonderdruck aus: Blätter aus der Walliser-Geschichte IX, 1940], S. 40 und 90.<fe>, quantumvis torvo vultu
+me quidam aspexerint. Dominus orandus est, ut viam ostendat, et faciet haud dubie. Non possum plura, ne nauseam, dum iucunda
+male scribo, tibi paream. Haec obiter inserere placuit. Obsecro, quod oravi, ut impetrem. Sed redeo ad institutum.
+^$Redii Basileam ea die, cum a vobis Otho noster ad nos
+rediit<f1>Otto Werdmüller reiste am 18. Juni von Basel nach Zürich (s. oben Nr. 1139, 28-30) und muß kurz darauf wieder nach
+Basel zurückgekehrt sein (vgl. auch unten Nr. 1146, Anm. 5).<fe>. Cepi denuo nuntium quaerere. Hic Melchior Wirtius<f1>Melchior
+Wirz.<fe> cum aliis duobus dixit se iturum ad thermas<f1>Gemeint ist wohl Baden (Kt. Aargau) oder eines der zürcherischen
+Bäder.<fe>; huic dare decrevi tuum testamentum. Intervenit mulier<f1>Unbekannt.<fe> quaedam mihi nota et nata ex Tyguro;
+haec promisit se accepturam et abiit me nescio. Ita ego denuo delusus admodum dolui. Hasce
+literas igitur scripsi, ut, si nullus alius inveniretur
+nuntius, mitterem<fx>^#/+korrigiert aus^#/- mitteret ^#/+oder^#/- mitterent.<fe> proprium. Adiunxi<fx>^#/+korrigiert aus^#/- Adiunxit.<fe> et alium
+libellum ex Vittęberga<f1>Worum es sich handelte, ist nicht bekannt (vgl. auch unten Nr. 1152, 11f).<fe>;
+hunc, si potes, mittito ad Elggi<f1>Als möglicher Adressat in Elgg kommt Johannes Schlegel in Frage.<fe>. Obtestor te, mi
+Bullingere, ne mihi succenseas, nam ita res se habent,
+quemadmodum scripsi. Misissem lubens testamentum etiam
+aliud, ut aliquid non pręmii, sed munusculi haberes pro
+hoc officio, sed verebar, ne gratum esset, cum habeas antea;
+sed siquid aliud voles, indicato, et mittam libentissime. Quod
+carmen attinet, quod ad<fx>^#/+Zweiter Buchstabe undeutlich korrigiert (kann eventuell auch als ^#/-ante ^#/+gelesen werden); zu ergänzen ist wohl^#/- me.<fe> misisti<f1>Gemeint ist die gereimte Lebensbeschreibung Alexandersd. Gr. von Walter von Châtillon,
+die Bullinger mit seinem Brief vom 3. November 1537 an Platter geschickt hatte (vgl. HBBW VII, S. 291, 8-12).<fe>, oro, ut
+differas paululum; expecto vetustum quoddam exemplar e patria, cum quo conferam. Tertium habet Oporinus; hunc alloquar, quid de
+illo decreverit. De Nizolio contentus sum<f1>Im gleichen Brief hatte Bullinger die Begleichung einer Schuld im Zusammenhang mit
+der bei Lasius und Platter erschienenen Nizolius-Ausgabe angekündigt (s. ebd., Z. 2-5).<fe>. Omnis res<fx>res ^#/+über
+der Zeile nachgetragen.^#/-<fe> in tuto est, et bene habet, si te placavero; sed ignosces, spero, ubi audisti, quid causae fuerit.
+^$Quod scripsi de Vallesianis, malim clam esse, ne qua ad
+hostes evangelii perveniat rumor et struantur insidię.
+Sunt alioqui iam illis suspecti, et rustici Vallesiani adhuc
+pendent; facili momento huc atque illuc moveri possent.
+Nihil melius, quam si avelli<fx>^#/+vor ^#/-avelli ^#/+gestrichenes ^#/-odi.<fe> possent a Quinque Pagis, id quod
+difficulter fiet; sed spero fore, nam Vallesiani
+contemnuntur ab illis. Summa: Was sol ich sagen, man muͦß
+wyßlich handlen und gott vor ougen han und bitten und nitt
+uffhörren.
+^$Ignosce mihi, id te oro per charitatem, quae mutua esse
+debet in Christo, quod non sim veritus primum non servare
+fidem, quod tamen citra meam culpam evenit, deinde te tam
+ineptis, et si essent elegantissime, propter prolixitatem
+molestis literis onerare<fx>^#/+in der Vorlage ^#/-onorare.<fe>. Decreveram paucissimis scriberem,
+at postquam semel cepi, tam iucundum fuit tecum confabulari,
+ut finire ne­scierim.
+^$Salutabis, quaeso, meo nomined. Collinum et Ammanum,
+Theodorum<f1>Theodor Bibliander.<fe> etc. Dicerem plura<fx>^#/+Schluß des Wortes undeutlich korrigiert.^#/-<fe>, sed, ut dixi, haec nimis multa.
+^$Vale et me tibi in domino commendatum habe.
+^$Basileae, 12. iulii.
+<un>Tuus Thomas Platterus.
+<lz>[Adresse auf f. 450v.<fx>^#/+Auf f. 450r. oben zwei gestrichene, unlesbare Wörter.^#/-<fe>:] Domino Henrico Bullingero, apud
+Tygurinos verbi dei summo praeconi.
+</content>
+</letter>

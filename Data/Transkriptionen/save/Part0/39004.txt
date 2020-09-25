@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="39004">
+<nr>39004</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Tobias Egli.</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>5. Januar 1569</date>
+</space_time>
+<vo>Zürich StA, E II 342a, 559. / Orig. Aut.</vo>
+<dr>Gr. III, 140 R.</dr>
+<re></re>
+<note></note>
+S. D.  Accepi omnia, quae misisti, frater charissime, ac
+spero te iam accepisse eadem ex parte, quae tu misisti ad
+me. Quae interea misere amici, habes his inclusa, quae ita
+ad te mitto, ut ad me sunt transmissa. Crede, quantum voles.
+Plura non possum tantum non oppressus negotiis. Parce ergo
+mihi et vale aeternum. Tiguri  5. ianuarii 1569.
+Bullingerus tuissimus.
+Saluta d.d.d. consules,d. Carolum, Pontasellam, Ganthnerum
+et alio[s] fratres et amicos.
+Ornatissimo virod. Tobiae Eglio, Curiensis ecclesiae
+ministro, domino meo colendo et fratri charissimo.
+                                         Chur.
+</content>
+</letter>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2819">
+<brief>
+<id>17063</id>
+<nr>2819</nr> <from persid="ClaudiusMatthias"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date notbefore="1547-02-20" notafter="1547-02-26"/>
+<ae>[Matthias Claudius] an Bullinger</ae>
+<od>[St. Gallen
+<fn>Da aus unten Z. <qv>zl17063-1</qv> hervorgeht, dass Hieronymus Sailer einen Brief aus Augsburg erhalten hat, wird vorliegender Brief noch in St. Gallen verfasst worden sein. Zu den damaligen Aufenthaltsorten von Sailer s. <a>HBBW</a> XVII 195, Anm. 2.</fn>, zwischen dem 20. und 26. Februar 1547]
+<fn>Dem vorliegenden Schreiben ist die Abschrift eines Briefes aus Augsburg vom 15. Februar 1547 beigelegt. Angesichts der Tatsache, dass Augsburg etwa 180 km von St. Gallen entfernt ist, kann vorliegendes Schreiben kaum vor dem 20. Februar entstanden sein. Da Claudius unten Z. <qv>zl17063-3</qv> betont, schon länger nicht mehr geschrieben zu haben, wird vorliegendes Schreiben vor Claudius' Brief <qv>nr2834</qv> vom 3. März 1547 zu datieren sein. Da ferner der zuletzt erwähnte Brief einen nicht mehr erhaltenen Brief Bullingers voraussetzt, in dem Bullinger sich (genauso wie Claudius im vorliegenden Brief) für sein längeres Schweigen entschuldigt (s. <qv>nr2834</qv>,<qv>zl17101-1</qv>), wird der nicht mehr erhaltene Brief Bullingers, den Claudius am 3. März beantwortete, wohl eine Antwort auf vorliegendes Schreiben gewesen sein. Da Zürich etwa 80 km von St. Gallen entfernt liegt, kann vorliegendes Schreiben kaum nach dem 26. Februar angesetzt werden.<zfn>fn17063-9</zfn></fn></od>
+<vo>Autograph: Zürich StA, E II 343a, 299 (Siegelspur); <br/>[Beilage:] E II 346a, 527
+<fa><i>Die Falten der Beilage zeigen, dass Letztere bereits zusammengefaltet in den größer zusammengefalteten Brief eingeschoben wurde.</i></fa></vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 68-69 (Claudius als Abs.). ─ Undat. Brief 20: Sein "Herr" [Hieronymus Sailer] empfing einen durch Dryander weitergeleiteten Brief Bullingers vom 4. Februar; Karl V. enthob den Erzbischof [Hermann von Wied] seines Amtes und setzte Koadjutor Adolf von Schaumburg ein [gewählt durch das Kapitel am 24. Januar 1547]; gleichzeitig wie Dryander an HB, St. Gallen, 6. Februar 1547. Hand des M.C.</k></dr>
+<re><t>Bullinger soll sich nicht wundern, dass Claudius nicht schreibt, obwohl ihm Boten zur Verfügung stehen. Er hat nichts Lesenswertes mitzuteilen und will auch nicht Bullingers Zeit mit seinen konfusen Briefen verschwenden, da dieser schon so viel zu tun hat.</t>
+<t>Hieronymus Sailer, Claudius' Dienstherr, lässt ausrichten, dass er Bullingers Brief vom 4. Februar [nicht erhalten] und die Silbermünze mit dem Christusbildnis empfangen hat. Francisco de Enzinas wird Sailers Dank schon ausgerichtet haben. Letzterer möchte aber noch betonen, dass das ihm erwiesene Wohlwollen ihn noch mehr berührt als das wertvolle Geschenk selbst!</t>
+<t>Es gibt kaum etwas mitzuteilen, außer dass heute die Meldung aus Antwerpen kam, Kaiser Karl V. habe den frommen, betagten Kölner Erzbischof Hermann von Wied entlassen, ihm die Kurwürde entzogen und an dessen Stelle einen Kanoniker namens Adolf von Schaumburg eingesetzt, welcher vom Kölner Klerus mit Begeisterung empfangen worden sei. Der Erzbischof soll sich nicht gewehrt und lediglich gesagt haben, dass er sich für die Verwaltung dieser Kirchenprovinz wohl nicht geeignet habe und daher seine Stelle willig einem anderen überlasse.</t>
+<t>Die Herzöge Christoph und Ulrich von Württemberg sollen ihre Länder an König Franz I. von Frankreich verkauft haben. Sailer möchte wissen, ob Bullinger Verbürgtes darüber weiß.</t>
+<t>Beiliegend übermittelt Sailer ein Schreiben aus Augsburg. Darin wird das Verhältnis zwischen Kaiser und Papst Paul III. gut ersichtlich. Möge die Nachricht stimmen! Da nun der Kaiser seine Macht in Deutschland ausüben kann und sich auch schon um die Religionsangelegenheit kümmert, ist nämlich [aus Sicht des Papstes] zu befürchten, dass er das ihm gegebene Versprechen nicht einhalten werde.</t>
+<t>[Beilage:] Am 2. Februar empfing der Kaiser den päpstlichen Gesandten [Girolamo Verallo]. Dieser eröffnete ihm die drei folgenden Vorwürfe des Papstes:</t>
+<t>Erstens wundere sich der Papst, dass Verallo so selten zu einem Gespräch mit dem Kaiser vorgelassen und nur von Nicolas Perrenot, dem Herr von Granvelle, empfangen werde. Hierzu gab der Kaiser verschiedene Gründe an, unter anderem seine unzähligen Schwierigkeiten mit den Feinden und seine angeschlagene Gesundheit. Deshalb dachte er, dass es wohl ausreichen würde, wenn Verallo die Angelegenheiten des Papstes seinem Rat [Granvelle] mitteilte!</t>
+<t>Zweitens wundere sich der Papst, dass er bei der Begnadigung der deutschen Städte vom Kaiser überhaupt nicht erwähnt werde, wo er sich ihm doch so behilflich erwiesen hat (als wollte der Papst diese Städte gemeinsam mit dem Kaiser innehaben!). Daraufhin fragte der Kaiser lachend, ob denn der Papst ihn in das Bündnis mit den Eidgenossen einbezogen habe? Zudem meinte er, dass der Papst überhaupt keinen Grund hätte, sich zu beschweren, weil er die Religionsangelegenheit keineswegs vergessen habe!</t>
+<t>Drittens könne der Papst nicht verstehen, wieso der Kaiser das so ruhmreiche italienische Heer nicht heimgeschickt hat und stattdessen bei sich in dieser Kälte zurückhält. Der Kaiser antwortete: Falls Verallo schon vor einigen Tagen vorhatte, über die Beurlaubung der Italiener mit ihm zu sprechen, bereue er es sehr, ihn nicht sogleich empfangen zu haben. Er hätte nämlich die Italiener sofort entlassen! Verallo wisse ja, welches Unheil sie während des Krieges verursacht haben! Am Tag darauf bestellte der Kaiser die italienischen Hauptleute zu sich und entließ sie alle. Es war erstaunlich festzustellen, wie sehr sich der Kaiser über diese Entlassung freute. Er muss gegen den Papst sehr aufgebracht sein. Aus Augsburg, den 15. Februar.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17063-3A</zzl>Non mirabitur humanitas tua me ad te
+<fa><i>Über der Zeile nachgetragen.</i></fa> privatim nihil scribere, praesertim tanta tabellariorum opportunitate. Sed mihi ignoscet t[ua] h[umanitas], quia te, tanto viro, nihil dignum habeo. Absterret etiam, quod tanta negotiorum mole hisce temporibus obrutus es, ut parum superesse temporis putem ad legenda incondita mea scripta.<zzl>zl17063-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17063-8A</zzl>Quae vero nunc scribo, ea domini
+<fn>Hieronymus Sailer.</fn> nomine ad te exarare iussus sum. Accepit tuas literas 4. februarii missas
+<fn>Nicht erhalten.</fn> una cum incluso nummo argenteo imaginem Iesu representante.
+<fn>Eine silberne Medaille, wie vermutlich diejenige, die in <a>Zürcher Kunst</a> 203, Nr. 245; und Zürcher Münzen und Medaillen. Ausstellungskatalog, Zürich 1969, S. 25. 52, Nr. 128, abgebildet ist. - Falls diese Medaille tatsächlich durch Walzenprägung entstanden ist, wie es Emil <i>Hahn,</i> Jakob Stampfer, Goldschmied, Medailleur und Stempelschneider von Zürich 1505-1579, in: Mitteilungen der Antiquarischen Gesellschaft in Zürich, XXVIII/1, 1915, 19 (Beschreibung auf S. 44, Nr. 23; Abbildung auf Tafel IV), behauptet, käme diese Münze hier nicht in Frage und wäre erst nach 1555/56 anzusetzen. Vielleicht aber bedarf diese Behauptung einer Hinterfragung, oder es handelt sich hier um eine frühere Prägung dieser Medaille. - Anlass dieses Geschenkes wird wohl die Geburt von Sailers Tochter Felicitas gewesen sein; s. <qv>nr2796</qv>, <qv>fn17065-1</qv>.<zfn>fn17063-4</zfn></fn><zzl>zl17063-8E</zzl> <zzl>zl17063-9A</zzl>Et quia per d. Franciscum Dryandrum
+<fn>Francisco de Enzinas, der sich etwa am 15. Februar (s. <qv>nr2809</qv>) offensichtlich via Zürich von St. Gallen nach Basel zurückbegeben hatte.<zfn>fn17063-8</zfn></fn> iussit tibi magnas agere gratias, tamen, ut cognoscas sibi eum acceptum fuisse nec tam magnitudinem et praestantiam illius quam animum gratum dantis considerare, iubet tibi denuo etiam per me gratias agere cum summae suae
+<fa><i>Über der Zeile nachgetragen.</i></fa> erga te benevolentiae commemoratione.<zzl>zl17063-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17063-10A</zzl>Atque nova quaedam tibi scribere volens nihil plane memoratu dignum succurrebat, quam quod hodie ex Antverpia
+<fn>Wo Sailer geschäftlich tätig war; s. Conradin <i>Bonorand,</i> Hieronymus Sailer aus St. Gallen, Schwiegersohn des Augsburger Großkaufherrn Bartholomäus Welser, und seine Tätigkeit im Lichte seines Briefwechsels mit Vadian, in: <a>Zwa</a> 20, 1993, 110f. 120.</fn> allatum est caesarem
+<fn>Karl V.</fn> abdicasse <fa1 bis="1"><i>Am Rande nachgetragen. Das</i> e <i>in</i> episcopatu <i>ist im engen Einband verdeckt.</i></fa1>[e]piscopatu et functione electoria<fa1e von="1"/> venerabilem et pientissimum virum archiepiscopum Coloniensem
+<fn>Hermann von Wied, der am 24. Januar de facto durch den Eid abgesetzt wurde, den die Landstände dem vom Papst bereits im Juli 1546 designierten Nachfolger Adolf III. von Schaumburg auf Befehl der kaiserlichen Kommissare leisteten; s. <qv>nr2793</qv>, <qv>fn17061-2</qv>.<zfn>fn17063-5</zfn></fn> et in eius locus substituisse coadiutorem quendam canonicum nomine de
+<fa><i>Über der Zeile nachgetragen.</i></fa> Schomberg, qui ante aliquot dies Coloniam ingressus magno Coloniensium applausu exceptus est. Iste vero venerabilis senex nihil contra locutus est quam se prorsus non idoneum nec suffitientem esse huius ecclesiae <fa1 bis="2"><i>Am Rande nachgetragen. Das</i> et <i>ist im engen Einband verdeckt.</i></fa1>[et] reipublicae<fa1e von="2"/> administrationi, itaque alteri libenter locum dare.<zzl>zl17063-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17063-6A</zzl>Preterea fama est hic ducem iuniorem et seniorem Wirtembergensis ditionis
+<fn>Die Herzöge Christoph und Ulrich von Württemberg.</fn> suas omnes regiones et civitates Francorum regi
+<fn>König Franz I. von Frankreich. - Siehe dazu <qv>nr2753</qv>,<qv>zl17000-11</qv>; <qv>nr2817</qv>.</fn> certo pretio vendidisse.<zzl>zl17063-6E</zzl> <zzl>zl17063-11A</zzl>Si quid hisce de rebus vel de aliis certius habeas, rogat se dominus per opportunitatem vicissim certiorem fieri.<zzl>zl17063-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17063-17A</zzl><zzl>zl17063-1A</zzl>Mittit tibi dominus exem-<vl>299v.</vl>plar literarum ex Augusta
+<fn>Die unten veröffentlichte Beilage.</fn>, nescio a
+<fa><i>In der Vorlage ist das</i> a <i>durchgestrichen, als wollte Claudius die Tatsache vertuschen, dass dieser Brief an Sailer gerichtet war.</i></fa> quo missum
+<fa><i>In der Vorlage aus</i> missurarum <i>korrigiert.</i></fa>, in quibus leges, quomodo inter caesarem et papam
+<fn>Paul III.</fn> conveniat, si utique his
+<fn>his literis.</fn> credendum est.<zzl>zl17063-1E</zzl> <zzl>zl17063-12A</zzl>Sed quia iam tyrannidem exercuit
+<fn>Subjekt ist der Kaiser.</fn> et in religionem grassare incepit, metuendum, ne compositis paulisper in Germania rebus non prestet ei
+<fn>dem Papst.</fn> fidem, quam dedit.
+<fn>Im Vertrag zwischen dem Kaiser und dem Papst vom 26. Juni 1546 (s. dazu <a>HBBW</a> XVII 146 und Anm. 52; 288, Anm. 10) war u.a. festgelegt worden, dass ohne Erlaubnis des Papstes oder dessen Legaten der Kaiser mit den Gegnern des Konzils und den Protestanten keine Abkommen schließen dürfe, die dem katholischen Glauben nachteilig sein könnten; s. Des Bapsts und Kayserlicher Mayestat Bündtnuß, aus dem Latein ins Teutsch Transferiert, s.l. 1546 (<a>VD16</a> ZV 16721), f. A4r.<zfn>fn17063-3</zfn></fn><zzl>zl17063-12E</zzl></p>
+<un>[Ohne Unterschrift.]
+<fa><i>Von späterer Hand wurde irrtümlich hinzugefügt:</i> Joh. Comander.</fa></un>
+<lz/>
+<p>[Adresse darunter:] Clarissimo et ornatissimo viro Heinricho Bullingero, Tyguri a contionibus, domino suo plurimum observando. Tyguri.</p>
+<lz/>
+</div>
+<div>
+<p>[Beilage:]
+<fn>Dieser in Augsburg von einer unbekannten Person verfasste Brief war an Hieronymus Sailer gerichtet (s. oben Z. <qv>zl17063-1</qv>) und könnte von Claudius paraphrasiert worden sein.</fn></p>
+<p><vl>E II 346a, 527</vl> <zzl>zl17063-5A</zzl><zzl>zl17063-13A</zzl>Caesar pontificis legatum
+<fn>Girolamo Verallo, der am 2. Februar 1547 dem Kaiser ein päpstliches Breve vom 22. Januar überreichte, dessen Inhalt sich gut mit dem Inhalt der vorliegenden Beilage deckt. Verallo berichete selbst über sein Gespräch mit dem Kaiser in einem Brief vom 2. und 3. Februar (<a>NBD</a> IX 442-451, Nr. 132). Vgl. ferner <a>Pastor</a> V 593-595.<zfn>fn17063-6</zfn></fn> secunda foebruarii excepit, quum tria se caesari propositurum diceret:<zzl>zl17063-13E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17063-14A</zzl>Primum pontificem admodum mirari, quoniam
+<fa><i>In der Vorlage als</i> qm <i>abgekürzt, wobei hier in Anbetracht von unten Z. <qv>zl17063-7</qv> auch</i> quamobrem <i>gemeint sein könnte.</i><zfn>fn17063-1</zfn></fa> suo nuntio tam rarus ad caesarem daretur accessus aut colloquendi facultas, potissimum quum multa narraret loca,
+<fn>Zu verstehen: er erzählte von vielen Fällen.</fn> in quibus caesar illum ad Grandvelanum
+<fn>Nicolas Perrenot, Herr von Granvelle.</fn> remitteret. Hic caesar respondit, quam illo aut illo loco fuisset impeditus, quam multum negotii ab inimicis illi impenderet, quam non semper fuisset recta valetudine,
+<fn>Vgl. etwa <qv>nr2742</qv>,<qv>zl17011-6</qv>; <qv>nr2768</qv>,<qv>zl17036-9</qv>; <qv>nr2771</qv>,<qv>zl17038-12</qv>.<zfn>fn17063-2</zfn></fn> et
+<fa><i>Fehlt in der Vorlage.</i></fa> eiusmodi per multa, adeo ut finem faciens putaverit illi sat esse, si suo consilio
+<fn>seinem Rat (gemeint ist Granvelle).</fn> sua nuncius pontificius communicaret.<zzl>zl17063-14E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17063-15A</zzl>Secundus fuit pontificem admodum mirari, quoniam
+<fa><i>Siehe oben <qv>fn17063-1</qv>.</i></fa>, quum caesar tanta auxilia ab illo accepisset,
+<fn>Der Papst hatte im Juni 1546 mit dem Kaiser ein Bündnis geschlossen (s. oben <qv>fn17063-3</qv>), laut dem er den Krieg führenden Kaiser mit Geld und Hilfstruppen unterstützen würde; s. <a>HBBW</a> XVII 230, Anm. 57; 288,9f. Siehe aber auch <a>HBBW</a> XVIII 137, Anm. 49.<zfn>fn17063-7</zfn></fn> illius nullam faceret mentionem in suscipiendis Germanie civitatibus, perinde
+<fn>Von hier an kommentiert der unbekannte Briefschreiber.</fn> ac si eas sibi cum caesare communes esse vellet. Risit caesar et, quam sollicite illum Helvetico foederi
+<fn>Welches Bündnis gemeint ist, bleibt schleierhaft. Vermutlich handelt es sich um das angeblich von Papst Paul III. geplante Bündnis mit den Innerschweizern; s. <a>EA</a> IV/1d 779 aa, Nr. 5. Das falsche Gerücht könnte in Zusammenhang mit der Mitte Februar in Luzern nachgewiesenen Gesandtschaft des Papstes an die V Orte entstanden sein; s. aaO, 769 d.</fn> inclusisset, interrogavit, putavitque pontificem nihil minus quam tale quid murmurare oportuisse, quum in
+<fa>in <i>Fehlt in der Vorlage.</i></fa> illis, quae ad religionem spectant, occupandus esset.<zzl>zl17063-15E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17063-7A</zzl><zzl>zl17063-16A</zzl>Tertio miratus est pontifex, quamobrem<zzl>zl17063-7E</zzl> tam fortes milites et mundi huius gloriam, Italicum exercitum, his frigoribus
+<fn>Zum kalten Winter 1546/47 s. <qv>nr2788</qv>, <qv>fn17055-3</qv>; <qv>nr2803</qv>,<qv>zl17071-10</qv>; <qv>nr2811</qv>,<qv>zl17079-1</qv>.</fn> tam diu detineret et non potius illum in Italiam remitteret. Inquit caesar: "Si, mi nunci
+<fa><i>In der Vorlage</i> nuncii.</fa>, veniam vestris militibus petiturus ad me ante dies aliquot accessum cupivisti, profecto nunc doleo illum tibi non datum esse, <vl>527v.</vl> ut eos remitterem, qui victorię meae potius obstiterunt quam profuerunt! Nosti enim, inquit, quantorum malorum autores fuere!"
+<fn>Vgl. <a>HBBW</a> XVIII 91,76-79; 117,24-29; 137,45f; 227,37-39; 265f,34-37, sowie <a>NBD</a> IX 443-445.</fn> <zzl>zl17063-4A</zzl>Atque ita convocatis caesar altero die militum praefectis eos abire iussit.
+<fn>Vgl. <qv>nr2771</qv>,<qv>zl17038-6</qv>; <qv>nr2812</qv>,<qv>zl17080-4</qv>.</fn> Ac mirum quam caesar letetur se ab illis liberum,<zzl>zl17063-4E</zzl> adeo ut multis argumentis colligam caesaris animum in pontificem esse admodum ulceratum.
+<fn>Diese Vermutung des unbekannten Briefschreibers wird durch den Bericht Verallos bestätigt; s. <a>NBD</a> IX 443.</fn><zzl>zl17063-5E</zzl><zzl>zl17063-16E</zzl><zzl>zl17063-17E</zzl></p>
+<p>Ex Augusta, 15. februarii.</p>
+<un>Tuus Clodius.
+<fn>Diese Unterschrift gilt für die ganze Briefsendung, zumal Claudius nicht der Verfasser, sondern nur der Abschreiber vorliegender Beilage war.</fn></un>
+</div>
+</text>
+</brief>

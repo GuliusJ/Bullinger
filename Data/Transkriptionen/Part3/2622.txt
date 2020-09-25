@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2622">
+<brief>
+<id>16312</id>
+<nr>2622</nr> <from persid="HospinianJohannes"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-13"/>
+<ae>Johannes Hospinian an Bullinger</ae>
+<od>[Basel], 13. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 305 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB; Ms S 62, 11</k></dr>
+<re><t>Hospinian ist dermaßen stark beschäftigt, dass er erst jetzt dazu kommt, auf Bullingers Brief [nicht erhalten] zu antworten. Bullinger möge die verspätete Antwort nicht anders verstehen, als Hospinian Bullingers etwaige Unterbrüche in der Korrespondenz aufnimmt. Hospinian ist und wird immer um Bullinger bemüht sein, genauso wie dieser ihm und den Seinen wohlgesinnt ist.</t>
+<t>Als Freundschaftsbeweis hatte Hospinian seine belanglose [Ausgabe der griechischen Grammatik] von Urbano [Valeriani] geschickt. Und mit welch einem bedeutenden Geschenk [dem Lukaskommentar] hat Bullinger dies nun erwidert! Solche ungleichen Geschenke erinnern an den Tausch zwischen Glaucus und Diomedes! Hospinian ist umso dankbarer, als er die menschliche und göttliche Weisheit des Evangelisten Lukas besonders schätzt.</t>
+<t>Er empfiehlt sich und seinen Bruder Christian.</t>
+<t>Gruß, auch an [Anna, geb. Adlischwyler] und an die Kinder.</t></re>
+<text>
+<div>
+<p>S. P. D. Ad amantissimas suavissimasque tuas literas
+<fn>Ein nicht erhaltener Brief, der kurz nach Ende August 1546 verfasst wurde, nämlich nachdem Bullingers Lukaskommentar erschienen war; vgl. unten <qv>fn16312-1</qv> und <qv>fn16312-2</qv>. Mit diesem Brief wird Bullinger auf die kurz nach dem 20. März 1546 erfolgte Brief- und Buchsendung Hospinians (<a>HBBW</a> XVI, Nr. 2386) geantwortet haben.<zfn>fn16312-4</zfn></fn>, colendissime Bullingere, respondeo serius propter incredibiles occupationes meas,
+<fn>Vgl. schon <a>HBBW</a> XVI 242,4-6. - Hospinian war 1546/1547 Dekan der Basler Artistenfakultät; s. <a>M-Basel</a> II 514.</fn> quibus ab eo tempore, quo eas accepi, in hodiernum usque diem et fui et sum etiamnum maxime distentus. Obsecro itaque te, si modo precibus indigeo apud te, virum humanissimum, ne secus moram hanc interpretere, quam a me facta sit. Tui ego nominis atque existimationis et fui et sum et ero (quoad vixero et hanc mihi mentem concesserit optimus maximus) studiosissimus. Ecquid obstet, quominus hoc ego fecero, quum norim te mihi et meis ex animo optime cupere?</p>
+</div>
+<div>
+<p>Miseram testificandi amoris erga te mei gratia
+<fa><i>In der Vorlage</i> gratio.</fa> nescio quas naenias
+<fn>Hier im Sinne von "Belanglosigkeiten"; vgl. <i>Horaz</i>, Epistulae, 1, 1, 62.</fn> nostras in Urbanum.
+<fn>Anspielung auf die gekürzte Ausgabe der griechischen Grammatik von Urbano Valeriani (richtig: Dalle Fosse), auch Bolzanio genannt (1442-1524), die Hospinian im März 1546 in Basel drucken ließ; s. <a>HBBW</a> XVI 243 und Anm. 18.<zfn>fn16312-3</zfn></fn> Sed, amabo te, quid ad me tu remisisti?
+<fn>Gemeint ist (angesichts von unten Z. <qv>zl16312-1</qv>) Bullingers Lukaskommentar, der Ende August in Zürich erschienen war; s. unten <qv>fn16312-2</qv>.<zfn>fn16312-1</zfn></fn> Quodsi liceat rem profanam cum re adeo sacra conferre
+<fn>Vgl. <a>Adagia</a> 1, 3, 82 (<a>ASD</a> II/1 386, Nr. 282).</fn> nec sit nefas virum tanta prudentia <gr>kaì ueosofíä</gr>
+<fn>und mit göttlicher Weisheit.</fn> praeditum, quanta te esse omnes vere praedicant, homini gloriabundo et barbaro comparare, talis mehercle fuit Glauci
+<fn>Glaucus (griech. Glaukos), Held auf trojanischer Seite beim Kampf um Troja, Anführer der Lykier. Er tauschte seine goldene gegen die bronzene Rüstung des Griechen Diomedes. Zum daraus entstandenen Sprichwort "Diomedis et Glauci permutatio" s. <a>Adagia</a> 1, 2, 1 (<a>ASD</a> II/1 213-216, Nr. 101).</fn> cum Diomede
+<fn>Diomedes, griechischer Held vor Troja.</fn> permutatio. <zzl>zl16312-1A</zzl>Utut sit, ego tibi pro aureis istis tuis in Lucam commentariis
+<fn><i>Bullinger,</i> In luculentum et sacrosanctum Evangelium domini nostri Iesu Christi secundum Lucam commentariorum libri IX, Zürich, Christoph Froschauer, 1545; s. <a>HBBW</a> XVII 335, Anm. 2.<zfn>fn16312-2</zfn></fn> gratias et ago et habeo ingentes, daturus operam, ut (si fieri potest) referam.<zzl>zl16312-1E</zzl> Hoc scias: Eo gratius mihi esse istud tuum munus, quo magis semper huius evangelistae quam aliorum et dictione et historia sum delectatus. Elucet enim ex hoc evangelista (meo videre) non modo singularis quidam et eximius divinae verum etiam humanae sapientiae splendor. Sed ne sutor ultra crepidam!
+<fn>Siehe <a>Adagia</a> 1, 6, 16 (<a>ASD</a> II/2 40f, Nr. 516).</fn></p>
+</div>
+<div>
+<p>Ego me fratremque meum Christianum
+<fn>Christian Hospinian, der als Schulmeister in Aarau unglücklich gewesen war, hatte am 1. Oktober 1545 wohl durch Bullingers Vermittlung die Pfarrstelle in Bassersdorf (Kt. Zürich) erhalten; s. <a>HBBW</a> XV 612, Anm. 2f.<zfn>fn16312-5</zfn></fn> tibi commendo. Nam te diutius detinendi nec facultas est hoc tempore nec voluntas.</p>
+</div>
+<div>
+<p>Vale in domino Iesu felicissime. Ex nostro musaeo
+<fn>Zu diesem Ausdruck s. schon <a>HBBW</a> XV 251,49.</fn>, 13. octobris anno 1546. Officiose salutabis meis meorumque verbis uxorem
+<fn>Anna, geb. Adlischwyler.</fn> et liberos tuos
+<fn>Zu deren Namen s. <qv>nr2604</qv>, <qv>fn16292-1</qv>.</fn>.</p>
+<un>Tuus ex animo Iohannes</un>
+<un>Hospinianus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Summo maximoque theologo d. Heinricho Bullingero, apud Tigurinos divini verbi praeconem agenti primarium, domino et fratri suo in Christo observandissimo. Zürich.</p>
+</div>
+</text>
+</brief>

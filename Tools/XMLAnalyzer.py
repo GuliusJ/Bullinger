@@ -4,7 +4,7 @@
 # Bernard Schroffenegger
 # 10th of August, 2020
 
-""" processing XML files """
+""" processing XML files
 
 import xml.sax
 from lxml import etree
@@ -79,7 +79,6 @@ class lxml_etree_attr_count:
 
     @staticmethod
     def count_attrs(path):
-        """ XML-Parser Approach """
         try:
             ctr = lxml_etree_attr_count()
             parser = etree.XMLParser(target=ctr)
@@ -137,7 +136,6 @@ class XMLValCtr:
 
     @staticmethod
     def count(path, attribute_name):
-        """ XML-Parser Approach """
         try:
             ctr = XMLValCtr(attribute_name)
             parser = etree.XMLParser(target=ctr)
@@ -148,3 +146,4 @@ class XMLValCtr:
                 print("Warning: lxml.etree-Parser failed on", path)
             return None
 
+"""

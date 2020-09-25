@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2040">
+<nr>2040</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Eberhard von Rümlang</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>28. November 1544</date>
+</space_time>
+<vo>Autograph: Zofingen StB, Pa 14/2, Nr. 10 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopien 17./18. Jh.: Zürich ZB, Ms F 36, 546; Ms S 56, 64; Basel UB, G I 69, 30r.-31r. (alt: 10r.-11r.), Nr. 10; (von Joh. Müller, 1767:) Zofingen StadtB, Pa 15, S. 211, Nr. II/10.^&x{
+<re>Hätte die deutsche Bibel gerne geschickt; fand aber nur ein einziges gebundenes Exemplar, das sehr teuer war, weil dessen Abbildungen koloriert waren; falls [Hans von Rütte] dieses dennoch erwerben möchte, möge er anzeigen, wem die Bibel für den Transport anvertraut werden soll; sollte er wünschen, dass ihm ein anderes Exemplar gebunden werde, soll Rümlang dies frühzeitig melden.
+Die [Berner] Streitigkeiten kommen ganz ungelegen; indem der Rat solche duldet, verliert er die Sympathie des Volkes; bis jetzt wurde als Wahrheit erklärt, was der Rat dem Volk vorschrieb; nun ändert man seine Ansicht, und einige glauben, Genaueres entdeckt zu haben; demzufolge wäre die Berner Kirche Opfer einer falschen Lehre gewesen, und die Obrigkeit wie auch das Volk irregeführt worden; man erkannte die Berner Disputation [von 1528] an und verpflichtete sich ihr; sie wird nun als falsch erklärt von denen, die behaupten, man habe damals nicht gegen Luther, sondern gegen den Papst disputiert; dementsprechend sollte eine neue Disputation organisiert werden, um Luther anzuerkennen; Bullinger meint jedoch, dass die Disputation [von 1528] vielmehr gegen Luther als gegen den Papst veranlasst wurde: Man gedenke der damaligen Lutheraner Benedikt Burgauer und [Andreas] Althamer und des Gegenstandes der damaligen Debatten.
+Vor 16 Tagen hat Bullinger die ["Brevis <gr>ăntibolh́</gr>"] beendet; er wartet auf deren Druck durch Froschauer.
+Luther hat ein wütendes Buch über die Eucharistie gegen [die Zürcher] geschrieben, in dem er seinen Bannstrahl gegen all jene richtet, die nicht bekennen, dass Christus leibhaftig im Abendmahl anwesend ist und gegessen wird; bisher haben [die Zürcher] das Buch nicht erhalten; doch schrieben ihnen Gelehrte, die das Buch gelesen haben; Vadian äußert sich mit Verwunderung über [Luthers Verhalten]; Vielen werden noch die Augen aufgehen.
+Grüße u.a. an [Sulpitius Haller], [Peter im] Haag; schon lange gehört Rümlang zu den besten Freunden [Zürichs]; Grüße von allen.</re>
+<tx>Gratiam et pacem a domino.
+^$Libentissime misissem tibi Biblia Germanica,<f1>Vgl. Rümlangs Bitte, oben Nr. 2034, 12-14 mit Anm. 4.<fe> sed non potui
+in tota urbe apud ullum bibliopolam ulla invenire colligata.
+Unum modo erat venale exemplar, cuius figurae sive imagines
+cum essent illustratae coloribus, non minoris vendere
+volebat quam 7 Tigurinis aureis<f1>7 Zürcher Goldgulden. Zum Vergleich: Eine nicht kolorierte Froschauer-Foliobibel von 1531 hatte 3 1/2 Gulden gekostet; s. Hans Rudolf ^#/+Lavater,^#/- Die Froschauer Bibel 1531 - Das Buch der Zürcher Kirche, in: Die Zürcher Bibel von 1531, Zürich 1983, S. 1390.<fe>.
+Ego vero illud, licet sit
+pulcherrimum, quia magni erat precii, non audebam mittere.
+Quod si illud adhuc ille<f1>Der Berner Gerichtsschreiber Hans von Rütte.<fe> sibi mitti cupit, indicet
+aliquem<fx>aliquem ^#/+am Rande nachgetragen.^#/-<fe>, qui
+asportet. Quod si exemplum aliud cupit sibi colligari,
+significa tu mature, et parabitur.
+^$Contentiones illas inauspicatas maxime sopitas vellem
+praesertim hoc tempore, quo alias omnia fere convulsa
+et lacerata hiant. Non conciliat et adglutinat sibi
+magistratus plebem ferens huiusmodi certamina. Hactenus pro
+certa veritate venditata est doctrina, quam ex mandato
+magistratus accepit populus.<f1>Anspielung auf die Berner Disputation von 1528, die der Rat damals als maßgebend erklärte.<fe>
+Iam vero contravertitur; et
+putant se quidam exactiora invenisse. Hactenus ergo seducta
+est Bernensis ecclesia per doctrinam falsam; impositum est
+magistratui, impositum plebi. Receperunt Disputationem<f1>Die Berner Disputation von 1528.<fe>;
+iureiurando mutuo sese astrinxerunt ad conclusiones,<f1>So z.B. im August 1542; s. HBBW XII 193, Anm. 10 und 13.<fe> quas
+falsas propediem ostendent, qui clamant contra papistas
+Bernae, non contra Lutherum esse disputatum. Iam ergo novam
+disputationem esse celebrandam,<f1>Siehe zuletzt oben Nr. 2025, 30f.<fe> qua pro Luthero statuatur.
+Ego vero dico contra Lutherum magis quam contra papam Bernae
+esse disputatum. Nam Benedictus Burgouerus<f1>Benedikt Burgauer, der an der Berner Disputation teilgenommen hatte; s. HBBW III 112f, Anm. 6.<fe> et Althamerus<f1>Zur Teilnahme Andreas Althamers (geb. um 1500, gest. um 1539) an der Berner Disputation, damals Diakon an der Sebalduskirche in Nürnberg, s. ABernerRef 591 (Nr. 1465). 601f (Nr. 1471); Gottfried W. ^#/+Locher,^#/- Die Berner Disputation 1528. Charakter, Verlauf, Bedeutung und theologischer Gehalt, in: Zwa 14/10, 550. 559. - Zu Althamer s. Friedrich Wilhelm ^#/+Bautz,^#/- in: BBKL I 129f (mit Lit.).<fe>
+Lutherani fuerunt, non papistae; sed et argumenta, quales
+fuerint, ostendunt etc.
+^$Absolvi Responsionem contra Cochleum ante dies 16.<f1>Bullingers "Brevis <gr>ăntibolh́</gr>", deren Widmungsvorrede auf den 10. November 1544 datiert ist; s. oben Nr. 2010, Anm. 22.<fe>
+Expecto quando Froscho[uero] commodum sit, ut typis excudat.
+^$Scripsit contra nos Lutherus librum furiosum de
+eucharistia,<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 1971, Anm. 20.<fe> in quo anathematismo prolato omnes fulmine
+configit, qui non confitentur Christum in coena corporaliter
+et esse et edi. Ergo et Bernenses
+conclusiones damnat.<fx>^#/+Von^#/- Ergo ^#/+bis^#/- damnat ^#/+am Rande nachgetragen.^#/-<fe>
+Librum nondum potuimus assequi.<f1>Siehe dazu oben Nr. 2037, Anm. 3.<fe>
+Scribunt autem ita ad nos viri docti et pii,<f1>Damit mag Bullinger an Vadian denken (s. Z. 29f); vielleicht an Bucer (s. oben Nr. 2028, 20-29. 119-123); an Johannes Hospinian und möglicherweise an Calvin, die es aber nur von anderen erfahren hatten (s. oben Nr. 2021, 22-31; Nr. 2035); und an Ambrosius Blarer, der sich auf das Zeugnis seines Kollegen Johannes Jung beruft (s. oben Nr. 2030, 12-18).<fe> qui librum legerunt.
+Vadianus scribit<f1>Der Brief ist nicht erhalten.<fe> se non posse satis mirari, quid
+viro huic<f1>Gemeint ist Luther.<fe> venerit in mentem, quod seriam rem agat tam
+aniliter. Sed bene habet. Dei gratia et benignitate haec
+fiunt. Oculi multorum iam aperientur.<f1>Vgl. Jes 35, 5, sowie oben Nr. 1985, 11-16; 2007, 47-49.<fe>
+^$Salutem dices domino tuo quaestori aerario<f1>Sulpitius Haller.<fe>, singulari amico meo, Hagio<f1>Peter Im Haag.<fe> et
+reliquis. Valebis. Non nunc primum scribemus te
+<vl>v.</vl> in album amicorum;<f1>Anspielung auf oben Nr. 2034, 22.<fe> inscriptus es iam pridem et
+inter primos. Tu per gratiam dei permane, qui fuisti hucusque.
+Nostri omnes te salvere iubent.
+^$Tiguri, 28. novembris anno 1544.
+<un>H. Bullingerus tuus.
+<lz>[Adresse darunter:] Eruditione et imaginibus
+praestantissimo virod. Eberharto a Rümlang, fratri et amico
+singulari. Dem Seckelschryber zuͦ Bernn.
+</content>
+</letter>

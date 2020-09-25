@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2350">
+<brief>
+<id>16040</id>
+<nr>2350</nr>
+<ae>Heinrich Hindermann an Bullinger</ae>
+<od>Marburg, 10. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 363, 29 (Siegelabdruck)</vo>
+<dr>Ungedruckt<k>Kopie: Zürich ZB, Ms S 59, 73 (Opisander = Hintermeister oder eher Hindermann); erw.: Egli, Analecta II 24</k></dr>
+<re>Hindermann fand in [Marburg] ein Exemplar von Martin [Luthers "Contra 32 articulos Lovaniensium theologistarum"] und wollte davon eine selbst angefertigte Abschrift an Bullinger senden. Da der Buchdrucker [Christian Egenolff d.Ä. oder Andreas Kolbe] vorhatte, die Schrift nachzudrucken, stellte Hindermann sein Vorhaben zurück. Erst jetzt übersendet er sie durch einen Landsmann [...], zumal Bullinger, der die Löwener Artikel bereits hat (Hindermann schrieb sie ja einst für ihn ab), wohl noch nicht [Luthers] gerade erschienene Widerlegung besitzen wird.
+<t/>Kaiser [Karl V.] hebt angeblich ein Heer gegen die Evangelischen aus. Am 18. Januar fand die Trauung von Wigand Happel mit Johann Eisermanns Tochter [Katharina] statt, an der [die Zürcher Studenten] teilnehmen durften. Landgraf [Philipp von Hessen] hat am 13. Januar seine Tochter [Anna von Hessen] in Begleitung ihrer Mutter [Christine von Sachsen], der Hebamme [Elschen von Löwenstein] und einiger Adliger zu seinem Schwiegersohn, [Graf] Wolfgang von [Pfalz]-Zweibrücken, gesandt. Am 6. Februar kehrte [Christine] nach Marburg zurück. Am 26. Januar kam [Philipp] nach Marburg, reiste von dort nach Frankfurt zum [Schmalkaldischen] Bundestag und kam am 9. Februar zurück. In Marburg hörte er zum einen die seit langem anhängigen Prozesse wegen des Landes an der Lahn an, zum anderen die Fälle einiger Studenten, die von Bürgern misshandelt wurden. Theobald Thamer hat mit [Vorlesungen über die] Offenbarung begonnen und will in drei oder vier Wochen damit fertig werden.
+<t/>Aufgrund der allgegenwärtigen Not und Teuerung schreibt die Universität täglich Bittbriefe um Nahrung an den Landgrafen, der nach Kräften hilft. In Wittenberg und Leipzig ist alles billiger. In [Marburg] dagegen müssen viele [Studenten], zum Glück aber noch nicht die [Zürcher], 30 Gulden für die Verpflegung zahlen. Über die erstaunliche Tatsache, dass in einer so fruchtbaren Gegend eine solche Teuerung herrscht, wird der Bote [...] mehr berichten können; er war nämlich zugegen, als es vor dem Hof zu einem Auflauf wegen des Getreides kam. Bullinger möge wie bisher für die Studenten sorgen, die sich an seine Anweisungen halten werden.
+<t/>Grüße an die Familie, an seinen Verwandten Theodor [Bibliander] und u.a. an [Konrad] Pellikan.</re>
+<text>
+<p>S.P.D. <zzl>zl2350-1A</zzl>Inveni de improviso apud nos (vir doctissime) domini Martini refutationem
+<fn>Luthers Schrift "Contra 32 articulos Lovaniensium theologistarum"; s. <qv>nr2327</qv>, <qv>fn2327-1</qv>.</fn> articulorum nostro dogmati plane contrariorum, quos Lovanienses nuper impie satis aedere ausi fuerunt.
+<fn>Zu den 32 Artikeln der Löwener Theologen s. <a>HBBW</a> XV 303, Anm. 6. - Luther kannte wahrscheinlich den Kölner Nachdruck; s. <a>WA</a> LIV 412f. 416-422.</fn> Volui ergo tibi describere ac mittere, quia unicum tantum apud nos inveniebatur exemplar. Sed quia chalcographus noster
+<fn>Damit könnte entweder Christian Egenolff d.Ä. oder Andreas Kolbe gemeint sein; s. <a>Reske</a> 603f. Sollte Egenolff zutreffen, könnte dieser den Neudruck von Luthers Schrift bei Hermann Gülfferich in Frankfurt a. M. (<a>VD16</a> L4256) veranlasst haben.<zfn>fn2350-1</zfn></fn> impressurum se promittebat, distuli in praesens, ac iam tibi apud praesentem nuntium
+<fn>Unbekannt.</fn>, nostrum conterraneum, mitto,
+<fn>Damit ist entweder der Frankfurter Druck von Luthers Schrift (s. <qv>fn2350-1</qv>) oder eine Abschrift Hindermanns gemeint.</fn> maxime hac ex causa, quia te priores Lovaniensium articulos habere scivi,
+<fn>Siehe nämlich <a>HBBW</a> XV 303-305,1-15. 313f,30-38. 341f.</fn> utpote qui mihi, domi cum essem, eos describendos dederis,
+<fn>Zur Abschrift siehe <a>HBBW</a> XV 317f und Anm. 5.</fn> tum etiam quia plane persuasum habebam hanc articulorum <gr>ăntilogían</gr>
+<fn>Widerlegung [der Löwener Artikel].</fn> ad vos non pervenisse, quia iam demum aedita.<zzl>zl2350-1E</zzl>
+<fn>Bullinger hatte die Schrift jedoch schon von Georg Frölich erhalten; s. <qv>nr2327</qv> bei <qv>fn2327-1</qv>.</fn> Tu (ut soles) pro tua humanitate hos articulos domini Martini, si prius habes, a me candide suspicias ac aequi bonique consulas; sufficere enim me voluisse haec ad te mittere puto.</p>
+<p>Novi praeterea nihil est, nisi quod dicitur caesarem
+<fn>Karl V.</fn> maximum conscribere exercitum contra evangelicos. Id verum sit nec ne, non pronuntio. Deinde m. Wigandus
+<fn>Wigand Happel.</fn> nuptias splendidissimas celebravit 18. ianuarii cum domini Ferrarii
+<fn>Johann Eisermann.</fn> filia
+<fn>Katharina, geb. Eisermann.</fn>,
+<fn>Zu der Hochzeit s. <qv>nr2347</qv>,<qv>zl2347-1</qv>.</fn> quibus nos
+<fn>Die damals in Marburg studierenden Zürcher; s. <qv>nr2347</qv>, <qv>fn2347-1</qv>.</fn> etiam interesse dignatus est. Dii boni, quantum vidisses apparatum per 3 dies, quantam virorum doctorum coronam! Tertium est, quod te scire volo: Princeps
+<fn>Landgraf Philipp von Hessen.</fn> 13. ianuarii misit filiam suam
+<fn>Anna von Hessen, die am 28. Februar Christine von Pfalz-Zweibrücken gebar.</fn> matre
+<fn>Christine von Sachsen, Landgräfin von Hessen.</fn> comitante et gynaecio
+<fn>Elschen von Löwenstein; vgl. <a>PA</a> I 17, Nr. 22.</fn> aliquotque comitibus et nobilibus genero suo, duci Wolfgango Bipontano
+<fn>Graf Wolfgang von Pfalz-Zweibrücken.</fn>. 6.
+<fa><i>In der Vorlage</i> 6 <i>aus</i> 16 <i>korrigiert</i>.</fa> februarii mater reversa Marpurgum ibique per aliquot dies mansit. Deinde princeps ipse 26. ianuarii Marpurgum venit petiturus Francfordiam, ubi comitia.
+<fn>Zum Schmalkaldischen Bundestag in Frankfurt s. <qv>nr2319</qv>, <qv>fn2319-2</qv>. Zu Philipps Reise nach Frankfurt a. M. s. <qv>nr2335</qv> bei <qv>fn2335-2</qv>.</fn> 9. februarii reversus ad nos Marpurgum. Ibi per aliquot dies mansit cum tota aula sua causasque, quae circa Lani tractum
+<fn>Das Land an der Lahn. - Es war seit dem 13. Jahrhundert ein Kondominium der Grafschaft Nassau-Weilburg und der Landgrafschaft Hessen; s. Alexander <i>Jendorff,</i> Condominium. Typen, Funktionsweisen und Entwicklungspotentiale von Herrschaftsgemeinschaften in Alteuropa anhand hessischer und thüringischer Beispiele, Marburg 2010 - Veröffentlichungen der Historischen Kommission für Hessen 72, S. 129f und bes. 148f; s. ferner <a>PA</a> II 645f, Nr. 2029; 855, Nr. 2344.</fn> diu suspensae fuerunt, exaudivit, item studiosorum quorundam, qui a civibus maximis affecti iniuriis, vulnerati et lacerati miris modis. <zzl>zl2350-2A</zzl>Id etiam te scire volo, quod dominus Theobaldus
+<fn>Theobald Thamer.</fn> iam Apocalypsin orsus est, breviter perstringens omnia finiturus 3 aut 4 septimanis.<zzl>zl2350-2E</zzl></p>
+<p>Novi praeterea apud nos nihil est, nisi quod idem apud nos (proh dolor!) omnium rerum penuria et caritas maxima. Mittuntur ab acadaemia quotidie litter{e} supplices
+<fn>Nicht ermittelt.</fn> ad principem pro frumento, qui aliquo modo, quantum potest, iuvat. Wittenbergae et Lypsiae omnia minori comparantur pretio. Multi apud nos 30 fl. pro mensa numerare tenentur; quod tamen nos (deo laus!) facere nondum cogimur. Sed miraris forsan, quod tanta in frumenti regione caritas maxima sit; ipsi miramur, aliique omnes. Nuntius autem praesens poterit tibi rem omnem narrare. Is vidit, quantus nuper ad curiam pro frumento concursus fuerit. Haec tibi (pater clementissime) volui significare, ut statum nostrum omnium scires. Tu, ut hactenus semper ecclesiae inprimis et nostrum commodum spectasti, id porro facere non cesses. Nos, quod aequum et iustum est, faciemus.</p>
+<p>Boni meas literas incultas consule ac omnes moecenates nostro nomine plurimum salutes. Vale. Salutato nomine omnium totam tuam familiam, dominum Theodorum
+<fn>Theodor Bibliander.</fn>, cognatum meum observandissimum,
+<fn>Über eine Verwandtschaft zwischen Bibliander und Hindermann ist nichts bekannt; s. schon <a>HBBW</a> XIV 682 mit Anm. 14.</fn> aliosque, d. Pellicanum, etc.</p>
+<un>Heinrycus Opisander Tigurinus, tui observantissimus.</un>
+<lz/>
+<p>Marpurgi, 1546, 10. februarii.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Doctissimo ac fidelissimo Tigurinae ecclesiae ministro domino m. Heinryco Bullingero, moecenati suo observandissimo. Tiguri.</p>
+</text>
+</brief>

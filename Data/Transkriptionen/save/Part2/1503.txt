@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1503">
+<nr>1503</nr>
+<correspondents>
+	<originator>Wolfgang Capito</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>20. April 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 152 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 86; Straßburg BNU, Ms 672 (ThB 13), 42. 43.<f1>Zit.: O. E. Straßer, Capitos Beziehungen zu Bern 153.<fe></vo>
+<re>Beantwortet im Auftrag seiner Kollegen den Brief der Zürcher [Nr. 1489]: Über Calvin kann noch nicht entschieden werden, da
+er bei den in Regensburg begonnenen Verhandlungen - Grynäus wurde beauftragt, den Zürchern davon zu berichten - dringend
+gebraucht wird. Aufgrund von deren Bitte wird sich Hans Bock [beim Rat] gemeinsam mit [den Pfarrern und Lehrern] für das
+Anliegen Genfs einsetzen, obwohl ihnen ein Verzicht auf Calvin wegen der großen Arbeitslast schwer fällt; deshalb schreibt er
+auch nur kurz. Falls öffentliche Verhandlungen über die Religion angesetzt werden, sollen sich die Zürcher einer Einladung
+zur Teilnahme auf keinen Fall widersetzen; auch Melanchthon wird brieflich darauf drängen. Ob es die Gegner überhaupt so
+weit kommen lassen, werden die Zürcher von den Baslern hören, denen die Straßburger alle Nachrichten zukommen lassen; da
+dies der letzte Akt der Tragödie sein könnte, ist besondere Achtsamkeit nötig. Grüße.
+</re>
+<tx>[Gedruckt: CO XI 199f, Nr. 299; Corr. des réformateurs VII 84f, Nr. 965; Regest: Capito, Corr. 268f, Nr. 752.]
+^&x S. Literas tuas, quas communi nomine ad nos scripsisti,
+gratissimo animo susceperunt symmistę et collegę mei
+mihique negocium dederunt vobis reverenter rescribendi.
+Calvino absente de eius migratione nihil statui potest; nam,
+ut iussimus scribi ad vos per Grynęum, nunc coeperunt
+Reginospurgii[!] de componenda religione considerare et
+facere delectum paucorum hominum, qui reformationis
+rudimenta designent. In qua re illius usus multus erit. ^&x{
+^&x Verum illud sentietis vestras literas et autoritatem
+plurimum adiumenti attulisse. Johannes Bock pariter incumbet
+nobiscum, ut Genevatibus obsecundemus vel vestri causa,
+quamvis ęgre est tantum hominem a nobis dimittere. Senes
+sumus, exhausti laboribus et parvam admodum spem de iis
+videmus, qui post nos hoc saxum volvere deberent, et tamen
+publicam ecclesiarum salutem huic nostrę privatę ut
+anteferamus necesse est, id quod monetis prudenter et pie. ^&x{
+^&x Rogo igitur, symmistis tuis, fratribs ac maioribus meis in
+domino colendis, excuses, quod pro voluntate nostrorum non
+honorifice respondi; nam tempore excludor, et maius est
+amicitię vinculum inter nos, quam quod literarum
+firmamento sit continendum. Quodsi causa religionis ex
+arctiore colloquio in publicum certamen venerit, rogo atque
+obtestor vos, ne dubitetis vocati accurrere tanquam ad
+commune incendium restinguendum; Melanthon id literis
+graviter scriptis efflagitabit. At fieri potest, quod
+propemodum augurer, adversarios nunquam commissuros, ut
+causam religionis sinant publice disceptari. Ex
+Basiliensibus omnia scietis, quibus etiam minutiora
+exponemus; nam credunt plerique fore ultimum actum huius
+tragoedię; iccirco ac[c]uratius invigilandum. ^&x{
+^&x ^$Dominum Bibliandrum, Pellicanum, Erasmum, Megandrum et optimum quemque ex me salvere iubeas. Vale.
+^$Argentorati, 20. aprilis anno 1541.
+<un>Wolfgangus Capito.
+<lz>[Adresse .....:] Eximie viro domino
+Henricho Bullingero, pastori ecclesię Tigurinę, amico
+et maiori suo in domino observando. ^&x{
+</content>
+</letter>

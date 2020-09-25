@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1712">
+<nr>1712</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>21. Januar 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von späterer Hand.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 172 (Siegelspur)</vo>
+^&xTK: ZZB, Ms F 46 678; K: Ms S 52, 111; Erw.: Egli, Analecta II 60.^&x{
+<re>Konnte dem letzten Boten keinen Brief mitgeben, da er mit der Abfassung der Vorrede zur ["Biblia sacrosancta" (BZD C 319f)] beschäftigt war, die in einigen Wochen erscheinen wird; der Vorrede wird seine Erläuterung über die kanonischen Schriften [HBBibl I 115] und eine kurze Zusammenfassung beider Testamente ["Compendium et scopus totius sacrae scripturae utriusque testamenti", vgl. HBBibl I, S. XVIIf] beigegeben.
+Er hoffte eigentlich, dass Theodor [Bibliander] oder [Konrad] Pellikan die Abfassung dieser Einleitung übernehmen würde, aber da diese hartnäckig ablehnten, sah er sich selbst dazu gezwungen, da er das Werk nicht ohne Einleitung ausgehen lassen wollte; wird dafür sorgen, dass Vadian die noch ausstehenden Teile erhält.
+[Johannes] Oporin hat [die beschlagnahmten Exemplare] seiner Koranausgabe [am 11. Januar] zurückerhalten mit den Auflagen, dass er sie nicht in Basel verkauft, dass die Stadt nirgendwo im Druck erwähnt wird und dass schließlich dem Druck eine Vorrede beigegeben wird, deren Autor die Verantwortung für die Ausgabe übernimmt; diese Vorrede hat Theodor [Bibliander] bereits verfasst. [Rudolf] Gwalther hat eine gegen Mohammed gerichtete Schrift des byzantinischen Kaisers Johannes [VI.] Kantakuzenos aus dem Griechischen ins Lateinische übersetzt [VD 16 J 376], die Oporin wohl der Koranausgabe beigeben wird.
+Dank für ein Pasquill [Zürich ZB, Ms A 127, 226v.-227r.?], das Bullinger sehr gefallen hat. [Oswald] Myconius teilte am 17. Januar [Nr. 1711] Folgendes mit: Der Kölner [Erz-]Bischof [Hermann von Wied] strebt nach Reformen; Bucer predigt und lehrt [in Bonn] und plant, noch weitere Städte zu besuchen; das Volk ist roh, doch Christus hat auch dort einige Jünger. Auch der Bischof von Münster [Franz von Waldeck] bemüht sich um [evangelische] Gelehrte, und bezüglich Minden und Paderborn weiß
+[der ursprüngliche Briefempfänger] bereits Bescheid.
+Viele aus Ungarn zurückkehrende Soldaten sterben unterwegs; von den 270 Reitern des Erzbischofs sind nur 15 zurückgekehrt, wovon einer, [Wirich?] von Oberstein, noch auf dem letzten Wegstück starb. Herzog [Wilhelm] von Jülich wird durch geldrische, sächsische und dänische Truppen unterstützt und hat im Dezember Düren beschossen; die Vermittlungsversuche des Erzbischofs und [des Landgrafen Philipp] von Hessen blieben laut Bucer bisher erfolglos. Diese Nachrichten stammen wörtlich von Myconius, der sie aus Briefen Bucers entnommen hat. Gruß.</re>
+<tx>[Gedruckt: Vadian BW VI 201f, Nr. 1279.]
+</content>
+</letter>

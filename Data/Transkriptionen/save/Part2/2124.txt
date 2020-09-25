@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2124">
+<nr>2124</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>29. März 1545</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 27 ^$^$^$^$(Siegelabdruck)</vo>
+<dr>Teildruck: Jakob Ruf. Leben, Werk und Studien, hg. v. Hildegard Elisabeth Keller, Zürich 2008, Bd. 1, S. 120; Bd. 3, S. 235; Teildruck und zusammenfassende Übersetzung: Blarer BW II 355, Nr. 1175</dr>
+^&xKopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 74v.; Ms S 57, 33^&x{
+<re>Bullinger hat seinem letzten Brief [Nr. 2123] nichts hinzuzufügen, wollte es aber nicht versäumen, mit dem Boten [John Butler] einen Gruß zu schicken.
+-^#. Der Zürcher Drucker Augustin [Mellis, gen.] Fries druckt zwar die Schrift ["Das lyden unsers Herren Jesu Christi das man nempt den] Passion" von [Jakob Ruf], aber nicht [Johannes] Zwicks ["Christenlicher gantz trostlicher underricht ... mit ainer gar schoͤnen außlegung ... der siben] letsten wort Christi", von der er nichts weiß. Blarer soll dies Konrad Zwick, der danach gefragt hatte, mitteilen. Gruß an diesen.
+-^#. Bullinger empfiehlt John Butler, der sich in Zürich vortrefflich verhielt.</re>
+<tx>S[alutem] d[ico]. Pridie scripsi<f1>Bullingers Brief vom 27. März oben Nr. 2123.<fe>, honorande et charissime mi Blaurere, ut iam nihil habeam;
+quia tamen certus hic ad manum erat nuntius<f1>Der unten Z. 10 erwähnte John Butler.<fe>, non potui non te salutare. Vale.
+^$Augustin Frieß, der trucker Zürych,<f1>Augustin Mellis, gen. Fries oder Frisius nach seinem westfriesischen Geburtsort Franeker bei Leeuwarden, war Anfang der 1530er Jahre als Druckergeselle zu Christoph Froschauer nach Zürich gekommen. Heirat vor 1536 mit der Zürcherin Elsa Zimmermann, möglicherweise eine Verwandte von Froschauers Gattin; 1538 Zürcher Bürgerrecht, Zünfter zur Safran. 1540 war er schon selbstständiger Drucker und Verleger. Während seiner nachweislichen Wirkungszeit in Zürich von 1540 bis 1549 produzierte er deutsche, lateinische und englische Werke theologischer und dramatischer Natur sowie viele kleinere Schriften, Pamphlete und Einblattdrucke, von denen ein Großteil nicht mehr erhalten ist. Ende 1545 druckte er zwei Schriften, die dem Rat unangenehm auffielen und eine Verschärfung der Zensur zur Folge hatten; damit begann Mellis' allmählicher Abstieg. 1551 lässt er sich als Drucker in Straßburg nachweisen, seine Familie hatte er in Zürich zurückgelassen; 1552 sprach der Rat die Scheidung von seiner untreuen Ehefrau aus. 1553 scheint er versucht zu haben, eine Druckerei in Neuchâtel/Neuenburg zu gründen (Amerbach Korr. IX 100f). 1561 begab er sich nach Ljubljana, um sich dem Reformator Primož Trubar als Drucker für slawische Werke zu empfehlen. Mellis' Anstellung kam jedoch nicht zustande; nach seiner Abreise 1562 verliert sich seine Spur. - Lit.: ^#/+Reske^#/- 890. 1041; BZD 393-406; ZED passim; Paul ^#/+Leeman-Van Elck,^#/- Zürcher Drucker um die Mitte des 16. Jahrhunderts, in: Bibliothek des Schweizer Bibliophilen 2/10, 1937, 9-34.<fe> truckt ein gantzen passion, in rymen gestellt<f1>verfasst. - Jakob ^#/+Ruf,^#/- Das lyden unsers Herren Jesu Christi das man nempt den Passion, Zürich, Augustin Fries, [1545] (VD 16 R 3563; BZD 395, Nr. F 8); ediert von Seline Schellenberg Wessendorf in: Keller, aaO, Bd. 3, Zürich 2008, S. 229-461.<fe>
+von unserm steinschnyder<f1>Eine übliche Bezeichnung für den Chirurgen Jakob Ruf, der auch auf der Titelseite seiner "Passion" als "Steinschnyder zuͦ Zürich" bezeichnet wird; s. auch Keller, aaO, Bd. 1, Zürich ^#'22008, S. 261-264.<fe>, und hatt Zviccij selig<f1>Johannes Zwick war am 23. Oktober 1542 gestorben; s. ^#/+Moeller,^#/- Zwick 244.<fe> buͦch Von letsten worten Christi
+nitt truckt<f1>Stattdessen wurde das Werk in Konstanz gedruckt: Johannes ^#/+Zwick,^#/- Christenlicher gantz trostlicher underricht, wie man sich zuͦ ainem saͤligen staͤrben beraiten soͤlle, mit ainer gar schoͤnen außlegung, des Vatter unsers, ouch der siben letsten wort Christi, Konstanz, Balthasar Romätsch (Rummetsch), 1545 (VD 16 Z 725; ^#/+Moeller,^#/- Zwick 240-242. 291, Nr. 60). Die Schrift wurde mit einer Vorrede von Ambrosius Blarer versehen.<fe>. Wils nitt trucken; sagt, er habs nie gsaͤhen und wüsse nut drumb.
+Soͤlchs sagend üwerm vettern, minem lieben h. Conradt Zwicken, welcher mir ettwas befolhen nach ze vragen. Gruͤssend mir inn früntlich.
+^$D. Ioannem Buttlerum hunc commendo tibi; cum apud nos ageret, egregie se gessit et probe.
+^$Tiguri, 29. martii anno 1545.
+<un>H. Bullinger tuus.
+<lz>[Adresse auf der Rückseite:] D. Ambrosio Blaurero, honorando et percharo suo fratri.<fx>^#/+Darunter von Blarers Hand das Empfangsdatum:^#/- 1545, 31. martii.<fe> Constantz.
+</content>
+</letter>

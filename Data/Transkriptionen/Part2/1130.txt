@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1130">
+<nr>1130</nr>
+<correspondents>
+	<originator>Johannes Calvin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>20. Mai 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 368, 1 (Siegelspur)</vo>
+<dr></dr>
+<re>Schreibt erst jetzt, da ihre Sache lange in der Schwebe blieb; nach fünfzehntägigem Warten zeigte sich, daß [Peter] Kunz
+nicht anerkennen wollte, was in Zürich beschlossen worden war, und auch der Rat nahm nur wenig Rücksicht darauf. Dennoch wollen
+sie nichts unversucht lassen und machen sich nun auf den Weg [nach Genf].
+</re>
+<tx>[Gedruckt: CO X/2 200f, Nr. 119; Corr. des réformateurs V 16f, Nr. 714; Übersetzung: ^#/+Schwarz,^#/- Calvins Lebenswerk I
+34, Nr. 20.]
+^&xS. Quod hactenus a scribendo abstinuimus, ideo factum
+est, quod[quoniam] sic nobis fuerunt omnia in suspenso, ut
+nihil certi possemus indicare. Nunc quoque, cum citra
+querimonias recitari causę actio nequeat, hoc unum vos ex
+me habere malim, quę experti sumus, minime quidem ex voto
+nostro fluxisse, sed expectationi non male respondisse.
+Pręter dierum quindecim moram, quę ingenti tędio
+non caruit, accessit et inde plurimum molestię, quod
+nihil eorum, quę Tiguri transacta et confecta plane
+fuerant, a Conzeno agnoscebatur, et quo tamen videretur non
+malam habere causam, multo in nos impetu detonabat, ac si
+resilire+a{ iam ac datam fratribus fidem velle fallere
+constaret. Huc ergo restabat, ut senatus ipse sibi author
+esset ad omnia, qui in decernendo non adeo magnam habuit
+eorum rationem, quę Tiguri magno omnium consensu nobis
+concessa fuerant. Nobis tamen ad quaslibet potius
+conditiones descendere visum est, quam non tentare vias
+omnes, quibus ecclesię satisfieret. Nunc ergo iter
+arripimus, quod utinam Christus[dominus] prosperet. Ut enim
+eum respicimus in agendo, ita successum eius providentię ^&x{
+^&x committimus. Sed festinant comites; cogor iam epistolam
+vixdum inchoatam interrumpere.
+^$Vale, suavissime frater et inprimis mihi observande.
+Collegas tuos mihi amantissime saluta.
+^$Bernę, 20. maii 1538.
+<un>Calvinus tuus.
+<lz>[Adresse .....:] Domino Henrico Bullingero,
+pastori ecclesie Tigurine vigilantissimo et fidelissimo,
+dilectissimo fratri.^&x{
+</content>
+</letter>

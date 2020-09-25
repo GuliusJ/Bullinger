@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1573">
+<nr>1573</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>1. Oktober 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 107 (Siegelabdruck)</vo>
+^&xK: ZZB, Ms S 50, 99; Zit.: Corr. des réformateurs VII 285f; Milt, Vadian als Arzt 52. 65; TÜ: Zwa VIII 155f.
+^&x{
+<re>Hat bis jetzt zusammen mit seiner Familie überlebt, ebenso die [Stadt-]Pfarrer mit ihren Familien; die Pest hat nicht nachgelassen, wenn man auch in Anbetracht der Bevölkerungszahl der Stadt nicht von einem eigentlichen Wüten der Seuche sprechen kann; pro Woche sterben bald 30, bald 20, bald 40
+Einwohner. Hat nichts Neues aus Basel und Bern zu berichten, außer dass Beat [Gering], der [1538] wegen Ehebruchs aus der Zürcher Pfarrerschaft ausgeschlossen worden war, aus Straßburg als Pfarrer [an die Münsterkirche] nach Bern berufen worden sein soll; ahnt nichts Gutes, denn Gering ist überaus
+hochmütig und von schlechtem Charakter, worauf er führende Berner aufmerksam gemacht hat. Gruß.</re>
+<tx>[Gedruckt: Vadian BW VI 74f, Nr. 1200.]
+<tx>Gratiam et vitae innocentiam a domino.
+^$Vivo adhuc per domini gratiam, Vadiane colendissime; valet
+et familia mea, imo valemus hic omnes ministri verbi domini
+una cum familiis. Interim vero nondum deferbuit pestis,
+quibusdam etiamnum satis atrox, quamquam pro amplitudine
+urbis populisque frequentia nemodum pestem saevire dicere
+possit. Excedunt per integram hebdomadam aliquando 30,
+aliquando 20, aliquando 40, et qui excedunt, magna cum fide
+et religione excedunt, adeo ut spectantes laudent deum et
+timeant in diem minus.
+^$A Basilaea et Berna nihil nunc memorabile habeo, nisi quod
+aiunt Beatum<f1>Beat Gering.<fe> illum, qui superiore anno propter adulterium
+sacerdotio et ministerio exutus est a Tigurinis, ab
+Argentorato Bernam vocari ad ministerium verbi, unde
+nonnihil turbarum metuo oriturum; est enim homo ingenii
+arrogantissimi ac pravi. Monui ego quosdam ex primoribus;
+sed fortassis in fatis est, ut talem habeant.
+^$Dominus adsit nobis omnibus et servet te nobis incolumem.
+Amorem et studium in te meum [!/in me tuum], quoad vixero,
+recompensare contendam. Vale.
+^$Tiguri, 1. octobris anno 1541.
+<un>Tuus Bullingerus.
+<lz>[Adresse .....:] D[octori] Ioachimo
+Vadiano, consuli Sangallensi prudentissimo, colendissimo
+domino suo.
+</content>
+</letter>

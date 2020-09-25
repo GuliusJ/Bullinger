@@ -1,0 +1,221 @@
+
+original0.txt:
+
+(1) Doppelte IDs: ['23253', '29021', '30091', '35134', '36160', '43018', '28067', '28067', '39019']
+(2) Spezielle IDs: ['27073x', '27134x', '36102a', '39019a']
+
+Korrekturen in <original0.txt>
+-------------------------------
+(1) Doppelte IDs aufgeteilt in "a" und "b" (bsp. "23252" --> "23252a" und "23252b")
+    - <nr>[22225] [undat. Brief 98]</nr>  -->  <nr>[22225]</nr> ... <note>[undat. Brief 98]</note>
+    - [18189] NUN [17377]  --> aufgetrennt (17377 verweist auf 18189)
+    - Nr.  hat eine zweite Abschrift  --> a/b
+
+
+Annotations in <original1.txt>:
+
+('.sk 2;', 751)
+('.us;', 645)
+('.Reg;', 429)
+('.Anm;', 423)
+('.Text;', 416)
+('.ra;', 391)
+('.hy user;', 143)          (deleted)
+('.hy on;', 129)            (deleted)
+('.il 2;', 33)              (deleted)
+('.us off;', 12)            (deleted)
+('.us on;', 12)             (deleted)
+('.bi;', 1)                 (deleted)
+('.sk 3;', 1)               .sk 2
+('.AnM;', 1)                .Anm
+('.hy change Bickel;', 1)   (deleted)
+
+
+Annotations in <original2.txt>:
+
+^&
+^$
+^#/+ ... ^#/-
+^$^$^$^$ ... ^$^$^$^$
+^&x ... ^&x{
+-^#.
+^#G+ ... ^#G-
+
+Tags (Attribute ignorierend):
+-----------------------------
+Ungedruckt</dr 1
+www.genealogie-mittelalter.de 1
+teri 1
+df1 1
+nz 1
+θν 1
+f 1
+-----------------------------
+dra 88
+/dra 94
+/tx 203
+fx-t 303
+gr 374
+/gr 374
+fx-x 461
+vl 1072
+/vl 1072
+/dr 1121
+dr 1147
+/vo 1367
+tx 1374
+?xml 1378
+letter 1378
+nr 1378
+/nr 1378
+ae 1378
+/ae 1378
+od 1378
+/od 1378
+re 1378
+/re 1378
+vo 1381
+lz 1601
+un 1837
+fx 7028
+f1 22716
+fe 30510
+
+Annotations in <original0.txt>:
+===============================
+
+drSt. 1
+Lücke 1
+der 1
+Datum 1
+item? 1
+ommittam 1
+caleat 1
+insaciebilem 1
+de 1
+v. 1
+quod-habemus, 1
+ll] 1
+fa1 1
+/fa1 1
+fa1e 1
+quim? 1
+n 1
+sic? 1
+quot? 1
+/egr 1
+/fe 1
+?] 1
+martin.zuern^@geschichte.uni-freiburg.de 1
+audeant 1
+nihis? 1
+quoniam? 1
+f 1
+altio 1
+Daneben 1
+/ 1
+gr.../gr 1
+Notiz 1
+fge 1
+Hierzu 1
+sc 1
+Auf 1
+variariationis 1
+Datiert 1
+Dececc. 1
+Den 1
+diligenter 1
+hebräisch 1
+/hebräisch 1
+piis 1
+text 1
+/text 1
+/brief 1
+Florian 1
+facietur? 1
+-tarij 1
+fr 1
+ssimarum 1
+regilionis 1
+Vale, 1
+i) 1
+brief 1
+id 1
+/id 1
+[Basel], 1
+te 1
+Hochholtzer? 1
+Es 1
+propterea? 1
+.... 1
+Uttenhofe 1
+etz 1
+?? 1
+um/enses 1
+? 1
+bald 1
+Zürich 1
+not 1
+uterque 1
+den? 1
+Hiezu 2
+gr/ 2
+vgl. 2
+... 2
+Am 2
+lz/ 2
+lx 2
+Dazu 2
+a.R.: 2
+gr. 3
+zfn 3
+/zfn 3
+/un 3
+ge 4
+/ge 4
+fa 6
+/fa 6
+p 8
+/p 8
+fx-t 11
+ 11
+fx-x 13
+zzl 14
+/zzl 14
+qv 18
+/qv 18
+k 21
+/k 21
+i 25
+/i 25
+note 26
+/note 26
+a 36
+/a 36
+vl 38
+/vl 38
+fn 66
+/fn 66
+fx 225
+/tx 303
+un 650
+/gr 683
+/dr 717
+gr 717
+f1 1045
+/vo 1202
+lz 1285
+fe 1297
+/re 1302
+re 1307
+/od 1311
+tx 1355
+dr 1841
+od 2216
+vo 2285
+/ae 5707
+?xml 5709
+letter 5709
+nr 5709
+/nr 5709
+ae 5709

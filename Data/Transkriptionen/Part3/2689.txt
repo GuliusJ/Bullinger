@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2689">
+<brief>
+<id>16376</id>
+<nr>2689</nr> <from persid="FrölichGeorg"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-11-23"/>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 23. November 1546</od>
+<vo>Autograph: Zürich StA, E II 345, 323 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 95</k></dr>
+<re><t>Frölich wird sich kaum jemals für Bullingers häufige und nützliche Schreibtätigkeit auf angemessene Weise bedanken können! Er lässt zwar auch keinen Boten ohne einen Brief abgehen, erkennt aber an den Antworten, dass einige seiner Briefe abgefangen werden. Dies erklärt, warum die Zürcher manchmal über den Kriegsverlauf im Unklaren sind. Doch ist dies belanglos, zumal in diesem Krieg kaum etwas Bedeutendes geschehen ist. Der Feind [Kaiser Karl V.] hat stets mit List versucht, einer Schlacht auszuweichen und den Krieg in die Länge zu ziehen, damit den [Schmalkaldenern] die Mittel ausgehen, während er auf die finanzielle Unterstützung der päpstlichen Welt zählen kann. Doch, so Gott will, werden die [Schmalkaldener] weiterhin soviel tun wie möglich.</t>
+<t>Wegen des harten Winters und des besonders bei den Kaiserlichen bestehenden Mangels an Proviant und Futter können Soldaten und Pferde nicht länger im Feldlager ausharren. Die kaiserliche Kavallerie ist fast doppelt so groß wie die der [Schmalkaldener] und soll noch einen Nachschub von 1'000 Pferden aus Neapel erhalten. Allerdings wird das bei dieser Witterung dem Kaiser kaum etwas bringen, nur dass dadurch den armen Bauern noch mehr Schaden zugefügt wird. Sobald es möglich ist, werden die [Schmalkaldener] abziehen, jedoch 2'000 Reiter und 10'000 Fußsoldaten zurücklassen. Diese sollen bis zum Frühling für die Verteidigung [Süddeutschlands] sorgen. Der Herr möge Deutschland aus dieser bedrohlichen Lage retten!</t>
+<t>Bullinger soll nicht so viel arbeiten, besonders nicht für Frölich, der ihn schon vor kurzem [mit <qv>nr2684</qv>] diesbezüglich ermahnt hat. Auch sollte Bullinger seine Schrift ["Underscheid des Altten und Nüwen gloubens"] einer angeseheneren Person als Frölich widmen.</t>
+<t>Die Zürcher Pfarrer [Lorenz Meyer, Rudolf Schwyzer und Thoman Ruman] halten sich gut. Die Umstände ihrer Berufung sind zwar nicht ideal, doch wird man sich ihrer brüderlich annehmen. Gott allein kann das Vorhaben der Augsburger gelingen lassen.</t>
+<t>Bullingers Ermahnung zu Wachsamkeit und Vorsicht wird befolgt. Bisher haben sich die [Schmalkaldener] als ausdauernd und mutig erwiesen. Klar ist auch, dass dieser Krieg nur durch den Sieg einer der Parteien, ohne jegliche Verhandlung, entschieden werden kann, sonst würde das ganze deutsche Volk daran Schaden nehmen. Sollte es aber zu einem [Friedens]vertrag kommen, dann wünschte Frölich sich arm und weit weg von Augsburg!</t>
+<t>Bullingers Angaben über Heerführer und Kriegsvolk sowie die Nachrichten aus Luxemburg und zu [Nicolas Perrenot, Herrn von] Granvelle, hat Frölich an die dafür zuständigen Personen weitergeleitet. Er hat auch an Landgraf [Philipp von Hessen] geschrieben. Bullingers Brief an Hans Wilpert Zoller [nicht erhalten] sowie das für den hessischen Prediger [Theobald Thamer] bestimmte Buch ["Endtchrist" von Rudolf Gwalther] hat er umgehend ins Feldlager geschickt. Möge Gott Bullinger für seine Verdienste um die Religionssache und um das Vaterland
+schon im Diesseits reichlich belohnen!</t>
+<t>Zu keiner Zeit hatten die [Schmalkaldener] vor, mit dem französischen [König Franz I.] oder mit dem englischen [König Heinrich VIII.] ein Bündnis einzugehen! Sie versuchten nur, dem Kaiser Schwierigkeiten zu machen und an Geld zu kommen. Man wird sich nun auch bemühen, Granvelles Machenschaften zu vereiteln.</t>
+<t>[Johannes] Haller, Zoller, [Hans] Vogler [d.J.] und alle Zürcher liegen Frölich sehr am Herzen. Hoffentlich kann er sich ihnen behilflich erweisen!</t>
+<t>Grüße an die Bürgermeister [Johannes Haab und Hans Rudolf Lavater], an den Stadtschreiber [Hans Escher vom Luchs], an Gwalther, [Konrad] Gessner, [Johannes] Fries, [Theodor] Bibliander und an alle Gelehrten.</t>
+<t>[Wolfgang Lavater], der Sohn des Bürgermeisters [Hans Rudolf], ist schon längst aus Ulm abgereist und wird nun hoffentlich wieder zu Hause angelangt sein.</t>
+<t>Gruß an die Gattin [Anna, geb. Adlischwyler] und an die Kinder. Der Herr sei mit ihnen allen. Amen!</t></re>
+<text>
+<div>
+<p><zzl>zl16376-4A</zzl>S. Quomodo autem tibi, amicorum et fratrum devinctissime, pro tot et tantis diligentissimis et utilissimis scriptitacionibus
+<fn>das viele Schreiben; s. <a>Hoven</a> 497. - Bullingers Briefe an Frölich sind (bis auf <a>HBBW</a> XVII, Nr. 2464) nicht erhalten.</fn> officiisque responsurus sim unquam, non habeo.<zzl>zl16376-4E</zzl> <zzl>zl16376-3A</zzl>Ego etsi neminem hinc sine literis meis ad te ire sciens permitto, tamen ex tuis facile deprehendo meas aliquando intercipi.<zzl>zl16376-3E</zzl> Hinc fit, ut de rebus nostris sepius incerti sitis. <zzl>zl16376-5A</zzl>Pluries equidem de inauspicati huius belli gestis scribere, quam scripsi, nihil proderat. Nam nihil scitu memorabile unquam in illo factum est, cum hostis
+<fn>Kaiser Karl V.</fn> conflictum suis subterfugiis
+<fn>mittels Listen.</fn> semper declinarit, castra nunc hac, nunc illac moverit et bellum in hunc usque diem protraxerit, nimirum facile sibi persuadens nostros
+<fn>die Schmalkaldener.</fn> tot sumptus diu ferre non posse,
+<fn>Vgl. <qv>nr2684</qv>,<qv>zl16371-12</qv> und <qv>fn16371-6</qv>.</fn> ipsum vero ab universo papatu pecuniis iuvari,
+<fn>Siehe zuletzt <qv>nr2658</qv>,<qv>zl16347-14</qv>.</fn> neminem autem nos; id quod sane vanum non est. Summa: Nos hactenus fecimus, quod potuimus; facturi porro in posterum, quantum dominus concesserit.<zzl>zl16376-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16376-2A</zzl>Nunc hiemis asperitas castra prohibebit.
+<fn>Um den 22. November 1546 setzten starke Schneefälle ein, die ein Verharren in den Feldlagern nicht zuließen; s. <a>NDB</a> IX 359f, Anm. 3; 365, Anm. 2. Doch Frölich wusste offenbar noch nicht, dass das schmalkaldische Heer am 22. November aus Giengen an der Brenz aufgebrochen war; s. Heinrich Thomann an den Zürcher Rat, 22. November (Zürich StA, A 177, Nr. 148). - Zu diesem Kälteeinbruch s. auch <qv>nr2690</qv>,<qv>zl16383-9</qv>; <qv>nr2691</qv>,<qv>zl16378-2</qv>; <qv>nr2698</qv>,<qv>zl16386-8</qv>; <qv>nr2701</qv>,<qv>zl16389-5</qv>.<zfn>fn16376-2</zfn></fn> Poterunt hoc frigus neque equi neque milites diutius ferre;<zzl>zl16376-2E</zzl> taceo, <zzl>zl16376-6A</zzl>quod victus et pabulorum ingens penuria in utroque exercitu, in hostis tamen maior quam in nostro, sit.<zzl>zl16376-6E</zzl> <zzl>zl16376-7A</zzl>C{e}sar nos equitatu fere in duplo exuperat, iamque ei adhuc mille Neapolitanorum equites advolant,
+<fn>Vgl. dazu den Brief Karls V. an Herzog Wilhelm von Bayern vom 18. November 1546 aus Wittislingen. Darin ist von 2'000 neapolitanischen Reitern die Rede, welche am 14. November in Brixen angekommen waren; s. <a>Druffel, BA</a> I 26, Nr. 65. Laut einem Brief von Konstanz an Zürich, 4. Dezember (Zürich StA, A 177, Nr. 150), sollen am 24. November 1'000 Pferde aus Neapel in München angekommen sein; weitere 1'000 wurden erwartet. - Zu diesen Reitern s. ferner <qv>nr2701</qv>,<qv>zl16389-12</qv>.<zfn>fn16376-3</zfn></fn> licet hac tempestate pr{e}ter depredationem miserorum agricolarum parum effecturus sit.<zzl>zl16376-7E</zzl> <zzl>zl16376-8A</zzl>Nostri se brevi domum, si comode fieri
+<fa><i>In der Vorlage</i> fierit.</fa> poterit, recipient relicturi nobis 2'000 equitum et 10'000 peditum, quibus nos, donec ver redierit, defendamus.
+<fn>Dies entsprach einem am 16. November gefassten Beschluss des seit dem 10. November (s. Thomann an den Zürcher Rat, 10. November, Zürich StA, A 177, Nr. 130) im Lager von Giengen tagenden Kriegsrats der Schmalkaldener, demzufolge nach Abzug der Truppen des Landgrafen Philipp und des Kurfürsten Johann Friedrich 8'000 Mann und 1'000 Reiter unter der Leitung des württembergischen Truppenführers Johann Freiherr von Heideck und des im Dienste Augsburgs stehenden Sebastian Schertlin in Süddeutschland bleiben sollten; s. Friedrich <i>Hortleder,</i> Der Römischen Keyser- und Königlichen Maiesteten ... Handlungen und Außschreiben, Bd. II, Gotha 1645, S. 506. Man scheint sich an diesen Beschluss gehalten zu haben, zumindest war dies Anfang Dezember noch der Fall; s. <a>PC</a> IV/1 504, Nr. 471.<zfn>fn16376-4</zfn></fn><zzl>zl16376-8E</zzl> Deus interim optimus maximus gravissimum hoc et toti Germani{e} exiciale negotium in salubrem statum ponat! Amen. Hunc vos pii omnes nobiscum ex penetralibus cordium exorabitis, scio.</p>
+</div>
+<div>
+<p><zzl>zl16376-9A</zzl>Labores tui sanctissimi, frater, nimii sunt, presertim illi, qui in favorem mei fiunt. Dignior quidem eligendus fuerat me, cui scripta tua divina dedices.
+<fn>Vgl. schon <a>HBBW</a> XVI 193,73-78, zu einer ähnlichen Reaktion Frölichs in Zusammenhang mit einer anderen Widmung. - Bullinger wollte ihm damals seine Schrift "Underscheid des Altten und Nüwen gloubens" (s. dazu <qv>nr2608</qv>, <qv>fn16296-1</qv>) widmen; s. <qv>nr2639</qv>,<qv>zl16329-14</qv>. Es sollte aber nicht dazu kommen.<zfn>fn16376-5</zfn></fn> Ego meipsum in hoc novi minorem esse, quam ut tam honorifice habear. Sed tuus in me ardor et amor iure locum accipiant.<zzl>zl16376-9E</zzl> <zzl>zl16376-10A</zzl>Proinde te paucos ante dies literis monui, ne nimium te onerares laboribus.
+<fn>Nämlich mit <qv>nr2684</qv>,<qv>zl16371-13</qv>. <qv>zl16371-14</qv>.</fn> Id obiter hic repetisse volo, precorque, ut rebus modum facias.<zzl>zl16376-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16376-11A</zzl>Vestri concionatores, imo nunc nostri,
+<fn>Gemeint sind die von Zürich nach Augsburg berufenen Pfarrer Lorenz Meyer (Agricola), Rudolf Schwyzer d.Ä. und (Hans) Thoman Ruman.</fn> viri optimi hic sunt atque se strenue et honeste gerunt. Causa autem, cur accersiti sint, non in eo statu est, quo debebat. Dominus tamen pro sua gloria et benignitate pium institutum nostrum poterit adhuc abunde prosperare. Nihilominus tamen optimos illos viros fraterne fovebimus.<zzl>zl16376-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16376-12A</zzl>Wie ir treulich unnd freundtlich schryben
+<fn>In einem nicht erhaltenen Brief.</fn> unnd erinnerend, wol z{uo} wachen unnd nit zw viel trawen, das geschieht furwar mit allem vleiß. So hat man sich stieff unnd keckh
+<fn>stieff unnd keckh: beharrlich und furchtlos; s. <a>Fischer</a> IV 1698; V 301.</fn> gehalten, unnd verhoffe, es soll am selben, so viel gott genade verleihet unnd so weit sich unnser verm{oe}gen erstreckt, nit manglen. Der krieg kan und mag kainswegs on entlich
+<fn>on entlich: ohne endgültiges.</fn> verterben teutscher nation durch ainig mittl
+<fn>ainig mittl: irgendeine Vermittlung; s. <a>Fischer</a> II 617 s.v. einig; IV 1710 s.v. Mittel.</fn> gericht werden, sonnder da m{uo}ß ain tail furziehen
+<fn>ain tail furziehen: eine der beiden Parteien die Oberhand gewinnen; s. <a>Grimm</a> XXVI 2004 s.v. vorziehen.</fn>.<zzl>zl16376-12E</zzl> <zzl>zl16376-13A</zzl>Sobald aber ain vertrage gemacht wurdt, so wollt ich gern arm unnd weitt von hinnen sein.
+<fn>Gemeint ist, dass, falls es (durch die Verhandlungen des Augsburger Patriziats) zu einem Frieden kommen sollte, Frölich fest entschlossen ist, seine Stelle aufzugeben ("arm" zu sein) und seinen Wohnort zu wechseln ("weitt von hinnen" zu sein).</fn><zzl>zl16376-13E</zzl></p>
+</div>
+<div>
+<p><vl>323v.</vl> <zzl>zl16376-14A</zzl>Was ir mir fur anlaitung
+<fn>Anweisung, Plan; s. <a>FNHDW</a> I 1314.</fn> unnd bericht
+<fn>Zu verstehen: Bericht(e) über.</fn> hauptleut unnd kriegßfolkh, auch die zeittungen
+<fn>Nachrichten.</fn> uß Lutzemburg unnd mit
+<fn>betreffend; vgl. <a>Fischer</a> IV 1701.</fn> Grandvela
+<fn>Nicolas Perrenot, Herr von Granvelle. - Bullinger hatte wohl die aus Basel kommenden Gerüchte übermittelt; s. zuletzt <qv>nr2672</qv>,<qv>zl16359-2</qv>.</fn> geschriben, das hab ich alsbald an ortten, da sichs gebuert, vermeldt unnd darzu dem landgrafen
+<fn>Philipp von Hessen.</fn> geschriben.<zzl>zl16376-14E</zzl> <zzl>zl16376-15A</zzl>Auch eurn brieff an Hanns Hilpert Zoller,
+<fn>Nicht erhalten. - Gemeint ist Hans Wilpert Zoller d.J.</fn><zzl>zl16376-15E</zzl> desglichen <zzl>zl16376-1A</zzl>das büchlin an den hessischen prediger
+<fn>Theobald Thamer, dem Bullinger mit Brief <qv>nr2675</qv> Rudolf Gwalthers "Entchrist" (Antichristus) ins Lager geschickt hatte; vgl. <qv>nr2676</qv>, <qv>fn16362-1</qv>.</fn> furderlich
+<fn>sofort; s. <a>Fischer</a> II 1847.</fn> inn das geleger
+<fn>Feldlager.</fn> geschickht.<zzl>zl16376-1E</zzl> Ich bedannckh mich sollichs alles. Gott wolle, das ewr trewe, vleiß, sorg, miehe
+<fn>Mühe.</fn> unnd arbait inn dem hanndl gottis unnd des vatterlands hie im zyt
+<fn>hie im zyt: im Zeitlichen, Diesseits; s. <a>Fischer</a> VI/1 1107 (unten).</fn> erkennt werde.</p>
+</div>
+<div>
+<p><zzl>zl16376-16A</zzl>Nunquam nostris in animo fuit vel cum Gallo
+<fn>König Franz I. von Frankreich.</fn> vel Anglo
+<fn>König Heinrich VIII. von England.</fn> foedus inire,
+<fn>Vgl. schon Frölichs Klarstellung in <qv>nr2662</qv>,<qv>zl16351-4</qv>. - Auch Hartmann von Hallwyl hatte versucht, Bullinger diesbezüglich zu beruhigen; s. <qv>nr2664</qv>,<qv>zl16353-2</qv>. Bullinger war jedoch gegen jegliche Verhandlungen mit "ungläubigen" Mächten und fürchtete sogar, dass der damalige Misserfolg der Schmalkaldener auf diese Verhandlungen zurückzuführen sei; s. <qv>nr2695</qv>,<qv>zl16382-2</qv>.<zfn>fn16376-1</zfn></fn> sed eos ad faciendum hosti negotium et nobis pecunias accomodandum
+<fa><i>In der Vorlage</i> accomondum.</fa>
+<fn>"accommodare" im Sinne von "leihen"; s. <a>Kirsch</a> 30. - Zur Sache s. <qv>nr2612</qv>, <qv>fn16301-6</qv>.<zfn>fn16376-6</zfn></fn> pellicere conati sumus.<zzl>zl16376-16E</zzl> <zzl>zl16376-17A</zzl>Dabimus quoque nunc operam Grandvel{e} astutiis contraire.
+<fn>Granvelle soll beim Entschluss des Herzogs Moritz von Sachsen, sich auf die Seite des Kaisers zu schlagen, eine wichtige Rolle gespielt haben; s. <a>Venetianische Depeschen</a> II 86, Nr. 37. Außerdem hatte er kurz zuvor, am 12. November, mit dem päpstlichen Nuntius Girolamo Verallo in Lauingen verhandelt; s. <a>Pastor</a> V 588f.<zfn>fn16376-7</zfn></fn><zzl>zl16376-17E</zzl></p>
+</div>
+<div>
+<p>D. Hallerus, Zollerus, Voglerus
+<fn>Hans Vogler d.J.</fn> atque omnes Tigurini sunt mihi commendatissimi. Utinam possem illis rite gratificari!</p>
+</div>
+<div>
+<p>Dominos consules
+<fn>Johannes Haab und Hans Rudolf Lavater.</fn>, archigrammateum
+<fn>Hans Escher vom Luchs.</fn>, Gvaltherum, Geßnerum, Frisium, Bibliandrum et totam doctorum coronam salutabis impensissime.</p>
+</div>
+<div>
+<p><zzl>zl16376-18A</zzl>Filius
+<fn>Wolfgang Lavater.</fn> d. consulis Lavatheri, ut nuper scripsi,
+<fn>Vgl. <qv>nr2684</qv>,<qv>zl16371-16</qv>.</fn> iamdudum ex Ulma abivit, domum haud dubie concessurus. Spero ipsum nunc advenisse.<zzl>zl16376-18E</zzl></p>
+</div>
+<div>
+<p>Vale cum honestissima coniuge
+<fn>Anna, geb. Adlischwyler.</fn> et liberis
+<fn>Zu diesen s. <qv>nr2604</qv>, <qv>fn16292-1</qv>.</fn>. Dominus sit vobiscum. Amen. 23. novembris 1546.</p>
+<un>Tuus Georgius L{e}tus, etc.</un>
+<lz/>
+<p>[Adresse auf f. 324v.:] Dem christennlichen, hochgelerten herren Hennrichen Bullinger, vorgeern
+<fn>Antistes.</fn> der kirchen Zurch, meinem geliepten herren unnd bruder, etc., Zurch.</p>
+</div>
+</text>
+</brief>

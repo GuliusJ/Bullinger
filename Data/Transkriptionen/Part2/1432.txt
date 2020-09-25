@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1432">
+<nr>1432</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Marburg</place>
+	<date>13. November 1540]</date>
+	<note>Der Briefanfang läßt erkennen, daß es sich um eine Nachschrift zu Nr. 1430 handelt.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2042 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 151</vo>
+<dr>Regest mit Teildruck: ^#/+Köhler,^#/- Hessen und die Schweiz 471, Nr. 19</dr>
+<re>Das Geld für Gwalther und seine Mitstudenten soll nicht nach Konstanz geschickt werden, da der im vorigen Brief [Nr. 1430]
+erwähnte Marburger Ratsherr bereit ist, soviel vorzuschießen, wie die Zürcher zusagen. Bittet, ihn noch für ein
+Jahr zu unterstützen; nachher wird er sich in den Dienst Zürichs stellen. Ihr Stipendium soll Froschauer mitbringen, wenn er zur
+[Frankfurter] Messe reist. Gwalthers Epicedium auf Eobanus [Hessus] wird demnächst erscheinen; er verspricht, es umgehend
+zu schicken. Bittet nochmals um Bilder Zwinglis, da der Kreis jener, die dessen Lehre befürworten, täglich wächst; auch der Fürst [Philipp von Hessen] soll dazu gehören.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Cum literas omnes obsignavissemus<f1>Vgl. oben Nr. 1430, 2-8 mit Anm. 2.<fe> ac Marpurgensis hic senator<f1>Unbekannt; vgl. ebd.<fe>, vir honestissimus, qui Constantiam petiit, de
+nummis agi audiret, iussit, ut aut ad te aut alium nostrorum
+parentum scriberemus, ne nummi Constantiam mitterentur, sed
+per literas tantum illi nobis mutuo dandi copia a nostris
+daretur<fx>^#/+für gestrichenes^#/- detur ^#/+über der Zeile nachgetragen.^#/-<fe>. Offert enim se (ut est erga studiosos optime
+affectus) se omni in re nobis etiam ignotis adfuturum.
+Quare, pater colendissime, etiam atque etiam te rogo, ut
+Gregorio Mangolt, Constantiensi bibliopolę, nomine nostro
+scribas, qui illi hęc nomine vestro indicabit. Hoc
+enim si fiat, summa, qua nunc laboramus, necessitate facile
+extricabimur. Opus autem est, ut eadem Wolphii<f1>Johannes Wolf.<fe> et Wikii<f1>Johann Jakob Wick.<fe> parentibus indices.
+^$Fac, quaeso, mi pater, ut te et alios mihi patronos ut
+hactenus habeam; efficiam certe, quantum in me erit, ne aut
+vos vestrę beneficentiae aut quenquam sui in me beneficii
+poeniteat. Pudet me hercle ab ignotis mutuo sumere, si
+domestico auxilio destituar. Unum hunc annum ut liberius
+vivere possim, peto; hoc enim transacto me in vestrę
+reipublicae usum paratissimo animo offero.
+^$Fac autem, ut Froschouero stipendia nostra ad nundinas
+ituro numerentur, quo statim in nundinarum principio nostris
+s[atis]<fx>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> fieri possit creditoribus.
+^$Vale, pater charissime.
+^$Epicedion Eobani<f1>Vgl. oben Nr. 1425, Anm. 12.<fe> tuo nomini dicatum hisce diebus (utd. Lonicerus affirmat)
+universitatis huius nomine imprimetur, quod primo, quo possum, nuntio mittam.
+^$Si tamen nunc Zvinglii imagines<f1>Vgl. oben Nr. 1430, 50-60.<fe> mittere poteris, quaeso,
+mittas. Nunc enim quotidie et inter cives et doctos prodire
+incipiunt, qui nostrę religionis fautores sese manifesto
+testantur, quod idem de principe<fx>^#/+vor^#/- principe ^#/+gestrichenes^#/- doct.<fe><f1>Landgraf Philipp von Hessen.<fe> omnes affirmant.
+^$Vale iterum, deusque te nobis diu incolumem<fx>^#/+vor^#/- incolumem ^#/+gestrichenes^#/- aux.<fe> servet.
+<un>Tui observantissimus
+<un>Rodolphus Gvaltherus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Heinricho
+Bullingero, Tigurinę ecclesiae antistiti vigilantissimo,
+patri suo plurimum colendo.
+</content>
+</letter>

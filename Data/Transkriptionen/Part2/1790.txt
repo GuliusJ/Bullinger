@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1790">
+<nr>1790</nr>
+<correspondents>
+	<originator>Richard Hilles</originator>
+	<addressee fn=1>[Bullinger]</addressee>
+	<note fn=1>Dass Bullinger der Adressat des Briefes ist, ergibt sich daraus, dass Hilles am 15. November auf die hier erwähnte Geldüberweisung zurückkommt; s. unten Nr. 1815.</note>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>26. September 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 292 (ohne Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 136</vo>
+<re>Sendet Geld für einen guten Zweck, etwa für die armen Exilanten. Seine Frau [Anna Hilles] erwartet in drei Wochen ein Kind und bittet, für sie zu beten. Bei der letzten Messe übersandte er Bullinger durch Heinrich Falkner 4 Gulden für Bücher [vgl. HBBW XII, Nr. 1704]; Bullinger soll Falkner daran erinnern, dass dieser ihm fast 124 Kronen in Gold schuldet und bisher nur vier in anderer Währung an Christoph [Froschauer] bezahlt hat. Der Hintergrund ist dieser: Hilles hatte mit Falkner zunächst eine Zahlung von 175 Gulden bei der Straßburger Messe vereinbart, Falkner erbat dann aber, erst bei der Frankfurter Messe, und dann in Goldkronen, zu zahlen, um das Geld zuvor anderweitig anzulegen; diese Verzögerung ist ein großer Verlust für Hilles, da er kein Tuch in England kaufen konnte und einen schlechteren Kurs hinnehmen musste.
+Wie er schon John Burcher geschrieben hat, ließ König [Heinrich VIII.] vor zwei Monaten [am 28. Juli 1543] drei Personen [Anthony Pierson (Persons), Robert Testwood und Harry Filmer] verbrennen; im gleichen Monat heiratete er auch [Catharine Parr,] die Witwe des Adeligen [John Neville, Lord] Latimer - mit solchen Schandtaten feiert [Heinrich] bekanntlich gern seine Hochzeiten. Gruß. Bitte, Briefe an einige Deutsche sowie Geld und einen Brief an Burcher weiterzuleiten.</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 159, Nr. 111 bzw. Original Letters I 240-242, Nr. 111; Regest: LP XVIII/2 115, Nr. 219.]
+</content>
+</letter>

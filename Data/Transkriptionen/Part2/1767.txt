@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1767">
+<nr>1767</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>2. August 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 264 (Siegel)</vo>
+^&xK: ZZB, Ms S 53, 61; Zit.: Gast, Tagebuch 37. 96. 185 (Anm.
+94)^&x{
+<dr>Ungedruckt</dr>
+<re>Übersendet das anatomische Werk ["De humani corporis fabrica"] von [Andreas] Vesalius, der gerade zu Kaiser [Karl V.] nach
+Speyer aufbricht. Korrigiert die frühere Preisangabe für die "Epitome" und das Hauptwerk; Vesalius, der Bullinger grüßen
+läßt, überlässt es ihm, wieviel er dafür bezahlen will; Gast wird ihm auf Wunsch auch die deutsche Kurzfassung schicken,
+sobald diese erscheint, und bedauert, ihm das ganze Werk nicht schenken zu können. Missbilligt den Vorschlag der
+Basler Pfarrer, der Rat solle den Schülern - wie früher unter dem Papsttum - das Betteln von Tür zu Tür erlauben; wohin sind
+die Einkünfte aus den Kirchengütern gekommen? Grüße; nimmt an, dass die "Epitome" bei Bullinger eingetroffen ist.
+</re>
+<tx>S. Opus anatomicum<f1>Andreas Vesalius, De humani corporis fabrica (vgl. oben Nr. 1728, 3-5 mit Anm. 3). Zu einem
+Exemplar, das vermutlich aus Bullingers Besitz stammt, s. HBBibl III 203. Bezeugt ist auch die Anschaffung eines
+Exemplars für die Stiftsbibliothek; s. Zürich StA, G II 39. 2, 1543, f. [30r.]; vgl. Martin ^#/+Germann,^#/- Die reformierte Stiftsbibliothek am Großmünster Zürich im 16. Jahrhundert und
+die Anfänge der neuzeitlichen Bibliographie, Wiesbaden 1994. - Beiträge zum Buch- und Bibliothekswesen 34, S. 301, Nr. 645.<fe> per Quirinum<f1>Quirinus von Leiden.<fe> mittod. Vesalii, qui hac hora se itineri accingit; Spiram enim descendet ad caesarem, si illic haeret,<f1>Karl V. hielt sich
+am 2. August noch in Speyer auf, zog aber in den folgenden Tagen weiter rheinabwärts (s. ^#/+Stälin^#/- 577). Über
+die Reise von Vesalius ist sonst nichts bekannt.^&x^#/+Roth,^#/- Vesalius 180f; Harvey Cushing, S. 155^&x{<fe> cui opus dedicavit. Vale.<fx>^#/+Über gestrichenen Wortanfang geschrieben.^#/-<fe>
+^$Erravi in proximis<f1>Der Brief, auf den sich Gast bezieht, ist nicht erhalten.<fe> in pretio: Epitome<f1>Zu Vesalius'
+"De humani corporis fabrica librorum epitome" s. oben Nr. 1755, Anm. 8.<fe> 10 batz, opus 4 fl. et 4^#'1/^#-2 batz.
+Dominusd. Vesalius dixit ad me, ut tu des, quantum voles, nec aliter se venditurum bibliopolis quam hac
+praescripta<fx>^#/+Vor^#/- praescripta ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe> pecunia, teque plurimum salutat.
+Epitomen Germanicam<f1>Zu Vesalius' "Von des menschen cörpers anatomey [...] außzug" s. oben Nr. 1755, Anm. 9.<fe>
+si voles, brevi etiam mittam; quę nondum est absoluta. Ego aureum solvam, quemadmodum prius scripsi;<f1>Gast schuldete Bullinger einen Gulden für die "Biblia sacrosancta" (BZD C 319f), die ihm dieser offenbar zugesandt hatte; vgl. oben Nr. 1728, 9-11, und unten Nr. 1775, 3-6.<fe> tu reliquam pecuniae
+summam dabis. Si mihi non tam tenues facultates essent, totum opus mea pecunia emissem teque donassem illo.
+^$Verum heus tu, nostri pastores consultarunt eamque consultationem se­natui proposuerunt, ut senatus permittat
+scholasticos<fx>^#/+Die AcI-Konstruktion ist nicht vollständig durchgeführt.^#/-<fe><f1>Gemeint sind wohl die Alumnen; vgl.
+Gast, Tagebuch 37.<fe>, ostiatim ut panem colligant, quemadmodum in papatu factum est. Mihi maxime displicet. Quo
+devenerunt<fx>^#/+In der Vorlage^#/- deverunt[?].<fe> ecclesiastica bona, quo monasteriorum proventus?<f1>Zu Gasts
+Klagen über die Zweckentfremdung der Kirchengüter vgl. Gast, Tagebuch 184f mit Anm. 94.<fe> O tempora! Vale. De iis plura proximis literis.<f1>Vgl. unten Nr. 1775, 38f.<fe>
+^$2. augusti 1543.
+^$D. Theodorum<f1>Theodor Bibliander.<fe> cum uxore tua<f1>Anna, geb. Adlischwyler.<fe> salutabis. Epitomen Latinam reor te
+accepisse iam olim.<f1>Zur Übersendung der "Epitome" vgl. oben Nr. 1759, 35f.<fe>
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho Bullingero, fratri suo charissimo. Zurich.
+</content>
+</letter>

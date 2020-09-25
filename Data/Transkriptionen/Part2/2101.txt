@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2101">
+<nr>2101</nr>
+<correspondents>
+	<originator>Pfarrer</originator>
+	<originator>Lehrer von Zürich</originator>
+	<addressee>die Pfarrer von Bern</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. März 1545</date>
+</space_time>
+<vo>Entwurf von Bullingers Hand: Zürich StA, E II 337a, 368v.-369v.</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 198^&x{
+<re>Die [Berner Kollegen] haben Luthers "Kurtz bekentnis" gesehen und bemerkt, wie darin all diejenigen, die die körperliche Gegenwart des Leibes Christi und dessen Einnahme beim Abendmahl bestreiten, zu Ketzern erklärt werden. Oekolampad und Zwingli, die Hauptverfechter der Berner Disputation [von 1528], wie auch die Zürcher und die Berner Brüder, insofern diese sich an die dem lutherischen Standpunkt widersprechenden Ergebnisse der Berner Disputation halten, werden darin verdammt.
+-^#. Aufgrund ihrer Liebe zu ihren Kirchen und zur Wahrheit konnten die [Zürcher Pfarrer] nicht länger schweigen; sie haben dem wagemutigen Luther maßvoll geantwortet. Beiliegend ihre ["Orthodoxa Tigurinae ecclesiae confessio"].
+-^#. Hoffentlich wird es den Berner Kollegen nicht missfallen, dass sie in dieser Schrift erwähnt werden. Ansonsten sind ihre kritischen Bemerkungen willkommen. Den Bernern wäre es auch möglich, Luther mit einer eigenen Abhandlung entgegenzutreten. Die Zürcher Pfarrer wollen ihre Kräfte mit denen der Berner verbinden, um dem Gegner umso besser widerstehen zu können.
+-^#. Sie haben den Berner Behörden geschrieben, diesen das ["Warhaffte Bekanntnuß"] zukommen lassen und sie aufgerufen, der in der Berner Disputation anerkannten Wahrheit treu zu bleiben.
+-^#. Die Zürcher Pfarrer rufen zur Besinnung, zum Eifer und zur Eintracht untereinander und mit den Zürchern auf, die ihnen in Treue und Freundschaft gern zur Seite stehen.</re>
+<tx>Vidistis, colendi et dilecti fratres, quaed. Lutherus edita confessione sua succinta<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>
+sparsit in orbem christianum. Intelligitis haud dubie, quo scriptum illud tendat.
+Damnat semel omnes infami haereseos crimine, qui negant ipsum domini corpus naturale, corporaliter
+et ore tenus quoque tam ab impiis quam piis edi atque percipi in <vl>369r.</vl> coena dominica.
+Damnat p[iae] m[emoriae] Oecolampadium et Zvinglium, disputationis vestrae Bernensis<f1>Die Berner Disputation von Januar 1528.<fe> primos propugnatores.
+Damnat Tigurinos fratres ac nimirum etiam Bernenses fratres, utpote<fx>utpote ^#/+am Rande nachgetragen.^#/-<fe> dogma illud, contrarium
+Lutheranae sententiae, in disputatione assertum et ab universa Bernensi ecclesia receptum, tradentes defendentesque.
+Quae praeterea in nos ille<fx>ille ^#/+über der Zeile nachgetragen.^#/-<fe> nostrasque ecclesias scripsit horrenda et abominanda, non ignoratis.
+Illis ergo vel propter sanctas et innocentes<fx>^#/+In der Vorlage^#/- innocentas.<fe> nostras ecclesias, ut<fx>ut nihil commemoremus aliud ^#/+am Rande nachgetragen.^#/-<fe> nihil commemoremus aliud,
+non commoveri non potestis, non utique zelo carnis et affectuum, sed spiritus et iustitiae.
+^$Nos certe, veritatis et ecclesiarum nostrarum studio et pia cura excitati, rupimus tandem
+pertinax illud silentium nostrum ac Luthero eiusque damnationi audacissimae non immodeste respondimus. Non enim convitium rependimus convitio,<f1>1Petr 3, 9.<fe> sed veritatis ecclesiarumque agentes negotium argumenta et scripturas proferimus.
+Exemplum<f1>Möglicherweise die lateinische Fassung ihrer Antwort, die "Orthodoxa Tigurinae ecclesiae confessio"; s. oben Nr. 2061, Anm. 9.<fe> hic mittimus vestrae charitati; nam et vos vestrasque ecclesias defendimus
+ac a calumniis famosi illius convitiatoris purgavimus.
+^$Non displicebit hoc vobis, speramus, quod vestrarum ecclesiarum honestam in nostris facimus<fx>facimus ^#/+über der Zeile nachgetragen.^#/-<fe> mentionem.
+Non displicebit nobis<fx>nobis ^#/+über der Zeile nachgetragen.^#/-<fe>, si quid veritati in<fx>in nostra responsione ^#/+am Rande nachgetragen.^#/-<fe> nostra responsione parum consentaneum
+aut<fx>aut parum expensum ^#/+am Rande nachgetragen.^#/-<fe> parum expensum invenientes amice indicaveritis. Neque his<f1>litteris.<fe> vobis praescribimus.
+Licet et vobis, si utile videbitur, Luthero respondere,<f1>Dazu kam es nicht.<fe> vetus nimirum imitati exemplum,
+quo plures aliquando doctores ecclesiarum uni aut alteri adversario responderunt.
+Cupimus autem nostras copias vestris in domino coniungere, ut tandem vincat veritas<f1>Vgl. oben Nr. 2097, Anm. 32.<fe>
+et pax solida constet inter nostras ecclesias, quo fortius adversariorum<fx>adversariorum hostiumque ^#/+über gestrichenem^#/- exterarum.<fe> hostiumque impressiones
+sustinere possimus. Dominus et veritas pugnat pro nobis.<f1>Vgl. 2Chr 32, 8; Neh 4, 20.<fe>
+Unde<fx>^#/+Von^#/- Unde ^#/+bis^#/- bella domini ^#/+am Rande nachgetragen.^#/-<fe> si a nostra communione (quod tamen non expectamus) abstinere malueritis,
+freti nihilominus auxilio coelesti, pergentes in instituto consilio bellabimus bella domini.<f1>Vgl. 1Sam 18, 17.<fe>
+^$Scripsimus et amplissimo senatui populoque vestro,<f1>Oben Nr. 2100.<fe> adhortantes illum ad constantiam in iis,
+quae publica disputatione ex verbo veritatis asserta ac recepta sunt. Praeterea<fx>Praeterea responsionis nostrae exemplum illis ^#/+über gestrichenem^#/- Apographum scripti nostri his.<fe> responsionis nostrae exemplum<f1>Das "Warhaffte Bekanntnuß" der Zürcher; s. oben Nr. 2061, Anm. 9.<fe> illis coniunximus;<f1>Anm. l zeigt, dass Bullinger den Berner Pfarrern ursprünglich eine Abschrift des Briefes Nr. 2100 zukommen lassen wollte, darauf aber verzichtete und sie nur noch über die Sendung des Briefes und des ihm beigelegten "Warhafften Bekanntnuß" benachrichtigte.<fe> id<fx>id quod monemus ^#/+über der Zeile nachgetragen.^#/-<fe> quod monemus, ne ignoraretis, quid apud vestros ageremus et ambiremus.
+^$Hortamur autem vos per adventum <vl>369v.</vl> filii dei<f1>2Thess 2, 1.<fe> in iudicium, ut, si quando suspicionibus sinistris
+in transversum rapti, vel inter vos minus solide convenistis, vel frigidioribus animis in nos fuistis,
+ut positis illis omnibus vos mutuo charitate syncera et nos quoque dilectione non ficta complectamini.
+Experiemini nos fratres et amicos fideles, qui et vos disserentes libenter audire,
+et consilia et auxilia nostra vobiscum fideliter et libenter conferre volumus.
+Dominus Iesus servet vos in sancta sua voluntate.
+^$Tiguri, 12. martii anno 1545.
+<un>Fratres vestri,
+<un>pastores, lectores et
+<un>ministri ecclesiae
+<un>Tigurinae.
+<lz>[Adresse als Überschrift auf f. 368v.:] Doctis et fidelibus Christi et Bernensis ecclesiae ministris in urbe Christum praedicantibus omnibus, fratribus percharis et colendis.
+</content>
+</letter>

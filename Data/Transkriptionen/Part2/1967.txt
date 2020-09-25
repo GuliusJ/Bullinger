@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1967">
+<nr>1967</nr>
+<correspondents>
+	<originator>[Johannes Gast]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>erste Hälfte September 1544]</date>
+	<note>Thomas Platter trat sein Schulmeisteramt auf Fronfasten Crucis (17. September) 1544 an (s. unten Z. 6-9 mit Anm. 6); wann seine Wahl erfolgte, ist nicht bekannt. Bereits am 5. September erwähnt Gast die Ablösung des früheren Schulmeisters Markus Hopper (s. unten Z. 8) durch Platter in einem Brief an Konrad Hubert (Straßburg Stadtarchiv, AST, Nr. 157, Nr. 38). Der unten Z. 4f als bevorstehend erwähnte Besuch eines Bruders von Gilbert Cousin erfolgte in den Tagen vor dem 19. September; s. unten Nr. 1990, 1f.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 109 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 154 (eingeordnet: Sept. 1544).^&x{
+<dr>Ungedruckt</dr>
+<re>Dankt für die zugeschickten Büchlein [Bullingers]; das deutsche ["Hoffnung der Glöubigen"] wird Luther trotz schriftgemäßer Argumentation verärgern, das lateinische ["Antiquissima fides"] will Gast durch den Bruder von Gilbert Cousin an diesen übersenden. [Thomas] Platter ist von den Deputaten und dem Rat zum Schulmeister der Münsterschule gewählt [eigentlich: bestätigt] worden, obwohl ihm der [Magister-] ^@+Titel fehlt, und das "Magisterlein" [Markus Hopper] ist bereits nicht mehr im Amt; die Vertreter der Universität sind empört, doch der Rat beginnt, ihren Hochmut zu durchschauen.
+</re>
+<tx>S. Ago tibi immensas gratias pro libellis missis. Germanico libello<f1>Die Rede ist wohl von Bullingers Schrift "Hoffnung der Glöubigen"; s. oben Nr. 1953, Anm. 9.<fe> Lutherum exacerbabis; nam mihi non videtur tecum consentire in omnibus, etsi christianissime tu omnia dicas et scripturis argumenta tua stabilias. Libellum Cognato<f1>Gilbert Cousin.<fe> Latinum<f1>Gemeint ist vermutlich die ebenfalls im August 1544 unter dem Titel "Antiquissima fides" erschienene lateinische Übersetzung von Bullingers "Der alte Glaube"; s. oben Nr. 1959, Anm. 13.<fe> mittam; nam in singulos dies illius fratrem<f1>Zum Bruder von Gilbert Cousin s. oben Nr. 1951, Anm. 3.<fe> expecto, qui ad me scripsit se hac hebdomada adfuturum.
+^$Blatterus in ludimagistrum summi templi electus est,<f1>Thomas Platter setzt seinen Amtsantritt als Schulmeister an der Münsterschule "auf Burg" auf Fronfasten Crucis 1541 und berichtet in seinen Aufzeichnungen, wie er dafür angeworben wurde (s. Thomas Platter, Lebensbeschreibung, hg. v. Alfred Hartmann, 3. Aufl. Basel 2006, S. 130f). Vom Winter 1541 bis zum Herbst 1544 versah jedoch Markus Hopper dieses Amt; Platter kann es demnach erst auf Fronfasten Crucis 1544 angetreten haben; s. Theophil ^#/+Burckhardt-Biedermann,^#/- Geschichte des Gymnasiums zu Basel, Basel 1889, S. 240f (Anm. 1 zu S. 35); Platter, aaO, S. 176f (Anm. zu S. 130).<fe> non ab academicis nostris, quia caret fastuoso titulo,<f1>Platter weigerte sich, den für das Schulmeisteramt verlangten Magistergrad zu erwerben; s. Platter, aaO, S. 132.<fe> sed a deputatis<f1>Oberster Deputat war zu diesem Zeitpunkt Hans Rudolf Frey; s. Platter, aaO, S. 130; HBBW IX 33, Anm. 4.<fe> et a senatu approbatus. Magistellus<f1>Magister Markus Hopper, Schulmeister auf Burg von 1541 bis 1544; s. Platter, aaO, S. 176f (Anm. zu S. 130); Amerbach, Korr. VI 429f.^&x Im oben erw. Brief an Hubert: "Magistralis homo deponitur, non magistralis in locum illius surrogatur."^&x{<fe> iam suo defungitur officio. Frendent dentibus universales<f1>D.h. die Vertreter der Universität.<fe> nostri, conantur impedire istud institutum, sed nihil deo volente efficient. Iam apparet, cuius gratia titulos affectarint: quo asininam ruditatem commodius tegerent. Erit, neque dubito, mutatio harum rerum nunquam sperata; nam senatus olfacit illorum technas.
+^$Vale in domino.
+<lz>[Adresse auf der Rückseite:] D. Henrycho Bullingero, optimo amico. Zurich.
+</content>
+</letter>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2022">
+<nr>2022</nr>
+<correspondents>
+	<originator>Die Pfarrer von Neuenburg</originator>
+	<addressee fn=1>die evangelischen Kirchen</addressee>
+	<note fn=1>Dieser Brief wurde zusammen mit dem folgenden (unten Nr. 2023) an Bullinger gesandt.</note>
+</correspondents>
+<space_time>
+	<place>Neuenburg</place>
+	<date>28. Oktober 1544</date>
+</space_time>
+<vo>Entwurf von zwei unbekannten Händen<fx>^#/+Die Abschriften der zwei verwandten Fassungen auf f. 9v., die das damals übliche Vorgehen bei der Ausübung von Zensur unter den Pfarrern Neuenburgs darlegen, stammen von einer anderen Hand als die des Brieftextes auf f. 9r.^#/-<fe>: Neuenburg, Bibliothèque des Pasteurs, X 9<fx>^#/+Auf f. 9r. finden sich von zwei weiteren Hände Archivvermerke. Der erste (aus dem 16. oder 17. Jh.):^#/- "La classe contre le frere contestant la censure. Du 28 oct. 1544." ^#/+Der zweite (aus dem 19. Jh.?):^#/- "Un frère, un des membres de la classe (Chaponeau) s'etant eleve contre les censures et les corrections fraternelles qu'on y addressoit aux ministres. Ceux ci demandent l'avis des ecclesiastiques voisins. Du 15[!]^#'e .8.^#H:bre^#G: 1544."<fe></vo>
+^&xEin Bullinger-Brief? Jedoch mit dem folgenden Brief an HB gesandt!^&x{
+<re>Bisher wurde die Ermahnung und die förmliche Zurechtweisung unter den Brüdern [Pfarrern] mit Erfolg untereinander gehandhabt, doch hat sich unerwartet einer
+[Jean Chaponneau]<f1>Jean Chaponneau (auch: Chaponneaulx; Capunculus), Benediktiner, Theologe und Prediger, hatte an der Sorbonne studiert und war in Löwen zum Doktor der Theologie promoviert worden. Calvin hatte ihn während seines Studiums in Bourges (1529-1531) kennengelernt. Im Frühjahr 1536 oder 1537 oder aber Anfang 1538 war er nach Neuenburg (Neuchâtel) gekommen. 1544 war er bereits ein betagter Mann; er starb am 22. Oktober 1545. - Lit.: Emile ^#/+Picot,^#/- Notice sur Jehan Chaponeau, Docteur de l'Eglise réformée, metteur en scène du 'Mistère des Actes des apostres' joué à Bourges en 1536, Paris 1879. - Collection de documents pour servir à l'histoire de l'ancien théâtre français (für die Zeit zwischen 1543 und 1545 vermochte Picot jedoch nicht zwischen den theologisch-christologischen und kirchlich-diziplinärischen Meinungsverschiedenheiten Chaponneaus mit Farel und Calvin zu unterscheiden); P[aul] ^#/+Wernle,^#/- Calvin und Basel bis zum Tode des Myconius 1535-1552, Basel 1909, S. 49f; Farel, Biographie 411, Anm. 1. 540-550; Gabrielle ^#/+Berthoud,^#/- Antoine Marcourt. Réformateur et Pamphlétaire du "Livre des Marchans" aux Placards de 1534, Genève 1973, S. 26. 30; [Gaston] ^#/+Raynaud,^#/- in: Eugène und Emile ^#/+Haag,^#/- La France protestante, 2. Aufl., hg. v. Henri Bordier, Bd. 3, Paris 1881, Sp. 1082-1085; Roman ^#/+d'Amat,^#/- in: DBF VIII 427; Edouard ^#/+Boulard,^#/- in: Dictionnaire des lettres françaises, hg. v. Georges Grente, [Bd. 2:] Le XVI^#'e siècle, neu hg. v. Michel Simonin, Paris 2001, S. 252f. - Zur Sache s. unten Nr. 2035, 2046 und 2053.<fe>
+gegen dieses Verfahren ausgesprochen; dass nun, trotz langer Geduld, die Angelegenheit zur Entscheidungsfindung vor die [anderen] Gemeinden gelangen muss, bedauern [die Neuenburger]; sie übersenden [eine Beschreibung] ihrer bisherigen Vorgehensweise und haben auch dem Gegner erlaubt, seine Anschauung vorzubringen [s. unten in Nr. 2023]. Die Väter und Brüder [der anderen Gemeinden] haben nun die Aufgabe, diesbezüglich ihr Urteil zu äußern, um den bisherigen Brauch zu wahren, falls dieser richtig ist; [die Pfarrer Neuenburgs] würden sich wünschen, von den Gegnern ein Beispiel zu sehen, um daraus zu lernen, statt derjenigen Dinge beraubt zu werden, deren Verlust großen Schaden anrichten würde.
+Die Zensur wird folgendermaßen ausgeübt: Der zu Überprüfende muss sich zurückziehen; der Dekan fragt sodann die Nachbarn, ob ihnen ein Verstoß dieses Bruders [Pfarrers] gegen die Kirche oder den Pfarrdienst durch ihn oder dessen Familie bekannt ist; dann werden die anderen befragt, welche Ermahnung sie für angemessen halten; darauf wird der Bruder [Pfarrer] zurückgerufen und gemäß dem Beschluss der Brüder [Pfarrer] freundlich ermahnt, seinen Dienst fromm zu verrichten und zum Aufbau der Kirche beizutragen.
+[Variante zum vorhergehenden Absatz:] Die Ermahnung und förmliche Zurechtweisung wird folgendermaßen gehandhabt: Der zu Ermahnende muss sich zurückziehen; dann erkundigt sich der Dekan bei den Nachbarn und Verwandten, ob ihnen ein Verstoß dieses Bruders [Pfarrers] gegen die Kirche oder den Pfarrdienst durch ihn oder dessen Familie bekannt ist; dann werden die anderen befragt, welche Ermahnung sie für angemessen halten; darauf wird der Bruder [Pfarrer] zurückgerufen und kraft des Rats und Urteils aller freundlich ermahnt, seinen Dienst fromm zu verrichten und zum Aufbau der Kirche beizutragen.</re>
+<dra>[Gedruckt: Corr. des réformateurs IX 348f, Nr. 1402.]</dra>
+^&x<tx>S. Hactenus, non sine magno fructu, admonitione quadam
+et correctione fraterna inter se usi fuerant fratres, ut
+unusquisque plenius officium faceret, puriorque doctrina et
+incorrupti mores in ecclesia nostra locum haberent, et
+contrariis via occluderetur. Tandem vero, praeter omnium
+spem, quidam insurrexit, qui totam actionem damnaret.
+Quamvis<fx>^#/+Vor^#/- Quamvis ^#/+gestrichenes^#/- Quidam.<fe> autem diu expectatum fuerit (quod soleant cum
+tempore hominum sententię mutari, potissimum ubi unus
+omnibus reluctatur, et multi sint alii, qui illum unum
+conentur lucrifacere), tamen hac via nihil adhuc profectum
+est. Quod etsi nobis plurimum dolet, hoc tamen non parum
+recreat, quod ad sanctas ecclesias delatum sit iudicium. Nos
+autem ęquitate causę freti, nihil melius esse putavimus
+quam piis fratribus simpliciter proponere eius actionis
+rationem, quam, ut credimus, neque contra verbum domini,
+neque contra charitatem hactenus secuti sumus. In eo, quod
+nobis obiectum fuit, ipsi repugnanti liberum fecimus, ut in
+contrariam partem, quod sibi videretur, adduceret. Itaque sua
+manu quędam conscripsit, ex quibus, si ab ecclesiis, ut
+sperat, fuerint approbata<fx>approbata ^#/+über der Zeile nachgetragen.^#/-<fe>, hunc nostrum corrigendi morem
+eversum iri sibi persuadet.
+^$Quamobrem, viri patres et fratres, vestrum erit, quantum
+studetis glorię domini, iudicium sanctum de hac re facere,
+ut hęc nostra consuetudo, si sanctam et piam iudicatis,
+conservetur. Cuperemus ex iis, qui nobis negocium facessunt,
+specimen aliquod videre, et inde meliora discere; non
+privari iis, quibus sine gravi iactura carere non possumus.
+^$Valete nosque vestris adiuvate precibus.
+^$Neocomi, 28. octobris 1544.
+<lz><vl>9v.</vl><fx>^#/+Das Nachfolgende von anderer Hand, vermutlich von Jean Chaponneau (s. Z. ***). Über Kopf zum Text von zwei weiteren Händen:^#/- Epist *** eglises. *** De la Classe*** .<fe>Censura ita peragitur. Censendus ęgredi iubetur. Quo egresso
+petit decanus a vi[cinis]<fx-t>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/-<fe> censendi, quid norint in fratre quod
+palam offendat ecclesiam, unde impediatur ędificatio
+ecclesiae et pastoris ministerium vilipendatur, tum propter
+ipsum, tum propt[er]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> suos? Demum generatim ab aliis petitur,
+quid putent dignum cuius frater admoneatur[? Ubi]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> omnes
+suffragium tulerint, vocatur frater, et secundum conclusa
+per fratres candid[e]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> et amice admonetur, ut sancte officium
+faciat et ecclesiam ędificet.
+<lz>Admonitio et correctio inter verbi ministros in hunc modum tractatur. Qui adm[onendus]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> est, egredi iubetur; quo egresso quęrit decanus ex vicinis et familiaribus eius, si q[uid]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> norint in eo fratre, quod palam offendat ecclesiam, unde impediatur eius ędific[atio]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> et pastoris ministerium vituperari possit, tum propter ipsum, tum propter ipsius fami[liam]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe>. Deinde singulatim ex cęteris quęritur, quid omnino dignum putent, de quo ille admoneatur. Ubi singuli sententiam dixerint, vocatur frater, et ex omnium consi[lio]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> atque iuditio candide et amice admonetur, ut sancte officium faciat ecclesi[amque]<fx-x>^#/+Textverlust am Rande, ergänzt aus dem nachfolgenden Brief, unten Nr. 2023.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> ędificet.
+<lz>[Ohne Unterschr.ift und ohne Adresse.]^&x{
+</content>
+</letter>

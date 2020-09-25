@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2268">
+<nr>2268</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>17. Oktober 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 219 (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 39 (auf 17. September datiert!) ^&x{
+<re>Gast schickt den Kommentar von [Wolfgang] Musculus zu den sieben [ersten] Kapiteln des Johannesevangeliums. Auch die Fortsetzung wird er nach deren Veröffentlichung senden.
+-^#. Gast hat [Ludwig Lavater], den Sohn des [Zürcher] Bürgermeisters [Hans Rudolf Lavater], der Bullingers Brief [nicht erhalten] überbrachte, nicht gesehen, konnte ihn auch in den Herbergen nicht finden und erfuhr nach drei Tagen, dass [Ludwig] frühmorgens nach Straßburg aufgebrochen war.
+-^#. Der Brandstifter [Herzog Heinrich von Braunschweig] verfügt über ein stattliches Heer von angeblich 12'000 Fußsoldaten und 1'400 Reitern. Er brennt überall Dörfer und Städte nieder und versucht, den [Landgrafen Philipp von] Hessen ganz und gar zu vernichten. [Karl V.] schaut zu. Nach dem Tod des Mainzer Bischofs [Albrecht von Brandenburg] streiten die Kanoniker sich über die Wahl [eines Nachfolgers]. [Karl V.] hat etwas mit diesem Bistum im Sinn. Nach der Rückkehr eines [Basler] Schöffen [...] aus Straßburg wird man bald mehr erfahren.</re>
+<tx>S. in domino.
+Mitto tibi Musculi commentaria in 7 capita evangelii Ioannis<f1>Zu Wolfgang Musculus' Schrift s. oben Nr. 2202, Anm. 24. Gast hatte Bullinger u.a. diesen Kommentar angekündigt und angeboten; s. oben Nr. 2253, 23. 28. - Die Fortsetzung erschien erst 1548.<fe>,
+reliqua, si excusa fuerint, etiam additurus, ne ingratus erga tua beneficia mihi<fx>mihi ^#/+über der Zeile nachgetragen.^#/-<fe> exhibita<f1>Buchgeschenke Bullingers an Gast; s. oben Nr. 2228, 33f; 2239, 2-7.<fe> videar.
+^$Caeterum hoc tibi significare volo: Consulis vestri filium<f1>Ludwig Lavater, Sohn des Zürcher Bürgermeisters Hans Rudolf Lavater.<fe> non vidi; sub crepusculum literas, quum domi non essem, dedit tuas<f1>Nicht erhalten.<fe>.
+Crastina die in publicis hospitiis eum quęsieram, sed non potui invenire hominem.
+Post tertium diem intellexi ipsum summo mane abiisse Argentinam.
+^$Incendiarius<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> habet exercitum bene instructum; dicunt habere 12'000 pedites et equites 1'400.
+Incendit passim villas et oppidula. Hessum<f1>Philipp von Hessen.<fe> conatur omnino perdere. Caesar<f1>Karl V.<fe> spectatorem agit huius tragędiae.
+Episcopus Moguntinus obiit<f1>Albrecht V. von Brandenburg, Kurfürst von Mainz, war am 24. September 1545 gestorben.<fe>, et canonici certant inter se de eligendo episcopo<f1>Nachfolger wurde Sebastian von Heusenstamm.<fe>.
+Caesar aliquid molitur cum isto episcopatu.
+Certiora si audiero, scribam, et brevi habebimus totum huius rei negotium tribuno<f1>Nicht ermittelt.<fe> plebi nostro ab Argentina reverso.
+^$Vale in domino.
+Basileę, 1545, 17. octobris.
+<un>Tuus Gastius
+<un>raptim.
+<lz>[Adresse auf der Rückseite:] Insigni theologod. Heinrycho Bullingero, ecclesiae Tigurinę pastori vigilantissimo, fratri suo charissimo. Zurich.
+</content>
+</letter>

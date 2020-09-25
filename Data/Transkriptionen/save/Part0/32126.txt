@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="32126">
+<nr>32126</nr>
+<correspondents>
+	<originator>Johannes Haller</originator>
+	<addressee>Bulliinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>6. August 1562</date>
+</space_time>
+<vo>Zürich StA, E II 370a, 302. / Orig. Aut.</vo>
+S. Quaecunque habeo, heri ad fratrem scripsi.
+Is ea omnia tibi communicabit, nec habeo, quod nunc illis addam, nisi quod hisce meis fiduciam illis, qui eas ferunt, addere volui liberius te conveniendi.
+Hoc enim a me petierunt, quamvis prius tibi noti sint, Roberti Stephani filius et Engelbertus Hessus.
+Salutem tibi dicuntd. consul Steigerus, quaestor a Grafenriet, Hallerus, Hagius, Pistorius, Zehenderi, socer, mater denique mea.
+Salvi sint tui omnes.
+Bernae  6. augusti 62.
+                                          I[oannes] Hall[erus] semper tuus.
+Adr.
+a t.
+: Clarissimo virod. Heinrycho Bullingero, Tigurinae ecclesiae pastori fidelissimo, domino suo honorando et compatri colendissimo.
+</content>
+</letter>

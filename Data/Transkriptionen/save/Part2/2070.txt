@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2070">
+<nr>2070</nr>
+<correspondents>
+	<originator>Fridolin Brunner</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Glarus</place>
+	<date>19. Januar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2079 (Siegelspur)</vo>
+<dr>Typoskript: Martin ^#/+Brunner,^#/- Briefe von, an und über Fridolin Brunner. ^$^$^$^$Gesammelt im Staatsarchiv und in der Zentralbibliothek Zürich in den ^$^$^$^$Jahren 1951-1953, S. 18-20, Nr. 6 (Zürich, Institut für Schweizerische ^$^$^$^$Reformationsgeschichte, Var Gd B^#. 183)</dr>
+^&xKopien: Zürich ZB, Ms B 171, 77v.-78r. (von H. K. Füssli); Ms S 56, 126; Zit./erw.: Zwa II 334; F. Meyer, Locarno I 164. 168; Regest: G. Heer, F. Brunner 52f, Nr.4 [frühere Briefe nicht im Briefkopf aufgeführt; vgl. auch an Stumpf, 2. Juni 1545, Maschinenschrift von A. Bonomo prov. nicht im Briefkopf]^&x{
+<re>Brunner hat schon lange nicht mehr geschrieben, da er keinen Grund dazu hatte. Anlass zu diesem Brieflein ist der Wunsch, Bullinger mitzuteilen, dass dessen Bemühungen [um das Evangelium] sogar in Italien Erfolge zeigen.
+-^#. Brunner hat nämlich in den vergangenen Tagen einige [Erläuterungen zur Bibel] aus Bullingers und Erasmus' [Feder] über den Locarner Landvogt [Joachim] Bäldi dem Minoriten [Benedetto da Locarno] gesandt. Dieser verkündete früher das Evangelium in Locarno und dann in Venedig an der Kirche S. Marco. Nun predigt er in Genua (Ligurien).
+-^#. Benedettos inständige Bitten um Bullingers Werke erfüllte Brunner gern, da er sich davon großen Nutzen für die Kirche erhofft. [Benedetto da Locarno] teilt nämlich mit, dass Bullingers Werke überall willkommen sind, also nicht nur in Deutschland, sondern auch in Frankreich und Italien. Brunner übermittelt dies ohne jegliche Schmeichelei, um Bullinger in seiner Tätigkeit weiter anzuspornen.
+-^#. [Benedetto da Locarno] wünscht ebenfalls die Zusendung einer "Apologie" Bullingers; Brunner weiß aber nicht, welche Schrift damit gemeint ist.
+-^#. Bullinger wird über die Glarner Verhältnisse Bescheid wissen; alles ist befriedet, weil der Antichrist seinen Platz behalten darf. Möge Gott ihn bald hinauswerfen!
+-^#. Brunner schreibt diesen Brief als Zeugnis seines Eifers für Christus.</re>
+<tx>Salutem et pacem a domino.
+^$Te, vir ornatissime, cum tua familia feliciter valere perquam gratissimum foret,
+quia ego bene valeo. Miraris fortasse, cur ego tam diu nihil mearum literarum ad te miserim.<f1>Der letzte bekannte Brief Brunners an Bullinger stammt vom 23. August 1540 (HBBW X, Nr. 1416).<fe>
+Coniectaris haud dubie me Endymionis somnum dormire,<f1>Adagia, 1, 9, 63 (ASD II/2 384f, Nr. 863).<fe>
+diuturno versari in otio, nec ullis me negotiis exercere, sed mollem agere vitam.
+Quo hanc declinem suspitionem, libuit literulas, saltim aliquas, mittere, quibus
+excusationis tuę causam praetenderem, nempe nullam hactenus argumenti rationem pre manibus fuisse.
+Quum vero nunc aliquantula ad te scribendi materia administrata
+sit, sepositis omnibus negotiis meis tibi ut amico singulari obsecundare placuit.
+Et pro argumenti ratione te certiorem facio sudores in vinea Christi<f1>Jes 5, 3; Jer 12, 10; Jo 1, 7; Mt 20, 1-16.<fe> tuos non incassos et inanes hactenus fuisse, quibus cottidie gloriam Christi
+sparsim propagari et augeri videmus iis praecipue in locis, ubi minime sperabamus, nempe Italię partibus.
+^$Nam certum habeto me praeteritis diebus quosdam elucubrationum tuarum et Erasmi libellos<f1>Mit ^#/+elucubrationes^#/- sind wohl erhellende Erläuterungen zur Bibel gemeint. Im Falle Bullingers ist an dessen Kommentare zur Apostelgeschichte (1533; BZD C^#. 219 - neu aufgelegt 1535 und 1540; bzw. BZD C^#. 240. C^#. 289), zu allen neutestamentlichen Briefen (1537; BZD C^#. 261 - neu aufgelegt 1539 und 1544; bzw. BZD C^#. 278 und C^#. 337), zum Matthäus- (1542; BZD C^#. 304) und Johannesevangelium (1543; BZD C^#. 321) wie auch an die Schrift "De Scripturae sanctae authoritate" (1538; BZD C^#. 273 - neu aufgelegt 1544; BZD C^#. 335) zu denken. Im Fall von Erasmus kommen hier aus sprachlichen Gründen kaum die deutschen Paraphrasen-Übersetzungen, die in Zürich erschienen waren (1542; BZD C^#. 307), in Frage. Vielmehr ist an Basler Nachdrucke der Paraphrasen zu denken, wie z.B. an die 1540 und 1541 erschienenen zwei Bände mit allen Erasmus-Paraphrasen zum Neuen Testament (VD^#. 16 E^#. 3361. E^#. 3363).<fe> Lucarnum<f1>nach Locarno.<fe>
+per praefectum Beldi<f1>Joachim Bäldi (Beldi), gest. 2. Oktober 1571, ein Glarner Politiker, seit 1529 Beförderer der Reformation. Durch seine erste Ehe mit Elsbeth Göldli (am 29. Januar 1527 im Zürcher Großmünster) war er Schwiegersohn des Großen Rats von Zürich, Jörg Göldli (gest. 1537/38). 1542-1544 Landvogt zu Locarno. 1548-1553 Landmann von Glarus. Im August 1545 veröffentlichte Taddeo Duno eine Lobrede mit biographischen Angaben zu Joachim Bäldi: In Laudem orantissimi praesulis, viri doctissimi, Ioachym Beldi Glaronensis Thaddaei Duni Locaruensis[!] <gr>ĕgkv́mion</gr>, Basel, s.n., 1545 (Zürich ZB, 25.1404/7; nicht im VD^#. 16). -^#. Lit.: Tauf- und Ehenbuch der Kirchgemeinde Großmünster 1525-1600, Zürich StadtA, VIII C^#. 1, unter 1527; Erhard ^#/+Dürsteler,^#/- Stammtafeln zürcherischer Geschlechter, Bd. 1 (Zürich ZB, Ms E 94), f. 235r.; ^#/+Meyer,^#/- Locarno 162-164 und passim; HLS I 677 (mit weiterer Lit.).<fe>
+minoritę cuidam<f1>Benedetto da Locarno, wie dies bereits Ferdinand Meyer erkannt hat. Es handelte sich um einen erasmianischen Minoriten (Kapuziner), der großen Erfolg als Prediger hatte und 1541/43 als Professor der Metaphysik in Bologna wirkte. Über ihn hatten die Zürcher, zumindest der ehemalige Minorit Pellikan, schon im Oktober 1544 durch Girolamo Mariano (^#/+Pellikan,^#/- Chronikon 167), ja sogar schon früher - wie dies aus einem Brief Giovanni Beccarias an Pellikan vom 15. Juli 1544 (Zürich ZB, Ms F^#. 47, 93f) hervorgeht - einiges erfahren können. Daraus ist ersichtlich, dass Benedetto im Sommer 1544 in Locarno predigte und einen Brief Pellikans erhalten hatte. Am 12. April 1546 (ebd., Ms F^#. 47, 140f) bemühte sich Beccaria bei Pellikan um eine Unterkunft in Zürich für Benedettos Neffen [...], Sohn von Benedettos Schwester. Am 15. Juli 1546 (ebd., Ms F^#. 47, 120f) benachrichtigte Beccaria Pellikan, dass Benedetto sich immer noch in Genua aufhielt, inzwischen in Sizilien gepredigt hatte und sich nach dem Sommer 1546 nach Mailand begeben werde, wohin er von dem neuernannten Gouverneur, dem Vizekönig von Sizilien, Ferrante^#. I. Gonzaga, berufen wurde. Sein weiteres Schicksal ist unbekannt. Von ihm ist lediglich ein Predigtauszug erhalten. - Lit.: ^#/+Meyer,^#/- Locarno 164. 167-169; Serafino ^#/+Mazzetti,^#/- Repertorio di tutti i professori antichi e moderni ... di Bologna, Bologna 1847, S. 177; Valdemiro ^#/+Bonari,^#/- I cappuccini della provincia milanese, Bd. 1/2, Cremona 1898, S. 34; Salvatore ^#/+Caponetto,^#/- Una sconosciuta predica fiorentina del minorita Benedetto Locarno, in: Nuova Rivista Storica 57, 1973, 410-423 (auch in: ders., Studi sulla Riforma in Italia, Firenze 1987, S. 207-218; mit weiterer Lit.); Mark ^#/+Taplin,^#/- The Italian Reformers and the Zurich Church, c. 1540-1620, Aldershot 2003, S. 71f.<fe> misisse,
+quo ad tempus ibidem evangelium praedicavit, tandem communibus totius ecclesię calculis
+Veneciis ministerium verbi obtinuit, in templo divi Marci omnium votis Christum diu ebuccinavit<f1>verherrlicht hat; s. ^#/+Hoven^#/- 180.<fe>.
+Genua nunc temporis, Liguriae partibus sita, divini verbi curam<fx>^#/+In der Vorlage^#/- cura.<fe> suę fidei commisit.
+^$Flagitaverat ille opes<f1>Wortspiel mit ^#/+opera.^#/-<fe> et monimenta tua tam importunis precibus<f1>Vgl. Lk 11, 5-9. 18, 2-8.<fe>, ut ei iuste denegare
+non licuerit; cui etiam eo lubentius sum obsequtus, quod sperem ecclesię Christi plurimum profuturum.
+Fatetur minorita opera tua ubique gentium valde grata et accepta esse,
+eo quod et eruditionis et pietatis referta sint.
+Scribo hęc absque fuco<f1>Vgl. Adagia, 1, 5, 52 (ASD II/1 525f, Nr. 452).<fe> et adulatione; laudandi te campus pateret quidem maxime,
+sed mea simplicitas tibi non ignota est; non ab adulatione tantum, verum ab omni
+blandiloquentię specie me<fx>me ^#/+fehlt in der Vorlage.^#/-<fe> vehementer abhorrere.
+Eciam tua singularis modestia nihil minus pati solet quam laudes eciam modestissimas.<f1>Von "Scribo haę" bis "modestissimas" liegt ein fast wortgetreues Zitat aus Erasmus' Widmungsepistel an William Blount vor, die Erasmus seinen ^#/+Adagia^#/- ab 1508 voranstellte: "Mihi vero tantus vere citraque fucum laudandi campus patebat quantus aliorum nemini; tamen quoniam et mea simplicitas, tibi nequaquam ignota, non ab adulatione tantum, verumetiam ab omni blandiloquentiae specie vehementer abhorret et tua singularis modestia nihil minus pati solet quam laudes etiam modestissimas, praetermissis his ad adagiorum tractationem accedemus" (ASD II/1 26, 111-116).<fe>
+Quare, dum tuum sanctum conatum et studium laudo, ea potissimum
+gratia facere soleo, ut currenti bene calcaria addam<f1>Adagia, 1, 2, 47 (ASD II/1 364, Nr. 147). - Vgl. auch 1Kor 9, 24-27; Hebr 12, 1.<fe> adhorterque, ut, laborum
+tuorum te ne pigeat, cum<fx>cum ^#/+vor der Zeile nachgetragen.^#/-<fe> evidenter intelligas tum iucundos tum frugiferos omnibus,
+quibus sacrę literę cordi sunt.
+Et quemadmodum hactenus Germaniam nostram, sic Galliam et Italiam tuis monumentis aureis illustrabis.
+Nostrum erit vicissim tuis conatibus bene favere et precari,
+ut dominus te in ecclesię suę commodum diu vivere sinat propositoque tuo tam
+sancto firmam constantiam et pacientiam largiatur.
+^$Postulavit ad haec Italus ille<f1>Benedetto von Locarno.<fe> a me Apologiam quandam non ita pridem aeditam tuo nomine,<f1>Zu denken ist an Bullingers erste Widerlegung des Cochläus (s. oben Nr. 2064, Anm. 3; vgl. HBBW XIV 66, 3 und Anm. 3. 140, 1 und 9), die Ende Februar/Anfang März 1544 erschienen war, oder noch wahrscheinlicher an die "Antiquissima fides", die im August 1544 zum ersten Mal auf Latein erschien (s. HBBW XIV 341, Anm. 13).<fe>
+quae vero me hactenus latuit. Si in lucem te autore est aedita, fac me certiorem.
+^$Preterea, quo pacto nostrę res Glarianę apud nos sese habeant, puto tibi non ignotum.
+Pacata sunt apud nos satis omnia, ea autem lege, ut antichristus eciam locum suum habeat;<f1>2Thess 2, 3f.<fe>
+quem faxit deus, brevi quoque proscribat.
+^$Vale, decus eximium<f1>Vgl. ^#/+Catull,^#/- Carmina, 64, 320.<fe> nostrae Helvetię.
+^$Datum Glar[onae], 19. die ianuarii anno 1545.
+^$Scripsi tibi hanc epistolam in testimonium, ut intelligas me in negotio Christi pergere et Spartam, quam nactus sim, pro virili decorare.<f1>Adagia, 2, 5, 1 (ASD II/3 397-406, Nr. 1401).<fe>
+<un>Fridolinus
+<un>Fonteius.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro Henricho Bullingero, theologiae professori et pastori Tiguriensi doctissimo, domino amicoque suo percharo.
+An meister Heinrich Bullinger zuͦ Zürich.
+</content>
+</letter>

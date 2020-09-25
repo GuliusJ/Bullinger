@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2650">
+<brief>
+<id>16340</id>
+<nr>2650</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-30"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 30. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 256 (neu: 273) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 48</k></dr>
+<re><t>Die beiliegende Sendung will Myconius nicht ohne einen Gruß abgehen lassen. Er schreibt also, was ihm eben in den Sinn kommt.</t>
+<t>Dass die [Schmalkaldener] der Verschlagenheit des Kaisers [Karl V.] nicht beikommen können, ist äußerst seltsam. Doch sind sie nicht nachlässig, sondern glücklos. Der Schaden, den der Kaiser inzwischen bei Freund und Feind anrichtet, ist grauenhaft. Möge der Herr dessen teuflische List vereiteln!</t>
+<t>Die [katholischen Orte der Eidgenossenschaft] bringen Myconius durch ihr gottloses Paktieren mit Papst [Paul III.] und durch ihre Wortbrüchigkeit gegenüber den [protestantischen Orten] noch um den Verstand! [Jetzt] schonen sie den Kaiser. Wenn aber [König Franz I. von] Frankreich gegen [den Kaiser] zöge, würden sie dem Ersten in Scharen zuströmen. Manche erzählen, dass der König in den Fünf Orten Hauptleute eingesetzt habe, die den Söldnern, die sie heimlich für einen künftigen Krieg ausheben, Geld bar auszahlen. Myconius schämt sich für solche Menschen, die sich so unzuverlässig zeigen. Möge der Herr sie heimsuchen!</t>
+<t>Je mehr das Evangelium gepredigt wird, desto stärker wird es leider vernachlässigt. Doch schon Christus sagte seinen Jüngern voraus, dass man sie um seinetwillen hassen würde. Myconius spricht aus Erfahrung. Viele Menschen, die gute Christen zu sein vorgeben, bedecken Jesu Namen mit Schande. Denn sie hängen zu sehr an den irdischen Dingen. Das Wort der Propheten über die Habgier bewahrheitet sich, denn es frönen wirklich alle ihren Bäuchen und der Wollust. Das Evangelium hingegen spornt zu Arbeit und Rechtschaffenheit an. Als Vorsteher der [göttlichen] Lehre wäre Myconius hoffnungslos, wenn Christus nicht versprochen hätte, die Trauernden in Zion zu trösten.</t>
+<t>Gruß, auch an [Rudolf] Gwalther.</t></re>
+<text>
+<div>
+<p>S. Non est, quod scribam. <zzl>zl16340-1A</zzl>Ne autem fasciculum hunc
+<fn>Unbekannte Sendung, die nicht unbedingt für Bullinger bestimmt und allenfalls nicht von Myconius selbst an Bullinger adressiert war, da Letzterer diese in seinem Antwortschreiben (<qv>nr2653</qv>) nicht verdankt.</fn> sine meis dimitterem,<zzl>zl16340-1E</zzl> salutare saltem volui et addere, quicquid venit in buccam.
+<fn>Vgl. <a>Adagia</a> 1, 5, 72 (<a>ASD</a> II/1 546, Nr. 472).</fn></p>
+</div>
+<div>
+<p><zzl>zl16340-2A</zzl>C{e}saris
+<fn>Karl V.</fn> astus mirari satis non valeo, magis autem nostrorum, non dico negligentiam, sed infelicitatem, qua non possunt in astutiis illum deprehendere.
+<fn>Vgl. schon <qv>nr2649</qv>,<qv>zl16339-7</qv>.</fn> Iam non hoc divexaret me admodum, nisi interim iste tam crudeliter ac impie noceret amicis et non amicis. Astus sunt plane diabolici! Precor dominum, ut eos (quia novit)
+<fa><i>Klammern ergänzt.</i></fa> frangat.<zzl>zl16340-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16340-3A</zzl>Foederati
+<fn>Die katholischen Orte der Eidgenossenschaft.</fn> me plane dementant propter impietatem, qua dicuntur agere cum papa
+<fn>Paul III.</fn>, et perfidiam, qua agunt contra nos. Tuentur c{e}sarem. Quid si Gallus
+<fn>König Franz I. von Frankreich.</fn> aliquid contra hunc
+<fn>den Kaiser.</fn> tentaret? Ad ipsum
+<fn>Gemeint ist Franz I.</fn> evolaturi essent sturnatim
+<fn>scharenweise; s. <a>Kirsch</a> 2701.</fn>. <zzl>zl16340-5A</zzl>Et sunt, qui pro vero dicunt hodie duces apud eos institutos esse a Gallo et habere pecuniam numeratam
+<fn>pecuniam numeratam: Bargeld; s. <a>Kirsch</a> 1904.</fn>, qua milites ad futurum conatum belli clam colligant.
+<fn>Ein falsches Gerücht.</fn><zzl>zl16340-5E</zzl> Nunquid viros sic agere decet? Non decet! Quapropter me tedet pudetque, quod adeo in istis a nomine et re virorum discedunt. Dominus visitet
+<fn>Hier im Sinne von "heimsuchen" (in Anlehnung an die Vulgata).</fn> eos sua gratia pro bona sua voluntate.<zzl>zl16340-3E</zzl></p>
+</div>
+<div>
+<p>Dolet praeterea, quod evangelium, quanto diligentius docetur, tanto magis negligitur, ut facile nunc intelligam, quod Christus dixit olim discipulis: "Et eritis odio habiti omnibus propter nomen meum"
+<fn>Mt 10, 22; 24, 9; Mk 13, 13; Lk 21, 17.</fn>. Dico, quod experientia didici. <zzl>zl16340-4A</zzl>Sordet nomen domini Iesu apud plerosque,
+<fn>Vgl. Röm 2, 24.</fn> qui hactenus tamen voluerunt videri veri Christi cultores. Quare? Quia res huius s{e}culi tam arrident, ut s{e}pe dubitem, an verius fuerit, quod queruntur prophet{e}, ipsorum temporibus, an hodie, ubi dicunt: "Omnes student avarici{e} a minimo usque ad maximum"
+<fn>Jer 6, 13; 8, 10.</fn>. Nemo est, qui non velit habere, undecunque habeat. Et cur habere? Ut ventri
+<fn>Vgl. Phil 3, 19.</fn> et peni
+<fn>Vgl. <i>Sallust,</i> Coniuratio Catilinae 14, 2; <i>ders.,</i> De bello Iugurthino 83, 41; Disticha Catonis 4, 10.</fn> satisfaciat. Evangelium et fides ad laborandum impellunt
+<fn>Vgl. Joh 6, 27; Phil 2, 12.</fn> et ad vit{e} honestatem probitatemque.
+<fn>Vgl. 1Tim 2, 2.</fn> Venter voluptates qu{e}rit. Titillant h{e}, blandiuntur,
+<fn>Vgl. <i>Ps.-Augustin,</i> Sermo 128, 11 (<a>MPL</a> XXXVIII 718).</fn> suaves sunt.<zzl>zl16340-4E</zzl> Horremus ergo, quicquid illis
+<fn>voluptatibus.</fn> contrait ratione quavis. Lugentibus itaque Zion nisi Christus olim promisisset coronam pro cinere, oleum gaudii pro luctu et pallium laudis pro spiritu maeroris,
+<fn>Jes 61, 3.</fn> nescio quid nobis tandem foret agendum, qui doctrin{e} praesumus.</p>
+</div>
+<div>
+<p>Vale in Christo cum tuis et Gvalthero. Basile{e} raptim, 30. octobris anno 1546.</p>
+<un>Tuus Os. My.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, fratri ac domino in Christo venerando suo. Zu[rich]
+<fa><i>Textverlust bei Entfernung des Verschlussbandes.</i></fa>.
+<fn>Vorliegender Brief und Myconius' Brief <qv>nr2649</qv> wurden durch Christoph Froschauer an Bullinger übermittelt; s. <qv>nr2653</qv>,<qv>zl16342-16</qv>.</fn></p>
+</div>
+</text>
+</brief>

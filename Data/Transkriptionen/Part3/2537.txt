@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2537">
+<brief>
+<id>16227</id>
+<nr>2537</nr>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 17. August 1546</od>
+<vo>Autograph: Zürich StA, E II 346, 204 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 81</k></dr>
+<re>Frölich erhielt Bullingers Briefe vom 3. und 7. August [nicht erhalten] unversehrt, zusammen mit der Schrift [der Zürcher] betreffend die Ablehnung des Konzils von Trient. Die Augsburger schätzen sehr die ihnen von Bullinger und den anderen Helvetiern entgegengebrachte Zuneigung. [Ambrosius] Blarer machte Frölich Hoffnung auf deren Eintracht.
+<t/>Das Städtchen Rain, das der Kaiser [Karl V.] von 500 bayerischen Soldaten und 200 Reitern schützen ließ, wurde durch Ergebung und ohne Blutvergießen eingenommen. Nun begibt sich das Heer nach Ingolstadt. Es ist noch offen, ob die [Schmalkaldener] diese starke bayerische Festung belagern werden.
+<t/>Der Kaiser, der sich mit seinen Truppen einige Zeit in Landshut versteckt hat, ist wieder in Regensburg. Er verfügt über 12'000 Knabenschänder und Sodomiten. [Maximilian von Egmont] Graf [von Büren], Gouverneur von Friesland, wird sich ihm mit seinem großen Heer anschließen. Hoffentlich wird er am Rhein entweder aufgehalten oder bekämpft! Der Bote hat es eilig, deshalb hier nur dies.
+<t/>Der Abt von St. Gallen [Diethelm Blarer von Wartensee] gibt dem Kaiser schon seit längerem Geld für den Zug gegen die Protestanten. Frölich, der dies brieflich erfahren hat, weiß aber nicht, wem und wann der Abt das Geld übergab, noch kennt er die Höhe des Betrags. Sollte er dies erfahren, wird er es mitteilen.
+<t/>Der junge, aber geistig reife [Johannes] Haller ist den Augsburgern ganz verbunden. Der Herr möge ihn bewahren!
+<t/>Grüße an die Bürgermeister [Johannes Haab und Hans Rudolf Lavater], an die Pfarrkollegen, an alle Gelehrten und vor allem an [Rudolf] Gwalther, dessen "Stute von Einsiedeln" Frölich veröffentlichen will.
+<t/>P.S.: Das [schmalkaldische] Heer ist bestens ausgerüstet und sehr groß. Es fordert den Feind heraus. Dieser sucht aber den Kampf hinauszuzögern.</re>
+<text>
+<p>S. Literas tuas
+<fn>Nicht erhalten.</fn> acceptabiles supra modum, ornatissime frater, 3. et 7. huius mensis datas, cum recusatione consilii malignantium Tridentini
+<fn>Die "Antwort der Predigeren zu Z{ue}rich uff des Papsts Laden in das Concilium zu Trient" vom 1. August 1546; s. dazu <qv>nr2530</qv>, <qv>fn16221-2</qv>.</fn>, integras accepi, proque cura et pietatis in nos ferventi studio tibi gratias ago immortales. Plurimum profecto totam Augustam tuus ceterorumque Helvetiorum
+<fa>Helvetiorum <i>am Rande nachgetragen.</i></fa> propensus in nos animus iuvat. Dominus conservet etiam vos faustos et concordes, quemadmodum Blaurerus noster bonam unanimitatis vestr{e} spem mihi iniecit.
+<fn>Anspielung auf die Meinungsverschiedenheit zwischen den protestantischen Stadtkantonen und den Neun Orten; s. zuletzt <qv>nr2533</qv> und <qv>fn16222-2</qv>. - Ein entsprechender Brief Blarers an Frölich ist nicht bekannt.</fn></p>
+<p><zzl>zl16227-1A</zzl>Nostri occupaverunt oppidum Rhain citra sanguinem.
+<fn>Am 10. oder 11. August; s. <qv>nr2533</qv>, <qv>fn16222-1</qv>.</fn> Nam etsi illud pr{e}sidio cesaris
+<fn>Karl V.</fn>, nempe 500 militibus atque Bavarorum 200 equitibus, custoditum sit, tamen ultro se nostris dedidit.<zzl>zl16227-1E</zzl> Nunc exercitus noster Ingolstadium versus contendit,
+<fn>Die Schmalkaldener begannen am 16. August mit der Belagerung Ingolstadts, fanden aber bald einen Kompromiss mit der Stadt, um schon am 19. August über Beilngries und Hemau weiter nach Regensburg gegen den Kaiser ziehen zu können; s. Zürich StA, A 177, Nr. 27 (Konstanzer Rat an den Zürcher Rat, 23. August 1546); <a>Herberger, Schertlin</a> 137-151; <qv>nr2548</qv>,<qv>zl16237-7</qv>; <a>Schüz, Donaufeldzug</a> 31f; <a>Paulus, Schertlin</a> 64.<zfn>fn16227-1</zfn></fn> quod forti pr{e}sidio c{e}saris firmatur. An autem nostri civitatem eam, qu{e} totius Bavari{e} munitissima est, oppugnaturi sint, adhuc nescitur.</p>
+<p>C{e}sar, qui cum suis copiis ad Landshut aliquantisper delituit, iam Ratisbonam redit.
+<fn>Siehe <qv>nr2533</qv>, <qv>fn16222-4</qv>.</fn> Habet enim pedicarios
+<fn>= pedicatores; s. Thesaurus Linguae Latinae, Bd. X/1, Berlin/New York 1982-1997, Sp. 974f.</fn> et zodomitas
+<fn>= sodomitas.</fn> 12'000, in quos robur omne ponit. <zzl>zl16227-2A</zzl>Quidam comes
+<fn>Der kaiserliche Feldherr Maximilian von Egmont, Graf von Büren.</fn>, gubernator Frisiorum,
+<fn>Egmont war Statthalter von Friesland.</fn> magno cum exercitu
+<fn>Siehe dazu <qv>nr2512</qv>, <qv>fn16202-2</qv>.</fn> iam approperat c{e}sari manus iuncturus. Spero autem nostros, qui ad Rhenum illum expectant, ipsum aut remoraturos aut cum eo conflicturos.<zzl>zl16227-2E</zzl> Dominus donet nobis non iuxta meritum nostrum, sed pro sua gloria! Plura propter accelerationem tabellarii
+<fn>Unbekannt.</fn> non potui.</p>
+<p><zzl>zl16227-3A</zzl>Abbas Sangallensis
+<fn>Diethelm Blarer von Wartensee.</fn> pecunias contra nos iamdudum atque etiam hoc anno c{e}sari contribuit.
+<fn>Siehe dazu schon <qv>nr2523</qv>,<qv>zl16213-9</qv>. Auf der Tagsatzung zu Baden vom 9. August wurde dieser beschuldigt, dem Kaiser 10'000 Gulden für den Krieg beigesteuert zu haben; s. <a>EA</a> IV/1d 661 u.3.<zfn>fn16227-3</zfn></fn> Hoc pro certo mihi scriptum est, sed cui et quantum aut quo tempore dederit, hactenus experiri non potui. Si fieri poterit, expiscabor et tibi significabo.<zzl>zl16227-3E</zzl></p>
+<p>Hallerus totus noster est, vir ut iuvenis etate
+<fn>Haller (geb. am 18. Januar 1523) war damals 23 Jahre alt.</fn> ita grandevus mente. Dominus hunc servet communi huic reipublic{e} christian{e}!</p>
+<p>Vale. Saluta dominos consules
+<fn>Hans Haab und Hans Rudolf Lavater.</fn>, symmistas et eruditos omnes, Gvaltherum praecipue, cuius equam Heremitanam, imo monachorum turpitudinem,
+<fn>Gemeint ist Gwalthers Gedicht "Prognosticon vel Chria Monachis Mariae Eremitanae oblata"; s. <qv>nr2529</qv>, <qv>fn16220-5</qv>.</fn> divulgabo.
+<fn>Ein entsprechender Druck konnte nicht ermittelt werden.</fn> 17. augusti 1546.</p>
+<un>Tuus ex animo Georgius Laetus, etc.</un>
+<lz/>
+<p>Exercitum habemus optime instructum et copiosissimum.
+<fn>Zur Truppenstärke der Schmalkaldener s. die Verweise in <qv>nr2533</qv>, <qv>fn16222-3</qv>.</fn> Hostem ad pugnam provocamus, sed ipse remoram qu{e}rit.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Herrn Henrichen Bullinger, vorgeern
+<fn>Antistes.</fn> der kilchen Zurch, mynem lieben herrn und brudern, ze hannden.
+<fn>Der Brief wurde via Konstanz versandt; s. <qv>nr2546</qv>,<qv>zl16233-8</qv>; <qv>nr2574</qv>,<qv>zl16264-3</qv>.<zfn>fn16227-2</zfn></fn></p>
+</text>
+</brief>

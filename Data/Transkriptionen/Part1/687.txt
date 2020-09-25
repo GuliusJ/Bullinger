@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="687">
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Schaffhausen*)</place>
+	<date>25. November 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 362, 35 (Siegelspur)</record>
+<print></print>
+<note>Gedruckt: QGTS II 121</note>
+<statue>
+Bittet Bullinger, sich beim Landvogt auf der Kyburg (*Hans Rudolf
+Lavater*) für den Überbringer des Briefes, einen reuigen Täufer,
+einzusetzen. Mit Martin Lingg disputierten
+sie zweimal, das erste Mal über den Eid, das zweite
+Mal vor allem über die Kindertaufe; der Rat will nun entschieden
+gegen das Täufertum vorgehen.
+</statue>
+<content>
+Gracia et pax etc.
+<p>Qui+1 has ad te perfert litteras, catabaptistarum neniis aliquamdiu intricatus fuit, verum utcumque nunc resipuerit et coram ecclesia Loffensi+2 recantaverit, mulctè tamen genus sibi iniunctum non habet unde+a
+dissolvat, quum praeter uxorem ac liberos nichil possideat omnino.
+Rogavit igitur, ut ego apud te, tu vero apud dominum a Kiburg+3,
+cui charum te esse omnes novimus, intercederes, quod sibi hac in re
+misericordia exhiberetur, qua maxime opus habet. Fac igitur, mi frater,
+ut miser ille operam tuam sentiat impensam.</p>
+<p>Ceterum nos cum Martino Linggio+4 bis iam contulimus, semel de iuramento praesentibus quibusdam senatoribus ad hoc ordinatis, secundo vero de variis, praesertim tamen de baptisma parvulorum, et quamvis versipellis sit homo, egregius
+scripturarum obnubilator, sophistarum argutiis non omnino ignarus,
+attamen maxima laude veritatis maximoque cum fructu omnium, qui
+interfuerunt, secum contulimus. Nam in secundo congressu liberum fuit
+omnibus, qui vellent, interesse+5.
+Praeterea 20. novembris iudicio imperii+6
+stetit Linggius. Quod sententiam in eum ferre noluit+b,
+nisi prius iudices certi essent, cuius sentencie senatus magnus
+esset et an opem ferre vellent pro extirpanda hac zizania. Heri
+igitur convocatus est senatus magnus, qui subsidium egregie pollicitus
+est, et decreverunt simul, ut catabaptistarum lues penitus eradicetur+7.
+Quapropter senatum severius in catabaptistas animadversurum speramus,
+siquidem lenitate non tolluntur, sed stabiliuntur potius. Vereor
+Linggium vix vita posse elabi.</p>
+<p>Vale.</p>
+<p>25. novembris 1535.</p>
+<signature>
+Erasmus Ritter,
+ex animo tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Dem wolgelerten herren Meister
+Heinrich Bullingeren, praedicanten zu^% Zürich, minem lieben herren und
+gu^%ten freundt.
+</address>
+</content>
+<note>
+<print>
++a>vor  unde  gestrichenes  u.
++b>noluit  am Rande nachgetragen.
+</print>
+<address>
++1>Unbekannt. -- Vgl. oben Nr. 686, Anm. 2.
++2>Laufen (Kt. Zürich).
++3>Landvogt Hans Rudolf Lavater.
++4>Martin Lingg.
++5>Am 17. November 1535 beschloss der Rat, dass Martin Lingg am 20.
+November vor das Vogtgericht gestellt werden solle (vgl. QGTS II 117).
+Das zweite Gespräch mit Lingg hatte diesen Beschluss zur Folge gehabt; es
+dürfte also kurz davor stattgefunden haben. Das erste war
+möglicherweise am 10. November durchgeführt worden (vgl. ebd., S. 114).
++6>Gemeint ist das Vogtgericht, das vom Reichsvogt, seit 1530 Hans
+Stockar, präsidiert wurde (vgl. QGTS II 37. 89. 119).
++7>Vgl. QGTS II 120.
+</address>
+</note>
+</letter>

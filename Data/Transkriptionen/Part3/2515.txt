@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2515">
+<brief>
+<id>16205</id>
+<nr>2515</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 27. Juli 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 239 (neu: 257) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 50</k></dr>
+<re>[Ludwig von] Reischach erhielt die Nachricht, dass [Landgraf Philipp von] Hessen auf seiner Route Würzburg und danach vielleicht auch Bamberg angreifen wird.
+<t/>Heute fährt ein Schiff mit einem Fähnlein auf dem Rhein nach Straßburg. Schon seit acht Tagen schickt man eine Unmenge Soldaten dorthin.
+<t/>Viele sind in [Basel] der Ansicht, dass man mit einem Angriff [gegen Kaiser Karl V.] allzu sehr gezögert hat, dass dieser seinen [Hauptleuten] den Kampf verbiete und abwarte, bis ihm eine große [Streitkraft] zur Verfügung steht. Durch eine Kriegslist hat er schon die [Schmalkaldener] von einem Vormarsch ins Etschtal abgehalten. Diese sollten daraus lernen, klüger gegen ihn vorzugehen, denn in seiner Verschlagenheit konnte er schon eine Menge Waffen sammeln.
+<t/>Der dänische [König Christian III.] und [Kurfürst Johann Friedrich I. von] Sachsen sichern das zurückgelassene Territorium des Landgrafen.
+<t/>Dass ein Treffen [der protestantischen Stadtkantone] angekündigt wurde, billigt Myconius sehr! Er hat nämlich Ärgerliches über die Fünf Orte erfahren, die unangemessen gehandelt haben sollen. Mögen die [Stadtkantone] das Richtige tun!
+<t/>Über den Weizenvorrat hat Bullinger schon zum zweiten Mal geschrieben.
+<t/>Grüße.
+<t/>[PS.:] In [Basel] sagt man, dass der Türke komme, um dem Kaiser eine Lektion zu erteilen.</re>
+<text>
+<p><zzl>zl16205-4A</zzl>S. Nihil habeo, nisi quod certo scriptum est ad Rischachium
+<fn>Ludwig von Reischach.</fn> Hessum
+<fn>Landgraf Philipp von Hessen.</fn> adgressurum Herbipolim ex itinere, dein forsitan Bambergam.
+<fn>Zum Durchzug der schmalkaldischen Truppen durch die Bistümer Würzburg und Bamberg s. <a>PC</a> IV/1 264, Nr. 243; <a>NBD</a> IX 146f, Anm. 3; Das exemte Bistum Bamberg, Bd. 3: Die Bischofsreihe von 1522 bis 1693, bearb. v. Dieter J. Weiss, Berlin/New York 2000 - Germania sacra NF 38/1, S. 71. - Es kam damals nicht zu einer militärischen Offensive.<zfn>fn16205-2</zfn></fn><zzl>zl16205-4E</zzl></p>
+<p><zzl>zl16205-3A</zzl><zzl>zl16205-5A</zzl>Hodie navis cum vexillo per Rhenum tendit Argentinam,<zzl>zl16205-3E</zzl> et per octo iam dies ingens <zzl>zl16205-2A</zzl>vis militum<zzl>zl16205-2E</zzl> conscripta eodem dimissa est.
+<fn>Vermutlich die schon in <qv>nr2512</qv>,<qv>zl16202-4</qv>, erwähnten Truppen. Vgl. ferner <a>Gast, Tagebuch</a> 283.</fn><zzl>zl16205-5E</zzl></p>
+<p><zzl>zl16205-1A</zzl>Frequens est hic a bonis sermo, quod nimia sit dilatio hostis invadendi,
+<fn>Dies war auch Bullingers Meinung; s. <qv>nr2484</qv>,<qv>zl16174-3</qv>; <qv>nr2506</qv>,<qv>zl16196-3</qv>.</fn> et Carolum
+<fn>Kaiser Karl V.</fn> suis prohibere, ne alicubi repugnent, donec multitudo convenire possit.<zzl>zl16205-1E</zzl> Stratagemate reduxit milites nostros de territorio Athesinorum
+<fn>Das Etschtal (Südtirol). - Damit wird auf das Strategem Karls V. verwiesen, wodurch er den Vormarsch Schertlins Richtung Innsbruck stoppen konnte; s. <qv>nr2505</qv>,<qv>zl16195-3</qv>.<zfn>fn16205-1</zfn></fn>, id quod nostris considerandum, ut discant occurrere versipelli
+<fn>Karl V.</fn>. Effecit res ista, ut tanta vis metallicorum
+<fn>vis metallicorum: Menge von Waffen (aus Metall) - in Anlehnung an "vis militum" (oben Z. <qv>zl16205-2</qv>).</fn> iam convenerit.</p>
+<p>De Dano
+<fn>König Christian III. von Dänemark.</fn> et Saxone
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> nil, <zzl>zl16205-6A</zzl>nisi quod per hos tutus est post se
+<fn>post se: in dem hinter sich gelassenen Hessen; s. schon <qv>nr2512</qv>,<qv>zl16202-5</qv>.</fn> lantgraphius.<zzl>zl16205-6E</zzl></p>
+<p><zzl>zl16205-7A</zzl>De conventu indicto
+<fn>Das für den 2. August in Zürich geplante Treffen der protestantischen Stadtkantone. Sie berieten sich über eine etwaige Antwort auf die an die Eidgenossen gerichtete Einladung des Papstes, das Konzil zu besuchen; s. <a>EA</a> IV/1d 650-653, Nr. 305; Michael <i>Stettler,</i> Berner Chronik (StA Bern, DQ 11), Bd. D: 1541-1550, f. 140r.-146r.; <qv>nr2530</qv>, <qv>fn16221-2</qv>.<zfn>fn16205-4</zfn></fn> domino gratias ago. Nam audieram, qu{e} me nonnihil divexarant. Agunt Pagi 5, quod non decet.
+<fn>Siehe <qv>nr2501</qv>, <qv>fn16192-4</qv>.</fn> Agant nostri, quod decet! Dominus recte agentibus aderit.
+<fn>Vgl. Spr 12, 22.</fn><zzl>zl16205-7E</zzl> Institutum vestrum placet. Dominus Iesus adsit, ut fiat, quod spiritus eius promittit.
+<fn>Denkt Myconius etwa an Apk 3, 7-13?</fn> Voluntatem timentium se faciet et deprecationem eorum exaudiet et salvos faciet eos!
+<fn>Ps 145 (Vulg. 144), 19.</fn></p>
+<p>De tritici copia iam scribis secundo.
+<fn>Geht es hier vielleicht um die im "Christlichen Burgrecht" von 1529 für Straßburg festgelegte Niederlegung von 100 Zentnern Pulver in Zürich und 10'000 Viertel Weizen in Basel zu Notzeiten? Siehe dazu Ulrich <i>Crämer,</i> Die Wehrmacht Strassburgs von der Reformationszeit bis zum Fall der Reichsstadt, in: <a>ZGO</a> 84 (NF 45), 1931, 52f.<zfn>fn16205-3</zfn></fn></p>
+<p>Vale in Christo, qui et verbum et ecclesiam suam tueatur a malo.
+<fn>Vgl. 2Thess 3, 3.</fn> Basile{e} raptim, 27. iulii anno 1546.</p>
+<un>Tuus Os. Myco.</un>
+<lz/>
+<p>Hic sermo volat: "Land
+<fn>Lasst.</fn> sy machen, der Turgg
+<fn>Sultan Suleiman I.</fn> fart da her und wil dem kaiser helffen,
+<fn>Ironisch.</fn> gelt
+<fn>das bedeutet.</fn>, man wirt sy leeren
+<fn>belehren.</fn>."</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, fratri in domino suo observando.</p>
+</text>
+</brief>

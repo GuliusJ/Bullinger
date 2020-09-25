@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1365">
+<nr>1365</nr>
+<correspondents>
+	<originator>Hermann Aquilomontanus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Emden</place>
+	<date>27. Februar 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1379 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 150</vo>
+<dr>Ungedruckt</dr>
+<re>Hat ihm ausführlich geschrieben [Nr. 1294] und hofft, daß eine Antwort unterwegs ist. Es ist ein Streit um die
+Heilsnotwendigkeit der Kindertaufe entstanden; er selbst lehnt Nottaufen ab und besteht darauf, daß am Sonntag vor versammelter Gemeinde getauft wird, möchte aber Bullingers Urteil hören.
+</re>
+<tx>Hermannus Aquilomontanusd. Henrico Bullingero s[alutem] d[icit].
+^$Literas<f1>HBBW IX, Nr. 1294.<fe> prolixas ad te misi in nundinis posterioribus<f1>Am 10. August 1539 (zum Termin der Frankfurter Herbstmesse s. HBBW VI, S. 406, Anm. 5).<fe>,
+virorum optime, quibus tuam amicitiam ambivi et in dubiis
+meis resolutionem. Decet enim manus adiutrices mutuo<fx>mutuo ^#/+über der Zeile nachgetragen.^#/-<fe> porrigere, postquam in
+eadem navi simus<f1>Adagia, 2, 1, 10 (LB II 410).<fe>. Spero te pro tua humanitate innata paucis modo respondisse.
+^$Nunc hic de pedobaptismi necessitate certamen exortum est. Quidam
+necessario urgent<fx>^#/+vor^#/- urgent ^#/+gestrichenes^#/- virge.<fe> et salutem alligant. Ego quidem salutem
+uni Christo affixam respondi, non elementis, nec velle
+obstetrices baptisare, sed omne sanctum offitium coram
+ecclesia agendum publice fieri desiderabam et nullo modo
+infantes damnari, si non baptisentur, sed parentes in culpa,
+qui institutionem domini negligant aut vilipendant. Hic
+moris est in dominica tantummodo tingi infantes. Desideravi,
+ut tum coram ecclesia adferantur simpliciter et gratie
+agantur domino de dono et liberatione summi doloris, et si
+interim moriantur, domino commendentur, ne videamur<fx>^#/+in der Vorlage^#/- videamus.<fe> salutem alligare elemento aut actioni
+externe. Scio quidem institutionem domini; sed sub<fx>^#/+vor^#/- sub ^#/+gestrichenes^#/- s.<fe> lege rursum redigimur, si ita
+mandato astringamur, cum charitas et fides non exigant.
+Habes meam sententiam, vir amabilis; precor, tuam limam et
+castigationem adiungas. Malo doceri quam instituere.
+^$Vale, diligentissime pastor, cum cooperariis omnibus.
+^$Raptim, Emde, 27. februarii 1540.
+<lz>[Adresse auf der Rückseite:] Docto et pio virod. Henrico Bullingero, ec­clesie dominice pastori diligentissimo. Tiguri.
+</content>
+</letter>

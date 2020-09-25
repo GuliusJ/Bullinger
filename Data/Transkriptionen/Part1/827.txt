@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="827">
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Schaffhausen*)</place>
+	<date>23. Mai 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 359, 2750 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Warnt Bullinger vor zu grosser Gutgläubigkeit gegenüber Benedikt
+(*Burgauer*). Ein Ratsmitglied -- wohl Bürgermeister
+(*Hans*) Ziegler -- hat versucht,
+den Rat für das Luthertum zu gewinnen, nachdem Burgauer unter Berufung
+auf Briefe Bullingers und Juds vorgegeben hat, dieses sei im Begriff,
+sich allgemein durchzusetzen; Burgauer brüstet sich mit der Billigung
+seiner Lehre durch Bullinger, kann aber dessen Zustimmung nur durch
+Leugnen der von Ritter und Peter (*Schnyder*) beanstandeten
+Äusserungen erschlichen haben. Der Briefüberbringer ist ein
+vertrauenswürdiger Ratsherr.
+</statue>
+<content>
+Gratia et pax etc.
+<p>Visum est michi tibi facere rem non ingratam, si admoneam, ut prudenter agas literis, quibus Benedicto+1 scribis, siquidem non illo candore quo tu eas interpretatur. Tu eum lucrari studes tua
+humanitate; at ipse pervicatior redditur. Propterea rem hanc tene:</p>
+<p>Accidit hiis diebus, quod in senatu nostro quidam talem habuit concionem: "Ecce, domini mei, ego iamdudum vos admonui, Zvinglii doctrinam ne susciperetis. At nichil perficere potui; vos enim manibus
+pedibusque+2
+ivistis in eam sententiam. Nunc vero multi principes, cuncte
+urbes et nonulle ex Elvetiis cum concionatoribus eam respuunt doctrinam
+et ad Lutherum defecerunt. Vos igitur soli vultis persistere, quibus non
+est potestas eam defendendi" etc. multis aliis rationibus, quibus
+conatus est persuadere senatui, ut ad Lutherum deficiant.
+Quis autem fuerit, me latet; ego vero suspicor Zieglerum+3,
+patronum Benedicti, ex literis tuis+4
+et Leonis+5
+hec de vobis pronuncciasse. Sic versipellis vestra interpretatur; nam
+Benedictus iactatur publice sententiam suam, quam Berne disputavit+6,
+Scaphusie revocavit+7,
+iam redire ab inferis, vestram eo detrudi. Quapropter et ipse publice
+concionatus est, quemadmodum a Petro Louffensi+8
+et literis meis+9
+accepisti, non ut ipse se excusavit; non enim dubito, si veritatem
+scripsisset, tu sua minime probare potuisses. Iam nunc et tuam
+approbationem+10
+omnibus obtrudit, sed non addit, quod mendacia tibi proposuerit.</p>
+<p>Verum de his alias; nuntius+a enim nimis festinavit; est tribunus+11, homo sincerus, cum quo commentari poteris, quicquid libuerit.</p>
+<p>Vale.</p>
+<p>23. maii 1536.</p>
+<signature>
+Erasmus Ritter,
+ex animo tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) An Meister Heinrich Bullinger,
+minem lieben herren und bru^%deren.
+</address>
+</content>
+<note>
+<print>
++a>in der Vorlage  nunctius.
+</print>
+<address>
++1>Benedikt Burgauer.
++2>Zur Redensart vgl. Adagia, 1, 4, 15 (LB II 157).
++3>Bürgermeister Hans Ziegler.
+;Bullinger bestätigt am 24.Mai,dass es sich um BM Hs.Ziegler (nicht
+;Zunftm.Hs.Z., auch Gegner der Ref.;s.Wipf Reg.) handelt.
++4>Oben Nr. 818.
++5>Ein solches Schreiben von Leo Jud ist nicht erhalten.
++6>Zur Abendmahlsdiskussion Burgauers mit Zwingli und Oekolampad
+auf der Berner Disputation 1528 vgl. Z VI/I 299-368, auch
+<print>
+Köhler,  ZL I 582-584.
++7>Um Weihnachten 1530 hatte sich Burgauer öffentlich auf der
+Kanzel und vor dem Kleinen Rat von der lutherischen Abendmahlslehre
+losgesagt (vgl.
+Wipf  308 und Z XI 450, Anm. 2).
++8>Peter Schnyder, Pfarrer in Laufen. -- Ein schriftlicher Bericht
+Schnyders an Bullinger liegt nicht vor.
++9>Vgl. oben Nr. 792, 20-35.
++10>Siehe Anm. 4.
++11>Unbekannt.
+;Zunftmeister Hs. Rudolf käme hier in Frage (s. Z XI 450,A2). Aber zu
+;spekulativ!
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

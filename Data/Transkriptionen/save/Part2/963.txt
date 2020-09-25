@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="963">
+<nr>963</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>um 7. März 1537]</date>
+	<note>Grynäus antwortet etwa gleichzeitig mit Myconius (Nr. 960) und Fries (Nr. 962) auf die Mitteilung, Fries werde als Schulmeister nach Zürich berufen (vgl. unten Z. 16-20). Die Berufung Veit Ardüsers zum
+Professor der Mathematik (vgl. Z. 5-9) erfolgte kurz vor dem 8. März (s. Anm. 4).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 178 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Unterstreicht die Bedeutung der Einheit in Christus. Melchior [Wirz] hat die Professur für Mathematik nicht
+erhalten, da ihm der hochbegabte Veit [Ardüser] zuvorgekommen ist; ob er [als Nachfolger von Johannes Fries] Vorsteher
+[des Pädagogiums] werden kann, scheint fraglich. Fürchtet, daß der Ruf nach Zürich die Fortsetzung der Studien von Fries
+in Frage stellen wird. Grüße.</re>
+<tx>S. Recte habet, mi charissime Bullingere, ac ita necesse est etiam, in domino Christo toto pectore<f1>Adagia, 1, 4, 26 (LB II 160f).<fe> ut nos vereque
+diligamus ac uno ore, uno corde in praedicationem sanctificationemque nominis Christi toto pectore conspiremus.
+^$De Melchiore<f1>Melchior Wirz.<fe> sic habet res: Mathematica conditio obvenerat; iam impetraveram, iam comiseram idque
+scolę tocius consensu et authoritate, nisi eodem die propemodum Vitus<f1>Veit Ardüser (Vitus Ardisaeus, Artusaeus)
+ist ab 1525 als Baccalaureus in Paris nachweisbar, wo er mindestens bis 1533 blieb und sich einen Namen als Mathematiker
+schuf. Im Sommer 1536 versuchte Bucer vergeblich, ihm eine Anstellung in Tübingen zu vermitteln. 1536/37 immatrikulierte
+sich der aus Graubünden stammende und inzwischen zum Magister promovierte Gelehrte in Basel. Am 8. März 1537 teilte er
+Konrad Hubert seine soeben erfolgte Berufung zum Professor der Mathematik mit (Straßburg Stadtarchiv, AST, Nr. 154, 51);
+als solcher wirkte er bis 1547. Später hielt er sich in Bourges auf und kam schließlich als Privatlehrer nach Angers, wo er 1557 gestorben sein soll. - Lit.: Athenae Rauricae sive Catalogus Professorum
+Academiae Basiliensis, Basel 1778, S. 412; Basel, Matrikel II 15, Nr. 50; Amerbach, Korr. VI 93; X 737; Blarer BW I 807. 815;
+HBLS I 427.<fe> quidam supervenisset, ad unguem<f1>Adagia, 1, 5, 91 (LB II 216f).<fe> doctus homo in his rebus. Is cum
+pius et certus homo sit et testimonio omnium recipietur, de conditione hac non amplius deliberandum esse putaram. Ve­rum
+non haec eo dico, ut beneficium, quod nulla re dedimus, datum<fx>^#/+vor^#/- datum ^#/+gestrichenes^#/- dediss.<fe> esse
+videri velim, quia in eo fuerim, ut daretur, sed ut intelligeres, in eo me fuisse, quod tu volebas. Sed de ea re
+Melchior ipse tibi scribet. Pueri, quos alo, plerique grandiusculi sunt, quod ex ipso Phrysio facile intelliges; is ut
+praefici possit, vereor<f1>Bullinger hatte vorgeschlagen, Fries durch Wirz zu ersetzen, ohne aber die Funktion von Fries
+als Leiter des Pädagogiums genauer zu kennen; vgl. oben Nr. 960, 15-20, und unten Nr. 976, 40-48.<fe>.
+Si non potest, non imputabis mihi, quod res negat utrique.
+^$De Phrysio cupiam, ut bene homini prospiceretis. Esset enim conditio hic propediem non contemnenda, et est aliqua
+qualiscunque in scola discendi maior occasio. Actum de studiis ipsius erit, si eo ad conditionem trahetur<f1>Fries wurde
+als Schulmeister an die Fraumünsterschule berufen; vgl. oben Nr. 959.<fe>; dabitur uxor, et
+conditione<fx>^#/+vor^#/- conditione ^#/+gestrichenes^#/- vir[?].<fe> prorsus absumetur hac quidem tam laboriosa. Sed de
+his vos pro vestra circumspectione videritis.
+^$Dominus Christus<fx>^#/+in der Vorlage^#/- <gr>XRS.</gr><fe> servet te. Amen. Saluta diligenter mihi Theodorum<f1>Theodor
+Bibliander.<fe> in domino, atque diligenter in domino contra sathanam, contra omnem artem diabolicam conspiremus. Valete
+omnes.<un>Gryneus tuus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Henrico Bullingero, fratri charissimo.
+</content>
+</letter>

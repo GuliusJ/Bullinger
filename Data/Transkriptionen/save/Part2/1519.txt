@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1519">
+<nr>1519</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>14. Mai [1541]</date>
+	<note>Im Jahr des Abgangs von Hans Vogler aus Basel und des Regensburger Religionsgesprächs; vgl. bes. oben Nr. 1504.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 181 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Schickt Bücher, die [Hans] Vogler [d. J.] zurückließ, und fragt sich, wer sich um dessen restliche Habe kümmern wird; hat
+wegen Voglers Schulden an dessen Vater [Hansd. Ä.] geschrieben. Erkundigt sich nach dem Reichstag [in Regensburg].
+</re>
+<tx>S. Reliquit hic Voglerus librum unum et alterum; eos hic
+cum isto<f1>Unbekannt.<fe> mitto. Vas, in quo est omnis eius suppellex, nemo
+hactenus aufert; miror, qui fiat. Sunt quaedam debita
+perexigua, quae patri nuper scripsi,<f1>Der Brief an Hans Voglerd. Ä. ist nicht erhalten.<fe> et valde cupiam dissolvi.
+^$Vale in domino cum omnibus tuis.
+^$14. maii.
+<un>S. Grynęus
+<un>tuus.
+<lz>A comitiis<f1>Gemeint ist zweifellos der Reichstag zu Regensburg.<fe> si quid habes, imperti.
+<lz>[Adresse auf der Rückseite:] Domino H. Bullingero suo,
+amico.
+</content>
+</letter>

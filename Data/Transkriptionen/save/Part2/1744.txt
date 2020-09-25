@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1744">
+<nr>1744</nr>
+<correspondents>
+	<originator fn=1>Anna Hilles</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Anna Hilles, die Tochter des gutsituierten Christopher Lacey aus Yorkshire, heiratete Richard Hilles vor 1538, dem Jahr, in dem der erste Sohn John geboren wurde; in den Jahren 1540 bis 1548 folgten noch die Söhne Gerson, Barnabas und Daniel. Die Tatsache, dass Hilles in seinem Testament vom Juni 1586 Anna nicht erwähnte, legt nahe, dass sie vor diesem Datum verstorben war. Weitere Briefe von Anna Hilles an Bullinger sind nicht bekannt. - Lit.: David ^#/+Loades,^#/- in: Oxford DNB XXVII 214f.^&xEpistolae Tigurinae bzw. Original Letters, passim; Zurich Letters, passim.^&x{</note>
+</correspondents>
+<space_time>
+	<place>Straßburg</place>
+	<date>9. Mai 1543</date>
+</space_time>
+<vo>Original<fx>^#/+Der Brief ist nicht von Anna Hilles selbst geschrieben, sondern von Francis Warner, der sich zu diesem Zeitpunkt anscheinend in Hilles' Haus aufhielt; vgl. den Brief von Richard Hilles an Bullinger, unten Nr. 1815, und den Brief Warners an Bullinger, unten Nr. 1761.^#/-<fe>: Zürich StA, E II
+369, 74 (ohne Siegel)</vo>
+^&xK: Zürich ZB, Ms S 52, 196; Erw. Keep-Liste 38.1; Nicht in Ep. Tig.!; Maschinenschrift: Esther Hildebrandt: English Prot. Exiles (1982) [Gd VII 1000], 294f (App. E 1).^&x{
+<dr>Ungedruckt<f1>Maschinenschriftliche Abschrift in: ^#/+Hildebrandt,^#/- Exiles 294f.<fe></dr>
+<re>Entschuldigt sich für ihr Schreiben, da Bullinger sehr beschäftigt sein wird, aber es ergab sich in der Abwesenheit ihres Mannes [Richard Hilles] die Notwendigkeit. Der Grund für ihr Schreiben ist dieser: Da John Burcher darum gebeten hat, bei Bullinger 30 Gulden für ihn zu hinterlegen, übersendet sie hierbei 21 Kronen zu treuen Händen. Grüße und Übersendung einen kleinen Geschenkes; sie bediente sich beim Abfassen dieses Briefes der Hilfe ihres Dieners [Francis Warner], der auch grüßen lässt.</re>
+<tx>Argentorati, 9. maii anno 1543.
+^$Salutem atque in vinea domini profectum.
+^$Satius ne foret quicquam scribere, vir modis omnibus
+observande, an secus, multum profecto dubitavi; nam cum non
+ignorarem, quam multis quamque necessariis fidus christiani
+gregis pastor nunquam non obruatur occupationibus, horrebam
+aut interturbare illas aut ab iisdem quoque modo te avocare.
+At rursus ad scribendum hortabatur cum fratris utilitate
+con­iuncta necessitas, quae[!] aequae[!] negligere sine
+turpitudinis ingratitudinisque nota vix potui. Immo
+obversabatur ob oculos interdum nimium stultam futuram
+fuisse me, nisi cogitarem isthac (nempe tacendo) non minus
+in te quoque peccari irreverentia quam illac imprudentia ceu
+importunitate. Itaque tua humanitate freta piorumque
+officiorum, que ultro marito meo<f1>Richard Hilles.<fe> et obtulisti et etiam
+prestitisti, non immemor fiduciam sumpsi nunc eo absente
+paucula ad te perscribendi. Quo pacto spero, ut nec ob
+loquacitatem videar nullam tuorum sanctissimorum negociorum
+habuisse rationem nec e contra propter silentium
+intempestivum et indecorum negligentiae aut contemptus
+merito debeam condemnari.
+^$Verum ne diutius te detineam, occasionem mearum literarum
+brevibus accipe: Misit ad nos nuper Ioannes Burcherus<f1>Burcher scheint sich seit Herbst 1542 wegen Holzgeschäften in Zürich und Umland aufgehalten zu haben (vgl. HBBW XII, Nr. 1689 und 1704); ein gewisser Thomas [Rose?] ließ im November 1542 durch Myconius ebenfalls eine Zahlung an Burcher durch Bullinger vermitteln (s. HBBW XII, Nr. 1690).<fe>,
+conterraneus noster, rogans, ut illi vir meus 30 florenos
+domum tuam<fx>tuam ^#/+über der Zeile nachgetragen.^#/-<fe> perferri curaret ibi tantisper asservandos, quoad
+iisdem opus haberet. Mittimus igitur tibi ex eius sententia
+una cum hoc epistolio coronatos 21, quos si tamdiu apud te
+servaveris, donec iuvenis repoposcerit, rem facies cum mihi
+gratam, tum illi utilissimam.
+^$Salutabis praeterea (queso) meis verbis uxorem tuam<f1>Anna, geb. Adlischwyler.<fe> in
+domino charissimam, pro qua etiam xeniolum<f1>Es ist unbekannt, um was für ein Geschenk es sich handelte.<fe> recipies inclusum
+in amicitię signum<fx>^#/+Von^#/- pro ^#/+bis^#/- signum ^#/+über der Zeile nachgetragen.^#/-<fe>. Salutat te ex familia nostra famulus
+meus<f1>Francis Warner.<fe>, quamvis de facie ignotus, cuius opera ad has literas
+componendas sum usus.
+^$Vale.
+<un>Tua in Christo soror Anna
+<un>Hils, Angla.
+<lz>[Adresse auf der Rückseite:] Domino Henricho
+Bullingero, Tigurinensium pastori summo vigilantissimoque,
+hae tradantur literae. Tiguri.
+</content>
+</letter>

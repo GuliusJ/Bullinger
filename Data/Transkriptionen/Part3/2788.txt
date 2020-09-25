@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2788">
+<brief>
+<id>17055</id>
+<nr>2788</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1547-02-02"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>[Zürich], 2. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 342, 164 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 935, Nr. 1051<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 73 </k></dr>
+<re><t>Für die Menschen ist die Lage zum Verzweifeln, nicht aber für Gott, der gewiss noch retten kann.</t>
+<t>Johannes Oporin wird einen vertraulichen Bericht über den Eid zeigen, den die fünf Städte [Biberach, Isny, Kempten, Memmingen und Ravensburg dem Kaiser Karl V.] leisten mussten. Um die süddeutschen Städte ist es geschehen, sogar um Augsburg!</t>
+<t>Bernardino Ochino ist nach Konstanz geflohen. So konnte er der Auslieferungsforderung des Kaisers zuvorkommen. Auch Sebastian Schertlin gelang die Flucht, doch ist dessen Aufenthaltsort noch unbekannt. Wie es um Johannes Haller und die anderen [in Augsburg wirkenden] Zürcher [Lorenz Meyer, Thoman Ruman und Rudolf Schwyzer d.Ä.] steht, weiß Bullinger nicht. Der Zürcher Rat hat am Sonntag [30. Januar] einen Boten [Hans Zingg] dahin geschickt.</t>
+<t>Anton Fugger hat den Frieden [zwischen Augsburg und dem Kaiser] ausgehandelt. Dadurch wird deutlich, dass Augsburgs Unheil von den "Zöllnern" kommt. Das kaiserliche Versprechen, laut dem die Augsburger weiterhin ihre Religion frei ausüben dürfen, ist eine List.</t>
+<t>Lindau soll ebenfalls kapituliert haben. Wie lange wird Konstanz noch standhalten? Bischof Johann von Weeze hat sich angeboten, zwischen dieser Stadt und dem Kaiser zu vermitteln. Gott möge das Ende herbeiführen! Der Kaiser lässt sich persönlich sehen, um zu zeigen, dass ihm nichts fehlt.</t>
+<t>Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen sollen sich tapfer halten. Ob das stimmt, weiß Bullinger nicht. Myconius, der wohl Nachrichten aus dem Norden erhält, möchte diese doch jeweils mitteilen!</t>
+<t>Gruß.</t>
+<t>Die menschliche Treue ist dahin! Man muss sich zum Herrn wenden. Er wird die Seinen nicht verlassen, auch wenn er sie derzeit mit Recht bestraft. Unterdessen sollen Bullinger und Myconius weiterhin das Wort des Lebens verkündigen!</t>
+<t>Segenswunsch.</t>
+<t>P.S.: Grüße an Johannes Gast. Warum schweigt er denn so lange?</t></re>
+<text>
+<div>
+<p>G[nad] und f[rid]. <zzl>zl17055-6A</zzl>Die sachen stand vast
+<fn>sehr.</fn> ellendiklich der menschen halb,
+<fn>Hier im Sinne von "was die Menschen anbetrifft", und nicht im Sinne von "wegen der Menschen", da sonst die darauffolgende Angabe "nitt des herren halb" im Widerspruch mit der Aussage unten in Z. <qv>zl17055-5</qv> stünde. - Für diese Bedeutung von "halb" s. <a>FNHDW</a> VII 905f.</fn> aber der menschen halb, sag ich, nitt des herren halb, der gwüßlich sin eer retten
+<fa><i>Zu erwarten wäre</i> retten wird.</fa> und unser heyl fürderet.<zzl>zl17055-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17055-3A</zzl><zzl>zl17055-7A</zzl>Wie die 5 stett
+<fn>Biberach, Isny, Kempten, Memmingen und Ravensburg. - Zur Ergebung dieser Orte s. <qv>nr2741</qv>, <qv>fn17010-2</qv>.</fn> ein f{uo}ßfal und eyd gethan, wirt üch <zzl>zl17055-4A</zzl>Oporinus<zzl>zl17055-4E</zzl> zeigen;
+<fn>Dieser Angabe zufolge hat Oporin bei seiner Abreise aus Zürich (s. dazu <qv>nr2783</qv>, <qv>fn17051-1</qv>) offensichtlich das Dokument mitgenommen, welches der Konstanzer Rat an den Zürcher Rat in Kopie (zusammen mit einem Begleitschreiben vom 26. Januar) übersandt hatte, und welches eine Zusammenfassung des Eids der fünf Städte enthielt; s. <qv>nr2775</qv>,<qv>zl17042-8</qv>.<zfn>fn17055-2</zfn></fn><zzl>zl17055-3E</zzl> doch spreytents nitt wyt
+<fn>spreytents nitt wyt: verbreitet es nicht weiter; s. <a>SI</a> X 951f.</fn>, dann
+<fn>denn.</fn> mitt s{oe}lichem geding
+<fn>Bedingung.</fn> hab ich imms
+<fn>ihm es.</fn> g{ae}ben.<zzl>zl17055-7E</zzl> <zzl>zl17055-8A</zzl>Es ist überhin
+<fn>geschehen; s. <a>SI</a> II 1324.</fn> umb und mitt allen oberlendischen stetten, ouch mitt Augspurg.<zzl>zl17055-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17055-1A</zzl>Bernhardinus Ochinus ist gen Constantz endrunnen
+<fn>gen Constantz endrunnen: nach Konstanz entronnen. - Ochino traf dort am Abend des 29. Januars ein; s. <qv>nr2782</qv>,<qv>zl17050-1</qv>. Allerdings war er am Abfassungstag dieses Briefes bereits auf dem Weg von St. Gallen nach Zürich, wo er noch am gleichen Tag ankam; s. <qv>nr2789</qv>.</fn>, dann inn der keyser
+<fn>Karl V.</fn> herusgeforderet
+<fn>seine Auslieferung gefordert (hat). - Siehe dazu <qv>nr2769</qv>,<qv>zl17037-1</qv>; <qv>nr2782</qv>,<qv>zl17050-1</qv>; <qv>nr2786</qv>,<qv>zl17054-1</qv>.</fn> sampt h. Sebastian Schertli. Wo der hinkummen, weiß ich nitt.
+<fn>Zu Schertlins Route s. <qv>nr2769</qv>, <qv>fn17037-2</qv>.</fn><zzl>zl17055-1E</zzl> <zzl>zl17055-9A</zzl>Wie es umb Hallern und die unsern
+<fn>Lorenz Meyer (Agricola), (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä.</fn> stande, weiß ich nitt.<zzl>zl17055-9E</zzl> <zzl>zl17055-10A</zzl>Min herren habend hinuß sontags
+<fn>30. Januar.</fn> ein lo{ue}ffer
+<fn>Hans Zingg (1520-1580), dessen Reise 15 Tage dauerte; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 67 der Ausgabenabteilung für laufende Boten. Zingg beförderte einen vom 30. Januar datierten Brief des Zürcher Rats an den Augsburger Rat (Zürich StA, B IV 16, f. 133 - Entwurf), dem auch ein Schreiben desselben an Haller beigelegt war; s. <qv>nr2786</qv>, <qv>fn17054-3</qv>; <qv>nr2805</qv>,<qv>zl17073-1</qv>.<zfn>fn17055-1</zfn></fn> gesandt.<zzl>zl17055-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17055-11A</zzl>Anthoni Fugger hat den friden gemacht,
+<fn>Siehe dazu <qv>nr2769</qv>,<qv>zl17037-25</qv>.</fn> ut videamus hanc calamitatem oriri maxime ex publicanis
+<fn>In Anspielung auf die im Neuen Testament geäußerte scharfe Kritik gegen die Zolleinnehmer, die hier mit den Kaufleuten in Verbindung gebracht werden.</fn>.<zzl>zl17055-11E</zzl> <zzl>zl17055-12A</zzl>Der keyser hat inen z{uo}gesagt, sy ze bliben lassen by irer religion und libertet.
+<fn>Siehe <qv>nr2769</qv>,<qv>zl17037-26</qv>; <qv>nr2786</qv>,<qv>zl17054-33</qv>.</fn> Sed fucus est; artes et mendacia sunt!<zzl>zl17055-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17055-13A</zzl>Lindow sol ouch überhin sin.
+<fn>Siehe dazu <qv>nr2746</qv>, <qv>fn17015-2</qv>.</fn><zzl>zl17055-13E</zzl> <zzl>zl17055-14A</zzl>Wie lang Constantz constans blib, weist gott! Der bischoff von Lunden
+<fn>Johann von Weeze, nominell seit 1522 Erzbischof von Lund (Schweden). - Zur Sache s. <qv>nr2784</qv>,<qv>zl17052-4</qv>.</fn> embüt sich vil v{ae}tterlicher trüw und liebe, und wie er iren
+<fn>ihnen.</fn> by k[eyserlicher] m[ajestat] ein g{uo}ten eerlichen friden bekommen w{oe}lle. Gott mache ein end dem ellenden l{ae}ben!<zzl>zl17055-14E</zzl> <zzl>zl17055-15A</zzl>Der keyser sol sich fry s{ae}hen und h{oe}ren lassen, ye das es kein mangel ist,
+<fn>ye das es kein mangel ist: Damit alle gut sehen können, dass ihm nichts fehlt.</fn> dann
+<fn>sondern; s. <a>SI</a> XIII 33.</fn> das er l{ae}pt.
+<fn>Zu den Gerüchten um den angeblichen Tod des Kaisers s. die in <qv>nr2782</qv>, <qv>fn17050-3</qv>, angeführten Stellen.</fn><zzl>zl17055-15E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17055-16A</zzl>Saxen
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> und Hessen
+<fn>Landgraf Philipp von Hessen.</fn> s{oe}llend sich dappffer umbth{uo}n
+<fn>eifrig tätig sein; vgl. <a>SI</a> XIII 387. - Diese Meldung kann kaum stimmen, da der Kurfürst, der von Leipzig abgezogen war, wegen der Kälte sein Kriegsvolk nicht länger im Feld halten konnte (s. <a>Mentz</a> III 556, Nr. 74) und sein Winterlager in bzw. um Altenburg nahm (s. <a>Voigt, Moritz</a> 308. 311). Der Landgraf zeigte sich in jenen Tagen sehr unschlüssig; s. <a>PC</a> IV/1 596f, Nr. 551.<zfn>fn17055-3</zfn></fn>. Weiß ich nitt
+<fa>nitt <i>Fehlt in der Vorlage</i>.</fa>, ob es war oder wie vil daran ist.<zzl>zl17055-16E</zzl> <zzl>zl17055-17A</zzl>Ich h{oe}rte gern allw{ae}g
+<fn>jeweils.</fn> von üch, was ir von under
+<fn>von under: aus dem Norden. - Hier ist besonders die Stadt Straßburg gemeint, mit der Myconius in brieflichem Kontakt stand.</fn> heruff h{ae}ttind, dann da s{oe}ltend ir wol ettwas anzeigens haben.<zzl>zl17055-17E</zzl></p>
+</div>
+<div>
+<p>Gott mitt üch. 2. februarii 1547.</p>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17055-18A</zzl>Parum aut nihil fidei,
+<fn>Vgl. Ps 146 (Vulg. 145), 2f.</fn> soliditatis et constantiae video superesse apud homines. <zzl>zl17055-5A</zzl>Proinde convertamur ad dominum, qui, etsi afflixerit nos pro meritis, attamen suis non deerit;<zzl>zl17055-5E</zzl> ac simus, quaeso, fortes in domino, verbum vitae
+<fn>Joh 6, 68; Apg 5, 20.</fn> et consolationis nobis commissum a deo annunciantes. Dominus aderit suis!<zzl>zl17055-18E</zzl></p>
+</div>
+<div>
+<p>Vale iterum.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17055-2A</zzl>Valeat plurimum Gastius, de cuius silentio
+<fn>Gast hatte zuletzt zwischen dem 15. und dem 19. Januar (<qv>nr2753</qv>) an Bullinger geschrieben.</fn> plusquam nimio non possum satis mirari.<zzl>zl17055-2E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Myconio suo. Basel.
+<fn>Der Überbringer dieses Briefes könnte der oben in Z. <qv>zl17055-4</qv> erwähnte Oporin gewesen sein.</fn></p>
+</div>
+</text>
+</brief>

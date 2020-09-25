@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1979">
+<nr>1979</nr>
+<correspondents>
+	<originator fn=1>[Giovanni Domenico] Panizzone</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Giovanni Domenico Panizzone (Panizono), aus der alten, adligen Familie der Panizzone aus Alessandria im Piemont. Er ist belegt zwischen 1522 und 1548: 1522 als Ratssekretär in Mailand, dann als Sekretär von Francesco II. Sforza, Herzog von Mailand; 1531 war er in
+Zürich betreffs Verhandlungen mit den eidgenössischen Kantonen wegen gemeinsamen Vorgehens gegen Gian Giacomo de' Medici, Herrn von Musso am Comer See (s. Z XI 605, Anm. 2) und kehrte bis September 1548 als Botschafter von Mailand regelmäßig in die Eidgenossenschaft zurück. Ab 1535 repräsentierte
+er den Gouverneur (Alfonso d'Avalos, Marchese del Vasto) von Kaiser Karl^#. V. in Mailand. Er war Korrespondent Bullingers in den Jahren 1544 und 1546. - Lit.: Peter G. ^#/+Bietenholz,^#/- in: Contemporaries III 48f; ASchweizerRef V (Reg.) 150;
+Z XI 604.
+622. 628; Giovanni B. ^#/+di Crollalanza,^#/- Dizionario storico-blasonico delle famiglie nobili e notabili italiane estinte e fiorenti, Bd. 2, Pisa 1888, S. 271.</note>
+</correspondents>
+<space_time>
+	<place>Bremgarten</place>
+	<date>9. September [1544]</date>
+	<note>Es ist Panizzones erster Brief an Bullinger, für dessen (nicht erhaltene) Antwort er am 12. September 1544
+dankt. Auch der Inhalt - die Erwähnung
+der burgundischen Neutralität (s. EA IV/1d 393 k; Blarer BW II 296) - weist klar ins Jahr 1544.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 377, 2687 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 165^&x{
+<dr>Ungedruckt</dr>
+<re>Bullingers Töchter Anna und Elisabeth kündigten an, dass sie morgen [nach Zürich] zurückkehren würden, deshalb schreibt ihm Panizzone aus alter Freundschaft diesen Brief. Der burgundische Gesandte [François Bonvalot oder Jean de Saint-Mauris] war in Sachen der burgundischen Neutralität im Begriff, zu den Zürchern zu reisen; Panizzone möchte
+wissen, ob dieser angekommen ist. Die Vermittler zwischen den kriegführenden Herrschern [Kaiser Karl^#. V. und König Franz^#. I.] arbeiten auf einen Frieden hin; Panizzone bittet diesbezüglich um nähere Mitteilung; Empfehlung an Bullingers Frau und Kinder; ist heute Taufpate von Jakob, dem Sohn von Werner
+Bullinger, geworden.
+</re>
+<tx>Vir praeclarissime et domine mi observandissime.
+^$Filiolę tuę Anna<f1>Anna Bullinger, geb. am 19. Mai 1530, erstes Kind Bullingers und seiner Frau Anna Adlischwyler. Sie verheiratete sich 1549 mit Huldrych Zwingli (1528-1571), dem Sohn des Reformators. Anna Zwingli starb am 23. November 1566; s. HBD 83.<fe>
+et Elisabet<f1>Elisabeth Bullinger, geb. am 23. September 1532, drittes Kind Bullingers und seiner Frau Anna Adlischwyler. Im Jahr 1551 heiratete sie Josias Simler (1530-1576). Sie starb am 20. November 1565; s. HBD 82.<fe>,
+formosa proles, post cenam simul habitam dixerunt crastina die ad te reversuras
+esse. Ideo ad renovandam antiquam nostram amicitiam
+praesentibus te salutandum duxi, ut cognoscas me tuum more
+solito esse, cui imperare potes, et ego tibi semper obediam
+et serviam, prout teneor et convenit nostrę amicitię,
+quam in eternum conservare peropto.
+^$Preterea venturus erat orator Burgundus<f1>Aus Bullingers Brief an Ambrosius Blarer vom 15. September 1544 (unten Nr. 1986, 6) geht hervor, dass der Gesandte ein Schwager Granvelles war; es handelt sich demzufolge entweder um Jean de Saint-Mauris, der durch die Heirat mit Etiennette Bonvalot, der jüngeren Schwester Nicole Bonvalots, Schwager von Granvelle geworden war, oder um Nicole Bonvalots Bruder, François Bonvalot, Abt von Saint-Vincent und Luxeuil. Beide standen damals im diplomatischen Dienst des Kaisers; s. Martin ^#/+Lunitz,^#/- Diplomatie und Diplomaten im 16. Jahrhundert. Studien zu den ständigen Gesandten Kaiser Karls V. in Frankreich, Konstanz 1987, S. 235-238. 244f;
+Michel ^#/+Baelde,^#/- De collaterale raden onder Karel V en Filips II (1531-1578), Brüssel 1965, S. 303f (zu Jean de Saint-Mauris). Zwar weiß man, dass François Bonvalot im Juni 1544 vom Kaiser mit einer Mission zu den Eidgenossen im Zusammenhang mit der Franche-Comté beauftragt wurde (s. Daniel ^#/+Antony,^#/- Nicolas Perrenot de Granvelle. Premier conseiller de Charles Quint, Clamecy 2006, S. 437f; Papiers d'Etat du cardinal de Granvelle d'après les manuscrits de la bibliothèque de Besançon, hg. v. Charles Weiss, Bd. 3, Paris 1842, S. 15-20, Nr. IV. 25f, Nr. VI);
+die Tatsache aber, dass Nicolas Belloni von Dole am 30. August 1544 eine Reise nach Besançon zu François Bonvalot plante (s. Amerbach, Korr. VI 40, Nr. 2643), erlaubt nicht, den hier erwähnten Schwager mit Sicherheit zu identifizieren.<fe> ad dominos
+Tigurinos pro neutralitate Burgundię.<f1>Siehe hierzu Blarer BW II 296, Anm. 1 (mit weiterer Lit.).<fe> Si venerit,
+libenter intelligerem tuo<fx-t>tuo ^#/+bis^#/- celebrando ^#/+nachträglich zwischen die Zeilen geschrieben.^#/-<fe> commodo in reditu Brengarten[sium] a
+festo istic celebrando<fx-x>tuo ^#/+bis^#/- celebrando ^#/+nachträglich zwischen die Zeilen geschrieben.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe><f1>Gemeint sind wohl Leute aus Bremgarten, die zur Kirchweih (Felix und Regula, 11. September) in Zürich waren.<fe>.
+^$Novi nihil habeo, nisi quod mediatores<f1>Unter ihnen vor allem Ferrante I. Gonzaga und Nicolas Perrenot von Granvelle für Kaiser Karl^#. V. und Charles de Neuilly mit Gilbert Bayard für König Franz^#. I.; s. ^#/+Rozet/Lembey^#/- 176-186; unten Nr. 1992, Anm. 8.<fe> inter duas
+maiestates<f1>Kaiser Karl^#. V. und König Franz^#. I.<fe> bellantes pro pace laborant.<f1>Am 6. September hatten sich der Kaiser und Frankreich über die Hauptpunkte eines Friedensvertrags geeinigt; s. ^#/+Cardauns^#/- 348. Zur Situation s. auch ^#/+Brandi^#/- I 444f.<fe> Si tibi aliquid
+novi est, rogo, ne sit grave me tuis literis participem
+facere; cui ac uxori<f1>Anna, geb. Adlischwyler.<fe> et universe proli<f1>Zu Bullingers Kindern s. oben Nr. 1838, Anm. 19.<fe>
+ex animo me
+comendo et notifico tibi me hodie factum esse compatrem Werneri tui Bollingerii<f1>Es muss sich dabei um Werna Bulli(nger) von Brugg handeln, dessen Einbürgerung in Bremgarten für das Jahr 1544 belegt ist. Sein Bruder Marti hatte diesen Schritt schon 1542 getan; s. Max ^#/+Banholzer,^#/- Geschichte der Stadt Brugg im 15. und 16. Jahrhundert. Gestalt und Wandlung einer schweizerischen Kleinstadt, Aarau 1961, S. 212. Der Tuchmann Marti wurde laut Carl ^#/+Keller-Escher,^#/- Promptuarium genealogicum, Bd. I (Zürich ZB, Ms Z II 1), S. 564-569, Wirt "Zum Ochsen" in Bremgarten. Der in ^#/+Keller-Escher^#/-
+nicht genannte Bruder Werner wäre demzufolge Sohn von Jakob (gest. 1525 in Pavia) und Catharina Fröhlich aus Brugg, und Enkel von Hans Jakob Bullinger (gest. 1534; s. HBBW IV 399f, Nr. 474), Sattler zu Brugg, der ein Onkel Bullingers war. In einer zum Teil auf Bullinger zurückgehenden Aufzeichnung der Verwandtschaft und Familie (hg. v. Joseph Anton Balthasar, in: Helvetia. Denkwürdigkeiten für die XXII Freistaaten der schweizerischen Eidgenossenschaft, Bd. I, Zürich 1823, S. 108) ist Marti Sohn von Peter und dessen Frau Catharina Fröhlich und Enkel vom bereits erwähnten Hans Jakob, sowie auch Bruder eines nicht Genannten - wohl Werner -, der ein "frecher [verwegener] Kriegsmann" gewesen sein soll. Laut Friedrich Otto Pestalozzi (Aus der Geschichte des Geschlechts der Bullinger von Bremgarten und Zürich, in: ZTB 1930, NF 50, S. 6), dessen Studie auf einer anderen Bearbeitung der bereits angeführten Familienaufzeichnung Bullingers beruht, und laut Max Banholzer (Der Brugger Zweig der Bremgarter Familie Bullinger, in: Bremgarter Neujahrsblätter 2002, S. 7) ist Marti (und demzufolge Werner, dessen Vornamen nur Banholzer kennt) Sohn von Peter und Catharina Streuli. Allenfalls ist Werner ein Großcousin Bullingers.<fe>, cui natus est pulcer infans et in
+baptismate dictus fuit Iacobus<f1>Nicht näher bekannt.<fe>.
+^$Brengarti, 9. septembris.
+<un>Tuus Panizonus agens ces[aris].
+<lz>[Adresse auf der Rückseite:] Preclarissimo viro et
+domino meod. Henrico Bollingero. Tiguri.
+</content>
+</letter>

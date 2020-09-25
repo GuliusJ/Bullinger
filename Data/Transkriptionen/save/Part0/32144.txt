@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="32144">
+<nr>32144</nr>
+<correspondents>
+	<originator>Matthias Erb</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date>[2. September 1562/63?]</date>
+	<note>Briefbeilage</note>
+</space_time>
+<vo>Zürich StA, E II 361, 260. / Orig. Aut.</vo>
+Simulac hasce obsignaram, venit ad me doctor Thomas Schopffius physicus significans, quod Stuggardię salutarit doctorem Iacobum Andreę Schmidlin amice cum illo conferens.
+At is magis Brencissat quam unquam sua pertinaciter defendens etc.
+Isto autumno visitabit ecclesiam cum quibusdam legatis nobilibus; qui omnes ritus pios subvertent etc.
+Salutat te Schopffius.
+[Unterschr., Datum u.
+Adr.
+fehlen].
+</content>
+</letter>

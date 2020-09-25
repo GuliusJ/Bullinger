@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2362">
+<brief>
+<id>16052</id>
+<nr>2362</nr>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 22. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 210 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 101; Zit.: <i>Gast,</i> Tagebuch 252 (A 4) </k></dr>
+<re>Gast freut sich, dass die [Zürcher] ihren Zwist beilegen konnten und dadurch der Welt keinen Anlass zur Schadenfreude geben.
+<t/>Die Chronik von [Johannes] Nauclerus ist [in Basel] nicht verfügbar, doch kann [Johannes] Oporin sie von der Frankfurter Messe zu einem billigeren Preis mitbringen. Soviel zu [Bullingers] letztem Brief [nicht erhalten].
+<t/>Folgendes zu [Bullingers] früherem Brief [nicht erhalten]: Bis jetzt konnte Gast nichts Sicheres über [den Schmalkaldischen Bundestag in Frankfurt] erfahren. Gast erwartet täglich einen Brief von [Mathias] Limberger, der Verbürgtes melden wird. Pfalzgraf [Friedrich II.] und [Landgraf Philipp von] Hessen, der Kölner [Erz]bischof [Hermann von Wied] und der Mainzer [Erz]bischof [Sebastian von Heusenstamm] verhandeln in Frankfurt. Auch ein Gesandter [...] des Trierer [Erzbischofs Johann IV. Ludwig von Hagen] sowie viele Freiherren und Städte [kamen dorthin]. Sogar Kaiser [Karl V.] hat [Nicolas Perrenot de] Granvelle dahin geschickt.
+<t/>[Karl V.] leidet wieder an der [Syphilis].
+<t/>[Johann] Funck hat den zweiten Teil der "Chronologia" noch nicht herausgegeben; doch Gast wird darauf achtgeben und ihn schicken, wenn er erschienen ist. Gast übersendet [Johannes] Brenz' ["In Exodum ... commentarii"]. Falls Bullinger Weiteres möchte, soll er es mitteilen.
+<t/>Bullinger hat die Geschichte von dem Kaplan Niklaus [Petri] schon längst gehört; anderenfalls würde Gast sie ihm bald senden, denn er hat Petris Leben und Sterben beschrieben.
+<t/>Über das Elsass gibt es keine sicheren Nachrichten. Man erwartet das Ende des [Frankfurter Bundes]tages. [König] Ferdinand fordert 2'000 Gulden von den Pröpsten und Äbten [in Ungarn]. Myconius wird darüber mehr berichten.
+<t/>Grüße.
+<t/>[P.S.:] [Johannes] Herwagen druckt [die Werke von] Kyrill [von Alexandrien] in der Übersetzung von [Wolfgang] Musculus und anderen Gelehrten sowie Luthers "[Enarrationes seu] Postillae".
+<t/>Die Offizin Froben druckt [die Werke von] Hippokrates in der [lateinischen] Übersetzung von [Janus] Cornarius und die "Adagia" von Erasmus [von Rotterdam]; desgleichen die "Disputatio adversus gentes" in acht Büchern von Arnobius [d.Ä.].
+<t/>Heinrich Petri druckt die hebräische Bibel mit der lateinischen Übersetzung von Sebastian Münster und die Werke von Boethius.
+<t/>[Hieronymus] Curio gibt das ["Onomasticon"] und [das Wörterbuch von] Calepinus heraus. [Nikolaus] Brylinger druckt [Werke für den] Schulgebrauch. [Bartholomäus] Westheimer bringt fast nichts [heraus].
+<t/>[Michael] Isengrin druckt die Werke von [Andrea] Alciato. Bei Oporin erscheint so viel Verschiedenes, dass [Gast] es nicht aufschreiben kann, u.a. die "Loci communes" von [Philipp] Melanchthon in vermehrter und verbesserter Form.</re>
+<text>
+<p>S. in domino. <zzl>zl2362-6A</zzl>Benedictus sit deus pater per Iesum Christum, quod igniculus discordiarum per optimos Christi ministros sopitus est opportuno tempore.
+<fn>Siehe dazu <qv>nr2348</qv>,<qv>zl2348-3</qv>.</fn> Gaudeo etiam tam dextra et commoda esse vobis
+<fa>vobis <i>am Rande nachgetragen.</i></fa> ad concordiam ingenia, qu{e} facile, si parum exorbitarint, in viam reducuntur. Dominus custodiat vestram ecclesiam ab omni dissidiorum genere, ne propinetis vos mundo,
+<fn>Zu verstehen ist: Damit die Welt sich nicht über euren Streit freut.</fn> qui nihil aliud desiderat, quam ut omnibus modis dissideatis.<zzl>zl2362-6E</zzl></p>
+<p>Chronica Naucleri nuper impressa
+<fn>Ein kurtzer außzug ausz der Cronica Naucleri wie untrewlich aigenwillig und betrüglich die Bäpste zu Rom mit den Rhömischen Kaysern Bevorab Teütsches nammens und bluts gehandelt haben, hg. v. Nikolaus Amsdorff, Augsburg, Heinrich Steiner, 1545 (<a>VD16</a> N173).</fn> non extant; sed si cupis librum, ego curabo ex nundinis Francofordianis
+<fa><i>In der Vorlage das sonst kaum gebräuchliche</i> Francofordanis.</fa>
+<fn>Zu den Daten der Frankfurter Frühjahrsmesse s. <qv>nr2351</qv>, <qv>fn2351-3</qv>.</fn> advehi per Oporinum et viliori pretio, quam tu posses, emere. H{e}c ad postremas literas.
+<fn>Nicht erhalten.</fn></p>
+<p>Ad priores
+<fn>Nicht erhalten.</fn> ita respondeo: Nihil hactenus potui de variis rebus certi scribere;
+<fn>Angelegenheiten, die mit dem Schmalkaldischen Bundestag in Frankfurt in Zusammenhang stehen; s. <qv>nr2368</qv>.</fn> ob id tacui. Varii sunt rumores, sed fere nugaces. <zzl>zl2362-2A</zzl>Expecto quotidie literas Limpergii mei
+<fn>Mathias Limberger, Pfarrer in Frankfurt a. M.</fn>, qu{e} certiora dabunt,<zzl>zl2362-2E</zzl> quamquam hoc sciam, Palatinum
+<fn>Kurfürst Friedrich II. von der Pfalz.</fn>, Cattum
+<fn>Landgraf Philipp von Hessen.</fn>,
+<fn>Zum Treffen zwischen Kurfürst Friedrich und Philipp von Hessen s. <qv>nr2335</qv>, <qv>fn2335-2</qv>.</fn> episcopos - Coloniensis
+<fn>Hermann von Wied schickte Dietrich von Büchel und Siebert Löwenberg nach Frankfurt a. M.; s. <a>Varrentrapp</a> 264.</fn>, Moguntinus
+<fn>Erzbischof Sebastian von Heusenstamm. - In Höchst bei Frankfurt fand am 5. Februar 1546 ein Treffen von Heusenstamm und Landgraf Philipp statt; s. dazu <qv>nr2384</qv>,<qv>zl2384-2</qv>; <a>Wolrad, Regensb. RG</a> 320f; <a>PA</a> III 291; Rolf <i>Decot,</i> Religionsfrieden und Kirchenreform. Der Mainzer Kurfürst und Erzbischof Sebastian von Heusenstamm 1545-1555, Wiesbaden 1980 - Veröffentlichungen des Instituts für Europäische Geschichte Mainz 100, S. 49-53. Landgraf Philipp wollte Heusenstamm als Unterstützer für sich, für eine gemeinsame Aktion zugunsten des Kölner Erzbischofs und für den für den 21. März 1546 geplanten, später jedoch abgesagten Kurfürstentag in Gelnhausen gewinnen; s. auch <a>NBD</a> VIII 555, Anm. 2; <a>Lenz</a> II 404f mit Anm. 3.<zfn>fn2362-6</zfn></fn> - Francofordie agere. Adiunxit se legatus episcopi Trevirensis
+<fn>Johann IV. Ludwig von Hagen. - Eine solche Gesandtschaft konnte nicht nachgewiesen werden.</fn>. Confluunt etiam multi barones et civitates, qu{e} nomen evangelio dant.
+<fn>Eine Liste der anwesenden Gesandtschaften findet sich in <a>LP</a> XXI/1, Nr. 165.</fn> <zzl>zl2362-5A</zzl>Nec c{e}sar
+<fn>Karl V.</fn> suo offitio deest; misit Granvillam Francofordiam,
+<fn>Zu einem Aufenthalt Granvelles in Frankfurt konnte nichts Näheres ermittelt werden.</fn> qui aut turbaturus est consilia piorum vafris suis cavillationibus aut negotium a c{e}sare commissum propositurus est.<zzl>zl2362-5E</zzl></p>
+<p>Caesar vehementissimo morbo laborat. Er hatt wider den Frantzosen
+<fn>Die Syphilis. - Der Kaiser wollte sich wieder einer Holzkur unterziehen, wie er seinem Bruder, König Ferdinand, am 30. Januar brieflich mitgeteilt hatte; s. <a>NBD</a> VIII 555 mit Anm. 5.</fn> gekriegt und ist frantzösisch worden.
+<fn>Ironisch, zumal Karl V. ein entschiedener Feind Franz' I. war.</fn> Ita constanter referunt mercatores.</p>
+<p>Secundam partem chronologiae
+<fn>Es handelt sich um den zweiten Teil von folgendem Werk: Johann <i>Funck,</i> Chronologia hoc est omnium temporum et annorum ab initio mundi usque ad resurrectionem domini nostri Iesu Christi computatio, Nürnberg, Georg Wachter und Cyriacus Jacob, 1545 (<a>VD16</a> F3381), der erst 1552 in Königsberg erschien (<a>VD16</a> F3382). Beide Teile wurden in Basel 1554 neu aufgelegt (<a>VD16</a> F3383).</fn> Functius
+<fn>Johann Funck aus Wöhrd (Werda) bei Nürnberg, geb. 1518, enthauptet am 28. Oktober 1566 in Königsberg (Kaliningrad) im Zuge des Osiandrischen Streits. - Lit.: <a>TRE</a> XI 752-754.</fn> nondum emisit, sed ego vigilabo. Si emissa fuerit, mittam. <zzl>zl2362-4A</zzl>Brentium
+<fn>Johannes <i>Brenz,</i> In Exodum Mosi ... commentarii, Schwäbisch Hall, Peter Braubach, 1544 (Walther <i>Köhler,</i> Bibliographia Brentiana, Berlin 1904, Nr. 132; <a>VD16</a> B7747); s. <qv>nr2368</qv>,<qv>zl2368-2</qv>.<zfn>fn2362-5</zfn></fn> accipe<zzl>zl2362-4E</zzl> et, si quid aliud vis, impera.</p>
+<p><zzl>zl2362-3A</zzl>Historiam de d. Nicolao
+<fn>Niklaus Petri; s. dazu <qv>nr2351</qv>,<qv>zl2351-3</qv> und <qv>fn2351-4</qv>.</fn>, sacellano
+<fn>sacellanus = Kaplan.</fn> ecclesiae Petrin{e}
+<fn>Die Peterskirche in Basel.</fn>, iam olim accepisti. Si autem nondum nosti, ego brevi mittam; nam descripsi illius vitam et exitum;
+<fn>Vgl. <qv>nr2368</qv>,<qv>zl2368-1</qv>.</fn> christiane periit in maximis tormentis.<zzl>zl2362-3E</zzl></p>
+<p>De Alsatia nihil certi habeo.
+<fn>Möglicherweise in Zusammenhang mit den Nachrichten über Graf Jakob von Bitsch und Graf Philipp IV. von Hanau-Lichtenberg, die Myconius in seinem Brief an Bullinger vom 31. Januar 1546 (s. <qv>nr2341</qv>,<qv>zl2341-5</qv>) mitgeteilt hatte.</fn> Expectant finem illorum comitiorum.
+<fn>Damit ist wohl der Frankfurter Bundestag gemeint. Dessen Abschied wurde am 3. (mit Kurfürst Friedrich II. von der Pfalz) und am 7. Februar verfasst. Zusätzliche Abschiede gab es sogar noch zwischen dem 22. und 24. Februar 1546; s. <a>Fabian, Quellen</a> 224, Anm. 24. 26; <a>PC</a> IV/1 35-37. 64-69.</fn> Ferdinandus
+<fn>König Ferdinand I.</fn> a pr{e}positis, abbatibus, etc.,
+<fn>Wohl in Ungarn.</fn> petit 2'000 fl., qui mensis spatium deliberare volunt. Sed frustra miseri consultant, et ni statim dent, summa absque dubio augetur. Vide, quomodo pauper rex passim corrodat pecunias. <zzl>zl2362-1A</zzl>Myconius multa addet,
+<fn>Myconius (in <qv>nr2363</qv>) berichtete jedoch nichts darüber.</fn> quemadmodum promisit.<zzl>zl2362-1E</zzl></p>
+<p>Basile{e}, 22. februarii 1546. Saluta fratres.</p>
+<un>Tuus Gastius.</un>
+<lz/>
+<p><vl>210v.</vl> Cyrillus, auctus novo tomo,
+<fn>Operum divi Cyrilli Alexandrini episcopi tomi quatuor, quorum postremus nunc recens accedit, ex graecis manuscriptis exemplaribus fideliter latinitate donatus, Basel, Johannes Herwagen, 1546 (<a>VD16</a> C6568).<zfn>fn2362-3</zfn></fn> verso a Musculo
+<fn>Wolfgang Musculus.</fn> et aliis doctis viris, imprimitur
+<fa><i>Hier und unten Text im engen Einband verdeckt. Fehlstellen wurden aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 59, 101) ergänzt.</i></fa> ab Hervagio, et postilla Lutheri
+<fn>Enarrationes seu Postillae Martini Lutheri maiores, in lectiones, quae ex evangelicis historiis, apostolorum scriptis, aliisque sacrae scripturae locis desumptae, Basel, Johannes Herwagen, 1546 (<a>VD16</a> L5666).</fn>.</p>
+<p>Frobeniani
+<fn>Die Offizin Froben.</fn> Hypocratem,
+<fn>Hippocratis ... opera quae ad nos extant omnia. Per Ianum Cornarium ... Latina lingua conscripta, Basel, Hieronymus Froben d.Ä. und Nikolaus Episkopius d.Ä., 1546 (<a>VD16</a> H3744).</fn> versum a Cornario
+<fn>Janus Cornarius.</fn>, et adagia Erasmi,
+<fn>Adagiorum chiliades, Basel, Hieronymus Froben d.Ä. und Nikolaus Episcopius d.Ä., 1546 (<a>VD16</a> E1946).</fn> item Arnobii
+<fn>Arnobius d.Ä., um 300 n. Chr.</fn> disputationem adversus gentes libros 8.
+<fn>Arnobii disputationum adversus gentes libri VIII, Basel, Hieronymus Froben d.Ä. und Nikolaus Episkopius d.Ä., 1546 (<a>VD16</a> A3685).<zfn>fn2362-2</zfn></fn></p>
+<p>Heinricus Petri Biblia Hebraica et Latina
+<fn>Hebraica Biblia, latina planeque nova Sebast. Munsteri tralatione, Basel, Michael Isengrin und Heinrich Petri, 1546 (<a>VD16</a> B2882).</fn> Monsteri
+<fn>Sebastian Münster.</fn> et opera Boe[thii] omnia
+<fn>Anitii Manlii Severini Boethi ... opera, quae extant, omnia, Basel, Heinrich Petri, 1546 (<a>VD16</a> B6402).<zfn>fn2362-4</zfn></fn>.</p>
+<p>Curio
+<fn>Hieronymus Curio (Schaffner).</fn> Lexicon
+<fn>Damit ist das "Onomasticon" gemeint; s. <qv>fn2362-1</qv>.</fn> et Calepinum
+<fn>Latinae atque adeo etiam Graecae linguae dictionarium ab Ambrosio Calepino primum, deinde a ... multis ... authoribus ... perfectum. Onomasticon propriorum nominum ... ex aliorum doctorum dictionariis, partim a Conrado Gesnero ... partim ab eius amicis congestum, Basel, Hieronymus Curio, 1546 (<a>VD16</a> C244).<zfn>fn2362-1</zfn></fn>. Bryllingerus scholasticalia
+<fn>Textausgaben der Klassiker für Schüler. Damals veröffentlichte Brylinger Werke von Catull, Tibull, Properz, Juvenal, Martial, Ovid und Terenz (<a>VD16</a> C1742. J 1239. M 1168. O 1644. T 423. ZV 12095).</fn>. Westhemerus
+<fn>Bartholomäus Westheimer.</fn> fere nihil.</p>
+<p>Isengrynius Alciati opera.
+<fn>D. Andreae Alciati Mediolanensis ... omnia ... opera, 4 Bde., Basel, Michael Isengrin, 1546-1547 (<a>VD16</a> A1633). Der Kolophon von Bd. 2 trägt das Datum "M.D.XLVI. mense Martio".</fn> Qu{e} autem Oporinus noster excudit, nunc non vacat scribere ob tam varios libellos;
+<fn>Vgl. <qv>nr2372</qv>,<qv>zl2372-1</qv>. Erst am 7. Juni 1546 sollte Gast den Katalog der in Basel gedruckten Bücher Bullinger zukommen lassen (Zürich StA, E II 366, 205).<zfn>fn2362-7</zfn></fn> Locos communes Philippi auctos et m[ultis] in locis mutatos
+<fn><a>VD16</a> M3642.</fn> prelo subiecit.</p>
+<lz/>
+<p>[Adresse darunter:] Magistro Heinrycho Bullingero, Tigurin{e} ecclesiae vigilantissimo pastori, fratri charissimo. Zurich.</p>
+</text>
+</brief>

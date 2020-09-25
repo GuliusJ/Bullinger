@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="38092">
+<nr>38092</nr>
+<correspondents>
+	<originator>Johannes Lasitius (Jan Lasicki)</originator>
+	<addressee>Bullinger.</addressee>
+</correspondents>
+<space_time>
+	<place>Heidelberg</place>
+	<date>8.August 1568</date>
+</space_time>
+<vo></vo>
+<dr>Wotschke, S. 301.</dr>
+Si quae in te est, mi pater, humanitas, quae sane magna est,
+hanc ut hic nobilis cum suo praeceptore cognoscat, oro te
+etiam atque etiam. Cuius cum ego sim moderator, permisi et
+consului, ut qui istic sunt boni et docti viri, eos
+viderent, quorum scripta iam diu nota habent. Qui si qua in
+re opera tua eguerint, oro te, bone pater, facias, ut te
+isti quoque nostrae gentis hominum vestri studiosorum
+amantem esse intelligant. Mittod. Simlero catalogum
+scriptorum praestantissimi suae tempestatis mathematici
+Ioachimi Rhetici, quem alit nostra Cracovia, idque idcirco
+ut eum bibliothecae Gesneri inserat.
+Vale et nostrum Turcum aliquando tandem nobis remitte. Vale,
+carissime et observande pater.
+Heidelbergae  8. augusti 1568.
+</content>
+</letter>

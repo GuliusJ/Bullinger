@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2863">
+<brief>
+<id>17131</id>
+<nr>2863</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-03-28"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 28. März [1547]</od>
+<vo>Autograph: Zürich StA, E II 338, 1453 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 614, Nr. 1428<k>Kopie 18. Jh.. Zürich ZB, Ms S 63, 180</k></dr>
+<re><t>Nun kommt (wie bereits angekündigt mit dem Brief [nicht erhalten], den Blarer dem Boten [...] Bullingers mitgeben hatte) der Diener [...] von Marcell Dietrich von Schankwitz. Er reicht den Antrag [zum Kauf des Schlosses Dübelstein bei den Zürcher Behörden] ein. Bullinger soll sich an Blarers Anweisungen halten, wenn man sich bei ihm erkundigt.</t>
+<t>Hauptmann [Hans] Schnabel [von Schönstein], der nun in Nürnberg ist, soll in der Schlacht [bei Rochlitz] (die der Kurfürst Johann Friedrich von Sachsen für sich entschieden hat) einen Arm verloren haben.</t>
+<t>Gestern traf ein Schreiben des Konstanzer Boten [Hans] Wolff ein, der am 1. März mit Briefen nach Sachsen gesandt wurde. Darin berichtet er, wie er von zwei im Dienste Maximilians von Egmont, des Grafen von Büren, stehenden Adligen festgenommen wurde und die Briefe (darunter auch die des Sebastian Schertlin) beschlagnahmt wurden. Sie hielten ihn lange gefangen, damit die Konstanzer nicht sogleich vom Verlust ihrer Briefe erfahren würden. Er musste ein hohes Lösegeld von 100 Talern bezahlen. Für den Rat scheint der Verlust der Briefe weniger schlimm als für Schertlin zu sein.</t>
+<t>Bullinger möge für die Konstanzer beten. Grüße.</t>
+<t>Es sollen sich viele Abgeordnete nach Baden [zur Tagsatzung] begeben. In Kreuzlingen wirbt man Knechte [für Kaiser Karl V.] an. Der Herr verleihe endlich Frieden!</t></re>
+<text>
+<div>
+<p><zzl>zl17131-1A</zzl>Lieber her und getruwester, vertrauwtester br{uo}der. Z{oe}ger
+<fn>Der Briefüberbringer.</fn> ist des Marcell Dietrichs knecht
+<fn>Unbekannter Diener von Marcell Dietrich von Schankwitz.</fn>, davon ich euch by ewerm botten
+<fn>Unbekannt.</fn> geschriben hab
+<fn>Nicht erhalten.</fn>, das er den bschaid
+<fn>Antrag (mit dem Dietrich auf Gotthard Richmuts Offerte, das Schloss Dübelstein von ihm zu kaufen, antwortete); s. <a>SI</a> VIII 216. - Siehe dazu <qv>nr2842</qv>,<qv>zl17111-6</qv>. Offensichtlich hatte sich Schankwitz nach kurzem Zögern (s. <qv>nr2847</qv>,<qv>zl17115-3</qv>) doch noch entschieden, den Kauf zu beantragen.<zfn>fn17131-1</zfn></fn> by euch raichen
+<fn>einreichen.</fn> werd. Da wellt nun meinem vertrauwen nach anz{oe}gung thain
+<fn>tun.</fn> aller puncten halber, wie ich euch davon geschriben.<zzl>zl17131-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17131-2A</zzl>Sonst haben wir sydher nichts news, dann das hoptman Schnabel
+<fn>Hans Schnabel d.J. von Schönstein, kaiserlicher Hauptmann.</fn> z{uo} N{ue}remberg lige. Habe ain arm gar verloren vom lyb in der ainen schlacht, die der churfurst
+<fn>Johann Friedrich I. von Sachsen. - Gemeint ist die Schlacht bei Rochlitz; s. <qv>nr2832</qv>, <qv>fn17099-2</qv>.</fn> erobert hat.<zzl>zl17131-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17131-3A</zzl>Ouch ist meinen herren ir uberrüter
+<fn>berittener Amtsdiener bzw. Bote; s. <a>SI</a> VI 1680.</fn>, ainer mytt namen Wolff
+<fn>Vermutlich Hans Wolff, der in der Konstanzer Steuerliste des Jahres 1547 (Steuerbücher der Stadt Konstanz, Bd. 3: 1540-1620, bearb. v. Peter Rüster, Konstanz 1966, S. 53, Nr. 1261) bezeugt ist, sowie in: Die Firma Felix und Jakob Grimmel zu Konstanz und Memmingen. Quellen und Materialien zu einer oberdeutschen Handelsgesellschaft aus der Mitte des 16. Jahrhunderts, hg. von Frank Göttman und Andreas Nutz, Stuttgart 1999, S. 44, wo er vor 1560 als Stadtknecht von Konstanz nachgewiesen ist.<zfn>fn17131-2</zfn></fn>, den sy prima martii mitt brieffen in Sachsen geschickt haben, nidergelegt
+<fn>festgenommen.</fn> worden von zwayen edelleuten
+<fn>Unbekannt.</fn>, dem von Peuren
+<fn>Maximilian von Egmont, Graf von Büren.</fn> z{uo}geh{oe}rig. Habend im all brieff genommen (dann
+<fn>bei welcher Gelegenheit.</fn> der Schertle
+<fn>Sebastian Schertlin.</fn> hat ouch brieff dabey gehapt)
+<fa><i>Klammern ergänzt.</i></fa> und inn sydert ye
+<fn>sydert ye: von dann an lange.</fn> uffgehalten, damitt man maine, die brieff seyen gefertiget
+<fn>überbracht; s. <a>SI</a> I 1003.</fn> worden, und man nitt gleych ander m{oe}chte hinein geschickt haben. Sy habend inn gerantzet
+<fn>inn gerantzet: Lösegeld von ihm gefordert.</fn>. Kostet inn vyl: M{uo}ß inen darz{uo} hundert taler geben! Hat necht
+<fn>gestern Abend.</fn> minen herren z{uo}geschriben. Allso geht es in der wellt. Ich merck wol, das meinen herren an den brieffen nitt sonders gelegen
+<fn>Gemeint ist, dass die Ratsherren den Verlust der beschlagnahmten Briefe nicht sonderlich bedauern.</fn>. Aber mit dem Schertle ists etwas fahrlicher
+<fn>gefährlicher (in Bezug auf Schertlins beschlagnahmte Briefe).</fn>, doch ouch nitt alls gar b{oe}ß, etc.<zzl>zl17131-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17131-4A</zzl>Damitt dem herren gott zytlich und ewig
+<fn>zytlich und ewig: im Diesseits und Jenseits.</fn> bevolchen. Den bittend on uffh{oe}ren f{ue}r unß. Gr{ue}zt die ewern all und seind von den unsern ouch gegr{ue}zt.<zzl>zl17131-4E</zzl> Datum den 28. mertz.</p>
+</div>
+<div>
+<p><zzl>zl17131-5A</zzl>Man sagt, es seye ain treffelich z{uo}ryten gen Baden
+<fn>Zu der am 28. März begonnenen Tagsatzung von Baden s. <qv>nr2862</qv>, <qv>fn17130-1</qv>.</fn>. So
+<fn>Auch.</fn> gibt man schon gelt ausß den kechten z{uo} Creuzlingen.
+<fn>Vermutlich ist hier von einer Söldneranwerbung für Kaiser Karl V. die Rede; vgl. <a>EA</a> IV/1d 798 g.<zfn>fn17131-3</zfn></fn> Gott verhelff unß ainmal
+<fn>endlich.</fn> zum ewigen friden.<zzl>zl17131-5E</zzl></p>
+<un>Amb. Bl.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An maister Hainrich Bullinger z{uo} Z{ue}rich.</p>
+</div>
+</text>
+</brief>

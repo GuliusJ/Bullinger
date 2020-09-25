@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="31160">
+<nr>31160</nr>
+<correspondents>
+	<originator>Johannes Jung</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(Basel)</place>
+	<date>7. Oktober 1561</date>
+</space_time>
+<vo>Zürich StA, E II 375, 644. / Orig. Aut.</vo>
+S. Gratias ago tibi pro novis illis e Gallia.
+Audiens confessionis Augustanę factam mentionem videbo, ut caute agam, ne arripiant id miseri ad perturbandum negocium.
+Interim agnosco nihil temere aut fortuito factum.
+Dominus pro sua eterna sapientia dirigat omnia ad bonum finem.
+Descripsi raptim scriptum hoc, et quia nuncius properat, tibi remitto.
+Nunc nihil est novi apud nos.
+Bene vale.
+7. octobris 1561.
+^$Iunius tuus.
+Eximio viro domino Henrico Bullingero, Tigurinorum antistiti syncerissimo, fratri suo observandissimo.
+</content>
+</letter>

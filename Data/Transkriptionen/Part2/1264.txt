@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1264">
+<nr>1264</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>3. Mai 1539</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 189 (neu: 207) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>[In Basel] wird versucht, den Pfarrerstand der Universität zu unterwerfen und Grynäus und andere Lehrer zur Annahme eines
+Grades zu zwingen; Grynäus will bis zum Letzten widerstehen, und Myconius bittet um Zuflucht für den Fall, daß er selbst weichen
+muß. Erkundigt sich nach Theodor [Bibliander]. Schickt Gwalthers Abschrift [des Entwurfs der Universitätsstatuten].
+</re>
+<tx>S. Nunc demum res huc devenit, ut universitas pastoratum
+ecclesię conetur serio subiicere sibi adnuentibus
+deputatis<f1>Vgl. oben Nr. 1215, Anm. 4.<fe> et quibusdam ordinis senatorii, tum cogered. Grynęum et alios quosdam ad gradum lectionibus ipsorum
+congruentem<f1>Myconius bezieht sich auf den am 12. April verabschiedeten Entwurf für die neuen Universitätsstatuten (vgl.
+dazu ^#/+Thommen^#/- 23f und 325f, Anm. 1).<fe>. Hic, qui vester est, etiamnum vires omnes
+intendit; hac via nanque persuasit sibi fastigium se
+adsequuturum. Scriptum<f1>Gemeint ist das in Anm. 2 erwähnte Dekret.<fe> obtulerunt nobis intolerabile, quo,
+si cogere tentabunt, eiicient me praesertim; nam prodere
+ministerium nolo. Providebis igitur de loco, qui eiectum
+recipiat.
+^$Theodorus<f1>Theodor Bibliander.<fe>, nescio, vivat necne.
+^$Rodulpho<f1>Rudolf Gwalther.<fe> commisi, ut describeret tuo nomine, quę vides<f1>Eine Abschrift der oben Anm. 2 erwähnten Statuten findet sich in Zürich StA, E II 337, 305r.-308v.; sie stammt allerdings kaum von Gwalthers Hand.<fe>; mihi non erat ocium.
+^$Vale cum tuis et Pellicano.
+^$Basileę, raptim, 3. maii anno 39.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho
+Bullingero, episcopo Tigurino, in domino suo.
+</content>
+</letter>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2198">
+<nr>2198</nr>
+<correspondents>
+	<originator>Martin Borrhaus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>18. Juli [1545]</date>
+	<note>Das Jahr ergibt sich aus dem für 1545 bezeugten Besuch von Gerhard Westerburg und Jan (Johannes) Mączyński in Zürich; s. ^#/+Pellikan,^#/- Chronikon 171, und HBD 33, 8f.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 310 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 171 ^&x{
+<re>Borrhaus empfiehlt die beiden Briefüberbringer, Freunde der Zürcher Kirche, den älteren, schicksalsgeprüften Gerhard Westerburg und den jungen Polen [Jan (Johannes) Mączyński]. Westerburg möchte sich mit den [Zürcher] Brüdern über verschiedene Kirchenangelegenheiten unterhalten; [Mączyński] möchte Hebräisch studieren.
+-^#. Bullinger möge Borrhaus gewogen bleiben.
+-^#. Grüße, auch an die Brüder.</re>
+<tx>S. Qui has reddunt, vir clarissime, duo praestantes sunt amici vestrae ecclesiae, quorum alter,
+qui senior est, multis afflictionibus et longo exilio agitatus, Gerardus Westerburgius<f1>Siehe oben Nr. 2196, Anm. 4.<fe> est, vir notus doctis et piis.
+Tecum et coeteris cum fratribus variis de negociis ecclesię<fx>ecclesię ^#/+über der Zeile nachgetragen.^#/-<fe> ut colloquatur, ad vos proficiscitur.
+Alter Polonus, iuvenis<f1>Jan (Johannes) Mączyński; s. oben Nr. 2196, Anm. 7.<fe> magnae spei, qui literis Hebraicis apud vos daturus operam est, tibi commendatus esse cupit.
+Utrumque igitur pro tua singulari humanitate benigne si tractaveris, rem tui ingenii excellenti bonitate dignam et his gratam feceris.<f1>Siehe oben Nr. 2196, Anm. 12. - Westerburg und Mączyński trafen am 22. Juli 1545 in Zürich ein; s. ^#/+Pellikan,^#/- Chronikon 171.<fe>
+^$Quod vero ad me attinet, ultro oblatam hanc ad te scribendi occasionem negligere nolui,
+quod, meum adversus te studium boni ut consulas, vehementer opto.
+^$Vale, vir optime, cum omnibus Tigurinae ecclesię ministris, quibus in Christo pręclara omnia precor.
+^$18. iulii.
+<un>Martinus Borrhaus
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Clarissimo pietate et doctrina viro Henrici Bull[in]gero<fx>^#/+Textverlust durch Papierverlust am rechten Rand des Blattes.^#/-<fe>, suo in Christod. et fratri observando.
+</content>
+</letter>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1316">
+<nr>1316</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>11. Oktober 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 60 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Wünscht Wohlergehen; ihnen geht es gut. Man sagt, sobald der [Erz-]Bischof von Lund [Johann von Weeze] zurückkehre, werde das
+Nürnberger Religionsgespräch stattfinden; beide Seiten hätten hohe Erwartungen. Ambrosius [Blarer] hat nicht geschrieben, soll
+aber in Augsburg laut Bonifacius [Wolfhart] geschätzt werden; wann er heimkehrt, ist noch unsicher. Vadian hat zu den ihm
+zugesandten Schriften Schwenckfelds ausführlich Stellung genommen; Zwick wird Bullinger den Brief übersenden, wenn Vadian seiner Herausgabe zustimmt. Gruß.
+</re>
+<tx>Salus.
+^$Spero te cum fratribus bene habere, Bullingere charissime.
+Nos quoque domino sic favente bene habemus.
+^$Novarum vero rerum nihil est ad manum, nisi quod constanter affirmant redeunte episcopo Lundonense<f1>Johann von Weeze, Erzbischof von Lund und kaiserlicher Orator.<fe> conventum
+Norenbergicum<fx>^#/+korrigiert aus^#/- Norembergicum.<fe> processurum<f1>Kaiser Karl V. hatte den vermittelnden Kurfürsten
+am 5. Juli mitgeteilt, das Nürnberger Religionsgespräch könne noch nicht stattfinden, er werde aber Weeze erneut als
+Bevollmächtigten nach Deutschland senden; s. ^#/+Fuchtel^#/- 198.<fe> et magnam utriusque partis de illo
+expectationem esse. Dominus bene vertat hoc institutum.
+^$Ex Augusta nichil scribit Ambrosius<fx>^#/+nach^#/- Ambrosius ^#/+gestrichenes^#/- nisi.<fe><f1>Ambrosius Blarer.<fe>; Bonifacius
+scribit<f1>Der Brief von Bonifacius Wolfhart ist nicht erhalten.<fe>, quam sit gratus, id quod omnes testantur. De reditu ipsius nichil habemus certi.
+^$Vadiano nuper misi duos libellos Schwenckfeldii<f1>Vgl. oben Nr. 1307, 9f mit Anm. 8.<fe>, in quibus Christum creaturam
+negat, ad quos doctissime respondit epistola bene longa ad me<f1>In seiner ursprünglichen Form ist dieser Brief nicht
+erhalten, vgl. aber die folgende Anm.<fe>, quam, si consenserit, ut aedatur, mittam ad te<f1>Zwick drängte Vadian in mehreren
+Briefen zur Veröffentlichung seiner Stellungnahme (s. Vadian BW V 573. 575f. 577f. 579. 591f. 628); schließlich wurde sie in
+überarbeiteter Form unter dem Datum 1. August 1540 bei Froschauer gedruckt (BZD C 292; vgl. ^#/+Moeller,^#/- Zwick 214f).<fe>.
+^$Vale cum optimo patre meo Pellicano et reliquis fratribus.
+Totam domum salvam cupio.
+^$Ex Constantia, 11. octobris 1539.
+<un>Tuus Io. Zwick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, Tigurinae ec­clesiae pastori, fratri meo charissimo.
+</content>
+</letter>

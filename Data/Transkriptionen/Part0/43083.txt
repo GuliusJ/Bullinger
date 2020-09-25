@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="43083">
+<nr>43083</nr>
+<correspondents>
+	<originator>Scipio Lentulus</originator>
+	<addressee>Bullinger.</addressee>
+</correspondents>
+<space_time>
+	<place>Chiavenna</place>
+	<date>4. Juni 1573</date>
+</space_time>
+<vo>Zürich StA, E II 365, 339.</vo>
+<dr>Gr. III, S. 426.</dr>
+Er empfiehlt den Alexander Marantha aus Apulien, einen
+gelehrten Mann, der in
+bedeutenderen Orten Italiens sich lehrend und predigend
+aufgehalten, aber vor
+der Verfolgung hat fliehen müssen und, von den Chiavennern
+mit einem Pferd und
+Reisegeld versehen, sich nach Genf begeben will.
+Chiavenna,  4. Juni 1573.
+</content>
+</letter>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1279">
+<nr>1279</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>14. Juni 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 99 (Siegelabdruck)</vo>
+<re>Erkennt in Vadians Bemühungen seine große Wertschätzung. Hat seinen ausführlichen und gelehrten Brief zur [geplanten] Nürnberger Tagung gelesen; bleibt zwar bei seiner Meinung, wird sich aber mit Vadian freuen, wenn die Sache besser ausgeht als von ihm selbst vorausgesagt. Übersendet [den
+Schlußteil von] Vadians Brief [Nr. 894], den er zusammen mit den [fünf] Büchern des Vigilius ["Contra Eutychen"] publizieren möchte; hat ihn verändert, wird jedoch nichts gegen den Willen Vadians tun, und bittet um Rücksendung durch [Hans Rudolf] Lavater.
+</re>
+<tx>[Gedruckt: Vadian BW V 562f, Nr. 1062.]
+</content>
+</letter>

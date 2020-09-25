@@ -28,13 +28,16 @@ Execution (locally)
 source venv/bin/activate
 (venv) $ export FLASK_APP=App.py
 (venv) $ export FLASK_ENV=development
-(venv) $ FLASK_DEBUG=1
+(venv) $ export FLASK_DEBUG=1
 (venv) $ flask run
 
 Kraken (http://kraken.re/)
 --------------------------
 $ pip3 install kraken
-$ kraken get 10.5281/zenodo.2577813  # language model EN, "en_best.mlmodel" --> doesn't work (has been migrated
+$ kraken get 10.5281/zenodo.2577813
+
+language model EN, "en_best.mlmodel" 
+doesn't work (has been migrated)
 
 GitHub
 ------

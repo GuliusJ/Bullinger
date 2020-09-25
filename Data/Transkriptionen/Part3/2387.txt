@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2387">
+<brief>
+<id>16077</id>
+<nr>2387</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 22. März 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), <br/>Ms 35 (VBS VI), 115r.-v. (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 429f, <br/>Nr. 1268<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 118v.-119r.; Ms S 59, 144; die zwei letzten, in der Schieß-Abschrift fehlenden Abschnitte (auf 115v.) nach dem Autograph ergänzt.</k></dr>
+<re>Bullinger dankt für die Briefe [<qv>nr2384</qv>] und <qv>nr2385</qv>] von Ambrosius Blarer und dessen Bruder [Thomas].
+<t/>Bullinger hat das vier Blatt umfassende Trauergedicht über Luthers Tod gesehen. Dieser hätte Besseres verdient, war er doch trotz seiner Fehler ein bedeutender und tüchtiger [Diener] Gottes. Bullinger erwartet angemessenere [Würdigungen] des Verstorbenen. [In seinem Brief <qv>nr2376</qv>] hat er nicht seine eigene Meinung über Luthers Tod geäußert, sondern die von anderen. Er weiß wohl, dass nun viele Schriftsteller die üblen Ansichten [Luthers] noch verschlimmern werden. Die Reinheit der Lehre kann aber nicht im Mist von unreinen Menschen zertrampelt werden.
+<t/>Was Bullinger über B[ucer] schrieb, meinte er wirklich so. Er weiß auch, wie Blarer dies beurteilen würde, könnte er sich frei darüber äußern. Natürlich ist das, was er über [Bucer] schrieb, nicht für alle bestimmt. Es schmerzt ihn feststellen zu müssen, wie viele Befürworter [Bucer] hat. Daraus wird jedoch ersichtlich, wie einst die Wahrheit in der alten Kirche verdunkelt werden konnte.
+<t/>Theodor [Bibliander] und [Konrad] Hofherr werden schreiben.
+<t/>Bullinger zweifelt nicht an Blarers Treue.
+<t/>Er schickt das [Dokument] über den "Pseudofriedrich" zurück. Es handelt sich um einen ähnlichen Fall wie den des [Tile Kolup], den Graf Rudolf von Habsburg [im Jahr 1285] verbrennen ließ. Würde doch Deutschland nur Christus und nicht Andere annehmen!
+<t/>Grüße.
+<t/>[P.S.:] Falls Bullingers Brief [an Johannes Haller] [<qv>nr2377</qv>] noch nicht nach Augsburg abgesandt wurde, soll Blarer ihn dem Überbringer [...] [des vorliegenden Schreibens] mitgeben. Dieser wird bald dorthin reisen.
+<t/>Bullinger erwartet Blarers Urteil über seine Schrift ["De sacramentis"].
+<t/>Blarer möge berichten, ob der [Konstanzer] Arzt [Johann] Menlishofer noch lebt, da [Hans Rudolf] Lavater diesen sehr schätzt und gerne um einen Rat fragen würde.</re>
+<text>
+<p>Gratiam et pacem. Accepi epistolam longe gratissimam fratris tui,
+<fn>Thomas Blarers Brief vom 18. März (<qv>nr2384</qv>).</fn> domini mei colendissimi, simul etiam tuam,
+<fn>Ambrosius Blarers Brief vom 19. März (<qv>nr2385</qv>).</fn> Ambrosi, frater charissime, et ago tibi gratias.</p>
+<p><zzl>zl2387-2A</zzl>Vidi excusum quaternionem de fato Lutheri beatae memoriae, ac non
+<fa>non <i>nicht in der Vorlage.</i></fa> invideo ipsi tale epic{e}dium.
+<fn>Offensichtlich hatte Blarer seinem letzten Brief an Bullinger nicht die dort erwähnte, aus vier Blättern bestehende Schrift (s. <qv>nr2385</qv>,<qv>zl2385-2</qv>) beigelegt, so dass dieser zu der Meinung gelangen konnte, es handele sich bei der von Blarer angesprochenen Publikation um das Trauergedicht (Epicedium), welches Vadian ihm hatte zukommen lassen (s. <qv>nr2380</qv> und <qv>fn2380-1</qv>).</fn><zzl>zl2387-2E</zzl> <zzl>zl2387-6A</zzl>Quisquis is est, qui scripsit, beguttarum
+<fn>der Bettler oder Begarden bzw. Beginen.</fn> et delicatulorum mortes calamo usque adeo elumbi et molliculo exequeretur<zzl>zl2387-6E</zzl>. Alia et magis fortia graviaque merebatur Lutherus, qui, tametsi suos habuit naevos, magnus tamen et fidelis et sedulus et fortis fuit in domo domini.
+<fn>Vgl. <qv>nr2377</qv>,<qv>zl2377-1</qv>.</fn> Sed exactiora dignioraque expecto a prudentioribus.
+<fn>So schon Blarer; s. <qv>nr2385</qv>,<qv>zl2385-7</qv>.</fn> Non sane quod ego meliora expectem a quibusdam post fata Lutheri, ista scripsi,
+<fn>Bullinger bezieht sich hier auf seine Zeilen in <qv>nr2376</qv>,<qv>zl2376-9</qv>.</fn> sed quid alii sperent,
+<fn>Vgl. etwa <qv>nr2369</qv>,<qv>zl2369-2</qv>; <qv>nr2380</qv>; und <qv>nr2382</qv>,<qv>zl2382-2</qv>.</fn> commemoravi. Scio, scio
+<fn>In Bezug auf Blarers Aussagen in <qv>nr2385</qv>,<qv>zl2385-6</qv>.</fn> multos esse et imperitos rerum et temerarios scriptores, qui iam prosilient et ex mala caussa sua pessimam facient. Das m{uo}ß man lassen gesch{ae}hen uff sin zyt und maaß. Interim synceritas doctrinae non erit prodenda aut sub pedibus quorundam non ruminantium
+<fn>In Anspielung auf Lev 11. - Gemeint sind hier unreine Menschen.</fn> in stercoribus relinquenda.
+<fn>Vgl. Mt 7, 6.</fn></p>
+<p>Quod de B.
+<fn>= Bucero. - Grund für diese Vorsichtsmaßnahme ist Blarers Ermahnung in <qv>nr2385</qv>,<qv>zl2385-8</qv>.</fn> scripsi,
+<fn>Siehe <qv>nr2376</qv>,<qv>zl2376-4</qv> und Blarers Reaktion darauf in <qv>nr2385</qv>,<qv>zl2385-5</qv>.</fn> certe ex animo scripsi. Non possum aliter sentire. Habeo caussas graves, ac non ignoro, quid tu sis iudicaturus, si animus libere et plene esset excutiendus; sed quae tibi dico, non omnibus dico. Illud tamen hic addo: dolere me ex animo, quod tot habet ille suffragatores. Hinc colligo, quomodo quondam in veteri ecclesia inter multos eruditos viros veritas fuerit obscurata, etc. Dominus illuminet nos spiritu suo illustri et vere sancto.</p>
+<p><zzl>zl2387-1A</zzl>De Curione
+<fn>Konrad Hofherr.</fn> scribet d. Theodorus
+<fn>Theodor Bibliander schrieb Blarer noch am gleichen Tag (<a>Blarer BW</a> II 428f, Nr. 1267).</fn> et ipse Curio
+<fn>Nicht in <a>Blarer BW</a>.</fn>.<zzl>zl2387-1E</zzl></p>
+<p>De tua fide nihil dubito. Tu perge talis esse, qualis fuisti hactenus.
+<fn>Anspielung auf <qv>nr2385</qv>,<qv>zl2385-9</qv>.</fn></p>
+<p><zzl>zl2387-3A</zzl>Remitto nugas de Pseudofriderycho
+<fn>Diesen Text hatte Bullinger wohl als nicht erwähnte Beilage zu Blarers Brief vom 19. März (<qv>nr2385</qv>) erhalten. - Das Dokument wird Bullinger dazu veranlasst haben, die Nachricht über den wiedergekehrten Kaiser Friedrich I. Barbarossa in seinem Brief an Haller vom 22. März 1546 (<qv>nr2388</qv>) zu kommentieren.</fn>, quem
+<fn>Zu diesem Mann aus Langensalza s. <qv>nr2388</qv>, <qv>fn2388-3</qv>.</fn> omnino talem esse arbitror, qualem
+<fn>Anspielung auf Tile Kolup, gest. 1285; s. <qv>nr2388</qv>, <qv>fn2388-2</qv>.</fn> rex Rodolphus, Habspurgi comes,
+<fn>Graf Rudolf von Habsburg, gest. 1291; der erste der sog. "Grafenkönige".</fn> non procul a Colonia igni frixit.<zzl>zl2387-3E</zzl> Utinam Germaniae illud domini frequenter occurrat: "Ego veni nomine patris mei, et non recipitis; si alius venerit suo nomine, illum recipietis" [Joh 5, 43]!</p>
+<p>Dominus servet te ac tuos omnes. Tiguri, 22. martii 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p><zzl>zl2387-4A</zzl>Si
+<fa><i>Von</i> Si <i>bis</i> petet Aug[us]tam <i>am Rande nachgetragen. - Der Text dieses Nachtrages ist zum Teil durch das Siegel verderbt.</i></fa> literas meas Augustam scriptas
+<fn>Bullingers Brief an Haller vom 12. März (<qv>nr2377</qv>). - Er war aber bereits abgeschickt; s. <qv>nr2406</qv>, <qv>fn2406-3</qv>.</fn> nondum ablegasti, huic
+<fn>Markus (Marx) [...]; s. unten <qv>fn2387-1</qv>.</fn> dato; proxim[e] petet Aug[us]tam.<zzl>zl2387-4E</zzl></p>
+<p><vl>115v.</vl> <zzl>zl2387-7A</zzl>Expecto iudicium tuum de libro meo
+<fn>Bullingers "De sacramentis"; s. zuletzt <qv>nr2385</qv>,<qv>zl2385-4</qv>.</fn>, et avidissime quidem.<zzl>zl2387-7E</zzl></p>
+<p><zzl>zl2387-5A</zzl>Lieber, berichtend mich, ob doctor Mennißhofer
+<fn>Johann Menlishofer (der Vater von Johann Jakob). Am 7. April 1546 ist er zum letzten Mal als noch lebend erwähnt; s. <qv>nr2413</qv>,<qv>zl2413-1</qv>. 1547 erscheint sein Name nicht mehr auf der Konstanzer Ratsliste, wie dies zwischen 1543 und 1546 stets der Fall gewesen war; s. <a>AK</a> VI 259.</fn> noch l{ae}b. Min herr burgermeister Lavatar
+<fn>Hans Rudolf Lavater.</fn> hat gar grossen glouben an inn. So er noch vorhanden, d{oe}rfft er imm wol ettwaz umb radt z{uo}schriben?
+<fn>Vielleicht geht es immer noch um Lavaters Sohn Felix, der sich im Herbst 1544 schwer verletzt hatte; s. <a>HBBW</a> XIV 476 und Reg.</fn> Lassend mich ein antwort wüssen<zzl>zl2387-5E</zzl>.</p>
+<lz/>
+<p>[Adresse darunter:] Praestantissimo viro d. Ambrosio Blaurero, fratri suo incomparabili. Constantz.
+<fa><i>Darunter Blarers Empfangsvermerk:</i> 24. martii 1546.</fa>
+<fn>Dieser Brief wurde zusammen mit <qv>nr2388</qv> von dem Zürcher Markus (Marx) [...] nach Augsburg befördert; s. oben Z. <qv>zl2387-4</qv>; und <qv>nr2399</qv>,<qv>zl2399-1</qv>; <qv>nr2403</qv>,<qv>zl2403-2</qv>; <qv>nr2405</qv>,<qv>zl2405-3</qv>. <qv>zl2405-4</qv>.<zfn>fn2387-1</zfn></fn></p>
+</text>
+</brief>

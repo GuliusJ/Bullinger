@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="998">
+<nr>998</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>20. Mai 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichung von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 171 (neu: 189) (Siegelspur)</vo>
+<dr>Teildruck: CO X/2 103, Nr. 60</dr>
+<re>Sendet [ein Manuskript] zurück. Könnte ein weiter andauerndes Schweigen Bullingers angesichts der Bestrebungen zur Erneuerung des Arianismus bzw. der Irrlehre Servets nur schwer verstehen. Behält den Brief an Grynäus bis zu dessen Rückkehr bei sich.
+Weiß nicht, was Bucer in Augsburg will. Befürchtet, daß der Streit in der Berner Kirche schlimme Folgen haben könnte.</re>
+<tx>Ecce tibi, mi Bullingere, quae olim miseras<f1>Worum es sich handelte, bleibt ungewiß. Zu denken ist vielleicht an Utingers Beschreibung des Schwabenkriegs, nach der sich Myconius erkundigt hatte (s. oben Nr. 934, 51f).<fe>. Visum est enim praestare, ut librum apud te seu Froschouuerum expleant,
+quam
+ut pereant apud me. Vix fieri potest enim, ut non usui sint aliquo descriptori.
+^$Cęterum, quod nihil scribis, tametsi miror, invenio tamen, quo hactenus te excusarim. Si perrexeris, tu videto, quam
+causam excogites silentii. Tempora sunt, quibus tacere ratione tali bonis viris et populi christiani ducibus non
+convenit. Si Arianismum isti reducere conantur, uti coepisse audio<f1>Vgl. den Bericht über die Lausanner Synode im Brief Meganders an Bullinger vom 22. Mai, unten Nr. 999, 9-15.<fe>, vel potius Serveti Hispani pessimum errorem
+confirmare, erit, quod agant viri docti. Quamvis vero sciam propter meam parvitatem hic nihil futurum mihi<fx>mihi^#/+ über der Zeile nachgetragen.^#/-<fe> negocii,
+scribendo tamen monere seu hortari seu narrare quid possem, quod ad rem foret forsitan<fx>forsitan^#/+ am Rande nachgetragen.^#/-<fe> aliqua ratione.
+^$Literas Grynęi iamdum retineo apud me, quas, inquam, tu scripsisti<f1>Nicht erhalten.<fe>, et bona fide retineo usque in adventum eius;
+speramus post dies octo vel decem rediturum<f1>Grund der Abwesenheit war wohl der von Grynäus angekündigte Badeaufenthalt; vgl. oben Nr. 991, 141f.<fe>.
+^$Bucerus ab Augustanis vocatus nunc apud eos est<f1>Vgl. oben Nr. 997, 12.<fe>. Nescio, quid rei sit.
+^$Fratrum Bernensium dissidium<f1>Vgl. den Bericht Meganders, unten Nr. 999, 16-21.<fe> dabit malum aliquando ecclesię tam grandi et egregię. Vę zizaniarum seminatori<f1>Vgl. Mt 13, 24-30. 36-42.<fe>!
+Videbis olim, quem finem dominus contentiosis pararit ingeniis. Deus spiritu sancto suo corda nostra, quaesumus, illuminet!
+^$Vale cum tuis et fratribus.
+^$Ipso die pentecostes mox ante concionem vespertinam, Basileae anno 37.<un>Myconius tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, antistiti Tigurinorum, domino colendissimo suo.
+</content>
+</letter>

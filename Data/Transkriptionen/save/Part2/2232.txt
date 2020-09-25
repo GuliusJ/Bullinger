@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2232">
+<nr>2232</nr>
+<correspondents>
+	<originator>Lorenz Meyer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Gundelfingen [an der Donau]</place>
+	<date>31. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 285-287 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 10 ^&x{
+<re>Meyer empfing Bullingers Brief [nicht erhalten] am 22. Juli zusammen mit einem Brief von [Adam Bartholomäus]. Er freut sich über das Wohlergehen Bullingers, seiner Heimat und deren Kirche, während er selbst [wie einst Johannes in der Verbannung] auf "Patmos" seufzt.
+-^#. Er hat [Josua], den Sohn von Bullingers Bruder [Johannes], nicht gesehen. Josua kam nach Neuburg [an der Donau], wo er laut Bartholomäus' Brief zwar einen Lehrmeister fand, diesen aber wegen dessen Gewalttätigkeit wieder verließ und nach Rain [am Lech] im Herrschaftsgebiet von Herzog Wilhelm von Bayern weiterzog, wo er nun arbeitet. Im Notfall würde Meyer [Josua] mit Rat und Tat beistehen.
+-^#. Meyer übermittelt an Bullinger zwei [an diesen gerichtete] Briefe: einen von einem Unbekannten [...], einen anderen von Bartholomäus [oben Nr. 2218]. Leider kann er wegen der unerwarteten Eile des Boten [...] nicht ausführlicher schreiben; vielleicht wird er aber bald durch seine Frau [Regula] antworten.
+-^#. Er predigt den Gekreuzigten, wobei ihm viel Volk zuhört, der Rat schläft und der [herzogliche Pfleger?] abwesend ist. Meyer gilt als Zwinglianer, was ihm recht ist. Die von der Stimme von Bileams Esel erschreckten Papisten sind zerschlagen.
+-^#. Am 12. August hat "Tyros" [Papst Paul III.?] seine Soldaten aufmarschieren lassen, und der "Wolf" [Bischof Otto Truchsess von Waldburg?] stellte in Dillingen die Insignien seiner Eitelkeit zur Schau. Der "rote Wolf" [Kardinal Alessandro Farnese?] hat Sodom am [kaiserlichen] Hofe [zur Verfügung]. Wo ist die Integrität des alten Deutschland geblieben?
+-^#. Ob es in "Patmos" auch ehrliche Kirchendiener gibt, weiß Meyer nicht. Die Hunde sind stumm; sie wagen nicht, "Pentheus" die Wahrheit zu sagen und trinken nächtelang, während die [Verräter], wie damals Sinon, das Trojanische Pferd heranführen. Fast nichts ist mehr sicher. Neulich liefen einige von den [Protestanten] zu den [Katholiken] über.
+Vom Hof gibt es keine Nachrichten.
+-^#. Gäbe es doch Beruhigendes zu berichten! Doch [der Prophet] Micha weissagt nichts Gutes. Wer vermag wohl diesen gordischen Knoten zu lösen?
+-^#. Meyer erträgt kaum noch seine Umgebung. Es geht beständig das Gerücht um, dass der Kaiser Krieg gegen die [Eidgenossen] im Sinne habe.
+-^#. Grüße an Bürgermeister [Hans Rudolf] Lavater, die übrigen [Zürcher] Stadtväter, Bullingers Familie, seine Frau [Anna, geb. Adlischwyler] und seinen Bruder [Johannes Bullinger]. Bullinger wird Meyer nach dem Tod "Domitians" vielleicht nach "Ephesus" zurückberufen.
+-^#. Der abwesende Kastner [Hans Ulrich Zeißler] hat Meyer nichts [zur Übermittlung an Bullinger] übergeben; doch würde er für Bullingers Grüße danken. Man erhofft nächstens Bullingers Markuskommentar und bald auch den zu Lukas.
+-^#. Im Namen von [Regula] Grüße an [Anna] und an die befreundeten Amtskollegen.</re>
+<tx>Gratiam et constantiam per Christum.
+^$Literas tuas<f1>Nicht erhalten. Dieser Brief wurde wohl Bullingers Neffen Josua anvertraut; s. oben Nr. 2218 und Anm. 1 und 3.<fe>, charissime Bullingere, 22. iulii accepi una c[um]<fx>^#/+Hier und unten Text teilweise im engen Einband verdeckt.^#/-<fe> domini licentiati<f1>Adam Bartholomäus.<fe> literis<f1>Ein Brief von Adam Bartholomäus an Lorenz Meyer ist nicht bekannt.<fe>,
+quibus tam tuam quam etiam ecclesię et patrię salutem in portu esse intellexi.
+Congratulor felicitati vestrę; ego interim in Pathmos gemo<f1>Anspielung auf die unter Kaiser Domitian (51-96 n. Chr.) erfolgte Verbannung des Apostels Johannes auf die Insel Patmos in Kleinasien; s. Apk 1, 9. - Meyer war wegen Ehebruchs 1543 aus der Landschaft Zürich geflohen; s. HBBW XIV 236-239 und Anm. 1.<fe>.
+^$Puerum optimi viri Iohannis, fratris tui,<fx>fratris tui ^#/+am Rande nachgetragen.^#/-<fe><f1>Josua, Sohn von Johannes [Reinhart] Bullinger.<fe> mei amicissimi, non vidi.
+Neoburgum<f1>Neuburg an der Donau.<fe> pervenit, pedes an navigio, igno[ro]; sed inde mihi scripsitd. licentiatus eum nactum esse artificii sui<f1>Josua Bullinger erlernte das Kürschnerhandwerk.<fe> magistrum<f1>Unbekannt.<fe> ibidem.
+Sed hinc discessit nuper hac de causa: Non potuit hęc tenera pueri ętas<f1>Josua Bullinger war 1529 geboren.<fe> insignem magistri sui impietatem ferre,
+utpote blasphemias, quotidianas cum uxore<f1>Unbekannt.<fe> concertationes et pugnas et reliqua huiusmodi impietatis monstra.
+Valedixitd. licentiato<fx>^#/+In der Vorlage^#/- licentiatum.<fe> et abiit in oppidum Rhain<f1>Rain am Lech (Kr. Donau-Ries, Bayern); vgl. oben Nr. 2218, 66-71.<fe>, quod sub regno ducis Bavariae Wilhelmi<f1>Wilhelm IV., Herzog von Bayern.<fe> est, et illic iam vivit et laborat, ut accepi ex literis licentiati.
+Paratus sum perpetuo, si quid possum praestare in rem adolescentis, si opus fuerit consilio, ęre et reliquis humanitatis sincerę beneficiis.
+^$Nunc paucis accipe, quid velim: Mitto ad te literas<f1>Dieser Brief ist nicht bestimmbar.<fe> ignotas cuiusdam viri<f1>Unbekannt.<fe> mihi incogniti. Hiis adiecid. licentiati<f1>Oben Nr. 2218.<fe>. Intelliges, quid velint.
+Postulasti, ut satis longa epistola meum tam diuturnum silentium, quo pene ranę Seripheę<f1>Adagia, 1, 5, 31 (ASD II/1 504-506, Nr. 431).<fe> simillimus, abluam.
+Certe mihi non deest neque animus neque studium; impedimento autem nunc mihi est tabellionis<f1>Unbekannt.<fe> immatura et minime expectata festinantia.
+Brevi fortassis respondebo per uxorem meam<f1>Regula, geb. [Meier?]; s. HBBW XIV 238, Anm. 20.<fe>.
+^$Hoc vero nunc quam brevissime accipe: Crucifixum praedicavi<f1>Vgl. 1Kor 1, 23.<fe> hactenus et non sine cruce;
+vulgus arrigit auriculas, senatus<f1>Der Rat von Gundelfingen an der Donau. Das Amt des Ammanns bekleidete im Jahr 1545 Albrecht Schwenk; s. Bernhard ^#/+Mayer,^#/- Herzog Ludwig der Reiche und die Stadt Gundelfingen. Eine Gedenkschrift zur 400jährigen Erinnerungsfeier der Belagerung der Stadt Gundelfingen durch das Reichsheer, Dillingen 1862, S. 35.<fe> dormit, abest pater familias<f1>Wahrscheinlich ist damit der herzogliche Pfleger zu Gundelfingen gemeint. Wer dieses Amt 1545 innehatte, ist nicht bekannt; s. ^#/+Mayer,^#/- aaO, S. 36-43.<fe>, servi agunt, quod egere semper.
+Pendeo inter cęlum et terra[m]. Male audio propter Zwinglium. Gaudeo.<f1>Vgl. Mt 5, 11f.<fe> Zwinglium testatus sum
+fuisse virum et integrum et constantem, amantissimum religionis et patrię; nunc Zwinglianus sum.
+Placet! Malo Zwinglianus esse quam stramineus Lutheranus!
+Conciones populus frequentissima corona adornat, sed naves sine remis, corpus sine capite. O mandragorę somnum<f1>Vgl. Adagia, 4, 5, 64 (ASD II/7 276f, Nr. 3464).<fe>!
+Papistę conciderunt, nimirum deterriti a voce asini Balaam<f1>Zu Bileam und seiner hellsichtigen, sprechenden Eselin s. Num 22, 21-33.<fe>; abscidit beluę<f1>Vgl. Apk 13.<fe> capita precatio piorum<f1>Vgl. Jak 5, 16.<fe>; manus domini nondum manca reddita est.
+^$12. augusti eduxit Tyrus<f1>Zu Tyros als Stadt der Feinde Gottes vgl. Ez 26-28. - Gemeint ist vermutlich Rom bzw. der Papst; s. unten Nr. 2234 und Anm. 22.<fe> suos milites peperinos<f1>peperinos = piperinos: "aus Pfefferkörnern bestehend" (s. ^#/+Stotz^#/- II 335, § 74.4). Hier vermutlich Anspielung auf die mittelalterliche Anekdote über Alexander den Großen, der dem Perserkönig Dareios III. als Antwort auf eine Sendung eines Sackes mit Mohnsamen einen Handschuh voll Pfefferkörner schickte, um ihm die Stärke seiner Soldaten zu demonstrieren; s. Irene ^#/+Ruttmann,^#/- Das Alexanderlied des Pfaffen Lamprecht, Darmstadt 1974, S. 55f, Z. 2044-2054. - "Piperinos" könnte vielleicht auch wie "piperatos" metaphorisch im Sinne von "verschlagen, heimtückisch" aufgefasst werden; s. Thesaurus Linguae Latinae, Bd. 10/1/2, Berlin/New York 1997-2010, Sp. 2188, s.v. "piperatus"; 2189, s.v. "piperinus".<fe>;<f1>Worauf sich diese Nachricht bezieht, konnte nicht ermittelt werden.<fe> et lupus<f1>Der Wolf als Feind der Schafe und des Hirten; vgl. Mt 7, 15; Apg 20, 29f. - Gemeint ist vermutlich Kardinal Otto Truchsess von Waldburg.<fe> in Dillingen<f1>Dillingen (Bayern). - Im Schloss zu Dillingen residierten die Fürstbischöfe von Augsburg.<fe> eodem die
+cornua papistica<f1>Vgl. Dan 8, 20-22; Apk 13, 1, sowie Z VIII 83, 3.<fe> et sanguineos galeros et vanitatis suę insignia <vl>286</vl> pari pueritia evomuit.<f1>Dazu konnte nichts ermittelt werden.<fe>
+Integritatis honos pene nullus, hypocrisis regnat, virtus lecto decumbit, adulatio omnia occupavit.
+Quid Rhomę faciam? Mentiri nescio.<f1>^#/+Juvenal,^#/- Satiren, 3, 41.<fe>
+Mira res: Lupus ille rubeus<f1>Vermutlich Kardinal Alessandro Farnese, dem Sodomie vorgeworfen wurde; s. oben Nr. 2166, 22-26; unten Nr. 2234, Anm. 22.<fe> Sodomam<f1>Vgl. Gen 19, 1-11.<fe> habet in aula<f1>Wohl der kaiserliche Hof.<fe>, hoc est ex Italia Italos, ex Germania Germanos paucos.
+Italus<f1>Kollektivischer Singular im Sinne von "die Italiener".<fe> est in aula. O veteris Germanię et gravitatem et integritatem!
+Vare Quintili, redde legiones!<f1>Ausruf des Kaisers Augustus nach der römischen Niederlage in der Varusschlacht (Schlacht im Teutoburger Wald, 9 n. Chr.); vgl. ^#/+Sueton,^#/- De vita Caesarum, Augustus, 23.<fe> Ubi? O mores, o tempora!<f1>Vgl. ^#/+Cicero,^#/- De domo sua, 137, u.ö.<fe>
+^$Ministros verbi<fx>verbi ^#/+am Rande nachgetragen.^#/-<fe> candidos (o felix patria!)<fx>^#/+In der Vorlage folgt die schließende Klammer erst nach^#/- similes.<fe> tui similes an habet Pathmos<f1>Gemeint ist wohl Deutschland.<fe>, nescio, unum aut alterum.
+Canes sunt muti.<f1>Jes 56, 10.<fe> Non audent dicere: Pentheu<f1>Pentheus, in der griechischen Mythologie Sohn des Echion und der Agave, Herrscher über Theben, der den Dionysoskult unterbinden wollte, als Mänade verkleidet die Mänaden ausspähte und, von ihnen entdeckt, unter Führung der Agave zerrissen wurde; s. DNP IX 530f. - Wohl eine Anspielung auf die protestantischen Fürsten.<fe>, rector Thebarum,<f1>Vgl. ^#/+Horaz,^#/- Epistulae, 1, 16, 73f.<fe> in longam noctem bibentes<f1>Mit den "bibentes" sind offenbar die "ministri" bzw. die "canes muti" (Z. 40f) gemeint.<fe>,
+equum Troianum flagitiis<fx>flagitiis ^#/+über der Zeile nachgetragen.^#/-<fe> pręgnantem educunt agentes Sinona<f1>Nach ^#/+Vergil,^#/- Aeneis, 2, 57-329, überredete der Verräter Sinon die Trojaner, das Trojanische Pferd in die Stadt zu holen; s. DNP XI 585.<fe>! Nihil pene tutum apud eos relinquitur.
+Quid dicam de blasphemiis? Redundant et supernatant.
+Abierunt quidam<f1>Unbekannt.<fe> nuper<fx>nuper ^#/+über der Zeile nachgetragen.^#/-<fe> a nobis, plus amantes macram<f1>macram = magere; s. ^#/+Dasypodius,^#/- Dic. 121v.<fe> antichristi<f1>Gemeint ist das Papsttum.<fe> culinam quam pinguissima pascua<f1>Vgl. Ez 34, 14.<fe> Christi.
+De aula<f1>Wohl wie schon oben der kaiserliche Hof.<fe> nihil certi tibi possum scribere; certi enim nihil neque ego habeo vel etiam habent, qui versantur in ea.
+^$Dic nobis placentia!<f1>Vgl. Jes 30, 10.<fe> Michęas nihil boni adfert,<f1>Zu Micha als einem Unheilspropheten s. 2Chr 18, 17; Jer 26, 18f.<fe> cornua ferrea<f1>Vgl. 2Chr 18, 10.<fe> in plumam abierunt, petra in arenam,
+et spes, globulo insidens,<f1>Die personifizierte Hoffnung, die oft gemeinsam mit Fortuna dargestellt wurde, zu deren Attributen die Kugel gehört; s. Pauly/Wissowa XIII 18, Z. 9f; 40, Z. 45-49; (mit Spes:) 41, Z. 3-40.<fe> quo cadat? Quis hunc potest Gordii solvere nodum<f1>Vgl. Adagia, 1, 1, 6 (ASD II/1 118-120, Nr. 6); ^#/+Otto^#/- 244, Nr. 1233.<fe>?
+^$Tu interim vale in Christo cum ecclesia, clarissimo et prudentissimo senatu, fratribus optimis, civibus humanissimis, vel me brevi vel et uxorem et me habebis.
+Huius gentis mores diutius ferre non possumus.
+Prospicite rebus vestris; constans fama est cęsarem<f1>Karl V.<fe> moliri in patriam destinatum bellum, etiamsi nunc minime velit talis aut censeri aut videri.
+Salutabis nomine meo prudentissimum et cordatissimum consulem <vl>287</vl> Lavaterum<f1>Bürgermeister Hans Rudolf Lavater.<fe> et omnes reliquos optimos patrię parentes,
+ecclesiarum columnas, familiam tuam, inprimis uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam foecundam, castam et sanctissimis praeditam moribus, fratrem tuum Iohannem,<f1>Johannes [Reinhart] Bullinger.<fe> etc.
+Me tibi commendo; sis mei memor. Domitiano mortuo<f1>Spielt Meyer damit auf den katholischen Landvogt Melchior Heinrich von Zug (gest. um 1584/1585; s. HBLS IV 130) an, der zur Zeit von Meyers Delikt (1543) Landvogt im Thurgau war und das Amt seit dem Jahr 1544 nicht mehr bekleidete? Die Thurgauer Landvögte hatten die obere Gerichtsbarkeit über Stammheim inne. - Meyer wusste vielleicht, dass bald der Protestant Leonhard Holzhalb Landvogt des Thurgaus werden würde; s. oben Nr. 2227, Anm. 26.<fe> revocabis me fortassis brevi Ephesum,<f1>Erneute Anspielung auf den Apostel Johannes (wie schon oben Z. 4f), der in Ephesos (Kleinasien) gestorben sein soll; s. RGG^#'4 IV 518f.<fe> etc.
+^$Castnerus<f1>Hans Ulrich Zeißler, von 1544 bis 1547 Kastner (= Amtmann über die Einkünfte) von Gundelfingen; s. oben Nr. 2092, Anm. 1.<fe> multis negotiis impeditus neque nunc domi nihil mihi commisit; sed ego nomine hominis ago gratias super salutationem tuam, quam misisti.
+Qui Christi sunt, expectant a te propediem commentaria in Marcum, spe optima suffulti mox etiam habituros in Lucam.<f1>Bullingers Kommentar zum Markusevangelium war gerade erschienen; s. unten Nr. 2235, Anm. 37. Sein Lukaskommentar (HBBibl I 173) wurde im August 1546 veröffentlicht.<fe>
+Sis fortis in Christo. Vale denuo, mi domine et frater, cum patria mea dulcissima et dulcissimis amicis omnibus.
+^$Gundelfingę<f1>Gundelfingen an der Donau (Lkr. Dillingen an der Donau, Bayern).<fe>, ultima augusti anno 1545.
+^$Uxoris meę<fx>meę ^#/+über der Zeile nachgetragen.^#/-<fe> nomine tu tuam et communes nostros levitici generis<f1>D.h. die Pfarrerschaft.<fe> amicos salutabis, etc.
+<un>Laurentius, quem nosti.
+<lz>[Adresse auf der Rückseite:] Evangelicę veritatis prudentissimo praeconi ecclesię Tigurinę,d. Heinricho Bullingero,d. ac fratri plurimum colendo, etc.
+</content>
+</letter>

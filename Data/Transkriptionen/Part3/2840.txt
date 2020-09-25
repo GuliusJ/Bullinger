@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2840">
+<brief>
+<id>17108</id>
+<nr>2840</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-03-07"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 7. März 1547</od>
+<vo>Autograph: Zürich StA, E II 347, 361 (ohne Siegel)
+<fa><i>Allerdings ist die Spur des Verschlussbandes noch sichtbar.</i></fa></vo>
+<dr>Druck: <a>Boehmer, Dryander</a> 410f, Nr. 23;<br/> Druck und spanische Übersetzung: <a>Enzinas BW</a> 208-211, Nr. 26<k>Kopie 18. Jh.. Zürich ZB, Ms S 63, 144; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 238 (Schmidt); Madrid BN, 8862, suelto und f. Ddro 19; Zit.: C. Gilly, Spanien 352f </k></dr>
+<re><t>In Bullingers Brief [nicht erhalten]
+<fn>Derselbe Brief Bullingers, auf den Enzinas sich schon in <qv>nr2831</qv> bezogen hatte und den, wie hier aus dem weiteren Satz deutlich wird, Enzinas am 28. Februar erhalten hatte.<zfn>fn17108-1</zfn></fn> stand, dass Enzinas [Bullingers] Schrift ["De sacramentis"]
+<fn>Siehe <a>HBBW</a> XVI 100, Anm. 29.</fn> innerhalb von 14 Tagen zurücksenden soll. Diesen Brief erhielt Enzinas vor acht Tagen. Jetzt hält er die Schrift für die Rücksendung bereit, doch ließ sich noch kein zuverlässiger Bote finden.</t>
+<t>Nur Enzinas hat die Schrift gelesen und mit der Abhandlung von Simon Grynäus ["De coena domini Simonis Grynaei dictata in cap. XI. 1.Cor."]
+<fn>Eine handschriftlich gebliebene Abhandlung von Grynäus, von der es mehrere Abschriften gab. Ein Exemplar in Basel (Basel UB, Ms A XIII 24) ist mit Randbemerkungen von Enzinas versehen; s. <a>Gilly, Spanien</a> 352, Anm. 286. Auch Bullinger kannte die Schrift, weil Grynäus sie ihm im Jahr 1541 zugesandt hatte, sodass eine Abschrift davon auch in Zürich erhalten geblieben ist; s. <a>HBBW</a> XI 263f mit Anm. 6. Eine weitere Abschrift ist in Straßburg nachgewiesen; s. ebd. - Wie Enzinas Zugang zu Grynäus' Handschrift erhalten konnte, erhellt aus <qv>nr2861</qv>, <qv>fn17129-1</qv>.<zfn>fn17108-2</zfn></fn> verglichen. Hier nun in aller Kürze und Offenheit seine Meinung dazu.</t>
+<t>Die Aufzeichnungen von Grynäus zeugen von einem scharfsinnigen und philosophisch geschulten Geist, allerdings ist sein Gedankengang kompliziert und demzufolge unklar. Vielleicht liegt das an Grynäus' Wesen, der schwierige, strittige Fragen nicht auf klare Weise darzustellen vermochte, vielleicht aber auch am Thema selbst, das so subtil ist, dass es keine Erklärung duldet. Möglicherweise wollte Grynäus zudem die zerstrittenen Parteien [unter den Protestanten] aussöhnen, was gerade unter den Gelehrten zu mehrdeutigen oder ungeeigneten Aussagen führt, die nur für Verwirrung sorgen. Denn auch wenn man die Syntax ihrer Aussagen begreifen mag, versteht man deren Sinn noch längst nicht, und es entstehen dadurch nur noch größere Probleme.</t>
+<t>Ganz anders ist die Schrift ["De sacramentis"]. Darin formuliert Bullinger sein Anliegen auf klare Weise, und dort liest man, was gemeint ist. Allerdings maßt Enzinas sich nicht an, sich in dieser schwierigen Kontroverse als Schiedsrichter aufzuspielen. Er fühlt sich auch nicht dazu berufen, einen so langen Streit zu schlichten, den selbst die Gelehrtesten nicht zu beschwichtigen vermochten. Er meint aber, dass diejenigen, die die Allgegenwart (<gr>pantaxoysía</gr>) des Leibes Christi befürworten, sich selbst in die Enge treiben, weil sie Sachen behaupten, die nicht nur absurd sind, sondern sich auch gegenseitig widersprechen. Es gibt nämlich kaum etwas Abwegigeres als die Auffassung, dass Leib und Geist gleich seien! Genauso widersprüchlich ist es zu sagen, Christus sei mit dem Körper anwesend, und sofort danach, er sei spirituell anwesend! Und diejenigen, die vorgeben, dass der Körper vom Himmel wieder herunterkommt, oder dass der Sohn Gottes einen wie die Luft unfassbaren oder willkürlichen Körper habe, und damit leugnen, dass er uns in allem ähnlich ist (außer natürlich in der Sünde), wie es die Schrift selbst bezeugt,
+<fn>Anspielung auf Hebr 4, 15.</fn> diese entziehen uns dabei die größte Hoffnung
+<fn>Vielleicht war Enzinas der Auffassung, dass sie damit die körperliche Auferstehung in Frage stellten.</fn> und werden zu Verleumdern. Sie könnten sich auch nicht von der Beschuldigung reinwaschen, frevelhaft zu sein!</t>
+<t>Enzinas wird [Katharina, geb. Lompart]
+<fn>Seit September 1538 die zweite Frau von Grynäus. Sie war (aus erster Ehe) die Mutter des in diesem Band öfters vorkommenden Isaak Keller. Katharinas Vater Hans, ein Kaufmann, stammte aus Freiburg i.Br.; s. <a>AK</a> VI 46f zu Nr. 2648.<zfn>fn17108-3</zfn></fn>, der Witwe von Grynäus, den Rat geben, die Schrift bei sich zurückzubehalten und zum jetzigen Zeitpunkt nicht zu veröffentlichen.</t>
+<t>In Bezug auf den betagten Exulanten [Bernardino Ochino]
+<fn>Vgl. nämlich <qv>nr2831</qv> und <qv>2854</qv>.</fn> erwartet Enzinas den Bescheid der Zürcher Obrigkeit.</t>
+<t>Er wartet auch auf die Antwort des Buchdruckers [Christoph Froschauer] wegen des gewünschten Papiers. Gern würde er wissen, wieviel und wann Froschauer liefern kann. Sollte dieser das Geld schon brauchen, ist Enzinas bereit, es ihm auf Anforderung zukommen zu lassen. Bullinger möge Genaueres mitteilen.</t>
+<t>Dem Francesco Stancaro hat Enzinas schonend erklärt, was Bullinger ihm ausrichten ließ. Stancaro nimmt auch allein schon die Bemühungen Bullingers ebenso dankbar auf, wie wenn dieser ihm tatsächlich zu einer Stelle verholfen hätte.</t>
+<t>Gruß.</t></re> <textweg>
+<p>S. D. Tempus quatuordecim dierum mihi tuis in literis
+<fn>Derselbe nicht erhaltene Brief Bullingers, auf den Enzinas sich schon in <qv>nr2831</qv>,[1] bezog und der, wie aus dem weiteren Satz deutlich wird, am 28. Februar 1547 eingetroffen war.</fn> concessisti ad remittenda scripta
+<fn>Bullingers handschriftliche Abhandlung "De sacramentis", die er Ende 1545 verfasst hatte; s. <a>HBBW</a> XVI 100, Anm. 29.</fn>; sed ecce, octavus nunc agitur dies, ex quo tuas literas accepi, et habeo scripta in promptu nec aliud expecto quam tabellarium, qui fideliter ad te perferat.</p>
+<p>Ego solus vidi et legi, contuli etiam cum scripto Grinei
+<fn>Gemeint ist die handschriftlich gebliebene Abhandlung "De coena domini Simonis Grynaei dictata in cap. XI. 1.Cor.", von der es mehrere Abschriften gab. Ein Exemplar in Basel (Basel UB, Ms A XIII 24) ist mit eigenhändigen Randbemerkungen von Enzinas versehen; s. <a>Gilly, Spanien</a> 352, Anm. 286. Auch Bullinger kannte die Schrift, weil Grynäus sie ihm im Jahr 1541 zugesandt hatte; s. <a>HBBW</a> XI 263f mit Anm. 6. Eine andere Abschrift ist in Straßburg nachgewiesen worden; s. ebd.</fn>. Quid de utroque sentiam et quomodo utriusque scripti lectione fuerim affectus, paucis tibi et candide significabo.</p>
+<p>In dictatis
+<fn>Aufzeichnungen.</fn> Grinei animadverto cogitationes hominis peracuti atque in disciplina philosophica praeclare instituti; sed eas ipsas res obscura difficilique oratione video adumbratas, sive id naturae vicio sit factum, quae non perinde apta videbatur ad explicandas perspicua oratione difficiles controversias, sive quod res ipsae, quae tractantur, tam subtiles, tenues ac limatae sunt, ut nitorem orationis non admittant. Huc accedit fortasse studium conciliandi partes dissentientes, quae res non raro fucum facere
+<fn><a>Adagia</a> 1, 5, 52.</fn> solet hominibus etiam doctissimis, ut interdum vel sententias ambiguas vel minus propria verba fundant. Hinc obscuritas in oratione et quidem tanta, ut sensum scripti difficulter possis venari. Deinde ubi sensum autoris ex verborum significatione atque orationis contextu es assequutus, maior etiam oritur difficultas in appendenda sententia.</p>
+<p>In tuo vero scripto
+<fn>Bullingers Schrift "De sacramentis".</fn> dicis tu quidem perspicue, quod vis, et lego plane, quod intelligam. Caeterum non tantum ego mihi sumo, Bullingere doctissime, ut velim me iudicem atque arbitrum interponere gravissim{e} controversiae, neque is sum, qui, quod homines doctissimi longo iam tempore facere non potuerunt, id ego nunc sperem me posse conciliare, qui nulla ex parte sum cum aliis comparandus. Qui volunt <gr>pantaxoysían</gr>
+<fn>Die Allgegenwart (des Körpers Christi).</fn> corporis statuere, in eas angustias meo iudicio rediguntur, ut non solum rem absurdam affirmare, sed etiam sibi ipsis pugnantia loqui non obscure revincantur. Quid enim absurdius quam corpus et spiritum rem eandem esse contendere? Quid porro pugnantius quam, quod modo corpus esse confiteris, idem paulo post spirituale quiddam esse affirmare? Rursus, qui carnem coelo delapsam seu aeream seu fantasticam filio dei tribuunt aut negant per omnia fuisse nobis similem excepto peccato, sicut testatur scriptura,
+<fn>Hebr 4, 15.</fn> praeterquam quod optimam nostrae consolationis partem nobis eripiunt, non carent ipsi crimine convicii neque in iudicio recte sentientium absolvi poterunt a delicto sacrilegii.</p>
+<p>Ego vero autor ero mulieri
+<fn>Katharina Lompart, seit September 1538 die zweite Frau von Grynäus. Sie war (aus erster Ehe) die Mutter von Isaak Keller. Ihr Vater Hans Lompart, ein Kaufmann, stammte aus Freiburg i.Br.; s. <a>AK</a> VI 46f zu Nr. 2648. - Die aus Speyer stammende Magdalena, mit der Grynäus nachweislich im Jahr 1532 verheiratet war (s. <a>Bucer BW</a> IX 42, Anm. 14), war im Jahr 1536 gestorben (s. Rädle, S. 51, Anm. 3).</fn>, ut scriptum apud se contineat neque hoc tempore in lucem venire patiatur.</p>
+<p>Quod ad migrationem optimi senis nostri
+<fn>Bernardino Ochino.</fn> attinet, expecto a te responsum gubernatorum.</p>
+<p>Expecto quoque responsum typographi
+<fn>Christoph Froschauer.</fn> de papiro, quam ab eo postulavi; cupio enim certo scire, quanto et quo tempore dare poterit, et si opus erit pecunia, mittam quando postulabit. De hac re cupio tuis literis certi aliquid cognoscere.</p>
+<p>Stancaro significavi moderatis verbis, quod illi volebas indicatum; agit tibi gratias ingentes pro labore tuo neque aliter accepit voluntatem, quam si amplissimam illi conditionem procurasses.
+<fn>Aus dieser Stelle wird deutlich, dass Bullinger keine Stelle für Stancaro gefunden hatte.</fn></p>
+<p>Bene vale cum tota ecclesia vestra.</p>
+<p>Basileae, 7. die martii 1547.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Ohne Adresse.]</p> </textweg>
+</brief>

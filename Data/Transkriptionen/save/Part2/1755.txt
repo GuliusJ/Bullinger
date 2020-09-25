@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1755">
+<nr>1755</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>15. Juni 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 265 (Siegel)</vo>
+^&xK: Zürich ZB, Ms S 53, 6; Zit.: Gast, Tagebuch 96 (Anm. 288)^&x{
+<dr>Ungedruckt</dr>
+<re>Sendet folgende Bücher (mit Preisangabe) - die restlichen schickt er, sobald er sie findet -: "De autoritate verbi dei" [von Alexander Alesius], die "Idiomata" von [Georg] Witzel, den Hyginus, die Kirchenordnung von [Schwäbisch] Hall und [die "Mathesis" von] Firmicus [Maternus]. Kündigt die drei Teile des anatomischen Werks [von Andreas Vesalius] an, die er, falls von Bullinger gewünscht, alle beschaffen kann; sobald das Register zum Hauptteil fertiggestellt ist, wird er ihm auch dieses besorgen; Doktor [Vesalius] lässt ihn grüßen. Weitere Grüße.
+</re>
+<tx>S. Mitto hic tibi, Bullingere doctissime ac charissime,
+libros, quos potui invenire, reliqua suo tempore missurus,
+si ullo modo assequi possum:
+^$De autoritate verbi dei<f1>Alexander Alesius, De authoritate verbi dei contra episcopum Lundensem [John Stokesley], Straßburg (Crato Mylius) 1542 (VD 16 A 1724).<fe> 8 rap.
+^$Idiomata Vicelii<f1>Georg Witzel, Idiomata quaedam linguae sanctae in scripturis veteris testamenti observata, Mainz (Franz Behem) 1542 (VD 16 W 3967).<fe> 8 rap.
+^$C. Iulii Hygini<f1>Zur 1535 bei Johann Herwagen in Basel erschienenen Ausgabe von Werken des Hyginus, die hier wahrscheinlich gemeint ist, s. oben Nr. 1728, 15 mit Anm. 11.<fe> Aug[usti liberti]<f1>D. h. Freigelassener des Augustus.<fe> 6 batz.
+^$Ordnung der kirchen zuͦ Hal<f1>[Johannes Brenz,] Ordnung der kirchen inn eins erbarn raths zu Schwäbischen Hall oberkeit und gepiet gelegen, Schwäbisch Hall (Pankratius Queck) 1543 (VD 16 A 758), ediert in: Die evangelischen Kirchenordnungen des
+sechszehnten Jahrhunderts, hg. v. Aemilius Ludwig Richter, Zweiter Bd., Weimar 1846 (Nachdruck: Nieuwkoop 1967), S. 14-21, Nr. LXXVII.<fe> 2^#'1/^#-2 batz.
+^$Iul. Firmici etc.<f1>Iulius Firmicus Maternus, Astronomic<gr>ṽ</gr>n lib. VIII [...] [Mathesis], Basel
+(Johann Herwagen) 1533 (VD 16 F 1119). Die Ausgabe enthält weitere astronomische Schriften von verschiedenen Autoren. -
+Iulius Firmicus Maternus aus Sizilien verfasste um 335/336 n. Chr. ein neuplatonisch geprägtes Handbuch der Astrologie
+("Matheseos libri VIII"). Seine zweite Schrift, "De errore profanorum religionum", entstand zwischen 343 und 350 nach
+seiner Bekehrung zum Christentum und wurde erst 1562 erstmals gedruckt. - Lit.: Karl ^#/+Hoheisel,^#/- in: DNP IV 523f.<fe> 9 batz.
+^$Brevi mittam etiam librum anatomicum. Erunt tres libri: 1. omnia habebit, quae ad fabricam humani corporis attinent,
+exactissime descripta;<f1>Andreas Vesalius, De humani corporis fabrica libri septem, Basel (Johannes Oporin) 1543 "mense
+iunio" (VD 16 V 910); vgl. oben Nr. 1728, 3-5 mit Anm. 3.<fe> 2. epitome erit propriisque et magnis figuris illustratur;<f1>Andreas Vesalius, De humani corporis
+fabrica librorum epitome, Basel (Johannes Oporin) 1543 "mense iunio" (VD 16 V 912).<fe> 3. Germanicus erit, quem nondum vidi,
+sed iam sub prelum paratur.<f1>Andreas Vesalius, Von des menschen cörpers anatomey ein kurtzer, aber vast nützer außzug,
+Basel (Johannes Oporin) 1543 "vollendet am neünten tag des augstmonat" (VD 16 V 916).<fe> Si omnes tres velles, comparabo.
+Indica saltem unico verbo. Postquam index in magnum volumen
+absolutus fuerit, habebis<fx>^#/+Vor^#/- habebis ^#/+ein unlesbares, gestrichenes Wort.^#/-<fe>, si commode in tabellionem
+incidero, pretiumque assignabo et<fx>et ^#/+über der Zeile nachgetragen.^#/-<fe>, quantum potero vilissimo, sed aequo, emam a doctore<f1>Vesalius.<fe>, qui et te salvere iubet.
+^$Vale in domino. D. Theodorum<f1>Theodor Bibliander.<fe> et Phrisium<f1>Johannes Fries.<fe> salutabis.
+^$15. iunii 1543.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] D. Heynricho Bullingero, Tigurinę ecclesiae vigilantissimo pastori, praeceptori colendo. Zurich.
+</content>
+</letter>

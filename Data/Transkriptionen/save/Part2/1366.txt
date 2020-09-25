@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1366">
+<nr>1366</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>28. Februar 1540</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen und Unterstreichungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 80, 221r.-v., Nr. 126 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 151</vo>
+<dr>Ungedruckt</dr>
+<re>Schenkt Myconius' Frau [Margret] sein Buch ["Der christliche Ehestand"], das er geschrieben hat, weil so viel Nutzloses
+gelesen wird. Wundert sich, daß Myconius nicht schreibt, wie es ihm und der Basler Kirche geht; aus
+Zürich gibt es zum Glück nichts Unerfreuliches zu berichten. Der neugewählte Konstanzer Bischof [Johann von Weeze] hat sich auf
+der Reichenau, in Arbon und an einigen andern Orten huldigen lassen und soll in Markdorf mit Abgeordneten von vier
+Innerschweizer Orten zusammengetroffen sein; als Forderungen, die er von Kreuzlingen aus an Konstanz richtete, nicht erfüllt
+wurden, ritt er rheinabwärts zu [Kaiser] Karl und [König] Ferdinand nach Brüssel, wo auch [Franz I.] von Frankreich und
+weitere Könige erwartet werden. Am 7. Februar wurde Ferdinand in Nürnberg mit großen Ehren und reichen Geschenken empfangen.
+Viele sind froh, daß Messe und Bilder nicht abgeschafft wurden, weil die Gunst des Königs sonst schwerer zu erlangen
+wäre; so sehr überschätzen leichtfertige Kaufleute die vergängliche Macht weltlicher Herrscher!
+</re>
+<tx>Gratia et pax a domino.
+^$Libellum<f1>Gemeint ist Bullingers Buch "Der christliche Ehestand", das erstmals 1540 bei Froschauer erschien; s. HBBibl I 129; Erika Kartschoke (Hg.), Repertorium deutschsprachiger
+Ehelehren der frühen Neuzeit, erarb. v. Walter Behrendt u. a., Bd. I/1, Berlin 1996, S. 46-48.<fe>, quem vides, Myconi colendissime, uxori<f1>Margret.<fe> tuae dabis orabisque, ut munusculum
+exiguum non fastidiat. Scripsi illum ad preces multorum fratrum et ad utilitatem civium ac Germaniae, quam video inutilibus et
+vanis occupari libellis, fabulis et canciunculis etc. Volui ergo occasionem dare piis, quo fierent pientiores. Dominus det incrementum<f1>Vgl. 1Kor 3, 6f.<fe>.
+^$De rebus tuis et ecclesiae nihil iam sesquimense scribis<f1>Offenbar hatte Bullinger Myconius' Brief vom 26.
+Februar (oben Nr. 1363) noch nicht erhalten. Spätestens am 5. März lag er jedoch vor, vgl. unten Nr. 1367.<fe>, ut mirer, qui fiat. Spero tamen brevi lecturum, quae
+iuvent. Ego de nobis non possum scribere infausta, domino gratia, qui et confirmet in nobis, quod coepit.
+^$Episcopus ille Merspurgensis, quem vocant "postulatum" aut, si mavis, "pustulatum Constantiensem" vel Lundensem<f1>Johann von Weeze, Erzbischof von Lund, war am 9. April 1538 zum Bischof von
+Konstanz (mit provisorischem Sitz in Meersburg) postuliert worden, s. Helvetia Sacra I/2 394.<fe>, in fidem recepit Augiam
+in lacu Veneto<f1>Die Inkorporation der auf einer Insel im Untersee gelegenen Abtei Reichenau in das Hochstift war
+von den Konstanzer Bischöfen seit langem angestrebt worden. Am 6. Februar 1540 konnte Johann von Weeze das Kloster in Besitz nehmen; vgl. ^#/+Moeller,^#/- Zwick 230; EA
+IV/1c 1177 n und 1179f zu n.^&xKultur der Abtei Reichenau: Nachdruck Aalen 1970!^&x{<fe>, praeterea Arborem felicem, quam appellant Arboniam<f1>Arbon (Kt. Thurgau) gehörte dem
+Bischof von Konstanz, s. HBLS I 412.<fe>, et nonnullas alias civitatulas. Marcdorffii<f1>Markdorf (Bodenseekreis,
+Baden-Württemberg).<fe> a legatis 4 pagorum immontanorum salutatus nec paucis horis detentus est<f1>Über eine solche
+Zusammenkunft des Bischofs mit Abgesandten aus den katholischen Orten der Innerschweiz ist sonst nichts bekannt.<fe>. Sic enim
+aiunt; quam vere, ignoro. Venit et Crücelingam<f1>Kreuzlingen (Kt. Thurgau).<fe> et a Constantiensibus quaedam
+postulavit<f1>Als der Rat hörte, der Bischof wolle nach Konstanz kommen, ließ er verlauten, man lasse ihn nur einreiten, wenn er
+von Reichs wegen hier zu tun habe; vgl. ^#/+Moeller,^#/- Zwick 231; Martin ^#/+Burkhardt,^#/- Wolfgang ^#/+Dobras,^#/- Wolfgang
+^#/+Zimmermann,^#/- Konstanz in der frühen Neuzeit. Reformation - Verlust der Reichsfreiheit - Österreichische Zeit, Konstanz
+1991. - Geschichte der Stadt Konstanz 3, S. 121.<fe>,
+quae cum non impetraret, eques cum paucis pone lacum et
+Rhenum descendit petiturus deos suos Carlum<f1>Kaiser Karl V.<fe> et Ferdinandum<f1>König Ferdinand I.<fe>,
+quos aiunt Bruxellae Brabantiae in martio coituros cum
+rege Galliarum<f1>Franz I., König von Frankreich.<fe> et nescio quibus aliis regulis<f1>Gerüchte besagten, auch der schottische König Jakob V. werde nach Brüssel kommen; vgl. PC III 22 und unten Nr. 1381, 25f.<fe>.
+^$Ferdinandus 7. februarii decentissime et sumptuosissime a
+Nerobergensibus susceptus est<f1>Vgl. Christoph Scheurl an Johannes Eck, 13. Februar 1540, in: Christoph Scheurl's
+Briefbuch, ein Beitrag zur Geschichte der Reformation und ihrer Zeit, hg. v. F. von Soden und J. K. F. Knaake, 2. Bd., Potsdam
+1872 (Nachdruck: Aalen 1962), S. 230-238, Nr. 279; Albrecht ^#/+Kircher,^#/- Deutsche Kaiser in Nürnberg. Eine Studie
+zur Geschichte des öffentlichen Lebens der Reichsstadt Nürnberg von 1500-1612, Diss. phil., Erlangen 1953, Nürnberg 1955. -
+Freie Schriftenfolge der Gesellschaft für Familienforschung in Franken 7, S. 42-47.<fe>. Obviam ierunt senatus omnis civesque honoratiores, numero 300; armatorum
+aliquot millia a porta urbis ad arcem usque viritim distributi expeditum ingressum illi praebuerunt. Ipse vero eques incessit
+sub auleo ingente e serico confecto, quod a patribus iuxta
+euntibus gestum et sustentatum est. Et biduo quidem apud
+illos interquievit. Dono illi obtulerunt phialam argenteam
+marcarum octuaginta, aliquot millibus aureorum
+Nerobergensium impletam. Sunt, qui numerum extendant ad
+10000. Princeps nihil non pollicitus tertio ab ingressu
+die discessit. Ferunt auditas esse multorum voces: "Quam bene
+actum est nobiscum, quod missam non abolevimus totam neque
+imagines eiecimus e templo. Quid reliquae urbes appenderent,
+ut nostrum exemplum imitatae iam clementem sibi haberent
+regem perinde atque nos?" Sed o mercatores leves, o
+[m]entem<fx>Text beim Öffnen des Siegels beschädigt.<fe> stolidam, quae plu-<vl>221v.</vl>ris facit
+gratiam principis mortalis et miseri quam regis
+aeterni! Dominus Iesus confirmet suos spiritu suo, ne
+moveantur ad strepitum illum stultorum regum, qui propediem
+parum honorati et decenter vel in alium migrabunt mundum
+vel a potentiore aliquo captivi ducentur. Scriptura enim et
+ipse rerum omnium cursus docet terram vel mutandam vel subvertendam esse a iustissimo domino.
+^$Tu vale et scribe, ut norim, quid valeas.
+^$28. februarii anno 1540.
+<un>Tuus ille Bullingerus.
+<lz>[Adresse darunter:] Domino Osvaldo Myconio, primo
+Basileiensis ecclesiae concionatori, fratri colendo.
+</content>
+</letter>

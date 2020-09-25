@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2702">
+<brief>
+<id>16390</id>
+<nr>2702</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-12-04"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 4. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 265 (neu: 281) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 111 </k></dr>
+<re><t>Nur [Francisco] de Enzinas hat von Bullingers Mitteilung in seinem Brief vom 27. November [<qv>nr2695</qv>] erfahren. Am Tag nach dem Erhalt dieses Briefes brachte [Rudolf Bitzinger], der Zürcher Bote, ein [von Zürich] an mehrere [Orte] gerichtetes Schreiben ähnlichen Inhalts. Die [Basler] Obrigkeit hielt die Sache streng geheim, da Myconius' Informanten nichts desgleichen unter den Bürgern vernehmen konnten.</t>
+<t>Vor kurzem berichtete ein guter Mann [...] aus Brugg (im Aargau) von einem Gespräch im Kloster Königsfelden mit Hartmann von Hallwyl, der gerade aus dem [schmalkaldischen] Feldlager zurückgekehrt war: [Landgraf Philipp von] Hessen hätte diesem beim Abschied gesagt, dass er trotz des Geldmangels lieber im Lager verfaulen als abziehen würde. Über den [Kurfürsten Johann Friedrich von] Sachsen sagte Hallwyl, dass dieser von geradezu ansteckender Fröhlichkeit wäre, so dass viele der Meinung seien, dass die Lage in Sachsen längst [nicht so schlecht] sei wie dargestellt! [Johannes] Gast kam dazu und bestätigte, dass die früheren [schlechten] Meldungen über Sachsen nicht stimmten. Er habe gestern von einem Stuttgarter Boten [...], der vor einigen Wochen in Sachsen war, erfahren, dass dieser dort zwar von einem Angriff der Böhmen gehört, jedoch keinen einzigen Feind gesehen hätte.</t>
+<t>Im Schreiben der Zürcher wird ferner berichtet, dass [König Franz I.] von Frankreich sich dem [König Heinrich VIII.] von England angeschlossen habe. Möge Bullingers Mitteilung zum Bündnis [der Schmalkaldener mit Franz I.] stimmen! Warum er dies möchte, wird Myconius später erörtern, falls Bullinger es wünscht. Das Gerücht, dass Franz I. um Mainz Soldaten anwirbt, ist nicht verbürgt.</t>
+<t>[Matthias Claudius], der Diener des reichen Augsburgers [Hieronymus Sailer], welcher einst länger als Enzinas in Spanien lebte, schrieb am 29. November aus St. Gallen im Auftrag seines Herrn an Enzinas, dass der Landgraf mit seinem Heer in Württemberg überwintern wolle. Beim Versuch, dies zu verhindern, wären 2'000 von insgesamt 6'000 kaiserlichen Reitern gefallen. Kaiser [Karl V.] sei aber mit acht Pferden nach Lauingen entkommen. Gestern erzählte ein Soldat [...] aus dem [schmalkaldischen] Lager Ähnliches: [Sebastian] Schertlin habe durch tapfere Gegenwehr bei einem Überfall der Kaiserlichen deren Streitmacht niedergestreckt. Seltsam, dass die Zürcher nichts darüber berichten!</t>
+<t>Gestern erzählte auch ein habsburgischer Adliger [...], dass es im Lager des Kaisers Feuerwerk und Freudenschüsse gegeben habe, als man erfuhr, dass [Herzog] Moritz 24'000 Fußsoldaten und 6'000 Reiter in [Kur]sachsen getötet hätte. Das glaube, wer will!</t>
+<t>Myconius hat von einem Ratsherrn [...] erfahren, dass Jodocus [Kilchmeyer] Entsetzliches in Bern versuche. Wenn Bullinger davon wüsste, ist es merkwürdig, dass er nichts dagegen unternimmt. Es gäbe doch viel bessere Mittel zum Frieden!</t>
+<t>Grüße, auch an die Amtskollegen.</t></re>
+<text>
+<div>
+<p>S. Qu{e} scripsisti 27. novembris,
+<fn>Mit Brief <qv>nr2695</qv>.</fn> nemini praeter Dryandrum
+<fn>Francisco de Enzinas. - Bezug auf Bullingers Wunsch in <qv>nr2695</qv>,<qv>zl16382-4</qv>.</fn> indicavi. <zzl>zl16390-5A</zzl>Altera die post acceptas venit nuncius Tigurinus
+<fn>Rudolf Bitzinger (s. Zürich StA, F III 32, Seckelamtsrechungen 1546/47, S. 63 der Ausgabenabteilung für laufende Boten). Da er einen Brief Zürichs überbrachte (nämlich ein Schreiben an Bern, Basel, St. Gallen und Schaffhausen vom 28. November, Zürich StA, B IV 16, f. 94; vgl. <a>PC</a> IV/1 502, Nr. 469, Anm. 1 - wir danken Rainer Henrich für diesen Hinweis) und er am 30. November wieder in Zürich war (s. Zürich StA, aaO), wird er am 29. und Bullingers Brief am 28. in Basel eingetroffen sein.<zfn>fn16390-1</zfn></fn> et eadem adtulit pluribus tamen scripta. Ea satis sunt habita occulte vel a capitibus
+<fn>Die Stadtoberhäupter Basels.</fn>, nam aures satis institueram ad audiendum, si a civibus aliquid huius liceret audire.<zzl>zl16390-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16390-6A</zzl>Mox venit e Bruge Heroi{e}
+<fn>Brugg im Aargau.</fn> vir bonus
+<fn>Unbekannt.</fn>, qui cum
+<fa><i>Über der Zeile nachgetragen.</i></fa> Hartmanno de Hallwil
+<fn>Er hatte das schmalkaldische Lager am 16. November verlassen (s. <qv>nr2648</qv>, <qv>fn16338-2</qv>), ehe dieses am 22. aufgehoben wurde (s. <qv>nr2662</qv>, <qv>fn16351-3</qv>). Er wird diesem Brief zufolge noch vor Anfang Dezember nach Brugg, seinem Wohnsitz (s. <a>HBBW</a> XVII 317, Anm. 1), gelangt sein.</fn> pransus fuerat in monasterio Campi Regii
+<fn>Das an Brugg angrenzende Kloster Königsfelden (Kt. Aargau).</fn>. Is mihi narravit, qu{e} ex illo recta ex castris veniente audivisset. <zzl>zl16390-7A</zzl>Inter ea fuerat non postremum, quod Hessus
+<fn>Landgraf Philipp von Hessen.</fn> ad ipsum dixerat abiturum malle se in castris putrescere quam abire, quamvis pecuni{e} inopia
+<fn>Siehe dazu <qv>nr2662</qv>,<qv>zl16351-1</qv>; <qv>nr2663</qv>,<qv>zl16352-13</qv>; <qv>nr2671</qv>,<qv>zl16358-16</qv>; <qv>nr2684</qv>,<qv>zl16371-12</qv>; <qv>nr2689</qv>,<qv>zl16376-5</qv>; <qv>nr2691</qv>,<qv>zl16378-4</qv>; <qv>nr2710</qv>,<qv>zl16397-3</qv>.<zfn>fn16390-3</zfn></fn> valde premerentur.<zzl>zl16390-7E</zzl> <zzl>zl16390-15A</zzl><zzl>zl16390-8A</zzl>De Saxone
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn>: Virum esse tam l{e}tum, ut, quisquis eum
+<fa><i>Fehlt in der Vorlage.</i></fa> intueretur, et ipse cogeretur esse l{e}tus. Hinc multos esse, qui apud se dicerent: "Forsitan in Saxonia res aliter se habent, quam fert fama."
+<fn>Anspielung auf die Besetzung Kursachsens durch Herzog Moritz.</fn><zzl>zl16390-8E</zzl> <zzl>zl16390-9A</zzl>Interim dum colloquimur, et Gastius accedit et, ubi de dictis pariter audierat: "Hanc ob causam" inquit "vos adii, ut narrarem mendacia esse, qu{e} hactenus sunt dicta de Saxonia. Heri nanque fuit hic tabellio Stutgardianus
+<fn>Unbekannt.</fn>, qui intra
+<fn>vor; s. <a>LHSz</a> II 235.</fn> paucas septimanas venit e Saxonia. Pro certo narravit is audisse quidem se de Boemis rumorem nescio quem, quod essent in armis, sed hostem in electoris ditione non visum tunc, ne unum quidem." H{e}c Gastius ad nos.<zzl>zl16390-9E</zzl><zzl>zl16390-6E</zzl></p>
+</div>
+<div>
+<p>In literis praeterea dominorum tuorum
+<fn>Der in oben <qv>fn16390-1</qv> erwähnte Brief der Zürcher.</fn> Anglus
+<fn>König Heinrich VIII. von England.</fn> fuit iunctus Gallo
+<fn>König Franz I. von Frankreich.</fn>. <zzl>zl16390-10A</zzl>Utinam vero, quae scripseras de foedere,
+<fn>Bezug auf <qv>nr2695</qv>,<qv>zl16382-4</qv>.</fn> non essent vana. Post dicam causas huius voti mei, dum fuerit ocium et tu ita volueris.<zzl>zl16390-10E</zzl> <zzl>zl16390-11A</zzl>Rumor est et nil nisi rumor circa Maguntiam conscribi clam milites Gallo.<zzl>zl16390-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16390-1A</zzl>Ex Sangallo scribit ad Dryandrum famulus
+<fn>Matthias Claudius. - Der hier angeführte Brief ist auch in <qv>nr2699</qv>,<qv>zl16387-2</qv>, und <qv>nr2705</qv> belegt.</fn> ditissimi cuiusdam civis Augustani
+<fn>Hieronymus Sailer. - Er hatte "manches Jahr in Spanien zugebracht" und lässt sich dort bis nach 1531 nachweisen; s. Conradin <i>Bonorand,</i> Hieronymus Sailer aus St. Gallen, Schwiegersohn des Augsburger Großkaufherrn Bartholomäus Welser, und seine Tätigkeit im Lichte seines Briefwechsels mit Vadian, in: <a>Zwa</a> XX, 1993, 106. 114.</fn>, qui in Hispania diutius aliquando vixit quam ipsemet Dryander. Scribit autem 3. kalendis decembris domini iussu ad hunc modum: <zzl>zl16390-12A</zzl>"Accepimus Hessum voluisse proficisci cum suis in Wirtenbergam, ut illic hybernaret.
+<fn>Aus dem am Abend des 22. November in Heidenheim verfassten Brief Heinrich Thomanns an die Zürcher (Zürich StA, A 177, Nr. 149) geht hervor, dass man vorhatte, in Württemberg zu überwintern. Zwei Regimenter und einige Reiter sollten die Winterlager beziehen, doch herrschte große Ungewissheit, wo dies geschehen sollte (s. <a>PA</a> I 580f). Landgraf Philipp selbst kam am 25. November nach Stuttgart, um mit Herzog Ulrich zu verhandeln; jedoch vergebens. Von dort begab er sich via Bauerbach bei Bretten nach Heidelberg (28. November). Am 1. Dezember war er in Frankfurt, ehe er sich dann in Richtung Kassel aufmachte; s. <a>Heyd, Ulrich von Württ.</a> III 433; Konstanz an Zürich, 4. Dezember 1546 (Zürich StA, A 177, Nr. 150); <a>Viglius van Zwichem</a> 176. 207f, Anm. 79. 254 (Nachtrag I).<zfn>fn16390-2</zfn></fn><zzl>zl16390-12E</zzl> <zzl>zl16390-3A</zzl>C{e}sarem
+<fn>Karl V.</fn> sex millibus equitum conatum esse illum praevenire, et hinc exortam pugnam et duo millia equitum ex c{e}sareanis interfecta, c{e}sarem aufugisse cum octo tantum equis Lauvingam.
+<fn>Ausführlicheres dazu in <qv>nr2701</qv>,<qv>zl16389-8</qv>.</fn><zzl>zl16390-3E</zzl> Et hoc addit: "Certum est."<zzl>zl16390-1E</zzl> Heri quoque miles
+<fn>Unbekannt.</fn> venit ex castris, qui rem eandem recensuit paucis mutatis: <zzl>zl16390-13A</zzl>Schertlium nescio ubi locorum a c{e}sare petitum veluti de improviso, illum autem, ut est promptus per dominum, fortiter occurisse et ingentem vim c{e}sareanorum prostravisse.
+<fn>Ein falsches Gerücht, zumal Sebastian Schertlin nichts darüber in seiner Lebensbeschreibung (<a>Schertlin, Leben</a>) berichtet.</fn><zzl>zl16390-13E</zzl> Mirum, quod vos ea de re nihil.</p>
+</div>
+<div>
+<p>Hoc horrendum scilicet: <zzl>zl16390-14A</zzl>Fuit hic Habsburgensis quidam nobilis
+<fn>Unbekannt.</fn> heri, qui vulgavit se venisse paulo ante ex castris c{e}sare{e} maiestatis et vidisse illic ignes
+<fn>Feuerwerk; s. <a>Kirsch</a> 1402.</fn> per tota castra et audisse bombardarum tonitrua, signa grandis l{e}tici{e}; <zzl>zl16390-4A</zzl>nam advenisse nuncium longe certissimum in Saxonia Mauricium
+<fn>Herzog Moritz von Sachsen.</fn> 24'000 peditum et 6'000 equitum interfecisse.
+<fn>In der Tat hatte der Kaiser im Lager vor Lauingen in der Nacht vom 8. auf den 9. November "victoria schießen lassen", als er erfuhr, dass Moritz mit der Besetzung von Kursachsen begonnen hatte; s. <a>Schüz, Donaufeldzug</a> 83. - Zu den hier angegebenen Zahlen der Todesopfer vgl. auch <qv>nr2691</qv>,<qv>zl16378-3</qv>. Doch laut <a>Voigt, Moritz</a> 225, war die Besetzung Kursachsens (bis etwa Mitte November) "ohne Blutvergießen, ja ohne Widerstand abgelaufen".</fn><zzl>zl16390-4E</zzl> H{e}c ita adseruit, tanquam sint vera. Credat, qui velit.<zzl>zl16390-14E</zzl><zzl>zl16390-15E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16390-2A</zzl>Iodocus
+<fn>Jodocus Kilchmeyer. - Hier liegt wahrscheinlich eine Anspielung auf die Ausweisung des Schulherrn Thomas Grynäus (einer der Anführer der lutherischen Partei in Bern; s. <a>HBBW</a> XV 71, Anm. 3) und dessen Schülers Peter Zeller vor; s. <a>HBBW</a> XVI 347, Anm. 10; <qv>nr2708</qv>,<qv>zl16398-1</qv>.<zfn>fn16390-4</zfn></fn> dicitur Bern{e} nescio qu{e} horrenda tentare praeter necessitatem. Mirum, quod virum, si nosti, haud compescis. Ad pacem veniri potuisset longe alia et quidem meliore via. Ex senatu quidam
+<fn>Ob es sich dabei um einen Basler oder einen Berner Ratsherrn handelte, ist unbekannt. - Zur gespaltenen religiösen Lage in Bern s. <a>HBBW</a> XIV 17.</fn> ea de re mihi dixit, alioqui prorsus ignota.<zzl>zl16390-2E</zzl></p>
+</div>
+<div>
+<p>Dominus adsit nobis omnibus. Vale in Christo cum fratribus piis omnibus. Basile{e}, 4. decembris anno 1546.</p>
+<un>Tuus Os. Myco.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, viro doctissimo, ministro Christi optimo, domino suo in Christo venerando. Ti[gu]ri.
+<fa><i>Textverlust bei Entfernung des Verschlussbandes.</i></fa></p>
+</div>
+</text>
+</brief>

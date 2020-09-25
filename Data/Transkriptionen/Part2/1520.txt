@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1520">
+<nr>1520</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>24. Mai 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 481 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>[Rudolf] Gwalther ist [auf der Durchreise nach Regensburg] wohlbehalten angekommen; Zwick hat sich seiner gemäß
+Bullingers Bitte angenommen. [In Regensburg] wurde bereits über die Rechtfertigungslehre verhandelt, doch das Ergebnis ist noch
+nicht bekannt, und beim Artikel vom Sakrament stellt [Contarini] unerfüllbare Forderungen, während die Frage der Autorität des
+Papstes zurückgestellt worden sein soll; Gwalther wird ausführlich berichten. [Die Protestanten] dürfen auf die
+Tücke der Gegner nicht mit Gleichem antworten. Gruß. Empfiehlt Georg Wimpfer, den Pfarrer von Stein [am Rhein]; sein langjähriger Dienst und seine familiären Verhältnisse würden ein höheres Einkommen rechtfertigen.
+</re>
+<tx>Salus et pax Christi.
+^$Waltherus<f1>Rudolf Gwalther ritt auf dem Weg nach Regensburg, wo er am 27. Mai eintraf (s. unten Nr. 1523, 2f), offenbar durch Konstanz.<fe> salvus ad me venit, et quicquid illius nomine in tuis literis<f1>Nicht erhalten.<fe> a
+me fieri voluisti, exequutus sum, nec quicquam est tam grande, quod non semper tuo nomine sim facturus.
+^$Ex comitiis expectamus quotidie certiora. Scimus
+collationem inter deputatos initam;<f1>Zum Verlauf des Gesprächs vgl. die ausführlichen Berichte von Gwalther und Pistorius
+vom 30. Mai (unten Nr. 1523f).<fe> conclusionem nescimus, expectamus autem eventum. Articulum iustificationis
+tractaverunt, sed quomodo convenerint, adhuc non est certum.<f1>Vgl. unten Nr. 1523, 82-85 mit Anm. 38.<fe> Nunc
+tractant articulum de sacramento; sed legatus pontificis urget transsubstantiationem<fx>^#/+In der Vorlage^#/-
+transubstantiationem.<fe> et adorationem<f1>Der päpstliche Legat Gasparo Contarini schloss ein Entgegenkommen in der Frage der
+Transsubstantiation entschieden aus; s. Peter ^#/+Matheson,^#/- Cardinal Contarini at Regensburg, Oxford 1972, S. 126-128. 132f. 137.^&x vgl. Albrecht P. ^#/+Luttenberger,^#/- Kaiser, Kurie
+und Reichstag: Kardinallegat Contarini in Regensburg 1541, in: Reichstage und Kirche. Kolloquium der Historischen Kommission
+bei der Bayerischen Akademie der Wissenschaften, München, 9. März 1990, Göttingen 1991. - Schriftenreihe der Historischen
+Kommission bei der Bayerischen Akademie der Wissenschaften 42, S. 115f.^&x{<fe>, cui nostri refragantur, ut ęquum est et
+gloria Christi exigit. Articulum de autoritate pontificis suspensum aiunt.<f1>Da man sich hinsichtlich der Autorität von
+Papst und Konzilien nicht verständigen konnte, wurde dieses Thema vorerst zurückgestellt; vgl. unten Nr. 1523, 89-92; 1524, 68-71.<fe> Cum primum autem certi aliquid intellexero, non
+te celabo, quanquam nunc Waltherum habiturus sis<fx>^#/+Vor^#/- sis ^#/+gestrichenes^#/- sim[?].<fe>, qui te de singulis
+reddet certiorem. Rogemus dominum sine intermissione, ne quid
+committamus indignum Christo. Agimus certe cum hominibus
+astutissimis neque, quod ad nos adtinet, aequum est cum
+vulpibus vulpinari<f1>Adagia, 1, 2, 28 (LB II 81).<fe>. Invocare vero decet Christum, ut simplicitate et integritate vincamus.
+^$Vale.
+^$Ex Constantia, 24. maii 1541.
+^$Totam familiam salvam volo.
+<un>Tuus Io. Zvick.
+<lz>Dominum Georgium Wimpferum, Stainensem pastorem,
+commendo tibi; vir dignus est, cui salarium tuorum
+liberalitate augeretur idque, quod illam ec­clesiam multis iam
+annis optima fide magnisque laboribus rexerit,<f1>Wimpfer war seit 1528 Pfarrer in Stein am Rhein; s. HBBW IV, S. 206, Anm.
+1.<fe> denique, quod pauper ipse multa prole quotidie augeatur.<f1>Als Wimpfer 1559 starb, hinterließ er mehrere Kinder (s. Christian Hochholzer an Bullinger, 22. August 1559,
+Zürich StA, E II 375, 579); sein Sohn Hans Jakob wurde ebenfalls Pfarrer (s. Pfarrerbuch 617).<fe> Memineris ipsius, obsecro.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, Tigurinae ec­clesiae pastori vigilantissimo.
+</content>
+</letter>

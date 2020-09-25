@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2669">
+<brief>
+<id>16356</id>
+<nr>2669</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-11"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 11. November 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 46 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, 398f, Nr. 11;<br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 138f, Nr. 13<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 74; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 226; Madrid BN, 8862, suelto und f. Ddro 9; Erw.: Boehmer, Spanish Reformers I, 1874, S. 183; (Boehmer: Hd II 2259; García: Hd II 1023 </k></dr>
+<re><t>Myconius ließ ihm gerade die Sendung Bullingers [nicht erhalten] mit der Abschrift der [Dekrete der] Sitzungen des Konzils von Trient
+<fn>Siehe dazu <qv>nr2654</qv>, <qv>fn16343-3</qv>.</fn> zukommen. Vielen Dank!</t>
+<t>Schade, dass das Glaubensbekenntnis von [Juan] Diaz
+<fn>Siehe dazu <qv>nr2654</qv>, <qv>fn16343-1</qv>.</fn> (von dem Theodor [Bibliander] wohl [noch] ein Exemplar haben sollte) nicht auch dabei lag. Die ["Historia vera de morte Diazii"] kann deswegen nicht fertig gedruckt werden. Enzinas bat [Martin] Bucer schon mehr als zehn Mal um das Bekenntnis. Da Bucer aber viel Wichtigeres zu tun hat, konnte er sich nicht um diese Kleinigkeit kümmern. Deshalb Enzinas' Bitte an Bullinger, das Bekenntnis so schnell wie möglich zu schicken, falls er dies nicht schon vor Eintreffen vorliegenden Briefes getan hätte.</t>
+<t>Im Gegenzug ist Enzinas bereit, den Zürchern, was immer sie wünschen, zukommen zu lassen. Auch die zugesandte Handschrift [mit den Dekreten des Konzils] wird er zurücksenden, sobald sie abgeschrieben und gedruckt ist.</t>
+<t>Während dieser Woche hat man nichts Sicheres über den Krieg erfahren. Kurz zuvor aber hatte Bucer geschrieben, dass Kaiser [Karl V.] gewichen sei. Da Bucer aber nicht anführen konnte, wohin, mag es sich erneut um eine List des Kaisers handeln. Bullinger möchte Verbürgtes mitteilen.</t>
+<t>Grüße, auch an die Kollegen.</t></re> <textweg>
+<div>
+<p>S. D. Hac hora misit ad me Myconius literas tuas, in quibus sessiones concilii Tridentini continebantur, pro quibus magnam tibi habeo gratiam.</p>
+</div>
+<div>
+<p>Atque utinam simul misisses confessionem Diazii
+<fn>Juan Díaz.</fn> Latinam, quam apud d. Theodorum
+<fn>Theodor Bibliander.</fn> inveniri posse arbitror, quae sola ad perficiendum libellum desideratur, et cogitur prelum interquiescere, donec eam alicunde nanciscamur. Plus decies a Bucero postulavi; sed impedito gravibus negotiis non vacavit cogitare de re minima. Quaeso te, nisi missa fuerit, cum has literas accipias, primo nuntio mittatur.</p>
+</div>
+<div>
+<p>Quod hic erit vobis dignum, ego mittam diligenter. Sessiones etiam ipsae, quas nunc mittis, et servabuntur a me et paulo post etiam mittentur cum descript{e} tum etiam impressae.</p>
+</div>
+<div>
+<p>De bello nihil certi hac septimana accepimus. Nunciavit paulo ante Bucerus cessisse imperatorem, sed non potuit significare, quem ad locum se contulerit, unde in suspicionem venio, ne aliquo fraudulento strategemate utatur, quo nostros decipiat. Si quid certi habebis, nobis communicato.</p>
+</div>
+<div>
+<p>Bene vale cum reliquis fratribus. Basileae, 11. novembris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Henrico Bullingero, fidelissimo ecclesiae dei ministro. Tiguri.</p>
+</div> </textweg>
+</brief>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2792">
+<brief>
+<id>17059</id>
+<nr>2792</nr> <from persid="MeyerLorenz"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-02-03"/>
+<ae>Lorenz Meyer, gen. Agricola, an Bullinger</ae>
+<od>Augsburg, 3. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 346, 215 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 78 </k></dr>
+<re><t>Meyer wünscht sich, dass Bullinger den Schluss des augsburgischen [Anwerbungs]schreibens [vom 1. September 1546] noch einmal lesen würde! Dort steht nämlich, wozu die Zürcher Prädikanten nach Augsburg berufen wurden. Doch jetzt ist die Lage völlig anders. Den [Schmalkaldischen] Bund gibt es nicht mehr, und auch die Ausübung des Pfarramts in Augsburg ist nicht mehr möglich. Wozu also sollen die Zürcher Pfarrer [Johannes Haller, Meyer, Thoman Ruman und Rudolf Schwyzer d.Ä.] noch länger dort ausharren? Was haben sie denn als Eidgenossen mit dem spanischen, kaiserlichen Erzfeind gemein?</t>
+<t>Die Augsburger Kirche wird auch künftig, wie schon früher, ohne Schweizer Pfarrer auskommen. Was aus ihr wird, wenn ihre Hauptpfarrer die Stadt verließen, weiß Meyer allerdings nicht. Doch solange diese bleiben (auch wenn man die Zürcher fortschicken würde), bezeugen sie damit [der Bevölkerung], dass sie nicht mit der Ankunft der spanischen Truppen rechnen. Bullinger aber fordert von den Zürchern, bis zum Tod in Augsburg standhaft zu bleiben! Ob das klug sei, ist fraglich. Außerhalb der Stadt ist die Lage schon völlig hoffnungslos! Bischof Otto Truchsess von Waldburg hat das Umland militärisch unter Kontrolle gebracht und seinen Priestern befohlen, die Gräuel des Antichristen und dessen Opferdienst wieder aufzurichten! Papst Paul III. hat sich der Kirchen bemächtigt und Christus daraus vertrieben. Noch schlimmer: Der ängstliche Augsburger Rat hat Bernardino Ochino, Francesco Stancaro und Sebastian Schertlin (was mit Georg Frölich geschehen wird, ist unklar), die doch so viel für die Stadt geleistet haben, hinausgeworfen! Und Bullinger will nun, dass die Zürcher in Augsburg bleiben, als ob diese dazu bestimmt wären, Beute der Spanier oder Schlachtvieh zu werden! Was sollen sie tun? Sie befinden sich zwischen Skylla und Charybdis!</t>
+<t>Schon längst hatten Meyer und Schwyzer die Gefahr erkannt. Auch in den Briefen an Meyers Frau [Regula, geb. Meier?], die Bullinger vielleicht auch gelesen hat, schrieb er davon. Doch in Zürich nahm man dies nicht ernst. Nicht die Angst veranlasste ihn zu diesen Warnungen! Vielmehr wollte er dem Rat die Möglichkeit geben, sich darüber zu beraten, um seinen Untertanen in der Fremde noch rechtzeitig Anweisungen zukommen lassen zu können. Nun ist es zu spät! Nur Gott kann noch helfen.</t>
+<t>Es schmerzt, völlig verlassen auf den Tod warten zu müssen, und zwar nicht für das Bekenntnis der Wahrheit, sondern als Zwinglianer und Helvetier! Denn der Augsburger Rat wird die Zürcher vor dem Feind nicht retten können, da er dann selbst in Gefahr sein wird.</t>
+<t>Sollten sie sterben, muss Bullinger vor Christus Rechenschaft für ihr unschuldiges Blut ablegen! Sie aber müssen verderben, damit ihr Schicksal ein Exempel für die Nachwelt wird, damit Zürich nie wieder mutige Kirchendiener wegen einer Stadt oder eines Fürsten unüberlegt dem Tode aussetzt! Nur der Herr kann noch retten. Von den Menschen ist nichts zu erwarten.</t>
+<t>Gruß.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17059-1A</zzl>Optarem, Bullingere, ut fines Augustanorum literis
+<fn>Zu verstehen: in literis. - Gemeint ist hier das Schreiben des Augsburger Rates an den Zürcher Rat vom 1. September 1546, mit dem Zürcher Pfarrer nach Augsburg angeworben wurden; s. dazu <a>HBBW</a> XVII 379,77f mit Anm. 48.</fn> revideres diligenter, nam, ad quid vocati sint concionatores, docent.<zzl>zl17059-1E</zzl> <zzl>zl17059-2A</zzl>Iam vero alia rerum adparet facies. Desiit foedus
+<fn>Der Schmalkaldische Bund, dessen Zerfall mit der Unterwerfung Ulms begonnen hatte.</fn>, desiit vocatio et functio. Quid diutius h{e}rendum? C{e}sareanarum partium minime erimus
+<fn>Meyer (Agricola) meint sich und die anderen Zürcher Pfarrer in Augsburg: Johannes Haller, (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä.</fn>. Quid enim amiciti{e} inter nos et Hispanos, coniuratos
+<fa><i>In der Vorlage</i> conratos.</fa> Helvetiorum hostes?<zzl>zl17059-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17059-3A</zzl>Stabit nihilominus ecclesia Augustana, qu{e} diu incolumis
+<fa><i>In der Vorlage</i> incolunis.</fa> fuit sine Helvetico doctore. <fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>Doctoribus autem nunc primariis
+<fn>Wie z.B. Wolfgang Musculus (s. <qv>nr2753</qv>,<qv>zl17000-17</qv>; <qv>nr2759</qv>,<qv>zl17027-13</qv>) und Michael Keller (s. <qv>nr2791</qv>,<qv>zl17060-4</qv>).</fn> fugam meditantibus qualis futura sit, ignoro. Hii enim cum sint pastores, nos missi, testantur se minime expectaturos Hispanos.
+<fn>Zur geplanten Einquartierung kaiserlicher Truppen in Augsburg s. <qv>nr2785</qv>,<qv>zl17053-25</qv>; <qv>nr2786</qv>,<qv>zl17054-6</qv>. <qv>zl17054-14</qv>.</fn><zzl>zl17059-3E</zzl> <zzl>zl17059-4A</zzl>Tu vero urges, ut expectemus extrema quaeque.
+<fn>Bezug auf Bullingers Mahnungen, solange wie möglich in Augsburg auszuharren und im Fall einer durch die Flucht nicht mehr zu vermeidenden Todesstrafe bis zum Schluss standhaft zu bleiben; s. <qv>nr2752</qv>,<qv>zl17021-7</qv>; <qv>nr2770</qv>,<qv>zl17039-7</qv>; <qv>nr2780</qv>,<qv>zl17048-3</qv>.<zfn>fn17059-1</zfn></fn> An id sano facias consilio, non video, etc.<fa1e von="1"/><zzl>zl17059-4E</zzl> <zzl>zl17059-5A</zzl>Extra portam spes omnis evanuit. Episcopus
+<fn>Kardinal Otto Truchsess von Waldburg. - Siehe schon <qv>nr2743</qv>,<qv>zl17012-11</qv>.</fn> armato milite agrum in ius suum rapuit et pristina horroris antichristi facinora erexit et, ut fiant abominationes mendatiorum, suis sacrificulis iniunxit.
+<fn>Dan 11, 31; 12, 11.</fn> Papa
+<fn>Paul III.</fn> ecclesias tenet, Christus expellitur et conculcatur.<zzl>zl17059-5E</zzl> <zzl>zl17059-6A</zzl>His adde adhuc maiora: Bernhardinum
+<fn>Bernardino Ochino; s. dazu <qv>nr2769</qv>, <qv>fn17037-1</qv>.</fn>, Stankherum
+<fn>Francesco Stancaro; s. schon <qv>nr2786</qv>, <qv>fn17054-1</qv>.</fn>, Sebastianum Schertlin
+<fn>Siehe <qv>nr2769</qv>, <qv>fn17037-2</qv>.</fn> (de L{e}to
+<fn>Georg Frölich.</fn> quid fiet, nescio)
+<fa><i>Klammern ergänzt.</i></fa>, illos optimos viros de civitate bene immo sanctissime meritos, eiecit ingrata urbs et tremebundus senatus!<zzl>zl17059-6E</zzl> <zzl>zl17059-7A</zzl>Et tu scribis nobis immorandum, quasi simus huc missi, ut fiamus praeda Hispanis et destinati ad occisionem libidinosam pessimorum hominum, oves mactationis
+<fn>Ps 44, 23 (Vulg. 43, 22).</fn>! Quid faciundum? Certe inter Scillam et Charibdim versamur.
+<fn>Siehe <a>Adagia</a>, 1, 5, 4 (<a>ASD</a> II/1 479-482, Nr. 404).</fn><zzl>zl17059-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17059-8A</zzl>Hoc, quod nunc nobis imminet, periculosum negotium dudum prospeximus ego et Rodolphus
+<fn>Schwyzer.</fn> et nonnihil de hoc aperui literis id testantibus ad uxorem
+<fn>Regula, geb. Meier?</fn> missis, quas fortassis partim vidisti aut legisti. Sed omnia hactenus visa sunt, quasi fabulam aut aliam aliquam rem vanam finxerimus! Utinam tam falsa fuissent, quam verissima, heu, hodie sunt et ob oculos versantur. Testor deum nullo metu aut tremore quicquam scripsisse, sed, praevidentes futurum periculum, voluimus non c{e}lare, ut in tempore daretur nobis certum consilium imminentibus urbi nostr{e} s{e}vissimis hostibus c{e}sareanarum partium, quid nobis faciundum esset, ne sine senatus authoritate et fratrum consilio quicquam ageremus. Sed sinistro Hercule
+<fn>sinistro Hercule: unter schlechten Voraussetzungen; vgl. Theodoricus <i>Morellus Campanus</i>, Enchiridion ad verborum copiam haud infrugiferum, Lyon 1540, S. 251; <a>Wander</a> IV 947, Nr. 103. - Vgl. ferner den entgegengesetzten Ausdruck "dextro Hercule aut amico Hercule"; s. <a>Adagia</a>, 1, 1, 73 (<a>ASD</a> II/1 186, Nr. 73); <a>Kirsch</a> 1348.</fn> cecidit alea! Foelitiora pollicemur nobis de divina bonitate.<zzl>zl17059-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17059-9A</zzl>At hoc dolet, quod hactenus sic deserti nihil nobis iam omni momento expectandum quam praesentissimam mortem, non propter testimonium veritatis, sed quod sumus Zingliani et Helvetii! Neque eripiet e sanguinolenta manu nos urbis senatus, cum ipse fortassis non salvus erit et securus.<zzl>zl17059-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17059-10A</zzl>Si igitur pereundum necesse fuerit, vide tu, qua ratione sanguinis nostri innoxii sis redditurus rationem domino Iesu Christo, quem etiam scimus hostium furori cessisse. Exemplo certe erimus nostro damno posteritati, ne ultra temere cuiquam, aut urbi aut principi, obiiciant cordatos verbi ministros. Domini sumus. Is servet et servabit nos. Vana est salus hominis!
+<fn>Ps 60 (Vulg. 59), 13.</fn><zzl>zl17059-10E</zzl></p>
+</div>
+<div>
+<p>Vale. August{e} Vindelicorum, 3. februarii anno 47.</p>
+<un>Laurentius Agricola, praeda Hispanorum.</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="44023">
+<nr>44023</nr>
+<correspondents>
+	<originator>Ludwig von Wittgenstein</originator>
+	<addressee>Bullinger.</addressee>
+</correspondents>
+<space_time>
+	<place>[Heidelberg]</place>
+	<date>1. April 1574</date>
+</space_time>
+<vo>Zürich StA, E II 348, 84.<f1>(nicht abgeschrieben!)<fe></vo>
+</content>
+</letter>

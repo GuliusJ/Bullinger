@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2081">
+<nr>2081</nr>
+<correspondents>
+	<originator fn=1>Andrea Coletto</originator>
+	<addressee>[die Pfarrer von Zürich]</addressee>
+	<note fn=1>Andrea Coletto (Colettus; Andreas Italus), aus Bologna, immatrikuliert am 31. Dezember 1542 in Basel als "Bononiensis" (Basel, Matrikel II 31, Nr. 33). Dort trat er in Kontakt zu Celio Secondo Curione. Der vorliegende Brief ist der einzig überlieferte von Coletto an Bullinger. - Lit.: ^#/+Rotondò,^#/- Anticristo 162f, Anm. 3.</note>
+</correspondents>
+<space_time>
+	<place>Imola</place>
+	<date>11. Februar 1545</date>
+	<note>Imola (Prov. Bologna), Italien.</note>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen und Unterstreichungen von Johann Heinrich Hottinger sowie einer Notiz von unbekannter Hand. - Mehrere fehlende Buchstaben und andere Abweichungen im Autograph lassen erkennen, dass der Schreiber das Lateinische nicht sehr gut beherrschte. Im Folgenden wurden fehlende Buchstaben in eckigen Klammern ergänzt und die gröbsten Schreibfehler im Apparat verzeichnet.^#/-<fe>: Zürich ZB, Ms F 47, 109 (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+^&xSchieß-Abschrift: "Ms 47, 109"; "chron. Verz." Ms F 47, 109"; keine Kopie in Ms S.^&x{
+<re>In [Imola] heißt es, dass das Konzil erst in zwei Jahren stattfinden wird. Der Antichrist will die Welt beherrschen, wird aber vom Herrn besiegt werden.
+-^#. Kürzlich hat ein etwa 17jähriger Knabe [...] die Predigt eines Franziskaners [...] über das Himmelreich unterbrochen und diesen der Lüge bezichtigt, woraufhin der Franziskaner seine Predigt abbrach. Der anwesende Vikar [Dominicus a Vaccis] des [katholischen] Bischofs [Nicolò Ridolfi] befahl, den Knaben gefangen zu nehmen; man wollte ihn zum Widerruf bewegen, was dieser aber ablehnte. Nachdem seine Eltern und Verwandten Fürsprache für ihn eingelegt hatten (er war adlig), wurde er entlassen. Der Mönch warf dem Knaben seine Jugend und mangelnde Kenntnis der Schrift vor, woraufhin dieser mit [Ps 8, 3 und Eph 3, 17] antwortete. Er wurde mit der Auflage entlassen, keinen Volksaufstand zu erregen, da ihm sonst die Galeere drohe.
+-^#. Unter einigen neu gewonnenen [evangelischen] Christen befindet sich auch Paulus Hubertus [Paolo Umberto?], Anwalt für Zivil- und jetzt auch Kirchenrecht; dieser grüßt und bittet um die Fürbitte der [Zürcher] für die Italiener.
+-^#. Über Coletto selbst: Wie er im vorigen Brief [nicht erhalten] schrieb, hat ihn sein Vater [...] [nach seiner Rückkehr aus Basel] gut aufgenommen; er selbst befindet sich in einer schwierigen Lage und bittet um öffentliches Gebet [der Zürcher]. Er wohnt in Imola bei dem oben erwähnten Anwalt.</re>
+<tx>Quid novi, modo brevibus accipite. Hic dicitur concilium hinc ad bien[n]ium translatum esse.<f1>Das Konzil war ausgeschrieben für den 15. März, wurde aber erst am 13. Dezember 1545 eröffnet; s. oben Nr. 2071, Anm. 24.<fe>
+Anticristus conatur, quantum potest, tenere imperium<fx>^#/+In der Vorlage^#/- inperium.<fe> in mundo; sed semel dominus spiritu oris sui interficiet eum.<f1>2Thess 2, 8.<fe>
+^$His diebus preteritis quidam puer<f1>Unbekannt.<fe>, an[n]orum natus forte 17, in contione in sum[m]o templo
+publice reprehendit Franciscanum quendam<f1>Unbekannt.<fe> socolista[rum]<f1>socolista: Angehöriger der (wegen ihres Tragens von Holzsandalen) sogenannten Soccolanti, der franziskanischen Einsiedlerbrüder von der regulären Observanz; s. RE VI 213.<fe>, qui conci[o]natus erat
+deum dare paradisum hominibus mediante operibus suis, et nisi haberent opera,
+non possent ingredi regnum cęlorum. At ille iuvenis in medio stando dixit:
+"Tu mentiris, tu mendatium maximum dicis, Franciscane", et sic populo dixit:
+"Nolite credere, quia vos decipit." Illico Franci[s]can[u]s iratus festinans
+des[c]endit de sug[g]estu et noluit finire concionem.
+Et in concione erat vicarius<f1>Domenico dalle Vacche (Dominicus a Vaccis; Vacchius), Generalvikar des Bischofs Nicolò Ridolfi; s. Memorie della chiesa cattedrale d'Imola, incominciando dal quarto secolo sino alla metà del secolo diciottesimo ..., hg. v. Andrea Ferri, Imola 2005 - Pubblicazioni dell'Archivio Diocesano di Imola, Serie Documenti e Studi - IV, S. 668 u.ö.<fe> antichristiani episcopi<f1>Bischof von Imola war seit 1533 Nicolò Ridolfi, seit 1543 zugleich auch Erzbischof von Florenz.<fe> et ius[si]t eum capere, in carceribus ponere.
+Et voluerunt eum cecinere palinodiam, et iuvenis ille noluit, et per aliquot dies sic stetit.
+Tandem, quia est nobilis, venerunt parentes, af[f]ines omnes, et voluerunt habere et habuerunt.
+Et monachus dicebat: "Tu non potes intelligere scripturas. Tu es puer. Nondum vidisti bibliam.
+Ego vero sum iam senex; totam vitam<fx>^#/+In der Vorlage^#/- vittam.<fe> meam in literis sacris consumpsi, et vis melius me intelligere? Quę ego dixi, sunt vera!"
+Puer tum dixit: "Fateor me puerum; sed scriptura dicit: "'Ex ore infarium<f1>Gemeint sind die Kinder.<fe> et lactentium perfecisti laudem' [Ps 8, 3].
+Deinde non est in ętate aut in vestitu sita intelligentia scripturarum<fx>^#/+Nach^#/- scripturarum ^#/+wiederholtes^#/- intelligentia.<fe>, sed in spiritu.
+Dominus habitat in cordibus hominum iuxta sententiam Pauli<f1>Eph 3, 17.<fe> et non in vestibus aut in sectis."
+Et sic dimiserunt eum hac conditione, ut ipse crederet, prout vel[l]et, sed ne ex[c]itaret tumultum
+in populo. Et [si] vult excitare, mittent ad triremem.<f1>Die in diesem Brief geschilderten Ereignisse finden eine Entsprechung in einer Notiz von Oswald Myconius nach einer Information von Thomas Erastus (Lübers) an einen Unbekannten vom 31. Dezember 1544 unter Berufung auf "Andreas Italus" (d.h. Andrea Coletto) (Zürich ZB, Ms F 80, 124; Teildruck in ^#/+Hottinger^#/- 9/5 200f; Daniel ^#/+Gerdes,^#/- Specimen Italiae reformatae, Leiden 1765, S. 70, der sich selbst auf Johann Heinrich Hottinger und Johann Georg Schelhorn bezieht): "Ex Bononia. Thomas Luberus Badensis [d.h. Thomas Erastus]. Imolae quidam monachus observantię (nemini praeter monachos in Italia concionari licet) praedicat regnum Christi propter merita nostra dari nobis. Ibi puer admodum parvus reprehendit eum dicens: 'Tu blasphemas deum et Christum, nam nobis tribuis, quod is sua passione et morte impetrat, et ex gratia sua et misericordia confert.' Respondit monachus iratus eum ignorare, quid dicat, necdum perdidicisse Pater noster, et iudicare velle has res! Cum diu ita contendisset, dixit ei: 'Apage te, ignave puer, qui vixdum cunabula reliquisti! Unde tu tibi sumis iudicium sacrarum literarum, quas doctissimi quique non satis explicare possunt? Nec credo posse legere.' Respondit puer: 'Legistine tu: 'Ex ore infantium et lactentium perfecisti laudem' [Ps 8, 3]? Quare igitur me depellis, et meum [ergänze: officium] non esse legere eas asseris?' Tandem detrusus est puer in carcerem, ubi adhuc vinctus detinetur [...]^&xAnte nativitatem domini captus est quidam Lutheranus, ut vocant, cum uxore. In festo Epiphanię statuerunt eum in locum eminentiorem, et concionator de suggestu populo, quae dixisset, enarravit in hunc ferme modum: Tu dixisti pontificem non habere authoritatem ligandi et absolvendi. Indulgentias esse nugas pontificias. Sanctos non debere invocari. Morem nostrum orandi non esse verum, nec deo acceptum. Non esse purgatorium, etc. Captivi petita venia dimissi sunt, etc.^&x{ Andreas Italus audivit. Ult[imo] decembr[is] anno 1544."<fe>
+^$Sunt pręterea nonnul[l]i alii, qui sunt novi christiani facti et boni, inter quos
+unus precipuus est, qui vocatur Paulus Hubertus<f1>Möglicherweise ein Mann namens Paolo Umberto (Uberto), der Rechtsanwalt war; s. unten Z. 35f. Näheres nicht ermittelt.<fe>, tutor causarum civilium, et factus est tutor
+causarum spiritualium modo, qui vos omnes in domino salutat et orat vos, ut oretis dominum pro nobis Italis.
+^$<vl>109v.</vl> De me autem s[c]iatis hoc: Patrem<f1>Nicht ermittelt.<fe> meum, ut in superioribus literis<f1>Nicht erhalten.<fe> scripsi,
+libenti animo me recepisse et aliquid bene sentire de religione. Spero in domino bene cessurum res meas.
+Orate dominum in publicis precationibus pro me, quia sum iam in tribulatione aliqua, quę me vexat multum.
+Orate patrem ęternum, ut fortunet prospere, et semper tamen sua voluntas sit facta in omnibus.
+Iam sum Imolae, civitas subdita papę,<f1>Imola war 1504 Teil des Kirchenstaats geworden.<fe> quę distat a Bononia<f1>Bologna.<fe> 20 miliaribus Italicis,<f1>Die Entfernung zwischen Bologna und Imola beträgt etwa 32 Kilometer. Das entspricht 20 Meilen zu je etwa 1,6 Kilometer.<fe>
+quę sunt 4 Germanica,<f1>Eine deutsche Meile entspricht ca. 8 Kilometern (oder zwei Wegstunden).<fe> et maneo cum isto causidico<f1>Bei Paolo Umberto.<fe>, de quo supra dixi, et scribo
+causa clientorum suorum, et cum eo in domino vivo et indies melius spero.
+^$Bene valete omnes<fx>^#/+In der Vorlage^#/- ommnes.<fe> in Christo.
+^$Imolae, 11. die februarii 1545.
+<un>Vester omnium minimus frater
+<un>Andreas Colettus Italus, qui fuit
+<un>Tiguri circa principium maii
+<un>in anno 1544, una cum
+<un>Thoma Lüberio<f1>Thomas Erastus.<fe> Germano.<f1>Über Andrea Colettos Aufenthalt in Zürich von Anfang Mai 1544 gibt es keine Information. Coletto und Thomas Erastus lernten sich wohl in den Jahren 1542 bis 1544 in Basel kennen (Erastus studierte dort Theologie; s. Basel, Matrikel II 30, Nr. 19); s. ^#/+Rotondò,^#/- aaO, S. 162f. Offensichtlich reisten sie zusammen Anfang Mai 1544 von Basel über Zürich nach Bologna, wo Erastus Medizin studierte.<fe>
+<lz>[Ohne Adresse.]
+</content>
+</letter>

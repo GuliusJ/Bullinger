@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2060">
+<nr>2060</nr>
+<correspondents>
+	<originator>[Ambrosius Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>1. Januar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 114 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 339, Nr. 1156.1</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 103^&x{
+<re>Konstanz erhielt ein Schreiben aus Ulm, in dem die Verlegung des Städtetags von Ulm nach Worms mitgeteilt und das baldige Eintreffen der Gesandten erbeten wird. Falls [Zürich] sich an die Städte wenden will, muss nun also nach Worms geschrieben werden, obwohl die Ulmer ein solches Schreiben sicherlich weiterleiten würden.</re>
+<tx>Freuntlicher, recht lieber herr und bruͦder, wisst, das uff gestert meinen
+herren ain brieff von denen von Ulm zuͦkommen<f1>Nicht ermittelt.<fe>, darinn sy den vorigen
+ausgeschribnen stetttag gen Ulm uff trium regum<f1>6. Januar.<fe> widerum abschreibend, mitt anhang,
+das sy den tag yetzund zuͦ Wormbs mittainander halten wellen,
+mitt pytt an meine herren, das sy ire gesandten<f1>Nicht wie ursprünglich geplant Thomas Blarer und Konrad Zwick, sondern Matthäus Molckenpur und Ludwig Kürnstaller; s. HBBW XIV 562, Anm. 7.<fe>, so sy uff den rychstag verordnet,
+furderlich<f1>ohne Verzug, alsbald.<fe> gen Wurms abfertigen, gemeldten tag helfen zuͦ volstrecken angends rychstags.<f1>Zum ursprünglich für den 24. November in Ulm geplanten und schließlich für den 6. Januar 1545 in Worms im Rahmen des ^&xam 15. Dezember 1544 eröffneten^&x{Reichstages einberufenen Städtetag s. HBBW XIV 550, Anm. 11. - Der Städtetag fand tatsächlich erst ab Februar 1545 statt, der Abschied datiert vom 4. August; s. PC III 561, Nr. 528; RTA JR XVI/2 1673-1685, Nr. 344.<fe>
+Wolt ich euch allso getreuwer guͦter mainung nit verhalten
+uff mein nechstig<f1>letztes. - Damit ist oben Nr. 2059 gemeint.<fe> schreiben, damitt man sich weyter habe zuͦrichten, wa man den
+erbarn stetten vyllicht uff den stettag gen Ulm hette schreiben wellen,<f1>Vgl. HBBW XIV, Nr. 2054, 139-161.<fe> das man dasselbig
+des orts halber endere, wiewol, wann das schreiben gen Ulm kommen were,
+wurdends doch die von Ulm mitt inen gen Wurmbs genommen haben, den stetten ze antwurten.^&xNicht ermittelt.-Nichts in StA, EA, RTA.^&x{
+^$Datum in yl, den 1. tag jenners anno 1545.
+^&x[ohne Unterschr.ift.]^&x{
+<lz>[Adresse auf der Rückseite:]<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe> An maister Hainr[ich] Bullinger, mei[nen] fuͤrgeliepten [herren] zuͦ Zuͤric[h].
+</content>
+</letter>

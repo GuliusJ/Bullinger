@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1763">
+<nr>1763</nr>
+<correspondents>
+	<originator>Martin Bucer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bonn</place>
+	<date>21. Juli [1543]</date>
+	<note>Das Jahr ergibt sich aus dem Aufenthalt Bucers in Bonn sowie aus dem unten Z. 8 erwähnten Datum des Landtags.^&xBucer in Bonn, 14. Dezember 1542 bis 25. August 1543, vgl. Rott, Corr. de Bucer, Liste 99. (undat. Brief
+107/108)^&x{</note>
+</space_time>
+<vo>Abschrift von Myconius' Hand<fx>^#/+Mit Randbemerkung, Dorsualnotiz und Unterstreichungen von späterer Hand.^#/-<fe>: Zürich ZB, Ms F 80, 117</vo>
+^&xK: Zürich ZB, Ms F 58, 699f; Ms S 53, 49; Straßburg BNU, Ms 673 (Th. B. 14), 87.^&x{
+<dr>Ungedruckt</dr>
+^&xErw.: Pollet, La corr. inédite 138; J. Rott, in: HBGesA II 280, Nr. 145; Mechtild Koehn, Martin Bucers Entwurf einer Reformation des Erzstiftes Köln 58^&x{
+<re>Dankt für Bullingers Brief. [Erzbischof Hermann von Wied] befürchtet Schlimmes von den Feinden Christi, vertraut aber auf Gott; in Köln wird besonders von Seiten des [Dom-]Kapitels
+gegen [Bucer und seine Mitarbeiter] agitiert. Am 23. Juli wird sich der Landtag zur Beratung der Reformation treffen, deren Entwurf vorliegt; im Falle einer Ablehnung droht dem Namen
+Christi Schmach; Deutschland beschleunigt durch gottloses Verhalten sein Schicksal; möge der Herr den Seinen beistehen! Grüße an Bullinger und seine Kollegen, auch von Philipp [Melanchthon] und [Johannes] Pistorius.</re>
+<tx>S[alutem] d[ico] in Christo domino, venerande et amantissime
+Bullingere. Magnas tibi gratias ago pro literis tuis.<f1>Bullingers Brief ist nicht erhalten; auf seine Weiterleitung nach Straßburg bezieht sich Myconius in seinem Brief vom 21. Juni (oben Nr. 1756, Z. 16f).<fe>
+^$Pridem expectavit senex<f1>Erzbischof Hermann von Wied.<fe> noster atrociora ab antichristo<f1>Gemeint ist hier wohl Papst Paul III.<fe> et ab aliis. In domino collocavit omnem fiduciam
+suam; hunc orabitis nobiscum, ne sinat dicere hostes sui nominis: "Ubi est Christus istorum?"<f1>Vgl. Ps 79 (Vulg. 78), 10; Ps 115 (Vulg. 113b), 2; Jo 2, 17.<fe> Colonia enim tota cum praecipuis ex capitulo et maiore parte furit contra nos incredibili furore non profligationem, sed extinctionem senis molientis.
+^$Conventus provincię habebitur 23. iulii<f1>Der Landtag war Anfang Juli ausgeschrieben worden und tagte vom 23.-26. Juli in Bonn; s. Mechtild ^#/+Köhn,^#/- Martin Bucers Entwurf einer Reformation des Erzstiftes Köln, Witten 1966. - Untersuchungen zur Kirchengeschichte 2, S. 57-59; vgl. auch Lenz II 152-156, Nr. 170, wo Bucer ähnliche Bedenken wie die folgenden äußert.<fe> ad concludendum de reformatione, cuius formula composita est.<f1>Der von Bucer unter Mithilfe von Melanchthon verfasste Reformationsentwurf ("Einfaltigs bedencken") ist ediert in BucerDS XI/1 147-432; zu den Erstdrucken s. unten Nr. 1789, Anm. 5.<fe> In quo conventu
+nisi dominus retineat in officio tres reliquos a capitulo
+ordines, comitum scilicet, equitum et oppidorum, magna erit
+sanctorum deiectio et contra nomen Christi insultatio apud
+impios.<f1>Zum Ausgang des Landtags s. unten Nr. 1773, 1-8 mit Anm. 3f.<fe> Bellis et Epicurismo Christique aperta oppugnatione Germania fatum suum accelerat. Dominus aut finem
+omnium adducat plaenamque suorum redemptionem faciat aut servet et augeat parvum suum gregem<f1>Vgl. Lk 12, 32.<fe>, ne silescat invocatio nominis eius.
+^$Commenda me, quęso, diligenter symmistis tuis omnibus,
+quos cum ecclesia et schola vestra Christus custodiat et
+benedicat. Amen. Idem vobis precaturd. Philippus<f1>Philipp Melan­chthon hielt sich bereits seit Anfang Mai in Bonn auf; vgl. sein Itinerar in MBW X, S. 529-531.<fe> et Pistorius<f1>Johannes Pistorius war gleichzeitig mit Melanchthon in Bonn eingetroffen; vgl. ^#/+Varrentrapp,^#/- Reformationsversuch 158, Anm. 4 und Reg.<fe>.
+^$Bonnę, 21. iulii.
+<un>M. Bucerus
+<un>tuus in domino.
+<lz>[Adresse auf der Rückseite:] Heinricho Bullingero.
+</content>
+</letter>

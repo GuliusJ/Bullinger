@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="919">
+<correspondents>
+	<originator>Schultheiss, Räte und Burger von Bern</originator>
+	<addressee>die Vorsteher der Zürcher Kirche</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>29. November 1536</date>
+</space_time>
+<print></print>
+<note>Original+a: Zürich StA, E II 337, zwischen f. 207 und 208 (Siegelspur)</note>
+<note>Regest: EA IV/1c 786 3</note>
+<statue>
+Die an der Basler Tagung (*vom 12.-14. November*)
+aufgesetzte Antwort an Luther wird als mit der (*Berner*) Disputation
+und mit den bisher getroffenen Vereinbarungen übereinstimmend befunden,
+doch soll sie nicht direkt an Luther gerichtet, sondern durch Capito und
+Bucer an ihn übermittelt werden; falls Luther das (*Erste
+Helvetische*) Bekenntnis nicht gutheisst, will man die eigene
+Lehre von den Sakramenten lateinisch und deutsch veröffentlichen.
+</statue>
+<content>
+Unnser fründtlichenn gru^%ss unnd was wir eerenn und gu^%ts vermogend
+zu^%vor.
+<p>Erwirdig, wollgelert, ersamm, wyss, innsonders lieb und gu^%t fründ, wir haben die antwurt, so durch die verordnetenn in der statt Basell jetz letst gehaltner der sacramenten halb tagleystung dem Luther
+zu^%zesenndenn innamen+1 gemeiner+2 unser eydgnoschafft kilchenn gestellt
+worden+3, mit unsern predicanten erduret+4 und die alls unnser loblichenn
+disputation+5, ouch vorberedtenn handlungen+6, under unns diser sachenn
+halb erloffenn+7, gantz glichförmig und gemäss etc. unns gevallenn
+lassenn, doch mit gedingen+8, das solliche antwurt von unns, den
+stettenn, nit dem
+Luther (der nützit+9 bisshar mit unns noch wir mit im gehandlett),
+sonnders dem doctor Capito unnd Bucero übersenndt unnd zu^%geschickt
+werde, solliche dem Luther (ob es inenn gevellig) ze behanndenn+10 unnd
+sines entlichenn+11 bescheids darüber zu^%erwartenn, unnd dass man
+bissdar+12 alle ding berüwenn+13 lasse, untzit+14 erstgemelte antwurt
+unnd entschluss von doctor Luther durch Capitone und Bucero+b erlanngt wirt,
+den wir dann vernemmenn. Unnd soverr+15 derselbig sich mit unser
+confession+16, die götlich, woll gegründt, häll unnd heitter ist, nit
+möchte verglichenn+17, wurdend wir verursachet, unsern verstandt, leer
+unnd halltung der sacramenten halb in lathinischer und tütscher zungenn
+der wällt fürstenn unnd herrenn anzezöugenn+18 unnd unns damit der
+warheytt unnd unschuld wider alle gedichter clegtenn+19, argwon unnd
+verdächt vor aller mencklichenn+20. Das habenn wir üch unanzöugt nit
+wellen lassen, den allmechtigen pittende, unns allen waren verstand sines
+willenns und halltung+21 desselbigenn gnädigklich ze verlichenn+22.</p>
+<p>Datum penultima novembris anno etc. 36.</p>
+<signature>
+Schulthes+23 unnd rhät und
+burger zu^% Bernn.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Den erwürdigenn, wollgelertenn,
+ersam(*enn*)+c, wysenn, unnsernn geliebten unn(*d*)+d gu^%ten fründenn,
+gmeinen vorstän(*dernn*)+e der kilchenn Zürich.
+</address>
+</content>
+<note>
+.us; +a >Beim vorliegenden Original handelt es sich um die auf
+<print>
+Wunsch der Berner Pfarrer nach Zürich gesandte Teilkopie einer
+gleichentags an Basel gerichteten Missive;
+vgl. oben Nr. 918, 9-18 mit Anm. 5.
+Erhalten ist auch eine Abschrift Bullingers (Zürich
+StA, E II 337, 207v.-208r.) sowie eine an die Berner Pfarrer
+adressierte Kopie (Bern StA, A V 1455, Nr. 71; von Gwalthers Hand).
++b>undeutlich korrigiert; vielleicht als  Bucer  oder  Bucern
+zu lesen.
+ ^^^S'c-e. >Rand abgeschnitten.
+</print>
+<address>
++1>im Namen.
++2>versammelter (Grimm IV/I 2 3182f).
++3>Siehe oben Nr. 918, Anm. 1.
++4>geprüft (SI XIII 1298f).
++5>Gemeint ist die Berner Disputation von 1528.
++6>bisherigen Absprachen (vgl. SI II 1406; VI 569).
++7>erfolgt (SI III 1134).
++8>unter der Bedingung (SI XIII 527-529).
++9>nichts.
++10>auszuhändigen.
++11>endgültigen (SI I 317).
++12>bis dann (SI XIII 1002).
++13>ruhen.
++14>bis dass (SI I 360).
++15>sofern.
++16>Zum Ersten Helvetischen Bekenntnis
+s. oben Nr. 737, Anm. 1.
++17>nicht vereinbaren lässt (SI II 601).
++18>bekanntzumachen.
++19>erdichteten Anklagen.
++20>vor jedermann (*rechtfertigen*).
++21>Einhaltung.
++22>verleihen.
++23>Hans von Erlach.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

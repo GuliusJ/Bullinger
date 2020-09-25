@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1409">
+<nr>1409</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>14. Juli [1540]</date>
+	<note>Da der Brief Nachrichten vom Tag zu Hagenau enthält, steht das Jahr zweifelsfrei fest.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 13 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 73<f1>Moeller, Zwick Nr. 224; (undat. B 734)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Am Tag [zu Hagenau] haben die Protestanten die Unterhändler auf das Augsburgische Bekenntnis verwiesen. Unterhändler sind
+die Bischöfe von Trier und Straßburg sowie Ludwig von Bayern und Pfalzgraf Ludwig. Da sie sich uneinig waren, ob zuerst über die
+Religion oder über die Restitution der Kirchengüter verhandelt werden solle, entschied König [Ferdinand], mit der
+Religionsfrage zu beginnen. Der päpstliche Gesandte [Morone] hat 50'000 [Dukaten] in Aussicht gestellt, um neue Mitglieder für
+das katholische Bündnis zu gewinnen. Zwick legt ein Verzeichnis der Teilnehmer des Tags bei.
+</re>
+<tx>Salus.
+^$In comitiis<f1>Zum Religionsgespräch in Hagenau s. oben Nr. 1399, Anm. 9.<fe> nichil etiamnum actum est aliud, nisi quod
+nostri confessionem Augustanam sive Saxonicam obtulerunt
+commissariis<f1>am 2. Juli; s. ADRG I/1 89-91; PC III 79.<fe>; nunc expectamus, quid sequuturum sit.
+^$Commissarii, quibus negotium commissum, sunt quatuor: Treverensis episcopus<f1>Johann III. von Metzenhausen,
+Erzbischof und Kurfürst von Trier.<fe> et Argentinensis<f1>Wilhelm von Honstein, Bischof von
+Straßburg.<fe>, dux Ludovicus Baioarius<f1>Ludwig X., Herzog von Bayern.<fe> et Ludovicus Palatinus<f1>Ludwig V., Kurfürst von der Pfalz.<fe>.
+^$Duobus ex commissariis principibus visum est omnino
+auspicandum negotium a restitutione spoliatorum, alteris
+duobus a religione<f1>Letzteres war die Meinung von Trier und Pfalz; vgl. ADRG I/1 53, 14-19.^&xARCEG III/1 148, 4-11.^&x{<fe>; quum igitur inter ipsos
+convenire non potuerit, ad regem<f1>Ferdinand I., römischer König.<fe> negotium est relatum, qui illorum sententiae
+subscripsit, qui a religione incipiendum putaverunt. De
+restitutione posteriore loco tractandum. Sic cor regis in
+manu domini<f1>Vgl. Spr 21, 1.<fe>.
+^$In fędere nobis adverso<f1>Gemeint ist der 1538 in Nürnberg gegründete katholische Gegenbund.<fe> extra episcopos nulli sunt
+principes praeter Baioarium et Brunsvicensem<f1>Heinrich IX.d. J., Herzog von Braun­schweig-Wolfenbüttel.<fe>; igitur
+legatus pontificis, qui hic agit<f1>Giovanni Morone; s. NBD V, S. LXXXIV­-LXXXVI.<fe>, pollicitus est papae nomine 50'000 in parata pecunia, ut foedus illud
+amplietur<f1>Papst Paul III. war dem Bund am 9. Juni beigetreten und hatte als Bundesbeitrag 50'000 Dukaten hinterlegt; s. ebd., bes. S. LXXVIII­-LXXX.<fe>; nam quosdam absterrent impensae.
+^$Qui congregati sint in comitiis, habes ex scheda literis addita<f1>Ein Bericht über die Ankunft der verschiedenen Delegationen ist in einer Abschrift von Bullingers
+Hand überliefert; s. Zürich StA, E II 347, 180f.<fe>. Hec tibi et reliquis bonis fratribus significare libuit, cum quibus bene vale, praecipue cum Pellicano.
+^$14. iulii.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, Tigurino antistiti, fratri suo charissimo.
+</content>
+</letter>

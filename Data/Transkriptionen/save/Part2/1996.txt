@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1996">
+<nr>1996</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>28. September 1544</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichung von späterer Hand.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 302 (Siegelabdruck)</vo>
+^&xKopien: Zürich ZB, Ms S 55, 192; Emden BGK, Hs. f. 37, Nr. 29^&x{
+<re>Albert [Hardenberg] war hier;<f1>Hardenberg verließ Zürich am 29. September (s. oben Nr. 1972, Anm. 1), reiste erst nach St. Germain (s. unten Nr. 1997), wurde am 2. Oktober von Vadian an Blarer empfohlen (Blarer BW II 303, Nr. 1129) und muß demzufolge wohl am 3. Oktober oder kurz danach in Konstanz eingetroffen sein. Vgl. ferner unten Nr. 2007, 5-21.<fe> Blarer soll seinen Bruder [Thomas] bitten, Hardenberg in der richtigen Abendmahlslehre zu festigen; dieser wird wohl von [Ambrosius] Blarer - dessen Glaube Bullinger nicht bezweifelt - in allem gestärkt werden; er soll mehrere Rufe von Fürsten und Städte erhalten haben; möge er Christi Reich verbreiten! Ein Friede soll in Frankreich geschlossen worden sein; möge es wahr sein, damit das Volk im bevorstehenden Winter Linderung erfahre!</re>
+<dra>[Gedruckt: Blarer BW II 301f, Nr. 1127.]</dra>
+^&x<tx>S[alutem] d[ico]. Venit nunc vir praestantissimusd. d[octor]
+Albertus, Lovaniensis theologus,<f1>Albert Hardenberg; s. oben Nr. 1972, Anm. 1.<fe> imo christianus doctor.<f1>Hardenberg verließ Zürich am 29. September (s. oben Nr. 1972, Anm. 1), reiste erst nach St. Germain (s. unten Nr. 1997), wurde am 2. Oktober von Vadian an Blarer empfohlen (Blarer BW II 303, Nr. 1129) und muß demzufolge wohl am 3. Oktober oder kurz danach in Konstanz eingetroffen sein. Vgl. ferner unten Nr. 2007, ***.<fe>
+Recte et pie sentit de omnibus capitibus religionis nostrae.
+Ora fratrem tuum<f1>Thomas Blarer.<fe>, clarissimum et dignissimum
+consulem, ut ipsum confirmet in vera et orthodoxa de coena
+domini sententia. De tua fide nihil dubito; scio te
+confirmaturum<f1>te confirmaturum, verstehen: a te confirmaturum.<fe> in omnibus diligentissime. Vocationes habet
+multas a multis principibus et urbibus.<f1>Vgl. oben Nr. 1977, Anm. 5.<fe> Spero illum Christi
+regnum strenue propagaturum. Dominus sit vobiscum!
+^$Es sol ein frid in Franckrych gemacht sin.<f1>Zum Frieden von Crépy s. oben Nr. 1992, Anm. 8.<fe> O wölt gott,
+damitt doch die armen lüt ettwas erliberung<f1>Erleichterung.<fe> hättend und uff
+den wintter nitt so jämerlich verbränt<f1>Schaden nehmen.<fe> und verhergt<f1>verheert.<fe> wurdent!
+^$Tiguri, 28. septembris 1544.
+<un>H. Bullingerus.
+<lz>Salutabis omnes tuos fidelissime.
+<lz>[Adresse auf der Rückseite:] Praestantissimo virod. Ambrosio Blaurero, fratri longe charissimo et
+incomparabili. Costantz.^&x{
+</content>
+</letter>

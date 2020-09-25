@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1341">
+<nr>1341</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>22. Dezember 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 155 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat in seiner vielfältigen Bedrängnis Bullingers Beistand vermißt; nun hat der Magistrat den Pfarrern auch noch eine neue
+Synodal- und Bannordnung aufoktroyiert, doch Bullingers jüngster Brief hat ihm wieder Hoffnung gemacht, und er möchte sein
+Urteil über das Vorgehen des Rates hören. Will später mehr schreiben.
+</re>
+<tx>S. Valde mihi doluit, quod tam diu visus es negligere me
+in tantis calamitatibus; hactenus enim divexatus sum ab
+academia, a senatu, a peste, a morbis. Et adhuc divexamur;
+nam conatur magistratus praescribere rationem synodi et
+excommunicationis nobis absque nobis, imo praescripsit<f1>Am 19. November hatten die beiden Räte eine neue Synodal- und
+Bannordnung eingeführt (Abschrift u. a. in Basel UB, Ms. Ki. Ar. 23a, 92v.-95v.). Die Räte erhielten erweiterte Befugnisse bei
+der Aufsicht über die Pfarrer und im Bannwesen; die gemischte Kommission der "Synodusherren" oder Kirchenverordneten wurde abgeschafft. Vgl. Myconius an Capito, 23. Dezember 1539 (Capito, Corr. 256f, Nr. 722); ders. an Vadian, 7. März 1540 (Vadian BW V 612f, Nr. 1104);
+^#/+Burckhardt-Biedermann^#/- 455f; Das Tagebuch des Johannes Gast, bearb. v. Paul Burckhardt, Basel 1945, S. 35.<fe>. Ea re
+nihil unquam gravius accidit, non quidem propter me, sed propter ecclesiam, quod is<f1>der Magistrat.<fe>
+vestigia papismi videtur sectari. Bone deus, quam sumus miseri discipuli magni praeceptoris! Verum postquam literas tuas
+postremas<f1>Nicht erhalten.<fe> accepi, redditus sum mihi et de te spero quemadmodum hactenus. Fac, ita perdures in finem usque.
+Quęso autem, ut per hunc tabellarium<f1>Unbekannt.<fe> scribas, quid tibi videatur, an senatui liceat, quod sibi sumpsit.
+^$Vale cum tuis in domino semper. Serius sum nactus tabellionem, quam­ob­rem pluribus scribere non valeo. Deinceps scribam plaenius.
+^$Basileę, raptim, 22. decembris anno 39.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, in domino suo.
+</content>
+</letter>

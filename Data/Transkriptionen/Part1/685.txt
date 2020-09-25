@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="685">
+<correspondents>
+	<originator>Peter Simler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Kappel</place>
+	<date>23. November 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 340, 71b (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Schickt Bullinger ein Kalb; die Kosten wird er ihm nennen, sobald er
+(*nach Zürich*) kommt.
+</statue>
+<content>
+Min früntlich diennst zu^%vor.
+<p>Ersamer, getrüwer, lieber her gfatter+1, uff üwer beger schick ich üch ein kalb. Han ich by einem nachpuren+2 erfragt. Gott wellt, es wär üch zu^% diser zit gelegenn. Ich han aber
+keiner zit künnen faren; dann+3,
+dwyl sy jetz seltzam+4
+sinnd, han ichs gschickt, so bald ichs han ankommen+5.
+Darumb nemmend min dienst imbesten an unnd sinnd damit gott bevolhenn.
+So ich zu^% üch komm, wil ich sagen, was es kost.</p>
+<p>Datum zinstags vor Cathrinen 1535.</p>
+<signature>
+Petrus Simler.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Dem wolgelerten, ersamen heren
+Meister Heinrich Bullinger, predicant Zürich, minen lieben heren und
+gfatter.
+</address>
+</content>
+<note>
++1>Zur verwandtschaftlichen Anrede vgl.
+<print>
+Bächtold,
+Bullinger vor dem Rat 208f, Anm. 62.
++2>Unbekannt.
++3>deshalb (SI XIII 37).
++4>rar, knapp (SI VII 872f).
++5>sobald ich es bekommen habe.
+</print>
+</note>
+</letter>

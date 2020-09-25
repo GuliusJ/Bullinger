@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2801">
+<brief>
+<id>17069</id>
+<nr>2801</nr> <from persid="ZwickKonrad"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-02-07"/>
+<ae>Konrad Zwick an [Bullinger]
+<fn>Der Empfänger ergibt sich aus der Erwähnung des Boten Jörg Regelin (Z. <qv>zl17069-1</qv>), dem Zwicks erster Brief dieses Tages anvertraut wurde (vgl. <qv>nr2800</qv>,<qv>zl17068-3</qv>), wie auch aus dem Inhalt des vorliegenden Briefs.<zfn>fn17069-2</zfn></fn></ae>
+<od>Konstanz, 7. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 364, 83f (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 87b </k></dr>
+<re><t>Nachdem Jörg Regelin am Morgen abgereist war, erhielt Zwick die Nachricht, dass Kaiser Karl V. den XIII Orten geschrieben hat, er wolle Augsburg, Straßburg, Konstanz und Lindau strafen, und erwarte deshalb von ihnen, dass sie diesen Städten nicht zu Hilfe kommen. Da dieses Schreiben erst nach der letzten Tagsatzung eingetroffen ist, sollte man versuchen, König Franz I. dazu zu bringen, die Eidgenossen anzuhalten, sich mit folgender Bitte an den Kaiser zu wenden: Er solle nichts gegen Konstanz unternehmen, da diese Stadt sich bisher allen Nachbarn gegenüber friedlich erwiesen hat, dies wohl auch künftig tun wird, er also von ihrer Seite nichts zu befürchten habe, und die Eidgenossen sich ihm gegenüber dafür erkenntlich zeigen werden.</t>
+<t>Falls man solch ein Schreiben nicht erlangen könnte, sollte man den Brief des Kaisers geheim halten, und die vier protestantischen Orte sollten einen etwaigen nachteiligen Beschluss der XIII Orte gegenüber Konstanz weder annehmen noch ablehnen, sondern diesen für ihre Räte zur Besprechung mitnehmen, gleichzeitig aber die anderen Orte darauf aufmerksam machen, dass die Angelegenheit besonders gut überdacht werden muss, da Konstanz eine strategisch wichtige Stadt für die Eidgenossenschaft darstellt und die Vier Orte ihr gegenüber [freundlich] gesinnt sind. Die anderen Orte wären dadurch nicht verärgert, und wenn der [kaiserliche] Gegner davon erführe, würde ihn dies davon abhalten, etwas gegen Konstanz zu unternehmen.</t>
+<t>Die Ratsgremien der Vier Orte sollten die Angelegenheit den jeweiligen Geheimen Räten zur Beratung anvertrauen, damit diese erneut [auf einer Tagsatzung] besprochen werden kann. Sollte es dann zu keiner gemeinsamen Stellungnahme [der Eidgenossen] kommen, so bliebe immerhin der Feind [über deren Absichten] im Unklaren.</t>
+<t>Zwick sucht mit allen Mitteln, eine Ergebung Konstanz' hinauszuzögern und den Konstanzer Rat mit irgendwelchen menschlichen Hoffnungen zu versehen, denn sonst würde dieser sich wohl wie die anderen Städte ebenfalls ergeben. Gott erbarme sich!</t></re>
+<text>
+<div>
+<p>L[ieber] herr und fruind,<zzl>zl17069-1A</zzl><zzl>zl17069-2A</zzl> nachdem Jerg Regelin hütt morgens hinweg gangen,
+<fn>Siehe dazu oben <qv>fn17069-2</qv>.</fn><zzl>zl17069-1E</zzl> kumpt mir kuntschafft, das der kaiser
+<fn>Karl V. - Es handelt sich um den Brief des Kaisers an die XIII Orte vom 18. Januar, der am Abend des 28. Januars in Baden eingetroffen war; s. <a>EA</a> IV/1d 763 zu a. Am 7. Februar informierte der St. Galler Seckelmeister, Ambrosius Eigen, den Geheimen Rat von Konstanz über dieses Schreiben (s. aaO, S. 765) entsprechend den hier vorgebrachten Aussagen Zwicks. - Man muss sich jedoch fragen, ob die von Eigen vermittelte Information tatsächlich im kaiserlichen Schreiben enthalten war, und ob der in aaO, 781f zu h und l, abgedruckte und vermutlich irrtümlich auf den 13. Januar datierte Brief des Kaisers an die XIII Orte nicht mit dem hier erwähnten Schreiben identisch ist. Dass in der Veröffentlichung dieses angeblich vom 13. Januar datierten Schreibens keine Stelle den Aussagen Eigens bzw. Zwicks entspricht, kann wie folgt erklärt werden: 1) Die entsprechende Stelle wurde in der in <a>EA</a> IVd/1, 781f, erfolgten Teilveröffentlichung nicht berücksichtigt; 2) Die durch Eigen übermittelten Informationen waren falsch.<zfn>fn17069-3</zfn></fn> den 13 ortten geschriben, wie er willens sye, Augspurg, Straßburg, Costentz und Lindo z{uo} straffen, mit beger, das sy sich deren stett nichts beladen wellend, etc. Wo nun solich schriben uff dem nechsten tag z{uo} Baden
+<fn>Gemeint ist die vergangene ("nechste") Tagsatzung zu Baden, die am 10. Januar begonnen hatte; s. <qv>nr2737</qv>, <qv>fn17006-1</qv>.</fn> nit gwesen und erst sydert
+<fn>seither.</fn> kummen were, geduchte mich
+<fn>geduchte mich: schiene mir.</fn>, es were g{uo}t, wo man die practick
+<fn>geheime Verhandlung; s. <a>SI</a> V 568.</fn> anrichten kuindt
+<fn>könnte.</fn>, das der Frantzoß
+<fn>Franz I.</fn> by den Aidgnosen anhielte, das sy die kay[serlich] may[estat] bettent
+<fn>bäten.</fn>, diewyl sy nit anderst wisstent, dann
+<fn>als.</fn> das die von Costentz sich bißher gegen allen nachpuren fridlich gehalten und dasselbig on zwyfel hinfur ouch th{uo}n wurdent, und ir may[estat] sich irenthalb nit z{uo} befaren hette
+<fn>sich irenthalb nit z{uo} befaren hette: keine Angst vor ihnen haben müsste.</fn>, das dan die k. may. noch zur zit
+<fn>zur zit: derzeit.</fn> gegen der statt Costentz still ston und nichts beschwerlichs gegen ir furnemmen wellte; das weltent sy, etc., verdienen
+<fn>vergelten.</fn>. Ain solliche mainung
+<fn>Antrag.</fn> m{oe}cht wol erschießen
+<fn>nützen; s. <a>SI</a> VIII 1391-1393.</fn>.<zzl>zl17069-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17069-3A</zzl>Mag aber ouch ain sollichs nit erlangt werden, so were doch g{uo}t, das es haimlich blib und die evangelischen {oe}rtter
+<fn>Basel, Bern, Schaffhausen und Zürich.</fn> der anderen Aidgnosen schluss
+<fn>Beschluss.</fn>, der wider uns sin wurde, nit bewilligetent noch abschl{ue}gent, sonder annemment hinder sich z{uo} bringen
+<fn>annemment hinder sich z{uo} bringen: mitnehmen würden, um ihn ihren jeweiligen Räten zu unterbreiten.</fn> und baß
+<fn>besser.</fn> z{uo} berathschlagen, mit anzaigung, diewyl sy wissent, waß gemainer Aidgnoschafft an diser statt
+<fn>Konstanz.</fn> gelegen und wie ire gmainden der statt halb gesinnet, so werde irer herren notturfft erforderen, den sachen wol nachz{uo}gedencken. Solichs kuindtent die Aidgnosen nit zürnnen, und so es ußkemme, wurde der gegentail
+<fn>(kaiserliche) Gegner.</fn> gewißlich dester minder
+<fn>dester minder: umso weniger.</fn> ettwas furnemmen.<zzl>zl17069-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17069-4A</zzl>In den r{ae}ten
+<fn>den Ratsgremien der jeweiligen Orte.</fn> kuindte man <vl>84</vl> die sach also anrichten, das man die beratschlagung ettlichen als
+<fn>wie.</fn> den gehaimen bevelhe uff ain wideranbringen
+<fn>ein erneutes Vorbringen (an einer künftigen Tagsatzung).</fn>. Wurdent dann kaine g{uo}te mittel gefunden, so blib doch die sach in gehaim, und wisstent die find nit, weß man bedacht were.<zzl>zl17069-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17069-5A</zzl>Ach gott, ich wolt gern weg s{uo}chen, wie die sach verzogen
+<fn>verzögert. - Angesprochen ist hier die Übergabe von Konstanz an den Kaiser.</fn> werden m{oe}cht, und das mine hernn nit alles menschlichen trosts ber{uo}bt wurdent, dann sunst sorg ich, wir werdent th{uo}n wie ander.<zzl>zl17069-5E</zzl> Gott erbarm sich unser umb Christi Iesum willen. Datum 7. februarii 47.</p>
+<un>Conrat Zwick.</un>
+<lz/>
+<p>[Ohne Adresse.]
+<fa><i>Darunter Bullingers Empfangsvermerk:</i> 7. februarii.<zfn>fn17069-1</zfn></fa></p>
+</div>
+</text>
+</brief>

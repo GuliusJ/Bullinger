@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1305">
+<nr>1305</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>30. August [1539]</date>
+	<note>Das Jahr ergibt sich u. a. aus dem Hinweis auf die Drucklegung von HBBibl I 113 (s. unten Z. 19f).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 95 (Siegelspur)</vo>
+<dr>Teildruck: CO X/2 362, Nr. 179</dr>
+<re>Hofft, er sei inzwischen gesund aus dem Bad zurückgekehrt. Bittet um Bericht über den Konflikt mit der Universität und
+besonders über die Rolle, welche die Straßburger dabei spielen. Ist froh, daß aus dem Nürnberger Religionsgespräch nichts wird,
+da eine Einigung nur auf Kosten der Wahrheit möglich wäre. Dankt für alles, was er für Rudolf [Gwalther] tat. Zur
+Veröffentlichung von Vadians ["Orthodoxa et erudita ... epistola"] und Vigilius' fünf Büchern ["Contra Eutychen"] wurde er durch das Interesse von
+Myconius und Grynäus, aber auch durch die Vorgänge in Ulm bewogen; jene Schwarmgeister, die Christi Fleisch verflüchtigen wollen, sind nun entlarvt. Gruß.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Spero te tandem e thermis illis rediisse<f1>Myconius hielt sich in Wildbad im Schwarzwald auf, wie aus seinem Brief an Erhard
+Schnepf vom 1. September hervorgeht (s. Zürich ZB, Ms F 81, 364a); nach Basel kehrte er erst am 19. September zurück (s. unten Nr. 1310, 1).<fe>, utinam sanum et per omnia recte valentem. Nos hic omnes valemus recte, domino sit laus.
+^$De concertatione illa universitatensi<f1>Vgl. zuletzt oben Nr. 1284, 9-11.<fe> nihildum certi habuimus; te hactenus expectavi. Oro itaque, ut negotium totum mihi perscribas,
+praesertim quid Argentoratenses egerint et quorum partes iuverint, praeterea, ut nunc habeat res. Varii rumores sparguntur.
+^$Conventum Nerobergensem gaudeo in cineres abiisse aut
+incubuisse in spongiam<f1>Kaiser Karl V. hatte den vermittelnden Kurfürsten am 5. Juli mitgeteilt, das geplante Religionsgespräch
+könne vorläufig nicht stattfinden; vgl. unten Nr. 1310, 14-16. - Zur Redensart vgl. Sueton, Augustus, 85, 2.<fe>. Ita enim meticulosos vidi nostrorum
+quosdam<f1>Vgl. oben Nr. 1278, 8-10 mit Anm. 5.<fe>, ut non potuerim non vereri compositionem parum
+integram. Satius est autem in cruce haerere et veritatem
+puram a partibus nostris habere quam veritate obscurata
+agere in pace. Adversa pars non est talis, cum qua possit
+componi. Neque illi nobiscum concinent. Frustra pollicentur<fx>^#/+Endung undeutlich korrigiert.^#/-<fe>
+quidam sibi nescio quam resipiscentiam. Pergamus ergo in
+tramite veritatis et fidei syncerae, eventum permittamus
+ipsi deo orantes, ut confirmet in nobis gratiam suam.
+^$Praeterea non habeo, quod scribam, nisi quod maximas tibi
+propter Rodolphum<f1>Rudolf Gwalther.<fe> gratias ago. Mire enim praedicat ille tuam humanitatem et beneficia in se collata. Dominus sit merces tua.
+^$Epistolam Vadiani<f1>Teildruck: HBBW VI, Nr. 894 (vgl. oben Nr. 1257, Anm. 24).<fe> curavi praelo excudi<f1>HBBibl I 113; Widmungsvorrede: oben Nr. 1283.<fe>;
+adiunxi eiusdem argumenti 5 libros Vigilii<f1>Vgl. oben Nr. 1270, Anm. 4.<fe>. Debent autem tibi et Grynaeo studiosi acceptum ferre, quod illa fruuntur
+epistola. Quando enim illa ita placuit, ut ipsam vobis describi curaretis<f1>Vgl. oben Nr. 1257, 34-44.<fe>, iniquum
+videbatur illam paucis tantum communicare. Sed et Ulmense illud ulcus<f1>In Ulm war es zu heftigen Kontroversen über die Christologie Schwenckfelds gekommen; Bullinger hatte
+vor allem durch Briefe von Martin Frecht Kenntnis davon erhalten (vgl. besonders HBBW VIII, Nr. 1149. 1154. 1161. 1186. 1200). Vgl. auch den undatierten Bericht Euanders an Pellikan in Zürich ZB, Ms F 47, 248.<fe> videbatur tale emplastrum requirere.
+Quod si phanatici illi spiritus nihilominus perrexerint
+carnem Christi per alembicum<f1>Oberteil eines Destillationsapparates; s. Mittellateinisches Wörterbuch bis zum
+ausgehenden 13. Jahrhundert, redigiert von Otto Prinz unter Mitarbeit von Johannes Schneider, Bd. I, München 1967, Sp.
+442.<fe> distillare, stultitia tamen eorum omnibus piis erit evidens.
+^$Vale cum tota familia.
+^$Tiguri, 30. augusti.
+^$Dominum Grynaeum diligenter salutabis.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Osvaldo Myconio, Basileiensis ec­clesiae antistiti vigilantissimo, suo in domino colendo fratri.
+</content>
+</letter>

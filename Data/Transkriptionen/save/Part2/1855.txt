@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1855">
+<nr>1855</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>23. Februar 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 362, 49 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 55^&x{
+<dr>Ungedruckt</dr>
+<re>[Peter] Kunz ist gestorben, und von den verbleibenden Exponenten der lutherischen Partei [Simon Sulzer und Beat Gering] ist nicht mehr viel zu befürchten; im Falle einer Neuberufung könnte - mit Unterstützung durch [die Zürcher] - sogar [ein Vertreter der zwinglischen Richtung] zum Zuge kommen; jedenfalls wird der Kampf nach dem Tod von Kunz einfacher. Bittet, den jungen Briefüberbringer, der bald zum Diakon berufen werden könnte, in der rechten Lehre zu bestärken. Gruß.
+</re>
+<tx>Gratia et pax etc.
+^$Ut res humane caduce sunt et mortales, factum est, ut praesidium carnale multorum debitum universe carnis solverit<f1>Als formelhafte Redewendung seit dem Mittelalter belegt; s. etwa Gesta Innocentii III., MPL CCXIV, Sp. XXXIX u.a.<fe>, Contzenus scilicet.<f1>Peter Kunz war am 11. Februar gestorben; s. oben Nr. 1841, Anm. 66.<fe> Post hac non valde pertimescendi duo superstites Lutherane factionis;<f1>Simon Sulzer und Beat Gering; zu ihrer fragwürdigen Charakterisierung als Lutheraner s. Amy Nelson ^#/+Burnett,^#/- The Myth of the Swiss Lutherans: Martin Bucer and the Eucharistic Controversy in Bern, in: Zwa 32, 2005, 45-70.<fe> nam incertum est, num illis adiiciendus sit tercius, imo nobis non minor spes est de veritatis pio patrono, quare et vestrum erit vestras admovere manus auxiliatrices, ut ecclesia nostra ab isto onere levetur. Quod si vero nullus adiungetur, nihilominus maiori et spe et fructu pugnabimus; nam Contzeni importunitati concedendum erat plurimum, ne simul totum edificium destrueretur.
+^$Adolescens hic<f1>Unbekannt.<fe>, qui has meas ad te perfert litteras, a nobis anno elapso est receptus sicque vixit, ut forsitan<fx>^#/+Am Wortende ein gestrichener Buchstabe.^#/-<fe> propediem ad munus diaconatus vocabitur. Tu moneto, ne aliam quam sinceram et piam doctrinam et claram professionem imitetur, quae<fx>^#/+Vor^#/- quae ^#/+gestrichenes^#/- quam eam.<fe> vulgata hactenus in ecclesiis Helveticis.
+^$Saluta meo nomine fratres omnes.
+^$Datum Berne, 23. februarii 1544.
+<un>Erasmus Ritter
+<un>ex animo tuus.
+<lz>[Adresse auf der Rückseite:] Et pio et docto viro domino Henrichio Bullingero<fx>^#/+Vor^#/- Bullingero ^#/+gestrichenes^#/- Bl.<fe>, ecclesie Tigurine antistiti, fratri charissimo.
+</content>
+</letter>

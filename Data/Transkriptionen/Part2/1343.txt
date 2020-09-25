@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1343">
+<nr>1343</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>1. Januar [1540]</date>
+	<note>Da im Brief von den Gutachten zum Streit um den Doktorentitel die Rede ist (s. unten Z. 1-3 mit Anm. 2-4), gehört er zweifelsfrei in dieses Jahr.</note>
+</space_time>
+<vo>Autograph<fx>^#/+Abschrift von Bullingers Hand: Zürich StA, E II 342, 97.^#/-^&x (Vorlage für E. Egli)^&x{<fe>: Zürich StA, E II 337, 311 (Siegelspur)</vo>
+^&x Kopien: Zürich ZB, Ms S 47, 110 und 111 (nach Orig.
+u. Abschr. HB's) ^&x{
+<dr>Zusammenfassende Übersetzung: F[riedrich] ^#/+R[udolf],^#/- Simon Grynaeus und die Zürcher Kirche. Ein unbekannter Briefwechsel, in: Neue Zürcher Zeitung, 14. Dezember 1943, Nr. 2014</dr>
+^&xZit.: Corr. des réformateurs VII 234; Amerbach, Korr. V 279.^&x{
+<re>Steht vor einem Dilemma, da ihm die Zürcher [von der Annahme des Doktorgrades] abraten, während ihn die Berner
+und Straßburger zum Nachgeben drängen; er wird zwar den Titel auf keinen Fall annehmen, wäre aber eventuell bereit,
+sich durch Handauflegung zum kirchlichen Lehramt beauftragen zu lassen, und bittet Bullinger, dies auch seinen Kollegen
+mitzuteilen. Dankt für ihren Trost und ihre Hilfszusage. Sein Vorschlag soll vertraulich bleiben, da er diesen Kompromiß lieber vermeiden möchte.
+</re>
+<tx>Miser sum iam bis; non solum enim non possum adversariis iam, sed nec amicis satisfacere. Quam valde vos me inde
+revocatis<f1>Die Zürcher Theologen hatten Grynäus geraten, die Annahme des Doktorgrades weiterhin zu verweigern; s. HBBW IX,
+Nr. 1338.<fe>, tam valde me eo impellunt utrique Bernates<f1>Die Stellungnahme der Berner ist nicht erhalten.<fe> et
+Argentinenses fratres<f1>Im Namen der Straßburger Pfarrer hatte Bedrot am 12. Dezember Myconius, Bertschi und Gast dazu
+aufgerufen, Grynäus umzustimmen; s. Zürich ZB, Ms F 80, 34r.-36v.<fe>. Quid faciam, Bullingere? Nihil,
+arbitror, omnino, ne iam etiam vos incipiam ledere. Tamen via
+opus est et faciendum aliquid est. Utinam sint iudicia
+ecclesię sic constituta, qualiter olim fuerunt; liceret
+sine rixa, si quis error ortus est, communi bonorum
+sententia rem explicare. Nunc ait alius, alius negat,
+cęteri astant dubii, quorsum res evadat<fx>^#/+vielleicht als ^#/-evadet ^#/+zu lesen.^#/-<fe>, boni non sine
+dolore, mali non sine lętitia. Ipse si meo<f1>zu ergänzen ist iudicio, arbitrio o. ä.<fe> in hac
+re solus unusque permitto, vides, quomodo me gravem<f1>Vgl. HBBW IX, S. 254, 9-15.<fe>. Sed
+utcunque est res, hunc titulum papisticum et larvam hanc
+certum est nullo pacto admittere. Ut aliquid autem faciam
+ac ut ne dicar solus ego esse, qui ne authoritate quidem
+totius reipublicae moveatur, ne synodo et coetu ec­clesiae, manuum impositione, ritu moreque apostolico<f1>Bullinger hatte
+bereits 1535 im gleichen Zusammenhang auf die apostolische Weise der Beauftragung zum kirchlichen Dienst hingewiesen; s. HBBW V, S. 59f, 21-48.<fe>
+notari designarique non papae, sed ecclesiae doctor patiar,
+idque non ullius doctoris aut papae aut episcopi, sed
+pastoris nostri authoritate. Atque id est, quod permittere
+de me bonis volo, non amplius. Qua re si potest hęc tolli
+dissentio, bene est; si non potest, sat scio me authorem
+dissentionis non esse, sed sathanae titulos<fx>^#/+Endungen undeutlich korrigiert (aus^#/- sathanam titulis^#/+?).^#/-<fe>.
+Hęc velim tibi et per te fratribus omnibus significare, ut si consilium hoc probetis, via inventa videatur, quomodo consuli
+rebus possit, et ea quidem recta et legitima et ab omni ostentatione et pompa infelici aliena.
+^$Cęterum honestissimę omnium vestrum consolationi et
+invitationi<f1>Vgl. besonders HBBW IX, S. 274, 98-101.<fe> maximas habeo gratias. Agnosco genuinam in vobis
+charitatem et spiritum Christi. Dominus nos in sua sancta
+voluntate conservet. Amen.
+<un>S. Grynęus vester frater in domino.
+^$Valete.
+^$Calendis ianuarii.
+^$De hoc meo consilio nulli dicetis; vellem enim et hanc necessitatem effugere, si possem.
+<lz>[Adresse auf der Rückseite:] H[enrico] Bulingero,
+fratri charissimo in domino.
+</content>
+</letter>

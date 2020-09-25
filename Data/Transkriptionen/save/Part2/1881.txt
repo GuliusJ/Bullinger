@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1881">
+<nr>1881</nr>
+<correspondents>
+	<originator>Philipp Melanchthon</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Wittenberg]</place>
+	<date>25. März [1544]</date>
+	<note>Die Datumskorrektur von der geschriebenen Jahreszahl 1545 auf 1544 ergibt sich u.a. daraus, dass Bullinger diesen Brief am 22. Juni 1544 beantwortete und ihn
+bereits am 19. April 1544 fast wortwörtlich Vadian mitteilte
+(unten Nr. 1896).</note>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Hervorhebungen am Rande von späterer Hand. - Abschrift von der Hand Bullingers in seinem Brief an Vadian vom 19. April 1544 (siehe unten Nr. 1896): St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 263. Bullingers Abschrift wird im Folgenden mit der Sigle "A" bezeichnet. Eine weitere Abschrift gab Bullinger in einem verlorenen Brief an Ambrosius Blarer; s. unten Nr. 1899, 4f. 11.^#/-<fe>: Zürich StA, E II 338, 1404r.-1405v. (Siegelspur)</vo>
+^&xK: Paris BSG, Ms 1456 (Ep. Haeret. III), 2r.-3v;
+[danach:] Bern BB Cod. A 46, 2-4, Nr. 3 (beide K datieren 1545); Zürich
+ZB, Ms S 54, 97; Zit.: Ambrosius Wolf [Christoph
+Hardesheim/Herdesianus]: De Confessione Augustana ... et de
+Concordia ... II, 1579, 73; Acta concordiae, Amberg 1594,
+160f (25. 3. 1546!); ^#/+Roth,^#/- Ref. in Siebenbürgen I 138,
+Anm. 35; WA Briefe X, 385. 387.^&x{
+<dr>Gedruckt: Scripta quaedam magni illius Philippi Melanthonis, viri optimi ac doctissimi, sancta, felici ac aeterna memoria dignissimi, quibus manifestissime declaravit, quid de sacra domini coena senserit; cuius exemplum quilibet pius citra terrorem sequi poterit [Klausenburg, Kaspar Helth (Heltai)<f1>Von diesem Druck ist nur ein einziges, unvollständiges, in der Bibliothek der Ungarischen Akademie der Wissenschaften aufbewahrtes Exemplar erhalten, in dem nur der erste Druckbogen A und nur das erste Drittel dieses Briefes erhalten ist; s. Béla ^#/+Holl,^#/- Ein unbekannter Klausenburger Melanchthon-Druck aus dem XVI. Jahrhundert, in: Magyar Könyvesház 1966, S. 377f; Alte Siebenbürgische Drucke (16. Jh.), hg. v. Gedeon Borsa, Köln-Weimar-Wien 1996, S. 120, Nr. 113. - Wir danken Herrn Dr. Jan-Andrea Bernhard für den freundlichen Hinweis.^#/-<fe>, um 1560-1561, vielleicht schon um 1550]<f1>Dieser Druck könnte bereits um 1550 erschienen sein, als Helth in seiner Offizin die "Confessio Martini Buceri de coena domini ..." druckte, um damit seiner Auffassung vom Abendmahl mehr Gewicht zu verleihen; s. Reinhard ^#/+Bodenmann,^#/- Martin Bucer und der adelige Ungar Joseph Macarius, in: Schweizer Kirchengeschichte neu reflektiert. FS zum 65. Geburtstag von Prof. Dr. Rudolf Dellsperger, hg. v. Martin Sallmann, S. ***.<fe>;
+Johannes ^#/+Pincier,^#/- Antidotum adversus enthusiastarum ... cavillos et calumnias, Basel, Johannes Oporin, 1561 (Teildruck),
+S. 182f; Joachim ^#/+Curaeus,^#/- Exegesis ... controversiae de sacra coena ..., Heidelberg, Johann Mayer, 1575, S. 344-346; MO V 342f, Nr. 2893 (Teildruck); Vadian BW VI 305f (nach Bullingers Abschrift); Teilübersetzung: ^#/+Pestalozzi^#/- 219; Regest: MBW, Regesten IV, Nr. 3487<f1>Zu weiteren Drucken s. Wilhelm Hammer,
+Die Melanchthonforschung im Wandel der Jahrhunderte, Bd. I, Gütersloh 1967. - QFRG 35, S. 206f, Nr. 275; Bd. III, Gütersloh 1981. - QFRG 49, S. 126, Nr. *275.<fe></dr>
+<re>Hat Bullingers Johanneskommentar fast ganz durchgelesen, auch weil sein Freund [Kaspar Cruciger] gleichfalls das Johannesevangelium kommentiert und dabei seinen Rat sucht; Bullingers [Johannes-] ^@+kommentar ist der wahren Kirche angemessen, heilsam und bleibt dicht am vorgegebenen Inhalt; fordert
+Bullinger auf, sich weiterhin mit frommen, nützlichen und gemäßigten Veröffentlichungen um die Kirche verdient zu machen. Sah in [Bullingers Kommentar zum] Matthäusevangelium die Stelle über die Monogamie [zu Mt 5, 27-32; 19, 3-12]; der Dialog [Johannes Lenings] zur Verteidigung der Polygamie
+["Dialogus ... ob es ... recht sei, mehr dann eyn eeweib zugleich zu haben", auch: "Dialogus Neobuli"] hätte nicht publiziert werden dürfen; Melanchthon hatte vor der Herausgabe bei den Zuständigen seine Meinung dazu vorgetragen; angebracht wäre Schweigen über dergleichen Fehler bei
+ansonsten guten Menschen. Konsens und geistige Verbundenheit dürfen sich nicht zerstören lassen; will die Verbindung zu Bullinger festigen und bittet um Antwort. Gruß an [Konrad] Pellikan, dessen Brief an Markus [Crodel] er zufällig sah und auffing, um die Situation nicht zu verschlimmern. Dank
+an den Drucker [Christoph Froschauer] für die übersandte Bibel ["Biblia
+sacrosancta"].
+</re>
+<tx>S[alutem] d[ico].
+^$Inspexi pleraque, quae edidisti, ac degustavi.
+Sed enarrationem Iohannis<f1>Gemeint ist Bullingers Johanneskommentar (HBBibl I 153), den Bullinger am 21. August 1543 beendet (s. HBD 32, 6) und kurz vor 28. August 1543 an Melanchthon gesandt hatte; s. HBBW XIII, Nr. 1779.<fe> fere totam perlegi. Nam cum de
+multis sententiis mecum sepe conferat quidam meus amicus,
+qui hic Iohannem interpretatur,<f1>Kaspar ^#/+Cruciger,^#/- In evangelium Iohannis apostoli enarratio, Straßburg, Krafft Müller, 1546 (VD 16 C 5855; ZV 20840).
+<fe> subinde ad tuum scriptum
+redeo te quoque consulens. Amo enim ecclesiam et sepe
+sensi iudicia ecclesiae magnifacienda esse. Ideo et
+veterum et recentium sententias confero, ut simplicem,
+nativam, propriam ecclesiae doctrinam et ipse teneam et
+aliis tradere possim. Ac sepe testatus sum placere mihi
+enarrationem tuam, et quod vera dicit et
+<gr>sýmfvna</gr> verae ecclesiae dei ac salutaria. Multi<fx>^#/+Vor^#/- Multi ^#/+gestrichenes^#/- Alii.<fe>
+interpretes alienorum operum ita expatiantur ac deerrant a
+suis autoribus, ut nihil dicant aut pauca
+<gr>pròw ^%)/epow</gr><f1>Adagia, 1, 5, 45 (ASD II/1 518-520, Nr. 445).<fe>. Tua enarratio immoratur proposito
+argumento et id illustrat. Quare non solum pro codice misso
+meo nomine tibi<fx>tibi ^#/+fehlt in A.^#/-<fe> gratias ago, sed etiam publico nomine pro <vl>1404v.</vl>
+editione teque, quod facis, adhor[tor]<fx>^#/+Wortende im engen Einband nicht lesbar.^#/-<fe>, ut de ecclesia bene
+mereri pergas edendis piis<fx>^#/+Vor^#/- piis ^#/+gestrichenes^#/- uti-.<fe>, utilibus et moderatis
+lucubrationibus.
+^$Vidi in Mattheo<f1>Gemeint ist Bullingers Kommentar zum Matthäusevangelium (HBBibl I 144; s. MBW, Regesten IV, Nr. 3487.2).<fe> locum
+<gr>perì monogamíaw</gr>,<f1>Melanchthon bezieht sich hier wohl auf Bullingers Exkurs auf f. 179r.-v.<fe> et defendi eam publicis scriptis<f1>Siehe etwa Philipp ^#/+Melanchthon,^#/- Annotationes ... in evangelium Matthaei et Ioannis ... editae, Basel, Valentin Curio, 1523 (VD 16 M 2488), Bl. 39r. (zu Mt. 19); s. auch ^#/+Rockwell^#/- 228.<fe>.
+Utile est et pium. Et vellem dialogum excusantem
+<gr>polygamían</gr><f1>Gemeint ist der sogenannte "Dialogus Neobuli" von Johannes Lening (Huldrichus Neobulus) aus dem Jahr 1541. Ambrosius Blarer hatte Bullinger das Werk mit Schreiben vom 14. Dezember 1541 zugesandt; s. HBBW XI 359, 44 (ebd. 353, 46 mit Anm. 16).<fe> non esse editum
+ac meum iudicium ante
+editionem illis ipsis dixi<f1>Melanchthon hatte auf dem Regensburger Reichstag 1541 das Manuskript des "Dialogus" gesehen und Landgraf Philipp von Hessen von der Veröffentlichung abgeraten, da diese nur Gegenschriften hervorrufen würde; s. seinen Brief an Landgraf Philipp von Hessen
+vom 5. April 1542 (MO IV 797f, Nr. 2469f; MBW, Regesten III, Nr. 2931; nach freundlicher Auskunft der Melanchthon-Forschungsstelle Heidelberg).<fe>, apud quos natus est. Nihil<fx>^#/+Vor^#/- Nihil ^#/+ein gestrichener Wortanfang.^#/-<fe> enim
+proderat<fx>^#/+Vor^#/- proderat ^#/+ein gestrichener Wortansatz.^#/-<fe> eam camarinam moveri<f1>Adagia, 1, 1, 64 (ASD II/1 174, Nr. 64).<fe>. Silentio potius obruatur res
+et<fx>^#/+Vor^#/- et ^#/+gestrichenes^#/- ne-.<fe> hominibus<fx>^#/+Vor^#/- hominibus ^#/+gestrichenes^#/- personis.<fe> alioqui bonis et bene merentibus quaedam
+condonanda sunt et mala nostra arte lenienda.
+^$Idem te oro de epistolis, si quae scribuntur ex his
+regionibus horridiores ab aliquibus, nos tamen reliqui<fx>reliqui ^#/+über der Zeile nachgetragen.^#/-<fe>
+foveamus <vl>1405r.</vl> consensum et animorum coniunctionem inter nos nec
+magis divelli nostras ecclesias sinamus. "Non tam", inquit
+Basilius, "sinistrae opus est dextra quam ecclesiae
+concordia docentium."<f1>Vgl. Basilius, Epist. 97, 1, 10-12 (MPG XXXII 493).<fe> Facilius accendi et retineri bonorum
+studia, maiori gravitate disciplina qualiscunque<fx>^#/+Vor^#/- qualiscunque ^#/+gestrichenes^#/- defen.<fe> defendi
+potest, si<fx>^#/+Vor^#/- si ^#/+gestrichenes^#/- qu.<fe> doctores et in docendo consentient<fx>^#/+In A^#/- consentiant ^#/+statt^#/- consentient.<fe> et inter se
+mutua benevolentia coniuncti erunt<fx>^#/+In A^#/- cohaereant ^#/+statt^#/- coniuncti erunt.<fe>. Ideo, quantum possum,
+astringere nostram coniunctionem, non dissipare<fx>^#/+Nach^#/- dissipare ^#/+gestrichenes^#/- vu.<fe> velim. Haec
+simplici animo et candide scribo teque rogo, ut de tua
+voluntate rescribas.
+^$Domino Pelecano, veteri meo amico, salutem opto, cuius
+literas ad Marcum quendam<f1>Markus Crodel in Torgau. Zu ihm s. HBBW XI 110f, Anm. 1; ^#/+Pellikan,^#/- Chronikon 169.<fe> scriptas ego cum casu<fx>^#/+Nach^#/- casu ^#/+gestrichenes^#/- deprehend.<fe> vidissem, ad me recepi nec tradidi Marco,<f1>Der Brief an Crodel ist nicht erhalten.<fe>
+<gr>mh̀ pỹr ĕpì pỹr</gr><f1>Adagia, 1, 2, 8 (ASD II/1 220f, Nr. 108).<fe>.
+^$Bene vale.
+^$Die<fx>Die ^#/+fehlt in A.^#/-<fe> 25. martii<fx>^#/+In A folgt^#/- 1544.<fe>, quo<fx-t>quo ^#/+bis^#/- Christus ^#/+fehlt in A.^#/-<fe> ante annos 5504[!]<f1>Nach dem jüdischen Kalender war der 25. März 1544 der 1. Nisan 5304. Laut der "Chronica durch M. Johan Carion vleissig zusamen gezogen", Wittenberg, Georg Rhau, 1546, Bl. 242v., entsprach das Jahr 1544 dem Jahre 5488 "nach anfang der welt".<fe> <vl>1405v.</vl> Adam
+conditus est, ante annos vere 154[5]<fx>^#/+Ende der Zahl im engen Einband nicht lesbar; ergänzt aus der Abschrift.
+<fe> conceptus est Christus<fx>Christus ^#/+hier und in der folgenden Zeile mit griechischer
+Abkürzung^#/- <gr>Xrw</gr> ^#/+geschrieben.^#/-<fe>,
+et ante annos 1511 crucifixus est Christus
+<fx-x>quo ^#/+bis^#/- Christus ^#/+fehlt in A.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe>.
+^$Typographo<f1>Christoph Froschauer.<fe> pro missis bibliis<f1>Melanchthon hatte vermutlich die gleiche Bibel erhalten wie Luther, welcher darauf mit seinem Brief vom 31. August 1543 an Froschauer reagierte (s. WA Briefwechsel X 384-388, Nr. 3908); es handelte sich um die im Frühjahr 1543 erschienene lateinische Bibelübersetzung "Biblia
+sacrosancta" im Folioformat (s. BZD C 319f).<fe> ago gratias.
+<un>Philippus Melanthon.<fx>^#/+In A wurde der Name des Absenders in die an den Beginn genommene Adresse versetzt.^#/-<fe>
+<lz>[Adresse:]<fx>^#/+Die Adresse steht in A am Beginn.^#/-<fe> Clarissimo<fx>^#/+In A^#/- Philippus Melanchton ^#/+vor^#/- Clarissimo.<fe> viro
+eruditione, virtute et pietate praestantid. Henrico
+Bullingero, pie docenti evangelium in ecclesia Tigurina,
+amico suo.
+</content>
+</letter>

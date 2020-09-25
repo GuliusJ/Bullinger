@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1296">
+<nr>1296</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>14. August 1539</date>
+</space_time>
+<vo>Abschrift von Johannes Stumpf: Zürich ZB, Ms S 313, 9r.</vo>
+<dr>Ungedruckt</dr>
+<re>Wird das Schreiben [Nr. 1291] weiterleiten und die Sache des Ulrich [Zingg] bei [Diethelm] Röist, welcher den verordneten Rechenherren vorsteht, anbringen; danach wird über die Nachfolge beraten werden müssen. [Werner] Steiner hat keine Unterlagen über die Unterwaldner und Berner [bzw. ihren
+Konflikt von 1528/29]. Übersendet Konrad Eschers Instruktionen, muß diese aber unbedingt innerhalb von acht Tagen zurück haben. Bittet, dem Überbringer, einem armen Bruder, gefällig zu sein.
+</re>
+<tx>Heinrichus Bullingerus Ioanni Stumphio.
+^$Gratiam et pacem a domino etc.
+^$Curabo, ut communes literas<f1>Oben Nr. 1291.<fe> alii quoque domini ac fratres
+habeant ac legant. Ego interim bona fide negotium exequar
+apud Röystium, qui praeses illorum est, qui constituti sunt
+a rationibus<fx>^#/+am Rande^#/- Rächenherren.<fe>. Monebo autem, ut Huldrychi Dürteri negotium<f1>Zur Sache des Pfarrers von Dürnten, Ulrich Zingg, vgl. oben Nr. 1291 und 1295.<fe>
+expediat. Id ubi factum<fx>factum ^#/+über gestrichenem^#/- futurum.<fe> fuerit et fratri prospectum,
+locus erit consultandi de alio surrogando.
+^$Steynerus<f1>Werner Steiner.<fe> illius nihil habet, quod de Underwaldensibus et
+Bernatibus habere audieras<f1>Gemeint sind wohl Unterlagen zum unterwaldnerisch-bernischen Konflikt von 1528/29 (vgl. dazu Hermann ^#/+Specker,^#/- Die Reformationswirren im Berner Oberland 1528. Ihre Geschichte und ihre Folgen, Freiburg i. Üe. 1951, S. 83-99); der Konflikt hatte neue Aktualität
+erhalten, als im Dezember 1538 aufgrund eines Berner Schmähbüchleins neuer Streit über die Frage der Bündnistreue in jener Zeit aufgebrochen war; dieser Streit zog sich bis ins Jahr 1540 hin; vgl. EA IV/1c 1042, 1053, 1060, 1066f, 1074, 1086, 1089, 1104, 1129, 1145, 1161, 1165, 1177.<fe>.
+^$Conradi Aescheri<fx>^#/+am Rande^#/- Conradus Aescher, tribunus.<fe> instructiones mitto<f1>Gemeint sind wohl ältere Instruktionen, die auf den am 6. Juni 1539 verstorbenen Konrad Escher vom Glas ausgestellt worden waren. Escher war ein einflußreicher Vertrauter Zwinglis; vgl. Walter ^#/+Jacob,^#/-
+Politische Führungsschicht und Reformation. Untersuchungen zur Reformation in Zürich 1519-1528, Zürich 1970. - ZBRG I, S. 153-155.<fe>, at ea lege, ut
+intra 8 dies per certum nuntium remittas, ne amittantur.
+Pollicitus sum me intra 8 dies redditurum, et simulavi me
+nulli communicaturum.
+^$Vale et me ut fratre utere. Ego nolo te uti sclavo<f1>Vgl. dazu Stumpfs Bemerkung oben Nr. 1295, 15f.<fe>, sed
+fratre.
+^$Tiguri, 14. augusti anno 1539<fx>^#/+vor^#/- 1539^#/+ gestrichenes^#/- 15 539.<fe>.
+^$Benefacito huic misero fratri<f1>Vielleicht Wolfgang Meyer, vgl. unten Nr. 1297, 6-12.<fe>; nam Christo
+benefacies<fx>^#/+vor^#/- benefacies ^#/+gestrichenes^#/- benefaceis.<fe>.
+</content>
+</letter>

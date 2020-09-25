@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="589">
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>7. Juni 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 343, 67 (Siegelspur)</record>
+<record>.us; Teildruck: Johann Heinrich  Ott,  Annales anabaptistici, Basel 1672, S. 81;</record>
+<print></print>
+<note>QGT VIII 466, Nr. 677</note>
+<statue>
+Klagt darüber, dass das Evangelium bisher so wenig Früchte getragen hat.
+Laut einem Brief Capitos haben die Anhänger von (*Melchior*) Hoffman
+in Strassburg grossen Einfluss erlangt; das Eindringen von Täufern in das
+Haus eines Angehörigen der Familie Mieg scheint ungestraft geblieben zu
+sein, während sich (*Bucer und Capito*) stattdessen um fremde
+Angelegenheiten kümmern. Capito hat auch über die Täufer in
+Holland und Münster berichtet; da die Täufer sich auf Gott berufen,
+scheuen die evangelischen Mächte vor hartem Durchgreifen zurück. Der
+Kastellan von Musso soll die Frau des Herzogs von Savoyen entführt haben.
+</statue>
+<content>
+S. Siles tam diu. Quid causae potest esse? Fortassis ea, què et me
+torpore nescio quo degravat et tantum non opprimit, rerum inquam status
+tam miser. Evangelium iam a multis annis ceptum adeo nihildum
+fructificat, ut in deterius fere labatur in dies.
+<p>Scribit Capito+1 Hofmannicos+2 partem bonam suorum occupasse. Vide incuriam prèfectorum rerumpublicarum! Exemplum possum dare: Civis est Argentinensis admodum dives, interim tamen, ut audio, pius; Mu^y cognomentum est+3.
+In eius èdes nuper
+sex illius hèreseos viri absente ipso intrantes petunt ab uxore cibum,
+et dum hèc diceret se nihil habere parati, subiiciunt: "Si soror es,
+cibum non recusabis." Ut igitur vidit, quo animo adessent, vocat
+vicinos. Per hos factum, ut isti denuo exirent, quamquam non multo post
+marito iam praesente redeunt et itidem petunt. Adeo impudentia
+prehendit.
+Verum etiam tum eiecti sunt vacuo ventre. Hoc nefas ecce non audio
+puniri. Vagantur verbi praesides interim in rebuspublicis alienis,
+tanquam domi nihil sit prorsus agendum+4.</p>
+<p>Scribit idem Capito hèc verba: "Miri rumores de novo regno externo apud Hollandos+5. Illud pro certo accepimus, Monasterienses etiamnum se propugnare fortissime. Caeterum quicquid de anabaptistis referatur, quia
+deum factis suis praetendunt, tam video potestates evangelicas terreri,
+ut manus iniicere non audeant, ne sanguine divorum contaminentur. Ad
+preces video confugiendum unice devotas et fideles."</p>
+<p>Prèter hèc audi, quod delectabit. Dixit mihi Bernensis quidam+6, affinis meus, Mussensem latronem illum abduxisse furto uxorem ducis Sabaudiè+7. Egregium nuncium profecto, si verum.</p>
+<p>Bene vale cum tuis et Utingero.</p>
+<p>Basileè, 7. iunii anno 1535.</p>
+<signature>
+Os. Myco. tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinricho Bullingero,
+ecclesiastè Tigurino, suo.
+</address>
+</content>
+<note>
++1>Der Brief Capitos ist nicht erhalten.
++2>die Anhänger von Melchior Hoffman.
++3>Welcher Angehörige der Familie Mieg gemeint ist, lässt sich nicht
+feststellen.
++4>Myconius hatte schon mehrfach ähnliche Kritik an Bucer und Capito
+geäussert, vgl. oben Nr. 556, 18-22.
++5>Es handelt sich wohl um Gerüchte über die Erstürmung des
+Rathauses von Amsterdam durch Täufer am 10. Mai 1535,
+vgl. Wilhelmus Johannes
+<print>
+Kühler,  Geschiedenis der Nederlandsche Doopsgezinden in de zestiende
+eeuw, Haarlem 1932, S. 179f.
++6>Unbekannt.
++7>Das Gerücht von der Entführung Beatrix' von Portugal durch den
+Kastellan von Musso entbehrt jeder Grundlage.
+</print>
+</note>
+</letter>

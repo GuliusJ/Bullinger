@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1285">
+<nr>1285</nr>
+<correspondents>
+	<originator>Martin Frecht</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Ulm</place>
+	<date>3. Juli 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 157 (Siegelspur)</vo>
+<dr>Teildruck: Johann Heinrich ^#/+Ott,^#/- Annales Anabaptistici, Basel 1672, S. 97f</dr>
+<re>Kann nicht ausführlich schreiben, da der Briefüberbringer unerwartet rasch aus Nürnberg zurückgekehrt ist und da ihn
+selbst die Auseinandersetzung mit [Sebastian] Franck stark in Anspruch nimmt. Franck, der nach Basel ziehen wird, hat
+gegen ihn geklagt, weil er ihn brieflich ermahnt und ihm einen von Melanchthon mitgeteilten Vorwurf zur Kenntnis gebracht hat;
+er schreibt dies Bullinger, damit dieser Grynäus ins Bild setzen und ihm einen Bericht Frechts in Aussicht stellen kann.
+Da Gervasius [Schuler] inzwischen nach Zürich gereist ist, geht er nur knapp auf Bullingers Brief ein: Die Sorge, am Nürnberger
+Religionsgespräch würden lutherische und päpstliche Religion vermischt, ist unbegründet; da er selbst als möglicher
+Teilnehmer ins Spiel gebracht wird, aber nach dem Tag zu Worms nichts über die geplante Zusammenkunft gehört hat, zweifelt er
+an deren Zustandekommen; er möchte nicht ausschließen, daß sie von Nutzen sein könnte, doch dürfen nicht die gleichen Fehler
+gemacht werden wie beim [Kappeler] Landfrieden. Nachrichten über Luthers Auftreten in Leipzig, die Verweigerung der Türkenhilfe
+durch die katholischen Stände, Aufenthalte von Bucer in Worms und von Blarer in Augsburg, Heiratspläne des Kaisers, einen
+persischen Sieg über die Türken und ein Bündnis der Perser und Tataren gegen die Türken. Gruß.
+</re>
+<tx>Salutem in domino, Bullingere venerande.
+^$Reddidit mihi nuncnuper tuas literas<f1>Nicht erhalten.<fe> civis<f1>Unbekannt.<fe> vester, ut
+scribis, mirifice ingeniosus et, ut adparet, vir pius et
+integer. Cuius e Norinberga reditum cum expecto, videor ego
+mea spe esse frustratus; nam cum mire districtus ego et
+communibus ecclesię negociis et sectariorum conflictibus,
+quos non modicos hic sustineo, hoc die ad domum solito magis
+sero venissem, indicatum est mihi iuvenem adfuisse monentem,
+ut, si scribere velim Tigurum, isthuc faciam in tempore. Ego
+autem, cum cras pręter lectionem theologicam forte etiam in
+senatu habeam illi Thrasoni<f1>Vgl. oben Nr. 1283, Anm. 11.<fe> impudenti Franco<f1>Sebastian Franck.<fe> respondere, non
+potui nunc pluribus ad tuam epistolam satis pia cura et
+sollicitudine pro ecclesiarum salute refertam respondere.
+^$Francus autem hinc Basileam abiturus<f1>Franck, der Ulm auf den 23. April hatte verlassen müssen, holte im Juli seine Familie
+nach Basel; er selbst hielt sich bereits im Mai dort auf. Vgl. ^#/+Peuckert,^#/- Franck 425-428; Blarer BW II 30.<fe> hisce
+diebus mihi facessit negotium; nam coram consule<f1>Ulrich Neithart; s. Die Beschlüsse der oberdeutschen Schmalkaldischen
+Städtetage, bearb. und hg. v. Ekkehart Fabian, 2. Teil, Tübingen 1959. - SKRG 14/15, S. 167.<fe> voluit mecum expostulare, quod
+ei literas scrip­serim^&xTrennung korrekt^&x{ satis iniurię habentes<f1>Franck reichte seine Beschwerde gegen einen Brief
+Frechts schriftlich ein, als Frecht der Ratssitzung fernblieb; der Text seiner Eingabe ist gedruckt in: Alfred ^#/+Hegler,^#/-
+Beiträge zur Geschichte der Mystik in der Reformationszeit, Berlin 1906. - ARG Ergänzungsbd. I, S. 99-102; vgl.
+^#/+Peuckert,^#/- Franck 405-409.<fe>. Scripseram autem ei propediem hinc soluturo fraternas, ni fallor, literas<f1>Frecht
+an Franck, 23. Juni 1539 (^#/+Hegler,^#/- aaO, S. 97-99).<fe>, in quibus ad
+poenitentiam hominem toties etiam monitum denuo hortatus sum et pro zelo quoque interminatus, ni ista scandala, quae obiecit et
+ecclesię Christi et politię, semel removeat atque
+retractet temere scripta, se visurum semel ea, quę satius
+esset non experiri<f1>"... experies hoc, quod in coelum spuis in tuam barbam recasurum" (ebd., S. 98).<fe>. Ille autem impudenter
+audax ita ista arripuit, quasi in eum iam hinc alio abiturum scribere potuerim atrocius nihil. Occasionem quoque huius mei ad
+Francum scripti e Melanchthonis literis<f1>Nicht erhalten.<fe> ad me ultima iunii<f1>Das Datum kann nicht richtig sein,
+da der Brief Frechts bereits am 23. Juni geschrieben wurde (s. oben Anm. 8).<fe> missis arripui; nam Philippus queritur mihi
+Francum in proximis nundinis Francofurd­­tiensibus<f1>Zum Datum der Frankfurter Frühjahrsmesse s. oben Nr. 1217, Anm. 1.<fe>
+sibi atrociter minatum, cui aliud non precatur pium pectus quam meliorem mentem simplicisque veritatis amantem, id quod Franco
+quoque comprecatus<f1>In seinem Brief an Franck zitiert Frecht mehrfach Melanchthons Wunsch.<fe> audire tamen cogor,
+quasi <gr>ădíkvw</gr><fx>^#/+in der Vorlage^#/- <gr>ădikṽw</gr>.<fe> cum eo agam. Quę commemoro, ut, ubi
+Francus Basileam venerit atque me traduxerit isthic et apud
+alios, tu saltem habeas futurę meę apologię
+protasin atque ad Grynęum scribas, si vacat tibi, me
+brevi omnia sibi descripturum ea, quae cum Franco hic sint
+acta satis fraterne, sed frustra; passim enim blatero ille
+effutit Ulmenses aut parum aut nihil cum eo fidei ratione
+egisse, tametsi hinc alio abire cogatur. Istuc tamen
+subdolus Thraso ita interpretatur, quasi, ubi libeat, liceat
+ei libere huc redire. Sed cesso te istis obtundere.
+^$Ad epistolam tuam, quod sum praefatus<f1>Vgl. oben Z. 2-11.<fe>, nunc non licet pluribus respondere. Scripsi autem
+nostro Gervasio<f1>Frechts Brief an Gervasius Schuler ist nicht erhalten.<fe>, Memmingensi ecclesiastę, fratri charissimo,
+ante unam atque alteram septimanam, et hisce diebus ex Memminga bonus quidem vir ad me scripsit<f1>Auch dieser Brief eines
+Unbekannten scheint verloren zu sein.<fe> Gervasium abiisse Tigurum<f1>Zum Besuch Schulers in Zürich vgl. oben Nr.
+1282, 14-18.<fe>. Quem arbitror vel coram vel per literas tibi exposuisse ea, quę operę pretium sint ad tuam rescribere
+ep[istolam]<fx-t>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe>;
+non est enim, mi venerande Bullingere, ut vel tu vel alius
+ex animo ecc[lesię]<fx-x>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> Christi bene cupiens consultum
+putetis in Norico conventu<f1>Zum geplanten Religionsgespräch in Nürnberg vgl. oben Nr. 1261, Anm. 6.<fe> ex Lutherana
+v[...]<fx-x>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> et papistica religione unam conflandam. Non erunt, spero, si
+modo iste procedat conventus, tales concordantiarii, qui
+novo vestimento vel veterem assuant vel veteri novum<f1>Vgl. Mk 2, 21.<fe>. Non
+est ager domini diversi generis semine serendus, estque
+conciliatio in domino instituenda et nonnisi aliis ecclesiis
+consultis absolvenda. Sed quid ista refero? Nihildum a
+proximis comitiis Wormatię agitatis<f1>In Worms war im Juni über die Frage der Türkenhilfe beraten worden; vgl. oben Nr. 1273, 40-43 mit Anm. 15.<fe> de isto conventu vel
+mihi (quem aliqui<fx>^#/+vor^#/- aliqui ^#/+gestrichenes^#/- nescio.<fe> faciunt invitum etiam futurum
+concordantiarium) vel symmystis dictum et commissum, ut etiam
+ipse subscribam iis, qui coniectant hunc conventum cancri
+in morem processurum<f1>d. h. nicht vorankommen wird (vgl. Otto 68, Nr. 314).<fe>. Verum salvo meliore iuditio iis non
+subscribo, qui in ea sunt sententia, ut, priusquam coeant
+concordantiarii, decernant Norinbergę nihil in huiusmodi
+conventu posse tractari, quod aliqua ex parte ecclesiis
+possit esse usui. Quare, mi Bullingere, securus esse in hac
+causa velis; nam, ut pie mones, nunquam author vel meis vel
+aliis ero, ut in quocunque conventu aliquid constituatur
+evangelio indignum. Debent enim nos aliena, quod dicitur,
+pericula cautos facere<f1>"Felix, quem faciunt aliena pericula cautum", vgl. Proverbia sententiaeque Latinitatis medii aevi.
+Lateinische Sprichwörter und Sentenzen des Mittelalters in alphabetischer Anordnung, gesammelt und hg. v. Hans Walther, Bd.
+2, Göttingen 1964. - Carmina medii aevi posterioris Latina II/2, Nr. 8952.<fe>. Prohibeat dominus, ne vel talia
+ubiubi statuantur, qualia propter publicam tamen pacem in
+communi Helvetica ditione constituta sunt<f1>Frecht spielt auf den Kappeler Landfrieden von 1531 an, der im 2. Artikel die
+konfessionellen Verhältnisse in den gemeinsamen Herrschaften regelte; vgl. EA IV/1b 1568f.<fe>, quę, cum
+nequeant corrigi, toleranda tamen sunt. Id vero nolim
+existimes in<fx>^#/+vor^#/- in ^#/+gestrichenes^#/- me.<fe> generosę gentis vestrę ignominiam a me scriptum esse. Sed cesso; nam reliqua Gervasius.
+^$Nihil novi, quod non antea vobis putem notum esse. Lutherus fertur Lypsię predicare<f1>Luther predigte am 24. und 25. Mai
+zur Einführung der Reformation in Leipzig, s. WA XLVII, S. XXIIf.<fe>. Papistę regi Ferdinando negarunt auxilium contra Turcam<fx>^#/+nach^#/- Turcam ^#/+einige gestrichene, unlesbare
+Buchstaben.^#/-<fe><f1>Am Tag zu Worms, den die katholischen Stände dominierten, war die von König Ferdinand geforderte
+Türkenhilfe nicht bewilligt worden; s. ^#/+Fuchtel^#/- 192.<fe>. Bucerus<fx>^#/+vor^#/- Bucerus ^#/+gestrichenes^#/- M[?].<fe> Wormatię hesit a pientissimo Cattorum principe
+vocatus<f1>Landgraf Philipp von Hessen hatte Straßburg gebeten, Bucer nach Worms reisen zu lassen; ob Bucer tatsächlich dort
+war, ist aber fraglich. Vgl. PC II 612f.<fe>. Blaurerus Augustę dicitur ecclesię Christi<fx>Christi ^#/+über der Zeile nachgetragen.^#/-<fe> consulere<f1>Vgl. unten Nr. 1286, Anm. 1.<fe>. Nondum constat, an
+Anglię aut Francorum regis filiam<f1>Maria Tudor, Tochter König Heinrichs VIII., bzw. Margarete von Frankreich, Tochter von König Franz I.<fe> Carolus ducere in
+uxorem velit<f1>Seit Kaiser Karl V. verwitwet war, kursierten allerlei Gerüchte über seine angeblich bevorstehende
+Wiederverheiratung; vgl. auch unten Nr. 1298, 24-26, und PC II 616.<fe>. Persarum rex<f1>Schah Tahmasp I.<fe> Turcici
+cęsaris<f1>Sultan Suleiman I.<fe> filium cum exercitu delevit<f1>Über Kriegshandlungen zwischen Türken und Persern ist aus diesem Zeitraum nichts bekannt.<fe>. Circumferuntur
+magni Tartari et Persarum regis foedera contra Turcam<f1>Frecht bezieht sich wohl auf den als Flugschrift verbreiteten Bericht
+von Francesco Baiul über ein Bündnis zwischen Schah Tahmasp und dem Khan der Krimtataren, Sahib Giray; s. VD 16, B 174; Carl
+Göllner, Turcica. Die europäischen Türkendrucke des XVI. Jahrhunderts, I. Bd., Bukarest-Berlin 1961, Nr. 641.<fe>. Plura
+non possum, nam nec relegere hanc licuit. Parce ergo et bene vale cum fratribus, inprimisd. Pellicano.
+^$Raptim, Ulmę, 3. iulii 1539.
+<un>Frechtus.
+<lz>[Adresse auf der Rückseite:] Domino Heynricho
+Bullingero, Tigurinę ec­clesię ministro singulari
+doctrina et vitę innocentia, domino et fratri
+venerando. Zurch.
+</content>
+</letter>

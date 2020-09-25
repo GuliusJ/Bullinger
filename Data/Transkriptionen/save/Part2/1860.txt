@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1860">
+<nr>1860</nr>
+<correspondents>
+	<originator>Konrad Gessner</originator>
+	<addressee>Felix Frey</addressee>
+	<addressee>Bullinger</addressee>
+	<addressee>Kaspar Megander</addressee>
+	<addressee>Erasmus Schmid</addressee>
+	<addressee>Rudolf Gwalther</addressee>
+	<addressee>die Professoren von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>7. März 1544</date>
+</space_time>
+<vo>Gedruckt: M[arci] V[alerii] Martialis poetae facetissimi epigrammata ... recens ab omni verborum obscoenitate in adolescentium praecipue scholarumque usum expurgata ... ac plaerisque in locis emendata per Conradum Gesnerum medicum ... His accesserunt dialogi tres, in quibus ratio huius instituti
+redditur, et multa de puerilibus studiis egregie commemorantur. Iacobi Micylli Argentoratensis in M[arci] V[alerii] Martialis epigrammata annotationes, Zürich (Christoph Froschauer) 1544, Bl. 2r.-5r. (Widmungsvorrede)</vo>
+^&xZürich ZB, W 311,1^&x{
+<re>Gruß. Als Jugendlicher ist Gessner bei seinen altsprachlichen Studien, die die Adressaten ihm ermöglichten, zufällig auf Martials Epigramme gestoßen und bemerkte freilich darin recht bald zeittypische Schwächen der lateinischen Sprache, obwohl ihm der Autor zusagte. Später aber entwickelte er
+allmählich, gestärkt durch die nunmehr erworbene Kenntnis der Heiligen Schrift, einen Widerwillen gegen den Dichter, da die in den Epigrammen vorkommenden Obszönitäten, vor denen nur gewarnt werden kann, den Leser beschmutzen; deshalb entschied er, [in der vorliegenden Ausgabe] alle Obszönitäten,
+teilweise auch ganze Epigramme, zu entfernen, indem er sich die Entstehung der ärztlichen Kunst in der Antike zum Vorbild nahm und die Epigramme als Medizin für den Geist auffasste; er arbeitete unter erheblichem Zeitaufwand und ging gewissenhaft vor. Die nunmehr wie einen Augiasstall gereinigte
+Sammlung ordnete er nicht etwa nach dem Zufallsprinzip und in nur einem einzigen Buch an, sondern so, dass die Epigramme möglichst leicht auffindbar seien; die Lektüre bereitet jetzt nicht nur Freude, sondern taugt auch zur Erziehung; Auswahl- und Anordnungsprinzipien sind ausführlich in den
+Gesprächen im Anhang dargelegt; Ähnliches leistete schon Maximus Planudes für die Reinigung griechischer Epigramme, wie Raffaele [Maffei aus] Volterra bezeugt. Bittet um Nachsicht für Eingriffe in die Anordnung und stellenweise Emendationen; den Epigrammen sind jedoch Buchstaben beigegeben, die
+ihren ursprünglichen Platz anzeigen: der griechische Buchstabe ^#G+α^#G- steht für den "Liber spectaculorum", die folgenden Bücher haben lateinische Buchstaben und auch Zahlen bei sich, die die Reihenfolge ihrer Entstehung bezeichnen (was auch dem etwa entstehenden Eindruck entgegenwirken kann, Gessner
+habe etwas nicht zu Martial Gehörendes einfließen lassen); dadurch sind auch die Stellen im Kommentar von Domitius Calderinus leichter aufzufinden, und außerdem ist nach den Anmerkungen von Jakob Micyllus eine Konkordanz angefügt, die tabellarisch alle abweichenden Epigramm-Nummern angibt und bei
+der Kommentarbenutzung eingesehen werden sollte.
+Denjenigen, die es etwa übelnehmen, dass Gessner eine Sonderung zwischen schmutzigen und reinen Epigrammen vornahm, und die ein integres Werk fordern, kann nur mit dem Komödienwort "Folgt eurer Mutter, ihr Ferkel!" [Aristophanes, Plutus 308. 315] geantwortet werden;
+Gessner hat ja sein Buch für sich, die Musen und die Jugend, die zu bester Hoffnung Anlass gibt, ausgearbeitet. Seine an die Zürcher gerichtete und mit der Hoffnung auf Benutzung der Ausgabe in der Schule verbundene Ankündigung ist dadurch gerechtfertigt, dass diese sowohl die Kirche als auch die
+religiösen und weltlichen Studien treu und sorgfältig befördern; er bittet um freundliche Aufnahme durch die gebildeten Adressaten, die seine Erwartungen nie enttäuschten. Gruß und Wunsch.</re>
+<tx>Clarissimis viris dominis Felici Fry, Tigurini praeposito, et Heinrycho Bullingero,
+Gaspari Megandro, Erasmo Fabritio, Rodolpho Gualthero, divini verbi praeconibus,<f1>Kaspar Megander und Erasmus Schmid waren jeweils erster und zweiter Archidiakon am Großmünster, während Gwalther Pfarrer an St. Peter war.<fe>
+ac reliquis divinae et humanae sapientiae in tribus linguis professoribus<f1>Damit sind die vier Kollegen Gessners an der obersten, der vierten Klasse (Lectorium) der Großmünsterschule gemeint: Johann Jakob Ammann (Latein), Rudolf Collin (Griechisch), Konrad Pellikan (Hebräisch und Theologie) und Theodor Bibliander (Theologie); s. Ulrich ^#/+Ernst,^#/- Die Geschichte des Zürcherischen Schulwesens bis gegen das Ende des sechzehnten Jahrhunderts, Winterthur 1879, S. 89-93.<fe>, patronis
+ac praeceptoribus observandis Conradus Gesnerus s[alutem] d[icit] p[lurimam].
+^$Posteaquam adolescens ego quondam, patroni observandi, Gręcae et
+Latinae linguae rudimenta vestro quidem beneficio consequutus, utcunque mihi
+videbar, statim ad poeticen animum applicare coepi. Cui dum avidius incumberem,
+forte in Martialis epigrammata incidi eorumque lectione saepius, quam par erat, me
+oblectavi. Hinc adeo factum est, ut in poesi quidem et Latini sermonis notitia
+profecerim aliquantulum at melioris rerum sententiarumque cognitionis vice, quibus
+ingenium puerile instrui decebat, multis et variis vitiorum generibus cognitis,
+quibus illud poetae saeculum laborabat, animum inquinaverim. Nam vel ipsa per se
+meditatio in rebus illicitis magna criminum pars est.
+^$Deinde paulatim iam grandior
+aetate et sacrarum literarum lectionibus ceu antidoto quodam instructior,
+fastidium ali-<vl>2v.</vl>quod et odium illius poetae concepi. Non potui tamen in
+universum mihi temperare, quin aliquando honestiora tantum animi gratia lecturus
+librum in manus sumerem, sed ita quoque vel invito multa passim obscoena se
+offerebat. Quandoquidem igitur evidenter, quid mihi obfuerit, intelligo, non potui
+bona conscientia non admonere alios et publice mea damna protestari, quo caveant
+sibi in posterum alii, praesertim adulescentes, ne maiore forsan atque ego olim
+incommodo polluantur. Nam et apud antiquissimos homines ante repertam medicinae
+artem, quicunque aliquo morbo infecti fuerant, quid sibi salubre, quid item
+contrarium contigisset, dedicatis per templa tabulis publicabant, donec ex multis
+demum collectis methodus artis constituta fuit. Itidem ego nunc ad medicinam
+animorum, quid noxium aliquando sim expertus, omnibus esse propalandum officii mei
+iudicavi. Caeterum nuper maturiori deliberatione, remedium mali in hoc poeta
+excogitatum mihi est. Quamvis enim posthac tum aetas, tum professio mea ab hisce
+studiis ad severiora me avocent, instituto tamen utilitatis publicae, quicquid hoc
+laboris est, alacriter suscepi. Resecui enim et abieci, quicquid inerat foedioris
+argumenti, quicquid inhonestum, turpe, obscoenum, nefandum, monstrosum aut quod
+ullo modo indecori quicquam cogitandi occasionem rudibus legentium animis
+ex-<vl>3r.</vl>hiberet. Itaque alias epigrammata integra abolevi - vel quia nihil sani
+aut sacri, ut aiunt,<f1>Zusammensetzung aus Adagia, 1, 8, 37 nihil sacri es (ASD II/2 258, Nr. 737), und Adagia, 1, 8, 38 nihil sanum (ebd., Nr. 738); s. auch Grimm V 4313 unter ^#G+β^#G-.<fe> usquam continerent, vel propter unum aut alterum versum
+totidemve dictiones improbi sensus -, alias partem solum aliquam recidi, ne quid inde
+vitii sano corpori contraheretur, si modo nihilosecius integra sententia relinqui
+videretur. Et ne iis quidem peperci, quę etiam leviter lasciva videri poterant, ut
+puerorum ratio accuratissima haberetur. Nec parum sane laboris atque temporis in
+hoc negotio mihi absumptum est. Legenda fuerunt omnia et plurimi loci obscuri diligenter expendendi, ne quid forte turpius clam me subterfugeret.
+^$Istis igitur
+separatis et veluti Augiae stabulo iam repurgato<f1>Adagia, 2, 4, 21 (ASD II/3 336, Nr. 1321).<fe> reliqua non, ut fors ferebat,
+temere denuo in unum librum redigere volui, sed per locos aliquot communes omnia
+distinxi sic, ut non solum haberent linguae Latinae candidati, unde puram eius
+copiam ceu ex limpido fonte haurirent, sed quaelibet ab eis in promptu insuper
+reperiri possent. Quod cum alias iuvat, tum, si quis huius poetae exemplum in simili
+argumento imitari velit, legendo etiam statim ea in manus capere licebit, quibus
+aliquis delectetur maxime. Quod si princeps academię philosophus<f1>Plato.<fe> hunc poetam
+prius legisset, proculdubio prae ceteris omnibus quam longissime ipsum a Republica<f1>Platos "De re publica".<fe> sua in
+exilium ablegasset: non lanis quidem redimitum albis, nec unguento caput
+im-<vl>3v.</vl>butum pretioso,<f1>Vgl. Herakleitos (1. Jh. n. Chr.), Homericae allegoriae, cap. 4, hg. v. Félix Buffière, Paris 1962. - Gessner gebraucht hier die Worte seiner eigenen Übersetzung dieser Schrift, die er irrtümlich dem Herakleides Pontikos (ca. 390-310 v. Chr.) zuschrieb. Die von ihm erarbeitete griechisch-lateinische Ausgabe, versehen mit einer Widmungsepistel von Januar 1544, muss damals bereits beim Basler Drucker Oporin gewesen sein, wo sie im September 1544 erschien (VD 16 H 2191); die hier verwendete Stelle dort auf S. 4.<fe> ut olim Homerum<f1>Vgl. z.B. Plato, De re publica, I 334; II 364f. 377-379. 383; III 387f. 389f. 392f.<fe>, sed furcis et lapidibus abactum. Ubi
+vero deinde renatum purgatumque vidisset, qualis nunc est, vel praemio proposito
+revocare voluisset, ut qui iocis honestis lepidisque citra vitium carminibus,
+ornate atque polite conscriptis, animos exhilarare simul ac docere posset,<f1>Vgl. Horaz, Ars poetica, 333: aut prodesse volunt aut delectare poetae.<fe> et a
+peioribus studiis, quibus otiosi homines capiuntur, legentes avertere. Verum huius
+instituti mei rationes copiosius in dialogis ad hoc ipsum conscriptis et appendicis
+vice Martiali adiectis explicantur.<f1>Am Ende von Gessners Edition (S. 354-426) finden sich drei von Gessner selbst verfasste Dialoge, in denen vor allem Beispiele nützlicher Lektüre für Knaben behandelt werden; der dritte Dialog schließt mit einem Urteil des teilnehmenden Schiedsrichters
+Rhadamantus, dass die Epigramme Martials, die verdorbene, infizierte Teile enthalten, kastriert und wie in der Medizin gründlich ausgeschnitten und ausgebrannt werden müssen; wer diesem Urteil widerspreche, müsse gleichfalls der Strafe der Kastration unterzogen werden. Mit diesen Dialogen
+untermauert Gessner sein Verfahren.<fe> Maximus Planudes<f1>Planudes (Manuel bzw. mit Mönchsnamen Maximos), um 1255 bis kurz vor 1305, aus Nikomedeia, einer der bedeutendsten byzantinischen Gelehrten und erster der großen Philologen des späten Byzanz, der sich auch für die lat. Literatur
+interessierte. Von ihm stammt eine als "Anthologia Planudea" berühmt gewordene Epigrammsammlung, die er im Jahr 1299 abschloß und die etwa 2400 Nummern (und damit 388 mehr als die Anthologia Palatina) enthält; das eigenhändige Exemplar ist überliefert (Cod. Marcian. 481); Druck: Ἀνθολογία
+διαφόρων ἐπιγραμμάτων ..., hg. v. Janos Laskaris u.a., Laurentius Franciscus de Alopa, Florenz 1494. Planudes bemühte sich sehr um richtige Textkonstituierung, ließ aber auch einige Stücke aus seinen Vorlagen weg. Die Sammlung war lange Zeit die Hauptquelle für die Kenntnis der
+griechischen Epigrammatik; s. Stichwort "Planudes" in: Tusculum-Lexikon griechischer und lateinischer Autoren des Altertums und des Mittelalters, hg. v. Wolfgang Buchwald, Armin Hohlweg und Otto Prinz, 3. Aufl., München und Zürich 1982, S. 647-650 mit weiterer Lit.<fe> quoque idem aliquando in
+Graecis praestitit, ut meminit Raphael Volaterranus in sua anthropologia:
+"epigrammata enim veterum resectis lascivioribus in unum iam vulgo sparsum volumen
+et pro argumentis distinctum collegit."<f1>Der Satz ist - freilich ungenau und mit einem eigenen Zusatz Gessners versehen - zitiert aus dem Kapitel "Anthropologia" des Werkes: Commentariorum urbanorum Raphaeli Volaterrani octo et triginta libri, accuratius quam antehac excusi, cum duplici eorundem
+indice secundum tomos collecto ..., Basel, Johann Froben, 1530 (VD 16 M 114), S. 197r. (Kapitel 2, Teil 17). Das Exemplar aus Gessners Besitz befindet sich in Zürich, ZB (IV H 18) und lag hierbei vor. Im Original lautet die Stelle: "Epigrammata veterum Graecorum resectis lascivioribus in unum iam vulgo
+sparso volumen coegit." Zum Verfasser Raffaele Maffei (1455-1522) aus Volterra s. Stefano ^#/+Benedetti,^#/- in: DBI LXVII 252-256 (mit weiterer Lit.).<fe>
+^$Caeterum, si quae epigrammata forsan in
+isthoc opere non sat idonea suis locis videbuntur, ignosci cupio. Sunt enim quaedam
+eiusmodi, ut, nisi vim facias, vix queant ad certum caput deduci. Et mihi satis fuit,
+ut, si non omnino, aliqua saltem ex parte, assignatis a me locis carmina congruerent;
+quamvis interdum non multo amplius eis conveniant quam feles propter oculos caesios
+Minervae<f1>Adagia, 1, 10, 22 (ASD II/2 430, Nr. 922).<fe>. Tantum equidem praestare conatus sum, quantum ipsa materia mihi permisit.
+Sunt, quae pluribus locis inseri possint, in uno aliquo solum reposita, ne quid
+fastidii repetitio moveret. Praeterea multis in locis exemplar emenda-<vl>4r.</vl>vi,
+partim, ut sententia aperte requirebat, partim variis editionibus inspectis.
+^$Deinde
+singula epigrammata suas alphabeti literas habent titulo adscriptas, quibus
+indicatur numerus libri, in quo prius legebatur. ^#G+α^#G-
+Graecum usurpavi in libro
+Spectaculorum, qui, licet antecedat reliquos, non tamen primus inscribitur nec
+reperitur in antiquis codicibus; Martialis tamen esse non dubitatur. Eundem, quia
+certi argumenti est, non aliter distinguere placuit; unum duntaxat aut alterum
+epigramma ei ademptum est. Sequentes libri omnes Latinis literis indicantur, primus
+per a, secundus per b, et sic deinceps. Mox singulis literis numerorum characteres
+addidimus, qui, quotum huius vel illius libri quodlibet epigramma prius extiterit,
+ostendant. Verbi gratia: Primi loci, ubi Martialis de seipso loquitur, epigrammatis
+primi titulus est. Ad lectorem a 2. hic indicatur hoc epigramma primi libri numero
+secundum antea fuisse. Ideo autem hoc a me factum est, ne quis suspicaretur alieni
+quicquam Martiali accessisse, et ut in Commentariis Domitii Calderini<f1>M. Valerii Martialis epigrammata cum commentario Domitii Calderini, Venedig 1480 u.a.<fe> eosdem locos,
+si quis inquireret (praesertim professor aliquis aut ludimagister, non pauca enim
+obscura sunt), statim commode reperiret. Iccirco numeros epigrammatum, qui in
+diversis editionibus (illis praesertim, quae cum commentariis, et omnibus aliis, quae
+sine eis impressae sunt) in aliquot libris ordine ac situ plurimum <vl>4v.</vl>
+differunt, statim post Iacobi Micylli annotationes<f1>Die Anmerkungen von Jakob Micyllus finden sich auf S. 310-346; sie werden von einer Vorrede an den Leser eingeleitet (S. 309).<fe> notavimus tanquam in tabula;<f1>Diese Konkordanz findet sich nach einer Ansprache an den Leser (S. 347) auf S.
+348-353.<fe>
+quos inspici oportebit ab illo, qui ex hac aliisve editionibus ad commentarios
+transire voluerit.
+^$Porro, si qui reperiantur, ut nunc sunt homines,<f1>Adagia, 3, 8, 59 (ASD II/6 502, Nr. 2759).<fe> qui aegre ferant
+spurca puris detracta, gemmas e sterquilinio selectas<f1>Vgl. Bernhard von Clairvaux, Epist. 203; Sermo in festo S. Martini 5, 5; Erasmus, Corr., hg. v. Allen, 1, Nr. 126.<fe> esse, et in alienis operibus
+non decere ingenium suum probare clamitent, se malle librum integrum, ut ab ipso
+authore perscriptus est, atque huiusmodi multa indigne facta quiritentur: illis
+equidem ne ^#G+γρὺ^#G- quidem<f1>Adagia, 1, 8, 3 (ASD II/2 234, Nr. 703).<fe> responderim, nisi forte illud comicum ^#G+ἕπεσθε
+μητρί, χοῖροι^#G-<f1>Aristophanes, Plutus 308. 315 ("folgt eurer Mutter, ihr Ferkel").<fe>. Merentur enim omnino illi porcorum nomen, quorum ingenia
+foedissimis huiusmodi volutabris delectantur. Conspurcent illi se, ut libet; me vero
+missum faciant, qui nequaquam ipsis, sed mihi et Musis ac bonę spei pueris
+hunc librum elaboravi.
+^$Caeterum vobis simul omnibus, ornatissimi viri, hanc operam merito nuncupandam duxi, quoniam pari omnes fide ac diligentia vere piam ecclesiae
+Tigurinae institutionem et meliora in sacris humanisque rebus studia certatim
+subinde promovetis. Et aequissimum est profecto huiusmodi opus, quod gymnasio vestro
+(cui studiorum meorum incunabula simul ac progressus debeo) aliquando usui futurum
+sperarem, non aliis offerri quam vobis, quorum beneficio atque liberalitate ferme a
+puero in hunc usque diem bonis literis vaco. Quamobrem oro et obse-<vl>5r.</vl>cro vos,
+colendissimi domini, patres ac praeceptores piissimi, ut hoc qualecunque
+gratitudinis erga vos debitae monumentum candide interpretemini, ac vultu sereno,
+qui vester ubique ingenuus candor est, libenter suscipiatis. Quod eo facilius
+de humanitate vestra mihi polliceor, quoniam nulla unquam in re hactenus
+expectationem meam estis frustrati.
+^$Valete ac vivite in ecclesiae christianae
+commoditatem et gloriam diu incolumes.
+^$Tigurii, nonis martiis anno salutis 1544.
+</content>
+</letter>

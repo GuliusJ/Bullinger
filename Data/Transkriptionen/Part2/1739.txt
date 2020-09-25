@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1739">
+<nr>1739</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>10. April 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 30 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 176</vo>
+<re>Dankt Bullinger und Jakob [Ruf] für übersandte Arzneimittel und sendet das versprochene Geld; weiß nicht, ob es ausreicht, und wird einen etwaigen Fehlbetrag später nachsenden. Mehr kann er aufgrund seines Kopfleidens nicht schreiben. Der Papst [Paul III.] erwartet in Bologna die Ankunft des Kaisers [Karl V.]; die Bündner halten hartnäckig am [Bündnis mit dem] französischen [König Franz I.] fest; möge Gott den Aufrichtigen zu Hilfe kommen! Bullinger soll seinen von langwieriger Krankheit geplagten Comander nicht vergessen. Grüße von Johannes Blasius und Philipp [Gallicius].
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 51f, Nr. 38.]
+</content>
+</letter>

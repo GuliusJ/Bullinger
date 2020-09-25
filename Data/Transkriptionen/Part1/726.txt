@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="726">
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Schaffhausen</place>
+	<date>15. Januar 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 362, 37 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Ist mit Benedikt Burgauer zur Teilnahme an der Basler
+Zusammenkunft aufgeboten worden -- allerdings auf eigene Kosten;
+Bürgermeister von Waldkirch und Zunftmeister (*Hans Schmid*) werden sie
+begleiten. Bittet um Mitteilung der zu behandelnden Geschäfte.
+</statue>
+<content>
+Gracia et pax etc.
+<p>Ego et Benedictus+1 una destinati sumus Basileam+2 -- comites erunt consul Waldkilchius et ex tribunis unus+3 --, ea tamen lege, quod ego et Benedictus proprio
+et reliquorum conpresbiterorum sumptu pergamus. Viden, charissime
+frater, et prudentiam et pietatem nostri senatus? Decreverant, quod
+neminem illuc vellent mittere ex ministris, sed tantum
+ex senatoribus duos. Nescio, quid tandem illis in mentem venerit, quod
+et nos addiderunt.</p>
+<p>Tu vero fac me cerciorem, quos nodos+4 tractaturi simus.</p>
+<p>Vale, 15. ianuarii 1536.</p>
+<signature>
+Erasmus Ritter,
+ex animo tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Dem wolgelerten herren Meister
+Heinrich Bullinger, predicanten zu^% Zurich, minem lieben herren und
+gu^%ten freundt.
+</address>
+</content>
+<note>
++1>Benedikt Burgauer.
++2>Vgl. oben Nr. 724, Anm. 3; zu den
+Einladungsschreiben Basels an Zürich vom 4. Januar und
+Zürichs an Schaffhausen vom 10. Januar vgl. EA IV/1c 598.
++3>Zunftmeister Hans Schmid (s. Stumpf, Abendmahlsstreit 75).
++4>Vgl. Otto 244, Nr. 1233.
+;----------------------------------------------------------------------
+</note>
+</letter>

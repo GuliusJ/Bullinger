@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2833">
+<brief>
+<id>17100</id>
+<nr>2833</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-03-01"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 1. März 1547</od>
+<vo>Autograph: Zürich StA, E II 336a, 272 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 942, Nr. 1058<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 124 ─ Vgl. HB an M, 26. Februar und die darin von M eingetragenen Mitteilungen. </k></dr>
+<re><t>Myconius ist wieder von den Toten auferstanden, doch nicht unsterblich wie der Herr! Er dankt Bullinger, ihn so fürsorglich für den Weg zum Herrn gewappnet zu haben. Möge Bullinger Ähnliches erfahren, wenn er es nötig hat!</t>
+<t>Johannes Gast berichtet [mit Brief <qv>nr2832</qv>] ausführlicher. Heute teilte ein Gelehrter [...] die fragwürdige Nachricht mit, Kaiser Karl V. habe an die XIII Orte geschrieben und ihnen mitgeteilt, dass er über deren Verhandlungen an der letzten wie auch an der gegenwärtigen Badener Tagsatzung sehr wohl informiert sei. Die Eidgenossen sollen sich hüten, etwas gegen ihn oder das Reich zu unternehmen. Wenn sie sich so verhielten wie bisher, wird er ihnen ein guter Herr sein. Weiß Bullinger etwas dazu?</t>
+<t>Die Straßburger werden nur dann einen Frieden mit dem Kaiser annehmen, wenn sie bei ihren Freiheiten, ihrer Religion und ihren Bündnissen bleiben dürfen, zudem nicht huldigen und keine Besatzung aufnehmen müssen. Landgraf Philipp von Hessen will diesem Beispiel folgen, falls ihm ein Frieden angeboten wird.</t>
+<t>Kurfürst Johann Friedrich von Sachsen kämpft mit Erfolg. Zwei Landsknechte berichten, dass sie eine Schlacht überlebt haben, in der der Kurfürst über Herzog Moritz von Sachsen und Markgraf Albrecht Alcibiades von Brandenburg-Kulmbach siegte.</t>
+<t>In einem Brief des Rektors [Wolfgang Lazius] der Universität Wien an Johannes Oporin steht, dass König Ferdinand I. erneut Verfolgungen von Lutheranern an der Universität angeordnet hatte und dass drei angesehene Gelehrte dabei aufgespürt und ausgewiesen wurden.</t>
+<t>Papst Paul III. und der Kaiser sind zerstritten. Da aber beide gottlos sind, soll der Teufel auf sie zählen!</t>
+<t>Gruß, auch an Rudolf Gwalther und an die anderen Kollegen. Myconius schreibt vom Bett aus.</t>
+<t>[P.S.:] Bullinger sei Dank für die Erläuterung in Bezug auf Gwalthers ["Endtchrist"].</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17100-3A</zzl>Revixi,
+<fn>In Bezug auf <qv>nr2827</qv>,<qv>zl17093-3</qv>.</fn> sed non ut dominus nunquam moriturus deinceps. Adibo namque mortem, dum illi fuerit libitum. Ago gratias de tua pro me
+<fa><i>Über der Zeile nachgetragen.</i></fa> sollicitudine, qua conatus es me reddere quam instructissimum in via ad dominum. Retributor bonorum
+<fn>D.h. Gott. Anspielung auf Ps 18 (Vulg. 17), 21; Mt 6, 4 par. Siehe auch <a>HBBW</a> XI 105, Anm. 1.</fn> et tibi sit retributor pro me, dum maxime habueris opus.<zzl>zl17100-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17100-6A</zzl>Gastius c{e}tera;
+<fn>Mit Brief <qv>nr2832</qv>.</fn> ego paucula scribam.<zzl>zl17100-6E</zzl> <zzl>zl17100-4A</zzl>Narravit doctus quidam
+<fn>Unbekannt.</fn> hodie mihi c{e}sarem
+<fn>Karl V. - Einen solchen Brief hat es nicht gegeben. Vgl. auch <qv>nr2835</qv>,<qv>zl17102-1</qv>.</fn> scripsisse ad tredecim Cantones (sic vocabat ipse) se scire, qu{e} in proximis
+<fn>Die Tagsatzung, die am 10. Januar begonnen hatte; s. <qv>nr2737</qv>, <qv>fn17006-1</qv>.</fn> egerint comitiis, sciturum etiam, qu{e} sint acturi in his, qu{e} nunc
+<fn>Auf der am 28. Februar eröffneten Tagsatzung; s. <qv>nr2817</qv>, <qv>fn17084-1</qv>.</fn> sint. Cavere debere, ne quid tentent vel audeant contra personam seu maiestatem suam aut contra imperium, nam secus si fecerint, haudquaquam se laturum. Quod si manserint ut hactenus, bonum ac benignum se futurum imperatorem. Miror h{e}c si sint vera. Si nosti aliquid, fac sciamus.<zzl>zl17100-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17100-5A</zzl>Argentinenses si valuerint obtinere securitatem libertatis su{e}, religionis su{e} et fidem sociorum, pacem recipient cum c{e}sare, ita tamen, ut adoratio et supplicatio
+<fn>Mit "adoratio et supplicatio" ist eine Huldigung dem Kaiser gegenüber gemeint.</fn> remittatur et nullum mittatur praesidium
+<fn>Besatzung (hier eine kaiserliche). - Siehe dazu <qv>nr2822</qv>, <qv>fn17088-7</qv>.</fn>.<zzl>zl17100-5E</zzl> <zzl>zl17100-7A</zzl>Eandem rationem servabit, si pax offeratur, landgravius
+<fn>Philipp von Hessen. - Zu den Beratungen über eine Kapitulation, die im Februar und März 1547 während des hessischen Landtags stattfanden, s. Hessische Landtagsabschiede 1526-1603, hg. und eingeleitet v. Günter Hollenberg, Marburg 1994, S. 146-154, Nr. 20.<zfn>fn17100-2</zfn></fn>.<zzl>zl17100-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17100-1A</zzl>Elector
+<fn>Johann Friedrich I. von Sachsen.</fn> pugnat feliciter. Dixerunt milites duo
+<fn>Wohl dieselben Landsknechte, von denen bereits Gast berichtete; s. <qv>nr2832</qv>,<qv>zl17099-1</qv> und <qv>zl17099-2</qv>.</fn> aufugisse se ex proelio, in quo elector victoriam obtinuerit contra Mauricium
+<fn>Herzog Moritz von Sachsen.</fn> et Albertum marchionem
+<fn>Markgraf Albrecht II. Alcibiades von Ansbach-Kulmbach.</fn>. Certum est, quod ita dixerunt. Pro electoris incolumitate et felicitate totus mundus orare debet.<zzl>zl17100-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17100-8A</zzl>Ex rectoris Viennensis
+<fn>Wolfgang Lazius; s. <a>M-Wien</a> III 78. - Der hier erwähnte Brief wurde vermutlich noch im Jahre 1546 verfasst und könnte u.a. auch Lazius' Dank enthalten haben für die Sendung seiner von Oporin gedruckten Schrift "Rerum Viennensium Commentarii" (<a>VD16</a> L855), die dieser ihm am 17. September 1546 gewidmet hatte; s. Rerum Viennensium, f. <gr>b</gr><sub>1</sub>r.<zfn>fn17100-1</zfn></fn> patet literis ad Oporinum regem
+<fn>Ferdinand I.</fn> novam inquisitionem mandasse in academia contra Lutheranos et inventos tres viros doctos et magnos, exilio multatos.
+<fn>Am 30. März 1546 wurden in Wien für die Aufnahme von Professoren verschärfte Maßnahmen (eine Prüfung in den Hauptglaubenslehren vor der Theologischen Fakultät) angeordnet, um protestantische Einflüsse abzuwehren; s. Joseph Ritter von <i>Aschbach,</i> Die Wiener Universität und ihre Gelehrten 1520 bis 1565, Wien 1888, S. 92. Zu den "Verbannten" sind wohl Francesco Stancaro (s. <a>HBBW</a> XVIII 280, Anm. 6; 309, Anm. 72) und Wolfgang Marcius (s. <i>Aschbach,</i> aaO, S. 273f, Anm. 3) zu rechnen.<zfn>fn17100-3</zfn></fn><zzl>zl17100-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17100-2A</zzl>Pap{e}
+<fn>Paul III.</fn> cum c{e}sare non convenit et c{e}sar videtur exulceratus contra papam,
+<fn>Vgl. <qv>nr2812</qv>,<qv>zl17080-15</qv>; <qv>nr2819</qv>,<qv>zl17063-1</qv>. <qv>zl17063-5</qv>.</fn> sed quia deo vacat uterque, satan eis fidat.<zzl>zl17100-2E</zzl></p>
+</div>
+<div>
+<p>Non possum plura. Vale in Christo cum Gvalthero et c{e}teris piis fratribus omnibus. Basile{e}, ex lecto,
+<fn>Vgl. <qv>nr2832</qv>,<qv>zl17099-3</qv>.</fn> kalendis ipsis martii anno 1547.</p>
+<un>Tuus Os. Myco.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17100-9A</zzl>Gratissimum fecisti, quod negocium Gvaltheri significasti tam perspicue.
+<fn>In <qv>nr2827</qv>,<qv>zl17093-1</qv>.</fn> Ago propterea gratias.<zzl>zl17100-9E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, doctissimo piissimoque fratri ac domino in Christo observandissimo suo. Zü[rich].
+<fa><i>Textverlust bei der Entfernung des Siegels.</i></fa></p>
+</div>
+</text>
+</brief>

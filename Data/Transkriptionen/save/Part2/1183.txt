@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1183">
+<nr>1183</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>3. Oktober 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen und einer Randbemerkung von späterer Hand. - Die von Gwalther zitierten Mitteilungen aus Briefen von Thomas Slythurst, Thomas Otley und John Hoker hat
+Bullinger kopiert und in eine Zusammenstellung von Nachrichten aus England eingefügt; s. Zürich StA, E II 369,
+57v.-58a v.^#/-<fe>: Zürich StA, E II 359, 2760r.-2761r. (Siegelspur)</vo>
+<dr>Ungedruckt<fx>^#/+Die in Anm. a erwähnten Zitate sind gedruckt in: Paulus Colomesius, Clarorum virorum epistolae singulares, in: S. Clementis Epistolae duae ad Corinthios ..., London 1687, S. 314-318, Nr. 38-40 (auch in: ders., Opera,
+Hamburg 1709, S. 545f), Hokers Mitteilung außerdem in: Gilbert Burnet, The History of the Reformation of the Church of England, Part III, London 1715, Anhang S. 131f, Nr. 55
+(hg. v. Nicholas Pocock, Oxford 1865, Bd. VI, S. 194f) sowie
+in englischer Übersetzung in: George Cornelius Gorham, Gleanings of a few scattered ears,
+^&x during the period of the Reformation in England and of
+the times immediately succeeding. A. D. 1533 to A. D. 1588,^&x{
+London 1857, S. 17-19; John Rouse Bloxam, A Register of the Presidents, Fellows, Demies ... of Saint Mary
+Magdalen College ..., Bd. IV, Oxford/London 1873, S. 53-55; Regest: LP 13/1 348. -
+Für freundliche Hinweise danken wir Herrn Dr. Derek Alan Scales, Cambridge.^#/-<fe>
+</dr>
+<re>Dankt für Rat und Trost; da die Pest auf dem Rückzug zu sein scheint, will er in Basel bleiben, obwohl die Studien hier
+darniederliegen, die Vorlesungen von Veit Ardüser und Simon Grynäus unbefriedigend sind und einzig die Unterstützung
+durch Otto [Werdmüller] ihn voranbringt; er will deshalb im Frühjahr nochmals um Rat fragen und verspricht sich besonders
+von einem Aufenthalt in England großen Nutzen. Von dort berichtet John Hoker über die Aufdeckung des Betrugs, der mit
+einem beweglichen Kruzifix ["The Rood of Grace" in der Abtei Boxley] getrieben wurde; nachdem man es in Maidstone und am
+Königshof zur Schau gestellt hatte, wurde es nach einer Predigt des Bischofs von Rochester [John Hilsey] öffentlich zerstört. Thomas Slythurst schreibt von der Bekämpfung
+des römischen Kirchenwesens, das durch das nächste Parlament gänzlich beseitigt werden soll. Thomas Otley erwähnt den
+Niedergang der Klöster und Wallfahrten und die Überführung aller Gnadenbilder nach London. Daß daneben auch
+Schreckliches geschieht, zeigt der Bericht von Michael Drome über die Hin­rich­­tung eines Unschuldigen wegen angeblichen
+Mordes. [John] Heron, [Baldwin] Norton und andere rühmen einhellig die Lage in England. Der Bruder [John] Butlers
+sowie Nicholas [Partridge] und [Nicholas] Eliott haben Geschenke gesandt oder angekündigt. Um die [von Bullinger erbetenen]
+Bücher konnte er sich noch nicht kümmern, doch hat er ihm bereits den "Orosius" sowie Preisangaben geschickt. Grüße.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Gratias tibi ago ingentes, patrone amantissime, ob literas<f1>Nicht erhalten.<fe>
+illas humanissimas, quasd. Butlero tabellario ad me
+misisti, ex quibus et consilium et solatium ingens percepi,
+quę mihi in hoc rerum statu et gratissima et utilissima
+fuerunt.
+Verum fuga minime opus esse spero, cum vicinia nostra iam
+aliquot diebus a peste immunis fuerit; languent etiam huius
+vires in cęteris urbis locis rabiemque pristinam parumper
+remiserunt. Nec me huius metus mortisque formido adeo vexat,
+ut huius gratia discedere statuam, verum morborum dolores et
+incommodam apud exteros tractationem magis horreo. Sed, ut
+inquis, idem deus adhuc vivit et regnat<f1>Anklang an den aus der römischen Messe bekannten Orationsschluß (vgl. etwa auch Z VI/V 96, 7f).<fe>, imo me tuetur
+fovetque, qui me olim ab huius sęvitia paterno affectu
+tutatus est; eidem Paeoni<f1>Paian; ein Heilgott, der u. a. mit Apollon identifiziert wurde (s. Albrecht von ^#/+Blumenthal,^#/-
+in: Pauly/Wissowa XVIII/2 2340-2344).<fe> adhuc pharmaca illa efficacissima in<fx>in ^#/+über der Zeile nachgetragen.^#/-<fe>
+promptu esse credo omnibus iis, qui ipsum vera fide et vitae innocentia venerantur coluntque. Quare omnino decrevi
+(si modo rabies hęc cessaverit) diutius Basileae manere,
+quamvis non videam, quę causa tam grandis sit, quę me
+diutius ibi morari velit. Mirum in modum enim hic fere omnia
+studia frigere videres. In disciplinis nemo est, qui
+quicquam legat excepto Vito Ardiseo<f1>Veit Ardüser.<fe>, qui Euclidis Elementum
+praelegit, sed adeo tarde, ut cursum meum indies remoretur
+magis quam promoveat. D[ominus]<fx>^#/+korrigiert aus ^#/-S[imon].<fe> Simon Grineus alternis
+diebus nunc catechismi, nunc rethorices institutiones
+praelegit, sed cum nullum certum authorem sibi in his
+prae­fixum habeat, auditoribus quoque nihil certi est, quod
+sequi possint; tum crebris vacationibus plurimum omnium
+studia remoratur. Certe, ut ingenue, quod sentio, fatear,
+nisi Otho<f1>Otto Werdmüller.<fe> noster sua familiaritate et privato auxilio mihi
+tam succurreret, non viderem, quid nam a Basiliensi academia
+utilitatis ferrem. Parturiunt quidem omnes et promissis
+hiantes lactant iuvenes, novam universitatis reformationem
+meditantur<f1>Vgl. unten Nr. 1205, 16-38.<fe>, sed nihil promovent. Quare hoc hiemale tempus
+ibi terere optimum esse duco historiarum lectione et
+scribendi exercitio me exercens, novo vero ineunte vere
+rursum tuo utar consilio, quid nam mihi porro agendum sit.
+Angliam omni studiorum genere florere ex Oxoniensium
+literis<f1>Vgl. unten Z. 34-100.<fe> perdidici, quam meis studiis non inutilem fore
+credo. Ibi enim praeter disciplinarum cognitionem et
+Britannica lingua et aliae multae res essent, quae a me
+perceptae non parum me iuvare possent. Sed de his alibi.
+^$Nova vero, quae ex Anglia percepi, hęc sunt<f1>Von den Briefen, aus denen Gwalther nachfolgend zitiert, ist keiner
+erhalten geblieben.<fe>: Ioannes Hokerus<f1>John Hoker (Hocherus, Hooker), von Maidstone (Kent), gest. 1544, gehörte
+seit etwa 1527 dem Magdalen College in Oxford an. Er promovierte 1535 zum Magister und war ab 1537 Lektor für
+Philosophie. Im selben Jahr lernte ihn Gwalther kennen (s. ^#/+Boesch,^#/- Gwalthers Reise 452: "M. Huggerus"). Nachdem er 1537/38 die kirchlichen Weihen empfangen hatte, erwarb er 1540 das theologische Baccalaureat; 1541-1543 war er Lektor für
+Theologie. Anschließend wirkte er bis zu seinem Tod als Pfarrer in Storrington (Sussex). Von Zeitgenossen wurde er
+wegen seiner humanistischen Bildung gerühmt; er soll u. a. eine Rhetorik und eine Komödie verfaßt haben. - Lit.: A[lfred]
+B[rotherston] Emden, A Biographical Register of the University of Oxford A. D. 1501 to 1540, Oxford 1974, S. 292f; Dictionary
+of National Biography, Bd. XXVII, London 1891, S. 289 (im Artikel über John Hooker alias Vowell).<fe> Meidstanensis (quae
+urbs est Cantiae), et pietate et eruditione insignis vir, sic scribit: "Ruit hic passim Azoticus Dagon<f1>Vgl. 1Sam 5,
+1-7.<fe>, Babyloniorum confractus iamdudum Bel est<f1>Vgl. die apokryphen Zusätze zum Buch Daniel, Dan 14, 1-21; auch Jes
+46,1.<fe>: Repertus est nuper Cantianorum deus<fx>deus ^#/+über der Zeile nachgetragen.^#/-<fe>, ligneus divus, pensilis
+Christus<f1>Zum beweglichen Kruzifix der Boxley Abbey bei Maidstone (bekannt als "Rood of Grace") und zu seiner Zerstörung am 24. Februar 1538 s.
+Margaret ^#/+Aston,^#/- England's Iconoclasts, Bd. I, Oxford 1988, S. 234-236. Vgl. auch oben Nr. 1122.<fe>, qui cum quovis
+Promethei figmento<fx>^#/+in Bullingers Abschrift (vgl. Anm. a):^#/- qui cum ipso Protheo (^#/+korrigiert aus^#/-
+Prometheo).<fe><f1>Hoker bezieht sich auf die Überlieferung von Prometheus als Menschenbildner; s. Lothar ^#/+Eckhart,^#/- in: Pauly/Wissowa XXIII/1 696-698.<fe> concertare posset; nam et
+capite nutare, minari oculis, barbam concutere, incurvare
+corpus, adeuntium aversari et audire preces scitissime
+noverat. Hic, cum picales<f1>Wohl eine Anspielung auf die schwarzweißen Ordensgewänder der Zisterzienser (von pica,
+Elster).<fe> monachi sua causa caderent, repertus est in eorum templo plurimo cinctus anathemate<f1>im Sinne von: Weihegabe.<fe>,
+<vl>2760v.</vl> lintheis, cereis, agricis, urbicis, exteris ditatus muneribus. Subodoratus est fucum cordatus vir, Partrigii
+nostri frater<f1>Der Bruder von Nicholas Partridge ist nicht namentlich bekannt.<fe>; affixum parieti e vestigio solvit,
+apparent artes, apparent imposturae, mirus ac polypeus<f1>Gedacht ist wohl an die den Polypen nachgesagte
+Wandelbarkeit ihres Äußeren; vgl. Adagia, 2, 3, 91 (LB II 519).<fe> praestigiator.
+Erant foraminoso corpore occultatę passim fistulae, in
+quibus ductile per pinnulas ferrum a mystagogo trahebatur,
+laminis meatus artifitiose cęlantibus. Hinc factum est,
+ut populum Cantianum, imo et An­­gliam totam iam sęculis
+aliquot magno cum quaestu dementarit. Patefactus
+Meidstonensibus meis (gaudeo patriae) spectaculum primitus
+dedit ex summo se culmine confertissimo ostentans populo,
+aliis ex animo aliis Aiacem risu simulantibus<f1>Zum sprichwörtlichen Gelächter des Ajax s. Adagia, 1, 7, 46 (LB II
+280f).<fe>. Delatus hinc circulator Londinum est. Invisit aulam; regem<f1>Heinrich VIII.<fe> ipsum novus
+hospes novo salutat more. Conglomerant apum ritu aulici;
+barones, duces, marchiones, comites adsunt et e longinquo ad
+hoc spectaculi, circumstant, circumspectant, intuentur,
+vident. Agit ille, minatur oculis, aversatur ore, distorquet
+nares, mittit deorsum caput, incurvat deorsum corpus,
+annuit, renuit; vident, rident, mirantur, strepit vocibus
+theatrum, volitat super aethe­ra clamor. Rex ipse incertum
+gavisusne magis sit ob patefactam imposturam, an ex animo
+doluerit magis tot sęculis deludi miserum vulgus. Res ad
+consiliarios delata est. Habita est post aliquot dies
+Londini contio; prędicat e suggestu Roffensis episcopus<f1>John Hilsey, Bischof von Rochester.<fe>,
+stat ex advorsum Danieli Bel Cantianorum summo erectus
+pulpito, ita ut videri ab omnibus commode posset. Hic denuo
+sese aperit, hic denuo comoedus fabulam scite agit;
+mirantur, indignantur, stupent, pudet tam turpiter fuisse ab
+idolo delusos. Cum iam incalesceret concionator ac dei verbum occulte in cordibus eorum operaretur,
+^&xVgl. Thomas von Kempen, Libellus de disciplina claustralium, Opera omnia Bd. II (BBN 753), S. 268, 20f^&x{
+praecipitio demolitus est ligneum truncum in confertissimos auditores. Hic varius auditur diversorum clamor, rapitur,
+laceratur, frustillatim con­scin­di­tur, in mille confractus partes, tandem in ignem mittitur, et hic tulit exitus illum."
+Hactenus ille.
+^$M. vero Thomas Slythurus<fx>^#/+korrigiert aus ^#/-Slythurius^#/+ oder ^#/-Slythurtus.^#/+ In Bullingers Abschrift
+(s. Anm. a):^#/- Schlidnestus.<fe><f1>Thomas Slythurst (Slethurst, Slithurste), aus Berkshire, gest. 1559, studierte
+bereits 1529 in Oxford und war von 1532-1547 Fellow des Magdalen College. Gwalther begegnete auch ihm bei seinem Besuch in Oxford
+persönlich (s. ^#/+Boesch, ^#/-Gwalthers Reise 452). Seit 1534 war er Magister, seit 1536 Priester; 1555 beantragte er die
+Promotion zum Doktor der Theologie. Er versah mehrmals das Amt eines Dekans und wurde 1556 erster Präsident des neugegründeten
+Trinity College. 1546-1556 war er Vikar in Chalfont St Peter, ab 1556 Pfarrer in Chalfont St Giles (beide Buckinghamshire), ab
+1554 außerdem Kanoniker von Windsor. Unter Elisabeth I. wurde er 1559 aller Ämter enthoben; er soll im Londoner Tower gestorben
+sein. - Lit.: Emden, aaO, S. 519f.<fe> ad hunc modum scribit: "Iamdudum Romanensis monstri caput deiectum est. Evertuntur nunc
+undique praecipuę, quibus innitebatur hoc regnum,
+columnę, ne reędificandi imposterum aliquibus detur
+occasio. Otiosa enim illa monachorum ac fraterculorum turba
+e domiciliis truditur, non tamen sine honesto stipendio, quo
+sibi victum quaeritet. Iam etiam verbi dei machinamenta
+superstitioni ac impiis tollendis opinionibus tanquam basi
+ac fundamento per fortissimos Christi ministros admoventur.
+Quatiunt strenue; hiatus enim ac scissurę opinionum, cum
+sibi de impiis suis dogmatibus non conveniat, ruinam brevi
+futuram minantur. In proximo principum ac magnatum nostrorum
+conventu determinatam ac absolutam omnium rerum et opinionum expeditionem expectamus<f1>Die Hoffnungen auf das Parlament,
+das im April 1539 zusammentrat, zerschlugen sich mit der Einführung der Sechs Artikel; s.
+^#/+Elton,^#/- Reform 283-288.<fe>.
+Interim vero consultant et deliberant prudentissimi viri, quomodo hęc sine tumultu fiant" etc.
+^$<vl>2761r.</vl> Thomas Othlaeus<f1>Thomas Otley (Otteley), gest. 1549 oder später, war seit 1536 Baccalaureus und Fellow
+des Magdalen College. Gwalther traf ihn 1537 bei seinem Besuch in Oxford (s. ^#/+Boesch,^#/- Gwalthers Reise 452). 1538 wurde er
+Lektor für Logik, 1541, nach seiner Magisterpromotion (1540), Lektor für Griechisch. 1542 ließ er sich zum Priester weihen.
+Von 1546 an war er Pfarrer von Ripe (Sussex); 1549 wurde er Vikar von Burwash (Sussex). - Lit.: Emden, aaO, S. 426.<fe>,
+iuvenis doctissimus, hęc sic depingit: "Cucullatum papae satellitium indies decrescit. Monachi ac fratres pauci apud nos
+relicti; brevi nulli in universa Anglia erunt. Peregrinationis nullus locus relictus. Divi divęque omnes, quas solebant
+imperiti homines in variis An­­gliae partibus invisere, nunc Londini sunt" etc.
+^$Contigere etiam in harum foelicissimarum rerum cursu
+quędam facinora horrenda, quorum unum describit M.
+Michael Drummęus<f1>Michael Drome.<fe>, de puero duodenario, qui patrem in
+iuditio homicidii reum egit et vicit<f1>Über den Fall ist sonst nichts bekannt.<fe>. Aiebat se vidisse, cum
+famulum interficeret, referebat ordine et locum et modum
+mortuumque cadaver ab ipso et concisum et combustum una cum
+sanguinis vestigiis dixit. Affirmavit hoc tunc praesens
+mater et alius testis, qui in certius rei argumentum
+semiusta ossa e cinere collegerat. Domino itaque ut homicida
+suspenso post aliquot septimanas famulus rediit quaerens
+veterem herum. Res itaque patefacta est, quod matris
+adulterę et adulteri impiis consiliis subornata ista
+fuerunt, quare filius impius cum matre sęva et adultero
+nefando poenas crudeles dedit. Hęc sunt mundi exercitia.
+^$Scribunt et alii doctissimi viri et iuvenes, Heron<f1>John Heron (Heren, Herne, Yerne), gest. 1561, war 1537-1539
+Hilfslehrer am Magdalen College; als solcher lernte ihn Gwalther kennen (s. ^#/+Boesch,^#/- Gwalthers Reise 452). 1546 wurde er
+Magister, 1550 Diakon; von 1552 an war er Schulmeister in Rochester. - Lit.: Emden, aaO, S. 282.<fe>
+scilicet, Northonus<f1>Baldwin Norton, von Coventry (Warwick), geb. um 1514, gest. 1563 oder später, kam 1531/32 an das
+Magdalen College, wo er 1538-1551 Lektor für verschiedene Disziplinen war. Gwalther erwähnt auch ihn in seinem
+Reisebericht (s. ^#/+Boesch,^#/- Gwalthers Reise 452). 1540 wurde er Magister, und 1558 bewarb er sich
+um das theologische Baccalaureat. Bereits 1542 war er zum Priester geweiht worden. Ab 1550 hatte er verschiedene
+kirchliche Pfründen inne, die ihm jedoch 1562 entzogen wurden. 1563 immatrikulierte er sich in Löwen; über sein weiteres
+Schicksal ist nichts bekannt. - Lit.: Emden, aaO, S. 418.<fe> et alii, qui omnes uno ore foelicissimum Brittanniae statum praedicant. Hęc sunt, quorum desyderio te teneri scio.
+^$Misit ad me Ioannis Butleri frater<f1>Nicht namentlich bekannt. ^&xAuffallend ist allerdings, daß Richard Hilles Butler mehrfach
+als seinen Bruder bezeichnet; s. Epistolae Tigurinae bzw. Original Letters, Nr. 104 ("frater meus Butlerus") und 108 ("Butlerus frater").^&x{<fe> annulum
+amicitię pignus, Nicolaus<f1>Nicholas Partridge.<fe> noster par caligarum. Eliottus<f1>Nicholas Eliott.<fe>
+in suis literis chirothecarum mentionem fecit, sed nullas
+recepi adhuc<fx>Eliottus ... adhuc^#/+ am Rande nachgetragen.^#/-<fe>.
+^$Nova apud nos nulla sunt. De libris nunc nihil agere potui;
+abitum enimd. Butlerus accelerat. Orosium<f1>Vgl. oben Nr. 1174, 29-31 mit Anm. 8.<fe> misi, quem te nunc recepisse simul
+cum aliorum pretio arbitror. De cęteris te proximis literis<f1>Unten Nr. 1184.<fe> certiorem faciam.
+^$Salvum te cupitd. Myconius. Salutabis vicissim nomine
+meo universam tuam familiam,d. Theodorum Bibliandrum,
+Pellicanum, Ammianum, Collinum, Binderum, si modo apud
+tantos viros homuntio Gvalterus aliquid potest, iisque hęc
+nova mirabilia nomine meo communices.
+^$Vale bene, patrone observande, et Rodolphum tuum semper tibi commendatum habeto.
+^$3. octobris 1538, Basileę, ex aedibusd. Miconii.
+<un>Rodolphus Gvalterus,
+<un>tui observantissimus.
+<lz>[Adresse auf der Rückseite:] Et pio et erudito virod. Heinricho Bullingero, Tigurinae ecclesiae antistiti
+primario, patrono et praeceptori suo imprimis colendo.
+</content>
+</letter>

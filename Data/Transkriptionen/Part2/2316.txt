@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2316">
+<nr>2316</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>30. Dezember 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 153 (Siegel)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 403, Nr. 1234</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 182 ^&x{
+<re>Den beigelegten Brief [Nr. 2309] hat Blarer bereits vor acht Tagen geschrieben, aber die als Überbringer vorgesehene Person [...] reiste letztlich woandershin. Seitdem gibt es nichts Neues zu berichten. Auch der vor drei Wochen vom [Konstanzer] Rat zu [Thomas Blarer an den Schmalkaldischen Bundestag zu Frankfurt] gesandte Bote [Michael Mörikofer] ist noch nicht zurückgekehrt.
+-^#. Blarer bittet um Nachrichten aus Zürich und Bern. Das in [Nr. 2309] erwähnte Gerücht über [die Gefangennahme] des Landgrafen [Philipp von Hessen] erwies sich als unbegründet.
+-^#. Grüße und Neujahrswünsche.
+-^#. Blarer bittet um schnelle Übermittlung eines Briefes an die Gattin Jakob Röists [Barbara, geb. von Ulm].
+-^#. [P.S.:] Joachim Mötteli erzählt, dass die Zürcher Söldner bei ihrer Heimkehr keine Buße zahlen mussten. Blarer kann dies nicht glauben, zumal Probleme daraus entstehen würden. Bullinger soll berichten.</re>
+<tx>S. Quas<f1>Blarers Brief vom 24. Dezember 1545 (oben Nr.2309).<fe> hic accipis, mi Bu[llingere]<fx>^#/+Hier und im Folgenden Textverlust durch Siegelausschnitt; die fehlenden Buchstaben sind auf der inneren Seite des noch über dem Siegel vorhandenen Papierstücks zu lesen.^#/-<fe>, ante octiduum scripsi,
+sed qui<f1>Unbekannt.<fe> hinc ad vos profecturum se a[ffirmave]rat, mutato consilio alio abiit.
+Sed ne nunc quidem quicquam novi accessit, nec a fratre<f1>Thomas Blarer.<fe>, qui Francofordię<f1>Am Schmalkaldischen Bundestag in Frankfurt.<fe> est,
+remissus est nuncius<f1>Michael Mörikofer, der Thomas Blarer am 14. Dezember einen Brief des Konstanzer Rats vom 6. Dezember (^#/+Fabian,^#/- Quellen, 188f, Nr. 23) überbrachte. Erst am 27. Dezember machte sich Mörikofer wieder auf den Weg nach Konstanz und traf dort am 31. Dezember ein; s. aaO, S. 192. 194. 202f. 210. - Ein weiterer Brief des Rats an Thomas Blarer vom 19. Dezember (aaO, S. 197-201, Nr. 29) wurde diesem am 26. Dezember durch den Konstanzer Boten Siegmund Bott überbracht (aaO, S. 203).<fe>, quem senatus ad ipsum ante tres hebdomadas abmandandum curavit.
+^$De vestris rebus, ut habeant, audire certum quiddam vehementer avemus.
+De Bernatibus varia iactantur.<f1>Zur Lage in Bern s. zuletzt oben Nr. 2306, 2-17.<fe>
+De landtgravio<f1>Philipp von Hessen.<fe> vana esse, quę in altera epistola<f1>Zur angeblichen Gefangennahme Philipps s. oben Nr. 2309, 46-49.<fe> scripsi, iam omnino mihi persuadeo, quod nulla sequuta sit orti rumoris confirmatio.
+^$Bene vale, mi venerande et charissime frater, et Christo nos christiane commenda.
+Is faxit, precor, ut sint tibi tuisque omnibus ineuntis anni auspicia longe felicissima, procedentis et exeuntis fluxus plusquam felicissimus.
+^$Constantiae, 30. decembris 1545.
+^$Literas uxori<f1>Barbara, geb. von Ulm.<fe> Iacobi Roͤstii inscriptas<f1>Es ist unbekannt, von wem dieser Brief an die mit Blarer verwandte Gattin Jakob Röists stammte.<fe> multum obsecro, ut illi quamprimum
+reddendas cures, quo possit illis uno atque altero verbo respondere.
+<un>Tuus Ambr. Blaurerus.
+<lz>Es hat Jochim Moͤtteli<f1>Der Vogtherr Joachim Mötteli vom Rappenstein.<fe> hie ussgeben<f1>erzählt.<fe>, die von Zuͤrch habind ire krieger on alle engeltnusß widerum lassen inkommen.
+Das will mir nitt gloplich sein. Wa es aber were, sorg ich ubel, es moͤcht ein boͤses exemplum sein
+anderen leuten (dan unser krieger stellend ouch widerum herein<f1>stellen ... herein: stellen sich ein, kehren zurück.<fe>)<fx>^#/+Klammern ergänzt.^#/-<fe>,
+will man yetzund ewer exempel den leüten inbilden<f1>vor Augen stellen.<fe>.
+Lasst mich mitt ainem wort wissen, wie es stande.<f1>Bullinger erklärte Blarer das Verhalten der Zürcher gegenüber zurückkehrenden Söldnern in seiner Antwort vom 1. Januar 1546 (St. Germain Kantonsbibliothek [Vadiana], Ms 35 [VBS VI], 94; Blarer BW II 405f, Nr. 1236).<fe>
+<lz>[Adresse auf der Rückseite:] Dem erwirdigen, hochgelerten maister Hainrich Bullinger, meinem fuͤrgeliepten herren und bruͦder zuͦ Zuͤrich.
+</content>
+</letter>

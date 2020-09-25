@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2512">
+<brief>
+<id>16202</id>
+<nr>2512</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 24. Juli 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 238 (neu: 256) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Zürich ZB, Ms S 61, 41; Zit.: <i>Gast,</i> Tagebuch 43</k></dr>
+<re>Die Nachricht über [Sebastian] Schertlin und das Gold des Papstes [Paul III.] erwies sich als falsch.
+<t/>Der Adlige [Hans Ludwig] von Mülinen hat sich mit Pferden und einem Diener [...] (die ihm sein Verwandter [Ludwig] von Reischach zur Verfügung gestellt hatte) auf den Weg nach Kempten begeben. Er wurde aber dort nicht eingelassen. Als er zum Kloster Salem kam, stieß er auf etwa 200 zechende Soldaten und junge Mönche, und traf auch Adlige an, die ihm bekannt waren. Letztere bemerkten, dass sie lieber mit Kaiser [Karl V.] nach Ungarn ziehen würden als gegen die [Schmalkaldener], vor denen sie Angst hätten. Man erwäge die Bedeutung dieser Worte!
+<t/>Das Verhalten der Fünf Orte ist ärgerlich. Sie sollen in Beckenried versammelt sein. Wenn ihnen nur das widerfahren würde, was Myconius ihnen schon früher wünschte! Bullinger soll weiter berichten.
+<t/>Aus Straßburg meldet man das Vorrücken eines Heereszugs von 25'000 Mann aus Belgien gegen die [Schmalkaldener]. Hoffentlich hat [Landgraf Philipp von] Hessen sein Territorium für einen Angriff gut befestigt, ehe er es verließ!
+<t/>In [Basel] befindet sich ein Mömpelgarder [...], der in der Umgebung (nicht aber in Basel selbst) mustert. Die Söldner werden nach Straßburg geschickt, wohl zu Graf [Georg von Württemberg], dem Bruder Herzog [Ulrichs] von Württemberg. Graf Wilhelm von Fürstenberg leidet an Melancholie.
+<t/>Bullinger soll den Überbringer [...] des vorliegenden Briefes an Konrad Gessner empfehlen. Dieser soll sein Versprechen halten. Myconius lässt ihn grüßen.
+<t/>Das Zögern der [protestantischen Eidgenossen] könnte üble Folgen haben.
+<t/>Myconius schreibt [Briefe], müsste aber arbeiten!</re>
+<text>
+<p>S. <zzl>zl16202-1A</zzl>Qu{e} dixi
+<fn>In <qv>nr2509</qv>,<qv>zl16199-2</qv>.</fn> de Schertlio et occupato auro pap{e}
+<fn>Paul III.</fn>, vanum esse intelligo; quod mihi dolet.<zzl>zl16202-1E</zzl></p>
+<p>Hoc certum: Fuit nobilis de Mülinen
+<fn>Wohl Hans Ludwig IV. von Mülinen zu Wildenstein (geb. 1525, gest. vor 1572), dessen Mutter Elisabeth von Reischach hieß (s. Berchtold von <i>Mülinen,</i> Familien-Geschichte und Genealogie der Grafen von Mülinen, Berlin 1844, S. 27f. 30; Urs Martin <i>Zahnd,</i> Die autobiographischen Aufzeichnungen Ludwig von Diesbachs. Studien zur spätmittelalterlichen Selbstdarstellung im oberdeutschen und schweizerischen Raume, Bern 1986, S. 418), und der später die im Hause Ludwigs von Reischach wohnende Stieftochter, Ursula von Bärenfels, heiratete. Reischach hatte nämlich nach 1543 deren Mutter Katharina Nagel von Königsbach, die Witwe Jakobs von Bärenfels (gest. 1543) geheiratet; s. <a>AK</a> VII 327, Anm. 3.</fn> in itinere ad Campidunum
+<fn>Kempten.</fn>, cui ut cognato dominus de Rischach
+<fn>Ludwig von Reischach.</fn> et equos et famulum
+<fn>Unbekannt.</fn> dederat. Illo tamen penetrare non poterat.
+<fn>Vgl. <qv>nr2492</qv>,<qv>zl16182-4</qv>. - Ludwig von Reischach war ein Anhänger des Kaisers; s. <a>HBBW</a> XIII 271,14f; und oben <qv>nr2470</qv>,<qv>zl16160-2</qv>.</fn> Venit ergo ad monasterium Salmerschwilam
+<fn>Die Reichsabtei Salem (Salmansweiler) am Bodensee, von wo sich die kaiserlichen Truppen kurz zuvor zurückgezogen hatten; vgl. <qv>nr2505</qv>, <qv>fn16195-2</qv>.</fn>. Reperit milites ad ducentos egregie bibentes et monachos iuvenes fortiter et fundentes
+<fn>Wein einschenkend.</fn> et potantes. Adiit ibi nobiles, quos norat, qui omnes uno ore hoc modo fatebantur: "Wenn uns der keyser
+<fn>Karl V.</fn> in Ungarn f{uo}rte, werend wir allsamen fr{uo}tig
+<fn>munter.</fn> und fr{oe}lich. Wenn wir aber gedenckenn, wider wän er uns f{ue}ren wil, ist uns hertz und m{uo}t empfallen." Expende, quid h{e}c verba significent! Oremus nos, ut sit mens sana in corpore sano
+<fn>Vgl. <i>Juvenal,</i> Satiren, 10, 356.</fn> ac forti.</p>
+<p>De Quinquepagicis equidem vehementer ringor. <zzl>zl16202-2A</zzl>Vellem, quod olim volui,
+<fn>Vgl. <qv>nr2508</qv>,<qv>zl16198-2</qv>.</fn> si foret occasio.<zzl>zl16202-2E</zzl> Aiunt eos simul esse in Beggenried
+<fn>Beckenried (Kt. Nidwalden); vgl. <a>EA</a> IV/1d 652 l (ohne Angabe des Treffpunktes).</fn>. Si quid rescieris, exponito.</p>
+<p><zzl>zl16202-6A</zzl>Heri intellexi ex Argentina exercitum 25'000 venire contra nos ex Belgico.
+<fn>Vgl. schon <qv>nr2491</qv>,<qv>zl16181-5</qv>. - Damals grassierte die Nachricht über das Vorrücken des kaiserlichen Feldherrn Maximilian von Egmont, Graf von Büren. Sein Heer sollte aber geringer ausfallen, als man es Mitte Juli befürchtete. Im August führte er 12'000 Fußsoldaten und 4'000 Reiter mit sich; s. <qv>nr2514</qv>,<qv>zl16204-5</qv>; <a>PC</a> IV/1, 248f, Nr. 225 (vom 18. Juli); 255, Nr. 233 (vom 23. Juli); 276, Anm. 3; Zürich StA, A 177, Nr. 21.<zfn>fn16202-2</zfn></fn><zzl>zl16202-6E</zzl> <zzl>zl16202-5A</zzl>Quod si verum, miror, cur Hessus
+<fn>Landgraf Philipp von Hessen, damals auf dem Vormarsch Richtung Süden; s. Karl <i>Ebel,</i> Kleine Beiträge zur Geschichte Hessens im Schmalkaldischen Krieg, in: Philipp der Grossmütige. Beiträge zur Geschichte seines Lebens und seiner Zeit, Marburg 1904, S. 568f.</fn> a patria discedat tam procul, nisi forte post tergum omnia sic habeat munita,
+<fn>Vgl. <qv>nr2498</qv>,<qv>zl16189-14</qv>; <qv>nr2516</qv>,<qv>zl16206-7</qv>.</fn> ut timere nequeat.<zzl>zl16202-5E</zzl></p>
+<p><zzl>zl16202-4A</zzl>Est hic Monbelgardensis, qui milites conscribit,
+<fn>Unbekannt.</fn> non Basilienses, sed extraneos. Mittit eos Argentinam, credo ad comitem fratrem
+<fn>Georg von Württemberg-Mömpelgard.</fn> ducis Wirtenbergensis
+<fn>Ulrich von Württemberg.</fn>.<zzl>zl16202-4E</zzl> Gulielmus comes Furstenbergensis laborat melancholia,
+<fn>Zur Depression des Grafen Wilhelm von Fürstenberg s. <a>Wagner, Fürstenberg</a> 267f.</fn> nimirum quod nihil processerit ex animo.</p>
+<p><zzl>zl16202-3A</zzl>Qui has reddit,
+<fn>Ein Engländer (s. <qv>nr2516</qv>,<qv>zl16206-9</qv>). Warum Rudolf Steiger in seinem "Promptuarium Konrad Gessner" (Zürich ZB) hier den Arzt John Caius vermutet, bleibt schleierhaft. Caius hatte zwischen 1539 und 1544 in Italien und Basel gelebt. Seine Bekanntschaft mit Gessner ist vor 1555 bezeugt; s. <i>Gessner,</i> Historiae animalium liber III., Zürich 1555 (<a>VD16</a> G1730), f. a6r.; <a>Zurich Letters</a> I 31. 17 des Anhangs. Allerdings müsste man annehmen, dass Caius während der für seine Biographie schlecht belegten Zeitspanne zwischen seinem Weggang aus Cambridge im September 1545 und seiner Anstellung in London im Jahre 1547 eine Reise auf den Kontinent im Laufe des Jahres 1546 unternommen hatte; s. John <i>Venn,</i> The Works of John Caius ... with a Memoir of his Life, Cambridge 1912, S. 7. - Siehe ferner <qv>nr2550</qv>, <qv>fn16239-1</qv>.<zfn>fn16202-3</zfn></fn> aditurus est d. Cunhardum Gesnerum. Ei, qu{e}so, hominem commendes. Et iube, ut fidem solvat; novit enim, quid mihi sit pollicitus.<zzl>zl16202-3E</zzl> Eundem salutabis.</p>
+<p>Timent boni, ne dilationes, quibus nostri
+<fn>Hier sind wohl weniger die Schmalkaldener als vielmehr die protestantischen Stadtkantone der Eidgenossenschaft gemeint, die gemeinsam mit ihren verbündeten Orten dem Landgrafen, dem Kurfürsten Johann Friedrich von Sachsen und den schmalkaldischen Städten Süddeutschlands keine konkrete Antwort auf deren Hilfsgesuch gaben, sondern sie mit einem neutralen Verhalten und auf eine spätere Antwort vertrösteten; s. <a>EA</a> IV/1d 633f i.5 und 7; Zürich StA, A 227/1, Nr. 80. Die Unzufriedenheit Myconius' mit der Haltung der protestantischen Eidgenossen geht schon aus <qv>nr2508</qv> hervor.<zfn>fn16202-1</zfn></fn> utuntur, cessur{e} sint nobis in malum. Ego tamen spero, quia dominum habent in oculis, consiliis non aberraturos.</p>
+<p>Vale cum tuis in domino. Ich sott studieren, so
+<fn>jedoch.</fn> tribt min anfechtung
+<fn>Affekt, Betroffenheit; s. <a>SI</a> I 666.</fn> z{uo} schriben. Basile{e}, 24. iulii anno 1546.</p>
+<un>Tuus Os. Myco.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, viro doctissimo, ecclesi{e} Tigurin{e} pastori fidelissimo, fratri in domino observando suo.</p>
+</text>
+</brief>

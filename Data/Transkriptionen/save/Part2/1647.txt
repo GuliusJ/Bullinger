@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1647">
+<nr>1647</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>1. August 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 113 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 51, 156^&x{
+<re>Dank für den erhaltenen Brief; erwartet gespannt die aus Vorsicht zurückgehaltenen Nachrichten. [König] Ferdinand ist am 22. Juli in Nürnberg angekommen, aus keinem anderen Grund, als um erneut Geld einzutreiben; möglicherweise wird er auch beraten wollen, wie man [Landgraf Philipp von] Hessen
+abhalten könnte, [Herzog Heinrich von] Braunschweig weiter zu schaden; bedauert die Einnahme einer christlichen Stadt durch die Türken, die - wie es heißt - 200'000 bewaffnete Soldaten gegen Ungarn führen; sobald [Cheireddin] Barbarossa Italien angreift, wird der Franzose [Franz I.], falls möglich,
+Mailand besetzen. Gerüchte über englische Unterstützung für Kaiser [Karl V.] gegen Frankreich und über dessen Heirat mit Maria [Tudor].
+Gestern starb der Zürcher Unterschr.eiber Burkhard Wirz. Am 6. August kommen die Eidgenossen in Baden [zur Tagsatzung] zusammen. Erkundigt sich, welche Teile des Matthäuskommentars [HBBibl I 144] Vadian noch braucht.
+</re>
+<tx>[Gedruckt: Vadian BW VI 145, Nr. 1250.]
+^&xGratiam et pacem. Gratae fuerunt literae tuae, Vadiane
+doctissime et colendissime frater; sed gratiora fuissent,
+quae habes, sed non cuivis committere voluisti. Expecto,
+quid sis daturus.
+^$Ferdinandus 22. iulii Nerobergam venit, non alia causa
+potiore, quam ut nova exactione in gentem contrahat
+pecuniam. Es ist alles verschnappt, was angelayt.
+^$Consultabitur fortassis, quomodo Hessus impediatur,
+quominus noceat Brunschvicensi. Doleo captam urbem
+christianam a Turcis. Utinam non aliquo portento nobis
+futura praenunciet!
+^$Turcam aiunt ducentena milia contra nostros armasse et
+instructissima atie movere in Ungariam.
+^$Barbarossa classe instructissima Italiam invadet, ad quam
+occasionem Gallus Mediolanum occupabit, si poterit.
+^$Caesarem aiunt Angliam ingressum, Anglum armasse contra
+Gallum, duxisse Mariam et myriades aliquot auri avexisse
+secum. De myriadibus Anglus quidam, qui intra mensem in
+Anglia fuerat, retulit; de novis nuptiis in Anglia nihil
+audierat; Antverpiae, Bruxellae atque Mechalingiae rumorem
+demum audivit; de exercitu item in Gallum armato nil poterat
+certi referre.
+^$Heri excessit Burghardus Wirtzius, subscriba urbis nostrae.
+^$Plura non potui.
+^$6. augusti Badenae convenient Helvetii etc.
+^$1. augusti 1542.
+^$Last mich wüssen, welchs der letst tritern in Matthaeo.
+<un>H. Bullingerus tuus.
+<lz>[Adresse .....:] Clarissimo viro D,
+Ioachimo Vadiano, domino colendissimo.^&x{
+^&xBenedikt Euander an HB, "3." August [1542/43] (so
+Kartei StAZ), "Ego tibi nuper misi", E II 345, 227, siehe:
+5. August [1539].^&x{
+</content>
+</letter>

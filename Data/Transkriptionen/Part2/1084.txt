@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1084">
+<nr>1084</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>24. Dezember 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 137 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>
+Ist durch Beschluß beider Räte seines Amtes enthoben worden, da er nicht bereit war, seinen Namen für Bucers Katechismus
+herzugeben; befürchtet, daß die bestechlichen Ratsherren noch mehr Schaden anrichten werden. Da [Bullinger und Jud] nun nichts
+mehr für ihn tun können - abgesehen davon, daß sie Erasmus [Ritter] Rat erteilen sollen -, erneuert er im Hinblick auf seine Rückkehr einzig seine Bitte,
+ihm [bei der Beschaffung einer Unterkunft] behilflich zu sein. Daß Ritter, wenn auch unter Vorbehalt,
+unterschreiben will, bringt die Berner Kirche in eine schwierige Lage; bittet deshalb, auf ihn einzuwirken, um das Übel vielleicht doch noch abzuwenden.
+</re>
+<tx>Gratiam a domino.
+^$Certo ad vos hoc nuncio<f1>Unbekannt.<fe> nacto, quomodo res mea se habeat, indicare vel verbo placuit. Quid callidus suis
+machinacionibus ac cuniculis insidiator queat, hodie revera expertus sum. Quando enim per omnia catechizmo Buceri nomen dare
+Megander noluit, in pedes se vel Tigurum versus dare<f1>Zur Redensart vgl. Plautus, Captivi 121.<fe> cogitur. Senatus enim
+ac populi consulto<f1>d. h. durch Beschluß des Kleinen und Großen Rates. - Zur Ratssitzung vom 24. Dezember s. ^#/+Straßer^#/- 148f.<fe> ob subscripcionis recusacionem
+missus factus est, beneficii tamen, ut ita dicam, stipendio ad quadragesimam usque concesso. Nihil potuit amplius Christus, id
+quod nemo pius plurimum non dolet, deflet ac deplorat. Verendum certe, ne horum hominum
+consiliis ac conatibus maius aliquod malum statuatur. Plerique enim adfectantes principum munera et id genus alia. Quando non
+aliud quicquam, quantum me attinet, expectandum esse<fx>esse ^#/+vom Schreiber korrigiert aus ^#/-est.<fe> nec vobis eciam hac in re tentandum video<fx>video ^#/+am Rande nachgetragen.^#/-<fe> excepto consilio Erasmo
+dando<f1>Vgl. unten Z. 17-23.<fe>, reditum ad domum maturabo. Solum hoc vos<fx>^#/+vor ^#/-vos^#/+
+gestrichenes^#/- vo.<fe> iterum oro rogoque, ut rebus meis consulatis<f1>Megander hatte bereits mehrfach gebeten, ihm eine passende Behausung zu verschaffen; s. zuletzt oben Nr. 1082, 23.<fe>.
+^$Bernę, 24. decembris anno 37.<un>Megand. totus vester.
+<lz>Erasmus, de quo supra, subscripcionem pollicetur, sed sub condicione, quo non parum ecclesia nostra suspensa et dubia
+facta est. Si qui mecum recusasset dedicionem, non dubito, ecclesia nostra aliquid conata esset aut conaretur adhuc hodie
+ad infringendum hoc malum. Consulite igitur homini, quod sanctum et syncerum est, idque primo quoque die. Unicum hoc certe medium
+est, quo malum hoc a nobis auferetur, si vestro consilio recusaturus est subscripcionem.
+<lz>[Adresse auf der Rückseite:] Ecclesię Tigurinę verbi ministris Bullingero et Leoni vigilantissimis, in domino fratribus charissimis. Zurich.
+</content>
+</letter>

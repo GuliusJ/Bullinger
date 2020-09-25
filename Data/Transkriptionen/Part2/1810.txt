@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1810">
+<nr>1810</nr>
+<correspondents>
+	<originator>[Bullinger]</originator>
+	<addressee fn=1>[Joachim Vadian oder Ambrosius Blarer]</addressee>
+	<note fn=1>Der Aufbewahrungsort des Briefes legt Joachim Vadian oder Ambrosius Blarer als Empfänger nahe.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. November [1543]</date>
+	<note>Das Jahr ergibt sich aus der Nachricht von der Hochzeit Samuel Wyttenbachs und Küngold von Schönaus; vgl. oben Nr. 1795f, 1800f und 1807.</note>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 32 (VBS III), 252</vo>
+<re>Am 5. November fand die Hochzeit von Niklaus Wyttenbachs Sohn [Samuel] und [Küngold,] der Tochter des Zürcher Bürgers Hans von Schönau, statt, wozu sich in Zürich viele Ehrenleute aus Bern, Biel und Neuenburg eingefunden haben; unter den Gästen befand sich auch Hans Wunderlich, der Unterhändler des Franzosen [Franz I.], dem heute Morgen ein von Lyon nach Venedig reisender Bote berichtet hat, dass Kaiser [Karl V.] am 30. Oktober in der Nacht mit seinen Truppen sein Lager [bei Landrecies] verlassen habe; Wunderlich erwartet morgen genauere Nachrichten. Was, wenn der Abzug nur ein Täuschungsmanöver ist? Gott schütze uns vor den Spaniern!
+</re>
+<tx>[Gedruckt: Vadian BW VII 105f, Nr. 78.]
+</content>
+</letter>

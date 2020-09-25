@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2233">
+<nr>2233</nr>
+<correspondents>
+	<originator>Johannes Caesarius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Frankfurt am Main</place>
+	<date>August oder September 1545]</date>
+	<note>Nach der Einberufung des geplanten Zweiten Religionsgesprächs zu Regensburg, welches in Bullingers Briefwechsel erstmals in der zweiten Augusthälfte erwähnt wird; s. oben Nr. 2221 und Anm. 5. - Schon am 16. März [1545] erwartete Caesarius Bullingers Lukaskommentar; s. oben Nr. 2113, 6-13.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1479 (Siegelspur)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 91 (dat.: ca. Okt. 1545)^&x{
+<re>Viele, darunter auch Caesarius, warten ungeduldig auf Bullingers Lukaskommentar. Da aber einige behaupten, Bullinger wäre einer der [vorgesehenen] Gesprächspartner des von [Karl V.] einberufenen [Zweiten] Regensburger [Religions]gesprächs, fürchtet Caesarius, dass jener Kommentar mit noch größerer Verspätung erscheinen wird.
+-^#. Cochläus wollte Caesarius' Meinung über seine Schrift ["De Petro et Roma", Köln 1525 (VD 16 C 4353f)], die er gegen [Ulrich] Velenus geschrieben hatte, erfahren. Velenus ist derjenige, der es als Erster wagte [in seiner 1520 erschienen Schrift "In hoc libello gravissimis ... racionibus ... probatur apostolum Petrum Rhomam non venisse neque illic passum" (VD 15 V 504f)] zu behaupten, Petrus wäre nie in Rom gewesen. Caesarius antwortete mit der Frage, ob Cochläus denn wirklich der Meinung sei, dass die "Konstantinische Schenkung" auf Konstantin [den Großen] zurückgehe? Daraufhin verstummte Cochläus und zuckte nur die Schultern nach italienischer Art. Cochläus verfolgt eben nur sein eigenes Interesse bei den Großen [dieser Welt] und sucht nicht Christi Ehre!
+-^#. Grüße an den besonderen Freund [Rudolf] Gwalther, an die anderen Frommen und Gelehrten, besonders an Joachim Vadian, dessen Schriften Caesarius gerne liest.</re>
+<dra>[Gedruckt: ^#/+Krafft^#/- 136f.]</dra>
+^&x<tx>Salutem in Christo Iesu, domino et servatore nostro.
+^$Non pauci una mecum avide expectant, ut tua tandem in Lucam commentaria in
+lucem prodeant iamdudum promissa, atque ob id ipsum, cum quidam mihi persuadere
+vellent te unum fore e numero colloquentium apud Ratisbonam ex cęsaris ac
+principum iussu atque consensu<f1>Vom 27. Januar bis 10. März 1546 fand ein (zweites) Religionsgespräch in Regensburg statt; Bullinger war nicht Kolloquent.<fe>, vereri poteram,
+ne hac occasione votis nostris vel post longam expectationem frustraremur.
+Vix credas, quam delecter tuorum scriptorum<fx>scriptorum ^#/+am Rande nachgetragen.^#/-<fe> lectione, non ob styli tantum elegantiam
+quam ob rerum nostrę religionis exactissimam declarationem expositionemque.
+Garriant alii, tui videlicet adversarii, quantumvis velint,
+parum profecto ad palatum meum faciunt illorum veluti delyramenta.
+^$Cochleus, unus ex illis, sciscitatus aliquando ex me fuit, quanti facerem sua scripta contra Velenum,
+authorem scilicet illum, qui primus omnium inter recentiores
+ausus fuit memorię commendare Petrum nunquam fuisse Romę.
+Cui ego tum respondi me posse uno ac brevi responso omnia eius argumenta solvere.
+Ille mox hęsitabundus: "Et quo", inquit, "pacto id fiet?"
+Tum ego: "Credis tu", inquam, "donationem illam Constantini, quam iactant pontificii,
+revera ab ipso Constantino factam?"<f1>Zu Cochläus und konstantin. Schenkung s.a. Conradin ^#/+Bonorand,^#/- Die Reaktion Bullingers, Joachim Vadians und anderer evangelischer Schweizer auf die antireformatorische Tätigkeit des Johannes Cochläus, in: HBGesA II 216.<fe> Ad quod ille nihil respondit, sed tantum
+contractis humeris Italorum more prorsus subticuit<f1>= subtacuit; s. ^#/+Hoven^#/- s.v.<fe>.
+Intelligis tu, mi Bullingere, quid illis verbis volebam innuere.
+Videtur mihi idem homo venator esse favorum et benevolentiarum magnorum virorum,
+atque scribere in gratiam hominum magis<fx>magis ^#/+am Rande nachgetragen.^#/-<fe> quam querere gloriam dei et Christi.
+^$Sed his bene valeat tua humanitas simulque meis verbis salutet Rodolphum Gvalterum, summum amicum meum,
+ac cęteros apud vos viros et pios et eruditos et cum primis
+Ioachimum Vadianum, cuius scripta libenter lego.
+<un>Ioannes Cęsarius, ex animo
+<un>tuus totus.
+<lz>[Adresse auf der Rückseite:] Eruditissimo necnon et pientissimo viro Henricho Bulyngero apud Tugirum, Elvetiorum insigne oppidum, concionatori pręstantissimo, amico suo optimo et prope incomparabili.^&x{
+</content>
+</letter>

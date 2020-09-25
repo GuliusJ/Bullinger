@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2173">
+<nr>2173</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>3. Juni 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 133f (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 367f, Nr. 1188</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 120 ^&x{
+<re>Bullinger soll sich dafür einsetzen, dass kein [Zürcher] Drucker [Johannes] Zwicks ["Christenlicher gantz trostlicher underricht ... mit ainer gar schoͤnen außlegung, des Vatter unsers, ouch der siben letsten wort Christi"] herausgibt, da dies der [Konstanzer] Drucker [Balthasar Romätsch] unter großem Kostenaufwand tut. Notfalls soll sich Bullinger an Rat und Bürgermeister [Johannes Haab und Hans Rudolf Lavater] wenden, oder Blarer tut es selbst, wenn Bullinger dies vorzieht. Blarer, Romätsch und auch Konrad Z[wick] wären dankbar, wenn Bullinger sich dafür einsetzen würde.
+-^#. [Blarer hat Hans] Welsers Brief an Bullinger [Nr. 2156] [Heinrich von Ulm] anvertraut, der ihn [Jakob] Röist übermittelt hat.
+-^#. Man weiß [in Konstanz] noch nicht, ob ein Waffenstillstand mit den Türken vereinbart wurde. Die [kaiserlichen] Gesandten [Gerhard Veltwyck, Nikolaus Sick und Giovanni Maria Malvezzi] sind anscheinend noch nicht zurückgekehrt. Manche glauben, dass [Karl V.] und [Franz I.] paktieren, um sich die Welt aufzuteilen, ohne aber Papst [Paul III.] dabei zu benachteiligen.
+-^#. In der Angelegenheit [der Kriegskunst Konrad Zwicks] möchte [Heinrich von Ulm] unbedingt an Bullinger schreiben, um sein Gewissen zu erleichtern.
+-^#. Bullinger schreibt Schreckliches über [die Verfolgung] der Waldenser. Mögen die Überlebenden auf dem Weg der Wahrheit bleiben und die Gegner die Strafe Gottes zu spüren bekommen! Auch wenn sie das Evangelium mit ihrem Blut bezeugen müssten, trösten sich die Gläubigen mit dem Gedanken, dass sie für denjenigen streiten, der zur Rechten Gottes sitzt und einst gesagt hat: "Saul! Saul! Warum verfolgst Du mich?"
+-^#. [Heinrich von Ulm] wird einen Boten [...] nach Zürich abordnen, dem Blarer seinen Brief anvertraut.
+-^#. Vom Reichstag [zu Worms] gibt es nichts Neues. König [Ferdinand I.] und [Otto Truchsess von Waldburg] wollen den Schwäbischen Bund wieder aufrichten. Viele [Protestanten] scheinen dazu sogar geneigt zu sein, wo doch die [Katholiken] nur ihre eigene Sicherheit und die Gefährdung [der Protestanten] anstreben!
+-^#. Blarer bittet Bullinger um Einsatz bei den Bürgermeistern [Johannes] Haab und [Hans Rudolf] Lavater in Blarers Anliegen [das Bündnis zwischen Konstanz und der Eidgenossenschaft].
+-^#. Grüße.</re>
+<tx>Salve, mi venerande et charissime Bullingere.
+^$In hoc unum epistolium hoc mitto, ut te, quam possum, rogem, quo vel mea caussa, quantum quidem in te est,
+caveas, ne typographi vestri istic mox suis typis excudant, quę noster<f1>Balthasar Romätsch (Rum[m]etsch) aus Tübingen wirkte ab 1543 mit Unterstützung der Familie Blarer, aber nur wenig erfolgreich, als Drucker in Konstanz. Er war jedoch schon 1548 wieder in seinem vorherigen Beruf als Lehrer tätig. Wohl aufgrund seiner hohen Schulden wurde er 1549 aus Konstanz verwiesen. - Lit.: ^#/+Reske^#/- 491 (mit weiterer Lit.).<fe> hic iam
+magnis sumptibus pro sua tenuitate invulgat, idque ex optimi Zvicci nostri<f1>Johannes Zwick.<fe> enarrationibus in septem postrema domini verba cum aliis nonnullis, etc.<f1>Romätsch brachte 1545 Johannes Zwicks "Christenlicher gantz trostlicher underricht ... mit ainer gar schoͤnen außlegung, des Vatter unsers, ouch der siben letsten wort Christi" heraus; s. oben Nr. 2124, Anm. 7. Im März hatte Bullinger auf die Bitte Konrad Zwicks hin den Zürcher Drucker Augustin Mellis, gen. Fries, gefragt, ob er dieses Werk drucke, was Letzterer verneinte; s. Nr. 2124, 4-8. Am 27. August bat Blarer Bullinger erneut, den Druck dieses Werkes in Zürich zu verhindern (unten Nr. 2227, 83-95); am 7. Oktober übersandte er schließlich ein fertiges Exemplar (unten Nr. 2263, 93-96). - In Zürich wurde dieses Werk nie gedruckt.<fe>
+Aequum enim videtur, ut charitas istuc ab eis impetret, ut lubenter primum<fx>^#/+In der Vorlage^#/- priorem.<fe> videant lucro,
+qui priores hac in re sumptus fecit, praesertim quum alioqui satis illis sit materię, unde lucrum venentur,
+et vos ipsis abunde suppeditetis argumenta, quibus prela sua exerceant.
+Age igitur, mi Bullingere! Pro tua apud illos authoritate effice, ne intempestiva
+ipsorum sedulitas miselli huius nostri honestis conatibus quicquam officiat.
+Quodsi forte senatus aut consulum vestrorum<f1>Johannes Haab und Hans Rudolf Lavater.<fe> officium implorare hic oportet, tu etiam
+istuc nostra caussa haud gravatim, scio<fx>scio ^#/+am Rande nachgetragen.^#/-<fe>, facies, nisi me forte facere hoc malis.
+Gratificaberis non mediocriter non mihi solum et typographo nostro, verum etiam
+Conrado Z.<f1>Zu Konrad Zwicks Rolle s. oben Anm. 3.<fe> nostro, qui non ignoras, quam te amet pariter et observet.
+^$Misi ad te epistolam Welseri<f1>Der Brief Hans Welsers vom 10. Mai, oben Nr. 2156.<fe>, Augustani consulis, per Röstium<f1>Jakob Röist, der zu dieser Zeit in den Kleinen Rat von Zürich aufgenommen wurde (s. unten Nr. 2179), war offensichtlich an den Verhandlungen mit Konstanz beteiligt. Ihm wird Heinrich von Ulm, der sich am 13. Mai mit einem Brief Blarers vom gleichen Tag von Griesenberg aus nach Zürich begab (s. oben Nr. 2153, 77f. 97f), wohl kaum Welsers Brief vom 10. Mai in Zürich übermittelt haben. Vielmehr wird er diesen Brief Röist bei einem Treffen in Griesenberg (s. unten Nr. 2190, 22f) noch vor Ende Mai 1545 im Rahmen der Verhandlungen über Konrad Zwicks Kriegskunst, bei denen auch Johannes Haab und Zwick selbst anwesend waren (s. unten Nr. 2182, 3-5), übergeben haben.<fe>, cui sororius noster<f1>Heinrich von Ulm.<fe> hanc tibi reddendam mandavit.
+^$Induciae cum Turco<f1>Suleiman I.<fe> an impetratę sint, a nostris etiamnum ignorantur, nec existimant rediisse adhuc legatos.<f1>Von Karl V. wurde Gerhard Veltwyck, von Ferdinand I. wurden Nikolaus Sick und Giovanni Maria Malvezzi an die Pforte entsandt; s. oben Nr. 2153, Anm. 16. Ein Waffenstillstand kam aber erst am 10. November 1545 zustande; s. unten Nr. 2301, Anm. 33.<fe>
+Sunt, qui plane sibi persuadent caesarem<f1>Karl V.<fe> et Gallum<f1>Franz I.<fe> miris modis colludere<f1>Seit dem Frieden von Crépy von September 1544 ist dies durchaus vorstellbar. So reiste etwa der kaiserliche Gesandte Veltwyck zusammen mit dem Gesandten Franz' I., Jean de Montluc, nach Konstantinopel; s. oben Nr. 2153, Anm. 16.<fe> totosque in eo esse,
+ut totum etiam orbem, si fieri possit, inter se partiantur non defraudato interim Romano pontifice<f1>Paul III.<fe>.
+^$De consobrini<f1>Konrad Zwick. - Er versuchte, seine Kriegskunst durch Vermittlung der Zürcher an die Eidgenossen zu verkaufen; s. zuletzt oben Nr. 2153 und Anm. 23.<fe> negocio sororius ad te nonnihil perscribet<f1>Nicht erhalten.<fe>. Cupit ille modis omnibus animo suo
+satisfacere et suam liberare conscientiam, quod ad vos quidem attinet; deinde satis erit occasionum,
+quas arripere absque christianę legis praevaricatione poterit et suam rem facere.
+^$Horrenda sunt et plusquam crudelissima, quae de Waldensibus scripsisti<f1>Oben Nr. 2158, 55-81.<fe>. Dominus illis adsit;
+quos reliquos fecit ista clades, ut in veritatis via, quam semel ingressi sunt, strenue pergant.
+Ultorem olim sentient et vindicem sanctorum suorum adversarii, qui domini tolerantia et longanimitate hunc in modum abutuntur.
+Scimus nos<fx>nos ^#/+aus^#/- vos ^#/+korrigiert.^#/-<fe>, in quem usum simus positi, atque unum hoc nos consolatur, quod ad dexteram patris consedit,
+cui militamus, et omnia videt, qui olim dicebat: "Saule, Saule, quid me persequeris?" [Apg 9, 4].
+Quod si ita visum illi fuerit, ut nostro sanguine evangelium suum testemur, age, fiat voluntas ipsius<f1>Vgl. Mt 26, 42.<fe>
+addatque sua benignitate gratiam, ut ne quid indignum suo nomine nostraque professione designemus.
+^$<vl>134</vl> Sororius istuc nuncium<f1>Unbekannt; vgl. oben Z. 24. - Dieser Bote nahm auch Frölichs Brief an Bullinger vom 21. Mai 1545 (oben Nr. 2164) mit; s. unten Nr. 2180, 14. Blarer wird den vorliegenden Brief bereits versiegelt haben, als Frölichs Brief in Konstanz eintraf, so dass er Letzteren hier nicht mehr erwähnen konnte.<fe> abmandabit, cui literas istas properiter scriptas tibi reddendas commisi.
+^$De comitiis<f1>Der Wormser Reichstag.<fe> nihil, quod scire te referat, audio. Rex<f1>Ferdinand I.<fe> et episcopellus Augustanus<f1>Otto Truchsess von Waldburg.<fe> aliorum etiam nomine
+valde solliciti sunt nec quicquam intentatum relinquunt, ut Suevicum foedus instauretur.<f1>Siehe das Vorbringen der kaiserlichen und königlichen Räte an die Gesandten von Augsburg, Nürnberg und Ulm zwecks Wiederaufrichtung des Schwäbischen Bundes in RTA JR XVI/2 1502f, Nr. 274. Ähnliche Pläne gab es schon 1541/42 und 1544; s. ^#/+Schmidt,^#/- Städtetag 168; PC III Nr. 454, 456 und 457.<fe>
+Et audio multorum ex nostris etiam corda eo inclinare,<f1>Aufgrund der Bedeutung dieser Angelegenheit erbaten die Gesandten der drei in oben Anm. 23 erwähnten Reichsstädte einen Aufschub, um über solch ein Bündnis beraten zu können; s. RTA JR XVI/2 1508, Nr. 278; ferner den Eintrag zum 31. Juli 1545 im Berichtsprotokoll der Augsburger Gesandten, RTA JR XVI/1 Nr. 64, hier S. 844-847.<fe> quum nihil aliud hac re pontificii nostri quaerant,
+quam ut ipsi, de nobis securi, nos vicissim mille periculis obiiciant.
+^$Sed vale in domino, mi venerande et charissime frater. Plura omnino nequeo.
+^$3. iunii 1545.
+^$Age, caussam meam<f1>Wohl das angestrebte Bündnis zwischen der gesamten Eidgenossenschaft und Konstanz; s. HBBW XIV, Nr. 2054; oben Nr. 2065. 2084.<fe> - de qua certiores nuper reddidi consules vestros Lavaterum et Habium - optima fide illis commendes.
+^$Salutant te nostri; salveant istic omnes fratres te amici.
+<un>Tuus A. Bl.
+<lz>[Adresse darunter:] Domino Heinricho Bullingero, amico suo incomparabili.
+</content>
+</letter>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2693">
+<brief>
+<id>16379</id>
+<nr>2693</nr> <from persid="Bullinger"/> <to persid="BingSimon"/> <place plid="Zürich"/> <date when="1546-11-26"/>
+<ae>Bullinger an Simon Bing</ae>
+<od>Zürich, 26. November 1546</od>
+<vo>Autograph: Zürich ZB, Ms F 37, 349f (Siegelspur)
+<fa><i>Mit Unterstreichungen und Randbemerkungen von späterer Hand.</i></fa></vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie)</k></dr>
+<re><t>Bullinger hat den mit Heinrich Thomanns Sendung übermittelten Brief Bings vom 10. November [nicht erhalten] mit dessen Beilage [<qv>nr2666</qv>] gut empfangen und dankt dafür, dass er aufgrund seines einfachen [ersten] Schreibens [nicht erhalten] in den Kreise von Bings Freunden und Vertrauten aufgenommen wurde. Dieser darf sich ebenfalls Bullingers Freundschaft sicher sein. Zudem dankt Bullinger für die mühevoll von Bing angefertigten und bis zum 30. Oktober reichenden Kriegsberichte.</t>
+<t>Dank sei Gott, der das christliche Heer bislang vor dem Antichristen behütet hat! Gott möge [den Schmalkaldenern] auch weiterhin beistehen, den Feind schwächen und durch den Tod [Karls V.], des pharaonengleichen Julian und Maxentius, den Krieg beenden. Man darf allerdings Gott nichts vorschreiben, sondern muss geduldig auf seine Gnade warten und ihn um Weisheit und Beistand bitten.</t>
+<t>Bullinger dankt von Herzen für die freundliche Behandlung Thomanns, der viel Gutes vom Landgrafen [Philipp von Hessen] und von Bing berichtet. Letzterer möchte sich weiterhin um Thomann kümmern.</t>
+<t> Bullinger und Gwalther lassen Doktor [Johann] Meckbach grüßen.</t>
+<t>Gestern Abend traf nun auch Bings Schreiben vom 21. November [<qv>nr2688</qv>] ein. Daraus wird ersichtlich, dass der von Bullinger [am 5. November] an Bing gerichtete Brief [nicht erhalten], der dem Augsburger Stadtschreiber Georg Frölich zur Weiterleitung zugesandt wurde, gut angekommen ist, wenn auch ohne den dazu geplanten Bericht [nicht erhalten]. Bullinger nimmt an, dass dieser in Konstanz bei Ambrosius Blarer aufgehalten, mittlerweile aber Bing zugestellt wurde. Für den Fall, dass dies nicht geschehen ist, legt Bullinger eine Abschrift davon bei.</t>
+<t>Die von Thomann übermittelten Nachrichten wird Bullinger vermutlich noch heute zu sehen bekommen. Er selbst hat nichts Neues zu berichten, außer der Einberufung eines Tages zu Baden auf Sonntag, den 5. Dezember.</t>
+<t>Bing soll weiterhin über das wichtigste Geschehen informieren, und zwar in gleicher Form, wie er es für die sich zwischen dem 31. August und dem 30. Oktober zugetragenen Ereignisse getan hat. Das von Bullinger gehegte Interesse für den genauen Geschichtsverlauf erklärt, warum er solches begehrt.</t>
+<t>Bullinger empfiehlt sich [dem Landgrafen und dem Kurfürsten Johann Friedrich von Sachsen], für die er sich jederzeit (auch wenn es ihm zum Nachteil gereichen würde) einsetzen wird. Grüße an Theobald Thamer und an alle, die Bullinger wohlgesinnt sind.</t></re>
+<text>
+<div>
+<p>Min gantz willig dienst, früntlicher gr{uo}ß und was ich üch eeren, liebs und g{uo}ts vermag, bevor, frommer und wyser, insonders geliebter herr und fründ! <zzl>zl16379-1A</zzl>Uwer früntlich schriben, deß datum des 10. novembris
+<fn>Von Bings Sendung vom 10. November (<qv>nr2666</qv>) ist nur die Beilage erhalten.<zfn>fn16379-2</zfn></fn> stadt
+<fn>steht.</fn>, hab ich sampt den bygelegten copien
+<fn>Die Kriegsberichte zu den Ereignissen vom 14., 16. und 20. Oktober; s. <qv>nr2666</qv>, <qv>fn16430-1</qv>.</fn> in mines lieben und g{uo}ten fründts und mittburgern Heinrychen Thomans brieffen yngeschlossen
+<fn>Es handelt sich dabei um Heinrich Thomanns Briefe an Zürich vom 10. November (Zürich StA, A 177, Nr. 130f).<zfn>fn16379-3</zfn></fn> eigentlich und wolverwart
+<fn>eigentlich und wolverwart: gut (vollständig) und unbeschädigt.</fn> empfangen.<zzl>zl16379-1E</zzl> Sagen üch hieruff gantz flyssigen und hohen danck, zum ersten, das ir mich so gantz g{uo}twillig <zzl>zl16379-5A</zzl>uff min einfallt
+<fn>einfaches.</fn> schryben
+<fn>Gemeint ist Bullingers erster, nicht erhaltener Brief an Bing, den dieser am 10. November beantwortet hatte; s. <qv>nr2688</qv>,<qv>zl16374-3</qv>.</fn> und beg{ae}ren in die zaal üwer vertruwten und lieben fründen annemmend.<zzl>zl16379-5E</zzl> Dorumb m{oe}gend ir üch vertr{oe}sten
+<fn>darauf verlassen; s. <a>SI</a> XIV 1414.</fn>, das ich mich hinwiderumb g{ae}gen üch, so vil mir gott sin gnad verlicht, früntlich und br{ue}derlich halten wil. <zzl>zl16379-4A</zzl>Demnach
+<fn>Zudem; s. <a>SI</a> IV 638f. - Bing hatte nämlich drei Tage nach Absendung seines Briefs vom 10. November (<qv>nr2666</qv>) Thomann weitere Kriegsberichte zur Weitersendung an Bullinger anvertraut; s. <qv>nr2674</qv>,<qv>zl16361-4</qv>.</fn> danck ich üch ouch umb die m{ue}y
+<fn>Mühe.</fn> und arbeit üwers flyssigen schribens der copien von den fürnemmen
+<fn>wichtigen, bedeutenden.</fn> thaaten dises kriegs biß uff den 30. octobris vergangen
+<fn>Es handelte sich dabei vermutlich um die Kriegsberichte G (mit Nachrichten vom 27. Oktober) und H (30. Oktober), die in <a>Lenz, Bericht</a> 13-15 gedruckt sind; s. <qv>nr2666</qv>, <qv>fn16430-1</qv>; <qv>nr2674</qv>, <qv>fn16361-7</qv>. - Bullinger erhielt fast lückenlos die in <a>Lenz, Bericht</a> aufgeführten Berichte A bis H: Mit Brief <a>HBBW</a> XVII, Nr. 2581, vom 12. September wurden die Berichte A (mit Nachrichten vom 29./30. August), B (31. August) und C (1. bis 5. September) übermittelt; mit <qv>nr2616</qv> vom 8. Oktober der Bericht E (3. bis 5. Oktober); mit <qv>nr2666</qv> vom 10. November der Bericht F (14., 16. und 20. Oktober); und mit <qv>nr2674</qv> vom 13. November die oben erwähnten Berichte G und H. Letztere sowie der nach dem 21. September verfasste Bericht D ("Ursach, warumb Neuburg nit zu entsetzen gewesen") konnten bis jetzt nicht in den Zürcher Beständen aufgespürt werden.<zfn>fn16379-1</zfn></fn>.<zzl>zl16379-4E</zzl></p>
+</div>
+<div>
+<p>Da danck ich ouch gott, unserm herren, von dem alein der syg g{ae}ben wirt,
+<fn>Vgl. 1Sam 17, 47.</fn> das er mitt sinen genaden das christenlich
+<fn>Gemeint ist das schmalkaldische.</fn> heer wider die tyrannischen antichristischen macht
+<fn>die des Kaisers Karl V. und des Papstes Paul III.</fn> bißhar gnediklich erhallten hat. Den w{oe}llend wir fürohin trüwlich bitten, das er uns wyter erhallte, dem find sin hertz nemme,
+<fn>Vgl. Jos 5, 1.</fn> sin krafft und armm zerbr{ae}che
+<fn>Vgl. Ps 10, 15 (Vulg. 9, 36); Ps 37 (Vulg. 36), 17.</fn> und mitt uns nach sinen eeren und unserm heyl handle. <zzl>zl16379-6A</zzl>Der herr, so er w{oe}lte, m{oe}chte er durch absterben des pharaonischen Juliani
+<fn>Kaiser Julian, gen. Apostata (361-363), bekannt als Gegner des Christentums.</fn> und Maxentii
+<fn>Kaiser Marcus Aurelius Valerius Maxentius (306 bis 312), der lange zu Unrecht als Christenverfolger dargestellt wurde; s. <a>HBBW</a> XIV 389, Anm. 4. - Beide Kaiser stehen hier für Karl V.</fn> disen krieg wol scheyden
+<fn>entscheiden; s. <a>SI</a> VIII 235f.</fn>.<zzl>zl16379-6E</zzl> Wir w{oe}llend aber dem herren nut
+<fn>nichts.</fn> vorschriben, sunder siner gnaden warten, umb gedullt, wyßheit, hilff und bystand bitten. Er weist, wie es sinen eeren und unserm heyl amm besten f{ue}gen und fürstendig
+<fn>dienlich.</fn> sin mag. Fiat voluntas dei!
+<fn>Mt 6, 10 par.; Apg 21, 14.</fn></p>
+</div>
+<div>
+<p><vl>349v.</vl> <zzl>zl16379-7A</zzl>Das ir üch so gantz früntlich befolhen habend Heinrychen Thoman, der seer vil
+<fn>Eine übertriebene Aussage, die durch die damalige Korrespondenz Thomanns nicht belegt ist, mit der aber Bullinger beabsichtigte, Bing noch stärker an Thomann zu binden.<zfn>fn16379-4</zfn></fn> liebs und g{uo}ts von minem gnedigen fürsten und herren, dem lantgraffen
+<fn>Philipp von Hessen.</fn>, und insonders von üch r{ue}mpt, dorumb w{oe}lle üch der herr, alles g{uo}ten rycher bel{oe}ner,
+<fn>Vgl. Jes 49, 4; Mt 19, 29 par.</fn> verlihen nach uwers hertzen beg{ae}r. K{oe}nde ich aber ouch danckbarkeit üch bewysen, s{oe}llte nitt gespart werden. Hoff, ir habind inn
+<fn>Thomann.</fn> nach üwer lieb und früntlikeit fürohin wie bißhar befolhen.<zzl>zl16379-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16379-8A</zzl>Dem wytber{ue}mpten und getruwen herren doctorn Meggenbach
+<fn>Johann Meckbach, Leibarzt des Landgrafen.</fn> w{oe}llend widerumb in minem und mines lieben sons Gwaltheri namen
+<fn>Gwalther hatte 1540/41 in Marburg studiert. Im Frühjahr 1541 begab er sich im Gefolge des Landgrafen, dem auch Meckbach angehörte (s. <a>HBBW</a> XI 222f), auf den Regensburger Reichstag.</fn> früntlich gr{ue}ssen und imm von uns alle lieb und dienst anzeigen.<zzl>zl16379-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16379-9A</zzl>Nach diserm uwerm ersten schriben
+<fn>Der Brief vom 10. November; s. oben Z. <qv>zl16379-1</qv>.</fn> ist mir ouch üwer ander z{uo}schriben, des datum lut 21. novembris,
+<fn>Brief <qv>nr2688</qv>.</fn> n{ae}cht
+<fn>gestern (Abend).</fn> überantwort,<zzl>zl16379-9E</zzl> uß welchem ich wol verstanden, <zzl>zl16379-3A</zzl><zzl>zl16379-2A</zzl>das ir minen brieff
+<fn>Ein nicht erhaltener Brief Bullingers vom 5. November, dessen Empfang (ohne die dazu gehörige Beilage) Bing am 21. November verdankt hatte; s. <qv>nr2688</qv>,<qv>zl16374-1</qv>.</fn>, herrn G{oe}rgen Fr{oe}lichen, stattschrybern z{uo} Augspurg, minem lieben herren und br{uo}der, z{uo}gesandt,
+<fn>Die Sendung war am 15. November in Augsburg eingetroffen; s. <qv>nr2677</qv>,<qv>zl16364-7</qv>.</fn> empfangen,<zzl>zl16379-2E</zzl> doch den z{uo}gelegten miner gnedigen herren fürtrag
+<fn>Ein von Bullinger angefertigter Bericht über den in Zürich abgehaltenen Tag. Dem Bericht war vielleicht auch eine Abschrift des Schreibens der Vier Orte an die Fürsten des Schmalkaldischen Bundes vom 26. Oktober beigelegt; s. <qv>nr2684</qv>, <qv>fn16371-3</qv>.</fn> noch nitt empfangen habend
+<fn>Vgl. <qv>nr2688</qv>,<qv>zl16374-2</qv> mit <qv>fn16374-1</qv>.</fn> - da ich nitt anders gedenck, dann das es z{uo} Constantz by minem lieben herren und br{uo}der M. Ambrosio Blaureren uffgehalten, nun mee
+<fn>nun mee: nunmehr.</fn> aber üch behendiget
+<fn>ausgehändigt; s. <a>SI</a> II 1401.</fn> worden sye.
+<fn>Bullinger hatte den Bericht an Blarer geschickt und wusste offenbar, dass dieser ihn an Frölich weiterleiten würde. Da er offensichtlich noch nicht Frölichs Brief <qv>nr2684</qv> vom 20. November erhalten hatte, wusste er aber nicht, dass Frölich den Bericht an Blarer zurückschicken würde; s. <qv>nr2684</qv>,<qv>zl16371-6</qv>.<zfn>fn16379-5</zfn></fn> Doch wo das nitt besch{ae}hen, hab ich hie z{uo} g{uo}ter fürsorg ein ander exemplar gelegt.
+<fn>Die Beilage ist nicht erhalten.</fn> Bitt, ir w{oe}llind das früntlicher meinung von mir uffnemmen.<zzl>zl16379-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16379-10A</zzl>Die nüwe zytung
+<fn>nüwe zytung: Nachrichten.</fn>, die Heinrych Thoman geschriben,
+<fn>Es handelt sich um die Briefe Thomanns an den Zürcher Rat vom 22. November (Zürich StA, A 177, Nr. 148f), die am Tag der Abfassung des vorliegenden Briefes in Zürich eingetroffen waren; s. <qv>nr2695</qv>,<qv>zl16382-1</qv>.<zfn>fn16379-6</zfn></fn> acht ich wol, werde mir noch hütt ouch z{uo} s{ae}hen werden.<zzl>zl16379-10E</zzl> <zzl>zl16379-11A</zzl>Nüwer zytung habend wir nut, onet das
+<fn>onet das: außer dass.</fn> ettliche ort
+<fn>Die Orte der Eidgenossenschaft.</fn> beg{ae}rt habend, einen tag z{uo} beschriben <vl>350r.</vl> (welchs ouch besch{ae}hen ist)
+<fa><i>Klammern ergänzt.</i></fa> gen Baden uff sontag
+<fn>5. Dezember. - Der Tag zu Baden wurde am 7. Dezember eröffnet; s. <a>EA</a> IV/1d 723-730, Nr. 331.<zfn>fn16379-7</zfn></fn> vor Nicolai.<zzl>zl16379-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16379-12A</zzl>Hiemitt befilch ich mich fürohin in üwer lieb und früntschafft früntlich beg{ae}rend, so sich wyter ettwas z{uo}tr{ue}g ged{ae}chtnuswirdigs, das ir mir s{oe}mlichs
+<fn>solches.</fn> mittteylen w{oe}llind der formm und gstallt, wie ich vormals zum andern mal
+<fn>zum andern Mal: bereits.</fn> copien vom 31. augusti untz
+<fn>bis.</fn> 30. octobris empfangen hab.
+<fn>Siehe dazu oben <qv>fn16379-1</qv>.</fn> Beg{ae}r deß propter seriem et veritatem historiae.
+<fn>Bullingers Interesse am Geschehen zeigt sich u.a. in seinen Notizen zum Kriegsverlauf; s. <qv>nr2640</qv>, <qv>fn16330-2</qv>.</fn><zzl>zl16379-12E</zzl> Embüt mich damitt z{uo} üwern diensten gantz willig.</p>
+</div>
+<div>
+<p><zzl>zl16379-13A</zzl>Bef{ae}lhend mich gantz trüwlich minen gnedigen fürsten und herren
+<fn>dem Landgrafen und dem Kurfürsten Johann Friedrich I. von Sachsen.</fn>, deren gnaden wolfart ich von hertzen beg{ae}r und gern mitt minem schaden
+<fn>mitt minem schaden: zu meinem Nachteil; s. <a>SI</a> VIII 168.</fn> allem minem besten verm{oe}gen nach fürdern w{oe}lte, wo ich k{oe}nde und mir muglich.<zzl>zl16379-13E</zzl> <zzl>zl16379-14A</zzl>Gr{ue}ssend mir h. Theobaldum Tamerum
+<fn>Thamer hielt sich damals im schmalkaldischen Lager bei Giengen an der Brenz auf.<zfn>fn16379-8</zfn></fn>,<zzl>zl16379-14E</zzl> minen lieben br{uo}der imm herren, und andere, die liebe z{uo} mir habend. Datum Zürych des 26. novembris 1546.</p>
+<un>Üwer alle zyt</un>
+<un>gantz williger</un>
+<un>Heinrych Bul-</un>
+<un>linger.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem frommen und wysen Simoni Bingen, hessischen chamer secretarien, jetzund in dem heerl{ae}ger des heyligen rychs, sinem besonders lieben herren und g{uo}ten fründ.</p><fn>Angesichts der Tatsache, dass dieses Original heute in Zürich liegt und aufgrund der durch Blarers Brief <qv>nr2717</qv> vom 17. Dezember vermittelten Information, laut der Briefe, die von Zürchern verfasst gewesen waren, wieder zurückgesandt werden mussten (s. <qv>nr2717</qv>, <qv>fn16406-3</qv>), ist wohl zu vermuten, dass das vorliegende Schreiben dem Empfänger nie ausgehändigt wurde.<zfn>fn16379-9</zfn></fn>
+</div>
+</text>
+</brief>

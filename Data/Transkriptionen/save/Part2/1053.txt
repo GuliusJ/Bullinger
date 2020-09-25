@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1053">
+<nr>1053</nr>
+<correspondents>
+	<originator>[Bullinger]</originator>
+	<addressee>Martin Bucer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. Oktober 1537</date>
+</space_time>
+<vo>Abschrift<fx>^#/+Die von einer unbekannten Hand des 17. Jahrhunderts angefertigte Kopie beruht, wie aus den darauf angebrachten Bemerkungen J. H. Hottingers hervorgeht, auf einem Autograph Bullingers. Dieses gehörte zur Sammlung, die sich im
+Besitz der Familie Schneeberger befand (s. HBBW II, S. 42, Anm. a), und ist heute nicht mehr auffindbar.
+Auch die an Bucer gesandte Ausfertigung ist verloren. Ein autographer Entwurf findet sich in Zürich ZB, Ms
+Briefe folio, Bullinger an Bucer, Nr. 1 (zit.: E). Nach einem Vermerk auf der Kopie Simlers (Zürich ZB, Ms S 43, 130) stammt
+er ebenfalls aus der Schneeberger-Sammlung. Erhalten sind außerdem Notizen Bullingers, die wohl als Vorarbeit zu diesem
+Brief entstanden sind (Zürich ZB, Ms Briefe folio, Bullinger Nr. 3; vgl. Pollet, Bucer II 289, Anm. 2). -
+Orthographische Abweichungen des Entwurfs sowie kleine Verschreibungen des Kopisten, die dieser selbst korrigiert hat, sind im textkritischen Apparat nicht vermerkt.
+^#/-<fe>: Zürich ZB, Ms F 36, 417-420
+</vo>
+<dr>Ungedruckt</dr>
+<re>Weist seine Kritik an Benedikt Euander zurück, da dieser den Brief Bucers an Luther nicht böswillig an die Öffentlichkeit
+getragen, sondern nur pflichtgemäß den Zürchern mitgeteilt hat, worauf ihn Bullinger mit einem kritischen Kommentar an Megander,
+Myconius, Grynäus und Vadian weiterleitete; Unruhe ist daraus nicht entstanden. Am Brief selbst, zu dem er vor der
+versprochenen Antwort Luthers an die Schweizer eigentlich nicht Stellung nehmen wollte, stört ihn, daß Bucer die
+Schweizer als eigensinnige Verehrer Zwinglis und Oekolampads charakterisiert, statt sie möglichst wohlwollend zu empfehlen.
+Der Brief widerspricht mehrfach früheren Äußerungen Bucers: Was er an der Basler Zusammenkunft als Meinung Luthers
+dargestellt hat, entschuldigt er nun bei diesem als von den Schweizern gewünschte Abmilderung; seine damalige Versicherung,
+die Wittenberger Konkordie stimme mit der Lehre Zwinglis und Oekolampdas überein, stellt er als von der Gegenseite veranlaßte Stimmungsmache dar; er will nichts mehr davon wissen, daß er zunächst die gegenseitige
+Tolerierung für genügend erklärt hatte, und behauptet wider besseres Wissen, die Schweizer würden anerkennen, nicht immer
+richtig gelehrt zu haben; schließlich verkennt er, daß gewisse Formeln auslegungsbedürftig bleiben, während Zwinglis schlichte
+Lehre mit jener Augustins völlig übereinstimmt. Dennoch stellt Bullinger die geplante Konkordie nicht in Frage; als Grundlage
+dafür scheinen ihm jedoch Melanchthons "Loci" besser geeignet als die Verlautbarungen Bucers. Auf dessen ["Bericht auß der
+heyligen geschrift"] läßt er sich trotz privat geäußerter Zustimmung nicht festlegen, sondern will aufgrund seiner
+eigenen öffentlichen Äußerungen beurteilt werden; er erinnert an seine ausdrückliche Billigung einer Stelle aus Luthers [bzw. Melanchthons]
+"Unterricht der Visitatoren" und verweist nochmals auf seine eigenen Werke und auf das [Erste Helvetische] Bekenntnis.
+Bestreitet energisch, die Veröffentlichung der Briefe Zwinglis und Oekolampads wegen angeblicher Gefährdung der Konkordie
+kritisiert zu haben, nennt jedoch einige Briefe, deren Publikation aus anderen Gründen besser unterblieben wäre. Der
+Zürcher Abendmahlsritus, über den Bibliander in der Vorrede zur Briefsammlung berichtet, kann niemandem Anstoß bereiten. Gruß.
+</re>
+<tx>Gratiam et vitae innocentiam a domino<fx>^#/+Grußformel fehlt in E.^#/-<fe>.
+^$Audio<fx>^#/+E:^#/- Audio ^#/+in Majuskeln.^#/-<fe> te, Bucere, frater in
+domino colende, Benedictum Euandrum, cum Bernae nuper esses, accusasse graviter, quod literas tuas ad doctorem Lutherum in
+ianuario scriptas<fx>^#/+E:^#/- in ianuario scriptas ad doctorem Lutherum.<fe><f1>Gemeint ist der Brief von Capito und Bucer an
+Luther vom 19. Januar 1537 (WA Briefwechsel VIII 12-18, Nr. 3128); s. oben Nr. 988, Anm. 3.<fe>
+ministris Helveticarum ecclesiarum transmiserit<fx>^#/+E: ^#/-ministris transmiserit Helveticarum
+ecclesiarum.<fe><f1>An der Berner Synode war Bucer mit einer Abschrift seines Briefes an Luther konfrontiert worden, worauf er schwere Vorwürfe gegen Benedikt Euander erhob, der eine Kopie nach Zürich gesandt hatte;
+s. oben Nr. 1045, 58-60. 99-106.<fe>. Putasti enim indignum esse, ut quis literas
+privatas et ad privatum scriptas, denique et obsignatas, publicet, et illis quidem publicet, quibus de sunt scriptae<fx>^#/+E:^#/- scriptae sint.<fe>.
+Putasti illo autore ac indice maximas in ecclesiis nostris excitatas esse conturbationes. Ego vero ad hunc rumorem haud
+leviter commotus sum, quod viderem virum bonum et amicum nostro nomine periclitari. Quocirca induxi in animum haec
+paucula apud<fx>^#/+E: vor^#/- apud ^#/+gestrichenes^#/- pro amico.<fe> amicum dicere pro amico, qui suo illo officio nobis
+praestito nihil indigni comisisse videtur, nihil in te peccasse nullamque<fx>^#/+E: vom Schreiber korrigiert aus^#/- nullasque.<fe>
+excitasse apud nos tragediam. Principio enim, si candide egisti negotium, quod ea tractas epistola, certe non est, quod
+accuses Euandrum, nisi is accusandus sit, qui recte factum aliis quoque approbat. Quod si illud negotium<fx>^#/+E: ^#/-negotium istud ^#/+(^#/-istud^#/+
+über der Zeile nachgetragen).^#/-<fe> egisti vel neglectius<fx>^#/+E: ^#/-insyncerius.<fe> vel imprudentius, habes, quem accuses, non Euandrum, sed Bucerum.
+Deinde, si nescis, multum debet nobis<fx>^#/+korrigiert aus: ^#/-dat vobis ^#/+(Korrektur wohl von Simlers Hand, in Entsprechung zu E).^#/-<fe> Euander, adeo ut boni viri officio nequaquam fuisset functus, nisi hoc, quod fecit, fecisset<fx>^#/+E: ^#/-nisi hoc fecisset, quod fecit.<fe>.
+Nam stipendio collegii Tigurini et beneficentia ecclesiae nostrae adiutus<f1>Euander war an der Großmünsterschule erzogen worden (s. Zwa VII/3, 1940, S. 200); die Angabe, er sei 1529 als Stipendiat angenommen worden (s. Z X 73, Anm. 2; 326, Anm. 10), beruht jedoch auf einem Mißverständnis und einer
+Verwechslung mit Benedikt Finsler (vgl. Zwa XI/7, 1962, S. 444f, Anm. 85).<fe> nocitura nobis et profutura ex officio<fx>^#/+E: ^#/-ex pacto.<fe>
+indicat. Aut ergo credidit tuam illam epistolam nobis profuturam aut obfuturam. Si non indicasset, quam profuturam
+credidit, fraudasset bene meritos, si autem obfuturam putavit et dissimulasset, proculdubio violasset fidem. Proinde,
+quae fecit, ex officio, non malitia aut errore<fx>^#/+in E statt dessen (am Rande nachgetragen): ^#/-citra peccatum et errorem.<fe>
+fecit. Accedit ad hoc, quod illam tibi hic<fx>hic ^#/+fehlt in E.^#/-<fe> neque primus eripuit neque illam<fx>^#/+E: ^#/-eam.<fe> primus aliis communicavit. Qui vero primus illam tibi eripuit et publicavit<fx>^#/+E:^#/-
+Qui primus illam excripsit ac publicam fecit.<fe>, habet
+fortassis suas rationes. Quod si nullas habet, culpa tamen publicatarum literarum<fx>^#/+E: ^#/-eius tamen culpa, quod privatae literae publicatae sunt.<fe> non poterit
+impingi Euandro, qui acceptas (ut audio)<fx>ut audio^#/+ fehlt in
+E.^#/-<fe> ab aliis tum demum re­scripsit et amicis, non hostibus<fx>non hostibus ^#/+fehlt in E.^#/-<fe> misit, cum iam
+per aliorum manus<fx>^#/+E: ^#/-per manus multorum.<fe> ultro citroque volutatae atque lectae essent a pluribus<fx>^#/+E: ^#/-a pluribus essent
+lectae. ^#/+In E folgt eine am Rande nachgetragene, dann aber wieder gestrichene Ergänzung: ^#/-Si is, cui primum in
+manus venit tua epistola, alicui tradidisset typographo excudendam et Euander raptam vulgatamque misisset nobis,
+posses ne in homine aliquid desyderare candoris? Non puto. Ergo cum praesens factum Euandri parem cum illo habeat
+rationem, nisi aequus esse nolis, accusatum absolves^#/+ (^#/-praesens^#/+ und ^#/-cum illo^#/+ nachträglich beigefügt; ^#/-accusatum absolves^#/+
+anstelle von gestrichenem ^#/-idem habebit
+iuditium^#/+).^#/-<fe>. Iam quid illae apud alios excitarint tumultus<fx>^#/+E: ^#/-Iam quid tumultus apud alios excitarint literae tuae.<fe>, dicere nec possum nec debeo, cum nesciam.
+Hoc autem<fx>autem ^#/+fehlt in E.^#/-<fe> scio, apud nos cautum esse summa fide ac diligentia<fx>^#/+E: ^#/-summa diligentia et fide cautum esse apud nos ^#/+(^#/-apud nos ^#/+am Rande nachgetragen).^#/-<fe>, ne omnibus citra
+delectum tua communicarentur<fx>^#/+so E (vom Schreiber korrigiert aus:^#/- communicaretur epistola^#/+); in der Vorlage wohl irrtümlich ^#/-communicarent.<fe>, propterea quod
+viderentur pugnare<fx>^#/+E: ^#/-ex diametro pugnare.<fe> cum illis relationibus et<fx>^#/+E:^#/- ac.<fe> scriptis, quae alii
+ad<fx>^#/+so E; in der Vorlage wohl irrtümlich^#/- apud.<fe> nos et nosipsi e Basilea semel atque iterum attuleramus<f1>Näheres dazu unten Z. 107-206.<fe>, atque ideo apud omnes
+plurimum odii<fx>^#/+in E vom Schreiber korrigiert aus^#/- odium.<fe> tuo nomini<fx>^#/+E:^#/- nomini tuo.<fe> (id quod bonus ille Euander minime scire potuit proculdubio, utpote rerum gestarum omnino ignarus)<fx>^#/+Die Klammerbemerkung fehlt in E.^#/-<fe> conciliaturum.
+Imo istae ne hodie quidem apud nos<fx>apud nos^#/+ fehlt in E.^#/-<fe> pluribus innotuere<fx>^#/+E:^#/- innotuere pluribus. Soli
+ministri verbi illas legerunt atque vehementer indoluerunt, partim tuo nomine, partim
+vero ^#/+(^#/-partim tuo nomine, partim vero ^#/+über der Zeile nachgetragen)^#/-, quod cernerent rem longe aliter habere et actam
+esse apud adversam partem, quam speraverant aut ex scriptis et actis synodorum didicerant.<fe>. Et ut nihil omnino
+dissimulem<fx>^#/+in E folgt: ^#/-artibus enim agere neque didici
+nec discam.<fe>, exempla<fx>^#/+E:^#/- exemplum.<fe> ego, protinus ac tuam<fx>^#/+E: ^#/-tuam ^#/+über der Zeile nachgetragen.^#/-<fe> vidissem,
+rescribi<fx-t>^#/+E: ^#/-rescribi atque Vadiano, Megandro, Myconio, Grynaeo et
+aliis ^#/+(^#/-et aliis ^#/+über der Zeile nachgetragen, vor ^#/-Grynaeo^#/+ gestrichenes
+^#/-et^#/+)^#/- mitti curabam adiectis etiam literis meis, quibus testabar consilium illud tuum de sarcienda concordia solida hac
+ratione institutum mihi sane ^#/+(^#/-mihi sane ^#/+über der Zeile nachgetragen)^#/- parum probari.<fe> curabam atqued. Megandro, Miconio, Gryneo atque Vadiano mittebam additis simul literis meis<f1>Bullingers Begleitschreiben sind nicht erhalten, wohl aber die Antworten der genannten Adressaten (oben Nr. 981 und 989-991).<fe>, quibus testabar illam
+tuam rationem componendi, quam in illis esses literis secutus, mihi plane parum probari<fx-x>^#/+E: ^#/-rescribi atque Vadiano, Megandro, Myconio, Grynaeo...<fe>;
+interim vero optimum videri<fx>^#/+E: ^#/-interim videri optimum ^#/+(nach^#/- interim
+^#/+gestrichenes^#/- oravi^#/+).^#/-<fe>, si non spargeretur epistola, quae<fx-t>^#/+E: ^#/-quae
+dispersa ^#/+(^#/-dispersa ^#/+über der Zeile nachgetragen)^#/- videbatur paci ecclesiarum obfutura, non profutura.<fe> utut apud
+eos nihil turbarum excitet; videbatur enim dispersa paci ecclesiarum apud alios parum profutura, quin circa eandem rem
+alii aliter afficiantur<fx-x>^#/+E: ^#/-quae dispersa ^#/+(^#/-dispersa ^#/+über der Zeile nachgetragen)^#/-...<fe>.
+Neque vero et tecum putavi super hac re vel<fx>^#/+E: ^#/-super hac re vel ^#/+über der Zeile nachgetragen.^#/-<fe>
+concertandum esse vel expostulandum, quod et tempus et ipsum negotium<fx>^#/+E:^#/- et
+ipsum tempus et negotium.<fe> adeo videretur exulceratum, ut multo fuerit melius<fx>^#/+E: ^#/-ut multo satius fuerit.<fe>
+huiusmodi patienter ferre<fx>^#/+E:^#/- quaedam ferre pacienter.<fe> et omnem<fx>^#/+E:^#/- et omnem ^#/+vom Schreiber korrigiert aus^#/- omnemque.<fe> rixandi
+subterfugere occasionem. Potissimum<fx>^#/+E:^#/- Maxime.<fe>, cum nova concertatione aut expostulatione et infirmis et
+omnibus bonis viris ansam dedissemus et de ministris et de toto religionis negotio male suspicandi<fx>^#/+E:^#/- male et de ministris et ... suspicandi.<fe>,
+ut<fx>^#/+Der Schluß des Satzes fehlt in E.^#/-<fe> interim non commemorem offendicula, si concertatio nostra adversae parti innotuisset. Ita quidem apud
+nos ex tuis literis nil turbarum est ortum<fx>^#/+E: ^#/-turbarum ex tuis literis nihil est exortum.<fe>, ut Euander nunc omni crimine vacet et
+accusatione tua liberatus sit. Haec autem pro<fx>^#/+E:^#/- ex.<fe> officio apud amicum egi pro amico Euandro, quem in
+hac causa non possumus deserere, nisi libeat ei malam referre gratiam, qui optimam nobis contulit<fx>^#/+in E folgt:^#/- Ut
+autem nobis contulit beneficium, ita in te nihil peccavit. Nam
+pluribus prodesse voluit.<fe>. Tuum ergo fuerit, optime Bucere, accusationem illam tuam et iram remittere et nihil male
+meritum Euandrum<fx>Euandrum ^#/+fehlt in E.^#/-<fe> ut amicum et fratrem nobiscum plena charitate complecti.
+^$Venio iam ad ipsam epistolam, quam doctori Luthero scripsisti<fx>^#/+E:^#/- Iam ad ipsam venio epistolam, quam scripsisti doctori Luthero.<fe>, ad quam nil<fx>^#/+E:^#/- nihil.<fe> alioqui responsurus eram, priusquam
+doctor Lutherus ad nostra, ut per Philippum pollicebatur, respondisset<f1>Philipp Melanchthon hatte bereits im März eine Antwort Luthers auf das Schreiben der Schweizer vom 12. Januar (vgl. oben Nr. 934, Anm. 15) angekündigt; s. oben Nr. 1001, 28-30 mit Anm. 12.<fe>, nisi iam toties et nuper
+Bernae<fx>^#/+in E vom Schreiber korrigiert aus:
+^#/-nuper, cum Bernae esses.<fe> illius epistolae negotium ultro citroque agitatum audissem.
+Attingam autem quaedam, cum singula prosequi<fx>^#/+E:^#/- persequi.<fe> operis propemodum infiniti esse videatur. Et displicere quidem non
+possunt, qui concordiam inter fratres ruptam satagunt sarcire. Hos enim salvator filios dei appellare dignatus est<f1>Mt 5, 9.<fe>.
+Caeterum illa tua componendi ratio, quam tu secutus videris in istis tuis literis, nequaquam
+placere potuit<fx>^#/+E (anstelle dieses Satzes):^#/- Caeterum tua illa ratio, quam tu litteris ad Lutherum scriptis videris sequutus, nequaquam potuit mihi placere.<fe>.
+Principio, quod adeo contemptim et frigide<fx>^#/+E: ^#/-et frigide ^#/+am Rande nachgetragen.^#/-<fe> causam maximam et
+bene<fx>^#/+E:^#/- beneque.<fe> meritorum fratrum coram illo egisti, quocum gravissimas simultates gessisse credebas<fx>^#/+E:^#/-
+gessimus.<fe> et cui nos praeter modum commendare et supra modum insinuare debueras. Nunc vero<fx>^#/+E:^#/-
+Nunc enim.<fe> tibi removenda sunt populis Helveticis impedimenta
+recipiendae veritatis<f1>Siehe WA Briefwechsel VIII 13, 36f.<fe>. Quasi vero<fx>^#/+E:^#/- Quasi hactenus.<fe> celebres ecclesiae nostrae sanguine etiam sanctorum<fx>^#/+E:^#/- sanctorum etiam sanguine.<fe> plantatae et confirmatae hactenus<fx>hactenus ^#/+fehlt in E.^#/-<fe> in
+mendaciorum tenebris versatae sint<fx>^#/+E:^#/- in mendatiorum egerint tenebris.<fe>
+atque isti<fx>isti ^#/+fehlt in E^#/-.<fe> in errorum nebulis migrarint<fx>^#/+E:^#/- obdormierint.<fe>, qui in recepta apud nos doctrina hactenus obdormierunt<fx>^#/+E:^#/- qui in doctrina apud nos recepta migrarunt.<fe>. Mox
+appellitas nos nimios Zvinglii<fx>^#/+in der Vorlage ^#/-Zvingli.<fe> et Oecolampadii admiratores<f1>Siehe WA Briefwechsel VIII 13, 38.<fe>, cum revera isti viri<fx>^#/+E:^#/- viri isti.<fe> fuerint admirabiles et plus quam
+admirabiles, quos nisi ita, ut facimus, coleremus<fx-t>^#/+E: ^#/-suspiceremus aut certe virtutem dei in ipsis, nescio, an ingratitudinis et impietatis in optime de nobis meritos absolvi possemus.<fe>, nequaquam possemus impietatis et
+ingratitudinis culpa liberari<fx-x>^#/+E: ^#/-suspiceremus aut certe virtutem dei ...<fe>.
+Huc pertinere videtur, quod nostris adimis iuditium, pervicaciam autem et
+iudicium pertinax praeposteramque constantiae affectationem tribuis<f1>Siehe WA Briefwechsel VIII 14, 54f; 16, 138-140.<fe>, item quod mira cum extenuatione aestimationis
+nostri nominis imprudentes<fx>^#/+so E; in der Vorlage wohl irrtümlich ^#/-impendentes.<fe> appellitas, qui saepe nodum quaeramus in scyrpo<f1>Siehe WA Briefwechsel VIII 14, 58 (im Sinne von: übertrieben mißtrauisch sein; vgl. Adagia, 2, 4, 76 [LB II 546f]).<fe> et qui longos logos
+condamus<fx>^#/+E:^#/- longos conscribamus logos.<fe><f1>Siehe WA Briefwechsel VIII 14, 62.<fe>. Itane, Bucere, nos atque nostra irritabili alias viro approbare
+comendareque voluisti? Haene appositae commendandi formulae tibi visae sunt<fx>^#/+E:^#/- Hae ne tibi ... formulae visae sunt?<fe>?
+Utinam vero plerique non nimium fideremus subtili iudicio nostro atque ita a iusta simplicitate constantiaque deficientes paulatim<fx>^#/+E:^#/- paulatim decedentes.<fe>
+tandem abriperemur in inextricabiles et rerum et verborum perplexitates<fx>^#/+E:^#/-
+in rerum verborumque plus quam inextricabiles perplexitates.<fe>! Nam quod nos verbis copiosioribus<fx>^#/+E:^#/- copiosioribus verbis.<fe> ea<fx>ea ^#/+fehlt in E^#/-.<fe>, quae sentimus, in illa bene
+longa expositione nostra<f1>Gemeint ist jene ausführliche Darlegung der eigenen Lehre, die in das Schreiben an Luther eingearbeitet worden war; s. HBBW VI, S. 462, Anm. 1.<fe> expressimus<fx>^#/+E:^#/- expositione eloquuti sumus.<fe> illaque exclusimus<fx>^#/+E:^#/- excludimus.<fe>, quae posteris
+videbantur subministratura vel
+erroris vel novae concertationis ansam<fx>^#/+E:^#/- quae posteris vel ... ansam videntur subministratura.<fe>, non profecto nodum quaesivimus<fx>^#/+E:^#/-
+quaerimus.<fe> in scyrpo, sed ec­clesiarum salutem<fx>^#/+E:^#/- gloriam dei et posterorum utilitatem quaerimus ^#/+anstelle von^#/- ecclesiarum salutem ^#/+(vor^#/- posterorum^#/+ gestrichenes ^#/-psteste^#/+)^#/-.<fe> in plano et perspicuo veritatis testimonio.
+Nodum autem<fx>^#/+E:^#/- enim.<fe> in scyrpo quaerunt, qui in re plana nectunt subtilitates<fx>^#/+E:^#/- subtilitates nectunt.<fe>. Malumus autem in
+illam<fx>^#/+E:^#/- hanc.<fe> partem peccare, si modo ita peccatur, quam aenigmata in offensionem simplicium texere. Nihil nunc
+dicemus<fx>^#/+E: vor^#/- nunc dicemus ^#/+gestrichenes^#/- praeterea; ^#/+beides über der Zeile nachgetragen für gestrichenes ^#/-iam dicimus.<fe>
+de longis logis et qui revera dicantur longos contexere<fx>^#/+E:^#/- scribere.<fe>
+logos, ne affectui indulgere videamur. Istis autem videor mihi satis ostendisse<fx>^#/+E:^#/- Satis mihi ostendisse videor.<fe>,
+cur putem<fx>^#/+E:^#/- existimem.<fe> te et nos et causam illam nostram<fx>^#/+E:^#/- te causam illam nostram et nos.<fe> Luthero commendasse frigidius<fx>^#/+E:^#/- frigidius commendasse Luthero.<fe>. Ego isti viro<fx>^#/+E:^#/- viro isti.<fe>
+alias scripsissem literas, quibus homini omnem negotii habitum<fx>^#/+E:^#/- habitum omnem negotii nostri.<fe> ita depinxissem, ut non <vl>418</vl> potuerim clarius, cum
+summa commendatione ministrorum et ecclesiarum Helveticarum, denique et fidei omnium syncerissimae; adiecissem quaedam
+de accessione et studio evangelii apud nos ingenti, et quod ministri
+doctori Luthero vere faveant et ob varia in hunc effusa a domino dona et propter
+beneficia ecclesiae per eum praestita<fx>^#/+E kürzer:^#/- et quod ministri amico et benigno sint in Lutherum animo.<fe>. Nugari vero<fx>^#/+E:^#/- Mentiri enim.<fe> calumniatores
+et conturbatores pacis, qui subinde ad Lutherum deferant tam ipsum quam ipsius dogmata<fx>^#/+E:^#/- ipsum et dogmata eius.<fe>
+pro publicis concionibus nunquam non ab Helvetiis<fx>^#/+E:^#/- apud Helvetios nunquam non ^#/+(^#/-apud Helvetios^#/+ am Rande nachgetragen)^#/-.<fe>
+proscindi indignissime, et multa huius generis alia, quae vere<fx>^#/+E:^#/- vere ^#/+über der Zeile nachgetragen.^#/-<fe>
+potuissem<fx>^#/+E:^#/- potuisses.<fe> scribere.
+^$Descendo nunc ad alia tua, quae mihi displicuere, consilia<fx>^#/+E:^#/- ad alia, in quibus displicuerunt mihi studia et consilia tua.<fe>.
+Videris autem tibi adversari in quibusdam, quaedam vero parum, ut gesta sunt, narrare<fx>^#/+E:^#/- Videris autem in quibusdam tibi non per omnia constare et parum apposite narrare, quae gesta
+sunt.<fe>. Quid enim
+opus erat excusare apud doctorem<fx>doctorem ^#/+fehlt in E.^#/-<fe> Lutherum, quod nomine Lutheri in publico consessu ordinum omnium Basileae in praetorio<f1>Bullinger bezieht sich auf die Tagung vom 24./25. September 1536, an der Bucer über die Wittenberger Konkordie berichtete; s. HBBW VI, S. 433,
+Anm. 3.<fe> tanta
+fide, ut aiebas, egisti? - contestatione etiam adiecta haud aliud sentire de eucharistia Lutherum, quam quod tu coram
+declaratis articulis<f1>Vgl. die schriftliche Fassung von Bucers Erläuterung der Konkordienartikel in BucerDS VI/1 227-239.<fe> attulisses in medium<f1>Bullinger übernimmt diese Kritik fast wörtlich aus Vadians Brief vom 31. März (oben Nr. 981).<fe>. Et ego quidem gratias agebam domino ministrorum
+nomine, quod tandem
+constaret reipsa nos non dissentire. Monueram tamen prius, ne<fx-t>^#/+E:^#/- ne tuam diceres sententiam, sed Lutheri.<fe> tuam nobis sententiam exponeres, quomodo tu Lutheri verba
+intelligas, sed quae sit ipsissima Lutheri sententia et quomodo ipse velit intelligi<fx-x>^#/+E:^#/- ne tuam diceres sententiam, sed Lutheri.<fe>. Esse enim,
+qui credant<fx>^#/+E:^#/- Esse enim, qui putent ^#/+nach gestrichenem^#/- Plerosque enim viros bonos metuere.<fe> te
+Luthero multa de tuo apponere<fx>^#/+E:^#/- istum sensum te Luthero, ut sic dicam, mutuare ^#/+(korrigiert aus:^#/- istum sensum, ut sic dicam, Luthero mutuare^#/+).^#/-<fe>, quo illi plus favo­ris<fx>^#/+E:^#/-
+quo plus illi favoris^#/+ nach gestrichenem ^#/-ut meticulos.<fe> apud nos concilies<fx>^#/+E:^#/-
+conciliares ^#/+(korrigiert aus^#/- concilies^#/+)^#/-.<fe>, ipsum vero Lutherum aliquando illam tuam expositionem neutiquam
+agniturum<fx>^#/+E:^#/- ipsum vero ^#/+(^#/-vero ^#/+über gestrichenem^#/- interim^#/+)^#/-, ubi tuam expositionem viderit, ne­uti­quam agniturum.<fe>. Ubi tu iterum
+fidem tuam non sine contestatione interponebas, modo autem datis ad Lutherum literis<fx>^#/+E:^#/- in literis istis.<fe>
+excusas, quod agere es iussus, et sic excusas, ut cuiusdam te simulationis insimules, cum testaris<fx>^#/+E:^#/- palam testaris.<fe> te donasse quaedam nobis<fx>^#/+E:^#/-
+nobis quaedam donasse.<fe>, quae forte Luthero sint<fx>^#/+E:^#/- quae Luthero sint fortasse.<fe>
+displicitura. "Videbit enim," inquis<f1>WA Briefwechsel VIII 13, 8-11.<fe>, "t[ua] p[aternitas], ut nos exponendo illis, quae acta inter nos Wittenbergae, et
+articulos accommodavimus eorum imbecillitati; id, oramus, in meliorem partem accipias."
+Atqui<fx-t>^#/+fehlt in E.^#/-<fe> nemo nostrum a te petierat, ut nostrae imbecillitati quicquam accommodares, sed ut sensum
+Lutheri ipsissimum exponeres. Id fecisse te ista expositione tua persancte testabaris apud nos, apud illum vero
+excusas<fx-x>^#/+fehlt in E.^#/-<fe>. Rursus, quorsum pertinebat disertis verbis scribere ministros
+Helveticarum ecclesiarum, qui in priori fuerint Basiliensi conventu<f1>Nämlich an der Tagung von Ende Januar / Anfang Februar 1536; s. HBBW VI, S. 101f, Anm. 1.<fe>, orasse<fx>^#/+E:^#/-
+qui in priori conventu Basileae fuerint, orasse ^#/+(korrigiert aus:^#/- orasse ministros ... in priori conventu Basileae^#/+)^#/-.<fe>,
+ut expositionem<fx>^#/+E:^#/- expositionem tuam.<fe> attemperares captui Helveticarum ecclesiarum<fx>^#/+E:^#/- ecclesiarum suarum.<fe>,
+ut<fx>^#/+E: vor^#/- ut ^#/+gestrichenes ^#/-ita.<fe> hae audirent
+qualemcunque<fx>qualemcunque ^#/+in Majuskeln. E:^#/- ut hae qualemcunque ^#/+(in Minuskeln)^#/- audirent.<fe> Zvinglii et
+Oecolampadii consensum<f1>Siehe WA Briefwechsel VIII 13, 15-23.<fe>? Nam
+tua sponte, antequam Basileam vocaremur,
+pollicebaris non qualemcunque, sed solidum te posse Zvinglii et Oecolampadii consensum evincere, idque ex ipsorum
+lucubrationibus<fx>^#/+E (anstelle dieses Satzes):^#/- qui tamen tua sponte, priusquam Basilęam essemus vocati, constanter
+^#/+(^#/-constanter ^#/+und gestrichenes^#/- pollicebaris^#/+ über gestrichenem ^#/-magnis promissis^#/+)^#/- pollicebaris te
+^#/+(^#/-te ^#/+über der Zeile nachgetragen)^#/- solidum Zvinglii et Oecolampadii consensum posse ex ipsorum evincere lucubrationibus
+^#/+(^#/-lucubrationibus ^#/+über gestrichenem^#/- scriptis^#/+)^#/-.<fe>. Testabitur
+hoc titulus, quem articulis Wittenbergicis praefixeras ac miseras senatui Basiliensi<f1>Siehe HBBW VI, S. 368, 5-12.<fe>, quod videlicet hi
+articuli nil aliud habeant, quam quod traditum sit in illorum optimorum virorum libris<fx>^#/+E (anstelle dieses Satzes):^#/-
+Scriptis enim ad clarissimum Basileien[sium] senatum literis simul articulos illos ^#/+(^#/-simul ^#/+und^#/- illos ^#/+über der
+Zeile nachgetragen)^#/- Wittenbergenses mittebas ^#/+(^#/-mittebas ^#/+über gestrichenem^#/- simul miseras^#/+)^#/-, quibus hunc
+praefixeras titulum: "Diß confession zuͦ Wittenberg gstellt hatt nüt nüws in sich, sunder ist in Oecolampadii und Zwynglii
+geschrifften begriffen" etc.<fe>. Testabuntur hoc et acta illa,
+quae ab Argentorato ad nos deferebantd. Gryneus et Carolstadius<fx>^#/+E (anstelle dieses Satzes):^#/- Ad haec reportarunt ab Argentorato acta
+quaedamd. Grynaeus et Carolostadius, in quorum fine appenderas: "Wir habend in aller handlung diser concordi gheine wort oder
+sinn angenommen, die nitt die heilig gschrifft in sich habe und alle h[eiligen] vätter, das ouchd. Oecolampadius selig nitt
+selbs geschriben und gelert und in der verantwortung M. H. Zwinglis an die tütschen fürsten ^#/+(Z VI/3 231-291)^#/- begriffen sye. Diß erbietend
+wir uns einem jetlichen gottsverständigen zuͦ bewysen." Quid ergo opus erat orare, ut faceres, quod abundantissime, priusquam conveniremus, feceras?<fe><f1>Siehe BucerDS VI/1 217-226 (bes.
+225, 1-5).<fe>. Nunc vero insimulamur apud Lutherum et omnes, qui illam
+epistolam vident, quasi hoc tuum non de pleno, sed qualicunque<fx>qualicunque ^#/+in Majuskeln (E: in Minuskeln).^#/-<fe> consensu testimonium precibus
+emulserimus veluti probe nobis ipsis conscii hic nullum esse consensum, quem nihilominus videri voluerimus<fx>^#/+E (anstelle dieses Satzes):^#/- Atqui
+insimulamur ^#/+(vor^#/- insimulamur ^#/+gestrichenes ^#/-ita^#/+)^#/- nihilo minus ^#/+(^#/-nihilo minus ^#/+am Rande nachgetragen)^#/- apud Lutherum et
+omnes, qui illam vident epistolam, quasi precibus ^#/+(^#/-precibus ^#/+am Rande nachgetragen)^#/- emulserimus hoc tuum non de
+pleno, sed qualicunque consensu testimonium ^#/+(^#/-testimonium ^#/+am Rande nachgetragen)^#/- tanquam nobisipsis probe
+conscii ^#/+(^#/-nobisipsis probe conscii ^#/+korrigiert aus ^#/-conscii nobis^#/+)^#/- nullum quidem ^#/+(^#/-quidem
+^#/+über der Zeile nachgetragen)^#/- esse hic consensum plenum, attamen voluerimus ^#/+(^#/-plenum, attamen voluerimus ^#/+über gestrichenem^#/-
+quem tamen constare minime^#/+)^#/- videri constare consensum.<fe>.
+Quorsum, obsecro, nisi ut
+ecclesiis nostris illuderemus<fx>^#/+E:^#/- imponeremus.<fe>? Qua re quid, oro<fx>oro ^#/+fehlt in E.^#/-<fe>, poterat
+de nobis vel cogitari illiberalius et<fx>^#/+E:^#/- imo et.<fe> turpius? Huius generis est, quod scribis nos verbosa nostra expositione
+quorundam nostrorum<fx>nostrorum ^#/+fehlt in E.^#/-<fe> animas<fx>^#/+E:^#/- animos.<fe> demulcere voluisse<f1>Siehe WA Briefwechsel 14f, 79-85.<fe>. Expende hic mihi<fx>^#/+E:^#/- obsecro ^#/+anstelle von ^#/-hic mihi.<fe>, mi Bucere, in quae vel capitis discrimina verbis tuis certe audacibus<fx>^#/+E:^#/-
+vel capitis ...
+audacibus ^#/+am Rande nachgetragen.^#/-<fe> immeritos et nil tale cogitantes<fx>^#/+E:^#/- immeritos et innoxios nos nec tale quidpiam vel
+somniantes ^#/+(^#/-nos ... somniantes ^#/+über gestrichenem ^#/-pericula apud nostros^#/+)^#/-.<fe>
+coniiceres, nisi fides et integritas nostra, deo gratia, nostris<fx>^#/+in der Vorlage verschrieben:^#/- nobis.<fe> perspectior paulo esset<fx>^#/+E:^#/-
+si fides ^#/+(vor^#/- fides ^#/+gestrichenes^#/- nostris^#/+)^#/-
+et integritas nostra nostris non esset paulo ^#/+(^#/-nostris non esset paulo ^#/+und davor gestrichenes ^#/-non esset^#/+ über gestrichenem ^#/-absit verbo invidia^#/+)^#/-
+perspectior ^#/+(es folgt gestrichenes ^#/-non esset^#/+)^#/-.<fe>, quam qui de Leone<f1>Leo Jud.<fe> et de me talia credant, nos scilicet<fx>^#/+in der Vorlage irrtümlich ^#/-secundum.<fe> illos circumducere et verborum nebulis involvere<fx>^#/+E:^#/-
+quam qui talia de nobis credant ^#/+(^#/-talia de nobis credant ^#/+über
+gestrichenem^#/- credere possent artibus nos agere in re tanti momenti).<fe>.
+Ais<fx>^#/+E: vor ^#/-Ais ^#/+gestrichenes^#/- Scribis.<fe> praeterea<f1>WA Briefwechsel VIII 13, 11-13.<fe>: "De
+summa rei semper<fx>semper ^#/+in Majuskeln; in E über gestrichenem, in Minuskeln geschriebenem ^#/-semper.<fe>
+disserte testati sumus illis, concordiam in eo fore, si solide credant et pleno ore doceant in eucharistia
+ipsum domini corpus et sanguinem vere et substantialiter distribui et accipi" etc. Id vero te dixisse tandem non negamus,
+semper autem et ab initio dixisse, negamus<fx>^#/+E (anstelle dieses Satzes):^#/- Nos autem non negamus te istud
+aliquando dixisse, sed semper et ab initio ^#/+(^#/-non negamus ... initio ^#/+am Rande nachgetragen;
+^#/-semper^#/+ in Majuskeln; nach ^#/-initio ^#/+gestrichenes^#/- di^#/+)^#/-
+omnibus modis negamus id ^#/+(nach^#/- id ^#/+gestrichenes^#/- te test^#/+)^#/-
+semper testatum esse.<fe>. Primum enim, quod proponebas, erat utrinque peccari ignorantia elenchi<f1>Vgl. BucerDS V 252, 37: "ignorantia Elenchi, ein vermeinter streit". Genaugenommen bezeichnet der Begriff das Verkennen des
+Streitpunktes; s. Bernhard ^#/+Waldenfels,^#/- in: Historisches Wörterbuch der Philosophie, hg. v. Joachim Ritter, Bd. 2, Basel
+1972, Sp. 442; vgl. Melanchthon, Erotemata dialectices, MO XIII 748f.<fe>. Nos enim non
+intelligere, quod nostra non impugnet Lutherus<fx>^#/+E:^#/- quod Lutherus nostra non impugnet.<fe>, et rursus hunc non
+intelligere, quid nos impugnemus<fx>^#/+in E statt dessen über der Zeile nachgetragen:^#/- neque Lutherus nos intelligere,
+quamvis hoc ipse negaret.<fe><f1>Vgl. z. B. BucerDS VI/1 147, 3-15.<fe>,
+te autem sine negotio ostendere posse Lutherum nihil diversum a nostra sententia asserere<fx>^#/+E:^#/- te autem facile ostensurum, quod Lutherus hoc ipsum sentiat,
+quod nos, et nos, quod ille.<fe>.
+Tametsi enim de mysteriis loquatur crasse, attamen illa non ita crasse intelligere<fx>^#/+E:^#/- Aiebas
+Lutherum crasse quidem loqui de re sacramentaria, sed non perinde crasse intelligere, quae liberius dicat.<fe>. Satis autem fore ad concordiam
+stabiliendam, si ipsius feramus loquendi formas<fx>^#/+E:^#/- si ipsius loquendi formas ferre possimus.<fe> salva
+nihilominus et illęsa sententia nostra<fx>^#/+E:^#/- nostra sententia.<fe>, salvis et illęsis etiam<fx>illęsis etiam ^#/+fehlt in E.^#/-<fe> nostris loquendi formis.
+Hinc autem<fx>^#/+E:^#/- Unde.<fe> factum est, ut, quoties ad nos veneris et<fx>ad nos veneris et ^#/+fehlt in E.^#/-<fe> egeris
+nobiscum, nunquam (quod vere dicis) a nobis discesseris<fx>^#/+E:^#/- discesseris a nobis.<fe>, ut non pulchre conveniret<fx>^#/+E fährt fort:^#/- caeterum ea
+ratione et illas ob causas, quas iam recensui.<fe><f1>Vgl. WA Briefwechsel VIII 14, 68-71.<fe>. At postquam<fx>^#/+E:^#/-
+Posteaquam vero ^#/+(vor^#/- Posteaquam ^#/+gestrichenes ^#/-Porro^#/+)^#/-.<fe> a Wittenberga allati essent articuli<fx>^#/+E:^#/- allati
+essent articuli a Wittenberga.<fe>, 8. augusti superioris anni datis ad<fx>^#/+so E; in der Vorlage irrtümlich^#/- a.<fe> me literis<fx>^#/+E:^#/- 8. augusti anni superioris ^#/+am
+Rande nachgetragen; Einfügungszeichen vor^#/- datis ^#/+gestrichen und statt dessen hinter ^#/-literis^#/+ gesetzt.^#/-<fe> in haec verba ad me<fx>in haec verba ad me ^#/+fehlt in E.^#/-<fe> scribebas<f1>HBBW VI, S. 387, 6-8.<fe>: "Perfecta est concordia, si sustineatis vestrae
+ipsorum confessioni vos accommodare in omnibus et, quae idem cum ipsa pollent, non reiicere."
+Nullam hic subscriptionis mentionem faciebas<fx>^#/+Dieser Satz fehlt in E.^#/-<fe>. Caeterum, ubi ad 24. septembris Basileae convenissemus<fx>^#/+E:^#/- ubi convenissemus Basileae ad 24. septembris.<fe>, veluti superiorum
+oblitus<fx>^#/+E:^#/- veluti oblitus omnium horum.<fe> petebas a nobis<fx>^#/+E:^#/- aperte petebas a nostris
+ecclesiis.<fe> subscriptionem<fx>^#/+E:^#/- subscriptionem articulorum.<fe>. Quam cum negaremus<fx>^#/+E:^#/- omnino negaremus.<fe>, tandem prorumpens<fx>^#/+E:^#/- erumpens ^#/+anstelle von^#/- tandem prorumpens.<fe> disserte
+pronuntiabas (quod fatemur ingenue) in eo fore concordiam, si
+fateamur cum pane et vino substantialiter distribui et edi verum corpus et sanguinem Christi, item<fx>^#/+E:^#/- et.<fe>
+si subscribamus articulis, quibus omnes prope Germaniae ec­clesiae subscripserint<fx>^#/+E:^#/- omnes prope subscripserint ecclesiae.<fe>.
+Hic ve­ro<fx>^#/+E:^#/- autem.<fe>, si verum fateri et tu voles, negabamus et subscriptionem et periculosam vocem "substantialiter"<fx>^#/+E:^#/- negabamus omnino subscriptionem, nolebamus ob­scuram ac ^#/+(^#/-ac ^#/+über
+gestrichenem^#/- et ambig^#/+)^#/- periculosam veritati vocem "substantialiter" recipere.<fe><f1>Vgl. Bullingers Bericht vom 23. Januar 1537 (Zwa XX, 1993, S. 40f).<fe>.
+Testabitur hoc ipsum ipsa etiam Luthero missa expositio<fx>^#/+E:^#/- Testabitur hoc ipsum et ad doctorem
+Lutherum scripta expositio.<fe><f1>Gemeint ist das Schreiben der reformierten Städte der Eidgenossenschaft vom 12. Januar, s. WA Briefwechsel XII 255, 242-244.<fe>. Illud autem videtur esse
+illiberale<fx>^#/+E:^#/- illiberale esse videtur ^#/+(^#/-illiberale ^#/+über gestrichenem^#/- novum^#/+).^#/-<fe>, quod inter alia scribis<fx>^#/+E:^#/- quod post multa
+mirabili quadam ratione proposita subiungis.<fe><f1>WA Briefwechsel VIII 16, 128-132.<fe>: "Scimus, p[aternitatem] t[uam] merito
+offendit, quod volunt videri se ante quoque sic docuisse. Sed illud 'ante'<fx>ante ^#/+in Majuskeln (E: in Minuskeln).^#/-<fe>
+non intelligunt de omni tempore illo, quo dissentio fuit, sed de<fx>^#/+in der Vorlage irrtümlich^#/- in; ^#/+von Simlers Hand korrigiert^#/-.<fe> eo, in quo coeperunt eam
+exhibitionem donorum Christi in sacramentis plenius docere, et praecipue ad confessionem Basiliensem<f1>Gemeint ist das Erste Helvetische Bekenntnis von 1536 (BSRK 101-109).<fe> respiciunt."
+Mirabilis profecto es<fx>^#/+in der Vorlage irrtümlich^#/- est; ^#/+von Simlers Hand korrigiert^#/-.<fe> interpres. Tu videris, quid Luthero scripseris<fx>^#/+E:^#/- Videris ergo, quid scripseris Luthero.<fe>. Tam enim
+abest, ut agnoscamus, quae dixisti, ut dissertis verbis in ipsa ad Lutherum expositione simus professi<fx>^#/+E:^#/- professi simus.<fe><f1>WA Briefwechsel XII 256, 292-294.<fe>:
+"Das<fx>^#/+In E setzt das Zitat weiter vorne ein:^#/- "Uß dem nun allem häll verstanden wirt, das wir den herren Jesum Christum, den gspons ^#/+(Bräutigam; vgl. Joh 3, 29)^#/- der kylchen, nitt uß unserm nachtmol uusschließend. Wir verneinnend ouch nitt, das der lyb und das bluͦt Christi imm nachtmol
+nitt zur spys der seelen und zuͦ eewigem läben gässen und genossen werde. Das ..."<fe> habend wir aber mit samt unseren forderen<fx>^#/+E:^#/- sampt unsern fordernn ^#/+in herausgehobener Schrift.^#/-<fe>
+in der ler Christi verneint, verneinendts auch noch biß<fx>biß ^#/+fehlt in E.^#/-<fe> uf den hütigen tag, daß der lib Christi
+liblich oder fleischlich" etc. Audis haudquaquam a nobis<fx>nobis ^#/+von Simlers Hand in Entsprechung zu E über der Zeile nachgetragen.^#/-<fe> neglectos esse vel illos, qui ante nos docuerunt, vel
+abnegatam et neglectam esse illorum doctrinam. Certe, si tuam illam reciperemus expositionem particulae "ante"<fx>ante
+^#/+in Majuskeln (in E nur der Anfangsbuchstabe).^#/-<fe>, damnaremus sanctorum dei hominum Zvinglii et Oecolampadii scripta et dicta<fx>^#/+In E folgt, am Rande nachgetragen:^#/-
+Quod quidem constanti fama fecisse dicimur ^#/+(mehrfach korrigiert aus:^#/- Quod tamen ^#/+bzw.^#/- certe fecisse dicimur^#/+)^#/-, sed ab illis, qui vel nesciunt, quid inter nos revera actum sit ^#/+(korrigiert aus:^#/- quid actum sit revera^#/+)^#/-, vel calumniis
+omnia polluunt.<fe>.
+Habemus<fx>^#/+E: nach^#/- Habemus ^#/+gestrichenes ^#/-item.<fe> contra tuam expositionem ecclesiae
+nostrae testimonium. Nam si recte meministi, scis scribam urbis nostrae<f1>Werner Beyel.<fe>, denique omnes legatos omnium ordinum et urbium
+audita confessione nostra<f1>Bei der Verlesung des Ersten Helvetischen Bekenntnisses am 4. Februar 1536 im Basler Rathaus; vgl. Stumpf, Abendmahlsstreit 74.<fe> <vl>419</vl> palam et sua sponte testatos esse<fx>esse ^#/+fehlt in E.^#/-<fe>, ad eundem modum<fx>^#/+E:^#/- ita.<fe> hactenus
+doctum et praedicatum esse<fx>^#/+E:^#/- doctum esse ac praedicatum.<fe> in ecclesiis nostris<fx>^#/+E fährt fort:^#/- ut relatum erat in confessione.<fe>.
+Proinde non opus fuisset tua illa expositione
+commentitia<fx>^#/+E:^#/- Quid ergo opus erat hac interpretatione commentitia, quae neque doctori Luthero placere potuit
+^#/+(korrigiert aus^#/- placuit^#/+)^#/- neque nobis apud illum quidpiam favoris conciliare ^#/+(^#/-apud illum ... conciliare
+^#/+über gestrichenem^#/- est tollerabilis^#/+)^#/-. Quare ista homini non scribebas testimonia nostrorum ^#/+(^#/-testimonia
+nostrorum ^#/+am Rande nachgetragen)^#/-, quae ultro tulerant? ^#/+Es folgt gestrichenes^#/- audit^#/+ und^#/- lecta confessione.<fe>. Videtur etiam illud<fx>^#/+E:^#/-
+Iam et illud videtur.<fe> parum
+congruere, quod scribis<f1>WA Briefwechsel VIII 14, 58f.<fe>: "Formulas modis omnibus sanas admittere simpliciter<fx>simpliciter ^#/+von
+Simlers Hand in Entsprechung zu E am Rande nachgetragen.^#/-<fe> trepidant." Palam enim testati sumus
+non abhorrere nos<fx>^#/+E:^#/- nos non abhorrere.<fe> a
+locutionibus<fx>^#/+E:^#/- easque recipere.<fe>. Quod autem tu addis "simpliciter", non intelligo, quid velis<fx>^#/+E:^#/- in quem sensum
+accipias.<fe>. Si enim locutiones non exponas<fx>^#/+E:^#/- non exponas loqutiones.<fe>, simplicioribus subministras erroris ansam<fx>^#/+E:^#/- occasionem
+erroris subministras.<fe>. Quod si exponas et exponendas esse credas<fx>^#/+E:^#/- Quod si exponendae sunt et exponi possunt.<fe>, non intelligo<fx>^#/+E:^#/- nescio.<fe>, quid sit "simpliciter admittere locutiones".
+Pari ratione<fx>^#/+E:^#/- modo.<fe> non video, quomodo Zvinglius tibi
+nondum satisfecerit in explicatione negotii eucharistiae<f1>Siehe WA Briefwechsel VIII 14, 43-46.<fe>, quem tamen constat in hac causa subscripsisse d[ivo] Aurelio Augustino<fx>^#/+E:^#/- qui tamen in hac causa ^#/+(^#/-in hac causa ^#/+über der Zeile nachgetragen)^#/-
+d[ivo] Augustino subscripsit.<fe> per omnia<f1>Siehe z. B. Z VI/3 269, 29-31 und 270, 15-17; vgl. Alfred ^#/+Schindler,^#/- Zwingli und die Kirchenväter, Zürich 1984. - 147. Njbl. zum Besten des Waisenhauses Zürich, bes. S. 48-50 und 65-68.<fe>,
+nisi forte et Augustinus tibi<fx>^#/+E:^#/- tibi^#/+ über der Zeile nachgetragen.^#/-<fe> nondum satisfecerit, quod nullo modo arbitror<fx>quod nullo modo arbitror^#/+ fehlt in E.^#/-<fe>. Ego
+enim mallem cum Augustino parum haberi politus, quam cum quibusdam subtilis et illustris<fx>^#/+E (anstelle dieses Satzes):^#/-
+Verum malo ipse cum Augustino in hoc negotio ^#/+(^#/-in hoc negotio
+^#/+über der Zeile nachgetragen)^#/- errare et parum politus videri ^#/+(^#/-et parum politus videri ^#/+über der Zeile nachgetragen)^#/-, quam cum quibusdam gloriari ac ^#/+(korrigiert aus ^#/-quam
+tecum, salva pace tua dictum sit^#/+)^#/- subtilis eximiusque ^#/+(korrigiert aus ^#/-et eximius^#/+)^#/-
+haberi.<fe>.
+^$Ista<fx>^#/+E: vor ^#/-Ista^#/+ ein Absatzzeichen.^#/-<fe> vero sunt, Bucere, frater in domino colende<fx>^#/+Anrede fehlt in E.^#/-<fe>, quae mihi inter
+alia displicuere in epistola illa tua scripta ad doctorem Lutherum<fx>^#/+E:^#/- in tuo illo ad Lutherum scripto displicuere.<fe> et quae simplici animo tibi volui exposita<fx>^#/+E:^#/- et quae paucis
+tibi explicata volui.<fe>. Nam amicorum et fratrum est, nihil<fx>^#/+so E; in der Vorlage wohl irrtümlich:^#/- amicorum et fratrum nihil est.<fe>
+dissimulare et libere ac sine fuco ea indicare, quae in fratre desyderes<fx>^#/+E:^#/- desideres in fratre ^#/+(^#/-in fratre ^#/+über der Zeile nachgetragen).^#/-<fe> et
+mutata velles<fx>^#/+E fährt fort:^#/- Dissimulavi quidem
+ista ^#/+(^#/-ista ^#/+über der Zeile nachgetragen)^#/- hactenus, fateor; sed nunc occasione oblata, quae volui et
+debui, dixi ^#/+(^#/-fateor ... debui ^#/+über gestrichenem^#/- iamiam vera, quae tibi obiicienda putavi^#/+).^#/-<fe>.
+Nec<fx>^#/+E: vor^#/- Nec ^#/+gestrichenes^#/- Nec ^#/+(korrigiert aus^#/- non^#/+)^#/- est, quod credas in nostro pectore quicquam amplius latere livoris aut ^#/+(korrigiert aus^#/- et^#/+)^#/- purulentiae. ^#/+Über dem Anfang dieses Satzes, ebenfalls gestrichen:^#/-
+Dixi autem ingenue ^#/+und^#/- Nam non est, quod credas
+quicquam.<fe> ideo est, quod<fx>^#/+E:^#/- Nec est, quod ideo ^#/+(^#/-ideo ^#/+über gestrichenem^#/- protinus^#/+)^#/-.<fe> actum iam putes de iusta concordia<fx>^#/+E:^#/- concordia iusta.<fe> aut
+de novo existimes conveniendum esse, expurgandum, expostulandum
+et concertandum. Perseverabo<fx>^#/+wohl von Simlers Hand korrigiert aus ^#/-Perseveratio.<fe> enim in illis, quae sunt veritatis confessae. Extant, quae Basileae communibus omnium
+ecclesiarum suffragiis conscripta sunt. In his ero semper<fx>^#/+E (anstelle des Abschnittes von ^#/-Perseverabo^#/+ bis ^#/-ero semper^#/+):^#/- Quemadmodum ^#/+(über
+gestrichenem^#/- Quod^#/+)^#/-
+enim fratres Bernenses responderunt bona fide se culturos concordiam et
+in illis futuros perpetuo ^#/+(^#/-perpetuo ^#/+über der Zeile nachgetragen)^#/-, quae scripturae sunt canonicae,
+quae ^#/+(^#/-scripturae sunt canonicae, quae ^#/+am Rande nachgetragen)^#/- Bernae disputata, in synodo huius anni ultima
+recepta ^#/+(^#/-in synodo huius anni ultima recepta ^#/+über der Zeile nachgetragen)^#/-
+et Basileae ab omnibus ecclesiis Helveticis conscripta sunt ^#/+(korrigiert aus^#/- ultimo conscripta sunt ab omnibus ecclesiis Helveticis^#/+)^#/-, ita
+in ecclesia illa, cui me dominus ministrare ^#/+(über gestrichenem^#/- pasci^#/+)^#/- voluit, cavebo omnia contentiosa, nova, ob­scura ^#/+(vor ^#/-ob­scura ^#/+gestrichenes ^#/-et^#/+)^#/-, et unde nasci possunt
+dissidia ^#/+(^#/-et unde nasci possunt dissidia^#/+ nachgetragen)^#/-. Docebo autem, ut omne veritatis negotium, ita eucharistiae potissimum quam simplicissime ^#/+(korrigiert aus ^#/-Docebo autem quam simplicissime negotium eucharistiae^#/+)^#/-, sicut debeo, ut
+ecclesia intelligat et ut veritas a nobis confessa iubet. ^#/+Der ganze Abschnitt ab ^#/-ita in ecclesia illa^#/+ am Rande nachgetragen für gestrichenes ^#/-ita ego quoque respondeo ^#/+(^#/-ego ^#/+korrigiert aus ^#/-nos^#/+)^#/-.<fe>.
+Et causa<fx>^#/+in der Vorlage ^#/-causam.<fe>, quam agimus, publica est, non privata; habenda ergo erit ratio ecclesiarum,
+quarum sumus ministri, et posteritatis<fx>^#/+in E statt dessen am Rande nachgetragen:^#/- Causa publica est, non privata, quam agimus,
+nec paucorum; habenda est ratio ecclesiarum, quarum sumus ministri. ^#/+Der Nachtrag steht für gestrichenes: ^#/-Causa
+publica est, non privata, quam agimus ^#/+(^#/-quam agimus ^#/+über der Zeile nachgetragen)^#/-, nec paucorum; publice ergo, quae credimus
+et docemus, in confessionem Basileae aeditam contulimus. Adiecimus item expositionem ad Lutherum de verbi et
+sacramentorum ministerio. In illis, inquam, erimus perpetuo.<fe>.
+Quod si interim
+privatae<fx>^#/+E:^#/- privatae interim.<fe> iniuriae, convitia et provocationes fiant a privatis, ideo quidem
+apud me<fx>^#/+E: vom Schreiber korrigiert aus^#/- apud me quidem.<fe> nihil derogabitur causae publicae. Et
+quae cum hisce nostris<fx>^#/+E:^#/- nostris ^#/+über der Zeile nachgetragen.^#/-<fe> non pugnant et qui nos ita sentientes<fx>^#/+E:^#/- ita sentientes nos.<fe> ferunt et
+syncera charitate recipiunt, eos religiosa mente<fx>^#/+E:^#/- religiosa mente ^#/+über der Zeile nachgetragen.^#/-<fe> tanquam fratres in domino perquam fideliter
+colam<fx>^#/+E: ^#/-colam etiam ego perquam fideliter ^#/+(vor^#/- colam ^#/+gestrichenes^#/- colemus; ^#/+nach ^#/-ego^#/+ gestrichenes ^#/-quam religiosissime^#/+)^#/-.<fe>.
+Nuper legi, quae<fx>^#/+E:^#/- ea, quae.<fe> de
+sacramentis in genere et quae<fx>^#/+E:^#/- quae ^#/+über der Zeile nachgetragen.^#/-<fe> spetiatim<fx>^#/+so E; in der Vorlage wohl irrtümlich ^#/-separatim.<fe> de
+baptsimo et de coena domini scripsit doctor<fx>doctor ^#/+fehlt in E.^#/-<fe> Philippus Melancton in Locis communibus ultimo ęditis<f1>MO XXI 467-485 (Bullinger bezieht sich auf eine der Ausgaben von 1535/36; vgl. aaO, Sp. 231-236).<fe>, et nisi
+quis ea pervertat et detorqueat interpretatione malitiosa, placent admodum<fx>et nisi ... admodum ^#/+fehlt in E.^#/-<fe>. Ostendi eademd. Leoni,
+Pellicano et Bibliandro, praeceptoribus, symmistis et fratribus observandis<fx>^#/+E:^#/- observandis
+^#/+über der Zeile nachgetragen.^#/-<fe>, neque displicuerunt et illis<fx>^#/+E:^#/- et placuerunt omnibus.<fe>. Hic ego putabam
+nos admodum esse infelices, qui prophanationis sacramentorum damnemur, qui tamen diversum ab iis nil doceamus et credamus in
+ecclesiis nostris<fx>^#/+E (anstelle dieses Satzes):^#/- Dicebam ego admodum nos
+infoelices esse ^#/+(korrigiert aus ^#/-esse infoelices^#/+)^#/-, qui damnemur prophanationis sacramentorum, ut qui non satis
+illis tribuamus et contemptim de ipsis loquamur ^#/+(^#/-ut qui ... loquamur ^#/+am Rande
+nachgetragen)^#/-, cum tamen de illis in ecclesiis nostris non aliter doceamus et credamus, quam in Locis expositum sit
+a Philippo.<fe>. Nihil porro<fx>^#/+E:^#/- opinor^#/+ anstelle von ^#/-porro.<fe> desyderabit in nobis Lutherus<fx>^#/+E:^#/- doctor
+Lutherus.<fe>, qui merito magni Philippum<fx>^#/+E:^#/- Philippum merito magni.<fe> facit. Imo ut ingenue, quod
+sentio, dicam, et quod tibi novum fortasse videbitur<fx>^#/+E:^#/- forte tibi videbitur
+novum ^#/+(^#/-tibi ^#/+über der Zeile nachgetragen)^#/-.<fe>: Plus mihi in hac causa Melanctonica quam tua placent<fx>^#/+E:^#/-
+placent Melanchtonica ^#/+(korrigiert aus ^#/-Melanchtoni^#/+)^#/- quam tua.<fe>. Melanctonis enim omnia simplicia et plana sunt<fx>^#/+E:^#/- simplicia sunt, aperta et plana.<fe>,
+tua vero intricata<fx>^#/+E:^#/- admodum intricata.<fe> et obscura.
+Proinde, nisi tu tua sedulitate nimia impedias, confido brevi pulchre nos in domino coalituros<fx>^#/+E (anstelle dieses Satzes):^#/- Confido itaque in
+domino brevi futurum, ut concertationibus utrinque sopitis pulchre coalescamus ^#/+(vor^#/- pulchre ^#/+gestrichenes^#/- brevi;
+^#/+nach^#/- pulchre^#/+ über der Zeile nachgetragenes, gestrichenes ^#/-in^#/+)^#/-, modo tu nimia illa tua sollicitudine nihil impedias.<fe>.
+Id quod pro tranquillitate nostra, non in tuam contumeliam dictum putabis<fx>^#/+Dieser Satz fehlt in E.^#/-<fe>.
+^$Itaque<fx>^#/+E:^#/- Proinde.<fe>, quod attinet ad librum tuum olim scriptum ad Mo­na­ste­ri­en­ses<fx>^#/+E:^#/- olim ad
+Monasterienses scriptum.<fe><f1>Gemeint ist Bucers "Bericht auß der heyligen geschrift..." (s. HBBW IV, S. 124, Anm. 3). Bucer
+berief sich immer wieder auf Bullingers zunächst positives, dann aber relativiertes Urteil über dieses Werk; vgl. HBBW VI, S. 73f, 9-15; 95, 14-31.<fe>, nolo, ut omnibus aliis
+meis neglectis, quae scripsi et aedidi, meam de coena sententiam<fx>^#/+E:^#/- sententiam de coena ^#/+(^#/-de coena ^#/+über der Zeile nachgetragen).^#/-<fe> ex tuis
+proponas. Nam abunde satis, quid sentiam de coena<fx>^#/+E:^#/- eucharistia.<fe>, libris aeditis et
+subscripta confessione Basiliensi testatus sum. Denique, quid scripta ad te epistola privata<fx>^#/+E:^#/- privata ad te scripta epistola.<fe> probaverim olim<fx>^#/+E:^#/-
+olim probarim.<fe> aut quid per spiritum, cui te libro tuo dedisse testimonium<fx>^#/+E:^#/- testimonium dedisse.<fe> scribebam,
+intellexerimus<fx>^#/+E:^#/- intellexerim.<fe>, coram, cum primo Basileae convenissemus, et prius etiam et ad Myconium literis scriptis exposui<fx>^#/+E:^#/- et prius etiam scriptis ad
+Myconium ^#/+(nach^#/- Myconium ^#/+gestrichenes^#/- et Zvi^#/+[ccium?])^#/- literis diserte explicavi.<fe><f1>Siehe die Briefe an Bucer und Myconius vom 28. Oktober 1534 (HBBW IV, S. 377, 2-381, 87 bzw. 383, 19-23).<fe>.
+Quin<fx>^#/+E:^#/- Iam.<fe> et illa, quae ab eo aedidisti tempore in hac causa<fx>^#/+E:^#/- quae ab eo tempore scripsisti hac in causa.<fe>,
+mihi quidem videntur illis esse involutiora<fx>^#/+E:^#/- videntur mihi quidem illis esse intricatiora.<fe><f1>Bullinger denkt vor allem an Bucers "Retraktationen", vgl. etwa oben Nr. 944, 65-67.<fe>. Permittis autem tibi, tua etiam
+publicata<fx>^#/+E:^#/- etiam in publicum vulgata ^#/+(am Rande nachgetragen)^#/-.<fe>
+explicare et retractare; mihi non permitteres brevius dicta et privata exempla scripta, scripta autem ex tempore<fx>^#/+E:^#/- brevius dicta et privatim
+et ex tempore scripta.<fe>, exponere explicatius<fx>^#/+E:^#/- explicatius exponere.<fe>? In visitatione vero doctoris Lutheri<f1>Gemeint ist die von Melanchthon verfaßte, mit einer Vorrede Luthers versehene Schrift "Unterricht der Visitatoren an die Pfarrherrn" von 1528 (WA XXVI 175-240).<fe>, si
+oblitus es, quid approbarim<fx>^#/+E:^#/- si nescis aut oblitus es, quid
+probarim.<fe>, repetam. Cum ultimo Basileae convenissemus, protuli<fx-t>^#/+E:^#/- et mentio facta esset
+doctoris Lutheri, dicebam: "Utinam tam plane de usu ^#/+(erster Buchstabe korrigiert aus ^#/-m^#/+)^#/- sacramenti Lutherus ubique
+ut in visitatione scripsisset ^#/+(korrigiert aus: ^#/-scripsisset, quam^#/+ bzw. ^#/-quemadmodum fecit in
+visitatione^#/+)^#/-!" Simul autem libellum prolatum, in quem verba eius descripseram, locum ^#/+(^#/-in quem ...
+locum ^#/+für gestrichenes ^#/-locum eum[?]^#/+ am Rande nachgetragen)^#/- legi, cuius haec est summa.<fe> libellum, in quem re­scripse­ram
+doctoris Lutheri locum de manducatione et usu sacramenti<f1>Exzerpte Bullingers zur Sakramentslehre Luthers bilden einen Teil des Sammelbandes Zürich ZB, Ms S 438.<fe>. Hoc autem prolato dixi: "Utinam tam aperte de sacramento ubique
+scripsisset Lutherus!" Simul autem legi hominis verba, quorum haec est summa<fx-x>^#/+E:^#/- et mentio facta esset...<fe><f1>Die deutsche Originalfassung der beiden folgenden Zitate (diese entsprechen WA XXVI 217, Z. 8f bzw. 17f) findet sich ebd., f. 28v.-29r.<fe>:
+"Externa sacramenti manducatio cor neque confirmat neque consolatur, sed signum est consolationis et remissionis
+peccatorum." Item: "Externa manducatione sacramenti non confertur<fx>^#/+E:^#/- percipitur.<fe> peccatorum remissio, sed
+fide<fx>^#/+E: korrigiert aus^#/- per fidem.<fe>, quae externis signis admonetur et excitatur." Haec, inquam, probavi et
+adhuc probo. Ideo autem nolo, a specie ad genus argumenteris<f1>Vgl. Melanchthon, Erotemata dialectices, MO XIII
+666.<fe> et colligas Bullingerum omnino hoc ipsum de coena sentire, quod constet Lutherum scriptis suis testatum esse<fx>^#/+E (anstelle dieses Satzes):^#/- Interim
+tamen nolo, ut ex specie genus colligas ^#/+(^#/-ex specie genus^#/+ über gestrichenem ^#/-hinc;^#/+ ab ^#/-ut ex specie^#/+
+bis zum ersten Wort des folgenden Satzes am Rande nachgetragen für gestrichenes^#/- ex literis vel probari vel improbari fidem
+meam, sed ex^#/+; über ^#/-literis^#/+ ein versehentlich nicht gestrichenes ^#/-au^#/+),^#/- Bullingerum omnino hoc de sacramento sentire, quod Lutherus
+scripsisse hactenus constat.<fe>. Caeterum ex scriptis<fx>^#/+E:^#/- Ex
+scriptis autem ^#/+(^#/-autem ^#/+über der Zeile nachgetragen).^#/-<fe> meis publicatis, praecipue autem ex confessione Basiliensi
+iudicari<fx>^#/+wohl von Simlers Hand in Entsprechung zu E korrigiert aus ^#/-indicari.<fe> volo.
+^$Porro de farragine epistolarum aedita<f1>Gemeint ist die 1536 erschienene
+Sammlung von Briefen Oekolampads und Zwinglis (Oekolampad-Bibliographie 88f, Nr. 182).<fe> ais<fx>^#/+E:^#/- dicis.<fe> me admodum dolere. Miror, an verum dixerint, qui
+hoc renunciarunt, Bucerum scilicet<fx>^#/+in der Vorlage irrtümlich ^#/-secundum.<fe> id constanter
+affirmare, dolere Bullingerum<fx>^#/+E: ^#/-qui hoc nunciarunt ^#/+(korrigiert aus^#/- annunciarunt^#/+),^#/- dolere me scilicet.<fe> ob aeditam farraginem, quod in
+hac<fx>^#/+E:^#/- in illa.<fe> eucharistiae negotium frigidius tractatum sit<fx>^#/+E:^#/- sit tractatum.<fe> et quod concordiam unice remoretur<fx>^#/+E: ^#/-concordiam plurimum sit remorata ^#/+(nach ^#/-concordiam^#/+ ein gestrichenes Wort).^#/-<fe>.
+Ego vero ex animo doleo talia de me spargi<fx>^#/+E:^#/- Novam profecto rem audio, et
+doleo ex animo ista de me spargi.<fe>. Quis
+enim illum credat porro virum esse bonum, qui de suis praeceptoribus et libro bono et utili tam inique
+sentiat<fx>^#/+E:^#/- Quis enim porro virum bonum esse credat, qui tam inique iudicet de optime meritis
+praeceptoribus meis et libro bono?<fe>? Nollem profecto librum optimum oppressum, nollem hanc notam bene meritis inustam esse viris<fx>^#/+E kürzer:^#/-
+Nollem ego librum bonum oppressum esse.<fe>.
+Neque in illo libro quicquam veritatis in dogmate eucharistiae desydero, neque vivit, qui audierit me quaerentem de hac causa in hoc libro tractata neglectius<fx>^#/+E:^#/- Neque in illo quicquam, quod eucharistiae negotium attinet, desidero,
+neque unquam desiderare vel tibi vel aliis dixi.<fe>.
+Et<fx-t>^#/+E:^#/- Et tu quidem, cum interrogareris a me Basileae doctore Vadiano praesente, quidnam desiderares vel in
+praefatione farraginis vel in ipso opere, respondebas in praefationed. Bibliandri, quod ipsam attineret veritatem
+orthodoxam et ipsa dogmata christiana denique ^#/+(^#/-et ipsa dogmata christiana denique ^#/+am Rande nachgetragen)^#/- et
+summam doctrinae de eucharistia, nihil damnare te.<fe> tu quidem doctore Vadiano praesente interrogabaris a me Basileae,
+quidnam in ipso epistolarum opere aut operis praefatione
+desyderares. Respondebas, quod ipsam attinet veritatem orthodoxam dogmataque christiana adeoque ipsam de eucharistia
+summam, nihil desyderare te in praefationed. Bibliandri<fx-x>^#/+E:^#/- Et tu quidem, cum interrogareris...<fe>,
+verbula modo aliqua vel mutata vel intermissa cupere, cuius generis esse aiebas<fx>^#/+E:^#/- aiebas esse.<fe>:
+"Hinc ultro nobiscum redibunt vel potius ad nos redibunt in gratiam"<f1>AaO, f. <gr>b</gr>5v.<fe> etc. et alia quaedam huic non
+dissimilia<fx>^#/+E: ^#/-et alia ... dissimilia ^#/+über gestrichenem ^#/-et huic.<fe>. Addebas per caetera non displicere
+tibi scripta Zvinglii et Oecolampadii, sed videri illa parum opportuno tempore vulgata esse<fx>^#/+E:^#/- sed videri illa parum oportuno tempore illa iam esse vulgata.<fe>, maxime ea, quae in
+primo sacramentarii certaminis<fx>^#/+E:^#/- certaminis sacramentarii.<fe> calore sint effusa<fx>^#/+E:^#/- effusa
+essent.<fe>, quod olim inflicta vulnera his videntur recrudescere<fx>^#/+E:^#/- nam his putabas olim inflicta vulnera nunc
+recrudescere ^#/+(^#/-nunc ^#/+über der Zeile nachgetragen).^#/-<fe>.
+Ego vero boni consulenda esse putavi, quae facta essent animo minime malo et hostili<fx>^#/+E:^#/- minime malo et gladiatorio
+animo.<fe>. Et extare<fx>^#/+E:^#/- extare quidem.<fe> in farragine elegantem Oecolampadii dialogum<f1>AaO, f. 130r.-168v. (Oekolampad, Quid de Eucharistia veteres ... senserint, dialogus ...; s. Oekolampad-Bibliographie 78, Nr. 164; vgl. HBBW VI, S. 380, 13f).<fe>, quem tuipse semper putaveris
+singulare instrumentum esse ad sarciendam concordiam<fx>^#/+E:^#/- quem tu ipse
+existimes unicum
+esse ad sarciendam concordiam instrumentum.<fe>.
+Proinde non videre, quomodo epistolarum <vl>420</vl> farrago concordiam impediat, quo
+procedat minus, nisi adversae parti libeat omnia in deteriorem partem interpretari<fx>^#/+E:^#/- interpretari partem.<fe> aliamque expectare concordiam, quam nos intellexerimus hactenus<fx>^#/+E:^#/- denique nosipsos aliam
+meditari concordiam, quam hactenus intellexerimus.<fe>. Haec inter nos<fx>^#/+E:^#/- inter te et me.<fe>
+transacta<fx>^#/+E:^#/- transacta ^#/+über gestrichenem^#/- facta.<fe> esse non nescis<fx>^#/+E: ^#/-nosti.<fe>.
+Falsum ergo est, quod unquam doluerim ob farraginem aeditam idque hoc potissimum nomine,
+quod putem in illa frigidius tractatam esse causam eucharistiae<fx>^#/+E:^#/- quod doluerim aeditam esse farraginem idque propter sacramentariam causam
+frigidius tractatam.<fe>. Illud autem verum est, quod ad praestantissimum<fx>^#/+E:^#/- praestantissimum ^#/+über gestrichenem^#/-
+clarissimum.<fe> virum Conradum Zviccium quaerentem non de farragine aedita, sed de epistola quadam Zvinglii
+vulgata, qua<fx>^#/+in der Vorlage ^#/-quae.<fe> metuebat virum quendam optimum graviter iri offensum<fx>^#/+E:
+^#/-quod metueret ea clarissimum ^#/+(vor^#/- clarissimum ^#/+gestrichenes^#/- doctissimum et^#/+)^#/- virumd. Thomam
+Blaurerum offensum iri graviter ^#/+(ersetzt gestrichenes ^#/-unde ^#/+bzw.^#/- qua nonnihil metuebat inter
+Blaurerios et Zviccios oriturum irae^#/+).^#/-<fe><f1>Bullinger
+bezieht sich, wie aus dem Entwurf (s. oben Anm. a) hervorgeht, auf einen Brief, in dem Thomas
+Blarer angegriffen wurde. Bucers Antwort vom 25. Februar 1538 läßt erkennen, daß es um einen an (Johannes) Zwick gerichteten Brief geht (s. Zürich StA, E II 347, 121). In Frage kommt einzig der Brief Oekolampads vom 12. Mai 1528 (Oekolampad BA II 577). Damit kann nun als gesichert gelten, daß Thomas
+Blarer der dort genannte "censor" ist (vgl.
+ebd., S. 188, Anm. 2; ^#/+Moeller,^#/- Zwick 122f).<fe>, dixerim esse quidem in illo opere epistolam<fx>^#/+E:^#/-
+dicebam superesse adhuc.<fe> unam atque alteram, quam cuperem non impressam. Illam praecipue, qua Zvinglius<fx>^#/+E:^#/-
+Zvinglius ^#/+über der Zeile nachgetragen.^#/-<fe> Svevis subitam tribuit in subitis periculis consternationem<fx>^#/+E:^#/- subitam tribuit
+consternationem in periculis.<fe><f1>"Ut enim Suevicum genus natura vehemens est, ita subito quoque, cum quid insperato
+accidit, consternatur." (Zwingli an Konrad Sam, 26. März 1530, Z X 524, 5-7).<fe>, et illam Oecolampadii, in qua texitur fabula<fx>^#/+E:^#/- nescio quae
+fabula texitur.<fe> de abbate Capellensi<f1>Wolfgang Joner, letzter Abt von Kappel, gefallen in der Schlacht bei Kappel.<fe> indignissime<fx>^#/+E:^#/- indigne.<fe> post mortem
+tractato<f1>"En abbatem Capellensem misere trucidatum exocularunt, cucullo induerunt, in suggestu, ut concionaretur,
+statuerunt..." (Oekolampad an Capito, 22. Oktober 1531, Oekolampad BA II 945, S. 700).<fe>. Ut enim hoc manifeste falsum est et in summum discrimen optimum virum Thomam<fx>Thomam ^#/+fehlt in E.^#/-<fe>
+Blatterum coniicere poterat, si Quinque Pagici talia de se scripta et per hunc vulgata<fx>^#/+E:^#/- id de se scriptum et ab illo vulgatum.<fe>
+intelligerent<f1>Thomas Platter hatte die Briefsammlung zusammen mit Balthasar Lasius verlegt.<fe>, ita istud de Svevis omnino<fx>de Svevis omnino ^#/+fehlt in E.^#/-<fe> non vulgatum
+praestaret, idque propter veterem simultatem, quae alias in quibusdam plus quam prosit
+viget<fx>^#/+E:^#/- idque propter veterem simulationem Helvetiorum et Svevorum, quae huiusmodi ceu
+fomentis nutriuntur, quae extincta penitus oportebat.<fe><f1>Vgl. Helmut ^#/+Maurer,^#/- Schweizer und Schwaben. Ihre Begegnung und ihr Auseinanderleben am Bodensee im Spätmittelalter, 2. Aufl., Konstanz 1991.<fe>.
+Est et alia ad Somium Zvinglii<fx>Zvinglii ^#/+fehlt in E.^#/-<fe> epistola, quae de privatis scripta consiliis<fx>^#/+E:^#/- de privatis quibusdam
+consiliis scripta.<fe> imprudenter vulgata videtur, quod ea apud principes non malos nescio quid suspicionis peperisse dicitur liberis et imperialibus quibusdam urbibus<fx>^#/+E:^#/- quod ea
+nescio quid suspitionis conciliare creditur
+urbibus quibusdam apud principes.<fe><f1>Gemeint ist der Brief an Konrad Sam und Simprecht Schenck vom 18. August
+1530, in dem Zwingli die Kaisertreue der Reichsstädte kritisiert (Z XI 68-70); vgl. ^#/+Hundeshagen ^#/-81 (mit Anm. a).<fe>. Haec autem quid ad eucharistiae causam faciunt? Aut quomodo impediunt concordiam<fx>^#/+E:^#/- concordiam impediunt.<fe>? An
+ideo indoluit totum librum aeditum, quod unam atque alteram epistolam certas ob causas nollem esse impressam<fx>^#/+E:^#/- quod ob certas causas unam atque alteram epistolam nollem impressam.<fe>?
+Verum ista forte nihil ad te pertinent, ut qui de me
+nihil tale dixeris<fx>^#/+E (anstelle dieses Satzes):^#/- Verum haec de illis ^#/+(^#/-illis ^#/+über gestrichenem^#/- farragine^#/+)^#/-
+dicta suffitiant. Ego mihi de ^#/+(^#/-Ego mihi de ^#/+über gestrichenem ^#/-Rit^#/+)^#/- te polliceor
+meliora, quam qui ^#/+(nach^#/- qui^#/+ ein gestrichenes Wort)^#/- huiusmodi nota me asperseris.<fe>.
+^$Ritum vero ecclesiae Tigurinae, quo illa coenam domini<fx>^#/+E:^#/- quo coenam dominicam.<fe> celebrat, non puto a te
+improbari neque illum cuiquam offendiculum esse<fx>^#/+E:^#/- offendiculo esse cuiquam.<fe>, nisi quis velit offendi etiam re bona<fx>^#/+E:^#/- nisi quis
+forte bona etiam re velit offendi.<fe>. Instituto enim dominico et apostolico ritui<fx>^#/+E:^#/- Nam instituto dominico et apostolico.<fe>
+quadrat et vetustatis habet plurimum<fx>^#/+E:^#/- plurimum habet.<fe>. Id quod te latere non potest, cum et Theodorus,
+ecclesiae nostrae
+ornamentum, de hoc pie et docte scripserit in sua illa praefatione ad epistolarum farraginem<fx>^#/+E:^#/- docte
+in sua illa praefatione ad opus epistolare pluribus
+illustravit.<fe><f1>Bibliander berichtet in seiner Vorrede (aaO, f. <gr>g</gr>6v.-<gr>d</gr>2r.) ausführlich über die von Zwingli und Oekolampad eingeführte Abendmahlspraxis.<fe>.
+^$Haec volui tecum commentari, Bucere charissime<fx>^#/+E:^#/- Haec tecum, mi Bucere, commentari libuit.<fe>, ut
+cum amico, quem in domino plurimum opto valere.
+^$Salutabis mihi Capitonem et
+reliquos symmistas<fx>^#/+Gruß fehlt in E^#/-.<fe>.
+^$Tiguri, 6. octobris anno 1537<fx>anno 1537 ^#/+fehlt in E und ist möglicherweise vom Abschreiber ergänzt.^#/-<fe>.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

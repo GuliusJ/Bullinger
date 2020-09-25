@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2434">
+<brief>
+<id>16121</id>
+<nr>2434</nr>
+<ae>Johannes Comander an Bullinger</ae>
+<od>Chur, 27. April 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 328 (Siegelspur)</vo>
+<dr>Druck: <a>Graubünden, Korr.</a> I 95f, Nr. 70<k>(Keine Simler-Kopie?) </k></dr>
+<re>Comander fasst sich kurz, da der verdienstvolle Bote [Johannes Blasius] alles selbst erzählen kann. Doch bat dieser um eine Empfehlung für sich und seinen Sohn [Paulus], auch wenn es ziemlich seltsam ist, dass ein Unbekannter wie Comander einen bekannteren Menschen empfiehlt.
+<t/>[Blasius] bringt seinen einzigen Sohn, der begabt und integer ist, zum Studium nach Zürich und bittet Bullinger, für diesen eine Unterkunft bei einem frommen und gelehrten Mann zu finden. Bullingers Vermittlung wird nicht deshalb gewünscht, um die Kosten geringer halten zu können, sondern weil es wichtig ist, dass [Paulus] in einer Pension unterkommt, die für sein Studium förderlich ist und ihn nicht in schlechte Gesellschaft geraten lässt.</re>
+<textweg>
+<p>Graciam et pacem a domino, vir ornatissime.</p>
+<p>Tabellarium nactus adeo ydoneum paucissimis tecum agere placuit, quod denique superfluum videbatur, cum ipse coram viva voce com[m]inus melius cuncta enarrare posset. Pro ipso tamen et puero commendatitias darem literas, rogat. Quid? num ignotus notiorem commendare poterit? At puero
+<fn>Paulus Blasius.</fn> si quid meis literis prodesse potero, libens faciam. Filium suum unice charum studii gratia ad vos ducit cupiens illum tua ope alicui pio ac docto viro in convictum dare pro annuo pretio, non quod parsurus sit sumptui, saltem ut, quod studium et morum integritatem attinet, bene provisus sit. Puer bonae indolis est, integer, placidus et studiosus, dignus plane, cui diligenti cura provideatur, ut in coepta institutione pergat et ne aliqua corruptorum hominum contagione vitietur.</p>
+<p>Vale, vir humanissime. Ex Rhetiae Curia, quinto kalendas maias 46.</p>
+<un>Tuus totus Ioannes Comander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo doctissimoque viro M. Heinricho Bullingero, Tigurinae ecclesiae antistiti dignissimo, domino suo ac amico primario.</p>
+</textweg>
+</brief>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1667">
+<nr>1667</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>29. September 1542</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen und Anstreichungen von späterer Hand.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 34 (VBS V), 220
+(ohne Siegel)</vo>
+<vo>Kopien: Zürich ZB, Ms F 43, 84v.-85r.</vo>
+<vo>Ms S 51, 215</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 146f, Nr. 968</dr>
+<re>Wundert sich, von Blarer in letzter Zeit keinen Brief empfangen zu haben. Er soll daher dem Boten bei der Rückkehr einen Brief mitgeben; dieser ist auf dem Weg nach Memmingen, den Grund dafür kann Blarer dem beigelegten Schreiben [an Balthasar Funk, Nr. 1668] entnehmen, das er an Gervasius
+[Schuler] übersenden soll, an den auch er ebenso wie an [Balthasar] Funk in dieser Sache schreiben soll; eine Auseinandersetzung zwischen [Peter] Kunz und Erasmus [Ritter] über die Sakramentenlehre wurde zwar von den Bernern beigelegt, aber nun hat der Teufel einen neuen Streit entfacht; der
+Lästerer [Adam Heinricher] ist ein Hausgenosse von
+Kunz, so dass einige vermuten, diese Äußerungen seien mit seinem Wissen geschehen; will versuchen, Ritter von Kunz' Unschuld zu überzeugen; legt das Urteil [des Rats] über deren [Abendmahls-]­Streit bei, das Blarer zurücksenden soll. Bittet um Nachrichten vom [Reichstag zu] Nürnberg und vom
+[Städtetag zu] Ulm sowie vom Krieg gegen die Türken, von [Karl V.] und [Franz I.]; keine Neuigkeiten von den eidgenössischen Truppen;
+auf den [2. Oktober] ist ein Tag zu Baden angesetzt, an dem Zürich die Eidgenossen nochmals [vor dem Reislauf] warnen will; aus Zürich sind bisher weniger Soldaten abgezogen als erwartet, das Volk ist kriegsmüde; Gott möge helfen. Grüße.</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Miror, qui fiat, Ambrosi dulcissime idemque mihi
+colendissime frater, quod tanto tempore nullas a te recipio
+literas.<f1>Der letzte erhaltene Brief Blarers datiert vom 9. August; s. oben Nr. 1650.<fe> Fortassis negotiorum turba interturbaris.
+^$Misi hunc ad te nuncium<f1>Unbekannt.<fe>, qui parare iubeat aliquid
+litterarum, ut, dum redierit, inveniat scriptas.<f1>Vgl. Blarers Antwort vom 4. Oktober, unten Nr. 1673.<fe> Abit ille
+Memmingam; causam intelliges ex affixo apographo<f1>Unten Nr. 1668.<fe>, quod ubi
+legeris, clausum mittes per hunc eundem nuncium Gervasio
+nostro<f1>Gervasius Schuler.<fe>. Cuperem autem, ut tuas quoque literas adiungeres veld. Gervasio vel consuli Funckio<f1>Balthasar Funk.<fe> inscriptas, quibus animos
+ipsorum incitares, quo sedulo causam nostram agant.<f1>In seiner Antwort, unten Nr. 1673, 28f, berichtet Blarer, an Schuler und Funk geschrieben zu haben; diese Briefe sind jedoch nicht vorhanden.<fe> Vide
+autem, ne quis de hac re quicquam resciat. Hoc certum est
+calumniam innocuo strui ex malitia et arte sathanica. Fuit
+quaedam inter Conzenum<f1>Peter Kunz.<fe> et Erasmum<f1>Erasmus Ritter.<fe> disceptatio super re
+sacramentaria; verum senatus prudentia populique Bernatis
+constantia factum est, ut pulchre compositum sit dissidium
+et probe conveniat ministris.<f1>Im Juli war der Konflikt zwischen Ritter und den von Kunz angeführten Vertretern einer
+mehr bucerisch geprägten Abendmahlslehre erneut in aller Schärfe ausgebrochen. Nach langwierigen Verhandlungen einigten
+sich die Beteiligten auf Druck des Rates am 15. August auf eine gemeinsame Erklärung (Bern StA, A I 380, 292v.-302v.; vgl.
+auch die ausführlichen Eintragungen in Ratsmanual, bes. A II 151, 228-223. 236-244. 247-249. 252-254. 257. 271-281); vgl.
+^#/+Hundeshagen^#/- 165f; zum weiteren Kontext zuletzt Amy Nelson ^#/+Burnett,^#/- The Myth of the Swiss Lutherans: Martin
+Bucer and the Eucharistic Controversy in Bern, in: Zwa XXXII, 2005, S. 45-70.<fe> Excitat ergo sathan novam
+turbam; nam conviciator ille<f1>Adam Heinricher, vgl. oben Nr. 1665, 4 mit Anm. 2.<fe> convictor est Conzeni; unde
+sunt, qui suspicantur non inscio Conzeno calumniam illam
+Erasmo a convictore esse intentatam. Ego Erasmum
+persuadere conor<f1>Ein entsprechendes Schreiben an Erasmus Ritter liegt nicht vor.<fe> Conzenum insontem esse, ne
+videlicet animi vix conciliati resiliant. Sententiam super controversia eorum pronunciatam habes affixam his meis literis,
+sed cura, ut per hunc eundem tabellionem remittas<f1>Die Beilage, eine Abschrift der Übereinkunft vom 15. August 1542, findet sich in Zürich StA, E II 337a, 352r.-353v.<fe>.
+^$Quod si quid certi habes de comitiis Nerobergensibus<f1>Der Reichstag zu Nürnberg vom 1. bis 29. August 1542, vgl. oben Nr. 1619, Anm. 7.<fe>,
+Ulmensibus<f1>Der Städtetag zu Ulm vom 4. September 1542, vgl. PC III 291.<fe>, de exercitu militante in Pannonia contra Turcas<f1>Vgl. unten Nr. 1671, 22-25.<fe>
+aut de rebus caesaris<f1>Karl V.<fe> atque Galli<f1>Franz I.<fe>, fac, sciam. Nos de
+militibus Helveticis<f1>Gemeint sind die Söldner in französischen Diensten, vgl. unten Nr. 1675, 7f.<fe> ne verbum quidem audimus. Uff montag
+nach Michaelis<f1>Am 2. Oktober.<fe> wirt aber<f1>erneut.<fe> ein tag zuͦ Baden; habend min
+herren beschriben<f1>ausgeschrieben.<fe>, abermols mit den eydgnossen zuͦ
+handlen, das sy abstandint etc.<f1>Bullinger bezieht sich auf die wiederholte Warnung der Zürcher an die Eidgenossen vor dem Reislauf, vgl. zuletzt oben Nr. 1648, 31f mit Anm. 10. Anlass der Tagung war die Bitte der in Nürnberg versammelten Reichsstände um Unterstützung des Türkenfeldzugs, s. EA
+IV/1d 185 l. 186f zu l.<fe> Uns sind von den gnaden
+gottes in allen 3 zügen<f1>Gedacht ist vermutlich an den Zug zum französischen König sowie jene gegen Braunschweig und nach Ungarn.<fe> minder lüten hingelouffen, dann
+yemandts glouben mög. Unser volck überal ist des kriegens
+der eydgnossen vast übel zefriden<f1>sehr unzufrieden.<fe>. Gott kumb uns ze hilff et
+liberet nos ab omni malo<f1>Vgl. Mt 6, 13.<fe>.
+^$Vale cum omnibus tuis. Salutat te officiosissime
+Bibliander, Megander, Gvaltherus, Erasmus Fabritius<f1>Erasmus Schmid.<fe>,
+Pellicanus ac reliqui.
+^$Tiguri, 29. septembris anno 1542.
+<un>H. Bullingerus tuus<fx>^#/+Daneben von Blarers Hand: ^#/- Remitte
+sententiam Bernatensem ^#/+und auf der Rückseite (f. 220v.):^#/- A
+Bullingero ultima septembris 1542.<fe>.
+<lz>[Adresse auf f. 221a v.<fx>^#/+Bullinger schrieb die Adresse auf die Rückseite der dem Brief an
+Blarer beigelegten Abschrift seines Briefes an Balthasar Funk (unten Nr. 1668).^#/-<fe>]: Suo Ambrosio Blaurero.
+</content>
+</letter>

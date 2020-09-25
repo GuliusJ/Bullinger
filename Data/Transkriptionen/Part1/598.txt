@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="598">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>(*Zürich*)</place>
+	<date>24. Juni 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 342, 50 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Sendet ihm (wie auch Bucer) einen Auszug aus Luthers soeben erschienenem
+Kommentar (*zum Galaterbrief*), angesichts dessen die
+Bemühungen um eine (*Abendmahls-*)Konkordie als aussichtslos erscheinen
+müssen.
+</statue>
+<content>
+Gratiam et pacem.
+<p>Nolui nescires, Myconi doctissime, quid sperandum sit de concordia illa Lutheranorum et phanaticorum+1. Vides schedam exscriptam ex commentariis ad nundinas pascales proxime hoc in anno 1535 aeditas+2.
+Plura et impetuosiora scripsit folio 127 et 128+3.
+Insanit in eo opere in
+phanaticos, sed et impudentissimis mendatiis nos conspurcat. Et sunt
+interim, qui illi non supplices modo ad genua accidunt. Dii illam
+perdant muliebrem molliciem et perversum concordiae studium.</p>
+<p>Vale, observande frater, et haec tibi scripta putato.</p>
+<p>Similem tuae schedam Bucero transmisi+4, ut videat, quocum agat. Nullam hic video moderationem impetraturam apud hunc, nisi prorsus abnegata sancta+a veritate dicamus solum hunc dei virum sanctissimum recte de sacramentis
+sensisse. Der tüfel thu^yge aber das!</p>
+<p>Vale.</p>
+<p>Ioannis Baptistae 1535.</p>
+<signature>
+H. Bullingerus tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Osvaldo Myconio,
+Basileiensis ecclesiae pastori vigilantissimo, suo in domino charissimo
+fratri.
+</address>
+</content>
+<note>
+.us; +a >in der Vorlage  sanctam.
+<address>
++1>Durch Luthers erneute Polemik gegen die Schwarmgeister
+wurden Bucers Bemühungen um eine Abendmahlskonkordie diskreditiert, vgl.
+<print>
+Köhler,  ZL II 400f.
++2>Gemeint ist Luthers Kommentar zum Galaterbrief
+(WA XL/1 1-XL/2 184); Bullingers Exzerpt ist nicht erhalten.
++3>An der genannten Stelle (WA XL/1 252f) vergleicht Luther die
+Schwärmer mit den Lügenaposteln, die den Galatern das Gesetz predigten.
++4>Vgl. unten Nr. 623, 215-244.
+</print>
+</address>
+</note>
+</letter>

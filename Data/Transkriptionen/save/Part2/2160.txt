@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2160">
+<nr>2160</nr>
+<correspondents>
+	<originator>Simprecht Vogt</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Schaffhausen</place>
+	<date>14. Mai 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 309 (Siegelspur)</vo>
+<dr>Teildruck: CO XII 77f, Nr. 641</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 100 ^&x{
+<re>Die [Schaffhauser] danken im Namen der [eidgenössischen] Kirchen für das ["Warhaffte Bekanntnuß" bzw. die "Orthodoxa Tigurinae ecclesiae confessio"], weil Bullinger in dieser Schrift den im Einklang mit den alten Glaubensbekenntnissen stehenden Glauben der [Eidgenossen] gegen Luthers ["Kurtz bekentnis"] so gut verteidigt hat. Alle können dabei feststellen, wie Bullingers Mäßigkeit und Frömmigkeit Luthers Lügen und Verleumdungen übertreffen.
+-^#. Bullinger möge das über die [eidgenössischen] Kirchen übernommene Patronat weiterhin mit solcher Mäßigung wie im vorliegenden Buch ausüben.
+-^#. Bullingers Ermahnung ist gut angekommen. Die Schaffhauser werden sie beherzigen.
+-^#. Calvin ist [das Eintreten für die Waldenser] mehr geglückt, als Vogt zu hoffen wagte. Der Rat [von Schaffhausen] hat einen Gesandten [Alexander Peyger] für das Treffen in Aarau bestimmt.
+-^#. Was Calvin an der ["Orthodoxa Tigurinae ecclesiae confessio"] missfällt, soll Bullinger mitteilen, da Calvin sich nicht dazu äußern wollte.
+-^#. Falls Bullinger etwas gegen die Pensionen[empfänger] verfasst oder gepredigt hat, soll er es Vogt abschriftlich mitteilen.
+-^#. Grüße von [Heinrich] Linggi, [Sebastian] Grübel; Grüße an Theodor [Bibliander], [Kaspar] Megander, [Konrad] Pellikan, [Rudolf] Gwalther.</re>
+<tx>Gratiam et vitae innocentiam a domino, etc.
+^$Gratias tibi agimus, Bullingere candidissime doctissimeque, non tam ob literarium tuum munus<f1>Das "Warhaffte Bekanntnuß" bzw. die "Orthodoxa Tigurinae ecclesiae confessio" der Zürcher; s. oben Nr. 2061, Anm. 9. Zur Übersendung der Schrift an Vogt bzw. nach Schaffhausen ist nichts bekannt.<fe>,
+quod alioquin est charissimum, praesertim ab ipso authore delatum, quam communium ecclesiarum nostrarum nomine,
+quas ita a furibunda Lutheri suggillatione<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe> vindicasti, ut non tantum fidei nostrae rationem eiusque cum orthodoxa veterum fide
+collationem toti mundo proposueris, sed et defunctorum<f1>Gemeint sind Zwingli und Oekolampad.<fe> manes ab importunissima hominis<f1>Luthers.<fe> calumnia egregie sis tutatus.
+Constabit sane apud omnes atque adeo apud Lutherum ipsum, nisi plane mente sit destitutus, convitia, mendatia, nugas,
+blas<gr>f</gr>emiam ab ipso stare, te autem maluisse modestia, pietate caussaque iustissima decertare.
+Decebat sane theologum tanti nominis, ut defunctorum optime de christiana republica meritorum manibus parceret,
+ut ecclesias innoxias huiusmodi convitiis non tam foede conspergeret, ut pacto staret pacemque
+et concordiam nondum plane conglutinatam aleret, ut scandali rationem haberet.
+Sed horum omnium oblitus, furiis infernalibus exaestuans, in nihil tale ab ipso sperantes dirum stringit calamum papistis, communibus hostibus, tantum non trium<gr>f</gr>antibus; quibus - ut contentioni suae accentores habeat - mavult accedere etiam in iis, quę prius in ipsis insectatus erat, quam communibus nobiscum suffragiis Christi regnum et gloriam propagare.
+^$Tu perge, frater in domino colendissime, communium ecclesiarum patrocinium semel susceptum egregie tutari.
+Iudicabunt posteri, non dubito, iustiori trutina,<f1>Adagia, 2, 5, 82 (ASD II/3 460, Nr. 1482).<fe> quid quisque in hac re quęsierit.
+Modestia, cuius in hoc libello nunquam oblitus es, decertare perge adversus effrenem hunc monachum<f1>Luther.<fe>.
+Aderit dominus caussae suę neque suos unquam destituet.
+Visum erat forte Luthero maledictis inclarescere sibique blas<gr>f</gr>emiis aeternam comparare memoriam.
+Habeat eam, glorietur ea; tantum modestia nostra nota sit omnibus hominibus.
+^$Porro, quod nos officii nostri tam pie admones,<f1>Im nicht erhaltenen Brief, der die Buchsendung begleitete.<fe> gratum facis. Nos deo favente curabimus, ne uspiam nobis defuisse videamur.
+^$Calvino successit negotium<f1>Calvins Eintreten für die verfolgten französischen Waldenser; s. oben Nr. 2158 und Anm. 66. - Zu den Massakern im Luberon s. oben Nr. 2153, Anm. 60. 65.<fe> melius, quam vel ipse speraverim; nosti enim, cuiusmodi cum hominibus
+nobis<f1>Anspielung auf die Pensionenempfänger der französischen Krone, die in der Eidgenossenschaft um Söldner warben.<fe> luctandum sit. Senatus<f1>Der Rat von Schaffhausen.<fe> destinavit legatum<f1>Alexander Peyger. Sein Name erscheint in der Missive Schaffhausens an Zürich vom 27. Mai 1545 (Zürich StA, A 225/2, 27. Mai 1545; EA IV/1d 479. 481) in Zusammenhang mit dem Treffen in Aarau (s. dazu Anm. 12).<fe> Argogeam.<f1>Zum Treffen der eidgenössischen evangelischen Städte am 22. Mai 1545 in Aarau s. oben Nr. 2158, Anm. 70.<fe>
+^$An quid habeat in libello tuo<f1>Siehe oben Anm. 1.<fe> Calvinus, quod displiceat, rogo, significato per literas;<f1>Calvin kritisiert allein schon die Tatsache, dass die Zürcher auf den (jedoch von ihm ebenfalls nicht gebilligten) Angriff Luthers geantwortet haben; s. MBW-Reg IV, Nr. 3928, Brief vom 28. Juni 1545 - zu vgl. mit Calvins Ratschlag an Bullinger vom 15. November 1544, HBBW XIV 548, Nr. 2045. In seinem Brief an Gerhard thom Camph vom 18. Mai 1545 (CO XII 81f, Nr. 644) erläutert Pellikan die vier Gründe für Calvins Unzufriedenheit mit der Antwort der Zürcher: Diese hätten: 1) Zwingli verteidigt, wo dieser doch Heiden aufgrund ihrer Tugenden für selig erklärt hat; 2) die durch das Abendmahl vermittelte Gemeinschaft mit Christus nicht genügend hervorgehoben; 3) Karlstadt in Schutz genommen; 4) ihre Antwort - in der Luther zu harsch zur Rechenschaft gezogen worden wäre - auch auf Latein statt nur auf Deutsch verfasst (zum letzten Punkt s. oben Nr. 2073 und 2075, 27-37).<fe> non enim potuimus ab ipso expiscari quidquam tale.
+^$Unum est, quod te oratum velim: non dubito, quin contra sanguinarias istas pensiones aliquid
+aut collegeris aut praedicaveris olim; eius si mihi copiam feceris, rem facies gratissimam.<f1>Die ersten erhaltenen Schriftstücke Bullingers zur Söldnerfrage und zu den die Söldner anwerbenden Pensionenempfängern stammen aus den Jahren 1547 und 1549. Beim ersten Schriftstück handelt es sich um einen Ratschlag zuhanden der Gesandten nach Baden (Zürich StA, E I 1/3; s. ^#/+Bächtold,^#/- Bullinger 352), beim zweiten um die handschriftlich gebliebene Schrift "Ob einer christlichen fryen statt oder land nutzlich und heilsamm sye, sich mitt der kron Franckrych der gestallt vereinigen und verbinden, wie iezund angebracht und darvon geredt wirt" (veröffentlicht in HBSchrzT 103-113).<fe>
+^$Dominus te conservet ecclesiae suae diu incolumem. Salutant te symmystae mei Lingkius et Grübelius.
+Salutabis nomine meod. Theodorum<f1>Theodor Bibliander.<fe>, Megandrum, Pellicanum, Gvaltherum.
+^$Raptim, Scaffusii, ascensionis dominicae die anno a Christo nato 1545.
+<un>Tuus ex animo
+<un>Simpertus Vogtius.
+<lz>[Adresse auf der Rückseite:] Doctrina et pietate eximio virod. Henrycho Bullingero, fratri et domino suo in Christo observando. Tiguri.
+</content>
+</letter>

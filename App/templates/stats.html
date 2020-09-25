@@ -73,10 +73,14 @@
 				</h3>
 				<div class="h3_section">
 					<p> Die Korrekturen laufen seit <span class="kw">{{vars['days_active']}} Tagen</span>.
+						<!--
 						Das sind <span class="kw">{{(100*vars['days_active']/(vars['days_remaining']+vars['days_active']))|round(2)}}%</span>
 						der geschätzten Gesamtzeit von {{vars['days_active']+vars['days_remaining']}} Tagen.
+						-->
 					</p>
-					<p> Wir sind voraussichtlich in
+					<!--
+					<p> Wir sind
+						voraussichtlich in
 						<span class="kw">
 							{% if vars['days_remaining'] == 1 %}
         						einem Tag
@@ -86,6 +90,7 @@
 						</span>
 						fertig.
 					</p>
+					-->
 					<img class="parallel" alt="Korrekturen" src="{{url_for('static', filename='images/plots/changes_'+vars['file_id']+'.png')}}"/>
 					<img class="parallel" alt="Fortschritt" src="{{url_for('static', filename='images/plots/progress_'+vars['file_id']+'.png')}}"/>
 					<div class="clearing"></div>

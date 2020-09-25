@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2857">
+<brief>
+<id>17126</id>
+<nr>2857</nr> <from persid="Bullinger"/> <to persid="VadianJoachim"/> <place plid="Zürich"/> <date when="1547-03-23"/>
+<ae>Bullinger an Joachim Vadian</ae>
+<od>Zürich, 23. März 1547</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 235r. (Siegelspur)</vo>
+<dr>Druck: <a>Vadian BW</a> VI 607, Nr. 1525<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 118v.; Ms S 63, 175 </k></dr>
+<re><t>Bullinger hat Vadians Brief [<qv>nr2851</qv> vom 19. März] gut erhalten, zusammen mit dem Schreiben [von] Konstanz.
+<fn>Siehe dazu <qv>nr2851</qv>, <qv>fn17119-3</qv>.</fn></t>
+<t>Auch wenn er nichts zu berichten hat, vertraut er diesem [Stadt]boten [Melchior Vögeli]
+<fn>Die Entsendung Vögelis nach St. Gallen ist für die Abfassungszeit dieses Briefes belegt; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 68 der Ausgabenabteilung für laufende Boten.</fn> vorliegenden Brief an, damit Vadian die Gelegenheit hat, ihm zu schreiben. Der Bote bringt eine gute Nachricht!
+<fn>Dass diese Nachricht sich nicht auf den Streit bezog, der zwischen dem Abt des Klosters, Diethelm Blarer von Wartensee, und der Stadt von St. Gallen auszubrechen drohte (s. dazu <qv>nr2846</qv>), geht aus der Beobachtung hervor, dass Vadian erst sieben Tage später in seinem Brief vom 30. März (<qv>nr2868</qv>) darauf eingeht. Die Nachricht vom Sieg des Kurfürsten Johann Friedrich I. von Sachsen bei Rochlitz wird es auch nicht gewesen sein, da Vadian selbst darüber in seinem Brief <qv>nr2851</qv> vom 19. März berichtet hatte. Aus <qv>nr2864</qv> vom 28. März ergibt sich aber, dass die Angelegenheit irgendeinen Zusammenhang mit dem Krieg in Deutschland hatte. Vermutlich übermittelte der Zürcher Bote die von Bullinger auch an Myconius in <qv>nr2850</qv>,<qv>zl17118-6</qv>, mitgeteilte Nachricht von einem großen Bündnis gegen den Kaiser, zu dem es angeblich in Hamburg gekommen war.<zfn>fn17126-1</zfn></fn></t>
+<t>Der Herr stärke alle, die seinen Namen anrufen!</t></re> <textweg>
+<div>
+<p>S. D. Recepi tuas, vir praestantissime, mihi longe gratissimas una cum scripto Constantiensi.</p>
+</div>
+<div>
+<p>In praesenti vero, quod scribam, non habeo. Has tamen cursori dedi, ut tibi occasionem darem rescribendi. Faustissimum nuncium affert hic cursor.</p>
+</div>
+<div>
+<p>Dominus Iesus confirmet invocantes nomen eius! Tiguri, 23. martii anno 1547.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. d. Ioachimo Vadiano, consuli Sangallensi, domino suo semper observandissimo. Sangallen.</p>
+</div> </textweg>
+</brief>

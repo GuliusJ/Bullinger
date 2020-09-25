@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1663">
+<nr>1663</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>19. September 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 351r.-v., 12 (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 202</vo>
+<vo>Ms S 51, 203<f1>verweist zu diesem Vadian-Brief auf Gerhard Joh. Voß an [Hugo] Grotius, 17. Juni 1642 (!). Erw.: JSG 31, 1906, 62<fe></vo>
+<re>Hat die restlichen Teile des Matthäuskommentars [HBBibl I 144] mit Zustimmung gelesen und schreibt es Bullingers sicherem Urteil und großem Geist zu, dass er dieses Werk in so kurzer Zeit veröffentlichen konnte; weiter ist es Bullingers fleißiger Lektüre und unermüdlicher Übung zu verdanken,
+dass er sich gewählt und gewandt auszudrücken und in ähnlicher Fülle zu schreiben vermag wie Varro, Cicero, Hieronymus, Augustin und vor allem Origenes. Vadian weiß sich einig mit Bullinger in der Frage des Abendmahls; Bullinger versteht es, sich dabei klar und bestimmt auszudrücken, ohne sich von
+den Ausdrucksweisen anderer Kirchen zu entfremden. Auch auf [Kaspar] Schwenkfelds Lehre hat er so umfassend geantwortet, dass sich eine weitere Replik erübrigt; den Heuchlern lässt er keinen Ausweg offen. Gott gebührt Dank für seine Gaben. Gruß.
+</re>
+<tx>[Gedruckt: Vadian BW VI 158f, Nr. 1257.]
+^&xS. Quae erant in Matthaeum tua reliqua, mature mihi
+allata sunt. Placent mire omnia, neque id animo blandiente,
+sed certo destinato iudicio exultante affirmo et
+reduntantissimo[!] thesauro animi tui tribuo, quod tempore
+tam brevi et opera velut tumultuaria id praestare potuisti.
+quod multi tam praemeditatis et multos annos versis
+reversisque et mille modis mutatis lucubrationibus non
+assequuntur. Copię illud tribuo et lectionis frequentiae
+et, quod in omni professione summum est, indefessae
+exercitationi, ut, quod in parato et promptu habes, non
+gravate etiam aliis tua illa calami elegantia et facilitate
+impartiri et commune facere queas. Eadem vena[/e] et
+opulentia tot libros Varroni, tot Ciceroni et nimirum, tot
+Hieronymo, tot Augustino et ante omnes Origeni myriadas
+illas lucubrationum peperit. Vidi vero locum de coena
+Christi, in quo ita nostrum sensum confirmas, ut nihil
+magis. Sed modo uteris loquendi tam dilucido, tum etiam
+diserto, sed tali tamen, a quo multifariae loquendi
+formulę, quibus et[?] alię Christi ecclesiae magno
+fructu pietatis utuntur, nec alie[/va]nae sensu, nec alienae
+mysterii explicatione, circumquaque perspectae+b{ videantur.
+Sed et Schwenkfeldio ita copiose pieque et circumspecte
+responsum est, ut nec nostris plane, nec aliorum, quos audio
+in illum armari, labore opus esse videatur. Et hypocrytis
+(quod maxime petebam ex te scripturiente) omnis insanię,
+suae via praeclusa est. Domino nostro gratia per filium
+Iesum, qui dona sua laborantibus nobis et iniquissimis
+temporibus gravatis magno quodam et ubere foenore largiri et
+promptissima etiam manu exhibere non cessat. In quo et te
+valere cum conlegio omni et mei, qui tibi ex animo faveo,
+memorem esse cupio.
+^$Sangalli, 13. calendas octobris, anno 1542.
+<un>Ioachimus Vadianus.
+<lz>[Adresse .......:] Clarissimo viro
+domino Henrycho Bullingero, clarissimae urbis Tigurinae
+episcopo, domino et amico inprimis colendo.^&x{
+</content>
+</letter>

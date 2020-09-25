@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="19115">
+<nr>19115</nr>
+<correspondents>
+	<originator>Heinrich Eberli (Apriolus)</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Mülhausen</place>
+	<date>20. Mai 1549</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 402</vo>
+<dr></dr>
+<re></re>
+<tx>
+S. D. Quum ex improviso, vir colendissime, in tabellarium iamiam itineri
+accinctum incidissem, visum mihi est doctam tuam aurem indocto epistolio
+vulnerare. "Qui" dicis. <gr>....</gr>. Adolescens quidam Mylhusanus, bonę
+quidem indolis, isthic stipendia literaria facit, Tigurinę scholę bonas
+literas addiscendas traditus est. Hunc itaque tibi commendo et, si quid
+deliquerit seu cesserit, severiter reprehende.
+^$Vale.
+^$Mylhusii die 20. Maii anno 1549.<un>Henrichus Apriolus, verbi dei minister.<lz>[Adresse:] Percelebri viro D. Henricho Bullingero, Tigurinę ecclesię
+episcopo.
+</content>
+</letter>

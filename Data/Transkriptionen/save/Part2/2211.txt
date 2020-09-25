@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2211">
+<nr>2211</nr>
+<correspondents>
+	<originator>[Ambrosius Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>10. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 141 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 377, Nr. 1202</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 197; Erw.: Stucki, Lavater 222 ^&x{
+<re>Bullinger soll Blarer nicht übermäßig danken. Sie wollen ja ihre Freundschaft pflegen.
+-^#. Bullinger hat Blarer in Hinsicht auf Konrad Curio [Hofherr] beruhigt. Blarer zweifelt nicht, dass sich dieser unter Bullingers Aufsicht gut entwickeln wird. Bullinger soll aufpassen, dass der leicht Abzulenkende auf dem rechten Weg bleibt.
+-^#. Blarer weiß nicht, ob und was Bürgermeister [Johannes] Haab [Konrad Zwick bezüglich der Verhandlungen zur Kriegskunst] geschrieben hat. Möge Gott (dessen Plan es sicherlich war, dass [die Kriegskunst] bisher geheim blieb, um einst der Christenheit zu nutzen) alles zum Guten wenden.
+-^#. Blarer hätte gerne Johannes a Lascos Brief an Bucer zum Abendmahl, dessen Übermittlung ihm [Albert] Hardenberg brieflich und auch [Gerhard thom Camph] versprochen haben. Außerdem hat er auch noch nicht die von Bullinger [in einem nicht erhaltenen Brief] erwähnte Schrift a Lascos, die ["Defensio verae doctrinae"] gegen Menno [Simons], gesehen.
+-^#. Blarer schickt den "Dialogus [Philalethis"], der ihm gut gefallen hat, zurück.
+-^#. Der [Konstanzer] Buchhändler [Gregor] Mangolt wird wohl in den nächsten beiden Tagen nach Augsburg reisen und Bullingers Brief [nicht erhalten] an [Georg] Frölich überbringen; ansonsten wird ihn jemand anders übermitteln.
+-^#. Thomas Grunder aus Wil, bei dem Blarer [im Jahr 1529] wohnte, als er dort das Evangelium predigte, bittet, dass Bullinger ihm hilft, das Zürcher Bürgerrecht zu erwerben, weil er in Wil wegen der herrschenden Papisten kaum mehr leben kann. Grunder ist kein schlechter Mensch, jedoch als Familienvater etwas nachlässig.
+-^#. Über den Reichstag [zu Worms] gibt es nichts Erwähnenswertes. [Karl V.] soll am 5. August abgereist sein, ohne viel ausgerichtet zu haben. Alles wurde auf den künftigen Reichstag [zu Regensburg] verschoben. Der Kaiser konnte wegen [Paul III.] nicht an den im Vorjahr den [Protestanten am Reichstag zu Speyer gemachten] Zugeständnissen festhalten. Mit Letzteren hatte er nämlich das Geld erschmeichelt, mit dem die [Protestanten] sich ihren Freund [Franz I.] zum Feind gemacht und ihrem Feind [Karl V.] geholfen haben. [Die Protestanten] aber wollen blind an den Zugeständnissen festhalten.
+-^#. Grüße.
+-^#. Blarer empfiehlt den bei Theodor [Bibliander] befindlichen Jakob Metzler, den Sohn des [Konstanzer] Pfarrers [Bartholomäus Metzler], den Bullinger ermahnen soll, wenn er ihm begegnet.</re>
+<tx>Tu vero, mi venerande et charissime Bullingere, immodicis tuis gratiarum actionibus etiam molestum esse incipis, quare, ut porro abstineas ab hisce calamum, vehementer te oro, vehementius autem, ut si quid tuarum rerum
+a me recte curari posse existimabis, libere significes, nunquam non experturus officium nostrum.
+Amicicię iura et tu non ignoras, et ego colere pro virili cum primis statui.<f1>Blarer antwortet auf einen nicht erhaltenen Brief Bullingers, dem dieser anscheinend den von Georg Cassander gesandten Dialog beigelegt hatte; s. Z. 22f.<fe>
+^$Quod ad Conradum Curionem adtinet, tua me fide magna cura et sollicitudine liberasti,
+neque enim dubito, quin omnia illius feliciter casura sint, ubi tu praestiteris et ille te admiserit monitorem.<f1>Zum wankelmütigen Konrad Hofherr s. zuletzt oben Nr. 2190, 32-52, wo Blarer Bullinger schon gebeten hatte, Hofherr im Auge zu behalten.<fe>
+Perge igitur, nam valde te obsecro, quemadmodum cępisti, retinere illum, ne a semel ingressa sanctorum studiorum via
+usquam (ut est facilis ab iis digressio) deflectat, sed ei, quę de se est, expectationi pulchre ac perpetuo respondeat.
+^$Quid consul vester Habius<f1>Johannes Haab.<fe> consobrino meo<f1>Konrad Zwick.<fe> vel an responderit, plane ignoro.<f1>Am 3. Juli hatte Blarer Bullinger geschrieben, dass Zwick Haab die Hauptpunkte ihrer Verhandlung zu Zwicks Kriegskunst senden wollte; s. oben Nr. 2190, 22-31.<fe>
+Dominus omnia bene vertat,<f1>Vgl. Röm 8, 28.<fe> cuius singulari consilio factum puto, ut tormenti istius plane mirabilis manifestatio
+hactenus sit dilata, publicanda, ni fallor, olim maximo christianę reipublicae commodo.
+^$Domini Ioannis a Lasco de Christi cęna epistolam modis omnibus habere desidero.
+Promiserat hanc in postremis suis ad me literis<f1>Unbekannt.<fe>d. Hardenbergius, et ipse Frisius<f1>Gerhard thom Camph, der Ende Juni in Konstanz war; s. oben Nr. 2180, Anm. 1.<fe>, quod
+nosti; putoque ad Bucerum missam.<f1>A Lasco antwortete mit diesem Brief über das Abendmahl vom 23. Juni 1545 (Druck in: Johannes a Lasco, Opera tam edita quam inedita, hg. v. Abraham Kuyper, Bd. 2, Amsterdam/Den Haag 1866, S. 591f) auf den Brief Bucers vom 16. April 1545 zum gleichen Thema (zu dessen Druck s. oben Nr. 2120, Anm. 28), den dieser zirkulieren ließ, so dass auch das Interesse an a Lascos Antwort dementsprechend groß war.<fe>
+Ego nec huius<f1>Zu verstehen: epistolae.<fe> nec scripti contra Mennonem anabaptistam<f1>A Lascos gegen Menno Simons gerichtete Schrift "Defensio verae doctrinae", die Albert Hardenberg am 23. März 1545 nach Zürich gesandt hatte; s. oben Nr. 2120, Anm. 19.<fe>, cuius mentionem facis,<f1>Wohl in einem nicht erhaltenen Brief.<fe> quicquam vidi.
+^$Dialogum<f1>Der Dialogus Philalethis; s. oben Nr. 2194, 41-43 und Anm. 18. - Bullinger wird diese Flugschrift nach dem 22. Juli 1545 mit einem nicht erhaltenen Brief an Blarer gesandt haben, nachdem er sie am 22. Juli mit Cassanders Brief vom 10. Juli (Nr. 2194) erhalten hatte.<fe> remitto magnas tibi gratias, quod miseris, agens. Multum enim ob singulare artificium et rerum, quarum meminit, cognitionem arrisit.
+^$Mangoldus<f1>Gregor Mangolt.<fe> noster, bibliopola, cras aut postridie Augustam se profecturum affirmat, qui literas tuas Lęto<f1>Georg Frölich.<fe> reddet.<f1>Wohl Bullingers nicht erhaltene Antwort auf Frölichs Brief vom 28. Juli (Nr. 2203), auf die Frölich am 18. August reagierte (Nr. 2216). Bullingers (nicht erhaltene) Antwort auf den Brief des Augsburger Rats vom 30. Juli 1545 (Nr. 2204) wurde vielleicht einem amtlichen Boten anvertraut; s. unten Nr. 2216, 1f.<fe>
+Quodsi forte mutaverit consilium, nihilo secius; alia commoditas illas illuc mittendi non deerit.
+^$Est civis quidam Wylę<f1>Wil (Kt. St. Germain).<fe>, cui Thomę Grundero<f1>Zur Person von Thomas Grunder (Gründer), dem Überbringer dieses Briefes (s. unten Nr. 2226, 1f), ist wenig bekannt. Er könnte im Tuchhhandel tätig gewesen sein (s. Johannes ^#/+Rütiner,^#/- Diarium 1529-1539, hg. v. Ernst Gerhard Rüsch, Textband I/2, St. Germain 1996, Abs. 967) und ist - zumindest für das Jahr 1541 - als "Weibel" von Bettwiesen (3 km nördlich von Wil) nachgewiesen (Wil StadtA, Ratsprotokoll, Bd. 412, 1540-1543, S. 242). Wegen Grunders hoher Schulden (s. dazu aaO, Bd. 413, 1543-1544, S. 102. 122f. 125f. 132) beschloss der Wiler Rat am 25. Juni 1545, dass dieser die Stadt innerhalb von acht Tagen zu verlassen hätte und erst nach Tilgung seiner Schulden zurückkehren dürfe (aaO, Bd. 414, 1545-1546, S. 61); wir danken Herrn Stadtarchivar Werner Warth für seine freundlichen Ermittlungen. Am 5. September 1545 empfahl Vadian den aufgrund seines evangelischen Glaubens verarmten Grunder an Thomas Blarer in Konstanz und bat diesen, für einen von Grunders Söhnen zu sorgen, nachdem sich Bürgermeister und Rat von Zürich bereit erklärt hatten, für den Unterhalt des anderen Sohnes aufzukommen; s. Blarer BW II 385f, Nr. 1213; Vadian BW VI 440f, Nr. 1411; unten Nr. 2314, Anm. 46. Thomas Grunder wurde Ende 1545 von Vadian an Myconius in Basel empfohlen. Myconius empfahl ihn wiederum an Amerbach; s. Vadian BW VI 484. 494; Amerbach Korr. VI 216, Nr. 2772a. - Zu einer Einbürgerung von Grunder in Zürich kam es nicht, doch wurde er Ende 1545 in Zürich aufgenommen (s. unten Nr. 2314, 45f) und ist noch 1550 als in Zürich wohnhaft bezeugt; s. Karl ^#/+Frei,^#/- Zur Geschichte der aargauischen Keramik des 15.-19. Jahrhunderts, in: Anzeiger für schweizerische Altertumskunde, NF 33, 1931, 92.<fe> nomen, et quo superioribus annis,
+quum illic evangelium Christi septimanas aliquot praedicarem, hospite sum usus.<f1>Im Jahre 1529 hatte Blarer missionarisch an verschiedenen Orten im damaligen Thurgau gewirkt, darunter im Herbst in Wil (damals zur Abtei St. Germain gehörig), wie durch einen Brief Blarers an Zwingli aus dieser Zeit belegt ist; s. Blarer BW I 199, Nr. 155; Hermann ^#/+Buck^#/- und Ekkehart ^#/+Fabian,^#/- Konstanzer Reformationsgeschichte in ihren Grundzügen, I. Teil: 1519-1531, Tübingen 1965. - SKRG 25/26, S. 208.<fe>
+Is me valde obtestatur, ut se tibi commendem, quo istic ius civitatis vestrę tuo beneficio accipiat,
+quandoquidem gravissimo odio papistarum, qui Wylę regnant, laborat et res illi plane ad famem rediit.
+Negare igitur non potui officium teque rogo, ut, quantum absque molestia potes, illi adsis.
+Vir est non malus, quamquam non satis diligens paterfamilias.
+^$De comitiis<f1>Der Reichstag zu Worms.<fe> nihil dignum te scribere possum, quando illa<f1>Zu verstehen: comitia.<fe> nihil tantis heroibus dignum nobis pepererunt.<f1>Die folgenden Mitteilungen dieses Abschnitts entnahm Blarer fast wörtlich einem Brief Bucers vom 6. August (Blarer BW II 376, Nr. 1201).<fe>
+Imperatorem puta 5. augusti Wormacia abiisse,<f1>Auch in PC III 624 wird die Abreise Karls V. für den 5. August angekündigt, sie erfolgte jedoch erst am 7. August; s. NBD VIII 276; ^#/+Stälin^#/- 578.<fe> sed non effectis tantis rebus, quantas efficere decebat servientem antichristo contra Christum;
+et reiecta sunt omnia ad futura comitia,<f1>Im Reichsabschied vom 4. August 1545 wurde vermerkt, dass wegen der niedrigen Anwesenheitsquote keine zufriedenstellenden Verhandlungen und Beschlüsse erzielt werden konnten, weshalb für den 6. Januar 1546 ein Reichstag zu Regensburg angesetzt wurde, der de facto erst später begann; s. RTA JR XVI/1 81; RTA JR XVI/2 1658f, §§ 5f. Bis dahin sollten die früheren Beschlüsse zum Religionsfrieden und zur Türkenhilfe bestehen bleiben; s. RTA JR XVI/2 1660f, §§ 11-12.<fe> quum presertim imperatori per pontificem<f1>Paul III. - Zu seinem Paktieren mit Karl V. s. oben Nr. 2182, 36f; Nr. 2190, 75-77; Nr. 2192.<fe> stare non liceat iis concessionibus,
+quibus superiore anno tantum pecunię a nostris est eblanditus, qua Galliam hostem nobis,
+cum amica esset, fecimus, et eum<f1>Karl V.<fe>, qui hostis erat, auximus.<f1>Am Reichstag zu Speyer hatten die Reichsstände sich am 13. März 1545 zur Unterstützung des Kaisers im Kampf gegen Franz^#. I. bereiterklärt; s. HBBW XIV 151, Anm. 7.<fe> Nostri vero prorsus eas concessiones retinere voluerunt.<f1>In ihrer Protestation vom 4. August 1545 erneuerten die Stände der Augsburger Konfession ihre Forderungen bezüglich Friede und Recht und lehnten das Konzil von Trient ab; s. RTA JR XVI/2 1669-1672, Nr. 342.<fe>
+O cęcos nostros, qui non tandem omni tyrannidi antichristi longum valedicunt
+et servatori Christo plenis pectoribus occinunt "Benedictus, qui venit in nomine domini"!<f1>Mt 21, 9.<fe>
+^$Sed bene vale cum tuis omnibus, quos meis meorumque verbis diligentissime saluta. Ora pro nobis.
+^$10. augusti 1545.
+^$<vl>141v.</vl> Iacobum Mezlerum<f1>Zu Jakob Metzler s. zuletzt oben Nr. 2147, 18f.<fe> adulescentem, symystę nostri<f1>Bartholomäus Metzler.<fe> filium, istic apud optimum et doctissimum virum Theodorum<f1>Theodor Bibliander.<fe> etiamnum agentem,<f1>Zur Frage der Unterbringung Metzlers s. oben Nr. 2118, 38f und 2123, 28-32.<fe>
+quam possum, accurate tibi commendo, ut aliquando, ubi forte fortuna in illum incideris, ad bonam frugem horteris.
+^&x[ohne Unterschr.ift.]^&x{
+<lz>[Adresse darunter:] Suo valde quam venerando atque charissimo fratri,d. Heinricho Bullingero. Tiguri.
+</content>
+</letter>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2340">
+<brief>
+<id>16030</id>
+<nr>2340</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 30. Januar 1546</od>
+<vo>Autograph
+<fa><i>Mit Unterstreichungen.</i></fa>: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 102 (Siegelabdruck)</vo>
+<dr>Teildruck<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 118r.; Ms S 59, 53; Zit.: J. Vienot: Histoire de la Réforme dans le Pays de Montbéliard, I, 134 (Anm.)</k> und zusammenfassende Übersetzung: <a>Blarer BW</a> II 414f, <br/>Nr. 1247</dr>
+<re>Bullinger hat nichts Neues zu berichten. Er wartet gespannt auf Blarers Nachrichten vom Frankfurter [Bundestag] und vom [Zweiten] Regensburger [Religionsgespräch].
+<t/>Soweit er weiß, hat der [Briefüberbringer] Konrad [Hofherr] fleißig gelernt und sich anständig benommen. Bullinger hofft, dass [Hofherrs] Studien der Kirche nützen werden.
+<t/>Matthias Erb berichtet [mit <qv>nr2333</qv>], dass die Mömpelgarder Kirche sich nun wieder in ihrem früheren friedlichen Zustand befindet, und dass durch [die "Artickel" Ulrichs von Württemberg] erneut die Heiligenfeste und andere abergläubische Bräuche aufgehoben wurden; dass ferner Pierre Toussain, den die Lutheraner vor einigen Monaten vertrieben hatten, rehabilitiert wurde. Bullinger kann aus Zeitmangel keine Abschrift [der "Artickel"] senden.
+<t/>Grüße an Blarers Frau [Katharina, geb. Ryff], an die Kinder und an [Konrad] Zwick.</re>
+<text>
+<p>Gratiam et pacem. Nullas habeo, ad quas non responderim prius,
+<fn>Bullingers letzter Brief an Blarer datierte vom 14. Januar (<qv>nr2332</qv>). Den Brief Blarers vom 27./28. Januar (<qv>nr2335</qv>) wird Bullinger bei der Abfassung des vorliegenden Schreibens noch nicht erhalten haben.</fn> vir omnium charissime, sed et in praesenti non habeo, quod scribam aut indicem, nisi quod tuas avide expecto scire cupiens, quid pepererint comicia Francfordiana et Ratisbonentia
+<fn>Der Schmalkaldische Bundestag zu Frankfurt und das [Zweite] Regensburger Religionsgespräch.</fn>.</p>
+<p><zzl>zl2340-2A</zzl>Vivam hic habes epistolam d. Conradum
+<fn>Konrad Hofherr, den Blarer am 27. Juli 1546 nach Konstanz zurückrufen sollte (Zürich StA, E II 357, 188-191).</fn>, qui se apud nos, quantum ego quidem experiri et intelligere potui, gessit decentissime et didicit assidue. Vir est certe bonus, ac spero studia eius aliquando ecclesiae profutura<zzl>zl2340-2E</zzl>.</p>
+<p><zzl>zl2340-1A</zzl>Dum hec scribo, significat d. Matthias Erbius
+<fn>Matthias Erbs Brief an Bullinger datiert vom 24. Januar. Hier wird besonders auf <qv>nr2333</qv>,<qv>zl2333-3</qv>, angespielt.</fn> Montbelgardianam ecclesiam prorsus restitutam esse pristinae tranquillitati, ac decreto
+<fn>Zu den "Artickeln" s. <qv>nr2333</qv>, <qv>fn2333-2</qv>.</fn> senioris principis
+<fn>Ulrich von Württemberg.</fn> rursus abrogatos dies festos divis institutos
+<fn>Im 1. "Artickel" (<a>Viénot</a> I 132).</fn>; deiecta esse et alia quaedam superstitiosa, quae mal{e} fidei servi quondam oppressa rursus excitarant.
+<fn>Anspielung auf die "Artickel" 2 und 3 (<a>Viénot</a> I 132).</fn> Addit revocatum esse d. Petrum Tossanum
+<fn>Anspielung auf die "Artickel" 5-8 (<a>Viénot</a> I 132f).</fn>, virum singularis doctrinae et vitae puritate insignem. Eiecerant hunc
+<fn>Pierre Toussain war im Juli 1545 nach Basel geflüchtet; s. <qv>nr2333</qv>, <qv>fn2333-3</qv>.</fn> Lutherani ante menses aliquot; nunc ferre ipsum una cum confessione et doctrina sana iubet princeps, qui hoc quoque adiicit, Tossani doctrinam esse sanam. Sunt et alia multa, quae principis edicto correcta sunt. Copiam edicti principis
+<fn>Die von Erb gesandte Abschrift der "Artickel"; s. <qv>nr2333</qv>,<qv>zl2333-3</qv>.</fn> nec in praesenti mitere nec rescribere licuit; nam haec vix scribo.<zzl>zl2340-1E</zzl></p>
+<p>Vale cum uxore
+<fn>Katharina, geb. Ryff.</fn>, liberis
+<fn>Von Blarers Kindern lebten zu diesem Zeitpunkt Katharina, Gerwig, Johann Thomas, vielleicht auch Arta; vgl. <a>Pressel, Blarer</a> 498. 516; <a>Blarer BW</a> III 101-104.</fn> et tota tua familia sancta. Valeat et d. Zviccius
+<fn>Konrad Zwick.</fn> ac boni viri omnes.</p>
+<p>Tiguri, 30. ianuarii anno 1546.</p>
+<un>H. Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Ambrosio Blaurero, colendissimo suo domino et fratri in Christo omnium charissimo. Constantz.
+<fa><i>Darunter Blarers Empfangsvermerk:</i> 1. februari 1546.</fa></p>
+</text>
+</brief>

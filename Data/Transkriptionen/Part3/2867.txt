@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2867">
+<brief>
+<id>17135</id>
+<nr>2867</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-03-30"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 30. März 1547</od>
+<vo>Autograph: Zürich StA, E II 359, 2813 (Siegelspur)</vo>
+<dr>Ungedruckt <k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 186 </k></dr>
+<re><t>Georg Frölich wird alle Neuigkeiten, insbesondere die denkwürdigen Taten des Kurfürsten Johann Friedrich von Sachsen erzählen. Augsburgs Zukunft ist völlig ungewiss. Die Pfaffen und Kaiser Karl V. werden erst dann ruhen, wenn sie Christus gekreuzigt haben! Der Herr rette seine Kirche, die jetzt von ihren früheren Stützen bedroht wird!</t>
+<t>Bullinger soll Frölich stärken, damit er nicht die Augsburger Kirche im Stich lässt. Innerhalb eines Monats hat dieser sich sehr verändert! Er wird sich jedoch kaum bestechen lassen haben. Vermutlich verhält er sich anders, um den Pfarrern Mut einzuflößen. Irgendwann aber könnte er die allgegenwärtige Korruption erkennen und jegliche Hoffnung auf Besserung aufgeben. Haller weiß, wovon er spricht!</t>
+<t>Deshalb schreibt auch Michael Keller [<qv>nr2865</qv>]. Wolfgang Musculus versprach ebenfalls zu schreiben. Möge Bullinger aus diesen Briefen erkennen, dass die Pfarrer nicht aus Angst oder grundlos Augsburg verlassen wollen.</t>
+<t>Haller muss abbrechen, denn er erfuhr von Frölichs Abreise erst, als dieser schon das Pferd besteigen wollte. Er bat ihn, vorliegendes Brieflein abzuwarten und fragte auch Keller an, kurz zu schreiben. Dieser traut vielen Personen nicht, die von den weit von Augsburg entfernten Zürchern noch geschätzt werden! Eines Tages vielleicht wird Haller Bullinger alles eröffnen.</t>
+<t>Gruß.</t>
+<t>Es gelingt ihm kaum, Thoman Ruman in Augsburg zurückzuhalten. Im nächsten Brief soll Bullinger den Ungeduldigen aufrichten. Wo Hans Wilpert Zoller steckt, ist ein Rätsel. Hallers Bruder Wolfgang soll die bereits abgeschriebenen Notizen zu [Bullingers] Predigten über die Apostelgeschichte schicken. Haller will nach Ostern über dieses Buch zu predigen beginnen. Er zieht in die Wohnung von Bernardino Ochino, während Sebastian Lepusculus oder Ruman seine bisherige Wohnung übernehmen wird.</t>
+<t>Gruß an Kollegen und Familie. In Eile.</t></re>
+<text>
+<div>
+<p>S. P. <zzl>zl17135-3A</zzl>Quod ad res novas attinet, omnia habebis ex d. Laeto
+<fn>Georg Frölich, der vorhatte, bis nach Zürich zu reiten; s. <qv>nr2865</qv>,<qv>zl17133-1</qv>. Doch dazu kam es nicht.<zfn>fn17135-1</zfn></fn>.<zzl>zl17135-3E</zzl> Plura enim sunt et scitu memorabilia, quae Saxo
+<fn>Johann Friedrich I. von Sachsen. - Anspielung u.a. auf dessen Sieg bei Rochlitz; s. <qv>nr2832</qv>, <qv>fn17099-2</qv>.</fn> agit. Res nostrae tam sunt incertae, ut in crastinum vix, quid futurum sit, iudicari possit. Pfaffi cum suo caesare
+<fn>Karl V.</fn> non cessabunt, donec crucifigatur Christus! Dominus ecclesiae suae succurrat! Video enim eos, qui ipsius columnae
+<fn>Gemeint sind die Augsburger Ratsherren (s. dazu unten <qv>fn17135-2</qv>), die die Friedensbedingungen des Kaisers akzeptiert hatten; s. <qv>nr2769</qv>, <qv>fn17037-3</qv>.</fn> esse aliquando sunt visi, minari ruinam.</p>
+</div>
+<div>
+<p>Tu dominum Laetum conforta et mone, ne ecclesiae causam deserat. Nescio enim, quam sit intra mensem unum et alterum factus alius,
+<fn>Bis Ende Januar wollte Frölich Augsburg verlassen und hielt auch die dort wirkenden Zürcher dazu an. Dann aber änderte er seine Haltung; s. <qv>nr2785</qv>, <qv>fn17053-1</qv>; <qv>nr2787</qv>,<qv>zl17058-18</qv>; <qv>nr2791</qv>,<qv>zl17060-10</qv>; <a>Kirch, Fugger</a> 128.</fn> sive muneribus sit lenitus (quod non libenter credo)
+<fa><i>Dieses und das nächste Klammerpaar ergänzt.</i></fa>, sive nos
+<fa><i>Über der Zeile nachgetragen.</i></fa>
+<fn>Gemeint sind die Augsburger Pfarrer.</fn> consolandi gratia hoc facit. Videt forsan ita omnia esse corrupta, ut facilis non sit curatio. Non frustra moneo.</p>
+</div>
+<div>
+<p><zzl>zl17135-1A</zzl>Ideo etiam scribit Cellarius
+<fn>Michael Keller, dessen Brief <qv>nr2865</qv> laut vorliegender und der unten in Z. <qv>zl17135-2</qv> gemachten Angabe vermutlich vom 30. und nicht vom 29. März ist. Dass der bettlägerige Keller sich im Datum geirrt haben könnte, ist gut möglich.</fn>.<zzl>zl17135-1E</zzl> Scribet aliquando Musculus etiam (nam promisit)
+<fn>Wolfgang Musculus' nächsterhaltener Brief an Bullinger datiert vom 14. Juli 1547 (Zürich StA, E II 359, 2821).</fn>, ne putes nos esse vel meticulosos vel sine causis affectare abitum.
+<fn>Vgl. <qv>nr2770</qv>; <qv>nr2791</qv>,<qv>zl17060-35</qv>. <qv>zl17060-12</qv>. <qv>zl17060-15</qv>; <qv>nr2821</qv>,<qv>zl17087-8</qv>.</fn></p>
+</div>
+<div>
+<p><zzl>zl17135-2A</zzl>Non possum nunc plura, nam nescivi ipsum
+<fn>Gemeint ist Frölich; s. oben <qv>fn17135-1</qv>.</fn> discessurum esse, quam cum iamiam ocreatus
+<fn>gestiefelt; s. <a>Kirsch</a> 1946.</fn> vellet conscendere equum. Rogavi, ut expectet me vel unam lineam scribentem. Interim Cellarium etiam rogavi, <fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>ut scriberet vel unum verbum,<fa1e von="1"/><zzl>zl17135-2E</zzl> cui etiam multi sunt suspecti, de quibus vos, quoniam procul estis, bene sentitis.
+<fn>Haller denkt etwa an Hans Welser und Jakob Herbrot (s. <qv>nr2744</qv>,<qv>zl17013-29</qv>; <qv>nr2754</qv>,<qv>zl17022-13</qv>; <qv>nr2786</qv>,<qv>zl17054-15</qv>; <qv>nr2812</qv>,<qv>zl17080-25</qv>; <qv>nr2858</qv>,<qv>zl17113-10</qv>) wie auch an Claudius Pius Peutinger (s. <qv>nr2865</qv>, <qv>fn17133-1</qv>).<zfn>fn17135-2</zfn></fn> Non libenter scribo multa. Dicam tamen aliquando, si dominus dederit, ut conveniamus, omnia.</p>
+</div>
+<div>
+<p>Vale et ora pro nobis dominum.</p>
+</div>
+<div>
+<p>Romanum
+<fn>(Hans) Thoman Ruman (Römer).</fn> vix mecum retineo. Est aliquantulum impatientior. Rogo ergo, ut in proximis literis ipsum confortes. Wo Zoller
+<fn>Hans Wilpert Zoller. - Vgl. <qv>nr2858</qv>,<qv>zl17113-3</qv>.</fn> blib, nimpt mich wunder. Fratrem meum
+<fn>Wolfgang Haller.</fn> mone, ut, si quae in Acta descripsit, mittat. Iam enim post pascha
+<fn>Im Jahre 1547 fiel der Ostersonntag auf den 10. April. - Zur Angelegenheit s. <qv>nr2821</qv>,<qv>zl17087-32</qv> und <qv>fn17087-9</qv>.</fn> ordiar. Migro in aedes d. Bernardini
+<fn>Bernardino Ochino, der nach Basel geflüchtet war; s. <qv>nr2786</qv>, <qv>fn17054-1</qv>. - Es handelte sich um das sogenannte Wunderhaus bei St. Anna, in dem auch Sixt Birck und Michael Keller wohnten; s. <a>Roth, Augsburg</a> III 242.</fn>. Lepusculus
+<fn>Der aus Basel herangezogene Sebastian Lepusculus (Häslin).</fn> aut Romanus mihi succedet.
+<fn>Haller hatte nach seiner Ankunft in Augsburg zunächst bei Georg Frölich gewohnt (s. <a>HBBW</a> XV 647,15-17) und war (vermutlich etwa im Frühjahr 1546) in eine eigene Wohnstätte im Moritzkloster umgezogen (s. <a>HBBW</a> XVI 185,1-9; <a>Bähler, Haller</a> 18, Anm. 68). Bereits im Dezember 1546 hatte er sich eine größere Wohnung gewünscht (s. <a>HBBW</a> XVIII 364f). - Ruman und seine Familie wurden wohl nach dem 4. Dezember 1546 im Augsburger Martinskloster am Kesselmarkt untergebracht; s. <a>HBBW</a> XVIII 286,161f; 308, Anm. 63 (welche dahingehend zu korrigieren ist, dass Ruman mit seiner Familie vermutlich noch mindestens bis zum 4. Dezember 1546 bei Haller wohnte).</fn></p>
+</div>
+<div>
+<p>Vale. Salvos cupio fratres omnes una cum familia tua. Festinanter omnino. 30. martii 1547.</p>
+<un>I. Hallerus, perpetuo</un>
+<un>tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, fidelissimo Tigurinae ecclesiae antistiti, domino suo plurimum colendo.</p>
+</div>
+</text>
+</brief>

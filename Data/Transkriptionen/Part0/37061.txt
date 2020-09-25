@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="37061">
+<nr>37061</nr>
+<correspondents>
+	<originator>Johannes Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>19. Juli 1567</date>
+</space_time>
+<vo>Zürich StA, E II 370a, 382. / Orig. Aut.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S. Nihil prorsus habeo, quod nunc scribam; praeteread. Tretius viva erit epistola. Narrabit ipse de dimissis
+Genevae militibus, et qui sermones illic ferantur de indicto
+Gallis ab imperatore bello pro recuperanda civitate Metensi.
+Ego illud in animum meum adhuc inducere non possum; expecto,
+ut abs te de his et aliis certiora habeam. Necdum, quo
+Helvetii sint profecturi, nobis constat. Reliqua proxime perd. Zulegerum scripsi; si quę sunt alia, scribam deinceps.
+D. Tretius festinat abire, et ego per triduum iam non valde
+bene habeo. Proinde bene vale.
+Saluta fratrem meum et tuos omnes meo nomine; salutant te
+nostri.
+Bernae  19. iulii 1567.
+Tuus
+I[ohannes] Hall[erus].
+Clarissimo virod. Heinrycho Bullingero, Tigurinae ecclesiae
+pastori fidelissimo, domino meo et compatri summe semper
+observando.
+</content>
+</letter>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1981">
+<nr>1981</nr>
+<correspondents>
+	<originator fn=1>Schultheiß</originator>
+	<originator>Rat von Winterthur</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Das Schultheißenamt in Winterthur bekleidete von 1544 bis 1566 Alban Gisler; s. A[lfred] ^#/+Ziegler,^#/- Verzeichnis der Schultheißen von Winterthur 1230-1798, in: ders., Albanitag und Albanifeier in Winterthur 1264-1874, in: Njbl. der Stadtbibliothek Winterthur 253, 1919, S. 92, Nr. 44; HBLS III 532; Martin ^#/+Lassner,^#/- in: HLS V 532.</note>
+</correspondents>
+<space_time>
+	<place>Winterthur</place>
+	<date>11. September 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 440, f. 327 (alt 239), Nr. 75 (Siegelspur)</vo>
+^&x(davor Aufforderungen zu Fürschlägen 1541-1544, ohne Zus'hg.)^&x{
+<dr>Ungedruckt</dr>
+<re>Auf Veranlassung des Vormundes Rudolf Kuster ersuchen sie Bullinger, den jungen [Heinrich] Hoppler, Sohn des [Winterthurer] Bürgers Alban Hoppler, aufgrund seiner Armut und zur Fortführung seiner Schulbildung in das [Zürcher] Almosen aufzunehmen, wie schon früher andere Bürgersöhne aus Winterthur auch nach Zürich kommen durften.
+</re>
+<tx>Wolgelerter, wirdiger, sonnders günstiger, lieber her
+und guͦter fründt, üch sige unnser früntlich gruͦtz,
+willigenn dienst, sampt was wir liebs und guͦts
+vermöchten, zevor.
+^$Günstiger, lieber her. Es ist unsers Burgers Alban Hopplers<f1>Alban Hoppler stammte vermutlich aus dem alten, einst angesehenen Winterthurer
+Geschlecht. Über ihn ist sonst nichts bekannt.<fe>
+säligenn sonn<f1>Das vorliegende Gesuch war erfolgreich, denn 1550 findet sich ein Heinrich Hoppler in einem von Schulmeister Johannes Fries angelegten Almosenverzeichnis von Schülern des Fraumünster-Alumnats (Zürich StA, A 61.1, Stück 44): "Heinrich Hoppler von Winterthur, hatt kein vatter und gar niemandt, der sich sin annem." Weiteres ist über ihn nicht bekannt. Er ist nicht zu verwechseln mit einem anderen, etwas älteren Winterthurer, der als Heinrich Hopler mehrfach in den Urkunden B 2/10 des Stadtarchivs Winterthur erscheint und schon 1540 verheiratet war; s. etwa Winterthur Stadtarchiv, B 2/10, S. 42.<fe> mit sinem vogt<f1>Vormund.<fe> Ruͦdolffen Kuster<f1>Rudolf Kuster aus Winterthur erscheint verschiedentlich in den Quellen. Er hatte am Zweiten Kappelerkrieg 1531 teilgenommen, besaß um 1531 mehrere Häuser, erwarb 1534 ein Stück Land vor dem Obertor und war um 1536 Meister der Oberstube; s. Joh[ann] Conrad ^#/+Troll,^#/- Geschichte der Stadt Winterthur, nach Urkunden bearbeitet. Erster Theil, enthaltend die Kriegsgeschichte der Stadt Winterthur, Winterthur 1840, S. 61, Nr. 30; Zürich StA, Kataloge 440: Winterthur, Akten altes Archiv vor 1798, Regesten, Bd. 3, AH 99, Zünfte, Nr. 8; ebd., Bd. 2, Vermögens- und Erbschaftssachen, AG/91/2, Nr. 27; Winterthur Stadtarchiv, Urkundenregesten: Nr. 2242 (s. auch AG 94/1/167). 2340. 2451. 2500; ebd., Ratsprotokolle: B 2/8, S. 212-215. 217. 221. 223. 237. Zur Oberstube s. Marek ^#/+Rozycki,^#/- Die Handwerker und ihre Vereinigungen im alten Winterthur (bis 1798), in: Njbl. der Stadtbibliothek Winterthur 279, 1976, S. 116f.<fe> der tagen
+vor uns erschynnen, anzöigt, wie dan uns des guͦten knaben
+armuͦt wol bewüst, und er yetzo etlich zit in schuͦll
+gangen, der hoffnung, die leer an ime öthwas zuͦverfachen<f1>Zu verstehen: mit der Hoffnung, dass die Lehre ihm etwas nütze (SI I 722).<fe>,
+möge er doch, wie gmeldet, siner armuͦt halb dem nit
+nachkomen. Derwegen sin gantz früntlich pit wäre, wir ime
+günstliche fürgschrifft<f1>Empfehlung, Empfehlungsschreiben.<fe> an üch<fx>^#/+Nach ^#/- üch ^#/+gestrichenes^#/- ime.<fe> mitzetheillen, der
+guͦtenn hoffnung, ime woll zuͦ erschiessen<f1>ihm von Nutzen zu sein.<fe>, der gstalt,
+das er, wie dan vor anderen unseren burgers sönen ouch
+beschehen,<f1>Zu denken ist etwa an Leodegar Hirsgarter von Winterthur, den Bullinger 1539 als Stipendiaten bei sich aufgenommen hatte; s. HBBW IX 43, 22f.<fe> an das almuͦsenn genomen werde. Unnd diewyl wir
+ine zefürderen gnaigt, so lanngt an üch unnser früntlich
+pite, welind den guͦten knaben befolchenn haben, der
+massen, das im in etlichen wege gholffenn werd. Das wöllend
+wir umb üch früntlichenn verdiennenn.
+^$Datum in il<f1>in Eile.<fe>, denn 11. septembris anno 1544.
+<un>Schultheys und rat
+<un>zuͦ Winterthur.
+<lz>[Adresse auf der Rückseite:] Dem wolgelerten, wirdigen
+heren Heinrichen Bullinger, predicannten der stat Zürich,
+unserem günstigen, liebenn herrenn.
+</content>
+</letter>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1258">
+<nr>1258</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>um 22. April 1539]</date>
+	<note>Da sich Grynäus an zwei Stellen auf Myconius' Brief vom 22. April bezieht (s. unten Z. 1f und 18f), werden beide Briefe gleichzeitig überbracht worden sein.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 194 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Kann Bullingers ["De origine erroris"] erst jetzt lesen, nachdem das Buch gebunden ist. Rühmt seine [Einleitung zur
+lateinischen Bibel], bedauert aber die Verwendung von Münsters Übersetzung [des Alten Testaments]; ihn selbst hätte es wenig
+Mühe gekostet, deren mangelhaftes Latein zu verbessern. Mahnt dazu, der Konkordie Sorge zu tragen, und schließt sich
+der Anregung von Myconius an, etwas gegen Schwenckfeld zu unternehmen. An Rudolf [Gwalther] liegt ihm viel.
+</re>
+<tx>S. Priorem libellum<f1>Gemeint ist die Neubearbeitung von Bullingers "De origine erroris libri duo" (HBBibl I 12).<fe> qua
+de causa nondum legerimus, ostendit, arbitror, Myconius<f1>Vgl. oben Nr. 1257, 2-4.<fe>. Nam quod pro indiviso
+possidebatur<f1>Vgl. oben Nr. 1239, 10-15.<fe>, antequam ligatus est, etiam legi posse non credebamus. Eum ego prius
+editum esse<f1>Vgl. HBBibl I 10f.<fe> non memineram. Iam est ligatus, iam est in manibus; videbimus, quid dicas.
+^$Hunc posteriorem<f1>Wie sich aus dem Folgenden ergibt, bezieht sich Grynäus auf die bei Froschauer gedruckte lateinische Bibel,
+die Bullingers "De omnibus sanctae scripturae libris expositio" (HBBibl I 114) sowie das Alte Testament in der Übersetzung
+Sebastian Münsters enthält (vgl. oben Nr. 1237, 25-28 mit Anm. 10f).<fe> statim, ut oblatus<fx>^#/+nach ^#/-oblatus ^#/+gestrichenes ^#/-est.<fe> cum amantissimis
+literis<f1>Nicht erhalten.<fe> tuis est, relegi et tua in totam scripturam iudicia diligenter annotavi. Laudo diligentiam et studium erga ecclesiam.
+Monsteri diligentia mihi placuit, consilium nunquam
+placuit. Potuit mille loca levi unius vocis mutatione aut
+transpositione melius reddere et quidem mea opera, qui tota
+propemodum biblia ex ipso, qualiter reddidit, audivi. Ac
+ego vos miror, quare volueritis hanc translationem edere,
+quam, si mihi non amplius quam menses tres vacet, possim ter
+meliorem reddere. De sentencia nil detraherem (quamquam sunt
+certe quam plurima, in quibus neque scire potes, quae insit
+sentencia), tantum dictionem ipsam, quae<fx>^#/+nach ^#/-quae ^#/+zwei gestrichene, unlesbare Wörter.^#/-<fe>
+semilatina-germana-greca-hebręa est,
+generis unius pro virili latinam<fx>^#/+vor ^#/-latinam ^#/+gestrichenes ^#/-facerem.<fe> facerem.
+^$De loco, qui in libro tuo de sacramento legitur<f1>Der zweite Teil von "De origine erroris" handelt von Abendmahl und Messe; vgl. HBBibl I 12.<fe>, videbimus.
+Oro te valde, ut ad concordiam publicam ecclesiarum, non
+nostram cum Bucero et Luthero concordiam respicere velis.
+Quae ad te de Schwenckfeldio Myconius scribit<f1>Siehe oben Nr. 1257, 34-44.<fe>, quaeso, ut
+cures diligenter et incommodum ecclesię maximum ne
+negligas.
+^$Vale in domino. Amo vos omnes in domino vere. Dominus Iesus
+Christus nos innocenter et sancte conservet. Amen.
+<un>Grynęus tuus.
+<lz>Rodolphum<f1>Rudolf Gwalther.<fe> amo<fx>Rodolphum amo ^#/+am Rande nachgetragen.^#/-<fe>.
+<lz>[Adresse auf der Rückseite:] Domino Bullingero suo,
+fratri et amico charissimo. Tyguri.
+</content>
+</letter>

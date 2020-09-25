@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="952">
+<nr>952</nr>
+<correspondents>
+	<originator>Thomas Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>19. Februar 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 23 (neu: 35) (Siegelspur) </vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW I 841, Nr. 758</dr>
+<re>Bullinger wird in den nächsten Tagen Antwort auf seinen
+Brief [Nr. 941] erhalten. Blarer dankt für die Kommentare zu den
+Paulusbriefen. Grüße. Wird sich für Biblianders Gedicht
+erkenntlich zeigen.</re>
+<tx>S. Non sunt mihi posthabitae litterae tuae<f1>Oben
+Nr. 941.<fe>, humanissime Bullingere, et quod nunc non fit, his diebus nuncium
+accipies, qui satisfaciet expectationi tuę, quare ne
+sitis solliciti<fx>sitis solliciti ^#/+vom Schreiber korrigiert aus^#/- sis sollicitus.<fe>
+rogo<f1>Vgl. unten Nr. 961.<fe>.
+^$Commentarios tuos in epistolas Paulinas<f1>HBBibl I 84.
+<fe>
+gravissimum iucundissimumque accepimus
+<gr>sýmbolon</gr><fx><gr>sýmbolon</gr> ^#/+am Rande
+nachgetragen.^#/-<fe> amicicię tuę erga nostras
+familias itemque diligentię in rem publicam christianam.
+^$Saluta meis et Zvicciorum<f1>Johannes und Konrad Zwick.<fe> verbis pios et litteratos omnes,
+inprimis ipsum consulem Röschum<f1>Bürgermeister Diethelm
+Röist.<fe>.
+^$Theodori<fx>Theodori ^#/+vom Schreiber korrigiert aus^#/-
+Theodorum.<fe>
+[ve]rsiculos<fx>[ve]rsiculos^#/+ am Rande nachgetragen; im engen Einband teilweise
+verdeckt.^#/-<fe><f1>Theodor Biblianders umfangreiches Lobgedicht auf den zum Bürgermeister gewählten Thomas Blarer (32 vierzeilige Strophen) befindet sich in: Zürich ZB, Ms. Car I 93 (eigenhändige Kopie Biblianders).<fe>, si dabis, compensabo.
+^$Vale in Christo, venerande Bullingere.
+^$Constantię, 19. februarii 1537.<un>Thomas Blaurerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Henricho Bullingero,
+praeconi evangelicae veritatis apud Tiguros, domino et amico
+suo venerando. Zurch.
+</content>
+</letter>

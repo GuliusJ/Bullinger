@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2112">
+<nr>2112</nr>
+<correspondents>
+	<originator>[Bullinger]</originator>
+	<addressee fn=1>Sebastian Groß</addressee>
+	<note fn=1>Sebastian Groß, geb. 1498 in Basel (Eltern: Hans Groß und Anna Römer), gest. 14. Mai 1558 in Nürnberg. Aus wohlhabender, ratsfähiger Familie; seit 26. Oktober 1521 verheiratet mit Walburg Tormann von Basel, deren Schwester die Frau von Sebastian Schertlin von Burtenbach war. 1523/24 Schöffe am Stadt- und Landgericht Nürnberg. 1524 Mitglied des Großen Rats. 1525 Ratsherr, junger Bürgermeister, Feuerherr und Rugherr. 1526 Waldherr. 1529 Vormundherr. 1531 Pfleger der Reichsveste. Vom 1. Oktober bis 23. Dezember 1533 älterer Bürgermeister. 1557 Siegelbewahrer der Reichsveste. Bullingers Adresse zufolge (unten Z. 19) Burgvogt. Groß gab unter dem Namen "Augustinus Grandis" folgendes Werk heraus: Jesus Syrach in Teutsche verß gestellet, Frankfurt a. M., Christian Egenolff, 1558 (VD 16 B 4092). - Weitere Briefe zwischen Bullinger und Groß sind nicht bekannt. - Lit.: Georg Andreas ^#/+Will,^#/- Nürnbergisches Gelehrten-Lexicon, fortgesetzet von Christian Conrad Nopitsch, Teil 5 (Supplementband 1), Altdorf 1802, S. 424f; Sebastian Schertlin von Burtenbach und seine an die Stadt Augsburg geschriebenen Briefe, hg. v. Theodor Herberger, Augsburg 1852, S. XXXVI; Osiander GA III 315; Peter ^#/+Fleischmann,^#/- Rat und Patriziat in Nürnberg, Bd. 2: Ratsherren und Ratsgeschlechter, Neustadt a.d. Aisch [2008], S. 467f.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>16. März 1545</date>
+</space_time>
+<vo>Teilabschrift von Josias Simler<fx>^#/+Der Briefanfang fehlt. Die Überschrift (Z. 18f) stammt von Bullingers Hand.^#/-<fe>: Zürich StA, E II 346, 145v.</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 11 ^&x{
+<re>[Andreas] Osiander hat eine lateinische ["Apologia"] gegen die Zwinglianer gerichtet. Er wurde durch das "Speculum [Osiandri]" eines Unbekannten, mit dem [die Zürcher] nichts zu tun haben, dazu veranlasst. Hätten die Zürcher etwas gegen Osiander, würden sie es klar und deutlich vorbringen. Auch wenn sie der Lehre Zwinglis anhängen, so sind sie doch nicht zu verdammen. Osiander soll sie in Ruhe lassen. Bullinger bittet Groß, [die Nürnberger] zum Frieden und zur Einigkeit zu bewegen, zumal die Zürcher nichts gegen die Nürnberger unternehmen wollen.</re>
+<tx>Wyter<f1>Ferner. - Der erste Teil des Briefes galt wahrscheinlich der Sendung der Schrift "Warhaffte Bekanntnuß"; s. oben Nr. 2061, Anm. 9.<fe> hatt üwer predicant h. Osiander<f1>Andreas Osiander.<fe> ein gar schmaͤchlich buͤchlin latinisch
+ußgon laßen, darin er die zwinglischen gar übel schmaͤcht, etc.<f1>Osianders "Apologia ... contra libellum famosum scelerati cuiusdam et Zvingliani nebulonis", erschienen in der ersten Dezemberhälfte 1544 (s. Osiander GA VIII 284); s. oben Nr. 2065, Anm. 24. Osiander gab darin u.a. an, dass der Verfasser des "Speculums" ein "ehrendieb aus der zwinglischen secten" sei; s. Osiander GA VIII 159, 7f. - Zuvor hatte sich Osiander in seinen "Coniecturae" (s. HBBW XIV 349, Anm. 5) ebenfalls gegen Zwingli und Oekolampad geäußert.<fe>
+Den anlaß hatt er dahaͤr: Eß hatt neißwan<f1>irgendwann.<fe> einer ein gar schmaͤlich buͤchlin, Spiegel genant,
+wider gemelten her Osiander gschriben.<f1>Das "Speculum Osiandri", dessen anonymer Verfasser Georg Frölich war; s. HBBW XIV 350, Anm. 10; Druck in: Osiander GA VIII 305-318, Beilage zu Nr. 311.<fe> Soͤlichs hatt uns hie<f1>hier in.<fe> Zürich
+(die wir auch zwinglisch genant) nie gfallen; wir habends auch nitt gemachet,
+und so wir etwaß an h. Osyander zuͦ sprechen hettend, weltend wirs fry heiter<f1>fry heiter: klar und deutlich^&xs. Jacob Ruffs Etter Heini uss dem Schwizerland, sammt einem Vorspiel erläutert und hg. v. Hermann Marcus Kottinger, Quedlinburg/Leipzig 1847, S. 202 (zu 354)^&x{.<fe> under unserem namen thuͦn.
+Nun aber habend wir mitt dem Spiegel gar nütt zuͦ thuͦnd und wißend nitt, wohaͤr er kumpt.
+Dorumb er<f1>Osiander.<fe> billich<f1>auf angemessene Weise.<fe> bscheidner und umsichtiger gehandlet haͤtte. Ob wir schon der leer Zwyngly anhangend,
+darumb und darinn, daß er<f1>Zwingli.<fe> uß geschrifft gelert hatt, sind wir dorumb nitt ze verdammen und schenden.
+Wir sind christen und biderblüt<f1>rechtschaffene Leute.<fe>. Habend mitt h. Osiandren nütt dan liebs und guͦtz zeschaffen.
+Dorumb last er uns wol rüwig<f1>last ... rüwig: lasse er ... in Ruhe.<fe> und zücht sine hendel dermaß an<f1>zücht sine hendel dermaß an: bringe seine Streitigkeiten so zur Sprache.<fe>, daß uns biderbe lüt
+nitt für die haltend, die er so übel schilt.
+Soͤlichs schrib ich üch gar früntlicher meinung zuͦ, daß ir alwegen zuͦ den verhelfind bi den üwern,
+daß friden, guͦtz und einikeit bringt; dan wir hie Zürich nitt ger<f1>gern.<fe> weltind ützid<f1>etwas.<fe>
+handlen, daß üch ze Nürenberg zuͦwider were.
+<lz>[Adresse und Datum als Überschrift von Bullingers Hand:] An h. Sebastion Grossen, burgvogt zuͦ Nuͤrenberg. 16. martii 45.
+</content>
+</letter>

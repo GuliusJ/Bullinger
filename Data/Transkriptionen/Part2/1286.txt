@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1286">
+<nr>1286</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>5. Juli 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 57f (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Empfiehlt [Ambrosius] Blarer, der am [18.] Juni nach Augsburg aufbrach, seiner Fürbitte. Auf das Gutachten der
+Konstanzer zur Nürnberger Tagung, das Blarer vor seiner Abreise an Grynäus sandte, antwortete dieser ablehnend, weil er sich
+[vom geplanten Religionsgespräch] mehr verspricht als sie. Zwick übersendet Luthers Schrift ["Von den Konziliis und Kirchen"]
+sowie einige Thesen [Luthers über den Widerstand gegen den Kaiser?], deren Drucklegung in Zürich wünschenswert wäre. Bittet
+nochmals, ihm einen jungen Mann zu nennen, der als Hilfskraft in seine Dienste treten könnte.
+</re>
+<tx>Salus et pax Christi.
+^$28. iunii<fx>^#/+in der Vorlage ^#/-iuii.<fe> abiit Ambrosius Augustam<f1>Ambrosius Blarer reiste am 18.(!) Juni nach Augsburg ab (vgl. oben Nr. 1281, 72-74), wo er am 27. Juni eintraf (s. ^#/+Roth^#/- II 441). Der Augsburger Rat hatte ihn gebeten,
+an der Befriedung der zerstrittenen Kirche mitzuwirken; s. ^#/+Roth^#/- II 440-449.<fe> comite domino et
+angelis eius; hunc commendo orationibus tuis. Miserat autem, priusquam abiret, Grynęo scriptum nostrum, quod de conventu
+Norimbergensi senatui nostro obtulimus<f1>Zum Gutachten der Konstanzer Theologen über das geplante Religionsgespräch s. oben
+Nr. 1281, 49-51 mit Anm. 12, und Nr. 1282, 2-13.<fe>. Nunc optimus vir Grynęus scribit ad nos Blaureros et Zviccios bene
+longam epistolam<f1>Grynäus' Brief an die Gebrüder Blarer und Zwick ist nicht erhalten.<fe>, in qua confutat nostram
+sententiam, sed multa synceritate et charitate; meliora enim sperat, quam nos vaticinemur. Sed et nos optamus irritari nostra
+vaticinia, magis vero conventum ipsum irritari optamus.
+Iamque omnino nichil audimus et silent omnia, sed fiat, quod
+domino placuerit.
+^$Mitto hic tibi libellum Lutheri<f1>Gemeint ist Luthers Schrift "Von den Konziliis und Kirchen" (WA L 488-653);
+vgl. unten Nr. 1289, 1-5 sowie Vadian BW V 565.<fe> apertum et candidum, quem communicabis Pellicano, Leoni<f1>Leo Jud.<fe>,
+Theodoro<f1>Theodor Bibliander.<fe> et reliquis. Proinde conclusiones quasdam<f1>Wohl Luthers Thesen zur Frage des
+Widerstands gegen den Kaiser vom April 1539, die u. a. in Basel nachgedruckt wurden (WA XXXIX/II 34-51).<fe> mitto, sed eas
+omnino remittendas; non enim meae sunt. Utinam vero apud vos imprimerentur!
+^$Praeterea haud ita pridem scripsi ad te<f1>Ein entsprechendes Schreiben ist nicht erhalten.<fe>, ut me certiorem faceres, si
+quis apud vos iuvenis, qui mihi amanuensis loco esse posset quique nonnunquam hypodidascalum agere posset in scola. Neque vero mittendus est statim, <vl>58</vl> sed describendus.
+Ea in re Pellicani operam cumprimis desydero; nam ille meum
+quoque ingenium satis novit.
+^$Valete omnes in domino incolumes.
+^$Datum 5. iulii 1539.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf f. 58a v.:] Domino Hainricho Bullingero, fratri meo in domino charissimo.
+</content>
+</letter>

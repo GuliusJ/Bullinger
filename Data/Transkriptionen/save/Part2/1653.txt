@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1653">
+<nr>1653</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>22. August 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 28 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 174</vo>
+^&xZitat: de Porta,
+Hist. ref. Raet. I 256, Anm. f ("ad Kal. Sept.")^&x{
+<re>Hat schon längere Zeit nicht mehr geschrieben, da er es nicht wagte, Bullinger in seinen wichtigeren Studien zu stören; nun nötigt ihn aber seine Lage dazu, da er beschlossen hat, die Weissagungen des Propheten Daniel in seinen Predigten dem Volke zu erläutern; die Kommentare des Hieronymus,
+Johannes Oekolampads und Konrad Pellikans besitzt er bereits, wünscht aber darüber hinaus die Erklärungen Bullingers und Theodor [Biblianders] zu erwerben, falls solche in gedruckter Form vorliegen, oder aber auszuleihen, falls solche nur handschriftlich existieren sollten; er würde die Manuskripte
+mit äußerster Sorgfalt behandeln und unversehrt wieder zurücksenden.
+Der Eifer für die Sache des Evangeliums ist [in Graubünden] nur vorgespielt, da die französische Partei entgegen dem machtlosen Widerspruch der Pfarrer an Einfluss gewinnt; viele sind in [fremde] Kriegsdienste gezogen, und manche gedenken dies noch zu tun. Bitte um Weiterleitung des beigefügten
+Briefes an Johannes Pontisella. Aus Italien und der Lombardei gibt es nichts Neues zu berichten; Bitte um Nachrichten aus Deutschland. Grüße, auch von Johannes Blasius und Nikolaus [Pfister]; Grüße auch an [Konrad] Pellikan, Theodor [Bibliander], Kaspar [Megander] und [Johann Jakob] Ammann. Bedauern
+über den Tod von Leo [Jud].
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 47f, Nr. 35.]
+^&xGratiam et vitae innocentiam a domino.
+^$Diebus iam multis, ut mihi videor, ne ad te scriberem,
+abstinui, observandissime Bullingere. Quamvis literarum
+tuarum interim cupidissimus fuerim, meis tamen te melioribus
+studiis deditum tocies defatigare non audebam. Nunc vero
+necessitas urget, ut denuo scribam. Prophetae Danielis
+oracula ad populum nostrum declamare pro contione statui.
+Sunt mihi commentarii divi Iheronimi, domini Ioannis
+Oecolampadii et domini Cuͦnradi Pellicani. Desyderantur
+insuper Bullingeri nostri et Theodori, si quas habent,
+annotationes, aut si excusa typis pecunia comparari possint
+aut si scripta aliqua pro amititia accom[m]odari; ea optima
+diligentia conservabo atque illaesa reddere curabo.
+^$De rebus nostris scribere non libet; nam studium in
+evangelium, quod hucusque falso simulavimus, iam totum et ex
+animo ad scuta Francica convertimus, et nos, qui evangelium
+annuntiamus, ut aes sonans et cymbalum tinniens despicimur.
+Multi abierunt in militiam, multi denique abire cupiunt.
+Deus optimus tandem huic tragoediae catastrophen condignam
+retribuere velit, opto.
+^$Epistolas illas tuae annexas rogamus, si fieri possit, una
+cum vestris ad Ioannem Pontasellam per vos mitti; fortassis
+hoc vobis commodum erit ad futuras nundinas
+Franckfordienses.
+^$Ex Italia vel Insubria nihil penitus novarum rerum habemus,
+quae scitu digna sint. Si quae habes ex Germania, scribere
+ad nos velis paucis.
+^$Vale, vir optime.
+^$Ex Rhetiae Curia, undecimo kalendas septembris 1542.
+^$Salutem tuam optant Ioannes Blasius et Nicolaus. Salutem
+dicas plurimam Pellicano, Theodoro, Gasparo et Ammano
+fratribus.
+<un>Tuus Ioannes Comander.
+<lz>Leonem nostrum ad Christum migrasse audimus; dolemus
+quidem ecclesiae iacturam, sed felicitati illius
+congratulamur. Deus optimus maximus vos reliquos conservare
+nobis dignetur superstites in multos annos.
+<lz>[Adresse .....:] Pietate ac doctrina
+clarissimo viro Magistro Heinricho Bullingero, Tigurinae
+ecclesiae episcopo, domino ac fratri suo colendissimo.^&x{
+</content>
+</letter>

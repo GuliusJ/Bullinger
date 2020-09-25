@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1792">
+<nr>1792</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>1. Oktober 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 275 (Siegel)</vo>
+^&xK: Zürich ZB, Ms S 53, 141^&x{
+<dr>Ungedruckt</dr>
+<re>Hat ihm keine Nachrichten vorenthalten, sondern diese - in Abschrift von Leodegar [Hirsgarter] - dem Pfarrer von
+Wald [Martin Manhart] mitgegeben [Nr. 1785]; nur die Mitteilungen Bucers über den Kölner [Erzbischof Hermann von
+Wied] behielt er für sich, da Bucer durch [Christoph] Froschauer ausführlich direkt an Bullinger schreibt [Nr. 1789].
+Kaiser [Karl V.] stößt im Luxemburgischen gegen den Franzosen [Franz I.] vor, der neben anderen Städten auch Luxemburg eingenommen hat; der Verlust von Diedenhofen wäre für den
+Kaiser schwerwiegend; im [Kurfürstentum] Köln haben die durchziehenden Spanier und Italiener ihrem Hass auf die Lutheraner Ausdruck gegeben und das Land verwüstet, aber die
+Menschen geschont; das Mandat [gegen Hildesheim], das [Johannes] Gast übersendet, belegt die Gottlosigkeit des Kaisers, auch wenn ihn [Ludwig] von Reischach in Schutz nimmt.
+Theobald Nigri schreibt, der Türke [Sultan Suleiman I.] belagere Krakau; sollte dies zutreffen, wäre Sachsen in höchster Gefahr; laut einer Flugschrift sollen Italiener Gran verraten haben, und auch Stuhlweißenburg soll gefallen sein.
+</re>
+<tx>S. Non me recte accusas negligentię, mi Bullingere;
+nam eo die, quo post­­re­mas tuas<f1>Nicht erhalten.<fe> scripsisti, et ego meas<f1>Oben Nr. 1785.<fe> ferendas ad te
+commendavi (quamvis descriptas a Leodegario<f1>Leodegar Hirsgarter (vgl. ebd., Anm. a). Über ihn vermerkt Bullinger in seiner Stipendiatenliste: "Was ein geflißner, geschickter
+mensch, der vil und wol schreib" (Zürich ZB, Ms Car C 44, 922, Nr. 22).<fe> tuo) per parochum vici ditionis istius
+Wald.<f1>Pfarrer Martin Manhart aus Wald war zwecks Eheschließung nach Basel gereist, wie sich einem Brief Theodor
+Biblianders an Myconius entnehmen lässt; s. Zürich StA, E II 340, 60.^&x Die Formulierung könnte sich auch auf einen
+Kollegen aus einer anderen Gemeinde des Wetzikoner Kapitels beziehen; in Frage kommt insbesondere Johannes Stumpf (vgl.
+oben Nr. 1756, 9f).^&x{<fe> Si nihil<fx>nihil ^#/+am Rande nachgetragen.^#/-<fe> reddidit, requirito; nam omnia, quę novi certa, misi.
+Pręterea de Coloniensi<f1>Erzbischof Hermann von Wied.<fe> quędam significarat Bucerus,<f1>Bucer an Myconius, 26.
+September 1543 (Zürich ZB, Ms F 80, 175).<fe> quę continui, quia noram Bucerum ipsum scripsisse tibi per
+Froschouerum<f1>Bucer hatte im erwähnten Brief an Myconius angekündigt, durch Froschauer an Bullinger schreiben zu wollen;
+der Brief an Bullinger datiert vom 26. September (oben Nr. 1789).<fe> longe plura, quem nescio tamen, an redierit.
+^$Tribus agminibus proficiscitur cęsar<f1>Karl V.<fe> in Gallum<f1>König Franz I. von Frankreich.<fe>, qui pleraque oppida in d[itione]
+Lutzenburgensi cepit et incendit, nuper etiam Lutzenburgum ipsum.<f1>Die Hauptstadt des Herzogtums war am 12. September
+erobert worden. Zum Vormarsch der französischen Truppen und zum Beginn der Gegenoffensive des Kaisers s. ^#/+Henne^#/- VIII
+133-138.<fe> Superest Diedenhofen<f1>Thionville (Dép. Moselle).<fe>, quod oppidum si occuparit, in ea regione negocium
+erit cęsari. Hispanis et Italis<f1>Gemeint sind kaiserliche Soldaten.<fe> nihil pertinaciter malignius. Dum transierunt per
+ditionem Coloniensis, hic clamor fuit: "Maza, maza Luthe­ran[os?]<fx>^#/+In der Vorlage^#/- Lutherân.<fe>!"<f1>Etwa
+im Sinne von: "Tötet die Lutheraner", vgl. den italienischen Kriegsruf "Ammazza, ammazza!" (s. Salvatore ^#/+Battaglia,^#/- Grande dizionario della lingua italiana, Bd. 1, Turin 1961, S.
+403).^&xVocabolario della lingua italiana, hg. v. Aldo Duro, Istituto della Enciclopedia italiana, Bd. 1, Rom 1986, S.
+156^&x{<fe> Vastarunt omnia, pepercerunt hominibus tamen. Ex mandato, quod mittit Gastius,<f1>Nämlich das Mandat gegen
+Bürgermeister und Rat von Hildesheim, s. oben Nr. 1791, 13f mit Anm. 8.<fe> videbis impietatem cęsaris. Quamvis d[ominus] et amicus noster de Rischach<f1>Ludwig von Reischach.<fe> mirabiliter hunc tueatur.
+^$Scripserat insuper M. Theobaldus Nigri<f1>Ein entsprechender Brief liegt nicht vor.<fe> et Cracoviam obsessam a
+Turca<f1>Sultan Suleiman I.<fe>. Equidem spero meliora. Ea<fx>^#/+Vor^#/- Ea ^#/+ein gestrichener Buchstabe.^#/-<fe> re
+terribilius nihil; nam sine negocio foret illa occupata aditus in Saxoniam. Et circumfertur libellus de proditione Italorum
+quorundam contra Strigonium.<f1>Zur Flugschrift über die Eroberung von Gran s. oben Nr. 1788, 27f mit Anm. 32.<fe> Captum adserunt et Stuͦlwissenburg.<f1>Zur Einnahme von Stuhlweißenburg (Székesfehérvár, Ungarn) durch die Türken am 4. September s. Paulo Giovio, Historiae sui temporis II/2, Rom 1985. - Opera V, S. 145-154;^&x^#/+Buch­­oltz^#/- V 198f;^&x{ ^#/+Hammer-Purgstall^#/- III 259.<fe>
+Hęc sunt tempora praesentia. Dominus tueatur verbum suum.
+^$Vale.
+^$Basileę, kalendis octobris anno 1543.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo suo.
+</content>
+</letter>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1426">
+<nr>1426</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>15. Oktober 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 171 (Siegelspur)</vo>
+<vo>Kopien: Zürich ZB, Ms B 171, 32 (v. H. K. Füssli)</vo>
+<vo>Kopien: Zürich ZB, Ms S 48, 128.</vo>
+<dr>Ungedruckt</dr>
+<re>Da sich seine Augen erholt haben, beeilt er sich, in einer etwas heiklen Angelegenheit zu schreiben: Von den drei [Zürcher
+Studenten] ist nur Christoph [Rotacher] bei ihm geblieben, während [Konrad Suter und Christian Wirth] unter Angabe wenig
+stichhaltiger Gründe ausgezogen sind; er will ihnen aber keine Schwierigkeiten bereiten und verspricht sich viel von Christoph.
+Ist besorgt über Bullingers Schwindelanfälle und empfiehlt Schonung. Rundherum steht es übel, was Kaiser [Karl V.] und
+Deutschland, König [Ferdinand I.] und Ungarn, die Verfolgungen in Frankreich und England, [Herzog Heinrich von] Braunschweig,
+die Mordbrenner und die Sieben Orte betrifft. Die einzige "erfreuliche" Nachricht: Wolfgang Wissenburg soll zum Doktor promoviert werden.
+</re>
+<tx>S. Nunc tandem per gratiam dei restituti sunt oculi, ut
+paululum videam. Non potui ergo diutius continere calamum,
+praesertim de re, quam si differrem ulterius, nescio in quam
+partem quis accipere posset.
+^$Anni dimidio completo e tribus, quos ad nos misistis<f1>Konrad Suter, Christian Wirth und Christoph Rotacher; vgl. oben Nr.
+1377, 1-10 mit Anm. 1.<fe>, duo ad alium migrarunt hospitem<f1>Unbekannt.<fe>; Christophorus mansit. Causas
+narrarunt se in his aedibus esse non posse, primo, quod
+studere nequirent, secundo, quod mensa nimio constaret
+precio, libros enim emere non liceret, tertio, quod in
+publico nihil legeretur. Confutatis his, quia pro iustis
+causis habere non poteram, dimisi suaviter hac voce: "Apud
+Tigurinos equidem vestram causam non gravabo; verum si
+fraudem intellexero, non patiar." Christophorus adulescens
+est, quantum hactenus vidi, valde bonus, officiosus in
+primis, ob quam gratiam haud semel a reliquis scommatis
+petitus est. Nihil, quod sciam, negligit. Domi libris
+incumbit. Aedes non exit nisi petita libertate. Si hic
+manserit, equidem bene polliceri de ipso valeo. Dominus
+Grynaeus praestitisset omnem operam, si voluissent obsequi.
+Sed hac de re ipsemet aliquando. Verum de his satis.
+^$Ego certe valde doleo, ut par est, de tam diuturna
+vertigine<f1>Bullinger muß in einem nicht erhaltenen Brief über Schwindelanfälle geklagt haben; vgl. auch oben Nr. 1424,
+13-15.<fe>. Lectionem, scriptionem et altas easque crebras cogitationes in causa esse non dubito. Quid igitur, si
+hic temperes<fx>^#/+korrigiert aus^#/- temperares.<fe> tibi? Doctior fieri non potes, laudem maiorem
+quęrere non opus, nec poteris felicius sic praeesse
+tuę ecclesię. Huic itaque fac te per moderata studia,
+quoad licebit, servare studeas; nam hoc erit optimum ac
+utilissimum ecclesię et nobis omnibus.
+^$Reliqua sunt: Malis undique sumus circumdati. Concordiam
+caesar fingit per Germaniam<f1>Die Nachrichten dieses Briefabschnitts stammen teilweise aus Bedrots Schreiben
+an Myconius vom 30. September (Zürich ZB, Ms F 80, 40); etwas verständlicher heißt es dort: "Caesar [Karl V.] de concordia in
+imperio constituenda se mire solicitum fingit."<fe>. Rex tumultum excitat in Ungaria<f1>Myconius bezieht sich auf
+Bedrots Bericht über den Feldzug König Ferdinands, mit dem dieser nach dem Tod von Johannes I. Zápolya seine Ansprüche auf den ungarischen Thron durchzusetzen versuchte (vgl.
+^&x "In Ungaria novae et perniciosissimae turbae excitantur. Ferdinandus sibi regnum vindicare conatur Ioanne rege mortuo.
+Contra Ungari infantem Ioannis regem malunt quam Ferdinandum. Miserunt huic subsidia Nurenbergenses vexillum, tantundem,
+opinor, marchio Anspachensis, Bavari 2 vexilla cum 200 equitibus. Quid futurum sit, dominus novit; auspicia me terrent." ^&x{
+F. B. von ^#/+Bucholtz,^#/- Geschichte der Regierung Ferdinand des Ersten, Bd. V, Wien 1834, S. 140-144^&x ZB: IV G 513:ad^&x{).<fe>. Gallus
+persequutionem iterum permittit<f1>Zur verschärften Verfolgung der Protestanten durch König Franz I. vgl. Corr. des
+réformateurs VI 315, Anm. 8.<fe>. Anglus<f1>Heinrich VIII.<fe> sęvit, nam treis bonos viros superioribus mensibus
+indicta causa adiudicavit supplicio<f1>Robert Barnes, William Jerome und Thomas Garrett; s. oben Nr. 1420, 93f mit Anm. 56f.<fe>.
+Brunsvigensis Romae agens<f1>Das Gerücht, Herzog Heinrich von Braunschweig halte sich in Rom auf, war falsch.<fe> per suos
+graviter premit Brunsvigam<f1>Vgl. oben Nr. 1420, 76f mit Anm. 43.<fe>. Incendiarii pessime grassantur<f1>Vgl. oben
+Nr. 1413, 87-92, sowie PC III 106f.<fe>. Septempag[ici] bellum cogitant<f1>Vgl. oben Nr. 1425, 52-56 mit Anm. 16.<fe>. Conventus Wormaciensis dolose quęritur ab
+adversariis<f1>Bedrot beschreibt und kritisiert im erwähnten Brief ausführlich das für das Wormser Religionsgespräch vorgesehene Verfahren.<fe>. Hęc dum sunt, quis malum effugiet, nisi qui domini est? Simus itaque domini.
+^$Unum est tamen, quapropter gaudeo: Proxima septimana creabimus doctorem theologię M. Wolfgangum Wissenburgium<f1>Diese erste
+theologische Doktorpromotion seit der Reformation erfolgte am 28. Oktober (s. Amerbach, Korr. V 321, Anm. 3).
+Sie erfüllte die Gegner der akademischen
+Grade, darunter
+Myconius, mit großer Erbitterung; vgl. Das Tagebuch des Johannes Gast, bearb. v. Paul Burckhardt, Basel 1945, S. 64f.<fe>.
+Creator erit D. Andreas Carolstadius.
+^$Vale cum tuis et valetudinem tuam, obsecro, cura diligenter.
+^$Basileae, 15. octobris anno 40.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero
+doctissimo, in domino suo.
+</content>
+</letter>

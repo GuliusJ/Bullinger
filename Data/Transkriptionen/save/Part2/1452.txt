@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1452">
+<nr>1452</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>7. Januar 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 223 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 4</vo>
+<dr>Ungedruckt</dr>
+<re>Entschuldigt die verspätete Zustellung eines Briefs von Grynäus [Nr. 1441]. Kann über die Studenten aus Zürich nicht viel berichten; nur Christoph [Rotacher] ist noch bei ihm.
+</re>
+<tx>S. Grynęi literas<f1>HBBW X, Nr. 1441.<fe> misissem pridie, si occurrisset tabellio; nam ante dies octo venerunt ad
+nos. Quamobrem aequi consulito, quod eas tam longe post datum accipis; nemo minus est in culpa quam ego.
+^$De vestris, quos ad nos misistis studiorum gratia, nescio,
+quid scribendum. Postquam duo a me discesserunt,<f1>Konrad Suter und Christian Wirth hatten nur kurze Zeit bei Myconius gewohnt;
+vgl. HBBW X, S. 174, 4-16.<fe> Chuͦnhartum non multo post amisimus, Christianum his diebus, nisi sit in patria,
+quod ex Rhellicano<f1>Rhellikan war mit der Familie Wirth verschwägert; vgl. HBBW VII, S. 220, 17f.<fe> facile
+intelliges. Christophorus<f1>Christoph Rotacher.<fe> adhuc perdurat apud me, iuvenis, quantum novi, non malus. Hęc ideo,
+ne quid in nobis, quibus eos commendastis, desiderari possit.
+^$Vale semper in domino cum tuis et fratribus.
+^$Basileę, 7. ianuarii anno 1541.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, in domino suo. Zü[ric]h<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>.
+^&x Christian: Hier (und wohl an vielen folgenden Stellen) Hospinian, nicht Hochholzer (zu diesem vgl. 15. Sept. 1541). ^&x{
+</content>
+</letter>

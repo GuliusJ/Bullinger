@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1633">
+<nr>1633</nr>
+<correspondents>
+	<originator>Johannes Blasius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>24. Mai 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 261 (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 109<fn>erw.: Schieß, Rhetia von F. Niger, 49</fn></vo>
+<re>Sie haben Bullingers Brief an [Nikolaus Pfister, gen.] Baling auch gesehen, in dem Bullinger sich anerbietet, gegen die gefühl- und gottlose Scheußlichkeit dieses Menschen [Simon Lemnius] zu schreiben, die jener kürzlich veröffentlichte; mit Bullingers gewichtiger Stimme wird es ihm hoffentlich
+gelingen, diesen schändlichen Menschen von der [Churer] Schule zu entfernen, Nikolaus [Pfister] aber zu halten; sonst steht die Existenz der Schule auf dem Spiel, da einige Gemeinden versuchen, die Kirchengüter unter sich aufzuteilen; mit Bullingers Hilfe wurde die Reformation [in Graubünden]
+durchgeführt, mit seiner Hilfe wollen sie sie auch bewahren. Gruß.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 45f, Nr. 34; Lothar ^#/+Mundt,^#/- Von Wittenberg nach Chur. Zu Leben und Werk des Simon Lemnius in den Jahren ab 1539, in: Daphnis 17, 1988, S. 190f, Nr. 4 (mit Übersetzung).]
+^&xIoannes Blasius charissimo Heinricho Bullingero gratiam
+et pacem vitaeque longevitatem precatur a domino etc.
+^$Literas tuas, doctissime ac humanissime vir, quas ad
+Balingium nostrum:::1{ misisti:::2{, vidimus et nos, quibus
+te ultro contra inhumanam nephariamque istam hominis:::3{
+foeditatem, quam praelo nuper publicari[!] ausus homo
+vanissimus:::4{, affers[!] scripturum. Facies certo rem
+reipublicae nostrae maxime necessarium, nobis omnino
+gratissimam, cum mihi inprimis, cui hactenus schole nostre
+cura imposita est, optatam, qui et tua, que apud nostros
+multum ponderis habet, authoritate aliorumque piorum et
+opera et auxilio impurum istum eliographum+x{ e collegio
+nostro eiicere, Nicolaum:::5{ vero nostrum retinere meditor;
+sin minus, factum esse vereor cum ludo nostro litterario,
+quandoquidem nonnullae foederis nostri ecclesie bona illa
+ecclesiastica inter sese dividere conantur. Fac igitur,
+observandissime frater, ut soles omnibus Christi ecclesiis
+succur[r]rere Zwinglium, imo apostolum Paulum imitando:
+"Quis infirmatur et ego non infirmor?" [2Kor 11, 29] etc.
+Partim enim tuo auxilio hanc reformacionem a primatibus
+nostris impetravimus, eodem quoque, si domino visum fuerit,
+conservabimus. His vale. Nolui te piissimis laboribus
+occupatum pluribus obtundere; negocium enim nostrum, ut es
+singulari prudencia praeditus, intelligis iam
+insipienciamque boni consulito et iterum vale per dominum,
+qui te ecclesiis suis diu incolumem conservare dignetur.
+Amen.
+^$Curie, 24. maii anno 1542.
+<un>Apud divam Regulam ecclesiastes, tuus ex animo frater.
+<lz>[Adresse .......:] Piissimo ac
+clarissimo viro Heinricho Bullingero, ecclesiae Tigurinae
+episcopo dignissimo.
++x^$^#/+Wohl verschrieben für ^#/-elegiographum.
++1^$Nikolaus Pfister (Baling).
++2^$Nicht erhalten, vgl. aber oben Nr. 000 [Pfister, vor
+30. April].
++3^$Gemeint ist Simon Lemnius.
++4^$S. Lemnii poetae Amorum libri 4, vgl. Graubünden,
+Korr. I 45. 46.
++5^$Nikolaus Pfister (Baling).^&x{
+</content>
+</letter>

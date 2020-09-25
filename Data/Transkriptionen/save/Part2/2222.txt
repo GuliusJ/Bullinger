@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2222">
+<nr>2222</nr>
+<correspondents>
+	<originator>Hermann Aquilomontanus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Emden</place>
+	<date>24. August [1545]</date>
+	<note>Das Jahr ergibt sich zweifelsfrei aus den inhaltlichen Parallelen zum Brief a Lascos vom 25. August 1545 (unten Nr. 2223).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1395 (Siegelspur)</vo>
+<dr>Übersetzung: ^#/+Krömer,^#/- Aquilomontanus 63-65</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 212; K+Ü 20. Jh.: Emden BGK, Hs. fol 37, Nr. 8; Lit.: J[acobus] ten ^#/+Doornkaat Koolman,^#/- De Anabaptisten in Oostfriesland ten tijde van Hermannus Aquilomontanus (1489-1548), in: Nederlands Archief voor Kerkgeschiedenis, NS 46, 1964/65, 98 (FKq III:32); undat. Brief 35.^&x{
+<re>Gerhard thom Camph ist zurückgekehrt, [und zwar] zur Freude aller, sieht man doch in ihm einen künftigen, treuen Diener der [Emdener] Kirche. Er überbrachte Grüße. [Bullingers] Brief [nicht erhalten] konnte er jedoch Aquilomontanus nicht übergeben, weil sein Gepäck noch nicht angekommen ist. Da nun aber Samuel Pellikan nach Hause reisen wird, schreibt Aquilomontanus trotzdem.
+-^#. Aquilomontanus vertraute a Lasco einen Brief für Bullinger [Nr. 2145] an. Hoffentlich hat Bullinger diesen durch Gerhard Westerburg erhalten. In diesem Schreiben hatte Aquilomontanus die [Zürcher] zur Mäßigung ermahnt; die ["Orthodoxa Tigurinae ecclesiae confessio" bzw. das "Warhaffte Bekanntnuß"] erschien aber, ehe der Brief ankam. Aquilomontanus ist von dem Buch, vor allem von der Auslegung der zwölf Artikel [des "Apostolischen Glaubensbekenntnisses"], so angetan, dass er es seine [drei] Söhne bei Tisch in Übersetzung [vor]lesen lässt.
+-^#. Angeblich bereitet Luther eine Antwort gegen die [Zürcher] vor. Diese sollen stets auf die schon von Zwingli betonte Fehlbarkeit der Menschen bedacht sein, denn gerade ihre Zurückhaltung verhalf ihrer Antwort zu viel Erfolg. So würde etwa Aquilomontanus' Gönner [Hero von Oldersum] sein durch Gerhard [thom Camph] übersandtes Exemplar nicht einmal für viel Geld hergeben.
+-^#. Aquilomontanus hegt gute Hoffnung hinsichtlich der Täufer. Er erlangt ihre Freundschaft, indem er sie besucht, und nach und nach kommen sie zur Predigt. Solche Besuche möchte er weiterhin durchführen, da sie wichtiger als Predigten sind.
+-^#. Mehr nach der Lektüre von Bullingers Brief.
+-^#. [Beiliegend] ein Brief von Aquilomontanus an Bullingers Kollegen.</re>
+<tx>Hermannus Aquilomontanusd. Henrico Bullingero, praeceptori suo, s[alutem] d[icit].
+^$Gerardus thom Camp, magne spei iuvenis, gratulantibus omnibus ad nos rediit.<f1>Gerhard thom Camph war am 17. Juni 1545 aus Zürich abgereist; s. oben Nr. 2180, Anm. 1.<fe>
+Speramus enim ecclesie domini fidum ministrum.<f1>Zu Gerhard thom Camphs späterem Wirken in Emden s. HBBW XIV 442f, Anm. 1.<fe> Is nobis vestro omnium nomine p[lurimam] s[alutem] dixit,
+sed quia literas illi commissas<f1>Nicht erhalten.<fe> ob sarcinulas nondum advectas minime accepi, cogor tibi scribere, que occurrunt,
+praesertim cum Samuel Pellicanus (studiosus et pius iuvenis, si stimulos optime nature addiderit)<fx>^#/+Klammern ergänzt.^#/-<fe> hinc solvat ad sua.<f1>hinc solvat ad sua: von hier aus nach Hause abreist. - Zu Samuel Pellikans Heimreise s. unten Nr. 2223, Anm. 5.<fe>
+^$Scripsi per reverendumd. a Lasco,<f1>Aquilomontanus bezieht sich hier auf seinen Brief vom 25. April 1545 (Nr. 2145), den er laut seiner Angabe Johannes a Lasco mitgab (s. oben Nr. 2176, Anm. 5), der aber den Zürchern am 22. Juli (s. Nr. 2196, Anm. 4) von Gerhard Westerburg (s. unten Z. 10f) überbracht wurde, weil a Lasco sein Vorhaben, nach Straßburg und Zürich zu reisen, aufgeben musste (s. oben Nr. 2176, 8-12). A Lasco wird Westerburg im Bistum Köln angetroffen und diesem Aquilomontanus' Brief anvertraut haben. Vor diesem Treffen hatte er einen heute vermissten Brief für thom Camph abgeschickt, dem das Schreiben an die Zürcher vom 9. Juni (Nr. 2176) beigelegt war. Die Sendung fand thom Camph in Basel vor (s. Nr. 2196, 69). Westerburg traf seinerseits thom Camph in Straßburg an. Daraufhin verfasste thom Camph seinen Brief vom 12. Juli an die Zürcher (Nr. 2196), dem er Cassanders (Nr. 2194) und a Lascos Brief (Nr. 2176) beilegte und Westerburg mitgab; s. oben Nr. 2196, 68f und Anm. 14f. 26.<fe> episcopum Phrisie Orientis,<f1>A Lasco war seit 1543 Superintendent der ostfriesischen Kirche.<fe> cuius aliquam feturam vidisti;<f1>Die "Epitome" a Lascos; s. dazu oben Nr. 2120, 20f.<fe> maiora, spero, videbis.
+Spero te accepisse<f1>Gemeint sind: literas meas.<fe> perd. Coloniensem Gerardum a Westenberch.
+In iis vos monui, ut modestiam in conatibus vestris servaretis;<f1>Vgl. oben Nr. 2145, 9-19.<fe> sed exierunt libelli, antequam monita nostra acciperes.<f1>Die Antwort der Zürcher auf Luthers "Kurtz bekentnis" (s. oben Nr. 2061, Anm. 7) war bereits kurz vor dem 12. März 1545 auf Deutsch und auf Lateinisch erschienen (s. oben Nr. 2061, Anm. 9). Offen bleibt, ob Aquilomontanus die deutsche oder die lateinische Fassung davon erhalten hatte.<fe>
+Sed gratie deo, qui vos modestiores reddiderit!
+Legi et relegi, nec satis confessionem vestram legere possum, quam filiis meis<f1>Aquilomontanus hatte drei Söhne. Ihre Namen sind nicht bekannt; s. HBBW XIV 337, 67f und Anm. 22.<fe> in nostratem linguam versam
+sepissime in mensa legendam tradidi, presertim 12 articulorum expositionem.<f1>Gemeint ist die Auslegung des "Apostolischen Glaubensbekenntnisses" (in der deutschen Ausgabe auf f. 44r.-53r.).<fe> Quam legendo exilii<f1>exilii = exsilui.<fe>!
+Insuper deo gratias egi de illustratione veritatis ecclesiae facte.
+Ceterum per Christum moneo, ut modestiam in omnibus hucusque servatam retineatis.
+^$Accepid. Lutherum vobis responsionem parare.<f1>Siehe dazu oben Nr. 2166, 2f; 2216, 17-19.<fe> Itaque memores volo et vos homines esse et labi posse,
+et hominorum proprium teste Zwinglio errare,<f1>Siehe etwa Z V 751, 2f; VI/III 131, 4f.<fe> nec in doctis alia dona ob hunc errorem abiitiatis<f1>abiitiatis = abiiciatis.<fe> ac contemnatis.
+Quis enim hominum absque labe? Modestia vestra plures allexit et libri passim a piis desiderantur; nondum copia advecta, itaque plures uno libello utuntur.
+Mecenas<f1>Mäzen. - Hero von Oldersum; s. HBBW IX 190, 42 und Anm. 15; HBBW XII 52, 11. 22 und Anm. 11; ^#/+Krömer,^#/- Aquilomontanus 33-35.<fe> meus ita raptus est vestra confessione per Gerardum missa,<f1>Von Zürich aus, wo thom Camph studierte.<fe> ut libellum multis aureis nollet (si aliud exemplar ad manum non fuerit) commutatum.
+Gaudent omnes pii, cum quid e Tiguro offeratur.
+^$Aliquam spem de anabaptistis in pago nostro<f1>Borssum (heute Stadtteil von Emden, Ostfriesland); nach ^#/+Krömer,^#/- Aquilomontanus 34, vermutlich Klein-Borssum.<fe> concepi, postquam humanitate quadam in eorum amicitiam me insumo
+et ea occasione Christum offero. Redduntur mitiores et contiones sensim audiunt.
+Insuper institui reliquum vite offitio dare, et hodie istam, cras illam domum invisere et e re oblata occasionem colloquii sumere, ut sic quid seminis relinquatur.
+Hoc modo plus commodi quam publicis contionibus facturum me spero.
+Doleo, charissime, tantum temporis me<fx>me ^#/+über der Zeile nachgetragen.^#/-<fe> dormivisse in offitio pastorali, cum sentiam pro ovibus commissis Iesum Christum
+dominum, meum servatorem, sanguinem suum effudisse et mortem oppetiisse amaram.
+^$Plura, cum literas tuas legero.
+^$Vale, charissime amicorum.
+^$Emde, Bartholomei feriis<f1>24. August.<fe>.
+^$Scripsi<f1>Nicht erhalten.<fe> simmistis tuis, viris spiritualibus. Precor, boni id consulant; quod quidem facient, si tua interpretatione mihi apud eos adfueris.
+<un>Tuus, quem nosti.
+<lz>[Adresse auf der Rückseite:] Optimo virod. Henrico Bullingero, Tigurine eccles[iae]<fx>^#/+Im engen Einband verdeckt.^#/-<fe> pastori vigilantissimo, suo in Christo fratri.
+</content>
+</letter>

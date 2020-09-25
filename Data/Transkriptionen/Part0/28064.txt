@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="28064">
+<nr>28064</nr>
+<correspondents>
+	<originator>Ludwig Lavater</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Baden</place>
+	<date>[vor 22. April 1558?]</date>
+</space_time>
+<vo>Zürich StA, E II 340, 371.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S. D. P. Volui paucis tibi significare me salvum et incolumem Badenam venisse.
+Hospes meus affinis omnem suam mihi operam promisit et hactenus benevolentia magna me prosequutus est.
+Sed tamen de rebus omnibus paucis ad meam Margaretham scripsi, nec enim tibi nugis hisce volo molestus esse.
+Familiam meam tibi commendo.
+Vale Badenae die Mercurii.
+                                    Tuus filius Lavaterus.
+Clarissimo virod. Henrico Bullingero, patri suo colendissimo.
+^$Tiguri.
+Datum: Kurz vor 22. April 1558.
+            Möglicherweise kurz vor L. an HB 29. April (1558).
+</content>
+</letter>

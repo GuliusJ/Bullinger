@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2375">
+<brief>
+<id>16065</id>
+<nr>2375</nr>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>[Zürich], 10. März 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 147 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 125 </k></dr>
+<re>Bullinger erhielt zwei Briefe von Myconius, auf die er kurz eingehen will.
+<t/>Über das Zerwürfnis zwischen Kaiser [Karl V.] und dem französischen [König Franz I.] gibt es nichts Neues zu melden. Sicher ist aber, dass [Karl V.] das Evangelium ausrotten und Deutschland unterjochen will. Daher ist ein Krieg gegen [Franz I.] unwahrscheinlich.
+<t/>Bullinger freut sich zu hören, dass das [Zweite] Regensburger [Religions]gespräch unterbrochen wurde, zumal dieses ohnehin nichts bringen würde.
+<t/>Über Ungarn hat Bullinger Ähnliches aus Konstanz erfahren. Der türkische [Beylerbeg von Buda, Mehmed Yahya Pascha], hat recht, wenn er meint, dass die Bilderverehrung Grund für die Gefangenschaft der [Christenheit] sei.
+<t/>Den für Konstanz bestimmten [Brief] hat Bullinger weitergeleitet, so wie auch Myconius' Brief an Vadian.
+<t/>[Ludwig] von Reischach hatte über Verhandlungen zwischen [Franz I.] und [Karl V.] in Cambrai berichtet. Vielleicht kann Myconius mehr darüber schreiben.
+<t/>Bullinger dankt für die von Myconius übermittelten Beschlüsse des Konzils von Trient. Er hat ein ähnliches [Dokument] aus Konstanz erhalten.
+<t/>Er hat [Rudolf] Gwalther noch nicht angetroffen, denn er kam am Vorabend erst spät vom Lande zurück. Den Brief von Myconius hatte Gwalther ihm aber bereits durch einen Jungen [...] überbringen lassen. [Theodor] Bibliander ist Myconius gegenüber wohlgesinnt.
+<t/>Hier einige Briefauszüge.
+<t/>Aus Augsburg:
+<t/>Haller [schreibt], er sei [am 28. Februar] in Augsburg freundlich empfangen worden. Aus Nürnberg wurde brieflich gemeldet, dass Luther am 17. [richtig: 18.] Februar gestorben sei. Doch ist dies nicht recht glaubhaft, weil eine Meldung [aus so großer Entfernung] nicht so schnell nach Augsburg gelangen kann.
+<t/>Frölich [meldet], [Karl V.] benehme sich in den Niederlanden dermaßen, dass die Klugen ihm nicht [mehr] trauen. Er habe Krieg im Sinn und werde nach Regensburg kommen.
+<t/>Aus Konstanz:
+<t/>Blarer [teilt mit], Luther soll gestorben sein. Verbürgt ist durch aus Leipzig zurückkehrende Buchhändler, dass Luther nichts gegen die [Zürcher] geschrieben hat. Das [Zweite] Regensburger [Religions]gespräch wurde unterbrochen, und die Kolloquenten sind nach Trient [an das Konzil] berufen worden. [Landgraf Philipp] von Hessen schreibt von Kriegsplänen [Karls V.] gegen die [Protestanten]. Angeblich wird in der Diözese Bremen ein Heer gegen den Landgrafen ausgehoben. Herzog Ernst von [Braunschweig]-Lüneburg ist tot. Nach dem Landgrafen war er die zweite große Hoffnung der [Schmalkaldischen] Verbündeten. [Nicolas Perrenot, Herr von] Granvelle, hat dem Landgrafen geschrieben, [Karl V.] plane nichts gegen den [Schmalkaldischen] Bund, was Verdacht erregt.
+<t/>Aus St. Gallen:
+<t/>Vadian [schreibt], [Karl V.], der sich zum Reichstag nach Regensburg begeben will, hätte seinen Fourier [...] in Nürnberg gehabt und lasse auf Mitte März [in Nürnberg] Quartier nehmen. Er will den [Schmalkaldischen] Bund, dessen Verbündete sich am 1. April in Worms treffen sollen, auflösen; und sollte ihm dies nicht gelingen, wird er Deutschland mit Spaniern, Sizilianern und Italienern überfallen. Er soll auch alle Fürsten und Stände brieflich zur Teilnahme am Regensburger Reichstag aufgefordert haben. Damit die [protestantischen] Städte Süddeutschlands dem Norden nicht zu Hilfe kommen können, plant er angeblich, zugleich den Norden und den Süden Deutschlands anzugreifen.
+<t/>Myconius soll nicht jedem dieses Schreiben zeigen.
+<t/>Er soll Bullingers eilige Handschrift entschuldigen.</re>
+<text>
+<p>Gratiam et vitae innocentiam a domino. Binas a te, vir colendissime, literas accipio.
+<fn>Myconius' Briefe vom 22. Februar (<qv>nr2363</qv>) und 6. März (<qv>nr2371</qv>).</fn> In prioribus paucula sunt, ad quae responderi oporteat, ita et in posterioribus.</p>
+<p>De dissidio caesaris
+<fn>Karl V.</fn> et Galli
+<fn>Franz I.</fn> novo nihil tibi dixero certi.
+<fn>Vgl. <qv>nr2363</qv>,<qv>zl2363-4</qv>.</fn> <zzl>zl2375-16A</zzl>Ego persuasus sum caesarem in hoc esse totum, ut exciso evangelio Germaniam mittat sub iugum; <zzl>zl2375-21A</zzl>ergo vix mihi verisimile fit caesarem Hispanico, id est subdolo ingenio praeditum<zzl>zl2375-21E</zzl> inveteratum illud in Gallum (de quo nihil dubito) odium ullo bello renovaturum.<zzl>zl2375-16E</zzl></p>
+<p>Ratisbonense colloquium
+<fn>Das Zweite Regensburger Religionsgespräch.</fn> audio suspensum ac gaudeo.
+<fn>Vgl. <qv>nr2336</qv>; <qv>nr2351</qv>,<qv>zl2351-8</qv>; und <qv>nr2371</qv>, <qv>fn2371-3</qv>.</fn> Certum enim est nullum inde fructum esse expectandum idque non dubias ob caussas.</p>
+<p><zzl>zl2375-2A</zzl><zzl>zl2375-6A</zzl>Quae de Ungaris iconoclastis scribebas,
+<fn>Vgl. <qv>nr2363</qv>,<qv>zl2363-2</qv>.</fn> interea accepi et a Constantia;
+<fn>Siehe <qv>nr2366</qv>, <qv>fn2366-3</qv>.</fn> ac congruit narratio.<zzl>zl2375-6E</zzl> Verissime autem Turcus
+<fn>Der Beylerbeg von Buda (Ofen), Mehmed Yahya Pascha; s. <qv>nr2363</qv>, <qv>fn2363-1</qv>.</fn> iudicat idololatriam non postremam esse caussam tot cladium, tot calamitatum adeoque et servitutis nostrae turpissimae; et rectissime tu iudicas, qui putas dominum rebellibus per huiusmodi apostolos praedicare veritatem<zzl>zl2375-2E</zzl>.
+<fn>Vgl. <qv>nr2363</qv>,<qv>zl2363-10</qv>.</fn></p>
+<p><zzl>zl2375-1A</zzl>Quas dedisti, ut mitterem Constantiam, misi<zzl>zl2375-1E</zzl>.
+<fn>Vgl. <qv>nr2363</qv>,<qv>zl2363-5</qv>.</fn> Ita et hodie postremas tuas d. Vadiano inscriptas
+<fn>Myconius' Brief an Vadian vom 6. März 1546 (<a>Vadian BW</a> VI 511f, Nr. 1451).</fn> misi.</p>
+<p><zzl>zl2375-11A</zzl>Si interea accepisti, quid inter legatos Galli et Hispani actum sit Cameraci
+<fn>In Cambrai (Dép. Nord, Frankreich) hatte eine Verhandlung zwischen Gesandten von Karl V. und Franz I. stattgefunden; s. <qv>nr2363</qv>, <qv>fn2363-7</qv>. Sie wurde aber ergebnislos abgebrochen, wie Edward Carne am 24. März 1545 an William Paget berichtete; s. <a>LP</a> XXI/1, Nr. 454.</fn>, ubi conventuros indicavit d. a Ryschach
+<fn>Ludwig von Reischach.</fn>, fac, sciam.<zzl>zl2375-11E</zzl>
+<fn>Vgl. <qv>nr2363</qv>,<qv>zl2363-1</qv>.</fn></p>
+<p><zzl>zl2375-3A</zzl>Articulos, quales tu ex Tridentino consilio
+<fn>Zur Schreibung "consilio" für das Konzil s. <qv>nr2360</qv>, <qv>fn2360-2</qv>.</fn> annotasti,
+<fn>Vgl. <qv>nr2371</qv>,<qv>zl2371-3</qv>.</fn> similiter a Constantia accepi,<zzl>zl2375-3E</zzl>
+<fn>Mit Brief <qv>nr2366</qv>; s. ebd., <qv>fn2366-3</qv>.</fn> attamen magnas tibi ago gratias pro laboribus et fide.</p>
+<p><zzl>zl2375-18A</zzl>Gvaltherum nondum conveni, nam heri ad vesperam sero domum redii ex agro in urbem. Tuas domi reperi, quas ille
+<fn>Gwalther, der gerade von Basel zurückgekommen war; s. <qv>nr2368</qv>,<qv>zl2368-4</qv>; <qv>nr2371</qv>,<qv>zl2371-1</qv>.</fn> per puerum
+<fn>Unbekannt.</fn> miserat.<zzl>zl2375-18E</zzl> Mane has scribo. Non aliud intelligo, quam quod optime tibi velit d. Bibliander.
+<fn>Bullinger reagiert damit auf Myconius' Äußerung in <qv>nr2371</qv>,<qv>zl2371-2</qv>.</fn></p>
+<p><zzl>zl2375-9A</zzl>Iam, quod amici communicarunt, et tibi communico, et paucis indico.
+<fn>Nachfolgend gibt Bullinger z.T. aus dem Gedächtnis zitierte Nachrichten weiter, die nicht immer von den jeweils genannten Absendern stammen und vielleicht auch aus nicht erhaltenen Beilagen der hier erwähnten Briefe entnommen wurden.</fn></p>
+<lz/>
+<p>Ex Augusta.</p>
+<p>Hallerus:
+<fn>Es folgen (nicht wörtliche) Zitate aus Hallers Brief vom 1. März (<qv>nr2364</qv>).</fn> Amicissime exceptus sum Augustae ultima februarii.
+<fn>Vgl. <qv>nr2364</qv>,<qv>zl2364-6</qv>.</fn> <zzl>zl2375-5A</zzl>Literae postridie e Neroberga
+<fn>Nürnberg.</fn> mittebantur, quae indicabant 17. februarii d. Lutherum e vivis excessisse.
+<fn>Vgl. <qv>nr2364</qv>,<qv>zl2364-5</qv>. - Auch Georg Frölich meldete dies; s. <qv>nr2367</qv>,<qv>zl2367-7</qv>.</fn> - <zzl>zl2375-15A</zzl>Caeterum nulla fides adhibita est literis illis, neque ego illis credendum arbitror, cum in tam brevi tempore Augustam perferri non potuerit.<zzl>zl2375-15E</zzl><zzl>zl2375-5E</zzl></p>
+<p>Laetus:
+<fn>Es folgen Angaben aus verschiedenen Briefen, jedoch nicht aus einem Brief von Frölich.</fn> <zzl>zl2375-17A</zzl>Caesar ita se gerit in Inferiore Germania,
+<fn>Aus Matthias Erbs Brief vom 24. Januar; <qv>nr2333</qv>,<qv>zl2333-8</qv>.</fn> ut optimi et sapientissimi quique nihil ipsi fidant. Bellum meditatur,
+<fn>Aus Ambrosius Blarers Brief vom 6. März; <qv>nr2370</qv>,<qv>zl2370-9</qv>.</fn> etc. Veniet Ratisbonam,
+<fn>Aus Gasts Brief vom 7. März; <qv>nr2372</qv>,<qv>zl2372-2</qv>.</fn> etc.<zzl>zl2375-17E</zzl></p>
+<lz/>
+<p>Ex Constantia.</p>
+<p>Blaurerus:
+<fn>Es folgen Nachrichten aus Hallers Brief vom 1. März (<qv>nr2364</qv>), aus Blarers Brief vom 6. März (<qv>nr2370</qv>) und aus Frölichs Brief vom 12. Februar (<qv>nr2351</qv>), vielleicht aber auch aus den Beilagen von Blarers Brief vom 2. März (s. <qv>nr2366</qv>,<qv>zl2366-6</qv>).</fn> "Fama est Lutherum esse mortuum,
+<fn>Vgl. <qv>nr2370</qv>,<qv>zl2370-11</qv>.</fn> verane an falsa sit, ignoro. <zzl>zl2375-4A</zzl>Certum est illum nihildum contra vos scripsisse. Redierunt enim bibliopolae ex Lypsia.
+<fn>Vgl. <qv>nr2364</qv>,<qv>zl2364-8</qv>.</fn><zzl>zl2375-4E</zzl> <zzl>zl2375-10A</zzl>Colloquium Ratisbonae sublatum est citatis colloquutoribus Tridentum.
+<fn>Vgl. <qv>nr2370</qv>,<qv>zl2370-1</qv>.</fn><zzl>zl2375-10E</zzl> "Hessus
+<fn>Philipp von Hessen.</fn> scribit nostris de novis bellis, quae caesar et alii serio et ab integro nunc meditentur."
+<fn>Wörtlich entnommen aus <qv>nr2370</qv>,<qv>zl2370-9</qv>.</fn> <zzl>zl2375-19A</zzl>Fama est in diocesi Bremensi colligi exercitum contra lantgravium.<zzl>zl2375-19E</zzl>
+<fn>Vgl. <qv>nr2364</qv>,<qv>zl2364-7</qv>.</fn> Princeps Ernestus Luneburgensis
+<fn>Ernst der Bekenner, Herzog von Braunschweig-Lüneburg-Celle.</fn> certo mortuus est. Lugent illum omnes boni. Inter homines enim foederis altera post lantgravium spes fuit.
+<fn>Vgl. <qv>nr2351</qv>,<qv>zl2351-7</qv>. Zum Sterbedatum des Herzogs siehe ebd., <qv>fn2351-6</qv>.</fn> Granvella
+<fn>Nicolas Perrenot, Herr von Granvelle.</fn> datis ad Hessum literis excusat caesarem, quod nihil moliatur contra foedus; sed auxit suspicionem,
+<fn>Vgl. <qv>nr2370</qv>,<qv>zl2370-10</qv>.</fn> etc.</p>
+<lz/>
+<p>Ex Sangallo.</p>
+<p><zzl>zl2375-12A</zzl>D. Vadianus:
+<fn>Aus einem nicht erhaltenen Brief. - Angesichts der Art und Weise, wie Bullinger aus dem Gedächtnis zitiert, darf hier keine wörtliche Übernahme vermutet werden.<zfn>fn2375-1</zfn></fn> <zzl>zl2375-8A</zzl>Der keysser hat ultima februarii sin furier
+<fn>Der Quartiermeister, der für die Gäste oder bei einer fürstlichen Reise für die Unterkunft sorgt. - Um wen es sich handelt, wurde nicht ermittelt.</fn> z{uo} Neroberg gehept und lassen uff mitten mertzen herberg
+<fn>in Nürnberg. - In Regensburg trafen der Beamte und seine Begleiter am 24. Februar ein; s <a>Wolrad, Regensb. RG</a> 313.</fn> bestellen; <zzl>zl2375-7A</zzl>dann er ein rychstag beschriben gen Regenspurg,
+<fn>Zum Regensburger Reichstag s. <qv>nr2331</qv>, <qv>fn2331-2</qv>.</fn> dahin er reyssen w{oe}ll. <zzl>zl2375-20A</zzl>Der radtschlag und sin fürnemmen ist, den pundt,
+<fn>Der Schmalkaldische Bund; s. <qv>nr2351</qv>, <qv>fn2351-2</qv>.</fn> der uff 1. aprilis sol ze Wormbs beschlossen werden,<zzl>zl2375-20E</zzl> ze zerst{oe}ren, etc. So imm das nitt verlangen mag, wirt er sich zun waaffen keren und durch das pyrg
+<fn>Gebirge (die Alpen).</fn> heruß Hispanier, Sicilier, Italiener und andere siner landen lüt in grosser anzal über die Tütschen f{ue}ren.
+<fn>Vgl. <qv>nr2376</qv>,<qv>zl2376-5</qv>.</fn><zzl>zl2375-7E</zzl> Er sol ouch alle fürsten und stend, pers{oe}nlich z{uo} Regenspurg anzekummen, beschriben, da man acht, sy werdent nitt, wie er will, kummen. <zzl>zl2375-14A</zzl>Es sol ouch ein anschlag
+<fn>Komplott.</fn> sin wider die stett des Oberlandts
+<fn>Süddeutschland.</fn> imm evangelio, wie
+<fn>dass.</fn> die geplagt, uffenthallten werdint, das sy denen imm Niderland
+<fn>Norddeutschland; hier besonders Köln.</fn> nitt m{oe}gind geh{ae}lffen. Dann so der keysser dran wil, wirt er unden und oben
+<fn>unden und oben: im Norden und im Süden.</fn> angryffen.
+<fn>Diese Angaben wird Myconius wohl dem Basler Rat weitergegeben haben, der sie wiederum am 16. März 1546 an die Dreizehn von Straßburg übermittelte; s. <a>PC</a> IV/1 48f, Nr. 45.</fn><zzl>zl2375-12E</zzl><zzl>zl2375-14E</zzl> Nonis martii
+<fn>7. März.</fn>.<zzl>zl2375-8E</zzl><zzl>zl2375-9E</zzl></p>
+<lz/>
+<p><zzl>zl2375-13A</zzl>Haec non quibusvis communicabis. Scis enim amicos nolle, ut quibusvis omnia sua proferantur.<zzl>zl2375-13E</zzl></p>
+<p>Vale iam et parce cacographiae
+<fn>schlechte Handschrift; s. <a>Hoven</a> s.v.</fn>; festinanter scripsi. 10. martii 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf f. 147a,v.:] Clarissimo viro d. Osvaldo Myconio, fratri longe charissimo.</p>
+</text>
+</brief>

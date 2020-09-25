@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2668">
+<brief>
+<id>16308</id>
+<nr>2668</nr> <from persid="StumpfJohannes"/> <to persid="Bullinger"/> <place plid="Stammheim"/> <date when="1546-11-10"/>
+<ae>Johannes Stumpf an Bullinger</ae>
+<od>Stammheim, 10. [November]
+<fn>Der von Stumpf unten Z. <qv>zl16308-2</qv> angeführte Monat kann in Hinblick auf die in unten Z. <qv>zl16308-1</qv> gemachte Angabe nicht stimmen. Da der 9. November 1546 tatsächlich ein Dienstag war, nicht aber der 9. Oktober, ist dieser Brief auf den 10. November 1546 zu datieren.<zfn>fn16308-1</zfn></fn> 1546</od>
+<vo>Autograph: Zürich StA, E II 340, 158 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 3; Maschinenschrift: A. Bonomo, Stumpf Brief- und Aktenslg. I 2, 284 [Zürich ZB, Ms Z I 103a]; Zit.: B. Hertenstein: von Watt, Schobinger, Stumpf 33</k></dr>
+<re><t>Am Dienstag den 9. November übergab ein Soldat [...], der aus dem [schmalkaldischen] Feldlager nach Stammheim zurückkam, Stumpf den beiliegenden Brief [<qv>nr2648</qv>] aus Ulm.</t>
+<t>Bullinger möge Vadians Buch über die Äbte St. Gallens ["Kleine Chronik"] mittels Meister Christoph [Froschauer] zurücksenden, damit Stumpf es zusammen mit anderen Büchern und alten Dokumenten endlich an Vadian zurückgeben kann.</t>
+<t>Empfehlung an Gott.</t></re>
+<text>
+<div>
+<p>Dominus vobiscum, etc. Günstiger, lieber herr, <zzl>zl16308-3A</zzl>es hatt an <zzl>zl16308-1A</zzl>zinstag den 9. novembris<zzl>zl16308-1E</zzl> ein kriegßman
+<fn>Der schon in <qv>nr2660</qv>,<qv>zl16349-1</qv>, erwähnte ältere Kriegmann.</fn> von Stamheim (so uß dem veld geurloubett mit andren heimkommen ist) mir dißen byligenden brieff
+<fn>Leonhard Serins Brief vom 5. November (<qv>nr2648</qv>).</fn> uberantwort, uch den z{uo}zesenden; kumpt von Ulm, etc.<zzl>zl16308-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16308-4A</zzl>Demnach, wie ir noch habend d. Vadiani b{uo}ch von {ae}pten von S. Gallen,
+<fn>Gemeint ist die "Kleine Chronik" zu den Äbten St. Gallens, die Vadian in der ersten Hälfte von Januar 1546 Bullinger zugesandt hatte; s. <a>HBBW</a> XVI 61.</fn> so ir das gn{uo}gsam gebrucht hettind, wer myn beger, <zzl>zl16308-5A</zzl>das ir es dem m. Christoff
+<fn>Christoph Froschauer. - Er arbeitete zu dieser Zeit zusammen mit Bullinger an Stumpfs "Eidgenössischer Chronik" (s. dazu die in <a>HBBW</a> XVI 15, Anm. 35, angeführten Briefe) und erscheint auch als "m[eister] Christoffel" z.B. in dem Brief von Vadians Schwager, Hans Widenhuber, an Bullinger vom 14. Mai 1545 (<a>HBBW</a> XV, Nr. 2161). Stumpf nennt ihn in seinem Brief an Vadian vom 4. Januar 1547 "m. Christoff Froschower"; s. <a>Vadian BW</a> VI 588.<zfn>fn16308-2</zfn></fn> gebind, mir z{uo} überschicken,<zzl>zl16308-5E</zzl> darmit ich es mit vilen andern b{ue}chern und alten instrumenten
+<fn>Dokumenten; s. <a>SI</a> I 349.</fn>, mir von bemeltem doctor nun mee dan jar und tag
+<fn>nun mee dan jar und tag: nun schon eine lange Zeit; vgl. <a>SI</a> III 57 (unter c).</fn> gelyhen, ein mal samentlich
+<fn>zusammen.</fn> wider ubersenden m{oe}cht.
+<fn>Stumpf sandte die Dokumente am 4. Januar 1547 zusammen mit dem oben in <qv>fn16308-2</qv> erwähnten Brief an Vadian zurück.</fn><zzl>zl16308-4E</zzl></p>
+</div>
+<div>
+<p>Hiemit sind dem getrüwen gott und vatter im himmel zu gnaden bevolhen. Stamheim, <zzl>zl16308-2A</zzl>10. octobris
+<fn>Siehe oben <qv>fn16308-1</qv>.</fn><zzl>zl16308-2E</zzl> anno 1546
+<fa>1546 <i>nach gestrichenem</i> 14.</fa>.</p>
+<un>U[wer] w[illiger] d[iener] und bruder Jo. Stumpff.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo divinarum literarum interpreti, d. Heinricho Bullingero, Tigurinorum urbis antistiti vigilantissimo, domino suo colendissimo.</p>
+</div>
+</text>
+</brief>

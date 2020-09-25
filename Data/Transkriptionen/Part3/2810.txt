@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2810">
+<brief>
+<id>17078</id>
+<nr>2810</nr> <from persid="GastJohannes"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-02-12"/>
+<ae>[Johannes Gast] an Bullinger</ae>
+<od>[Basel], 12. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 197-197a (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB; Ms S 63, 99</k></dr>
+<re><t>Bullinger möchte über Norddeutschland informiert werden. Doch wie soll Gast Verbürgtes über Menschen erfahren, die so weit weg leben? Er kann aber die folgende lächerliche, doch aufschlussreiche Geschichte erzählen: Ein Pfaffe [Nicolaus Piper?] dankte neulich in einer in Bergheim gehaltenen Predigt Gott für den Sieg Kaiser Karls V. und meinte, dass für die katholische Geistlichkeit und für die Juden nichts Schlimmeres hätte passieren können als ein Sieg der Lutheraner! Daraufhin rief er Juden und Katholiken dazu auf, weiterhin um Gottes Beistand zu flehen.</t>
+<t>Ein Bürger aus Frankfurt [Mathias Limberger] berichtete, dass die fünf in der Stadt liegenden [kaiserlichen] Fähnlein für die Kosten ihres Verzehrs selbst aufkommen und bisher niemanden beraubt haben. Als ein Mönch [...] die Kriegsknechte um die Erlaubnis bat, ihnen die Messe lesen zu dürfen, wurde dies vom Frankfurter Rat abgeschlagen.</t>
+<t>Der Kaiser soll etwa 200 Wagen nach Worms geschickt haben, weil angeblich der nächste Reichstag dort stattfinden soll. Nachrichten über Sachsen wird Myconius mitteilen.</t>
+<t>Neulich schrieb Gast über Junker Claus von Hattstatt, der im Schloss Ensisheim gefangen liegt. Er soll zum Tode verurteilt sein. Die Anklagepunkte lauten: 1. Er wollte nicht dem Kaiser im Feldzug dienen. 2. Er habe sein Kriegsvolk den Straßburgern zuziehen lassen und Knechte für Landgraf Philipp von Hessen angeworben. 3. Er wolle für den französischen König Franz I. Soldaten rekrutieren. Sechs Reiter, die zu Hattstatts Schloss geschickt wurden, um dessen Akten zu beschlagnahmen, wurden von dem im Schloss zurückgelassenen Kriegsmann [...] mit Schüssen vertrieben. Dieser verbrannte daraufhin die Dokumente. Hattstatt ist also noch im Besitz seines Schlosses.</t>
+<t>Etwas Erfreuliches: Die Colmarer haben einen Teil von dem Haus des aus Maulbronn verbannten Abtes [Johannes von Lienzingen] (für dessen Unterhalt sie lange sorgten) abgebaut, um damit die Stadtmauern zu befestigen. Daraufhin verklagte der Abt die Stadt beim König Ferdinand I. Der Prior Johannes Hoffmeister übernahm jedoch ihre Verteidigung und ritt deswegen mit einem der Räte [...] zu Ferdinand. So vernichten sich die Papisten gegenseitig!</t>
+<t>Landgraf Philipp von Hessen rüstet in Kassel. Kurfürst Johann Friedrich von Sachsen hat Leipzig eingenommen, alle Kriegsleute in der Stadt getötet und diese plündern lassen. Er begibt sich nun mit einer starken Truppe nach Schlesien. Ein Teil seines Heeres ist in das Land des Markgrafen Albrecht Alcibiades von Brandenburg-Kulmbach eingefallen. Der hinterlistige Markgraf lässt zwar das Evangelium in seinem Land verkündigen, war aber im vergangenen Sommer beim Kaiser. Der Kurfürst hat zudem das Gebiet des Grafen [Friedrich Magnus von Solms-Laubach bzw. Reinhard] von Solms erobert.</t>
+<t>Anna, Königin von Ungarn und Böhmen, die Frau Ferdinands, ist gestorben. Dies hat Gast vom Boten [...] erfahren, der [vonseiten des Königs] einen Brief bringt, mit dem die [vier protestantischen] Städte [der Eidgenossenschaft] gebeten werden, Trauergottesdienste für die Verstorbene abzuhalten.</t>
+<t>Die Straßburger rüsten sich mit Waffen und Gebet zum Widerstand gegen den Kaiser.</t>
+<t>Die Juden in Frankfurt haben den Reichsadler an ihren Haustüren angebracht, damit man ihnen ja nicht schade. Ihnen werden mehr Freiheiten als den Christen zugestanden!</t>
+<t>Dies in Kürze, damit Gast nicht bezichtigt werden kann, seine Vereinbarung mit Bullinger vergessen zu haben. Er hat Myconius beauftragt, die Briefe zu verfassen, da dieser ja gerne schreibt und besser informiert ist als er, der die Neuigkeiten vom Volk erfährt.</t>
+<t>Theodor Bibliander und die anderen Kollegen sollen auch über den Inhalt vorliegenden Briefes informiert werden. Gruß.</t></re>
+<text>
+<div>
+<p>S. in domino. <zzl>zl17078-1A</zzl>Vis, ut scribam, qu{e} aguntur in Inferiori Germania. Partim ignota sunt, qu{e} apud tam longe dissitos accidunt, partim nugarum sunt plena.<zzl>zl17078-1E</zzl> <zzl>zl17078-2A</zzl>Hoc scio, sed ridiculum est, attamen mal{e} conscienti{e} indicium: Es ist ein pfaff
+<fn>Vielleicht Nicolaus Piper, der als Pfarrer zu Bergheim von 1543 an bis zu seinem Tod im Jahr 1552 oder 1553 bezeugt ist; s. Urkundenbuch der Pfarrei Bergheim (Ober-Elsass), hg. von Eugen Hans, Straßburg 1984, S. 293f, Nr. 15.<zfn>fn17078-3</zfn></fn>, der hat nüwlich z{uo} Bercken
+<fn>Bergheim (Dép. Haut-Rhin, Frankreich).</fn> geprediget in hec verba: "Laudemus dominum, qui victoriam caesari
+<fn>Karl V.</fn> dedit, dann so die Luterischen uberhandt hetten genomen, so were es uns armen pfaffen und den armen Juden ubel gangen, als kein volck uff erden nie! Aber gott verlast die synen nit. Ir J{ue}den betten üweren got an, so wöllen wir unseren anbetten. So werden wir witers gluck haben."<zzl>zl17078-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-3A</zzl>Qu{e} Francofordi{e} aguntur, paucis accipe, nam h{e}c a Francofordiano cive
+<fn>Vermutlich Mathias Limberger, der schon während seiner Mainzer Zeit als Gasts Korrespondent nachgewiesen ist; s. zuletzt <a>HBBW</a> XIV 201; XVI 194.<zfn>fn17078-4</zfn></fn> hausi: Es ligent noch 5 fenlin knecht do. Die bezalen, was si essen und trincken.
+<fn>Der kaiserliche Heerführer Maximilian von Egmont, Graf von Büren, hatte den Frankfurtern versprochen, dass die einquartierten Kriegsknechte für ihren Lebensunterhalt zahlen würden. In der Stadt wurden 24 Fähnlein stationiert, von denen zwölf bereits am 27. Januar 1547 entlassen wurden. Die verbliebenen Fähnlein wurden nach einer neunmonatigen Besatzung am 5. und 8. Oktober 1547 entlassen; s. Paul <i>Collischonn,</i> Frankfurt a.M. im Schmalkaldischen Kriege, Straßburg 1890, S. 96f; Irene <i>Haas,</i> Reformation-Konfession-Tradition. Frankfurt am Main im Schmalkaldischen Bund 1536-1547, Frankfurt a.M. 1991, S. 323. 331.<zfn>fn17078-2</zfn></fn> Sy haben allen gwalt in der stat
+<fa><i>Darauf folgt gestrichen</i> wie von alters her nemlich der rath.</fa>. Es ist ein m{ue}nch
+<fn>Unbekannt.</fn> kommen. Der het gelangt
+<fn>sich gewandt.</fn> an die kriegsknecht, das man im erlaube, meß z{uo} haben. Das ist bracht an ein rath z{uo} Francofort. Diß ist im abgeschlagen. Und hat der frünfelich
+<fn>Hier vielleicht im Sinne von "frevelich" in einer wortspielerischen Assoziation mit den verachteten Juden, da im Westjiddischen die "frünfelich supp" eine Suppe aus geschnittenen Nudeln bezeichnet; s. Alfred <i>Klepsch,</i> Westjiddisches Wörterbuch, Bd. 1, Tübingen 2004, S. 585.</fn> m{ue}nch wider hinweg müssen faren mit siner meß.
+<fn>Siehe dazu <i>Collischonn,</i> aaO, S. 93f, wonach von Büren im Frankfurter Frauenbruderkloster öffentlich Messe lesen ließ, zugleich aber (zum Entsetzen des Rates) den evangelischen Pfarrern die Predigt gestattete.<zfn>fn17078-5</zfn></fn> Man hat niemans etwas genomen, nimpt ouch niemans nuit
+<fn>nichts. - Eine Äußerung, die in Bezug auf die in Frankfurt stationierten kaiserlichen Söldner zu verstehen ist.</fn>.<zzl>zl17078-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-4A</zzl>Man sagt ouch, der keyser habe uff Worms geschickt by
+<fn>etwa.</fn> 200 wegen. Welle do ein reichstag haben.
+<fn>Ein falsches Gerücht. - Der Kaiser hatte am 2. Februar 1547 seinem Bruder König Ferdinand I., welcher eine baldige Einberufung des Reichstags wünschte, mitgeteilt, dass er vorher noch den Krieg gegen die Schmalkaldener zu Ende führen wollte. Daher erging die an die Reichsstände gerichtete Einladung zum Reichstag erst am 3. Juli 1547. Als möglicher Versammlungsort wurde nicht Worms, sondern Augsburg, Ulm, Nürnberg und Regensburg in Erwägung gezogen; s. <a>RTA-JR</a> XVIII/1 57f und 130f, Nr. 7.<zfn>fn17078-6</zfn></fn><zzl>zl17078-4E</zzl> <zzl>zl17078-5A</zzl>Wie es in Saxen gadt, scribet Myconius.
+<fn>Myconius war damals krank, sodass er erst am 1. März wieder an Bullinger schrieb. Dabei vermittelte er tatsächlich Nachrichten über Sachsen; s. <qv>nr2833</qv>,<qv>zl17100-1</qv>.</fn><zzl>zl17078-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-6A</zzl>Juncker Claus von Hattstat, ein redlicher krieger, de quo proxime scripsi,
+<fn>Siehe <qv>nr2753</qv>,<qv>zl17000-18</qv>.</fn> lyt noch gefangen z{uo} Ensesheim
+<fn>Ensisheim (Dép. Haut-Rhin, Frankreich).</fn> im schloß. Hat ysen an f{ue}ssen und armen. Man meynt, er werde den kopff verlieren. 1. articulus:
+<fn>Nachfolgend führt Gast die Anklagepunkte gegen Hattstatt auf.</fn> Er hat nit wellen dem <vl>197v.</vl> keyser dienen in dem z{ue}g
+<fn>Feldzug.</fn>. 2. Er hat sin volck lassen gon Strassburg louffen, ouch dem lantgraven
+<fn>Philipp von Hessen.</fn> knecht angenomen. 3. Sy haben inn im züg
+<fn>im züg: in Verdacht.</fn>, er sölle dem Frantzosen
+<fn>König Franz I. von Frankreich.</fn> wellen knecht annemen. Sy haben 6 pferdt ußgeschickt in willens, alle syne brieff in seim schloß z{uo} erl{oe}ßen
+<fn>ergattern; s. <a>SI</a> III 1417f s.v. "erlesen"; eventuell aber auch: durchsuchen, indem man zuvor die Aktenbündel aufbindet (auflöst). - Bei den "Briefen" könnte es sich nicht nur um Briefe, sondern auch um sonstige Dokumente handeln, kaum aber um Urkunden, da der zurückgelassene "Krieger" die Urkunden der Familie und des Schlosses nicht verbrannt haben wird.</fn>; aber sy haben das nit z{uo} wegen kynnen bringen
+<fn>z{uo} wegen kynnen bringen: zustande bringen können.</fn>. Der juncker hat ein reisigen
+<fn>gerüsteten.</fn> krieger by im
+<fn>sich.</fn> lang gehan; den im schloß gelossen. Diser hat den 6 rütteren und etlichen büren das schloß vorgehalten
+<fn>vorenthalten; verschlossen gehalten; s. <a>SI</a> II 1233 s.v. verhalten.</fn>, sy darvon gejagt mit geschützs, die brieff als
+<fn>die brieff als: alle Briefe.</fn> verbrent, und hat also das schloß noch ynn.<zzl>zl17078-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-7A</zzl>Praeterea das fröwt mich: Die von Colmar haben den abt von Malbrunn
+<fn>Johannes [IX.] von Lienzingen (Lin(t)zingen, Lenzingen), Abt des Klosters Maulbronn (Enzkreis, Baden-Württemberg), dessen Insassen im Oktober 1537 in das Zisterzienserkloster Pairis (etwa 20 km westlich von Colmar) zogen, nachdem 1534-1537 das Kloster Maulbronn sich schrittweise der Reformation unterziehen musste. Der Abt starb bald nach Abfassung des vorliegenden Briefes am 20. Juli 1547 (d.h. 13. Cal. Augusti - also nicht am 13. August; in der Literatur wird manchmal auch der 21. oder 22. Juli angeführt) in Einsiedeln, während einer im Sommer 1547 unternommenen Wallfahrt. Über die hier angesprochene Angelegenheit konnte nichts eruiert werden. - Lit.: Kaspar <i>Brusch,</i> Chronologia monasteriorum Germaniae praecipuorum, [Pfalz]-Sulzbach 1682, S. 333; Gallia Christiana, Bd. 5, Paris 1731, Sp. 756f und Sp. 454-458 des Anhangs; Konrad <i>Rothenhäusler,</i> Die Abteien und Stifte des Herzogthums Württemberg im Zeitalter der Reformation, Stuttgart 1886, S. 37-44; Gerhard <i>Köbler,</i> Historisches Lexikon der Deutschen Länder, München 2007, S. 417; Immo <i>Eberl,</i> Die Cistercienserkloster des Herzogtums Württemberg in der Reformationszeit. Von geistlichen Konventen zu theologischen Ausbildungsstätten, in: Analecta Cisterciensia, Bd. 59, 2009, S. 283.<zfn>fn17078-7</zfn></fn> lang uffgehalten in sym ellendt
+<fn>uffgehalten in sym ellendt: versorgt in seiner Verbannung; s. <a>SI</a> II 1227; I 177. </fn>, der ein huß z{uo} Colmar hat. Disem haben sy etwas genomen, daruß ein bolwerck gemacht. Der apt hat sy verklagt vor Ferdinando
+<fn>König Ferdinand I.</fn>. Wider den
+<fn>Gemeint ist von Lienzingen.</fn> stelt sich der prior Hoffmeyster,
+<fn>Johannes Hoffmeister, seit 1533 Prior der Augustinereremiten in Colmar.</fn> Ferdinandi predicent. Der rüttet zum künig mit eim der r{ae}dten
+<fn>Unbekannt.</fn>, das z{uo} erlangen wider den apt. Ita papist{e} debent perdere papistas! Ein teufel sol dem anderen widerston, domit das alles ze gründt gange!<zzl>zl17078-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-8A</zzl>Item, der landtgraff lyt
+<fn>liegt.</fn> z{uo} Cassel. Ist in grosser r{ue}stung.
+<fn>Vgl. jedoch <qv>nr2788</qv>, <qv>fn17055-3</qv>; und <qv>nr2805</qv>,<qv>zl17073-2</qv>.</fn><zzl>zl17078-8E</zzl> <zzl>zl17078-9A</zzl>Hertzog Hans, elector,
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> hat Lipsig mit eim sturm gwonnen, alles kriegsvolck erstochen darinnen, ouch die statt geplünderet.
+<fn>Ein falsches Gerücht; vgl. <qv>nr2757</qv>, <qv>fn17025-5</qv>.</fn><zzl>zl17078-9E</zzl> Er
+<fa><i>In der Vorlage</i> es.</fa> soll uff die Silesiam
+<fn>Schlesien. Siehe dazu <qv>nr2786</qv>, <qv>fn17054-6</qv>. - Hier ist wohl die Oberlausitz gemeint; s. Regesten über den Pönfall der Oberlausitzischen Sechsstädte, und die Folgen desselben, in: Neues Lausitzisches Magazin, hg. v. Ernst Tillich, Bd. 24, Görlitz 1848, S. 2f. 44-50 (Beilage 3).<zfn>fn17078-1</zfn></fn> mit eim hüffen ziehen, do grossen schaden th{uo}n. <zzl>zl17078-15A</zzl>Mit dem anderen huffen ligt er dem hertzog Albrecht von Brandenburg
+<fn>Markgraf Albrecht II. Alcibiades von Brandenburg-Kulmbach. - Damals drohte eine kurfürstliche Truppe ins markgräfliche Gebiet einzufallen. Doch kam es nicht dazu; s. <a>Voigt, Albrecht</a> I 140f.<zfn>fn17078-8</zfn></fn> <vl>197a,r.</vl> im landt, nympt im alles yn.<zzl>zl17078-15E</zzl> Diser ist bym keyser den sommer gsin:
+<fn>Markgraf Albrecht war zu Anfang Mai 1546 auf den Reichstag nach Regensburg zum Kaiser gereist, hatte sich im Juni 1546 von diesem als Oberster auf mindestens drei Monate mit 2'000 Reitern anwerben lassen und ihm von Juli 1546 an seine Reiter aus Bayreuth zugeführt; s. <a>Voigt, Albrecht</a> I 110-117.<zfn>fn17078-9</zfn></fn> Perfidus homo, etsi permittat evangelii praedicationem in suis terris. Dem graven von Sulms
+<fn>Gemeint sind die Grafen Friedrich Magnus von Solms-Laubach (geb. 1521, gest. 13. Januar 1561) und dessen Verwandter Reinhard von Solms (zu Letzterem s. <qv>nr2817</qv>, <qv>fn17083-4</qv>). Die Einnahme der Herrschaft Sonnenwalde ist vom Kurfürsten selbst in seinem Brief an die XIII von Straßburg bezeugt; s. <a>PC</a> IV/1 568, Nr. 524, vom 15. Januar 1547. - Zum Hintergrund dieser Nachricht s. Rudolf zu <i>Solms-Laubach,</i> Geschichte des Grafen- und Fürstenhauses Solms, Frankfurt a.M. 1865, S. 244; <a>Moritz von Sachsen PK</a> III 78, Nr. 74 (Anm.).<zfn>fn17078-10</zfn></fn> hat er
+<fn>Gemeint ist der Kurfürst.</fn> ouch sin landt ingenomen.</p>
+</div>
+<div>
+<p><zzl>zl17078-10A</zzl>Uxor Ferdinandi mortua est, regina Ungariae.
+<fn>Anna Jagiello, Königin von Böhmen und Ungarn; s. <qv>nr2812</qv>, <qv>fn17080-2</qv>.</fn> Hoc ab ipso tabellario
+<fn>Ein unbekannter Überbringer eines Schreibens von Ferdinand I. an die vier protestantischen Städte der Eidgenossenschaft.<zfn>fn17078-14</zfn></fn> audivi, qui literas perfert civitatibus, quo exequias honestas instituant.
+<fn>Über Totenfeiern für Anna in der Eidgenossenschaft ist nichts bekannt. - In Ulm aber ließ der Kaiser eine solche abhalten; s. <qv>nr2812</qv>, <qv>fn17080-3</qv>.<zfn>fn17078-11</zfn></fn><zzl>zl17078-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-11A</zzl>Argentoratenses se parant ad resistendum caesari armis et precibus assiduis.
+<fn>Vgl. schon <qv>nr2773</qv>,<qv>zl17041-9</qv>. Am 21. Februar und am 1. März wird immer noch aus Straßburg über anhaltende Rüstungen in der Stadt berichtet; s. <a>PC</a> IV/1 612, Nr. 561; 618, Nr. 565. Schon 1546 wurden Teile der Stadtmauern befestigt; s. Sebald Bühlers Straßburger Chronik (<a>MGEGDE{2}</a> XIII 90, Nr. 304). - Damals fand sich Straßburg zwar zu Unterhandlungen, nicht aber zu einem bedingungslosen Frieden mit dem Kaiser bereit, wie es die am 12. Februar abgefertigte Straßburger Gesandtschaft (s. <a>PC</a> IV/1 603f, Nr. 555), welche am 19. Februar in Ulm eintraf, den kaiserlichen Unterhändlern zu verstehen gab; s. <a>PC</a> IV/1 603-605, Nr. 555; 608f, Nr. 559; 612f, Nr. 561; 620f; Alcuin <i>Hollaender,</i> Strassburg im Schmalkaldischen Kriege, Straßburg und London 1881, S. 67; und <qv>nr2822</qv>, <qv>fn17088-7</qv>.<zfn>fn17078-12</zfn></fn><zzl>zl17078-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-12A</zzl>Die Juden z{uo} Francofurt haben ein adler
+<fn>Der Reichsadler.</fn> an iren doren, domit yn niemans schadens z{uo}fiegi. Plus libertatis habent quam christiani reliqui!<zzl>zl17078-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17078-13A</zzl>H{e}c ad te paucis volui, ne me incuses deinceps negligenti{e} oblitusve es pacti,
+<fn>Eine Abmachung in Bezug auf Myconius, die Bullinger vielleicht mit Gast traf infolge von dessen Brief vom 31. Juli 1546 (<a>HBBW</a> XVI, Nr. 2520).<zfn>fn17078-13</zfn></fn> quod mecum iniisti. Myconio imposui hoc onus scribendi, qui libenter scribit et certiora habet quam ego, qui ex plebe communia mea soleo expiscari.<zzl>zl17078-13E</zzl> 12. februarii 1547.</p>
+</div>
+<div>
+<p><zzl>zl17078-14A</zzl>Ea d. Bibliandro
+<fa><i>In der Vorlage</i> Bibliando.</fa> communicare velis et reliquis fratribus, quos cupio salvere in domino ad longos annos.<zzl>zl17078-14E</zzl></p>
+<un>Nosti manum.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An den wolgelerten herren, meyster Heinrych Bullinger, lüttpriester z{uo} Zürich, minem geliepten herren. Zürich.</p>
+</div>
+</text>
+</brief>

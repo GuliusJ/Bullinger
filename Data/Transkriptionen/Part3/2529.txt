@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2529">
+<brief>
+<id>16220</id>
+<nr>2529</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 8. August 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 242 (neu: 260) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 70</k></dr>
+<re>Das Zögern [der Schmalkaldener] hält an, auch wenn man sich jetzt angeblich beeilt, im Wissen, dass die 80'000 erwarteten Italiener dem Kaiser Karl V. bald zur Verfügung stehen werden. Papst [Paul III.] hat alles gegeben und kann nun auf den Beistand des Kaisers zählen.
+<t/>Martin Peyer aus Schaffhausen erzählte heute von dem Brief eines Mitglieds des Geheimen Rats aus Ulm [Georg Besserer?]: Die Könige [Franz I.] von Frankreich und [Heinrich VIII.] von England sollen dem Kaiser ihre Hilfe abgeschlagen haben. Dieser habe auch beim Sultan [Suleiman I.] um 1'800 Kavalleristen gebeten. Doch ist die entsprechende Antwort noch unbekannt, da der kaiserliche Gesandte [Gerhard Veltwyck] noch nicht [aus der Türkei] zurückgekehrt ist.
+<t/>Man sagt, dass die Eidgenossen beim Eintreffen der Italiener im Reichsgebiet die Obersten [des Schmalkaldischen Bundes] um 8'500 Mann baten, um mit diesen den ersten Angriff gegen den Kaiser steuern zu dürfen. Man soll ihren Vorschlag angenommen und ihnen zusätzlich 2'000 Reiter angeboten haben. Die Eidgenossen wollen nun mit ihrem Angriff auf den richtigen Moment warten.
+<t/>Infolge der Vereinbarung mit [Suleiman] hat der Kaiser die Kanonen aus Wien und die dort stationierten 1'200 Spanier mit ihren Hakenbüchsen zu sich bestellt.
+<t/>Bucer schrieb über ein neues Heer aus Belgien, dessen Vorhaben unklar ist: Entweder soll es von Mainz aus Hessen überfallen, oder [Friedrich II.] von der Pfalz und die evangelischen Rheingrafen in Schach halten, oder auch den [Landgrafen Philipp von] Hessen von hinten angreifen. Myconius dachte aber, dass der Landgraf sein Land gut versehen hatte; dass deshalb kein Angriff darauf zu befürchten war ...
+<t/>Der Straßburger Gesandte [Heinrich von Müllenheim] erzählte gerade, dass in Donauwörth die [schmalkaldischen Truppen] zusammengekommen seien. Es sind 7'000 Reiter und 60'000 Fußsoldaten.
+<t/>Veit Dietrich hat den Straßburgern die Unterstützung der [Nürnberger] in Aussicht gestellt. Möge die [kommende eidgenössische] Tagsatzung Gutes bewirken! Sollten die [Eidgenossen] auf die Wünsche der [schmalkaldischen] Gesandten [Heinrich von Müllenheim, Ulrich Hochrütiner und Hans Herter von Hertneck] nicht eingehen, wären sie wirklich dumm! Gott möge den Fünf Orten die Augen öffnen!
+<t/>Grüße.
+<t/>[P.S.:] Jeder, dem Myconius das Gedicht [Rudolf Gwalthers] über den Verfall des Klosters [Einsiedeln] zum Lesen gibt, ist geschockt und kann es nicht glauben. Der Autor soll Genaueres darüber berichten.</re>
+<text>
+<p>S. Adhuc molesta dilatio
+<fn>Die Verzögerung beim geplanten Angriff der Schmalkaldener auf den Kaiser.</fn>, quamvis nunc tandem (si rumor verus est) frustra festinatio tentetur, postquam Carolus
+<fn>Kaiser Karl V.</fn> obtinuerit, quod fuit in votis. <zzl>zl16220-1A</zzl>Aiunt enim exercitum Italicum adpropinquare usque ad octoginta millia delectorum, non sponte currentium.
+<fn>Zum Vormarsch dieser Truppen s. zuletzt <qv>nr2528</qv>,<qv>zl16218-1</qv>. - Zu deren Eintreffen s. <qv>nr2531</qv>,<qv>zl16231-5</qv>; <a>NBD</a> IX 178.<zfn>fn16220-1</zfn></fn> Papa
+<fn>Paul III.</fn><zzl>zl16220-1E</zzl> tentat extrema; adest tentanti Carolus.</p>
+<p>Sed audi, quid narravit d. Martinus Bavarus Schafhusianus
+<fn>Martin Peyer.</fn> hodie mihi. Ulmensis senator, vir bonus et ex numero eorum, qui bellicis praesunt negociis,
+<fn>Vermutlich Georg (Jörg) Besserer, einer der fünf Ulmer Geheimen Räte (oder Kriegsräte). Sein Name wird nämlich in der in <a>Fischer, Chronik</a> 152 aufgestellten Liste der damaligen Geheimen Räte Ulms angeführt, und aus <a>PC</a> IV/1 257 (Anm.) und 376 geht ferner hervor, dass damals Georg Besserer betreffend die Kriegsläufte tatsächlich in brieflichem Kontakt mit den Verbündeten und Glaubensverwandten stand. - Am 6. August schrieb der Rat von Schaffhausen diesbezüglich auch an Zürich (Zürich StA, A 177, Nr. 20). Ähnliches wurde ferner ebenfalls vom Konstanzer Rat an Zürich mit einen undatierten Brief (aaO, Nr. 21) übermittelt.<zfn>fn16220-2</zfn></fn> scripsit Schafhusiam certum esse, quod Carolus miserit ad Gallum
+<fn>Franz I.</fn> et Anglum
+<fn>Heinrich VIII.</fn> et Turcam
+<fn>Suleiman I.</fn> pro auxiliis. Quid petierit a regibus, non constat; a Turca petiit equites 1'800.
+<fn>In dem oben in <qv>fn16220-2</qv> erwähnten Schreiben aus Konstanz ist von 10'000 türkischen Reitern die Rede.</fn> Illi
+<fn>Die Könige Frankreichs und Englands.</fn> negarunt se quicquam daturos; legatus
+<fn>Gerhard Veltwyck, Gesandter Karls V. an der Pforte; s. <a>NBD</a> IX Reg. Er war drei Wochen zuvor aus Regensburg mit Briefen des Königs Ferdinand und des Kaisers vom 13. bzw. 16. Juli zum Sultan geschickt worden; s. Lettres et mémoires d'Estat des roys, princes, ambassadeurs et autre ministres sous les règnes de François premier, Henri II et François II, hg. v. Guillaume Ribier, Bd. 1, Paris, 1666, S. 562-584 (Text der Briefe).</fn> a Turca nondum rediit. Nescitur ergo, quid is sit facturus.</p>
+<p><zzl>zl16220-2A</zzl>Rumor volat, quod, postquam Itali venerint in terram imperialem, Helvetios octies mille, et quingentos
+<fn>In einem Brief des Konstanzer Rates an Zürich vom 4. August werden 10 Fähnlein eidgenössischer Söldner bei Füssen bezeugt (Zürich StA, A 177, Nr. 19). Ein weiteres Schweizer Fähnlein (mit 600 Mann) ist um den 4./5. August in Donauwörth nachgewiesen; s. <qv>nr2531</qv>,<qv>zl16231-16</qv>. <qv>zl16231-17</qv>. <qv>zl16231-12</qv>. Anfang August wurden acht der zehn in Füssen stationierten eidgenössischen Fähnlein mit sieben weiteren aus Landsknechten bestehenden Fähnlein nach Süddeutschland zum großen "Haufen" bestellt. In Füssen blieben lediglich "zwey vendlin Schwytzer"; s. Zürich StA, A 227/1, Nr. 83 (Recto-Seite), [Johannes Haab] an [Hans Escher vom Luchs], [Baden], 6. August 1546. Aus aaO, Nr. 83 (Verso-Seite), Derselbe an Denselben, 8. August, geht hervor, dass die zwei in Füssen gebliebenen Fähnlein aus Appenzeller Söldnern bestanden. Aus <a>Mameranus, Rebel.</a> B2v. geht hervor, dass der Anführer der acht Fähnlein der Memminger Hieronymus Lehel war.<zfn>fn16220-6</zfn></fn> petisse a ducibus
+<fn>Die Obersten der schmalkaldischen Truppen.</fn>, ut liceat sibi facere impetum in istos primarium; concessum et additos bis mille equites. Qu{e}rere nostros occasionem, ut voto satisfaciant.<zzl>zl16220-2E</zzl></p>
+<p>Ex Vienna Austri{e} Carolus boardas
+<fn>Kanonen (Schlangenbüchsen), da das Wort wohl aus "boa" (eine dicke Schlange) abzuleiten ist. Dass damit "bombardae" gemeint sind, geht auch aus <a>WA</a> LXIV (Lateinisches Sachregister, A-C) 282 und aus Caspar Ursinus <i>Velius,</i> De bello Pannonico..., hg. v. Adam Frantisek Kollár, Wien 1762, S. 137, hervor.</fn> omnes adducere ad se mandavit et Hispanos 1'200 uncatas
+<fn>Hakenbüchsen, zumal "uncatus" "gekrümmt" oder "hakig" bedeutet (s. <a>Niermeyer</a> II 1370) und ferner aus vorliegender Stelle hervorgeht, dass die spanischen Söldner diese Waffe vom Gewicht her tragen konnten.<zfn>fn16220-7</zfn></fn> gerentes; adeo convenit ei cum Turca.
+<fn>So auch in dem oben in <qv>fn16220-2</qv> erwähnten Schreiben von Konstanz an Zürich. - Zum Frieden mit Suleiman s. <a>HBBW</a> XVI 30 und Anm. 174.</fn></p>
+<p>Ex Belgico venit exercitus novus.
+<fn>Siehe dazu <qv>nr2512</qv>,<qv>zl16202-6</qv>, und <qv>nr2541</qv>,<qv>zl16429-5</qv>.</fn> Quis sit et quo velit, ignoratur. Hoc Bucerus.
+<fn>In einem nicht erhaltenen Brief an Myconius.</fn> Divinant vel ex Maguntia insidiaturum ditioni Hassi{e}, vel Palatinum
+<fn>Friedrich II. von der Pfalz.</fn>, principes alios et comites religionis nostr{e} Rhenanos cohibiturum, vel sequuturum Hessum
+<fn>Landgraf Philipp von Hessen.</fn>, ut a tergo invadat. Equidem, quod scribitur, non capio, quod constanter audivi
+<fn>Siehe nämlich <qv>nr2512</qv>,<qv>zl16202-5</qv>; <qv>nr2515</qv>,<qv>zl16205-6</qv>.</fn> Hessum post se reliquisse omnia sic munita, ut timore vacet.</p>
+<p><zzl>zl16220-3A</zzl>Convenisse iam nostros Werd{e} ad Danubium
+<fn>Donauwörth. - Zur Ankunft der Truppen des Landgrafen und des Kurfürsten von Sachsen in Süddeutschland und zu ihrem Einzug in Donauwörth, wo sie sich mit den Streitkräften Württembergs und der süddeutschen Städte vereinigten, s. <qv>nr2518</qv>, <qv>fn16212-2</qv>, und <qv>nr2531</qv>.</fn> legatus Argentinensis
+<fn>Heinrich von Müllenheim. - Am 1. August hatte der Basler Rat den Straßburger Rat gebeten, ihnen Ulrich Chelius (Geiger) zu entsenden, auf dass Letzterer sich bei dem ihm gut bekannten Antoine Morelet du Museau, dem Gesandten Franz' I. in der Eidgenossenschaft, erkundigte, was die genaue Haltung seines Monarchen gegenüber dem Kaiser, dem Papst und den Protestanten sei; s. <a>PC</a> IV/1 271. Entsandt wurde jedoch von Müllenheim, der am 7. August in Basel eintraf; s. aaO, S. 287, Nr. 267.</fn> mihi dixit hodie, consultaturos, quid deinceps agendum. Equites sunt septies mille, pedites 60'000.<zzl>zl16220-3E</zzl></p>
+<p><zzl>zl16220-5A</zzl>Significavit Vitus Theodorus
+<fn>Veit Dietrich. - In dem zeitlich nächstgelegenen, heute noch bekannten Brief Dietrichs an Bucer, der vom 5. Juli 1546 datiert (Kopie in Zürich ZB, Ms 60, 163), findet man nichts Derartiges.</fn> Argentinensibus aliquid bon{e} spei de suis.
+<fn>Vgl. <qv>nr2541</qv>,<qv>zl16429-4</qv>; <a>PC</a> IV/1 285.</fn><zzl>zl16220-5E</zzl> <zzl>zl16220-4A</zzl>Utinam vero concedat dominus, ut comitia nostra
+<fn>Die eidgenössische Tagsatzung, die am 9. August in Baden begann (<a>EA</a> IV/1d 655-672, Nr. 307).<zfn>fn16220-3</zfn></fn> boni aliquid pariant! Invocandus in hoc dominus idem ex corde fideli, constanti et perseverante, usque dum nos exaudierit. Protestantium legati
+<fn>Heinrich von Müllenheim (für Straßburg); Ulrich Hochrütiner (für Konstanz) und Hans Herter von Hertneck (für Württemberg); s. <a>PC</a> IV/1 269, Nr. 250, Text und Anm. 3 (Württemberg); 287f, Nr. 267 (Straßburg); 303, Anm. 8 (Konstanz). - Text des schriftlichen Gesuches der Schmalkaldener an die Eidgenossen in <a>PC</a> IV/1 299-303, Nr. 280. Details darüber, wie und wann dieses Gesuch den Eidgenossen in Baden vorgebracht werden sollte, in aaO, S. 287f, Nr. 267. Das Gesuch wurde am Vormittag des 12. August vorgetragen; s. aaO, S. 299, Nr. 280, Anm. 1. Zum Protokoll des Vortrags und zu den darauffolgenden Reaktionen s. <a>EA</a> IV/1d 658 h und 668-670 zu h.<zfn>fn16220-4</zfn></fn> habent, qu{e} sunt proposituri; quibus qui non consenserit, prorsus insanus est. Aperiat itaque dominus corda Quinquepagicorum, ut intelligant et recipiant, qu{e} ipsis {e}que sunt ac nobis profutura.<zzl>zl16220-4E</zzl></p>
+<p>Vale in Christo cum tuis et fratribus. Basile{e}, 8. augusti anno 1546.</p>
+<un>Os. Myconius</un>
+<un>tuus.</un>
+<lz/>
+<p>Quibuscunque carmen De casu Eremitano
+<fn>Rudolf Gwalthers Gedicht "Prognosticon vel chria monachis Mariae Eremitanae oblata. Anno 1546, mense Julii" (Zürich ZB, Ms D 152, 77r./v.), mit dem auf sexuelle Missstände in diesem Kloster aufmerksam gemacht werden sollte. Myconius erhielt das "carmen" mit dem an ihn gerichteten Schreiben Gwalthers vom 3. August (St. Gallen Kantonsbibliothek Vadiana, Ms 35, 171) mit der Angabe, dass der Anlass dazu eine "wahre" Begebenheit im Marienkloster Einsiedeln sei (wir danken Herrn Kurt Jakob Rüetschi für diese Hinweise). - Vielleicht wurde damals auch eine deutsche Fassung dieses "carmen" angefertigt, gedruckt und verbreitet, da während der am 9. August beginnenden Tagsatzung zu Baden die katholischen Eidgenossen sich u.a. über ein "Schmachbüchlein und Liedchen" beklagten, das "so schändlich und schmählich" sei; s. <a>EA</a> IV/1d 654 g und 659 m.<zfn>fn16220-5</zfn></fn> ad legendum permitto, dubitant verumne sit: Adeo nemo non horret! Scribat author aliquid, unde res fiat clarior. Eundem salutabis. Scribam brevi.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, in domino suo.</p>
+</text>
+</brief>

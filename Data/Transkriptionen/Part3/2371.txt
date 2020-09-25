@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2371">
+<brief>
+<id>16062</id>
+<nr>2371</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 6. März 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 227 (neu: 245) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 120</k></dr>
+<re>Auf den 1. April ist ein neuer Schmalkaldischer Bundestag angesetzt. Alles wird von klugen Teilnehmern vertraulich behandelt, was Myconius gefällt. [Johannes] Sturm konnte einen mit [König Franz I.] von Frankreich ausgehandelten und für die Protestanten sehr günstigen Vertrag nach Frankfurt mitbringen. [Franz I.] hat allerdings nur Beobachter nach [Frankfurt] abgeordnet. [König Heinrich VIII. von] England hat niemanden geschickt. Die Gesandtschaft von Kaiser [Karl V.] ist nie erschienen. [Kurfürst Friedrich II. von der] Pfalz kam mit seinem Bruder [Wolfgang von der Pfalz-Neumarkt] nach Frankfurt; ebenso [Landgraf Philipp von] Hessen. Auch der Mainzer [Erzbischof Sebastian von Heusenstamm] erschien dort, aber er traf sich nicht mit den Protestanten. Sehr zu begrüßen ist, dass die Protestanten eine Gesandtschaft an [Karl V.] geschickt haben, um dessen Absichten zu erkunden.
+<t/>Das [Zweite] Regensburger [Religionsgespräch] hat endlich begonnen. Zur Zeit wird über die Rechtfertigung disputiert, zumal über den freien Willen und die Erbsünde bereits früher debattiert wurde. Bucer spricht [für die Protestanten], da Philipp [Melanchthon] abwesend ist. An dessen Stelle wurde Georg Maior geschickt. Die [katholischen] Gegner wollen den Inhalt der Debatten geheim halten, die [Protestanten] aber, dass die Welt davon erfährt. Man einigte sich schließlich darauf, die [Protokolle der Verhandlungen] in einer unter der Obhut des Regensburger Rates stehenden Truhe aufzubewahren, zu der einer der Präsidenten und je ein Vertreter der beiden Gesprächsparteien einen Schlüssel erhielten. Karl [V.] muss allerdings noch seine Zustimmung dazu geben.
+<t/>In der ersten Sitzung [des Konzils] von Trient wurden sechs Punkte beschlossen: 1. Dass die Bischöfe und Prälaten beten und fasten sollen. 2. Dass die Priester einmal in der Woche Messe halten. 3. Dass [die Teilnehmer] eine ehrenhafte, einfache Lebensführung haben. 4. Dass die Zivilverwaltung [von Trient] die Konzilsteilnehmer beschützt. 5. Dass für die Verpflegung [der Teilnehmer] gesorgt wird. 6. Dass Protokollführer, Schreiber und Boten ernannt werden. Das Übrige wird Bullinger von [Rudolf] Gwalther und [Hans] Vogler [d.Ä.] hören.
+<t/>Myconius ist Theodor [Bibliander] wohlgesinnt, weiß aber nicht, was dieser über ihn denkt. Grüße an [Konrad] Pellikan.</re>
+<text>
+<p>S. In kalendas aprilis nova sunt instituta comitia a Smalcaldensi foedere.
+<fn>Siehe dazu <qv>nr2351</qv>, <qv>fn2351-2</qv>.</fn> Illic expedientur, quae nunc
+<fn>D.h. auf dem am 8. Februar beendeten Schmalkaldischen Bundestag in Frankfurt.</fn> expediri non potuerunt. Consilia, tractationes et c{e}tera omnia habentur clam, id quod mihi summe placet; docet enim ea res, quam prudentia polleant, qui illic conveniunt. Sturmius professor
+<fn>Johannes Sturm.</fn> qu{e} exposuerit Francfordi{e},
+<fn>Zu Sturms Gesandtschaft im Auftrag der Schmalkaldener siehe <qv>nr2320</qv>, <qv>fn2320-2</qv>. In Frankfurt berichteten Sturm, Johann Bruno von Niedbruck und Johannes Sleidanus am 4. Februar 1546 über die fehlgeschlagenen Verhandlungen zwischen England und Frankreich und überreichten ein Schreiben von König Franz I.; s. <a>PC</a> III 711 mit Anm. 3.<zfn>fn2371-2</zfn></fn> novit nemo. Illud tamen certum, ipsum conditiones optimas a Gallo
+<fn>Franz I.</fn> protestantibus adtulisse, quamvis Gallus non habuerit illic
+<fn>In Frankfurt.</fn> nisi inspectores
+<fn>Die französischen Gesandten Claude de l'Aubespine und dessen Bruder Sébastien de l'Aubespine, Abbé de Bassefontaine, hielten sich im Januar und Februar 1546 am Bundestag zu Frankfurt auf; s. <a>Potter</a> 341.</fn>. Anglus
+<fn>König Heinrich VIII.</fn> neminem misit.
+<fn>In Frankfurt wurden allerdings die durch die englischen Gesandten Walter Bucler und Christopher Mont an Philipp von Hessen übermittelten Antworten Heinrichs VIII. vorgetragen; s. <a>PC</a> III 712.</fn> C{e}saris
+<fn>Karl V.</fn> legatio nusquam comparuit.
+<fn>Gerüchtweise hatte es geheißen, Karl V. hätte Granvelle nach Frankfurt geschickt; s. <qv>nr2362</qv>,<qv>zl2362-5</qv>.</fn> Palatinus
+<fn>Kurfürst Friedrich II. von der Pfalz.</fn> tamen una cum fratre Wolfgango
+<fn>Pfalzgraf Wolfgang von der Pfalz-Neumarkt, gen. d.Ä. (1494-1558), Statthalter der Oberpfalz.</fn>, qui adhuc caret uxore,
+<fn>Wolfgang von der Pfalz starb unverheiratet und kinderlos.</fn> celeribus equis Francfordiam venit, quo advenit et Hessus
+<fn>Landgraf Philipp von Hessen.</fn>.
+<fn>Siehe dazu <qv>nr2335</qv>, <qv>fn2335-2</qv>.</fn> Tractarunt de rebus communibus; tantum scitur. Moguntinus
+<fn>Der Mainzer Erzbischof und Kurfürst Sebastian von Heusenstamm.</fn> illac iter fecit, sed protestantes non convenit.
+<fn>Siehe jedoch <qv>nr2362</qv> und <qv>fn2362-6</qv>.</fn> <zzl>zl2371-6A</zzl>Placet ex omnibus, qu{e} possunt cognosci, maxime, quod legationem miserunt protestantes honorabilem ad c{e}sarem,
+<fn>Siehe dazu <qv>nr2363</qv> und <qv>fn2363-4</qv>.</fn> si qua ratione queant cognoscere, quid sit de ipso sperandum.<zzl>zl2371-6E</zzl> Alia ex comitiis Francfordianis nosse haud valeo.</p>
+<p>Ex Ratispona h{e}c sunt. Colloquium
+<fn>Das Zweite Regensburger Religionsgespräch.</fn> tandem coepisse, et quoniam de libero arbitrio et peccato originali antea
+<fn>Gemeint sind die früheren Religionsgespräche von Worms und Regensburg (1540/41); s. <a>ADRG</a> II und III.</fn> collatio fuit habita, in praesentiarum
+<fn>in praesentiarum: für die Folgezeit.</fn> tractatur iustificatio.
+<fn>Die Verhandlungen zu diesem Thema dauerten vom 5. bis 23. Februar; s. <a>Vogel</a> 342-428.</fn> <zzl>zl2371-4A</zzl>Adfuit spiritus domini in hac tractatione Bucero
+<fn>Siehe dazu <a>Wolrad, Regensb. RG</a> 183. 296-299.</fn>, cui functio respondendi fuit data Philippo
+<fn>Philipp Melanchthon. - Er war an einem Steinleiden erkrankt; s. <a>Wolrad, Regensb. RG</a> 161.</fn> absente<zzl>zl2371-4E</zzl> (in cuius locum d. Georgius Maior, vir placidi ingenii et adprime doctus, missus est)
+<fa><i>Klammern ergänzt.</i></fa>. <zzl>zl2371-5A</zzl>Adversarii
+<fn>Die Katholiken.</fn> volunt, ut disputata habeantur in summo silentio; nostri contrarium: Oportere enim evangelium praedicari omni creaturae
+<fn>Mk 16, 15.</fn>. Inventum est medium, ut omnia serventur in cista, qu{e} sit in manu senatus Ratisponensis. Tres claves sic distribuantur: Ut unam habeant pr{e}sidentes
+<fn>Zu deren Namen s. <qv>nr2333</qv>,<qv>zl2333-9</qv>. Am 23. Februar wurde Julius Pflug zum dritten Präsidenten ernannt; s. <a>BucerDS</a> XV 317, Anm. 8.<zfn>fn2371-4</zfn></fn>, alteras duas partes colloquentes.
+<fn>Zur ganzen Debatte s. <a>Wolrad, Regensb. RG</a> 168-173. 177. 180f; <a>BucerDS</a> XV 331-361, Nr. 8f.<zfn>fn2371-3</zfn></fn> Res ad c{e}sarem est perscripta, ratumne velit hoc esse annon. Expectatur responsum.<zzl>zl2371-5E</zzl></p>
+<p><zzl>zl2371-3A</zzl>Ex Tridento
+<fn>Das Konzil von Trient.</fn>. In prima sessione
+<fn>Gemeint ist die (nach anderer Zählung zweite) Session vom 7. Januar 1546. Das Dekret dieser Session enthielt verschiedene Ermahnungen an die in Trient Versammelten; s. <a>CT</a> IV 554f; <a>Jedin, Trient</a> II 19-21.</fn> excuderunt articulos sex, e quibus: 1. Ut episcopi et praelati orent ac ieiunent. 2. Ut sacrifici semel in hebdomada missent. 3. Ut familiam habeant honestam et minime sumptuosam. 4. Ut magistratus civilis vigilet pro personis concilii; eiectus fuit enim in una noctium episcopus
+<fn>Unbekannt.</fn> e suo diversorio; aiunt qu{e}sisse ignem. 5. Ut prospiciatur de commeatu et annona. 6. Ut eligantur notarii, scrib{e}, cursores. Vides, inquit quidam
+<fn>Unbekannt.</fn>, "gratiam pneumatis" iuxta carmen Alexandri
+<fn>Alexander von Villa Dei (aus Villedieu in der Normandie), geb. um 1170, gest. um 1250, Verfasser einer um das Jahr 1200 entstandenen Vers-Grammatik "Doctrinale puerorum", aus deren Einleitung hier zitiert wird.<zfn>fn2371-1</zfn></fn>: "Me iuvet et faciat complere, quod utile fiat." <zzl>zl2371-1A</zzl>Reliqua tu audies ex Gvalthero
+<fn>Zu Gwalthers Reise nach Basel s. <qv>nr2365</qv>, <qv>fn2365-2</qv>.</fn> et Voglero<zzl>zl2371-1E</zzl><zzl>zl2371-3E</zzl>
+<fn>Hans Vogler d.Ä.; s. <a>Vadian BW</a> VI 518f.</fn>.</p>
+<p>Vale in domino cum tuis. <zzl>zl2371-2A</zzl>Theodoro
+<fn>Theodor Bibliander.</fn> bene volo; de eius erga me animo plane incertus.<zzl>zl2371-2E</zzl>
+<fn>Sicherlich aufgrund des Briefes, den Myconius und Markus Bertschi am 8. April 1545 an Bibliander geschrieben hatten (Zürich ZB, Ms F 81, 397). Darin hatte sich Myconius über Luthers "Kurtz bekentnis" sowie über die Antwort der Zürcher darauf (das "Warhaffte Bekanntnuß") geäußert und letzteres als nutzlos bezeichnet: "Interim non videmus, qu{e}nam sit utilitas responsionis vestrae". - Myconius und Bertschi waren von Bibliander um ihre Meinung gebeten worden; s. <a>HBBW</a> XV 181, Anm. 6.</fn> Pellicanum salutabis nomine meo.</p>
+<p>Basileae, raptim, 6. martii anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, Tigurinorum episcopo dignissimo, domino in Christo observando suo. Z[urich]
+<fa><i>Teilweise auf das nicht mehr erhaltene Verschlussband geschrieben.</i></fa>.</p>
+</text>
+</brief>

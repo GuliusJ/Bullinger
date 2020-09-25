@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2114">
+<nr>2114</nr>
+<correspondents>
+	<originator>Martin Borrhaus</originator>
+	<addressee fn=1>[Bullinger]</addressee>
+	<note fn=1>Der Adressat geht allein schon aus den Grüßen des Briefes hervor: Dort sind die wichtigsten Zürcher Pfarrer angeführt, mit Ausnahme Bullingers, für den der Brief demzufolge bestimmt sein muss.</note>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>nach 16. März 1545]</date>
+	<note>Da der Brief bereits die Zürcher Antwort auf Luthers "Kurtz bekentnis" positiv beurteilt (unten Z. 19-22), ist er als Antwort auf oben Nr. 2106 zu anzusehen, auch wenn Borrhaus sich darin nicht ausdrücklich für Bullingers Zusendung bedankt.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 315 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopien 18. Jh.: Zürich ZB, Ms B 171, 97 (von H. K. Füßli); Ms S 57, 5 (eingeordnet Mitte März 1545); Regest: Backus, Borrhaus, Bibl. dissid. II 73f, Nr. 7 (datiert nach September 1544)^&x{
+<re>Keinem vortrefflichen Menschen gefällt Luthers "Kurtz bekentnis", zumal Luther Verstorbene angreift und seine von Gott erhaltenen Gaben zum Verwünschen gebraucht. Dadurch wird Luthers Schwäche offenbar, und man wird zur Demut und zur Anerkennung der Begabungen anderer ermahnt. Im Gegensatz zu Luther, der den Bau gefährdet, den Gott mit seinen Dienern zu errichten begonnen hat, zeichnet sich die Antwort [der Zürcher] durch Mäßigung aus. Man hat nämlich nicht Luthers gegenwärtige Virulenz in Betracht zu ziehen, sondern dessen frühere Verdienste.
+-^#. Borrhaus erklärt sich bereit, [den Zürchern] behilflich zu sein.
+-^#. Grüße an [Konrad] Pellikan, Theodor Bibliander, [Kaspar] Megander, [Rudolf] Gwalther u.a.</re>
+<tx>Gratiam et pacem a domino.
+^$Lutheri convitia<f1>Die in Luthers "Kurtz bekentnis" (s. oben Nr. 2061, Anm. 7) enthaltenen Schmähungen.<fe>, vir or[na]tissime<fx>^#/+Die Recto-Seite des Briefes weist Papierverluste am rechten Rand des Blattes auf. Die Textverluste wurden aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 57, 5) ergänzt.^#/-<fe>, bonis hominibus, ut par est, vehementer displi[cent], tum iis, quibus oportuit, tum illis etiam,
+quibus nunqu[am] putaramus, partim quod in mortuos<f1>Zwingli und Oekolampad.<fe> ille, quibus communis naturae sensus parcit,
+linguae suae virulentia[m] petulantius armavit, partim quod abusus tot et ta[m]
+praeclaris dei dotibus eum fastum in convitiando declaravit, quem nec aetas nec
+sacra professio et m[ul]to omnium minime gloria dei ferat, qui humilia r[es]piciens
+excelsa deiicit et humilia exaltat.<f1>Vgl. Hi 40, 6f; Ps 113 (Vulg. 112), 6-8; Jes 26, 5; 40, 4.<fe>
+Is<f1>Deus.<fe> itaq[ue] in Luthero humanae fragilitatis exemplum nobis proposuisse videtur,
+quo admoniti disceremus, quam cui[que] demisse de se sit sentiendum et de aliorum dotibus ac ornamentis aequius statuendum operaque danda,
+ut, quemadmodum unius illius amplissimi corporis m[em]bra sumus,<f1>Vgl. Röm 12, 4f; 1Kor 12, 12f. 27; Eph 5, 30.<fe> ita alii aliorum munera et dona,
+qu[ae] dominus ad mensuram donationis capitis Christ[i]<f1>Vgl. Eph 4, 7; Kol 1, 18.<fe> nobis
+largitur, quo admirabilis<fx>^#/+In der Vorlage^#/- admirabis.^#/+ -Simler korrigiert gleichermaßen.^#/-<fe> ecclesiae structura consumetur,<f1>Vgl. Eph 5, 25-27.<fe> pro virili adiuvemus.
+At vero, cum hoc aedificium Lutherus convellere studet,
+quod arch[i]tectus deus<f1>Hebr 11, 10.<fe> per ministros suos extruere coepit,<f1>Vgl. 1Kor 3, 9-15.<fe> responsio equidem vestra,<f1>Das "Warhaffte Bekanntnuß" der Zürcher, das kurz vor dem 12. März 1545 erschienen war (s. oben Nr. 2061, Anm. 9, und Nr. 2096-2103), und das Borrhaus mit Bullingers Brief oben Nr. 2106 erhalten hatte.<fe>
+quia prętermitti sine pietatis pe[ri]culo et ignominiae, quam ille aspersit, nota non pote[rit],
+aequum est, ut haec ipsa<f1>responsio vestra.<fe> a bonis iudicibus boni consula[tur]<fx>^#/+Durch den Verlust der rechten unteren Ecke des Blattes war im Jahr 2010 der Wortteil^#/- consula-, ^#/+der auf dem 1974 angefertigten Mikrofilm noch zu sehen ist, nicht mehr vorhanden.^#/-<fe> et ab iniquis patienter feratur.
+Arbitror enim<fx>enim ^#/+in der Vorlage nicht mehr vorhanden (s. oben Anm. c).^#/-<fe> [a] <vl>315v.</vl> vobis eam moderationem adhibitam esse in defendendo, quae
+evangelii professores deceat et modestos viros minime lędat et immodestos convincat.
+Non enim, quid in pręsens mereatur vehementia Lutheri in
+calumniando, sed quae pridem collatis ab eo<fx>ab eo ^#/+über der Zeile nachgetragen.^#/-<fe> beneficiis gratitudo debeatur, spectandum esse existimo.<f1>Vgl. Bucers ähnliche Ansicht in HBBW XIV, Nr. 2028, 69-84.<fe>
+^$Caeterum, quod ad me attinet, si quid ego pręstare possum, quod ad ecclesiae
+utilitatem et ad verbi dei dignitatem exornandam pertineat, studio et opera mea,
+quantum in me erit, ne desim, elaborabo curaboque, ut hac in parte voluntatem
+benemerendi mihi adesse pii intelligant.<f1>Borrhaus geht auf oben Nr. 2106, 13f, ein.<fe>
+^$Vale, vir ornatissime, cum clarissimisd. Pellicano, Theodoro Bibliandro,
+Megandro, Gwalthero et caeteris amicis et fratribus in domino charissimis.
+<un>Martinus Borrha-­
+<un>us vester.
+<lz>[Ohne Adresse.]
+^&xBullinger an [Bibliander], "Literis possum multo felicius..."; (Entwurf: Zürich ZB, Ms F 46, 52-54/55; gedruckt: Egli, Analecta II 139-141); [12. März??// um/nach 9. Juli 1545]; siehe Nr. 2189, [um/nach 9. Juli 1545].^&x{
+</content>
+</letter>

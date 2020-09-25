@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="688">
+<correspondents>
+	<originator>Peter Simler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Kappel</place>
+	<date>27. November 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 340, 71a (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Von Kappen-Hans weiss er, dass Bullinger in der folgenden Woche (*nach
+Kappel*) kommen will; er selber wird am Mittwoch in Zürich sein, so dass
+Bullinger am besten am Montag oder dann in der darauffolgenden Woche
+kommt.
+</statue>
+<content>
+Gnad unnd frid von gott.
+<p>Lieber her gfatter+1, Kappen Hanns+2 hett mir gseyt, ir wellint die wuchen+3 kommen, welches mich von hertzen fröwty. Ich versich mich+4 aber wol, ir komint nit vor zinstag. So thu^%n ich üch zewüssenn, das ich
+uff mitwuch, ob+5
+es der will gottes ist, wird gan Zürich ryten. Darumb, ob ir erst dann
+ouch welltind kommen, so sparents in die annder wuchen oder kommend uff
+mentag.</p>
+<p>Datum ze Cappell, samstags vor Anndree apostoli 1535.</p>
+<signature>
+Üwer williger
+Petrus Simler.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Dem wolgelerten, ersamen heren
+Meistern Heinrichen Bullinger, predicanten Zürich, minem lieben gfatter.
+</address>
+</content>
+<note>
++1>Vgl. oben Nr. 685, Anm. 1.
++2>Kappen-Hans, ein Knecht des Klosters Kappel (vgl. Matthias Ludwig
+<print>
+Senn,
+Johann Jakob Wick (*1522-1588*) und seine Sammlung von Nachrichten zur
+Zeitgeschichte, Diss. phil. Zürich 1973, S. 10), stammte aus Maschwanden
+(Kt. Zürich). Er erscheint bereits 1513 im Reisrodel des Zuges nach
+Dijon (vgl. Zürich StA, A 30 II, Nr. 37, 19r.).
++3>Gemeint ist die folgende Woche vom Sonntag, dem 28. November, bis
+zum Samstag, dem 4. Dezember 1535.
++4>Ich nehme an (SI VII 567f).
++5>wenn (SI I 53).
+</print>
+</note>
+</letter>

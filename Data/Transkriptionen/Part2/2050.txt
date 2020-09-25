@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2050">
+<nr>2050</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee fn=1>[Bullinger]</addressee>
+	<note fn=1>Der Empfänger geht mehrfach aus dem Inhalt des Briefes hervor.</note>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>nach dem 13. Dezember 1544]</date>
+	<note>Traugott Schieß datiert den Brief auf "December ca. 25" (s. auch unten Anm. g) und ordnet ihm irrtümlich eine Beilage zu, die um den 29. November 1544 geschrieben wurde (s. oben Nr. 2041). Am 13. Dezember konnte Blarer Bullinger zum ersten Mal Luthers "Kurtz bekentnis" zukommen lassen, doch nur als geliehenes Exemplar; am 5. Dezember hatte er aber Bullinger benachrichtigt, die Schrift in Augsburg bestellt zu haben (s. oben Nr. 2044, 35). Demzufolge wird Blarer die hier bezeugten Exemplare (Z. 13f) erst nach dem 13. Dezember erhalten haben. Die Angaben (Z. 1f. 25f), dass er gerade die "Brevis <gr>ăntibolh́</gr>" (s. oben Nr. 2010, Anm. 22) Bullingers erhalten habe und noch nicht dazu gekommen sei, diese zu lesen, schließt eine Einordnung des vorliegenden Briefes nach Blarers Briefen unten Nr. 2052, 2054 und 2056 nicht aus. Denn auch wenn Bullingers Schrift gegen Cochläus am Freitag, den 28. November schon beim Drucker, jedoch noch immer ungedruckt vorlag (s. oben Nr. 2040, 23f), und Letzterer auf der Titelseite und im Kolophon jeweils die Angaben "Mense Novembri" und "10. Novemb." anbrachte (das Kolophon-Datum ist wegen Bullingers zuvor erwähnter Angabe unmöglich), ist der Druck frühestens im Dezember 1544 und vielleicht sogar erst Ende Dezember entstanden, zumal die erste bekannte Rückmeldung zu dieser Schrift vom 28. Dezember 1544 (unten Nr. 2055, 42f), die anderen erst vom Januar 1545 datieren. Dieser Brief könnte jedoch dem nachgewiesenen Brief Blarers vom 18. Dezember (dessen Beilage unten Nr. 2052 veröffentlicht ist) entsprechen. - Zum Datum des hier beantworteten Briefes von Bullinger s. unten Anm. 6.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 611 (ohne Siegel)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 332f, Nr. 1153</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 105 (Brief) und 104 (Beilage), je im Januar 1545 eingereiht.^&x{
+<re>Blarer und sein Bruder [Thomas] danken Bullinger für die von ihnen noch nicht ausführlich gelesene ["Brevis <gr>ăntibolh́</gr>" gegen Cochläus].
+Viele hoffen, dass die Antwort auf Luthers ["Kurtz bekentnis"] nicht die alte Wunde wieder aufreißt; die Anstifter dieser Schrift werden sich vor Gott rechtfertigen müssen; möge die Bescheidenheit [der Zürcher] den Kirchen zum Vorteil gereichen; vielleicht sollte man für die Antwort eine kurze und eine längere Fassung planen.
+Der Streit der Berner Kirchendiener schmerzt Blarer; der Herr möge die Gemüter beruhigen, auf dass [die Kirche] nicht zum Gespött der Feinde Christi werde.
+Schickt ein Exemplar von Luthers ["Kurtz bekentnis"], da der [Augsburger] Bürgermeister [Hans] Welser eines der beiden an Blarer gesandten Exemplare für Bullinger bestimmte mit dem Wunsch, der Absender bleibe geheim und die [Zürcher] Widerlegung gedeihe christlich und freundlich.
+Der mit Arbeit überhäufte Blarer konnte sich leider kaum des jungen Boten Bullingers annehmen.
+Bitte um Bullingers Gebete und Grüße.
+Die zufällig entdeckte freundliche Erwähnung von Musculus in Bullingers ["Brevis <gr>ăntibolh́</gr>"] hat Blarer erfreut.</re>
+<tx>Pro exemplis responsionis tuę<f1>Bullingers "Brevis <gr>ăntibolh́</gr>"; s. oben Nr. 2010, Anm. 22. - Diese Angabe setzt einen nicht erhaltenen Brief Bullingers an Blarer voraus; s. auch unten Anm. 6. 10.<fe> maximas tibi gratias
+agimus frater et ego; nondum vacavit legere, sed gustus
+tamen ipse mirum in modum placet.
+^$De responsione ad L[utherum] multi supra modum solliciti
+sunt, ne<fx>ne ^#/+über der Zeile nachgetragen.^#/-<fe> intempestiviter recrudescat pristinum et male
+curatum vulnus;<f1>Vgl. oben Nr. 2028, 69-84; 2048, 4-8.<fe> sed viderint malorum authores, quibus
+rationibus cruenta ista consilia sua domino probent. Vestram
+modestiam spero plurimum ecclesiis commodaturam. Quid si
+conduplicata sit responsio: Altera brevior, quę
+satisfaciat tamen simplici - sed fastidioso interim lectori
+quęque vendibilis sit -; altera vero prolixior? Sed tute
+melius omnia.<f1>Aber du selbst [wirst] alles besser [beurteilen können] (zur Auslassung von Verben wie "iudicare" s. Hermann ^#/+Menge,^#/- Repetitorium der lateinischen Syntax und Stilistik, Leverkusen 1953, §551.3, S. 382).<fe>
+^$Bernates ministros sic invicem committi, ah quam dolet
+visceribus meis; dominus suo iussu omnia quamprimum serenet<fx>serenet ^#/+korrigiert aus Wortansatz ^#/-f[eliciter].<fe>
+et feliciter expediat, ne hostibus Christi ludibrio istis
+nostris intestinis seditionibus fiamus.<f1>Zu den Auseinandersetzungen in Bern s. zuletzt oben Nr. 2039. - Offensichtlich wurde der hier beantwortete Brief Bullingers noch vor Eintreffen der guten Nachricht des Briefes Nr. 2051 vom 17. Dezember 1544 verfasst.<fe>
+^$Mitto ad te exemplar L[utheri] confessionis<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 1971, Anm. 20.<fe>;
+duo enim misit
+consul noster Welserus<f1>Der Augsburger Bürgermeister Hans Welser. - Welsers Brief an Blarer ist nicht erhalten. - Vgl. ferner oben Nr. 2044 mit Anm. 15.<fe>, qui iussit, ut alterum tibi mittam
+suoque nomine plurimam salutem<fx>^#/+Vor^#/- salutem ^#/+gestrichenes^#/- tibi.<fe> adscribam; cupit autem magnas
+ob caussas, ne quis resciscat tibi a se missum libellum. Ita
+scribit ad calcem: "Ain feine, christliche, früntliche
+antwurt solt by vyl gelerten und ungelerten nitt ubel
+thain<f1>übel tun.<fe>."
+^$Ego sic sum negociis hoc tempore iactatus, ut nihil plane
+bono adulescenti<f1>Unbekannter junger Überbringer von Bullingers Brief.<fe> officii aut beneficii praestare, adeo vix salutare<fx>adeo vix salutare ^#/+am Rande nachgetragen.^#/-<fe> potuerim.
+Quare per Christum te obtestor, ut ne
+istuc vel neglectui, minus vero contemptui erga tuos tribuas
+nuncios; sarciam abunde alias, ubi primum dabitur occasio.
+^$Tu me fideli conditori<f1>fideli conditori: Vgl. Blarers Brief an Bullinger vom 30. November 1541, HBBW XI 352, 29.<fe> per Christum filium christianice
+semper commenda. Saluta totam tuam domum cum fratribus
+administris. Salvere te iubent nostri omnes, cumprimis
+germanus frater<f1>Thomas Blarer.<fe>.
+^$Vehementer arridet in Responsione tua Musculi nostri tam amica mentio<f1>Vgl. Heinrich ^#/+Bullinger,^#/- Brevis <gr>ănti­bolh́</gr>, Zürich 1544, f. 29v.<fe>, quam forte fortuna legi.
+Ordine et diligenter mox<fx>mox ^#/+über der Zeile nachgetragen.^#/-<fe> omnia lecturus.
+^$Christus te conservet, mi venerande multumque charissime frater. Es
+steht und<fx>und ^#/+korrigiert aus^#/- e[s].<fe> blybt stehn in alten rechten ymer und ewigklich.
+<un>Tuus A. Bl.<fx>^#/+Neben der Unterschr.ift von Traugott Schieß' Hand (s. aber oben Anm. 2):^#/- 1544 Dec. ca. 25.<fe>
+<lz>[Ohne Adresse.]
+</content>
+</letter>

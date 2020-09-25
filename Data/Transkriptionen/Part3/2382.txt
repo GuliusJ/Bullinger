@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2382">
+<brief>
+<id>16072</id>
+<nr>2382</nr>
+<ae>Christian Hochholzer an Bullinger</ae>
+<od>Aarau, 17. März 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 334 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 138</k></dr>
+<re>Hochholzer will den mit immer mehr Arbeit belasteten Bullinger nicht mit vielen Worten aufhalten. Er und seine Kollegen haben sich über Bullingers Brief [nicht erhalten] gefreut.
+<t/>Hoffentlich wird jetzt, nach Luthers Tod, der umsichtige, treue [Philipp] Melanchthon das, was zur Wiederherstellung der Wahrheit und zur Festigung der kirchlichen Einheit dient, nach der apostolischen Regel reformieren.
+<t/>Bullinger möge Hochholzer durch den [Briefüberbringer, den Aarauer] Buchhändler [Hans Stuber], seine Notizen zu Theodor [Biblianders] Genesis-Vorlesungen schicken. Hochholzer würde sie nach wenigen Tagen zurücksenden. Falls aber Bullinger den ganzen Band auch für kurze Zeit nicht entbehren kann, bittet Hochholzer um die entsprechenden Aufzeichnungen [Rudolf] Gwalthers. Hochholzer hätte diesem geschrieben, wäre er nicht überzeugt gewesen, dass Bullinger ihm seine Notizen ausleihen würde. Hochholzer hat nämlich vor, über das Buch Genesis zu predigen. Für dieses ehrgeizige Vorhaben will er keine Mühe scheuen. Vielleicht ist ihm dabei sogar noch mehr Erfolg beschieden als bisher, obwohl er sich auch bis jetzt schon einiges Lob vonseiten der Kirche verdient hat.
+<t/>Grüße an Gwalther, an die übrigen [Kollegen] und an Bullingers Familie. Hochholzers Frau [Agathe, geb. Näf] lässt auch Bullingers Familie grüßen.</re>
+<text>
+<p>Gratiam et pacem a domino. <zzl>zl2382-1A</zzl>Cum te indies magis ac magis negociis onerari haud me lateat, domine et pater colende, verbosior esse nolo,<zzl>zl2382-1E</zzl> praesertim cum nulla sint, de quibus ad te scribam. Literae tuae proxim{e}
+<fn>Nicht erhalten.</fn> periucund{e} non solum mihi, sed et aliis fratribus fuere.</p>
+<p>Lutherum mortuum esse audimus. <zzl>zl2382-2A</zzl>Speramus eo sublato Melanchthonem pro singulari sua prudentia, fide et sinceritate plurima nunc, qu{e} hactenus ad tempus ut oeconomus fidelis in domo domini pro temporis ratione tulit vel dissimulavit,
+<fn>Hochholzer verbindet hier irrtümlicherweise Mt 24, 45, und Lk 12, 42, mit Lk 16, 1-8.</fn> haud parum ad veritatis lucem restaurandam ecclesiaeque unitatem confirmandam factura, et mutaturum ad apostolicamque regulam reformaturum.<zzl>zl2382-2E</zzl> Caeterum tu ipse iam nosti olim, qualis sit. Omitto h{e}c.</p>
+<p>Venio nunc ad eam clausulam, qua semper vel plerumque uti soleo, dum ad te literas exaro, videlicet, ut petiturus a te aliquid veniam; idque eo confidentius facio, quo mihi certius persuasum habeo te mihi nihil pro solita tua erga me et humanitate et benignitate negaturum. <zzl>zl2382-3A</zzl>Rogo itaque, si potest tua pace fieri, mittas ad me per hunc nostrum bibliopolam
+<fn>Wohl der Buchbinder Hans Stuber von Straßburg, der am 7. Juli 1540 in Aarau als Einwohner ohne Bürgerrecht aufgenommen wurde; s. Aarau StA, II.26, S. 75 (wir danken Herrn Raoul Richner vom Staatsarchiv Aargau für diesen Hinweis). 1565 zog Stuber nach Bern; s. Johann <i>Lindt,</i> Die Buchbinder Stuber in Bern, Bern 1974 - Bibliothek des Schweizerischen Gutenbergmuseums 32, S. 3.<zfn>fn2382-1</zfn></fn>, qu{e} collegisti iam ultimo in d. Theodori
+<fn>Theodor Bibliander.</fn> lectionibus in Genesim.
+<fn>Bullingers Notizen zu Biblianders Genesis-Vorlesung vom 27. Oktober 1544 bis 12. Dezember 1545 mit einzelnen Stellen von Gwalthers Hand (Zürich ZB, Ms Car I 109-110); s. <a>Gagliardi/Forrer</a> 1611.</fn> Paucissimis, quam potest fieri, diebus omnibus postpositis rescribam tibique restituam. Quod si carere nunc non potes integro volumine aliquot diebus, velim d. Gvaltheri ex iisdem lectionibus
+<fa><i>In der Vorlage</i> lectionis.</fa> collecta
+<fn>Rudolf Gwalthers Notizen zu Biblianders Genesis-Vorlesung mit Datierung des Beginns und des Schlusses (Zürich ZB, Ms D 27-29); s. <a>Gagliardi/Forrer</a> 403. - Wir danken Herrn Kurt Jakob Rüetschi für diesen Hinweis.</fn> mihi concedi, ad quem de eadem re, nisi persuasum habuissem te mihi tua daturum, scripsissem. Si potest fieri, tam rogo, quam qui maxime in hoc quemadmodum et in caeteris hactenus non deesse mihi velis.<zzl>zl2382-3E</zzl> Statui enim pro concionibus publicis Genesim ecclesi{e} pro virili explicare. Magna conor. Caeterum tanto minus laboribus parcam domino iuvante pro dono mihi benignitate larga domini concesso. Quod potero, faciam, ut hactenus feci, et fortassis iam faeliciori cum successu, quamvis ita laborarim in vinea domini
+<fn>Vgl. z.B. Mt 20, 1-16.</fn> gratia dei praesente, ut, si non maximas laudes meritus sim, tamen ecclesi{e} iudicio haud postremas obtineam.</p>
+<p>Plura nunc non licet pro temporis angustia, nec etiam res postulat. Vale in domino. Salutem dicito domino Gvalthero et reliquis totique tuae famili{e}, quam et uxor mea
+<fn>Agathe, geb. Näf.</fn> salvam cupit. Aarovi{e}, 17. martii 1546.</p>
+<un>Tuae humanitati deditissimus Chris-­</un>
+<un>tianus Hochholzer.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, Tigurin{e} ecclesi{e} antistiti vigilantissimo, domino tanquam patri suo plurimum colendo.</p>
+</text>
+</brief>

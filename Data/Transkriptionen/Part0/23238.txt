@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="23238">
+<nr>23238</nr>
+<correspondents>
+	<originator>Johannes Calvin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>22. November 1553</date>
+</space_time>
+<vo>Zürich StA, E II 24, 19. / Orig.</vo>
+<dr>Ep.Calv. 1854 (XIV, 671).</dr>
+<re></re>
+<note></note>
+S.  Brevi, ut spero, pleniores a me recipies literas. Fidum
+tamen hominem nactus, per quem tibi librum Serveti mitterem,
+occasioni deesse nolui. Si quid mihi relaxationis concessum
+fuerit, brevi libello quale monstrum fuerit ostendam, ne
+improbi (quod fieri Basileae audio) maledicere pergant: ne
+etiam obmurmurent imperiti. Vale, optime vir, et ex animo
+mihi observande frater, cum familia tua et collegis. Dominus
+vos tueatur et regat semper. Genevae  22. novembris 1553.
+Ioannes Calvinus tuus.
+Ornatissimo virod. Henrico Bullingero
+</content>
+</letter>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1545">
+<nr>1545</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>13. Juli [1541]</date>
+	<note>Der Brief trägt das Jahresdatum 1540, ist aber aufgrund des Inhalts zweifellos ins folgende Jahr anzusetzen.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 451 (Siegel)</vo>
+<re>Die Situation in Ungarn soll bei weitem schlechter sein, als gemeinhin angenommen wird; Ferdinand [I.] ist nach Regensburg gereist, um seinen Bruder, Kaiser [Karl V.], und die Stände um Unterstützung zu bitten. Über die Niederlage [vor Buda] kursieren viele Gerüchte; die Lage könnte sich noch
+verschlimmern; die Informationen über den Prager Brand haben sich bestätigt; die durch den Brand erfolgte Zerstörung der [böhmischen] Landtafel ist als Prodigium zu werten. Unlängst ist die bei Prag gelegene Silbergrube Kuttenberg eingestürzt, was viele Opfer forderte. Grüße.</re>
+<tx>[Gedruckt: Vadian BW VI 51, Nr. 1186.]
+<tx>S. Cum idoneum nuncium nactus essem nec haberem tamen
+fere quicquam, quod scriberem, non potui tamen ad te, quocum
+scribendo colloqui ac velut commentari videor, quin
+scriberem intermittere. Huic caussae et haec accessit, ut
+tuas elicerem, quas nuperis literis tuis nobis promisisti.
+^$Audimus hic rumore satis firmo, Pannoniam alteram flagrare
+bello longe peiori[!], quam vulgus sentit; venisse autem
+Ratisbonam cursu publico Ferdinandum et supplicem implorasse
+cum fratrem caesarem, tum ordines reliquos. Praepropera
+illius consilia parum ei hactenus auspicata fuere. De clade
+vero accepta et luxato illius exercitu multa fama est, et
+quia Turcica manus ingens nostris imminet nec, cautis satis
+nec fortibus, veremur, ne deterrima futura sint, quae erunt
+postrema.
+^$De Praga quod scribis et ego admonebam, certum est, et
+prodigii loco habent Bohemi omnes. Nam et tabula illa legum
+constitutionumque regni totius, quam vulgo die Landtafell
+^&x vgl. DRW! ^&x{
+vocant, liber, inquam, sacro illis sanctus habitus atque
+ideo in archivo regiae arcis asservatus, et ipse incendio
+absumptus est. Et nuperrime argentifodina, quam vocant zum
+Kuttenberg, 8. miliario a Praga, tota corruit et subsedit,
+multorum hominum clade.
+^$Vale et collegium meo nomine [saluta]. Si quid nostratium
+tabularii attulerint, confestim scies.
+^$Sangalli, 13. iulii anno 1540[!]+h{.
+<un>Tuus Vadianus.
+<lz>[Adresse ......:] Doctissimo viro
+domino Henrycho Bullingero, clarissimę ecclesię
+Tigurinę episcopo, domino suo colendo.
+^&x+h^#/+Vadian schrieb in Eile ^#/-MDXL^#/+ statt
+^#/-MDXLI^#/+. Vgl Anm. 1.^#/-^&x{
+</content>
+</letter>

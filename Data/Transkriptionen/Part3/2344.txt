@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2344">
+<brief>
+<id>16034</id>
+<nr>2344</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>Konstanz, 3. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 157 (Siegelabdruck)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 415, Nr. 1248<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 61; Zit:. J. Vienot: Hist. de la Réforme dans le Pays de Montbéliard I, 49. 135. </k></dr>
+<re>Bullinger wird Blarers letzten Brief [<qv>nr2335</qv>] erhalten haben, dem nichts hinzuzufügen ist, außer dass [Peter] Buffler kürzlich schrieb, dass [Johann von] Naves, [Reichstags]kommissar [Karls V.], vom Grafen von Fürstenberg in der Nähe von Frankfurt gefangen genommen worden sei; wobei er aber nicht schreibt, ob es sich um Friedrich oder Wilhelm von Fürstenberg handelt, noch, aus welchem Grund, und ob dies im Namen des Kaisers [Karl V.] geschah. Außerdem soll der Fürst [Karl III.] von Savoyen mit 10'000 Spaniern von [Franz I.] getötet worden sein.
+<t/>Was [Matthias] Erb an Bullinger schrieb [<qv>nr2333</qv>], hat Blarer vor anderthalb Monaten von [Hans] Kaspar von Anwyl, dem Obervogt von Balingen, erfahren. Pierre Toussain wurde von [Simon] Grynäus und Blarer vor etwa zehn Jahren als Lektor in das Kloster Blaubeuren in Württemberg berufen und dann vom Fürsten [Ulrich von Württemberg] als Pfarrer nach Mömpelgard gesandt. Er ist ein frommer und gelehrter Mann, der sehr unter den Papisten leiden musste. [Ulrich] verdient Lob für seinen Abscheu gegen den Aberglauben. Seine Einstellung gefällt Blarer trotz mancher Mängel sehr.
+<t/>Bullingers Zeugnis für Konrad [Hofherr] macht Blarer Freude. Hofherr, der [in Konstanz] eine gute Predigt gehalten hat, lobt Bullingers väterliches Wohlwollen. Über [Jakob] Metzler hat Blarer kürzlich geschrieben [<qv>nr2335</qv>]; wenn dieser sich nicht ändert, wird er kaum die in ihn gesetzten Erwartungen erfüllen.
+<t/>Grüße, auch an [Rudolf] Gwalther, Theodor [Bibliander], [Konrad] Pellikan und [Erasmus] Schmid. [Thomas Blarer] ist noch nicht [vom Frankfurter Bundestag] zurückgekehrt.</re>
+<text>
+<p>S. Ego vero non dubito, quin meas
+<fn><qv>nr2335</qv> vom 27./28. Januar 1546.</fn> iam acceperis, mi venerande et charissime Bullingere; quibus nihil est, quod in praesentia addam, nisi quod Buflerus
+<fn>Peter Buffler.</fn> heri ad me scripsit
+<fn>Nicht in <a>Blarer BW</a>.</fn> d. Navis
+<fn>Johann von Naves, Reichsvizekanzler.</fn>, caesaris
+<fn>Karl V.</fn> commissarium, a comite a Furstenberg captum haud procul a Francofordia. Interim autem non scribit, uter ex comitibus, Federichus an Gulielmus,
+<fn>Friedrich II. oder Wilhelm von Fürstenberg.</fn> istuc fecerit aut quas ob caussas, nec etiam cuius nomine, suopte an caesaris.
+<fn>Ein Gerücht.</fn> Affirmat deinde Sabaudi{e} principem
+<fn>Karl III. von Savoyen.</fn> cum 10'000 Hispanis militibus a Gallo
+<fn>Franz I.</fn> trucidatum;
+<fn>Ein Gerücht.</fn> id quod mihi nondum fit verisimile. Certiora nos tempus docebit.</p>
+<p>Qu{e} Erbius
+<fn>Matthias Erb.</fn> ad te scripsit
+<fn>Im Brief vom 24. Januar 1546 (<qv>nr2333</qv>), aus dem Bullinger am 30. Januar an Blarer berichtete; s. <qv>nr2340</qv>,<qv>zl2340-1</qv>.</fn>, ante sesquimensem ex nobili Caspare ab Anwyl
+<fn>Der Thurgauer Hans Kaspar von Anwyl, geb. ca. 1509, gest. 12. Oktober 1562, von 1537 bis 1553 württembergischer Obervogt von Balingen; s. Emil <i>Egli,</i> Ritter Franz Jakob von Anwyl, thurgauischer Edelmann und Verehrer Zwinglis, in: <a>Zwa</a> 2/2, 1905, 50; <a>Pfeilsticker</a> I 1293; II 2162. 2322. 2875 (dort "Anweil").</fn>, qui Balingensi provinci{e} praefectus est, rescivi
+<fn>Brief nicht in <a>Blarer BW</a>.</fn>. Petrus Tossanus ante hoc decennium
+<fn>Wohl 1534.</fn> a Gryn{e}o
+<fn>Simon Grynäus.</fn> et me in Wirtembergensem ditionem monachis Blauburensis c{e}nobii
+<fn>Blaubeuren.</fn> praelecturus vocabatur;
+<fn>Siehe Theodor <i>Keim,</i> Ambrosius Blarer. Der schwäbische Reformator, Stuttgart, 1860, S. 75; <a>Viénot</a> I 49.</fn> quem princeps
+<fn>Ulrich von Württemberg.</fn> deinde
+<fn>Im Sommer 1535; s. <a>Viénot</a> I 53.</fn> ad Montbelgardum, ut ecclesi{e} illic ministraret, misit. Vir est ardentissimo dei zelo flagrans, solide
+<fa><i>In der Vorlage</i> solid{e}.</fa> doctus, qui pro Christi nomine a papistis indigna valde pertulit. Laudandus omnino senior princeps, quod tantum ab omni superstitione abhorreat; quo mihi nomine semper et impendio placuit illius animus, quantumvis multa sint, qu{e} in ipso desiderantur.</p>
+<p>Quod Conrado Curioni
+<fn>Konrad Hofherr.</fn> nostro tam plenum fers testimonium,
+<fn><qv>nr2340</qv>,<qv>zl2340-2</qv>.</fn> maximopere me exhilaravit. Ille vicissim tuam erga se non vulgarem benevolentiam et animum plane paternum mire depraedicat, ut maximas tibi huius caussa gratias debeam, per Christum te obsecrans, ut porro quoque, quod hactenus fecisti, facias. Ita enim de illius profectu nihil quicquam dubitarim. Magna hic gratia ecclesiam nostram domini verbo salutavit, ut non p{e}nitenda mihi de illo pollicear, si vestris consiliis (quod sancte se facturum recepit) paruerit, quando vestr{e} rigationi c{e}leste incrementum deesse haudquaquam poterit
+<fn>Vgl. 1Kor 3, 6f.</fn>. De Mezlero
+<fn>Jakob Metzler.</fn> proxime ad te scripsi.
+<fn>Nämlich <qv>nr2335</qv>,<qv>zl2335-2</qv>.</fn> Vereor autem, ut prim{e} expectationi facturus sit satis, nisi alium hominem quamprimum induat
+<fn>Vgl. Kol 3, 9.</fn>.</p>
+<p>Tu bene vale, anime mi, venerande et plusquam charissime frater, cum tota tua domo, quam mea vice unice iubebis salvere cum omnibus fratribus et amicis, Gvalthero, Theodoro
+<fn>Theodor Bibliander.</fn>, Pellicano, Fabricio
+<fn>Erasmus Schmid.</fn>, etc. Salutant te seque tibi commendant nostri, praecipue Zviccius noster
+<fn>Konrad Zwick.</fn>. Frater
+<fn>Thomas Blarer.</fn> nondum rediit
+<fn>Zur Rückkehr Thomas Blarers vom Schmalkaldischen Bundestag in Frankfurt s. <qv>nr2354</qv>,<qv>zl2354-1</qv>.</fn>. Ora pro nobis diligenter.</p>
+<p>Constantiae, 3. februarii 1546.</p>
+<un>Tuus Ambr. Bl.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro domino Heinricho Bullingero, incomparabilis candoris et constanti{e} amico.
+<fn>Der Brief wurde durch Konrad Hofherr übermittelt; s. <qv>nr2366</qv>,<qv>zl2366-2</qv>.</fn></p>
+</text>
+</brief>

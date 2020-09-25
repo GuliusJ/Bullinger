@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2834">
+<brief>
+<id>17101</id>
+<nr>2834</nr> <from persid="ClaudiusMatthias"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1547-03-03"/>
+<ae>Matthias Claudius an Bullinger</ae>
+<od>[St. Gallen], 3. März 1547</od>
+<vo>Autograph: Zürich StA, E II 356, 65 (Siegelspur)<k>(Keine Simler-Abschrift)</k></vo>
+<dr>Ungedruckt</dr>
+<re><t>Claudius dankt für Bullingers freundlichen Brief [nicht erhalten]. Bullinger hätte sich doch nicht für sein längeres Schweigen entschuldigen müssen. Claudius weiß ja, wie beschäftigt er ist, und zweifelt auch nicht an seinem Wohlwollen. Claudius ist schon froh zu wissen, dass seine unbedeutenden Briefe als Zeichen seiner Zuneigung für Bullinger wahrgenommen werden. Er liebt nämlich den Umgang mit Gelehrten, besonders mit solchen, die sich wie Bullinger um die Kirche verdient machen.</t>
+<t>Zweck des vorliegenden Briefes ist es nur, Bullinger zu bitten, den beigelegten Brief an Francisco de Enzinas weiterzuleiten. Grüße.</t>
+<t>[P.S.:] Claudius' Dienstherr, Hieronymus Sailer, lässt grüßen und bittet um allfällige Nachrichten, u.a. über die Tagsatzung zu Baden.</t></re>
+<text>
+<div>
+<p><zzl>zl17101-1A</zzl>Accepi perhumanas tuas literas
+<fn>Nicht erhalten. - Siehe <qv>nr2819</qv>, <qv>fn17063-9</qv>.</fn>, in quibus silentium intermissi scribendi offitii excusas, quod, hercle, apud me non fuisset opus.<zzl>zl17101-1E</zzl> <zzl>zl17101-3A</zzl>Scio enim, quantis quibusque negotiis occupatus sis, ut nihil dubitem de tua erga amicos observantia. Hoc tantummodo a te expetendum mihi videor, ut meas
+<fa><i>In der Vorlage</i> mea.</fa> benigne admittas et legas; quae quamvis te dignum nihil habeant, tamen signa mei erga te amoris eas esse volo; nam mihi quidem nihil iucundius et antiquius quam virorum doctissimorum - eorum praesertim, qui de ecclesia bene meriti sunt (in quorum numero tu hisce temporibus facile princeps es)
+<fa><i>Klammern ergänzt.</i></fa> - consuetudinem habere.<zzl>zl17101-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17101-4A</zzl>Nec nunc hae quicquam novi continent, nisi ut coniunctas literas domino Dryandro
+<fn>Francisco de Enzinas.</fn> mittas et in Christo valeas.<zzl>zl17101-4E</zzl> 3. martii 47.</p>
+<un>Mathias Clodius</un>
+<un>tuae humanitati deditus.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17101-5A</zzl>Salutat te quam offitiose dominus
+<fn>Hieronymus Sailer.</fn> et rogat, si quid habeas de comitiis Badensibus
+<fn>Die am 28. Februar begonnene Tagsatzung; s. <qv>nr2817</qv>, <qv>fn17084-1</qv>.</fn> aut aliis de rebus, eum certiorem fatias.<zzl>zl17101-5E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Venerabili viro Heinrico Bullingero, Tyguri a concionibus, domino et amico suo observandissimo. Tyguri.</p>
+</div>
+</text>
+</brief>

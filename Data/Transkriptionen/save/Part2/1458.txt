@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1458">
+<nr>1458</nr>
+<correspondents>
+	<originator>Heinrich Lüthi</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Winterthur]</place>
+	<date>1. Februar 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 441, 36 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Beglückwünscht Bullinger zur Geburt seines Sohnes [Diethelm] und übersendet ihm als bescheidenes Geschenk zwei Hühner und fünf Drosseln.
+</re>
+<tx>Domino Heinricho Bullingero H[einrichus] Lutius s[alutem] d[icit].
+^$Quod nova auctus es prole idque sane filio<f1>Am 12. Januar 1541 war Bullingers Sohn Diethelm zur Welt gekommen; s. HBD 28, 31f.<fe>, ni fallor, tibi
+equidem plurimum congratulor. Puero opto felicitatem
+maximam, tibi vero parenti fore filium obsequentissimum,
+deos precor immortales, quorum beneficio favore­que fiat, [u]t<fx>[u]t ^#/+am Rande nachgetragen, Wortanfang im Einband verdeckt.^#/-<fe>
+filius iste tuus parentem cum pietate tum doctrina pulchre
+aliquando referat, exprimat per omnia tanquam vivum<fx>^#/+In der Vorlage^#/- vium.<fe> exemplar
+itaque tanto parente dignus reddatur filius. Puerpere muneri
+mitto galinas duas, turdos quinque, donum equidem parvi
+momenti, si id ab ipsius rei magnitudine estimes, multo vero
+maximum, si animum eius, qui dat, spectes, tibi, ita me dii
+bene ament, addictissimum, devinctissimum adeoque quavis in
+re tibi gratificandi propensissimum. Id ipsum me hercle
+vicissim mihi de te polliceri ausim.
+^$Vale et vive quam diutissime idque salubriter.
+^$Anno 1541, calendis februariis.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho
+Bullingero, Thigurinorum ecclesiaste vigilantissimo
+doctissimoque, domino suo ac fratri cum primis observando.
+</content>
+</letter>

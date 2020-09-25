@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="928">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>(*Zürich*)</place>
+	<date>16. Dezember 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 347, 80 (Siegelabdruck)</record>
+<print>Ungedruckt</print>
+<statue>
+Kann diesmal, zusammen mit Leo (*Jud*), (*der von Basel
+vorgeschlagenen Abänderung des Schreibens an Luther*) zustimmen, verlangt
+aber, dass auch der Berner Rat angefragt wird. In Konstanz,
+wo Thomas Blarer zum Bürgermeister gewählt wurde, regt sich
+Widerstand gegen das Drängen der Strassburger auf Unterzeichnung
+(*der Wittenberger Konkordie*). Die Drohung der Basler, notfalls allein
+vorzugehen, stösst in Zürich auf Unverständnis; die Gegner warten
+nur auf eine solche Spaltung. Bittet um Weiterleitung einer Frage
+an Grynäus, sendet Grüsse und legt einen Brief an Bucer bei.
+</statue>
+<content>
+Gratiam et pacem a domino.
+<p>Impetrastis, quod petistis+1, quia haec, quae nunc reddidistis, multo sunt circumspectiora (ut non fuerit Leoni+2 et mihi grave in ipsa consentire ipsaque recipere), quam fuerint priora+3. Cum libere mecum
+agis et mones, non est, quod praefari pergas et veluti deprecari culpam.
+Libenter recipio fratrum liberas admonitiones.
+Tuum erit curare, ne quid insciis Bernensibus fiat+4. Non iam dico
+fratres, hoc est verbi ministros, sed senatores. Nolunt isti se
+praeteriri.
+Faxit dominus, ut induratus Lutheri suorumque animus nos ferat, nolo
+iam dicere, nostra recipiat.</p>
+<p>Fratres Argentinenses satis acerbe agunt cum Constantiensibus+5. Ibi nunc Thomas Blaurerus consul designatus est. Nolunt isti sic compelli ad subscriptionem; ea libertate uti volunt, qua vident
+ecclesias Helveticas esse usas.</p>
+<p>Nollem autem, quis apud nostros sciret, quam promptis animis ad rem tam exilem discessionem a nobis minitemini+6. Libere, quod sentio, dicam. Non potui non commoveri, et etiamnum
+commoveor. Nec scio, quid fecisset senatus, nisi Leo et ego summis
+conatibus egissemus negotium. Si vel tantillum huius percepissent,
+nescio, quid actum esset. Nosti nostra ingenia. Obsecro, eum vobis erga
+nos animum habetote inditum, qualem videtis nos erga vos gerere. Mors
+nulla nos dividet. Et tamen scio iactare quosdam Basileienses in solidum
+consentire, reliquos non item+7. Invenias, qui dicant: "Utinam non
+recipiat Lutherus id responsi! Priusquam enim Basileienses istum
+offenderint, recipient+a articulos adeoque subscribent+b. Sic autem
+findemus, quos hactenus vidimus coniunctissimos." Haec tibi in sinum.
+Nosti me. Nosti, quali sim erga vos animo praeditus.</p>
+<p>Iam vale et schedulam hanc+8 Gryneo dato, ut mihi respondeat, qualia sint folia anabuli+9. Salutem illi ex me dicito et reliquis fratribus.</p>
+<p>Bucero has+10 deferri curato.</p>
+<p>l6. decembris 1536.</p>
+<signature>
+Tuus H. Bullingerus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Praestantissimo viro d. Osvaldo
+Myconio, Basileien(*sium*) antistiti vigilantissimo, suo in domino fratri.
+</address>
+</content>
+<note>
+.us; +a>recipient  korrigiert aus  receperint.
+<print>
++b>subscribent  korrigiert aus  subscripserint.
+</print>
+<address>
++1>Der Zürcher Rat stimmte am 16. Dezember der von Basel
+vorgeschlagenen Änderung des Schreibens an Luther zu; vgl. oben Nr.
+926, 1-26, und WA Briefwechsel XII 244.
++2>Leo Jud.
++3>Siehe oben Nr. 924.
++4>Die auch im Schreiben Zürichs an Basel ausdrücklich genannte
+Bedingung scheint nicht erfüllt worden zu sein; s. WA Briefwechsel XII
+244.
++5>Vgl. Zwicks Bericht vom 30. November (oben Nr. 921, 27-58).
++6>Vgl. oben Nr. 924, 20-22, und
+926, 20f.
++7>Vgl. oben Nr. 921, 7f.
++8>Nicht erhalten.
++9>Ein Pflanzenname; vgl. Mittellateinisches Wörterbuch bis zum
+ausgehenden 13. Jahrhundert, Bd. I, München 1967, Sp. 604 (anabulla).
++10>Das am 13. Dezember in einem Brief Bullingers an Vadian
+angekündigte Schreiben an Bucer ist nicht erhalten (vgl. oben Nr.
+927, 24).
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

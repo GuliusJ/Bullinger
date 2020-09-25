@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2838">
+<brief>
+<id>17105</id>
+<nr>2838</nr> <from persid="KellerMichael"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-03-05"/>
+<ae>Michael Keller an Bullinger</ae>
+<od>Augsburg, 5. März 1547</od>
+<vo>Autograph: Zürich StA, E II 346, 216 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 135; Lit.: Augsburgs Ref'g III 473f (Anm. 114) und 546</k></dr>
+<re><t>Keller sieht sich durch das unglückliche Kriegsende gezwungen, seinen lieben Kollegen Rudolf Schwyzer d. Ä. zu verabschieden. Dieser war eine Zierde der Augsburger Kirche, denn er war sowohl in der Lehre als auch im Lebenswandel vorbildlich. Dies können die Amtskollegen, der Rat und das Volk bestätigen, wie auch Keller, zumal Schwyzer ihm im Kirchendienst beistand. Falls dieser also in Zürich verunglimpft werden sollte, soll Bullinger ihn in Schutz nehmen. Zudem möge Bullinger für die in ihrer Erhabenheit schwer getroffene Stadt Augsburg beten und seine Kollegen grüßen.</t>
+<t>Das Übrige wird in einem gemeinsamen Brief des Augsburger Pfarrkapitels [<qv>nr2839</qv>] stehen. Georg Frölich lässt grüßen und wird vielleicht auch schreiben.</t>
+<t>Mit dem Frieden zwischen Augsburg und Kaiser Karl V. ist alles in der Schwebe. Der Kaiser reiste am Vortag aus Ulm ab und strebt mit Soldaten und Kriegsgerät in Richtung Nürnberg. Offenbar will er Herzog Moritz von Sachsen, der in Zwickau von den Truppen des Kurfürsten Johann Friedrich von Sachsen eingekesselt ist, zu Hilfe kommen.</t>
+<t>Der Herr schütze seine Kirche. [Die deutschen Protestanten] mussten hohe Verluste hinnehmen, um mit David sagen zu können, dass den Fürsten nicht zu trauen ist und Hilfe allein vom Herrn kommt.</t>
+<t>Grüße. Geschrieben im Haus bei St. Anna.</t></re>
+<text>
+<div>
+<p><vl>216v.</vl> <zzl>zl17105-1A</zzl>S. Infoelix, proh dolor, belli eventus, doctissime Heinrichi, foecit, ut dilectum meum in domino symmistam Rudolphum
+<fn>Rudolf Schwyzer d.Ä.</fn> licet aegerrime dimittere coactus fuerim. Nam dexteritate doctrinae et
+<fa><i>Über der Zeile nachgetragen.</i></fa> synceritate puritateque vitae ita conspicuus ecclesiae nostrae ornamento fuisset. Id enim testimonii non solum a fratribus, sed et a senatu totaque plebe abunde habiturus est. Proinde et ego haec ad te, fratrem et dominum meum suspiciendum, scribere volui, ut Rodolphum, in ministerio mihi additum, doctrina vitaeque inn[o]centia
+<fa><i>Text im engen Einband verdeckt.</i></fa> magis cognitum, hoc veritatis testimonio ornatum ad te amandarem. Hunc igitur, a nevo si aliquo isthic
+<fa><i>Über der Zeile nachgetragen.</i></fa> aspersus est
+<fa><i>In der Vorlage</i> esse.</fa>, vindices, obtestor, et deum pro Augusta, quae nunc ipsissima augustia
+<fn>Dieses erschaffene Wort (aus einem Wortspiel mit Augusta, Augsburg) ist hier als "Erhabenheit" zu verstehen.</fn> tacta, iugiter cum tua ecclesia orato fratresque et symmistas in domino dilectos officiose ex me salutato.<zzl>zl17105-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17105-2A</zzl>Reliqua ex communi nostri conventus scripto
+<fn>Gemeint ist vermutlich Wolfgang Musculus' Brief <qv>nr2839</qv>, da Musculus Vorsteher der Augsburger Pfarrerschaft war.</fn> accepturus.<zzl>zl17105-2E</zzl> <zzl>zl17105-3A</zzl>Loetus
+<fn>Georg Frölich (Laetus).</fn> noster tibi multum salutis optat, forte, quando illi vacabit, et tibi scripturus.
+<fn>Es scheint nicht dazu gekommen zu sein.</fn><zzl>zl17105-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17105-4A</zzl>De pace,
+<fn>Siehe dazu <qv>nr2769</qv>, <qv>fn17037-3</qv>.</fn> quae etiamnum anceps et in condicionibus pendet, nihil certi scribere possum.<zzl>zl17105-4E</zzl> <zzl>zl17105-5A</zzl>Caesar
+<fn>Karl V.</fn>, Ulmam pridie egressus, recta Nurnbergam multo milite bellicisque instrumentis stipatus proficiscitur,
+<fn>Zur Abreise des Kaisers aus Ulm s. <qv>nr2754</qv>, <qv>fn17022-3</qv>. Er traf am 24. März in Nürnberg ein; s. <a>Stälin</a> 580.<zfn>fn17105-1</zfn></fn> forte duci Mauritio
+<fn>Moritz von Sachsen. - Zur Sendung kaiserlicher Hilfstruppen an ihn s. <a>Moritz von Sachsen PK</a> III 253, Nr. 343; 291, Nr. 408; 296-298, Nr. 415.</fn>, Zvicaviae
+<fn>Zwickau.</fn> ab electoris
+<fn>Johann Friedrich I. von Sachsen.</fn> exercitu cincto,
+<fn>Dies entsprach dem Stand der Dinge im Monat Februar; s. Ernst <i>Fabian,</i> Die Stadt Zwickau unter den Einwirkungen des schmalkaldischen Kriegs, in: Mitteilungen des Altertumsvereins für Zwickau und Umgegend, Heft 1, Zwickau 1887, S. 59-63.<zfn>fn17105-2</zfn></fn> suppetias laturus.<zzl>zl17105-5E</zzl></p>
+</div>
+<div>
+<p><vl>216r.</vl> <zzl>zl17105-6A</zzl>Dominus suam ecclesiam a falsa religione et tyrannide tueatur! Amen. Maxima enim cum corporis tum vitae iactura illud Davidis didicimus: "Nolite confidere in principibus, in quibus non est salus"
+<fn>Ps 146, 3 (Vulg. 145, 2).</fn>, et e diverso orare iam incipimus: "Auxilium nostrum a domino, qui foecit coelum et terram"
+<fn>Ps 121 (Vulg. 120), 2.</fn>.<zzl>zl17105-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17105-7A</zzl>Bene vale foelixque cum tuis in domino perpetuo vive! Ex Augusta Vindelicorum, 5. marcii anno 1547, ex aede Anneana
+<fn>Siehe dazu <a>HBBW</a> XV 659, Anm. 5, und vgl. <a>HBBW</a> XVI 78 bei Anm. 14.</fn>.<zzl>zl17105-7E</zzl></p>
+<un>Tuus in domino addictissimus</un>
+<un>M. Cellarius.</un>
+<lz/>
+<p>[Adresse darunter:] Ornatissimo viro d. magistro Heinrichio Bullingero, Tigurinae ecclesiae episcopo, domino [et]
+<fa><i>Textverlust bei der Entfernung des Siegels.</i></fa> fratri suspiciendo.
+<fn>Dieser Brief wurde wie auch die Briefe gleichen Datums von Haller (<qv>nr2837</qv>) und von Musculus (<qv>nr2839</qv>) durch Lorenz Meyer und Schwyzer übermittelt, denen Hans Wilpert Zoller als Begleiter zugewiesen wurde; s. <qv>nr2844</qv>,<qv>zl17112-2</qv>.</fn></p>
+</div>
+</text>
+</brief>

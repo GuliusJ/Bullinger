@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2354">
+<brief>
+<id>16044</id>
+<nr>2354</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 17. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 158f (Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 417f, <br/>Nr. 1252<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 83</k></dr>
+<re>[Thomas Blarer] kehrte am Vortag [vom Schmalkaldischen Bundestag] aus Frankfurt zurück. Wegen der vielen Verpflichtungen seines Bruders konnte Ambrosius Blarer bisher nur Allgemeines vernehmen. Doch wird er bestimmt noch Weiteres erfahren, sobald der [Konstanzer] Rat die Unterlagen [des Bundestages] eingesehen hat.
+<t/>Es wurde ein Treffen des [Schmalkaldischen Bundes] auf den 1. April [in Worms] angesetzt. Bei dieser Gelegenheit wird der Bund verlängert, und es werden [Hermann von Wied, Erzbischof von] Köln, [Kurfürst Friedrich II. von der] Pfalz wie auch andere aufgenommen. Alle evangelischen Stände, sogar solche, die keine Mitglieder des Bundes sind, auch Pfalzgraf [Friedrich II.], sind bereit, dem Erzbischof beizustehen. So wurde Kaiser [Karl V.] gebeten, das Verfahren gegen den Erzbischof einzustellen, da man diesen nicht fallen lassen würde. Die Stadt und das Kapitel Köln wurden diesbezüglich auch benachrichtigt.
+<t/>Die [Schmalkaldischen Gesandten] konnten keinen Frieden zwischen [Heinrich VIII. und Franz I.] vermitteln, wurden aber gut behandelt und beschenkt.
+<t/>Das Regensburger Religionsgespräch ist zum Gespött geworden. Die [katholische] Partei hat sich zwar zu Verhandlungen bereit erklärt, verlangte aber (obwohl sie wusste, dass die [Protestanten] damit nicht einverstanden wären), dass alle Verhandlungen von Protokollführern schriftlich festgehalten und an das Konzil [zu Trient] weitergeleitet werden, welches letztlich darüber entscheiden soll! So war der ganze Aufwand umsonst, und es wurde viel Geld und Zeit verschwendet.
+<t/>Bullinger möge mitteilen, ob er den durch einen Metzger [...] übermittelten Brief Blarers [<qv>nr2335</qv>] erhalten hat.
+<t/>Grüße von [Konrad] Zwick und [Thomas Blarer].
+<t/>[Theodor] Bibliander soll die 27 Gulden, die [Konrad] Hofherr von Hans Peter von Wellenberg empfangen hat, selbst verwalten. Hofherr hat sich nämlich damit einverstanden erklärt; er soll sich nun daran halten! Auch hatte Blarer angeordnet, Hofherr nur 20 Gulden auszuzahlen; [Wellenberg] hat jedoch weitere 7 Gulden hinzugefügt. Wenn nur das Geld von Bibliander und nicht von Hofherr verwaltet wird! Blarer kam nicht dazu, Bibliander diesbezüglich zu schreiben.
+<t/>[P.S.:] Blarer bittet, die Beilage wieder durch den Boten [...] zurückzusenden.</re>
+<text>
+<p>S. <zzl>zl2354-1A</zzl><zzl>zl2354-6A</zzl>Germanus meus frater
+<fn>Thomas Blarer.</fn> heri Francofordia
+<fn>Vom Schmalkaldischen Bundestag.</fn> ad nos rediit,<zzl>zl2354-1E</zzl> verum per immodicas ipsius occupationes non licuit praeter generalia ista quicquam ex ipso audire; qu{e} postea tamen accepturum me non dubito, praesertim ubi senatus acta ista omnia prius didicerit
+<fn>Thomas Blarer informierte den Konstanzer Rat am 17. Februar; s. <a>Fabian, Quellen</a> 223f, Anm. 19.</fn>.<zzl>zl2354-6E</zzl></p>
+<p><zzl>zl2354-7A</zzl><zzl>zl2354-10A</zzl>Es ist ain anderer tag angesetzt uff 1. aprilis
+<fn>Siehe dazu <qv>nr2351</qv>, <qv>fn2351-2</qv>.</fn>;<zzl>zl2354-10E</zzl> <zzl>zl2354-3A</zzl>da wirt man den pundt erstrecken
+<fn>Vgl. <qv>nr2348</qv>,<qv>zl2348-1</qv>.</fn> und Cöln, Pfaltz
+<fn>Zur nicht erfolgten Aufnahme Kurfürst Friedrichs II. von der Pfalz in den Bund s. <qv>nr2327</qv>, <qv>fn2327-2</qv>; und <qv>nr2348</qv>,<qv>zl2348-2</qv>.</fn> sampt andern ouch darin kommen.<zzl>zl2354-3E</zzl> All evangelisch stend, ouch usserhalb des schmalckhaldischen pundts, nemmend sich des ertzbischoffs zu Cöln
+<fn>Hermann von Wied. - Er wurde nicht in den Bund aufgenommen; s. <a>Mattausch</a> 91.</fn> an, sampt dem pfaltzgrauffen
+<fn>Friedrich II. von der Pfalz.</fn> und andern. <zzl>zl2354-11A</zzl>Haben ain legation zum kaiser
+<fn>Karl V.</fn> verordnet mitt beger, er welle die process wider inn
+<fn>Hermann von Wied.</fn> all abschaffen; dann wa nitt, so werden sy den bischoff nitt können lassen
+<fn>fallen lassen.</fn>. Allso habend sy ouch der statt Coln und dem capitel zuempoten
+<fn>wissen lassen.</fn>.
+<fn>Siehe <a>Fabian, Quellen</a> 215. 225; <a>Varrentrapp</a> 264-268.<zfn>fn2354-4</zfn></fn><zzl>zl2354-11E</zzl><zzl>zl2354-7E</zzl></p>
+<p>Zwischen Engelland und Frantzosen haben die unsern den friden nitt gar erlangen mögen, sind aber gantz ehrlich von baiden konigen
+<fn>Heinrich VIII. und Franz I.</fn> gehalten und begabt
+<fn>beschenkt.</fn> worden.
+<fn>Siehe dazu <qv>nr2328</qv>, <qv>fn2328-6</qv>.</fn></p>
+<p><zzl>zl2354-5A</zzl>Das colloquium zu Regenspurg
+<fn>Das Regensburger Religionsgespräch.</fn> ist gar zum gspött worden, dann die widerparty
+<fn>Die katholische Partei.</fn> ist erschinen, hat gesagt, sy welle sich mitt den unsern inlassen, doch das all ding durch geschworne notary vergriffen
+<fn>[schriftlich] festgehalten.</fn> und allsdann alle handlung dem concilio
+<fn>Dem Konzil zu Trient.</fn> uberschickt werde;
+<fn>Siehe dazu <a>Vogel</a> 329. 337.</fn> was dasselbig beschliess, das man dem welle nachkommen. Damitt habend sys alles zerstört, vorhin wol gewisst, das die unsern dasselbig nitt thain
+<fn>tun.</fn> wurden.
+<fn>Siehe dazu <a>Wolrad, Regensb. RG</a> 167-177; und unten <qv>nr2371</qv>, <qv>fn2371-3</qv>.</fn> <zzl>zl2354-9A</zzl>Habends danecht
+<fn>dennoch.</fn> so lang da lassen ligen mitt verlust der edlen zyt und vyl, vyl gelts.<zzl>zl2354-9E</zzl><zzl>zl2354-8A</zzl> Allso muss man die thoren wytzig
+<fn>klug, verständig. - Mit den Toren sind die Protestanten gemeint, die allzu gutgläubig sind.</fn> machen; will
+<fn>es wird.</fn> danecht nichts helffen.<zzl>zl2354-5E</zzl><zzl>zl2354-8E</zzl></p>
+<p><zzl>zl2354-2A</zzl>Fac sciam, num literas proxime
+<fn>Damit ist Blarers Brief vom 28. Januar (<qv>nr2335</qv>) gemeint; s. <qv>nr2366</qv>,<qv>zl2366-1</qv>.</fn> a lanio quodam nostro
+<fn>Unbekannt.</fn> acceperis.<zzl>zl2354-2E</zzl></p>
+<p>Commenda nos domino diligenter. Vale cum tuis omnibus. Saluta fratres et amicos. Salutant te nostri cumprimis Zviccius
+<fn>Konrad Zwick.</fn> et germanus meus frater. Caetera proxime.</p>
+<p><vl>159</vl> <zzl>zl2354-4A</zzl>Dic Theodoro nostro
+<fn>Theodor Bibliander.</fn>, ut 27 fl., quos Curio
+<fn>Konrad Hofherr. - Es handelt sich um das von Jakob Herbrot übersandte Stipendium; s. dazu <a>HBBW</a> XV, Nr. 2085; und Biblianders Brief an Blarer vom 22. März 1546 (<a>Blarer BW</a> II 428f, Nr. 1267).<zfn>fn2354-2</zfn></fn> a Ioanne Petro Volmontio Wellenberg
+<fn>Hans Peter von Wellenberg, ein Verwandter der Blarers, zu diesem Zeitpunkt Mitglied des Großen Rates in Zürich und Rechenherr.</fn> accepit, ipse
+<fn>Bibliander.</fn> dispenset. Sic enim Curio recepit omnia se apud Theodorum depositurum; id quod omnino volo, ut pr{e}stet, quamquam ego solum de 20 fl. potestatem illi
+<fn>Wellenberg.</fn> feci, ille
+<fn>Derselbe.</fn> 7 addidit; etsi istuc non magnopere refert, modo Theodorus et non Curio pecuniam secum habeat in necessarios Curionis usus expendendam. Scripturus eram Theodoro, sed nihil prorsus potui temporis spacio exclusus.
+<fn>Am 27. Februar schrieb Bibliander an Blarer, dass er es angesichts Hofherrs leichtfertigen Umgangs mit Geld lieber hätte, wenn Bullinger das Stipendium verwalten würde; s. <a>Blarer BW</a> II 419, Nr. 1255.<zfn>fn2354-3</zfn></fn> Commendabis me sancto et doctissimo viro valde diligenter.<zzl>zl2354-4E</zzl></p>
+<p> Iterum iterumque vale. 17. februarii 1546.</p>
+<un>Tuus Ambr. B.</un>
+<hlz/>
+<p>Qu{e} hic mitto, hocce nuncio
+<fn>Unbekannt. Dieser wird in Brief <qv>nr2366</qv>,<qv>zl2366-3</qv>, als "nostratis" bezeichnet. Demzufolge könnte es sich um den gleichen Metzger wie oben Z. <qv>zl2354-2</qv> handeln.<zfn>fn2354-1</zfn></fn> rogo, ut remittas.
+<fn>Was übersandt wurde, ist nicht bekannt.</fn></p>
+<hlz/>
+<p>[Adresse auf f. 153a:] Bullingero, venerando suo et longe charissimo fratri. Tiguri.</p>
+</text>
+</brief>

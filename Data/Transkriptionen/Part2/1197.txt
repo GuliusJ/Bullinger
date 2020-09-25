@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1197">
+<nr>1197</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>9. November 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 46r.-v. (Siegelspur)</vo>
+<dr>Teildruck: CO X/2 288, Nr. 151 <fn>Corr. des réformateurs V 145, Anm. 19</fn></dr>
+<re>Wußte länger nichts zu schreiben, doch nun hat Satan eine neue Kontroverse entfacht: Schwenckfeld behauptet gegenüber
+Frecht, die vergottete Menschheit Christi habe nichts Kreatürliches an sich; als Kreatur könne Christus im Abendmahl
+nicht gegenwärtig sein. Zwick fürchtet, durch solche Lehren könnte ein neuer Arius auf den Plan gerufen und die Einheit der
+Kirche noch mehr gefährdet werden. Bucer ist unterwegs zu Landgraf [Philipp von Hessen] und nach Wittenberg. In Straßburg
+hat die französische Gemeinde eine Kirche erhalten, in der Calvin predigt; man feiert dort auch das Abendmahl und singt
+französische Psalmen. Grüße. Empfehlung des Briefüberbringers.
+</re>
+<tx>Salus et pax Christi.
+^$Nulla fuerunt aliquandiu scribendi argumenta, Bullingere
+charissime; hinc natum est silentium meum hactenus. Imo nec
+iam est, quod scribam, nisi quod iam novam controversiam
+instituit satan, quae (quod vehementer metuo) brevi forte
+vulgabitur. Adserit enim Schwenckfeldius contra Frechtum<f1>Zwick ist zweifellos durch Frecht über die
+Kontroverse in Ulm unterrichtet worden; vgl. die entsprechenden Berichte Frechts an Bullinger (zuletzt oben Nr. 1186, 9-48).<fe>
+Christum etiam secundum humanitatem desiisse creaturam esse et omnino interesse glorię Christi et salutis nostrae, credere
+Christi humanitatem ita<fx>ita ^#/+am Rande nachgetragen.^#/-<fe> totam esse deificatam, ut sine blasphemia creatura dici nec
+possit nec debeat. Quid hic nasciturum sit, facile potes coniicere. Pungit autem odiose satis eos, qui in<fx>^#/+vor
+^#/-in^#/+ gestrichenes^#/- c.<fe> cęnae caussa pręsentiam Christi plus aequo firmare videntur. "Si enim", inquit,
+"Christus creatura est, was were dann das nachtmal, und wie wurd er da zuͦgegen sin"<f1>Vgl. CSch VI 92, 3f und 132, 6f. -
+Schwenckfeld will damit nicht die Gegenwart Christi im Abendmahl bestreiten, sondern das Reden von der Geschöpflichkeit des Erhöhten als
+unhaltbar erweisen.<fe>, quasi vero Christus adesse suis nequeat e cęlis, qui illis adfuit in terris. Sed dudum timui, ne
+satan aliquando excitaret Arrium<f1>Für den altkirchlichen Häretiker Arius schloß die Geschöpflichkeit Christi eine
+Wesensgleichheit mit Gott aus.<fe>, cui certe istis quaestionibus praesentissima in medium prosiliendi occasio
+dabitur. Utinam Christus illum catenis fortissimis contineat<f1>Vgl. Apk 20, 1f.<fe>, ne unitas
+ecclesiae magis atque magis proscindatur idque cum magna evangelii Iesu Christi offensa. Amen.
+^$Bucerus lantgravium adit<f1>Landgraf Philipp hatte Bucer zur Neuordnung der Kirchenzucht nach Hessen berufen, wobei vor allem
+die Auseinandersetzung mit den Täufern im Vordergrund stand; vgl. unten Nr. 1200, 6-10 mit Anm. 4 und 8.<fe> et Wittenbergam<f1>Während seines Aufenthaltes in Wittenberg vom 11. bis 20./21. November führte Bucer wie zuvor schon in Hessen im Auftrag des Straßburger Rates Gespräche über die Frage der
+Kirchengüter; vgl. WA Briefwechsel VIII 320-324.^&xs. PC II 522f; Corr. des réformateurs V 145f, Anm. 23.^&x{<fe>; quid facturus sit, nescimus.
+^$Gallis Argentorati ecclesia data est, in qua a Calvino quater in septimana contiones audiunt, sed et cęnam agunt et psalmos
+sua lingua canunt<f1>Zu den ersten Gottesdiensten der französischen Gemeinde in der Straßburger Nikolauskirche s. René ^#/+Bornert,^#/- La réforme protestante du culte à Strasbourg
+au XVI^#'e siècle (1523-1598), Leiden 1981. - Studies in Medieval and Reformation Thought 28, S. 193-196.^&xvgl. H. ^#/+Hasper,^#/- Calvijns beginsel voor den zang in den eredienst, deel I, 's-Gravenhage 1955, S. 441f.^&x{<fe>.
+^$Vale. Pellicanum, Leonem<f1>Leo Jud.<fe>, Theodorum<f1>Theodor Bibliander.<fe> et bonos omnes salvos cupio.
+^$9. novembris 1538.
+<un>Tuus Io. Zvick.
+^$Ambrosius<f1>Ambrosius Blarer.<fe> salutat te studiosissime<fx>^#/+Gruß am Rande nachgetragen.^#/-<fe>.
+<lz><vl>46v.</vl> Praesentium latorem<f1>Unbekannt.<fe>, virum certe bonum, commendo tibi et fratribus.
+<lz>[Adresse daneben:] Domino Hainricho Bullingero, ecclesiae Tigurinae pastori benemeritissimo, fratri meo observando.
+</content>
+</letter>

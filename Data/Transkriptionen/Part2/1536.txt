@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1536">
+<nr>1536</nr>
+<correspondents>
+	<originator>[Bullinger</originator>
+	<addressee fn=1>Joachim Vadian]</addressee>
+	<note fn=1>Unterschrift und Adresse fehlen, doch es besteht kein Grund, an den Angaben des Kopisten zu zweifeln.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>20. Juni 1541</date>
+</space_time>
+<vo>Teilkopie von unbekannter Hand des 17. Jh.: Zürich ZB, Ms F 46, 672f</vo>
+<re>Zitat aus der Beilage zu Rudolf Gwalthers Brief vom 30. Mai [Nr. 1523] betreffend eine Supplikation der Regensburger Geistlichen an Herzog Wilhelm [IV.] von Bayern; sarkastische Bemerkung Bullingers.</re>
+<tx>[Gedruckt: Vadian BW VII 98f, Nr. 70.]
+<tx>Die pfaffen von Regenspurg habend an herzog Wilhelmen
+von Peyeren suppliciert, das er sy schützen und schirmen
+wölle, und hat er forma dyß antwurt geben: Er könne ihnen
+nüt mee hälffen; dan es bedunke ihn, die sach wolle sant
+Velten haben:::1{ etc.
+<vl>273</vl> O, het sy dan gleich auch sant Anthonis feuwr,
+so verbrunn darzuͦ, was gfallen were, und blib nüt über!
+Haec ioco, sed ex animo dixi.
+<f1>+1^$Bis hierher Zitat aus Gwalther an HB, 30. Mai,
+Beilage.<fe>
+</content>
+</letter>

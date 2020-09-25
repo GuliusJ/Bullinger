@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2730">
+<brief>
+<id>16419</id>
+<nr>2730</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1546-12-29"/>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 29. Dezember [1546]
+<fn>Das Jahr ergibt sich aus dem Inhalt und besonders aus dem Zusammenhang mit <qv>nr2731</qv>.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 711 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 554, Nr. 1385<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 157; Erw.: Stucki, Lavater 226 </k></dr>
+<re><t>Blarer hat gerade von diesem nach Zürich reitenden Boten [...] erfahren. Er hat aber Gäste, so dass er nur kurz schreiben kann. Bullingers Brief [nicht erhalten] wurde ihm übermittelt. Jetzt will er nur berichten, dass der Konstanzer Rat informiert wurde, dass Kaiser [Karl V.] von den Städten, die sich ihm ergeben haben, unter anderem erwartet, dass sie künftig ohne sein Wissen kein Bündnis mehr eingehen.</t>
+<t>Daher erscheint es Blarer sinnvoll, dass die Eidgenossen, und besonders die Zürcher, dem Konstanzer Rat schreiben, dass sie hiervon gehört haben, dabei die wahren Absichten des Kaisers erkennen können und im Namen der alten Freundschaft mit den Konstanzern diese bitten möchten, dem Kaiser keine Zugeständnisse zu machen, die diese Freundschaft beenden und Spannungen mit den Eidgenossen verursachen. Im Gegenzug sind die Zürcher, und wohl auch die anderen Eidgenossen, jederzeit bereit, den Konstanzern mit Rat und Tat zur Seite zu stehen.</t>
+<t>Solch ein Schreiben könnte verhindern, dass die Konstanzer in die Falle [des Kaisers] tappen. Blarer befürchtet nämlich sehr, dass dieser sie mit guten Worten ins Verderben stürzt.</t>
+<t>Blarer muss abbrechen.</t>
+<t>[P.S.:] Mit dem nächsten Boten wird er mehr dazu schreiben. Er möchte [jetzt die Gäste] nicht auf sich warten lassen.</t></re>
+<text>
+<div>
+<p>In grosser yl erfar ich disen ritenden botten
+<fn>Unbekannt.</fn>. <zzl>zl16419-1A</zzl>Hab mittenz{uo}
+<fn>gleichzeitig; s. <a>Fischer</a> IV 1715.</fn> gest
+<fn>Gäste. - Darunter vielleicht Konrad Zwick; vgl. <qv>nr2731</qv>,<qv>zl16420-18</qv>.</fn>,<zzl>zl16419-1E</zzl> das ich nichts kan. Ewer schriben
+<fn>Wohl ein nicht mehr erhaltener Brief Bullingers und kaum der schon vor zehn Tagen verfasste Brief Bullingers vom 18. Dezember (<qv>nr2719</qv>).</fn> ist mir wol z{uo}komen. <zzl>zl16419-3A</zzl>Kan nichts dismal, dann das mine herren anlangt
+<fn>das mine herren anlangt: dass meinen Herren [die Nachricht] zukommt.</fn>, wie der kaiser
+<fn>Karl V.</fn> ettlich beschwerlich conditionen inbinde
+<fn>auferlege.</fn> den stetten, die er innympt
+<fn>Hier sowohl im Sinne von "einnehmen" als auch "aufnehmen" (letzteres bei den Städten, die sich dem Kaiser anerboten haben); s. <a>SI</a> IV 741f. - Zum Namen einiger solcher Städte s. <qv>nr2725</qv>, <qv>fn16414-2</qv>.</fn>; under denen ouch dise, das sy f{ue}rohin on sin wissen kain pundtnusß
+<fn>wie etwa der Schmalkaldische Bund; vgl. <qv>nr2731</qv>,<qv>zl16420-17</qv>, oder sonst etwaige geheime Bündnisse, z.B. mit den Eidgenossen.</fn> mitt nieman machen sollen, etc., und das ouch von ainem friden solle gehandelt werden, darinn diß und ander conditionen vergriffen
+<fn>inbegriffen.</fn> sein sollen.<zzl>zl16419-3E</zzl></p>
+</div>
+<div>
+<p>Derhalb ich gedacht, es m{oe}chte nitt unütz sein, wa
+<fn>wenn.</fn> die Aidgnossen <fa1 bis="1"><i>Am Rande nachgetragen.</i></fa1>und sonderlich yetz ewere herren von Zürich<fa1e von="1"/> hetten meinen herren geschriben und angez{oe}gt, das sy s{oe}lichs, wie yetz gemeldt, f{ue}rkomme
+<fn>das sy s{oe}lichs f{ue}rkomme: dass ihnen Solches zu Ohren komme; s. <a>SI</a> III 279 (wo "f{ue}rkommen" mit Akkusativ belegt ist).</fn>, und, diewyl sy dann wol ermessen konnen
+<fn>könnten.</fn>, z{uo} was end diß alles angesechen
+<fn>z{uo} was end diß alles angesechen: was damit bezweckt wird; s. <a>SI</a> VII 555. 558.</fn>, und vorab
+<fn>vor allem.</fn>, wa die von Costentz derglichen friden und articul annemmen solten, das es nitt allain z{uo} verhinderung kunfftiger früntschafft, sonder auch z{uo} ausl{oe}schung der alten bysher gebrachten nachpurschafft und allso der statt Costentz und inen, den Aidgnossen, nitt z{uo} geringem schaden raichen wurde, so haben sy ausß nachpurlichem willen nitt underlassen konnen, sy des z{uo} erinneren, mitt fruntlicher pitt, sich in s{oe}lchem allem flyssig und wol z{uo} bedencken und nichts z{uo} bewilligen, dardurch der g{uo}t will zwuschen den Aidgnossen und der statt Costentz aussgerut
+<fn>vernichtet; s. <a>Fischer</a> I 498f.</fn> und b{oe}se nachpurschafft verursacht werden m{oe}chte. Wa dann sy
+<fn>die Zürcher; vgl. nämlich unten Z. <qv>zl16419-2</qv>.</fn> inen
+<fn>den Konstanzern.</fn> yeder zyt fruntlichen willen, g{uo}ten rath und fürderung bewysen kondten
+<fn>könnten.</fn>, das wellten sy nitt sparen. <zzl>zl16419-2A</zzl>Und zwyfflen nitt, ander ire Mittaidgnossen werden glycher gstallt ouch gesynnet sein,<zzl>zl16419-2E</zzl> etc.</p>
+</div>
+<div>
+<p>Ain s{oe}lich schreiben uff dise mainung ongefar
+<fn>uff dise mainung ongefar: mit ungefähr diesem Inhalt.</fn> m{oe}cht wol z{uo} vyl dingen g{uo}t sin, das man nitt allso hinin plutschete
+<fn>hinin plutschete: (in die Falle) hineintappe.</fn>. Dann ich sorgen ubel ubel, g{uo}te wort werden unß den hals abstechen
+<fn>den hals abstechen: umbringen, erledigen; s. <a>SI</a> X 1248.</fn>.</p>
+</div>
+<div>
+<p>Ich kan nitt mehr. Verzicht
+<fn>Verzeiht.</fn> mir. Datum 29. decembris, in h{oe}chster yl.</p>
+<un>Am. Bl.</un>
+</div>
+<div>
+<lz/>
+<p>Schrib euch mehr by nechster bottschafft
+<fn>Mit Brief <qv>nr2731</qv> vom 30. Dezember.</fn>. Sorgen, ich versum mich
+<fn>Sorgen, ich versum mich: Ich mache mir Sorgen, dass ich zu lange auf mich warten lasse (in Anbetracht auf Blarers Gäste; s. oben Z. <qv>zl16419-1</qv>).</fn>.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Meinem insonder vertrauwten herren m. Heinrich Bullinger. Z{ue}rich.</p>
+</div>
+</text>
+</brief>

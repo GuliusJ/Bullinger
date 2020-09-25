@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1123">
+<nr>1123</nr>
+<correspondents>
+	<originator>Johannes Rhellikan</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>19. April 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 458b r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für einen Brief mit Angaben über das für ihn vorgesehene Amt. Weist auf die Vorteile einer Verlegung der
+Schule von Rüti nach Zürich hin und schlägt die Anstellung eines Verwalters und einer Köchin vor. Als Vorbild könnte das von
+Lepusculus geführte Pädagogium im Basler Predigerkloster dienen. Warnt im Hinblick auf die bevorstehende Tagung vor der
+Hinterlist der Gegner, da er in Bern selbst beobachten kann, wie [Sebastian Meyer] und [Peter] Kunz ihre Abendmahlslehre
+neuerdings zu verschleiern suchen. Will auf die Zurzacher Messe hin umziehen und bittet um Mitteilung, wo er wohnen soll.
+</re>
+<tx>Salus et pacata conscientia per Christum Iesum.
+^$Gratias tibi quam possum maximas et habeo et ago, mi
+Bullingere, quod de provintia mihi decernenda aliquid
+certius scripsisti<f1>Der Brief ist nicht erhalten.<fe>, quam hactenus a nuntiis coram audiverim.
+Alius nanque alia mihi retulit, ut nimirum alius aliter rem
+intellexit.
+^$Alterum consilium eorum apud vos senatorum, qui censent
+scholam Rythensem in urbem transferendam<f1>Bullinger hatte zunächst empfohlen, eine Schule im Kloster Rüti einzurichten. Im
+Verlauf der weiteren Planung war Rhellikan als Leiter vorgeschlagen worden. Im Mai beschloß der Rat jedoch, ein
+Alumnat in der Stadt zu errichten, als dessen "Zuchtmeister" kurz vor der Inbetriebnahme Rhellikan berufen wurde (s.
+^#/+Bächtold,^#/- Bullinger vor dem Rat 196-205).<fe>, mihi non ob hoc solum probatur, quod ego malim apud vos studii theologici
+gratia agere, verum etiam ob multa discipulorum commoda. His
+enim non tantum me, sed alios quoque professores audire
+liceret, et ab ineunte adulescentia veteris et novi
+instrumenti literis commodissime imbui possent, dum eorum
+paedagogus singulas praelectiones auditas singulis diebus,
+antequam cubitum irent, ita ab eis exigeret, ut, quid ex
+unaquaque observassent, praeceptori redderent. Ut taceam
+interim de doctorum virorum exemplo, quo in dies moneri<fx>^#/+wohl irrtümlich für ^#/-monerentur.<fe> ac
+meliores, non tantum doctiores evaderent. Huc accedit, quod
+et schola vestra politiorum literarum ferme (ut audio)
+deserta frequentior reddi posset, si profectiores discipuli
+ex coenobiis in urbem transferrerentur et per vices nunc
+Theodorum<f1>Theodor Bibliander.<fe>, Pellicanum, Collinum, Ammianum et me dialectica,
+rhetorica alternis vicibus et aliquid in novo testamento
+praelegentem audirent, ita tamen, ut auditorum selectus
+haberetur et quisque pro sui ingenii modulo plures aut
+pauciores audiret profitentes ac scribendi dicendique
+exercitium adhibere posset. Tantum de paedagogi et puerorum
+profectu, si schola Rythena in urbem transferreretur.
+^$Quantum vero ad nutrimenta
+<gr>kaì oĭkonomikh́n</gr> adtinet, si ego huic ludo
+praeficiendus essem, perquam cuperem oeconomum constitui et
+coquam, qui singula vitae necessaria pueris et mihi cum mea
+familia victum suppeditarent. Neque enim ego cum mea
+uxorcula<f1>Rhellikans Ehefrau war eine Schwester von Johannes und Christian Wirth (Hospinian); s. Amerbach, Korr. VI 162f; Hospinian an Bullinger, 17. August [1544], Zürich StA, E II 366, 269.<fe> perquam valetudinaria et rei domesticae alioquin<fx>alioquin^#/+ am Rande nachgetragen.^#/-<fe>
+parum perita tantum curarum exantlare queam. Scis enim
+hominem artibus liberalibus deditum ab anxiis huiusmodi
+curis alienum esse oportere.
+^$Quocirca, mi Bullingere, rogatum non solum te, sed
+Megandrum, Leonem<f1>Leo Jud.<fe> ac reliquos tuos symmystas, qui haec
+curant, velim, ut senatui Tigurino hoc consilium non
+dissuaderetis, sed summis viribus persuaderetis ac
+Basiliensium, Argentinensium Bernensiumque hac in re non
+pessimum institutum
+<vl>458b v.</vl> sequeretur, imprimis tamen Rauracorum, qui
+ex dominicanorum coenobio optimum paedagogium omnibus rebus
+ad literarum studia spectantibus instructum instituerunt<f1>Zu den Anfängen des Alumnats im Basler Predigerkloster s. Theophil ^#/+Burckhardt-Biedermann,^#/- Geschichte des Gymnasiums zu Basel, Basel 1889, S. 17-22.<fe> ac
+Lepusculum ei ita praefecerunt, ut non nisi in re literaria
+et pietate docenda occupatus sit prorsusque a rei domesticae
+cura solutus.
+^$Salutabis nomine meo<fx>meo^#/+ über der Zeile nachgetragen.^#/-<fe> praedictos tuos collegas, Theodorum
+et alios mei studiosos, et facite circumspecti sitis in
+futuro apud vos conventu<f1>Zur bevorstehenden Tagung der reformierten Städte s. oben Nr. 1118, Anm. 12.<fe>. Quidquid enim hactenus
+<gr>logodaídaloi</gr><f1>Siehe oben Nr. 1116, Anm. 11.<fe> minis ac saevitia impetrare non
+potuerunt, nunc blanditiis, fucis, offutii[s]<fx-t>^#/+Rand beschädigt.^#/-<fe>, insidiis,
+cuniculis ac machinationibus mirificis obtinere conantur. Id
+quod facile ex nostris intelligo; quum enim senetio<f1>Sebastian Meyer.<fe> in Ioannis
+6. capite enarrando supra modum in nos debacchatus sit ac
+subinde inculcaverit confestim, simul et semel cum porrecto
+pane fideli menti eodem momento Christi corpus edendum dari,
+nunc una cum Cuͦnzio<f1>Peter Kunz.<fe> suo mitior factus prorsus eam rem
+obticet et, quo faventiorem plaebem sibi reddant, nullam
+omnino adhortationem de eucharistia, quid et quomodo sumenda
+sit, coenę praemiserunt. Id quod tamen antea semper
+solenni[ter]<fx-x>^#/+Rand beschädigt.^#/-<fe> factum est.
+^$Vale.
+^$Datum Bernę, 19. aprilis anno 1538.
+<un>Ioan. Rhellicanus.
+<lz>Uffen Zurzach merckt<f1>Zur Zurzacher Messe s. oben Nr. 1116, Anm. 25.<fe> wird ich imm schiff byß gan
+Brugg (ist es gotz will) mitt min hußplunder<f1>Hausrat.<fe> und volck<f1>Familie.<fe> faren und darnach zuͦ üch;
+daru[mb]<fx-x>^#/+Rand beschädigt.^#/-<fe> helffend und schaffend, wie ich üch denn wol vertrüw, daß mi[r]<fx-x>^#/+Rand beschädigt.^#/-<fe> vorhin kunt thon werd, wo ich hin sölle ziehen.
+<lz>[Adresse darunter:] Ornatissimo virod. Heinricho
+Bullingero, ecclesiae Tigurinae pastori primario, amic[o]<fx-t>^#/+Der auf das Verschlußband geschriebene Teil der Adresse fehlt.^#/-<fe>
+et pat[rono]<fx-x>^#/+Der auf das Verschlußband geschriebene Teil der Adresse fehlt.^#/-<fe> suo fa[ventissi]mo<fx-x>^#/+Der auf das Verschlußband geschriebene Teil der Adresse fehlt.^#/-<fe>.
+</content>
+</letter>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2656">
+<brief>
+<id>16345</id>
+<nr>2656</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-03"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 3. November 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 48 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, 395f, Nr. 8; <br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 130-133, Nr. 10<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 53; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 223 (Schmidt); Madrid BN, 8862, suelto und f. Ddro 6; Zit./Erw.: Chr. Sepp, Verboden Lectuur 58; Edward Boehmer, Spanish Reformers I, 1874, 183. 214; C. Gilly, Spanien 331</k></dr>
+<re><t>Enzinas bat in seinem letzten Brief [<qv>nr2654</qv>] Bullinger darum, ihm die Dekrete der drei ersten Sitzungen des Konzils zu Trient zukommen zu lassen. Nun ist man aber bei dem von [Johannes] Oporin gedruckten Buch zu diesem Thema so weit gelangt, dass nur noch eine kurze Fassung dieser Dekrete erwünscht ist. Bullinger möchte solch eine Abschrift auf Enzinas' Kosten von einem Studenten so schnell wie möglich anfertigen lassen. Er möge Enzinas verzeihen, ihn mit solch einer Nebensächlichkeit zu stören. Enzinas tut dies seinem Gastgeber, Oporin, zuliebe, den Bullinger ja auch gern hat. Enzinas hofft, seine Dankbarkeit Bullinger und der Zürcher Kirche in einer wichtigen Angelegenheit bekunden zu können. Da er wohl spürt, wie sehr Bullinger ihm gewogen ist, zögert er nicht, ihn mit dieser Anfrage zu belästigen.</t>
+<t>Doch wer sich schon einmal als ungehemmt erweist, wagt noch mehr ... Bullinger möge auch von Theodor [Bibliander] verlangen, dass dieser die lateinische "Summa" [das Glaubensbekenntnis] von Juan Diaz schickt (Bibliander besitzt nämlich die Schrift, da er sie ins Deutsche übersetzt hat). Enzinas möchte diesen kurzen Text der von ihm für den Druck geplanten Lebensbeschreibung Diaz' hinzufügen. Er konnte den lateinischen Druck von Diaz' Glaubensbekenntnis weder in Basel finden noch aus Straßburg erhalten. Enzinas und Oporin bedanken sich schon im Voraus!</t>
+<t>Beiliegend Briefe für Lindau
+<fn>Nämlich an Hieronymus Sailer; vgl. <qv>nr2657</qv>.</fn> und Konstanz. Bullinger möge diese weiterbefördern.</t>
+<t>Grüße.
+<fn>Dieser Brief wurde zusammen mit Enzinas' Brief <qv>nr2657</qv> und Myconius' Brief <qv>nr2658</qv> nach Zürich geschickt; s. <qv>nr2657</qv>, <qv>fn16346-1</qv>.</fn></t></re> <textweg>
+<div>
+<p>S. D. In postremis literis meis te oravi, Bullingere doctissime, ut tres illas primas sessiones concilii Tridentini, quas apud te vidi, ad nos transmitteres. Iam autem eo perventum est in libello eiusdem argumenti, quem imprimit Oporinus, ut haec tantum brevia scripta desideremus. Proinde te oro, ut primo nuncio ea mittas, etiam si meo sumptu ab aliquo studioso describantur[/transcribantur]. Ignosce, quaeso, audaciae meae, qui istiusmodi rebus nullius momenti sum tibi molestus; cuperem enim gratificari Oporino, viro optimo atque hospiti meo, quem a te quoque amari non dubito. Atque utinam aliqua in re graviore eum animum, quem erga totam ecclesiam vestram, tum vero erga te habeo, possem declarare! Sentiretis profecto omnes fratres quidvis potius in me desiderari posse quam diligentiam et integritatem. Itaque fretus ego vicissim humanitate tua, cuius animum nostro esse per omnia congruentem mihi persuadeo, hac in parva re tibi molestus esse non dubitavi.</p>
+</div>
+<div>
+<p>Scis etiam illud: Qui semel fines pudoris praetergressus est, eum gnaviter impudentem esse oportere. A domino etiam Theodoro
+<fn>Theodor Bibliander.</fn> postulabis summa(m?) confessionis fidei Diazii Latinam, quam ipse fecit Germanicam
+<fn><a>BZD</a> 360.</fn>; nam hoc breve scriptum cuperem adiungi historiae, quae nunc sub praelo est et propediem absolvetur, quod alioqui nec in hac urbe inveniri potest nec ex Argentina tempestive mitti posse arbitror. Haec ut brevi abs te mittantur, et meo et Oporino nomine oro.</p>
+</div>
+<div>
+<p>Mitto quoque literas Lindavium et Constantiam, quas rogo ut diligenter ac fideliter transmittas.</p>
+</div>
+<div>
+<p>Vale. Basileae, 3. die novembris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Henrico Bullingero, ecclesiae Tigurinae ministro fidelissimo. Tiguri.</p>
+</div> </textweg>
+</brief>

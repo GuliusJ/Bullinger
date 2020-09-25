@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1726">
+<nr>1726</nr>
+<correspondents>
+	<originator>Johannes Caesarius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Köln</place>
+	<date>1. März [1543]</date>
+	<note>Der Brief lässt sich anhand der Erwähnung von Bullingers Matthäuskommentar (vgl. Z. 6-10 mit Anm. 3) und der Hinweise in Caesarius' Brief vom 29. August (vgl. unten Nr. 1781, bes. Z. 33f mit Anm. 12) ins Jahr 1543 datieren.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1477 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 52, 145; undat. Brief 220^&x{
+<dr>Ungedruckt</dr>
+<re>Bullingers großzügige Buchgeschenke überraschen ihn. Hat diesen Winter mit der Lektüre seines Matthäuskommentars [HBBibl I 144] verbracht und kann seine Begeisterung kaum in Worte fassen; wünscht besonders, dass Bullinger auch den gründlichsten Evangelisten, Lukas, kommentiert. Grüße, auch an die übrigen Zürcher Pfarrer und besonders an [Rudolf Gwalther], den Bullinger zum Schreiben auffordern soll; bittet Bullinger um eine leserliche Schrift in seinen Briefen.
+</re>
+<tx>Salutem in Christo Iesu, domino et servatore nostro.
+^$Tuam erga me benevolentiam vix satis admirari possum,
+utpote quam tam magnam experior, ut ea ipsa motus non
+desinas mihi mittere tuorum commentariorum monumenta
+aliquot, et iam certe non pauca dono mihi misisti,<f1>Zu Bullingers früheren Buchgeschenken an Caesarius vgl. HBBW VII, Nr. 1056, und HBBW IX, Nr. 1306.<fe> mihi inquam, qui de te non adeo bene meritus sim, ut debeas.
+^$Cęterum hac hyeme totus pene fui in lectione
+commentariorum tuorum in Mattheum,<f1>Bullingers Matthäuskommentar (HBBibl I 144) war im August 1542 erschienen.<fe> quorum quidem lectio quam
+me oblectarit, vix oratione exprimere possum; imo usque adeo
+ea oblectatus sum, ut plane fatear me ex ipsis illis
+commentariis non parum fructus percepisse cum<fx>^#/+Vor^#/- cum ^#/+zwei gestrichene Buchstaben^#/-.<fe> ad eruditionem tum ad pietatem pręcipue, que utique in ipsis mirifice commendatur abs te<fx>abs te ^#/+am Rande nachgetragen.^#/-<fe>. Proinde nisi scirem te non cessare
+posse, quin in reliquos quoque evangelistas commentaria
+scribas, alioqui etiam currentem te stimulis urgerem. Et
+quod in voto mihi est, id velim, ut facias atque sumas eum laborem
+in Lucam, exactissimum evangelii scriptorem. Pro hac tua
+erga me benevolentia profecto summa, quid rependam unquam
+tibi, cum nihil habeam, quod respondeat tantę tuę erga
+me benevolentię, non desinam te vel summo amore prosequi,
+pręsertim<fx>^#/+Vor^#/- pręsertim ^#/+gestrichenes^#/- prae[?].<fe> ea charitate, qua nos Christus coniunxit ac
+copulavit. Bene vale.
+^$Colonię, calendis martii.
+^$Salutabis (quęso te) meis verbis cęteros isthic
+concionatores et inprimis dilectissimum filium meum<f1>Gemeint ist Rudolf Gwalther, der Caesarius im Mai 1537 besucht hatte, vgl. HBBW VII, S. 283f, 2-14 mit Anm. 2.<fe>, qui me
+Colonię cum convenisset<fx>cum convenisset ^#/+am Rande nachgetragen^#/-.<fe>, tam suaviter et iucunde
+salutavit et conversatus apud me<fx>apud me ^#/+über der Zeile nachgetragen.^#/-<fe> fuit, ut eius non possim
+non meminisse, eumque etiam adhorteris, ut ad me aliquando
+scribat. At tu velim ut<fx>ut ^#/+über der Zeile nachgetragen.^#/-<fe>, si quando ad me scribere volueris,
+characteribus utaris talibus, ut ex ipsis literas tuas et
+legere et intelligere possim. Interim bene vale.
+<un>Ioannes Cęsarius totus tuus.
+<lz>[Adresse auf der Rückseite:] Viro pietate maxime
+insigni et literis et moribus optimis apprime ornato Henrico
+Bullingero, amico suo optimo et prope incomparabili.
+</content>
+</letter>

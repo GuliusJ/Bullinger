@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2805">
+<brief>
+<id>17073</id>
+<nr>2805</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-02-09"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 9. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 370, 51 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 92; Vgl. Haller und Joh. Ruman[Römer] an Bürgermeister und Rat von Zürich, 9. Februar 1547, "... üwer schriben, den 30. ianuarii usgangen ...", Zürich StA, A 177, Nr. 168.</k></dr>
+<re><t>Bullingers Brief [<qv>nr2780</qv>] kam zusammen mit den zwei Schreiben [vom 30. Januar 1547] an, die der Zürcher Rat an die in Augsburg wirkenden Zürcher Pfarrer [Haller, Lorenz Meyer, Thoman Ruman, Rudolf Schwyzer d.Ä.] und an die Augsburger Obrigkeit gerichtet hat. Damit wurde der Augsburger Rat gebeten, die Pfarrer heimzuschicken, falls er deren Schutz nicht garantieren könne. Wenn er dies aber kann, soll er später selbst über deren Verbleib oder Entlassung entscheiden. Da Haller und Ruman nicht ausdrücklich nach Hause gerufen wurden, wird man sie wohl nicht jetzt zurückschicken, zumal der Augsburger Rat ihnen große Versprechungen machte. Und auch wenn sie jetzt zurückkehren wollten, hätte ihnen der Rat ein solch schmeichelhaftes Empfehlungsschreiben ausgestellt, dass dies Neid in Zürich erregen würde. Demzufolge wollen Haller und Ruman eine bessere Gelegenheit zur Abreise abwarten, doch nie ohne Georg Frölichs Zustimmung.</t>
+<t>Der Rat wird hingegen die frechen Meyer und Schwyzer auch dann fortschicken, wenn diese bleiben wollten. Sie werden bald entlassen.</t>
+<t>Haller und Ruman wird der Rat nur dann ziehen lassen, wenn sie einer unmittelbaren Gefahr ausgesetzt wären oder wenn der Zürcher Rat sie ausdrücklich zurückrufen würde. Der Brief des Zürcher Rats war also nur insofern nützlich, als die Augsburger daraus entnehmen konnten, dass die Zürcher sich Sorgen um ihre Pfarrer machen.</t>
+<t>Der stolze und streitsüchtige Schwyzer hat sich stark gegen Haller aufgelehnt. Bullinger soll ihn gegen Schwyzers Verleumdungen in Schutz nehmen. Meyer hingegen ist umso gemäßigter, als er gelehrter ist. Den Bürgermeistern [Hans Welser und Jakob Herbrot] gegenüber äußerte Haller die Befürchtung, dass Meyer und Schwyzer ihn und Ruman in Zürich verleumden könnten. Die Bürgermeister versprachen aber, sich, wenn erforderlich, bei den Zürchern über Meyer und Schwyzer dermaßen zu beschweren, dass diese ihre Verleumdungen bereuen würden.</t>
+<t>Bullinger soll wachsam bleiben, denn Haller und Ruman sind weiterhin nicht geringen Gefahren ausgesetzt. In Augsburg ist ein Aufruhr zu befürchten. Zwar versprach der Augsburger Rat [seinen Schutz], doch ist es fraglich, ob er gegebenenfalls diesen wirklich gewähren kann. Haller ist bereit, für Christus zu leiden, doch nicht aus Gründen, die weder Christus noch der Kirche oder dem eigenen Heil dienlich sind.</t>
+<t>Die Ehefrau [...] von Claude d'Aliod, über den Haller bereits berichtet hat, soll laut dem Zürcher Boten [Hans Zingg] lange in Zürich gewohnt haben. D'Aliod hat in Augsburg nicht wenige mit der Lehre des Arius infiziert. Er und seine Anhänger mussten schließlich vor dem Rat ihrem Irrtum abschwören. Danach wurde er unter Zurücklassung eines schriftlichen Widerrufs aus der Stadt verwiesen.</t>
+<t>Landgraf Philipp von Hessen widmet sich angeblich der Jagd. Er soll von den üblen Bestrebungen seines Schwiegersohnes Moritz von Sachsen gewusst haben, was Haller allerdings bezweifelt.</t>
+<t>Abgesehen von den durch Augsburg ziehenden Soldaten sind dort die kaiserlichen Truppen noch nicht eingetroffen. Möge Kaiser Karl V. dermaßen in Anspruch genommen werden, dass es nie dazu kommt! Frölich wird Ausführlicheres darüber mitteilen. Haller verehrt diesen wie niemanden sonst.</t>
+<t>Grüße von Wolfgang Musculus, Michael Keller und Sixt Birck. Heute kam ein Brief von Francesco Stancaro aus Basel. Sebastian Schertlin wird schon in Zürich sein oder gewesen sein. Auf seinen Wunsch hin stellte Haller ihm ein Empfehlungsschreiben für Bürgermeister Hans Rudolf Lavater aus. Schertlin ist eine bedeutende Persönlichkeit und verdient die Achtung aller.</t></re>
+<text>
+<div>
+<p>S. P. <zzl>zl17073-1A</zzl>Accepimus tuas
+<fn>Bullingers Brief <qv>nr2780</qv> vom 30. Januar, der dem Ratsboten Hans Zingg anvertraut wurde; s. <qv>nr2788</qv>, <qv>fn17055-1</qv>.<zfn>fn17073-1</zfn></fn> una cum amplissimi senatus Tigurini literis ad nos
+<fn>Nämlich den Zürcher Pfarrern in Augsburg: Haller, Lorenz Meyer (Agricola), (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä.</fn> et ad senatum Augustanum missis.
+<fn>Zu diesen Briefen vom 30. Januar s. die oben in <qv>fn17073-1</qv> angeführte Stelle.</fn><zzl>zl17073-1E</zzl> <zzl>zl17073-3A</zzl>Scribunt, ut nos, si non possint
+<fn>Subjekt sind die Augsburger Behörden.</fn> liberam nobis condicere tuitionem, remittant; si vero hoc possint, ipsorum arbitrio permiserunt aut retinere nos aut dimittere.<zzl>zl17073-3E</zzl> <zzl>zl17073-4A</zzl>Romanus et ego, quandoquidem aperte non sumus revocati, ipsis splendida nobis promittentibus
+<fn>Vgl. <qv>nr2786</qv>,<qv>zl17054-16</qv>. <qv>zl17054-19</qv>.</fn> non vidimus occasionem abeundi honestam. Si enim nos discederemus, non dubito, quin Augustani Tigurinis magnifice (quid nobis promiserunt)
+<fa><i>Klammern ergänzt.</i></fa> scripturi essent; unde magna nobis apud vos conflaretur invidia.
+<fn>Weil Meyer und Schwyzer auf solch ein gutes Zeugnis neidisch wären und die Zürcher gegen die beiden anderen Pfarrer aufhetzen würden.</fn> Statuimus ergo maiorem expectare occasionem, qua uti volumus, si se obtulerit, nemine consulto, nisi d. Laeto
+<fn>Georg Frölich. - Dies bedeutet also, dass der Zürcher Rat in dessen Brief an die Pfarrer Haller und Ruman in Bezug auf den Entscheid, ob Augsburg zu verlassen sei oder nicht, die Erlaubnis gab, sich im Notfall an der Meinung von Frölich (und nicht an der des ganzen Augsburger Rats) zu orientieren. Dies entsprach z.T. dem von Haller in <qv>nr2786</qv>,<qv>zl17054-21</qv>, geäußerten Wunsch.<zfn>fn17073-2</zfn></fn>.<zzl>zl17073-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17073-5A</zzl>Laurentius et Rodolphus antiquum obtinent et tam importuna effutiunt, ut etiam non dubito, quin, si maxime manere vellent, essent remittendi.
+<fn>Vgl. schon <qv>nr2786</qv>,<qv>zl17054-22</qv>; <qv>nr2791</qv>,<qv>zl17060-34</qv>; <qv>nr2803</qv>,<qv>zl17071-1</qv>.</fn> Ablegabuntur brevi.<zzl>zl17073-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17073-6A</zzl>Romanum et me dimittere omnino nolunt
+<fn>Subjekt sind die Augsburger Behörden.</fn>, nisi vel imminentia urgeant pericula vel aperta a Tigurinis fiat vocatio.<zzl>zl17073-6E</zzl> <zzl>zl17073-7A</zzl>Nihil ergo nobis consultum est hoc dominorum
+<fn>Tigurinorum.</fn> consilio, nisi quod vident Augustani nos dominis Tigurinis curae esse.<zzl>zl17073-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17073-8A</zzl>Svitzerus, homo superbus et contumax, se mihi valde opposuit. Rogo, ab eius me defendas calumniis; Laurentius ut magis doctus ita etiam magis modestus.
+<fn>Vgl. <a>HBBW</a> XVIII 306,53.</fn> Conquestus sum ego apud consules
+<fn>Hans Welser und Jakob Herbrot.</fn> magnam nobis
+<fn>Haller und Ruman.</fn> invidiam et calumniam ex eis orituram Tigurum reversis, si nos maneamus. Responderunt, ut diligenter disquiram et, sicubi sentiam eos maligne nobis obloqui, eos tali
+<fa><i>Darauf folgt in der Vorlage</i> eos.</fa> velle prosequi elogio, ut vellent
+<fn>Subjekt sind Meyer und Schwyzer.</fn> se fuisse modestiores. Tu igitur nos defendas, nam habebimus alias universum senatum
+<fn>Augustanum.</fn>, qui nos defendat.<zzl>zl17073-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17073-9A</zzl>Interim tamen, cum pericula minora non sint, proditiones, seditiones intestinae metuendae,
+<fn>Vgl. <qv>nr2744</qv>,<qv>zl17013-10</qv>; <qv>nr2769</qv>,<qv>zl17037-21</qv>; <qv>nr2791</qv>,<qv>zl17060-33</qv>.</fn> adhuc rogo, ut alio modo consulas. Promittunt illi
+<fn>Die Augsburger Ratsherren.</fn>; sed, cum maxime, ut praestarent, opus erit, non poterunt. Nullum tamen detrectabo subire periculum, quod ad Christi cedat gloriam. Ea vero, quae nec gloriosa Christo, nec ecclesiae utilia, nec nobis
+<fa><i>Die Lesung</i> vobis <i>wäre auch möglich.</i></fa> salutifera, fugere debet christianus omnis.
+<fn>Vgl. dazu <qv>nr2791</qv>,<qv>zl17060-17</qv>.</fn><zzl>zl17073-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17073-10A</zzl>De Claudio illo Sabaudo
+<fn>Claude d'Aliod; s. Hallers Mitteilungen in <qv>nr2759</qv>,<qv>zl17027-21</qv>, und <qv>nr2786</qv>,<qv>zl17054-30</qv>.</fn> scripsi dudum. Dixit mihi tabellio ille Tigurinus
+<fn>Zu dessen Namen s. oben <qv>fn17073-1</qv>.</fn> uxorem eius
+<fn>Unbekannt.</fn> diu Tiguri fuisse commoratam. Seminavit Arianam haeresim nec paucos (qui et cum ipso incarcerati sunt) infecit. Tandem revocavit cum suis complicibus coram senatu. Scriptam etiam post se relinquens recantationem
+<fn>Es könnte sich dabei um die im Augsburger "Strafbuch" unter dem 2. Februar 1547 aufgezeichnete Widerrufung d'Aliods handeln, die in <a>Roth, Augsburg</a> III 271f, Anm. 46, abgedruckt ist.<zfn>fn17073-3</zfn></fn> dimissus est.<zzl>zl17073-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17073-2A</zzl>Langrafium
+<fn>Philipp von Hessen.</fn> venationi incumbere aiunt,<zzl>zl17073-2E</zzl> <zzl>zl17073-11A</zzl>et plurimi suspicantur omnis illius tragoediae, quam gener eius Mauritius
+<fn>Herzog Moritz von Sachsen war mit Philipps Tochter Agnes verheiratet.</fn> movit, fuisse conscium.<zzl>zl17073-11E</zzl> <zzl>zl17073-12A</zzl>Ego tamen non credo.<zzl>zl17073-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17073-13A</zzl>Caesareanos milites in urbe nullos adhuc habemus,
+<fn>Vgl. nämlich <qv>nr2791</qv>,<qv>zl17060-19</qv>.</fn> nisi qui peregrinantes transeunt. Speramus caesarem
+<fn>Karl V.</fn> ita occupatum futurum, ut nos ipsis non sit gravaturus. O utinam!<zzl>zl17073-13E</zzl> <zzl>zl17073-14A</zzl>Caeterum de his d. Laetus et verius et copiosius,
+<fn>Mit dessen Brief <qv>nr2803</qv> vom 8. Februar, in dem Frölich sich allerdings nicht darüber äußerte.</fn><zzl>zl17073-14E</zzl> <zzl>zl17073-15A</zzl>quem ego unum suspicio.<zzl>zl17073-15E</zzl></p>
+</div>
+<div>
+<p>Vale. Saluta fratres et familiam. <zzl>zl17073-16A</zzl>Salutat vos Musculus
+<fn>Wolfgang Musculus.</fn>, Cellarius
+<fn>Michael Keller.</fn> et Xystus
+<fn>Sixt Birck.</fn>.<zzl>zl17073-16E</zzl> <zzl>zl17073-17A</zzl>Hodie a Stanggaro
+<fn>Francesco Stancaro. - Zu dessen Weggang aus Augsburg s. <qv>nr2753</qv>,<qv>zl17000-1</qv>; <qv>nr2786</qv>, <qv>fn17054-1</qv>.<zfn>fn17073-4</zfn></fn> literas accepimus, qui Basilaeam pervenit.<zzl>zl17073-17E</zzl> <zzl>zl17073-18A</zzl>Schertlium modo vobiscum esse aut fuisse credo.
+<fn>Vgl. schon <qv>nr2786</qv>,<qv>zl17054-13</qv>. - Schertlin war am 2. Februar in Konstanz angekommen (s. <qv>nr2769</qv>, <qv>fn17037-2</qv>), sollte sich aber nicht in Zürich niederlassen; s. <qv>nr2800</qv>, <qv>fn17068-9</qv>.<zfn>fn17073-5</zfn></fn> Dedi enim ei, id a me exigenti, commendatitias ad consulem Lafaterum
+<fn>Hans Rudolf Lavater.</fn>. Vir vere magnus est et dignus, qui ab omnibus bonis ametur.
+<fn>Diese Bemerkung über Schertlin hat Haller wohl deshalb hinzugefügt, um seine in <qv>nr2744</qv>,<qv>zl17013-23</qv>, geäußerte Enttäuschung wieder gutzumachen.</fn><zzl>zl17073-18E</zzl> Vale denuo. 9. februarii 1547.</p>
+<un>I. Hallerus perpetuo</un>
+<un>tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. m. Heinrycho Bullingero, domino et patri suo venerando. Tiguri.</p>
+</div>
+</text>
+</brief>

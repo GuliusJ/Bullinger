@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1163">
+<nr>1163</nr>
+<correspondents>
+	<originator>Peter Schnyder</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Biel</place>
+	<date>29. August 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 360, 335-337 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Einen der beiden von Bullinger erhaltenen Briefe gab er durch [Niklaus] Wyttenbach an [Peter] Im Haag und [...] Nägeli
+weiter. Den andern las er mit Betrübnis; nachdem er, wie bereits mitgeteilt, zusammen mit [Rudolf] Rebstock und dem
+Meier [Valerius Göuffi] wegen des Wörtchens "nüt" [in der Abschrift des Lutherbriefs vom 27. Juni] in Sorge war, sind
+ihnen zwei weitere abweichende Abschriften aus Zürich zu Gesicht gekommen. Um zu verhindern, daß der Zürcher Rat und der
+Stadtschreiber [Werner Beyel] der Nachlässigkeit bezichtigt würden, schickte er zwei der Abschriften zur Berichtigung an
+[Beyel], bekam sie aber an entscheidender Stelle unkorrigiert zurück; nun ist er ratlos, wie er die Sache dem Bieler Rat
+und den Landpfarrern gegenüber vertreten soll. Hat in Treue zu Zürich gehandelt und möchte nicht als unruhiger Geist gelten.
+Versucht Luther gerecht zu werden, steht aber auf festem Glaubensgrund und wird keinen Verlockungen erliegen. Grüße.
+Fortunatus [Andronicus] erzählte, daß mit Bucer über eine allgemeine Synode unter Einbezug der französischen Berner
+Gebiete gesprochen worden sei und daß Bucer in einer Vorlesung die Gegenwart Christi im Brot mit Exodus [3, 2] begründet habe.
+</re>
+<tx>Pacem et veritatem a domino per Iesum Christum. Amen.
+^$Binas a te literas<f1>Nicht erhalten.<fe> per puerum meum<f1>Unbekannt.<fe> accepi, frater in Christo charissime atque in domino multum colendissime. Unas
+dedi prestanti viro Im Hag per Witenbachium nostrum, quas ei<fx>^#/+vor^#/- ei ^#/+gestrichenes^#/- et.<fe>
+nec non et Negali<f1>[Hans Franz oder Hans Rudolf] Nägeli.<fe> nomine<fx>^#/+vor^#/- Negali ^#/+und nach^#/- nomine ^#/+gestrichene Klammer.^#/-<fe> legendas por­rexit<fx>^#/+vor^#/- porrexit ^#/+gestrichenes unlesbares Wort.^#/-<fe> mutuo sese ad
+piam et non pervicacem quandam<fx>quandam ^#/+über der Zeile nachgetragen.^#/-<fe> constantiam adhortantes.
+^$Alteras ego accepi et legi quidem ingenti animi mei merore
+hac de causa: Audisti, qua ratione tibi super hac vocula
+"nüt" scripserim<f1>Schnyders Brief ist nicht erhalten. Wie sich aus dem Folgenden ergibt, bezog er sich auf eine Unklarheit in einer (nicht erhaltenen) Abschrift des Lutherbriefes vom 27. Juni 1538 an die reformierten Orte der Eidgenossenschaft (WA Briefwechsel VIII 241f, Nr. 3240). Gemeint ist
+wohl die Stelle S. 242, Z. 7f: "daß wir allhie nicht[!] lehren ...". Vgl. unten Z. 11-14.<fe> et quid maiorem<f1>Valerius Göuffi, 1533-1548 Meier von Biel; s. Emil Anton ^#/+Bloesch,^#/- Verfassungsgeschichte der Stadt Biel von der Frühzeit bis zum Sturz des Familienregiments im Jahre 1798, Biel 1977
+(Typoskript), S. 124.<fe> nostrum ac Rebstocckium nec
+non et me molestaverit. Wir kondend nit druß komen<f1>es nicht verstehen.<fe>, et non
+imerito quidem ablegato nuntio Tigurino<f1>Unbekannt.<fe> cum literis, quas
+tibi ex commissis senatorum<f1>der genannten Rebstock und Göuffi (s. Z. 8f).<fe> dederam, advenit Iacobus<f1>Jakob Würben.<fe> ex
+Tiguro ostendens literas<f1>Eine weitere, ebenfalls verlorene Abschrift des Lutherbriefes; s. oben Anm. 4.<fe>, quas descripsit a Rhellicano
+nostro, aliter sonantes non ex parte<fx>ex parte ^#/+über gestrichenem^#/- hac ^#/+nachgetragen.^#/-<fe> vocule<fx>vocule ^#/+korrigiert aus^#/- vocula.<fe>, que clara erat,
+sed in aliis verbis, namlich: "Doch<fx>^#/+vor^#/- Doch ^#/+gestrichenes^#/- Der warhafft lib under dem brot.<fe> glich wol der warhafftig
+lib unnd bluot unsers herren."<fx>^#/+Von^#/- Doch glich wol ^#/+bis^#/- herren ^#/+vom Schreiber unterstrichen.^#/-<fe><f1> WA Briefwechsel VIII 242, 9f.<fe>
+Hoc die etiam advenerat ex Tiguro der Niderlender venditor
+librorum (nescio, quo nomine vocatur)<f1>Quirinus von Leiden.<fe>. Is etiam ostenderat
+literas<f1>Nicht erhalten.<fe> habentes hec eadem verba, que minime litere Tigurine
+habebant, sed prorsus vacabant<fx>vacabant ^#/+vom Schreiber korrigiert aus^#/- vabant.<fe>.
+^$Tum totus tremebundus offendiculum timens hoc<fx>hoc ^#/+über der Zeile nachgetragen.^#/-<fe> precavere studens, ne nostri ansam surriperent, si res ad senatum deveniret, calumniandi tam senatum quam scribam<f1>Werner Beyel.<fe> Tigurinum<fx>Tigurinum ^#/+am Rande nachgetragen.^#/-<fe>, quasi minus in
+tam ardua re super ipsos intenti essent, sed pocius negligentes<fx>^#/+in der Vorlage^#/- neglientes.<fe>,
+excitabam ex bono et optimo corde, quod hactenus et nunquam
+mihi<fx>mihi ^#/+über der Zeile nachgetragen.^#/-<fe> defuit, a Tigurinis, puerum meum (quem humaniter
+excepisti) literas Iacobi et easdem, quas nuntius Tigurinus<fx>Tigurinus ^#/+über der Zeile nachgetragen.^#/-<fe>
+adportavit, comendans Tigurum ad scribam mittens obnixe<fx>^#/+vor^#/- obnixe ^#/+gestrichenes^#/- eum.<fe>
+ab eo pecieram, ut literas perspiceret eaque, que deessent,
+corrigeret, deffectum<fx>^#/+in der Vorlage^#/- deffendum.<fe> ei ob oculos ponens, ut ne ipse male
+audiret etiam a nostris. Es hatt doch niemet künden drauß
+komen noch verston. Eximas et tu<fx>et tu ^#/+über der Zeile nachgetragen.^#/-<fe>, candide frater, hec
+verba et vide, quid videas et intelligas et<fx>^#/+vor^#/- et ^#/+gestrichenes^#/- tu.<fe> quid
+alios in<fx>^#/+vielleicht zu ergänzen:^#/- his.<fe> velis erudire. Das habend wir in still gehapt,
+niemet ein wuort davon nit gesagt. Adveniente autem<fx>autem ^#/+über der Zeile nachgetragen.^#/-<fe> puero
+literas incorreptas<fx>^#/+in der Vorlage^#/- incorres.<fe> adfert, nisi quod voculam "nüt" correxit;
+cetera, daran der hafft gelegen<f1>wo der Knoten war.<fe>, ne<fx>^#/+vor^#/- ne ^#/+gestrichenes unlesbares Zeichen.^#/-<fe> puncto quidem attigit,
+unnd sind eben die, die wir vor warend<f1>und stehen dort, wo wir zuvor standen.<fe>. Nihil certi nobis
+constat, nihil certi in tam serioso negotio diffinire
+audemus, cum constet etiam nobis per Vittenbachium Bernatium
+litere non quemadmodum nostre sonare<f1>Eine nach Bern gesandte Abschrift des Lutherbriefs liegt in Bern StA, A V 1455, Nr. 128.<fe>. Quid igitur nos
+possumus<fx>^#/+nach^#/- possumus ^#/+gestrichenes, nur teilweise lesbares^#/- d[...].<fe> <vl>336</vl> respondere super quesita senatui nostro, quid
+fratribus in agro, quibus reddende essent<fx>^#/+vor^#/- essent ^#/+gestrichenes^#/- sunt.<fe> litere in lingua
+Gallica? Quis enim ipsis litteras Lutheri ex Germanica
+lingua in Latinam translaturus, cum non habeamus
+totae ac integre sicut Bernates et cetere
+ecclesie<fx>^#/+von^#/- cum non habeamus ^#/+bis^#/- ecclesie ^#/+am Rande nachgetragen.^#/-<fe>? Er ist ein munck, nut mit im ze schaffen haben wir,
+meyster. Und also ists ergangen und stat noch also.
+^$Das alles hab ich auß trewem gmiet wellen furkomen<f1>verhüten.<fe>; so stat
+es eben wie allweg<f1>immer.<fe>, das ich mich schier muoß uberreden<f1>daß ich beinahe mir selbst sagen muß.<fe>, was<fx>^#/+vor^#/- was ^#/+gestrichenes^#/- aller.<fe>
+ich ye der stat ze nutz und eren allwegen (das weyst gott)
+thuon und gesuocht, ouch mit minem grossen schaden<f1>Schnyder spielt auf seine Absetzung als Pfarrer im zürcherischen Laufen im Jahr 1536 an; vgl. HBBW VII, S. 35, Anm. 1.<fe>, solle
+mir für ein unruow ermessen<f1>angelastet.<fe> werden. Het ich doch lassen
+durchin gon<f1>durchgehen lassen.<fe> und ließ es noch also gon, das etlich thuond, so
+were ich deß verdacht (unriebig) uber<f1>dann gälte ich nicht als Unruhestifter.<fe>, hett yetz gen Zurich
+an den statschriber nit geschriben<fx>nit geschriben ^#/+am Rande nachgetragen.^#/-<fe>, den ich doch fur minen
+guoten herren (wie es mir joch alwegen<f1>auch immer.<fe> ergangen) gehapt hab,
+het vermeint, er hatt das thuon, darumb ich es im entlichen
+und fruntlichen geschriben hab<f1>nämlich die zurückgeschickten Briefe zu berichtigen (vgl. oben Z. 24-26).<fe>.
+^$Nun, min lieber herr und bruoder, ich habs nit mögen
+underlassen, euch, das mich truckt, in trewen klagnen, et
+vix me possum a lachrimis abstinere; videmus enim undique
+ecclesiam hac fece infectam, et quum opus esset oblatrantium
+ora obtrudere scriptis Lutheri<fx>scriptis Lutheri ^#/+vom Schreiber korrigiert aus^#/- scripte Luthere.<fe>, sanam (qui alias non sanus
+est) et integram non habemus. Monitis tuis, sicut in
+litteris tuis accepi, obsecundabo<fx>^#/+in der Vorlage^#/- obesecundabo, ^#/+über gestrichenem^#/- obsecundo.<fe>. Gott geb mir ein guott gmiet, und das ich von yederman ein recht iuditium halte<f1>gerecht urteile.<fe>, es sei gegen Luthero oder anderen. Mir ist nie newt
+reyß<f1>nichts Gehässiges?<fe> von im minem<fx>^#/+kann auch als^#/- minen ^#/+gelesen werden.^#/-<fe> hertzen vor gesin von 12 jaren haar.
+Ich hab ein bruoder<f1>Unbekannt.<fe>, der mir lange jar bekant, ist yez bey
+mir gewesen, sagt mir wu[ort?]<fx>^#/+Im engen Einband nicht lesbar.^#/-<fe> von Luthero; er ist zuo
+dem dritten mal selbs mit dem Appenzeller<f1>Niklaus Appenzeller überbrachte Luther den Brief der reformierten Orte vom 4. Mai; vgl. oben Nr. 1128, Anm. 8.<fe> zuo dem Luther
+gangen, dann er eben dozemal ouch da gewesen etc. Ego statui
+pedes meos supra firmam petram<f1>Vgl. Ps 40 (39 Vulg.), 3.<fe>, ex qua mihi satis aperta
+emanavit fidei<fx>^#/+vor^#/- fidei ^#/+gestrichenes^#/- nec.<fe> mei certitudo atque sinceritas propinata a
+preceptoribus ac magistris non penitendis. Hac contenta ero;
+nolo enim fontem aque vive<f1>Vgl. Apk 21, 6.<fe> effundere et aquam e cisterna et
+lacuna putrida haurire ac bibere<f1>Vgl. HBBW VI, S. 170, 34f mit Anm. 4; Wander III 1439, Nr. 25.<fe>. Bibant, qui velint. Das specklin ist under die<fx>under die ^#/+über gestrichenem^#/- uff die ^#/+nachgetragen.^#/-<fe> fallen glegt<f1>Vgl. Wander IV 679.<fe>, nöwsse<fx>^#/+vor^#/- nöwsse
+^#/+gestrichenes^#/- nösse.<fe><f1>schnuppere.<fe> ich; lecke,
+schlöne<f1>nasche.<fe>, sidtkuste<f1>picke wie ein Sittich[?].<fe>, schnape, gittlose<f1>esse gierig.<fe>, schmecke<fx>schnape, gittlose, schmecke ^#/+am Rande nachgetragen.^#/-<fe>,
+versuoche, wer welle. Ich mein, werind wir mit etlichen in
+die sach gangen, wie si es vor inen hattend, uns were yetz
+der lon wuorden von denen geschwinden, helen, nassen knaben<f1>schlauen, glatten, geriebenen Burschen.<fe>.
+^$Nun welle <vl>337</vl> uns der guötig gott erhalten, sinen friden und
+saegen gaeben. Amen. Matrem<f1>Anna, geb. Wiederkehr.<fe>, uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam, omnes fratres meos
+saluta, quorum fidei et caritati me spero semper esse
+comendatum.
+^$Ex Biela, 29. augusti 38.
+<un>Petrus tuus<fx>^#/+nach^#/- tuus ^#/+von anderer Hand ergänzt^#/- Schniderus.<fe>.
+<lz>Pridie dierum advenit ad nos Gallus quidam ex Argentina<fx>ex Argentina ^#/+am Rande nachgetragen.^#/-<fe>
+nomine Fortunatus<f1>Fortunatus (Eustache) Andronicus (André), gest. nach 1549, stammte aus Südfrankreich. 1531 wurde er - von Farel zur Reformation aus Straßburg in die Grafschaft Neuenburg berufen - Pfarrer von Bevaix (Kt. Neuenburg). 1533-1538 wirkte er als Pfarrer in Orbe (Kt. Waadt); im
+Oktober und November 1533 hielt er sich in Genf auf, wo er vermutlich auch predigte.
+Nach seiner (im vorliegenden Brief angesprochenen) Reise nach Straßburg und Basel, wo er sich bis Mitte August aufhielt und mit Calvin verkehrte, gab er sein Amt in Orbe auf und wirkte fortan in Cully und Villette (Kt. Waadt).
+Im Januar 1543 wurde er vom Berner Chorgericht vom Vorwurf ungebührlicher Reden gegenüber Frauen und Mädchen freigesprochen. Im Jahr 1549 wurde er vom Pfarrerkapitel seines Amtes enthoben. - Lit.: Corr. des réformateurs II, III, V, VII, VIII (Reg.);
+^&xBèze, Corr. IX 243;^&x{
+Henri ^#/+Vuilleumier,^#/- Histoire de l'église réformée du Pays de Vaud, Bd. IV, Lausanne 1933, S. 495; HBLS I 370.<fe>, quem optime norit Casparus<f1>Kaspar Megander.<fe> noster, homo
+pius nec sectator Lutheri. Is mira dixit de Bucero, quem
+admodum statuant et conentur tentare de quadam synodo
+generali, de hoc cum eo loquentes, quomodo etiam pos­sint
+Galli sub ditione Bernatum adesse et fieri presentes etc. Mi
+Bullingere, es ist bi miner trew kein bessers, dann wen si
+anwerbend<f1>umwerben.<fe>, das man inen widersag. Land uns mit lieb und unverworren<f1>Laßt uns unbehelligt und ungestört.<fe>, sitzend uff dem nest still. Is Fortunatus dixit mihi, quo modo audierit Bucerum in lectione publica hunc
+locum Exo[di] 3, [2]<fx>^#/+in der Vorlage irrtümlich^#/- Exo[di] 2.<fe> tractare: "Apparuit autem ei dominus in flamma
+ignis" et ex hoc probare presentiam Christi in pane<f1>Vgl. BucerDS VI/1 86, 21f.<fe> etc.
+<lz>[Adresse auf S. 338:] Clarissimo viro
+Heinricho Bullingero, ecclesie Tigurine antistiti<fx>^#/+in der Vorlage^#/- antisteti.<fe>.
+</content>
+</letter>

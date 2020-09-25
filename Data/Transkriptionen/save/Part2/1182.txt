@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1182">
+<nr>1182</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>28. September 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 107 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat brieflich vernommen, die Konkordie werde behindert, und erkundigt sich, ob wohl die Zürcher gemeint seien; weiß nur,
+daß sie die Straßburger nicht zufriedengestellt haben. Der seit fünf Jahren in Meersburg inhaftierte [Geistliche] hat sich unter
+dem Einfluß seiner Verwandten von seiner Frau losgesagt und auf die Messe geschworen. Joachim [Maler] wird berichten, wie es in
+Konstanz steht.
+</re>
+<tx>Salus et pax Christi.
+^$Scribit ad me quidam bonus vir<f1>Unbekannt.<fe> iterum atque iterum turbari concordiam; quis culpam aut causam praestet huius
+periculosae difficultatis, unum deum nosse. Quoniam vero iam
+diu apud nos nihil auditum est de hoc negotio, miror, an
+fortassis vos Tigurinos notare voluerit. Unum hoc scio,
+Argentoratensibus per vos non satisfieri.
+^$Deinde captivus ille<f1>Nicht namentlich bekannt; vgl. HBBW V, S. 223, 32f mit Anm. 16; VI 55, 14-16.<fe>, qui quinquennio
+Merspurgi fuit in carcere, emissus est, sed impiissimis conditionibus, in quas cognatorum et consanguiniorum blanditiis
+victus consensit. Abiuravit enim uxorem et ab ea papistico more absolutus est, deinde vero in missam iuravit datis sponsoribus,
+qui ducentos aureos pendant, nisi stet sententiae. Quam horrendum est, mi Bullingere, ferre crucem<f1>Vgl. Mt 10, 38 par und 16, 24 par.<fe> tanto tempore
+fortiter (nam primo mense sic poterat liberari) et tandem bonis verbis misere admodum et periculose deiici!
+^$Ut res apud nos habeant, ex viva epistola Ioachimo<f1>Joachim Maler.<fe> nostro sciscitari potes.
+^$Vale cum tota domo et bonis omnibus.
+^$28. septembris 1538.
+<un>Tuus Io. Zwick.
+<lz>[Adresse auf der Rückseite:] Domino Hainrico Bullingero.
+</content>
+</letter>

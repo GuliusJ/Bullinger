@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2844">
+<brief>
+<id>17112</id>
+<nr>2844</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-03-12"/>
+<ae>[Johannes Haller] an Bullinger</ae>
+<od>[Augsburg], 12. März 1547</od>
+<vo>Autograph: Zürich StA, E II 370, 59; [Beilage:] E II 370a, 558 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 155; [Beilage:] 156; Lit.: F. Roth: Augsburgs Ref'g. III 473 (Anm. 114), 475 </k></dr>
+<re><t>Haller sandte vor sechs Tagen einen recht kurzen Brief [<qv>nr2837</qv>] durch Hans Wilpert Zoller, also auch durch Lorenz Meyer und Rudolf Schwyzer d.Ä., und kündigte darin an, er werde mit dem gegenwärtigen Überbringer [...] ausführlicher schreiben. Doch leider gibt es auch jetzt keine verbürgten Neuigkeiten. Georg Frölich wird auch schreiben.</t>
+<t>Die Lage ist katastrophal. Den Besatzungssoldaten lässt man alles durchgehen. Sie plagen die Bevölkerung und kommen ungestraft davon. Der Augsburger Rat rechtfertigt seine Nachgiebigkeit damit, dass man dem Kaiser Karl V. ausgeliefert sei und das Böse mit Geduld zu ertragen habe. Unterdessen werden jedoch die Wahrheit und Christus verraten. Die Kaiserlichen machen laut bekannt, dass man sie nicht vor Jahresfrist loswerden wird, ja, nicht ehe die Pfaffen in der Stadt wieder zu ihren Rechten kommen und der Wille des Kaisers durchgesetzt wird.</t>
+<t>Die ärmere Bevölkerung ist über den Frieden empört. Die besseren Bürger sind den wichtigsten Kaufleuten ganz ergeben. Anton Fugger ist wieder da. Erst wurde er als Verräter verflucht, jetzt wird er als Vater des Vaterlandes und Stütze der Stadt gefeiert! Die ursprüngliche kaiserliche Besatzung ist nun von sechs auf zehn Fähnlein gewachsen!</t>
+<t>Der Kaiser ist aus Ulm abgereist. Die Straßburger sollen ihn in Nördlingen aufgesucht und sich ihm dort ergeben haben. Landgraf Philipp von Hessen führt angeblich dem Herzog Moritz von Sachsen Hilfstruppen gegen den Kurfürsten Johann Friedrich von Sachsen zu.</t>
+<t>Der Augsburger Bischof Otto Truchsess von Waldburg reformiert bzw. deformiert die Kirchen. Den verheirateten Pfarrern wurde gekündigt und das Unwesen des Konkubinats wieder eingeführt. Die Kirchen werden ihrer himmlischen Nahrung beraubt. Sie beschuldigen mit Recht die Pfarrer, sie diesem Wolf preisgegeben zu haben.</t>
+<t>Der kaiserliche Hauptmann [Bernhard von Schaumburg] ist im Besitz der Stadtschlüssel und lässt Nachtwachen abhalten. Viele Augsburger verkaufen alles und wollen wegziehen.</t>
+<t>Auf die Pfarrer nimmt man keine Rücksicht. Sogar die ihnen Wohlgesinnten wenden sich von ihnen ab. Wolfgang Musculus und Michael Keller bleiben standhaft, alle anderen sind unschlüssig. Allerdings wird ohne Furcht mit der Verkündigung [des Evangeliums] fortgefahren: Den Reuigen wird das Heil und den Übeltätern die Strafe verkündigt. Haller kann sich aber nicht vorstellen, dass die Pfarrer noch lange in der Stadt bleiben können; doch vorerst muss alles versucht werden! Anstelle der Augsburger Kirche will er lieber selbst verflucht sein, zumal jene in Schwaben der Zürcher Kirche am nächsten stand. Gott wird doch nicht diese fromme, große Gemeinde wegen einiger Taugenichtse aufgeben, zumal er Sodom nur schon zehn Frommen zuliebe verschont hätte. Bullinger möge beten, dass die Pfarrer aus der Hand der Feinde gerettet werden und Gott dienen mögen, solange sie leben.</t>
+<t>Gruß, auch an die Kollegen und an Rudolf Gwalther. Haller wird dessen Predigtnotizen zum Hebräerbrief bald zurücksenden.</t>
+<t>[Beilage:] Haller hatte diesen Brief schon verschlossen, als Frölich ihm ausrichten ließ, dass er nicht schreiben kann (da etwas dazwischengekommen ist), Bullinger aber wissen soll, dass der Kurfürst über Markgraf Albrecht Alcibiades von Brandenburg-Kulmbach (welcher Herzog Moritz zu Hilfe kam) gesiegt hat. Gott sei Lob! Gruß. Sollte Haller Weiteres darüber erfahren, wird er das nächste Mal berichten.</t></re>
+<text>
+<div>
+<p><zzl>zl17112-2A</zzl>S. P. Scripsi ante 6 dies per Zollerum
+<fn>Hans Wilpert Zoller, der vermutlich von Augsburg mit der Begleitung der beiden Zürcher Pfarrer beauftragt wurde.<zfn>fn17112-2</zfn></fn> atque etiam per fratres duos
+<fn>Lorenz Meyer (Agricola) und Rudolf Schwyzer d.Ä. - Gemeint ist Hallers Brief <qv>nr2837</qv> vom 5. März.</fn>, sed una tantum atque altera linea.<zzl>zl17112-2E</zzl> <zzl>zl17112-1A</zzl>Promisi me per hunc civem
+<fn>Der in <qv>nr2837</qv>,<qv>zl17104-14</qv>, angekündigte, unbekannte Augsburger Bürger, dem Haller den vorliegenden Brief mitgab.<zfn>fn17112-3</zfn></fn> copiosius scripturum.<zzl>zl17112-1E</zzl> <zzl>zl17112-9A</zzl>Sed quoniam materiam certam exiguam omnino habeam, etiam nunc brevior ero.<zzl>zl17112-9E</zzl> <zzl>zl17112-4A</zzl>Promisit d. Laetus
+<fn>Georg Frölich. - Es kam nicht zu solch einem Brief; s. unten Z. <qv>zl17112-3</qv>.</fn> aliqua se scripturum.<zzl>zl17112-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17112-10A</zzl>Pessime se habent omnia. Conceditur his militibus, quicquid volunt. Iniuria, qua ab ipsis afficiuntur cives, impune abit. Magistratus corda cera molliora
+<fa><i>In der Vorlage</i> mollieres.</fa> habet
+<fa><i>Über der Zeile nachgetragen.</i></fa>. Aiunt: "Quid faciamus? Sumus in manu caesaris
+<fn>Karl V.</fn>. Parendum erit, clementia speranda. Patientia vincendum malum." Interim hac patientia non conservatur, sed proditur veritas et Christus ipse! Iactant
+<fn>Subjekt sind die Kaiserlichen.</fn> se ante annum ex urbe non ablegandos, donec et pfaffi in urbem restituantur omniaque iuxta caesaris animum fiant. Rumores sparguntur varii.<zzl>zl17112-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17112-11A</zzl>Plebis pauperior pars indigne fert has pactiones. Qui civiliores sunt, a principum mercatorum pendent nutu.<zzl>zl17112-11E</zzl> <zzl>zl17112-12A</zzl>Rediit Fuggerus
+<fn>Anton Fugger. - Angesichts des bevorstehenden Krieges hatte er Augsburg bereits im Juli 1546 verlassen und sich nach Schwaz (Tirol) zurückgezogen. Mitte Januar 1547 begab er sich (via Augsburg) zum Kaiser. Erst am 5. März gelangte er wieder nach Augsburg; s. <a>Kirch, Fugger</a> 117-129.<zfn>fn17112-4</zfn></fn>, et quem prius ut proditorem patriae abominabantur et execrabantur omnes, eum nunc tanquam patriae patrem et columen urbis adorant.<zzl>zl17112-12E</zzl> <zzl>zl17112-6A</zzl>Vexilla 6 primo numero exiguo ingressa continua accessione fiunt validissima: Advenere 4 alia, ut iam habeamus 10.
+<fn>Siehe <qv>nr2821</qv>,<qv>zl17087-5</qv>. <qv>zl17087-35</qv>; <qv>nr2837</qv>, <qv>fn17104-1</qv>. Das von <a>Roth, Augsburg</a> IV 13f angegebene Datum (14. März) ist der vorliegenden Stelle zufolge einige Tage früher anzusetzen.<zfn>fn17112-1</zfn></fn><zzl>zl17112-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17112-13A</zzl>Ulmam caesar reliquit.
+<fn>Siehe <qv>nr2754</qv>, <qv>fn17022-3</qv>.</fn><zzl>zl17112-13E</zzl> <zzl>zl17112-14A</zzl>Nördlingae Argentoratenses ipsum convenisse fama est et se dedisse.
+<fn>Die Straßburger Gesandten trafen erst am 13. März in Nördlingen ein und leisteten dem Kaiser am 21. März den Fußfall; s. <qv>nr2822</qv>, <qv>fn17088-7</qv>.</fn><zzl>zl17112-14E</zzl> <zzl>zl17112-15A</zzl>De landgrafii
+<fn>Philipp von Hessen.</fn> perfidia praedicant mira; sive ex invidia sive rei veritate, adhuc dubito. Aiunt eum suppetias ferre duci Mauritio
+<fn>Moritz von Sachsen. - Ein falsches Gerücht. Zwar wurde damals bereits eine etwaige militärische Hilfe zugunsten von Moritz und Kaiser Karl V. im Entwurf der Kapitulationsbedingungen für den Landgrafen gefordert (s. Hessische Landtagsabschiede 1526-1603, hg. und eingeleitet v. Günter Hollenberg, Marburg 1994, S. 148 mit Anm. 9), doch der Landgraf lehnte es ausdrücklich ab, gegen frühere Verbündete zu kämpfen (s. <a>Moritz von Sachsen PK</a> III 279, Nr. 386).<zfn>fn17112-5</zfn></fn> contra electorem
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn>.<zzl>zl17112-15E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17112-16A</zzl>Episcopus Augustanus
+<fn>Kardinal Otto Truchsess von Waldburg.</fn> ecclesias deformat sive reformat iterum. Omnes parochos, qui uxores duxerunt, eiicit. Concubinarios scortatores restituit. Privantur ecclesiae pabulo coelesti. Damnant nos, qui eas ita lupo lacerandas
+<fn>Vgl. Mt 7, 15; Joh 10, 12; Apg 20, 29. - Vgl. <a>HBBW</a> XV 502,32f mit Anm. 30.</fn> dederimus, nec immerito.<zzl>zl17112-16E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17112-17A</zzl>Summus capitaneus
+<fn>Bernhard von Schaumburg.</fn> caesaris et claves urbis et vigilias habet nocturnas.<zzl>zl17112-17E</zzl> <zzl>zl17112-18A</zzl>Vendunt multi omnia, quae habent, et locum mutare meditantur.<zzl>zl17112-18E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17112-19A</zzl>Nostri
+<fn>Gemeint sind hier wie auch unten Z. <qv>zl17112-7</qv> alle in Augsburg wirkenden Pfarrer.</fn> nulla habetur ratio; sumus peripsemata
+<fn>Abschaum. - In Anspielung auf 1Kor 4, 13.</fn> mundi. Alienantur etiam benevolorum a nobis animi. Musculus et Cellarius sunt constantes. Caeteri omnes claudicant. Clamamus intrepide poenitentibus
+<fn>Bereuende; s. <a>Kirsch</a> 2189f.</fn> ad salutem, nebulonibus illis nequam ad iudicium. Non video ergo, quomodo <zzl>zl17112-7A</zzl>nobis<zzl>zl17112-7E</zzl> diu hic manendum. Tentabimus prius omnia, nam dolet mihi supra modum! Cuperem anathema
+<fn>verflucht. - In Anlehnung an Röm 9, 3.</fn> esse pro hac ecclesia, quia nulla ex omnibus Suevicis Tigurinae confessioni proximior fuit unquam! Spero deum, qui propter 10 iustos noluit perdere Sodomam,
+<fn>Gen 18, 32.</fn> propter paucos nebulones, qui haec omnia suis dolis fabricant, non extincturum tam numerosam et meo iudicio satis piam (ut sumus homines) et christianam ecclesiam. Ora pro nobis diligenter, si det dominus, ut sine timore de manu inimicorum nostrorum liberati serviamus ipsi in sanctitate et iustitia coram ipso omnibus diebus vitae nostrae.
+<fn>Lk 1, 74f.</fn> Amen.<zzl>zl17112-19E</zzl></p>
+</div>
+<div>
+<p>Vale cum omnibus tuis. Salvos cupio dominos patres et fratres omnes, <zzl>zl17112-5A</zzl>d. Gvaltherum etiam, cui sua mox remittam in epistolam ad Hebraeos memorialia
+<fn>Siehe dazu <qv>nr2744</qv>,<qv>zl17013-33</qv>, mit <qv>fn17013-3</qv>.</fn>.<zzl>zl17112-5E</zzl> Vale denuo. 12. martii 1547.</p>
+<un>Locum et manum nosti.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Fidelissimo Tigurinae ecclesiae antistiti d. Heinrycho Bullingero, domino et patri suo observando. M. Heinrych Bullinger z{uo} Zürich.</p>
+<lz/>
+</div>
+<div>
+<p><vl>558</vl> [Beilage:]</p>
+<p><zzl>zl17112-3A</zzl>S. Postquam occlusi meas literas, mittit ad me archigrammataeus
+<fn>Georg Frölich.</fn> et orat, ut ipsum apud te excusem (se enim scribere non potuisse propter intervenientia negotia
+<fn>Vgl. oben Z. <qv>zl17112-4</qv> und schon <qv>nr2838</qv>,<qv>zl17105-3</qv>.</fn>)
+<fa><i>Hier und unten Klammern ergänzt.</i></fa><zzl>zl17112-3E</zzl> <zzl>zl17112-8A</zzl>et ut addam venisse novitates certas, quod elector conflixerit cum marchione Brandenburgensi
+<fn>Albrecht II. Alcibiades, Markgraf von Brandenburg-Kulmbach; s. <qv>nr2832</qv>, <qv>fn17099-2</qv>.</fn> (qui venit in auxilium ducis Mauritii) et insignem victoriam reportarit. Deo laus!<zzl>zl17112-8E</zzl> <zzl>zl17112-20A</zzl>Vale. Omnis negotii, ubi comperero, te faciam certiorem.<zzl>zl17112-20E</zzl></p>
+</div>
+</text>
+</brief>

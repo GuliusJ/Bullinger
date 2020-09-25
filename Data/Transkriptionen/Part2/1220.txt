@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1220">
+<nr>1220</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>27. Januar 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 55 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Grüße. Hofft, daß Euander trotz Schwierigkeiten in Kempten bleibt. Bucer ist aus Hessen und Sachsen zurück; Näheres
+ist noch nicht bekannt. Zwick hat den von Leo [Jud] empfohlenen Thomas [...] von Löwen noch nicht gesehen. Daß es
+Michael [Back?] in Österreich gut geht, bestätigt auch [Balthasar von] Kuenring, doch die Ausbreitung des Evangeliums
+wird durch die Fürsten behindert. Bittet, die Nachricht über Michael auch Leo [Jud] mitzuteilen.
+</re>
+<tx>Salus et pax Christi.
+^$Nec mihi est, quod praeter salutationem ad te scribam<f1>Bullingers Brief, auf den Zwick antwortet, ist
+verloren.<fe>; est autem salutatio ista communis fratrum omnium, praecipue Ambrosii<f1>Ambrosius Blarer.<fe>,
+Cuͦnradi<f1>Konrad Zwick.<fe>, Thomae<f1>Thomas Blarer.<fe> consulis nostri. Omnes cupiunt, ut valeas.
+^$Dudum audivi Euandrum non mansurum Campoduni; causam<f1>Euanders Stellung in Kempten war durch den Streit der Pfarrer über die Abendmahlslehre bedroht; vgl. unten Nr. 1246,
+15f mit Anm. 6.<fe> non audivi nisi iam ex te, et facile crediderim bonum virum isthac permoveri, nec tamen vellem Campodunensem scolam illo privari.
+^$Bucerus ex Hassia et Saxonia his diebus rediit<f1>Vgl. oben Nr. 1217, 31f.<fe>; quid novi
+adferat secum, non habemus etiamnum<fx>^#/+in der Vorlage ^#/-etiam nun.<fe>.
+^$Leo<f1>Leo Jud.<fe> nuper michi commendavit Thomam<f1>Wohl ein Student; er hielt sich mehrere Monate bei Zwick auf und reiste
+anschließend nach Wittenberg, wo er sich im November 1540 immatrikulierte; s. Vadian BW V 564; Wittenberg, Matrikel I
+188.<fe> quendam Lovaniensem; sed nusquam vidi hominem.
+^$De Michaele<f1>Gemeint ist vielleicht Michael Back; vgl. HBBW VI, S. 356f, Anm. 1.<fe> meo nuper scripsi<f1>Ein entsprechender
+Brief Zwicks ist nicht vorhanden.<fe> illum in<fx>^#/+vor^#/- in ^#/+gestrichenes^#/- au.<fe> Austria bene habere; interim etiam
+Khienringius<f1>Balthasar von Kuenring.<fe> idem scribit<f1>Auch dieser Brief ist nicht erhalten.<fe>. De profectu autem
+evangelii quid sperandum, cum reges et principes istud persequantur? Sed quid dico, quasi vero regnum Christi non proficiat cęsaribus invitis!
+^$Sed vale cum tota domo.
+^$27. ianuarii 1539.
+^$Leonem salutabis multis modis meo nomine et fac eum
+certiorem eius, quod hic de Michaele scripsi.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, fratrum charissimo. Tiguri.
+</content>
+</letter>

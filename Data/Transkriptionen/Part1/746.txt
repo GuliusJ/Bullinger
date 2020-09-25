@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="746">
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Basel</place>
+	<date>um Mitte Februar 1536?*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 343, 212 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Hält es noch nicht für notwendig, sein Versprechen einzulösen.
+Empfiehlt einen Hausgenossen, der mit Bullinger sprechen möchte.
+Grüsse.
+</statue>
+<content>
+S. Vide, nondum respondeo promissis+2; facit, quod puto minime esse
+necessaria. Spero te valere cum fratribus.
+<p>Hic est convictor meus+3, homo vehementer studiosus nominis tui. Studebat nuper, cum hic adesses+4, tecum colloqui, sed negotia repugnabant. Dabis te ei nunc vel semihorulam.</p>
+<p>Vale in domino Christo, qui te in voluntate sua gubernet. Amen. Saluta fratres omnes, saluta uxorem+5.</p>
+<signature>
+Simon Gryneus tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinrycho Bullingero, suo
+patrono ac fratri charissimo.
+</address>
+</content>
+<note>
++1>Der Brief muss kurz nach einem der drei Besuche Bullingers in
+Basel geschrieben worden sein (s. Z. 4), die alle in das Jahr 1536 fielen
+(vgl. HBD 24, 20-22; 25, 6-10). Am 22. März 1536 beklagte sich
+Bullinger gegenüber Myconius, er habe von Grynäus (seit ihrer
+Zusammenkunft in Basel) nichts ausser einem einzigen Blatt erhalten (s.
+unten Nr. 770, 5-7); hierbei mag es sich um den vorliegenden Brief
+gehandelt haben.
++2>Die oben erwähnte Bemerkung Bullingers lässt vermuten,
+dass man vereinbart hatte, einander mehr zu schreiben.
++3>Zu denken ist vielleicht an Claus Bromm. Grynäus scheint in seinem
+Brief vom 22. August vorauszusetzen, dass Bullinger diesen kennt
+(s. unten Nr. 882, 10f). Bromm hielt sich bereits seit August 1535
+wieder in Basel auf; vgl. seinen Brief an Johann Schwebel
+vom 1. August 1535 (Strassburg Stadtarchiv, AST 154, Nr. 261).
++4>Wahrscheinlich ist die Teilnahme Bullingers an der Basler Tagung
+vom 30. Januar bis 4. Februar 1536 gemeint; vgl. Anm. 1.
++5>Anna Adlischwyler.
+;----------------------------------------------------------------------
+</note>
+</letter>

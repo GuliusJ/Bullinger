@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1783">
+<nr>1783</nr>
+<correspondents>
+	<originator>Guillaume Farel</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Theodor Bibliander</addressee>
+</correspondents>
+<space_time>
+	<place>Neuenburg</place>
+	<date>5. September 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 337a, 354 (Siegel)</vo>
+^&xK: Zürich ZB, Ms S 53, 93; Erw.: Egli, Analecta II 137.^&x{
+<re>Dankt für ihre freundschaftlichen Briefe und teilt ihren Wunsch, dass nach seiner Rückkehr [aus Gorze bzw. Straßburg]
+das Wort Gottes in Metz auch weiterhin Frucht tragen möge, doch insbesondere Kaiser [Karl V.] widersetzt sich dem, nicht nur in Metz, sondern auch im Herrschaftsbereich des Kölner [Erz-]Bischofs [Hermann von Wied]
+- dieser hält allerdings entschlossen an seinem Vorhaben fest, zusammen mit den von Bucer dort zurückgelassenen Predigern -;
+auch der Bischof von Münster [Franz von Waldeck] soll unter Druck gesetzt worden sein; die Verfolgung der Gläubigen, Kriege
+und das Wüten von Papst und Türken bewegen uns zum Gebet. Farel möchte Bullinger und Bibliander seine Liebe bezeugen, wünscht
+ihnen wachsenden Erfolg bei der Verbreitung der [evangelischen] Lehre und rühmt ihren Beitrag zur Ausbildung von Geistlichen;
+möge Gott sein Werk bei ihnen vollenden! Grüße, auch an Me­­gander, Pellikan und Gwalther sowie von [Maturin] Cordier.
+Thomas [de la Planche, gen. Barbarin] berichtete gestern Erfreuliches über den Zustand und die Entwicklung der Zürcher
+Gemeinden; möge Gott sie anderen zum Vorbild werden lassen! Die Brüder [in Neuenburg] erwidern ihre Grüße.
+</re>
+<tx>[Gedruckt: CO XI 606-608, Nr. 497; Corr. des réformateurs IX
+13-16, Nr. 1276.]
+</content>
+</letter>

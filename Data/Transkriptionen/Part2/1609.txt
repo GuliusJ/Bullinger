@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1609">
+<nr>1609</nr>
+<correspondents>
+	<originator fn=1>Dekan</originator>
+	<originator>Pfarrer von Neuenburg</originator>
+	<addressee>die Pfarrer von Zürich</addressee>
+	<note fn=1>Dekan des Neuenburger Kapitels war (seit 1539?) Thomas de la Planche, gen. Barbarin. Er stammte wohl aus La Côte-Saint-André (Dép. Isère), war 1534 Schüler von Johannes Sturm in Paris und setzte anschließend seine Studien in Basel fort. Ein Aufenthalt in Tübingen, das
+gelegentlich als Herkunftsort angegeben wird (vgl. Corr. des réformateurs III 248, Anm. 12, und 351, Anm. 17), lässt sich nicht nachweisen. 1535/36 wurde er erster evangelischer Pfarrer von Boudry (Kt. Neuenburg), wo er 1551 starb. - Lit.: [Ferdinand Henri] ^#/+Gagnebin,^#/- in: Eugène und Emile
+^#/+Haag,^#/- La France protestante, 2. Aufl., hg. v. Henri Bordier, Bd. I, Paris 1877, Sp. 772-774; Jules ^#/+Pétremand,^#/- in: Guillaume Farel 1489-1565. Biographie nouvelle écrite [...] par un groupe d'historiens [...], Neuchâtel-Paris 1930, S. 371 und Reg.; HBLS I 565.</note>
+</correspondents>
+<space_time>
+	<place>Neuenburg</place>
+	<date>28. Februar / 27. März 1542</date>
+	<note>Die Datierung lautet wörtlich: "Scriptae quidem prid. cal. mart., datae vero 6. cal. apr. Neocomi 1542". Der Brief wurde Bullinger am 10. April von Myconius aus Basel zugesandt; s. unten Nr. 1619, 51-53.</note>
+</space_time>
+<vo>Original von unbekannter Hand<fx>^#/+Adresse von anderer, ebenfalls unbekannter Hand. Dorsualvermerk von der Hand Johann Jakob Breitingers.^#/-<fe>: Zürich StA, E II 337a, 341-344 (Siegelabdruck<fx>^#/+Das Siegel trägt die Initialen von Mathurin
+Cordier.^#/-<fe>)</vo>
+<vo>Kopie: Ms F 81, 428 (undat.), Ms S 51, 68 (dat. auf 27. März 1542)<fn>Zit.: Pestalozzi 250</fn></vo>
+<vo>vgl. Bouvier 99</vo>
+<re>Endlich hat Gott die Gefahr von seiner Kirche abgewendet, nachdem der Abgang oder gar die gewaltsame Vertreibung Farels
+schon unausweichlich schien. Dies hätte schwere Folgen für die Kirche gehabt, doch Farel ließ sich nie in seiner Entschlossenheit
+beirren. Darin ist Gottes Wirken zu erkennen, und die Bitten der Zürcher und anderer haben dazu beigetragen; ihr Brief an die
+Neuenburger [Nr. 1585] hat diese aufs höchste erfreut und angespornt. Außer der Gefahr, die von [den Türken] und der Pest
+ausgeht, war es vor allem der drohende Aufruhr gegen Farel, der sie veranlasste, ihre Gemeinden ernsthaft zu ermahnen. Schon vor
+dem Schreiben der Zürcher war im ganzen Neuenburger Gebiet ein außerordentliches Abendmahl gefeiert worden, wobei viele
+Verführte zur Einsicht kamen; auch Predigten, [Farels] Krankenbesuche und sein freundlicher Umgang mit den Gegnern
+trugen dazu bei. Als die von den Berner Vermittlern gesetzte Frist ablief, lagen bereits die Briefe der Pfarrer und des Rats
+von Zürich [Zürich StA, B IV 12, 23v.-24r.]^&xMo. nach Martini^&x{ vor; die Entscheidung über Farels Verbleib wurde vorerst auf den [27. November] vertagt. Der Berner Rat
+schrieb nach Neuenburg, man habe mit dem früheren Schiedsspruch keinesfalls auf Farels Abgang drängen wollen.
+Nachdem eine Versammlungsmehrheit - in Abwesenheit des Gouverneurs [Georges de Rive] - für den Verbleib Farels votiert
+hatte, wäre der Konflikt beigelegt gewesen, wenn die Gegner nicht nach der Rückkehr [des Gouverneurs] für neue Unruhe
+gesorgt hätten. Sie erreichten schließlich, dass Bern erneut beide Parteien durch Gesandte anhören ließ. Gegen Ende Januar
+trugen beide Seiten ihren Standpunkt in Bern vor, worauf eine Versammlung zur endgültigen Mehrheitsfindung einberufen wurde.
+Die Vertreter beider Seiten einigten sich bereits im Vorfeld auf den Verbleib Farels, doch einige Gegner wollten
+wegen eines leichtfertig geschworenen Eids vom Besuch seiner Predigten befreit werden; an der Versammlung [vom 29. Januar]
+setzten sich jedoch Farels Anhänger mit klarer Mehrheit durch. Die Neuenburger Pfarrer berichten so ausführlich darüber, weil
+sie die Freude über Gottes Beistand mit den Zürchern teilen wollen. Wie König [David] möchten sie, gemeinsam mit ihnen, Gott
+für seinen Sieg über Satan lobpreisen. Sie versichern ihnen ihre Dankbarkeit und Bereitschaft zu gegenseitigem Dienst und bleiben
+mit ihnen in der Gemeinschaft des Hl. Geistes verbunden. Gruß und Dank auch an den Zürcher Rat.
+</re>
+<tx>[Gedruckt: Corr. des Réformateurs VII 427-436, Nr. 1099; Teildruck: CO XI 370-376, Nr. 388.]
+</content>
+</letter>

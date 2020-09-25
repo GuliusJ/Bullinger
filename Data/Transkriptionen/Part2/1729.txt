@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1729">
+<nr>1729</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>6. März 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 266 (Siegel)</vo>
+^&xK: ZZB, Ms B 171, 50 (H.K.Füssli); Ms S 52, 150; Erw.: Analecta II 60.^&x{
+<dr>Ungedruckt</dr>
+<re>Klagt über Mangel an Boten und entschuldigt sich für seine ungeschickte Bemerkung in einem Brief an [Ambrosius] Blarer.
+Legt einen Bericht über den Tod von [Johannes] Eck bei und bittet um Rückgabe. Zitiert aus einem Brief Bucers [vom 18. Februar]: In Andernach predigt Erasmus
+Sarcerius, auch in [Köln] und Linz [am Rhein] wird evangelisch gepredigt, und zu Ostern wird es möglich sein, die Eucharistie
+gemäß der Einsetzung durch Christus zu empfangen, doch Universität, Klerus und Rat von Köln sind [Erzbischof Hermann
+von Wied] wegen der Berufung Bucers feindlich gesinnt; in einem Brief an [Jakob] Sturm schrieb Bucer außerdem über mangelnden
+Friedenswillen des schlecht gerüsteten [Herzogs Wilhelm von] Jülich. Myconius bittet um genauere Nachricht über die
+Achtandrohung des Kammergerichts, da er aus Ratskreisen nichts erfährt; man hält den Pfarrern Heuchelei vor, nachdem der Pedell
+der Universität wegen Ehebruchs eingesperrt wurde, doch dieser war trotz Predigttätigkeit nie ihr Mitbruder. Gruß; lässt
+[Theodor] Bibliander wissen, dass er noch keinen Koran besitzt, da Oporin diesen in Basel [wegen des obrigkeitlichen Verbots] um keinen Preis verkauft.
+</re>
+<tx>S. Vides in literis, quibus postremis tuis<f1>Nicht erhalten.<fe> respondeo, quam inops sim tabellionum. Nescio, qui fiat: Nemo venit ad me intra tantum temporis, qui Tigurum
+ire voluerit. Timebam nonnihil, ne forsitan incideret, dum ego tacerem, aliquid tibi de me sinistri; verum protinus excutiebam cogitans dilectionem non facile suspicari. Stulticia mea,
+quę libenter magnos viros pro amicis haberet, verbum istud ad Blaurerum extruserat<fx>^#/+Vom Schreiber(?) korrigiert aus^#/- extruserant.<fe>,<f1>Vgl. oben Nr. 1724, 13-22; 1725, 6-10.<fe> non considerans nihil in me esse, quod eos queat adlicere. Nam
+illud crede: Mox, ubi idipsum subcurrit, contrahere me incipio, et paenitet, si quid effutivi imprudentius. Sed evolat
+irrevocabile verbum,<f1>Vgl. Horaz, Epistulae, 1, 18, 71.<fe> quamobrem stulticię parcen­dum est; cautior ero deinceps.
+^$Obitum Eccii<f1>Johannes Eck, vgl. oben Nr. 1728, Anm. 17.<fe>
+descriptum misissem, nisi Gastius<f1>Johannes Gast (vgl. oben Nr. 1728, 26).<fe> iussisset, ut literas meis adnexas darem integras,<f1>Um welchen Brief es sich
+handelte, ist nicht bekannt. Zu den polemischen Berichten über Ecks Tod s. Tres orationes funebres in exequiis Ioannis Eckii
+habitae, hg. v. Johannes Metzler, Münster 1930. - Corpus Catholicorum 16, S. XXX-XXXIX.<fe> sub remittendi tamen conditione. Videtur mihi piis cum iudicio expendendum severiore.
+^$Ex literis Buceri hisce diebus redditis haec sunt:<f1>Myconius zitiert aus dem Brief Bucers an die Straßburger Prediger vom
+18. Februar 1543 (Straßburg Stadtarchiv, AST, Nr. 153, 27; gedruckt in: C[onrad] ^#/+Varrentrapp,^#/- Zur Charakteristik Hermanns von Wied, Bucers und Groppers, in: ZKG XX, 1900, S. 37-58, hier S. 39f).<fe> "Iam
+Andernaci praedicat Erasmus Sarcerius,<f1>Sarcerius predigte seit spätestens 20. Februar bis mindestens Juni 1543
+(allerdings wohl mit Unterbrechung im April/Mai) in Andernach; s. Stephan ^#/+Laux,^#/- Reformationsversuche in Kurköln
+(1542-1548). Fallstudien zu einer Strukturgeschichte landstädtischer Reformation (Neuss, Kempen, Andernach, Linz),
+Münster 2001. - Reformationsgeschichtliche Studien und Texte 143, S. 309-311.<fe> vir gravis et prudentis zeli. Sunt et apud
+regulos<f1>Gemeint ist offenbar: in Köln (der Stadt der Heiligen Drei Könige).<fe> aliquot et Lincii<f1>Zu den
+Verhältnissen in Linz am Rhein (Kr. Neuwied, Rheinland-Pfalz) um Anfang 1543 s. ^#/+Laux,^#/- aaO, S. 372-382.<fe>, qui Christum
+item fideliter prędicant.<f1>Als evangelischer Prediger ist namentlich Johann Meinertzhagen bekannt; zu den Sympathisanten
+der Reformation in Köln vgl. ^#/+Varrentrapp,^#/- Reformationsversuch 159-164.<fe> Paschate<f1>Am 25. März.<fe>
+eucharistia petentibus et doctis hoc mysterium dabitur iussu reverendissimi<f1>Erzbischof Hermann von Wied.<fe> iuxta
+institutum domini.<f1>D. h. unter beiderlei Gestalt (vgl. ^#/+Varrentrapp,^#/- Reformationsversuch 152f).^&xLenz II 124. 135. 146^&x{<fe> Interim autem Coloniensis schola et clerus extrema contra optimum senem
+moliuntur. Violatę religionis ac iurisiurandi eum accusant eo, quod me adhibeat in sua dioecesi sacris concionibus, qui
+sim de protestantibus, bigamus<f1>Zu diesem Vorwurf vgl. HBBW XII, S. 25, Anm. 5.<fe>, primarius Lutheranus, Argentoratensis,
+et reipublicae Coloniensi consilium<fx>consilium ^#/+am Rande nachgetragen.^#/-<fe> dederim contra clerum. Senex autem mira
+constantia perstat. Senatus Coloniensis cum clero facere dicitur, quanquam ma­ior pars populi et senatorum verbo dei
+faveat." Hactenus ille. De bello nil nisi hoc scribit ad Sturmium,<f1>Die Mitteilung aus einem (nicht mehr erhaltenen)
+Brief Bucers an [Jakob] Sturm war Myconius am 27. Februar durch Konrad Hubert mitgeteilt worden; s. Zürich ZB, Ms F 80,
+123.<fe> Iuliacensem<f1>Herzog Wilhelm von Jülich-Berg-Kleve-Geldern.<fe> non habere aures ad consilia. Nuper non potuerunt
+impetrari inducię nisi octo dierum,<f1>Vgl. ^#/+Heidrich,^#/- Erbfolgestreit 81f.<fe> cum interim tamen minimum sit
+instructus. Contra Brabanti exercitum habent et magnum et paratum.
+^$Cęterum de banno camerę<f1>Bullinger scheint in seinem verlorenen Brief die Ladung Basels und anderer Orte vor das
+Reichskammergericht angesprochen zu haben; zu den diesbezüglichen Verhandlungen der Tagsatzung vom 12. Februar s.
+EA IV/1d 216 a.<fe> ego quidem ne verbum novi. Siquid habes igitur, gratum facies, si communicaveris. Primates nostri tanto
+nos prosequuntur odio, ut malum prius quam sua communicarent consilia. Pedellus universitatis<f1>Unbekannt.^&xspäter Jakob Waltz, s. Amerbach, Korr. VI, Nr. 2969 (gehört nach Mitt. v. B. R. Jenny ins Jahr 1566!^&x{<fe> nudius
+quartus est ductus in carcerem propter adulterium; hic, quia in pago episcopali concionatorem egit nec missus nec examinatus,
+adeo nos gravat, ut dicere nequeam. Ita dicunt: "Die schantlichen, lasterlichen pfaffen könnend nüt dann uff uns
+schlachen und zur stadt uß jagen, und was sy uns werrend<f1>verbieten.<fe>, das thuͦnd sy selb" etc. Ego nihil
+aliud nisi hoc: "Non fuit predicant, non fuit gsell, non communicavit nobiscum, non audivit nos, imo odio me prosequutus est et dominum Grynęum extremo; sed pedellus fuit academię
+vestrę. Quid igitur ad nos, quod designavit? Abite simul,
+quo digni estis; non est enim rectus animus vester, id quod
+dominus olim ostensurus est non sine damno vestro
+gravissimo." Et hanc calamitatem nostram te scire volui;
+urgeor, non possum plura.
+^$Vale in Christo cum tuis et cum Theodoro<f1>Theodor Bibliander.<fe>, cui dicas me post tot divexationes carere
+Alcorano. Oporinus non ausus est vendere hic;<f1>Der vom Rat nach langen Auseinandersetzungen freigegebene Korandruck Oporins
+durfte in Basel nicht verkauft werden; s. oben Nr. 1711, 6-14 mit Anm. 7, und Nr. 1712.<fe> responderat enim requirenti mihi:
+"Non acciperem totam civitatem", ignorans, si civitas ipsius fuisset, et dominium civitatis ipsius fuisse. Vale iterum.
+^$Basileę, 6. martii anno 1543.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero suo.
+</content>
+</letter>

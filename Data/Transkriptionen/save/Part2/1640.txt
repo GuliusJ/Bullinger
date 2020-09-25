@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1640">
+<nr>1640</nr>
+<correspondents>
+	<originator fn=1>Meier</originator>
+	<originator>Rat von Biel</originator>
+	<addressee>die Pfarrer</addressee>
+	<addressee>Lehrer von Zürich</addressee>
+	<note fn=1>Vgl. HBBW XI, S. 168, Anm. 1.</note>
+</correspondents>
+<space_time>
+	<place>[Biel]</place>
+	<date>25. Juni 1542</date>
+</space_time>
+<vo>Original<fx>^#/+Mit einer marginalen Annotation und Unterstreichungen von J. H. Hottinger^#/-.<fe>: Zürich ZB, Ms F 37, 58 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Der Überbringer dieses Briefes, Michael [Schlatter], wird betreffend den weiteren Aufenthalt der Bieler Stipendiaten [Abraham und Beat Steinegger] nach dem Rechten sehen; die Knaben sollen [als Tischgänger] in einem anderen Haushalt untergebracht werden, wo bessere Möglichkeiten zur Pflege der
+mündlichen lateinischen Sprache bestehen; Bitte um Beratung [Schlatters] und gute Betreuung der Knaben.
+</re>
+<tx>Unser früntlich gruͦß sammpt erbiettunng aller erenn,
+liebß und guͦtz zuͦ befor.
+^$Wolgelertt, fromm, ersamm,
+wyß, insunders günstig, lieb herrenn und guͦtte fründt, alß
+dann unser predicantt, herr Michell<f1>Michael Schlatter.<fe>, zeiger diß brieffs<f1>Überbringer dieses Briefes.<fe>,
+zuͦ üch khomenn wirtt, habenn wir ime befolchen, unser
+stipendiarios<f1>Bei den Bieler Stipendiaten handelt es sich um Abraham und Beat Steinegger, vgl. HBBW XI, Nr. 1507 und 1515.<fe> by üch mitt üweremm rhatt widerumb ze
+versächen. Doch so ist unser will und meynung, das die
+knabenn für hin<f1>forthin.<fe> zuͦ einemm in disch verdinngtt<f1>in Kost geben.<fe> wärdenn, der
+mer knabenn by im am disch hatt, von wägenn sy sich mitt
+andrenn jungenn studenttenn lattin zuͦ redenn gebruchen
+mögenn.<f1>Aus Bullingers Schreiben an Meier und Rat von Biel vom 23. Januar 1543 (Biel Stadtarchiv, 119, CXXIX, Nr. 12) geht hervor, dass die beiden Stipendiaten zu diesem Zeitpunkt bei Johannes Fries einquartiert waren.<fe> Derhalbenn ist unser ernstig, früntlich bitt an üch,
+wellenntt genanntem unseremm predicanntten in selichem mitt
+rhatt beholffenn sin und ein jeder under üch uff unser knabenn
+ein ernstig, flissig uff sächenn habenn, alß wärendt sy die
+üwerenn. Selichs wellenntt wir ummb üch sammpt oder sunders,
+wo eß sich iemer<f1>immer.<fe> gebürtt, früntlich gern verdienenn und
+günstlich beschuldenn<f1>gerne vergelten.<fe> mitt hilff deß allmächtigenn, den wir
+bittenn, üwer würde säligcklich zuͦ bewarenn etc.
+^$Datumm suntag deß 25. iunii anno etc. 42.
+<un>Meiger und rhatt
+<un>zuͦ Biell.
+<lz>[Adresse auf der Rückseite:] Den wolgelerttenn,
+ersamen, wysen herrenn gemeinnen<f1>vereinten.<fe> predicanttenn sammpt andrenn
+gelerttenn der statt Zürich, unsern sunders günstig, lieb
+herrenn und guͦtten fründen.
+</content>
+</letter>

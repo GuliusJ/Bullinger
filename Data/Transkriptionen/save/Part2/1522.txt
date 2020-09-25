@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1522">
+<nr>1522</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>27. Mai 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 471 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Wie Grynäus vielleicht schon geschrieben hat, wird [im Regensburger Religionsgespräch] hart um die Transsubstantiation,
+die Anrufung der Heiligen, die Fürbitte für die Toten und die Messe gerungen, während die Gegner bei der Rechtfertigungslehre
+unerwartet große Zugeständnisse gemacht haben. Herzog [Wilhelm] von Kleve ist mit 300 Pferden nach Frankreich gezogen, um seine
+Braut [Jeanne d'Albret] heimzuführen; sein berittenes Heer hat in Deutschland nicht seinesgleichen, und seine Heirat wird Kaiser [Karl V.] schmerzen. Grüße.
+</re>
+<tx>S. Si Grynęus non scripsit,<f1>Ein entsprechendes Schreiben von Grynäus liegt nicht vor.<fe> sic postremo
+accepimus:<f1>Myconius bezieht sich auf einen Brief Capitos an Grynäus vom 18. Mai, von dem nur ein Exzerpt von Myconius' Hand
+erhalten ist (Zürich ZB, Ms A 40, Nr. XII, S. 26; vgl. Capito, Corr. 269, Nr. 755). An gleicher Stelle finden sich weitere
+Auszüge aus Briefen vom April/Mai 1541, die offenbar von Straßburg nach Basel gesandt und teils von Myconius, teils von
+Christoph Rotacher kopiert wurden (aaO, S. 25-27). Zu den Einzelheiten der Verhandlungen vgl. die Berichte von Gwalther
+und Pistorius vom 30. Mai (unten Nr. 1523f).<fe> Res, quia in paucorum manibus est, ob magnitudinem eos propemodum enecat.
+Transsubstantiatio, intercessio sanctorum, suffragia mortuorum et missa maxime obsistunt. Concesserunt adversarii in materia
+iustificationis, quod putarant omnes impugnaturos eos acerrime. Nullus e scholasticis unquam eousque pervenit. Petunt, ut fratres precibus dominum implorent, ut mittat auxilium.
+^$Reliquum est: Dux Clivensis transiit in Galliam ad evocandam sponsam suam<f1>Herzog Wilhelm von Jülich, Berg und Kleve
+heiratete am 14. Juni 1541 in Châtellerault Jeanne d'Albret, die dreizehnjährige Tochter des Königs von Navarra; s. Woldemar ^#/+Harless,^#/- Zur Geschichte Herzog Wilhelm III. von
+Cleve-Jülich-Berg. Die Navarresische Heirat und des Herzogs Reise nach Frankreich, in: Zeitschrift des Bergischen
+Geschichtsvereins 1, 1863, S. 1-38.<fe> trecentis equis<f1>In einem Bericht aus der herzoglichen Kanzlei ist von ungefähr 70 Pferden die Rede (s. ebd., S. 17).<fe>. Non est in Germania par equitatus, qualem ille habet. Dolebit connubium
+caesari, cum ipse tamen in causa sit, quamobrem dux Gallam duxerit.<f1>Die Auseinandersetzung mit Kaiser Karl V. um Geldern
+veranlasste den Herzog, seine Position durch eine französische Verbindung zu festigen.<fe> Non possum plura scribere propter negocia.
+^$Vale cum tuis. Theodorum<f1>Theodor Bibliander.<fe> et Pellicanum salvos opto.
+^$Basileae, 27. maii anno 1541.
+<un>Tuus Myconius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero suo.
+</content>
+</letter>

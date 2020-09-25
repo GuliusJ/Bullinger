@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1785">
+<nr>1785</nr>
+<correspondents>
+	<originator fn=1>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Nur der Schlussteil des Briefes (unten Z. 66-72) stammt von Myconius selbst (vgl. Anm. a). Vorangestellt ist die Abschrift zweier anonymer Briefe (unten Z. 1-48 und 49-65). Diese wurden in einer Stadt geschrieben, die den
+schmalkaldischen Bundestag beschickte (vgl. unten Z. 38-41). Zu denken ist in erster Linie an Straßburg, wofür auch die
+Nachricht über die Rückkehr Bucers spricht (vgl. unten Z. 49). Als Absender kommen am ehesten Theobald Nigri und Konrad Hubert in Frage.</note>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>[nach 16. September 1543]</date>
+	<note>Wegen der Nachrichten über den Ausgang des geldrischen Erbfolgekrieges steht das Jahr zweifelsfrei fest. Myconius hat bereits Kenntnis von der Rückkehr Bucers nach Straßburg am 16. September (vgl. unten Z.
+49). In seinem Schreiben vom 1. Oktober verweist er auf den vorliegenden Brief zurück (vgl. unten Nr. 1792, 1-4).</note>
+</space_time>
+<vo>Original/Autograph<fx>^#/+Der letzte Teil des Briefes (unten Z. 66-72) und die Adresse sind autograph; die vorausgehenden Briefabschriften wurden von Leodegar Hirsgarter angefertigt, wie Myconius im Brief vom 1. Oktober bemerkt (s. unten Nr.
+1792, 1-3). Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 223f (neu: 241r.-v.) (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 126^&x{
+<dr>Ungedruckt</dr>
+<re>[Erste Briefabschrift:] Die Präsenz von Kaiser [Karl V.] [am Niederrhein] verbreitet Schrecken und bestärkt die Gegner, besonders die
+Kölner, an die der Kaiser geschrieben hat; auch die Bischöfe - außer jenem von Münster [Franz von Waldeck] folgen dem Kölner
+Erzbischof [Hermann von Wied] nicht länger. Am Bartholomäustag [24. August] wurde Düren erobert und verwüstet, worauf Roermond
+dem Kaiser die Tore öffnete; vor Venlo stellte sich Herzog [Wilhelm] von Jülich in Begleitung von Herzog Heinrich von
+Braunschweig[-Wolfenbüttel] dem Kaiser; als Bedingung für den Frieden musste er auf Geldern verzichten. Nun droht ein Angriff
+auf die Protestanten, worauf auch Heinrich von Wolfenbüttel drängt; dem [Kurfürsten Johann Friedrich] von Sachsen wurde
+bereits gedroht; in Frankfurt treffen sich die [schmalkaldischen] Kriegsräte - der Delegierte [von Straßburg?]
+ist vorgestern abgereist -; Landgraf [Philipp von Hessen] soll alle Fuhrleute alarmiert haben; wenn nicht der französische Angriff den Kaiser nach Luxemburg ruft, wird er [in
+Deutschland] tun, was ihm beliebt. [Zweite Briefabschrift:] Bucer ist am 16. September zurückgekehrt. Der
+Herzog von Jülich musste dem Kaiser schwören, nie mehr die Waffen gegen ihn und Burgund zu richten; beide wollen einander
+zurückgeben, was dem andern zusteht; der Herzog soll eine Tochter [König] Ferdinands heiraten und später Brabant
+regieren; Geldern möchte Teil des Reichs werden; es wird weiter verhandelt, und noch ist unklar, wohin die beiden Heere ziehen
+werden. Der [Kurfürst] von Sachsen und der Landgraf rüsten sich unter dem Vorwand der Türkengefahr; falls der Kaiser den
+[Herzog] von Braunschweig wieder einsetzen will, droht den Protestanten Krieg. Die Türken, die schon das Piceno-Gebiet
+verwüstet haben, sollen zahlreich in Spanien gelandet sein; [König Franz I.] paktiert mit ihnen. [Beischrift von Myconius:]
+Straßburg schrieb an Basel wegen eines Franzosen [Jacques Reynaud], der zusammen mit einem gelehrten Landsmann [Philibert
+...] von einem Räuber [Konrad Köth] nach Breisach ausgeliefert wurde; [das vorderösterreichische Regiment in] Ensisheim hat den Kaiser
+angefragt, was mit ihm geschehen soll. Kann nicht weiterschreiben; der Bote ist reisefertig.
+</re>
+<tx>Omnia plena timoris<f1>Vgl. Cicero, Epistulae ad Atticum, 7, 12, 2; Caesar, Commentarii belli civilis, 2, 41, 8.<fe> esse intelligo propter caesaris
+praesentiam,<f1>D. h. wegen des Feldzugs von Kaiser Karl V. am Niederrhein.<fe> quae multos, ne, quod cupiunt in evangelii
+negocio, faciant, deterret, adversarios autem in furore magis
+confirmat, praesertim Agrippinenses, qui ob literas caesaris
+ad se<f1>Zu den Schreiben, die der Kaiser am 8. bzw. 9. August an den Kölner Rat, den Klerus und die Universität gerichtet
+hatte, s. ^#/+Varrentrapp,^#/- Reformationsversuch 211; Johannes Gropper, Briefwechsel, Bd. I: 1529-1547, bearb. von Reinhard Braunisch, Münster Westfalen 1977. - Corpus Catholicorum 32, S. 343, Anm. 4; zum Schreiben an die Universität auch ^#/+Schlüter,^#/- Streitschriften 196 (Nr. 50).
+369.<fe> paulo liberalius scriptas et veterem, hoc est Romanensium, religionem comendantes mire triumphant et
+insolentius vicinis suis insultant. Episcopi etiam caeteri praeter Monasteriensem<f1>Franz von Waldeck, Bischof von
+Münster.<fe>, quos consilia Coloniensis et archiepiscopi sui<f1>Hermann von Wied, Erzbischof von Köln.<fe> putabamus
+secuturos esse, mussitant nunc et diutius expectandum esse censent, si forte Christus denuo resurgat, qui nunc illis
+videtur iterum sepultus. Vide hominum miseriam et in rebus divinis exitiosam cessationem!
+^$Quod ad bellicos attinet tumultus, caesar vix ingressus Iuliam<f1>das Herzogtum Jülich.<fe> ita terroribus implevit<f1>Vgl. bes. Vergil, Aeneis, 11, 448.<fe>
+omnia, ut ab omnibus protinus facta sit deditio excepto Durensi oppido,<f1>Zum folgenden Bericht über die Beschießung und
+Eroberung von Düren (Nordrhein-Westfalen) vgl. ^#/+Henne^#/- VIII 121-125; ^#/+Heidrich,^#/- Erbfolgestreit 102.<fe> quod, cum paulo
+acrius a civibus et praesidiariis militibus esset defensum, tandem in die Barptolomęo festo<f1>24. August.<fe> post
+tertiam expugnationem est expugnatum, direptum et iniecto temere igni miserum in modum devastatum trucidatis crudeliter
+ad unum, quotquot irato hosti non fuerunt supplices. Cumque iam nihil victoriam remoraretur in Iulia, traductus fuit exercitus
+Ruremundam<f1>Zum Einzug des Kaisers in Roermond (Prov. Limburg, Niederlande) am 1. September vgl. ^#/+Henne^#/- VIII 126.<fe>, quae est prima civitas Geldrię ex Iulia
+venientibus, satis quidem munita et ampla, sed sive non
+firmum habuerit praesidem, sive vicinorum clades metum
+incusserit, illa nihil adhuc experta hostile clavibus
+oblatis caesarem excepit atque eidem opportunitatem praebuit
+ulterius progrediendi. Quid enim dubitasset tentare
+caeteras, cum haec tam facile cessisset? Venit igitur prope
+ad umbilicum Geldriae, Venlam<f1>Venlo (Prov. Limburg, Niederlande).<fe>, quod oppidum supra modum esse
+firmum et hactenus inexpugnabile visum. Ibi vic­torię
+cursus primum sisti coepit, et consilia de pace sunt agitata.
+Accersitus est ad caesarem dux Iuliacensis<f1>Herzog Wilhelm von Jülich-Kleve-Berg-Geldern.<fe> deducente ipso et operam in
+hoc suam praestante Heinricho Brunschvigcensi<f1>Herzog Heinrich von Braunschweig-Wol­fenbüttel.<fe>; pax concessa praeter omnium spem conditionibus, ut ferunt, parum aequis Iuliacensi, sed
+tamen pro temporum et rerum statu recipiendis;<f1>Vgl. unten Z. 49-58 mit Anm. 23.<fe> adempta enim Geldria, cuius causa fuit
+bellum susceptum<fx>^#/+In der Vorlage^#/- suceptum.<fe>, paternę vero et avitae ditiones, quę fuerant occupatae,
+restitutae, quae nondum permissae. Caetera, quae sunt adiecta, non satis expediunt illi, qui hęc nobis referunt.
+^$Nunc, postquam non solum ex
+sententia res istic caesar constituit, sed etiam hostium
+copiis exercitum auxit, metus<fx>^#/+In der Vorlage^#/- moetus.<fe> quosdam - et fortasse non
+inanis - tenet, ne vim omnem in nos, hoc est in protestantes,
+convertat, instiganti videlicet huc Heinricho a Wolfenbütel.
+Certe multa sunt, quae coniecturas faciunt nimis probabiles;
+nam minantia quaedam edicta sunt in ducem Saxoniae detorta,<f1>Gemeint ist offenbar nicht Herzog Moritz, sondern Kurfürst Johann Friedrich von Sachsen (vgl. auch unten Z. 59-62). Zur Erbitterung des Kaisers über diesen vgl. etwa ^#/+Mentz^#/- II 381.<fe> et nostri suspicari nonnihil videntur.
+Subito enim comitia sunt indicta Franckfordiam,<f1>Auf den 19. September wurde ein schmalkaldischer Bundestag nach Frankfurt
+einberufen, der sich u. a. mit der Türkenhilfe und der Braunschweiger Angelegenheit befassen sollte; vgl. ^#/+Mentz^#/- II 384-386; PC III 433f.<fe> in
+quibus conveniunt, ut audio, tantum illi, qui bellicis negotiis tractandis sunt praefecti, die kriegsräth. Noster
+legatus nudius tertius sub vesperam abiit,<f1>Die Instruktion für die Straßburger Gesandten, Kriegsrat Ulman Böcklin und
+Syndikus Michel Han, wurde am 15. September genehmigt; die Gesandten trafen am 20. September in Frankfurt ein. Vgl. PC III 433f.<fe> et landgravius<f1>Philipp von Hessen.<fe> imperasse
+dicitur omnibus au-<vl>224</vl>rigis et rhedariis, ut intra ditionis suae terminos se contineant expectantes, quid ipsorum
+cuique sit iniuncturus. Equidem, nisi Gallica arma, quae per Lücelburgensem agrum late ringari dicuntur,<f1>Zur Lage im
+Herzogtum Luxemburg vgl. unten Nr. 1792, 8-11.<fe> caesarem istuc revocent, videtur occasionem puniendi, quos
+mulctatos vult, et gratificandi, quibus debet aliquid, non praetermissurus. Sed hęc hactenus; non enim possum esse prolixior, imo vix tam multa putabam me posse.
+^$Vale.
+<lz>S. Novi apud nos nihil. Bucerus rediit 16. septembris.<f1>Vgl. ^#/+Varrentrapp,^#/- Reformationsversuch 215.<fe> Pax confecta
+inter caesarem et ducem Iuliacensem,<f1>Der Friedensschluss von Venlo, mit dem am 7. September die Unterwerfung Herzog
+Wilhelms von Jülich-Kleve-Berg-Geldern unter den Kaiser besiegelt wurde, ist gedruckt in: Urkundenbuch für die Geschichte des
+Niederrheins, hg. v. Theodor Joseph Lacomblet, Bd. IV, Düsseldorf 1858, S. 679-683; zu den Einzelheiten vgl.
+^#/+Henne^#/- VIII 128-130; ^#/+Heidrich,^#/- Erbfolgestreit 107f.<fe> hoc certum. Conditiones pacis hae esse dicuntur: Primo
+dux caesari iureiurando se adstrinxit, quod nunquam posthac velit arma sumere adversus ipsum et duces Burgundiae; secundo<fx>secundo ^#/+in Versalien.^#/-<fe>, ut
+uterque reddat alteri omnia, quae vel dolo malo vel vi<f1>Vgl. Cicero, De officiis, 3, 24, 92.<fe>
+ademerit; nam caesar multa in Brabantia habebat, quae erant
+ducis, dux, quae caesaris etc. Tertia conditio est, ut dux
+filiam Ferdinandi ducat<f1>Im Vertrag von Venlo ist davon nicht ausdrücklich die Rede. Tatsächlich heiratete
+aber Herzog Wilhelm (nach der Scheidung von Jeanne d'Albret) am 18. Juli 1546 König Ferdinands Tochter Maria (1531-1581); s. [Woldemar] ^#/+Harless,^#/- in: ADB XLIII 107.<fe> et ut olim
+administrator Brabantiam regat. Hic Geldrenses nolunt esse sub caesare, sed cupiunt ad­iungi imperio. Hic iam agitur inter
+caesarem et ducem, quomodo in ea re<fx>^#/+In der Vorlage irrtümlich^#/- care.<fe> possint convenire. Quo utriusque exercitus sit ducendus, ignoratur.
+^$Dux Saxoniae<f1>Kurfürst Johann Friedrich (vgl. oben Anm. 17).<fe> et landgraphius etc. dicuntur clam armare se,
+licet contra Turcam<f1>Sultan Suleiman I.<fe> fingatur mittendos. Caesar pacem nondum pollicetur. Brevi audiemus mira.
+Si Brunswicensem (qui cum caesare est) volet restituere, protestantibus certum bellum etc.
+^$In Hispania esse<f1>Zu ergänzen: dicuntur (o. ä.).<fe> circiter 40 millia Turcarum, qui iam agrum Picenum<f1>Die Gegend südlich von Ancona.<fe> vastarint; certum est nec dubium, quin Gallus<f1>König Franz I.<fe> turcizet.
+^$Vale.
+<lz>S. Per ocium sic licuit. Venerunt literę ad senatum nostrum ante septimanas aliquot de Gallo quodam nobili<f1>Der in Breisach inhaftierte Jacques Rey­naud (vgl. oben Nr. 1775, 43-48
+mit Anm. 32) hatte sich am 18. August brieflich an den Basler Rat gewandt (s. Corr. des réformateurs IX 3-6, Nr. 1272).
+Zwei Tage später waren Myconius und die Basler Pfarrer durch Matthäus Zell ebenfalls über diese Angelegenheit informiert
+worden (s. ebd., S. 7f, Nr. 1273).<fe> capto a praedone quodam<f1>Konrad Köth.<fe> non alio praetextu, nisi quod Gallus
+sit, ipse vero cęsarianus. Obtulit captum una cum doctore Gallo,<f1>Bekannt ist nur sein Vorname: Philibert (vgl. oben Nr. 1775,
+Anm. 32).<fe> viro sane docto, Brisacensibus, qui mox eam rem significarunt Ensheimensibus; hi nuncium mittunt ad cęsarem,
+quid faciendum.<f1>Kaiser Karl V. wies die Stadt Breisach an, den Gefangenen, den er für einen französischen Agenten hielt, wieder
+an Köth auszuliefern, doch gelang es Peter Scher, ihn für 2000 Goldkronen freizukaufen (vgl. den oben Nr. 1775, Anm. 33 erwähnten Bericht Schers).<fe>
+^$Ich kan nüt me; der bott<f1>Pfarrer Martin Manhart aus Wald (Kt. Zürich); vgl. unten Nr. 1792, 1-3 mit Anm. 4.<fe> ist gerüst etc.
+<un>Tuus Myconius.
+<lz>[Adresse auf der Rückseite des folgenden Blattes<fx>^#/+Nach neuer Zählung: f. 242v.^#/-<fe>:] D. Heinricho Bullingero doctissimo suo.<fx>^#/+Darunter, teilweise über das nicht mehr vorhandene Verschlussband geschrieben (von Bullingers Hand?):^#/- Re[pertae?] sunt.<fe>
+</content>
+</letter>

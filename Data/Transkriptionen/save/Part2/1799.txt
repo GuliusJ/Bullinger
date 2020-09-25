@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1799">
+<nr>1799</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Calvin</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>14. Oktober 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 114 (Siegelabdruck)</vo>
+^&xK: Zürich ZB, Ms S 53, 152; Zit.: Bouvier 129. 164^&x{
+<re>Anlass zum Schreiben gibt ihm der Bote, der Calvins Gruß überbrachte. Angesichts der gefährlichen Zeitumstände sollen die
+Pfarrer von Genf und Bern auf eine Beilegung des Streits hinwirken, den ihre Herren um ehemals bischöfliche Gebiete
+austragen; falls der papistische Kaiser [Karl V.] Frankreich besiegt, wird er Deutschland unterwerfen
+und [Herzog Heinrich von] Braunschweig[-Wolfenbüttel] sowie besonders [Herzog Karl III.] von Savoyen wieder an die Macht
+bringen; welche Gefahr Genf und Lausanne dann droht, zeigt das Mandat gegen die Stadt Hildesheim [vgl. Nr. 1797]. Grüße.
+</re>
+<tx>[Gedruckt: CO XI 626f, Nr. 507; Corr. des réformateurs IX 70-72, Nr. 1294.]
+</content>
+</letter>

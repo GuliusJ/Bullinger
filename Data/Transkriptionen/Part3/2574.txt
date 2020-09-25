@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2574">
+<brief>
+<id>16264</id>
+<nr>2574</nr>
+<ae>[Georg Frölich] an Bullinger</ae>
+<od>[Augsburg, 8. oder 9. September 1546]
+<fn>Das Datum ergibt sich aus einem Vergleich von unten Z. <qv>zl16264-1</qv> mit <qv>nr2576</qv>,<qv>zl16265-1</qv>. Vergleicht man außerdem unten Z. <qv>zl16264-2</qv> mit <qv>nr2576</qv>,<qv>zl16265-2</qv>, kommt man zu dem Schluss, dass Frölich Bullingers Brief vom 4. September erhalten hatte, ehe Haller den an ihn am gleichen Tag wie an Frölich geschriebenen Brief Bullingers (<qv>nr2564</qv>) erhielt. Zudem ist zu bedenken, dass angesichts der zwischen Zürich und Augsburg liegenden Distanz (ca. 240 km) Bullingers Brief vom 4. September Frölich kaum vor dem 8. September hätte übermittelt werden können.</fn></od>
+<vo>Autograph: Zürich StA, E II 345, 322 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Ms S 61, 140. === zur Datierung vgl. HBBibl I 173 und Hallers Briefe vom 9. und 14. September sowie Blarer vom 12. September 1546. === </k></dr>
+<re>Frölich dankt für Bullingers Brief vom 4. September [nicht erhalten] und für den Lukaskommentar. Entweder wird er das für Bürgermeister [Hans] Welser bestimmte Exemplar diesem selbst überreichen oder [Johannes] Haller damit beauftragen. Frölich hat sich nie mit Welser gestritten, bedauert aber, dass ein Mensch, der an der Spitze eines solch bedeutenden Gemeinwesens steht, dieses so arg beeinträchtigt, auch wenn er ansonsten freundlich und umgänglich ist. Es fehlt ihm jedoch an Beständigkeit und Mut. Ferner ist dessen Frau [Barbara, geb. Adler] schlimmer als Isebel! Seitdem Frölich sie in Gegenwart von [Johannes] Haller für ihre schlechte Behandlung von Michael Keller und anderen rechtschaffenen Männern kritisiert hat, will sie ihn nicht mehr sehen. Demzufolge wagt es auch ihr Ehemann nicht mehr, mit Frölich zu verkehren.
+<t/>Seit dem 17. August hat Frölich drei Briefe an Bullinger abgeschickt: zweimal über Konstanz [<qv>nr2537</qv> und ein nicht erhaltener Brief] und einmal über Lindau [nicht erhalten]. Ein vierter Brief [<qv>nr2561</qv>] wird inzwischen vom Augsburger Stadtboten [...] nach Zürich übermittelt worden sein.
+<t/>Frölich weiß weder, wie hoch der [Geld]betrag war, den der Sankt Galler Abt [Diethelm Blarer von Wartensee] für den Kampf gegen die Schmalkaldener zahlte, noch, an wen und wann das Geld ausgezahlt wurde. Die Augsburger Gesandten [auf dem Tag der oberdeutschen Städte] in Ulm behaupten aber, dass jener Abt sowie der Konstanzer Bischof [Johann von Weeze] dem Kaiser [Karl V.] Geld für den Krieg gegeben hätten. Es heißt ferner, dass der Abt von Weingarten [Gerwig Blarer] 6'000 Goldstücke von [Blarer von Wartensee] empfangen habe. Diese Angabe soll aus abgefangenen Briefen der Papisten stammen.
+<t/>Aus der Mitteilung, die Frölich kürzlich dem Augsburger Stadtboten anvertraute, hat Bullinger erfahren, dass der Kaiser nicht angreifen wolle. Es blieb dabei, obwohl die [Schmalkaldener] ihn vier Tage lang zum Kampf herausforderten und dabei etwa 800 Mann töteten.
+<t/>[Maximilian von Egmont, Graf] von Büren, zieht dem Kaiser mit 4'000 Pferden und 12'000 Kriegsknechten zu. Dieses [niederländische] Heer gelangte mit Hilfe des Mainzer Bischofs [Sebastian von Heusenstamm] und anderer über den Rhein. Wohl erst nach Eintreffen dieses Heeres wird der Kaiser den Angriff wagen. Die [Schmalkaldener] haben sich von Ingolstadt in Richtung Donauwörth zurückgezogen, um Musterungen durchzuführen und ihre Kriegsknechte zu bezahlen. Aufgrund der in [<qv>nr2561</qv>] bereits erwähnten vorteilhaften Lage des kaiserlichen Lagers hätten sie in Ingolstadt sowieso nichts ausrichten können. Zudem fehlte es ihnen an Proviant.
+<t/>Die [Schmalkaldener] verfügen über 80'000 Mann. Man muss also sparsam sein, denn man wird den Krieg kaum noch in diesem Jahr beenden können.
+<t/>Der Eifer der Eidgenossen wird geschätzt, auch wenn deren Hauptleute als inkompetent gelten. Man bräuchte solche mit mehr Erfahrung.
+<t/>Die Tiroler konnten durch die Unentschlossenheit der [Schmalkaldener] die Festung und die Klause Ehrenberg zurückerobern. Dies ist allerdings nicht sehr schlimm, solange die [Schmalkaldener] das gut besetzte Füssen weiterhin behalten.
+<t/>In Summa: Alles hängt von der zukünftigen Hauptschlacht ab. Gott verleihe seinen Sieg!</re>
+<text>
+<p>S. <zzl>zl16264-1A</zzl>Literas tuas 4. septembris datas
+<fn>Nicht erhalten, aber belegt; s. <qv>nr2564</qv> und <qv>fn16255-9</qv>.<zfn>fn16264-1</zfn></fn> et Lucam tuum
+<fn>Bullingers Lukaskommentar; s. <qv>nr2545</qv> und <qv>fn16211-1</qv>.</fn>, omnium charissime atque observandissime frater, hodie accepi.<zzl>zl16264-1E</zzl> <zzl>zl16264-17A</zzl>Pro codice hoc sacrosancto ago tibi gratias, quas possum, maximas, donec vicem rependere licebit. <zzl>zl16264-2A</zzl>Domino consuli Welsero
+<fn>Hans Welser, dem der Lukaskommentar gewidmet war; s. <qv>nr2545</qv>, <qv>fn16211-2</qv>.</fn> librum tuum ipse ego offeram vel d. Hallero id faciendum committam.
+<fn>Zu dieser Übermittlung s. <qv>nr2576</qv>,<qv>zl16265-2</qv>.</fn><zzl>zl16264-2E</zzl> Ipse haud dubie tam liberale munus gratissima mente amplexurus est.<zzl>zl16264-17E</zzl> <zzl>zl16264-10A</zzl>Mihi cum illo nihil simultatis unquam fuit nec est; quod autem scripsi,
+<fn>Anspielung auf die geringe Meinung, die Frölich über Welser hegte; s. <qv>nr2523</qv>,<qv>zl16213-6</qv>; <qv>nr2530</qv>,<qv>zl16221-5</qv>; und zuletzt <qv>nr2561</qv>,<qv>zl16252-15</qv>.<zfn>fn16264-2</zfn></fn> veritas et necessitas coegit. Non potui autem non acerbissime dolere eum, qui tant{e} reipublic{e} preesse debet,
+<fn>Welser gehörte dem Augsburger "Geheimen Rat" an und war in den Jahren 1537, 1543, 1545 und 1547 Bürgermeister; s. <a>HBBW</a> XII 154, Anm. 3.</fn> tam f{e}de impingere. Utinam dominus reducat ipsum in viam, quod etiam fieri poterit! Vir per se est satis humanus et tractabilis. Quod, si gravitas et constantia istis etiam
+<fa>etiam <i>über der Zeile nachgetragen.</i></fa> virtutibus accederet, nobis esset vir
+<fa>vir <i>über der Zeile nachgetragen.</i></fa> venerabilis. <zzl>zl16264-5A</zzl>Uxorem
+<fn>Barbara, geb. Adler.</fn> autem habet Isabele ipsa molestiorem
+<fn>Isabele ipsa molestiorem: schlimmer als selbst Isebel (die Frau Ahabs); vgl. 1Kön 16, 31; 21, 8-29 (bes. 25); 2Kön 9, 30-37.</fn>, qu{e} iureiurando affirmavit se eo in diversorio non mansuram, in quo ego sim. Hinc est, quod ipse Welserus me non audet ad sese vocare neque aliquid commune mecum habere, tantum eam ob causam, quod ei pr{e}sente Hallero suas ineptias et peccata in bonos viros, Michaelem nempe
+<fa>nempe <i>über der Zeile nachgetragen.</i></fa> Cellarium
+<fn>Michael Keller. - Vielleicht im Zusammenhang mit den ihm von Schertlin geschenkten 50 Gulden; s. <a>Paulus, Schertlin</a> 58, Anm. 65.</fn> atque alios, exprobrarim. H{e}c tibi sint dicta.<zzl>zl16264-5E</zzl><zzl>zl16264-10E</zzl></p>
+<p><zzl>zl16264-11A</zzl>Ich hab euch seit 17. augusti dreimal geschriben. <zzl>zl16264-3A</zzl>Zweimal sind die brieff
+<fn>Brief <qv>nr2537</qv> vom 17. August (s. dazu <qv>nr2537</qv>, <qv>fn16227-2</qv>) und ein weiterer, nicht erhaltener Brief.<zfn>fn16264-8</zfn></fn> uff Costantz<zzl>zl16264-3E</zzl> unnd das <zzl>zl16264-4A</zzl>ain mal uff Lynda
+<fn>Lindau. - Ein nicht erhaltener Brief.<zfn>fn16264-9</zfn></fn> gesanndt.<zzl>zl16264-4E</zzl> <zzl>zl16264-8A</zzl>So wurdt unnser statbott
+<fn>Der unbekannte Überbringer von Frölichs Brief <qv>nr2561</qv>; s. <qv>nr2561</qv> und <qv>fn16252-1</qv>.</fn> seit eurs schrybens
+<fn>Bullingers Brief vom 4. September; s. oben <qv>fn16264-1</qv>.</fn> mynen virten brieff
+<fn>Frölichs Brief vom 2. September (<qv>nr2561</qv>), den Bullinger noch nicht erhalten haben konnte, als er seinen Brief vom 4. September schrieb, den Frölich mit vorliegendem Brief (Z. <qv>zl16264-1</qv>) verdankt.<zfn>fn16264-3</zfn></fn> gar gen Zürch bracht haben.<zzl>zl16264-8E</zzl><zzl>zl16264-11E</zzl></p>
+<p>De abbatis Sangallensis
+<fn>Diethelm Blarer von Wartensee.</fn> contributione adversum nostros
+<fn>Siehe dazu <qv>nr2537</qv>, <qv>fn16227-3</qv>.</fn> non possum certa significare, quantum pecuni{e}, cui et quando dederit. Sed nostri legati,
+<fn>Wohl Konrad Hel und Joachim Langenmantel, die Gesandten Augsburgs, die zumindest an der zwischen dem 21. und dem 29. Juni in Ulm abgehaltenen Sitzung der oberländischen Städte des Schmalkaldischen Bundes nachgewiesen sind; s. <a>RTA-JR</a> XVII 462, Anm. 1; 512, Anm. 2.<zfn>fn16264-5</zfn></fn> cum adhuc Ulm{e} essent, istum abbatem et episcopum Constantiensem
+<fn>Johann von Weeze.</fn> inter eos recensebant, qui c{e}sari
+<fn>Karl V.</fn> pecunias ad hoc bellum suscipiendum erogassent. Aiebant etiam abbatem a Vineto sive Wingarten
+<fn>Gerwig Blarer; vgl. <a>Gerwig Blarer BA</a> I 575, Nr. 803, wo es möglicherweise um diese Angelegenheit geht.</fn> percepisse Sangallensis presidium, nempe 6'000 aureorum. Unde autem legatis nostris h{e}c nuntiata sint, nec ipsi satis explicare possunt, nisi quod dicunt per quasdam papistarum literas interceptas
+<fn>Liegt hier vielleicht eine Anspielung auf die in <qv>nr2514</qv>, <qv>fn16204-1</qv>, erwähnte Beschlagnahmung von Briefen vor?<zfn>fn16264-6</zfn></fn> hoc proditum esse.</p>
+<p>Ich hab euch kurtzlich inn einer summa bei unnserm statbotten geschriben,
+<fn>Gemeint ist Frölichs Brief vom 2. September (<qv>nr2561</qv>); s. oben Z. <qv>zl16264-8</qv>.</fn> das der keiser bishere keinen stannd thun
+<fn>stannd thun: Angriff ausführen. - Vgl. <qv>nr2561</qv>,<qv>zl16252-4</qv>.</fn> wollen, unangesehen, <zzl>zl16264-18A</zzl>das die unnsern bis an den 4 tag hart an
+<fn>hart an: sehr nah bei.</fn> ime vor seiner <zzl>zl16264-9A</zzl>schantz
+<fn>seiner schantz: seinem verschanzten Lager. Vgl. <qv>nr2561</qv>,<qv>zl16252-4</qv>.</fn> gelegen, hinein zu ime geschossen unnd ob
+<fn>über, oder: etwa.</fn> 800 mann erlegt haben.
+<fn>Zu diesen Scharmützeln s. u.a. die Briefe <qv>nr2560</qv>, <qv>nr2561</qv> und <qv>nr2563</qv>.</fn><zzl>zl16264-18E</zzl></p>
+<p><zzl>zl16264-15A</zzl>Nun kumpt der herr von Burn
+<fn>Maximilian von Egmont, Graf von Büren, Feldherr des niederländischen Heeres.</fn>. Bringt ob 4'000 pferd unnd 12'000 knecht. Die synnd durch hilff des bischofs von Mentz
+<fn>Sebastian von Heusenstamm.</fn> unnd annder pfaffen
+<fn>So z.B. Siegfried Hundt von Wenckheim, genannt Leuis; s. <qv>nr2563</qv>, <qv>fn16254-4</qv>.</fn> zu Bingen uber Ryn komen.
+<fn>Zur Rheinüberquerung s. <qv>nr2548</qv>, <qv>fn16237-3</qv>.</fn> Unnd wann
+<fn>wenn.</fn> sie zum keyser stossen, so wurdt er sich alsdann starckh genug düncken unnd villicht schlahen
+<fn>angreifen.</fn> wellen.<zzl>zl16264-15E</zzl></p>
+<p><zzl>zl16264-7A</zzl>Die unnsern synnd wider 5 myl von Ingolstat heruff gen Werde
+<fn>Donauwörth.</fn> gerückht, damit sie musstern unnd die knecht bezaln mogen. Gewarten nun und sehen, was der feynd gegen ine oder sie gegen dem fynnd anfahen m{oe}gen. <zzl>zl16264-6A</zzl>Dann inn bemelten
+<fn>oben Z. <qv>zl16264-9</qv>.</fn> vortail, der hartt an der stat Ingolstat unnd dem wasser
+<fn>die Donau.</fn> ligt, ist ine
+<fn>den Kaiserlichen.</fn> nit abzeprechen gewest
+<fn>ist ine nit abzeprechen gewest: konnte man ihnen nichts antun; s. <a>Fischer</a> I 7 s.v. abbrechen.</fn>.<zzl>zl16264-6E</zzl> So hat auch an proviand groß manglen wollen.<zzl>zl16264-7E</zzl></p>
+<p><vl>322v.</vl> Wir uff unnserm teil haben ain treffenlich groß volkh. Unnd mag euchs wol vertrwen, wann es alles zusamen stosst, das streitbarer mann zu roß unnd zu fueß gern und wol achtzigtausent seien. Darumb unnd damit auch am geldt nit mangle, muß man an sich halten
+<fn>an sich halten: sich zurückhalten (um Geld zu sparen).</fn>. Ist zu besorgen, dieser krieg werde dits jars schwerdlich zum ennde lauffen.</p>
+<p><zzl>zl16264-13A</zzl>Ich sag euch, das die Aidtgnossen
+<fn>Gemeint sind die eidgenössischen Söldner, die den deutschen Protestanten zugezogen waren.</fn> unns werdte, liebe leut synnd. Unnd wurdt ir guter eiffer wol gespuert.<zzl>zl16264-13E</zzl> <zzl>zl16264-19A</zzl>Glychwol will man irer hauptleut nit für viel achten.
+<fn>Vgl. <qv>nr2489</qv>,<qv>zl16179-17</qv>; <qv>nr2496</qv>,<qv>zl16187-9</qv>; <qv>nr2596</qv>,<qv>zl16284-19</qv>.<zfn>fn16264-4</zfn></fn><zzl>zl16264-19E</zzl> Deswegen mussten hinfuran
+<fn>von jetzt an.</fn> annder unnd geubter verhanden syn.</p>
+<p><zzl>zl16264-14A</zzl><zzl>zl16264-16A</zzl>Die Tyroler haben uns das schloß unnd die clauß Ernberg per quorundam nostrorum oscitantiam wider abgewonnen.
+<fn>Zur Rückgewinnung der Klause Ehrenberg s. zuletzt <qv>nr2572</qv>,<qv>zl16260-1</qv>.</fn><zzl>zl16264-16E</zzl> Ist aber nit hoch daran gelegen, wann wir nur m{oe}gen Füessen erhalten
+<fn>behalten.</fn>, welchs wol besetzt ist.
+<fn>Zur Besetzung Füssens durch die Schmalkaldener s. <qv>nr2499</qv>, <qv>fn16185-2</qv>. - Am 5. September wich das protestantische Kriegsvolk, welches die Klause Ehrenberg besetzt gehalten hatte, nach Füssen aus; s. Konstanzer Rat an den Rat von Zürich, 7. September 1546 (Zürich StA, A 205/1, Nr. 226); <a>Herberger, Schertlin</a> 186. 188.<zfn>fn16264-7</zfn></fn><zzl>zl16264-14E</zzl></p>
+<p>In summa, es stat alles uff ainer hauptschlacht; wer dieselb erobert
+<fn>gewinnt.</fn>, der hat lannd unnd lewt. Der almechtig, ainig, starckh gott gebe unnd verleihe unns, die uff ine sehen und wartten, seinen sieg, sterckh und gnad. Amen.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf f. 325v.:] Incomparabili viro domino Henricho Bullingero, anthistiti Tigurino vigilantissimo, domino et fratri coniunctissimo.</p>
+</text>
+</brief>

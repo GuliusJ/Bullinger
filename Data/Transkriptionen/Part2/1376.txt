@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1376">
+<nr>1376</nr>
+<correspondents>
+	<originator>Eberhard von Rümlang</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>21. März 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 121r.-v. (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 1<f1>(dat. nur: März 1540)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Der Bote sowie der vorausgegangene Brief Bullingers geben ihm Anlaß dazu, ihn mit diesem Schreiben zu belästigen. Dankt
+für das Buch ["Der christliche Ehestand"]. Zitiert einen Abschnitt über das Essen des Leibes Christi im Abendmahl aus
+einem früheren Brief Bullingers und rühmt erneut die Klarheit seiner Äußerung. Hat von einem Brief Bucers an Comander gehört,
+in dem Bullinger scharf angegriffen wird; ist bereit, ihm eine Abschrift zu verschaffen, damit er sich dagegen zur Wehr setzen
+kann, bittet ihn aber, dies mit Zurückhaltung zu tun. Macht sich Hoffnungen auf eine Sinnesänderung der Berner Pfarrer [Peter
+Kunz und Sebastian Meyer], nachdem er mit ihnen sprechen konnte, und wird bald berichten, ob sich ihre Haltung wirklich geändert hat.
+</re>
+<tx>Gratia et pax, vir ornatissime.
+^$A coena venit ad me publicus hic tabellio<f1>Unbekannt.<fe> et petiit, si quę ad te scribenda haberem, sibi perferenda dare
+velim. Nolui itaque tam humaniter ab eo invitatus committere, quin morem geram, tametsi te gravissimis negotiis occupatum
+sciam, ut incivile ducam te interpellare tibique nęniis
+meis obgannire, ad hoc quod non parum literę tuę<f1>Nicht erhalten.<fe> me ad rescribendum<fx>rescribendum ^#/+für
+gestrichenes^#/- hoc ^#/+am Rande nachgetragen.^#/-<fe> adhortatę sint, ut, si minus opportunę te
+accedant, culpa tamen tua, non mea fiat.
+^$Ago immensas tibi gratias pro libello<f1>Zweifellos Bullingers "Der christliche Ehestand"; vgl. oben Nr. 1366, 2-6 mit Anm. 1.<fe> mihi misso. Non est,
+ut tantam liberalem tuam munificentiam demereri queam neque
+paria referre, quod nihil mihi unquam gratius extiterit<fx>^#/+in der Vorlage^#/- exterit.<fe>
+quam tantum taleque chartaceum munus elaboratum ex
+reconditioris theologię penu etc.
+^$Verba de coena dominica, quae ad me prioribus<fx>^#/+vor^#/- prioribus ^#/+gestrichenes^#/- pridem.<fe> literis<f1>Die Rede ist
+offenbar von jenem verlorenen Brief, den Rümlang am 28. November 1539 verdankt und am 15. Januar 1540 nochmals gerühmt hatte
+(vgl. HBBW IX, S. 251, 1-4, bzw. oben Nr. 1351, 10-13).<fe> scripsisti, hec sunt: "Doleo quidem N.<f1>Gemeint sind
+Sebastian Meyer und Peter Kunz, über deren Abendmahlslehre Rümlang am 20. Oktober 1539 berichtet hatte (s. HBBW IX, Nr. 1320).<fe> prorsus omnia ad
+substantialem nescio quem usum referre, cum commendatione
+manducationis veri corporis Christi poterant esse contenti.
+Edimus nos corpus domini non fictum aut pictum<f1>Vielleicht ein Anklang an Plautus, Asinaria, 174.<fe>, phantasticum<f1>Mit diesem Begriff wird
+auf die Lehre Marcions angespielt, der den Leib Christi als <gr>fántasma</gr> bezeichnete; vgl. dazu Z VI/III 264, 12-19
+mit Anm. 5.<fe> aut poeticum, sed verum, ut vere de<fx>^#/+vor^#/- de ^#/+gestrichenes^#/- passum.<fe> virgine natum est, passum,
+exsuscitatum<fx>^#/+in der Vorlage^#/- exuscitatum.<fe> et in coelos assumptum<f1>Vgl. die altkirchlichen Bekenntnisse.<fe>;
+sed edere nobis credere est<f1>Vgl. Zwinglis Auslegung von Joh 6, 48-58 (Z III 339, 1. 27-29; 777, 7f u. ö.).^&xVgl. HBBW IV
+424, 68-71. 77-79.^&x{<fe>, credere non tantum cogitare aut imaginari, sed frui re presenti, affici, saturari.
+Credebat in evangelio ille centurio<f1>Vgl. Mt 8, 5-13 par.<fe> et presentem sentiebat in puero medelam, licet Christus
+corporaliter in ędes eius nunquam pervenisset. Qui credunt in Christum verum deum et hominem, vere manducant Christum totum,
+traiiciunt illum in se totum ita, ut vivat in eis et ipsi in
+eo<f1>Vgl. Joh 6, 56 (Vulg. 57).<fe>, non modo corporali, sed virtute et operatione divina. Sentiunt ergo pii securitatem<fx>^#/+in der
+Vorlage^#/- sequritatem (^#/+korrigiert aus^#/- sequuritatem).<fe>, et illa securitas<fx>^#/+in der Vorlage^#/- sequritas (^#/+korrigiert aus^#/- sequuritas).<fe> saturitas
+est. Hęc vera Christi manducatio est; huius symbolum
+coena exterior est, memoria mortis domini, exercitatio et
+refricatio huius fidei, gratiarum actio pro donis dei
+acceptis<f1>Die Deutung des Abendmahls als memoria (bzw. commemoratio) und gratiarum actio war schon für Zwingli
+fundamental (vgl. etwa Z IV 938, 31-36; V 743, 11-13; VI/III 165, 10f).<fe>. Quid ergo opus est animos piorum ita involvere,
+ut tandem nesciant, quid sit coena aut quid sit manducare Christum? Et veteres ad evidentiam veritatis sancte usi sunt
+vocabulis 'signum', 'significare', 'sacramenta sunt mysteria et
+symbola' etc." Hęc sunt ista plausibilia in literis tuis,
+quę satis laudibus extollere nequeo, tam sunt rerum
+pondere gravia verborumque volubilitate et concinnitate
+venusta atque expedita<fx>atque expedita ^#/+am Rande nachgetragen.^#/-<fe> etc.
+^$Audivi, frater in Christo charissime, de quadam epistola ad
+Comandrum, in qua Bucerus non leviter te perstringat et
+arrodat<f1>Vgl. HBBW IX, S. 165, Anm. 9.<fe>. Si eius tibi sit copia, bene, tunc poteris tibi prospicere teque purgare; sin
+minus, curabo, ut eius exemplum mihi transcribatur, quo ad
+te mittam<fx>^#/+korrigiert aus^#/- mittatur.<fe>. Dolet spiritum quorundam tam impotentem et
+suspicacem, ut nihil non in deteriorem partem arripiat.
+Velim eruditionem et facundiam in aliud quam fratris
+eversionem et excidium collocari. Nequeo<fx>^#/+vor^#/- Nequeo ^#/+gestrichenes^#/- neque.<fe> malignitatem
+huiusmodi satis deplorare, qui fratres de re christiana tam
+optime meritos, ne quid suę famę pereat, tametsi suo
+merito fiat, tantum non<fx>tantum non ^#/+am Rande nachgetragen.^#/-<fe> protritos et exterminatos vel saltem
+in<fx>^#/+vor^#/- in ^#/+gestrichenes^#/- erroris.<fe> aperta et exposita veritate erroris convictos volunt. <vl>121v.</vl> At
+decet christianum, utcunque tumultuetur mundus, intrepidum
+stare neque commoveri adeoque<fx>^#/+vor^#/- adeoque ^#/+gestrichenes^#/- tametsi.<fe> iustum et tenacem propositi
+virum nullo quocunque ardore mente quati solida, deo suum
+negotium committendum nosque sub cruce calumniis quantumvis
+virulentis exagitatos in humilitate pacientię tandem
+evasuros<fx>^#/+vor^#/- evasuros ^#/+gestrichenes^#/- evad[...].<fe> in lętum et exoptatum<fx>et exoptatum ^#/+am Rande nachgetragen.^#/-<fe> successum sperare. Si te
+purgare vis, cave, ne a solita tua verborum mansuetudine
+excidas; id lectori, qui nullis ducitur affectibus,
+gratissimum fuerit posterisque praeconio celebrandum
+videbitur etc.
+^$Spero ego hic apud nostrates concionatores<f1>Meyer und Kunz (vgl. oben Anm. 5).<fe> atque sentio meliorem animum, quam hactenus prae se tulerint; amice non semel
+mecum contulere, et quantum possum, conceptam sententiam emol[lio]<fx>^#/+Randtext im engen Einband verdeckt.^#/-<fe> et
+declino. Verum<fx>^#/+vor^#/- Verum ^#/+gestrichenes^#/- Sed.<fe> his diebus experiar et audiam deo volente, quid parturierint et
+quam me spes non frustratura sit, et quicquid eveniet, proxime ad te scribam.
+^$Vale felicissime. Saluta, quaeso, universum doctorum collegium.
+^$Datum Bernę, ad multam noctem<fx>ad multam noctem ^#/+am Rande nachgetragen.^#/-<fe>, dominica palmarum anno 1540.
+<un>Tuus Eb. a
+<un>Rümlang.
+<lz>[Adresse darunter:] Excellentissimo virod. Heinrycho Bullingero, fratri in Christo charissimo et domino
+suo semper observando. Meister Heinrich Bullinger, Zürich,
+predicanten.
+</content>
+</letter>

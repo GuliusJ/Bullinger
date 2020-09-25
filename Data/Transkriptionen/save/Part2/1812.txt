@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1812">
+<nr>1812</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>8. November 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Diese kurze Notiz in Briefform setzte Myconius unter die von Leodegar Hirsgarter angefertigte Abschrift (f. 2065r.-2066r.) einer lateinischen Übersetzung des am 13. Oktober in Metz erlassenen Mandats (s. oben Nr. 1811, Anm. 17). Zum Bericht Bucers, der diesem Brief beilag, s. oben Nr. 1811, 40 mit Anm. 19.^#/-<fe>: Zürich StA, E II 335, 2066 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Über jene Frau, der in Metz die Zunge abgeschnitten wurde, über die zwei in Löwen lebendig begrabenen Frauen und über die zwei Männer, die dort enthauptet wurden, sowie über die zahlreichen Exulanten werden die Briefüberbringer berichten.
+</re>
+<tx>S. De muliercula christianissima, cui Metenses iussu legati
+imperialis<f1>Charles de Boisot.<fe> praeciderunt linguam,<f1>Vgl. oben Nr. 1811, 31-33 mit Anm. 18.<fe> de
+duabus item Lovanii vivis subtus terram defossis, de duobus viris ibidem decollatis<f1>Vgl. oben ebd., Z. 14f mit Anm. 10.<fe> deque multitudine exulantium dicent, qui has reddunt.<f1>Unbekannt.<fe>
+^$Vale per Christum.
+^$Basileę, 8. novembris anno 1543.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, fratri in domino observandissimo suo. Z[üric]h<fx>^#/+Teilweise auf das nur fragmentarisch erhaltene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

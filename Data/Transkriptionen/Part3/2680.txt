@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2680">
+<brief>
+<id>16367</id>
+<nr>2680</nr> <from persid="KröttlinGabriel"/> <to persid="Bullinger"/> <place plid="Ravensburg"/> <date when="1546-11-16"/>
+<ae>Gabriel Kröttlin an Bullinger</ae>
+<od>[Ravensburg], 16. November 1546</od>
+<vo>Autograph: Zürich StA, E II 356, 52f (ohne Siegel)
+<fa><i>Mit Schnittspuren.</i></fa></vo>
+<dr>Ungedruckt<k>Regest: Zürich ZB, Ms S 62, 20 (bei 16. Oktober 1546)</k></dr>
+<re><t>Kröttlin hat letztens für die beiden aus Ravensburg stammenden [Johannes Willing und Sebastian Nabholz], die im Kloster Waldsee gewesen waren, auf ihre Bitte hin ein Empfehlungsschreiben [<qv>nr2628</qv>] an Bullinger ausgefertigt. Er ist Gott dankbar, dass sein Ansuchen bei Bullinger Gehör fand, und ist gerne bereit, die erwiesene Wohltat zu vergelten.</t>
+<t>Der Überbringer [...] vorliegenden Briefes ist auch aus Ravensburg gebürtig und vergeudete seine Jugend im dortigen [Karmeliter]kloster. Vor kurzem wurde er handgreiflich (Genaueres darüber weiß Kröttlin nicht, weil er zu dieser Zeit nicht zu Hause war). Der Stadtrat verwies ihn aus dem Kloster mit dem Hinweis, er solle sich eine Zeitlang anderenorts ein Auskommen suchen. Da er nun das Evangelium studieren und verkündigen möchte, bat er Kröttlin ebenfalls um ein Empfehlungsschreiben.</t>
+<t>Bullinger möge diese Bitte freundlich aufnehmen und prüfen, ob sie im Interesse der Verkündigung des Wortes Gottes und der Kirche Christi sei.</t>
+<t>Gott wird Bullinger dafür belohnen und auch Kröttlin, der sich dem Gebet Bullingers empfiehlt, will sich Letzterem gegenüber dankbar erweisen.</t></re>
+<text>
+<div>
+<p>Würdiger, hochgelerter, ewer erwurd syen mein gehorsam und willig dinst in Christo Jhesu, unserm ainigen
+<fn>einzigen.</fn> hail und troust. Amen. Erwurdiger herr und bruder in Christo Jhesu, verschiner tagen
+<fn>Bezug auf Kröttlins Brief <qv>nr2628</qv> vom 16. Oktober.</fn> <zzl>zl16367-1A</zzl>hab ich ewer erwurd bey zwayen
+<fn>Johannes Willing und Sebastian Nabholz; s. <qv>nr2628</qv>, <qv>fn16318-2</qv> und <qv>fn16318-3</qv>.</fn>, so alhye von Ravenspurg burtig und ain zeyt lang zu Walse
+<fn>Bad Waldsee (Lkr. Ravensburg, Baden-Württemberg), wo sich ein Kloster der Augustinerchorherren befand.</fn> im clouster gewesen syen, auf ir furpit geschriben<zzl>zl16367-1E</zzl> und befind, das sollich mein furschrift
+<fn>Empfehlungsschreiben.</fn> bey derselb e[wer] w[urd] nit wenig frucht gebracht und erschossen
+<fn>genützt. - Sowohl Willing als auch Nabholz erhielten ein Stipendium in Zürich.</fn> habe (dem gietigen gott sey grouß glori, lob, eer und danckh!). Dergleichen ich mich gegen ewer wurd zum hoechsten bedanckh mit erbietung, wo ich sollichs gegen gott dem herren und ewer wurd im zeyt
+<fn>im zeyt: in diesem Leben, im Diesseits; s. <a>Fischer</a> VI/1 1107.</fn> verdienen
+<fn>vergelten.</fn> könde, darzu erkenn und erbuit ich mich allzeyt willig.</p>
+</div>
+<div>
+<p>Sunders gunstiger, lieber herr, zaiger ditz briefs ist ouch ain statkind von Ravenspurg bürtig.
+<fn>Unbekannt. - Als Stipendiat ist er in den Rechnungsbüchern des Zürcher Schulwesens nicht belegt.</fn> Ist alhye ain zeytlang in ainem clouster
+<fn>Dieser Angabe zufolge kann hier nur das Karmeliterkloster in Ravensburg gemeint sein.</fn> gewesen, seine jungen tag darinnen verschlissen
+<fn>vergeudet; s. <a>Fischer</a> II 1307f.</fn> und gleichwol z{uo} jungst darinnen ouch ainen excesß
+<fn>Streit; s. <a>Fischer</a> II 904.</fn> und ubergriff begangen, des ich doch nit aigentlichen wissen krig
+<fn>des ich doch nit aigentlichen wissen krig: von dem ich keine genaue Kenntnis habe.</fn> (dann ich in derselbigen zeyt nit anhaimsch
+<fn>daheim.</fn> gewesen bin). Derhalb er von minen herren, ainem radt, auß dem selbigen clouster verwisen und ime darbey gesagt ist, das er sich ain zeyt lang an andern orten erhalten solle. Hat mich gleicher gestalt
+<fn>gleicher gestalt: gleichermaßen (genauso, wie Willing und Nabholz; s. oben Z. <qv>zl16367-1</qv> und <qv>nr2628</qv>,<qv>zl16318-2</qv>).</fn> angerueft umb furschrift an ewer wurd, dann er anzaigt, sein gemuedt stand alain dahi[n]
+<fa><i>Hier und unten Textverlust durch Papierverlust.</i></fa>, das er beger, das gotteswort zu studieren und volgends
+<fn>nachher.</fn> der kirchen auszuspenden. Derhalb ich ime dise mein furschrift an ewer wurd nit hab konden weigren.</p>
+</div>
+<div>
+<p>Langt demnach mein gantz underdinl[ich] pit an ewer wurd, welle dise person und handlung bedencken
+<fn>wohlwollend berücksichtigen; s. <a>FNHDW</a> III 388 (Nr. 8).</fn> und examinieren, und was dieselb <vl>53</vl> hyerinnen erkennen mag, dem wort gottes zu furdrung, der kirchen Christi zu wolfart zu verhoffen seye, das wellen alain propter gloriam Christi befurdren.</p>
+</div>
+<div>
+<p>Das wirt der almechtig, guetig gott umb ewer wurd hoch und reychlich belonen, und ich mich gegen derselb ewer wurd als ain mitbrueder in Christo zu verdienen hyemit gutwillig erbotten haben, mich darmit in ewer wurd christenlich gepett gegen dem gyetigen gott in christenlicher pflicht bevelchende
+<fn>empfehlend.</fn>.</p>
+<p>Datum den 16den novembris im 46ten jar.</p>
+<un>Ewer erwurd
+<fa><i>In der Vorlage</i> ewurd.</fa> bruder in</un>
+<un>Christo und</un>
+<un>dinstwilliger</un>
+<un>Gabriel Kr{oe}ttlin, statt-­</un>
+<un>schreyber zu Ravenspurgkh.</un>
+<lz/>
+<p>[Adresse auf f. 53a,v.:] Dem erwurdigen, hochgelerthten herren, herrn Huldrichen
+<fn>Ein Lapsus calami.</fn> Bullingern, ecclesiasten der stat Zurch, meynem gunstigen, lieben herren und bruder in Christo.</p>
+</div>
+</text>
+</brief>

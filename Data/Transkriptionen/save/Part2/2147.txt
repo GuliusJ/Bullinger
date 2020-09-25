@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2147">
+<nr>2147</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>27. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 123 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 360f, ^$^$^$^$Nr. 1182</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 17 ^&x{
+<re>Blarer dankt für die köstliche Schrift [Capilupis "De vita monachorum"], die er nach dem Versiegeln seines Briefes [Nr. 2146] mit Bullingers Brief vom 19. April [Nr. 2140] erhalten hat. Er hat die Exemplare an die Empfänger [...] weitergeleitet. Er schickt außerdem die ihm von Bullinger durch Jakob Funcklin geliehene "Admonitio [paterna ... cum scholis]" zurück; schneller ging es nicht, da er keinen Boten hatte. Wie treffend zeigt [Calvin] die wahren Farben des Silens [Paul III.], und wie sehr ignoriert [Karl V.] all diejenigen, die die wahre Natur dieses Ungeheuers offenbaren!
+-^#. Die von Bullinger übermittelten Gerüchte über [Johannes Marbach] sind falsch.
+-^#. Blarer freut sich über [Jakob] Metzlers gute Führung; dieser soll aber weiter im Auge behalten werden.
+-^#. Blarer erwartet weitere Berichterstattung über [Johannes] Gast.
+-^#. [Bei den Bündnisverhandlungen zwischen Konstanz und Zürich] möge Gott ihnen den rechten Weg zeigen!
+-^#. [Blarer muss aufhören, da] der Jüngling [...] abreisen will.
+-^#. Grüße.</re>
+<tx>S. Post obsignatum nostrum epistolium<f1>Oben Nr. 2146 vom 26. April.<fe> literas tuas 19. aprilis datas<f1>Oben Nr. 2140.<fe> accipio cum Laelii centonibus<f1>Lelio ^#/+Capilupi,^#/- De vita Monachorum; s. oben Nr. 2140, Anm. 26.<fe>,
+pro quibus tibi gratias ago; nam valde mihi musa ista non propter solum argumentum arridet.
+Mittam exemplaria iis, quibus sunt inscripta.<f1>Die Namen der Empfänger standen wohl auf einem Notizzettel zu den Büchern, denn im Brief Bullingers, mit dem er die Schriften übersandte, sind keine Namen erwähnt; oben Nr. 2140, 41.<fe> Remitto praeterea libellum scholiorum in paternam pontificis admonitionem<f1>Calvins anonym erschienene "Admonitio paterna ... cum scholis"; s. oben Nr. 2083, Anm. 7.<fe>,
+quem a plusquam charissimo filio meo Iacobo Funcklio accepi, qui scripsit<f1>Der Brief ist nicht erhalten.<fe> ea lege hunc a te
+mihi mittendum se impetrasse, ut quamprimum remittam. Non potui aut citius, quod defuerit nuncius.
+Ah! Quanta gravitate, quanta veritate praeposterus iste Silenus<f1>Silenos, der Erzieher des Dionysos, war der Führer des Chors der Satyrn und Silenen im Satyrspiel. Silene werden meist als alt, glatzköpfig, dickbäuchig und betrunken mit Bocksmerkmalen dargestellt; s. DNP XI 551-553. - Vielleicht spielt Blarer hier auf den Holzschnitt von der Schrift "De vita monachorum" an; s. dazu oben Nr. 2140, Anm. 28.<fe>, Romanus pontifex<f1>Paul III.<fe>,
+ab optimis pariter et doctissimis viris explicatur ac caesari<f1>Karl V.<fe> suis depictus coloribus ob oculos ponitur!
+Et tamen videns ac prudens nescio qua sua infelicitate, ut ne quid gravius dicam, dissimulat<f1>der Kaiser.<fe>
+- ut surdo fabulam,<f1>Adagia, 1, 4, 87 (ASD II/1 467f, Nr. 387).<fe> quod dicitur - quicumque monstrum hoc vel dictis vel scriptis produnt.
+Tanta est peccatorum nostrorum atrocitas, ut tantum non deplorata sint omnia, quo magis nobis Christus,
+unicus salutis nostrę et certissimus autor<f1>Vgl. Hebr 5, 9.<fe> comprecandus, ut sub alis suis securis nobis esse liceat
+utque se vindice victoriam aliquando de suis simul et nostris hostibus referre possimus.
+^$De Isnensi doctore<f1>Johannes Marbach.<fe> quisquis ea, quę tu nobis scripsisti, dixit, vana dixit.<f1>Vgl. oben Nr. 2140, 10-15.<fe>
+^$Quod Mezlerus<f1>Jakob Metzler; s. zuletzt oben Nr. 2146, 36f.<fe> recte se gerit, volupe est audire; sed tu ne cesses mores et studia illius diligenter observare.
+^$De Gastio expectabo, quid porro sis scripturus.<f1>Anspielung auf oben Nr. 2140, 20-22.<fe>
+^$In alio negocio<f1>Die Verhandlungen über ein mögliches Bündnis zwischen der Eidgenossenschaft und Konstanz, in dem auch Zwicks Kriegskunst eine Rolle spielte; s. zuletzt oben Nr. 2146, Anm. 32.<fe> dominus sedulo precandus,
+ut rationem aliquam istuc felicissime conficiendi clementer commonstret.
+^$Sed abiturientem adulescentem<f1>Unbekannt; der Briefüberbringer.<fe>, quem diligentissime tibi commendo, remorari diutius non debeo.
+^$Bene vale, optime et charissime frater, cum omnibus tuis.
+^$27. aprilis, Constantiae, 1545.
+<un>Tuus A. Bl.
+<lz>[Adresse auf der Rückseite:] Venerando charissimoque Bullingero suo, Tiguricensi episcopo.
+</content>
+</letter>

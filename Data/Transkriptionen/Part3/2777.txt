@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2777">
+<brief>
+<id>17045</id>
+<nr>2777</nr> <from persid="AltieriBaldassare"/> <to persid="Bullinger"/> <to persid="GessnerKonrad"/> <place plid="Venedig"/> <date when="1547-01-29"/>
+<ae>Baldassare Altieri an Bullinger und Konrad Gessner</ae>
+<od>Venedig, 29. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 365a, 449f (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms F 63, 58; TeilÜ: Niehans, in Zwa VIII 250f</k></dr>
+<re><t>Altieri weiß nicht, ob Bullinger und Gessner seinen vor wenigen Tagen geschriebenen und via Basel geschickten Brief erhalten haben. Darin ermahnte er die [protestantischen Orte der Eidgenossenschaft], den Kampf zwischen den deutschen [Protestanten] und Kaiser Karl V. auch als den ihren anzusehen und Unterstützung zu leisten. Denn im Falle einer Niederlage Deutschlands würde der Kaiser auch die Eidgenossen unterjochen und niemals das Evangelium in Helvetien dulden! Es könnte sogar sein, dass den Eidgenossen noch schlimmere Gefahren als den Deutschen drohen. Der Kaiser hasst nämlich die Eidgenossen als einen von ihm beanspruchten Erbteil Österreichs noch mehr als die dem Heiligen Römischen Reich verpflichteten Deutschen.</t>
+<t>Aber selbst wenn die Eidgenossen von diesem Krieg verschont blieben, wäre es nicht zu verantworten, gleichgültig zuzusehen, wie Unschuldige unterdrückt werden. Und noch mehr gilt es, das in Jesus Christus entstandene Band zwischen ihnen und den Deutschen aufrechtzuerhalten, auch wenn es sie das Leben kosten sollte! Zweifelsohne werden die Eidgenossen dazu bereit sein, zumal man in Venedig von Truppensammlungen in der Eidgenossenschaft berichtet, die für Deutschland bestimmt seien. Trifft dies zu, wäre es lobenswert. Anderenfalls möchten doch die Eidgenossen eingreifen und nicht abwarten, dass die noch übrig gebliebenen [deutschen Protestanten] sich ergeben müssen.</t>
+<t>Es ist die Aufgabe der [eidgenössischen protestantischen Orte], die Interessen der Deutschen, besser gesagt die Interessen Christi und der ganzen Kirche, zu verteidigen. Ein Sieg [der Protestanten] wäre für die Italiener, die nach einer Befreiung aus der [päpstlichen] Gefangenschaft lechzen, ein großer Hoffnungsschimmer. Zudem würde ein solcher Sieg auch jenen Italienern zugutekommen, die das Evangelium nicht anerkannt haben, den Kaiser jedoch hassen.</t>
+<t>Bullinger und Gessner mögen etwaige Neuigkeiten mitteilen. Und sollte Altieri ihnen auf irgendeine Weise behilflich sein können, dürfen sie auf ihn zählen.</t>
+<t>Grüße.</t></re>
+<text>
+<div>
+<p>Viri pr{e}stantissimi. <zzl>zl17045-1A</zzl>Scripsi hisce superioribus diebus utrique vestrum unis literis,
+<fn>Nicht erhalten.</fn> qu{e} an reddit{e} sint nondum scio; eas autem Basileam transmiseram isthuc
+<fn>d.h. nach Zürich.</fn> perferendas<zzl>zl17045-1E</zzl> <zzl>zl17045-2A</zzl>atque hoc unum inter c{e}tera continebant, ut hanc causam, quam habent Germani adversum c{e}sarem
+<fn>Karl V.</fn>, veluti communem susciperetis et, quoquo modo possetis, foveretis. Nam c{e}sar oppressis Germanis vos quoque sub iugum mittet et exploso Christo ex Germania numquid patietur, ut inter Helvetios habitet? Ponite igitur ante oculos huius belli causas eo tendere, ut eadem vos pericula maneant, qu{e} modo Germanis iminent, et fortasse graviora, ni prospiciatur. Neque enim c{e}sar minus odit Helvetios (quos tanquam patrimonium Austri{e} vendicat, ut vos scitis)
+<fa><i>Klammern ergänzt.</i></fa> quam Germanos, quos veluti sacri Romani imperii consortes retinet ac tractat.<zzl>zl17045-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17045-3A</zzl>Sed esto, quod ex hoc bello nihil iactur{e} vobis inferatur; annon graviter erratum fuerit, si, ubi possis ab aliquo propulsare iniuriam, non feceris, neque curaveris, insonsne opprimatur?<zzl>zl17045-3E</zzl> <zzl>zl17045-4A</zzl>Sed nihil h{e}c, si conferantur, ad sanctissimum illud {e}tern{e} necessitudinis ius atque vinculum, quo cum Germanis iuncti estis in Christo Iesu! Id autem ut utrinque retineatur ac servetur, neque facultatibus neque vit{e} parcendum est.<zzl>zl17045-4E</zzl> <zzl>zl17045-5A</zzl>Quod a vobis factum iri, non vereor; nam apud nos
+<fa><i>Über der Zeile nachgetragen.</i></fa> vulgo fertur in Helvetiis colligi multorum militum suppetias in Germaniam mittendas.<zzl>zl17045-5E</zzl> <zzl>zl17045-6A</zzl>Id, si ita est, extollimus charitatem vestram summis laudibus; sin minus, sedulo rogamus vos atque in domino hortamur, ut omnino pr{e}stetis neque expectetis, ut c{e}teri, qui nunc salvi sunt, ad defectionem sollicitentur atque cogantur. Quod omnino futurum suspicor, ni rebus eorum sic afflictis illico
+<fa><i>Über der Zeile nachgetragen.</i></fa> succuratur.<zzl>zl17045-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17045-7A</zzl>Vobis autem, qui gratia et auctoritate isthic plurimum potestis, ea cura incumbit, et, quorum pectora deus spiritu suo inflammavit, ut in aliorum salutem die noctuque advigiletis! Neque enim necesse est hortari pios, qui in hoc positi sunt, ut prosint, quibus possunt, ac nemini noceant.<zzl>zl17045-7E</zzl> <zzl>zl17045-8A</zzl>Quod si h{e}c Germanorum, imo Christi causa ac totius ecclesi{e}, ut spero, a vobis suscipietur defendenda, nobis Italis inprimis, qui vestra et ipsorum opera, si res bene successerint, futuram libertatem auspicamur, ab hac, qua opprimimur, spiritus captivitate summ{e} erit consolationi, deinde c{e}teris, qui Christum non agnoscunt, sed c{e}sarem maximo prosequuntur odio, <vl>450</vl> rem facietis valde gratam.<zzl>zl17045-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17045-9A</zzl>Si quid autem fuerit, facite, amabo, certiorem.<zzl>zl17045-9E</zzl> <zzl>zl17045-10A</zzl>C{e}terum si qua in re pr{e}stare vobis possum operam meam, me uti frui potestis {e}que familiariter ac vobis ipsis.<zzl>zl17045-10E</zzl></p>
+</div>
+<div>
+<p>Interim in domino valete meque mutuo diligatis, ac salutate reliquam ecclesiam non tam meo quam omnium fidelium nomine. Datum Venetiis, quarto kalendas februarias 1547.</p>
+<un>Vestrarum excellentiarum</un>
+<un>studiosissimus Balthasar Alterius.</un>
+<lz/>
+<p>[Adresse auf f. 446a,v.:] [Claris]simis
+<fa><i>Hier und unten Textverlust bei der Entfernung des Verschlussbandes.</i></fa> ac eruditissimis viris domino [H]enrico Bulingero et domino Conrado Gisnero, medico, dominis ac fratribus honorandis. Tigurum.</p>
+</div>
+</text>
+</brief>

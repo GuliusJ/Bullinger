@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="970">
+<nr>970</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>14. März 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 126 (Siegelspur) </vo>
+<dr>Ungedruckt</dr>
+<re>Zweifelt daran, daß die scharfe Antwort, die Leo [Jud] auf den gemeinsamen Brief der Basler Pfarrer an Grynäus
+gerichtet hat, von Juds Kollegen mitgetragen wird; wenn die in der Sorge um den Zustand der Kirche gründende Mahnung,
+Bucer gerecht zu beurteilen, so unfreundlich aufgenommen wird, bleibt nichts mehr zu schreiben. Schickt den Brief, den
+Luther an den Bürgermeister [Jakob Meyer] gesandt hat; glaubt, daß man Luther ohne Gefahr vertrauen kann.</re>
+<tx>S. Fratres scripserunt Leoni adeoque vobis<f1>Zum (nicht erhaltenen) Schreiben der Basler Pfarrer an Leo Jud, worin
+diese das Bestreben einiger Berner Pfarrer kritisiert hatten, Schriften Bucers verbieten zu lassen, s. oben
+Nr. 956, 1-13.<fe>, Leo respondetd. Grynęo<f1>Leo Juds Antwort ist ebenfalls verloren.<fe>, non fratribus,
+quod ęqui bonique consulimus, non quod fratres me excepto literas legerint, sed quod acceperunt Grynęo responsum
+ad literas, quas com­muniter miserimus. Miror ego, numquid vestro consilio tam
+ferventer scribere sit iussus Leo. Aeque nos taxat atque Bucerum, qui tamen non, quod ipse dicit, praeripere vobis
+iudicium volumus de Buceri scriptis; sed ne, si is aberravit, nos propterea negligamus ecclesię statum incolumem,
+quod fieri videtur, dum illi non satis aequi esse videmini. Adfectu posito, qui et me nonnunquam abripit trahitque
+adversus Bucerum, non video alias cęculus, ubinam tantum patrarit peccatum, quod non propter labores, propter
+diligentiam, propter animum erga nos amicum et propter concordiam ecclesiasticam firmam et veram condonandum foret. Per
+me abundet quisque in sensu suo<f1>Vgl. Röm 14, 5.<fe>; nam postquam Leo scribit: "Feremus Bucerum; tantum non cogite, ut subscribamus, tantum
+ne tot literis irritetis patientiam nostram" - et nobis tamen nihil tale in mentem venit; nam utrum cogere an fraterne
+monere voluerimus, literę nostrę satis, puto, testantur. Deinde, quod non sustinet irritari patientiam vestram
+nostris literis, quos placare, non irritare tentavimus et ob id scribendi munus Grynęo dederamus, ne ineptus ego
+peccarem alicubi - postquam ita scribit, inquam, et literas fraternas non aliter accipit et vos in eadem sententia
+consistitis, equidem a scribendo vel de hac re vel de aliis facile supersederem. Verum adhuc in hoc sum, ut eius literas
+non putem esse communes; fratres enim, qui vere fratres sunt, non ita decet alloqui fratrum<fx>fratrum ^#/+über der
+Zeile nachgetragen.^#/-<fe> quenquam. Hęc tibi uni, tibi inquam uni, quamvis paucula.
+^$Mitto Lutheri epistolam ad consulem nostrum<f1>Luther an Jakob Meyer, 17. Februar 1537 (WA Briefwechsel VIII 43-45; die
+Abschrift von Bullingers Hand in Zürich StA, E II 337, 234r.-v., weist kleinere Textabweichungen auf).
+<fe>. Iudicabis. Mihi placet per omnia, et homini fido; praesertim, cum id liceat sine nostro
+periculo. Si fallet, non nos, sed seipsum fallet.
+^$Vale.
+^$Raptim, Basileae, 14. martii anno 37.<un>Tuus Myconius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, episcopo Tigurino vigilantissimo, fratri in domino suo.
+</content>
+</letter>

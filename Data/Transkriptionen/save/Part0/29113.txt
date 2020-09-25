@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="29113">
+<nr>29113</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Fabricius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>27. Juli 1559</date>
+</space_time>
+<vo>Zürich STa E II 373, 113. / Orig. Aut.</vo>
+<dr>Gr. II, 150 R.</dr>
+<re></re>
+<note></note>
+S. D. Accepi tuas 24. iulii scriptas.
+Quoniam vero hisce diebus domestico et gravi dolore capitis mei laboro, nihil nunc scribo, nisi quod tuas accepi, et gratias ago pro diligentia.
+Dominus manifesto iudicio regem sustulit, qui gravem manum in ecclesiam dei incutere voluit.
+Faxit dominus, ut hoc agnoscant consiliarii Francisci, cui omnia felicia precor.
+Commenda med. legato, d.d. consulibus,d. Gallicio, Pontasellae et omnibus bonis.
+Quaeso, diligenter has cura deferri ad. Friderycho, qui
+iussit eas Samadenum mitti, ubi nunc est.
+Vale.
+Tiguri 27. iulii 1559.
+                                                Bullingerus tuus.
+Praestantissimo virod. Ioanni Fabritio, Curiae Rhetorum Christum annuncianti, compatri et fratri suo charissimo.
+^$Chur.
+</content>
+</letter>

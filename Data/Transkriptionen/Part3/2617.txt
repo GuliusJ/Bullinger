@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2617">
+<brief>
+<id>16306</id>
+<nr>2617</nr> <from persid="BirckSixt"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-10-09"/>
+<ae>Sixt Birck an Bullinger</ae>
+<od>Augsburg, 9. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 346, 193 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 193 </k></dr>
+<re><t>Birck kann sich nicht erklären, womit er Bullingers Wohlwollen und die Grüße verdient hat, die ihm die gemeinsamen Freunde [Georg] Frölich und [Johannes] Haller etliche Mal ausgerichtet haben. Er ist dankbar dafür.</t>
+<t>Er erfuhr erst spät von der Rückreise der Pfarrer [Lorenz Meyer, Rudolf Schwyzer und Thoman Ruman] nach Zürich, sonst hätte er ihnen auch Briefe für die [anderen] Zürcher [Konrad] Pellikan, [Rudolf] Gwalther, [Konrad] Gessner, [Johannes] Wolf usw. mitgegeben. Grüße an diese. Bullinger soll ihm gewogen bleiben.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16306-2A</zzl>Laetus
+<fn>Georg Frölich.</fn> atque Hallerus, communes nostri amici, pater venerande, aliquoties iam salutem mihi tuis verbis dixerunt idque non officiose minus quam familiariter; ex quo colligo singularem tuam erga me benevolentiam, quam unde meruerim, rationem inire non possum. Ego autem eam nequaquam in postrema felicitatis parte pono. Nihil enim in rebus humanis praeclarius esse quicquam iudico quam optimorum benevolentiam atque favorem.<zzl>zl16306-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16306-1A</zzl>Redeunt ad vos vestri apostoli
+<fn>Lorenz Meyer (Agricola), Rudolf Schwyzer d.Ä. und (Hans) Thoman Ruman; s. <qv>nr2612</qv>,<qv>zl16301-8</qv> und <qv>fn16301-2</qv>.</fn>, viri haud dubie boni, quos ut amo ex animo, ita nihil me illis officii praestitisse fateor.<zzl>zl16306-1E</zzl> <zzl>zl16306-3A</zzl>Paraverunt abitum praeter opinionem meam
+<fa><i>In der Vorlage</i> mea.</fa>; alias scripsissem etiam aliis meis apud Tygurum amicis, domino Pellicano, Gvalthero, Gesnero, Wolfio
+<fn>Johannes Wolf.</fn>, etc.,<zzl>zl16306-3E</zzl> quibus, obsecro, ex me salutem officiosam dicito
+<fa><i>In der Vorlage</i> dicio.</fa> et Xysto favere, ut coepisti, pergito.</p>
+<p>Vale. Augusta Vindelicorum, 9. octobris 1546.</p>
+<un>Xystus Betul. tui studiosissimus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Heinricho Bullingero, Tigurinae ecclesi{e} antistiti benemerito, domino et amico suo cum praecipuis
+<fn>Zu verstehen: mit (oder: unter) den vorzüglichsten (Männern).</fn> colendo.
+<fn>Vorliegender Brief wurde, wie auch die Briefe <qv>nr2612</qv>, <qv>nr2613</qv> und <qv>nr2615</qv>, den drei nach Zürich zurückreisenden Zürcher Pfarrern anvertraut; s. oben Z. <qv>zl16306-1</qv>.</fn></p>
+</div>
+</text>
+</brief>

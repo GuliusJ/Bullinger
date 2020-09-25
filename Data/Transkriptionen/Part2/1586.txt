@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1586">
+<nr>1586</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Stumpf</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>15. November 1541</date>
+</space_time>
+<vo>Zürich ZB, Ms S 313, 11r. / Abschrift von Johannes Stumpf</vo>
+<vo>Kopie: ZZB, Ms S 50, 133<f1>M'schrift: A. Bonomo, Stumpf B+A-Slg. I 1, 166<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Bitten die Pfarrer des Kapitels [Wetzikon], auf [Benedikt] Finslers Armut Rücksicht zu nehmen; dieser hat zwar an der
+letzten Synode zugesagt, ihrer Forderung entsprechen zu wollen, ist aber unbemittelt.
+</re>
+<tx>Caspar Megander et H. Bullingerus Stumpfio suo.
+^$Gratiam et pacem etc.
+^$Oramus tuam humanitatem, Stumphi doctissime, ut causam
+suscipias Finssleri<f1>Benedikt Finsler, bis 1540 Diakon in Goßau (Kt. Zürich).<fe> atque a fratribus capituli per preces nostras impetres, quo paupertatulam illius
+ipsi concedant, dissoluto iuris vinculo.<f1>Über Verbindlichkeiten Finslers gegenüber den Pfarrern des Kapitels
+Wetzikon ist sonst nichts bekannt.<fe> Pollicitus est nobis proxima in synodo<f1>Da die Herbstsynode ausfiel (vgl. oben Nr.
+1572), muss die Frühjahrssynode vom 3. Mai 1541 gemeint sein. Im Protokoll (Zürich StA, E II 1, 265-274) ist über diese
+Angelegenheit nichts zu finden.<fe> appensurum, quicquid instructi a vobis indixerimus. Nos quia scimus miserum praemi
+paupertate et inopia, non gravatim has ad vos scripsimus precantes, ut concedatis sponte, quae hactenus
+auferre<fx>^#/+Vor^#/- auferre ^#/+gestrichenes^#/- quae hactenus.<fe> per vos non potuit. Speramus autem preces nostras apud vos valituras.
+^$Vale cum omnibus tuis.
+^$Tiguri, 15. novembris anno 1541.
+</content>
+</letter>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1075">
+<nr>1075</nr>
+<correspondents>
+	<originator>Nicholas Eliott</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Genf]<f1>Da Antoine Saunier</place>
+	<date>Rektor der Schule im Rivekloster, als Eliotts Gastgeber erwähnt wird, ist Genf als Absendeort anzunehmen. Bald nach Eliotts Weggang aus Bullingers Haus (1. November 1537; s. HBD 26, 25-27).<fe></date>
+	<note>, [November/Dezember 1537]</note>
+</space_time>
+<vo>Autograph<fx>^#/+Auf f. 24v. von Bullingers Hand:^#/- Anglorum literae.<fe>: Zürich StA, E II 369, 23r.-24r. (ohne Siegel)</vo>
+<dr></dr>
+<re>Bekundet im Rückblick auf die persönliche Begegnung seine Dankbarkeit und Liebe und will sich als würdiger Schüler
+erweisen. Hofft, daß Bullinger, der zu übertriebener Bescheidenheit neigt, seine Kommentare zu Jesaja und zu weiteren
+Schriften veröffentlichen wird; besonders seine Auslegung der Paulusbriefe wird überall gerühmt, und allein schon der
+buchhändlerische Erfolg bezeugt die Wertschätzung seiner Werke, die der Kirche noch großen Nutzen bringen werden. Grüßt
+Bibliander, Jud, Pellikan, Beat [Gering] und [Georg] Binder und bedauert, daß er ihnen noch nicht schreiben konnte. Grüßt
+außerdem Bullingers Bruder [Johannes] und übermittelt einen Gruß seines Gastgebers Antoine Saunier.
+</re>
+<tx>[Gedruckt<fx>^#/+Im Druck fehlt das am Schluß (f. 24r. unten) angefügte unbeholfene Briefchen in deutscher Sprache an
+Bullingers Frau (Anna Adlischwyler) mit Grüßen an die Großmutter (Anna Wiederkehr) und die Kinder.^#/-<fe> und Übersetzung ins
+Englische: Epistolae Tigurinae 401-403 bzw. Original Letters II 619-621, Nr. 284.]
+</content>
+</letter>

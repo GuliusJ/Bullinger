@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1026">
+<nr>1026</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>26. Juli 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen und einer Randbemerkung von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 168r.-v. (neu: 186r.-v.) (Siegelspur)</vo>
+<dr>Teildrucke: Corr. des réformateurs IV 266-268, Nr. 645; CO X/2 117f, Nr. 72</dr>
+<re>Caroli hat in Frankreich Zuflucht gefunden, wo er die Vorbehalte gegenüber der evangelischen Lehre verstärken wird.
+Auch [Guillaume] Bigot, der durch Grynäus im Glauben gefördert wurde, könnte unter dem Einfluß der Kardinäle, die seine
+Begnadigung erwirkten, zum Gegner werden. Die Uneinigkeit der Berner Pfarrer kommt geldgierigen Bernern gelegen und
+schadet dem Ruf des Evangeliums; Myconius drängt Bullinger erneut, dagegen aufzutreten. Ist sich seiner Geringfügigkeit
+wohl bewußt. Weiß nichts von den Verhandlungen der Eidgenossen. [Erasmus Alber] ist in die Mark Brandenburg, Bugenhagen
+nach Dänemark berufen worden. Bittet um Stellungnahme zu Bucers Rechtfertigungsangebot. Grüße.
+</re>
+<tx>S. Carolum audio receptum in Gallias<f1>Caroli hatte nach seiner Entlassung beim Erzbischof von Lyon, François
+Tournon, Zuflucht gefunden; s. ^#/+Bähler,^#/- Caroli 97.<fe>, quod rex<f1>Franz I.<fe> audierit ipsum reclamare
+Lutheranis. Nescio, si res ita habeat. Illud certum est evangelii sectatores non ob aliam causam peius apud illum
+audire, nisi quod putat eos non recte sentire de divinitate Christi. Quod si nunc recepisset istum, ut ad nos nobilis
+vir et pius<f1>Wahrscheinlich handelt es sich um Antoine Morelet de Museau, der soeben nach Basel zurückgekehrt war;
+vgl. Corr. des réformateurs IV 268.<fe> hodie retulit coram, is, vereor, frigidam<f1>Zu ergänzen: aquam. Gemeint ist:
+Mißtrauen säen; vgl. Adagia 1, 10, 51 (LB II 382).<fe> suffusurus esset non segniter. Adfirmavit idem Carolum propemodum
+delyrare, unde quidam divinant, quae facit, non bene sibi conscium facere. Equidem nescio, quid rei sit. Quamdiu fuit
+apud nos, taliter egit, ut iurassem bonum esse virum. Haec ideo scribo, ut mecum timeas Galliam habere, qui absterreat
+magis magisque, ne recipiat evangelium, atque hoc profecto contra animi mei sententiam.
+^$Receptus est item Bigotius<f1>Guillaume Bigot, 1502-1552(?), von Laval (Dép. Mayenne), ein unruhiger Charakter, studierte zunächst in Angers, mußte aber
+seine Heimat wegen eines Raufhandels verlassen. Er begleitete seinen Gönner Guillaume Du Bellay nach Deutschland und immatrikulierte sich 1532
+als Magister aus Paris in Marburg (s. Wilhelm Falckenheiner, Personen- und
+Ortsregister zu der Matrikel und den Annalen der Universität Marburg 1527-1652, Marburg 1904, S. 11). Grynäus holte ihn
+1535 aus Mainz als "professor physices" nach Tübingen (s. Norbert ^#/+Hofmann,^#/- Die Artistenfakultät an der Universität
+Tübingen 1534-1601, Tübingen 1982. - Contubernium 28, Reg.), doch zerstritt er sich schon bald mit seinen Kollegen und wich 1536 nach Basel aus. Ab 1537
+hielt er sich in Frankreich und Italien auf, bis er 1541 Professor der Philosophie in Nîmes wurde. Hier brachte ihn
+nicht nur seine umstrittene Lehrweise, sondern auch eine Anklage wegen Totschlags in große Schwierigkeiten. - Lit.: Paul ^#/+Delauney,^#/- Guillaume Bigot, in: Bulletin de la Société française d'Histoire de la Médicine 2, 1903, S. 181-226;
+[Jean-Charles] ^#/+Roman d'Amat,^#/- in: Dictionnaire de biographie française, Bd. VI, Paris 1954, Sp. 445f.<fe>, vir
+philosophus scientia magnus, poeta, lingua­rum peritus, interim miles et homicida, quamobrem hactenus caruit gratia
+regis. Et receptus est beneficio cardinalium quorundam<f1>Jean Du Bellay und Odet de Coligny; s. Peter G. ^#/+Bietenholz,^#/- Basle and France in the Sixteenth Century. The Basle Humanists and Printers in Their Contacts with Francophone Culture, Genf 1971. - Travaux d'humanisme et renaissance CXII, S.
+111.<fe>. Dum hic fuit, incepit Grynęo doctore sapere de Christo
+pulchre; nunc, postquam beneficium sensit, imo plaene accepit ab illis viris, nescio iterum, quid cogitem. Timeo iam
+alterum esse, qui relicta cognitione veritatis inter Gallos remoram iniiciat. Utinam non vere divinem!
+^$De dissensione fratrum Bernensium denuo rogo, diligentiam adhibeas; nam hoc die crudelissima de ipsis accipio<f1>Zur
+Lage in Bern vgl. auch Meganders Brief vom 27. Juli (unten Nr. 1027).<fe>. Partes habent et eas fovent, pro concionibus
+nullae ad unitatem adhortationes, ut, qui aliunde adveniunt, dicant: "Qualenam est hoc evangelium?" Deinde constat in
+Galliis<f1>Gemeint sind die 1536 von Bern eroberten französischsprachigen Gebiete.<fe> abiisse in proverbium "evangelium
+Bernatum" propter anxios quosdam pecuniarum voratores, quorum manifesta avaricia et insatiabilis tribuitur dissidio
+fratrum; qua ratione, divinabis ipse facilime. Queruntur item Sabaudienses<f1>die ehemaligen Untertanen des Herzogs von
+Savoyen.<fe>, ubi duci obolus fuerit dandus, nunc dandi sint duo, et non esse, quod praefectos satiare queat; putasse
+semper se Bernenses coluisse praeter cęteros iusticiam ex evangelii doctrina, nunc multo sentire aliud et videre,
+qualenam evangelium eis praedicetur. Hęc apud te, ut scripturus ad illos habeas<fx>habeas^#/+ am Rande
+nachgetragen.^#/-<fe>, quod suppeditet aliquo modo stimulos, qui moveant - non quod tibi desit, quo moveas, sed quia,
+quę dico, nescire te arbitror.
+^$De me vero, qui sentit nihil me esse, is recte sentit<f1>Vgl. oben Nr. 1025, 25-27.<fe>. Novi meipsum, et quo diligentius,
+quicquid sum, perquiro, magis dicere cogor, quod dixi. Deus mei misereatur.
+^$De foederatis<f1>Vgl. oben Nr. 1025, 44-48.<fe> nihil scio, nisi quod sint miseri. Pręterea elector
+Brandeburgensis<f1>Myconius (bzw. sein Informant Bedrot; s. dessen Brief in Zürich StA, E II 446, 327) verwechselt Kurfürst Joachim II. mit Markgraf Johann von
+Brandenburg-Küstrin; vgl. PA II 1472, S. 130.<fe> misit ad landgravium<f1>Philipp von Hessen.<fe> pro concionatore
+evangelico; is statim missus abiit in Marchiam<f1>Der in die Neumark entsandte Prediger war Erasmus Alber; s. Emil
+^#/+Körner,^#/- Erasmus Alber. Das Kämpferleben eines Gottesgelehrten aus Luthers Schule, Leipzig 1910. - Quellen und
+Darstellungen aus der Geschichte des Reformationsjahrhunderts XV, S. 41.
+<fe>. Spes inde nonnulla concipitur. Pomeranus vocatus a rege Danorum migravit<f1>Bugenhagen war von König
+Christian III. als Reformator nach Dänemark gerufen worden; vgl. oben Nr. 1024, Anm. 10.<fe>, et Lutherus restitutus est in locum suum, id
+est,
+<vl>168v.</vl> factus est iterum parochus<f1>Luther vertrat Bugenhagen ab 4. Juli als Stadtpfarrer von Wittenberg; s. WA
+Briefwechsel VIII 96, 13-16.<fe>.
+^$Nosti nimirum de literis, quas Bucerus s[cri]psit<fx-t>^#/+Rand beschädigt.^#/-<fe> ad senatum Bernensem pro repurgatione sua<f1>Siehe oben Nr. 1010, Anm.
+16.<fe>. Vellem scire, quid h[ic]<fx-x>^#/+Rand beschädigt.^#/-<fe> sentires<f1>Eine Antwort Bullingers ist nicht bekannt.<fe>.
+^$Vale cum uxore<f1>Anna, geb. Adlischwyler.<fe> et liberis<f1>Siehe HBBW VI, S. 124, Anm. 34.<fe> felicissime.
+Fratres omnes opto sal[vos]<fx-x>^#/+Rand beschädigt.^#/-<fe>.
+^$Basileę, 26. iulii anno 37.
+<un>Tuus Myco.
+<lz>[Adresse darunter:] Domino Heinricho Bullingero, doctissimo fratri in domino suo colendissimo.
+</content>
+</letter>

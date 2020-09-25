@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1816">
+<nr>1816</nr>
+<correspondents>
+	<originator>Johannes Blasius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>19. November 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 276 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53</vo>
+<vo>184<fn>Zit.: de Porta, Hist. Ref. Raet. I 260 k.</fn></vo>
+<re>Sein Streit mit [der Partei des Churer Bischofs Lucius Iter] ist zwar nach Anhörung von Anklage und Verteidigung durch den Gotteshausbund offiziell beigelegt worden, doch seine Gegner greifen ihn weiterhin an und versuchen, ihn [aus seinem Pfarramt an der Churer Regulakirche] zu drängen; rechnet nicht mit einem Erfolg dieser Versuche, es sei denn, die Macht der Gegenpartei nähme weiter zu; bittet um Verständnis für sein Handeln, denn er wollte die Ehre des Evangeliums und die vaterländische Freiheit verteidigen; sendet Regelbirnen [vgl. Grimm VIII 500], da diese [in Zürich] selten sind.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 55f, Nr. 42.]
+</content>
+</letter>

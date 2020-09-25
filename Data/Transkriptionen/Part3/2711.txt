@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2711">
+<brief>
+<id>16399</id>
+<nr>2711</nr> <from persid="HaabJohannes"/> <to persid="Bullinger"/> <place plid="Baden"/> <date when="1546-12-08"/>
+<ae>Johannes Haab an Bullinger</ae>
+<od>Baden
+<fn>Haab nahm am Tag zu Baden teil, der am Vortag eröffnet worden war; s. <qv>nr2693</qv>, <qv>fn16379-7</qv>.</fn>, 8. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 340, 161 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 123. ─ Dieser Brief ist früh geschrieben und nach Zürich gelangt; denn Bullinger zitiert daraus in seinem Schreiben an Myconius vom gleichen Tag.</k></dr>
+<re><t>Haab hat am Vortag den Brief Bullingers [nicht erhalten] mit der beigefügten Schrift [über den Aufenthalt von Nicolas Perrenot, Herrn von Granvelle, in Luzern] empfangen und deren Inhalte ohne Erwähnung Bullingers den [an der Tagsatzung zu Baden anwesenden] Boten von Bern [Peter Im Haag und Hans Pastor] sowie Basel [Bernhard Meyer zum Pfeil] ausgerichtet. Allerdings konnte niemand glauben, dass Granvelle in Luzern gewesen war. Stattdessen soll dieser in Frankreich den König [Franz I.] dazu angehalten haben, seine Tochter [Margarete von Frankreich] mit dem Kaiser [Karl V.] zu vermählen. Was alles der Teufel unter den Fürsten vermag! Der König ist daraufhin geradewegs nach Paris geritten, wohin er seine Geheimen Räte schriftlich einberufen ließ. Dies wurde von Kaufleuten erzählt, die zudem berichten, dass auf Betreiben Granvelles die beabsichtigte Geldzahlung von Franz I. [über Piero Strozzi] an die [Schmalkaldener] zunächst eingestellt, jedoch noch nicht abgeschlagen wurde. Mehr Nachrichten gibt es nicht. Ob das Mitgeteilte stimmt, wird sich noch zeigen.</t>
+<t>Grüße. Bullinger möge auch Bürgermeister [Hans Rudolf] Lavater informieren.</t></re>
+<text>
+<div>
+<p>Min früntlich gr{uo}ß, etc., eerwirdiger, hochgelerter, innsonders günstiger, lieber herr. <zzl>zl16399-1A</zzl><zzl>zl16399-3A</zzl>Uff gesterigen tag hab ich euwer früntlich schrybenn
+<fn>Nicht erhalten.</fn> sampt bygelegter schrifft
+<fn>Mit der Nachricht über Granvelles Aufenthalt in Luzern, wie weiter unten ersichtlich wird.</fn> empfangen, dieselbigen den vertruwten botten von Bern
+<fn>Peter Im Haag und Hans Pastor; s. <a>EA</a> IV/1d 723.</fn> und Basell
+<fn>Bernhard Meyer zum Pfeil; s. <a>EA</a> IV/1d 723.</fn>, doch ungemeltets nammens mittgeteilt. Alß wir nun s{oe}mlichß
+<fn>solches.</fn> geh{oe}rt, ist unser keiner, der da gloubenn kh{oe}nne ald
+<fn>oder; s. <a>Fischer</a> I 127f.</fn> m{oe}ge, das Granvella
+<fn>Nicolas Perrenot, Herr von Granvelle.</fn> z{uo} Lucern diser zytt gwesen.
+<fn>Es handelt sich wohl um ein Gerücht, zumal Granvelle sich am 10. Dezember in Ellwangen (Ostalbkreis, Baden-Württemberg) befand; s. <qv>nr2709</qv>, <qv>fn16396-1</qv>.<zfn>fn16399-3</zfn></fn><zzl>zl16399-1E</zzl> <zzl>zl16399-2A</zzl><zzl>zl16399-4A</zzl>Wol s{oe}lle gw{ue}ß sin, das gedachter Granvella inn Franckrych by dem k{oe}nig
+<fn>Franz I.</fn> ernstlich anhalte, des künigs thochter
+<fn>Margarete von Frankreich (1523-1574).</fn> dem keyser
+<fn>Karl V.</fn> eelichen z{uo} verm{ae}chlen.
+<fn>Ein solches Gerücht gab es schon 1539, nachdem Karls Gattin, Isabella von Portugal, am 1. Mai 1539 gestorben war; s. <a>HBBW</a> IX 173. - Zu einer Heirat kam es nicht. Gleichzeitig kursierten Gerüchte, dass Margarete auch als Gattin des ältesten Sohnes des Kurfürsten Johann Friedrich von Sachsen, dem künftigen Johann Friedrich II. (1529-1595), in Frage käme; s. <a>PC</a> IV/1 545, Anm. 1.<zfn>fn16399-1</zfn></fn><zzl>zl16399-3E</zzl><zzl>zl16399-4E</zzl> Also vil vermag satanas under denen fürsten! Dan mergemelter Granvella so ernstlich mitt dem künig handlet, das der k{oe}nig den nechsten
+<fn>den nechsten: geradewegs; s. <a>Grimm</a> XIII 281.</fn> gon Parys rytt, dahin er alle sine geheimpsten rh{ae}tt beschrypt
+<fn>schriftlich einberufen hat; s. <a>SI</a> IX 1521f.</fn>. S{oe}mliches habent wir landtm{ae}rs wyß
+<fn>landtm{ae}rs wyß: als Gerücht; s. <a>SI</a> XVI 1915.</fn> von koufflüten vernommen, welliche wyter angez{oe}ugt, daß das gelt, so den Protestierenden von dem künige erlegt s{oe}lte werden,
+<fn>Zu dieser über Piero Strozzi abgewickelten Verhandlung s. <qv>nr2610</qv>,<qv>zl16298-5</qv>; <qv>nr2612</qv>, <qv>fn16301-6</qv>; <qv>nr2615</qv>,<qv>zl16305-10</qv>; <qv>nr2645</qv>,<qv>zl16335-7</qv>; <qv>nr2689</qv>,<qv>zl16376-16</qv>.<zfn>fn16399-2</zfn></fn> durch verschaffung des Granvella dißmal stillgestelt, doch noch nitt abgeschlagen. So vil habent wir uff dißmal für nüwe zytungen by unns gehept. Ob dem nun also sige
+<fn>sei.</fn> oder nitt, wirtt die zytt z{uo} erkhennen gebenn.<zzl>zl16399-2E</zzl></p>
+</div>
+<div>
+<p>Hiemitt üch dem herren befolhende und, ob
+<fn>wenn.</fn> es üch gefellig, m{oe}gent ir s{oe}mliches herren burgermeyster Lafater
+<fn>Hans Rudolf Lavater.</fn> mitteylen, etc. In yl uß Baden, den 8. decembris des 46.</p>
+<un>Üwer allezytt g{uo}ter fründ unnd</un>
+<un>günner</un>
+<un>Johann Hab, burgermey-</un>
+<un>ster z{uo} Zürich.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:]
+<fa><i>Darüber von Bullingers Hand:</i> H. Hab, burgermeister Zürych.</fa> Dem ernwirdigen, hochgelerten hern Heynrichen Bullinger, pfarherr des Grossenn Münsters der statt Zürich, minem lieben herren und g{uo}tenn freunde, etc.</p>
+</div>
+</text>
+</brief>

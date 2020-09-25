@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1276">
+<nr>1276</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>24. Mai 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 110 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Wie es [nach dem Frankfurter Anstand] weitergeht, ist offen; manche setzen ihre Hoffnung auf den Nürnberger Tag, doch dieser
+könnte zu neuer Uneinigkeit führen, besonders in den [Schweizer] Kirchen. Grüße. Empfehlung für Jakob [Zorn].
+</re>
+<tx>Salus et pax Christi.
+^$Adhuc quiescunt omnia, nec scitur, quid concessurus sit
+cęsar<f1>Kaiser Karl V. schob eine Stellungnahme zum Frankfurter Anstand hinaus; vgl. ^#/+Fuchtel^#/-
+196-200.<fe>. Quidam optare videntur Nurenbergensem
+conventum<f1>Zum geplanten Religionsgespräch in Nürnberg s. oben Nr. 1261, Anm. 6.<fe> freti bona spe capi posse quosdam isto
+colloquio. Quod ut fiat, nos quoque optamus nichil tamen minus credentes; negamus enim rhete evangelicum<f1>In Anspielung auf Bibelstellen wie Mt 4, 18f; vgl. etwa WA IV 633, 5-16.<fe>
+esse illas scandalis
+plenas concordantias<fx>^#/+korrigiert aus ^#/-concordantiis.<fe>, quando scilicet non fidei reddenda ratio, sed
+discutiendu[m]<fx-t>^#/+Randtext im Einband verdeckt.^#/-<fe>, quibus rationibus cum furibus et latronibus
+ineas amicitiam. Interim de nobis vix sumus tam solliciti
+quam de vobis vestrisque ecclesiis; veremur enim, ne vestrum
+aliquot ad hoc quoque negotium rapiantur vel alliciantur.
+Hoc vero si communibus votis fieret, minus esset periculi;
+sed si cum nova scissio[ne]<fx-x>Von-bis-Anm.<fe> fiat, timendum est, ne ex uno malo
+nascant[ur]<fx-x>Von-bis-Anm.<fe> multa, quod dominus avertat. Proxim[o]<fx-x>Von-bis-Anm.<fe> tabellione
+addam alia forte; hęrent enim adhuc omnia.
+^$Interim vale, amantissime in domino, nosque semper ama. Cuͦnradus<f1>Konrad Zwick.<fe> frater et symmystę omnes salutant te studiosissime. Uxorem<f1>Anna, geb.
+Adlischwyler.<fe> tuam, matrem<f1>Anna, geb. Wiederkehr.<fe> et puellas<f1>Gemeint sind Bullingers Töchter Anna, Margaretha und Elisabeth.<fe> omniaque tua<fx>omniaque tua ^#/+am Rande nachgetragen.^#/-<fe> salva iubeo.
+^$Ex Constantia, 24. maii 1539.
+<un>Tuus Io. Zvick.
+<lz>Iacobum<f1>Jakob Zorn; vgl. oben Nr. 1247.<fe> illum, qui ex Turgoya iniuste pulsus nunc apud vos est, commendo tibi; nam vere bonus est et magnam iniuriam pertulit<fx>^#/+vor ^#/-pertulit ^#/+ein gestrichener Buchstabe.^#/-<fe>.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, Tigurino epi­scopo insigniter pio, fratri meo charissimo.
+</content>
+</letter>

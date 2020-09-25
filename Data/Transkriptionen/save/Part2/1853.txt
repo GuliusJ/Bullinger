@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1853">
+<nr>1853</nr>
+<correspondents>
+	<originator fn=1>Wolfgang Haller</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Wolfgang Haller, 1525-1601, war ein Sohn des bei Kappel gefallenen Pfarrers Johannes Haller d.Ä. und Bruder des späteren Berner Dekans Johannes Haller d.J. Nach Schulbesuch in Kappel und Zürich und Studium in Basel (1543) und Marburg (1544) wurde er 1545 Schulmeister in Kappel und damit auch Pfarrer in Hausen, 1547 Pfarrer in Meilen und 1552 zweiter Archidiakon (Prädikant) am Zürcher Großmünster. 1555 erhielt er das Zürcher Bürgerrecht; im selben Jahr wurde er nebenamtlich, ab 1557 vollamtlich Verwalter ("Propst") des Großmünsterstifts. Ab 1558 verwaltete er auch das Studentenamt. 1563 und 1566/67 amtete er außerdem als Schulherr. Er hinterließ diverse historische und biographische Aufzeichnungen sowie eine 1554 gedruckte Übersetzung von Jakob Rufs Hebammenbuch ins Lateinische. Von ihm sind 17 an Bullinger gerichtete Briefe erhalten. - Lit.: HBLS IV 61; ^#/+Pfarrerbuch^#/- 319; Basel, Matrikel II 35, Nr. 12; CMD-CH II 222 und III 292.</note>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>22. Februar 1544</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von Johann Heinrich Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 310 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 54^&x{
+<dr>Ungedruckt</dr>
+<re>Der durch [Johann Jakob] Ammann mitgeteilte Beschluss, die bei Myconius untergebrachten [Zürcher] Studenten sollten sich wegen dessen Arbeitsüberlastung ein anderes Quartier suchen, zwingt ihn zum Schreiben; als wahren Grund vermuten sie aufgrund von Bullingers Brief an Myconius [Nr. 1846] die Befürchtung, dieser könnte ihnen das Gift einer falschen Abendmahlslehre einpflanzen; Myconius hat sie allerdings nur einmal beiläufig darauf angesprochen, und er selbst hält unverbrüchlich daran fest, dass der innere Mensch Christus im Glauben genießt, dass aber Christus nach seiner menschlichen Natur bis zu seiner Wiederkunft zur Rechten des Vaters bleibt. Hofft auf weitere Belehrung; was er zum Weggang aus dem Haus von Myconius denkt, wird Ammann berichten. Segenswunsch und Grüße von seinen Studiengenossen.
+</re>
+<tx>Gratiam et vitae incolumitatem a domino deo per Iesum
+Christum etc.
+^$Meliorem indies studiorum meorum profectum expectans,
+pater in domino clementissime, in commodiorem et magis
+opportunum temporis articulum tenues meas ad te dare
+literulas subinde reieci. At nunc imparatum me cogit nescio
+quae scribendi necessitas, commune videlicet totius
+nobilissimi collegii vestri decretum per colendissimum
+praeceptorem nostrumd. Ammianum<f1>Johann Jakob Ammann.<fe> scholarcham ad nos proxime transmissum,<f1>Das Schreiben des Schulherrn Johann Jakob Ammann an die bei Oswald Myconius untergebrachten Zürcher Studenten ist nicht erhalten; vgl. jedoch Bullingers Brief an Myconius vom 12. Februar (oben Nr. 1846, bes. Z. 44f).<fe> ut relicto Myconio ad alium bonum et syncerum
+quempiam civem nos habitatum conferamus, causa interim eius
+rei non assignata nisi una hac: dominum Myconium laboribus et
+curis quotidianis oppressum aegre convictores, quorum curam
+gerat, alere posse. Nos dum aliam quampiam suspicamur
+subesse causam, ecce Myconius e tuis literis<f1>Oben Nr. 1846.^&x12. Feb.^&x{<fe> nobis causam afferre videtur, ne videlicet mala illa de eucharistia
+opinione affecti olim praesenti illa cicuta ecclesias forsan
+nobis credendas nostro quoque damno inficeremus. Egregie
+quidem hoc cautum foret, si Myconius nos hac opinione
+inficere moliretur, quod tamen hactenus privatim nunquam
+nisi semel et obiter tantum fecit, ubi, cum responderemus non
+esse nostri officii circa ardua hęc digladiari cum
+quoquam, praeterea non lacessivit unquam. De me, quaeso,
+dubitare noli; adeo solidum enim fidei meę ieci
+fundamentum Christum dominum, ut, etiamsi nescio quot annis
+mihi cum Myconio, Bucero et Luthero versandum esset, a fide
+mea gratia spiritus constabilita nunquam dimoverer. Christum
+ego semper suae ecclesię adesse et in coena fide,
+interiore, non exteriore homine ipso nos frui iam olim a te
+et aliis symmistis tuis, imprimis tamen verbo dei didici,
+quod nec Myconius neque inferorum mihi portae<f1>inferorum portae: Mt 16, 18.<fe> eripient
+neque de alia quapiam corporali praesentia persuadebunt. Novi
+enim a dextris patris humana natura residere dominum, divina
+autem semper nobis adesse, ideoque hoc, quod ipsi volunt,
+mihi nunquam persuadebunt. Si enim eo modo, quo in coelum
+sublatus est, iudicaturus aliquando ignoto nobis temporis
+articulo revertetur, quid opus nos nostra comestione ipsum a
+dextra patris pari cum patre potestate in hunc mundum
+detrahere? Sed haec de his hactenus obiter.
+^$Cuperem interim ego, si aliquando per ocium citra molestiam
+liceret, ut super his paucula quaedam ad me dares, quae
+unicę quodammodo delicię meę futurę essent non
+mediocriter magis magisque fidem meam confirmaturae.
+At quid super altera parte respondeam, an Myconium mihi
+relinquendum censeam necne, Ammianus scholarcha docebit;
+nolo enim alias plurimis frequenter te negociis obrutum
+reliquis quoque obtundere; nam vel his ut ignoscas, oro.
+^$Dominus<fx>Do- ^#/+in Versalien.^#/-<fe> deus te, precor, nunquam non in salvo rerum tuarum statu ad ecclesię suę salutem, suam gloriam et proximi commodum conservet. Salutant te cum universa familia tua reliqui omnes consodales mei.<f1>Von den in Basel studierenden Zürchern wohnten außer Haller zumindest auch Leodegar Hirsgarter, Kaspar Schneeberger und Hans Schmid (Fabricius) bei Myconius; s. oben Nr. 1846, 47-49, bzw. unten Nr. 1856, 1-21; 1916, 2-14.<fe> Vale.
+^$Basileę, in aedibus domini Myconii, anno salutis nostrę 1544, 22. februarii.
+<un>Tuus in domino discipulus Guolphgangus
+<un>Hallerus, tui observantissimus.
+<lz>[Adresse auf der Rückseite:] Vigilantissimo Tigurinae ecclesiae praesidi domino Heinricho Bullingero, domino ac patri suo colendissimo.
+</content>
+</letter>

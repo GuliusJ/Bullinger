@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="29001">
+<nr>29001</nr>
+<correspondents>
+	<originator>Matthieu Coignet</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Solothurn</place>
+	<date>2. Januar [1559]</date>
+</space_time>
+<vo>Zürich StA, E II 368, 4. / Orig. Aut.</vo>
+S. Tuas accepi literas scriptas 20. et 25. decembris.
+Hospitem Ciconie certiorem facio de mea voluntate, nec dubitare debes, quin praestaturus sim, quę in mea erunt facultate; sed expectanda opportunitas, ut cum regis bona gratia id fiat.
+Heri literas recepi ad. conestabili, qui rediit e captivitate.
+Circa finem huius mensis deputati debent convenire Cameraci, ut incoepta colloquia de pace perficiant, et magna spes est pacis.
+Turca maximos facit apparatus contra Hangarium[Hungarium?]; verendum est, ne ea
+res comitia imperialia impediat.
+Scribo magistro poste etiam, ut ferat xenia honestissimae matrone, quę filii hospes est et illi loco matris est.
+Salutabis d.d.
+Martirem et Galterum.
+Tibi illisque opto et familiis foelicem annum.
+Soluturi 2. ianuarii.
+                                              Tuus.
+D. Henricho Bullingero, ecclesie Tigurine pastori vigilantissimo.
+Tiguri.
+Zurich.
+</content>
+</letter>

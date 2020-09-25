@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1240">
+<nr>1240</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>11. März 1539</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 33 (VBS IV), Nr. 259 (Siegelabdruck)</vo>
+<re>
+Hat gemäß Vadians Auftrag, den Landvogt Johannes Haab übermittelte, [einen Brief] geschrieben, und ist zu weiteren Diensten bereit. Hört gerne, daß Vadian die Arbeit an der "[Farrago] de collegiis [et monasteriis Germaniae veteribus]" nicht aufgegeben hat, und ermuntert ihn, sich weiterhin für die
+wahre Lehre einzusetzen; dankt für die nützlichen außenpolitischen Mitteilungen, die er mit [Diethelm] Röist, der Vadian grüßen läßt, durchgegangen ist, und bittet um weitere Nachrichten.
+Im Reich ist großer Streit zu befürchten, und zwar um ihrer Sünden willen; er hofft auf das Erbarmen Gottes. Bittet um Vadians Urteil über seine Vorrede zur Münster-Bibel, die [Christoph] Froschauer an Vadian schickt, und über sein Buch "De origine erroris"; manche fürchten, seine Schriften könnten
+Kritik herausfordern, doch er hat immer nur Gott und die Wahrheitssuchenden vor Augen.
+</re>
+<tx>[Gedruckt: Vadian BW V 542, Nr. 1048.]
+</content>
+</letter>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1021">
+<nr>1021</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>15. Juli 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 581r.-v. (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Bucer hat ihn zu einem Treffen nach Isny eingeladen, um zu erfahren, was ihm vorgeworfen wird; falls Zwick der Einladung folgt, will er ihn fragen, was nach seiner Meinung bisher
+falsch gemacht wurde und welche Ordnung er den Kirchen geben würde. Erkundigt sich, ob Bullinger und Pellikan die Hebammentaufe für gültig halten. Ambrosius [Blarer] hat in
+Konstanz über den Stand der Reformation im Herzogtum [Württemberg] berichtet; der Fortschritt ist erfreulich, wenn auch noch Mängel bleiben. Weiteres kann Bürgermeister [Thomas Blarer] berichten. Gruß.
+</re>
+<tx>Salus.
+^$Bucerus me vocat Isnam<f1>Die Aufforderung zu einem Treffen findet sich im Brief an Margaretha Blarer vom 29. Juni (Blarer BW II 830f).<fe>, Bullingere suavissime; an obtemperaturus sim, etiamnum delibero. Dominus det, quod sit utile. Omnino vult a me scire coram, quae nam sint illa gravia peccata,
+propter quae sic damnetur<fx>^#/+vielleicht als ^#/-damnentur^#/+ zu lesen.^#/-<fe>; praecipue vero conqueritur se damnari a vobis et nobis. Pro vobis nullam dabo rationem. Pro me dabo, quam possum, ex animo et simpliciter. Statui vero et ex ipso interrogare
+primum, qui nam illi errores sint sive ab initio sive successu evangelii per doctiores commissi; dann man solt ym ymerdaren anderst thon haben. Secundo, quo nam ordine et quibus ritibus credat
+instituendas ecclesias. Ex his facile, ni fallor, deprehendemus illius mentem. Ubi rediero, faciam te certiorem, quid inter nos actum, si modo abiero.
+^$Unum abs te scire velim et a<fx>a ^#/+über der Zeile nachgetragen für gestrichenes ^#/-ab.<fe> Pellicano, an
+obstetricum baptismum non agnoscatis pro vero baptismo<f1>Zwick hatte bereits im Vorjahr eine ähnliche Frage gestellt (s. HBBW VI, S. 461, 57f). Eine ablehnende Stellungnahme Bullingers zur Hebammentaufe aus dem Jahr 1543 findet sich in Corr. des réformateurs IX 119f; ähnlich in seinen "Sermonum
+decades quinque", Zürich 1552, f. 352v.-353r.<fe>. Qui enim pro vero habent, putant in Christo non esse neque mulierem neque foeminam<f1>Vgl. Gal 3, 28.<fe>. Proinde Maria resurrectionis fuit nuntia<f1>Vgl. Joh 20, 11-18.<fe>. Si ergo docendi
+provintia commissa est ab ipso Christo mulieri, cur non etiam commiteretur baptizandi? Sed audiam, quid vos ad ista tam sophistica.
+^$Ambrosius<f1>Ambrosius Blarer.<fe> aliquot diebus apud nos fuit, qui ordine
+nobis religionis cursum in ditione ducis<f1>im Herrschaftsgebiet Herzog Ulrichs von Württemberg.<fe> deliniavit et talem, ut domino gratiae sint habendae, <vl>581v.</vl> utcunque quędam desyderentur. Sed quotus quisque pater familias est<fx>^#/+vor^#/- est ^#/+ein gestrichener Buchstabe.^#/-<fe>, in
+quo non aliquid desyderes;
+quid ergo in principe, imo quid in nobis ministris desyderatur?
+^$Si quid praeterea est, quod scire cupis, habes doctissimum et pietatis studiosissimum consulem nostrum<f1>Thomas Blarer kam auf den 18. Juli
+zu einem Rechtstag nach Zürich, wo über einen Zinsstreit zwischen Konstanz und dem Domkapitel verhandelt wurde; s. Ekkehart ^#/+Fabian,^#/- Ein Konstanzer
+Reformationsprozeß vor dem Zürcher Rat zwischen Kirche, Politik und Recht 1525/1535-1538/1546, in: FS Karl Siegfried Bader. Rechtsgeschichte, Rechtssprache, Rechtsarchäologie, rechtliche
+Volkskunde, hg. v. F. Elsener und W. H. Ruoff, Zürich und Köln/Graz 1965, S. 130-132; vgl. HBBW VI, Nr. 756f.<fe>, quem tibi et Pellicano
+commendo.
+Vos vero et familias vestras commendo Christo, in quo valete, pectora mea.
+^$15. iulii 1537.<un>Io. Zvick.
+<lz>[Adresse darunter:] Domino Hainricho Bullingero, Tigurinae ecclesiae pastori vigilantissimo, suo fratri observandissimo.
+</content>
+</letter>

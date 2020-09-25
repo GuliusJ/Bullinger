@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1370">
+<nr>1370</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>10. März 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 65 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 161<f1>(Moeller, Zwick Nr. 215)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für Bullingers ["Der christliche Ehestand"]. Sonst gibt es nichts zu schreiben; er hofft auf gute Nachrichten
+vom Bundestag [zu Schmalkalden]. Auch seine Frau [Anna] dankt für das Buch; sie wollen seine Lehren beherzigen. Grüße.
+</re>
+<tx>Salus et pax Christi.
+^$Pro libello<f1>Gemeint ist Bullingers neuerschienenes Werk "Der christliche Ehestand"; vgl. oben Nr. 1366, 2-6 mit Anm. 1.<fe> tuo gratias ago quam possum plurimas; gratissima enim michi sunt talia talium amicorum dona.
+Utinam rependere possem tua tot erga me offitia. Expecto
+occasionem, qua oblata non ero ingratus.
+^$Quid scribam, aliud non habeo. Omnia nunc silent, quod ad evangelii negotium adtinet. Utinam ex comitiis nostrorum audiamus felicia<f1>Zu den Ergebnissen des Bundestags zu Schmalkalden s. unten Nr. 1381, 1-8; 1398, 2-24.<fe>!
+^$Vale, mi frater, et pro nobis semper ora.
+^$10. martii 1540.
+<un>Tuus Io. Zvick.
+<lz>Uxor<f1>Anna Tegerfelderin oder Tegerwilerin; vgl. HBBW IX, S. 203, Anm. 20.<fe> mea quoque gratias agit pro munere; legemus mutuo et dabimus operam, ut tuis exhortationibus adiuti reddamur meliores.
+^$Tuam totam familiam saluta studiosissime.
+^$Leonem<f1>Leo Jud.<fe>, Pellicanum et omnes fratres salvos iubeo.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, ecclesiastae Tigurino, suo fratri charissimo. Zurch.
+</content>
+</letter>

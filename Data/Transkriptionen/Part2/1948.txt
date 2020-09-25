@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1948">
+<nr>1948</nr>
+<correspondents>
+	<originator>Ambrosius [Blarer]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>29. Juli [1544]</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357a, 653 (Siegel)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 104^&x{
+<dr>Zusammenfassende Übersetzung: Blarer BW II 276, Nr. 1106</dr>
+<re>Findet sich mit der Verzögerung ihrer Pläne ab und interpretiert diese als göttlichen Willen; lasst uns Gott vertrauen. Übersendet einen Brief von [Wolfgang] Musculus, Bullinger kann seine Antwort an Blarer senden. Grüße; wird an [Rudolf] Gwalther schreiben. Hat das Geld empfangen.
+</re>
+<tx>S. Non est, quo[d literis tu?]is<fx>^#/+Ein Stück des Textes wurde herausgeschnitten.^#/-<fe> respondeam,<f1>Bullingers Brief ist nicht erhalten.<fe> nisi quod boni
+consulo, quicquid iniectum est remorarum huic, quod nosti,
+instituto, mi venerande pariter et charissime frater, neque
+dubito, quin singulari cęlestis patris consilio factum
+sit, quod non potuit successus aliquis esse tot annorum in
+hac re conatuum.<f1>Blarer bezieht sich wahrscheinlich auf den möglichen Anschluss von Konstanz an die Eidgenossenschaft; s. zuletzt oben Nr. 1919, 18-45.<fe> Olim, tamen, puto utrinque videbimus consilii
+huius non obscuram rationem. Valde me solatur in istis
+dubiis temporibus, quod non certa solum, sed optima quoque
+de nobis constituit, qui solus rerum, velit nolit mundus<f1>Hieronymus, Epistulae, 45, 7.<fe>,
+potitur; illi nos, quam feliciter possumus, tam etiam,
+quanti quanti sumus, permittamus.
+^$Bene vale, mi Bullingere, nosque sanctissima pertinacia
+perpetuo ama, Christo nos et nostros piis votis diligenter
+commendans. Mitto Musculi literas<f1>Oben Nr. 1943.<fe>; ad quem si quid forte
+rescribere volueris, mitte.<f1>Auf Bullingers (verschollene) Antwort antwortete Musculus am 19. September 1544, unten Nr. 1991.<fe> Saluta omnes fratres et amicos
+cum tota tua domo. Commenda nos optimo consuli Röstio<f1>Diethelm Röist.<fe>.
+Gvalthero<f1>Rudolf Gwalther.<fe> scribam, ubi primum vacabit;<f1>Der nächste erhaltene Brief Blarers an Gwalther datiert vom 8. Oktober (Blarer BW II 305f, Nr. 1132).<fe> tu hominem mea vice
+amantissime saluta. Iterum vale.
+^$29. iulii.<fx>^#/+Darunter von Traugott Schieß' Hand:^#/- 1544.<fe>
+^$Pecuniam accepi.<f1>Möglicherweise handelt es sich um die Bezahlung eines Boten.<fe>
+<un>Tuus Ambr.
+<lz>[Adresse auf der Rückseite:] Praestantissimo pietate et
+eruditione virod. Heinricho Bullingero, amico modis omnibus
+summo. Tiguri.
+</content>
+</letter>

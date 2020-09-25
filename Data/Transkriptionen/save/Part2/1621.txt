@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1621">
+<nr>1621</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>19. April 1542</date>
+</space_time>
+<vo>Abschrift von Johann Jakob Simler<fx>^#/+Simlers autographe Vorlage, die sich nach seiner Angabe in der Bibliothek von Johann Jakob Ulrich befand, ist verschollen (vgl. HBBW IV, S. 377, Anm. a).^#/-<fe>: Zürich ZB, Ms S 51, 82</vo>
+<dr>Ungedruckt</dr>
+<re>Leo [Jud] ist schwer krank, Bibliander hält trotz seiner Gliederkrankheit oder Gicht Vorlesungen, auch Megander ist krank
+und predigt trotzdem, während Bullinger wegen seines Tertianfiebers das Haus seit 14 Tagen nicht verlassen hat, aber
+Besserung verspürt. Bittet um Weiterleitung eines Käses an Richard Hilles in Straßburg. Mehr kann er nicht schreiben. Grüße.
+</re>
+<tx>Clarissimo virod. Osvaldo Myconio, antistiti ecclesiae Basileiensis, domino et fratri venerando et dilecto.
+^$Gratiam et vitae innocentiam a domino.
+^$Non admodum valemus fratres tui, carissime Myconi. Leo<f1>Leo Jud.<fe> propemodum agit animam. Bibliander, vir incomparabilis,
+morbo articulari an podagrae laboret, incertum; sind gschwüstergete kind<fx>sind gschwüstergete kind ^#/+am Rande nachgetragen.^#/-<fe><f1>Geschwisterkinder (im Sinne von: ähnlich geartet).<fe>. Graviter
+certe laborat, interea aeger obambulat ac pro more
+praelegit. Utinam totus ab omnibus abstineret lectionibus,
+quod is tam constanter recusat, quam<fx>^#/+In der Vorlage wohl irrtümlich^#/- quum.<fe> pertinaciter nos
+exigimus. Megander et ipse aegrotat et concionatur tamen.
+Me vero inclementiss[ima] febris iam dies aliquot vexavit.
+14. hodie dies agitur, quo ultimum aedes egressus sum.
+Deliteo domi et cum tertiana<f1>Wechselfieber mit dreitägigem Zyklus (Malaria tertiana); vgl. Max ^#/+Höfler,^#/- Deutsches
+Krankheitsnamen-Buch, München 1899 (Nachdruck: Hildesheim-New York 1970), S. 144. 734.<fe> aeger conflictor. Sentio tamen vim morbi nonnihil remittere. Dominus adsit nobis et
+restituat nos, si placemus ipsi.
+^$Caseum hunc, quaeso, fide summa Richardo Hiltzio<f1>Richard Hilles.<fe> Anglo Argentinam perferri curato. Rem feceris gratissimam. Praetium ipse persolvam, ubi indicaris.
+^$Haec boni consule; nam plura non potui.
+^$Vale cum omnibus tuis. Salutant te fratres omnes.
+^$19. aprilis 1542.
+<un>Tuus H. Bullingerus.
+</content>
+</letter>

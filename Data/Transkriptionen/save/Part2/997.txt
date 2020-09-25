@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="997">
+<nr>997</nr>
+<correspondents>
+	<originator>Wolfgang Capito</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Straßburg]</place>
+	<date>20. Mai 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 89 (Siegelspur) </vo>
+<dr>Regest: Capito, Corr. 225, Nr. 644</dr>
+<re>Empfiehlt den Augsburger Bürgermeister [Wolfgang Rehlinger] und seinen Begleiter [Konrad Heel] unter Hinweis auf die Gefahr, die trotz der Aufschiebung des Konzils von päpstlicher Seite droht. Gruß. Bucer ist nach Augsburg gereist. Bittet um Weiterempfehlung der Genannten an Bürgermeister
+[Diethelm] Röist und den Rat.
+</re>
+<tx>S. Rogo te, Bullingere, hunc virum patricii ordinis, eruditum, pium et iam consulem reipublicę Augustanę<f1>Wolfgang Rehlinger.<fe>, una
+cum suo collega<f1>Syndikus Dr. Konrad Heel. - Die beiden Augsburger suchten das Gespräch über einen eventuellen Beitritt von Basel und Zürich zum Schmalkaldischen Bund; s. Fabian, Quellen 175. Vgl. auch das Empfehlungsschreiben Jakob Meyers vom 24. Mai (unten Nr. 1000).<fe> tibi commendatum habeas
+propter communem
+religionem Christi atque studium pietatis, imo periculorum affinitatem, quia nondum tam deploratę sunt res
+pontificiorum, quam incuriosis interim videntur. Lutherus instaurat pugnam contra eos. Vos vigilate, nihil contemnite,
+quo minus securos et oscitantes opprimant.
+Concilium suum pontifex Romanus<f1>Paul III.<fe> in alterum annum distulit<f1>Am 20. April war in Rom die Verschiebung des Konzils auf den 1. November desselben Jahres bekanntgegeben worden; s. Hubert ^#/+Jedin,^#/- Geschichte des Konzils von Trient, Bd. I, Freiburg 1951, S. 264.<fe>, quod hoc tempus
+ad res pro arbitrio conficiendas parum sit idoneum,
+et tamen indictum esse nobis detrimento est, quos illo telo confodere, quoties facultas arriserit, non dubie studebit.
+^$Professores et symmistas salvere iubeo.
+^$Bucerus Augustam abiit his diebus<f1>Zum Aufenthalt Bucers in Augsburg vom 18. Mai bis 9. Juli 1537 s. ^#/+Pollet,^#/- Bucer II 236-238.<fe>.
+^$Vale.
+^$13. kalendas iunii anno 1537.<un>V. Capito.
+<lz>Consuli Resthio<f1>Diethelm Röist.<fe> et vestro magistratui hos, oro te, viros commenda; nam digni sunt, in quos officia nostra collocemus<f1>Die Bewirtung des Augsburger Bürgermeisters und seiner Begleiter ist in der Seckelamtsrechnung zwischen 24. Mai und 6. Juni vermerkt (Zürich StA, F III
+32, 1536[-1537], S. 47).<fe>.
+<lz>[Adresse auf der Rückseite:] Henrico Bullingero, viro eruditissimo atque integerrimo, ecclesię Tigurinę
+pastori, sibi in domino suspiciendo.
+</content>
+</letter>

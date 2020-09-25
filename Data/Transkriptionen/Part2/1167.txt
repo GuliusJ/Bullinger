@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1167">
+<nr>1167</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>die Pfarrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>September 1538]</date>
+	<note>Grynäus bezieht sich auf einen vorausgegangenen Brief, den er schrieb, nachdem er durch Vadian von den Bedenken gegenüber Luthers jüngstem Schreiben (vom 27. Juni 1538) erfahren hatte (s. unten Z. 15-22). Ein
+entsprechender Brief Vadians war vor dem 22. August in Basel eingetroffen (vgl. unten Anm. 3). Offenbar ist aus Zürich
+eine Reaktion auf den ersten Brief erfolgt, auf die Grynäus nun antwortet.</note>
+</space_time>
+<vo>Ausfertigung von unbekannter Hand<fx>^#/+Korrekturen, Unterschr.ift und Adresse autograph; Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 247 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Schreibt, weil er sich verpflichtet weiß, für die Konkordie einzutreten. Anlaß seines vorigen Briefs war die Mitteilung
+Vadians, Luthers jüngstes Schreiben stoße auf Bedenken, worauf er Genaueres in Erfahrung bringen wollte. Daß Luther den
+Schweizern nicht völlig traut, darf nicht verwundern, da auch sie sich immer wieder durch Vorbehalte abgesichert haben und
+noch immer gepredigt wird, Christus sei im Abendmahl nicht anwesend. Ruft dazu auf, klug zu handeln und brüderlich
+voneinander zu denken, um die Konkordie zu vollenden.
+</re>
+<tx>S. Ego, fratres charissimi ac colendissimi semper mihi,
+ad vos de com­munibus ecclesiae negotiis scribens scio me
+officium meum facere<fx>^#/+Das Wort von Grynäus gestrichen und am Rande besser lesbar wiederholt.^#/-<fe>, quod quidem neque vos
+ignoratis. Utinam modo sic faceremus nos omnes, qualiter qui studio, fide, industria, vigilantia summa in summam rem
+incumbunt. Scio, si concordia haec in discordiam nobis exit, fratres, operam suam in ludificandis nobis sathanam non lusisse.
+Fateor vobis: Cura esse summa tenacissimaque, veritas ut retineatur, debet; at ut ecclesiae concordia restituatur, aeque
+debet esse summa cura, fratres. Itaque, quicquid ad vos tam
+sollicite interpellans, iurgans scribo, per dominum vos oro,
+ut neque me aliquem neque nullum esse putetis, qui id
+scribo. Scio, quis mihi pectus, quis linguam moveat; scio,
+quis sit, qui in me vobiscum rixatur. Certe, si maligne
+quicquam instituo aut molior, scio, dominus omnia consilia
+nostra mox in lucem palam perducta non solum risum exponet,
+sed disperdet etiam.
+^$De eo, quod scripsi nuper<f1>Der vorausgegangene Brief ist nicht erhalten.<fe>, non obscuro ex
+angulo prodiit. Scripsit enim Vadianus<f1>Vermutlich handelt es sich um jenen verlorenen Brief Vadians, auf den Myconius am 22.
+August, Capito und Bucer am 5. September antworteten (s. Vadian BW V 502-504, Nr. 1020, bzw. VII 74-83, Nr. 57).<fe>, communis
+utique noster, communis utique patriae suae et religionis amicus idem summusque, se sentire incendium novum, offensionem novam,
+iterum in discrimen fidem eorum, qui nobiscum agunt, apud vos venire, nisi scriptae a Luthero epistolae interpretem apud vos
+aequum sint nactae. Scire<fx>^#/+Wie Anm. b.^#/-<fe> igitur cupiebam, in hiis<fx>in hiis ^#/+korrigiert aus^#/- hiis in.<fe> quid
+offenderet, ut eo, quod offendit, sublato adversus artes sathanae communire nos melius possemus. Habetis causam proximae meae epistolae.
+^$De offensa vero, quae orta ex ultima Lutheri epistola<f1>Gemeint ist der Brief vom 27. Juni an die Ratsboten
+der reformierten Städte der Eidgenossenschaft (WA Briefwechsel VIII 241f, Nr. 3240).<fe> est, verbis paucis dicam. Mihi certe -
+ut ingenue profitear, quod sentio -, quod facit Lutherus, facere<fx-x>^#/+Wie Anm. b.^#/-<fe> necessario videtur. Quid enim
+nos in hac tota concordiae pactione aliud unquam egimus, quam ut Luthero parum fidentes mille nobis modis adversus<fx-t>^#/+Wie
+Anm. b.^#/-<fe> ipsum caverimus? Propositum sarciendę concordiae medium confessio nostra<f1>Das Erste Helvetische
+Bekenntnis von 1536 (BSRK 101-109).<fe> fuit. Eam quando ad illum unquam sine copiosissima ac circumspectissima
+interpretatione misimus?<f1>Grynäus bezieht sich auf die ausführliche Erläuterung des Bekenntnisses im Schreiben der
+reformierten Städte vom 12. Januar 1537 (WA Briefwechsel XII 241-275, Nr. 4268).<fe> Recte fuit hoc factum principio, quod
+ut fieret, ipse quoque operam diligentissime dedi. At cum id semper in ipsaque postrema concordiae coitione<fx-t>^#/+Wie Anm.
+b.^#/-<fe> fit<f1>Nämlich im Schreiben an Luther vom 4. Mai (WA Briefwechsel VIII 211-214, Nr. 3224), das an der Zürcher Tagung
+vom 28. April bis 3. Mai entworfen worden war.<fe>, quid aliud Lutherus cogitet quam exceptionibus perpetuo utentes ad ipsam
+concordiam vere inclinatos non esse? Quid mirum igitur, cum in cavendo nobis ab illo toti quidem simus, si vicissim ipse quoque
+cavendum sibi a nobis esse putavit. An vero superior eius epistola<f1>Vom 1. Dezember 1537 (WA Briefwechsel VIII 149-153,
+Nr. 3191).<fe> non simplex, non clara, non amica, non sancta satis fuit? Quid, fratres, quod adhuc in vestris concionibus
+publice non solum dicitur, sed ingeminatur Christum in coena non esse, hic, hic non esse, si modo id est, quod hic ab
+hominibus gravissimis audimus? Itaque debemus, fratres, diligenter agere, et positis suspicionibus de fratribus fraterne
+sentiemus<fx>sentiemus ^#/+undeutlich korrgiert aus^#/- sentire[?].<fe>. Iuro per dominum, si id fecerimus, sine ulla veritatis offensa
+concordiam cęptam non amittemus.
+^$Oro vos per amorem Christi Iesu, ut me feratis fratrem
+vestrum, qui dividere vobiscum animam suam paratus est.
+^$Valete in domino.
+<un>Simon Grynęus
+<un>vester.
+<lz>[Adresse auf der Rückseite:] Clarissimis viris
+fratribus Tyguri dominum profitentibus.
+</content>
+</letter>

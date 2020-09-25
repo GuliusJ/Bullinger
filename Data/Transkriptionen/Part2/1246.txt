@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1246">
+<nr>1246</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>18. März 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 56 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Nachrichten vom [Frankfurter] Bundestag werden nächstens erwartet. Es heißt, Türken und Tataren hätten sich gegen Polen
+verbündet; auch Deutschland droht Gefahr, wenn Gott nicht nüchternen Sinn gibt. Mit der Ermordung eines evangelischen
+[Kammergerichts-]Prokurators [Ludwig Hierter] in Speyer sollen möglicherweise [die Protestanten] eingeschüchtert werden;
+von den verräterischen Machenschaften gegen [Landgraf Phil­ipp von] Hessen wird Bullinger vielleicht schon gehört haben.
+Benedikt Euander hat Zwick besucht und aus Kempten berichtet, der Streit zwischen Simprecht [Schenck] und [Paul] Rasdorfer
+sei beigelegt. Ambrosius [Blarer] ist beschäftigt und läßt grüßen.
+</re>
+<tx>Salus.
+^$Nova expectamus quotidie ex comitiis<f1>Zum schmalkaldischen Bundestag in Frankfurt vgl. oben Nr. 1230, Anm. 4.<fe>, utinam felicibus.
+Turcam vero certo aiunt reconciliatum cum Tartaro<f1>Der Khan der Krimtataren, Sahib Giray, hatte auch bisher schon die Türken
+politisch und militärisch unterstützt; s. HBBW VIII, S. 280, 10f mit Anm. 5, vgl. auch PC II 562.<fe>;
+legem reconciliationis esse, ut con­iunctis manibus Poloniam
+infestent. Quod si dominus hos servos suos excitat in nos,
+facile potes coniicere, quo in statu futurae sint res
+Germanorum ebriosissimorum. Dominus adsit nobis; adfuturus
+est autem, si dederit sanam mentem.
+^$Spyrae in publico foro a quodam nobili latrone<fx>latrone ^#/+am Rande nachgetragen.^#/-<fe> interemtus est insignis iuris doctor
+et evangelicorum omnium procurator<fx>^#/+korrigiert aus ^#/-procuratorum.<fe><f1>Am 3. März war Dr. Ludwig Hierter, einer
+der Kammergerichtsprokuratoren der Protestanten, von einem Edelmann namens Valentin Matthias Streitberger erstochen
+worden (s. [Christoph Friedrich] ^#/+Gayler,^#/- Historische Denkwürdigkeiten der ehemaligen Freien Reichsstadt
+izt Kgl. Würtembergischen Kreisstadt Reutlingen, vom Ursprung an bis zum Ende der Reformation 1577, Reutlingen 1840, S. 468f).
+Hierter stammte aus Reutlingen und hatte ab 1513 in Tübingen und Heidelberg studiert; seine Laufbahn hatte er als Offizial in
+Bamberg begonnen und als Kammergerichtsrat in Esslingen fortgesetzt, bevor er als Prokurator nach Speyer kam. - Lit.:
+Beschreibung des Oberamts Reutlingen, hg. v.d. K. Statistischen Landesamt, Stuttgart 1893, Erster Teil, S. 484.<fe>;
+nescitur autem, quid istud sibi velit. Statim enim homicidio patrato effugit equo homicida. Forte talibus exemplis
+conantur papae coniurati terrere partem nostram. Dominus tueatur nos! De proditionibus quorundam principum contra Hessum forte
+alias audisti<f1>Zwick spielt auf die abgefangenen Briefschaften an, welche die feindselige Haltung Herzog Heinrichs von
+Braunschweig gegen Landgraf Philipp von Hessen und die Protestanten ans Licht brachten und auch Kurmainz belasteten; vgl. unten Nr. 1254, 74-77.<fe>.
+^$Vale cum tota domo et fratribus omnibus.
+^$Benedictus Euander hodie mecum fuit et testatur nunc
+ecclesiam Campodunensem sedatam; conveniunt enim Sympertus<f1>Simprecht Schenck.<fe> et Radocomus<f1>Paul Rasdorfer. - Zum Konflikt zwischen den Pfarrern von Kempten, der noch keineswegs ausgestanden war, vgl. unten Nr. 1292.<fe>.
+^$Datum Constantiae, 18. martii 1539.
+^$Ambrosius<f1>Ambrosius Blarer.<fe> occupatus non scribit, sed per me multas salutes mittit.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainrico Bullingero, ecclesiae Tigurinę integerrimo pastori, fratri meo selecto.
+</content>
+</letter>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2770">
+<brief>
+<id>17039</id>
+<nr>2770</nr> <from persid="Bullinger"/> <to persid="HallerJohannes"/> <place plid="Zürich"/> <date when="1547-01-26"/>
+<ae>Bullinger an Johannes Haller</ae>
+<od>Zürich, 26. Januar 1547
+<fn>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem</i> [= Bullinger] <i>Eidem</i> [= Haller]. <i>Tiguro Augustam, 26. ianuarii 1547.</i></fn></od>
+<vo>Abschrift von unbekannter Hand (17. Jh.)
+<fa><i>Mit Randbemerkung und Unterstreichungen von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 46, 594 <k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 48</k></vo>
+<dr>Ungedruckt<k>Kopie 17. Jh.: Zürich ZB, Ms F 46, 594r. (oben); mit Randbemerkung von Johann Heinrich Hottinger. ─ Auf der Fotokopie in Bull. Corr. und in den Schieß-Verzeichnissen (chronolgisch und Simler-Liste) irrtümlich unter 28. Januar aufgeführt. Beide Kopien haben deutlich 26. Januar 1547. ─ Teilübers. (nur 1547 angegeben): Briefe aus dem 16. Jh., in [H. H. Füßli]: Schweitzersches Museum 2, Okt.-Dez.1783, S. 422f, Nr. 5.</k></dr>
+<re><t>Hauptmann Bernhard von Cham, [Landvogt] in Kyburg, musste in Zürich als Oberbefehlshaber der Zürcher Truppen mit den Kriegsabgeordneten entsprechende Vorkehrungen treffen. Danach hat er Bullinger besucht und ihm von Hallers Brief erzählt.</t>
+<t>Von Cham wird Haller selbst noch darauf antworten, bat aber Bullinger, unterdessen mitzuteilen, dass der Wunsch [der Zürcher Pfarrer in Augsburg], zurückberufen zu werden, auf Missfallen stößt. Mit einem Brief an den Zürcher Rat würden sie ihrem Ruf nur schaden. Schon Hallers Brief an seinen Schwiegervater [Ulrich Kambli] hat im Rat Ärger erregt. Bereits werden Vorwürfe laut, dass die Prädikanten ihr Mäntelchen nach dem Wind hängen und als Erste an Flucht und an ihr eigenes Wohl denken!</t>
+<t>Haller soll sich innerlich wappnen und nicht bereits denken, dass ihm der Tod bevorsteht. Und selbst wenn die Augsburger Ratsherren [Kaiser Karl V.] unwürdige Zugeständnisse machen würden, soll Haller seinen Pflichten weiter nachkommen, wie es andere gute Männer tun, die sich den gottlosen Handlungen auch nicht anschließen und der Lage entsprechend handeln werden. Sollte dann Haller sterben müssen, soll er sich standhaft zeigen. Im Falle eines ungerechten Friedens wird es bestimmt böse Zungen geben, die behaupten werden, dass man sich zu dem Frieden entschlossen habe, weil die Pfarrer sich als ängstlich erwiesen hatten. Sind aber die Pfarrer standhaft, werden auch deren Kirchen den Tod in Kauf nehmen. Haller soll Mut fassen, beten und seinen Dienst tapfer verrichten!</t>
+<t>Grüße.</t></re>
+<text>
+<div>
+<p>S. D. <zzl>zl17039-2A</zzl>Advenit imperator nostri exercitus, B[ernhardus] a Kam, a Kyburgo, ut imperium capesseret et omnia una cum bello deputatis ordinaret.
+<fn>Zu den Namen einiger der am 22. Januar 1547 ernannten Kriegsabgeordneten für die an diesem Tag festgesetzten Truppeneinheiten s. <qv>nr2768</qv>,<qv>zl17036-4</qv>.</fn> Id, ubi perfecisset feliciter, me accessit et, quae illi scripseras, communicavit.<zzl>zl17039-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17039-3A</zzl><zzl>zl17039-1A</zzl>Quanquam vero ipse scripturum se recepit, postulavit tamen, ut et ego tibi diligenter cum suo, tum meo nomine significarem displicere nobis per omnia consilium vestrum
+<fn>Gemeint sind die in Augsburg tätigen Zürcher Pfarrer: Haller, Lorenz Meyer (Agricola), (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä. </fn> de revocatione vestra.<zzl>zl17039-1E</zzl> Quod si scripseritis ad amplissimum senatum Tigurinum,
+<fn>Haller hatte schon mit seinem Brief vom 7. Januar 1547 (<qv>nr2744</qv>,<qv>zl17013-36</qv>) angekündigt, dem Zürcher Rat schreiben zu wollen. Dies tat er mit einem Brief vom 18. Januar 1547 (s. <qv>nr2744</qv>, <qv>fn17013-2</qv>), in dem er um eine rasche Rückberufung bat. Dieser Brief war offenbar noch nicht in Zürich eingetroffen; zumindest wusste Bullinger noch nichts davon.<zfn>fn17039-3</zfn></fn> adeo impetrabitis nihil, <zzl>zl17039-9A</zzl>ut praeterea faciatis foetere nomen vestrum (loquar enim scripturarum more)
+<fn>Vgl. 2Kor 2, 16.</fn> apud pios pariter et impios,<zzl>zl17039-9E</zzl><zzl>zl17039-3E</zzl> <zzl>zl17039-4A</zzl>praesertim cum epistola tua nuper socero
+<fn>Ulrich Kambli.</fn> missa per omnia senatui displicuerit. Sunt, qui iam dicant concionatores evangelicos sereno tempore audaces esse, nubiloso pavidulos, et inter primos inveniri, qui meditentur fugam suaeque consulant saluti. Nosti, quales inter bonos quoque inveniantur.<zzl>zl17039-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17039-7A</zzl><zzl>zl17039-5A</zzl>Suadeo ergo modis omnibus, indures animum tuum adversus omnia pericula, ut aliud cogites quam mori in hoc negotio.<zzl>zl17039-5E</zzl> <zzl>zl17039-6A</zzl>Caeterum, si quid indigni admiserint
+<fn>Als Subjekt ist die Obrigkeit von Augsburg vorauszusetzen.</fn>, fac tu quoque tuum, quod optimos facere videris. Non praecipites sese dabunt in impietatem. Consulent sibi etiam in tempore.<zzl>zl17039-6E</zzl> Tunc vero ex re capito consilium. Quod si interire necesse est, fortiter sustine casum. Non occidetur anima, tametsi caedatur corpusculum.
+<fn>Vgl. Mt 10, 28.</fn> Tandem res ista tota devolveretur in vos. Ubi enim receptae fuerint iniquae conditiones
+<fn>In Hinsicht auf einen Frieden mit Karl V.</fn>, sunt sane tam maligni homines, ut in vos culpam reiicere ausuri sint dicentes: "Pepigimus
+<fn>Zu verstehen ist: Pepigimus pacem.</fn>, at vidimus prius duces verbi concidisse metu." Quod si pro vestro officio adhortati fueritis ecclesiam, fortiter sustineat periculum ac propter veram religionem morti sese exponat. Testabitur bona conscientia
+<fn>Vgl. 1Petr 3, 15-17.</fn> et excusabit iusta innocentia. Si occumbendum est, gloriose occumbis! Sin secus egeris,
+<fn>Nämlich gegen einen gottlosen Frieden.</fn> occumbes etiam sic, sed cum dedecore. <zzl>zl17039-8A</zzl>Resumito ergo spiritum.<zzl>zl17039-8E</zzl> Orato dominum. Constanter pergito et officium fortis viri facito!<zzl>zl17039-7E</zzl></p>
+</div>
+<div>
+<p>Vale cum symmistis, etc.</p>
+<lz/>
+<p>[Ohne Adresse.]
+<fn>Haller erhielt vorliegenden Brief am 3. Februar, wohl zusammen mit dem oben in Z. <qv>zl17039-1</qv> angekündigten Brief von Bernhard von Cham; vgl. <qv>nr2791</qv>,<qv>zl17060-1</qv>. - Kurze Zeit zuvor, am 22. Januar, hatte Bullinger einen heute nicht mehr erhaltenen, jedoch bezeugten Brief an Haller verfasst, der am 27. Januar in Augsburg eingetroffen war; s. <qv>nr2786</qv>,<qv>zl17054-2</qv>.<zfn>fn17039-2</zfn></fn></p>
+</div>
+</text>
+</brief>

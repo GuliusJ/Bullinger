@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1360">
+<nr>1360</nr>
+<correspondents>
+	<originator>Béat Comte</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lausanne</place>
+	<date>21. Februar 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 368, 227r.-v. (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 142</vo>
+^&xErw.: Bouvier 102. 181^&x{
+<re>Sein Wunsch, einmal mit ihm über Fragen der christlichen Lehre sprechen zu können, ist durch die Lektüre von "De origine
+erroris" noch verstärkt worden; dieses Werk sowie Zwinglis "Amica exegesis", dessen Schwanengesang, übertreffen alles, was
+ihm sonst auf dem Feld der Theologie begegnet ist. Wenn Bullinger sein Talent weiter so entfaltet, werden die
+[lutherischen] Fleischfresser und Blutsauger, über die er nicht ohne Zorn schreiben kann, nichts mehr zu schwatzen haben. Auf
+die darniederliegende Kirchenzucht geht er nicht ein, da Viret ausführlich darüber schreibt [Nr. 1358], doch schließt er sich der Bitte um Stellungnahme an. Gruß an die Kollegen.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs VI 187-189, Nr. 853.]
+</content>
+</letter>

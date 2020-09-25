@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2241">
+<nr>2241</nr>
+<correspondents>
+	<originator>Johannes Travers</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Zuoz</place>
+	<date>10. September 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365a, 446 (Siegelspur)</vo>
+^&xErw.: Bundi, Frühe Beziehungen..., 1988, 176 (A 91) ^&x{
+<re>Johannes Travers' Sohn [Johannes d.J.], der während seines Schuljahrs in Zürich gute Ergebnisse erzielt hat, möchte in Basel weiterstudieren. Demzufolge bittet Travers Bullinger, dessen Briefe in Basel viel mehr vermögen als seine eigenen, seinen für das Studium geeigneten Sohn und dessen Gefährten [...] einem fähigen Präzeptor in Basel zu empfehlen, um ihn auf das [Universitätsstudium] vorzubereiten.
+-^#. Mit dem Brief schickt er ferner zwei heimische Käse, die nach Piacenzer Art hergestellt wurden.</re>
+<dra>[Gedruckt: Graubünden, Korr. I 80f, Nr. 60.]</dra>
+^&x<tx>S[alutem] d[ico]. Fillius[!] meus<f1>Johannes Travers d.J.<fe>, qui Tiguri annum unum cum honesto proventu transegit,
+vir consum[m]atissime, Basileam ire contendit, com[m]endatione ordinis rei litterarie allectus.
+Cum vero illic, cui eum com[m]endem, habeam neminem, tuo medio magis illum com[m]endatum facere ratus sum, quam mille si illuc darem litteras.
+Novi equidem, quanti tenearis apud doctos omnes; quo fit, ut non sim veritus in ea causa te oratum adire,
+quatenus ad aliquem tibi amicum virum, bonarum litterarum candidatum, aliquid in filii comitumque suorum
+com[m]endationem scribere digneris, quo preceptorem aliquem honestum secundum gymnasii illiusce statuta nancisci valeat,
+cuius prescripto et regula, que ad litterarum profectum profutura fuerint, adimplere et collum iugo supponere possit.
+Certe nihil sollidius heret cordi, quam fillii indolem honestis ac bonis litteris exornare.
+Tua humanitas me sepe suis com[m]onefecit suique preceptores quoque, ne gnatum hunc a litterarum palestra patiar distrahi.
+Verum tantorum virorum suadelis ac nati desiderio contraire nephas autumarem<fx>^#/+Vorlage:^#/- autunnarem.<fe>.
+^$Ceterum, quo valeas ruris nostri fructus agnoscere, amicissime Bullingere, duos caseos
+Placentinorum ordine factos mitto; utere eis amore tibi devinctissimi Traversi.
+Etiamsi meritis et dignitati tuis non correspondeat munusculi tenuitas, animum mittentis introspicias potius et boni consulere velis, oro.
+^$Vale.
+^$Ex Zutzs, 4. idus septembris 1545.
+<un>Quantulus est, a calce tuus Ioannes Traversus.
+<lz>[Adresse auf der Rückseite:] Sacre philosophie vero specimini Heinrico Bullingero, [ecclesi]aste Tigurino, domino [suo et a]mico cum primis collendo.^&x{
+</content>
+</letter>

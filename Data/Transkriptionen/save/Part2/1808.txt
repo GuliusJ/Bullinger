@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1808">
+<nr>1808</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>30. Oktober 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 55 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 165<fn>Zitat: Ott, Annales Anabaptistici 102</fn></vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 214, Nr. 1044</dr>
+<re>Besitzt keine vertrauenswürdigen Nachrichten vom Krieg mit den Türken oder unter den Fürsten, erwartet gespannt Nachrichten von einer Übereinkunft zwischen Kaiser [Karl V.] und [König Franz I.], nachdem 4'000 Eidgenossen dahingemetzelt worden sein sollen; auch aus Augsburg kam noch keine Nachricht. Bullinger soll für Frieden beten.
+Grüße, besonders an [Diethelm] und [Jakob] Röist.</re>
+<tx>S. Dispeream vero, Bullingere, si quicquam nunc
+aliquamdiu habui, quod de bellorum alea vel nostrorum cum
+Turco<f1>Sultan Suleiman I.<fe> vel inter se nostrorum principum certum ad te
+perscribere potuerim. Scriptum iam satis diu nihil de iis
+rebus est a fide dignis hominibus; rumores vero sic variant,
+ut meminisse horum pigeat. Expectant nostri in horas certum
+nuncium, ut inter caesarem<f1>Karl V.<fe> et Gallum<f1>König Franz I.<fe> conventum sit, si tamen
+conventum est, quod affirmare plęrique audent post
+trucidatos quater mille Helvetios, cuius rei non dubito, quin
+istic veriora testimonia<fx>testimonia ^#/+über einem gestrichenen zweiten^#/- veriora ^#/+nachgetragen.^#/-<fe> habeatis.<f1>Es kam zu diesem Zeitpunkt weder zu einer Einigung noch zu einer Konfrontation zwischen dem Kaiser und Franz I., vielmehr wurden deren Kampagnen durch den Wintereinbruch weitestgehend aufgehalten; s. ^#/+Brandi^#/- I 432-434.<fe> Augustani mei
+nihil horum
+in suis literis commemorant<f1>Aus dieser Zeit ist kein Brief an Blarer aus Augsburg erhalten.<fe>, qui explorata solum scribere ad
+me solent; si quid mihi significatum fuerit, diligenter, ut
+ipse quoque quamprimum resciscas, curavero.
+^$Commenda nos domino diligenter, ut sua pace hic nos et
+ęternum dignetur.
+^$Saluta totam tuam domum cum verbi gratię praeconibus
+omnibusque amicis. Dominum Röstium<f1>Diethelm Röist.<fe>, consulem vestrum,
+integerrimum et optimum virum, cum se digno filio<f1>Jakob Röist.<fe> meis
+verbis amantissime salvere iubebis. Salutem tibi dicunt
+nostri omnes. Ora pro nobis, mi charissime et optime frater,
+et crebris tuis piisque intercessionibus apud dominum
+diligenter nobis patrocinare, ut humanis omnibus rebus magno
+impetu quotidie in praeceps ruentibus spes nostra et
+infracta in dominum Iesum fiducia<fx>^#/+Nach^#/- fiducia ^#/+ein unlesbar gemachtes Wort.^#/-<fe> se ipsa subinde<fx>subinde ^#/+am Rande nachgetragen.^#/-<fe> fortior
+assurgat suaque virtus in nostra infirmitate feliciter
+perficiatur. Vale, decus meum,<f1>Vgl. Horaz, Carmina, 1, 1, 2.<fe> in domino.
+^$30. octobris 1543.
+<un>Tuus Ambr. Bl.
+<lz>[Adresse auf der Rückseite:] Observando suo et
+charissimo Bullingero. Zürich.
+</content>
+</letter>

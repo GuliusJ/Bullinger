@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1212">
+<nr>1212</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>7. Januar 1539</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichung, vielleicht von späterer Hand.^#/-<fe>: Zürich StA, E II 364, 53 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Schreibt einzig, um Jakob [Zorn] zu empfehlen, der tätlich angegriffen wurde und im Thurgau nicht mehr sicher ist.
+Capito wird demnächst nach Bern reisen; der Grund dafür ist nicht bekannt.
+</re>
+<tx>Salus et pax Christi.
+^$Nec iam michi ullum scribendi argumentum est, Bullingere
+charissime, hoc uno, quod Iacobus<f1>Gemeint ist zweifellos
+Jakob Zorn; vgl. unten Nr. 1247.<fe> ille, qui nuper apud te miseriam suam detexit, anxie rogavit, ut
+commendaretur a me tibi. Est autem bonus certe vir, dignus,
+cui adsis, si qua ratione potes. Persequuntur illum quidam
+furiosi ad internitiem usque. Invasit eum hisce diebus
+nebulo quidam nemini notus et prostratum conatus est
+vulnerare, sed defendit eum pileus insigniter lęsus, ut
+intelligat se non posse sine vitae discrimine diutius hic
+hęrere<fx>^#/+nach ^#/-hęrere ^#/+gestrichenes ^#/-posse.<fe>, atque ea est publica Turgoye iustitia, scilicet
+ut bonus vir non sit tutus. Dominus respitiat aliquando
+suos. Amen.
+^$Nosti forte Capitonem brevi profecturum Bernam<f1>Das Gerücht, Capito wolle Bern besuchen, bewahrheitete sich nicht; vgl. unten Nr. 1224, 87-89.<fe>; causam vero ignoro.
+^$Vale cum Pellicano et bonis omnibus.
+^$Ex Constantia, 7. ianuarii 1539.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, ecclesiae Tigurinę antistiti, observando meo
+in Christo fratri. Zürch.
+</content>
+</letter>

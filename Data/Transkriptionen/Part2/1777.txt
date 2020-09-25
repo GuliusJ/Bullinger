@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1777">
+<nr>1777</nr>
+<correspondents>
+	<originator>[Bullinger]</originator>
+	<addressee>Martin Bucer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[kurz vor 28. August 1543]</date>
+	<note>Die Erwähnung von Bucers Rückkehr aus Bonn und von Bullingers Johanneskommentar (HBBibl I 153), fertiggestellt am 21. August 1543 (s. HBD 32, 6), sowie Bucers Verdankung dieses Briefes (unten Nr. 1789) erlauben eine ungefähre Datierung auf Ende August 1543. Der Briefentwurf findet sich als erster in einer Reihe von vier fortlaufend geschriebenen Entwürfen (vgl. unten Nr. 1778-1780); die Ausfertigung des letzten dieser Briefe datiert vom 28. August.</note>
+</space_time>
+<vo>Autographes Konzept: Zürich StA, E II 345, 364r.</vo>
+^&xK: Zürich ZB, Ms S 53, 89; Straßburg BNU, Ms 673 (Th. B. 14), 110;^&x{
+<dr>Ungedruckt</dr>
+^&xErw.: J. Rott, La corr. inédite 138; ders. in HBGesA II 281, Nr. 147.^&x{
+<re>Dankt für Bucers Brief vom 21. Juli [Nr. 1763], in dem dieser von der gefährlichen Lage [des Erzbischofs Hermann von Wied] berichtet; versteht Bucers Sorge über das Verhalten der Stände, konnte aber einem Brief von Myconius [Nr. 1773]
+entnehmen, dass der Landtag dem Reformationsentwurf ["Einfaltigs bedencken" von Bucer und Melanchthon] zugestimmt hat, was [die Zürcher] sehr freut; bittet um Zusendung dieser Schrift. Hat in neunmonatiger Arbeit einen Kommentar zum Johannesevangelium
+verfasst; darin bekämpft er [Kaspar] Schwenckfelds Lehre, wo sich Gelegenheit dazu bietet, und behandelt die Einheit der göttlichen und menschlichen Natur Christi, da die alten
+Irrtümer wieder neu aufkommen - man denke nur an [Michael] Servet, Campensis [Johannes Campanus], Claude [d'Aliod] und die Täufer. Empfehlung und gute Wünsche.</re>
+<tx>D. Martino Bucero, Christi Iesu ministro, fratri dilecto.
+^$Literas tuas 21. iulii Bonae scriptas<f1>Oben Nr. 1763.<fe> augusti 6. accepi, ex
+quibus intellexi optimi senis<f1>Erzbischof Hermann von Wied.<fe> periculum grande, quod valde
+me reddidit solicitum non tam propter optimum senem quam
+propter scandalum ingens et sanctorum de­iectionem, quam
+non sine causa metuebas<f1>Vgl. oben Nr. 1763, 8-15.<fe> futuram, siquidem comites<fx>comites ^#/+über gestrichenem^#/- 3 ordi[?] ^#/+nachgetragen.^#/-<fe>, nobiles et oppidani
+archipraesulis dorsum vertissent veritati. Sed gratia deo, qui corda horum impulit ad obsequium veritatis! Nam 14. augusti scribit Myconius in comitiis illis posteris uno ore consensum
+esse in reformationem praescriptam et additum, quicquid dominus propterea sustinendum imposuerit, fortiter subituros.<f1>Fast wörtliches Zitat aus Myconius' Brief, oben Nr. 1773, 3f.<fe> Non credas<fx>credas ^#/+aus einem unlesbaren Wort korrigiert.^#/-<fe>, quanto ad hoc nuntium gaudio
+omnes nostri exultarint collaudantes misericordiam domini,
+quon­iam<fx-t>^#/+Von^#/- quon­iam ^#/+bis^#/- eius ^#/+über der Zeile nachgetragen.^#/-<fe> bonus, quon­iam in saeculum misericordia eius<fx-x>^#/+Von^#/- quon­iam ^#/+bis^#/- eius ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Vgl. Ps 106 (Vulg. 105), 1; 107 (Vulg. 106), 1; 118 (Vulg. 117), 1.<fe>. Faxit hic,
+ut reformationi promptis animis receptae sancte et
+constanter etiam per omnia tentationum pericula inhaereant.
+Nondum tamen quicquam eius reformationis vidi<fx>^#/+Korrigiert aus^#/- vidimus.<fe>; proinde oratum te velim, ne ea me destituas. Valde enim illam videre cupimus omnes.
+^$Ego continuis mensibus novem non sine labore gravi 10
+commentariorum libros in evangelium Ioannis<f1>Bullingers Johanneskommentar (HBBibl I 153).<fe> inter<fx-t>^#/+Von^#/- inter ^#/+bis^#/- levia ^#/+über der Zeile nachgetragen.^#/-<fe> publica et
+domestica negotia nec pauca nec levia<fx-x>^#/+Von^#/- inter ^#/+bis^#/- levia ^#/+über der Zeile nachgetragen.^#/-<fe> et scripsi et
+ędidi, quibus contextum<fx-t>^#/+Von^#/- contextum ^#/+bis^#/- est ^#/+über der Zeile nachgetragen.^#/-<fe> orationis, id est<fx-x>^#/+Von^#/- contextum ^#/+bis^#/- est ^#/+über der Zeile nachgetragen.^#/-<fe> sensum studui
+reddere apostoli et usum vindicare evangelii. Ubi per
+occasionem licuit, oppugnavi Schwenk[feldii] dogma novum et
+noxium, maxime in cap. 1., 2., 3., 9., 16., 17. et 20.,
+ubi de veritate redivivi corporis dissero. Sed et magna
+cura et diligentia tractavi adorandam Christi<fx>^#/+Vor^#/- Christi ^#/+gestrichenes^#/- in.<fe> domini
+divinitatem veramque eius humanitatem in una indivisibili
+persona unitas, quo erroribus veteribus subinde in curiosis
+quibusdam maleque firmis ingeniis quotidie satis ubere
+proventu<fx>satis ubere
+proventu ^#/+über der Zeile nachgetragen.^#/-<fe> pullulantibus et scripturis et sanctorum patrum
+orthodoxis interpretationibus in tempore praevenirem. Non
+enim ignoras, quid seminis in multorum animis Servetus,
+Campensis<f1>Johannes Campanus.<fe>, Claudius<f1>Claude d'Aliod.<fe> et secta anabapt[istarum] venenatissima<fx>venenatissima ^#/+über der Zeile nachgetragen.^#/-<fe>
+reliquerit<fx>^#/+Wortanfang undeutlich korrigiert.^#/-<fe>.<f1>Vgl. die ähnliche Aufzählung im ungefähr gleichzeitig entstandenen Brief an Melanchthon, unten Nr. 1779.<fe> Ego certe omnibus sanctis, quod dominus Iesus,
+omnium cordium scrutator<f1>Vgl. 1Chr 28, 9 u. ö.<fe>, novit, his meis sudoribus<fx>^#/+Von^#/- his ^#/+bis^#/- sudoribus ^#/+über der darüberstehenden Zeile nachgetragen, davor gestrichenes^#/- hoc meo.<fe>
+inservire et prodesse volui ac spero me piis et gratis rem
+fecisse non ingratam.
+^$Commendo me tuae charitati ac tuis
+precibus. Dominus Iesus servet te una cum ecclesia et schola
+sanctissima Argentinensi.
+</content>
+</letter>

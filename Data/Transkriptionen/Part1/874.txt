@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="874">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>4. August 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 342, 68 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Hat einen ersten Brief (*Nr. 873*) bereits Erasmus (*Schmid*)
+ausgehändigt; schickt neu entworfene Darlegungen über die
+Sakramente und die Eucharistie aus der noch unvollendeten
+Gesamtausgabe seiner Paulus-Kommentare (*HBBibl I 84*). Bittet um
+Weiterleitung an Grynäus und eventuell an Bucer.
+</statue>
+<content>
+Gratiam et pacem.
+<p>Signaveram literas priores+1 easque tradideram Erasmo nostro+2, cum in mentem venit non infrugiferum futurum, si ea tibi ex opere nostro Paulino nondum perfecto+3 mitterem, quae scripsi de ratione sacramentorum
+et eucharistia. Istis vero novum exemplar loqupletavi; in aliis ante
+annos aliquot aeditis+4 haec per omnia non leges. Lege itaque, quae
+scripsi fol. 41 usque ad 45, et rursus, quae sunt fol. 204 usque ad
+216+5. Planius et melius ego de hoc negotio dicere non possum.</p>
+<p>Vale et haec nostra etiam Grynaeo communica aut, si placet, ipsi etiam Bucero.</p>
+<p>Tiguri, 4. augusti 1536.</p>
+<signature>
+H. Bullingerus tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Myconio suo.
+</address>
+</content>
+<note>
++1>Oben Nr. 873.
++2>Erasmus Schmid.
++3>Bullinger, In omnes apostolicas epistolas commentarii, Zürich
+1537 (HBBibl I 84).
++4>Bullingers Kommentar zum Römerbrief (HBBibl I 42) war 1533,
+jener zum ersten Korintherbrief (HBBibl I 53) 1534 erstmals erschienen.
++5>An den genannten Stellen handelt Bullinger ausführlich über
+die Sakramente (zu Röm 4, 11f; aaO, S. 41-45) und über die Eucharistie
+(zu 1Kor 11, 17-34; aaO, S. 202-216).
+;----------------------------------------------------------------------
+</note>
+</letter>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1328">
+<nr>1328</nr>
+<correspondents>
+	<originator>Ulrich Werdmüller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Rickenbach</place>
+	<date>11. November 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 158 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Bullingers Vorwurf, er habe einem Kranken das Unservater als Heilmittel verordnet, beruht auf einer Verleumdung; von solchem Aberglauben halten ihn nicht nur Glaubens-, sondern auch Vernunftgründe ab.
+</re>
+<tx>Gratiam et tranquillam conscientiam etc.
+^$A synodo<f1>Die Zürcher Herbstsynode 1539 hatte am 21. Oktober stattgefunden; s. Zürich StA, E II 1, 238.<fe> ut cum molesta podagra in ędes refocillaturus sitim cum fratribus
+Mathię Vituduri<f1>Matthias Hirsgarter in Winterthur.<fe>, humanissime vir, redii, idem scripturam<f1>Nicht erhalten.<fe>
+tradidit mihi legem tuam continentem valetudinario me
+cuidam ad numerum orationem dominicam pro pristina recuperanda sanitate iniunxisse etc. Oro, ne me tantillum et infidelem, artis et medices<f1>d. h. medicinae (wohl in falscher Analogie zu griech. <gr>fysikh̃w</gr>).<fe> virtutisque naturalium facere velis ignarum. Si gratia et fides deessent,
+longa tamen dies, quae etiam homini leones parere facit<f1>Vgl. Tibull, Elegiae, 1, 4, 17.<fe>, et docti ethnici, in quorum contumeliam, si fidei et Christo, cuius uterque sumus, parcere non velim, superstitionem hanc
+iniunxisse prohibuissent ipsaque meamet utcunque tenuis
+Minerva<f1>im Sinne von: Bildung.<fe>. Delatus ergo apud te. Mendacem habe delatorem, mi doctissime pręceptor.
+^$Ex Rickenbach, Martini etc. 39.
+<un>Huldrichus Werdmüller,
+<un>servulus.
+<lz>[Adresse auf der Rückseite:] Et docto atque pio magistro Heinricho Bullinger, pręceptori suo in domino charissimo.
+</content>
+</letter>

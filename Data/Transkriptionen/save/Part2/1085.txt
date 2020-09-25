@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1085">
+<nr>1085</nr>
+<correspondents>
+	<originator>Otto [Werdmüller]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Wittenberg</place>
+	<date>28. Dezember 1537</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms F 39, 989 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Schickt die in Wittenberg soeben herausgegebenen fünf
+Thesenverzeichnisse; wird sich gerne weiter erkenntlich
+zeigen. Grüße.
+</re>
+<tx>S. P. Nunc primum apud nos aeditae sunt hae quinque
+tabulae propositionum<f1>Die Drucke, die dem Brief beigegeben waren, konnten nicht identifiziert werden.<fe>, quas tibi mittere volui,
+quia gratas fore sperabam, nec vero in his leviculis solum,
+sed in qua re cunque potero, tibi
+lubentissime gratificabor. Propediem plura scribam.
+^$Interim optime vale. Salvam cupio totam familiam tuam,
+deinded. Pellicanum, Theodorum<f1>Theodor Bibliander.<fe>,
+Ammanium, Collinum, praeceptores nostros humanissimos.
+^$Vitebergae 1537, 28. decembris.<un>Otho, tibi obsequentissimus<fx>^#/+Darunter von der Hand Johann Heinrich Hottingers^#/- Werdmyllerus.<fe>.
+<lz>[Adresse auf der Rückseite:] Vigilantissimo verbi
+ministrod. Henrico Bullingero, patri suo plurimum colendo.
+</content>
+</letter>

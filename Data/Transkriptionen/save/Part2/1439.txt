@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1439">
+<nr>1439</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>20. Dezember 1540</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 193 (neu: 211) (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 175</vo>
+<dr>Ungedruckt</dr>
+<re>Teilt von Grynäus zugesandte Nachrichten mit: Eine englische Gesandtschaft hat Kaiser [Karl V.] aufgesucht;
+dieser verfolgt die Lutheraner in den Niederlanden; der Friedensschluß zwischen Venedig und [Sultan Suleiman I.]
+entspricht den Wünschen des letzteren; in [Calenberg-Göttingen] wird die evangelische Predigt
+zugelassen; die Protestanten werden wegen der Unterstützung von Goslar eine Tagung abhalten. Aus einem Brief an den
+Bürgermeister: Gefangene Mordbrenner beschuldigen Herzog Heinrich von Braunschweig; es heißt, der Kaiser wolle auf
+Mailand verzichten, um leichter Krieg gegen die Protestanten führen zu können; die Gegner sind verunsichert, weil Grynäus [in
+Worms] gemeinsam mit den Lutheranern auftritt. Im neuen Ketzermandat wütet der Kaiser gegen die Protestanten, obwohl er
+einen Reichstag angesetzt hat; Vadian ist darin wegen seiner "Epitome" unter den Häretikern aufgeführt. Myconius
+kommt kaum zum Schreiben und bittet um Nachsicht wegen der Handschrift von Christoph [Rotacher]; weiß nichts von Konrad
+[...]; nun ist Gelegenheit, das Frauenhaus zu schließen. Gruß. Gerüchte aus Tübingen über einen Umsturz in England, einen
+Feldzug Polens zur Unterstützung von [Johannes Sigismund Zápolya] und eine Verschiebung des Reichstags.
+</re>
+<tx>S. Nova hęc adiecit Gryn[aeus]<f1>Das vorliegende Schreiben war wohl Begleitbrief zu Mitteilungen von Grynäus über den Verlauf des Wormser Religionsgesprächs (vgl. auch unten Z. 23f mit Anm. 17).<fe>: Rex Anglię
+legationem habet apud cęsarem<f1>Als Gesandter König Heinrichs VIII. reiste Stephen Gardiner an den Hof Kaiser Karls
+V.; s. PC III 139f.<fe>; opinio est, quod inter se sint inituri foedus. Cęsar per Inferiorem Germaniam hęresim Lutheranam
+sic condemnat sicut in Hispania<f1>Vgl. unten Z. 18-22 mit Anm. 14.<fe>. Pręterire imaginem et non detegere caput hęresis
+est et capitale<f1>Bucer schreibt am 22. November 1540 an Philipp von Hessen: "wa einer nur fur ein bild goht und das
+haupt nit blößet, so wirdt acht uff in gehabt und er furgenomen, alß der sich argwönig gemacht"; s. Max Lenz (Hg.), Briefwechsel
+Landgraf Philipp's des Großmüthigen von Hessen mit Bucer, Band 1, Leipzig 1880 (Nachdruck: Osnabrück 1965). - Publikationen aus den k. Preußischen Staatsarchiven
+5, S. 237 (vgl. auch WA Briefwechsel IX 283, Anm. 5).<fe>. Vestes eorum, quos combussit, in templis
+suspendit ad terrorem. Pacificatio Venetorum cum Turca<f1>Zum Friedensvertrag zwischen Venedig und Sultan Suleiman I. s. oben Nr. 1435, Anm. 22.<fe> sic se habet, qualiter ab initio Turca
+postulavit. Tutores liberorum Erichi ducis, qui obiit Haganoę<f1>Erich I.d. Ä., Herzog von Braunschweig-Calenberg,
+war am 30. Juli in Hagenau gestorben; vgl. NDB IV 584.<fe>, sinunt praedicari evangelium in horum ducatu<f1>Herzogin
+Elisabeth, die bereits 1538 zum Luthertum übergetreten war, wirkte während ihrer vormundschaftlichen Regierung (anstelle des
+noch unmündigen Herzogs Erich II.) auf die Reformation des Kirchenwesens hin; s. Die evangelischen Kirchenordnungen des XVI. Jahrhunderts, hg. v.
+Emil Sehling, fortgeführt vom Institut für evangelisches Kirchenrecht der Evangelischen Kirche in Deutschland zu
+Göttingen, Bd. VI/2, Tübingen 1957, S. 702.<fe>, quamvis Heinrichus, dux Brunswigensis, contra mandarit; nam et iste ex
+tutoribus (quorum quatuor sunt<f1>Vormünder waren neben Herzogin Elisabeth und Herzog Heinrich auch Kurfürst Joachim von
+Brandenburg und Landgraf Philipp von Hessen; s. Adolf ^#/+Brenneke,^#/- Die politischen Einflüsse auf das
+Reformationswerk der Herzogin Elisabeth im Fürstentum Calenberg-Göttingen (1538-55), in: Niedersächsisches Jahrbuch 1,
+1924, S. 120.<fe>) unus est. Protestantes diem habent dictam propter Goslariam, quę est a cęsare excommunicata<f1>Die
+Frage der Unterstützung von Goslar, über das am 25. Oktober die Reichsacht verhängt worden war, wurde Ende Dezember / Anfang
+Januar am Bundestag zu Naumburg ohne konkretes Ergebnis diskutiert; s. PC III 156; Gabriele ^#/+Schlütter-Schindler,^#/-
+Der Schmalkaldische Bund und das Problem der causa religionis, Frankfurt 1986. - Europäische Hochschulschriften, Reihe III, Bd. 283, S. 201f.<fe>.
+^$Aliquanto post in literis consulis<f1>Gemeint ist wohl ein Brief von Grynäus an Bürgermeister Jakob Meyer.<fe>: Incendiarii 14 Magdenburgę detenti fassi sunt ex tormentis Heinrichum
+Brunswigensem authorem sibi esse incendiorum et dedisse
+pecuniam<f1>Zahlreiche derartige Geständnisse (allerdings nicht aus Magdeburg) finden sich in der 1541 gedruckten "Supplication
+an kaiserliche Maiestat der Mortbrenner halben" (abgedruckt in: Friedrich ^#/+Hortleder,^#/- Der Römischen Keyser- und Königlichen
+Maiesteten ... Handlungen und Außschreiben ... von den Ursachen des teutschen Kriegs ..., Bd. 2, Frankfurt a. M. 1617, S.
+694-705, hier S. 695-701). Vgl. auch WA Briefwechsel IX 448, wo u. a. das Geständnis des in Magdeburg inhaftierten Kaspar Berger
+erwähnt ist.^&x Suppl. datiert 13. Mai 1541. Hortleder: Titel ausführlicher in HBBW IV 45, Anm. 13^&x{<fe>. Idem fassus est,
+qui Embeck incendit, qui et periit<f1>Zum Brand von Einbeck s. oben Nr. 1413, Anm. 38; vgl. die Verhörprotokolle in: Otto Adolf
+^#/+Ellissen,^#/- Einbeck im 16. Jahrhundert, in: Zeitschrift des Harz-Vereins für Geschichte und Altertumskunde 27, 1894, S.
+550-559.<fe>. Rumor est cęsarem Gallo<f1>König Franz I.<fe> daturum Mediolanum, ut contra nos facilius bellet.
+Incredibile est adversariis Helvetiorum pagis convenire cum Lutheranis; mirantur ergo his iunctum Grynęum. Primus conatus adversariorum est seminare inter nos discordiam.
+^$Paucis ante diebus: Mandatum cęsaris<f1>Gemeint ist das am 22. September für Flandern erlassene Ketzermandat (s. Recueil
+des Ordonnances des Pays-Bas, 2. Serie: 1506-1700, Bd. 4, hg. v. J. Lameere und H. Simont, Brüssel 1907, S. 224-229).^&xdeutsche Übersetzung s. Zürich ZB, Ms S 48, Druck Nr. 3^&x{
+Eine deutsche Übersetzung erschien gedruckt (VD 16, N 1583-1585) und findet sich auch als Abschrift (mit Überschrift von Bullingers Hand) in Zürich
+StA, E II 335, 2044r.-2049r. Gwalther übersetzte das Mandat aus dem Französischen ins Lateinische (s. ebd., 2050r.-2051v.). Vgl. Georg ^#/+Kuhaupt,^#/- Veröffentlichte Kirchenpolitik. Kirche im publizistischen Streit zur Zeit der Religionsgespräche
+(1538-1541), Göttingen 1998. - Forschungen zur Kirchen- und Dogmengeschichte 69, S. 234-241. 335f.
+^&xVgl. Schuler, 14.12.; Graubünden, Korr. I 26; Lenz I 237; PC III 141. Drucke: BLC to 1975, vol. 234, p. 2; Spalatin, Annalen 493ff.^&x{<fe> missum est
+a bonis quibusdam ad capita nostra. Hic se aperit ille. Breviter: Nullus Herodes, nullus Pilatus ita furuit unquam contra Christum ut iste. Tituli sunt adversum nos sectarii,
+schwermeri<fx>^#/+Darüber von späterer Hand:^#/- schwermeri.<fe>, hęretici. Mirum, quur sic definiat comitia
+indicens<f1>Zur Ausschreibung eines Reichstags nach Regensburg vgl. oben Nr. 1430, Anm. 19.<fe>. Vadianus hęreticus est propter Epitomen topograph[icam]<f1>Gemeint ist Vadians "Epitome
+trium terrae partium" von 1534 (für Einzelheiten vgl. HBBW IV, Nr. 419); im Mandat erscheint dieses Werk als "Epithome thopographica Vadiany" unter den verbotenen Schriften.<fe> etc.
+^$Vix tantillum fuit temporis, ut hęc scriberem. Scripturam Christophori<f1>Myconius bezieht sich auf Abschriften von der
+Hand Christoph Rotachers, wie sie bereits dem Brief vom 6. Dezember beilagen (s. oben Nr. 1437, Anm. 2). Weitere von
+Rotacher kopierte Dokumente über das Wormser Religionsgespräch finden sich in Zürich StA, E II 350, 335-341 und 381-390b.<fe> bene
+consule. De Conrado<f1>Gemeint ist vielleicht Rotachers früherer Studienkollege Konrad Suter. Zu denken ist aber auch an jenen wohl nicht mit Suter identischen "Cuͦnhart", der mit Räubern in Verbindung stand
+und den Myconius in seinem Brief vom 19. Januar 1541 erwähnt (s. Zürich StA, E II 350, 359).<fe> nihil scimus.
+Habetis occasionem nunc lupanar abolendi<f1>Am 8. November war in Zürich der Steinmetz Stefan Engelhart enthauptet worden,
+weil er im Frauenhaus eine "gemeine Frau" erstochen hatte (s. Zürich StA, A 27. 9, 54; B VI 255, 116); vielleicht spielt Myconius auf diesen Vorfall an.<fe>; facite, quod vos decet.
+^$Vale cum tuis, Theodoro<f1>Theodor Bibliander.<fe>, Pellicano feliciter.
+^$Basileę, 20. decembris anno 1540.
+<un>Os. Myconius
+<un>tuus.
+<lz>Ex Tubinga: Anglum aiunt captum et infantem filium<f1>Eduard (geb. 1537).<fe> regem constitutum. Item Polonum<f1>König Sigismund I.<fe> 50 millibus proficisci in Ungariam
+propter nepotem infantem<f1>Johannes Sigismund Zápolya, der Sohn von Johannes Zápolya und Isabella von Polen^&xJagiellonka^&x{, war
+erst zwei Wochen alt, als sein Vater am 22. Juli 1540 starb; vgl. Paula Sutter ^#/+Fichtner,^#/- Ferdinand I of Austria. The
+Politics of Dynasticism in the Age of the Reformation, New York 1982. - East European Monographs 100, S. 122-124.<fe> etc. Comitia sunt dilata in 3 septimanas propter conventum Wormatiensem.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho
+Bullingero, in domino suo. Z[üric]h<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlußband geschrieben.^#/-<fe>.
+</content>
+</letter>

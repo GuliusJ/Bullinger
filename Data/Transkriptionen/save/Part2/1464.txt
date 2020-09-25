@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1464">
+<nr>1464</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>Hermann [Aquilomontanus]</addressee>
+	<note fn=1>Da das Antwortschreiben vom 20. August 1541 erhalten ist (s. unten Nr. 1557), steht der Adressat zweifelsfrei fest.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>18. Februar 1541</date>
+</space_time>
+<vo>Autographer Entwurf<fx>^#/+Mit falscher Angabe des Adressaten (von späterer Hand):^#/- Ep[iscop]o Colon[iensi]. ^#/+Die nach Königsberg gelangte Abschrift (vgl. Anm. 4) ist gemäß Auskunft des Geheimen Staatsarchivs Preußischer Kulturbesitz in Berlin seit längerem verschollen.^#/-<fe>: Zürich StA, E
+II 342, 104r.-105r.</vo>
+<vo>Kopie: ZB, Ms S 49, 30</vo>
+<dr>Gedruckt<f1>Bei beiden Abdrucken wurde irrtümlich der Kölner Erzbischof Hermann von Wied als Adressat angenommen (vgl. Anm. a).<fe>: Füssli I 209-214, Nr. 56; ^#/+Krafft^#/- 138-140; englische Übersetzung: Two Epystles, one of Henry Bullynger [...],
+London (s. n.) 1548, so­­wie [Antwerpen 1544? / London 1550?]<f1>HBBibl I 142f; vgl. Carlo ^#/+Ginzburg,^#/- Il nicodemismo. Simulazione e
+dissimulazione religiosa nell'Europa del '500, Torino 1970, S. 153, Anm. 1.<fe></dr>
+<re>Johannes von Bekensteyn hat über einen in Niederdeutschland kursierenden Brief [Capitos] berichtet, der die Teilnahme am
+Hochamt für unbedenklich erklärt, was Beunruhigung hinsichtlich der Haltung der oberdeutschen Theologen ausgelöst hat. Die
+Zürcher Kirche lehnt diese Meinung ab; Messe, Bilder u. ä. gehören nicht zu den [Adiaphora], da Gottes Gesetz jeden nicht
+von Gott angeordneten Kult verbietet; Cyprian, Elias und Zephanja haben Abänderungen der von Christus eingesetzten Form
+des Abendmahls bzw. die Vermischung der von Gott eingesetzten Religion mit menschengeschaffenen Riten verurteilt; unter
+dieses Verdikt fällt jede Art von papistischer Messe. Außerdem verlangt die Hl. Schrift ein offenes Bekenntnis, und damit
+verbietet sich - entgegen der Lehre der Elkesaiten - eine bloß äußerliche Teilnahme an innerlich abgelehnten sakralen
+Handlungen; Bullinger hat dies schon in früheren Schriften näher ausgeführt. Diese Haltung schließt die Bereitschaft zum
+Martyrium mit ein. Bekensteyn wird mündlich noch genauer über das Gespräch mit den Zürcher Theologen berichten. Grüße.
+</re>
+<tx>Exposuit nobis, Hermane frater colendissime,
+clarissimus et piissimus vird. Ioannes Beckstein<f1>Johannes von Bekensteyn (Bekesteyn) stammte, wie der Name vermuten
+lässt, vielleicht aus den Niederlanden, lebte aber in Ostfriesland. Anfang 1541 reiste er nach Straßburg, Zürich und
+wohl auch Basel, wo er Gespräche über die im Brief diskutierte Frage führte. Am 20. Januar 1542 schrieb er aus Oldersum an
+Felix Rex, gen. Polyphemus, den Bibliothekar Herzog Albrechts von Preußen, berichtete über seine Reise und teilte auch die
+schriftlichen Stellungnahmen von Bullinger, Calvin und Sebastian Franck mit. Mehr ist über ihn nicht bekannt. - Lit.: Alfred
+^#/+Hegler,^#/- Beiträge zur Geschichte der Mystik in der Reformationszeit. Aus dem Nachlasse hg. v. Walther Köhler,
+Berlin 1906. - ARG, Ergänzungsbd. I, S. 31-41. 44; ^#/+Ginzburg,^#/- aaO, S. 136-153; Jacques V. ^#/+Pollet,^#/- Martin Bucer. Etudes
+sur les relations de Bucer avec les Pays-Bas, l'Electorat de Cologne et l'Allemagne du Nord, Bd. I, Leiden 1985. - Studies in Medieval and Reformation Thought 33, S.
+293-311.<fe> circumferri per Inferioris Germaniae ecclesias epistolam<f1>Der Brief, dessen Autor entweder von Bullinger
+verschwiegen wird oder ihm von Bekensteyn nicht genannt wurde, stammte von Capito. Er vertrat die These, auch die römische Kirche sei Kirche Christi; kein Gläubiger dürfe die
+Kirche, in die er berufen sei, eigenmächtig verlassen, deshalb solle man die Messe trotz aller abergläubischen
+Entstellungen als christlichen Gottesdienst mitfeiern. Capitos undatierter Brief ist, wie es scheint, nur unvollständig überliefert; s. ^#/+Ginzburg,^#/- aaO, S. 139-146. 209-213.<fe>,
+qua palam doceatur licere christianis summam, quam vocant, missam accedere, atque ob illam non parum turbari alios, alios
+vero suspicari omnes Superioris Germaniae ministros ecclesiarum in eadem esse sententia. Placuit itaque ecclesiam Tigurinam
+et veterem et orthodoxam nostram quoque doc­trinam ac fidem
+ab<fx>ab ^#/+über der Zeile nachgetragen.^#/-<fe> infelici illa suspitione purgare atque apud te,
+ecclesiarum Inferioris Germaniae eruditione et sanctimonia
+non postremum per gratiam Christi ministrum, palam fateri
+nos neque in illa esse sententia neque probare illam
+sententiam<fx>^#/+Es folgt über der Zeile nachgetragenes, gestrichenes^#/- quanquam [- - -].<fe>. Iis sane<fx>^#/+Streichung von ^#/-sane^#/+ nachträglich rückgängig gemacht.^#/-<fe>, quae indifferentia et media
+appellantur<fx>^#/+Nach^#/- appellantur ^#/+gestrichenes^#/- et re vera sunt.<fe>, credimus virum christianum libere ubique et
+semper uti posse, modo<fx>^#/+Vor^#/- modo ^#/+ein gestrichenes Zeichen.^#/-<fe> scienter et ex charitate, nempe ad
+gloriam dei et ad ecclesiae proximorumque aedificationem
+omnia fiant; attamen missam papisticam, sive ea summa sit
+sive infima, idola et alia huius generis, quae palam cum
+verbo dei atque fide syncera pugnant, inter media non
+numeramus. Indifferens enim illud est, quod "neque bonum neque malum est; sive enim feceris sive non feceris, nec iustitiam
+habebis nec iniustitiam"; nam ita quoque indifferentia<fx>indifferentia ^#/+am Rande
+nachgetragen.^#/-<fe> ipse finivit ad Augustinum Hieronymus.<f1>Hieronymus, Epist. 112, 16, 2 (CSEL LV 386,
+11f).<fe> Quis vero sanus non<fx>non ^#/+am Rande nachgetragen.^#/-<fe> dixerit summam missam et idolorum in
+templis usum esse<fx>^#/+Vor^#/- esse ^#/+gestrichenes^#/- non.<fe> malum, quis facile concesserit esse<fx>facile concesserit esse
+^#/+anstelle von gestrichenem^#/- dixerit ^#/+über der Zeile nachgetragen.^#/-<fe> bonum? Lege domini semel et manifeste
+damnatur omnis cultus et ritus sacrorum peregrinus,<f1>Vgl. z. B. Dtn 7, 5. 25; 12, 1-3. 29-31.<fe> id est vel ab ipso deo non
+institutus vel praeter<fx>^#/+Vor^#/- praeter ^#/+gestrichenes^#/- exte.<fe> dei<fx>dei ^#/+in der Vorlage korrigiert aus^#/- deum.<fe> verbum ab hominibus inventus. Quid vero
+aliud est missa summa quam ritus non a deo, sed<fx>non a deo, sed ^#/+über der Zeile nachgetragen.^#/-<fe> ab hominibus
+praeter verbum dei institutus? Quid enim Christi<fx>Christi ^#/+über der Zeile nachgetragen.^#/-<fe> coena sit
+et quibus ipsam ritibus celebrari iusserit Christus, non
+ignoramus. Non obscurum et illud est eos, qui summam missam
+celebrant, domini coenam atque ritum eius ut barbarum,
+incultum adeoque<fx>barbarum, incultum adeoque ^#/+über der Zeile nachgetragen.^#/-<fe> haereticum damnare, cum interim sanctus
+martyr Cyprianus dicat non aliud in coena vel sequendum vel
+recipiendum esse, quam quod ipse nobis tradidit dominus.<f1>Vgl. bes. Cyprian, Epist. 63, 10, 2-11, 1 und 14, 1-3 (CChr III C 402f. 408f).<fe>
+Et rursus: "Adulterum est<fx>est ^#/+in der Vorlage korrigiert aus^#/- esse.<fe>", ait<fx>ait ^#/+über der Zeile nachgetragen.^#/-<fe>, "impium est<fx>est ^#/+in der Vorlage korrigiert aus^#/- et.<fe>,
+sacrilegum est<fx>est ^#/+nachträglich eingefügt.^#/-<fe>, quodcunque instituitur humano furore, ut divina violetur dispositio."<f1>Cyprian, Epist. 43, 5, 2 (CChr III B 205).<fe>
+Quid, quod Helias, sanctissimus dei vates, qui igneo curru in
+coelum subvectus<fx>subvectus ^#/+in der Vorlage korrigiert aus^#/- sublatus.<fe> creditur<fx>^#/+In der Vorlage^#/- crediditur.<fe>,<f1>Vgl. 2Kön 2, 11f.<fe> religiones sive instituta dei ac
+hominum<fx>sive instituta dei ac hominum ^#/+über der Zeile nachgetragen.^#/-<fe> vetuit copulare aut commiscere? "Si dominus", inquit, "est deus, sequimini illum; si Baal est deus,
+sequamini illum. Quousque in utrumque latus claudicatis?"<f1>1Kön 18, 21.<fe> Sed et Sophonias: "Perdam", inquit, "eos, qui iurant per dominum et per Melchom."<f1>Zeph 1, 4f.<fe> <vl>104v.</vl> Certe si unicum Christi sacrifitium semel
+pro peccatis mundi oblatum perficit fideles,<f1>Die reformatorische Betonung der Einmaligkeit des Opfers Christi stützt sich insbesondere auf Hebr 7, 27; 9, 24-28.<fe> quid opus est in summis illis missis corpus et sanguinem domini
+quotidie pro peccatis vivorum et mortuorum imolare? Si illi, qui in fide excedunt, a morte transeunt ad<fx>ad ^#/+anstelle von
+gestrichenem^#/- in ^#/+über der Zeile nachgetragen.^#/-<fe> vitam, si, qui incredulitate moriuntur, in iuditium
+veniunt,<f1>Vgl. Joh 5, 24.<fe> quid, quaeso, sacrificant pro mortuis? Si<fx>^#/+Vor^#/- Si ^#/+gestrichenes^#/- Quid ergo isti docent in
+animo apud semetipsum credere Christum sacrifitio plene absolvisse fideles in perpetuum, externo autem ritu et accessu
+(et accessu ^#/+über der Zeile nachgetragen^#/-) approbare, quod adversarii ipso facto profitentur, se indiem corpus domini
+offerre pro expiatione peccatorum?<fe> in spiritu et veritate adorandus est dominus,<f1>Vgl. Joh 4, 23f.<fe> quare isti
+connivent ad dogma et ad factum eorum, qui iubent deum adorare in pane? Proinde cum Helia licet clamare: "Quousque claudicatis
+in utramque partem? Si<fx>^#/+Vor^#/- Si ^#/+gestrichenes^#/- Si dominus est deus sequ.<fe> Christi sacrifitium absolutum est,
+credite unica oblatione vos perfectos esse in perpetuum, si vero in missa quotidie offertur, credite vos quotidianis sacrificiis
+purgari." Non congruunt neque conveniunt inter se ista, neque<fx>^#/+Vor^#/- neque ^#/+gestrichenes^#/- quae hostilius sibi repugnant quam ignis et aqua.<fe> est, ut
+quisquam sibi summa vel infima missa oculos perstringere
+sinat. In summa missa illae ipsae impietates sunt, quae in
+infima; utrobique luxatur institutio Christi, utrobique
+offertur Christus pro vivis et mortuis, utrobique adoratur
+in pane, utrobique servitur idolis, utrobique invocantur
+creaturae, praesertim in offitiis, quae de sanctis
+celebrantur, utrobique canon impiissimus potissima missae
+portio est. Nihil in ea est priscae vetustatis, nihil
+apostolicae simplicitatis.<fx>^#/+Von^#/- Nihil ^#/+bis^#/- simplicitatis ^#/+am Rande nachgetragen.^#/-<fe>
+^$Sed et illud observari hic
+inprimis convenit<fx>convenit ^#/+anstelle von gestrichenem^#/- existi ^#/+über der Zeile nachgetragen.^#/-<fe>, quod scriptura a
+nobis non tectam, sed apertam confessionem requirit. At sacris et sacrorum usu maxime confitemur fidem nostram. Qui sacris
+gentilitiis aut Turcicis astat requisitus, fatetur gentilismi et Turcismi se esse participem. Qui missae assistit
+requisitus<fx>requisitus ^#/+über der Zeile nachgetragen.^#/-<fe>, testatur palam<fx>palam ^#/+über der Zeile nachgetragen.^#/-<fe>
+se missam et religionem missaticam agnoscere pro vera. Praesentia ergo sua confirmat omnes errores missae. Qui
+renuit<fx>^#/+Vor^#/- renuit ^#/+gestrichenes^#/- enim.<fe> assistere missae, hunc pro contemptore habent
+adversarii<fx>adversarii ^#/+über der Zeile nachgetragen.^#/-<fe> sacrorum et totius papismi. Ideoque hac ipsa
+ratione repulsos credamus<fx>credamus ^#/+über der Zeile nachgetragen.^#/-<fe> fideles a communicatione missae,
+qua scimus manifestam ab uno <vl>105r.</vl> quovis nostrum confessionem doctrinae ac fidei Christi diserte postulari. Neque vero satis est corde credere et deum clam confiteri, nisi et
+oris syncera, plena ac plana veraque accedat confessio.<f1>Vgl. Röm 10, 10.<fe> Origenes author est Helchesaitarum extitisse
+haeresim<f1>Die Religionsgemeinschaft der Elkesaiten, eine judenchristliche Täufergemeinschaft mit synkretistischen Zügen, geht
+auf Elkasai zurück, dessen Offenbarungsbuch etwa um 115 n. Chr. entstand. Anhänger Elkasais lebten noch im 10. Jahrhundert im
+Vorderen Orient. Vgl. Jürgen ^#/+Wehnert,^#/- in: LThK^#'3 III 605f; Johannes ^#/+van Oort,^#/- in: RGG^#'4 II 1227f.<fe>, quae
+docuerit, quod in persequtionibus, si quis negaverit (verbis utor Eusebii, Eccles. hist. lib. 6., cap. 28.<f1>Eusebius von
+Caesarea, Historia ecclesiastica, 6, 38(!) (SChr XLI 140).<fe>), nihil criminis habeat pro eo, quod is, qui fixus est in corde
+suo, etiamsi ore negaverit pro necessitate, corde tamen in fide permanet. Verum non institui iam de hac quaestione ad plenum
+disputare. Annotavi quaedam olim de ipsa in coment[ario] 1.
+Cor. 8., 9. et 10. cap.<f1>Bullinger, Commentarius in priorem Pauli ad Corinthios epistolam, Zürich 1534 (HBBibl I 53), f. 91v.-126r. ("An liceat sacris communicare prophanis?").<fe>, item in epistola ad Hebreos<f1>Bullinger, Commentarius in epistolam ad Hebraeos, Zürich (Christoph Froschauer) 1532
+(HBBibl I 38) (gedacht ist wohl an die Auslegung von Hebr 10, 32-34, bes. f. 112v.; vgl. die ausführliche Kritik an der Messe, f. 98r.-107r.).<fe>,
+rursus in libris De origine erroris<f1>Bullinger, De origine erroris libri duo, Zürich (Christoph Froschauer) 1539 (HBBibl I 12), bes. f. 175v.-177r. ("Quanta constantia oporteat idololatriam fugere").<fe> postremo a me recognitis ac loqupletatis.
+^$Haec autem in hoc scripsi, ut intelligat
+tua pietas nos plane non esse in illorum sententia, qui
+accessum ad missas apperiunt afflictis. Nos potius credimus
+et docemus<fx>et docemus ^#/+über der Zeile nachgetragen.^#/-<fe> intrepide confitendam veritatem, errorem vero
+impugnandum, detestandum<fx>detestandum ^#/+über der Zeile nachgetragen.^#/-<fe> et fugiendum, imo animas potius
+ponendas quam communicandum prophanis illis sacris. Novimus
+in patientia multa possidendas esse animas nostras;<f1>Vgl. Lk 21, 19.<fe> novimus per multas tribulationes ingrediendum esse in regnum dei.<f1>Vgl. Apg 14, 22.<fe>
+Quod si ita licebit porro pro ratione temporis religionem
+simulare et dissimulare, miscere et luxare, stulti profecto
+fuere sanctissimi dei martyres, qui ritibus maxime
+significantibus sese applicare renuerunt. Caeterum placuit
+et integritas et constantia domino; non itaque
+displicebit et illorum sancta pertinatia, qui extrema
+quaeque perpeti malunt quam impiis communicare sacris
+papisticis. Haec libere de nobis testari potes apud bonos et
+ob veritatem afflictos ac<fx>^#/+Vor^#/- ac ^#/+gestrichenes^#/- de nobis.<fe> orare, ut suis nos precibus deo commendent.
+^$Plura ipse d.<fx>^#/+Vor^#/-d. ^#/+gestrichenes^#/- de nobis.<fe> Ioannes Beckstein<fx>^#/+Vor^#/- Beckstein ^#/+gestrichenes^#/-
+a.<fe> exponet; audivit enim ille et symmistas nostros de hac eadem re disputantesd. Leonem Iudae, Gasparem Megandrum,
+Erasmum Fabritium<f1>Erasmus Schmid.<fe>, Conradum Pellicanum, Theodorum Bibliandrum ac reliquos, qui omnes te
+salvere iubent<fx>^#/+Von^#/-d. Leonem Iudae ^#/+bis^#/- iubent ^#/+am Rande nachgetragen.^#/-<fe>. Vale<fx>^#/+Vor^#/- Vale
+^#/+gestrichenes^#/- Vidit is ecclesiam nostram.<fe>, frater in domino colende<fx>frater in domino colende ^#/+anstelle von
+gestrichenem^#/- et ^#/+über der Zeile nachgetragen.^#/-<fe>, me ama ac Christo commenda.
+^$Tiguri, 18. februarii 1541.
+^$Salutabis fratres. Salutant et te fratres.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2624">
+<brief>
+<id>16314</id>
+<nr>2624</nr> <from persid="GastJohannes"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-10-14"/>
+<ae>Johannes Gast an Bullinger</ae>
+<od>Basel, 14. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 201 und 201a (ohne Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 14; Zit.: <i>Gast,</i> Tagebuch 293 (A 60), 295 (A 65)</k></dr>
+<re><t>Es gibt nichts Neues zu melden, das Myconius nicht bereits an Bullinger berichtet hätte. Doch dankt Gast für die Grüße und Nachrichten, die Bullinger über Myconius ausrichten lässt.</t>
+<t>Ein Venezianer [richtig: der Luccheser Teodosio Trebellio] erzählte, dass der junge, unschuldige [Diego], der Bruder von Francisco de Enzinas (welchen Bullinger kennt), in Rom wegen seines evangelischen Glaubens verhaftet, gefoltert und verbrannt wurde.</t>
+<t>Die Papisten [in den benachbarten Territorien] verbreiten verschiedene Versionen über die Pläne Kaiser [Karls V.] für den Winter: Erstens, dass dieser durch Sachsen, an der Elbe entlang nach Friesland zu ziehen versuchen werde, um dort zu überwintern. Zweitens, dass er durch Württemberg marschieren und etwa die Route nehmen wird, auf der das niederländische Heer in Richtung Süden gelangt war, um sich in den Bistümern Würzburg oder Bamberg mit Proviant zu versehen. Drittens, dass er durch das Land [Pfalz-Neuburg] des [Kurfürsten] Friedrich [II. von der Pfalz] in Richtung Freiburg [im Breisgau] und Breisach aufbrechen werde, um dann den Rhein zu überqueren und vor Straßburg rheinabwärts auf Mainz zu ziehen. Letzteres erscheint noch am plausibelsten. Diese Papisten wähnen schon den Sieg auf ihrer Seite. Doch hört man [über den Kriegsverlauf] völlig andere, wohl besser verbürgte Meldungen!</t>
+<t>Der [Basler Reinhard Rettalet] ließ seinen in Habsheim plötzlich verstorbenen Schwiegersohn, den Ratsherrn [Franz Konrad Schmid, gen. Glüner] nach katholischem Brauch bestatten, obwohl einige gute Leute dagegen protestierten. Drei andere Papisten [aus Basel] waren auch dabei. Die Basler Obrigkeit sperrte den Schwiegervater für drei Tage ein und belegte ihn mit einer Geldbuße von 100 Gulden, die drei anderen mit 10 Pfund. Sie hätten eine härtere Strafe verdient! Der Herr gebe dem Rat die Kraft, solche Menschen weiterhin zu vernichten!</t>
+<t>Gruß an Bullinger und an [Anna, geb. Adlischwyler].</t>
+<t>[P.S.:] Die Basler haben [Hieronymus] Gunz und [Sebastian] Lepusculus als Pfarrer nach Augsburg entsandt.</t>
+<t>Grüße an [Rudolf] Gwalther, Otto [Werdmüller], [Theodor] Bibliander und [Konrad] Pellikan. Den [beiliegenden] Brief soll [Johannes] Fries wie abgemacht weiterleiten.</t></re>
+<text>
+<div>
+<p>S. in domino. Novarum rerum nihil habeo, qu{e} ipse Myconius non diligentissime perscribat.
+<fn>Mit Brief <qv>nr2625</qv> vom 14. Oktober. - Vgl. ferner <a>HBBW</a> XVII 250,42, und 261,1-6.</fn> <zzl>zl16314-2A</zzl>Praeterea gratias tibi ago, quod in omnibus literis tuis
+<fn>Gemeint sind Bullingers Briefe an Myconius.</fn> me salvere iubeas Myconiumque admoneas, ut mecum res novas communicet.
+<fn>Vgl. <qv>nr2607</qv>,<qv>zl16295-10</qv>.</fn><zzl>zl16314-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16314-3A</zzl>A Veneto
+<fn>Es handelte sich allerdings um den Luccheser Teodosio Trebellio, der damals von Venedig nach Basel gekommen war; s. <a>Enzinas BW</a> 204 und 206, Anm. 6. - Von Trebellio ist ein Brief an Bullinger überliefert (<a>HBBW</a> XV, Nr. 2205).</fn> audivi fratrem
+<fn>Diego (Jaime, Jacobus) de Enzinas, Bruder von Francisco de Enzinas. - Ein falsches Gerücht; s. <a>Enzinas BW</a> 123, Anm. 1. Diego wurde später, in der ersten Märzhälfte 1547, verbrannt; s. aaO, S. 228 und Anm. 3; S. 175f, Anm. 4.<zfn>fn16314-1</zfn></fn> d. Francisci Dryandri Rom{e} propter evangelium combustum. Diu fuit detentus in carcere ac tormentis vexatus.<zzl>zl16314-3E</zzl> <zzl>zl16314-1A</zzl>Egregius fuit adolescens et ipsa innocentia. Nosti d. Franciscum.<zzl>zl16314-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16314-4A</zzl>Man sagt ouch by unß (das geschrey kompt von den bäpstleren
+<fn>Gemeint sind die Einwohner der katholischen vorderösterreichischen Nachbargebiete Basels.</fn>)
+<fa><i>Hier und unten Klammern ergänzt.</i></fa>, das der keyser
+<fn>Karl V.</fn> understende
+<fn>versuche.</fn>, eintweders durch Saxen<fn>Im Sinne von Norddeutschland.</fn> ziehen, oder
+<fn>etwa; s. <a>Fischer</a> V 38.</fn> (do
+<fn>dort.</fn> ein wintherleger z{uo} haben) an
+<fn>Zu verstehen: um an.</fn> der Elb in Frießlandt z{uo} ziehen. 2. Oder aliud habet consilium: Er understadt, durch das wirtembergisch landt z{uo} ziehen,
+<fn>Vgl. <qv>nr2612</qv>,<qv>zl16301-13</qv>.</fn> oder den weg ziehen, den die Niderlender heruff
+<fn>d.h. in Richtung Süden.</fn> sindt zogen,
+<fn>Zu dieser Route des niederländischen Heeres unter Maximilian von Egmont, Graf von Büren, auf dem Weg zum kaiserlichen Lager s. <a>HBBW</a> XVII 415, Anm. 43.</fn> probant
+<fn>Proviant.</fn> z{uo} fynden im wirtzburgischen oder bombergischen bistomen. 3. <zzl>zl16314-7A</zzl>Consilium, quod verisimile videtur, understat durch graff Friderichs landt
+<fn>Gemeint ist die südöstlichste Enklave von Pfalz-Neuburg, die sich zwischen Donauwörth und Gundelfingen erstreckte und im Besitz Friedrichs II. von der Pfalz war.<zfn>fn16314-2</zfn></fn> ziehen uff Friburg
+<fn>Freiburg im Breisgau.</fn> und Brisach
+<fn>Breisach am Rhein (Lkr. Breisgau-Hochschwarzwald, D).</fn> z{uo}, dan, so sy uber den Rhin kommen, so welle er f{ue}r Straßburg hinab
+<fn>d.h. rheinabwärts.</fn> uff Mentz
+<fn>Mainz.</fn> z{uo}ziehen.<zzl>zl16314-7E</zzl> Vide, quam varia consilia caesaris a papistis sparguntur! Gratulantur de caesaris successu, quum nos longe alia audiamus, et puto etiam veriora et certiora.<zzl>zl16314-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16314-5A</zzl>Es ist ein redlicher
+<fn>Hier im Sinne von "rechtmäßiger" (im Gegensatz zu den Einwohnern, die nicht alle Rechte hatten); s. <a>SI</a> VI 577; <a>Grimm</a> XIV 478. - Gemeint ist Franz Konrad Schmid, gen. Glüner; s. <a>Gast, Tagebuch</a> 292-295, wo scharfe Kritik an Schmid geäußert wird.</fn> burger, ein ratsfründt
+<fn>Ratsherr; s. <a>SI</a> I 1305.</fn>, gstorben z{uo} Haybsen
+<fn>Habsheim (Dép. Haut-Rhin, F), etwa 26 km nördlich von Basel, 8 km östlich von Mulhouse.</fn> in vindemia subitanea morte. Den hat sin schweher
+<fn>Schwiegervater; s. <a>SI</a> IX 1797f. - Der Vater von Franz Konrad Schmids zweiter Ehefrau Dorothea Rettalet (Heirat vor 1542) hieß Reinhard Rettalet; s. <a>Gast, Tagebuch</a> 293, Anm. 60.</fn> daniden
+<fn>dort, nördlich von Basel.</fn> lassen vergraben (repugnantibus quibusdam bonis viris) mit kertzen, wiehwasser und luten
+<fn>Glockenläuten.</fn>, herlich gn{uo}g. By dem
+<fn>By dem: Zudem.</fn> syndt gsin
+<fn>gewesen.</fn> trey p{ae}pstler by im. Den schweher handt <vl>201v.</vl> unsere herren
+<fn>Die Basler Ratsherren.</fn> in th{ue}rn
+<fn>Gefängnis; s. <a>SI</a> XIII 1374f.</fn> gelegt, in umb 100 fl. gestrofft, 3 tag im k{ae}ffy
+<fn>Gefängniszelle; s. <a>SI</a> III 163.</fn>, die anderen drey umb 10 lib. gestrofft. Syndt alt b{ae}pster. Digni fuissent maiori p{e}na.<zzl>zl16314-5E</zzl> <zzl>zl16314-6A</zzl>Ita produnt in iis turbis suas cogitationes et quid de religione nostra sentiant. Laudandus est noster senatus, et dominus illis spiritum fortitudinis det, quo pergant in eradicandis istis hominibus.<zzl>zl16314-6E</zzl></p>
+</div>
+<div>
+<p>Vale in domino cum uxore
+<fn>Anna, geb. Adlischwyler.</fn>. Basile{e}, 1546, 14. octobris.</p>
+<un>Tuus G.</un>
+<lz/>
+</div>
+<div>
+<p>Guntzium et Lepusculum Augustam misimus in messem domini
+<fn>Vgl. Mt 9, 38; Lk 10, 2, und s. <a>HBBW</a> XVII 436,55f. - Gemeint sind die beiden von Basel nach Augsburg entsandten Prediger Hieronymus Gunz und Sebastian Lepusculus.</fn>.</p>
+</div>
+<div>
+<p><vl>201a,r.</vl> Resalutabis mihi d. Gvaltherum, m. Othonem
+<fn>Otto Werdmüller.</fn> praecipue, Bibliandrum, optimum virum, cum Pellicano, sene venerando, etc. Hanc schedam
+<fn>Wohl ein Brief Gasts, der weiterzuleiten war.</fn> dabis Frisio
+<fn>Johannes Fries.</fn> nostro, cui hanc provinciam iniunxi.</p>
+<lz/>
+<p>[Ohne Adresse.]<fa><i>Die Adresse befand sich wohl auf dem unteren, heute abgerissenen Teil von f. 201a.</i></fa></p>
+</div>
+</text>
+</brief>

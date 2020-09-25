@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1113">
+<nr>1113</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>26. März 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Der obere Teil des Briefes ist abgeschnitten.^#/-<fe>: Zürich StA, E II 342, 84 (Siegelabdruck)</vo>
+<re>An einer Zusammenkunft der [reformierten Schweizer] Städte am 28. April in Zürich - eine Einladung wird folgen - soll über die Antwort an Luther beraten werden; befürchtet Auseinandersetzungen, da einigen, besonders den Straßburgern, die Zugeständnisse im Entwurf Zürichs
+^&x siehe 22.2.38,A8^&x{
+zu wenig weit gehen. Zeichen bewirken nicht, was sie bedeuten, weder durch Worte noch durch ihre eigene oder durch des Amtsträgers Kraft. Möchte, daß Vadian kommt.
+</re>
+<tx>[Gedruckt: Vadian BW V 485f, Nr. 1006.]
+^&x<tx>Es wirt ein tag hie zuͦ Zürych Quasimodo aller der
+stetten, so in der handlung mitt dem Luther sind, - acht,
+man werde es üch zuͦschriben - zuͦ radtschlagen, was man
+Luthern antwurten wölle. Gott wöll, das nitt grösser span
+und zwytracht werde. Es wil ettlichen die antwurt, so von
+minen herren gestellt was, nitt gfallen. Dann wir allwäg
+noch nitt gnuͦg ettlichen, alls insonders den
+Straßburgern, den sacramenten zuͦgäbend. ^&x{
+^&xWir werdents aber nüt dister minder nitt erheben in die glori des herren. Signa significant et testantur; non adferunt, quod
+significant, non exhibent vel verbi vel sua vel ministri
+virtute.
+^$Vale. Vellem te advenire etc.
+^$26. martii 1538.
+<un>H. Bullingerus tuus.
+<lz>[Adresse ......:] Clarissimo viro
+d[octori] Ioachimo Vadiano, consuli Sangallensi, domino
+colendissimo.^&x{
+^&x Der Anfang des Briefs fehlt(?), da die obere Hälfte
+des Blattes abgerissen ist. (Ev. Beilage zu einem verlorenen Brief? Vermutung: Wurde wohl zusammen mit einem Ex. von HBBibl I 111 durch Lavater und Kambli überbracht.)^&x{
+</content>
+</letter>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1828">
+<nr>1828</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>16. Dezember 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 199 (neu: 217) (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 207^&x{
+<dr>Ungedruckt</dr>
+<re>Man schreibt, in Speyer sei die Unterkunft für Kaiser [Karl V.] und die Straßburger [Gesandten] schon vorbereitet, doch der
+Reichstag werde wohl nicht vor Epiphanias eröffnet; vielleicht ist es nicht bloß ein Gerücht, dass auch die französische
+Königin [Claude] und [Kronprinz Heinrich] dorthin kommen wollen; dem Evangelium droht große Gefahr, doch Christus wird der Kirche beistehen, wenn wir uns treu an ihn halten. Gruß.
+</re>
+<tx>S. De comitiis scribit quidam<f1>Ein entsprechender Brief liegt nicht vor.<fe> cęsarem quidem Spirę parasse sibi et
+suis hospitium idemque fecisse Argentinenses,<f1>Kaiser Karl V. und die Gesandten Straßburgs trafen erst am 30. Januar bzw. am
+1. Februar in Speyer ein; s. PC III 452. Zu den organisatorischen Vorbereitungen vgl. RTA JR XV/1 112, Anm.
+240.<fe> verum sibi non videri coitura esse ante epiphaniam<f1>6. Januar.<fe>, tum forsitan adparitura cum magis<f1>mit den Hl. Drei
+Königen. - Die Eröffnung des Reichstags verzögerte sich bis zum 20. Februar; s. RTA JR XV/1 118.<fe>. Rumor est reginam
+Galliae<f1>Claude de France.<fe> una cum filio altero<f1>Kronprinz Heinrich.<fe> ad comitia venturam. Quod si fiet, divina, quid possit esse futurum de evangelio. Unde sunt,
+qui nihil minus credunt quam rumorem esse. Sęvit malus<f1>der Teufel.<fe> contra evangelium, sęviunt membra
+eius multo crudelissime; <gr>ăkhdía</gr> nos occupavit valde turpiter, quamobrem ego nihil aliud expecto quam malum. Interim
+scio ecclesiam Christi non derelictum iri, sed corpori semel patiendum esse. Opus est itaque nobis certitudine doctrinę
+nostrę et multo robore spiritus, quo possimus in
+tentationibus perdurare. Ergo impellendus populus, ut in
+emendanda vita sit diligentia et labor, in implorando
+iugiter domino studium et fidelis constantia; secus enim si
+factum fuerit, periimus omnes.
+^$Vale per dominum cum tuis et Theodoro<f1>Theodor Bibliander.<fe>.
+^$Basileae, 16. decembris ante lucem anno 1543.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, in domino suo. Z[ürich]<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

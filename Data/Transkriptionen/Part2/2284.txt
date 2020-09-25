@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2284">
+<nr>2284</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>10. November 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von Johann Heinrich Hottinger und Unterstreichungen.^#/-<fe>: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 76 (Siegelabdruck)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 399f, ^$^$^$^$Nr. 1231</dr>
+^&xKopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 117r.-v.; Ms S 58, 107 ^&x{
+<re>Wem könnte das fundierte Gutachten, das sich gegen Bündnisse mit antichristlichen Bischöfen und Prälaten ausspricht, missfallen? Bullinger hingegen dachte in seinem eigenen kurzen Gutachten [Nr. 2269] an eine Stadt, die sich gern mit den Eidgenossen verbünden würde, davon aber abgehalten ist, weil sich noch nicht alle Eidgenossen dem Evangelium zugewandt haben. Bullinger würde es ja sehr begrüßen, wenn sich noch einige der Eidgenossenschaft anschließen würden. Er schickt das von Blarer übermittelte Gutachten mit Dank zurück.
+-^#. Bullinger erbittet weitere Nachrichten.
+-^#. Die Rückkehr der zu Marchese [del Vasto, Alfonso d'Avalos] entsandten Boten wird erwartet; Bullinger wird Blarer diesbezüglich weiter informieren.
+-^#. Bullinger befürchtet ein schreckliches Schicksal für Deutschland.
+-^#. Der Briefüberbringer ist der nach Augsburg entsandte Johannes Haller, der sich durch Zurückhaltung und Gelehrsamkeit auszeichnet. Blarer soll ihm die Bräuche der Augsburger Kirche erklären und ihn später bei Bedarf brieflich beraten.
+-^#. Grüße, auch an [Thomas Blarer], [Konrad] Zwick und [Jakob] Funcklin. [Haller] wird Weiteres berichten.
+-^#. [P.S.:] [Haller] hat als Reisegefährten Huldrych Zwinglid. J., der ganz seinem Vater gleicht, und [Hans Wilpert Zollerd. J.]. Beide wollen die berühmtesten schwäbischen Städte besichtigen.
+-^#. Hoffentlich ergeht es [Philipp von] Hessen nicht so wie Ahab, dem nach der Freilassung des von ihm gefangengenommenen Ben-Hadad der eigene Untergang vorausgesagt wurde [1Kön 20, 42].</re>
+<tx>Gratiam et pacem.
+Cui vero displiceat iudicium<f1>Das von Blarer übermittelte Gutachten über Bündnisse mit den Päpstlichen, zu dem Bullinger um eine Stellungnahme gebeten wurde; s. oben Nr. 2281, 9-12.<fe> illud exactissimum de non iungendis foederibus cum antichristianis episcopis et praelatis?
+Ego illi per omnia subscribo. Suffultum est enim solidis scripturae testimoniis, scripturae exemplis clarissimis rationibusque plane evidentibus.
+Est praeterea pro ratione loci, temporis et personarum, quicquid in huiusmodi consultationem venire debet et solet, prudentissime expensum.
+Quod meam brevem scriptionem<f1>Oben Nr. 2269.<fe> attinet, ego quidem non episcopos aut praelatos spectavi, sed Helvetios,
+ingenue iam confiteor verum. Speravi futurum, ut civitas aliqua coiret cum illis in foedus,
+qui bona ex parte evangelio nomen dederunt, quorum minima pars, ut evangelium nondum recepit, ita non persequitur.
+Huc scilicet spectavi. Aliud plane scripturus, si scivissem de episcopis fieri quaestionem.
+Sed haec hactenus. Scis, quam ex animo cupiam arctius nobis quosdam copulatos.<f1>Dabei denkt Bullinger auch an Konstanz und dessen Bündnisbestrebungen mit der Eidgenossenschaft; s. dazu zuletzt oben Nr. 2249, 7-13.<fe>
+N.<f1>Damit ist der anonyme Verfasser des von Blarer zugeschickten Gutachtens gemeint.<fe> consultationem<f1>Siehe oben Anm. 1.<fe>, pro qua ingentes ago gratias, remitto.
+^$Oro autem, ut solita fide mecum agas, praesertim in periculosis hisce temporibus, necubi cesses,
+sed scribas frequentissime. Vides enim, quam ipse sim summis in negotiis diligens et assiduus.
+^$Expectamus legatos ad marchionem missos;<f1>Zu den zu Alfonso d'Avalos, Marchese del Vasto (Guasto) entsandten unbekannten Boten s. zuletzt oben Nr. 2272, 26-31.<fe> qui ubi redierint, scies, quod responsi [...]derit<fx>^#/+Hier und unten Text unlesbar durch Wasserschaden. Ergänzungen z. T. aus Johann Jakob Simlers Abschrift (Zürich ZB, Ms S 58, 107).^#/- Dederit ^#/+kommt hier nicht in Frage.^#/-<fe> belua<f1>Vgl. Apk 13.<fe>.
+^$Age, oremus assidue ad dominum. Videor mihi videre ingentia mala Germaniae imminere.
+Vita vere poenitens iuncta precibus multum nobis conciliabit pacis.
+^$Qui has tibi offert,d. Ioannes Hallerus, is est, qui mittitur Augustam.<f1>Zu Hallers Reise und Ankunft in Augsburg s. oben Nr. 2164, Anm. 10.<fe> Oro, mi frater,
+ut ipsum tan[quam] me ipsum habeas commendatum. Est vir modestissimi pacatissimique ingenii,
+Graece et Latine doctus, satis exercitatus in literis et concionand[i] facultate.
+Proderit illi plurimum, si ipsum quoque instituas, mores ecclesiae illius depingas.
+Si qu[as] ab Augusta ad te scripserit, fideliter consulas et diligenter respondeas.
+Sed hic scio te optim[e] functurum amici officio, non propter me tantum, sed magis propter gloriam domini ecclesiaeque utilitatem.
+^$[Dominus] Iesus [s]ervet te cum tota domo et urbe.
+S[alvi] sint fraterd. consul<f1>Thomas Blarer.<fe>,d. Zviccius<f1>Konrad Zwick.<fe>,d. Funcklius<f1>Jakob Funcklin.<fe> et [re]liqui viri boni.
+Plura exponet tabe[ll]io<f1>Haller; s. Z. 22.<fe>.
+Tiguri, 10. novembris anno 1545.
+<un>H. Bullingerus tuus.
+<lz><vl>76v.</vl> Habet comitem itineris Huldrychum Zvinglium, piae memoriae Zvinglii filium legitimum,<f1>Huldrych Zwingli d.J., geb. 6. Januar 1528, gest. 11. Februar 1571, Sohn des Reformators. 1538 als Stipendiat in Zürich aufgenommen. Am 19. März 1546 Immatrikulation in Basel, wo er am 27. April 1547 Baccalaureus artium und am 14. Februar 1549 Magister artium wurde. Am 7. Juni 1549 Heirat mit Bullingers Tochter Anna (gest. 19. Januar 1565) und am 23. August 1549 Diakon und Leutpriester am Zürcher Großmünster. 1556 Professor für Hebräisch in Zürich, wo er am 30. Juni 1557 Pfarrer an der Predigerkirche im Spital wurde. Ab 17. Januar 1566 in zweiter Ehe verheiratet mit Regula Schönenberger. Am 23. Juni 1568 wurde er vom Zürcher Rat mit einer Chorherrenpfründe versehen. Er erlag einem Hirnschlag. - 1561 zusammen mit Bullinger und anderen Zürcher Pfarrern Mitverfasser eines Gutachtens zu Hieronymus Zanchis Thesen. Ein Briefwechsel mit Bullinger ist nicht erhalten. - Lit.: Zürich ZB, Ms. Car C 44, 922, Nr. 26; Ms F 95.1, Nr. 27; Zürich StA, G I 179, f. 6v. 13r.; Z IX 346, Anm. 2; HBD passim; HBLS VII 782; Basel, Matrikel II 44, Nr. 21; ^#/+Pfarrerbuch^#/- 662; W[ilhelm] H[einrich] ^#/+Ruoff,^#/- Nachfahren Ulrich Zwinglis. Mit einer vorläufigen Nachfahrenliste, Bern 1937 - Veröffentlichungen der Schweizerischen Gesellschaft für Familienforschung 1/5, S. 4. 33.<fe>
+qui, ut vides, facie parentem refert per omnia. Redibit is cum veredario<f1>Hans Wilpert Zollerd. J.; s. ^#/+Bähler,^#/- Haller 4f.<fe>. Abit modo spectatum aut visum urbes illas Sueviae celebres.
+Hunc tibi vel propter optimum parentem commendo.
+^$Oremus, mi frater, ne Hesso<f1>Landgraf Philipp von Hessen.<fe>, principi optimo, eveniat, quod Achabo<f1>Ahab, König des Nordreiches Israel, 9. Jh. v. Chr. - Siehe dazu 1Kön 20.<fe>, qui, quod Benhadad<f1>Ben-Hadad II. (evtl. Ben-Hadad I.) von Damaskus, aramäischer König, den Ahab nach seinem Sieg über ihn freiließ.<fe>, regi Syriae in bello capto,
+pepercerat, a vate divino audit: "Quia dimisisti virum dignum morte, erit anima tua pro anima eius" [1Kön 20, 42], etc.
+Quod si potes, urge hoc verbum, ut ad principis aures perveniat; idem ego facturus sum.<f1>Vgl. oben Nr. 2280.<fe>
+<lz>[Adresse darunter:] Praeclaro virod. Ambrosio Blaurero, fidelissimo Constantiensis ecclesiae antistiti, suo in domino semper colendo fratri.<fx>^#/+Darunter von Blarers Hand das Empfangsdatum:^#/- 13. novembris 1545.<fe> Constantz.
+</content>
+</letter>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1578">
+<nr>1578</nr>
+<correspondents>
+	<originator>Matthias Erb</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Reichenweier</place>
+	<date>23. Oktober [1541]</date>
+	<note>Das Jahr steht zweifelsfrei fest, da Bullingers Antwort vom 13. November 1541 deutlich auf diesen Brief Bezug nimmt (vgl. unten Z. 4f mit Nr. 1584, 4f). Vgl. auch unten Z. 10 mit Anm. 5.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 361, 264 (Siegelspur)</vo>
+<vo>Kopien: Zürich ZB, Ms S 48, 140</vo>
+<vo>Straßburg AST, Nr. 139, Cart. 73, 241</vo>
+<dr>Ungedruckt</dr>
+<re>Es gibt nichts zu schreiben, doch für die nahe Zukunft zeichnet sich Unheil ab; Bullinger soll mit den Seinen für ihre kleine Kirche beten, die der Fürst [Georg von Württemberg] zwar fördert, aber eher nachlässig verwaltet. Näheres wird Vogler berichten.
+</re>
+<tx>Dominus tecum.
+^$Anno superiore, si meministi, Bullingere doctissime,
+fecisti mihi copiam, quoties occasio data fuisset, ad te
+scribendi.<f1>Ein Brief Bullingers an Erb aus dem Jahr 1540 ist nicht bekannt; vgl. aber HBBW IX, Nr. 1244, bes. Z. 2-5.<fe>
+Quum vero nunc nil habeam dignum, quo de certiorem (tametsi praesens seculum indies parturiens nescio quid tandem abortus
+ostensurum sit; alit enim monstrum<f1>Vgl. Adagia, 2, 4, 98 (LB II 551).<fe>) te faciam, obsecro atque efflagito, ut cum tuis
+fratribus ac ecclesia numinis potentiam enixissime ores, ut
+nos liberet a satana. Parva nobis ac fratribus meis est
+ecclesiola sub monarcha<f1>Graf Georg von Württemberg-Mömpelgard.<fe> nescio quali hactenus promota, sub
+quo nunc ferme omnia licenter et remissius administrantur.
+^$De nostro statu Voglerus.<f1>Hans Vogler kehrte nach der Aufgabe seines Schaffneramtes aus Reichenweier nach Zürich zurück; gegen Ende 1541 erwarb er das Schloss Uster (s. Paul ^#/+Kläui,^#/- Geschichte der Gemeinde Uster, Zürich 1964, S. 74).<fe>
+^$Bene valebis in domino, frater charissime ac doctissime.
+^$Richenvillae, 23. octobris.
+<un>Tuissimus Erbius.
+<lz>[Adresse auf der Rückseite:] Doctissimo iuxtaque
+vere piod. Henricho Bullingero, antistiti Tigurino, fratri
+suo charissimo.
+</content>
+</letter>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="929">
+<correspondents>
+	<originator>Konrad Gessner</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>30. Dezember (*1536*)+1</date>
+</space_time>
+<record>Abschrift+a: Zürich ZB, Ms S 41, 211</record>
+<print></print>
+<note>.us; Übersetzung:  Hanhart  57-59</note>
+<statue>
+Fasst sich kurz, um nicht als Schmeichler zu erscheinen.
+Bittet um Anschaffung griechischer Aristoteles-Kommentare
+für die Bibliothek, da diese Werke, die mehr als andere das Studium
+der griechischen Sprache rechtfertigen, für Studenten unerschwinglich
+sind; (*Johannes*) Fries und andere schliessen sich dieser Bitte an.
+</statue>
+<content>
+Doctissimo viro d. Henrico Bullingero,
+studiorum Mecoenati+2, patrono charissimo.
+<p>S. d. Cupio vos omnes recte valere pietatique et studiis longum superstites esse. Si prooemiis+b apud te usus fuero, timeo, ne fastidiosus fiam. Quanquam illud hodie omnium fere, qui scribunt, commune vitium
+est, multa longaque :gr.parerga:egr. ad eos, qui superioris loci sunt,
+adducentes+c, itaque fastidium potius et de vana ostentatione
+suspicionem quam sui commendationem sibi comparant. At rem simpliciter
+et simplicibus verbis proposuisse omnem adulationis fraudisque opinionem
+prohibet. Non eo pertinet, quod dico, quasi aliquid abs te petiturus; id
+enim si quando feci, tanquam parum liberale invito et repugnante genio
+meo feci, et bis carere malo quam semel petere.
+Non putabis igitur hominem me tam impudentem et imperitum esse. Agnosco
+humanitatem et benevolentiam vestram et semper id agam, ne frustra in me
+quisquam beneficus fuerit. Atque utinam mihi liberius otium esset,
+quo me ita compararem+d, ut amplius aliquando prolixiusque et
+vobis et patriae commodus esse possem! Porro, quod a te oro, non mihi,
+sed in communem studiosorum utilitatem peto, idque de Graecis
+Aristotelis interpretibus, ut des operam illos in bibliothecae numerum
+addi, si quomodo fieri possit+3.
+Verum enim est Graecam linguam tantum non inutilem fore nec labori
+discentium satisfacturam, nisi quis laboris fructum ab Aristotele et
+doctissimis viris ipsius interpretibus repetat. Quae enim alia
+studiorum pars est, ubi non Latini cum Graecis contendant? In multis
+etiam superant, hic solum relinquunt? Sunt autem omnino necessarii ad
+philosophiae sinceram cognitionem Graecorum commentarii, sed magno
+comparantur+e, et nostrum aliquis, si unum aut alterum illorum velit
+emere, totum stipendium exhauriat+f.
+Itaque operae pretium fuerit te, studiorum parentem, agere curareque
+illos in communem usum reponi. Res certe necessaria et te digna est.
+Idem Frisius+4 noster petit, et nimirum omnes. Non licebit bibliothecam
+maiori thesauro decorare. Tu, si coneris, efficies, ut alii consentiant,
+et si conventum sit, Frisius et ego facile curabimus et quam fieri
+poterit facili pretio adportari. Nihil praeterea volo, nisi ut Christus
+donet novo ineunte anno feliciter te frui.</p>
+<p>Vale.</p>
+<p>Basileae, 3. cal. ianuarias.</p>
+<signature>
+Tuus ex animo C. Gesnerus.
+</signature>
+</content>
+<note>
++a>Zu den verschollenen Autographen dieses und sieben
+weiterer
+Gessner-Briefe s. HBBW II, S. 252, Anm. a. Die in der Sammlung J. J.
+Simlers enthaltene Kopie scheint auf der Abschrift der ganzen Briefgruppe
+von unbekannter Hand in Zürich ZB, Ms V 320, Nr. 3 zu beruhen, bietet
+aber den besseren Text als die Vorlage. Die acht Briefabschriften von
+Johannes Leu (Zürich ZB, Ms L 530, Nr. 3) gehen ebenfalls auf Ms V 320,
+Nr. 3 zurück. Die Abschrift aus der Sammlung Johann Wernhard Hubers
+(Universitätsbibliothek Basel, Ms G+2 I 15, I, 17r.-v.; zitiert: H)
+weist einige abweichende Lesarten auf.
+Simler bemerkt in Ms S 32, 156: "Has octo Conradi Gesneri epistolas ex
+autographis per Scaphusanum quendam olim(*!*) descriptas mecum
+amicissime communicavit Joannes Gesnerus ... 1764".
+<print>
++b>H:  praeconio.
++c>H:  adducere.
++d>H:  comparem.
++e>H:  coemuntur.
++f>H:  exhauriet.
+</print>
+<address>
++1>Die Jahreszahl ergibt sich daraus, dass unten Z. 27-30
+der gleichzeitige Aufenthalt von Johannes Fries in Basel vorausgesetzt
+ist.
++2>Mäzen (vgl. Pauly/Wissowa XIV/1 207- 229).
++3>Pellikans Katalog der Stiftsbibliothek enthält keinen Hinweis
+auf entsprechende Anschaffungen;
+vgl. Martin
+<print>
+Germann,  Die reformierte Stiftsbibliothek am Grossmünster Zürich
+im 16. Jahrhundert und die Anfänge der neuzeitlichen Bibliographie,
+Wiesbaden 1994. -- Beiträge zum Buch- und Bibliothekswesen 34.
+??
+Gessner besass den Kommentar des Alexander von Aphrodisias zu
+Aristoteles' Metaphysik in einer lateinischen Ausgabe von 1536 (heute
+Zürich ZB, St 55; vgl. Leu S. 168, Nr. 10);
+eine griechische Ausgabe scheint aber nicht angeschafft worden zu sein.
++4>Johannes Fries.
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

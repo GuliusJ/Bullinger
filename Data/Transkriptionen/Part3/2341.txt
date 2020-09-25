@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2341">
+<brief>
+<id>16031</id>
+<nr>2341</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 31. Januar 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 225 (neu: 243) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 55 </k></dr>
+<re>Myconius erfährt nur selten, wenn jemand nach Zürich geht, sonst hätte er schon längst Neuigkeiten über Regensburg geschickt. Er hatte allerdings nur Nachrichten über die Teilnehmer am [Religions]gespräch, von denen damals außer den [Evangelischen] nur der Colmarer [Johannes Hoffmeister] in Regensburg eingetroffen war.
+<t/>[Sultan Suleiman I.] besetzte trotz des Friedensabkommens zwei oder drei Burgen und entschuldigte sich, indem er sagte, er hätte den Seinen lediglich einen Durchgangsweg bereitet!
+<t/>Herzog [Wilhelm IV.] von Bayern hat seinen um Regensburg wohnenden Untertanen bei Strafe der Güterkonfiskation und des Exils verboten, das Wort [Gottes] in Regensburg zu hören, ja sogar in dieser Stadt irgendetwas zu kaufen oder zu verkaufen.
+<t/>Die [Basler] schicken einen [Brief] an den [Zürcher] Rat mit Nachrichten über die Pfalz. Ferner sollen sich Graf Wilhelm [von] Fürstenberg, Graf [Philipp IV.] von Hanau[-Lichtenberg] und Graf [Johann] von Salm zusammen mit Graf [Jakob?] von Bitsch wegen des Schmalkaldischen Bundes nach Frankfurt begeben haben.
+<t/>Heute hörte Myconius von einem Mitglied der [Basler] Stadtführung [Adelberg Meyer?], dass Kaiser [Karl V.] zu einem neuen Krieg gegen [Franz I.] rüste. Wie, wird Myconius später, falls er es nicht vergisst, berichten.
+<t/>Bullinger soll Thomas Grunder den Brief für [Simon] Sulzer übergeben und den anderen Brief [an Vadian] so schnell wie möglich zustellen lassen.
+<t/>Grüße an Theodor [Bibliander] und [Konrad] Pellikan.</re>
+<text>
+<p>S. <zzl>zl2341-4A</zzl>Nescio, qui fiat, ut tam raro, qui Tigurum eunt, a me sciantur.<zzl>zl2341-4E</zzl> Scripsissem dudum, qu{e} noram ex Ratisbona
+<fn>Regensburg, wo sowohl der Reichstag als auch das Religionsgespräch stattfanden.</fn>, nisi defuissent, qui ferrent. Nunc antiquata
+<fn>Hier im Sinne von: überholt; veraltet.</fn> ita sunt, ut placere non possint amplius; quamobrem omittenda puto. Tametsi, ut hoc obiter, nihil fuerit nisi de colloquutoribus, <zzl>zl2341-2A</zzl>quorum nullus aderat tunc nostris exceptis praeter Colmariensem<zzl>zl2341-2E</zzl>
+<fn>Der Colmarer Augustinermönch Johannes Hoffmeister; vgl. <qv>nr2333</qv>,<qv>zl2333-2</qv>.</fn>.</p>
+<p><zzl>zl2341-1A</zzl>De Turca
+<fn>Sultan Suleiman I.</fn> et eius contemptu contra nos, ut qui in ipsis induciis
+<fn>Die Friedensabkommen vom Jahre 1545; s. <a>HBBW</a> XV 25 und Anm. 87.</fn> occupavit duas vel tres arces
+<fn>Vgl. schon <qv>nr2335</qv> und <qv>fn2335-1</qv>. - Zu Waffenstillstandsverletzungen durch die Türken in Ungarn s. <a>Hammer-Purgstall</a> III 273; <a>Austro-Turcica</a> 100. 103.</fn> et, propter id correptus, respondit inducias se non violasse, sed suis parasse transitum, si sic opus esset in posterum. Ita rideri solet victus a victore<zzl>zl2341-1E</zzl>!</p>
+<p>De duce item Bavaro
+<fn>Wilhelm IV. von Bayern.</fn>, qui prohibuit sub poena confiscationis bonorum et exilii, ne quis suorum (qui tamen urbem circumdant Ratisbonensem) ingrediatur ad audiendum verbum, imo ad vendendum vel emendum quicquam.
+<fn>Vgl. <a>Wolrad, Regensb. RG</a> 147. 178; <a>RTA-JR</a> VII 114f; und unten <qv>nr2363</qv>,<qv>zl2363-12</qv>. - Das Verbot wurde erst Mitte März aufgehoben; s. <a>Wolrad, Regensb. RG</a>, S. 336.<zfn>fn2341-1</zfn></fn> Tyrannis, qu{e} puto propediem habitura finem, est. H{e}c breviter in literis meis fuerunt.</p>
+<p>Nunc miserunt
+<fn>Brief von "Adelberg Meiger, Bürgermeister, unnd Rath der Stadt Basell" an Bürgermeister und Rat der Stadt Zürich, 30. Januar 1546. Zeitgenössischer Vermerk: "Bericht, daß in der Pfaltz die Meß abgeschaffet und Evangelisch Predigt inngesetzet worden seyen. 1546" (Zürich StA, A 187/1, Nr. 13). - Ein Entwurf dieses Schreibens an Zürich, Bern und Mülhausen findet sich in Basel StA, Missiven A 31a, S. 1077f; Herrn Rainer Henrich sei für diesen Hinweis gedankt.</fn> ad senatum vestrum nostri, qu{e} sunt de Palatino. <zzl>zl2341-5A</zzl>Adde, comes Guilielmus Furstenbergensis
+<fn>Siehe <qv>nr2327</qv>, <qv>fn2327-2</qv>.</fn>, comes de Hanow
+<fn>Wohl Philipp IV. von Hanau-Lichtenberg, geb. 1514, gest. 1590, von 1538 bis 1590 regierender Graf von Hanau-Lichtenberg. Er war mit Fürstenberg befreundet und hatte sich für dessen Befreiung eingesetzt; s. <a>Wagner, Fürstenberg</a> 260.</fn> et comes de Salm
+<fn>Wohl Graf Johann von Salm. Er hatte sich ebenfalls für Fürstenbergs Befreiung eingesetzt; s. <a>Wagner, Fürstenberg</a>, aaO.</fn> adiungunt quendam
+<fa><i>In der Vorlage</i> quidam.</fa> comitem de Bütsch
+<fn>Wohl Graf Jakob von Bitsch (geb. 1510, gest. 1570). Vielleicht pflegte Bitsch schon vor der 1560 stattgefundenen Eheschließung seiner Tochter Ludovica Margaretha von Zweibrücken-Bitsch mit Graf Philipp V. von Hanau-Lichtenberg Beziehungen zu diesem Hause. Doch blieb Bitsch beim alten Glauben (auch wenn er in guter Beziehung zu dem Hause Württemberg stand), während der Graf von Hanau-Lichtenberg in seinem Gebiet die Reformation einführte; s. Johann Georg <i>Lehmann,</i> Urkundliche Geschichte der Grafschaft Hanau-Lichtenberg im untern Elsasse, Bd. 2, Mannheim 1863, S. 331f. 335. 398.</fn>.
+<fn>Wohl ein Gerücht. Jakob von Bitschs Anwesenheit am Bundestag zu Frankfurt konnte nicht belegt werden.</fn> Francfordiam descenderunt pro foedere Smalcaldensi.
+<fn>Es ging um ihre Aufnahme in den Schmalkaldischen Bund; vgl. <a>Vadian BW</a> VI 495 (Nr. 1443).</fn> Utinam h{e}c omnia sint nobis fausta et felicia!<zzl>zl2341-5E</zzl></p>
+<p><zzl>zl2341-3A</zzl>Hodie ex capite
+<fn>Vermutlich Adelberg Meyer (Meiger) zum Pfeil, geb. nach 1482 in Basel, gest. am 8. Juni 1548 ebenda; Diplomat und Verordneter des Rats in außenpolitischen Angelegenheiten. Von 1521 an bis zu seinem Tod jedes zweite Jahr Bürgermeister (seit 1544 im Wechsel mit Theodor Brand); von 1524 bis 1546 Zeug- und Bannerherr im Range eines Hauptmanns. - Lit.: <a>Contemporaries</a> II 440; <a>HLS</a> VIII 525; <a>Gast, Tagebuch</a> passim. - Die Stadtführung von Basel bestand aus vier Personen: den zwei Bürgermeistern, dem Oberzunftmeister und einem Stellvertreter, damals nämlich Adelberg Meyer, Theodor Brand, Blasius Schölli und Marx Heidelin. Wir danken Rainer Henrich für diese Angabe.</fn> nostr{e} urbis audivi c{e}sarem
+<fn>Karl V.</fn> in hoc esse, ut novum contra Gallum
+<fn>Franz I.</fn> paret bellum. Hic equidem h{e}reo. Qualiter, exponam posthac, si meminero et adfectus praesens non excutietur.<zzl>zl2341-3E</zzl></p>
+<p>Literas ad Sultzerum
+<fn>Nicht ermittelter Brief an Simon Sulzer. Von Myconius ist zu dieser Zeit kein Brief an Sulzer bekannt.</fn>, qu{e}so, Thom{e} reddas Grundero; alteras, cui
+<fn>Wohl Myconius' Brief an Vadian vom 30. Januar 1546 (<a>Vadian BW</a> VI 493-495, Nr. 1443).</fn> inscript{e} sunt, mittas, quam valebis ocyssime.</p>
+<p>Vale in Christo cum tuis. Theodorum
+<fn>Theodor Bibliander.</fn> salutabis nomine meo, Pellicanum itidem. Basileae, ultima ianuarii anno 1546.</p>
+<un>Tuus Os. My-­</un>
+<un>conius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, antistiti Tigurino, fratri in domino observandissimo suo.</p><fn>Der vorliegende Brief wurde vermutlich dem offiziellen Boten der Stadt Basel anvertraut, der den auf den 30. Januar 1546 datierten Brief des Basler Rats an den Zürcher Rat übermittelte; s. <qv>nr2353</qv>.</fn>
+</text>
+</brief>

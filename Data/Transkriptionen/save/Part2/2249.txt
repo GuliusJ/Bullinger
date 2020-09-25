@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2249">
+<nr>2249</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>19. September [1545]</date>
+	<note>Der Brief reiht sich in die Korrespondenz zwischen Blarer und Bullinger von September 1545 ein.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 98f (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 390f, ^$^$^$^$Nr. 1219</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 44; Zit.: Stucki, Lavater 222 ^&x{
+<re>Blarer erwartet einen Bericht von Bucer über das weitere Vorgehen Kaiser [Karls V.] gegen [Hermann von Wied], für dessen Standhaftigkeit man beten muss.
+-^#. Er hat [Konrad Zwick] über die Antwort [Johannes] Haabs informiert, welche Zwick sehr befremdete, zumal Haab bemerkte, dass eine Unterhandlung [durch Zwick] nicht nötig gewesen wäre, wenn ein [Anschluss von Konstanz an die Eidgenossenschaft] nicht in Aussicht stand. Doch wusste Haab, dass Zwick im Alleingang verhandelt hatte!
+-^#. Vom [Zweiten Regensburger] Religionsgespräch ist wenig zu erwarten. Bucers Bemühungen darf man aber nicht verachten, denn im Glauben, dass mehr Menschen Gott mit reinem Herzen suchen, als es tatsächlich der Fall ist, hofft er beständig, dass die beiden Parteien sich und der Wahrheit näherkommen würden. Auch die bisherigen Misserfolge [solcher Religionsgespräche] zeigen nur, dass die Gegner das Licht der Wahrheit scheuen. Man muss beten, dass der Herr den Weg zu einer soliden Konkordie zwischen den [Protestanten] festigt und ihnen eine tolerante Standhaftigkeit gegenüber Lügnern verleiht.
+-^#. Es freut Blarer, dass Bullinger in seinem Brief [nicht erhalten] die Weissagungen [Johannes] Zwicks erwähnte, weil er dadurch erkennt, dass auch Bullinger Zwick nicht vergessen hat.
+-^#. Auch Blarer hofft, dass [Johannes] a Lasco [standhaft bleibe].
+-^#. Bullinger hat Vadian zu Recht ermahnt; gewisse Eiferer verbreiten unkluge oder scherzhafte Worte großer Männer, um die Sache anderer schlechtzumachen.
+-^#. Blarer gratuliert [zur Ernennung von] Heinrich Buchter.
+-^#. Er wundert sich, dass Bullinger nichts über die Bitte des Rats von Isny [um Entsendung eines Pfarrers] schrieb. Blarer hat davon schon [aus einem] von [Peter] Buffler [geschriebenen Brief], der durch den Boten von Isny [...] überbracht wurde, erfahren. Dieser Bote erzählte auch vom [Zürcher] Beschluss, einen Nachfolger für [Johannes] Marbach zur Verfügung zu stellen. Bullinger möge darüber schreiben und für die Kirche beten.
+-^#. Grüße von [Thomas Blarer] und Konrad Zwick.
+-^#. Peter Scher d.Ä. schreibt von den schlechten Bedingungen in Frankreich und berichtet, dass [Franz I.] ein Heer von 60'000 Soldaten gegen [Heinrich VIII.] versammelt hätte.</re>
+<tx>S. In Coloniensem<f1>Hermann von Wied.<fe> quid porro machinatus sit caesar<f1>Karl V.<fe>, expecto, ut a Bucero resciscam.<f1>Ein solcher Brief findet sich nicht in Blarer BW.<fe>
+Interim optimum principem sacris apud dominum precationibus fulciemus; qui, si constanter, ut cępit, perrexerit,
+omnino sentiet, quid sit sperare in dominum illique uni fidere quamque virtus illius in nostra infirmitate perficiatur.<f1>Vgl. 2Kor 12, 9. - Zur Lage von Wieds s. oben Nr. 2214, Anm. 24; 2219, 2-7; 2238 und 2239, 19-27.<fe>
+Nos iidem manent agones, sed vincet per nos etiam Christus.
+^$De Habio<f1>Johannes Haab.<fe>, consule vestro, indicavi consobrino<f1>Konrad Zwick.<fe>, quid responderit;<f1>Es handelt sich hierbei wohl um eine Reaktion Haabs auf Zwicks Antwortschreiben an Haab; s. oben Nr. 2237, 2-8. - Möglicherweise hatte Bullinger in einem nicht erhaltenen Brief, auf den auch weiter unten Bezug genommen wird (s. Z. 28. 37), Blarer von Haabs Äußerung benachrichtigt.<fe>
+qui mirari satis nequit, quod inter cętera adiecerit: "So es die meinung was, das man nitt sollt handlen
+von einem freuntlichen, nachpurlichen verstand, hätte es der mittel wol nitt bedörffen der underhandlung",<f1>Zu den letztlich gescheiterten Verhandlungen über einen möglichen Anschluss von Konstanz an die Eidgenossenschaft und über Zwicks Kriegskunst s. zuletzt oben Nr. 2237.<fe>
+quum ignorare non possit, qua fide secum egerit, quodque ex suopte animo: "istec omnia nemine mortalium
+nobis exceptis conscio", id quod etiam sanctissime affirmavit, ut merito dubitare haudquaquam debuerit, etc.
+^$Quod de colloquiis<f1>Gemeint sind die Religionsgespräche im Allgemeinen (vor dem Hintergrund des geplanten Zweiten Regensburger Religionsgesprächs) sowie Bucers Rolle dabei; s. zuletzt oben Nr. 2240, 14-19 und Anm. 19.<fe> scribam, non habeo, extra illud, quod res ipsa docuit parum felicem horum exitum.
+Interim Buceri studium, quod ad ipsum sane attinet, nemo facile condemnaverit.
+Is enim, caussę bonitate nixus, pariter et quod putat plures profecto, quam sint, deum puro corde quęrere,
+perpetuo sperat, si negocium paulo diligentius discutiatur, fore, ut alteri alteris proximius accedant
+et veritas istoc exercicio purius eruatur,<f1>Vgl. auch Vadians Verteidigung Bucers in oben Nr. 2244.<fe> tametsi, ictus iam aliquoties, non admodum urgere videatur,
+quod toties tentatum tam infeliciter cessit, nisi quod etiam hac infelicitate semper accesio aliqua facta est,
+et adversarii potius quam nos ipsam veritatis lucem defugere visi sunt.
+Sed dominus comprecandus, ut spiritu sancto suo viam aliquam ad solidam concordiam nobis muniat
+(nobis, inquam, qui gloriam regni sui vere quaerimus,<f1>Vgl. 1Thess 2, 12.<fe> interim tamen in nonnullis graviter dissentimus)<fx>^#/+Klammern ergänzt.^#/-<fe>,
+ad eos vero, qui venumdati sunt, ut mendacia tueantur, animos nostros adamantina tolerantia obfirmet, ut ne unquam cedamus.
+^$Volupe supra modum fuit in literis tuis<f1>Nicht erhalten; s. oben Nr. 2244 und Anm. 1.<fe> legere optimi et charissimi Zviccii nostri<f1>Johannes Zwick.<fe> vaticinium<f1>Nicht ermittelt.<fe>,
+non tam propter ipsum vaticinium, quam quod hinc intellexi huius apud te memoriam praesentem etiamnum et vivacem esse;
+qua ipse me quoque non raro oblecto ad huius Christi glorię sitientissimi pectoris exemplum utcunque me componere adnitens.
+^$Vadianum nostrum, recte feceris, si ita, ut scribis, admonueris.<f1>Zu Vadians Äußerungen über das "Warhaffte Bekanntnuß" s. oben Nr. 2227, 106-110; 2235, 42f; 2240, 29f.<fe>
+Circumferuntur miro plausu ab ardelionibus quibusdam verba istiusmodi ab id genus magnis viris
+vel imprudentia aut etiam per iocum effusa, ut aliorum caussam magis reddant odiosam.
+^$De clarissimo viro Ioanne a Lasco hoc idem spero, quod tu.<f1>Bullinger wird in seinem nicht erhaltenen Brief wohl die Hoffnung geäußert haben, dass a Lasco standhaft bleibe.<fe> Vincet enim omnino, quandoquidem qui<f1>Christus bzw. Gott. - Vgl. Gal 2, 20; 1Joh 4, 12f.<fe> in ipso fortior est multo, quam qui<f1>Der Teufel. - Vgl. Joh 12, 31; 16, 11.<fe> in mundo.<f1>1Joh 4, 4.<fe>
+^$Dominum Heinrichum Buchterum ecclesię vestrę, quod debeo, vehementer gratulor;
+quem dominus spiritu suo benignissime imbutum ad dextre administrandam susceptam provinciam idoneum ac per omnia appositum efficiat.<f1>Buchter war der Nachfolger Meganders; s. oben Nr. 2226, Anm. 12.<fe>
+^$Sed heus tu, mi charissime frater, qui fit, ut ne verbum quidem ullum de Isnensi petitione?
+Qua de certior me iam antea fecerat optimus vir Buflerus<f1>Peter Buffler in Isny.<fe>, <vl>99</vl> idque per illum ipsum nuncium<f1>Unbekannt.<fe>,
+qui vestris literas ab Isnensi senatu<f1>Der Rat von Isny hatte Zürich am 7. September um Entsendung eines Predigers gebeten (Zürich StA A 202/3, Nr. 2); s. Immanuel ^#/+Kammerer,^#/- Die Reformation in Isny, in: BWKG 53, 1953, 38.<fe> attulit, ut scire multum averem, quid vestri illis respondissent,
+idque ex tuis proximis literis intellecturum me omnino sperarem.<f1>Bullinger kam in seiner Antwort (Nr. 2260) Blarers Bitte nach.<fe>
+Nuncius, qui diebus aliquot istic hęsit, sancte affirmabat consensum esse a vestris,
+ut Isnensi ecclesię ex vestris symmystis aliquis designaretur in Marbachii<f1>Johannes Marbach.<fe> locum successurus.<f1>Zum Streit in Isny und zur Abberufung Marbachs nach Straßburg im Juli s. oben Nr. 2146, 1-10 und Anm. 7. - Am 4. Oktober empfahl Bullinger als Nachfolger Konrad Klauser; s. unten Nr. 2260, 1-6.<fe>
+Verum quando vanum esse solet hoc hominum genus, non ausus sum illi habere fidem.
+Scribes igitur proximo nuncio, ut res ista sese habeat, et ora pro nobis diligenter
+et pro ecclesia Christi, quę tantis iactatur multorum periculorum procellis, ut ne deficiat illius fides.<f1>Vgl. Lk 22, 32.<fe>
+^$Bene vale, mi venerande pariter et charissime frater.
+^$Constantiae, 19. septembris.
+^$Saluta domum tuam et fratres. Salutant te nostri, cum primis germanus frater<f1>Thomas Blarer.<fe> cum C[onrado] Zviccio.
+<un>Tuus Ambr. Blaurerus.
+<lz>Es schreibt der allt Peter Schär<f1>Peter Scher d.Ä. (von Schwarzenburg, Elsass), gest. 29. September 1557. Erstmals erwähnt 1518 als Diener Franz von Sickingens; 1529 wurde er Vormund von dessen Kindern. Schon seit den 1520er Jahren im kaiserlichen Dienst, ab 1520 Lehensträger Karls V. 1530 als kaiserlicher Rat erwähnt, 1535 als königlicher Hauptmann in Wien. Schon vor 1543 Schirmbürgerrecht von Straßburg. Von 1546 bis 1551 im Dienst des Grafen Wilhelm von Nassau. 1551 im Dienst König Ferdinands in Augsburg, wo er sich für Thomas Blarer einsetzte, der, wie auch Ambrosius Blarer, nicht Schers Schwager war, wie manchmal in der Lit. erwähnt. Scher war Vater der oben Nr. 2243, Anm. 5 und 7, erwähnten Margareta, Elisabeth und Felicitas Scher. Es ist ein Brief von seinem Sohn Peter Scher d.J. an Bullinger aus dem Jahr 1551 erhalten. - Lit.: Amerbach Korr. VI 332-334 (mit weiterer Lit.); Blarer BW II-III Reg.<fe>, das in Franckreich ain grosser sterbet und theure<f1>Siehe dazu oben Nr. 2224 und Anm. 16.<fe> seye und darzuͦ
+ain grausamer krieg; dann der konig<f1>Franz I.<fe> hab ob sechtzigtausend streytbarer mann by ainander wider Engeland, etc.<f1>Die Heeresgröße ist sonst nicht belegt, erscheint aber übertrieben. Im Herbst 1545 flauten zudem die Streitigkeiten zwischen England und Frankreich ab, nicht zuletzt, da sich die deutschen Protestanten um Vermittlung bemühten; s. Robert J. ^#/+Knecht,^#/- Renaissance Warrior and Patron. The Reign of Francis I, Cambridge 1994, S. 502; oben Nr. 2227, Anm. 48.<fe>
+<lz>[Adresse darunter:] Clarissimo virod. Heinricho Bullingero, suo valde quam observando fratri. Tiguri.<f1>Dieser Brief wurde Bullinger durch Johannes von Ulm übermittelt; s. unten Nr. 2251, 26f.<fe>
+</content>
+</letter>

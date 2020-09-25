@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2706">
+<brief>
+<id>16394</id>
+<nr>2706</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-12-06"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 6. Dezember [1546]
+<fn>Das Jahr ergibt sich aus dem Briefinhalt.</fn></od>
+<vo>Autograph: Zürich StA, E II 370a, 581 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 114. ─ Manche Nachricht hier wird im Brief vom 10. Dez. als falsch bezeichnet. </k></dr>
+<re><t>Gestern schrieb Haller ziemlich ausführlich [<qv>nr2701</qv>] durch [...], den Diener von Hans Wyss. Jetzt bietet sich mit [...] erneut eine Gelegenheit zur Nachrichtenübermittlung, die Bullinger ja so schätzt.</t>
+<t>Das weiterhin kursierende Gerücht vom Tod des Kaisers [Karl V.] wird sogar von [Sebastian] Schertlin für glaubwürdig gehalten, wie [Wolfgang] Musculus berichtet, der mit Schertlin gestern aß. Herzog [Wilhelm] von Bayern soll nämlich eine große Menge an schwarzem Tuch aus Augsburg bestellt haben. Haller fürchtet aber, dass hier eine List der Pfaffen vorliegt!</t>
+<t>Als er heute mit Musculus und dem siebzigjährigen [Wolfgang] Rehlinger speiste, hörte er von einem anderen Gerücht: Der Bischof von Augsburg [Otto Truchsess von Waldburg], Doktor [Johann von] Naves, [Anton] Fugger und [Hans?] Baumgartner sollen in Nördlingen (welches sich freiwillig den Kaiserlichen ergeben hat) heimlich verhandeln, damit [König] Ferdinand [I. erneut] zum Römischen König und der Herzog von Bayern zum Kaiser ernannt werden. So wollen wohl [Fugger und Baumgartner] sich und ihren Schuldnern Geldverluste ersparen. [Maximilian Egmont], Graf von Büren, soll mit dem Leichnam des Kaisers auf dem Weg zu dessen Geburtsort [Gent] sein. Fest steht, dass von Büren in Richtung Flandern eilt und die Kaiserlichen sich dem Kurfürsten [Johann Friedrich von Sachsen], der die Bistümer Würzburg und Bamberg verwüstet, nicht widersetzen. Daher das Gerücht vom Tod des Kaisers, der sonst eine Besetzung dieser strategisch so günstigen Orte, in denen noch so viel Getreide vorhanden ist, wohl niemals zugelassen hätte. Der Kurfürst soll auch das Deutschordensstift in Mergentheim sowie Würzburg eingenommen haben.</t>
+<t>Herzog Moritz [von Sachsen] hat Wittenberg belagert, wurde aber beim ersten Ansturm zurückgestoßen und zum Abzug gezwungen.</t>
+<t>Der Kurfürst hat fast die ganze Kavallerie der [Schmalkaldener] bei sich. Landgraf [Philipp von Hessen] behielt nur 200 Reiter, die mit ihm nach Stuttgart ritten. Heute wurde gemeldet, dass Philipp mit 12 Reitern zum König [Franz I.] von Frankreich eilt!</t>
+<t>Soweit in Eile diese unverbürgten Nachrichten. Gruß.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16394-1A</zzl>Scripsi pridie
+<fn>Mit <qv>nr2701</qv> vom 4. Dezember. - Daraus folgt, dass Brief <qv>nr2701</qv> Augsburg wahrscheinlich erst am 5. Dezember verließ.</fn> per Ioannis Albini
+<fn>Hans Wyss.</fn> famulum
+<fn>Unbekannt.</fn> copiosius aliquantum de singulis rebus.<zzl>zl16394-1E</zzl> Nunc autem, quoniam alius se mihi non incommodus offert nuncius
+<fn>Unbekannt.</fn>, non possum non iterum scribere, quid his diebus acceperim novi. Quia enim haec tibi grata scio esse officia, libenter tibi inservio.</p>
+</div>
+<div>
+<p><zzl>zl16394-3A</zzl>Rumor apud plaerosque adhuc constans est obiisse caesarem
+<fn>Karl V. - Zu diesem falschen Gerücht s. die Verweise in <qv>nr2700</qv>, <qv>fn16388-4</qv>.</fn>. Musculus
+<fn>Wolfgang Musculus.</fn> heri cum Schertlio
+<fn>Sebastian Schertlin von Burtenbach.</fn> pransus etiam ipsum hoc verum esse suspicari mihi dixit. Utitur coniectura, quod Bavariae dux
+<fn>Herzog Wilhelm IV. von Bayern.</fn> nigri panni magnam copiam ex Augusta accersivit. <zzl>zl16394-2A</zzl>Ego vereor, ne pfafforum sit praestigiosum commentum.<zzl>zl16394-2E</zzl><zzl>zl16394-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16394-5A</zzl>Hodie, cum consule Rhelingero
+<fn>Wolfgang Rehlinger, Altbürgermeister. Zu seiner politischen Haltung s. <a>HBBW</a> XVI 77, Anm. 9; XVII 308, Anm. 29.</fn>, viro septuagenario et iam emerito, una cum Musculo cum pranderem, audio etiam alias recenseri coniecturas: Episcopum scilicet Augustanum
+<fn>Kardinal Otto Truchsess von Waldburg.</fn>, doctorem Naves
+<fn>Reichsvizekanzler Johann von Naves.</fn>, Fuggerum
+<fn>Anton Fugger, der ab Januar 1547 eine führende Rolle bei den Augsburger Aussöhnungsverhandlungen mit dem Kaiser einnahm; s. Hermann Joseph <i>Kirch,</i> Die Fugger und der Schmalkaldische Krieg, München/Leipzig 1915 - Studien zur Fugger-Geschichte 5, S. 117-138.</fn> et Bomgartnerum
+<fn>Vermutlich Hans Baumgartner; vgl. <a>HBBW</a> XVII 322, Anm. 94.</fn> nostrum N{oe}rdlingae (quae a caesareanis sponte se offerentibus et tradentibus se illis capta est)
+<fn>Zur Ergebung Nördlingens s. <qv>nr2700</qv>, <qv>fn16388-5</qv>.</fn> agere clam, si quibus rationibus (ne quam faciant suorum debitorum aerisque elocati iacturam)
+<fa><i>Klammern ergänzt.</i></fa> queant Perdiandum
+<fa><i>In der Vorlage hat Haller absichtlich</i> Ferdinandum <i>in</i> Perdiandum <i>geändert, indem er aus dem</i> F <i>ein</i> P <i>machte und das erste</i> n <i>senkrecht durchstrich. Damit liegt wohl eine Anspielung auf</i> perdendum <i>vor.</i></fa>
+<fn>König Ferdinand I.</fn> facere Augustum
+<fn>Römischer Kaiser, im Gegensatz zum "Semper Augustus", mit dem der Kaiser bezeichnet wird.</fn> ducemque Bavariae Caesarem.<zzl>zl16394-5E</zzl> <zzl>zl16394-4A</zzl>Bürensem comitem
+<fn>Maximilian von Egmont, Graf von Büren.</fn> etiam esse famam deferre cadaver caesaris ad Inferiorem Germaniam,
+<fn>Ein falsches Gerücht, das auch im Brief des Rates von Konstanz an den Rat von Zürich, 16. Dezember (s. Zürich StA, A 177, Nr. 153), und <a>PC</a> IV/1 515, Nr. 483, zu finden ist.<zfn>fn16394-3</zfn></fn> ut ibi, ubi natus est
+<fn>D.h. Gent.</fn>, sepeliatur iterum. Certum enim est magnopere festinare Bürensem ad Flandriam suam.
+<fn>Von Büren, der mit dem Kaiser am 3. Dezember nach Rothenburg ob der Tauber gelangt war, brach mit seinem Heer am 12. Dezember von dort auf. Am 13. nahm er Burg Boxberg (Main-Tauber-Kreis, Baden-Württemberg) ein. Dann zog er vermutlich nach Tauberbischofsheim und Miltenberg, von da in die Grafschaft Erbach, wo er sich im Schloss Fürstenau (Michelstadt) einquartierte und von wo aus seine Truppen einen Vorstoß bis nach Beerfelden (etwa 38 km von Heidelberg) machten. Er wandte sich dann Darmstadt zu, das er am 22. Dezember einnahm. Von dort zog er vor Frankfurt am Main, das sich am 24. ergab und am 29. für mehrere Monate von den kaiserlichen Truppen besetzt wurde; s. <qv>nr2701</qv>, <qv>fn16389-4</qv>; <a>PC</a> IV/1 520f, Nr. 487; Carl <i>Arnd,</i> Geschichte der Provinz Hanau und der untern Maingegend, Hanau 1858, S. 171; <a>Hasenclever, Kurpfalz</a> 144-146; Ludwig <i>Schnurrer,</i> Kaiser Karl V. in Rothenburg im Dezember 1546, in: Die Linde 56/3, 1974, 20; Hans-Michael <i>Möller,</i> Reichswirren, Stadtpolitik und Kriegsregiment. Frankfurt in der Krise 1546-47, in: Archiv für Frankfurts Geschichte und Kunst 55, 1976, 39-66.<zfn>fn16394-1</zfn></fn><zzl>zl16394-4E</zzl> Certum est etiam hoc: <zzl>zl16394-6A</zzl>A caesareanis nihil prorsus fieri eosque permittere electorem
+<fn>Johann Friedrich I. von Sachsen. - Zu dessen Route s. <qv>nr2700</qv>, <qv>fn16388-3</qv>.</fn> pro voto vastare episcopatum Herbipolensem et Pabergensem
+<fn>Die Bistümer Würzburg und Bamberg.</fn>. Unde colligunt caesarem mortuum; alioqui eum non permissurum occupari loca haec commodissima et frugum copia et situ ad restaurandum bellum. Fertur enim electorem iamiam cepisse Mergidden
+<fn>Bad Mergentheim (Main-Tauber-Kreis, Baden-Württemberg), 40 km südlich von Würzburg, damals Dienstsitz des Deutschen Ordens. - Hier liegt erneut ein falsches Gerücht vor.</fn>, ditissimum Teutonicorum collegium, ipsamque Herbipolim.<zzl>zl16394-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16394-7A</zzl>Dux Mauritius Wittenbergam obsedit primoque impetu murum expugnare aggressus vi recusus discessit re infecta.
+<fn>Herzog Moritz von Sachsen hatte Wittenberg schon am 18. November erfolglos angegriffen; s. dazu <qv>nr2695</qv>, <qv>fn16382-1</qv>. Daraufhin zog er noch einmal in die Umgebung von Wittenberg, um die Stadt zu isolieren. Davon berichten jedoch nur wenige Zeugnisse; s. <a>Voigt, Moritz</a> 232f mit Anm. 3. Dabei richtete Moritz sein Hauptquartier in Zahna ein (etwa 25 km südwestlich von Wittenberg); s. ebd., S. 234. Dieser zweite Zug in Richtung Wittenberg muss kurz vor dem 1. Dezember erfolgt sein, da Melanchthon an diesem Tag berichtet (<a>MBW-T</a> XV 561, Nr. 4478), dass Moritz wieder ein Heer in die Gegend von Wittenberg geführt habe, mit einer Belagerung aber wohl bis zum Ende des Landtages am 6. Dezember abwarten werde. Am 7. meldete Melanchthon (aaO, 571, Nr. 4487), dass Wittenberg noch nicht belagert sei. Dann teilte er am 11. mit (aaO, 573, Nr. 4489), dass er soeben von der Belagerung Wittenbergs gehört habe. Am 20. schrieb er (aaO, 597, Nr. 4505), dass die ungarischen Reiter umherschweiften, Grausamkeiten verübten sowie die Versorgung der Stadt blockierten. Am 21. (aaO, 600, Nr. 4506) sprach er die dortige Lebensmittelknappheit an und hoffte auf eine baldige Befreiung der Stadt. Schließlich konnte er am 29. Dezember den Abzug der feindlichen Truppen aus Wittenbergs Umgebung melden (aaO, 627f, Nr. 4524f), der laut <a>Voigt, Moritz</a> 236, am 26. erfolgt war.<zfn>fn16394-2</zfn></fn><zzl>zl16394-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16394-8A</zzl>Elector omnem, quem nostri universi habuere, equitatum secum ducit
+<fn>Laut einem Brief des Frankfurter Rats vom 17. Dezember (<a>PC</a> IV/1 522, Nr. 489) soll der Kurfürst den größten Teil des Geschützes sowie die landgräflichen Reiter behalten haben.</fn> exceptis 200 equitibus cum langrafio
+<fn>Philipp von Hessen. - Zu seinem Rückweg über Stuttgart s. <qv>nr2702</qv>, <qv>fn16390-2</qv>.</fn> Stugardiam profectis.<zzl>zl16394-8E</zzl> <zzl>zl16394-9A</zzl>Hodie fertur etiam langrafium cum 12 tantum caballis properare ad regem Galliae
+<fn>Franz I. - Ein falsches Gerücht.</fn>.<zzl>zl16394-9E</zzl></p>
+</div>
+<div>
+<p>Haec, sicuti audivi, incerta volui tibi communicare. Certiora si habuero, dabo quoque. Vale. Festinantissime ex meo musaeo, 6. decembris.</p>
+<un>Ioannes Hallerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Heinrycho Bullingero, venerando suo patri. M. Heinrych Bullinger z{uo} Zürich in yl z{uo} überantworten.</p>
+</div>
+</text>
+</brief>

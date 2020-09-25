@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="962">
+<nr>962</nr>
+<correspondents>
+	<originator>Johannes Fries</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>7. März 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen und Unterstreichungen von J. H. Hottinger; am unteren Teil der Rückseite auf ein Blatt geklebt.^#/-<fe>: Zürich ZB, Ms F 42, 86r.-v. (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Kann der Berufung nach Zürich nicht ohne weiteres Folge leisten, da er nach seiner Rückkehr aus Frankreich eine
+Lehrverpflichtung in Basel übernommen hat, um seine Schulden tilgen zu können; bittet Bullinger, zuerst dafür zu sorgen,
+daß er in Ehren entlassen wird, was kurzfristig kaum möglich sein wird, und hat auf Anraten von Grynäus und Myconius im
+gleichen Sinne an den [Zürcher] Rat geschrieben. Konrad [Geßner] hätte einer solchen Berufung eher bedurft. Schreibt
+über Melchior [Wirz] ein andermal. Bittet, den Brief Pellikan zu zeigen.</re>
+<tx>Etsi mihi<fx>mihi ^#/+vom Schreiber korrigiert aus^#/- enim.<fe> dubium nunquam fuit, quin eo erga me absentem animo adhuc esses,
+quem tu mihi saepe praestitisti, non potui tamen vehementer non gaudere, cum illud idem literis tuis mihi
+significares<f1>Der Brief, in dem Bullinger Fries die Berufung an die Zürcher Fraumünsterschule mitteilte, ist nicht
+erhalten; vgl. aber oben Nr. 959.<fe>, patrone longe omnium charissime. Ex quibus etiam tuam senatusque
+sententiam de me abunde intellexi, cui paucis his verbis respondebo. Nosti, mi doctissime Bullingere, me tecum de rebus
+meis post meum ex Gallia reditum<f1>Fries hatte 1535 in Paris den Magistergrad erworben und war spätestens Mitte 1536
+von dort zurückgekehrt; vgl. HBBW III, S. 74, Anm. 1, und HBBW VI, S. 329, 23-29.<fe> saepe contulisse ac tuo
+consilio frequenter fuisse usum, quo pacto meos creditores placare et in pacem redigere possem<f1>Zur Verschuldung von
+Fries vgl. oben Nr. 960, 4-6.<fe>. Nulla prorsus alia via commodius inveniri potuit, quam ut rursus iter
+Basilęam, unde digressus, instituerem istamque docendi cum<fx>^#/+vor^#/- cum ^#/+gestrichenes^#/- publice p[?].<fe>
+publice tum privatim, quam nosti, provinciam apud Grynęum tanquam nostri collegii destitutus auxilio<fx>^#/+vor^#/-
+auxilio ^#/+gestrichenes^#/- consilio.<fe> apertis, ut aiunt, ulnis<f1>Vgl. Adagia, 2, 9, 54 (LB II 675).<fe> subirem. Cęterum Grynęus meo delectatus reditu
+hanc ultro mihi obtulit. Accepi meamque fidem illi et toto gymnasio ad aliquod temporis spatium dedi. Cum ergo
+publico consensu clarisque in patriam revocer literis, turpe sane esse me tam honestę vocationi non respondere quis
+non nisi insanus iudicet? Sed quo ore quave audacia accademiae Basiliensi, quae mea nunc opera utitur nec illa tam
+subito poterit carere, nisi alium, qui mihi succedat, substituat, renuntiare ausim, plane ignoro. Didascalorum apud eos
+et fere passim magna est penuria; licet reperias facile eruditorum copiosum numerum, non tam<fx>tam ^#/+wohl
+irrtümlich für^#/- tamen.<fe> omnes apti et ad docendum idonei sunt. Tu
+igitur, mi Bullingere, hac de re, quaeso, delibera meque apud Grynęum diligenter excuses, ne ingratitudinis vitium
+incurrere videar. Hoc quamprimum factum erit illeque veniam nobis discedendi concesserit, sumptis Pegasaeis alis<f1>Vgl.
+Otto 271, Nr. 1374.<fe> ad vos ocyssime advolabo. Ad hunc fere modum senatui scripsi<f1>Ein entsprechender Brief an den
+Zürcher Rat ist nicht erhalten.<fe>, idque non meo, sed Grynęi nostri et Myconii feci iussu. Verum ne quid te lateat,
+hanc, ut vocant, copiam tibi mittere volui. Non aegre tulissem Conrado<f1>Konrad Geßner.<fe> nostro hanc fuisse oblatam
+conditionem; nam me magis opus haberet, cui etiam plus faveo quam mihi ipsi. Verum cum effectum esse diligentia et
+industria tua senatusque consulto intelligam, lubens, quam primum tu senatusque consilium inveneritis, quo modo honeste
+id fieri possit, vestro iussui parebo.
+^$De Melchiore<f1>Melchior Wirz; vgl. oben Nr. 960, 15-20 mit Anm. 3.<fe> nostro alias.
+^$Haec tibi tanquam summo studiosorum patrono volui breviter communicare. Tu pro tua humanitate boni consule. Si in hoc
+peccavi, factum imprudentia, non dolo esse existima.
+^$
+<vl>86v.</vl> Quaeso, si grave non est, has literas, quas modo scripsi, et Pellicano meo ad legendum exhibeas.
+^$Vale, mi doctissime ac optime patrone.
+^$Datum raptim, nonis martii 1537.<un>Tuus ex animo Frisius<un>in omnibus obedire<un>paratissimus.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1757">
+<nr>1757</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>27. Juni 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 282 (Siegel); [Beilagen:] E II 343a, 290; E II 343, 156b</vo>
+^&xK: Zürich ZB, Ms S 53, 19^&x{
+<dr>Zusammenfassende Übersetzung des Briefes und Druck der Beilagen: Blarer BW II 189-191, Nr. 1019</dr>
+<re>Schickt unerfreuliche Nachrichten durch einen Jüngling von Zürich und bedauert die Gleichgültigkeit der [von den Türken] bedrohten Christenheit; Umkehr tut Not; Bullinger soll für ihn beten. Grüße.
+[Beilagen:] Verschiedene Nachrichten vom geldrischen und französischen Krieg sowie aus Italien und Wien.</re>
+<tx>Salve, mi suavissime terque mihi venerande Bullingere.
+^$Mittere ad te ista per adulescentulum<f1>Unbekannt.<fe> huncce vestratem
+visum est, quantumvis parum suavia. Valde miseror communem
+christianorum sortem, qui in tantis omnium rerum periculis
+tanta securitate stertunt et in utramque dormiunt aurem<f1>Adagia, 1, 8, 19 (LB II 307).<fe> aut,
+si mavis, tanta confidentia alii in aliorum crines involant,
+quasi nihil prorsus a communi christianę pietatis hoste<f1>Gemeint ist der türkische Sultan Suleiman I.<fe>
+praesentium adeoque atrocissimorum malorum impendeat. Verum
+ita in spem aut desperationem potius<fx>potius ^#/+über der Zeile nachgetragen.^#/-<fe> quamprimum venitur fore
+propediem, ut minutatim iam diu ab istoc adversario
+discerpti semel miserandum in modum devoremur. Quo magis
+nobis urgenda matura erga deum resipiscentia, si forte sint,
+ut erant certe semper<fx>semper ^#/+über der Zeile nachgetragen.^#/-<fe> aliqui, quos sua benignitate dominus
+eripiat. Ora pro nobis, mi venerande frater, ut ne unquam
+officio meo desim, sed eam usque et fructum domino meo
+adferam et fructus meus maneat<f1>Vgl. Joh 15, 16.<fe>. Is te quoque glorię
+nominis sui pariter et nobis quam diutissime florentem ac
+omnibus numeris sospitem servet!
+^$Saluta totam tuam domum cum optimis amicis et fratribus.
+Vale.
+^$27. iunii anno 1543.
+<un>Tuus Ambros. Blaurerus.
+<lz>[Adresse auf der Rückseite:] D. Heinricho
+Bullingero suo plusquam fratri. Tiguri.
+<lz><vl>343a, 290; 343, 156b</vl> [Beilagen, gedruckt in: Blarer BW II 189-191, Nr. 1019.]
+</content>
+</letter>

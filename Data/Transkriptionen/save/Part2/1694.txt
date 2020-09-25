@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1694">
+<nr>1694</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>22. November 1542</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger und Inhaltsangaben von einer weiteren Hand des 17. Jahrhunderts. -
+Die teilweise wörtlichen Übereinstimmungen mit dem Brief vom 6. Dezember (unten Nr. 1699) wie auch die Überlieferung dieses
+Stücks zusammen mit weiteren Briefen aus dem Nachlass von Myconius belegen, dass der spätere Brief das vorliegende, unter
+Zeitdruck fertiggestellte Schreiben (vgl. unten Z. 48 und Nr. 1699, 50) ersetzte. Myconius hat es offenbar zurückbehalten, nachdem es bereits versiegelt war.^#/-<fe>: Zürich ZB, Ms F 81, 382 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms F 58, 768f</vo>
+<vo>Ms S 52, 60.</vo>
+<dr>Ungedruckt</dr>
+<re>Die von Bullinger genannten Gründe, weshalb er ihm seinen [Matthäuskommentar] nicht geschickt hat, überzeugen nicht;
+dies soll aber nicht als Bitte verstanden werden. Begrüßt zusammen mit [Ludwig] von Reischach die abweisende Haltung der
+Zürcher gegenüber dem französischen [König Franz I.]; die Basler verschaffen dem Mandat [gegen den Reislauf] zu wenig
+Nachachtung. Der aus Zürich stammende Basler Ratsherr [Niklaus] Escher zieht wegen des französischen Geldes nach Solothurn;
+selbst im Rat wird im Zusammenhang mit dem Solddienst schamlos geredet. Nach der Verwüstung des Jülicher Landes nützt [dem
+Herzog] von Jülich [Wilhelm V.] ein erneuter französischer Vorstoß ins Luxemburgische wenig; da auch Kleve und Geldern zu
+den Waffen greifen, droht ein blutiger Krieg. - Fährt nach der Predigt mit Schreiben weiter: Reischach hat von durchziehenden
+Reitern gehört, dass nur wenige [niederländische] Truppen in Luxemburg überwintern würden, weshalb er die aus Straßburg
+kommenden Nachrichten über die Rückkehr der Franzosen für falsch hält. Gerüchte über einen nur wegen des Kriegs in Ungarn
+aufgeschobenen Angriff auf die Eidgenossenschaft und über Pläne Kaiser [Karls V.] zur Besetzung Mailands. Wer auf Gott setzt, ist gut versehen. Gruß. Der Bote kam zu früh.
+</re>
+<tx>S. Mirum, quod scribis: "Nolui te vasto onerare codice" etc.<f1>Myconius bezieht sich auf ein
+nicht erhaltenes Schreiben Bullingers, in dem dieser begründete, weshalb er Myconius seinen im August erschienenen Kommentar zum
+Matthäusevangelium (HBBibl I 144) nicht zugesandt hatte (vgl. oben Nr. 1686, 1-9).<fe> An ignoras libros ad aurum habere
+comparationem? Atqui illud quo maius, eo gratius. Quamobrem aliud esse oportet, quod nihil miseris, qui tamen omnia, quę
+hactenus scripsisti, miseris; nam reliquę causę, quas addis, prorsus nullę sunt. Quamvis ego recipiam et aequi
+consulam, quicquid in excusationem tui adducis. Nec velim, hęc interpreteris, tanquam aliquid petam; sed tuis sic amice et simpliciter respondere volui.
+^$Dominum a Rischach<f1>Ludwig von Reischach.<fe> nomine tuo salutavi et exposui, quę scripsisti de Gallo;<f1>Zürich hatte
+sich an der Badener Tagsatzung vom 23. Oktober gegen den von König Franz I. erhobenen Vorwurf der Parteilichkeit verwahrt;
+vgl. oben Nr. 1686, 10-13 mit Anm. 7.<fe> placent itaque magis magisque Tigurini, quod hunc nolint, precaturque constantiam eis
+in domino. Et profecto prudenter mihi facere videntur, quia
+nihil respondent, ne veniant in colloquium; adeo vafer est
+enim diabolus ille, ut eo male usurus esset. Perdurent, et
+dominus erit cum ipsis. Nos hic certe pessime nobis
+constamus in negocio Gallicano, dum post mandatum adeo
+severum<f1>Vgl. oben Nr. 1686, 15f mit Anm. 9.<fe> poena irrogatur, ut optimi quique dicant stimulum fore multis ineunte vere turmatim excurrendi.
+^$Diebus hisce civis et senator Basiliensis civitate
+renunciata migrare parat Salodorum, non nisi propter aurum
+Gallicanum, quo tamen adeo non indiget, ut stupendum sit
+hominem divitem et iuvenem sic agere. Nomine Tigurinus est
+de familia Aescherorum<f1>Niklaus Escher vom Glas, geb. um 1510, 1515 verwaist, gab 1527 sein Zürcher Bürgerrecht auf und wurde
+1528 Bürger von Basel, der Heimatstadt seiner Mutter. 1527/28 und erneut ca. 1536-1538 stand er im Dienst eines fremden
+Fürsten (wohl des französischen Königs). 1538-1542 gehörte er dem Basler Rat an. Aufgrund seiner um 1530 erfolgten Heirat mit
+Ursula Grieb, deren Vorfahren sich "Herren von Binningen" nannten, wurde er zum Stammvater der Escher von Binningen.
+1541/42 erwarb er die Burg Büren (Kt. Solothurn) und erhielt das Solothurner Bürgerrecht, worauf er im Oktober 1542 aus Basel
+wegzog (die Abzugsurkunde datiert vom 20. Dezember). 1548 trat er in vorderösterreichische Dienste und zog nach Säckingen, wo
+er als Vogt amtete. 1553 starb er als kaiserlicher Hauptmann und wurde in Trier begraben. - Lit.: Günter B. ^#/+Escher,^#/-
+Geschichte der Familie Escher vom Glas, Rees am Rhein 1997, S. 159-173.<fe>. Sunt ex primoribus, qui mirantur cathenas ex
+coronatis convolutis factas atque id coram stultis non dissimulant. Audent loqui satis impudenter, dum sermo de militibus incidit, vel in senatu. In sinum haec tibi.
+^$Ducatus Iuliacensis totus miserrime vastatus est et occupatus a Brabantis,<f1>Vgl. oben Nr. 1686, 22f mit Anm. 13.<fe> et
+quamvis Gallus redierit in agrum Lucelburgensem<f1>Zu den diesbezüglichen, von Straßburg an Basel übermittelten Nachrichten vgl. PC III 336 (mit Anm. 1), Vadian BW VI 170 sowie
+unten Z. 29-36. Der erneute französische Vormarsch beschränkte sich im Wesentlichen auf die Einnahme von Montmédy (Dép. Meuse); s. ^#/+Henne^#/- VIII 45.<fe> et de integro vastet,
+quicquid est reliqui, forsitan si exercitum reginae<f1>Maria von Ungarn, Statthalterin der Niederlande.<fe> distrahere sic possit, non video tamen, quę inde sit utilitas
+Iuliacensi<f1>Herzog Wilhelm von Jülich, Berg und Kleve.<fe>. Clivenses et Geldrii arma nunc tandem expediunt. Hic timendum, nisi pax fiat, bellum fore valde cruentum.
+^$Hactenus scripsi ante concionem; post concionem dominus a
+Rischach inter colloquendum: "Heri", inquit, "in ponte obviam habui equites aliquot, qui recta venerunt ab exercitu reginio.
+Hos dum rogo de ducibus et exercitu, sic reddiderunt: 'Duces ad reginam profecti recessum<f1>Entlassung.<fe>, ut vocant,
+requisituri sunt.<f1>Vgl. ^#/+Heidrich,^#/- Erbfolgestreit 71.<fe> Milites dimissi sunt aliquot vexillis exceptis, quę in ducatu Lucelburgensi hibernabunt.'
+Vides", inquit, "mendacia, quę seruntur de Gallo, quod
+rediisset ad Lucelburgenses." Hęreo itaque, postquam ex
+Argentina superiora cognoverim.<f1>Vgl. oben Z. 23-28.<fe><fx>^#/+Es folgt ein gestrichener Abschnitt:^#/- In
+obpugnatione Pestę ^#/+[vgl. ^#/-Traut^#/+ 112-117]^#/- primo tentata 5. octobris soli Itali fortiter fecerunt, Hungari
+fugerunt, Germani Italos fortiter irruentes subsidiis constitutis deseruerunt. Cunque 6. octobris muri latius deiecti
+essent et constituta obpugnatio altera in 7. eiusdem, Germani omnia clamore suo obpleverunt: "gelt, gelt, gelt", nec movere se
+voluerunt. Hinc coacti sunt duces exercitum reducere, et factum est, ut nunc non Germani, sed semiviri - atque id vix - merito
+adpellentur. ^#/+Dazu (nicht gestrichene) Randbemerkung:^#/- Ex castris Nurenberg[ensibus] hęc scripta ad senatum suum, qui
+eadem ad Argentinensem senatum; inde ad nostros sunt dimissa ^#/+[nicht erhalten; vgl. PC III 336].^#/- Mirum, quod non vera omni ex parte.<fe>
+^$Pręterea vir mercator Sangallensis<f1>Unbekannt.<fe> diebus
+superioribus hic dixit illud se per ditionem Palatini<f1>Gemeint ist wohl Kurfürst Ludwig V. von der Pfalz.<fe> accepisse, nisi
+clades Hungarica incidisset, bellum certo iam illatum esse confoederatis. Et timendum vere aliquid, maxime si rumor, qui
+volat de cęsare<f1>Kaiser Karl V.<fe>, quod Mediolanum sit ad tempus occupaturus, verus efficiatur.
+^$Sic res habent. Bene illis, qui ex corde possunt dicere: "Domini ego sum."<f1>Vgl. Jes 44, 5.<fe>
+^$Vale in domino cum bonis omnibus. Salutabis Theodorum<f1>Theodor Bibliander.<fe>.
+^$Basileę, 22. novembris anno 1542.
+<un>Os. Myconius
+<un>tuus.
+<lz>Pręvenit me festinando tabellio<f1>Unbekannt.<fe>.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero piissimo doctissimoque, ecclesię Tigurinę episcopo dignissimo, in Christo venerando suo.
+</content>
+</letter>

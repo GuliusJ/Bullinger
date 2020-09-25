@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="956">
+<nr>956</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>24. Februar 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 160 (neu: 179) (Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>[Die Pfarrer von Basel] haben Leo [Jud] geantwortet und eine Kopie ihres Schreibens an die Berner beigelegt;
+Myconius mißbilligt deren Absicht, Bucers Schriften verbieten zu lassen, aufs schärfste, obwohl er selbst Grund hätte,
+sich über dessen "Retraktation" zu beklagen. Schickt eine Abschrift des [Straßburger] Gutachtens [zu den Traktanden des
+Tags zu Schmalkalden]. Hält Bullingers Kritik an Zwicks Vorschlag [einer bedingten Annahme des Augsburger Bekenntnisses]
+für ungerechtfertigt. Bittet ihn, mäßigend auf die Amtsbrüder [in Bern] einzuwirken.</re>
+<tx>S. Leo scripsit fratribus, quamobrem ei responsum est ab eisdem<f1>Der Brief Leo Juds an die Pfarrer von Basel und
+deren Antwort sind verloren.<fe>. Puto, quod et tibi, quę scripsimus, sit praelecturus. Adiecimus, quę misimus
+proprio nuncio Bernam<f1>Zur angesprochenen Korrespondenz zwischen den Basler und den Berner Pfarrern und zum Anlaß
+ihrer Meinungsverschiedenheiten s. oben Nr. 950, 3-15.<fe>. Ea causam habent, quod
+Gaspar<f1>Kaspar Megander.<fe> nunciavit in hoc se esse, ut libri Buceri proscribantur in ditione Bernensi. Equidem
+nihil miserabilius unquam audivi. Si sic animus eorum habet, fratrum inquam, non senatus, ad insaniam ipsos arbitror
+redactos. Adiuvet nos dominus deus, ne sinat viros hactenus evangelicos ita dementari. Non est, qui posset magis
+conqueri de Buceri Retractatione<f1>Zu Bucers "Retraktationen" s. HBBW VI, S. 368, Anm. 12.<fe> quam ego, quod
+adtinet ad Zvinglium, ad Epistolare<f1>Bucer hatte in den "Retraktationen" die Veröffentlichung von Briefen Zwinglis und
+Oekolampads kritisiert; s. BucerDS VI/1 334-337.<fe> et ad clancularia quaedam illic tractata. Absit vero, ut propter ea
+vel movear, taceo conquerar, dum, quę reliqua sunt, ad veritatem tendunt concordię. Quid enim illic est, quod
+confessio nostra<f1>Gemeint ist das Erste Helvetische Bekenntnis von 1536 (BSRK 101-109).<fe> non
+habeat aut quod nobis non proposuerit? Et in quod nos non consenserimus, etiam non temere. Verum de his alias.
+^$Consultationem<f1>Zum Gutachten, das die Straßburger Theologen im Vorfeld des Tags zu Schmalkalden abgefaßt hatten, s.
+oben Nr. 943, 20-22; 947, 19f.<fe> mitto, quam Gastius meus descripsit sibi. Vides enim, quam hęc pertineant ad
+libellum<f1>Gemeint ist wohl die Liste von Fragen zu den Traktanden des Bundestags (oben Nr. 934,
+1-35).<fe>. Quocirca cave, ne<fx>cave, ne ^#/+am Rande nachgetragen.^#/-<fe> vel macula adspergas vel, dum remittis
+(quod brevi faciendum), non tuto committas. Mihi enim, quod peccasses, foret pensandum.
+^$De consilio Zviccii<f1>Vgl. oben Nr. 947, 2-18 mit Anm. 3.<fe> peto, ut melius deliberes; erras enim
+toto coelo<f1>Adagia, 1, 1, 49 (LB II 48).<fe>, si sic pergere volueris. Hanc libertatem videbis aliquando, quam habeat rationem videlicet. Interim boni
+consule.
+^$Quęso te, mi Bullingere, ne sinas, quod in te est, fratres tuos sic rapi adfectibus. Veritas, veritas nos ducat,
+adfectus abeant, quo digni sunt.
+^$Vale semper cum tuis. Pluribus non potui.
+^$Basileę, 24. februarii anno 37.<un>Tuus Myconius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, in domino charissimo suo.
+</content>
+</letter>

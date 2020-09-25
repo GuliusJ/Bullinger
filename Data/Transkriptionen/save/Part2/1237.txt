@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1237">
+<nr>1237</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Eberhard von Rümlang</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>8. März 1539</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zofingen Stadtbibliothek, Pa 14/2, Nr. 5 (Siegelspur)</vo>
+<dr>Teildruck: CO X/2 321f, Nr. 161</dr>
+<re>Rümlang braucht Sebastian [Meyer] nicht zu entschädigen, da Froschauer ihn zufriedenstellen wird; Meyers Sorge, Luther
+könnte [an der Vorrede zum Apokalypsenkommentar] Anstoß nehmen, ist unberechtigt, denn sollte die Konkordie Kritik an einem
+fehlbaren Menschen verbieten, ist sie ohnehin unhaltbar. Kann sich eine Veröffentlichung des [Ersten] Helvetischen
+Bekenntnisses nur mit Zustimmung [der beteiligten Orte] vorstellen. Schenkt ihm und Peter Cyro sein neues Buch "De
+origine erroris" und bittet um Beurteilung. Weist auf die [neuer­­schienene] Bibelübersetzung Münsters hin, zu der er eine Einleitung verfaßt hat. Grüße.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Non est, Eberharde mi, ut doctori Sebastiano<f1>Sebastian Meyer.<fe> de tuo quicquam numeres; Froschouerus illi
+satisfaciet. Cum enim ipsi, quod scripseras<f1>Siehe oben Nr. 1224, 29-44.<fe>, suggererem, ille dixit se homini
+satisfacturum. De aliis ne sis sollicitus. Interim modestia
+tua novit seni aliquid condonare. Frustra vero ipse metuit
+offendi Lutherum<f1>Meyer glaubte, in der Vorrede zu seinem Apokalypsenkommentar Luthers Geringschätzung der Apokalypse zu
+scharf kritisiert zu haben; vgl. ebd., Z. 8-28.<fe>. Pluris enim veritas quam Lutherus habebitur a theologo. Nemini
+autem ob­scurum est, quam temere de quibusdam libris
+scripturae sacrae pronunciarit Lutherus<fx>Lutherus ^#/+am Rande nachgetragen.^#/-<fe><f1>Bullinger bezieht sich zweifellos auf
+Luthers kritische Würdigung der neutestamentlichen Schriften in den Vorreden zu seinen Übersetzungen (vgl. etwa WA DB VI 10).<fe>.
+Ego non video, quid peccarit doctor Sebastianus. Quod si concordiae conditiones id possunt, ut nemo pro veritate contra
+Lutherum vel os aperiat, cum homo sit Lutherus, non deus, pereant concordiae conditiones. Ego agnosco Lutherum esse
+hominem, qui et falli possit et fallere, qui de errore admonendus sit et revocandus. Non probo illos, qui ex ipso nobis
+novum pectoris scrinium fabricare statuunt<f1>Gemäß kanonischem Recht trägt der Papst "iura omnia in scrinio
+pectoris sui";d. h. er verkörpert gleichsam das Recht (s. CorpIC, VI 1, 2, 1).<fe>.
+^$An possit vulgari confessio ecclesiarum Helvetiae<f1>das Erste Helvetische Bekenntnis; vgl. oben Nr. 1224, 57-65.<fe>, ignoro.
+Vellem autem communi omnium consensu vulgari, et fortassis
+suo tempore et loco id fiet.
+^$Quid ego hac hieme scripserim, vides: duos libros De origine
+erroris<f1>Bei dem im März 1539 bei Froschauer gedruckten Werk "De origine erroris libri duo" (HBBibl I 12) handelt sich um
+eine Neubearbeitung zweier Schriften von 1528 bzw. 1529 (HBBibl I 10f); vgl. HBD 27, 11f und oben Nr. 1233f.<fe>. Non sine sudore et labore ingenti illos
+conscripsi. Forte non probabunt illos quidam. Sed veritatem intrepide scripsi, veritatem deo adiuvante in finem usque
+tuebor. Hoc autem exemplar ea lege tibi dono, ut donum commune habeas cum clarissimo virod. Petro Gyrone<f1>Peter Cyro.<fe>,
+scriba inclytae urbis vestrae. Atque dominum oro, faxit, ut animos alioqui coniunctos efficiat hoc communi dono<fx>hoc communi dono ^#/+am Rande nachgetragen.^#/-<fe> coniunctiores.
+Salutabis mihi virum et mea ipsi obsequia offeres. Amo enim
+candorem et eruditionem hominis illustrem. Expecto iuditium
+de libro meo<f1>Vgl. unten Nr. 1311, 17-33.<fe>.
+^$Vidisti forsan Biblia Latina e versione Munsteri ex
+veritate Hebraica<f1>Die 1539 bei Froschauer gedruckte "Biblia sacra utriusque testamenti" (BZD C 275) enthielt Sebastian
+Münsters Übersetzung des Alten Testaments, das Neue Testament in der Version des Erasmus sowie die Apokryphen.<fe>, cui praefixi
+expositionem de omnibus libris sacrae scripturae eorumque dignitate et praestantia<f1>HBBibl I 114; vgl. HBD 27, 13-15.<fe>.
+Omni studio in ea annixus sum, ut sacrarum litterarum
+studium omnibus commendarem.
+^$Vale, Eberharte mi, et tibi de me quod de fratre polliceberis.
+^$8. martii anno 1539.
+^$Salutabis mihi concionatores fratres Erasmum<f1>Erasmus Ritter.<fe>, Sebastianum, Conzenum<f1>Peter Kunz.<fe> etc.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Et genere et eruditione
+claro viro Eberharto a Rümlang, scribae Bernensi, amico
+syncero. Dem Seckelschryber zuͦ Bernn.
+</content>
+</letter>

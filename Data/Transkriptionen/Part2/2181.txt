@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2181">
+<nr>2181</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>16. Juni 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Abgesehen von kleineren Abweichungen textgleich mit Nr. 2180 ohne deren Nachschrift.^#/-<fe>: Zürich StA, E II 342, 136 (Siegelabdruck)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 133 ^&x{
+<re>Im Wissen, dass Vadian fromme und den Studien ergebene Menschen sonst immer willkommen sind, dass aber doch viele Landstreicher sich als Gelehrte ausgeben und gute Männer täuschen, empfiehlt Bullinger den den Zürchern liebgewordenen [Überbringer] Gerhard [thom Camph], einen adligen Friesen, der in Zürich studierte und bei [Konrad] Pellikan wohnte. Auf der Rückkehr in seine Heimat möchte er besonders Vadian, die Stadt [St. Germain] und die dortige Kirche besuchen. Er bedarf keiner [finanziellen] Unterstützung.</re>
+<dra>[Gedruckt: Vadian BW VI 422f, Nr. 1401.]</dra>
+^&x<tx>S[alutem] d[ico]. Scio ... idemque dilectissime, alias<fx>^#/+Vorlage:^#/- alias ^#/+nachträglich eingefügt.^#/-<fe> ... bonis imponunt et se venditant ... videre te imprimis, ecclesiam et urbem vestram ... Excipe ergo illum, uti dignus est. ...
+^$Tiguri, 16. iunii 1545.
+<un>Tuus H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimod. d[octori] Ioachimo Vadiano, Sangallensi consuli, domino suo colendissimo. Sangallen.^&x{
+</content>
+</letter>

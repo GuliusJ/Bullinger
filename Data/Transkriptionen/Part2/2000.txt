@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2000">
+<nr>2000</nr>
+<correspondents>
+	<originator>Sixt Birck</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Augsburg</place>
+	<date>30. September 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 131 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 194; vgl. Blarer BW II 302f. 305; Amerbach, Korr. VI 37; IV 385f^&x{
+<dr>Ungedruckt</dr>
+<re>Hat am 19. September durch [Wolfgang] Musculus' Söhnchen [Abraham oder Elias] Bullingers Brief erhalten, in dem sich dieser unnötigerweise für seine späte Antwort [auf Nr. 1901] entschuldigt; mittlerweile bittet Birck Bullinger und seine Kollegen, ihm ihre Meinung über Dramen zukommen zu lassen, da diese von einigen missbilligt werden, weil sie die Schüler vom Studium abhalten und die guten Sitten verderben. Birck möchte keineswegs seine "Judith" den Zürchern aufdrängen, es sei denn, Christoph [Froschauer] betrachte den [Nachdruck] als dienlich; mit seiner Sendung wollte Birck sich hauptsächlich den Zürchern empfehlen; deshalb seine Freude [beim Lesen von Bullingers Brief] über die lange Liste der ihn Grüßenden; Birck lässt zurückgrüßen.</re>
+<tx>S[alutem] d[ico]. Decima nona septembris Musculus noster<f1>Wolfgang Musculus.<fe> per
+filiolum suum<f1>Abraham Musculus (geb. 8. Dezember 1534) oder Elias Musculus (geb. 1535/ 1536); s. Reinhard ^#/+Bodenmann,^#/- Wolfgang Musculus (1497-1563). Destin d'un autodidacte lorrain au siècle des Réformes, Genf 2000. - Travaux d'Humanisme et Renaissance 343, S. 301-305.<fe> tuas ad me misit literas<f1>Nicht erhalten; vgl. aber oben Nr. 1986 mit Anm. 2.<fe> tam pias quam amicas.
+Nimium religiosae responsionis dilationem excusas, quasi is
+sim, cui necesse sit in rebus non valde arduis<fx>^#/+In der Vorlage irrtümlich:^#/- ardui.<fe> responderi
+a viris tantis tantoque negotiorum ecclesiasticorum cumulo
+adobrutis. Quanquam ad has interim mihi a te responderi
+pervelim. Ad quam, inquis, quaestionem? Unnus[!] est et
+alter, qui dramata, quale "Iudith" nostra est<f1>Siehe dazu Nr. 1901, Anm. 1.<fe>, hoc nomine
+improbant,<f1>Unter den damaligen Kritikern: Wolfgang Musculus, der anfänglich Bircks Dramen befürwortete; s. ^#/+Bodenmann,^#/- aaO, S. 357f.<fe> quod et studiis iuventutis et publice moribus
+officiant. Ecclesię Tigurinae super ea re iudicium audire
+percupio. Rogo igitur te propter studia propterque pietatem,
+qua studiosos complecteris, ut proposita in conventu vestro
+quaestione doctorum suffragia colligas; quae certe apud me
+plurimum autoritatis sunt habitura.<f1>Eine parallele Anfrage richtete Birck am 1. Oktober 1544 auch an Ambrosius Blarer; s. Blarer BW II 302f, Nr. 1128. - Mit seinen Nachfragen in Zürich (s. oben Nr. 1901, Anm. 1), wo sich auch Bullinger in dieser Gattung 1533 versucht hatte (HBBibl I 39-41), und im Konstanz des Ambrosius Blarer (der die Schuldramen seines Schützling Jakob Funcklin billigen wird; s. Max ^#/+Schiendorfer,^#/- Die Bühne als Kanzel. Der Bieler Prädikant und Dramatiker Jakob Funcklin (1522/23-1565), in: Nova Acta Paracelsica, NF 22/23, 2008/2009, S. 51-74) ging Birck kein großes Risiko ein. - Zur eher positiven Bewertung des Schuldramas in Zürich in den 1540er Jahren (solange diese keinen Anlass zur Unzüchtigkeit gaben) und für ein Verzeichnis der etwa 20 ermittelten Dramenaufführungen in Zürich zwischen 1526 bis 1544 s. Thomas ^#/+Brunnschweiler,^#/- Johann Jakob Breitingers "Bedencken von Comoedien oder Spilen". Die Theaterfeindlichkeit im Alten Zürich. Edition - Kommentar - Monographie, Bern usw. 1989. - Zürcher Germanistische Studien 17, S. 125-128. 132-137. 267f.<fe> Nunquam, crede mihi,
+animum induxi, quod velim vel moribus vel studiis officere,
+quibus colendis ego publice conductus sum.
+^$De excudenda apud
+vos "Iudith" nec insto nec cupio, nisi quatenus commoditas
+ipsa Christophoro<f1>Christoph Froschauer; vgl. oben Nr. 1901, 10f.<fe> suadeat, neque tam in hoc misi, quam ut
+occasionem quęrerem insinuandi apud vos Xysti, qui apud
+doctos et pios viros nomen suum innotescere cupit. Quo
+nomine mihi vehementer gratus fuit longus ille doctorum
+catalogus Xystum per te salutantium. Salutem illis ex me
+vicissim per occasionem dicito meoque ipsos nomine rogo, ut
+super dramatis<fx>dramatis: ^#/+Abl. Pl. nach der griechischen Deklination, steht für^#/- dramatibus.<fe> illis in mei gratiam suam ferant sententiam.
+Quod si fecerint, interpretabor pro officio non vulgari.
+^$Vale.
+Ex Augusta Vindelicorum, pridie calendas octobris 44.
+<un>Vestrae humanitati
+<un>deditissimus Xystus Betul.
+<lz>[Adresse auf der Rückseite:] Doctissimo
+piissimoque virod. Hainricho Bullingero, apud Tygurum
+divini verbi praeconi primario, domino ac patri suo cum
+primis colendo.
+</content>
+</letter>

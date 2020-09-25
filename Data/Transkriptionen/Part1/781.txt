@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="781">
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>31. März 1536</date>
+</space_time>
+<record>Autograph: E II 343, 116 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Dankt für Bullingers Epistel(*-kommentar*) (*HBBibl I 81*) und
+bekennt sich zu den vom Drucker Thomas (*Platter*) trotz Mahnungen
+nicht behobenen Mängeln seines eigenen Kommentars zum Titusbrief; will
+die Berner und Zürcher Pfarrer an den bevorstehenden Synoden vor dem
+Kauf warnen. In Lausanne predigt Pierre Viret. Über die
+(*gefangengenommenen Solothurner "Banditen"*) Roggenbach wird erst nach
+der Rückkehr der Truppen (*aus der Waadt*) entschieden; die Todesstrafe
+haben sie nicht zu befürchten. Schloss Chillon ist in bernischer Hand.
+Megander bittet um Rat für ein bevorstehendes Gespräch über die
+Verwendung der Kirchengüter. (*Die Berner Pfarrer*) halten
+die vorgeschlagenen Ergänzungen (*Nr. 768*) zum (*Ersten Helvetischen*)
+Bekenntnis, die sie allerdings zu spät erhielten, nicht für notwendig,
+haben aber nichts dagegen einzuwenden. Grüsse.
+</statue>
+<content>
+Gratiam a domino.
+<p>Munus et donum illud tuum epistolare+1, quod misisti gratissimum, Bullingere charissime, accepi; pro quo tibi non solum gratias ago, imo me aliquando tibi relaturum spondeo quoque. Cèterum, quod in gratiam
+nostri Titi incastigati èditi ad finem tui adiecisti+2, displicere
+nequaquam potest; fieri tamen non potest, quin doleam, quod tam amice ac
+fraterne rogantem me et efflagitantem, quid dicam? expensarum
+supplecionem aliquo modo promittentem non audivit Thomas ille
+typographus+3, quo recognitum ac castigaciorem evolare faceret.
+Oportet igitur, necesse est, synodis mox futuris praecaveam, ne fratrum
+quisquam vel nostro vel Tigurinorum agro incastigatum hunc sibi coemat;
+synodum enim vestram proxime venturam visurum me spero+4.</p>
+<p>Losannae Christus libere denunciatur per Petrum Viretum, virum doctissimum iuxta ac piissimum, concione frequentissima+5.</p>
+<p>Negocium Roggenbachi(*orum*)+6 ad militum nostrorum reditum usque elongatum est. Audimus nescio minitaciones quas, ac ut ut minitantur, illud certo tibi dico, potius fèdera Helvetica nos rumpenda quam Roggenba(*chios*)
+necandos.</p>
+<p>Castrum Sillo expugnatum est+7. Tabellio ille+8 Tigurum hoc denunciaturus missus est.</p>
+<p>Posthèc, quia spero nos, nos Bernè inquam, conventuros atque de bonorum ecclesiasticorum usu comodiora consulturos, rogo igitur, hac in re quid sancte statuendum sit, consulere, idque hoc nuntio, velitis+9.</p>
+<p>Postremo, què misistis confessioni addenda nostrè+10, post abitum legati nostri Basileam+11 accepimus, quare hic nihil statuimus. Quatenus ad rem ipsam attinet, confessione nostra desiderari nobis plane non videtur
+quicquam, at non refragamur, ut hèc vestra adiiciantur, potius tamen
+per synonymiam quam rei necessitatem.</p>
+<p>Hèc sunt, què in prèsentiarum tibi nota volui. Bene vale, Bibliandro, custodi+12, Pellicano, fratribus salvis. Rhellicanus vos omnes salutat.</p>
+<p>Bernè, ultimo marcii anno 36.</p>
+<signature>
+Megand. tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinrycho Bullingero, fratri
+suo charissimo. Zurich.
+</address>
+</content>
+<note>
++1>Gemeint ist Bullingers im März erschienener Kommentar zu mehreren
+Paulusbriefen (HBBibl I 81; vgl. auch oben Nr. 770, 29-31).
++2>Am Ende seines Kommentars zum Titusbrief (aaO, f. 230r.-v.)
+weist Bullinger auf den Kommentar Meganders hin (zu diesem s. HBBW V,
+S. 225, Anm. 9) und erwähnt die Mängel jenes Werks, die auf
+ungenügender Durchsicht vor der Drucklegung beruhten.
++3>Thomas Platter.
++4>Zur Synode vom 9. Mai vgl. unten Nr. 803, Anm. 11.
+Ob Megander daran teilnahm, ist nicht bekannt.
++5>Viret, der vor Mitte März nach Lausanne gekommen war, predigte im
+Franziskanerkloster, aber auch auf
+den Strassen und in den Gasthäusern; vgl.
+<print>
+Jean  Barnaud,  Pierre Viret. Sa vie et son ^^^^^'EB.uvre
+(1511- 1571), Saint-Amans 1911 (Nachdruck: Nieuwkoop 1973), S. 128-130.
++6>Siehe oben Nr. 772, 33-39 mit Anm. 10.
++7>Das Schloss Chillon (Kt. Waadt) wurde am 29. März durch bernische
+Truppen eingenommen; vgl.
+Gilliard,  Conqu^^^^^'52.te 196-210.
++8>Unbekannt.
++9>Die Antwort auf diese Anfrage scheint nicht erhalten zu sein.
++10>Offenbar haben Leo Jud und Bullinger die Verbesserungsvorschläge
+zum Ersten Helvetischen Bekenntnis, die sie am 22. März an Myconius
+und Grynäus sandten (s. oben Nr. 768f), auch den Bernern zukommen lassen.
++11>Delegierter Berns zur Tagsatzung vom 27. März in Basel (s.
+oben Nr. 779, Anm. 2) war Peter von Werd.
++12>Stiftskustos Heinrich Utinger.
+;----------------------------------------------------------------------
+</print>
+</note>
+.im vorsp
+;----------------------------------------------------------------------
+</letter>

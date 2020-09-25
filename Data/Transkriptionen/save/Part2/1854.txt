@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1854">
+<nr>1854</nr>
+<correspondents>
+	<originator>Eberhard von Rümlang</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>22. Februar 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2803 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 52^&x{
+<dr>Ungedruckt</dr>
+<re>Würde doch Bullinger von allen seiner Begabung entsprechend geschätzt! [Peter] Kunz, das Haupt der Buceraner, ist gestorben; nur wenige trauern ihm nach, und manche führen seine Erkrankung auf seine Verbitterung zurück. Ob er ersetzt werden soll, ist offen, da drei Pfarrer eigentlich genügen und eine Wahl kaum einstimmig erfolgen könnte; bittet Bullinger, [den zwinglisch Gesinnten] nötigenfalls beizustehen. Rümlangs [vorausgegangenes] Schreiben [Nr.^#. 1841] soll vertraulich bleiben; hat eingesehen, dass die dort skizzierten Vorschläge nicht umsetzbar sind. Bei der Widmung [des Buches gegen Cochläus] mag Bullinger nach eigenem Gutdünken verfahren; man schätzt hier essbare Gaben mehr als literarische. Grüße.
+</re>
+<tx>Gratia et pax a domino, Bullingere doctissime et omnibus
+modis integerrime et maxime; agnosco siquidem dei in te
+dotes et tua scripta nil nisi divinum spirantia. Utinam ab
+omnibus talis habereris, qualis es! Faceret enim ad gloriam
+dei illustrandam et ut dona eius magis amplecterentur etc.
+^$Obiit Conzenus,<f1>Peter Kunz war am 11. Februar gestorben; s. oben Nr. 1841, Anm. 66.<fe> Buceranorum magnum praesidium. Paucos
+audio, qui merore afficiantur. Deus omnibus sit propitius.
+Nulla spes erat resipiscentię eius; eo acerbitatis
+evaserat, quod tanta sentiebat obstacula et quod obtinere
+nisi in praecipuis nequibat. Non desunt, qui hoc praecipuam
+morbi eius causam existiment etc.
+^$Non adhuc audivi, quod in locum eius successurus sit alius, nisi concionatores nostri conquerantur de negotiorum nimium ardua mole; contenti siquidem ut et antea tribus<f1>Erasmus Ritter, Simon Sulzer und Beat Gering.<fe> erimus. Veremur quoque
+suffragiorum sententias non consonas fore; in silentio
+itaque nos continemus etc. Queso, tu nobis semper adesse
+digneris, si quid accidat, et sis nostrum praesidium.
+^$Obtestor, ne ineptias meas<f1>Oben Nr. 1841.<fe>, quas tumultuario adolescenti<f1>Unbekannt.<fe> dictaram, nemini ostendas et in sinum tuum fideleque pectus missa nemini communices. Exemisti mihi prorsus conceptam
+sententiam resarciendę veritatis;<f1>Rümlang bezieht sich auf Bullingers Antwortschreiben, oben Nr. 1842.<fe> novi tamen paucos vere
+amicos existere, in eis ergo nullam spem esse collocandam etc.
+^$De nuncupatione libri tui facias, quicquid lubeat.<f1>Vgl. oben Nr. 1842, 9-14 und Anm. 6.<fe> Hoc novi
+omnes apud nos capone et esculentis aliis, quę ad
+ingluviem et delitias faciant, plus capi quam literariis muneribus.
+^$Omnes vos omnes salutamus, quotquot deo vere militamus.
+^$Datum Bernę, 22. februarii anno 1544.
+<un>Tuus Eber. a Rumlang.
+<lz>[Adresse auf der Rückseite:] Fidelissimo et vigilantissimo virod. Heinricho Bullingero, suo in domino patrono et fratri charissimo etc.
+</content>
+</letter>

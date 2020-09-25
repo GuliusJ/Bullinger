@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1392">
+<nr>1392</nr>
+<correspondents>
+	<originator>[Johannes Comander]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>16. Mai 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 14 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 30</vo>
+<re>Dankt für Bullingers Brief und für die Betreuung von Johannes Pontisella, der die Freundlichkeit des Propstes [Felix
+Frey?], Bullingers und aller anderen kürzlich in Chur sehr gelobt hat; hofft, daß ihr Einsatz beim Jüngling Früchte tragen
+wird. Ist zufrieden, daß Reformation und Schule einigermaßen gedeihen. Hat den Briefüberbringer, einen frommen und gelehrten
+Arzt aus Mailand [Ortensio Lando?], der um ein Empfehlungsschreiben nach Zürich bat, zu Bullinger geschickt;
+er wird Genaues über Italien berichten können. Grüße. Falls das in Bern umlaufende Gerücht [über einen Brief Bucers an
+Comander], von dem Luzius Tscharner seinem Sohn [Hans Tscharner] in Chur schrieb, auch den Zürchern zu Ohren kommt, möchte er Gelegenheit zur Stellungnahme erhalten.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 20f, Nr. 17.]
+</content>
+</letter>

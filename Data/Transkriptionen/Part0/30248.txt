@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="30248">
+<nr>30248</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Wilhelm Klebitz</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>20. März 1560</date>
+</space_time>
+<vo>Thüringisches Hauptstaatsarchiv Weimar, Reg. N 639, fol. 1 / Xerokopie abgelegt unter Bibliotheken/Archive Deutschland <f1>^&xErnestinisches Gesamtarchiv?<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Regest</re>
+<tx>[...]
+^$Scripsi hac hyeme 6 libros contra anabaptistas, de omnibus eorum sectis et
+dogmatibus, quae et pro meis viribus concessis a domino confutavi nostrasque
+ecclesias veras esse ostendi. Scripsi illos Germanica lingua; spero brevi per
+Iosiam nostrum convertendas[-os?] in Latinam. Videbunt autem illi, qui nos subinde annumerant anabaptistis et aliis sectariis, quam graviter contra veritatem peccent. Et quidem intelligimus magis atque magis hostes nostros plurimum apud multos efficere, quod persuadent suis nos in multis facere cum anabaptistis et anabaptistico spiritu rapi.
+Videbunt illi, quam turpiter fallantur. Interim volui et simpliciores monere, ne sinant sibi imponi a loqutuleis illis anabaptistis.
+[...]
+<lz>Adresse auf der Rückseite: ...
+</content>
+</letter>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2015">
+<nr>2015</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Bonifacius Amerbach</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>18. Oktober 1544</date>
+</space_time>
+<vo>Autograph: Basel UB, Ms Ki. Ar. 18a, 93 (Siegelabdruck)</vo>
+^&xZusammenfassendes Regest: Amerbach, Korr. VI 59 (ungedruckt!) in: BA an HB, 13. Okt. 1544^&x{
+<dr>Ungedruckt</dr>
+<re>Dankt für Amerbachs Brief [oben Nr. 2011], der ihm vor allem deshalb willkommen war, weil Amerbach Bullingers Schreiben [oben Nr. 2009] wohlmeinend aufgenommen hat. Empfiehlt erneut den gemeinsamen Freund [Leonhard] Hospinian, der Schutz bei Amerbach sucht und eine vom [Zürcher] Rat verfasste Prärogative mit zum Rat [nach Basel] bringt, wie Amerbach es geraten hatte. [Christus] möge die Freundschaft, die Amerbach ihm entgegenbringt, erhalten und sie beide nach dem Tod zu sich nehmen.
+</re>
+<tx>S[alutem] d[ico].
+^$Gratissimae mihi fuerunt literae<f1>Oben Nr. 2011.<fe> tuae, vir
+clarissime idemque mihi colendissime domine, non tam quod
+pulchre et pro voto postulationi meae responderis, quam quod
+meas<f1>Oben Nr. 2009.<fe> boni consulueris. Pro illa tua humanitate ago tibi
+gratias immortales, atque me interim et omnia mea tibi
+vicissim et tuis offero; fideliter et animo subiturus
+promptissimo, quodcumque mihi imposueris.
+^$Rursus autem commendo tibi Hospinianum, amicum communem
+- alioqui, sat scio, tibi commendatissimum - et virum optimum.
+Nam in te praesertim maximum collocat praesidium. Adfert
+clarissimo senatui Basiliensi praerogativam<f1>Das Konzept der Prärogative ist im Zürcher Missivenbuch überliefert (Zürich StA, B IV 15, f. 141f).<fe> ab amplissimo
+senatu nostro, quemadmodum consulebas. Libenter enim bonorum
+virorum consiliis obsequitur.
+^$Caeterum afferit me id prae caeteris perquam suaviter, quod
+intelligo amplissimum esse tuum in me studium. Faxit is, qui
+summa charitas est, ut syncerissima dilectione nos mutuo in
+hisce terris complectentes, tandem, ubi hinc solverimus, ad
+eum transferamur, qui Christianae dilectionis et perfectio
+et bravium<f1>Vgl. Phil 3, 14.<fe> est. In quo te recte valere cupio, vir clarissime
+mihique semper suspiciende.
+^$Tiguri, 18. octobris anno 1544.
+<un>Tuus ex animo Heinry-­
+<un>chus Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. d[octori] Bonifacio Amerbachio, domino suo semper
+colendissimo.
+</content>
+</letter>

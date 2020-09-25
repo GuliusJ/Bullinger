@@ -24,7 +24,6 @@ matplotlib.use('agg')
 ADMIN = 'Admin'  # username (setup)
 
 
-
 class BullingerDB:
 
     def __init__(self, database_session):

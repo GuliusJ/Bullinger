@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2462">
+<brief>
+<id>16152</id>
+<nr>2462</nr>
+<ae>Johannes Haller an Bullinger</ae>
+<od>Augsburg, 17. Juni 1546</od>
+<vo>Autograph: Zürich StA, E II 370, 12 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 129; TÜ: Niehans, in: Zwa 8 249</k></dr>
+<re>Noch vor wenigen Tagen konnte Haller in einem Brief [nicht erhalten] an Rudolf [Gwalther] nichts Konkretes vermelden. Jetzt sind die [Verhältnisse] klar, doch muss er sich kurz fassen, weil der Bote [...] drängt.
+<t/>Das Verhalten des Kaisers [Karl V.] auf dem Regensburger [Reichstag] kann nichts anderes bedeuten als einen unmittelbar bevorstehenden Krieg. Es soll Musterungen in Füssen, Nördlingen und auch in Donauwörth geben, um dort den Nürnbergern und den Ulmern den Zugang nach Augsburg zu verwehren. Augsburg wird wohl zum ersten Angriffsziel werden. Einige [Augsburger] Räte fürchten sich, die Bevölkerung ist beunruhigt. [Sebastian] Schertlin hat 2'000 Soldaten geworben. Genausoviele wurden von anderen Heerführern ausgehoben. In das Territorium des Landgrafen [Philipp von Hessen] drangen 1'500 Reiter ein, die früher schon Ausfälle in der Gegend von Köln gemacht hatten. Kurfürst [Johann Friedrich] von Sachsen ist gerüstet und will sich [Philipp von Hessen] anschließen. Herzog Moritz [von Sachsen] hat gegenüber [Karl V.] in Regensburg beteuert, dass er der Wahrheit [des Evangeliums] treu bleiben wird. So bricht in ganz Deutschland der Krieg aus. Man spricht auch von einem direkt gegen Augsburg ziehenden italienischen Heer des Kaisers. Zudem hätten [Schiffe] mit einigen tausend Spaniern in den Niederlanden angelegt. Sogar [Sultan Suleiman I.] soll in Waffen stehen.
+<t/>Bullinger soll im Hinblick auf das kürzlich nach Zürich geschickte [Augsburger] Hilfsgesuch die [Eidgenossen], die ja ebenfalls zu Deutschland gehören und bald auch betroffen sein könnten, ermahnen, nicht tatenlos zuzusehen. Schließlich geht es um die Wahrheit!
+<t/>Schon fliehen viele aus der Stadt und überweisen ihr Geld. Doch Haller [und die Seinen] bleiben stark. So trennt sich die Spreu vom Weizen!
+<t/>Könnte Haller doch seine schwangere Frau [Elsbeth, geb. Kambli, sowie das Töchterchen Agnes] nach [Zürich] schicken, damit er im schlimmsten Falle [allein] besser agieren kann!
+<t/>Bullinger soll ihn baldmöglichst via Konstanz über die Gesinnung der Eidgenossen informieren, denn die [Augsburger] verlassen sich auf deren Treue.</re>
+<text>
+<p>Salus et vita per Christum. <zzl>zl16152-2A</zzl>Scripsi his diebus Gvalthero,
+<fn>Nicht erhalten. - Wir danken Herrn Kurt Jakob Rüetschi für freundliche Auskunft.</fn> fratri nostro,<zzl>zl16152-2E</zzl> in quibus nihil eorum, quae nunc prae manibus sunt, significare potui, quia dubia erant omnia. Nunc ergo ad te pauca haec. Festinat enim abire tabellarius
+<fn>Unbekannt.</fn> et has meas expectat. Ignosce ergo, quia turbulentius scribo.</p>
+<p>Urbs nostra tota commota est. Caesar
+<fn>Karl V.</fn> Ratisponae
+<fn>Auf dem Regensburger Reichstag.</fn> ita agit, ut nihil possimus nobis quam praesentissimum promittere bellum. <zzl>zl16152-1A</zzl><zzl>zl16152-8A</zzl>Indixit dry musterpletz: F{ue}ssen, Werdt
+<fn>Donauwörth.</fn> und Nördlingen.
+<fn>Siehe <a>Paulus, Schertlin</a> 51f; <a>RTA-JR</a> XVII 335. 434, wo allerdings Nördlingen fehlt und teils noch andere Orte genannt werden.<zfn>fn16152-3</zfn></fn><zzl>zl16152-1E</zzl> Confluunt illic milites multi. Omnes existimant Augustam primo incursu obsidendam. Werdam ideo elegit, ut transitum
+<fn>Auf den Wasserwegen Donau und Lech.</fn> prohibeat Ulmensibus et Noricis ad Augustam.<zzl>zl16152-8E</zzl> Magistratus noster ex parte pusillanimis, sed animamus eos, quantum in nobis est. <zzl>zl16152-4A</zzl>Pleps commota.<zzl>zl16152-4E</zzl> Milites etiam apud nos colliguntur. <zzl>zl16152-7A</zzl>Schertlius 2'000 colligit,
+<fn>Zu Schertlins Rüstungen s. <a>Herberger, Schertlin</a> LXXX-LXXXII.</fn> alii item duces quoque.<zzl>zl16152-7E</zzl> Circa Coloniam 1'500 equites iam diu discursibus factis iam in langrafii
+<fn>Philipp von Hessen.</fn> irruperunt ditionem. Elector Saxoni{e}
+<fn>Johann Friedrich I. von Sachsen.</fn> in armis est, langrafio se iuncturus. Dux Mauricius
+<fn>Moritz von Sachsen.</fn> Ratisponae caesari dixit aperte se veritatem non derelicturum, quoad vivat.
+<fn>Siehe dazu Erich <i>Brandenburg,</i> Der Regensburger Vertrag zwischen den Habsburgern und Moritz von Sachsen (1546), in: Historische Zeitschrift 80, 1898, 14. 18 und passim.<zfn>fn16152-1</zfn></fn> Sicque ubique per Germaniam incenditur bellum. Aiunt parari in Italia exercitum magnum, quem imperator recta contra urbem nostram sit ducturus.
+<fn>Vgl. den Brief von Konstanz an Zürich, 2. Juli 1546 (Zürich StA, A 205/1, Nr. 215), wo berichtet wird, dass 20'000 Italiener sich in Mailand befänden und vom Kaiser für einen Krieg gegen die Lutheraner bestimmt wären.</fn> Aliquot millia etiam Hispanorum in Inferiore appulisse Germania. Turcam
+<fn>Sultan Suleiman I.</fn> etiam quidam in armis esse ferunt.</p>
+<p><zzl>zl16152-12A</zzl>Missus hac septimana ad vos nuncius
+<fn>Der unbekannte Überbringer des Augsburger Schreibens an die Zürcher mit der Bitte um Entsendung von Hilfstruppen; s. dazu <qv>nr2460</qv>,<qv>zl16148-1</qv>.<zfn>fn16152-4</zfn></fn> auxilium imploraturus vestrum. Fac ergo, obsecro, horteris fortiter tuos
+<fn>Die Eidgenossen.</fn>, <zzl>zl16152-5A</zzl>ne Germani{e}, cuius et ipsi pars sunt, interitum ita quieti sedentes spectent. Scitis, Germania subacta quid vobis sit expectandum.<zzl>zl16152-5E</zzl><zzl>zl16152-12E</zzl> Adhaec pro veritate hic dimicatur, non pro ullis terrenis possessionibus.</p>
+<p><zzl>zl16152-11A</zzl><zzl>zl16152-6A</zzl>Nos erimus fortes in domino, licet <zzl>zl16152-3A</zzl>diffugiant multi iam ex urbe nostra et suas dimittant pecunias.
+<fn>Vgl. <a>Roth, Augsburg</a> III 361-363.</fn><zzl>zl16152-3E</zzl><zzl>zl16152-6E</zzl> <zzl>zl16152-9A</zzl>Spero tamen dominum tanto magis nos liberaturum, quanto magis paleae hae a tritico segregantur
+<fn>Vgl. Mt 13, 38.</fn>.<zzl>zl16152-9E</zzl> Ego itaque paratus sum pro domino meo Iesu Christo mori, quando velit, et ago illi gratias, quod se mihi manifestarit.
+<fn>Hallers Standhaftigkeit ist auch in anderen Quellen belegt; s. <a>Roth, Augsburg</a> III 352f.<zfn>fn16152-2</zfn></fn> Hunc summum thesaurum meum esse duco.<zzl>zl16152-11E</zzl> Tu ora pro nobis cum omnibus tuis dominum.</p>
+<p>Utinam familiam meam
+<fn>Hallers Frau Elsbeth, geb. Kambli, und Töchterchen Agnes; s. <a>HBBW</a> XVI 77, Anm. 3.</fn> possem dimittere ad vos, si altius ingruerint mala, quo fortius agere possem! Valde enim eorum me commovet aspectus. <zzl>zl16152-10A</zzl>Sed uxori iam instat partus
+<fn>Hallers Sohn, der ebenfalls den Namen Johannes erhielt, wurde in der Nacht vom 23. auf den 24. Juli 1546 geboren; s. <qv>nr2511</qv>,<qv>zl16201-1</qv>; die Notiz Wolfgang Hallers unter dem 24. Juli 1546, in: Kalender für die Jahre 1544 bis 1546, Zürich ZB, Ms D 269/3: "Natus fratri nostro filius Augusti{e} Vindelicorum". - Johannes Haller d.J. wurde später Pfarrer an verschiedenen Orten und wirkte zuletzt von 1580 bis 1586 am Berner Münster. Er starb am 14. Oktober 1595; s. <a>Bähler, Haller</a> 29, Anm. 110; <a>Pf-Bern</a> 32. 35. 72. 109. 160. 349.<zfn>fn16152-5</zfn></fn>; sic deo placuit.<zzl>zl16152-10E</zzl></p>
+<p>Rogo, rescribe, quamprimum potes Constantiam saltem missis literis, ut, quid Helvetii in animo habeant, sciam. Nostra enim urbs plurimum eorum innititur fidei.</p>
+<p>Vale. Augustae Vindelicorum, 17. iunii 1546.</p>
+<un>Tuus totus Ioan. Hallerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero, domino et patri suo colendo. Tiguri. Zürich an m. Heinrych Bullinger.</p>
+</text>
+</brief>

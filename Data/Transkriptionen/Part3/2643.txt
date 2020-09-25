@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2643">
+<brief>
+<id>16333</id>
+<nr>2643</nr> <from persid="HallerJohannes"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-10-25"/>
+<ae>Johannes Haller an Bullinger</ae>
+<od>[Augsburg], 25. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 370, 42 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms 62, 40 [25. Oktober 1546]; erw.: Henrich: Vom Luftikus..., in Bächtold: Von Cyprian... 2001, 77</k></dr>
+<re><t>Haller hat zwar erst gestern [mit <qv>nr2640</qv>] durch [Sebastian] Lepusculus und [Hieronymus] Gunz geschrieben, nutzt aber auch die jetzige Gelegenheit für einen Brief, da dieser Junge [...] nach Zürich reist.</t>
+<t>Hallers häufige Schreiben sind ein Beweis für seine Zuneigung zu Bullinger. Von diesem hat er leider seit Wochen nichts mehr erhalten. Deshalb kann er auch nicht die vielen falschen Gerüchte, die über die Eidgenossen grassieren (u.a., dass diese sich erneut bekriegen) mit verbürgten Angaben [aus Bullingers Briefen] widerlegen. Bullinger möchte bald berichten.</t>
+<t>Auf [schmalkaldischer] Seite ist die Lage wie kürzlich beschrieben. Inzwischen erhielten die Ratsherren eine noch ganz ungewisse Meldung aus dem Feldlager. Angeblich haben die [Schmalkaldener] in einem Gefecht am 21. Oktober unter Gewinn zahlreicher Geschütze kaiserliche Reitergeschwader in die Flucht geschlagen. [Eriprando] von Madruzzo (der Bruder des Kardinals von Trient [Cristoforo Madruzzo]), und [Gian Giacomo de' Medici, Kastellan von] Musso (der alte Feind der Eidgenossen) sollen daraufhin einen heftigen Angriff lanciert haben, dabei aber mit zwei weiteren Grafen [... von Bremen sowie Vladislaus von Bernstein] und 300 Pferden ums Leben gekommen sein. Es gilt als verbürgt, dass die Schlacht zahlreiche Todesopfer forderte und die Beute der [Schmalkaldener] groß war. Einzelheiten sind jedoch noch unbekannt, auch wenn davon sowohl im Feldlager als auch in Augsburg gesprochen wird.</t>
+<t>Die [Kaiserlichen] hatten vor, einen gefangenen Kavallerie-Obristen des Kaisers [Karl V.] namens Hannibal [Guerini] für 15'000 Gulden freizukaufen, doch die [Schmalkaldener] wollen ihn noch festhalten.</t>
+<t>Verbürgt sind die vielen Pestopfer und Desertionen unter dem kaiserlichen [Kriegs]volk. Umherirrende [Italiener] werden von den Bauern umgebracht oder gefangen nach Augsburg geführt.</t>
+<t>Der junge Überbringer [... Schweiglin] aus einer ehrbaren Augsburger Familie sei Bullinger und [Rudolf] Gwalther empfohlen. Sein Vater [Hans] ist oberster Zunftmeister, gleich nach den Bürgermeistern [Georg Herwart und Simprecht Hoser]. Seine fromme Mutter [Barbara, geb. Seitz] ist [Ambrosius] Blarer ganz ergeben.</t>
+<t>[Hans] Vogler d.J. ist wie immer: Sobald man ihm seine Freiheiten lässt, wird er [übermütig].</t>
+<t>Grüße an [Konrad] Pellikan, Theodor [Bibliander], [Rudolf] Gwalther und an die anderen, an Anna [geb. Adlischwyler] und an die Familie. Grüße von Hallers Freunden [Michael] Keller, Bernardino [Ochino] und Sixt [Birck].</t></re>
+<text>
+<div>
+<p>S. a deo patre per dominum nostrum Iesum Christum. <zzl>zl16333-1A</zzl>Quamvis pridie per Lepusculum et Guntium ad te dederim literas
+<fn>Brief <qv>nr2640</qv>, der am 23. Oktober geschrieben wurde und dem Wort "pridie" zufolge am 24. Oktober abging. - Zum Zweck dieser Reise von Sebastian Lepusculus und Hieronymus Gunz s. <qv>nr2612</qv>, <qv>fn16301-9</qv> und <qv>fn16301-5</qv>.</fn>,<zzl>zl16333-1E</zzl> tamen non possum etiam nunc hanc dimittere occasionem <zzl>zl16333-5A</zzl>(cum adolescens hic
+<fn>[...] Schweiglin; s. unten Z. <qv>zl16333-2</qv> und <qv>fn16333-5</qv>.</fn> ad vos sit profecturus)
+<fa><i>Klammern ergänzt.</i></fa>,<zzl>zl16333-5E</zzl> quin vel aliquid saltem scribam.</p>
+</div>
+<div>
+<p>Licet vero non habeam novitates satis compertas, erit tamen haec literarum mearum frequentia
+<fn>Allein aus dem Monat Oktober sind mit diesem Brief sechs Schreiben Hallers an Bullinger erhalten.</fn> indubitatum mei erga te studii argumentum. <zzl>zl16333-6A</zzl>Miror autem, qui fiat, quod aliquot iam septimanis nullas abs te habuerim literas, quas anxius expecto.<zzl>zl16333-6E</zzl> <zzl>zl16333-7A</zzl>Tam enim innumera de Helvetiis sparguntur mendacia (quod scilicet sint contra se mutuo iterum
+<fn>In Bezug auf den Zweiten Kappeler Krieg.</fn> in armis),<zzl>zl16333-7E</zzl> ut, cum ego neutiquam credam haec omnia, non possim tamen certo, qui nihil a vobis habeam, haec refellere. Obsecro ergo, ut me reddas de singulis his certiorem.</p>
+</div>
+<div>
+<p>Res nostrae habent, ut nuper scripsi
+<fn>Mit <qv>nr2640</qv>.</fn>. Interim hoc tantum ad nos pervenit et dominis nostris ab exercitu scriptum est, licet ita, ut etiam in exercitu adhuc dubitetur, verumne sit necne.
+<fn>Tatsächlich vermischen sich in den darauffolgenden Meldungen die verbürgten Kämpfe vom 21. Oktober (s. schon <qv>nr2640</qv>,<qv>zl16330-14</qv> und unten Z. <qv>zl16333-3</qv>) mit einem falschen Gerücht über den Tod der unten Z. <qv>zl16333-4</qv> genannten kaiserlichen Feldherren.</fn> <zzl>zl16333-8A</zzl>Sed constans in exercitu rumor est in conflictu aliquot turmarum equitum 21. octobris nostros in fugam pepulisse caesareanos eosque privasse multis tormentis maximis optimisque. <zzl>zl16333-4A</zzl>Quod, ubi cognoverint, der herr von Madrutsch
+<fn>Eriprando (Aliprando; Hildebrand) Madruzzo, kaiserlicher Oberst, Bruder des Trienter Kardinals Cristoforo Madruzzo. Eriprando starb erst am 17. oder 18. Februar 1547 in Ulm; s. <a>Mameranus, Exerc.</a> 34; <a>NBD</a> IX 482, Anm. 3.<zfn>fn16333-1</zfn></fn> (ist deß cardinals
+<fn>Cristoforo Madruzzo.</fn> br{uo}der von Trient, ein listiger kriegsman)
+<fa><i>Hier und unten Klammern ergänzt.</i></fa> und der Müßer
+<fn>Marchese Gian Giacomo de' Medici di' Marignano, Kastellan von Musso. Er gehörte zu den Generälen Karls V.; s. <a>Mameranus, Exerc.</a> 2. 33. Zu ihm im Schmalkaldischen Krieg s. bereits <a>HBBW</a> XVII, Reg.; zu seiner Feindschaft mit den Eidgenossen s. <a>HBBW</a> V 162f, Anm. 12. - Er starb im Jahr 1555.<zfn>fn16333-2</zfn></fn> (vetus ille Helvetiorum hostis), habind si so hefftig mitt den iren dringsetzt, das si beid erschlagen syend undt zwen fürnem grafen
+<fn>Ein Graf von "Premen" (Bremen) und ein Graf von "Bernekh" (Berneck) laut dem Bericht von Heinrich Thomann aus dem Lager bei Giengen an den Rat von Zürich vom 30. Oktober 1546 (Zürich StA, A 177, Nr. 112). Demnach hatte ein Krämer aus Lauingen, der das kaiserliche Lager beliefert hatte, von diesen vier Gefallenen berichtet, welche man mit 200 Pferden aus dem Lager nach Dillingen geführt und dort begraben hätte. - Mit dem Grafen von Berneck bzw. Bernstein (vgl. <qv>nr2646</qv>,<qv>zl16336-2</qv>) ist wohl in Anbetracht von <a>Mameranus, Exerc.</a> 10 Vladislaus von Bernstein (Vratislav z Pernštejna, gest. 1582) gemeint. Wer mit dem Grafen von Bremen gemeint ist, bleibt allerdings offen. In einem späteren Brief Thomanns vom 4. November (aaO, Nr. 124) wird anstelle des Grafen von Bremen der "jung von Buren" genannt. In <qv>nr2646</qv>,<qv>zl16336-3</qv>, ist stattdessen ein Graf von Bayern erwähnt. - Mit dem jungen von Büren ist vermutlich der 1522 geborene Graf Lamoral von Egmont, Fürst von Gavre, gemeint, der viel jünger als sein um 1500 geborener Verwandter Maximilian Egmont von Büren war. Zu seiner Teilnahme am Schmalkaldischen Krieg s. <a>Mameranus, Exerc.</a> 27. Lamoral von Egmont starb erst 1568.<zfn>fn16333-3</zfn></fn> mitt inen, und bis in 300 pferd inen erlegt.<zzl>zl16333-4E</zzl> <zzl>zl16333-3A</zzl>Das ist gewüß, das der scharmütz gschehen, und so vil sind umbkommen, und die unseren vil roß und büchsen und mulesel gwünnen
+<fn>Auf kaiserlicher Seite berichtete der bayerische Rat Bonacorsi Gryn über den Verlust von 50 Mauleseln an die Feinde, bezog sich dabei allerdings auf den 22. Oktober; s. <a>Viglius van Zwichem</a> 157, Anm. 46.<zfn>fn16333-6</zfn></fn>,<zzl>zl16333-3E</zzl> aber der personen halb weiß [man]
+<fa><i>Textverlust durch Siegelausschnitt.</i></fa> die eigenschafft
+<fn>Die Einzelheiten.</fn> noch nitt; man sagt es aber eigenlich
+<fn>doch, deutlich.</fn> imm l{ae}ger und auch hie.<zzl>zl16333-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16333-9A</zzl>Man hatt auch dem keiser
+<fn>Karl V.</fn> ein obersten über die reisigen
+<fn>Kavallerie.</fn> gfangen (heißt Hannibal)
+<fn>Zur Gefangennahme von Hannibal Guerini s. <qv>nr2639</qv>,<qv>zl16329-2</qv> mit <qv>fn16329-3</qv>.</fn>, für den man 15'000 fl. hatt wellen geben. Aber si
+<fn>die Schmalkaldener.</fn> wellind inn behalten uff witeren bscheid.<zzl>zl16333-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16333-12A</zzl>Das ist gwüß, das dem keiser sin volk hefftig stirpt und zerlaufft.
+<fn>Zu den Desertionen aus dem kaiserlichen Lager und zu der dort grassierenden Pest s. <qv>nr2606</qv>, <qv>fn16294-2</qv>; <qv>nr2607</qv>,<qv>zl16295-3</qv>; <qv>nr2612</qv>, <qv>fn16301-16</qv>.<zfn>fn16333-7</zfn></fn><zzl>zl16333-12E</zzl> Die Walchen
+<fn>Welschen, d.h. Italiener.</fn> werind gern heim. Verirrend
+<fn>(Sie) irren (streifen) umher.</fn> wie die kryen
+<fn>Krähen, oder auch Kraniche; s. <a>SI</a> III 805. 826.</fn> imm landt. Die puren metzgend
+<fn>niedermetzeln, morden; s. <a>SI</a> IV 625.</fn> ir vil, wo si hinkommend, und bringend ir teglich vil inn d'statt gfangen. Haec nunc, quae vos scire volui, habui.</p>
+</div>
+<div>
+<p><zzl>zl16333-2A</zzl>Commendo tibi et Gvalthero hunc iuvenem
+<fn>Der schon oben in Z. <qv>zl16333-5</qv> erwähnte [...] Schweiglin. - Es kann sich dabei nicht um denjenigen Sohn derselben Familie handeln, der erst 1558 in Straßburg studierte (s. dazu <a>Blarer BW</a> III Reg.), wohl aber um einen der zwei Söhne, die von Hans Schweiglin und dessen Frau kurz nach dem 9. Mai 1546 nach Konstanz begleitet wurden (s. Johann Flinner an Ambrosius Blarer, 9. Mai 1546, in: <a>Blarer BW</a> II 441f), vermutlich zu einem Studium in der dortigen Lateinschule.<zfn>fn16333-8</zfn></fn> propter honestissimos eius parentes. Vix credo in Augusta tota magis piam inveniri familiam. Pater
+<fn>Hans Schweig(k)li(n), alias Schwei(c)kli(n), Sv(e)ic(k)lius; s. <qv>nr2663</qv>,<qv>zl16352-3</qv>. - Hans Schweiglin ist seit 1529 als Goldschmied in Augsburg nachgewiesen. 1539 Großer Rat. 1540-1547 Zunftmeister der Kaufleute, Kleiner Rat, "Dreizehner" und Einnehmer. Er wird wohl 1552 gestorben sein, da in diesem Jahr Pfleger für seine Kinder bestellt wurden. Im oben in <qv>fn16333-8</qv> erwähnten Brief Flinners wird er in Anlehnung an Mk 15, 42, und Joh 19, 38, als noch frömmer als Josef von Arimathäa eingeschätzt. - Lit.: August <i>Weiss,</i> Das Handwerk der Goldschmiede zu Augsburg bis zu 1681, Leipzig 1897, S. 234. 317; <a>Augsburger Eliten</a> 762; <a>Roth, Augsburg</a> III 413.<zfn>fn16333-5</zfn></fn> eius est tribunus maximus
+<fn>Tribunus maximus: Oberstzunftmeister; vgl. <a>Kirsch</a> 2877.</fn> post consules
+<fn>Als Augsburger Bürgermeister amtierten im Jahr 1546 Georg Herwart und Simprecht Hoser. Aber auch die Altbürgermeister Hans Welser und Jakob Herbrot werden in Bullingers Briefwechsel von 1546 wiederholt als Bürgermeister bezeichnet; s. <a>HBBW</a> XVII 98, Anm. 45.<zfn>fn16333-4</zfn></fn>. Mater
+<fn>Barbara, geb. Seitz; s. <a>Augsburger Eliten</a> 762.<zfn>fn16333-9</zfn></fn> piissima et tota Blaureriana
+<fn>tota Blaureriana: ganz Blarer ergeben. - In der zweiten Hälfte des Jahres 1539 hatte Ambrosius Blarer in Augsburg gewirkt; s. <a>Pressel, Blarer</a> 445.</fn>.<zzl>zl16333-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16333-10A</zzl>Voglerus
+<fn>Hans Vogler d.J., der vor kurzem in der Stadtkanzlei von Augsburg angestellt worden war; s. <qv>nr2631</qv>,<qv>zl16321-4</qv>; <qv>nr2639</qv>,<qv>zl16329-1</qv>.</fn> antiquum obtinet. Sobald imm der lufft wirt,
+<fn>Zu verstehen: Sobald er wieder Spielraum hat; s. <a>SI</a> III 1158.</fn> springt er wie ein gemms.<zzl>zl16333-10E</zzl></p>
+</div>
+<div>
+<p>Vale. Saluta d. Pellicanum, Theodorum
+<fn>Theodor Bibliander.</fn>, Gvaltherum aliosque dominos et fratres charissimos, uxorem
+<fn>Anna geb. Adlischwyler.</fn> item et familiam tuam honestissimam. <zzl>zl16333-11A</zzl>Salutat te Cellarius
+<fn>Michael Keller.</fn>, Bernhardinus
+<fn>Bernardino Ochino.</fn> et Xystus
+<fn>Sixt Birck.</fn>, amicissimi mei.<zzl>zl16333-11E</zzl> 25. octobris 1546.</p>
+<un>Ioan. Hallerus, tuus totus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Fidelissimo Tigurinae ecclesiae pastori d. Heinrycho Bullingero, domino patrique suo venerando. Zürich an m. Heinrych Bullinger.</p>
+</div>
+</text>
+</brief>

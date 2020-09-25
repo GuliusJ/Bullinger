@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2303">
+<nr>2303</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>4. Dezember 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 134 (Siegelspur)</vo>
+^&xKopie 18. Jh.: Zürich ZB, MS S 58, 135; Erw. Jenny, in HBGesA II 83; Bullinger berichtet über alle Verhandlungen, einen (zürcherisch gesinnten) Prädikanten für Augsburg zu gewinnen. ^&x{
+<re>Vadian soll das Büchlein [die Augsburger Gottesdienstordnung?]<f1>Siehe oben Nr. 2295, Anm. 1.<fe> [zurückschicken] und seine Meinung dazu [äußern]. [Wolfgang] Musculus beschwert sich zu Unrecht, dass Bullinger es war, der [Johannes] Haller nach Augsburg geschickt hätte. Zunächst hatte Georg Frölich Bullinger brieflich gebeten [Nr. 2164], ihm einen treuen und sanftmütigen Mann für die Augsburger Kirche vorzuschlagen. Daraufhin empfahl Bullinger den nur ungern bei Graf Georg von Württemberg tätigen Matthias Erb (dies sei allein Vadian anvertraut). Dann wurde Bullinger vom Augsburger Rat mit einem auf Pergament verfassten, offiziellen Schreiben [Nr. 2204] gebeten, Erb zur Annahme des Rufes nach Augsburg zu bewegen; jedoch vergebens. Bullinger benachrichtigte den Augsburger Rat [nicht erhalten] über Erbs Absage, was der Rat ihm verdankte [nicht erhalten]. Im September kam dann Frölich zu Besuch nach Zürich und bat im Namen des Augsburger Rats um einen gemäßigten Zürcher Prediger. Nach Frölichs Abreise berieten sich die Zürcher und schrieben Frölich, dass sie dem Wunsch der Augsburger nicht nachkommen könnten. Doch ehe die Briefe in Augsburg eintrafen, sandte der Augsburger Rat einen Boten [...] an den Zürcher Rat mit einer erneuten Bitte um einen Prediger<f1>Siehe oben Nr. 2270, Anm. 7; 2285, Anm. 2.<fe>. Der Rat Zürichs bat daraufhin Bullinger, einen Kandidaten zu stellen.<f1>Siehe oben Nr. 2264, Anm. 25.<fe>Der Augsburger Bote wartete ganze acht Tage in Zürich auf den Bescheid; und so kam es, dass [Johannes] Haller nach Augsburg entsandt wurde.
+-^#. Hallers Begleiter [Huldrych Zwingli d.J. und Hans Wilpert Zoller] erzählten bei ihrer Rückkehr, dass dieser ehrenvoll empfangen wurde. Dies bezeugen auch die an Bullinger gerichteten Briefe von [Hans] Welser [Nr. 2293], [Georg] Frölich [Nr. 2289. 2294], [Claudius Pius] Peutinger [Nr. 2291] und Nikolaus [Müller gen.] Maier, dem ehemaligen Kanzler Herzog Ulrichs von Württemberg. Auch andere Brüder [u.a. Ambrosius Blarer]<f1>Vgl. oben Nr. 2286, 10-12.<fe> haben ihre Freude über diese Entsendung ausgedrückt.
+-^#. Haller wurde auch an Musculus empfohlen [Schreiben nicht erhalten]. Dieser zeigte sich in seiner Antwort [Nr. 2287] über diese Entsendung wenig erfreut, wurde aber von den Bürgermeistern [Jakob Herbrot und Hans Welser] zurechtgewiesen.<f1>Vgl. oben Nr. 2294, 5-9.<fe> Bullinger wird Musculus freundlich antworten<f1>Bullinger antwortete Musculus aber erst am 18. Februar 1546 (Zürich StA, E II 345, 355), nachdem ihm Musculus am 4. Januar 1546 ein zweites Mal geschrieben hatte (Zürich StA, E II 360, 79).<fe>, auch wenn er sich gewünscht hätte, dass [Prediger] wie Musculus [in ihren Predigten deutlicher] wären. Einige Glaubenspunkte werden nämlich von der Obrigkeit und vom Volk viel besser verstanden, als die Prediger sie auslegen.
+-^#. [Haller] hat am 22. November in der Kirche [St. Moritz] zum ersten Mal gepredigt. Ob er in Augsburg bleiben wird oder will, ist offen. Darf er die Wahrheit sagen, bleibt er. Sollte Musculus ihm aber Schwierigkeiten machen, kommt er zurück, um die dortige Kirche nicht zu stören. Hätte der Buceraner Musculus wirklich die Zustimmung der Stadt gehabt, hätte diese nicht nach [Haller] gefragt. Letzterer wird sich als gemäßigt erweisen und auch versuchen, Musculus zu gewinnen. Auch Bullinger wird für Eintracht sorgen.
+-^#. Bullinger leidet an schrecklichen Kopfschmerzen.
+-^#. [Johannes] Herwagen und [Johannes] Oporin waren zu Besuch in Zürich. Sie erzählten von einem spanischen Bischof [Pedro de Malvenda], der in großem Prunk durch Basel gezogen ist. Vadian soll Myconius' Brief [Nr. 2301], den Herwagen und Oporin mitgebracht haben, lesen und wieder zurückschicken.
+-^#. [P.S.:] Vadian möge den für Frölich bestimmten Brief [nicht erhalten] nach Augsburg weiterleiten. Sollten sich in [St. Germain] keine Boten für Augsburg finden lassen, soll Vadian den Brief an [Ambrosius] Blarer in Konstanz senden. Bullinger hat den [Boten Alexius] Knoblauch wohl zwei Stunden in Zürich aufgehalten.</re>
+<dra>[Gedruckt: Vadian BW VI 478-480, Nr. 1435.]</dra>
+^&x<tx>G[ratiam] et p[acem].
+^$Libellum simul cum iudicio tuo, vir humanissime, expecto.
+Non ego Hallerum misi, sicut queritur Musculus; sed ut rem omnem intelligas, ita habet res:
+Scripsit privatim ad med. Georgius Laetus<f1>Georg Frölich.<fe>; postulavit doctum aliquem, fidum
+et mansueti ingenii virum, si quem nossem, indicarem, quem Augustani possent praeficere ecclesiae suae.
+Ostendid. Matthiam Erbium (quod tibi soli dictum volo), invitissime agentem apud Georgium Wirtenbergensem.
+Mox consul et senatus scriptis signatisque literis e pergameno confectis postulant,
+ut tentem, si forte illum commovere possim. Tentavi, sed frustra.
+C[aus]as scripsi senatui. Rursus ille magnas agit gratias pro habitis laboribus.
+Hi[n]c ego non putavi fore, ut quisquam postularetur a nobis.
+Sed venit in septembri ad nosd. Georgius Laetus Tigurum, praesertim me invisendi gratia videndique.
+Interea nomine senatus postulat a ministris ecclesiae Tigurinae moderati ingenii virum.
+Nos nihil pollicebamur, nisi quod ea de re vellemus consultare.
+Ubi discessisset ille, consultavimus multasque ob c[aus]as scribimus Laeto,
+nullum in praesenti esse, quo possimus carere; videant ergo Augustani, quomodo rebus suis consulant.
+Interim dum hae l[ite]rae sunt in itinere, divina sic ordinante providentia mittit clarissimus senatus Augustanus
+publicum tabellionem sive cursorem ad magistratum nostrum ac ab eo suppliciter postulant[!] ministrum.
+Senatus noster senatores destinat, qui nobiscum super proposita re consultent.
+Nos illis exponimus, quid hucusque factum sit a nobis. Senatus iubet, ut ministrum deligamus.
+Expectat cursor integros dies 8; tandem praesentatur Hallerus, qui et Augustam mittitur.
+Qui rediere comites<f1>Huldrych Zwingli d.J. und Hans Wilpert Zoller.<fe>, narrant, ipsum magno cum favore omnium bonorum exceptum honorificentissime.
+Testantur id ipsum datis ad me literisd. consul Welserus<f1>Hans Welser, 21. November.<fe>,d. Lętus<f1>Georg Frölich, 20. und 22. November.<fe>, Peutingerus<f1>Claudius Pius Peutinger, 20. November.<fe>,d. Nicolaus Maior<f1>Nikolaus Müller gen. Maier, 22. November.<fe>, qui pridem principis Wirtenbergensis cancellarius fuit, nunc Augustanorum syndicus est;
+testantur hoc ipsum et alii vires fratres et amici.
+Commendaram Hallerum Musculo.
+Is respondit<f1>Musculus, 19. November.<fe>, ut facile ex responsione intelligam, indignissime hunc ferre, a Tiguro vocatum esse ministrum,
+et quia scrupulum iniicere voluit, vocatus est a consulibus ipsique denunciatum, ut paci studeat.
+Ego illi scribam amice. Cuperem interim, illos homines syncerioribus esse mentibus.
+Docent doctrinam in quibusdam, sacramentorum maxime caussa, quam rectius intelligunt magistratus et qui sunt e plebe optimi.
+Hi nolunt recipere hoc doctrinae genus, quod tale sit, ut populus non intelligit[!]; ita doctores luculenter explicare non possunt.
+Primum concionatus est 22. novembris in aede S. Mauricii<f1>Johannes Hallers erste Predigt in Augsburg (siehe Haller, 20. und Frölich, 22. November).<fe>; cui autem templo praeficiendus sit, an ibi manere voluit, nondum dixero.
+Si liberum illi erit veritatem dicere et iis conditionibus frui, quibus vocatus venit, manebit;
+sin minus ac Musculus illum arrodere coeperit, non turbabit ecclesiam, sed redibit.
+So aber Musculi, qui totus Buceranus est, ding der statt gefallen, hätte man nitt nach dem gesandt.
+Modestissime aget, nil dubita.
+Lucrari conabitur Musculum, quamquam hic sit eruditior; ille autem c[aus]am habet luculentiorem.
+Praeterea donabit viro docto et seniori, quicquid poterit.
+In hoc totus ero, ut concorditer agant et ut pax inter eos constet.
+^$Plura iam non possum; vehementer enim rotor vertigine et non dicendis doloribus capitis tantum non enecor.
+^$Venit huc Hervagius<f1>Johannes Herwagen d.Ä.<fe> et Oporinus<f1>Johannes Oporin.<fe> animi gratia.
+Hi referunt, Hispanicum caesaris legatum transiisse Basileam magna pompa<f1>Siehe Gast, Ende November/1.Dezember.<fe>.
+Sed accipe l[iter]as Myconii<f1>Vom 1. Dezember.<fe>, quas iam dant isti, et remitte.
+^$Vale.
+^$4. decembris anno 1545.
+^$Non vacabat relegere.
+^$Ego te quam possum suppliciter et diligenter rogo, ut has literas,d. Georgio Laeto inscriptas, Augustam mox perferri cures.
+Arbitror, tibi occurrere tabellionum magnam copiam.
+Quod si non statim fuerint nuncii ad manum, quaeso, mittas Constantiam add. Blaurerum, rogaque, ut statim mittat Augustam.
+Ego tuus quoque in similibus et maioribus fuero.
+<un>Tuus Bullingerus.
+<lz>Knoblouchen<f1>Alexius Knoblauch (Bote zwischen St. Germain und Zürich). - Marc ^#/+Moser,^#/- Alexius Knobloch. Ein Schweizer Bote im Fernverkehr des 16. Jahrhunderts, Archiv für deutsche Postgeschichte 2/1975, S. 134-144 (ETH Per. 27.329).<fe> hab ich wol 2 stund uffgehalten.
+<lz>[Adresse ...............:] Clarissimo virod. d[octori] Ioachimo Vadiano, suo colendissimo domino.^&x{
+^&x===Verweis: Gast an Bullinger, 5. Dezember [1545], "Fanaticus Lutheri liber...", E II 366, 244; siehe recte: [1544].===^&x{
+</content>
+</letter>

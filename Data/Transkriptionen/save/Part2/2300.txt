@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2300">
+<nr>2300</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>1. Dezember 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 215 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 133; TÜ: ^#/+Gast,^#/- Tagebuch 97f (A 296), 247(-249) (A 37)^&x{
+<re>Gast hat gute Gründe zu hoffen, dass es nicht zu einem Religionsgespräch kommen wird. Der spanische Bischof [Pedro de Malvenda] verbrachte mit seinem Hofstaat drei Tage in [Basel]. Gast erfuhr von dessen Vertrauten (die nicht alle Taten der Bischöfe gutheißen), dass [Malvenda] von [Karl V.] zur Vorbereitung der Verhandlungen als sein Vorläufer nach Regensburg gesandt ist. Der Kaiser wird aber den Reichstag nach Kurzem beenden, weil die Spanier von algerischen Soldaten angegriffen werden und Hilfe benötigen. Außerdem laufen nach der Gefangennahme des Brandstifters [Herzog Heinrich von Braunschweig] alle Pläne [Karls V.] ins Leere.
+-^#. Hier einige Details über [Malvenda], um Bullinger anschaulich zu machen, welche Art von Konkordie die Bischöfe anstreben: [Malvenda] ritt am Sonntag, den 22. November, auf einem Esel zur Karthause [in Klein-Basel] und wollte, dass Bruder [Thomas Kress] ihm eine Messfeier erlaube. Dieser wies ihn ab, auch als [Malvenda] es ein zweites Mal mit Hilfe eines Dolmetschers [...] versuchte. Daraufhin begab der Bischof sich aufs Land und zelebrierte die Messe dort. Erst nachts kehrte er hungrig zurück. Zur Frömmigkeit und Keuschheit des Bischofs nur soviel: Er führt zwei Mädchen aus den Niederlanden in Männerkleidern mit sich. Hätte der [Basler] Rat davon gewusst, hätte er bestimmt eingegriffen. [Malvenda] ist fromm, da er einen Mönch [...] bei sich hat, der für ihn die Stundengebete hält und sich für ihn zum Abschaum (inferna loca) [der Gesellschaft] begibt.
+-^#. Die Protestanten werden sich in Kürze auf dem [Schmalkaldischen Bundes]tag zu Frankfurt beraten, wie mit den Gefangenen zu verfahren sei und wie man [Karl V.] deswegen und wegen eines künftigen Konzils antworten soll (solch ein [richtiges] Konzil wird es wohl nie geben, es sei denn, der wunderwirkende Gott erbarme sich der Seinen). Die Protestanten haben angeblich beschlossen, ihr aus Oberdeutschland zusammengezogenes Heer aufrechtzuerhalten.
+-^#. Dass Köln besetzt worden sei, ist ein Gerücht, doch hat die Stadt sich mit Bollwerken versehen; die Bevölkerung ist aufrührerisch. Die Kölner haben dem [Herzog Heinrich] sehr geholfen. Im Hause von dessen Bruder, dem Domherren [Georg von Braunschweig-Wolfenbüttel], wurden 300 Geschütze aufgestellt.
+-^#. Die Burg [Rietberg] wurde belagert, doch konnte [Graf Otto IV. von Rietberg] während des Waffenstillstands entfliehen.
+-^#. Bullinger soll den Briefinhalt u.a. Theodor [Bibliander], [Konrad] Pellikan und Rudolf [Gwalther] mitteilen.
+-^#. [P.S.:] Bucer antwortet [Bartholomäus] Latomus. Er glaubt, dass er damit den Trierer Bischof [Johannes IV. Ludwig von Hagen] gewinnen kann. Dieser ist nämlich durch seine Krankheit viel milder und frömmer geworden, auch wenn viele an seinem Hofe mehr am Gold als an der Eintracht interessiert sind.</re>
+<tx>S. in domino.
+Colloquium in christiana religione<f1>Zum Zweiten Regensburger Religionsgespräch s. oben Nr. 2221, Anm. 5.<fe> nullum spero nunc temporis futurum. Multas habeo causas, quę me movent.
+Hispanicus episcopus,<f1>Pedro de Malvenda; s. zuletzt oben Nr. 2299 und Anm. 4.<fe> caesaris<f1>Karl V.<fe> legatus, equitatu ingenti et aulico apparatu praeditus,
+apud nos proximis diebus ad tres dies egit, et a suis intimis, doctis viris,<f1>Vgl. unten Nr. 2301, 34f.<fe> percepi
+(quibus non omnia placet, quę aguntur per episcopos, qui perpetuo frigidam suffundunt<f1>Adagia, 1, 10, 51 (ASD II/2 454-456, Nr. 951).<fe>, si quid boni instituitur)
+dominum illorum missum a caesarea maiestate Ratisbonam, quo praeparet, quid agendum,
+et quasi pręcursor sit venturi caesaris. Nam caesar paucis absolvet comitia illa
+ob Hispanicam nationem, quę illius implorat auxilium. Infestantur enim ab Argericis<f1>Argericis: algerischen; s. NBD VIII 453 und Anm. 2; Gasts Brief an Bullinger vom 7. März 1546 (Zürich StA, E II 366, 208): "Sparserunt mercatores quidam Tuneti regem esse captum a [Cheireddin] Barbarossa et Argeriam insulam obsessam ac Hispanos periclitari." - Der arabische Name Algeriens, "al-Dschazair", bedeutet "die Inseln", eine mögliche Erklärung für die Bezeichnung "Argeriam insulam".<fe> militibus.
+Praeterea etiam omnia sua consilia capto incendiario<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> in vanum abeunt;
+videt Germaniam fere totam conspirasse et militibus Germanicis non audet amplius fidere,
+quum veterani isti incendiario adiuncti tam leni momento sint victi et tot nobiles capti.
+^$Verum, heus tu, ut aliquod specimen Hispanici episcopi tibi perscribam, quo facile coniicere poteris, quam illi concordiam velint episcopi:
+Cathusianorum coenobium<f1>Zur Karthause in Klein-Basel s. C[asimir] H[ermann] ^#/+Baer,^#/- Die Kunstdenkmäler des Kantons Basel-Stadt, Bd. 3/1: Die Kirchen, Klöster und Kapellen. St. Alban bis Kartause, Basel 1941 - Die Kunstdenkmäler der Schweiz 12, S. 449-594.<fe> dominica die 22. novembris adiit stipatus multis peditibus,
+ipse asello insidens<f1>Vgl. Mt 21, 5!<fe> (utinam fuisset insutus!), locum celebrandę missae sanctae a fratre coenobii<f1>^#/+Gast,^#/- Tagebuch 246f, nennt ihn "frater Thomas". Damit ist Thomas Kress (Kressi) gemeint, einer der beiden damals noch in Basel geduldeten Karthäuser, der sich der Fürsorge Bonifacius Amerbachs erfreute und als letzter Karthäuser in Basel am 23. März 1564 mit über neunzig Jahren an der Pest starb. - Lit.: ^#/+Gast,^#/- Tagebuch 248, Anm. 37; Beat R. ^#/+Jenny^#/- und Ueli ^#/+Dill,^#/- Theatrum vitae Basiliensis. Das Haushaltbuch des Basilius Amerbach von 1561-1563, in: Aus der Werkstatt der Amerbach-Edition, hg. v. Dill und Jenny, Basel 2000, S. 352, Z. 611f; S. 410; Amerbach Korr. X/1, Nr. 2639a, S. XCI; XI/1 329, Z. 83-89; 330f, Anm. 30; XI/2 973, Anm. 8 (mit weiterer Lit.).<fe> postulans.
+Qui mox respondit: "Dic domino tuo, ut abeat cum missa sua, quo velit, et ne mihi negotium facessat, aut periclitabitur corpore et fortunę bonis."
+Secundo per interpretem<f1>Unbekannt.<fe> tentavit, quo voti compos efficere posset, sed nihil<fx>^#/+In der Vorlage^#/- nihi.<fe> effecit.
+Dein se in pagum<f1>Wohl im Grenzgebiet der Markgrafschaft Baden, wie z.B. im ca. 9 km von Basel entfernten Lörrach.<fe> contulit et dulcem missam celebravit.
+Rediit sub noctem, adhuc ieiunus, maledicentibus servis.
+Vis aliquid audire de illius pietate et pudicitia? Duas puellas vestitu virili secum habet pulcherrimas,
+quas in inferiori Germania fortassis emit aut muneribus persuasit, quo secum irent; sericis sunt indutę et sequuntur illum a tergo.
+Utinam senatus noster in tempore scivisset! Certe, impune hoc scelus non fuisset, scio.
+Pius est, quia monachum<f1>Unbekannt.<fe> habet, qui pro illo horas canonicas orat quotidie et pro illo etiam ad inferna loca<f1>Ironische Anspielung auf das Apostolische Glaubensbekenntnis: [Christus] descendit ad inferos.<fe> descendet.
+^$Protestantes comitia<f1>Der Schmalkaldische Bundestag zu Frankfurt am Main; s. dazu oben Nr. 2285 und Anm. 37.<fe> Francofurti cis Moenum iam celebrabunt, nempe quid cum captivis<f1>Herzog Heinrich von Braunschweig und weitere Adlige; s. oben Nr. 2285 und Anm. 32.<fe> agendum,
+qui pęna plectendi, <vl>215v.</vl> quid caesari respondendum tam propter istud factum quam propter concilium<f1>Gemeint ist ein Konzil, an dem die Protestanten nicht bloß als Angeklagte oder Beobachter, sondern als Beteiligte teilnehmen würden.<fe> futurum,
+quod nullum unquam erit, nisi dominus <gr>ăpò mhxanh̃w</gr><f1>Gott als sogenannter "deus ex machina"; s. ^#/+Erasmus,^#/- Adagiorum collectanea, 144 (ASD II/9 94f, Nr. 144).<fe> nos velit respicere.
+Protestantes, ut audio, exercitum coactum ex superioris Germanię militibus
+integrum servare constituerunt,<f1>Ein Gerücht. Das Heer der Schmalkaldener war nach dem Zug gegen Herzog Heinrich aufgelöst worden. Nur Landgraf Philipp hatte seine Truppen noch behalten; s. oben Nr. 2287, Anm. 17.<fe> donec videant, quo res casurę sint.
+^$Coloniam esse obsessam vanus est rumor, sed maxime sibi timent ac vallo se cingunt; populum habent inobedientem.
+Hoc autem certum, Colonienses multum incendiarium iuvisse et 300 bombardas Colonię fusas in domo canonici, fratris incendiarii<f1>Der Dompropst zu Köln, Georg von Braunschweig-Wolfenbüttel, Bruder Herzog Heinrichs; s. ADB VIII 635-637.<fe>.
+^$Arx baronis cuiusdam<f1>Die Feste Rietberg (Nordrhein-Westfalen, Kreis Gütersloh) des Grafen Otto IV. von Rietberg, der tatsächlich dem Landgrafen entkommen war; s. oben Nr. 2297, 27f; Hans-Joachim ^#/+Behr,^#/- Franz von Waldeck, Fürstbischof zu Münster und Osnabrück, Administrator zu Minden (1491-1553). Sein Leben in seiner Zeit, Bd. 1: Darstellung, Münster 1996 - Veröffentlichungen der Historischen Kommission für Westfalen 18, S. 325.<fe> expugnata est; sed baro perfidus clam aufugit,
+dum haberentur inducię<f1>Siehe oben Nr. 2285 und Anm. 45.<fe> ad dies aliquot. Brevi plura.
+^$Vale.
+Basileę, 1. decembris 1545.
+^$Hęc communicad. Theodoro<f1>Theodor Bibliander.<fe>, optimo viro, Pellicano et Rudolffo<f1>Rudolf Gwalther.<fe> et reliquis, si placet, quos omnes meo nomine salutabis.
+<un>Tuus ex animo
+<un>Gastius.
+<lz>Latomo<f1>Bartholomäus Latomus. - Dieser hatte Ende 1544 eine Schrift gegen Bucer veröffentlicht, die er dem Bischof von Trier (s. unten Anm. 26) gewidmet hatte; s. oben Nr. 2113, Anm. 14.<fe> respondet Bucerus.<f1>Bucers Schrift erschien erst im April 1546 unter dem Titel: De vera et falsa caenae dominicae administratione libri II. In priori libro refutatur mutilatio eucharistiae ... In altero De veris et falsis sacrificiis et oblationibus ecclesiae ... Altera adversus B. Latomum Responsio, Neuburg a.d. Donau, Hans Kilian, 1546 (VD 16 B 8930; BucerBibl, Nr. 160).<fe> Putat episcopum Treverensem<f1>Johannes IV. Ludwig von Hagen.<fe> posse lucrari.<f1>Bucers Schrift wurde nicht mit einer an den Bischof von Trier gerichteten Widmungsepistel versehen, sondern mit einem Vorwort "Ad Patres, qui deum in synodo Tridentina timent" (f. a[i],v.-c[iij],r.). Außerdem enthält die Schrift eine "Praefatio ad Latomum" (f. c[iij],v.-c[iv],v.).<fe>
+Morbus<f1>Zur Erkrankung des Trierer Bischofs s. oben Nr. 2277, 10f und Anm. 13.<fe> enim illum multo mitiorem, mansuetiorem et religioni addictiorem reddidit, quam hactenus fuit.<f1>Zu den Reformbemühungen des Trierer Bischofs s. Benedikt ^#/+Caspar,^#/- Das Erzbistum Trier im Zeitalter der Glaubensspaltung bis zur Verkündigung des Tridentinums in Trier im Jahre 1569, Münster 1966 - Reformationsgeschichtliche Studien und Texte 90, S. 62-67.<fe>
+Habet nebulones multos in aula, qui auro sint dediti magis quam concordię.
+<lz>[Adresse darunter:] Vigilantissimo pastori Tigurinae ecclesiae,d. magistro Heinrycho Bullingero, fratri suo ac amico colendissimo. Zurich.<f1>Dieser Brief wie auch Myconius' Brief vom 1. Dezember (Nr. 2301) wurde Johannes Herwagen und Johannes Oporin mitgegeben; s. unten Nr. 2303; 2304, 31f.<fe>
+</content>
+</letter>

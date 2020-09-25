@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2058">
+<nr>2058</nr>
+<correspondents>
+	<originator>Otto Werdmüller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[Ende] 1544</date>
+	<note>Die Datierung auf Ende 1544 lässt sich damit begründen, dass es von dieser Ausgabe Exemplare eines Zwitterdruckes gibt, die auf der Titelseite die Angabe 1544 tragen, im Kolophon aber (f. [V7]r.) die Jahresangabe 1545, welche sich wahrscheinlich auf die bevorstehende Frankfurter Buchmesse bezieht. Die Ausgabe erschien also eher Ende 1544 (Konrad ^#/+Gessner,^#/- Bibliotheca universalis, Zürich, Christoph Froschauer, 1545, f. 532v. 533r., schreibt dazu: "Hieronymus Curio excudit Basileae 1545"), währenddem die Widmungsepistel, in der Bullinger um ein dem Druck vorausgehendes Urteil gebeten wird, schon früher im Jahr verfasst worden sein muss. - In einem Brief vom 25. April 1545 an den damals in Zürich studierenden Gerhard Tom Camph bittet Hermann Aquilomontanus aus dem ferngelegenen Oldersum um Werdmüllers Schriften: "Precor D. Otthonem meo nomine salutes catechistam, et si quid in usum iuventutis collegerit, oro Ecclesiae Phrysiae annota; et si quid incusum, convehas quaeso" (Zürich ZB, S 57, 74); ein mögliches Indiz dafür, dass er etwas über eine Veröffentlichung Werdmüllers vernommen hat. Wir danken Frau Monika Butz, UB Basel, für freundliche Auskunft bezüglich des Zwitterdruckes.</note>
+</space_time>
+<vo>Gedruckt: Otto ^#/+Werdmüller,^#/- De dignitate, usu et methodo philosophiae moralis, quam Aristoteles ad Nicomachum filium conscripsit, libri duo, nunc primum ab Othone Werdmullero Tigurino in lucem editi, Basel, Hieronymus Curio (Schaffner), 1544, S. 3-7 (Widmungsvorrede)<f1>HBBibl II 1010. - Über Werdmüllers Schrift s. Luca ^#/+Baschera,^#/- Aristotle and Scholasticism, in: A Companion to Peter Martyr Vermigli, hg. v. Torrance Kirby, Emidio Campi und Frank A. James III, Leiden 2009, S. 133-136.<fe></vo>
+^&xExemplar Zürich ZB, 5.324,1, Geschenk mit autographer Widmung an Gwalther: "Fideliss[imo] v[er]bi dei ministro, d[omino] R. Gvalthero, d[omi]no et amico suo plurimum colendo. O[tho] W[erdmüllerus] d[ono] d[edit]." Oben rechts Preis (von Gwalthers Hand): 14 ß. ─ S. [2] Ad Lectorem. ─ Xeroxkopie abgelegt im Umschlag der Briefkopien 1544 ^&x{
+<re>Die Zürcher Schulleiter haben nicht nur viel für die Kirche und das Evangelium geleistet, sondern auch vorbildlich dafür gesorgt, dass die angehenden Pfarrer in Philosophie und Sprachen ausgebildet werden. Werdmüller
+übergibt Bullinger die vorliegenden [zwei] Bücher über die Methode und den Nutzen der Moralphilosophie noch vor ihrem Erscheinen zur Beurteilung, denn sie sollen nur mit Billigung der Kirche veröffentlicht werden, und da Bullinger neben seinen theologischen Arbeiten selbst Studien zur Rhetorik, Philosophie und auf anderen Fachgebieten treibt, besitzt er die rechte Urteilskraft; besonders ist im Vergleich zu Plato, Aristoteles und Claudius Ptolemäus Bullingers Profession zu loben, weil er das den heidnischen Philosophen unbekannte heilbringende Evangelium verkündigt, das Bischofsamt trotz aller Schwierigkeiten tapfer ausübt und das Studium der Sprachen, der Rhetorik und der Philosophie propagiert, damit das Barbarentum nicht wieder Eingang in die Kirche finde; Bullinger erwirbt sich dadurch Ruhm bei der Nachwelt. Werdmüller schien es gut, Bullinger aufgrund seiner herausgehobenen Stellung in der Kirche, seiner einzigartigen Beredsamkeit und Bildung und seiner Sorge für die Kirche diese Schrift zu präsentieren, damit sie unter seinem berühmten Namen Vielen bekanntgemacht werde.
+</re>
+<tx>Vigilantissimo ecclesiae Tigurinae episcopo, domino Heinrycho Bullingero,
+domino et patri suo unice colendo, Otho Werdmullerus aeternam foelicitatem.
+^$Cum multa divinitus<f1>Cum multa divinitus: Vgl. Cicero, De domo sua ad pontifices oratio 1, 1.<fe> a Tigurini collegii proceribus ad dei gloriam et utilitatem
+ecclesiae instituta sunt, tum nihil praeclarius, quam quod<f1>tum nihil praeclarius, quam quod: Vgl. Cicero, ebd.<fe> non solum evangelii
+syncera doctrina publice proponitur, sed etiam ad id munus consecrati
+philosophia et honestis disciplinis a tenera aetate imbuuntur. Nam quod in sacris literis enarrandis lingua-<vl>4</vl>rum et philosophiae, qua
+liberales artes comprehenduntur, noticiam adhibere conveniat, haud levibus tum
+exemplis tum rationibus convinci poterit, qua de re paulo post, quantum ad
+praesens attinet negotium, nos quoque verba faciemus. Aequissimum est igitur omnes autores adeo praeclari instituti maximo favore complecti eorumque prudentiam et pietatem innumeris laudibus extollere. Verum de reliquis collegiarchis occasio loquendi alias fuerit.
+^$Nunc autem ad te scribo, domine ac pater Bullingere inprimis observande, qui
+necessariam et durissimam totius ecclesiae provinciam summa fide et diligentia
+tueris, tibique libros istos de methodo, dignitate et usu philosophiae moralis,
+antequam foras <vl>5</vl> aedantur, legendos et iudicandos trado, ut non nisi
+probati ecclesiae, cuius pars esse cupio, in lucem prodeant.
+Etenim, cum ipse religioni, quam profiteris, eloquentiae et philosophiae studia
+plurimarumque rerum doctrinam adiunxeris, de omni genere bonarum artium et
+recte iudicare et honorifice sentire soles nec aliquid vel publice vel
+privatim omittere, quod ad honesta studia provehenda conducere arbitraris.
+Ideoque, si Platonem, Aristotelem, Claudium Ptolemaeum et sapientissimos
+quosvis encomiis ornare decet, qui de rerum natura, de variis officiis huic
+vitae non inutilia literis mandarunt, amplioribus utique verbis tua professio
+celebranda, primum quod ethnicis philosophis <vl>6</vl> ignotum evangelium,
+in quo salus hominum aeterna reposita est, scriptis et voce omnibus annuncias
+et episcopi munus, quo non aliud est in orbe terrarum dignius, per tot
+discrimina rerum<f1>Vergil, Aeneis, 1, 204.<fe> fortiter exequeris, deinde quod studia linguarum, artes
+dicendi, philosophiae cognitionem, ne rursus ecclesiam barbaries invadat,
+longe lateque propagare non cessas, eoque nomine posteros quoque tibi
+devincis immortalibus beneficiis.
+^$Quoniam ergo dei benignitate honestissimum in ecclesia gradum consecutus es,
+ut maxime debeas, singularem eloquentiam et eruditionem, ut plurimum possis,
+eam denique mentem et pietatem, ut ex animo velis ecclesiae quam optime<fx>^#/+In der Vorlage^#/- quamoptime.<fe>
+consulere, haec scripta de Aristo-<vl>7</vl>telicis Ethicis humanitati tuae,
+cuius iudicio libenter acquiescimus, offerre placuit, ut (si modo profutura
+speres) clarissimo tui nominis titulo pluribus communicentur.
+^$Vale, tuamque dignitatem Christus bonis literis evehendis diu servet incolumem.<f1>Der gleiche Satz begegnet später in einem Brief von Christoph Froschauer d.J. an Bullinger vom 19. November 1550 (Epistolae Tigurinae 467, Nr. 341; Original Letters I 730, Nr. 341) und in einem Brief von Johann Rudolf Beyel an Wolfgang Haller aus dem Jahr 1577; s. den Druck bei Werner ^#/+Widmer,^#/- Johann Rudolf Beyel. Zürichs Bürgermeister von Rudolf Brun bis Johannes Kambli, in: ZTB 2006, NF 126, S. 139.<fe>
+^$Tiguri, 1544.
+</content>
+</letter>

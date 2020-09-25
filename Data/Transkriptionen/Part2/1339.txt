@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1339">
+<nr>1339</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>17. Dezember 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 62 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Freut sich, daß Bullinger gesund ist, und wünscht John Butler gute Besserung. Ambrosius [Blarer] wird [aus Augsburg]
+zurückerwartet. Zwick blickt mit Bangen dem Bericht der Gesandten über den Bundestag [in Arnstadt] entgegen; man hört
+von bedenklichen Plänen der Konstanzer, sich mit den Eidgenossen - auch mit jenen, die der Reformation feindlich gesinnt sind - zu verbünden. Grüße.
+</re>
+<tx>S. De valitudine tua gaudeo<f1>Zwick antwortet offenbar auf einen nicht erhaltenen Brief Bullingers.<fe>, quam dominus sua
+bonitate diuturnam faciat. De morbo Io[annis] Buttleri<f1>John Butler war im Herbst, bereits krank, vor der Pest in Basel nach Zürich zu Pellikan geflohen; vgl. Pellikan, Chronikon 149.<fe> graviter sum affectus; semper enim michi visus est animo in deum esse integerrimo. Hinc precor, ut restitutus
+sit.
+^$Ambrosius adhuc non rediit, sed est in itinere<f1>Ambrosius Blarer hatte Augsburg um den 6. Dezember verlassen, hielt sich
+jedoch noch mehrere Wochen im Allgäu auf; s. ^#/+Roth^#/- II 449 und 469f, Anm. 98; Blarer BW II 39. 42f.<fe>; comitentur illum boni angeli dei.
+^$Utinam, utinam, utinam comitia<f1>Gemeint ist der Schmalkaldische Bundestag in Arnstadt, der auf den 19. November
+ausgeschrieben war und dessen Abschied vom 10. Dezember datiert; s. PC II 645-656; Georg ^#/+Mentz,^#/- Johann Friedrich der
+Großmütige, Bd. II, Jena 1908, S. 197-212.<fe> non abeant in vitia; sic tecum clamo ad dominum<f1>Zwicks Befürchtungen
+bezogen sich wohl vor allem auf die Verhandlungen über ein Religionsgespräch, dem Konstanz ablehnend gegenüberstand; vgl.
+die Instruktion vom 5. November im Stadtarchiv Konstanz, Ref. A. 18, Nr. 121.<fe>. Expectamus nunc, quid allaturi sint
+legati<f1>Felix von Schwarzach und Joachim Maler, s. ebd. sowie Wolfgang ^#/+Dobras,^#/- Ratsregiment, Sittenpolizei und
+Kirchenzucht in der Reichsstadt Konstanz 1531-1548. Ein Beitrag zur Geschichte der oberdeutsch-schweizerischen Reformation,
+Gütersloh 1993. - QFRG 59, S. 70 und 85f.<fe>. Sed, o frater,
+licetne aliquid in sinum tuum effundere? Aiunt nostros<fx>^#/+Endung undeutlich korrigiert^#/-.<fe>, hoc est
+Constantienses, nescio quid societatis ambire cum vestris<f1>Zwick spielt auf die Bestrebungen der Konstanzer
+"Heimlichen" an, die katholischen Orte der Innerschweiz für einen Anschluß von Konstanz an die Eidgenossenschaft zu
+gewinnen, nachdem Zürich und Bern bereits positiv reagiert hatten; vgl. ^#/+Moeller,^#/- Zwick 226-228; Martin ^#/+Burkhardt,^#/- Wolfgang ^#/+Dobras,^#/- Wolfgang
+^#/+Zimmermann,^#/- Konstanz in der frühen Neuzeit. Reformation - Verlust der Reichsfreiheit - Österreichische Zeit, Konstanz
+1991. - Geschichte der Stadt Konstanz 3, S. 116-119.<fe>; iam vero vestros non intelligo eos tantum<fx>tantum ^#/+am Rande
+nachgetragen.^#/-<fe>, qui religioni nostrae dederunt nomina, sed qui tantum non coniurati sunt in religionis nostrae
+perditionem. O meo iuditio lubrica consilia, o vanam fidutiam!
+^$Vale, mi frater, et me ama.
+^$17. decembris 1539.
+<un>Tuus Io. Zvick.
+<lz>Uxorem<f1>Anna, geb. Adlischwyler.<fe>, liberos<f1>Siehe oben Nr. 1217, Anm. 46, und Nr. 1277, Anm. 17.<fe>, matrem<f1>Anna, geb. Wiederkehr.<fe>, fratres optimos saluta.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, pastori Tigurino, fratri observando. Zurch.
+</content>
+</letter>

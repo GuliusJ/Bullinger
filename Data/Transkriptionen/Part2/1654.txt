@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1654">
+<nr>1654</nr>
+<correspondents>
+	<originator>Oswald Pergener</originator>
+	<originator fn=1>Lorenz Neumann</originator>
+	<originator>Cölestin Hennig</originator>
+	<originator>Onofrius Herzog</originator>
+	<originator>Friedrich [Wigand]</originator>
+	<originator fn=2>Konrad Nesen</originator>
+	<originator fn=3>Bartholomäus Beness</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Lorenz Neumann, gest. 1559, wurde 1521 Altarist am Christophorusaltar in Zittau und 1542 evangelischer Pfarrer im be­nachbarten Kleinschönau (heute Sienia­­w­ka, Polen). Wo er nach 1550 wirkte, bleibt unsicher; jedenfalls kehrte er 1558 als Archidiakon an die Zittauer Pfarrkirche zurück. - Lit.: Reinhold Grünberg, Sächsisches Pfarrerbuch. Die Parochien und Pfarrer der Ev.-luth. Landeskirche Sachsens (1539-1939), Freiberg i. Sa. 1939/40, Bd. I, S. 296. 479. 705; Bd. II, S. 643 (für freundliche Auskünfte danken wir Dr. Hans Peter Hasse, Leipzig).</note>
+	<note fn=2>Konrad Nesen (Nesenus, Nysenus), von Nastätten (Rhein-Lahn-Kreis, Rheinland-Pfalz), 1495-1560, der jüngere Bruder des mit Zwingli befreundeten Humanisten Wilhelm Nesen, immatrikulierte sich 1525 in Wittenberg, wo er Jura studierte und Melanchthon nahe stand. Sein Anteil am satirischen "Dialogus bilinguium ac trilinguium", der bereits 1519 in Paris unter seinem Namen erschienen war, ist unklar. 1530 wurde er "praeceptor" am Hof König Ferdinands, doch kehrte er nach zwei Jahren nach Wittenberg zurück, wo er zum lic. iur. promovierte. 1533 kam er als Stadtsyndikus nach Zittau. Hier wirkte er bei der Einführung der Reformation mit und hatte ab 1541 mehrmals das Bügermeisteramt inne. - Lit.: Otto ^#/+Kaemmel,^#/- in: ADB XXIII 437f; Michael ^#/+Erbe^#/- und Peter G. ^#/+Bietenholz,^#/- in: Contemporaries III 12.^&xMBW???^&x{</note>
+	<note fn=3>, Cölestin Hennig, Onofrius Herzog, Friedrich [Wigand], Konrad Nesen</note>
+</correspondents>
+<space_time>
+	<place>Zittau</place>
+	<date>23. August 1542</date>
+</space_time>
+<vo>Original (Autograph?)<fx>^#/+Die Handschrift variiert in den Briefen Pergeners so stark, dass sie nicht einer einzigen Hand zugeschrieben werden können. Alle Unterschr.iften in diesem Brief stammen von derselben Hand.^#/-<fe>: Zürich StA, E II 345, 223-225 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 177</vo>
+<dr>Ungedruckt</dr>
+<re>Angesichts der starken türkischen Besatzung in Buda wagt das Heer des Reichs keinen Angriff, und nur das Hochwasser [der
+Donau] verhindert das Anrücken einer feindlichen Übermacht; im Heerlager, in dem sich viele Huren aufhalten,
+predigt Johannes [Agricola von] Eisleben mit zwölf Helfern. Auf der einen Seite sieht man sich [in Zittau] durch die Türken, auf
+der anderen, von Böhmen her, durch die Pest bedroht, doch aus den Schriften der Zürcher haben sie gelernt, den Tod gering zu
+achten. In ihrer Umgebung ist die Todesfurcht allerdings groß, da es an Gelehrten fehlt, die dieser entgegentreten könnten;
+auch Pergeners Schwager [Tobias Engler] hat trotz dessen Mahnung in Wittenberg weder Griechisch noch Hebräisch gelernt. Segenswunsch und Grüße, Bitte um kurze Antwort.
+</re>
+<tx>Salutem in Christo, charissime Bullingere.
+^$Rursus deserere incipitis preces, vota fratrum vestrorum,<f1>Gemeint ist wohl: durch allzu seltenes
+Schreiben (vgl. HBBW X, S. 54, 2-8).<fe> qui hic iam finitimi sumus Turcis. Buda dissita est a nobis 50 ferme mill[iaribus] fir­missimis munita praesidiis
+Turcarum, duces vero imperii castra posuerint 6 mill[iaribus] supra Budam,<f1>Das von Kurfürst Joachim II. von Brandenburg
+angeführte Heer lagerte vom 5. bis 17. August zwischen Raab (Győr) und Komorn (Komárom) und vom 20. August bis 4. September bei Gran (Esztergom); vgl. ^#/+Traut^#/- 73. 83.^&xZur Meile vgl. HBBW IV 412, Anm. 4.^&x{<fe> non audent signa conferre cum Turcis. Diu e­i­­ecti
+essent nostri ex Hungaria, si licuisset Turcis pre
+multitudine aquarum ascendere novis exercitibus Budam. Tota
+estate actum est nihil. Decem ferme millia scortorum sunt in
+castris nostris. Iohannes Eysleben<f1>Johannes Agricola.<fe> supremus concionator est in exercitu nostro, cui adiuncti sunt
+duodecim evangelici predicatores. Quottidie fit sermo.
+^$Nos, inquam, plane meticulosi essemus, qui hic inter Charibdim et Scyl­lam habitamus<f1>Adagia, 1, 5, 4 (LB II 183f).<fe> -
+ab una namque parte imminet crudelissimus hostis, a tergo, hoc est in Bohemia, territat nos pestilentia -, nisi
+confortaremur vestris sanctis commentariis. Ex illis
+discimus mortem christianorum nihil aliud esse quam
+permutationem vitę deterioris in longe meliorem. Qui deum
+vere amant, cupiunt dissolvi et esse cum eo.<f1>Vgl. Phil 1, 23.<fe> Quandiu hic
+vivimus, quottidie magis ac magis adfectibus impuramur, quod
+omnibus dei cultoribus <vl>224</vl> permolestum est. Tigurina scripta docent nos ex sacris litteris mortem nobis non esse
+timendam, sed summo gaudio expectandam.
+^$Dici non potest, quantus in nostra terra metus, quantus terror<fx>^#/+Letzter Buchstabe über der Zeile nachgetragen.^#/-<fe> mortis. Clauduntur in omnibus civitatibus Bohemis et
+Wratislaviensibus;<f1>D. h. wohl: in allen Städten wird den Böhmen und Breslauern der Zutritt verwehrt.<fe> nam et apud eos aiunt esse pestem fores,
+cum tamen non ubique in Bohemia sit pestis. Fit hec
+prohibitio magno consensu concionatorum. Hic licet reperire
+nullum, qui contemptum mortis doceret; omnes ad nomen mortis
+et ad eius mentionem consternantur. Quanta hic penuria sit
+doctorum, nemo scribere audet. Uxoris mee frater<f1>Tobias Engler, der Bruder von Pergeners Frau Anna (vgl. HBBW VIII,
+S. 107, Anm. 30f).<fe> duos<fx>^#/+vor^#/- duos ^#/+gestrichen^#/- 2.<fe> annos egit Wittenberge, rediit Terentianus<f1>D. h.
+als einer, der durch Terenz-Lektüre alltagssprachliches Latein gelernt hat.^&x???^&x{<fe> nec principia vel Grecę vel
+Hebraicę linguę attigit, ad quę ego multum adhortabar; sed surdo cecini<f1>Adagia, 1, 4, 87 (LB II 178).<fe>.
+^$Nos, qui dei benignitate vestros adsecuti sumus libros, vobis omnibus maximas agimus gratias. Deus dignetur sua beneficentia,
+misericordia et gratia vos tueri et conservare. D. Chuonradum Pellicanum, Leonem Iude, Theodorum Buchman<f1>Theodor
+Bibliander.<fe>, Casparum Megandrum cupimus salvos esse in Christo. Unam et brevem petimus salutatiunculam.
+^$Datum Zittę in marchionatu Superioris Lusatie, anno etc.
+1542, vigesi­­motertio <vl>225r.</vl> die mensis augusti.
+<un>Osvaldus Pergenerus a commentariis<f1>Stadtschreiber.<fe>,
+<un>Laurentius Neumann,
+<un>Celestinus Hennig<fx>^#/+in der Vorlage^#/- Hemig.<fe>,
+<un>Onofrius Hertzog Svevus,
+<un>Fridrich Helvetius<f1>Friedrich Wigand.<fe>,
+<un>Chuonradus Nesenus
+<un>licentiat[us], qui Tiguri fuit<f1>Über einen Besuch Nesens in Zürich ist sonst nichts bekannt.<fe>,
+<un>Bartho. Benesß Bohemus
+<un>et alii multi fratres,
+<un>qui pie de vestra doctrina
+<un>sentiunt.
+<lz>[Adresse auf f. 225v.:] Vere pio et erudito virod. Henricho Bullingero, amplissimę ecclesię Tigurinę episcopo, amico et fratri suo in Christo charissimo.
+</content>
+</letter>

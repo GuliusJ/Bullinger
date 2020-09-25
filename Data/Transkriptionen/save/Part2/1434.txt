@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1434">
+<nr>1434</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>16. November 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 67f (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 156</vo>
+<dr>Ungedruckt</dr>
+<re>Hat mangels Gelegenheit länger nicht geschrieben; ein von ihm zurückerwarteter Bote ist gestorben. Ist froh, daß es
+Bullinger wieder besser geht. Daß der englische König [Heinrich VIII.] die Kirche verfolgt, erstaunt ihn angesichts des
+Schicksals seiner Frauen nicht; auch Kaiser [Karl V.] wütet [in Flandern], während einige Gutes von ihm erwarten. Sobald
+Joachim [Maler] vom Verlauf der Tagung [in Worms] berichtet, wird Zwick auch Bullinger unterrichten. Hat an Pellikan über
+[die Nebenehe Philipps von] Hessen und an Leo [Jud] über Michael [Back] geschrieben; Bullinger soll sich der Sache des
+letzteren annehmen. Konstanz bittet Zürich um Stellungnahme zu einem eherechtlichen Problem; die Zürcher sollen nicht zu streng urteilen. Grüße.
+</re>
+<tx>Salus.
+^$Non sileo, quod rarius scribas, sed quod iam occasiones
+scribendi rariores sint, neque tu peccas tacendo, modo ne
+indignatione aliqua taceas. Ego quod tuis literis<f1>Nicht erhalten.<fe> non respondi diutius, factum est expectatione
+tabellionis; cum enim literas tuas redderet, pollicebatur
+se brevi rediturum, sed iam ex alio et posteriore tabellione audio illum vita functum<f1>Keiner der beiden Boten ist namentlich bekannt.<fe>.
+^$Intellexi autem ex literis tuis, quod non fueris firma valetudine aliquandiu<f1>Vgl. oben Nr. 1426, Anm.
+3.<fe>, iam vero te non nichil habere melius<fx>^#/+vor^#/- melius ^#/+ein gestrichenes, unlesbares
+Wort.^#/-<fe>. Quod posterius gratissimum est michi - non tuo ipsius nomine, praestaret enim nos citissime dissolvi et esse
+cum Christo<f1>Vgl. Phil 1, 23.<fe> -, caeterum quotienscunque animum subit, quis status ec­clesiae futurus sit ereptis sanctis
+apostolis, totus exhorresco et video, si non uno impetu, saltem paulatim irrupturam omnem impietatem. Quanquam non ignorem a
+domino stare, ut ex lapidibus creet filios Abrahae<f1>Vgl. Mt 3, 9 par.<fe>, tamen, an velit, quod potest, quaeritur, deinde, an istud mereatur nostra ingratitudo.
+^$Quae de Anglia scribis<f1>Wahrscheinlich handelte es sich um Nachrichten aus Briefen von Gwalther und Myconius; vgl.
+oben Nr. 1420, 86-104; 1426, 25f.<fe>, apud me non sunt nova; nichil enim unquam boni pollicitus sum michi de illius
+rege<f1>Heinrich VIII.<fe>, postquam truculenter adeo et subdole repudiavit primam uxorem<f1>Katharina von Aragonien.<fe> et
+secundam<f1>Anne Boleyn.<fe> interfecit, ne quid de reliquis<f1>Jane Seymour und Anna von Kleve (vgl. oben Nr. 1420,
+88-90).<fe> dicam. Extinxit uxores, extinguit etiam sponsam Christi<f1>die Kirche.<fe>. Idem facit imperator<f1>Karl V.<fe>,
+qui nuper cepit atrociter sęvire in suos<f1>Zum flandrischen Ketzermandat vom 22. September, auf das sich Zwick wohl bezieht, s. unten Nr. 1439, Anm. 14.<fe>.
+Interim sunt, qui boni aliquid de illo sibi pollicentur, id quod connivente domino pulchre sentiemus.
+^$<vl>68</vl> Quid comitia<f1>Gemeint ist das Wormser Religionsgespräch.<fe> proditura sint, etiamnum ignoratur, nichil dum audimus ex Ioachimo<f1>Joachim Maler.<fe> nostro, speramus tamen innocentiam
+nostram ipsamque ve­ritatem melius habituram, si nos omnibus
+expositi simus rationem reddere fidei nostrae. Sed Christus
+bene omnia vertat. Amen. Cum primum aliquid rescripserit
+legatus noster, dabo operam, ne tu quoque ignores.
+^$De facto Hessii<f1>Die Rede ist von der Nebenehe Philipps von Hessen.<fe> scribo ad Pellicanum<f1>Der Brief ist nicht erhaten.<fe>. Sed ad Leonem scribo<f1>Auch der Brief an Leo Jud ist verloren.<fe> aliquid de
+Michaele<f1>Michael Back; vgl. unten Nr. 1435, 2-16.<fe> meo, qui meus est, dum mecum est. Hic te iterum atque iterum rogo, ne quid negligas; sed non est cunctandum.
+^$Deinde quaerunt nostri consilium a vobis, ut audio, in causa
+divortii sive adulterii<f1>Vgl. oben Nr. 1433, 3-13.<fe>. Hic vellemus vos respondere mitius
+aliquid, non erga nocentes, sed innocentes. Sed et istud ex
+literis Germanicis ad Leonem.
+^$Iam tu vale, et insta apud dominum multis precibu[s]<fx>^#/+Text im engen Einband nicht zugänglich.^#/-<fe>, ne nos
+deserat. Salutant te rursus boni omnes, cumprimis Ambrosius<f1>Ambrosius Blarer.<fe>
+cum fratre<f1>Thomas Blarer.<fe>.
+^$Ex Constantia, 16. novembris 1540.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf f. 61a v.:]<fx>^#/+Daß das Blatt mit der Adresse zu diesem Brief gehört, ist nicht ganz sicher. Wegen der Erwähnung von Bullingers Kollegen (s. oben Z. 27 und 32) steht aber der Adressat zweifelsfrei fest.^#/-<fe> Domino Hainricho Bullingero, episcopo Tigurino, fratri charissimo.
+</content>
+</letter>

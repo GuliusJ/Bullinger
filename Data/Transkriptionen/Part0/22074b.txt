@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="22074b">
+<nr>22074b</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(Basel)</place>
+	<date>20. März 1552</date>
+</space_time>
+<vo>Zürich StA, E II 357, 388.</vo>
+<note>
+Das zu Anfang erwähnte Schreiben Schertlins, Kopie von A.
+Blarers Hand, geht im gleichen Band dem obigen Brief
+unmittelbar voran:
+</note>
+<tx>
+Sebastian Schertlin an Ambrosius Blarer.
+Hochvertruwter, lieber herr und frund, ich hab euwer
+hertzlich vertruwlich, christlich zuͦschriben und anmanung
+yetzund zum andermal wol und zuͦ grossem danck empfangen
+und
+will beide noch lang behalten und offt erlesen. Herr
+Musculus und Mecardus, der abermal mit mir in krieg zucht,
+habends ouch hören verlesen etc.
+Ir sollt . . . . . .
+</content>
+</letter>

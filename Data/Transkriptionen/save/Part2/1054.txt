@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1054">
+<nr>1054</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>13. Oktober 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Megander setzte das kurze Begleitschreiben auf das von ihm weitergeleitete, ursprünglich an ihn adressierte Schriftstück (Text: 263r.-v., Adresse: 264v., von unbekannter Hand; der Text entspricht CO IX 708-710. 707f.
+711f).^#/-<fe>: Zürich StA, E II 337, 264 (ohne Siegel)</vo>
+<dr></dr>
+<re>Übersendet das Abendmahlsbekenntnis der Genfer und ihre Erläuterung des Wortes "Adonai" [bzw. "Jehovah" als Name für
+Christus]; beides haben sie [am 22. September] in Bern Capito und Bucer vorgelegt. Hofft, am 20. des Monats [zur Synode]
+in Zürich zu sein.</re>
+<tx>[Gedruckt: Corr. des réformateurs IV 310, Anm. 2; CO X/2 126, Nr. 78.]
+</content>
+</letter>

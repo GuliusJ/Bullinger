@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1765">
+<nr>1765</nr>
+<correspondents>
+	<originator>Martin Hentius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Wittenberg</place>
+	<date>30. Juli 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 231f (Siegelspur)</vo>
+<dr>Teildruck: ^#/+Reinerth,^#/- Hentius 193, Nr. 2</dr>
+<re>Hat Bullinger im Juni einen Brief [Nr. 1753] geschrieben, weiß aber nicht, ob dieser angekommen ist, denn der Bote war ihm unbekannt. Darin hat er sich bedankt, dass die Zürcher ihn als Unbekannten so freundschaftlich aufgenommen haben, und zweifelt nicht daran, dass sie ihn auch weiterhin unterstützen werden, besonders in theologischen Fragen.
+Weiter hat er Bullinger gebeten, für ihn wenigstens auf ein halbes Jahr bei Christoph Fro­­sch­auer zu bürgen, damit dieser die von ihm gewünschten Bücher zur nächsten Messe nach Frankfurt mitnimmt und sie dort dem Wittenberger Buchhändler Johannes [...] übergibt; wünscht alle gedruckten Schriften Bullingers, die neulich erschienene Bibel ["Biblia sacrosancta"] sowie die Werke [Konrad] Pellikans, ist aber bereit, auf letztere vorläufig zu verzichten.
+Ferner haben einige Studenten um ein Verzeichnis von Werken Bullingers und anderer [Schweizer Reformatoren] gebeten, da es den Wittenberger Buchhändlern verboten ist, solche Schriften nach Wittenberg zu bringen; Hentius will Bullingers Bemühungen gerne - auf welche Art und Weise auch immer - vergelten. Grüßt alle, besonders [Theodor] Bibliander, bei dem er sich entschuldigt, dass er ihm nicht geschrieben hat.</re>
+<tx>Salutem et in Christo, servatore nostro, pacem etc.
+^$Dedi ad te mense iunio literas<f1>Oben Nr. 1753.<fe>, quae utrum redditę sint,
+me latet, nam erat tabellarius<f1>Unbekannt.<fe> michi valde<fx>^#/+Vor^#/- valde ^#/+gestrichenes^#/- satis.<fe> ignotus neque
+michi certo promittere audebat, an hę ad te dari per
+eundem possint nec ne. Argumentum vero illarum et summa erat
+gratiarumactio, eo quod in universum<fx>^#/+In der Vorlage^#/- univerversum.<fe> omnes pariter, quibus
+commendatus eram et quibus non eram, me hominem ignotum ac
+indoctum omni humanitate exceperitis, tum denique, quod in
+his, quae michi<fx>michi ^#/+über gestrichenem, unlesbarem Wort.^#/-<fe> erant scitu necessaria ac cognitu<fx>cognitu ^#/+über der Zeile nachgetragen.^#/-<fe> digna,
+vestra omnium opera valde sim adiutus, neque dubito, quin et
+eadem deinceps, ubi saltem literis significavero, semper me
+sitis adiuturi, pręsertim in rebus theologicis, quarum
+mehercle vos<fx>^#/+Vor^#/- vos ^#/+gestrichenes^#/- vos verum.<fe> Tygurinos ecclesiastes <gr>ărxiereĩw</gr> cognovi. Igitur eadem nunc scribens idem
+volo, quod superioribus ostendi literis.
+Fuisset quidem decum[!], ut non solum pro tantis erga me
+beneficiis haberem, sed et manu (ut aiunt)<f1>Vgl. Ovid, Fasti, 2, 636; Juvenal, Saturae, 10, 302; Vergil, Aeneis, 10, 619f.<fe> larga referrem
+gratiam; verumenimvero dubium non est<fx>dubium non est ^#/+am Rande nachgetragen.^#/-<fe>, ex quo res non secus
+fert vel<fx>^#/+Vor^#/- vel ^#/+gestrichenes^#/- scio vos et[?] voluntatem.<fe>, ut poeta ait,<f1>Ovid, Epistulae ex Ponto, 3, 4, 79.<fe> voluntatem meam, cum vires michi
+desint, quin sitis laudaturi eamque boni consulturi.
+^$Pręterea egi tecum, vir observande, his literis
+superioribus, quo me tuis ac aliorum doctissimorum virorum
+lucubrationibus iuvares eo quidem pacto, ut apud compatrem
+tuumd. Christophorum Frosch[ouerum] pro me ad dimidii saltem
+anni tempus spondeas atque is ipse secum ad proximas
+nundinas Francofordienses, quae quidem in festo Bartholomei<f1>Am 24. August. Zum Termin der Frankfurter Herbstmesse s. HBBW VI, S. 406, Anm. 5.<fe>
+celebrantur, adferret ibique Ioanni cuidam, bibliopolę
+Witembergensi,<f1>Als Wittenberger Buchhändler mit Vornamen Hans/Johannes sind für die in Frage kommende Zeit Hans Lufft und Hans Leffler (Löffler) nachweisbar, vgl. Grimm, Buchführer 1618f. Letzterer arbeitete bis zu seiner Verselbständigung 1544 für Christoff Schramm (Grimm, Buchführer 1613f).<fe> michi allatum traderet. Quicquid autem pro
+his, omnibus inquam tuis scriptis<fx>^#/+Vor^#/- scriptis ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe>, quae in lucem
+ędidisti, adiunctis simul et Bibliis<f1>Hentius meint die von Leo Jud in Zusammenarbeit mit seinen Zürcher Kollegen verfertigte lateinische Bibelübersetzung "Biblia sacrosancta" (BZD C 319f); vgl. HBBW XII, S. 272, 8-17 und oben Nr. 1712.<fe>, quae tempore
+quadragesimali istius anni instantis ędita sunt,
+poposcerit<fx>^#/+Vor^#/- poposcerit ^#/+gestrichenes^#/- quod.<fe>, bona fide ad illud tempus definitum, nempe ad<fx>ad ^#/+über der Zeile nachgetragen.^#/-<fe>
+festum Georgii<f1>27. August.<fe>, mittam certo ac fideli nuncio. Cuperem
+quidem michi et mitti operad. Pellicani<f1>Hentius meint die "Commentaria bibliorum", einen Kommentar Pellikans zur gesamten Bibel, dessen Erstausgabe in den Jahren 1533-1535, 1537 und 1539 erschienen war (BZD C 217, 266f, 282). 1543 lagen zudem die Teile 1-5 der zweiten Auflage (BZD C 256) vor.<fe>; tamen, ne
+existimes me multa optare, quae prę­stare michi sint
+impossibilia, nunc itaque[?]<fx>itaque[?] ^#/+über der Zeile nachgetragen.^#/-<fe> his cariturum me duxi; non
+tamen dubito, quin et eiusdem viri opera, si modo vivam, sim
+habiturus.
+^$Caeterum me rogaverunt quidam studiosi, ut te orarem pro
+catalogo<fx>catalogo ^#/+über gestrichenem^#/- omnibus.<fe> omnium pręcipuorum<fx>pręcipuorum ^#/+über gestrichenem ^#/- primarii.<fe> tamen virorum<fx>^#/+Vor^#/- virorum ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe> operum, ut hoc
+viso deinceps certis temporibus<fx>^#/+In der Vorlage^#/- temporis.<fe> anni, quibus tum nundinę
+Francofordienses celebrantur, libros, quibus his maxime opus
+sit, adferri curarent, nam vetitum est Witembergensibus
+bibliopolis aliquid operum vestrorum Vitembergam<fx>^#/+Vor^#/- Vitembergam ^#/+gestrichenes^#/- V.<fe> palam
+adferre.<f1>Ein formelles Verbot lässt sich nicht nachweisen (für freundliche Auskunft danken wir Herrn PD Dr. Hans-Peter Hasse, Dresden).<fe> Itaque, ne studiosi quamplurimi sane tuisque ac<fx>^#/+Vor^#/- ac ^#/+gestrichenes^#/- et.<fe>
+aliorum orthodoxorum scriptorum lucubrationibus careant,
+rogo ac enixe obsecro, catalogum descriptum michi mittere
+digneris; ubi ego vicissim <vl>232</vl> tuę amplitudini gratificari
+potero, sit quacunque in re, una cum reliquo studiosorum
+numero, meam operam polliceor sedulo.
+^$Vale ac me commendatum tibi habeas.
+^$Datum Vitembergae, tertio calendas augusti anno virginei
+partus 1543.
+<un>Martinus Heinczius tibi tuisque
+<un>deditissimus.
+<lz>Salutato omnes, inprimisd. Bibliandrum meque excusato,
+cur nihil literarum ad eum dederim, itemd. Christopho[rum]
+Frosch[ouerum], itemd. Gvalderum, magistrum Ottonem
+Werthmiller etc.
+<lz>[Adresse darunter:] Docto et pio virod. magistro Heinrico Bullingero, ecclesiasti apud Tygurinos,
+domino ac amico semper honorando.
+</content>
+</letter>

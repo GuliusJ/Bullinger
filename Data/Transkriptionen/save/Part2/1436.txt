@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1436">
+<nr>1436</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Rudolf Gwalther]</addressee>
+	<note fn=1>Siehe unten Z. 28.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich</place>
+	<date>um 29. November 1540]</date>
+	<note>Bullinger reagiert auf Briefe Gwalthers und seiner Studienkollegen vom 13. November (s. oben Nr. 1430-1432). Der Brief muß nach dem 24. November geschrieben sein (vgl. unten Z. 57); vermutlich wurde
+er etwa gleichzeitig verfaßt wie der Brief Werdmüllers an Gwalther vom 29. November (Zürich ZB, Ms F 42, 277; zum Inhalt vgl. ^#/+Rudolf,^#/- Studenten 62f).</note>
+</space_time>
+<vo>Autographer Entwurf<fx>^#/+Mit Randbemerkungen und Unterstreichungen von J. H. Hottinger. Von der Ausfertigung ist als Fragment die linke untere Ecke erhalten (Zürich ZB, Ms F 80, 224, mit Siegelabdruck). Der Text, der vom Entwurf deutlich abweicht, lautet wie folgt:^#/-
+... das sag den andern ouch. ...
+ac senatores, quod iniuss[i?] ...
+Missae sunt literae Francford[iam] ...
+schaffner im hoff des lan[dgrafen] ...
+scholarchis per scholasterem ...
+iunxeram literas tibi quoque ins[criptas?] ...
+quod si nondum redditae sun[t] ...
+[Monomachiam] Davidis et Goliath inscribe ...
+pari Megandro, Erasmo Fabrit[io] ...
+Pellicano, Theodoro Bibliandro, Ama[no] ...
+epicediod. Eobani, viri clar[issimi] ...
+^&x Die 8. bis 10. Zeile des Fragments entsprechen im
+Entwurf (Ms F 37, 405v.) Z. 9-11; die 11. Zeile
+entspricht im Entwurf (Ms F 37, 405r.) Z. 41.^&x{<fe>
+Zürich ZB, Ms F 37, 405r.-v. (ohne Siegel)</vo>
+<vo>Kopie: ZZB, Ms S 48, 154<fn>Zit.: Senn, Wick 16f</fn></vo>
+<dr>Regest (mit Zitat): ^#/+Köhler,^#/- Hessen und die Schweiz 471, Nr. 21; Teilübersetzung: ^#/+Rudolf,^#/- Studenten 61f</dr>
+<re>Gwalther und seine Kollegen stellen nicht nur ständig Geldforderungen, sondern wollen sich auch durch Titel wichtig
+machen, die für ihre künftige Aufgabe belanglos sind - mehr zu den gewünschten Promotionen schreibt [Johann Jakob] Ammann -;
+die Mutter von [Johannes] Wolf hat bereits genug Opfer für ihren Sohn gebracht, und es tut ihnen gut, sich einschränken zu
+müssen. Falls der an den Hof des [Landgrafen] geschickte Brief sie nicht erreicht hat, sollen sie sich danach erkundigen.
+Der [von Marburg nach Konstanz gekommene] Ratsherr ist angewiesen worden, ihm und [Johann Jakob] Wick höchstens fünf
+Gulden zu leihen, die sie im Frühjahr zurückzahlen sollen. Eine Erhöhung seines Stipendiums ist ausgeschlossen, und das Beispiel
+von Werdmüller und Fries sollte ihn vor Verschuldung warnen; vielleicht wird man ihn und seine Kollegen bald zurückrufen.
+Versteht nicht, was er über Eobans Epicedium geschrieben hat, und möchte nicht, daß dieser mit einem Gedicht auf
+Zwingli die Fünf Orte provoziert; wird die gewünschten Zwingli-Porträts besorgen lassen und grüßt Gwalthers Lehrer.
+Schlägt Widmungsempfänger für dessen "Monomachia" und "Epistolae heroinae" vor. Weitere Grüße. Die Gerüchte über
+eine Schlacht zwischen den Zürchern und den Fünf Orten sind falsch; der gemeinsame Auszug zur Unterstützung Rottweils hat im
+Gegenteil Hoffnungen auf die baldige Überwindung des religiösen Gegensatzes in der Eidgenossenschaft geweckt, und auch sie sollen Gott darum bitten.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Omnes vestrae literae<f1>Bullinger bezieht sich auf die Briefe Gwalthers und seiner Kollegen Johannes Wolf, Johannes Haller und Johann Jakob Wick.<fe> aliud nihil quam pecunias postulant.
+At hac conditione non estis a nobis dimissi. Pactum est, quid daremus, et illo persoluto ne quid postularetis
+amplius. Nunc vero nullus est postulandi finis. Praeterea
+novos in dies modos excogitatis, quibus reddamini graviores.
+Quorsum enim attinet multo sumptu gradus magisterii recipere?
+Ubi domum redieritis et ecclesiae vices erunt rependendae,
+nemo rogabit, num sitis magistri an famuli, sed quam docti
+et boni. Non negabit vobis Marpurgensis schola testimoniales
+literas de vestro studio et virtute. Imo tu ipse tibi eris
+testis locupletissimus, si praestes opere, quod a docto et
+bono requiritur aut expectatur. Verum plura de titulis
+recipiendis scholaster Amianus scribet<f1>Der undatierte Brief Johann Jakob Ammanns an Gwalther findet sich in Zürich ZB, Ms F
+42, 4; zum Inhalt vgl. ^#/+Rudolf,^#/- Studenten 60f.<fe>. Wöllend ir aber so frävvel<f1>unverschämt.<fe> sin und alles das nach üwer
+gfallen thuͦn, das üch ind köppff schüst<f1>einfällt.<fe>, so wüssend wir dann, das unser herren üch und nitt pfläger zuͦ
+meistern gemachet habend. Wolphii mei mater<f1>Margaretha Leu, gest. 1568; s. Schweizerisches Geschlechterbuch = Almanach
+généalogique suisse, Bd. 7, Basel 1943, S. 687.<fe> vidua et tenuis quidem vidua conqueritur et ipsa de sumptu imodico filii. Numeravit Fro­­schouero in septembri
+a nundinis<f1>von der Frankfurter Messe.<fe> redeunti aureos sex, quos maluisset in alios usus maxime necessarios expendere.
+Novit ille matris tenuitatem et pergit interim exigere a paupercula. Ettwan<f1>Zuweilen.<fe> armuͦt lyden und sich trucken<f1>sich darein schicken.^&xSI XIV 797^&x{<fe> hat ouch sin lob und frucht.
+^$Scriptae sunt literae<f1>Nicht erhalten.<fe> ad vos, praesertim ad sodales tuos tres de confidenti profectione a Tubinga<f1>Zur
+eigenmächtigen Abreise Wolfs, Hallers und Wicks aus Tübingen vgl. oben Nr. 1421 und 1431.<fe>, item de aliis quibusdam rebus, et missae sunt in curiam
+principis<f1>an den Hof Landgraf Philipps von Hessen.<fe> Franckfordiae ad oeconomum<f1>Wer gemeint ist, bleibt unklar.<fe>. Quas si nondum recepistis, quaerite, obsecro, et curate per notos, ut reddantur.
+^$Iussi, senator ille, cuius tu nomen imprudenter siluisti<f1>Vgl. oben Nr. 1430, 2-8; 1432, 2-11.<fe>, 4 aut 5 ad summum aureos tibi numeret et totidem Wickio; sic eum
+iusserat pater<f1>Peter Wick.<fe>. Vos curabitis, ut illi reddantur ad vernas nundinas<f1>Zum Termin der Frankfurter
+Frühjahrsmesse s. oben Nr. 1390, Anm. 9.<fe>, ubi stipendium vestrum mittetur per Froschouerum.
+^$Ego vero tibi, Gvalthere, non possum auctius polliceri
+stipendium quam nuper definitum 34 gl. Est et pluribus aliis
+studiosis et pauperibus dandum. Vide, ne aere alieno te
+degraves; exemplo sint Werdmullerus<f1>Vgl. dessen oben Anm. 2 erwähnten Brief an Gwalther.<fe> et Phrysius<f1>Johannes Fries.<fe>, quorum
+uterque hodie altissime demersus gemit cupiens se aliquando
+frugaliorem fuisse. Interim tamen Froschouero te diligenter
+commendabo<f1>Vgl. oben Nr. 1430, 69f.<fe>. Fortassis brevi revocabimini.
+^$De epicedio Eobani, viri clarissimi, quid scribas<f1>Oben Nr. 1432, 21-23.<fe>, non intelligo. Si tamen epicedion in memoriam
+Zvinglii scriptum putas, nolo, id evulges, nam temetipsum perderes, nec vellem optimum et doctissimum virum
+<vl>405v.</vl>d. Eobanum quicquam acerbius in
+Quinquepagicos scribere. Nosti tu, quam difficilis stomachi
+sint isti homines. Aegre quicquam in se dictum liberius
+concoquerent, imo acusarent illum laesae maiestatis apud
+principem etc. Cave itaque, ne quid vel ab Helvetio vel ad
+Helvetium huius causae aliquid perscribatur. Icones Zvinglii
+parari curabo<f1>Vgl. oben Nr. 1430, 50-60; 1432, 24-26.<fe>.
+Salutabis diligentissime clarissimos viros Eobanum,
+Lonicerum, Gasparum Rodolphum, Noviomagum<f1>Gerhard Geldenhauer.<fe> ac reliquos amicos et fratres.
+^$Monomachiam<f1>Vgl. oben Nr. 1430, 44-48.<fe> inscriberemd. Felici Fry<f1>Propst Felix Frey.<fe>, praeposito collegii, Leoni
+Iudae, Gaspari Megandro, Erasmo Fabricio<f1>Erasmus Schmid.<fe>, H[einrycho] Bullingero, pastoribus et
+concionatoribus<fx>pastoribus et concionatoribus ^#/+am Rande nachgetragen.^#/-<fe>, Heroinas<f1>Vgl. oben Nr. 1420, Anm. 10.<fe> Pellicano, Bibliandro, Amiano, Collino, Bindero -
+Hebraico, Graeco, Latino lectori, ludimagistro<fx>^#/+von^#/- Hebraico ^#/+bis^#/- ludimagistro ^#/+am Rande
+nachgetragen.^#/-<fe>. Si vis, parato et aliud quodpiam poema Ioanni Rhellicano, paedagogo collegii abbatissani<f1>Rhellikan war Zuchtmeister des Fraumünster-Alumnats.<fe>, Ioanni Phrysio,
+ludimagistro, Otthoni Werdmullero, professori philosophiae<fx>professori philosophiae ^#/+am Rande
+nachgetragen.^#/-<fe>, Sebastiano Fabritio<f1>Sebastian Guldibeck.<fe> et Diethelmo Cellario, hypodidascalis etc., so hasts alle geeret und ghein erzürnt.
+^$Salutabis sodales tuos omnes, praesertim Wolffium, filium
+dilectissimum, cui ex animo bene volo ut et reliquis.
+^$Mendatium est, quod fama sparsit de conflictu nostrorum et
+Quinquepagicorum<f1>Vgl. oben Nr. 1430, 64-67.<fe>. All eydg[nossen] sind wol eins und habend
+1000 man wöllen gen Rootwyl legen in zuͦsatz<f1>als Hilfskontingent. - Die eidgenössische Truppe, die in
+Schaffhausen bereitstand, konnte bereits Ende November wieder entlassen werden, da sich eine friedliche Lösung der
+Landenberger Fehde abzeichnete; vgl. EA IV/1c 1271-1277; Hans ^#/+Lehmann,^#/- Stoffel von Breitenlandenberg und der geplante Kriegszug der Eidgenossen nach Rottweil. 2. Die Vorbereitungen der Eidgenossen zum Kriegszug und sein Ende, in: ZTB 1938, NF 58, S. 102-127; HBD 30, 15-26 (irrtümlich auf 1541
+datiert).<fe>; die sind schon zuͦ Schaffhusen gelägen, und zugend 24.
+novembris<fx>24. novembris ^#/+am Rande nachgetragen.^#/-<fe> Zürych mitt und under andren uuß uß der statt<fx>uß der stadt
+^#/+am Rande nachgetragen.^#/-<fe> Zürych, Ury, Schwytz und Zug; die badtend imm uußziehen durch niderdorff
+vomm fischmerckt, daß man inen verzige<f1>verzeihe.<fe>, sy wöltend uns alls guͦts thuͦn<fx>^#/+von^#/- die badtend ^#/+bis^#/- guͦts thuͦn
+^#/+am Rande nachgetragen.^#/-<fe>. Wyter hat man uußgenommen 15'000 mann zuͦ vendlinen<f1>Als Fähnlein wurden sowohl die
+Feldzeichen als auch die entsprechenden Heeresabteilungen bezeichnet.<fe>, und wolt man von allen orten und zuͦgewandten
+der gantzen eydgnoschafft<fx>und zuͦgewandten
+der gantzen eydgnoschafft ^#/+am Rande nachgetragen.^#/-<fe> ein gmeinen<f1>gemeinsamen.<fe> zug thon han; so ists
+von gotts gnaden gericht. Die eydgnossen wöllend sich
+fürohin zuͦsamen hallten, und was ioch<f1>auch immer.<fe> kumme an sy, den
+glouben nitt zuͦ einer ursach der trennung nemmen. Jetzund
+handlet man darvon, das ouch die 5 ort, Fryburg und
+Solenthurnn<fx>Fryburg und Solenthurnn ^#/+am Rande nachgetragen.^#/-<fe> und Wallis, so wir umbs gloubens willen
+angerendt<f1>angegriffen.<fe> wurdint, zuͦ uns setzind unds ein sach unser aller sye. Vil lüt wöllend vermeinen, sy werdint
+unsern glouben nitt wyt werffen<f1>nicht völlig verwerfen.<fe>. Sy sind sunst<f1>im übrigen.<fe> früntlicher dann
+noch nie<f1>Ähnlich äußerten sich nach der Badener Tagsatzung vom 17. November auch die Gesandten Basels; vgl. EA IV/1c
+1274.<fe>. Gott weist<f1>weiß.<fe>, was werden sol; den bittend trüwlich, daß er uns einigheit in rächtem glouben verlyhe. Vil lüten meinend, bschächs ietzund nitt, so beschäch es nitt bald
+mee. Das weist gott; den bittend trüwlich. O wie stünd es so
+wol, möchtend<f1>könnten.<fe> wir eins imm glouben Jesu Christi, unsers lieben herren, werden; wie wöltend wir so vil guͦter
+diensten armen, getrengten biderben<f1>rechtschaffenen.<fe> lüten thuͦn und so trüwlich hälffen denen, die vomm
+antichristen pinigt werdent. Dorumb bittend gott trüwlich, lieben sön.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

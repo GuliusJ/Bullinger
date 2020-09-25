@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1819">
+<nr>1819</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Erasmus Ritter]</addressee>
+	<note fn=1>Bullinger antwortet auf Ritters Brief vom 13. November (oben Nr. 1814); die z. T. fast wörtlichen Anklänge erlauben eine zweifelsfreie Bestimmung des Adressaten. Herminjard vermutete zu Unrecht André Zébédée als
+Empfänger (s. Corr. des réformateurs IX 118, Anm. 6).</note>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>22. November 1543</date>
+</space_time>
+<vo>Teilabschrift<fx>^#/+Der Anfang des Briefes fehlt; die Abschrift weist zahlreiche Anstreichungen auf. Vorangestellt ist auf f. 23r. eine lateinische Übersetzung von Luthers Brief an Christoph Frosch­auer vom 31. August 1543 (gedruckt: Corr.
+des réformateurs IX 121f); ob sie Bullingers Brief beilag, bleibt offen.^#/-<fe>: Paris Bibliothèque Nationale, Ms Dupuy 103, 23r.-24v.</vo>
+^&xmit lat.Ü. von Luther an Froschauer, 31. Aug. 1543: Ms Dupuy 103, 23r.; Druck: Corr. des réformateurs IX 121f, Anhang.^&x{
+<re>Ist Neuerungen abgeneigt; die Exkommunikation wurde vom Apostel [Paulus] und der Urkirche selten angewandt und von
+Christus nicht vorgeschrieben, und er selbst hält es für ausreichend, wenn in der Kirche auf eine gewisse Disziplin
+geachtet wird; Calvin, der sich in der "Institutio" zur Exkommunikation äußert, wird den Frieden in der Kirche gewiss
+nicht gefährden wollen, und Oekolampad hat mit ihrer Einführung wenig erreicht; Bullinger verweist auf Augustin, Contra
+epistolam Parmeniani, 3, 2, und warnt vor einer Verknechtung der Kirche. [Nimmt Stellung zu den auf Anfrage der Pfarrer von
+Mömpelgard in Neuenburg diskutierten Artikeln:] Eine Zulassungsprüfung zum Abendmahl wäre der erste Schritt zur
+Wiedereinführung der Ohrenbeichte und lässt sich biblisch nicht begründen; jeder prüfe sich selbst [1Kor 11, 28]! Die Letzte
+Ölung wurzelt in papistischem Aberglauben und bindet die Gnade an die Zeichen; auch hier will man zu menschlichen
+Erfindungen zurückkehren, die man früher bekämpft hat. Die Taufe soll von Amtsträgern der Kirche gespendet werden; die
+Hebammentaufe wird durch das Beispiel von Zippora Ex 4 [24-26] nicht gestützt und ist überflüssig; Bullinger vertraut - trotz
+abweichender Meinung Augustins - darauf, dass ungetaufte Kinder gerettet werden; Marcion ließ zu, dass Frauen taufen, doch der
+Apostel [Paulus] hielt sie von kirchlichen Ämtern fern. Im Gebrauch von Glocken und Begräbnisriten soll Freiheit herrschen,
+wenn nur kein Aberglaube damit verbunden ist. Gewisse Leute wollen sich durch die Einführung neuer Zeremonien als treue
+Schüler Luthers erweisen. Dieser verurteilt die Zürcher Theologen als gottlose Verführer, doch sein Schreiben [oben
+Nr. 1797, 68-83] ist privat, und sie werden darauf nicht mit Gleichem antworten; aus Niederdeutschland ist zu hören, ihr Ruf sei unbeschädigt.
+</re>
+<tx>[Gedruckt<fx>^#/+Mit einigen ungekennzeichneten Verbesserungen des fehlerhaften Textes.^#/-<fe>: Corr. des réformateurs IX 116-121, Nr. 1312.]
+</content>
+</letter>

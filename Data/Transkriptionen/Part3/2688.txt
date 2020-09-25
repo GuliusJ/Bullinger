@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2688">
+<brief>
+<id>16374</id>
+<nr>2688</nr> <from persid="BingSimon"/> <to persid="Bullinger"/> <place plid="Giengen an der Brenz"/> <date when="1546-11-21"/>
+<ae>Simon Bing an Bullinger</ae>
+<od>Im Feldlager bei Giengen, 21. November 1546</od>
+<vo>Autograph: Zürich StA, E II 363, 3 (ohne Siegel)
+<fa><i>Mit Schnittspuren.</i></fa></vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 94 </k></dr>
+<re><t>Bing verdankt Bullingers Brief vom 5. November [nicht erhalten]. Zuvor hatte er Bullingers vorheriges Schreiben [nicht erhalten] auch gut empfangen und dieses ebenfalls beantwortet [mit dem nur teilweise überlieferten Brief <qv>nr2666</qv>]. Er hatte Heinrich Thomann gebeten, diese Antwort [mit seinen Briefen] nach Zürich zu übermitteln, wo sie mittlerweile eingetroffen sein wird.</t>
+<t>Den Anhang zu Bullingers Brief [vom 5. November] hat er hingegen nicht empfangen. In der Eile wird Bullinger wohl vergessen haben, ihn seinem Brief anzufügen.</t>
+<t>Bullinger wird zweifellos von Thomann über den Kriegsverlauf informiert worden sein. Es kam in der letzten Zeit zu keinen nennenswerten Ereignissen. Was die Zukunft bringt, wird sich zeigen. Bing ist weiterhin bereit, Bullinger auf dem Laufenden zu halten.</t></re>
+<text>
+<div>
+<p>Mein fruntwillig dienst, und was ich ehren, liebs und gutts vermag, altzeitt zuvor, erwirdiger unnd hochgelarter, besonder lieber herr und frundt. <zzl>zl16374-3A</zzl><zzl>zl16374-1A</zzl>Ich hab ewer schreiben, des datum weiset den 5ten novembris
+<fn>Ein nicht erhaltener Brief, den Bullinger an Georg Frölich zur Weiterleitung an Bing gesandt hatte; s. <qv>nr2684</qv>,<qv>zl16371-4</qv>; <qv>nr2693</qv>,<qv>zl16379-2</qv>.</fn>, entpfangen,<zzl>zl16374-1E</zzl> inhalts verlesenn, unnd wil euch daruff hinwider nit verhalten, <zzl>zl16374-4A</zzl>das mir ewer vorig schreiben, so ir an mich gethan,
+<fn>Nicht erhalten.</fn> auch ist zukommen.<zzl>zl16374-4E</zzl><zzl>zl16374-3E</zzl> <zzl>zl16374-5A</zzl>Hab euch daruff geantwortt
+<fn>Mit einem Brief vom 10. November (s. <qv>nr2693</qv>,<qv>zl16379-1</qv>), von dem nur die Beilage erhalten geblieben ist (<qv>nr2666</qv>).</fn>, unnd solch antwortt ewerm mitburger Heinrich Thoman zugestelt, sie euch zu uberschicken.
+<fn>Thomann hat Bings Brief vom 10. November mit seinen beiden Schreiben an Zürich vom 10. November (Zürich StA, A 177, Nr. 130f) übermittelt; s. <qv>nr2693</qv>,<qv>zl16379-1</qv> und <qv>fn16379-3</qv>.</fn><zzl>zl16374-5E</zzl> Zweivelsfrei, sie werd euch numer
+<fn>nunmehr.</fn> zukommen sein.</p>
+</div>
+<div>
+<p><zzl>zl16374-2A</zzl>Sovil aber das vortragen,
+<fn>Gemeint ist damit Bullingers Bericht über den Tag zu Zürich (s. dazu <qv>nr2606</qv>, <qv>fn16294-1</qv>), dem vermutlich eine Abschrift des Schreibens der Vier Orte an die Fürsten des Schmalkaldischen Bundes vom 26. Oktober (s. dazu <qv>nr2662</qv>, <qv>fn16351-2</qv>) beigelegt war; s. <qv>nr2684</qv>,<qv>zl16371-6</qv>; <qv>nr2693</qv>,<qv>zl16379-3</qv>.<zfn>fn16374-2</zfn></fn> davon ir mir geschrieben, betrifft, hab ich dasselbig bei ewerm schreiben nicht vernomen
+<fn>bekommen; s. Georg <i>Benecke</i>, Wilhelm <i>Müller</i> und Friedrich <i>Zarncke</i>, Mittelhochdeutsches Wörterbuch, Bd. II/1, Leipzig 1863, Sp. 361a s.v. nâmen.</fn>, unnd achts darfür
+<fn>achts darfür: vermute.</fn>, es werde solchs in eill von euch ubersehen sein.
+<fn>Frölich hatte von Blarer diese Abschrift erhalten und sollte diese (oder eine weitere Abschrift davon) an Bing weiterleiten, sandte sie aber an Blarer zurück und leitete nur den Brief Bullingers an Bing weiter; s. <qv>nr2684</qv>,<qv>zl16371-6</qv>. - Siehe dazu ferner <qv>nr2693</qv>,<qv>zl16379-3</qv>.<zfn>fn16374-1</zfn></fn><zzl>zl16374-2E</zzl></p>
+</div>
+<div>
+<p>Wie die kriegssachen bei uns alhie stehen, das werdet ir ane zweivell aus bemelt
+<fn>dem erwähnten.</fn> Heinrich Thoman schreibenn vernomen
+<fa><i>Das Wort wird auf der Verso-Seite wiederholt.</i></fa> <vl>3v.</vl> haben. So hat sich auch ein zeit her bei uns nichts sonderlichs zugetragen. Was aber sich furtter
+<fn>weiter.</fn> zutragen, wirdet die zeitt zu erkennen geben. Das wolt ich euch also hinwider
+<fn>gelegentlich; gleicherweise; s. <a>SI</a> XV 620.</fn> nit verhalten, unnd bin euch damit freuntlich zu dienen altzeitt gneigt.</p>
+<p>Datum im veldlager bei Giengen, den 21. tag novembris anno, etc., 46.</p>
+<un>Symon Bing, chamer-</un>
+<un>secretarius zu Hessen.</un>
+<lz/>
+<p>[Adresse auf f. 2a,v.:] Dem erwirdigen und hochgelarten hern Heinrico Bullingero, der heiligen geschrifft lehrern zu Zurch, meinem besondern lieben hern und frundt.</p>
+</div>
+</text>
+</brief>

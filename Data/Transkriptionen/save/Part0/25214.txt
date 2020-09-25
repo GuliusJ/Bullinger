@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="25214">
+<nr>25214</nr>
+<correspondents>
+	<originator>Konrad Gessner</originator>
+	<addressee>[Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date>[...] [1555-1565]</date>
+</space_time>
+<vo>Autograph: ZB Ms. C 50a (2. Mappe), fol. 270 unten, in Nr. 50. (Siegel...)</vo>
+<dr></dr>
+<re></re>
+<tx>S: // Sezi tuo diligenter. At cum nostri II nom ...
+^$Tuus Bullingerus
+<lz>[Adresse ...]:
+</content>
+</letter>

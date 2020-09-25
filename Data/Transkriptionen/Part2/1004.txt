@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1004">
+<nr>1004</nr>
+<correspondents>
+	<originator fn=1>Philipp Gallicius</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Philipp Gallicius (Saluz), 1504-1566, aus dem damals bündnerischen Puntwil im Münstertal, 1523 an der Universität Ingolstadt immatrikuliert, wirkte sein Leben lang als Pfarrer und Lehrer in verschiedenen Gemeinden Graubündens.
+1524 erscheint er als Kaplan in Chamues-ch, von wo er nach seiner Parteinahme für die Reformation an der Ilanzer Disputation 1526 verwiesen wurde. Auch seine reformatorische Arbeit in Lavin und Guarda ab 1529 endete, nachdem er sich verheiratet hatte, mit der Vertreibung. Nach Aufenthalten in
+Langwies und Scharans kehrte er 1536 nach Lavin zurück; vorübergehend weilte er in Malans (1537), zur Disputation in Susch (1537/38) und zwei Jahre (1542-1544) als Lehrer in Chur.
+1550 wurde er an die Regulakirche in Chur berufen, wo er bis zu seinem Tode wirkte.
+Gallicius übersetzte das Vaterunser, das apostolische Glaubensbekenntnis und andere Texte ins Ladinische. Aus dem Jahr 1546 datiert ein theologisches Werk von seiner Hand, und einige Lieder in Durich Chiampels rätoromanischem Psalmenbuch von 1562 stammen von ihm.
+Er war der Verfasser der 1553 von der Bündner Synode angenommenen Confessio Raetica. Aus seinem Briefwechsel mit Bullinger sind noch über hundert Briefe erhalten. - Lit.:
+Georg ^#/+Leonhardi,^#/- Philipp Gallicius, Reformator Graubündens, Bern 1865;
+Conradin ^#/+Bonorand,^#/- Die Engadiner Reformatoren. Philipp Gallicius, Jachiam Tütschett Bifrun, Durich Chiampell. Voraussetzungen und Möglichkeiten ihres Wirkens aus der Perspektive der Reformation im allgemeinen. Anhang: Hans-Peter ^#/+Schreich-Stuppan,^#/- Il "cudesch da Psalms" dal 1562 da Durich
+Chiampel, Chur 1987, S. 52-60; Graubünden, Korr. I, S. XIX-XXXVII.
+</note>
+</correspondents>
+<space_time>
+	<place>Malans</place>
+	<date>3. Juni 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 9 (Siegelspur)</vo>
+<re>Obwohl er Bullinger nicht kennt, wagt er es, ihm zu schreiben; rühmt die auch durch die Publikationen für jedermann ersichtliche Gelehrtheit und Frömmigkeit Bullingers und bittet um dessen Zuneigung. Hat nicht richtig gesiegelt, weil er sein Siegel in Chur zurückgelassen hat; ein Briefbote gibt
+nun aber Gelegenheit zu schreiben.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 7f, Nr. 7.]
+</content>
+</letter>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2807">
+<brief>
+<id>17075</id>
+<nr>2807</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-02-12"/>
+<ae>Ambrosius Blarer an [Bullinger]
+<fn>Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn></ae>
+<od>[Konstanz], 12. Februar [1547]</od>
+<vo>Autograph: Zürich StA, E II 357a, 601 (ohne Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 588f, Nr. 1410<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 97 </k></dr>
+<re><t>Blarer und Konrad Zwick bedanken sich für Bullingers Brief [nicht erhalten], aus dem dessen Eifer und Liebe zu Konstanz und zur Gemeinde Christi im Allgemeinen gut ersichtlich wird. Möge Gott ihr gemeinsames Bemühen segnen und dieses zum Heil der Stadt verwenden. Bullinger soll für Blarer und Zwick beten, damit sie nichts Unchristliches unternehmen und Konstanz standhaft bleibe. Vieles, das Blarer sieht und hört, lässt ihm nämlich die Haare zu Berge stehen. Es gibt aber auch Anzeichen dafür, dass die zerrüttete Lage sich bessern könnte.</t>
+<t>Blarer kann nicht viel schreiben, da er seinen aus Ulm zurückkehrenden Verwandten [Peter Scher d.Ä. von Schwarzenburg] begrüßen will. Was er von diesem erfährt, wird er [mit Brief <qv>nr2812</qv>] mitteilen.</t>
+<t>Falls Christoph Froschauer sich nicht getrauen sollte, Bullingers "[Brevis] institutio" zu drucken, so wird dies bestimmt ein Drucker in Augsburg oder Basel gerne tun.</t>
+<t>Auf die mit größter Sorgfalt gefertigte "[Eidgenössische] Chronik" [von Johannes Stumpf] wartet man mit Ungeduld.</t>
+<t>Zwick und Blarers kranker Bruder [Thomas], welcher sich seit einigen Tagen nicht mehr gezeigt hat, lassen grüßen.</t>
+<t>Diejenigen, die Kaiser Karl V. gesehen haben, versichern, dass er gesund und munter sei. Was Bullinger über [die Übergabe Mömpelgards durch] Herzog Christoph [von Württemberg] an König Franz I. schreibt, wird als Beginn einer neuen Tragödie angesehen.</t>
+<t>Bullinger wird bestimmt sogleich über die Ankunft des französischen Gesandten [Guillaume Du Plessis, sieur de Lyancourt] in der Eidgenossenschaft berichten.</t>
+<t>Bullinger möchte sich des alten, niedergeschlagenen Hans Schöner annehmen und diesen über seine Augsburger aufklären. Schöner bat nämlich in seinem letzten Brief darum, doch kommt Blarer nicht dazu.</t>
+<t>Grüße und Segenswünsche. Die Zürcher mögen für die Konstanzer inständig beten.</t></re>
+<text>
+<div>
+<p><zzl>zl17075-3A</zzl>S. Literas tuas plenas studii et amoris erga nos
+<fn>Bullingers Brief, auf den sich Blarer hier und im Folgenden bezieht, ist nicht erhalten.</fn> tui gratissimo animo consobrinus
+<fn>Konrad Zwick.</fn> et ego accepimus, hinc plane ut alias sepe intelligentes, quam tibi sint et publica nostra negocia et communis Christi caussa cordi. Multum speramus benignissimum patrem in celis in istis prorsum accisis nostris rebus clementer adfuturum tuaque opera tanquam electissimi organi sui ad certam nostram et reipublic{e} nostr{e} salutem feliciter usurum. O mi frater, age, fac! Christum pro nobis sedulis votis ardentissime interpella, ut ne quid indignum christianis hominibus designemus, sed pulchre ac perpetuo nobis constantes in hac urbe Constantia constemus. Multa certe videns ac audiens cunctus cohorresco! Interim tamen animus in speculam nonnullam assurgit fore credens, ut meliorem aliquando rerum nostrarum faciem videamus. Eam
+<fn>Gemeint ist: Eam fidem.</fn> dominus suo spiritu in me multisque aliis sanctis Christi membris usque augeat et ad suum usque diem conservet.<zzl>zl17075-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17075-2A</zzl>Non possum iis multa addere, quando charissimus affinis meus
+<fn>Peter Scher d.Ä. von Schwarzenburg; s. <qv>nr2812</qv>,<qv>zl17080-2</qv>.</fn>, Ulma nunc rediens, salutandus mihi est; a quo quicquid didicero, diligenter posthac ad te perscribam
+<fn>Mit Brief <qv>nr2812</qv> vom 13. Februar.</fn>.<zzl>zl17075-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17075-1A</zzl>Si Froschovero vestro integrum non est Institutionem
+<fn>Bullingers Karlstagsrede "Brevis institutio pastorum" vom 28. Januar 1547; s. <qv>nr2743</qv>, <qv>fn17012-1</qv>.</fn> tuam excudere, non dubito, quin vel August{e} vel Basile{e} sit qui istuc et possit et facturus sit libentissime.
+<fn>Davon ist kein Druck bekannt.</fn><zzl>zl17075-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17075-4A</zzl>Chronica
+<fn>Johannes Stumpfs "Eidgenössische Chronik" von 1547/48 (<a>VD16</a> S9863).</fn>, de quibus scribis, magna diligentia elaborata maximo desiderio expectamus.<zzl>zl17075-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17075-5A</zzl>Germanus frater meus
+<fn>Thomas Blarer.</fn> ob infirmiorem valetudinem diebus aliquot non prodiit. Iubet autem te cum optimo consobrino meo Zviccio plurimum in domino salvere.<zzl>zl17075-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17075-6A</zzl>Caesarem
+<fn>Karl V.</fn> affirmant, qui viderunt
+<fa>qui viderunt <i>am Rande nachgetragen.</i></fa>, vegeto optimeque habito corpore esse.
+<fn>Diese Klarstellung bezieht sich auf das damals grassierende Gerücht, laut dem der Kaiser sehr krank war; s. die in <qv>nr2819</qv>, <qv>fn17063-2</qv>, verzeichneten Verweise.</fn><zzl>zl17075-6E</zzl> <zzl>zl17075-7A</zzl>Qu{e} de principe Christophoro
+<fn>Christoph von Württemberg.</fn> et Gallo
+<fn>Franz I. - Dies wird Bullinger u.a. aus Johannes Gasts Brief von der zweiten Hälfte Januar erfahren haben; s. <qv>nr2753</qv>,<qv>zl17000-11</qv>.</fn> scribis, nov{e} tragoedie initia esse omnes existimant.<zzl>zl17075-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17075-8A</zzl>Galli ad vos magnifica legatio
+<fn>Guillaume Du Plessis, sieur de Lyancourt; s. <qv>nr2794</qv>,<qv>zl17062-6</qv>.</fn>, ubi venerit, non dubito, quin nos quam primum certiores sis facturus.<zzl>zl17075-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17075-9A</zzl>Schönerum
+<fn>Hans Schöner.</fn> afflictum vereque miserandum senem tibi commendo, utque aliquando de Augustanorum suorum rebus nonnihil illi exponas, vehementer etiam atque etiam te rogo. Petiit hoc a me proximis literis
+<fn>Nicht in <a>Blarer BW</a>.</fn>, sed nihil plane possum.<zzl>zl17075-9E</zzl></p>
+</div>
+<div>
+<p>Salveat tua domus, cui dominus benigne benedicat. Salveant omnes amici ac fratres, administri tui in domino. Cupimus hic omnium vestrum orationibus communi servatori Christo accuratissime ac semper commendari. 12. februarii.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div>
+</text>
+</brief>

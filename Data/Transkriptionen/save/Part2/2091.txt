@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2091">
+<nr>2091</nr>
+<correspondents>
+	<originator fn=1>Wolfgang Strasser</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Wolfgang Strasser (Straßer). Wohl der im Ambergischen Pfarrerbuch Genannte: Geb. zu Aichach, verheiratet mit Margareta, geb. [...], gest. November 1554. (Nach) Oktober 1538 in Amberg als Nachfolger von Johannes Modler. Zur Abfassungszeit dieses Briefes offensichtlich Pfarrer in Gundelfingen a.d. Donau (s. unten Z. 18f). 1548-1553 Kaplan in Lauf bei Nürnberg; 15[...] in Nürnberg-Karthaus, 1553 Pfarrer in Burgfarrnbach, 1553 Prediger in Amberg. Der vorliegende Brief ist der einzige aus der Korrespondenz mit Bullinger. - Lit.: Johann Kaspar ^#/+von Wiltmaister,^#/- Churpfälzische Chronik oder Beschreibung vom Ursprunge des jetzigen Nordgau und obern Pfalz ..., Sulzbach 1783, S. 63; Johann Baptist ^#/+Schenkl,^#/- Neue Chronik der Stadt Amberg, Bd. 1, Amberg 1817, S. 101; [Maximilian] ^#/+Weigel,^#/- [Joseph] ^#/+Wopper^#/- und [Hans] ^#/+Ammon,^#/- Ambergisches Pfarrerbuch, Kallmünz 1967, S. 160, Nr. 1076. Dass Strasser in Gundelfingen a.d. Donau (und nicht in Gundelfingen, Lkr. Breisgau-Hochschwarzwald) wirkte, legt der nächste Brief (unten Nr. 2092) nahe, der von Hans Ulrich Zeißler am gleichen Tag aus Gundelfingen an Bullinger geschrieben wurde und in dem Lorenz Agricola erwähnt wird, der nachweislich in Gundelfingen a.d. Donau wirkte; s. HBBW XIV 236, Anm. 1. Zudem ist ein Wolfgang Strasser in Gundelfingen i. Breisgau (Lkr. Breisgau-Hochschwarzwald) nicht nachgewiesen; s. Albert ^#/+Ludwig,^#/- Die evangelischen Pfarrer des badischen Oberlands im 16. und 17. Jahrhundert, Lahr i. B. 1934. Eine weitere Person namens Wolfgang Strasser ("Wolfgangus Strasser von Hoff auß der Gasteynn"), immatrikuliert Sommersemester 1540 in Leipzig (s. Leipzig, Matrikel I 631) dürfte wegen der Herkunft aus Gastein mit dem hier Genannten nicht identisch sein.^&xOsianderGA und Schottenloher: 00^&x{</note>
+</correspondents>
+<space_time>
+	<place>Gundelfingen [a.d. Donau]</place>
+	<date>5. März 1545</date>
+	<note>Gundelfingen a.d. Donau, Lkr. Dillingen a.d. Donau, Bayern; s. die vorige Anm.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 356, 42 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 183^&x{
+<re>Strasser, obwohl Bullinger unbekannt, bittet um wohlwollende Aufnahme seines Briefes.
+-^#. Er hat Bullingers Kommentare zur Apostelgeschichte und zu den Paulusbriefen gelesen. Alle Gelehrten schätzen auch die kürzlich erschienenen Kommentare zum Matthäus- und Johannesevangelium. Man hofft auf Bullingers Kommentierung des Markus- und Lukasevangeliums.</re>
+<tx>S[alutem] d[ico]. Miraris forte, eruditissime Henryche, qua fronte ego talis tibi tanto scribere sim ausus,
+maxime cum nulla inter nos unquam intercesserit vel notitia vel familiaritas.
+At mirari certe desineres, si tibi animus erga te meus, meum pro te studium satis cognitum foret.
+^$Perlegi aliquot lucubrationes tuas, quas in Acta apostolica<f1>Bullingers Kommentar zur Apostelgeschichte (HBBibl I 43f) war erstmals 1533 und in zweiter Auflage 1535 erschienen.<fe>, in omnes Pauli epistolas canonicas<f1>Die Gesamtausgabe von Bullingers Paulusbriefkommentaren (HBBibl I 84) von 1537.<fe> item nobis dedisti.
+Prodierunt praeterea nuper in publicum doctissimi illi tui Commentarii in Matthęum<f1>Bullingers Matthäuskommentar (HBBibl I 144) von 1542.<fe> et Ioannem<f1>Bullingers Johanneskommentar (HBBibl I 153) von 1543.<fe> aediti,
+qui tanto omnium pie doctorum desiderio, tanta aviditate hauriuntur ab omnibus,
+ut tibi pro hisce pulcherrimis laboribus imortales gratias debeat sancta Christi ecclesia.
+Dominus Iesus, cuius tu strenue negotium agis, corroboret te spiritu suo bono<f1>Vgl. Eph 3, 16.<fe>
+et augeat egregia dona tibi concessa<f1>Vgl. 2Tim 1, 6.<fe>, ut sacrosancta evangelii veritas tua opera latius diffundatur illustreturque.
+Speramus enim etiam in Marcum et Lucam commentarios<f1>Bullinger arbeitete damals an seinem Kommentar zum Markusevangelium (HBBibl I 170), der im August 1545 erschien. Sein Lukaskommentar (HBBibl I 173) wurde im August 1546 veröffentlicht.<fe>
+per te, o frater, in lucem aut aeditos aut propediem aedendos.
+^$Vale, humanissime Henryche, et hec mea scripta licet inculta et plus quam extemporaria<f1>improvisiert; s. ^#/+Hoven^#/- s.v.<fe> boni consule.
+^$Datum Gundelfingę, 5. martii anno etc. 45.
+<un>Wolphgangus Strasserus,
+<un>Gundelfingensis ecclesię minister,
+<un>tibi deditissimus.
+<lz>[Adresse auf der Rückseite:] Magnę cum pietatis tum eruditionis virod. Henrycho Bullingero,
+Tigurinę ecclesię episcopo vigilantissimo, hę dentur literę.<f1>Vermutlich gemeinsam mit unten Nr. 2092 an Bullinger übersandt.<fe>
+</content>
+</letter>

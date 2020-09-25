@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="35134b">
+<nr>35134b</nr>
+<correspondents>
+	<originator>[Bullinger?]</originator>
+	<addressee>Gelehrte [in der Pfalz?]</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date>12. Dezember 1565</date>
+</space_time>
+<vo>Zürich StA, E II 371, 1013r.-1014v.</vo>
+<note>Maschinenschriftliche Transkription an der Fiche unseres Karteikastens angeheftet.</note>
+</content>
+</letter>

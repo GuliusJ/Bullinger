@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1394">
+<nr>1394</nr>
+<correspondents>
+	<originator>John Butler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>[um 16. Mai 1540]</date>
+	<note>Der Hinweis auf die drei eingekerkerten englischen Geistlichen verweist den Brief ins Jahr 1540 (s. dazu LP XV, S. 206, Nr. 485, sowie das Reg.). Butler selbst erwähnt Pfingsten (in diesem Jahr: 16. Mai); in Gwalthers Brief vom 16. Mai ist ebenfalls von der
+bevorstehenden Reise Butlers nach Frankfurt die Rede (vgl. oben Nr. 1393, Z. 6-13).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 360 (Siegelspur)</vo>
+<re>Wartet auf [William] Peterson, der im März seine Ankunft auf Pfingsten angekündigt hat, aber in Frankreich festgehalten
+worden sein könnte; Butler oder andere Engländer werden für einen eventuellen Verlust von [Rudolf] Schinz aufkommen.
+Peterson wird über die Wirren in England berichten, wo drei hervorragende Geistliche [Robert Barnes, Thomas Garrett und
+William Jerome] in den Tower gelegt wurden. Butler wird nach Frankfurt reisen, um einige englische Flüchtlinge zu trösten. Grüße. Bittet um Fürbitte.
+</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae
+409f, bzw. Original Letters II 631f, Nr. 291.]
+</content>
+</letter>

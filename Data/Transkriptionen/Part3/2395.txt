@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2395">
+<brief>
+<id>16085</id>
+<nr>2395</nr>
+<ae>Hermann Aquilomontanus an Bullinger</ae>
+<od>[Oldersum], 26. März 1546</od>
+<vo>Autograph: Zürich StA, E II 338, 1430 (Siegelspur)</vo>
+<dr>Teildruck: J[acobus] ten <i>Doornkaat Koolman,</i> De Anabaptisten in Oostfriesland ten tijde van Hermannus Aquilomontanus (1489-1548), in: Nederlands Archief voor Kerkgeschiedenis, NS 46, 1964/65, S. 98f <br/>Übersetzung: <i>Krömer,</i> Aquilomontanus 65-67<k>Kopien 18. Jh.: Zürich ZB, Ms S 59, 154 ("23. März 1546"); 19.Jh.: Straßburg BNU, Ms 676 (Thes. Baum. 17), 62; Ms 682 (Thes. Baum. 23), 334; Kopie+Übersetzung 20. Jh.: Emden BGK, Hs fol. 37, Nr. 9; Erw.: Weerda, Das ostfries. Experiment, 102</k></dr>
+<re>Aquilomontanus dankt dafür, dass Bullinger ihm so freundlich durch [Gerhard] Westerburg schrieb [nicht erhalten].
+<t/>Im letzten Winter war er dreimal krank und ans Bett gefesselt. Zu Weihnachten sah er sich dem Tode nahe und setzte sein Testament auf. Freunde und Nachbarn trösteten seine Ehefrau [...]. Zwar ist er noch nicht wieder ganz gesund, [hält aber trotzdem Gottesdienste] in der Kirche. Damit er nicht auf die Kanzel steigen muss, setzt er sich auf die Stufen des Chores, von wo aus er [das Evangelium] verkündigt. Zwar kann er essen und trinken, doch verspürt er keinen Appetit. Er glaubt, dass Gott ihn mit dieser Todesahnung ermahnt hat. Nun hofft er auf den Sommer, da er die Kälte nur schlecht verträgt. Bullinger soll für ihn beten.
+<t/>[In Friesland] werden die besten Männer von den fanatischen Ansichten der Täufer angesteckt. Es ging von deren Prophet [Menno Simons] ein Verbot aus, die [reformierten Geistlichen] anzuhören und ihren Gottesdienst zu besuchen. Vermutlich wollen [die Täufer] die [Reformierten] vertreiben, damit sie nicht angeklagt werden können und ihre Habgier nicht enthüllt wird.
+<t/>Samuel [Pellikan] wird über die [Situation in Friesland] berichtet haben. Aquilomontanus, der wegen der Abwesenheit seines Kollegen [...] vormittags zweimal predigen musste, konnte sich nicht besonders gut um [Samuel Pellikan] und Gerhard [thom Camph] kümmern. Er schrieb damals den [Zürcher] Pfarrern und hofft, dass diese sein Schreiben gut aufnahmen. Bullinger und [Rudolf] Gwalther sollen alle Kirchendiener grüßen.
+<t/>Aquilomontanus bedauert Meganders Tod.
+<t/>Wenn das in [Friesland] umgehende Gerücht von Luthers Tod wahr ist, dann könnte man auf Frieden hoffen, wenn nicht manche, die sich ihrem Lehrer verpflichtet haben, mehr nach dem Sieg als nach der Wahrheit trachteten. Falls die Zürcher wieder in die Arena müssten, möchte Aquilomontanus sie erneut zur christlichen Mäßigung mahnen. Wichtig ist es, Christus zu vertrauen, der seine Sache selbst verteidigt. Bullinger weiß ja, dass die hartnäckigen Ketzer nur durch Gebet und spirituelles Fasten besiegt werden können.
+<t/>Grüße.
+<t/>Bucer hat versucht, durch einen weitschweifigen Brief an [Johannes] a Lasco seine Unbeständigkeit und Luthers Meinung zu verteidigen. A Lasco antwortete darauf mit der ihm eigenen Milde. Aquilomontanus wundert sich über Bucers Wankelmut, der wohl wie alle die Wahrheit zu besitzen meint.
+<t/>Gruß.</re>
+<text>
+<p>Salutem, amicorum integerrime. Quod nullam occasionem me salutandi ac docendi omittas, gratiam habeo, cum per Westenburgum Coloniensem
+<fn>Gerhard Westerburg, der sich während der zweiten Hälfte Juli 1545 in Zürich aufgehalten hatte; s. <a>HBBW</a> XV 403, Anm. 3.</fn> amice scripseris.
+<fn>Nicht erhalten. Der Brief datierte vom 1. August 1545 und wurde Westerburg anvertraut. Aquilomontanus erhielt ihn etwa am 11. November 1545; s. dazu <qv>nr2415</qv>,<qv>zl2415-1</qv>.</fn></p>
+<p>Me quidem, virorum optime
+<fa>optime <i>über der Zeile nachgetragen.</i></fa>, dominus hac hieme ter in lectum coniecerit et morbo hic grassanti exercuerit, uti circa natale
+<fn>Weihnachten.</fn> conscripto testamento nil nisi mortem cogitabam. Amici ac vicini circumstantes uxorem
+<fn>Unbekannt.</fn> sola patientia solabantur. Attamen misericors dominus sua misericordia meam miseriam piorum precibus protraxit. Faxit idem,
+<fn>Zu verstehen ist: Faxit, ut.</fn> in utilitatem ecclesie sue vita hec senilis cedat. Nondum integritati restitutus sum, quod quidem non spero. Attamen templum accedo et nedum suggestum ascendi, sed ad gradus chori sedeo et semicirculo me contineo, unde voluntatem domini mihi commissam denuntio. Edo quidem et bibo, absque tamen appetitu. Sentio me monitum a domino ac mortis nuntium accepisse. Spero tamen meliora, si estas redierit, cum impatientissimus sim frigoris. Precor, pro me ores, fortificet
+<fn>Zu verstehen ist: ut dominus fortificet.</fn> me in ecclesie sue utilitatem.</p>
+<p>Incrudescit
+<fn>incrudescere = crudescere ("heftig werden"; "zunehmen"); s. <a>Du Cange</a> IV 334, anders als bei <a>Kirsch</a> s.v., wo nur der Sinn "rauh werden" angeführt wird.</fn> hic fanatica opinio anabaptistica et optimates, rectores ac nobiles regionis, infecit, et a propheta
+<fn>Menno Simons.</fn> eorum edictum acceperunt non audiendi nos neque templa visitandi.
+<fn>Gemeint ist wohl die Schrift, die Simons nach den gescheiterten Gesprächen mit Johannes a Lasco von Ende Januar 1544 verfasst hatte: "Een korte ende klare Belydinge ende schriftelycke Aenwysinge ..." (englische Übersetzung unter dem Titel "Brief and Clear Confession", in: The Complete Writings of Menno Simons c. 1496-1561, übers. v. Leonard Verduin, hg. v. John Christian Wenger, Scottdale, Pennsylvania, 1956, S. 419-454); s. Christoph <i>Bornhäuser,</i> Leben und Lehre Menno Simons'. Ein Kampf um das Fundament des Glaubens (etwa 1496-1561), Neukirchen-Vluyn 1973 - Beiträge zur Geschichte und Lehre der Reformierten Kirche 35, S. 36f. - Menno Simons lehnt darin eine Teilnahme am [reformierten] protestantischen Gottesdienst und Abendmahl deutlich ab; s. The Complete Writings ..., S. 446f.</fn> Hoc ferunt maiores et, quantum sentio, vellent nos omnes pulsos, ne arguantur ac eorum avaritia reveletur. Potest hic omnia tinniens oratio.</p>
+<p>Credo te a Samuele
+<fn>Samuel Pellikan, der im August 1545 auf Besuch in Friesland war; s. <a>HBBW</a> XV 362, Anm. 1. 468.</fn>, optime spei iuvene, accepisse, que apud nos viderit et audierit. Cogebar tum ob simmiste
+<fn>Unbekannt.</fn> absentiam bis ante prandium contionari. Tractavi hominem
+<fn>Samuel Pellikan.</fn> ac Gerardum
+<fn>Gerhard thom Camph.</fn> pro nostra mediocritate. Scripsi ministris
+<fn>Den Zürcher Pfarrern. - Der Brief ist bezeugt, aber nicht erhalten; s. <a>HBBW</a> XV 470 und Anm. 22.</fn> ex tempore. Spero, boni consuluerint, que simplici animo scripta erant. Nunc per te ac Rodolphum
+<fn>Rudolf Gwalther. Falls hier auf einen Brief von Aquilomontanus an Gwalther angespielt würde, ist dieser nicht erhalten. - Wir danken Herrn Kurt Jakob Rüetschi für diese Auskunft.</fn> velim ministros omnes salute bona beatos, cum non vacet nec valeo.</p>
+<p>Doleo ecclesiam suo pastore destitutam Megandro;
+<fn>Kaspar Megander war am 17. August 1545 gestorben; s. <a>HBBW</a> XV 481,10f.</fn> sed mortales nos in mundum ac hospites creavit altissimus. Cordi imprimendum, nobis ad nutum domini hinc solvendum, ac gratie agende de hospitii commoditate.</p>
+<p>Hic fama fertur, sed incerta, m. Lutherum vita defunctum.
+<fn>Luther war am 18. Februar gestorben.</fn> Quod si verum fuerit, pacem sperarem, ni quidam in verba magistri coniurati
+<fn>Vgl. <i>Horaz,</i> Epistulae, 1, 1, 12.</fn> victoriam plus ac veritatem desiderarent. Oro vos per Christum, unicum mediatorem,
+<fn>Vgl. 1Tim 2, 5.</fn> si forte rursum in arenam descendere
+<fn><a>Adagia</a> 1, 9, 83 (<a>ASD</a> II/2 396, Nr. 883).</fn> contingat, christiane modestie ne obliviscaris. Non vult Christus nos vincere neque in nostra innocentia ac cause puritate, neque
+<fa>neque in adversariorum cecitate <i>am Rande nachgetragen, jedoch mit einem Einfügungszeichen, das irrtümlich nach</i> innocentia <i>eingesetzt wurde.</i></fa> in adversariorum cecitate, sed ipsi confidere.
+<fn>Vgl. 1Joh 5, 4.</fn> Ipse suam causam defendit semper et defendet. In timore domini reddenda ratio nostre spei
+<fn>Vgl. 1Petr 3, 15.</fn>; attamen victoria in manu domini.
+<fn>Vgl. Joh 16, 33; 1Kor 15, 57.</fn> Nosti, virorum candidissime, pertinaces hereticos nunquam humana industria victos, sed oratione, ieiunio
+<fn>Vgl. Mt 17, 21.</fn> vero non carnali sed spirituali, cum homo suum offitium agat ac incrementum domino acceptum ferat.
+<fn>Vgl. 2Kor 9, 10.</fn> Boni consules, scio, meum monitionem rudem, cum cor noveris, ex quo procedat.</p>
+<p>Vale et me tuis precibus deo commenda. Postridie annuntiationis Marie
+<fn>Verkündigung Mariä am 25. März.</fn> anno 46.</p>
+<un>Tuus Hermannus Aquilomontanus valetudinarius,</un>
+<un>minister ecclesie Domus Senum.</un>
+<lz/>
+<p><vl>1430v.</vl> <zzl>zl2395-1A</zzl>Martinus Bucerus prolixis literis
+<fn>Zu Bucers Brief an a Lasco vom 16. April 1545 s. <a>HBBW</a> XV 433, Anm. 9; und zuletzt oben <qv>nr2390</qv>,<qv>zl2390-2</qv>.</fn> reverendissimo d. a Lasco, viro vere nobili ac celesti doctrina praedito, suam inconstantiam et Lutheri opinionem defendere conatus est. Cui dominus pro innata lenitate respondit.
+<fn>A Lascos Brief an Bucer vom 23. Juni 1545 (<a>A Lasco, Opera</a> II 591f).<zfn>fn2395-1</zfn></fn> Miror hominum inconstantiam; sed vincere cupimus et gloriari, non doceri, quasi omnia nobis tradita ac veritas a nobis occupata foret.<zzl>zl2395-1E</zzl></p>
+<p>Vale et pro me ora.</p>
+<lz/>
+<p>[Adresse darunter:] Fidelissimo ac sincero verbi dei ministro d. Henrico Bullingero, ecclesie Tigurine pastori, suo praeceptori.</p>
+</text>
+</brief>

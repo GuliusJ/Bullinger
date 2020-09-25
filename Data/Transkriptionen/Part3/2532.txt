@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2532">
+<brief>
+<id>16223</id>
+<nr>2532</nr>
+<ae>Konrad Zwick und Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz, kurz nach 10. August 1546]
+<fn>Das Datum ergibt sich zum einen aus der Erkundigung nach dem Ausgang der Tagsatzung zu Baden (welche am 9. August begonnen hatte), zum anderen aus dem Datum (14. August) von Bullingers Antwort auf diese Nachfrage; s. <qv>nr2535</qv>,<qv>zl16225-2</qv>. Zudem muss vorliegendes Schreiben nach Blarers Brief <qv>nr2530</qv> vom 9. August verfasst worden sein, denn am 9. konnte Blarer trotz seiner Krankheit noch eigenhändig schreiben.</fn></od>
+<vo>Autograph Zwicks: Zürich StA, E II 357a, 867 (Siegelabdruck)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 487f, Nr. 1328<k>Regest und Kopie 18. Jh.: Zürich ZB, Ms S 199, 55 und 56; undatierter Brief 736; vgl. auch Blarer BW 490; EA IV/1d 655ff </k></dr>
+<re>Da Blarer wegen seiner Kopfschmerzen nicht schreiben kann, lässt er Bullinger durch Konrad Zwick bitten, ihm gleich nach Ende der Tagsatzung zu Baden und auf seine Kosten mit einem Boten darüber zu berichten. Blarer ist an den Verhandlungen zwischen Frankreich und den Eidgenossen besonders interessiert. Warum, teilt er später mit.
+<t/>[P.S. von Zwick:] Zur Bezeugung seines Anliegens hat Blarer eigenhändig unterschrieben. [Zusatz von Blarer:] Als ob das Schreiben sonst nichts ausrichten würde!</re>
+<text>
+<p><zzl>zl16223-3A</zzl>Gunstiger, lieber herr, <zzl>zl16223-2A</zzl>diewyl maister Ambrosius diser zit im hopt kranck ist und im das schriben seer wee th{uo}t,<zzl>zl16223-2E</zzl> hatt er mir bevolhen, uch von sinet wegen mit sonderem fliß z{uo} bitten, so bald <zzl>zl16223-1A</zzl>der nechstkunfftig tag z{uo} Baden
+<fn>Die Tagsatzung zu Baden; s. <qv>nr2529</qv>, <qv>fn16220-3</qv>.</fn><zzl>zl16223-1E</zzl> sin ennd erraycht, das ir inn by aignem potten uff sinen costen vertruwlich berichten wellennd, waß zwüschent Franckrych und den A[idgnossen],
+<fn>Siehe dazu <a>EA</a> IV/1d 655f d.</fn> ouch sunst anderer sachen halb, davon ir schriben d{oe}rffent, beschlossen sye. Dann im will an sollichem, das ers bald wisse, ettwas gelegen sin, wie er uch des hernach berichten wirtt
+<fn>Ein Brief solchen Inhalts ist nicht erhalten.</fn>. Darum lassent uch die erfarung
+<fn>Erkundigung.</fn> angelegen sin.<zzl>zl16223-3E</zzl></p>
+<un>Conrat Z.</un>
+<un>Ambr. Blaurerus
+<fa><i>Eigenhändige Unterschrift.</i></fa>.</un>
+<lz/>
+<p>M. A[mbrosius] hatt sich mit siner hand selbs underschriben z{uo} gezügknus
+<fn>Bezeugung.</fn> sines bitts. <fa1 bis="1"><i>Von Blarer am Rande nachgetragen.</i></fa1>Gleich alls ob es sunst nichts by euch gelt.<fa1e von="1"/></p>
+<lz/>
+<p>[Adresse ist verklebt.]
+<fn>Diesem Schreiben scheint ohne Wissen Blarers ein Schreiben (vielleicht von Zwick) an den Arzt Jakob Ruf beigelegt worden zu sein, mit welchem dieser zur Behandlung Blarers nach Konstanz gebeten wurde oder zumindest von Blarers Krankheit erfuhr; s. <qv>nr2535</qv>,<qv>zl16225-3</qv>; <qv>nr2546</qv>,<qv>zl16233-2</qv>; <qv>nr2556</qv>,<qv>zl16244-2</qv>.<zfn>fn16223-1</zfn></fn></p>
+</text>
+</brief>

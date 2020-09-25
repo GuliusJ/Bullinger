@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2694">
+<brief>
+<id>16380</id>
+<nr>2694</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-26"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>[Basel], 26. November 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 45 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, 399f, Nr. 13;<br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 148f, Nr. 16<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 98; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 228 (Schmidt); Madrid BN, 8862, f. Ddro 11; Erw.: Boehmer, Spanish Reformers I, 1874, 183. 207</k></dr>
+<re><t>Enzinas ist sehr dankbar dafür, dass Bullinger sich ihm in dem während des Druckes entstandenen Engpass behilflich erwiesen hat. Hier nun einige Exemplare der Geschichte von [Juan] Diaz' [Ermordung].
+<fn>Die "Historia vera de morte Diazii"; s. <qv>nr2654</qv>, <qv>fn16343-2</qv>.</fn> Was sagt denn Bullinger dazu? Dieser soll die anderen Exemplare unter den Kollegen verteilen, denen Enzinas nicht einzeln schreiben kann. Die Hefte (Lagen)
+<fn>In der Vorlage: "quaterniones". Das Wort bedeutet nicht unbedingt eine Lage mit vier Blättern; es kann auch irgendeine Lage bezeichnen, also auch eine solche, die aus vier Doppelblättern (oder 16 Seiten) bestand; s. Georg Friedrich <i>Wehrs,</i> Vom Papier, Halle 1789, S. 685; und <a>HBBW</a> II 104 und Anm. 10 (wo man auf ähnliche Weise den Fall einer "duernio" hat, die vier Blätter zählte). - Enzinas hatte Bibliander um Diaz' Glaubensbekenntnis gebeten (s. <qv>nr2654</qv> und <qv>nr2656</qv>). Da hier von mehreren Lagen die Rede ist, wird es sich nicht bzw. nicht nur um die lateinische, in Neuburg a.d. Donau erschienene Fassung von Diaz' Glaubensbekenntnis (s. <a>HBBW</a> XVI 416, Anm. 2) handeln, da diese nur aus einer Lage von acht Blättern besteht, sondern auch um ein aus 16 Lagen bestehendes Exemplar von Enzinas' neu erschienener "Historia vera de morte Diazii" (<a>VD16</a> E1436).<zfn>fn16380-1</zfn></fn> sind für Theodor [Bibliander] bestimmt. Das kleine Paket soll bei nächster Gelegenheit nach St. Gallen befördert werden.</t>
+<t>Es stimmt nicht, dass der Tyrann [Karl V.] entflohen ist, wie dies behauptet wurde. Soll er doch sterben, wenn er sich nicht bekehrt! Denn wenn er bei diesem Wetter im Lager bleibt, wird er wahrscheinlich im nächsten Jahr gar nicht mehr kämpfen können.</t>
+<t>Enzinas hat von einem Friedensabkommen gehört. Weiß Bullinger etwas dazu?</t>
+<t>Die Nachrichten über Herzog Moritz [von Sachsen] und die Böhmen sind leider nur zu wahr! Wäre doch Philipp [Melanchthon]
+<fn>Enzinas war mit dem damals (wegen des Überfalls auf Sachsen) in Gefahr schwebenden Melanchthon sehr befreundet und hatte bei diesem längere Zeit gewohnt; s. <a>MBW-Reg</a> XI 367. - Melanchthon hatte bereits am 11. oder 12. November Wittenberg mit seiner Familie verlassen; s. Heinz <i>Scheible,</i> Melanchthon rettet die Universität Wittenberg, in: Aufsätze zu Melanchthon, Tübingen 2010, S. 258.<zfn>fn16380-2</zfn></fn> hier
+<fn>In Basel oder der Eidgenossenschaft.</fn>! Dann würde sich Enzinas nicht solche Sorgen machen, auch wenn er die Situation [in Sachsen] sonst bedauert.</t>
+<t>Falls er zu Weihnachten die Zeit dafür findet, will er nach Zürich zu Besuch kommen.
+<fn>Vgl. Enzinas an Joachim Vadian, 28. November (<a>Enzinas BW</a> 150).</fn></t>
+<t>Beilie- <?tus ^&^&n^&^&{?> gend die [Abschrift der] Dekrete [der drei ersten Sitzungen] des Konzils von Trient. Sobald sie gedruckt sind,
+<fn>Siehe dazu <qv>nr2654</qv>, <qv>fn16343-3</qv>.</fn> wird er ebenfalls Exemplare davon schicken. Grüße.
+<fn>Vorliegender Brief wurde durch einen Angestellten Christoph Froschauers nach Zürich befördert; s. <qv>nr2705</qv>.</fn></t></re> <textweg>
+<div>
+<p>S. D. Multum tibi debeo, Bullingere doctissime, quod solus in angustia praeli opem tulisti. Mitto nunc ad te historiam Diazii, de qua libenter audiam tuum iudicium. Reliqua exemplaria inter fratres distribue, ad quos omnes non potui scribere. Quaterniones seorsim pertinent ad d. Theodorum
+<fn>Theodor Bibliander.</fn>. Sarcinulam mittes Santgallum, et quam isthic habes ad me, quaeso, ut prima oportunitate mittas.</p>
+</div>
+<div>
+<p>De tyranno nostro
+<fn>Karl V.</fn> fuit constans rumor illum aufugisse, sed postea res ostendit fuisse vanum. Utinam male pereat, quando non vult resipiscere. Si enim in hoc tempore manet in castris, fortassis non poterit anno proximo pr{e}liari.</p>
+</div>
+<div>
+<p>Nescio quid subaudivi de conditionibus pacis. Si quid habes, communica. Idem ego sum facturus, si prior aliquid intellexero.</p>
+</div>
+<div>
+<p>De Mauritio
+<fn>Moritz von Sachsen.</fn> et Bohemis quod hactenus vulgato rumore audivimus, est nimis verum. Si Philippus
+<fn>Philipp von Hessen.</fn> esset apud nos, reliqua non tanti facerem, quanquam etiam aliis de causis doleo.</p>
+</div>
+<div>
+<p>Si potero [me] hinc liberare circa festum natalicium, fortasse vos invisam.</p>
+</div>
+<div>
+<p>Remitto decreta Tridentina et gratiam habeo. Impressa quoque mittam, ubi erunt absoluta.</p>
+<p>Vale. 26. novembris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero, episcopo fidelissimo in ecclesia dei, quae est Tiguri.</p>
+</div> </textweg>
+</brief>

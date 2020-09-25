@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2077">
+<nr>2077</nr>
+<correspondents>
+	<originator>Ottheinrich I.</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Heidelberg</place>
+	<date>31. Januar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 358, 151<fx>^#/+Am oberen linken Rand von einer zeitgenössischen Hand:^#/- Anno 1545.<fe> (Siegelfragment)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 147; Erw.: A. Mühling, HB's europ. Kirchenpolitik 99f.^&x{
+<re>Ottheinrich dankt für die am 26. Januar [1545] eingetroffene Sendung von Bullingers "Brevis <gr>ănti­bolh́</gr>" [gegen Cochläus], für die dort [vorangestellte] Widmungsepistel und für Bullingers Begleitbrief vom 31. Dezember [1544].</re>
+<tx>Otthainrich, von gottes gnaden pfalltzgraf bey Rein, hertzog in Nidern und Obern Bairn, etc.
+^$Unsern grues zuvor. Hochgelerter, lieber, besonder, wir haben eur schreiben
+des datum steet Zürich inn der eidgnoschaft, des letzsten tags decembris uns gethan,<f1>Nicht erhalten.<fe>
+sambt dem uberschigkten buech<f1>Die gegen Cochläus gerichtete "Brevis <gr>ănti­bolh́</gr>" Bullingers von Dezember 1544; s. HBBW XIV 460, Anm. 22.<fe> ann dem sechsundzwaintzigisten tag dits monats
+empfangen und sagen euch von solhs<f1>solchs.<fe> eurs zueschreibens<f1>Die für Ottheinrich bestimmte Widmungsepistel vom 10. November 1544, die Bullinger der "Brevis <gr>ănti­bolh́</gr>" vorangestellt hatte (HBBW XIV 519-545).<fe> und gehabter arbait wegen, auch umb eur underthenigs erbieten gnedigen dangk.
+Wellen auch solhs mit gnaden gegen euch erkhennen; und dieweil solh buech eben gros<f1>wichtig. - Das Buch umfasst [76] Seiten im Quartformat (die Widmungsepistel umfasst 23 Seiten).<fe>, dasselb mit guter muß
+und weil vleissig lesen, auch, wa<f1>falls.<fe> vonnoten<fx>^#/+In der Vorlage über^#/- nn ^#/+ein hier unpassendes Kennzeichen für ein^#/- u.<fe>, euch darauf widerumb schreiben.<f1>Ottheinrich konnte kein Latein und musste deshalb zunächst eine Übersetzung von Bullingers Vorrede anfertigen lassen; vgl. HBBW XIV 430, 40-43.<fe>
+^$Das wollten wir euch gnediger maynung nit verhallten.
+^$Datum Haidlberg, den 31ten tag januarii anno etc. 45.
+<lz>[Adresse auf der Rückseite:] Dem hochgelerten, unserm lieben, besondern Hainrichen Bullinger, diener der kirchen Zirch.
+^&xHinweis: Pfarrer des Kapitels Neuenburg an [Pfarrer und Lehrer von Zürich?], [Januar/Februar 1545], Entwurf: Neuenburg, Bibl. des pasteurs .... (Kopie in: Genf MHR, Papiers Herminjard); Incipit: "Dedit ad vos literas antea D. Farellus ...".^&x{
+</content>
+</letter>

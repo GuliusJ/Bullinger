@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="909">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius und Simon Grynäus</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>4. November 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 347, 73 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Beklagt das Ausbleiben von Briefen. Sendet das Zürcher Gutachten
+(*zur Wittenberger Konkordie*), das der bevorstehenden
+Tagsatzung vorgelegt werden soll, und hofft, dass Basel, wie schon Bern,
+die gleiche Haltung einnehmen wird. Wünscht, Myconius und Grynäus
+hätten die unkluge "Retraktation" Bucers verhindern können. Die
+Antwort Zürichs ist noch nicht endgültig und deshalb vertraulich
+zu behandeln.
+</statue>
+<content>
+Gratiam et vitae innocentiam a domino.
+<p>Qui fit, fratres, ut tempore tanto non scribatis vel litteram? Nostrumne obliti estis? Ubi amor ille vester in nos quondam ardentissimus?</p>
+<p>Habetis hic responsionem nostram, quam ad Lutheri articulos oblatos dabit proximis comitiis senatus et ecclesia nostra+1. Hanc vobis mittimus sperantes nostram vobis non displicituram. Hanc si nobiscum recipere
+potestis+a aut diversum ab hac non fueritis sequti, convenit probe
+omnibus. Certe nobis convenit cum Bernatibus, quorum responsionem+2
+vidistis, opinor. Non prodesset ecclesiis Helveticis, si scinderemur+b,
+qui hactenus summa cohaesimus concordia. Atqui meliora speramus.</p>
+<p>Bucerus optimam concordiae causam apud nostros fecit suspectissimam sua ista (mea quidem sententia) imprudenti Retractatione+3. Magnam sane apud nostros plerosque invidiam sibi concitavit. Quantum animi dederit
+papistis, quantas calumniandi et blasphemandi ansas praebuerit tam
+infirmis quam malevolis, ipsi nostis melius. Ego hoc retractandi studium
+a vobis impeditum vellem et ratione aliqua commodiori coeptum optarem.
+Iam diversum evenit.</p>
+<p>Responsionem autem hanc nostram vobis solis communicatam putate. Nolumus hanc ante comitia exhiberi Argentinensibus. Expectamus enim adhuc aliorum iuditia. Addemus itaque nonnihil fortassis aut adimemus.
+Stabimus et iuditio vestro.</p>
+<p>Valete.</p>
+<p>Tiguri, 4. novembris anno 1536.</p>
+<signature>
+H. Bullingerus vester.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Osvaldo Myconio et d. Simoni
+Grynaeo, Basileien(*sium*) ecclesiae antistitibus ornatissimis,
+charissimis fratribus.
+</address>
+</content>
+<note>
+.us; +a>potestis  am Rande nachgetragen.
+<print>
++b>scinderemur  korrigiert aus  scinderemus.
+</print>
+<address>
++1>Gemeint ist die von Bullinger verfasste, am 24. Oktober von der
+Zürcher Synode und am 25. vom Kleinen und Grossen Rat gebilligte
+Deklaration, die an der Basler Tagung vom 12.-14. November in den Entwurf
+des Briefes der evangelischen Orte der Eidgenossenschaft an Luther
+eingearbeitet wurde (lateinischer Text:
+der ursprünglichen Synodalproposition
+Zürich StA, E II 337, 187r.-192r.;
+überarbeitete Fassung: Zürich ZB, Ms F 62, 67r.-71r. (*Abschrift
+Bullingers*) und Ms D 226, 127r.-142v. (*Abschrift Gwalthers*);
+deutsche Übersetzung (*von Leo Jud?*) sowie weitere Einzelheiten s.
+WA Briefwechsel XII 246-261, Nr. 4268, I). Die Abschrift der deutschen
+Fassung in Zürich StA, E I 1. 2b trägt (von Bullingers Hand?)
+???
+den Vermerk: D(*omino*) Myconio.
++2>Siehe oben Nr. 903, Anm. 6.
++3>Zu Bucers Retraktationen s. oben Nr. 866, Anm. 12.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

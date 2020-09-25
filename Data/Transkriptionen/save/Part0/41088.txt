@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="41088">
+<nr>41088</nr>
+<correspondents>
+	<originator>Benedikt Marti</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>12. Oktober 1571</date>
+</space_time>
+<vo>Zürich StA, E II 360, 623. / Orig. Aut.</vo>
+<dr>Druck?</dr>
+<re>Regest</re>
+<tx>S.  Scripta de excommunicatione omnia legimus diligenter
+eaque iam tandem remittimus facturi id citius, nisi quod
+idoneo destitueremur nuntio. Placet consilium et fortasse
+pluribus etiam deinceps placebit, quos rerum usus et
+quotidiana experientia doctores reddet. Tibi vero inprimis
+gratias ago, quod communicaris illa etd. Erasti
+authoritatem tantum apud te valere passus sis.
+Etiamd. Hallerus cum reliquis tibi salutem dicit.
+Vale.
+Bernę 1571.  12. 8bris.
+<un>T[uus]
+t[otus] B[enedictus] Aretius.
+<lz>Cl[arissimo] v[iro]d. Henricho Bullingero,
+fideli Christi ministro et domino suo honorando etc.
+Tiguri.
+</content>
+</letter>

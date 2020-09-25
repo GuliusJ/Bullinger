@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1161">
+<nr>1161</nr>
+<correspondents>
+	<originator>Martin Frecht</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Ulm</place>
+	<date>27. August 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 149 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>[Hans Varnier] überbringt mit dem Brief ein Exemplar des in Ulm gedruckten Dialoges, den [Johannes] Sinapius an Frecht
+geschickt hat. Teilt die von Bullinger geäußerten Befürchtungen; am Bundestag in Eisenach sollen die Schmalkaldener einen
+Friedensvertrag mit dem Kaiser - vermittelt von Pfalzgraf [Ludwig V.] und Markgraf [Joachim II.] - behandelt haben. Man
+sagt, daß die Türken Ungarn erobern werden. König [Franz I.] von Frankreich soll zur Jagd in Brüssel sein.
+Der Ulmer Rat hat den Schulverordneten geboten, ihre Beschwerden gegen [Kaspar] Schwenckfeld, der die Lehre von der Ungeschaffenheit
+des verherrlichten Christus verteidigen will, und [Sebastian] Franck schriftlich einzureichen; erhielt von Bucer ein verderbliches
+Büchlein Schwenckfelds über die Sakramente, und in Frankfurt soll Francks "Germaniae Chronicon" schon gedruckt sein.
+Möchte wissen, ob Jud für eine Berufung nach Ulm bereit wäre. Grüße; konnte [Konrad] Pellikan noch nicht antworten.
+</re>
+<tx>Salutem in domino, Bullingere observande.
+^$Preter expectationem tam subito hinc ad vos proficiscenti
+typographo nostro<f1>Hans Varnierd. Ä. (vgl. oben Nr. 1154, 11f).<fe> volui breve hoc epistolium ad
+te perferendum committere. Qui etiam dialogum a Sinapio
+nuncnuper mihi missum<f1>Siehe oben Nr. 1154, 64f.<fe> et hic tametsi incuriose excusum
+reddet<f1>Zum anonymen "Dialogus vere elegans ..." Ulm (Hans Varnier) 1538 s. ^#/+Flood^#/-/^#/+Shaw^#/- 185f mit Anm. 62; ein Exemplar befindet sich in Zürich ZB, Ms S 45, 35a.<fe>, ęreum scilicet pro aureo<f1>Adagia, 1, 2, 1 (LB II 68).<fe>; nunquam enim mihi
+excidet vere aureum illud tuum donum nuper mihi transmissum<f1>Bullingers "De scripturae sanctae authoritate" (HBBibl I 111); vgl. oben Nr. 1138, 3-6; 1149, 6-9.<fe>,
+pro quo nunc summas denuo ago gratias relaturus, ubi<fx>ubi ^#/+versehentlich wiederholt.^#/-<fe> occasio
+dabitur.
+^$Cęterum, quod scribis adversarios monstrum alere<f1>Adagia, 2, 4, 98 (LB II 551).<fe>, non
+omnino falleris; quid enim aliud agerent isti monstripari<f1>Bullingers Befürchtungen bleiben unklar.<fe>?
+Putassem autem illud, quicquid est monstri, proxima
+Isnacensia comitia<f1>Gemeint ist der Bundestag der Schmalkaldener in Eisenach vom 24. Juli bis 11. August 1538.<fe> detexisse; sed nihildum certi potui cognoscere. Iustus Menius, qui Isenaci episcopatur, ad me cum legatis nostris<f1>Georg Besserer (s. PC II 511); andere Ulmer Abgeordnete sind nicht
+bekannt.<fe> scripsit<f1>Nicht erhalten.<fe> omnia inter solos proceres tanto acta esse silentio, ut nemini ne
+<gr>grý</gr> quidem<f1>Adagia, 1, 8, 3 (LB II 304).<fe> licuerit audire. Hoc solum plerique
+mussitant illic peractum, ut cęsar<f1>Karl V.<fe> certam et firmam pacem evangelicis ordinibus confirmet. Huius pacis
+<gr>oȋ prójenoi</gr> et poetę feruntur esse duo illi
+electores, Palatinus et Marchio<f1>Die Schmalkaldener verlangten auf ihrer Tagung in Eisenach, König Ferdinand solle Pfalzgraf Ludwig V. und Markgraf Joachim II. von Brandenburg zu Vermittlungsverhandlungen bevollmächtigen; s. Walter ^#/+Rosenberg,^#/- Der Kaiser und die Protestanten in den Jahren
+1537-1539, Halle a. S. 1903. - Schriften des Vereins für Reformationsgeschichte 77, S. 54-58.<fe>.
+^$Iam constans fama spargit
+Turcam in armis esse et utramque Pannoniam vexaturum<f1>Am 9. Juli 1538 waren die Türken zum Moldaufeldzug aufgebrochen, und im September unterwarfen sie sich die Moldau und die Walachei (vgl. ^#/+Hammer-Purgstall^#/- III 200-203. 698-700). Vgl. auch unten Nr. 1186, 49-55.<fe>; alii aliter hoc
+interpretantur.
+^$Iam Augustam hisce diebus ex Inferiore Germania audio perscriptum esse Gallorum regem<f1>Franz I., König von Frankreich.<fe> securum venari Bruxellę. Oremus dominum, ut in istis bellorum rumoribus ecclesię suę pacem conservet.
+^$Scripsi nuper ad te de Schwenckfeldio, hospite Ulmensi, et
+Franco, cive<f1>Vgl. oben Nr. 1149, Anm. 5.<fe>. Senatus scholarchis iniunxit, ut, quicquid in illis sectariis desideremus, in scriptis offeramus<f1>Ratsbeschluß vom 31. Juli 1538 (s. ^#/+Peuckert,^#/- Franck 364).<fe>; id nunc
+satagimus pręstare. Tu ad hanc rem etiam aliquid facere
+posses. Schwenckfeldius hoc insolens dogma cogitat acriter
+defendere: Christus in gloria ut homo non est creatura.
+Misit Bucerus noster ex Argentina a Schwenckfeldio
+compositum de sacramentis libellum<f1>Gemeint ist Schwenckfelds "Summarium. Außzug und innhalt der fürnämbsten punct unnd leeren des hailigen Augustini übers sechst capitel Johannis", das unter dem Pseudonym Ruffus Sarmentarius 1538 bei Philipp Ulhartd. Ä. in Augsburg erschienen war (CSch VI
+95-113).<fe> satis pestilentem.
+Francofurdtię Franci Chronica de Germanorum, praecipue
+Svevorum et Ulmensium rebus gestis audio excusa iam esse<f1>Francks "Germaniae Chronicon ..." war im August 1538 bei Christian Egenolff in Frankfurt a. M. erschienen; s. Christoph ^#/+Dejung,^#/- Sebastian Franck, in: Bibliotheca Dissidentium, hg. v. André Séguenny, Bd. VII, Baden-Baden 1986
+(Bibliotheca bibliographica Aureliana 106), S. 84, Nr. 19.<fe>;
+miser ille rhapsodus ut Esopicus graculus alienis plumis se
+venditat<f1>Adagia, 3, 6, 91 (LB II 866).<fe>.
+^$Obsecro rescribe, presertim de Leone<f1>Leo Jud.<fe>, an ab ipso possit
+impetrari, ut semel huc vocetur<f1>Vgl. dazu oben Nr. 1154, 73-75.<fe>; nostri mira habent consilia
+in mutandis ministris ec­clesię, vocandis et ablegandis.
+^$Salvos cupio omnes symmystas, inprimis venerandum
+Pellicanum, cuius piis et eruditis literis<f1>Nicht erhalten.<fe> nunc non licuit
+respondere; ob id excusari illi cupio. Bene vale, Bullingere
+observande, et me tui amantissimum redama, ut soles.
+^$Raptim, Ulmę, 27. augusti 38.
+<un>Martinus Frechtus.
+<lz>[Adresse auf der Rückseite:] Eximie pio et doctod. Heinrycho Bullingero, Tigurinę ecclesię
+antistiti fidelissimo, domino et fratri observando.
+</content>
+</letter>

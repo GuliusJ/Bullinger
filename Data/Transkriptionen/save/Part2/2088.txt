@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2088">
+<nr>2088</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>25. Februar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 239 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie: Zürich ZB, Ms S 56, 175; Zit.: ^#/+Gast,^#/- Tagebuch 237, A. 26 (27.[!] Feb.)^&x{
+<re>Bullinger kann den Wittenberger Boten [...] befragen, ob die Exemplare von Luthers ["Kurtz bekentnis"] in Wittenberg beschlagnahmt worden sind; sicher ist, dass die Augsburger die Schrift verboten haben. Die Geschichte von dem Straßburger Drucker [...] stammt von einem Augenzeugen. [Sultan Suleiman I.] soll im Felde stehen und Buda zu seinem Herrschaftssitz gewählt haben.
+-^#. [Die Basler] erwarten Bullingers ["Warhafftes Bekanntnuß"]. Wenn es publiziert ist, soll Bullinger es dem Wittenberger Boten [...] für Luther mitgeben. Bullinger und Theodor [Bibliander] sollen sich nicht von Bucers [Kompromisse suchender] Geschwätzigkeit dazu verleiten lassen, [den zürcherischen Standpunkt gegen Luther] nicht zu verteidigen; Bucer fürchtet, in dieses Trauerspiel verwickelt zu werden; [die Zürcher] sollen tapfer und standhaft bleiben.
+-^#. Grüße an Theodor [Bibliander].
+-^#. Gestern kamen aus Straßburg drei Schiffe voller Weizen, gekauft vom [Basler] Rat für die Not leidenden Bürger.
+-^#. Die Bauern im Markgräflerland liegen mit [Herzog] Ulrich von Württemberg im Streit und rüsten auf; dasselbe tun die im Elsass und Sundgau wegen der Spanier, die in Lothringen alles verwüsten.
+-^#. Graf Christoph von Württemberg hat den Prediger Pantaleon Blasius wegen Meinungsverschiedenheiten mit [Johannes Engelmann] über das Abendmahl und über andere äußerliche Zeremonien verbannt. Der französische Prediger Pierre Toussain leidet an einer Lähmung, weil ihn die Abneigung der [württembergischen] Fürsten gegen den wahren Glauben so traurig macht.
+-^#. [Karl V.] in Brüssel wird von der Gicht geplagt.</re>
+<tx>S. in domino, frater charissime.
+^$An libelli Lutheri Witembergę<fx>Witembergę ^#/+über der Zeile nachgetragen.^#/-<fe> suppressi sint,<f1>Zu dieser Nachricht siehe oben Nr. 2080, 21-23 und Anm. 10.<fe> a tabellione Witembergensi<f1>Unbekannt. Er war offenbar via Zürich und Graubünden nach Italien gesandt; s. unten Nr. 2089.<fe>
+expiscari poteris. Augustanos prohibuisse certum est.<f1>Siehe oben Nr. 2080, 23f und Anm. 11.<fe>
+De impressore<f1>Unbekannt.<fe> Argentinensi historiam<f1>Die Begebenheit, die Gast Bullinger in seinem Brief vom 9. Februar 1545 mitgeteilt hatte; s. oben Nr. 2080, 25-30.<fe> accepi ab eo<f1>Unbekannt.<fe>, qui vidit, qui hominem<f1>Unbekannt.<fe> ad annos aliquot novit.
+Turcam<f1>Sultan Suleiman I.<fe> in expeditione esse, Budam in regiam sedem elegisse constans spargit fama,<f1>Ein Gerücht, denn Suleiman befand sich zu dieser Zeit in Edirne; s. oben Nr. 2071, Anm. 30.<fe>
+et ab ipso nuntio id etiam hauries.
+^$Expectamus tuam Responsionem<f1>Das "Warhaffte Bekanntnuß" der Zürcher, das kurz vor dem 12. März 1545 erschien; s. oben Nr. 2061, Anm. 9.<fe> quam commodissime. Si absoluta est, Witembergensi tabellioni
+dabis Luthero perferendam. Non credis, quantum gaudium papistę habeant ob Lutheri libellum<f1>Luthers "Kurtz Bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>;
+gloriantur et iactant victoriam ante pugnam<f1>Vgl. Adagia, 1, 7, 55 (ASD II/2 180, Nr. 655).<fe>.
+Cave, ne Bucerus tibi et Theodoro<f1>Theodor Bibliander.<fe> nostro oculos sua loquacitate fascinet,
+quominus id, quod ad defensionem attinet, scribatis. Novi illius animum; habet
+spiritum valde tristem ac depressum; timet, ne pars huius tragędiae fiat.
+Apparet iam, qualis concordia cum nostris ecclesiis instituta sit.
+Pergite itaque forti spiritu<f1>Vgl. z.B. 2Tim 4, 7.<fe> et constanti. Dominus auxilio suo aderit,
+sapientiam veram suppeditabit ex panoplia<f1>Vgl. Eph 6, 11. 13; und schon oben Nr. 2079, Anm. 9.<fe> divinę scripturę, ut hunc Goliath<f1>Gemeint ist Luther.<fe>
+primo ictu in terram prosternatis,<f1>Vgl. 1Sam 17.<fe> imo usque ad inferos detrudatis, si se victum dare et herbam porrigere<f1>Vgl. Adagia, 1, 9, 78 (ASD II/2 394, Nr. 878).<fe> noluerit. Dominus nos ita probat, nostram fidem et constantiam exercet.
+Aderit ipse ac praecedit nos,<f1>Vgl. Ex 13, 21 und passim.<fe> quo omnia mala commodius superare possimus.
+Si enim deus pro nobis, quis contra nos?<f1>Rm 8, 31.<fe>
+^$Vale in domino etd. Theodorum nomine meo salutabis, quem scio iam occupatissimum esse; alias illi scripsissem proprias literas.
+^$Naves tres heri ad nos venerunt ab Argentina expansis velis tritico plenae<fx>^#/+In der Vorlage^#/- plenas, ^#/+das in Eile aus^#/- plenis ^#/+korrigiert wurde^#/-.<fe>,
+quem senatus noster emit, quo civibus succurrat, qui inopia laborant.<f1>Gast hatte schon im Juli 1544 von einer Teuerung in Basel geschrieben, gegen die der Basler Rat Abhilfe zu schaffen suchte; s. HBBW XIV, Nr. 1942, 16-20. Diese Teuerung war durch einen Kornmangel verursacht; s. die Angaben dazu aus Dezember 1544, April und Juni 1545 in EA IV/1d 433 a. 439 s. 472 e. 488 i; und ^#/+Gast,^#/- Tagebuch 214f und Anm. 2.<fe> Navis quęlibet saccos habuit centum.
+^$Die bauren ins merckgrafen landt<f1>Das Markgräflerland im Südwesten Württembergs an der Grenze zu Frankreich und der Schweiz, damals zur Markgrafschaft Baden gehörend; es umfasste die Herrschaften Rötteln und Badenweiler sowie die Landgrafschaft Sausenberg.<fe> muͤssen alle harnisch<f1>Rüstung.<fe> kouffen; lassen fenlin<f1>Feldzeichen.<fe> machen,
+die mann inen vorhin im baurenkrieg genomen hatt. Dissidium habent cum Wirtembergensi Udalrico<f1>Herzog Ulrich von Württemberg.<fe>.
+Idem faciunt rustici in Alsatia et Sungavia<f1>Sundgau (Landschaft im Elsass, Dép. Haut-Rhin, Frankreich).<fe> propter Hispanos, qui in Lotharingia quęque obvia rapiunt ac devastant.<f1>Vgl. oben Nr. 2068, 11-16; und EA IV/1d 457f g.<fe>
+^$Dux Christophorus Wirtembergensis in Mompelgart<f1>Graf Christoph von Württemberg hatte seit 1542 die Grafschaft Mömpelgard als Statthalter inne.<fe> proscripsit contionatorem Panthaleonem Blasium<f1>Pantaleon Blasius war eigentlicher Hofprediger bzw. Prediger der deutschen Pfarrei in Mömpelgard; s. HBBW XIV, Nr. 2004, Anm. 8.<fe>,
+eo quod noluit consentire cum altero contionatore<f1>Johann(es) Engelmann; s. HBBW XIV, Nr. 2004, Anm. 8.<fe>
+in negotio eucharistię et aliis ceremoniis externis, quas dux subinde mutat, quo tandem totum papatum invehat.<f1>Siehe dazu HBBW XIV, Nr. 2004, Anm. 8; ^#/+Viénot^#/- II 37, Nr. 23 (Pierre Toussain an den Rat von Herzog Ulrich von Württemberg, Basel, [Juli] 1545). Blasius wurde unter Graf Philipp IV. von Hanau-Lichtenberg Pfarrer in Pfaffenhoffen (Dép. Bas-Rhin, Frankreich) und Superintendent der Grafschaft Hanau-Lichtenberg; s. Timotheus Wilhelm ^#/+Röhrich,^#/- Mittheilungen aus der Geschichte der evangelischen Kirche des Elsasses, Bd. 2, Paris/Straßburg 1855, S. 70f; Ludwig Albert ^#/+Kiefer,^#/- Pfarrbuch der Grafschaft Hanau-Lichtenberg. Nach Urkunden, Straßburg 1890, S. 295, Nr. 1; ^#/+Bopp^#/- I 64, Nr. 432. Zur Situation der Kirche in Mömpelgard s. ^#/+Heyd^#/- III 144-157.<fe>
+Petrus Tussanus, contionator Gallicus, paralysi laborat.<f1>Vgl. CO XII 94: "Tossanus quasi frangitur plebis moribus et principis importunitate" (Farel an Calvin, 14. Juni 1545). Bald darauf verließ Toussain Mömpelgard für einige Wochen; s. ^#/+Viénot,^#/- I 112-116; II 37.<fe>
+Tristitia, quam conceperat ob principum<f1>Damit sind Christoph und Ulrich von Württemberg gemeint.<fe> abalienatum animum in religionem synceram, in causa fuit huius morbi.
+^$Vale iterum atque iterum et ora pro ecclesia nostra.
+^$Basileę, 25. februarii 1545.
+^$Caesar Bruxellę podagra vehementissime discruciatur.<fx>^#/+Von^#/- Caesar ^#/+bis^#/- discruciatur ^#/+rechts über der Unterschr.ift hinzugefügt.^#/-<fe><f1>Vgl. oben Nr. 2065, 44-46; 2071, 37.<fe>
+<un>Tuus Gastius ex
+<un>animo.
+<lz>[Adresse auf der Rückseite:] Pio ac doctod. Heynrico Bullingero, etc., pfarrhernn zuͦ Zurich.
+</content>
+</letter>

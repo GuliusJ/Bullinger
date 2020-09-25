@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2444">
+<brief>
+<id>16131</id>
+<nr>2444</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>Konstanz, 11. Mai 1546</od>
+<vo>Autograph: Zürich StA, E II 357a, 644 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 442f, Nr. 1285<k>Kopie 18. Jh.: Zürich ZB, Ms S 60, 86 </k></dr>
+<re>Blarer schickt die Abschrift des von Bullinger an Philipp [Melanchthon] gerichteten Briefes [<qv>nr2404</qv>] zurück und ist überzeugt davon, dass Melanchthon keine Unruhen stiften wird, auch wenn andere ihn dazu anstacheln. Blarer wird so bald wie möglich Bullingers Wunsch erfüllen.
+<t/>Er vertraute kürzlich dem ehemaligen Stammheimer Pfarrer Lorenz [Meyer] einen Brief [<qv>nr2437</qv>] für Bullinger an, den dieser selbst zu übermitteln hoffte bzw. versprach, ihn anderenfalls jemand anderem weiterzugeben.
+<t/>In Konstanz ist alles ruhig. Kaiser [Karl V.] sorgt [bei einer Badekur] für seine Gesundheit. Über den Reichstag [zu Regensburg] und das Konzil [zu Trient] gibt es nichts zu berichten. Falls Bullinger Relevantes erfährt, soll er es mitteilen.
+<t/>Grüße, u.a. an die Bürgermeister [Hans Rudolf] Lavater und [Johannes] Haab.
+<t/>Blarer bedankt sich schriftlich bei [Rudolf] Gwalther für dessen Zusendung von Theodorets Schrift ["De providentia sermones X"].
+<t/>Desgleichen soll Bullinger den beigelegten Brief an Jakob Ruf übermitteln.
+<t/>Die [Konstanzer] lassen grüßen.
+<t/>Durch [Ruf] wird Bullinger von dem durch den Teufel gequälten Mädchen [Magdalena ...] erfahren. [Die Konstanzer] hören, dass Ruf solche Leiden heilen kann und hoffen, dass Gott sich durch ihn offenbart.</re>
+<text>
+<p>S.<zzl>zl2444-1A</zzl> Remitto nunc exemplum tu{e} illius modestissim{e} ad Philippum epistol{e}
+<fn>Zur Abschrift von Bullingers Brief an Melanchthon vom 1. April (<qv>nr2404</qv>) s. <qv>nr2437</qv>,<qv>zl2437-2</qv>.</fn><zzl>zl2444-1E</zzl> et gratiam habeo plus quam maximam, quod illius me participem esse volueris, nec dubito, quin Melanchthon, qua est erga omnes Christi glori{e} studiosos, christiano candore et eximia sync{e}ritate nihil porro (quantumvis a multis exstimuletur)
+<fa><i>Klammern ergänzt.</i></fa> turbaturus sit. <zzl>zl2444-6A</zzl>Ego, quod nuper admonebas,
+<fn>In einem nicht erhaltenen Brief.</fn> prima occasione factum curabo.
+<fn>Vielleicht etwa Melanchthon einen Brief zu schreiben; vgl. <qv>nr2437</qv>,<qv>zl2437-7</qv>.</fn><zzl>zl2444-6E</zzl></p>
+<p><zzl>zl2444-2A</zzl>Scripsi ad te proxime
+<fn>Am 28. April (<qv>nr2437</qv>).</fn> per Laurentium illum, qui apud Stammenum parochum egit.
+<fn>Lorenz Meyer (Agricola), bis 1543 Pfarrer von Stammheim, 1545/46 Pfarrer in Gundelfingen. Von Mai bis Oktober 1546 Anstellung im Zürcher Schulwesen; s. <a>HBBW</a> XIV 236, Anm. 1; <a>HBBW</a> XV Nr. 2092. 2151.</fn> Putabat enim se istic te salutaturum; quod si minus succederet, affirmabat se tamen per alium aliquem bon{e} fidei hominem curare facile posse, ut tibi quam primum reddantur.<zzl>zl2444-2E</zzl></p>
+<p>Apud nos et inter nos omnia tranquilla, nec aliunde etiam quicquam nunc accipimus. Caesar
+<fn>Karl V.</fn> valetudinem curat.
+<fn>Vgl. <qv>nr2449</qv>,<qv>zl2449-3</qv>.</fn> In comitiis
+<fn>Der Reichstag zu Regensburg.</fn> nihil adhuc, quod audiamus, agitur. De concilio
+<fn>Das Konzil zu Trient.</fn> pertinax nunc est nobiscum silentium. Si quid a vestris statuitur, quod scire nos referat, age ne me c{e}les.</p>
+<p>Commenda nos communi servatori diligenter. Salutem dic tu{e} domui c{e}terisque tibi coniunctissimis, praecipue fratribus symmystis cum consulibus vestris Lavatero
+<fn>Hans Rudolf Lavater.</fn> et Habio
+<fn>Johannes Haab.</fn>.</p>
+<p><zzl>zl2444-4A</zzl>Scribo Gvalthero nostro gratias agens pro missis nuper Theodoreti sermonibus
+<fn>Die Schrift "De providentia sermones X" (s. dazu <qv>nr2326</qv>, <qv>fn2326-1</qv>), die Gwalther am 22. März an Blarer gesandt hatte (<a>Blarer BW</a> II 430, Nr. 1269) und die dieser am 11. Mai verdankte (<a>Blarer BW</a> II 443, Nr. 1286). Blarer legte den Brief an Gwalther dem vorliegenden Brief bei; s. <qv>nr2446</qv>,<qv>zl2446-3</qv>.</fn>, qui me supra modum oblectant.</p>
+<p><zzl>zl2444-5A</zzl>Accipis praeterea epistolam Iacobo Ruf, chirurgo vestro, inscriptam,
+<fn>Der nicht in <a>Blarer BW</a> erhaltene Brief behandelte die unten Z. <qv>zl2444-3</qv> erwähnte Angelegenheit; vgl. <qv>nr2449</qv>,<qv>zl2449-2</qv>. Zur Übermittlung des Briefes an Ruf s. <qv>nr2446</qv>,<qv>zl2446-3</qv>.</fn> qu{e}, valde rogo, ut mox illi reddatur.<zzl>zl2444-5E</zzl><zzl>zl2444-4E</zzl></p>
+<p>Commendant se tibi nostri oppido
+<fa><i>In der Vorlage</i> opido.</fa> quam officiose, multamque tibi salutem ascribere iubent. Bene vale, mi venerande pariter et charissime frater. Constanti{e}, 11. maii 1546.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p><zzl>zl2444-3A</zzl>Audies ex chirurgo de miris praestigiis et ludificationibus diaboli, quibus supra veri fidem vexat puellam
+<fn>Magdalena [...], eine Magd aus Uttwil (Kt. Thurgau), zu diesem Zeitpunkt 16 oder 17 Jahre alt. 1545 oder schon früher wurde sie wegen einer seltsamen Krankheit in das Konstanzer Spital eingeliefert. Ihr Leiden wurde mit Besessenheit durch den Teufel erklärt, angeblich bewirkt durch Zauberei, u.a. - jedoch nicht allein (s. nämlich <qv>nr2449</qv>,<qv>zl2449-2</qv>) - von der am 26. Mai 1546 als Hexe verbrannten Margreth Scholl (geb. Sax). Im Mai 1548 kam es im Fall Magdalena zu einem großen Prozess in Konstanz, der aber aufgrund der Einnahme der Stadt durch die kaiserlichen Truppen abgebrochen wurde. Magdalena floh zu einer Verwandten nach Augsburg, wo sie kurz darauf verstarb. Im Prozessprotokoll werden Blarer und ein weiterer mit Ruf in Kontakt stehender Pfarrer erwähnt. Ruf befasste sich u.a. mit der Frage, ob der Teufel menschliche Gestalt annehmen und mit einer Frau oder einem Mann ein Kind zeugen könnte. Diesem Thema widmete er einen Abschnitt seines 1554 erschienenen "Trostbüchleins", indem er auf den Fall Magdalena hinwies (s. <a>Keller, Jakob Ruf</a> IV 526-529). Während man damals der Auffassung war, dass ein übernatürliches Phänomen wie Besessenheit nur durch einen kirchlichen Akt, wie einen von einem Priester durchgeführten Exorzismus, bekämpft werden könne, hoffte Blarer allerdings, dass Rufs medizinische Kenntnisse hier hilfreich wären. - Lit.: Wolfgang <i>Zimmermann,</i> Teufelsglaube und Hexenverfolgungen in Konstanz 1546-1548, in: Schriften des Vereins für Geschichte des Bodensees und seiner Umgebung 106, 1988, 36-48; <a>Keller, Jakob Ruf</a> I 210f.<zfn>fn2444-1</zfn></fn> apud nos et tantum non enecat. Audimus vero Ruffum vestrum malis istiusmodi mederi naturalibus et licitis rationibus posse. Quod, si ita est, opere precium certe multo maximum fecerit, hic si praesens se numen in tantis afflictissimae virginis cruciatibus ostenderit. Ut res se habeat, ex ipso intelliges.<zzl>zl2444-3E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinricho Bullingero, venerando suo modisque omnibus summo amico ac fratri in Christo longe charissimo. Tiguri.
+<fn>Der Brief wurde Bullinger am 12. Mai durch einen Metzger überbracht; s. <qv>nr2446</qv>,<qv>zl2446-2</qv>.</fn></p>
+</text>
+</brief>

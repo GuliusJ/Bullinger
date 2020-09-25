@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1603">
+<nr>1603</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>18. Februar 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 76 (Siegel)</vo>
+<vo>Kopie: Ms S 51, 40; vgl. Moeller, Zwick Nr 263.</vo>
+<dr>Ungedruckt</dr>
+<re>Martin Mötteli, der Pfarrer von Weinfelden, muss sich an der nächsten Badener Tagsatzung wegen angeblicher Anstiftung zur
+Zerstörung von Bildern verantworten; Zwick bittet Bullinger im Namen aller Kollegen, den unschuldigen Pfarrer den Zürcher
+Gesandten zu empfehlen. Gruß von Ambrosius [Blarer], der morgen predigen muss und deshalb nicht selbst schreibt; dies ist Zwicks
+erster Brief seit seiner Genesung, er hätte allerdings den Tod vorgezogen. Sein Bruder Konrad sucht einen Lehrer.
+</re>
+<tx>Salus et pax Christi.
+^$Nescio, notus ne tibi sit Martinus Mötelinus, parrochus ecclesiae Winfeldensis in Turgoia, vir multis modis
+commendandus. Is in periculo esse videtur propter destructa idola a puella quadam, quae illis praepostero zelo manum
+intulit.<f1>Die durch eine Predigt Möttelis um Ende Dezember 1541 in Weinfelden ausgelöste Bilderzerstörung
+hatte zur Verhaftung des Predigers sowie einer gewissen Anna Keller geführt. Die Frau gab unter der Folter zu Protokoll, die
+Tat allein begangen zu haben; s. EA IV/1d 95. 106f; ^#/+Knittel,^#/- Kirche 136f.<fe> Sed in proximis comitiis
+Badensibus cogitur accusatoribus respondere, id quod faciet vere et constanter.<f1>Im Abschied der Badener Tagsatzung vom 20. März
+(EA IV/1d 116-127) ist darüber nichts zu finden.<fe> Tu vero scis, quid nonnunquam timendum sit apud eos, quibus religio
+nostra non sapit, et sunt, qui ea suspitione bonum et innocentem virum gravant, quasi ipsius hortatu puella patrarit facinus
+istud. Sed tam est innocens quam tu. Cumque homo sit eruditus et pius, rogamus te omnes, quotquot hic ministri dei sunt, ut
+legatis tuis<f1>Zürich wurde an der erwähnten Tagsatzung durch Johannes Haab vertreten; s. EA IV/1d 116.<fe> optimum illum virum diligentissime commendes.
+^$Scripsisset ad te quoque Ambrosius<f1>Ambrosius Blarer.<fe>, sed impeditur<fx>^#/+Nach^#/- impeditur ^#/+ein gestrichenes,
+unlesbares Wort.^#/-<fe> contionibus cras faciendis. Salutat autem te cum omnibus fratribus studiosissime. Et sint hae primae literae [a]d te<fx>[a]d te ^#/+am Rande nachgetragen, im engen Einband teilweise verdeckt.^#/-<fe>
+post resurrectionem a mortuis<f1>Zu Zwicks schwerer Erkrankung vgl. auch oben Nr. 1595, 26-30 mit Anm. 13.<fe>. Utinam vicisset mors corporis, ad vitam animae!
+^$Vale.
+^$Constantiae, 18. februarii 1542.
+<un>Tuus Io.
+<un>Zvic.
+<lz>Frater Cuͦnradus<f1>Konrad Zwick.<fe> quęrit iuvenem aliquem instituendis pueris idoneum, non summe, sed mediocriter in Gręcis et Latinis doctum, caeterum honestum et pium. Si
+talem scires, posses me de hoc paucis certiorem facere.
+^$Saluta totam domum tuam.
+<lz>[Adresse auf der Rückseite:] An Maister Hainrich
+Bullinger, prediger zuͦ Zürch, zuͦ handen.
+</content>
+</letter>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1055">
+<nr>1055</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>[Martin Bucer]</addressee>
+	<note fn=1>Der Empfänger steht zweifelsfrei fest; vgl. z. B. die Bezugnahme auf Bucers "Retraktationen", unten Z. 24f.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>15. Oktober 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen und (nicht immer sicher lesbaren) Randbemerkungen von Bucers Hand. Autographer Entwurf: Zürich StA, E II 345, 168f; zit.: E^#/-.<fe>: Cambridge,
+Corpus Christi College, Ms 119, 180, Nr. 65 (2) (ohne Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat erst jetzt Bucers Brief aus Basel vom 2. Oktober erhalten, legt aber sein eigenes Schreiben vom 6. Oktober
+[Nr. 1053] trotzdem unverändert bei und rechtfertigt nochmals das Verhalten Benedikt Euanders, der den Brief Bucers an Luther
+weder gestohlen noch an Gegner geschickt hat; auch Bullinger hat ihn nur Kollegen zugänglich gemacht, die davon betroffen waren.
+Schreibt im beiliegenden Brief, was ihm daran mißfiel, und versichert, nicht undankbar sein zu wollen.
+Will sich nicht nochmals zu Bucers "Retraktationen" und zu seinem ["Bericht auß der heyligen geschrift"] sowie zur Veröffentlichung
+der Briefe Zwinglis und Oekolampads äußern und begrüßt seinen Aufruf zu zurückhaltendem Urteil und zu brüderlichem Umgang miteinander.
+Beklagt sich nach der Abschaffung der Bilder durch [Herzog
+Ulrich] nicht länger über die württembergischen Kirchen und über Schnepf. Bittet um Empfehlung an Luther.
+</re>
+<tx>Gratiam et pacem a deo patre per dominum Iesum Christum.
+^$Scripseram, quas hic vides prolixiores literas<f1>Oben Nr. 1053.<fe>, priusquam tuas a Basilea<fx>^#/+E:^#/- Basilaea.<fe> scriptas<f1>Nicht erhalten.<fe> recepissem. Cum enim scriptae essent a te<fx>^#/+E:^#/- Scriptae enim cum essent.<fe>
+2. octobris, ad 14. demum eiusdem<fx>^#/+E:^#/- eius.<fe> mensis reddebantur. Cernens autem illa in his<fx>^#/+E:^#/- in his illa.<fe>, quae scripsisti de Benedicto Euandro,
+nihil volui in meis 6. octobris scriptis mutare<fx>^#/+E:^#/- nihil volui mutare in meis 6. octobris scriptis.<fe><f1>Vgl. oben Nr. 1053, 2-57.<fe>. Audio<fx>^#/+E:^#/- Et audio quidem.<fe> illum negare et pernegare<fx>^#/+E:^#/- pernegareque.<fe>, quod tuas furtim
+subtraxerit cuiquam. Certe mihi videris, frater in domino colende<fx>^#/+E:^#/- frater charissime.<fe>, nimium non mali hominis causam exaggerare<fx>^#/+Randbemerkung von Bucers Hand:^#/- Pernegat furto sustulisse; nimium exageras.<fe>. Esto enim, quod
+furto illas subduxerit; an ideo capitali sententia<fx>^#/+E:^#/- supplitio.<fe> subiacebit?<f1>Bucer hatte in seinem verlorenen
+Brief darauf angespielt, daß Theodosius wegen eines ähnlichen Vergehens ein Todesurteil verhängt habe. In seiner Antwort an Bullinger vom 25. Februar 1538 kommt er nochmals darauf zu
+sprechen; s. Zürich StA, E II 347, 91; vgl. Hie­ronymus, Epist. 57, 3, 2 (CSEL LIV 506, 8-11).<fe> Cum tamen<fx>tamen ^#/+fehlt in E.^#/-<fe> illas non miserit hostibus<fx>^#/+E:^#/- non hostibus miserit.<fe>, sed amicis et tuis et
+suis, nec illas quidem pravo animo miserit, quo tibi incommodaret. Iterum ergo te oramus<fx>^#/+E:^#/- oramus te.<fe>, ut conceptam iram<fx>^#/+E:^#/- conceptam illam iram.<fe>
+remittas<fx>^#/+Randbemerkung von Bucers Hand:^#/- remisi; sed quantum, oro, incommodavit[?] vos; ne[?] defenderis tale factum.<fe>. Iam ut negare non possumus, quod te de literis ad doctorem Lutherum scriptis<fx>^#/+E:^#/- illis ^#/+anstelle von^#/- ad doctorem Lutherum scriptis.<fe> ne verbo quidem
+admonuerimus, ita infitias ire non debemus<fx>^#/+E:^#/- ita non eo infitias.<fe>
+misisse me tuas aliis quoque fratribus. Ad omnes enim verbi ministros, qui Basileae<fx>^#/+E:^#/- Basilęae.<fe> fuerant<f1>d. h. die Theologen, die an
+den Konkordienverhandlungen des Vorjahres in Basel teilgenommen hatten.<fe>, videbatur illud negotium pertinere<fx>^#/+E:^#/- videbatur spectare causa.<fe>.
+Hic autem nihil egi vel gladiatorio vel delatorio animo. Deus est mihi testis. Pacem, non turbas quaesivi, utut
+alii hoc meum factum<fx>^#/+E:^#/- factum meum.<fe> exponant. Sed de his quaedam alias<fx>^#/+E:^#/- quaedam ad te alias.<fe> dedi.
+^$Quid autem desiderem in literis illis tuis ad doctorem Lutherum scriptis, quibus tu nihil inesse putas, quod non
+ultro citroque inter nos dictum et actum sit, brevibus in aliis meis literis<fx>^#/+E:^#/- in alia illa epistola mea.<fe>
+exposui<f1>Siehe oben Nr. 1053, 58-206.<fe>. Interim vero ingratus esse
+nolo. Quod enim meas attinet partes et quod de meis<fx>^#/+E:^#/- de meis facultatibus.<fe> polliceri possum, senties non ingratum hominem<fx>^#/+Randbemerkung von Bucers Hand:^#/- Ingrati erga me.<fe>, sicubi modo occasionem
+nactus fuero<fx>^#/+E:^#/- sicubi nactus fuero occasionem.<fe> de te tuisque laboribus et de tuo in me favore<fx>^#/+E:^#/- ac tua in me benevolentia^#/+ anstelle von^#/- et de tuo in me favore.<fe> benemerendi.
+^$De Retractationibus tuis qui<fx>^#/+E:^#/- quia.<fe> coram quaedam Basileae<fx>^#/+E:^#/- Basilaeae.<fe> suggessi<f1>Vgl.
+oben Nr. 944, 5f mit Anm. 5.<fe>, nunc dicam nihil<fx>^#/+E:^#/- nihil dicam.<fe>. Et de libro<fx>^#/+E:^#/- libello.<fe> tuo Ad Monasterienses
+deque mea ad te de isto<fx>^#/+E:^#/- illo.<fe> epistola, rursus de epistolis Zvinglii et Oecolampadii vulgatis<fx>^#/+E:^#/- item
+de Zvinglii et Oecolampadii epistolarum aeditione.<fe>, quorum omnium in tua illa epistola obiter meministi<fx>^#/+E:^#/- in tua meministi
+epistola obiter quidem.<fe>, ego paucis quoque in superioribus literis respondi<fx>^#/+E:^#/- quid a te postulem, perstrinxi
+^#/+anstelle von^#/- in superioribus literis respondi.<fe><f1>Siehe oben Nr. 1053, 235-306.<fe>. Quod autem postremo hortaris, ut studeamus<fx>^#/+E:^#/- studeamus omnes.<fe>
+ea, quae charitatis sunt, praestare invicem, donec dominus dederit idem sentire, iudicare et loqui omnes<fx>omnes^#/+ fehlt in E.^#/-<fe> in omnibus, si
+forte in praesenti<fx>^#/+E:^#/- nunc.<fe> quaedam non omnino perspiciamus, recte<fx>^#/+E:^#/- bene.<fe> profecto suades, et hoc tibi hac in re pollicere de nobis, quod de
+hominibus charitatem dei colentibus<fx>^#/+Randbemerkung von Bucers Hand:^#/- Certe male praestatur.<fe>. Proinde nec illa praesentia nec alia, quae ad te scribimus, ita intelliges, quasi
+te irritare aut ista ratione novam discordiae telam cupiamus ordiri<fx>^#/+Randbemerkung von Bucers Hand:^#/- nolunt novam discordiam exercere, ita intelligo.<fe>, sed ut expectorata omni simultate libere, quod
+decet fratres<fx>^#/+E:^#/- fratres decet.<fe>, agamus cum fratre<fx>^#/+E:^#/- cum fratre agamus.<fe>.
+^$De ecclesiis Wirtembergicis et Schneppffio non est, quod conquerar<fx>^#/+E:^#/- conquaerar.<fe> amplius. Audio enim principis<f1>Herzog Ulrich von Württemberg.<fe> pietate factum esse,
+ut omnia migrarint e templis dei et divorum idola. Interim vero<fx>vero ^#/+fehlt in E.^#/-<fe> nescire<fx>nescire ^#/+für ein gestrichenes, unlesbares Wort am Rande
+nachgetragen.^#/-<fe> non potes, quid 16. septembris actum sit Urachiae<fx>^#/+E:^#/- quid
+actum sit Urachiae 16. septembris.<fe><f1>Bullinger war durch Johannes Zwick über den Uracher "Götzentag" vom 10. September
+unterrichtet worden, allerdings mit irrtümlicher Datumsangabe; s. oben Nr. 1046.<fe>.
+^$Fac autem, obsecro, quod te facturum polliceris: Commenda doctori<fx>doctori ^#/+fehlt in E.^#/-<fe> Luthero et suis nostram fidem et sedulitatem in regno
+Christi<fx>^#/+Randbemerkung von Bucers Hand:^#/- Commendo Luthero semper quam possim.<fe>. Nam auxiliante deo ita nos geremus<fx>^#/+E:^#/- Nam ita geremus nos auxiliante domino.<fe>, ut tuae commendationis poeniteat nunquam<fx>^#/+E:^#/- poenitere non possit.<fe>.
+^$Bene vale et ora pro nobis dominum.
+^$15. octobris 1537.^$Salutant te fratres<fx>Salutant te fratres ^#/+fehlt in E.^#/-<fe>.
+<un>H. Bullingerus tuus.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

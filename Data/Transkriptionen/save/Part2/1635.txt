@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1635">
+<nr>1635</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>8. Juni 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 242 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 118</vo>
+<dr>Ungedruckt</dr>
+<re>Ist bereit, Johannes Hospinian um Bullingers und Meganders willen zu unterstützen, doch Hospinians Freund [Bonifacius]
+Amerbach kann dies besser, da Myconius [an der Universität] nichts mehr gilt. Hospinian wirbt um [Anna Schaffner],
+doch auch auf sie hat Myconius seit dem Tod des Großvaters [Jakob Meyer] und des Stiefvaters [Johann] Walder keinen
+Einfluss mehr. Dankt für Neuigkeiten von der Badener Tagsatzung und begrüßt, dass sich Zürich gegen Frankreich stellt; dort
+wurde ein Gläubiger gefoltert und verbrannt, und [König Franz I.] paktiert offen mit dem türkischen [Sultan Suleiman I.].
+Gerüchte über die Belagerung von Buda durch kaiserliche und böhmische Truppen; [den Protestanten] droht unabhängig vom
+Ausgang des Krieges Gefahr. Will sich in der Sache der [von Bullinger empfohlenen] Jugendlichen bemühen; kann wegen der bevorstehenden
+Synode nicht ausführlicher schreiben. Grüße. Votiert für die Wahl [Hans Rudolf] Lavaters zum Bürgermeister.
+</re>
+<tx>S. M[agistrum] Ioannem Hospinianum nondum vidi. Novi non esse indoctum, de pietate ignoro. Habetd. Amorbachium<f1>Bonifacius Amerbach.<fe>, quem
+intellexi pridem ei amicum esse. Is iuvare potest. Siquid
+ego facturus sum, tuo et Megandri nomine facturus sum.<f1>Myconius bezieht sich auf ein verlorenes Empfehlungsschreiben (vgl. unten Nr. 1636, 28f).<fe> At
+opera mea non indiget, atque id illi proderit. Qui mihi
+placent, aliis displicent; quos promovere conor, prohibeo.
+Hanc gratiam apud doctos nostros habeo, quamvis dissimulent
+egregie. Verum ita hactenus sensi et expertus sum.
+^$Cęterum aliud esse audio, quamobrem huc se contulit;
+ambit puellam<f1>Hospinian heiratete am 7. Juli Anna Schaffner (Curio), Tochter von Valentin Curio und Anna Meyer zum Hirzen,
+Stieftochter des 1541 verstorbenen Johann Walder (s. Amerbach, Korr. VI 162).<fe> certe bonam. Quid fieri possit, plane ignoro;
+videant, quorum interest. Ad me nonnihil pertinere visa est,
+dum vixit avus<f1>Bürgermeister Jakob Meyer (gest. 1541, s. HBBW XI, S. 338, Anm. 5).<fe> et item vitricus Walderus; his defunctis nihil sum etc.
+^$Gratum est, quod scripsisti de comitiis Badensibus<f1>Vgl. den Abschied der Badener Tagsatzung vom 15. Mai (EA IV/1d
+142-145).<fe>; omnia nescivi praeter vaga quędam, quibus fidem habere non potui. Placet valde, quod tui se a
+Gallo<f1>König Franz I. von Frankreich.<fe> separant et a fautoribus eius<f1>Zürich sprach sich an der erwähnten
+Tagsatzung entschieden gegen die Anwerbung eidgenössischer Söldner durch Frankreich aus; s. EA IV/1d 144 h.<fe>; dignus est<fx>^#/+Nach^#/- est ^#/+ein gestrichener Buchstabe.^#/-<fe>,
+quem nemo non aversetur. In Gallia vir evangelicus<f1>Unbekannt.^&xGeoffroy le Blanc? Vgl. William ^#/+Monter,^#/- Les exécutés pour hérésie par arrêt du Parlement de Paris (1523-1560), in: BSHPF 142, 1996, S. 191-224 (hier 219).^&x{<fe>, postquam de Christo loqui non
+desineret, primo linguam perdidit, dein combustus est<fx>est ^#/+über der Zeile nachgetragen.^#/-<fe> intra mensem. Adeo
+constat convenire inter Turcam<f1>Sultan Suleiman I.<fe> et Gallum<f1>Zu den Verhandlungen Frankreichs mit der Pforte vgl.
+oben Nr. 1631, Anm. 5.<fe>, ut nec Galli dissimulent. Age, dominus utrunque suo tempore visitabit.
+^$Rumores sunt cęsarianos castrametasse ante
+Budam, sed nihil audere, Turcam petere inducias, at neminem
+dare, Boemos ingenti multitudine adesse valde alacres, sed
+prohiberi, ne hostem obpugnent temere; periculum enim esse,
+ut fallantur. Si successerit, in periculo stamus, sin
+aliter, iterum instat damnum. Quicquid eveniat, inter nos
+magis discordabimus. Utinam dominus stet a nobis!
+^$De adulescentibus<f1>Unbekannt.<fe> diligenter inquiro; si invenero, dicam. Non queo pluribus tecum colloqui, quod synodus
+futura<f1>Zur Synode vom 12. Juni 1542 s. unten Nr. 1644, Anm. 32.^&xBasel StA, Kirchenakten C 3, 38r.-42r. und A 9, 363 Zwa 1998, S. 131f^&x{<fe> ocium omne tollit.
+^$Vale cum tuis omnibus in Christo. Gasparem<f1>Kaspar Megander.<fe> salutabis diligenter meo nomine, Theodorum<f1>Theodor Bibliander.<fe> item et Pellicanum.
+^$Basileę, 8. iunii anno 1542.
+<un>Os. Myconius
+<un>tuus.
+<lz>Si votum meum recipies, Lavaterum creabis in consulem<f1>Zum Nachfolger des am 7. April verstorbenen Zürcher Bürgermeisters Heinrich Walder wurde nicht Hans Rudolf Lavater, sondern Johannes Haab gewählt; s. C[onrad] ^#/+Escher,^#/- Bürgermeister Johannes Haab (1503-1561), in: ZTB 1903, NF 26, S.
+25; Schnyder, Ratslisten 303, untere Anm. 1 (vgl. auch oben Nr. 1634 und unten Nr. 1636, 1-4).<fe> etc.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero doctissimo, in domino suo. Zü[ric]h<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

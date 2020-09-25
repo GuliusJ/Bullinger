@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1061">
+<nr>1061</nr>
+<correspondents>
+	<originator>John Butler</originator>
+	<originator>Nicholas Partridge</originator>
+	<originator fn=1, 2>Nicholas Eliott Bartholomew Traheron</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Nicholas Eliott (Eliotus, Elyot), von Guildford, studierte in Oxford und promovierte 1533 zum Magister. Als er im Juni 1537 mit Rudolf Gwalther nach Zürich kam, nahm ihn Bullinger
+        in sein Haus auf. Im November reiste er über Bern nach Genf und kehrte 1538 nach England zurück, wo
+        er sich, von König Heinrich VIII. gefördert, dem Rechtsstudium widmete und eine einträgliche Stellung fand.
+        Er starb zwischen 1542 und 1548. - Lit.: HBD 26, 23-27; ^#/+Boesch,^#/- Gwalthers Reise 452. 456 (lat.). 458
+        (dt.); Epistolae Tigurinae bzw. Original Letters, Nr. 283f. 286f und Reg.; Theodor ^#/+Vetter,^#/-
+        Englische Flüchtlinge in Zürich während der ersten Hälfte des 16. Jahrhunderts, Zürich 1893. - Njbl., hg. v. der
+        Stadtbibliothek in Zürich, S. 7; A[lfred] B[rotherston] Emden, A Biographical Register of the University of
+        Oxford A. D. 1501 to 1540, Oxford 1974, S. 188.
+    </note>
+	<note fn=2>Bartholomew Traheron (Traherren, Traherne, Trehernius; Pseudonym: Benthalmai Outis), geb. um 1509, gest. 1558(?), wurde schon 1532 als Student in Oxford des Kontakts mit einem "Häretiker" (John Frith)
+        beschuldigt. Im Herbst 1537 war er für einen Monat Bullingers Gast (s. HBD 26, 4-27); darauf kehrte er über Genf und Straßburg
+        nach England zurück. 1539/40 stand er im Dienste Cromwells, verlor aber bei dessen Sturz seine Stellung am Hof. Die Angabe, er habe Calvin 1546 erneut besucht, scheint auf einem Irrtum zu beruhen (vgl. C. H. ^#/+Smyth,^#/- Cranmer & the Reformation under Edward VI, Cambridge 1926, S. 83, Anm. 2),
+        jedoch steht fest, daß er sich dessen Prädestinationslehre zu eigen machte und sie auch gegenüber Bullinger vertrat.
+        Unter Eduard VI. erlangte er verschiedene weltliche und geistliche Ämter; so gehörte er 1547-52 dem Parlament an (vgl. Vadian BW
+        VI 697), wurde 1549 königlicher Bibliothekar, 1552 Dekan von Chichester und 1553 Kanoniker von Windsor.
+        Im gleichen Jahr schrieb er letztmals an Bullinger. Unter Maria Tudor emigrierte er zunächst
+        nach Frankfurt. Hier wurde er in Lehrstreitigkeiten mit John Knox verwickelt. Darauf zog er sich nach Wesel zurück und hielt
+        in der dortigen Flüchtlingsgemeinde neutestamentliche Vorlesungen. 1557 wurden die Engländer ausgewiesen; wo
+        Traheron seine letzte, 1558 erschienene Schrift verfaßte, ist nicht bekannt. - Lit.: Epistolae Tigurinae bzw. Original Letters,
+        Nr. 148-156. 285-287 und Reg.; Corr. des réformateurs IV, Nr. 689 und 697; CO XIII-XVI. XX, Reg.;
+        Dictionary of National Biography, Bd. LVII, London 1899, S. 148f; Christina Hallowell ^#/+Garrett,^#/- The Marian
+        Exiles. A Study in the Origins of Elizabethan Puritanism, Cambridge 1938 (Nachdruck: 1966), S. 308f; Emden, aaO, S.
+        573f.
+    </note>
+</correspondents>
+<space_time>
+	<place>[Bern</place>
+	<date>kurz nach 1. November 1537]</date>
+	<note>Die Schreibenden, die Zürich am 1. November verließen (s. HBD 26, 25-27), berichten über ihre Aufnahme in Bern. Ihren Besuch erwähnt Megander in seinem Brief vom 11. November (s. unten Nr. 1065, 62-65).</note>
+</space_time>
+<vo>Autograph Traherons: Zürich StA, E II 369, 18 (Siegelspur) </vo>
+<dr></dr>
+<re>Danken für die beim Abschied wie schon zuvor erwiesene Großzügigkeit. Sind in Bern dank seiner Empfehlung freundlich aufgenommen worden. Grüßen Jud, Pellikan und Bibliander.
+</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Epistolae Tigurinae 404 bzw. Original Letters II 623, Nr. 286.]
+</content>
+</letter>

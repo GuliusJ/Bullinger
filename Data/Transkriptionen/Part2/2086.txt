@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2086">
+<nr>2086</nr>
+<correspondents>
+	<originator>[Pfarrer des Kapitels Neuenburg</originator>
+	<addressee>die Pfarrer</addressee>
+	<addressee fn=1>Lehrer von Zürich]</addressee>
+	<note fn=1>Die Verfasser ergeben sich aus dem Aufbewahrungsort der Briefabschrift und aus der Angabe, dass Farel der Begründer ihrer Kirche gewesen sei (Z. 18f). - Der Empfänger wird als bedeutende (Z. 10f) Schwestergemeinde gebeten, sich wie in den vergangenen Jahren (Z. 14-16) behilflich zu erweisen, wobei man erfährt (Z.3f. 26-28), dass die anderen angefragten Gemeinden ihre Gutachten zu dieser Affäre bereits eingeschickt hatten (s. Anm. 14). Demzufolge ist der vorliegende Brief wohl für die Verantwortlichen der Zürcher Gemeinde bestimmt. Dies geht ebenfalls aus unten Nr. 2087 hervor.</note>
+</correspondents>
+<space_time>
+	<place>[Neuenburg</place>
+	<date>um den 21. Februar 1545]</date>
+	<note>Das Datum wurde in Anlehnung an Farels Begleitbrief (unten Nr. 2087) ergänzt.</note>
+</space_time>
+<vo>Zeitgenössische Abschrift von unbekannter Hand: Archives de l'Etat de ^$^$^$^$Neuchâtel, Fonds de la Sociétés des pasteurs et ministres neuchâtelois, ^$^$^$^$1PAST-­8.4<f1>Dieser Brief war nur durch zwei Abschriften von Aimé-Louis Herminjard bekannt, die keine Angaben zur Signatur der Vorlage enthalten. Die Vorlage wurde von Christine Rodeschini von den Archives de l'Etat de Neuchâtel anhand von Fotoaufnahmen der Abschriften von Herminjard ermittelt, die uns Hervé Genton vom Institut d'histoire de la Réformation in Genf (wo die "Papiers Herminjard" deponiert sind) zukommen ließ. Beiden sei hier unser herzlichster Dank ausgesprochen.<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Farel hatte schon den [Zürchern] bezüglich [Jean Chaponneau] geschrieben. Dieser widersetzt sich der unter den Pfarrern üblichen Zensur. Da die nicht unbedeutende [Zürcher] Gemeinde im Gegensatz zu den anderen, ebenfalls angefragten Gemeinden nicht geantwortet hat, wird sie hier nochmals um ihre Meinung gebeten und erhält erneut die Beschreibung des in [Neuenburg] gebräuchlichen Zensurverfahrens wie auch die Thesen des Gegners [HBBW XIV, Nr. 2023].
+-^#. Mögen die [Zürcher], die sich bereits in den vergangenen Jahren [1541/42] (als einige Farel, den Gründer der Gemeinde [Neuenburgs], vertreiben wollten) behilflich erwiesen hatten, der [Neuenburger] Gemeinde erneut Beistand leisten.
+-^#. Beiliegend die [Abschriften] der von den anderen Kirchen erhaltenen Gutachten, da diese den [Zürchern] ebenfalls zugutekommen.</re>
+<tx>Dedit ad vos literas antead. Farellus,<f1>Am 28. Oktober 1544 verfassten die Pfarrer Neuenburgs einen Rundbrief an Schwestergemeinden in Bezug auf den von Jean Chaponneau verursachten Streit über die Ausübung der Zensur unter den Pfarrern (HBBW XIV, Nr. 2022). Mitte November versah Calvin eines dieser Rundschreiben mit einem Begleitschreiben für die Zürcher (ebd., Nr. 2035). Am 5. Dezember übermittelte Myconius aus Basel den Zürchern Briefe Calvins (nicht erhalten) und Farels (nicht erhalten), wie auch eine Abschrift eines Gutachtens von Calvin zur gleichen Angelegenheit (s. ebd., S. 578, 41-43. 62f). Der Brief Farels war wahrscheinlich an Megander gerichtet (s. nämlich ebd., S. 593; und unten Nr. 2087). Am 20. Dezember schrieb Farel erneut, diesmal an Bullinger (HBBW XIV, Nr. 2053 - dieser Brief ist ebenfalls unten in Nr. 2087 erwähnt). Diese zwei Briefe Farels entsprechen wohl den Briefen, auf die hier Bezug genommen wird. Dem vorliegenden Schreiben wurde zugleich ein Schreiben Farels (unten Nr. 2087) und ein hier Z. 4-7 beschriebenes Dokument (s. dazu Anm. 7) beigelegt.<fe>
+quibus sententiam vestram super quadam controversia inter nos et quendam<f1>Jean Chaponneau.<fe> ex simmistis nostris orta elicere volebat.
+Sed, cum nihil ad nos literarum de sententia vestra dederitis, cogimur iterum de re eadem ad vos scribere scriptumque mittere, in quo descriptus est modus, quo utimur in censendis fratribus, cui repugnare supra dictus conatus est positionibus quibusdam<f1>Die von Chaponneau aufgestellten Thesen gegen die Art und Weise, wie die Neuenburger damals die Zensur unter sich ausübten. - Zum Text dieser Thesen s. unten Anm. 7.<fe> in medium prolatis, quarum etiam exemplum ad vos mittimus.<f1>Der hier beschriebene und nach Zürich gesandte Anhang zu diesem Brief entspricht wohl dem Dokument, das wir (gestützt auf Herminjard) in HBBW XIV 487f als Nr. 2023 verfrüht angeführt und zusammengefasst haben. Die Teilwiederholungen, die man in den Dokumenten Nr. 2022f beobachtet, sind ebenfalls ein Hinweis dafür, dass Nr. 2023 kaum unmittelbar nach Nr. 2022 verfasst und nach Zürich übermittelt worden sein kann.<fe>
+Nam cum illi<f1>Chaponneau.<fe> firmis quantumvis et aequis rationibus satisfacere non potuerimus, nihil nobis honestius nec tutius visum fuit, quam si hęc tota controversia omni<fx>omni contentione omissa ^#/+am Rande nachgetragen.^#/-<fe> contentione omissa ecclesiarum iudicio dirimatur; inter quas vestra non sane contemnenda in primis nobis occurrit.
+^$Vos igitur, fratres charissimi, per Iesum Christum oramus et obsecramus, ut, quid de hac re sentiatis, nobis primo quoque tempore literis significetis. Hac ratione fiet, ut nos, iam vobis devinctos, devinctiores reddatis.
+Non enim nobis exciderunt, quę superioribus annis pręstitistis, ut labenti et inclinatae ecclesiae nostrae succurreretur.<f1>So z.B. in den Jahren 1541/42, als einige versuchten, Farel aus Neuenburg zu vertreiben; s. HBBW XI, Nr. 1574. 1585, HBBW XII, Nr. 1609. 1622; Jules ^#/+Pétremand,^#/- in: Guillaume Farel 1489-1565. Biographie nouvelle ..., Neuchâtel/Paris 1930, S. 443-466.<fe>
+Nam quid sperandum fuisset de ecclesiae illius statu, in qua, in ministerium verbi sine consensu et suffragio ministrorum quisque admitteretur, et ex qua Farellus, vir pius, ministerio cuius dominus eam<f1>ecclesiam Neocomensem.<fe> fundaverat,<f1>1529/30; s. ^#/+Pétremand,^#/- aaO, S. 206-236.<fe> improbitate nonnullorum turpiter tanquam mercenarius quispiam eiectus fuisset?
+Dominus autem his nefariis erroribus et vitiis mederi vestris reliquarumque ecclesiarum sanctissimis monitis et consiliis misericordia sua voluit.
+A vobis igitur petimus, fratres, ut, quoniam antea bene coepistis ecclesiae domini auxilium ferre, nunc quoque opem vestram eidem feratis<fx>feratis ^#/+über gestrichenem^#/- ne denegare velitis.<fe>.<f1>Vgl. 2Kor 8, 10f.<fe>
+Si id non feceritis, mirabimur; sed confidimus vos esse omnino facturos.<f1>Vgl. 2Kor 8, 22; 2Thess 3, 4. - Die Zürcher Kirche verfasste ihre Antwort am 12. März 1545 (unten Nr. 2102).<fe>
+^$Rescripserunt nobis ecclesiae, quarum iudicium subiimus.<f1>Auch Basel, Genf, Gex, Morges und Straßburg waren nach ihrer Meinung gefragt worden und hatten zwischen dem 4. November und dem 29. Dezember 1544 bereits alle geantwortet; s. ^#/+Pétremand,^#/- aaO, S. 546 und Anm. 1.<fe>
+Literarum exempla ad vos mittimus, ut donorum illis a domino collatorum vos nobiscum faciamus participes.
+^$Valete. Dominus Iesus vos diu incolumes ecclesiae suae servet.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

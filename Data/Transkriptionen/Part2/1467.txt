@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1467">
+<nr>1467</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<originator>Johannes Blasius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>20. Februar [1541]</date>
+	<note>Die Bestimmung des mutmaßlichen Jahresdatums erfolgt aufgrund der Fürsprache für Rudolf Schinz, die Comander in seinem Brief vom 7. März 1541 (Nr. 1474) wiederholt.</note>
+</space_time>
+^&xVgl. Wiederholung der Fürbitte für Rudolf Schinz am 7. März 1541. Datierung überprüfen! Chur hatte sich schon am 20. August 1538 in Zürich für Schinz verwendet, s. Zürich StA, A 248.1.^&x{
+<vo>Autograph Comanders: Zürich StA, E II 343a, 430 (Siegelspur)</vo>
+<re>Haben Bullingers Schreiben [Nr. 1465] erhalten und freuen sich über die Fortschritte der Reformation, welche den Gegnern jeden Mut rauben. Der aus Zürich geflohene Rudolf Schinz beteuert seine Unschuld und hat sie gebeten, mit Bullinger Kontakt aufzunehmen, um eine Rückkehr zu erwirken; obwohl
+sie sich gut vorstellen können, dass Schinz mit seinem Eigensinn seine Herren verärgert hat, wollen sie ihm dennoch für die Jahre, die er in Chur verbracht hat, ein gutes Zeugnis ausstellen; möglicherweise benimmt er sich auswärts aber besser als zu Hause; Bullinger soll nach seinem Gutdünken über
+das weitere Vorgehen entscheiden. Grüße.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 33f, Nr. 24.]
+^&x<tx>S. D. P. Literas humanitatis tuae hisce diebus
+accepimus, frater observande, quae nos ingenti gaudio
+affecerunt. Nulla enim re maiorem consolacionem accipere
+possumus, quam cum Christi notitia in orbe quam latissime
+spargitur. Eadem, quae tu scribis, papistae nostri ante nos
+sciverunt, sed oppresserunt; moerore magno affecti
+ringuntur. Deo autem gratia, qui hos superbissimos pietatis
+hostes brevi tempore ad desperationem adacturus est, ut
+relicta superstitione sua et falsa pietate una nobiscum
+Christum adorent vel contempta cognita veritate sua sponte
+in interitum corruant.^&x{
+^&x^$Venit ad nos adversa fortuna actus Ruͦdolphus Schintius confitens se Tiguri ex ergastulo quodam auffugisse[!],
+sanctissime affirmans se prorsus nescire, qua causa illuc
+impositus fuerit, obsecrans ut ad te literas sui causa
+daremus, ut tuo auxilio tuto redire ad urbem possit et res
+suas componere. Sua morositate dominos suos illum offendisse
+non dubitamus. Hoc tamen illi testimonium dare libere
+possumus: Tempore illo, - nam aliquot annis apud nos vixit -,
+quo nobiscum Curiae habitavit, honeste, irreprehensibilis
+et victum sibi durissimo labore queritans vitam egit.
+Forsitan, cum domi est, libertate sua abutitur et apud
+exteros intra cuticulam suam sese continet. Fac pro tua
+prudencia, quod tibi visum fuerit optimum, et ex nostra
+supplicatione pro illo fructus aliquis et refigerium illi
+eveniat.^&x{
+^&x^$Vale.
+^$Ex Rhetiae Curia, 20. die februarii.
+<un>Tui ex animo Ioannes Blasius/Comander.
+<lz>[Adresse .....] Pietate et doctrina
+praestantissimo viro M. Heinricho Bullingero, Tigurinae
+ecclesiae episcopo vigilantissimo, domino et amico suo
+inprimis observando.
+^$Erw.: ZTB 1972, NF 92, S. 37.^&x{
+</content>
+</letter>

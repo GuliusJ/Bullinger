@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2220">
+<nr>2220</nr>
+<correspondents>
+	<originator>Eberhard von Rümlang</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>19. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 360, 387 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Die vom Bieler Schulmeister [Johann Leopold Frey] angefertigte deutsche Übersetzung von Bullingers lateinischer Abhandlung "De [vera hominis Christiani] iustificatione", entnommen aus dem Johannes[kommentar], wird in [Bern] gedruckt. Bullinger wird sie in Kürze erhalten. Als Zensor hat Rümlang dem Drucker [Matthias Apiarius] den Druck genehmigt, womit der derzeit abwesende Venner und Mitzensor [Hans Rudolf] von Graffenried gewiss einverstanden sein wird.
+-^#. Rümlang hofft, Bullinger zur nächsten Zurzacher Messe [1. September] zu treffen und mit ihm über die [Berner] Verhältnisse sprechen zu können. Dem inzwischen von den Buceranern eingenommenen [Sulpitius] Haller soll Bullinger nichts anvertrauen. Die Buceraner sind nämlich sehr schlau, verführen mit rhetorischer Kunst, behaupten, man bräuchte auch menschliche Erläuterungen für das Verständnis der Worte des Herrn, und lehren dann wieder Wahres, um die aufgewühlten Geister zu beruhigen.
+-^#. Rümlang trauert um den verstorbenen Georg Binder.
+-^#. Grüße.</re>
+<tx>S. Libellus a te Latine editus in Ioannem De iustificatione<f1>Dabei handelt es sich um Bullingers "Praefatio de vera hominis Christiani iustificatione, vera item et iusta bonorum operum ratione" (HBBW XIII, Nr. 1774), die als Widmungsepistel an Hans Rudolf Lavater in Bullingers Kommentar zum Johannesevangelium von August 1543 (HBBibl I 153; BZD C 321; VD 16 B 9741) veröffentlicht worden war.<fe> per pędotribam Bielensem<f1>Johann Leopold Frey; s. Anm. 3.<fe>
+in Germanicum translatus hic typis excuditur.<f1>Es handelt sich um: Von warer rechtfertigung eins Christen menschen und von rechtgeschaffnen guͦtten wercken. Erstlich durch m. Heynrichen Bullinger an den fürtreffenlichen Herren Johansen Ruͦdolphen Lavater Burgermeyster der Statt Zürich inn Latinischer sprach beschriben, nüwlich durch einen guͦtwilligenn zum aller trüwlichstenn vertütscht, Bern, Matthias Apiarius, 1546, 40 Bl., 8^#'o (HBBibl I 156; Hans ^#/+Bloesch,^#/- Dreißig Volkslieder aus den ersten Pressen der Apiarius ... mit einer Einleitung und Bibliographie, Bern 1937, S. 35, Nr. 65), übersetzt von Johann Leopold Frey, der Bullinger am 6. Juni 1546 (Zürich StA, E II 345, 320) ein Exemplar davon übersandte. - Dass die Übersetzung dieser Schrift von LL VII 417 Johannes Fries statt Johann Leopold Frey zugeschrieben wurde, geht offensichtlich auf eine Verwechslung zurück.<fe> Brevi tibi exemplar mittam.<f1>Entgegen der hier geäußerten Ankündigung wurde die Schrift erst 1546 gedruckt.<fe> Excrescit in quinque paginas.<f1>Fünf Druckbogen (d.h. die auf die Form aufgelegten Blätter), die gefaltet insgesamt 40 Blätter im Oktavformat (s. Anm. 3) ergeben.<fe>
+Hic libellus dum mihi ostendebatur, ut typographo<f1>Matthias Apiarius.<fe> traderetur, permisi; quod non ingratum erit
+signifero a Gravenried<f1>Johann (Hans) Rudolf von Graffenried. - Signifero: dem Bannerherr ("Venner"). Graffenried war in den Jahren 1535-1555 dreimal Venner zu Pfistern; s. HBBW XII 248, Anm. 30; HLS V 589f.<fe>, collegę meo, qui pręlo mecum pręest,<f1>Rümlang war seit 1539 zusammen mit Peter Kunz, Hans Rudolf von Graffenried und Anton Noll Mitglied der neu geschaffenen Zensurbehörde; s. HBBW XIV 76, Anm. 45.<fe> licet iam non domi sit.
+^$Ad proximas Zurzazenses<fx>^#/+In der Vorlage^#/- Zurzazensens.<fe> nundinas<f1>Am 1. September; vgl. oben Nr. 2175, Anm. 4.<fe> deo volente te conveniam coram et statum omnem expediam nostrum, etc.<f1>Ob dieses Treffen von Rümlang und Bullinger stattfand, ist nicht bekannt.<fe>
+Precor, noli quęstori Hallero<f1>Sulpitius Haller.<fe> quicquam credere, nam prorsus pendet a Buceranis.
+Abusi sunt eius simplicitate, quam illexere in nassam suam. Venenum occultare sunt callidissimi
+multoque verborum lenocinio seducunt parum cautos atque prę se ferunt, perinde atque illis inique dolus obtrudatur,
+cum nonnisi a simplicitate domini verborum pendeant et humana commenta explodant.
+Depuduere<f1>= Sie schämen sich nicht.<fe>, susque deque ferunt<f1>Adagia, 1, 3, 83 (ASD II/1 386, Nr. 283).<fe> mentiri et contradictoriis uti. Pauci tamen animadvertunt.
+Miscent coelum mari terręque<f1>Adagia, 1, 3, 81 (ASD II/1 384f, Nr. 281).<fe>, confusaneaque docent, ex quibus se ipsos explicare nequeunt. Non constant sibi ipsis,
+et ut turbatas mentes mitigent, quandoque vere docent, mox, prodentes veritatem, salivam Buceranam expuunt, etc.
+^$Gravissimum vulnus inflixit obitus dulcissimi mei sodalis Georgii Binderi,<f1>Georg Binder war am 18. Juli 1545 verstorben; s. oben Nr. 2199 und Anm. 12.<fe> etc.
+^$Vale. Habeto me commendatum. Salutabis meo nomine omnes doctos apud te.
+^$Datum raptim Bernę, 19. augusti anno 45.
+<un>Tuus Eberardus a Rumlang.
+<lz>[Adresse auf der Rückseite:] Vigilantissimo fidelissimoque virod. Heinrycho Bullingero, ecclesiastę Tigurino primario, patrono suo semper excolendo. An meister Heinrich Bullinger. Zurich.
+</content>
+</letter>

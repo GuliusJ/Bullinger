@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1451">
+<nr>1451</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>5. Januar 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 18 (Siegelspur) </vo>
+<re>Stellt in Abrede, dass Bucer in einem Brief an ihn [BucerDS VIII, Nr. 8] Bullinger schlecht gemacht habe, wie er vom Churer
+Säckelmeister hörte, der im Herbst bei Bullinger war; Bucer beklagte nur, dass ihn Bullinger im [Widmungs-]Brief an Johannes
+Travers [Nr. 1303] angegriffen habe. Der Briefüberbringer, ein getaufter Jude, ein bescheidener, armer Mensch, weilte einen
+Monat lang in Chur, konnte hier aber kein Auskommen finden; Comander bittet Bullinger, ihm weiterzuhelfen. Johannes Blasius
+und Nikolaus [Pfister, gen.] Baling senden Grüße und bitten zusammen mit ihm um Nachrichten über das Religionsgespräch in Worms.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 22f, Nr. 18.]
+^&x<tx>Gratiam et vitae innocentiam a domino.
+^$Quaestor aerarius nostrae civitatis nuper mihi retulit,
+colendissime Bullingere, cum Tiguri esset proximo autumno,
+humanissime sese precipue a te tractatum fuisse, inter
+confabulandum vero etiam mei memoriam habuisse, hac scilicet
+ratione, quod Bucerus quasdam literas ad me dederit, in
+quibus te nonnihil taxaverit etc. Verum est, literas ad me
+dedit, quibus Lutheri et suas de eucharistia caligines ad
+longum descripsit, conatus nimirum me in ipsorum adducere
+opinionem. In illis literis Bulingeri[!] mentionem facit
+hactenus tantum: Quaerulatur, quod in epistola ad dominum^&x{
+^&xIohannem Traversium ipsum durius taxaveris, quam sperasset.
+Preterea penitus nihil nec te aliquo aut scripta tua verbo
+laedit; nam si tale quid scripsisset ad me, nequaquam te
+caelassem.
+^$Caeterum tabellarius praesentium, Hebraeus natus, sed ad
+Christum conversus, homo sane mentis, ut mihi videtur,
+humilis et patiens, dignus quidem meo iuditio, in quem
+beneficia pro necessitate conferantur, qui iam extrema
+praemitur paupertate, ad vos divertit meis literis utcunque
+commendatus, ut saltem accedendi te occasionem haberet. Fuit
+nobiscum Curiae mensem unum; cum vero satis illi perspectum
+esset apud nos vivere aut victum acquirere non posse, ad vos^&x{
+^&xsese recipere statuit. Huic adesse propter Christum velis
+vel aliquo commendatione tua promovere.
+^$Vale.
+^$Ex Rhetiae Curia antiqua, nonis ianuarii 41.
+^$Salutant te plurimum Ioannes Blasius et Nicolaus Balingius,
+confratres mei, depraecantes una mecum, ut de conventu
+Wormaciensi et de actis illius nos certiores facere^&x{
+^&xdigneris.
+<un>Tuus ex animo Ioannes Comander.
+<lz>[Adresse .....:] Doctissimo viro Magistro
+Heinricho Bullingero, clarissimae ecclesiae Tigurinae
+antistiti vigilantissimo, domino at amico suo plurimum
+observando.^&x{
+</content>
+</letter>

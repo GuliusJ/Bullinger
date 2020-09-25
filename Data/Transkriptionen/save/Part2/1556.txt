@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1556">
+<nr>1556</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>um Mitte August 1541]</date>
+	<note>Nach dem Tod von Simon Grynäus (1. August 1541) und der Rückkehr von Konrad Zwick aus Regensburg (vgl. die folgende Anm.).^&x wohl etwa gleichzeitig mit dem Brief an Vadian vom 14. August (Vadian BW VI 64, Nr. 1195) ^&x{</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 28 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 67<fn>erw.: Moeller, Zwick Nr. 251.</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Zwicks Bruder [Konrad] ist gestern [vom Reichstag in Regensburg] zurückgekehrt; sobald er dem Rat seinen Bericht vorgelegt hat, soll auch Bullinger Nachricht erhalten. Der Tod von [Simon] Grynäus hat alle erschüttert.
+</re>
+<tx>S. Heri frater rediit.<f1>Konrad Zwick hatte Konstanz am Reichstag zu Regensburg vertreten (vgl. oben Nr. 1526, Anm. 3);
+das genaue Datum seiner Rückkehr ist nicht bekannt.<fe> Relationem senatui non fecit adhuc. Qua facta etiam nos sciemus certa, quae te non celabo tabellione proximo.
+^$De Grynei obitu<f1>Zum Tod von Simon Grynäus vgl. oben Nr. 1552, Anm. b.<fe> omnes sumus consternati.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, Tigurinae ec­clesię pastori vigilantissimo.
+</content>
+</letter>

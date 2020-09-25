@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1990">
+<nr>1990</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>19. [September] 1544</date>
+	<note>Der Brief gehört zweifellos in den September, da Bullinger in seinem Schreiben an Vadian vom 28. September eine Nachricht daraus zitiert; s. unten Nr. 1997. Ein weiteres Indiz ist die Empfehlung des durch Basel reisenden Albert Hardenberg; s. unten Z. 67-72. Die parallele Empfehlung durch Myconius datiert vom 16. September; s. oben Nr. 1987.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 246f (ohne Siegel)<fx>^#/+Das Siegel wurde herausgeschnitten.^#/-<fe></vo>
+^&xK: Zürich ZB, Ms S 55, 180; Zit.: Gast Tagebuch 41. 61. 63 (je Anm.)^&x{
+<dr>Ungedruckt</dr>
+<re>[Gilbert Cousins] Bruder [Antonius oder Hugo] war [in Basel], hinterließ aber keinen Brief für Bullinger. Gast glaubt, dass der früher mit Osiander befreundete [Thomas] Venatorius der Verfasser des "Speculum [Osiandri]" ist; aber vielleicht auch der Stadtschreiber [Georg Frölich] von Augsburg. Es gibt kaum Nachrichten über Kaiser [Karl^#. V.] und den französischen [König Franz^#. I.]; [die Basler Söldner] schicken ihr im Krieg zusammengetragenes Geld nach Hause und
+schreiben von einem Fund von über 80'000 goldenen Pfennigen bei Troyes, von denen Gast einige sah; der Kaiser sucht angeblich nach Fluchtwegen oder simuliert eine Flucht; Graf Wilhelm von Fürstenberg wurde an Verenae [1. September] im Fluss [Marne] gefangen genommen, zusammen mit zwei berittenen Begleitern [...]; er wurde vor den König geführt, der befahl, ihn vor die Parlamentarier in Paris zu bringen; manche von den [eidgenössischen] Söldnern sind gestorben, manche sehr krank; sie haben reichlich Lebensmittel, leiden aber an der Hitze; von einem gestern angekommenen Boten [...] erfuhr Gast, dass der vom Kaiser in das französische Lager geschickte spanische Mönch [Pedro de Soto] wegen eines Friedens verhandele. Hat die von [Sebastian] Münster bearbeitete ["Geographia universalis"] des Ptolemäus noch nicht gesehen, hörte aber, dass Münster dem von Heinrich Petri vertriebenen Werk einiges hinzufügen und anderes korrigieren wolle; Gast will das Buch nach Petris Rückkehr schicken.
+Cellarius [Martin Borrhaus] ist von den Abgeordneten zum Theologie[-professor] gewählt worden; die [Universität Basel] bemühte sich vergeblich, das rückgängig zu machen; [Oswald] Myconius stimmte auch für ihn, aber wohl kaum aus ganzem Herzen, da er sich selbst Hoffnungen auf dieses Amt machte; Lepusculus [Sebastian Häslin] hat sich ebenfalls von falscher Hoffnung verleiten lassen und hatte sogar versprochen, den Doktortitel anzunehmen, wenn ihm das Lehramt übertragen würde; was, wenn [Borrhaus] seine Dogmen über Taufe und Judenerlösung verbreitet? Aber Gast mischt sich nicht ein. Im Dorf Houssen bei Colmar hat sich ein alkoholabhängiger Pfarrer bei einem öffentlichen Gastmahl übel aufgeführt und kam, teils durch gewaltsame Einwirkung von Bauern, zu Tode. In Blotzheim bei Basel durchbohrte ein Spieler einen neben ihm Stehenden, der ihn des Falschspielens bezichtigt hatte, mit dem Schwert; er wird in der kommenden Woche verurteilt. Das Bücherverzeichnis schickt Gast später.
+Luther missfällt das Bekenntnis des Kölner [Erz-] ^@+Bischofs [Hermann von Wied] sehr; er soll sich bei Melanchthon wegen des Abendmahlsartikels beschwert haben; Luther glaubt, dass die [eidgenössischen Kirchen] nichts verstehen; auch die Zürcher Veröffentlichungen hat er in seiner Vorrede zum deutschen Neuen Testament schön misshandelt! Grüße. Bullinger soll wegen Nachrichten über den Kölner Bischof, [König Heinrich^#. VIII.] und andere Angelegenheiten Albert Hardenberg befragen, der nach dem Besuch der Brüder in Bern auch [Zürich] besuchen wird; die [Zürcher] sollen diesen herausragenden Mann gut aufnehmen. Grüße. Ein Bote
+[...] überbrachte heute von Straßburg dem [Basler] Rat einen Brief, der zweifellos Nachrichten über die Kriegsvorgänge enthält.</re>
+<tx>S. Cognati nostri frater<f1>Zu den Brüdern von Gilbert Cousin s. oben Nr. 1951, Anm. 3. - Bullinger erwartete einen Brief von Gilbert Cousin; s. oben Nr. 1927, Anm. 15. Diesem hatte er auch seine "Antiquissima fides" über Gast zukommen lassen; s. oben Nr. 1967, 3f.<fe> hisce diebus apud nos fuit, sed nihil literarum ad te pertinentium attulit.
+^$Quis autem autor sit Speculi<f1>Zum "Speculum Osiandri" s. oben Nr. 1960; 1974, 1-4 mit Anm. 1. Autor war Georg Frölich (Laetus); s. oben Nr. 1963, Anm. 10.<fe>, ignoro planissime. Reor
+Venatorem<f1>Thomas Venatorius.<fe> esse. Necesse enim eum fuisse autorem, cui
+Hosdichanders<f1>Zur Verballhornung des Namens Osiander zu "Hosanders" s. oben Nr. 1974, Anm. 1.<fe> notissimus fuerit aut
+familiaritate aliqua ad tempus devinctus ac iam abalienatus.
+Missum est carmen ad nos ex Augusta<f1>Augsburg.<fe>; exemplaria pauca sunt
+impressa<f1>Ein Druckexemplar des Spottgedichts "Speculum Osiandri" ist nicht erhalten, der Drucker ist unbekannt; s. Osiander GA VIII 304, Anm. 98.<fe> et Augustam missa. Quid, si archigrammateus
+Augustanus<fx>Augustanus ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Georg Frölich, geb. um 1500 in Lobenstein an der Lemnitz (Thüringen), gest. 1575 in Lauingen (Bayern). Nach einer Tätigkeit an der kurpfälzischen Kanzlei in Heidelberg und vorübergehend 1521/22 an der Nürnberger Ratskanzlei wurde er im Oktober 1526 Registrator in Nürnberg und daselbst am 30. März 1529 Ratskanzleischreiber unter Lazarus Spengler. Von 1537 bis 1548 Stadtschreiber von Augsburg. Nach der Niederlage des Schmalkaldischen Bundes musste er aus Augsburg weichen und zog sich von 1548 bis 1552 nach Kaufbeuren (Bayern) und von 1552 bis 1576 nach Lauingen zurück. Von 1545 bis 1561 war er ein wichtiger Korrespondent Bullingers; aus diesem Briefwechsel sind 112 Briefe Frölichs an Bullinger erhalten. - Lit.: Augsburger Eliten 134; Berndt ^#/+Hamm,^#/- Die reformatorische Krise der sozialen Werte - drei Lösungsperspektiven zwischen Wahrheitseifer und Toleranz in den Jahren 1525 bis 1530, in: Die deutsche Reformation zwischen Spätmittelalter und Früher Neuzeit, hg. v. Thomas A. Brady, München 2001. - Schriften des Historischen Kollegs (Kolloquien) 50, S. 115, Anm. 73 (mit weiterer Lit.); MBW, Regesten XII 97f (mit weiterer Lit.).<fe> (sed hoc in sinum tuum dico) autor esset aut ab
+aliquo Norenburgense carmen accepisset<fx>accepisse ^#/+aus^#/- acceperit ^#/+korrigiert.^#/-<fe> ac<fx>^#/+Vor^#/- ac ^#/+gestrichenes^#/- sed.<fe> ad nos misisset? De hac
+re plura non novi.
+^$De caesaris<f1>Kaiser Karl^#. V.<fe> et Galli<f1>König Franz^#. I.<fe> exercitu parum audimus. Nostri<f1>Vgl. oben Nr. 1937, 7-17.<fe> magnam
+pecuniae vim uxoribus suis mittunt, quam in hoc bello
+colligerunt. Scripserunt se invenisse ingentem auri
+thesaurum, quum castrametati sunt iuxta Troiam<f1>Troyes (Dép. Aube), Frankreich. - Die eidgenössischen Söldner befanden sich nämlich im französischen Lager.<fe> in campo
+aperto, plus quam 80'000 guldene pfennig, do einer by 4 gl.<f1>Gulden.<fe>
+thuͦt. Vidi unum et alterum, sed non potui characteres<f1>Die Prägungen.<fe>
+agnoscere.<f1>Näheres über den Fund und die Quelle dieser Nachricht konnte nicht ermittelt werden. Siehe auch unten Nr. 1997.<fe> Hac esca in nassam<f1>Adagia, 4, 4, 88 (ASD II/7 228, Nr. 3388).<fe> nostri sunt illecti. Caesarem
+aiunt effugia subinde quęrere, aut ita fugam simulare, ut
+tandem Gallum subsequentem opprimat. Dux Wilhelmus a
+Furstenberg captus est<f1>Zur Gefangennahme Graf Wilhelms von Fürstenberg s. oben Nr. 1987 mit Anm. 7.<fe> in flumine<f1>In der Marne; s. oben Nr. 1987, Anm. 7.<fe>
+cum duobus equitibus<f1>Fürstenberg war nur in Begleitung eines Pagen und eines Trompeters gefangen genommen; s. Volker ^#/+Wagner,^#/- Fürstenberg 258.<fe> die
+Verenę<f1>Am 1. September. - Das richtige Datum ist der 3. September 1544 (kurz nach Mitternacht); s. oben Nr. 1987, Anm. 7.<fe>; pertractus per totum Helveticu[m]<fx>^#/+Randtext beschädigt.^#/-<fe> exercitum exanimis
+fere ob timorem, quem conceperat, nescio, ob quod flagit[ium]<fx>^#/+Randtext beschädigt.^#/-<fe> in
+Gallum perpetratum, dein ductus ad regem<f1>Franz^#. I.<fe>, qui noluit eum
+alloqui, tande[m]<fx>^#/+Randtext beschädigt.^#/-<fe> iussus Parisium<f1>Paris.<fe> duci ad dominos
+parlamentarios<f1>Vor dem Parlament. - Es kam wohl nie dazu.<fe>. Quid de illo velit statuere<fx>statuere ^#/+aus einem nicht mehr lesbaren Wort korrigiert.^#/-<fe>, brevi
+resciemus. Quidam ex nostris militibus obierunt, quidam
+valde aegrotant; cibi et potus affluentiam habent et aestus
+intolerabiles fer[unt]<fx>fer[unt] ^#/+über der Zeile nachgetragen.^#/-<fe>. A tabellione<f1>Unbekannt.^&xIm Staatsarchiv Basel-Stadt befinden sich die Unterlagen zu den Italienischen Kriegen unter der Signatur Politisches M 1. Dort findet sich keine diesbezügliche Erwähnung. Anfrage Staatsarchiv Basel 9.2.10^&x{<fe>, qui heri advenit, accepi
+monachum nigrum<f1>monachus nigrus: Nach der Farbe des Habits, im Gegensatz zu monachus albus. Gemeint ist Pedro de Soto. Er gehörte seit 1518 dem Dominikanerkonvent von Salamanca an und war seit 1543 Beichtvater von Kaiser Karl^#. V. Während der Friedensverhandlungen von Crépy verhandelte er mit Gabriel Guzmán, dem Beichtvater von Karls Schwester Eleonore, seit 1530 mit Franz^#. I. verheiratet. Vgl. Alfred ^#/+Kohler,^#/- Karl^#. V. 1500-1558. Eine Biographie, München 1999, S. 136.^&xDe Soto wird auch in einem Brief von Bonacorsi Gryn an Herzog Wilhelm [IV. von Bayern] vom 15. November 1544 erwähnt, vgl. August ^#/+von Druffel,^#/- Kaiser Karl^#. V. und die Römische Curie 1544-1546, 2. Abteilung, in: Abhandlungen der historischen Classe der königlich bayerischen Akademie der Wissenschaften XVI/1, München 1881, S. 39f.^&x{ - Lit.: Ulrich G. ^#/+Leinsle,^#/- in: BBKL X 836-839.<fe> - reor episcopum esse Hispanum - in exercitu
+Gallico esse a caesare<f1>Kaiser Karl^#. V.<fe> missum, qui pacis<f1>Der Frieden von Crépy; s. unten Nr. 1992, Anm. 8.<fe> fędera conetu[r]
+constituere. Dominus det successum rei tam necessarię!
+^$Ptolemeum Monsteri<f1>Gast bezieht sich auf Münsters Edition der "Geographia universalis, vetus et nova, complectens Claudii Ptolemaei Alexandrini enarrationis libros VIII" (VD 16, P 5217), die bereits 1540 und 1542 erschienen war und die Münster nun mit erzählenden Beilagen und zusätzlichen Karten neu herausbringen wollte; s. Münsters Brief an Johannes Stumpf vom 16. Juli 1544, in: Briefe Sebastian Münsters. Lateinisch und Deutsch, hg. und übersetzt v. Karl Heinz Burmeister, Frankfurt a. M. 1964, S. 76f; ^#/+Hieronymus,^#/- Petri 512-545, Nr. 195. - Die Ausgabe erschien erst 1545.<fe>
+nondum vidi, sed audivi ab Henrico
+Petri<f1>Heinrich Petri.<fe> libro distracto alium ordine[m]<fx>^#/+Randtext beschädigt.^#/-<fe> Monsterum velle servare,
+multa addere, quędam expungere, quę irrepseru[nt]<fx>^#/+Randtext beschädigt.^#/-<fe> etiam
+ipso nolente; si autem id temporis prave fuerit expectare,<f1>Bullinger erhoffte sich wahrscheinlich rasch ein Exemplar dieses Werks im Zusammenhang mit der Arbeit an Stumpfs Schweizerchronik; s. unten Nr. 1993.<fe>
+librum mittam Henricho Petri ex nundinis<f1>Zum Termin der Frankfurter Herbstmesse s. HBBW VI 406, Anm. 5.<fe> reverso. Uxor<f1>Heinrich Petris erste Ehefrau Dorothea Hütschy; s. ^#/+Reske^#/- 70.<fe> enim
+nescit, quo pret[io]<fx>^#/+Randtext beschädigt.^#/-<fe> <vl>246v.</vl> liber distrahatur.
+^$Verum heus tu, Cellarius<f1>Martin Borrhaus.<fe> - forte melius nosti hominem quam
+ego - in lectorem theologum[!] a deputatis, quorum duo<f1>Unbekannt; s. auch die folgende Anm.<fe> sanguine
+illi propter uxorem<f1>Borrhaus war dreimal verheiratet. Seine erste Ehefrau, Ottilie von Berckheim, geb. Utenheim, war 1536 gestorben. Der Name der zweiten Ehefrau ist unbekannt. Eine dritte Ehe schloss er mit Anna Schmid; das Jahr der Eheschließung ist offenbar nicht bekannt; s. Peter G. ^#/+Bietenholz,^#/- in: HLS II 592. Es ist nicht klar, um welche Ehefrau es sich hier handelt.<fe>, quam nuper duxit, coniuncti sunt,
+electus est.<fx>electus est ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Martin Borrhaus wurde 1544 zum Professor für Altes Testament ernannt; s. Peter G. ^#/+Bietenholz,^#/- in: HLS II 592.<fe> Academia nostra conata est irritam hanc
+sententiam facere, sed frustra laboravit. Miconius dedit
+illi calculum,<f1>Vgl. Adagia, 1, 5, 53 (ASD II/1 526f, Nr. 453). - Noch am 2. September 1544, in einem Brief an Pellikan, hoffte Sebastian Münster, dass Myconius ihm bald einen Teil der Lehre abnehme; s. Briefe Sebastian Münsters. Lateinisch und Deutsch, hg. v. Karl Heinz Burmeister, Frankfurt a. M. 1964, S. 78 (wo mit Unrecht vom Herausgeber - ebd., S. 82, Anm. 13 - der im Original stehende Name "Myconius" in "Cellarius" korrigiert wurde).<fe> neque credo, quod id ex animo fecerit; nam et
+ipse ambivit hanc lectionem.
+Lepusculus<f1>Sebastian Lepusculus (Häslin). - Lepusculus hatte 1541 den Magistergrad in Basel erworben, lehrte in den folgenden Jahren an der Artistenfakultät und versah daneben mehrere Pfarrstellen; 1544 war er Pfarrer am Spital. Über sein Predigen sprach sich Gast im Tagebuch vom 8. Oktober 1548 geringschätzig aus; s. ^#/+Gast,^#/- Tagebuch 63. 361.<fe> etiam spe falsa delusus est, qui doctoris
+titulum assumere, si lectio ei daretur sacra, se velle
+promisit. Quid si homo iste iam inciperet sua dogmata
+spargere de baptismo, de Iudaeorum salvatione etc.?<f1>^&!s(-60)Zu Borrhaus' Stellung zu diesen Fragen s. Abraham ^#/+Friesen,^#/- Martin Cellarius, in: Radikale Reformatoren, hg. v. Hans-Jürgen Goertz, München 1978. - Beck'sche Schwarze Reihe 183, S. 215. 218-220; Lucia ^#/+Felici,^#/- Tra Riforma ed eresia. La giovinezza di Martin Borrhaus (1499-1528), Firenze 1995. - Studi e testi per la storia religiosa del cinquecento 6, S. 85-90. 126f.^&!s(+0)<fe> Ego ero
+spectator earum rerum; nam me inscio omnia ista peracta
+sunt<fx>sunt ^#/+über der Zeile nachgetragen.^#/-<fe>, neque opus, ut me in consilium vocent, etsi saepe
+holitor oportuna loquatur<f1>Adagia, 1, 6, 1 (ASD II/2 21f, Nr. 501).<fe>. Satis prudentię habent et
+nostri deputati et fratres primarii.
+^$Neque illud praetereundum est: In pago Husen<f1>Houssen (Dép. Haut-Rhin, Elsass), 5 Kilometer nördlich von Colmar.<fe> (miliare distat a Colmaria) sacerdos<fx>sacerdos ^#/+aus^#/- sacerdotes[?] ^#/+korrigiert.^#/-<fe><f1>Unbekannt. - In Gasts "Tomus secundus convivalium sermonum", erschienen 1548 bei Nikolaus Brylinger (VD 16 G 528), erfährt man, dass der Prädikant mit Vornamen Johannes hieß, und dass die Begebenheit sich in Rappoltsweiler und nicht in Houssen zugetragen haben soll; s. Paul ^#/+Burckhardt,^#/- Die schriftstellerische Tätigkeit des Johannes Gast, in: Basler Zeitschrift 43, 1943, S. 182.<fe> fuit vino<fx-t>vino ^#/+bis^#/- qui ^#/+über der Zeile über unlesbar gemachten Wörtern nachgetragen.^#/- <fe> deditissimus, qui<fx-x>vino ^#/+bis^#/- qui ^#/+über der Zeile über unlesbar gemachten Wörtern nachgetragen.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> olim in agro Bernatum contionatorem egit; sed quale scelus
+designarit, quod ab evangelio desciverit, ignoro; in
+convivio publico<fx>publico ^#/+über der Zeile nachgetragen.^#/-<fe> caligas percacavit<fx>percacavit ^#/+aus einem nicht mehr lesbaren Wort korrigiert.^#/-<fe>, stercus illud<fx>illud ^#/+korrigiert aus^#/- illius.^#/-<fe> rustici
+exemerunt et in os illius ingesserunt, dein eum per gradus
+pręcipitarunt; quidam dicunt, quod nemine cogente seipsum
+pręcipitaverit et<fx>et ^#/+über der Zeile nachgetragen.^#/-<fe> altera die mortuus est. Ita punit
+dominus nostra peccata.
+^$In pago Plotzen<f1>Blotzheim (Huningue, Dép. Haut-Rhin, Elsass).<fe>, dimidium miliare a Basilea, quidam lusor<f1>Unbekannt.<fe>
+adstantem<f1>Unbekannt.<fe> gladio transfixit, quod dixerat illum false
+ludere; captus est, hac futura hebdomada adiudicabitur<fx>^#/+Vor^#/- adiudicabitur ^#/+gestrichenes^#/- aut[?] hac hebdomade.<fe>.
+^$Indicem librorum<f1>Vgl. oben Nr. 1974 mit Anm. 18; unten Nr. 2004, 16.<fe> postea mittam, quum videro, quales libri
+ex nundinis adferent nostri bibliopolae.
+^$Hoc scio, quod Luthero confessio episcopi Coloniensis<f1>Vgl. oben Nr. 1971 mit Anm. 19; 1985 mit Anm. 6.<fe>
+maxime displiceat Lutherumque cum Melanchthone expostulasse
+ob articulum de cęna dominica. Vide, quali animo in nos
+et nostras ecclesias Lutherus affectus sit; putat nos esse
+stipites et saxa, quasi nihil sapiamus intelligamusque, quam
+quod<f1>quam quod: zu verstehen: quam id, quod ...<fe> ill[e]<fx>^#/+Textverlust infolge beschädigten Randes.^#/-<fe> pręscribat aut iubeat, quemadmodum in
+praefatione in Testamentum Novum Germanicum fecit pulchre
+taxans libros Tiguri divulgatos.<f1>Nicht ermittelt.<fe>
+^$Vale et ignosce loquacitati. Salutatod. Theodorum<f1>Theodor Bibliander.<fe> cum
+reliquis fratribus et uxore<f1>Anna, geb. Adlischwyler.<fe>.
+^$Bas[ileę], 19. octobris<fx>^#/+Irrtümlich statt^#/- septembris ^#/+(s. oben Anm. 1).^#/-<fe> 1544.
+<un>Tuus Gastius
+<un>ex animo.
+<lz><vl>246a r.</vl> De episcopo Coloniensi, de Anglo<f1>König Heinrich^#. VIII.<fe> et aliis nonnullis
+rebus interroga d[octorem] Albertum Hardenbergum Frisium,
+qui visitatis fratribus Bernensibus et vestram ecclesiam
+adibit. Egregius est vir, qui ob eam causam, reor, amandatus
+ab episcopo suo<f1>Erzbischof Hermann von Wied; s. zuletzt oben Nr. 1987, Anm. 3.<fe>, ut, quę nostra fides, libertas,
+cęremonię exploret, imo qua concordia Christum populo
+prędicemus, animadvertat. Quem solita humanitate absque
+dubio tractabitis.<f1>Zu Hardenbergs Aufenthalt in Zürich s. oben Nr. 1972, Anm. 1.<fe>
+^$Vale iterum atq[ue iterum]<fx>^#/+Text durch Ausschnitt des Siegels und durch Verschlussband beschädigt.^#/-<fe>. Raptim. D. Frisio et
+Pellican[o et]<fx>^#/+Text durch Ausschnitt des Siegels und durch Verschlussband beschädigt.^#/-<fe> Gvalthero salutem ex me dicito plurimam.
+^$Tabellio<f1>Unbekannt.<fe> hodie venit ab Argentina, literas senatui obtulit;<f1>Am 17. September hatte Straßburg Nachrichten aus Metz über den Krieg in Frankreich und die Gefangennahme Wilhelms von Fürstenberg abschriftlich an Basel weitergeleitet; s. PC III 532f, Nr. 500 (zur Übersendung: ebd., S. 533, Anm. 5).<fe>
+quid in eis contineatur, ignoro. Nova absque dubio attulit de bellicis hisce motibus.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho
+Bullingero, Tigurinae ecclesiae vigilantissimo pastori,
+praeceptori suo perpetuo colendo. Zurich.
+</content>
+</letter>

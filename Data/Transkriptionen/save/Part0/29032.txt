@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="29032">
+<nr>29032</nr>
+<correspondents>
+	<originator>Matthieu Coignet</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Solothurn</place>
+	<date>28. Februar (1559)</date>
+</space_time>
+<vo>Zürich StA, E II 368, 403. / Orig. Aut.</vo>
+S. Mitto ad te tres caseos ex Bressia et Tarct sia.
+Nuper respondi tuis literis.
+Scis electorem Palatinum obiisse, ei successurus Fridericus Symmeren.
+Nondum in Dania omnia tranquilla nec in Colonia.
+Turca incursionem fecit in Tirol et cepit quoddam castrum imperatoris.
+De pace nihil adhuc intellexi.
+Commendo tibi filium et vellem illum abstinere a vino aut dilutum admodum bibere.
+Nescio, quos processus fecit in literis.
+Saluta d.d Martirem et Galterum et amicos.
+Bene vale.
+Soluturi ultima februarii.
+                                            Tuus ex voto quem nosti.
+An herren Heinrichen Bullinger, Zürich.
+^$Zürich      (Adr.v.a.Hd.).
+</content>
+</letter>

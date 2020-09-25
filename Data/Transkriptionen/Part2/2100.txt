@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2100">
+<nr>2100</nr>
+<correspondents>
+	<originator>Pfarrer</originator>
+	<originator>Lehrer von Zürich</originator>
+	<addressee>^$^$^$^$Schultheiß</addressee>
+	<addressee>Rat</addressee>
+	<addressee fn=1>Burger von Bern</addressee>
+	<note fn=1>Rat und Burger: Die Angehörigen des Kleinen Rates (= Rat) und des Großen Rates (= Burger) von Bern. - Schultheiß war damals Hans Franz Nägeli.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. März 1545</date>
+</space_time>
+<vo>Entwurf von Bullingers Hand: Zürich StA, E II 337a, 367v.-368v.</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 197. -- Von Bern beantwortet am 10. Mai 1545. ^&x{
+<re>Bullinger muss den Bernern wohl nicht berichten, wie Luther in seinem ["Kurtz bekentnis"] Oekolampad, Zwingli und die Zürcher als Ketzer beschuldigt hat.
+-^#. Da die Zürcher Kirchen wie auch schon die [reformierten] Prediger und [Gelehrten] an der Berner Disputation [von 1528] der Auffassung sind bzw. waren, dass der wahre Leib Christi im Abendmahl nicht leiblich zugegen ist und empfangen wird, fühlten die Zürcher sich verpflichtet, Luthers Angriff zurückzuweisen und festzulegen, dass die Behauptung, das Brot des Abendmahls sei der natürliche Leib Christi, der mit dem Mund sowohl von den Gläubigen als auch von den Ungläubigen empfangen würde, nicht schriftgemäß ist.
+-^#. Das daraus entstandene ["Warhaffte Bekanntnuß"] legen sie vorliegendem Brief bei und bitten um Kenntnisnahme des Büchleins.
+-^#. Die Berner sollen an der Wahrheit ihrer Disputation festhalten und sich nicht von Luthers Schrift beeindrucken lassen. Wie damals Cochläus' Veröffentlichung ["An die Herrenn Schultheis unnd Radt zu Bern widder yhre vermainte Reformation"] bei den Kundigen nichts bewirken konnte, so wird es auch Luthers Angriff ergehen, zumal weder der vierte Artikel noch die neun anderen [der Berner Disputation] anhand der Schrift widerlegt werden können und die Verständigen sich allein an die Wahrheit halten.
+-^#. Die Berner sollen sich bemühen, Wahrheit, Einigkeit und Frieden zu fördern. Da sie hoffentlich in diesem Sinne von ihren Predigern ermahnt werden, braucht vorliegender Brief nicht ausführlicher zu sein.
+-^#. Möge dieser wohlwollend aufgenommen werden.</re>
+<tx>Edlen, vesten, frommen, fürsichtigen, ersammen und wysen, gnedigen, lieben herren, unser willig dienst, früntlicher gruͦs und alles guͦts sye u[wer] w[ysheit] bevoran bereit<f1>bevoran bereit: vorab entboten.<fe>.
+^$Wir zwyfflend nitt, u. w. habe merteylsd. Martin Luthers buͤchlin<f1>Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>, das er wider unsern allgemeinen glouben
+geschriben und in den truck gaͤben hat, gesaͤhen und gelaͤsen, deßhalben uns hie
+nitt nodtwendig ist, der laͤnge nach sin ynhalt zuͦ erzellen, dann u. w. in frischer gedaͤchtnuͦs behalten<fx>behalten ^#/+über der Zeile nachgetragen.^#/-<fe> hat,
+das gedachterd. Luther doctor<fx>doctor Johann ^#/+über gestrichenem^#/- Zwynglium und.<fe> Johann Oecolampadium und<fx>und m. Uͦlrychen Zwyngli ^#/+über der Zeile nachgetragen.^#/-<fe> m. Uͦlrychen Zwyngli, etc.,<f1>Die Reihenfolge Oekolampad-Zwingli (s. Anm. b, c und h), zeigt, dass Bullinger dachte, dass Oekolampad in Bern in höherem Ansehen als Zwingli stehen könnte. - Vgl. auch HBBW XIV, Nr. 1930; Nr. 2007, 26-33.<fe>
+und uns hie<f1>hier in.<fe> Zürych - ja alle die, wer oder wo sy joch<f1>auch immer.<fe> syend, die nitt glouben woͤllend,
+dass des herren brot imm nachtmal Christi der war, recht<fx>recht ^#/+über der Zeile nachgetragen.^#/-<fe>, natürlich lib Christi<fx>Christi ^#/+über der Zeile nachgetragen.^#/-<fe> ist,
+den der boͤß als wol als der guͦt muntlich<fx>muntlich ^#/+über gestrichenem^#/- liblich.<fe> isset - offentlich und uußtrucklich alls unbuͦßfertige kaͤtzer
+schilt und verdampt, mitt w[el]chen<fx>^#/+Hier und unten Randtext im engen Einband verdeckt.^#/-<fe> keine gloͤubigen kein gmeinschafft haben weder koͤnind noch moͤgind.
+^$Diewyl aber vor 17 jaren in u. w. statt eine offne disputation loblich gehalten,<f1>Die Berner Disputation von Januar 1528.<fe>
+uff welcher das widerspyl<f1>Gegenteil.<fe> von u. w. predgeren, ouch von<fx>von Oecolampadio und Zwynglio ^#/+über gestrichenem^#/- mit Zwinglio und Oecolampadio.<fe> Oecolampadio und Zwynglio seligen,
+erhalten<f1>erhärtet.<fe> worden ist, namlich das der war, natü[r]lich lib Christi imm nachtmal
+nitt liblich zegaͤgen oder empfangen werde - darzuͦ wir meerteyls und gme[i]nlich
+uns gedachter u. w. disputation underschriben und ouch embotten<f1>angeboten.<fe> habend, so vil wir vermoͤchtend
+und gnad von gott empfangen, sy ze schirmen und ze<fx>ze ^#/+über der Zeile nachgetragen.^#/-<fe> verantworten -,
+danaͤben wir ouch bißhar in denen kylchen, denen wir dienend, kein andere ler<fx>ler ^#/+über der Zeile nachgetragen.^#/-<fe> von dem heiligen nachtmal,
+dann<fx>dann die ^#/+über der Zeile nachgetragen.^#/-<fe> die in obgedachter disputation<fx>disputation erhalten ^#/+am Rande nachgetragen.^#/-<fe> erhalten, gefuͤrt ha-<vl>368r.</vl>bend, sind wir uß soͤmlichen<f1>solchen.<fe> ursachen und gründen
+bewegt worden, uffd. Luthers buͤchlin zuͦ antworten, u. w., der unseren, unser, ja aller deren,
+so vilgedachter leer anhangend, eer und unschuld ze retten, daby christenliche ler und raͤchten glouben zuͦ bekennen,
+dargaͤgen Luthers schmaͤhen wider uns uußgossen abzerichten<f1>zurückzuweisen.<fe> und mitt der warheit zuͦ bewysen,
+dasd. Luthers ler, namlich das des herren brot der natürlich lib Christi<fx>Christi ^#/+über der Zeile nachgetragen.^#/-<fe> liblich sye
+und muntlich ouch von den ungloͤubigen empfangen werde, keinen grund in gottes wort habe,
+sich selbs umbkere<f1>vernichten würde.<fe>, und ein nüwe, nitt die allte der heiligen christenlichen kylchen ler sye,
+darwider<fx>^#/+Von^#/- darwider ^#/+bis^#/- ler sye, etc. ^#/+am Rande nachgetragen.^#/-<fe> aber, dass unsere ler in gottes wort gegründet und der heiligen allten kylchen ler sye, etc.
+Welchs alles u. w. uß unser antwort und bekantnuͦs des waren gloubens<f1>Das "Warhaffte Bekanntnuß" der Zürcher; s. oben Nr. 2061, Anm. 9.<fe> wyter und volkomner ersaͤhen und verstan mag.
+Hoffend<fx>^#/+Von^#/- Hoffend ^#/+bis^#/- gethan haben ^#/+am Rande nachgetragen.^#/-<fe> hiemitt, u. w. und allen anderen gloͤubigen ein dienst und gefallen und nitt ein undienst und mißfallen gethan haben.
+^$Soͤliche unsere<fx>unsere ^#/+über der Zeile nachgetragen.^#/-<fe> antwort und gloubensbekantnuͦs, ze<fx>^#/+Von^#/- ze ^#/+bis^#/- und getruͦckt ^#/+am Rande nachgetragen.^#/-<fe> schirm gemeiner unser kylchen gestellt und getruͦckt,
+überschickend wir hiemitt<fx>mitt ^#/+in^#/- hiemitt ^#/+über der Zeile nachgetragen.^#/-<fe> u. w. undertaͤnig mitt demuͤtiger pitt, u. w. woͤlle die
+gnedig von uns, u. w. gantz willigen, guͦtgünstigen dienern, annemmen und empfahen<f1>empfangen.<fe>,
+ouch, wo es unmuͦssen halben<f1>unmuͦssen halben: wegen der vielen Geschäfte.<fe> müglich were, willig und flyssig laͤsen.
+^$Hieby vermanend wir u. w. gantz trüwlich und früntlich, sy woͤlle alle zyt unbewegt
+by der warheit, durch die vilgemeldet disputation erhalten, beharren und blyben,
+und sich soͤliched. Luthers noch anderer glerten schriben nitt<fx>nitt ^#/+über der Zeile nachgetragen.^#/-<fe> bewegen lassen.
+Vor jaren hatd. Johan Cochleus wider u. w. reformation geschriben<f1>^#/+Cochläus,^#/- An die Herrenn Schultheis unnd Radt zu Bern widder yhre vermainte Reformation, Dresden, Wolfgang Stöckel, [Juni/Juli] 1528 (^#/+Spahn^#/- 144f. 350, Nr. 53; VD 16 C 4243; HBBW I 183, Anm. 1).<fe>. Sin schryben aber hat nut
+by den verstaͤndigen gebracht, dann es kein satten<f1>festen.<fe> grund in der gschrifft hat.
+Ob dann glich wol Luther jetzund ouch mit grossem schelten geschriben hat, das richtig<f1>geradezu.<fe> wider erhaltne warheit strytet,
+wirt es aber by verstaͤndigen lüten, und die nitt nach anfaͤchtung<f1>Versuchung.<fe>, sunder nach der warheit richtend, nut gaͤlten.
+So trüwend wir gott und der warheit, es werde ouch fürohin nieman funden werden,
+der mitt biblischer gschrifft ützid<f1>etwas.<fe> uffbringen<f1>vorbringen.<fe> werde, das nitt nun<f1>nur.<fe> der 4. schlußred,
+sonder ouch den anderen nünen abbraͤche<f1>schaden würde.<fe>,<f1>Bullinger bezieht sich auf die zehn Glaubensartikel der Berner Disputation (veröffentlicht z.B. in Z VI/1, 243f), deren vierter wie folgt lautet: "Das der lyb und das bluͦt Christi wäsenlich und liplich in dem brot der dancksagung empfangen werd, mag mit biblischer geschrifft nit bybracht werden".<fe> das<f1>so dass.<fe> u. w. am sicheristen stat, wenn sy styff uff erhaltner warheit verharret.
+^$<vl>368v.</vl> Soͤlichs pflantzt, ouch waͤrende einikeit und raͤchten friden.<f1>Vgl. Eph 4, 3.<fe> Hept uff allen span und kampff, wo einicher were.
+Da so, hoffend wir ouch, das u. w. prediger, unsere liebe bruͤder - die one zwyfeld. Luthers schribens wol bericht wüssend<f1>bericht wüssend: gut wissen.<fe>, wie es mitt u. w. gehaltner disputation strytet, und deßhalb ouch kein gefallen mitt uns
+an<fx>an Luthers schryben ^#/+über gestrichenem^#/- daran.<fe> Luthers schryben habend -, u. w. gantz geflissen vermanind<f1>geflissen vermanind: fleißig ermahnen.<fe>, by erhaltner in der disputation warheit
+ze verharren, dass wir es dißmals by diser unser kurtzen<fx>kurtzen ^#/+über der Zeile nachgetragen.^#/-<fe>, früntlichen vermanung blyben lassend.
+^$Und bittend u. w. zum allerdemuͤtigisten, sy woͤlle von uns früntlich diß unsere vermanung verstan
+und das buͤchlin empfahen, uns<fx>^#/+Von^#/- uns ^#/+bis^#/- beholfen haben ^#/+am Rande nachgetragen.^#/-<fe> iren gnedig befolhen haben, dann wir diß alles uß liebe und guͦter früntschafft
+gegaͤn u. w. thuͦnd, alls die u. w. ze dienen und alles, das iren zuͦ friden, guͦtem und heyl
+dienen moͤchte, ze fürderen gantz guͦtwillig sind<fx>sind ^#/+über gestrichenem^#/- werind.<fe>.
+Gott der allmaͤchtig woͤlle u. w. sampt allen iren zuͦghoͤrigen durch Iesum Christum
+in der warheit, imm friden und in allem guͦten erhallten.
+^$Datum Zürych, 12. martii anno 1545.
+<un>U. w. alle zyt
+<un>willige diener,
+<un>pfarrer, predger, der
+<un>heiligen gschrifft laͤ-­
+<un>ser und gmeine diener
+<un>der kylchen Zürych.
+<lz>[Adresse als Überschrift auf f. 367v.:] Den edlen, vesten, frommen, fürsichtigen, ersammen<fx>ersammen ^#/+über der Zeile nachgetragen.^#/-<fe> und wysen h. schuldtheissen und raͤdt und<fx>und burgern ^#/+unter der Zeile nachgetragen.^#/-<fe> burgern zuͦ Bernn, unsern gnedigen herren.
+</content>
+</letter>

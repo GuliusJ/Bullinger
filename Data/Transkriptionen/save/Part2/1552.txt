@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1552">
+<nr>1552</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>gegen Ende Juli 1541]</date>
+	<note>Kurz vor Grynäus' Tod, vgl. Anm. b.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 336, 37 (neu: 50) (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 43.</vo>
+<dr>Ungedruckt</dr>
+<re>Empfiehlt Glaubensbrüder, die zum Medizinstudium nach Italien reisen und bei dieser Gelegenheit [die Zürcher Gelehrten] kennen lernen möchten. Gruß.
+</re>
+<tx>S. Hos fratres<f1>Einer der nicht namentlich genannten Reisenden war möglicherweise jener Johannes Arlius Paldinus
+(Spaldinus, Spalding? Name nicht zweifelsfrei lesbar), der am 27. April 1542 als Medizinstudent aus Bologna an Bullinger
+schrieb und dabei sowohl auf den Tod von Grynäus als auch auf einen nicht weit zurückliegenden Besuch in Zürich zu sprechen
+kam (s. Zürich StA, E II 361, 121).<fe> commendo vobis. Colloqui vobiscum cupiunt et vos nosse. Christum et norunt et amant;
+itaque digni sunt vestro favore. Pergunt in Italiam propter medicinę<fx>^#/+In der Vorlage^#/- medicię.<fe> studium.
+^$Vale in Christo domino et me ama. Vale cum omnibus.
+<un>S. Grynęus tuus.<fx>^#/+Darunter Notiz von Bullingers Hand:^#/- Ultimum Grynaei scriptum. Nam mortuus est 1. augusti anno 1541.<fe>
+<lz>[Adresse auf der Rückseite:] Domino H. Bullingero, amico et fratri charissimo. Tyguri.
+</content>
+</letter>

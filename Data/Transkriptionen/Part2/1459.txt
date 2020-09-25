@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1459">
+<nr>1459</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>2. Februar [1541]</date>
+	<note>Nach Grynäus' Rückkehr vom Wormser Kolloquium.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 198b (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 16<f1>Vgl. G an HB [um 25. Feb. 1541]<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Weil Kaiser [Karl V.] die Tagung [in Worms] abrupt beendete, konnten die dort versammelten Theologen nicht mehr gemeinsam an
+die Zürcher schreiben, doch Philipp [Melanchthon] hat einen Brief in Aussicht gestellt. In Straßburg schätzt man die Zürcher.
+</re>
+<tx>Bullingero suo.
+^$S. Cum subito comitia propter inexpectatum cęsaris mandatum solverentur,<f1>Kaiser Karl V. hatte am 15.
+Januar die Beendigung des Wormser Kolloquiums angeordnet; s. ADRG II/1 208-210, Nr. 112 (vgl. den Abschied vom 18. Januar, ADRG II/1 210f, Nr. 113; MO IV 79).<fe> scribere ad vos
+fratres, qualiter voluerunt, non potuerunt. Philippus<f1>Philipp Melanchthon.<fe> ipse mihi promisit ad te se scripturum<fx>^#/+In
+der Vorlage^#/- scriptum.<fe> diligenter esse.<f1>Ein entsprechender Brief ist nicht nachweisbar.<fe> Cęterorum
+unusquisque scribere paratus fuerat. Itaque oro te, ut, quod non multorum literas adfero ad vos, velitis imputare necessitati.
+^$Argentina tota vos pie colit et diligit.
+^$Vale in domino.
+<un>S. Grynęus tuus.
+^$2. februarii.
+</content>
+</letter>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="934">
+<nr>934</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>16. Januar 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 123r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Legt ihm vertraulich eine Liste von Fragen vor, die [von Straßburg] nach Basel gesandt wurden, um die Meinung der
+dortigen Gelehrten zu hören. Zur Debatte steht die Haltung der Protestanten gegenüber dem angekündigten Konzil, worüber
+ab 7. Februar in Schmalkalden verhandelt werden soll. Rechnet damit, daß Zürich vielleicht ebenfalls angefragt wird, und
+bittet Bullinger um baldige Stellungnahme. Versichert ihm, daß keine Entfremdung Basels von Zürich [in der
+Konkordienfrage] droht. Bittet um Mithilfe beim Versuch, Theodor [Bibliander] von der Abfassung einer
+Rechtfertigungsschrift gegen Bucer abzuhalten. Erkundigt sich nach Utingers Beschreibung des Schwabenkriegs. Das
+Schreiben an Luther ist am 12. Januar abgegangen. Auf die oben gestellten Fragen antwortet er zusammen
+mit Grynäus heute dem Rat.</re>
+<tx>S. Quę mitto ad te, mi Bullingere, sic mitto, ne cuipiam verbum facias; nam eadem ratione et ad senatum nostrum
+missa sunt<f1>Das Schreiben, mit dem Straßburg Basel am 6. Januar über den bevorstehenden Bundestag zu Schmalkalden
+unterrichtete und um eine Stellungnahme der Gelehrten zu verschiedenen diesbezüglichen Fragen bat, findet sich in Basel
+StA, Kirchenakten A 9, 296r.-297v.; vgl. die Antwort Basels vom 19. Januar (PC II 405).<fe>, attamen ut consilium
+doctorum suorum exquirant. Et mihi prohibitum est, ne ad fratres alios quidpiam, singulariter, sed non nisi ex amica
+prohibitione dominorum, imo principum et amicorum, qui nostris eandem taciturnitatem commendarunt.
+^$Duces Saxonię et Hessus conventum indixerunt<f1>Siehe das Einladungsschreiben von Kurfürst Johann Friedrich und
+Landgraf Philipp vom 24. Dezember 1536 (Volz, Urkunden 79-81; PC II 399f).<fe> principibus et civitatibus evangelicis una cum doctis eorum,
+quos illi secum adducere debent Smalkaldum ad diem septimum februarii ad consultandum de articulis sequentibus ob
+concilium papę futurum<f1>Papst Paul III. hatte auf den 23. Mai ein Konzil nach Mantua einberufen, s. ^#/+Pastor^#/- V
+57f.<fe>. Articulos audi nunc ordine. Cum concilium sit indictum propter eradicandas hęreses, non propter negocium
+aliquod christianum, quid sit hic faciendum principibus evangelicis, imo nobis simul omnibus. Et an verisimile, quod
+papa sit colloquium aut disputationem admissurus de rebus fidei aut quod articulos, quos hactenus condemnavit, declarari
+sinat. Tum, si hęc permiserit, an commode peti queat a cęsare<f1>Karl V.<fe> et rege
+fratre<f1>Ferdinand I.<fe>, locus mutetur a Mantua in Germaniam pro litteris imperialibus Augustę
+proximis comitiis datis<f1>Im Abschied des Augsburger Reichstags von 1530 hatte der Kaiser zwar ein Konzil an einem
+passenden Ort in Aussicht gestellt, doch zog er im Gegensatz zu den deutschen Fürsten eine italienische Stadt als
+Tagungsort vor; s. Urkundenbuch zu der Geschichte des Reichstages zu Augsburg im Jahre 1530, hg. v. Karl Eduard
+Förstemann, Bd. II, Halle 1835 (Nachdruck: Hildesheim 1966), S. 478. 718; CT IV, S. IC, Anm. 1. - In der Vorlage (vgl. oben Anm. 1) ist Augsburg nicht genannt.<fe>.
+Ut<f1>In der Vorlage (vgl. Anm. 1): "Item das ...".<fe> in hoc concilio per mansuetos, pios, doctos et intelligentes viros agatur et iudicetur, non autem per
+adfectuosos<fx>^#/+vor^#/- adfectuosos ^#/+am Rande beigefügt:^#/- partiisch.<fe>, unctos, praelatos, sicut actum est in
+concilio Constantiensi<f1>Das Konstanzer Konzil (1414-1418) galt den Protestanten vor allem wegen der dort erfolgten
+Verurteilung und Verbrennung von Johannes Hus als abschreckendes Beispiel, vgl. unten Nr. 944, Z. 104-111.<fe>. Utrum vero legatio ad cęsarem et fratrem ante concilium congregatum vel post fieri debeat. Per casum esto<f1>In der Vorlage (vgl. Anm. 1): "Unnd im fall, das ...".<fe>,
+quod nihil obtineatur dictorum et principes imperii, qui stant a nobis<fx>qui stant a nobis ^#/+am Rande
+nachgetragen.^#/-<fe>, non vocentur ad concilium Mantuanum, aut si vocentur cum reliquis, an obtemperandum an
+protestatione sit apta seu scripto utendum. Iidem si citentur aut per poenam admoneantur, ut doctrinam suam relinquentes
+papę adhęreant, quid legatis sit dandum in commissis. Quomodo plana sit impetranda securitas legatorum et libere
+loquendi et corporis ipsorum. Per quas personas sit quęrendum concilium. Et postquam timendum, ne<fx>ne ^#/+über
+gestrichenem^#/- c.<fe> conaturi sint adversarii, ut separentur principes et praedicatores, quo soli sint hi in
+defendenda sua causa, id quomodo praecavendum. Et ut simul maneant omnes sicut Augustę. Si mandata in ius vocantia
+nostrę parti concionatoribusque a papa seu concilio insinuarentur, quibus conditionibus sint recipienda. Si papa
+mandet sub poena templa, ordinationes, unctos et monachos restituere, quid agendum? Postquam constat papam mala tentari
+per concilium istud (er practiciert), ubi iam determinata fuerint, quae verbo sunt adversa, et papa vellet ea cum
+membris suis persequi, quid contra faciendum? Et si quid est aliud, quod pertinere videtur ad concilium istud.
+^$Hęc, ecce mi Bullingere, scribo impellente charitate fraterna - quamvis prohibitus, ne facerem -, ut clam apud te
+dispicias, quid agendum, si ad vos quoque tale quidpiam in futurum adveniat. Consultatur hic, scio, qualiter etiam vobis
+hęc omnia dimittantur. Et consultatione res indiget, postquam ad nos clam et ignorantibus negocii primoribus eadem
+sunt etiam dimissa. Quid fiat tamen, paenitus nescio.
+<vl>123v.</vl> Ubi perspexeris omnia, cave, non respondeas propediem<f1>Bullinger antwortete am 10. Februar; s. unten
+Nr. 944, Z. 89-226.<fe>, sic opus facto. Et si quid videbitur addendum, itidem ad me perscribas, quaeso. Nam quamvis diligenter
+illa sint cogitata, mihi<fx>^#/+nach^#/- mihi ^#/+ein gestrichenes, unleserliches Zeichen.^#/-<fe> videntur nonnulla
+omissa, quae non in postremis habenda tamen. Hactenus vero de his.
+^$Scripsisti nuper de nescio qua defectione nostra a vobis<f1>Bullinger hatte die Befürchtung geäußert, Basel könnte sich
+im Gegensatz zu Bern und Zürich zur Unterzeichnung der Wittenberger Konkordie bereit finden; s. HBBW VI, S. 497,
+13-24.<fe>. Nihil tale metuendum. Quę respondimus enim, talia sunt, ut a vobis stent.
+^$Theodorum velim diligenter ab apologia scribenda dehorteris contra Bucerum<f1>Theodor Bibliander hatte bereits am 8.
+Januar einen ausführlichen Brief an Bucer entworfen, in dem er sich für die Herausgabe der Briefe Oekolampads und
+Zwinglis rechtfertigte (Zürich StA, E II 437, 12-17; vgl. ^#/+Egli,^#/- Analecta II 49; ^#/+Pollet,^#/- Bucer II 313, Anm. 5).<fe>. Non enim poterit
+esse christiana, quodcunque tempus expectet. Equidem brevi scribam et ad ipsum, quid hic mihi videatur<f1>Ein
+entsprechender Brief ist nicht erhalten, vgl. aber die Antworten Biblianders an Myconius vom 10. März und 25. Mai
+(Zürich StA, E II 340, 140 bzw. 20). Aus ihnen geht hervor, daß Bibliander sein Rechtfertigungsschreiben
+schließlich zurückbehielt, nachdem er es Myconius und Oporin zur Prüfung vorgelegt hatte.<fe>.
+^$Bellum Svevicum reliquit Utingerus manu scriptum<f1>Eine Schrift Utingers über den Schwabenkrieg ist nicht bekannt; zu
+denken ist allerdings an die anonyme, nur in Abschrift überlieferte und von Brennwald als Quelle benutzte Darstellung in
+Zürich ZB, Ms A 54/55, Nr. 5 (vgl. Heinrich Brennwalds Schweizerchronik, hg. v. Rudolf Luginbühl, Zweiter Bd., Basel
+1910. - QSG NF, I. Abt., Bd. II, S. 637-649).<fe>. Scire cupio,
+prae manibus ne sit.
+^$Vale cum tuis omnibus feliciter.
+^$Basileę, raptim, 16. ianuarii anno 1537.<un>Tuus Os. Myconius.
+<lz>Dimissa sunt tandem scripta communia illa ad Lutherum 12. ianuarii<f1>Gemeint ist das am 12. Januar 1537 ausgefertigte Schreiben der reformierten Städte der Eidgenossenschaft an Luther, das bereits an der Basler Tagung vom 12.-14. November 1536 im wesentlichen fertiggestellt worden war (WA
+Briefwechsel XII 241-275, Nr. 4268; vgl. HBBW VI, S. 465, Anm. 1). Da es im Namen der weltlichen Behörden erging, gehört es trotz Bullingers maßgeblicher Beteiligung an der Abfassung nicht zu seiner Korrespondenz im engeren Sinn.<fe>. Ad articulos
+vero propositos Grynaeus et ego respondimus hodie senatui<f1>Die Stellungnahme der Theologen wurde am 19. Januar nach
+Straßburg gesandt (s. oben Anm. 1).<fe>.
+<lz>[Adresse darunter:] Domino Heinricho Bullingero, Tigurinorum episcopo, fratri in domino colendo suo.
+</content>
+</letter>

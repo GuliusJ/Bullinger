@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2843">
+<brief>
+<id>17110</id>
+<nr>2843</nr> <from persid="BlarerAmbrosius"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-03-12"/>
+<ae>[Ambrosius Blarer] an Bullinger</ae>
+<od>[Konstanz], 12. März [1547]
+<fn>Das Jahr geht aus dem Inhalt des Briefleins hervor.</fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 588 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 605, Nr. 1420<k>Kopie 18. Jh.: Zürich ZB, Ms S 54, 73 (eingeordnet: 12. März 1544)</k></dr>
+<re><t>Nachdem Blarer bereits am Vortag [ausführlich mit <qv>nr2841</qv>] geschrieben hat, möchte er nur kurz etwas in Bezug auf Konrad Zwick anbringen. Dieser ist nämlich aus den Gründen, die er in seinem gestrigen Brief [an Johannes Haab] erörtert hat, sehr betrübt. Die Zürcher mögen doch umsichtiger handeln, damit Zwick nicht verzagt und seine Bemühungen umsonst sind. Die Angelegenheit ist wichtig.</t></re>
+<text>
+<div>
+<p><zzl>zl17110-1A</zzl>Furgeliepter herr und br{uo}der, ich hab euch uff gestert geschriben
+<fn>Mit <qv>nr2841</qv> vom 11. März.</fn>. Diß allain von meines vetters
+<fn>Konrad Zwick.</fn> wegen: Der ist doch gar betrupt usß ursachen, wie ir auss sinem schriben
+<fn>Gemeint ist Zwicks Brief mit zwei Anhängen an Johannes Haab vom 11. März (Zürich StA, A 205.2, Nr. 10 mit 10a und 10b).<zfn>fn17110-1</zfn></fn> vernemmen. Bitt euch um gottes willen, darob und daran
+<fn>darob und daran: darauf bedacht; s. <a>SI</a> VII 1041.</fn> ze sein, damitt gwarsamlicher
+<fn>umsichtiger. - Die Konstanzer waren unzufrieden, dass die Zürcher auf der Tagsatzung zu Baden vom 28. Februar bei ihrem Versuch, die Eidgenossen zu einer Hilfe für Konstanz zu verpflichten, sich darauf beschränkten, nur eine Belagerung oder einen Angriff der Stadt von eidgenössischem Gebiet aus (also nicht auch von deutscher Seite aus) nicht zuzulassen.<zfn>fn17110-3</zfn></fn> gehandelt und der g{uo}t fromm mann nitt unlustig
+<fn>unlustig werde: verzagt (angesichts eines ungenügenden Einsatzes der Zürcher für Konstanz). - Im Entwurf Nr. 10b seines oben in <qv>fn17110-1</qv> erwähnten Briefs schlug Zwick den Zürchern vor, einen von den vier protestantischen Städte unterschriebenen Brief zu bewirken, in dem Konstanz finanzielle Hilfe angeboten würde, damit die Stadt Truppen annehmen könne.<zfn>fn17110-2</zfn></fn> und allso alle sach verderbt werde. Ir köndt bessers nitt thain
+<fn>tun.</fn>, dann
+<fn>denn.</fn> vyl an der sach gelegen. Thaind meinem hertzlichen vertrauwen
+<fn>Erwartung.</fn> nach. Datum 12. martii.<zzl>zl17110-1E</zzl></p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] An maister Hainrich Bullinger. Z{ue}rich.</p>
+</div>
+</text>
+</brief>

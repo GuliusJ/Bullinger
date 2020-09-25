@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1259">
+<nr>1259</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>24. April 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 93 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Will ihn nur kurz grüßen, da er ihm eben erst durch John Butler geschrieben hat [Nr. 1256]. Der Auftrag des Briefüberbringers ist
+ihm unbekannt, bezieht sich aber wohl auf die Frankfurter Tagung. Myconius soll Bullinger mitteilen, was er von dort erfährt.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Commodum nactus tabellionem<f1>Unbekannt.<fe>, Myconi colendissime, hisce te
+salutare volui ac felicitatem precari. Alioqui in
+praesentiarum, quod scribam, non habeo. Paucis enim ante
+diebus, quae habui, scripsi<f1>Siehe oben Nr. 1256.<fe> per Ioannem Buttlerum. Recte
+valemus omnes; utinam et tu recte valeas cum tuis omnibus.
+^$Caussam, cur hic tabellio missus sit, non plane novi; disces
+id haud dubie ex tuis<f1>d. h. von Vertrauensleuten im Rat.<fe>. Ego suspicor missum propter comitia
+Francfordiana<f1>Vgl. oben Nr. 1230, Anm. 4.<fe>.
+^$Vale et me semper ama.
+^$Tiguri, 24. aprilis 1539.
+^$Salutabisd. Grynaeum, Gastium, Buttlerum, Ryffenstein,
+Gvaltherum meum ac reliquos amicos et fratres.
+<un>H. Bullingerus tuus.
+<lz>Obsecro, si quid certi a comitiis Francfordianis habes,
+communica.
+<lz>[Adresse auf der Rückseite:] Domino Osvaldo Myconio,
+domino et fratri colendissimo.
+</content>
+</letter>

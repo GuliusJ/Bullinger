@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1435">
+<nr>1435</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>17. November 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 349f (Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 61, Nr. 887</dr>
+<re>Der Konstanzer Rat erkundigt sich in Zürich nach Michael [Back], der sich in Dußlingen bei Tübingen als Pfarrer bewährt hat, bis er unverdienterweise verbannt wurde; nun steht er in Konstanz als Pfarrer zur Wahl, doch muß er zuerst die Verleumdung widerlegen, er sei aus Zürich ausgewiesen
+worden; Bullinger soll sich für ihn einsetzen. Blarer hat kürzlich an Leo [Jud] geschrieben; inzwischen berichtete Bucer über die unklaren Kräfteverhältnisse
+[beim Wormser Religionsgespräch]; der päpstliche Nuntius [Tommaso Campeggio] soll Zugeständnisse in Aussicht gestellt haben,
+sofern die Herrschaft des Papstes nicht grundsätzlich bestritten werde. Laut Joachim [Maler] droht ein von Papst [Paul III.]
+geschürter Krieg zwischen Kaiser [Karl V.] und dem französischen König [Franz I.]; der Friede zwischen [Sultan Suleiman I.] und
+Venedig wird der Christenheit schaden. Erkundigt sich aufgrund von Gerüchten nach den Absichten der Eidgenossen und ruft zum Gebet auf; Grüße. Entschuldigt das eilige Schreiben.
+</re>
+<tx>Salve, mi charissime et venerande Bullingere.
+^$Scribit noster senatus vestro in caussa Michaelis Backii<f1>Das Schreiben vom 15. November findet sich in Zürich StA, A 205. 1, Nr. 179 (Entwurf: Stadtarchiv Konstanz, B II 38, 90); eine Antwort ist nicht erhalten.<fe>,
+qui superioribus annis mihi a vobis commendatus in ducatu
+Wirtempergensi Tusslingensis<f1>Dußlingen (Kr. Tübingen, Baden-Württemberg).<fe> ecclesię Tubingensis agri
+episcopus designatus fuit, ubi sana doctrina et inculpatę
+vitę innocentia gregem Christi magna felicitate pavit
+tantisper, dum calumniator et, qui homicida fuit ab initio<f1>der Teufel (vgl. Joh 8, 44).<fe>,
+miris artibus effecit, ut proscriberetur ob causam, qua
+nunquam cecidisset, si vel apud vos vel nos aut alios
+quoslibet evangelii studiosos iure experiri licuisset. Nunc
+hic forte in locum<fx>locum ^#/+über der Zeile nachgetragen.^#/-<fe> demortui parochi<f1>Leonhard Walder,
+Leutpriester zu St. Paul; s. Hans-Christoph ^#/+Rublack,^#/- Die Einführung der Reformation in Konstanz von den Anfängen bis zum
+Abschluß 1531, Gütersloh-Karlsruhe 1971. - QFRG XL, S. 160f, Nr. 46.<fe> apud divi Pauli templum
+reciperetur, ni quidam execranda acti invidia sparsissent
+ipsum apud vos quoque talia designasse, ut urbe vestra et
+agro sibi sit interdictum. Id quod quum certo certius sciam
+vanum esse, visum tamen senatui est, ut de hac re a vestris
+quamprimum reddatur certior. Rogo igitur te, ut bonę huic
+caussę bonus et ęquus adsis tuisque senatoribus, quos
+magis familiares habes, author sis, ut testimonium idque
+plenum ferant innocentię, quo nomine et deo optimo maximo
+valde gratificabuntur et nostris pariter et nobis rem
+facient longe gratissimam.
+^$Scripsi non pridem Leoni<f1>Blarers Brief an Leo Jud ist nicht erhalten.<fe>, nec quicquam nunc est, quod scire
+vos mag­­nope­re referat, nisi quod Bucerus heri ad me datis
+literis<f1>Bucer an Blarer, 9. November 1540 (Blarer BW II 59f, Nr. 885). Auf dem Brief ist als Empfangsdatum der 15. November
+vermerkt.<fe> inter cętera ita scribit: "Divinare non possum, quid adversarii agere nobiscum instituant. Tales enim
+adsunt, a quibus nihil expectes Christi, ut a pontifice<f1>Papst Paul III.<fe>, rege<f1>König Ferdinand I.<fe>, Bavaris<f1>Ludwig
+X. und Wilhelm IV., Herzöge von Bayern.<fe>, Moguntino<f1>Albrecht von Brandenburg, Erzbischof und Kurfürst
+von Mainz.<fe> et Argentoratensi<f1>Wilhelm von Honstein, Bischof von Straßburg.<fe>. Contra Palatinus<f1>Ludwig V.,
+Kurfürst von der Pfalz.<fe> designavit, marchio Brandenburgensis<f1>Joachim II., Markgraf und Kurfürst von
+Brandenburg.<fe>, Coloniensis<f1>Hermann von Wied, Erzbischof und Kurfürst von Köln.<fe>, Iuliacensis<f1>Herzog Wilhelm von Jülich, Berg
+und Kleve.<fe> miserunt, a quibus impetres, quod ęquum sit<f1>Vgl. unten Nr. 1441, 14-21.<fe>. Ego divinare
+nihil possum. Nostri ad unum consentiunt, ut nihil remittatur, quod per se Christi est. Papę nuncius<f1>Päpstlicher Nuntius
+für das Wormser Religionsgespräch war Tommaso Campeggi; vgl. ^#/+Pastor^#/- V 284.<fe> iactat se mandata habere, ut omnia nobis
+concedat, quę habemus, tantum ut ipsum invicem agnoscamus et praedicemus principem summum ecclesię, id est apud nos iuxta
+Christum collocemus, in aliis ecclesiis patiamur depulso Christo in sede Christi ipsa eum adorari. A Germanis aliquid
+accessionis expectandum erat, ideo hostes istum iniquissimum
+delectum fecerunt, ne status omnes adsint<f1>Gemeint ist die im Abschied von Hagenau festgeschriebene Beschränkung auf je 11
+Stimmen für beide Parteien; vgl. ADRG I/1 154, 17-26.<fe>; sed hoc boni est, quod hic nihil concluditur" etc. Hęc Bucerus.
+^$Inter cęsarem<f1>Kaiser Karl V.<fe> et Gallum<f1>Franz I., König von Frankreich.<fe> suborta sunt nova bellorum seminaria,
+quę pontifex summo conatu tollere constantissime pergit. Ita noster legatus Ioachimus<fx>Ita ... Ioachimus ^#/+am Rande
+nachgetragen.^#/-<fe><f1>Joachim Maler.<fe>. Pax inter Turcam et Venetos<f1>Der Friedensvertrag zwischen Sultan
+Suleiman I. und Venedig war nach längeren Verhandlungen am 2. Oktober ratifiziert worden; s. ^#/+Cardauns^#/- 37-39.<fe> ita
+confirmabitur, ut cessura sit in magnum christiani orbis detrimentum.
+^$<vl>350</vl> Tu ad me fac diligenter perscribas, quid vestri parturiant Helvetii; varia enim et dubia spargit perpetuus
+rumor<f1>Vgl. oben Nr. 1425, Anm. 16.<fe>. Nos dominum inter istos turbines et motus rerum
+obnixe precabimur, ut ecclesię suę tranquillitatem et pacem in seipso propicius largiatur et eum spiritum impertiat,
+qui ad solidam resipiscentiam extimulet resides nos et
+pertinacissime veteri adhęrentes luto.
+Inprimis me meosque domino christianice semper commenda cum coniuge<f1>Anna, geb. Adlischwyler.<fe> tua et fratribus.
+Germanus frater meus Thomas cum Zvicciis<f1>Johannes und Konrad Zwick.<fe> plurimam tibi salutem adscribere iubent teque hoc
+ipsum, quod ego, in Mihaelis caussa obsecrant et obtestantur<f1>Vgl. die Briefe Thomas Blarers und Johannes
+Zwicks vom Vortag, oben Nr. 1433, 14, bzw. 1434, 27-29.<fe>. Tuam sororem<f1>Blarer scheint irrtümlich anzunehmen, daß
+Bullinger eine Schwester hatte; wahrscheinlich handelt es sich aber eher um eine versehentlich nicht gestrichene Verschreibung.<fe>, uxorem
+mearum<f1>Gemeint sind Blarers Ehefrau Katharina, geb. Ryff, und seine Schwester Margaretha.<fe> verbis multum iubebis salvere.
+Iterum iterumque vale, mi charissime et optime simulatque
+venerande anime<fx>^#/+vielleicht als^#/- autem ^#/+zu lesen.^#/-<fe>.^&x ant[istes]?^&x{
+^$Constantię, 17. novembris anno 1540.
+^$Ignosce tumultuario et plusquam insubido scripto.
+<un>Tuus Ambr. Blaur.
+<lz>[Adresse auf S. 352:] Domino Bullingero suo venerando atque charissimo.
+</content>
+</letter>

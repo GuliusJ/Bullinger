@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1266">
+<nr>1266</nr>
+<correspondents>
+	<originator fn=1>Georg Hoch</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Georg Hoch, von Meersburg, gest. 1545, 1502 an der Universität Wien immatrikuliert, wurde 1512 Leutpriester in Embrach. Er nahm 1528 an der Berner Disputation teil. Seine Amtsführung wurde verschiedentlich gerügt, so an der Frühjahrssynode 1528 für sein unzeitiges Durchführen der
+Abendmahlsgottesdienste und 1529 durch den Amtmann des Stiftes Embrach für sein unkritisches Predigen (er meide die Erwähnung von Lastern); an der Herbstsynode 1530 wurde festgehalten, daß sich Hoch und seine Frau gebessert hätten. - Lit.: Béatrice ^#/+Wiggenhauser,^#/- Klerikale Karrieren. Das
+ländliche Chorherrenstift Embrach und seine Mitglieder im Mittelalter, Zürich 1997, S. 351; Pfarrerbuch 29 und 344.</note>
+</correspondents>
+<space_time>
+	<place>Embrach</place>
+	<date>[kurz vor 6. Mai 1539?]</date>
+	<note>Wohl vor der Zürcher Frühlingssynode vom 6. Mai 1539, an der die Feiertagsfrage zur Sprache kam (s. Zürich StA, E II 1, 236, und Anton ^#/+Largiadèr,^#/- Das reformierte Zürich und die Fest- und Heiligentage, in: Zwa IX 497-525, hier: 514).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 441, 156 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Da die Feiertagsordnung auf der Landschaft weitherum nicht befolgt wird, bittet Hoch - mit Verweis auf Bern, Basel und St. Germain und auf die Folgen der Bußenpraxis - dringend um Bullingers Rat; dieser möge ihm das sprachliche Ungeschick nachsehen.
+</re>
+<tx>Salus multa, pater etc.
+^$Inductione iuratorum paternum a te exposcimus consilium.
+Inobedientia in servandis festis<f1>Zu den Zürcher Feiertagsmandaten vom 28. März 1526 und vom 26. März 1530 vgl. ^#/+Largiadèr,^#/- aaO, S. 510-513.<fe> sic in multos ac loca multa insiliit, ut difficile, immo impossibile sit penam ab
+singulis insumere, cum multorum ac communis argumentatio et
+querela sit iam maius in rure scandalum non vivere festis.
+Quo bene sensati vicini nostri, Bernenses, Basilienses et
+(si bene percepimus) apud S. Gallum viri evangelici moti
+ea omnia praeter diem dominicum aboleverint exceptis
+extraneis, ultraque querulose sic argumentantur (cui et ego
+faveo) damnum<fx>^#/+in der Vorlage^#/- dampnum.<fe> in pauperes semper recidere eo, quod
+divitibus ac multis mechanicis (ut puta) sutoribus,
+sartoribus etc. semper abundet labor ocultandus, qui ceteris
+desit. Que tue charitati in charitate offerre non erubui,
+non quod vota nostra aliquid velint aut debeant, sed quod
+semper iuramento satisfacere haud nec magistratui obedire
+gliscimus. Obnixe te patrem, ut consulas, flagitamus. Inerti
+Prisciano<f1>Anspielung auf den lateinischen Grammatiker des 6. Jahrhunderts n. Chr. (vgl. LAW 2437).<fe> indulge et fave ac cum omnibus tuis foeliciter vale.
+<un>Georgius Hoch, in Enbrach ecclesiae
+<un>minister verbi.
+<lz>[Adresse auf der Rückseite:] Pio ac honesto viro
+Henricho Bulingero, ec­clesiae Thuricensis speculatori
+fidelissimo ac suo in primis patrono peramando, debentur
+littere.
+</content>
+</letter>

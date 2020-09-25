@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2660">
+<brief>
+<id>16349</id>
+<nr>2660</nr> <from persid="SerinLeonhard"/> <to persid="Bullinger"/> <place plid="Ulm"/> <date when="1546-11-05"/>
+<ae>Leonhard Serin an Bullinger</ae>
+<od>Ulm, 5. November 1546</od>
+<vo>Autograph: Zürich StA, E II 356, 61f (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 64 </k></dr>
+<re><t>Serin hätte schon längst geschrieben, wenn ihm ein Bote zur Verfügung gestanden hätte oder wenn seit dem Eintreffen von Bullingers Brief [<a>HBBW</a> XVII, Nr. 2565] und [Gwalthers] "Endtchrist" neue Publikationen [aus der Ulmer Druckerei von Hans Varnier] hervorgegangen wären. Da sich ihm nun ein frommer alter Soldat [...] aus Stammheim als Bote anbietet, möchte er diesen nicht ohne einen Brief ziehen lassen.</t>
+<t>Über die Kriegsereignisse wird Serin nichts berichten, da die [in die Eidgenossenschaft zurückkehrenden] lobenswerten Söldner alles viel besser erzählen können.</t>
+<t>Bullinger sei besonders Dank für Gwalthers ["Endtchrist"]. Diese Schrift war ihm umso willkommener, als er zu dieser Zeit über 2Thess zu predigen hatte. Auch [Martin] Frecht findet sie sensationell. Durch einen Fehler des dem Serin nicht bekannten Briefüberbringers [Heinrich Thomann] gelangte nämlich die Abhandlung zuerst in die Hände von Frecht, der sie begierig zu lesen begann und nur allmählich die von ihm schon gelesenen Lagen Serin übergab. Frecht ist sogar der Meinung, dass [Hans] Varnier die Schrift nachdrucken sollte. Was mit Bullingers Brief vom 4. September geschehen ist, weiß Serin ebenso wenig! Fest steht, dass er den Brief erst am 17. September mit gebrochenem Siegel empfing.</t>
+<t>Von [Johannes] Haller hat er weder etwas gehört noch einen Brief erhalten. Frecht lässt grüßen. Serin dachte, dass [Johannes] Piscatorius schreiben würde, doch lässt dieser auch nur grüßen, weil er in diesen Kriegswirren weder Lust noch Kraft zum Schreiben findet.</t>
+<t>Serin gratuliert der Augsburger Kirche zum Bürgermeister ihrer Stadt [Hans Welser], der von einem solch berühmten Schreiber wie Bullinger [durch eine Widmung] gewürdigt wurde, und dies zum Missfallen der abergläubischen "Sakramentarier" [Lutheraner]. In Anlehnung an die Wörter "Hilfsarbeiter" und "Gerichtsverwalter" bezeichnet nämlich Serin mit "Sakramentierer" diejenigen, die in den Sakramenten und in deren Wirksamkeit Eigenschaften voraussetzen, die es nie gegeben hat noch je geben wird.</t>
+<t>Gelobt sei der Herr, der es nicht zulässt, dass die Lästerer die Wahrheit unterschlagen! Denn vor kurzem soll der Herr in Nördlingen (wo sich der "sakramentarische Aberglaube" durchgesetzt hatte) einen Diener des Wortes [Georg Hieber?] berufen haben. Die Information ist zwar noch nicht verbürgt. Man sollte aber beten, damit Ähnliches an vielen anderen Orten geschehe!</t>
+<t>Durch die in Rüstung stehenden Böhmen und Innerschweizer lernt man, dass mehr vom Gebet als von den Waffen zu erwarten ist.</t></re>
+<text>
+<div>
+<p>Gratia tibi multiplicetur
+<fn>Vgl. 1Petr 1, 2.</fn> per dominum nostrum Iesum Christum. Dudum tibi rescripsissem, observandissime Bullingere, si vel commodus quispiam obtigisset nuncius vel minimum quiddam novorum scriptorum ab eo tempore, quo <zzl>zl16349-4A</zzl>tuas proximas literas
+<fn>Bullingers Brief vom 4. September (<a>HBBW</a> XVII, Nr. 2565); s. unten Z. <qv>zl16349-2</qv>.</fn> cum Antichristo
+<fn>Rudolf <i>Gwalther,</i> Der Endtchrist, Zürich, Froschauer, 1546 (BZD C 361-368); s. <a>HBBW</a> XVII 400, Anm. 7. - Bullinger hatte das Werk an Serin mit seinem Brief vom 4. September übersandt; s. <a>HBBW</a> XVII 400,7f.<zfn>fn16349-2</zfn></fn> accepi<zzl>zl16349-4E</zzl>, prodiisset.
+<fn>Serin spricht hier die Produktion der Ulmer Druckerei von Hans Varnier an; vgl. unten Z. <qv>zl16349-3</qv>. Aus dieser Offizin gingen nämlich damals etliche protestantische Schriften zum Schmalkaldischen Krieg hervor; s. die in <a>Gerber, Kriegsrechnungen</a> I 70, Anm. 5, angeführten Verweise auf <a>PC</a> IV/1.<zfn>fn16349-4</zfn></fn> <zzl>zl16349-1A</zzl>Tandem vero, etsi nihil habeam, quod mittam, non potui diutius cessare, quin tibi scriberem, maxime cum bonus ille et (ut mihi videtur) valde pius senex miles ex Stammen
+<fn>Unbekannt. - In Stammheim (Kt. Zürich) übermittelte er vorliegenden Brief an Johannes Stumpf, welcher ihn mit einem Schreiben vom 10. November an Bullinger weiterleitete; s. <qv>nr2668</qv>,<qv>zl16308-3</qv>.</fn> ultro se mihi tabellarium offerret.<zzl>zl16349-1E</zzl></p>
+</div>
+<div>
+<p>De rebus autem bellicis calamitatibusque nostrorum nihil scribam, cum dimissi illi vestri milites
+<fn>Die mit dem in oben Z. <qv>zl16349-1</qv> erwähnten "senex miles" in die Eidgenossenschaft zurückkehrenden Söldner. Sie hatten den acht eidgenössischen Fähnlein angehört, die am 14. Oktober in Ulm eingetroffen waren; s. <qv>nr2641</qv>, <qv>fn16331-3</qv>. Sie wurden Anfang November entlassen, wie dies Johannes Haller bzw. Heinrich Thomann am 8. bzw. 14. November berichteten; s. <qv>nr2663</qv>,<qv>zl16352-1</qv>; bzw. Zürich StA, A 177, Nr. 136.<zfn>fn16349-1</zfn></fn> (qui magna cum laude su{e}que modesti{e} encomio hic meruerunt)
+<fa><i>Hier und unten Klammern ergänzt.</i></fa> omnia sint multo plenius narraturi, quam ego scriptis non molestis assequi queam.</p>
+</div>
+<div>
+<p>Ad tua ergo tantum paucis respondebo. <zzl>zl16349-7A</zzl>In primis autem gratias ago ingentes pro dono christian{e} et praeclar{e} lucubrationis Waltheri
+<fn>Siehe oben <qv>fn16349-2</qv>.</fn>, mihi hoc etiam nomine acceptiore
+<fa><i>In der Vorlage</i> acceptiorem.</fa>, quod in tempore obtigit tractandi
+<fa><i>In der Vorlage</i> tractanti.</fa> modo pro concionibus posteriorem ad Thessalonicenses
+<fn>Besonders in Hinsicht auf 2Thess 2, 1-12.</fn>.<zzl>zl16349-7E</zzl> <zzl>zl16349-8A</zzl>Scias etiam Frechto
+<fn>Martin Frecht, der angesichts der hier und unten in Z. <qv>zl16349-5</qv> gemachten Angaben etwa Mitte September von seinem Predigereinsatz in Dillingen wieder zurückgekehrt sein muss; s. <a>HBBW</a> XVII 286,104-106 mit Anm. 42.</fn> mirum immodum hunc laborem probatum fuisse.<zzl>zl16349-8E</zzl> Nam, ut prius in manus ipsius quam meas errore latoris
+<fn>Der Überbringer von Bullingers Brief an Serin vom 4. September war Heinrich Thomann; s. <a>HBBW</a> XVII 399f, Anm. 1.</fn> (quem ignoro, quisnam fuerit) pervenit, tam avide legit, ut mihi nonnisi perlecta folia
+<fn>Gemeint sind die einzelnen Lagen des noch nicht gebundenen Exemplars.</fn> traderet optaretque <zzl>zl16349-3A</zzl>Varnirium
+<fn>Die Druckeroffizin des Hans Varnier d.Ä.; s. <a>Reske</a> 934f. - Es scheint nicht zu einem solchen Druck gekommen zu sein.</fn> etiam excudere<zzl>zl16349-3E</zzl>. <zzl>zl16349-2A</zzl>Quid autem cum epistola actum sit, nescio. Cum enim ignorarem, quisnam fuisset lator, non potui perdiscere. <zzl>zl16349-5A</zzl>Resignatam quippe accepi 17. septembris,<zzl>zl16349-5E</zzl>
+<fn>Die Umstände dieses Empfangs hatte Serin auch auf Bullingers Brief vermerkt; s. <a>HBBW</a> XVII 401, Anm. a und c.</fn> quam tu scripseras eiusdem 4.<zzl>zl16349-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16349-9A</zzl>Ab Hallero nuncium nullum, nedum literas ullas hactenus accepi.
+<fn>Vgl. nämlich <a>HBBW</a> XVII 284,54-56; 400,5f.</fn><zzl>zl16349-9E</zzl> Frechtus te resalutari iussit. Piscatorium
+<fn>Der seit Februar 1546 in Ulm wirkende Johannes Piscatorius (Fischer) wurde im August zum Feldprediger ernannt; s. <a>HBBW</a> XVII 286,107-111.</fn> putassem ipsum per literas te resalutaturum, sed aiebat se in hisce turbis nec velle nec posse scribere.
+<fn>Außer einem Brief von Piscatorius an Bullinger und dessen Kollegen aus dem Jahr 1543 (<a>HBBW</a> XIII 29-34, Nr. 1709) ist kein weiteres Schreiben zwischen Bullinger und Piscatorius erhalten.</fn> Mihi autem mandavit, ut suo nomine tam diligenter te resalutarem, quam tu salutaveris ipsum.</p>
+</div>
+<div>
+<p>Ecclesi{e} Augustan{e} vehementer gratulor urbi ipsius talem esse consulem
+<fn>Gemeint ist Altbürgermeister Hans Welser.</fn>, qui eiusmodi scriptorem
+<fa><i>In der Vorlage</i> scriptores.</fa>, qualis tu es, recipiat
+<fn>Serin spielt auf die Widmung an Welser an (<a>HBBW</a> XVII 334f, Nr. 2545), die dem Lukaskommentar von Bullinger vorangestellt wurde. Bullinger hatte diese in seinem Brief an Serin erwähnt; s. <a>HBBW</a> XVII 400f,16.</fn> invitis procul dubio multis superstitiosis sacramentariis
+<fn>Gemeint sind die Lutheraner.</fn>, id est iis, qui sacrosanctis sacramentis tribuunt et includunt suis opinionibus, qu{e} nunquam nec habuerunt nec habitura sunt. Nam sacramentariorum vocabulo utor ego ea ratione, qua utimur voculis operariorum, iustitiariorum, etc. Idque opinor rectius quam illi alii
+<fn>Zu verstehen ist: quam illi alii [diese anderen - die Lutheraner] (hoc vocabulo utuntur).</fn>.</p>
+</div>
+<div>
+<p><zzl>zl16349-10A</zzl>Benedictus <vl>62</vl> dominus, qui non sinit maledicos pro sua libidine veritatem opprimere, quem et nuper in hoc Norling{e}
+<fn>Nördlingen.</fn> (ubi sacramentaria superstitio cum missariis c{e}remoniis sub evangelio obtinuerat) excitavisse quendam
+<fn>Möglicherweise Georg Hieber. - Pfarrer Kaspar Löner (1543-1546) hatte sich während seiner Amtszeit in Nördlingen zum Superintendenten ernennen lassen und die Entlassung seines zwinglianisch orientierten Kollegen Georg Hieber erwirkt. Nach Löners Tod im Januar 1546 erwies sich die Besetzung der Pfarrstelle in Nördlingen lange Zeit als schwierig; s. <a>HBBW</a> XV 219f, Anm. 16; <a>Rublack, Nördlingen</a> 226-236.<zfn>fn16349-5</zfn></fn><zzl>zl16349-10E</zzl> ex verbi ministris audio! Quodsi ita est (non enim satis certo mihi constat adhuc), dominum pr{e}cor, coeptis faveat idemque subinde in locis pluribus faciat!</p>
+</div>
+<div>
+<p>Plus spei et presidii (quod pie scribis
+<fn>Vgl. <a>HBBW</a> XVII 401,29f.</fn>) in precibus quam in armis esse collocandum vel excitati tandem Boemi
+<fn>Zu den böhmischen Truppenbewegungen s. <qv>nr2649</qv> und <qv>fn16339-1</qv>; <qv>nr2653</qv>,<qv>zl16342-15</qv>; <qv>nr2654</qv>.<zfn>fn16349-3</zfn></fn> <zzl>zl16349-6A</zzl>et 5 Helvetiorum vestrorum ditiones
+<fn>Die Fünf katholischen Orte; s. zuletzt <qv>nr2653</qv>,<qv>zl16342-14</qv> und <qv>fn16342-4</qv>.</fn>, ut rumor fert, nos docebunt!<zzl>zl16349-6E</zzl> Dominus custodiat nos in viis suis, utut illi visum fuerit, vel per vitam vel per mortem.</p>
+<p>Bene vale. Ulm{e}, 5. novembris anno, etc., 46.</p>
+<un>Leonhartus Soerinus.</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div>
+</text>
+</brief>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2143">
+<nr>2143</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>22. April 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 233 (ohne Siegel)<fx>^#/+Das Siegel wurde herausgeschnitten.^#/-<fe></vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 71 ^&x{
+<re>Bullinger hat [mit seiner in Lelio Capilupis "De vita monachorum" angebrachten handschriftlichen Widmung] hübsch darüber gespöttelt, dass Gast den Abt [von Murbach, Johann Rudolf Stör von Störenburg], als Taufpaten gewann. Doch hat Gast so dem Evangelium einen Weg bereitet.
+-^#. Gast schickt ["De natura deorum gentilium commentarius"] von Cornutus. [Nikolaus] Gerbels Einleitung zur Griechenlandkarte [von Sophianos] ist noch nicht fertig. Bullinger soll Gast den Preis [der von Christoph Froschauer gedruckten Bände, die die lateinische Übersetzung der deutschen] Schriften Zwinglis enthalten, mitteilen. Es würde ihn interessieren, wie [die Zürcher] die Schriften Zwinglis angeordnet haben. Er schickt bald den Katalog mit den [in Basel erhältlichen] fremden Büchern.
+-^#. [Karl V.] ist in Norddeutschland unterwegs. Auf dem Reichstag [zu Worms] befinden sich [nur] einige Bischöfe, Äbte und Fürsten. Das spanische Heer strebt nach Wien; ein künftiges Opfer für [Sultan Suleiman I.].
+-^#. [P.S.:] Grüße an Theodor [Bibliander], dem Gast bald schreiben wird.</re>
+<tx>S. in domino.
+^$Pulchre hoc libello illudis meę fortunę,<f1>Wohl durch eine handschriftliche Widmung, die Bullinger in einem Exemplar der Zürcher Ausgabe von Lelio ^#/+Capilupi,^#/- De vita monachorum, angebracht hatte; s. oben Nr. 2140, 40f.<fe> quod in compatrem abbatem<f1>Johann Rudolf Stör von Störenburg, Abt von Murbach; s. oben Nr. 2140, Anm. 13f.<fe> pium, doctum et humanum asciverim.
+Scio autem me hac occasione ostium evangelio aperuisse, quicquid alii dicant scribantque.
+^$Librum Cornuti<f1>Cornuti sive Phurnuti de natura deorum gentilium commentarius, e Graeco in Latinum conversus, per Conradum Clauserum Tigurinum ..., Basel, Johannes Oporin, 1543 (VD 16 C 5174). Verfasser war Lucius Annaeus Cornutus aus Leptis, stoischer Philosoph und Lehrer der Dichter Persius und Lukan (1. Jh. n. Chr.). - Zur Übersetzung von Konrad Klauser s. Peter ^#/+Frei,^#/- Conradus Clauserus Tigurinus (ca. 1515-1567). Pfarrer, Schulmann, Gelehrter, Zürich 1997 - Njbl. der Gelehrten Gesellschaft in Zürich 160, S. 81f, Nr. 3.<fe> mitto et brevi pretium indicabo.
+Isagoge<f1>griech. <gr>eĭsagvgh́</gr>: Einführung.<fe> Gerbellii<f1>Nikolaus Gerbel.<fe> in descriptionem Gręcię nondum est excusa, imo ab autore nondum absoluta.<f1>Gast bezieht sich auf Nikolaus Gerbels Einleitung zu Nikolaos Sophianos' Karte "Descriptio nova totius Graeciae", die im September 1545 erschien (GG 293). Zur Druckgeschichte der Karte selbst s. George ^#/+Tolias,^#/- Nikolaos Sophianos's "Totius Graeciae Descriptio". The Resources, Diffusion and Function of a Sixteenth-Century Antiquarian Map of Greece, in: Imago Mundi 58/2, 2006, 150-182, hier bes. S. 153-160.<fe>
+Velim pretium operum Zvinglii<f1>Zur 1544/1545 erschienenen Ausgabe der Werke Zwinglis s. oben Nr. 2069, Anm. 30. Teil I und II mit der Übersetzung der deutschen Schriften Zwinglis lagen seit Februar 1545 vor.<fe> indicares, sed quędam habeo, nempe prophetas<f1>Gemeint sind die zu Lebzeiten Zwinglis erschienenen Kommentare zu Jesaja und Jeremia im Folio-Format (Finsler 64, Nr. 89; 71f, Nr. 99).<fe> et tomum, qui ea habet,
+quę in novo testamento sunt contenta<f1>Dabei handelt es sich um die von Leo Jud und Kaspar Megander 1533 und 1539 besorgten Folio-Ausgaben der Kommentare zu Jakobus, den Evangelien sowie den paulinischen und johanneischen Briefen (Finsler 73f, Nr. 103f).<fe>.
+Si seorsim reliqua typographus<f1>Christoph Froschauer.<fe> venderet et tu mihi pretium indicares, consultarem mecum, quid mihi agendum esset.
+Germanice alias omnia habeo;<f1>Gast bezieht sich auf die ursprünglichen, deutschen Ausgaben von Zwinglis Schriften.<fe> sed [velle]m<fx>^#/+Von^#/- [velle]m ^#/+bis^#/- habere ^#/+am Rande nachgetragen. Die im engen Einband nicht mehr zu lesenden Wörter wurden aus der Abschrift von Johann Jakob Simler (Zürich ZB, Ms S 57, 71) ergänzt.^#/-<fe> etiam [Latin]e habere et<fx>et ^#/+fehlt in der Vorlage, bedingt durch die Einfügung am Rande.^#/-<fe> hunc ordinem perspicere, quem vos observastis.<f1>In Hinblick auf die von ihm geplante Ausgabe der Werke Oekolampads; s. oben Nr. 2139, 13-17.<fe>
+Catalogum librorum advectorum<f1>Gast meint einen (wohl gedruckten) Katalog fremder Bücher, die in Basel zu erhalten waren.<fe> brevi mittam cum aliis nonnullis.
+^$Caesarem aiunt grassari in Inferiori Germania.<f1>Ein Gerücht. Karl V. befand sich damals in Antwerpen; s. ^#/+Stälin^#/- 578.<fe> In comitiis<f1>Der Reichstag zu Worms.<fe> sunt episcopi quidam et abbates
+ac unus et alter princeps. Hispanicus exercitus Wiennam petit,<f1>Siehe oben Nr. 2094, 8-11; NBD VIII 87f (in einem Brief vom 28. März 1545); unten Nr. 2149, 55-58.<fe> Turcę<f1>Sultan Suleiman I.<fe> dulcis cibus.
+^$Vale.
+^$Basileę, 22. aprilis 1545.
+^$D. Theodorum<f1>Theodor Bibliander.<fe> salutabis, cui brevi scribam<f1>Ein entsprechender Brief liegt nicht vor.<fe>.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho Bullingero, Tigurinę ecclesiae vigilantissimo pastori, amico suo pręcipuo. Zürich.
+</content>
+</letter>

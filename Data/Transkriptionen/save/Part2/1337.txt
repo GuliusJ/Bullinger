@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1337">
+<nr>1337</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>die Pfarrer</addressee>
+	<addressee>Lehrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>12. Dezember 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 337a, 319 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat sich mit Schreiben zurückgehalten, teils wegen Zweifels an ihrem Wohlwollen, teils aus Furcht vor gewissen Leuten, die
+von der hergebrachten Sakramentslehre abweichen, Zwingli und seine Schüler hassen und nur noch Luther im Munde führen; doch
+um Zwinglis und der Wahrheit willen überwindet er seine Scheu. Luther hat in seinem Buch "Von den Konziliis und
+Kirchen" nicht nur den Solddienst gerechtfertigt, sondern Zwingli des Nestorianismus bezichtigt und ihm zudem unterstellt,
+das Wasser der Taufe als etwas Äußerliches dem Weihwasser der Papisten gleichgeachtet zu haben; man ist es der Wahrheit
+und Zwingli schuldig, solche Verleumdungen nicht hinzunehmen. Schlägt vor, öffentlich zu antworten und darzulegen, daß Zwingli
+nicht nestorianisch lehrte, sondern - im Unterschied zu Luther - die Eigenschaften beider Naturen Christi klar
+unterschied, daß außerdem gemäß ihrem Bekenntnis das sakramentale Wasser vom bloßen Element verschieden
+ist, wenn im Vollzug der Taufe das Wort hinzukommt. Bittet, seinen Rat nicht zu verachten und ihm samt allen, die von der
+lutherischen Partei [in Bern] bedrängt werden, durch Briefe beizustehen. Der Bote ist in Eile.
+</re>
+<tx>Gratia et pax a deo per Iesum Christum.
+^$Temperavi michi nunc aliquamdiu (viri doctissimi), quo minus
+ad vos scriberem, partim, quod verebar literas meas vobis
+ingratas fore, quoniam suspicabar animos vestros nonnichil a
+me esse alienatos ob suspitionem malam nescio quam, [quam]<fx>^#/+Das zweite^#/- quam ^#/+fehlt in der
+Vorlage.^#/-<fe> de me concepisse videbamini, partim, quod videbam hoc sine periculo
+fieri non posse ob inconstantiam quorundam, qui relicta via
+certa et probabili disserendi de sacramentis hactenus in
+ecclesiis Helveticis usitata novam et obscuram amplexati<fx>^#/+korrigiert aus^#/- amplexi.<fe>
+sunt, quam omnibus etiam tanta sedulitate persuadere
+conantur, ut, qui illico illis accedere refragetur, cane et
+angue peius odio habeatur<f1>Adagia, 2, 9, 63 (LB II 676f).<fe>, neque etiam tantum doctrinam
+Zvinglii, viri optimi, sed etiam nomen eius abhorreant
+nichilque quam Lutherum crepantes ita ut Hierosolimite
+obcecati, qui abhorrebant ab aquis Siloe sensim defluentibus
+sibique gratulabantur sub superbia Razin [et]<fx>et ^#/+fehlt in der Vorlage.^#/-<fe> filio[!] Romelie<f1>Vgl. Jes 8, 6.<fe>.
+Ita simplicitatem piam et eruditam Zvinglii eiecit
+fastidiosa superbia Lutheri. Quos si non summa offensio
+ecclesiarum, amor tamen patrie cohibere debebat, taceo
+ineffabilem curam et sollicitudinem fidissimi pastoris,
+piissimi praeceptoris nostri Zvinglii, quam pro ecclesiis
+Helvetiis nullo tempore subire recusabat. Sed ita
+recompensant ingratissimi homines ingentissimos labores
+optimi viri. Sed quid; vincit tandem verecundiam simul et
+periculum amor et studium non tantum erga Zvinglium, sed
+maxime erga veritatem, quam video sub Zvinglii nomine
+periclitari.
+^$Exiit enim libellus hoc anno a Luthero editus, primum
+Argentorati, post Witeberge excussus<fx>^#/+vor^#/- excussus ^#/+gestrichenes^#/- editus.<fe>, cui titulus est De
+conciliis et ecclesia<f1>"Von den Konziliis und Kirchen" (WA L 488-653); vgl. oben Nr. 1304.<fe>, in quo a principio ita commendat
+militiam stipendiariam<f1>AaO, S. 532,10-537,24 (bes. S. 533,15-535,4).<fe>, ut iniuria maxima affectos esse a
+nobis<fx>a nobis ^#/+am Rande nachgetragen.^#/-<fe> nostri milites et pensionarii haud immerito conqueri
+possint, si Lutheri scripta pro veritate recipi debent.
+Secundo, ubi concilium<fx>^#/+korrigiert aus^#/- consilium.<fe> Ephesinum et Calcedonense causamque Nestorii et Eutiches[!] tractat<f1>AaO, S. 581,15-604,9.<fe>, sub Nestorii nomine
+Zvinglium tam aperte perstringit, ut non nisi ceci non
+videant, quoniam isdem verbis Nestorium describit, quibus in
+confessione sua Zvinglium<f1>Ritter bezieht sich auf Luthers "Vom Abendmahl Christi. Bekenntnis" von 1528 (WA XXVI 241-509);
+vgl. etwa WA L 584, 16-19 und 589, 13-20 mit WA XXVI 324, 5-14.<fe>. Tandem, ut impotens homo est
+neque diu virus suum cęlare novit, erumpit et gloriatur
+sibi bellum fuisse cum Nestorianis, qui negaverint deitatem
+esse passam<f1>AaO, S. 591, 9f.<fe>, et quamvis confessi sint Christum deum et
+hominem, noluisse tamen communicationem idiomatum admittere,
+ut dicerent deum esse passum, concedentes antecedens in bona
+consequentia, consequens vero negantes<f1>Vgl. aaO, S. 588, 12-28; 589, 13-20 (zur dialektischen Terminologie: S. 588, Anm. a).<fe>, et Zvinglium dicit<f1>AaO, S. 591,
+10-14.<fe> nominatim eo venisse, quod voluerit verba evangeliste: "Verbum caro factum est" [Joh 1, 14] legere "Verbum
+caro facta est"<f1>Vgl. Z V 683,18-684,9; 927,11-929,11; s. a. WA L 591, Anm. b.<fe>, ratio, quod
+deus esset immutabilis neque posset<fx>^#/+in der Vorlage^#/- possit.<fe> aliud quippiam fieri.
+Ultimo, quum incidit in mentionem sacramentorum, ait
+doctos fuisse quosdam, qui, dum acceperint ab illo, quod
+externa quaedam, quae instituta erant ab hominibus,
+reprehenderet, statim illos<fx>^#/+nach^#/- illos ^#/+gestrichenes^#/- qui[?].<fe> aquam baptismi in eum numerum
+collocasse et non maioris precii duxisse quam aquam
+papistarum benedictam<f1>AaO, S. 645, 1-9; 646, 25-31. Ritter gibt Luthers Kritik an seinen spiritualistischen Gegnern stark
+verkürzt und überspitzt wieder. Nach Zwinglis Auffassung ist die Taufe zwar nur eine äußerliche Zeremonie (vgl. etwa Z IV 252,
+11-16), aber im Unterschied zu den Ritualen der "Papisten" ist sie von Gott geboten (vgl. etwa Z VI/I 182,10-183,10).<fe>. Hiis
+atque similibus mendaciis<fx>^#/+vor^#/- mendaciis ^#/+ein gestrichener Buchstabe.^#/-<fe>
+praeceptores nostros atque nos ipsos traducit coram toto
+orbe, quod diutius ferre cum tanto periculo veritatis non
+tantum non est christiane mansuetudinis, sed meo iudicio
+eciam maximi criminis, modo neglectus veritatis et calumnia
+praeceptoris, maxime in causa religionis, pro crimine velit
+reputari, ut merito debet.
+^$Propterea, doctissimi viri, quamvis nichil certius noverim
+mea tenuitate et quam inops consiliorum sim, praesertim in
+re tam gravi, contra vero neminem lateat, quanta vos
+prudentia, doctrina et eruditione polleatis, nichilominus
+arbitratus sum mei officii esse vos exhortari, ut aliquo
+modo huic periculo succuratur, neque etiam cęlare volo
+consilium meum. De primo articulo, in quo se satis prodit
+Lutherus, cuius sit spiritus, non opinor opus esse, ut tam
+crasso errori respondeatur. Sed de secundo, quandoquidem
+constet atque ex scriptis Zvinglii aperte convinci possit
+hanc insimulationem Nestoriane perfidei esse falsam et
+mendacem, siquidem pius vir<fx>vir ^#/+über der Zeile nachgetragen.^#/-<fe> nichil minus quam
+communicationem idiomatum negaverit, ut per alleosim<f1>Zu dieser für Zwinglis Christologie zentralen
+rhetorischen Figur und zu ihrem Verhältnis zur scholastischen Lehre von der Communicatio idiomatum s. bes. Z V 679,6-681,13;
+vgl. Richard ^#/+Cross,^#/- "Alloiosis" in the Christology of Zwingli, in: The Journal of Theological Studies, New Series 47, 1996, S. 105-122.<fe> nichil
+aliud [a]sserere<fx>^#/+Text beim Öffnen des Siegels beschädigt.^#/-<fe> volebat, praeterea ut naturarum proprietatem
+intemeratam conservare posset, quam Lutherus iuxta
+Eutichianam heresim confundere satagebat, nichilominus modum
+scripture tribuentis persone, quod in proprietate nature
+esset, non abhorrens, optarem, ut aliquis vestrum innocentiam
+optimi viri ex suis scriptis assereret et palam faceret,
+quod nichil minus quam perfidia Nestorii ex libris Zvinglii
+hauriri possit, id quod aperte probare potest. Deinde,
+quamdiu videmus et nos falso traduci, quod aquam baptismi
+eciam in usu et propter usum non pluris fecissemus quam
+externam aquam fontis, a qua certe in natura nichil differt<fx>^#/+nach^#/- differt ^#/+gestrichenes^#/- nichil.<fe>,
+nisi Lutherus velit transsubstantiationem admittere,
+accedente vero verbo nemo nostrum aliter iudicavit quam
+aquam sacramentalem esse et propter usum aqua sanctificata
+per verbum et inenarrabiliter differre ab aqua elementali,
+opereprecium<fx>^#/+vor^#/- opereprecium ^#/+gestrichenes^#/- operepre.<fe> censerem, ut confessionem nostram, quemadmodum
+de sacramentis semper docuerimus et senserimus<f1>Vgl. dazu die Artikel über die Sakramente und die Taufe im Ersten Helvetischen
+Bekenntnis (BSRK 106f).<fe>, orbi testatam faceremus; video enim Lutherum et omnes suos imitatores in hoc tantum laborare, ut de
+victoria triumphet, parum vero curet, ut veritas innotescat mundo. Id quod facile illi condonari posset, si periculum inde non pateretur veritas.
+^$Proinde, fratres charissimi, boni consulite hoc meum
+consilium; nam alias vereor, quod iure in me dici possit:
+"Sus Minervam docere cupit."<f1>Adagia, 1, 1, 40 (LB II 43).<fe> Nonnunquam tamen et dominus minimo in ecclesia utitur<fx>dominus
+^#/+nach ^#/-utitur ^#/+irrtümlich wiederholt.^#/-<fe> ad nominis sui gloriam.
+^$Valete et crebris me consolamini literis vestris doctis et
+piis, quoniam ferme supra vires premor a factione Lutherana
+et multorum animi labascunt ex silentio vestro; hactenus
+tamen obtinere nichil potuerunt.
+^$Ex Berna, 12. decembris 1539.
+^$Nunctius<f1>Unbekannt.<fe> ita festinabat, ut relegere<fx>^#/+vor^#/- relegere^#/+ nicht gestrichenes^#/- l.<fe> et corrigere non daretur facultas.
+<un>Erasmus Ritter, ex
+<un>animo totus vester.
+<lz>[Adresse auf der Rückseite:] Doctissimis et piissimis viris, Tigurine ecclesie pastoribus et lectoribus, charissimis
+fratribus in domino plurimum observandis. Gen Zürich.
+</content>
+</letter>

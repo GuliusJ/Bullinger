@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1005">
+<nr>1005</nr>
+<correspondents>
+	<originator>Hans Konrad Thumb von Neuburg</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Ohne Ort]</place>
+	<date>3. Juni 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 441, 37 (Siegelspur) </vo>
+<dr>Ungedruckt</dr>
+<re>Bittet Bullinger, das Büchlein, das er
+ihm schon vor langer Zeit durch Simon Grynäus zukommen ließ,
+zu beurteilen.
+</re>
+<tx>Mein freintlich, gantz guͦttwyllig dienst zuͦ voran,
+lieber her und freindt.
+^$Ob<f1>Da.<fe> Mayster Symon Grenus von Bassel us, mein
+guͦtter her und freindt, euch ain biechlin samt schryfften
+von mir zuͦgeschickt, for langem geschehen<f1>Vgl. den
+Brief Hans Konrad Thumbs von Neuburg vom 20. Oktober 1536
+(HBBW VI, Nr. 904) und Simon Grynäus' Bemerkung über die
+Weiterleitung der Sendung im November (HBBW VI, S. 469,
+6-9).<fe>, versich ich mych deshalb mein gantz freintlich
+und vertrawen bytt laut des
+selbygen schrybens und begerns, mych wider ewer
+gemyett<f1>Meinung.<fe> hierin berychten. Dan<fx>Dan ^#/+über
+gestrichenem^#/- Darin.<fe> warin ich das
+umm euch kind und wyst zuͦ verdienen<f1>könnte und wüßte
+zu entgelten.<fe>, wellt ich guͦttwyllig sein.
+^$Datum den andern sontag nach pfingsten anno 37.<un>Hanns Conratt Thuͦm, erbmarschalk.
+<lz>[Adresse auf der Rückseite:] Dem hochgelertten, ersamen
+Mayster Haynrich Bulinger, predycant zuͦ Zürych etc.,
+meinem sondern lieben hern und guͦten freindt zuͦ aygen
+hannden.
+</content>
+</letter>

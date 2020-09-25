@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2678">
+<brief>
+<id>16365</id>
+<nr>2678</nr> <from persid="ThomannHeinrich"/> <to persid="Bullinger"/> <place plid="Giengen an der Brenz"/> <date when="1546-11-15"/>
+<ae>Heinrich Thomann an Bullinger</ae>
+<od>Im Feldlager bei Giengen, 15. November 1546</od>
+<vo>Autograph: Zürich StA, E II 340, 165 (ohne Siegel)</vo>
+<dr>Ungedruckt<k>Regest 18. Jh.: Zürich ZB, Ms S 62, 31 </k></dr>
+<re><t>Dieser Tage hat Thomann dem Landgrafen [Philipp von Hessen] den Brief Bullingers [<qv>nr2651</qv>] überreicht. Nach dessen Lektüre sagte der Landgraf nichts, außer dass er Bullinger wieder schreiben wolle. Er unterhielt sich zudem freundlich mit Thomann und erkundigte sich nach dessen Gesundheit.</t></re>
+<text>
+<div>
+<p>Erwirdiger, hochgelerter, sunders günstiger, vertruwter, lieber herr, üch syen min unverdrossen, willig dienst allzyt z{uo}vor. <zzl>zl16365-1A</zzl>Der tagen
+<fn>Nach Abfassung von Thomanns Brief vom 13. Oktober; vgl. <qv>nr2674</qv>,<qv>zl16361-2</qv>.<zfn>fn16365-1</zfn></fn> han ich minem gnedigen herren, dem lanndtgraven
+<fn>Philipp von Hessen.</fn>, uwer schryben
+<fn>Bullingers Brief <qv>nr2651</qv> vom 31. Oktober.</fn> zu handen gstelt,<zzl>zl16365-1E</zzl> und nachdem er den glesen, sagt er nüt anders z{uo} mir, dann er wolt üch wider schryben
+<fn>Eine Antwort des Landgrafen ist nicht bekannt.</fn>. Unnd redt sunst gnediger meynung mit mir. Fragt mich, wie es gstalt miner krankeyt halb umb mich hett.
+<fn>wie es gstalt miner krankeyt halb umb mich hett: wie es mir in Bezug auf meine Krankheit ginge. - Zu Thomanns Erkrankung Anfang November s. <qv>nr2664</qv>, <qv>fn16353-4</qv>. Am 10. November konnte dieser sich wieder für kurze Zeit ins Lager begeben (Zürich StA, A 177, Nr. 126), war aber am 12. noch immer nicht ganz wiederhergestellt (aaO, Nr. 133). Erst am 20. konnte er seine völlige Genesung nach Zürich melden (aaO, Nr. 146).<zfn>fn16365-2</zfn></fn> Welches ich üch nit wollen bergen, dann üch z{uo} dienen, bin ich willig.</p>
+<p>Datum im feldleger by Giengen, montag, den 15. novembris anno 46.</p>
+<un>Üwer gantz williger</un>
+<un>Heynrich Domman.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem erwirdigen, hochgelerten herrn Heynrich Bullinger, helger
+<fn>heiliger.</fn> gschrifft Magister z{uo} Zürich, minenn gunstigen, lieben herren.</p>
+</div>
+</text>
+</brief>

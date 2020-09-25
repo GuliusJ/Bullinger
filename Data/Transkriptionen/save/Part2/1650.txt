@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1650">
+<nr>1650</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>9. August 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 255 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 163</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 140, Nr. 959</dr>
+<re>Bullinger wird sicherlich seinen Brief [Nr. 1648] durch den Boten erhalten habe, der auch Bullingers Brief übermittelte. Dem Bericht des Erasmus [Schmid oder Ritter] kann er nichts hinzufügen; es ergab sich leider nicht die Gelegenheit, ihm und seinen Begleitern mehr Gutes zu erweisen, da ihr
+Aufenthalt sehr kurz war und auch [Johannes] Zwick, der zu Pestkranken gerufen worden war, sich wegen der Ansteckungsgefahr nicht zu ihnen gesellen wollte; Gott scheint [Konstanz] wie letztes Jahr züchtigen zu wollen, Bullinger soll mit den Seinen für die Konstanzer beten. [Herzog Heinrich von]
+Braunschweig[-Wolfenbüttel]
+ist mit einigen wenigen nach Landshut in Bayern geflüchtet; man wird sehen, was die Zukunft bringt. Grüße.
+</re>
+<tx>S. Accepisti nostra<f1>Gemeint ist sicher Blarers Brief vom 6. August, oben Nr. 1648.<fe>, puto, mi venerande Bullingere,
+quę per illum ipsum bonum virum<f1>Unbekannt.<fe>, qui tuas nobis literas<f1>Ein Brief Bullingers aus dieser Zeit ist nicht erhalten.<fe>
+reddidit, misimus.
+^$Praeterea nihil est, quod addamus extra illa, quę
+Erasmus noster<f1>Erasmus Schmid oder Erasmus Ritter.<fe> narrare tibi potuit, in quem pariter et
+optimos viros, quibus facundum se comitem adiunxit, utinam
+tam humanis et officiosis esse nobis<fx>nobis ^#/+über der Zeile nachgetragen.^#/-<fe> licuisset, quam sunt
+illi modis omnibus dignissimi. Sed omnis fere negata nobis
+occasio fuit, tum quod retineri se diutius non sunt passi,
+tum quod Zviccius noster<f1>Johannes Zwick.<fe> adesse illis non potuit; quum enim
+ad quosdam peste correptos vocaretur, noluit deinde cum
+illis congredi, ne quid forte mali (ut serpit hic morbus
+contagio) affricaret.<f1>Zum Ausbruch der Pest im Spätsommer 1542 und Zwicks Engagement für die Pestkranken v. a. in der Gemeinde Bischofszell vgl. ^#/+Moeller,^#/- Zwick 233, 243.<fe> Videtur nos omnino dominus hoc etiam
+anno quemadmodum superiore castigaturus,<f1>1541 bis 1543 wurde Konstanz von drei Pestwellen, die jeweils im Sommer einsetzten, heimgesucht; vgl. ^#/+Moeller,^#/- Zwick 233.<fe> quare illi nos cum
+tuis christianę[!] commendabis, ut vel vivamus ad ipsius
+gloriam vel fluxam et evanidam hanc vitam cum ęterna
+commutemus.
+^$Brunsvicensis<f1>Herzog Heinrichd. J. von Braunschweig-Wolfenbüttel.<fe> fuga sibi consuluit et ad Baioarię
+opidulum Landtsperg cum paucissimis se contulit.<f1>Heinrich flüchtete mit seinen Söhnen Karl Viktor und Philipp Magnus sowie seinem Kanzler Stoppler nach Landshut; vgl. Otto von ^#/+Heinemann,^#/- Geschichte von Braunschweig und Hannover, Bd. 2, Gotha 1886, S. 360f; ^#/+Blume,^#/- Goslar 108; vgl. auch
+unten Nr. 1652, 1-7; 1673 (Beilage); 1700, 57f.<fe> Quid porro
+futurum sit, expectamus.
+^$Salutant te nostri omnes. Salutabis totam tuam domum cum
+omnibus fratribus et amicis. Bene vale, suavissime pectus.
+^$Constantiae, 9. augusti 1542.
+<un>Tuus Ambr. Blaurerus.
+<lz>[Adresse auf der Rückseite:] Bullingero suo.
+</content>
+</letter>

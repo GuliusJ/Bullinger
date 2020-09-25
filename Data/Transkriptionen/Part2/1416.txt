@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1416">
+<nr>1416</nr>
+<correspondents>
+	<originator>Fridolin Brunner</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Glarus</place>
+	<date>23. August 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2043 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 48, 100; Maschinenschrift und Kommentar: Martin Brunner, Fridolin Brunner (ZB, AX 1200) 14f, Nr. 4; Zit.: Zwa II 335; G. Heer, F. Brunner 52, Nr. 3; C. Gilly, Spanien 182, Anm. 193.^&x{
+<dr>Übersetzung ins Spanische: Juan Luis Vives, Epistolario. Edición preparada por José Jiménez Delgado, Madrid 1978, S. 630f, Nr. 189</dr>
+<re>Hat Vives' "Introductio ad sapientiam", die auch zusammen mit Pellikans Bibelkommentaren erschienen ist, in die
+Volkssprache übertragen und bittet um Prüfung seiner Übersetzung.
+</re>
+<tx>Gratiam et pacem a domino etc.
+^$Libellum Ioannis Ludovici Vivis Valentini, qui Ad
+sapientiam introductio<fx>^#/+in der Vorlage^#/- introdutio.<fe> inscribitur, quem eciam Pellicanus suis Bibliorum commentariis addidit<f1>Pellikan hatte Vives' "Introductio ad sapientiam" (1524) dem 1538 erschienenen 5. Band
+seiner "Commentaria bibliorum" vorangestellt; s. VD 16, B 2610; vgl. Carlos ^#/+Gilly,^#/- Spanien und der Basler Buchdruck bis
+1600. Ein Querschnitt durch die spanische Geistesgeschichte aus der Sicht einer europäischen
+Buchdruckerstadt, Basel/Frankfurt a. M. 1985. - Basler Beiträge zur Geschichtswissenschaft 151, S. 181.<fe>, e Latino sermone
+in vernaculum transtuli<f1>Brunners Übersetzung scheint nicht erhalten zu sein.<fe>, operę pretium, vir humanissime,
+existimans, quo libellus ille aureus non tam eruditorum quam
+rudium manibus conteratur, presertim, quum verę
+theologię ac sapientię ratio seu compendium, ut ipse
+plane nosti, in hoc reperiatur. Methodus melior profecto ad
+pietatem hac praescribi vix possit, et quae alii Meandris<f1>Otto 204, Nr. 1005.<fe> et
+longis ambagibus complexi sunt, ille paucis et grata
+brevitate omnia, quae pietatis sunt, comprehendit. Propterea
+dignus est libellus, ut aut mea aut aliorum opera in lucem
+exeat, non incertus, quin multum fructus inde pietati possit
+accedere. Cum equidem compertum habeam, quam eruditum, quam
+omnibus numeris absolutum<f1>Adagia, 2, 6, 86 (LB II 609).<fe>
+esse debeat, quod in publicum exit
+et omnibus legendum proponitur, transmitto propterea hunc
+libellum ad te causa recog­­noscendi. Quem quidem transtuli,
+sed quam dextre reddiderim, dubius sum. Oratum igitur, vir
+colendissime, te volo, ut admittentibus negotiis tuis in rei
+christianę commodum hunc libellum emendandi, limandi
+reprehendendique<fx>^#/+in der Vorlage^#/- reprehendique.<fe> gratia revidere digneris, quo tua opera
+et lectione castigatum et commendatum opus sub incudem detur
+et in lucem exeat. Si vero hec tralatio mea luce digna non
+fuerit, abeat, quo digna sit, et intercipiatur, libellus
+vero usque ad adventum meum apud te servetur.
+^$Vale bene cum tua perchara familia et me, ut facis, ama.
+^$Datę Glarianę, 23. die augusti anno 1540.
+<un>F. Fonteius Glareanus,
+<un>humanitatis tuę deditissimus.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro
+Henrycho Bullingero, verbi domini ministro apud Tigurinos,
+fratri ac domino suo observando. An Meister Heirich
+Bullinger, predicant zuͦ Zürich.
+</content>
+</letter>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="30243">
+<nr>30243</nr>
+<correspondents>
+	<originator>Johannes Fabricius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(Chur</place>
+	<date>[...] 1560)</date>
+</space_time>
+<vo>Zürich StA, E II 375, 750. / Orig. Aut.</vo>
+<dr>Gr. II, 258.</dr>
+<re></re>
+<note></note>
+S. Cętera cumd. Valentino.
+Siderhar entpütet mir Gorgius Carly per proconsulem (nam ipse peregre abiit), er wüsse eigentlich, das bäpstischen* [...] in Glariß ir kleinod flöchnind, zuͦm theil uff Gräpelen, zuͦm theil anderswohin.
+Hoc tu nimirum scis; sed si nescis, mone pios Glaronenses, et vigilate; est signum belli et praesagium.
+Vale.
+                                                             T[uus] Fabricius.
+Amplissimo virod. Heinrycho Bullingero, domino suo.
+</content>
+</letter>

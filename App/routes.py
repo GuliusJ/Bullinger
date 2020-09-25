@@ -12,8 +12,12 @@ from flask import render_template, flash, redirect, url_for, make_response, json
 from flask_login import current_user, login_user, login_required, logout_user
 from sqlalchemy import desc, func, asc, union_all, and_
 from Tools.BullingerDB import BullingerDB
-from Tools.Transcription import Transcriptions
-from Tools.Langid import Langid
+
+from Data.Transkriptionen.src_code.ParserConfig import ParserConfig
+from Data.Transkriptionen.src_code.ParserPart2 import ParserPart2
+from Data.Transkriptionen.src_code.ParserXML import ParserXML
+from Data.Transkriptionen.src_code.FileSplitter import FileSplitter
+
 from Tools.Dictionaries import CountDict, ListDict
 from collections import defaultdict
 from App.models import *
@@ -1866,19 +1870,17 @@ def xyz():
     Transcriptions.is_well_formed(path)
     Transcriptions.count_all(path)
     """
-
     return redirect(url_for('index'))
 
 
 @app.route("/api/download_file_campaign")
 def send_file_correction_campaign():
-    return send_file("App/static/docs/Korrekturkamgane.pdf", as_attachment=True)
+    return send_file("static/docs/Korrekturkampagne.pdf", as_attachment=True)
 
 
-
-@app.route('/api/st', methods=['GET', 'POST'])
-def st():
-
+@app.route("/api/add_new_portraits")
+def add_new_portraits():
+    """
     for p in db.session.query(Person):
         # print(p)
         if p.name == "Bibliander": p.photo = "/static/images/Portraits_Corr/Bibliander.JPG"
@@ -1889,41 +1891,118 @@ def st():
         if p.name == "Kilchmeyer": p.photo = "/static/images/Portraits_Corr/Kilchmeyer.jpg"
         if p.name == "Myconius": p.photo = "/static/images/Portraits_Corr/Myconius.jpg"
     db.session.commit()
-
-    path = "Data/Transkriptionen/Transkriptionen_XML_v2"
-
-    # Transcriptions.print_fishy_contexts(path, "sp", f_size=2)
-    # Transcriptions.print_contexts(path, "<spr>")
-
-    # Transcriptions.rename_elements(path)
-    # Transcriptions.validate_schema(path)
-
-
-
-    # Transcriptions.move_hw_elements(path)
-    # Transcriptions.is_well_formed(path)
-    # Transcriptions.split_abs_emp(path)
-    # Transcriptions.split_od(path)
-    # Transcriptions.place_corrections(path)
-    # Transcriptions.add_braces(path)
-    # Transcriptions.add_braces(path)
-    # Transcriptions.print_ort(path)
-    # Transcriptions.place_corrections(path)
-    # Transcriptions.print_ort_counts(path)
-    # Transcriptions.search(path)
-    # Transcriptions.analyze_xml(path)
-    # Transcriptions.analyze_xml_attr(path)
-    # Transcriptions.print_person_counts(path)
-    # Transcriptions.correct_persons_all(path)
-    # Transcriptions.correct_persons_3(path)
-    # Transcriptions.correct_persons_4(path)
-    # Transcriptions.process_braces_person(path)
-    # Transcriptions.print_persons(path)
-    # Transcriptions.change_person_and(path)
-    # Transcriptions.print_person_counts(path)
-    # Transcriptions.analyze_commata(path)
-    # Transcriptions.search_name(path, "Nachtrag")
-
-    # Transcriptions.change_date2(path)
-    # Transcriptions.change_adr(path)
+    """
     return redirect(url_for('index'))
+
+import os
+from Tools.BullingerData import BullingerData
+
+@app.route('/api/ocr_data_ug_uk', methods=['GET', 'POST'])
+def ocr_data_ug_uk():
+    qug = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+    q = db.session.query(
+        qug.c.id_brief,
+        qug.c.status
+    ).filter(qug.c.status == "ungültig")
+
+    id_ungueltig = [r[0] for r in q]
+
+    qug = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+    q = db.session.query(
+        qug.c.id_brief,
+        qug.c.status
+    ).filter(qug.c.status == "unklar")
+
+    id_unklar = [r[0] for r in q]
+
+    root_ug = "Data/Karteikarten/OCR_new/"
+    tar_ug = "Data/Karteikarten/Patricia/invalid/src/"
+    tar_uk = "Data/Karteikarten/Patricia/unclear/src/"
+
+    for i in id_ungueltig:
+        id = format(i, '05d')
+        p_in = root_ug+"HBBW_Karteikarte_"+str(id)+".ocr"
+        p_out = tar_ug+"HBBW_Karteikarte_"+str(id)+".ocr"
+        try:
+            with open(p_in) as f: s = "".join([line for line in f if line.strip()])
+            with open(p_out, 'w') as f: f.write(s)
+        except: print("Warning", p_in)
+
+    for i in id_unklar:
+        id = format(i, '05d')
+        p_in = root_ug+"HBBW_Karteikarte_"+str(id)+".ocr"
+        p_out = tar_uk+"HBBW_Karteikarte_"+str(id)+".ocr"
+        try:
+            with open(p_in) as f: s = "".join([line for line in f if line.strip()])
+            with open(p_out, 'w') as f: f.write(s)
+        except: print("Warning", p_in)
+
+    tar_ug2 = "Data/Karteikarten/Patricia/invalid/"
+    tar_uk2 = "Data/Karteikarten/Patricia/unclear/"
+
+    for fn in os.listdir(tar_ug):
+        data, out = dict(), ''
+        if fn != ".DS_Store":
+            p = tar_ug + fn
+            p_out = tar_ug2 + fn[:-3] + "txt"
+            d = BullingerData.get_data_basic(p)
+            for i, r in d.iterrows():
+                if r['y'] not in data: data[r['y']] = [(r['x'], r['Value'])]
+                else: data[r['y']].append((r['x'], r['Value']))
+            for key, value in sorted(data.items(), key=lambda x: x[0]):
+                ds = sorted(value, key=lambda tup: tup[0])
+                out += ' '.join([x[1] for x in ds]) + "\n"
+            with open(p_out, 'w') as f: f.write(out)
+
+    for fn in os.listdir(tar_uk):
+        data, out = dict(), ''
+        if fn != ".DS_Store":
+            p = tar_uk + fn
+            p_out = tar_uk2 + fn[:-3] + "txt"
+            d = BullingerData.get_data_basic(p)
+            for i, r in d.iterrows():
+                if r['y'] not in data: data[r['y']] = [(r['x'], r['Value'])]
+                else: data[r['y']].append((r['x'], r['Value']))
+            for key, value in sorted(data.items(), key=lambda x: x[0]):
+                ds = sorted(value, key=lambda tup: tup[0])
+                out += ' '.join([x[1] for x in ds]) + "\n"
+            with open(p_out, 'w') as f: f.write(out)
+
+@app.route('/api/run', methods=['GET', 'POST'])
+def st():
+
+    ParserPart2([ParserConfig.P_OUT2, ParserConfig.P_OUT0], reset=False)
+    print(50*"=")
+    p0 = ParserXML(ParserConfig.P_OUT0, path_schema=ParserConfig.P_XSD)
+    # p0.validate()
+    # p0.validate_schema()
+    p0.tag_counter()
+    print(50 * "=")
+    p1 = ParserXML(ParserConfig.P_OUT2, path_schema=ParserConfig.P_XSD)
+    # p1.validate()
+    # p1.validate_schema()
+    p1.tag_counter()
+
+    return redirect(url_for('index'))
+
+    """
+    with open("Data/tote_CH.txt") as f:
+        n, d20, d19, d18, d17, d16, d15 = 0, 0, 0, 0, 0, 0, 0
+        for line in f:
+            n += 1
+            data = line.strip().split(' ')
+            d20 = d20 + int(data[0])
+            d19 = d19 + int(data[1])
+            d18 = d18 + int(data[2])
+            d17 = d17 + int(data[3])
+            d16 = d16 + int(data[4])
+            d15 = d15 + int(data[5])
+            print(data)
+
+    print('2020', d20 / n / 7)
+    print('2019', d19 / n / 7)
+    print('2018', d18 / n / 7)
+    print('2017', d17 / n / 7)
+    print('2016', d16 / n / 7)
+    print('2015', d15 / n / 7)
+    """

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1481">
+<nr>1481</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>22. März 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 70 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 58 <f1>Moeller, Zwick Nr. 237)<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Der Goldschmied [Hans Stoß?] wird die Münzen nächstens schicken. Leo [Martini] aus Graubünden, der kürzlich in Zürich
+war, hat seine Gemeinde in Memmingen unter skandalösen Umständen verlassen. Vom Reichstag gibt es noch keine Nachrichten; [Johannes] Fabri ist gestorben. Grüße.
+</re>
+<tx>Salus et pax Christi.
+^$Tribunus ille aurifaber<f1>Gemeint ist wohl Hans Stoß (vgl. HBBW VI, S. 412f, Anm. 8).<fe>, de quo nuper ad me in
+literis<f1>Nicht erhalten.<fe> tuis, paratus est numismata illa ad vos mittere,<f1>Näheres ist dazu nicht bekannt.<fe> id quod
+propediem fiet, cum argenti quoque massam ad nescio quem amicum missurus est.
+^$Proinde fuit apud vos nuper Leo<f1>Leo Martini, gen. Aretius, ist wohl
+identisch mit Leo Martin aus Lavin (Kt. Graubünden), der 1522 die Churer Domschule besuchte und nachher Priester wurde
+(s. Oskar ^#/+Vasella,^#/- Geistliche und Bauern. Ausgewählte Aufsätze zu Spätmittelalter und Reformation in Graubünden und
+seinen Nachbargebieten, hg. v. Ursus Brunold und Werner Vogler, Chur 1996, S. 616, Anm. 24). Gervasius Schuler schildert in
+Briefen an Bullinger und Myconius Martinis Verfehlungen und seinen unehrenhaften Abgang aus Memmingen (s. unten Nr. 1508,
+24-37, bzw. Zürich StA, E II 358, 130). Dem Brief an Myconius ist zu entnehmen, dass er zwei Jahre in Memmingen tätig war
+und anschließend in Augsburg und Basel unterzukommen versuchte. Bereits zu Beginn des Jahres hatte sich Bullinger bei Comander
+über ihn erkundigt, wie aus dessen Antwort vom 1. Februar (oben Nr. 1457) hervorgeht. Das weitere Schicksal Martinis ist nicht
+bekannt.^&x Wohl nicht identisch mit Leonhard Bechlin.^&x{<fe> quidam Rhetus, Memmingensis ec­clesiae minister. Quid
+fecerit apud vos, nescio; hoc scio illum deserta ec­clesia et hospite insalutato nec modico aere alieno contracto abiisse, ne
+quid addam de adulterii suspitionibus, quas incidisse eum quidam referunt. Exigit autem charitas, ut nos mutuum moneamus, et
+gravissimum est tanto scandalo deserere ecclesias, hoc maxime seculo, quo alioqui nullus locus est evangelio.
+^$Ex comitiis<f1>D. h. vom Regensburger Reichstag.<fe> omnino nihil nobis est. Fabrum vero nosti vita functum;<f1>Die Nachricht war verfrüht (vgl. unten Nr. 1510, 42); Johannes Fabri starb erst am 21. Mai. Vgl. WA Briefwechsel IX 360, 22-25 mit Anm. 10.^&x (s. Hermann ^#/+Tüchle,^#/- in: NDB IV 728).
+^&x{<fe> quo transmigrarit, declarabit dies iudicii.
+^$Vale, amicorum candidissime. Pellicanum et Leonem<f1>Leo Jud.<fe> cum reliquis fratribus salutato diligenter, cumprimis domum tuam.
+^$Ex Constantia, 22. martii 1541.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, Tigurinae ec­clesiae pastori, fratri suo.
+</content>
+</letter>

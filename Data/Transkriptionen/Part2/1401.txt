@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1401">
+<nr>1401</nr>
+<correspondents>
+	<originator>[Joachim Vadian</originator>
+	<addressee fn=1>Bullinger]</addressee>
+	<note fn=1>Absender und Empfänger sowie das Jahr sind aufgrund der brieflichen Erkundigungen Bullingers und Froschauers nach Vadians Werk über die Klöster - vgl. oben Nr. 1346 (2. Januar) bzw. Vadian BW V 619 und 620, Nr. 1111f (20. und 30. April) - sowie der Antwort
+Bullingers an Vadian - vgl. unten Nr. 1403 (2. Juni 1540) - gesichert.</note>
+</correspondents>
+<space_time>
+	<place>[St. Germain]</place>
+	<date>30. Mai [1540]</date>
+	<note>^#/+In der Vorlage irrtümlich^#/- 1560. ^#/+Vgl. dazu Anm. 1.^#/-</note>
+</space_time>
+<vo>Teilabschrift von unbekannter Hand (17. Jh.): Zürich ZB, Ms F 64, 646v.</vo>
+<re>Steht zwar dazu, daß er Bullinger und Froschauer sein Büchlein über die alten Klöster Deutschlands versprochen hat,
+kann es aber in Rücksicht auf den Rat, der sich mit [dem Abt von St. Germain, Diethelm Blarer von Wartensee] abmüht, nicht zur
+[Frankfurter] Herbstmesse erscheinen lassen. Kritisiert darin schonungslos die Verkommenheit des - insbesondere
+benediktinischen - Mönchtums bereits in dessen Frühzeit, während er das wenige, was ihm lobenswert scheint, eher der Fürsorge
+mancher Fürsten als den Mönchen zuschreibt; obwohl sich andere ebenso klar gegen das Mönchtum ausgesprochen haben, würde eine Veröffentlichung seiner Schrift großen Haß nach sich ziehen.
+</re>
+<tx>[Gedruckt: Vadian BW VII 94f, Nr. 66.]
+</content>
+</letter>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1691">
+<nr>1691</nr>
+<correspondents>
+	<originator>[Peter Simler</originator>
+	<addressee fn=1>Bullinger]</addressee>
+	<note fn=1>Der Absender lässt sich aus dem Inhalt der Briefbeilage und der Handschrift ermitteln. Die Empfängerschaft Bullingers ergibt sich aus der Anrede "Lieber her gfatter" und der Tatsache, dass Bullinger die von Simler übermittelten Informationen zur Geschichte des
+Klosters Kappel in seinem schulgeschichtlichen Abriss "Von der schuͦl zuͦ Cappel uffgericht und hernach in die statt Zürych zuͦ dem Frowenmünster geordnet", 1556 (Zürich StA, E I 14. 1, Nr. 1) verwertet hat. Vgl. ^#/+Bächtold,^#/- Bullinger vor dem Rat 208, mit Anm. 62</note>
+</correspondents>
+<space_time>
+	<place>[Kappel]</place>
+	<date>18. November 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 437, 149a v. (ohne Siegel), Bei­­la­­ge: 147r.-­­149v.</vo>
+<dr>Gedruckt: ^#/+Bächtold,^#/- Bullinger vor dem Rat 208, Anm. 62</dr>
+<re>Übersendet das von Bullinger gewünschte Material [zur Geschichte des Klosters und der Schule Kappel], wobei er nur das Jahr [der Übergabe des Klosters an den Zürcher Rat], nicht aber den Monat angeben kann, da damals mit dem Rat in Treu und Glauben gehandelt worden war und keine Aufzeichnungen
+gemacht wurden.
+</re>
+<tx>Lieber her gfatter<f1>Bullinger war Pate von Peter Simlers Sohn Josias, vgl. HBBW I 53, Anm. 2.<fe>, ich schick üch hie ingschrifft das,
+so ir begert hannd;<f1>Bei dem von Simler übermittelten Material (Zürich StA, E II 437, 147r.-149v.) handelt es sich um Aufzeichnungen zur Geschichte des Klosters und der Schule Kappel 1508-1542, die Bullinger wohl im Zusammenhang mit der Schulpolitik des Rates angefordert hatte, die schließlich
+1550 zur Aufhebung der Schule in Kappel führte. Vgl. ^#/+Bächtold,^#/- Bullinger vor dem Rat 205-211.<fe> doch so heiter<f1>klar.<fe> nit, wie ir begärent. Ir
+hannd allein das jar, in dem minen heren das kloster ist
+über geben, den monat aber nit. Wir hands am anfang nit
+uffzeichnot, sonnder einfaltig als die wol trüwenden<f1>einfach in gutem Vertrauen.<fe> mitt
+unsern heren gehandlet. Manglent ir etwas wyter, so lassent
+michs wüssen; was überflyssig<f1>überflüssig.<fe> ist, thuͦnd dannen.
+^$Damit sinnd gott bevolchen.
+^$Datum 18. novembris 1542.
+<lz>[Ohne Adresse.]
+<lz><vl>147r.-149v.</vl> [Beilage, s. Anm. 3.]
+</content>
+</letter>

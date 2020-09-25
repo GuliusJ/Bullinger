@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2068">
+<nr>2068</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>16. Januar 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen.^#/-<fe>: Zürich StA, E II 336, 210 (neu: 228) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 123^&x{
+<re>Myconius empfiehlt den nicht gänzlich unbegabten Kaspar Schneeberger auf dessen Wunsch hin; man fördert ihn am besten, wenn man ihn nach seiner Art gewähren lässt.
+-^#. Nach Versiegelung des letzten Briefes [Nr. 2064] kehrte Bullingers Neffe [Josua] mit einem [nicht erhaltenen] Brief [an Bullinger?] zu Myconius zurück.
+-^#. Die 8'000 Soldaten [Karls V.] suchten Lothringen heim; Herzog [François I. von Lothringen] wollte gegen ihre [Plünderungen] vorgehen, doch ein [unbekannter] Vermittler verhinderte gewaltsame Ausschreitungen, indem er den [schmalkaldischen Truppenteilen?], den Sundgauern sowie den Breisgauern drohte; und wenn der Adel, der deshalb in Schlettstadt zusammenkommt, nicht beim Kaiser Fürbitte einlegt, wird etwas geschehen.</re>
+<tx>S. Gasparem Schneberger<f1>Kaspar Schneeberger, der Kostgänger bei Myconius gewesen war.^&xBullinger hatte im Februar 1544 Myconius' Kostgängern freigestellt, einen anderen Logisgeber zu suchen; vgl. HBBW XIV, Nr. 1846, 44-47.^&x{<fe>, quęso, sic excipias, ut omnium simplicissimum et ex
+simplicitate stultulum atque nonnihil superbulum; quod intelligit, quę recta sunt,
+verum nescit uti. Literarum quoque non est omnino expers (quod valde miror),
+sed itidem sine bono usu. Si amici et cognati<f1>Zu Kaspar Schneebergers Eltern s. HBBW XIV, Nr. 1856, Anm. 1.<fe> permiserint eum
+suis moribus vivere, iucundus esse valebit; sin conabuntur mutare, plane perdent.
+Rogavit me, ut se tibi commendarem. Fac ergo, ut sit commendatissimus vel hoc nomine,
+quod est minime malus, nisi nimium vexando talis reddatur.
+^$Omisi in altera epistola<f1>Oben Nr. 2064.<fe>, quod, postquam obsignavi, rediit ad me cum literis<f1>Vermutlich an Bullinger gerichtet; nicht erhalten.<fe>
+nepos tuus<f1>Josua Bullinger.<fe> - ut nosse vales, quia eas mitto.
+^$Item octo millibus Hispanorum gravare cęsar<fx>cęsar ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Karl V.<fe> voluit Lothoringiam, quam antea
+tamen exhausit. Sed dux<f1>François I. von Lothringen (1517-1545).<fe> collecto exercitu dum eos vi conatus erat eiicere,
+venit intercessor<f1>Unbekannt.<fe>, vir magnus, vimque prohibuit et Lothoringum levavit,
+Concordiensibus<f1>Gemeint sind vermutlich die vom Schmalkaldischen Bund bereitgestellten Truppenteile; s. HBBW XIV, Nr. 1886, 42-44; 1890, 1-10.<fe>, Suntgaudiensibus<f1>den Sundgauern (südliches Elsass).<fe> et Brisgaviensibus<f1>den Breisgauern.<fe> imminens.<f1>Zu diesen Begebenheiten s. Auguste ^#/+Digot,^#/- Histoire de Lorraine, Bd. 4, Nancy 1856, S. 100f. Es könnte sich dabei um das spanische Regiment unter dem Obersten Alvarez de Sande gehandelt haben, "welches nach Beendigung des Krieges mit Frankreich in Lothringen Winterquartiere bezogen hatte" (PC III 550f, Nr. 521, Anm. 2).<fe> Et nisi nobilitas,
+quę propterea convenit Selestadię, deprecatura est apud cęsarem, fiet aliquid.
+^$Vale in domino.
+^$16. ianuarii anno 1545.
+<un>Tuus Mycon.
+<lz>[Adresse auf der Rückseite:] D. Heinricho Bullingero, theologo doctissimo, ecclesiae Tigurinae praesuli, in domino venerando suo.
+</content>
+</letter>

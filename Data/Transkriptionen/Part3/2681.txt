@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2681">
+<brief>
+<id>16368</id>
+<nr>2681</nr> <from persid="HochholzerChristian"/> <to persid="Bullinger"/> <place plid="Aarau"/> <date when="1546-04-18"/>
+<ae>Christian Hochholzer an Bullinger</ae>
+<od>Aarau, 17. November 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 340 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 85</k></dr>
+<re><t>Hochholzer möchte die sich ihm darbietende Gelegenheit nutzen, Bullinger wie gewohnt mit einem Brief zu grüßen und ihn über seine persönliche Lage zu informieren; wobei es darüber wenig zu berichten gibt, zumal Bullinger schon auf dem Laufenden ist. Kürzlich hatte Hochholzer ja schon [mit <a>HBBW</a> XVI, Nr. 2349] seinen allzu niedrigen Lohn beklagt, da dieser ihn zu Schulden nötigt. Bullinger hatte damals [mit einem nicht erhaltenen Brief] empfohlen, sich in dieser Sache an Gabriel [Meyer] zu wenden. Doch ist Hochholzer der Meinung, dass Gabriel sich ungern für ihn einsetzen würde, weil er allen gefallen und keinen Unwillen erregen möchte, was er mit einer [an den Rat] gerichteten Bitte wohl aber täte. Hochholzer entschloss sich also zunächst dazu, [Johannes] Zehnder über die Lage zu informieren, allein schon aus dem Grund, damit dieser nicht denke, er unternehme Schritte ohne dessen Wissen. Beide kamen zum Schluss, dass sie das Anliegen bei nächster Gelegenheit dem Rat vorbringen werden, um dann auf dessen Großzügigkeit zu hoffen. Hochholzer befürchtet jedoch, dass damit kaum etwas bewirkt werden kann. Es bleibt ihm nichts anderes übrig, als auf Gott zu vertrauen, der ihn und die Seinen wohl ernähren wird.</t>
+<t>Außerdem möchte Hochholzer erfahren, wie man [in Zürich] im Fall eines [zur Tatzeit] noch ledigen Mitglieds des Magistrats [...] urteilen würde, der sein jungfräuliches Mündel [...] entehrt und geschwängert hat. Der Mann hatte das Mädchen mit Worten und Versprechungen verführt. Doch ehe die Schändung und Schwangerschaft bekannt wurden, heiratete er eine andere [...]. Wie würde nun in Zürich ein solcher Mann bestraft werden? Nur mit der für dieses Delikt vorgesehenen Strafe, oder auch in seinem sozialen Stand und Amt? Ein solcher Fall hat sich nämlich in Aarau zugetragen. Einige, die dem Beschuldigten diesbezüglich ähnlich sind, wollen, dass dieser nur mit der Strafe geahndet wird, die für solch ein sexuelles Vergehen vorgesehen ist. Andere fordern zusätzliche gesellschaftliche und amtliche Sanktionen.</t>
+<t>Hochholzer hat schon lange nichts mehr über den Kriegsverlauf gehört. Bullinger möge ihn bei Gelegenheit darüber informieren. Auch über Kaiser [Karl V.] und die Fürsten [Landgraf Philipp von Hessen und Kurfürst Johann Friedrich von Sachsen] weiß er nichts Genaues. Er hat zudem gehört, dass die Zürcher ein starkes Heer gemustert hätten, das zusammen mit den Schaffhausern in den Hegau einfallen soll. Dies scheint aber Hochholzer unglaubwürdig.</t>
+<t>Grüße, besonders an [Rudolf] Gwalther.</t></re>
+<text>
+<div>
+<p>Gratiam et pacem a domino. Cum mihi nulla esset ad te scribendi occasio, domine et pater colende, eam arripui, qua saepe uti soleo, videlicet ut te salutem literis meis rerumque mearum statum tibi pandam. <zzl>zl16368-1A</zzl>Atque de rebus meis non opus habeo in praesentiarum
+<fn>Zu dieser Wendung s. <qv>nr2612</qv>, <qv>fn16301-29</qv>.</fn> multis disserere, cum scias, qualiter se habeant. Novit humanitas tua, quod nuper de admodum parvo et nimium tenui salario sim conquestus,
+<fn>In Hochholzers Brief vom 9. Februar 1546 (s. <a>HBBW</a> XVI 142,26f).</fn> ut non possim, quin aere alieno sim premendus. Suadebas tum,
+<fn>In einem nicht erhaltenen Brief.</fn> ut m. Gabrieli
+<fn>Gabriel Meyer, Stadtschreiber in Aarau.</fn> rem indicarem. Id sane faciendum iuxta tuum consilium videbatur. Caeterum, cum ingenium hominis considero, video talem esse, ut invitus rem meam ageret. Neminem enim vult offendere, omnibus placere; facile autem plures offendit, qui quicquam vel proprio vel alterius nomine postulat. Contuli itaque negotium cum d. Zendero
+<fn>Pfarrer Johannes Zehnder, bei dem Hochholzer als Gehilfe diente.</fn>, domino et fratre meo, ne se inscio in hoc negotio quicquam me acturum iudicaret. Sic ergo placuit utrique, ut rem ad senatum, ubi primum commode licuerit, referamus. Experiemur, an aliquod beneficentiae et gratitudinis specimen sint aedituri; sed metuo vel parum vel nihil ipsos esse addituros.<zzl>zl16368-1E</zzl> Utcunque res cadat, ego domino sperabo. Is me cum meis nutriet.</p>
+</div>
+<div>
+<p><zzl>zl16368-2A</zzl>Praeterea est, quod a te scire velim. Pro tua humanitate rogo, ne aegre feras. Si quis apud vos (pono casum)
+<fa><i>Klammern ergänzt.</i></fa> ex magistratus ordine nondum ulli matrimonio iunctus, virginem vitiaret, impraegnaret su{e} fidei sub tutela commissam, quale, queso, facinus iudicaretis? Interim, ubi scortator ille
+<fn>Unbekannt.</fn> nequam puellam
+<fn>Unbekannt.</fn> verbis et pollicitationibus delusisset, priusquam cognitum esset eam vel vitiatam vel gravidam, aliam duceret uxorem
+<fn>Unbekannt.</fn>. Quali poena puniuntur apud vos? Wie einfalty h{uo}ry
+<fn>einfalty h{uo}ry: einfache Hurerei.</fn> oder auch an eeren und emptern? De hoc non sine causa consulendum te iudicavi. Idipsum enim apud nos contigit. Nos impune dimitti nolumus, nec pro simplici fornicatione iudicamus. Alii, ut sunt vitiis sui patroni, homini illi patrocinantur. Extenuant negotium. Punire gravius nolunt, impune dimittere non audent; itaque negotium differtur. Rogo, tuum mihi reveles iudicium et quid apud vos de tali statueretur.<zzl>zl16368-2E</zzl></p>
+</div>
+<div>
+<p>De aliis rebus, bellorum tumultibus, iam diu nihil a te vidi. Si quid habes (ut non dubito) et si vacat, rogo scribas aliqua. De imperatore
+<fn>Karl V.</fn> nil certi habemus nec de principibus
+<fn>Die Anführer des Schmalkaldischen Bundes, Landgraf Philipp von Hessen und Kurfürst Johann Friedrich I. von Sachsen.</fn> quicquam. Audio praeterea vestros iam certum exercitum delegisse, quo simul cum Schafhusianis Hegoiam
+<fn>Hegau.</fn> sint vastaturi. Sed vana esse iudicavi. De his, nisi laboriosum tibi esset, certior fieri pervelim.</p>
+</div>
+<div>
+<p>Salutant te nostri omnes. Salvam cupio totam domum tuam. D. Gvalthero meo nomine salutem dicas, rogo. Vale in domino et me ut hactenus commendatum habe. Aaroviae, 17. novembris 1546.</p>
+<un>Tuae humanitatis totus Christi-</un>
+<un>anus Hochholzer.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Heinrycho Bullingero et prudentissimo et fidelissimo Christi ministro in ecclesia Tigurina, domino et patri suo plurimum colendo.</p>
+</div>
+</text>
+</brief>

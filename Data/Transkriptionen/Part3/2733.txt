@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2733">
+<brief>
+<id>16422</id>
+<nr>2733</nr> <from persid="BurcherJohn"/> <to persid="Bullinger"/> <place plid="Straßburg"/> <date when="1546-12-31"/>
+<ae>John Burcher an Bullinger</ae>
+<od>Straßburg, 31. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 344 (Siegelspur)</vo>
+<dr>Gedruckt und Übersetzung ins Englische: <a>Epistolae Tigurinae</a> 414, Nr. 295 <br/>bzw. <a>Original Letters</a> II 638f, Nr. 295, und <a>LP</a> XXI/2, Nr. 644<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 159 </k></dr>
+<re><t>Nachdem sich alles so schnell zum Schlechten gewendet hat, kann Burcher nicht länger schweigen und will Bullinger mitteilen, was für ein Unheil der Kirche Deutschlands bevorsteht. Heute traf nämlich in Straßburg [Christopher Mont],
+<fn>Dessen diplomatische Tätigkeit in Deutschland für König Heinrich VIII. ist für die damalige Zeit belegt; s. <a>LP</a> XXI/2, Nr. 558, 624 (Berichte Monts an Heinrich VIII. vom 15. und 27. Dezember 1546 über die Kriegslage in Deutschland); Esther <i>Hildebrandt,</i> Christopher Mont, Anglo-German Diplomat, in: Sixteenth Century Journal XV/3, 1984, 281-292.</fn> der Gesandte des englischen Königs [Heinrich VIII.], ein. Dieser hatte am Tag zuvor den Kaiser [Karl V.] und dessen Lager bei Heilbronn (in Württemberg) verlassen.
+<fn>Vgl. <qv>nr2722</qv>, <qv>fn16411-9</qv>.</fn> Er erzählte, dass der Kaiser durch seinen Sieg ganz aufgemuntert und glücklich sei. Er habe auch gehört, wie dieser den Ratsherren der sich ergebenden Städte gesagt habe: "Auch wenn ihr ,Aufrührer' seid, werde ich beweisen, wie großmütig ich bin!" Die Religionsangelegenheit aber hat er nicht angesprochen und den Städten lediglich eine Geldstrafe auferlegt, was ganz geschickt ist und seinem Wesen entspricht. Sollte er ganz Deutschland unterwerfen, wird seine Schlauheit allen offenbar. Unterdessen fürchtet sich die ganze Region rund um Straßburg vor ihm, weil eine Belagerung der Stadt allen wahrscheinlich erscheint. Auch [Maximilian von Egmont], Graf von Büren, hat eine kleine Stadt bei Frankfurt namens Bermstat [richtig: Darmstadt] besetzt.
+<fn>Siehe <qv>nr2706</qv>, <qv>fn16394-1</qv>.</fn></t>
+<t>Aus England hingegen übermittelte [Mont] Nachrichten, die in dem Maße erfreulich sind, wie die vorhergehenden traurig sind. [Thomas Howard], Duke of Norfolk, ein erbitterter Gegner des Wortes Gottes, und sein Sohn [Henry Howard, Earl of Surrey], wurden eingesperrt,
+<fn>Am 12. Dezember 1546, im Tower von London.</fn> weil sie versucht haben, das Papsttum und das Mönchswesen wieder herzustellen. Es bleibt nur noch zu hoffen, dass auch [Stephen Gardiner, Bischof] von Winchester, festgenommen wird. Denn nur danach könnte das Evangelium wieder aufgerichtet werden. Der Herr möge seine unterdrückte Kirche behüten!</t>
+<t>Aus Straßburg wird sich Burcher direkt in Richtung [Nord]see begeben.
+<fn>Burcher hatte vor, mit seiner Ware (u.a. vermutlich das von ihm erworbene Holz; s. <qv>nr2708</qv>, <qv>fn16398-2</qv>) auf dem Rhein und der Waal via Köln nach Dordrecht zu fahren; s. Richard Hilles an Bullinger, 25. Februar 1547 (<a>Original Letters</a> I 259). Im April 1547 war er wieder nach Zürich gelangt; s. Richard Hilles an Bullinger, 19. Mai 1547 (<a>Epistolae Tigurinae</a> 171; <a>Original Letters</a> I 261). - Wohl um diese Reise teilweise finanzieren zu können, wird Burcher (als "Johan Burckhart uß Engeland" bezeichnet) "vor wienacht imm 46. jar" ein "18 eln" (also ein etwa 8 m) langes "Blaw t{uo}ch" an den Tuchhändler Heinrich Falkner für 69 Pfund, 2 Schillinge und 4 Heller verkauft und diesen vom Käufer nicht sogleich ausgezahlten Betrag von der Stadt Zürich als Vorschuss erhalten haben, da Falkner den Betrag nicht an Burcher, sondern (zwischen dem 27. Januar und dem 1. Februar 1547) an die Stadt zurückzahlte; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 94 der Abteilung "Usgeben allerley gelts".<zfn>fn16422-2</zfn></fn> Seiner Frau [Adelheit Knüpli]
+<fn>Eine Zürcherin; s. <a>HBBW</a> XV 109, Anm. 3. - Dass mit ihrem Ehemann "Hans Burkart" tatsächlich John Burcher gemeint ist, geht nun anhand der oben in <qv>fn16422-2</qv> angeführten Quelle deutlich hervor.</fn> hat er geschrieben. Bullinger soll dieser während Burchers Abwesenheit beistehen.</t>
+<t>Richard [Hilles] und dessen Frau [Anna, geb. Lacey] lassen Bullinger und seine Gattin [Anna, geb. Adlischwyler] grüßen. Vor etwa sechs Wochen wurde ihnen eine Tochter
+<fn>Unbekannt. - Sie ist vermutlich früh gestorben, da sie sonst nicht mehr im Briefwechsel Bullingers und auch nicht in Richard Hilles' Testament erwähnt wird.</fn> geboren. Die Mutter hat sich bereits wieder erholt.</t></re> <textweg>
+<div>
+<p>Salutem in [Christo]
+<fa><i>Hier und unten Textverlust durch Papierbeschädigung.</i></fa> Iesu! Postquam tanta rerum optimarum mutatio t[am rep]ente contigerit, non potui quin tecum communcarem, Bullingere amice et domine charissime, quae mala imminent ecclesiae Germanicae. Hodie Argentinam venit veredarius
+<fn>Vermutlich Christopher Mont dessen diplomatische Tätigkeit in Deutschland für König Heinrich VIII. in der damaligen Zeit belegt ist; s. Esther <i>Hildebrandt,</i> Christopher Mont, Anglo-German Diplomat, in: Sixteenth Century Journal XV/3, 1984, 281-292.</fn> regius Angliae, qui pridie quam scriberentur haec reliquit castra caesareana atque ipsum caesarem
+<fn>Karl V.</fn> apud Heilbrunnen in Wittenbergensi terra
+<fn>Heilbronn, Württemberg; s. dazu <qv>nr2722</qv>, <qv>fn16411-9</qv>.</fn>. Is refert caesarem mire elatum victoria atque praeter solitum hillarem; nam audivisse se rebelles vocare hos qui sese ultro dediderunt. "Licet," inquit, "rebelles estis, tamen, quam sim misericors, ostendam." H{e}c verba fuere caesaris civitatis alicuius maiestratibus
+<fa><i>In der Vorlage</i> maiestratui.</fa> qui se dediderunt. Addit ad haec ne verbum quidem de religione habere, atque solum pecuniae mulctam iis inscribere, callide nimirum, ne videatur sibi contrarius esse. Verum si conceditur, ut universam Germaniam superet, haud dubie ostendet, quam sit callidus. Caeterum timor eius invasit univeram hanc terram circum Argentinam iacentem, neque quicquam quam obsidionem sperat haec civitas. Comes item de Buren
+<fn>Maximilian von Egmont, Graf von Büren.</fn> civitatulam prope Francofordiam langraviae
+<fn>Philipp von Hessen.</fn> occupavit, Bermstat
+<fn>Richtig: Darmstadt. - Dies war am 22. Dezember geschehen; s. <qv>nr2706</qv>, <qv>fn16394-1</qv>.</fn>, ni fallor, vocatam. Haec de Germania.</p>
+</div>
+<div>
+<p>De Anglia nobis refert is nuntius aeque iucunda atque haec sunt tristia; nempe fuisse ducem aliquem, cuius imperium in septemtrionem Angliae tendebat, vulgariter dux de Nordvolk
+<fn>Thomas Howard, Duke of Norfolk (gest. 25. August 1554). - Er und sein Sohn (s. unten <qv>fn16422-1</qv>) wurden im Londoner Tower (Turm) am 12. Dezember 1546 gesteckt.</fn> nuncupatus, hostis infensissimus verbo dei, qui tentabat cum filio
+<fn>Henry Howard, Earl of Surrey. Er wurde am 19. Januar 1547 hingerichtet.<zfn>fn16422-1</zfn></fn> et aliis regnum papae et monachorum clam restituere. Verum consilium eorum patet, et dux cum filio incarceratur. Neque quicquam deest, quam unus Wintoniensis
+<fn>Stephen Gardiner, Bischof von Winchester (gest. 12. November 1555).</fn>, qui nisi item capiatur, res evangelica restitui non potest. Oremus igitur dominum, ut ecclesiam suam undique oppressam tueatur. Haec tibi scribenda duxi.</p>
+</div>
+<div>
+<p>Ego recta hinc, domino duce, tendam versus mare. Bene vale. Uxori
+<fn>Adelheit Knüpli.</fn> scripsi, quam, ut soleris et consulas me absente, oro. Argentinae, pridie kalendas ianuarias 1546.
+<fn>Dass damit nicht etwa der 31. Dezember 1545 gemeint ist, geht aus den in diesem Brief enthaltenen Angaben hervor.</fn></p>
+<un>Tuus Burcherus, Anglus.</un>
+<lz/>
+</div>
+<div>
+<p>D. Ricardus
+<fn>Richard Hilles.</fn> cum uxore
+<fn>Anna, geb. Lacey.</fn> te et coniugem
+<fn>Anna, geb. Adlischwyler.</fn> plurimum salutant. Filiamque
+<fn>Unbekannt.</fn> ante septimanas plus minus sex acceperunt, eaque revaluit ex puerperio.</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinrico Bullingero, Tigurinae ecclesiae pastori vigilantissimo, amico et domino suo charissimo. Tiguri.</p>
+</div> </textweg>
+</brief>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1598">
+<nr>1598</nr>
+<correspondents>
+	<originator fn=1>Meier</originator>
+	<originator>Rat von Biel</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>die übrigen Pfarrer</addressee>
+	<addressee>Lehrer von Zürich</addressee>
+	<note fn=1>Vgl. HBBW XI, S. 168, Anm. 1.</note>
+</correspondents>
+<space_time>
+	<place>[Biel]</place>
+	<date>19. Januar 1542</date>
+</space_time>
+<vo>Original: Zürich StA, E II 359, 2797 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 16</vo>
+<dr>Ungedruckt</dr>
+<re>Bitten schnellstmöglich um einen fähigen Nachfolger für Pfarrer Johannes Rhellikan, der am 14. Januar verstorben ist; ebenso ersuchen sie um einen neuen Schulmeister; sie verzichten auf eine Mitteilung des gewünschten Profils des neuen Pfarrers, da die Zürcher dies besser einzuschätzen
+wissen.</re>
+<tx>Unser früntlich gruͦß sammptt erbiettung aller erenn,
+liebß und guͦtz zuͦ befor.
+^$Wolgelertt, fromm, fürnämm, ersamm, wyß<f1>weise.<fe>, insunders günstig,
+lieb herrenn und guͦtte fründt, eß hatt der allmächtig,
+ewig gott unseren gelieptenn bruͦder und predicanttenn, herr
+Hansenn Relican<f1>Johannes Rhellikan.<fe>, uff dem fiertzächenden tag jenners
+nächst verschinenn<f1>vergangenen.<fe> (zuͦ besorgenn<f1>wie zu befürchten ist.<fe> ummb unser übell und
+sünden willenn) uß diser zitt<f1>aus diesem Leben, aus dieser Welt.<fe> beruͤffet, im zuͦ ruͦw und ewiger säligckheit (doran wir nitt zwifflen) geholffenn,
+unß aber und unser kilchen zuͦ mercklichemm<f1>beträchtlichem.<fe> schadenn und
+nachtheil reychen mag. Derhalbenn ist unser, ouch der
+gantzenn kilchen, ernstliche und demiettige pitt durch die
+barmhertzigckheitt gottes, ouch sunderliche liebe und trüw,
+die ir unß und unser kilch bißhar alwägen<f1>immer.<fe> erzeygtt, wellentt
+unß mitt einnem andren fromenn und geschickten predicanttenn,
+deßglichen mitt einemm geschickten schuͦlmeyster,<f1>Nötig wurde die Neubesetzung der Schulmeisterstelle an der Bieler Lateinschule durch den Tod des Amtsinhabers Albrecht Bürer, vgl. J[acob] ^#/+Wyss,^#/- Das Bieler Schulwesen. Von seinen Anfängen bis zur Vereinigung der Stadt mit dem Kanton Bern
+1269-1815, Biel 1919, S. 19.<fe> nach
+üwerem besten vermügen versorgen und den predicanttenn, so
+baldt eß müglich, zuͦ unß khomenn lassenn. Wie er dann
+gesinnett und gebärdett sin sol, ist nitt von nötten zuͦ
+beschribenn, üch selichs baß<f1>solches besser.<fe> dan unß kundt ist, wie so
+mencherley oppinioneß<f1>Meinungen.<fe> zuͦ diser zitt vor ougen schwäbentt
+und waß sich noch in künfftigem zuͦ tragen mechte. Dorum
+sindt ernsthafftt in diser sach ze handlenn, alß wir üch
+vertrüwennt; dann nütt gefelligers mag unß üwer lieb bewysen,
+umb die wir selichs früntlich gern verdienen und günstlich
+beschulden<f1>gerne vergelten.<fe> wellenn mitt hilff deß almächtigen, den wir
+bitten, üwer würde säligcklich zuͦ bewarenn etc.
+^$Datum donstag, deß 19. ianuarii, anno etc. 42.
+<un>Meyher und rhatt zuͦ Biell.
+<lz>[Adresse auf der Rückseite]: Dem wolgelertten, fromenn, furnämmenn
+und wysen herrenn Meyster Heinrich Bullingern sammpt andren
+predicantten und gelerttenn der statt Zürich, unseren lieben
+und guͦtten fründen.
+</content>
+</letter>

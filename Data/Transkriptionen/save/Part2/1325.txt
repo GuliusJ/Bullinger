@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1325">
+<nr>1325</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>31. Oktober 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 61 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Konnte sich nicht um den von [Werner] Steiner empfohlenen Briefüberbringer kümmern, da dieser sich gleich wieder
+verabschiedete; bittet, ihn deshalb bei Steiner zu entschuldigen. Gegen Bullinger ist der Vorwurf laut geworden,
+er habe in seiner Vorrede [an Johannes Travers, Nr. 1283], indirekt Bucer und Luther angegriffen und gefährde damit die Konkordie. [Martin] Frecht läßt Bullinger und die Zürcher grüßen.
+</re>
+<tx>S. Commendat mihi Stainerus<f1>Werner Steiners Empfehlungsschreiben ist nicht erhalten.<fe> optimum illum virum<fx>^#/+nach^#/- virum ^#/+gestrichenes^#/- Stai.<fe><f1>Unbekannt.<fe>
+praesentium latorem; sed simulatque literas reddit, statim
+valedicit, ut nihil benevolentiae illi exhibere aut quicquam
+conferre cum illo quiverim. Excusatum itaque me volo Stainero per te.
+^$Ad te vero nichil est, quod scribam, cum novi nichil sit
+excepto hoc uno, quod putant quidam praefationem tuam ad
+epistolam Vadiani<f1>Gemeint ist die Widmungsvorrede (oben Nr. 1283) zu Vadians "Orthodoxa et erudita ... epistola" (HBBibl I 113), über die besonders Bucer verärgert war (vgl. oben Nr. 1283, Anm. 9). Siehe auch Zwicks Brief an Capito vom 11. Dezember (CO X/2 432f, Nr. 198; Capito, Corr. 255f, Nr.
+720).<fe> satis esse odiosam neminemque non
+intelligere, quem petas, scilicet Bucerum tibi Vertumnum esse et
+Lutherum Thrasonem<f1>Vgl. oben Nr. 1283, Anm. d bzw. Z. 65.<fe>, idque te facere post initam concordiam et bona parte sopitis contentionibus, denique tempore tam difficile etc.
+^$Frechtus ad me nuper scribens<f1>Frechts Brief ist nicht erhalten.<fe> rogat, ut se tibi et Tigurinis offitiose commendem.
+^$Vale cum fratribus et tota domo.
+^$Raptim, 31. octobris 1539.
+<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero velut fratri charissimo. Tiguri.
+</content>
+</letter>

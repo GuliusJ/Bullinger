@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1771">
+<nr>1771</nr>
+<correspondents>
+	<originator fn=1>Bartolomeo del Prato</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Bartolomeo del Prato (in der Grußformel zu Beginn des Briefes: "Barptolomeus Pratensius") stammte aus dem Piemont und diente mehreren französischen Gesandten in Venedig als Sekretär, wie aus einem Brief Pietro
+Aretinos vom Mai 1548 hervorgeht (Aretino, Opere IV/4, Nr. 610). Die von anderer Hand geschriebene Briefunterschrift lautet
+allerdings: "Maturinus Virginius Fonteniensis apud Pictones in Gallia". Herminjard (Corr. des réformateurs VIII 469f, Anm. 1)
+bezog diese Notiz auf den Briefschreiber und nahm an, es handle sich um einen (sonst nicht nachweisbaren) Barthélemi Des Prés
+aus Fontenay-le-Comte (Dép. Vendée). Die Unterschr.ift stammt aber wohl eher von jenem französischen Buchhändler Maturinus,
+nach dem sich del Prato am 5. April 1547 in seinem dritten und letzten Brief an Bullinger erkundigte (s. Zürich StA, E II 359,
+2816: "Caeterum cuperem aliquid intelligere de Maturino, bibliopola Gallo, qui Tiguri agebat."). 1549 immatrikulierte
+sich ein Maturinus Virginius aus dem Bistum Luçon (Vendée) als Medizinstudent in Montpellier, s. Matricule de l'Université de
+médecine de Montpellier (1503-1599), hg. v. Marcel Gouron, Genf 1957. - Travaux d'Humanisme et Renaissance XXV, S. 115,
+Nr. 1802. Möglicherweise war Virginius der Überbringer dieses Briefs (vgl. auch oben Nr. 1770, 27-45, und unten Nr. 1824, 39-48).</note>
+</correspondents>
+<space_time>
+	<place>Venedig</place>
+	<date>11. August 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterschr.ift von anderer Hand (vgl. Anm. 1).^#/-<fe>: Zürich StA, E II 335, 2061 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 71^&x{
+<re>Herausragende Persönlichkeiten ziehen andere Menschen wie ein Leuchtturm weithin an - so auch Bullinger, dem er als Unbekannter seine Verehrung bekundet; diese gründet auf Bullingers Werken, welche auch sein Herr, der französische Gesandte [Jean de Montluc], schätzt.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs VIII 469f, Nr. 1267.]
+</content>
+</letter>

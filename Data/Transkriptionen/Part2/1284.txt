@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1284">
+<nr>1284</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>2. Juli 1539</date>
+</space_time>
+<vo>Autograph<fx>^#/+Auffallend flüchtig geschrieben, mit Unterstreichungen und einer Notiz von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 192 (neu: 210) (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Bittet um Unterstützung für Adam Frey, der im Anschluß an eine Behandlung durch Sebastian [Sinckeler] vielleicht einen
+Badeort aufsuchen wird. Rudolf [Gwalther] ist aus unbekanntem Grund nach Lausanne abgereist. [Der Streit um die
+Universitätsordnung] erfordert schon bald ein Eingreifen von Bullinger, [Peter] Kunz und den Straßburgern. Grüße.
+</re>
+<tx>S. Adamus Phry<f1>Adam Frey.<fe> apud me est. Consultamus, quid amplius agendum. Est medicus doctor
+Sebastianus<f1>Sebastian Sinckeler.<fe> mihi amicissimus, qui, tametsi nihil promittit ob temporis et morbi
+longitudinem, tamen tentabit aliquid, quod non nocebit.
+Quod si processerit, ibit fortassis Adamus ad thermas.
+Quęso per dominum te, ut pro tua authoritate sis illi
+auxilio. Videtur mihi vir bonus et dei gnarus, unde et
+dignus, cui praestent omnes boni, quo succurratur. Apud
+dominos commendabis more tuo diligenter, quęso, virum.
+^$Rodulfus<f1>Rudolf Gwalther.<fe> ivit Lausannam, nescio quo consilio<f1>In einem Brief an Myconius entschuldigte sich
+Gwalther für seine grußlose Abreise; s. Corr. des réformateurs V 365f, Nr. 808 (Juli 1539).<fe>.
+^$Causa nostra<f1>Gemeint ist der Konflikt um die neuen Universitätsstatuten; vgl. zuletzt oben Nr. 1278, 45-57 und 63-66.<fe> (nisi mutetur) et te et Conzenum<f1>Peter Kunz.<fe> et
+Argentinenses<f1>Capito und Bucer.<fe> expetit et expectat brevi post hęc. Der libhaftig tüfel hedt ein ding angehept; ist inn schir gerüwen<f1>er bereut es beinahe.<fe>.
+^$Vale semper cum tuis et officiosissime salutabis Pellicanum
+et Theodorum<f1>Theodor Bibliander.<fe>.
+^$Basileę<fx>^#/+korrigiert aus ^#/-Basilęę.<fe>, 2. iulii anno 39.
+<un>Tuus Myco-­
+<un>nius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, antistiti Tigurino, fratri in Christo observando suo.
+</content>
+</letter>

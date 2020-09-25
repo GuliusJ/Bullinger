@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2370">
+<brief>
+<id>16061</id>
+<nr>2370</nr>
+<ae>[Ambrosius Blarer] an Bullinger</ae>
+<od>[Konstanz], 6. März 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 161f (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 420f, Nr. 1258<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 118 (Anfang) und 119 (Schluß)</k></dr>
+<re>Da Blarers Gattin [Katharina, geb. Ryff] erst am Vortag aus Balingen zurückkehrte, konnte Blarer dem vielversprechenden [Johannes] Wolf leider nicht die gebührende Gastfreundschaft erweisen, doch hofft er, dies zu einem späteren Zeitpunkt nachholen zu können.
+<t/>Noch sehnlicher als Bullinger wartet Blarer auf Nachrichten von seinem Bruder [Thomas] über den [Schmalkaldischen Bundestag] in Frankfurt. [Thomas] hat versprochen, an Bullinger zu schreiben [<qv>nr2384</qv>].
+<t/>Auf Wunsch Theodor [Biblianders] soll doch Bullinger das Geld von [Konrad] Hofherr [verwalten]. Hofherr soll das nicht selbst tun. Blarer wird diesbezüglich an Bibliander schreiben. Genaueste Buchführung ist wichtig, damit Hofherrs Verschwendungssucht anderen nicht schadet.
+<t/>Blarer wird Bullingers Schrift "De sacramentis" bald zurücksenden.
+<t/>Er dankt Gott, dass [Agathe] Studler ihre Hinrichtung in christlicher Gesinnung erlitt.
+<t/>Aus Augsburg wird berichtet, dass Luther gestorben sei, dass die [Zweiten Regensburger] Religionsgespräche durch das Konzil von Trient aufgehoben und die Kolloquenten nach Trient vorgeladen worden seien, um den Konzilsdekreten Gehorsam zu leisten.
+<t/>[Georg] Frölich berichtet, dass [Johannes] Haller mit seiner Familie gut nach Augsburg zurückgekehrt ist.
+<t/>[Landgraf Philipp von] Hessen schreibt [an Konstanz] über einen neuen Krieg, den Kaiser [Karl V.] und andere planen. [Nicolas Perrenot, Herr von] Granvelle hat nämlich auf einen Brief des Landgrafen zu dieser Sache so widersprüchlich geantwortet, dass dieser Unheil wittert. Der Kaiser rüstet sich; angeblich will er [Erz]bischof [Hermann von Wied] angreifen. Granvelle hat dem Landgrafen geschrieben, dass der Kaiser nicht gegen die Protestanten rüste, was Verdacht erregt. [Das soll man wohl glauben], besonders wenn man sieht, wie der Kaiser mit dem Erzbischof umgeht, um diesen von seinem [Reformationsvorhaben] abzubringen!</re>
+<text>
+<p>S. <zzl>zl2370-2A</zzl>In Wolphium illum
+<fn>Johannes Wolf, zu diesem Zeitpunkt Pfarrer an der Predigerkirche in Zürich.</fn>, candidissimum iuvenem ac valde, ut videtur, doctum, valde dolet quod nihil officiorum collocare potuimus. Abfuit domo uxor
+<fn>Katharina, geb. Ryff.</fn>, qu{e} heri primum Balingeno
+<fn>Balingen (Lkr. Tübingen, Baden-Württemberg).</fn> reversa est, ut convivam, nisi valde sordide tractare voluissem, mens{e} nostr{e} adhibere haud potuerim. Utinam sit aliquando aliunde, quo compensare malignitatem istam liceat!<zzl>zl2370-2E</zzl></p>
+<p><zzl>zl2370-3A</zzl>Quod meas magno desiderio expectas, quibus diserte tibi, quid Francofordi{e} actum
+<fn>Der Schmalkaldische Bundestag in Frankfurt; s. zuletzt <qv>nr2354</qv>,<qv>zl2354-6</qv>.</fn> sit, significem, ego longe maiore desiderio istuc a fratre
+<fn>Thomas Blarer.</fn>, ut diligenter mihi narret, flagito, et recepit ille nuper se ad te capita qu{e}dam totius negocii scripturum;
+<fn>Thomas Blarer schrieb am 18. März an Bullinger (<qv>nr2384</qv>).</fn> id, quod ut faciat, identidem ipsi aurem vellico.
+<fn><a>Adagia</a> 1, 7, 40 (<a>ASD</a> II/2 166f, Nr. 640).</fn> Puto autem te propediem illa ab ipsomet accepturum.<zzl>zl2370-3E</zzl></p>
+<p><zzl>zl2370-4A</zzl>A Curione
+<fn>Konrad Hofherr.</fn> per dominum te obsecro, ut pecuniam, quemadmodum Theodorus
+<fn>Theodor Bibliander.</fn> noster monuit, accipias.
+<fn>In einem Brief an Blarer vom 27. Februar 1546 (<a>Blarer BW</a> II 419, Nr. 1255) hatte Bibliander geraten, wegen Hofherrs verschwenderischen Umgangs mit Geld die Aufsicht über dessen Finanzen lieber an Bullinger zu übergeben; s. auch <qv>nr2354</qv>,<qv>zl2354-4</qv>; <qv>nr2366</qv>,<qv>zl2366-4</qv>. Auf Bullingers Wunsch hin verwaltete Bibliander aber auch weiterhin Hofherrs Geld (<qv>nr2376</qv>,<qv>zl2376-2</qv>), wie aus Biblianders Brief an Blarer vom 22. März (<a>Blarer BW</a> II 429, Nr. 1267) hervorgeht.</fn> Omnino enim nolo, ut sibi ipse sit tanta incuria Curio et tutor; sed scribam de hoc proximo nuncio et ipsi Theodoro
+<fn>Ein solcher Brief Blarers findet sich nicht in <a>Blarer BW</a>. Er wurde am 13. März verfasst und dem Brief an Bullinger vom 15. März beigelegt (<qv>nr2381</qv>,<qv>zl2381-2</qv>). Biblianders Antwort darauf ist erhalten (<a>Blarer BW</a> II 429, Nr. 1267).<zfn>fn2370-2</zfn></fn>. Multum enim refert, ut rationes ipsius ad debitos calculos revocari possint apud Herbrotum
+<fn>Jakob Herbrot; s. <qv>nr2354</qv>, <qv>fn2354-2</qv>.</fn>, ne aliis quoque ipsius negligentia (dicam an profusio?)
+<fa><i>Klammern ergänzt.</i></fa> officiat atque ita etiam in publica commoda peccemus.<zzl>zl2370-4E</zzl></p>
+<p><zzl>zl2370-5A</zzl>Liber tuus
+<fn>Bullingers Schrift "De sacramentis"; s. <qv>nr2332</qv>, <qv>fn2332-2</qv>, und zuletzt <qv>nr2366</qv>,<qv>zl2366-8</qv> und <qv>fn2366-2</qv>.</fn> propediem ad te redibit. Tu securo animo illum expecta.<zzl>zl2370-5E</zzl></p>
+<p>Quod Studlera
+<fn>Agathe Studler, die am 27. Februar 1546 in Zürich ertränkt worden war; s. <qv>nr2365</qv>, <qv>fn2365-1</qv>.</fn> dignas se penas dedit easque adeo christiano animo fide in Christum vicit, domini immensam misericordiam merito veneramur et exosculamur; qui, ubi abundavit delictum, superabundare voluit omnibus delictis maiorem suam charitatem et gratiam.
+<fn>Röm 5, 20.</fn></p>
+<p><vl>162</vl> <zzl>zl2370-11A</zzl>Ex Augusta constanter scribitur mortuum esse Lutherum,<zzl>zl2370-11E</zzl>
+<fn>Luther war am 18. Februar verstorben. - Aus diesem Zeitraum gibt es keine Briefe aus Augsburg in <a>Blarer BW</a>.</fn> <zzl>zl2370-1A</zzl>colloquium Ratisbonense
+<fn>Das Zweite Regensburger Religionsgespräch.</fn> per concilium
+<fn>Das Konzil zu Trient.</fn> esse sublatum et colloquentes Tridentum vocatos et citatos ad audiendum concilii decretum.
+<fn>Vgl. <qv>nr2354</qv>,<qv>zl2354-5</qv>; <qv>nr2360</qv>,<qv>zl2360-1</qv>.</fn><zzl>zl2370-1E</zzl></p>
+<p><zzl>zl2370-6A</zzl>Laetus
+<fa><i>Von</i> Laetus <i>bis</i> datum, etc. <i>am Rande nachgetragen.</i></fa>
+<fn>Georg Frölich.</fn> paucis scribit
+<fn>Nicht in <a>Blarer BW</a>.</fn> Hallerum cum suis incolumem Augustanis in sinum datum, etc.<zzl>zl2370-6E</zzl>
+<fn>Johannes Haller war mit seiner Familie am 28. Februar wieder in Augsburg eingetroffen; s. <qv>nr2332</qv>, <qv>fn2332-7</qv>; <qv>nr2364</qv>,<qv>zl2364-1</qv>.</fn></p>
+<p><zzl>zl2370-7A</zzl><zzl>zl2370-9A</zzl>Hessus
+<fn>Landgraf Philipp von Hessen.</fn> scribit nostris de novis bellis, quae caesar
+<fn>Karl V.</fn> et alii serio et ab integro nunc meditentur.
+<fn>Nicht ermittelt.</fn> <zzl>zl2370-8A</zzl><zzl>zl2370-9E</zzl>Granvela
+<fn>Nicolas de Perrenot, Herr von Granvelle.</fn> ad quasdam lantgravii literas de hac re, hoc est caesaris conatibus, tanta ambiguitate respondit,
+<fn>Siehe <a>PA</a> II 18, Nr. 1385. 1386.<zfn>fn2370-1</zfn></fn> ut nostris suboleat nescio quid monstri, quod adversarii nostri cum caesare alant.
+<fn>Vgl. <a>Adagia</a> 2, 4, 98 (<a>ASD</a> II/3 394, Nr. 1398).</fn> Der kaiser ist in etwas rüstung; maint man aller ding
+<fn>aller ding: zweifellos.</fn>, er gedenck, den bischoff von Cöln
+<fn>Hermann von Wied.</fn> anzegreyffen. Der<zzl>zl2370-10A</zzl> Gravell hat dem Hesso gschriben, der kayser seye in kainer rüstung wider die protestierenden,
+<fn>Siehe schon <qv>fn2370-1</qv>.</fn> quod mox suspitionem secum adfert.<zzl>zl2370-8E</zzl><zzl>zl2370-10E</zzl> Man sech ouch wol an der colnischen handlung, wie er
+<fn>Der Kaiser.</fn> nit gyrig sey;
+<fn>Ironisch gemeint.</fn> dann er hab allerlay versuch mitt dem bischoff
+<fn>Hermann von Wied. - Vgl. <a>HBBW</a> XV 281,10-12. 445f, Anm. 24. 463,2f; 520f,19-27. 548f,16-21.</fn>, das er abstande ab attentatis. Habe aber nichts mögen helfen.<zzl>zl2370-7E</zzl></p>
+<p>6. martii 1546.</p>
+<lz/>
+<p>[Adresse verdeckt, aber noch erkennbar auf der Rückseite des Blattes, das als S. 162 nummeriert wurde, und das auf der leeren Rückseite des Blattes mit der Seitenzahl 161 aufgeklebt wurde:] D. Heinricho Bullingero, venerando suo longeque charissimo fratri. Tiguri.</p>
+</text>
+</brief>

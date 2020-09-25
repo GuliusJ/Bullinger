@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2718">
+<brief>
+<id>16407</id>
+<nr>2718</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-12-17"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>Basel, 17. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 366, 43 (Siegelspur)</vo>
+<dr>Druck: Francisci Dryandri, Hispani, epistolae quinquaginta, hg. v. <br/>Eduard Boehmer, in: Zeitschrift für die historische Theologie 40, <br/>1870, 402f, Nr. 16;<br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 154-156, Nr. 19<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 142; Kopien 19. und 20. Jh.: Straßburg BNU, Ms 3900, 231 (Schmidt); Madrid BN, 8862, suelto und f. Ddro 13; Teildruck: Edward Boehmer, Spanish Reformers of two Centuries, Bd. 1, Straßburg 1874. ─ Bibliotheca Wiffeniana, S. 207. (Boehmer, Dryandri ep.: Hd II 2259; García: Hd II 1025)</k></dr>
+<re><t>Wenn Enzinas sich seiner Begrenztheit nicht bewusst wäre, hätte ihn Bullingers Brief [nicht erhalten]
+<fn>Bezeugt in <qv>nr2708</qv>,<qv>zl16398-5</qv>.</fn> völlig bezirzt.
+<fn>Enzinas hatte um Bullingers Meinung über die von ihm verfasste "Historia vera de morte Diazii" gebeten; s. <qv>nr2705</qv>, [2].</fn> Es würde ihm nicht an gutem Willen fehlen, besäße er eine bessere Lernfähigkeit. Trotz seiner Grenzen aber war er der Meinung, dass etwas zum Schicksal [von Juan Diaz] veröffentlicht werden musste. Vielleicht erhält Enzinas nochmals die Gelegenheit, [es besser zu machen]. Er fürchtet jedoch, dass es nie dazu kommen wird, da der Tyrann [Kaiser Karl V.] sich anschickt, die [Protestanten] zu unterdrücken und zu zermalmen. Dieser hat nun schon die wichtigsten Städte des Reiches inne. Er bekommt außerdem Hilfe aus Italien und schmiedet grausame Pläne. Ein Sieg könnte nur noch vom Himmel kommen! Das aus St. Gallen stammende Gerücht über den angeblichen Tod des Tyrannen scheint also falsch.</t>
+<t>Auch über Moritz' von Sachsen Arglist erfährt man in Basel Grausames. Sollte Bullinger mehr über den Kaiser oder den Kurfürsten [Johann Friedrich] von Sachsen wissen, möchte er es mitteilen.</t>
+<t>Enzinas hofft, in etwa einem Monat nach Zürich [auf Besuch] zu kommen. Er wäre gerne schon zu Weihnachten angereist,
+<fn>Vgl. <qv>nr2694</qv>, [5].</fn> doch wird er durch verschiedene Geschäfte in Basel zurückgehalten.</t>
+<t>Bullinger soll den beiliegenden Brief nach St. Gallen weiterbefördern und die Störung entschuldigen.</t>
+<t>[P.S.:] Anbei auch ein Brief [an Bullinger], den Enzinas aus Venedig von einem Italiener [Baldassare Altieri?] erhalten hat, über den er mündlich mehr erzählen wird.
+<fn>Siehe dazu <qv>nr2673</qv>, <qv>fn16360-1</qv>.</fn></t></re> <textweg>
+<div>
+<p>S. D. Fuissem tuis literis delinitus, nisi nota mihi esset mea tenuitas. Voluntas mihi non defuit, si parem habuissem dicendi facultatem. Sed iuvabit extare quomodocunque scriptam istius exempli memoriam. Si vita longior contingat, non negligam aliam oportunitatem. Sed vereor, ne prius opprimamur omnes vel cladibus ecclesiae confecti vel crudelitate perditissimi tyranni
+<fn>Karl V.</fn> laniati. Audio illum occupare praecipu[a]s imperii civitates, accipere nova auxilia ex Italia, moliri denique crudelissima. Victoria nobis erit expectanda de coelo, alioqui viribus humanis nimium sumus
+<fa><i>Vorlage:</i> summus.</fa> labefactati. Nuper accepi ex Sancto Gallo tyrannum ipsum esse vita defunctum, quod quia non video postea alicuius gravioris sententiae autoritate confirmatum, arbitror fuisse vanum rumorem.</p>
+</div>
+<div>
+<p>De Mauricii perfidia audimus hic quoque crudelia. Si quid habes vel de caesare vel de Saxonia, quaeso, ut communices.</p>
+</div>
+<div>
+<p>Veniam ad vos, uti spero, intra mensem, equidem maluissem ad festum natalitium, sed detineor hic invitus propter quaedam negocia.</p>
+</div>
+<div>
+<p>Literas ad Sangallum mittes et ignosce, quaeso, meae audatiae, qui te onerem perpetua importunitate.</p>
+<p>Vale.</p>
+<p>Basileae, 17. decembris 1546.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl16407-1A</zzl>Literas, quas mitto, accepi ex Venetiis ad te a quodam Italo
+<fn>Altieri. Nicht zu verstehen ist vermutlich: accepi a quodam Italo literas ad te, sondern eher: accepi literas ad te a quodam Italo. Mit dem Brief ist wohl Nr. 16360 vom 13. November gemeint.</fn>, de quo plura coram deo volente.<zzl>zl16407-1E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero, fratri carissimo. Tiguri.</p>
+</div> </textweg>
+</brief>

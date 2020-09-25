@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2749">
+<brief>
+<id>17018</id>
+<nr>2749</nr> <from persid="FrölichGeorg"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-01-12"/>
+<ae>Georg Frölich an Bullinger</ae>
+<od>Augsburg, 12. Januar 1547</od>
+<vo>Original
+<fa><i>Kanzleihand. - Datum, Unterschrift und Adresse von Frölichs Hand.</i></fa>: Zürich ZB, Ms A 43, 455-476 (Siegelspur)<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 15. ─ Kein Brief, sondern ein Gutachten, an Bullinger gesandt.</k></vo>
+<dr>Druck: Friedrich <i>Roth,</i> Eine noch unbekannte reformationsgeschichtliche <br/>Denkschrift des Augsburger Stadtschreibers Georg Frölich aus den <br/>ersten Tagen des Jahres 1547, in: Beiträge zur bayerischen <br/>Kirchengeschichte XXXII/1, 1925, 75-87
+<fa><i>Der von Roth veröffentlichte Text enthält einige Varianten gegenüber der an Bullinger gesandten Fassung. Ferner scheinen in der von Roth benutzten Vorlage die Argumente für und gegen eine Ergebung an den Kaiser im Schriftbild einander gegenübergestellt gewesen zu sein, was bei der an Bullinger übermittelten Fassung nicht der Fall ist.</i></fa></dr>
+<re><t>In 25 Punkten erwägt Frölich die Gründe, warum der Rat von Augsburg sich nicht Kaiser Karl V. widersetzen sollte, und welche Probleme auf Augsburg zukämen, wenn die Stadt sich nicht wie Ulm und andere Städte mit dem Kaiser verständigen würde. Diese Aufzählung wird mit einer Bemerkung
+<fa><i>Eine Bemerkung, die in der Fassung für Bullinger die Nr. 25 trägt, jedoch in der von Roth veröffentlichten Fassung dem letzten Punkt 24 angefügt wurde.</i></fa> über die Vertrauenswürdigkeit des Kaisers abgeschlossen und mit der Überlegung, dass, falls der Kaiser sich nicht an den Frieden halten würde, Augsburg frei wäre, sich dem Kaiser erneut zu widersetzen.</t>
+<t>Ebenfalls in 25 Punkten erläutert Frölich die Gründe, warum der Rat von Augsburg dem Kaiser keinen Gehorsam leisten sollte, und welche Probleme Augsburg hätte, wenn die Stadt sich wie Ulm und andere Städte mit dem Kaiser verständigen würde.</t></re>
+<text>
+<div> <pz><zentr/>Ursachen, <natr/>das ain ersamer ratte zu Augspurg sich der kay. mt. nitt <br/><zentr/>widersetzen soll,<natr/> unnd was für unrat daraus ervolge, wann man <br/><zentr/>ir nit wie<natr/> Ulm unnd annder stette gehorsame</pz>
+<lz/>
+<p>1. Die hailig schrifft will ...</p>
+<lz/>
+</div>
+<div> <pz><zentr/>Ursachen, warumb ain ersamer <natr/>rat zu Augspurg der kay. mt. inn <br/><zentr/>obgemeltem fall <natr/>nit gehorsamen soll, unnd was für unrat daraus ervolge, <br/><zentr/>wann man sich wie<natr/> Ulme unnd anndere ergebe</pz>
+<lz/>
+<p>1. Es ist war, man soll dem kunig ...</p>
+<lz/>
+<p>[Datum am Ende des Gutachtens:] 12. Januarii 1546.</p>
+<un>Georg Frölich, Stadtschreiber</un>
+<un>zu Augspurg.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] M. Heinrych Bullinger z{uo} Zürich.
+<fa><i>Daneben von unbekannter, zeitgenössischer Hand:</i> Bedencken von wegen der Aussönung, etc., 1547. <i>- Auf der Rückseite der von Roth veröffentlichten Fassung steht:</i> Warumb man sich mit der kai. mt. vertragen und nitt vertragen mag; <i>s.</i> Roth, <i>aaO, S. 73, Anm. 2.</i></fa></p>
+</div>
+</text>
+</brief>

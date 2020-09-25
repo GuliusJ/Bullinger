@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2555">
+<brief>
+<id>16243</id>
+<nr>2555</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 27. August 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 244 (neu: 262) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 106</k></dr>
+<re>Myconius hatte in der Eile kein besseres Papier zur Hand.
+<t/>Manche [protestantischen Eidgenossen] wollen den Reichsstädten helfen, egal, was die Fünf Orte dazu sagen. Bullinger soll auch die [Zürcher] dazu motivieren.
+<t/>Obwohl die Hessen Wache hielten, gelang dem Heer [von Maximilian von Egmont, Graf von Büren] die Rheinüberquerung bei Bingen.
+<t/>Im Sundgau und im Elsass herrscht aus unklarem Grund Aufregung. In Ensisheim baut man Verschanzungen aus Eichenholz.
+<t/>Der listige Kaiser [Karl V.] soll von Landshut nach Regensburg gezogen sein und vorhaben, nach Passau weiterzuziehen. Er versucht wohl, die Deutschen zu ermüden und ihre finanziellen Mittel zu erschöpfen, um im kommenden Jahr umso erfolgreicher gegen sie vorgehen zu können!
+<t/>Aus allen Orten wollen unzählige Schweizer gegen ihn ziehen. So kommen durch Basel sehr kampfbereite Zürcher, Berner, Bieler, Churer, Luzerner und Zuger. Viele aber müssen wieder zurückkehren, denn es fehlt am Geld. Ausländer, die den alten Brauch [des Reislaufens] nicht kennen, erwarten, dass die Eidgenossen ein Heer auf eigene Kosten aufstellen.
+<t/>Myconius empfiehlt den gelehrten Überbringer [Francisco de Enzinas].
+<t/>Gruß.</re>
+<text>
+<p>S. De charta, qu{e} primo venit in manus, ne cures, postquam festinandum fuit.</p>
+<p>Ex evangelicis
+<fn>Zu verstehen: Ex evangelicis Helveticorum.</fn> sunt, qui vires omnes sunt addicturi civitatibus imperii, quicquid dicant Quinquepagici. Tu fac idem tuis persuadeas.</p>
+<p>Exercitus, quicquid Hessi custodierint, Rhenum transiit apud oppidum Bingen.
+<fn>Zur Rheinüberquerung der von Maximilian von Egmont, Graf von Büren, angeführten Truppen s. <qv>nr2548</qv>, <qv>fn16237-3</qv>.</fn> Quid nunc sit facturus, nescio.</p>
+<p>Per Sungoviam et Alsatiam tumultuatur, quamobrem, ignoratur. <zzl>zl16243-3A</zzl>In primis ad Ensheim munitiones instituuntur roboribus quercinis.
+<fn>Zu den Kriegsvorbereitungen im Sundgau und im Elsass (u.a. in Ensisheim) s. schon Myconius' Mitteilungen in <qv>nr2540</qv>,<qv>zl16232-6</qv>.</fn><zzl>zl16243-3E</zzl></p>
+<p>C{e}sarem
+<fn>Karl V. war am 15. August aus Landshut abgereist und lag vom 17. bis 21. August vor Regensburg; s. <qv>nr2541</qv>, <qv>fn16429-4</qv>. Von dort aus zog er nicht in Richtung Passau, sondern nach Neustadt a.d. Donau und Ingolstadt weiter; s. <qv>nr2551</qv>, <qv>fn16240-2</qv>; <qv>nr2561</qv>,<qv>zl16252-4</qv>.<zfn>fn16243-1</zfn></fn> aiunt reliquisse Landsh{uo}tum, rediisse Ratisponam, nec ibi mansurum, sed Patavium abiturum. Mihi videtur in animo habere, ut pios Germanos delasset ac pecunia evacuet, ut in annum sequentem securius nos adgrediatur. Dico tibi, vir astu et malicia belligeratur contra dei homines!</p>
+<p><zzl>zl16243-2A</zzl>Helvetiorum ex omnibus pagis video esse paratos contra Carolum innumeros. Transeunt hac Tigurini, Bernenses, Bielenses, Curienses, Lucernani, Tugini vehementer alacres.
+<fn>Zu den eidgenössischen Söldnern s. <qv>nr2548</qv>, <qv>fn16237-1</qv>; <a>Gast, Tagebuch</a> 288f (unter dem 26. August); <a>PC</a> IV/1 351, Nr. 333.<zfn>fn16243-2</zfn></fn> Hic mihi dolet, quod multi coguntur redire domum, quia pecunia deest.<zzl>zl16243-2E</zzl> Et putant exteri, quod propriis sumptibus deberemus mittere exercitum iustum, ignorantes morem nostrum
+<fn>Gemeint ist das Reislaufen.</fn>, ad quem sumus adsueti, dum procul abimus, iam longo tempore. Nescio, quid inde possit tandem fieri.</p>
+<p><zzl>zl16243-1A</zzl>Hunc tibi commendo, qui literas fert, ut doctum
+<fn>Francisco de Enzinas; s. <qv>nr2554</qv>.</fn> valde.<zzl>zl16243-1E</zzl> Vale cum tuis. Basile{e}, 27. augusti anno 1546.</p>
+<un>Os. Myconius</un>
+<un>tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, in domino suo. Z[urich]
+<fa><i>Textverlust durch Entfernung des Siegels.</i></fa>.</p>
+</text>
+</brief>

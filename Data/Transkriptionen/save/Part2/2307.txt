@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2307">
+<nr>2307</nr>
+<correspondents>
+	<originator>Camillo Renato</originator>
+	<originator fn=1>Bartolomeo Maturo</originator>
+	<addressee>Bullinger ^$^$^$^$und die übrigen Pfarrer von Zürich</addressee>
+	<note fn=1>Bartolomeo Maturo (Lebensdaten unbekannt), Prior des Dominikanerkonvents zu Cremona, floh aus Glaubensgründen wohl 1528 ins Veltlin, wo er im Sinne der Reformation predigte. 1529 wurde er aus dem Tal verwiesen. Er predigte daraufhin in Vicosoprano (Bergell). 1547 verließ er aus unbekannten Gründen seine Stelle, soll weiter in Scharans (Domleschg) gewirkt haben und dort auch gestorben sein. - Lit.: Petrus Dominicus Rosius ^#/+a Porta,^#/- Historia Reformationis Ecclesiarum Raeticarum, Chur 1771, Bd. 1/1, 158; I/2 14; 27-30; Z X 229-231, Nr. 884 und Anm. 4; Vadian BW IV, S. 178f, Nr. 571; Emil ^#/+Camenisch,^#/- Geschichte der Reformation und Gegenreformation in den italienischen Südtälern Graubündens und den ehemaligen Unterlanden Chiavenna, Veltlin und Bormio, Chur 1950, S. 67-71.</note>
+</correspondents>
+<space_time>
+	<place>Vicosoprano</place>
+	<date>19. Dezember 1545</date>
+</space_time>
+<vo>Autograph von Renato: Zürich StA, E II 335, 2076 (ohne Siegel)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 157; Zit./Erw.: Trechsel, Protestantische Antitrinitarier II, 1844, 85 (A 2); Ferdinand Meyer, Die evangelische Gemeinde in Locarno, Bd. 1, 1836, 159; JSG 27, 1902, 164; Cantimori, Eretici 51/Haeretiker, 1949, 45f (A 3); Dalbert, 1948, 27, 60; Rotondò, Renato-Opere 303 ^&x{
+<re>Renato freut sich über seine gute Beziehung zu Bullinger. Diese möge bestehen bleiben.
+Grund für den vorliegenden Brief ist sein und Bullingers Anliegen, das Evangelium zu befördern. Er und sein Kollege Bartolomeo [Maturo], Prediger im Oberbergell, empfehlen wärmstens den Bruder Gabriele, der das Evangelium in Morcote (in der Region Lugano) gepredigt hat, an Bullinger, Johannes Rivius [wohl Frisius], [Konrad] Pellikan und an die anderen Zürcher Kollegen. Der Erfolg, den Gabriele beim Predigen des Evangeliums hatte, führte zu seiner Ausweisung. Nun möchte Gabriele den Zürchern die Situation dieser Region und die positiven Folgen eines etwaigen Beitrittes Luganos und Locarnos zum Evangelium darlegen. Er erhofft sich dabei Rat und Hilfe, um dank des Einflusses und der diplomatischen Unterstützung der Zürcher bald wieder ehrenhaft zu seinen Brüdern [in Morcote] zurückkehren zu dürfen.
+-^#. Grüße. Bullinger möchte Renatos letzten Brief [Nr. 2279] beantworten. Mögen sich beide im Interesse des Evangeliums einig werden.</re>
+<dra>[Gedruckt: Epistolae ineditae, in: Museum Helveticum V/19, Zürich 1751, 477f; Graubünden, Korr. I 90f, Nr. 65; ^#/+Renato,^#/- Opere 154-156, Nr. 8.]</dra>
+^&x<tx>Camillus Renatus et Bartholomęus Maturus Cremonensis Henrico Bullingero cęterisque optimis viris pacem a domino.
+^$Ex omnibus tuis literis intellexisse videor neque fallor, humanissime Henrice,
+quanti me facias quantumque mihi de te sive mea sive aliorum causa polliceri possim.
+Id plane hactenus pro comperto habui atque semper (faxit deus) habiturum spero.
+Verum etiamsi fortuna incidisset, qua te mihi scirem (avertat deus omen) omnia negaturum,
+harum tamen ea nunc est ratio literarum, ut vel iudicio tuo abs te, quicquid id est, invito<fx>invito ^#/+korrigiert von Traugott Schieß; Gaubünden, Korr. und Rotondò:^#/- merito.<fe> sim inpetraturus,
+nempe cuius omne studium, diligentia ac opera est in promovenda Christi et evangelii disciplina.
+In causa hęc sunt: Gabriel<f1>Fra Gabriele (^#/+Meyer,^#/- Locarno I 156-159; Rotondò 155; von Negri am 24. und Blasius am 25. Dezember an Bullinger weiter empfohlen).<fe> hic frater noster, evangelii et ipse minister,
+de quo optime auditur, evangelium aliquandiu in regione Luganensi, quę sub Helvetiorum ditione continetur,
+in loco, qui dicitur Murchot<f1>Morcote.<fe>, publice professus est ea opera ac fructu,
+ut et Christo non parum glorię accesserit et impii ex evangelio magnam plagam acceperint.
+Hinc turbę, hinc pericula, hinc quorundam calumniis eiectus est.
+Ad vos nunc ipse, evangelii propagandi studiosissimos ministros, accurrit rem omnem expositurus,
+quonam statu res evangelii sint illis in locis, quę spes, quis fructus ex adiectis quoque oppidis
+Lugano et Lucarno<f1>Locarno.<fe> paratus sit, eoque animo, ut vestris ad eam rem consiliis atque opera usus,
+unde impiorum invidia eiectus est, eo tandem piorum consolatione restituatur ad absolvendum ministerium.
+Quam ob rem ego ac Bartholomęus, evangelicus Superioris Pręgallię<f1>Ober-Bergell.<fe> minister,
+te, Io[annem] Rivium<f1>Wohl Johannes Fries.<fe>, Pellicanum cęterosque ecclesię Tigurinę ministros, gratiosissimos fratres,
+vehementer rogamus atque per dominum nostrum I[esum] Christum obsecramus, ut eiecto iam fratri Gabrieli,
+quibuscunque in rebus opus erit, vestra autoritate et gratia, vestro studio et opera commodetis,
+quo citius honorificentiusque cupidissimis fratribus restituatur, idque citra bonorum iniuriam, diplomate a vestri imperii moderatoribus impetrato.
+Eam rem vos studiosissime curaturos, ut valde optamus, ita certo speramus.
+^$Valete in domino. Salutant vos hinc fratres omnes.
+Tu vero, mi Bullingere, ad superiores literas<f1>Oben Nr. 2279.<fe> mihi, rogo ex animo, respondeas,
+ut inter nos aliquando cum evangelii fructu conveniat. Iterum vale.
+^$Ex Vico Suprano Superioris Pregallię, 19. decembris 1545.
+<lz>[Adresse ................:] Henrico Bullingero ac optimis fratribus nobis in domino charissimis. Tiguri.^&x{
+</content>
+</letter>

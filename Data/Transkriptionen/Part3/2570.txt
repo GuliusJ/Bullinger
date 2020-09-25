@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2570">
+<brief>
+<id>16427</id>
+<nr>2570</nr>
+<ae>[Bullinger an Ambrosius Blarer]
+<fn>Diese undatierte Beilage wurde von Rainer Henrich entdeckt. Aus unten Z. <qv>zl16427-2</qv> geht hervor, dass sie nicht für den Konstanzer Rat, sondern für Blarer bestimmt war. Dies wird zudem durch die Existenz einer Beilage Blarers bestätigt, die sich auf die vorliegende Beilage bezieht; s. <qv>nr2577</qv>,<qv>zl16266-19</qv> (dort besonders Z. <qv>zl16266-17</qv>).</fn></ae>
+<od>[Zürich, 7. oder 8. September 1546]
+<fn>Belege für das Gerücht einer vom Papst geplanten Wasservergiftung findet man in Deutschland erst gegen Ende des Monats August 1546. Daraufhin ließen am 30. August Kurfürst Johann Friedrich I. von Sachsen und Landgraf Philipp von Hessen diesbezüglich eine Warnung ausgehen; s. <qv>nr2576</qv>, <qv>fn16265-9</qv>. Am 1. September warnte auch der Konstanzer Rat den Zürcher Rat vor der Wasservergiftung (Zürich StA, A 205/1, Nr. 223). Erst ab Anfang September wird also Bullinger einen Zusammenhang zwischen dem hier bezeugten Transport (der schon vor zwei Wochen erfolgt war) und dem Gerücht einer geplanten Brunnenvergiftung gesehen haben können. In der undatierten Beilage, mit der Blarer auf vorliegende Warnung reagierte, ist ferner eine Weiterbeförderung von Briefen Bullingers durch Blarer erwähnt, die für Augsburg bestimmt waren; s. <qv>nr2577</qv>,<qv>zl16266-16</qv>. Da sich darunter Bullingers Briefe an Haller vom 7. (<qv>nr2571</qv>) und 8. (nicht erhalten) September befanden (s. <qv>nr2577</qv>, <qv>fn16266-11</qv>) und da zudem für diese Tage ein nicht erhaltener Brief Bullingers an Blarer bezeugt ist (s. <qv>nr2577</qv>, <qv>fn16266-3</qv>), wird vorliegende Beilage diesem nicht mehr erhaltenen Brief beigelegt worden sein.<zfn>fn16427-1</zfn></fn></od>
+<vo>Autograph: [Brief:] fehlt; [Beilage:] Konstanz Stadtarchiv, <br/>Ref. A. Fasc. 27, S. 889
+<fn>Angesichts des heutigen Standortes ist anzunehmen, dass Blarer Bullingers Beilage dem Konstanzer Rat weitergeleitet hat.</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Vor zwei Wochen fuhr ein Wagen auf dem Weg von Italien nach den Niederlanden durch [Zürich]. Dabei platzte ein [auf dem Wagen befindlicher Waren]ballen auf, und der Inhalt fiel heraus. Als diejenigen, die beim Aufräumen geholfen hatten, sich mit den Händen berührten, litten sie an Schmerzen. [Hans] Jakob Stampfer identifizierte [daraufhin] das Produkt als giftiges, mit Schwefelsäure vermischtes Quecksilber.
+<t/>Man soll Augsburg benachrichtigen, damit das [schmalkaldische] Lager auf der Hut sei. Bullinger, der erst am Abend zuvor davon erfuhr, befürchtet dabei einen mörderischen Anschlag des Papstes [Paul III.].</re>
+<text>
+<p>[Brieftext fehlt.]</p>
+<lz/>
+<p>[Beilage:]</p>
+<p><zzl>zl16427-2A</zzl>Lieber Herr und Br{uo}der,<zzl>zl16427-2E</zzl> vor 14 tagen ist hie durch, uß Italia hinab
+<fn>Richtung Norden.</fn> in den Niderland, durchgfaren ein wagen. Ist ein ballen
+<fn>Warenballen.</fn> druff brochen. Ist mercurius sublimatus
+<fn>mit Vitriolöl (Schwefelsäure) vermischtes Quecksilber; s. Johann Heinrich <i>Zedler,</i> Grosses vollständiges Universal-Lexicon Aller Wissenschaften und Künste, Bd. 20, Halle und Leipzig 1739, Sp. 971.</fn> hinuß gefallen viel. Alls ettliche burger z{uo}gfaren
+<fn>herbeigelaufen sind.</fn> und es uffgescharbet
+<fn>zusammengekratzt haben.</fn> und wider in die ballen gelegt, und sich anger{ue}rt, hatt es inen weethumb
+<fn>Schmerzen.</fn> bracht. Zeletzt hatt m. Jacob Stampff
+<fn>Hans Jakob Stampfer, Zürcher Goldschmied, Medailleur und Stempelschneider sowie Ratsmitglied.</fn> die Sach bes{ae}hen und gesagt, das es gifft sye, etc. Des ist vil.
+<fn>Des ist vil: Davon gibt es eine große Menge.</fn></p>
+<p><zzl>zl16427-1A</zzl>Dorumb schribend hinab uff Augspurg, das man sich h{ue}t imm leger
+<fn>ins schmalkaldische Truppenlager. - Der Konstanzer Rat benachrichtigte am 10. September den Kriegsrat in Ulm, der daraufhin nach Augsburg schrieb, damit das schmalkaldische Lager davon in Kenntnis gesetzt würde; s. <a>PC</a> IV/1 354, Anm. 6; <a>Roth, Augsburg</a> III 430f, Anm. 81; <a>PA</a> III 597, Nr 2984.<zfn>fn16427-2</zfn></fn>.<zzl>zl16427-1E</zzl> Ich fürcht des Bapsts list unnd mord. Habs erst n{ae}cht
+<fn>gestern Abend, also am 6. oder 7. September.</fn> vernommen.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</text>
+</brief>

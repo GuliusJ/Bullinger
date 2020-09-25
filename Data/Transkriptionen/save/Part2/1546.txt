@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1546">
+<nr>1546</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>nach Mitte Juli 1541]</date>
+	<note>Der Brief spiegelt den Stand der abschließenden Verhandlungen des Regensburger Reichstags kurz nach Mitte Juli, der Abschied vom 29. Juli lag Zwick aber offenbar noch nicht vor.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 23 (Siegel)</vo>
+<vo>Kopien: Zürich ZB, Ms S 50<f1>41 und 42; verz.: Moeller Nr. 248.<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Berichtet nur ganz kurz über den Ausgang des [Regensburger] Reichstags, da gerade ein Bote [nach Zürich] aufbricht. Die
+Protestanten lehnen Teile des [Regensburger] Buches ab und verlangen weitere Erläuterungen. Die Fürsten sind
+gespalten; einige verurteilen das Buch scharf. Die Mehrheit der katholischen Städte hat ihm zugestimmt. Kaiser [Karl V.]
+gesteht einen Stillstand bis Januar zu, und die Protestanten bewilligen Hilfe gegen den Türken [Suleiman I.].
+Gruß. Erkundigt sich nach der Zahl der Pfarrer in der Stadt Zürich.
+</re>
+<tx>Salus.
+^$Cum iam in portu sit auriga<f1>Unbekannt.<fe>, nuntiat se abiturum; ne ergo<fx>^#/+Vor^#/- ergo ^#/+gestrichenes^#/- n.<fe> nihil a me habeas, paucis finem comitiorum<f1>D. h. des Regensburger Reichstags.<fe> tibi fratribusque significo, sed raptim.
+^$Librum a cęsare<f1>Karl V.<fe> pro ineunda concordia oblatum<f1>Zum Regensburger Buch vgl. oben Nr. 1523, Anm. 31 und 33.<fe> nostri constanter in multis negaverunt recipere, in quibusdam plus declarationis exigunt.<f1>Vgl. die dem Kaiser am 12. Juli überreichte Stellungnahme der Protestanten
+(CO IV 476-505, Nr. 2300-2302).<fe>
+^$Principes scissi sunt, sed<fx>^#/+Vor^#/- sed ^#/+gestrichenes^#/- it.<fe> ita, ut quidam concordiae librum ad corvos<f1>Adagia, 2,
+1, 96 (LB II 446).<fe> usque condemnent.<f1>Zu den Meinungsverschiedenheiten unter den Kurfürsten und Fürsten und
+ihren uneinheitlichen Stellungnahmen vom 17. Juli (ARCEG III 395-407, Nr. 126-129) s. Albrecht Pius ^#/+Luttenberger,^#/-
+Glaubenseinheit und Reichsfriede. Konzeptionen und Wege konfessionsneutraler Reichspolitik 1530-1552 (Kurpfalz, Jülich,
+Kurbrandenburg), Göttingen 1982. - Schriftenreihe der Historischen Kommission bei der Bayerischen Akademie der
+Wissenschaften 20, S. 233-237. Am entschiedensten verwarf Herzog Wilhelm von Bayern das Buch; s. Joachim ^#/+Lauchs,^#/- Bayern und
+die deutschen Protestanten 1534-1546. Deutsche Fürstenpolitik zwischen Konfession und Libertät, Neustadt a.d. Aisch 1978. -
+Einzelarbeiten aus der Kirchengeschichte Bayerns 56, S. 186-189.<fe>
+^$Urbium papisticarum pars maior recepit librum sperans vel hac saltem ratione viam aliquam evangelio paratam.<f1>Die Mehrheit
+der Reichsstädte sprach sich am 18. Juli gegenüber dem Kaiser dafür aus, die nicht umstrittenen Artikel des Regensburger
+Buches zusammen mit der Stellungnahme der katholischen Kolloquenten zu veröffentlichen (s. CO IV 552f, Nr. 2318).<fe>
+^$Dat interim cesar inducias pacis ad ianuarium usque, et
+nostri auxilium contra Turcam<f1>Sultan Suleiman I.<fe> praestant.<f1>Nachdem der Kaiser einen Waffenstillstand von
+sechs Monaten in Aussicht gestellt hatte, stimmten die Protestanten am 9. Juli unter Vorbehalten und am 16. Juli
+definitiv der eilenden Türkenhilfe zu; s. PC III 195f; Paul ^#/+Heidrich,^#/- Karl V. und die deutschen Protestanten am
+Vorabend des Schmalkaldischen Krieges, Bd. 1, Frankfurt 1911. - Frankfurter Historische Forschungen 5, S. 30f. 36.<fe>
+^$Vale cum Pellicano, Leone<f1>Leo Jud.<fe>, Theodoro<f1>Theodor Bibliander.<fe> et reliquis omnibus.
+<un>Tuus Io. Zvick.
+<lz>Scribe ad me, obsecro, quot verbi dei ministros habeatis
+in urbe vestra, non agro etc.; causam alias [adda]m<fx>^#/+Der erste Teil des Wortes auf der Unterseite des ausgeschnittenen Siegels.^#/-<fe>.<f1>Siehe unten Nr. 1560, 7-14.<fe>
+<lz>[Adresse auf der Rückseite:] Domino Hainricho
+Bullingero, Tigurinae ec­clesię pastori, fratri suo.
+^&x Simon Grynäus an HB, "Scripsi hoc tempore ad
+vos rarius", [um 1. August 1541] (so Zürich ZB, Ms S 50,
+30); siehe: Ende Oktober 1539. - Grynäus an HB, "Hos fratres
+commendo" (so Ms S 50, 31); s. Ende Okt. 1538.^&x{
+</content>
+</letter>

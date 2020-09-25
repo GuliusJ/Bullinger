@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2670">
+<brief>
+<id>16357</id>
+<nr>2670</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-11-11"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 11. November 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 245 (neu: 263) (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 73</k></dr>
+<re><t>Bullinger hat schreckliche Nachrichten [nicht erhalten] geschickt, die Myconius zum Weinen brachten. Dem Herrn sei Dank, weil er für sein Wort und für die [Schmalkaldener] kämpft! Wie ärgerlich, dass der Urheber dieser Grausamkeiten [Kaiser Karl V.] nicht gefasst werden kann! Möge der Herr ihm den Untergang bescheren, den er verdient, denn es wird wahrlich schlimm!</t>
+<t>Kaufleute aus Antwerpen haben berichtet, dass sie auf ihrer Reise nach Basel immer wieder Soldaten begegnet sind, die aus dem kaiserlichen Lager kamen. Die Bauern aber sollen sich zusammenschließen und jene Söldner umbringen, die wie Italiener und Spanier gekleidet sind.</t>
+<t>Herzog Christoph von Württemberg berichtet viel Gutes über den französischen [König Franz I.]. Er ist der Meinung, dass sich dieser gegen den Kaiser stellen und sogar für das Evangelium einsetzen würde, wenn er jünger wäre. Doch Myconius zweifelt daran. Fest steht hingegen, dass [Johann Heinrich Ryhiner?] aus Paris berichtet, wie im Städtchen Meaux, ca. [45 km] von Paris entfernt, etwa 60 [protestantische] Männer, Frauen und Jugendliche verhaftet und auf Veranlassung der Sorbonne zusammen mit ihrem Lehrer [Pierre Leclerc] vor den Pariser Hof [zum Verhör] gebracht wurden. Einige schworen aus Angst [ihrem Glauben ab] und wurden verbannt, während andere standhaft blieben und zum Feuertod in ihrer Heimatstadt verurteilt wurden. Als Letztere durch Meaux zogen, lobten sie Gott mit lauter Stimme, weil sie für würdig gehalten wurden, für ihren Herrn zu sterben. Auf Beschluss des Pariser Parlaments hin wurde das Haus [von Pierre Leclerc] abgerissen und aus dem daraus gewonnenen Holz der Scheiterhaufen errichtet. Auch das Haus [von Estienne Mangin], in dem die Gläubigen sich versammelten, wurde zerstört und an dessen Stelle eine mit Götzenbildern ausgeschmückte Kapelle zur Anbetung des Teufels erbaut. Der Berichterstatter hat die Verurteilten selbst durch die Stadt ziehen gesehen und ihre Rufe zu Gott gehört.</t>
+<t>Was Bullinger in seinem früheren Brief [<qv>nr2659</qv>] über Herzog Moritz [von Sachsen] berichtete, ist frevelhaft; ja niemand glaubt es! Man weiß aber, dass der Kaiser dem Herzog die Kurwürde versprochen hat, wenn dieser sich für ihn einsetzt. Dies erfüllt Myconius mit Angst, denn er weiß, was Ehrgeiz bewirken kann.</t>
+<t>Es wird als verbürgt berichtet, dass [Nicolas Perrenot, Herr von] Granvelle, kürzlich durch Basel gereist sei und beim Bischof von Basel [Philipp von Gundelsheim] übernachtet habe. Sollte dies stimmen, wird die Sache des Kaisers wohl anders als vermutet stehen.</t>
+<t>Die Berner haben 10'000 Soldaten zum großen Banner unter der Führung von [Schultheiß Hans Jakob] von Wattenwyl einberufen; Leutnant ist der Venner [Wolfgang von] Wingarten, Fähnrich [Peter] Thormann, der stärkste Mann, den Myconius je gesehen hat.</t>
+<t>Aus Straßburg trafen zwei Schreiben ein, von denen das erste berichtet, dass der Kaiser einen großen Teil seines Heeres entlassen habe, während das zweite
+besagt, dass 500 Reiter zu [den Schmalkaldenern] übergelaufen wären.</t>
+<t>Grüße.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16357-4A</zzl>Horrenda mittis
+<fn>Mit einem nicht mehr erhaltenen Brief (unten Z. <qv>zl16357-2</qv> wird ein weiterer Brief Bullingers verdankt). - Angesichts des nächsten Satzes und der am nächsten Tag geäußerten spöttischen Bemerkung von Myconius über die katholischen Adligen der Region um Basel, die sich eines Sieges des Kaisers sicher waren (s. <qv>nr2672</qv>,<qv>zl16359-5</qv>), kann Bullingers Mitteilung nicht eine schlechte Nachricht über einen ungünstigen Verlauf des Krieges für die Schmalkaldener vermittelt haben. Vermutlich aber sandte Bullinger eine Abschrift des bedrückenden Berichts des Landgrafen Philipp von Hessen über die zurückgelassenen kranken und halbverbrannten Söldner im kaiserlichen Lager; s. <qv>nr2655</qv>, <qv>fn16344-2</qv>.<zfn>fn16357-1</zfn></fn>! Gratias agamus domino, qui pugnat pro verbo suo atque adeo pro nobis. Is largiatur, ut ingratitudine ipsum
+<fn>verbum domini.</fn> non amittamus. Non potui legere ista tua sine lachrymis.<zzl>zl16357-4E</zzl> <zzl>zl16357-5A</zzl>Miserum interea, quod, qui illarum crudelitatum author
+<fn>Kaiser Karl V.</fn> est, nequit prehendi! Insectetur eum dominus, donec pereat, ut dignus est! Vere rem malam coepit.<zzl>zl16357-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16357-6A</zzl>Narrant mercatores quidam Antwerpiani, quod, dum huc sint profecti, milites a c{e}sare obviam venisse non paucos; occidi autem a rusticis concurrentibus quicunque vestitu Hispanum vel Italum referat.<zzl>zl16357-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16357-7A</zzl>Bona multa dicit dux Wirtembergensis Christophorus de Gallo
+<fn>Franz I. - Herzog Christoph von Württemberg hatte sich im Oktober am französischen Hof aufgehalten; s. <qv>nr2658</qv> und <qv>fn16347-9</qv>.</fn>. Arbitratur, si iunior esset, contra c{e}sarem mira tentaturum, imo pro evangelio. Quam verum hoc sit, nescio.<zzl>zl16357-7E</zzl> <zzl>zl16357-1A</zzl>Illud verissimum, nam ex Parisiis ad me
+<fa><i>Über der Zeile nachgetragen.</i></fa> scriptum
+<fn>Vielleicht durch Johann Heinrich Ryhiner, der Myconius bereits mit einem Brief vom 10. August (Zürich ZB, Ms. F 81, 524) aus Paris über dortige Protestantenverfolgungen informiert hatte. - Wir danken Rainer Henrich für diesen Hinweis.<zfn>fn16357-2</zfn></fn> in hunc modum:
+<fn>Zu den Hinrichtungen von 14 Protestanten in Meaux am 6. Oktober 1546 s. oben <qv>nr2645</qv>, <qv>fn16335-1</qv>.</fn> Est oppidulum a Parisiis distans leucis
+<fn>Von leuca, -ae, f.: französische Meile, die der Hälfte bis 3/5 einer deutschen Meile (welche 7 bis 8 km beträgt) entspricht; s. <i>Zedler</i> XVII 539; XX 307.<zfn>fn16357-3</zfn></fn> 12, non amplius. Meos
+<fn>Meaux, etwa 45 km östlich von Paris.</fn> vocatur. In quo fuerunt deprehensi circiter 60 viri, mulieres et iuvenes dominum cognoscentes.
+<fn>Jean <i>Crespin</i>, Histoire des martyrs (1619), Toulouse 1885, S. 495f, listet namentlich 62 Gefangene auf.</fn> Sorbona id suspicans effecit, ut captivi ducti sint una cum suo doctore
+<fn>Pierre Leclerc, der protestantische Pfarrer der Gemeinde von Meaux; s. <i>Crespin</i>, aaO, S. 494.<zfn>fn16357-4</zfn></fn> ad aulam Parisiensem.
+<fn>Crespin erwähnte nicht die Überführung der Gefangenen nach Paris auf Veranlassung der Sorbonne, aber die Begleitung der zum Tode Verurteilten auf dem Rückweg nach Meaux durch zwei Doktoren der Sorbonne, François Le Picart und Nicolas Maillard; s. <i>Crespin</i>, aaO, S. 499; James K. <i>Farge,</i> Biographical Register of Paris Doctors of Theology 1500-1536, Toronto 1980 - Subsidia mediaevalia 10, S. 262-266, Nr. 292; S. 296-301, Nr. 323.</fn> Examinati quidam desciverunt formidine poen{e},<fn>Siehe z.B. Religion, Reformation and Repression in the Reign of Francis I. Documents from the Parlement of Paris, 1515-1547, hg. v. James K. Farge, Bd. 2: Documents 1544-1547, Toronto 2015, Nr. 997, S. 1099-1101; Nr. 1038, S. 1144.</fn> quidam perstiterunt. Hi condemnati ad ignem,
+<fn>Die Namen der 14 zum Tode Verurteilten finden sich in <i>Crespin</i>, aaO, S. 496.</fn> illi in exilium eiecti sunt. Condemnati ad suum oppidum remissi sunt. Hi, ubi transierunt urbem, magna voce laudarunt deum, quod digni habiti sint, ut moriendum sit
+<fa><i>Über der Zeile nachgetragen.</i></fa> pro domino suo.<fn>Vgl. Phil 1, 29.</fn> Decreto senatus Parisiensis {e}des doctoris destruct{e} et ex lignis earum extructus rogus, in quo exurendi erant illi.
+<fn>Nicht in <i>Crespin</i>, aaO.</fn> Alia domus, in qua semper convenerant pii,
+<fn>Nämlich im Haus von Estienne Mangin; s. <i>Crespin</i>, aaO, S. 494.</fn> destructa est et in locum eius sacellum erectum et idola imposita, ut illic homines adorent diabolum.
+<fn>Laut <i>Crespin</i>, aaO, S. 497f, handelte es sich um eine Kapelle zur Anbetung des Heiligen Sakraments.</fn> Qui scripsit,
+<fn>Siehe oben <qv>fn16357-2</qv>.</fn> oculis vidit per urbem transeuntes et auribus audivit clamantes ad dominum.<zzl>zl16357-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16357-8A</zzl><zzl>zl16357-2A</zzl>De Mauricio duce
+<fn>Moritz von Sachsen.</fn> in prioribus tuis
+<fn>Im Brief <qv>nr2659</qv> (dort Z. <qv>zl16348-1</qv>) vom 5. November, der vor dem oben in Z. <qv>zl16357-4</qv> erwähnten Brief verfasst worden war.</fn><zzl>zl16357-2E</zzl> sunt impia vehementer, at nemo credit! Constat tamen c{e}sarem illi fere promisisse munus ac dignitatem electoris,
+<fn>Zur Übertragung der sächsischen Kurwürde von Johann Friedrich I. von Sachsen auf Moritz durch den Kaiser Ende Oktober s. <a>Moritz von Sachsen PK</a> II/2 480 sowie Nr. 1044, 1047, 1057, 1058a.</fn> si pro se fortiter agat. Et hoc me valde terret, nam novi, quo homines praecipitet ambitio.<zzl>zl16357-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16357-3A</zzl>Pro certo refertur Granvelam
+<fn>Nicolas Perrenot, Herr von Granvelle.</fn> his diebus hac transiisse
+<fn>Ausführlicheres dazu in <qv>nr2672</qv>,<qv>zl16359-2</qv> und <qv>fn16359-2</qv>.</fn> et recta profectum ad episcopum Basiliensem
+<fn>Philipp von Gundelsheim.</fn> et apud eum pernoctasse.<zzl>zl16357-3E</zzl> Ubi quidem ego: Si hoc est verum, c{e}saris res aliter se habent, quam credatur.</p>
+</div>
+<div>
+<p><zzl>zl16357-9A</zzl>Bernenses, si nescis, ad signum maius elegerunt 10'000. Dux est consul Vadevillius
+<fn>Schultheiß Hans Jakob von Wattenwyl.</fn>; loci tenens signifer Wingarterus
+<fn>Der Venner Wolfgang von Wingarten.</fn>; vexillifer Tormannus
+<fn>Fähnrich Peter Thormann.</fn>, quo viro non vidi robustiorem unquam.
+<fn>Siehe hierzu Anton von <i>Tillier</i>, Geschichte des eidgenössischen Freistaates Bern von seinem Ursprunge bis zu seinem Untergange im Jahre 1798, Bd. 3, Bern 1838, S. 382.</fn><zzl>zl16357-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16357-10A</zzl>Duo scripta sunt ex Argentina. Prius: C{e}sarem magnam partem exercitus dimisisse;
+<fn>Vgl. dazu <qv>nr2671</qv>, <qv>fn16358-1</qv>.</fn> alterum: 500 equites defecisse ad nostros.<zzl>zl16357-10E</zzl></p>
+</div>
+<div>
+<p>Vale cum bonis omnibus. Basile{e} raptim, in festo Martini anno 1546.</p>
+<un>Tuus Os. Myconius.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, doctissimo optimoque Christi ministro, domino in Christo venerando suo.</p>
+</div>
+</text>
+</brief>

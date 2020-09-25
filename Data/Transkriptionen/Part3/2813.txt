@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2813">
+<brief>
+<id>17164</id>
+<nr>2813</nr> <from persid="ZwickKonrad"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-02-13"/>
+<ae>Konrad Zwick an [Bullinger]
+<fn>Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn></ae>
+<od>[Konstanz, 13. Februar] 1547
+<fn>Zur Abfassungszeit dieses Briefes wusste Zwick noch nicht (s. unten Z. <qv>zl17164-7</qv>), dass Johann von Naves in der Nacht von Samstag auf Sonntag den 19./20. Februar sterben würde oder gestorben war (s. dazu <qv>nr2824</qv>, <qv>fn17090-1</qv>). Doch spätestens Freitag den 25. war dies in Konstanz bekannt; s. <qv>nr2824</qv>,<qv>zl17090-10</qv>. Da vorliegender Brief an einem Sonntag verfasst wurde (s. unten Z. <qv>zl17164-8</qv>), ist er also nicht später als auf den 20. Februar anzusetzen. Wegen der Angabe in unten Z. <qv>zl17164-5</qv> über Granvelles Abreise in Richtung Burgund muss vorliegender Brief nach Sonntag den 6. Februar entstanden sein. In unten Z. <qv>zl17164-4</qv> wird ein Aufenthalt des Zürcher Ratsherren Georg Müller in Konstanz vorausgesetzt. Zwischen dem 6. und dem 20. Februar ist dieser am 11. in Konstanz bezeugt (s. <qv>nr2800</qv>, <qv>fn17068-8</qv>). Demzufolge kämen als Abfassungsdaten nur die Sonntage 13. und 20. in Frage. Da der Brief eine Nachricht über die Ende Januar in Ulm gesichtete eidgenössische Gesandtschaft übermittelt (s. <qv>nr2790</qv>,<qv>zl17057-7</qv>), nach welcher die Zürcher sich schon am 2. Februar bei den Konstanzern erkundigt hatten (s. <qv>nr2787</qv>,<qv>zl17058-5</qv> - dort bes. Z. <qv>zl17058-7</qv>) und wegen der Angabe in unten Z. <qv>zl17164-11</qv> über Granvelles Reise durch Stockach ist das Datum vorliegenden Briefes eher auf Sonntag 13. Februar anzusetzen.<zfn>fn17164-1</zfn></fn></od>
+<vo>Autograph: Zürich StA, E II 364, 86-87 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 102 (eingeordnet im Februar 1547 - was auch richtig ist!)</k></dr>
+<re><t>Zwick legt seinem Brief ein Schreiben aus Ulm bei, das Bullinger mit dem gegenwärtigen Boten [...] wieder zurückschicken soll.</t>
+<t>Der Brief Kaiser Karls V. [an die Eidgenossen] ist ganz bestimmt nach Luzern gelangt. Er wurde dem St. Galler Marti Hux vorgelesen, wie Vadian dies Bullinger wohl mitteilen wird.</t>
+<t>Georg Besserer hat, wie aus dem beigelegten Brief hervorgeht, Zwick nicht geschrieben. Es könnte aber sein, dass er an Marcell Dietrich von Schankwitz geschrieben hat.</t>
+<t>Beiliegend eine aus Nürnberg kommende Aufzeichnung über das Heer von Kurfürst Johann Friedrich von Sachsen, die Bullinger ebenfalls zurückschicken soll.</t>
+<t>2'000 spanische Soldaten wurden nach Biberach verlegt und haben sogleich bei ihrer Ankunft die Stadtschlüssel gefordert.</t>
+<t>Bullinger wird von Georg Müller über Zwicks Plan erfahren haben.</t>
+<t>Nicolas Perrenot, Herr von Granvelle, ist auf dem Weg nach Burgund und durch Stockach gereist.</t>
+<t>Schon zwei Mal hat sich Hans Jakob von Landau als Vermittler zwischen Konstanz und dem Kaiser aufgedrängt. Er bot sich an, die Konstanzer am nächsten Dienstag [15. Februar] in Sipplingen oder auf der Mainau zu treffen, falls einige Ratsherren unschlüssig wären. Er schrieb, dass auch Granvelle von jeglicher Verzögerung abrät. Mit Gottes Hilfe bemühen sich aber die Konstanzer eher, die Kontaktaufnahme mit dem Kaiser aufzuschieben.</t>
+<t>Man hört aus Basel, dass Wolfgang Rehlinger sich nach Ulm begeben habe, um sich dort für die Straßburger einzusetzen, ja dass Granvelle bereits auf dem Weg nach Straßburg sei. Andere sagen, dass Rehlinger eine Hochzeit zwischen einem Sohn des Granvelle und einer Tochter des badischen Markgrafen [Ernst I.] zu arrangieren versuche.</t>
+<t>Während eines Gesprächs mit Peter Scher d.J. von Schwarzenburg sagte Johann von Naves diesem, dass dessen Vater, Peter Scher d.Ä., sich beim Kaiser noch beliebter machen würde, wenn er die Straßburger dazu brächte, sich mit dem Kaiser zu verständigen. Denn auch wenn sie sich mit König Franz I. verbinden würden, wären sie noch nicht aus der Klemme.</t>
+<t>Dem gegenwärtigen Boten ist kein Lohn zu geben, da Zwick diesem bereits einen Zuschuss von 12 Schillingen gewährt hat. Georg Müller soll sich keine Sorgen machen; Zwick hält ihm nichts vor.</t>
+<t>Bullinger bete für Zwick. Sonntag nach der Hauptmahlzeit. 1547.</t></re>
+<text>
+<div>
+<p>Gottes gnad mit uns. <zzl>zl17164-1A</zzl>Von Ulm wirtt mir geschriben der aidgnosischen bottschafft und anderer sachen halb,
+<fn>Siehe dazu <qv>nr2787</qv>,<qv>zl17058-5</qv>; <qv>nr2790</qv>,<qv>zl17057-7</qv>. - Der hier übersandte Brief aus Ulm wurde nicht ermittelt.</fn> wie ir uß byligendem brief z{uo} vernemen habent. Das wellend mir by z{oe}gern
+<fn>by z{oe}gern: mit dem (unbekannten) Briefüberbringer.</fn> wider schicken.<zzl>zl17164-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-2A</zzl>Des kaisers
+<fn>Karl V. - Gemeint ist dessen Brief an die XIII Orte vom 18. Januar, der erst um den 28. Januar in der Eidgenossenschaft bekannt wurde; s. <qv>nr2801</qv>, <qv>fn17069-3</qv>.</fn> schriben ist gen Lutzern gewisslich kummen. Marte Hux
+<fn>Der St. Galler Ratsherr Marti Hux, der oft von seiner Stadt als Abgeordneter an die Tagsatzungen zu Baden gesandt wurde; s. <a>EA</a> IV/1d 1098 unter "St. Gallen". Er war mit Vadian entfernt verwandt; s. <a>HBBW</a> XVI 166, Anm. 4.<zfn>fn17164-2</zfn></fn> von Sant Gallen hatt es h{oe}ren leßen.<zzl>zl17164-2E</zzl> <zzl>zl17164-12A</zzl>Das werdent ir durch d. Vadianum woll
+<fa><i>In der Vorlage</i> wolt.</fa> erfaren kuinden.<zzl>zl17164-12E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-3A</zzl>Von Jergen Besserer
+<fn>Der Ulmer Ratsherr Georg Besserer.</fn> hab ich kain schriben, wie im brieff
+<fn>In dem oben in Z. <qv>zl17164-1</qv> erwähnten Brief.</fn> gemeldet wirtt. Achten, er werde ettwa dem Martzell Dieterich
+<fn>Marcell Dietrich von Schankwitz, der sich kurz vor dem 21. Januar 1547 nach Konstanz zurückgezogen hatte; s. <qv>nr2762</qv>, <qv>fn17030-4</qv>.</fn> geschriben haben.<zzl>zl17164-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-9A</zzl>Hieby ain verzaichnus des churfursten z{uo} Sachsen
+<fn>Johann Friedrich I. von Sachsen. - Am 19. Februar tauschte Bullinger sich mit Ambrosius Blarer über diese Aufzeichnung aus; s. <qv>nr2823</qv>,<qv>zl17083-9</qv>. Am 21. sandte auch Haller ein solches Dokument an Bullinger; s. <qv>nr2821</qv>,<qv>zl17087-36</qv>. <qv>zl17087-40</qv>.<zfn>fn17164-3</zfn></fn> volcks. Kumpt uß Nurnberg. Die
+<fn>Das Wort "verzaichnus" kann sowohl neutral als auch feminin sein; s. <a>Fischer</a> II 1423.</fn> schicken mir ouch wider.<zzl>zl17164-9E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-10A</zzl>Gen
+<fn>Nach.</fn> Biberach hatt man gelegt by
+<fn>etwa.</fn> 2'000 Spanger.
+<fn>Diese Angabe erlaubt es, die Ankunft der kaiserlichen Truppen in Biberach genauer zu datieren, als es [Christian Friedrich <i>Essich,</i>] Geschichte der Reformation zu Biberach vom Jahr 1517 bis zum Jahr 1650, Ulm 1817, S. 55f, vermochte. - Bereits am 4. März zogen diese Truppen aus Biberach ab; s. <qv>nr2841</qv>,<qv>zl17109-10</qv>.<zfn>fn17164-4</zfn></fn> Die habent glich von stund an die schl{ue}ssel z{uo}n thoren gnommen.<zzl>zl17164-10E</zzl> Ach gott, erbarm dich unser!</p>
+</div>
+<div>
+<p><zzl>zl17164-4A</zzl>Minen anschlag
+<fn>Plan.</fn> werden ir von h. Maister Jergen
+<fn>Der Zürcher Ratsherr Georg Müller, der am 11. Februar in Konstanz war; s. oben <qv>fn17164-1</qv>.</fn> vernommen haben.<zzl>zl17164-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-5A</zzl>Der Granvella
+<fn>Nicolas Perrenot, Herr von Granvelle, der Ulm am 6. Februar verlassen hatte; s. <qv>nr2822</qv>, <qv>fn17088-1</qv>.</fn> ryt in das Burgund.<zzl>zl17164-5E</zzl> <zzl>zl17164-11A</zzl>Ist z{uo} Stockach fur gezogen.
+<fn>Vgl. <qv>nr2812</qv>,<qv>zl17080-10</qv>.</fn><zzl>zl17164-11E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-6A</zzl>Der von Lando
+<fn>Hans Jakob von Landau. - Siehe dazu <qv>nr2800</qv>, <qv>fn17068-4</qv>.</fn> hatt sydert zway mal by minen herren angehalten umb fürderung
+<fn>hatt angehalten umb fürderung: hat darauf gedrängt, (die Versöhnung Konstanz' mit dem Kaiser) voranzutreiben.</fn>. Erbüt sich, so unser ettlich unstarck
+<fn>unschlüssig (sind).</fn>, das er gen Sipplingen
+<fn>Etwa 20 km nördlich von Konstanz, am nördlichen Ufer des Überlinger Sees (der nördliche Zipfel des Bodensees).</fn> oder in die Maynow
+<fn>Die 6 km nördlich von Konstanz gelegene Insel Mainau (Bodenseekreis, Baden-Württemberg).</fn> biß zinstag
+<fn>15. Februar.</fn> kum-<vl>87</vl>men welle.<zzl>zl17164-6E</zzl> <zzl>zl17164-13A</zzl>Schribt,
+<fn>Vgl. <a>Maurer, Übergang</a> 18.</fn> der Granvella hab ouch geraten, das wir nit lang ußbliben
+<fn>(den Beschluss, sich mit dem Kaiser zu versöhnen) aufschieben.</fn>. Wir suchent uffzüg
+<fn>Verzögerung. - Schon am Samstag, dem 19. Februar, antwortete Zwick Landau in diesem Sinne; s. <qv>nr2800</qv>, <qv>fn17068-4</qv>; <qv>nr2820</qv>,<qv>zl17086-11</qv>.</fn>, so vil gott gibt.<zzl>zl17164-13E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-14A</zzl>Ettlich mainent, der Wolff Rechlinger
+<fn>Wolfgang Rehlinger. - Dass dieser zugunsten Straßburgs Kontakt mit Granvelle in Ulm aufnahm, ist belegt; s. <a>PC</a> IV/1 585f. 588-593; Franz Josef <i>Schöningh,</i> Die Rehlinger von Augsburg. Ein Beitrag zur deutschen Wirtschaftsgeschichte des 16. und 17. Jahrhunderts, Paderborn 1927, S. 18.<zfn>fn17164-5</zfn></fn> sye z{uo} Ulm gwesen von deren von Straßburg wegen, und der Granvella ryte gen Straßburg. Das ist z{uo} Basel wol z{uo} erfaren. Ettlich sagent, er
+<fn>Rehlinger.</fn> helffe ain hürrat
+<fn>Heirat.</fn> machen zwüschent des Granvella son
+<fn>Antoine (geb. 1517), Bischof von Arras, kommt hier wegen seines geistlichen Standes nicht in Frage; ebensowenig Granvelles jüngster Sohn, Frédéric, der damals erst 11 Jahre alt war. Gedacht wurde also an einen der drei weiteren Söhne, nämlich an Thomas (geb. 1521), Jérôme (geb. 1524) oder Charles (geb. 1531); s. Daniel <i>Antony,</i> Nicolas Perrenot de Granvelle. Premier conseiller de Charles Quint, Clamecy 2006, S. 610-612. Allerdings liegt hier wohl ein falsches Gerücht vor.<zfn>fn17164-6</zfn></fn> und des margrafen z{uo} Baden dochter.
+<fn>Hier könnte nur eine Tochter des Markgrafen Ernst I. (gest. 1552) von Baden-Durlach (zu den Namen seiner Töchter s. Johann Christian <i>Sachs,</i> Einleitung in die Geschichte der Markgrafschaft Baden, 4. Teil, Karlsruhe 1770, S. 72f) in Frage kommen und nicht etwa eine Tochter des bereits 1536 verstorbenen Markgrafen Bernhard III. von Baden-Baden, da dieser als Verstorbener hier sonst anders bezeichnet worden wäre. Der 30jährige, ledige Bernhard von Baden-Durlach, Sohn des oben genannten Ernst, war noch zu jung, um bereits eine uneheliche Tochter im Heiratsalter zu haben.<zfn>fn17164-7</zfn></fn><zzl>zl17164-14E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-7A</zzl>Naves
+<fn>Johann von Naves.</fn> hatt gsagt zum jungen Petter Scheren
+<fn>Peter Scher d.J. von Schwarzenburg.</fn>, sin vatter
+<fn>Peter Scher d.Ä. von Schwarzenburg.</fn> m{oe}cht im
+<fn>sich.</fn> darmitt noch ain gnedigern kaiser machen, wann er verhelffe, das Straßburg vertragen wurde
+<fn>vertragen wurde: (mit dem Kaiser) versöhnt würde.</fn>. Dann wan sy sich schon
+<fn>Dann wan schon: Denn auch wenn.</fn> an den Frantzosen henckent, so habent sys noch nit gar.
+<fn>Zu verstehen ist: wären sie (die Straßburger) noch nicht aus der Klemme. - Damals stand Straßburg tatsächlich in Verhandlung mit Frankreich; s. <a>PC</a> IV/1 599-602.<zfn>fn17164-8</zfn></fn><zzl>zl17164-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17164-15A</zzl>Ir sollend dem jetzigen potten nichts geben, dann
+<fn>denn.</fn> ich hab die nechsten 12 ß
+<fn>Schilling. - 1 Pfund (Währung) = 20 Schilling.</fn> noch zum vortail
+<fn>zum vortail: zugute (wohl indem er dem Boten ein voriges Mal mehr bezahlt hatte); vgl. <a>SI</a> XII 1508.</fn>. Jergen
+<fn>Georg Müller; vgl. oben Z. <qv>zl17164-4</qv>. - Welche Angelegenheit Zwick hier anspricht, ist unbekannt.</fn> ists alles verzigen, und ich halt inn on klag.<zzl>zl17164-15E</zzl></p>
+</div>
+<div>
+<p>Gott mit uch. Den bitten für mich. <zzl>zl17164-8A</zzl>Datum sonntag nach imbiß
+<fn>Die Hauptmahlzeit im Gegensatz zum Abendessen; s. <a>Fischer</a> IV 20.</fn> 47.<zzl>zl17164-8E</zzl></p>
+<un>Conrat Zwick.</un>
+<lz/>
+<p>[Ohne Adresse.]</p>
+</div>
+</text>
+</brief>

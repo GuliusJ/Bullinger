@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1782">
+<nr>1782</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>1. September 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 274 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 91^&x{
+<dr>Ungedruckt</dr>
+<re>Kann nicht mehr als dies schreiben: Hat noch keine Nachricht vom Krieg in Niederdeutschland; Kaiser [Karl V.] war
+kürzlich noch in Bonn, weshalb auch Bucer länger dort bleibt; möchte wissen, wie [Diethelm] Röist über sein Gespräch mit
+[Heinrich] Glarean urteilt, und bittet um Nachricht über [die Einnahme der Stadt] Nizza. Gruß. Bullinger soll den Brief von [Petrus] Dasypodius zurücksenden.
+</re>
+<tx>S. Nihil aliud potui, quam quod vides. De bello Inferioris Germanię<f1>Vgl. zuletzt oben Nr. 1775, 9-29.<fe> non­dum quicquam habeo. Cęsar non multo ante fuit
+adhuc Bonnę, quamobrem et Bucerus tardat.<f1>Bucer blieb bis zum 27. August; zu seinen Begegnungen mit kaiserlichen
+Theologen während des Aufenthalts von Kaiser Karl V. in Bonn (17.-20. August) und zum Abschluss seines dortigen Wirkens s. ^#/+Pollet,^#/- Relations I 122-126.<fe>
+Glareanus stulte confabulatus dicitur cum Röstio;<f1>Über ein Gespräch von Heinrich Glarean mit Diethelm Röist ist sonst
+nichts bekannt.^&xes könnte evtl. auch ein unbekannter Glarner gemeint sein^&x{<fe> velim scire, quid hic iudicaret. De
+Nisa, quam Niceam vocant, velim scire pariter, siquid haberes.<f1>Nachdem Nizza vom 10. August an durch die
+französisch-türkische Flotte belagert worden war, hatte sich die Stadt (ohne die Festung) am 22. August ergeben; s. Ion
+^#/+Ursu,^#/- La politique orientale de François I^#'e^#'r (1515-1547), Paris 1908, 143f.<fe>
+^$Vale cum tuis omnibus.
+^$Basileae, ipsis kalendis septembris anno 1543.
+^$Literas Dasypodii<f1>Der Brief von Petrus Dasypodius ist nicht erhalten.<fe> remittito.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] D. Heinrycho
+Bullingero suo.
+</content>
+</letter>

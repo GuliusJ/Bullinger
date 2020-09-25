@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2721">
+<brief>
+<id>16410</id>
+<nr>2721</nr> <from persid="Bullinger"/> <to persid="MyconiusOswald"/> <place plid="Zürich"/> <date when="1546-12-20"/>
+<ae>Bullinger an Oswald Myconius</ae>
+<od>[Zürich], 20. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 342, 159 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 145</k></dr>
+<re><t>Kaiser [Karl V.] ist auferstanden und hat den [protestantischen] Städten der Eidgenossenschaft geschrieben. Die Zürcher Obrigkeit schickt eine Abschrift dieses Schreibens durch den gegenwärtigen Boten [...] an den Basler Rat. Myconius wird beim Basler Stadtschreiber [Heinrich Ryhiner] darin Einblick nehmen können. Bullinger hat das Gerücht vom Tod des Kaisers nie geglaubt, obwohl ihm dies von bedeutenden Personen berichtet wurde. Der Brief des Kaisers kommt aus Rothenburg ob der Tauber und datiert vom 5. Dezember. Dabei kann es sich kaum um ein Täuschungsmanöver handeln.</t>
+<t>Auf der Badener Tagsatzung haben sich die Fünf Orte über die Bestrafung der in [den schmalkaldischen] Krieg gezogenen eidgenössischen Söldner erkundigt. Damals, als ihre eigenen Söldner nach Frankreich zogen, war das kein Thema, jetzt aber schon! Sie bieten die Einhaltung der Bünde und des Landfriedens an. Basel und Bern wollen aber, dass die Fünf oder die Neun Orte ihnen auch den Schutz zusagen, falls sie wegen ihrer Religion angegriffen würden. Die Neun Orte nahmen das Anliegen in den Abschied. Bullinger hat schon [in <qv>nr2708</qv>] darüber geschrieben.</t>
+<t>Man hat einen Luzerner und einen Freiburger Gesandten [Wendel Sonnenberg bzw. Petermann Cléry] wegen diverser Anliegen zum französischen König [Franz I.] geschickt, damit dieser ein Blutbad in Deutschland verhindere und schlichte.</t>
+<t>Grüße an [Johannes] Gast, der die Wolle zum Sticken oder eine Mitteilung darüber schicken soll, möglichst mit diesem Boten.</t>
+<t>Myconius wunderte sich, dass Bullinger hinsichtlich der geplanten Überwinterung von Kaiserlichen im Hegau schrieb, "man werde schon noch sehen, was kommt!" Bullinger meinte damit Teuerung, Knappheit an Lebensmitteln und auch Unruhen in der Eidgenossenschaft.</t>
+<t>Myconius soll den Händlern nicht alles glauben. Zwar ist [Hieronymus] Sailer ein redlicher Mann, doch glaubt er gar zu leicht die ihm von seinen Kaufleuten übermittelten nichtigen Gerüchte. Myconius soll das aber niemandem sagen und vielmehr Bullinger als [Nachrichten]experten Glauben schenken!</t>
+<t>[Späterer Eintrag von Myconius aus einem Brief von Matthias Claudius an Francisco de Enzinas, St. Gallen, 17. Dezember 1546:] [Hieronymus Sailer], der Dienstherr von Claudius, trug diesem auf, zu einem bereits verschlossenen Brief folgende Neuigkeiten hinzuzufügen: Beide Heere liegen in Franken. Den angeblichen Tod des Kaisers streiten die Kaiserlichen vehement ab, doch wird er von den [Schmalkaldenern] als verbürgt gemeldet. Falls das stimmt, wird man bald wundersame Neuigkeiten vernehmen! Sollte der Kaiser aber doch noch leben, dann werden hoffentlich die Eidgenossen und der König von Frankreich zwischen den [Schmalkaldenern] und dem Kaiser einen Frieden vermitteln.</t></re>
+<text>
+<div>
+<p>S. D. Revixit imperator
+<fn>Karl V. - "Revixit", weil man ihn fälschlich für tot hielt; s. dazu die Verweise in <qv>nr2700</qv>, <qv>fn16388-4</qv>.</fn> et scripsit Urbibus evangelicis
+<fn>Gemeint ist das vom Kaiser in Rothenburg ob der Tauber am 5. Dezember verfasste Schreiben an die Vier Orte (Zürich StA, A 176/2, Nr. 164, Original mit Siegel). Laut einem Kanzleivermerk soll der Brief am 19. Dezember in Zürich eingetroffen sein. Siehe dazu ferner <a>EA</a> IV/1d 701 zu a.6. - Mit dem Schreiben antwortete der Kaiser auf den Brief der Vier Orte vom 26. Oktober; s. dazu <qv>nr2606</qv>, <qv>fn16294-1</qv>.<zfn>fn16410-1</zfn></fn> nescio quid. Nostrates vestratibus exemplum scripti
+<fn>Es handelt sich um das in Basel StA, Politisches M 8.3, 433-438, aufbewahrte Schreiben. - Wir danken Rainer Henrich für diesen Hinweis.</fn> <zzl>zl16410-3A</zzl>per hunc
+<fn>Unbekannter Bote.</fn><zzl>zl16410-3E</zzl> mittunt. Apud scribam vestratem
+<fn>Heinrich Ryhiner.</fn> cernere licebit omnia. Ego nunquam credidi illum excessisse
+<fn>Hier im Sinne von "sterben". - Vgl. dazu schon <qv>nr2713</qv>,<qv>zl16401-4</qv>.</fn>, tametsi viri magni et graves hoc literis ad me datis constantissime testati sint. Litterae illius datae sunt z{uo} Rotenburg an der Tuber, 5. decembris, nisi et hoc dolo malo factum sit; id quod non credo.</p>
+</div>
+<div>
+<p>Uff dem tag z{uo} Baden
+<fn>Die am 7. Dezember begonnene Badener Tagsatzung; s. <qv>nr2693</qv>, <qv>fn16379-7</qv>.</fn> ist anzogen von 5 orten
+<fn>ist anzogen von 5 orten: haben die Fünf Orte wissen wollen.</fn>, wie man die kriegßlüt
+<fn>Gemeint sind die Eidgenossen, die aufseiten der Schmalkaldener in den Krieg gezogen sind.</fn> straaffen w{oe}ll. Jetzund ist es zyt; da
+<fn>als.</fn> sy in Franckrych lüffend
+<fn>Wie z.B. 1544 zur Zeit des Krieges zwischen Frankreich und dem Kaiser; s. <a>HBBW</a> XIV 21.</fn>, was
+<fn>war.</fn> es nitt der zyt.
+<fn>Die Zürcher wurden damals gebeten (angesichts dieser Stelle auch von den katholischen Ortschaften), nicht allzu hart gegen ihre Landsleute vorzugehen, die sich in Frankreich an dem Krieg beteiligt hatten; s. <a>HBBW</a> XVI 65,11-14.</fn> Sy embütend sich, pündt und landtfriden
+<fn>Der Zweite Landfrieden von Kappel, November 1531. - Vgl. dazu schon <a>HBBW</a> XVII 503,3f.</fn> z{uo} halten. <zzl>zl16410-7A</zzl>Die üwern und Bern w{oe}llend mee, namlich das sy, die 5 oder 9 ort, ouch by irem glouben schirmind. N{ae}mend die 9 ort in die abscheid.
+<fn>Siehe dazu <a>EA</a> IV/1d 724 h.</fn> De ea re scripsi in prioribus
+<fn>In <qv>nr2708</qv>,<qv>zl16398-10</qv>.</fn> quoque.<zzl>zl16410-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16410-5A</zzl>Zwen botten von Lucern und Friburg
+<fn>Wendel Sonnenberg von Luzern und Petermann Cléry von Freiburg i.Üe.; s. <a>EA</a> IV/1d 777 x. - Wir danken Rainer Henrich für den Hinweis.</fn> sind zum k{oe}nig in Franckrych
+<fn>Franz I.</fn> abgefertigt, allerley ansprachen
+<fn>Ansuchen; s. <a>SI</a> X 722-724.</fn> halb, und das sy den k{oe}nig manind, vor bl{uo}tvergiessen ze sin
+<fn>vor bl{uo}tvergiessen ze sin: ein Blutvergießen zu verhindern.</fn> in Germania; das er namlich scheiden
+<fn>schlichten; vgl. <a>SI</a> VIII 230.</fn> w{oe}lle, etc.
+<fn>So auch in <a>EA</a> IV/1d 725 m mit dem genauen Inhalt der Instruktion an die beiden Gesandten. Zu diesem Vorhaben s. schon <qv>nr2672</qv>, <qv>fn16359-5</qv>.<zfn>fn16410-2</zfn></fn><zzl>zl16410-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16410-4A</zzl>Gastium gr{ue}ssend mir und sagend imm, w{oe}lle er die wollen oder bescheid von der wollen z{uo} würcken
+<fn>sticken, weben; s. <a>SI</a> XVI 1479. - Diese Wolle war für Bullingers Frau Anna, geb. Adlischwyler, und ihre Tochter Anna (geb. 1530) bestimmt, die das Sticken beherrschten; s. Bernhard <i>Stettler,</i> Bullingers Familiengeschichte. Edition und Kommentar, in: <a>Zwa</a> XLII, 2015, 22. 49f.</fn> schicken, s{oe}lle oder m{oe}ge ers by disem botten th{uo}n.<zzl>zl16410-4E</zzl> Gott mitt üch.</p>
+</div>
+<div>
+<p><zzl>zl16410-6A</zzl>Miraris, quid intellexerim, cum dixi, si in Hegoia hyberna fixerint, videbis, quid futurum sit.
+<fn>Bullinger bezieht sich hier auf seine Äußerung in <qv>nr2708</qv>,<qv>zl16398-6</qv>, und auf Myconius' Reaktion darauf in <qv>nr2715</qv>,<qv>zl16404-4</qv>.</fn> Quid? Anonae caritatem et contractionem omnium rerum futurum putavi, turbas item in Helvetiis!<zzl>zl16410-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16410-2A</zzl>Ne credas protinus nunciis a mercatoribus venientibus.
+<fn>Vgl. schon Bullingers Ermahnungen in <qv>nr2708</qv>,<qv>zl16398-12</qv>.</fn> Bonus et verax vir est d. Saylerus
+<fn>Hieronymus Sailer.</fn>, sed imponunt illi non raro rumoribus vanis sui mercatores, quae is deinde spargit et communicat fidis. Sed fere vana reperiuntur, quae optimo afferuntur viro. Nolo haec cuiquam
+<fn>Besonders nicht dem mit Sailer befreundeten Francisco de Enzinas.</fn> ostendas. Experto crede magistro.
+<fn>Offensichtlich bezeichnet sich Bullinger selbst als "expertus magister"; vielleicht in Anlehnung an eine frühere Äußerung von Myconius in <qv>nr2630</qv>,<qv>zl16320-11</qv>.</fn><zzl>zl16410-2E</zzl></p>
+<p>Decembris 20. 1546.</p>
+<un>Bullinger.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Osvaldo Myconio, charissimo suo fratri. Basel.</p>
+<lz/>
+</div>
+<div>
+<p>[Darunter folgt von Myconius' Hand die Abschrift eines weder erhaltenen noch zuvor bekannten Briefs von Matthias Claudius an Enzinas:]
+<fn>Vgl. schon <qv>nr2702</qv>,<qv>zl16390-1</qv>, und <qv>nr2715</qv>,<qv>zl16404-2</qv>, wo ebenfalls nicht mehr erhaltene Briefe Claudius' an Enzinas zitiert bzw. zusammengefasst sind.</fn></p>
+<p><zzl>zl16410-1A</zzl>Scriptis superioribus et clausis literis iussit me herus
+<fn>Sailer.</fn> h{e}c nova subiungere: Uterque exercitus est [in]
+<fa><i>Hier und unten im engen Einband verdeckt.</i></fa> Franconia. C{e}sar dicitur vere mortuus, quod cum a c{e}sareanis strenue negetur, id tamen nostros ce[rtis] argumentis deprehendisse pro re certa et verissima huc scribunt. Quodsi sic est, multa et admirand[a no]va
+<fn>Gemeint ist wohl die seltsame Weise, auf die der Kaiser gestorben sein soll; vgl. <qv>nr2700</qv>,<qv>zl16388-2</qv>, und <qv>nr2713</qv>,<qv>zl16401-4</qv>.</fn> intra paucos dies auditum iri, <zzl>zl16410-8A</zzl>sin minus vera eius mors, Helvetios et regem Franci{e} inter[posi]turos se et pacem inter nostros et c{e}sarem conciliaturos speramus.<fn>Vgl. oben Z. <qv>zl16410-5</qv>.</fn><zzl>zl16410-8E</zzl></p>
+<p>S. Galli, 17. decembris anno 154[6].<zzl>zl16410-1E</zzl></p>
+</div>
+</text>
+</brief>

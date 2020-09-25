@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2186">
+<nr>2186</nr>
+<correspondents>
+	<originator>Hans Welser</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Augsburg</place>
+	<date>20. Juni 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 346, 155 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&x (Keine Simler-Kopie) ^&x{
+<re>Welser dankt für Bullingers Schreiben [nicht erhalten]. Eine deutsche und lateinische Widerlegung der [Löwener] Artikel durch Bullinger wird der Kirche Christi bestimmt dienlich sein und allen offenbaren, wie der Antichrist dem Satan zuarbeitet.
+-^#. [Karl V.] will in Worms das Konzil zu Trient als rechtmäßiges Konzil anerkennen, obwohl die [Päpstlichen] dabei zugleich Richter und Partei wären. Die Universität zu Löwen hat dazu schon Stellung genommen.
+-^#. Dagegen halten sich die [evangelischen] Stände tapfer, so dass es auf Dauer zu Unheil und Krieg kommen könnte. Gott möge dies verhüten und Bullinger und die Seinen beschützen.</re>
+<tx>[M]in<fx>^#/+Hier und unten linker Rand beschädigt.^#/-<fe> frayntlych, crystlyche dyenst und alle gutwillykayt sayenn [ü]wch, lieber her Bulynger, zu vor ann.
+^$Ich hab ewer schryben<f1>Nicht erhalten.<fe> myt danksagon enpfangen, unnd zweyflet myr nyt, ir wert der kyrchen Jesu Crysti zu trost
+auf die ausgangen artykell<f1>Gemeint sind die 32 Artikel der Löwener Theologen, die Welser über Ambrosius Blarer an Bullinger geschickt hatte; s. oben Nr. 2153, 1-15; Nr. 2156, 30-38. Am 14. Mai 1545 bat Bullinger Blarer, seinen Dank an Welser zu übermitteln; s. oben Nr. 2158, 4-7.<fe> wyderum denn gegensattz aus gotlycher schryft teytsch und lateinysch
+stellenn,<f1>Falls es zu einer Zürcher Veröffentlichung dieser Artikel kam, ist diese nicht bekannt. Die mit einem antipäpstlichen Vorwort versehenen Ausgaben (s. oben Nr. 2153, Anm. 6) wurden in Nürnberg und Erfurt gedruckt und kommen hier nicht in Frage.<fe> auf das jederman seche, wie der anticryst<fx>r ^#/+in^#/- anticryst ^#/+über der Zeile nachgetragen.^#/-<fe><f1>Der Papst.<fe> seyn reych wyder die warheyt Jesu Crysti
+welle myt gewalt in diser welt erhalten und alßo dem satan seyn reych meren und beschytzenn.
+Der almechtig got welle seyn genat verleychen, das dise anschleg zu gront gangenn, seyn felkle<f1>kleines Volk.<fe> erhalten, der hauf teglych gemert wert<f1>der hauf teglych gemert wert: dessen Zahl täglich größer werde.<fe>.
+^$Ir majestat<f1>Karl V.<fe> wil zu Wurms<f1>Der Reichstag zu Worms.<fe> das bebstlych concilio zu Trent, do 3 kardynel<f1>Die Kardinäle Giovanni Maria Ciocchi del Monte (der spätere Papst Julius III.), Marcello Cervini und Reginald Pole; s. oben Nr. 2153, Anm. 40; 2163.<fe>, 24 byschof sennt,
+vyr das recht concilio haben, so sy doch<f1>so sy doch: obwohl sie.<fe> rychter und partey<f1>Vgl. TPMA IX 302, Nr. 185.<fe> sennt.
+Die hoch schul zu Loven, was ir beschlus seyn wyrt, schonn an tag bracht hat.<f1>Nämlich durch ihre in den 32 Artikeln geäußerte theologische Stellungnahme, wo u.a. im 25. Artikel folgendes steht: "Mit gewiesem glauben ist zuͦ halten, nit allain was in den Schriften außdrucklich gesetzt ist, sonder was wir durch satzung der gemaynen Kirchen zuͦ glauben angnommen haben, auch was durch den Stuͦl Petri oder die gemeyne recht versamblete concilia von glaubens unnd der sitten sachen beschlossen ist"; und zum Schluss: "Darumb woͤlchs aynig unsers ampts ist, gebieten wir allen der hayligen Schrifft gelerten ... erstlich, das sie nyendert [= keineswegs] ychtzig [= irgend etwas] predigen oder leren, das diser lere [die der 32 Artikel] widerwertig sey; darnach, das sie die selben, wo es statt oder gelegenhait erfordert, trewlich verthedigen und außlegen, zuͦ bewarung des allten allgemainen glaubens ..."; s. Articul die allgemaynen Religion unnd unsern hayligen Glauben betreffende von der Hayligen Schrifft lerern der hohen Schuͦl zuͦ Loͤwen außgangen ..., s.l. 1545 (VD 16 L 2326), f. Bi,v., Bij,v.<fe>
+^$Dar gegen setzen sych die crystlychen stent tapfer. Zu sorgen, mecht in die har<f1>mecht in die har: es könnte auf Dauer.<fe> noch unlust<f1>Unheil.<fe> unnd krieg gebenn.
+Der almechtyg welß vyrkommen<f1>welß vyrkomen: wolle dem zuvorkommen.<fe>, ewch und ewer gantz hausgesynt in seyn genaden vor layt und ibell bewarenn,
+unß alle im glaben an seynen son Jesu Crystum byß am ent<fx>^#/+In der Vorlage ist^#/- ent ^#/+wiederholt.^#/-<fe> erhalten, zum ent das ewyg leben verleychenn. Amen.
+^$Datum 20. iunio, in Augspurg, 1545.
+<un>Ewer williger Hanns Welserr.
+<lz>[Adresse auf der Rückseite:] Dem wyrdygen, hochgelerten herenn Heynrych Bulynger, forster<f1>Vorsteher.<fe> im [w]ort<fx>^#/+Adresse hier und unten teilweise über das nicht mehr erhaltene Siegelband geschrieben.^#/-<fe> Jesu Crysti zuͦ Zyrch<fx>^#/+Vor^#/- Zyrch ^#/+gestrichenes^#/- Kost[anz].<fe>, [m]ynen gelyebten heren und fraynt. Zyrch.
+</content>
+</letter>

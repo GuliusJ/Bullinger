@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="36083">
+<nr>36083</nr>
+<correspondents>
+	<originator>Johannes Haller</originator>
+	<addressee>[Bullinger]</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>23. Juni 1566</date>
+</space_time>
+<vo>Zürich StA, E II 370a, 347b. / Orig. Aut.</vo>
+<dr></dr>
+<re></re>
+<note></note>
+S.  Ista heri retinui, nunc ergo per Fietzium mitto et nihil habeo, quod his amplius addam, nisi quod amici et fratres
+te vehementer omnes salutant. Bene vale.
+Bernae, 23 iunii 1566.
+Hallerus tuus.
+(Ohne Adresse.)
+</content>
+</letter>

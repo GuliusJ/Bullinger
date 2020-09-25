@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1350">
+<nr>1350</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>die Pfarrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>um 12. Januar 1540]</date>
+	<note>Der Brief muß nach dem 1. Januar 1540 geschrieben sein, da Grynäus erwähnt, er habe in gleicher Sache bereits einen Privatbrief an Bullinger gesandt (vgl. unten Z. 18f mit Anm. 4). Am 12. Januar bat Myconius
+die Zürcher um Prüfung des Anliegens von Grynäus; s. oben Nr. 1349, 25-31.</note>
+</space_time>
+<vo>Original von der Hand Johannes Oporins<fx>^#/+Unterschrift und Adresse autograph.^#/-<fe>: Zürich StA, E II 337a, 314r.-v. (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 122</vo>
+<dr>Ungedruckt</dr>
+<re>Ihre Stellungnahme [Nr. 1338] stimmt mit seiner eigenen Haltung im Streit [um seine Doktorpromotion] überein; trotz
+möglicher Vorwürfe würde er eher Basel und Deutschland verlassen, als sich diesem papistischen Brauch zu
+unterziehen, und diesbezüglich braucht er auch keinen Rat mehr. Hingegen hat er bereits Bullinger gefragt und möchte nun von
+ihnen allen wissen, ob ihnen die Verleihung des Titels durch Handauflegung - im Sinne einer kirchlichen Berufung - annehmbar
+schiene, falls ein Kompromiß unausweichlich werden sollte. Kann ihre Fürsorge nicht gebührend erwidern, möchte sie sich aber gerne erhalten.
+</re>
+<tx>S. Legi vestram de nostra contentione sententiam<f1>Gemeint ist die Stellungnahme der Zürcher Theologen vom Dezember 1539
+zum Streit um den theologischen Doktorgrad (HBBW IX, Nr. 1338).<fe> plane e mea sententia scriptam. Tametsi enim
+permulta sunt, quae me valde sollicitant, ne gravem levi de re turbam suscitasse, ne positam in medio rem et bonis etiam non
+intractabilem fugisse ac attingere aut non voluisse aut non potuisse, ne meam unius sententiam voluntatemque tam multorum
+hominum authoritati ac precibus superbe anteposuisse, denique ne homo superbus ac factiosus esse, et quae multa hic mihi
+obiici a multis solent, dicerer vidererque ego, haec,
+inquam, quanquam sollicitant interdum me tali natura ingenioque
+praeditum, qui (ut ille<f1>Aristoteles; vgl. Nikomachische Ethik IV 12, 1126b 28-30. 1127a 2f.<fe> dicit) placere quam plurimis et quam
+minime multos laedere studeam, tamen idipsum stat iamdudum
+ac fixum est apud me, non solum Basilea, sed omni Germania
+excedere potius quam hanc papae larvam inducere. Ac volo hic
+apud vos et bonos omnes testem advocare dominum, quod in
+hanc sententiam nulla me res impellit, quam genus hoc pompae
+ecclesiae moribus indignum, literis autem nullam ad rem aut
+utile aut necessarium esse duco, qua de re domino dante
+brevi scribam. Et quidem haec sic est mea sententia et fuit
+iam inde ab evangelii exortu; itaque nihil iam amplius aut
+vobis hic aut cuiquam molestus ero consilium quaerendo.
+^$De eo porro, quod nuper privatim quidem ad Bullingerum, sed
+per hunc ad vos retuli<f1>Grynäus hatte in seinem Brief vom 1. Januar die Möglichkeit zur Diskussion gestellt, sich den
+Doktorgrad in einer kirchlichen Feier durch Handauflegung verleihen zu lassen; s. oben Nr. 1343, 1-20.<fe>, cupio voloque
+authoritate et consensione vestra mihi semper suspicienda similiter uti, non quasi id facere prorsus induxerim in animum
+nunc quidem, sed si qua maior vis aut precum aut hortationum alicunde incumbat mihi, ut possim, quod concessurus
+eccle-<vl>314v.</vl>siae sum, cum approbatione vestra facere. Quoniam enim haec manuum<fx>^#/+vor^#/- manuum ^#/+gestrichenes^#/-
+inquam.<fe> impositio in coetu ecclesiastico, non scholastico, ecclesiae authoritate, non scholae facta, ad munus ecclesiae,
+non scholae theatrum ac circulum vocans recusari honeste non
+potest, consilium id cepi, si et res per me facta placare
+adversariorum clamores, senatus offensam tollere, vicinarum
+ecclesiarum bonorumque hortationibus satisfacere possit,
+facere, quoniam aliquid hic etiam concedere debemus istis
+hominum studiis, tametsi saepe certe multumque animum hoc
+tempore obfirmaram neque hunc titulum admittere iam, ad quem
+in ecclesiam suscipiendum sola certe contentione perducti
+sumus. Est autem, arbitror, non tam id spectandum, quid isti
+faciant, quam quid nos deceat. Super hac igitur re consilium
+vestrum in domino expecto charissimorum fratrum.
+^$Equidem cum video reputoque mecum, meae res quantae vobis sint curae, et istam, quam amplectimini in me, domini gratiam quibus
+vos studiis foveatis, cui exclusae hinc non vestrae solum
+privatim domus omnium pateant<f1>Vgl. HBBW IX, S. 274, 98-101.<fe>, sed etiam senatus clarissimi patrocinium opera
+eorundem propositum est<f1>Über entsprechende Zusagen des Zürcher Rates ist sonst nichts bekannt.<fe>, nihil in me prorsus
+invenio, quo respondere fidei erga me vestrae possim. Hanc autem vestram vestraeque erga me reipublicae perpetuam benevolentiam quomodo conservem, valde enitendum esse mihi video.
+^$Valete.
+<un>S. Grynęus, frater
+<un>vester in domino Christo.
+<lz>[Adresse auf f. 315v.:] Verbi dei ministris Tyguri, clarissimis viris, fratribus observandis.
+</content>
+</letter>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1526">
+<nr>1526</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Regensburg</place>
+	<date>31. Mai 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 350, 397f (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Braucht Anweisungen, da der Fürst [Philipp von Hessen] früher als erwartet abreisen wird, während die Konstanzer
+Delegation wohl bleiben wird, solange Kaiser [Karl V.] hier ist; Gwalthers weiterer Aufenthalt in Regensburg droht deshalb
+kostspielig und wenig nutzbringend zu werden. Der Kaiser scheint über die Protestanten aufgebracht zu sein; der [hessische] Fürst
+hat seine Haltung in schriftlicher Form niedergelegt; die [schweizerische] Abendmahlslehre findet immer mehr Anklang, und
+die Einheit der deutschen Kirchen scheint gefestigt; Melanchthon wird eine Schrift über die Eucharistie ausgehen
+lassen, und auch Luther soll von seiner Starrheit abgerückt sein. Corvinus ist abgereist und sendet Grüße, während Dionysius
+[Melander] und Draconites selbst schreiben werden. Es heißt, Pfalzgraf [Ludwig V.] werde zum Reichstag kommen, doch dies ist
+wenig wahrscheinlich. [Pfalzgraf] Ottheinrich lässt im Minoritenkloster evangelisch predigen; die Zahl der
+[Protestanten] nähme noch stärker zu, wenn nicht [der Kaiser] wieder seine wahre Gesinnung zeigen würde. In Augsburg wurden Brunnen und wohl auch Wiesen vergiftet. Grüße.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Heri literas<f1>Oben Nr. 1523.<fe> ad te dedi, pater colendissime, e quibus facile omnia ea percipere licet, quę
+hic memoratu digna aguntur; nunc vero, cum principis<f1>Landgraf Philipp von Hessen.<fe> nostri abitum celeriorem<fx>^#/+Vor^#/-
+celeriorem ^#/+gestrichenes^#/- brevio.<fe> fore, quam putarim, intelligam, consilium petiturus denuo ad te scribere coactus
+sum. Ante dies enim aliquot nuntii Marpurgum dimissi sunt, qui equos a Ratisbona ante remissos reducant, ita ut princeps inter
+decimum octavum diem discessum moliatur. Hic quid mihi facto opus sit, a<fx>^#/+Vor^#/- a ^#/+gestrichenes^#/-
+an[?].<fe> nostris consuleretur, velim.
+Constantienses certe legati<f1>Konstanz wurde am Regensburger Reichstag durch Konrad Zwick vertreten; s. ^#/+Moeller,^#/- Zwick 222-224; vgl. oben Nr. 1492, Anm. 19.<fe> cum diutius et ad cęsaris<f1>Karl V.<fe>
+fortassis discessum usque hic moraturi sint, vix contingere
+poterit, ut eorum<fx>^#/+Vor^#/- eorum ^#/+gestrichenes^#/- hic.<fe> profectionem expectem, nisi nostri magno
+me sumptu hic sustentare velint, quod tamen, cur faciant,
+operaepretium esse non video, si hi discesserint, quorum
+consortio de principum et imperii negotiis certior fieri
+poteram. Annona hic omnium est charissima. Equum vix quinque
+bazonibus per diem alerem nec meipsum minoris. Unde facile
+coniicies, quantę hic impensae faciundę forent diutius
+haesuro. Quare hęc in tempore significare volui, quo et
+in tempore a vobis consilium accipiam. Expectabo enim post
+principis discessum, quoad a vobis responsum fuerit.
+^$Caesar iam erga nostros videtur commotior. Princeps noster<fx>noster ^#/+über der Zeile nachgetragen.^#/-<fe> suam
+sententiam scriptis commendavit,<f1>Gemeint ist wohl Philipps Instruktion vom 13. Juni für die in Regensburg zurückbleibenden Räte (Lenz III 97-105); vgl. auch Nikolaus ^#/+Müller,^#/- Beiträge zur Kirchengeschichte der Mark Brandenburg im 16. Jahrhundert, Heft 1, Leipzig 1907, S. 95f (zu Corr. des
+réformateurs VII 158).^&xZu denken ist auch an die Friedensartikel (MO IV 469-474, Nr. 2997), deren Übergabe an den Kaiser der Landgraf am 2. Juni gegenüber Hans von Dolzig
+erwähnte (s. ^#/+Mentz^#/- II 294 mit Anm. 2; vgl. ^#/+Rommel^#/- II 433f; ARG IV 89. 91), oder aber ein "Bedenken" zur Abendmahlslehre (vgl. PA I
+351, Nr. 576).^&x{<fe>
+quam hic relicturus est, cuius summam nondum videre licuit, quia paucis ab hinc horis nostris exhibita est. Ad nostram de
+eucharistia sententiam iam omnes sese inclinare videntur; animadvertunt enim, quam aegre illorum dogma<f1>Gemeint ist die lutherische
+Abendmahlslehre.<fe> asseri possit cum papistis disputando. Nec iam de vera inter Germanicas ecclesias concordia dubitandum esse
+video. Philippus<f1>Philipp Melanchthon.<fe> enim eucharistiae negotium publico scripto tractaturus est.<f1>Von einer
+entsprechenden Veröffentlichung ist nichts bekannt; der kurze Text "De abusu multiplici Sacramentorum [...]" (MO IV 309-316, Nr.
+2238) wird kaum gemeint sein.<fe> Et Lutherum a pristino rigore multum recessisse prędicant.
+^$Discessit hodie Corvinus, cuius nomine te plurimum salvere
+iubeo una cum reliquis symmystis. Scripsisset haud dubie,
+nisi negotiorum procellis fuisset obrutus. Scribent hac
+septimana Dionysius<f1>Dionysius Melander schrieb am 13. Juni; s. unten Nr. 1532.<fe> et Draconites<f1>Von Draconites liegt kein weiterer Brief an Bullinger vor.<fe>, quorum ille nunc negotiis, hic vero adversa valetudine impeditur.
+^$Sunt, qui Palatinum electorem<f1>Ludwig V., Kurfürst von der Pfalz.<fe> adventare praedicent; mihi tamen non videtur verisimile.
+^$Otto Henrychus<f1>Pfalzgraf Ottheinrich.<fe>, dux Bavariae, hisce diebus evangelicam concionem
+<vl>398</vl> in minoritarum coenobio haberi curavit.
+Cresceret piorum numerus indies, nisi is, a quo summa rerum
+pendet,<f1>Gemeint ist der Kaiser.<fe> ab hypocrisi ad ingenium rediisset. Deus illuminet
+cor eius, ut veritatem dei pur[am]<fx>^#/+Randtext beschnitten.^#/-<fe> cognoscens relictis
+antichristi senticetis in domini via ambulet. Amen.
+^$Augustę in fontibus venena reperta sunt, author ignoratur.
+Item et prata infecta esse multi suspicant[ur]<fx>^#/+Randtext beschnitten.^#/-<fe>. In eadem enim urbe
+duodecim vaccę repentino casu et morte subitanea inter
+pascendum<fx>inter
+pascendum ^#/+am Rande nachgetragen.^#/-<fe> corruerunt. Tempora certe periculosa sunt et
+homines lubrici, pauci denique, qui aut bonum ament aut
+malum puniant.
+^$Salutant te fratres omnes. Salvos etiam cupio Tigurinę
+ecclesię et scholę praesides, praeceptores meos
+colendissimos, imprimis vero matrem<f1>Anna, geb. Wiederkehr.<fe> et uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam cum omni
+liberorum coetu<f1>Zu Bullingers Kindern s. oben Nr. 1460, Anm. 122.<fe> et reliqua familia. Vale, pater mi, et
+Rodolphi tui res ita, ut facis, curare pergas, obsecro.
+^$Ratisbonae, raptim, ex aula illustrissimi Hessorum principis,
+pridie calendas iunii 1541.
+<un>Tui observantissimus
+<un>Rod. Gvaltherus.
+<lz>[Adresse darunter:] Dem hochgelerten M. Heinrich
+Bullinger, predicanten zuͦ Zürich, meinem insonders
+günstigen herrn zuͦ handen. Z[ür]ich<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

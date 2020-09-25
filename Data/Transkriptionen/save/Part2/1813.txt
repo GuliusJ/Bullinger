@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1813">
+<nr>1813</nr>
+<correspondents>
+	<originator>Bartolomeo del Prato</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Venedig</place>
+	<date>11. November 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Neben der vorangestellten Grußformel Bemerkung von Bullingers Hand: ^#/-Secretarius oratoris regis Francorum ^#/+[Jean de Montluc]^#/- apud Venetos.<fe>: Zürich StA, E II 368, 463f (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 180^&x{
+<re>Dankt für Bullingers Brief und Buch, die der Drucker [...] überbracht hat. Bullingers Wegleitung kann Suchende davor
+bewahren, falschen Meinungen zu verfallen oder zu vergessen, von wo sie aufgebrochen sind. Dorthin zurückzukehren wäre
+verhängnisvoll, denn die Religion Christi verträgt sich nicht mit dem alten Aberglauben, ist sie doch - im Unterschied zu manchen Medikamenten - nur in unvermischter Form heilbringend.
+Hat schon lange auf eine Darlegung der Unverträglichkeit von altem Aberglauben und christlicher Religion gewartet; mit
+seinen zwei Büchern "De origine erroris" [HBBibl I 12] hat Bullinger diese Aufgabe auf glänzende Weise gelöst. Dieses
+Werk schätzt del Prato umso mehr, als es ihm der Verfasser selbst geschenkt hat.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs IX 110-112, Nr. 1308.]
+</content>
+</letter>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2766">
+<brief>
+<id>17034</id>
+<nr>2766</nr> <from persid="SimlerJosias"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-01-23"/>
+<ae>Josias Simler an Bullinger</ae>
+<od>Basel, 23. Januar 1547
+<fn>Das Jahr geht eindeutig aus Z. <qv>zl17034-1</qv> und <qv>zl17034-2</qv> hervor.</fn></od>
+<vo>Autograph: Zürich ZB, Ms F 62, 478 (Siegelspur)</vo>
+<dr>Ungedruckt<k>undat. Brief 626; Kopie 18. Jh.: Zürich ZB, Ms S 63, 43 (1547 eingeordnet). Jahr: Simler und H. Zwingli d.J. wurden am 19. März 1546 (am Ende des Studienjahrs 1545/46), C. S. Curione im Studienjahr 1546/47 in Basel immatrikuliert [Basel, Matrikel II 44. 47; vgl. Curione an HB, 1. Januar 1547]</k></dr>
+<re><t>Simler hat zwar kaum etwas Mitteilenswertes, schreibt aber trotzdem, um den gegenwärtigen zuverlässigen Überbringer [Isaak Keller] nicht ohne einen Brief nach Zürich gehen zu lassen, zumal dieser es sehr wünscht, Bullinger brieflich empfohlen zu werden. Es handelt sich um einen guten Freund, der Simon Grynäus' Stiefsohn ist und sich dem Studium ziemlich eifrig widmet, wie Bullinger von dessen Begleitern [Francisco de Enzinas und Johannes Oporin] wohl erfahren wird.</t>
+<t>Josias hat das von Bullinger übermittelte Geld und den beigelegten Brief gut erhalten und dankt dafür. Noch weiß er nicht, wie es mit seinem Studium weitergehen wird. Doch werden sich bestimmt Bullinger und Josias' Vater [Peter Simler] darüber beraten und einen guten Entscheid treffen.</t>
+<t>In Basel lehrt jetzt Celio Secondo Curione, ein vortrefflicher Rhetoriklehrer und Redner. Simler ist von dessen Vorlesung beeindruckt. Es gibt auch eine gute Vorlesung im Fach Mathematik, dessen Fehlen im Lehrangebot der Zürcher seines Erachtens eine Lücke darstellt. Josias liebt das Fach sehr. Deshalb würde es ihm nichts ausmachen, wenn er in Basel bleiben müsste und sein Studium nicht woanders fortsetzen könnte. Bullinger möge bei Gelegenheit seinen Beschluss mitteilen.</t>
+<t>Gruß an Anna [geb. Adlischwyler] und an die ganze Familie. Grüße von Simlers Hausherrn [Konrad Wolfhart] sowie von Huldrych Zwingli d.J.</t></re>
+<text>
+<div>
+<p>Gratia et pax a domino per Christum Iesum. <zzl>zl17034-3A</zzl>Etsi nihil magnopere necessarium habebam, quod scriberem, Bullingere, pater charissime, tamen, cum haberem, cui recte darem litteras, adolescentem hunc
+<fn>Gemeint ist (wie aus dem Folgenden hervorgeht) Isaak Keller (1530-1596). Er war ein Sohn von Simon Grynäus' zweiter Frau Katharina Lompart aus deren erster Ehe. Zwischen 1553 und 1579 wirkte er als Professor der Medizin in Basel; s. <a>Henrich, Myconius BW</a> 693, Anm. 247. - Der Jugendliche unternahm (vermutlich am 24. Januar) die Reise nach Zürich in Begleitung von Johannes Oporin und Francisco de Enzinas. Seine Rückreise nach Basel trat er wohl am 2. Februar in Begleitung von Oporin an; vgl. <qv>nr2761</qv>,<qv>zl17029-1</qv>; <qv>nr2783</qv>, <qv>fn17051-1</qv>; <a>Henrich, Myconius BW</a> 934, Nr. 1050. Am 6. Februar ist er wieder in Basel nachgewiesen; s. <qv>nr2797</qv>,<qv>zl17066-1</qv>.<zfn>fn17034-1</zfn></fn> summa mihi familiaritate coniunctum, non potui ipsum inanem dimittere
+<fa><i>In der Vorlage</i> dimitterem.</fa>, cum praesertim ipse maxime optaret aliquas a me habere litteras. Est autem Grinei
+<fn>Simon Grynäus.</fn> privignus, iuvenis bonus litterisque satis intentus (quod ex ipsius comitibus
+<fn>Gemeint sind Enzinas und Oporin; s. oben <qv>fn17034-1</qv>.</fn> te cogniturum haud dubit[o]
+<fa><i>Hier und unten Textverlust durch Papierverlust.</i></fa>). Est quoque mihi summa summa familiaritate coniunctus.<zzl>zl17034-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17034-1A</zzl><zzl>zl17034-4A</zzl>Pecunias una cum litteris accepi, quas ad me perferendas curasti, ob quas magnas tibi habeo gratias.<zzl>zl17034-1E</zzl>
+<fn>Vgl. <qv>nr2757</qv>,<qv>zl17025-14</qv> (wo auch der Brief erwähnt ist).</fn> Etsi autem de meo negotio
+<fn>Es ging dabei um Josias Simlers weiteres Studium. Er konnte nach vielen Bitten im Frühsommer 1547 erreichen, dass sein Vater Peter Simler ihn nach Straßburg ziehen ließ (s. Josias Simler an Bullinger, 1. Juni 1547, Zürich StA, E II 340, 373), obwohl dieser gewünscht hatte, dass Josias sein Studium so schnell wie möglich abschließen würde (s. <a>HBBW</a> XVI 219f).<zfn>fn17034-4</zfn></fn> nihil adhuc certi habeam, tamen non dubito, quin, quod maxime in utilitatem meam sit, consulturus patri
+<fn>Peter Simler.</fn> sis.<zzl>zl17034-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17034-2A</zzl>Habemus nunc rhetorem egregium et, ut videt[ur], oratorem praestantem, Coelium Secundum,
+<fn>Zu Celio Secondo Curiones Ankunft und Tätigkeit in Basel s. <qv>nr2735</qv>, <qv>fn17004-1</qv>. Im Jahr 1547 las Curione in Ablösung von Johannes Hospinian über die Reden von Cicero oder Demosthenes sowie über die Rhetorica ad Herennium; s. <a>Thommen</a>, Übersichtstabelle IX (nach S. 348).<zfn>fn17034-2</zfn></fn> cuius lectio dici non pot[est] quam mihi placeat meque detineat.<zzl>zl17034-2E</zzl> <zzl>zl17034-5A</zzl>Est quoque mathematum lectio bon[a] apud nos,
+<fn>Der Mathematikunterricht wurde damals von Wolfgang Wissenburg erteilt; s. <a>Athenae rauricae</a> 411; <a>Thommen</a> 114.<zfn>fn17034-3</zfn></fn> mea quidem sententia qua vos carent, quandoquidem studia mirum in modum me alliciunt afficiuntque, ut non ingratum futurum sit, si Basile{e} sit manendum, si alio proficisci non possem. Te quaeso, ut, cum vacaverit, me certiorem de tua sententia reddas.<zzl>zl17034-5E</zzl></p>
+</div>
+<div>
+<p>Dominus te omnemque familiam quam diutissime incolumem conservet! Plurimam quoque meo nomine uxori
+<fn>Anna, geb. Adlischwyler.</fn> ac omni famili{e} salutem dicito. Salutem plurimam tibi dicunt dominus meus
+<fn>Konrad Wolfhart (Lycosthenes); s. <a>HBBW</a> XVI 219, Anm. 4.</fn> et Zvinglius
+<fn>Huldrych Zwingli d.J.</fn>. Datum Basile{e}, 23. ianuarii.</p>
+<un>Tibi omni tempore deditissimus</un>
+<un>Josias Simlerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Vigilantissimo Tigurin{e} ecclesi{e} pastori, domino Heinricho Bullingero, domino et patri suo colendissimo.</p>
+</div>
+</text>
+</brief>

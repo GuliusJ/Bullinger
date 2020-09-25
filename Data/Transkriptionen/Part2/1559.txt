@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1559">
+<nr>1559</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>27. August 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 337a, 325 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 65</vo>
+<dr>Ungedruckt</dr>
+<re>Obwohl Bullingers Warnung zu spät kam, waren [die Berner Pfarrer] dank Myconius vorbereitet, als der [Passauer] Dekan
+[Ruprecht von Mosham] am 22. August in Bern ankam; nachdem dieser die Verhältnisse ausgekundschaftet hatte, ersuchte er den
+Rat um eine Disputation mit den Pfarrern, doch diese hatten bereits dafür gesorgt, dass ihm der Aufenthalt in Stadt und Land
+untersagt wurde. Als Bürgermeister [Hans Franz] Nägeli entdeckte, dass er seine Schriften bei Apiarius drucken lassen
+wollte, wurde er nochmals vorgeladen und wegen seiner Kritik an der in Bern geltenden Lehre umgehend ausgewiesen; er behauptet, der Mensch werde auch aufgrund seiner Werke gerechtfertigt,
+und tritt sehr gewandt auf, weshalb ihm mit Vorsicht begegnet werden muss.
+</re>
+<tx>Gratia et pax etc.
+^$S. Tarde nimis venit monitio tua, sed Miconii praecessit.<f1>Weder der Brief Bullingers noch jener von
+Myconius ist erhalten.<fe> Venit decanus ille<f1>Ruprecht von Mosham, Domdekan zu Passau (vgl. zuletzt oben Nr. 1554, 5-22).<fe> Bernam die lune, quae erat 22. augusti, et delituit
+in hospitio corone<f1>Die "Krone" (Gerechtigkeitsgasse 64 / Postgasse 57) war im 16. Jahrhundert der bedeutendste Gasthof Berns; s. Eduard ^#/+von Rodt,^#/- Bern im sechzehnten Jahrhundert, Bern 1904, S. 82.<fe> nobis insciis usque in diem
+Veneris interim diligenter omnia considerans, quo viam excogitaret nos callide invadendi. Tandem consilio reperto
+senatum adiit petiturus, quatinus illi copia fieret nobiscum congrediendi et disputandi de fide et religione nostra. Nos
+moniti praevenimus eum et depinximus hominem senatui, ut ex literis Miconii intellexeramus. Senatus interdixit illi urbe et agro.<f1>Zum ersten Auftritt Moshams vor dem Rat am 26. August vgl. Bern StA, A II 147 (= Ratsmanual 277), 247f.<fe>
+^$Postero die consul Negelinus<f1>Hans Franz Nägeli.<fe>, ut est vir prudens, intellexit unum e famulis suis (habet enim
+duos<f1>Unbekannt.<fe>) ędes Apiarii, typographi nostri, frequentare multoties. Cogitavit, si forsan Apiarius aliquid
+nęniarum suarum imprimeret. Adiit domum Apiarii et rem ita reperit, quemadmodum suspicabatur. Protinus igitur vocabatur in
+senatum decanus et sciscitabatur, qua authoritate fretus id
+tentarit sine consensu senatus. Respondit inter alia fidem
+nostram non esse fidem christianam, sed offendiculis plenam
+neque authoritate scripture suffultam, quapropter statim ab
+urbe et agro expellitur.<f1>Vgl. Bern StA, A II 147, 254. Stadtschreiber Cyro bemerkt zur Ausweisung Moshams: "Gliche antwurt solt Bucero et suis geben sin worden!"<fe> Docet autem iustificationem homini
+non ex fide sola, sed etiam operibus provenire. Quare
+diligenter circumspicite; est enim homo non indoctus et
+vafer supraque modum eloquens, callidus et insignis
+hopocritha[!]<f1>Heuchler (hypocrita).<fe>, qui facie, vestitu
+incessuque<fx>^#/+Endung nicht sicher lesbar.^#/-<fe> mirum ad decipiendum se artificem praebet. Sic habes, de nebulone quid
+apud nos actum sit.
+^$Vale.
+^$Ex Berna, 27. augusti 1541.
+<un>Erasmus Ritter
+<un>ex animo tuus.
+<lz>[Adresse auf der Rückseite:] Dem wolgelerten
+herrnn Meister Heinrich Bullingernn, predicanten zuͦ
+Zürich, minem gunstigen, lieben herrnn zuͦ handen.
+</content>
+</letter>

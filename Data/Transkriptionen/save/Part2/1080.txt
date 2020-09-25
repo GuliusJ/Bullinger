@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1080">
+<nr>1080</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>20. Dezember 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 139 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re> [Die Berner Pfarrer] wollen den Bestrebungen von Theodor [Bibliander] entgegentreten; der Augenblick ist ungünstig, um
+etwas gegen Bucer zu unternehmen. Der Brief der Zürcher [Nr. 1073] hat ihren Beifall gefunden; Megander hat ihn an
+[Peter Cyro] weitergereicht, um ihn eventuell an den Rat zu bringen. Hat gehört, in sein Haus sei der Spitalmeister
+eingezogen; bittet dringend, für die vorläufige Unterbringung seines Hausrats zu sorgen. Die Berner bringen ihre Kirche in
+Gefahr; er widersetzt sich ihnen, übt aber Zurückhaltung.
+</re>
+<tx>Gratiam a domino.
+^$Theodori, quam poterimus, conatus infringemus; non
+certe videtur hoc temporis statu quicquam vel adversus Bucerum vel aliquem alium tentandum<f1>Offenbar bezieht sich Megander auf die von Theodor Bibliander an Rhellikan gesandte Schrift (vgl. oben Nr. 1074, 140f); welche Absichten Bibliander damit verband, ist nicht bekannt.<fe>.
+^$Quas dedistis literas<f1>Oben Nr. 1073.<fe>, legimus.
+Nemo certe nostrum est, cui non summope­re probentur, nisi virum probum aliud stando laudare, aliud vero sedendo vituperare
+deceat<f1>Vgl. Adagia, 3, 3, 56 (LB II 794f).<fe>. Literę asecretis<f1>im Sinne von: illi, qui a secretis est;d. h. dem Stadtschreiber Peter Cyro (vgl. unten Nr. 1083, 5).<fe> per me traditę sunt copiaque illi data, ut,
+si visum fuerit, apud senatum curet, ut legantur; hactenus nondum tamen lectę.
+^$Oeconomum hospitalis in edes meas comigrasse audio<f1>Vgl. oben Nr. 999, 2f. - Zu diesem Zeitpunkt dürfte das Amt des Spitalmeisters bereits von
+Hans Habersaat an Hans Lindiner übergegangen sein; vgl. Elisabeth ^#/+Wyder-Leemann,^#/- Rechtsgeschichte des alten
+Spitals in Zürich, seiner Organisation und Entwicklung, Diss. iur. Zürich 1952, S. 105.
+<fe>; at de suppellectili mea quid actum sit, non inteligo. Per dominum
+vos oro, ut de habitacione comoda locanda mihi prospiciatur, donec assignatam habere queam.
+^$Machinatores nostri; nam questum, imo inventum facinus, atque adeo ec­clesię nostrę necem maturant. Ne
+contenciosus videar, me plane nisi publicis concionibus summa tamen modestia illis oppono.
+^$Bene valete.
+^$Bernę, 20. decembris anno 37.<un>Megand. totus vester.
+<lz>[Adresse auf der Rückseite:] Viris tum piis tumque eruditis Bullingero et Leoni, Tigurinę ecclesię vigilantissimis ministris ac fratribus suis.
+</content>
+</letter>

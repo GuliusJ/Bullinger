@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2797">
+<brief>
+<id>17066</id>
+<nr>2797</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-02-06"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 6. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 336a, 271 (Siegelspur)</vo>
+<dr>Zusammenfassung: <a>Henrich, Myconius BW</a> 937f, Nr. 1054<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 86</k></dr>
+<re><t>Myconius liegt krank darnieder. Jeder will von ihm wissen, ob nun die Fünf Orte wirklich Bullinger und Rudolf Gwalther wegen Verletzung des [Zweiten Kappeler] Landfriedens bestrafen wollen. Doch kann er keine genaue Auskunft darüber geben. Es belastet ihn, immer etwas anderes und im Laufe der Zeit stets etwas Schlimmeres darüber zu hören. Bullinger hatte zwar [in <qv>nr2757</qv>] Gwalthers "Endtchrist" erwähnt, berichtete aber nichts über sich selbst. Falls man ihn wegen derselben Sache belangt, wird er sich wohl zu verteidigen wissen. Gerade kam Isaak Keller mit Bullingers Brief [<qv>nr2788</qv>]. Dies ermöglichte eine Nachfrage über die Angelegenheit, zumal der Brief keine Auskunft darüber gibt. Keller behauptet, dass die Sache erledigt sei. Wie schön! Gott sei Dank!</t>
+<t>Die Lage in Schwaben ist furchtbar! Konstanz ist besonders zu bedauern, jedoch auch die Helvetier, deren Machtlosigkeit hier klar ersichtlich wird. Denn wenn die Helvetier den Spaniern und Italienern erlauben, den Bodensee zu überqueren und Konstanz zu besetzen, erlauben sie diesen, ihren Boden zu betreten und sie von dort aus anzugreifen. Gott scheint fest vorzuhaben, die Eidgenossen zu bestrafen!</t>
+<t>Vom Hof des französischen Gesandten [Antoine Morelet du Museau oder François de La Rivière] kommt die Mitteilung, dass Emanuel Philibert, der Sohn Herzog Karls III. von Savoyen, mit der Unterstützung des portugiesischen Königs Johann III. ein Heer von etwa 70'000 Spaniern aufstellt, um damit Savoyen zurückerobern zu können. Auch [Philipp von Spanien], der Sohn Kaiser Karls V., sei dabei. Karl III. von Savoyen hat gewiss vor, sein ihm im deutschen Reichsteil besetztes Territorium wieder für sich zu beanspruchen und dort Besatzungstruppen zu stationieren, um einen Aufstand zu verhindern. Dies ist der Preis, den Deutschland zahlen muss, weil es dem wortbrüchigen Genter [Karl V.] erlaubt hat, fremde Truppen bei sich einzuführen!</t>
+<t>Dass der Kurfürst Johann Friedrich seit seiner Rückkehr nach Sachsen Gott auf seiner Seite hat, ist gut bekannt. Bullinger wird aber nicht erfahren haben, dass Herzog Moritz von Sachsen den Bürgern von Leipzig befohlen hat, alles Gold und Silber zur größeren Sicherheit in die Festung zu schaffen; dass er danach diese Gegenstände an sich riss, Leipzig verließ und dort neun Fähnlein sowie seinen Bruder August und einige Adlige zurückließ. Am 14. Januar begann die Belagerung durch den Kurfürsten. Der Fluss [Elster?] wurde umgeleitet. Am 18. fügte der Kurfürst den zwölf schon vorhandenen Geschützen 20 weitere hinzu. Was danach geschah, ist nicht bekannt. Moritz wartet auf kaiserliche Verstärkung. Der Kurfürst ist frohgemut; ebenso dessen Söldner, die ihren Sold erhalten. Soeben kam eine aus Belgien stammende Adlige [Anne t'Serclaes], die im Auftrag ihres adligen englischen Mannes [John Hooper] berichtet, dass Moritz wirklich festgenommen sei!</t>
+<t>Über Landgraf Philipp von Hessen gibt es eine derart erfreuliche Nachricht, dass Myconius diese kaum zu glauben wagt. Doch kann er sie Bullinger nicht verschweigen: Philipp soll bis an die 10'000 Söldner, die in Süddeutschland angeworben worden und für das große, sich bei Köln sammelnde kaiserlich Heer bestimmt waren, umgebracht haben!</t>
+<t>Im Gegensatz zur letzten Nachricht (die auch den Straßburgern unbekannt ist) sind die Mitteilungen über den Kurfürsten verbürgt. Straßburg scheint standhaft bleiben zu wollen. Sultan Suleiman steht unmittelbar vor einem Angriff. König Franz I. macht wie bisher weiter. Papst Paul III., den einige für tot erklären, soll sich nun gegen den Kaiser gestellt haben. Die Böhmen sind zerstritten und weigern sich, gegen den Kurfürsten zu ziehen.</t>
+<t>Der Herr bereite dieser schlimmen Lage ein Ende und verleihe Ausdauer!</t>
+<t>Gruß. Bullinger möge vorliegenden mit Mühe im Bett verfassten Brief gut aufnehmen. Gwalther erweise sich mutig!</t></re>
+<text>
+<div>
+<p>S. <zzl>zl17066-6A</zzl>Omnes veniunt ad <zzl>zl17066-2A</zzl>me decumbentem
+<fn>Myconius war krank; vgl. auch unten Z. <qv>zl17066-3</qv>.</fn><zzl>zl17066-2E</zzl> rogantes, quid sit, quod feratur Quinquepagicos
+<fn>Die Fünf (katholischen) Orte der Eidgenossenschaft.</fn> postulare te et Gvaltherum, ut suo iure agant vobiscum ut cum violatoribus pacis communis
+<fn>Der Zweite Kappeler Frieden von November 1531. - Hier wird die durch Gwalthers "Endtchrist" entfachte Reaktion der Innerorte angesprochen; s. <qv>nr2757</qv>, <qv>fn17025-7</qv>.</fn>. Ego respondere non possum, quia ea de re ex vobis nihil hactenus accepi. Perturbant itaque me valde vehementer, dum ille hoc, alius illud narrat et semper posterius infelicius est. De solo Gvalthero tu meministi propter Antichristum ipsius,
+<fn>Nämlich am 18./19. Januar; s. <qv>nr2757</qv>,<qv>zl17025-8</qv>.</fn> de te ipso autem nihil, nec interim causa narratur, curnam et te postulent. Si utriusque causa est eadem, non difficilis erit defensio, modo sit ius et iusticia; sin tu causam habes peculiarem, eam quia nescio, dicere nihil valeo. <zzl>zl17066-1A</zzl>H{e}c autem postquam hucusque scripsi, Isaacus Cellarius
+<fn>Der zusammen mit Johannes Oporin gerade aus Zürich zurückgekommen war und Myconius Bullingers Brief <qv>nr2788</qv> vom 2. Februar übermittelte.</fn> intervenit cum tuis,<zzl>zl17066-1E</zzl> in quibus ubi nihil invenio de tragoedia ista, rogo, numquid ipse aliquid certi queat referre. Maxime respondit. Pacata igitur narravit esse omnia.
+<fn>Eine Übertreibung. Der Zwist zog sich noch mindestens bis 1548 hin. Allerdings hatte der Zürcher Rat Bullinger und Gwalther beruhigt und ihnen seine Unterstützung versprochen, als er sie am 29. Januar verhört hatte; s. <qv>nr2767</qv>,<qv>zl17035-24</qv>; <qv>nr2827</qv>,<qv>zl17093-2</qv>; <a>Bächtold, Rat</a> 99.<zfn>fn17066-6</zfn></fn> Exultavi quamvis in lectulo et gratias egi domino; nam res talis visa erat mihi, ut ex qua non solum evangelium periturum nobis fuisset, sed etiam foederis nostri gloria. In gratiarum actione manebo itaque, dum tu me iusseris aliter.<zzl>zl17066-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17066-7A</zzl>Ex Suevia video omnia esse multo miserrima. Et Constantiam quidem deploro,
+<fn>Bezug auf Bullingers Mitteilung in <qv>nr2788</qv>,<qv>zl17055-14</qv>.</fn> non propter ipsam modo, sed etiam propter Helvetios, quorum infelicitatem hic magis intueor quam alibi unquam. Nam si
+<fa><i>Über der Zeile nachgetragen.</i></fa> permiserint, ut lacum
+<fn>Den Bodensee.</fn> transeant Hispani et Itali et civitatem occupent, quid aliud permiserunt quam viros iniquissimos in suum territorium ingredi? Et quis eiiciet eos, imo quis prohibebit, ne perrecturi sint et ad vos et alios Helvetios? Deus hoc introitu faciet contra nos
+<fa><i>Am Rande nachgetragen.</i></fa> aliquid, quod non vidisse poenitebit.<zzl>zl17066-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17066-8A</zzl>Venit ad me, ex aula credo legati
+<fn>Vielleicht aus dem Haus (dem Rosshof) auf dem Nadelberg, das sich der damals vermutlich noch abwesende (s. <a>HBBW</a> XVIII 295, Anm. 14) Antoine Morelet du Museau im Mai 1546 gekauft hatte; s. <a>HBBW</a> XVI 368f, Anm. 37. In Frage käme aber auch der Gesandte François de La Rivière, der damals ebenfalls in Basel residierte; s. <a>Rott, Représentation</a> 301.</fn> Galli
+<fn>Franz I.</fn>, ducis Sabaudi{e} filium
+<fn>Emanuel Philibert, Sohn Herzog Karls III. von Savoyen. - Emanuel Philibert fungierte im Schmalkaldischen Krieg als oberster Befehlshaber über die Kavallerie des Kaiserhofes; s. <a>Mameranus, Exerc.</a> 8.<zfn>fn17066-1</zfn></fn> congregasse ex Hispania exercitum ad 70'000 usque pecuniam subpeditante rege Portugalli{e}
+<fn>König Johann III. von Portugal.</fn>. Adesse quoque ibi filium c{e}saris
+<fn>Philipp II. von Spanien, Sohn Karls V.</fn>. Pr{e}volat rumor, quod reddere velint ducem suo regno.
+<fn>Nämlich das savoyische Territorium, das Bern im Winter 1536/37 besetzt hatte.</fn> Sed quid hic c{e}saris filius, nisi ut Germaniam occupatam vendicet ac subsidia imponat, ne quando possit rebellare? Hoc est praemium Germani{e}, quod exercitum alienum permisit introduci a Gandavo
+<fn>Gemeint ist der in Gent geborene Karl V. - Hier wird auf dessen Wahlkapitulation gegenüber den Fürsten vom 3. Juli 1519 angespielt, in der Karl V. sich verpflichtet hatte, ohne Vorwissen, Rat und Bewilligung der Reichsstände kein fremdes Kriegsvolk ins Reich zu führen; s. <a>RTA-JR</a> I 870 [13], Nr. 387; Quellen zur Geschichte Karls V., hg. v. Alfred Kohler, Darmstadt 1990, S. 55.<zfn>fn17066-2</zfn></fn> periuro, etc.<zzl>zl17066-8E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17066-9A</zzl>De electore
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> nosti, ut dominus magnifice cum eo fuerit, postquam rediit in Saxoniam.<zzl>zl17066-9E</zzl> <zzl>zl17066-10A</zzl>Unum illud forsitan nescis de Mauricio
+<fn>Moritz von Sachsen. - Die hier in Z. <qv>zl17066-5</qv> mitgeteilten Nachrichten hat Myconius wörtlich aus dem letzten Abschnitt des an ihn gerichteten Briefes von Bucer vom ca. 25. Januar 1547 übernommen (Text in <a>PC</a> IV/1 584, Nr. 539; Zusammenfassung in <a>Henrich, Myconius BW</a> 933, Nr. 1048).<zfn>fn17066-3</zfn></fn>: Ipsum <zzl>zl17066-5A</zzl>edixisse suis civibus Lipsi{e}, ut, quicquid haberent argenti et auri, facti infective, omne id in arcem inferrent, quo a milite praesidiario
+<fn>Der Besatzungssoldat; s. <a>Kirsch</a> 1778 (hier ein kollektiver Singular).</fn> melius servaretur. Ea omnia vel maximam saltem partem ipse postea avexit et erupit. Pr{e}sidium relictum est 9 signorum cum fratre
+<fn>Herzog August von Sachsen (1526-1585). - Moritz verließ Leipzig schon am 5. Januar, noch vor Beginn der Belagerung; s. Georg <i>Voigt,</i> Die Belagerung Leipzigs 1547, in: Archiv für die Sächsische Geschichte, hg. v. Karl von Weber, Bd. 11, Leipzig 1873, S. 270-272. 310. - Zu der Besatzung, die er dort zurückließ, s. Johann Jacob <i>Vogeln,</i> Leipzigisches Geschicht-Buch oder Annales, Leipzig 1714, S. 165.</fn> et nobilitate. Ianuarii 14. coepta est obsidio et flumen
+<fn>Vermutlich ist die Elster gemeint. Die Nachricht ist fragwürdig. - Zur Belagerung von Leipzig s. <qv>nr2757</qv>, <qv>fn17025-5</qv>.</fn> aversum. 18. primum adductis bombardis ad 20 praeter 12 priores coepit
+<fn>Subjekt ist der Kurfürst.</fn> oppidum gravius urgere. Quid autem factum postea, nescitur.<zzl>zl17066-10E</zzl> <zzl>zl17066-11A</zzl>Mauricius cum paucis copiis auxilia expectat c{e}saris.
+<fn>Siehe dazu schon <qv>nr2761</qv>, <qv>fn17029-4</qv>. Die Hilfstruppen von Markgraf Albrecht II. Alcibiades hatten Sachsen (Zwickau) bereits am 24. und 25. Januar erreicht; s. <i>Voigt</i>, aaO, 138.<zfn>fn17066-4</zfn></fn><zzl>zl17066-11E</zzl> <zzl>zl17066-12A</zzl>Elector mirifice erectus et confidens est; miles quoque: solutus est enim.<zzl>zl17066-5E</zzl><zzl>zl17066-12E</zzl> <zzl>zl17066-4A</zzl>Dum h{e}c scribo, venit mulier ad me nobilis {e}grotum
+<fn>Gemeint ist der kranke Briefschreiber; vgl. oben Z. <qv>zl17066-2</qv>.</fn> invisens ex Belgico orta
+<fn>Anne t'Serclaes; vgl. die Stelle in <qv>nr2798</qv> bei <qv>fn17374-3</qv>.</fn>, qu{e} dixit ex mandato mariti, nobilis Angli
+<fn>John Hooper.</fn>, Mauricium esse ca-<vl>271v.</vl>ptum, et vere captum!
+<fn>Ein Gerücht.</fn><zzl>zl17066-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17066-13A</zzl>De Hesso
+<fn>Philipp von Hessen.</fn> feruntur qu{e}dam, qu{e} referre non audeo propter gaudium inde captum. Vereor enim, ne non sit verum. Apud te tamen dicam: Aiunt usque ad 10'000 perempti
+<fa><i>In der Vorlage</i> perempta. <i>Korrigiert in Anlehnung an das daraufhin gebrauchte</i> conducti. <i>Damit werden die</i> milites <i>oder</i> militares <i>näher bestimmt.</i></fa> ab eo de his, qui in Superiore Germania conducti Coloniam voluerint proficisci ad exercitum magnum
+<fn>Das Heer, das der Kaiser seit Ende 1546 am Niederrhein aufstellen ließ. Es stand unter dem Befehl des kaiserlichen Statthalters von Zeeland, Jobst von Cruningen; s. Werner <i>Storkebaum,</i> Graf Christoph von Oldenburg (1504-1566). Ein Lebensbild im Rahmen der Reformationsgeschichte, Oldenburg 1959, S. 92.<zfn>fn17066-5</zfn></fn>, qui illic dicitur congregatum.
+<fn>Zu ähnlichen falschen Gerüchten über den Landgrafen s. schon <qv>nr2774</qv>,<qv>zl17043-10</qv> und <qv>nr2782</qv>,<qv>zl17050-14</qv>.</fn><zzl>zl17066-13E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17066-14A</zzl>De electore vera sunt omnia.<zzl>zl17066-14E</zzl> <zzl>zl17066-15A</zzl>De Hesso dubito; de quo nec Argentina certi habet aliquid.<zzl>zl17066-15E</zzl> <zzl>zl17066-16A</zzl>Argentina ipsa sic agit, tanquam in domino velit persistere.<zzl>zl17066-16E</zzl> <zzl>zl17066-17A</zzl>Turca
+<fn>Sultan Suleiman I. </fn> in foribus est.<zzl>zl17066-17E</zzl> <zzl>zl17066-18A</zzl>Gallus pergit.<zzl>zl17066-18E</zzl> <zzl>zl17066-19A</zzl>Et papam
+<fn>Paul III. - Er war damals bald 79 Jahre alt und wurde immer wieder für tot erklärt; s. schon <a>HBBW</a> XVII 144. 193; XVIII 138 und Anm. 50.<zfn>fn17066-8</zfn></fn> dicunt esse contra c{e}sarem, de cuius vita dubitatur adhuc.<zzl>zl17066-19E</zzl> <zzl>zl17066-20A</zzl>De Boemis adhuc audimus scissos esse et negare auxilia contra electorem.
+<fn>Vgl. dazu auch eine Nachricht vom 4. Februar 1547, derzufolge die Böhmen sich weigerten, über die Grenzen hinaus gegen die deutschen Fürsten zu ziehen; s. <a>Moritz von Sachsen PK</a> III 207, Nr. 274.<zfn>fn17066-7</zfn></fn><zzl>zl17066-20E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17066-21A</zzl>Dominus, qu{e}so, finem faciat rebus tam adflictis pro ipsius bona, et nobis largiatur, ut queamus in sese fortiter perdurare usque in finem.
+<fn>Phil 4, 1; Apk 2, 10.</fn> Dominus est et deus namque, qui verba vit{e} habet {e}tern{e}.
+<fn>Joh 6, 68; Apg 5, 20.</fn><zzl>zl17066-21E</zzl></p>
+</div>
+<div>
+<p>Vale et h{e}c qualiacunque boni consulito. <zzl>zl17066-3A</zzl>In lectulo scripsi enim, non sine difficultate.<zzl>zl17066-3E</zzl> <zzl>zl17066-22A</zzl>Gvaltherum iube cogitare, propter quem patiatur, et esse bono animo! Is enim vicit mundum.
+<fn>Joh 16, 33; Apg 1, 8.</fn> Dabit etiam, ut ipse quoque victor evadat.<zzl>zl17066-22E</zzl> Basile{e}, 6. februarii anno 1547.</p>
+<un>Tuus O. M.</un>
+<lz/>
+<p>[Adresse darunter:] D. Heinricho Bullingero, viro doctissimo piissimoque, fratri ac domino in Christo observando suo. Zu[rich].
+<fa><i>Textverlust bei der Entfernung des Siegels.</i></fa></p>
+</div>
+</text>
+</brief>

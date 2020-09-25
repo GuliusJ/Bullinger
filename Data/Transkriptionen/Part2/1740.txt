@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1740">
+<nr>1740</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>11. April [1543]</date>
+	<note>Das Datum ergibt sich aus Blarers Klage über Schmerzen im Arm, auf die er unten Nr. 1743, 4-6 zurückkommt.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 288 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 52, 177</vo>
+<re>Seit dem 30. März herrscht offener Streit zwischen den Ständen [am Reichstag] zu Nürnberg, nachdem König [Ferdinand] [den Protestanten] Frieden und Recht verweigert hat; die Beratungen über die Türkenhilfe gehen deshalb ohne sie weiter. Starke Schmerzen im rechten Arm hindern ihn seit 14 Tagen am Schreiben. Gruß.
+</re>
+<tx>[Gedruckt: Blarer BW II 179, Nr. 1003.]
+</content>
+</letter>

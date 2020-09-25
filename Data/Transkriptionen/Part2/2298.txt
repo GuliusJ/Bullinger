@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2298">
+<nr>2298</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>27. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 133 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 129 ^&x{
+<re>Myconius soll Bullingers späte Antwort auf Brief [Nr. 2278] entschuldigen; zur rechten Zeit stand nie ein Bote zur Verfügung. Dies vorab, ehe Myconius anderes vermutet.
+-^#. Die schwenckfeldische Angelegenheit ist Gott zu überlassen, und Gespräche mit Schwenckfeld sind zu vermeiden. Obwohl dieser Frömmigkeit und Mäßigung vortäuscht, will er doch nur die anderen mit seiner Krätze anstecken. Myconius wollte gutmütig und ohne böse Absicht [den Zürchern] das Anliegen [der Schwenckfelder] übermitteln, und schon wäre beinahe ein Streit ausgebrochen! Man muss sich vor weiterem Umgang mit [Schwenckfeld] hüten.
+-^#. Gott sei für den Sieg [Landgraf Philipps von] Hessen gedankt; möge [Philipp] nun auf die rechte Weise gegen Agag und Ben-Hadad vorgehen, um nicht Gottes Zorn auf sich zu ziehen. Bullinger befürchtet jedoch, dass man erst am Anfang eines viel schlimmeren Krieges stehe. Der Spanier [Karl V.], der von den Mächtigen aufgehetzt wird, ist für seine Grausamkeit und seinen Stolz bekannt. Das Religionsgespräch bietet er [als Ablenkungsmanöver] an.
+-^#. Bullinger dankt für Myconius' Nachrichten. Falls dieser Neuigkeiten über [Philipp von] Hessen, die [Verhandlungen zwischen] England und Frankreich und über den [Schmalkaldischen Bundestag] in Frankfurt hat, möge er sie mitteilen. Den Brief von Kurfürst [Johann Friedrich I. von] Sachsen und [Philipp von] Hessen mit der Bitte, Bucer an das Regensburger [Religionsgespräch] zu entsenden, hat Bullinger schon gelesen. Myconius soll den Brief nicht schicken.
+-^#. Der Zürcher Gesandte [...] ist aus Mailand zurückgekehrt. Bullinger hat ihn noch nicht gesehen, hörte aber, dass die [eidgenössischen Gesandten] erst nach neun Tagen zur Audienz zugelassen wurden, wobei [der Marchese Alfonso d'Avalos] kurz angebunden und hochmütig sagte, er wollte nichts anderes antworten, als was in dem an die Eidgenossen gerichteten Brief stünde. Sobald Bullinger Genaueres weiß, wird er es berichten. [Der Marchese] will sicherlich nur schaden. Grüße.</re>
+<tx>Gratiam et pacem. Tardius seriusque respondeo ad tuas<f1>Oben Nr. 2278.<fe>, vir observande, quia, cum scribere vacat, tabellionibus careo, cum non vacat, ultro se ingerunt.
+Haec mox ab initio commemoro, ne aliud subesse suspiceris.
+^$Caussam Schvenckfeldianam committamus iudici deo. Colloquia hominis virulenti fugiamus.
+Simulat miram sanctimoniam, modestiam et aequitatem, sed exquisite pungit
+et mordet, nec audiri cupit, ut discat, sed ut aliis affricet suam scabiem.
+Vidimus, quam infauste res illius cedant omnes:
+Tu non mala mente, quae ab aliis acceperas, transscripsisti ad nos,<f1>Myconius hatte auf die Bitte Jakob Helds von Tiefenau hin Vadian und Bullinger Schwenckfelds Wunsch nach einem Gespräch mitgeteilt; s. oben Nr. 2243 und Anm. 1.<fe> et mox induxisset inter nos
+qualecunque dissidium mentio illa Schvenckfeldii facta,<f1>Zu diesen Uneinigkeiten s. zuletzt oben Nr. 2278, 1-7.<fe> nisi charitas intercessisset media.
+Omnia enim nunc sublata sunt e medio, et recte habent res. Caveamus modo, ne quid vobis<fx>^#/+Die Lesung^#/- nobis ^#/+wäre auch möglich.^#/-<fe> negotii sit cum infausto hoc homine!
+^$Gratias agimus deo optimo maximo, qui victoriam celebrem Hesso<f1>Der Sieg Philipps von Hessen über Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel; s. zuletzt oben Nr. 2289, 34-42.<fe> nostro concessit.
+Is concedat optimo principi, ut victoria recte et bene utatur atque sic tractet
+Hagagum<f1>Agag, König der Amalekiter. Saul schonte ihn entgegen Gottes Anweisungen und wurde deshalb von Gott verworfen; s. 1Sam 15.<fe> et Benhadad<f1>Siehe oben Nr. 2284, Anm. 17.<fe>, ne uspiam sibi numinis iram<f1>numinis iram: Vgl. z.B. ^#/+Ovid,^#/- Metamorphosen, 2, 659, u.ö.<fe> contrahat.
+Ego suspicor ac vereor illa ingentis belli incendiique maximi fore initia.
+Notum est illud crudele, ambitiosum, superbum et impium ingenium Hispanicum<f1>Kaiser Karl V.<fe>,
+cui multi magnates flammas subiiciunt, quo aestuet ferocius.
+Quod colloquium<f1>Das Zweite Regensburger Religionsgespräch; s. oben Nr. 2221, Anm. 5.<fe> offert, pro ingenio suo Hispanico offert: Id quod eventus, nisi dominus praevenerit, declarabit.
+^$Pro iis, quae diligenter consignasti in tuis, ingentes ago gratias.
+Si quid habes praeterea de exercitu et instituto Hessi, de bello Anglico vel Gallico,<f1>Zu den Verhandlungen zwischen Frankreich und England unter Leitung der deutschen Protestanten bzw. des Kaisers s. oben Nr. 2278, 23-27, und unten Nr. 2301, Anm. 17 und 19.<fe>
+item de comitiis Francfordianis<f1>Zum Schmalkaldischen Bundestag in Frankfurt s. oben Nr. 2285, Anm. 37.<fe> similibusque scitu dignis, oro communices.
+Literas electoris Saxonis<f1>Johann Friedrich I. von Sachsen.<fe> et Hessi ad Argentinenses scriptas<f1>Am 18. November hatte Bullinger von Ambrosius Blarer eine Abschrift dieses von Johann Friedrich I. von Sachsen und Landgraf Philipp von Hessen an den Rat von Straßburg geschriebenen Briefes erhalten, wovon er sich eine Kopie anfertigen ließ; s. oben Nr. 2286 und Anm. 7.<fe>, ut Bucerum Ratisponam mittant ad colloquium, legi.
+Quod moneo, ne id scriptum mittas, si forte habes et missurus eras.
+^$Rediit e Mediolano legatus noster<f1>Unbekannt. - Zur Angelegenheit s. zuletzt oben Nr. 2288 und Anm. 4.<fe>, quem nondum salutavi. Audio tamen ab aliis
+marchionem<f1>Der Spanier Alfonso d'Avalos, Marchese del Vasto (Guasto), Statthalter von Mailand.<fe> illos non admisisse ad colloquium, nisi post diem 9., cumque mandata illi exposuissent,
+respondisse illum [p]aucis<fx>[p]aucis et ^#/+am Rande nachgetragen. Hier und unten Text teilweise im engen Einband verdeckt.^#/-<fe> et superbe relationem<fx>relationem legatorum esse imperiosam ^#/+über der Zeile nachgetragen^#/-.<fe> legatorum esse imperiosam noluisseque responsionem dare aliam
+quam literis inclusam obsignatamque, quam et attulere [o]mnibus<fx>[o]mnibus Hel[v]etiorum inscriptam [o]rdinibus ^#/+am Rande nachgetragen^#/-.<fe> Hel[v]etiorum inscriptam [o]rdinibus<f1>Der Brief vom 13. November 1545 war an die zu Baden versammelten Boten der XII Orte gerichtet; s. EA IV/1d 560, Nr. 2.<fe>.
+Sic, inquam, audio. Ubi habuero certiora, scribam.<f1>Mit dem Brief vom 6. Dezember (unten Nr. 2304).<fe>
+Ego nihil dubito Hispanum quaerere nocendi subiugandique occasiones.
+Dominus perdat nebulonem impiissimum crudelissimumque. Vale una cum omnibus tuis.
+^$Tiguri, 27. novembris 1545.
+<un>Tuus Bullingerus.
+<lz>[Adresse auf der Rückseite:] Praestantissimo virod. Osvaldo Myconio, Basiliensis ecclesiae antistiti vigilantissimo, suo in domino colendissimo charissimoque fratri. Basel.
+</content>
+</letter>

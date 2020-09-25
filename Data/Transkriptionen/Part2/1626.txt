@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1626">
+<nr>1626</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>28. April 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 239 (Siegelspur)</vo>
+<vo>Kopie: Ms S 51, 91<f1>Teilübers.: Zwa VIII 156<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Hofft zusammen mit seinen Kollegen auf baldige Genesung von Bullinger, Leo [Jud] und weiteren Zürchern; Theodor
+[Bibliander] und auch Bullinger selbst, der kaum zu ersetzen wäre, sollten sich um der Kirche willen schonen. Verweist auf
+einen weiteren Brief der Neuenburger [Nr. 1622]. Die Reichsstädte bedauern die Uneinigkeit der Eidgenossen; sie
+selbst werden ebenso von den Fürsten und deren Verbündeten bedrängt wie die Eidgenossen vor Abschluss ihrer Bündnisse; über
+ihre Absichten gibt es nur Gerüchte. Legt die Rede bei, die der französische Gesandte [François Olivier] [am Reichstag zu Speyer] gehalten hat. Grüße.
+</re>
+<tx>S. Doleo multo aliter, quam dici queat, propter te,
+Leonem<f1>Leo Jud.<fe> et reliquos.<f1>Vgl. die Nachrichten über die Erkrankung mehrerer Zürcher Theologen in Bullingers Brief an Myconius vom 19. April (oben Nr. 1621, 4-13).<fe> Theodoro proxime scripsi<f1>Ein entsprechender Brief an Theodor
+Bibliander ist nicht erhalten.<fe> per Christophorum<f1>Gemeint ist wohl Christoph Rotacher, vgl. oben Nr. 1620, 1-12.<fe> et
+adhortatus sum ut antea sępe, sibi parcat propter ecclesiam, si aliter nolit; novi enim, quam in usum publicum libenter
+laboret, quare vellem, ut sui curam haberet talem, ut illud posset quam diutissime. Eius imbecillitas multis dolet
+fratribus, similiter et Iudae; precantur itaque, ut dominus ipsis adsit per omnia. De te equidem diutius ignoravi, quam par
+fuit; credo, quod nemo libenter me perturbare voluerit alioqui propter varios casus mundi perturbatissimum. Sed ago tibi
+gratias, quod de restitutione certiorem me reddideris, et precor una cum fratribus dominum, ut te in primis restituat in totum,
+prout hęc tempora requirunt. Theodorum, si ego loco tuo essem, cogerem, ut valetudini suę diligentius provideret.
+Quid enim efficiet, si laborando se absumpserit? Te item velim admonitum, ut curam tui gereres diligentiorem propter
+miseram ecclesiam, quę adhuc est tam imbecillis. Si
+abires ad dominum, quisnam successurus esset? Habetis
+praeclara ingenio, non nego, verum ita carnalia, ut non
+videam, qualiter in tempestatibus spiritualibus possent
+perdurare. Dominus te protegat semper. Amen.
+^$Novocomenses iterum<fx>^#/+Korrigiert aus^#/- item.<fe> scribunt<f1>Myconius bezieht sich wohl auf den Brief Farels vom 19. April (oben Nr. 1622).<fe>; quid sit, nescio.
+^$Non dubito, quin scias, quo loco sint civitates imperiales et liberę; queruntur anxie apud se non esse concordes
+Helvetios, nescio quid tentaturę. Premuntur non minus a principibus electoribus quam populus noster olim ante
+foedera<f1>D. h. vor der Gründung der Eidgenossenschaft. - Zur Unzufriedenheit der Städte über ihre Behandlung durch die
+Fürsten vgl. bereits oben Nr. 1619, 13-20.<fe>. Adiungunt illi sibi pfaffos, monachos, monarchas (forsitan per dominum), ut clarius sit, quam civitates vilifaciant. Rumores feruntur, quorum author ego nolim esse.
+^$Mitto orationem legati<f1>Bei der (nicht mehr vorhandenen) Beilage handelte es sich wohl um die Kurzfassung der Rede, die
+der französische Gesandte François Olivier am 14. Februar am Reichstag zu Speyer gehalten hatte.^&x(s. RTA JR XII/2 863-866, Nr. 162; vgl. auch die ausführlichere Fassung: RTA JR XII/2 850-860, Nr. 160); vgl. PC III 252f; NBD VII 118; ^#/+Cardauns^#/- 225.^&x{
+Bullinger hatte bereits eine Abschrift aus Konstanz erhalten (s. oben Nr. 1613, 56-61; 1616, 30-34).<fe>, si forsitan non
+vidisti, ut scias conatum Galli<f1>Franz I., französischer König.<fe>. Potest esse usui, si quis recte usurparit.
+^$Ego abeo in ędem capitularem<f1>Gemeint ist das 1528 erbaute Kapitelhaus der Domherren (Münsterplatz 8).<fe>, quare vale in Christo Iesu cum tuis, Theodoro, Pellicano, Leone, Gasparo<f1>Kaspar Megander.<fe>, omnibus. Fiat, fiat.
+^$Basileę, raptim, 28. aprilis anno 1542.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero doctissimo, fidelissimo Christi ministro, in domino suo.
+</content>
+</letter>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2417">
+<brief>
+<id>16105</id>
+<nr>2417</nr>
+<ae>Johannes Caesarius an Bullinger</ae>
+<od>Köln, 8. April [1546]
+<fn>Johann Jakob Simler (Zürich ZB, Ms S 59, 137) wie auch Carl Krafft datieren den Brief auf 1546. Laut Inhalt hatte Caesarius schon "lange" kein Buchgeschenk von Bullinger mehr erhalten. Da Caesarius zwischen 1543 und März 1545 immer wieder Neuerscheinungen Bullingers bekam und im Sommer 1545 immer noch auf Bullingers Lukaskommentar (<a>HBBibl</a> I 173) wartete (s. <a>HBBW</a> XV 194,6-8; ebd., Nr. 2233), könnte der vorliegende Brief vor der im August 1546 erfolgten Publikation dieses Kommentars einzuordnen sein. Da aber dieser Brief kurz nach einem siebenmonatigen Aufenthalt beim Grafen Hermann d.J. von Neuenahr entstanden ist, der erste Aufenthalt beim Grafen jedoch stets auf das Jahr 1546 datiert wird und Caesarius im Januar 1547 beim Grafen in Moers nachgewiesen ist (s. Peter Medmann an Bullinger, 20. Januar 1547, <a>Pollet, Relations</a> II 177: "Caesarius [...], qui nunc vivit Morsae"), wo er doch im vorliegenden Brief den Plan äußerte, in Zukunft die Sommer beim Grafen und die Winter eher in Köln zu verbringen, könnte dieser Brief erst auf April 1547 anzusetzen sein. Doch ließe sich in diesem Fall nur schwer erklären, wieso Caesarius im vorliegenden Schreiben überhaupt nicht auf die Wirren des Schmalkaldischen Kriegs anspielt. Demzufolge wird Caesarius' Aufenthalt beim Grafen bereits im Jahre 1545 begonnen haben, und wird die Tatsache, dass Caesarius im Gegensatz zu seinem hier geäußerten Plan den Winter 1547 beim Grafen verbrachte, durch den Ausbruch des Schmalkaldischen Krieges zu erklären sein.</fn></od>
+<vo>Autograph: Zürich StA, E II 338, 1478 (Siegelspur)</vo>
+<dr>Druck: <a>Krafft, HBKöln</a> 137, Nr. 6
+<fa><i>Der Druck weist mehrere Fehler auf; u.a. fehlt zwischen den Wörtern</i> proximis <i>und</i> nundinis <i>das Wort</i> transactis.</fa><k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 137 (datiert auf 8. April [1546], eingeordnet Mitte März 1546). ─ Jahr: Da Caesarius "lange" kein Buchgeschenk von HB erhalten hat, kaum schon 1543-1545.</k></dr>
+<re>Zweifelsohne möchte Bullinger wissen, ob Caesarius noch lebt, zumal überall die Pest wütet und in Köln schon seit zwei Jahren alte und junge Menschen hinwegrafft. Aus diesem Grund war Caesarius recht froh, Köln verlassen zu können, als ein junger, im Griechischen und Lateinischen hochgebildeter Graf [Hermann d.J. von Neuenahr] ihn zu sich [nach Moers] rief. Dort verbrachte er sieben Monate, [ab] vergangenem Sommer bis zum Beginn der gegenwärtigen Fastenzeit. Vorläufig ist er wieder in Köln. Der Graf hat ihm zwar angeboten, stets bei ihm zu wohnen, er aber gedenkt, nur die Sommer beim Grafen zu verbringen, die Winter hingegen in Köln.
+<t/>Schon lange hat Caesarius keine Schriften Bullingers mehr erhalten bzw. gelesen. Sollte dieser etwas zur letzten [Frankfurter Buch]messe publiziert haben, möge er es doch schicken, auch wenn Caesarius nicht so recht weiß, wie er sich erkenntlich zeigen könnte.
+<t/>Bullinger soll ferner schreiben, wie es ihm geht, und welche Fortschritte die evangelische Lehre in der [Eidgenossenschaft] macht. Wäre Caesarius doch bei so guter Gesundheit, dass er [die Zürcher] besuchen könnte!</re>
+<textweg>
+<p>Salutem in Christo Iesu, domino et servatore nostro.</p>
+<p>Non est dubium mihi, vir ornatissime, quin solicite scire cupias, vivam adhuc necne, hac pr{e}sertim tempestate, qua ubique pestilenti{e} vis viget ac grassatur, qu{e} certe iam duobus annis continuis Coloni{e} multos et senes et iuvenes pr{e}ter spem abstulit. Ego interim Colonia abesse malui quam in illo tum vehementi incendio manere atque periculum expectare, non tamen aufugissem, nisi comes
+<fn>Graf Hermann d.J. von Neuenahr.</fn> quidam apud nos, iuvenis egregie doctus, utpote Gr{e}ce et Latine non mediocriter institutus, me ad se evocasset, ubi mansi superiori {e}state mensibus septem ad initium usque quadragesim{e}. Itaque tandem Coloniam redii fortassis non diu illic mansurus, siquidem idem comes plane optat et vult me posthac apud se diversari commorarique perpetuo. Cui ego illud responsum dedi me per aestatem lubentem apud ipsum demorari, sed hyeme Coloni{e} potius idque propter [causas] quas in praesentia narrare supersedo, quod non magni refert, scias an nescias.</p>
+<p>Diu est, mi Bullingeri, quod nihil abs te lucubrationum tuarum quicquam aut accepi aut etiam legi. Proinde, si quas proxime transactis nundinis aedi[di]sti, earum, qu{e}so te, me participem facere velis pro tuo more, imo pro tua in me benevolentia. C{e}terum, quod vices tibi non reddo, in hoc non voluntas, sed facultas defit, nec certo scio, qua in re tibi vicissim gratificari possim. Iam superest, ut et tu mihi quoque rescribas, qua sis valetudine et quo pacto evangelica doctrina isthic vigeat ac procedat. Utinam tam valido essem corpore, uti isthuc ad vos mihi concedere aliquando daretur! Viderer sane non parum felicior.</p>
+<p>Bene vale.</p>
+<p>Coloni{e} ex {e}dibus meis quinta feria post Letare Hierusalem.</p>
+<un>Ioannes C{e}sarius, ex animo tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Ornatissimo ac mira humanitate pr{e}dito viro Henrico Bullingero, amico suo optimo et incomparabili.</p>
+<p>Francofordi{e} ad manum Froschouii typographum apud Tigurum in Elvetiis.</p>
+</textweg>
+</brief>

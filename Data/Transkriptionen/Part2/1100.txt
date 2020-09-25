@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1100">
+<nr>1100</nr>
+<correspondents>
+	<originator>Johannes Rhellikan</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+	<addressee>Kaspar Megander</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>12. Februar 1538</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 337, 282r.-283r. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xZitiert: Johann Heinrich ^#/+Ott,^#/- Annales Anabaptistici, Basel 1672, S. 96.^&x{
+<re>Berichtet, was seit den Verhandlungen der Aargauer Pfarrer mit dem Rat [über die Revision des Katechismus] geschehen ist:
+Diakon Jakob [Meyer] wurde wegen seines Widerstands gegen den neuen Katechismus abgesetzt, aber auf Bitte der Aargauer zur
+Versetzung in eine Landgemeinde begnadigt; die Stadtpfarrer haben sich bei den Aargauern entschuldigt, ihre Vorschläge
+gebilligt, sie bewirtet und sich beim Stadtschreiber für die Korrektur des Katechismus und für die rasche Ausfertigung des
+Abschieds eingesetzt. Ursache dieser scheinbaren Wandlung der Buceraner ist ihre Furcht vor offenem Aufruhr; sie versuchen, die Änderung des Katechismus zu vertuschen. Inzwischen wurde
+der Vogt von Bipp wegen eines Liedes vernommen, wobei er angab, ein Prediger von Solothurn habe unter Hinweis auf
+die [lutherische] Lehre des Pfarrers von Koppigen die baldige Rückkehr Berns zur römischen Kirche vorausgesagt. Auch Jakob Seckler geriet wegen eines Verses unter Verdacht, und
+[...] von Erlach wurde deswegen verhört; letzterer hat jedoch bereits früher seine
+Verschwiegenheit unter Beweis gestellt, als er über ein Gespräch mit Martin Zulauf ausgehorcht werden sollte. Rhellikan erwartet,
+nicht mehr lange in Bern bleiben zu können, und bittet um eine formelle Rückberufung. Hat durch Blasius gehört, daß Megander in
+Aarau Venner [Im Haag] ungewollt beleidigt hat; nachdem auch [Anton] Noll davon erfuhr, muß sich Megander auf
+Schwierigkeiten gefaßt machen. Grüße. Auch Blasius muß wegen der Mitteilung, die er im Auftrag Meganders an Erasmus [Ritter]
+übermittelte, mit einer Vorladung rechnen; er bittet deshalb Megander um Rat. Auf Ersuchen des Pfarrers von
+[Groß-]Höchstetten hat der Rat erlaubt, in Bern eine Disputation mit Täufern durchzuführen; Näheres ist noch nicht bekannt.
+</re>
+<tx>Salutem et pacatam conscientiam per Christum, dominum nostrum.
+^$Quaenam in Argoviensium fratrum conventu acta et heic a
+minore senatu impetrata sint, iampridem vos accepisse non
+dubito<f1>Am 29. Januar waren Vertreter mehrerer, insbesondere aargauischer Kapitel in Bern erschienen, um gegen die
+von der Obrigkeit durchgesetzte Änderung des Katechismus zu protestieren. Sie beriefen sich auf den Synodalbeschluß
+vom Frühjahr 1537, der die Einführung ungebräuchlicher Begriffe in der Abendmahlslehre untersagt hatte. Nachdem sie zunächst
+sehr ungnädig empfangen worden waren, konnten sie in mehrtägigen Verhandlungen einen Kompromiß durchsetzen (zum Abschied vom 2.
+Februar vgl. unten Nr. 1101, Anm. 3f). Über die Vorgänge sind wir vor allem durch den ausführlichen, ungedruckten Bericht von
+Dekan Heinrich Möriker unterrichtet; seine Aufzeichnungen und weitere hierhergehörende Dokumente liegen bei den Akten des
+Kapitels Brugg-Lenzburg (ehemals Schenkenberg) im Aargauischen Staatsarchiv (AA 2233, bes. Nr. 3). - Lit.: ^#/+Hundeshagen^#/-
+96-105; ^#/+Straßer^#/- 149f; Rainer ^#/+Henrich,^#/- Ein Berner "Kunzechismus" von 1541. Bucers verloren geglaubte Bearbeitung des Meganderschen Katechismus, in: Zwa XXIV, 1997, S. 81-94 (bes. S. 91-93).<fe>.
+Proinde ea duntaxat heic persequi studebo, quae interea temporis
+evenerunt, ac dein pauca super meis rebus subnectam. Eo igitur ipso die, quo tu, Megander, hinc solvisti, Iacobo<f1>Jakob Meyer; vgl. HBBW VII, S. 317, Anm. 1.<fe>
+diacono diaconatus suus abrogatus est, quod in novum
+cathechismum<fx>^#/+in der Vorlage ^#/-cathecismum.<fe> consentire nolebat. Postero autem die ex
+Aergovianorum fratrum interpellatione ac precibus aditus ei
+ad aliud sacerdotium, sed non in urbe, datus est. Quem ita
+expectat, ut interim pristino suo stipendio fruatur, donec
+alicui ecclesiae in agro praeficiatur. Eo ipso die ac
+insequenti tres nostri contionatores<f1>Sebastian Meyer, Peter Kunz und Erasmus Ritter.<fe> culpam suam apud
+fratres Argovienseis deprecati sunt, sicubi ipsos
+offenderint. Tanta denique humanitate ac benevolentia illi
+hos affecerunt et prosecuti sunt, ut nihil non, quod ad
+senatum retulerant ac immutatum cupiebant, probarent,
+convivia cum eis in publico diversorio agitarent et vicissim
+symposio vespertino eos in praepositura simul cum aliis multis
+exciperent. Ad quam<f1>Das Femininum ist bezugslos, gemeint ist wohl: symposium.<fe> merendam Schleiphius<f1>Heinrich (Henz, Heinzmann) Schleif, von Bern, scheint schon als junger Mann in
+französische Dienste getreten zu sein (s. Berchtold Haller, Bern in seinen Rathsmanualen 1465-1565, Bd. 3, Bern 1902, S. 556).
+Er gehörte 1520 dem Großen Rat an und wurde 1528 Landvogt zu Nidau. 1531 war er am Friedensschluß mit den Fünf Orten und 1536
+an der Lausanner Synode beteiligt. 1526/27, 1534-36 und 1540/41 trat er mehrfach als bernischer Gesandter in Erscheinung; 1551
+wird er als verstorben erwähnt (s. EA IV/1a-e, Reg.). Am 31. Dezember 1537 erhob "Vogt Schleiff" beim Rat wegen
+verschiedener Äußerungen Meganders Klage (s. Bern StA, A II 132, 26 und 32). - Lit.: Anshelm, Reg.; ABernerRef, Reg.; HBLS VI
+195.<fe> vinum honorarium misit, duas mensuras vini Burgundiaci. Nec his contenti, quin et praedicti contionatores octo (ni
+fallor) libellos iuxta classium capitularium numerum<f1>Zur Einteilung des Gebiets der Berner Kirche in Kapitel vgl. ^#/+de Quervain^#/- 4f.<fe> ad secretarium tulerunt, ut nova glossa adscriberetur<f1>Die den
+Kapitelsvertretern zugestandenen Textänderungen wurden vom Stadtschreiber Peter Cyro eigenhändig in den Katechismus
+eingetragen; s. ^#/+Hundeshagen^#/- 102.<fe>. Quin etiam, quam enixissime potuerunt, a<fx>a ^#/+(von späterer Hand?)
+eingefügt.^#/-<fe> domino a secretis rogaverunt post Argovianorum discessum, ut cum diplomate actionum scribendo ita maturaret,
+quo illis in itinere adhuc versantibus redderetur.
+^$Quae omnia quorsum tenderent, quantumvis tardo
+ingenio sim, facile con­iectabam et quaedam etiam
+Argoviensibus communicabam, nimirum quod omnia mihi suspecta
+viderentur, cum subito ex tam saevis praeter modum blandi,
+ex malignis benigni essent facti. Cogitabam enim - id quod
+res erat et eventus postea docuit - Buceranos imminenti
+periculo deterritos omnibus modis operam dare, ne res in
+tumultum abeat; etenim non ita multo post Argovianorum
+discessum se aliquid de pristino suo instituto mutasse
+prorsus agnoscere noluerunt, perinde ut prius se nihil novi
+in cathechismo statuisse omnibus persuadere volebant. Qua in
+re licet dissimili papum illum Calenbergensem<f1>Der Schwank vom unsichtbaren Gemälde, auf den Rhellikan anspielt, wird
+andernorts nicht dem Pfaffen vom Kalenberg, sondern dem Pfaffen Amis oder auch Till Eulenspiegel zugeschrieben;
+^&xBibliander erwähnt Kalenberg und Eulenspiegel^&x{ s. Der
+Pfaffe Amis 491-804 (Der Pfaffe Amis von dem Stricker. Ein
+Schwank­ro­man aus dem 13. Jahrhundert in zwölf Episoden, hg.
+u. übers. v. Hermann Henne, Göppingen 1991. - Göppinger
+Arbeiten zur Germanistik 530, S. 30-43; vgl. S. 134) bzw.
+HBBW VI, S. 363, Anm. 3.<fe> imitari videntur;
+ille nanque per technas, quas agnoscitis, colonis
+ecclesiasticis<f1>In den erwähnten Volksbüchern handelt es
+sich bei den Betrogenen um weltliche Herren. ^&xden König von
+Frankreich bzw. den Landgrafen von Hessen mit ihrem
+Hof^&x{<fe> suis persuadebat se Apellis<f1>Apelles, berühmter Maler aus dem 4. Jh. v. Chr. - Lit.: Andreas ^#/+Rumpf,^#/- in: KP I 422.<fe> opus in
+parietibus depinxisse, quum nihil omnino pinxisset. Hi vero in clara luce et sana mente et videndi et iudicandi sensum
+nobis<fx>nobis^#/+ am Rande nachgetragen.^#/-<fe>
+communem adimere conantur, ita ut innovatus cathechismus non
+sit novus et libellus denuo interpolatus nullam interpolationem habeat. O caecas hominum mentes, o pectora caeca!
+^$Ad hunc modum a vulpino ad ursinum redeuntes ingenium<f1>Vgl. die Redensart "si leonina pellis non satis est, vulpina addenda", Adagia, 3, 5, 81 (LB II 846f).<fe> bonis
+viris insidiari non desinunt. Nudius enim tertius praefectum
+Pipinum senatus accersivit et rationem compositae cantilenae ab eo<fx>ab eo^#/+ am Rande nachgetragen.^#/-<fe> poposcit<f1>Der
+Vogt zu Bipp (Niklaus Schoor, s. HBLS VI 239) wurde am 6. Februar vom Rat aufgefordert, das Lied zu schicken oder
+persönlich in Bern zu erscheinen (s. Bern StA, A II 132, 129); mehr ist über die Angelegenheit nicht bekannt.<fe>. Qui quum intrepide dixisset se hac ratione motum,
+quod certo sciret Solaturensium a contionibus<f1>Stiftsprediger von Solothurn war Hermann Bollinger (er starb am Tag der
+Abfassung dieses Briefs); das Amt des Leutpriesters versah Gall Stark (s. Alexander Schmid, Die Kirchensätze; die Stifts- und Pfarr-Geistlichkeit des Kantons Solothurn, Solothurn 1857, S. 23 bzw. 26).<fe> suos
+adhortatum, ut constantes in sua fide ac religione essent,
+pro foribus nanque esse<f1>Vgl. Adagia, 2, 2, 85 (LB II 478).<fe>, ut Bernenses mox in sanctae Romanae
+ecclesiae viam redeant, magnam <vl>282v.</vl> enim controversiam
+iam in metropoli super eucharistiae caussa exortam et inter alios multos Copingensem ecclesiastam veterem<f1>Der Pfarrer von
+Koppigen (Johannes Keßler oder Gäßler, s. Lohner 415) war an der Frühjahrssynode 1537 wegen seiner lutherischen Lehre im Amt eingestellt und im August versetzt worden (s.
+Bern StA, A II 130, 25. 99. 227; B III 451, 152; ^#/+Hundeshagen^#/- 76). Schon im September mußte er sich wegen eines von ihm verfaßten "Büchleins" erneut vor dem Rat und der Synode verantworten
+(s. Bern StA, A II 130, 281; ^#/+Hundeshagen^#/- 89; ^#/+Straßer^#/- 131. 142f; Keßlers Thesen und eine Stellungnahme dazu
+in Aarau StA, AA 2233, Nr. 26).
+^&xIm Ratsmanual (Bern StA, A II 130 = RM 260, S. 20 u. 25) heißt
+der Pfr. v. Koppigen Johannes bzw. Hans; Kontext:
+Ratsbericht über Synode, 31. Mai 37. S. 25: Er wird für ein
+Jahr im Amt eingestellt. Ebd. S. 99 (29. Juni): Begnadigt, da er nicht auf seiner Abendmahlslehre beharren will, soll aber nicht predigen, bis er versetzt ist. Ebd. S. 227 (15. Aug.): Zettel an
+Chorgricht, sy <gr>sarkofagon</gr> von Coppigen wider uff ein
+pfruͦnd setzind, wie m.h. rhät und burger geraten. Ebd. S. 281 (5. Sept.): wird wegen eines Büchleins zitiert und an
+Synodalbeschluß erinnert.^&x{<fe>
+plane cum ipsis de praesentia corporis dominici in pane sentire, iussus est in posterum nihil talium cantionum publicare, quod
+senatui prius non exhibuerit.
+^$Adhaec Iacobus Marsupiarius<f1>"Marsupiarius" ist wohl als Latinisierung von "Seckler" zu deuten (vgl. unten Z. 52), was sowohl Amts- oder Berufsbezeichnung als auch Name sein kann. Die Witwe eines Jakob Seckler ist erwähnt im Tellbuch von 1556 (Bern StA, B VII 2486, 3; für den Hinweis danken wir
+Herrn Vinzenz Bartlome, Bern StA).
+^&x Deutschseckelm. war Hans Franz Nägeli, Welschseckelm. Michael Ougspurger.^&x{<fe> tantis insidiis
+(propter rhythmum in pasquillo ita scriptum: "O Ergöw, du
+edler schatz, du bist bliben by der disputatz") impetitus
+est, ut iuvenem quendam ab Erlach<f1>Um welchen Angehörigen der Familie von Erlach es sich handelt, ist nicht bekannt.<fe>
+nobilem adversarii interrogandum curarint, nunquid (quando illi
+familiaris sit) Seckleri manum
+agnoscat. Sed frustra et hoc tentarunt; nam praedictus
+iuvenis quam tenax arcani sibi concrediti sit, aliud etiam
+de se haud obscurum dedit specimen. Quum enim fortefortuna
+cum Martino Accursio<f1>Marti (Martin) Zulauf, gest. 1557/58 (s. Bern Burgerbibliothek, Ms. h. h. VIII. 26, 517), war Schneider und seit 1521 Bürger von Brugg. Ab 1523 gehörte er dem Rat der
+Zwölf und ab 1530 dem Kleinen Rat an. 1531 wurde er zum Schultheiß gewählt und führte im Zweiten Kappelerkrieg das
+Brugger Fähnlein, doch siedelte er schon 1532 nach Bern über. Hier zog er 1540 in den Großen Rat ein. -
+^&xnoch 1543 erwähnt, s. Corr. des réformateurs VIII 249.^&x{ Lit.: Max ^#/+Banholzer,^#/- Geschichte der Stadt Brugg im 15.
+und 16. Jahrhundert. Gestalt und Wandlung einer schweizerischen Kleinstadt, Diss. Zürich, Aarau 1961. - Argovia 73, Reg.
+^&xHaller, Bern in seinen Ratsmanualen II
+64.^&x{<fe>, expraetore Brugense, in coemeterio deambulasset,
+quidam Buceranus statim alium iuvenem ingenuum subornavit,
+qui ultro citroque inter ipsum et Accursium dicta
+expiscaretur. At iuvenis dolum sentiens: "Nescio de quibus",
+inquit, "frivolis rebus confabulati sumus."
+^$Hinc (ut opinor), optimi fratres et patroni mei, facile
+coniicietis, quid de republica Bernensi sperandum et quamdiu
+mihi heic haerere liceat. Quocirca, sicuti hactenus de me
+promovendo laborastis, efficite, quaeso, ut, quod coepistis,
+primo quoque tempore perficiatur. Ego quidem de conditione
+assequenda nihil vobis praescribo, eo quod alteri alteros
+noverimus nec dubitem, quin pro vestra virili mihi, quantum
+et ubi ecclesiae Christi prodesse queam, prospecturi sitis.
+Hoc autem unum (si vobis idem videatur) cuperem, ut ordinata
+iam mihi provintia senatus vester me literis ad nostrum
+scriptis domum revocaret, und das darumb, das sy hie sehind,
+das weder min her gvatter Caspar nach ich daheimen
+verschryet werid und das unsere heren zuͦ Zürich unß nit
+gar verschatz habid<f1>geringschätzten.<fe>, wie die Bucerischen knaben kuͤlen<f1>höhnen.<fe>: "Ich gsen<f1>sehe.<fe> wol,
+man wil die entlenet gsellen<f1>Megander und Rhellikan waren von Zürich 1528 vorübergehend an Bern abgetreten worden (vgl.
+ABernerRef 2825).<fe> nit wider heuschen<f1>zurückfordern.<fe>" etc.
+^$Megander (referente mihi Blasio<f1>Da der genannte Blasius bereits Kenntnis von der bevorstehenden Täuferdisputation hatte
+(vgl. unten Z. 93-99), ist vielleicht an Blasius Hiltbrand zu denken, der als Vertreter des Kapitels Büren selbst daran beteiligt war (s. QGTS IV 264).<fe>, ipsius
+comite) dicitur ludens Sepino<f1>Peter Im Haag.<fe> ursigero<f1>Als "ursiger" oder "ursifer" bezeichnet Rhellikan in Anspielung auf das Wappentier einen Inhaber des Venneramtes (signifer).<fe> Aroviae<f1>Megander hielt sich auf der Heimreise nach Zürich am 3. Februar in Aarau auf; s. Aarau StA, AA
+2233, f. 30v.<fe> in diversorio dixisse: "Quid
+tu heic rerum agis, haeretice?" Quod dictum ioculare in
+serium vertens Sepini comes heic Nollio<f1>Anton Noll.<fe> retulit, atque is miras inde tragoedias agit ac nescio quid
+subinde quiritatur<f1>Der Streit führte zu einem Schriftwechsel zwischen Zürich und Bern und schließlich zu einer Ehrenerklärung
+für Im Haag (s. Zürich StA, A 241.1, 16. Februar 1538; Bern StA, A I 337, 256; A II 132, 157. 202; A III 24, 602).<fe>. Quod ideo huc adscribere, mi Megander, visum
+est, ut mente tua revolvens[!], quid et quomodo dixeris, ut, si
+opus sit, memor sis, cogitans etiam, quibus arbitris dictum sit<f1>Noll galt als Vertreter der bucerischen Richtung (vgl. ^#/+Hundeshagen^#/- 88. 97).<fe>.
+^$Valete.
+^$Bernae in Nuichthonibus<f1>im Üechtland (vgl. HBLS VII 107).<fe>, 12. februarii anno 1538.
+^$Salutant vos in domino Iacobus<f1>Jakob Meyer (s. Anm. 2).<fe> diaconus et M. Ioannes<f1>Hans Kotter, von Straßburg, geb. um 1480, gest. 1541, Organist und
+Komponist, war Schüler von Paul Hofhaimer und wirkte bis 1508 in Torgau. Wo er den Magistertitel erwarb, ist nicht bekannt. Wohl
+in Basel lernte er Bonifacius Amerbach kennen, für den er Tabulaturen schrieb. 1514 wurde er in Freiburg i. Üe. als Organist angestellt. Um 1520 wandte er sich der Lehre
+Luthers zu; 1522 trat er mit Zwingli in briefliche Verbindung. Wegen seiner reformationsfreundlichen Haltung
+wurde er 1530 gefoltert und verbannt. In Bern fand er eine Zuflucht als Lehrmeister an der deutschen Schule. Seine
+Versuche, sich von diesem mühseligen Amt zu befreien, blieben ohne Erfolg (vgl. unten Nr. 1173, 6-23). Zusammen mit Jakob Meyer wurde er im Zusammenhang mit dem Streit um den Katechismus vorübergehend seines Amtes enthoben (s. Aarau StA, AA 2233, 22r. und 24v.). - Lit.:
+Amerbach, Korr. II-IV, Reg. (bes. II 33f); Z VII 585-588; Adolf ^#/+Fluri,^#/- Beschreibung der deutschen Schule zu Bern, in:
+Archiv des Historischen Vereins des Kantons Bern XVI/3, 1902, S. 510-521; Wilhelm ^#/+Merian,^#/- Bonifacius Amerbach und Hans Kotter, in: BZGA XVI, 1917, S. 140-206;
+^&x Karin ^#/+Kotterba,^#/- in: Die Musik in Geschichte und Gegenwart, Bd. 7, Kassel 1958, Sp. 1650-1653;^&x{
+Manfred ^#/+Schuler,^#/- Ein Beitrag zur Biographie Hans Kotters, in: Die Musikforschung 22, 1969, S. 197-200; ^#/+ders.,^#/- in:
+The New Grove Dictionary of Music and Musicians, hg. v. Stanley Sadie, London 1980, Bd. 10, S. 217.<fe>, olim
+Friburgensium ab organis, Leoni<f1>Leo Jud.<fe> et Megandro notissimus. Mea vicissim caussa Theodorum<f1>Theodor Bibliander.<fe>
+nostrum imprimis et alios symmystas vestros salutabitis ac me, quaeso, quam primum potestis de mea provintia nova certiorem facite.
+^$Denuo valete quam diutissime et anima et corpore incolumes
+in usum Christi ecclesiae et veritatis retinendae. Amen<fx>Amen ^#/+in Majuskeln.^#/-<fe>.
+<un>Ioan. Rhellicanus.
+<lz><vl>283r.</vl> Megander, hoc, quod Blasio in mandatis dedisti Erasmo nuntiandum<f1>Der Inhalt von Meganders Mitteilung an Ritter ist nicht bekannt.<fe>, ita exaggeratur, ut negotium ad senatum relatum
+sit et apostata<f1>Zu den Zweifeln an der Haltung Ritters vgl. unten Nr. 1109, 11f mit Anm. 4.<fe> ille accersitus Blasio dixerit fore, ut
+ipse quoque accersatur. Petit ergo abs te consilium, quo pacto se gerere debeat, idque cupit per Lutium<f1>Gemeint ist
+wohl Luzius Tscharner.<fe> aut alium mox huc profecturum sibi significatum.
+^$Cacobaptismus miris inolescit apud nos modis, adeo ut
+complures etiam primi nominis in agro Bernensi per parochum
+Höchstettensem senatui supplicaverint<fx>^#/+in der Vorlage ^#/-supplicaverit.<fe>, quo liceat sibi data fide publica in loco
+aliquo idoneo se purgare ac melius (si errent) edoceri<f1>Der Initiant der Disputation, Johann Giners (Gniers), war als
+Pfarrer von Großhöchstetten mit täuferischen Aktivitäten konfrontiert; s. QGTS IV, S. XVII, 262 und 264; ^#/+Lavater,^#/-
+Täuferdisputation 84-86.<fe>. Hoc ea lege a senatu impetratum est<f1>Am 7. Februar, s. Bern StA, A II 132, 133.<fe>, ut
+disputatio in urbe metropolitana habeatur. An vero illi his
+conditionibus disputaturi sint et quando hoc futurum sit,
+nescio<f1>Zum Täufergespräch vom 11.-17. März s. Rhellikans Bericht vom 26. März, unten Nr. 1116, 56-75.<fe>. Horum me Blasius
+inter prandendum commonuit, quum iamiam literas obsignaturus essem.
+^$Tertium iam valete.
+<lz>[Adresse auf der Rückseite:] Doctis simul et piis
+virisd. Bullingero, Leoni ac Megandro, Tigurinae
+ecclesiae pastoribus vigilantissimis, amicis et patronis
+suis cole[ndissi]mis. Z[ürich]<fx>^#/+Der auf das Verschlußband geschriebene Teil der Adresse fehlt.^#/-<fe>.
+</content>
+</letter>

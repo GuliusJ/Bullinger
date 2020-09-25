@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1506">
+<nr>1506</nr>
+<correspondents>
+	<originator>Pierre Viret</originator>
+	<addressee fn=1>Bullinger</addressee>
+	<note fn=1>Die an Bullinger adressierte Abschrift war wohl nur eine von mehreren; das gleiche Schreiben ging vermutlich auch an die Pfarrer von Basel und vielleicht an weitere Orte.</note>
+</correspondents>
+<space_time>
+	<place>Genf</place>
+	<date>27. April [1541]</date>
+	<note>Da von der Rückberufung Calvins die Rede ist, gehört der Brief mit Sicherheit in dieses Jahr.</note>
+</space_time>
+<vo>Original von unbekannter Hand<fx>^#/+Die Abschrift ist fehlerhaft; vgl. die Korrekturen in den unten angeführten Editionen. Dorsualvermerk von der Hand Johann Jakob Breitingers.^#/-<fe>: Zürich StA, E II 337a, 327r.-328r. (Sie­­gelabdruck<fx>^#/+Das nicht mehr deutlich erkennbare Siegel ist, wie Herminjard vermutete, vielleicht mit Jacques Bernard in Verbindung zu bringen; vgl. Corr. des réformateurs VII 93,
+Anm. 11.^#/-<fe>)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 92<fn>Zit.: Jean Barnaud, Viret 193.</fn></vo>
+<re>[Die Genfer] haben [Guillaume] Farel aufgefordert, [nach Zürich und an weitere evangelische Orte] zu reisen, um
+angesichts der Verfolgungen in Frankreich und der Lage der Genfer Kirche um Unterstützung zu bitten. In Genf eintreffende
+Flüchtlinge berichten, dass Gläubige in ganz Frankreich, besonders in der Provence, in Orléans, Angers, Dijon,
+Romans[-sur-Isère] und Grenoble eingekerkert oder auch hingerichtet würden; besonders schmerzlich ist die Festnahme von
+[Charles de] Sainte-Marthe, der [die Lateinschule im Rivekloster] zu neuer Blüte hätte bringen sollen; nachdem sich
+in Genf so vieles zum Besseren gewendet hat, ist dies ein schwerer Rückschlag. Der Augenblick wäre günstig, um die
+Kirche wieder aufzubauen, doch geeignete Leute fehlen, und Virets eigene Kräfte reichen nicht aus. Beschwört sie
+deshalb, für die Rückkehr Calvins einzutreten, der wie kein anderer dafür geeignet ist. Außerdem sollen sie [den
+Genfer Rat] bitten, sich mit gleichem Eifer wie um Calvin auch um andere, besonders um den unter schändlichen Umständen
+vertriebenen [Elie] Coraud, zu bemühen. Empfiehlt ihnen die Genfer Kirche, von deren Zustand viel abhängt.
+</re>
+<tx>[Gedruckt: CO XI 205-208, Nr. 304; Corr. des réformateurs VII 90-93, 968.]
+^&x S. Gratia et pax.
+^$Farellum fratrem obnixe rogavimus ut ipsam[ipse] ad vos
+peregrinationem susciperet, vobis fratrum qui in Gallia
+periclitantur religionis gratia ac simul Genevensis
+ecclesiae causam expositurus commendaturusque; quibus qua
+via consulamus, nisi vestris adiuti precibus, opera, studio
+et diligentia, non videmus. Quibus sint expositi periculis
+miseri fratres, quam saeva in eos grassetur tyrannis, quam
+tristes nobis quotidie e Gallia nuncii afferantur, dum alios
+audimus lanienis impiorum hominum destinatos, pagos
+excidendos ac funditus evertendos, alios in vincula
+coniectos, alios vivos fuisse exustos, recenserem prolixius,
+nisi notiora ac compertiora Farello essent, quam ut nostris
+literis sit opus, qui vobis singula fide optima melius
+enarrare poterit. ^&x{
+^&x ^$Nullus paene nobis dies, imo ne hora quidem elabitur, qua
+afflictorum fratrum non audiamus querelas, pericula,
+cruciatus, ab iis qui ex hostium manibus elapsi se Genevam,
+quasi in portum post naufragia, tutissimum piorum omnium
+asylum recipiunt. Nullus est fere in Gallia locus quem non
+invaserit crudelis persecutio. Nam praeter fratres
+Provinciales, quorum tragoedia nec recitari nec audiri
+siccis oculis potest, Aureliorum, Andagavi, Divioni, Romani,
+G[r]atianopoli plurimos intelleximus in carcerem detrusos,
+et quosdam etiam extremo fuisse affectos supplicio, quod ex
+oculatis ac certissimis testibus didicimus. Sed nemo est, ^&x{
+^&x quamvis omnes nobis sint charissimi, cuius vincula maiorem
+animis nostris moerorem iniecerint quam Sarmartani
+[Sammartani], viri multa eruditione ac pietate, cuius opera
+sperabamus collegium Genevense collapsum ac tam misere
+disiectum foelicissime erigendum, bonas literas, quae post
+eiectos fratres contemptorum et squalidorum in situ et
+pulvere iacuerant, pristino restituendas nitori, hoc
+prospectum tempore quo d[omi]nus deploratis illius ecclesiae
+ita misertus est, ut evangelii fructus atque successus
+omnium expectationem longe superet. At secus visum est
+domino, ne quid esset ex parte beatum, qui nobis nullum tam
+solidum voluit esse gaudium in hac mortalitatis conditione, ^&x{
+^&xquod non aliqua tristitiae portiuncula defloraret. Pergebant
+res Genevensium foelicissime ac in dies maiora accipiebant
+incrementa; sed casus iste nostros conatus valde remoratur.
+^$Omnia nunc nobis sunt in manu; nunc ipsissimus est temporis
+articulus et peropportuna occasio instaurandi omnia quae
+collapsa fuerant. Sed desunt viri doctrina et pietate
+commendabiles qui hoc praestare queant. Magistratus et
+populus denique totus in hoc est, ut reipublicae optime
+consulatur, tollantur offendicula, factiones, seditiones et
+reliquae id genus reipublicae pestes ad malos corvos
+relegentur, ministerio verbi suus reddatur homos, iuventus
+probe instituatur, nosocomia et xenodochia reparentur, quae
+factiosorum et impiorum hominum opera corruerant; sed ^&x{
+^&x paucissimi sunt, qui pios eorum conatus adiuvent et
+promoveant, cum tamen non desint plurimi qui obturbare
+potius ac remorari conentur, et ecclesiarum invideant
+tranquilitati. Hactenus dominus non mediocriter nostros
+labores fortunavit. Sed nemo est cuius pares sint humeri
+tanti [tantae] moli sustinendae, nedum mei, qui sum animo et
+corpore adeo imbecilli, ut mirum sit me hucusque perdurare
+potuisse. Perstiti [Praestiti] quod potui; verum nisi mox
+accesserint, qui hanc in suos humeros provinciam suscipiant
+et decertantem adiuvent, magnopere timeo, ne nobis omnis
+laborum fructus pereat, et nisi me dominus mirabiliter
+fulsisset viresque addidisset, pridem imposito oneri
+succubuissem tot et tantis obrutus ac submersus negotiis. ^&x{
+^&x ^$Vos igitur per Christum dominum oro omnes et obtestor, ut
+huius ecclesię curam suscipiatis nec secus vestrę
+commissam fidei arbitremini quam eę, quibus praestis,
+detisque operam, ut Calvinus, vetus illius ecclesię
+pastor, omnium suffragiis revocatus ab omnibus
+desideratissimus et anxiis expetitus [expitis] suspiriis ei
+restituatur, quo nullus hodie vivit, qui plus in ea possit
+[et] cui sunt omnia sunt[!] in ea exploratiora, ut simul
+ecclesię consulatur et ministerio verbi suus restituatur
+honos, nisi videre vultis omnium ecclesiarum curam abiecisse
+et in Christum perfidi et fratrum proditores, qui vestram
+opem implorant, quam denegare non potestis, nisi omni
+careatis humanitatis sensu. ^&x{
+^&x ^$At meliora de vobis omnibus semper sperare didici, quo fit,
+ut iterum vos per sacra omnia adiurem et obtestor, ut primo
+quoque tempore huic saevo[serio] negotio manum admoveatis
+nec nostram de vobis fallatis expectaionem ac simul literas
+hortatorias et monitorias ad honestos scribatis, ut,
+quemadmodum in Calvino revocando testati sunt pium in verbi
+ministros affectum deiecaruntque eorum impietatem et
+perfidiam, a quibus tam turpiter indicta causa nulla servata
+iuris religione reiecti sunt fratres, a quibus docti
+fuerant, ita in aliis quoque facere pergant et aliquem
+habeant disciplinae ecclesiasticae rationem et offendiculi
+quovis terrarum sparsi, praesertim in Coraldo, quem tam
+indignis tractatum modis post vincula in solatium suae
+coecitatis in exilium relegarunt nulla eius paupertatis, ^&x{
+^&x infirmitatis et miseriarum habita ratione et laborum, quibus
+vir bonus se ipsum pene exhauserat. Perscribite omnia, quae
+vobis visa fuerint, cessura in gloriam Christi. Minime
+dubium est, quin lubenter per omnia vestrum sunt consilium
+amplexuri.
+^$Valete, fratres dilectissimi et patres observandi, et
+illius sitis ecclesiae memores, cuius casus caecus[secus]
+multarum trahit ruinam, cuius successus et profectus
+latissime diffunditur.
+^$Geneve, vicesimo septimo aprilis.
+<un>Vester ex asse Petrus Viretus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero suo. Zürich. ^&x{
+</content>
+</letter>

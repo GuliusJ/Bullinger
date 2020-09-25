@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1358">
+<nr>1358</nr>
+<correspondents>
+	<originator>Pierre Viret</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lausanne</place>
+	<date>20. Februar 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 368, 226 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 47, 141</vo>
+^&xErw. Corr. des réformateurs V 59. 311. 374; Bouvier 101^&x{
+<re>Hatte im letzten Sommer gehofft, auf seiner Reise in die [Deutschschweiz] auch nach Zürich zu kommen, doch wurde er
+unterwegs zurückgerufen; deshalb bittet er nun - ermutigt durch Grynäus - auf brieflichem Weg um eine Stellungnahme zu seinem
+Anliegen. Wie es bei ihnen steht, schreibt er nicht, da der Bote, der ihm eng verbunden ist, mündlich darüber berichten
+wird; nur das eine Problem, das er auch im Brief an Kaspar Megander berührt hat, möchte er ihm vorlegen: Zusammen mit
+vielen Kollegen ist er tief besorgt über die verbreitete Gottlosigkeit; zwar ist an die Stelle des Opferwesens die
+Predigt getreten, doch wegen der allgemeinen Geringschätzung der Religion bleibt die Frucht aus, so daß jetzt erst recht Gottes
+Zorn droht. Warum keine Besserung gelingt, ist ihm unklar; jedenfalls sollte wieder eine Kirchenzucht eingeführt werden,
+doch Vorbilder fehlen, und eine Rückkehr zur papistischen Ordnung kommt nicht in Frage. Viret und seine Kollegen wissen
+nicht, wie vorzugehen wäre, um eine dem apostolischen Vorbild entsprechende Ordnung einzuführen, und fürchten deshalb, ihre
+Kirche könnte in Disziplinlosigkeit untergehen. Er hofft auf guten Rat, da man sich in Zürich zweifellos ähnliche Gedanken
+macht. Grüße an die Zürcher Pfarrer; auch seine Kollegen lassen grüßen.
+</re>
+<tx>[Gedruckt: CO XI 19-21, Nr. 209; Corr. des réformateurs VI 181-184, Nr. 851; französische Teilübersetzung: Jean
+^#/+Barnaud,^#/- Pierre Viret. Sa vie et son œuvre (1511-1571), Saint-Amans 1911, S. 185f.]
+</content>
+</letter>

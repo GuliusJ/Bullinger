@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1466">
+<nr>1466</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Travers</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>18. Februar 1541</date>
+</space_time>
+<vo>Abschrift von Petrus Dominicus Rosius a Porta<fx>^#/+Autograph verschollen, vgl. HBBW IX, Nr. 1228, Anm. a.^#/-<fe>: Chur StA, A Sp III/11a, VI. B. 7. 4, S. 336</vo>
+<re>Dank für die übersandten Murmeltiere [vgl. Nr. 1462]. Die neuesten Nachrichten über das Wormser Religionsgespräch hat er an [Johannes] Comander gesandt, der Travers informieren wird [vgl. Nr. 1465]. Falls Travers das in Basel abgefasste [Erste Helvetische] Bekenntnis und dessen Erläuterung noch
+nicht zu Gesicht bekommen hat, wird Bullinger ihm eine Abschrift zukommen lassen. Gruß.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 32, Nr. 23.]
+<tx>Gratiam et vitae innocentiam a domino.
+^$Accepi munus tuum, vir clarissime idemque mihi
+colendissime, mures montanos praepingues et elegantes 4, pro
+quibus tibi ingentes ago gratias. Tu quidem muneris nomine
+indignos putas; ego vero pro munere egregio, quod misisti,
+habeo. Cuperem autem animum tibi gratum ostendere offico
+aliquo et praestabo, sicubi sese obtulerit occasio.
+^$Quae a comitiis Wormatiensibus accepi a proximis litteris,
+scripsid. Comandro, at ea lege, ut lectas litteras tibi
+protinus mittat atque communicet<f1>Diesen Wunsch Bullingers erfüllte Comander am 23. Februar, siehe Graubünden, Korr. I 32f.<fe>.
+^$Caeterum de confessione ecclesiarum Helveticarum Basileae
+conscripta et eius declaratione nihil repondes, an illam
+videris an non videris. Si non vidisti et Comander ipsam
+tibi non communicat, significa, et curabo eam tibi describi.
+^$Vale, vir clarissime, et religionem bonaque studia tibi
+habeto commendatissima.
+^$Tiguri, 18. februarii 1541.
+<un>Heinrychus Bullingerus.
+<lz>[Adresse .....:] Clarissimo virod. Ioanni
+Traversio, Zusatiensi, domino suo colendissimo.
+</content>
+</letter>

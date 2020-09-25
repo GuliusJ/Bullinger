@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="19133">
+<nr>19133</nr>
+<correspondents>
+	<originator>John Burcher</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Strassburg</place>
+	<date>1. Juni 1549</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 413</vo>
+<dr>Zur. lett. III, S. 653f. / Ep. Tig. III, S. 423f.</dr>
+<re></re>
+<tx>
+Argentinae primo Junii 1549.
+^$S.P. Posteaquam priores meas assignaveram literas, Bullingere
+amicissime, atque de nuntio omnino solicitus essem, incidi forte
+fortuna in istum nobilem Gandavensem, qui sese ad vos profecturus destinavit.
+Vir est ut genere ita moribus, fide et pietate nobilis; vixit aliquandiu
+Argentinae, hinc in Angliam profectus, unde propter balneandi necessitatem iam
+ad Thermas huc Ferinas venit. A balneis placuit ei invisere partes ignotas,
+Tigurum prae ceteris tum fama tum doctrina pura celebre. Non abhorret a nostra
+religione, doctus alioqui et pii iuditii; per dies quatuordecim apud vos erit.
+Cupiebat commendationes meas; igitur tibi, humanissime Bullingere, ita commendo,
+ut non ingratior tibi sit et ecclesiae, quam mihi quivis Tigurinorum est et
+ubivis erit. Gallorum ecclesiae alumnus [alum] est, qui non abhorrent a vestra
+religione. Quod reliquum est, non dubito, quin praestabis ultro, posteaquam
+hominem iterum et tertio conveneris.
+^$Bene vale.<un>Tuus totus Burcherus.<lz>[Adresse:] Docto iuxta ac pio viro D. Bullingero, amico colendo. Tiguri.
+</content>
+</letter>

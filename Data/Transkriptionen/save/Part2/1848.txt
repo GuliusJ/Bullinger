@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1848">
+<nr>1848</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>15. Februar 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 260r.-v. (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 36; Zit.: ^#/+Gast,^#/- Tagebuch 51 (Anm. 124), 53 (135), 68 (195); J. Berchtold-Belart, Zwinglibild, 1929, S. 14^&x{
+<dr>Ungedruckt</dr>
+<re>Mit seiner geplanten Antwort an Cochläus kann Bullinger vielleicht mehr bewirken als die Lutheraner mit ihrer Polemik. [Das Basler Domkapitel in Freiburg] sucht Unterstützung bei Kaiser [Karl^#. V.] und lässt sich [am Reichstag in Speyer] durch den Abt von Murbach [Johann Rudolf Stör] vertreten, den Gast seit Jahren kennt. Dass Myconius in einer Predigt mit einem aus dem Zusammenhang gerissenen Zitat zu beweisen suchte, dass Oekolampad nichts anderes lehrte als Luther, ist wohl auf seine Altersschwäche zurückzuführen; als ihm Gast vorhielt, er hätte sich zur Vermittlung der divergierenden Auffassungen besser auf Theodor [Biblianders] Vorrede [zu den Briefen von Oekolampad und Zwingli] oder auf Vadian bezogen, reagierte er gereizt. Übersendet sein Täuferbuch ["De anabaptismi exordio"] und kündigt seine Ausgabe von Predigten Oekolampads über einige Psalmen an, denen er eventuell weitere folgen lassen will. [Der Apokalypsenkommentar von] Primasius ist im Druck und wird Bibliander bald zugestellt. Die von Bullinger bestellten Schriften Luthers sind nicht erhältlich, doch Gast kann sie ihm auf Wunsch ausleihen; die noch im Druck befindlichen Bücher wird er ihm zusenden. Grüße. Der Kaiser ist in Speyer, wo sich auch Äbte und Bischöfe, aber noch keine Fürsten einfinden. Bucer hat sich wohl auch neulich in Colmar vergebens abgemüht. Weitere Grüße und Dank.
+</re>
+<tx>S. in domino.
+^$Probe facis et christiane, quod Cochleo, seni et non malo homini, quem a multis annis novi,<f1>Vgl. oben Nr. 1839, 7f.<fe> respondes.<f1>Gast hatte Bullinger zu einer Replik auf den von Cochläus vorgetragenen Angriff gedrängt (s. ebd., Z. 1-3; die Titel der Schriften von Cochläus und Bullinger ebd., Anm. 2f). Der Brief Bullingers, auf den sich Gast bezieht, ist verloren.<fe> Quis novit, an tua modestia ac lenis spiritus plus effecturus sit<fx>sit ^#/+über der Zeile nachgetragen.^#/-<fe> quam omnes Lutherani suis amaris pharmacis?
+^$De illis nostris pfaffis<f1>Gemeint ist das Basler Domkapitel im Freiburger Exil; s. oben Nr. 1839, 26-33.<fe> nihil habeo, quod nunc scribam. Caesari<f1>Karl^#. V.<fe> adhęrent, auxilia<fx>^#/+Vor^#/- auxilia ^#/+gestrichenes^#/- ab[?].<fe> implorant ab illo. Deputatus ad colloquium abbas Murbacensis,<f1>Fürstabt von Murbach und Lüders war von 1542 bis zu seinem Tod 1570 Johann Rudolf Stör von Störenburg. Dass er am Reichstag zu Speyer als Anwalt des Basler Domkapitels gewirkt hätte, lässt sich aus den gedruckten Akten (RTA JR XV) nicht belegen. - Lit.: A[ndreas] ^#/+Gatrio,^#/- Die Abtei Murbach im Elsaß, Straßburg 1895, Bd. 2, S. 173-201 passim; Georges ^#/+Bischoff,^#/- in: NDBA XXXVI 3779f.^&x Amerbach, Korr. VI 411, Anm. 7.^&x{<fe> non malus homo, quem et ferre possunt, qui et mihi cognitissimus a multis annis.<f1>Gast widmete seinem ehemaligen Mitschüler Stör 1543 seine Meditationen über das Vaterunser (VD 16 G 534) und 1549 eine von ihm herausgegebene Bibelkonkordanz (VD 16 C 4910); 1545 wählte er ihn als Paten für seine Tochter Placidia; s. ^#/+Gast,^#/- Tagebuch 48. 50. 80-83 und Reg.; Paul ^#/+Burckhardt,^#/- Die schriftstellerische Tätigkeit des Johannes Gast, in: BZGA 42, 1943, S. 139-192, bes. 161-163.<fe> Quid velint agere, ignoro.
+^$Senio Myconii multum tribuo, qui parum a quodam<f1>Vgl. unten Nr. 1866, Anm. 24. Zu Unrecht meint ^#/+Kirchhofer,^#/- Myconius 357, Gast wäre "der voreilige Schwätzer" gewesen, "welcher den Zürchern die Abweichungen ihres Freundes von der echten Lehre berichtete". Vielmehr ist dieser Brief als eine vorbeugende Entschuldigung Myconius' zu verstehen. Vgl. auch unten Nr. 1873, 16.<fe> exacerbatus ob eucharistię negotium, et ita, ut publice
+excandescenti animo locum illum tractarit volens ita bono
+zelo Lutherum et Oecolampadium - Zvinglii nulla habita
+mentio - conciliare.<f1>Zur umstrittenen Weihnachtspredigt von Myconius s. bes. oben Nr. 1846 und unten Nr. 1866.<fe> Particulam ex epistolis Oecolampadii
+rapiens<f1>Vgl. unten Nr. 1866, Anm. 25.<fe> publice indeque in rostro praelegebat dicens: "Videte, an non idem dicat Oecolampadius, quod et Lutherus
+scripsit." Locum ex epistola - non occurrit iam, quę nam
+epistola<fx>epistola ^#/+über der Zeile nachgetragen.^#/-<fe>
+fuerit - adduxerat, sed sequentia verba, quę
+praecedentia declarabant, omiserat. Absoluta contione illum
+accessi; quid sibi hęc contio velit, percontabar.
+"Volui", inquit, "quorundam stultitiam reprehendere, quibus
+non possum satisfacere." Dixi<fx>Dixi ^#/+korrigiert aus^#/- Dixit.<fe>: "Cur ex praefatione Theodori nostri<f1>^&!s(-40)Theodor Biblianders Vorrede zu der 1536 erschienenen Sammlung von Briefen Oekolampads und Zwinglis (Oekolampad-Bibliographie, Nr. 182); s. HBBW VI 387, Anm. 6.^&!s(+0)<fe> non adduxisti verba,
+quibus<fx>^#/+Vor^#/- quibus ^#/+gestrichenes^#/- in.<fe> et ipse conciliare studet
+omnium fere scripta de hoc negotio, aut Vadiani nostri?" Mox
+cępit mecum expostulare, quasi perpetuo ego improbarem
+illius de hac re contiones. Nolui contendere cum illo
+verbis; nam saepissime optime hac de re loquitur idque
+publice. Senectuti tribuo multum; nam labilem memoriam
+habet<fx>habet ^#/+über der Zeile nachgetragen.^#/-<fe>
+et facile irritatur. Qui enim adulatoribus aures praebet,
+non mirum saepe quędam dicere, de quibus postea
+poenitentiam ducit<fx>ducit ^#/+korrigiert aus^#/- ducitur.<fe>.
+^$Mitto praeterea tibi Anabaptistas meos<f1>Johannes ^#/+Gast,^#/- De anabaptismi exordio, erroribus, historiis abominandis, confutationibus adiectis, libri duo, Basel, Robert Winter, 1544 (VD 16 G 524).<fe>, partim<fx>^#/+Vielleicht als^#/- partem ^#/+zu lesen.^#/-<fe> ex tuis
+libris et aliorum desumptos<fx>desumptos ^#/+korrigiert aus ^#/-sumpsi[?].<fe>, partem ipse vidi et adfui in omnibus illis colloquiis. Latine ea reddidi utcunque sic
+stilum volens exercere. Iam sub prelo habeo in psalmos
+aliquot contionesd. Oecolampadii, quas ab ore illius
+excepi.<f1>In psalmos LXXIII, LXXIIII etc. conciones Ioannis Oecolampadii piissimae per Ioannem Gastium Brisacensem exceptae nuncque primum Latinitate donatae [...], Basel, Robert Winter, 1544 (Oekolampad-Bibliographie, Nr. 193^&xVD 16 O 351^&x{). Diese Predigten hatte Gast im Sommer 1524 verzeichnet; s. Oekolampad BA II 321f, Anm. 1. - Kommentierter Auszug aus der Widmungsvorrede in Oekolampad BA II, Nr. 993.<fe> Si tibi et aliis non displicebunt, etiam in alios psalmos idem moliar. Brevi et illum libellum mittam.
+^$Primasium<f1>Primasius (Uticensis), Bischof von Hadrumetum (Sousse, Tunesien), gest. zwischen 551 und 569, verfasste einen einflussreichen Apokalypsenkommentar, den auch Bullinger in seinen Apokalypse-Predigten (HBBibl I 327) öfter zitiert. - Lit.: Karl Suso ^#/+Frank,^#/- in: LMA VII 210; Bärbel ^#/+Dümler,^#/- in: LThK^#'3 VIII 587f.<fe> in Apocalypsim<f1>Primasii [...] Commentariorum libri quinque in Apocalypsim [...], Basel (Robert Winter) 1544 (VD 16 B 5260).<fe> habebit brevi Theodorus noster; nam sub pręlo est.
+^$Libellos Lutheri, quos tu volebas,<f1>Um welche Schriften Bullinger gebeten hatte, ist nicht bekannt.<fe> reor non extare. Si non invenero, si eis uti velles, meos mitterem, si tibi usui esse possent; nam fere omnia Lutheri habeo, quę hactenus edidit. Qui<fx>Qui ^#/+korrigiert aus^#/- Quę.<fe> sub prelo sint et qui<fx>qui ^#/+korrigiert aus^#/- quę.<fe> divulgentur libri, brevi habebis, quum absoluti sint.
+^$Vale in domino.
+^$15. februarii 1544.
+<un>Tuus Gastius.
+<lz><vl>260v.</vl> D. Theodorum cum Pellicano meis verbis salutabis.
+^$Caesar Spirę est.<f1>Kaiser Karl^#. V. war am 30. Januar zum Reichstag in Speyer eingetroffen; s. oben Nr. 1837, Anm. 5.<fe> 150 equites secum adduxit. Adequitant abbates, episcopi; princ[ipes]<fx-t>^#/+Randtext im engen Einband unzugänglich.^#/-<fe> nulli adhuc adsunt.
+^$Quid putas tu Bucerum iis diebus Colmariis fecisse?<f1>Über Bucers Besuch in Colmar ist sonst nichts bekannt.<fe> Vari[as]<fx-x>^#/+Randtext im engen Einband unzugänglich.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> instituit practicas, sed fere nihil absolvit et frustra laborat.
+^$Uxor mea<f1>Apollonia, geb. Glaser.<fe> tibi gratias ingentes habet; brevi aliquid et tuę uxori<f1>Anna, geb. Adlischwyler.<fe> missura est, ne ingrata sit tot beneficiis<fx>^#/+Vor^#/- beneficiis ^#/+mehrere gestrichene Buchstaben.^#/-<fe> provocata.
+^$Vale iterum cum uxore tu[a]<fx-x>^#/+Randtext im engen Einband unzugänglich.^#/- ^#/+Von-Bis-Anmerkung.^#/-<fe> et liberis<f1>Zu Bullingers Kindern s. oben Nr. 1838, Anm. 19.<fe>, quam et mea resalutat.
+<lz>[Adresse darunter:] Bullingero suo.
+</content>
+</letter>

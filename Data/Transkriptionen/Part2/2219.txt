@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2219">
+<nr>2219</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>19. August 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 221 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 208 ^&x{
+<re>Der Wormser Reichstag ist aufgelöst worden. [Karl V.] befindet sich in Köln, wo er dem Erzbischof [Hermann von Wied] Fallen stellt. Ein Kölner Bürger [...], der sich aufgrund von Anfeindungen für einige Tage nach [Basel] flüchtete, berichtete, dass die Kölner Bürger, und bis auf wenige Ausnahmen auch die Kleriker, den Bischof vernichten wollen.
+-^#. Die Nürnberger und die Augsburger sollen eine gewaltige Klage betreffs ihrer strittigen Handelsangelegenheiten bei [Karl V.] vorgebracht haben.
+-^#. Mit kaiserlichem Rechtsanspruch verlangt [Karl V.] das Herzogtum Braunschweig als ein ihm gehöriges Lehen. Falls auf dem künftigen Reichstag [zu Regensburg] Herzog Heinrich [von Braunschweig] als unfähig beurteilt werden sollte, wird [Karl V.] ihn strafen. Die Protestanten wollten das Herrschaftsgebiet seinem Erstgeborenen [Karl Viktor von Braunschweig] übertragen, aber das wollte [Karl V.] nicht.
+-^#. Dies Wenige.
+-^#. Gast bittet um Mitteilung etwaiger verbürgter Nachrichten von den Druckern wegen [seiner deutschen] Predigten.
+</re>
+<tx>S. in domino.
+^$Comitia Wormatiensia<f1>Der Reichstag zu Worms.<fe> soluta sunt. Caesar<f1>Karl V.<fe> Colonię iam hęret episcopo<f1>Erzbischof Hermann von Wied.<fe> insidias parans.
+Cives enim moliuntur episcopum illum profligare. In id consentiunt canonici omnes exceptis paucis, qui apud episcopum agunt.<f1>Gast hatte schon in seinem vorigen Brief von der Reise des Kaisers nach Köln und von dem dortigen Aufruhr geschrieben; s. oben Nr. 2214, 31-36 und Anm. 24f. Siehe ferner unten Nr. 2237.<fe>
+Hec a cive Coloniensi<f1>Unbekannt.<fe> hiis diebus audivi, qui ex industria invidiam declinare suo abitu conatur et ad dies aliquot
+apud nos habitare constituit, donec cęsar rem transigat. Prudenter meo quidem iudicio agit.
+^$Audio praeterea Norimbergenses et Augustanos dissidere propter mercimoniam et ingentem querelam hac de re apud caesarem instituisse.<f1>Näheres konnte nicht ermittelt werden.<fe>
+^$Caesar praeterea petit ducatum Brunsvicensem iure imperatorio, dann es sige<f1>sei.<fe> ein lehen, das im zuͦ gehoͤr,
+und wil das also bewaren. Wann es uff dem zuͦkunfftigen reichstag<f1>Der geplante Reichstag in Regensburg, der erst Anfang 1546 begann; s. oben Nr. 2211, Anm. 24.<fe> ußfundig<f1>erwiesen.<fe> werde,
+das der hertzog<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> ein untüchtig mann sey, nit wert, soͤlichs lehen zuͦ besitzen,
+so woͤlle syn k. mt. in straffen an leib und guͦtt.<f1>Gast bezieht sich auf die sogenannte Wormser Kapitulation vom 10. Juli 1545, in der Einzelheiten über die geplante kaiserliche Verwaltung des Landes Braunschweig beschlossen worden waren. Innerhalb eines Monats sollte das Land in kaiserliche Hände gestellt und die Administration zwei fürstlichen Kommissaren übertragen werden. Weder sollte Herzog Heinrich in sein Land gelassen noch seine Diener darin zu Amts- oder Befehlsleuten angestellt werden. Die Kommissare sollten Vollmacht für gütliche Verhandlungen zwischen den feindlichen Parteien haben, und diejenige Partei, welche gegen die Kapitulation verstoßen würde, sollte wegen Landfriedensbruches bestraft werden. Zu Kommissaren wurden Kurfürst Friedrich von der Pfalz und Pfalzgraf Hans von Simmern ernannt. Die beschlossene Sequestration kam jedoch nicht zur Ausführung, auch traten die Kommissare ihr Amt nicht an, so dass der bisherige Zustand der Besetzung des Landes fortdauerte und dieses in den Händen des Schmalkaldischen Bundes blieb; s. ^#/+Ißleib^#/- 22f; Gabriele ^#/+Schlütter-Schindler,^#/- Der Schmalkaldische Bund und das Problem der causa religionis, Frankfurt a. M./Bern/New York 1986, S. 258-261; ^#/+Demandt^#/- 58f; RTA JR XVI/2 1492-1494; Nr. 271 (Vergleich über die Sequestration des Herzogtums Braunschweig-Wolfenbüttel); PC III 612f, Nr. 583 (Beilage).<fe>
+Primogenito<f1>Karl Viktor von Braunschweig.<fe> voluerunt protestantes dare ditionem, sed noluit<f1>Gemeint ist Kaiser Karl V.<fe>, nescio quibus ex causis.
+^$Hęc paucis volui ad te perscribere. Vale in domino diu salvus.
+^$Basileę, 19. augusti 1545.
+^$De Germanicis contionibus si quid certi a typographis tuis habeas, significa.<f1>Siehe dazu oben Nr. 2214, 57-65.<fe>
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse auf der Rückseite:] Docto et piod. Heinrycho Bullingero, fratri in domino charissimo. Zurich.
+</content>
+</letter>

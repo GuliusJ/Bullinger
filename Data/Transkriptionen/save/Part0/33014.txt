@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="33014">
+<nr>33014</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Fabricius</addressee>
+</correspondents>
+<space_time>
+	<place>(Zürich</place>
+	<date>23.? Januar 1563</date>
+</space_time>
+<vo>Zürich StA, E II 373, 341. / Orig. Aut.</vo>
+<dr>Gr. II, 429 R.</dr>
+<re></re>
+<note></note>
+S. D. Cum iam obsignaturus essem literas tibi inscriptas circa
+horam 2. pomeridianam, en adest Locarnensis et offert mihi tuas
+postremas una cum decretis 6. sessionis et oratione Lotteringii,
+quam remitto, quia antea impressam accepi.
+Et ago tibi gratias
+maximas.
+Labora pro sessione 7., ut videamus, quid de ordine
+inordinarii homines ordinaverint.
+Putidissima sunt, quae de missa
+decreverunt; dignum patella operculum.
+Vale.
+<address></address>
+</content>
+</letter>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2449">
+<brief>
+<id>16136</id>
+<nr>2449</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 19. Mai 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 175 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 447, Nr. 1289 </dr>
+<re>Blarer übersendet eine von Bucer [verfasste und] mitgeteilte Schrift ["Ein warhaffter bericht vom Colloquio zu Regenspurg"] über das [Zweite Regensburger] Religionsgespräch, die Bullinger mit dem nächsten Boten zurückschicken soll.
+<t/>Matthias Erb schreibt, dass Graf Wilhelm von Fürstenberg im Namen des Kaisers [Karl V.] ein Heer von 12'000 Soldaten ausgehoben habe, um das Piemont an den jungen Herzog [Emanuel Philibert] von Savoyen übergeben zu können. So erklärt sich, warum der Kaiser den [Zürchern] so schmeichelt, nämlich weil er weiß, wie die übrigen Eidgenossen gegenüber den Bernern in dieser Angelegenheit eingestellt sind. Wer hinter [der kaiserlichen Gesandtschaft nach Zürich] steckt, ist unbekannt.
+<t/>Der Reichstag [zu Regensburg] hat noch nicht begonnen. Der Kaiser kurt in [Bad] Abbach. Über das [Weiterbestehen] des Schmalkaldischen Bundes hat Blarer nichts gehört.
+<t/>Grüße.
+<t/>[P.S.:] Die Hexe [Cecilia Erhart], von der Blarer kürzlich an Bullinger und [Jakob Ruf] berichtete, wurde am 17. Mai verbrannt.</re>
+<text>
+<p>Salve, mi venerande frater. Mitto hic, qu{e} Bucerus ad nos de colloquio
+<fn>Das Zweite Regensburger Religionsgespräch.</fn> dedit
+<fn>Wohl die Straßburger Ausgabe von Bucers Schrift "Ein warhaffter bericht vom Colloquio zu Regenspurg" 1546 (<a>VD16</a> B8949), die im selben Jahr des Öfteren nachgedruckt wurde (<a>VD16</a> B8946-8951).</fn>, qu{e} proximo nuncio rogo, ut remittas.</p>
+<p>Nihil praeterea est, quod scribere possim ista temporis angustia, nisi quod <zzl>zl2449-1A</zzl>Matthias Erbius scribit
+<fn>Nicht in <a>Blarer BW</a>. Vgl. den Bericht Erbs an Bullinger <qv>nr2441</qv>,<qv>zl2441-1</qv>.</fn> comitem Gulielmum a Furstenberg caesaris
+<fn>Karl V.</fn> nomine gregarium conscribere exercitum 12 millium ac constantem famam esse ducem Sabaudiensem iuniorem
+<fn>Emanuel Philibert (1528-1580), damals der einzig noch lebende Sohn Herzogs Karl III. von Savoyen. Vgl. dazu <a>MBW-Reg</a> IX 149f, Nr. 4198a.</fn> in Pedimontanam ditionem restituendum.<zzl>zl2449-1E</zzl> Quod, si ita est, facile coniicis, quur caesar iam ita vobis caput demulcere
+<fn><a>Adagia</a> 3, 1, 37 (<a>ASD</a> II/5 60, Nr. 2037)</fn> voluerit,
+<fn>Siehe Bullingers Schilderung in <qv>nr2446</qv>,<qv>zl2446-5</qv>.</fn> quum non ignoret, quali animo sint reliqui Helvetii erga Bernates, quod ad hanc caussam attinet.
+<fn>Viele eidgenössische Verbündete hatten die von Bern Anfang 1536 vollzogene Belagerung der savoyischen Gebiete um den Genfersee missbilligt.</fn> Sed dominus bene vertat omnia! Sunst kan man nitt wissen, in was hafen oder wa
+<fn>wo.</fn> diser brey kochet ist.
+<fn>Blarer übernimmt Bullingers Wendung aus <qv>nr2446</qv>,<qv>zl2446-4</qv>.</fn></p>
+<p>Comitia nondum c{e}pta
+<fn>Der Reichstag zu Regensburg wurde erst am 5. Juni eröffnet; s. <qv>nr2331</qv>, <qv>fn2331-2</qv>.</fn> affirmant, <zzl>zl2449-3A</zzl>quod caesar apud Abachum
+<fn>Bad Abbach (Kr. Kelheim), im Donautal nahe Regensburg, wo Karl V. schon 1532 gekurt hatte. Zu einem Aufenthalt des Kaisers daselbst im Jahr 1546 ließ sich nichts ermitteln. Diese Badekur wäre insofern möglich, als zu diesem Zeitunkt nur wenige Teilnehmer des Reichstags eingetroffen waren; s. Nicolaus <i>Mameranus,</i> D. Caroli V. iter ex inferiore Germania ab anno 1545 usque ad comitia apud Augustam Rheticam indicta ..., Augsburg 1548 (<a>VD16</a> M438), f. Bij,v.-Biij,v.</fn> valetudinem curat.<zzl>zl2449-3E</zzl> De foedere reparato
+<fn>Das Weiterbestehen des Schmalkaldischen Bundes.</fn> ne verbum quidem ullum, etc.</p>
+<p>Semper vale, mi charissime et optime Bullingere, et domino nos diligentissime commenda. 19. maii 1546.</p>
+<un>Tuus Amb. Bl.</un>
+<lz/>
+<p><zzl>zl2449-2A</zzl>Venefica ista,
+<fn>Cecilia Erhart, die im Zusammenhang mit der besessenen Magdalena [...] ebenfalls (s. nämlich <qv>nr2444</qv>, <qv>fn2444-1</qv>) verhaftet und am 17. Mai in Konstanz als Hexe zum Tode verurteilt wurde; s. Wolfgang <i>Zimmermann,</i> Teufelsglaube und Hexenverfolgungen in Konstanz 1546-1548, in: Schriften des Vereins für Geschichte des Bodensees und seiner Umgebung 106, 1988, 34f. 49, Nr. 2.</fn> de qua nuper ad te et chirurgum vestrum
+<fn>Jakob Ruf; zu diesem Brief s. <qv>nr2444</qv>,<qv>zl2444-5</qv>.</fn>, nudius tertius exusta est magna in deum per Christum fiducia, ut de salute ipsius optime speremus.<zzl>zl2449-2E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo d. Heinricho Bullingero suo. Tiguri.</p>
+</text>
+</brief>

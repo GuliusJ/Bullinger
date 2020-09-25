@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2522">
+<brief>
+<id>16216</id>
+<nr>2522</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz, 2. oder 3. August 1546]
+<fn>Das Jahr ergibt sich aus dem Inhalt des Briefes. Da unten Z. <qv>zl16216-1</qv> das erste Schreiben vom 30. Juli aus dem Briefpaket <qv>nr2518</qv> erwähnt wird, kann vorliegender Brief nur nach diesem Schreiben verfasst worden sein, und zwar (sollte Blarers Zeitangabe stimmen) am 2. August. Da Blarer sich aber seiner Angabe unsicher ist ("nudius tertius, ni fallor"), muss der 3. August als Abfassungsdatum des vorliegenden Briefes ebenfalls in Betracht gezogen werden.<zfn>fn16216-1</zfn></fn></od>
+<vo>Autograph: Zürich StA, E II 357a, 688 (Siegelspur)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: <a>Blarer BW</a> II 485, Nr. 1323<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 63; Zit.: Th. Pressel, Blarer 467 </k></dr>
+<re>Blarer empfing den sehnlichst erwarteten Brief Bullingers [nicht erhalten]. Daraus ersieht er aber nicht, ob Bullinger sein [vor]letztes Schreiben [<qv>nr2514</qv>] mit seinen und [Konrad Zwicks] Vorschlägen zu einem Rundschreiben an die im [schmalkaldischen] Dienste stehenden [eidgenössischen] Söldner empfangen hat.
+<t/>Er wird sich um die Weiterleitung von Bullingers Brief an [Georg] Frölich [nicht erhalten] bemühen. Er muss [wegen seines Leistenbruchs] immer noch liegen und hat daher seit zwei Tagen keinen Ratsherren gesehen, ja nicht einmal seinen Bruder [Thomas] oder Zwick. Daher hat er auch nichts Neues zu berichten, mit Ausnahme dessen, was Bullinger bereits durch Frölichs Brief [<qv>nr2510</qv>] erfahren haben wird. [Am 30. Juli] hat er nämlich diesen Brief dem eilig [nach Zürich] aufbrechenden Boten [...] anvertraut, ehe er [das erste] Schreiben [seines Briefpakets <qv>nr2518</qv>] fertigstellen konnte.
+<t/>Mit der Ankunft des geschätzten Landgrafen [Philipp von Hessen in Süddeutschland] ist alles gut. Je mehr Feinde es sind, desto besser wird bei einem Sieg Gottes Ehre zum Ausdruck kommen.
+<t/>Blarer kann sich nicht vorstellen, dass Gott sein Evangelium den Feinden preisgeben wird, doch werden wohl zuvor [die Protestanten] ihren Leichtsinn und ihren Unglauben büßen müssen.
+<t/>Bullinger soll [für Blarers Genesung] beten. Blarer wundert sich, dass Bullinger das Treffen der [protestantischen Stadtkantone in Zürich] nicht einmal erwähnt. Wegen der häufigen und langen Ratssitzungen in Konstanz erfährt er oft tagelang nichts außer dem, was er seiner Korrespondenz entnehmen kann.</re>
+<text>
+<p>Summo desiderio tuas
+<fn>Nicht erhalten.</fn> accepi. Nam s{e}culum videbatur, quod nullas abs te acceperam, <zzl>zl16216-2A</zzl>nec satis ex tuis intelligo, an meas proxime ad te datas
+<fn>Die darauffolgenden Aussagen zeigen, dass hier nicht das letzte Schreiben Blarers (<qv>nr2518</qv>), sondern dessen Brief <qv>nr2514</qv> vom 27. Juli gemeint ist.</fn> acceperis, in quibus admonuere
+<fa><i>In der Vorlage</i> admonui.</fa> vestris militibus in nostris castris quid scribendum ego et consobrinus meus
+<fn>Konrad Zwick.</fn> putaverimus.<zzl>zl16216-2E</zzl> Fac igitur sciam.
+<fn>Siehe dazu <qv>nr2535</qv>,<qv>zl16225-1</qv>.</fn></p>
+<p>Tuas literas Laeto
+<fn>Georg Frölich. - Ein nicht erhaltener Brief Bullingers.</fn> nostro quamprimum reddendas diligenter curavero. Ego etiamnum decumbo,
+<fn>Blarer musste wegen eines Leistenbruchs das Bett hüten; s. <qv>nr2503</qv>,<qv>zl16193-8</qv>.<zfn>fn16216-2</zfn></fn> nec heri nec hodie ullum senatorem vidi adeoque ne germanum fratrem meum
+<fn>Thomas Blarer.</fn> aut Zviccium. Proinde novi quoque nihil habeo extra ea, <zzl>zl16216-1A</zzl>qu{e} L{e}tus quoque ad te puto scripsit.
+<fn>mit Frölichs Brief an Bullinger vom 24. Juli (<qv>nr2510</qv>). - Aus vorliegender Stelle geht hervor, dass Blarer am 30. Juli Frölichs Brief einem nach Zürich reisenden Boten anvertraut hatte; vgl. <qv>nr2518</qv>, <qv>fn16212-1</qv>.</fn> Quas literas ad te nudius tertius,
+<fn>Siehe dazu oben <qv>fn16216-1</qv>.</fn> ni fallor, absque meis
+<fn>Das erste Schreiben vom 30. Juli aus dem Briefpaket <qv>nr2518</qv>; vgl. <qv>nr2518</qv>,<qv>zl16212-4</qv>.</fn> dedi. Abiturientem enim tabellarium
+<fn>Unbekannt.</fn> nolebat
+<fa><i>In der Vorlage</i> nolebant.</fa> ut remorarer.<zzl>zl16216-1E</zzl></p>
+<p>Bene habet, postquam advenit lantgrafius
+<fn>Zur Ankunft Philipps von Hessen in Süddeutschland s. <qv>nr2518</qv>, <qv>fn16212-2</qv>.</fn>, qui secundum deum vice nobis multorum millium fuerit.
+<fn>Vgl. <a>Otto</a> 222, Nr. 1112.</fn> <zzl>zl16216-3A</zzl>Quo plures fuerint adversarii, hoc clarior erit domini per pauciores et infirmiores vincentis gloria,
+<fn>Anspielung auf Ri 7, 1-8.</fn><zzl>zl16216-3E</zzl> qui est per omnia deus benedictus in secula;
+<fn>Röm 9, 5.</fn> quem precamur, ne unquam vere se invocantibus deficiamur.</p>
+<p>Non expecto, mi Bullingere, ut evangelion suum hostibus prodat dominus; aber ich sorgen danecht
+<fn>dennoch.</fn>, wie billich
+<fn>wie billich: mit Recht.</fn> nach dem wir handlen
+<fn>nach dem wir handlen: angesichts unserer Handlungsweise.</fn>, wir m{ue}ssen noch ain herte nusß drob beyssen
+<fn>Vgl. <a>Wander</a> III 1076, Nr. 104.</fn>. Gott wirts aber doch entlich uff unser seyten haben. Verum interim imprudenti{e} pariter et diffidenti{e} poenas dignas dabimus.</p>
+<p>Bittend gott trulich trulich f{ue}r mich.
+<fn>Siehe dazu oben <qv>fn16216-2</qv>.</fn> Miror te ne gry
+<fn>Vgl. <a>Adagia</a> 1, 8, 3 (<a>ASD</a> II/2 234, Nr. 703).</fn> quidem de comitiis istic
+<fn>über das am 2. August in Zürich beginnende Treffen der protestantischen Stadtkantone; s. <qv>nr2515</qv>, <qv>fn16205-4</qv>.</fn> habitis ad me. Nostri perpetuum senatum habent, ut non raro integro biduo, immo etiam triduo nihil certi a nostris accipiam, sed ea solum, qu{e} literis amicorum aliunde ad me perscribuntur.</p>
+<un>[Ohne Unterschrift.]</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Bullingero suo. Tiguri.</p>
+</text>
+</brief>

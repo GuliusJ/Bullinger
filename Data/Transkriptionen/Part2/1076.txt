@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1076">
+<nr>1076</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz</place>
+	<date>November/Dezember 1537]</date>
+	<note>Der Brief gehört zeitlich zwischen die beiden Briefe Zwicks vom 6. November und 15. Dezember 1537 (oben Nr. 1064 und unten Nr. 1079), läßt sich aber nicht genauer datieren.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 16 (Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+<re>Dankt für einen Brief. Sein Bruder [Konrad] wäre froh gewesen, wenn man ihm [Konrad] Klauser [als Hauslehrer]
+überlassen hätte; bittet um Mitteilung, falls ein anderer Kandidat vorhanden ist. Kann Leo [Jud] aus Zeitmangel nicht selbst
+schreiben, wünscht aber von ihm Auskunft über Michael [Back?], da er diesen eventuell als Prediger zu Baron [Balthasar] von
+Kuenring senden will. Schickt [Osianders] Büchlein über Eidesformeln zurück, sobald er es gelesen hat.
+</re>
+<tx>Salus et pax Christi.
+^$Pro literis tuis<f1>Nicht erhalten.<fe> gratias habeo, charissime in domino frater. Caeterum, quod illis respondeam, nihil opus est uno hoc excepto, quod fratri<f1>Konrad Zwick.<fe> foelicissimum nuntium fuisset, si
+permisissetis Clausero operam suam nobis aliquandiu locare<f1>Vgl. oben Nr. 1064, 14-28.<fe>. Venamur enim undique, si talis aliquis contingeret; sed frustra. Rogo autem te quam plurimum, ut, si quis alius apud vos esset, quem pueris
+instituendis praeficeremus, ne graveris talem nobis indicare.
+Iam iam vero abiturus est tabellio<f1>Wahrscheinlich der unten erwähnte Michael.<fe>, ut non possim quicquam addere quam me tuum esse.
+^$Leoni<f1>Leo Jud.<fe> etiam statueram scribere, sed totum diem in
+visitandis ęgrotis absumpsi, iamque domum rediens adest tabellio paratus ad abeundum. Tu ergo roga Leonem, ut, quam primum possit, describat mihi ingenium, mores, iuditium, doctrinam et si quid huius
+generis, Mihaelis istius<f1>Gemeint ist möglicherweise Michael Back, mit dem Jud als Eherichter mehrmals in nähere Berührung
+gekommen sein muß. 1540 wurde Back Pfarrer in Konstanz; für die Zwischenzeit weist seine Biographie eine Lücke auf (vgl. HBBW
+VI, S. 356f, Anm. 1).<fe>. Baro enim ille a Khienring iterum atque iterum urget ad mittendum ministrum verbi<f1>Siehe HBBW
+VI, S. 435f, 2-21; vgl. Gustav ^#/+Reingrabner,^#/- Balthasar II. von Kuenring und die Reformation, in: Unsere Heimat 64, Wien 1993,
+S. 163-172.<fe>. Quod si<fx>^#/+vor ^#/-Quod si^#/+ gestrichenes ^#/-Si ^#/+oder^#/- Sed.<fe> ille Mihael<fx>Mihael^#/+ am Rande nachgetragen.^#/-<fe> videretur esse
+alicuius iuditii, statuerem forte illum mittere baroni, sed expectabo Leonis sententiam<f1>Juds Antwort ist nicht
+erhalten; Zwick erwähnt aber in zwei Briefen aus dem Jahr 1539 einen in Österreich weilenden gemeinsamen Bekannten namens Michael (s. Zürich StA, E II 364, 55 und 59).<fe>.
+^$O we, der bott will zum thor uss. De aliis alias. Vale, cor meum.<un>Tuus Io. Zwick.
+<lz>Libellum de iuramentis<f1>Einen "libellus de iuramentis papisticis" hatte Bullinger von Osiander erhalten (s. Osiander GA VI 485, 5); gemeint ist offenbar
+dessen "Coniuratio Papistarum", wenn auch vielleicht in einer früheren als der uns überlieferten Form (Osiander GA IX 122-133).
+<fe> non legi; lectum remittam et ipsum.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero, observando suo et charissimo fratri.
+</content>
+</letter>

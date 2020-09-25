@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1484">
+<nr>1484</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>31. März [1541]</date>
+	<note>Das Jahr ergibt sich u. a. aus der Erwähnung von Bucers Aufenthalt in Regensburg (s. unten Z. 26).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 208 (Siegelspur)</vo>
+<vo>Regest: Zürich ZB, Ms S 49, 66</vo>
+<dr>Ungedruckt</dr>
+<re>Verweist bezüglich des Charakters von [Hans] Vogler [d. J.] auf einen Brief von Myconius an Theodor [Bibliander] sowie auf Voglers Vater [Hansd. Ä.], schildert die Unbeständigkeit des
+jungen Mannes und macht Vorschläge für seine Erziehung; bedauert, dass er nicht rechtzeitig Einfluss nehmen konnte.
+Bibliander lässt sich keinen Freundschaftsdienst gefallen. Was Bucer aus Regensburg schrieb, teilt Myconius mit. [Martin]
+Frecht lässt Leo [Jud] bitten, dem kranken [Bernhard] Besserer zu schreiben.
+</re>
+<tx>S. Vogleri<f1>Hans Voglerd. J. (vgl. auch unten Nr. 1486, 1-8. 14f u. ö.).<fe> ingenium quale esset, satis ostenderat Theodoro nostro Myconius,<f1>Myconius' Brief
+an Theodor Bibliander ist nicht erhalten.<fe> itaque ex illo poteras scire omnia; ad hęc pater<f1>Hans Voglerd. Ä.<fe> ipse iampridem advertit, quale sit,
+ut me post illum tibi de hoc dicere sit supervacuum. Tamen,
+quia iterum postulas, dicam, quod sentio: Est ob
+flexibilitatem nimiam nimium incertum; ut enim omnia potest
+percipere momento propemodum, ita potest nusquam consistere,
+sed quicquid tulit praesens animi impetus, hoc sequitur.
+Itaque custode eget certo, perpetuo et firmo, eget etiam
+non[?] omnigenarum et novarum artium exercitatione,
+sed certarum et graviorum, quarum congressu discet animi
+incertitudinem propemodum instar harundinis mobilem. Etiam<fx>^#/+Kann auch als^#/- Nam ^#/+gelesen werden.^#/-<fe>
+hoc in eo malum est, quod non credit nec advertit monentem.
+Porro qua maxime in re sit exercendus postea, meum iudicium
+patri dixi. Non obiicerem artem novam; erit ea nova materia
+patrem fallendi. Sed in iis studiis, in quibus coepit bene,
+cogerem progredi, nec diversum hic argumentum, sed unum
+idemque praescriberem tantisper, dum in eo se intelligeret
+profecisse, et simul de moribus, de constantia, de fide,
+de veritate certa praecepta quottidie in certis et
+illustribus exemplis meditanda proponerem et illorum
+contrarium aeque illustribus exemplis declararem. Hęc
+disciplina si illum revocare non potest et continere, ad
+stivam alligarem toto biennio. Hęc de illo paucis. Utinam
+tantum mihi vel pater vel is, qui eum ad me adduxit,
+Hospinianus<f1>Leonhard Hospinian, zu dieser Zeit Schulmeister in Reichenweier (vgl. Amerbach, Korr. V 225-227. 235).<fe>,
+dixisset de eius ingenio, quantum ego nunc tibi; potuissem curare iuvenem melius, quanquam me absente<f1>Grynäus war Ende
+Oktober 1540 zum Religionsgespräch nach Worms gereist und Ende Januar 1541 zurückgekehrt; vgl. HBBW X, S. 176, Anm. 1, bzw. oben Nr. 1456.<fe> fere plurimum deliquit.
+^$Video Theodorum nihil ex me beneficii admittere; quid beneficii dicam? Etiam non leve indicium benevolentis erga se animi fert
+itaque omni<fx>^#/+Vor^#/- omni ^#/+gestrichenes^#/- nih.<fe> me
+officio humanitatis excludit.
+^$Nova, quae Ratispona ad nos Bucerus scribit, habes hic per
+Myconium.<f1>Vgl. unten Nr. 1485, 1 mit Anm. 1.<fe> Hęc allata sunt hodie. Itaque videre licet, hii homines quantam reipublicę curam gerant.
+^$Vale in domino. Leonem<f1>Leo Jud.<fe> orabis, ut ad Bessererum<f1>Bernhard Besserer, vgl. die in der folgenden
+Anm. genannten Briefe.<fe> Ulmensem Hartman[?], qui graviter decumbit, scribat diligenter et virum optimum literis
+consoletur; hoc Frechtus orat.<f1>Ein entsprechender Brief Frechts liegt nicht vor; seine Bitte erreichte Grynäus durch
+Vermittlung Jakob Bedrots (s. dessen Brief an Grynäus vom 21. März in Zürich StA, E II 350, 425f; vgl. auch Bedrots Brief an Bullinger vom 20. April, unten Nr. 1502).<fe> Vale iterum.
+^$Ultima marcii.
+<un>S. Grynęus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, fratri colendissimo suo. Tyguri.
+</content>
+</letter>

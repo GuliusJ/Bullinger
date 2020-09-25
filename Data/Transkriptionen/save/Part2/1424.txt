@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1424">
+<nr>1424</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>Herbst 1540]</date>
+	<note>Die ungefähre Datierung ergibt sich aus der inhaltlichen Anknüpfung an den vorausgegangenen Brief (s. unten Z. 1 mit Anm. 2).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 183 (Siegelspur)</vo>
+<vo>Regest: Zürich ZB, Ms S 49, 67 [dat.: März 1541] (undat. B 427)</vo>
+<dr>Ungedruckt</dr>
+<re>Gibt weitere gesundheitliche Ratschläge: Bei geistiger Arbeit ist schwer verdauliche Nahrung ungeeignet, deshalb sollte
+sich Bullinger an Geflügel halten und Käse meiden; seine Ernährung sollte sich - seiner Lebensweise entsprechend - von der seiner Familie unterscheiden.
+</re>
+<tx>S. De curanda valetudine quae nuper hortatus sum te<f1>Vgl. oben Nr. 1423, 1-12.<fe>, mi
+Bullingere, eis id addo, quod animadvertens ex amicorum
+relatione te victu semper uti communi maxime et eo, quo
+utitur tota familia, iudico te non posse valere recte, nisi
+diętę rationem instituas meliorem. Caloris vis<fx>^#/+in der Vorlage (wohl irrtümlich)^#/- vix.<fe> maxima
+ac praestantissima continuatione ac perpetuitate
+cogitacionum dissipatur; itaque debilitato calore et virtute
+naturali crassum alimentum natura non solvit; non ęgre
+complectitur, sed in eo conficiendo superandoque valde
+laborat. Itaque qui victus<fx>^#/+in der Vorlage irrtümlich^#/- victus esse.<fe> subsidium imbecillę
+naturę debet esse, is, cum crassus est, etiam
+impedimentum est. Itaque destitui et labefieri hoc pacto
+optimam etiam constitutionem necesse est. Vide, mi
+Bullingere, hęc evidentissima sunt. Itaque edes praeter
+pulliculos et aviculas in hac imbecillitate nihil, de
+carnibus dico, unctum et pingue, crassum et nervosum, tenax
+et glutinosum nihil. Pestis est casęus crassus et tenax
+et certa materia vertiginis. Nisi te ipsum sperem vel
+usu deprehendisse, ostenderem tibi, cum virtus laborat,
+caseum tenacem semper gignere vertiginem. Obsecro ideo te,
+quae causa est, cur vereare, quam genere vitę distas
+et differs, tam dieta et victu discrepare ab aliis. At vita
+est studiosi maxime hominis et corpus labore et
+exercitatione destitutum affligens, sit igitur et accomodata
+diętę ratio. Crede mihi, non est pietas hęc contemnere.
+^$Vale in domino Christo<fx>^#/+in der Vorlage^#/- <gr>XR</gr>to.<fe>. Amen.
+<un>Grynęus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Henricho Bullingero, fratri et amico colendissimo.
+</content>
+</letter>

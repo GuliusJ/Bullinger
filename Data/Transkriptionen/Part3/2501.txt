@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2501">
+<brief>
+<id>16192</id>
+<nr>2501</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 15. Juli 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 235 (neu: 253) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 29; Zit.: Amerbach Korr. VI 411 (A 14)</k></dr>
+<re>Auf Myconius' letzten Brief [<qv>nr2491</qv>] hat Bullinger vermutlich wegen des durch die [Badener] Tagsatzung eingetretenen Botenmangels noch nicht antworten können.
+<t/>Myconius hatte Bullinger nach den Nürnbergern gefragt. Inzwischen hat er nichts Gutes über sie erfahren. Sie bleiben sich in ihrer Geschwätzigkeit gleich!
+<t/>Herzog [Moritz] von Sachsen soll heimlich aus Regensburg abgereist sein, daheim gegen die Treulosigkeit Kaiser [Karls V.] wüten und ganz in Waffen sein. Möge es gut ausgehen, auch für die anderen evangelischen Fürsten!
+<t/>Ein aus Regensburg kommender Basler Ritter [...] berichtete, dass [Karl V.] und sein Bruder [König Ferdinand] die Hochzeit der Tochter [Ferdinands], [Anna von Österreich], mit [Albrecht], dem Sohn [Herzog Wilhelms von] Bayern, fröhlich feierten, und dass der Kaiser gesagt habe, dass er nicht wisse, warum die [Schmalkaldener] so rührig sind, wo er ihnen doch nicht schaden wolle. Myconius geriet zuerst außer sich, entgegnete aber dann, dass er diesem Fuchs mit Gottes Beistand seine Meinung sagen würde, wenn es in seiner Macht stünde. Hält er denn die Deutschen für dumm?
+<t/>Ein Fuhrmann [...] berichtete über die [Niederlande]. Die Schwarzen Reiter, die Karl V. [dem König Heinrich VIII. von] England [gegen Frankreich] zur Verfügung gestellt hatte, sollen nach Spanien verschifft worden sein. Der Weg nach Basel war aber sicher. Man weiß außerdem, dass Straßburg dem [Landgrafen Philipp von] Hessen Söldner schickt.
+<t/>Gestern wurde erzählt, dass das Städtchen Füssen zusammen mit drei Burgen von einem Heerführer [Sebastian Schertlin] eingenommen worden und das kaiserliche Heer von dort nach Bayern entwichen sei.
+<t/>Manche erwarten nichts Gutes von den Fünf Orten. Doch Genaueres wird Myconius nach Abschluss der [Badener] Tagsatzung erfahren. Wenn nur die [Fünf Orte] begreifen würden, dass Karl V. mit seinem Brief an die [Eidgenossen] nichts als Zwietracht stiften will!
+<t/>Pasquill auf Karl von Gent.</re>
+<text>
+<p>S. Ad postremas
+<fn>Brief <qv>nr2491</qv> vom 8. Juli.</fn> taces; quod non miror propter comitia
+<fn>Die Badener Tagsatzung, die am 5. Juli begonnen hatte; s. <qv>nr2474</qv>, <qv>fn16164-1</qv>.</fn>, ut qu{e} videntur in causa esse, cur tabellarii isthinc ad nos nulli.</p>
+<p><zzl>zl16192-4A</zzl>Qu{e}sieram de Nurenbergensibus;
+<fn>Siehe <qv>nr2491</qv>,<qv>zl16181-3</qv>.</fn> verum de eis novi, qu{e} nolui. Sunt isti sui similes. Nunquam mihi placuerunt. Praeter enim loquacitatem nescio, si quid aliud habeant, unde queant esse vel in speciem aliquid.
+<fn>Vgl. auch Bullingers Meinung über Nürnberg in <qv>nr2496</qv>,<qv>zl16187-13</qv>.</fn><zzl>zl16192-4E</zzl></p>
+<p>Qu{e}sieram et de duce Mauricio
+<fn>Herzog Moritz von Sachsen. - Siehe <qv>nr2491</qv>,<qv>zl16181-4</qv>.</fn>, sed interea sic accipio: Quatuor tantum equis e Ratisbona clam elapsum
+<fn>Moritz von Sachsen war am Abend des 20. Juni aus Regensburg (wo der Reichstag stattfand) abgereist; s. <a>Viglius van Zwichem</a> 3.</fn> et nunc domi s{e}vire contra c{e}saris
+<fn>Karl V.</fn> perfidiam et esse totum in armis; quod illi felix faustumque sit ut reliquis etiam principibus, qui ab evangelica stant iustitia, exopto.</p>
+<p>Sed audi, quid narret civis Basiliensis, eques auratus
+<fn>Unbekannt.</fn>, e Ratisbona recta veniens. C{e}sar, inquit, cum fratre
+<fn>König Ferdinand I.</fn> l{e}tus vivit. Nuptias celebrant pro more. Iunxit enim Bavarus
+<fn>Herzog Wilhelm IV. von Bayern.</fn> filium suum
+<fn>Albrecht V. von Bayern.</fn> fili{e} regis
+<fn>Anna von Österreich, Tochter Ferdinands.</fn>. De bello nihil, nisi quod c{e}sar dicit: "Quid agunt illi
+<fn>Gemeint sind die Schmalkaldener.</fn>? Quis excitat, cum nec l{e}dam ego, nec l{e}dere tentem?" <zzl>zl16192-2A</zzl>Equidem his auditis prae iracundia loqui non valui, donec tandem nonnihil restituto verba huiusmodi exciderent: "Wenn ich were, der ich nit bin,
+<fn>D.h. wenn ich einem höheren Stand angehörte.</fn> es m{ue}ste
+<fn>dürfte.</fn> mich der Carli nit also verachten. Ich wett imm uff d'hochzytt kon
+<fn>kommen. - Eine Redewendung (<a>Grimm</a> X 1641), mit der Myconius droht, dass er dem Kaiser seine Meinung sagen würde.</fn>, es warte mirs dann gott
+<fn>es warte mirs ... gott: wenn Gott mir dazu beistehen würde.</fn>. Sol man T{ue}tschland also äffen
+<fn>verspotten; s. <a>Fischer</a> I 108.</fn>?" Utitur vulpes suis artibus.
+<fn>Vgl. <a>Wander</a> I 1240. 1243, Nr. 5. 99.</fn> Nam t{e}dium incutere tentat nostris, si sic tandem inopinantes queat obprimere. Sed spero dominum daturum consilium, quo tandem <zzl>zl16192-3A</zzl>versipellis
+<fn>Gemeint ist Karl V.</fn> eiiciatur.<zzl>zl16192-3E</zzl><zzl>zl16192-2E</zzl></p>
+<p>Auriga
+<fn>Unbekannt.</fn> vehens sarracenos
+<fn>Wohl als "frumentum saracenicum" (= Buchweizen) zu verstehen; s. <a>Kirsch</a> 2527.</fn> rogatus, quid rerum geratur in Germania Inferiore
+<fn>Niederlande.</fn> respondit: "Nihil, nisi quod equites nigri
+<fn>Die militärische Einrichtung der "Schwarzen Reiter" kam unter Karl V. zustande. Sie entsprach einer "mittleren (halbschweren) Cavaleriegattung" mit dunkler Rüstung; s. Julius Moritz Carl von <i>Hardegg,</i> Anleitung zum Studium der Kriegsgeschichte, Bd. 2/2: Von 1350 bis 1790, Darmstadt/Leipzig 1868, S. 74.<zfn>fn16192-3</zfn></fn>, qui hactenus militarunt Anglo
+<fn>König Heinrich VIII.</fn> missi a Carolo, transfretant in Hispaniam, ubi c{e}sare opera eorum opus habet. Iter fuit alioqui nobis tutum." H{e}c ille, cum constet Argentinenses subinde milites ad Hessum
+<fn>Landgraf Philipp. - Siehe dazu <qv>nr2481</qv> und <qv>fn16171-1</qv>.</fn> mittere, non certe sine causa.</p>
+<p>Heri relatum oppidum Fiessen
+<fn>Füssen.</fn> occupatum a duce
+<fn>Sebastian Schertlin. - Zur Einnahme Füssens s. zuletzt <qv>nr2498</qv>,<qv>zl16189-6</qv>.</fn> cum tribus arcibus
+<fn>Gemeint sind u.a. die Burg und die Klause Ehrenberg; s. Zürich StA, A 177, Nr. 11.</fn>. <zzl>zl16192-5A</zzl>Et exercitum c{e}saris ibi collectum evasisse profectumque in Bavariam,<zzl>zl16192-5E</zzl> ducem autem subsequi. Nescio, verum sit annon.</p>
+<p><zzl>zl16192-1A</zzl>De Quinquepagicis divinant quidam non bene. Certi nihil audio tamen.
+<fn>Wohl das Gerücht, laut dem die Fünf Orte die Zürcher überfallen werden, sobald der Kaiser die Schmalkaldener angreift; s. <a>EA</a> IV/1d 659 k.<zfn>fn16192-4</zfn></fn> Expecto comitiorum finem.
+<fn>Die Gesandten Basels verließen Baden am Morgen des 17. Juli 1546 und trafen am 18. Juli spätabends in Basel ein; s. Johannes Haab und Itelhans Thumysen an den Rat von Zürich, Baden, 18. Juli (Zürich StA, A 227/1, Nr. 82); <a>PC</a> IV/1 252, Nr. 229.<zfn>fn16192-1</zfn></fn> Nisi rem praesentem recte consideraverint, fieri poterit, ut in malum id cessurum sit totius patri{e}. Utinam intelligerent Carolum nihil aliud literis suis
+<fn>Zum Brief Kaiser Karls V. an die Eidgenossen sowie zur Mitteilung einer Abschrift dieses Briefes an Myconius s. <qv>nr2491</qv> und <qv>fn16181-6</qv>.</fn> ad nostros voluisse quam fovere dissidium inter nos! Abeat, quo dignus est!<zzl>zl16192-1E</zzl></p>
+<p>Tu vale in Christo cum tuis et fratribus omnibus. Basile{e} raptim, 15. iulii anno 1546.</p>
+<lz/>
+<p>Pasquillus ad Carolum Gandavum
+<fn>Gent; der Geburtsort Karls V. - Dieses Pasquill wurde als Zusammenfassung zu dem Gedicht "Caroli Gandavi deploratio" von Sebastian Lepusculus (Häslin) verfasst und vermutlich auch gedruckt, nämlich in Basel. Lepusculus sandte davon am 22. August 1546 an Georg Frölich ein zur Zeit Roths noch erhaltenes Blatt mit den beiden oben erwähnten Gedichten, auf dem er auch eine Widmung anbrachte; s. <a>Roth, Augsburg</a> III 403 (Abdruck des Pasquills); 433, Anm. 88 (das zugehörige Gedicht).<zfn>fn16192-2</zfn></fn></p> <g1>Quando Germanam statuisti perdere gentem</g1> <g2>Et vis tutoris proditor esse loco,</g2> <g1>Vaticinor tibi te pro tam crudelibus ausis</g1> <g2>Materni proavi
+<fn>Karl der Kühne; vgl. <a>HBBW</a> XVI 214,48f.</fn> fata manere tui.</g2>
+<un>Os. Myconius</un>
+<un>tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, fratri ac domino in Christo suo. Z[uric]h
+<fa><i>Teilweise auf das nicht mehr erhaltene Verschlussband geschrieben.</i></fa>.</p>
+</text>
+</brief>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1554">
+<nr>1554</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Theodor Bibliander</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>8. August 1541</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 194 (neu: 212) (Siegelspur)</vo>
+<vo>Kopie: ZZB, Ms S 50, 50</vo>
+<vo>TÜ: Zwa VIII 154<fn>erw. Egli, Analecta II 127.</fn></vo>
+<dr>Druck und deutsche Übersetzung: Simon Grynäus (1493-1541): Briefe. Ausgewählt, übersetzt u. hg. v. Herbert Rädle, in: BZGA 90, 1990, S. 112 bzw. 102f, Nr. 47</dr>
+<re>Ist außer sich vor Schmerz über den Tod von [Simon] Grynäus. Der neue Prophet [Ruprecht von Mosham] aus Passau, der u. a.
+bereits die Nürnberger und Straßburger getäuscht hat, zeigte in Basel in einem längeren Gespräch sein wahres Gesicht;
+nachdem er vom Rat mit einem Geschenk entlassen wurde, wird er nun sicher nach Zürich kommen, weshalb Myconius die Zürcher im
+Auftrag seiner Amtsbrüder vor ihm warnt; zunächst sucht Mosham allerdings den Basler Bischof [Philipp von Gundelsheim] auf. Gruß.
+</re>
+<tx>S. et pacem.
+^$Quid scribam, nescio; adeo non sum apud me. Lachrymę
+sunt, planctus et eiulatus multus, et non est, qui consoletur; migravit enim Grynęus noster ad superos.<f1>Simon Grynäus starb am 1. August, vgl. oben Nr. 1552, Anm. b.<fe> Nihil addo.
+^$Interim, dum ille graviter laborat, venit calamitas alia
+tanto gravior quanto pestilentior, decanus inquam
+Pataviensis<f1>Ruprecht von Mosham.<fe>, propheta novus, imo Pelagius novus, qui, postquam Norimbergenses fefellit<f1>Zum
+Aufenthalt Moshams in Nürnberg und zu seinen Verhandlungen mit den dortigen Theologen s. Max ^#/+Heuwieser,^#/- Ruprecht von Mosham, Domdekan von Passau, in:
+Riezler-Festschrift. Beiträge zur bayerischen Geschichte, hg. v. Karl Alexander von Müller, Gotha 1913, S. 154-160; Osiander GA
+VII, Nr. 250-252. 255; Blarer BW II 37.<fe> et praeter alios adhuc multos Argentinenses,<f1>Mosham kam im Sommer 1540 ein erstes Mal nach Straßburg (s. HBBW X, S. 150, Anm. 6) und hielt
+sich auch vor und nach seiner Reise durch die Eidgenossenschaft wieder dort auf (s. QGT XV 478-509 passim).^&xNr. 1049. 1051.
+1055 [mit Beilage]. 1118f. 1121. 1123. 1126. 1135. 1138. 1140. 1163^&x{<fe> tandem huc venit sperans se posse errores suos spargere in mundum, eo quod liber populus nec papę sit
+obligatus nec vereatur cęsarem et regem. Nam hanc causam ipsemet mihi dixit rogavitque, ut ideo consilium ipsius pro
+viribus<fx>^#/+Vor^#/- viribus ^#/+gestrichenes^#/- pr.<fe> promoverem. Postquam vero privatim nonnulli sunt congressi cum
+eo et experimento perceptum hominem esse non bonum, docere velle, non doceri, mirabiliter iactare suas revelationes et alia
+huius generis innumera, visum est dominis nostris, ut honorario munere dato<f1>Mosham erhielt auf Geheiß des Rates 15 Pfund; s. Basel StA, Finanz G 16, 470.<fe> dimitteretur. Veniet proculdubio ad vos;<f1>Vgl. unten Nr. 1561, 2-16; 1567, 4f mit Anm. 2.<fe> commiserunt
+itaque fratres, ut praemonerem, qua possem diligentia, ut ab
+eo caveretis statim; nam talis est, ut et se et libellos
+suos pulchre insinuet et incendium excitet, ubi minime
+putasti. Longum esset narrare, quę hic designavit. At, quia tempus non est<fx>est ^#/+über der Zeile nachgetragen.^#/-<fe>,
+reservabo in posterum<f1>Vgl. unten Nr. 1571, 19-49, sowie den ausführlichen Bericht von Myconius an
+Gwalther vom 13. August (Zürich ZB, Ms F 42, 205; Teildruck in: Johann Heinrich Hottinger, Historia ecclesiastica Novi Testamenti, Bd. IX, Zürich 1667, S. 522f).<fe>. Timui, ne hasce
+praeventurus esset; verum, dum scrutor diligentius, hinc
+recta profectus est ad episcopum Basiliensem<f1>Philipp von Gundelsheim.<fe>. Ita se ingerit apud omnes sine discrimine, si
+queat invenire, qui ad<fx>ad ^#/+über der Zeile nachgetragen.^#/-<fe> confundendum omnia sit auxilio. Cavete!
+^$Valete<fx>^#/+Korrigiert aus^#/- Vale.<fe> in domino, fratres charissimi, et boni perplexitatem hanc consulite.
+^$Basileę, raptim, 8. augusti anno 1541.
+<un>Os. Myconius
+<un>vester.
+<lz>[Adresse auf der Rückseite:] Dominis Heinricho Bullingero et Theodoro Bibliandro, suis in domino venerandis.
+</content>
+</letter>

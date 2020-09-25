@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1942">
+<nr>1942</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>15. Juli 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 224 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 91^&x{
+<dr>Ungedruckt</dr>
+<re>Empfiehlt den Briefüberbringer [Laurentius Montanus?], der vor einigen Jahren Schulmeister unter [Graf] Georg von Württemberg war; der einstige Mönch ist wenig gebildet, doch rechtschaffen, und hat sich als Druckergehilfe geübt; vielleicht kann Bullinger dem unbeständigen Mann, der eine Familie hat, zu einem Schulamt in Glarus oder zu einer anderen Stelle verhelfen. Laut Gerüchten leidet das Heer des Kaisers [Karl^#. V.] unter Krankheit und Hunger; die Fürsten fragen nicht nach Gott, der bald seinen Zorn über sie ausschütten wird. Die Teuerung nimmt zu, doch der Basler Rat tritt dem Wucher mit Wein und Getreide auf lobenswerte Weise entgegen. Grüße. Gast will in Kürze ein Verzeichnis der Werke Oekolampads senden.
+</re>
+<tx>S. Rogavit me lator literarum,<f1>Zu denken ist (aufgrund der nachfolgenden Angaben von Gast) an Laurentius Montanus. Dieser arbeitete in der Druckerei von Wendelin Rihel in Straßburg, bevor er 1541 Schulmeister in Reichenweier wurde. 1545 erscheint er als Mitunterzeichner des Vorworts zum Gengenbacher Katechismus. 1548 wurde er für kurze Zeit Schulmeister in Ravensburg; anschließend soll er in die Grafschaft Hanau-Lichtenberg gezogen sein. - Lit.: Capito, Corr. 733. 736. 741. 743. 745. 747; Geschichte des humanistischen Schulwesens in Württemberg, hg. v. der Württembergischen Kommission für Landesgeschichte, Bd. II/1, Stuttgart 1920, S. 600; Die evangelischen Kirchenordnungen des XVI. Jahrhunderts, hg. v. Emil Sehling, fortgeführt von der Heidelberger Akademie der Wissenschaften, Bd. XVII/1: Baden-Württemberg III/1, bearb. v. Sabine Arend, Tübingen 2007, S. 481f. 502 (mit weiterer Lit.).^&xLaut Neu, Pfarrerbuch Baden 419: Mitunterzeichner des Gengenbacher Kat. u.bis 1551 in Grafschaft Hanau-Lichtenberg.^&x{<fe>
+ut eum ecclesiae vestrę commendem. Egit ante annos aliquot ludimagistrum sub duce Georgio a Wirtemberg. Fuit monachus plane indoctus, sed probus. In officinis typographicis se exercuit fere decennio.
+Si illi prodesse tuo consilio aut opera potes, scio, quod nihil omittes[!] annitere<fx>annitere ^#/+über der Zeile nachgetragen. Dabei wurde vergessen,^#/- omittes ^#/+in^#/- omittere ^#/+zu korrigieren.^#/-<fe>. Inconstans habet ingenium monachorum more.
+Uxorem habet et liberos. Audivi apud Claronenses conditiones scholasticas vacare.<f1>Über die Schule in Glarus liegen aus dieser Zeit keine Nachrichten vor.<fe>
+Si aliquid comperti habes, indica illi, aut si nosti alios, qui maiorem harum rerum cognitionem habent, hos alloquere, quo homini isto[!] vel aliquid officii obtingat.
+^$De caesare<f1>Karl^#. V.<fe> nihil omnino percipimus nisi vagum rumorem.
+Quidam dicunt exercitum illius infestari disenteria ob
+famem, quam iam patiuntur.<f1>Vgl. oben Nr. 1940, 14-16.<fe> Quid deinde, quum nihil omnino cibi habituri sunt, deus cum illis aget? Sed principes non
+sapiunt, consilia dei contemnunt, admonitiones piorum
+prophetarum irrident. Dominus brevi iram suam effundet super
+hanc gentem, quę deum non novit.<f1>Vgl. Ps 79 (Vulg. 78), 6; Jer 4, 22.<fe>
+^$Omnium rerum annona indies crescit. Senatus nostri
+liberalitatem erga cives non satis praedicare possum, quod
+et dolet fęneratoribus nostris. Non audent vinum exteris
+vendere, non audent maiori pretio vendere mensuram vini quam
+7 rap[pis]<f1>Rappen.<fe>, sed minoris possunt. Item senatus dat somum<f1>Saum (Hohlmaß); s. Paul ^#/+Kläui,^#/- Ortsgeschichte, 2., überarb. Aufl., Zürich 1956, S. 123.<fe> vini pro 2 fl., quum alii dent pro 4 fl. vel 5. Similiter agit cum frumento.
+^$Vale in domino. Theodorum<f1>Theodor Bibliander.<fe> nomine meo salvere iubebis cum Frisio<f1>Johannes Fries.<fe> nostro.
+^$Basileę, 15. iulii 1544.
+^$Brevi mittam et ad te catalogum operum Oecolampadii.
+<un>Tuus Gastius ex
+<un>animo.
+<lz>[Adresse auf der Rückseite:] Christiano et optimo viro M. Henrycho Bullingero, suo in domino charissimo. Zurich.
+</content>
+</letter>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="580">
+<correspondents>
+	<originator>Berchtold Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>6. Mai 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 343, 75 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Beklagt sich bitter, dass er sich vergeblich nach Zofingen bemüht und
+seither von Bullinger nichts mehr gehört hat.
+Für den kranken Franz (*Kolb*) muss ein Ersatz gesucht werden.
+</statue>
+<content>
+S. Non eram dignus, ut vestrum aliquis Zofingè me conveniret+1,
+qui non
+sine periculo valetudinarii corporis illuc redintegrandè amiciciè gratia
+concesseram, nec ab eo tempore dignus fui vel a te unicum accipere iota.
+Si mea culpa id factum scirem, dolorem certe mihi gravissimum adferret,
+at cum mihi bene conscius sim de utroque vestrum, cogor tam absentiam
+quam silentium susque deque ferre et in angulo meo meos exanclare
+labores.
+Franciscus+2
+amplius prae ingenti struma+a
+officio fungi facile non potest, unde alio symmista indigebimus.
+Cuius gratia vestro consilio cum opus esset, non potui nec meum
+communicare nec a vobis exigere, nisi prius animo exciderit in
+universum, quod occasione neglecta votis meis erga te imprimis potiri
+non potui.
+Vale.
+Bernè, ipso ascensionis die 35.
+<signature>
+Tuus Bert. H.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Heinrico Bullingero, fratri suo
+charissimo.
+</address>
+</content>
+<note>
+.us; +a >in der Vorlage  strunna.
+<address>
++1>Wegen plötzlich aufgebrochener Spannungen zwischen Zürich und
+den V Orten war Leo Jud nicht zum verabredeten Treffen erschienen, vgl.
+oben Nr. 569, 1-8.
++2>Franz Kolb.
+</address>
+</note>
+</letter>

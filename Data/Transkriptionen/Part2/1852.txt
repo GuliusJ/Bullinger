@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1852">
+<nr>1852</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>20. Februar 1544</date>
+</space_time>
+<vo>Autographes Fragment<fx>^&!s(-40)^#/+Mit Unterstreichungen von späterer Hand. Die obere Hälfte des Blattes ist
+abgeschnitten.^#/-^&!s(+0)<fe>: Zürich ZB, Ms F 80, 219 (Siegelabdruck)</vo>
+<vo>Kopie: Zürich ZB, Ms S 54, 43</vo>
+<dr>Ungedruckt</dr>
+<re>[...] Empfehlung eines Knaben. Bitte um sichere Nachricht vom Reichstag zu Speyer. Angeblich haben die Türken von den Venezianern den Durchmarsch nach Italien erbeten, und der Franzose [Franz^#. I.] eile nach Mailand, nachdem die Spanier aus dem Piemont vertrieben worden seien.
+</re>
+<tx>[...] commissum habeas adolescentulum<f1>Unbekannt.<fe>; polliceor et ego
+me non ingratum fore.
+^$De comitiis Spirensibus<f1>Vgl. oben Nr. 1835, Anm. 3.<fe> si quid habes certi, fac sciam. Nos
+nihil habemus rerum novarum, nisi quod Turca<f1>Sultan Suleiman^#. I.<fe> a Venetis
+dicitur<fx>dicitur ^#/+am Rande nachgetragen^#/-.<fe> transitum petiisse in Italiam ac Gallum<f1>König Franz^#. I. von Frankreich.<fe> non
+infeliciter pulsis e Pedemontana regione Hispanis<f1>Die Mitteilung ist ungenau: Zwar wurden die Spanier im Winter 1543/1544 in einigen piemontesischen Orten von den Franzosen besiegt, aber nicht völlig aus der Region vertrieben; s. Du Bellay, Mémoires IV 194-200.<fe> properare
+versus Mediolanum. Quam vera sint, nescio; sunt tamen, qui
+pro certissimis venditent.
+^$Vale.
+^$Tiguri, 20. februarii anno 1544.
+<un>H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Osvaldo Myconio, Basileiensis ecclesiae vigilantissimo
+pastori, fratri colendissimo. Basel.
+</content>
+</letter>

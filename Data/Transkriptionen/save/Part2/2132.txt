@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2132">
+<nr>2132</nr>
+<correspondents>
+	<originator>Johannes Hospinian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel<f1>Siehe unten Z. 49.<fe></place>
+	<date>10. April 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von Johann Heinrich Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 327 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 49 ^&x{
+<re>Hospinian dankt für Bullingers Brief [nicht erhalten] und für die ["Orthodoxa Tiguriane Ecclesiae ... confessio"] gegen Luthers ["Kurtz bekentnis"]. Er konnte die [Zürcher] Schrift aus Zeitmangel bisher zwar nur flüchtig lesen, bewundert aber ihre Mäßigung. [Luthers] freche Schrift hat ihn sehr verletzt. Dieser muss von Scharen von Dämonen befallen worden sein. Möglicherweise aber ist dessen Schrift die Folge von zu vielem Biertrinken und von den deftigen sächsischen Speisen. Sie ist ein Beispiel für Hochmut und Zügellosigkeit; die Antwort der Zürcher ein Beispiel für Güte und Mäßigung. Verletzt durch Luthers Frechheit laufen viele zu [den Zürchern] über. Darüber sollte man sich freuen. Es ist bedauerlich, dass über das kleine Wort ["est"] keine Verständigung möglich ist!
+-^#. Hospinian will mit der [Zürcher] Kirche leben und sterben. Er leidet darunter, dass man [in Basel] nicht für [Johannes] Oekolampad gegen [Luther] eingestanden ist. Ein französischer Freund [...] teilte ihm einen französischen, doch auf Deutsch übersetzten Brief eines Ungenannten an Luther mit, in dem Letzterem sein Büchlein vorgeworfen wird. Hospinian hat den Brief, der die Zürcher bestimmt erheitern würde, abgeschrieben.
+-^#. Grüße an Kaspar [Megander], [Theodor] Bibliander, [Konrad] Pellikan, Erasmus [Schmid], [Rudolf] Gwalther, an die übrigen Brüder und die Familie.</re>
+<tx>S. per Christum.
+^$Accepi literas tuas<f1>Nicht erhalten.<fe> una cum Responsione<f1>Wohl die "Orthodoxa Tigurinae Ecclesiae confessio"; s. oben Nr. 2061, Anm. 9.<fe> ad invectivamd. Lutheri<f1>Luthers 1544 erschienenes "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>,
+observandissimed. Bullingere, pro quibus gratias tibi et ago et habeo ingentes, operam daturus,
+ut referam etiam, sicubi oblata fuerit occasio. Neque enim facile gratiore aliquo me donare munere potuisses.
+Quod attinet ad Responsionem vestram (quam legi, sed obiter tantum, quum per occupationes
+diligentius inspicere non licuerit hactenus), non possum satis mirari moderationem animorum vestrorum.
+Nam interim mihi petulantis istius et plusquam scurrilis scripti (si modo non graviores voces
+tam gravis calumnia postulat) copia facta est, eoque mehercle sum offensus graviter.
+Spiritusne Christi an Belial<f1>Der Teufel; vgl. 2Kor 6, 16.<fe> est scurra, calumniator, blasphemus? Itaque credo ego
+obsessum illum fuisse legione daemonum<f1>Vgl. Mk 5, 9.<fe>, quum haec immunda, spurca, foeda, flagitiosa evomuit et impia,
+quamvis malim ita interpretari, quod hi sint effectus cervisiae, qua se (ut audio)
+saepius ingurgitare consuevit. Etenim <gr>fysikṽw</gr><f1>auf natürliche, menschliche Weise; s. 2Petr 2, 12.<fe> loquendo, sicut potus iste crassus est,
+ita crassos gignit spiritus, praesertim si cibi accedant pinguiores, quales sunt pene Saxonici omnes.
+Accedit et ipsius hominis crassitudo, quem aiunt esse bene obesum.
+Proinde quid mirum, si, qualis ipse sit et qualibus gaudeat, tales etiam foetus procreet?
+Sed redeo ad vos; nam quemadmodum Lutheri petitio exemplum fuit singulare superbiae atque libidinis,
+ita vestra Responsio bonitatis erit ac moderationis. Et debent profecto pii omnes gratias agere deo,
+quod ita spiritu filii sui temperaverit animorum vestrorum motus, quemadmodum omnes videmus.
+Est namque supra hominis vires tam temperate ferre obtrectationes adeo atroces, ut non obtrectando respondeas.
+Sed multi, crede mihi, qui prius Luthero subscripsere, hac eius protervitate offensi
+et vestra modestia oblectati ab eo ad vos desciscent.
+Itaque non dolere propterea debemus, quod ita saevierit saeviatque in nos, sed, quemadmodum
+Christus praeceptor noster nos docuit, gaudere potius et exultare. Nam praeterquam quod merces nostra
+in coelo magna erit<f1>Mt 5, 11f par.<fe>, luculento etiam ecclesiae nostrae bono cedet, cui ingentem afferet accensionem.
+Illud dolendum ingemiscendumque est, quod, quum et nos et ille Christum dominum profiteamur,
+in unico verbulo<f1>Gemeint ist die unterschiedliche Interpretation von "est" in den Einsetzungsworten (Mt 26, 26-28 par).<fe> non possimus convenire eoque tali, in quo salutis cardo<f1>salutis cardo: das Seelenheil; s. ^#/+Tertullian,^#/- De resurrectione mortuorum (= De carnis resurrectione) 8 (CSEL XXXXVII/3 36).<fe> non vertitur.
+Iugibus igitur precibus<f1>Vgl. 1Thess 5, 17.<fe> solicitandus dominus fuerit, ut obstinata adversariorum corda frangat
+et superbos tumidosque eorum spiritus reprimat et humiliet.
+Nec enim videtur alius esse huius discordiae author quam spiritus elatus et pertinax.<f1>Vgl. Mk 9, 28f.<fe>
+^$Ego cum ecclesia vestra, quam credo esse non vile Christi membrum,<f1>Vgl. 1Kor 12, 23.<fe> et vivam,
+quoad domino placuerit, et moriar; vos modo me fratrem agnoscite.
+Male me habet, quod nostri aut non una vobiscum aut separatim pro sanctissimo virod. Oecolampadio
+contra conviciatorem istum<f1>Luther.<fe> steterint; nam postulabat hoc, ni iudicio fallar, et charitas et fides.
+Communicavit mecum Gallus quidam<f1>Unbekannt.<fe>, bonus amicus, <gr>ănvnýmoy</gr> <f1>ungenannten.<fe> fratris cuiuspiam<f1>Unbekannt.<fe>
+epistolam ad Lutherum, Gallice quidem scriptam, sed in nostrum sermonem versam,
+in qua cum Luthero expostulat <gr>parrhsiastikṽw</gr><f1>auf freimütige Weise.<fe> de edito isto famoso libello;
+eam licet descripserim, certis tamen de causis paucis adhuc ostendi. Quodsi nihil tale ad vos allatum est
+hactenus, fac, sciam; mittam ad te quam primum. Nam puto vos inde delectationem aliquam capturos.
+^$<vl>327v.</vl> Vale in Christo et me ama.
+^$Ex nostro musaeo, ad 4. idus apriles anno dominicae incarnationis 1545.
+^$Meis verbisd. Megandrum, Bibliandrum, Pellicanum, Erasmum<f1>Erasmus Schmid.<fe>, Gvaltherum et
+reliquos fratres plurimum salvere iubeas, precor, una cum tota familia tua.
+<un>Tuus ex animo Io. Hospinianus.
+<lz>[Adresse darunter:] Vigilantissimo Tigurinae ecclesiae archiepiscopod. Henrico Bullingero, domino et fratri suo imprimis observandissimo. Zürich.
+</content>
+</letter>

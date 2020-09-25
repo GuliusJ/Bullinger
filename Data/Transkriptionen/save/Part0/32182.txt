@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="32182">
+<nr>32182</nr>
+<correspondents>
+	<originator>Johannes Jaske</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Königsberg</place>
+	<date>12. Dezember 1562</date>
+</space_time>
+<vo>Zürich StA, E II 367, 193. (Schluss von E II 441, 733).</vo>
+<note></note>
+194. [...] fici atque opprimi patiatur, sed potius ex adversariis nostri Saulis Paulos faciat.
+Vale in domino cum tota familia tua et me tui amantissimum ama.
+Iterum vale.
+Dedi  Monte regio die  12. decemb. 1562.
+                                  Tui amantissimus  Ioannes Jaske.
+Reverendissimo viro domino Heinricho Bullingero, ecclesiae Tigurinae antistiti fidelissimo, domino suo observandissimo et fratri charissimo, ad manus proprias.
+Zurich zum Großen Münster.
+</content>
+</letter>

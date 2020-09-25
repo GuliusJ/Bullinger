@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2755">
+<brief>
+<id>17023</id>
+<nr>2755</nr> <from persid="ZwickKonrad"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-01-16"/>
+<ae>Konrad Zwick an Bullinger</ae>
+<od>[Konstanz], 16. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 364, 78 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 31</k></dr>
+<re><t>Zusätzlich zum Brief des Konstanzer Rats an den Zürcher Rat will Zwick auch Bullinger über die erschreckende Nachricht informieren, welche die sich derzeit in Stuttgart aufhaltenden Gesandten Ravensburgs ihrem Rat mitteilten: Der [kaiserliche Hauptmann] Francisco Guardin [richtig: Duarte] sagt immer wieder, dass Konstanz und Lindau nicht verschont bleiben werden. Daraufhin hat der Ravensburger Rat den Konstanzer Rat dazu gedrängt, sich doch schnellstmöglich mit Kaiser Karl V. zu versöhnen. Bullinger soll dies auch [Georg] Müller wissen lassen.</t>
+<t>Außerdem befürchtet Zwick, dass, wenn der Kaiser oder sein Heer in Ulm einzieht, die Stadt den kaiserlichen Truppen ausgeliefert sein wird. Man kann sich gut vorstellen, welchen Jammer dies mit sich bringen würde.</t>
+<t>A[mbrosius Blarer] hätte schreiben sollen, musste aber predigen. In Eile.</t>
+<t>[P.S.:] Angeblich sollen die Eidgenossen beschlossen haben, keiner Stadt zu Hilfe zu kommen, was nun wirklich schlimm wäre. </t></re>
+<text>
+<div>
+<p>Min dienst voran, lieber h. und fruind. <zzl>zl17023-2A</zzl>Ich kan uch nebent miner herren schriben
+<fn>Der Brief des Konstanzer Rats an den Zürcher Rat vom 16. Januar (Zürich StA, A 205.2, Nr. 2).<zfn>fn17023-2</zfn></fn> nit verhalten
+<fn>vorenthalten.</fn>, das deren von Ravenspurg gsandte iren herren von St{uo}garten uß geschriben habent, sy vernemment so vil von ainem welschen
+<fn>fremden (aus der Mittelmeerregion).</fn> herren, der haißt Franciscus Guardin
+<fn>Richtig: Francisco Duarte, der sich in dieser Zeit im Raum Stuttgart und Tübingen aufhielt. In dem oben in <qv>fn17023-2</qv> erwähnten Brief ist der Name korrekt angeführt.</fn>, das man Costentz und Lindo nit verschonen werde, mit mererem anhang
+<fn>mit mererem anhang: mit allen möglichen Konsequenzen; vgl. <a>FNHDW</a> I 1213f, Nr. 10. - Siehe die gleiche Drohung im Brief des Kaisers an die XIII Orte vom 18. Januar (s. dazu <a>EA</a> IV/1d 763 zu a), der in aaO, S. 765, zitiert wird. Zu diesem Brief s. ferner <qv>nr2801</qv>, <qv>fn17069-3</qv>.</fn>, etc. Derhalben bittent die von Ravenspurg mine herren, sy wellend die vers{ue}nung nit verziehen
+<fn>aufschieben; s. <a>Fischer</a> II 1429.</fn>, und machent die sach groß. Das bringt ouch by manchem ain schrecken.<zzl>zl17023-2E</zzl> <zzl>zl17023-4A</zzl>Das hab ich uch dannocht
+<fn>dennoch (auch wenn die Ratsherren davon bereits im oben <qv>fn17023-2</qv> erwähnten Brief geschrieben haben).</fn> nit verhalten wellenn, mit bitt, wollend das dem herren Müller
+<fn>Georg Müller hatte sich am 2. Januar mit Zwick in Stein am Rhein getroffen, um sich darüber zu beraten, wie die Eidgenossenschaft Konstanz helfen könnte; s. <qv>nr2739</qv>, <qv>fn17008-14</qv>.</fn> anzaigen.<zzl>zl17023-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17023-3A</zzl>Darby trag ich sorg
+<fn>trag ich sorg: befürchte ich.</fn>, solle der kaiser
+<fn>Karl V.</fn> oder sin volck gen Ulm kummen,
+<fn>Siehe dazu <qv>nr2754</qv>, <qv>fn17022-3</qv>.</fn> so werde die statt des welschen volcks aigen. Waß daruß fur ain jomer volgen m{oe}ge, ist g{uo}t z{uo} gedencken.<zzl>zl17023-3E</zzl> Gott erbarm sich unser!</p>
+</div>
+<div>
+<p><zzl>zl17023-1A</zzl>Maister A[mbrosius Blarer] hatt schriben s{oe}llen, so
+<fn>doch.</fn> m{uo}ß er predigen.
+<fn>Blarers Brief <qv>nr2754</qv> wurde am 16. Januar schon vor der Predigt begonnen. Am Tag darauf wurde er bereits in Zürich empfangen; s. <qv>nr2754</qv>,<qv>zl17022-2</qv>, und <qv>fn17022-1</qv>.</fn><zzl>zl17023-1E</zzl> Datum in yl, den 16. jenner 47.</p>
+<un>Conrat Zwick.</un>
+</div>
+<div>
+<lz/>
+<p><zzl>zl17023-5A</zzl>Es kumpt ain geschray
+<fn>Gerücht.</fn> har, die Aidgnoßen habent sich entschlossen, das sy sich kainer statt nichts
+<fn>kainer statt nichts: keiner Stadt in irgendeiner Hinsicht. - Gemeint ist hier insbesondere die Stadt Konstanz, für die sich Zürich an der Tagsatzung einsetzte, was dort aber kritisch aufgenommen wurde; s. <a>EA</a> IV/1d 755 g; <qv>nr2740</qv>,<qv>zl17009-3</qv>.<zfn>fn17023-1</zfn></fn> annemmen wellend. Wo dem also, were warlich nit g{uo}t.<zzl>zl17023-5E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Dem wirdigen und gotsgelerten h. maister Hainrichen Bullinger, predigern z{uo} Zurich, minem lieben herren und frund
+<fa><i>Darunter von Bullingers Hand:</i> 16. ianuarii.</fa>.</p>
+</div>
+</text>
+</brief>

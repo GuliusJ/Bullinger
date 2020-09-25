@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2866">
+<brief>
+<id>17134</id>
+<nr>2866</nr> <from persid="FreyJohannLeopold"/> <to persid="Bullinger"/> <place plid="Biel"/> <date when="1547-03-30"/>
+<ae>Johann Leopold Frey an Bullinger</ae>
+<od>Biel, 30. März 1547</od>
+<vo>Autograph: Zürich StA, E II 360, 433 (Siegelabdruck)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Abschrift)</k></dr>
+<re><t>Frey dankt für Bullingers Antwort [nicht erhalten] auf die mit Brief [<qv>nr2750</qv>] gestellte nebensächliche Frage zu einem Bremgartner [...], der durch einen Zaunpfahl umkam.</t>
+<t>Die Neuigkeiten erreichten die Bieler erst als Gerücht, danach mit Bullingers Brief. Was wird wohl die Zukunft bringen?</t>
+<t>Der Brief an Hans Wunderlich [nicht erhalten] wurde diesem so schnell wie möglich übermittelt. Dass Wunderlich aber Bullingers Hand erkannte (was dieser wohl vermeiden wollte), liegt nicht an Frey, sondern an Samuel [Wyttenbach], der sich damals zufällig in Neuenburg aufhielt. Auf Wunderlichs Frage, um wessen Handschrift es sich handele, identifizierte Samuel sie als die Bullingers, was Wunderlich zunächst nicht glauben wollte.</t>
+<t>[Aus Paris] ist der "Halbfranzose" Josua [Wyttenbach] zurückgekehrt, den sein Vater [Niklaus] nun mit einer Anfrage nach Zürich sendet. Josua erzählt, dass man in Frankreich nun "milder" mit den sogenannten "Lutheranern" umgehe! [König Franz I.] würde sie nur noch auf die Galeeren verkaufen oder ins Exil schicken! Wie gnädig! Und von solch einem erbittet man nun Hilfe gegen Kaiser Karl V., wie einst die Juden von den Ägyptern [gegen die Assyrer]! Damit zeigen die [Protestanten], dass sie Gott gar nicht vertrauen! Anscheinend sind ihnen Güte und Buße, ja sogar die göttliche Wahrheit nichts mehr wert! Gott öffne ihnen die Augen!</t>
+<t>Michael [Schlatter], Jakob [Würben], Peter [Fuchs] und Freys Gattin [...] grüßen Bullinger und dessen Familie.</t></re>
+<text>
+<div>
+<p>Gratiam et pacem a deo patre nostro. <zzl>zl17134-2A</zzl>Habeo tibi (pater charissime) summas gratias, quod non piguerit frivola postulanti respondere,
+<fn>Freys Nachfrage datiert vom 13. Januar (<qv>nr2750</qv>). Bullingers Antwort darauf ist verloren.<zfn>fn17134-1</zfn></fn> videlicet de Bremgartensi quodam
+<fn>Unbekannt.</fn>, cuius (ut meruerat) animam palus
+<fn>Hier im Sinn von Zaunpfahl, in Anlehnung an <qv>nr2750</qv>,<qv>zl17019-4</qv>.</fn> novo quodam modo extorsit.<zzl>zl17134-2E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17134-3A</zzl>Rerum novarum plus satis est, quas ad nos prius fama, postea quoque tuum epistolium attulit. Quis tandem sit futurus finis, inter spem metumque h{e}rentes expectamus.
+<fa><i>Am Rande, vermutlich von Bullingers Hand und wegen des engen Einbandes nur zum Teil lesbar</i> sich [...]aff.</fa><zzl>zl17134-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17134-4A</zzl>Literas ad Ioannem Wunderlich
+<fn>Jean Merveilleux, der Schwiegersohn des Bieler Venners Niklaus Wyttenbach. - Damit ist vermutlich das im Brief <qv>nr2820</qv> vom 20. Februar geplante, nicht erhaltene Schreiben an Wunderlich gemeint, das Bullinger zugunsten der Konstanzer verfasst haben wird. Dass zwischen der oben angesprochenen Übermittlung eines von Bullingers Hand verfassten, aber nicht unterschriebenen und an Hans Wunderlich gerichteten Briefes und der Abfassung des vorliegenden Schreibens schon längere Zeit verstrichen war, ist deshalb wahrscheinlich, weil Bullinger sich seit dieser Übermittlung bereits bei Frey erkundigt zu haben scheint, wie es dazu kam, dass Wunderlich seine Handschrift erkannt hatte. - Frey hatte schon früher zusammen mit Peter Fuchs ein Schreiben Bullingers an Wunderlich übermittelt; s. <qv>nr2795</qv>,<qv>zl17064-3</qv>.<zfn>fn17134-2</zfn></fn> datas, quanta fieri potuit festinantia illi reddi curavimus. Quod autem ab ipso tua manus est agnita (id quod te nolle credebam)
+<fn>Dies lässt sich wohl auf Bullingers Unbehagen in dieser Sache zurückführen; s. schon <qv>nr2774</qv>,<qv>zl17043-6</qv>.</fn>, non per me factum est, sed per Samuelem
+<fn>Gemeint ist Samuel Wyttenbach, ein Sohn von Niklaus. - Aus dieser Angabe wird klar, dass Samuel in Zürich nicht nur die Zürcherin Küngold von Schönau heiratete (s. dazu <a>HBBW</a> XIII Reg.), sondern zuvor schon dort studiert hatte. Während des Studiums wird er seine künftige Frau kennengelernt haben und Bullinger genügend nahe gekommen sein, um dessen Handschrift erkennen zu können.<zfn>fn17134-3</zfn></fn> nostrum, qui hoc ignorans tum forte Neocomi
+<fn>Neuenburg.</fn> erat. Hunc enim ad se
+<fa><i>Über der Zeile nachgetragen.</i></fa> vocatum Ioannes ille rogavit <fa1 bis="1"><i>Über der Zeile nachgetragen.</i></fa1>ostensa inscriptione<fa1e von="1"/>, cuiusnam h{e}c manus esset; qui statim respondit: "Bullingeri est." Cui responsioni cum ille non acquiesceret, tandem magis id affirmante Samuele credidit.<zzl>zl17134-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17134-1A</zzl>Redditus est nobis Josue
+<fn>Josua Wyttenbach, dessen Aufenthalt in Paris in <a>HBBW</a> XVI, Nr. 2415, belegt ist, und der damals gerade von dort vom Vater (Niklaus) zurückgerufen worden war; s. <qv>nr2869</qv>,<qv>zl17137-2</qv>.<zfn>fn17134-4</zfn></fn> noster semigallus, quem (quid possit) pater
+<fn>Niklaus gab seine schriftliche Anfrage an Bullinger (<qv>nr2869</qv>) bezüglich der Zukunft seines Sohnes sogleich Letzterem mit.</fn> cupiens inquiri ad vos transmittit.<zzl>zl17134-1E</zzl> <zzl>zl17134-5A</zzl>Hoc nuncio rescivimus iam diebus aliquot [i]llum
+<fa><i>Am Rande nachgetragen und zum Teil im engen Einband verdeckt.</i></fa>
+<fn>König Franz I.</fn> s{e}vire lenius in eos, quos Lutheranos appellant.
+<fn>Ironisch gemeint.</fn> Iam enim aut vendit ad navalia opera aut in exilium mittit. O magnam gratiam! Hic dignus est, a quo petamus contra c{e}sarem
+<fn>Karl V.</fn> auxilia, Iud{e}i ab Aegyptiis
+<fn>Anspielung auf Jer 2, 18. 36; 42-44.</fn>! Ostendimus profecto nullam in nobis fidem esse! Vilis est in oculis nostris bonitas atque poenitentia
+<fa><i>In der Vorlage</i> potentia.</fa>, quin etiam veritas divina! Dominus det nobis mentem saniorem, ut, quam miseri simus, agnoscere queamus.<zzl>zl17134-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17134-6A</zzl>Salutant te fratres Michael
+<fn>Pfarrer Michael Schlatter.</fn>, Iacobus
+<fn>Der ehemalige Kaplan Jakob Würben.</fn> et Vulpius
+<fn>Kleinrat Peter Fuchs.</fn>, imprimis autem te tuamque familiam uxorcula mea
+<fn>Unbekannt.</fn>.<zzl>zl17134-6E</zzl> Vale et me, ut assoles, ama. Biellnis, 3. calendas aprileis anno 1547.</p>
+<un>Tuus ex animo Ioannes Leo-</un>
+<un>poldus Fry
+<fa><i>Darunter von Bullingers Hand:</i> Das Margrethlis halb. <i>Wohl ohne Zusammenhang mit vorliegendem Brief, vermutlich aber mit Bullingers Tochter Margaretha, die am 29. April 1547 16 Jahre alt wurde.</i></fa>.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Doctissimo piissimoque viro d. Heinrycho Bullingero, Tigurin{e} ecclesi{e} fidelissimo antistiti, patri suo summe colendo. Zürich.
+<fn>Vorliegender Brief wurde zusammen mit <qv>nr2869</qv> durch Josua Wyttenbach überbracht; s. oben Z. <qv>zl17134-1</qv>; <qv>nr2869</qv>,<qv>zl17137-1</qv>.<zfn>fn17134-5</zfn></fn></p>
+</div>
+</text>
+</brief>

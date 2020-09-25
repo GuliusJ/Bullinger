@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="950">
+<nr>950</nr>
+<correspondents>
+	<originator>Die Pfarrer</originator>
+	<originator>Lehrer von Bern</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>Leo Jud</addressee>
+	<addressee>Konrad Pellikan</addressee>
+	<addressee>Theodor Bibliander</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>17. Februar 1537</date>
+</space_time>
+<vo>Original von der Hand Johannes Rhellikans: Zürich StA, E II 337, 225r.-v. (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Rechtfertigen ihre Absage an Bucer, mit der sie zum Mißfallen von Myconius und Grynäus auf seinen Brief [Nr. 939]
+reagiert haben; durch sein parteiisches Auftreten, das mit seinen "Retraktationen" offenkundig geworden ist, spaltet er die eidgenössischen Kirchen und erweckt zu Unrecht den
+Eindruck, die Zwinglianer hätten ihre Abendmahlslehre im Sinne Luthers revidiert. Wollen sein Schreiben vorläufig nicht
+beantworten und bitten die Zürcher, sich darüber zu äußern.</re>
+<tx>Salus et pacata conscientia per Christum Iesum, dominum ac servatorem nostrum.
+^$Transmiserunt ad nos Basilienses communem Buceri ad ipsos, Tigurinos et Bernates spectantem epistolam<f1>Oben
+Nr. 939.<fe>, viri ac fratres in domino observandi, ad quam dumd. Myconius primo quoque die respondendum urgeret ac
+Megander ex plaerorumque nostrum sententia eidem rescripsisset<f1>Weder das Schreiben von Myconius noch die Antwort der
+Berner ist erhalten (zu letzterer s. unten Nr. 1045,
+Anm. 40).<fe> nihil commertii posthac nobis cum Bucero futurum, eo quod ex duarum partium arbitro pars ita
+sit factus, ut relicta amica ad inimicam transfugerit. Quam equidem rem dici non potest, quam indignis modis tum
+Myconius tum Grynaeus tulerit<f1>Vgl. unten Nr. 956, 1-13.<fe>. Uterque enim non sine stomacho
+perturbati animi nos accusat, quod scilicet gloriae et nominis Zvingliani assertores simus superstitiosi, praesertim hoc
+tempore, quo communi omnium ecclesiarum paci studendum esset, quidquid tandem Bucerus retractarit<f1>Zu Bucers
+"Retraktationen" s. HBBW VI, S. 368, Anm. 12.<fe>. Neque enim ullum veritatis dispendium per
+eius retractationem in eucharistiae negotio fieri, propterea quod nihil retractet, quod communis omnium nostrum
+confessio<f1>Gemeint ist das Erste Helvetische Bekenntnis von 1536 (BSRK 101-109).<fe> non contineat. Haec an per
+omnia sic se habeant, vobis et omnibus synceris ac circumspectis fratribus (quandoquidem nos affectibus tantopere dediti
+arguimur) diiudicanda permittimus. Nisi autem perturbationes rationis imperium ac iugum prorsus excusserint effrenesque
+in nobis factae fuerint, neque Oecolampadii neque Zvinglii, bonorum ac eruditorum virorum laus tantummodo, sed veritas
+ipsa (quam uterque sedulo et docuit et propugnavit) pe­ri­clitari videtur. Si quis enim omnia Buceri consilia interim, dum
+se arbitrum conciliandae pacis inter nos et Lutheranos ultro obtulit ac se ingessit, accurate perpendat, annon cuncta
+huc tetendisse dicet, ut Lutherus per omnia recte super synaxeos negotio, nostri vero perperam sensisse videantur?
+Maxime. In hoc enim negotium subinde protelavit, acta et transacta retractavit, donec alios blanditiis et promissionibus
+vanis alliciendo, alios vero minis territando, innumeris denique artibus ac mille technis tandem effecit, ut ecclesias
+Helveticas dissiparet et quasdam ad se pertraheret. Cuius voti compos factus tum demum revocationem diu male
+dissimulatam aperuit. In qua non contentus fuit solus recantare, sed (quae est hominis calliditas et ingenii vafricies!)
+inibi scribit Basilienses quoque cum ipso sentire<f1>Siehe BucerDS VI/1 335, 13-20.<fe>. Atque quo id magis
+probabile faceret, Retractationes suas non Argentorati, sed Basileae non sine magno astu excudi curavit, mirum ni, ut
+toti christiano orbi innotesceret Basiliensibus cum Bucero convenire. Quid dico Basilienses? Imo ut nos omnes suspecti
+redderemur, quasi mutata nostra sententia super praesentia domini in sacrosancta caena Luthero cessissemus, quippe quum
+tantus Zvinglianorum (ut vocant) coryphaeus palinodiam cecinerit. Ne quis vero dicat nunc quoque affectibus nos
+indulgere, quando hunc faciendae concordiae scopum Bucero fuisse dicimus, age, praeter alias manifestas et innumeras
+coniecturas Frechti, Ulmensis ecclesiae parochi, epistolam in testem
+produ-<vl>225v.</vl>camus, in qua ad Erasmum Hippodamum, fratrem ac symmystam nostrum, non ita pridem scripsit<f1>Der Brief
+Martin Frechts an Erasmus Ritter ist nicht erhalten.<fe> se cum ex Argentorato tum Constantia intellexisse tres Helveticas
+ecclesias, nominatim Sangallensem, Basiliensem et Milthusianam, nudis Wittembergensium articulis subscripsisse<f1>Vgl.
+HBBW VI, S. 459, Anm. 6.<fe>. Atque haec vir tantus dubio procul non scripsisset, nisi ex certis et fide dignis
+hominibus accepisset. Ut taceamus interea, quod Bucerus cum omnibus suis complicibus in hoc unum incumbit iam, ut
+sacramenta et externum dei verbum ita comantur, colantur adeoque augusta et veneranda reddantur, ut, dum signa
+cum signatis confunduntur, tandem eveniat, ut id, quod solius gratiae divinae est, signo et mortuae literae<f1>Vgl. 2Kor
+3, 6.<fe> tribuatur denuo, ac posteriora saecula prioribus multo deteriora fiant. Sive autem nescientes sive scientes ac
+cum ratione insanientes hoc faciant et porro facturi sint, dominus novit et eos iudicabit. Nostrum non est quemquam
+iudicare. Domino enim suo quisque<fx>quisque ^#/+am Rande nachgetragen.^#/-<fe> stat aut cadit<f1>Vgl. Röm 14, 4.<fe>.
+Nec iudicamus etiam nisi in manifestis insidiis et strophis deprehensos, quos in hoc agnitos operaepretium putamus, ut
+non passim indoctis pariter et doctis fucum faciant ac tenebras novas in coruscante evangelii luce offundant.
+^$Haec nostra de Buceri revocatione sententia est, nec animus est ei quidquam super epistola sua respondere, donec
+communi et vestro et nostro consilio temporis successu melius edocti fuerimus, quid in tam ancipiti negotio faciundum
+sit. Vestrum erit interim, optimi fratres, sicubi nos praecipitantiores, ferventiores ac temerarios iudices
+existimaveritis, cohibere ac refrenare animi motum ac modestia vestra eidem moderari. Quocirca oratos vos in domino
+volumus, ut quam ocyssime nos certiores faciatis, quid super istis omnibus, imprimis autem de Buceri communi epistola
+sentiatis. Quod ad nos adtinet, quantumvis affectuum indulgentes habeamur, nihil tamen non (duce et auspice Christo)
+facere parati sumus, quod et ad retinendam veterem et faciendam novam fratrum concordiam pertinet, modo id citra
+veritatis iacturam praesentisque et posteri saeculi offendiculum fiat. Amen.
+^$Valete in domino feliciter omnes.
+^$Datae ex Berna, 17. februarii anno 1537.<un>Ministri ecclesiae Bernensis in administrando<un>domini verbo ac bonis literis docendis.
+<lz>[Adresse auf f. 226v.:] D[ominis] Heinricho Bullingero, Leoni<f1>Leo Jud.<fe>, Pellicano et Theodoro Bibliandro,
+antistitibus et bonarum literarum professoribus Tigurinae ecclesiae, dominis ac fratribus suis in Christo dilectis.
+</content>
+</letter>

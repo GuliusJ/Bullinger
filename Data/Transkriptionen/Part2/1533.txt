@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1533">
+<nr>1533</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Rudolf Gwalther</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>15. Juni 1541</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen und einer Randbemerkung von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 42, 23b (Siegelabdruck)</vo>
+<vo>Kopie: ZZB, Ms S 50, 10a<fn>Erw.: ^#/+Köhler,^#/- Hessen und die Schweiz 472 (16. Juni!).</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Hat mit Vertretern der Obrigkeit über die Frage [von Gwalthers Verbleib in Regensburg] beraten; wenn der Fürst
+[Philipp von Hessen] abreist und Gwalthers Unterhaltskosten deshalb steigen, soll er zurückkehren und versuchen, sich durch
+die Konstanzer auf dem Laufenden halten zu lassen. Soll ein Schreiben des Fürsten an den Zürcher Rat mitbringen. Grüße.
+</re>
+<tx>Gratiam et pacem a domino.
+^$Cons[uli]<f1>Bürgermeister Diethelm Röist (vielleicht ist das abgekürzte Wort als Plural zu lesen; in diesem Fall wäre auch Altbürgermeister Hans Walder gemeint); s. Fabian, Geheime Räte 242.<fe> et quaestoribus<f1>Jakob Werdmüller und Bernhard von Cham; s. ebd.<fe>, aedili<f1>Baumeister Hans
+Rudolf Lavater; s.
+Heinzpeter ^#/+Stucki,^#/- Bürgermeister Hans Rudolf Lavater 1492-1557. Ein Politiker der Reformationszeit, Zürich 1973. - ZBRG III, S. 169-195.<fe> et tribuno plebis<f1>Gemeint ist wohl Oberstzunftmeister Johannes Haab; s. Fabian, Geheime Räte 242
+mit Anm. 54.<fe> quaestionem tuam<f1>Gwalther hatte sich am 31. Mai erkundigt, ob er nach der bevorstehenden Abreise des
+hessischen Fürsten noch länger in Regensburg bleiben solle; s. oben Nr. 1526, 2-17.<fe> proposui et consilium petii. Placet autem omnibus, ut maneas, quamdiu illustrissimus
+princeps<f1>Landgraf Philipp von Hessen.<fe> manet et tu in eius aula haerere potes ita ut hactenus; ubi vero is discesserit, ut tibi vivendum sit tuis sumptibus, redito domum ilico. Non enim operaepretium est sumptus facere graves in re nihili,
+quem­admodum ipse iudicas prudenter<f1>Ebd., Z. 8-13.<fe>. Kanst aber vertruwte kundtschafft<f1>vertrauenswürdeige Bekanntschaft<fe> machen mitt getrüwen, dass dir gwüßlich<f1>zuverlässig.<fe> zuͦgeschriben
+wurde durch die Costentzer<f1>Vgl. ebd., Z. 8f mit Anm. 3.<fe> etc., thuͦ es.
+^$Cuperem, ut literas a principe scriptas ad senatum referres.<f1>Vgl. oben Nr. 1523, 16-19 mit Anm. 7.<fe>
+^$Salutabis illustrissimi principis contionatores<f1>Corvinus, Draconites, Pistorius und Melander; vgl. oben Nr. 1496, Anm. 28.<fe> et fratres dilectissimos Constantienses et
+Ulmenses<f1>Gemäß Gwalthers Verzeichnis (s. ebd.) war von den Konstanzer Pfarrern keiner in Regensburg, von den Ulmern einzig Martin Frecht.<fe>.
+^$Vale et redi, si princeps discesserit.
+^$15. iunii 1541.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Rodolpho Gvalthero
+Tigurino, Ratisponae vel in aula illustrissimi principis
+Hessi vel apud Constantienses agenti, filio suo.
+</content>
+</letter>

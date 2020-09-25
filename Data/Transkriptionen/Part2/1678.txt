@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1678">
+<nr>1678</nr>
+<correspondents>
+	<originator fn=1>Schultheiß</originator>
+	<originator>Rat von Aarau</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Das Aarauer Schultheißenamt bekleidete in den Jahren 1542 und 1543 der Junker Beat (Batt) von Luternau, s. Walther ^#/+Merz,^#/- Die Schultheissen der Stadt Arau[!], Aarau 1899, S. 14. Zum Amt vgl. ^#/+ders.,^#/- Geschichte der Stadt Aarau im Mittelalter, Aarau 1925. -
+Veröffentlichungen aus dem Stadtarchiv Aarau IV, S. 118f. - Beat (Batt) von Luternau, gest. 1587, Mitherr zu Schöftland, Sohn des Aarauer Schult­heißen Sebastian, wurde 1530 möglicherweise aufgrund katholischer Sympathien aus dem Aarauer Rat ausgeschlossen, amtete später aber mehrfach als
+Schultheiß. - Lit.: HBLS IV 739; Die Urkunden des Stadtarchivs Aarau, bearb. von Georg Boner, Aarau 1942. - Aargauer Urkunden IX; Walther ^#/+Merz,^#/- Wappenbuch der Stadt Aarau, Aarau 1917. - Veröffentlichungen aus dem Stadtarchiv Aarau I.</note>
+</correspondents>
+<space_time>
+	<place>[Aarau]</place>
+	<date>16. Oktober 1542</date>
+</space_time>
+<vo>Autograph Gabriel Meyers: Zürich StA, E II 360, 367 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Haben den an den Stadtschreiber [Gabriel Meyer] gerichteten Brief gelesen und Christian [Wirth] probeweise für ein Vierteljahr als Schulmeister eingestellt; für eine Predigterlaubnis braucht es allerdings das Einverständnis des Berner Chorgerichts, an das eine Bescheinigung gerichtet werden
+soll, dass [Wirth] in Zürich geprüft worden ist; bitten um Ermahnung [Wirths], dass dieser in Aarau dem guten Zeugnis nachlebt, das ihm die Zürcher gegeben haben.
+</re>
+<tx>Erwirdiger, wolgelerter herre, unßer früntlich gruͦß
+und willig dienst sie üch von uns zuͦ voran bereit und
+hie mit ze vernemmen.
+^$Uwer zuͦ schriben<f1>Nicht erhalten.<fe>, unßerem statschriber<f1>Gabriel Meyer.<fe> gethan, uns sinem
+inhalt nach gnuͦgsam verstanden und hierus erlernet üwern
+gants früntlichen willen gegent der stat Arow, des wir uns
+höchlich bedancken mit erbieten, unßerem bestem vermögen
+nach um ein erwirdig collegium ze gedienen. Und uff söllichs
+habend wir Christianum<f1>Christian Wirth, vgl. HBBW VII 221 und Martha ^#/+Reimann,^#/- Die Geschichte der Arauer[!] Stadtschulen von ihren Anfängen bis zum Ende der bernischen Herrschaft (1270-1798), Diss. phil. Bern, Aarau 1914, S. 35.<fe> zuͦ unßerem schuͦlmeister
+angenommen, ein fronvasten<f1>Vierteljahr.<fe> lang ze versuͦchen, guͦtter,
+ungezwifelter hoffnung, werde uns beider sydten sölcher
+gestalten gelieben<f1>so gefallen.<fe>, das wir verer<f1>weiterhin, längerfristig.<fe> mit ein andren hußhalten.
+Danne des predigens halben in underwilen<f1>gelegentlich.<fe> ze gepruchen, wirt
+uns keins wegs gestattet, habe dan bevor ein bewilligung von
+unßeren gne[digen] herren vonn Bern corgricht.<f1>Das Berner Chorgericht, bestehend ursprünglich aus je zwei Vertretern des Großen und Kleinen Rats sowie der Pfarrerschaft, war eine Gerichts- und Verwaltungsbehörde, der unter anderem die Prüfung der Pfarrer und die Pfarrstellenbesetzung oblag, vgl.
+Theodor ^#/+de Quervain,^#/- Kirchliche und soziale Zustände in Bern unmittelbar nach der Einführung der Reformation (1528-1536), Bern 1906, S. 24-37; Walther ^#/+Köhler,^#/- Zürcher Ehegericht und Genfer Konsistorium, Bd. I, Leipzig 1932. - Quellen und Abhandlungen zur Schweizerischen
+Reformationsgeschichte VII, S. 308-357.<fe> Derehalben
+unser begäre, wöllend im kuntschafft brieffe<f1>ein Zeugnis.<fe> an vermelte<f1>erwähnte.<fe>
+unsere gn[edigen] h[erren] vom corgericht geben, das er von
+üch, unseren herren von Zürich, tentiert<f1>geprüft worden ist.<fe>; werdend sy one
+zwifel sich des settigen<f1>sie werden sich ohne Zweifel damit zufrieden geben.<fe> und im bewilligung volgen laßen.<f1>Ein entsprechender Schriftwechsel liegt nicht vor.<fe>
+Dan­net­hin wöllend wir im söllichs zuͦ gelegner zite gern
+gestatten. Denen von, fürgeliepter herre, ist unser
+getrungenlich begäre<f1>eindringlicher Wunsch.<fe>, wöllend gedachten schuͦlmeister
+doran wysen, üwer von im geben kuntschafft mit siner
+bewißten trüw, liebe und erberem fürtrag<f1>ehrbarem Ausweis.<fe> sines lebens und
+wandels exempel der gestalten ze bevestnen, das ir wol
+geschriben und wir des haben ze genießen. Hie mit wölle üch
+got allzit gnedigklichen erhalten!
+^$Datum Galli im 42.
+<un>U[wer] erwird
+<un>guͦtwillige
+<un>diener,
+<un>schultheis
+<un>und rath zuͦ
+<un>Arow.
+<lz>[Adresse auf der Rückseite:] Dem erwirdigenn, wol und
+hochgelerten hern meister Heinrichen Bullinger, ußkündern
+götlichs wordtes ze Zürich, unserem vilgeliepten herren.
+</content>
+</letter>

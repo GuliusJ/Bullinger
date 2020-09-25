@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1822">
+<nr>1822</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>1. Dezember 1543</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 197 (neu: 215) (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 191</vo>
+<dr>Ungedruckt</dr>
+<re>Es wird geschrieben, [Cheireddin] Barbarossa habe Katalonien, Korsika und Sardinien verwüstet, und der Sohn des
+Königs von Tunis [Achmed] habe seinen Vater [Muley Hassan] geblendet, wie dies auch Barbarossa getan habe; Myconius
+versteht die Nachricht nicht ganz, leitet sie aber trotzdem weiter. [Kaspar] Hedio berichtet, Markgraf [Ernst I. von Baden]
+habe ihn zu sich berufen und insgeheim mit ihm über die Reform der Kirche beraten; was der im Reich hoch angesehene Fürst
+beabsichtigt, bleibt aber ungewiss. In Venedig soll es wegen des Verkaufs lutherischer Bücher, die ein Kardinal aus Basel
+beschafft habe, zu Festnahmen gekommen sein, doch seien die Verhafteten nach einem Tumult wieder auf freiem Fuß; Myconius zweifelt an dieser Nachricht, will aber weiter nachforschen.
+</re>
+<tx>S. Scripsit quidam<f1>Unbekannt.<fe> Barbarossam Catalauniam (nescio, quid id sit), Corsicam et Sardiniam in mari
+mediterraneo vastasse crudeliter,<f1>Zum Raubzug türkischer Korsaren an der katalanischen Küste vgl. Paulo Giovio, Historiae
+sui temporis II/2, Rom 1985. - Opera V, S. 172; Ion ^#/+Ursu,^#/- La politique orientale de François I^#'e^#'r (1515-1547), Paris
+1908, S. 147.<fe> multas, imo omnes earum insularum naves perdidisse, bona diripuisse et egisse per omnia, sicut decet
+impium Machumetistam. Pręterea filium regis de Thunis patri cęsarem imitanti effodisse oculos,<f1>Muley
+Hassan, den Kaiser Karl V. nach seinem Sieg über Cheireddin Barbarossa 1535 wieder als Herrscher (Muley/Maw­lay) von Tunis eingesetzt hatte,
+wurde 1543 (oder schon 1542?) von seinem Sohn Muley Achmed gestürzt und geblendet; s. Giovio, aaO, S. 172-177; Fehmi
+^#/+Ismail,^#/- Art. Al-Hasan ben Muhammad, in: Contemporaries II 166; vgl. auch Blarer BW II 219.<fe> qualiter et Barbarossa suo
+patri fecerit.<f1>Hierbei scheint es sich um ein Missverständnis zu handeln; Achmed verwies darauf, dass der Vater seinen Brüdern
+Gleiches angetan habe (s. Giovio, aaO, S. 177).<fe> Non intelligo hęc omnia; quia tamen sic scripta, non potui te celare ut scripta.
+^$Hęc certa ex Hedione<f1>Ein entsprechender Brief an Myconius liegt nicht vor. Über seinen achttägigen Besuch in
+Pforzheim berichtet Hedio auch in seinem Brief an Matthias Erb vom 20. November (Basel UB, Ms. Ki. Ar. 25b, Nr. 74).<fe>:
+Marchio<f1>Markgraf Ernst I., 1482-1553, Begründer der Linie Baden-Durlach, war bereits ab 1515 als Markgraf von Hochberg
+Teilregent. Nach kurzer gemeinsamer Herrschaft mit seinem Bruder Bernhard III. regierte er seit der Landesteilung von
+1535 bis zu seiner Resignation 1552 in Pforzheim. Er bemühte sich um kirchliche Reformen, vermied jedoch eine konfessionelle
+Parteinahme. - Lit.: Arthur ^#/+Kleinschmidt,^#/- in: ADB VI 243f; Friedrich ^#/+Wielandt,^#/- in: NDB IV 605f.<fe> vocavit Hedionem,
+disputavit cum eo de rebus fidei christianę varie, quęstionibus motis (ut est plus in talibus quam astutus) de
+occultissimis quibusque ex scriptura dei, imo de calumniosissimis, quę poterat invenire, et hęc in mensa.
+Clam et serio contulit de reformandis ecclesiis, de visitandis parochiis, de instituendis stipendiis pro pauperibus
+theologię candidatis. Quid in animo vere sit, scire non possum. Magnus est vir ille in imperio, colitur hactenus a
+cęsare tum ob prudentiam tum ob senium, interim tamen hucusque talem se gessit, ut actionis veritatem coniectare
+nequeam. Dominus omnia vertat quam optime, hoc est in suam laudem.
+^$Retulit hodied. de Rischach<f1>Gemeint ist Ludwig von Reischach oder eventuell Alexander Rischacher.<fe>, ex
+Bebelio<f1>Johann Bebel.<fe> esse quendam venisse Basileam empturum libros Lutheranos, ut vocant,<fx>Lutheranos, ut vocant
+^#/+am Rande nachgetragen.^#/-<fe> cardinali cuidam pro aureis 300. Deinde fuisse tumultum Venetiis gravem ob eosdem libros
+venales a quopiam expositos, postquam, qui exposuerat quique iusserat senator, fuissent coniecti in carcerem, ac tumultum
+ambos liberasse. Hoc vix equidem credo, prius ipse inquiram.<f1>Ob es sich bei dieser Mitteilung um mehr als um
+ein Gerücht handelt, bleibt offen.<fe> Hęc, ut vides ex papyro, maxime raptim.
+^$Vale per Christum cum tuis.
+^$Dominica prima decembris anno 1543.
+<un>Tuus Os. Myco-­
+<un>nius.
+<lz>[Adresse auf der Rückseite:] D. Heinricho
+Bullingero doctissimo, episcopo Tigurinorum optimo, fratri in
+domino suo perquam charo. Z[ürich]<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>
+</content>
+</letter>

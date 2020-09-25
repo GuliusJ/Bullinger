@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1994">
+<nr>1994</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>20. September 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 100 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 185^&x{
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 300, Nr. 1125</dr>
+<re>In Blarers Abwesenheit wurde Bullingers Brief von dessen Neffen [Josua], Sohn des [Johannes Reinhart], der Magd [...] anvertraut; Blarer wird [Josua] aufsuchen lassen und ihm gerne den von Bullinger erbetenen Dienst erweisen. Die über den Kaiser [Karl^#. V.] in Blarers Brief [oben Nr. 1988] übermittelte Nachricht stimmt nicht; dies geht aus dem Brief eines Augsburgers [...] und dem Gespräch mit einem aus dem Lager des Kaisers gekommenen Italiener [...] hervor; im Brief aus Augsburg erfährt man, dass der Kaiser Châlons-en-Champagne und Troyes verlassen und sich nach Paris begeben hat und dass Wilhelm von Fürstenberg gefangen wurde und möglicherweise gegen Gefangene aus dem Lager [Franz' I.] ausgetauscht wird; der Kaiser soll alles versucht haben, [Franz^#. I.] zum Kampf zu provozieren. Die [Briefe Bullingers an Wolfgang Musculus und Adam Bartholomäus] sind bereits nach Augsburg befördert worden; Blarer hat nicht Zeit, ausführlicher zu sein; er wird Gwalther demnächst schreiben. Bucer schreibt, dass Melanchthon [Gregor] Brück gesagt habe, er werde sich nach einem anderen Wohnort umsehen, wenn [Luther] so fortfährt.</re>
+<tx>S. Reddidit literas tuas<f1>Oben Nr. 1986.<fe> ancillę meę<f1>Unbekannt.<fe> nepos ille
+tuus<f1>Josua Bullinger; s. oben Nr. 1986 mit Anm. 10. 12.<fe> ex fratre<f1>Johannes [Reinhart] Bullinger.<fe>, quum ipse domi non
+essem, pollicitus se rediturum, quod nondum tamen fecit.
+Curabo vero, ut, ubi nam sit, resciscam, commodaturus illi,
+quibuscunque rationibus possum, quum nihil ęque mihi
+propositum quam tibi per omnia gratificari.
+^$Puto te eas literas, quas nudius tertius istuc misi,<f1>Oben Nr. 1988.<fe>
+accepisse, in quibus vana esse scito, quę de caesare<f1>Karl^#. V.<fe> ex
+rumoribus scripsi;<f1>Vgl. oben Nr. 1988, 1-4.<fe> nunc enim ita ad me scribit amicus quidam
+Augustanus<f1>Der Brief des unbekannten Schreibers aus Augsburg ist nicht erhalten.<fe>: "Wir habend zeytung, das kai.
+mt. Chalon<f1>Châlons-en-Champagne.<fe> und Troja<f1>Troyes, Dép. Aube.<fe> ligen hab lassen und den
+nechsten uff Paris gezogen,<f1>Kaiser und Heer hatten zu diesem Zeitpunkt den Marsch auf Paris bereits aufgegeben und befanden sich am 20. September in Crépy (Dép. Aisne), wo am 18./19. September der Friede von Crépy geschlossen worden war; s. ^#/+Paillard^#/- 353-359. 366-419.<fe> das ouch in ainem scharmutz<f1>Scharmützel.<fe>
+grauff Wilhalm von Furstenberg gefangen worden<f1>Siehe oben Nr. 1987, Anm. 7.<fe> und aber
+dargegen dem konig<f1>Franz^#. I.<fe> ouch etlich guͦt leut gefangen; acht
+man, sy werdends gegen ain ander abziechen<f1>austauschen.<fe>."<f1>Der prominenteste Gefangene aus dem französischen Lager war Karl I. de Bourbon, der 1589 von der Katholischen Liga zum König Karl X. ausgerufen wurde; vgl. ^#/+Paillard^#/- 323f. Es ist unklar, wer die anderen Gefangenen sind.<fe> Eadem narravit
+hic nudius tertius sub cenam Italus quidam<f1>Unbekannt.<fe>, qui recta se ex
+caesaris castris venire affirmabat, addens caesarem valde
+lacessere regem ad congressum et pugnam.<f1>Zu diesem Zeitpunkt war der Friede von Crépy schon geschlossen; s. oben Nr. 1992, Anm. 8.<fe> Dominus, autor
+pacis, cruentis istis conatibus quamprimum imperet!
+^$Quę misisti, perlata iam sunt Augustam.<f1>Vgl. oben Nr. 1986 mit Anm. 2.<fe> Nihil praeterea
+nunc vacat scribere. Tu nos domino constanter commenda et
+saluta amicos, in primis tuam domum. Gvalthero dic proximis
+hisce diebus me ad se scripturum; dispeream enim, si
+quicquam nunc possum.<f1>Blarers Brief an Gwalther wurde am 8. Oktober verfasst; s. Blarer BW II 305f, Nr. 1132. Zu dessen möglichem Anlass s. oben Nr. 1950 mit Anm. 2.<fe>
+^$20. septembris 1544.
+<un>Tuus Amb. Bl.
+<lz>Scripsit ad me heri inter cętera Bucerus:<f1>Zitiert aus Bucers Brief vom 12. September (Blarer BW 291, Nr. 1119) im Zusammenhang mit den neu entflammten Streitigkeiten zwischen Wittenberg und Zürich.<fe> "Philippus<f1>Philipp Melanchthon.<fe>
+periclitatur et Pontano<f1>Gregor Brück (Pontanus; auch Heintz(e), Heyns(e), Heinis, Heinsius, Henisch, Hegius, Genus; 1483/84/86-1557) studierte in Wittenberg und Frankfurt/Oder und wurde zum Doktor beider Rechte promoviert. 1519 berief Kurfürst Friedrich der Weise ihn in den Hofdienst, 1520/21 wurde er Kanzler in Weimar und ab 1521 in Wittenberg mit Amtssitz in Weimar und Torgau. 1529 gab er sein Kanzleramt ab und verlegte seinen Wohnsitz nach Wittenberg (bis 1547, dann Jena), was der Anfang seiner eigentlichen Karriere als einer der bedeutendsten protestantischen Staatsmänner werden sollte.
+So war er einer der Hauptverantwortlichen u.a. für das Verfassen der Speyerer Protestation von 1529, die Gründung des Schmalkaldischen Bundes 1530 und die schmalkaldische Vermittlungspolitik zwischen Kaiser und Reich, die schließlich den Ausbruch des Religionskrieges bis 1546 hinausschob. Wegweisend war er auch für den Aufbau der lutherischen Landeskirche, indem er das Konsistorium, Visitationen sowie die Anfänge des Konsistorialverfassungssystems und des lutherischen Eherechts einführte. Er wirkte auch im Hochschulbereich, besonders in kuratorähnlicher Stellung an der Universität Wittenberg wie auch mit der Förderung der Stiftung der Jenaer Universität.
+- Lit: Ekkehart ^#/+Fabian,^#/- Dr. Gregor Brück 1557-1957. Lebensbild und Schriftwechselverzeichnis des Reformationskanzlers I.U.D. Gregor Heinze-Brück zu seinem 400. Todestage, Tübingen 1957 (mit Verzeichnis seines Briefwechels); Ulrich von ^#/-Brück,^#/- Im Dienste der Reformation: Ein Lebensbild des kursächsischen Kanzlers Gregor von Brück, Berlin 1985; Theodor ^#/+Muther,^#/- in: ADB III 388-392; Ekkehart ^#/+Fabian,^#/- in: NDB II 653f; ders., in: TRE VII 212-216.<fe> dixit, si ille<fx>^#/+Darunter von Blarers Hand angefügt:^#/- (Lutherus).<fe> ita pergat, se de
+alio visurum hospitio."
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Heinricho Bullingero, amico tanquam fratri colendo atque
+charissimo.
+</content>
+</letter>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2543">
+<brief>
+<id>16234</id>
+<nr>2543</nr>
+<ae>Bullinger an Johannes Haller</ae>
+<od>Zürich, 24. August 1546
+<fn>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem eidem. Tiguro Augustam. 24. augusti 1546.</i></fn></od>
+<vo>Abschrift von unbekannter Hand aus dem 17. Jh.
+<fa><i>Mit einer Randbemerkung von Johann Heinrich Hottinger.</i></fa>: Zürich ZB, Ms F 46, 592</vo>
+<dr>Ungedruckt<k>Danach (bessere!) Kopie 18. Jh.: Zürich ZB, Ms S 61, 94; dTÜ: Niehans, in: Zwa 8 255</k></dr>
+<re>Über die eidgenössischen Angelegenheiten wird Haller aus Bullingers Brief an Georg Frölich [nicht erhalten] Genaueres erfahren.
+<t/>Zürich trägt in diesem Krieg mehr bei als andere Städte, die von sich glauben, Bedeutendes zu leisten. Wenn Gott Kaiser [Karl V.] nicht zurückdrängt, steht zweifellos Schreckliches bevor. Man muss also beständig beten.
+<t/>Wegen der [von Haller gewünschten] Gesandtschaft [der Eidgenossen an die Schmalkaldener] hat Bullinger sich mit einigen beraten, doch wurde noch nichts beschlossen. Die [protestantischen Eidgenossen] haben sich während der Tagsatzung [in Baden] mit den Gesandten des [Schmalkaldischen Bundes] besprochen. Diese werden wohl ihre Lage den Fürsten genau darlegen. Sie wissen nämlich, mit welchem Ernst sie sich der Sache annehmen. Es wäre also höchst empörend, wenn man bei den Freunden in schlechtem Ansehen stünde!
+<t/>Heute hat Bullinger die Arbeit an seinem Lukaskommentar abgeschlossen. Er widmet ihn Hans Welser.</re>
+<text>
+<p>S. D. <zzl>zl16234-2A</zzl>De Helveticis rebus scripsi d. Laeto
+<fn>Georg Frölich. - Nicht erhalten. Der Brief wurde vom Ammann Hans Vogler nach Augsburg übermittelt; s. <qv>nr2561</qv>,<qv>zl16252-1</qv>.<zfn>fn16234-1</zfn></fn>. Ab eo require.<zzl>zl16234-2E</zzl></p>
+<p>Certissimum est Tigurum hoc in bello plus conferre opis quam urbes aliquot,
+<fn>Bullinger denkt vermutlich (doch zu Unrecht) an Straßburg; vgl. nämlich <qv>nr2516</qv>,<qv>zl16206-8</qv>.</fn> quae se putant non pauca et contemnenda ferre auxilia. Ne dubitaveris, mi Hallere, obiiciet se nostris caesar
+<fn>Karl V.</fn>, nisi repressus fuerit a domino, ut horrori multis sit futurus. Diligenter ergo, perseveranter
+<fa><i>In der Vorlage</i> perserveranter.</fa> et fideliter orari velim ab omnibus dominum. In huius manu est victoria.
+<fn>Dtn 28, 7; 1Sam 17, 47.</fn></p>
+<p>De legatione mittenda
+<fn>Siehe dazu Hallers Vorschlag in <qv>nr2524</qv>,<qv>zl16214-7</qv>, der auch von Hans Vogler d.Ä. aufgegriffen wurde; s. <qv>nr2525</qv>,<qv>zl16215-14</qv>.</fn> contuli cum quibusdam. Quid futurum sit, ignoro. Evangelici legatos suos
+<fn>Zu den Namen der Gesandten des Schmalkaldischen Bundes an die am 9. August beginnende Tagsatzung zu Baden s. <qv>nr2529</qv>, <qv>fn16220-4</qv>.</fn> subinde mittunt ad comitia Helvetica. Cum iis nostri
+<fn>Die protestantischen Eidgenossen.</fn> agunt. Hos arbitror bona fide agere apud principes et agere quidem causam nostram. Vident enim ac experiuntur, quid nostri agant et quanta fide omnia agant. Indignissimum esset, si male ab amicis audire cogeremur, qui de ipsis optime meremur.</p>
+<p><zzl>zl16234-1A</zzl>Hodie finivi novem libros commentarii in evangelium Lucae
+<fn>Zu Bullingers Lukaskommentar s. <qv>nr2545</qv>, <qv>fn16211-1</qv>.</fn>. Hos dedico Welsero consuli.
+<fn>Zur Auswahl des Widmungsempfängers s. <qv>nr2545</qv> und <qv>fn16211-2</qv>.</fn><zzl>zl16234-1E</zzl></p>
+<p>Vale cum tuis omnibus, etc.
+<fn>Der Brief wurde von Ammann Hans Vogler übermittelt; s. <qv>nr2560</qv>,<qv>zl16250-3</qv>.</fn></p>
+</text>
+</brief>

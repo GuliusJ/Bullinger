@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2226">
+<nr>2226</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>26. August 1545</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 51 (Siegelabdruck)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 380, Nr. 1206</dr>
+^&xKopien 16., 17. 18. Jh.: Zürich StA, E II 352, 86; ZB, Ms F 43, 116r., Ms S 57, 222 ^&x{
+<re>Bullinger empfiehlt [erneut] den Wiler [Thomas Grunder], der Blarers Brief vom 10. August [Nr. 2211] übermittelt hat. Blarer soll in Grunders Angelegenheit an den [Zürcher] Rat oder an die Bürgermeister [Johannes Haab und Hans Rudolf Lavater] schreiben, und nicht an Bullinger, der [Grunder] sonst gerne weiter unterstützen wird.
+-^#. Blarer soll Johannes a Lascos Brief [über das Abendmahl] durch [Grunder] zurückschicken. Die ["Defensio verae doctrinae" a Lascos] soll er in drei Wochen zurücksenden.
+-^#. Bullinger ermahnt Konrad Curio [Hofherr] täglich und wohl mit Erfolg.
+-^#. [Kaspar] Megander ist am 17. August [1545] um 4 Uhr nachmittags verstorben. Blarer soll um einen guten Nachfolger beten.
+-^#. Blarer möge über den Ausgang des Reichstags [zu Worms] auf Deutsch berichten.</re>
+<tx>Gratiam et pacem.
+Obtulit sese commodum optimus hic vir Wylanus<f1>Thomas Grunder aus Wil; s. oben Nr. 2211, 27-34.<fe>, cui has credere volui; tuas 10.<fx>10. augusti scriptas ^#/+am Rande nachgetragen.^#/-<fe> augusti scriptas <f1>Oben Nr. 2211, 27-34, wo Blarer Grunder an Bullinger empfahl.<fe> fideliter curavit.
+Commendo tibi eius causam<f1>Der in Wil (Kt. St. Germain) aufgrund seines Glaubens angefeindete Grunder wollte das Zürcher Bürgerrecht erwerben; s. oben Nr. 2211, 27-34.<fe>, et si quid scripturus es, magistratui scribes aut utrique consuli<f1>Johannes Haab und Hans Rudolf Lavater.<fe>, non mihi; alias enim homini meam operam locabo fideliter.
+^$Epistolam domini Ioannis a Lasco<f1>A Lascos Brief an Bucer vom 23. Juni 1545 über das Abendmahl, den Blarer am 10. August 1545 erbeten hatte; s. oben Nr. 2211, 17-19 und Anm. 9.<fe> per hunc<f1>Grunder.<fe> mihi remittes; Graeca<fx>^#/+Von^#/- Graeca ^#/+bis^#/- a Lasco ^#/+am Rande nachgetragen, anstelle von gestrichenem^#/- ante mensem.<fe> et titulus sunt exarata manu domini a Lasco.
+Libellum de incarnatione<f1>A Lascos "Defensio verae doctrinae", die Blarer auch von Bullinger gewünscht hatte; s. oben Nr. 2211, 19-21 und Anm. 11.<fe> mittes post 3 septimanas, ubi legeris. Dices hominem in sacris absolute doctum.
+^$Conradum Curionem<f1>Konrad Hofherr.<fe> in diem admoneo, neque sine fructu is apud nos versatur. Honeste vivit.<f1>Blarer hatte Bullinger schon mehrmals gebeten, den wankelmütigen Hofherr im Auge zu behalten; s. zuletzt oben Nr. 2211, 7-12.<fe>
+^$Magno cum animi moerore significo tibid. Megandrum<f1>Kaspar Megander.<fe>, diutino morbo absumptum, migrasse ad dominum 17. augusti hora 4. pomeridiana.<f1>So auch in HBD 33, 3f.<fe> Ora dominum, ut alius illi vir bonus succedat.<f1>Megander war Chorherr und Archidiakon am Großmünster in Zürich gewesen; s. HBBW I 214f, Anm. 53. - Als Nachfolger wurde um den 11. September 1545 Heinrich Buchter ernannt; s. HBD 35, 17f; ^#/+Pfarrerbuch^#/- 137.<fe>
+^$Quid actum est in comitiis<f1>Der Reichstag zu Worms, der mit dem Reichsabschied vom 4. August 1545 endete.<fe>? Germanice, oro, mihi perscribas, si certo, quomodo clausa sint, nosti.
+^$Dominus Iesus servet te cum tuis.
+^$Tiguri, 26. augusti anno 1545.
+<un>Tuus Bullingerus.
+<lz>[Adresse auf der Rückseite:] Domino Ambrosio Blaurero.<fx>^#/+Darauf folgen ein oder zwei verblasste, unlesbare Wörter.^#/-<fe> Constantz.
+</content>
+</letter>

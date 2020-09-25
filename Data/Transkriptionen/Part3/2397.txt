@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2397">
+<brief>
+<id>16087</id>
+<nr>2397</nr>
+<ae>Georg Hertwig
+<fn>Georg Hertwig (gest. 1553) entstammte einem Solothurner Bürgergeschlecht. Er war Stadtschreiber 1515-1544, Altrat 1544-1553. Verheiratet mit Elisabeth Has, in zweiter Ehe mit Elisabeth Seriant. Wohl Verfasser der Schrift "Warhafftige verantwurt unser Schulttznn Kleyn unnd Grossen Rates der Stat Solothurn uff das Schandtbüchlin von unsern Fyenden ußgangen" (Freiburg i.Br., Johannes Faber, 1536, <a>VD16</a> S6987). - Es handelt sich hier um den einzigen erhaltenen Brief in der Korrespondenz zwischen Hertwig und Bullinger. - Lit.: Friedrich <i>Fiala,</i> Badenfahrtsbrief (1545), in: Anzeiger für Schweizerische Geschichte 3, 1881, S. 252; Peter Johannes <i>Weber,</i> Solothurn, die Stadtansicht aus dem Jahre 1637, in: Archäologie und Denkmalpflege im Kanton Solothurn 12, 2007, S. 127, Anm. 38; <a>HBLS</a> IV 202.</fn> an Bullinger</ae>
+<od>Solothurn, 29. März 1546</od>
+<vo>Autograph: Zürich StA, E II 355, 117 (Siegelspur)</vo>
+<dr>Ungedruckt<k>(Keine Simler-Kopie)</k></dr>
+<re>Der Zürcher Bote [Hans Heinrich Tischmacher] hat den Brief Bullingers [nicht erhalten] sowie die Schrift Theodorets ["De providentia sermones X"] überbracht. Hertwig weiß nicht, wie er Bullingers Wohlwollen erwidern soll, zumal dieser ihm schon so viele Dienste erwiesen und ihn so oft beschenkt hat.
+<t/>Bullinger soll das Buch, von dem er geschrieben hat, kaufen und Hertwigs Verwandtem Jakob Stapfer übergeben. Dieser wird nämlich bald [nach Solothurn] reisen. Bullinger soll Stapfer auch den Preis des Buches mitteilen. Da [Tischmacher] aufbrechen möchte, kann Hertwig nicht weiter schreiben.
+<t/>Grüße.</re>
+<text>
+<p>Salutem d. plurimam. <zzl>zl2397-1A</zzl>Reddidit michi litteras tuas
+<fn>Nicht erhalten.</fn>, Henrice doctissime, una cum Theodereto noviter impresso
+<fn>Die von Gwalther besorgte griechisch-lateinische Ausgabe von Theodorets Schrift "De providentia sermones X"; s. <qv>nr2326</qv>, <qv>fn2326-1</qv>.</fn><zzl>zl2397-1E</zzl> (cuius iampridem feceras mentionem
+<fn>In einem nicht erhaltenen, früheren Brief.</fn>)
+<fa><i>Klammern ergänzt.</i></fa>, harum lator, d. Tigurinorum nuncius.
+<fn>Wohl Hans Heinrich Tischmacher; s. Zürich StA, Seckelamt Rechnungen F III 32, Rechnungsbuch 1545/46, f. 64 der Ausgabenabteilung.</fn> Quid autem ad te scribam aut quomodo respondeam illi tue erga me benevolentiae et humanitati, haud quaquam mihi sim conscius. Accumulas enim officium beneficio munereque addito muneri, gratiarum actionem meritam et condignam prorsus tulisti e medio, nec est relliquum iam aliud, quam quod me tibi debere fatear, omnia tuique iuris faciam, que dominus concessit internorum et externorum bonorum, qui et suppleat, quod in me defuerit
+<fn>Vgl. 2Kor 9, 8f; Phil 4, 19.</fn>.</p>
+<p>Librum, de quo scripsisti,
+<fn>Es bleibt unbekannt, welches Buch Bullinger in seinem Brief erwähnt hatte.</fn> eme tradeque Iacobo Stapfer, affini dilecto
+<fn>Es handelt sich wohl um Jakob Stapfer aus Zürich (1521 - 3. Oktober 1567), Mitglied der Konstaffel. Er war der Sohn von Hans Stapfer und Küngolt Byss, die in zweiter Ehe mit Diethelm Röist verheiratet war. Küngolts Vater Urs Byss war Schultheiß von Solothurn und möglicherweise ein Verwandter der Familie Hertwig. Stapfer heiratete 1545 Magdalena von Mülinen und 1549 Dorothea Meyer von Knonau. - Lit.: Carl <i>Keller-Escher,</i> Promptuarium genealogicum, Bd. 7 (Zürich ZB, Ms Z II 6a), S. 27; <a>HBLS</a> VI 505.</fn>. Is ad me deferet; nam brevi (sicuti indicavit michi) ad nos collaturus se est. Is pretium signifficatum ad te reportabit. Ob nuncii discessum prolixiori michi esse non licuit.</p>
+<p>Vale, optime Henrici. Saladori, 29. martii anno salutis nostre 1546.</p>
+<un>Tui studiosissimus</un>
+<un>Georgius Hertvigus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Docto iuxta ac pio domino Henrico Bullingero, ecclesiaste Tigurino, domino suo observandissimo.</p>
+</text>
+</brief>

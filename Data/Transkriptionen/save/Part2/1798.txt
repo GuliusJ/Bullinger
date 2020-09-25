@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1798">
+<nr>1798</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Travers</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. Oktober 1543</date>
+</space_time>
+<vo>Abschrift von Petrus Dominicus Rosius a Porta<fx>^#/+Das Original ist verschollen. A Portas Abschrift datiert vom Jahr 1767.^#/-<fe>: Chur StA, A Sp III/11a, VI. B. 7. 4, S. 337, Nr. 8</vo>
+<vo>Kopie: Zürich ZB, Ms S 53, 150</vo>
+<re>Bittet Travers und die Seinen, sich für Johannes Blasius einzusetzen, der wegen eines ihm zugeschriebenen [handschriftlich verbreiteten] Dialogs, in dem die Ansicht vertreten wird, dass die Churer dem Bischof keinen [Huldigungs-]Eid leisten sollten, in Gefahr ist; Blasius fürchtete wohl, dass durch den Eid weiteren Ansprüchen des Bischofs Tür und Tor geöffnet würde; Bullinger kennt den Churer Bischof [Lucius Iter] und dessen Ansichten nicht, denkt aber, dass das, was Blasius geschah, auch ihm zustoßen könnte, denn auch er würde sich privat und öffentlich mit der Feder und mit Reden wehren, wenn er seine Gemeinde in Gefahr sähe. Hat Philipp Gallicius einige Neuigkeiten mitgeteilt, die auch für Travers bestimmt sind; der [Erz-]Bischof von Köln [Hermann von Wied] und der Bischof von Münster, Minden und Osnabrück [Franz von Waldeck] fahren unerschrocken fort, die Sache des Evangeliums zu fördern, ungeachtet des kaiserlichen Widerstands. Gruß.
+</re>
+<tx>[Gedruckt: Petrus Dominicus Rosius ^#/+a Porta,^#/- Historia Reformationis Ecclesiarum Raeticarum, Tomus I/1, Chur 1771, S. 258f, Anm. i; Graubünden, Korr. I 54f, Nr. 41.]
+</content>
+</letter>

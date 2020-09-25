@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2075">
+<nr>2075</nr>
+<correspondents>
+	<originator>Béat Comte</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Lausanne</place>
+	<date>24. Januar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2808 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 56, 138^&x{
+<re>Comte fühlt sich durch Bullingers besorgte Teilnahme gestärkt; er wäre lieber mit den Seinen gestorben, doch lässt ihn der Herr einen Teil der Mühen tragen, die die Kirche auszustehen hat.
+-^#. Bullinger soll den Vater und die anderen Hinterbliebenen des verstorbenen jungen Zürchers Jakob Kriech trösten, den Comte auf Bullingers Empfehlung hin bei sich aufgenommen hatte und ausbildete.
+-^#. Comte wird Bullingers ["Brevis <gr>ănti­bolh́</gr>"] mit Begierde lesen. Er möchte unterdessen Cochläus' ["De canonicae scripturae et catholicae ecclesiae autoritate"] und ["Replica brevis"] ebenfalls einsehen, um aus Bullingers ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio" und "Brevis <gr>ănti­bolh́</gr>"] mehr Nutzen ziehen zu können. Der Bote [Jakob ...] soll die Bücher gegen Bezahlung mitbringen.
+-^#. Comte freut sich über Bullingers Bitte um Übersetzung der Schrift ["Warhaffte Bekanntnuß"] gegen Luther ins Französische. Er ist sich aber auch Luthers [Bedeutung] und der gegenwärtigen gesellschaftlichen und politischen Zustände bewusst. Deshalb muss man größte Vorsicht walten lassen. Comte stellt alles Bullingers Klugheit und Urteil anheim.
+-^#. Grüße an alle Amtskollegen.</re>
+<tx>Gratiam et pacem a domino per Iesum Christum.
+^$Valde sane sum recreatus, quando intellexi me, hominem plane nihili quasique terre vermiculum<f1>Vgl. Ps 22 (Vulg. 21), 7.<fe>,
+ei viro curae esse,<f1>Ein entsprechender Brief Bullingers ist nicht überliefert.<fe> qui hodie inter christiane doctos aut primarius est omnino aut paucos admodum pares habet.
+Iesus Christus istum charitatis adfectum in te semper conservet atque etiam adaugeat,<f1>Vgl. Petrus ^#/+Venerabilis,^#/- Epistulae, 42: "Conservet in vobis et adaugeat hunc caritatis affectum vera caritas deus".<fe>
+donec in perfectum virum illum adoleveris.<f1>Vgl. Eph 4, 13; Jak 3, 2.<fe>
+Itaque supersum adhuc, antistes venerande, neque me simul cum meis tollere voluit dominus,
+nimirum ut partem adhuc aliquam laborum exanthlarem, qui ecclesiam Christi
+in hac cruenta atque mortali harena militantem<f1>Vgl. Adagia, 1, 9, 83 (ASD II/2 396, Nr. 883).<fe> exercent, quamquam longe prętulissem cum meis obdormire.<f1>Vgl. 2Kor 5, 8.<fe>
+Sed domino non ita visum est, qui qum etiam capitis nostri capillos numeratos habeat,<f1>Vgl. Mt 10, 30 par.<fe>
+nihil circa nos agit perficitque sine miranda ac aeternum nobis adoranda providentia.
+Ei igitur sit honos et gloria et gratiarum actio.<f1>Apk 4, 9.<fe>
+^$Porro inter meos, quorum obdormitionis in domino memini, est et Iacobus Kriech<f1>Siehe oben Nr. 2069, 9-22 und Anm. 7. Zu Béat Comtes Trauer über den Tod von Jakob Kriech s. auch Comtes Briefe an Gwalther vom 18. Dezember 1544 (Zürich ZB, Ms F 38, 215; gedruckt in: Corr. des réformateurs IX 419, Nr. 1423) und vom 24. Januar 1545 (Zürich ZB, Ms F 38, 216).<fe>,
+iuvenis ille Tigurinus, quem tu mihi tam studiose commendaras,<f1>Siehe HBBW XIV, Nr. 1909.<fe> quemque ego tam solerter
+et officiose enutriendum instituendumque curabam<f1>Comte hatte Jakob Kriech Unterricht erteilt; s. oben Nr. 2069, 14f.<fe>.
+Quare te vehementer oro, ut, quando illę etiam sunt tuę partes, iuvenis ipsius patrem
+reliquosque eius adfines consoleris;<f1>Zu Comtes Bitten betreffend den Vater von Jakob Kriech s. auch Comtes Brief an Gwalther vom 18. Dezember 1544 (wie oben Anm. 9).<fe> set iam de eo non sinit dolor plura scribere.
+^$Responsionem tuam secundam ad Cochlęum<f1>Bullingers "Brevis <gr>ănti­bolh́</gr>", erschienen im Dezember 1544; s. HBBW XIV 460, Anm. 22. - Seine erste Schrift gegen Cochläus hatte Bullinger bereits im Frühjahr 1544 nach Lausanne geschickt; s. HBBW XIV 232, 27f und Anm. 7. 233.<fe> legam tam avide, quam vehementer
+demirari soleo tua omnia scripta; deinde ad te rescribam, quod mihi de utraque<f1>Gemeint sind beide Schriften Bullingers gegen Cochläus; s. oben Anm. 13.<fe> dabit dominus.
+Interea valde cupio priorem librum<f1>Die erste Schrift von Johannes Cochläus gegen Bullinger, die unter dem Titel "De canonicae scripturae et catholicae ecclesiae autoritate" 1543 erschienen war; s. HBBW XIV, Nr. 1839, Anm. 2.<fe> ac replicam<f1>Johannes Cochläus' zweite Schrift gegen Bullinger mit dem Titel "Replica brevis", gedruckt im Spätsommer 1544; s. HBBW XIV 429f, Anm. 12.<fe> Cochlęi ad te videre, ut hinc inde rebus
+diligentius collatis maiorem postea fructum ex lectione tuorum scriptorum possim colligere.
+Id ergo tu in meam gratiam curabis, ut hic meus tabellarius<f1>Der junge Jakob [...], der auch Curiones Brief vom 18. Januar 1545 überbrachte; s. oben Nr. 2069, 4-6. 99f.<fe> libros illos ad me ferat,
+cui etiam iniunxi, ut prętium numeraret.
+^$<vl>2808v.</vl> Quod autem petis, ut in Gallicum transmutem sermonem,<f1>Siehe oben Nr. 2069, 48-68.<fe> quę tu Germanice de coena domini
+scribis ad Lutherum,<f1>Das "Warhaffte Bekanntnuß" der Zürcher, das kurz vor dem 12. März 1545 erschien; s. oben Nr. 2061, Anm. 9, und unten Nr. 2096-2103.<fe> valde gaudeo; nihil enim perinde cupio, quam scripta tua omnia,
+vere pia et docta, pluribus innotescere, quamquam illud non negligendum censeo,
+quis sit Lutherus, qui mores nostri seculi, quę molimina principum, qui rerumpublicarum status,
+quam varii et differentes sensus eorum, qui etiam de cognita evangelii veritate gloriantur:
+unus ait, alius negat, at tertius ponendum censet in deliberatione.<f1>Vgl. ^#/+Terenz,^#/- Phormio, 2, 3. Vgl. ferner ^#/+Erasmus,^#/- Lingua (ASD IV/1 346, 921-923): "quemadmodum apud Terentium faciunt tres advocati, quorum unus ait rescindi posse, alter negat, tertius deliberandum amplius censet".<fe> Quare summam
+puto adhibendam cautionem in hoc toto tractando negotio, pręsertim quum eius
+sit momenti, ut aeque magni nullum reperias hodie in tota republica christiana.
+Verum hęc omnia prudentię tuę singularique iudicio commissa sunto.
+^$Vale beate atque bene, antistes mihi semper observande.
+^$Lausannę, 9. calendas februarii 1545.
+<un>Tuus ex voto
+<un>B. Comes Donzarensis<f1>Donzère (Dép. Drôme, Frankreich).<fe>.
+<lz>Doctrina atque pietate semper mirandos symmistas tuos omnes saluto in domino.
+<lz>[Adresse auf f. 2808a,v.:] Doctissimo gravissimoque et vigilantissimo ecclesię Tigurinę episcopo,d. Heynricho Bullingero, viro ac domino mihi semper colendo.
+^&xVerweis: Johannes Gast an Bullinger, 25. Januar 1545 (E II 366, 241; Mitto tibi tres libellos; Ms S 56,140, und ^#/+Gast,^#/- Tagebuch 74, Anm. 212, lesen die unklare Jahrzahl 1545); richtig ist (Freigabe des Alcorans!): 25. Januar 1543.^&x{
+</content>
+</letter>

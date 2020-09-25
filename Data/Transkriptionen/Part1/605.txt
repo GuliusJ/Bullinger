@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="605">
+<correspondents>
+	<originator>Melchior Volmar</originator>
+	<addressee>Bullinger und die Zürcher Kirche</addressee>
+</correspondents>
+<space_time>
+	<place>Isny</place>
+	<date>1. Juli 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 345, 208 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Dankt den Pfarrern und dem Rat überschwenglich für die ihm während seines
+Zürcher Aufenthaltes erwiesene Gastfreundschaft. Wohnt mit seiner Frau
+(*Margaretha*) bis auf weiteres bei seinem Schwiegervater.
+</statue>
+<content>
+S(*alutem*) d(*ico*).
+<p>Benevolentia erga me vestra, optimi ac candidissimi fratres, officiumque illud singulare, quibus me, dum isthic essem+1, estis prosecuti, tantum effecerunt apud me, ut, ubicumque terrarum sim
+aut etiam futurus sim, nunquam profecto interitura sit in animo meo
+iucundissima vestri memoria, idque adeo iure ac merito fit, cum ea
+praecipua lex amicitiae esse debeat, ut amicis ac benefactoribus
+nostris, si re ipsa et officiis respondere+a
+non possumus, memoriam certe
+eorum, quoad licet, perpetuo conservemus. Neque sane ego adeo stupidi
+sum ingenii, ut officia erga me vestra, hoc est totius ecclesiè
+Tigurinè atque adeo senatus ipsius, non agnoscam, neque rursus tam
+ingratus, ut ea ipsa parvifaciam, quapropter, sicubi fortasse animum
+erga vos meum pleniori aliquo argumento testatus fuero, aliquid
+profecto me dignum fecisse videbor.</p>
+<p>De rebus meis scribere nihildum certi possum. Hic adhuc residemus, ego atque uxor+2, apud socerum+3 expectantes voluntatem domini, cuius pax semper vobiscum.</p>
+<p>Datum Isnè, Rhetiae oppido, calendis iulii 1535.</p>
+<signature>
+Vester ex animo
+Melchior Rufus Volmarius.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Bulingero ac toti
+ecclesiae Tigurinae.
+</address>
+</content>
+<note>
+<print>
++a>respondere  über gestrichenem  paria cum illis facere.
+</print>
+<address>
++1>Volmar hatte seine Rückreise nach Deutschland
+in Bourges am 1. Mai 1535 angetreten
+(vgl. Barbara
+<print>
+Zeller-Lorenz,
+Melchior Volmar (*1497-1560*), in: Ferdinandina. FS Ferdinand Elsener,
+hg. v. Friedrich Ebel u. a., 2., erw. Aufl., Tübingen 1973, S. 153 mit
+Anm. 63) und war über Bern, (*Zürich*)
+und St. Gallen nach Isny gereist. Er muss
+sich kurz nach dem 17. Mai in Zürich aufgehalten haben (vgl. Berchtold
+Hallers Empfehlungsschreiben an Vadian vom 17. Mai 1535, Vadian BW
+V 218).
++2>Margaretha, geb. Edel (vgl. Correspondance de Théodore de BXYze,
+hg. v. H. Aubert, F. Aubert und H. Meylan, Bd. I, Genf 1960. --
+Travaux d'Humanisme et Renaissance 40, S. 189, und Barbara
+Zeller-Lorenz,
+aaO, S. 152, Anm. 61).
++3>Volmars Schwiegervater war Münzmeister in Isny (vgl. ebd.).
+</print>
+</address>
+</note>
+</letter>

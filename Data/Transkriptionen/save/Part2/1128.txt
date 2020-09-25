@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1128">
+<nr>1128</nr>
+<correspondents>
+	<originator>Johannes Rhellikan</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>17. Mai 1538</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 454 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Ist erfreut darüber, daß sich [die zwinglische Richtung] in den Verhandlungen über die Konkordie gegenüber Bucer und seinen
+Anhängern durchsetzen konnte, und vertraut darauf, daß es auch im Berner Rat zu einer Klärung kommt, sobald dort der Abschied
+und das Schreiben an Luther vorliegen; dies ist noch nicht der Fall, da die Pfarrer zuerst ihre Kollegen in den Aargauer
+Kapiteln unterrichten wollten. Trägt die Ungewißheit [über seine Berufung nach Zürich] mit Geduld. Bittet, für seinen
+Schwager [Christian Wirth] ein Stipendium zu erwirken.
+</re>
+<tx>Salus et quieta per Christum conscientia.
+^$Quantum ad res communeis ecclesiae sanctae per Germaniam
+adtinet, gratias ago deo nostro immortali, quod concordiam
+gregi suo per vos invictos ministros ita largitus est, ut
+simplex evangelicae veritatis oratio nullam iacturam fecerit<f1>Am 28. April war in Zürich eine Tagung von
+Ratsdelegierten und Theologen der reformierten Städte der Eidgenossenschaft zusammengetreten, an der auch Bucer und Capito
+teilnahmen. Hauptzweck des Treffens, das bis 3. Mai dauerte, war der Entwurf einer Antwort auf Luthers Schreiben vom 1. Dezember 1537 (WA
+Briefwechsel VIII 149-153, Nr. 3191). Einblick in die z. T. heftigen Debatten gibt der anschauliche Bericht von
+Johannes Stumpf (s. Stumpf, Abendmahlsstreit 110-130); zu den Ergebnissen der Tagung s. EA IV/1c 956-960; ^#/+Köhler,^#/- ZL II 514-517; ^#/+Bizer,^#/- Abendmahlsstreit 218-221.<fe>, utut
+<gr>tragélafoi kaì boykéfaloi</gr><f1>Anspielung auf den Namen Bucers (bucerus, mit Ochsenhörnern); gemeint sind Bucer und seine
+Anhänger.<fe>, monstra nocentissima, illam obnubilare conati sint, id quod cum ex tuo tum Iacobi Bielensis compendioso
+scripto<f1>Weder der Brief Bullingers noch jener von Jakob Würben aus Biel ist erhalten.<fe> subodoratus
+sum<fx>subodoratus sum ^#/+am Rande nachgetragen.^#/-<fe> et Erasmo<f1>Erasmus Ritter hatte zusammen mit Peter Kunz an der
+Tagung in Zürich teilgenommen (s. Stumpf, Abendmahlsstreit 110).<fe> narrante plenius didici, quidquid tandem maleferiati
+quidam nugigeruli ganniant Buceranam videlicet et Sebastianicam<f1>Gemeint ist Sebastian Meyer.<fe>
+apud vos obtinuisse sententiam. Sed bene habet, quando
+adversarii praeter impudentissima mendatia nihil habent, quo
+se defendant. Quemadmodum nanque deus per vos, fideleis et
+constantes ministros suos, verbi et invisibilis et visibilis<f1>Vgl. Augustins Bezeichnung der Sakramente als "verba visibilia" in: Contra Faustum, 19, 16 (CSEL XXV 513, 7-10).<fe>
+synceritatem a fumis et fucis asseruit, ita et mendatiorum
+istorum nebulas clarissima veritatis luce dissipabit. Quod
+haud dubie accidet, ubi coram
+<gr>diakosíoiw</gr><f1>d. h. vor dem Großen Rat.<fe> vestri conventus acta ac responsio
+Luthero transmittenda<f1>Das Schreiben an Luther (WA Briefwechsel VIII 211-214, Nr. 3224) erging im Namen der
+reformierten Städte der Eidgenossenschaft und gehört deshalb nicht zum Briefwechsel Bullingers im engeren Sinne. Es datierte
+vom 4. Mai, wie sich der Antwort Luthers vom 27. Juni entnehmen läßt (s. WA Briefwechsel VIII 241f, Nr. 3240), wurde aber erst
+nach erfolgter Zustimmung der beteiligten Orte abgesandt. Der Überbringer, Niklaus Appenzeller, muß Zürich am 12. Juni
+verlassen haben, da er am 23. Juli nach 42tägiger Abwesenheit zurückkehrte (s. Zürich StA, F III 32, Seckelamtsrechnung 1537[-38], Ausgaben,
+S. 83, und unten Nr. 1152, Anm. 4; vgl. auch Nr. 1138, Z. 9).<fe> lecta fuerit<f1>Der Berner Rat stimmte am 19. Mai zu und unterrichtete Zürich am
+gleichen Tag davon (Entwurf: Bern StA, A III 24, 674; Ausfertigung: Zürich StA, E I 1. 3a).<fe>. Quominus enim
+hactenus recitata sint, speciales synodi in
+Argovia habitae obstiterunt. Quum nanque Tigurini conventus acta fratribus communicanda ducerent nostri ec­clesiastae,d. Dilimannum<f1>Bernhard Tillmann vertrat an der Zürcher Tagung den Berner Rat (s. Stumpf, Abendmahlsstreit 110).<fe> sine actis
+domum dimiserunt ac ipsi tandem post quatuor pastorum classeis<f1>Gemeint sind wohl die Kapitel Schenkenberg, Aarau,
+Thunstetten und Büren (vgl. ^#/+de Quervain^#/- 4f).<fe> visitatas illum secuti sunt.
+^$Quantum vero ad res meas privatas pertinet<f1>Rhellikan rechnete mit seiner baldigen Berufung als Lehrer nach Zürich;
+vgl. oben Nr. 1116, 76-87; 1123, 2-23.<fe>, et tuam et Megandri nostri diligentiam et laborem in me promovendo
+nunquam pro dignitate satis laudare possum. Quod autem vos
+strenue movendo nihil tamen hactenus promovistis, divinae
+acceptum fero providentiae, cui fidem meam ac spem in
+Christum tanquam per tyrocinium quoddam exercere libet. Si
+nanque domino deo meo, qui me ex nihilo creavit<f1>Zur Herkunft des Begriffs s. Historisches Wörterbuch der Philosophie, hg. v. Joachim Ritter und Karlfried Gründer, Bd. VIII, Basel 1992, Sp. 1396-1398.<fe>, tantum
+fidere non ausim, quod caducae vitae alimenta suppeditaturus
+sit, quo modo verisimile esset me ex animi sententia credere
+futurum esse, ut olim aeternae vitae cibo fruar? Darumb
+(wie wol das fleisch äben dick untultig<f1>recht oft ungeduldig.<fe> ist), so ich das
+hinderst und vordrist ermiß, gedenck ich: Laß gott walten;
+er weißt wol, was dir nütz und guͦt ist und worzuͦ er
+dich bruchen wil. Du hast all din läbtag ghört: "Guͦt ding
+muͦß wyl han."<f1>Wander I 638, Nr. 866.<fe> Haec, quaeso, mi Bullingere, cum Megandro
+nostro communica, et facite, ut responsum sive bonum sive
+malum aut per Davidem Lanistam<f1>Fechtmeister, Fechter o. ä.; s. HBBW VII, S. 69, Anm. 11.^&x (Ein "Fachtmeister" 1545
+Wirt, s. Haller, Bern in seinen Ratsmanualen II 19)^&x{<fe> aut M. Ioannem<f1>Hans Kotter.<fe> organistam recipiam. Tempus enim hinc migrandi de die in diem magis ac magis appetit.
+^$Meo nomine Theodorum<f1>Theodor Bibliander.<fe> nostrum
+<gr>kaì ^%)/alloyw soy symmýstaw pántaw</gr> salvere iube.
+Valeto.
+^$Datum Bernae, 17. maii anno 1538.
+<un>Ioan. Rhellicanus.
+<lz>Uxoris meae frater<f1>Christian Wirth.<fe>
+ex Thybinga ad me venit et mecum ad vos migrabit; ideoque,
+sicuti antea quoque pro eo interpellavi<f1>Siehe HBBW VII, S. 220,17-222,38.<fe>, perquam vellem, ut
+tua et Megandri opera senatui ita commendaretur, ut
+ecclesię sumptu in literarum studiis foveretur<f1>Wirth wurde in das Fraumünster-Alumnat aufgenommen; s. ^#/+Bächtold,^#/- Bullinger vor dem Rat 202, Anm. 36.<fe>.
+<lz>[Adresse auf der Rückseite:] Et literis et
+pietate ornatissimo virod. Heinricho Bullingero,
+ecclesię Tigurinae antistiti primario, amico et patrono
+suo colendissimo. Zürich.
+</content>
+</letter>

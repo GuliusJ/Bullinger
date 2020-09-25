@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1049">
+<nr>1049</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>2. Oktober 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 4 (Siegelspur) </vo>
+<dr></dr>
+<re>Bullinger mahnte zur Rückgabe des Buches [Zwinglis "Complanatio Jeremiae"?], obschon Comander bereits einmal Leo [Jud] gebeten hatte, ihn zu entschuldigen, da er wegen seiner Sehschwäche etwas behindert sei; wird das Buch gut hüten - nur Johannes Blasius hat es außer ihm eingesehen - und durch
+Margaretha [...], die einstige Magd Zwinglis, auf den Martinimarkt zurückbringen lassen.
+Wird gerne einmal, wenn er Zeit hat, seine Meinung in der Angelegenheit Bucers und des Abendmahls, die ihm Bullinger geschildert hat, darlegen; Bucer vermischt, führt Unklarheiten ein und folgt Luther, der ja unerträglich grob gegen Zwingli geschrieben hat.
+Hofft, daß [Johannes] Pontisella als Schüler wenigstens über den Winter in Zürich bleiben kann, denn in Chur kann er sich nicht weiter ausbilden; Comander vermag ihm nicht zu helfen, da sein Gehalt wegen seiner antifranzösischen Haltung gekürzt wurde.</re>
+<tx>[Gedruckt: Graubünden, Korr. I 9f, Nr. 8.]
+</content>
+</letter>

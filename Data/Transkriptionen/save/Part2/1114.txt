@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1114">
+<nr>1114</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Martin Luther</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>[um 26.] März 1538</date>
+	<note>Wahrscheinlich wurde dieser Brief ebenso wie das parallele Schreiben an Osiander (unten Nr. 1115) den Zürcher Gesandten Hans Rudolf Lavater und Rudolf Kambli mitgegeben, die Ende März über Nürnberg an den Hof König
+Ferdinands I. reisten (vgl. Osiander GA VI 482f, Anm. 6). Ihr Beglaubigungsschreiben datiert vom 27. März (Zürich StA, B IV
+9, 267). Vermutlich überbrachten sie auch den Brief Bullingers an Vadian vom 26. März (oben Nr. 1113); alle drei Briefe
+dürften demnach etwa zur gleichen Zeit entstanden sein.</note>
+</space_time>
+<vo>Autographe Abschrift<fx>^#/+Mit Hervorhebung von späterer Hand.^#/-<fe>: Zürich StA, E II 345, 172</vo>
+<dr></dr>
+<re>Hätte ihm schon seit Jahren gerne geschrieben, hat dies aber bisher nicht gewagt; nun überwindet er seine Scheu, da er den
+brüderlichen Austausch für wertvoll hält und an seiner Offenheit nicht zweifelt. Sendet ihm als Geschenk sein gegen die
+gemeinsamen Feinde gerichtetes Buch ["De scripturae sanctae authoritate"], nicht um ihn zu belehren, sondern um sein Urteil
+zu hören. Vadian, Pellikan und die übrigen Brüder grüßen ihn sowie Melanchthon, Cruciger, Jonas und die anderen Mitbrüder.
+Empfehlung für Otto Werdmüller.
+</re>
+<tx>[Gedruckt: ^&xTheodor ^#/+Kolde,^#/- Analecta Lutherana 319f; ^&x{
+WA Briefwechsel VIII 207f, Nr. 3222.]
+^&xClarissimo viro d[octori] Martino Luthero, domino suo
+colendissimo.
+^$Gratiam et vitae innocentiam a domino.
+^$A multis iam annis miro tibi, vir clarissime, scribendi
+teneor desiderio. Absterruit me hactenus mea exilitas et
+tenuitas. Absterruit me pudor meus forte nimius.
+Absterruerunt et innumera illa utiliaque negotia tua, quae
+ut inconditis literis meis interturbare non debui, ita
+ingens negotiorum pondus sustinentem amplius onerare nolui.
+Nunc vero cum perpetuum silentium plerisque videatur non
+nihil resipere simultatis, multisque veterum exemplis
+didicerim, quam salubre sit inter fratres, quam denique ad^&x{
+^&xcorporis ecclesiastici incolumitatem tuendam conservandamque
+faciat, crebris mutuo se literis invisere, salutare et de
+rebus commentari communibus, statui tandem, expurgato rubore
+hasce ad te meas dare, quibus et animum erga te meum
+testarer tui quidem amantissimum studiosissimumque et ansam
+suppeditarem amplam colloquendi nobiscum familiarius. Nihil
+hic ambigo de tua facilitate et humanitate, quin amantem
+tuique studiosissimum plena caritate sis prosecuturus et
+animum erga me tuum epistolio alioquo testaturus, certe quo
+felicioribus auspiciis coiret amicitia mutua et nunquam
+rumpenda, dono munus chartaceum offerre institui, libros,
+inquam, meos de verbo dei et ministris eius editos contra
+antistites papisticos, communes hostes nostros. Hos dignare,
+obsecro, vir humanissime, animo suscipere benigno, non in
+hoc quidem submissos, ut eruditissimum alias et in hac pugna
+diu versatum atque ideo longe peritissimum erudirem, sed ut
+operam meam eidem impensam negotio tibi ceu primario huius^&x{
+^&xmilitiae imperatori commendarem, libenter auditurus iudicium
+tuum de nostra diligentia, quo subinde efficiar eruditior.
+^$Dominus Iesus augeat tibi spiritum suum et servet te nobis
+diu incolumem. Salvum te vult Vadianus noster consul
+Sangallensis, Pellicanus senex et reliqui viri boni et
+fratres. Salutabis tu nobis Philippum Melanchthonem,d. Crucigerum,d. Ionam et alios eruditione et pietate
+suspiciendos viros, symmystas et fratres. Praecipue vero
+oratum te volo, ut Othonem nostrum Werdmüllerum habeas vobis
+commendatum.
+^$Tiguri, mense martio 1538.
+<un>Henricus Bullingerus, Tigurinae ecclesiae minister,
+tuus.^&x{
+</content>
+</letter>

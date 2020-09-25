@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2366">
+<brief>
+<id>16057</id>
+<nr>2366</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 2. März 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 160 (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 420, Nr. 125<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 114 </k></dr>
+<re>Gallus Albertus, ein Landsmann [der Zürcher], ist unerwartet eingetroffen, reist aber schon wieder weiter, so dass Blarer nur Allgemeines und kaum Neues berichten kann.
+<t/>Die [Konstanzer] fanden großen Gefallen an Bullingers Nachricht über [Jakob] Metzler und verzeihen diesem gerne alles. Blarer übermittelt einen [am 28. Februar] erhaltenen Brief [Georg] Frölichs [<qv>nr2351</qv>] und ein Dokument, das mit dem nächsten Boten zurückgeschickt werden soll. Blarer wird Bullingers Schrift ["De sacramentis"] lesen und zurücksenden.
+<t/>Er hofft, dass Bullinger die Briefe, die er am 28. Januar [<qv>nr2335</qv>] durch die Metzger und am 3. Februar [<qv>nr2344</qv>] durch [Konrad Hofherr] übermitteln ließ, sowie auch Brief [<qv>nr2354</qv>] gut erhalten hat.
+<t/>Theodor [Bibliander] soll das Geld verwalten, das Hofherr von [Hans Peter] von Wellenberg erhielt.
+<t/>Grüße.</re>
+<text>
+<p>S. Adest nobis inexpectatus
+<fa>ta <i>in</i> inexpectatus <i>über der Zeile nachgetragen.</i></fa> vestras
+<fn>Landsmann.</fn> hic Gallus Albertus
+<fn>Zu seiner Person ließ sich nichts ermitteln.</fn>, qui, ut ipse ad iter accinctus est, ita me occupatissimum compellat, ut nihil nunc possim praeter vulgaria, qu{e} prius te nosse non dubito.</p>
+<p><zzl>zl2366-9A</zzl>De Mezlero
+<fn>Jakob Metzler, der sich anscheinend gebessert hatte; s. Bullingers Bericht vom 14. Januar über dessen anstößiges Verhalten (<qv>nr2332</qv>,<qv>zl2332-3</qv>).</fn> <zzl>zl2366-5A</zzl>quod scribis<zzl>zl2366-5E</zzl>,
+<fn>In einem nicht erhaltenen Brief; s. auch <qv>fn2366-2</qv>.</fn> gratissimum fuit, et facile condonamus omnia, postquam vobis fecit satis.<zzl>zl2366-9E</zzl> Mitto literas
+<fn><qv>nr2351</qv>.</fn>, quas nudius tertius
+<fn>Am 28. Februar.</fn> a L{e}to
+<fn>Georg Frölich.</fn> nostro tibi mittendas accepi. <zzl>zl2366-6A</zzl>Deinde etiam schedulas hic leges ad me datas,
+<fn>Dokumente mit ähnlichen Nachrichten wie in Myconius' Brief vom 22. Februar (<qv>nr2363</qv>,<qv>zl2363-2</qv>) über Bilderentfernungen in den Kirchen Siebenbürgens und Mittelungarns - und die dabei erwiesene, unerwartete Unterstützung vonseiten des Beylerbegs von Buda (Ofen), Mehmed Yahya Pascha (vgl. nämlich <qv>nr2375</qv>,<qv>zl2375-6</qv> und <qv>nr2376</qv>,<qv>zl2376-1</qv>) - wie auch eine Abschrift der auf dem Trienter Konzil gefassten Beschlüsse (vgl. <qv>nr2375</qv>,<qv>zl2375-3</qv>).<zfn>fn2366-3</zfn></fn> quas rogo, ut proximo nuncio remittas.<zzl>zl2366-6E</zzl> <zzl>zl2366-8A</zzl>Librum tuum
+<fn>Es handelt sich um Bullingers Schrift "De sacramentis", deren Inhaltsverzeichnis Bullinger schon am 14. Januar übersandt hatte (<qv>nr2332</qv>,<qv>zl2332-7</qv>). Im Brief vom 27./28. Januar hatte Blarer die Bitte um Übermittlung der gesamten Schrift geäußert (<qv>nr2335</qv>,<qv>zl2335-3</qv>), der Bullinger wohl mit dem oben Z. <qv>zl2366-5</qv> erwähnten, nicht erhaltenen Brief an Blarer nachkam.<zfn>fn2366-2</zfn></fn> bona fide asservatum legam lectumque quamprimum rursus ad te dabo
+<fn>Nämlich am 15. März; s. <qv>nr2381</qv>,<qv>zl2381-1</qv>.</fn>.<zzl>zl2366-8E</zzl></p>
+<p><zzl>zl2366-1A</zzl><zzl>zl2366-7A</zzl>Scripsi ad te 28. ianuarii
+<fn><qv>nr2335</qv>.</fn> per lanios nostros,<zzl>zl2366-1E</zzl> nec scio, an eas literas acceperis.<zzl>zl2366-7E</zzl> <zzl>zl2366-2A</zzl>Non enim ill{e} sunt, quas per Curionem
+<fn>Konrad Hofherr.</fn> 3. februarii
+<fn><qv>nr2344</qv>.</fn> dedi,<zzl>zl2366-2E</zzl> nec ill{e}
+<fn><qv>nr2354</qv>.</fn>, quas proxime per nostratem<zzl>zl2366-3A</zzl>
+<fn>Unbekannt; vielleicht der Metzger, der <qv>nr2335</qv> übermittelt hatte; s. <qv>nr2354</qv>,<qv>zl2354-2</qv> und <qv>fn2354-1</qv>.<zfn>fn2366-1</zfn></fn>. Vide igitur, num invenias; nolim enim eas perditas.</p>
+<p><zzl>zl2366-4A</zzl>Qu{e} de Curione admonui, valde rogo, ut Theodorus
+<fn>Theodor Bibliander.</fn> pecuniam dispenset, 27 florenos, quos istic a Wellenbergo
+<fn>Hans Peter von Wellenberg.</fn> accepit.
+<fn>Siehe dazu <qv>nr2354</qv>,<qv>zl2354-4</qv>.</fn><zzl>zl2366-4E</zzl></p>
+<p>Commenda me domino Iesu Christo cum tuis diligentissime, quos meis verbis amantissime salutabis. Salveant fratres et amici omnes. Bene vale. 2. martii 1546.</p>
+<un>Tuus Ambr. Blaurerus.</un>
+<lz/>
+<p>[Adresse auf f. 160a:] D. Heinricho Bullingero suo, venerando et charissimo fratri. Tiguri.</p>
+</text>
+</brief>

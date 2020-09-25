@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2296">
+<nr>2296</nr>
+<correspondents>
+	<originator>Nikolaus Müller gen. Maier</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>22. November 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1408 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 123; TD: Zwa 1 7 ^&x{
+<re>Maier bedankt sich für die Entsendung [Johannes] Hallers. Dieser ist ihm umso mehr empfohlen, als Bullinger Haller versicherte, er könne auf ihn zählen.
+-^#. Auch Hallers Begleiter [Huldrych] Zwingli [d.J.], der seinem Vater so sehr gleicht, war Maier höchst willkommen, auch wenn er sich seiner nicht richtig annehmen konnte. Er kam nämlich von einer Gesandtschaft an jenem Tag nach Augsburg zurück, an dem er Bullingers Brief [nicht erhalten] empfing und an dem Zwingli [d.J.] und sein Gefährte [Hans Wilpert Zoller] abends abreisen sollten. Da er bereits mit einer neuen Mission beauftragt wurde und zuvor [noch manche] Briefe zu schreiben hat, muss er sich kurz fassen und wird sein Brieflein [Georg] Frölich zur Weitersendung anvertrauen.
+-^#. Er empfiehlt sich Bullingers Gebeten an.</re>
+<tx>Salus in Christo Iesu, dilectissime frater.
+Rem mihi faecisti gratissimam, quod Hallerum nobis commendavisti<fx>^#/+In der Vorlage^#/- commendaristi.<fe>.
+Quin etsi propter eruditionem pietatemque suavi et singulari in eiusmodi et pios et bonos viros amore
+mihi ipse eum commendatum semper velim, tamen propter tuam commendationem mihi est maxime commendatus.
+Et experietur te non frustra illi<f1>Dem Haller.<fe> de me multa<fx>multa ^#/+über der Zeile nachgetragen.^#/-<fe> pollicitum; quemque meis, ut admones, iuvabo consiliis<fx>consiliis ^#/+über der Zeile nachgetragen.^#/-<fe>, patrocinioque meo tueri non cessabo.
+^$Vix etiam credi potest, quam adolescens ille, comes suus, divini Zvinglii filius,<f1>Huldrych Zwingli d.J.<fe>
+cuius liniamenta omnino refert, mihi fuerit acceptissimus; cui non eam, quam velim impartiri, possum<fx>possum ^#/+über der Zeile nachgetragen.^#/-<fe> impartiri benevolentiam.
+Nam eo vesperi eius diei, qua datę sunt hę litere,<f1>Ein nicht erhaltener Brief Bullingers an Maier.<fe> et ipse adolenscens et suus comes<f1>Hans Wilpert Zoller. - Schließlich sollten Zwingli d.J. und Zoller Augsburg erst nach Hallers Predigt vom 22. November verlassen und diesen Brief doch noch mitnehmen; s. unten Anm. 10.<fe>
+migrationem a nobis constituerunt.
+^$Ego ex legatione reipublicę domum<f1>Er wohnte im "Wunderhause" bei St. Anna, in dem u.a. auch Sixt Birck, Michael Keller und Bernardino Ochino wohnten; s. ^#/+Roth^#/- III 242.<fe> redii<f1>Maier war von Nördlingen zurückgekommen, wo am 15. und 16. November 1545 vergebens versucht wurde (s. dazu unten Nr. 2297, Anm. 25), den Schwäbischen Bund wieder aufzurichten; s. ^#/+Roth^#/- III 323f. 335f, Anm. 19.<fe>
+et aliam ad conventum religionis nostrę partium,<f1>Maier begleitete Sebastian Schertlin auf den Schmalkaldischen Bundestag in Frankfurt am Main (s. dazu oben Nr. 2285, Anm. 37). Dies geht aus einem Brief Schertlins vom 12. Dezember 1545 an die Bürgermeister Hans Welser und Jakob Herbrot (s. Sebastian Schertlin von Burtenbach und seine an die Stadt Augsburg geschriebenen Briefe, hg. v. Theodor Herberger, Augsburg 1852, S. 42) und unten Nr. 2310, 36, hervor.<fe> [... iam]<fx>^#/+Es fehlen zwei oder drei Wörter, die vor der Zeile, unmittelbar vor^#/- decretam, ^#/+ nachgetragen wurden und deren oberer Teil durch einen Siegelausschnitt verstümmelt wurde.^#/-<fe> decretam, reperi;
+quorum propter festinationem plura ad te, ut vellem, perscribere nequivi. Habeo enim scribendi argumentum non inutile,
+ac ante profectionem literas scripturus sum, curaboque, ut communis noster amicus Letus<f1>Georg Frölich.<fe> primo sibi oblato tabelario<f1>Siehe dazu unten Anm. 10.<fe> has<fx>has ^#/+über der Zeile nachgetragen.^#/-<fe> ad te mittat.
+^$Vale et precibus tuis ad creatorem nostrum me fove. Saluta omnes nostros.
+Datum 22. novembris anno 1545.
+<un>Semper tuus
+<un>Nicolaus Maier, etc.
+<lz>[Adresse auf der Rückseite:] Summę eruditionis pietatisque viro domino Heinrico Bullingero, ecclesiasti Tigurino, fratri suo charissimo.<f1>Vorliegender Brief wie auch die Briefe Nr. 2287. 2289-2291. 2293-2295 wurden Bullinger durch Zwingli d.J. überbracht; s. oben Nr. 2290, 57f; unten 2302, 1-9; 2303.<fe>
+</content>
+</letter>

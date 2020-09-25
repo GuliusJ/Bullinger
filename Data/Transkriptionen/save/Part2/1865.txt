@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1865">
+<nr>1865</nr>
+<correspondents>
+	<originator>Hermann Aquilomontanus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Oldersum]</place>
+	<date>12. März 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1389r. (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 53, 73; Straßburg BNU, Ms 682 (Th. B. 23), 312r.-313v.; K+U 20. Jh.: Emden BGK, Hs. fol. 37, Nr. 5^&x{
+<dr>Übersetzung: ^#/+Krömer,^#/- Aquilomontanus 55f</dr>
+^&xTeildrucke: Johann Heinrich ^#/+Ott,^#/- Annales
+anabaptistici, Basel 1672, S. 100; J[acobus] ten ^#/+Doornkaat
+Koolman,^#/- De Anabaptisten in Oostfriesland ten tijde van Hermannus Aquilomontanus (1489-1548), in: Nederlands Archief voor Kerkgeschiedenis, NS 46, 1964/65, S. 98^&x{
+<re>Hat den wegen Botenmangels liegen gebliebenen Brief [HBBW XIII, Nr. 1772] geöffnet und ergänzt. Kaiser [Karl^#. V.] hat Geldern dem klevischen Hause entzogen, und sogar die Stadt [Amersfoort oder Geldern?] wurde dem Kaiser überlassen;
+trotz Friedensschluss mit [Herzog Wilhelm] geht der Krieg gegen [König Franz^#. I.] weiter, und vom [Reichs-] ^@+Tag
+[zu Speyer] erwartet man nichts Gutes. Bittet um Stellungnahme zur Restitution der Kirchengüter. Bullinger soll öfter schreiben und seine Gesundheit schonen.
+</re>
+<tx>Postquam hee litere diutius nuntii<fx>nuntii ^#/+korrigiert aus^#/- nuntiis.<fe> penuria delituerant, eas<fx>eas ^#/+über
+gestrichenem^#/- et.<fe> reseravi et hanc appendicem adieci.<f1>Das hier edierte Schreiben ist eine Nachschrift, die
+Aquilomontanus unter seinen Brief vom 14. August 1543 (HBBW XIII, Nr. 1772) setzte.<fe> Nosti per cesarem Gelriam devictam
+et a Clivensi redemptam, civitatem illam<f1>Vielleicht Amersfoort, über dessen Eroberung durch das Haus Kleve Aquilomontanus im beigelegten Brief berichtet hatte; s. HBBW XIII 191, 8-11, falls man annimmt, dass mit den "Gelri" das Haus Kleve gemeint ist; vielleicht aber auch die Stadt Geldern, nach der das Herzogtum benannt war. Der Gebrauch von "relictam" statt des im Falle von Amersfoort erwarteten "restitutam" würde für Letztere sprechen.<fe> a Gelris ultro relictam cesari, interim pacem compositam cum Clivensi,<f1>Zum Friedensschluss zwischen dem Kaiser und Herzog Wilhelm von Jülich s. bes. HBBW XIII 256, Anm. 23.<fe> sed cum
+Franco ac Gallo<f1>König Franz^#. I.<fe> bellum<fx>^#/+Vor^#/- bellum ^#/+gestrichenes^#/- incruentum.<fe> continuari nec
+quicquam boni a comitiis<f1>Gemeint ist der Reichstag zu Speyer, der am 20. Februar 1544 eröffnet worden war (s. RTA JR XV/1 118).<fe> sperari.
+^$Utinam consilium mihi perscriberes de restitutione, quam hic
+respuunt quidem, qui bona ecclesie sub evangelii initio sibi usurparunt!
+^$Vale<fx>Vale ^#/+korrigiert aus^#/- Vales.<fe>, me ama, quod quidem sentiam, si sepius paucis in nundinis scripseris et valetudinem tuam custodieris.
+^$Raptim, Gregorii anno 1544.
+<lz>[Ohne eigene Adresse.<fx>^#/+Die Adresse ist Teil des mit obiger Nachschrift ergänzten Briefes vom 14. August 1543; s. HBBW XIII 194, 65-67.^#/-<fe>]
+</content>
+</letter>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2832">
+<brief>
+<id>17099</id>
+<nr>2832</nr> <from persid="GastJohannes"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-03-01"/>
+<ae>Johannes Gast an Bullinger</ae>
+<od>[Basel], 1. März 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 196 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 125. Verweis: Ludwig Lavater an HB, 1. März 1547, "Recreat interim et reficit me", K 19. Jh.: Straßburg BNU, Ms 677 (Thes. Baum. 18), 21 ─ ist recte TK von Lavater an HB, 28. Februar 1547.</k></dr>
+<re><t>Bullinger kann sich freuen, denn Myconius ist wieder gesund, auch wenn er seinen Brief [<qv>nr2833</qv>] noch vom Bett aus schreibt.</t>
+<t>Landgraf Philipp von Hessen hat dem Obristen [Johann Hilchen von Lorch] in Frankfurt einen Trompeter [...] geschickt. Weshalb, konnte der Bote [...], der schnell wieder fortmusste, nicht erfahren. Vermutlich hat auch Philipp einen Frieden mit Kaiser Karl V. geschlossen, um rehabilitiert zu werden.</t>
+<t>Über Herzog Christoph von Württemberg kann Gast keine Auskunft geben, außer dass er innerhalb von 14 Tagen wieder nach Mömpelgard ziehen wird. Doch dem Gerücht zufolge soll er tatsächlich sein Territorium an König Franz I. von Frankreich verpfändet haben.</t>
+<t>Da Graf Georg von Württemberg-Mömpelgard ein Abkommen mit der Basler Obrigkeit hat, wird seinem Land vermutlich nichts passieren, zumal der Graf nun auch versucht, sich mit dem Kaiser zu versöhnen. Er sandte diesem einen Boten [...].</t>
+<t>In Freiburg i.Br. sowie im Markgräflerland werden als Ersatz für die vielen Toten (es sterben 30 bis 40 pro Tag!) Landsknechte für den Kaiser angeworben und nach Ulm geschickt. Man sagt, dass sie auf der Donau nach Wien verschifft werden sollen, weil Sultan Suleiman in Siebenbürgen gewütet hat, jetzt Kriegsvolk nach Ofen [Buda] schickt und vorhabe, sich die [ungarischen] Städte zu unterwerfen. Den jungen König Matthias [richtig: Johann Sigismund Zápolya], den Sohn des Woiwoden [Johannes I. Zápolya], will er krönen, wenn dieser sich verpflichtet, die Städte [vom Hause Habsburg] abtrünnig zu machen.</t>
+<t>Zwei Landsknechte erzählten, dass Kurfürst Johann Friedrich von Sachsen die kaiserlichen Truppen des Markgrafen Albrecht Alcibiades von Brandenburg-Kulmbach besiegt hätte. Wenn es nur wahr wäre und die Feinde der Kirche zugrunde gingen!</t>
+<t>Gruß.</t></re>
+<text>
+<div>
+<p><zzl>zl17099-5A</zzl>S. in domino. Gratulare nobiscum! Myconius recuperavit pristinam sanitatem,
+<fn>Zu Myconius' Erkrankung s. die Verweise in <qv>nr2822</qv>, <qv>fn17088-4</qv>; und <qv>nr2827</qv>,<qv>zl17093-3</qv>; <qv>nr2831</qv>,[6].<zfn>fn17099-1</zfn></fn> <zzl>zl17099-3A</zzl>etsi adhuc lecto affixus scribet, ut ex illius literis
+<fn>Brief <qv>nr2833</qv> vom gleichen Tag wie vorliegender.</fn> percipies.<zzl>zl17099-3E</zzl><zzl>zl17099-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17099-4A</zzl>De lantgravio
+<fn>Philipp von Hessen.</fn> hoc scio: Er hat ein trommeter
+<fn>Unbekannter offizieller Bote.</fn> gon Francfort gschickt an den öbristen
+<fn>Johann Hilchen von Lorch; s. <qv>nr2822</qv>, <qv>fn17088-3</qv>.</fn>. Was er aber begert habe, hat der bott
+<fn>Unbekannter Bote, der vorliegende Nachricht übermittelte.</fn>, der ylentz hinweg ist gangen, nit m{oe}gen erfaren. Man achtet, er
+<fn>Der Landgraf.</fn> habe ouch ein friden angenomen, domit er dester komlicher
+<fn>bequemer; leichter; s. <a>SI</a> III 285.</fn> m{oe}ge inß reich den marckt kommen
+<fn>den marckt kommen: rehabilitiert werden; s. <a>SI</a> IV 410.</fn> uß verwilligung k[aiserlicher] m[ajestat]
+<fn>Karl V.</fn>.<zzl>zl17099-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17099-6A</zzl>Von hertzog Christophel
+<fn>Christoph von Württemberg. - Anfang 1547 hatte er sich mit seiner Familie nach Basel zurückgezogen; s. <qv>nr2761</qv>, <qv>fn17029-1</qv>; <qv>nr2763</qv>,<qv>zl17031-14</qv>.</fn> wegen weiß ich nit, dann
+<fn>außer dass.</fn> ich vernym, er
+<fa><i>In der Vorlage folgt darauf erneut ein</i> er.</fa> w{oe}lle wider gon
+<fn>nach.</fn> M{oe}mpeltgart ziehen in 14 tagen. Das geschrey
+<fn>Gerücht.</fn> ist wol gsin, er habe sinn landt dem Frantzosen
+<fn>Franz I. - Vgl. <qv>nr2753</qv>,<qv>zl17000-10</qv>; <qv>nr2817</qv>; <qv>nr2819</qv>,<qv>zl17063-6</qv>; <qv>nr2831</qv>,[2].<zfn>fn17099-3</zfn></fn> verpfendet; so er das gelt widerlege
+<fn>zurückerstattet.</fn>, so blibt es im.<zzl>zl17099-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17099-7A</zzl>Graff J{oe}rg
+<fn>Georg von Württemberg-Mömpelgard. - Er befand sich seit etwa dem 20. Januar in Basel; s. <qv>nr2753</qv>, <qv>fn17000-1</qv>.</fn> hat ein verstandt
+<fn>Abkommen.</fn> mit unseren herren, das ich wol acht, es werde dem landt nuit beschehen, dann
+<fn>denn.</fn> er hat ouch ein botten
+<fn>Unbekannt.</fn> by k. m., sich z{uo} vertragen
+<fn>sich z{uo} vertragen: (um) sich (mit dem Kaiser) zu versöhnen. - Der geächtete Graf Georg war nämlich aus dem Vertrag des Kaisers mit Georgs Bruder, Ulrich von Württemberg (s. dazu <qv>nr2746</qv>, <qv>fn17015-1</qv>), ausgeschlossen. Eine Aussöhnung zwischen Georg und dem Kaiser kam erst im Jahr 1552 auf Betreiben von dessen Neffen Christoph zustande; s. <a>Heyd, Ulrich von Württ.</a> III 598f.<zfn>fn17099-4</zfn></fn>.<zzl>zl17099-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17099-8A</zzl>Mann nympt z{uo} Friburg
+<fn>Freiburg i.Br. - Vgl. <qv>nr2822</qv>,<qv>zl17088-5</qv>. <qv>zl17088-13</qv>; <qv>nr2824</qv>,<qv>zl17090-13</qv>.</fn> knecht ann und im Markgravenlandt
+<fn>In Baden.</fn> dem keyser z{uo}. Schickt sy gon Ulm, <zzl>zl17099-11A</zzl>dann die keyserischen knecht sterben vast alle (uff ein tag 30 und 40)
+<fa><i>Klammern ergänzt.</i></fa>.<zzl>zl17099-11E</zzl> M{oe}gen die spiß
+<fn>Speise(n).</fn> nit mer dulden. Etlich mynen
+<fn>meinen.</fn>, der keyser werde die frischen knecht uff die Tonoew
+<fn>Donau.</fn> setzen, sy gon Wien schicken, <zzl>zl17099-10A</zzl>diewil der Turck
+<fn>Sultan Suleiman I.</fn> Sibenbürg geblünderet, das landtvolck hinweg gef{ue}rt. Understatt
+<fn>(Er) versucht.</fn>, die stett ouch z{uo} gwünnen
+<fn>einzunehmen.</fn>. Schickt darz{uo} vil volcks uff Ofen
+<fn>Buda.</fn>. Wil den jungen kunig Mathiam
+<fn>Richtig: Johann Sigismund Zápolya, der damals noch nicht sieben Jahre alt war. - Georg Martinuzzi hatte damals mit der Witwe Isabella Jagiellonica die Regentschaft für den jungen König von Ungarn übernommen.</fn>, des von der Weiden
+<fn>Gemeint ist Johannes I. Zápolya, ehemaliger König von Ungarn und Woiwode [ungarisch: Wajda - daher "Weiden"] von Siebenbürgen, der 1540 gestorben war. Er war mit den Habsburgern verwandt.</fn> son, krönen mit dem last
+<fn>Auflage (vgl. <a>SI</a> III 1462); oder: Hintergedanken. - Ein falsches Gerücht.</fn>, das dester ehe die anderen ungerischen stett abfallen, das er sy gwin on schwertschleg.<zzl>zl17099-8E</zzl><zzl>zl17099-10E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17099-1A</zzl><zzl>zl17099-9A</zzl>Es sindt zwen lantsknecht dise tag kommen.<zzl>zl17099-1E</zzl> <zzl>zl17099-2A</zzl>Die sagen, der
+<fa><i>In der Vorlage</i> die.</fa> elector Saxoni{e}
+<fn>Johann Friedrich I. von Sachsen.</fn> habe die keyserischen geschlagen, die by hertzog Albrecht
+<fn>Markgraf Albrecht II. Alcibiades von Brandenburg-Kulmbach; vgl. <qv>nr2810</qv>,<qv>zl17078-15</qv>; <qv>nr2822</qv>,<qv>zl17088-11</qv>. Es handelt sich aber um ein falsches Gerücht. - Erst am 2. März kam es in Rochlitz (Sachsen) zum großen Überfall der kurfürstlichen Reiterei auf Markgraf Albrecht, der dabei eine herbe Niederlage erlitt; s. Warhafftige Zeitungen wie Marggraue Albrecht von Brandenburgk ... bey Rochlitz erlegt vnd gefangen worden, Erfurt 1547 (<a>VD16</a> W653 - weitere Ausgaben dieser Schrift unter <a>VD16</a> W651f. W654. ZV25933); <a>Voigt, Albrecht</a> I 146-154; Rudolf <i>Friedrichsdorf,</i> Markgraf Albrecht Alcibiades als Reiterführer, Berlin 1919, S. 19.<zfn>fn17099-2</zfn></fn> sindt gsin
+<fn>gewesen.</fn>.<zzl>zl17099-2E</zzl> Utinam ita esset et hostes ecclesiae male perirent!<zzl>zl17099-9E</zzl></p>
+</div>
+<div>
+<p>Vale. 1. martii 1547.</p>
+<un>Tuus G.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Domino m. Heinrycho Bullingero, ecclesiae Tigurin{e} vigilantissimo pastori. Zürich.</p>
+</div>
+</text>
+</brief>

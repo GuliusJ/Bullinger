@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2734">
+<brief>
+<id>17003</id>
+<nr>2734</nr> <from persid="ClaudiusMatthias"/> <to persid="Bullinger"/> <place plid="St. Gallen"/> <date when="1547-01-01"/>
+<ae>Matthias Claudius an Bullinger</ae>
+<od>[St. Gallen], 1. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 356, 63f (ohne Siegel)
+<fa><i>Mit Schnittspuren.</i></fa><k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 4</k></vo>
+<dr>Ungedruckt</dr>
+<re><t>Gute Wünsche zum neuen Jahr!</t>
+<t>Es hat Claudius sehr berührt, dass Bullinger ihn auf sein bedeutungsloses Bittschreiben [<a>HBBW</a> XVIII, Nr. 2699] hin in seinem Brief [nicht erhalten] an Vadian (die Zierde Helvetiens) grüßen ließ und zum Weiterschreiben ermunterte. Dies kann er nur Bullingers Gelehrsamkeit und Güte zurechnen. Er wird sich bemühen, ihm künftig dienlich zu sein.</t>
+<t>Er fragte seinen Herrn [Hieronymus Sailer], ob dieser etwa Neuigkeiten an Bullinger melden wolle. Sailer meinte, dass er nichts Unbekanntes für die Zürcher hätte. Er lässt aber herzlich grüßen.</t>
+<t>Es steht nun fest, dass die Ulmer die [mit ihnen verbündeten] Reichsstädte im Stich gelassen und sich gegenüber Kaiser Karl V. verpflichtet haben, keine Bündnisse mit irgendjemandem einzugehen; den Geistlichen die früher illegal beschlagnahmten kirchlichen Güter zurückzuerstatten; sich dem Joch des Papsttums, der Priester und der Mönche erneut zu unterwerfen; und, wenn erforderlich, Hilfe gegen die Türken zu leisten. Daraus entsteht große Gefahr für Augsburg und für ganz Deutschland: Es bedeutet die Wiedereinführung des Götzendienstes, die Entweihung der heiligen Dinge, den Missbrauch der Sakramente und die Verleugnung Christi!</t>
+<t>Aus Antwerpen erfuhr Sailer, dass Landgraf Philipp von Hessen sich mit dem [von ihm] gefangen gehaltenen Herzog Heinrich von Braunschweig unterhalten und sich danach zu Herzog Moritz von Sachsen begeben habe; ferner, dass in den Niederlanden und anderswo viel Geld aus den jährlichen Einkünften der Geistlichen zusammenkommt, um [dem Kaiser] die Wiederaufnahme des Krieges zu ermöglichen.</t>
+<t>Christus möge sich seiner Kirche erbarmen! Grüße.</t></re>
+<text>
+<div>
+<p>Foelicis anni exordium opto amplitudini tuae in Christo Iesu, etc.!</p>
+</div>
+<div>
+<p><zzl>zl17003-3A</zzl>Quoniam ad inanes meas et petaces literas,
+<fn>Claudius' Brief vom 1. Dezember 1546 (<a>HBBW</a> XVIII, Nr. 2699).</fn> vir doctissime et longe humanissime, tam blande et amice per dominum d. Vadianum,
+<fn>Mit einem nicht erhaltenen Brief, mit dem Bullinger vermutlich auf Vadians Brief vom 11. Dezember (<a>HBBW</a> XVIII, Nr. 2714) antwortete.</fn> unicum (quod venia tua dixerim) Helvetiae ornamentum, me resalutasti et ad scribendum invitasti, inhumanum et ab omni mansuetudine alienum me facere existimarem, nisi eum animi candorem, quem propter humanitatis studia video mihi propensum, offitio aliquo vel literis studeam demereri.<zzl>zl17003-3E</zzl> Etsi indignus sim consuetudine et familiaritate tantorum virorum perfrui, tamen id non virtuti aut eruditioni aut ullis meritis meis tribuendum, sed humanitati, comitati et mansuetudini vestrae, quae in vobis prae aliis virtutibus elucent, acceptum referendum puto. Siquidem verus studiorum fructus est iis esse moribus, quos omnes ament, eaque gloria praeditum, quae virtute comparata omnes homines in admirationem, studium atque emulationem sui invitet, rapiat et pertrahat. Nam ego istiusmodi viros, in quibus antiquae virtutis et integritatis vestigia expressa et elucere video, qualem profecto te in animo meo esse iudico, tanquam numen aliquod amplector, amo et veneror, atque declaratus sum re ipsa, ubi occasio aliqua tuae humanitati inserviendi data fuerit.</p>
+</div>
+<div>
+<p>Iam multa non habeo, quae scribam. Nova ab hero
+<fn>Hieronymus Sailer; vgl. <a>HBBW</a> XVIII 351 und Anm. 3; 421 und Anm. 30.</fn> petii, ut tibi communicaret, qui te quam offitiosissime salutat. Petit autem se excusatum haberi, qui rerum novarum nihil sibi nunc esse, quae vobis non sint notae.</p>
+</div>
+<div>
+<p>Ceterum Ulmenses ab imperialibus civitatibus defecisse certum est,
+<fn>Ulm leistete am 23. Dezember 1546 Kaiser Karl V. einen ersten Fußfall in Schwäbisch Hall. Dazu und zu den vorausgehenden Verhandlungen s. <a>HBBW</a> XVIII 396, Anm. 9; 400, Anm. 1. Als dann der Kaiser (aus Heilbronn kommend) am 21. Januar 1547 das Ulmer Territorium (nämlich Geislingen an der Steige) erreicht hatte, leisteten die Gesandten Ulms dem Kaiser erneut den Fußfall. Am 4. März huldigte die Stadt dem Kaiser; s. <a>Rommel, Ulm</a> 89. 91. Doch scheint es bereits am 25. Januar zu einer ersten Huldigung des Ulmer Rats gegenüber dem Kaiser gekommen zu sein; vgl. <qv>nr2771</qv>,<qv>zl17038-4</qv> und <qv>fn17038-2</qv>.<zfn>fn17003-1</zfn></fn> et a caesare
+<fn>Karl V.</fn> his conditionibus in deditionem accepti sunt, ut iure iurando confirment, <zzl>zl17003-1A</zzl>primo ne ullum unquam foedus cum quibuscunque ineant<zzl>zl17003-1E</zzl>; <zzl>zl17003-2A</zzl>secundo ut possessiones sacerdotum, praeter ius occupatas olim, illis integras restituant; tertio ut iugo papistico sese sub-<vl>64</vl>mittant vel sacerdotes et monachos recipiant; quarto ut auxilium adversus Turcas, si opus fuerit, mittant.
+<fn>Diese Bedingungen entsprechen eher denjenigen, die Nicolas Perrenot, Herr von Granvelle, in den allerletzten Tagen von November 1546 in Lauingen der Ulmer Gesandtschaft stellte. Danach erreichten die Ulmer, dass wenigstens die Religionsfrage bei der Versöhnung mit dem Kaiser nicht erwähnt wurde, auch wenn sie die erwünschte schriftliche kaiserliche Zusicherung, dass man sie bei ihrer Religion belassen würde, nicht erwirken konnten; s. <a>Egelhaaf</a> 42-44, Nr. 40; <a>Keim, Ulm</a> 379. 383; <a>Rommel, Ulm</a> 77-80.<zfn>fn17003-2</zfn></fn><zzl>zl17003-2E</zzl> Quae defectio quam periculosa sit reliquis imperii civitatibus, praesertim Augustae, futura, pro tua prudentia expende. Nam si has conditiones detrectabunt, undique hostibus septi, pedem extra moenia collocare tutum non erit. Si
+<fa><i>In der Vorlage</i> Sin.</fa> accipient, quanta piacula committent, quantum nefas in deum et homines parent? Quid vero aliud expectandum sit quam nobilis Germaniae exitium,
+<fn>Vgl. die von Augsburg an Ulm am 22. Dezember 1546 gerichteten Vorwürfe; s. <i>Keim,</i> aaO, S. 385.</fn> quam restauratio idololatriae, prophanatio sacrorum omnium,
+<fn>Vgl. Dan 11, 31; Mt 24, 15.</fn> abusus sacramentorum, denique Christi abnegatio. Quis est, qui dubitat?</p>
+</div>
+<div>
+<p>Ex Antverpia scribitur domino
+<fn>Sailer.</fn> lantgravium
+<fn>Philipp von Hessen.</fn> cum Heinricho, duce Brunsvicense in vinculis retento,
+<fn>Heinrich d.J. von Braunschweig-Wolfenbüttel, der seit dem 21. Oktober 1545 vom Landgrafen gefangen gehalten wurde; s. <a>HBBW</a> XVI 26 und Anm. 107.</fn> collocutum esse, inde se ad Mauritium ducem
+<fn>Moritz von Sachsen.</fn> contulisse;
+<fn>Beide Nachrichten sind falsch. Allerdings war geplant, dass der Landgraf am 21. Dezember Moritz in Leipzig hätte treffen sollen; s. <a>Moritz von Sachsen PK</a> II/2 969, Nr. 1083; 975f, Nr. 1087.</fn> item magnum pondus argenti colligi in Inferiori Germania et alteram partem annuorum censuum sacerdotum recidere ad restaurandum multo saevius bellum quam ante.</p>
+</div>
+<div>
+<p>Christus suam ecclesiam inter mille pericula conservet, gubernet et liberet! Vale. Calendis ianuarii 1547.</p>
+<un>Mathias Claudius, filiorum
+<fn>Bartholomäus und Anton.</fn></un>
+<un>Hie. Saileri paedagogus,</un>
+<un>amplitudini tuae studiosissimus.</un>
+<lz/>
+<p>[Adresse darunter:] Ornatissimo clarissimoque viro d. Heinricho Bullingero, Tyguri ecclesiae dei a concionibus, domino suo et patrono colendissimo. Tyguri.</p>
+</div>
+</text>
+</brief>

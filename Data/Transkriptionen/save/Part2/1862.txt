@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1862">
+<nr>1862</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>11. März 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 366, 258 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 72^&x{
+<dr>Ungedruckt</dr>
+<re>Zitiert Nachrichten aus einem Brief vom 6. März: Kaiser [Karl^#. V.] hat sich wegen des plötzlichen Todes seines Beichtvaters und einiger Leibwächter nach Germersheim begeben; angeblich nimmt er viel Geld auf, besonders von Augsburger Kaufleuten, und zwar für den Krieg gegen den französischen [König Franz^#. I.], dessen Herold [François Maillart] durch eigenes Verschulden in kaiserliche Haft geraten ist; in der Frage des Religionsfriedens ist kein Fortschritt zu erwarten; Bucer schreibt gegen [Bartholomäus] Latomus; Weiteres wird Myconius berichten. Legt ein Gedicht [von Johannes Winter?] zur Weitergabe an Freunde bei und bittet um Rücksendung.
+</re>
+<tx>S. 6. martii ad me scripta hęc sunt:<f1>Der von Gast zitierte Brief liegt nicht vor. Beim Briefschreiber, der im Umfeld Bucers zu suchen ist (s. unten Z. 14f), dürfte es sich um Konrad Hubert handeln. Gast stand mit Hubert in Briefwechsel und sandte diesem zwei Briefe um diese Zeit: am 1. und am 20. März 1544; s. Jean ^#/+Adam,^#/- Inventaire des archives du chapitre de Saint-Thomas de Strasbourg, Straßburg 1937, Sp. 206.<fe> "Caesar iam
+secessit Spira in Germersheim,<f1>Kaiser Karl^#. V. brach am 28. Februar zur Jagd nach Germersheim auf und kehrte am 1. März nach Speyer zurück; s. RTA JR XV/2 762f.<fe> oppidum Palatini<f1>Pfalzgraf Ludwig V.<fe> circiter duo miliaria inde distans, idque propter obitum sui sacellani sive confessoris<f1>Anscheinend ein bloßes Gerücht; jedenfalls kann es sich beim Verstorbenen nicht um den Beichtvaters des Kaisers, Pedro de Soto, gehandelt haben. Vgl. auch unten Nr. 1873, 24-26.<fe> (qui insignis nebulo fuit ac adversarius veritatis) et quorundam militum<fx>^#/+Vor^#/- militum ^#/+gestrichenes^#/- nobilium.<fe> ad corporis sui tutelam conductorum. Morbum autem, quo perierunt, eum dicunt esse,
+quo iam homines vel cito auferuntur, hoc est subitanea<f1>Zu ergänzen: morte.<fe>,
+vel ad insaniam rediguntur. Pręterea pro certo dicunt
+multi caesarem iam undequaque sibi corradere pecunias et a
+mercatoribus Augustanis<f1>Diese Nachricht stimmt; s. Richard ^#/+Ehrenberg,^#/- Das Zeitalter der Fugger. Geldkapital und Kreditverkehr im 16. Jahrhundert, Jena 1912, Bd. 1, S. 139. 221. Gemeint sind vor allem die Fugger und Welser; zu deren Darlehensgeschäften mit dem Kaiser im ersten Viertel des Jahres 1544 s. Götz Freiherr von ^#/+Pölnitz,^#/- Anton Fugger, Bd. II/2, Tübingen 1967. - Studien zur Fuggergeschichte 20, S. 1-20.<fe> potissimum, tamen accepisse partim,
+partim vero expectare, supra 70 centenaria<f1>Zentner.<fe> pondo talerorum,
+quorum centenarium<fx>^#/+In der Vorlage^#/- centanarium.<fe> pondo contineat 1'600 florenos, et pro sorte 100 talerorum eum dare usuram 16 fl. Omnia ista in
+usum bellicum contra Gallum<f1>König Franz^#. I.<fe>, cuius ipse iam fecialem captum tenet,<f1>Zur Festnahme und Ausweisung des französischen Herolds François Maillart s. oben Nr. 1856, 27 mit Anm. 16.<fe> sed sua ipsius culpa et perfidia. In religionis negotio promovendo nihil nobis ab hominibus praesertim
+divinorum contemptoribus polliceri audemus. Bucerus contra
+Latomum scribit libellum, qui habiturus est circiter 25 folia"<f1>Bucers Vorrede zu den "Scripta duo adversaria D. Bartholomaei Latomi LL. doctoris et Martini Buceri theologi" (Straßburg, Wendelin Rihel, 1544; VD 16 L 634; BucerBibl 137) datiert vom 12. März, doch vollendete er seine darin enthaltene "Responsio altera et solida" erst am 20. März auf dem Reichstag zu Speyer; s. ^#/+Schlüter,^#/- Streitschriften 123f. 202f (Nr. 59). - Die Schrift sollte schlussendlich 33 1/2 (und nicht nur 25) Druckbogen zählen.<fe>, etc. Reliqua Myconius.<f1>Vgl. Myconius' Brief vom folgenden Tag, unten Nr. 1866.<fe>
+^$Mitto hic carmen<f1>Gemeint ist wohl das sapphische Gedicht von Johannes Winter, das Ambrosius Blarer am 26. März an Bullinger zurücksandte; s. unten Nr. 1883, 26-28.<fe>, quod communicabis bonis amicis et fratribus et postea remitte; nam aliud apud nos non est.
+<un>Tuus Gastius.
+^$11. martii 1544, Basileę.
+<lz>[Adresse auf der Rückseite:] Dem wurdigen und
+wolgelerten hernn Meister Heinrich Bullinger, pfarhernn
+zuͦ Zurich, mynem lieben herrnn.<fx>^#/+Neben der Adresse, im engen Einband teilweise verdeckt und vielleicht von Bullingers Hand:^#/- Remitt[e]. ^#/+Das bezieht sich wohl auf das beigelegte Gedicht (s. Anm. 12).^#/-<fe>
+</content>
+</letter>

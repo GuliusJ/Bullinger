@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1438">
+<nr>1438</nr>
+<correspondents>
+	<originator>Gervasius Schuler</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Memmingen</place>
+	<date>14. Dezember 1540</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit einer Hervorhebung (von späterer Hand?).^#/-<fe>: Zürich StA, E II 350, 361-363 (ohne Siegel), [Bei­­la­­ge:] 371f (Siegel)</vo>
+<dr>Teildruck<fx>^#/+Der Teildruck ist nicht als Ausschnitt aus einem Brief an Bullinger gekennzeichnet; er gibt ein Zitat aus
+einem Brief Martin Frechts an Schuler wieder und entspricht unten Z. 19-34.^#/-<fe>: Corr. des réformateurs VI 392-394, Nr. 923</dr>
+<re>Hat die gewünschten Auskünfte bei [Paul] Fagius eingeholt; dieser will zwar keine hebräische Bibel, wohl aber den
+Psalmenkommentar und das Wörterbuch von David Kimchi herausgeben und rühmt Elia Levita, der nach Isny gekommen ist. Schuler geht
+es gut. Memmingen ist am Wormser Religionsgespräch zwar nicht vertreten, doch [Martin] Frecht berichtete über die Eröffnung
+der Tagung durch Granvelle, das geplante Verfahren, ein freundliches Gespräch des Bischofs von [L'Aquila, Bernardo
+Sanzio] mit Calvin, Anzeichen für eine Mäßigung der Gegner und einen neuerschienenen Stern. Am 5. Dezember schrieb Frecht,
+obwohl die Gegner Verständigungsbereitschaft bekundet hätten, bleibe abzuwarten, ob sie nicht Unterwerfung fordern und das
+offene Gespräch hintertreiben würden; Melanchthon habe einen Dialog über die zu erwartenden Verhandlungspositionen entworfen.
+Weiter berichtete Frecht, Eck habe eine Dirne bei sich; die unkeuschen Geistlichen feierten eine Messe vom Hl. Geist,
+wollten aber gegen diesen handeln. Laut Melanchthon wird sich Luther in einem neuen Buch zur Frage der Restitution äußern. Die
+Ulmer Gesandten berichteten von Uneinigkeit der Gegner; die Protestanten lehnen hingegen Zugeständnisse geschlossen ab und
+mißtrauen dem Kaiser, der in Brabant ein tyrannisches Edikt erließ. Neustens ist zu hören, die Gespräche hätten inzwischen
+begonnen. Grüße. [Beilage:] Sieben Artikel mit Konditionen für die Abhaltung des Religionsgesprächs, wie sie am 26. November von den Unterhändlern vorgeschlagen wurden.
+</re>
+<tx>Salutem in Christo, communi servatore nostro.
+^$Accepi, frater charissime, a pistore<f1>Unbekannt.<fe> illo, quas ad cessatorem, hoc est Gervasium tuum, misisti
+literas<f1>Nicht erhalten.<fe>. Quibus acceptis Fagio, Isnensi episcopo michi christiana familiaritate iunctissimo, mox
+scripsi<f1>Auch dieser Brief liegt uns nicht vor.<fe>, quidque illius opera sub praelo cuderetur, rimatus
+sum. Is michi in hec verba respondit<f1>Von diesem Schreiben ist einzig der nachfolgende Auszug überliefert.<fe>: "Biblia Hebraica nulla excudo" (illius verba refero), "sed Perusch R. D. K. in
+Psalmos<f1>Der hebräische Psalmenkommentar David Kimchis ("Perusch le-Sefer Tehillim") erschien 1541 bei Fagius in Isny;
+s. Richard ^#/+Raubenheimer,^#/- Paul Fagius aus Rheinzabern. Sein Leben und Wirken als Reformator und Gelehrter, Grünstadt (Pfalz)
+1959. - Veröffentlichungen des Vereins für Pfälzische Kirchengeschichte VI, S. ...^&x VD 16 B 3105 (1542!) ^&x{ -
+David ben Josef Kimchi, 1160(?)-1235(?), von Narbonne, auch unter dem Akronym RaDaK bekannt, verfaßte bedeutende
+Bibelkommentare und sprachwissenschaftliche Werke, die von den christlichen Hebraisten des 16. Jahrhunderts viel benutzt
+wurden. - Lit.: Frank ^#/+Talmage,^#/- in: Encyclopaedia Judaica, Bd. 10, Jerusalem 1972, Sp. 1001-1004 (mit weiterer Lit.).<fe>
+cum Libro Radicum<f1>Die lateinische Übersetzung von Kimchis hebräischem Wurzelwörterbuch ("Sefer ha-Schoraschim") blieb
+ungedruckt (vgl. Thomas ^#/+Willi,^#/- Christliche Hebraisten der Renaissance und Reformation II, in: Judaica, 30, 1974, S. 121).<fe>" etc. Addidit praeterea:
+"Helias Levite<f1>Elia(s) Levita (eigentlich Elijahu ben Ascher
+ha-Levi, auch Bachur genannt), 1469/70-1549, von Ipsheim (Mittelfranken), kam als junger Mann nach Italien, wo er in
+verschiedenen Städten u. a. Hebräisch unterrichtete. In Rom wurde 1515 der Augustinergeneral Ägidius Antonini von Viterbo
+sein Gönner und Schüler. Hier entwickelte sich Levita zum Humanisten, der die jüdische Tradition der Sprachwissenschaft
+kritisch weiterführte und an christliche Hebraisten vermittelte. Ab 1528 lebte er bis zu seinem Tod in Venedig,
+unterbrochen 1540/41 durch einen Aufenthalt in Isny, wo es zu einer fruchtbaren Zusammenarbeit mit Paul Fagius kam. Levitas
+epochale Werke zur Grammatik wurden v. a. durch Sebastian Münster in Basel ins Lateinische übersetzt; bedeutend sind
+auch seine Beiträge zur jüdisch-deutschen Literatur. - Lit.: Gérard E. ^#/+Weil,^#/- Élie Lévita. Humaniste et massorète
+(1469-1549), Leiden 1963. - Studia Post-Biblica VII; Meir ^#/+Medan,^#/- in: Encyclopaedia Judaica, Bd. 11, Jerusalem 1972,
+Sp. 132-135; Günter ^#/+Mayer,^#/- in: NDB XIV 402f; R. Gerald ^#/+Hobbs,^#/- in: Contemporaries II 328f; BBKL I 1489f.<fe> ad me
+venit ante 14 dies, verum<fx>^#/+vielleicht aus ^#/-vir^#/+ verschrieben.^#/-<fe> sane Hebreę<fx>^#/+Der zweitletzte
+Buchstabe undeutlich korrigiert.^#/-<fe> linguae admodum peritus et cum hoc mire humanus, facilis et ad omnia paratissimus, cuius opera nimirum michi multum proderit. Attulit secum egregios
+libros, quos ego modo ad prelum paro<f1>Levita selbst zählt neun Werke auf, die er bei Fagius drucken lassen wollte; s.
+^#/+Willi,^#/- aaO, S. 119f. Zu den 1541/42 erschienenen Büchern (vor allem "Sefer ha-Tischbi" und "Sefer Meturgeman") vgl.
+^#/+Weil,^#/- aaO, S. 135-151.<fe>" etc. Tantum P[aulus] Fagius. Quare, mi Bulligere, si ego hac in parte tibi morem gerere
+possum apud hominem Fagium plane meum tuorumque studiorum conatus iuvare, presto sum, quem ut veterem amicum habes<fx>^#/+korrigiert aus^#/- habens.<fe> Gervasium ad vota tua paratissimum.
+^$Ego cum familia valeo optime per dominum.
+^$Ex nostris nemo Vormatiam abiit, quia nemo vocatus; quę
+vero illic agantur, te minime latere puto<f1>Am Wormser Religionsgespräch, das auf den 28. Oktober einberufen worden
+war, sollten die strittigen Glaubensfragen im Hinblick auf den bevorstehenden Reichstag vorbesprochen werden. Nach langen
+Verhandlungen über den Gesprächsmodus begannen Johannes Eck und Philipp Melanchthon am 14. Januar mit einer Disputation über die
+Erbsünde. Am 19. Januar wurde das Gespräch durch ein Mandat des Kaisers abgebrochen und auf den Reichstag zu
+Regensburg vertagt. - Lit.: ADRG II; ^#/+Ortmann,^#/- Reformation 149-163; Karl Heinz ^#/+zur Mühlen,^#/- in: LThK^#'3 X 1294.<fe>.
+Mitto tamen velut auctarii vice, quę<fx>quę ^#/+am Rande nachgetragen.^#/-<fe> hisce diebus ad me<fx>^#/+auf^#/- me ^#/+folgt irrtümlich wiederholtes^#/- quę.<fe> Frechtus
+scripsit<f1>Der Brief Martin Frechts scheint verloren zu sein.<fe>, cuius verba sunt, quę hic inserta habes:
+"Novembris die 22. cesaris legatus a Granvell<f1>Nicolas Perrenot, Herr von Granvelle (seit 1527), geb. zwischen 1484 und
+1486 in Ornans (Franche-Comté), gest. 1550 in Augsburg, stammte aus einer bürgerlichen Familie. In Dole, wo er Jura
+studierte, kam er in Kontakt mit Mercurino Gattinara, der seine Karriere entscheidend förderte. 1518 wurde er Mitglied des
+Gerichtshofs (Parlaments) zu Dole, 1519 "maître des requêtes" beim Geheimen Rat der Niederlande, und ab 1521 versah er das
+gleiche Amt im Rat der Regentin, Margarete von Österreich. 1524 ernannte ihn Kaiser Karl V. zum Staatsrat. Nach dem Tod
+Gattinaras wurde er faktisch dessen Nachfolger, ohne allerdings den Großkanzlertitel zu
+tragen; der Kaiser verlieh ihm die Würde eines Siegelbewahrers von Neapel und Sizilien. Von nun an prägte der weitsichtige
+Staatsmann maßgeblich die kaiserliche Politik gegenüber Deutschland und den Niederlanden. Im Kontakt mit den deutschen Protestanten bemühte er sich beharrlich um eine Verständigungslösung. -
+Lit.: [Wilhelm] Maurenbrecher, in: ADB IX 580-582; Maurice ^#/+van Durme,^#/- A propos du quatrième centenaire de la mort de
+Nicolas Perrenot de Granvelle, in: Bibliothèque d'Humanisme et Renaissance XIII, 1951, S. 270-294; Rosemarie ^#/+Aulinger,^#/- in: Contemporaries III 68-70.<fe>
+Vormatiam venit. Convocavit utrasque partes, vicem caesaris egit in sedili presidens. Latine unicuique pro more dato titulo,
+nomine et vice caesaris congregatis ex cesare salutem est
+precatus et mox credentiales literas, deinde mandatum
+cesareum in eius personam datum<f1>Das Beglaubigungsschreiben vom 13. und die Vollmacht vom 10. Oktober sind gedruckt in: ADRG II/1 40-44, Nr. 13f.
+^&xJohann Paul ^#/+Roeder,^#/- De colloquio Wormatiensi ... disquisitio ..., Nürnberg 1744, S. 57f bzw. 43-45.^&x{<fe> prelegi iussit. Post hoc orationem<f1>Die am 25. November
+gehaltene Eröffnungsrede ist gedruckt in: ADRG II/1 44-47, Nr. 15 (zu abweichenden Mitschriften s. ebd., Anm. 1).^&xMO III 1163-1168, Nr. 2060^&x{<fe> habuit satis luculentam, pathetice exhortatus ad concordiam, protestatus se
+in futura actione<fx>^#/+korrigiert aus^#/- futuractione.<fe> summa acturum fide et integritate. Dixit autem in oratione de
+disertis verbis: 'Latius serpit virus, et fides suis debilitata malis nichil iam quam ultima suspiria ducit.' 26. autem 4
+presidentes<f1>Drei der Unterhändler waren bereits am Tag zu Hagenau tätig gewesen (vgl. oben Nr. 1409, 5-7); der
+inzwischen verstorbene Erzbischof von Trier, Johann III. von Metzenhausen, wurde durch den Erzbischof von Mainz, Albrecht von
+Brandenburg, ersetzt (s. ADRG II/1 19f, Nr. 2).<fe> utramque convocarunt partes et ex decreto Hagnoico<f1>Gemeint ist der Abschied des Tags zu Hagenau vom 28. Juli 1540 (ADRG I/1
+146-155).<fe> quandam prescripserunt formam future actionis, quam hic habes<f1>Siehe Beilage (unten Z. 95-132).<fe>.
+Ab utraque parte 11 erunt suffragia in colloquio. Est isthic episcopus
+Aquileianus<f1>Bernardo Sanzio, seit 1538 Bischof von L'Aquila (nicht von Aquileja), hielt sich im Auftrag der Farnese am
+Kaiserhof auf und war auf Wunsch Granvelles nach Worms gekommen; vgl. NBD V, S. XXXVIf; Corr. des réformateurs VI 393, Anm.
+6.<fe>, qui hisce diebus ad se Calvinum vocavit et tam amice cum [eo] est collocutus, ut quis iuraret eum iam factum<fx>^#/+auf^#/- factum ^#/+folgt ein (nach ^#/-eum^#/+) überflüssiges^#/- illum.<fe>
+Lutheranum. Laudavit summopere Calvini librum, cui Institutionem fecit titulum, quasi istum librum debeant omnes papistę et
+Lutherani tanquam amicabile et certum concordie medium recipere et probare<f1>Frecht scheint einzelne Äußerungen Sanzios
+überzubewerten. Laut Calvins eigenem Bericht in seiner Schrift "De scandalis" (1550) kritisierte der Bischof bei ihrer
+Unterredung das Beharren der Protestanten auf ihrer Position; s. CO VIII 81.<fe>. Prodigiosa nomina Nausea,
+Mezentius<f1>Mezentius, König von Caere, nach Vergils Aeneis ein grausamer und gottloser Herrscher (vgl. Luciana
+^#/+Aigner-Foresti,^#/- in: DNP VIII 148f). Melanchthon und Luther bezeichneten mit diesem Namen Herzog Heinrich von Braunschweig;
+vgl. WA LI 462; WA Briefwechsel VIII 381, Anm. 18.<fe>, Cocleus et Pelargus, de quibus lusit quidam<fx>de quibus lusit quidam
+^#/+am Rande nachgetragen.^#/-<fe>: "Nomina sunt ipso<fx>^#/+vielleicht als^#/- ipse ^#/+oder^#/- ipsi ^#/+zu
+lesen, was jedoch keinen Sinn ergibt.^#/-<fe> pene timenda sono." Incipiunt mitescere, in primis Pelargus, qui nuper apud suos Dominicastros<f1>Dominicaster
+abwertend für Dominikaner; vgl. WA XXX/III, Revisionsnachtrag, S. 112 (zu 497, 5).<fe> dixisse fertur isto octiduo
+se, antequam Vormatiam venerit, in alia fuisse sententia
+contra Lutheranos, utpute ut cum illis nichil esse tentandum
+pro concordia medii, sed iam videre se mediam viam tenendam
+esse, quę est Lutheranis omnia condonanda esse pro bono
+pacis preter utranque speciem<f1>d. h. die Kommunion unter beiderlei Gestalt.<fe> et sacerdotum connubium. Nova
+stella orta est Vormatię; nam a <vl>362</vl> prandio coruscans stella et, ut alii volunt et interpretantur, cometa
+est visus<f1>Zu der durch einen Einblattdruck überlieferten Lichterscheinung s. Wilhelm Heß, Himmels- und
+Naturerscheinungen in Einblattdrucken des XV. bis XVIII. Jahrhunderts, Leipzig 1911 (Nachdruck: Nieuwkoop 1973), S. 107,
+Nr. XI und Farbtafel zwischen S. 20 u. 21; vgl. auch Myconius an Bullinger, 19. Januar 1541 (Zürich StA, E II 350, 359).<fe>;
+forte scoti<f1>Das unverständliche Wort ist wohl in eigenwilliger Ableitung von griech. <gr>skótow</gr> (Finsternis) gebildet.<fe> et caeci illuminabuntur et mutabuntur regna antichristi."
+^$5. decembris reddidit idem Frechtus literas<f1>Auch dieser Brief liegt nicht im Original vor.<fe>, quarum hec sunt capita: "Mira res est principio coram 4 praesidentibus
+ore<f1>Am 20. November; s. ADRG II/1 32f, Nr. 9.^&xARCEG III/1 199, 10-17^&x{<fe>, deinde coram Granvella calamo<f1>Gemeint ist das von Johannes Gropper
+im Namen beider Parteien verfaßte und am 26. November übergebene Schreiben; s. ADRG II/1 48-55, Nr. 16.^&xARCEG III/1 203, 17-205, 27.^&x{<fe> adversarios
+colloquium non detrectasse, sed illud, ut prae se ferebant, ardentibus votis postulasse, inde autem a 27. novembris usque in hunc diem quid consultent, deliberent, cogant, figant
+refigantque, postquam nostri confessionem et apologiam Germanice et Latine obtulerunt 4 presidentibus<f1>Die Überreichung
+der Confessio Augustana Variata und der Apologie erfolgte am 28. November; vgl. ADRG II/2 1114f, Nr. 382.^&x^#/+Neuser,^#/- Vorbereitung 198; ARCEG III/1 206f, Anm. 284 und
+S. 218, Anm. 300.^&x{<fe>. Advenit hisce diebus alius quidam legatus apostolicus, Mutinensis<f1>Nuntius Giovanni Morone, Bischof von
+Modena, traf am 27. November in Worms ein; vgl. NBD VI 53f.<fe>; qui quid ex Italia novi attulerit, adhuc incertum est, nisi quod nostri coniitiunt
+Romanos Romanice processuros, hoc est primum a nobis deditionem po­stulaturos<fx>^#/+in der Vorlage^#/- postulos.<fe>, Germanice:
+das wir unß auff gnad und ungnad<fx>^#/+in der Vorlage^#/- auff gnad und gnad.<fe> ergebend. Sed nos in domino Germanice
+procedemus ingenueque protestabimur per nos non stetisse,
+quo minus in colloquio egerimus quam liberrime. Itaque
+expectandum est nobis, quid nam et quale responsum daturi
+sint nobis adversarii, qui, ut subolet nobis, nichil
+intentatum relinquent, ut quesito colore<f1>d. h. unter einem Vorwand.<fe> declinent liberum colloquium. Forte scriptis, non
+ore procedere<fx>^#/+in der Vorlage^#/- procede.<fe> cupient.
+Vides, mi frater, satanę astutias et varias formas.
+Philippus Melancton conposuit de hac re dialogum<f1>Nicht erhalten.<fe>, quod tibi soli scribo" (omnia sunt verba
+Frechti), "quem dabit, ubi per otium licet, in quo 4 persone erunt referentes 4 iudicia et sententias, que in isto conventu possunt regnare.
+^$De Eccio quidam mussitant, quod a Maguntia Vormatiam vocarit elegans scortillum, quo Moguntinensis quidam canonicus eum
+donarit. Nostri legati audierunt hoc verum esse ex ore famuli legati ducis Heinrichi Myßnensis et Saxonis etc.<f1>Gesandte
+Herzog Heinrichs von Sachsen waren Andreas Franck (Camicianus) und Nikolaus Scheubel (ihnen schloß sich außerdem Johannes Brenz von Schwäbisch Hall an); s. ADRG II/1 59, 11-14; II/2 906-909, Nr. 300.^&x^#/+Neuser,^#/- Vorbereitung 199; ARCEG
+III/1 207, 6f.^&x{<fe>, qui in eodem hospitio, quo Thais<f1>Die athenische Hetäre Thais soll Alexanderd. Gr. zur Verbrennung
+von Persepolis angestiftet haben und war später Geliebte von Ptolemäus I.; s. Gerhard ^#/+Wirth,^#/- in: KP V 641.<fe> ista cum
+satellite Ecciano versata est, extitit" etc. Scribit item Frechtus: "Hodie, Nicolai scilicet die, Nicolaici<f1>im Sinne
+von: nicht zölibatär lebend. Der frühchristlichen Sekte der Nikolaiten wurde unter anderem Libertinismus zugeschrieben; vgl.
+Han J. W. ^#/+Drijvers,^#/- in: LThK^#'3 VII 845f.<fe> episcopi cum suis solennem missam de spiritu canent<f1>Vgl. ARCEG III/1 208, 7-12. 212,
+26-30 mit Anm. 290.^&xvgl. Winfried ^#/+Dotzauer,^#/- Anrufung und Messe zum Heiligen Geist bei Königswahl und Reichstagen in Mittelalter und früher Neuzeit, in: Archiv für mittelrheinische Kirchengeschichte 33, 1981, S. 11-44.^&x{<fe>, ut contra sanctum spiritum agant et tandem colloquium forte post
+dies aliquos incipiant.
+^$Philippus Melancthon, constantissimus et doctissimus Christi miles, dicebat michi roganti, quando nam aliquid Lutherus
+ederet, Lutherum scribere de restitutione<f1>Einige Argumente zu diesem Thema ließ Luther in seine Schrift "Wider Hans Worst"
+einfließen, die allerdings erst im Frühjahr 1541 erschien (s. WA LI 461-572, bes. 523-531).<fe>, quem librum speraret sibi ex
+Wittenberga huc mittendum. Petit autem a papistis Lutherus, ut in primis ecclesię Christi veram doctrinam et oeconomiam
+restituant, deinde effusum piorum sanguinem, postremo bona ecclesię. Ubi nactus huius libri copiam fuero, videbo, ut et
+vos habeatis. Nos expectamus, quando nam tandem adversarii velint post tot praeambula colloquium ordiri." Tantum ex Frechti literis.
+^$Legati Ulmensium<f1>Georg Besserer, Martin Weickmann und Martin Frecht (s. ADRG II/2 1061, 10-13).^&x^#/+Neuser,^#/- Vorbereitung 200; ARCEG III/1 207, 15f).^&x{<fe>, qui sunt Vormatie,
+nostro senatui scribunt<f1>Vgl. das Verzeichnis der in Memmingen liegenden und zumindest teilweise durch die Ulmer Gesandten übermittelten Berichte und Akten in: ADRG II/2 1213-1218.<fe> papistas inter se non usque adeo bene constare. Magna dissidia inter illos sunt. Nostri in
+domino arctissime conveniunt ne se iota condonaturos adversariis. Caesar supra modum sęvit adversus evangelium; in
+Brabantia sevitiam et thyrannidem eius publico edicto testatur<f1>Vgl. unten Nr. 1439, Anm.
+14.<fe>. Interim simulat nobiscum se velle inire pectus[?]<fx>^#/+eventuell als ^#/-inpectus^#/+ zu lesen, was aber
+keinen Sinn ergibt; vielleicht aus ^#/-pactum^#/+ verschrieben.^#/-<fe> Herodianum<f1>Vgl. Mt 2, 7f.<fe> etc.
+^$Dum hec scribo, <vl>363</vl> audio colloquium inchoatum, sed a Frechto nichil dum certi habeo. Expecto in diem, quid porro actum sit. Forte et tibi hec nota sunt.
+^$Vale in domino una cum sancta familia tua. Saluta nomine
+meo Leonem Iude et reliquos fratres omnes de me bene meritos.
+^$Datum Meminge, 14. decembris 1540.
+<un>Tuus Gervasius Schuͦler.
+<lz>[Adresse auf der Rückseite:] Domino et charissimo
+meo fratri Heynricho Bullingero.
+<lz>
+<vl>371</vl> [Beilage:] Ordo colloquii:
+^$Vicesima sexta novembris a prandio hora tercia ad
+prętorium a presidentibus<fx>^#/+in der Vorlage^#/- presedentibus.<fe> convocatę sunt partes
+absente domino a Granvel, et propositi sunt articuli<f1>Vgl. deren deutsche Originalfassung in: ADRG II/1 52, 12-54, 15; MO III 1176-1178, Nr. 2065.<fe>, in
+quibus futuri comprehensa colloquii forma:
+^$1. Ut electores et reliqui imperii ordines ad hoc
+ordinati colloquium singuli unum, duos aut tres deputent, a
+quibus hęc<fx>^#/+in der Vorlage^#/- hę.<fe> controversia discutiatur, ita tamen, ut
+cuiusvis status deputatis non sit tributum nisi unius vocis
+suffragium et ut disputandi nominatim iam deputentur.
+^$2. Ut regię maiestatis legati<f1>Abgeordnete König Ferdinands waren Georg von Tessingen (Bischof von Seckau), Friedrich Nausea, Johannes Cochläus, Gallus Müller und Martin Kugelin; s. u. a. ADRG II/2 958, 5-10.^&xARCEG III/1
+197, 32f.^&x{<fe> ad hoc colloquium admittantur, ita tamen, ut ęqualitas in suffragiis servetur et in reliquis potestatibus imperii, si id petatur a quoquam, adesse colloquio liberum sit.
+^$3. Quoniam in Hagnoico conventu certus
+personarum numerus et certus agendi modus pręscriptus, et
+iuxta quem institui debeat hoc colloquium, decreverunt ab
+illo non decedere.
+^$4. Quandoquidem colloquium non debet esse obligatorium
+et decisivum, statuerunt, ut per suffragiorum maiorem
+partem hic<fx>hic ^#/+am Rande nachgetragen.^#/-<fe> nihil debeat determinate concludi, sed personarum
+suffragiis certo numero ad hoc esse utendum, ut sciatur, ad
+quos pertineat, et ut certi quicquam possit ad cęsarem
+referri.
+^$5. Quod attinet ad legatos regis, statuerunt illos
+oratori cęsaris, domino a Granvella, coniungendos ita, ut
+cum illo unius tantum vocis suffragium habeant.
+^$6. Ut pari numero utriusque partibus sint notarii, sed
+ut illi iam denominentur. Item, ut cuilibet parti non nisi duo
+sint et ut 4 illi notarii sacramento astringantur, ut omnia
+fideliter annotent, quatenus in acta certa et fide digna
+referri possint. Pręterea, ut actorum copias et
+exemplaria, si qui petant, modo non extra deputatorum
+numerum, exhibeant, et ut isti nemini acta huius colloquii
+patefaciant nisi suis magistratibus. Postremo, ut nihil
+publicetur, nisi donec cęsareae maiestati de conventis et
+actis huius colloquii facta sit relatio.
+^$7. Quod ad ipsam causam pertinet, quatenus ambages
+vitentur, statuerunt, ut a protestantibus ordinibus certi
+articuli confessionis ipsorum exhibeantur, sed illi ita
+moderati, ut probabiles, ut acceptabiles esse possint,
+quatenus ad concordiam ęquis et commodis mediis veniri possit.
+^$Hos articulos adiecerunt pręsidentibus<fx>^#/+wohl irrtümlich für^#/- pręsidentes.<fe> se cum domino a
+Granvella contulisse illique hunc agendi modum probari.
+^$Ad ista ab utraque parte deliberatur. Nostri petierunt
+ipsorum articulorum copiam, dein certam horam sequentis
+diei designari, qua ad pręsentes articulos respondeant.
+<lz>[Adresse auf der Rückseite:] Ornatissimo viro
+Heynricho Bullingero, Tigurinę ecclesiae antistiti
+vigilantissimo, domino et fratri in Christo semper venerando<fx>^#/+Darunter von Vadians Hand:^#/- Meister Heinrichen
+Bullinger. Zürich. ^#/+Neben der Adresse von Bullingers Hand (Text am Rand beschädigt):^#/- Der tag zuͦ Worm[s].<fe>.
+</content>
+</letter>

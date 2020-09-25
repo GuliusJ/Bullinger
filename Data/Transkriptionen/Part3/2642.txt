@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2642">
+<brief>
+<id>16332</id>
+<nr>2642</nr> <from persid="Bullinger"/> <to persid="ErbMatthias"/> <place plid="Zürich"/> <date when="1546-10-25"/>
+<ae>Bullinger an Matthias Erb</ae>
+<od>Zürich, 25. Oktober 1546</od>
+<vo>Autograph: Basel UB, Ms Ki. Ar. 25c, Nr. 70 (früher 68), f. 90 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 39; Zit.: Jenny, in: HBGesA II 58 (A 4) </k></dr>
+<re><t>Auf Erbs drei Briefe [nicht erhalten und <qv>nr2623</qv>] gab es nichts zu antworten. Heute schreibt Bullinger dennoch, um deren Empfang zu bestätigen.</t>
+<t>Der Überbringer [...] der ersten Briefe speiste bei [Rudolf] Gwalther und reiste dann nach Baden. Bullinger traf ihn nicht, sonst hätte er sich seiner angenommen. Der jugendliche Überbringer [Johannes Jud] des letzten Briefes [<qv>nr2623</qv>] erhält ein Stipendium der Zürcher Kirche und zeigt gute Leistungen.</t>
+<t>Aus Zürich, einem nach wie vor sicheren Ort, gibt es kaum etwas zu berichten. Aber der Krieg in Deutschland macht Bullinger sehr zu schaffen. Das Anliegen des jetzt abgehaltenen Tages [der Vier protestanischen Orte] zu Zürich war es, dem [Schmalkaldischen Bund] und dem Kaiser [Karl V.] zu antworten. Da die Tagung noch nicht zu Ende ist, kann Bullinger nichts Genaueres melden. Man steht aber auf der Seite der Evangelischen. Ob jedoch die [Vier Orte] in den Krieg eintreten werden, da es Winter geworden ist, bleibt offen. Der Herr möge allen gute Entscheidungen geben!</t>
+<t>Die [fremden Truppen] haben im [Nördlinger] Ries viele Schäden durch Brandstiftungen angerichtet. Jetzt trifft das auch die Gegend von Ulm, nachdem die Kaiserlichen Donauwörth, Höchstädt, Dillingen, Lauingen, Gundelfingen und andere Orte eingenommen haben. Die [Schmalkaldener] liegen alle beim Hauptheer. Rotten des Kaisers plündern das Land, und die Ulmer Bevölkerung hat aus Angst vor einer Belagerung ihre eigenen [Liegenschaften] vor der Stadt im Wert von 100'000 Gulden niedergebrannt.</t>
+<t>Der Herr erlöse uns von dem Bösen!</t></re>
+<text>
+<div>
+<p>S. D. Ternas
+<fn>Die beiden ersten Briefe sind nicht erhalten. Der dritte Brief ist Erbs Brief <qv>nr2623</qv> vom 14. Oktober 1546.</fn> a te, Matthia venerande et plurimum dilecte frater, accepi, ad quas nihildum respondi. Et quamvis nihil in iis sit, ad quod responderi oporteat, attamen, ut intelligeres me illas accepisse, has scribo.</p>
+</div>
+<div>
+<p><zzl>zl16332-3A</zzl>Qui
+<fn>Unbekannt.</fn> posteriores attulit, pransus apud Gvaltherum, mox Badenam concessit.<zzl>zl16332-3E</zzl> Ego hominem non vidi. Alioqui nihil illi propter tuam commendationem negassem, quod modo meae potuissent praestare vires satis exiguae. <zzl>zl16332-2A</zzl>Puer, qui ultimas tuas attulit,
+<fn>Johannes Jud; s. <qv>nr2623</qv>, <qv>fn16313-3</qv>.</fn> alioqui mihi commendatissimus est. Alitur stipendio nostrae ecclesiae et specimina praebet ingenii satis felicis.<zzl>zl16332-2E</zzl></p>
+</div>
+<div>
+<p>De nostris rebus non est, quod dicam. Versamur et vivimus ut hactenus ita tute satis. Excruciat me iam bellum illud Germanicum. <zzl>zl16332-1A</zzl>Celebrata sunt his diebus hic comitia
+<fn>Das Treffen der Vier protestantischen Orte in Zürich vom 19. bis 26. Oktober 1546; s. <qv>nr2606</qv>, <qv>fn16294-1</qv>.</fn> de responsionibus dandis imperio
+<fn>Gemeint sind damit die schmalkaldischen Verbündeten. - Sie hatten sich am 26. September an die Vier Orte gewandt (s. <qv>nr2605</qv>, <qv>fn16293-1</qv>), und der Bund hatte außerdem Thomas Blarer für kurze Zeit zur Tagung nach Zürich entsandt (s. <qv>nr2636</qv>, <qv>fn16326-1</qv>; <qv>nr2644</qv>, <qv>fn16334-1</qv>).</fn> et caesari
+<fn>Karl V. - Er schrieb am 1. August an die Eidgenossen (s. dazu <a>HBBW</a> XVII 337, Anm. 13) und am 27. August speziell an die Vier Orte (s. dazu <qv>nr2606</qv>, <qv>fn16294-5</qv>).</fn> ad postulata illorum.
+<fn>Am 26. Oktober verfassten die Vier Orte eine Antwort an den Kaiser und eine weitere an den Schmalkaldischen Bund; s. <a>HBBW</a> XVII 337, Anm. 13; <qv>nr2606</qv>, <qv>fn16294-1</qv>.</fn> Et quia, dum haec scriberem, nihildum conclusum erat, nihil certi significare possum. Favent nostri piis evangelium profitentibus, an vero bellum suscepturi sint modo, dum hyemis impetus infestat et omnes copias e campo sub tecta adigit, ignoro.
+<fn>Damals befürwortete Bullinger nicht mehr solch ein Eingreifen; s. <a>HBBW</a> XVII 29-31. 498-501.</fn><zzl>zl16332-1E</zzl> Dominus concedat omnibus nobis recta iudicia. Quantum ego ex nostris intelligo, nunquam deserent causam veritatis.</p>
+</div>
+<div>
+<p>Imm Rieß sind von Walchen
+<fn>Welschen. - Meist sind damit Italiener bezeichnet. Hier aber sind wohl auch die Spanier gemeint.</fn> groß ungeh{oe}rt schaden vergangen
+<fn>geschehen. - Zu den von den kaiserlichen Truppen im Nördlinger Ries angerichteten Schäden, u.a. durch Brandstiftungen, s. <qv>nr2612</qv>,<qv>zl16301-18</qv> und <qv>fn16301-20</qv>; <qv>nr2613</qv>,<qv>zl16300-12</qv>; <qv>nr2619</qv>,<qv>zl16309-8</qv>.<zfn>fn16332-1</zfn></fn>. Die armen lüt sind j{ae}merlich verbrent. <zzl>zl16332-4A</zzl><zzl>zl16332-7A</zzl>Also wirt das land jetzt umb Ulmm j{ae}merlicher geprent und verw{ue}st von keyserischen,
+<fn>So auch im Brief Heinrich Thomanns an den Zürcher Rat vom 18. Oktober 1546 (Zürich StA, A 177, Nr. 96).<zfn>fn16332-2</zfn></fn><zzl>zl16332-4E</zzl> welche yngenommen habend Donawerd, H{oe}chstett, Dillingen, Lougingen, Gundelfingen
+<fn>Zur Einnahme von Donauwörth, Höchstädt, Dillingen, Lauingen und Gundelfingen s. <qv>nr2621</qv>, <qv>fn16311-1</qv>.</fn> und andere pl{ae}tz mee.<zzl>zl16332-7E</zzl> Die unsern ligend unzerteylt amm gwallthuffen
+<fn>am gwaltthuffen: beim Hauptheer.</fn> z{uo} scharmutzen. <zzl>zl16332-5A</zzl>Deß keysers streyffende rott
+<fn>streyffende rott: plündernde Schar; s. <a>SI</a> XI 2132f.</fn> faart darzwüschen herumb und th{uo}t dem armen land unsaglichen schaden.<zzl>zl16332-5E</zzl> <zzl>zl16332-6A</zzl>Die von Ulm, alls sy sich der bel{ae}gerung besorgt, habend sy selbs vor iren statt in 100'000 gl. wert verbrent,
+<fn>Eine Angabe aus einer für Zürich bestimmten Konstanzer Abschrift eines an Konstanz gerichteten Briefes aus Ulm vom 14. Oktober mit P.S. vom 15. Oktober (Zürich StA, A 177, Nr. 86). Am 20. Oktober wurde die Meldung von Zürich nach Basel übermittelt (<a>PC</a> IV/1 437f, Nr. 414, Anm. 1) und am 24. Oktober aus Straßburg nach Basel (ebd., 442, Nr. 419).</fn> etc.<zzl>zl16332-6E</zzl></p>
+</div>
+<div>
+<p>Dominus liberet nos a malo.
+<fn>Vgl. Mt 6, 13.</fn> Hunc supplicemus! Vale. Tiguri, 25. octobris 1546.</p>
+<un>Bullingerus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Matthiae Erbio, Rychevillanae ecclesiae concionatori venerando et dilecto suo fratri. Rychenwyler.</p>
+</div>
+</text>
+</brief>

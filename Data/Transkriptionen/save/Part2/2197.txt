@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2197">
+<nr>2197</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>15. Juli 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342, 137 (Siegelabdruck)</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 166; Zit.: Pestalozzi 255; Bouvier 71f ^&x{
+<re>Was die [am 30. Mai 1545 geschriebene] Fürbitte der helvetischen Städte [Basel, Bern, Schaffhausen, St. Germain und Zürich zugunsten der Waldenser] beim grausamen König [Franz I.] bewirkt hat, kann Vadian aus dessen Antwort [vom 27. Juni] erfahren. [Franz I.] hat die Fürbitte nicht vertragen, obwohl sie bescheiden formuliert war und der Schreiber [Werner Beyel] sich bei deren Abfassung viel Mühe gab. Dies belegt die beigelegte Abschrift. Die Mächtigen jedoch bleiben unantastbar. [Beyel] macht sich Vorwürfe, doch gibt es keinen Grund dazu. [Gott], den diese Leiche [Franz I.] verfolgt, lebt im Himmel!
+-^#. Wie glücklich sollten sich die Helvetier angesichts ihrer Freiheit schätzen! Könnten sie bloß aus dieser Begebenheit lernen, näher zusammenrücken und sich vor den Fürsten hüten!
+-^#. Vadian soll für die Heimgesuchten beten.
+-^#. Aus Worms gibt es nichts Neues. Der bedrohliche [Karl V.] tritt wider den Herrn und seinen Gesalbten auf.
+-^#. Grüße von den Bürgermeistern [Hans Rudolf Lavater und Johannes Haab] und dem Stadtschreiber [Beyel].</re>
+<dra>[Gedruckt: Vadian BW VI 437, Nr. 1408.]</dra>
+^&x<tx>S[alutem] d[ico]. Quid effecerit pia Helvetiorum intercessio<f1>EA IV 1/d 479ff, Nr. 225.<fe> apud regem Francię<f1>Franz I.<fe>
+truculentissium, intelliges ex literis eius ad christianas urbes.
+Indigne fert scriptum, quo tamen nihil est modestius. Usus est scriba noster<f1>Werner Beyel.<fe>
+artificio et fide optima, quod ipse testaberis, ubi legeris apo­gra­phum.
+Caeterum cum tanguntur montes, fumigant. Dolet optimo viro scriba[e] regis intemperies.
+Metuit, ne quid ipse neglexerit; sed merito mente est tranquilla, cum diligenter, prudenter et fideliter hic egerit.
+Truculentus est alioqui regis animus ac mitigari nescit. Sed vivit in coelis, quem putridus ille et cadaverosus res persequitur.
+O felicem Helvetiam, si suam felicitatem et libertatem tanti aestimaret, quanti est!
+Unicum hoc regis exemplum doceret nos, ut arctius coniungeremus nos deo et caveremus nobis tanquam a publica peste a principibus.
+^$Commendo tuis tuorumque precibus nihilominus c[aus]am afflictorum. Dominus Iesus consoletur illos et servet in regnum suum aeternum.
+^$A Wormatia nihil habemus memoria dignum. Spirat et caesar minas et caedes contra deum et Christum eius.
+^$Tu vale in Christo et rescribe. Salutant te consul uterque et scriba quoque urbis.
+^$Tiguri, 15. iulii anno 1545.
+<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. d[octori] Ioachimo Vadiano, consuli Sangallensi dignissimo, domino suo semper colendo.^&x{
+</content>
+</letter>

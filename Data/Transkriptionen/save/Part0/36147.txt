@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="36147">
+<nr>36147</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Haller</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>17. Februar 1566</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand (17. Jh.)<fx>^#/+Mit Randbemerkung und Unterstreichungen von Johann Heinrich Hottinger.^#/-<fe>: Zürich ZB, Ms F 46, 608</vo>
+<vo>Simler: Ms S 112, 89.</vo>
+<dr>Ungedruckt</dr>
+<re></re>
+<tx>S[alutem] d[ico].
+^$Gratias ago domino deo nostro, quod negotium hoc nostrum ita ipse temperat, ut omnia cedant feliciter. Utinam et fausta et
+optata ferat Gvaltherus! Non est, quod multis repetamd. Bezae legationem et petitionem. Scis enim omnia. Receptus est sponte a
+nostris et coniungendi nobis ministri[?] ec­clesi(a)e Genevensis, maxime quod vobis Bernatibus sint coniuncti foedere.
+Quod autem attinet appendicem Gallicanarum ecclesiarum, visum est nobis non adiiciendam, ne detrimento sit ecclesiis. Indignum
+praeterea videtur, ut regni vetustissimi et potent[issimi] duntaxat a nobis fiat mentio per appendicem. Satius[?] est illas
+ecclesias edere scriptum proprium, quo testificentur bene eis consentire nobiscum.
+<lz>[Ohne Adresse.]<fx>^#/+Datum, Unterschr.ift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt:^#/- Idem eidem. Tiguro Bernam. 17. februarii 1566.<fe>
+</content>
+</letter>

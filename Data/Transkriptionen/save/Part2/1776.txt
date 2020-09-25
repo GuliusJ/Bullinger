@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1776">
+<nr>1776</nr>
+<correspondents>
+	<originator>Martin Hentius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Wittenberg</place>
+	<date>25. August 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1392r.-v. (Siegelspur)</vo>
+<re>Die Phrase [Plinius'd. Ä.] "aus Afrika immer etwas Neues" [Adagia, 3, 7, 10 (LB II 886)] trifft sehr gut auch auf Wittenberg zu, denn es vergeht kaum ein Tag, der nicht neue Nachrichten oder unvermutete Begegnungen mit sich bringt; vor Kurzem ist ihm durch Zufall ein Papier in die Hände gelangt, [in dem sich Urbanus Rhegius negativ über die Werke der Schweizer und oberdeutschen Reformatoren äußert (vgl. ^#/+Reinerth,^#/- Hentius 189)], was erklärt, weshalb die Werke Bullingers und seiner Kollegen in Wittenberg nicht verkauft werden dürfen;
+legt Bullinger eine schriftliche Erwiderung nahe, ohne ihn drängen zu wollen.
+Sendet des Weiteren die "Responsio" Philipp Melanchthons ["Responsio ... ad scriptum quorundam delectorum ...", VD 16 M 4134-4139], die über den Kölner [Reformationsversuch] vollständig informiert und die nach der Lektüre zusammen mit dem Papier [von Rhegius] an Oswald Myconius weitergesandt werden soll; er hätte auch Myconius, dem er geschrieben hat, ein Exemplar geschickt, wenn er nicht durch Geldknappheit daran gehindert worden wäre; aus demselben Grund soll ihn Bullinger bei Otto Werdmüller entschuldigen, dass er ihm nicht wie versprochen ein Exemplar von Melanchthons "Catechesis puerilis" [VD 16 M 2629] sendet; hat aber Christoph Froschauer gebeten, sich darum zu kümmern. Grüße, besonders an [Konrad] Pellikan und [Theodor] Bibliander.
+Hofft auf regen Briefwechsel und bittet um Weitersendung des beigelegten Briefs an seinen Landsmann Thomas Siebenbürger aus Hermannstadt nach Stein [am Rhein] sowie um Bestellung von Grüßen an Laurenz Siebenbürger, sofern dieser noch in Zürich weilt; er ist Kürschner und hat sich bei Bullingers Bruder [Johannes] aufgehalten.</re>
+<tx>[Gedruckt: ^#/+Reinerth,^#/- Hentius 195f, Nr. 4.]
+</content>
+</letter>

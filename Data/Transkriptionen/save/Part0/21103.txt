@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="21103">
+<nr>21103</nr>
+<correspondents>
+	<originator>Pier Paolo Vergerio</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Vicosoprano</place>
+	<date>30. April 1551</date>
+</space_time>
+<vo>Zürich StA, E II 356, 419.</vo>
+<dr>Gr. I, S. 200.</dr>
+<re></re>
+<note></note>
+Orig. Aut.
+Clarissime Bullingere, en tibi Massarium illum, qui
+epistolam ad te scripserat, quem carissimum habeo. Tu illum
+suscipe, frater, et fove, quantum potes, una cum socio,
+itidem pio viro et propter evangelium profugo. Vale et me
+propediem expecta et pro me roga patrem domini nostri Iesu
+Christi. Saluto ecclesiam et scholam.
+Vicosoprani,  30. aprilis 1551.
+            Vergerius.
+Clarissimod. [domino] Henrico Bullingero,  Tiguri.
+</content>
+</letter>

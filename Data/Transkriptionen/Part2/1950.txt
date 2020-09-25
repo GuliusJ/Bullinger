@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1950">
+<nr>1950</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee fn=1>[Bullinger]</addressee>
+	<note fn=1>Gwalther hat die drei Distichen (in der Reihenfolge: das erste, das dritte und das zweite) in seine handschriftliche Sammlung eigener Gedichte 1543-1582 (Zürich ZB, Ms D 152, 60r^&xverzeichnet bei Rüetschi, RGM 28. 28-30^&x{) eingetragen und dort im Titel den Empfänger genannt: "Sequentia disticha in gratiam Bullingeri composita sunt". Diesen Hinweis wie auch die nachfolgenden Anmerkungen 2, 4 und 10 verdanken wir Herrn lic. phil. Kurt Jakob Rüetschi.</note>
+</correspondents>
+<space_time>
+	<place>[Zürich</place>
+	<date>Spätsommer/Herbst 1544]</date>
+	<note>Von Gwalthers sich damals stark wandelnder Schrift her um 1544; zweifellos während der Arbeit an der Zwingliausgabe (s. unten Anm. 10); in der erwähnten Gedichtsammlung (s. oben Anm. 1) stehen die drei Gedichte nach einem, welches auf den 22. Juni 1544 datiert ist, und vor einem auf ein Bild Ambrosius Blarers, welches dieser am 8. Oktober 1544 in undeutlichen Anspielungen zu verdanken scheint (Blarer BW II 305f, Nr. 1132; unten Nr. 1994, 17f).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 276, 37 (Siegelspur<fx>^#/+Als sehr verblasster Kreis.^#/-<fe>)</vo>
+<dr>Gedruckt: Kurt Jakob ^#/+Rüetschi,^#/- Bildgedichte Rudolf Gwalthers. Eine Quelle für Nachweis und Datierung von Zürcher Kunstwerken, in: Von Cyprian zur Walzenprägung. Streiflichter auf Zürcher Geist und Kultur der Bullingerzeit. Prof. Dr. Rudolf Schnyder zum 70. Geburtstag, hg. v. Hans Ulrich Bächtold, Zug 2001, 185</dr>
+^&xVgl. G's Gedichtsammlung, Zürich ZB, Ms D 152, 60r.^&x{
+<re>Nachdem er lange nichts gedichtet hat, fällt es ihm schwer, Verse zu machen; nachfolgend zwei den Musen mühsam abgerungene Distichen. Fällt ihm Besseres ein, wird er es Bullinger schicken; das mühevolle Übersetzen aus dem Deutschen [ins Lateinische von Zwinglis Schriften] hat sein Empfinden für Poesie getrübt. Teilt noch ein weiteres, soeben entstandenes Distichon mit.</re>
+<tx>S. Vere nunc dici experior usu parari artem<f1>Vgl. Otto 359, Nr. 1839.<fe>. Nam
+cum intra menses aliquot a carmine scribendo prorsus
+abstinuerim<f1>Aus den Jahren 1543 bis Anfang 1545 finden sich auffallend wenige Gedichte in Gwalthers Gedichtsammlung (s. Anm. 1).<fe> nec interim poetarum lectione exercitatus
+sim, Musas plus quam tenues et exhaustas nunc reperio, eo
+steriliores tamen, quod argumenti limitibus angustioribus
+inclusę nullam latius vagandi licentiam consequi possunt.
+Extorsi tamen vel invitis hęc duo disticha:
+^$<lz>Expugnata tubis Iericho est<f1>Jos 6, 20.<fe>: en<fx>^#/+Vor^#/- en ^#/+gestrichenes^#/- sic.<fe> dęmonis urbem
+^$ vox evangelii tetraque regna<f1>Dan 7f; Apk 13.<fe> ruit.
+^$<lz>Baalista<f1>Vgl. Baalita: Anbeter von Baal; s. Hoven s.v. Baalita.<fe> pereunt; manet insuperabile verum,
+^$ ut nulla Helias vincier<f1>Dichterische Nebenform für den Infinitiv Präsens Passiv ^#/+vinci^#/-.<fe> arte potest<f1>1Kön 18, 18-40.<fe>.
+^$<lz>Quod si quid his commodius inciderit in animum, curabo,
+ut habeas. Molestus certe ille transferendi Germanica
+labor<f1>Gwalther übersetzte damals deutsche Schriften Zwinglis ins Lateinische für die vierbändige Ausgabe "Zvinglii opera", Zürich 1544/45; s. Finsler 75, Nr. 105a.^&xRüetschi, RGW 11.1'1-4^&x{<fe>, quo iam exerceor, fere omnem poesim animo nostro
+expulit. Vale.
+<un>Rod. Gualth. totus tuus.
+<lz>Dum hęc scribimus, en aliud mente concipitur:
+^$<lz>Quid mirum, cecidit Iericho, quod voce tubarum,
+^$ cum cadat a verbo dęmonis imperium?<f1>Mk 5, 1-13 par.; Lk 9, 1; 10, 17.<fe>
+</content>
+</letter>

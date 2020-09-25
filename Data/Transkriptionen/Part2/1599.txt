@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1599">
+<nr>1599</nr>
+<correspondents>
+	<originator>Die Pfarrer</originator>
+	<originator>Lehrer von Zürich</originator>
+	<addressee fn=1>Meier</addressee>
+	<addressee>Rat von Biel</addressee>
+	<note fn=1>Vgl. HBBW XI, S. 168, Anm. 1.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>22. Januar 1542</date>
+</space_time>
+<vo>Autograph von Bullingers Hand: Biel Stadtarchiv, 120, CXXX, Nr. 80 (Sie­­gel)</vo>
+<dr>Ungedruckt</dr>
+<re>Haben das Schreiben der Bieler erhalten [Nr. 1598] und den Tod [Johannes] Rhellikans und die Bitte um einen Nachfolger mit Trauer zur Kenntnis genommen; gerne hätten sie bereits mit diesem Boten den Bielern ihren Entschluss mitgeteilt, da sie aber mit dem Rat Rücksprache nehmen wollen, wird sich
+ihr Entscheid verzögern; sie behandeln die Angelegenheit aber mit Nachdruck und werden die Bieler in Kürze informieren.
+</re>
+<tx>Gnad und frid durch unsern herren Jesum Christum, mitt
+erbietung unsers früntlichen gruͦßes und willigen diensten
+ü[wer] w[yßheyt] bevoran<f1>zuvor.<fe> bereyt.
+^$Fromm, vest, ersamm, fürsichtig und wyse, insonders
+günstig, lieb herren, uwer wyßheyt schriben<f1>Nr. 1598.<fe>, belangend unsers
+fürgeliepten bruͦders Rhellicani todt und begären eins
+anderen dappffren<f1>tüchtigen.<fe> und getrüwen predicanten, habend wir
+empfangen und mitt grossem leid geläsen und vernommen.
+Hettend üch gern ylends und by disem botten<f1>Unbekannt.<fe> ein entliche<f1>definitive.<fe>
+antwurt zuͦgeschriben, sind ouch dorumb by einandren
+gewäsen und geradtschlagt. Diewyl aber die handlung unns
+schwerr, wir sy ouch hinder unsern herren und one iro radt
+und hilff alein nitt<fx>nitt ^#/+über der Zeile nachgetragen^#/-.<fe> uußfuͤrren mögind und deßhalb wyter
+noch mitt inen radtschlagen werdint, habend wir üwern botten
+dißmols abgefertigt mitt gägenwürtiger geschrifft, u. w.
+hiemitt verkundent, das wir allen unsern müglichen
+und getrüwen dienst und flyß hierinn uͤben und u. w.
+in kurtzem ein antwurt wüssen lassen wöllend.<f1>Das Schreiben, in dem die Zürcher ihren Entschluss zur Neubesetzung der Bieler Pfarr- und Schulmeisterstelle mitteilten, ist nicht erhalten, vgl. aber das Dankschreiben Biels (unten Nr. 1615).<fe> Dann
+wo wir uch in trüwen gedienen möchtend, werend wir gar
+willig und geneigt. Gott, der allmächtig, wölle u. w.
+in sinen gnaden trüwlich erhallten.
+^$Datum Zürych, sontags nach Sebastiani, was 22. ianuarii,
+anno 1542.
+<un>U. w. willige
+<un>und gantz geneigte
+<un>pfarrer, predi--
+<un>canten und lä--
+<un>ser,
+diener der
+<un>kylchen Zürych.
+<lz>[Adresse auf S. 4 des Doppelblattes<fx>^#/+S. 2f unbeschrieben. Neben der Adresse ein Regest von späterer Hand.^#/-<fe>:] Den frommen,
+ersammen, fürsichtigen und wysen meygernn und radt der statt
+Byell, iren insonders günstigen, lieben herrenn.
+</content>
+</letter>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1631">
+<nr>1631</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>15. Mai 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 241 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 98</vo>
+<dr>Ungedruckt</dr>
+<re>Bedauert, dass der Sohn des Quirinus von Leiden mit seinem Vater durch die Lande zieht, und regt an, ihm in Zürich
+eine seiner Begabung entsprechende [Ausbildungsmöglichkeit] zu verschaffen. Es scheint, dass der französische [König Franz I.],
+Venedig und Papst [Paul III.] mit dem türkischen [Sultan Suleiman I.] einig sind; der Franzose soll den Waffenstillstand
+mit Kaiser [Karl V.] aufgekündigt haben. Ein vornehmer Mann aus Colmar erzählte über seinen Freikauf aus türkischer Sklaverei
+durch französische Gesandte. Die Türken sollen Buda und Pest zerstört und die Festung uneinnehmbar gemacht haben. Gruß.
+</re>
+<tx>S. Dolet mihi, quod Quirinus<f1>Die Rede ist vom Buchhändler Quirinus von Leiden.<fe> filium suum<f1>Von den aus dem
+Kirchenbuch des Großmünsters (Zürich Stadtarchiv, VIII.C. 1)
+bekannten sieben Kindern des Quirinus von Leiden (vgl. die Exzerpte Erhard Dürstelers, ebd., VIII.D. 5.a, s. v. "Leyden") kommen der am 14. April 1532 getaufte Konrad und der am
+8. Februar 1534 getaufte Melchior in Frage.<fe> ita circumducit; videtur indolis<fx>^#/+Vor^#/- indolis ^#/+ein gestrichenes, unlesbares Wort.^#/-<fe> non
+malę, si recte institueretur. Modo mirabili his diebus ingenium eius exploravi; reperi non paulo patre prudentiorem.
+Novit egregie, quę patrem dedecent, et libere corripit; si tamen ita manserit, actum esse de ipso vereor. Annon locus est
+aliquis apud vos, qui queat illi contingere? Quę dico,
+non habent aliam causam, quam ut videas adfectum meum erga
+puerum istum. In unica coena talis visus est; forsitan alius
+est, quam adparuerit, id quod tu melius nosse potes. Iudicio
+tuo subiicio, qualisqualis est.
+^$Nova nulla sunt, nisi, quod suspicio est Gallo<f1>König Franz I. von Frankreich.<fe>, Venetis et papę<f1>Papst Paul
+III.<fe> convenire cum Turca<f1>Sultan Suleiman I. - Ganz ähnlich äußerte sich Myconius bereits am Vortag gegenüber
+Vadian (s. Vadian BW VI 127). Tatsächlich verhandelte Frankreich erfolgreich mit dem Sultan über gemeinsame
+militärische Aktionen gegen Habsburg, während Venedig, bestärkt vom Papst, diesem Bündnis fern blieb und seine
+Neutralität bekräftigte; vgl. Ion ^#/+Ursu,^#/- La politique orientale de François I^#'e^#'r (1515-1547), Paris 1908, S.
+138-140; ^#/+Cardauns^#/- 212f. 215f.<fe>. Quę res quas turbas excitatura foret, quis non videt? Illud pro vero narratur:
+Gallum foedus ictum cum cęsare in decennium renunciasse.<f1>Entgegen diesem Gerücht war der am 18. Juni
+1538 in Nizza zwischen Kaiser Karl V. und König Franz I. geschlossene Waffenstillstandsvertrag (vgl. HBBW VIII, S. 144,
+Anm. 4) formell noch in Geltung, während der König bereits zum Krieg rüstete; vgl. ^#/+Cardauns^#/- 214f. 218f.<fe>
+^$Venit vir nobilis<f1>Unbekannt.<fe> in civitatem nostram his diebus, qui dixit se captum a Turca cum Iudęo et camelo
+traxisse aratrum. Pręteriisse legatos Gallos, qui erant profecturi ad Turcam<f1>Von welcher der französischen
+Gesandtschaften nach Konstantinopel die Rede ist, bleibt offen.<fe>, et rogasse ab equis, quisnam et unde esset.
+Respondisse se christianum esse et Colmariensem; solvisse
+igitur mox illos coronatos, puto, sexaginta ac redemisse.
+^&x Abrechnung von Rincón über Freikauf von christl. Sklaven: Négociations du Levant I 482.^&x{
+^$Rumor est praeterea Turcam demolitum funditus Budam et
+Pestam, arcem vero in quinquennium cibo et potu communiisse
+reddidisseque insuperabilem. Tantilla nolui te ignorare.
+^$Vale in domino cum tuis et fratribus omnibus.
+^$Basileę, raptim, 15. maii anno 1542.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, in domino suo.
+</content>
+</letter>

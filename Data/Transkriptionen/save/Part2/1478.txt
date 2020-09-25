@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1478">
+<nr>1478</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>14. März 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 362, 42 (ohne Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 54</vo>
+<dr>Ungedruckt</dr>
+<re>Der Drucker [Mathias Apiarius] hat entgegen einer Verfügung den [von Bucer bearbeiteten] Katechismus [Meganders]
+nachgedruckt, während die [zwinglische] Gegenpartei einen Neudruck der Agende veranlasst hat, bei dem der originale
+Wortlaut beibehalten wurde; wenn Bullinger bald schreibt, könnte dies viel bewirken. Es besteht Hoffnung, die Neuerer mit Hilfe Zürichs loszuwerden.
+</re>
+<tx>Gratia et pax a deo per Iesum Christum etc.
+^$Nichil habeo, quod scribam, quoniam id, de quo
+percunctabaris aliquando, videlicet quid imprimeretur etc.,
+tunc respondi,<f1>Am 11. Februar, s. oben Nr. 1463, 21-25.<fe> quod calcographus<f1>Mathias Apiarius.<fe> iussus esset subsistere. Sed interim nescio quo consilio fretus perrexit et
+catechismum excussit.<f1>Vgl. Rainer ^#/+Henrich,^#/- Ein Berner "Kunzechismus" von 1541. Bucers verloren geglaubte Bearbeitung
+des Meganderschen Katechismus, in: Zwa XXIV, 1997, S. 81-94. - Ein weiteres Exemplar dieser Ausgabe findet sich in der
+Universitätsbibliothek Edinburgh (freundlicher Hinweis von Dr. Thomas Wilhelmi, Heidelberg).<fe> At pars altera iussit quoque,
+ut libellus agendarum statim imprimeretur, qui veterem modum loquendi observat,<f1>Zum Streit um eine Formulierung in der Berner Abendmahlsliturgie s. HBBW IX, S. 238 und 252, 15-18.
+Zur Neuausgabe des "Cancell unnd Agend büchly der Kilchen Bärn" von 1541 vgl. Adolf ^#/+Fluri,^#/- Mathias Apiarius, der erste Buchdrucker Berns (1537-1544), in: Neues Berner
+Taschenbuch auf das Jahr 1897, Bern 1896, S. 232f; Hans ^#/+Kaufmann^#/- / Peter ^#/+Nabholz,^#/- Verzeichnis
+schweizerischer Inkunabeln und Frühdrucke, Fasz. III, Zürich 1969, S. 13, Nr. 1054.<fe> quapropter nos una ex officina et calidum et frigidum<f1>Vgl. Adagia, 1, 8, 30 (LB II 309f).<fe> evulgabimus. Sed id unice quaeso, ut possim abs
+te impetrare, quatinus tua scripta non differas ad eos, de
+quibus admonitus es,<f1>Ritter erwartete offenbar briefliche Unterstützung in der Auseinandersetzung mit seinen theologisch
+mehr von Bucer geprägten Amtsbrüdern (besonders Sebastian Meyer und Peter Kunz); vgl. oben Nr. 1468, 2-42.<fe> quoniam^&x wegen Indikativ kaum quum ^&x{ tu non<fx>non
+^#/+über der Zeile nachgetragen.^#/-<fe> credis, quantum ecclesie nostre utilitatis adferre possis.
+^$Vale<fx>^#/+In der Vorlage^#/- Valę.<fe>, ex [Berna]<fx>Berna ^#/+fehlt in der Vorlage.^#/-<fe>, 14. martii 1541.
+^$Res se optime haberet, modo vos vestram operam adiungeretis;
+non dubito brevi fore, ut a novatoribus illis liberaremur etc.
+<un>Erasmus Ritter,
+<un>ex animo tuus.
+<lz>[Adresse auf der Rückseite:] An Meister Heinrich Bullinger, predicanten zuͦ Zürich, minem lieben herrnn und guͦten fründt.
+</content>
+</letter>

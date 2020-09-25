@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1975">
+<nr>1975</nr>
+<correspondents>
+	<originator fn=1>Schultheiß</originator>
+	<originator>Rat von Bremgarten</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Das Schultheißenamt in Bremgarten bekleidete 1544 Niclaus Honegger; s. Bremgarten StA, Bücherarchiv 31: Ämterbuch 1472, 1494 fragmentarisch bis 1546, 1544 I; ferner Walther Merz, Inventar des Stadtarchivs Bremgarten, Aaarau 1910, S. 46, Nr. 31.</note>
+</correspondents>
+<space_time>
+	<place>Bremgarten</place>
+	<date>6. September 1544</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen von anderer Hand.^#/-<fe>: Zürich ZB, Ms F 80, 98, Nr. 57 (Siegelspur)</vo>
+^&xKopie: Zürich ZB, Ms S 55, 164^&x{
+^&x[prov. Vorlage für Computer-Eintrag! u oder uͦ, t oder tt unklar!]^&x{
+<dr>Ungedruckt</dr>
+<re>Bitten Bullinger um Angaben von Zins und Einkommen der Prädikatur bzw. der [Bullinger-] ^@+Pfründe, da man nach dem Tod des letzten [Bremgarter] Prädikanten Balthasar Ös vergeblich hoffte, den Pfrundzinsrodel zu finden.
+</re>
+<tx>Unnser fründtlich dienst unnd alles guͦtz zuͦvor.
+^$Ersamer, wolgelerter, besonders lieber her, alls unnser
+vordriger predicant, her Balthass[ar] Öß<f1>Zu Balthasar Ös (Oes) ist nichts Weiteres bekannt.<fe>,
+mit tod abganngen,
+und daruff inn siner verlasßnen erbschafft gehanndlet worden,
+ist mann inn hoffnung gesin, der<fx>^#/+Vor^#/- der ^#/+zu ergänzen:^#/- daß.<fe> pfruͦnd zinßrodell<f1>Der Pfrundzinsrodel der Bullingerpfründe ist nicht überliefert. Die Bullingerpfründe, die nur bis 1531 greifbar ist, war vermutlich schon etliche Jahre vorher mit der Helfereipfründe vereinigt worden; s. Paul ^#/+Hausherr,^#/- Von den Kirchen und Kapellen, den Konventen und Pfründen im alten Bremgarten, in: Bremgarter Njbl., 1976, S. 76; Eugen ^#/+Bürgisser,^#/- Geschichte der Stadt Bremgarten im Mittelalter. Beiträge zur Geschichte einer mittelalterlichen Stadt, Aarau 1937, S. 117-119. 124f.<fe>
+funden werden solte; so aber nit, unnd dann wir gentzlichen
+achtend, jetzmal by nyemandem baß<f1>besser.<fe> zuͦerkondigen sin dann an
+üch, was gedachter pfruͦnd jerlich zinß und inkomen
+sygent<f1>seien.<fe> etc., diewyl und ir die vornacher ouch zuͦ lechen
+gehept hand<f1>da ihr diese vorher (früher) auch inne gehabt habt; versehen habt.<fe>, lanngt derhalb an üch unser gar fründtlich beger
+und pit, ir wellint uns zuͦgefallen so wol thuͦn,
+doch der dingen, was, wievil, ouch wo und uff wem, ernemmpte
+predicatur, ir renndt, zins und güllt etc., alls ir si noch inn
+versechunng gehept habe<f1>sie noch inne gehabt habt; versehen habt.<fe>, so fürderlichest es sin mag,
+eygenntlich<f1>genau.<fe> erinnern, und dannathin uns alles deß ir hierumb
+noch inn wüsßen tragendt, in einem register oder rodel
+guͤtlichn berichten<f1>Eine Antwort Bullingers ist nicht überliefert.<fe> und also hierinn dermaß bewysen, alls
+unser guͦt verthruwen zuͦ üch stat. Wo wir dann solichs
+umb üch könnend günstlich beschulden<f1>wohlwollend vergelten.<fe> unnd verdienen, wellen
+wir uns gantz willig erzeign, und usserthalb dem sollend
+ir üch sunst ouch alles guͦtens zuͦ uns getrösten<f1>und außerdem sollt ihr alles Gute von uns erhoffen dürfen.<fe>. Damit
+gott wol bevolchen.
+^$Datum sampstags vor Felicis et Regule anno etc. 1544.
+<un>Schulltheis und Rath
+<un>ze Bremgartten.
+<lz>[Adresse auf der Rückseite:] Dem
+ersamen, wolgelerten hern Heinricus Bullingern, öberstem
+predicanten der statt Zürich^&x^#/+Zweiter Strich über dem u zur Kennzeichnung des Umlauts in der Vorlage sehr stark verblasst.^#/-^&x{, unnserem besonndern lieben
+hern.
+</content>
+</letter>

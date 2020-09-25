@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="763">
+<correspondents>
+	<originator>Martin Bucer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Strassburg</place>
+	<date>11. März (*1536*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 348, 392 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Ist hoch erfreut über Bullingers Schreiben (*Nr. 748 (und 753?)*).
+Luther wurde (*über das Ergebnis der Basler Tagung*) unterrichtet, doch
+steht seine Antwort noch aus. Capito hat wegen der Lehrstelle für
+einen Sohn (*Christoph Klausers*) bereits geschrieben; bei jenem
+Apotheker, den Bucer bevorzugt, ist erst im September ein Platz frei.
+</statue>
+<content>
+Gratia et pax, observande et charissime Bullingere.
+<p>Dici non potest, ut exhilararint nos literae tuae+2. Pergite hac via; domini est, ne dubitetis. Nos Luthero omnia+3, sed propter itineris longitudinem nondum potuimus recipere responsum+4. Vulgus utrinque non
+semper sapit. Sed verum est illos plus insanire, nec enim dum cum vulgo
+actum, quia cum ducibus nondum transactum est. Sustineamus opus domini.
+Spero, quod tantopere expetis, te brevi habiturum+5.</p>
+<p>Capito, puto, pridem de filio d. doctoris medici scripsit+6. Habet quendam pharmacopolam+7, qui illum recipere velit, sed pacisci, cum viderit. Alius quidam+8 hac arte potentior recipiet eum, sed ad
+septembrem, et hic plus a pietate est; alter, ni fallor, vita nondum
+probavit se valde intelligere Christum. At religio primum in omni vita.</p>
+<p>Saluta plurimum totum illic sanctorum chorum, Leonem+9, Pellicanum, Bibliandrum et reliquos.</p>
+<p>Arg(*entorati*), 11. marcii.</p>
+<signature>
+M. Bucerus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Eximio Christi servo M. Heylrycho
+Bullingero, symmystae et fratri suo observando. Tiguri.
+</address>
+</content>
+<note>
++1>Der Zusammenhang mit den Briefen Nr. 748, 753 und 762
+(vgl. unten Anm. 2 und 6) erlaubt eine zweifelsfreie Datierung.
++2>Oben Nr. 748 (und 753?).
++3>Bucer und Capito sandten unmittelbar nach ihrer Rückkehr vom
+Basler Konvent einen Bericht über die erzielte Einigung
+an Luther; s. WA Briefwechsel VII 357-359, Nr. 2293; vgl.
+<print>
+Köhler,  ZL II 416f.
++4>Luther antwortete wegen Krankheit erst am 25. März. Bucer
+erhielt den Brief (WA Briefwechsel VII 378f, Nr. 3001) am 11.
+April in Augsburg.
++5>Bullinger hoffte auf ein freundliches Schreiben aus Wittenberg;
+vgl. oben Nr. 748, 12f. 16f; 753, 19f.
++6>Siehe oben Nr. 762, 1-11.
++7>Unbekannt.
++8>Unbekannt.
++9>Leo Jud.
+;----------------------------------------------------------------------
+</print>
+</note>
+</letter>

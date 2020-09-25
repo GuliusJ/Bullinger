@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="23219">
+<nr>23219</nr>
+<correspondents>
+	<originator>Johannes Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>28. Oktober 1553</date>
+</space_time>
+<vo>Zürich StA, E II 359, 2898.</vo>
+<dr>Ep.Calv. 1810 (XIV, 629f)</dr>
+<re></re>
+<note></note>
+S.  Nihil habeo omnino quod nond. Zwinglius ore tibi
+referre possit. Remitto tibi literas Baionensis episcopi,
+versuti et callidi hominis, et pro illarum communicatione
+ago tibi gratias. Exspecto quid de Serveti causa
+decreveritis. Oro ut mature nobis hoc communices. Bene vale
+cum tuis omnibus quum domesticis, tum fratribus, ac in opere
+domini collaboratoribus. Salutant te Musculus et nostri.
+Bernae  28. octobris 1553.
+Hallerus tuus.
+Clarissimo virod. Heinrycho Bullingero Tigurinae
+ecclesię
+pastori fidelissimo venerando suo domino ac compatri
+charissimo.
+</content>
+</letter>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2566">
+<brief>
+<id>16257</id>
+<nr>2566</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 4. September 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 247 (neu: 265) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 120</k></dr>
+<re>Die Briefe von Bullinger und [...] trafen zu einem äußerst passenden Zeitpunkt ein! Denn einige Basler Stadtoberhäupter hatten wegen schrecklicher Gerüchte schlaflose Nächte. Zuerst hieß es, dass ein Kampf stattgefunden hätte, der zugunsten des Kaisers [Karl V.] ausging; dann, dass am 29. August von beiden Heeren 40'000 Mann gefallen wären, wobei Landgraf [Philipp von Hessen] gesiegt hätte. Die zweite Fassung war schon besser, löste aber wegen der großen Zahl der Toten trotzdem Bestürzung aus, da ja die Kaiserlichen ihre Verluste leicht ersetzen können.
+<t/>Einem Italiener [...] zufolge sollen nämlich in Italien 160'000 Soldaten für den Kaiser ausgehoben worden sein. Die dazu von Bullinger übermittelte Version wird wohl schon einem zweiten Stadium dieser Nachricht entsprechen.
+<t/>Es gibt nicht Grausameres und Verlogeneres als das kaiserliche Ächtungsschreiben gegen die frommen Fürsten [Johann Friedrich von Sachsen und Landgraf Philipp von Hessen] und die Ihren, so dass man sich fragt, wer diese sechs Bogen Papier lesen soll. Der Hochmut des Teufels ist nichts dagegen! Und das grausame Wüten der "Wölfe" [Bischöfe] unter den Schafen ist ein Kinderspiel, verglichen mit der blutrünstigen Ächtung seitens des tyrannischen Kaisers, die keinen gerechtfertigten Grund hat! Gott aber wird das rächen. Christus verleihe Mut zum Widerstand!
+<t/>Bullingers Buchgeschenke [Lukaskommentar] kann Myconius leider nur mit einem Dank vergelten.
+<t/>Gruß, auch an Rudolf Gwalther.</re>
+<text>
+<p>S. Quam in tempore misistis literas!
+<fn>Nicht erhaltene Briefe von Bullinger und einer unbekannten Person.</fn> Nam rumor sparserat tam horrenda, ut e capitibus nostris quidam noctes agerent insomnes. E duobus prior
+<fn>Das erste Gerücht.</fn> nunciarat conflictum esse et victoriam mansisse apud c{e}sarem
+<fn>Karl V.</fn>. Posterior
+<fn>Das zweite Gerücht.</fn> die solis proxima
+<fn>29. August. - Zu den Kämpfen dieses Tages s. <qv>nr2560</qv>,<qv>zl16250-13</qv>; <qv>nr2561</qv>,<qv>zl16252-5</qv>; <qv>nr2563</qv>,<qv>zl16254-4</qv>.</fn> cecidisse ex utroque exercitu millia 40 et victorem per dominum esse Hessum
+<fn>Landgraf Philipp von Hessen.</fn>. Hic quamvis esset acceptior, turbavit tamen numerus occisorum, et quod adversarii habent, unde numerum suum suppleant.</p>
+<p><zzl>zl16257-1A</zzl>Fertur a quodam Italo
+<fn>Unbekannt.</fn>, quod viderit paucis ante diebus passim per Italiam de novo milites collectos 160'000 in subsidium c{e}saris. Equidem, quod tu scribis,
+<fn>Etwa so, wie Bullinger dies an Blarer gemeldet hatte; s. <qv>nr2562</qv>,<qv>zl16253-6</qv>.</fn> arbitror esse, quod rumor adtulit posterior.<zzl>zl16257-1E</zzl></p>
+<p>Venit huc tandem excidium c{e}sareum
+<fn>Das Ächtungsschreiben des Kaisers vom 20. Juli 1546; s. <qv>nr2548</qv>, <qv>fn16237-6</qv>.</fn> bonorum ac piorum principum
+<fn>Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen.</fn> et omnium, qui eis aliquo modo adh{e}rent, quo interdixit ipsis aqua et igni. Crudelius nemo vidit unquam quicquam. Sex arcus papyri implentur
+<fn>Eine Ausgabe, die aus sechs nicht gefalteten Blättern (auf sechs Bogen also, entsprechend der Angabe "non forma libelli") besteht, ist zurzeit nicht bekannt, denn die unter <a>VD16</a> D909 beschriebene und aus sechs gefalteten Blättern bestehende Ausgabe kommt hier nicht in Frage.<zfn>fn16257-1</zfn></fn> (non forma libelli)
+<fa><i>Klammern ergänzt.</i></fa> mendaciis, devotionibus, crudelitate, degradationibus adeo horrendis, ut mirum sit inveniri, qui legant. Luciferi
+<fn>Synonym für den Teufel; vgl. Jes 14, 12-14 und Lk 10, 18.</fn> superbia nihil est ad superbiam Gandavensis
+<fn>Der in Gent geborene Karl V.</fn>. Crudelitas luporum
+<fn>Gemeint sind die Bischöfe.</fn> inter oves
+<fn>Vgl. Apg 20, 29.</fn> ludus est respectu eorum, qu{e} tyrannus iste agit per sanguinolentam istam interdictionem sine iusta causa; quod dominus novit! Quamobrem et spero eundem truculentiam tam foedam atque impiam vindicaturum brevi. Ego amplius ea de re loqui non possum. Christus bonis viris animos immittat, ut mendacia fortiter contemnat et in domino vindicet.</p>
+<p>Porro me libris ditas
+<fn>Bullinger hatte Myconius seinen gerade erschienenen und neun Bücher umfassenden Lukaskommentar (s. zu diesem <qv>nr2545</qv>, <qv>fn16211-1</qv>) geschenkt.</fn>, venerande in domino! Quapropter ago tibi gratias immortales; aliud enim non possum. Si possem, indubie facerem. Per tempus plura non licet addere.</p>
+<p>Vale cum tuis et Rodulpho Gvalthero. Basile{e}, raptim, 4. septembris anno 1546.</p>
+<un>Os. Myconius</un>
+<un>tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, fratri ac domino venerando suo.</p>
+</text>
+</brief>

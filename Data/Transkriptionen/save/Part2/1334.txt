@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1334">
+<nr>1334</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>8. Dezember 1539</date>
+</space_time>
+<vo>Autograph: Morlanwelz (Belgien), Musée royal de Mariemont, aut. 1076/1 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Seit Vadians Aufforderung, über die Ehe zu schreiben, beschäftigt er sich ständig mit dieser umfangreichen und
+schwierigen Materie; legt ihm zur Stellungnahme vor, was er über verbotene Verwandtschaftsgrade gefunden hat, und bittet um
+baldige Rücksendung. Hofft, daß er auf der Heimreise [von Baden] nach Zürich kommt.
+</re>
+<tx>Gratiam et vitae innocentiam<fx>^#/+in der Vorlage^#/- inocentiam.<fe> in domino.
+^$Ab ea hora, qua petebas, Vadiane doctissime, de matrimoniis
+rite contrahendis scriberem<f1>Die Rede ist offenbar von Bullingers Buch "Der christliche Ehestand" (HBBibl I 129), das
+im Februar 1540 erschien. Von einer entsprechenden Aufforderung Vadians ist sonst nichts bekannt.<fe>, nunquam
+desii inquirere, quid commode et pie ea de re dici possit, et reperio copiosissimam materiam, sed multis difficultatibus
+implicatissimam. Video doctos pleraque dissimulare et
+transire intacta. Quae de gradibus prohibitis in lege
+repererim, hic tibi exhibeo in hoc, ut legas et, quae
+monenda viderentur, adiungas, hocque ipsum exemplar primo
+quoque tempore remittas; apographum enim non habeo et hoc
+exemplar expecto. Vide, ne remoram iniicias; vide denique, ne
+inexaminata remittas.
+^$Vale et me ama. Utinam impetrare liceret, ut domum
+rediturus<f1>Vadian hielt sich in Baden auf, wo die Tagsatzung am 8. Dezember über eine Klage Appenzells gegen ihn verhandelte;
+vgl. EA IV/1c 1164d. und 1167 zu d; Gottfried ^#/+Bodemer,^#/- Der Bannerhandel zwischen Appenzell und St. Germain 1535-1539.
+Ein Beitrag zur schweizer. Kulturgeschichte des XVI. Jahrhunderts, Diss. phil. Bern, St. Germain 1905, S. 119f.<fe> ad nos concederes! Vale iterum.
+^$8. decembris 1539.
+<un>H. Bull. tuus<fx>^#/+Darunter von späterer Hand ^#/-Henricus Bullingerus tuus.<fe>.
+<lz>[Adresse auf der Rückseite:] Clarissimo viro d[octori]
+Ioachimo Vadiano, domino colendissimo. Dem herren
+Burgermeister von Watt.
+</content>
+</letter>

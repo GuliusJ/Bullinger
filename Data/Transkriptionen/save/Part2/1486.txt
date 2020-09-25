@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1486">
+<nr>1486</nr>
+<correspondents>
+	<originator>[Simon Grynäus]</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>ca. 1. April 1541]</date>
+	<note>Die Nachrichten aus Regensburg (unten Z. 9-13) beruhen offenbar auf der gleichen Quelle wie jene Mitteilungen, auf die Bullinger in seinem Brief an Myconius vom 4. April reagiert; es handelte sich um ein Schreiben, das laut einer Notiz Bullingers am 1. April in Basel eintraf (s. unten Nr. 1487, 2-5 mit Anm. 1). Der Vogler betreffende Brief, auf den Grynäus verweist und der anscheinend gleichzeitig abging (s. unten Z. 1), ist demnach jener vom 31. März (oben Nr. 1484).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 177 (Siegelspur)</vo>
+<vo>Zürich ZB, Ms S 49, 68 / Regest <f1>eingeordnet Ende März/Anfang April 1541<fe></vo>
+<dr>Ungedruckt</dr>
+<re>Hat wegen [Hans] Vogler [d. J.] bereits geschrieben [Nr. 1484] und lässt dessen Vater [Hansd. Ä.] bitten, ihm
+Schwierigkeiten wegen der vom Sohn gemachten Schulden zu ersparen; dieser sieht seine Fehler ein, und seine
+Leichtfertigkeit ist hoffentlich noch korrigierbar. Die Nachrichten vom Reichstag [in Regensburg] zeigen, dass die
+Monarchen nur an sich denken: [König] Ferdinand ruft um Hilfe gegen die Türken, und Kaiser [Karl V.] begibt sich auf die Jagd
+- wohl nach neuen Reichen; möge Gott solcher Tyrannei ein Ende setzen! Schreibt erneut von Vogler, weil dieser heute vor einem Jahr zu ihm kam. Gruß; leidet wie Bullinger an Schwindel.
+</re>
+<tx>S. De Voglero<f1>Hans Voglerd. J.<fe> scripsi, ut vides<f1>Vgl. Anm. 1.<fe>. Oro parentem<f1>Hans Voglerd. Ä.<fe>, ne imponat<fx>^#/+Vor^#/- imponat ^#/+gestrichenes^#/- quod.<fe> mihi, ut multis mihi<fx>^#/+Vor^#/- mihi ^#/+gestrichenes^#/- cum[?].<fe> sit cum creditoribus rixandum.
+Puer mihi debet pro victu in annum dimidium et amplius adhuc; ad cętera mutuo dedi florenos circiter quinque. Omnia
+uxor<f1>Katharina Lompart.<fe> annotavit. Puer ipse se continet iam et, nisi conscius esset sibi levitatis suę, videretur
+animum posse ad discendum adiicere. Itaque spero; recte secum rem posthac reputabit. Nullum inest vicium, quod sciam, nisi
+hęc certe periculosa valde animi levitas venti instar, quae, ut spero, emendari his rationibus potest, quas scripsi.
+^$De comitiis intellexisti, quid monarchę agant. Summa:
+Qui populum Christi sanguinem redemptum student curare, proh
+fidem tuam, Iesu Christe, quam pauci vivimus! Omnes, quae sua
+sunt, quaerunt. Clamat Ferdinandus, auxilium in Turcam<f1>Sultan Suleiman I.<fe> ut feratur, cęsar venatur<f1>Auch der oben
+Anm. 1 erwähnte anonyme Bericht verbindet den Hinweis auf den Ruf nach Türkenhilfe mit der Nachricht vom Jagdaufenthalt Kaiser
+Karls V. in Straubing (vgl. unten Nr. 1487, 2-4 mit Anm. 1 und 4).<fe> - regna, credo. Sed spero futurum brevi, ut tyrannide tam horrenda dominus orbem liberet.
+^$De Voglero quod nunc iterum scribo, in causa est: Hodie
+annus est, cum ad me<fx>Hodie annus est, cum ad me ^#/+anstelle von gestrichenem^#/- [- - -] annus est, ex quo ^#/+am Rande nachgetragen.^#/-<fe> venit.
+^$Vale in domino Christo, qui te servet. Ego vertigine, id
+est malo tuo,<f1>Vgl. oben Nr. 1470, 2-5; HBBW X, S. 174, 17.<fe> mensem circiter nunc laboro. Saluta omnes.<fx>^#/+Darunter von späterer Hand:^#/- Grynaeus.<fe>
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, amico colendissimo.
+</content>
+</letter>

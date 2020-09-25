@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2729">
+<brief>
+<id>16418</id>
+<nr>2729</nr> <from persid="MyconiusOswald"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1546-12-28"/>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 28. Dezember 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 268 (neu: 284) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 62, 152 </k></dr>
+<re><t>Myconius hat [mit <qv>nr2725</qv>] alle Neuigkeiten vermittels des Schmiedes [...] aus Dübendorf geschrieben, außer dass der dänische [König Christian III.] einige tausend Mann aus dem Heer Herzog Moritz' [von Sachsen] getötet haben soll. Bullinger weiß wohl schon davon, zumal die Konstanzer dies den Zürchern mitgeteilt haben, die dies wiederum als verbürgte Nachricht an die Basler weitergeleitet haben. Vielleicht lässt der Däne die [Protestanten] doch nicht im Stich! Durch den Erfolg des leichenähnlichen Kaisers [Karl V.] scheint aber Gott etwas zu verstehen geben zu wollen.</t>
+<t>Myconius dachte, dass dem Kaiser nach den Ereignissen des Sommers kaum ein Zehntel seiner Streitkräfte erhalten geblieben sei. Trotzdem hat er nun so großen Erfolg! Wo sind denn [Sebastian] Schertlin, [Johann Freiherr von] Heideck und alle anderen? Man hat doch behauptet, dass diese viele tausend Soldaten anführen, mit denen sie leicht imstande wären, sich dem Kaiser zu widersetzen. Und das ist bestimmt auch so! Wann also werden diese [Feldherren] zu Verrätern? Es muss etwas geschehen! Wenn wir nur nicht den Herrn verlassen!</t>
+<t>Wegen der besetzten Städte und Ortschaften macht sich Myconius relativ wenig Sorgen, denn diese sind wetterwendisch. Was ihn aber sehr beunruhigt, ist die Tatsache, dass diejenigen, die sich ergeben haben, offenbar nie Christen gewesen sind; es sei denn, sie haben tatsächlich geglaubt, dass der Kaiser sie bei ihrer Religion belassen würde. Doch sobald dieser gesiegt haben wird (wenn nicht die Erde dieses Ungeheuer zuvor verschlungen hat), werden sie das Schlangengift zu spüren bekommen, das dieser in seinem lügenhaften Mund verbirgt.</t>
+<t>Wenn es stimmt, dass Herzog [Ulrich von Württemberg] die Seinen im Stich gelassen und sich nicht aus gesundheitlichen Gründen zurückgezogen hat, dann besteht Grund zur Enttäuschung. Müsste sich nicht ganz Helvetien gegen den Feind [Karl V.] zur Wehr setzen, zumal dieser dem Thurgau und den anderen [Orten] die Getreideversorgung abschneiden will? Wahrlich, die [Eidgenossen] sind nicht mehr bei Verstand und ziehen Unglück auf sich! Es scheint nun wirklich so, als hätte Gott etwas gegen "Germanien" vor! Hauptsache, der Herr vernichtet den Antichristen samt dessen Anhängern!</t>
+<t>Myconius teilte schon in [<qv>nr2725</qv>] die verbürgte Nachricht mit, dass Kurfürst [Johann Friedrich von Sachsen] dem Mainzer [Erzbischof Sebastian von Heusenstamm] schwere Schäden zugefügt hat. Was treibt nun [Maximilian von Egmont, Graf von] Büren? Und warum halten sich die Gesandten der [deutschen] Protestanten so lange in Frankreich auf? Dieser Tage traf ein Brief von [Antoine] Morelet [du Museau] ein. Myconius kennt jedoch dessen Inhalt nicht.</t>
+<t>Schon zweimal haben die Zürcher die von Konstanz erhaltenen Mitteilungen nach Basel weitergeleitet. Warum aber hat sich Bullinger nie darauf bezogen?</t>
+<t>Hoffentlich beruft Gott bald jemanden, der sich dem Kaiser widersetzen wird! Dafür muss man inständig
+beten.</t>
+<t>Gruß. [Francisco de] Enzinas ist nicht nur durch die Arbeit, sondern noch mehr durch den unerwarteten Erfolg des Kaisers niedergedrückt. Er und [Johannes] Gast grüßen zurück.</t></re>
+<text>
+<div>
+<p>S. <zzl>zl16418-1A</zzl>Scripsi
+<fn>Mit Brief <qv>nr2725</qv>.</fn> omnia, qu{e} novi, per fabrum ferrarium ex Diebendorf
+<fn>Ein unbekannter Schmied aus Dübendorf (Kt. Zürich).</fn> excepto,<zzl>zl16418-1E</zzl> <zzl>zl16418-2A</zzl>quod Danus
+<fn>König Christian III. von Dänemark. - Zum Folgenden s. schon die Anmerkungen zu Myconius' Notiz in <qv>nr2724</qv>,<qv>zl16413-6</qv>.</fn> dicitur aliquot millia percussisse Mauricianorum
+<fn>Die Soldaten Herzog Moritz' von Sachsen.</fn>. <zzl>zl16418-4A</zzl>Sed tu id nosti ex Constantia melius,
+<fn>Nämlich aus dem Brief von Konstanz an Zürich vom 23. Dezember 1546 (Zürich StA, A 177, Nr. 154).<zfn>fn16418-1</zfn> </fn> nam tui
+<fn>Die Zürcher Ratsherren, die die Nachrichten aus Konstanz mit einem heute in Basel StA, Politisches M 8.3, 414-417, erhaltenen Brief an Basel weiterleiteten. - Wir danken Rainer Henrich für diesen Hinweis.<zfn>fn16418-2</zfn></fn> id inde ad nostros dederunt et quidem pro certo.<zzl>zl16418-2E</zzl><zzl>zl16418-4E</zzl> Surgeret hinc spes nova, quod Danus nondum prorsus nos abiecisset. Nam quod ad c{e}saris
+<fn>Karl V. - Zu dessen (laut Myconius) nahezu gespenstischer Erscheinung s. auch schon <qv>nr2683</qv>,<qv>zl16370-9</qv>. - Mit dem Glück (felicitatem) des Kaisers bezieht Myconius sich vor allem auf die jüngst stattgefundenen Unterwerfungsakte zahlreicher oberdeutscher Städte; s. dazu <qv>nr2724</qv>,<qv>zl16413-9</qv>; <qv>nr2725</qv>,<qv>zl16414-2</qv>. Vgl. ferner die schon in <qv>nr2692</qv>,<qv>zl16377-5</qv>, von Myconius ausgedrückte Verwunderung über den Erfolg des Kaisers.</fn> cadaverosi felicitatem, hominis nec pii nec boni, adtinet
+<fa><i>Über der Zeile nachgetragen.</i></fa>, videtur deus per istud cadaver nos velle docere, qu{e} hactenus ignoravimus.</p>
+</div>
+<div>
+<p>Ex his, qu{e} per {e}statem acta sunt in castris illius, arbitrabamur vix decimum illi superesse militem;
+<fn>Anspielung auf die üblen Zustände im kaiserlichen Feldlager; s. z.B. <qv>nr2671</qv>,<qv>zl16358-10</qv>.</fn> et tanta nunc agit! Ubi Schertlius
+<fn>Sebastian Schertlin.</fn>? Ubi Heideccius
+<fn>Johann Freiherr von Heideck, württembergischer Truppenführer. - Unter Schertlins und von Heidecks Führung sollen etwa 9'000 Mann in Süddeutschland zurückgelassen worden sein; s. dazu <qv>nr2689</qv>, <qv>fn16376-4</qv>.</fn>? Ubi alii? De his enim narratur, quod habeant militum adhuc multa millia; tot, inquam, ut c{e}sareanis per dominum facile possent resistere. Et ego certis ductus argumentis credo! Quando igitur se sunt prodituri? Aliquid fiet tandem, modo nos a domino non recedamus.</p>
+</div>
+<div>
+<p><zzl>zl16418-6A</zzl>Qu{e} occupatae sunt civitates et oppidula, non magni pendo, quod talia sunt ista, ut ad quemvis felicitatis motum mutentur. <zzl>zl16418-3A</zzl>Quod vero in hominibus, qui se dedunt, adeo nihil videtur esse Christi, hoc certe me movet vehementer!
+<fn>Vgl. schon <qv>nr2725</qv>,<qv>zl16414-4</qv>. <qv>zl16414-2</qv>; <qv>nr2728</qv>,<qv>zl16417-2</qv>.</fn><zzl>zl16418-3E</zzl> Nisi forte credant c{e}sari,
+<fn>Siehe dazu die Verweise in <qv>nr2723</qv>, <qv>fn16412-4</qv>.</fn> qui nullius religionem promittit se mutaturum. Age, maneant, usque dum vicerit! Sentient os dolosum nunc aspidum tenere venenum et abscondere, nisi prius tantum monstrum terra devoret.
+<fn>Anspielung auf das Schicksal des Widersachers Gottes, Korach; s. Num 16, 32.</fn><zzl>zl16418-6E</zzl></p>
+</div>
+<div>
+<p>Divexor, quod dux
+<fn>Herzog Ulrich von Württemberg. - Bezug auf Bullingers Mitteilung in <qv>nr2724</qv>,<qv>zl16413-8</qv>, über den Rückzug des Herzogs nach Hohentwiel.</fn> reliquit suos - si reliquit, et non potius su{e} providit valetudini. <zzl>zl16418-7A</zzl>Annon Helvetia tota deberet exurgere et hostem
+<fn>Gemeint ist der Kaiser.</fn> propellere pro virili, qui efficere tentat, ut Durgeanis
+<fn>den Thurgauern. - Zur Bezeichnung s. z.B. Heinrich <i>Glarean,</i> In C. Iulii Caesaris ... commentarios De bello Gallico ac civili ... annotationes, Lyon, Sebastian Gryphius, 1538, S. 35.</fn> et aliis in posterum desit frumentum? Dico tibi: Insanimus, quamvis in nostrum, ut vereor, damnum!<zzl>zl16418-7E</zzl> Ex quo patet, quod dominus constituit contra Germaniam
+<fn>Damit ist nicht nur das heutige Deutschland gemeint, sondern auch das von den "Helvetiern" (laut der damaligen Auffassung) bewohnte Gebiet.</fn> aliquid, quod non putabamus. Id autem, quicquid sit, non valde curo domino praesente. Tantum servet nobis verbum suum et perdat antichristum
+<fn>Gemeint ist der Papst. - Vgl. 2Thess 2, 8.</fn> cum suis!</p>
+</div>
+<div>
+<p><zzl>zl16418-5A</zzl>Certum est, quod elector
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> male multavit Maguntinum
+<fn>Sebastian von Heusenstamm, Erzbischof von Mainz.</fn>, quod et in aliis literis significavi.<zzl>zl16418-5E</zzl>
+<fn>In <qv>nr2725</qv>,<qv>zl16414-3</qv>.</fn> Quid autem agat Burensis
+<fn>Maximilian von Egmont, Graf von Büren. - Zu dessen Route s. <qv>nr2706</qv>, <qv>fn16394-1</qv>.</fn>, ignoramus. Nemo non miratur, quod legati Protestantium
+<fn>Als Gesandte der Protestanten bei König Franz I. von Frankreich fungierten gemäß Instruktion vom 23. November 1546 der kursächsische Vizekanzler Franz Burchard (Burkhardt), der hessische Rat Jakob Lersner sowie Johannes Sturm; s. <a>PC</a> IV/1 499, Nr. 466, Anm. 1 (dort auch der Inhalt der Instruktion). Am 4. Dezember trafen Burchard und Lersner in Straßburg ein (s. ebd., 505, Nr. 472). Am 24. bzw. 27. Dezember schrieb Burchard aus Compiègne, dass sie am Vorabend am französischen Hofe angekommen wären (s. ebd., 531f, Nr. 496). Am 29. Dezember schrieb Burchard, dass die baldige Rückreise Johannes Sturms vonnöten wäre (s. ebd., 544f, Nr. 505). Sturm befand sich spätestens am 4. Januar 1547 wieder in Straßburg, wie sein von dort geschriebener Brief zu erkennen gibt (ebd., 553-55, Nr. 513). Der Abfall und die Besetzung Frankfurts und Umgebung durch von Büren machte es ihm jedoch unmöglich, weiter nach Hessen oder Kursachsen zu gelangen. Burchard und Lersner reisten hingegen kurz nach dem 29. Dezember nach England weiter (s. ebd., 532, Anm. 10. 545, Anm. 1; sowie Burchards Brief aus London vom 6. Februar 1547, ebd., 598f, Nr. 552). Erst im März 1547 trafen Burchard und Lersner wieder in Frankreich (Amiens) ein (s. ebd., 653, Nr. 584). Lersner gelangte spätestens am 18. April 1547 nach Kassel, wo er Bericht über seine Mission ablegte (ebd., 683-685, Nr. 609).</fn> tam diu morantur in Gallia. Scripsit his diebus Maurus
+<fn>Der französische Gesandte Antoine Morelet du Museau, der um Mitte November die Eidgenossenschaft verlassen hatte; s. <qv>nr2682</qv>, <qv>fn16369-1</qv>.</fn>; verum quid, ignoro.</p>
+</div>
+<div>
+<p>Secundo scripserunt Constantienses ad vestros et vestri huc;
+<fn>Zu den ersten hier gemeinten Schreiben s. <qv>nr2725</qv>, <qv>fn16414-3</qv>; zu den zweiten s. oben <qv>fn16418-1</qv> und <qv>fn16418-2</qv>.</fn> de quibus tu ad me nihil! Miror
+<fa><i>Über der Zeile nachgetragen.</i></fa>, nam te clam esse, qu{e} significarunt, haud credo.</p>
+</div>
+<div>
+<p>Spero dominum excitaturum propediem, qui c{e}saris cursum sit remoraturus;
+<fn>Wie Gott dies zur Zeit der babylonischen Gefangenschaft mit dem persischen König Kyros tat; vgl. Jes 44, 28 - 45, 2. 13.</fn> id quod rogandus est et fideliter et iugiter.</p>
+</div>
+<div>
+<p>Vale in Christo. Dryander
+<fn>Francisco de Enzinas, der mit Druckarbeiten in der Offizin von Johannes Oporin beschäftigt war.</fn> laboribus est pressus, magis autem dolore propter c{e}saris insperatam felicitatem. Is et Gastius te resalutat.
+<fn>Bezugnahme auf die Grüße, die Bullinger zuvor an diese beiden übermittelt hatte; s. <qv>nr2724</qv>,<qv>zl16413-10</qv>.</fn> Basile{e}, 28. decembris anno 1546.</p>
+<un>Tuus Os. Myc.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero doctissimo, ministro Christi optimo, fratri ac domino in Christo venerando suo. Zü[ric]h
+<fa><i>Textverlust bei Entfernung des Siegels.</i></fa>.</p>
+</div>
+</text>
+</brief>

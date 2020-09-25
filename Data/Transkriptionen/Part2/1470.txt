@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1470">
+<nr>1470</nr>
+<correspondents>
+	<originator>Oswald Pergener</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Zittau</place>
+	<date>1. März 1541</date>
+</space_time>
+<vo>Original (Autograph?)<fx>^#/+Die Handschrift variiert in den Briefen Pergeners so stark, dass sie nicht einer einzigen Hand zugeschrieben werden können.^#/-<fe>: Zürich StA, E II 345, 220 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 42</vo>
+<dr>Ungedruckt</dr>
+<re>Hat aus Bullingers Brief vom 31. August des Vorjahres von dessen Krankheit erfahren, von der er aber mit der Hilfe Christi
+zweifellos genesen ist; eigene Beschwerden und die Krankheiten unter den Nachbarn in Böhmen und Schlesien, die mehrere Opfer
+gefordert haben, können Pergener nicht schrecken, da der Tod nur die Befreiung aus den irdischen Beschwernissen bedeutet.
+Erwartet gespannt die Evangelienkommentare, denn er bliebe ohne Bullingers Arbeiten ganz unwissend.
+</re>
+<tx>Gratia et pax a deo patre et domino nostro Iesu Christo.
+^$Accepi epistolam tuam ultima mensis augusti prioris anni
+scriptam,<f1>Nicht erhalten.<fe> Heinriche in Christo colendissime, in qua
+percipio ęstate illa te nihil scribere potuisse ob morbos
+quosdam et vertiginem capitis, a quibus te vexatum cum
+dolore audio.<f1>Im Sommer und Herbst 1540 war Bullinger so schwer erkrankt, daß er zeitweise nicht mehr arbeiten konnte; vgl. HBBW X, S. 123; 141, 1-4; 169, 1-12; 170f, 1-19.<fe> Sed te iam restitutum et hoc dei benignitate
+nihil ambigo. Servabit Christus fideles ministros suos in
+utilitatem reipublice christianę et suę ecclesię
+usque ad iustam ętatem. Sed interim certi sumus, ut
+afflictiones, morbos, carceres, vincula, si cui obveniunt,
+non fortunę accepta feramus, sed deo omnipotenti.
+Perturbavit seu potius afflixit nonnihil et hoc meum
+corpusculum in preterita ęstate nescio quę infirmitas
+occulta, sed non prostravit. Morbi et varię infirmitates,
+quibus iam plures mortales perire videmus apud finitimos
+nostros tum in Bohemia, tum in Slesia, deterrere me possent,
+nisi scirem mortem esse transitum ad sedes beatiores et
+mutationem conditionis deterioris in longe meliorem. Credo
+enim firmiter animos fidelium protinus, ut ex corporibus
+evaserunt, subvolare cęlo, numini coniungi eternoque
+gaudere etc. Quare hec vita potius captivitas est et mors
+quam vita; quo plus a mundo abscedimus, hoc propius
+accedimus ad deum. Ideo mori christianis nihil aliud est
+quam mundum relinquere et ire ad deum etc.
+^$Historiam evangelicam, quam nobis et precipue ecclesię
+Christi explanare statuisti,<f1>Bullingers Evangelienkommentare erschienen in den Jahren 1542-1546; vgl. HBBibl I 144, 153, 170 und 173.<fe> summo desiderio expecto; plane
+Phinonide<f1>Gemeint ist Philonides, der von den griechischen Komödiendichtern als überaus groß gewachsen und dumm geschildert wird; vgl. Pauly/Wissowa XX/1 61; Adagia, 2, 6, 30 (LB II 592).<fe> indoctior essem, ni deus sua gratia vestras
+lucubrationes ad nos perferri voluisset. Quicquid habeo, hoc
+me a deo et vobis accepisse citra fucum fateor. Quare non
+immerito precor deum optimum, ut tibi in omnibus adsit.
+^$Interim vale cum tota ecclesia et prosperare in verbo
+domini.
+^$Zitte, prima martii 1541.
+<un>Osvaldus Pergenerus
+<un>tuus et fratrum.
+<lz>[Adresse auf der Rückseite:] Vere pio et erudito viro
+domino Heinricho Bullingero, amplissime Tigurinę
+ecclesię episcopo, fratri et amico colendissimo.
+</content>
+</letter>

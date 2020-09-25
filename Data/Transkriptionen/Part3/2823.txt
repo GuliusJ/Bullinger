@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2823">
+<brief>
+<id>17089</id>
+<nr>2823</nr> <from persid="HofherrKonrad"/> <to persid="Bullinger"/> <place plid="Konstanz"/> <date when="1547-02-24"/>
+<ae>Konrad Hofherr an Bullinger
+<fn>Der einzige erhaltene Brief zwischen Bullinger und Konrad Hofherr (Curio).</fn></ae>
+<od>Konstanz, 24. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 364, 106 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Zürich ZB, Ms S 63, 113</k></dr>
+<re><t>Hofherr sieht sich gezwungen, Bullinger zu schreiben, obwohl es ihm nicht recht ist, ihn, der so sehr beschäftigt ist, zu belästigen.</t>
+<t>Letzthin hat Bullinger im Namen der Witwe Regula Mayer einen langen Brief an Ambrosius Blarer [nicht erhalten] geschrieben, in dem Hofherr aufgefordert wurde, den dieser Witwe geschuldeten Betrag unverzüglich zurückzuerstatten. Daraufhin setzte Hofherr alles daran, um das Geld zum abgemachten Termin ausbezahlen zu können. Bullinger soll nun von der Witwe den Schuldschein zurückverlangen und ihn an Hofherr schicken. Er möge ihr ferner den beiliegenden Brief vorlesen. Daraus wird deutlich, wie sehr sie ihn bei Bullinger verleumdet hat. Sollte sie Bullinger mit Weiterem beauftragen, soll dieser ihm allein und niemandem sonst schreiben.</t>
+<t>In Konstanz gibt es recht zuverlässige Gerüchte, laut denen Kaiser Karl V. tot sei. Doch Bullinger wird darüber schon Bescheid wissen.</t>
+<t>Gruß, auch von Hofherrs Frau [...], an Bullingers Gattin [Anna, geb. Adlischwyler].</t>
+<t>Bullinger kann davon ausgehen, dass Hofherr ihn in bester Erinnerung hat und weiterhin bereit ist, ihm seine Freundschaft zu bekunden.</t>
+<t>Grüße an Hofherrs Präzeptor Theodor Bibliander. Hofherr bedankt sich bereits hier für dessen wunderbares Geschenk. Er wird ihm auch noch selbst schreiben. Der freundliche Johannes Fries sei auch herzlich gegrüßt.</t>
+<t>[P.S.:] Bullinger möge etwaige Neuigkeiten mitteilen.</t></re>
+<text>
+<div>
+<p>Clarissimo viro d. Heinrycho Bullingero, compatri suo charissimo, Conradus Curio S. D. P. <zzl>zl17089-1A</zzl>Etsi statueram tibi, homini occupatissimo, plane nullum facessere negotium literis meis ineruditis, tamen in praesentia cogit me magna necessitas rumpere silentium. Id quid sit, paucis accipe.<zzl>zl17089-1E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17089-2A</zzl>Superioribus diebus scripsisti
+<fn>Mit einem nicht erhaltenen Brief.</fn> ad clarissimum virum d. Ambrosium Blarerum, patronum
+<fn>Blarer hatte sich um die Ausbildung Hofherrs gekümmert und ihn im Februar 1545 nach Zürich empfohlen; s. <a>HBBW</a> XV, Nr. 2085. Im Sommer 1546 rief er Hofherr wieder nach Konstanz zurück; s. <a>HBBW</a> XVII 238f.<zfn>fn17089-1</zfn></fn> meum praecipuum, literas satis prolixas nomine vidu{e} illius Regul{e} Mayerin,
+<fn>Zur Angelegenheit s. <a>HBBW</a> XVIII 404. 406f. 412f.</fn> in quibus me sedulo mones, ut meam fidem
+<fn>(finanzielle) Verpflichtung.</fn> apud ipsam liberem sine ulla mora et temporis exceptione. Moram enim ipsi valde molestam et incommodum esse.<zzl>zl17089-2E</zzl> <zzl>zl17089-3A</zzl>Advigilavi itaque lectis literis tuis, ut die constituto
+<fn>Am 24. Februar 1547, dem Abfassungstag des vorliegenden Schreibens.</fn> debitum quam primum dissolvatur.<zzl>zl17089-3E</zzl> <zzl>zl17089-4A</zzl>Reliquum est igitur, ut meum chirographum
+<fn>Schuldschein; vgl. <a>Kirsch</a> 511.</fn> ab ipsa repetas et mihi admittas. Proinde, mi humanissime compater, te pro tua singulari humanitate etiam atque etiam peto et quaeso, ut non graveris (siquidem te sedulum in suis negotiis peragendis praebuisti) nomine quoque meo literas inclusas pr{e}legere praedict{e} vidu{e} (ex iis enim facile perspicies, quam me insigni apud te iniuria affecerit)
+<fa><i>Klammern ergänzt.</i></fa>, et, si quid tibi dederit in mandatis, ut mihi soli adscribas, vehementer et maiorem in modum a te peto.<zzl>zl17089-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17089-5A</zzl>Nunc uti cogar brevitate, ne prolixitate literarum tibi exhibeam molestiam. Novi rumores et ii quidem
+<fa><i>Über der Zeile nachgetragen.</i></fa> certissimi hinc inde de obitu c{e}saris
+<fn>Karl V. - Zu den schon länger kursierenden Gerüchten vom Tod des Kaisers s. die Verweise in <qv>nr2782</qv>, <qv>fn17050-3</qv>.</fn> sparguntur. Quoniam vero te ex tuis hisce de rebus certiorem fieri certo scio, non opus esse arbitror, ut ad te scribam multis verbis.<zzl>zl17089-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17089-6A</zzl>Uxorem
+<fn>Anna, geb. Adlischwyler.</fn> tuam, et honestam et piam, quam officiosissime meo simul et me{e} uxoris
+<fn>Unbekannt.</fn> nomine salutabis.<zzl>zl17089-6E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17089-7A</zzl>C{e}terum de Curione sic tibi persuadeas velim ita ab ipso absentis tui coli memoriam, non modo, ut quicquam de suo in te amore inminutum sit, sed id ipsum, quod fuit, etiam longo tu{e} consuetudinis desiderio sic auctum atque incensum, ut nihil hoc tempore, quam ut te videat et coram tecum agat, sibi sit longius atque antiquius.<zzl>zl17089-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17089-8A</zzl>Ornatissimum virum d. Theodorum Bibliandrum, praeceptorem meum observandissimum, iubebis plurimum salvere. Praeterea magnopere cupio, ut nomine meo inmortales agas gratias pro splendido et honorifico suo munere. Cum plus fuero nactus otii, ipse sibi scribam.<zzl>zl17089-8E</zzl> <zzl>zl17089-9A</zzl>D. Ioannem Frisium, hominem suavissimum, mea causa diligenter salutabis.<zzl>zl17089-9E</zzl> <zzl>zl17089-10A</zzl>Uxori item tu{e} ex me salutem anuntiabis.<zzl>zl17089-10E</zzl> Vale, compater humanissime. Dat{e} Constanti{e} ex tempore anno domini 1547, 24. die februarii.</p>
+<un>Tuus ex animo devotus</un>
+<un>Conradus Curio, olim</un>
+<un>Ulmensis, at nunc temporis</un>
+<un>constantissimus Constantiensis.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl17089-11A</zzl>Si quid, mi compater, novi habueris, ad me velim perscribas.<zzl>zl17089-11E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Pr{e}stantissimo cum doctrina tum pietate viro, domino Heinrycho Bullingero, compatri meo. Tiguri.
+<fn>Vorliegendes Schreiben wurde Blarers Brief vom 25. Februar beigelegt (s. <qv>nr2824</qv>,<qv>zl17090-5</qv>) und vielleicht von Konrad Zwick (s. <qv>nr2824</qv>,<qv>zl17090-4</qv>) nach Zürich befördert.</fn></p>
+</div>
+</text>
+</brief>

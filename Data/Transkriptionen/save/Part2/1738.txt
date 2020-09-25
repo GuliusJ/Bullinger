@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1738">
+<nr>1738</nr>
+<correspondents>
+	<originator>Nikolaus Pfister</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Brugg</place>
+	<date>9. April [1543]</date>
+	<note>Der Brief wurde nach Pfisters Amtsantritt in Brugg im Herbst 1542 und vor dem Tod von Matthäus Hiltprand im Juli 1544 (vgl. unten Anm. 4) verfasst. Die Bezugnahme auf die Auseinandersetzungen um Er­­asmus Ritter (vgl. unten Z. 18f mit Anm. 5) erlaubt eine genauere Datierung ins Jahr 1543.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 441, 551 (Siegelspur)</vo>
+<vo>Zürich ZB, Ms S 57, 48 (1545 eingeordnet); undat. Brief 598</vo>
+<dr>Ungedruckt</dr>
+<re>Sendet verspätet Bullingers Erwiderung auf die Vorlesung von [Simon] Grynäus [über das Abendmahl] zurück, nachdem er sie abgeschrieben hat, beglückwünscht ihn dazu und bittet ihn inständig, die Schrift zu veröffentlichen; Grynäus hätte sich mehr Verdienste erworben, wenn er bei seinem angestammten Arbeitsgebiet geblieben wäre. Näheres, auch über die Auseinandersetzungen um Erasmus [Ritter], berichtet Matthäus [Hiltprand] persönlich. Grüße, auch von [Pfisters Ehefrau] Josabeth.
+</re>
+<tx>Nicolaus Artopoeus He[inrycho] Bul[lingero] suo s[alutem] d[icit].
+^$Serius, vir doctissime, quam opinabaris forte abs me fieri,
+ad te remittere distuli, quę ad dictata Grynę[i]
+pię memorię respondistis.<f1>Es handelt sich um Bullingers Brief an Grynäus vom 26. Juli 1541, HBBW XI, Nr. 1550, S. 265-288.<fe> In causa fuerunt mea
+negotia, quibus, ut nosti, usque distineor. Quare te iterum
+iterumque rogo, ne peiorem in partem interpreteris pro tuo
+candore dexteritateque. Sed heus, non solum legi relegique,
+verum etiam descripsi. Vide, quid faciat audatia. Profecto
+libellus est multiplici instructus eruditione, magnis
+solidisque argumentis. Quo, facessat adulatio, nihil felicius
+adversus hęc, nisi plane fallor, scribi posset. Utinam,
+utinam, utinam ederes, quo tandem mundus sentiret, quam
+nihili et plane frivolis argumentis nitantur, qui rem tam
+apertam nescio quibus nugis et deliramentis obfuscare
+manibus pedibusque, ut dicitur,<f1>Vgl. Adagia, 1, 4, 15 (LB II 157); 3, 9, 68 (LB II 931).<fe> conantur. Utinam Gryne[us] sua in arena certasset! Quod si fecisset, sine dubio maiorem
+laudem esset consecutus quum apud nos tum apud posteros, et
+nos haberemus tranquilliorem ecclesiam. Verum compli­cabo chartam.
+^$Vale, Bullinge[re] eruditissime, et parce indocto et rudi calamo.
+^$Brugis, 9. aprilis.
+^$Qui valeam, coram dicet dominus Math[aeus]<f1>Gemeint ist Matthäus Hiltprand von Brugg, der 1510 an der Universität Basel immatrikuliert wurde und ab 1518 Leutpriester in Brugg war. Nachdem er sich der Reformation angeschlossen hatte, wurde er 1526 entlassen. Auch in Oltingen (Kt. Basel-Land) scheint er sein neues Amt bereits 1527 wieder verloren zu haben. Anschließend soll er im Bernbiet gewirkt haben. 1536-1544 war er Pfarrer in Brugg, wo er am 31. Juli 1544 starb. - Lit.: Basel, Matrikel I 302, Nr. 30; Oekolampad BA II, Reg.; Max ^#/+Banholzer,^#/- Geschichte der Stadt Brugg im 15. und 16. Jahrhundert. Gestalt und Wandlung einer schweizerischen Kleinstadt, Diss. Zürich, Aarau 1961. - Argovia 73, S. 285 und Reg.; Willy ^#/+Pfister,^#/- Die reformierten Pfarrer im Aargau seit der Reformation 1528-1985, in: Argovia 97, 1985, S. 103, Nr. 486.<fe> et de nego[tio]
+Erasmi<f1>Zu den Auseinandersetzungen um Erasmus Ritter vgl. dessen Brief an Bullinger vom 23. April 1543, unten Nr. 1741.<fe> Berna[tis]<fx>et de nego[tio]
+Erasmi Berna[tis] ^#/+über der Zeile nachgetragen.^#/-<fe>. Mea Iosabethula<f1>Über Pfisters Ehefrau ist nichts Näheres bekannt.<fe> te et tuam uxo[rem]<f1>Anna, geb. Adlischwyler.<fe> cum
+tota familia plurimum salutat.
+<lz>[Adresse auf der Rückseite:] Heinrycho Bullingero, viro et spectatę integritatis et eruditionis.
+</content>
+</letter>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="39092">
+<nr>39092</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Johannes Haller</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>29. Juli 1569</date>
+</space_time>
+<vo>Abschrift von unbekannter Hand (17. Jh.)<fx>^#/+Mit Randbemerkungen und Unterstreichungen von Johann Heinrich Hottinger.^#/-<fe>: Zürich ZB, Ms F 46, 612</vo>
+<vo>Simler: Ms S 120, 93.</vo>
+<dr>Ungedruckt</dr>
+<re></re>
+<tx>S[alutem] d[ico].
+^$Recrudescit in Palatinatu Heydelbergae pugna de excommunicatione, et metuunt boni, ne princeps suo et
+Palatinatus universo malo recipiat iugum, quod nobilibus, ignobilibus et vulgaribus vehementer est adversum. Timent
+peiora. Coena, quae instituta est communionis ergo, rapietur in excom­municationem. Misera coena misere dilaceratur. Dominus
+meliora concedat. Audio, sed nec credo nec affirmo,d. Bezam oleum infundere camino. Certe recepta est ecclesia in urbem
+Heydelb[ergam], quae iam dicitur habere iudices et censores ecclesiasticos. Dominus bene vertat. Nos (quod te solum scire
+volumus) rursum scribimus ad principem ipsum dehortantes ab eo, quod videatur paritutum gravia certamina et turbas periculosas
+etc. Oriuntur et alibi turbae in ecclesiis. Id inde totum est, quod ministri affectis dediti non aedificant, sed sua quaerunt
+et destruunt. Dominus misereatur nostri et conservet nostras ecclesias in pace.
+^$Vale etc.
+<lz>[Ohne Adresse.]<fx>^#/+Datum, Unterschr.ift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt:^#/- Idem eidem. Tiguro Bernam. 29. iulii 1569.<fe>
+</content>
+</letter>

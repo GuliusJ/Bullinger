@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1015">
+<nr>1015</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>9. Juli 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 164 (neu: 183) (Siegelspur) </vo>
+<dr></dr>
+<re>Übersendet im Auftrag Calvins ein Bekenntnis [der Genfer zur Trinitätslehre] und nimmt kritisch dazu Stellung.
+Mißbilligt die - auch früher schon von Farel - vorgetragenen Angriffe auf Caroli. Hatte keine Gelegenheit, diesen Brief dem Scherer Philipp [...] oder Sebastian [...] mitzugeben.
+Ist sich zwar bewußt, in Zürich und Bern nichts zu gelten, bittet Bullinger aber dennoch um Vermittlung im Streit unter
+den Berner Pfarrern.
+</re>
+<tx>[Gedruckt: Corr. des réformateurs IV 254-256, Nr. 640; Teildruck: CO X/2 113f, Nr. 69.]
+</content>
+</letter>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="943">
+<nr>943</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>9. Februar 1537</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Anstreichungen von späterer Hand.^#/-<fe>: Zürich StA, E II 336, 161 (neu: 180) (Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Johannes Zwick fragt in einem Brief an [Johannes] Jung nach der Bereitschaft zu bedingter Annahme der Confessio
+Augustana und der Tetrapolitana, falls Luther das Bekenntnis der Schweizer nicht billigen sollte; eine Antwort ist noch
+nicht erfolgt, doch wäre man in Basel im Blick auf das Konzil wohl zu einem solchen Schritt bereit und hofft auf das
+Einverständnis Zürichs. Von der Myconius vorliegenden Stellungnahme der Straßburger [Theologen] zu den [Traktanden des
+Schmalkaldischen Bundestags] soll Bullinger nach Möglichkeit eine Abschrift erhalten.</re>
+<tx>S. Scribit non ad me, sed ad Iungium quendam<f1>Johannes Jung.<fe>, qui litteris et studiis incumbit hic theologicis,
+doctor Io[annes] Zvickius<f1>Zwicks Brief an Jung ist nicht erhalten; wie aus dem Folgenden hervorgeht, entsprach er jedoch
+inhaltlich seinen Briefen vom 31. Januar an Bullinger (oben Nr. 940) und Vadian (Vadian BW V 404f). Die Antworten von
+Jung und Myconius (wie auch jene von Bullinger und Vadian, unten Nr. 948 bzw. Vadian BW VII 67) hat Zwick in einem
+Bericht an die Obrigkeit zusammengefaßt; s. Stadtarchiv Konstanz, Ref. A. Fasc. 10, 406r.-408r., Nr. 94.<fe>, si
+Luthero non placitura esset confessio nostra<f1>Gemeint ist das Erste Helvetische Bekenntnis bzw. dessen
+Auslegung im Brief der reformierten Städte der Eidgenossenschaft an Luther vom 12. Januar (s. oben Nr. 934, Anm. 15).<fe>, quid tum agendum putaremus.
+Dat insuper consilium, quod putat recipiendum, tale videlicet: Utrasque confessiones Augustę datas, principum et
+quatuor urbium puta<f1>Das Augsburger und das Vierstädtebekenntnis, vgl. oben Nr. 940, 20-50.<fe>, non
+abiiciendas, sed iis conditionibus recipiendas, quibus et Constantienses receperint, principum scilicet<f1>Siehe ebd.,
+Anm. 13.<fe>. Conditiones hę sunt: Doctrinam placere, ritus non placere prorsus. Quamvis autem inter articulos nudos
+sint, quę prima facie non arrideant, apologia<f1>Siehe ebd., Anm. 14.<fe> diligenter visa tollatur omnis offensio.
+Imposuit per Iungium Grynęo vel mihi, quid nobis videatur, ut rescribamus. De vobis nihil respondere
+poterimus<fx>poterimus ^#/+vom Schreiber korrigiert aus^#/- potuimus.<fe>. Apud nos vero res sic habet: Si quid tale futurum esset,
+concilium indictum<f1>Siehe ebd., Anm. 6.<fe> impelleret, ut consilio fortassis acquiesceremus, postquam nihil est in
+confessione urbium, quod nobiscum pugnet, et Saxonica seu principum confessio adiuncta apologia praeter ritus queat esse
+tolerabilis. Hęc breviter. Nondum quicquam respondimus illi. Et si respondebimus ratione, quam audisti, adiiciemus
+tamen sine vobis non facile nos acturos quicquam, sperare quoque vos nihil hic detrectaturos, postquam veritas sit
+integra permansura. Hęc volui ut scires, si quidem Zvickius eadem non ad vos quoque transmisit<f1>Vgl. oben Anm.
+2.<fe>.
+^$Est apud nos consultatio Argentinensium admodum proba super articulis, quos nuper misi<f1>Vgl. oben Nr. 934, 6-35. Vom Gutachten der Straßburger
+Theologen zu den Traktanden des Bundestags zu Schmalkalden scheint nur ein
+Auszug überliefert zu sein; s. PC II 413f.<fe>. Utinam descriptores forent, ut mitterem ad te! Arcus habet
+tredecim. Ego cogito, qualiter faciendum, ut habeas.
+^$Vale cum tuis et fratribus omnibus.
+^$Basileae, raptim, 9. februarii anno 37.<un>Os. Myco.<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero suo. Zürich.
+</content>
+</letter>

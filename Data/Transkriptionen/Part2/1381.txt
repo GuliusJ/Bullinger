@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1381">
+<nr>1381</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>6. April 1540</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 164 (Siegelspur)</vo>
+<vo>Kopien: Zürich ZB, Ms S 48, 3</vo>
+<vo>Straßburg BNU, Ms 671 (ThB 12), 144.</vo>
+<dr>Ungedruckt</dr>
+<re>[Bucer] berichtet aus Schmalkalden: Die elf Theologen, die dort versammelt sind, wollen keine Vereinbarungen über Religion
+und Kirchengüter, wenn nicht Übereinstimmung in den Grundfragen der Lehre besteht. Der geldrische Herzog [Wilhelm
+von Jülich] bleibt fest, während Kaiser [Karl V.] in Gent Gericht hält; der Herzog glaubt Frankreich nicht fürchten zu
+müssen und wird von England unterstützt. Zwar ist der Kaiser den schmalkaldischen Gesandten freundlich begegnet, doch ist ihm
+nicht zu trauen, und der Papst will die Religionsfrage nicht durch die Reichsstände klären lassen; [Matthias] Held wird
+vielleicht bald scheitern. Der englische König [Heinrich VIII.] ist gesprächsbereit; man sendet ihm Schriften über die umstrittenen Fragen. Der Kaiser will mit mehreren
+Königen zusammentreffen und wird vielleicht schon bald gegen [die deutschen Protestanten] vorgehen. In Gent wurden 25
+Gefangene hingerichtet; Wilhelm von Fürstenberg ist Abt geworden, und Herzog Heinrich von Braunschweig scheint mit
+seiner jüngsten Kampfschrift einen Krieg provozieren zu wollen. Myconius legt neue Disputationsthesen [Karlstadts?] bei;
+Bullinger soll die nach Basel gesandten [Studenten] dazu anhalten, sich angemessen auf die Auseinandersetzung mit Papisten vorzubereiten.
+</re>
+<tx>S. Ex Smalcaldo sunt hęc<f1>Zum Schmalkaldischen Bundestag vom 1. März bis 15. April 1540, der vor allem der
+Vorbereitung auf das angekündigte Religionsgespräch diente, s. bes. PC III 27-43, Nr. 25 (Protokoll der Straßburger Gesandten)
+und ADRG I/2 1102-1112, Nr. 393 (Abschied vom 15. April); vgl. auch unten Nr. 1398, 2-24. - Der folgende Bericht ist von Z. 1 bis Z. 28 teilweise fast wörtlich zwei Schreiben Bucers an seine Straßburger
+Kollegen (ohne Datum) bzw. an Johannes Sturm und Ulrich Chelius (vom 10./12. März) entnommen. Bedrot hatte eine Abschrift davon
+an Myconius und Grynäus gesandt; s. Zürich ZB, Ms F 80, 112f.<fe>: Philippus<f1>Philipp Melanchthon.<fe>,
+Pomeranus<f1>Johannes Bugenhagen.<fe>, Ionas<f1>Justus Jonas.<fe>, Crucingerus<f1>Kaspar Cruciger.<fe> a Saxone<f1>d. h. im Auftrag des Kurfürsten Johann Friedrich von
+Sachsen.<fe>, ab Hesso<f1>Landgraf Philipp von Hessen.<fe> tres, ab inferioribus civitatibus duo, unus a duce Heinricho Saxone,
+undecim cum Bucero sunt Smalcaldii<f1>Neben Bucer und den oben genannten Delegierten des Kurfürsten waren folgende Theologen
+anwesend: Balthasar Raid, Antonius Corvinus und Johannes Kymeus aus Hessen, Nikolaus Scheubel im Auftrag Herzog Heinrichs von
+Sachsen, Johannes Timann aus Bremen, Nikolaus von Amsdorf aus Magdeburg sowie (nur zeitweise, deshalb hier nicht mitgezählt) Erasmus Sarcerius aus
+Nassau-Dillenburg (vgl. WA Briefwechsel IX 20).<fe>. Consentiunt nihil paciscendum de religione vel bonis ecclesię nisi cum
+iis, qui doctrinam iustificationis, verum usum sacramentorum et clavium recipient, nec concedent, quod vel puritati fidei vel
+libertati christianę aliquid detrahat<f1>Ausdruck dieser Haltung ist das Wittenberger Gutachten vom 18. Januar über die Beilegung der Kirchenspaltung (WA Briefwechsel IX 19-35, Nr. 3436; MBW 2352), das den Räten in Schmalkalden vorgelegt wurde (vgl. das Begleitschreiben vom 10.
+März, MBW 2392). Zu einer Abschrift dieses Gutachtens von Bullingers Hand vgl. unten Nr. 1398, Anm. 1.<fe>. Verum conventus non facile expectandus, et cęsar<f1>Karl
+V.<fe> videtur gravia moliri. Animi omnium, qui stant ab evangelio, firmi sunt et vigilant vigilantibus hostibus.
+^$Geldrius<f1>Herzog Wilhelm von Jülich, Berg und Kleve.<fe> stante suo nigro (hoc quid sit, nescimus<f1>In der Kopie, die
+Myconius vorlag (vgl. oben Anm. 1), lautet die unverständliche Stelle: "Geldrius iurat se salvo suo nigro cupiat non defuturum
+promissis ..." Simler korrigiert in seiner Abschrift "cupiat" in "capite" (s. Zürich ZB, Ms S 47, 167).<fe>) non deerit
+promissis, quibus Geldrios in fidem recepit<f1>Gemeint ist wohl, er werde Geldern gegen die Ansprüche des Kaisers
+verteidigen.^&xVgl. den Übergabevertrag zwischen Herzog Karl von Geldern und Herzog Johann von Jülich-Kleve vom 27. Januar 1538
+in: Urkundenbuch für die Geschichte des Niederrheins, hg. v. Theodor Joseph Lacomblet, Bd. IV, Düsseldorf 1858, S. 658-666,
+Nr. 537. ZB: XIII 830.^&x{<fe>. Cęsar Gendavi facit iudicia et iam 50 in vincula coniecit<f1>Vgl. oben Nr. 1363, Anm. 7.<fe>; populum tamen nondum exarmarunt. Persuasum est Geldrio regem G[alliae]<f1>Franz I.<fe> cęsari contra se
+auxilia abnegasse. Dux Suffulcię<f1>Nicht der Herzog von Suffolk, Charles Brandon, sondern der Herzog von Norfolk, Thomas
+Howard, reiste im Februar 1540 an den französischen Hof; s. LP XV, Reg. (s. v. Howard).<fe>, Anglus, nomine regis
+sui<f1>Heinrich VIII.<fe> magna pompa ad Gallum concessit et est regia magnificentia exceptus, ut videamus,
+quid Gallus possit erga omnes. Misit rex Angl[iae] Geldrio
+affini<f1>Am 6. Januar hatte Heinrich VIII. Anna von Kleve, die Schwester von Herzog Wilhelm, geheiratet; vgl. ^#/+Prüser,^#/-
+England 230.<fe> vim pecunię non parvam<f1>Vgl. ^#/+Prüser,^#/- England 251.<fe>.
+^$Legati principum auditi sunt a cęsare; nondum respondit, respondebit autem brevi<f1>Die Gesandten des Schmalkaldischen Bundes - Georg von der Planitz,
+Georg von Boyneburg, Johann Scheyring und Peter Sturm - waren am 24. Februar vom Kaiser empfangen worden und hatten am 14. März
+eine allgemein gehaltene Antwort erhalten; der Versuch, eine weitergehende Deklaration zu erlangen, blieb erfolglos. Vgl. PC III 21.
+25.<fe>. Promisit per Sceperum<f1>Cornelis de Schepper (Cornelius Duplicius Scepperus, eigentlich Cornelis de Dobbele),
+geb. um 1502/3, gest. 1555, von Nieuwpoort (Flandern), studierte in Paris und Löwen, bevor er als Vizekanzler in die Dienste des
+vertriebenen dänischen Königs Christian II. trat. Ab 1526 war er Rat und Staatssekretär am Hof Karls V. und wurde in den
+folgenden Jahren mit zahlreichen wichtigen diplomatischen Missionen betraut. Seit 1534 gehörte er dem niederländischen
+Geheimen Rat und seit 1538 dem Staatsrat an; ab etwa 1547 beschränkte sich seine Tätigkeit auf Verwaltungsaufgaben in den
+Niederlanden. - Lit.: [Franz von] ^#/+Krones,^#/- in: ADB XXXI 93-97; Albrecht ^#/+Luttenberger^#/- und Peter G.
+^#/+Bietenholz,^#/- in: Contemporaries III 218-220.<fe> ein zimliche<f1>angemessene.<fe> antwurt.
+Simulatam interpretantur hanc clementiam et verentur, ne
+talis sit propter Turcam<f1>Sultan Suleiman I.<fe> etiam. Egerrime videtur promissurus idem, ut status conveniant et de religione serio consultent.
+Papam<f1>Paul III.<fe> aiunt timere veritatem et ordinum con­sensum. Ideo apud cęsarem omnia impedit.
+Heldium<f1>Matthias Held (Helt), von Arlon (Belgien), gest. 1563, war ab 1527 Assessor am Reichskammergericht und wurde 1531
+Reichsvizekanzler. Der kompromißlose Gegner der Protestanten war zeitweise ein einflußreicher Berater des Kaisers. Nachdem seine
+Verhandlungen mit den Schmalkaldenern 1537 zu einer Verhärtung der Fronten geführt hatten, betrieb er die Gründung des
+katholischen Nürnberger Bundes. Als Gegner der Ausgleichspolitik und der Religionsgespräche geriet er jedoch am Hof zunehmend ins
+Abseits und verlor 1541 seine Stellung, worauf er sich als Privatmann nach Köln zurückzog. - Lit.: Irmgard ^#/+Höß,^#/- in:
+NDB VIII 465f; Albrecht ^#/+Luttenberger,^#/- in: Contemporaries II 174f.<fe> quoque casurum in foveam, quam fodit<f1>Vgl. Ps 7, 16 u. ö.<fe>, omnino putant.
+^$Anglus insuper offert disputationem scriptis et coram. Scripta quatuor parata sunt, quę mittentur: De coniugio, missa, utraque specie et votis<f1>Die von Melanchthon verfaßten
+Abhandlungen (MO XXIII 667-720) wurden am 14. April übersandt; vgl. MBW 2412.<fe>.
+^$Kalendis aprilis statuerunt convenire cęsar, Gallus, Ferdinandus, Schotus<f1>Zum Gerücht, König Jakob V. und weitere Könige würden mit dem Kaiser zusammentreffen, vgl. auch oben Nr. 1366, 17-19 mit Anm. 15.<fe>.
+Quatuor sunt, quibus cęsareani minantur: Anglus, Danus<f1>König Christian III. von Dänemark.<fe>, Geldrius, nos.
+In aula de nobis minimum iactatur, forsan quia primi designati sumus bello. Hortandus est itaque populus ad poenitentiam et preces.
+^$Pręterea cęsar ex captivis 25 rotis implicuit<f1>Am 17. März waren in Gent neun Gefangene enthauptet und aufs Rad
+geflochten worden; s. Relation des troubles de Gand sous Charles-Quint, par un anonyme, [hg. v. Louis P.] Gachard,
+Brüssel 1846, S. 87-90.<fe>. Amicis eorum negavit sepulturam<f1>Dies ist unrichtig (s. ebd.).<fe>.
+Gulielmus, comes Furstenberg[ensis], abbas factus est<f1>Hintergrund dieses Gerüchts ist die umstrittene Abtswahl
+in Gengenbach, auf die der Graf in verschiedener Weise Einfluß zu nehmen suchte; s. Johannes Volker ^#/+Wagner,^#/- Graf
+Wilhelm von Fürstenberg 1491-1549 und die politisch-geistigen Mächte seiner Zeit, Diss. Saarbrücken 1964, Stuttgart 1966. -
+Pariser Historische Studien IV, S. 190-194.<fe>. Abbatię nomen prorsus excidit.
+Timetur bellum, adeo contumeliose Heinrichus, dux
+Brunswigensis, libello publico<f1>Gemeint ist Herzog Heinrichs "Andere Antwort auf das falsche Libell" (VD 16, A 7278-7281);
+vgl. Georg ^#/+Kuhaupt,^#/- Veröffentlichte Kirchenpolitik. Kirche im publizistischen Streit zur Zeit der Religionsgespräche
+(1538-1541), Göttingen 1998. - Forschungen zur Kirchen- und Dogmengeschichte 69, S. 147-153 und 331f, Nr. II.<fe> contra
+electorem<f1>Kurfürst Johann Friedrich von Sachsen.<fe> et Hessum egit. Audio hos dixisse non verbis, sed manu vindicaturos
+se iniuriam. Mihi videtur consulto sic actum a Brunswigense praesente cęsare, ut videlicet nostri bellum incipiant; nam
+huc omnia consilia sua hactenus direxerunt. Age, nos didicimus et docemus domini esse regnum et potentiam et gloriam in
+sęcula sęculorum<f1>So die Doxologie am Schluß des Vaterunsers.<fe>; hoc teneamus. Concedat dominus, ut, qualitercunque nos invaserit, nos simus parati.
+^$Mitto tibi et Theodoro<f1>Theodor Bibliander.<fe> disputationem aliam<f1>Vgl. oben Nr. 1363, 44f und 1377, 18-20. Die von
+Myconius beigelegte Thesenreihe (von Karlstadt?) scheint nicht erhalten zu sein.<fe>. Putaram risum me Theodoro moturum, sed
+bone deus, quam omnia video non tam seria quam co­gnitu necessaria. Putas tu vitam christianam posse consistere sine
+talibus disputationibus? Admonebitis vestros, quos huc misistis<f1>Gemeint sind die an der Universität Basel
+studierenden Zürcher Konrad Suter, Christoph Rotacher und Christian Wirth; vgl. oben Nr. 1377, 1-10 mit Anm. 1.<fe>, ut diligentiam utilitati ęquam hic navent, si voluerint olim congredi cum papistis.
+^$Vale cum uxore<f1>Anna, geb. Adlischwyler.<fe> et liberis<f1>Siehe oben Nr. 1344, Anm. 14.<fe> cunque Theodoro et Pellicano.
+^$Basileę, 6. aprilis anno 1540.
+<un>Tuus Myconius.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, episcopo Tigurino, domino et fratri in Christo observando suo.
+</content>
+</letter>

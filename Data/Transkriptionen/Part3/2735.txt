@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2735">
+<brief>
+<id>17004</id>
+<nr>2735</nr> <from persid="CurioneCelio"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-01-01"/>
+<ae>Celio Secondo Curione an Bullinger</ae>
+<od>Basel, 1. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 84 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopien 18. Jh.: Basel UB, G^#'2 I 28a, 132v.-134r., Nr. 8; Zürich ZB, Ms S 63, 3; Erw.: Markus Kutter, Curione 296 (Brief 26)</k></dr>
+<re><t>Curione nutzt die Gelegenheit, seinem Gastgeber Johannes Herwagen, der nach Zürich reist, einen Brief an Bullinger mitzugeben. Bullinger wird erstaunt sein, aber Curione ist in Basel, und zwar schon seit einiger Zeit! Hier will er so lange wie möglich wirken. Dabei kann Bullingers Einfluss auf dessen Basler Freunde für Curione nur von Vorteil sein. Bullinger soll ihm weiterhin gewogen bleiben, zumal die Gelehrten der Basler Universität ihn zu schätzen beginnen. Eine Empfehlung Bullingers würde ihn aber noch mehr befördern!</t>
+<t>Curione hat Lausanne hauptsächlich deshalb verlassen, weil er und seine Frau [Margarita Bianca, geb. Isacchi] das dortige Klima nicht vertragen. Dies hat er ja in seinen Briefen an Bullinger fast immer zum Ausdruck gebracht. Außerdem ist ihm ein großes, kaum erträgliches Unrecht zugefügt worden. Er sucht seinen ganzen Trost bei Christus, für den er auch unter den schlimmsten Gefahren stets eingetreten ist.</t>
+<t>Vielleicht später einmal mehr. Die Zeit ist knapp, Herwagen bricht schon auf. Er hat versprochen, Bullinger aufzusuchen und die gesamte Familie grüßen zu lassen. Curione (der Bullingers Unterstützung nie vergessen wird) sagte gerade scherzend, Herwagen solle beim Trinken von Bullingers fünfjährigem, goldgelben Wein auf ihn anstoßen, während er in Basel in Gedanken mit Bullinger und Herwagen vom Wein des Letzteren trinken werde!</t>
+<t>Gott möge Bullinger, seine Frau Anna [geb. Adlischwyler], ihre Kinder und die Kirche bewahren! Grüße, auch an Theodor Bibliander, Konrad Pellikan und an die anderen Gelehrten.</t></re>
+<text>
+<div>
+<p>D. Henrico Bullingero suo S. D. per Christum Iesum. <zzl>zl17004-1A</zzl>Cum d. Hervagius
+<fn>Der Basler Buchdrucker Johannes Herwagen d.Ä., bei dem Curione Anfang 1547 wohnte; s. <a>Kutter</a> 88f.</fn>, hospes meus, se velle Tigurum proficisci renuntiaret,<zzl>zl17004-1E</zzl> doctissime et humanissime Bullingere, nolui committere, ut sine meis ad te literis veniret. At quid dices? Caeliusne Basileae? Sic est! Nam dudum hic sum
+<fn>Curione war ungefähr in der zweiten Hälfte November 1546 infolge einer Ausweisung (s. dazu unten <qv>fn17004-2</qv>) wegen eines Sittendelikts gegen ein junges Mädchen (s. dazu <qv>nr2758</qv>,<qv>zl17026-2</qv>; <a>AK</a> VI 418f, Nr. 2914) von Lausanne nach Basel gekommen. In Basel erhielt er im Januar 1547 den Lehrstuhl für Cicero und Rhetorik, den er bis zu seinem Tode am 23./24. November 1569 innehatte; s. <a>AK</a> VI 507.<zfn>fn17004-1</zfn></fn> et in hac urbe mihi constitutum est esse, quamdiu domino visum fuerit et illa
+<fn>illa urbs.</fn> meum munus atque officium, quantulumcunque est, non aspernabitur. In qua re te me plurimum apud tuum aliquem hic amicum iuvare posse non ignoro. Quare rogo te, mi humanissime Bullingere, ut, quod coepisti, me fovere et honestare pergas. <zzl>zl17004-3A</zzl>Nam et incipiunt iam me non aspernari optimi et doctissimi huiusce academi{e} viri; sed, si accedat tua comendatio, non solum currentes incitabis, sed etiam cessantes impelles.<zzl>zl17004-3E</zzl></p>
+</div>
+<div>
+<p>Caussae vero, cur Lausanne esse amplius nolim,
+<fn>Richtig ist, dass Curione aufgrund seines Vergehens (s. oben <qv>fn17004-1</qv>) mit einem Beschluss des Berner Rates vom 6. November 1546 aus dem Berner Territorium und damit aus Lausanne ausgewiesen wurde; s. Karine <i>Crousaz,</i> L'Académie de Lausanne entre humanisme et Réforme (ca. 1537-1560), Leiden/Boston 2012 - Education and Society in the Middle Ages and Renaissance 41, S. 536.<zfn>fn17004-2</zfn></fn> mult{e} sunt, sed du{e} pr{e}cipue: aeris caelique illic intemperies et qu{e}dam inclementia mihi me{e}que valetudini perniciosa (nam memini me vix unquam ad te
+<fa><i>Über der Zeile nachgetragen.</i></fa> scripsisse, quin me{e} aut uxoris
+<fn>Margarita Bianca, geb. Isacchi.</fn> advers{e} valetudinis sit facta mentio)
+<fa><i>Klammern ergänzt.</i></fa>
+<fn>Siehe etwa Mitteilungen Curiones aus den Jahren 1543 (<a>HBBW</a> XIII 326,3-5 und 16-18) und 1544 (<a>HBBW</a> XIV 232,17f).</fn>; <zzl>zl17004-4A</zzl>deinde, quod me magis movit, insignis qu{e}dam iniuria est,
+<fn>Siehe dazu oben <qv>fn17004-1</qv>.</fn> quam etiamnum vix ferre aequo animo possum.<zzl>zl17004-4E</zzl> Verum dominus ille, meus Iesus Christus, quem semper ex animo colui quemque pr{e}dicare in mediis etiam periculis nunquam dubitavi, is me nunc etiam consolatur nec destituit, nec destituet unquam.</p>
+</div>
+<div>
+<p>Plura fortassis alias. Nunc vix est tempus ista pauca scribendi, <zzl>zl17004-2A</zzl>quod iamiam noster Hervagius sit profecturus;<zzl>zl17004-2E</zzl> quem oravi, ut ipsemet te meo nomine inviseret et officiose salutaret cum tota familia. Id quod, qua humanitate est, se facturum esse promisit, presertim cum ultro ipse te salutare omnino constituisset. Ac, cum ego (qui nunquam tu{e} istius benignitatis ac potius divin{e} cuiusdam charitatis oblivisci possum)
+<fn>Bezug auf Bullingers Unterstützung von Curione und dessen Familie, als sie 1542 in die Eidgenossenschaft gekommen waren; s. dazu <a>HBBW</a> XV 92, Anm. 35.</fn> tua erga me totamque meam familiam officia et merita commemorarem apud d. Hervagium, iocans, ut fit, illi mentionem feci illius tui quinquennalis vini, quod ego aureum vinum a colore appellare soleo, rogavique, ut tecum poculum unum hauriret meo nomine, me hic de suo vestro utriusque nomine alterum bibiturum. Sed hoc, ut dixi, ioco.</p>
+</div>
+<div>
+<p>Iam nihil est aliud, quod ad te nunc scribere possim, mi dulcissime Henrice
+<fa><i>In der Vorlage</i> Herice.</fa>, anime mi, nisi deum pr{e}cor, ut te mihi diu et ecclesie sue servet incolumem cum uxore honestissima
+<fn>Anna, geb. Adlischwyler.</fn> et liberis dulcissimis
+<fn>Von Bullingers Kindern lebten zu diesem Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich (1534), Hans Rudolf (1536), Christoph (1537), Veritas (1543) und Dorothea (1545). - Am 19. Mai 1547 wurde der Sohn Felix geboren (s. <a>HBD</a> 35,1-4).<zfn>fn17004-3</zfn></fn>, quos omnes meo nomine salutabis et una d. Bybliandrum, d. Pellicanum, bonum illum et sanctum senem, et alios doctissimos fratres. Vale per Christum Iesum. Basile{e}, calendis ianuarii 1547.</p>
+<un>Tuus ex animo semper deditissimus</un>
+<un>Caelius S. C. subscripsit.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Henrico Bullingero, ecclesi{e} Tigurin{e} antistiti, tum vigilantissimo, tum omni genere literarum excultissimo, suo observando. Tiguri.</p>
+</div>
+</text>
+</brief>

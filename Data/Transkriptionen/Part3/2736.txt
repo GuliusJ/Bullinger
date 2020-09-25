@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2736">
+<brief>
+<id>17005</id>
+<nr>2736</nr> <from persid="EnzinasFranciscoDe"/> <to persid="Bullinger"/> <place plid="Basel"/> <date when="1547-01-01"/>
+<ae>Francisco de Enzinas an Bullinger</ae>
+<od>[Basel], 1. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 366, 42 (Siegelspur)<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 2; Kopien 19./20. Jh.: Sraßburg BNU, Ms 3900, 232 (Schmidt); Madrid BN, 8862, suelto und f. [Ddro] 14; Zit.: C. Gilly, Spanien 333; Teilübers.: Niehans, in; Zwa 8, 251. ─ Boehmer: Hd II 2259; García: Hd II 1023 und Hd II 1025.</k></vo>
+<dr>Druck: <a>Boehmer, Dryander</a> 403f, Nr. 17;<br/>Druck und spanische Übersetzung: <a>Enzinas BW</a> 160-163, Nr. 20</dr>
+<re><t>Es tut Enzinas furchtbar leid, dass er weder zu Weihnachten noch jetzt mit Johannes Herwagen nach Zürich gekommen ist. Er hätte so gerne die Gottesdienstform der Zürcher kennen gelernt und sich mit Letzteren ausgetauscht. Doch wird er derzeit leider wegen Bagatellen davon abgehalten. Wenn nichts Unerwartetes eintrifft, hofft er, in etwa 20 Tagen die geplante Reise anzutreten.</t>
+<t>Kaiser Karl V. soll von den Toten auferstanden sein und unerwartet gesiegt haben. Vielleicht entspricht dies Gottes Plan, ihn nämlich nach einem Sieg noch tiefer fallen zu lassen; denn Enzinas kann nicht glauben, dass Gott seine Kirche diesem Tyrannen ausliefern wird. Bestimmt will er nun die Seinen züchtigen.</t>
+<t>Enzinas fragt sich, ob die Helvetier klug handeln, wenn sie in diesen gefährlichen Zeiten, die für sie noch bedrohlicher sind als für die deutschen Protestanten, auch weiterhin nichts tun. Ferner wird der Kaiser sich jedes einzelnen [Ortes] viel leichter bemächtigen können, als wenn alle [Orte] zusammenhielten. Demzufolge wäre es ganz unvernünftig, wenn einige [Orte]
+<fn>Gemeint sind die vier protestantischen Orte.</fn> allein in den Kampf zögen, weil die anderen ihnen nicht helfen wollen. Doch was vermag die menschliche Hilfe? Der Sieg kommt ja vom Himmel.</t>
+<t>Herzog Moritz von Sachsen soll vom dänischen König Christian III. und von den Hansestädten geschlagen worden sein. Wenn dies nur wahr wäre! Wissen die Zürcher etwas dazu?</t>
+<t>Der für Christoph Froschauer bestimmten Sendung des Basler Buchhändlers Heinrich Petri hat Enzinas ein Buch [...] für Hieronymus Sailer beigelegt. Sobald Bullinger dieses erhält, möchte er es an Sailer weiterleiten. Das Gleiche gilt auch für den Brief. Enzinas wird Bullinger all die dadurch entstandenen Ausgaben zurückerstatten, sogar mit einem Zins.</t>
+<t>Grüße an Konrad Pellikan und Theodor Bibliander, denen Enzinas ein gutes neues Jahr wünscht. Auch Bullinger und dessen Familie wünscht er alles Gute.</t></re> <textweg>
+<p>S. D. Valde doleo neque ad festum natalis Christi potuisse ad vos venire neque iam posse cum Hervagio. Alioqui nihil mihi gratius fuisset quam vestros ritus ecclesiasticos videre vestraque frui consuetudine. Sed impeditus rebus non ita magni momenti venire non potui. Ubi me ex hoc pistrino explicavero, quod intra dies viginti futurum spero, sine dubio veniam, nisi quid aliud interea contingat divinitus.</p>
+<p>Audio imperatorem
+<fn>Karl V.</fn> revixisse sibique gratulari istam sibi optatam atque insperatam victoriam; facile est vincere non repugnantes. Fortassis deus vult eum collocare in sublimi quodam dignitatis gradu, ut eo tandem ex altiore loco praecipitetur, velle autem huic tyranno tradere suam ecclesiam laniandam nunquam credam. Interim nos peracerbe castigamur, quod utinam in salutem nostram convertatur, sicut vere deo credentibus solet contingere.</p>
+<p>Caeterum in tanto periculo publico nescio an sapienter ab Helvetiis factum videatur, quod in tanta causa, in qua non minus aut etiam magis ipsi quam reliqui evangelii professores petantur, nondum se moverint, neque scio an aliquid etiamnum certi ab ipsis sperandum esse videatur. Imperator facilius franget singulos quam coniunctos, et metuendum est, ne soli cogantur pugnare, qui cum aliis noluerunt. Video auxilia humana nulla esse. De coelo nobis speranda erit victoria neque dubitandum adfuturum esse invocantibus vera fide etiam in rebus afflictissimis.</p>
+<p>Accepimus Mauricium
+<fn>Moritz von Sachsen.</fn> esse fusum et fugatum a rege Daniae
+<fn>Christian III.</fn> et maritimis civitatibus. Utinam sit verum! Si quid habes, quod posset nos aliqua molestia levare, communica nobis.</p>
+<p>In vasculo librorum bibliopolae Petri ad vestrum typographum
+<fn>Christoph Froschauer.</fn> misi librum ad Sailerum; quaeso, ut, cumprimum accipias, ad eum transmitti iubeas, et literas mittes primo nuncio. Quicquid in istiusmodi rebus vel sumptus vel laboribus imponetur, rependam omniam etiam cum foenore.</p>
+<p>Saluta meis verbis patrem Pellicanum, d. Theodorum
+<fn>Theodor Bibliander.</fn> et reliquos fratres, quibus omnibus foelicem huius anni auspicium precaberis. Tibi ego cum tota familia fausta omnia opto.</p>
+<p>Bene vale, primo die anni 1547.</p>
+<un>Tuus Franciscus Dryander.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero. Tiguri.</p> </textweg>
+</brief>

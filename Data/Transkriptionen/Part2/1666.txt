@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1666">
+<nr>1666</nr>
+<correspondents>
+	<originator>Johannes Comander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Chur</place>
+	<date>26. September 1542</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 365, 29 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 214</vo>
+<re>Dank für zwei durch [den Kapuzinermönch] Hieronymus aus Neapel und Celio Secondo [Curione] übermittelte Briefe; wie das Zeitalter, so sind die Menschen: Die gegenwärtige Zeit ist geprägt von Veränderungen, und ebenso haben die Menschen das Verlangen nach neuen Dingen. Dank für Bullingers
+zuvorkommende Aufmerksamkeit. Von den turbulenten Verhältnissen [in Graubünden] berichtet der Bote [Nikolaus Pfister?] besser mündlich. Grüße an Bullinger und seine Kollegen, auch von Johannes Blasius.
+</re>
+<tx>[Gedruckt: Graubünden, Korr. I 48, Nr. 36.]
+^&xGratiam et vitae innocentiam a domino.
+^$Binas ab humanitate tua accepi literas, doctissime
+Bullingere, unas per fratrem Iheronimum Neapolitanum:::1{,
+alteras per Coelium Secundum, quibus me de pluribus
+certiorem fecisti. Quale seculum, tales sunt et homines;
+seculum praesens subitis immutationibus refertum et
+stupendum est, ita et homines novarum rerum cupidissimi. Ego
+tibi magnas habeo gratias pro hac diligentia tua tam
+officiosa erga me immeritum.
+^$De rebus nostris tam afflictis quam disiectis et turbatis
+tibi scriberem, nisi tabellarius:::2{ ipse tam ydoneus ad
+hoc officium mihi contigisset, qui omnia multo melius coram
+referre posset. Ex illo nempe omnia ad amussim et certissima
+audies.
+^$Tu me deinceps ut hucusque commendatum habeas et ex me
+salutem dicas fratribus. Vale.
+^$Ex Rhetiae Curia, sexto kalendas octobris 1542.
+^$Salutat te et omnes fratres Tigurinos frater noster
+Iohannes Blasius.
+<un>Tibi deditissimus Iohannes Comander.
+<lz>[Adresse .....:] Clarissimo viro magistro
+Heinricho Bullingero, Tigurinae urbis episcopo, domino ac
+fratri suo observandissimo.
++1^$Hieronymus Neapolitanus, vgl. HB an Vadian, 19. Dez.
+1542; gemäß Register Graub. III 589 ist Bolsec(??) gemeint. ---> Dem hat schon CO XI 479 energisch widersprochen!! Nicht sicher nachweisbar; evtl. Girolamo da Dipignano?? Vgl. I frati cappuccini, hg. v. C. Cargnoni, II 1286/1322f (bleibt wohl Spekulation).
++2^$Vielleicht Nikolaus Pfister (Baling), auf dem Weg
+nach Brugg.^&x{
+</content>
+</letter>

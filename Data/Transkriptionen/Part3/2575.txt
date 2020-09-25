@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2575">
+<brief>
+<id>16263</id>
+<nr>2575</nr>
+<ae>Oswald Myconius an Bullinger</ae>
+<od>Basel, 8. September 1546</od>
+<vo>Autograph: Zürich StA, E II 336a, 248 (neu: 266) (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 61, 136</k></dr>
+<re>Bullinger hat eine gute Nachricht übermittelt! Wie schön, dass [Kurfürst Johann Friedrich von] Sachsen mit dem aus der Schlacht zurückkehrenden [Landgrafen Philipp von] Hessen so freundschaftlich und väterlich umgeht! Der Herr bewahre diese Eintracht!
+<t/>Das nur 4'000 Reiter und 12'000 Mann Fußvolk zählende [kaiserliche] niederländische Heer ist auf dem Weg zum Kaiser [Karl V.] und strebt derzeit nach Osthenburg [richtig: Rothenburg ob der Tauber]. Vor Frankfurt wurde es durch die landgräflichen Truppen zurückgeschlagen. Einige der kaiserlichen Soldaten wurden dabei erschossen, andere gefangen.
+<t/>Herzog Ulrich [von Württemberg] zieht in Richtung Schwäbisch Hall. Er will verhindern, dass die niederländischen Landsknechte sich dem Kaiser anschließen oder den Landgrafen angreifen. Die landgräfliche Einheit bei Frankfurt ist etwa 20'000 Mann stark und kommt über die Bergstraße dem Herzog Ulrich zu Hilfe. Dies hat [Nikolaus] Episcopius am 4. September durch den Brief eines guten Freundes [...] erfahren.
+<t/>Damit Bullinger sich nicht wie schon früher beklagen kann, [Myconius' Schriften nicht zu bekommen], ist dem Brief die ["Trostliche ußlegung"] beigelegt.
+<t/>[Johannes] Gast hat [Bullingers] Brief gelesen, ehe Myconius dazu kam. Er führte nämlich den Boten [...] zu Myconius, doch war Letzterer gerade beim Essen [und erlaubte daher Gast die Lektüre].
+<t/>Grüße an Rudolf [Gwalther]. Der Bote [...] hat es eilig; so auch Myconius.</re>
+<text>
+<p>S. Gaudium ingens adnunciasti nobis!
+<fn>In einem nicht erhaltenen Brief. - Wahrscheinlich war darin (wie in Bullingers Brief an Blarer vom 3. September) von dem Gefecht vor Ingolstadt die Rede; vgl. <qv>nr2562</qv>,<qv>zl16253-16</qv>. Vgl. auch unten <qv>fn16263-1</qv>.<zfn>fn16263-3</zfn></fn> Precamur dominum Iesum, ut bene vertat. Videmus favorem divinum a nobis esse. Curandum ergo, ne amittamus. Placet vero inter alia mihi, quod duo principes, Saxo
+<fn>Kurfürst Johann Friedrich I. von Sachsen.</fn> et Hessus
+<fn>Landgraf Philipp von Hessen.</fn>, tam agunt inter se amice.
+<fn>Zum gemeinsamen Vorgehen des Kurfürsten und des Landgrafen am 31. August vor Ingolstadt s. den Bericht des Kurfürsten vom 2. September (<a>Mentz</a> III 550, Nr. 69) und den der landgräflichen Kanzlei in <qv>nr2581</qv>,<qv>zl16270-3</qv>.<zfn>fn16263-1</zfn></fn> Pater alter, alter filium agere videtur. An vero Saxonis vox ad Hessum redeuntem ex
+<fa>ex <i>fehlt in der Vorlage.</i></fa> proelio non fuit libere paterna? et Hessi responsum annon fuit filii? Dominus adsit animis tam pie concordantibus!</p>
+<p><zzl>zl16263-4A</zzl>Es züchen die Niderlender
+<fn>Das kaiserliche Heer unter Maximilian von Egmont, Graf von Büren; s. dazu <qv>nr2560</qv>, <qv>fn16250-11</qv>; <qv>nr2561</qv>, <qv>fn16252-5</qv>; und zuletzt <qv>nr2567</qv>,<qv>zl16258-1</qv>.<zfn>fn16263-4</zfn></fn> zum kaiser
+<fn>Karl V.</fn> z{uo}. Habenn uff Franckfurt ziechen wellen. <zzl>zl16263-2A</zzl>Do habenn die lantgraphischen sy nit durch landtwers
+<fn>landtwers: die äußerste Linie der Stadtbefestigung; s. <a>SI</a> XVI 914f. - Zur Sache s. <a>PC</a> IV/1 369, Nr. 346: "und haben usser [= außerhalb von] der lantwör vor Frankfurt sich gegen den keiserischen wol gehalten und etlich erlegt, ouch ein capitane samt andern gefangen".</fn> lassen wellen, sunder sy wider zerugg getriben, ettlich erschossen, ouch ettlich gfangen.<zzl>zl16263-2E</zzl> <zzl>zl16263-1A</zzl>Die sollen bekant haben, das nit uber 4'000 z{uo} roß und 12'000 ze f{uo}ß syen.<zzl>zl16263-1E</zzl> Haben iren zug uff Osthenburg
+<fn>Richtig: Rothenburg ob der Tauber; vgl. <a>PC</a> IV/1 373, Nr. 352.</fn> genommen.<zzl>zl16263-4E</zzl></p>
+<p>Also zücht herzog Ulrich
+<fn>Herzog Ulrich von Württemberg.</fn> mit vil volcks uff Schwebschen Hall, die niderlendischen knecht z{uo} furziechen
+<fn>z{uo} furziechen: entgegen zu ziehen.</fn>, uff das sy nit zum kaiser oder zum landgrafen m{oe}gen. <zzl>zl16263-3A</zzl>Und die kn{ae}cht und reisigen
+<fn>Kavallerie.</fn>, so umb Franckfurt gel{ae}gen,
+<fn>Zu dieser landgräflichen Einheit s. <qv>nr2558</qv>,<qv>zl16248-22</qv>; <qv>nr2561</qv>,<qv>zl16252-14</qv>.<zfn>fn16263-5</zfn></fn> uff die 20'000, die sollen ouch iren zug durch die bergstraß
+<fn>Eine Straße, die sich von Darmstadt in Hessen über Heidelberg nach Wiesloch in Nordbaden erstreckt.</fn> uff Schwebschen Hall genomen haben, h[erzog] Ulrichen huffen z{uo} stercken und helfen.<zzl>zl16263-3E</zzl> Der allmechtig gott g{ae}be gnad! Tantilla descripsi ex literis Episcopii
+<fn>Nikolaus Episcopius, Buchdrucker in Basel.</fn>, ad quem a bono amico
+<fn>Unbekannt.</fn> 4. septembris missa sunt.</p>
+<p>Libellum meum
+<fn><i>Myconius,</i> Ein trostliche, und diser zyt, fast dienstliche ußlegung, dess CI. Psalmen Davids ... geprediget unnd beschriben, Bern, Matthias Apiarius, 1546 (<a>VD16</a> G831). - Die Widmungsepistel datiert vom 25. Mai 1546 (f. A2v.).</fn> misi non ob aliud, nisi ne, sicubi videres, expostulares mecum ut nuper
+<fn>Im Brief vom 14. März 1545; s. <a>HBBW</a> XV 181,10f.</fn> me meorum nihil dare ad te.</p>
+<p>Gastius adducto tabellione
+<fn>Unbekannt.<zfn>fn16263-2</zfn></fn> prius quam ego legit
+<fn>Den oben in <qv>fn16263-3</qv> erwähnten Brief.</fn> in {e}dibus meis, dum ego coenarem, omnia. Gratias agamus domino sine intermissione et, ut det, precemur, ne a beneficentia eius insolescamus.</p>
+<p>Vale cum tuis et Rodulpho
+<fn>Rudolf Gwalther.</fn> et aliis piis. Festinat tabellio
+<fn>Unbekannt.</fn>, et mihi festinandum. Basile{e}, 8. septembris anno 1546.</p>
+<un>Os. Myconi.</un>
+<un>tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, antistiti Tigurinorum, fratri ac domino venerando in Christo suo. Zü[rich]
+<fa><i>Textverlust durch Entfernung des Verschlussbandes.</i></fa>.</p>
+</text>
+</brief>

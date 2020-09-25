@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2396">
+<brief>
+<id>16086</id>
+<nr>2396</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>Zürich, 29. März 1546</od>
+<vo>Autograph
+<fa><i>Der Brieftext ist wegen eines Wasserschadens stellenweise unlesbar. Die fehlenden Stellen wurden aus den Abschriften von Johann Heinrich Hottinger (Zürich ZB, Ms F 43, 127r.) und Johann Jakob Simler (Zürich ZB, Ms S 60, 6) ergänzt.</i></fa>: St. Gallen Kantonsbibliothek (Vadiana), <br/>Ms 35 (VBS VI), 125 (Siegelabdruck)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 432, Nr. 1273<k>Kopien 17. und 18. Jh.: Zürich ZB, Ms F 43, 127r.; Ms S 60, 6 </k></dr>
+<re>Bullinger empfiehlt den [nach Konstanz] zurückkehrenden [Jakob] Metzler, der sich in [Zürich] gut betragen hat. Die [Zürcher] hoffen, dass Metzler der Kirche einmal nützlich sein wird, besonders, wenn er seine Fähigkeiten durch beständiges Studium erweitert.
+<t/>Grüße, besonders an [Thomas Blarer], [Konrad] Zwick, [Bartholomäus] Metzler und [Jakob] Funcklin.</re>
+<text>
+<p>Gratiam et pacem. Redit ad vos Metzlerus vester
+<fn>Jakob Metzler; s. zuletzt <qv>nr2366</qv>,<qv>zl2366-9</qv>.</fn>, Ambrosi suavissime, ac bona quid[em cum] gratia nostra. Ita enim se apud nos g[essit],
+<fn>Metzler war 1545 auf Vermittlung Blarers zum Studium nach Zürich gesandt worden; s. <a>HBBW</a> XV 206, Anm. 19.</fn> ut laude illum simus prosequturi, habiturique semper pro nostro, licet non redierit. Si redierit, libenter r[u]rsus recepturi. Speramus illum aliquando [ec]clesiae profuturum non mediocriter, praese[rt]im si dotes perpetuo et non interrupt[o stu]dio perrexerit loqupletare augereq[ue].
+<fn>Vgl. Mt 25, 14-30.</fn> Commendamus itaque illum et tibi et p[atri]
+<fn>Bartholomäus Metzler.</fn> et omnibus bonis. Dominus Iesus et [vos?] et illum diu servet incolumem.</p>
+<p>Vale. Tiguri, 29. martii. Salutabis fratrem tuum,
+<fn>Thomas Blarer.</fn> Zviccium,
+<fn>Konrad Zwick.</fn> Metzlerum seniorem, Funcklium
+<fn>Jakob Funcklin.</fn> et fratres ac symmistas omnes. 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Praestantissimo viro d. Ambrosio Blaurero, fratri incomparabili.
+<fa><i>Darunter von Blarers Hand:</i> Metzleri testimonium.</fa> Constantz.</p>
+</text>
+</brief>

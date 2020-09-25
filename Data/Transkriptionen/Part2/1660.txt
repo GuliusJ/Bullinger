@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1660">
+<nr>1660</nr>
+<correspondents>
+	<originator fn=1>Schultheiß</originator>
+	<originator>Rat von Winterthur</originator>
+	<addressee fn=2>[Bullinger]</addressee>
+	<note fn=1>Das Schultheißenamt in Winterthur bekleidete 1542 Lorenz (Laurenz) Gisler, vgl. Joh[ann] Conrad ^#/+Troll,^#/- Geschichte der Stadt Winterthur, nach Urkunden bearbeitet. Fünfter Theil, enthaltend die politische Geschichte der Munizipalstadt Winter­thur, Winterthur 1845, S. 85; HBLS
+III 532.</note>
+	<note fn=2>Die Empfängerschaft Bullingers ergibt sich aus dessen Antwort auf vorliegenden Brief in Nr. 1661.</note>
+</correspondents>
+<space_time>
+	<place>Winterthur</place>
+	<date>14. September 1542</date>
+</space_time>
+<vo>Original: Zürich StA, E II 440, 318, Nr. 68 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Für die nach dem Ableben [Lienhart Biberlis] nötige Neubesetzung der Schulmeisterstelle hat Hans von Hinwil von Elgg einen jungen Mann [Christoph Rotacher] vorgeschlagen; sie sind willens, ihn anzustellen, und bitten um das Einverständnis der [Zürcher Schul-]Herren. Segenswunsch.
+</re>
+<tx>Wolgelerter, wirdiger, sonnders gunstiger lieber
+her, üch sige unnser früntlich gruͦtz, willigen dienst,
+sampt was wir eren und guͦtz vermöchten, zevor, günstiger
+lieber her.
+^$Wir sind des achtens, ir traggen guͦt wüsen<f1>Wir nehmen an, ihr wisst gut.<fe>,
+wie unnser schuͦlmeyster<f1>Lienhart Biberli.<fe>, dem got gnedig, abgangen und von
+diser zit gscheiden, derhalben wir geursachet worden, nach
+einem anderen zewerben. Unnderzwischennd uns unser lieber
+burger Hans von Hinwil<f1>Hans von Hinwil, geb. 1498 in Elgg, gest. 1544, besuchte den Unterricht Vadians in Wien und Glareans in Basel. Er war Gerichtsherr zu Elgg, ab 1527 bischöflicher Vogt zu Güttingen (Kt. Thurgau) und ab 1530 zu Meersburg sowie oberster Forstmeister des Konstanzer Stifts und
+ab 1543 Hofmeister des Abts von St. Germain. Bürger von Zürich, ab 1516 von Winterthur. 1523 Heirat mit Beatrix von Hohenlandenberg. Hans, der auch genealogische Interessen pflegte, blieb altgläubig, nahm aber auf Seiten Zürichs am Zweiten Kappelerkrieg teil, den er in einer Darstellung beschrieb. -
+Lit.: Conradin ^#/+Bonorand,^#/- Personenkommentar II zum Vadianischen Briefwerk, St. Germain 1983. - Vadian-Studien 11, S. 310-313; HBLS IV 228f.<fe> zuͦ Elgöw<f1>Elgg (Kt. Zürich).<fe> von eins jünglings<f1>Christoph Rotacher (vgl. HBBW X, S. 79, Anm. 1 und unten Nr. 1661, Z. 19).<fe>, den er
+acht, darzuͦ gschickt, früntlicher pit wyß angetast<f1>ersucht.<fe> den
+anzennemen, dan der pürtig von Elgöw und unser gnedig herenn
+in erzogen habind. Nun weren wir in zestund<f1>sogleich.<fe> anzenemen gneigt
+gsin. So haben wir uß ursachen das underlassen, das wir
+geachtet, diewil unser gnedig heren ine enthalten<f1>für seinen Unterhalt gesorgt haben.<fe>, nit wol
+zefriden, ine also ongeurllobet abzefüren. Das gar unsers
+wilens nit ist; so aber er doch so ver<f1>sofern.<fe> mit wilen unser heren
+uns werden möcht, welten wir in guͤtlich annemen und im das,
+so man pflichtig were zethuͦn, bewysen. Wo aber unser heren
+wil<f1>Wille.<fe> nit sin wurde, liesind wir es sinthalb ein guͦt sach
+sin. Dan uß pit des von Hinwils wir ine zebedencken gneigt.
+Üch das alles hiemit guͦter, früntlicher meinung zewüsen
+than haben welend, ir destbas<f1>umso eher.<fe> vilicht dem guͦten jüngling,
+sich witer in die sach zeschycken, anleitung geben können.
+^$Üch damit got dem heren in sin schirm befehlende, der üch
+alwäg<f1>immer.<fe> in gsontlichem wolstat enthalten<f1>in gesundem Wohlergehen bewahren.<fe> welle.
+^$Datum in ill<fx>in Eile.<fe>, exaltationis crucis anno etc. 1542.
+<un>Schultheis und rät
+<un>zuͦ Winterthur.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

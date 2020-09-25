@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1565">
+<nr>1565</nr>
+<correspondents>
+	<originator>Johannes Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Frankfurt am Main</place>
+	<date>15. September 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1381 (Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 83.</vo>
+<dr>Ungedruckt</dr>
+<re>Bedankt sich für Bullingers Wohlwollen. Wird [mit Johannes Wolf und Johann Jakob Wick] [zum Studium] nach Leipzig gehen und will zusammen mit Wolf ein Jahr bleiben, falls er keine andere Anweisung erhält; Wick wurde nach Zürich zurückbeordert und kehrt auf die [Frühjahrs-]Messe hin zurück.
+Haller richtet sein Studium ganz auf seine künftige Funktion als Pfarrer aus, eine Berufung, für die er sehr dankbar ist. Weitere Neuigkeiten wird Bullinger von anderen erhalten; entschuldigt sich für sein unkluges Verhalten und für Kürze und Stil seines Briefes. Grüße.</re>
+<tx>Salutem a domino nostro etc.
+^$Saepe deliberanti mihi, quibus potissimum rationibus,
+Bullingere dilecte pater, tecum in gratiam redire possem,<f1>Haller spielt auf die gewährte Verlängerung seines Auslandstudiums trotz verschiedener Vergehen an; vgl. oben Nr. 1453, 1-37.<fe>
+omnes tamen cogitationes meas et consilia tua superavit
+humanitas, benignitas et clementia, pro qua humanitate
+gratias tibi, quantas possum, et ago et habeo vicissimque
+polliceor me talem erga te futurum, qualem me expectas.
+^$Lypsiam, quo proficisci iussi sumus, proficiscemur, ad
+proximas nundinas<f1>Gemeint ist die Frankfurter Frühjahrsmesse 1542, vgl. oben Nr. 1564, 24f.<fe> alia vestra decreta expectantes. Rogamus
+tamen, dilecte pater, ut Wolphio<f1>Johannes Wolf.<fe> et mihi Lypsiae per
+integrum annum degere permittatis. Wickius enim propter
+certas causas<f1>Johann Jakob Wick hatte unerlaubt einem Mädchen die Ehe versprochen; s. oben Nr. 1564, 2-18.<fe> a vobis vocatus ad proximas nundinas redire
+statuit. Nos, si permiseritis, post redibimus. Sed haec
+vobis decernenda, nobis exequenda erunt.
+^$De studiis meis hoc unum scribo, quod omnia eo tendunt, ut
+functioni, ad quam destinatus sum, satisfacere possim. Scio
+sanctum et divinum esse officium agoque gratias deo meo,
+quod humilitatem servi sui (ut propheta inquit<f1>Vgl. Lk 1, 48.<fe>) respexerit
+et me vocarit ad sacrosanctum illud verbi sui ministerium,
+lętorque in deo, servatore meo, quod is me verbi
+nominisque sui praeconem esse voluerit. Sed haec alias.
+^$Cętera, quae nova sunt, alii<f1>Gemeint sind wohl Wolf und Wick; vgl. deren Briefe Nr. 1564 und 1568.<fe> (ut opinor) scribunt. Tu,
+quae antea commisi imprudentius, ignosce, rogo; pia enim
+quędam simplicitas, ut errarem (deum testor) causa fuit.
+Ignosce etiam, rogo, dilecte pater, quod ita raptim scribo;
+brevi meliora dabo. ^$Vale cum omni familia.
+^$Datum Francofurti, 15. septembris 1541.
+<un>Ioan. Haller.
+<lz>[Adresse auf der Rückseite:] Doctissimo
+clarissimoque virod. M. Heinrycho Bullingero, ecclesiae
+Tigurinae antistiti fidelissimo, domino ac patri suo
+perpetuo colendo. Zurich.
+</content>
+</letter>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1863">
+<nr>1863</nr>
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>11. März 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 362, 50 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 70^&x{
+<dr>Ungedruckt</dr>
+<re>Versucht die Regelung der Nachfolge von [Peter] Kunz bis zur Rückkehr von Schultheiß [Hans Franz] Nägeli und [Michael] Ougspurger aus Savoyen hinauszuschieben, doch [Simon] Sulzer drängt; Ritter bittet Bullinger um Nennung möglicher Kandidaten; während [Kaspar] Megander umstritten ist, hoffen manche auf den Zürcher Jodocus Kilchmeyer; Bullinger soll an Sulzer schreiben, muss aber damit rechnen, dass sein Brief nach Straßburg [zu Bucer] gelangt. Grüße, auch an Megander.
+</re>
+<tx>Gratiam et pacem etc.
+^$De substituendo alio in locum Contzeni<f1>Zur Debatte um die Nachfolge des verstorbenen Peter Kunz s. zuletzt oben Nr. 1854.<fe> nichil dum actum est,
+siquidem data opera ego negotium distuli usque ad adventum
+consulis Negelini<f1>Hans Franz Nägeli.<fe> et Augspurgeri<f1>Welsch-Seckelmeister Michael Ougspurger.<fe>, qui nunc in provintia sunt
+Sabaudie<f1>Gemeint ist das 1536 von Bern eroberte savoyische Gebiet.<fe>. Sed diutius differre non possum, quoniam^&xwegen Indikativ kaum quum^&x{ Sultzerus
+causam maxime urget. Proinde ne detrectes, si quem habes,
+cum quo ecclesie nostre consultum iudicares. De Megandro
+nostro multi male sperant ob veterem inimicitiam quorundam;<f1>Megander hatte Bern Anfang 1538 im Streit verlassen, nachdem er schon vorher verschiedentlich angefeindet worden war; s. HBBW I 214f, Anm. 53; Matthias ^#/+Freudenberg,^#/- Art. Megander, Kaspar, in: BBKL XIV 1245-1249.<fe> tamen<fx>tamen ^#/+korrigiert aus^#/- tametsi.<fe>, si fieri potest, ego non cedam mea diligentia. Deinde
+sunt, qui de Iodoco Kilchmeyr mentionem fecerunt, quem ego
+non novi; sed quia Tigurinus est,<f1>Jodocus Kilchmeyer stammte zwar aus Luzern, war aber schon seit 1531 Pfarrer im zürcherischen Küsnacht. Er sollte erst nach Ritters Tod (1546) nach Bern berufen werden; s. HBBW III 137, Anm. 1.<fe> multis spem facit
+egregiam. Ego, mi Bullingere, te rogo, ut unum et alterum
+nomines, quos pro ecclesia nostra esse iudicabis. Deinde,
+quod putas, te scripturum ad Sultzerum, non possum
+dissuadere; sed caute scribas<fx>scribas ^#/+über der Zeile nachgetragen.^#/-<fe>, quoniam^&xkaum quum^&x{ non dubito vel literas vel descriptum brevi fore Argentorati; ita addictus est Luthero<f1>Vgl. oben Nr. 1855, Anm. 3.<fe> et Buccero.
+^$Vale. Salutant te et Megandrum omnes boni et pii viri.
+^$Ex Berna, 11. martii 1544.
+<un>Erasmus Ritter,
+<un>ex animo tuus.
+<lz>[Adresse auf der Rückseite:] Doctissimo simul et pientissimo viro Magistro Henrichio Bullingero, ecclesie Tigurine antistiti clarissimo etc.
+</content>
+</letter>

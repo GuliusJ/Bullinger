@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1869">
+<nr>1869</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Ambrosius Blarer</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>14. März 1544</date>
+</space_time>
+<vo>Autograph: Zürich ZB, Ms A 40, 31, Nr. 14 (Siegelabdruck)</vo>
+^&xK: Zürich ZB, Ms S 54, 81 - -> [danach prov. eingetippt]^&x{
+<dr>Zusammenfassende Übersetzung: Blarer BW II 238f, Nr. 1067</dr>
+<re>Übersendet seine Antwort an [Johannes] Cochläus ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"] und bittet um offene Stellungnahme; hat das Werk in 14 Wochen geschrieben und verteidigt die gemeine Sache. Blarer soll ein Exemplar an [Martin] Frecht in Ulm schicken und diesen bitten, ein weiteres Exemplar samt Begleitbrief [Nr. 1870] an Cochläus zu übermitteln; er möchte nicht, dass sein Werk der Öffentlichkeit zugänglich wird, ehe der Betroffene davon ein Exemplar erhalten hat (wie es ihm mit Cochläus' Schrift erging). Fürchtet sich nicht, sondern möchte eine offene Auseinandersetzung, auch zum Lob Gottes und zum Wohl der Kirche. Blarer soll für ihn beten; Grüße.</re>
+<tx>S[alutem] d[ico]. Accipe hic, Ambrosi, frater suavissime, quae
+respondi Cochleo<f1>Siehe oben Nr. 1839, Anm. 3; 1858, Anm. 1; unten 1870.<fe>, ac iudica libere fratremque admone
+liberrime. Scripsi haec intra septimanas fere 14 horis
+succisivis. Defendi causam communem, atque utinam magno
+cum fructu! Quae his tuis coniunxi, quaeso Ulmam ad Frechtum<f1>Martin Frecht. - Ein Brief Bullingers an Frecht ist nicht erhalten.<fe>
+deferri diligenter curato. Dono illum exemplari; sed et
+literas a me Cochleo scriptas<f1>Eine Abschrift dieses Briefes unten Nr. 1870.<fe> una cum exemplari mitto
+rogans, ut ipsa fide bona ad Cochleum deferri curet.<f1>Zur Übermittlung dieser Schrift durch Frecht s. Blarer BW II 267 sowie unten Nr. 1928; s. auch den Brief Bullingers an Vadian, oben Nr. 1861.^&xFrechts Dank an Bullinger in Vadian BW VI 294. frecht empfiehlt widmung einer schrift an ottheinrich^&x{<fe> Nolo, ut
+responsio per omnium oberret manus, priusquam ad ipsum
+perveniat, ad quem pertinet maxime. Nolo illius imitari
+exemplum, qui scribit ad me ac vulgat libellum<f1>Gemeint ist Cochläus' Schrift gegen Bullinger; s. oben Nr. 1839, Anm. 2.<fe>, non autem
+mittit.<f1>Bullinger erwähnt dies auch im Brief an Cochläus selbst; s. unten Nr. 1870, 2f.<fe> Nec causam agens optimam tantillum metuo. In luce
+palam et aperto Marte<f1>Vgl. Seneca, Oedipus, 275.<fe> agere ac congredi cupio, ago et
+congredior. Quod si ille referire perrexerit, clypeum non
+abiiciam, modo gloriae dei et ecclesiarum saluti conducere
+putavero. Plura iam non possum.
+^$Ora pro me dominum. Undique pericula et tentationes; sed
+liberabit ex his dominus. Vale cum clarissimo fratre tuo<f1>Thomas Blarer.<fe>, Zviccio<f1>Konrad Zwick.<fe>
+atque reliquis.
+^$Martii 14., anno domini 1544.
+<un>H. Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Ambrosio Blaurero, amico incomparabili, fratri honorando et
+semper charissimo.
+</content>
+</letter>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1039">
+<nr>1039</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Lorenz Meyer</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>9. September 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 342a, 690 (Siegelspur) </vo>
+<dr>Ungedruckt</dr>
+<re>Lorenz Meyer soll der Tochter Geißmeiers in Girsberg [Waltalingen, Kt. Zürich] ins Gewissen reden, da sie
+leichtfertig abstreitet, dem Sohn des alten Mannes, der den Brief überbringt, die
+Ehe versprochen zu haben; soll auch vorsichtig der Haltung der Mutter nachfragen. Wird Meyer diesen Dienst hoch anrechnen.
+</re>
+<tx>Gratiam et vitae innocentiam a domino.
+^$Bonus hic senecio<f1>Unbekannt.<fe> caussam habet
+matrimonialem, in qua ipsi tua intelligo opus esse opera.
+Fidem enim dedit filia Geysmeyeri<f1>Wohl Margareta Geißmeyer, die Tochter von Michael Geißmeyer (s. Emil ^#/+Stauber,^#/- Geschichte der Kirchgemeinde Andelfingen, Bd. II, Zürich 1941, S. 889).<fe> a Gyrspurg<f1>Girsberg (Waltalingen, Kt. Zürich).<fe> filio<f1>Unbekannt.<fe> suo. Nunc,
+quantum intelligo, dissimulat et facta infecta esse vellet.
+Tu vero pro tua pietate nosti fidem pactam maxime in
+nuptiis atque sponsalibus non temere solvendam esse. Dabis
+ergo operam, ut commonita
+offitii sui caveat, ne conscientiam perfidia polluat. Modica
+scintillula in fomitem recondita conscientiae
+incredibile<fx>^#/+in der Vorlage^#/- incredebile.<fe>
+aliquando excitabit homini incendium<f1>Vgl. Otto 311f,
+Nr. 1604.<fe>. Credidit fortasse delatoribus nimis credula
+puella. Si fidem dedit, credat deo magis<fx>magis ^#/+am
+Rande nachgetragen.^#/-<fe> et stet pactis. Non audio
+quicquam hic inscia matre<f1>Wohl Magdalena Geißmeyer (s. ^#/+Stauber,^#/- aaO, S. 889).<fe> actum esse.
+Fortassis filiae poenitentiam nescit. Prudenter tamen ista
+omnia inquires.
+^$Vale.
+^$Tiguri, 9.
+septembris anno 1537.
+^$Quod autem huic seni impenderis diligentiae, mihi putabo
+impensum.<un>H. Bullingerus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Laurentio Agricolae,
+Stamheymensi pastori vigilantissimo et longe charissimo
+fratri.
+</content>
+</letter>

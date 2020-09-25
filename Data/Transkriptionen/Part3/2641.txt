@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2641">
+<brief>
+<id>16331</id>
+<nr>2641</nr> <from persid="PeutingerClaudiusPius"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1546-10-24"/>
+<ae>Claudius Pius Peutinger an Bullinger</ae>
+<od>Augsburg, 24. Oktober 1546</od>
+<vo>Original von unbekannter Hand mit Eingriffen, Unter- und Nachschrift von Peutingers Hand: Zürich StA, E II 356a, 991-993 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh. Zürich ZB, Ms S 62, 38 </k></dr>
+<re><t>Peutinger empfing zwei Briefe [nicht erhalten]. Auf den ersten antwortete er nicht, in der Hoffnung auf einen ruhigeren Moment. Er ließ sich aber durch [Johannes] Kielmann bei Bullinger und [Konrad] Pellikan entschuldigen. Unterdessen traf der zweite Brief vom 11. Oktober ein, aus dem hervorgeht, dass die Seinen [...] in Zürich angekommen sind. Es ist ein Freundschaftsbeweis, dass Bullinger ihm [für deren Zukunft] Hoffnung macht. Mögen sie nützliche Diener des Herrn werden!</t>
+<t>Schade, dass Bullingers [zweiter] Brief nicht eintraf, als Peutinger noch in Kempten war. Dort hätte er nämlich den Wunsch von Bullingers Bekannten [Marx Wydler und seinen Gefährten] erfüllen, ja diesen beweisen können, wieviel ihm eine von Bullinger verfasste Empfehlung bedeutet. Unterdessen wurden die Truppen aus dem [Allgäu] abberufen, und Peutinger ist nach [Augsburg] zurückgekehrt. Er empfahl daher brieflich die Zürcher an Freunde in Ulm und hofft, dass jene nun in den Kriegsdienst eingezogen wurden.</t>
+<t>Einige eidgenössische Söldner mussten entlassen werden. Sie versahen ihr Amt nicht ordnungsgemäß, entweder aus Unerfahrenheit oder bösem Willen oder sogar infolge eines fehlerhaften Verhaltens. Die übrigen Söldner haben und hätten weiterhin bereitwillig gedient. Doch die Fürsten [Landgraf Philipp von Hessen und Kurfürst Johann Friedrich von Sachsen] änderten ihre Pläne. Das [schmalkaldische] Heer ist nämlich zusammengeschrumpft, und die Fürsten wollen dieses weder verstärken noch ihm die [Soldaten aus Füssen] einverleiben.</t>
+<t>Peutinger dankt wie David dem Herrn dafür, dass er ohne Blutvergießen davonkam. Er ist am liebsten daheim. Doch ist in diesem Krieg jeder Fromme bereit, zu den Waffen zu greifen!</t>
+<t>Täglich gibt es kleine Gefechte. Bei einem größeren Scharmützel am 16. Oktober fielen auf beiden Seiten an die 2'000 Mann. Die [Schmalkaldener] behielten jedoch den Vorteil, auch wenn dies den Kaiserlichen egal ist. Bei ihnen gilt es nämlich mehr, dem Feind zu schaden und nicht so sehr, einen Ort zu behaupten. Leider werden die zahlenmäßig geschwächten [Schmalkaldener] nicht nur von denen, die ebenso stark von diesem Krieg betroffen sind wie sie, sondern auch von etlichen Verbündeten im Stich gelassen. Hinzu kommen die immensen Kosten. Doch ist Gott der Herr der Heere! Er bricht den Übermut der Gottlosen! Kaiser [Karl V.] musste noch nie gegen einen Feind mit einem solch großen Aufwand und in einer solch wichtigen Angelegenheit kämpfen. Er wird dabei vom blutdürstigen Klerus und dessen Komplizen unterstützt. Diese tragen ihm alles zu, währenddem sie den [Schmalkaldenern] alles verheimlichen. Trotz allem konnte der mächtige Feind auf etwa 16 Meilen in Schranken gehalten werden. Er ließ sich allerdings nicht auf eine Schlacht ein, und die [Schmalkaldener] verloren das unterhalb von Ulm gelegene Donauufer, weil es ihnen wichtiger erschien, dem Kaiser den Zug über Württemberg zu verwehren, zumal man seiner leichter am Donauufer als in [den
+Niederlanden] habhaft werden kann.</t>
+<t>Bullinger und den Seinen sei für die den Knaben so freundlich erwiesene Fürsorge gedankt! Diese berichteten darüber. Peutinger weiß ferner, dass die Zürcher von den Knaben weder ein schlechtes Benehmen dulden noch ihnen das Nötige abschlagen würden. Mehr über die [Ausbildung der Knaben] später.</t>
+<t>Bitte um Gebet.</t>
+<t>[P.S.:] Peutinger hat Bullingers Brief [nicht erhalten] an die [eidgenössischen] Söldner nach Ulm weitergeleitet.</t></re>
+<text>
+<div>
+<p><zzl>zl16331-3A</zzl>Prioribus literis tuis,
+<fn>Nicht erhalten.</fn> clarissime vir, non respondi, quod maius ocium expectabam, quo animo aliquantulum vacuo tecum
+<fa><i>Von Peutinger aus</i> locum <i>korrigiert.</i></fa> per literas colloqui possem. Scribsi tamen Kielmanno
+<fn>Johannes Kielmann, Erzieher in der Familie Peutinger; s. <a>HBBW</a> XVII, Nr. 2578 (und bes. 441, Anm. 2). Er war mit Peutingers Söhnen nach Zürich gezogen; vgl. unten Z. <qv>zl16331-2</qv> und Z. <qv>zl16331-1</qv>.<zfn>fn16331-1</zfn></fn> meo, uti me tibi et d. Pellicano excusaret. <zzl>zl16331-7A</zzl>Interim supervenerunt alter{e} literae tu{e} Tiguri 11. octobris script{e}
+<fn>Nicht erhalten. - Mit diesem Brief wurden auch Marx Wydler und seine Gefährten an Peutinger empfohlen; vgl. <qv>nr2639</qv>,<qv>zl16329-16</qv>.<zfn>fn16331-11</zfn></fn>,<zzl>zl16331-7E</zzl> <zzl>zl16331-2A</zzl>ex quibus intellexi meos
+<fn>Gemeint sind mindestens zwei Söhne Peutingers (vgl. nämlich unten Z. <qv>zl16331-1</qv>) und deren Präzeptor Kielmann.</fn> iam in conspectum vestrum devenisse;<zzl>zl16331-2E</zzl> humanitatisque tu{e} est, qui me ampla spe esse iubes.<zzl>zl16331-3E</zzl> Dominus dignetur eos gratia sua, ut aliquando vasa electa insignes sint
+<fn>Vgl. Röm 9, 21f; 2Tim 2, 20f.</fn> in ministerio, et in illorum operibus virtus et potentia domini
+<fn>Vgl. Eph 1, 19.</fn> magnificetur!</p>
+</div>
+<div>
+<p><zzl>zl16331-5A</zzl>Caeterum, mi d. Bullingere, quam vellem literas tuas
+<fn>Bullingers Brief vom 11. Oktober; s. oben <qv>fn16331-11</qv>.</fn> mihi Campoduni
+<fn>Kempten (Allgäu), Bayern. - Peutinger war dort Mitglied einer Kommission der schwäbischen Reichsstädte gewesen, die laut einer Instruktion vom 19. September 1546 prüfen sollte, ob die Rückeroberung der Klause Ehrenberg möglich wäre, und die zur Beschaffung weiterer Geldmittel die Beschatzung der Klöster weiter ausdehnen sollte. Die Kommission bat angesichts der Unerfüllbarkeit dieser Aufgabe mit einem Schreiben vom 28. September an Kurfürst Johann Friedrich von Sachsen und Landgraf Philipp von Hessen um Verstärkung der Truppen oder um Abberufung. Letztere wurde gewährt, und Peutinger kehrte am 14. Oktober nach Augsburg zurück; s. Friedrich <i>Roth,</i> Zur Lebensgeschichte des Augsburger Stadtadvokaten Dr. Claudius Pius Peutinger, 1509-1552, in: <a>ARG</a> XXV, 1928, 127. 249-254 (Beilage VIII).<zfn>fn16331-2</zfn></fn> redditas esse! Poteram enim illic tuis
+<fn>Gemeint sind Marx Wydler und seine Gefährten; vgl. <qv>nr2639</qv>,<qv>zl16329-15</qv>.</fn> gratificari. Nunc cum pro commutatione rerum bellicarum miles
+<fn>Kollektiver Singular, gebräuchlich bei Menschengruppen, insbesondere im Soldatenwesen. Aus unten Z. <qv>zl16331-8</qv> geht deutlich hervor, dass Peutinger sich hier nicht selbst meint.<zfn>fn16331-12</zfn></fn>, qui in praesidiis superioris fuerat provinci{e}
+<fn>superioris ... provinci{e}: (hier) des Allgäus, wo sich auch Füssen befand. - In seinem für die Augsburger Behörden verfassten Bericht vom 28. September riet Peutinger, in Füssen nur noch "ein obrist mit ettlichen fenlin" zu lassen und die anderen Truppen dem "großen hauffen" zuzuschicken, wo sie dienlicher wären (<i>Roth,</i> aaO, S. 254). Am 14. Oktober trafen acht eidgenössische Fähnlein, die zuvor in Füssen stationiert waren, in Ulm ein; s. <qv>nr2631</qv>, <qv>fn16321-9</qv>.<zfn>fn16331-3</zfn></fn>, revocatus pridem sit, et domum redierim
+<fn>Am 14. Oktober; s. oben <qv>fn16331-2</qv>.</fn>, doleo mihi occasionem ereptam, qua tui cognovissent, quantum apud me tua commendatio valuisset. Feci tamen, quod possum. <zzl>zl16331-20A</zzl><fa1 bis="1"><i>Diese Angabe wurde von Peutinger in eine vom Schreiber gelassene Lücke eingetragen.</i></fa1>Ulmam, ubi<fa1e von="1"/> illi iam militant, illico scribsi et enixe amicos oravi, ut in meam gratiam illos quam commendatissimos habeant. Spero me ista pr{e}ce aliquid effecturum.<zzl>zl16331-20E</zzl> Sin minus, rogo, ne culpam mihi asscribere velis.<zzl>zl16331-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16331-9A</zzl>Vestratium aliqui
+<fn>Anspielung auf die problematischen eidgenössischen Hauptleute Hans Blum, Ottmar Fridbolt, Christian Vogel und Konrad Glintz, die ihres Amtes enthoben wurden; s. zuletzt <qv>nr2626</qv>,<qv>zl16316-6</qv> mit <qv>fn16316-6</qv>.<zfn>fn16331-4</zfn></fn>, an rei militaris imperitia aut malitia, seu, quod ego existimo, errore fecerunt (nec non ignoro certe minus, quam illos decebat, officio functi)
+<fa><i>Klammern ergänzt.</i></fa> per collegas, honeste tamen, <vl>992</vl> exauctorati sunt.<zzl>zl16331-9E</zzl> <zzl>zl16331-6A</zzl>Reliquorum prompta manus et voluntas
+<fn>Vgl. Vers 37f des Kreuzzugsliedes "Crux ego rapta queror": "et currat ad arma prompta manus, plangatque moras alata voluntas"; s. Goswin <i>Spreckelmeyer,</i> Das Kreuzzugslied des lateinischen Mittelalters, München 1974 - Münstersche Mittelalter-Schriften 21, S. 140.</fn> fuit, nec ego <zzl>zl16331-8A</zzl>isto milite<zzl>zl16331-8E</zzl> aleam belli subire dubitassem,
+<fn>Vgl. aber unten <qv>fn16331-7</qv>.</fn><zzl>zl16331-6E</zzl> <zzl>zl16331-10A</zzl>si nostris principibus
+<fn>Landgraf Philipp von Hessen und Kurfürst Johann Friedrich von Sachsen, die damals in Betracht zogen, die Kriegsoffensive einzustellen, und zwar nicht nur wegen des Winters, sondern auch aus finanziellen Gründen (s. ebenfalls unten <qv>fn16331-8</qv>), zumal die Aussichten auf einen baldigen Erfolg gering erschienen; vgl. das Schreiben des Landgrafen an die Kriegsräte in Ulm, 3. November 1546 (<a>Rommel</a> III 163-169, Nr. 40).<zfn>fn16331-5</zfn></fn> ea, qu{e} fuerat
+<fa>fuerat <i>von Peutinger in eine vom Schreiber gelassene Lücke eingetragen.</i></fa>, mens perstitisset
+<fa><i>Das zweite</i> ti <i>von Peutinger über der Zeile nachgetragen.</i></fa>.<zzl>zl16331-10E</zzl> <zzl>zl16331-4A</zzl>Sed nostr{e} copi{e} ad res gerendas erant exigu{e}.
+<fn>In dem oben in <qv>fn16331-5</qv> erwähnten Brief des Landgrafen schreibt dieser: "Inn gleichnus [d.h. im Vergleich zum Beginn der Offensive] habenn wir auch wol acht thausend knecht weniger, die zum theil uf den schormutzeln erschossen, erstochen, gefangen unnd sonstet gestorben; item die noch zum theil krank ligenn unnd auch gegen dieser winter zeit hinweg gelaufen sein ... Dartzu habenn die vheind itzo wol dreimal sovil reisigen als wir, unnd gegenn den abgangenen Landesknechten schicket man unns ungebrauchte baurenn".<zfn>fn16331-6</zfn></fn> <zzl>zl16331-11A</zzl>Illas augere nostri tam
+<fa><i>Von Peutinger aus</i> tum <i>korrigiert.</i></fa> detrectarunt quam suas isto milite
+<fn>Gemeint ist der früher in Füssen stationierte Soldat (s. oben <qv>fn16331-12</qv>), der, statt in das schmalkaldische Heer eingebunden zu werden, in den Dienst der damals hart bedrängten Stadt Ulm aufgenommen wurde. - Die Inkompetenz dieser eidgenössischen Söldner wird wohl auch eine Rolle in diesem Entscheid gespielt haben. In seinem oben in <qv>fn16331-3</qv> erwähnten Bericht stellte Peutinger nämlich fest, dass "das Schweizer folk [gemeint sind die Söldner, die damals noch in Füssen lagen] - ausserhalben der zwen fenlin, die z{uo} Werd gelegen und hernach heraufgesandt worden [wahrscheinlich die zwei in <a>HBBW</a> XVII 427,38-42, bezeugten Appenzeller Fähnlein] - alles nichts taugt, übel bewert, in dhainer [d.h. keiner] gehorsam noch kriegswarnung ligen, auch sich z{uo} nichten gebrauchen lassen wollen", was im Widerspruch zu der oben in Z. <qv>zl16331-6</qv> wohl aus Höflichkeit geäußerten Aussage steht. Vgl. ferner den letzten Satz des oben in <qv>fn16331-6</qv> zitierten Brieftextes.<zfn>fn16331-7</zfn></fn> augeri noluerunt
+<fa><i>In der Vorlage</i> voluerunt.</fa>.<zzl>zl16331-11E</zzl><zzl>zl16331-4E</zzl></p>
+</div>
+<div>
+<p>Ego nusquam quam domi sum libentius, et, quod fecit David,
+<fn>Vgl. 1Sam 25, 33.</fn> gratias ago domino, cuius beneficio manus incruentas domum retuli. Nescio, quo iniquo meo fato ad turbas has propellor. Est tamen pr{e}sens bellum eiusmodi, quo nullus pius dubitet arma sumere.
+<fn>Ob Peutinger dies auch wirklich dachte, ist fraglich.</fn></p>
+</div>
+<div>
+<p>De rebus nostris scriberem, si quid certi haberem. <zzl>zl16331-21A</zzl>Levibus proelis indies concertatur. Unum fuit insigne 16. octobris factum.
+<fn>Siehe dazu <qv>nr2639</qv>,<qv>zl16329-2</qv>; <qv>nr2640</qv>,<qv>zl16330-7</qv>.<zfn>fn16331-9</zfn></fn><zzl>zl16331-21E</zzl> Ad virorum duo millia utrinque ceciderunt, par fere damnum, at nostri superiores fuere; quod caesarianis leve est. Illi
+<fn>Die Kaiserlichen.</fn> enim iacturam hostium
+<fn>Gemeint sind die Schmalkaldener.</fn>, non retentum locum in gloria ponunt. Exiguus sumus numerus, qui istam molem orbis et antichristianorum conspirationem contra dominum
+<fn>Vgl. Ps 2, 2; Apg 4, 26.</fn> sustinemus. <zzl>zl16331-12A</zzl>Neque non solum non condescendunt, quorum periculum aeque atque nostrum agitur,
+<fn>Eine Kritik, die einigen protestantischen Territorien und wohl auch den Vier Stadtkantonen der Eidgenossenschaft galt.</fn> sed ex confoederatis
+<fa>con <i>von Peutingers Hand über gestrichenem</i> in <i>bei einem falschen</i> infoederatis.</fa> multi nos destituunt;<zzl>zl16331-12E</zzl> <zzl>zl16331-13A</zzl>immensis istis sumptibus nos exhaurimur.
+<fn>Mit "confoederatis" sind nicht nur Herzog Moritz von Sachsen, Kurfürst Joachim II. von Brandenburg und dessen Bruder Markgraf Johann von Brandenburg-Küstrin (vielleicht auch Kurfürst Friedrich II. von der Pfalz) gemeint. In einem Brief vom 19. Oktober 1546 an Herzog Ulrich von Württemberg schrieb der Landgraf nämlich Folgendes: "Denn großen mangel, den wir bei diesem handel finden, das ist gelt. Die Sechsischen Sehe [= See] und Hans-Stedt [= Hansestädte] haben bißher zu ir ersten sechs Doppelmonat noch nicht erlegt. Der Hertzog Ernst zu Luneburg [Ernst der Bekenner von Braunschweig-Lüneburg; s. <a>HBBW</a> XVI 151 und Anm. 55] ist gestorben und sein Rethe wollen mit diesen sachen nit mehr zu schaffen haben. Die Hertzoge zu Pommern erlegen nichts ..." (<a>Rommel</a> III 161). Eine am 10. November erstellte Liste der sich damals nicht behilflich erweisenden protestantischen Obrigkeiten findet sich in Walter <i>Möllenberg</i>, Die Verhandlungen im schmalkaldischen Lager vor Giengen und Landgraf Philipps Rechenschaftsbericht, in: Festschrift zum Gedächtnis Philipps des Großmütigen Landgrafen von Hessen, hg. v. Verein für Hessische Geschichte und Landeskunde, Kassel 1904, S. 58.<zfn>fn16331-8</zfn></fn><zzl>zl16331-13E</zzl> Est tamen dominus deus exercituum,
+<fn>dominus exercituum: Siehe <qv>nr2606</qv>, <qv>fn16294-15</qv>.</fn> fortis redemptor noster,
+<fn>Vgl. Jes 49, 26; 60, 16.</fn> qui hactenus insolentiam
+<fa><i>Von Peutinger aus</i> insolentium <i>korrigiert.</i></fa> et rictum, qua orbem terrarum deglubere conabuntur,
+<fn>Vgl. Ps 22 (Vulg. 21), 14. 22.</fn> istorum impiorum repressit
+<fa><i>Von Peutinger aus</i> repraessit <i>korrigiert.</i></fa>. <zzl>zl16331-14A</zzl>Neque omnibus bellis imperator
+<fn>Karl V.</fn> hostem habuit, contra quem habuerit <vl>993</vl> aequae
+<fn>= aeque (Adverb).</fn> numerosum militem
+<fa><i>Von Peutinger aus</i> militum <i>korrigiert.</i></fa> instructioresque copias adque res gerendas occasiones maiores.<zzl>zl16331-14E</zzl> <zzl>zl16331-15A</zzl>Passim enim iste sanguinarius clerus ac factionis eius complices nobis intermixti ad imperatorem cuncta adferunt;
+<fn>Vgl. dazu eine Bemerkung Blarers in <qv>nr2626</qv>,<qv>zl16316-21</qv>.</fn> nobis omnia praecludunt - in quibus conservandis nescio quare etiamnum ista mansuetudine utamur!<zzl>zl16331-15E</zzl> Certe domini beneficio intra spacium 16 miliarium
+<fn>Diese 16 Meilen (etwa 130 km) entsprechen der zurückgelegten Distanz zwischen Ingolstadt und Giengen an der Brenz (via Donauwörth und Nördlingen) während den militärischen Auseinandersetzungen der vorherigen Wochen. Auf dieser Strecke lagen sich die beiden Heere meist nahe gegenüber.</fn> retentus formidabilis hostis, cui potestatem pugnandi
+<fa><i>Von Peutinger aus</i> pugniendi <i>korrigiert.</i></fa> perpetuo fecimus, ille detrectavit
+<fa><i>Von Peutinger aus</i> detractavit <i>korrigiert.</i></fa> semper, neque unquam aequo loco fecit.
+<fn>Gemeint ist: Neque ille [caesar] unquam aequo loco potestatem fecit. - Zu verstehen: Er hat nie eine ähnliche Gelegenheit dargeboten.</fn> <zzl>zl16331-18A</zzl><zzl>zl16331-16A</zzl>Danubii ripam, quae infra Ulmam est, amisimus,
+<fn>Anspielung auf die Eroberung der donauabwärts von Ulm gelegenen Städtchen Gundelfingen a.d. Donau, Lauingen, Dillingen, Höchstädt und Donauwörth durch den Kaiser; s. dazu <qv>nr2621</qv>, <qv>fn16311-1</qv>.</fn> quod eam oram tutari et transitum in Wirtenbergensem ducatum prohibere,
+<fn>Vgl. schon <qv>nr2612</qv>,<qv>zl16301-13</qv>; <qv>nr2624</qv>,<qv>zl16314-4</qv>; <qv>nr2625</qv>,<qv>zl16315-8</qv>; <qv>nr2635</qv>,<qv>zl16325-1</qv>.</fn> simul utrumque praestare, non potuimus,<zzl>zl16331-16E</zzl> <zzl>zl16331-17A</zzl>istum
+<fn>hostem (caesarem).</fn> autem illo loco
+<fn>Nämlich am Donauufer, wo der Kaiser sich damals noch befand.</fn> facilius quam intra viscera
+<fn>intra viscera: Hier metaphorisch für die Niederlande, wo der Kaiser zu Hause war und wohin er laut der Meinung einiger gelangt wäre, wenn ihm der Durchzug durch Württemberg nicht verweigert worden wäre.</fn> habeamus,<zzl>zl16331-17E</zzl><zzl>zl16331-18E</zzl> neque contra tantum hostem omnia praecavere potuimus, nec mirum est nos premi onere, sub quo ante nos magna regna conciderunt.</p>
+</div>
+<div>
+<p><zzl>zl16331-1A</zzl>Quod ad pueros meos
+<fn>Siehe oben Z. <qv>zl16331-2</qv>.</fn> adtinet, opera vestra mihi est gratissima; et scribunt mei de tuis et tuorum officiis multa. Pro his ego gratiam refferam et alias de puerorum rebus plura scribam. Interim puto illos peccare aut illis quidquam ex necessariis deesse vos non patiemini.<zzl>zl16331-1E</zzl></p>
+</div>
+<div>
+<p>Orate deum pro gloria sua et ecclesi{e} salute. Bene vale. Ex Augusta, 24. octobris anno, etc., 46.</p>
+<un>T[uus] Cl. P. Peutinger.</un>
+<lz/>
+</div>
+<div>
+<p><zzl>zl16331-19A</zzl><fa1 bis="2"><i>Von Peutinger unter seiner Unterschrift nachgetragen.</i></fa1>Literas tuas
+<fn>Wohl ein erneuter (vgl. nämlich <a>HBBW</a> XVII 370 und Anm. 6) Brief Bullingers an die eidgenössischen Söldner.<zfn>fn16331-10</zfn></fn> ad milites Ulmam misi.<fa1e von="2"/><zzl>zl16331-19E</zzl></p>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullingero, theologo celeberrimo, amico suo observando. Tiguri
+<fa><i>Darunter von Bullingers Hand:</i> Claudius Peutingerus, d[octor].</fa>.</p>
+</div>
+</text>
+</brief>

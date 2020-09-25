@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1108">
+<nr>1108</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>[März 1538]</date>
+	<note>Grynäus bezieht sich auf ein Schreiben Bucers, in dem dieser sich gegen einen schwerwiegenden Verdacht zu rechtfertigen sucht (s. unten Z. 6-9). Es muß sich um ein Dokument
+handeln, in dem vor allem, wenn auch nicht ausschließlich, Bullinger angesprochen ist (s. Z. 8), von dessen Inhalt
+Grynäus aber bereits Kenntnis zu haben scheint. Wahrscheinlich handelt es sich um Bucers Brief vom 25. Februar 1538 (oben
+Nr. 1105), zu dem Bullinger am 30. März gegenüber Grynäus Stellung nimmt (s. unten Nr. 1118). Grynäus war über den
+Streitgegenstand zumindest teilweise orientiert; vgl. HBBW VII, S. 309, 3f.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 207 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Da er davon ausgeht, daß der Konflikt mit Bucer auf Mißverständnissen beruhen muß, bittet er, dessen Rechtfertigung
+sorgfältig zu prüfen, und vertraut darauf, daß sie als Glieder des Leibes Christi bald wieder zusammenfinden werden.
+</re>
+<tx>S. Si duę sunt res, Bullingere, quę distinguunt dividuntque<fx>^#/+vom Schreiber korrigiert aus ^#/-quibus distinguuntur
+dividunturque.<fe> homines, error et pravitas - amicos et bonos error, improbos et malos pravitas -, haud vereor, ne
+perpetuo nos dividamur, quos a pravitate Christi bonitas liberavit. Superest enim, puto, nobis quidem, qui eundem
+unumque<fx>^#/+vor ^#/-unumque^#/+ gestrichenes^#/- ac.<fe> in Christum tendentes errore<fx>errore ^#/+vom Schreiber korrigiert aus
+^#/-errorem.<fe> ceu nebula disiungimur hactenus, ut nos diligentius re­cognoscamus. Hoc possumus nos; pravi non possunt.
+Age igitur, mi Bullingere, vide, aliquane sit in his argumentis fides, quibus diluere amolirique a se Bucerus noster
+suspitionem tam gravem<fx>^#/+nach ^#/-gravem^#/+ gestrichenes^#/- malitiae conatur[?].<fe> et sese vobis fratribus
+approbare<fx>appro-bare ^#/+am Zeilenende bzw. -anfang nachgetragen.^#/-<fe> conatur<f1>Auch Bucer spricht in seinem
+Brief von "suspiciones" (s. oben Nr. 1105, 53. 904).^&x???^&x{
+Er wendet sich damit nicht nur gegen die von Bullinger,
+sondern auch gegen die von Jud vorgebrachte Kritik (s. ebd., besonders Z. 1068-1096).^&x???^&x{<fe>. Ego, cum me non sinat charitas male
+de alterutro vestrum suspicari, suspicari vero de utroque bene cogat, nec te illi impingere falsum<fx>^#/+vor
+^#/-falsum^#/+ gestrichenes^#/- credo.<fe> nec illum tibi fucum facere conari credo, sed, si quid est, nebulam erroris
+ortam esse credo, quę mox solis radiis discutienda fugitura sit. Certe insita in Christi Iesu corpus membra in mutuum
+membrorum omnium complexum nativus calor et eiusdem corporis
+<gr>ȃrmogh̀</gr> devincta reducet.
+^$Valebis igitur bene cum fratribus omnibus in domino, quos omnes nominatim mihi salutabis.
+<un>Gryneus tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heynricho Bullingero, fratri charissimo suo.
+</content>
+</letter>

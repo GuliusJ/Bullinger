@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2421">
+<brief>
+<id>16109</id>
+<nr>2421</nr>
+<ae>Johannes Pincier an Bullinger</ae>
+<od>Frankfurt am Main, 13. April 1546</od>
+<vo>Autograph: Zürich StA, E II 346, 174 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Zit., Reg.: Köhler, Hessen und die Schweiz 481, Nr. 59; Pinzinger = Pincier Veteranus [Püntziger, Pinnzieher = Nagelschmied aus Wetter. Zur Namensform vgl. Karl Wenckebach: Zur Geschichte der Stadt .... Wetter, 1966 (IRG: Gd IV 4978), 93-119, 216, 237f] Kopie 18. Jh.: Zürich ZB, Ms S 60 51.</k></dr>
+<re>Pincier ist Gott dankbar, dass die [Zürcher] ihm durch Bullingers Brief [nicht erhalten] erneut ihre Fürsorglichkeit zu erkennen gaben. So kann er die Schwierigkeiten des Lebens besser ertragen und mit diesen gelassener umgehen.
+<t/>In ihrer Apologie ["Orthodoxa Tigurinae ecclesiae confessio"] ging es den Zürchern offenbar nur um die Wahrheit und um Gottes Ehre, ohne Rücksicht auf ihren eigenen Ruf. Denn bei der Verteidigung eines Anliegens, so gerecht dieses auch sein mag, greift man, auch wenn man es nicht will, zu Gegenanklagen, die lieber nicht formuliert werden sollten, zumal daraus wiederum Anklagen entstehen. Allerdings liegen die Gründe der Zürcher vor Gott offen, so dass diese das Urteil der Menschen nicht zu fürchten brauchen.
+<t/>Die hellsichtige Wahrnehmung Christi trifft wahrlich auf den wagemutigen [Theobald Thamer] zu, der mit seinen neuen Auslegungen die Aufmerksamkeit aller auf sich zu lenken versucht, was ihm übrigens in Marburg schon gelang. Das [definitive] Urteil wird aber Gott fällen, zumal er die geheimen Gedanken eines jeden Menschen kennt.
+<t/>Pincier [und seine Kollegen] hegen über Luthers Tod die gleiche Meinung wie die Zürcher, welche gut daran tun, Gott um friedfertige Menschen zu bitten. Es stimmt, dass der [innerprotestantische] Streit von Gelehrten entfacht wurde. Doch werden auch ungelehrte und zänkische Menschen stets dazu beitragen, weil sie sich gänzlich der Meinung ihres Lehrers [Luther] unterwerfen, was auch immer der größte Teil der Gelehrten darüber denken mag. Nach dem Tod ihres Anführers darf man aber hoffen, dass es ruhiger wird. Als Pincier sich [1545] mit Johannes Pistorius aus Nidda vertraulich über den [Abendmahls]streit unterhielt, meinte dieser, dass das große Ansehen, welches Philipp Melanchthon genießt, Luthers Autorität verdrängen könnte, würde Letzterer zuerst sterben. Möge also nun die Eintracht wieder einkehren!
+<t/>Pincier empfiehlt sich und seine Kollegen den Gebeten Bullingers.</re>
+<text>
+<p>Salutem a deo per Iesum Christum. Quod in mediis et maximis tuis occupationibus dignatus es ad me scribere,
+<fn>Bullingers Schreiben ist nicht erhalten. Es wurde nach dem 10. März verfasst, da Bullinger sich darin über Luthers Tod geäußert hatte (s. unten Z. <qv>zl2421-1</qv>) und diese Nachricht erst um den 10. März nach Zürich gelangt war (vgl. <qv>nr2364</qv>,<qv>zl2364-5</qv>; <qv>nr2370</qv>,<qv>zl2370-11</qv>; <qv>nr2375</qv>,<qv>zl2375-5</qv>). Das Schreiben wird ferner dem Anfang April (s. <qv>nr2351</qv>, <qv>fn2351-3</qv>) zur Frankfurter Frühjahrsmesse reisenden Christoph Froschauer anvertraut worden sein.<zfn>fn2421-1</zfn></fn> gratias ago primum deo nostro immortales, et tuae humanitati deinde, quin et ipse mihi gratulor atque gaudeo me, alioqui indignum, tot tantisque officiis vestrae caritatis cumulari et ornari, optoque protinus, ut in eadem benevolentia usque permaneam. Ita enim spero vitae meae conditionem hanc, vel aliam quamcunque, multo mihi fore tolerabiliorem tranquillioremque, quum alioqui ea exposita et subiecta sit variis adversitatibus satanae
+<fn>Vgl. 2Tim 2, 26; 1Petr 5, 8; Apk 2, 10.</fn> et pessimorum hominum, quibus ferendis aequiore animo ac fortiter superandis haud sane (meo quidem iudicio) exiguum affert praesidium et solatium amicitia bonorum et doctorum virorum. Qua de causa non cesso me subinde commendare et quodammodo obtrudere vobis, etiamsi alias nihil habeam, quod scribam.</p>
+<p>In apologia vestra
+<fn>Die "Orthodoxa Tigurinae ecclesiae confessio" von März 1545, die die Zürcher im Abendmahlsstreit gegen Luthers "Kurtz bekentnis" verfasst hatten; s. dazu <a>HBBW</a> XV 66, Anm. 7 und 9.</fn> arbitror vos non tam multitudinis quaesisse applausum quam perpetuum veritatis tenorem atque consensum deique potius spectasse gloriam quam vestrum vel cuiusvis alterius honorem. Nam saepe invitis
+<fn>= invite; s. <a>König</a> 626.</fn> etiam extorquentur <gr>ăntikathgoríai</gr>
+<fn>die Gegenanklagen.</fn>, quas haud dubie optimus quisque mallet prorsus evitare, si rei natura et finis ferret. Et vix puto fieri posse, ut quis in eiuscemodi contentione et defensione sui vel iustissima queat innocentiam suam ita proponere leniter ac modeste, quin etiam adversarii crimen interim aut iniuriam aut malevolentiam aut mendacium aut imprudentiam quasi aliud agendo ostendat, unde videlicet potissimum accusatio eius sit orta. Sed bene constat vobis apud deum vestri facti ratio, ut iudicia hominum minus sint reformidanda.</p>
+<p>Vere competit Christi vaticinium
+<fn>Möglicherweise eine Anspielung auf Joh 5, 44, worauf Bullinger in seinem Brief an Pincier verwiesen haben wird; vgl. nämlich <qv>nr2376</qv>,<qv>zl2376-12</qv>; <qv>nr2401</qv>,<qv>zl2401-1</qv> und <qv>nr2404</qv>.</fn> in hominem illum
+<fn>Theobald Thamer; vgl. nämlich <a>HBBW</a> XV 513f,29-42. 681f,15-35; und oben <qv>nr2350</qv>,<qv>zl2350-2</qv>.</fn> satis audacem in proferendis novis interpretationibus nescio qua libidine ab aliis tam veteribus quam neotericis dissentiendi. Valde metuo, ne ambitione et invidia potius quam vero pietatis studio ducatur, quum velit ita singularis videri, ut certe etiam habetur ab ommnibus fere, qui sunt Marpurgi. Sed deus novit, quam fideliter unusquisque serviat, qui tandem recte diiudicabit, quae nos hic latent
+<fn>Vgl. Pred 12, 14 (16); 1Kor 4, 5.</fn> aut quae homines falso statuunt et persuadent.</p>
+<p><zzl>zl2421-1A</zzl>De Lutheri morte
+<fn>Luther war am 18. Februar gestorben. - Siehe ferner oben <qv>fn2421-1</qv>.</fn> idem, quod vos, sentimus,<zzl>zl2421-1E</zzl> et recte precamini deum, ut det successores, qui sint viri pacis. At profecto, licet dissensio tandem inter partes ponatur a doctioribus, nunquam tamen deerunt indocti et contentiosi homines, qui volent haerere, stare
+<fa>stare <i>über</i> haerere <i>hinzugefügt.</i></fa> verbis magistri sui
+<fn>Gemeint ist Luther.</fn>, quicquid etiam melior ac maior pars statuat doctorum. Caeteroquin bona spes est reliquos fore placabiliores nec ita concitatos, ut fuit Lutherus. Audivi enim superiori anno ex Ioanne Pistorio Niddano, quum loqueremur familiariter inter nos de fine istius controversiae, quod Philippi Melanthonis autoritas facile posset tollere Lutheri autoritatem, si hic prior moreretur. Faxit deus, ut integra stabiliatur concordia inter omnes, quo regnum dei amplificetur et nomen eius celebretur. Amen.</p>
+<p>Valeas in Christo cum tuis omnibus nosque tuis precibus commendatos semper habeas, oro. Dat{e} ex Francofurto, circiter idus apriles anno 1546.</p>
+<un>Iohannes Pinzinger totus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Eximia pietate et doctrina viro domino Heynricho Bullingero, Tigurinae ecclesiae antistiti celeberrimo, praeceptori et domino suo unice colendo. Tiguri.</p>
+</text>
+</brief>

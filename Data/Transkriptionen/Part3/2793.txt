@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2793">
+<brief>
+<id>17061</id>
+<nr>2793</nr> <from persid="MedmannPeter"/> <to persid="Bullinger"/> <place plid="Buschhoven"/> <date when="1547-02-04"/>
+<ae>[Peter Medmann] an Bullinger</ae>
+<od>[Buschhoven]
+<fn>Vgl. <qv>nr2760</qv>, <qv>fn17028-3</qv>.</fn>, 4. Februar 1547</od>
+<vo>Autograph: Zürich StA, E II 338, 1439 (Siegelspur)</vo>
+<dr>Druck: <a>Pollet, Relations</a> II 179f, Nr. 49 <k>Kopien, 18. Jh.: Zürich ZB, Ms S 63, 79; 20. Jh.: Emden BGK, Hs. fol. 37, Nr. 75; Teildruck: <i>Pollet,</i> Bucer 2, 179f. </k></dr>
+<re><t>Der Überbringer [...] wird unter anderem über die von den kaiserlichen Kommissaren [Philip de Lalaing und Viglius van Zwichem]
+<fn>Siehe dazu schon <qv>nr2760</qv> vom 20. Januar.</fn> durchgeführte Amtsenthebung des Kölner Erzbischofs Hermann von Wied berichten.
+<fn>Am 24. Januar wurde von Wied abgesetzt und Adolf III. von Schaumburg an dessen Stelle ernannt; s. <a>Varrentrapp</a> 273; Hansgeorg <i>Molitor,</i> Das Erzbistum Köln im Zeitalter der Glaubenskämpfe, 1515-1688, Köln 2008, S. 379.<zfn>fn17061-2</zfn></fn> Medmann übersendet drei Schriften, darunter jene "Wahrhafte Erzählung", die leider nur zu wahr ist!
+<fn>Gemeint sind folgende kleine Schriften des Erzbischofs: Warhaffte erzelung der Geschicht, Bonn [vor dem 15. Juli] 1546 (s. <a>Schlüter</a> 305, Nr. 198; ein Exemplar davon in Zürich ZB, Signatur: 9.55/3); Christliche, rechtmessige und bestendige Appellation und Protestation, [Bonn, Januar 1547], mit Texten vom 12. November 1546 und 11. Januar 1547 (s. <a>Schlüter</a> 331, Nr. 235), zumal Medmann diesen Druck auch an Francisco de Enzinas schickte (s. Enzinas an Bullinger, 8. Mai 1547, <a>Enzinas BW</a> 234-238, wo Anm. 8 zu korrigieren ist); Ein offene schrifft an des Ertzstiffts C{oe}llen Graven, Ritterschafft unnd der Stette verordenten, [Bonn, kurz nach dem 22. Januar 1547] (s. <a>Schlüter</a> 332, Nr. 237; Zürich ZB, Signatur: 9.55/4). - Schon in <qv>nr2760</qv> hatte Medmann die Sendung von Schriften zur Kölner Reformation angekündigt.<zfn>fn17061-1</zfn></fn> Möglichst viele sollen diese Schriften lesen, vor allem die Zürcher Obrigkeit. Die [evangelisch gesinnten] Prädikanten [in Köln] müssen die Stadt verlassen. Auch Medmann ist am Packen. Vielleicht zieht er nach Straßburg.
+<fn>Dieses Vorhaben wurde auch Enzinas mitgeteilt, wie aus dem in oben <qv>fn17061-1</qv> erwähnten Brief Enzinas' hervorgeht. Der Erzbischof hegte einen ähnlichen Plan; s. Oswald Myconius an Bullinger, 11. August 1547 (<a>Henrich, Myconius BW</a> 981, Nr. 1096). Dazu kam es aber nicht. Im September 1547 befand sich Medmann noch beim Erzbischof in Buschhoven (s. Medmann an Bullinger, 10. September 1547, Zürich StA, E II 338, 1440), mit dem er sich erst um die Jahreswende 1551/52 in dessen Stammschloss in der Grafschaft Wied (Rheinland-Pfalz) zurückzog; s. <i>Molitor</i> aaO, S. 159.<zfn>fn17061-3</zfn></fn></t>
+<t>In "Belgien" gibt es wieder Verfolgungen. Albert [Hardenberg] wurde erneut von den Löwener [Theologen] bei Kaiser Karl V. angeklagt. Vor allem [Philip de Lalaing,] der Herr von Corney und von Gelderland, verfolgte Hardenberg, als dieser noch in Kempen
+<fn>Kempen (Kr. Viersen, Nordrhein-Westfalen), von wo Hardenberg schon vor dem 25. Januar 1547 vertrieben wurde; s. <a>Janse, Hardenberg</a> 29.</fn> tätig war.</t>
+<t>Bullinger möge ausführlich zurückschreiben. Medmann wird berichten, sooft er kann.</t>
+<t>[P.S.:] Mögen die [Eidgenossen] doch begreifen, dass der Kaiser nur die [Austilgung der evangelischen] Religion im Sinne hat!</t></re> <textweg>
+<div>
+<p>S. Qui tibi meas reddit, mi Bulingere, potest tibi multa narrare, quae praeteritis diebus hic evenerunt, quomodo noster ab omni gubernatione per commissarios caesarianos amotus, et alia. Ego mitto ad te tria scripta, ex quibus etiam non pauca cognosces et leges, quod sat scio, non sine stomacho. Vellem illam veram narrationem, quae, mihi hic credas velim, est verissima, a multis isthic legi et inprimis a vestrae reipublicae moderatoribus. Concionatoribus, ut scribitur, nullus amplius manendi locus concedetur. Ego etiam coepi convasare fortassis iturus Argentinam.</p>
+</div>
+<div>
+<p>In Belgico nova instituitur persequutio. Lovanienses d. Albertum denuo apud caesarem accusarunt, cui Cornei, summus ducatus Gelrici praefectus,
+<fn>Philip de Lalaing, Herr von Corney und von Gelderland.</fn> valde insidiatus fuit, quando adhuc Kempenae docebat.</p>
+</div>
+<div>
+<p>Oro, ut rescribas copiose. Ego nullam occasionem scribendi ad te neglexero. 4. februarii 1547.</p>
+<un>Tuus toto pectore
+<fn><a>Adagia</a>, 1, 4, 26 (<a>ASD</a> II/1 428, Nr. 326).</fn>, etc.</un>
+<lz/>
+</div>
+<div>
+<p>Utinam vere intelligeretis, quorsum Caroli molimina tendant! Quid enim habuit aliud contra nostrum, quam causam religionis?</p>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Henrico Bullingero, sacrarum literarum in Tigurina ecclesia professori diligentissimo, viro ornatissimo, suo colendo. S.</p>
+</div> </textweg>
+</brief>

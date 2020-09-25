@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1034">
+<nr>1034</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>29. August 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 128 (Siegelspur) </vo>
+<dr>Ungedruckt</dr>
+<re>Hat den Auftrag ausgeführt; im übrigen erhält [Konrad] Geßner, den er Kaspar [Megander] und [Peter] Kunz empfohlen hat,
+[als Professor in Lausanne] eine großzügige Entlöhnung und wird Zürich einst zur Zierde gereichen. Da die gefährlich
+zerstrittenen Berner [Theologen] nicht auf die Basler hören, bittet er Bullinger, seinen Einfluß geltend zu machen. Der englische König
+[Heinrich VIII.] unterstützt Kaiser [Karl V.] mit Truppen, und der Franzose [Franz I.] hat eine neue Rechtfertigungsschrift publiziert; die Türkengefahr,
+die zwar durch Briefe aus Italien bestätigt wird, dient vielleicht nur als Vorwand für Maßnahmen gegen die Protestanten.
+Bittet, durch Werner Steiner die Umstände des Todes von [Heinrich] Schönbrunner in Erfahrung zu bringen.
+</re>
+<tx>S. Quę commisisti<f1>Ein entsprechender Brief Bullingers an Myconius ist nicht erhalten.<fe>, perfeci, ut vides.
+Pręterea Gesnerus mea commendatione ad Gasparem et Conzenum<f1>Auch das Schreiben von Myconius an Kaspar
+Megander und Peter Kunz ist verloren.<fe> sublevatus stipendium obtinuit satis amplum<f1>Konrad Geßner war vom Berner Rat am 18. August als
+Professor für Griechisch an die Lausanner Akademie berufen worden; s. Corr. des réformateurs IV 287, Anm. 3.<fe>. Spe sum optima ipsum, si vixerit, ornamento fore Tigurinis olim.
+^$Bernensium fratrum dissidium<f1>Vgl. Meganders Bericht vom 7. September, unten Nr. 1038.<fe> nescio quid tandem allaturum sit. Video, qui timent inde evangelio. Sunt partes et utręque fortes; verendum de malo certe non parvo. Tu pro tua
+prudentia fac pro illis vigiles; nam nos abiecerunt, quod nolim factum. Nam quod egimus hactenus, pro eis, non contra egimus. Deus novit et iudicabit. Diligo ipsos, quamobrem et tibi commendo; fac, quod tibi confido.
+^$Nosti nimirum Anglum omnia facere pro imperatore adeo, ut hac ęstate copias suas
+huic miserit<f1>Dieses Gerücht war falsch; König Heinrich VIII. verhielt sich im Konflikt zwischen Kaiser Karl V. und König Franz I. neutral (vgl. z. B.
+Friedrich ^#/+Prüser,^#/- England und die Schmalkaldener 1535-1540, Leipzig 1929. - QFRG XI, S. 117f).<fe>. Aliter speraveram, sed est vana spes hominum. Gallus de novo tuetur omnia acta sua
+scripto publico<f1>Am 31. Juli hatte Guillaume Du Bellay für König Franz I. einen Brief an die nach Worms einberufenen
+Reichsstände verfaßt, und am 6. August erschien eine von ihm vorbereitete Sammlung mehrerer solcher Rechtfertigungsschreiben unter dem Titel "Exemplaria literarum ..."; s. V.-L.
+^#/+Bourrilly,^#/- Guillaume du Bellay, seigneur de Langey, 1491-1543, Paris 1904, S. 249f.<fe>. Mira sunt profecto, quę scripta sunt. De Turca dubitare incipio,
+quamvis subinde literę veniant ex Italia prae foribus esse<f1>Möglicherweise bezieht sich Myconius auf eine gedruckte Flugschrift in Briefform; s. Carl Göllner, Turcica. Die europäischen Türkendrucke des XVI. Jahrhunderts, I. Bd., Bukarest-Berlin 1961, Nr. 606. Vgl. auch
+unten Nr. 1037, 19-24.<fe>. Constat enim evangelicas in imperio civitates
+praetextu belli Turcici tentari, si sic occasio possit arripi belligerandi contra ipsas<f1>Ähnliche Befürchtungen im Zusammenhang mit dem Kreistag zu Worms hatte Myconius bereits am
+22. August geäußert; s. oben Nr. 1033, 9-11.<fe>. Illud velim, nos gratia domini data non abuti, quicquid deinde mon­archę tentarent vel contra sese
+vel contra nos. Hęc scripsi, ne nihil scriberem.
+^$Vale cum tuis feliciter. Si non grave fuerit, ex M. Wernhero Steiner exquirito de morte Schönbrunners, qualis, inquam,
+fuerit<f1>Der Zuger Söldnerführer Heinrich Schönbrunner war am 6. Juni gestorben (s. Bonifaz ^#/+Staub,^#/- Hauptmann Heinrich Schönbrunner von Zug und sein Tagebuch, in: Der Geschichtsfreund 18, 1862, S. 224); über die Umstände seines Todes ist nichts bekannt.<fe>. Equidem audio, quibus de miror.
+^$Basileę, 29. augusti anno 37.<un>Os. Myco.<un>tuus.
+<lz>[Adresse auf der Rückseite:] Domino Heinricho Bullingero, episcopo Tigurino, fratri ac domino in primis venerando suo.
+</content>
+</letter>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1500">
+<nr>1500</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel]</place>
+	<date>[nach Mitte April 1541]</date>
+	<note>Das Jahresdatum ergibt sich aus den im Brief aufgelisteten Basler Neuerscheinungen. Der Brief wurde verfasst nach der Frankfurter Frühjahrsmesse, die 1541 zwischen dem 20. März und dem 8. April stattfand (zum Termin vgl. HBBW VI, S. 193, Anm. 18), und vor der
+Publikation der Werke Melanchthons bei Johann Herwagend. Ä. im August (vgl. unten Anm. 38).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 446, 341r.-342v. (Siegelspur)</vo>
+<dr>Ungedruckt^&xErw.: Gast, Tagebuch 88, Anm. 257^&x{</dr>
+<re>[1.] Sendet auf Bullingers Anfrage hin eine nach den Druckern geordnete Liste der Basler Neuerscheinungen zur [Frankfurter Frühjahrs-]Messe. [2.] Nummerierte Liste der aus Frankfurt eingetroffenen Bücher. Für etwaige Bücherkäufe hat Bullinger bei Gast noch ein Gut­haben ausstehend.
+</re>
+<tx>S. Recte et in tempore monuisti<f1>Ein entsprechender Brief ist nicht erhalten.<fe> de libris adsignandis,
+quę apud nos hiis nundinis<f1>Es muss die Frankfurter Frühjahrsmesse gemeint sein, da Gasts Brief die bei Herwagen vorbereitete Ausgabe von Melanchthons Werken als noch unpubliziert voraussetzt (vgl. unten Anm. 38). Zudem erschienen mehrere der aufgelisteten Bücher exakt auf die Frühjahrsmesse
+terminiert im März.<fe> editi sunt.
+<lz>Frobenius<f1>Hieronymus Froben.<fe> dedit:
+^$^&=010Commentaria in aphorismos Hipp[ocratis] Brasvolae.<f1>Antonii Musae Brasavoli medici Ferrariensis in octo libros aphorismorum Hippocratis et Galeni commentaria et annotationes [...], Basel (Hieronymus Frobend. Ä. und Nikolaus Episcopiusd. Ä.) 1541 (VD 16 H 3769). - Antonio Brasavola,
+1500-1555. Ab 1521 im Dienst des Herzogs von Ferrara, Ercole II. d'Este. Lehr-, Forschungs- und Publikationstätigkeit in Ferrara auf biologisch-medizinischem Gebiet. Sein umfangreiches Werk umfasst neben seinen Kommentaren zu Galen und Hippokrates insbesondere pharmakologische Schriften. - Lit.:
+Guiliano ^#/+Gliozzi,^#/- in: DBI XIV 51f.<fe>
+^$^&=010Sub prelo habet Latinum Galenum, totus opus,<f1>Die Galenausgabe ("Omnia Galeni opera") erschien im März 1542 in neun Teilen bei Froben und Nikolaus Episcopiusd. Ä. (VD 16 G 172; GG 342). - Galen aus Pergamon, geb. 129, gest. ca. 216 n. Chr., griechischer Arzt und Philosoph, kaiserlicher
+Leibarzt. Er verfasste Schriften von großer Wirkungsgeschichte zur Philosophie und im Anschluss an Hippokrates zur Physiologie, Anatomie, Chirurgie, medizinischen Theorie, Therapeutik und Pharmakologie. - Lit.: Vivian ^#/+Nutton,^#/- in: DNP IV 748-756.<fe> et
+Cęlium de antiq[uis] lection[ibus].<f1>Lodovici Caelii Rhodigini lectionum antiquarum libri XXX [...], Basel (Hieronymus Froben und Nikolaus Episcopiusd. Ä.) 1542 (VD 16 R 2165). - Lodovico Ricchieri (Ludovicus Caelius Rhodiginus), 1469-1525, lehrte Griechisch und Lateinisch an verschiedenen
+italienischen Universitäten. Neben den "Antiquarum lectionum libri" verfasste er Kommentare zu Vergil, Ovid und Horaz. - Lit.: Anna Giulia ^#/+Cavagna^#/- / Thomas B. ^#/+Deutscher,^#/- in: Contemporaries III 155.<fe>
+^$^&=010Augustinus recuditur.<f1>Bei dieser Neuauflage handelte es sich wohl um Augustins Werk "De civitate Dei" (Divi Aurelii Augustini Hipponensis episcopi de civitate Dei libri XXII [...]), das schließlich 1542 bei Froben und Nikolaus Episcopiusd. Ä. erschien (VD 16 A 4182).<fe>
+<lz>Isengrinius<f1>Michael Isengrin, 1500-1557, begann 1531 in Basel, zunächst in Gemeinschaft mit Johann Bebel, zu drucken. Seine Offizin wurde von seinem Schwiegersohn Thomas Guarin weitergeführt. - Lit.: Paul ^#/+Heitz,^#/- Basler Büchermarken bis zum Anfang des 17. Jahrhunderts. Mit Vorbemerkungen
+und Nachrichten über die Basler Drucker von Carl Christoph Bernoulli, Straßburg 1895. - Die Büchermarken oder Buchdrucker- und Verlegerzeichen [4], S. XXXI; ^#/+Benzing,^#/- Buchdrucker 36.<fe>:
+^$^&=010Plutarchi Moralia Latine<fx>Latine ^#/+von Gast korrigiert aus^#/- Latina.<fe>. Quędam adiecit hactenus
+non versa.<f1>Plutarchi Chaeronei philosophi et historici clariss[imi] opera moralia [...], Basel (Michael Isengrin) 1541 (VD 16 P 3677; GG 96). - Plutarch, geb. um 45 n. Chr., gest. vor 125, war Platoniker und unterhielt in seinem Heimatort Chaironeia eine Privatakademie; 78 seiner philosophischen
+Schriften (vor allem zur Ethik) wurden in einer "Moralia" genannten Sammlung zusammengestellt. Daneben betrieb Plutarch biographisch-historische Studien, aus denen die berühmten Cäsarenviten und die sog. Parallelbiographien hervorgingen. - Lit.: C. B. R. ^#/+Pelling^#/- u. a., in: DNP IX
+1159-1175.<fe>
+Quem autorem Frob[enius] Gręce excudet.<f1>Plutarchi Chaeronei moralia opuscula, Basel (Hieronymus Froben und Nikolaus Episcopiusd. Ä.) 1542 (VD 16 P 3675; GG 97).<fe>
+^$^&=010Zasiana multa.<f1>Dn. Udalrichi Zasii singularia responsa [...] (VD 16 Z 172) und Habet hic tomus dn. Udalrici Zasii iureconsulti clarissimi sequentium e digestis titulorum lecturas [...] (VD 16 Z 185), beide Basel (Michael Isengrin) 1541. - Ulrich Zasius (Zäsi), 1461-1535. Nach dem Besuch der
+Domschule in Konstanz Studium in Tübingen, 1483 Notar und Schreiber am geistlichen Gericht in Konstanz, 1494 Stadtschreiber in Freiburg, 1496 Leiter der dortigen Lateinschule. Es folgte eine erneute Immatrikulation und die Promotion 1501. Danach juristische Lehrtätigkeit, bis er 1506 zum
+Rechtsprofessor ernannt wurde. Ab 1508 kaiserlicher Rat. Unter dem Eindruck des Bauernkrieges wandte er sich nach anfänglichen Sympathien für Luther von der reformatorischen Bewegung ab. Zasius gehört zu den bedeutendsten Rechtsgelehrten zu Beginn der Neuzeit, seine Kodifikation und Neuordnung des
+Freiburger Stadtrechts übte starke Wirkung aus. Durch briefliche Korrespondenz und Kontakte zu seinen ehemaligen Schülern war er eng in das humanistische Beziehungsgeflecht seiner Zeit eingebunden.
+- Lit.: Steven W. ^#/+Rowan,^#/- Ulrich Zasius. A Jurist in the German Renaissance, 1461-1535, Frankfurt a. M. 1987. - Ius commune. Sonderhefte, Studien zur europäischen Rechtsgeschichte 31; Roderich ^#/+Stintzing,^#/- Ulrich Zasius. Ein Beitrag zur Geschichte der Rechtswissenschaft im Zeitalter der
+Reformation, Basel 1857 (Nachdruck: Darmstadt 1961); Hans ^#/+Thieme^#/- / Steven ^#/+Rowan,^#/- in: Contemporaries III 469-473.<fe>
+^$^&=010In Solinum commentaria per Munst[erum]<f1>Sebastian Münster.<fe> decurtata,
+quę iam secundo edidit, adiectis tabulis.<f1>Das Werk erschien bei Isengrin erst 1543: C. Iulii Solini polyhistor rerum toto orbe memorabilium thesaurus locupletissimus [...] His accesserunt praeter priora scholia et tabulas geographicas permultas Petri quoque Olivarii Valentini annotationes
+[...] (VD 16 S 6969). Eine frühere Ausgabe war 1538 bei Isengrin und Heinrich Petri erschienen: C. Iulii Solini polyhistor rerum toto orbe memorabilium thesaurus locupletissimus [...] (VD 16 S 6968). - C. Julius Solinus, Grammatiker und Schriftsteller, Ende des 3. oder 4. Jh. Sein Hauptwerk sind
+seine "Collectanea rerum memorabilium", eine auf Sueton und Plinius aufbauende historische Topographie, die im Mittelalter und in der Frühen Neuzeit viel gelesen wurde. - Lit.: Klaus ^#/+Sallmann,^#/- in: DNP XI 701f.<fe>
+<lz>Valderus<f1>Johann Walder.<fe>:
+^$^&=010Lexicon Gręcum.<f1>[Konrad Gessner], Lexikon Graecolatinum, [...], Basel (Johann Walder) 1541 (VD 16 G 1749).<fe>
+^$^&=010Urbani Grammaticam.<f1>Eine von Johann Walder gedruckte Ausgabe der Griechischgrammatik des Urbano Valeriani (Urbanus Bellunensis, Bolzanius) aus dem Jahr 1541 ist nicht nachweisbar. Frühere Ausgaben Walders erschienen 1535 (VD 16 B 6530) und 1539 (VD 16 B 6531). Spätere Basler Ausgaben
+druckte u. a. Hieronymus Curio in den Jahren 1544 (VD 16 B 6532), 1546 (VD 16 ZV 2246) und 1548 (VD 16 B 6533). Bullingers Handexemplar einer Basler Ausgabe von 1524 verzeichnet HBBibl III 37.<fe>
+<lz>Oporinus<f1>Johannes Oporin.<fe>:
+^$^&=010Annotationes in Cic[eronis] oratorem varias.<f1>Gemeint ist wohl: En habes lector in omnes de arte rhetorica M. Tul. Ciceronis libros doctissimorum virorum commentaria [...], Basel (Robert Winter und Thomas Platterd. Ä.) 1541 (VD 16 I 156). Oporin kooperierte mit den Basler Druckern Winter,
+Platter und Balthasar Lasius (vgl. ^#/+Benzing,^#/- Buchdrucker 37).<fe>
+^$^&=010In Vallae<f1>Lorenzo Valla.<fe> elegantias annotat[iones] novas.<f1>Gemeint ist wohl: Annotationes in Laurentii Vallae de latinae linguae elegantia libros sex [...], Basel (Balthasar Lasius) 1541 (VD 16 ZV 14930). Zur Zusammenarbeit Oporins mit Lasius vgl. oben Anm. 19.<fe>
+^$^&=010Elementale a Camerario conscriptum<f1>Joachim Camerariusd. Ä., Elementa rhetoricae, sive capita exercitiorum studii puerilis [...], Basel (Johannes Oporin) 1541 (VD 16 C 394).<fe>, etc. Sub prelo habet
+Theonis progymnasmata Gręce et Latine.<f1>Theonis sophistae primae apud rhetorem exercitationes, innumeris quibus scatebant antea mendis Ioachimi Camerarii Pabergensis opera purgatae et in sermonem latinum conversae [...], Basel (Johannes Oporin) 1541 (VD 16 T 920; GG 232). - (Aelius) Theon, wohl
+1. Jh. n. Chr. Griechischer Rhetor und Verfasser der ältesten erhaltenen Lehrschrift über die rhetorischen "Progymnasmata". - Lit.: Michael ^#/+Weißenberger,^#/- in: DNP XII/1 375f.<fe>
+^$^&=010Theophrastum
+Gręcum,<f1>Theophrasti [...] opera, quae quidem [...] restant, omnia [...], Basel (Johannes Oporin) 1541 (VD 16 T 924f; GG 138). - Theophrastos, ca. 371-287 v. Chr. Peripatetischer Philosoph, Schüler und Nachfolger des Aristoteles. Ein Großteil seines Werks ist verloren. Erhalten haben sich u. a.
+Schriften zur Logik, Physik, Metaphysik, Botanik und Physiologie. Wichtig wurden in der Neuzeit seine Untersuchungen über die menschlichen Charaktere. - Lit.: William W. ^#/+Fortenbaugh^#/- / Johannes M. van ^#/+Ophuijsen,^#/- in: DNP XII/1 385-393.<fe> et de institutione puerorum libellos
+quosdam.<f1>Gemeint ist wohl: De docendi studendique modo ac de claris puerorum moribus libellus plane aureus, L. Vitruvio Roscio Parmensi autore. Cui adiecimus etiam alios eiusdem argumenti libellos [...], Basel (Robert Winter) 1541 (VD 16 R 3165). Zur Zusammenarbeit Oporins mit Winter vgl. oben
+Anm. 19. - Lucio Vitruvio Rossi, erwähnt 1494, Kanoniker, 1537 Prior in Bologna. Verfasser grammatikalischer, rhetorischer und didaktischer Werke. - Lit.: Ireneo ^#/+Affò,^#/- Memorie degli scrittori e letterati Parmigiani, continuate da Angelo Pezzana, Bd. 6/II, 2, Parma 1827, S. 487-494.
+964-966.<fe>
+<lz>Robertus Winter<f1>Robert Winter, Drucktätigkeit in Basel ab 1533, zunächst in Verlagsgemeinschaft mit Balthasar Lasius, Thomas Platter und seinem Schwager Johannes Oporin. Gest. zwischen 1550 und 1556. Seine Offizin wurde von Oporin übernommen. - Lit.: ^#/+Heitz,^#/- aaO, S. XXXII; ^#/+Benzing,^#/-
+Buchdrucker 37.<fe>:
+^$^&=010Indicem Gręcum in Phaborini lexicon.<f1>Indices accuratissimi in Varini Phaborini lexicon magnum, Basel ([Robert Winter]) [1541]; der Index erschien als Beigabe zu: Dictionarium Varini Phavorini Camertis [...] totius linguae Graecae commentarius [...], Basel (Robert Winter) 1538 (VD 16 F
+669; GG 86). - Guerino Favorino (Guarinus Phavorinus), geb. zwischen 1445 und 1450, gest. 1537. Lehrer Giovanni de' Medicis (ab 1513 Papst Leo X.) in Florenz, später in päpstlichem Dienst. Er war Bischof von Nocera und bekleidete neben verschiedenen anderen Ämtern die Position des Bibliothekars der
+Medici-Bibliothek sowie der Vaticana. Sein Hauptwerk ist das erwähnte Griechisch-Lexikon. - Lit.: Massimo ^#/+Ceresa,^#/- in: DBI XLV 474-477.<fe>
+^$^&=010Epitome in vitas Plutarchi.<f1>Epitome vitarum Plutarchi [...], Basel (Robert Winter), 1541 (VD 16 P 3776).<fe>
+^$^&=010Pausanię Atticum et Corinthiacum Latine.<f1>Pausaniae historici praeclarissimi commentariorum Graeciam describentium Attica et Corinthiaca [...], Basel (Robert Winter) 1541 (VD 16 P 1074). - Pausanias, geb. ca. 115 n. Chr. Sein Hauptwerk ist seine historisch-topographische "Beschreibung
+Griechenlands". - Lit.: Alice A. ^#/+Donohue,^#/- in: DNP IX 446-449.<fe>
+^$^&=010Gilberti Cognati scholasticalia quędam.<f1>De Iesu Christi sacerdotio narratiuncula e Graeco translata incerto interprete. Una cum Iacobi Antonii Marcelli ad Rhenatum Siciliae regem et Gilberti Cognati Nozereni ad Petrum Richardotum epistolis [...], Basel (Robert Winter) 1541 (VD 16 J 239).
+- Gilbertus Cognatus (Gilbert Cousin), 1506-1572. 1530-1535 Sekretär des Erasmus, mit dem er auch wissenschaftlich zusammenarbeitete und ein freundschaftliches Verhältnis pflegte. Ab 1535 Kanoniker in Nozeroy (Franche-Comté), wo er einen Schülerkreis um sich scharte und in Fortführung des
+erasmischen Programms zahlreiche theologische und hermeneutische, aber insbesondere auch topographische Werke verfasste und sich der Ausgabe und Übersetzung patristischer Schriften widmete. Aufgrund seiner konfessionell konzilianten Haltung wurde er in Nozeroy stark angefeindet und musste seine
+letzten Lebensjahre von 1567 bis 1572 im Gefängnis verbringen. Von seiner Korrespondez sind 14 Briefe an Bullinger erhalten.
+- Lit.: Peter G. ^#/+Bietenholz,^#/- in: Contemporaries I 350-352; Eugène und Émile ^#/+Haag,^#/- La France protestante, Bd. 4, Paris 1853 (Nachdruck: Genf 1966), S. 98-102. Zu seiner Beziehung zu Bullinger vgl. ^#/+Bouvier^#/- 346-354.<fe>
+^$^&=010Gesneri quaedam de herbis.<f1>Konrad Gessner, Historia plantarum et vires [...], Basel (Robert Winter) 1541 (VD 16 G 1747).<fe>
+^$^&=010Sub prelo habet Iulium Pollucem Latinum
+<f1>Iulii Pollucis onomasticon [...] nunc primum Latinitate donatum Rodolpho Gualthero Tigurino interprete [...], Basel (Robert Winter) 1541 (VD 16 P 4057; GG 82), dazu erschien ebenfalls bei Winter noch 1541 oder 1542 Rudolf Gwalthers Schrift "In Iulii Pollucis dictionarium annotationes [...]" (VD
+16 W 1101; GG 83).<fe> et Aristotelis
+opera<f1>Aristotelis et philosophorum complurium aliorum sententiae [...], Basel (Robert Winter) 1541 (VD 16 A 3641).<fe> per M. Gemuseum<f1>Hieronymus Gemusäus.<fe> nostrum castigata.
+<lz><vl>341v.</vl>
+Hervagius<f1>Johann Herwagend. Ä.<fe>:
+^$^&=010Ius civile cum magna accessione.<f1>Herwagen druckte 1541 in Basel das ganze "Corpus iuris civilis" in folgenden Bänden: Codicis dn. Iustiniani [...] (VD 16 C 5257); Pandectarum seu digestorum dn. Iustiniani [...] (VD 16 C 5247; GG 374); Institutionum seu elementorum dom. Iustiniani [...] (VD
+16 C 5197); Novellarum constitutionum dn. Iustiniani [...] (VD 16 C 5262; GG 375).<fe>
+^$^&=010Herodotum Gręcum.<f1>Herodoti libri novem [...], Basel (Johann Herwagend. Ä.) 1541 (VD 16 H 2507; GG 263). - Herodot, ca. 485 bis 424 v. Chr., stammte aus Halikarnassos (heute Bodrum, Südtürkei) und unternahm gemäß eigenen Angaben verschiedene ausgedehnte Reisen. Seine "Historien", eine
+Darstellung der Geschichte der Perserkriege, übten einen starken Einfluss auf die nachfolgende antike Geschichtsschreibung aus, weshalb ihm von Cicero der Beiname "Pater historiae" beigegeben wurde. - Lit.: Klaus ^#/+Meister,^#/- in: DNP V 469-475.<fe>
+^$^&=010Sub prelo habet omnia Melanchthonis in 4[!] tomos digesta.<f1>Operum Philippi Melancthonis tomi quinque [...], Basel (Johann Herwagend. Ä.) 1541 (VD 16 M 2330; Druckvarianten VD 16 ZV 10690 und 18396).<fe>
+<lz>D. Albanus<f1>Alban Thorer. Thorer fungierte bei den beiden unter seinem Namen aufgelisteten Werken nicht als Drucker, sondern als Herausgeber und (Teil-)Übersetzer.<fe>:
+^$^&=010Apicium de re culinaria.<f1>Caelii Apitii summi adulatricis medicinae artificis de re culinaria libri X [...], Basel (Johann Herwagend. Ä.) 1541 (VD 16 A 3119). - Der Autorenname "Caelius Apicius" wurde von den Humanisten einer anonym überlieferten Sammlung von römischen Kochrezepten (4. Jh.)
+mit dem mutmaßlichen Titel "De opsoniis et condimentis sive de re culinaria libri decem" zugewiesen, vgl. Pauline ^#/+Schmitt-Pantel,^#/- in: DNP II 903. 1542 erschien eine Ausgabe in Zürich bei Christoph Froschauer (BZD C 301).<fe>
+^$^&=010Carmina nonulla de bello Troiano.<f1>Daretis Phrygii poetarum et historicorum omnium primi de bello Troiano, in quo ipse militavit, libri [...] sex, a Cornelio Nepote Latino carmine heroico donati [...] item Pindari Thebani Homericae Iliados epitome, suavissimis numeris exarata. Ad haec Homeri
+poetarum principis Ilias, quatenus a Nicolao Valla et V. Obsopoeo carmine reddita, Basel (s. n.) 1541 (VD 16 D 127).<fe>
+<lz>Bryllingerus<f1>Nikolaus Brylinger wurde 1536 Bürger in Basel, womit wohl die Einrichtung einer Offizin zusammenfiel. Drucktätigkeit zeitweise in Kooperation mit Bartholomäus Westheimer und Sebastian Franck, auch im Auftrag Johannes Oporins. Aufgrund einer 1557 bei ihm gedruckten antisächsischen
+Schrift wurde er in Frankfurt verhaftet und drei Monate gefangen gesetzt. Gest. 1565. Das Druckgeschäft wurde von seinen Erben weitergeführt. - ^#/+Heitz,^#/- aaO, S. XXXIIf; ^#/+Benzing,^#/- Buchdrucker 39.<fe>:
+^$^&=010Comędias<fx>^#/+Marginal bezeichnet mit einem kleinen Kreis.^#/-<fe> aliquot ex vetero et novo test[amento]
+desumptas.<f1>Comoediae ac tragoediae aliquot ex novo et vetere testamento desumptae [...], Basel (Nikolaus Brylinger) 1540 (VD 16 C 4657).<fe>
+^$^&=010Novum testamentum Gręce et Latine.<f1>Novum testamentum Graece et Latine iuxta veterum cum Graecorum, tum Latinorum emendatissima exemplaria [...], Basel (Nikolaus Brylinger und Sebastian Franck) 1541 (VD 16 ZV 23772).<fe>
+^$^&=010Vallę elegantiarum opus.<f1>Elegantiarum Laurentii Vallae [...] libri [...], Basel (Nikolaus Brylinger) 1541 (VD 16 V 245).<fe>
+^$^&=010Vergilii opera cum Melanch[thonis] commentariolis.<f1>Erst 1543 erschien bei Brylinger eine Vergil-Ausgabe ("Publii Vergilii Maronis opera") mit einem Beitrag Melanchthons (VD 16 V 1348).<fe>
+<lz>Henricus Petri<f1>Heinrich Petri, 1508-1579. Studium der Medizin, sodann 1527 Übernahme der Offizin seines Vaters Adam. Unter seiner Ägide entstanden um die 500 Drucke, darunter die Werke Sebastian Münsters und Girolamo Cardanos. Schwerpunkt seiner Drucktätigkeit war das
+mathematisch-astronomische, geographische, hebraistische und auch lexikalische Schrifttum. Im Jahre 1556 wurde Petri, der auch verschiedene städtische Ämter bekleidete, von Kaiser Karl V. geadelt. - Lit.: ^#/+Benzing,^#/- Buchdrucker 35; ^#/+Heitz,^#/- aaO, S. XXIIIf; Frank ^#/+Hieronymus,^#/- 1488 Petri
+- Schwabe 1988. Eine traditionsreiche Basler Offizin im Spiegel ihrer frühen Drucke, Basel 1997, 1. Halbband, S. E6-E28; Elenchus librorum ex officina Henrici Petri, in: Neuer Anzeiger für Bibliographie und Bibliothekwissenschaft 46, 1885, S. 75-82.<fe>:
+^$^&=010Iosephi Hebraica et Latine reddita quędam, apocrypha
+nempe.<f1>Iosephus Hebraicus diu desideratus et nunc ex Constantinopolitano exemplari iuxta Hebraismum opera Sebastiani Munsteri versus et annotationibus atque collationibus illustratus [...], Basel (Heinrich Petri) 1541 (VD 16 J 945). - Das von Sebastian Münster übersetzte und bearbeitete Werk
+"Josippon", eine jüdische Geschichte vom Niedergang Babyloniens bis zum Jüdischen Krieg, wurde in der ersten Hälfte des 10. Jh. verfasst und dessen Autor, der sich als Flavius Josephus ausgab, mit einem gewissen Joseph ben Gorion identifiziert. - Lit.: David ^#/+Flusser,^#/- in: EJ X 296-298; Michael
+^#/+Tilly,^#/- in: BBKL III 678f.<fe>
+^$^&=010Claudii Ptolemęi omnia chorographica<fx>^#/+In der Vorlage^#/- orographica.<fe>, quę extant.<f1>Claudii Ptolemaei Pelusiensis Alexandrini omnia quae extant opera [...], Basel (Heinrich Petri) 1541 (VD 16 P 5204; GG 280).<fe>
+^$^&=010Alexandrum Trallianum cum scholiis Albani.<f1>Paraphrases in libros omneis Alexandri Tralliani medici [...] Albano Torino scholae medicae Basiliensis professore publico autore [...], Basel (Heinrich Petri) 1541 (VD 16 A 1785; GG 359). Beim Autor handelt es sich um Alban Thorer. - Alexander von
+Tralleis, griechischer Arzt um 565 n. Chr. Nach ausgedehnten Reisen Arzt und medizinischer Lehrer in Rom. Schriften zur Therapeutik und über Wurm- und Augenleiden, vgl. Vivian ^#/+Nutton,^#/- in: DNP I 483f.<fe>
+<lz>Westhemerus<f1>Bartholomäus Westheimer.<fe>:
+^$^&=010Unionem dissidentium in religione.<f1>Unio dissidentium locorum scripturae, hoc est: libellus [...] perd. Hermannum Bodium selectus [...], Basel (Bartholomäus Westheimer) 1541 (VD 16 B 6082). - Von Hermann Bodes Leben und Werk ist außer seiner erstmals 1527 in Antwerpen gedruckten irenischen
+Schrift nichts bekannt, weshalb der Autorname teilweise als Pseudonym gewertet und die Verfasserschaft Martin Bucer oder Johannes Oekolampad zugesprochen wurde, vgl. Willem Frederik ^#/+Dankbaar,^#/- De "Unio Dissidentium" van Hermannus Bodius, in: Tijdschrift voor geschiedenis 74, 1961, S.
+367-381.<fe>
+^$^&=010Carmina<fx>^#/+Marginal bezeichnet mit einem kleinen Kreis.^#/-<fe> Sedulii et Iuvenci cum commentariis.<f1>Coelii Sedulii presbyteri cum piissimi tum doctissimi paschale opus [...] Adiunximus etiam Iuvenci Hispani presbyteri evangelicam historiam eiusdem argumenti, additis et in eandem
+commentariis [...], Basel (Bartholomäus Westheimer) 1541 (VD 16 S 5248). - Sedulius, christlich-lateinischer Dichter, Verfasser der Bibeldichtung "Carmen Paschale" (wohl 5. Jh.), mit einer Prosafassung "Opus Paschale". Sedulius wurde von den mittelalterlichen Dichtern stark rezipiert, seit der
+Karolingerzeit gehört er zu den Schulautoren, vgl. Johannes ^#/+Schwind,^#/- in: DNP XI 319f; C. Vettius Aquilinus Iuvencus, spanischer Presbyter, schrieb wohl um 330 das lateinische Epos "Evangeliorum libri". - Lit.: Peter L. ^#/+Schmidt,^#/- in: DNP VI 114.<fe>
+^$^&=010Epitheta Ravisii.<f1>Epithetorum omnium, quae cum a poetis, tum ab autoribus classicis attributa rebus aut sunt, aut adiici apte et eleganter possunt, epitome [...] brevissima [...] Ioanne Ravisio Textore autore [...], Basel (Bartholomäus Westheimer) 1541 (VD 16 T 1443). - Jean Tixier (de
+Ravisi; Ravisius Textor), ca. 1480-1524. Der aus Nevers stammende Tixier lehrte in Paris am Collège de Navarre und war Autor zahlreicher Werke in humanistischem Geist. Neben den hier erwähnten "Epitheta", einer Sammlung von Attributen zu verschiedenen Namen und Begriffen, zählt insbesondere seine
+"Officinae epitome", eine im Hinblick auf die humanistische Literatur angelegte und nach Sachgruppen geordnete Materialsammlung, zu seinen Hauptwerken. - Lit.: Nouvelle biographie générale: depuis les temps les plus reculés jusqu'à nos jours [...], publiée [...] sous la direction de Dr.
+Hoefer, Bd. XLI, Paris 1862, Sp. 728.<fe>
+^$^&=010Ringelbergii opera.<f1>Ioachimi Fortii Ringelbergii Andoverpiani lucubrationes vel [...] liber de ratione studii utriusque linguae [...], Basel (Bartholomäus Westheimer) 1541 (VD 16 R 2449). - Joachim Fortius (Sterck van) Ringelberg, 1499-1556. Humanist und Verfasser von philologischen,
+philosophischen und mathematisch-astronomischen Werken. Seine bekannteste Arbeit "De ratione studii" wurde oft nachgedruckt. - Lit.: Marcel A. ^#/+Nauwelaerts,^#/- in: Contemporaries III 162.<fe>
+^$^&=010Epistolas Erasmi ex volumine toto excerptas
+elegantiores.<f1>Epistolaed. Erasmi Roterodami familiares ob singularem elegantiam adolescentum studiis et captui accommodatae [...] ex toto epistolarum libro [...] excerptae [...], Basel (Bartholomäus Westheimer) 1541 (VD 16 E 2958).<fe>
+<lz>Ex Francfordia venerunt:
+^$ ^&=010   1. ^&=028 Biblia Zantis, Coloniae impressa.<f1>Biblia sacra iuxta Germanam Hebraici idiomatis proprietatem [...] Interprete Xante Pagnino Lucense [...], Köln (Melchior von Neuß für Arnold Birckmannd. Ä.) 1541 (VD 16 B 2616). - Sante Pagnini, 1470-1541. 1487 Eintritt in den
+Dominikanerorden. Studien der orientalischen Sprachen, u. a. unter Savonarola. Nach Aufenthalten in Pistoia, Florenz und Lucca lehrte er im Auftrag Leos X. in Rom orientalische Sprachen bis 1521. Danach in Avignon und Lyon. Bleibende Verdienste erwarb er sich neben seinen Arbeiten zur Hermeneutik
+und Exegese auf dem Gebiet der biblischen Philologie mit einer Grammatik und einem Lexikon der hebräischen Sprache, insbesondere aber durch seine Übersetzung des Alten Testaments aus den Originalsprachen. - Lit.: T. M. ^#/+Centi,^#/- L'attività letteraria di Santi Pagnini nel campo delle scienze
+bibliche, in: Archivum Fratrum Praedicatorum 15, 1945, S. 5-51; Fernando ^#/+Domínguez,^#/- in: LThK^#'3 VII 1271f; Christoph ^#/+Schmitt,^#/- in: BBKL VI 1433f.<fe>
+^$ ^&=010   2. ^&=028 Contra Pauli III. papę epistolam, interpretatio,
+quam ad cęsarem dedit. 1540.<f1>Consilium admodum paternum Pauli III. [...], Straßburg (Wendelin Riheld. Ä.) 1541 (VD 16 K 432).<fe>
+<vl>342r.</vl>
+^$ ^&=010   3. ^&=028 Ein predig von Judas geitzs,d. Iacob
+Schenck.<f1>Eine predigt von Judas geitz [...], Wittenberg (Georg Rhau) 1541 (VD 16 S 2585). - Jakob Schenck, geb. ca. 1508. 1536 Hofprediger Heinrichs von Sachsen in Freiberg, 1538 Hofprediger in Weimar, 1541 Prediger und Professor der Theologie in Leipzig. Ebd. wurde er des Antinomismus
+verdächtigt und stieß auf Widerstand. 1544-1546 Hofprediger Joachims II. in Berlin. Vor seinem Ableben 1546 wurde er abgesetzt und abgeschoben. Neben einer Schrift über den Diebstahl verfasste er unter anderem Werke über die Taufe, die Buße und den Dekalog. - Lit.: Walter ^#/+Delius,^#/- in: RGG^#'3 V
+1400f; Georg ^#/+Müller,^#/- in: ADB XXXI 49-51.<fe>
+^$ ^&=010   4. ^&=028 Ein underricht des gloubens vom bischoff Johansen
+zuͦ Meyssen beschriben.<f1>Ein christliche lere zu gründtlichem und bestendigem underricht des rechten glaubens [...], Mainz (Franz Behem) 1541 (VD 16 M 406). - Johann (VIII.) von Maltitz, geb. 1491. Domherr, Prokurator und Dekan des Domkapitels von Meißen, Priesterweihe 1520. 1534-1537 Koadjutor
+seines Vetters Johann von Schleinitz, Bischof von Meißen. 1537 wurde er dessen Nachfolger auf dem Bischofsstuhl, den er bis zu seinem Tod 1549 besetzt hielt. Johanns Amtszeit war geprägt von der zunehmenden Lutheranisierung seiner Diözese. - Lit.: Siegfried ^#/+Seifert,^#/- in: Die Bischöfe des
+heiligen Römischen Reiches 1448 bis 1648. Ein biographisches Lexikon, hg. v. Erwin Gatz unter Mitwirkung von Clemens Brodkorb, Berlin 1996, S. 453f.<fe>
+^$ ^&=010   5. ^&=028 Von der rechten<fx>^#/+Vor^#/- rechten ^#/+zwei gestrichene Buchstaben^#/-.<fe> christlichen kirchen ein frag gstelt,
+uff den 7. articel der protestierenden, an k. maiestet.<f1>Von der rechten und waren christlichen kirchen notwendige frag und disputation auff den sibenden artickel der protestirenden confession etc. [...], Mainz (Franz Behem) 1541 (VD 16 V 2627).<fe>
+^$ ^&=010   6. ^&=028 Propheticus sermo 2. Pet. 1, durch Vicelium teutsch.<f1>Georg Witzel, Propheticus sermo, 2. Petr. 1. Hundert und mehr heiliger lection aus allen propheten zur besserung der christen gesamlet [...], Mainz (Franz Behem) 1541 (VD 16 W 4005).<fe>
+^$ ^&=010   7. ^&=028 Lazarus mendicus, comędia Georgii Macropedii.<f1>Lazarus mendicus [...], Utrecht (Hermannus Borculous) 1541 (Paul Valkema ^#/+Blouw,^#/- Typographia Batava 1541-1600. Repertorium van boeken gedrukt in Nederland tussen 1541 en 1600. In ordinem digessit A. C. Schuytvlot, 2 Bde.,
+Nieuwkoop 1998, Nr. 3303); eine weitere Ausgabe erschien im selben Jahr bei Jan Scheffer in 's-Hertogenbosch (ebd., Nr. 3304). - Joris van Lan(c)kvelt (Langeveldt) (Georgius Macropedius), geb. um 1475 oder um 1487, gest. 1558. Humanist, Dichter und Theaterautor. Schullehrer in 's-Hertogenbosch,
+danach in Liège. Ab 1537 in Utrecht, ebd. Rektor mit einer illustren Schülerschaft. Sein sehr erfolgreiches und weitverbreitetes Œuvre umfasst zahlreiche Theaterstücke einerseits, Schulliteratur zur Philologie, Grammatik und Rhetorik andererseits. - Lit.: Alphonse ^#/+Roersch,^#/- in: BNBelg XIII
+10-22; Daniel ^#/+Jacoby,^#/- in: ADB XX 19-28.<fe>
+^$ ^&=010   8. ^&=028 Quęstiones catechisticę Vicelii.<f1>Georg Witzel, Quaestiones catechisticae, lectu iucundae simul et utiles [...], Mainz (Franz Behem) 1541 (VD 16 W 4009).<fe>
+^$ ^&=010   9. ^&=028 Catechisticum examen Vicelii.<f1>Georg Witzel, Catechisticum examen christiani pueri [...], Mainz (Ivo Schöffer) 1541 (VD 16 W 3887).<fe>
+^$ ^&=010 10. ^&=028 Oration an alle furste des reichs von des bapsts
+uffkommen per Baptistam Lasdenum.<f1>Ain beschaidner historischer unschmählicher bericht an alle churfürsten, fürsten und stennde dess reichs von des pabstumbs auf und abnemen [...], [Augsburg (Melchior Kriegstein) 1541] (VD 16 S 6644f); hinter dem Pseudonym "Baptista Lasdenus" verbirgt sich
+Johannes Sleidanus.<fe>
+^$ ^&=010 11. ^&=028 Eine trost predig von der uffersthehung. Joan[nes] Draco[nites].<f1>Johannes Draconites, Eine trost predigt von der aufferstehung uber der leiche des hochgelerten poeten Helii Eobani Hessi [...], Straßburg (Wendelin Rihel) 1541 (VD 16 D 2516). Die Schrift erschien auch lateinisch:
+Oratio consolatoria de resurrectione mortuorum, in funere Helii Eobani Hessi [...] dicta, Regensburg (Hans Kohl) 1541 (VD 16 D 2517).<fe>
+^$ ^&=010 12. ^&=028 Ußlegung der histori Joseph[s] durch Corvinum.<f1>Antonius Corvinus, Außlegung der herlichen historien Josephs auß dem ersten buͤch Mose [...], [Straßburg (Wolfgang Köpfel)] 1541 (VD 16 B 3014).<fe>
+^$ ^&=010 13. ^&=028 De causa continente. Jacobus Scheckius.<f1>De causa continente [...], Tübingen (Ulrich Morhartd. Ä.) 1540 (VD 16 S 2467). - Jakob Schegk (eigtl. Degen), 1511-1587. 1536 Professor für Philosophie, seit 1543 für Medizin in Tübingen und mehrfacher Rektor. Er verfasste Kommentare zu
+Aristoteles und kämpfte gegen den Antitrinitarismus. Seine Christologie verwickelte ihn in verschiedene Auseinandersetzungen. - Lit.: Walter ^#/+Sparn,^#/- in: RGG^#'4 VII 871.<fe>
+^$ ^&=010 14. ^&=028 Comicae fabulę, rebelles et aluta.
+Macropedius.<f1>Comicarum fabularum Georgii Macropedii duae, rebelles videlicet et aluta [...], Köln (Johann Gymnich I.) 1540 (VD 16 L 408f).<fe>
+^$ ^&=010 15. ^&=028 De re aedificatoria lib. 10 Leonis Baptistę
+Alberti Florentini.<f1>De re aedificatoria libri decem Leonis
+Baptistae Alberti Florentini [...], Straßburg (Jakob Cammerlander) 1541 (VD 16 A 1301). - Leon Battista Alberti, 1404-1472, italienischer Gelehrter und Künstler. Studien in Bologna und Padua, 1430 in päpstlichem diplomatischem Dienst, ab 1432 an der päpstlichen Kurie. Universal gebildet, schuf er
+ein äußerst umfangreiches Œuvre, das neben literarischen, grammatikalischen und kunsttheoretischen Schriften auch Werke zur Kryptographie wie auch naturwissenschaftliche und mathematisch-physikalische Arbeiten in italienischer und lateinischer Sprache umfasst. Bedeutende Verdienste erwarb er sich
+auf dem Gebiet der Baukunst und durch seine Beiträge zur Architekturtheorie. - Lit.: Anthony ^#/+Grafton,^#/- Leon Battista Alberti. Baumeister der Renaissance, Berlin 2002; F. ^#/+Schalk,^#/- in: LMA I 292f; Dietmar ^#/+Klose,^#/- in: BBKL XXI 12-15.<fe>
+^$ ^&=010 16. ^&=028 Syncretismus Geranę contra Turcę
+tyrannidem. Nicolaus Wimmannus.<f1>Syncretismus sive conspiratio nobilis Germaniae totiusque adeo christiani orbis contra impiam atque efferam immanissimi Turcae tyrannidem. Autore Nicolao Wimmanno [...], Köln (Johann Gymnich I.) 1541 (VD 16 W 3326). - Nikolaus Winmann, geb. in Saanen (Kanton Bern),
+Schulbesuch in Zürich und Breslau, ab 1523 Studium an der Universität Wien, ab 1528 in Tübingen. 1533 bis 1538 lehrte er Griechisch und Hebräisch in Ingolstadt. In den folgenden Jahren bekleidete er verschiedene Stellen im Schulwesen: Leiter des Kollegiums von St. Nikolaus in Wien, nach 1541 Lehrer
+in Neiße (Nysa, Oberschlesien), 1548 Rektor der protestantischen Schule in Elbing (Westpreußen). Gest. nach 1550. Neben dem erwähnten "Syncretismus" veröffentlichte er ein Buch über das Schwimmen ("Colymbetes"), Dialoge für den Schulgebrauch und einen Bericht über eine Schiffsreise in der Nordsee. -
+Lit.: Peter G. ^#/+Bietenholz,^#/- in: Contemporaries III 454.<fe>
+^$ ^&=010 17. ^&=028 De ordinatione episcoporum<fx>^#/+In der Vorlage^#/- episcorum.<fe>. Cochleus.<f1>Johannes Cochläus, De ordinatione episcoporum atque presbyterorum et de eucharistiae consecratione [...], Mainz (Franz Behem) 1541 (VD 16 C 4352).<fe>
+^$ ^&=010 18. ^&=028 Didascalus comędia. Iacobus Zovitius
+Driescarus.<f1>Didascalus. Comoedia ut doctissima, ita lepidissima, autore Iacobo Zovitio Driescharo [...], Köln (Johann Gymnich I.) 1541 (VD 16 Z 550). - Jacobus Zovitius, geb. 1512, 1531 Lateinschullehrer in Hoogstraten, danach 1536 bis 1543 Rektor in Breda. Verfasser von Dramen und Gedichten
+sowie eines Lateinlehrbuches. - Lit.: Simón Anselmus ^#/+Vosters,^#/- Jacob Zovitius. Christen-Humanist en Rector van de Latijnse School te Breda, in: De Oranjeboom 38, 1985, S. 167-190; Abraham Jacob van der ^#/+Aa,^#/- Biographisch woordenboek der Nederlanden [...], Bd. XXI, Haarlem 1878, S. 65;
+Johannes ^#/+Bolte,^#/- in: ADB XLV 440f.<fe>
+^$ ^&=010 19. ^&=028 De Tungris et Eburonibus aliis Inferoris Germanię
+populis commentarius. Hubertus Thomas Leodius.<f1>De Tungris et Eburonibus aliisque Inferioris Germaniae populis Huberti Thomae Leodii commentarius [...], Straßburg (Wendelin Riheld. Ä.) 1541 (VD 16 T 1031). - Hubert Thomas (Leodius), 1495-1555/1556. Thomas stand ab 1520 im Dienste des Pfalzgrafen
+und späteren Kurfürsten Friedrich II., den er auf dessen zahlreichen Reisen begleitete und dessen Leben er in seinem Hauptwerk "Annales Palatini" dokumentierte. Daneben verfertigte er eine Bearbeitung von Peter Harers Schrift über den Bauernkrieg, eine biographische Darstellung des Franz von
+Sickingen sowie die erwähnte landesgeschichtliche Abhandlung "De Tungris et Eburonibus". - Lit.: Karl ^#/+Hartfelder,^#/- Der Historiker Thomas Hubertus Leodius, in: Forschungen zur deutschen Geschichte 25, 1885, S. 273-289; ^#/+ders.,^#/- in: ADB XVIII 295f; Henri ^#/+Pirenne,^#/- in: BNBelg XXV
+88-91.<fe>
+^$ ^&=010 20. ^&=028 De natura, incommodis, sed et remediis
+furentis hominum irae quaestiones 265. M. Otho
+Körber Babenbergensis.<f1>De natura, incommodis simul et remediis furentis hominum irae quaestiones 265 [...], Nürnberg (Johann Petreius) 1541 (VD 16 K 1888). - Otto Körber, 1526 Pfarrer in Nürnberg, 1532 in Hersbruck, wo er 1541 aufgrund seiner Predigten abgesetzt wurde. 1542 Hofprediger und
+Superintendent in Kulmbach, 1547 Generalsuperintendent. Er tat sich als Gegner des Interims hervor und betätigte sich als Verfasser von Trostschriften, gest. 1553. - Lit.: Matthias ^#/+Simon,^#/- Bayreuthisches Pfarrerbuch. Die Evangelisch-Lutherische Geistlichkeit des Fürstentums Kulmbach-Bayreuth
+(1528/29-1810), München 1930. - Einzelarbeiten aus der Kirchengeschichte Bayerns 12, S. 166f, Nr. 1284; Jöcher II 2142.<fe>
+^$ ^&=010 21. ^&=028 Comędia de<fx>de ^#/+über der Zeile.^#/-<fe> matrimonio tractans. Maternus
+Steindorfer.<f1>Comoedia lectu utilis et iucunda, tractans de matrimonio aliisque rebus scitu dignis [...], Mainz (Ivo Schöffer) 1540 (VD 16 S 8975). - Maternus Steyndorffer, geb. um 1517 in Erfurt, Humanist und Dichter. Sein Hauptwerk ist die hier aufgeführte Prosakomödie, die im selben Jahr auch
+in einer deutschen Fassung erschien. - Lit.: Johannes ^#/+Bolte,^#/- in: ADB XXXVI 160f.<fe>
+^$ ^&=010 22. ^&=028 Iuliani Aurelii Lessigniensis de cognominibus deorum
+gentilium libri tres.<f1>De cognominibus deorum gentilium libri III [...], Antwerpen (Antonius Goinus) 1541 (Elly ^#/+Cockx-Indestege,^#/- Geneviève ^#/+Glorieux,^#/- Belgica Typographica 1541-1600, 4 Bde., Nieuwkoop 1968-1994. - Nationaal Centrum voor de archeologie en de geschiedenis van het boek,
+Brussel II/1-4, Nr. 201); Johannes Oporin druckte das Werk um 1543 in Basel nach, s. VD 16 C 5174. - Julianus Aurelius Haurech, Jurist und Schriftsteller. Studium der Jurisprudenz in Poitiers, ab 1540 Advokat des Parlaments von Mecheln. Sein Hauptwerk "De cognominibus deorum gentilium", das er neben
+juristischen Schriften und einem Horazkommentar verfasste, befasst sich mit den Ursprüngen der Idolatrie und den heidnischen Hauptgöttern. Gest. 1578. - Lit.: Émile van ^#/+Arenbergh,^#/- in: BNBelg X 609f; Jöcher II 1407.<fe>
+<vl>342v.</vl>
+^$ ^&=010 23. ^&=028 Catechismus minor Urbani Regii.<f1>Urbanus Rhegius, Catechismus minor puerorum [...], Wittenberg (Josef Klug) 1540 (VD 16 R 1744).<fe>
+^$ ^&=010 24. ^&=028 Commentarii in epistolam ad Titum<fx>in epistolam ad Titum ^#/+in der Vorlage korrigiert aus^#/- ad Titum in epistolam.<fe>. Christophorus
+Hofman.<f1>Commentarii in epistolam Pauli apostoli ad Titum [...], Frankfurt a. M. (Peter Braubach) 1541 (VD 16 B 5181). - Christoph Hoffmann aus Ansbach, Rektor in Saalfeld, Pfarrer in Hardisleben und Jena, Hofprediger Johann Friedrichs von Sachsen. Verfasser einer Schrift über die Buße sowie von
+Kommentaren zu den paulinischen Briefen, gest. zwischen 1552 und 1554. - Lit.: Matthias ^#/+Simon^#/-, Ansbachisches Pfarrerbuch. Die Evangelisch-Lutherische Geistlichkeit des Fürstentums Brandenburg-Ansbach 1528-1806, Nürnberg 1957. - Einzelarbeiten aus der Kirchengeschichte Bayerns XXVIII, S. 204,
+Nr. 1242.<fe>
+^$ ^&=010 25. ^&=028 Theodoriti Cyrenensis episcopi de evangelicę
+veritatis ex Gręcorum atque gentium philosophia
+cognitione sive de Gręcarum affectionum curatione
+lib. 12 Zenobio Accialo interprete<fx>^#/+In der Vorlage^#/- interpretee.<fe>.<f1>Theodoriti Cyrensis episcopi de evangelicae
+veritatis ex Gręcorum atque gentium philosophia
+cognitione, sive de Gręcarum affectionum curatione
+libri duodecim [...], Antwerpen (Joannes Steels) 1540 (Herbert Mayow ^#/+Adams,^#/- Catalogue of books printed on the continent of Europe, 1501-1600, in Cambridge libraries, 2 Bde., Cambridge 1967, Nr. T 482). - Theodoret von Kyrrhos, geb. um 393. Bischof 423. Literarisch betätigte sich Theodoret als
+Exeget, Apologet, Historiker und Biograph. Sein dogmatisches Hauptwerk "Der Bettler" richtete sich gegen den Monophysitismus, vgl. Josef ^#/+Rist,^#/- in: DNP XII/1 320f; Albert ^#/+Viciano,^#/- in: LThK^#'3 IX 1401-1404; Jean-Noël ^#/+Guinot,^#/- in: TRE XXXIII
+250-254. - Zanobi Acciaiuoli, 1461-1519. Der in Florenz aufgewachsene Acciaiuoli war ein Vertrauter der Medici und bekannt mit den bedeutendsten Humanisten seiner Zeit, wie Ficino, Poliziano und Pico della Mirandola. 1495 erfolgte sein Eintritt in den Dominikanerorden. Er betrieb eine intensive
+Übersetzungstätigkeit, insbesondere zur griechischen Patristik. Ab 1513 in Rom an der Kurie Leos XIII. In Rom versah er einen Lehrstuhl und wurde 1518 Präfekt der Vatikanischen Bibliothek. Vgl. Abele L. ^#/+Rodigonda,^#/- in: DBI I 93f; S. ^#/+Polica,^#/- in: LMA I 73.<fe>
+^$ ^&=010 26. ^&=028 Euricii Cordi de cabalistis quaedam.<f1>An welche Werke des Euricius Cordus Gast denkt, bleibt unklar. - Euricius Cordus, geb. 1484. Ab 1527 Professor der Medizin an der Universität Marburg, 1534 Stadtarzt und Lehrer in Bremen, gest. 1535. Neben seinen medizinischen und botanischen
+Werken, in denen er sich gegen die Astrologie und andere
+Grenzwissenschaften wandte, ragen seine poetischen Arbeiten hervor. - Lit.: Ilse ^#/+Guenther,^#/- in: Contemporaries I 339.<fe>
+<lz> ^&=010 Praeterea Hebręa quędam allata sunt ab
+Isnen[sibus]<f1>Zu den 1541 von Paul Fagius in Isny veranstalteten Ausgaben hebräischer Werke s. VD 16 ZV 20208, E 1005f, E 1009 und The Sixteenth Century Hebrew Book. An Abridged Thesaurus, hg. v. Marvin J. Heller, 2 Bde., Leiden-Boston 2004. - Brill's Series in Jewish Studies 33/1-2, S.
+255-261.<fe> et e Parisiis.<f1>Es handelt sich wohl um die 1539 bis 1544 bei Robert Estienne in Paris gedruckte hebräische Bibel, s. ebd., S. 237.<fe>
+<lz>Hic habes fere summam librorum, quos ego vidi. Vale in
+domino. Neque opus, ut anxie torquearis de pretio, cum aliquem librorum tibi emo.
+Plus enim hactenus
+misisti, quam exposuerim. Nosti me ad vota tua
+paratiss[imum] Gastium.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse darunter:] Vigilantissimo pastori ecclesiae
+Tigurinaed. Heinricho Bullingero, suo in domino charissimo.
+</content>
+</letter>

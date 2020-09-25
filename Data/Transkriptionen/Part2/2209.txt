@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2209">
+<nr>2209</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Matthias Erb</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. August 1545</date>
+</space_time>
+<vo>Autograph: Basel UB, Ms Ki. Ar. 25c, Nr. 59 (früher 57), f. 78; ^$^$^$^$[Beilagen:] Nr. 88 (früher 86), f. i-j (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 195; Regest 19. Jh.: Straßburg BNU, Ms 675 (Thes. Baum. 16), 84. ^&x{
+<re>Aus Bullingers letzten zwei Briefen [nicht erhalten und oben Nr. 2199] konnte Erb ersehen, was Bullinger von ihm erhofft. Sobald nämlich Bullinger aus glaubwürdiger Quelle hörte, dass Erb nicht länger bei [Graf Georg von Württemberg] bleiben wolle, wünschte er sich eine neue Stelle für Erb. Da kam es ganz gelegen, dass der Stadtschreiber Georg Frölich von Augsburg nach einem guten Gelehrten für die dortige Kirche anfragte, der weder Lutheraner noch Buceraner sei. Bullinger empfahl umgehend Erb!
+-^#. Danach erhielt er vom Augsburger Rat einen Brief [Nr. 2204], von dem er beiliegend eine Abschrift übersendet. Desgleichen legt er einen Auszug von Frölichs Brief [Nr. 2203] bei.
+-^#. Nun schickt er allein wegen dieser Angelegenheit den jungen [Markus Wüst], um Erbs Antwort einzuholen. Wie auch immer dieser sich entscheidet, er soll in seiner Antwort auf Bullingers Ruf bei den Augsburgern Rücksicht nehmen. Erb soll aber diese von Gott geschenkte Gelegenheit nicht verachten! In seiner Antwort soll er gegebenenfalls auch Nachrichten aus Straßburg oder Worms mitteilen.
+-^#. [P.S.:] Grüße an [Nikolaus] König, den [Stadt]schreiber [Oswald Fürstenlob] und besonders an Gerold [Meyer von Knonau d.J.]. [Kaspar] Megander, der über diese Angelegenheit informiert ist, lässt auch grüßen.
+-^#. [1. Beilage: Nr. 2204, 1-24].
+-^#. [2. Beilage: Nr. 2203, 31-43].
+-^#. Erb soll die [Zürcher] nicht im Stich lassen.</re>
+<tx>Gratiam et pacem.
+^$Nihil dubito, charissime mi Erbi, iam olim te binas a me accepisse literas<f1>Ein nicht erhaltener Brief (s. oben Nr. 2199, 10 und Anm. 9) sowie oben Nr. 2199.<fe>,
+ex quibus intellexisti, quid efflictim a te impetratum cupiam.
+Audivi certaque fide, utpote a fide dignis hominibus didici, nolle te amplius apud tuum manere principem<f1>Graf Georg von Württemberg.<fe>;
+non quod non illum et ecclesiam isthic ames, sed quia multis de causis porro tibi parum sit integrum Rychenvillae haerere.
+Ab illa ergo hora cupivi ex animo tibi iamiam honestissima aliqua conditione alia prospectum,
+idque propter insigne in pietatem et veritatem Christi studium, et quod te amo et tibi bene volo ex animo.
+Scribebat<f1>Oben Nr. 2164, 23-42.<fe> tum commodum profecto singularis amicus meusd. Georgius Laetus<f1>Georg Frölich.<fe>, archigrammateus Augustanus,
+si quem virum bonum et doctum, non tamen vel Lutheranum vel Buceranum nossem, ipsi indicarem, nam huiusmodi vocandum ab ecclesia Augustana.
+Ego protinus adamatum meum Erbium literis meis<f1>Mit dem nicht erhaltenen Brief (s. oben Anm. 1) und mit oben Nr. 2199.<fe> indicavi. Verum haec omnia superioribus ad te literis datis<f1>Oben Nr. 2199.<fe> significavi.
+^$Iam vero, quid porro factum sit, intelliges.
+Permoti amplissimi senatores Augustani meo testimonio meaque commendatione Erbii
+hodie has ad me pergameno inscriptas mittunt literas<f1>Oben Nr. 2204.<fe>, quarum copiam hic mitto<f1>Die 1. Beilage.<fe>.
+Adieci et quaedam ex Laeti literis<f1>Oben Nr. 2203.<fe> pridie ad me datis.<f1>Die 2. Beilage.<fe> Ex iis ergo, quid facto opus sit, vides.
+^$Ego studiosum hunc adolescentem<f1>Markus Wüst (Turpilius); s. unten Anm. b. - Wüst stammte aus Frauenfeld und wurde 1545 Stipendiat am Großmünster; 1546/47 immatrikulierte er sich in Basel; am 12. April 1548 Baccalaureus; am 23. Januar 1550 Magister (Basel, Matrikel II 49, Nr. 32). Laut Bullinger kam er am 11. November 1550 nach Zurzach und "starb da bald" (Zürich ZB, Ms F 95.1, zwischen Nr. 47 und 48 und Nr. 96; s. auch Ms Car C 44, p. 925, Nr. 48). Doch laut dem Verzeichnis der Inhaber von geistlichen Pfründen und von Schulpfründen der Stadt und Landschaft Zürich (Zürich StA, G I 179, f. 33r.) wurde Wüst am 12. August 1551 in Zurzach gewählt und starb ebenda am 26. Januar 1551 [sic]. Laut der gleichen Quelle (aaO) soll Wüsts Vorgänger, Hans Rommen (Römer), Zurzach am 24. Juli 1551 verlassen haben, während Wüsts Nachfolger, Jakob Bindschedler, am 30. Januar 1552 gewählt worden sein soll. Bullingers oben erwähnte Stipendiatenlisten enthalten keine Angaben zu Rommen und Bindschedler.<fe> meis impensis illuc ad te huius solius negotii causam misi,
+ac per amicitiae iura responsionem a te per hunc postulo.
+Hanc ita componas velim, ut, utram tandem in partem inclines, meae quoque existimationi
+consulas apud Augustanos, ut, dum his tuam responsionem mitto, nihil insit,
+cuius me pudeat, quasi parum egerim strenue, etc. Intelligis, quid velim.
+Spero tum fidem tuam in nullo mihi defuturam, imo hortor te in domino Iesu servatore nostro, ne vocationem admodum egregiam spernas.
+De dei voluntate addubitare non potes; ergo nec de auxilio eius viribusque ad hanc functionem necessariis.
+Habebis symmistas fideles et humanos. <vl>78v.</vl> Habebis męcoenates et dominos liberalissimos.
+Labor tibi non tantus incumbet, quantum<fx>^#/+Nach^#/- quantum ^#/+gestrichenes^#/- num.<fe> exantlare cogeris. Ne ergo desis Christo, amicis ac tibi ipsi.
+Caetera ipse intelligis.
+^$Vale et bene tibi volentem complectere; rescribe,
+et si quid habes scitu dignum ab Argentina aut Wormatia, communices, oro.
+^$Tiguri, 6. augusti.
+<lz>Salutabis Regium<f1>Nikolaus König.<fe>, scribam<f1>Oswald Fürstenlob.<fe>, et fratres reliquos. Anno 1545.
+Geroldum<f1>Gerold Meyer.<fe> vero meum inter primos salvere iubeo. Salutat te Megander, huius negotii conscius.
+<un>Tuus Bullingerus.
+<lz>[1. Beilage:]
+^$<vl>i-j</vl> Copia des brieffs, der uff pergamen geschriben und mitt der statt Augspurg secret<f1>Das Siegel des Sekretärs, des Stadtschreibers.<fe> beschlossen ist.
+<lz>[...]<f1>Oben Nr. 2204, 1-24. Der Text wurde von Bullinger ohne inhaltliche Änderungen, lediglich mit Schreibvarianten kopiert.<fe>
+^&x^$Dem christenlichen und hochgelerten herren Heinrychen Bullinger, vorgeern der kirchen zuͦ Zürych, unserm lieben herrenn und fründ, embietend wir, die radtgaͤben der statt Augspurg, unser früntlich, willig dienst mitt fleiß zevor. ^$Lieber herr und fründ, uns hat der wolgelert, unser lieber stattschriber Georg Froͤlich, muntlich angebracht, wie ir imm uff sin gschrifftlich ansuͦchen von einem theologo, h. Matthias Erb genant, anzeigung gethon, der frumm und glert, und diser zyt by unserm gnedigen herren graff Georgen von Wurtemberg sye, und sich zuͦ unserm kirchendienst begaͤben moͤcht. Und ist nitt on, daß wir gern mitt einem fridliebenden gesonder leer theologen fürsaͤhen weren; haͤttend ouch an uwer zügnus, die ir gedachtem herren Erbio gaͤbt, überflüssig genuͦg. Diewyl er aber by gedachtem, unserem gnedigen herren von Würtemberg, vilicht one ungnad in unser statt nitt wol zuͦ bringen, so ist unser früntlich pitt, ir woͤllind flys anckeren, die sach dahin ze befürderen, das ernanter herr Erb sinen abschid gedachts orts früntlich nemme, sich gen Zürych oder ettwan naͤher gaͤgen Augspurg niderlasse. So woͤllend wir inn beruͤffen, uff die prob hoͤren, und mitt imm handlen, guͦter zuͦversicht wir woͤllend uns uff üwer unserm stattschryber gethan anzeigen mitt ime kirchendiensts halben verglichen. Solt es aber ye von gott nitt sin, woͤllend wir inne dennocht dermassen abfer-<vl>88v.</vl>tigen, das er verhoffenlich sol zuͦfriden sein, und uns soͤlichs umb üch, unsern lieben fründt imm herren, früntlich verdienen. ^$Datum donnerstags, 30. iulii anno 1545.^&x{
+<lz>[2. Beilage:]
+^$<vl>j</vl> Ex epistolad. Georgii Laeti, archigrammatei Augustani, ad Bullingerum, 28. iulii anno 1545<f1>Oben Nr. 2203, 31-43. Da dieser Auszug stilistisch und z.T. auch inhaltlich von Bullinger bearbeitet wurde, wird dessen Abschrift hier wiedergegeben, jedoch ohne Anmerkungen.<fe>:
+<lz>"Quantum add. M[atthiam] Erbium attinet, prudenter sane tu scribis, quod princeps aegre ipsum dimissurus sit;
+ideo facile fieri posse, ut is magistratui nostro illum vocanti graviter succenseat.
+Accipias ergo ante omnia responsum Erbii super literis tuis, atque si potuerit bona venia abitionem parare, primum ad vos concedat.
+Deinde nobis accersendus erit vocatione honestissima. Haec autem illi futura erit conditio:
+Concionabitur libere ad tempus in ecclesia Augustana. Quamprimum vero m. Michael Cellarius, qui proch dolor per adversam valetudinem haud diu durabit, vel alius ex parrochis nostris amplius suae ecclesiae praeesse nequeat, statim surrogabitur Erbius, etc.
+Statuat etiam illi magistratus noster in singulos anno aureos 250 vel 300 atque aedes, ut honestissime vivere possit."
+<lz>Tu modo ne desis nobis, etc.
+<lz>[Adresse auf 88a,v.:] Praestantissimo virod. Matthiae Erbio, domino et amico singulari suo.<fx>^#/+Darunter Empfangsvermerk von Erb:^#/- Redditę 10. augusti per Marcum Wustium.<fe>
+</content>
+</letter>

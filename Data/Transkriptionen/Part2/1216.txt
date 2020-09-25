@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1216">
+<nr>1216</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>21. Januar 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 158 (Siegelabdruck)</vo>
+<re>Antwortete auf Vadians Brief [Nr. 1213] nicht sofort, weil er bis zur Rückreise des Boten weder mit Propst [Heinrich Brennwald] noch mit der Witwe [Rubli] sprechen konnte. Doch diese erklärte sich nun gemäß einem Schreiben Brennwalds damit einverstanden, die zehn Gulden auf den 16. Oktober zu
+bezahlen; Bullinger empfiehlt Vadian den Waisenknaben [Sebastian Uriel Appenzeller]. Nimmt an, daß der Rat den Termin für die Tagsatzung in Baden nun angesetzt hat, nachdem er [Diethelm] Röist daran erinnert hat. Der Drucker drängt. Dankt für das [Spott-]Gedicht.
+</re>
+<tx>[Gedruckt: Vadian BW V 525, Nr. 1035.]
+</content>
+</letter>

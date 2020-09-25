@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1623">
+<nr>1623</nr>
+<correspondents>
+	<originator>Ulrich Lieb</originator>
+	<originator>Alexander Schmutz</originator>
+	<originator>Johannes Schmid</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Ohne Ort]<f1>Absendeort ist vermutlich der Wohnort des Briefschreibers Ulrich Lieb</place>
+	<date>Wigoltingen, oder jener des Briefsieglers Alexander Schmutz, Leutmerken (beide Kt. Thurgau).</date>
+	<note>, 25. April 1542</note>
+</space_time>
+<vo>Autograph von Ulrich Lieb<fx>^#/+Auch die Unterschr.iften sind von Lieb gesetzt.^#/-<fe>: Zürich StA, E II 335, 2060 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 51, 86</vo>
+<dr>Ungedruckt</dr>
+<re>Der Briefüberbringer Hans Fridinger, dem der Abt von Fischingen [Markus Schenkli] an der jüngsten Badener Tagsatzung
+seine Pfründe [in Bettwiesen] entzogen hat, möchte sein Auskommen im Gebiet Zürichs suchen und hat deshalb um ein
+Zeugnis gebeten; der Zürcher Gesandte Johannes Haab wird bereits über ihn berichtet haben. Sie bestätigen, dass
+Fridinger nie Anlass zur Klage gegeben hat und als Pfarrer empfohlen werden kann. Grüße.
+</re>
+<tx>Gratia tecum, ornatissime presul.
+^$Comparuit apud nos dilectus frater Ioannes Fridinger,
+presentium lator, ac conditionis sue rationem nobis
+recitavit, quomodo preteritis comitiis Badensibus causante
+nonnullam fructuum penuriam archimandrita in Vischingen<f1>Abt der Benediktinerabtei Fischingen war von 1540-1553 Markus
+Schenkli, s. Helvetia Sacra III/1 1, S. 697f.<fe> benefitio suo sit destitutus,<f1>Der Abt hatte sich mehrfach darüber
+beschwert, in Bettwiesen und Au Prädikanten unterhalten zu müssen, obwohl es sich nur um Filialen handle, worauf die
+katholischen Orte am 20. April (Donnerstag vor St. Georg) Fridingers Entlassung beschlossen; s. EA IV/1d 81 d4. 93 f2. 107 i; Willy ^#/+Keller,^#/- Die
+Benediktinerabtei Fischingen im Zeitalter der Glaubensspaltung und der katholischen Reform 1500-1700, Freiburg/Schweiz 1946. -
+ZSKG, Beiheft 3, S. 76f.<fe> quamvis ecclesia sua multis modis renixa fuerit, proposuitque a fratribus persuasus se
+recepturum sub ditionem vestram sperans aliquam functionem
+ipsi apud Tigurinos contingere posse, quo ipsi ac liberis suis<f1>Nicht namentlich bekannt.<fe> de victu et
+amictu facilius provisum sit.<f1>Fridinger wurde 1542 Pfarrer in Buchs (Kt. Zürich), s. Pfarrerbuch 14. 282.<fe> Id autem
+ipsi consultum esse putavit, ut, si literas testimoniales sue ante acte vite ac conversationis a fratribus suis ipsi notis
+secum ferret, ut tu (optime patrone), pius magistratus ac patritii omnes certificarentur ob nullam aliam culpam sive
+delictum ipsum ecclesie sue esse exemptum quam ob predictam causam. Indubitato etiam insignis patritius vester ac
+legatus M. Ioannes Hab<fx>Hab ^#/+über der Zeile nachgetragen.^#/-<fe> fratris huius rationem omnem tibi
+exposuit. Rogavitque nos, qui eius notitiam iam ad multos
+annos habuerimus, ut huiusmodi testimonii literas ipsi
+comunicare non detrectaremus. Fatemur igitur fratrem illum
+conversatum esse intra nos citra omnem offensam, quantum
+nobis constat, et non<fx>^#/+Vor^#/- non ^#/+gestrichenes^#/- quod.<fe> aliter a vicinioribus suis symmistis
+ac subditis percepimus<fx>^#/+Undeutlich korrigiert aus^#/- perceperimus[?].<fe>, quam quod bene ecclesie sue
+prefuerit et exemplo et doctrina dignus quidem, ut pio
+coetui<fx>^#/+In der Vorlage^#/- cetui.<fe> ac cordato prefitiatur; non enim dubitamus, quin boni
+ac eruditi pastoris numeros omnes sit suppleturus. Hunc ergo
+tibi (clarissime vir) comendamus non ambigentes, quicquid
+benefitii in ipsum collocaveris, in Christum ipsum
+collocatum esse.
+^$Vale. Theodorum Bibliandrum piosque omnes nobis saluta.
+^$Date ac magistri Alexandri sigillo munite 25. aprilis anno 1542.
+<un>Huldrichus Amantius,
+<un>M. Alexander Schmutz,
+<un>Ioannes Fabricius.
+<lz>[Adresse auf der Rückseite:] Spectatissimo viro
+ac Tigurine ecclesie ornatissimo presuli M. Hainrico
+Bullingero, domino nostro ac patrono in primis observando.
+</content>
+</letter>

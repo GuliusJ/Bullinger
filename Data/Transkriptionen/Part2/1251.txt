@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1251">
+<nr>1251</nr>
+<correspondents>
+	<originator>Sebastian Münster</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>8. April [1539]</date>
+	<note>Das Jahr ergibt sich aus der Bezugnahme auf Bullingers Vorrede zur Münster-Bibel (vgl. dazu oben Nr. 1237, 25-28 mit Anm. 10.).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 446, 386 (Siegelspur)</vo>
+<re>Dankt für die Zuschrift und rühmt Bullingers Vorrede [zu Münsters "Biblia sacra", Zürich (Christoph Froschauer) 1539]; einige Theologen üben Kritik an seiner Übersetzung des Alten Testaments aus dem Hebräischen und meinen, daß diese besser unterblieben wäre. Wird nun an der Geographie des Ptolemäus ["Geographia universalis", Basel (Heinrich Petri) 1540] und am christlich-jüdischen Streitgespräch ["Messias Christianorum et Iudaeorum", Basel (Heinrich Petri) 1539] arbeiten; zwei Bogen davon sind bereits auf hebräisch gedruckt.</re>
+<dr>Gedruckt: David ^#/+Pulvermacher,^#/- Drei Briefe Sebastian Münsters, in: Theologische Studien und Kritiken 66, 1893, S. 801f. Gedruckt und Übersetzung<f1>Mit irrtümlicher Datierung auf den 6. April.<fe>: Briefe Sebastian Münsters. Lateinisch und deutsch, hg. v. Karl Heinz Burmeister, Ingelheim am Rhein 1964, S. 37-40.</dr>
+<tx>
+</content>
+</letter>

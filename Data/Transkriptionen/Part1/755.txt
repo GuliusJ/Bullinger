@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="755">
+<correspondents>
+	<originator>Benedikt Euander</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Isny</place>
+	<date>1. März (*1536*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 359, 3151 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Melchior Volmar, des Lobes voll für die Zürcher, möchte durch
+Euanders Empfehlung die Freundschaft Bullingers, Juds, Pellikans und
+Biblianders gewinnen; Euander bittet die Zürcher, mit einem Brief an
+Volmar den Anfang zu machen.
+</statue>
+<content>
+Doctor Melchior Volmarius mihi nuper e Tubinga+2
+hisce verbis scripsit+3,
+quod praeter loci amoenitatem, qua vehementer exhileratus
+sit, nusquam adhuc invenerit doctiores, magis pios et sinceriores viros
+quam Tiguri, nusquam etiam ecclesiam melius institutam,
+cupereque se tuae, Leonis+4,
+Pellicani et Theodori+5
+amicitiae et familiaritati quocunque modo insinuari. Id si meo prèsidio
+fiat, me maximam ab eo et novam nunc initurum gratiam. Se quoque interim
+nihil intermissurum, quod ad hanc necessitudinem contrahendam pertineat,
+ac priorem se litteris suis vos provocaturum, si ego sperem ipsius
+litteras vobis fore gratas. Et quamvis horum nihil opus esse arbitrer,
+cum vos humaniores sitis, quam ut quenquam (dignos puto) a vestro
+consortio excludatis, atque ego ineptior, quam ut talem virum vobis
+commendare aut debeam aut possim, tamen, quia hoc tantopere a me+a
+efflagitat et
+sibi bis gratum fore putat, si meo beneficio in vestrum gregem
+recipiatur, diligentissimis praecibus vobis insto, ut me hanc gratiam,
+quam video velle, ab eo inire patiamini ac virum alias humanissimum
+litterarum officio et humanitate antevertatis, quo simul cognoscat
+vos vere eos esse, quos iudicat, simulque me meo hoc officio apud vos
+non frustra functum esse. Nam non dubitat vir ille (id quod et mihi
+persuasissimum est) me non solum vobis omnibus charissimum, sed et
+multum quoque apud vos posse, qui me ei redeunti ex Gallia singuli
+certatim tam diligenter commendaveritis.
+<p>Vale.</p>
+<p>Isne, calendis martii.</p>
+<signature>
+Benedictus Euander tibi
+deditissimus+b.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Pietate ac eruditione eximio viro
+Henrico Bullingero, Tigurino contionatori primario, domino suo
+colendissimo.
+</address>
+</content>
+<note>
+<print>
++a>a me  am Rande nachgetragen.
++b>in der Vorlage  deditnsimus;  davor zwei gestrichene,
+unlesbare Wörter.
+</print>
+<address>
++1>Die im Brief erwähnte Rückkehr von Melchior Volmar aus Frankreich
+erfolgte 1535; am 1. Mai hatte er Bourges verlassen und war durch die
+Eidgenossenschaft, wo er in Zürich Bullinger und seine Kollegen
+kennenlernte, nach Deutschland zurückgekehrt (s. HBBW V, Nr. 605 mit
+Anm. 1). Die Datierung des vorliegenden Briefes ins Jahr 1536
+bestätigt sich durch den Umstand, dass der von Euander mit diesem
+Schreiben angeregte Briefwechsel kurz darauf einsetzte (s. unten Nr.
+858).
++2>Zu Volmars Berufung an die Universität Tübingen um die
+Jahreswende 1535/1536 s. HBBW V, S. 325, Anm. 11.
++3>Nicht erhalten.
++4>Leo Jud.
++5>Theodor Bibliander.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

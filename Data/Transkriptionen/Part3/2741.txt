@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2741">
+<brief>
+<id>17010</id>
+<nr>2741</nr> <from persid="FrölichGeorg"/> <to persid="Bullinger"/> <place plid="Augsburg"/> <date when="1547-01-06"/>
+<ae>Georg Frölich an Bullinger</ae>
+<od>[Augsburg], 6. Januar 1547</od>
+<vo>Autograph: Zürich StA, E II 346, 221 (Siegel)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 63, 10; Lit.: Roth, Augsburgs Ref'g. III 473f</k></dr>
+<re><t>Neujahrsgruß.</t>
+<t>Den schwierigen Zeiten zufolge konnte Frölich nicht auf Bullingers letzten Brief [nicht erhalten] antworten. Zur bedrohlichen Situation äußerte er sich aber in einem auf Deutsch verfassten Brief an Ambrosius Blarer und bat diesen um Weiterleitung an Bullinger. Sollte es nicht dazu gekommen sein, dann soll Bullinger wissen, dass Ulm, Memmingen, Biberach und Kempten aufgegeben haben! Augsburg ist also vom Feind umzingelt.</t>
+<t>Auch in Augsburg denkt man an eine Übergabe, oder besser gesagt, an eine schändliche Kapitulation nach dem Ulmer Vorbild! Die Patrizier sind völlig mutlos, besonders [Hans Welser], dem Bullinger seinen [Lukaskommentar] widmete. Der Rat und die Einwohner wollen sich jedoch nicht unterwerfen. Das könnte zu einem Aufstand führen!</t>
+<t>Gott verwandle diese Drangsal in einen Sieg! Bullinger soll schreiben, was in diesen Wirren zu tun sei. Frölich ist machtlos und hält es bald nicht mehr aus.</t>
+<t>Kurfürst Johann Friedrich von Sachsen hat beinahe all seine Herrschaftsgebiete wieder zurückerobert. Dem Landgrafen Philipp von Hessen macht der Einfall des Maximilian von Egmont, Grafen von Büren, in Hessen zu schaffen. Wegen der blockierten Straßen gelangen derzeit keine Nachrichten von den Fürsten nach Augsburg.</t>
+<t>Frölich versucht, den niedergeschlagenen Johannes Haller nach Kräften zu trösten. Sollten die Augsburger einen gottlosen Frieden mit dem Kaiser schließen, wäre Frölich wohl gut beraten, wenn er mit den Zürcher Pfarrern [Haller, Lorenz Meyer, Thoman Ruman und Rudolf Schwyzer d.Ä.] von Augsburg nach Zürich flüchten würde.</t>
+<t>Gruß.</t></re>
+<text>
+<div>
+<p>S. et foelix novi anni auspicium a summo atque unico rerum parente per Iesum Christum.</p>
+</div>
+<div>
+<p>Ad proximas tuas,
+<fn>Nicht erhalten.</fn> Bullingere frater venerande, iniquitas temporum et occupationes tristissime respondere me non sivere. <zzl>zl17010-1A</zzl>Scripsi autem domino Ambrosio
+<fn>Ambrosius Blarer. - Nicht in <a>Blarer BW</a>.</fn> Germanice et petii, ut tibi meas transmitteret, qu{e} calamitatem nostram continebant. Spero etiam te eas accepisse.<zzl>zl17010-1E</zzl> Sin minus, scito <zzl>zl17010-2A</zzl>Ulmenses,
+<fn>Zu Ulms Ergebung s. <qv>nr2734</qv>, <qv>fn17003-1</qv>.</fn> Memingenses, Bibracenses, Campidonenses a nobis penitus defecisse,
+<fn>Seit Anfang Januar stand Memmingen in Verhandlungen mit Kaiser Karl V.; s. <a>HBBW</a> XVIII 431, Anm. 15. Die Gesandten von Biberach, Isny, Kempten, Memmingen und Ravensburg, die sich in Ulm versammelt hatten (s. dazu <qv>nr2757</qv>, <qv>fn17025-2</qv>), brachen am 10. Januar von dort nach Heilbronn auf, wo sie am 13. eintrafen und am 16. dem Kaiser den Fußfall leisteten; s. <a>Rommel, Ulm</a> 85f; [Christian Friedrich <i>Essich,</i>] Geschichte der Reformation zu Biberach vom Jahr 1517 bis zum Jahr 1650, Ulm 1817, S. 54; Otto <i>Erhard,</i> Die Reformation der Kirche in Kempten auf Grund archivalischer Studien, Kempten [1917], S. 50f. Am 25. Januar (am Tag der Ankunft des Kaisers in Ulm; s. <qv>nr2754</qv>, <qv>fn17022-3</qv>) huldigten diese fünf Städte dem Kaiser in Ulm; s. Karl <i>Wolfart,</i> Kaiser Karl V. und Lindau, in: Schriften des Vereins für Geschichte des Bodensees und seiner Umgebung 39, 1910, 14f, Nr. VII; Zürich StA, A 177, Nr. 164 (der Konstanzer Rat an den Zürcher Rat, 26. Januar 1547); Zürich StA, A 177, Nr. 167 (undatierter Bericht eines Spions an Zürich, in dem die Huldigungszeremonie beschrieben wird).<zfn>fn17010-2</zfn></fn><zzl>zl17010-2E</zzl> <zzl>zl17010-3A</zzl>nosque modo undiquaque
+<fn>von allen Seiten; vgl. <a>Hoven</a> 594.</fn> hostibus esse vallatos.<zzl>zl17010-3E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17010-4A</zzl>Cogitatur iam apud nos de transactione sive potius turpi dedicione, qualem Ulmenses invenerunt. Primores nostri omnem exuerunt virilitatem, precipue vero is, cui tua sacrosancta dedicasti
+<fn>Hans Welser, Augsburger Bürgermeister, dem Bullinger im August 1546 seinen Lukaskommentar gewidmet hatte; s. <a>HBBW</a> XVII, Nr. 2545.</fn>.<zzl>zl17010-4E</zzl> <zzl>zl17010-5A</zzl>Senatus vero et populus iugum fortiter recusat. Hinc timendum erit, ne ex contrariis consultationibus tumultus oriatur.<zzl>zl17010-5E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17010-6A</zzl>Ego me domino obtuli sperans ex tribulationibus his victoriam.<zzl>zl17010-6E</zzl> <zzl>zl17010-7A</zzl>Tu ora dominum fideliter, ne nos deserat. Obtestor quoque te per mutuam dilectionem, ut, quid in his turbis, quas neque prohibere neque diu ferre possum, faciundum sit, in scriptis reveles.<zzl>zl17010-7E</zzl></p>
+</div>
+<div>
+<p><zzl>zl17010-8A</zzl>Princeps Saxoni{e} elector
+<fn>Johann Friedrich I. von Sachsen.</fn> intravit diciones suas recuperaturus atque, ut audio, fere singulas recepit.<zzl>zl17010-8E</zzl> <zzl>zl17010-9A</zzl>Landgravius
+<fn>Philipp von Hessen.</fn> cum comite a Buren
+<fn>Maximilian von Egmont, Graf von Büren.</fn>, qui in agrum Cattorum
+<fn>Hessen. - Zum Einmarsch von Bürens in Hessen im Dezember 1546 s. <a>HBBW</a> XVIII 375, Anm. 21; <a>PC</a> IV/1, Nr. 519 (Brief Philipps von Hessen vom 7. Januar 1547).</fn> irrupit, negotium habet.<zzl>zl17010-9E</zzl> Qua autem fortuna utatur, nescio. Nullas enim amplius literas a nostris principibus habere possumus; adeo omnes vi{e} sunt perclus{e}!</p>
+</div>
+<div>
+<p><zzl>zl17010-10A</zzl>Hallerus valet et est multum sollicitus. Ego ipsum solor, quantum possum.<zzl>zl17010-10E</zzl> <zzl>zl17010-11A</zzl>Si domino ita visum esset, ut ego cum vestris concionatoribus
+<fn>Gemeint sind die aus Zürich stammenden, in Augsburg wirkenden Pfarrer Johannes Haller, Lorenz Meyer (Agricola), (Hans) Thoman Ruman (Römer) und Rudolf Schwyzer d.Ä.</fn>, quando contingeret magistratum nostrum impias conditiones cum cesare
+<fn>Karl V.</fn> inire (quod deus avertat)
+<fa><i>Klammern ergänzt.</i></fa>, Tigurum concederem exulatum,
+<fn>Vgl. dazu auch Hallers Bemerkung in <qv>nr2744</qv>,<qv>zl17013-1</qv>.</fn> bene mecum comparatum esse censerem.<zzl>zl17010-11E</zzl></p>
+</div>
+<div>
+<p>Vale et dicito ex me salutem omnibus bonis et piis. 6. ianuarii 1547.</p>
+<un>Tuus Georgius L{e}tus, etc.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Herrn Henrichen Bullinger, etc., vorgeern
+<fn>Antistes.</fn> der kirchen Zurch, mynem gunnstigen herrn und brudern. Zurch. Cito.</p>
+</div>
+</text>
+</brief>

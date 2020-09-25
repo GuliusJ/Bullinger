@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1507">
+<nr>1507</nr>
+<correspondents>
+	<originator fn=1>Meier</originator>
+	<originator>Rat von Biel</originator>
+	<addressee>Bullinger</addressee>
+	<addressee>die übrigen Pfarrer von Zürich</addressee>
+	<note fn=1>Der Meier war in Biel als bischöflicher Beamter oberster Gerichtsherr, Haupt der Verwaltung und Ratsvorsitzender, vgl. Emil Anton ^#/+Bloesch,^#/- Verfassungsgeschichte der Stadt Biel von der Frühzeit bis zum Sturz des Familienregiments im Jahre 1798, Gekürzte Ausgabe der im Jahre 1925
+verfassten Arbeit, Biel 1977, S. 95-101. In den Jahren 1533-48 bekleidete Valerius Göuffi von Büderich (gest. 1561, s. HBLS III 590, ^#/+Bloesch,^#/- aaO, S. 124) das Amt.^&xBourquin/Bourquin, Biel Stadtgesch. Lexikon S. 167 (ZB GU 1763^&x{</note>
+</correspondents>
+<space_time>
+	<place>[Biel]</place>
+	<date>29. April 1541</date>
+</space_time>
+<vo>Original: Zürich StA, E II 359, 2798 (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 49, 95</vo>
+<dr>Ungedruckt</dr>
+<re>Peter Schnyder, der Überbringer des Briefes, wird sich mit dem Prior von Kappel [Peter Simler] betreffend die zwei Knaben [Abraham und Beat Steinegger] beraten und anschließend in der gleichen Angelegenheit in Zürich vorsprechen. Bitten um Rat, wie man mit den Knaben weiter verfahren soll. Dank.
+</re>
+<tx>Unsernn frünttlichen gruͦß, samptt erpiettung aller
+erenn, liebs und guͦtts zuͦ vor, wolgelertt, fromm,
+fürnämenn, ersamm, wyß, insunders lieben herrenn und
+guͦtten fründt.
+^$Die wil üwer guͦtter will und erwirdy frünttschafftt gegenn
+uns unverborgenn und meren malen selichs<f1>solches.<fe> von üch gespürtt,
+so württ unser sonders lieber fründt und predicantt herr
+Petter Schnider<f1>Peter Schnyder.<fe>, zeyger diß brieffs<f1>Überbringer dieses Briefes.<fe> (nach dem und är mitt dem
+herrenn prior zuͦ Cappellen<f1>Prior zu Kappel am Albis (Kt. Zürich) war Peter Simler.<fe> unseren zweyen knabenn<f1>Es handelt sich um die Bieler Stipendiaten Abraham und Beat (Batt) Steinegger, die gemäß den Schreiben Zürichs an Biel und an Peter Simler vom 8. Juli 1538 (Zürich StA, B IV 9,
+194r.-v.) probeweise für ein Jahr in die Schule des im Zuge der Reformation an die Stadt Zürich gefallenen Klosters Kappel aufgenommen worden waren. Eine Schülerliste in Zürich StA, E I 14.1, Fasz. 2 notiert den Schuleintritt der Knaben am 9. Juli 1538.<fe> halb
+gehandlett) zuͦ üch khomenn sachenn halb, die wir ime in
+ernstlichenn befälch (anträffentt die sälbigenn knabenn)
+gäben, als ir dann von ime vernämenn wärdentt. Bitten wir
+üch frünttlich, ime und unß alß die wolgelerttenn und
+verständigen beratten ze sin, wie mann sich witter mitt
+denenn knabenn haltten selle.<f1>Im Nachgang zu diesem Brief wurden die beiden einer Prüfung unterzogen, deren positives Resultat Bullinger bereits am 6. Mai 1541 der Bieler Obrigkeit übermitteln konnte (vgl. unten Nr. 1515). Am 1. Juli desselben Jahres erfolgte ihr Schulaustritt (Zürich StA, E I
+14.1, Fasz. 2). Bullingers Rat entsprechend konnten die beiden ihre Studien in Zürich fortsetzen. In einem Schreiben des Bieler Rates vom 25. Juni 1542 (Zürich ZB, Ms F 37, 58) wurden einzelne Modalitäten ihres Studienaufenthaltes angesprochen, und am 23. Januar 1543 (Biel Stadtarchiv, 119, CXXIX,
+Nr. 12) berichtete Bullinger sodann über das
+Resultat einer von ihm vorgenommenen Prüfung der beiden bei Johannes Fries einquartierten Stipendiaten. Die Prüfung fiel nicht zur vollen Zufriedenheit Bullingers aus. Er befand Abraham und Beat Steinegger als zu faul und nachlässig, beurteilte ihr Wissen aber - wenn auch nicht für eine
+Gelehrtenkarriere, so doch zumindest für eine Pfarrtätigkeit auf dem Land - als genügend. Eine weitere Prüfung erfolgte an Ostern 1543. Abrahams Leis­tungen wurden skeptisch beurteilt, wogegen man für Beat noch die Hoffnung hegte, ihn dereinst im Kirchendienst einsetzen zu können (vgl. Bullingers
+Brief an den Bieler Rat vom 13. Juni 1543, Biel Stadtarchiv, 119, CXXIX, Nr. 13; J[acob] ^#/+Wyss,^#/- Das Bieler Schulwesen. Von seinen Anfängen bis zur Vereinigung der Stadt mit dem Kanton Bern 1269-1815, Biel 1919, S. 64f).
+Abraham Steinegger fand weitere Ausbildung bei Erasmus Ritter in Bern (vgl. Biel Stadtarchiv, 120, CXXX, Nr. 81 und 82 [Missiven aus dem Jahr 1544]) und kam als Pfarrer nach Gebenstorf (Kt. Aargau), wo er am 17. Januar 1549 wegen eines "bösen Handels" abgesetzt wurde (s. Willy ^#/+Pfister,^#/- Die
+reformierten Pfarrer im Aargau seit der Reformation 1528-1985, in: Argovia 97, 1985, S. 112, Nr. 684, mit Anm. 114). Im selben Jahr wurde er Schulmeister an der Bieler Lateinschule (s. ^#/+Wyss,^#/- aaO, S. 20). Ab 1553 wirkte er als Pfarrer in Nieder-Lyss (Kt. Bern), resignierte 1591, wobei ihm ein
+Leibgeding verwehrt wurde, da er der Kirche großes Ärgernis bereitet habe (Lohner 573, vgl. auch Eduard ^#/+Bähler,^#/- Dekan Johann Haller und die Berner Kirche von 1548 bis 1575, II. Teil, in: Neues Berner Taschenbuch auf das Jahr 1924, Bern 1923, S. 28, Anm. 69).
+Beat Steinegger studierte weiter in Zürich, wo er weiter wegen Müßiggang auffiel (vgl. Zürich StA, E II 359, 2807 [Brief von Meier und Rat von Biel an Bullinger, die Zürcher Pfarrerschaft und die Schulherren vom 27. Mai 1545]).
+Im Frühling 1545 bat der Bieler Rat die Zürcher schließlich, sich nach einer Verwendung Beats umzusehen, andernfalls sollten sie ihn nach Hause schicken (vgl. ebd. und ^#/+Wyss,^#/- aaO, S. 65). Beat wirkte sodann als Pfarrer in Messen (Kt. Solothurn), wo er 1551 entlassen wurde (Lohner 577), danach
+als Helfer an der Klasshelferei Zofingen (s. ^#/+Pfister,^#/- aaO, S. 174, Nr. 2072) und schließlich ab 1552 wiederum als Pfarrer in Bleienbach (Kt. Bern), gest. 1594 (Lohner 615).<fe>
+Nütt gefelligers mag uns üwer
+lieb bewysen, ummb die wir selichs früntlich gern verdienen
+und günstlich beschuldenn wellenn mitt hilff deß
+allmächtigenn, den wir bitten, üwer erwirdy wyßheitt
+säligcklich ze bewarenn etc.
+^$Datum, 29. aprilis anno etc. 41.
+<un>Meyer und rhatt
+<un>zuͦ Biell.
+<lz>[Adresse auf der Rückseite:] Den wolgelerttenn,
+frommenn, fürnämenn und wysen herrenn Meyster Heinrich
+Bullingern samptt andrenn predicantten der statt Zürich,
+unserenn liebenn und guͦtten fründenn.
+</content>
+</letter>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1138">
+<nr>1138</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Martin Frecht</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>12. Juni 1538</date>
+</space_time>
+<vo>Abschrift<fx>Vorlage bei der Beschießung von Straßburg 1870 verbrannt.<fe> von Johann Wilhelm Baum: Straßburg, Bibliothèque Nationale et Universitaire, Ms 670, Th. B. XI, 129</vo>
+<dr>Ungedruckt</dr>
+<re>Nachdem er Frecht durch die Zürcher Gesandtschaft an König Ferdinand vor kurzem ein Schreiben und sein Buch ["De scripturae sanctae authoritate"] zukommen ließ, folgt nun eine Sendung mit Akten zu den Konkordienverhandlungen. Frecht darf den vom Boten an Luther zu überbringenden Brief seinen
+Mitpfarrern vorläufig nur im Vertrauen bekanntmachen; die Zürcher hoffen auf Luthers Zustimmung. Bullinger wird Frecht auf Wunsch das [Erste Helvetische] Bekenntnis und dessen Erläuterung zukommen lassen. Gute Wünsche.
+</re>
+<tx>Bullingerus Frechto.
+^$Gratiam et vitae innocentiam a domino.
+^$Cum non ita multis ante diebus legatus ad regem ex senatu
+nostro mitteretur<f1>Ende März war eine Zürcher Gesandtschaft zu König Ferdinand I. nach Prag aufgebrochen (vgl. oben Nr. 1110, Anm. 3, und Nr. 1114, Anm. 1).<fe>, visum est tibi, frater in domino
+honorande, paucula scribere<f1>Nicht erhalten.<fe> et libros nostros Anglorum regi
+inscriptos<f1>Bullingers "De scripturae sanctae authoritate ... ad sereniss. Angliae regem Heinrychum VIII. ... libri duo" (HBBibl I 111).<fe> dono adiicere. Intellexi ex Zwiccio nostro munus nostrum grato a te animo acceptum<f1>Bullinger hatte durch Johannes Zwick folgendes Fragment eines
+autographen Schreibens von Frecht erhalten (wohl als Beilage zu Zwicks Brief vom 27. Mai, oben Nr. 1133):
+"Obsecro, ubi Tigurinis fratribus scripseris, et mei
+mentionem commendationemque inseras epistolę tuę. Nunc ut
+volebam rescribered. Pellicano et Bullingero, non
+licuit. Hic me nuper magnifico munere ornavit, utpote duobus
+a se editis libris Anglorum regi inscriptis. Pro quo dono habeo gratias ingentes, relaturus, ubi potero.
+Iterum vale et scias Schwenckf[eldium] nunc abesse, Francum
+autem, impudentem scriptorem, adhuc hic versari. Is edidit
+Arcam auream [Sebastian Franck, Die Guldin Arch, Augsburg 1538], quę vix ęrea est, plena blasphemiis.
+Iterum atque iterum vale. - Frechtus tuus ex animo." (Zürich StA, E II 364, 19; mit Randbemerkung von der Hand Zwicks: "Hęc Frechtus ad me.")<fe>.
+Ideo alteras hasce ad te dare volui, Frechte amantissime, simul et acta quaedam concordiae<f1>Gemeint ist wohl der Abschied der Zürcher Tagung vom 28. April bis 3. Mai 1538 (vgl. oben Nr. 1128, Anm. 1). Entsprechende Akten hatte bereits am 20. Mai auch Bucer an Frecht gesandt (s. Straßburg
+Stadtarchiv, AST 158, 241); Johann Ottmar Mailänder leitete sie am 5. Juli an Simprecht Schenck weiter (eine von Euander an Bullinger adressierte Kopie des Briefs von Mailänder liegt in Zürich StA, E II 448, 4, Nr. 2).<fe> addere, ut etiam aliis circum fratribus, quid inter nos actum sit, noris
+exponere.
+^$Epistolam<f1>Zum Schreiben der reformierten Städte der Eidgenossenschaft an Luther vom 4. Mai vgl. oben Nr. 1128, Anm. 8.<fe> doctori Luthero hic fert tabellio<f1>Der Zürcher Standesläufer Niklaus Appenzeller (vgl. oben Nr. 1128, Anm. 8, und unten Nr. 1152, Anm. 4).<fe>. Video<fx>^#/+vielleicht vom
+Abschreiber verlesen aus^#/- Vides.<fe> ergo,
+quid facto opus sit, exemplum epistolae doctori Luthero
+destinatae non publice communica his fratribus, quam
+putaveris per tabellionem archetypum esse redditum doctori
+Luthero<f1>Luther erhielt den Brief am 25. Juni; s. WA Briefwechsel VIII 241.<fe>. Interim vero fidis communicare
+poteris. Post redditam autem epistolam quibuslibet. Speramus doctorem Lutherum amice responsurum et recepturum conditionem.
+^$Quod si confessionem Basiliensem et expositionem eius<f1>Zum Ersten Helvetischen Bekenntnis von 1536 und dessen Erklärung im Brief an Luther vom 12. Januar 1537 vgl. HBBW VI, S. 101f, Anm. 1, und VII, S. 34, Anm. 15.<fe> nondum
+vidisti, fac sciam; habebis.
+^$Recte valemus, qui Tiguri Christum docemus omnes. Optimo
+habent res ecclesiae nostrae, laus et gratia domino. Cupimus
+etiam vos in domino recte valere. Orate pro nobis dominum.
+^$Tiguri, 12. iunii 1538.
+<un>H. Bullingerus tuus.
+</content>
+</letter>

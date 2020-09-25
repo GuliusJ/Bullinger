@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="906">
+<correspondents>
+	<originator>Erasmus Ritter</originator>
+	<addressee>Bullinger und Theodor Bibliander</addressee>
+</correspondents>
+<space_time>
+	<place>Schaffhausen</place>
+	<date>2. November 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 359, 2751 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Ist direkt nach Schaffhausen gereist, da die Zürcher Synode schon
+zu Ende war, und bittet um Nachricht, ob er auf dem Rückweg etwas nach
+Bern übermitteln soll. Bern hat beschlossen, unklare Glaubensartikel
+nicht ohne beigefügte Erläuterung anzunehmen. Verweist auf ein
+Schreiben Meganders.
+</statue>
+<content>
+Gratia et pax a deo per Iesum Christum.
+<p>Institueram ex persuasione charissimorum fratrum Gasperi+1 et Rhellicani, quod ipse Tigurum petere vellem. Verumtamen, dum in itinere perceperam sinodum vestram esse transactam+2, recta Scaphusiam perrexi existimans
+reliqua litteris
+mit -tt-!
+perficere posse. Quapropter, si quid est, quod dignum
+censetis, ut domum perferam, litteris me cerciorem facite. Equidem ego
+nichil habeo, quod vobis comunicem, nisi quod respublica christiana
+Bernè optime se habet. Nam senatus noster una cum civibus+3 decreverunt
+obscura nulla velle recipere, nisi appendicibus explicentur, ut sancta
+veritas sana et incolumis ad posteros redire possit.</p>
+<p>Valete, fratres candidissimi.</p>
+<p>Ex Scaphusia, 2. novembris 1536.</p>
+<p>Quid Megander fieri velit a Bullingero, ex chirographo+4 percipietis.</p>
+<signature>
+Erasmus Ritter,
+ex animo totus vester.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Praestantissimis viris Henricho
+Bullingero, Theodoro Bibliandro, charissimis fratribus Tiguri Christum
+docentibus.
+</address>
+</content>
+<note>
++1>Kaspar Megander.
++2>Zur Zürcher Synode vom 24. Oktober s. unten Nr. 907, Anm. 2
+sowie das Protokoll in Zürich StA, E II 1,
+215-217.
++3>d. h. der Kleine und der Grosse Rat.
++4>Gemeint ist kaum Meganders Brief vom 20. Oktober
+(oben Nr. 903), sondern ein späteres, nicht erhaltenes Schreiben.
+;----------------------------------------------------------------------
+</note>
+</letter>

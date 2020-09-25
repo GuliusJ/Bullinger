@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="518">
+<correspondents>
+	<originator>Berchtold Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Bern*)</place>
+	<date>31. Januar 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 343, 70 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Bittet Bullinger, Megander und Leo (*Jud*) um Entschuldigung zu bitten,
+nachdem
+ein Brief Bullingers an Haller zusammen mit der Abschrift eines Briefes
+von Leo (*Jud*) an Megander von unbekannter Hand geöffnet und Megander
+ausgehändigt worden ist.
+</statue>
+<content>
+S. Miseras proxime ad me literas addita copia epistolè Leonis ad
+confratrem meum Megandrum+1,
+charissime Heinrice+a,
+quas ut receperim et
+quando, omnino videtur opere pretium ut scias. 17. ianuarii venerat
+minister ille Salodori amandatus+2
+adferens tuam et Leonis ad nos omnes
+epistolam+3,
+deinde etiam Leonis ad Megandrum. Has cum simul legissemus,
+19. redditè sunt tuè ad me+b
+cum Leonis apographo, sed apertè et abraso
+titulo Megandro. Is mihi, ut erant nimirum et sibi datè, reddidit.
+Subinde vereor, ne et tibi et mihi succenseat et suspicetur, quid tandem
+nos agamus. Vellem, inquam, talem
+suspitionem (si qua sit) a corde illius evulsam ac ut plane sciret, cur
+admodum inter nos conveniat. Tu interim curabis, ne Leo -- mihi alioqui
+charissimus -- et tibi quoque indignetur, quod suarum copiam ad me
+miseris. Scio, quam se mutuo hi duo hactenus amarint, ut nec hac nec ulla
+facile dissipentur epistola, nobis siquidem optime inter nos convenit.
+Praeterea non ignoro, qua integritate Caspar+4
+mecum omnia egerit hoc sane
+negocio. Quare summopere curandum, ut nulla inter nos tam levi causa
+simultas dissèminetur. Dolui certe et noctes duxi insomnes timens, ne
+sèminarium fiant literè hè tam fraudulenter apertè futurè inimiciciè
+inter nos omnes. Age igitur, charissime Heinrice, ut ab utroque veniam
+impetrem. Nam si non fuissent nescio cuius fraude interceptè, apertè
+tandemque Megandro redditè, nullus unquam mortalium a me extorsisset,
+sed bona fide, ut volebas, remisissem.
+Facile Megandro et Leoni inter se conveniet, modo tibi et Leoni
+identidem. Pro tua itaque prudentia et humanitate omnia hèc eluas, et de
+nobis omnibus optime quemadmodum et nos de vobis sperate.
+Vale.
+Ultima ianuarii anno 35.
+<signature>
+Tuus Berch. Hall.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Heinrico Bullingero, fratri suo
+charissimo.
+</address>
+</content>
+<note>
+.us; +a >vor  Heinrice  gestrichenes  Huld(*rice*).
++b>ad me
+<print>
+am Rande nachgetragen.
+</print>
+<address>
++1>Bullingers Brief an Haller ist nicht erhalten. Die
+(undatierte) Abschrift des Briefes von Jud an Megander (von der Hand Beat
+Gerings) findet sich in Zürich StA, E II 381, 1803r.-1804r.
++2>Bei dem aus Solothurn ausgewiesenen Pfarrer handelt es sich
+wohl um den auch unten Nr. 519, 50. 57f und Nr. 524, 37-39 als Bote
+genannten, im übrigen unbekannten Verwandten Meganders.
+;(vgl. auch Blarer BW I 561).
++3>Oben Nr. 504 bzw. Nr. 502.
++4>Kaspar Megander.
+</address>
+</note>
+</letter>

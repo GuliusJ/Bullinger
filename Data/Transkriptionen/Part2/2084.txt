@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2084">
+<nr>2084</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>17. Februar 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 120 (Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 347, ^$^$^$^$Nr. 1166/1</dr>
+^&x1. Brief des Tages. Kopie 18. Jh.: Zürich ZB, Ms S 56, 164^&x{
+<re>Blarer hat schon länger nichts Mitteilenswertes zu berichten; doch Bullinger weiß, dass er es nicht versäumen würde, ihm etwaige Nachrichten von Belang mitzuteilen. Er weiß nichts über den aktuellen Stand [der Verhandlungen zu einem möglichen Bündnis zwischen Zürich und Konstanz], spürt aber, dass etwas geschieht.
+-^#. In Bezug auf Luthers ["Kurtz bekentnis"] hat er nichts von den Augsburgern vernommen; doch weiß er, dass es allen Klugen missfällt.
+-^#. Mögen die Zürcher [Geistlichen] ihr Vorhaben, dem Kurfürsten [Johann Friedrich I. von Sachsen] und dem [Landgrafen Philipp von] Hessen eine Gesandtschaft zu schicken, verwirklichen können! Man wartet schon gespannt auf das ["Warhaffte Bekanntnuß"].
+-^#. Blarer hat sonst nichts Neues zu melden, denn die Nachrichten über das Konzil und [Sultan Suleiman I.] kennt Bullinger längst.
+-^#. Blarer hat Osianders ["Apologia"] weder gesehen noch erhalten.
+-^#. Er empfiehlt sich Bullinger und den Seinen.
+-^#. [P.S.:] Er möchte wissen, warum das elfjährige Anneli [...] den [Zürcher] Glaser Heinrich Haldenstein, bei dem sie diente, verlassen hat, und nach [Konstanz] [zurück]gekommen ist.</re>
+<tx>S. Mihi vero toto istoc tempore nullum prorsus te<fx>te ^#/+könnte in der Vorlage gestrichen worden sein.^#/-<fe> dignum argumentum ad te scribendi fuit,
+mi venerande et charissime Bullingere; alioqui satis scis, quam nihil soleam
+earum rerum negligere, quę ad te tuosque pertinere existimo.
+Quid inter vestros et nostros agatur,<f1>Über ein mögliches Bündnis zwischen Zürich und Konstanz; s. zuletzt oben Nr. 2065, Anm. 5f.<fe> sic me Christus servet, plane ignoro, nisi
+quod agi nonnihil utcunque olfacio. Dominus et servator noster Christus omnia bene vertat.<f1>Vgl. Röm 8, 28.<fe>
+^$De Augustanis nihil ego accepi, quod ad L[utheri] libellum<f1>Luthers "Kurtz bekentnis" (s. oben Nr. 2061, Anm. 7), das anscheinend in Augsburg verboten worden war (s. oben Nr. 2080, 23f und Anm. 11).<fe> attinet, quum non raro
+tamen illinc idque ab eximiis viris literas accipiam. Scio tamen displicere hunc omnibus cordatioribus.
+^$Spe vestra de nuncio<f1>Die Zürcher Pfarrer waren für solch eine Gesandtschaft auf das Wohlwollen des Zürcher Rates angewiesen.<fe> ad electorem<f1>Johann Friedrich I. der Großmütige, Kurfürst von Sachsen, über den Johannes Gast oben Nr. 2080, 21-23 und Anm. 10, berichtete, dass er 1'000 Exemplare von Luthers "Kurtz bekentnis" hatte beschlagnahmen lassen.<fe> et Hessum<f1>Landgraf Philipp von Hessen.<fe> abmandando, dominum precor, ne frustremini; opere precium enim hoc fuerit minime pęnitendum.<f1>Schließlich wurde solch eine Gesandtschaft nur an den Landgrafen geschickt; s. unten Nr. 2103. Die Zürcher baten darin u. a. den Landgrafen, Johann Friedrich I. von Sachsen sowie Herzog Moritz von Sachsen, ihre Schriften nicht zu verbieten.<fe>
+Valde impatientique desyderio vestra expectatur responsio<f1>Das "Warhaffte Bekanntnuß"; s. oben Nr. 2061, Anm. 9.<fe>, quam ego talem fore non dubito, qualem vos dare, non qualem L[utherum] legere decet.
+^$Novi prorsus nihil habeo extra vulgaria ista de concilio<f1>Das zu Trient einberufene Konzil; s. oben Nr. 2064, Anm. 28.<fe> et Turco<f1>Sultan Suleiman I.<fe>, quę tu iam pridem, scio, nosti.
+^$Osiandri purgationem<f1>^#/+Osiander,^#/- Apologia; s. oben Nr. 2065, Anm. 24.<fe> nondum vidi. Putant singuli amici ab aliis me id genus
+scripta accipere, atque hinc plęrumque fit, ut postremus in ea incidam,
+quamquam parum plausibilia sunt nec digna, in<fx>in ^#/+über der Zeile nachgetragen.^#/-<fe> quibus bonas horas male collocemus<f1>bonas horas male collocare; vgl. ^#/+Martial,^#/- Epigramme, 1, 113, 3.<fe>.
+^$Tu bene vale, mi charissime et optime Bullingere. Es stat und blypt ewig in alten rechten.<f1>Vgl. HBBW XIV 589, 27f, wo Blarer mit einer ähnlichen Aussage schließt.<fe>
+Commenda nos domino diligenter cum tuis omnibus, quibus meis verbis plurimam dices salutem. Iterum vale.
+^$Properiter, Constantię, 17. februarii 1545.
+<un>Tuus Amb. Bl.
+<lz><vl>120v.</vl> Es ist ain glaser by euch, haist Hainrich Haldenstain;<f1>Heinrich Haldenstein, Glaser, tätig seit 1537, gest. 1580; Sohn des 1486 in Zürich eingebürgerten Jörg Haldenstein, der 1515 starb und sieben Kinder hatte. - Lit.: Hermann ^#/+Meyer-Zeller,^#/- Die schweizerische Sitte der Fenster- und Wappenschenkung vom XV. bis XVII. Jh. Nebst Verzeichniss der Zürcher Glasmaler von 1540 an, Frauenfeld 1884, S. 208. 261 (wo angegeben ist, dass er kein Glasmaler war); Paul ^#/+Ganz,^#/- Die Familie des Malers Hans Leu von Zürich, in: ZTB 1901, NF 24, 154-179, hier S. 168.<fe> by dem
+hat ain metlin von 11 jaren dienet. Haist Annelin.<f1>Unbekannt.<fe> Ist von ime, und her kommen.
+Wellt ich gern wüssen, warum es von im komen were und wie es sich gehalten.<f1>Siehe dazu unten Nr. 2118, 64-66 und Nr. 2123, 33-36.<fe>
+<lz>[Adresse darunter:] Bullingero suo.
+</content>
+</letter>

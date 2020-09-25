@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1753">
+<nr>1753</nr>
+<correspondents>
+	<originator fn=1>Martin Hentius</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Martin Hentius (Heintz, Heinz, Heins, Heinzius) aus "Husbach" (Nussbach?) in Siebenbürgen, geb. ca. 1519, immatrikulierte sich 1536/1537 in Wittenberg. Eine Studienreise führte ihn zu Sebastian Münster nach Basel und im Mai 1543 nach Zürich zu Bullinger und seinen Kollegen, denen er in der Folge mehrfach brieflich dankte und Bullinger zu einem Schreiben an Johannes Honter (unten Nr. 1780) anregte. Nach seiner Ordination in Wittenberg im September 1543 durch Johannes Bugenhagen sollte er ein Predigtamt in Kronstadt antreten, ist aber bereits im März 1544 als Pfarrer in Hermannstadt nachzuweisen, wo er mindestens bis zum Frühling 1547 wirkte. 1550 wurde er Pfarrer von Mediasch (Mediaş, Siebenbürgen) und später von Kelling (Câlnic, Siebenbürgen). Kurz vor einem Wechsel auf die Pfarrstelle von Mühlbach (Sebeş, Siebenbürgen) im November 1562 verstarb er. Von seinem Briefwechsel mit den Schweizern sind vier Briefe an Bullinger und je einer an Konrad Pellikan und Niklaus Briefer erhalten geblieben. - Lit.: ^#/+Netoliczka,^#/- Bullingerbrief; ^#/+ders.,^#/- Ein Sie­benbürger Sachse als Parteigänger der Schweizer Reformatoren, in: ARG XXXIV, 1937, S. 268-271; ^#/+Reinerth,^#/- Hentius; ^#/+ders.,^#/- Die Gründung der evangelischen Kirchen in Sie­benbürgen, Köln/Wien 1979. - Studia Transylvanica 5, S. 152-156; MBW XII, S. 256.</note>
+</correspondents>
+<space_time>
+	<place>Wittenberg</place>
+	<date>14. Juni 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 345, 228-230a (Siegel)</vo>
+<re>Obwohl erschöpft von der langen Reise von Zürich nach Wittenberg, möchte er sich bei Bullinger und dessen Kollegen für die ihm erwiesene Hilfe und Freundschaft bedanken und einige Nachrichten, die ihn während seiner Abwesenheit aus seiner Heimat erreichten, mitteilen.
+Sechs einigermaßen gebildete Pfarrer verkünden dort das Evangelium, und bald wird ganz Siebenbürgen die Lehre Christi annehmen, obwohl sich der Teufel - wie überall, wo das Evangelium rein verkündet wird - dagegen stemmt; auch soll sich verschiedentlich Aufruhr wegen der evangelischen Verkündigung erhoben haben.
+In einem vom 23. April datierten Brief wird berichtet, dass der moldauische [Woiwode Petru Rareş] bald mit Hilfe der Türken Si­­e­benbürgen besetzen wird; dahinter stehen die Ungarn, die auf diese Weise die reine Lehre
+zu vernichten trachten; bittet Bullinger und seine Kollegen, für die siebenbürgische Kirche zu beten. Ersucht Bullinger, etwas über die Kindererziehung zu schreiben, insbesondere über die Bildung, denn ohne diese wird der [evangelische] Glaube nicht lange Bestand haben.
+Bittet Bullinger, sich für ihn bei Christoph Froschauer für die von ihm auf die nächste Frankfurter Messe gewünschten Werke Bullingers und [Konrad] Pellikans sowie die neue Bibel ["Biblia sacrosancta"] zu verbürgen; er will den Betrag sogleich nach seiner Rückkehr [nach Kronstadt] durch einen zuverlässigen Boten übersenden. Wenn der Türke [Suleiman I.] die Heimat besetzen sollte - was Gott abwenden möge - würde es ihm unmöglich gemacht, unter den Seinen zu wirken, und er würde seine Bücher und Sachen verkaufen und schnellstmöglich nach Zürich kommen, wo er wenigstens in irgendeiner Funktion seinen Lebensunterhalt verdienen könnte. Grüße an Pellikan und dessen Frau [Elisabeth Kalb], an Theodor Bibliander und an die übrigen Kollegen. Bittet Bullinger, ihn bei Pellikan und Bibliander zu entschuldigen, dass er ihnen nicht geschrieben hat, denn der Bote hatte es sehr eilig.</re>
+<tx>[Gedruckt: ^#/+Reinerth,^#/- Hentius 192f, Nr. 1.]
+</content>
+</letter>

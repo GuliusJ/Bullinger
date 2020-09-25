@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2205">
+<nr>2205</nr>
+<correspondents>
+	<originator>Teodosio Trebellio</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>31. Juli 1545</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 335, 2074 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 186; Zit.: Salvatore Corda, Veritas Sacramenti 54 (Anm. 67. 69); Klaus Sturm, Die Theologie P. Martyr Vermiglis 26 (Anm. 75). ^&x{
+<re>Trebellio, der nie daran gezweifelt hat, dass Peter Martyr [Vermigli] Bullinger am Herzen liegt, ist nun gänzlich davon überzeugt. Vermigli, der für Trebellio wie ein Vater ist, hat diesen in einem Brief [nicht erhalten] gebeten, ihm die Briefe der Zürcher oder Bullingers weiterzuleiten. Trebellio bietet Gleiches auch Bullinger an. Er schickt nun einen Brief Vermiglis [Nr. 2191], mit dem dieser den Vorwurf der Nachlässigkeit aus der Welt schafft. Dass Bullinger Vermigli verdächtigt hat, bedauert Trebellio nicht, insofern es erfreulich ist, dass Bullinger [dadurch zum Ausdruck bringt, dass er] Vermiglis Dienst beansprucht. Bullinger soll [den Unterbruch des Briefverkehrs] eher der Treulosigkeit der Boten zuschreiben, als dabei den so zuverlässigen und ihm geneigten Vermigli zu verdächtigen. Trebellio versichert Bullinger seiner Zuneigung.
+-^#. Grüße an [Konrad] Pellikan, [Theodor] Bibliander, [Rudolf] Gwalther und die übrigen Brüder.</re>
+<tx>S. a domino Iesu Christo.
+^$Petrum Martyrem<f1>Peter Martyr Vermigli.<fe>, Italum nostrum, tibi semper charissimum esse licet nunquam dubitaverim,
+nunc tamen nescio quid momenti accessit, quo mihi in posterum omnem dubitandi facultatem sublatam esse video.
+Mirifice enim oblectatus sum<fx>sum ^#/+über der Zeile nachgetragen.^#/-<fe> ipsius Petri literis<f1>Nicht erhalten.<fe>, quibus me monitum voluit, ut, si quid
+a te vel a Tygurina ecclesia literarum ad illum daretur, id ego pulchre curatum vellem;
+qua quidem in re ut in nulla alia meum officium huic viro, quem parentis loco habeo,
+negare nequaquam possum. Sic tibi quoque eadem et fide et animi alacritate polliceri illud idem placuit.
+Mitto itaque ad te literas<f1>Oben Nr. 2191.<fe>, quibus ipse (ut arbitror) negligentiae nomen dissolvit, quo illum tibi suspectum fuisse
+minime doleo, quandoquidem eius officium a te requiri iucundius fuerit quam molestum accusari.
+Caeterum tabellariorum perfidiae id potius adscribas, rogo, quam de tam candido viro
+tuique amantissimo quicquam minus candide suspicari velis. Quod ne posthac contingat,
+ad me literas eas perferrendas curabis, quas Argentoratum transmitti volueris.
+De me vero illud tibi promittas velim, quod de bono ac tui studiosissimo viro promittendum censes;
+vincam, mihi crede, officiis meis cogitationes tuas<f1>^#/+Cicero,^#/- Epistulae ad familiares, 3, 10, 1: vincam meis officiis cogitationes tuas.<fe>. Bene vale, pastor sanctissime.
+^$Salutabis, quaeso, meo nomine emeritum patrem Pellicanum, doctissimum Bibliandrum simul ac eruditissimum Gvalterum
+cum reliquis sanctae ecclesiae vestrae fratribus, quos dominus deus confirmet verbo et spiritu oris sui. Amen.
+^$Basileae apud Episcopium,<f1>Trebellio, seit 1544/1545 in Basel immatrikuliert, wohnte dort bei dem Drucker Nikolaus Bischoff (Episcopius) [d.Ä.]; s. Amerbach Korr. VI LIII (zu Nr. 2601a).<fe> pridie kalendas augusti 1545.
+<un>Tuus ac totius Tygurinae ecclesiae servus
+<un>Theodosius Trebellius Italus.
+<lz>[Adresse auf der Rückseite:] Sanctissimae Tygurinae ecclesiae pastori,d. d. Heinriko Bulingero, mihi in primis observando. Tigurum. Zuͦ Zürik.
+</content>
+</letter>

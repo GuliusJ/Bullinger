@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1966">
+<nr>1966</nr>
+<correspondents>
+	<originator>Philipp Melanchthon</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Wittenberg]</place>
+	<date>31. August 1544</date>
+</space_time>
+<vo>Autograph<fx>^#/+Links über dem Textbeginn Randbemerkung Bullingers:^#/- Hinc claret, quis instaurarit certamen sacramentarium et turbarit prior ecclesias. ^#/+Daneben von Bullinger:^#/- Impressa haec
+quoque ab Oporino.^&x d.h. in: Pincier ^&x{<fe>:
+Zürich StA, E II 338, 1400 (Siegelspur)</vo>
+^&x Abschrift Bullingers (in Bullinger an A. Blarer, 10. Oktober
+1544): St. Germain Kantonsbibliothek (Vadiana), Ms 39 (VBS X),
+5; Kopien (nach Orig.?:) Zürich ZB, Ms S 55, 138; (nach St. Germain:) ZZB
+Ms F 43, 112r.-113r; (von J. Monau, 16. Jh.:) Paris
+BSG, Ms. 1456 (Ep. Haeret. III), f. 2; (danach:) Bern
+BurgerB, Cod. A 46, p. 1, Nr. 2^&x{
+^&x(HBBibl II 1024 und 1039 und 1080; weitere siehe Hammer 275 ...). Zit.: Acta
+concordiae, Amberg 1594, S. 160 (nicht in Ausgabe 1572); J.
+Crocius, Summar. Nachricht, 1645, 63; J. F. A. Gillet, Crato
+I 33 und 35; J.T. McNeill, Unitive Protestantism 190;
+Zit+TÜ: Zwa 8, 166.^&x{
+<re>Vielleicht erhält Bullinger noch vor diesem Brief eine Schrift Luthers ["Kurtz bekentnis"], in der dieser den Abendmahlsstreit erneut und so heftig wie noch nie entfacht; Melanchthon fürchtet um den Kirchenfrieden, die Feinde freuen sich; trotz privater Sorgen quält
+ihn nichts mehr als die Zwietracht der Kirchen und Gelehrten. Bullingers klagenden Brief [Nr. 1931], den Joseph [Macarius] überbrachte, hat Melanchthon gelesen; doch verhindert der wiederentflammte Streit, dass er jetzt etwas über die Mäßigung schreibt.
+</re>
+<dra>[Gedruckt: Johannes ^#/+Pincier,^#/- Antidotum adversus enthusiastarum ..., Basel, Johannes Oporin, 1561, S. 183f; Joachim ^#/+Curaeus,^#/- Exegesis ... controversiae de sacra coena ..., Heidelberg, Johann Mayer, 1575, S. 346f; Ambrosius ^#/+Wolf^#/- [Christoph ^#/+Hardesheim^#/-], De confessione
+Augustana ... et de concordia^#. ..., Bd. II, Genf, Abel Rivery [Neustadt/Haardt, Matthaeus Harnisch], 1579, S. 72f; Jean Alphonse ^#/+Turretini,^#/- Nubes testium pro moderato et pacifico de rebus theologicis iudicio ..., Genf 1719, S. 62 (Teildruck); MO V^#. 475, Nr. 3023; Blarer BW II 308; Regest:
+MBW, Regesten IV, Nr. 3671.]</dra>
+^&x<tx>S[alutem] d[ico].
+^$Fortassis, priusquam hae meae literae ad te
+perferentur, accipies atrocissimum Lutheri<f1>Martin Luther.<fe> scriptum, in quo
+bellum
+<gr>perì deípnoy kyriakoỹ</gr><f1>D.h. den Streit über das Abendmahl.<fe> instaurat<f1>Gemeint ist Luthers "Kurtz bekentnis", die am 30. September 1544 erscheinen sollte; s. unten Nr. 1971, Anm. 20.<fe>. Nunquam maiore
+impetu hanc causam egit. Desino igitur sperare ecclesiarum
+pacem. Tollent cristas<f1>Adagia, 1, 8, 69 (ASD II/2 294, Nr. 769).<fe> inimici nostri, qui defendunt
+<gr>e^%)/idvla</gr> monachorum, ac rursus nostrae ecclesiae
+magis distrahentur, qua ex re ingentem capio dolorem. Nam
+privato periculo, quod nunc mihi impendit, etsi non est
+leve, tantum tamen non moveor, quantum ecclesiarum nostrarum
+et literatorum distractionibus.
+^$Legi tuam epistolam<f1>Bullingers Brief an Melanchthon vom 22. Juni 1544 (oben Nr. 1931).<fe> seu querelam potius, quam dedisti
+Iosepho Pannonio<f1>Joseph Macarius.<fe>,<f1>Siehe hierzu oben Nr. 1931, Anm. *** und ***.<fe> in qua mihi, qui
+fueram hortator ad quaedam dissimulanda, respondes. Sed haec
+nova belli instauratio impedit, ne quid de moderatione nunc
+scribam.
+^$Bene vale.
+^$Pridie calendas septembris.
+<un>Philippus Melanthon.<f1>^#/+Daneben (von Bullingers Hand?)^#/- 1544.<fe>
+<lz>[Adresse auf der Rückseite:] Egregia eruditione et
+virtute praeditod. Henrico Buligero, amico suo.^&x{
+</content>
+</letter>

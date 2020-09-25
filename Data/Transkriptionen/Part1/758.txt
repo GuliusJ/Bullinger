@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="758">
+<correspondents>
+	<originator>Sulpitius Haller</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Lenzburg*)</place>
+	<date>6. März 1536</date>
+</space_time>
+<print>Ungedruckt</print>
+<note>Original von der Hand Hemmann Haberers: Zürich StA,</note>
+<note>E II 360, 303 (Siegelspur)</note>
+<statue>
+Schickt ein neues Lied über den Genferkrieg und bittet, es
+drucken zu lassen.
+</statue>
+<content>
+Min früntlich, willig dienst syent üch geneygts willens bereytt
+zu^% vor, günstiger h(*err*) M(*eister*) Heinrich.
+<p>Ich scick üch allhie ein nüw lied vonn unserm jetzigen Jänffer krieg+1; hatt ein gu^%tt gsell+2 gmachett und mir von im zu^% kommen. Langt desshalb
+min früntlich, trüngelich bitt an üch, hiemitt zu^% verschaffen, das es
+getrucktt werde+3, und ir mir dan ouch der selbigen ettliche zu^%
+schickend.
+Das beger ich in all weg ummb üch verdienstlich zebeschulden+4, und
+hiemitt gott ewigklich bevolchen etc.</p>
+<p>Dattum 6. martii anno 36.</p>
+<p>Uwer gu^%tt(*williger*) allzyt</p>
+<signature>
+Sulpitius Haller,
+obervogtt uff Lentzburg.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Dem erwirdigen, wolgelerten
+h. M. Heinrich Bullinger, diener des worts und der kilchen in
+meerem Zürrich+5, sinem sonders gu^%tten herrenn.
+</address>
+</content>
+<note>
++1>Über den Feldzug der Berner in die Waadt sind drei
+Lieder überliefert (s. Rochus von
+<print>
+Liliencron,  Die historischen Volkslieder der Deutschen vom 13. bis
+16. Jahrhundert, Bd. IV, Leipzig 1869, S. 130-144, Nr. 461b-463; vgl.
+Gilliard,  Conqu^^^^^'52.te, S. XI). Da die Beilage verloren ist,
+liess sich nicht feststellen, von welchem Lied hier die Rede ist.
++2>Unbekannt.
++3>Ob ein solches Lied in Zürich gedruckt wurde, ist nicht bekannt.
++4>zu vergelten (SI VIII 659f).
++5>Siehe oben Nr. 722, Anm. 25.
+;----------------------------------------------------------------------
+</print>
+</note>
+</letter>

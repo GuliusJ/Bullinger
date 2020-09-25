@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2146">
+<nr>2146</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>26. April 154[5]</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 127f (Siegelspur)</vo>
+<dr>Zusammenfassende Übersetzung: Blarer BW II 360, Nr. 1181</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 16; Zit.: Immanuel Kammerer, Die Reformation in Isny 1531, Isny 1931, S. 31. ^&x{
+<re>Blarer kehrte [am 24. April] aus Isny zurück, wo sich Johannes Marbach in Anwesenheit von Gervasius [Schuler] völlig rechtfertigte: Nach allgemeinem Zeugnis hatte er niemals das gepredigt, was Bullinger zugetragen wurde. Der Diakon [Georg Denneler] aber lässt sich gegen Marbach aufhetzen und schürt Hass gegen diesen, so dass Letzterer es für besser hält wegzuziehen, zumal ihm einige der führenden Männer nicht gewogen sind.
+-^#. Blarer wird Bullingers Brief an [Hans] Welser [nicht erhalten] demnächst nach Augsburg weiterleiten.
+-^#. Bucer zufolge will [Karl V.] am Reichstag [zu Worms] sich nicht der Religionsangelegenheit, sondern der Türkenabwehr und dem Reichskammergericht widmen. In [den südlichen Niederlanden] lässt der Kaiser Frauen lebendig begraben, Männer verbrennen und die Lektüre der Heiligen Schrift verbieten. [Es gab] einen Ratschlag der Kurfürsten und der [Freien Reichs]städte, zuerst über die Religion [zu verhandeln] oder einen guten Religionsfrieden für alle Parteien zu gewährleisten; doch der größere Teil des Rats der Fürsten lehnte dies ab. Die Bischöfe verlassen sich völlig auf Karl V., d.h. auf dessen Advokaten [Nicolas Perrenot von Granvelle oder Johann von Naves]. [Herzog Heinrich] von Braunschweig hetzt gegen den von seinem Klerus verleumdeten [Bischof] von Münster, [Franz von Waldeck]. Auch der Kölner [Erzbischof Hermann von Wied] hat Schwierigkeiten. Aus Polen kommt die Nachricht, dass [Suleiman I.] mit riesigen Truppen anrückt.
+-^#. [Matthäus Molckenpur und Ludwig Kürnstaller] wurden [für Konstanz] auf den Reichstag abgeordnet. Grüße von [Thomas Blarer] und [Konrad] Zwick, den ursprünglich vorgesehenen Abgeordneten. Grüße an [Rudolf] Gwalther, [Konrad] Pellikan und Theodor [Bibliander].
+-^#. Wiederholte Empfehlung für Jakob Metzler.</re>
+<tx>S. Isna redii nudiustertius<f1>Zu Blarers Reise nach Isny s. oben Nr. 2134, Anm. 20.<fe>, ubi plenam vereque iustamd. d. Ioannis Marpachii<f1>Johannes Marbach.<fe>,
+qui parochum illic agit praesente etiam Gervasio nostro<f1>Gervasius Schuler.<fe>, purgationem accepi,
+qui omnium testimonio nunquam quicquam tale, quale tu nuper scribebas,<f1>Ein verloren gegangener Brief Bullingers; s. oben Nr. 2134, Anm. 12.<fe> in quemquam pro concione dixit.
+Sed diaconum<f1>Georg Denneler.<fe> habet, qui aliorum nonnullorum intemperie vehementer extimulatur ad boni viri traductionem - ubi etiam sedulo suam operam praestat, ut in omnium odium rapiatur, quum ipse nec doctus sit nec cordatus -, ut doctor<f1>Marbach.<fe> satius ducat illinc demigrare quam sua praesentia adversariorum in se odium magis atque magis inflammare,
+praesertim quum primarii quidam sibi sint vehementer iniqui nec spes sit melioris animi.<f1>Marbach blieb nicht mehr lange in Isny, sondern wechselte durch Bucers Vermittlung nach Straßburg, wo er am 12. Juli 1545 Prediger an St. Nicolai wurde; s. oben Nr. 2121, Anm. 18; unten Nr. 2196, 88f.<fe>
+^$Literas tuas Welsero<f1>Bullingers Brief an Hans Welser ist nicht erhalten; s. dazu unten Nr. 2156, Anm. 9.<fe> inscriptas accepi; cras aut postridie illas Augustam missurus.
+^$In<fx>^#/+Anstreichung dieses Abschnitts und Randbemerkung von Blarer:^#/- Ita Bucerus.<fe><f1>Der Abschnitt enstammt fast wörtlich dem Brief Bucers an Blarer vom 13. April 1545 (Blarer BW II 358, Nr. 1179). Ähnliches hatte Bucer am 9. April auch an Bullinger geschrieben; s. oben Nr. 2131, 86-110.<fe> comitiis<f1>Der Reichstag zu Worms.<fe> scis imperatorem<f1>Karl V.<fe> proposuisse non superesse nunc tempus tractandę religioni, id est conversioni nostrę ad dominum.<f1>Vgl. oben Nr. 2131, 88f und Anm. 53.<fe> Turcos instare, illis etiam sine domino occurrendum esse.<f1>Siehe oben Nr. 2131, 87f und Anm. 52.<fe>
+Delectum iudicis et assessorum camerę sibi permittendum<f1>Siehe oben Nr. 2131, 96-100 und Anm. 58f.<fe>.
+Nam de religione ipse medium se praestat, scilicet crudelius nunc quam unquam confessores Christi viros ustulando, mulieres vivas defodiendo per totum Belgicum lectionemque sacram undique a populis suis arcendo.<f1>Zu den Verfolgungen in Belgien s. oben Nr. 2131, 86f und Anm. 48.<fe>
+Consilium electorum et civitatum de religione prius aut pace religioni ipsi confirmanda - non nobis tantum, et cum<f1>= tum.<fe> iis - bona, sed non numero suffragiorum maior pars concilii principum contendit;
+pseudepiscopi omnia deferunt cęsari, advocato scilicet fideli suo<f1>Nicolas Perrenot von Granvelle oder Johann von Naves.<fe>.<f1>Zur Haltung der Fürsten und Städte s. oben Nr. 2131, 100-104 und Anm. 61.<fe>
+Brunsvicensis<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> iterum tumultum excitat contra Monasteriensem<f1>Franz von Waldeck, Bischof von Münster.<fe>, quem pseudoclerus illius prodit odio evangelii,
+quod praedicare ille facit.<f1>Siehe oben Nr. 2131, 106-110 und Anm. 64 und 67, und 2133, Anm. 15.<fe> Magnę insidię struuntur Coloniensi<f1>Hermann von Wied.<fe>.<f1>Siehe oben Nr. 2131, 114 und Anm. 75.<fe>
+Interim scribitur ex Polonia<f1>Echo eines Briefes aus Polen an Hedio, wie Erb in einem Brief an Bullinger erwähnt; s. unten Nr. 2149, 53-55.<fe> ingentibus copiis adventare tyrannum Constantinopolitanum<f1>Sultan Suleiman I. - Zu dessen Rüstung s. oben Nr. 2127, Anm. 4.<fe>.
+^$<vl>128</vl> Iis nihil iam addere possum, nisi quod legati nostri<f1>Matthäus Molckenpur und Ludwig Kürnstaller; s. oben Nr. 2060, Anm. 3. Molckenpurs Instruktionen finden sich in RTA JR XVI/1 324-327, Nr. 54a-b. Schon am 13. Juli 1545, also vor Ende des Reichstags, war Molckenpur wieder in Konstanz, während Kürnstaller als Beobachter in Worms zurückblieb; s. ^#/+Dobras,^#/- Ratsregiment 93.<fe> 21. aprilis ad comitia profecta sunt senatus decreto.
+Tu dominum precare, ut omnia bene vertat, nosque illi piis votis perpetuo commenda.
+Salutant te germanus meus frater<f1>Thomas Blarer.<fe> cum Zviccio<f1>Konrad Zwick.<fe>. Saluta tuam domum cum administris in domino, imprimisd. Gvaltherum, Pellicanum et Theodorum<f1>Theodor Bibliander.<fe>, etc.
+Miro dei consilio factum arbi[tror]<fx>^#/+Wortteil hier und im Folgenden im engen Einband verdeckt. Ergänzungen aus dem 1974 von dieser Handschrift angefertigten Mikrofilm, in dem der Randtext noch zugänglich war.^#/-<fe>, ut, quum primo consobrinus<f1>Konrad Zwick.<fe>, deinde Thomas frater<f1>Thomas Blarer.<fe>
+huic legationi destinatus sit, neuter ta[men] abierit. Utinam, quod meditor,<f1>Zu den Verhandlungen über ein mögliches Bündnis zwischen Zürich und Konstanz, in dem auch Zwicks Kriegskunst eine Rolle spielt, s. oben Nr. 2084, Anm. 1, und Nr. 2134, 70-85 und Anm. 36.<fe> dominus aliqua[ndo]
+effectum nobis reddat idque feliciter et ita, ut nomen suum inde sanctificetur! Amen.
+^$Iacobum Metzlerum, adulescentem nostrum, tibi commen[do], ut, quemadmodum cępisti, constanter pergas.<f1>Zu Jakob Metzler s. zuletzt oben Nr. 2140, 18f.<fe>
+^$26. ap[rilis] 154[5].
+<un>Tuus Ambr. Blaurerus.
+<lz>[Adresse darunter:] Suo valde quam venerando et charissimo frat[ri]<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe> suo H. Bull[ingero]. Tiguri.
+</content>
+</letter>

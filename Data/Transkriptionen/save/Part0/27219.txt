@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="27219">
+<nr>27219</nr>
+<correspondents>
+	<originator>Philipp Melanchthon</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(Worms)</place>
+	<date>20. September (1557)</date>
+</space_time>
+<vo>Zürich StA, E II 358, 251b. / Kopie v. Bull.s Hd.</vo>
+Reverendo viro eruditione et virtute praestantid. Heinrycho <gr>Boylierw</gr>, fratri suo charissimo, Philippus Melanchton
+S. D. Reverende vir et charissime frater, hodie tuum munus
+<gr>thn apokalypsin</gr> in urbe Vagionum et subito dedi literas viro optimod. Oporino.
+Nos hic duplicia certamina sustinemus
+<gr>aitoysi gar tines yhfismata grajuoynai kata tvn apodokimazontvn thn artolatreian.</gr> Refragati sunt plurimi legati.
+Deus adsit ecclesiae suae..
+Bene vale.
+20. septembris.
+</content>
+</letter>

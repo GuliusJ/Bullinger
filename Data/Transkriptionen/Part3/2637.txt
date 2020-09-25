@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2637">
+<brief>
+<id>16327</id>
+<nr>2637</nr> <from persid="ThomannHeinrich"/> <to persid="Bullinger"/> <place plid="Giengen an der Brenz"/> <date when="1546-10-21"/>
+<ae>Heinrich Thomann an Bullinger</ae>
+<od>Im Feldlager bei Giengen
+<fn>Giengen an der Brenz (Lkr. Heidenheim, Baden-Württemberg).</fn>, 21. Oktober 1546</od>
+<vo>Autograph: Zürich StA, E II 340, 163 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich UB, Ms S 62, 31</k></dr>
+<re><t>Es freut Thomann sehr, dass die Zürcher Obrigkeit mit seiner Arbeit zufrieden ist. Sein Wunsch ist es, Gott und seinen Vorgesetzten weiterhin dienlich und angenehm zu sein! Sollte er etwas falsch machen, möge Bullinger ihn [vor den Ratsherren] verteidigen, den Fehler seiner Unkenntnis zuschreiben und ihn dann benachrichtigen und ermahnen. Seinerseits wird er keine Mühe scheuen. Er ist sich wohl bewusst, dass der Zürcher Rat einen erfahreneren Gesandten [bei den Schmalkaldenern] hätte ernennen können.</t>
+<t>Seitdem die [Schmalkaldener] Nördlingen verlassen haben, ist [Hartmann] von Hallwyl noch nie ins Lager gekommen. Er soll in Göppingen sein. Sobald Thomann ihn sieht, wird er ihm Bullingers Brief [nicht erhalten] überreichen.</t>
+<t>Bullinger erfährt bestimmt über die Zürcher Ratsherren die Neuigkeiten, die Thomann diesen übermittelt. Wenn nicht, wird Letzterer sich die Mühe machen, auch Bullinger zu benachrichtigen.</t>
+<t>[Sebastian] Schertlin dankt für die guten Wünsche. Er würde Bullinger gerne kennenlernen.</t>
+<t>Gott möge alles zum Besten lenken.</t></re>
+<text>
+<div>
+<p>Erwirdiger, wolgelerter, sonders gunstiger lieber herr, üch syen min unverdrossen, willig dienst jeder zyt bevor. Das mine gnedigen herren ab miner kleinfugen
+<fn>geringfügigen, unbedeutenden.</fn> arbeyt, daran ich warlich allen flys fürwend, ein g{uo}t benügen hand
+<fn>benügen hand: Gefallen haben.</fn>, fröüwt mich nit wenig. Der allmechtig verlych mir wyter gnad, jeder zyt nach synem gotlichen willen, ouch ben{ue}gen unnd gfallen ir, miner herren, zu handlen und zu leben. Und bidten hieruff mit gantzem flys, wo ir vernemen und horten, das ich der sach inn kleynem ald
+<fn>oder.</fn> grossem nit tet, wie ich aber thun solt, mich zu verantw{uo}rten
+<fn>verteidigen; s. <a>SI</a> XVI 1698.</fn>, das man das minem unverstannd z{uo}messe (welches, unnd gwüß, sunst nüt annders die ursach wer)
+<fa><i>Klammern ergänzt.</i></fa>, unnd dann mich desselben zu verstendigen und zu erinnern. Soll, ob gott will, kein flys, mu und arbeyt gspart werden, wiewol ich hertzlich mocht lyden, das mine herren jemands verstendiger alher
+<fn>hierher.</fn> verordnet hetten. Solichs, unnd ouch üwer trüw embieten, mich zu fürdern, ich, jeder zyt zu verdienen, willig bin.</p>
+</div>
+<div>
+<p><zzl>zl16327-2A</zzl>Der von Hallwyl
+<fn>Hartmann von Hallwyl.</fn> ist, sid das das leger von Nörlingen verrukt,
+<fn>Das schmalkaldische Heerlager hatte sich kurz nach dem 11. Oktober von Nördlingen in Richtung Südwesten fortbewegt; vgl. dazu <qv>nr2621</qv>, <qv>fn16311-2</qv>.</fn> nie daryn komen, sunder soll er jetz zu Göpingen
+<fn>Göppingen, etwa 50 km westlich von Hermaringen, wo sich damals das schmalkaldische Lager befand. - Hermaringen liegt in der Nähe von Giengen an der Brenz.</fn> ligen.<zzl>zl16327-2E</zzl> <zzl>zl16327-1A</zzl>Sobald ich inn aber ersich
+<fn>erblicke.</fn>, soll üwer brieff
+<fn>Ein nicht erhaltener Brief Bullingers, der vielleicht in <qv>nr2626</qv>,<qv>zl16316-2</qv>, bezeugt ist und von Thomann erst am Abend des 28. Oktober an Hallwyl übermittelt werden konnte (Zürich StA, A 177, Nr. 109). Hallwyl beantwortete den Brief schon am Tag darauf (<qv>nr2648</qv>).<zfn>fn16327-1</zfn></fn> im geben werden.<zzl>zl16327-1E</zzl></p>
+</div>
+<div>
+<p><vl>163v.</vl> <zzl>zl16327-4A</zzl>Diewyl ich kein zwyvel han, dann das üch alle nüwe zytungen
+<fn>Nachrichten.</fn>, so ich minen herren zuschik, geoffnet
+<fn>eröffnet, mitgeteilt.</fn> werden, underlaß ich, die üch zu schryben.
+<fn>Am gleichen Tag (21. Oktober) übermittelte nämlich Thomann die Neuigkeiten an den Zürcher Rat (Zürich StA, A 177, Nr. 101).</fn> Sonst, wo ich bericht, das üch dieselben verhalten wurden, solt das schryben der zytungen an üch mich zu keiner zyt beduren.<zzl>zl16327-4E</zzl></p>
+</div>
+<div>
+<p><zzl>zl16327-3A</zzl>Houptman Schertlin, dem ich vil gutz von uch gsagt,
+<fn>Zu verstehen: dem ich Eure guten Wünsche mitgeteilt habe.</fn> antwurt zusampt
+<fn>zusammen mit.</fn> flyssigem danken, das er gar vil eeren und gutz von üch verneme. Unnd er welt gern, das er mit üch rechte kundtschafft
+<fn>Bekanntschaft.</fn> machen kondt.<zzl>zl16327-3E</zzl></p>
+</div>
+<div>
+<p>Der allmechtig füre unnd leyte den hanndel nach synen eeren. Datum inn feldleger by Giengen, dornstag den 21. octobris anno 46.</p>
+<un>Ewer alzit</un>
+<un>williger</un>
+<un>Heynrich Domman.</un>
+<lz/>
+<p>[Adresse auf f. 159v.:] Dem erwirdigen, wolgelerten meyster Heinrich Bullinger, predicant zum Grossen Münster Zurich, minem sonders gunstigen, lieben herren.
+<fn>Eine Antwort Bullingers auf diesen Brief ist bezeugt. Thomann erhielt sie am 10. November im Lager; s. Thomann an den Zürcher Rat, 10. November 1546 (Zürich StA, A 177, Nr. 131).</fn></p>
+</div>
+</text>
+</brief>

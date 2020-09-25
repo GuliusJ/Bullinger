@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2355">
+<brief>
+<id>16045</id>
+<nr>2355</nr>
+<ae>Christian Hochholzer an Bullinger</ae>
+<od>Aarau, 17. Februar 1546</od>
+<vo>Autograph: Zürich StA, E II 343a, 333 (Siegelspur)</vo>
+<dr>Ungedruckt<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 85; Erw.: Egli, Analecta II 41 (falsch datiert auf 17. März 1546) </k></dr>
+<re>Bullingers Freundlichkeit und Wohlwollen ermutigt Hochholzer, öfter an diesen zu schreiben. Hochholzer bittet um freundliche Aufnahme dieses Briefes, zumal Bullinger schon Briefe unbedeutenderen Inhalts entgegenkommend empfangen hat.
+<t/>Die Aarauer haben aus einer wenn auch unsicheren Quelle erfahren, dass ein offizieller Bote des [Kur]fürsten [Johann Friedrich I.] von Sachsen mit einem besonders wichtigen [Brief] nach Zürich gesandt worden ist. Man schwebt nun zwischen Hoffen und Bangen. Der hochmütige und schwierige Charakter Luthers lässt nichts Gutes erwarten. Viele rechtschaffene Menschen erhoffen Besseres von Luther und wünschen eine Beseitigung des Streites zwischen den Evangelischen, doch befürchten auch viele, dass noch Schrecklicheres von Luther kommt (obwohl dies kaum möglich wäre), und zwar nicht aus Angst um die Wahrheit, die unbesiegbar bleibt, sondern aus Furcht davor, dass sich die Gegner der Wahrheit [über diese Uneinigkeit] noch mehr freuen.
+<t/>[In Aarau] hat man auch vom Ravensburger Aufstand gehört.
+<t/>Falls es Bullingers Aufgaben zulassen und er Genaueres wüsste, soll er schreiben. Damit würde er nicht nur den ihm treuen Hochholzer erfreuen, sondern auch alle Guten und Frommen, die Hochholzer baten, dieses Schreiben mit einem sicheren Boten zu übermitteln. Dies nur in aller Kürze, um Bullinger nicht [unnötig zu belasten].</re>
+<text>
+<p>Gratiam et pacem a domino. Singularis tua, qua hactenus erga me usus es, et humanitas et benevolentia, domine et pater colende, facit, ut saepius literas ad te
+<fa>ad te <i>über der Zeile nachgetragen.</i></fa> qualescunque
+<fa><i>In der Vorlage</i> qualescumquam.</fa> exarare audeam.
+<fn>Hochholzers letzter Brief an Bullinger datiert vom 9. Februar (<qv>nr2349</qv>).</fn> Atqui, cum prius literas meas nullius magni momenti res continentes haud iniquo tuleris animo, nunc, si de aliqua re scribam, haud oneri tibi fore iudico. Quare rogo pro pristina tua facilitate, qu{e} singulis aditum ad te facit, has meas excipias literas. Est enim nonnihil, quod plurimos bonos apud nos sollicitos tenet; quam sollicitudinem facile tu eximere poteris. Quid autem sit, paucis expediam.</p>
+<p>Accepimus (incerto tamen vel parum spectat{e} fidei authore) tabellarium quendam ducis Saxoni{e} electoris
+<fn>Johann Friedrich I. von Sachsen.</fn> cum insigni principis, Tigurum cum literis missum, praecipue habuisse, quod tibi allatum oportuerit.
+<fn>Nicht nachweisbar.</fn> Inter spem et metum haeremus. Superbum enim, arrogans et intractabile Lutheri ingenium haud sinit mitiora ulla de eo sperare. Multi boni expectant meliora de Luthero et cuperent eum accedere veritati; non quod sine Luthero veritas non sit permansura, sed ut tandem altercationes, dissidia, pugn{e} et gravissima offendicula ex ecclesia tollerentur. Nosti enim plurimos hac contentione eorum, qui evangelici dicuntur, infirmos haud parum offendi. Timent etiam plurimi, ne quid attrocius a Luthero veniat,
+<fn>Vgl. zuletzt <qv>nr2351</qv>,<qv>zl2351-1</qv>.<zfn>fn2355-1</zfn></fn> quamvis vix quicquam magis atrox inveniri aut excogitari queat;
+<fn>Anspielung auf Luthers "Kurtz Bekenntnis" von 1544 (<a>WA</a> LIV 119-140).</fn> non quod veritati timeant, qu{e} invicta manet, sed ne magis adversarii veritatis
+<fn>Die Katholiken.</fn> habeant, quo gaudeant.</p>
+<p>Praeterea de seditione Ravenspurgi
+<fn>Die im Zusammenhang mit der Durchsetzung der Reformation 1545 entstandenen Unruhen in Ravensburg, die schließlich am 20. April 1546 zum Beitritt der Stadt zum Schmalkaldischen Bund führten; s. <a>HBBW</a> XV 366. 650; <a>Litz</a> 258-262.</fn> orta quaedam ad nos allata sunt, quae erant atrocia multumque damni bonis datura, nisi dominus vigilasset vimque hostium infregisset.</p>
+<p>De his rogo, si licuerit per occupationes, si quid certi habes, scribas, non quod arcana expiscari velim, sed tantum, si, quid sit certo, audiamus ac fidem rei adhibere audeamus. In hoc non modo mihi facies rem gratam, qui totum sum tuus, sed plurimis bonis et piis multo gratissimam. Orarunt etiam, ut per certum nuncium
+<fn>Unbekannt.</fn> ad te de his scribam, quo ipsis, si quid sit, referre possim. Studebunt hoc omnes boni quacunque occasione promereri. Breviter scribo; si enim quid fuerit, ipse nosti; sin ficta omnia, non est, quod te obtundam. Precibus etiam multis non opus esse scio. Tua enim erga me benevolentia et beneficiorum magnitudo facit, ut quidvis mihi de te pollicear. De his ergo tuas expectabo literas, quas, ubi ocium fuerit tibi, rogo, ad me mittas.
+<fn>Ein Brief Bullingers an Hochholzer ist nicht erhalten.</fn></p>
+<p>Salutem dicas, velim, tum meo tum uxoris me{e}
+<fn>Agathe, geb. Näf.</fn> nomine omnibus tuis. Vale in domino. Aarovi{e}, 17. februarii 1546.</p>
+<un>Tuae humanitati deditissimus</un>
+<un>Christianus Hochholzer.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo et doctrina et humanitate viro d. Heinrycho Bullingero, Tigurin{e} ecclesi{e} antistiti vigilantissimo, domino tanquam patri suo plurimum colendo.</p>
+</text>
+</brief>

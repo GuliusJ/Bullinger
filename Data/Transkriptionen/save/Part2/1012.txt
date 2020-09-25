@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1012">
+<nr>1012</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>30. Juni 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 34f (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Ist froh, daß es nichts zu schreiben gibt. Joachim [Maler], der nach Zürich kommt, hat aus Straßburg einen Brief Capitos
+mitgebracht, worin sich dieser überzeugt gibt, daß die Vorbehalte [der eidgenössischen Kirchen] gegenüber Bucer ausgeräumt werden können, und von seiner Sorge schreibt, die Vollmacht des evangelischen Amtes werde zuwenig ernst genommen; nach Zwicks Befürchtung lauern hier aber ähnliche Gefahren wie
+bei den Bestrebungen der Täufer.
+Hofft auf Genesung Leo [Juds]. Wird den Index zu [Jakob] Zieglers ["Terrae sanctae ... descriptio"] bald schicken; bittet um ein Verzeichnis der Schriften
+Zwinglis und um Durchsicht einer Werkliste Oekolampads. Will den Ziegler-Index auch Pellikan schicken, kann diesem aber nicht jedesmal einen eigenen Brief schreiben.
+</re>
+<tx>Salus et pax Christi.
+^$Nec iam quicquam est, quod ad te scribam, charissime omnium Bucere<fx>^#/+irrtümlich für ^#/-Bullingere.<fe>, et certe gratulor et nobis et ecclesiae, cum
+desunt tam contentiosa literarum argumenta, quibus iam diu sumus non sine magno fastidio vexati.
+^$Nunc pro charta habes ex animo candidum Ioachimum<f1>Joachim Maler.<fe> nostrum, quocum tuto de omnibus conferre potes. Is nuper ex
+Argentorato rediens<f1>Zum Versuch Malers, Bucer durch den Straßburger Rat zurückbinden zu lassen, s. PC II 695-697; ^#/+Moeller,^#/- Zwick 196.<fe> literas<f1>Nicht erhalten.<fe> a Capitone attulit, in quibus optimus vir de vobis aut ecclesiis vestris ne verbum quidem,
+nisi quod putat Bucerum vobis satisfacere posse, si audiretur, et daturum illum vitam in iudicum manus, siquidem verum
+esse deprehenderent, qua de re ex literis accusatur<f1>Die Straßburger hatten durch Maler erfahren, daß Bucers Brief vom 1. April (oben Nr. 983) und sein Schreiben an Luther vom 19. Januar an manchen Orten Mißfallen erregt hatten (s. PC II 696).<fe>. Deinde nunquam et nusquam non deplorat
+ecclesiarum neglectum, quodque
+non satis vigilemus pro illis et bene instituendis et ad posteros pure transmittendis. Neglectum esse putat, quod
+ministerii evangelici vis et officii pastoralis partes<fx>^#/+vor^#/- partes^#/+ gestrichenes^#/- vis.<fe> non vividius tractentur. Quam sententiam ego non intelligo. Nam
+si post tantum regni Christi successum nunc primum discenda<fx>discenda ^#/+vom Schreiber korrigiert aus^#/- discendum.<fe> est verbi sive ministerii illius autoritas, nescio, in quo
+digito hactenus eiecta sint potentissima dęmonia<f1>Vgl. Lk 11, 20.<fe>. Quid aliud voluerunt anabaptistae una hac ecclesiarum reformatione?
+Videamus ergo, ne in easdem Syrtes<f1>im Sinne von: gefährliche Untiefen.<fe> impingamus. Sed de hoc cum Ioachimo, si libet. Ego iam nihil addo, sed invoco te
+Iesum Christum in cęlum[!], ne inducas nos in tentationem<f1>Mt 6, 13; Lk 11, 4.<fe>.
+<vl>35</vl>
+O quam vereor reditum eiecti semel dęmonii comitibus septem peioribus ipso<f1>Vgl. Mt 12, 45.<fe>, et ne zizaniam nos eradicaturi ex agro
+faciamus hoc cum magna tritici iactura<f1>Vgl. Mt 13, 24-30. 36-42.<fe>. Utinam autem vanissimus sit omnis iste metus!
+^$Leonem<f1>Leo Jud.<fe> audivi nuper decumbere. Dominus eum nobis restituat!
+^$Indicem Ziegleri<f1>Gemeint ist offenbar der Index zu Jakob Zieglers "Terrae sanctae ... descriptio". Unter diesem Titel gab Wendelin Rihel in Straßburg die Restexemplare von Zieglers Werk aus dem Jahr 1532 neu heraus, wobei ein Index und weitere Ergänzungen beigefügt wurden (vgl. Karl
+^#/+Schottenloher,^#/- Jakob Ziegler aus Landau an der Isar. Ein Gelehrtenleben aus der Zeit des Humanismus und der Reformation, Münster 1910. - Reformationsgeschichtliche Studien und Texte 8-10, S. 384).<fe>
+brevi a me habebis. Tu cura, ut Zvinglii librorum<fx>^#/+vor ^#/-librorum^#/+ gestrichenes^#/- in.<fe> indicem<f1>Zu denken ist wohl an ein Verzeichnis der Werke Zwinglis.<fe> habeam. Oecolampadii<f1>Zwick muß ein handschriftliches Verzeichnis der Werke Oekolampads besessen haben; ein entsprechender
+Druck ist nicht bekannt.<fe> habeo<fx>^#/+vor ^#/-habeo^#/+ gestrichenes^#/- h...<fe> ex Basilęa,
+quem hic tibi relegendum mitto, si forte neglectum aliquid invenires; sed remitte per Ioachimum.
+^$Pellicanum salutabis, qui et ipse Zieglerum accipiet a me<f1>Am 15. September schreibt Zwick an Pellikan: "Hic tandem satis facio pollicitationi meae, scilicet ut indicem tuum in
+Zieglerum habeas. Alterum dato Bullingero." (Zürich ZB, Ms F 47, 20; vgl. unten Nr. 1043, 42).<fe>. Cui etiam literas has potes dare legendas. Non enim vacat
+utrisque semper unum argumentum scribere.
+^$Familias vestras salvas cupio in Christo. Vale, cor meum.
+^$Ultima iunii 1537.<un>Tuus, quantus sum,<un>Io. Zvick.
+<lz>[Adresse auf f. 28a v.:] Domino Hainricho Bullingero, ecclesiae Tigurinae ministro vigilantissimo, fratri
+et domino suo observando.
+</content>
+</letter>

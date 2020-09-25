@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2204">
+<nr>2204</nr>
+<correspondents>
+	<originator>Der Rat von Augsburg</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Augsburg]</place>
+	<date>30. Juli 1545</date>
+	<note>Bullinger erhielt den Brief am 6. August und schickte Matthias Erb umgehend eine Abschrift davon; s. unten Nr. 2209, 16f und Beilage 1.</note>
+</space_time>
+<vo>Autograph<fx>^#/+Auf Pergament.^#/-<fe> von Georg Frölich: Zürich StA, E II 345, 307 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie von Bullinger (als Beilage zu seinem Brief an Erb vom 6. August, siehe dort!): Basel UB, Ms Ki. Ar. 25c, Nr. 88 (früher 86), f. i,r.-v.; Kopie 16. Jh.: Straßburg Stadtarchiv, AST, Nr. 96, Carton 54,1b, Nr. 22m, f. 141r.-v. (mit Titel: "An Heinrichen Bullinger schreibt Augspurg wegen Matthias Erben, so sy zum kirchendienst anzunemen vorhabens."; Kopie 18. Jh.: Zürich ZB, Ms S 57, 179; Lit.: F. Roth, Augsburgs Ref'g. III 322. ^&x{
+<re>Von Georg Frölich hat der Rat von Augsburg vernommen, wie Bullinger [den Augsburgern] bei ihrer Suche nach einem Theologen den frommen und gelehrten Matthias Erb (zurzeit im Dienst des Grafen Georg von Württemberg) empfohlen hat. Da der Rat aber befürchtet, dass diese Berufung den Grafen verstimmen könnte, soll Bullinger Erb dazu bewegen, zunächst seinen Rücktritt beim Grafen einzureichen, um sich daraufhin nach Zürich oder in die Nähe von Augsburg zu begeben. Erst dann würde der Rat Erb nach Augsburg bestellen und sich vergewissern, dass er sich mit diesem gut verträgt, was zu erwarten ist. Sollte dies jedoch nicht der Fall sein, würde Erb zu seiner Zufriedenheit behandelt werden; dies allein schon mit Rücksicht auf den von Bullinger erwiesenen Dienst.</re>
+<tx>Dem christenlichen unnd hochgelerten herrn Hainrichen Bullinger, vorgeern<f1>Antistes.<fe> der kirchen zu Zürch, unnserm lieben herrn
+unnd freünndt, empieten wir, die ratgeben der statt Augspurg, unnser freünndtlich, willig diennst mit fleiß zuvor.
+^$Lieber herr unnd freünndt, unns hat der wolgelert, unnser lieber stattschreiber Georg Froelich munndtlich angebracht,
+wie ir ime<f1>In einem nicht erhaltenen Brief Bullingers, der auf Frölichs Anfrage vom 21. Mai Bezug nahm und den Frölich am 20. Juni beantwortete; s. oben Nr. 2164, 23-42; 2185, 37-50.<fe> auff sein schrifftlich ersuchen von ainem theologo<fx>^#/+In der Vorlage^#/- thologo.<fe>, herr Mathias Erb genant, anzaigung gethon,
+der frumb unnd gelert unnd diser zeit bey unnserm gnedigen herrn graff Georgen von Würtemberg sey,<f1>Siehe dazu oben Nr. 2203, Anm. 14.<fe>
+unnd sich zu unnserm kirchendiennst begeben möcht. Unnd ist nit on,<f1>Unnd ist nit on: und es hat seinen Grund.<fe> das wir gern mit ainem fridliebenden gesunndter lere
+theologen fürsehen wern; hetten auch an eur zeugkhnüs, die ir gedachtem herrn Erbio gebt, überflüssig genug.
+Dhweil er aber bey gedachtem unnserm gnedigen herrn von Würtemberg villeicht one ungnad inn unnser statt nitt wol ze brinngen, so ist unnser freünndtlich bitt, ir wöllend vleis ankeren<f1>verwenden.<fe>, die sach dahin zu befurdern, das ernannter herr Erb seinen abschid gedachts orts freünndtlich nemme, sich geen Zürch oder etwan<fx>etwan ^#/+über der Zeile nachgetragen.^#/-<fe><f1>irgendwo.<fe> nechner
+gegen Augspurg niderlasse.<f1>Am 19. Juli hatte Bullinger Erb erneut zu einer Entscheidung hinsichtlich der Berufung nach Augsburg gedrängt; s. oben Nr. 2199, 10-12.<fe> So wöllen wir ine beruffen, auff die prob hören unnd mit ime hanndlen guter zuversicht, wir wollen unns auff eur unnserm stattschreiber<f1>Frölich.<fe> gethon antzaigen mit ime kirchendiennsts halb vergleichen.
+Solt es aber ye von gott nit sein, wollen wir ine dannoch dermassen abferttigen<f1>behandeln.<fe>, das er verhoffennlich<f1>voraussichtlich.<fe> soll zufriden sein, unnd sollichs umb euch, unnserm lieben freünndt im herrn, freünndtlich verdienen<f1>zu entgelten.<fe>.
+^$Datum donnerstag, 30. iuly anno etc. 1545ten.
+^&xOhne Unterschr.ift^&x{
+<lz>[Adresse auf der Rückseite:] Dem christenlichen unnd hochgelerten herrn Hainrichen Bullinger, vorgeern der kirchen zu Zürch, unnserm lieben herrn unnd freünndt.<f1>Der Brief traf am 6. August 1545 in Zürich ein; s. unten Nr. 2209, 16f.<fe>
+</content>
+</letter>

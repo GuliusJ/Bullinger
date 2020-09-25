@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2280">
+<nr>2280</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>2. November 1545</date>
+</space_time>
+<vo>Abschrift von Johann Rudolf Stumpf: Zürich StA, E II 351, 21v.-22v.</vo>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 58, 95; Zit.: JSG 31, 1906, 63, 65; Rotondò: ^#/+Renato,^#/- Opere 308 ^&x{
+<re>Bullinger hat Camillo Renato [oben Nr. 2245] auf gelehrte, [Martin] Borrhaus [oben Nr. 2273] auf freimütige Weise geantwortet. In seiner maßlosen Gier nach Neuem scheint Borrhaus sich mehr den [Kunstgriffen] Kaspar [Schwenckfelds] hingegeben als von seiner Urteilskraft Gebrauch gemacht zu haben. Vadian las Borrhaus' "In Salomonis ... ecclesiastis [concionem] commentarius" [Basel, Robert Winter 1539; VD 16 B 6741] und merkte schon damals, dass dessen nachlässige und komplizierte Schreibweise sogar für Gelehrte schwer verständlich ist. Bullinger handelt also richtig, wenn er den sonst gelehrten Mann zu mehr Hellsichtigkeit ermahnt, zumal dieser selbst dazu aufruft.
+-^#. Vadian bedauert, dass er die [Kleine Chronik] der Äbte, die bald fertig sein wird, infolge seiner Amtsgeschäfte nicht zu dem [ursprünglich] versprochenen Termin [s. oben Nr. 2159] liefern konnte. Ihm gefällt aber, dass Bullinger umsichtig sein Urteil aufspart, bis er das ganze [Werk] kennt. Vadian hofft, dass die Behandlung der Äbte Bullinger mehr gefallen wird als [die bereits geschickten Texte (s. oben Nr. 2257) "Von dem Mönchsstand" und "Vom heiligen Gallus, vom Anfang, Stand und Wesen seines Klosters"], in denen er nichts Neues bringt, auch wenn er der Meinung ist, dass es sich doch für den gemeinen deutschen Leser lohnt, diese Texte zur Kenntnis zu nehmen. In der Abhandlung über die Äbte hält Vadian sich sehr zurück, damit ihm nicht vorgeworfen werden kann, er habe seinen Gefühlen freien Lauf gelassen. Doch will er sich dabei nicht auf einen bloßen Katalog beschränken, weil solche Listen für die Nachwelt wertlos sind.
+-^#. In seiner Schrift über den "Thurgau" [s. oben Nr. 2154, Anm. 2], in der Vadian einen großen Teil der einheimischen Geschichte darzustellen gedenkt, wird er auch zeigen, wie die reichen Klöster ihr ursprüngliches Ziel mit der Zeit aufgegeben haben.
+-^#. Der Sieg des [Landgrafen Philipp von] Hessen hat alle Frommen erfreut. Man hofft, dass der Kölner [Bischof Hermann von Wied] sich friedlich durchsetzen kann und dem Mainzer [Bischofs]sitz ein gemäßigterer [Bischof] zuteilwird als je zuvor. Gewiss haben die [dummen] "Antronier" [s. Adagia, 2, 5, 68 (ASD II/3 450, Nr. 1468)] berechtigte Gründe, sich zu fürchten! Denn manche halten es sogar für sicher, dass auch Herzog [Wilhelm IV.] von Bayern zu den [Evangelischen] übergehen wird. Vadian fürchtet aber, dass die Fürsten allzu nachgiebig mit dem Brandstifter [Herzog Heinrich von Braunschweig] verfahren. Der Vollzug des alten [Brauchs, den Schuldigen] seines Augenlichts zu berauben und ihn auf angemessene Weise zu bestrafen, wäre für solche verdorbenen deutschen Fürsten angebracht! Wenn man [Herzog Heinrich] nicht bestraft, wird es niemals Ruhe vor den Bösen geben.
+-^#. Bullinger soll nur weiterschreiben, auch wenn er etwas vorzuschreiben oder auszusetzen hätte. Grüße an alle Kollegen.</re>
+<dra>[Gedruckt: Vadian BW VI 463f, Nr. 1423.]</dra>
+^&x<tx>S. P. Camillo Renato docte respondisti, Bullingere ornatissime, Borrhao<f1>Martin Borrhaus.<fe> etiam libere.
+Nec enim est ignota huius mira ac propemodum immodica novitatis affectatio, ut omnino
+sequi non iudicium, sed ingenium videatur, dum legit in Gaspare<f1>Kaspar von Schwenckfeld.<fe>, quod admiratur.
+Legi commentarios eius dudum in Ecclesiasten Solomonis, et animadverti, ni fallor,
+quam supine arceat a suis vel mediocriter eruditum et studiosum pietatis lectorem,
+doctos autem vix admittat in archivum illud suum, obscuritate et subtilitate tortuosum
+et ab amabili illa et omnibus gratiosa facilitate docendi alienum.
+Recte facis igitur, quod hominem alioquin doctissimum deterres ab ingenio et ad iudicium cohortaris.
+Hoc enim ipsum, si nihil aliud, profecto munus illud proferendae pietatis, cui praefectus est, expostulat. Sed de his satis.
+^$Abbates mox dabo et pudet, eo me detrudi negociis, ut, quod sancte promisi, suo die praestare nequiverim.
+Placet autem prudentia mihi tua, qui iudicium suspendis, donec de toto liceat iudicare, quanquam vel ab unguibus aestimatur leo<f1>Adagia, 1, 9, 34.<fe>.
+Spero autem plus te probaturum abbatum tractationem, quam placere queat crambe illa mea locorum prope communium,
+quam tamen haud indignam esse popularium hominum Germanorum cognitione iudicabam.
+In abbatibus me contineo supra modum, ne quid affectibus indulsisse queam incusari.
+Nudos vero catalogos non probo, tum quod infructuosi existant, tum etiam quod speciem praeferant
+ostentationis, ceu digna sint inauspicata illa monstra memoria posteritatis;
+porro ubi temporum additur historia, facile intelligitur, cur et quibus de causis nominari meruerint.
+Nec grata modo, sed utilis etiam lectio erit de opulentis coenobiis, quae mammona pellicente maiorum institutum deseruerunt et saeculum sunt secuta.
+Magnam vero partem domesticae historiae Durgauicae<f1>Thurgau.<fe> meus labor dabit nec indignas cognitu actiones continebit.
+Sed tuum iudicium sequemur.
+^$Hessi<f1>Philipp von Hessen.<fe> victoria mirifice omnes pios exhylaravit.
+Spes est quiete victurum Coloniensem et Moguntiensem sedem aequanimiorem praesulem sortituram quam unquam alias,
+sed et accessionem futuram celeberrimam horum hominum, quos etiamnum captivos tenet infirmitas.
+Antronii<f1>Fünf Orte[?] (HBBW II 88).<fe> certe, ut trepident nonnihil, certas et iustas quidem haben[t] causas.
+Sunt enim, qui et Bavariae ducem<f1>Wilhelm IV. von Bayern.<fe> nostrum fore sibi certo polliceantur.
+Unum nos metuimus, ne remissius aequo cum incendiario<f1>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel.<fe> illo agant principum consilia.
+Orbatio luminum vetus et honorifica quidem poena est perditorum principum Germaniae;
+quam nisi et huic iustitia inflixerit, nunquam quies erit a malis et facinorosis.
+^$Vale et rescribe itidem; praescribe etiam et subscribe, mi Bullingere, naviter et meo nomine memorabile collegium saluta.
+^$S. Galli, postridie calendas novembres anno 1545.
+<un>Tuus ax animo Ioachimus Vadianus.
+<lz>Commenda nos consulibus<f1>Hans Rudolf Lavater und Johannes Haab.<fe>.
+<lz>[Adresse als Überschreinung:] Domino Henricho Bullingero, selectissimo amico, domino honorando.^&x{
+</content>
+</letter>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2113">
+<nr>2113</nr>
+<correspondents>
+	<originator>Johannes Caesarius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Köln</place>
+	<date>16. März [1545]</date>
+	<note>Die erwähnten Schriften erlauben eine sichere Einordnung in das Jahr 1545; s. auch unten Caesarius' Brief von August oder September 1545, Nr. 2233.</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 338, 1476 (Siegelspur)</vo>
+<dr>Gedruckt: ^#/+Krafft^#/- 131f<fx>^#/+Der Druck weist mehrere Fehler auf.^#/-<fe></dr>
+^&xKopien 18. und 19. Jh.: Zürich ZB, Ms S 56, 202; Straßburg BNU, Ms 682 (Th. Baum. 23), 318; Zit.: Gropper, Briefwechsel I 361 (A. 3). ^&x{
+<re>Caesarius hat Cochläus' ["Replica brevis"] zwar gesehen, mit der dieser auf Bullingers ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"] antwortete, die wiederum gegen Cochläus' "De canonicae scripturae et catholicae ecclesiae autoritate" gerichtet war. Caesarius wird die ["Replica brevis"] aber erst dann lesen, wenn er Bullingers ["Brevis <gr>ăntibolh́</gr>"] erhalten hat.
+-^#. Viele möchten wissen, wann Bullingers Lukaskommentar erscheint. Caesarius antwortet ihnen, dass er selbst darauf warte; wahrscheinlich wird an der [Frankfurter Frühjahrs]messe eine Schrift von Bullinger angeboten.
+-^#. Der Kölner [Erzbischof Hermann von Wied] bleibt standhaft. Gott möge ihn stärken!
+-^#. Caesarius wundert sich, dass [Karl^#. V.] die sogenannten "Lutheraner" in seinen Herrschaftsgebieten so übel verfolgt, zumal ein Konzil angekündigt wird, an dem er angeblich selbst teilnehmen wird und von dem man sich Einigkeit in den strittigen Fragen erhofft.
+-^#. Von [Bartholomäus] Latomus kam in Köln die ["Altera plenaque defensio"] gegen Bucer heraus, und demnächst erscheint gegen Bucer, Philipp [Melanchthon] und den Juristen Oldendorp die 50 Druckbogen zählende ["Iudicii universitatis et cleri Coloniensis ... defensio"] von dem Karmeliten-Prior [Eberhard Billick]. Ein gelehrter Graf [...] konnte schon einige Quartbogen davon einsehen und sich dabei des Lachens nicht erwehren. [Billick] behauptete bei einem Gastmahl des Dekans [Heinrich von Stolberg], dass er in dieser Schrift zeigen würde, dass Luther, [Melanchthon], Bucer und die anderen die [Heilige] Schrift nicht verstanden hätten!
+-^#. Grüße an Gwalther. Caesarius sah neulich dessen Übersetzung der gegen die Muslime gerichteten ["Christiana et orthodoxa assertio"] von [Johannes VI. Kantakuzenos].</re>
+<tx>Salutem in Christo Iesu, domino et servatore nostro.
+^$Repperi nuper in taberna cuiusdam apud nos bibliopolę<f1>Unbekannt.<fe> libellum Cochlei,<f1>^#/+Cochläus,^#/- "Replica brevis"; s. HBBW XIV 429, Anm. 12.<fe> quo ad tuum<f1>^#/+Bullinger,^#/- "Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"; s. HBBW XIV 66f, Anm. 3.<fe>
+adversus ipsum De authoritate scripturę<f1>^#/+Cochläus,^#/- "De canonicae scripturae et catholicae ecclesiae autoritate"; s. HBBW XIV 66, Anm. 2.<fe> respondit; verum nondum legi,
+sed reservavi hactenus, donec tuam ad illum responsionem<f1>^#/+Bullinger,^#/- "Brevis <gr>ăntibolh́</gr>"; s. HBBW XIV 460, Anm. 22.<fe> accipiam, vir optime et eruditissime.
+^$Multi ex me pene quotidie sciscitantur, num tua in Lucam<fx>^#/+Vor^#/- Lucam ^#/+gestrichenes^#/- Io[annem].<fe> commentaria prodierint aut, si nondum
+in lucem prodierint, an non aliquando prodibunt;<f1>Bullingers Lukaskommentar erschien 1546 (HBBibl I 173). - Caesarius wartete darauf schon seit März 1543; s. HBBW XIII 96, 12-14.<fe> quibus ego respondere soleo
+et me quoque ea avide expectare in dies; sed vereor, ne labor nimius oneret atque gravet te plus aequo.
+At non dubito, quin his nundinis quadragesimalibus<f1>An der Frühjahrsbuchmesse in Frankfurt. Zu ihrem Termin s. oben Nr. 2090, Anm. 9.<fe> aliquid tuarum lucubrationum expectaturi simus.
+Ingens labor est atque opus in eos scribere authores eosque commentariis explanare,
+qui idem fere argumentum tractant, cuiusmodi sunt quatuor evangeliste<f1>Matthäus, Markus, Lukas, Johannes.<fe> cumprimis.
+^$Cęterum dominus reverendissimus Coloniensis<f1>Hermann von Wied, Erzbischof von Köln.<fe> nondum causam suam plane
+destituit aut deserit, imo constantissime perseverat, et, ut ex magnis viris audivi,
+illum tam constanter suo inhęrere proposito, ut mori malit quam sinere causam cadere.
+Deus optimus maximus illius animum confortet atque confirmet!
+^$De cęsare<f1>Karl V.<fe> vehementer demiror, quod tam severiter Lutheranos, quos vocant, [minist]ris<fx>^#/+Textverlust durch Ausschnitt (des auf der Rückseite darüber geklebten) Siegelbandes. - ^#/-[...]ris suarum ditio[!] ^#/+am Rande nachgetragen. Johann Jakob Simlers Abschrift (Zürich ZB, Ms S 56, 202) liest:^#/- ...ris suarum ditio.<fe> suarum ditionum<fx>^#/+In der Vorlage^#/- ditio.<fe> prosequatur,<f1>Zu den Verfolgungen s. HBBW XIV 205, 91f; 296 und Anm. 6; 556 und Anm. 10; 576 und Anm. 6.<fe> adeoque ut complures ex illis,
+qui persecutionem iam experiuntur, patriam relinquunt cum uxoribus et liberis.
+Idem deus ac dominus illius animum in melius mutet, orandum est.
+Demiror autem, inquam, cur cęsar id faciat, pręsertim cum concilium<f1>Das nach Trient einberufene Konzil; s. oben Nr. 2071, Anm. 24.<fe> iamiam [in]stare<fx>[in]stare dicatur ^#/+am Rande und im engen Einband zum Teil verdeckt für gestrichenes^#/- immineat. ^#/+- Simlers Abschrift und der Druck lesen^#/- meditatur ^#/+an Stelle von^#/- [in]stare dicatur.<fe> dicatur,
+ad quod ipse, ut ferunt, venturus est, ubi speratur fore, ut res ista, quę hactenus
+inter magnos et doctissimos viros controversa est, componatur et ad unionem redigatur.
+Det Christus pro sua gloria principibus et viris illis, qui ad rem illam tractandam delegentur,
+sanam et piam mentem, uti iudicio, non ex affectu res examinetur et decidatur.
+^$Colonie hisce diebus prodiit in lucem libellus Latomi contra Bucerum.<f1>Bartholomäus ^#/+Latomus,^#/- Bartholomaei Latomi adversus Martinum Bucerum de controversiis quibusdam ad religionem pertinentibus altera plenaque defensio, Köln, Melchior von Neuß, 1545 (VD 16 L 620; ZV 16550; ^#/+Schlüter,^#/- Streitschriften 284f, Nr. 169f). Die Widmungsepistel an Erzbischof Johann IV. Ludwig von Hagen datiert vom 5. Dezember 1544.<fe>
+Non multo post prodibit quoque liber prioris Carmelitarum<f1>Eberhard Billick (Steinberger, Lapidica), geb. 1499 oder 1500 in Köln, gest. 12. Januar 1557. 1513 in den Karmeliterorden eingetreten, begann er innerhalb des Ordens und an der Universität mit philosophisch-theologischen Studien; 1525 Studienpräfekt; von 1528 bis 1536 Lector primarius; 1530 Baccalaureus an der theologischen Fakultät der Kölner Universität; ab 1531 (für unbekannte Dauer) Prior in Kassel; von 1536 bis 1542 Prior des Kölner Konvents, 1540 Lizentiat, im selben Jahr Doktor der Theologie und Professor an der Universität; ab 1542 Provinzial der niederdeutschen und 1546/47 Generalvikar der oberdeutschen Ordensprovinz. Er war einer der Hauptgegner des Reformationsversuchs von Hermann von Wied und Martin Bucer. Billick nahm an den Religionsgesprächen von Hagenau 1540, Worms 1540/41, Regensburg 1541 und 1546, Augsburg 1547/48 sowie am Konzil von Trient 1551/52 teil. 1556 wurde er zum Weihbischof von Köln ernannt, starb aber vor seiner Weihe. - Lit.: BBKL I 591 (mit weiterer Lit.); Peter ^#/+Fabisch,^#/- Eberhard Billick OCarm (1499/1500-1557), in: Katholische Theologen der Reformationszeit 5, hg. v. Erwin Iserloh, Münster 1988 - Katholisches Leben und Kirchenreform im Zeitalter der Glaubensspaltung 48, S. 97-116 (mit weiterer Lit.).<fe> apud nos<fx>nos ^#/+über der Zeile nachgetragen.^#/-<fe>, continens arcus papyri quinquaginta,<f1>Eberhard ^#/+Billick,^#/- Iudicii universitatis et cleri Coloniensis adversus calumnias Philippi Melanthonis, Martini Buceri, Oldendorpii et eorum asseclarum defensio cum diligenti explicatione materiarum controversarum, Köln, Jaspar von Gennep, 1545; 4^#'o, []^#'4, B^#'2, a-z^#'4, aa-uu^#'4, also 45 Lagen zählend (VD 16 B 5483; ZV 2039; ^#/+Schlüter,^#/- Streitschriften 245-247, Nr. 119f). - Die Widmungsvorrede an den Rat zu Köln datiert vom 17. März 1549 (und nicht vom "16. April", wie dies bei ^#/+Schlüter,^#/- aaO, zu lesen ist).<fe>
+ut ex ipso excusore<f1>Jaspar von Gennep.<fe> audivi. Agit autem in eo libro contra Bucerum, Philippum<f1>Philipp Melanchthon.<fe> et Aldendorpium<f1>Johann Oldendorp.<fe> iurisconsultum.
+Dixit mihi comes apud nos quidam non indoctus<f1>Unbekannt.<fe> se vidisse illius operis aliquot
+quaterniones seque<fx>que ^#/+in^#/- seque ^#/+über der Zeile nachgetragen.^#/-<fe> inter legendum non potuisse a risu abstinere.
+Quid hoc sibi velit, utcumque coniicere possum; [im]o<fx>^#/+Von^#/- [im]o ^#/+bis^#/- scripturam ^#/+am Rande nachgetragen und im engen Einband zum Teil verdeckt. Hier nach der Abschrift Simlers ergänzt.^#/-<fe> idem monachus [ad] mensam decani [no]stri<f1>Domdekan Graf Heinrich von Stolberg-Wernigerode, geb. 2. Januar 1509 in Stolberg, gest. 12. November 1572 in Stolberg; ab 1525 Studium in Leipzig; um 1538/1540 Dompropst zu Halberstadt. Seit 20. Mai 1542 hatte er die Prälatur eines Domdechanten beim Kölner Hochstift inne. Er wurde am 8. Januar 1546 des Amtes enthoben und von allen geistlichen Würden suspendiert. Zusammen mit anderen Domherren gehörte er zu den Anhängern Hermanns von Wied, die die Protestation vom 27. August 1546 unterzeichneten. 1557 schloss er durch Vermittlung seiner Schwester, der Äbtissin zu Quedlinburg, die Ehe mit deren Dekanissin, der Gräfin Elisabeth zu Gleichen-Schauenforst-Remda. - Lit.: ADB XXXVI 335-339; Gropper BW I 348, Anm. 7.<fe> in summo templo
+[ap]ud nos dixit se [oste]nsurum in eo opere [Lut]herum, Philippum, Bu[ce]rum et
+cęteros nondum [in]tellexisse scripturam; unde cum Horatio dicere possum aut potius exclamare:
+"Quid dignum tanto feret hic promissor hiatu?"<f1>^#/+Horaz,^#/- De arte poetica, 138.<fe> Unde idem protinus subiungit:
+"Parturiunt montes; nascetur ridiculus mus."<f1>^#/+Horaz,^#/- De arte poetica, 139; Adagia, 1, 9, 14 (ASD II/2 336-338, Nr. 814).<fe>
+^$Saluta meis verbis Gvalterum meum, cuius vidi nuperrime versionem cuiusdam authoris contra Mahometicam sectam<f1>Ioannis Cantacuzeni, Constantinopolitani regis, contra Mahometicam fidem christiana et orthodoxa assertio, Graece conscripta ante annos fere ducentos, nunc vero Latinitate donata Rodolpho Gvalthero Tigurino interprete, Basel, Johannes Oporin und Nikolaus Brylinger, 1543 (VD 16 J 376; GG 459b). Diese Schrift wurde 1550 in den von Johannes Oporin gedruckten Koran integriert; s. Moser, Bibliander 14. 155-160 (Nr. B-9.2).<fe>.
+Bene vale.
+^$Colonię, feria secunda post lętare.
+<un>Ioannes Cęsarius totus tuus.
+<lz>[Adresse auf der Rückseite:] Clarissimo viro domino Henrico Bullyngero, in sacris literis exercitatissimo necnon et in politioribus literis peritissimo amico suo optimo et prope incomparabili.
+</content>
+</letter>

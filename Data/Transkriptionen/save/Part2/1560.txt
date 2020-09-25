@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1560">
+<nr>1560</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee fn=1>[Bullinger]</addressee>
+	<note fn=1>Die Bezugnahme auf vorausgegangene Briefe (s. unten Z. 1 mit Anm. 2) schließt Zweifel am Adressaten aus.</note>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>29. August 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 71f (ohne Siegel)</vo>
+<vo>Kopie: ZZB, Ms S 50, 69</vo>
+<vo>TÜ: ^#/+Pressel^#/- 466</vo>
+<vo>Moeller, Zwick Nr. 252.</vo>
+<dr>Ungedruckt</dr>
+<re>Kann jetzt - nach der Rückkehr seines Bruders [Konrad] - genauer als [nach Mitte Juli, Nr. 1546] [über den Reichstag zu
+Regensburg] berichten; bittet um Rücksendung der Zusammenfassung [des Abschieds], die jedoch abgeschrieben und den Mitbrüdern
+gezeigt werden darf; auf die [Frankfurter Herbst-]Messe hin werden sicher zuverlässige Berichte erscheinen. Der Grund für
+seine Erkundigung nach der Anzahl der Pfarrer in Zürich waren Bestrebungen, die Konstanzer Pfarrstellen unter Hinweis auf das
+Beispiel Zürichs zu reduzieren; gewisse Leute möchten selber von den Kirchengütern profitieren. Der Tod von [Simon] Grynäus hat
+Konsternation ausgelöst; mit [Juan] Luis Vives und Grynäus sind kurz nacheinander zwei Männer gestorben, die sogar Kaiser
+an Bedeutung überragen. Grüße; auch Pellikan und Leo [Jud] sollen den Bericht lesen. Ambrosius [Blarer] war krank, ist aber
+wieder genesen und lässt grüßen. Empfehlung für Wilhelm [...], der durch die erlittene Not zur Einsicht gekommen zu sein scheint.
+</re>
+<tx>S. Non potui nuper clariora ad te dare,<f1>Vgl. Zwicks knappen, nach Mitte Juli geschriebenen Bericht über die
+Verhandlungen in Regensburg sowie seinen Brief von ca. Mitte August (oben Nr. 1546 und 1556).<fe>
+fratrum charissime; nunc post fratris reditum<f1>Zur Rückkehr Konrad Zwicks aus Regensburg vgl. oben Nr. 1556, 1 mit
+Anm. 2.<fe> summam, sed meo iuditio satis claram et veram, mitto.<f1>Ein "Summari des abscheidts des rychtags zuͦ
+Rägenspurg 1541" (mit Notizen von Bullingers Hand) findet sich in Zürich ZB, Ms A 127, 201-217, Nr. 7c.<fe> Per charitatem
+vero te rogo, ut exemplar remittas<fx>^#/+Vor^#/- -mittas ^#/+ein gestrichener Buchstabe.^#/-<fe>; quicquid autem placuerit, potes
+describere et reliquis fratribus legenda exhibere, quanquam persuasissimum mihi sit nundinas proximas<f1>Zum Termin der
+Frankfurter Herbstmesse s. HBBW VI, S. 406, Anm. 5.<fe> daturas aliquid, ex quibus certissima et clarissima simus
+habituri.<f1>Sowohl Bucer als auch Melanchthon publizierten noch im gleichen Jahr Akten des Religionsgesprächs (s. BucerBibl 112f bzw. VD 16 M 2385-2387). Für weitere den Reichstag betreffende Drucke des gleichen Jahres s. bes. VD 16 R 785-787;
+Karl Schottenloher, Bibliographie zur deutschen Geschichte im Zeitalter der Glaubensspaltung 1517-1585, Bd. 3, 2. Aufl., Stuttgart 1957, Nr. 28073-28075.<fe>
+^$Cur ministros verbi consignari mihi a te nuper<fx>nuper ^#/+über der Zeile nachgetragen.^#/-<fe> voluerim,<f1>Siehe oben Nr. 1546,
+14f.<fe> in causa fuit, quod apud nos quidam palam testati sint non nisi duos aut ad summum tres symmystas esse
+in<fx>^#/+vor^#/- in ^#/+gestrichenes^#/- apu.<fe> urbe vestra,<f1>Am Großmünster wirkten ein Pfarrer, zwei Prädikanten oder
+Archidiakone und zwei Diakone, am Fraumünster und zu St. Peter je ein Pfarrer und ein Diakon, an der Predigerkirche
+ein Prädikant, der im Filialverhältnis zum Großmünster stand. Vgl. Pfarrerbuch 134-138. 147f. 150f.<fe> atque
+hinc conati sunt nugatores isti evincere, ut vel minueretur
+apud nos ministrorum numerus vel saltem uno atque altero
+defuncto nullus in locum substitueretur.<f1>Zu den Verhältnissen in Konstanz vgl. etwa die Angaben zur Besoldung von neun
+Predigern im Jahr 1547 in: ^#/+Pressel^#/- 465; zu deren unterschiedlicher Stellung vgl.
+Hans-Christoph ^#/+Rublack,^#/- Die Einführung der Reformation in Konstanz von den Anfängen bis zum Abschluß 1531,
+Gütersloh-Karlsruhe 1971. - QFRG XL, S. 85f.<fe> Itaque fecisti mihi rem gratissimam, quod diligenter admodum
+singulos<fx>^#/+Vor^#/- singulos ^#/+verwischtes ^#/-mi.<fe> descripseris;<f1>Bullingers Brief ist nicht
+erhalten.<fe> sunt enim undique multi, qui corrasis undique ecclesiae bonis mallent seipsos pascere quam posteritati consulere.
+^$De Grynęi obitu<f1>Am 1. August 1541, s. oben Nr. 1552, Anm. b.<fe> supra modum sumus consternati. Abstulit eclypsis
+^&xhier: der Zeitraum eines Jahres? (vgl. oben Nr. 11111). Nach Oppolzer keine Sonnenfinsternis. ^&x{
+duos viros, quibus nulli imperatores possunt ęquiperari, hoc est Lud[ovicum] Vivem<f1>Am 6. Mai 1540, s. Thomas B.
+^#/+Deutscher,^#/- in: Contemporaries III 409.<fe> et iam Grynęum nostrum. Deus misereatur nostri.
+^$Vale cum omnibus fratribus et tota domo. Pellicano et Leoni<f1>Leo Jud.<fe> omnino<fx>^#/+In der Vorlage^#/- omnio.<fe> legendum da scriptum de comitiis. Totam domum tuam salvam volo.
+^$Ex Constantia, 29.<fx>^#/+Korrigiert aus^#/- 28.<fe> augusti 1541.
+<un>Tuus Io. Zvick.
+<lz>Ambrosium<f1>Ambrosius Blarer.<fe> corripuerat febris, sed restituit eum dominus, teque salutat offitiosissime.
+^$<vl>72</vl> Fratrem illum Wilhelmum<f1>Wilhelm von Zell kann nicht gemeint sein (vgl. Zwicks Bemerkung in seinem Brief vom
+15. September, unten Nr. 1567, 12f); zu denken ist eventuell an Wilhelm Reublin. Vgl. auch unten Nr. 1575, 85-87.<fe> commendo tibi omnino. Videtur mihi alius, quam olim fuit; vexatio dedit illi intellectum.
+<lz>[Ohne Adresse.]
+</content>
+</letter>

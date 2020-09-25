@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1759">
+<nr>1759</nr>
+<correspondents>
+	<originator>Johannes Gast</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>4./12. Juli 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 446, 340r.-v. (Siegelspur)</vo>
+<vo>Kopie: ZZB, Ms S 53, 44. 44a<fn>Erw.: Gast, Tagebuch 63f (A.170.178).88(257)</fn></vo>
+<dr>Ungedruckt</dr>
+^&x(Übertragen ab Autograph u. Simlers Kopie, keine
+Schieß-Kopie da!).^&x{
+<re>Hat Oekolampads Predigten über die Klagelieder Jeremias auf Deutsch abgeschrieben, doch den Basler Druckern fehlt es an
+deutschen Lettern; bittet Bullinger, sich wegen einer eventuellen Drucklegung bei [Christoph] Froschauer zu
+erkundigen; bei der Durchsicht würde Bullinger auch Einblick in Capitos Emendation erhalten. Heute [am 4. Juli] wurde Philipp
+von Hertenstein mit großem Pomp zum Doktor der Medizin promoviert; Donner und Blitz zeigten Gottes Unwillen über die
+Untreue [des ehemaligen Pfarrers]; kein Wunder, dass die Geistlichen in Verruf geraten! Auch Theodor [Bibliander]
+soll davon erfahren; Gruß. Bullinger wird das anatomische Werk ["De humani corporis fabrica" von Andreas Vesalius] bald
+erhalten. [Nachschrift vom 12. Juli:] Heute will sich Cellarius [Martin Borrhaus] vor Pfarrern und Universität gegen den Vorwurf
+täuferischer Irrlehre verteidigen; er hofft auf einen theologischen Lehrstuhl und wird von den Verwandten seiner
+aus Basel stammenden Braut gefördert; ähnlich hat sich schon Karlstadt zu verstellen versucht, doch [die Ratsherren] werden
+als gebrannte Kinder Vorsicht walten lassen. Gast schickt die "Epitome" [von Vesalius] und bald auch das ganze Werk. Vesalius lässt grüßen.
+</re>
+<tx>S. Descripsi Germanice contiones in Threnos Hieremię Oecolampadii pię memorię, sed nostri typographi carent
+characteribus Germanicis; ob id velim, cum Froschouero loquereris meo nomine, an ipse velit excudere;<f1>Das Werk
+erschien 1545 unter dem Titel "Inn die clag Hieremie des heligen propheten ein schöne ußlegung durch Joannem
+Oecolampadium [...]" bei Robert Winter in Basel (VD 16 B 3806; vgl. Ernst ^#/+Stae­helin,^#/- Das theologische Lebenswerk
+Johannes Oekolampads, Leipzig 1939. - QFRG XXI, S. 419-426).<fe> et hoc gratius, ut et tu relegeres. Videbis in
+hiis contionibus spiritum Oecolampadii. Videbis etiam, quid nam Capito emendarit.<f1>Wolfgang Capito hatte Oekolampads
+Auslegung der Klagelieder Jeremias 1533 bei Mathias Apiarius in Straßburg herausgegeben (VD 16 B 3783).<fe> Non excederent 16 aut 20 folia.
+^$Hodie creatus est in doctorem medicum Philippus ab Hertenstein applausu magistellorum nostrorum. Vestem sericam
+pellibus pretiosis obductam habuit et annulum aureum, nescio an sericos calceos, nam procul adsteti, quum ex collegio
+egrederetur. Tubicinatores tres habuit praecedentes,
+perpetuo canentes in laudem huius doctoris. Subsecutus est
+pedellus<f1>Nicht namentlich bekannt.^&x???^&x{<fe> argenteo sceptro, deinde doctores sericati et purpurati, molliculi
+homines. Dominus deus etiam e cęlo applausit tonitru et fulguribus adeo crebris<fx>^#/+In der Vorlage^#/- crebis.<fe> ut hac aestate nunquam, nimirum admonens hominem suę
+perfidię.<f1>Gast bezieht sich darauf, dass Hertenstein sein geistliches Amt aufgegeben hatte; vgl. oben Nr. 1751, 34-36.<fe> Quid putas illum am­­bire? Hoc est ab equis ad
+asinos.<f1>Adagia, 1, 7, 29 (LB II 273).<fe> Hoc est Christum pauperem<f1>Vgl. etwa 1Kor 8, 9.<fe> denegare et mundo velle
+placere. Dolet autem vehementissime, quod tam cito in
+doctorem sit creatus. Amant nostri nummos, quos miser ille
+expendit. Iam est doctor medicinę, sed non divinę
+scripturę, servus ęgrotorum, non Iesu Christi. Hęc
+fiunt in schola evangelicorum! O deus, ignosce nobis
+peccata! Non mirum ecclesiarum ministros incusari
+avaritię, superbiae, fastus etc.
+^$Vale. Hęc et Theodoro<f1>Theodor Bibliander.<fe> communica, quem meo nomine salvere iubeas.
+^$4. iulii 1543.
+^$Anathomica<f1>Gemeint ist Andreas Vesalius' "De humani corporis fabrica"; vgl. oben Nr. 1755, 8-15.<fe> brevi accipies.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>
+<vl>340v.</vl>^&x[Nachschrift; im engen Einband nicht zugänglicher Randtext ist nach Simlers Kopie (Zürich ZB, Ms S 53, 44/44a) ergänzt.^&x{ Hodie Cellarius<f1>Martin Borrhaus.<fe> coram fratribus et academiae proceribus purgare vult se nullius
+perversi dogmatis autorem, paedobaptismum non impugnare,
+se apud multos male audire [ob]<fx>^#/+Fehlt in der Vorlage.^#/-<fe> nescio quas sectas et dogmata
+perversa.<f1>Die Rechtgläubigkeit von Borrhaus wurde vor allem durch Wolfgang Wissenburg in Frage gestellt; vgl. unten Nr.
+1775, 33-37; 1791, 29-34.<fe> Lectio theologica vacat,<f1>Gemeint ist die Professur für Altes Testament, die
+nach dem Tod Karlstadts nur vorübergehend von Sebastian Münster versehen wurde; s. HBBW XII, S. 37, Anm. 6.<fe> et ad hanc
+adiecit animam, et propter tale quid instituit, quo melioribus fatis subvehatur a suis amicis, quos habet ex nova
+sponsa<f1>Nicht namentlich bekannt.<fe>, quę Basiliensis est. Certe hic nobis prospiciendum. Carolstadius eodem modo et
+hiisdem verbis nobis imposuit. Norunt simulare et dissimulare, donec pennę crescant.<f1>Vgl. das Sprichwort "an den Federn
+erkennt man den Vogel" (Wander I 949, Nr. 1; TPMA XII
+263f).<fe> Sed domino illud negotium committo et patribus nostris<f1>Gemeint sind die Ratsherren.<fe>; dan brente kindt
+förchten das für<f1>Wander II 1285f, Nr. 342; TPMA II 93f.<fe> gar ubel<f1>sehr.<fe>.
+^$Mitto tibi epitomen<f1>Zu Vesalius' "De humani corporis fabrica librorum epitome" s. oben Nr. 1755, Anm.
+8.<fe>, brevi totum opus<f1>Vgl. oben Z. 23.<fe> et ex omnibus selectum pulchris figuris missurus.
+^$Vale iterum.
+^$12. iulii.
+^$D. Andreas Wesalius<f1>Andreas Vesalius, geb. 1514 in Brüssel, studierte ab 1530 hauptsächlich in Löwen, Paris und Padua, wo er
+1537 zum Dr. med. promovierte und Professor für Anatomie und Chirurgie wurde. Hier erarbeitete er sein 1543 bei Oporin in
+Basel gedrucktes Hauptwerk "De humani corporis fabrica" (vgl. oben Nr. 1728, Anm. 3), das ihn zum Begründer der
+neuzeitlichen Anatomie machte. Während der Drucklegung hielt er sich mehrere Monate in Basel auf und führte hier eine berühmt
+gewordene Sektion an der Leiche eines Enthaupteten durch. 1544 wandte er sich von der Wissenschaft ab und wurde Hofarzt Kaiser
+Karls V. Er starb 1564 auf der Rückkehr von einer Orientreise auf Zakynthos. - Lit.: Moritz ^#/+Roth,^#/- Andreas Vesalius Bruxellensis, Berlin 1892 (Nachdruck: Amsterdam 1965); Fritz
+^#/+Verzár,^#/- Vesalius in Basel, in: Verhandlungen der Naturforschenden Gesellschaft in Basel LV, 1943-44, S.
+180-193.^&xRalf ^#/+Vollmuth,^#/- Das anatomische Zeitalter. Die Anatomie der Renaissance von Leonardo da Vinci bis Andreas Vesal, München 2004.^&x{<fe> te salutat officiosissime.
+<un>Tuus Gastius
+<un>ex animo.
+<lz>[Adresse:] D. Heinricho Bullingero, Tigurinę ecclesiae pastori vigilantissimo.
+</content>
+</letter>

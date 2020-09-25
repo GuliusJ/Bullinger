@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1885">
+<nr>1885</nr>
+<correspondents>
+	<originator fn=1>Wolfgang Musculus</originator>
+	<addressee>Bullinger</addressee>
+	<note fn=1>Hierbei handelt es sich um den ersten Brief von Musculus (1497-1563) an Bullinger. - Über den damals in Augsburg amtierenden Domprediger s. HBBW IV 101f, Anm. 9, und seitdem: Rudolf ^#/+Dellsperger,^#/- Wolfgang Musculus. Leben und Werk, in: Berner Zeitschrift für Geschichte und Heimatkunde 59/3, 1997, 219-240; Wolfgang Musculus und die oberdeutsche Reformation, hg. v. Rudolf Dellsperger, Rudolf Freudenberger und Wolfgang Weber, Berlin 1997. - Colloquia Augustana 6; und Reinhard ^#/+Bodenmann,^#/- Wolfgang Musculus. Destin d'un autodidacte lorrain au siècle des Réformes, Genf 2000. - Travaux d'Humanisme et Renaissance 343.</note>
+</correspondents>
+<space_time>
+	<place>Augsburg</place>
+	<date>4. April 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 347, 266-268 (Siegelspur)</vo>
+^&xK: Zürich ZB, Ms S 54, 107; Erw.: P. J. Schwab, Musculus 41^&x{
+<dr>Ungedruckt</dr>
+<re>Hat Bullingers Brief samt seiner Antwort an Cochläus ["Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"] erhalten; rühmt die Freundlichkeit, mit der Bullinger und auch Vadian ihm begegnen und die aus der Liebe Gottes entspringt. Hat den Brief auch seinen Mitbrüdern vorgelesen; sie sagen Bullinger ebenfalls ihre Freundschaft zu und senden Grüße. Dankt für das geschenkte Buch, das er unter anderem Konrad Peutinger, einem entschiedenen Gegner von Cochläus, gezeigt hat, und verweist auf dessen beiliegenden Brief [an Musculus]. Ermutigt Bullinger zu weiterem Kampf gegen die Feinde der Wahrheit. Teilt seine Sorge wegen der Uneinigkeit [der eidgenössischen Orte]; möge ihnen Gott den Frieden erhalten und auch Deutschland gute Fürsten geben! Grüße, besonders an [Rudolf] Gwalther, den er 1541 in Regensburg traf.
+</re>
+<tx>S[alutem] d[ico]. Accepi literas tuas<f1>Erster, nicht erhaltener, wohl im März geschriebener Brief an Musculus.<fe> una cum libello, quem contra Cochleum, communem veritatis hostem, scripsisti,<f1>Bullingers^&!s(-40) im März erschienene Schrift gegen Cochläus (s. oben Nr. 1858 und 1861) war durch Gervasius Schuler an Musculus übermittelt worden; durch Schulers Hände ging auch der vorliegende Dankesbrief; s. unten Nr. 1894, 6 mit Anm. 4.^&!s(+0)<fe> Bullingere in domino charissime. Scilicet et in te verum est, quod ind. Philippo Mel[anchthone] praedicare soleo, nempe eximiae
+eruditioni eximiam coniunctam esse modestiam et humanitatem.
+Quid enim, obsecro, modestius quidque humanius, quam quod
+amicitiam Musculi, qui nihil revera in se eximii agnoscit,
+homo doctissimus et tot aeditis lucubrationibus clarus ultro
+expetis, cum tua non mihi tantum, sed et bonis omnibus iam
+olim fuerit ambienda? Quod et ipse cupidissime fecissem,
+nisi intempestivus quidem, ut nunc video, attamen non plane
+<gr>^%)/alogow</gr> pudor me cohibuisset. Id quod etiam in
+clarissimo illo Sanctogall[ensi] consuled. Ioachimo Vadiano accidit, cuius amicitiam, quam ex animo cupio, cunctanter literaria <gr>proshgoríä</gr> ingredior,<f1>Musculus setzte sich erst am 14. Juli 1546 brieflich mit Vadian in Verbindung; s. Vadian BW VI 545f, Nr. 1476.<fe> cum ad hanc ab ipso, cum hic esset,<f1>Vadian war Ende 1543 nach Augsburg gereist; s. HBBW XIII 334, Anm. 4.<fe> vocatus etiam sim. Sed bene habet, optime Bullingere; hoc scilicet est vere piarum mentium ingenium, ut, sicut alias <gr>tò kreĩtton</gr> obtinent, ita non tam
+<gr>fileĩsuai</gr> quam <gr>fileĩn</gr> quęrant.<f1>Vgl. Aristoteles, Nikomachische Ethik VIII 9, 1159a 27.^&xThomas von Aquin, Summa theologiae, II/II, q 27 a 1.^&x{<fe> Et hunc animum vere divinum ex
+eo habent, qui usque adeo ipsa charitas est,<f1>Vgl. 1Joh 4, 8. 16.<fe> ut non solum
+prior,<f1>Vgl. 1Joh 4, 19.<fe> sed et vilissimos mortales, pulverem ac terram,<f1>Vgl. Gen 3, 19; Ps 103 (Vulg. 102), 14, u.a.<fe>
+inennarrabili[!] amore complexus et hunc suum erga nos amorem
+non levi <vl>267</vl> aliqua nota, sed excellentissima, misso ac tradito
+pro nobis unigenito, testatus sit.<f1>Vgl. Joh 3, 16; 1Joh 4, 9.<fe> Ex hoc fonte, frater, hunc<fx>hunc ^#/+über der Zeile nachgetragen.^#/-<fe>
+tuum ac aliorum tui similium animum, quo mediocrium ac
+gregariorum virorum, quibus et me connumerabis, amicitiam et
+consuetudinem ambitis, certissime manare scio. Exosculor
+itaque divinam hanc animi tui modestiam et humanitatem
+curaboque pro mea virili, ut, si par esse in reddendis
+vicibus nequeo, haud procul tamen praecurrentem subsequar.
+^$Legi tuas fratribus, qui hic mecum Christo domino serviunt. Hi quoque amicitię semel inter nos initae observantiam pollicentur teque ac symmystas tuos, viros doctos ac pietate claros, quam officiosissime resalutant.
+^$Pro munusculo missi libelli habeo tibi gratiam. Curabo, ut haec scripta tua contra Conchleum<f1>Die von Musculus wahrscheinlich gewollte Hinzufügung des "n" im Namen ermöglicht ein Wortspiel zwischen dem griechischen <gr>kóxlow</gr>, großes Schneckenhaus, und <gr>kogxýlion</gr>, kleines Schneckenhaus.<fe> - iam olim explosum veritatis hostem nec apud suos tanti momenti habitum, quanti miser esse cupit - etiam ab aliis bonis viris legantur, praesertimd. Chunrado Peutingero<f1>Konrad Peutinger, 1465-1547, entstammte einer Augsburger Kaufmannsfamilie und studierte in Basel und in Italien, wo er mit dem Humanismus in Berührung kam, bevor er 1490 in den Dienst seiner Heimatstadt trat. Als Stadtschreiber auf Lebenszeit hatte er dort von 1497 bis zu seinem Rücktritt 1534 eine führende Stellung inne. Ab 1488 stand er in enger Verbindung mit Kaiser Maximilian I., der ihn zu seinem Rat ernannte. 1491 promovierte er zum Dr. iuris utriusque. Neben seiner Tätigkeit als Jurist trat er durch historische und klassisch-philologische Studien hervor, legte eine bedeutende Sammlung an (darunter die als "Tabula Peutingeriana" bekannte römische Straßenkarte) und war Mittelpunkt einer "Sodalitas" humanistischer Gelehrter. Als seine - teilweise in Verbindung mit Erasmus unternommenen - Bemühungen um konfessionelle Vermittlung scheiterten und Augsburg sich der Reformation anschloss, blieb er der römischen Kirche treu. 1538 wurde er in das Augsburger Patriziat aufgenommen, und 1547 erhob ihn Kaiser Karl^#. V. in den Reichsadelsstand. Sein durch Musculus vermittelter Kontakt zu Bullinger beschränkte sich auf den Austausch von Grüßen, während sein Sohn Claudius Pius mehrere Briefe mit Bullinger wechselte. - Lit.: Rosemarie ^#/+Aulinger,^#/- in: Contemporaries III 74-76; Hans-Jörg ^#/+Künast^#/- / Jan-Dirk ^#/+Müller,^#/- in: NDB XX 282-284.<fe>, optimo ac venerando
+sene, quem scio Cochleo prae reliquis adversariis admodum esse infensum, ideoque illi continuo acceptum hunc libellum visendum exhibui, id quod in scheda hac manu ipsius scripta et his literis inserta vides.<f1>Der undatierte Brief Peutingers an Musculus liegt bei (Zürich StA, E II 347, 265). Peutinger sendet Bullingers Werk, das ihm sehr gefallen hat, an Musculus zurück und geht auf einige Kirchenväterstellen zur Frage volkssprachlicher Bibelübersetzungen näher ein; er bittet Musculus, das Buch für ihn aus Frankfurt zu beschaffen und Bullinger zu grüßen.^&x"Salutem in Christo servatore. Tuae
+dominationi viri eruditissimi H. Bullingeri libellum, quem
+heri mihi commodato ad videndum dedisti, remitto. Qui et
+mihi quam optime placet, primum etiam ab eius indice mihi
+libelli caput tercium et vigesimum se obtulit; ibi enim
+agitur de literarum sacrarum tralacione eciam in vulgarem
+linguam; citantur quoque Hieronymus ac Gregorius, item et
+Ioannes Chrysostomus, quem et tuae dominationi antea
+ostendi, super capite primo in Matthaeum homilia secunda
+simul et Theoderitum[!] de Graecarum affectionum curacione
+libro 5. charta 52. ex calcographia Parisiana, ubi et laicis
+ac etiam et foeminis permittitur sacras literas eciam
+quacunque lingua perlegere. Quare impium esse duco id
+prohibere. Dominationem tuam rogo, quamprimum e Franckfordia
+hiis proximis nundinis libri novi apportentur, curare velis,
+ut hunc quam primum habeam, et cumd. Bullingero rescribes,
+eundem meo nomine plurimum salutare velis. Tua dominatio
+bene valeat. Tuus Chuonradus Peutinger, i[uris] u[triusque]
+doctor."^&x{<fe>
+^$Tu itaque pro gratia divinitus concessa hostes veritatis scriptis tuis oppugnando et caussam Christi illustrando perge, qua in re spiritus sanctus conatus tuos feliciter moderetur.
+^$<vl>268</vl> Illud, quod in calce est literarum tuarum de dissidentibus
+inter se vestrorum ac sociorum animis,<f1>Bullinger muss in seinem Brief die Uneinigkeit unter den eidgenössischen Orten (in der Solddienstfrage?) angesprochen haben. - Vgl. auch unten Nr. 1943, 15-32; ferner 1891, 10-16.<fe> sollicitum me
+reddidit, ne qua satanę improbitate fiat, ut periculosa
+hac tempestate novi apud vos motus excitentur. Nec dubito
+esse inter hostes evangelii Christi, qui noctes ac dies in
+hoc incumbant, ut exitiale quoddam rebus vestris incendium
+struant. Proinde christiana hic admodum opus est prudentia,
+vigilantia et precandi ad dominum assiduitate, ne quis
+satanę locus permittatur. Dominus conservet et vos et
+ecclesias vestras in sua pace ac pia rerum tranquillitate
+detque etiam reliquę nostrae Germaniae principes vere
+pios, sapientes ac fortes.
+^$Bene in domino vale, virorum doctissime et humanissime.
+Salutem dic meo nomine symmystis tuis omnibus, dominis ac
+fratribus nostris, praesertimd. Gvalthero, qui mihi, nisi
+fallor, anno 1541 Ratisbonae in comitiis innotuit, quem iam
+tum propter eximiam pietatem, eruditionem ac morum
+placiditatem singulari quodam dilectionis affectu prosequi coepi.<f1>Über die erste Begegnung Rudolf Gwalthers mit Musculus ist nichts Näheres bekannt. Gwalther nahm diesen Gruß zum Anlass für ein erstes Schreiben an Musculus; vgl. dessen Antwort vom 25. [Juli] 1544 (Zürich ZB, Ms F 42, 201) sowie Gwalthers Brief an Ambrosius Blarer vom 8. Juli 1544 (Blarer BW II 274, Nr. 1102).<fe>
+^$Augustae, 1544, 4. aprilis.
+<un>Wolfgangus Musculus
+<un>tuus in domino etc.
+<lz>[Adresse auf der Rückseite:] Doctissimo pariter et humanissimo virod. Henrycho Bullingero, Tigurinę ecclesiae pastori fidelissimo, domino ac fratri in Christo plurimum observando.
+</content>
+</letter>

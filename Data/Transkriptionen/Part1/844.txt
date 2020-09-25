@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="844">
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Thomas Platter</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>13. Juni 1536</date>
+</space_time>
+<record>Autograph: Universitätsbibliothek Basel, Fr. Gr. II 9, Nr. 80 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Schickt eine Sedulius-Handschrift zur eventuellen Drucklegung;
+wünscht sie später zurückzuerhalten. Bittet um Zusendung der "Novellen"
+Justinians und des "Codex Theodosianus" sowie um die Rechnung für
+die Briefsammlung (*Oekolampads und Zwinglis*); erkundigt sich
+nach Neuerscheinungen.
+</statue>
+<content>
+Gnad und frid vonn gott durch Jesum Christum, unsernn herren.
+<p>Ich schick üch hie, fürgeliepter Thoma, uss unser libery 4 divinorum mirabilium libellos Sedulii+1, ein uralte geschrifft, und, allss vil mir zu^% wüssen, bisshar nienan getruckt; das ir üch umb ein ander exemplar ouch
+bewerbind, ob ir es drucktind. Doch sölichs beschäch oder nitt, ist min
+begär, das ir mir das allt exemplar allwäg widerumb zu^% handen stellind.</p>
+<p>Demnach ist min ernstlich pitt, ir wöllind mir umb diss volgende bu^cher verhälffen und die, so bald ir mögind, wol bewart, wenn üch komliche+2 fu^%r oder bottschafft ann die hand stiesse, mir zu^% schicken und
+anzeygen, was sy mitt sampt dem epistolar+3 kostind:</p>
+<p>Novellarum constitutionum domini Iustiniani etc., zu^% Nürenberg getruckt+4.</p>
+<p>Codicis Theodosiani libri 16, zu^% Basel getruckt+5.</p>
+<p>Wo ich dann söliche dienst umb üch beschulden+6 und verdienen könde, wölte ich nitt sparen. Lassend mich ouch wüssen, was nüws vor handen sye, das ir truckind. Sind gott befolhen.</p>
+<p>Datum Zürych, 13. iunii 1536.</p>
+<signature>
+Heinrych Bullinger.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) An den frommen unn(*d*)+a truwen
+Thoman B(*lat*)ternn+b, truckerherr(*n*)+c zu^% Basel, sinen liebe(*n*)+d
+unnd gu^%ten fründ.
+</address>
+</content>
+<note>
+.us; ^^^S'a-d. >Rand abgeschnitten.
+<address>
++1>Gemeint ist das "Carmen paschale" des Coelius Sedulius (CSEL X).
+Seiten?????
+Entgegen Bullingers Annahme wurde dieses Werk
+schon früh gedruckt; möglicherweise wurde es 1537 von Oporin, sicher
+aber 1541 von Bartholomäus Westheimer neu verlegt. Die heute
+verschollene Handschrift aus der Zürcher Stiftsbibliothek befand sich
+noch 1539 in Basel; vgl. die Briefe Bullingers an Platter vom 3. November
+1537 (Basel UB, Fr. Gr. II 9, Nr. 81) sowie Gwalthers an Bullinger
+vom 26. April und 23. Mai 1539 (Zürich StA, E II 359, 2781 bzw. 2786).
+Gemeint ist: Coelius Sedulius, Carmen paschale.
+Wurde des öfteren gedruckt, (1528 und) vielleicht 1537 in Basel (s.
+CSEL X, S. XXIIIIf; MPL XIX 480f, vgl. ebd. Sp. 36; in ZH nicht
+vorhanden; in BS UB: D.J.VIII.11.No.1 (im Katalog unter Juvencus
+zu finden und [mit Fragezeichen] Oporin zugeschrieben)
+ev. Dr. Hieronymus fragen, Tel. 061/267 31 21
+ Vgl. Gwalther an HB, 26. April und 23. Mai 39!
+Die in ZH u. BS erhaltenen Handschriften stammen aus St. Gallen,
+Rheinau u. Fulda, können also kaum gemeint sein.
++2>passende (SI III 285).
++3>Vgl. oben Nr. 783, 31f.
++4>Gemeint ist die 1531 bei Johann Petreius gedruckte
+griechisch-lateinische Ausgabe der "Novellae constitutiones" Justinians.
+Zu einem von Bullinger annotierten Exemplar (Zürich ZB,
+XI 75^^^'sub(2)) vgl.
+<print>
+Bächtold,  Bullinger vor dem Rat 31-34.
++5>Unter diesem irrtümlichen Titel erschien 1528 bei Heinrich Petri
+die von Johann Sichard besorgte Erstausgabe des Breviarium Alaricianum
+(vgl. Guido
+Kisch,  Johannes Sichardus als Basler Rechtshistoriker, Basel 1952.
+-- Basler Studien zur Rechtswissenschaft 34, S. 36f. 67). Das den
+Novellen Justinians beigebundene Exemplar in Zürich ZB, XI 75^^^'sub(1)
+(vgl. Anm. 4) stammt wohl ebenfalls aus Bullingers Besitz.
+ auch B. G. Kisch, Die Anf. der Jur. Fak. Basel, S. 109-111)
++6>vergelten (SI VIII 659f).
+;----------------------------------------------------------------------
+</print>
+</address>
+</note>
+</letter>

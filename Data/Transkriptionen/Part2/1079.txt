@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1079">
+<nr>1079</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>15. Dezember 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 39 (Siegel)</vo>
+<dr>Ungedruckt</dr>
+<re>Der erneut erkrankte Bürgermeister [Thomas Blarer] erwidert seinen Gruß. Wenn [Konrad] Klauser die Erlaubnis erhalten hätte,
+[als Hauslehrer zu Konrad Zwick] zu kommen, wären sie auch für den Fortgang seiner Studien besorgt gewesen; sie bitten
+nochmals um Hilfe bei der Besetzung der Stelle. Bullinger soll dem Briefüberbringer bei der Suche nach [Werken von] Albertus
+[Magnus?] helfen.
+</re>
+<tx>Salus.
+^$Consulem nostrum quartana iterum invasit<f1>Zur Erkrankung Thomas Blarers vgl. oben Nr. 1043, 43; 1064, 11.<fe>,
+Bullingere charissime; sed non speramus duraturam. Commendo tamen eum precibus tuis. Iussit tibi pro salute gratias agere et longe plurimam remittere.
+^$De Clausero iuvene sic se res habet, quemadmodum in aliis literis sum testatus<f1>Siehe oben Nr. 1064, 14-28; 1076, 2-9.<fe>;
+tamen, si nobis tuorum favore contigisset, dedissemus summam operam, ne cum studiorum suorum neglectu, sed
+profectu nobiscum fuisset. Nunc autem, cum hęc spes elapsa sit nobis, tamen non desinimus rogare te usque et usque, ut, si
+quis alius talis tuo consilio et ope tua nobis possit contingere, ne quid
+negligas, mi frater. Periculum, quod secum haec mora adfert, misere nos divexat; vellemus enim pueris nostris in tempore consultum.
+^$Sed iam nihil aliud habeo properante etiam tabellione isto<f1>Unbekannt.<fe>, qui
+ad nos missus est, quemadmodum ex literis hic vides. Caeterum, cum Albertum illum
+apud nos nusquam repererim<f1>Wie es scheint, war der Briefüberbringer auf der Suche nach Werken des scholastischen Theologen und Philosophen Albertus
+Magnus (gest. 1280). - Lit.: Paul ^#/+Simon,^#/- in: TRE II 177-184; Georg ^#/+Wieland,^#/- in: LThK^#'3 I 337-339.<fe>,
+vellem, tu quoque faceres offitium in gratiam istius boni viri, si forte apud vos inveniretur,
+quanquam etiam dubitarim, philosophicane an vero theologica velit.
+^$Vale, mi frater, et ora dominum pro me.
+^$15. decembris 1537.
+^$Libellum<f1>Osianders "Coniuratio Papistarum"; vgl. oben Nr. 1076, 19 mit Anm. 10.<fe> hic remitto cum gratiarum actione.<un>Tuus Io. Zvick.
+<lz>[Adresse auf der Rückseite:] Domino Hainricho Bullingero Tigurino, suo charissimo fratri.
+</content>
+</letter>

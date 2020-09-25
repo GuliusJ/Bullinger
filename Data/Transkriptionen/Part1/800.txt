@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="800">
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Gallen</place>
+	<date>18. April 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 338, 1375r.-v. (Siegelspur)</record>
+<print></print>
+<note>Gedruckt: Vadian BW V 324f</note>
+<statue>
+Ist froh, Bullinger zur Abfassung seines neuen Epistelkommentars
+gedrängt zu haben, in dem die Greuel des römischen Götzen trefflich
+beschrieben sind und der sicherlich weitherum grosse Wirkung haben wird,
+weil Luther
+zu scharf und Zwingli offenbar gar nicht ausdrücklich gegen den Papst
+geschrieben hat; Bullinger hat überzeugend dargelegt, dass Paulus' Warnung
+vor dem Antichrist den Papst meint. Da sich Papst Paul III. angeblich
+auf die Seite des französischen Königs gestellt hat, könnten nun viele
+Protestanten annehmen, der Kaiser würde der evangelischen
+Lehre künftig gewogener sein.
+</statue>
+<content>
+S. Quam bonam ego, Bullingere doctissime, operam navavi, si id
+meis apud te literis sum assecutus, ut epistolis apostoli ad
+Thessalonicenses, Thimotheum et Philemonem enarrandis+1
+hoc plus operae
+impenderis, quo ego te ardentius inhortatus fuerim, ne Romanum illud
+idolum+2
+levi manu tractares, sed suis coloribus orbi depingeres.
+Depinxisti enim abominationem illam universam tanta fide, gratia,
+libertate, iudicio, fiducia, ut non dubitem casum, quem spiritus domini
+viginti iam annis molitur, te primum ceu Colophone adhibito+3
+et brevem et certo per omnem Germaniam in foribus affuturum esse+4,
+qui omnem illam simulatae pietatis camerinam non moveat solum, sed etiam
+absorbeat.
+Est quidem papa et a Luthero petitus+5,
+sed amarulentius, quam ut iudicio
+eius multi eruditorum ea in re putarint accedendum, ac nescio, an ex
+professo unquam Zinglius noster in eum scripserit+6;
+satis enim ei fuit
+dogmata subvertere, quae talem eum effecerant, et exarmare hominem malis
+artibus elatum, si nudus et spoliatus adigi fortasse ad resipiscentiam
+posset. Tua vero (absit adulatio) diligentia factum est, ut facile et
+citra controversiam id optimi et pientissimi quique sensuri sint, de
+nullo antichristo seu filio perditionis+7
+certius posteros apostolum
+admonuisse quam de papa Romano; quippe ad verbum quadrant in hunc,
+quicquid est a Paulo de homine peccati praedictum+8.
+Proinde ex animo
+gratulor studiosis tuam istam lucubrationem, //^^^'Sup(1375v.) nec minus
+gaudeo factum meo consilio, ut accincto iam et parato+a
+ad scribendum
+hac in parte calcar adhibuerim+9
+et in meam etiam gratiam minus te laborum pistrinum istud fregerit.
+<p>Audio vero Paulum III. Caroli imperatoris hostem factum, totum se Gallo+10 dedidisse. Quae si vera sunt, quam facile foret Carolum ad illos converti toto impetu, qui ferre papam amplius nolunt, et olfacio iam
+nunc eam occasionem observari quibusdam christianis magistratibus, ut,
+quoniam spes sit maioris dissidii, hoc inde propensior evangelio futurus
+sit imperator, quo se magis delusum contemptumque ab illo sentiet, cuius
+dignitatem antea tam religiose est tutatus. Sed incerta sunt principum
+consilia, quibus haud aliud magis precor, quam ut per domini gratiam vel
+te doctore demum artes antichristi sint liquido cognituri et, quod
+hactenus de scripturis deprehensum non est, saltem historia
+recentiore praeeunte perdiscant.</p>
+<p>Vale et me tuum esse sinito.</p>
+<p>Sangalli, 18. die aprilis anno 36.</p>
+<signature>
+Ioach. Vadianus.
+</signature>
+<address>
+(*Adresse darunter:*) (*Clariss*)imo+b
+viro d. Henrycho (*Bulling*)ero+c,
+sanctè ecclesiè (*Turicensis*)+d^^^^^nein, Tigurinae!^^^^^{
+episcopo, domini^^^^^richtig: domino^^^^^{ suo colendo.
+</address>
+</content>
+<note>
+<print>
++a>parato  korrigiert aus  paratum.
+ ^^^S'b-d.> Textverlust, entstanden beim Öffnen des Briefes.
+</print>
+<address>
++1>Bullingers Kommentar zu den
+Thes-
+sa-
+lo-
+ni-
+cher- und
+;Thessalonicher-
+Pastoralbriefen und zum
+Philemonbrief (HBBibl I 81) war im März 1536 bei
+Froschauer in Zürich erschienen (vgl. HBD 24, 26f).
++2>der Papst. -- Vgl. oben Nr. 767, 12-15 mit Anm. 6.
++3>Vgl. Otto 88, Nr. 410.
++4>Zur Redensart vgl. Adagia, 2, 2, 85 (LB II 478).
++5>Vor allem in den Schriften "Adversus execrabilem Antichristi
+bullam" bzw. "Widder die Bullen des Endchrists" von 1520 und "Passional
+Christi und Antichristi" von 1521 (WA VI 593-612. 614-629; IX 677-715
+mit Bildanhang).
++6>Zwingli hat keine gegen den Papst gerichtete Schrift
+publiziert; allerdings bezeichnete er diesen immer wieder als
+An-
+ti-
+christ
+(vgl. Z IV 123, 16, u. ö.).
++7>2Thess 2, 3.
++8>Vgl. 2Thess 2, 3-10.
++9>Adagia, 1, 2, 47 (LB II 89).
++10>Franz I., dem französischen König.
+;----------------------------------------------------------------------
+</address>
+</note>
+</letter>

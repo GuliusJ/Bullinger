@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="830">
+<correspondents>
+	<originator>Bartholomäus (*Bertlin*)</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>(*Waltenhofen*)</place>
+	<date>25. Mai 1536</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 356, 9 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Kann der hektischen Kriegsrüstungen wegen nicht schreiben, wie er
+möchte. Bittet, neue Publikationen Bullingers und anderer Zürcher Peter
+(*...*) mitzugeben. Gute Wünsche für Bullinger und die Zürcher Kirche.
+</statue>
+<content>
+Salve, doctissime Bullingere.
+<p>Militum turba tum et equitum+1, hominum piorum scilicet, ita obrutus et districtus, ut vix respirare liceat, tantum abest ut tibi, que velim et cupiam, scribere queam. Tu itaque hoc meum salvere et silere boni
+consule, vir integritate et eruditione excellentissime.</p>
+<p>Que tua ex officina prodierunt interim, cura ut cum hoc Petro+2 nunc cognito tibi accipiam ac aliorum tuorum symmistarum.</p>
+<p>Vale, et Christus in te pergat peragere, quod cepit in suam laudem et gloriam et suè ecclesiè profectum et ornamentum. Vale cum tuis omnibus et ecclesia tua sancta. Vicissim per te oramus.</p>
+<p>Ipsa+a ascensionis die anno etc. 36.</p>
+<signature>
+Barptolomaeus+b,
+tuus discipulus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Viro pietate et doctrina
+prestantissimo Heinricho Bullingero, ecclesiè Tigurinè episcopo
+laudatissimo, suo preceptori cum primis honorando.
+</address>
+</content>
+<note>
+<print>
++a>vor  ipsa  gestrichenes  isp.
++b>nach  Barptolomaeus  von späterer Hand  Bertlin.
+</print>
+<address>
++1>Zur Anwerbung von Soldaten im Zusammenhang mit den Spannungen
+um Mailand vgl. oben Nr. 819, 1-8, und unten Nr. 831f. Zum Aufbruch
+von Truppen aus dem Allgäu unter Hauptmann Kaspar von Frundsberg vgl.
+Nikolaus Ellenbog, Briefwechsel, hg. v. Andreas Bigelmair und Friedrich
+Zoepfl, Münster in Westfalen 1938. -- Corpus Catholicorum 19/21, S. 374,
+30-32.
++2>Ein Peter (*...*) ist bereits im Brief vom 14. Nov. 1535 als
+Bote genannt (vgl. HBBW V, S. 425, 13).
+;---------------------------------------------------------------------
+</address>
+</note>
+</letter>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1428">
+<nr>1428</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Bonifacius Amerbach</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>6. November 1540</date>
+</space_time>
+<vo>Autograph: Basel UB, Ms. Ki. Ar. 18a, 91 (Siegelspur)</vo>
+<re>Sendet als Zeichen der Freundschaft seine beiden Bücher "De scripturae sanctae authoritate" und "De origine erroris". Als er
+ihn letzten Sommer durch einen jungen Engländer [John Butler?] um römische Münzen bat, sandte Amerbach zuerst ein eigenhändiges
+Verzeichnis und dann die Münzen selbst, wofür er ihm noch nicht gedankt hat. Schickt ihm eine Silbermünze mit den Porträts von
+M. Agrippa und C. Marius; das Antlitz des letzteren ließ, wie die Geschichte berichtet, selbst einen Mörder zurückschrecken. Gruß.
+</re>
+<tx>[Gedruckt: Amerbach, Korr. V 306f, Nr. 2416.]
+</content>
+</letter>

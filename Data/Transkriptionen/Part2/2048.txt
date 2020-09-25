@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2048">
+<nr>2048</nr>
+<correspondents>
+	<originator>Ambrosius Blarer</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Konstanz]</place>
+	<date>13. Dezember 1544</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 357, 110 (Siegel)</vo>
+<dr>Teildruck und zusammenfassende Übersetzung: Blarer BW II 325, Nr. 1149<fx>^#/+Die danach von Traugott Schieß veröffentlichte Beilage ist in der vorliegenden Edition dem Brief Nr. 2044 zugeordnet worden.^#/-<fe></dr>
+^&xKopie: Zürich ZB, Ms S 56, 79 (Brief) und Ms S 58, 190 (undatierte Beilage, Ende 1545 eingeordnet)^&x{
+<re>Empfing durch [Martin] Frecht das von Bullinger so sehr ersehnte ["Kurtz bekentnis"] Luthers; Bullinger soll es nach der Lektüre zurückschicken, da es nur wenige Exemplare davon gibt (doch wenn es nur ein einziges gäbe, wäre dieses an sich schon mehr als genug!); beim Verfassen seiner Antwort soll Bullinger sich nicht Luther, sondern die Kirchen Christi vor Augen halten; Blarer las das Buch ohne Gewinn, mit Schmerz und in Eile.
+Hofft, dass Bullinger seinen letzten, durch Sara [...] übersandten Brief [oben Nr. 2044] erhalten hat.
+Falls Bullinger Luthers Buch schon haben sollte, möge er dieses Exemplar sogleich zurücksenden.
+Die Esslinger schrieben, dass Herzog [Ulrich] von Württenberg einigen Jägern die Augen ausgestochen habe.</re>
+<tx>S. A cena libellum huncce<f1>Luthers "Kurtz Bekentnis"; s. oben Nr. 1971, Anm. 20.<fe>, tantopere a te desideratum,<f1>Siehe oben Nr. 2030, 12-18; 2044, 27-35.<fe>
+a Frechto nostro accepi,<f1>Aus Ulm. Ein entsprechender Begleitbrief an Blarer ist unbekannt.<fe> qui
+potestatem fecit mihi eum<fx>eum ^#/+über unlesbar gemachtem Wort.^#/-<fe> ad te mittendi, sed ea lege, ut,
+ubi usus eo fueris, rursum ad nos remittas; paucissima enim
+extare exemplaria, quamquam mihi plura plurimis extare
+videntur, si vel unicum extet. Tu pro christiana tua
+prudentia omnia vide, ut circumspecte agas nihilque Luthero,
+qui nec audire nos nec respondere nobis dignatur, sed omnia
+ecclesiis Christi scribes, illis vos<fx>vos ^#/+korrigiert aus^#/- nos.<fe> modestissime purgaturus.
+Ego tumultuanter tantoque animi dolore legi, ut plane iam,
+quid legerim, exciderit.
+^$Sed vale cum tuis et domino nos diligenter commenda. Nequeo
+plura et spero te superiores meas literas<f1>Oben Nr. 2044 vom 5. Dezember.<fe>, quas per Saram<f1>Eine Verwandte Blarers? Die Tochter Sara von Thomas Blarer (s. Blarer BW III 70. 884) wird hier kaum in Frage kommen.<fe>
+misi, accepisse. Iterum vale.
+^$13. decembris 1544.
+<un>Tuus Amb. Bl.
+<lz>Si iam antea libellum habes,<f1>Hatte Bullinger bereits damals das ihm von Markus Crodel zugesandte Exemplar (s. oben Nr. 2037, Anm. 3) erhalten?<fe> hunc quamprimum remitte;
+nullus enim prorsus apud nos illum legit.
+^$Tragica scribunt<f1>Nicht ermittelt.<fe> Esselingiacenses de duce
+Wirtemp[ergensi]<f1>Herzog Ulrich von Württemberg.<fe>, quod miseros quosdam Acteones<f1>D.h. Jäger (nach dem Jäger Akteon oder Aktaion in der griech. Mythologie; vgl. Albert ^#/+Schachter,^#/- in: DNP I 414).<fe> exocularit.<f1>Vgl. oben Nr. 2036 mit Anm. 13; 2044, 38-40.<fe>
+<lz>[Adresse vor S. 102:] Bullingero suo Tiguri. Maister
+Hainrich Bullinger zuͦ Zuͤrich. Zuͤrich.
+</content>
+</letter>

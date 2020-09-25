@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="601">
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>24. Juni 1535</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 336, 142 (Siegel)</record>
+<print></print>
+<note>Gedruckt: CO X/2 47f</note>
+<statue>
+Freut sich über das ihm entgegengebrachte Vertrauen. Bittet um sein
+Urteil über eine Stelle aus Erasmus' "Ecclesiastes".
+Empfiehlt (*Thomas*) Platter als neuen Buchdrucker.
+</statue>
+<content>
+S. Quod etiam mysteria, ut ita vocem, tua talia non vis esse mihi+1,
+intelligo animum tuum erga me. Gaudeo, ut magis nequeam. Dolet deinde tot
+esse ubique terrores, verum deus ut hactenus tuebitur suos, atque id est,
+unde dolor omnis absumitur.
+<p>Duo vero sunt, què scribere cogor ob temporis angustiam, unum de Erasmo, alterum de Blattero+2 meo.</p>
+<p>Ecclesiastes Erasmi+3, qui clam+a, nondum quidem perfectus ad me venit, inter caetera sic habet post commendationem sacerdotii novi testamenti tandem ex collatione sacerdotii Aaronis et filiorum eius: "Quanta vero dignitas decet novi
+testamenti ministros, qui quotidie immolant illam coelestem hostiam
+angelicis quoque spiritibus adorandam, qui contrectant manibus carnem
+agni immaculati?"+4
+Non videtur permittendum, ut tale quidpiam in urbe
+christiana imprimatur+5.
+Fac sciam sententiam tuam.</p>
+<p>Blatterum autem novum impressorem tibi commendatum volo, ut si quid possis illi mox praeter offensionem Froschoweri commodare, ne detrectes. Quae scribis, chara sunt atque adeo vendibilia. Potes igitur
+promovere tuis scriptis illius usum. Quod breviter dico, ne videar non
+confidere tibi. Spero aliquid esse, quo subveniatur huic.</p>
+<p>Tua+6 tibi remitto.</p>
+<p>Vale per Christum.</p>
+<p>Basileè, 24. iunii anno 1535.</p>
+<signature>
+Os. Myc. tuus.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Heinricho Bullingero,
+prèsidi verbi apud Tigurinos primo, suo inprimis charo.
+</address>
+</content>
+<note>
+.us; +a >nach  clam  gestrichenes  mihi.
+<address>
++1>Bullinger hatte Myconius eine Abschrift seines Briefes
+an Bucer anvertraut, s. oben Nr. 594, 27-30.
++2>Thomas Platter, geb. 1499 oder vielleicht erst nach 1507, gest.
+1582, aus Grächen (Kt. Wallis), war zuerst Ziegenhirt und zog darauf als
+fahrender Schüler durch Deutschland. Unter dem Einfluss Zwinglis schloss
+er sich in Zürich der Reformation an. Während der Badener Disputation
+von 1526 vermittelte er geheime Nachrichten zwischen Oekolampad und
+Zwingli. Von Myconius und Theodor Bibliander wurde er in den
+alten Sprachen unterrichtet und erlernte daneben das Seilerhandwerk.
+Während er in Basel als Seilergeselle arbeitete, setzte er seine Studien
+fort und unterrichtete auf Veranlassung von Johannes Oporin hebräische
+Grammatik. Er nahm am Ersten Kappelerkrieg teil, heiratete die Magd von
+Myconius und wurde Provisor bei Oporin. 1531 liess er sich endgültig in
+Basel nieder, wo er nun Griechisch lehrte und als Korrektor in der
+Druckerei von Johannes Herwagen arbeitete. 1535 gründete er mit Oporin,
+Balthasar Lasius und Ruprecht Winter eine Druckergemeinschaft, zu deren
+ersten Erzeugnissen Calvins "Institutio" gehörte; nach dem
+Auseinanderbrechen dieser Gesellschaft war er noch bis 1544 als
+selbständiger Drucker tätig. 1541-1578 leitete er die Lateinschule auf
+Burg. Die von ihm selbst verfasste Lebensbeschreibung gilt als eine der
+besten des 16. Jahrhunderts. Von seiner Korrespondenz mit Bullinger sind
+drei Briefe aus den Jahren 1536/37 erhalten. -- Lit.: Thomas Platter,
+Lebensbeschreibung. Mit einem Vorwort von
+<print>
+Walter  Muschg  hg. v. Alfred Hartmann, Basel 1944; Friedrich
+Rudolf,  Zürich und Thomas Platters Anfänge als Buchdrucker,
+ in: Schweizerisches Gutenbergmuseum XXX, 1944, S. 153-156;  Benzing,
+ Buchdrucker 37f;  Grimm,  Buchführer 1398f; Jakob  Bächtold,
+in: ADB XXVI 265f; HBLS V 453.
++3>Erasmus, Ecclesiastae sive de ratione concionandi libri
+IV (LB V 767-1100).
++4>LB V 797.
++5>Obwohl Myconius den Druck zu verhindern suchte (vgl. unten
+Nr. 607, 6-21 sowie Amerbach,
+ Korr. IV 360-363; Capito, Corr. 189-191;  Pollet,  Bucer II 366f),
+konnte das Buch Ende August 1535 bei Froben erscheinen (vgl. Erasmus,
+Corr. XI 189f).
++6>Siehe oben Anm. 1.
+</print>
+</address>
+</note>
+</letter>

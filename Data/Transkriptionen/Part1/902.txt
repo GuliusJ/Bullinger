@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="902">
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Tübingen</place>
+	<date>(*um 10. Oktober 1536*)+1</date>
+</space_time>
+<record>Autograph: Zürich StA, E II 346, 78 (Siegelspur)</record>
+<print>Ungedruckt</print>
+<statue>
+Ist nach Tübingen gereist, um mit Philipp (*Melanchthon*) über die
+Beförderung der Konkordie zu sprechen; wird nach seiner Rückkehr
+ausführlicher berichten.
+</statue>
+<content>
+Salus.
+<p>Cum sperarem me Philippum+2 invenire Tubingae, accinxi me itineri, neque me fefellit spes mea. Inveni illum impeditum a principe+3 et etiamnum agentem Tubingae reformandae achademiae caussa+4. Ego cum illo nunc agam
+de concordiae negotio non impediendo, sed firmius et certius
+concludendo. Ubi domum rediero, faciam te de reliquis certiorem+5.</p>
+<p>Vale cum fratribus et dominis.</p>
+<p>Datum Tubingae.</p>
+<signature>
+Tuus Io. Zvick.
+</signature>
+<address>
+(*Adresse auf der Rückseite:*) Domino Hainricho Bullingero,
+Tigurinae ecclesiè antistiti, fratri optimo.
+</address>
+</content>
+<note>
++1>Unmittelbar vor der Verhandlung mit Melanchthon in Tübingen; vgl.
+<print>
+Moeller,  Zwick 188f (besonders Anm. 159); Melanchthon BW, Regesten
+II 273, Nr. 1794.
++2>Philipp Melanchthon.
++3>Herzog Ulrich von Württemberg.
++4>Siehe oben Nr. 900, Anm. 10.
++5>Siehe unten Nr. 908.
+;----------------------------------------------------------------------
+</print>
+</note>
+</letter>

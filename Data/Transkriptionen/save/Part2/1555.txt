@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1555">
+<nr>1555</nr>
+<correspondents>
+	<originator>Richard Hilles</originator>
+	<addressee fn=1>[Bullinger]</addressee>
+	<note fn=1>Die führende Stellung des Angesprochenen sowie dessen Kollegenkreis Bibliander, Pellikan und Jud weisen Bullinger als Adressaten aus.</note>
+</correspondents>
+<space_time>
+	<place>[Straßburg?]<f1>Als Absendeort ist Straßburg zu vermuten</place>
+	<date>da sich Hilles 1541 bereits dort aufhielt (vgl. auch unten Nr. 1569 und 1587). Der Brief wurde im August geschrieben ("decrevi presente mense augusti [...] advenisse"^&x; "Butlerus [...] tota hac mensi [...] abfuit"^&x{) und von Bullinger Ende August beantwortet (vgl. Hilles folgenden Brief, unten Nr. 1569). Da die</date>
+	<note>, [um Mitte August 1541]</note>
+</space_time>
+^&xDatierung im englischen Stil, deshalb entspricht "1540" 1541; Cromes Predigt (Epistolae Tigurinae 142) wurde am 13. Februar 1541 gehalten (vgl. "The Bishop's Register"). Hilles schrieb diesen Brief zwischen 14. Februar und 24. März 1541. [Näheres im Brief von Derek Alan Scales an HBBW vom 23. März
+1976.]^&x{
+<vo>Autograph: Zürich StA, E II 369, 72a r.-v., Beilage: 70a-g (ohne Siegel)</vo>
+<vo>Kopie: Zürich ZB, Ms S 48, 83<f1>(eingeordnet im August 1540)<fe></vo>
+<re>Schreibt trotz seiner mangelhaften Sprachkenntnis erstmals einen lateinischen Brief, weil ihn Bullinger so oft und
+freundlich ermahnt hat. Hatte vor, in diesem August mit seiner Frau [Anna] zu Bullinger zu reisen, doch sie
+wollten dies nicht ohne [John] Butler tun, der zurzeit eine Straßburger Witwe umwirbt und mit deren Eltern den ganzen Monat
+abwesend war; glaubt - im Vertrauen gesagt - nicht an eine Heirat, da die Frau ein Leiden hat. Hat sich bisher seines
+Lateins wegen gescheut, Neuigkeiten aus England mitzuteilen, schickt aber nun Auszüge aus Briefen von Freunden mit
+Nachrichten vom Vorjahr; über die Ereignisse bis zu seiner Abreise aus der Heimat - Ostern 1540 - wird Bullinger durch
+[John] Butler informiert worden sein, dem er damals Berichte zur Weiterverbreitung schickte. Erhielt Bullingers Brief vom 6.
+dieses Monats und einen vorangegangenen gleichzeitig und dankt für die tröstlichen und ermunternden Worte; weiß nun besser als
+zuvor, wie schlimm es ist, in die frühere [Irrlehre] zurückzufallen. Da er ohne Verleugnung des Glaubens nicht in
+England bleiben konnte, verließ er das Land unter dem Vorwand geschäftlicher Gründe; da keine Häresieklage gegen ihn vorliegt,
+ist sein Besitz nicht gefährdet, und er schickt immer noch Geld für den Tucheinkauf dorthin. Wird nicht zurückkehren, solange er
+nicht dem Gotteswort gemäß leben kann; hat sich zusammen mit seiner Frau gut eingelebt. [John] Butler reiste nach der
+Frankfurter Frühjahrsmesse nach England, blieb aber angesichts der dortigen Lage nur achtzehn Tage. Bittet, den Inhalt seines
+Schreibens nur gegenüber Männern wie Theodor Bibliander, [Konrad] Pellikan und Leo Jud zu erwähnen; hätte den Brief gerne
+einem Kollegen zur sprachlichen Überarbeitung gegeben, wollte aber nicht riskieren, dass die Kunde von seinem Verkehr mit [den
+Zürcher Theologen] nach England gelangt. Dankt für die Angaben über Heinrich Falkner und bittet, weitere Käufer von englischem
+Tuch zu nennen - einzig den Zürchern und einigen Schaffhausern will er auf Kredit liefern; Christus möge es Bullinger vergelten
+und ihn in seinem Wirken unterstützen. Grüße von ihm und seiner Frau, auch an Bullingers Frau [Anna]; gerne würden sie zu Besuch kommen. [Beilage:]
+Vor Pfingsten [1540] wurden in einem Londoner Vorort [Southwark] drei Männer [als Ketzer] verbrannt, vielleicht auf Veranlassung des Bischofs von Winchester [Stephen Gardiner], der auch [William] Collins verbrennen ließ; dieser hatte ein Wallfahrtsbild angegriffen, prophetische Drohworte gegen die
+Mächtigen gerichtet und für den [1538] hingerichteten [John] Lambert Partei ergriffen. Bereits vor Johanni [24. Juni 1540] zirkulierten Gerüchte, dass sich Heinrich VIII. von Anna von Kleve trennen wolle und [Catherine Howard] den Hof mache; man hat den König oft [Catherine Howard] besuchen sehen,
+und der Kardinal von Winchester [Stephen Gardiner] hielt auch Bankette für die beiden. Hinrichtung von Thomas Cromwell und [Walter, Baron] Hungerford am 28. Juli
+[1540]; Cromwells Fall war vom König geplant und resultierte aus dessen Widerstand gegen Heinrichs beabsichtigte Scheidung von Anna von Kleve; die Cromwell erst kürzlich zugesprochenen Besitztümer wurden - wohl aus taktischen Gründen - seinem Sohn Gregory übergeben. Gott hat das falsche Vertrauen
+auf Menschen bestraft und [den Gläubigen] jene weggenommen, auf die sie ihre Hoffnung gesetzt hatten. Zur Zeit der Gefangennahme Cromwells verabschiedete das Parlament mehr als 48 Dekrete; Diskussion einiger dieser Dekrete; während die Strafen für Unzucht der Priester gegenüber den "Six Articles"
+von 1539 gemildert wurden, steht auf ihre Verheiratung weiterhin die Todestrafe.
+Das Dekret zur Scheidung von Anna von Kleve, von dem Hilles eine Übersetzung schicken will, ist auf Lügen gegründet, etwa was angebliche frühere Vorbehalte gegenüber dieser Ehe betrifft. Der Erzbischof von Canterbury [Thomas Cranmer] und die anderen Bischöfe, die auf Wunsch Heinrichs über die
+Scheidung entschieden, behaupteten gar, die Ehe wäre nie vollzogen worden, was ganz gegen Heinrichs sonstiges Verhalten wäre; auch die Amnestie für die Kritker dieser Ehe ist heuchlerisch. Mit Zustimmung des Parlaments hat der König ein neues Abgabensystem eingeführt, das Abgaben von Seiten
+des Klerus, der Bürger und des Adels verlangt; ihre Begründung mit der Befreiung vom römischen Joch ist unhaltbar, und ihre angebliche Freiwilligkeit ist vorgetäuscht. Heinrich erließ ein Generalpardon für Straftaten vor dem 1. Juli 1540 (mit Ausnahme des Hochverrats); bestimmte Personen sind davon
+ausgeschlossen, wie etwa Thomas Cromwell, die Söhne des [Henry Pole,] Lord Montague und des hingerichteten [Henry Courtenay,] Marquis von Exeter, einige Prediger und Adelige, die den König nicht als Oberhaupt der Kirche anerkennen wollen sowie Wiedertäufer und Sakramentarier, ebenso alle Leugner der
+Transsubstantiation sowie jene, die einen Einfluss des Königs auf den allein von Gott vorherbestimmten Todeszeitpunkt ausschließen. Vor dem Erlass des Generalpardons waren viele evangelische Prediger in Gefangenschaft genommen worden, auch gegen [Edward] Crome wurde ermittelt, doch dieser erreichte
+vom König, dass er die Gefangenen gegen Bürgschaft entließ; durch die Amnestie wollte der König vielleicht das Volk beruhigen, doch pflegt er auch finanziell davon zu profitieren.
+Am 30. Juli [1540] wurden die drei Priester [Thomas] Abel, [Edward] Powell und [Richard] Fetherstone wegen der Ablehnung der Suprematie hingerichtet. Das gleiche Schicksal erfuhren an diesem Tag auch die protestantischen Prediger [Robert] Barnes, [Thomas] Gerrard [Garrett] und [William] Jerome wegen
+Häresie. Ihre Hinrichtung sollte vielleicht Klerus und Pöbel bei Laune halten. Gegen die "Six Articles" hatten sie - jedenfalls seit deren Inkrafttreten - nicht verstoßen; Ausführlicheres dazu ist in einem deutschen Büchlein über Barnes' Unschuldsbeteuerungen [VD 16 B 1527-1534] zu erfahren. In der
+Folge wurden noch weitere Personen ohne ersichtlichen Grund hingerichtet, andere, wie der Bischof von Chichester [Richard Sampson] wurden begnadigt. Die Lehre des Predigers [Edward] Crome wurde zu Weihnachten 1540 öffentlich von den Katholiken um
+[Nicholas] Wilson angegriffen, und es wurde eine Disputation vereinbart. Noch vor dieser Disputation stellten Cromes Gegner eine Liste mit angeblich ketzerischen Sätzen aus dessen Predigten zusammen, die an König und Regierung geschickt wurden; Wiedergabe dieser Thesen. Crome bestand auf seiner
+Lehre, aber der König begnadigte ihn brieflich. Crome sollte
+allerdings in einer öffentlichen Predigt zur Fastenzeit [1541] seine Artikel widerrufen und das königliche Urteil verlesen. Vor Gericht hatte Crome vergeblich versucht, seine Ablehnung von Seelenmessen unter Hinweis auf die Aufhebung der Klöster durch den König zu rechtfertigen. Dieser verpflichtete
+ihn dazu, die Messen ebenso wie die Aufhebung der Klöster öffentlich gutzuheißen. Crome beschränkte sich aber darauf, das Urteil im Anschluss an seine Predigt vorzulesen, statt deren Inhalt anzupassen. Darauf verbot ihm der König das Predigen, wie er es auch im Falle des Bischofs von Salisbury,
+[Nicholas] Shaxton, und des Bischofs von Worcester, [Hugh] Latimer, getan hatte; beide sind zwar dem Todesurteil entkommen, dürfen aber nicht mehr predigen und auch nicht [Oxford, Cambridge,] London oder ihre Diözesen betreten; Hilles beklagt die Zustände in England und hofft auf Gottes Hilfe.</re>
+<tx>[Gedruckt und Übersetzung ins Englische: Brief: Epistolae Tigurinae 130-133, Nr. 104, bzw. Original Letters I 196-200, Nr. 104; Beilage: Epistolae Tigurinae 133-143, Nr. 105, bzw. Original Letters I 200-215, Nr. 105; Regest: LP XVI 270-272, Nr. 578.]
+</content>
+</letter>

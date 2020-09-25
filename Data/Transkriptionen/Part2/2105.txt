@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2105">
+<nr>2105</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Bonifacius Amerbach</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>14. März 1545</date>
+</space_time>
+<vo>Autograph: Basel UB, Ms Ki. Ar. 18a, 94r. (Siegelabdruck); ^$^$^$^$autographe Abschrift: Zürich StA, E II 346, 144v.</vo>
+<re>Obwohl Bullinger weiß, dass Amerbach die kirchlichen Streitigkeiten missfallen, übersendet er das Zürcher Bekenntnis ["Orthodoxa Tigurinae ecclesiae confessio"] gegen Luthers verurteilendes und schmähendes ["Kurtz bekentnis"]; dieses konnten [die Zürcher] nicht schweigend übergehen. Sie verteidigten dabei die Unschuld ihrer Kirchen sowie die aller vortrefflichen Menschen. Amerbach möge die Schrift lesen und sie wohlwollend aufnehmen. Grüße von [Konrad] Pellikan, [Theodor] Bibliander und von den Übrigen.</re>
+<dra>[Gedruckt: Amerbach Korr. VI 121, Nr. 2703.]</dra>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 6 (nach HB's Kopie, ebenso Schieß). ^&x{
+^&x<tx>S[alutem] d[ico]. Scio te, vir clarissime mihique multis nominibus colende, concertationibus in ecclesia Christi minime delectari.
+Nihilominus exemplum nostrae confessionis et apologiae<f1>Das Zürcher Bekenntnis gegen Luther von 1545, wohl in der lateinischen Fassung ("Orthodoxa Tigurinae ecclesiae confessio"); s. oben Nr. "2061, Anm. 9.<fe>, scriptae
+contra condemnationem et calumniasd. Mar[tini] Lutheri, tuae humanitati mitto.
+Tam atrociter ille contra vivos et mortuos debachatur scripto publico<f1>Mit seinem "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7.<fe>, ut non potuerimus id dissimulare.
+Respondimus autem illi modeste, opinor, optimorumque virorum, imprimis autem ecclesiarum, quarum ministri sumus, pariter et nostram innocentiam pro virili nostra defendimus.
+Ea si legeris legereque per negotia licuerit, rem feceris longe gratissimam.
+Benigne, queso, haec a me tui studiosissimo faventissimoque accipe. Perge studiis et pietati favere. Vale.
+^$Tiguri, 14. martii 1545.
+^$Salutant te dominus Pellicanus,d. Bibliander ac caeteri<fx>^#/+In der Abschrift:^#/- caeterique.<fe>.
+<un>Tuus ex animo Hein-­
+<un>rychus Bullingerus<fx>^#/+In der Abschrift nur:^#/- H. B.<fe>.
+<lz>[Adresse<fx>^#/+In der Abschrift als Überschrift vorangestellt.^#/-<fe> auf f. 94v.:] Clarissimo virod. d. Bonifatio Amerbachio, domino suo colendissimo. Basileae.<fx>^#/+Darunter von späterer Hand:^#/- Heinrich Bullinger.<fe>^&x{
+</content>
+</letter>

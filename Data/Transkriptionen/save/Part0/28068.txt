@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="28068">
+<nr>28068</nr>
+<correspondents>
+	<originator>...</originator>
+	<addressee>...</addressee>
+</correspondents>
+<space_time>
+	<place></place>
+	<date></date>
+</space_time>
+<vo></vo>
+<dr></dr>
+<note>keine Bullinger-Korrespondenz; Anhang zur vorigen Nr. 30.</note>
+<tx>
+Formula querelae Hieronimi B[urghi nomine duarum Ligharum . . . . . . . . . .
+. . . . .gitatae die 11a mensis ianuarii anno 1584.
+Briefe der herzogl. furstl. Durchl. von Saphoj u.
+deren Agenten bei ihm gefunden;  - bekennt mit u.
+ohne Marter  -  sollte e. Bündnis mit dems. im Land z. stande bringen.
+Auch Verehrg. v. königl. Majest. v. Frkr. hat er empfangen, damit er deren Gesandten berichte was in Savoyen gegn ihre Vereinigg. gehandlet werde.
+ Habe auch in Maild. frei Geleit gehabt v. kaiserl. Visitator, weil er weg. e. eidgenossen, der dienst suchte, dort z. verh. hatte.
+</content>
+</letter>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1567">
+<nr>1567</nr>
+<correspondents>
+	<originator>Johannes Zwick</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Konstanz</place>
+	<date>15. September 1541</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 364, 73f (Siegelspur)</vo>
+<vo>Kopie: Zürich ZB, Ms S 50, 82<fn>Erw.: Moeller, Zwick Nr. 254.</fn></vo>
+<dr>Ungedruckt</dr>
+<re>Sendet [eine Probe aus Bullingers Matthäuskommentar?] zurück und rühmt seine exegetischen Studien. Schickt auch das
+Protokoll des Gesprächs mit dem Dekan [Ruprecht von Mosham] zurück; auch in Konstanz blieb das Gespräch mit ihm fruchtlos.
+Der Tod von Bullingers Mutter [Anna, geb. Wiederkehr] ist angesichts der erlangten Seligkeit kein Grund zur Trauer.
+Glückwunsch zur Hochzeit von Rudolf Gwalther [und Regula Zwingli]. Wilhelm von Zell ist gestorben. In Überlingen und an
+andern Orten jenseits des [Boden-]Sees wütet die Pest. Der türkische [Sultan Suleiman I.] hat die Truppen König Ferdinands
+vernichtend geschlagen und all ihr Kriegsgerät erobert; man sagt, er liege bereits vor Wien; was dies - zusammen mit der Pest - bedeutet, ist leicht abzusehen. Gruß.
+</re>
+<tx>S. Exemplar operis evangelici<f1>Gemeint ist möglicherweise eine Probe aus Bullingers noch unfertigem Matthäuskommentar
+(HBBibl I 144), wie sie auch an Vadian geschickt wurde (vgl. unten Nr. 1570).<fe> hic remitto, Bullingere charissime, et
+laudamus operam istam tuam, qua communia sacrarum literarum studia tam indefesse iuvas. Iuvet te Christus suo spiritu. Amen.
+^$Remitto et exemplar collationis<fx>^#/+Vor^#/- collationis ^#/+gestrichenes^#/- a m[?].<fe> vestrae cum decano illo
+habitae,<f1>Ein Protokoll des Gesprächs der Zürcher Theologen mit Ruprecht von Mosham, der am 1. September in Zürich angekommen
+war (s. Pellikan, Chronikon 151), liegt nicht vor. Vgl. oben Nr. 1561, 2-16, sowie den Brief Gwalthers an Myconius
+vom 17. September 1541 (St. Germain Kantonsbibliothek [Vadiana], Ms 34 [VBS V], Nr. 64).<fe> et videmini quidem prudenter
+egisse cum eo. Nos hic quoque pro ratione ec­clesię nostrae humaniter illum tractavimus, sed coacti sumus eum suo ipsius iuditio relinquere.
+^$De obitu matris<f1>Bullingers Mutter Anna, geb. Wiederkehr, war am 16. August gestorben; vgl. oben Nr. 1561, 41.<fe> non
+doleo, ut libere dicam, sed gratulor potius honestissimam matronam adeptam tandem felicitatem, quam speravit.
+^$Rodolpho Gvalthero tuo, adolescenti<fx>^#/+Vor^#/- adolescenti ^#/+gestrichenes^#/- co.<fe> eruditissimo, coniugium precor et
+diuturnum et felix.<f1>Gwalther heiratete kurz nach seiner Rückkehr aus Regensburg Regula Zwingli, die er während seines
+Aufenthalts in Bullingers Haus näher kennen gelernt hatte; s. E[mil] ^#/+Egli,^#/- Regula Zwingli, die Tochter des Reformators,
+Gemahlin Rudolf Gwalthers, in: Zwa I/13, 1903, S. 324f. Zum Hochzeitsdatum s. Gwalthers Notiz im hinteren Spiegel des
+Einbandes von Zürich ZB, Ms D 2: "Regulam Zvinglii f[iliam] uxorem duxi anno Christi nati 1541 iulii 29.; nuptiae celebratae sunt 3. augusti in aedibusd. Hein. Bullingeri etc." (vgl. auch oben Nr. 1553).<fe>
+^$Unser lieber, frummer bartman<f1>bärtige Mann.<fe> jungher<f1>Junker.<fe> Wilhelm von Zell ist zuͦ unserm
+hergott; wais nit, ob ir in kennend oder nit. Also verkriechend wir uns all gmach<f1>nach und nach.<fe>.
+^$Pestis sęvit omnino Uberlingae et imperat isthic nec minus in aliis ultra lacum quibusdam locis.
+^$Turcus<f1>Sultan Suleiman I.<fe> exercitum regis Ferdinandi fere totum occidit tormentaque omnia, imo omnem thesaurum
+instrumentorum bellicorum obtinuit,<f1>Die Rede ist von der schweren Niederlage der habsburgischen Truppen vor Ofen (Buda)
+am 21. August 1541; s. ^#/+Buch­­oltz^&xBucholtz^&x{^#/-
+V 157-159.<fe> et putant quidam Wiennam certo certius obsessam.<f1>Zu den Gerüchten
+um die der Stadt Wien drohende Gefahr vgl. Vadian BW VI 75f.<fe> Regnantibus autem Pharaone et pestilentia quid futurum sit, facile coniiciendum est. Deus misereatur nostri.
+^$<vl>74</vl> Vale cum omnibus fratribus totaque domo. Salutant te Ambrosius<f1>Ambrosius Blarer.<fe> et omnes fratres. Servet te Christus.
+^$Ex Constantia, 15. septembris 1541.
+<un>Tuus Io. Zvic.
+<lz>[Adresse darunter:] Domino Hainricho Bullingero, confratri unice charo.
+</content>
+</letter>

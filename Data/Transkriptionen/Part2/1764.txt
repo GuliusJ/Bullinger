@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1764">
+<nr>1764</nr>
+<correspondents>
+	<originator>Oswald Myconius</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>27. Juli 1543</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343a, 272 (Siegelspur)</vo>
+<vo>Kopie: Ms S 53, 55</vo>
+<dr>Ungedruckt</dr>
+<re>Die Nachrichten, die er zu hören bekommt, setzen ihm zu; dass Bullinger diesbezüglich schweigt, erklärt er
+sich mit dessen Arbeit am Johanneskommentar. Näheres über die Lage [im Erzbistum Köln] wird Bullinger der Antwort Bucers
+[Nr. 1763] entnehmen können. Hält die Ankunft des Kaisers [in Deutschland] für verhängnisvoll, wenn er auch aufgrund eines
+Augenzeugenberichts daran zweifelt, ob es sich tatsächlich um Karl [V.] handelt; man sagt, dieser wolle Deutschland durch die
+Verbrennung der neugläubigen Bücher befrieden. [König Franz I.] wütet gegen seine Untertanen; davon erzählte ein junger
+Mann aus Paris, der von seinem Vater aus dem Haus geworfen wurde, weil er ein Buch von Clément Marot besaß - letzterer
+hält sich jetzt als Flüchtling in Genf auf, was auch Gwalther erfahren soll. Wundert sich, dass dieser nichts über die von
+Bullinger, [Johann Jakob] Ammann und Otto [Werdmüller] empfohlenen [Zürcher Studenten] schreibt; hat Zürich zuliebe
+zwei von ihnen [Leodegar Hirsgarter und Wolfgang Haller] bei sich aufgenommen, die übrigen [Rudolf Kopp und
+Johann Felix Renner] bei anderen untergebracht. In Schmalkalden findet erneut ein [Bundes-]Tag statt, in Frankfurt ein Städtetag. Grüße.
+</re>
+<tx>S. Nihil est, quod hoc tempore magis adficiat adfectum
+carnis, quam subinde audire, quę geruntur undique. Tu
+exundas, sed nihil scribis, id quod excuso apud me propter
+Comment[arios in] Io[annem]<f1>Bullingers Kommentar zum Johannesevangelium (HBBibl I 153) erschien im August; s. unten Nr. 1774.<fe> ideoque boni consulo.
+^$Rescripsit Bucerus; qualiter res habeat, ex eius literis<f1>Oben Nr. 1763.<fe> nimirum audies.
+^$Equidem fatalem interpretor adventum cęsaris<f1>Kaiser Karl V. war im Verlauf des Juli über Trient, Innsbruck, Ulm und
+Stuttgart nach Speyer gelangt; s. ^#/+Stälin^#/- 577.<fe>. Quamvis etiamnum dubitem, an cęsar sit; non
+quidem contendo, sed dubito. Helvetii duo<f1>Unbekannt.<fe> capti ab Hispanis inter proficiscendum in Pedemonte dicunt,
+postquam liberati, illum sedere in equuleo, virum esse bellum, pulchro pede, in totum egregium. Nihil hic, quod conveniat
+Carolo. Suspicatus sum larvam, quod tamen dicere non ausim propter Gallum<f1>König Franz I.<fe>, qui
+habet oculos et aures in regum et principum aulis omnium.<f1>Vgl. Adagia, 1, 2, 2 (LB II 69f).<fe>
+Dum tacet ergo, et ego tacere cogor. Sit autem cęsar,
+nihil boni spero Germanię. Certo sunt hęc dicta mihi
+dixisse illum pacaturum se Germaniam; omnes enim libros
+novę fidei se perempturum igni.
+^$Gallus non tam<fx>tam ^#/+über der Zeile nachgetragen.^#/-<fe> auget persequutiones contra evangel[icos] quam exactiones in
+suos. Nudiustertius fuit apud me Gallus<f1>Unbekannt.<fe> Parrhisiis e domo paterna eiectus, qui mira dixit de
+calamitatibus Gallorum. Eiectus propter scriptum Clementis Marotti<f1>Der bedeutende französische Lyriker Clément Marot,
+geb. um 1496 in Cahors (Dép. Lot) als Sohn des Hofdichters Jean Marot, stand ab ca. 1518 zunächst im Dienst der Königin
+Margareta von Navarra. 1526 wurde er wegen reformatorischer Neigungen erstmals inhaftiert. Bald darauf kam er als Nachfolger
+seines Vaters an den Hof von König Franz I., musste jedoch 1534 nach der "Affaire des placards" zu Herzogin Renata nach Ferrara
+und weiter nach Venedig fliehen. 1536 kehrte er zurück und schwor dem Protestantismus ab. Als seine französische
+Nachdichtung der Psalmen in protestantischen Kreisen viel Anklang fand, geriet er erneut in Verdacht. Nachdem
+eine Druckausgabe von der Sorbonne verboten worden war, begab er sich 1542 ins Exil, zuerst nach Genf, Ende 1543 nach
+Savoyen; 1544 starb er in Turin. Seine Psalmdichtung lebte im Genfer Psalter weiter. - Lit.: Clément ^#/+Marot,^#/-
+Œuvres po­­étiques complètes, hg. v. Gé­rard Defaux, 2 Bde., Paris 1990/1993; Gé­rard ^#/+Defaux,^#/- in: Dictionnaire des
+lettres françaises, hg. v. Georges Grente, [Bd. 2:] Le XVI^#'e siècle, neu hg. v. Michel Simonin, Paris 2001, S. 796-806;
+Andreas ^#/+Marti,^#/- in RGG^#'4 V 851.<fe> inventum in arcula sua a patre; exulat enim et Marottus Genevę, quod velim nosse
+Gvalterum<f1>Rudolf Gwalther.<fe>. De quo miror, quod ne verbum quidem fecit de adulescentibus, quos tu, Ammianus<f1>Johann Jakob Ammann.<fe> et
+Otho<f1>Otto Werdmüller.<fe> mihi commendastis<fx>^#/+Vor^#/- commendastis ^#/+ein gestrichener Wortanfang.^#/-<fe>
+literis.<f1>Entsprechende Empfehlungsschreiben liegen nicht vor. Gemeint sind die 1543 in Basel immatrikulierten Zürcher
+Studenten Leodegar Hirsgarter, Rudolf Kopp, Wolfgang Haller und Johann Felix Renner; s. Basel, Matrikel II 35, Nr. 10-13.<fe>
+Quid sit, nescio. Duo<f1>Hirsgarter und Haller; vgl. Bullinger an Myconius, 12. Februar 1544 (Zürich StA, E II 342, 115);
+Wolfgang Haller an Bullinger, 22. Februar 1544 (Zürich ZB, Ms F 62, 310).<fe> sunt apud me, reliquos locavi
+alio et quidem fideliter. Utinam sic se gerant, ut vestrę
+ecclesię sint aliquando et usui et honori! Quod equidem
+facio, propter Tigurum facio, alioqui satur convictorum.
+Videntur adulescentes hi boni; nam valde sunt modesti.
+Do­minus eos servet.
+^$Smalcaldię de novo sunt comitia,<f1>Zum schmalkaldischen Bundestag, der auf den 25. Juni ausgeschrieben worden war und an dem vor allem über das im Vorjahr eroberte Herzogtum Braunschweig verhandelt wurde, s. PC III 418-422 und Reg.; ^#/+Schlütter-Schindler^#/- 241-245.<fe> civitatum Germanię Francfordię.<f1>Zum Frankfurter Städtetag vom 8. Juli s. PC III 385 und Reg.<fe> Dominus adsit suo verbo. Amen.
+^$Vale per dominum cum tuis et Theodoro<f1>Theodor Bibliander.<fe> et Pellicano.
+^$Basileę, raptim, 27. iulii anno 1543.
+<un>Os. Myconius
+<un>tuus.
+<lz>[Adresse auf der Rückseite:] D. Heinricho
+Bullingero doctissimo, fratri in domino suo. Z[üric]h<fx>^#/+Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.^#/-<fe>.
+</content>
+</letter>

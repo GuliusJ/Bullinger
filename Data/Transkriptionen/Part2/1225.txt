@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1225">
+<nr>1225</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Joachim Vadian</addressee>
+</correspondents>
+<space_time>
+	<place>[Zürich]</place>
+	<date>15. Februar 1539</date>
+</space_time>
+<vo>Autograph: St. Germain Kantonsbibliothek (Vadiana), Ms 33 (VBS IV), Nr. 253 (Siegelabdruck)</vo>
+<re>Übermittelt Vadian durch dessen Bruder einige Bogen von "De origine erroris" - dem [ersten Buch] wird noch ein [zweites] über das Abendmahl und über die päpstliche Messe beigegeben - sowie [Sebastian Meyers] Apokalypsekommentar; zudem
+ist die Bibelübersetzung von [Sebastian] Münster, der Bullinger eine Vorrede voranstellen wird, gedruckt.
+</re>
+<tx>[Gedruckt: Vadian BW V 536, Nr. 1042.]
+</content>
+</letter>

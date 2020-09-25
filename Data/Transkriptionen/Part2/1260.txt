@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1260">
+<nr>1260</nr>
+<correspondents>
+	<originator>Rudolf Gwalther</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>Basel</place>
+	<date>26. April 1539</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 359, 2781 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Verspricht, seine väterliche Zuneigung durch Gehorsam zu erwidern. Will Adam Frey das Büchlein ["Bericht der Kranken"]
+wenn möglich persönlich überbringen. Studiert die Reden Ciceros. Johann [Wilhelm] Reiffenstein rühmt die Freundlichkeit der
+Zürcher. Dank für die Münster-Bibel. Platter hat das Werk des Walter [von Châtillon] an Gregor Mangolt weitergegeben; den
+Sedulius-Band kann Gwalther erst schicken, wenn er Oporin erreicht hat, der ihm auch den Preis von Vives' "De anima"
+nennen wird. Die Vermittlung einer Korrektorenstelle an den von Bullinger empfohlenen Engländer war nicht möglich. Reiffenstein
+bittet, die mitgeschickten Münzen zu wechseln. Grüße.
+</re>
+<tx>Gratiam et pacem a domino etc.
+^$Literas<f1>Oben Nr. 1254.<fe> meas gratas tibi fuisse, patrone charissime, gaudeo, nec parvum hoc in scribendo calcar addidit.
+Quod me de te id, quod de patre, polliceri iubes<f1>Bullingers Brief ist nicht erhalten.<fe>, gratias ingentes
+ago teque id de<fx>de ^#/+über der Zeile nachgetragen.^#/-<fe> me tibi polliceri iubeo, quod de filio; me enim
+tuę voluntati minus obedientem nunquam (si modo deus affuerit) comperies.
+^$Adamo Fry<f1>Adam Frey.<fe> libellum<f1>Bullingers "Bericht der Kranken" (HBBibl I 73); vgl. oben Nr. 1254, 12-16.<fe> nondum
+misi; mittam autem brevi, quamvis ipse, ut egomet eum adirem, cupit, quod, si licuerit, faciam, ne me sibi defuisse conquęratur.
+^$In Ciceronis orationibus maxime laboro, cum has ad
+Gręcorum Latinorumque rhetorum<fx>-um ^#/+als Korrektur über gestrichener Endung.^#/-<fe> praecepta examino et<fx>^#/+vor^#/- et
+^#/+ein gestrichenes Wort.^#/-<fe> alias ad harum exemplar conscribo.
+^$Magnam praeterea de Tigurinis humanitatem predicat Ioannes
+Ryfenstein. Gaudeo, quod et peregrino et mei amantissimo
+tantum apud vos honoris impensum<fx>^#/+in der Vorlage ^#/-impensit[?].<fe> sit.
+^$Biblia Munsteri<f1>Zu der von Gwalther erbetenen lateinischen Bibel vgl. oben Nr. 1245, 19-23; 1254, 78f.<fe> ab Ioanne Butlero accepi; tibi gratias ago pro labore pro me impenso.
+^$Quod Blatterum<f1>Thomas Platter.<fe> attinet, me illum convenisse scias<fx>^#/+vor ^#/-scias ^#/+ein gestrichener Buchstabe.^#/-<fe>; verum hic
+Gvaltheri Insulani episcopi librum<f1>Walter von Châtillon, Alexandreis (Manuskript); s. HBBW VII, S. 291, 8-13 mit Anm.
+3.<fe>
+Gregorio Mangolt tradidit. Sedulium<f1>Coelius Sedulius, Carmen paschale (Manuskript); s. HBBW VI, S. 330, 2-6 mit Anm.
+1.<fe> vero Oporinus habet, quem cum nec heri nec hodie domi deprehendere potuerim (est enim maximis
+irretitus negotiis), nunc mittere non potui; sed habebis hunc
+a me, quam primum nuntius alius datur. Tunc etiam te de
+libro Vivis De anima<f1>Juan Luis Vives, De anima et vita libri tres, Basel (Robert Winter) 1538; vgl. HBBW VIII, S. 219, 35f
+und 238, 4-9.<fe>, quantum constet, certiorem faciam; nam et hunc ab Oporino accepi.
+^$Anglo huic, de quo ante scripseras<f1>Die Formulierung läßt vermuten, daß jemand anders als der oben Z. 15 genannte John Butler gemeint sein dürfte.<fe>, conditionem nullam
+adhuc reperi nec ullam me inventurum spero; correctores enim
+sunt plurimi, qui huiusmodi inhiant conditionibus. Accedit
+his, quod ignotos et qui in typographiis exercitati nunquam
+sunt, non libenter recipiunt. Verum si duobus tantum id
+praescissem diebus, Balthazar Lasius eum recepisset; sed
+nunc Gallum quendam<f1>Unbekannt.<fe> habet.
+^$Hos nummos rogavit Ioannes Ryfenstein, ut alicui mitterem,
+qui bazones<f1>Batzen.<fe> ei pro his mitteret; nam hic hęc moneta ignota est nec permutari potest. Te rogo, ut optimo iuveni hic operam tuam praebeas.
+^$Salutabis, quaeso, nomine meo matrem<f1>Anna, geb. Wiederkehr.<fe> et uxorem<f1>Anna, geb. Adlischwyler.<fe> tuam
+cum universa familia, fratrem quoque Ioannem<f1>Johannes Bullinger.<fe>, quem<fx>^#/+vor ^#/-quem ^#/+gestrichenes
+^#/-u.<fe>, ut rescribat, num ea, quae misi<f1>Worum es sich handelte, ist nicht bekannt.<fe>, receperit, hortare.
+^$Vale bene, patrone humanissime, et me, ut cępisti, amare pergito.
+^$Basileę, ex aedibus Miconii, 26. aprilis 1539.
+<un>Tuus, ut nosti,
+<un>Rodolphus Gvaltherus.
+<lz>[Adresse auf der Rückseite:] Et docto et pio
+virod. Heinrycho Bullingero, Tigurinae ecclesiae episcopo
+vigilantissimo, patrono suo imprimis colendo. Zürich.
+</content>
+</letter>

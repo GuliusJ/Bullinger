@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1661">
+<nr>1661</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee fn=1>Schultheiß</addressee>
+	<addressee>Rat von Winterthur</addressee>
+	<note fn=1>Vgl. 1660, Anm. 1.</note>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>17. September 1542</date>
+</space_time>
+<vo>Autograph: Winterthur Stadtarchiv, AL 167/5 (Siegelspur)</vo>
+<dr>Gedruckt: Joh[ann] Conrad ^#/+Troll,^#/- Geschichte der Stadt Winterthur, nach Urkunden bearbeitet. Zweiter Theil, enthaltend die Schulgeschichte der Stadt Winterthur, Winter­­thur 1842, S. 8f</dr>
+<re>Hat bei den Verordneten des [Zürcher] Rats um die Freigabe [Christoph Rotachers] für die Schulmeisterstelle [in Winterthur] gebeten; dem Wunsch wurde stattgegeben unter der Bedingung einer eventuellen Rückberufung, sollte Zürich die Dienste [Rotachers] benötigen; Bitte um gute Aufnahme Christoph
+[Rotachers].
+</re>
+<tx>Frommen, ersammen, fürsichtigen und wysen herr
+schultheyß und günstig, lieb herren, min früntlicher
+gruͦß, williger dienst und was ich üch eeren, liebs und
+guͦts vermöchte, sye üch bevoran bereidt.
+^$Günstigen, lieben herren, üwer schryben<f1>Nr. 1660.<fe>, einen
+schuͦlmeister belangend<fx>einen schuͦlmeister belangend ^#/+am Rande
+nachgetragen.^#/-<fe>, hab ich empfangen und sins
+ynhallts wol verstanden; bin ylends für die verordneten von
+unsern g[nädigen] herren gwallthaber gekeert,<f1>Zu den sog. Verordneten zu Schule und Lehre vgl. HBBW X, S. 71, Anm. 1.<fe> und, üch ze
+wolgfallen, ouch dem jüngling<f1>Christoph Rotacher.<fe> ze guͦtem, imm umb
+guͦtwilligen urloub geworben. Der imm ouch, üch zuo eeren
+und gfallen, guͦtwillig worden, und imm ernstlich
+yngebunden<f1>eingeschärft.<fe> ist, üch trüwlich, uffrächt, redlich,
+gehorsamcklich und willicklich ze dienen, des man imm
+ouch wol vertruwt, angesähen, das er bißhar gehorsamm
+gewäsen, wol gestudiert und sich eerlich gehallten hatt.
+Doch ist imm erloupt<fx>ist imm erloupt ^#/+am Rande nachgetragen.^#/-<fe> mitt disem anhang, diewyl er in
+unser gnedigen herren kosten ufferzogen und er inen
+verpflicht, ob dann unser herren sinen nottürfftig wurdint,
+daß sy inn wol wider beruͤffen und er inen darinn gehorsamm
+sin sölle; da sy wol achtend, sömlichs<f1>solches.<fe> werde ouch üch ghein
+beschwerd sin. Sy bittend üch ouch zum früntlichisten, ir
+wöllind üch den guͦten jüngling trüwlich empfollen sin
+lassen. Sömlichs hab ich üch uff üwer früntlich schriben
+einfalticklich und underdienstlich antwurten wöllen. Bitt,
+ir wöllind es imm besten von mir uffnemmen und
+Christofflen, üwern nüwen schuͦlmeister, früntlich und
+vätterlich halten.
+^$Wo ich üch aber dienen, liebs und gfallens thuͦn kan,
+söllend ir mich alle zyt willig finden. Die gnad gottes sye
+mitt üch.
+^$Datum Zürych, des 17. septembris anno 1542.
+<un>Heinrich Bullinger, diener
+<un>der kylchen Zürych.
+<lz>[Adresse auf der Rückseite:] Den frommen, ersammen,
+fürsichtigen und wysen schultheyssen und radt ze Wintherdur,
+sinen günstigen, lieben herrenn.
+</content>
+</letter>

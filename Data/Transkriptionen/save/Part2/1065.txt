@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1065">
+<nr>1065</nr>
+<correspondents>
+	<originator>Kaspar Megander</originator>
+	<addressee>die Pfarrer</addressee>
+	<addressee>Lehrer von Zürich</addressee>
+</correspondents>
+<space_time>
+	<place>Bern</place>
+	<date>11. November 1537</date>
+</space_time>
+<vo>Autograph: Zürich StA, E II 337, 245r.-246r. (Siegelspur)</vo>
+<dr>Ungedruckt </dr>
+<re>Kann nach seiner Rückkehr [von der Zürcher Herbstsynode] den Zustand der Zürcher Kirche nur rühmen und gibt seiner
+Dankbarkeit Ausdruck. Überläßt den Zürchern das Urteil über ein Gutachten Capitos, das die Widersprüche zwischen
+dem [Ersten Helvetischen] Bekenntnis und dem Berner Synodus hinsichtlich der Sündenerkenntnis aus der Predigt des Gesetzes
+auszugleichen sucht. Hat erfahren, daß ein Anhänger Bucers dessen "Retraktationen" in deutscher Übersetzung verbreitet und
+zum Druck befördern lassen will, während ein anderer die Einführung von Bucers Katechismus betreibt. Um der neuen Gefahr
+zu wehren, soll Zürich die Verpflichtung in Erinnerung rufen,
+vor dem Eintreffen der Antwort Luthers nichts zu unternehmen; zu diesem Zweck könnten Bullinger und Theodor [Bibliander] um Anhörung durch den Berner Rat ersuchen, da ihre
+Namen bei den Gesprächen mit Capito und Bucer genannt worden sind. Hat die von Bullinger empfohlenen Engländer
+zusammen mit Erasmus [Ritter], Rhellikan und [Thomas] Grynäus empfangen, allerdings wegen Abwesenheit seiner Frau in einer
+Herberge.</re>
+<tx>Gratiam a domino.
+^$Domum reversi sumus<f1>Megander dürfte zusammen mit Rhellikan an der Zürcher Herbstsynode vom 23. Oktober teilgenommen haben (vgl. unten Nr. 1074, 27f; zum Datum der Synode: Zürich StA, E II 1, 225).<fe> auspicio haud infelici, fratres charissimi, expectacione quorundam non imodica; nescio, quid
+rerum nos allaturos sperarint. At nihil nos quam ecclesiam Tigurinam sanctam, synceram, a conscisione rixisque omnibus
+alienam atque adeo in domino bene pulchreque<fx>^#/+in der Vorlage^#/- pulhreque.<fe> pacatam et tranquillam reperisse adserimus eamque ob beneficia nobis
+exhibita ingentia comendamus et extollimus, et ne imerito quidem. Tot tantaque enim nobis officia sunt praestita
+tantaque humanitate a vobis omnibus excepti sumus, ut gratias nemo facile pares agat, ne dicam referat. Faxit deus, ut
+accepta vobis omnibus persolvamus!
+^$Primum, charissimi fratres, ut domum me recepi, Capitonis super confessionis nostrę Basiliensis ac synodi suę
+editę pugnantibus responsionem et explanacionem satis prolixam<f1>Das Gutachten Capitos konnte bisher nicht aufgefunden werden.<fe> domi reperio, qua, quę nobis de predicacione,
+poenitentia per legem aut ex lege gentibus non denuncianda pugnare videntur<f1>Während das Erste Helvetische Bekenntnis
+den Usus elenchticus legis kennt (s. BSRK 104, Art. 12), wird dieser im Berner Synodus abgelehnt; vgl. Gottfried W. ^#/+Locher,^#/- Der Berner
+Synodus als Bekenntnisschrift, in: Der Berner Synodus von 1532. Edition und Abhandlungen zum Jubiläumsjahr 1982, hg. v.
+Forschungsseminar für Reformationstheologie unter der Leitung
+von Gottfried W. Locher, Bd. II, Neukirchen-Vluyn 1988, S. 30f.<fe>, conplanare conatur. At quid hac sua
+conplanacione efficiat, vestrum est iudicare, qui et confessionem et synodum haud dubie tenetis.
+^$Preterea et hoc amico quodam fideli<f1>Unbekannt.<fe> narrante inteligo, Buceri Retractacionem lingua Germanica traditam<f1>Die
+von Bucer selbst angefertigte Übersetzung seiner "Retraktationen" ist gedruckt in BucerDS VI/1 300-388.<fe> a quodam
+supramodum Bucerano<f1>Gemeint ist vielleicht Lienhard Tremp; vgl. unten Nr. 1074, 39-41 und 117f.<fe> clam in
+angulis suęque farinę<f1>Zur Redensart vgl. Adagia, 3, 5, 44 (LB II 839).<fe> hominum conventiculis circumferri atque, quo prelis comittatur
+nostraque in urbe excudatur, strenue ac sedulo laborare machinarique. Alium<f1>Unbekannt.<fe> item, non modo
+polypragmon[em]<f1>ein betriebsamer Mensch, der sich überall einmischt.<fe>, sed polypum<f1>jemand, der hartnäckig ist oder sich verstellt; vgl. Adagia, 2, 3, 91 (LB II 519).<fe>
+ipsum, usque huc nequaquam vobis omnibus, sed brevi notus, a quo, quia niger est, cavete<f1>Vgl. Horaz, Sermones, 1, 4, 85;
+Adagia, 1, 5, 54 (LB II 202).<fe>, certo inteligo catechizmum ab
+eodem Bucero conscriptum nobis obtrudere conantem<f1>Zum Streit um den von Bucer überarbeiteten Katechismus Meganders s. unten
+Nr. 1074, 27-43 mit Anm. 10.<fe>, haud dubie, quod omnem Retractacionem complectitur. Quid ista sibi velint,
+vel stolidus et insipiens sine labore sapere potest, quamobrem ignota vobis nolui. Video certe Satanam, nisi deus
+avertat - avertet autem minime, idque ob nostram <vl>245v.</vl> ingratitudinem -, omnem synceritatem obscuritate et lucem tenebris ipsis
+confusurum ac comutaturum. Quę enim sopita et extincta videbantur, manifeste rebullulascunt ac recrudescunt, nisi
+sit, qui ebulliat, extinguat et suffocet. Et mortalium nemo certe meo iudicio est, qui hoc magis et comodius praestare
+possit, ecclesie nostrę consulere, conatus huiusmodi ac consilia ista iniqua immutare et infringere queat quam
+Tigurum, idque vel hoc nomine, quod mutuę convencionis huius nostrę, non quicquam amplius videlicet in hoc negocio
+agendum ac tentandum esse, donec ad nostra sibi transmissa respondeat Lutherus, literas nostratum domi retinetis<f1>Gemeint
+ist wohl das Schreiben Berns vom 29. November 1536 (HBBW VI, Nr. 919; s. bes. Z. 12-15).<fe>.
+Responsione itaque Capitoni et Bucero non ita pridem hac in re a nobis tradita occasionem aptissime huius nos admonendi
+et adhortandi manu tenetis<f1>Tatsächlich bezogen sich die Zürcher Theologen in ihrem Mahnschreiben vom 28. November auf das Abschlußdokument der Sondersynode vom 23. September; s. unten Nr. 1073.<fe>, ne scilicet posthac hac in re quicquam amplius tentemus, donec responsionem miserit
+Lutherus. Sine dubio est, charissimi fratres, hoc ita peracto non modo negocium domini apud nos iuvabitur, sed viris quibusdam
+eciam optimis et commodabitur et inservietur plurimum. Posset et hoc modo meo iudicio negocio domini iam­iam apud nos
+labescenti succurri, si Bullingerus et Theodorus<f1>Theodor Bibliander.<fe> fratres diem locumque purgandi se apud senatum populumque nostrum et
+peterent et rogarent, quando uterque ab altera parte in coetu nostro et nominatus et taxatus est: alter, quasi per omnia
+ipsorum senten[tiae] sit illisque astipuletur, alter vero, ut qui parum syncera et scripturę consona in epistolari
+praefatus sit<f1>Siehe oben Nr. 1045, 162-164 mit Anm. 37.<fe>. Hęc, charissimi fratres, media videntur esse nobis, quibus institutum quorundam hoc malum et meo
+iudicio non modo ecclesię nostrę, sed Tigurinę quoque in posterum perniciosum remorari et infringi posset, idque
+sine labore. Consulite <vl>246r.</vl> igitur inter vos et, quid faciendum sit, perpendatis, per Christum oro. Ego plane in hoc sum, ut,
+si ista aut alterum saltem fideliter aggressum fuerit, tentatum et molitum, non parum emolumenti et utilitatis nobis
+daturum. Comitto itaque rem vobis diligentius ac altius perpend[endam]. Non dormitat Satan. Ego profecto, quantum in me
+erit, deo dante virum praestabo, strenue reluctabor, conatibus pessimis renitar et, si fieri potest, infringam quoque.
+At quod<fx>quod ^#/+am Rande nachgetragen.^#/-<fe> viribus meis efficere humerisque perferre non possum, abiiciam necesse est.
+^$Valete diu incolumes, fratres charissimi.
+^$Bernę, novembris 11. anno 37.<un>Megand. totus vester.
+<lz>Anglos a te, Bullingere, comendatos<f1>Ein an Megander gerichtetes Empfehlungsschreiben für John Butler, Nicholas Partridge,
+Nicholas Eliott und Bartholomew Traheron ist nicht erhalten; vgl. aber oben Nr. 1060f sowie HBD 26, 25-27.<fe>
+non, quemadmodum digni erant nosque decuisset, sed quemadmodum necessitas
+tradebat ac suadebat, publico hospicio ac diversorio cena convivantes excepimus Erasmus<f1>Ritter.<fe>, Rhellicanus,
+Gryneus<f1>Thomas Grynäus, 1512-1564, von Veringen (Kr. Sigmaringen, Baden-Württemberg), war ein Neffe von Simon
+Grynäus. Ab 1526 studierte er in Heidelberg, wo er 1528 Baccalaureus wurde. 1532/33 immatrikulierte er sich in Basel. Im
+Herbst 1536 wurde er als Nachfolger Simon Sulzers Schulmeister am Berner Barfüßerkollegium, wo er Latein und Griechisch lehrte.
+Als an der Schule ein Streit über die Abendmahlslehre ausbrach, wurde er 1547 wegen seiner lutherischen Tendenz entlassen.
+Darauf kehrte er an die Universität Basel zurück, wo er 1548 zum Magister promovierte. Hier wirkte er als Professor für
+lateinische Grammatik und bis 1548 für Dialektik, dann für
+Griechisch. Von 1556 an war er Pfarrer in Rötteln
+(Lörrach, Baden-Württemberg). - Lit.: Basel, Matrikel II 2, Nr. 8; Adolf ^#/+Fluri,^#/- Die bernische Schulordnung von 1548, in: Mitteilungen der
+Gesellschaft für deutsche Erziehungs- und Schulgeschichte XI, 1901, S. 185-195 (passim); Rudolf ^#/+Thommen,^#/- Geschichte der
+Universität Basel 1532-1632, Basel 1889, S. 359; Amerbach, Korr. V 467.<fe> et ego.
+Uxor mea<f1>Regula Offenhuser, s. Wyss 31, 11-13.<fe> non erat domi nec in oppido eciam.
+^$Vale in domino.
+<lz>[Adresse auf der Rückseite:] Divini verbi ecclesię Tigurinę et praeconibus et professoribus,
+viris pietate et doctrina claris fratribusque in domino semper observandis<fx>^#/+Darunter unlesbare Reste eines über das Verschlußband geschriebenen Wortes.^#/-<fe>.
+</content>
+</letter>

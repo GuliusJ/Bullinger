@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1269">
+<nr>1269</nr>
+<correspondents>
+	<originator>Simon Grynäus</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>nach 7. Mai 1539]</date>
+	<note>Grynäus bestätigt den Erhalt eines von Vadian verfaßten Briefes; ein solcher wurde ihm am 7. Mai 1539 von Bullinger zugesandt (s. unten Z. 1 mit Anm. 2).</note>
+</space_time>
+<vo>Autograph: Zürich StA, E II 343, 180 (Siegelspur)</vo>
+<dr>Ungedruckt</dr>
+<re>Hat Vadians Brief [Nr. 894] erhalten und verspricht, ihn zurückzusenden. Empfiehlt Michael [Adam?]. Fand noch keine Zeit, um Bullingers ["De origine erroris"] zu lesen.
+</re>
+<tx>S. Vadiani epistolam<f1>Gemeint ist zweifellos Vadians christologische Abhandlung in Briefform vom September 1536 (Teildruck: HBBW
+VI, Nr. 894), die Bullinger am 7. Mai übersandt hatte; vgl. oben Nr. 1267, 3-5.<fe> accepi; curabo, ut fide
+bona restituatur tibi ac ut non sine commodo ecclesię perveniat ad quosdam.
+^$Commendo tibi hunc Michaelem<f1>Zu denken ist an Michael Adam, der Vadians Brief und Bullingers Begleitschreiben übermittelt
+hatte (vgl. oben Nr. 1267, 6-8); es könnte sich aber auch um einen Briefüberbringer handeln, der Bullinger noch unbekannt war und deshalb einer Empfehlung bedurfte.<fe>.
+^$Vale in domino Christo.
+^$Libellum<f1>Nämlich die Neubearbeitung von Bullingers "De origine erroris libri duo" (HBBibl I 12); vgl. oben Nr. 1258,
+1-4.<fe> tuum nondum legi; dominus novit, quod hactenus nullum tempus ad eam rem fuit commodum, sic
+negotia, quanquam levia et puerilia, me abripiunt<f1>Anspielung auf den Streit um die Universitätsordnung; vgl. unten Nr. 1270, 13-22.<fe>.
+^$Iterum vale et me in domino ama. Dominus Christus servet nos. Amen.
+<un>Gryneus tuus.
+<lz>[Adresse auf der Rückseite:] Bullingero suo, colendo fratri.
+</content>
+</letter>

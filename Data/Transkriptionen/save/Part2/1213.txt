@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1213">
+<nr>1213</nr>
+<correspondents>
+	<originator>Joachim Vadian</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>St. Germain</place>
+	<date>13. Januar 1539</date>
+</space_time>
+<vo>Teilkopie von Johann Jakob Wick<fx>^#/+Das verlorene Original enthielt offenbar auch Ausführungen zum Fall des Knaben Sebastian Uriel Appenzeller (s. unten Nr. 1216); vgl. auch oben Nr. 1210.^#/-<fe>: Zürich ZB, Ms F 23, 41/42 (eingelegtes Blatt)</vo>
+<dr>Ungedruckt</dr>
+<re>Schickt ein ihm von Stadtschreiber [Augustin Fechter] übermitteltes Gedicht, das in Überlingen an einer Kirchentür angeschlagen worden war.
+</re>
+<tx>Zuͦ<fx>^#/+Darüber^#/- Ex litteris d[octoris] Ioachimi Vadiani ad dominum Heyn[richum] Bullingerum.<fe>
+Überlingen hatt einer an die kilchthür einen rymen
+angeschlagen, welcher abgnommen und ussgangen ist<f1>verbreitet worden ist. - So soll auch Simprecht Vogt das Schmähgedicht im Gespräch mit dem Abt von Rheinau angeführt haben (s. Jakob ^#/+Wipf,^#/- Reformationsgeschichte der Stadt und Landschaft Schaffhausen, Zürich 1929, S. 311); vgl. auch die
+zeitgenössische handschriftliche Wiedergabe auf der letzten Seite des Werkes "In orationem dominicam saluberrimae ac sanctissimae meditationes ..." von Johannes Gast, Basel 1543, im Exemplar Zürich ZB, 5. 395.<fe>. Von dem
+hatt mir der stattschryber<f1>Augustin Fechter.<fe>des<fx>des ^#/+über der Zeile nachgetragen.^#/-<fe> ein abgschrifft von wunders
+wägen zuͦ gestelt. Lutet also:
+<lz>
+^$Ich fragen hie on allen list,
+^$worum so vil tüfel und nun<f1>nur.<fe> ein gott ist?
+^$Antwurt:
+^$Lieber fründ, nun hab gedult,
+^$es ist der münchen und pfaffen schuld.
+^$Hettend sy in allen iren mässen
+^$so vil tüfel als<f1>wie.<fe> hergott gfrässen,
+^$werind tüfel gar vertriben
+^$und iro keiner überbliben.
+<lz>Vale.
+^$Sangalli, 13. ianuarii anno 1539<fx>^#/+Darunter von anderer Hand:^#/- A.<fe>.
+</content>
+</letter>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="1136">
+<nr>1136</nr>
+<correspondents>
+	<originator>Guillaume Farel</originator>
+	<originator>Johannes Calvin</originator>
+	<addressee>Bullinger</addressee>
+</correspondents>
+<space_time>
+	<place>[Basel</place>
+	<date>ca. 6.-10. Juni 1538]</date>
+	<note>Nachdem die versuchte Rückkehr nach Genf gescheitert war, begaben sich Calvin und Farel über Bern nach Basel, wo sie am 5. oder 6. Juni angekommen sein dürften (vgl. Corr. des réformateurs V 19, Anm. 1). Den
+ausführlichen Bericht werden sie wohl erst dort geschrieben haben. Am 14. Juni hatten sie aus Zürich und Straßburg, wohin
+ein paralleles Schreiben abgegangen war, noch keine Antwort erhalten (s. ebd., S. 30). Da Bucer schon vorher von
+der Angelegenheit vernommen hatte (s. ebd.), besagt seine diesbezügliche Bemerkung vom 10. Juni (unten Nr. 1137, 73-84) nichts für die Datierung des vorliegenden Briefes.</note>
+</space_time>
+<vo>Original von unbekannter Hand<fx>^#/+Die beiden Unterschr.iften, Nachschrift, Adresse und Beilage von Calvins Hand. Mit Randbemerkungen von J. H. Hottinger.^#/-<fe>: Zürich ZB, Ms F 62, 190r.-191r. (Siegelspur); Beilage<fx>^#/+Daß das Blatt
+dem Brief beilag, wird durch die Übereinstimmung der Faltung bestätigt.^#/-<fe>: 192r.</vo>
+<dr></dr>
+<re>Berichten im Anschluß an [Nr. 1130]: [Peter] Kunz und Erasmus [Ritter] kamen erst acht Tage nach ihnen in Bern an und hatten
+wohl gehofft, sie würden ihren Plan [einer Rückkehr nach Genf] aufgeben. Als sie Kunz aufsuchten, machte ihnen
+dieser im Beisein von Sebastian [Meyer] und Ritter Vorwürfe und geriet dabei in höchsten Zorn, während sie ihm ruhig
+versicherten, sie akzeptierten ihn gemäß dem Beschluß der Zürcher Tagung [als Begleiter und Fürsprecher]. Am nächsten Tag
+ließen die Pfarrer sie zunächst warten und wollten dann zuerst ihre Artikel prüfen, die doch an der Tagung bereits gutgeheißen
+worden waren. Beim zweiten Artikel warf ihnen Kunz vor, die Verwendung von gesäuertem Brot im Abendmahl sei eine Neuerung,
+mit der sie die deutschen Kirchen in Unruhe versetzten, wobei er fast außer sich geriet; da er sogar leugnete, daß ihre Artikel
+der Tagung vorgelegen hatten, beriefen sie sich auf die Zustimmung aller Teilnehmer zu diesem Dokument, auf das sich
+Bucer als ihr Anwalt [in Zürich] bezogen hatte, und übersenden als Beleg eine Abschrift davon [Beilage]. Als Kunz bestritt, daß
+sie an der Lausanner Synode [vom 31. März 1538] in zwei von drei Punkten mit Ausnahme der Feiertagsfrage nachgegeben hatten -
+obwohl Ritter und der Ratsabgeordnete, der die Synode geleitet hatte [Hans Huber oder Ludwig Ammann], ihnen recht gaben -,
+verließen sie die Versammlung. Meyer erkundigte sich, ob auch sie ihre Nachfolger [in Genf] und die nach
+Meganders Abgang in Bern verbliebenen Pfarrer als Wölfe und falsche Propheten beurteilten; als sie die
+Fälle für nicht vergleichbar erklärten, aber in bezug auf [die Genfer] zustimmten, wollte er nichts mehr mit ihrer Sache
+zu tun haben, so daß ihnen nur Ritter blieb. Einige Tage später hörte der Rat sie an, setzte aber durch, daß
+die Gleichförmigkeit mit der Berner Kirche nicht auf ihren Artikeln, sondern auf jenem Dekret ihrer Gegner gründen
+sollte, aufgrund dessen sie hätten in die Rhone geworfen werden sollen. Zuerst beschloß der Rat, zwei Gesandte sollten ihnen
+[nach Genf] vorausgehen und ihre Wiedereinsetzung erwirken, doch bestanden sie darauf, selbst ihre Unschuld darzulegen,
+wobei auch Ritter und Viret sie begleiten sollten. Eine Meile vor der Stadt wurde ihnen der Zutritt untersagt; auf Drängen der
+Begleiter fügten sie sich, was ihnen das Leben rettete, da sie von Bewaffneten erwartet wurden. Die [Genfer] Räte wollten das
+Volk entscheiden lassen; Ludwig Ammann und Viret trugen ihre Sache mit Geschick vor, doch einer der Ratsvorsitzenden machte aufgrund ihrer Artikel Stimmung gegen sie, indem er ihnen als
+Hochmut und Herrschsucht auslegte, daß sie von "ihrer" Genfer Kirche sprachen, die Berner ohne Ehrentitel nannten und über die
+Exkommunikation handelten. Eine Anhörung wurde ihnen verweigert; damit ging der Plan von Kunz auf, der die Artikel
+Pierre Vandel zugespielt hatte und sich auch schon im Nidauer Kapitel feindlich geäußert haben soll, obwohl
+er ihnen [an der Zürcher Tagung] Unterstützung zugesagt hatte. Wie befürchtet, triumphiert Satan nun erst recht, und [in Genf]
+blüht das Laster; um sie zu stürzen, nahm Kunz dies in Kauf. Die schändliche Lebensführung und fehlende Bildung ihrer Nachfolger [Jacques Bernard, Henri de la Mare und Jean Morand]
+erregt täglich Anstoß. Wegen des Boten brechen sie ihr Schreiben hier ab; sie bitten um Vertraulichkeit.
+[Beilage:] 14 Artikel zur Frage, wie die Gleichförmigkeit der Kirchen von [Genf] und Bern zu erreichen sei.
+</re>
+<tx>[Gedruckt: Paul ^#/+Henry,^#/- Das Leben Johann Calvins des großen Reformators, Erster Bd., Hamburg 1835, Anhang S. 48-54,
+Nr. 9 (Beilage: aaO, S. 46-48, Nr. 8); CO X/2 203-209, Nr. 121 (Beilage: aaO, S. 190-192, Nr. 111); Corr. des réformateurs V
+21-30, Nr. 717 (Beilage: aaO, S. 3-6, Nr. 708); Übersetzung: ^#/+Schwarz,^#/- Calvins Lebenswerk
+I 35-39, Nr. 22 (Beilage: aaO, S. 33f, Nr. 19).]
+</content>
+</letter>

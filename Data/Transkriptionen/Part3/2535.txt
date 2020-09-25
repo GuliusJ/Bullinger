@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2535">
+<brief>
+<id>16225</id>
+<nr>2535</nr>
+<ae>Bullinger an Ambrosius Blarer</ae>
+<od>[Zürich], 14. August 1546</od>
+<vo>Autograph: St. Gallen Kantonsbibliothek (Vadiana), Ms 35 (VBS VI), 176 (Siegelabdruck)</vo>
+<dr>Zusamenfassende Übersetzung: <a>Blarer BW</a> II 490, Nr. 1330<k>Kopien 17. und 18. Jh.: Zürich ZB, MS F 43, 123v.; Ms S 61, 78 </k></dr>
+<re>Mit großer Sorge vernimmt Bullinger, dass der Chirurg Jakob Ruf zu Blarer gerufen wurde. Blarer soll gut auf sich achten und beten, was auch Bullinger für ihn tun wird.
+<t/>In seinem Zustand soll Blarer keine Briefe mehr an Bullinger schreiben. Er könnte aber durch [Jakob] Funcklin berichten, wenn es etwas Wichtiges gäbe.
+<t/>Bullinger hat Blarers letzte zwei Briefe [<qv>nr2522</qv> und <qv>nr2530</qv>] empfangen.
+<t/>Sein Lukas[kommentar] nimmt ihn sehr in Anspruch, so dass er sich bei allem anderen kurz fassen muss. Den Brief an die eidgenössischen Söldner wird er später verfassen. Wenn Blarer gleicher Meinung ist, wird Bullinger seinen Kommentar allen Bürgermeistern und dem ganzen Rat der Stadt Augsburg widmen. Er hofft, die Widmung während der nächsten Woche schreiben zu können. [Hans] Welsers Schwäche betrübt ihn sehr. Hoffentlich fängt dieser sich wieder!
+<t/>Über die Tagsatzung zu Baden wird er berichten, sobald er darüber informiert ist. Der [Schmalkaldische Krieg] beunruhigt alle. Möge Gott alles zum Guten wenden und auch Blarer wieder genesen lassen!
+<t/>Grüße an [Thomas Blarer] und [Konrad Zwick].</re>
+<text>
+<p>S. D. <zzl>zl16225-3A</zzl>Maximo cum dolore audio, frater in domino colendissime, vocari per te
+<fn>Grund war wohl der Leistenbruch Blarers (s. <qv>nr2503</qv>,<qv>zl16193-8</qv>), weniger die in <qv>nr2532</qv>,<qv>zl16223-2</qv>, erwähnten Kopfschmerzen.<zfn>fn16225-4</zfn></fn> Iacobum
+<fn>Jakob Ruf, dessen offizieller Amtstitel "steinschnider, bruchschnider" war. Bruchoperationen zählten zu seinen Spezialgebieten; s. <a>Keller, Jakob Ruf</a> I 85f.</fn>, chirurgum nostrum; unde facile coniicio non satis recte habere res tuas.<zzl>zl16225-3E</zzl> Oro dominum ex animo, nec orare desinam, ut te ecclesiae suae et nobis omnibus restituat incolumem! Charissime mi frater, curam tui ipsius habe. Nulli te periculo temere inieceris, etiam atque etiam obtestor! Consulta cum optimis diligenter, quid facto opus sit. Dominum inprimis ora. Is est animarum et corporum nostrorum medicus. Idem ille suo fidentes praesidio nunquam deserit. O felicem nuncium, qui nunciarit restitutum esse te nobis! Dominus Iesus misereatur tui et servet te!
+<fn>Bullinger sollte bald keinen Grund mehr zur Sorge haben, denn beim Eintreffen Rufs in Konstanz war Blarer bereits wieder gesund; s. <qv>nr2546</qv>,<qv>zl16233-1</qv>.</fn></p>
+<p>Porro non postulo, ut quicquam mihi scribas, etsi aegerrime tuis caream. Nolo, ut tibi morbum laboribus vel augeas vel concilies. Utinam per Funcklium
+<fn>Jakob Funcklin.</fn>, fratrem dilectum, si quid putares operae precium esse, scriberes. Sed nolo hic quoque tibi molestus esse.</p>
+<p>Ultimas tuas
+<fn><qv>nr2530</qv> vom 9. August.</fn> una cum aliis ante illas scriptis
+<fn><qv>nr2522</qv> vom 2. oder 3. August.</fn> accepi.</p>
+<p><zzl>zl16225-1A</zzl>Lucas
+<fn>Bullingers Lukaskommentar; s. <qv>nr2545</qv>, <qv>fn16211-1</qv>.</fn> meus ita me urget et sibi soli detinet affixum, ut brevior sim in omnibus. <zzl>zl16225-5A</zzl>Ne nunc quidem licet mittere epistolam militibus Helveticis scribendam
+<fn>Gemeint ist das von Blarer und Zwick vorgeschlagene Schreiben an die eidgenössischen Söldner im schmalkaldischen Heer, das in Brief <qv>nr2514</qv> vom 27. Juli skizziert wurde, und nach dem Blarer sich im Brief <qv>nr2522</qv>,<qv>zl16216-2</qv>, erneut erkundigt hatte.</fn>. Mittam alias.<zzl>zl16225-5E</zzl><zzl>zl16225-1E</zzl> <zzl>zl16225-4A</zzl>Nisi vero aliud tibi visum fuerit, consulibus et senatui Augustano Lucam meum dedicabo.<zzl>zl16225-4E</zzl> Scribam deo volente sequenti septimana praefationem.
+<fn>Die Widmung wurde schließlich doch allein an Hans Welser gerichtet. Der Grund dazu findet sich wohl in <qv>nr2534</qv>,<qv>zl16224-1</qv>. Am 24. August lag die Widmung fertig vor; s. <qv>nr2545</qv>, <qv>fn16211-1</qv>.<zfn>fn16225-1</zfn></fn> Doleo valde Welserum nostrum eam incidisse infirmitatem. Utinam revaleat rursus!
+<fn>Anspielung auf <qv>nr2530</qv>,<qv>zl16221-2</qv>.</fn></p>
+<p><zzl>zl16225-2A</zzl>A comitiis Badensibus
+<fn>Die Tagsatzung, die am 9. August begonnen hatte (s. <qv>nr2529</qv>, <qv>fn16220-3</qv>), und über die Blarer um Information gebeten hatte; s. <qv>nr2532</qv>,<qv>zl16223-3</qv>.<zfn>fn16225-2</zfn></fn> quaedam quidem habeo. Omnia autem scribam, ubi certa fide didicero omnia.<zzl>zl16225-2E</zzl> Valde solicitos tenet nos bellum Germanicum. Dominus omnia bene vertat. Is te nobis restituat incolumem.</p>
+<p>Vale, charissime mi frater, una cum clarissimis viris, fratre
+<fn>Thomas Blarer.</fn> et consobrino tuo
+<fn>Konrad Zwick.</fn>. Vale iterum atque iterum. Augusti 14. sub 8. pomeridianam 1546.</p>
+<un>Bullingerus tuus.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] Clarissimo viro d. Ambrosio Blaurero, fratri incomparabili suo. Constantiae
+<fa><i>Darunter von Blarers Hand das Empfangsdatum:</i> 23. augusti 1546.<zfn>fn16225-3</zfn></fa>.
+<fn>Dieser Brief wurde Jakob Ruf anvertraut; s. <qv>nr2546</qv>,<qv>zl16233-4</qv>. <qv>zl16233-5</qv> und <qv>fn16233-3</qv>.</fn></p>
+</text>
+</brief>

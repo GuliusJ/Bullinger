@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2107">
+<nr>2107</nr>
+<correspondents>
+	<originator>Bullinger</originator>
+	<addressee>Oswald Myconius</addressee>
+</correspondents>
+<space_time>
+	<place>Zürich</place>
+	<date>14. März 1545</date>
+</space_time>
+<vo>Autograph<fx>^#/+Mit Unterstreichung von späterer Hand.^#/-<fe>: Zürich StA, E II 342, 125 (Siegelspur mit Siegelabdruck)</vo>
+<dr>Ungedruckt</dr>
+^&xKopie 18. Jh.: Zürich ZB, Ms S 57, 3 ^&x{
+<re>Bullinger hat zwar lange nicht an Myconius geschrieben, sendet aber die ["Orthodoxa Tigurinae ecclesiae confessio"] in der von [Rudolf Gwalther] gut übersetzten lateinischen Fassung. Die deutsche Fassung ["Warhaffte Bekanntnuß"] sandte Bullinger an [Johannes] Gast. Hofft, dass Myconius auf der Seite [der Zürcher] bzw. der Wahrheit steht.
+-^#. Mehr kann Myconius dem im Namen aller [Zürcher] geschriebenen Brief Biblianders an ihn und Markus [Bertschi] entnehmen; [die Zürcher] wollen ihre Kräfte mit denen [der Basler] verbinden.
+-^#. Warum teilt Myconius nichts von seinen Werken mit? Bullinger hörte, dass er einen Katechismus ["Institutio christiana" von Johannes Oekolampad] herausgegeben habe. Wenn Bullinger sich so verhielte, würde Myconius sich zurückgesetzt fühlen.</re>
+<tx>Gratiam et pacem.
+^$Diu nihil ad te scripsi,<f1>Der letzte erhaltene Brief Bullingers an Myconius datiert vom 14. September 1544 (HBBW XIV, Nr. 1985). Doch schrieb Bullinger Myconius Ende Dezember 1544 oder Anfang Januar 1545 einen weiteren Brief; s. oben Nr. 2064, 1.<fe> chare mi Myconi, sed modo copiosius tecum colloquar per librum, quem mitto<f1>Die "Orthodoxa Tigurinae ecclesiae confessio", die lateinische Fassung (s. unten Z. 4) der Zürcher Antwort auf Luthers "Kurtz bekentnis"; s. oben Nr. 2061, Anm. 7 und 9.<fe>.
+Scio te magis delectari Latinis quam Germanicis. Ideo Latinum exemplum mitto.
+Gastio misi Germanicum<f1>Das "Warhaffte Bekanntnuß", die deutsche Fassung der Zürcher Antwort, die kurz vor dem 12. März 1545 erschienen war; s. oben Nr. 2061, Anm. 9. - Gast hatte bereits vor dem 28. Februar 1545 einige Bogen dieses Druckes erhalten; s. oben Nr. 2090, 2f. Die letzten Bogen müssten ihm ungefähr zu derselben Zeit wie der vorliegende Brief zugeschickt worden sein.<fe>, si et illud videre cupias. Sensum ubique pulchre expressit interpres<f1>Rudolf Gwalther, der die deutsche Fassung ins Lateinische übersetzte; s. oben Nr. 2096, Anm. 16; 2102.<fe>.
+Speramus te nostrum, imo veritatis futurum et esse, non improbabis nostra. Modeste, speramus, et syncere
+respondimus; sed libenter audiemus tuum iudicium.
+^$Plura enim ad te et Marcum<f1>Markus Bertschi.<fe> deditd. Bibliander omnium nostrum nomine;<f1>Bullinger bezieht sich auf Theodor Biblianders Brief an Oswald Myconius und Markus Bertschi vom 13. März 1545 (Zürich StA, E II 340, 118), der offensichtlich dieser Sendung beigelegt wurde. Darin werden Myconius und Bertschi, die "duo primarii ecclesiarum praesides", im Namen der Zürcher aufgefordert, sich Zeit zu nehmen, um deren Antwort auf Luthers Schrift zu begutachten. Ferner wird Myconius gebeten, trotz seiner Vorbehalte das Gleiche mit Biblianders "Relatio fidelis" (s. unten Nr. 2109, Anm. 10) zu tun; Oporin wird ihm davon ein Exemplar übergeben.<fe> amamus enim vos,
+et nostras copias cupimus vestris coniungere.<f1>Dementsprechend betonte auch Bibliander in seinem Brief (s. die vorige Anm.), dass es die Zürcher Kirche nicht verdiene, dass sich eine andere evangelische Kirche bzw. die Basler Kirche von ihr trenne.<fe>
+^$Qui autem fit, Myconi frater colende, ut nihil eorum, quae a te prodeunt, mihi mittas?
+Audio te vulgasse catechismum.<f1>Es handelt sich dabei um die von Myconius besorgte Übersetzung und Überarbeitung des Katechismus von Johannes Oekolampad: Institutio christiana sive catechismus puerorum reipublicae Basiliensis, Basel, Johannes Oporin, November 1544 (VD 16 O 326); s. HBBW XIV 556, Anm. 8.<fe> Si ego ita agerem, mox suggereres te minus amari et curari.<f1>Bullinger spielt auf Myconius' Vorwürfe aus dem vergangenen Jahr an; s. HBBW XIV 248, 1-5; 296, 14-16.<fe>
+Dominus sit tecum.
+^$Tiguri, 14. martii anno 1545.
+<un>Tuus Bullingerus.
+<lz>[Adresse auf der Rückseite:] Clarissimo virod. Osvaldo Myconio, fratri suo semper amando et colendo.
+</content>
+</letter>

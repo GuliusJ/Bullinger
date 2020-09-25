@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<letter id="2330">
+<brief>
+<id>16018</id>
+<nr>2330</nr>
+<ae>Ambrosius Blarer an Bullinger</ae>
+<od>[Konstanz], 9. Januar 1546</od>
+<vo>Autograph: Zürich StA, E II 357, 155 (Siegel)</vo>
+<dr>Zusammenfassende Übersetzung: <a>Blarer BW</a> II 407, Nr. 1239<k>Kopie 18. Jh.: Zürich ZB, Ms S 59, 20 </k></dr>
+<re>Blarer hat [am 7. Januar] einen Brief an Bullinger [<qv>nr2328</qv>] zusammen mit einem Brief [Georg] Frölichs [<a>HBBW</a> XV, Nr. 2313] durch die Metzger übermitteln lassen.
+<t/>Sonst gibt es keine Neuigkeiten, außer dass den Augsburgern zur [Anstellung von Johannes] Haller zu gratulieren ist, dessen vorzügliche Charaktereigenschaften die vortrefflichsten Männer rühmen. Bullinger wird Haller bestärken, damit er allfälligen Hass und Neid geduldig erträgt und sich am Lob der Besten aufrichtet.
+<t/>Das Gutachten von Luther, Philipp [Melanchthon] und [Johannes] Bugenhagen [zur Erstreckung des Schmalkaldischen Bundes] wurde noch nicht vor dem [Konstanzer] Rat verlesen; Blarer wird davon noch berichten.
+<t/>Bullinger soll für die [Konstanzer] Kirche beten. Grüße an Theodor [Bibliander], [Rudolf] Gwalther und [Konrad] Pellikan. Blarer empfiehlt [Konrad] Curio [Hofherr] und [Jakob] Metzler.
+<t/>[Konrad] Zwick lässt grüßen.</re>
+<text>
+<p>S. <zzl>zl2330-1A</zzl>Scripsi ad te,
+<fn><qv>nr2328</qv> vom 6. Januar 1546.</fn> mi venerande et charissime frater, nudius tertius
+<fn>Am 7. Januar.</fn> per lanios nostros simul et eas literas, quas L{e}tus dedit,
+<fn>Frölichs Brief an Bullinger vom 25. Dezember 1545 (<a>HBBW</a> XV, Nr. 2313).</fn> per hos misi<zzl>zl2330-1E</zzl>.</p>
+<p><zzl>zl2330-3A</zzl>Nunc nihil aliud quam vehementer gratulor Augustanis meis Hallerum nostrum
+<fn>Zur Anstellung Johannes Hallers in Augsburg s. <qv>nr2323</qv>,<qv>zl2323-2</qv>.</fn>, qui ita mihi a doctrina docendique perspicuitate, a modestia, innocentia morum et singulari pietate commendatur idque ab optimis nec vulgaris iudicii hominibus
+<fn>Unter ihnen Sixt Birck in einem Brief vom 4. Januar 1546 (<a>Blarer BW</a> II 406, Nr. 1237).</fn>, ut nec vos egregii huius dati nec Augustanos accepti p{e}nitere unquam possit.<zzl>zl2330-3E</zzl> Tu animos illi addes, ut quorundam odium et invidiam, qu{e} praeclaras virtutes perpetuo ceu umbra corpus consequuntur, infracto animo et excelso spiritu perferat ac vincat, sibique abunde satis esse ducat, si optimis et dei filiis placeat, quamquam ita omnino mihi animus iuvenis comparatus videtur, ut suapte sponte absque ullius stimulis pulchre sit perrecturus.</p>
+<p>Tam sunt iam nostri senatus molest{e} occupationes, ut nondum lectum sit Lutheri, Philippi et Pomerani consilium
+<fn>Das Gutachten von Martin Luther, Philipp Melanchthon, Johannes Bugenhagen, Kaspar Cruciger und Georg Maior zur Erstreckung des Schmalkaldischen Bundes; s. <qv>nr2328</qv>, <qv>fn2328-1</qv>. Die Verlesung vor dem Konstanzer Rat erfolgte erst am 11. Januar; s. <qv>nr2328</qv>, <qv>fn2328-2</qv>.</fn>, de quo ad te, ubi primum, quid sit, rescivero, scribam
+<fn>Blarer schrieb darüber am 27. Januar (<qv>nr2335</qv>,<qv>zl2335-1</qv>).</fn>.</p>
+<p>Bene vale, mi charissime et optime Bullingere, cum omnibus tuis. Ora pro me nostraque ecclesia dominum, ne unquam tueri ac fovere nos cesset. Saluta fratres et amicos, cumprimis Theodorum
+<fn>Theodor Bibliander.</fn>, Gvaltherum et Pellicanum. <zzl>zl2330-2A</zzl>Commendo tibi diligenter Curionem
+<fn>Konrad Hofherr.</fn> et Mezlerum
+<fn>Jakob Metzler.</fn> nostros<zzl>zl2330-2E</zzl>.
+<fn>1545 waren Hofherr und Metzler auf Empfehlung Blarers zum Studium nach Zürich gekommen, s. <a>HBBW</a> XV passim.</fn></p>
+<p>Bene vale. 9. ianuarii 1546. Salutat te seque tibi commendat Zviccius
+<fn>Konrad Zwick.</fn>.</p>
+<un>Tuus Ambr. Bl.</un>
+<lz/>
+<p>[Adresse auf der Rückseite:] D. Heinricho Bullingero, amico et fratri incomparabili.
+<fn>Dieser Brief wurde Johannes Haller auf seiner Durchreise durch Konstanz anvertraut; vgl. oben Z. <qv>zl2330-3</qv> und <a>HBBW</a> XV 692 und Anm. 1.<zfn>fn2330-1</zfn></fn></p>
+</text>
+</brief>
