@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2cb28e-bb45-42c9-b203-59c8af68dfbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/css/boxes.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/css/boxes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/css/links.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/css/links.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/js/page_scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/js/page_scroll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/account_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/account_login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/account_register.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/account_register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/file_inner.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/file_inner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview__status.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview__status.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_autocopy.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_autocopy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_autograph_x.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_autograph_x.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_autokopie.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_autokopie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_autokopie_x.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_autokopie_x.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_coordinates.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_coordinates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_copy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_copy_remarks.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_copy_remarks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_copy_x.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_copy_x.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_general.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_general.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_general_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_general_cards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_general_history.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_general_history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_languages.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_languages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_languages_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_languages_cards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_literature.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_literature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_literature_and_printed.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_literature_and_printed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_month.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_month.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_person.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_person.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_person_no_loc.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_person_no_loc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_personal_history.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_personal_history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_persons.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_persons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_place.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_place.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_places.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_places.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_printed.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_printed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_state.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_state.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_states.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_states.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_year.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_year.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/overview_years.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/overview_years.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/person_aliases.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/person_aliases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/references.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/references.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/stats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/user_status.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/user_status.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Transkriptionen/src/original0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Transkriptionen/src/original0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Transkriptionen/src/original2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Transkriptionen/src/original2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserConfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserPart2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserPart2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/db_download.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/db_download.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/BullingerDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/BullingerDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/OCR1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/OCR1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +18,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="103" column="10" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
-              <folding>
-                <element signature="e#172#206#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tools/XMLAnalyzer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1422" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Doku/setup.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -87,15 +50,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/templates/overview_printed.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
@@ -104,15 +58,6 @@
                 <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
                 <element signature="e#3890#3896#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/static/css/links.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -185,7 +130,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>{{ vars[&quot;user_stats&quot;][1] }}</find>
       <find>user-</find>
       <find>der Jün</find>
       <find>Cit</find>
@@ -215,6 +159,7 @@
       <find>(Bemerkung)</find>
       <find>/admin</find>
       <find>einges</find>
+      <find>/register</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -319,8 +264,7 @@
             <path>
               <item name="Bullingerprojekt" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bullingerprojekt" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="Tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -409,11 +353,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.2609489" side_tool="true" weight="0.15913372" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.72321427" visible="true" weight="0.26074702" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.72321427" visible="true" weight="0.26074702" />
       <window_info id="Structure" order="2" sideWeight="0.2767857" side_tool="true" weight="0.2607616" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.45640326" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.29972753" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5018248" side_tool="true" weight="0.1893733" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49913943" weight="0.32833788" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -433,16 +378,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/user_addresses.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/static/js/scroll.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/static/js/page_scroll.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
@@ -795,13 +730,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Doku/setup.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools/XMLAnalyzer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1422" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="103" column="10" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
-          <folding>
-            <element signature="e#172#206#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

@@ -13,9 +13,9 @@ from config import Config
 from flask import render_template, flash, redirect, url_for, make_response, jsonify, request, send_file
 from flask_login import current_user, login_user, logout_user, login_required
 from sqlalchemy import func, union_all, and_
-from Data.Transkriptionen.src_code.ParserConfig import ParserConfig
-from Data.Transkriptionen.src_code.ParserPart2 import ParserPart2
-from Data.Transkriptionen.src_code.ParserXML import ParserXML
+# from Data.Transkriptionen.src_code.ParserConfig import ParserConfig
+# from Data.Transkriptionen.src_code.ParserPart2 import ParserPart2
+# from Data.Transkriptionen.src_code.ParserXML import ParserXML
 from Tools.BullingerDB import BullingerDB
 from Tools.Plots import BullingerPlots
 
@@ -1128,6 +1128,7 @@ def get_persons_all():
 
 
 # Transcriptions
+"""
 @app.route('/api/convert_transcriptions', methods=['GET', 'POST'])
 def st():
 
@@ -1144,3 +1145,4 @@ def st():
     p1.tag_counter()
 
     return redirect(url_for('index'))
+"""
