@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2cb28e-bb45-42c9-b203-59c8af68dfbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/App/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/templates/stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/stats.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="45">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <element signature="e#172#206#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,15 +31,6 @@
         <entry file="file://$PROJECT_DIR$/Tools/XMLAnalyzer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1422" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doku/setup.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-            </state>
           </provider>
         </entry>
       </file>
@@ -71,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/templates/stats.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="127" column="35" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
+            <state relative-caret-position="-1194">
+              <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -217,8 +211,8 @@
         <option value="$PROJECT_DIR$/App/templates/file_inner.html" />
         <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/App/templates/base.html" />
-        <option value="$PROJECT_DIR$/App/templates/stats.html" />
         <option value="$PROJECT_DIR$/App/routes.py" />
+        <option value="$PROJECT_DIR$/App/templates/stats.html" />
       </list>
     </option>
   </component>
@@ -356,9 +350,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.2609489" side_tool="true" weight="0.15913372" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.72321427" visible="true" weight="0.26074702" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.72321427" visible="true" weight="0.26074702" />
       <window_info id="Structure" order="2" sideWeight="0.2767857" side_tool="true" weight="0.2607616" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.29972753" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.29972753" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5018248" side_tool="true" weight="0.1893733" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49913943" weight="0.32833788" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -723,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/stats.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="127" column="35" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Doku/setup.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -744,8 +731,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App/routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#172#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/templates/stats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1194">
+          <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
         </state>
       </provider>
     </entry>
