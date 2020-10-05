@@ -7,20 +7,12 @@
     / Sprachen
     {% include "user_status.html" %}
 </h1>
-
 <div class="main_box">
-
 	<div class="h2_box>">
-
-
 	<h2>Sprachen</h2>
 	<div class="h2_section">
-
 		<p>Einige der Briefe sind mehrsprachig ...</p>
-
-		<img class="parallel"
-			 src="{{url_for('static', filename='images/plots/lang_stats_'+vars['file_id']+'.png')}}"/>
-
+		<img class="parallel" src="{{url_for('static', filename='images/plots/lang_stats_'+vars['file_id']+'.png')}}"/>
 		<div class="parallel">
             <table class="js-sort-table paleBlueRows">
                 <thead class="my_table_head">
@@ -44,8 +36,7 @@
             </table>
 		</div>
 	</div>
-        <div class="clearing"></div>
-
+    <div class="clearing"></div>
 </div>
 
 {% endblock %}

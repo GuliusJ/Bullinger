@@ -4,6 +4,7 @@
 
 <h1>
     > <a class="header_link" href="{{url_for('file')}}">Kartei</a>
+    / <a class="header_link" href="{{url_for('overview_autocopy')}}">Autographen & Kopien</a>
     / {{ vars["relation"] }}
     {% include "user_status.html" %}
 </h1>
@@ -15,7 +16,7 @@
             <p>&#8594; <a class="text_link" href="{{url_for('overview_copy_remarks')}}">Bemerkungen zu Kopie A</a></p>
             <p>&#8594; <a class="text_link" href="{{url_for('overview_copy_remarks')}}">alle Bemerkungen</a></p>
             <br/>
-            <p>Treffer: {{ vars["data"] | length }}</p>
+            <p><span class="kw">Treffer:</span> {{ vars["data"] | length }}</p>
             <div class="parallel">
                 <table class="js-sort-table paleBlueRows">
                     <thead class="my_table_head">

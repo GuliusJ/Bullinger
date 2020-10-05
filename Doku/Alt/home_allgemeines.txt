@@ -1,0 +1,104 @@
+
+ALLGEMEINES
+
+3.
+------------------------------------------------------------------------------------------------------------------------
+<p>
+Vom Zürcher Reformator <a class="text_link" href="https://de.wikipedia.org/wiki/Heinrich_Bullinger">Heinrich Bullinger</a> (1504-1575)
+sind rund 12'000 Briefe überliefert, die er selbst geschrieben oder erhalten hat.
+In den vergangenen drei Jahrzehnten wurde rund ein Viertel der Briefe vom Institut für
+Schweizerische Reformationsgeschichte der Universität Zürich ediert.
+</p>
+
+<p>
+Mit dem Projekt «Bullinger digital» soll nun der gesamte Briefwechsel gescannt, digital erfasst,
+durchsuchbar und übers Internet zugänglich gemacht werden.
+Dafür kommen modernste Technologien zum Einsatz, um den zeitaufwändigen Prozess der Transkription
+und die Übersetzung der vorwiegend in Latein und Frühneuhochdeutsch verfassten Briefe auf modernes
+Deutsch zu beschleunigen.
+</p>
+
+
+
+2.
+------------------------------------------------------------------------------------------------------------------------
+<p>Vom Zürcher Reformator <a class="text_link" href="https://de.wikipedia.org/wiki/Heinrich_Bullinger">Heinrich Bullinger</a> (1504-1575) ist ein umfangreicher Briefwechsel von rund 12'000 Briefen erhalten, wobei rund 3'000 dieser Briefe bereits ediert sind. Ziel des Projektes "Bullinger digital" ist es, die übrigen Briefe digital zu erschliessen und über das Internet zugänglich zu machen.</p>
+<p>Als Grundstein für diese Erschliessung wird eine Datenbank aufgebaut, in welcher in einem ersten Schritt zu jedem Brief die wesentlichen Meta-Daten wie Absender, Empfänger, Ort und Briefsprache erfasst werden. Diese Informationen sind auf Karteikarten vorhanden und werden nun in die Datenbank überführt. Dabei gleichen Freiwillige die automatisch übertragenen Einträge mit den Informationen auf den Karteikarten ab und korrigieren und ergänzen die Datenbank-Einträge wo nötig.</p>
+<p>Inzwischen liegt ein Grossteil der Informationen korrekt in der Datenbank vor und es lassen sich bereits erste Erkenntnisse gewinnen. So haben wir beispielsweise auf einer Landkarte visualisiert, wie weit verzweigt Bullingers Netzwerk war.</p>
+<p>Wenn Sie uns bei der Korrektur helfen, gelingt es uns noch schneller, diesen Zürcher Kulturschatzes erster Güte zu erschliessen.</p>
+<p>&#8594; <a class="text_link" href="{{url_for('quick_start')}}">Ich möchte mithelfen</a></p>
+
+
+
+1.
+------------------------------------------------------------------------------------------------------------------------
+<p>
+    Der Zürcher Reformator
+    <a class="text_link" href="https://de.wikipedia.org/wiki/Heinrich_Bullinger">Heinrich Bullinger</a>
+    (1504-1575) war Mitarbeiter und Nachfolger von Zwingli und ein wichtiger Multiplikator für die Ideen
+    der Reformation in der Schweiz und in Europa. Entsprechend gross war sein Korrespondenz-Netzwerk.
+</p>
+<p>
+    Offenbar hat Bullinger schon zu seiner Zeit erkannt, wie bedeutungsvoll die Korrespondenz ist.
+    Denn er hat nicht nur die rund 10’000 Briefe aufbewahrt, die er erhalten hat, sondern sich auch
+    um die Rückgabe geschriebener Briefe bemüht. So sind auch 2'000 Briefe erhalten, die Bullinger
+    einst geschrieben hat.
+</p>
+<p>
+    Die handschriftlichen Originale liegen mehrheitlich im Staatsarchiv Zürich und in der
+    Zentralbibliothek Zürich. Ein Teil der Briefe (1524 bis 1547) ist bereits ediert. Ziel unseres
+    Projektes "Bullinger digital" ist es, die übrigen Briefe digital zu erschliessen und über das
+    Internet zugänglich zu machen. Dazu haben wir in einem ersten Schritt eine Datenbank aufgebaut,
+    in welcher zu jedem Brief die wesentlichen Meta-Daten wie Absender, Empfänger, Ort und
+    Briefsprache erfasst werden. Bisher waren diese Informationen nur auf Papier vorhanden. Da bei
+    der automatischen Übertragung dieser Informationen Fehler passieren, sind wir für die Korrektur
+    auf die Mitarbeit von Freiwilligen angewiesen.
+</p>
+<p class="kw">
+    Bitte helfen Sie mit, die Vollständigkeit und Korrektheit der Datenbankeinträge sicherzustellen
+    und damit den Grundstein für die Erschliessung eines Zürcher Kulturschatzes erster Güte zu
+    legen. Vielen Dank.
+</p>
+<p></p>
+<p>
+    &#8594; <a class="text_link" href="{{url_for('quick_start')}}">Ich möchte mithelfen</a>
+</p>
+
+
+DIVERSES
+------------------------------------------------------------------------------------------------------------------------
+
+Bodenmann
+---------
+
+<li>
+    <a href="mailto:bodenmann.reinhard@theol.uzh.ch">Dr. habil. Reinhard Bodenmann</a>
+    (Leiter der Heinrich Bullinger-Briefwechseledition)
+</li>
+
+
+Ansprechpersonen
+----------------
+
+<div class="textblock">
+    <p>
+        Bei inhaltlichen Fragen oder Unklarheiten beim Kontrollieren der Datenbank-Einträge
+        kontaktieren Sie bitte unsere
+        <a href="mailto:bullinger-digital@protonmail.com">Projektkoordinatorin</a>,
+        bei technischen Fragen zum Korrektur-System den
+        <a href="mailto:bernard.schroffenegger@uzh.ch">Admin</a>.
+        Für allgemeine Bemerkungen und Hinweise steht auch ein
+        <a href="/Kommentare">Gästebuch</a>
+        zur Verfügung.
+    </p>
+</div>
+
+Seitenaufrufe
+-------------
+
+<div class="page_views">
+    Seitenaufruf
+    #{{ vars["num_page_visits"] }}
+    seit dem {{ vars["since"] }}
+    ({{ vars["date"] }})
+</div>

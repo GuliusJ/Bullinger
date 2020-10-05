@@ -4,17 +4,15 @@
 
 <h1>
     > <a class="header_link" href="{{url_for('file')}}">Kartei</a>
+    / <a class="header_link" href="{{url_for('overview_literature_and_printed')}}">Literatur & Gedruckt</a>
     / Literatur
     {% include "user_status.html" %}
 </h1>
-
 <div class="main_box">
 	<div class="h2_box>">
         <h2>Literatur</h2>
         <div class="h2_section">
-
-            <p>Treffer: {{ vars["data"] | length }}</p>
-
+            <p><span class="kw">Treffer:</span> {{ vars["data"] | length }}</p>
             <div class="parallel">
                 <table class="js-sort-table paleBlueRows">
                     <thead class="my_table_head">

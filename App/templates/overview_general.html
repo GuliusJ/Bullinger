@@ -4,7 +4,7 @@
 
 <h1>
 	> <a class="header_link" href="{{url_for('file')}}">Kartei</a>
-	/ <a class="header_link" href="{{url_for( vars['url_back'] )|safe}}\">Personen</a>
+	/ <a class="header_link" href="{{url_for( vars['url_back'] )|safe}}">Personen</a>
 	/ {{ vars["value"] }}
 	{% include "user_status.html" %}
 </h1>
@@ -14,7 +14,7 @@
 		<div class="h2_section">
 			<p>&#8594; <a class="text_link" href="{{url_for('locations_map')}}">Landkarte</a></p>
 			<br>
-			<p> Treffer: {{ vars["table"] | length }} </p>
+			<p><span class="kw">Treffer:</span> {{ vars["table"] | length }} </p>
 			<table class="js-sort-table paleBlueRows">
 				<thead class="my_table_head">
 					<tr class="my_table_head_row">

@@ -1,0 +1,26 @@
+- Projekt abschliessen (patrizia, matrin, ich, rechsteiner, steiniger)
+- pdf von Patriziaq aufschalten
+- Statistiken einfrieren
+- Suchinterface immplementieren
+
+Prioritätenliste:
+1. Website schliessen; Editiermodus schliessen für die Öffentlichkeit
+2. Prototyp Suchfenster
+3. Verweiskarten/Rückseiten zuordnen
+    - welche Verweiskarten haben wir? häkchen gesetzt oder im bemerkungsfeld
+    - liste aller hinweiskarten, verweiskarte
+    - tabelle aller verweiskarten
+    - für jede hauptkarte mögliche verweiskarten listen
+    - checkboxen, um verweiskarte zuzuordnen
+    - interface für verweiskarten, damit man haupt und verwieskarten vergleichen kann
+    - per klick karten anzeigen; zurück ok weiter
+    - Karteikaren als "privat" markieren können
+    - zweites Bemerkungsfeld, privat
+4. Mehrfachcabsender und Empfänger auflösen
+    - inkl. Funnktionsbezeichnungen und gRuppenbezeichnungen
+5. Personen/Orts-Aliasse
+    - Tabellen für aliasse
+
+am 12.10.2020 - 14.30 Kaffeteria Irchel
+
+

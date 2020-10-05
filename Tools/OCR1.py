@@ -95,3 +95,94 @@ class TextPositionParser1(ContentHandler):
             return counter.data
         except (AttributeError, TypeError):
             print("Warning: TP-parser failed on", path)
+
+
+"""
+import os
+from Tools.BullingerData import BullingerData
+
+class InvalidAndUnclearCards():
+
+    @app.route('/api/ocr_data_ug_uk', methods=['GET', 'POST'])
+    def ocr_data_ug_uk():
+        qug = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        q = db.session.query(
+            qug.c.id_brief,
+            qug.c.status
+        ).filter(qug.c.status == "ungültig")
+
+        id_ungueltig = [r[0] for r in q]
+
+        qug = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        q = db.session.query(
+            qug.c.id_brief,
+            qug.c.status
+        ).filter(qug.c.status == "unklar")
+
+        id_unklar = [r[0] for r in q]
+
+        root_ug = "Data/Karteikarten/OCR_new/"
+        tar_ug = "Data/Karteikarten/Patricia/invalid/src/"
+        tar_uk = "Data/Karteikarten/Patricia/unclear/src/"
+
+        for i in id_ungueltig:
+            id = format(i, '05d')
+            p_in = root_ug + "HBBW_Karteikarte_" + str(id) + ".ocr"
+            p_out = tar_ug + "HBBW_Karteikarte_" + str(id) + ".ocr"
+            try:
+                with open(p_in) as f:
+                    s = "".join([line for line in f if line.strip()])
+                with open(p_out, 'w') as f:
+                    f.write(s)
+            except:
+                print("Warning", p_in)
+
+        for i in id_unklar:
+            id = format(i, '05d')
+            p_in = root_ug + "HBBW_Karteikarte_" + str(id) + ".ocr"
+            p_out = tar_uk + "HBBW_Karteikarte_" + str(id) + ".ocr"
+            try:
+                with open(p_in) as f:
+                    s = "".join([line for line in f if line.strip()])
+                with open(p_out, 'w') as f:
+                    f.write(s)
+            except:
+                print("Warning", p_in)
+
+        tar_ug2 = "Data/Karteikarten/Patricia/invalid/"
+        tar_uk2 = "Data/Karteikarten/Patricia/unclear/"
+
+        for fn in os.listdir(tar_ug):
+            data, out = dict(), ''
+            if fn != ".DS_Store":
+                p = tar_ug + fn
+                p_out = tar_ug2 + fn[:-3] + "txt"
+                d = BullingerData.get_data_basic(p)
+                for i, r in d.iterrows():
+                    if r['y'] not in data:
+                        data[r['y']] = [(r['x'], r['Value'])]
+                    else:
+                        data[r['y']].append((r['x'], r['Value']))
+                for key, value in sorted(data.items(), key=lambda x: x[0]):
+                    ds = sorted(value, key=lambda tup: tup[0])
+                    out += ' '.join([x[1] for x in ds]) + "\n"
+                with open(p_out, 'w') as f:
+                    f.write(out)
+
+        for fn in os.listdir(tar_uk):
+            data, out = dict(), ''
+            if fn != ".DS_Store":
+                p = tar_uk + fn
+                p_out = tar_uk2 + fn[:-3] + "txt"
+                d = BullingerData.get_data_basic(p)
+                for i, r in d.iterrows():
+                    if r['y'] not in data:
+                        data[r['y']] = [(r['x'], r['Value'])]
+                    else:
+                        data[r['y']].append((r['x'], r['Value']))
+                for key, value in sorted(data.items(), key=lambda x: x[0]):
+                    ds = sorted(value, key=lambda tup: tup[0])
+                    out += ' '.join([x[1] for x in ds]) + "\n"
+                with open(p_out, 'w') as f:
+                    f.write(out)
+"""

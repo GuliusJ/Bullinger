@@ -8,16 +8,11 @@
     / {% if (vars["place"]|length > 0) and (vars["place"][0]|length > 0) %} {{ vars["place"][0][1] }} {% endif %}
     {% include "user_status.html" %}
 </h1>
-
 <div class="main_box">
-
 	<div class="h2_box>">
-
         <h2>Ortschaften</h2>
         <div class="h2_section">
-
-            <p>Treffer: {{ vars["place"] | length }}</p>
-
+            <p><span class="kw">Treffer:</span> {{ vars["place"] | length }}</p>
             <div class="parallel">
                 <table class="js-sort-table paleBlueRows">
                     <thead class="my_table_head">

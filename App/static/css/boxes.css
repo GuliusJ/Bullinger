@@ -63,10 +63,8 @@
     height: auto;
 }
 
-.intro_left { width: 18%; }
-.intro_right {
-    width: 82%;
-}
+.intro_left { width: 10%; }
+.intro_right { width: 90%; }
 
 .intro_text {
     margin: 0px 15px;

@@ -8,16 +8,11 @@
     / {{ vars["standort"] }}
     {% include "user_status.html" %}
 </h1>
-
 <div class="main_box">
-
 	<div class="h2_box>">
-
 	<h2>{{ vars["standort"] }}</h2>
 	<div class="h2_section">
-
-		<p>Treffer: {{ vars["data"] | length }}</p>
-
+        <p><span class="kw">Treffer:</span> {{ vars["data"] | length }}</p>
 		<div class="parallel">
             <table class="js-sort-table paleBlueRows">
                 <thead class="my_table_head">
@@ -47,7 +42,6 @@
 	</div>
     </div>
     <div class="clearing"></div>
-
 </div>
 
 {% endblock %}

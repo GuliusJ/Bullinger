@@ -3,15 +3,14 @@
 # BullingerDB.py
 # Bernard Schroffenegger
 # 30th of November, 2019
-from collections import defaultdict
 
 from Tools.Dictionaries import CountDict
 from Tools.Plots import *
 from App.models import *
-from sqlalchemy import asc, desc, func, and_, or_, literal, union_all, union
+from sqlalchemy import asc, desc, func, and_, or_, literal, union_all
 from operator import itemgetter
 from random import sample, randrange
-from matplotlib.ticker import MaxNLocator
+
 import os, time
 import numpy as np
 import matplotlib
@@ -20,8 +19,6 @@ import matplotlib.colors as pltc
 
 all_colors = [k for k, v in pltc.cnames.items()]
 matplotlib.use('agg')
-
-ADMIN = 'Admin'  # username (setup)
 
 
 class BullingerDB:
@@ -85,7 +82,7 @@ class BullingerDB:
                 self.add_lang(card_nr)
             else:
                 print("*** WARNING, file ignored:", path)
-                self.push2db(Datum(), card_nr, ADMIN, self.t)
+                self.push2db(Datum(), card_nr, Config.ADMIN, self.t)
                 num_ignored_cards += 1
                 ignored_card_ids.append(card_nr)
             card_nr += 1
@@ -276,7 +273,7 @@ class BullingerDB:
         self.dbs.commit()
 
     def add_bullinger(self):
-        self.dbs.add(Person(name="Bullinger", forename="Heinrich", place="Zürich", user=ADMIN, time=self.t))
+        self.dbs.add(Person(name="Bullinger", forename="Heinrich", place="Zürich", user=Config.ADMIN, time=self.t))
         self.dbs.commit()
         return Person.query.filter_by(name="Bullinger", vorname="Heinrich", ort="Zürich").first().id
 
@@ -284,12 +281,12 @@ class BullingerDB:
         zeros = (5 - len(str(i))) * '0'
         pdf = os.path.join("Karteikarten/PDF", "HBBW_Karteikarte_" + zeros + str(i) + ".pdf")
         ocr = os.path.join("Karteikarten/OCR", "HBBW_Karteikarte_" + zeros + str(i) + ".ocr")
-        self.dbs.add(Kartei(id_brief=i, path_pdf=pdf, path_ocr=ocr, user=ADMIN, time=self.t))
+        self.dbs.add(Kartei(id_brief=i, path_pdf=pdf, path_ocr=ocr, user=Config.ADMIN, time=self.t))
         self.dbs.commit()
 
     def remove_user(self, username):
         """ delete a user and all its changes. keeps the admin account """
-        if username != ADMIN:
+        if username != Config.ADMIN:
             for t in [Kartei, Person, Datum, Absender, Empfaenger, Autograph, Kopie, Sprache, Literatur, Gedruckt,
                       Bemerkung, Notiz]:
                 self.dbs.query(t).filter_by(anwender=username).delete()
@@ -306,7 +303,7 @@ class BullingerDB:
     def add_date(self, card_nr):
         y, m, d = self.bd.get_date()
         date = Datum(year_a=y, month_a=m, day_a=d)
-        self.push2db(date, card_nr, ADMIN, self.t)
+        self.push2db(date, card_nr, Config.ADMIN, self.t)
 
     @staticmethod
     def name_correction(card_nr, nn, vn, precision):
@@ -364,45 +361,45 @@ class BullingerDB:
             nn, vn, ort, bem = self.bd.get_receiver()
             nn, vn = BullingerDB.name_correction(card_nr, nn, vn, precision_names)
             ort = BullingerDB.location_correction(card_nr, ort, precision_loc)
-            self.push2db(Absender(id_person=id_bullinger), card_nr, ADMIN, self.t)
+            self.push2db(Absender(id_person=id_bullinger), card_nr, Config.ADMIN, self.t)
             p = Person.query.filter_by(name=nn, vorname=vn, ort=ort).first()
-            if not p: self.push2db(Person(name=nn, forename=vn, place=ort), card_nr, ADMIN, self.t)
+            if not p: self.push2db(Person(name=nn, forename=vn, place=ort), card_nr, Config.ADMIN, self.t)
             p_id = Person.query.filter_by(name=nn, vorname=vn, ort=ort).first().id  # p.id is None (!)
-            self.push2db(Empfaenger(id_brief=card_nr, id_person=p_id, remark=bem), card_nr, ADMIN, self.t)
+            self.push2db(Empfaenger(id_brief=card_nr, id_person=p_id, remark=bem), card_nr, Config.ADMIN, self.t)
         else:
-            self.push2db(Empfaenger(id_brief=card_nr, id_person=id_bullinger), card_nr, ADMIN, self.t)
+            self.push2db(Empfaenger(id_brief=card_nr, id_person=id_bullinger), card_nr, Config.ADMIN, self.t)
             nn, vn, ort, bem = self.bd.get_sender()
             nn, vn = BullingerDB.name_correction(card_nr, nn, vn, precision_names)
             ort = BullingerDB.location_correction(card_nr, ort, precision_loc)
             p = Person.query.filter_by(name=nn, vorname=vn, ort=ort).first()
-            if not p: self.push2db(Person(name=nn, forename=vn, place=ort), card_nr, ADMIN, self.t)
+            if not p: self.push2db(Person(name=nn, forename=vn, place=ort), card_nr, Config.ADMIN, self.t)
             p_id = Person.query.filter_by(name=nn, vorname=vn, ort=ort).first().id
-            self.push2db(Absender(id_brief=card_nr, id_person=p_id, remark=bem), card_nr, ADMIN, self.t)
+            self.push2db(Absender(id_brief=card_nr, id_person=p_id, remark=bem), card_nr, Config.ADMIN, self.t)
 
     def add_autograph(self, card_nr):
         place, signature, remark = self.bd.get_autograph()
-        self.push2db(Autograph(location=place, signature=signature, remark=remark), card_nr, ADMIN, self.t)
+        self.push2db(Autograph(location=place, signature=signature, remark=remark), card_nr, Config.ADMIN, self.t)
 
     def add_copy(self, card_nr):
         place, signature, remark = self.bd.get_copy()
-        self.push2db(Kopie(location=place, signature=signature, remark=remark), card_nr, ADMIN, self.t)
+        self.push2db(Kopie(location=place, signature=signature, remark=remark), card_nr, Config.ADMIN, self.t)
 
     def add_literature(self, card_nr):
-        self.push2db(Literatur(literature=self.bd.get_literature()), card_nr, ADMIN, self.t)
+        self.push2db(Literatur(literature=self.bd.get_literature()), card_nr, Config.ADMIN, self.t)
 
     def add_printed(self, card_nr):
-        self.push2db(Gedruckt(printed=self.bd.get_printed()), card_nr, ADMIN, self.t)
+        self.push2db(Gedruckt(printed=self.bd.get_printed()), card_nr, Config.ADMIN, self.t)
 
     def add_lang(self, card_nr):
-        for lang in self.bd.get_sprache(): self.push2db(Sprache(language=lang), card_nr, ADMIN, self.t)
-        if not len(self.bd.get_sprache()): self.push2db(Sprache(language=None), card_nr, ADMIN, self.t)
+        for lang in self.bd.get_sprache(): self.push2db(Sprache(language=lang), card_nr, Config.ADMIN, self.t)
+        if not len(self.bd.get_sprache()): self.push2db(Sprache(language=None), card_nr, Config.ADMIN, self.t)
 
     def add_remark(self, card_nr):
-        self.push2db(Bemerkung(remark=self.bd.get_bemerkung()), card_nr, ADMIN, self.t)
+        self.push2db(Bemerkung(remark=self.bd.get_bemerkung()), card_nr, Config.ADMIN, self.t)
 
     @staticmethod
     def track(username, url, t):
-        if username != ADMIN:
+        if username != Config.ADMIN:
             db.session.add(Tracker(username=username, time=t, url=url))
             db.session.commit()
 
@@ -489,7 +486,7 @@ class BullingerDB:
         new_file.link_tag = data["card"]["date_linked"]["day"] if data["card"]["date_linked"]["day"] else None
         new_file.pfad_OCR = file_old.pfad_OCR
         new_file.pfad_PDF = file_old.pfad_PDF
-        return (new_file, n) # if n > 0 else (None, 0)
+        return new_file, n  # if n > 0 else (None, 0)
 
     def save_autograph(self, i, d, user, t):
         autograph_old, n = Autograph.query.filter_by(id_brief=i).order_by(desc(Autograph.zeit)).first(), 0
@@ -711,7 +708,7 @@ class BullingerDB:
             datum, zeit = re.sub(r'\.\d*', '', r.zeit).split(' ')
             if r.anwender == "Gast":
                 u = "Gast"
-            elif r.anwender == ADMIN:
+            elif r.anwender == Config.ADMIN:
                 u = "Admin"
             elif r.anwender == user_name:
                 u = user_name
@@ -1281,7 +1278,6 @@ class BullingerDB:
                  d[4] if d[4] else 0,
                  d[5] if d[5] else 0] for d in dat if d[0]]
 
-
     @staticmethod
     def get_data_overview_copy_remarks():
         rel_a, rel_b = BullingerDB.get_most_recent_only(db.session, Kopie).subquery(),\
@@ -1365,7 +1361,6 @@ class BullingerDB:
             sq_c.c.standort.label("standort"),
             func.count(sq_c.c.standort).label("count")
         ).group_by(sq_c.c.standort).subquery()
-
         # Status
         file = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
         a = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
@@ -1385,7 +1380,6 @@ class BullingerDB:
          .filter(file.c.status == status)\
          .group_by(qis.c.standort, file.c.status).subquery()
         abg, off, unk, ung = dat("abgeschlossen"), dat("offen"), dat("unklar"), dat("ungültig")
-
         # all
         data, cq = \
             db.session.query(
@@ -1418,11 +1412,15 @@ class BullingerDB:
                  .outerjoin(ung, ung.c.standort == s.c.standort)\
                  .outerjoin(abg, abg.c.standort == s.c.standort)\
                  .order_by(desc(sq_a.c.count)).first()
-
         c = dict()
         c["standorte"], c["autographen"], c["kopien"], c["offen"], c["unklar"], c["ungültig"], c["abgeschlossen"] = \
-            cq[0], cq[1], cq[2], cq[3], cq[4], cq[5], cq[6]
-
+            cq[0] if cq[0] else 0,\
+            cq[1] if cq[1] else 0,\
+            cq[2] if cq[2] else 0,\
+            cq[3] if cq[3] else 0,\
+            cq[4] if cq[4] else 0,\
+            cq[5] if cq[5] else 0,\
+            cq[6] if cq[6] else 0
         return [[d[0],  # standort
                  d[1] if d[1] else 0,  # autographen
                  d[2] if d[2] else 0,  # kopien
@@ -2464,3 +2462,64 @@ class BullingerDB:
             data[r[0]]["location"] = r[7] if r[7] else Config.SN,
             data[r[0]]["is_sender"] = True if r[8] else False
         return data
+
+    @staticmethod
+    def add_new_portraits():
+        for p in db.session.query(Person):
+            if p.name == "Bibliander": p.photo = "/static/images/Portraits_Corr/Bibliander.JPG"
+            if p.name == "Blarer": p.photo = "/static/images/Portraits_Corr/Blarer.JPG"
+            if p.name == "Fries": p.photo = "/static/images/Portraits_Corr/Fries.JPG"
+            if p.name == "Grynaeues": p.photo = "/static/images/Portraits_Corr/Grynaeues.JPG"
+            if p.name == "Gwalther": p.photo = "/static/images/Portraits_Corr/Gwalther.jpg"
+            if p.name == "Kilchmeyer": p.photo = "/static/images/Portraits_Corr/Kilchmeyer.jpg"
+            if p.name == "Myconius": p.photo = "/static/images/Portraits_Corr/Myconius.jpg"
+        db.session.commit()
+
+    @staticmethod
+    def get_places():
+        recent_index, recent_sender, recent_receiver = \
+            BullingerDB.get_most_recent_only(db.session, Kartei).subquery(), \
+            BullingerDB.get_most_recent_only(db.session, Absender).subquery(), \
+            BullingerDB.get_most_recent_only(db.session, Empfaenger).subquery()
+        pers = db.session.query(Person.id.label("id"), Person.ort.label("place")).subquery()
+        qa = db.session.query(
+            recent_index.c.id_brief.label("id"),
+            pers.c.place.label("place")
+        ).outerjoin(recent_sender, recent_index.c.id_brief == recent_sender.c.id_brief) \
+            .outerjoin(pers, pers.c.id == recent_sender.c.id_person).subquery()
+        qe = db.session.query(
+            recent_index.c.id_brief.label("id"),
+            pers.c.place.label("place")
+        ).outerjoin(recent_receiver, recent_index.c.id_brief == recent_receiver.c.id_brief) \
+            .outerjoin(pers, pers.c.id == recent_receiver.c.id_person).subquery()
+        fqa = db.session.query(
+            qa.c.place.label("place"),
+            func.count(qa.c.place).label("count")
+        ).group_by(qa.c.place)
+        fqe = db.session.query(
+            qe.c.place.label("place"),
+            func.count(qe.c.place).label("count")
+        ).group_by(qe.c.place)
+        fa = fqa.subquery()
+        fe = fqe.subquery()
+        sq = union_all(fqa, fqe).alias("all")
+        q = db.session.query(
+            sq.c.place.label("place"),
+            func.sum(sq.c.count).label("count")
+        ).group_by(sq.c.place).order_by(desc(func.sum(sq.c.count))).subquery()  # 764
+        p = db.session.query(
+            Ortschaften.ort.label("ort"),
+            Ortschaften.laenge.label("l"),
+            Ortschaften.breite.label("b"),
+            Ortschaften.status.label("status")
+        ).filter(Ortschaften.status == 1).subquery()
+        s = db.session.query(
+            q.c.place.label("place"),  # 0
+            fe.c.count.label("em"),  # 1
+            fa.c.count.label("abs"),  # 2
+            p.c.l,
+            p.c.b
+        ).outerjoin(fa, fa.c.place == q.c.place)\
+            .outerjoin(fe, fe.c.place == q.c.place)\
+            .outerjoin(p, p.c.ort == q.c.place)
+        return s

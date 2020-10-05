@@ -12,8 +12,7 @@
 	<div class="h2_box">
 		<h2>Jahresübersicht {{ vars["year"] }}</h2>
 		<div class="h2_section">
-			<p>Mit der Auswahl eines Monats erhalten Sie Zugriff auf die zugehörigen Karteikarten:</p>
-			{% include "elem_quickstart.html" %}
+			<p><span class="kw">Treffer:</span> {{ vars["table"] | length }}</p>
 			<table class="js-sort-table paleBlueRows">
 				<thead class="my_table_head">
 					<tr class="my_table_head_row">
@@ -51,11 +50,7 @@
 					</thead>
 				</tbody>
 			</table>
-
-			<p>Treffer: {{ vars["table"] | length }}</p>
-
 			<img alt="Bullingers Korrespondenz (Jahr {{ vars['year'] }})" src="{{url_for('static', filename='images/plots/correspondence_'+vars['file_id']+'.png')}}"/>
-
 		</div>
 	</div>
 	<div class="h2_box">

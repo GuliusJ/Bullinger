@@ -8,24 +8,18 @@
     / Alias
 	{% include "user_status.html" %}
 </h1>
-
 <div class="main_box">
-
 	<div class="h2_box>">
-
 		<h2>Namen und Aliasse</h2>
 		<div class="h2_section">
-
             <p> Die folgende Tabelle enthält Namensentsprechungen aus den Karteikarten zu den Briefen von und an
                 Heinrich Bullinger. Die Tabelle dient uns dazu, Schreiber eindeutig zu identifizieren, die mit
                 unterschiedlichen Namensvarianten in der Datenbank vorkommen.
             </p>
-            <br>
+            <br/>
             <p class="kw">Namensvarianten erfassen:</p>
-
             <form action="" method="post">
                 {{ form.hidden_tag() }}
-
                 <div class="p_container">
                   <div class="p_inner">
                     <div class="p_child">
@@ -76,9 +70,7 @@
                 </div>
 
             </form>
-
-            <br>
-
+            <br/>
             <table class="js-sort-table paleBlueRows">
 				<thead class="my_table_head">
 					<tr class="my_table_head_row">
@@ -123,10 +115,8 @@
                 {% endfor %}
             {% endfor %}
 			</table>
-
 		</div>
 	</div>
-
 </div>
 
 {% endblock %}

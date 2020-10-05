@@ -106,6 +106,10 @@ class ParserConfig:
 
 # replacements
     RE_SUB = [
+        ('[f1]', '<f1>'),
+        ('[fe]', '<fe>'),
+        ('[un]', '<un>'),
+        ('[/un]', '</un>'),
         ('<dr>\s*</?dr>', '<dr></dr>'),
         ('<re>\s*</?re>', '<re></re>'),
         (r'<>', ''),

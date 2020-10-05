@@ -1,45 +1,54 @@
 {% block content %}
 
 <div class="h2_box>">
-    <h2>Kartei {% include "title_navigation.html" %}</h2>
+    <h2>Metainformationen zum Briefwechsel {% include "title_navigation.html" %}</h2>
     <div class="h2_section">
         <p> Tabellarische Übersichten:</p>
         <ul>
-            <li><a href="{{url_for('overview')}}">Datum</a></li>
+            <li><a class="text_link" href="{{url_for('overview')}}">Datum</a></li>
             <li>
-                <a href="{{url_for('overview_persons')}}">Personen</a> (Name, Vorname, Ort)
+                <a class="text_link" href="{{url_for('overview_persons')}}">Personen</a> (Name, Vorname, Ort)
                 <ul class="items">
-                    <li><a href="{{url_for('correspondents')}}">nur Namen</a></li>
-                    <li><a href="{{url_for('alias')}}">Aliasse</a></li>
+                    {% if vars["is_vip"] %}
+                    <li><a class="text_link" href="{{url_for('alias')}}">Aliasse</a></li>
+                    {% endif %}
                 </ul>
             </li>
             <li>
-                <a href="{{url_for('places')}}">Ortschaften</a>
-            </li>
-            <li><a href="{{url_for('overview_autocopy')}}">Autographen & Kopien</a>
+                <a class="text_link" href="{{url_for('places')}}">Ortschaften</a>
                 <ul class="items">
-                    <li><a href="{{url_for('overview_autograph')}}">Autographen</a></li>
-                    <li><a href="{{url_for('overview_copy')}}">Kopien</a></li>
+                    <li><a class="text_link" href="{{url_for('locations_map')}}">Landkarte</a></li>
+                    {% if vars["is_vip"] %}
+                    <li><a class="text_link" href="{{url_for('coordinates')}}">Koordinaten erfassen</a></li>
+                    {% endif %}
+                </ul>
+            </li>
+            <li><a class="text_link" href="{{url_for('overview_autocopy')}}">Autographen & Kopien</a>
+                <ul class="items">
+                    <li><a class="text_link" href="{{url_for('overview_autograph')}}">Autographen</a></li>
+                    <li><a class="text_link" href="{{url_for('overview_copy')}}">Kopien</a></li>
                     <ul>
-                        <li><a class="text_link" href="{{url_for('overview_copy_remarks')}}">Bemerkungen</a></li>
-                        <li><a class="text_link" href="{{url_for('overview_copy_remarks_A')}}">Bemerkungen (Kopie A)</a></li>
+                        <li><a class="text_link" href="{{url_for('overview_copy_remarks')}}">Bemerkungen (alle)</a></li>
+                        <li><a class="text_link" href="{{url_for('overview_copy_remarks_A')}}">Bemerkungen (Kopie 1)</a></li>
                     </ul>
                 </ul>
             </li>
             <li>
-                <a href="{{url_for('overview_literature_and_printed')}}">Literatur & Gedruckt</a>
+                <a class="text_link" href="{{url_for('overview_literature_and_printed')}}">Literatur & Gedruckt</a>
                 <ul class="items">
-                    <li><a href="{{url_for('overview_literature')}}">Literatur</a></li>
-                    <li><a href="{{url_for('overview_printed')}}">Gedruckt</a></li>
+                    <li><a class="text_link" href="{{url_for('overview_literature')}}">Literatur</a></li>
+                    <li><a class="text_link" href="{{url_for('overview_printed')}}">Gedruckt</a></li>
+                    {% if vars["is_vip"] %}
                     <li><a class="text_link" href="{{url_for('overview_references')}}">Referenzen</a></li>
+                    {% endif %}
                 </ul>
             </li>
-            <li>
-                <a href="{{url_for('languages')}}">Sprachen</a>
-            </li>
-            <li>
-                <a href="{{url_for('overview_states')}}">Status</a>
-            </li>
+            <li><a class="text_link" href="{{url_for('languages')}}">Sprachen</a></li>
+            {% if vars["is_vip"] %}
+            <li><a class="text_link" href="{{url_for('overview_states')}}">Status</a></li>
+            {% endif %}
+            <!--
+            {% if current_user.is_authenticated %}
             <li>
                 Verlauf
                 <ul class="items">
@@ -47,20 +56,9 @@
                     <li><a class="text_link" href="{{url_for('general_history')}}">Allgemein</a></li>
                 </ul>
             </li>
+            {% endif %}
+            -->
         </ul>
-        <br/>
-        <p> Geographische Übersicht:
-            <a class="text_link" href="{{url_for('locations_map')}}">Landkarte</a>
-        </p>
-        <p>
-            &#8594; <a class="text_link" href="{{url_for('coordinates')}}">Koordinaten erfassen</a>
-        </p>
-        <!--
-        <p>
-            <a class="text_link" href="{{url_for('locations_map')}}">Geographische Übersicht</a>
-            &#8594; <a class="text_link" href="{{url_for('coordinates')}}">Koordinaten erfassen</a>
-        </p>
-        -->
     </div>
 </div>
 <div class="h2_separator"></div>

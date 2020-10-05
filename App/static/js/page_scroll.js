@@ -103,3 +103,10 @@ $(document).ready(function () {
         $("#body, html").animate({ scrollTop: h }, { duration: speed });
     });
 });
+
+$(document).ready(function () {
+    $("#href_stats_state").click( function (){
+        var h = $("#stats_state").offset().top;
+        $("#body, html").animate({ scrollTop: h }, { duration: speed });
+    });
+});

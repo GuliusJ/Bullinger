@@ -7,19 +7,16 @@
     / Ortschaften
     {% include "user_status.html" %}
 </h1>
-
 <div class="main_box">
 	<div class="h2_box>">
 	<h2>Ortschaften</h2>
         <div class="h2_section">
-            <p>
-                &#8594; <a class="text_link" href="{{url_for('locations_map')}}">Landkarte</a>
-            </p>
-            <p>
-                &#8594; <a class="text_link" href="{{url_for('coordinates')}}">Koordinaten erfassen</a>
-            </p>
-            <br>
-            <p>Treffer: {{ vars["places"] | length }}</p>
+            <p>&#8594; <a class="text_link" href="{{url_for('locations_map')}}">Landkarte</a></p>
+            {% if vars["is_vip"] %}
+            <p>&#8594; <a class="text_link" href="{{url_for('coordinates')}}">Koordinaten erfassen</a></p>
+		    {% endif %}
+            <br/>
+            <p><span class="kw">Treffer:</span> {{ vars["places"] | length }}</p>
             <div class="parallel">
                 <table class="js-sort-table paleBlueRows">
                     <thead class="my_table_head">

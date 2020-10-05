@@ -4,20 +4,13 @@
 {% block content %}
 
 <h1>Registrierung</h1>
-
 <div class="main_box">
-
     <h2>Registrierung</h2>
     <div class="h2_section">
-
-        <p> Vielen Dank für Ihre Mitarbeit beim Aufbau der Karteikarten-Datenbank. Bitte tragen Sie sich ein und melden
-            Sie sich an (&#8594; <a class="text_link" href="{{url_for('login')}}">Anmeldung</a>).
-        </p>
-
+        <p>&#8594; <a class="text_link" href="{{url_for('login')}}">Anmeldung</a></p>
         <div id="register_form">
             <form action="" method="post">
                 {{ form.hidden_tag() }}
-
                 <!-- username -->
                 <div class="prompt">{{ form.username.label }}</div>
                 <div class="prompt_input">{{ form.username(size=32, placeholder="Benutzername") }}</div>
@@ -26,7 +19,6 @@
                     <div class="error_notification"><span>[{{ error }}]</span></div>
                     {% endfor %}
                 </div>
-
                 <!-- email -->
                 <div class="prompt">{{ form.email.label }}</div>
                 <div class="prompt_input">{{ form.email(size=64, placeholder="E-Mail Adresse") }}</div>
@@ -35,7 +27,6 @@
                     <div class="error_notification"><span>[{{ error }}]</span></div>
                     {% endfor %}
                 </div>
-
                 <!-- password -->
                 <div class="prompt">{{ form.password.label }}</div>
                 <div class="prompt_input">{{ form.password(size=32, placeholder="Passwort") }}</div>
@@ -44,7 +35,6 @@
                     <div class="error_notification"><span>[{{ error }}]</span></div>
                     {% endfor %}
                 </div>
-
                 <!-- password confirmation -->
                 <div class="prompt">{{ form.password2.label }}</div>
                 <div class="prompt_input">{{ form.password2(size=32, placeholder="Passwortbestätigung") }}</div>
@@ -53,16 +43,15 @@
                     <div class="error_notification"><span>[{{ error }}]</span></div>
                     {% endfor %}
                 </div>
-
                 <p>{{ form.submit() }}</p>
             </form>
         </div>
         <p>
-            Bei Fragen oder Unklarheiten gibt Ihnen die
-            <a href="mailto:bullinger-digital@protonmail.com">Projektkoordination</a>
+            Bei Fragen oder Unklarheiten gibt Ihnen unsere
+            <a href="mailto:bullinger-digital@protonmail.com">Projektkoordinatorin</a>
             gerne Auskunft.
         </p>
-        <br>
+        <br/>
     </div>
     <div class="h2_separator"></div>
 </div>

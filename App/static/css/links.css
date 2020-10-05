@@ -24,6 +24,10 @@ a:active {
 
 .text_link {
     color: blue;
+}
+
+.text_link_bold {
+    color: blue;
     font-weight: bold;
 }
 

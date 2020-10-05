@@ -1,21 +1,10 @@
 <!-- extends "overview.html", "overview_year.html", "overview_month.html" -->
 {% block progress %}
 <p>
-    Fortschritt bei der Digitalisierung der
+    Status der
     <span class="kw">{{ vars["status_description"] }}</span>
 </p>
-<p>
-    Wir sind zu
-    <span class="kw">{{ (vars["stats"]["ungültig"][1] + vars["stats"]["abgeschlossen"][1])|round(2) }}%</span>
-    fertig!
-</p>
-
-{% if not vars["page_url"] == '/stats' %}
-<p> &#8594; <a class="text_link" href="{{url_for('stats')}}">Statistiken</a></p>
-{% endif %}
-
 <img class="parallel" alt="Statusübersicht" src="{{url_for('static', filename='images/plots/overview_'+vars['file_id']+'.png')}}"/>
-
 <div class="parallel">
     <table class="js-sort-table paleBlueRows">
         <thead class="my_table_head">
@@ -37,7 +26,6 @@
         {% endfor %}
         </tbody>
     </table>
-
     <p><span class="kw">Beschreibung:</span></p>
     <ul>
         <li>offen: un- oder nur teilweise bearbeitet</li>

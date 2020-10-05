@@ -8,14 +8,11 @@
     / Koordinaten
     {% include "user_status.html" %}
 </h1>
-
 <div class="main_box">
 	<div class="h2_box>">
         <h2>Koordinaten</h2>
         <div class="h2_section">
-
-            <p>Treffer: {{ vars["data"] | length }}</p>
-
+            <p><span class="kw">Treffer:</span> {{ vars["data"] | length }}</p>
             <div class="parallel">
                 <table class="js-sort-table paleBlueRows">
                     <thead class="my_table_head">
@@ -27,7 +24,6 @@
                         </tr>
                     </thead>
                     <tbody>
-
                     <tr class="my_table_row2 tc_uniform">
                         <td class="my_table_cell tc_uniform">
                             <input type="text" id="add_coord_ort" name="add_coord_ort" placeholder="Suchen/Neu">
@@ -42,23 +38,16 @@
                             <input type="submit" id="save_coords" value="Speichern">
                         </td>
                     </tr>
-
-
                     {% for p in vars["data"] %}
                         <tr class="my_table_row">
                             <td class="my_table_cell tc_uniform">
-                                <a href="{{url_for('place', location=p[4])}}">
-                                    {{ p[1] }}
-                                </a>
+                                <a href="{{url_for('place', location=p[4])}}">{{ p[1] }}</a>
                             </td>
                             <td class="my_table_cell tc_uniform">{{ p[2] }}</td>
                             <td class="my_table_cell tc_uniform">{{ p[3] }}</td>
                             <td class="my_table_cell tc_uniform">
-                                <a class="delete_loc" id="{{url_for('delete_coordinates', coord_id=p[0])}}">
-                                    <span style="color:red">&#x2717;</span>
-                                </a>
+                                <a class="delete_loc" id="{{url_for('delete_coordinates', coord_id=p[0])}}"><span style="color:red">&#x2717;</span></a>
                             </td>
-                        </td>
                         </tr>
                     {% endfor %}
                     </tbody>

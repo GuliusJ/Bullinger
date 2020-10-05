@@ -11,22 +11,11 @@
 <script src="{{url_for('static', filename='js/scroll.js')}}"></script>
 <input style="display: none;" type="text" id="scroll_pos" name="scroll_pos" value="{{ vars['scroll_pos'] }}">
 
-
-
 <div class="main_box">
 	<div class="h2_box>">
         <h2>Referenzen</h2>
         <div class="h2_section">
-
-            <!--
-
-            <p> Suchen:
-                <input type="text" id="search_reference" name="search_reference" placeholder="Suchen">
-            </p>
-            -->
-
             <table class="js-sort-table paleBlueRows">
-
                 <tr class="my_table_row2">
                     <td class="my_table_cell tc_uniform">
                         <input type="text" id="add_ref" name="add_ref" placeholder="Suchen/neu">
@@ -36,7 +25,6 @@
                     </td>
                     <td class="my_table_cell tc_uniform"></td>
                 </tr>
-
                 <thead class="my_table_head">
                     <tr class="my_table_head_row">
                         <th class="js-sort-string my_table_head_cell">Referenz</th>
@@ -46,7 +34,6 @@
                 </thead>
                 <tbody>
                 {% for p in vars["data"] %}
-
                     {% if vars["edit_id"] != p[0] %}
                     <tr class="my_table_row">
                         <td class="my_table_cell tc_uniform">{{ p[1] }}</td>
@@ -74,11 +61,9 @@
                     </tr>
                     {% endif %}
                 {% endfor %}
-
                 </tbody>
             </table>
-
-            <p>Treffer: {{ vars["data"] | length }}</p>
+            <p><span class="kw">Treffer:</span> {{ vars["data"] | length }}</p>
         </div>
     </div>
     <div class="clearing"></div>
