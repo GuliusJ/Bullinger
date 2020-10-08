@@ -26,20 +26,22 @@
                         der Reformation in der Schweiz und in Europa. Entsprechend gross war sein Korrespondenz-Netzwerk.
                     </p>
                     <p>
-                        Offenbar hat Bullinger schon zu seiner Zeit erkannt, wie bedeutungsvoll die Korrespondenz ist.
-                        Denn er hat nicht nur die rund 10’000 Briefe aufbewahrt, die er erhalten hat, sondern sich auch
-                        um die Rückgabe geschriebener Briefe bemüht. So sind auch 2'000 Briefe erhalten, die Bullinger
-                        einst geschrieben hat.
+                        Von Bullingers Briefwechsel sind rund 10’000 Briefe an und 2'000 Briefe von Bullinger, die
+                        handschriftlichen Originale liegen mehrheitlich im Staatsarchiv Zürich und in der Zentralbibliothek Zürich.
                     </p>
                     <p>
-                        Die handschriftlichen Originale liegen mehrheitlich im Staatsarchiv Zürich und in der
-                        Zentralbibliothek Zürich. Ein Teil der Briefe (1524 bis 1547) ist bereits ediert. Ziel unseres
-                        Projektes "Bullinger digital" ist es, die übrigen Briefe digital zu erschliessen und über das
-                        Internet zugänglich zu machen. Dazu haben wir in einem ersten Schritt eine Datenbank aufgebaut,
-                        in welcher zu jedem Brief die wesentlichen Meta-Daten wie Absender, Empfänger, Ort und
-                        Briefsprache erfasst werden.
+                        Ein Teil der Briefe (1524 bis 1547) ist bereits ediert. Ziel unseres Projektes "Bullinger digital"
+                        ist es, die übrigen Briefe digital zu erschliessen und über das Internet zugänglich zu machen.
+                        Dazu haben wir in einem ersten Schritt eine Datenbank aufgebaut, in welcher zu jedem Brief die
+                        wesentlichen Meta-Daten wie Absender, Empfänger, Ort und Briefsprache erfasst sind.
                     </p>
-
+                    <br/>
+                    <p>
+                        <span style="color:green">
+                        Am 28. Oktober findet eine öffentliche Vorstellung des Projektes «Bullinger digital» statt!
+                        </span>
+                        [<a class="text_link" href="{{ url_for('send_file_flyer_zb') }}">pdf</a>]
+                    </p>
                 </div>
             </div>
             <div class="clearing"></div>
@@ -53,8 +55,6 @@
             <ul>
                 <li>
                     Aufbau einer Datenbank zum Bullinger-Briefwechsel
-
-
                     <a class="text_link" href="https://de.wikipedia.org/wiki/Citizen_Science">(Citizen Science)</a>
                     <span style="color:green">&#10003;</span>
                 </li>
@@ -82,10 +82,29 @@
                 <li><a class="text_link" href="{{url_for('overview_autocopy')}}">Autographen/Kopien</a></li>
                 <li><a class="text_link" href="{{url_for('overview_literature_and_printed')}}">Literatur/Gedruckt</a></li>
                 <li><a class="text_link" href="{{url_for('languages')}}">Sprachen</a></li>
-                {% if vars["is_vip"] %}
-                <li><a class="text_link" href="{{url_for('overview_states')}}">Status</a></li>
-                {% endif %}
             </ul>
+            {% if vars["is_vip"] %}
+            <br/>
+            <p>
+                <span class="kw">Privat</span>
+                <span class="kw_italic">(nur für Superuser sichtbar)</span>
+            </p>
+            <ul>
+                <li>
+                    <p><span class="kw" style="color:red">TODO</span></p>
+                    <ul class="items">
+                        <li><a class="text_link" href="{{url_for('overview_potential_link_cards')}}">potentielle Hinweis- und Verweiskarten</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p><span class="kw">andere</span></p>
+                    <ul class="items">
+                        <li><a class="text_link" href="{{url_for('overview_link_cards')}}">Hinweis- und Verweiskarten</a></li>
+                        <li><a class="text_link" href="{{url_for('overview_states')}}">Status</a></li>
+                    </ul>
+                </li>
+            </ul>
+            {% endif %}
         </div>
     </div>
     <div class="h2_separator"></div>

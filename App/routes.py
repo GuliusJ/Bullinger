@@ -13,9 +13,7 @@ from config import Config
 from flask import render_template, flash, redirect, url_for, make_response, jsonify, request, send_file
 from flask_login import current_user, login_user, logout_user, login_required
 from sqlalchemy import func, union_all, and_
-# from Data.Transkriptionen.src_code.ParserConfig import ParserConfig
-# from Data.Transkriptionen.src_code.ParserPart2 import ParserPart2
-# from Data.Transkriptionen.src_code.ParserXML import ParserXML
+
 from Tools.BullingerDB import BullingerDB
 from Tools.Plots import BullingerPlots
 
@@ -121,7 +119,7 @@ def index():
     BullingerDB.track(current_user.username, '/home', datetime.now())
     return render_template("index.html", title=Config.APP_NAME, vars={
         "username": current_user.username,
-        "is_admin": is_admin()
+        "is_vip": is_vip(),
     })
 
 # Overviews
@@ -137,7 +135,6 @@ def overview():
         title="Übersicht",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "table": data,
             "sums": sums,
             "file_id": file_id
@@ -179,7 +176,6 @@ def overview_month(year, month):
         title="Monatsübersicht",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "year": year,
             "month": month,
             "table": data,
@@ -203,7 +199,6 @@ def overview_persons():
         title="Korrespondenten",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "persons": persons,
             "is_vip": is_vip(),
         }
@@ -218,7 +213,6 @@ def overview_cards_of_person(name, forename, place):
         title=name + ', ' + forename + ', ' + place,
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "name": name,
             "forename": forename,
             "place": place,
@@ -237,7 +231,6 @@ def languages():
         title="Sprachen",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "file_id": id_file,
             "lang_stats": stats_languages,
         }
@@ -250,7 +243,6 @@ def overview_languages(lang):
         "overview_languages_cards.html",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "language": lang,
             "table": BullingerDB.get_overview_languages(lang),
         }
@@ -264,7 +256,6 @@ def overview_states():
         title="Statusübersicht (alle)",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "table": BullingerDB.get_overview_states(),
         }
     )
@@ -278,7 +269,6 @@ def overview_state(state):
         title="Statusübersicht ("+state+")",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "table": data,
             "state": state,
         }
@@ -293,7 +283,6 @@ def overview_literature():
         title="Literatur",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": BullingerDB.get_data_overview_literature(),
         }
     )
@@ -306,7 +295,6 @@ def overview_printed():
         title="Literatur",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": BullingerDB.get_data_overview_printed(),
         }
     )
@@ -319,7 +307,6 @@ def overview_literature_and_printed():
         title="Literatur",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": BullingerDB.get_data_overview_literature_and_printed(),
         }
     )
@@ -333,7 +320,6 @@ def overview_references():
             title="Referenzen",
             vars={
                 "username": current_user.username,
-                "user_stats": BullingerDB.get_user_stats(current_user.username),
                 "data": BullingerDB.get_data_overview_references(),
                 "edit_id": None
             }
@@ -352,7 +338,6 @@ def delete_reference(ref_id, scroll_pos=0):
         title="Referenzen",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": BullingerDB.get_data_overview_references(),
             "edit_id": None,
             "scroll_pos": scroll_pos,
@@ -369,7 +354,6 @@ def save_reference(ref):
         title="Referenzen",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": BullingerDB.get_data_overview_references(),
             "edit_id": None,
         }
@@ -393,7 +377,6 @@ def edit_reference(ref_id, scroll_pos=0):
             title="Referenzen",
             vars={
                 "username": current_user.username,
-                "user_stats": BullingerDB.get_user_stats(current_user.username),
                 "data": BullingerDB.get_data_overview_references(),
                 "edit_id": int(ref_id),
                 "scroll_pos": scroll_pos,
@@ -410,7 +393,6 @@ def coordinates():
             title="Koordinaten",
             vars={
                 "username": current_user.username,
-                "user_stats": BullingerDB.get_user_stats(current_user.username),
                 "data": BullingerDB.get_data_overview_coordinates(),
             }
         )
@@ -427,7 +409,6 @@ def delete_coordinates(coord_id):
             title="Koordinaten",
             vars={
                 "username": current_user.username,
-                "user_stats": BullingerDB.get_user_stats(current_user.username),
                 "data": BullingerDB.get_data_overview_coordinates(),
             }
         )
@@ -445,7 +426,6 @@ def save_coordinates(ort, c1, c2):
             title="Koordinaten",
             vars={
                 "username": current_user.username,
-                "user_stats": BullingerDB.get_user_stats(current_user.username),
                 "data": BullingerDB.get_data_overview_coordinates(),
             }
         )
@@ -468,7 +448,6 @@ def places():
         title="kartei/Ortschaften",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "places": BullingerDB.get_data_overview_places(),
             "is_vip": is_vip()
         }
@@ -483,7 +462,6 @@ def place(location):
         title="Ortschaften - "+location,
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "place": BullingerDB.get_data_overview_place(location),
         }
     )
@@ -496,7 +474,6 @@ def overview_autograph():
         title="Autograph",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "relation": "Autographen",
             "data": BullingerDB.get_data_overview_autograph(),
         }
@@ -510,7 +487,6 @@ def overview_autograph_x(autograph):
         title="Kartei/Autograph",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "standort": autograph,
             "data": BullingerDB.get_data_overview_autograph_x(autograph),
         }
@@ -520,15 +496,11 @@ def overview_autograph_x(autograph):
 def overview_autocopy():
     BullingerDB.track(current_user.username, '/Kartei/Autographe&Kopien', datetime.now())
     data, counts = BullingerDB.get_data_overview_autocopy()
-    print()
-    print(counts)
-    print()
     return render_template(
         "overview_autokopie.html",
         title="Kartei/Autograph & Kopie",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "relation": "Autographen & Kopien",
             "data": data,
             "counts": counts
@@ -543,7 +515,6 @@ def overview_autocopy_x(standort):
         title="Autographen/Kopien, "+standort,
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "relation": standort,
             "data": BullingerDB.get_data_overview_autocopy_x(standort),
         }
@@ -557,7 +528,6 @@ def overview_copy():
         title="Kartei/Kopien",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "relation": "Kopien",
             "data": BullingerDB.get_data_overview_copy2(),
         }
@@ -587,7 +557,6 @@ def overview_copy_remarks():
         title="Kopie1/Bemerkungen",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": BullingerDB.get_data_overview_copy_remarks(),
         }
     )
@@ -601,7 +570,6 @@ def overview_copy_remarks_A():
         title="Kopie2/Bemerkungen",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": BullingerDB.get_data_overview_copy_remarks_A(),
         }
     )
@@ -616,7 +584,6 @@ def correspondents():
         title="Korrespondenten",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "data": data,
             "n_sender": n_sender,
             "n_receiver": n_receiver,
@@ -635,7 +602,6 @@ def person_by_name(name):
         title="Person "+name,
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "user_stats_all": BullingerDB.get_user_stats_all(current_user.username),
             "attribute": "Personen",
             "value": "Nachnamen: " + name,
@@ -655,7 +621,6 @@ def person_by_forename(forename):
         title="Person "+forename,
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "user_stats_all": BullingerDB.get_user_stats_all(current_user.username),
             "attribute": "Vorname",
             "value": "Vorname: " + forename,
@@ -675,7 +640,6 @@ def person_by_place(place):
         title="Personen von "+place,
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "user_stats_all": BullingerDB.get_user_stats_all(current_user.username),
             "attribute": "Ort",
             "value": "Ort: " + place,
@@ -693,7 +657,6 @@ def personal_history():
         title="History",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "user_stats_all": BullingerDB.get_user_stats_all(current_user.username),
             "table": BullingerDB.get_data_personal_history(current_user.username),
         }
@@ -707,7 +670,6 @@ def general_history():
         title="History",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "user_stats_all": BullingerDB.get_user_stats_all(current_user.username),
             "table": BullingerDB.get_data_general_history(current_user.username),
         }
@@ -791,7 +753,6 @@ def alias():
         form.process()
         return render_template('person_aliases.html', title="Alias", form=form, vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "primary_names": p_data,
         })
     else:
@@ -821,7 +782,6 @@ def file():
         title="Kartei",
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "is_vip": is_vip()
         }
     )
@@ -829,15 +789,7 @@ def file():
 @app.route('/FAQ', methods=['POST', 'GET'])
 def faq():
     BullingerDB.track(current_user.username, '/FAQ', datetime.now())
-    return render_template(
-        'faq.html',
-        title="FAQ",
-        vars={
-            "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
-        }
-    )
-
+    return render_template('faq.html', title="FAQ", vars={"username": current_user.username})
 
 @app.route('/Kommentare', methods=['POST', 'GET'])
 def guestbook():
@@ -852,11 +804,9 @@ def guestbook():
         form=guest_book,
         vars={
             "username": current_user.username,
-            "user_stats": BullingerDB.get_user_stats(current_user.username),
             "comments": BullingerDB.get_comments(current_user.username),
         }
     )
-
 
 @app.route('/Kartei/Karteikarten/Zufall', methods=['POST', 'GET'])
 @login_required
@@ -865,7 +815,7 @@ def quick_start():
         BullingerDB.track(current_user.username, '/LOS', datetime.now())
         i = BullingerDB.quick_start()
         if i: return redirect(url_for('assignment', id_brief=str(i)))
-    return redirect(url_for('stats'))  # we are done !
+    return redirect(url_for('index'))  # we are done !
 
 @app.route('/assignment/<id_brief>', methods=['GET'])
 @login_required
@@ -881,15 +831,62 @@ def assignment(id_brief):
 @app.route('/Kartei/Ortschaften/Karte', methods=['GET'])
 def locations_map():
     BullingerDB.track(current_user.username, '/map', datetime.now())
-    map_path = Config.BULLINGER_MAP_PATH
-    html_content = _sanitize_vue_html(map_path)
-    return render_template('assignment_vue.html',
-        html_content=html_content)
+    html_content = _sanitize_vue_html(Config.BULLINGER_MAP_PATH)
+    return render_template('assignment_vue.html', html_content=html_content)
+
+@app.route('/arbeiten/kartenmatching', methods=['GET'])
+def card_matching():
+    BullingerDB.track(current_user.username, '/card_matching', datetime.now())
+    # main_cards = BullingerDB.get_most_recent_only(db.session, Kartei).filter(Kartei.ist_link == True)
+    # for c in main_cards:
+    #     print(c.link_jahr, c.link_monat, c.link_tag)
+    # print("Hits:", len(main_cards.all()))
+
+    main = BullingerDB.get_most_recent_only(db.session, Kartei).filter(Kartei.ist_link == None).subquery()
+    date = BullingerDB.get_most_recent_only(db.session, Datum).subquery()
+
+    mains = db.session.query(
+        main.c.id_brief,
+        main.c.link_jahr,
+        main.c.link_monat,
+        main.c.link_tag,
+        date.c.id_brief,
+        date.c.jahr_a,
+        date.c.monat_a,
+        date.c.tag_a
+    ).outerjoin(date, date.c.id_brief == main.c.id_brief)
+
+    for c in mains:
+        print(c)
+    print(len(mains.all()))
+
+    # links = BullingerDB.get_most_recent_only(db.session, Kartei).filter(Kartei.ist_link == True)
+    return redirect(url_for('index'))
+
+@app.route('/Kartei/Verweise', methods=['GET'])
+def overview_link_cards():
+    BullingerDB.track(current_user.username, '/overview_link_cards', datetime.now())
+    return render_template(
+        'overview_link_cards.html',
+        title="Hinweise & Verweise",
+        vars={
+            "table": BullingerDB.get_link_cards(),
+        }
+    )
+
+@app.route('/Kartei/potentielle_Verweise_oder_Hinweise', methods=['GET'])
+def overview_potential_link_cards():
+    BullingerDB.track(current_user.username, '/overview_potential_link_cards', datetime.now())
+    return render_template(
+        'overview_potential_link_cards.html',
+        title="Hinweise/Verweise (?)",
+        vars={
+            "table": BullingerDB.get_potential_link_cards(),
+        }
+    )
+
 
 # API
-
-
-
 @app.route('/api/assignments/<id_brief>', methods=['GET'])
 @login_required
 def send_data(id_brief):
@@ -918,7 +915,7 @@ def send_data(id_brief):
     satz = Bemerkung.query.filter_by(id_brief=id_brief).order_by(desc(Bemerkung.zeit)).first()
     notiz = Notiz.query.filter_by(id_brief=id_brief).order_by(desc(Notiz.zeit)).first()
     prev_card_nr, next_card_nr = BullingerDB.get_prev_card_number(id_brief), BullingerDB.get_next_card_number(id_brief)
-    prev_assignment, next_assignment = BullingerDB.get_prev_assignment(id_brief), BullingerDB.get_next_assignment(id_brief)
+    prev_assignment, next_assignment = BullingerDB.get_prev_card_number(id_brief), BullingerDB.get_next_card_number(id_brief)
     data = {
         "id": id_brief,
         "state": kartei.status,
@@ -1085,19 +1082,19 @@ def send_wiki_data_by_address_3(name, forename):
             wiki_url, photo_url = r.wiki_url, r.photo
             break
     return jsonify({
-        "wiki_url": wiki_url,
         "photo_url": photo_url,
-        "url_person_overview": "/overview/person_by_name/" + link if link else 's.n.'
+        "wiki_url": wiki_url,
+        "url_person_overview": "/overview/person_by_name/" + link if link else 's.n.',
     })
 
 @app.route('/api/places', methods=['GET', 'POST'])
 def send_places():
     return jsonify({
         r[0]: {
+            "latitude": float(r[3]) if r[3] else None,
+            "longitude": float(r[4]) if r[4] else None,
             "received": r[1] if r[1] else 0,
             "sent": r[2] if r[2] else 0,
-            "latitude": float(r[3]) if r[3] else None,
-            "longitude": float(r[4]) if r[4] else None
         } for r in BullingerDB.get_places() if r[0]
     })
 
@@ -1126,9 +1123,16 @@ def get_persons_all():
     BullingerDB.track(current_user.username, '/api/get_persons', datetime.now())
     return jsonify(BullingerDB.get_persons_by_var(None, None))
 
+@app.route('/api/clean_up', methods=['GET'])
+def clean_up_db():
+    BullingerDB.clean_up_db()
+    return redirect(url_for('index'))
 
-# Transcriptions
+
 """
+from Data.Transkriptionen.src_code.ParserConfig import ParserConfig
+from Data.Transkriptionen.src_code.ParserPart2 import ParserPart2
+from Data.Transkriptionen.src_code.ParserXML import ParserXML
 @app.route('/api/convert_transcriptions', methods=['GET', 'POST'])
 def st():
 
@@ -1146,3 +1150,4 @@ def st():
 
     return redirect(url_for('index'))
 """
+

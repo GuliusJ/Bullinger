@@ -2523,3 +2523,194 @@ class BullingerDB:
             .outerjoin(fe, fe.c.place == q.c.place)\
             .outerjoin(p, p.c.ort == q.c.place)
         return s
+
+    @staticmethod
+    def get_link_cards():
+        main = BullingerDB.get_most_recent_only(db.session, Kartei).filter(Kartei.ist_link == True)
+        return [[c.id_brief] for c in main]
+
+    @staticmethod
+    def get_potential_link_cards():
+        main = BullingerDB.get_most_recent_only(db.session, Kartei).filter(Kartei.ist_link == None).subquery()
+        date = BullingerDB.get_most_recent_only(db.session, Datum).subquery()
+        mains = db.session.query(
+            main.c.id_brief,
+            date.c.id_brief,
+            date.c.bemerkung
+        ).join(date, date.c.id_brief == main.c.id_brief)
+        table_potential_links = []
+        matches = [r'^\s*[Hh]inweise?!?\s*$', r'^.*[Bb]eilage.*$', r'^.*kein Brief.*$', r'^.*[Vv]erweis.*$', r'^.*[Gg]ehört.*$', r'^.*P\.?S\.?.*$', r'^.*[Pp]ostscriptum.*$', r'^.*Reinkopie.*$', r'^.*2. Brief.*$', r'^.*3. Brief.*$', r'^.*2. Karte.*$', r'^.*3. Karte.*$', r'^.*[Vv]e?r?gl.*$', r'^.*Begleitbrief.*$', r'^.*Nachschrift.*$', r'^.*identisch mit.*$', r'^.*kein eigentlicher Brief.*$', r'^.*[Zz]u:?\s*.*$', r'^.*Originalschreiben vom.*$', r'^.*ergänzende.*$', '^.*siehe.*$', '^.*Überarbeitung.*$', '^.*Duplikat.*$']
+        for c in mains:
+            if c[-1]:
+                for m in matches:
+                    if not re.match('^.*mit Beilage.*$', c[-1], re.S):
+                        if re.match(m, c[-1], re.S):
+                            table_potential_links.append([c[0], c[-1]])
+                            break
+        return table_potential_links
+
+    @staticmethod
+    def clean_up_db():
+        q = BullingerDB.get_most_recent_only(db.session, Kartei)
+        data = [[t.id_brief, t.rezensionen, t.status, t.ist_link, t.link_jahr, t.link_monat, t.link_jahr, t.pfad_OCR, t.pfad_PDF, t.anwender, t.zeit] for t in q]
+        db.session.query(Kartei).delete()
+        db.session.commit()
+        for t in data:
+            k = Kartei()
+            k.id_brief = t[0]
+            k.rezensionen = t[1]
+            k.status = t[2]
+            k.ist_link = t[3]
+            k.link_jahr = t[4]
+            k.link_monat = t[5]
+            k.link_jahr = t[6]
+            k.pfad_OCR = t[7]
+            k.pfad_PDF = t[8]
+            k.anwender = t[9]
+            k.zeit = t[10]
+            db.session.add(k)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Datum)
+        data = [[t.id_brief, t.jahr_a, t.monat_a, t.tag_a, t.jahr_b, t.monat_b, t.tag_b, t.bemerkung, t.anwender, t.zeit] for t in q]
+        db.session.query(Datum).delete()
+        db.session.commit()
+        for t in data:
+            d = Datum()
+            d.id_brief = t[0]
+            d.jahr_a = t[1]
+            d.monat_a = t[2]
+            d.tag_a = t[3]
+            d.jahr_b = t[4]
+            d.monat_b = t[5]
+            d.tag_b = t[6]
+            d.bemerkung = t[7]
+            d.anwender = t[8]
+            d.zeit = t[9]
+            db.session.add(d)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Absender)
+        data = [[t.id_brief, t.id_person, t.nicht_verifiziert, t.bemerkung, t.anwender, t.zeit] for t in q]
+        db.session.query(Absender).delete()
+        db.session.commit()
+        for t in data:
+            a = Absender()
+            a.id_brief = t[0]
+            a.id_person = t[1]
+            a.nicht_verifiziert = t[2]
+            a.bemerkung = t[3]
+            a.anwender = t[4]
+            a.zeit = t[5]
+            db.session.add(a)
+            db.session.commit()
+        q = BullingerDB.get_most_recent_only(db.session, Empfaenger)
+        data = [[t.id_brief, t.id_person, t.nicht_verifiziert, t.bemerkung, t.anwender, t.zeit] for t in q]
+        db.session.query(Empfaenger).delete()
+        db.session.commit()
+        for t in data:
+            a = Empfaenger()
+            a.id_brief = t[0]
+            a.id_person = t[1]
+            a.nicht_verifiziert = t[2]
+            a.bemerkung = t[3]
+            a.anwender = t[4]
+            a.zeit = t[5]
+            db.session.add(a)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Autograph)
+        data = [[t.id_brief, t.standort, t.signatur, t.bemerkung, t.anwender, t.zeit] for t in q]
+        db.session.query(Autograph).delete()
+        db.session.commit()
+        for t in data:
+            a = Autograph()
+            a.id_brief = t[0]
+            a.standort = t[1]
+            a.signatur = t[2]
+            a.bemerkung = t[3]
+            a.anwender = t[4]
+            a.zeit = t[5]
+            db.session.add(a)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Kopie)
+        data = [[t.id_brief, t.standort, t.signatur, t.bemerkung, t.anwender, t.zeit] for t in q]
+        db.session.query(Kopie).delete()
+        db.session.commit()
+        for t in data:
+            a = Kopie()
+            a.id_brief = t[0]
+            a.standort = t[1]
+            a.signatur = t[2]
+            a.bemerkung = t[3]
+            a.anwender = t[4]
+            a.zeit = t[5]
+            db.session.add(a)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, KopieB)
+        data = [[t.id_brief, t.standort, t.signatur, t.bemerkung, t.anwender, t.zeit] for t in q]
+        db.session.query(KopieB).delete()
+        db.session.commit()
+        for t in data:
+            a = KopieB()
+            a.id_brief = t[0]
+            a.standort = t[1]
+            a.signatur = t[2]
+            a.bemerkung = t[3]
+            a.anwender = t[4]
+            a.zeit = t[5]
+            db.session.add(a)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Literatur)
+        data = [[t.id_brief, t.literatur, t.anwender, t.zeit] for t in q]
+        db.session.query(Literatur).delete()
+        db.session.commit()
+        for t in data:
+            a = Literatur()
+            a.id_brief = t[0]
+            a.literatur = t[1]
+            a.anwender = t[2]
+            a.zeit = t[3]
+            db.session.add(a)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Gedruckt)
+        data = [[t.id_brief, t.gedruckt, t.anwender, t.zeit] for t in q]
+        db.session.query(Gedruckt).delete()
+        db.session.commit()
+        for t in data:
+            a = Gedruckt()
+            a.id_brief = t[0]
+            a.gedruckt = t[1]
+            a.anwender = t[2]
+            a.zeit = t[3]
+            db.session.add(a)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Bemerkung)
+        data = [[t.id_brief, t.bemerkung, t.anwender, t.zeit] for t in q]
+        db.session.query(Bemerkung).delete()
+        db.session.commit()
+        for t in data:
+            a = Bemerkung()
+            a.id_brief = t[0]
+            a.bemerkung = t[1]
+            a.anwender = t[2]
+            a.zeit = t[3]
+            db.session.add(a)
+            db.session.commit()
+
+        q = BullingerDB.get_most_recent_only(db.session, Notiz)
+        data = [[t.id_brief, t.notiz, t.anwender, t.zeit] for t in q]
+        db.session.query(Notiz).delete()
+        db.session.commit()
+        for t in data:
+            a = Notiz()
+            a.id_brief = t[0]
+            a.notiz = t[1]
+            a.anwender = t[2]
+            a.zeit = t[3]
+            db.session.add(a)
