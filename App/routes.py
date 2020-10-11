@@ -1123,11 +1123,70 @@ def get_persons_all():
     BullingerDB.track(current_user.username, '/api/get_persons', datetime.now())
     return jsonify(BullingerDB.get_persons_by_var(None, None))
 
-@app.route('/api/clean_up', methods=['GET'])
-def clean_up_db():
+# Migration
+@app.route('/api/db_clean_up', methods=['GET'])
+def db_clean_up():
     BullingerDB.clean_up_db()
     return redirect(url_for('index'))
 
+@app.route('/api/db_write', methods=['GET'])
+def db_export():
+    BullingerDB.db_export()
+    return redirect(url_for('index'))
+
+@app.route('/api/get_notices', methods=['GET'])
+def get_notices():
+    n = BullingerDB.get_most_recent_only(db.session, Notiz)
+    with open("Data/DB_Backups/notizen.txt", "w") as f:
+        for t in n:
+            note = t.notiz if t.notiz else ""
+            note = note.replace("\n", "newline_here")
+            f.write(str(t.id_brief) + "&&&" + note + "&&&" + t.anwender + "&&&" + t.zeit + "\n")
+
+    return redirect(url_for('index'))
+
+@app.route('/api/write_notices', methods=['GET'])
+def write_notices():
+    """
+    n = BullingerDB.get_most_recent_only(db.session, Notiz)
+    with open("Data/DB_Backups/notizen_new.txt", "w") as f:
+        for t in n:
+            note = t.notiz if t.notiz else ""
+            note = note.replace("\n", "newline_here")
+            f.write(str(t.id_brief) + "&&&" + note + "&&&" + t.anwender + "&&&" + t.zeit + "\n")
+    """
+    db.session.query(Notiz).delete()
+    db.session.commit()
+
+    with open("Data/DB_Backups/notizen.txt") as f:
+        for line in f:
+            data = []
+            if line:
+                d = line.split("&&&")
+                for e in d: data.append(e.replace("newline_here", "\n"))
+                a = Notiz()
+                a.id_brief = int(data[0])
+                a.notiz = data[1]
+                a.anwender = data[2]
+                a.zeit = data[3]
+                db.session.add(a)
+                db.session.commit()
+
+    with open("Data/DB_Backups/notizen_new.txt") as f:
+        for line in f:
+            if line:
+                data = []
+                d = line.split("&&&")
+                for e in d: data.append(e.replace("newline_here", "\n"))
+                a = Notiz()
+                a.id_brief = int(data[0])
+                a.notiz = data[1]
+                a.anwender = data[2]
+                a.zeit = data[3]
+                db.session.add(a)
+                db.session.commit()
+
+    return redirect(url_for('index'))
 
 """
 from Data.Transkriptionen.src_code.ParserConfig import ParserConfig

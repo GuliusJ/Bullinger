@@ -41,3 +41,12 @@ class Config(object):
     OFFSET = 5
 
     URL_ESC = "#&&"
+
+    # DB export
+    PATH_DB_EXPORT = "Data/DB_export/"
+
+    PATH_DB_USER_GROUP = "user_group.txt"
+    PATH_DB_USER = "user.txt"
+    PATH_DB_REMARK_TYPES = "remark_types.txt"
+    PATH_DB_PAGE_VIEWS = "page_views.txt"
+    PATH_DB_PAGE_MODE = "page_mode.txt"

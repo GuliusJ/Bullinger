@@ -1,20 +1,50 @@
-Karteikarten(ID, Typ, Referenz, ist_privat)
-KarteiDatum(ID_Karteikarte, ID_Datum)
-Datum(ID, Jahr, Monat, Tag, Attribut)
-Personen(ID, Name, Vorname, ist_Alias)
-Ortschaft(ID, Name, ist_Alias)
-Professionen(ID, Bezeichnung)
-Funktionen(ID_Person, ID_Profession, ID_Ort, ID_DatumStart, ID_DatumEnde)
-Korrespondenten(ID_Karteikarte, ID_Person, ID_Ort, ist_absender)
-KorrespondentenGruppen(ID_Karteikarte, ID_Profession, ID_Ort, ist_absender)
-Archive(ID_Archiv, Name)
-Urquellen(ID, Typ)
-Dokument(ID_Karteikarte, ID_Archiv, Signatur, ID_Urquelle, Bemerkung)
-Sprachen(ID, Name)
-Dokumentsprachen(ID_Karteikarte, ID_Sprache)
-Referenzen(ID, Werk)
-Literatur(ID_Karteikarte, ID_Referenz, Zusatz)
-Gedruckt(ID_Karteikarte, ID_Referenz, Zusatz)
-AllgemeineBemerkungen(ID_Karteikarte, Bemerkung)
-PrivateBemerkungen(ID_Karteikarte, Bemerkung)
-Notizen(ID_Karteikarte, Bemerkung)
+Notation:
+- "*": (unique) key
+- "**": foreign key
+- [all]: redundant attribute after split (rework necessary)
+
+File(*ID, **Date, type, access, state, url_file_card, remark, user, timestamp)
+- type: letter | postscript | article | testament | speech | reference | remark | ...
+- state: complete | pending | open | invalid | unknown
+- access (group): private (0) | public (1) | protected (2+)
+
+FileLink(*ID, **ID_File_main, **ID_File_reference, type, remark, user, timestamp)
+- type: reference ("Verweis") | note ("Hinweis") | citation | ...
+
+Date(*ID, year_s, month_s, day_s, delimiter_s, verification_s,
+          year_e, month_e, day_e, delimiter_e, verification_e, remark, user, timestamp)
+- delimiter_s[tart]: = | >= | > | ≈ (precisely | after/later | soonest/not before | approximately)
+- delimiter_e[nd]: <= | < | ≈ (at the latest | sooner/before | approximately)
+- verification_(s|e): erschlossen | unsicher erschlossen
+
+Person(*ID, groupID, name, forename, is_alias, url_wiki, url_image, remark, user, timestamp)
+Place(*ID, groupID, name, province, country, is_alias, longitude, latitude, remark, user, timestamp)
+Profession(*ID, title, user, timestamp)
+Activity(*ID, **ID_Person, **ID_Profession, **ID_Ort, **Date, remark, user, timestamp)
+
+Correspondent(*ID, **ID_File, **ID_Person, **ID_Place, type, verification_person, verification_place, remark, user, timestamp)
+Correspondents(*ID, **ID_File, **ID_Pr ofession, **ID_Place, type, verification_group, verification_place, remark, user, timestamp)
+- type: sender (0) | receiver (1) | other (2+)
+
+Archive(*ID, [all], name, place, remark, user, timestamp)
+
+Language(*ID, name)
+Document(*ID, **ID_File, **ID_Archive, signature, type, url_image, url_transcription, remark, user, timestamp)
+- type: original | autograph | kopie | druck
+
+DocumentLanguage(**ID_Document, **ID_Language, remark, user, timestamp)
+
+Bibliography(*ID, title, abbreviation, author_name, author_forename, year, place, publisher, other, remark, user, timestamp)
+Literature(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
+Print(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
+
+Remark(**ID_File, type, remark, user, timestamp)
+- type: general/public | internal/private | note | footnote
+
+User(*ID, *name, *email, **ID_UserGroup, changes, finished, password_hash, timestamp)
+- keys: "ID", "name" as well as "email"
+- group (access rights): A (Admin, rw+) | B (Staff/VIP, rw) | C (User/Citizen Science Collaborator/registered User, r)
+
+UserGroup(*ID, name)
+
+PageViews(url, **username, timestamp)

@@ -3,7 +3,9 @@
 <div class="h2_box>">
     <h2>Metainformationen zum Briefwechsel {% include "title_navigation.html" %}</h2>
     <div class="h2_section">
-        <p> Tabellarische Übersichten:</p>
+        <p>
+            <span class="kw">Tabellarische Übersichten:</span>
+        </p>
         <ul>
             <li><a class="text_link" href="{{url_for('overview')}}">Datum</a></li>
             <li>
@@ -58,6 +60,14 @@
             </li>
             {% endif %}
             -->
+        </ul>
+        <br/>
+        <p>
+            <span class="kw">Für Mitarbeiter</span>
+        </p>
+        <ul class="items">
+            <li><a class="text_link" href="{{url_for('overview_link_cards')}}">Hinweis- und Verweiskarten</a></li>
+            <li><a class="text_link" href="{{url_for('overview_potential_link_cards')}}">potentielle Hinweis- und Verweiskarten</a></li>
         </ul>
     </div>
 </div>

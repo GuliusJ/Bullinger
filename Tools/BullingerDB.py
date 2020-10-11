@@ -2526,8 +2526,14 @@ class BullingerDB:
 
     @staticmethod
     def get_link_cards():
-        main = BullingerDB.get_most_recent_only(db.session, Kartei).filter(Kartei.ist_link == True)
-        return [[c.id_brief] for c in main]
+        main = BullingerDB.get_most_recent_only(db.session, Kartei).filter(Kartei.ist_link == True).subquery()
+        date = BullingerDB.get_most_recent_only(db.session, Datum).subquery()
+        mains = db.session.query(
+            main.c.id_brief,
+            date.c.id_brief,
+            date.c.bemerkung
+        ).join(date, date.c.id_brief == main.c.id_brief)
+        return [[t.id_brief, t.bemerkung if t.bemerkung else ""] for t in mains]
 
     @staticmethod
     def get_potential_link_cards():
@@ -2714,3 +2720,93 @@ class BullingerDB:
             a.anwender = t[2]
             a.zeit = t[3]
             db.session.add(a)
+            db.session.commit()
+
+    @staticmethod
+    def db_export():
+
+        # File(*ID, **Date, type, access, state, url_file_card, remark, user, timestamp)
+        # - type: letter | postscript | article | testament | speech | reference | remark | ...
+        # - state: complete | pending | open | invalid | unknown
+        # - access(group): private(0) | public(1) | protected(2 +)
+
+        # FileLink(*ID, **ID_File_main, **ID_File_reference, type, remark, user, timestamp)
+        # - type: reference("Verweis") | note("Hinweis") | citation | ...
+
+        # Date(*ID, year_s, month_s, day_s, delimiter_s, verification_s,
+        #           year_e, month_e, day_e, delimiter_e, verification_e, remark, user, timestamp)
+        # - delimiter_s[tart]: = | >= | > | ≈ (precisely | after / later | soonest /not before | approximately)
+        # - delimiter_e[nd]: <= | < | ≈ (at the latest | sooner / before | approximately)
+        # - verification_(s | e): erschlossen | unsicher erschlossen
+
+        # Person(*ID, groupID, name, forename, is_alias, url_wiki, url_image, remark, user, timestamp)
+        # Place(*ID, groupID, name, province, country, is_alias, longitude, latitude, remark, user, timestamp)
+        # Profession(*ID, title, user, timestamp)
+        # Activity(*ID, **ID_Person, **ID_Profession, **ID_Ort, **Date, remark, user, timestamp)
+
+        # Correspondent(*ID, **ID_File, **ID_Person, **ID_Place, type, verification_person, verification_place, remark, user, timestamp)
+        # Correspondents(*ID, **ID_File, **ID_Profession, **ID_Place, type, verification_group, verification_place, remark, user, timestamp)
+        # - type: sender(0) | receiver(1) | other(2 +)
+
+        # Archive(*ID, [all], name, place, remark, user, timestamp)
+
+        # Language(*ID, name)
+        # Document(*ID, **ID_File, **ID_Archive, signature, type, url_image, url_transcription, remark, user, timestamp)
+        # - type: original | autograph | kopie | druck
+
+        # DocumentLanguage(**ID_Document, **ID_Language, remark, user, timestamp)
+
+        # Bibliography(*ID, title, abbreviation, author_name, author_forename, year, place, publisher, other, remark, user, timestamp)
+        # Literature(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
+        # Print(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
+
+        # Remark(**ID_File, type, remark, user, timestamp)
+        # - type: general / public | internal / private | note | footnote
+
+        # RemarkTypes(*ID, name)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_REMARK_TYPES, 'w') as f:
+            f.write(str(1)+",\tsentence\n")
+            f.write(str(2)+",\tgeneral\n")
+            f.write(str(3)+",\tstaff")
+
+        # User(*ID, *name, *email, **ID_UserGroup, changes, finished, password_hash, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER, 'w') as f:
+            for u in db.session.query(User):
+                f.write(",\t".join([
+                    str(u.id),
+                    u.username,
+                    u.e_mail,
+                    str(1) if u.username == "Admin" else (str(2) if u.username in Config.VIP else str(3)),
+                    str(u.changes),
+                    str(u.finished),
+                    u.password_hash,
+                    u.time+'\n'
+                ]))
+
+        # UserGroup(*ID, name)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER_GROUP, 'w') as f:
+            f.write(str(1)+",\tAdmin\n")
+            f.write(str(2)+",\tStaff\n")
+            f.write(str(3)+",\tUser")
+
+        # PageViews(**ID_UserName, url, **ID_PageMode, timestamp)
+        users = dict()
+        for u in db.session.query(User): users[u.username] = u.id
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PAGE_VIEWS, 'w') as f:
+            for u in db.session.query(
+                Tracker.username,
+                Tracker.url,
+                Tracker.time,
+            ):
+                f.write(",\t".join([
+                    str(users[u.username]) if u.username in users else str(0),
+                    u.url,
+                    str(1),
+                    u.time+'\n',
+                ]))
+
+        # PageMode(*ID, mode)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PAGE_MODE, 'w') as f:
+            f.write(str(1)+",\tcitizen science campaign\n")
+            f.write(str(2)+",\tpostprocessing database")
+
