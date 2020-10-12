@@ -2095,14 +2095,20 @@ class BullingerDB:
         if lang == Config.NONE: lang = None
         recent_langs = BullingerDB.get_most_recent_only(db.session, Sprache).subquery()
         recent_file = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        recent_remark = BullingerDB.get_most_recent_only(db.session, Bemerkung).subquery()
         data = db.session.query(
                 recent_langs.c.id_brief.label("id_brief"),
                 recent_langs.c.sprache.label("sprache"),
-                recent_file.c.status.label("status")
+                recent_file.c.status.label("status"),
+                recent_remark.c.bemerkung.label("satz")
             ).filter(recent_langs.c.sprache == lang)\
              .join(recent_file, recent_file.c.id_brief == recent_langs.c.id_brief)\
+             .join(recent_remark, recent_file.c.id_brief == recent_remark.c.id_brief)\
              .order_by(asc(recent_langs.c.id_brief))
-        return [[d.id_brief, d.sprache if d.sprache else Config.NONE, d.status] for d in data]
+        return [[d.id_brief,
+                 d.sprache if d.sprache else Config.NONE,
+                 d.status,
+                 d.satz if d.satz else ""] for d in data]
 
     @staticmethod
     def get_overview_states():
@@ -2569,7 +2575,7 @@ class BullingerDB:
             k.ist_link = t[3]
             k.link_jahr = t[4]
             k.link_monat = t[5]
-            k.link_jahr = t[6]
+            k.link_tag = t[6]
             k.pfad_OCR = t[7]
             k.pfad_PDF = t[8]
             k.anwender = t[9]
@@ -2725,10 +2731,9 @@ class BullingerDB:
     @staticmethod
     def db_export():
 
-        # File(*ID, **Date, type, access, state, url_file_card, remark, user, timestamp)
+        # File(*ID, **Date, type, state, url_file_card, remark, user, timestamp)
         # - type: letter | postscript | article | testament | speech | reference | remark | ...
-        # - state: complete | pending | open | invalid | unknown
-        # - access(group): private(0) | public(1) | protected(2 +)
+        # - state: complete | pending | open | invalid | unknown | private
 
         # FileLink(*ID, **ID_File_main, **ID_File_reference, type, remark, user, timestamp)
         # - type: reference("Verweis") | note("Hinweis") | citation | ...
@@ -2741,7 +2746,12 @@ class BullingerDB:
 
         # Person(*ID, groupID, name, forename, is_alias, url_wiki, url_image, remark, user, timestamp)
         # Place(*ID, groupID, name, province, country, is_alias, longitude, latitude, remark, user, timestamp)
-        # Profession(*ID, title, user, timestamp)
+        # Profession(*ID, title_sg, title_pl, user, timestamp)
+        """
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER_GROUP, 'w') as f:
+            f.write(str(1)+",\t"+",\t"+",\t"+Config.ADMIN+",\t0\n")
+        """
+
         # Activity(*ID, **ID_Person, **ID_Profession, **ID_Ort, **Date, remark, user, timestamp)
 
         # Correspondent(*ID, **ID_File, **ID_Person, **ID_Place, type, verification_person, verification_place, remark, user, timestamp)
@@ -2760,14 +2770,35 @@ class BullingerDB:
         # Literature(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
         # Print(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
 
-        # Remark(**ID_File, type, remark, user, timestamp)
-        # - type: general / public | internal / private | note | footnote
+        # FirstSentences(*ID, **ID_File, sentence, user, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_SENTENCES, 'w') as f:
+            for s in BullingerDB.get_most_recent_only(db.session, Bemerkung):
+                if s.bemerkung and s.bemerkung.strip():
+                    s.bemerkung = re.sub(r",\s+", ", ", s.bemerkung, flags=re.S)
+                    f.write(",\t".join([
+                        str(s.id_brief),
+                        s.bemerkung,
+                        s.anwender,
+                        s.zeit + '\n'
+                    ]))
 
-        # RemarkTypes(*ID, name)
+        # Note(**ID_File, **NoteType, remark, user, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_NOTES, 'w') as f:
+            for n in BullingerDB.get_most_recent_only(db.session, Notiz):
+                if n.notiz and n.notiz.strip():
+                    n.notiz = re.sub(r",\s+", ", ", n.notiz, flags=re.S)
+                    f.write(",\t".join([
+                        str(n.id_brief),
+                        str(1),
+                        n.notiz,
+                        n.anwender,
+                        n.zeit + '\n'
+                    ]))
+
+        # NoteTypes(*ID, name)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_REMARK_TYPES, 'w') as f:
-            f.write(str(1)+",\tsentence\n")
-            f.write(str(2)+",\tgeneral\n")
-            f.write(str(3)+",\tstaff")
+            f.write(str(1)+",\tgeneral\n")
+            f.write(str(2)+",\tstaff\n")
 
         # User(*ID, *name, *email, **ID_UserGroup, changes, finished, password_hash, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER, 'w') as f:
@@ -2788,6 +2819,7 @@ class BullingerDB:
             f.write(str(1)+",\tAdmin\n")
             f.write(str(2)+",\tStaff\n")
             f.write(str(3)+",\tUser")
+            f.write(str(4)+",\tGuest")
 
         # PageViews(**ID_UserName, url, **ID_PageMode, timestamp)
         users = dict()

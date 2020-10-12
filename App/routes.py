@@ -1134,58 +1134,26 @@ def db_export():
     BullingerDB.db_export()
     return redirect(url_for('index'))
 
-@app.route('/api/get_notices', methods=['GET'])
-def get_notices():
-    n = BullingerDB.get_most_recent_only(db.session, Notiz)
-    with open("Data/DB_Backups/notizen.txt", "w") as f:
-        for t in n:
-            note = t.notiz if t.notiz else ""
-            note = note.replace("\n", "newline_here")
-            f.write(str(t.id_brief) + "&&&" + note + "&&&" + t.anwender + "&&&" + t.zeit + "\n")
-
+@app.route('/api/write_link_days', methods=['GET'])
+def db_write_link_days():
+    with open("Data/DB_Backups/link_days.txt", 'w') as f:
+        data = BullingerDB.get_most_recent_only(db.session, Kartei)
+        for d in data:
+            if d.link_tag: f.write(str(d.id_brief) + "\t" + str(d.link_tag)+"\t"+d.zeit+"\n")
     return redirect(url_for('index'))
 
-@app.route('/api/write_notices', methods=['GET'])
-def write_notices():
-    """
-    n = BullingerDB.get_most_recent_only(db.session, Notiz)
-    with open("Data/DB_Backups/notizen_new.txt", "w") as f:
-        for t in n:
-            note = t.notiz if t.notiz else ""
-            note = note.replace("\n", "newline_here")
-            f.write(str(t.id_brief) + "&&&" + note + "&&&" + t.anwender + "&&&" + t.zeit + "\n")
-    """
-    db.session.query(Notiz).delete()
-    db.session.commit()
 
-    with open("Data/DB_Backups/notizen.txt") as f:
+@app.route('/api/add_link_days', methods=['GET'])
+def db_add_link_days():
+    with open("Data/DB_Backups/link_days.txt") as f:
         for line in f:
-            data = []
-            if line:
-                d = line.split("&&&")
-                for e in d: data.append(e.replace("newline_here", "\n"))
-                a = Notiz()
-                a.id_brief = int(data[0])
-                a.notiz = data[1]
-                a.anwender = data[2]
-                a.zeit = data[3]
-                db.session.add(a)
-                db.session.commit()
-
-    with open("Data/DB_Backups/notizen_new.txt") as f:
-        for line in f:
-            if line:
-                data = []
-                d = line.split("&&&")
-                for e in d: data.append(e.replace("newline_here", "\n"))
-                a = Notiz()
-                a.id_brief = int(data[0])
-                a.notiz = data[1]
-                a.anwender = data[2]
-                a.zeit = data[3]
-                db.session.add(a)
-                db.session.commit()
-
+            data = line.split("\t")
+            id_brief, day, time = data[0], data[1], data[2]
+            print(id_brief, time)
+            for r in Kartei.query.filter_by(id_brief=id_brief):
+                r.link_tag = int(day)
+            db.session.commit()
+            print("Set", id_brief, day)
     return redirect(url_for('index'))
 
 """
