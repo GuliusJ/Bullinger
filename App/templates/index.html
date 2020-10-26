@@ -37,10 +37,16 @@
                     </p>
                     <br/>
                     <p>
+                        <span style="color:red">
+                        Die für den 28. Oktober geplante Vorstellung des Projektes «Bullinger digital» muss aufgrund der
+                        aktuellen Situation um COVID-19 bis auf Weiteres verschoben werden.
+                        </span>
+                        <!--
                         <span style="color:green">
                         Am 28. Oktober findet eine öffentliche Vorstellung des Projektes «Bullinger digital» statt!
                         </span>
                         [<a class="text_link" href="{{ url_for('send_file_flyer_zb') }}">pdf</a>]
+                        -->
                     </p>
                 </div>
             </div>
@@ -120,8 +126,12 @@
                     </li>
                     <li>
                         Flyer zur öffentlichen Vorstellung des Projektes «Bullinger digital»
-                        <span class="kw_italic">(ZB-Zürich, 28.10.2020, 17:30 Uhr)</span>
-                        [<a class="text_link" href="{{ url_for('send_file_flyer_zb') }}">pdf</a>]
+                        <span class="kw_italic">
+                            (ZB-Zürich,
+                                <span style="color:red" class="kw_italic">bis auf Weiteres verschoben</span>)
+                        </span>
+                        [<a style="color:red" class="text_link" href="{{ url_for('send_file_flyer_zb') }}">pdf</a>]
+
                     </li>
                 </ul>
             </div>

@@ -882,6 +882,7 @@ def overview_potential_link_cards():
         title="Hinweise/Verweise (?)",
         vars={
             "table": BullingerDB.get_potential_link_cards(),
+            "invalid": BullingerDB.get_overview_potential_links_invalid()
         }
     )
 
@@ -1156,6 +1157,25 @@ def db_add_link_days():
             print("Set", id_brief, day)
     return redirect(url_for('index'))
 
+@app.route('/api/analysis', methods=['GET'])
+def analysis():
+    with open("tote_CH.txt") as f:
+        data = [[int(t) for t in line.split()] for line in f]
+        print(data)
+        d1, d2, d3, d4, d5, d6 = 0, 0, 0, 0, 0, 0
+        for x in data:
+            d1 += x[0]
+            d2 += x[1]
+            d3 += x[2]
+            d4 += x[3]
+            d5 += x[4]
+            d6 += x[5]
+        s = len(data)
+        d1, d2, d3, d4, d5, d6 = d1/s, d2/s, d3/s, d4/s, d5/s, d6/s
+        print(d1, d2, d3, d4, d5)
+        print(d1/7, (d2+d3+d4+d5)/4/7)
+    return redirect(url_for('index'))
+
 """
 from Data.Transkriptionen.src_code.ParserConfig import ParserConfig
 from Data.Transkriptionen.src_code.ParserPart2 import ParserPart2
@@ -1177,4 +1197,3 @@ def st():
 
     return redirect(url_for('index'))
 """
-

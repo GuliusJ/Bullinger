@@ -1703,6 +1703,29 @@ class BullingerDB:
         return data
 
     @staticmethod
+    def get_overview_potential_links_invalid():
+        data = []
+        recent_index = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        recent_dates = BullingerDB.get_most_recent_only(db.session, Datum).subquery()
+        base = db.session.query(
+            recent_index.c.id_brief,
+            recent_index.c.status,
+            recent_index.c.rezensionen,
+            recent_dates.c.jahr_a,
+            recent_dates.c.monat_a,
+            recent_dates.c.tag_a,
+            recent_dates.c.bemerkung
+        ).join(recent_dates, recent_dates.c.id_brief == recent_index.c.id_brief)
+        for e in base.filter(recent_index.c.status == "ungültig").all():
+            y = e.jahr_a if e.jahr_a else Config.SD
+            m = BullingerDB.convert_month_to_str(e.monat_a)
+            m = Config.SD if not m else m
+            d = str(e.tag_a)+'.' if e.tag_a else Config.SD
+            data.append([e.id_brief, str(y), m, d, e.rezensionen, e.status, e.bemerkung if e.bemerkung else ""])
+        data = sorted(data, key=itemgetter(0))
+        return data
+
+    @staticmethod
     def get_data_overview_month(year, month):
         year, month_num, sq_date, sq_index =\
             BullingerDB.normalize_int_input(year),\
@@ -2729,6 +2752,18 @@ class BullingerDB:
             db.session.commit()
 
     @staticmethod
+    def convert_timestamp_to_ms(t):
+        if re.match(r'\d+-\d+-\d+ \d+:\d+:\d+', t) and not re.match(r'\d+-\d+-\d+ \d+:\d+:\d+\.\d+', t): t += ".0"
+        return int(round(datetime.strptime(t, '%Y-%m-%d %H:%M:%S.%f').timestamp() * 1000))
+
+    @staticmethod
+    def normalize_text(t):
+        t = re.sub(r",\s*", ", ", t, flags=re.S)
+        t = re.sub(r";\s*", "; ", t, flags=re.S)
+        t = re.sub(r"\s*\n\s*", "; ", t, flags=re.S)
+        return t
+
+    @staticmethod
     def db_export():
 
         # File(*ID, **Date, type, state, url_file_card, remark, user, timestamp)
@@ -2768,39 +2803,42 @@ class BullingerDB:
 
         # Bibliography(*ID, title, abbreviation, author_name, author_forename, year, place, publisher, other, remark, user, timestamp)
         # Literature(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
-        # Print(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
 
-        # FirstSentences(*ID, **ID_File, sentence, user, timestamp)
+        # Print(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PRINT, 'w') as f:
+            for p in BullingerDB.get_most_recent_only(db.session, Gedruckt):
+                if p.gedruckt and p.gedruckt.strip():
+                    f.write(",\t".join([
+                        str(p.id_brief),
+                        p.gedruckt,
+                        BullingerDB.normalize_text(p.gedruckt),
+                        str(BullingerDB.convert_timestamp_to_ms(s.zeit)) + '\n'
+                    ]))
+
+        # FirstSentence(**ID_File, sentence, user, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_SENTENCES, 'w') as f:
             for s in BullingerDB.get_most_recent_only(db.session, Bemerkung):
                 if s.bemerkung and s.bemerkung.strip():
-                    s.bemerkung = re.sub(r",\s+", ", ", s.bemerkung, flags=re.S)
                     f.write(",\t".join([
                         str(s.id_brief),
-                        s.bemerkung,
+                        BullingerDB.normalize_text(s.bemerkung),
                         s.anwender,
-                        s.zeit + '\n'
+                        str(BullingerDB.convert_timestamp_to_ms(s.zeit)) + '\n'
                     ]))
 
-        # Note(**ID_File, **NoteType, remark, user, timestamp)
+        # Note(**ID_File, **ID_Authorization, text, **ID_User, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_NOTES, 'w') as f:
             for n in BullingerDB.get_most_recent_only(db.session, Notiz):
                 if n.notiz and n.notiz.strip():
-                    n.notiz = re.sub(r",\s+", ", ", n.notiz, flags=re.S)
                     f.write(",\t".join([
                         str(n.id_brief),
-                        str(1),
-                        n.notiz,
+                        str(3),
+                        BullingerDB.normalize_text(n.notiz),
                         n.anwender,
-                        n.zeit + '\n'
+                        str(BullingerDB.convert_timestamp_to_ms(n.zeit.strip())) + '\n'
                     ]))
 
-        # NoteTypes(*ID, name)
-        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_REMARK_TYPES, 'w') as f:
-            f.write(str(1)+",\tgeneral\n")
-            f.write(str(2)+",\tstaff\n")
-
-        # User(*ID, *name, *email, **ID_UserGroup, changes, finished, password_hash, timestamp)
+        # User(*ID, *name, *email, **ID_Authorization, changes, finished, password_hash, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER, 'w') as f:
             for u in db.session.query(User):
                 f.write(",\t".join([
@@ -2811,14 +2849,14 @@ class BullingerDB:
                     str(u.changes),
                     str(u.finished),
                     u.password_hash,
-                    u.time+'\n'
+                    str(BullingerDB.convert_timestamp_to_ms(u.time)) + '\n'
                 ]))
 
-        # UserGroup(*ID, name)
-        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER_GROUP, 'w') as f:
+        # Authorization(*ID, name)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_AUTHORIZATION, 'w') as f:
             f.write(str(1)+",\tAdmin\n")
             f.write(str(2)+",\tStaff\n")
-            f.write(str(3)+",\tUser")
+            f.write(str(3)+",\tUser\n")
             f.write(str(4)+",\tGuest")
 
         # PageViews(**ID_UserName, url, **ID_PageMode, timestamp)
@@ -2831,10 +2869,10 @@ class BullingerDB:
                 Tracker.time,
             ):
                 f.write(",\t".join([
-                    str(users[u.username]) if u.username in users else str(0),
+                    u.username if u.username in users else "Admin",
                     u.url,
                     str(1),
-                    u.time+'\n',
+                    str(BullingerDB.convert_timestamp_to_ms(u.time))+'\n'
                 ]))
 
         # PageMode(*ID, mode)

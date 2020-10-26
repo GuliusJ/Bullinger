@@ -48,8 +48,9 @@ class Config(object):
     PATH_DB_SENTENCES = "sentences.txt"
     PATH_DB_NOTES = "notes.txt"
     PATH_DB_REMARK_TYPES = "note_types.txt"
+    PATH_DB_PRINT = "print.txt"
 
-    PATH_DB_USER_GROUP = "user_group.txt"
+    PATH_DB_AUTHORIZATION = "user_group.txt"
     PATH_DB_USER = "user.txt"
     PATH_DB_PAGE_VIEWS = "page_views.txt"
     PATH_DB_PAGE_MODE = "page_mode.txt"
