@@ -3,16 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="6d2cb28e-bb45-42c9-b203-59c8af68dfbb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DB_export/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/page_views.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DB_export/page_views.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/sentences.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DB_export/sentences.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/user.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DB_export/user.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doku/Projektkoordination/DB-schema-neu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Doku/Projektkoordination/DB-schema-neu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/db_download.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/db_download.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/BullingerDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/BullingerDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/correspondence_1603751243.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/correspondence_1603751250.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/correspondence_1603751742.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/correspondence_1604006529.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/correspondence_1604030386.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/correspondence_1604030389.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/correspondence_1604030392.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/lang_stats_1603751741.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/overview_1603751242.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/overview_1603751243.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/overview_1604030389.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/plots/overview_1604030392.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/db_download.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -60,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tools/BullingerDB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="2937" column="40" selection-start-line="2937" selection-start-column="40" selection-end-line="2937" selection-end-column="40" />
+            <state relative-caret-position="-967">
+              <caret line="2940" column="78" selection-start-line="2940" selection-start-column="78" selection-end-line="2940" selection-end-column="78" />
               <folding>
                 <element signature="e#119#159#0" expanded="true" />
               </folding>
@@ -367,12 +369,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1409" height="826" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.2609489" side_tool="true" weight="0.15913372" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.72321427" visible="true" weight="0.21829972" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.72321427" visible="true" weight="0.21829972" />
       <window_info id="Structure" order="2" sideWeight="0.2767857" side_tool="true" weight="0.2607616" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.29155314" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.7166213" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5018248" side_tool="true" weight="0.1893733" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49913943" weight="0.32833788" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -680,16 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/BullingerDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="2937" column="40" selection-start-line="2937" selection-start-column="40" selection-end-line="2937" selection-end-column="40" />
-          <folding>
-            <element signature="e#119#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/DB_export/user.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
@@ -723,6 +714,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools/BullingerDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-967">
+          <caret line="2940" column="78" selection-start-line="2940" selection-start-column="78" selection-end-line="2940" selection-end-column="78" />
+          <folding>
+            <element signature="e#119#159#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
