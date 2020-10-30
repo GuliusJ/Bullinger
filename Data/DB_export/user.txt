@@ -1,8 +1,8 @@
-1,	Admin,	bernard.schroffenegger@uzh.ch,	1,	461,	28,	pbkdf2:sha256:150000$1umhs15s$53a0112b531299deec3c9ceffb4e0bb2e437dd7fdd44da1c51798dbcd8c2e255,	1583983705017
+1,	Admin,	bernard.schroffenegger@uzh.ch,	1,	471,	28,	pbkdf2:sha256:150000$1umhs15s$53a0112b531299deec3c9ceffb4e0bb2e437dd7fdd44da1c51798dbcd8c2e255,	1583983705017
 2,	mvolk,	volk@cl.uzh.ch,	2,	18134,	1507,	pbkdf2:sha256:150000$gks2YwDf$0eb9a44d24b9b71ed512ed78f4cfbfb987688681a6505440eac959923bdb6fde,	1583983705017
 3,	DELETED__Annette,	DELETED__annette.kielholz@uzhfoundation.ch,	3,	0,	0,	pbkdf2:sha256:150000$sYuju3iL$91654867aa11d90236f91b06d893ed7dc01f55e375f1d3de14195e8141aa0804,	1583983705017
 4,	raaphii,	raaphii@gmail.com,	3,	0,	0,	pbkdf2:sha256:150000$mOb4XFy6$c77e92687410fb6d283267d44ff90fcf38c8fefb08b059c9d6df6e78f0780ea7,	1583983705017
-5,	Patricia,	patricia.scheurer@uzh.ch,	2,	5109,	1318,	pbkdf2:sha256:150000$YRgxPBWk$cf9d78f6a6f427ced80cc8906871cc78f3e12b62cc21f84ddc0ef032714fae84,	1583983705017
+5,	Patricia,	patricia.scheurer@uzh.ch,	2,	5637,	1435,	pbkdf2:sha256:150000$YRgxPBWk$cf9d78f6a6f427ced80cc8906871cc78f3e12b62cc21f84ddc0ef032714fae84,	1583983705017
 6,	Judith Steiniger,	steiniger@theol.uzh.ch,	2,	100,	0,	pbkdf2:sha256:150000$a6UPqVM4$bfc610cad1000169e73b44e84802d51661056a327cdd5ff7d312f1635a099671,	1583983705017
 7,	pstroebel,	pstroebel@cl.uzh.ch,	3,	0,	0,	pbkdf2:sha256:150000$Y0EJOIMN$d9e2fe42ddeed925fd3a603b56734634e5bd1fc39259903e375d88330d7a23ef,	1583983705017
 8,	Anne Goehring,	goehring@cl.uzh.ch,	3,	0,	0,	pbkdf2:sha256:150000$Z6wpZK20$bcf9bbe87dc8dcb4df7130e6b8fd2ad751a5e10b0b49eae25949540edb28e1dc,	1583983705017
@@ -48,7 +48,7 @@
 48,	aipa,	insomnia705@gmail.com,	3,	6,	0,	pbkdf2:sha256:150000$ZlsmEHRO$056598757af23e0fd31606a0f6b310839c2543eefe015b40edf3a779d4be9c5d,	1585724099790
 49,	giubanski,	giovanni.peduto@zb.uzh.ch,	3,	24,	3,	pbkdf2:sha256:150000$L8tByBPM$74dc2d47c8f926e5b3c0bc47aced9cfa674b722840277931c93b22c194d31356,	1585735475559
 50,	Yael Kälin,	yael.kaelin@uzh.ch,	3,	0,	0,	pbkdf2:sha256:150000$iPfqBcqs$2e42772acf490e2172533395d469b5efffc9ca443dc304a58e464e2b0cbdca1e,	1585739147625
-51,	Peter Rechsteiner,	peterrechsteiner@bluewin.ch,	2,	50526,	5978,	pbkdf2:sha256:150000$NzTcrUjU$059af10d930faa1e1ac46fd037080c111332fcd0ffcf06fd6576723b10f70026,	1585743992459
+51,	Peter Rechsteiner,	peterrechsteiner@bluewin.ch,	2,	52935,	5990,	pbkdf2:sha256:150000$NzTcrUjU$059af10d930faa1e1ac46fd037080c111332fcd0ffcf06fd6576723b10f70026,	1585743992459
 52,	rumbazumba,	rumbazumba123@gmx.de,	3,	9,	1,	pbkdf2:sha256:150000$rxSfLkj7$bbde77cc75e317e5e91c65da8cb101086b37d25ce1ccd92579cdfc428b2d27e9,	1585757858460
 53,	Patrycja,	patrycja.pienkowska@gmail.com,	3,	259,	45,	pbkdf2:sha256:150000$5z5GsDuF$6efc9109f90c9abd9810ad159d0e5257d2707315b72245e4df6d7bdda151e389,	1585761470472
 54,	tobias.roth,	tobias.roth@gmx.net,	3,	0,	0,	pbkdf2:sha256:150000$U8FuTC2b$037e78012cd3b4c945e527b4cb6ee270056b5d25343cf529914c45221fa80c98,	1585899683852

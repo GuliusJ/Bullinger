@@ -47,6 +47,7 @@ Literature(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, ot
 Print(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
 
 ------------------------------------------------------------------------------------------------------------------------
+FirstSentences(*ID, **ID_File, sentence, user, timestamp)
 Note(**ID_File, **ID_Authorization, text, **ID_User, timestamp)
 
 Authorization(*ID, *group)
@@ -54,16 +55,6 @@ Authorization(*ID, *group)
 
 User(*ID, **ID_Authorization, *name, *email, changes, password_hash, timestamp)
 
-PageView(**ID_User, url,  timestamp)
+PageMode(*ID, mode)
+PageView(**ID_User, url, **PageMode, timestamp)
 
-# FirstSentences(*ID, **ID_File, sentence, user, timestamp)
-with open(Config.PATH_DB_EXPORT+Config.PATH_DB_SENTENCES, 'w') as f:
-    for s in BullingerDB.get_most_recent_only(db.session, Bemerkung):
-        if s.bemerkung and s.bemerkung.strip():
-            s.bemerkung = re.sub(r",\s+", ", ", s.bemerkung, flags=re.S)
-            f.write(",\t".join([
-                str(s.id_brief),
-                s.bemerkung,
-                s.anwender,
-                s.zeit + '\n'
-            ]))

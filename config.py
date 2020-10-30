@@ -49,7 +49,10 @@ class Config(object):
     PATH_DB_NOTES = "notes.txt"
     PATH_DB_REMARK_TYPES = "note_types.txt"
     PATH_DB_PRINT = "print.txt"
-
+    PATH_DB_LITERATURE = "literature.txt"
+    PATH_DB_BIBLIOGRAPHY = "bibliography.txt"
+    PATH_DB_DOC_LANG = "doc_language.txt"
+    PATH_DB_LANGUAGE = "Language.txt"
     PATH_DB_AUTHORIZATION = "user_group.txt"
     PATH_DB_USER = "user.txt"
     PATH_DB_PAGE_VIEWS = "page_views.txt"

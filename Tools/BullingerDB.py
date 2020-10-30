@@ -2761,7 +2761,112 @@ class BullingerDB:
         t = re.sub(r",\s*", ", ", t, flags=re.S)
         t = re.sub(r";\s*", "; ", t, flags=re.S)
         t = re.sub(r"\s*\n\s*", "; ", t, flags=re.S)
-        return t
+        t = re.sub(r"\s+", " ", t, flags=re.S)
+        return t.strip()
+
+    @staticmethod
+    def _norm_tue(l):
+
+        l = re.sub(r':\s*-\s*', ': ', l, re.S)
+        l = re.sub(r'^\s*-\s*', '', l, re.S)
+        l = re.sub(r';\s*-\s*', '; ', l, re.S)
+        l = re.sub(r'\s*\|\|\s*', '; ', l, flags=re.S)
+        l = re.sub(r'\s*\|;?\s*', '; ', l, flags=re.S)
+        l = re.sub(r';\s*-\s*', '; ', l, flags=re.S)
+        l = re.sub(r'^\s*-\s*', '', l, flags=re.S)
+        l = re.sub(r'^\s*\*\s*', '*', l, flags=re.S)
+        l = re.sub(r'\s*//\s*', '; ', l, flags=re.S)
+        l = re.sub(r'\s+;\s*', ' ', l, flags=re.S)
+
+        l = re.sub(r'Teilübersetzung:', 'TÜ:', l, flags=re.S)
+        l = re.sub(r'Teilübers\.:\s*', 'TÜ: ', l, re.S)
+        l = re.sub(r'Teilübers\.', 'TÜ', l, flags=re.S)
+        l = re.sub(r'Teil\.?[-\s]*Ü\.', 'TÜ', l, flags=re.S)
+        l = re.sub(r'T\s*-\s*Übers\.', 'TÜ', l, flags=re.S)
+        l = re.sub(r'TeilÜ:', 'TÜ:', l, flags=re.S)
+        l = re.sub(r'Übers\.:\s*', 'Ü: ', l, re.S)
+        l = re.sub(r'Ü\.:\s*', 'Ü.: ', l, flags=re.S)
+        l = re.sub(r'\([Üü]\.?\)', "Ü.", l, flags=re.S)
+        l = re.sub(r'Teil D:', 'TD: ', l, flags=re.S)
+        l = re.sub(r'dt\. Üb:', 'dt. Ü.: ', l, flags=re.S)
+        l = re.sub(r'eÜ\.?:', 'engl. Ü.: ', l, flags=re.S)
+        l = re.sub(r'Teildruck', 'TD', l, flags=re.S)
+
+        l = re.sub(r'Vergl\.:', "vgl.", l, flags=re.S)
+        l = re.sub(r'Vgl\.', "vgl.", l, flags=re.S)
+
+        l = re.sub(r'Regest', "Reg.", l, flags=re.S)
+        l = re.sub(r'Reg\.*:', "Reg.:", l, flags=re.S)
+        l = re.sub(r'Teil Reg\.', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teil-Reg\.', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teilreg:', 'Teilreg.:', l, flags=re.S)
+        l = re.sub(r'Teil-Rg:', 'Teilreg.:', l, flags=re.S)
+        l = re.sub(r'Teilregest:', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teilregest', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teilkopie', 'TK', l, flags=re.S)
+
+        l = re.sub(r'Teil\s*K:', 'TK:', l, flags=re.S)
+
+        l = re.sub(r'\s+', ' ', l, flags=re.S)
+        l = re.sub(r',\s*', ', ', l, flags=re.S)
+        l = re.sub(r':\s*', ': ', l, flags=re.S)
+        l = re.sub(r'\s+\)', ')', l, flags=re.S)
+        l = re.sub(r'\s+\]', ')', l, flags=re.S)
+
+        l = re.sub(r'erw\.', "Erw.", l, flags=re.S)
+        l = re.sub(r'erw\.:', "Erw.:", l, flags=re.S)
+        l = re.sub(r'erw:', "Erw.:", l, flags=re.S)
+        l = re.sub(r'Erw:', "Erw.:", l, flags=re.S)
+        l = re.sub(r'\(erw\.?\)', "(Erw.)", l, flags=re.S)
+
+        l = re.sub(r'zit\.', "Zit.", l, flags=re.S)
+        l = re.sub(r'zit\.:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'zit:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'Zir\.:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'Zit:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'\(zit\.?\)', '(Zit.)', l, flags=re.S)
+        l = re.sub(r'Zitiert:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'zitiert:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'Zit\. in Ü:', "Zit. (Ü):", l, flags=re.S)
+        l = re.sub(r'Zit\.:\s*\([Üü]\.?\):', "Zit. Ü.:", l, flags=re.S)
+
+        l = re.sub(r'Engl\.', 'engl.', l, flags=re.S)
+        l = re.sub(r'[Dd][ae] Porta', "de Porta", l, flags=re.S)
+
+        l = re.sub(r'[Cc]\.\s+[O0o]\.\s*', 'C.O. ', l, re.S)
+        l = re.sub(r'C[O0]\s+', 'C.O. ', l, re.S)
+        l = re.sub(r'M\'schrift', 'Maschinenschrift', l, re.S)
+        l = re.sub(r'masch[\'\s]*schriftl\.', 'Maschinenschrift', l, re.S)
+        l = re.sub(r'\s+nr\s+', ' Nr. ', l, re.S)
+        l = re.sub(r'\snr\.', 'Nr.', l, re.S)
+        l = re.sub(r'\(nr\.', '(Nr.', l, re.S)
+        l = re.sub(r'Graubünden\s*-?\s*BW', 'Graubünden BW', l, re.S)
+        l = re.sub(r'Blarer\s*-?\s*BW', 'Blarer BW', l, re.S)
+        l = re.sub(r'R\.Exc\.', 'R. Exc.', l, re.S)
+        l = re.sub(r'Teil D\.:\s*', 'TD: ', l, re.S)
+        l = re.sub(r'\s+:\s*', ': ', l, re.S)
+        l = re.sub(r'Ep\.?\s*T[ir]g\.?\s*', 'Ep. Tig. ', l, re.S)
+        l = re.sub(r'Vgl\.\s*', "vgl. ", l, flags=re.S)
+        l = re.sub(r'Graubünden Korr III\s*,?\s*', 'Graubünden Korr 3, ', l, re.S)
+
+        m = re.match(r'(.*\d+)(f+)\.?(.*)', l, re.S)
+        while m:
+            l = m.group(1)+" "+m.group(2)+"."+m.group(3)
+            m = re.match(r'(.*\d+)(f+)\.?(.*)', l, re.S)
+
+        return l
+
+    @staticmethod
+    def normalize_literature(l):
+        l = BullingerDB.normalize_text(l)
+        l = BullingerDB._norm_tue(l)
+        return l.strip()
+
+    @staticmethod
+    def normalize_print(p):
+        p = BullingerDB.normalize_text(p)
+        p = BullingerDB._norm_tue(p)
+        return p
 
     @staticmethod
     def db_export():
@@ -2796,24 +2901,70 @@ class BullingerDB:
         # Archive(*ID, [all], name, place, remark, user, timestamp)
 
         # Language(*ID, name)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_LANGUAGE, 'w') as f:
+            f.write(str(1)+",\tLatein\n")
+            f.write(str(2)+",\tDeutsch\n")
+            f.write(str(3)+",\tFranzösisch\n")
+            f.write(str(4)+",\tEnglisch\n")
+            f.write(str(5)+",\tItalienisch\n")
+            f.write(str(6)+",\tGriechisch")
+
+        langs = dict()
+        langs["Latein"] = 1
+        langs["Deutsch"] = 2
+        langs["Französisch"] = 3
+        langs["Englisch"] = 4
+        langs["Italienisch"] = 5
+        langs["Griechisch"] = 6
+
         # Document(*ID, **ID_File, **ID_Archive, signature, type, url_image, url_transcription, remark, user, timestamp)
         # - type: original | autograph | kopie | druck
 
         # DocumentLanguage(**ID_Document, **ID_Language, remark, user, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_DOC_LANG, 'w') as f:
+            for l in BullingerDB.get_most_recent_only(db.session, Sprache):
+                if l.sprache and l.sprache.strip():
+                    f.write(",\t".join([
+                        str(l.id_brief),
+                        str(langs[l.sprache.strip()]),
+                        l.anwender,
+                        str(BullingerDB.convert_timestamp_to_ms(l.zeit)) + '\n'
+                    ]))
 
-        # Bibliography(*ID, title, abbreviation, author_name, author_forename, year, place, publisher, other, remark, user, timestamp)
+        # Bibliography(*ID, [all], title, abbreviation, author_name, author_forename, year, place, publisher, other, remark, user, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_BIBLIOGRAPHY, 'w') as f:
+            for l in db.session.query(Referenzen):
+                if l.literatur and l.literatur.strip() and int(l.status) == 1:
+                    f.write(",\t".join([
+                        l.literatur.strip(),
+                        l.anwender,
+                        str(BullingerDB.convert_timestamp_to_ms(l.zeit)) + '\n'
+                    ]))
+
+
         # Literature(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_LITERATURE, 'w') as f:
+            for l in BullingerDB.get_most_recent_only(db.session, Literatur):
+                if l.literatur and l.literatur.strip():
+                    for x in BullingerDB.normalize_literature(l.literatur).split("; "):
+                        f.write(",\t".join([
+                            str(l.id_brief),
+                            x.strip(),
+                            l.anwender,
+                            str(BullingerDB.convert_timestamp_to_ms(l.zeit)) + '\n'
+                        ]))
 
         # Print(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PRINT, 'w') as f:
             for p in BullingerDB.get_most_recent_only(db.session, Gedruckt):
                 if p.gedruckt and p.gedruckt.strip():
-                    f.write(",\t".join([
-                        str(p.id_brief),
-                        p.gedruckt,
-                        BullingerDB.normalize_text(p.gedruckt),
-                        str(BullingerDB.convert_timestamp_to_ms(s.zeit)) + '\n'
-                    ]))
+                    for x in BullingerDB.normalize_print(p.gedruckt).split("; "):
+                        f.write(",\t".join([
+                            str(p.id_brief),
+                            x.strip(),
+                            p.anwender,
+                            str(BullingerDB.convert_timestamp_to_ms(p.zeit)) + '\n'
+                        ]))
 
         # FirstSentence(**ID_File, sentence, user, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_SENTENCES, 'w') as f:
