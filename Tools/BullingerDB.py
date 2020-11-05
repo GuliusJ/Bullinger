@@ -7,7 +7,7 @@
 from Tools.Dictionaries import CountDict
 from Tools.Plots import *
 from App.models import *
-from sqlalchemy import asc, desc, func, and_, or_, literal, union_all
+from sqlalchemy import asc, desc, func, and_, or_, literal, union_all, tuple_, distinct
 from operator import itemgetter
 from random import sample, randrange
 
@@ -2869,7 +2869,80 @@ class BullingerDB:
         return p
 
     @staticmethod
+    def write_row_place(file, id_brief, id_person, ort, ortschaften, type):
+        if not ort:
+            file.write(",\t".join([str(id_brief), str(id_person), str(0), str(type)]) + '\n')
+        elif ort in ortschaften:
+            file.write(",\t".join([str(id_brief), str(id_person), str(ortschaften[ort]), str(type)]) + '\n')
+        else:
+            print("*Warning: Ignoring place", ort)
+
+    @staticmethod
+    def write_row(d, persons, institutions, titles, places, fp, ft, fi, t_data, i_data, mode):
+        p = (d.vorname if d.vorname else Config.SN) + ' ' + (d.name if d.name else Config.SN)
+        m = re.match(r'([^\[]+)\s+\[([^\]]+)\]', d.name) if d.name else False
+        if p in persons:
+            BullingerDB.write_row_place(fp, d.id_brief, persons[p], d.ort, places, mode)
+        elif "; " in d.name and not d.vorname:
+            BullingerDB.write_names_only(d.name, "; ", ft, fi, d.id_brief, t_data, i_data, d.ort, titles, institutions, places, mode)
+        elif d.name in titles and not d.vorname:
+            BullingerDB.write_row_place(ft, d.id_brief, t_data[d.name], d.ort, places, mode)
+        elif d.name in institutions and not d.vorname:
+            BullingerDB.write_row_place(fi, d.id_brief, i_data[d.name], d.ort, places, mode)
+        elif " und " in d.name and not d.vorname:
+            BullingerDB.write_names_only(d.name, " und ", ft, fi, d.id_brief, t_data, i_data, d.ort, titles, institutions, places, mode)
+        elif m and not d.vorname:
+            if m.group(1) in titles:
+                BullingerDB.write_row_place(ft, d.id_brief, t_data[m.group(1)], d.ort, places, mode)
+            if m.group(1) in institutions:
+                BullingerDB.write_row_place(fi, d.id_brief, i_data[m.group(1)], d.ort, places, mode)
+        else: print("Warning (all)", d)
+
+    @staticmethod
+    def write_names_only(s, delimiter, ft, fi, id_brief, t_data, i_data, ort, titles, institutions, places, mode):
+        for t in s.split(delimiter):
+            xp = re.match(r'([^\[]+)\s+\[([^\]]+)\]', t) if t else False
+            if t in titles:
+                BullingerDB.write_row_place(ft, id_brief, t_data[t], ort, places, mode)
+            elif t in institutions:
+                BullingerDB.write_row_place(fi, id_brief, i_data[t], ort, places, mode)
+            elif xp:
+                if xp.group(1) in titles:
+                    BullingerDB.write_row_place(ft, id_brief, t_data[xp.group(1)], ort, places, mode)
+                elif xp.group(1) in institutions:
+                    BullingerDB.write_row_place(fi, id_brief, i_data[xp.group(1)], ort, places, mode)
+                else: print("*Warning. (composit)", xp.group(1), xp.group(2))
+            else: print("*WARNING. list", s)
+
+    @staticmethod
     def db_export():
+        # Std. Personen und Ortsnamen
+        # https://www.irg.uzh.ch/de/bullinger-edition/b%C3%A4nde/briefverzeichnis.html
+        with open("Data/Diverses/Personennamen.txt") as f:
+            p, o = dict(), dict()
+            for line in f:
+                if line.strip():
+                    m = re.match(r'(.*),(.*),(.*)', line)
+                    if m:
+                        p[m.group(1)] = True
+                        o[m.group(2)] = True
+        with open("Data/Diverses/Personennamen_out.txt", "w") as f:
+            for x in sorted(p.keys(), key=lambda x: x):
+                f.write(x+"\n")
+        with open("Data/Diverses/Ortschaften_out.txt", "w") as f:
+            for x in sorted(o.keys(), key=lambda x: x):
+                f.write(x+"\n")
+
+        with open("Data/Diverses/dict_ortschaften.txt") as f:
+            o = dict()
+            for line in f:
+                if line: o[line.strip()] = True
+            with open("Data/Dictionaries/ortschaften.txt", "w") as f:
+                for x in sorted(o.keys(), key=lambda x: x):
+                    f.write(x+"\n")
+
+        users = dict()
+        for u in db.session.query(User): users[u.username] = u.id
 
         # File(*ID, **Date, type, state, url_file_card, remark, user, timestamp)
         # - type: letter | postscript | article | testament | speech | reference | remark | ...
@@ -2884,21 +2957,247 @@ class BullingerDB:
         # - delimiter_e[nd]: <= | < | ≈ (at the latest | sooner / before | approximately)
         # - verification_(s | e): erschlossen | unsicher erschlossen
 
-        # Person(*ID, groupID, name, forename, is_alias, url_wiki, url_image, remark, user, timestamp)
-        # Place(*ID, groupID, name, province, country, is_alias, longitude, latitude, remark, user, timestamp)
-        # Profession(*ID, title_sg, title_pl, user, timestamp)
+        # Country(*ID, name)
         """
-        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER_GROUP, 'w') as f:
-            f.write(str(1)+",\t"+",\t"+",\t"+Config.ADMIN+",\t0\n")
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_LANGUAGE, 'w') as f:
+            i, countries = 1, dict()
+            for c in Config.COUNTRIES:
+                f.write(str(i) + ",\t" + c + "\n")
+                countries[c] = i
+                i += 1
         """
 
-        # Activity(*ID, **ID_Person, **ID_Profession, **ID_Ort, **Date, remark, user, timestamp)
+        # Place(*ID, groupID, name, province, country, longitude, latitude, remark, user, timestamp)
+        k = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        a = BullingerDB.get_most_recent_only(db.session, Absender).subquery()
+        data_a = db.session.query(
+            k.c.id_brief,
+            a.c.id_person,
+            Person.ort.label("ort"),
+            Person.anwender.label("anwender"),
+            Person.zeit.label("zeit")
+        ).join(a, k.c.id_brief == a.c.id_brief)\
+         .join(Person, a.c.id_person == Person.id)
+        e = BullingerDB.get_most_recent_only(db.session, Empfaenger).subquery()
+        data_b = db.session.query(
+            k.c.id_brief,
+            e.c.id_person,
+            Person.ort.label("ort"),
+            Person.anwender.label("anwender"),
+            Person.zeit.label("zeit")
+        ).join(e, k.c.id_brief == e.c.id_brief)\
+         .join(Person, e.c.id_person == Person.id)
+        data = union_all(data_a, data_b).alias("all")
+        o1 = db.session.query(data.c.ort.label("ort"))
+        o2 = db.session.query(Ortschaften.ort.label("ort")).filter(Ortschaften.status == 1)
+        data = union_all(o1, o2).alias("orte")
+        dp = db.session.query(
+            data.c.ort,
+            func.count(data.c.ort).label("count"),
+            Ortschaften.laenge.label("l"),
+            Ortschaften.breite.label("b")
+        ).group_by(data.c.ort).outerjoin(Ortschaften, Ortschaften.ort == data.c.ort).order_by(desc(func.count(data.c.ort)))
+        places = dict()
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PLACES, 'w') as f:
+            f.write("0,\t0,\ts.l.,\t,\t\n")
+            index = 1
+            for d in dp:
+                if d.ort and d.ort.strip():
+                    places[d.ort] = index
+                    f.write(
+                        str(index)
+                        + ",\t" + str(index)
+                        + ",\t" + (d.ort if d.ort not in Config.COUNTRIES else '')
+                        + ",\t"
+                        + ",\t" + (d.ort if d.ort in Config.COUNTRIES else '')
+                        + ",\t" + (str(d.l) if d.l else "")
+                        + ",\t" + (str(d.b) if d.b else "")
+                        + '\n')
+                    index += 1
 
-        # Correspondent(*ID, **ID_File, **ID_Person, **ID_Place, type, verification_person, verification_place, remark, user, timestamp)
-        # Correspondents(*ID, **ID_File, **ID_Profession, **ID_Place, type, verification_group, verification_place, remark, user, timestamp)
-        # - type: sender(0) | receiver(1) | other(2 +)
+        # Titles(*ID, title_sg, title_pl, user, timestamp)
+        titles = []
+        t_data = dict()
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_TITLES, 'w') as f:
+            c = 1
+            for t in Config.TITLES:
+                t_data[t[0]], t_data[t[1]] = c, c
+                f.write(str(c) + ",\t" + t[0] + ",\t" + t[1] + '\n')
+                titles.append(t[0]); titles.append(t[1])
+                c += 1
 
-        # Archive(*ID, [all], name, place, remark, user, timestamp)
+        # Institutions(*ID, collective_sg, collective_pl, user, timestamp)
+        institutions = []
+        i_data = dict()
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_COLLECTIVE, 'w') as f:
+            c = 1
+            for t in Config.INSTITUTIONS:
+                i_data[t[0]], i_data[t[1]] = c, c
+                f.write(str(c) + ",\t" + t[0] + ",\t" + t[1] + '\n')
+                institutions.append(t[0]); institutions.append(t[1])
+                c += 1
+
+        # Complex(*ID, complex_location, user, timestamp)
+        complex = []
+        c_data = dict()
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_COMPLEX_LOCATIONS, 'w') as f:
+            c = 1
+            for t in Config.COMPLEX_LOCATIONS:
+                c_data[t] = c
+                f.write(str(c) + ",\t" + t + '\n')
+                complex.append(t)
+                c += 1
+
+        # Person(*ID, alias_groupID, name, forename,
+        #   **ID_Place_birth, **ID_Date_birth,
+        #   **ID_Place_death, **ID_Date_death, url_wiki, url_image, remark, user, timestamp
+        # )
+
+        # Names/Forenames
+        k = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        a = BullingerDB.get_most_recent_only(db.session, Absender).subquery()
+        e = BullingerDB.get_most_recent_only(db.session, Empfaenger).subquery()
+        data_a = db.session.query(
+            k.c.id_brief,
+            a.c.id_person,
+            Person.name.label("name"),
+            Person.vorname.label("vorname"),
+        ).join(a, k.c.id_brief == a.c.id_brief)\
+         .join(Person, a.c.id_person == Person.id)
+        data_b = db.session.query(
+            k.c.id_brief,
+            e.c.id_person,
+            Person.name.label("name"),
+            Person.vorname.label("vorname"),
+        ).join(e, k.c.id_brief == e.c.id_brief)\
+         .join(Person, e.c.id_person == Person.id)
+        data = union_all(data_a, data_b).alias("all")
+        data = db.session.query(
+            data.c.name.label("name"),
+            data.c.vorname.label("vorname"),
+        ).group_by(data.c.name, data.c.vorname)
+
+        # all person data
+        raw_data = Config.ALIAS.copy()
+        p = Config.ALIAS.copy()
+        for d in data:
+            hit = False
+            for t in p:
+                # print(t[0], t[1])
+                if d.name in t[0] and d.vorname in t[1]: hit = True
+            if not hit: raw_data.append([[d.name if d.name else Config.SN], [d.vorname if d.vorname else Config.SN]])
+
+        # split: persons vs. titles/institutions
+        p, np = [], []
+        for d in raw_data:
+            if len(d[0]) == 1 and " und " in d[0][0]: np.append(d)
+            elif len(d[0]) == 1 and "; " in d[0][0]: np.append(d)
+            elif len(d[0]) == 1 and re.match(r'\[.*\]', d[0][0]): np.append(d)
+            elif len(d[0]) == 1:
+                hit = False
+                for tt in Config.TITLES:
+                    for t in tt:
+                        if t in d[0][0] \
+                                and d[0][0] != 'Adelschwiler'\
+                                and d[0][0] != 'Schulherr (Scholarch)'\
+                                and d[0][0] != 'Ratgeb'\
+                                and d[0][0] != 'Herrman':
+                            hit = True
+                            break
+                for tt in Config.INSTITUTIONS:
+                    for t in tt:
+                        if t in d[0][0]:
+                            hit = True
+                            break
+                for t in Config.COMPLEX_LOCATIONS:
+                    if t in d[0][0]:
+                        hit = True
+                        break
+                if hit: np.append(d)
+                else: p.append(d)
+            else: p.append(d)
+        # print("\npers")
+        # for x in p: print(x)
+        # print("\n\n other")
+        # for x in np: print(x)
+
+        # data
+        pd, i1 = [], 1
+        p = sorted(p, key=lambda z: z[0])
+        for d in p:
+            # print(d)
+            i2 = i1
+            for nn in d[0]:
+                for vn in d[1]:
+                    pd.append([i1, i2, nn, vn])
+                    i1 += 1
+        persons, i = dict(), 1
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PERSONS, 'w') as f:
+            for d in pd:
+                persons[d[3]+' '+d[2]] = d[0]
+                f.write(str(d[0]) + ",\t" + str(d[1]) + ",\t" + d[2] + ",\t" + d[3] + "\n")
+
+        k = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        a = BullingerDB.get_most_recent_only(db.session, Absender).subquery()
+        e = BullingerDB.get_most_recent_only(db.session, Empfaenger).subquery()
+        data_a = db.session.query(
+            k.c.id_brief,
+            a.c.id_person,
+            Person.name.label("name"),
+            Person.vorname.label("vorname"),
+            Person.ort.label("ort")
+        ).join(a, k.c.id_brief == a.c.id_brief)\
+         .join(Person, a.c.id_person == Person.id)
+        data_b = db.session.query(
+            k.c.id_brief,
+            e.c.id_person,
+            Person.name.label("name"),
+            Person.vorname.label("vorname"),
+            Person.ort.label("ort")
+        ).join(e, k.c.id_brief == e.c.id_brief)\
+         .join(Person, e.c.id_person == Person.id)
+
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PLACES, 'a+') as fo:
+            with open(Config.PATH_DB_EXPORT+Config.PATH_DB_ADD_PERSONS, 'w') as fp:
+                with open(Config.PATH_DB_EXPORT + Config.PATH_DB_ADD_TITLES, 'w') as ft:
+                    with open(Config.PATH_DB_EXPORT + Config.PATH_DB_ADD_INSTITUTIONS, 'w') as fi:
+                        # sender
+                        for d in data_a:
+                            BullingerDB.write_row(d, persons, institutions, titles, places, fp, ft, fi, t_data, i_data, 0)
+                        for d in data_b:
+                            BullingerDB.write_row(d, persons, institutions, titles, places, fp, ft, fi, t_data, i_data, 1)
+
+        # Address_Person(*ID, **ID_File, **ID_Person, **ID_Place, type,
+        #   verification_person, verification_place, remark, user, timestamp
+        # )
+        # Address_Title(*ID, **ID_File, **ID_Profession, **ID_Place, type,
+        #   verification_group, verification_place, remark, user, timestamp
+        # )
+        # Address_Joint(*ID, **ID_File, **ID_Institution, **ID_Place, type,
+        #   verification_group, verification_place,
+        #   remark, user, timestamp)
+
+        # Archive(*ID, groupID, is_alias, [all], name, place, remark, user, timestamp)
+        a = BullingerDB.get_most_recent_only(db.session, Autograph).subquery()
+        b = BullingerDB.get_most_recent_only(db.session, KopieB).subquery()
+        c = BullingerDB.get_most_recent_only(db.session, Kopie).subquery()
+        a0 = db.session.query(a.c.standort.label("standort"))
+        b0 = db.session.query(b.c.standort.label("standort"))
+        c0 = db.session.query(c.c.standort.label("standort"))
+        s = union_all(a0, b0, c0).alias("Standorte")
+        data = db.session.query(
+            s.c.standort,
+            func.count(s.c.standort)
+        ).group_by(s.c.standort).order_by(desc(func.count(s.c.standort)))
+        archive = dict()
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_ARCHIVE, 'w') as f:
+            i = 1
+            for ar in data:
+                if ar.standort:
+                    archive[ar.standort] = i
+                    f.write(str(i) + ",\t" + ar.standort + "\n")
+                    i += 1
+        # for a in archive: print("***\t", archive[a], a)
 
         # Language(*ID, name)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_LANGUAGE, 'w') as f:
@@ -2917,8 +3216,45 @@ class BullingerDB:
         langs["Italienisch"] = 5
         langs["Griechisch"] = 6
 
-        # Document(*ID, **ID_File, **ID_Archive, signature, type, url_image, url_transcription, remark, user, timestamp)
-        # - type: original | autograph | kopie | druck
+        # Document(type, **ID_File, **ID_Archive, signature, remark, url_image, url_transcription, user, timestamp)
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_DOC_TYPES, 'w') as f:
+            f.write(str(1)+",\tOriginal\n")
+            f.write(str(2)+",\tAutograph\n")
+            f.write(str(3)+",\tEntwurf\n")
+            f.write(str(4)+",\tKopie\n")
+            f.write(str(5)+",\teigenhändige Kopie\n")
+            f.write(str(6)+",\tDruck")
+        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_DOCUMENT, 'w') as f:
+            for a in BullingerDB.get_most_recent_only(db.session, Autograph):
+                if a.standort or a.signatur or a.bemerkung:
+                    f.write("2"
+                            + ",\t" + str(a.id_brief)
+                            + ",\t" + BullingerDB.normalize_text(str(archive[a.standort] if a.standort else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(a.signatur if a.signatur else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(a.bemerkung if a.bemerkung else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(users[a.anwender]) if a.anwender in users else str(0))
+                            + ",\t" + BullingerDB.normalize_text(str(BullingerDB.convert_timestamp_to_ms(a.zeit)))
+                            + '\n')
+            for a in BullingerDB.get_most_recent_only(db.session, Kopie):
+                if a.standort or a.signatur or a.bemerkung:
+                    f.write("4"
+                            + ",\t" + str(a.id_brief)
+                            + ",\t" + BullingerDB.normalize_text(str(archive[a.standort] if a.standort else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(a.signatur if a.signatur else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(a.bemerkung if a.bemerkung else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(users[a.anwender]) if a.anwender in users else str(0))
+                            + ",\t" + BullingerDB.normalize_text(str(BullingerDB.convert_timestamp_to_ms(a.zeit)))
+                            + '\n')
+            for a in BullingerDB.get_most_recent_only(db.session, KopieB):
+                if a.standort or a.signatur or a.bemerkung:
+                    f.write("4"
+                            + ",\t" + str(a.id_brief)
+                            + ",\t" + BullingerDB.normalize_text(str(archive[a.standort] if a.standort else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(a.signatur if a.signatur else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(a.bemerkung if a.bemerkung else ""))
+                            + ",\t" + BullingerDB.normalize_text(str(users[a.anwender]) if a.anwender in users else str(0))
+                            + ",\t" + BullingerDB.normalize_text(str(BullingerDB.convert_timestamp_to_ms(a.zeit)))
+                            + '\n')
 
         # DocumentLanguage(**ID_Document, **ID_Language, remark, user, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_DOC_LANG, 'w') as f:
@@ -2927,20 +3263,19 @@ class BullingerDB:
                     f.write(",\t".join([
                         str(l.id_brief),
                         str(langs[l.sprache.strip()]),
-                        l.anwender,
+                        str(users[l.anwender]) if l.anwender in users else str(0),
                         str(BullingerDB.convert_timestamp_to_ms(l.zeit)) + '\n'
                     ]))
 
-        # Bibliography(*ID, [all], title, abbreviation, author_name, author_forename, year, place, publisher, other, remark, user, timestamp)
+        # Bibliography(*ID, [all], title,  abbreviation, author_name, author_forename, year, place, publisher, other, remark, user, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_BIBLIOGRAPHY, 'w') as f:
             for l in db.session.query(Referenzen):
                 if l.literatur and l.literatur.strip() and int(l.status) == 1:
                     f.write(",\t".join([
                         l.literatur.strip(),
-                        l.anwender,
+                        str(users[l.anwender]) if l.anwender in users else str(0),
                         str(BullingerDB.convert_timestamp_to_ms(l.zeit)) + '\n'
                     ]))
-
 
         # Literature(*ID, **ID_File, **ID_Bibliography, [all], page, annotation_number, other, remark, user, timestamp)
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_LITERATURE, 'w') as f:
@@ -2950,7 +3285,7 @@ class BullingerDB:
                         f.write(",\t".join([
                             str(l.id_brief),
                             x.strip(),
-                            l.anwender,
+                            str(users[l.anwender]) if l.anwender in users else str(0),
                             str(BullingerDB.convert_timestamp_to_ms(l.zeit)) + '\n'
                         ]))
 
@@ -2962,7 +3297,7 @@ class BullingerDB:
                         f.write(",\t".join([
                             str(p.id_brief),
                             x.strip(),
-                            p.anwender,
+                            str(users[p.anwender]) if p.anwender in users else str(0),
                             str(BullingerDB.convert_timestamp_to_ms(p.zeit)) + '\n'
                         ]))
 
@@ -2973,7 +3308,7 @@ class BullingerDB:
                     f.write(",\t".join([
                         str(s.id_brief),
                         BullingerDB.normalize_text(s.bemerkung),
-                        s.anwender,
+                        str(users[s.anwender]) if s.anwender in users else str(0),
                         str(BullingerDB.convert_timestamp_to_ms(s.zeit)) + '\n'
                     ]))
 
@@ -2985,7 +3320,7 @@ class BullingerDB:
                         str(n.id_brief),
                         str(3),
                         BullingerDB.normalize_text(n.notiz),
-                        n.anwender,
+                        str(users[n.anwender]) if n.anwender in users else str(0),
                         str(BullingerDB.convert_timestamp_to_ms(n.zeit.strip())) + '\n'
                     ]))
 
@@ -2993,7 +3328,7 @@ class BullingerDB:
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_USER, 'w') as f:
             for u in db.session.query(User):
                 f.write(",\t".join([
-                    str(u.id),
+                    str(u.id),  # 1-99
                     u.username,
                     u.e_mail,
                     str(1) if u.username == "Admin" else (str(2) if u.username in Config.VIP else str(3)),
@@ -3011,8 +3346,6 @@ class BullingerDB:
             f.write(str(4)+",\tGuest")
 
         # PageViews(**ID_UserName, url, **ID_PageMode, timestamp)
-        users = dict()
-        for u in db.session.query(User): users[u.username] = u.id
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PAGE_VIEWS, 'w') as f:
             for u in db.session.query(
                 Tracker.username,
@@ -3020,7 +3353,7 @@ class BullingerDB:
                 Tracker.time,
             ):
                 f.write(",\t".join([
-                    u.username if u.username in users else "Admin",
+                    str(users[u.username]) if u.username in users else str(0),
                     u.url,
                     str(1),
                     str(BullingerDB.convert_timestamp_to_ms(u.time))+'\n'
@@ -3030,4 +3363,3 @@ class BullingerDB:
         with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PAGE_MODE, 'w') as f:
             f.write(str(1)+",\tcitizen science campaign\n")
             f.write(str(2)+",\tpostprocessing database")
-

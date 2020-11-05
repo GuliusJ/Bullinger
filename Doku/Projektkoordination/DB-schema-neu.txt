@@ -13,7 +13,7 @@ File(*ID, **Date, type, access, state, url_file_card, remark, user, timestamp)
 FileLink(*ID, **ID_File_main, **ID_File_reference, type, remark, user, timestamp)
 - type: reference ("Verweis") | note ("Hinweis") | citation | ...
 
-Place(*ID, groupID, name, province, country, is_alias, longitude, latitude, remark, user, timestamp)
+Place(*ID, groupID, name, province, country, longitude, latitude, remark, user, timestamp)
 
 Date(*ID, year_s, month_s, day_s, delimiter_s, verification_s,
           year_e, month_e, day_e, delimiter_e, verification_e, remark, user, timestamp)
@@ -21,18 +21,19 @@ Date(*ID, year_s, month_s, day_s, delimiter_s, verification_s,
 - delimiter_e[nd]: <= | < | ≈ (at the latest | sooner/before | approximately)
 - verification_(s|e): erschlossen | unsicher erschlossen
 
+Title(*ID, title, user, timestamp)
+
 Person(*ID, alias_groupID, is_alias,
        name, forename,
        **ID_Place_birth, **ID_Date_birth,
        **ID_Place_death, **ID_Date_death, url_wiki, url_image, remark, user, timestamp)
 
-Title(*ID, title, user, timestamp)
+Address_Person(*ID, **ID_File, **ID_Person, **ID_Place, type, verification_person, verification_place, remark, user, timestamp)
+Address_Title(*ID, **ID_File, **ID_Profession, **ID_Place, type, verification_group, verification_place, remark, user, timestamp)
+Address_Joint(*ID, **ID_File, **ID_Institution, **ID_Place, type, verification_group, verification_place, remark, user, timestamp)
+- type: sender (0) | receiver (1) | other (2+)
 
 Activity(*ID, **ID_Person, **ID_Title, **ID_Ort, **Date, remark, user, timestamp)
-
-Correspondent(*ID, **ID_File, **ID_Person, **ID_Place, type, verification_person, verification_place, remark, user, timestamp)
-Correspondents(*ID, **ID_File, **ID_Pr ofession, **ID_Place, type, verification_group, verification_place, remark, user, timestamp)
-- type: sender (0) | receiver (1) | other (2+)
 
 Archive(*ID, [all], name, place, remark, user, timestamp)
 

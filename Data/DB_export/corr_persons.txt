@@ -1,0 +1,1835 @@
+1,	1,	Abel,	Johannes
+2,	1,	Abel,	Johann
+3,	1,	Abel,	John
+4,	1,	Abel,	Hans
+5,	5,	Aberlin,	Joachim
+6,	6,	Achatius,	Israelin
+7,	7,	Acronius,	Phrysius Johannes
+8,	7,	Acronius,	Frisius Johannes
+9,	7,	Acronius,	Johannes
+10,	7,	Acronius,	Frisius Johann
+11,	7,	Acronius,	Phrysius Johann
+12,	7,	Acronius,	Johann
+13,	7,	Acronius,	Frisius John
+14,	7,	Acronius,	Phrysius John
+15,	7,	Acronius,	John
+16,	16,	Adelschwiler,	Margareta
+17,	17,	Adlischwiler,	s.n.
+18,	18,	Adlischwiler,	Johannes
+19,	18,	Adlischwiler,	Johann
+20,	18,	Adlischwiler,	Johan
+21,	18,	Adlischwiler,	Hans
+22,	18,	Adelschwiler,	Johannes
+23,	18,	Adelschwiler,	Johann
+24,	18,	Adelschwiler,	Johan
+25,	18,	Adelschwiler,	Hans
+26,	18,	Adelschwyler,	Johannes
+27,	18,	Adelschwyler,	Johann
+28,	18,	Adelschwyler,	Johan
+29,	18,	Adelschwyler,	Hans
+30,	30,	Adlischwiler,	Johannes Jakob
+31,	30,	Adlischwiler,	Johannnes
+32,	30,	Adlischwiler,	Hans Jakob
+33,	30,	Adlischwiler,	Hans
+34,	30,	Adlischwiler,	Jakob
+35,	30,	Adlischwiler,	Johannes
+36,	30,	Adelschwiler,	Johannes Jakob
+37,	30,	Adelschwiler,	Johannnes
+38,	30,	Adelschwiler,	Hans Jakob
+39,	30,	Adelschwiler,	Hans
+40,	30,	Adelschwiler,	Jakob
+41,	30,	Adelschwiler,	Johannes
+42,	30,	Adlischwyler,	Johannes Jakob
+43,	30,	Adlischwyler,	Johannnes
+44,	30,	Adlischwyler,	Hans Jakob
+45,	30,	Adlischwyler,	Hans
+46,	30,	Adlischwyler,	Jakob
+47,	30,	Adlischwyler,	Johannes
+48,	30,	Adelschwyler,	Johannes Jakob
+49,	30,	Adelschwyler,	Johannnes
+50,	30,	Adelschwyler,	Hans Jakob
+51,	30,	Adelschwyler,	Hans
+52,	30,	Adelschwyler,	Jakob
+53,	30,	Adelschwyler,	Johannes
+54,	54,	Agricola,	Joachim
+55,	55,	Agricola,	Laurentius
+56,	55,	Agricola,	Laurenz
+57,	55,	Agricola,	Lorenz
+58,	55,	Meyer,	Laurentius
+59,	55,	Meyer,	Laurenz
+60,	55,	Meyer,	Lorenz
+61,	61,	Aichinger,	Christoph
+62,	61,	Aichinger,	Christophorus
+63,	63,	Aichler,	Michael
+64,	64,	Albrecht,	Martin
+65,	65,	Altieri,	Balthasar
+66,	65,	Altieri,	Baldassar
+67,	65,	Altieri,	Baldassare
+68,	68,	Amerbach,	Bonifacius
+69,	69,	Ampelander,	Valentin
+70,	69,	Rebmann,	Valentin
+71,	71,	Anastasius,	Johannes
+72,	71,	Anastasius,	Jan Gerritszoon
+73,	71,	Anastasius,	Anastasius Johannes
+74,	71,	Versteghe,	Johannes
+75,	71,	Versteghe,	Jan Gerritszoon
+76,	71,	Versteghe,	Anastasius Johannes
+77,	71,	Veluanus,	Johannes
+78,	71,	Veluanus,	Jan Gerritszoon
+79,	71,	Veluanus,	Anastasius Johannes
+80,	80,	Anienus,	s.n.
+81,	81,	Apriolus,	Heinrich
+82,	81,	Eberli,	Heinrich
+83,	81,	Eberlin,	Heinrich
+84,	84,	Arator,	Nikolaus
+85,	85,	Arnauld,	Jean
+86,	86,	Arnold,	Gabriel
+87,	87,	Arnold,	Matthäus
+88,	88,	Avetius,	Benedikt
+89,	89,	Aylmer,	John
+90,	90,	Bachofen,	Mathias
+91,	90,	Bachofen,	Matthias
+92,	90,	Backofen,	Mathias
+93,	90,	Backofen,	Matthias
+94,	94,	Badius,	Konrad
+95,	95,	Banc,	Arnaud
+96,	95,	Banc,	Arnulphus
+97,	95,	Bancus,	Arnaud
+98,	95,	Bancus,	Arnulphus
+99,	99,	Banks,	John
+100,	100,	Barberos,	Wilhelm
+101,	101,	Barthelot,	John
+102,	101,	Barthelot,	Johannes
+103,	101,	Barthelottus,	John
+104,	101,	Barthelottus,	Johannes
+105,	105,	Baudouin,	François
+106,	105,	Baudouin,	Francois
+107,	105,	Bauduin,	François
+108,	105,	Bauduin,	Francois
+109,	105,	Balduinus,	François
+110,	105,	Balduinus,	Francois
+111,	111,	Beccaria,	Johannes
+112,	111,	Beccaria,	Giovanni
+113,	113,	Bechel,	Johannes
+114,	114,	Becher,	Hans
+115,	115,	Bechlin,	Johannes
+116,	115,	Bechlin,	Johann
+117,	117,	Bechrer,	Hans
+118,	118,	Beck,	Dietrich
+119,	118,	Beck,	Theod. Laurentius
+120,	118,	Becks,	Dietrich
+121,	118,	Becks,	Theod. Laurentius
+122,	118,	Beccius,	Dietrich
+123,	118,	Beccius,	Theod. Laurentius
+124,	124,	Bellò,	Lucia
+125,	125,	Bernher,	Augustin
+126,	126,	Bersius,	Marcus
+127,	126,	Bertschi,	Marcus
+128,	128,	Bertlin,	Bartholomäus
+129,	128,	Bertlin,	Bartholomaeus
+130,	128,	Berthlinus,	Bartholomäus
+131,	128,	Berthlinus,	Bartholomaeus
+132,	132,	Besardus,	Martin
+133,	132,	Besardus,	Martinus
+134,	132,	Betschart,	Martin
+135,	132,	Betschart,	Martinus
+136,	136,	Besozzo,	Antonio Mario
+137,	137,	Beza,	s.n.
+138,	138,	Beza,	Theodor
+139,	139,	Bibliander,	Theodor
+140,	140,	Bindschedler,	Jakob
+141,	141,	Bing,	Simon
+142,	142,	Birckmann,	Johann der Ältere
+143,	143,	Birckmann,	Johannes
+144,	143,	Birchmann,	Johannes
+145,	143,	Birchman,	Johannes
+146,	146,	Birk,	Emanuel
+147,	147,	Bitter,	Dietrich
+148,	148,	Blarer,	Diethelm
+149,	149,	Blarer,	Jörg
+150,	150,	Blarer,	Thomas
+151,	151,	Blarer,	Thomas der Jüngere
+152,	152,	Blarer,	Ambrosius
+153,	152,	Blaurer,	Ambrosius
+154,	154,	Blasius,	Johannes
+155,	155,	Blasius,	Marcuard
+156,	155,	Blaise,	Marcuard
+157,	157,	Blaurer,	Augustin
+158,	158,	Bleuler,	Ulrich
+159,	159,	Blum,	Johannes
+160,	159,	Florus,	Johannes
+161,	161,	Bluntschli,	Johannes
+162,	162,	Bochetel,	Bernardin
+163,	162,	Bochetel,	Rhedonenis
+164,	162,	Episcopus,	Bernardin
+165,	162,	Episcopus,	Rhedonenis
+166,	166,	Boner,	Johannes
+167,	167,	Bonett,	Franz
+168,	167,	Bellinchetti,	Franz
+169,	169,	Borrhaus,	Martin
+170,	170,	Both,	Botus Cornelius
+171,	171,	Boutin,	Jean
+172,	172,	Bramburg,	Paul
+173,	172,	Bramburg,	Pavel
+174,	172,	Bramburg,	Paulus
+175,	172,	Bramburgius,	Paul
+176,	172,	Bramburgius,	Pavel
+177,	172,	Bramburgius,	Paulus
+178,	178,	Bramius,	Thomas
+179,	179,	Brandmüller,	Johannes
+180,	180,	Brenz,	Johannes
+181,	181,	Breul,	Tilemann
+182,	182,	Brunner,	Johannes
+183,	183,	Brunner,	Fridolin
+184,	183,	Fonteius,	Fridolin
+185,	183,	Fontejus,	Fridolin
+186,	186,	Bucer,	Martin
+187,	187,	Budny,	Simon
+188,	187,	Budny,	Szymon
+189,	189,	Budé,	Jean
+190,	190,	Bullinger,	Heinrich d.J.
+191,	190,	Bullinger,	Heinrich der Jüngere
+192,	192,	Bullinger,	Heinrich d.Ä.
+193,	192,	Bullinger,	Heinrich der Ältere
+194,	194,	Bullinger,	Johann
+195,	194,	Bullinger,	Johannes
+196,	196,	Bullinger,	s.n.
+197,	197,	Bullinger,	Christoph
+198,	198,	Bullinger,	Hans Rudolf
+199,	199,	Bullinger,	Heinrich
+200,	200,	Bullinger,	Josua
+201,	201,	Bullinger,	Rudolf
+202,	202,	Bullinger,	Anna
+203,	202,	Bullinger-Adlischwyler,	Anna
+204,	202,	Bullinger-Adlischwiler,	Anna
+205,	202,	Bullinger-Adelschwiler,	Anna
+206,	202,	Adelschwiler,	Anna
+207,	207,	Burcher,	John
+208,	208,	Butler,	Heinrich
+209,	208,	Butler,	Henry
+210,	210,	Butler,	John
+211,	211,	Buzynski,	Hieronymus
+212,	212,	Bäldi,	Joachim
+213,	213,	Bäldi,	Michael
+214,	214,	Bérauld,	François
+215,	215,	Caesarius,	Johannes
+216,	216,	Calvin,	s.n.
+217,	217,	Calvin,	Johannes
+218,	218,	Campell,	Ulrich
+219,	218,	Campell,	Durich
+220,	218,	Campell,	Duri
+221,	218,	Campell,	Durisch
+222,	218,	Chiampell,	Ulrich
+223,	218,	Chiampell,	Durich
+224,	218,	Chiampell,	Duri
+225,	218,	Chiampell,	Durisch
+226,	226,	Campensis,	Petrus
+227,	226,	Campensis,	Petrus Tom
+228,	226,	Camph,	Petrus
+229,	226,	Camph,	Petrus Tom
+230,	226,	ten Camph,	Petrus
+231,	226,	ten Camph,	Petrus Tom
+232,	226,	von Kampen,	Petrus
+233,	226,	von Kampen,	Petrus Tom
+234,	234,	Camph,	Gerhard thom
+235,	234,	Camph,	Gerhard
+236,	234,	Camp,	Gerhard thom
+237,	234,	Camp,	Gerhard
+238,	234,	zum Camph,	Gerhard thom
+239,	234,	zum Camph,	Gerhard
+240,	234,	zum Camp,	Gerhard thom
+241,	234,	zum Camp,	Gerhard
+242,	234,	tom Camp,	Gerhard thom
+243,	234,	tom Camp,	Gerhard
+244,	244,	Caraccioli,	Galeazzo
+245,	244,	Caraccioli,	Galeatius
+246,	246,	Cassander,	Georg
+247,	247,	Chaillet,	David
+248,	248,	Cheke,	John
+249,	249,	Chelmski,	Martian
+250,	250,	Chytraeus,	David
+251,	250,	Chyträus,	David
+252,	252,	Cirlerus,	Stephan
+253,	252,	Cirlerus,	Steffanus
+254,	252,	Zirler,	Stephan
+255,	252,	Zirler,	Steffanus
+256,	252,	Cirler,	Stephan
+257,	252,	Cirler,	Steffanus
+258,	258,	Cleber,	Eusebius
+259,	258,	Cleber,	Euseb
+260,	258,	Kleber,	Eusebius
+261,	258,	Kleber,	Euseb
+262,	262,	Cnipius,	Johannes
+263,	262,	Knip,	Johannes
+264,	264,	Cognatus,	Gilbert
+265,	264,	Cognatus,	Gilbertus
+266,	264,	Cousin,	Gilbert
+267,	264,	Cousin,	Gilbertus
+268,	268,	Coignet,	Matthieu
+269,	268,	Coignet,	Matthaeus
+270,	268,	Coignet,	Laberius
+271,	271,	Coignet,	Matthieu d.J.
+272,	271,	Coignet,	Matthieu der Jüngere
+273,	271,	Coignet,	Mattheus d.J.
+274,	271,	Coignet,	Mattheus der Jüngere
+275,	275,	Coignet,	Matthieu d.Ä.
+276,	275,	Coignet,	Matthieu der Ältere
+277,	275,	Coignet,	Mattheus d.Ä.
+278,	275,	Coignet,	Mattheus der Ältere
+279,	279,	Coignet-Rappoel,	Margrit
+280,	280,	Collinus,	Caspar
+281,	280,	Collinus,	Kaspar
+282,	280,	Ambiel,	Caspar
+283,	280,	Ambiel,	Kaspar
+284,	284,	Comander,	Johannes
+285,	285,	Comes,	Beatus
+286,	285,	Comte,	Beatus
+287,	287,	Cook,	Antony
+288,	288,	Cook,	Anthony
+289,	288,	Cook,	Anthonius
+290,	288,	Cooke,	Anthony
+291,	288,	Cooke,	Anthonius
+292,	292,	Coverdale,	Miles
+293,	293,	Cox,	Richard
+294,	294,	Craiß,	Johannes
+295,	295,	Cranmer,	Thomas
+296,	296,	Crapicensis,	Nicolaus Albertus
+297,	297,	Crato,	Johannes
+298,	297,	Crato von Krafftheim,	Johannes
+299,	299,	Crespin,	Jean
+300,	299,	Crispin,	Jean
+301,	299,	Crispinus,	Jean
+302,	302,	Crispinus,	Johannes
+303,	303,	Crispinus,	Leonhard
+304,	304,	Crotus,	Hieronymus
+305,	305,	Cruciger,	Felix
+306,	305,	Cruzinger,	Felix
+307,	305,	Krzyzak,	Felix
+308,	308,	Cruxceus,	Nicolas
+309,	308,	Crois,	Nicolas
+310,	308,	de la Croix,	Nicolas
+311,	308,	Cruxaeus,	Nicolas
+312,	312,	Cruziger,	Felix
+313,	313,	Curio,	Coelius
+314,	313,	Curio,	Coelio
+315,	313,	Curio,	Caelio
+316,	313,	Curio,	Celio
+317,	313,	Curio,	Secundo
+318,	313,	Curio,	Secundus
+319,	313,	Curio,	Secondo
+320,	313,	Curio,	Coelius Secundo
+321,	313,	Curio,	Coelio Secundo
+322,	313,	Curio,	Caelio Secundo
+323,	313,	Curio,	Celio Secundo
+324,	313,	Curio,	Coelius Secundus
+325,	313,	Curio,	Coelio Secundus
+326,	313,	Curio,	Caelio Secundus
+327,	313,	Curio,	Celio Secundus
+328,	313,	Curio,	Coelius Secondo
+329,	313,	Curio,	Coelio Secondo
+330,	313,	Curio,	Caelio Secondo
+331,	313,	Curio,	Celio Secondo
+332,	313,	Curione,	Coelius
+333,	313,	Curione,	Coelio
+334,	313,	Curione,	Caelio
+335,	313,	Curione,	Celio
+336,	313,	Curione,	Secundo
+337,	313,	Curione,	Secundus
+338,	313,	Curione,	Secondo
+339,	313,	Curione,	Coelius Secundo
+340,	313,	Curione,	Coelio Secundo
+341,	313,	Curione,	Caelio Secundo
+342,	313,	Curione,	Celio Secundo
+343,	313,	Curione,	Coelius Secundus
+344,	313,	Curione,	Coelio Secundus
+345,	313,	Curione,	Caelio Secundus
+346,	313,	Curione,	Celio Secundus
+347,	313,	Curione,	Coelius Secondo
+348,	313,	Curione,	Coelio Secondo
+349,	313,	Curione,	Caelio Secondo
+350,	313,	Curione,	Celio Secondo
+351,	351,	Czikowski,	Andres
+352,	352,	Czikowski,	Stanislaus
+353,	353,	Daius,	Johannes
+354,	353,	Daius,	John
+355,	353,	Day,	Johannes
+356,	353,	Day,	John
+357,	357,	Danmatter,	Christian
+358,	357,	Dammatter,	Christian
+359,	359,	Dasypodius,	Konrad
+360,	359,	Dasypodius,	Conrad
+361,	361,	Dasypodius,	Petrus
+362,	362,	Dathenus,	Petrus
+363,	362,	Dathenus,	Peter
+364,	364,	De La Borde,	Jacques
+365,	364,	De La Borde,	Jacobus
+366,	364,	Bordesius,	Jacques
+367,	364,	Bordesius,	Jacobus
+368,	368,	Del Corro,	Antonio
+369,	368,	Del Corro,	Antonius
+370,	368,	Corranus,	Antonio
+371,	368,	Corranus,	Antonius
+372,	372,	Delescourre,	Jean
+373,	372,	Delescourre,	Johannes
+374,	372,	Scorranus,	Jean
+375,	372,	Scorranus,	Johannes
+376,	376,	Della Rovere,	Giulio
+377,	376,	Della Rovere,	Julius
+378,	376,	von Mailand,	Giulio
+379,	376,	von Mailand,	Julius
+380,	376,	Della Rovere da Milano,	Giulio
+381,	376,	Della Rovere da Milano,	Julius
+382,	376,	Milanese,	Giulio
+383,	376,	Milanese,	Julius
+384,	384,	Des Gallars,	Nikolaus
+385,	384,	Des Gallars,	Nicolas
+386,	384,	Gallatius,	Nikolaus
+387,	384,	Gallatius,	Nicolas
+388,	384,	Gallars,	Nikolaus
+389,	384,	Gallars,	Nicolas
+390,	384,	Gallasius,	Nikolaus
+391,	384,	Gallasius,	Nicolas
+392,	392,	Desouches,	Léodegar
+393,	392,	Desouches,	Leodigarius
+394,	392,	Disonthes,	Léodegar
+395,	392,	Disonthes,	Leodigarius
+396,	396,	Despota,	Jacoubs Heraclides
+397,	396,	Despota,	Jacob Eraclide
+398,	396,	Despotul,	Jacoubs Heraclides
+399,	396,	Despotul,	Jacob Eraclide
+400,	396,	Fürst Moldau und Walachei,	Jacoubs Heraclides
+401,	396,	Fürst Moldau und Walachei,	Jacob Eraclide
+402,	402,	Die vier evangelischen Städte,	s.n.
+403,	403,	Dipelius,	Nikolaus
+404,	404,	Dluska,	Agnes
+405,	404,	Dluska-Kottwitz,	Agnes
+406,	406,	Dluska,	Nikolaus
+407,	406,	Dluska-Kottwitz,	Nikolaus
+408,	408,	Dluski,	Nikolaus
+409,	409,	Dluski-Kottwitz,	Nikolaus
+410,	410,	Dryander,	Franciscus
+411,	411,	Dryander,	Johannes
+412,	412,	Du Moulin,	Claude
+413,	412,	Du Moulin,	Claudius
+414,	412,	Molinius,	Claude
+415,	412,	Molinius,	Claudius
+416,	416,	Dudith,	Andreas
+417,	417,	Dumont,	Luc
+418,	417,	Dumont,	Lucas
+419,	417,	Montanus,	Luc
+420,	417,	Montanus,	Lucas
+421,	421,	Duno,	Taddeo
+422,	421,	Duno,	Thaddaeus
+423,	421,	Dunus,	Taddeo
+424,	421,	Dunus,	Thaddaeus
+425,	425,	Dürnhofer,	Laurenz
+426,	425,	Dürnhofer,	Laurentius
+427,	425,	Dürnhofer,	Laurent
+428,	428,	Dürnhofer,	Lorenz
+429,	429,	Ebel,	Heinrich
+430,	430,	Eggelius,	Karl
+431,	431,	Egli,	Tobias
+432,	431,	Iconius,	Tobias
+433,	433,	Ehem,	Christoph
+434,	433,	Ehem,	Christopherus
+435,	435,	Ehem,	Christophorus
+436,	436,	Ehinger,	Johannes
+437,	437,	Enoc,	Louis
+438,	438,	Erastus,	Thomas
+439,	438,	Erast,	Thomas
+440,	440,	Erb,	Matthias
+441,	440,	Erb,	Mathias
+442,	442,	Erni,	Lienhart
+443,	443,	Escher,	Konrad
+444,	444,	Ewich,	Johannes
+445,	444,	Ewich,	Johann
+446,	446,	Fabri,	Christophe
+447,	446,	Fabri,	Christoph
+448,	446,	Faber,	Christophe
+449,	446,	Faber,	Christoph
+450,	446,	Libertet,	Christophe
+451,	446,	Libertet,	Christoph
+452,	452,	Fabricius,	s.n.
+453,	453,	Fabricius,	Heinrich
+454,	454,	Fabricius,	Johannes
+455,	455,	Fabricius,	Karl
+456,	455,	Fabricius,	Carolus
+457,	455,	Fabricius,	Janus
+458,	455,	Fabricius,	Engelbert
+459,	455,	Düsseldorpianus,	Karl
+460,	455,	Düsseldorpianus,	Carolus
+461,	455,	Düsseldorpianus,	Janus
+462,	455,	Düsseldorpianus,	Engelbert
+463,	455,	Orion,	Karl
+464,	455,	Orion,	Carolus
+465,	455,	Orion,	Janus
+466,	455,	Orion,	Engelbert
+467,	455,	Faber,	Karl
+468,	455,	Faber,	Carolus
+469,	455,	Faber,	Janus
+470,	455,	Faber,	Engelbert
+471,	471,	Falais,	Jakob
+472,	471,	Falais,	Jacques
+473,	471,	Falesius,	Jakob
+474,	471,	Falesius,	Jacques
+475,	471,	von Burgund,	Jakob
+476,	471,	von Burgund,	Jacques
+477,	471,	de Bourgogne,	Jakob
+478,	471,	de Bourgogne,	Jacques
+479,	471,	Burgundia,	Jakob
+480,	471,	Burgundia,	Jacques
+481,	481,	Farel,	Wilhelm
+482,	482,	Farnowski,	Stanislaus
+483,	483,	Fehr,	Jakob
+484,	483,	Fer,	Jakob
+485,	485,	Fejérthóy,	Johannes
+486,	485,	Fejérthóy,	János
+487,	485,	Feyerthoy,	Johannes
+488,	485,	Feyerthoy,	János
+489,	485,	Fejérthoy,	Johannes
+490,	485,	Fejérthoy,	János
+491,	485,	Fejértóy,	Johannes
+492,	485,	Fejértóy,	János
+493,	493,	Festenberger,	Georg
+494,	494,	Finck,	Konrad
+495,	494,	Finck,	Conrad
+496,	496,	Finsler,	Josua
+497,	496,	Finsler,	Josias
+498,	496,	Vinslerus,	Josua
+499,	496,	Vinslerus,	Josias
+500,	500,	Foxe,	John
+501,	500,	Foxe,	Johannes
+502,	502,	Francis,	Russel
+503,	503,	Franciscus,	Dryander
+504,	503,	Franciscus,	Dryander de Enzinas
+505,	503,	Francisco,	Dryander
+506,	503,	Francisco,	Dryander de Enzinas
+507,	503,	Franz,	Dryander
+508,	503,	Franz,	Dryander de Enzinas
+509,	509,	Fratribus,	s.n.
+510,	510,	Frau,	s.n.
+511,	511,	Frei,	Johann Thomas
+512,	511,	Frei,	Thomas
+513,	511,	Frei,	Johann
+514,	511,	Freigius,	Johann Thomas
+515,	511,	Freigius,	Thomas
+516,	511,	Freigius,	Johann
+517,	517,	Frensham,	Edward
+518,	518,	Frey,	Johann Leopold
+519,	518,	Frey,	Johann
+520,	518,	Frey,	Leopold
+521,	518,	Frey,	Johannes
+522,	518,	Frey,	Jean
+523,	518,	Frei,	Johann Leopold
+524,	518,	Frei,	Johann
+525,	518,	Frei,	Leopold
+526,	518,	Frei,	Johannes
+527,	518,	Frei,	Jean
+528,	518,	Liberius,	Johann Leopold
+529,	518,	Liberius,	Johann
+530,	518,	Liberius,	Leopold
+531,	518,	Liberius,	Johannes
+532,	518,	Liberius,	Jean
+533,	518,	Liévin,	Johann Leopold
+534,	518,	Liévin,	Johann
+535,	518,	Liévin,	Leopold
+536,	518,	Liévin,	Johannes
+537,	518,	Liévin,	Jean
+538,	518,	Sr de Beaulieu,	Johann Leopold
+539,	518,	Sr de Beaulieu,	Johann
+540,	518,	Sr de Beaulieu,	Leopold
+541,	518,	Sr de Beaulieu,	Johannes
+542,	518,	Sr de Beaulieu,	Jean
+543,	543,	Fries,	Johannes
+544,	544,	Frisching,	Christiana
+545,	545,	Frisching,	Theobald
+546,	546,	Frobenius,	Hieronymus
+547,	547,	Froschauer,	Christoph der Jüngere
+548,	548,	Frölich,	Georg
+549,	548,	Laetus,	Georg
+550,	550,	Funck,	Johannes
+551,	550,	Funck,	Johan
+552,	550,	Funck,	Johann
+553,	550,	Funk,	Johannes
+554,	550,	Funk,	Johan
+555,	550,	Funk,	Johann
+556,	550,	Funccius,	Johannes
+557,	550,	Funccius,	Johan
+558,	550,	Funccius,	Johann
+559,	550,	Fedmiger,	Johannes
+560,	550,	Fedmiger,	Johan
+561,	550,	Fedmiger,	Johann
+562,	562,	Furtmüller,	Hans Valentin
+563,	563,	Fäsi,	Oswald
+564,	564,	Fünkli,	Jakob
+565,	565,	Gadius,	Paulus
+566,	565,	Gaddi,	Paulus
+567,	567,	Gallicius,	Philipp
+568,	568,	Gardirius,	Geldrus Gerhardus
+569,	569,	Garnerius,	Johannes
+570,	569,	Garnerius,	Jean
+571,	569,	Garnier,	Johannes
+572,	569,	Garnier,	Jean
+573,	573,	Gasser,	Achilles Pirmin
+574,	574,	Gast,	Johannes
+575,	575,	Georg,	Mönhart
+576,	575,	Georg,	Monnhart
+577,	577,	Gerlach,	Jörg
+578,	578,	Gesner,	Konrad
+579,	579,	Gessner,	Konrad
+580,	579,	Gessner,	Conrad
+581,	581,	Gilowski,	Pawel
+582,	581,	Gilowski,	Paul
+583,	581,	Gilowski,	Paulus
+584,	581,	Gilovius,	Pawel
+585,	581,	Gilovius,	Paul
+586,	581,	Gilovius,	Paulus
+587,	587,	Gimper,	Kaspar
+588,	587,	Gymper,	Kaspar
+589,	589,	Giowski,	Pawel
+590,	590,	Gleim,	Otto
+591,	591,	Gracilis,	St.
+592,	592,	Graf von Württemberg,	Georg
+593,	593,	Grafen,	s.n.
+594,	594,	Grais,	Johann
+595,	595,	Grasser,	Jonas
+596,	595,	Grasserus,	Jonas
+597,	597,	Grataroli,	Wilhelm
+598,	597,	Grataroli,	Guglielmo
+599,	597,	Grataroli,	Guilhelmus
+600,	597,	Grataroli,	Gulielmus
+601,	597,	Gratarolus,	Wilhelm
+602,	597,	Gratarolus,	Guglielmo
+603,	597,	Gratarolus,	Guilhelmus
+604,	597,	Gratarolus,	Gulielmus
+605,	605,	Gray,	Henry
+606,	605,	Grey,	Henry
+607,	607,	Gray,	Jane
+608,	607,	Gray,	Jana
+609,	607,	Grey,	Jane
+610,	607,	Grey,	Jana
+611,	611,	Gremp,	Ludwig
+612,	612,	Grindal,	Edmund
+613,	613,	Grynaeus,	Johann Jakob
+614,	614,	Grynaeus,	Simon der Jüngere
+615,	615,	Gräfin [Tübingen],	Katharina
+616,	616,	Grübel,	Sebastian
+617,	617,	Guanget,	Delphinat
+618,	617,	Guangetus,	Delphinat
+619,	619,	Guarinono,	Thomaso
+620,	620,	Gwalther,	s.n.
+621,	621,	Gwalther,	Rudolf
+622,	622,	Gwalther,	Rudolf der Jüngere
+623,	623,	Gügeli,	Johannes
+624,	624,	Haab,	Johannes
+625,	625,	Hab,	Johannes
+626,	626,	Hack,	Peter
+627,	627,	Haddon,	James
+628,	628,	Hagenberg,	Hans Rudolf
+629,	629,	Hales,	Christopher
+630,	630,	Haller,	Wolfgang
+631,	630,	Haller,	Wolf
+632,	632,	Haller,	s.n.
+633,	633,	Haller,	Johann Jakob
+634,	634,	Haller,	Johannes
+635,	635,	Haller,	Sulpicius
+636,	636,	Hamberger,	Hartmann
+637,	637,	Happel,	Wigand
+638,	637,	Happelius,	Wigand
+639,	639,	Hardenberg,	Albert
+640,	640,	Harding,	Thomas
+641,	641,	Hartung,	Johannes
+642,	641,	Hartung,	Johann
+643,	643,	Haug,	David
+644,	644,	Hauser,	Joseph
+645,	644,	Hauss,	Joseph
+646,	646,	Hedinger,	Heinrich
+647,	647,	Hedio,	Euseb
+648,	648,	Hedio,	Kaspar
+649,	649,	Hegner,	Diethelm
+650,	650,	Heim,	Lucius
+651,	651,	Herdenius,	Helfrich
+652,	652,	Herdesianus,	Christoph
+653,	652,	Herdessianus,	Christoph
+654,	652,	Hardesheim,	Christoph
+655,	655,	Hermann,	Daniel
+656,	656,	Herold,	Michael
+657,	656,	Herold,	Michel
+658,	658,	Herold,	Johannes
+659,	659,	Herrman,	Rudolf
+660,	660,	Herter,	Joachim
+661,	661,	Herter,	Johannes
+662,	662,	Herterus,	Johannes
+663,	663,	Herzog von Guise,	s.n.
+664,	664,	Herzog von Württemberg,	Christoph
+665,	665,	Heyden,	Johannes
+666,	666,	Hilles,	Richard
+667,	667,	Hirsgarter,	Matthias
+668,	668,	Ho...,	Leonhard
+669,	669,	Hochholzer,	Christian
+670,	670,	Hoffhalter,	Katharina
+671,	671,	Hoffmann,	Marcus
+672,	672,	Hohensax,	Johann Philipp
+673,	673,	Hohensax,	Ulrich
+674,	673,	Hohensax,	Ulrich Philipp
+675,	673,	Hohensax,	Philipp
+676,	673,	von Hohensax,	Ulrich
+677,	673,	von Hohensax,	Ulrich Philipp
+678,	673,	von Hohensax,	Philipp
+679,	673,	Sax,	Ulrich
+680,	673,	Sax,	Ulrich Philipp
+681,	673,	Sax,	Philipp
+682,	682,	Holdermeyer,	Jost
+683,	683,	Hollerius,	Blasius
+684,	684,	Holzwart,	Mathias
+685,	684,	Holzwart,	Matthias
+686,	686,	Hooper,	Anne
+687,	686,	Hooper,	Anna
+688,	688,	Hooper,	John
+689,	688,	Hopper,	John
+690,	690,	Horn,	Robert
+691,	690,	Horne,	Robert
+692,	692,	Hortinus,	Michael
+693,	693,	Hoser,	David
+694,	694,	Hoser,	Simprecht
+695,	695,	Hospinian,	Christian
+696,	696,	Hospinian,	Johannes
+697,	696,	Wirth,	Johannes
+698,	698,	Hotman,	François
+699,	698,	Hotman,	Francois
+700,	698,	Hotman,	Franz
+701,	698,	Hotman,	Franziskus
+702,	698,	Hotman,	Franciscus
+703,	698,	Hotman,	Franziscus
+704,	698,	Hotmann,	François
+705,	698,	Hotmann,	Francois
+706,	698,	Hotmann,	Franz
+707,	698,	Hotmann,	Franziskus
+708,	698,	Hotmann,	Franciscus
+709,	698,	Hotmann,	Franziscus
+710,	698,	Hotomann,	François
+711,	698,	Hotomann,	Francois
+712,	698,	Hotomann,	Franz
+713,	698,	Hotomann,	Franziskus
+714,	698,	Hotomann,	Franciscus
+715,	698,	Hotomann,	Franziscus
+716,	698,	Hotomannus,	François
+717,	698,	Hotomannus,	Francois
+718,	698,	Hotomannus,	Franz
+719,	698,	Hotomannus,	Franziskus
+720,	698,	Hotomannus,	Franciscus
+721,	698,	Hotomannus,	Franziscus
+722,	722,	Hubenschmid,	Kaspar
+723,	722,	Hubenschmid,	Caspar
+724,	724,	Hubert,	Konrad
+725,	724,	Hubert,	Conrad
+726,	724,	Huprecht,	Konrad
+727,	724,	Huprecht,	Conrad
+728,	728,	Hug,	Johannes
+729,	728,	Hug,	Johann
+730,	728,	Hug,	Johannes II.
+731,	728,	Hugo,	Johannes
+732,	728,	Hugo,	Johann
+733,	728,	Hugo,	Johannes II.
+734,	728,	Hug(o),	Johannes
+735,	728,	Hug(o),	Johann
+736,	728,	Hug(o),	Johannes II.
+737,	737,	Hug,	Johannes d.J.
+738,	737,	Hug,	Johannes der Jüngere
+739,	737,	Hugo,	Johannes d.J.
+740,	737,	Hugo,	Johannes der Jüngere
+741,	737,	Hug(o),	Johannes d.J.
+742,	737,	Hug(o),	Johannes der Jüngere
+743,	743,	Humphrey,	John Laurence
+744,	743,	Humphrey,	Laurence
+745,	745,	Hussar,	Gallus
+746,	745,	Hussar,	Gál
+747,	745,	Huszár,	Gallus
+748,	745,	Huszár,	Gál
+749,	749,	Hyperius,	Andreas
+750,	750,	Hyperius,	Laurentius
+751,	750,	Gheeraerdts,	Laurentius
+752,	752,	Hägeli,	Johannes
+753,	753,	Hürus,	Hieronymus
+754,	754,	Hüsli,	Rudolf
+755,	755,	Hüsseli,	Kaspar
+756,	756,	Israel,	Georg
+757,	757,	Jaske,	Johannes
+758,	757,	Jaskeus,	Johannes
+759,	759,	Jeger,	Isaak
+760,	759,	Jeger,	Jsaak
+761,	759,	Jegerus,	Isaak
+762,	759,	Jegerus,	Jsaak
+763,	759,	Jäger,	Isaak
+764,	759,	Jäger,	Jsaak
+765,	759,	Jägerus,	Isaak
+766,	759,	Jägerus,	Jsaak
+767,	767,	Jegerus,	Isaac
+768,	768,	Jenisch,	Marx
+769,	769,	Jewel,	John
+770,	770,	Jociscus,	Andreas
+771,	771,	Jonvilliers,	Charles
+772,	771,	Jonvilliers,	Carolus
+773,	771,	Jonvillaeus,	Charles
+774,	771,	Jonvillaeus,	Carolus
+775,	775,	Jordan,	Spithek
+776,	776,	Jung,	Johannes
+777,	777,	K,	Jacob
+778,	778,	Kambli,	Johannes
+779,	779,	Kappeler,	Veit
+780,	780,	Karli,	Gregorius
+781,	781,	Karlin,	Gregor
+782,	782,	Kaufmann,	Hieronymus
+783,	782,	Emporus,	Hieronymus
+784,	784,	Keller,	Diethelm
+785,	785,	Keller,	Hans
+786,	786,	Keller,	Georg
+787,	786,	Keller,	Josua
+788,	786,	Cellarius,	Georg
+789,	786,	Cellarius,	Josua
+790,	790,	Kerez,	Jakob
+791,	791,	Kessler,	Johannes
+792,	791,	Kessler,	Josua
+793,	793,	Kessler,	Samuel
+794,	794,	Kielmann,	Johannes
+795,	795,	Kilchmeier,	Jodocus
+796,	796,	Kilchmeyer,	Jost
+797,	797,	Kiszka,	Johannes
+798,	797,	Kiszka,	Jan
+799,	799,	Klauser,	Konrad
+800,	800,	Klebitz,	Wilhelm
+801,	801,	Klösel,	Anton
+802,	801,	Khlesl,	Anton
+803,	803,	Knibb,	Paul
+804,	804,	Knox,	John
+805,	805,	Kolb,	Andreas
+806,	806,	Kranz,	Hieronymus
+807,	806,	Sertorius,	Hieronymus
+808,	808,	Krowicki,	Martin
+809,	808,	Crovitius,	Martin
+810,	810,	Krug,	Kaspar
+811,	811,	Krupek,	Konrad
+812,	812,	Kugelmann,	Georg
+813,	813,	Kunheim,	Erhard
+814,	813,	Kunhaim,	Erhard
+815,	813,	Künhaim,	Erhard
+816,	813,	von Kunheim,	Erhard
+817,	813,	von Kunhaim,	Erhard
+818,	813,	von Künhaim,	Erhard
+819,	819,	König,	Nikolaus
+820,	819,	Regius,	Nikolaus
+821,	821,	König von Polen,	Sigismund II. August
+822,	821,	König von Polen,	Zygmunt II.
+823,	821,	König von Polen,	Sigismund II.
+824,	821,	König von Polen,	Sigismund
+825,	821,	König von Polen,	Zygmunt
+826,	821,	König von Polen,	August
+827,	821,	König,	Sigismund II. August
+828,	821,	König,	Zygmunt II.
+829,	821,	König,	Sigismund II.
+830,	821,	König,	Sigismund
+831,	821,	König,	Zygmunt
+832,	821,	König,	August
+833,	833,	La Croix,	s.n.
+834,	834,	Laetus,	Erasmus
+835,	835,	Lamb,	Hieronimus
+836,	835,	Lamb,	Hieronymus
+837,	835,	zum Lamb,	Hieronimus
+838,	835,	zum Lamb,	Hieronymus
+839,	835,	Agninus,	Hieronimus
+840,	835,	Agninus,	Hieronymus
+841,	841,	Landgraf von Hessen,	Wilhelm
+842,	841,	Landgraf von Hessen,	Wilhelm IV.
+843,	843,	Landgraf von Hessen,	Philipp
+844,	843,	von Hessen,	Philipp
+845,	845,	Landgraf von Sulz,	Wilhelm
+846,	846,	Languet,	Hubert
+847,	847,	Lasitius,	Johannes
+848,	847,	Lasitius,	Johann
+849,	847,	Lasitius,	Jan
+850,	847,	Lasicki,	Johannes
+851,	847,	Lasicki,	Johann
+852,	847,	Lasicki,	Jan
+853,	847,	Lasicius,	Johannes
+854,	847,	Lasicius,	Johann
+855,	847,	Lasicius,	Jan
+856,	847,	Laski,	Johannes
+857,	847,	Laski,	Johann
+858,	847,	Laski,	Jan
+859,	847,	a Lasco,	Johannes
+860,	847,	a Lasco,	Johann
+861,	847,	a Lasco,	Jan
+862,	862,	Lavater,	Ludwig
+863,	863,	Le Gras,	Robert
+864,	864,	Le Machon,	
+865,	864,	Lematzotz,	
+866,	866,	Lehwald,	Balthasar
+867,	867,	Leith,	James
+868,	867,	Leith,	Jacobus Anglus
+869,	867,	Lecheus,	James
+870,	867,	Lecheus,	Jacobus Anglus
+871,	871,	Lening,	Johannes
+872,	872,	Lentulo,	Scipio
+873,	872,	Lentulo,	Scipione
+874,	872,	Lentulus,	Scipio
+875,	872,	Lentulus,	Scipione
+876,	876,	Lever,	Thomas
+877,	877,	Levinus,	Heinrich
+878,	877,	Linggi,	Heinrich
+879,	877,	Linki,	Heinrich
+880,	877,	Laevinus,	Heinrich
+881,	881,	Leymer,	Thomas
+882,	882,	Lindauer,	Bernhard
+883,	883,	Liner,	Hans
+884,	884,	Lismaninus,	Franciscus
+885,	884,	Lismaninus,	Francesco
+886,	884,	Lismaninus,	Franz
+887,	884,	Lismanninus,	Franciscus
+888,	884,	Lismanninus,	Francesco
+889,	884,	Lismanninus,	Franz
+890,	884,	Lismanini,	Franciscus
+891,	884,	Lismanini,	Francesco
+892,	884,	Lismanini,	Franz
+893,	884,	Lismanino,	Franciscus
+894,	884,	Lismanino,	Francesco
+895,	884,	Lismanino,	Franz
+896,	896,	Lochmann,	Hans Heinrich
+897,	896,	Lochmann,	Heinrich
+898,	898,	Londanus,	Ricaudus
+899,	899,	Loyseau,	O.
+900,	899,	Loysamme,	O.
+901,	901,	Lusinski,	Johannes
+902,	902,	Lyb,	Jakob
+903,	903,	Lycosthenes,	Konrad
+904,	904,	Lydius,	Martin
+905,	904,	Lydius,	Martinus
+906,	906,	Löwenklau,	Johannes
+907,	907,	Mader,	Balthasar
+908,	908,	Magius,	Vincentius
+909,	908,	Magius,	Vincenzo
+910,	908,	Maggi,	Vincentius
+911,	908,	Maggi,	Vincenzo
+912,	912,	Maier,	Nikolaus
+913,	913,	Mainard,	Augustin
+914,	913,	Mainard,	Agostino
+915,	913,	Mainard,	Augustinus
+916,	913,	Mainardo,	Augustin
+917,	913,	Mainardo,	Agostino
+918,	913,	Mainardo,	Augustinus
+919,	913,	Mainardi,	Augustin
+920,	913,	Mainardi,	Agostino
+921,	913,	Mainardi,	Augustinus
+922,	913,	Mainardus,	Augustin
+923,	913,	Mainardus,	Agostino
+924,	913,	Mainardus,	Augustinus
+925,	925,	Maler,	Michael
+926,	926,	Maler,	Josua
+927,	926,	Pictorius,	Josua
+928,	928,	Mameranus,	Nikolaus
+929,	929,	Marcuard,	Blaise
+930,	929,	Marcuard,	Blasius
+931,	931,	Marti,	Ambrosius
+932,	932,	Marti,	Benedikt
+933,	932,	Aretius,	Benedikt
+934,	934,	Martinengo,	Celso
+935,	934,	Martinengo,	Celsus
+936,	934,	Martinenghi,	Celso
+937,	934,	Martinenghi,	Celsus
+938,	934,	Martinengus,	Celso
+939,	934,	Martinengus,	Celsus
+940,	940,	Martinengo,	Ulysse
+941,	940,	Martinengo,	Ulysses
+942,	940,	Martinengo,	Ulisse
+943,	940,	Martinengo,	Ulisses
+944,	940,	Martinengus,	Ulysse
+945,	940,	Martinengus,	Ulysses
+946,	940,	Martinengus,	Ulisse
+947,	940,	Martinengus,	Ulisses
+948,	940,	Martinenghi,	Ulysse
+949,	940,	Martinenghi,	Ulysses
+950,	940,	Martinenghi,	Ulisse
+951,	940,	Martinenghi,	Ulisses
+952,	952,	Massarius,	Hieronymus
+953,	953,	Massurius,	Hieronymus
+954,	954,	Matthaeus,	Johannes
+955,	955,	Matthäus,	Johannes Heinrich
+956,	955,	Matthäus,	Joahnnes
+957,	955,	Matthaeus,	Johannes Heinrich
+958,	955,	Matthaeus,	Joahnnes
+959,	959,	Maximilian II,	s.n.
+960,	960,	May,	Claudius
+961,	960,	May,	Glado
+962,	962,	Meier,	s.n.
+963,	963,	Melanchthon,	s.n.
+964,	964,	Melanchthon,	Philipp
+965,	965,	Melander,	Dionysius der Jüngere
+966,	966,	Melius,	Peter
+967,	967,	Menius,	Eusebius
+968,	968,	Menscheverus,	Heinrich
+969,	968,	Menscheverus,	Henricus
+970,	968,	Menschever,	Heinrich
+971,	968,	Menschever,	Henricus
+972,	968,	Menscheverus Frisius Groningensis,	Heinrich
+973,	968,	Menscheverus Frisius Groningensis,	Henricus
+974,	974,	Meyer,	Rudolf
+975,	975,	Micronius,	Martin
+976,	976,	Milander,	Engelbert
+977,	976,	Eppelmann,	Engelbert
+978,	978,	Mommer,	Aegidius
+979,	978,	Mommerus,	Aegidius
+980,	980,	Monau,	Jakob
+981,	981,	Monier,	Claude
+982,	982,	Mont,	Christophorus
+983,	983,	Mont,	Christoph
+984,	983,	Mont,	Christopher
+985,	983,	Mont,	Christopherus
+986,	983,	Montius,	Christoph
+987,	983,	Montius,	Christopher
+988,	983,	Montius,	Christopherus
+989,	983,	Mundt,	Christoph
+990,	983,	Mundt,	Christopher
+991,	983,	Mundt,	Christopherus
+992,	992,	Montmeiamus,	B.
+993,	993,	Moranges,	Guy
+994,	993,	Morangius,	Guy
+995,	995,	Morelet de Museau,	s.n.
+996,	996,	Morelet de Museau,	Antoine
+997,	997,	Morison,	Richard
+998,	998,	Mortius,	Detus
+999,	998,	Mortius,	Odet
+1000,	998,	de Niort,	Detus
+1001,	998,	de Niort,	Odet
+1002,	1002,	Multavius,	Joachim
+1003,	1003,	Mumius,	Tilemanus
+1004,	1004,	Murer,	Johann Jakob
+1005,	1005,	Musculus,	Abraham
+1006,	1006,	Musculus,	Johann Heinrich
+1007,	1007,	Musculus,	Wolfgang
+1008,	1008,	Myconius,	Oswald
+1009,	1009,	Myliagrius,	Jacobus
+1010,	1009,	Rietmüller,	Jacobus
+1011,	1011,	Mylius,	Jeremias
+1012,	1012,	Myszkowski,	Stanislaus
+1013,	1012,	Myszkowski,	Stanislaus Czikowski
+1014,	1012,	Miszkowski,	Stanislaus
+1015,	1012,	Miszkowski,	Stanislaus Czikowski
+1016,	1016,	Märtyrer,	s.n.
+1017,	1017,	Mönhart,	Georg
+1018,	1018,	Mötteli,	Martin
+1019,	1019,	Müller,	Georg Jörg
+1020,	1019,	Müller,	Georg
+1021,	1019,	Müller,	Jörg
+1022,	1022,	Müller,	Johann Baptist
+1023,	1023,	Müller,	Kaspar
+1024,	1024,	Müsch,	Johannes
+1025,	1024,	Müschius,	Johannes
+1026,	1026,	Naillosius,	J. P.
+1027,	1027,	Naogeorgus,	Thomas
+1028,	1027,	Naogeorgus,	Naogeorgus
+1029,	1027,	Naogeorgus,	Thomas Naogeorgus
+1030,	1027,	Kirchmaier,	Thomas
+1031,	1027,	Kirchmaier,	Naogeorgus
+1032,	1027,	Kirchmaier,	Thomas Naogeorgus
+1033,	1027,	Kirchmeier,	Thomas
+1034,	1027,	Kirchmeier,	Naogeorgus
+1035,	1027,	Kirchmeier,	Thomas Naogeorgus
+1036,	1027,	Kirchmair,	Thomas
+1037,	1027,	Kirchmair,	Naogeorgus
+1038,	1027,	Kirchmair,	Thomas Naogeorgus
+1039,	1039,	Neythart,	Carolus
+1040,	1040,	Niger,	Franciscus
+1041,	1040,	Negri,	Franciscus
+1042,	1042,	Nägeli,	Schultheiss
+1043,	1043,	Nägeli,	Christian
+1044,	1043,	Näegelin,	Christian
+1045,	1045,	Nötzli,	Markus
+1046,	1046,	Nüscheler,	Johann Jakob
+1047,	1047,	Obrecht,	Georg
+1048,	1047,	Obrecht,	Jerg
+1049,	1047,	Obprecht,	Georg
+1050,	1047,	Obprecht,	Jerg
+1051,	1047,	Olprech,	Georg
+1052,	1047,	Olprech,	Jerg
+1053,	1053,	Oglethorpe,	Owen
+1054,	1054,	Olevianus,	Kaspar
+1055,	1054,	Olevianus,	Caspar
+1056,	1056,	Olisleger,	Adolph
+1057,	1056,	Olisleger,	Adolphus
+1058,	1056,	Olisleger,	Adolf
+1059,	1056,	von Baars,	Adolph
+1060,	1056,	von Baars,	Adolphus
+1061,	1056,	von Baars,	Adolf
+1062,	1056,	Baars,	Adolph
+1063,	1056,	Baars,	Adolphus
+1064,	1056,	Baars,	Adolf
+1065,	1056,	a Baars,	Adolph
+1066,	1056,	a Baars,	Adolphus
+1067,	1056,	a Baars,	Adolf
+1068,	1056,	Bars,	Adolph
+1069,	1056,	Bars,	Adolphus
+1070,	1056,	Bars,	Adolf
+1071,	1056,	von Baar,	Adolph
+1072,	1056,	von Baar,	Adolphus
+1073,	1056,	von Baar,	Adolf
+1074,	1056,	de Bars,	Adolph
+1075,	1056,	de Bars,	Adolphus
+1076,	1056,	de Bars,	Adolf
+1077,	1077,	Oporin,	s.n.
+1078,	1078,	Oporin,	Johannes
+1079,	1078,	Oporinus,	Johannes
+1080,	1080,	Orth,	Wigand
+1081,	1080,	Orthius,	Wigand
+1082,	1082,	Ostrorog,	Johannes
+1083,	1083,	Ostrorog,	Stanislaus
+1084,	1084,	Ostrorog,	Wenzeslaus
+1085,	1085,	Ott,	Heinrich
+1086,	1085,	Ottheinrich,	Heinrich
+1087,	1087,	Paceus,	Valentin
+1088,	1087,	Paceus,	Valentinus
+1089,	1089,	Paclesius,	Stanislaus
+1090,	1089,	Paklepka,	Stanislaus
+1091,	1091,	Pantaleon,	Heinrich
+1092,	1092,	Pappus,	Hieronymus
+1093,	1093,	Paravicini,	Bartholomäus
+1094,	1094,	Parisotus,	Petrus
+1095,	1094,	Parisotus,	Pietro
+1096,	1094,	Parisotti,	Petrus
+1097,	1094,	Parisotti,	Pietro
+1098,	1094,	Bergomas,	Petrus
+1099,	1094,	Bergomas,	Pietro
+1100,	1100,	Parkhurst,	John
+1101,	1101,	Parkhurst,	Margret
+1102,	1102,	Paulus,	Gregor
+1103,	1102,	Paulus,	Gregorz
+1104,	1102,	Paulus,	Gregorius
+1105,	1102,	Paul,	Gregor
+1106,	1102,	Paul,	Gregorz
+1107,	1102,	Paul,	Gregorius
+1108,	1102,	Pawel,	Gregor
+1109,	1102,	Pawel,	Gregorz
+1110,	1102,	Pawel,	Gregorius
+1111,	1102,	Pauli,	Gregor
+1112,	1102,	Pauli,	Gregorz
+1113,	1102,	Pauli,	Gregorius
+1114,	1102,	Paweł,	Gregor
+1115,	1102,	Paweł,	Gregorz
+1116,	1102,	Paweł,	Gregorius
+1117,	1117,	Payan,	Jean
+1118,	1117,	Payan,	Johannes
+1119,	1117,	Payanus,	Jean
+1120,	1117,	Payanus,	Johannes
+1121,	1121,	Pechius,	Sebastian
+1122,	1122,	Pellikan,	Konrad
+1123,	1122,	Pellikan,	Conrad
+1124,	1122,	Pellican,	Konrad
+1125,	1122,	Pellican,	Conrad
+1126,	1126,	Perusinus,	Petrus
+1127,	1126,	Bizzarri,	Petrus
+1128,	1128,	Peyer,	Alexander
+1129,	1129,	Peyer,	Martin
+1130,	1130,	Pfalzgraf,	Christoph
+1131,	1131,	Pfalzgraf,	Ottheinrich
+1132,	1132,	Pfalzgraf bei Rhein,	Christoph
+1133,	1133,	Pfalzgraf von Hessen,	Wilhelm
+1134,	1134,	Pfalzgraf von Neuburg,	Ottheinrich
+1135,	1135,	Pfauser,	Johannes Sebastian
+1136,	1136,	Pfeiffer,	Jakob
+1137,	1137,	Pfister,	Vincenz
+1138,	1138,	Pfister,	Nikolaus
+1139,	1138,	Pfister,	Nicolaus
+1140,	1138,	Pfister,	Baling
+1141,	1138,	Artopoeus,	Nikolaus
+1142,	1138,	Artopoeus,	Nicolaus
+1143,	1138,	Artopoeus,	Baling
+1144,	1144,	Pflüger,	Alexander
+1145,	1145,	Philippin,	Elias
+1146,	1145,	Philippin,	Elie
+1147,	1145,	Philippinus,	Elias
+1148,	1145,	Philippinus,	Elie
+1149,	1149,	Pilkington,	James
+1150,	1150,	Pincier,	Hermann
+1151,	1151,	Pincier,	Johann
+1152,	1152,	Pincier,	Johannes
+1153,	1153,	Pistorius,	Thomas Ulrich
+1154,	1154,	Plançon,	Guillaume
+1155,	1154,	Plançon,	Guilelmus
+1156,	1154,	Plancon,	Guillaume
+1157,	1154,	Plancon,	Guilelmus
+1158,	1154,	Plancius,	Guillaume
+1159,	1154,	Plancius,	Guilelmus
+1160,	1160,	Platter,	Felix
+1161,	1161,	Pluna,	Jacob Martin
+1162,	1161,	Pluna,	Jakob Martin
+1163,	1163,	Ponet,	John
+1164,	1164,	Pontisella,	Johannes
+1165,	1165,	Pontisella,	Johannes der Jüngere
+1166,	1166,	Poppius,	Menso
+1167,	1167,	Pornaxius,	Leonardus
+1168,	1168,	Portus,	Franciscus
+1169,	1168,	Portus,	Francesco
+1170,	1168,	Porto,	Franciscus
+1171,	1168,	Porto,	Francesco
+1172,	1172,	Postellus,	Wilhelm
+1173,	1173,	Poullain,	Valérand
+1174,	1173,	Poullain,	Valerandus
+1175,	1173,	Polanus,	Valérand
+1176,	1173,	Polanus,	Valerandus
+1177,	1177,	Pournas,	Leonhard
+1178,	1177,	Pournas,	Leonhart
+1179,	1177,	Pournas,	Léonard
+1180,	1177,	Pournas,	Leonhardus
+1181,	1177,	Pournas,	Leonarthus
+1182,	1177,	Pornaxius,	Leonhard
+1183,	1177,	Pornaxius,	Leonhart
+1184,	1177,	Pornaxius,	Léonard
+1185,	1177,	Pornaxius,	Leonhardus
+1186,	1177,	Pornaxius,	Leonarthus
+1187,	1187,	Prazmowski,	Andreas
+1188,	1187,	Prazmowski,	Andrzej
+1189,	1189,	Quadrio,	Ludwig
+1190,	1190,	Radziwill,	Nikolaus
+1191,	1190,	Radziwill,	Mikołaj
+1192,	1190,	Radziwill,	Olika
+1193,	1190,	Radziwil,	Nikolaus
+1194,	1190,	Radziwil,	Mikołaj
+1195,	1190,	Radziwil,	Olika
+1196,	1190,	Radziwiłł,	Nikolaus
+1197,	1190,	Radziwiłł,	Mikołaj
+1198,	1190,	Radziwiłł,	Olika
+1199,	1190,	Czarny,	Nikolaus
+1200,	1190,	Czarny,	Mikołaj
+1201,	1190,	Czarny,	Olika
+1202,	1190,	Graf von Wilna,	Nikolaus
+1203,	1190,	Graf von Wilna,	Mikołaj
+1204,	1190,	Graf von Wilna,	Olika
+1205,	1205,	Ragor,	Heinrich
+1206,	1206,	Ramp,	Ezechiel
+1207,	1207,	Ramus,	Petrus
+1208,	1207,	Ramus,	Pierre
+1209,	1207,	Ramus,	Peter
+1210,	1207,	de la Ramée,	Petrus
+1211,	1207,	de la Ramée,	Pierre
+1212,	1207,	de la Ramée,	Peter
+1213,	1213,	Rappoltstein,	Anna Alexandria
+1214,	1213,	Rappoltstein,	Anna
+1215,	1213,	Rappoltstein,	Alexandria
+1216,	1213,	von Rappoltstein,	Anna Alexandria
+1217,	1213,	von Rappoltstein,	Anna
+1218,	1213,	von Rappoltstein,	Alexandria
+1219,	1213,	von Rappoltsweiler,	Anna Alexandria
+1220,	1213,	von Rappoltsweiler,	Anna
+1221,	1213,	von Rappoltsweiler,	Alexandria
+1222,	1222,	Rasdorfer,	Paul
+1223,	1223,	Ratgeb,	Hans
+1224,	1224,	Renatus,	Camillus
+1225,	1225,	Reniger,	Michael
+1226,	1226,	Renty,	Anne
+1227,	1227,	Richer,	Christophe
+1228,	1228,	Rietmüller,	Jakob
+1229,	1229,	Rietmüller,	Johannes
+1230,	1230,	Rivarius,	François
+1231,	1230,	Rivarius,	Franciscus
+1232,	1230,	Rivarius,	Francois
+1233,	1230,	Rivarius,	Franz
+1234,	1234,	Riverius,	Francois
+1235,	1235,	Roding,	Nikolaus
+1236,	1236,	Roist,	Anna
+1237,	1237,	Roll,	Nikolaus
+1238,	1237,	Roll,	Nicolaus
+1239,	1237,	Rollius,	Nikolaus
+1240,	1237,	Rollius,	Nicolaus
+1241,	1241,	Rosenstock,	Hans
+1242,	1242,	Roset,	Michael
+1243,	1242,	Roset,	Michel
+1244,	1244,	Rudolfi,	Kaspar
+1245,	1245,	Ruffus,	Jacobus
+1246,	1245,	Ruffy,	Jacobus
+1247,	1247,	Ruinella,	Jakob
+1248,	1248,	Rupe,	A.
+1249,	1248,	Rupe,	Antoine
+1250,	1248,	de la Roche Chandieu,	A.
+1251,	1248,	de la Roche Chandieu,	Antoine
+1252,	1248,	Chandeus,	A.
+1253,	1248,	Chandeus,	Antoine
+1254,	1254,	Russel,	Francis
+1255,	1254,	Russel,	Franciscus
+1256,	1254,	Russel,	Earl of
+1257,	1254,	Bedford,	Francis
+1258,	1254,	Bedford,	Franciscus
+1259,	1254,	Bedford,	Earl of
+1260,	1260,	Rust,	Thüring
+1261,	1260,	Rust,	Turingius
+1262,	1260,	Rust Bernas,	Thüring
+1263,	1260,	Rust Bernas,	Turingius
+1264,	1264,	Ryhiner,	Heinrich
+1265,	1265,	Röichli,	Jesajas
+1266,	1265,	Röichli,	Jesaias
+1267,	1265,	Röichli,	Isaia
+1268,	1265,	Röusch,	Jesajas
+1269,	1265,	Röusch,	Jesaias
+1270,	1265,	Röusch,	Isaia
+1271,	1271,	Rüeger,	Jakob
+1272,	1271,	Rüeger,	Jacob
+1273,	1273,	Sailer,	Raphael
+1274,	1274,	Sailer,	Gereon
+1275,	1274,	Seiler,	Gereon
+1276,	1276,	Salet,	Wolfgang
+1277,	1277,	Salis,	Herkules
+1278,	1278,	Salkyns,	William
+1279,	1279,	Sampson,	Thomas
+1280,	1280,	Sandys,	Edwin
+1281,	1281,	Sarnicius,	Stanilaus
+1282,	1281,	Sarnicius,	Stanislaw
+1283,	1281,	Sarnicki,	Stanilaus
+1284,	1281,	Sarnicki,	Stanislaw
+1285,	1281,	Stadnicki,	Stanilaus
+1286,	1281,	Stadnicki,	Stanislaw
+1287,	1287,	Sarnicki,	Stanislaus
+1288,	1288,	Schankwitz,	Marcel Dietrich
+1289,	1289,	Schatter,	Rando
+1290,	1290,	Schenck,	Mathias
+1291,	1290,	Schenck,	Matthias
+1292,	1290,	Schenk,	Mathias
+1293,	1290,	Schenk,	Matthias
+1294,	1290,	Schenkius,	Mathias
+1295,	1290,	Schenkius,	Matthias
+1296,	1296,	Schenckius,	Mathias
+1297,	1297,	Scher,	Peter der Jüngere
+1298,	1298,	Schertlin,	Sebastian
+1299,	1299,	Schlatter,	Michael
+1300,	1300,	Schlegel,	Johannes
+1301,	1301,	Schlüsselberger,	Gabriel
+1302,	1302,	Schmid,	Jost
+1303,	1303,	Schmid,	Sebastian
+1304,	1304,	Schmutz,	Alexander der Jüngere
+1305,	1305,	Schneeberger,	Anton
+1306,	1305,	Schneeberger,	Antonius
+1307,	1307,	Schneewolf,	Moritz
+1308,	1308,	Schneider,	Peter
+1309,	1309,	Schnyder,	Abraham
+1310,	1309,	Sartorius,	Abraham
+1311,	1311,	Schuler,	Paul
+1312,	1311,	Schuler,	Paulus
+1313,	1313,	Schuler,	Gervasius
+1314,	1314,	Schuler,	Johannes
+1315,	1315,	Schuler,	Fridolin
+1316,	1315,	Schuler,	Fridli
+1317,	1315,	Hauptmann Schuler,	Fridolin
+1318,	1315,	Hauptmann Schuler,	Fridli
+1319,	1319,	Schulherr (Scholarch),	s.n.
+1320,	1320,	Schwager,	s.n.
+1321,	1321,	Schädler,	Isaak
+1322,	1322,	Schädler,	Mathias
+1323,	1323,	Schöpf,	Thomas
+1324,	1323,	Schöpfius,	Thomas
+1325,	1325,	Schöw,	s.n.
+1326,	1326,	Schürmeister,	Benedikt
+1327,	1327,	Seebach,	Gregor
+1328,	1328,	Seebach,	Margaretha
+1329,	1329,	Seemann,	Georg
+1330,	1330,	Seemann,	Maximilian
+1331,	1331,	Semly,	Konrad
+1332,	1332,	Sidall,	Henry
+1333,	1333,	Sigismund,	August
+1334,	1334,	Simburger,	Anton
+1335,	1334,	Simburger,	Antonius
+1336,	1334,	Süburger,	Anton
+1337,	1334,	Süburger,	Antonius
+1338,	1338,	Simler,	Josias
+1339,	1339,	Simler,	Peter
+1340,	1340,	Skalich,	Paul
+1341,	1340,	Skalich,	Paulus
+1342,	1340,	Scalich,	Paul
+1343,	1340,	Scalich,	Paulus
+1344,	1340,	Scalichius,	Paul
+1345,	1340,	Scalichius,	Paulus
+1346,	1346,	Skaricza,	Máte
+1347,	1347,	Skinner,	Ralph
+1348,	1348,	Socin,	Laelius
+1349,	1348,	Socin,	Lelio
+1350,	1348,	Sozin,	Laelius
+1351,	1348,	Sozin,	Lelio
+1352,	1348,	Sozzini,	Laelius
+1353,	1348,	Sozzini,	Lelio
+1354,	1354,	Soerin,	Leonhard
+1355,	1354,	Soerin,	Leonhart
+1356,	1354,	Soerinus,	Leonhard
+1357,	1354,	Soerinus,	Leonhart
+1358,	1354,	Serin,	Leonhard
+1359,	1354,	Serin,	Leonhart
+1360,	1360,	Sorsen,	Andreas
+1361,	1361,	Sprüngli,	Bernhard
+1362,	1362,	Stadler,	Jörg
+1363,	1363,	Stadnicius,	Stanislaus M
+1364,	1364,	Stancarus,	Franciscus
+1365,	1365,	Steiger,	Johannes
+1366,	1365,	Steiger,	Johann
+1367,	1365,	Steiger,	Hans
+1368,	1368,	Stephan,	Andreas
+1369,	1368,	Stephan,	Ondřej
+1370,	1368,	Štefan,	Andreas
+1371,	1368,	Štefan,	Ondřej
+1372,	1372,	Stephanus,	Robert
+1373,	1372,	Estienne,	Robert
+1374,	1374,	Stiller,	Sebastian
+1375,	1375,	Stipitius,	Christoph
+1376,	1376,	Stokar,	Benedikt
+1377,	1376,	Stockar,	Benedikt
+1378,	1376,	Stockarum,	Benedikt
+1379,	1379,	Strigel,	Viktorin
+1380,	1380,	Strigelius,	Victor
+1381,	1380,	Strigelius,	Victorinus
+1382,	1382,	Stuart,	Guillaume
+1383,	1382,	Sieur de Vézines,	Guillaume
+1384,	1384,	Stucki,	Johann Wilhelm
+1385,	1385,	Stumpf,	Johannes Rudolf
+1386,	1385,	Stumpf,	Johannes
+1387,	1385,	Stumpf,	Johann
+1388,	1385,	Stumpf,	Hans
+1389,	1385,	Stumpf,	Rudolf
+1390,	1385,	Stumpf,	Johann Rudolf
+1391,	1385,	Stumpf,	Hans Rudolf
+1392,	1392,	Stupanus,	Johann Nikolaus
+1393,	1393,	Sturm,	Johannes
+1394,	1394,	Sulzer,	Simon
+1395,	1395,	Susliga,	Florian
+1396,	1396,	Sylvanus,	Johannes
+1397,	1397,	Sylvio,	Bartolomeo
+1398,	1398,	Szadkowski,	Andreas
+1399,	1399,	Szichzovinus,	Lukas
+1400,	1399,	Szichzovinus,	Lukács
+1401,	1399,	Szikszoi,	Lukas
+1402,	1399,	Szikszoi,	Lukács
+1403,	1403,	Sägisser,	Albrecht
+1404,	1403,	Segesser,	Albrecht
+1405,	1405,	Taffin,	Jean
+1406,	1405,	Taffin,	Johannes
+1407,	1405,	Tafimus,	Jean
+1408,	1405,	Tafimus,	Johannes
+1409,	1409,	Talmann,	Achilles
+1410,	1410,	Tarnowicz,	Johannes
+1411,	1410,	Tarnowski,	Johannes
+1412,	1412,	Taurus,	Sigismund
+1413,	1412,	Stier,	Sigismund
+1414,	1414,	Terentianus,	Julius
+1415,	1414,	Terentianus,	Iulius
+1416,	1414,	Santerentianus,	Julius
+1417,	1414,	Santerentianus,	Iulius
+1418,	1414,	Santerrentianus,	Julius
+1419,	1414,	Santerrentianus,	Iulius
+1420,	1420,	Thamer,	Theobald
+1421,	1421,	Theodor,	Philipp
+1422,	1421,	Dietrich,	Philipp
+1423,	1423,	Thoman,	Heinrich
+1424,	1423,	Thomann,	Heinrich
+1425,	1425,	Thoman,	Gregor
+1426,	1425,	Thoman,	Gregorius
+1427,	1425,	Thomann,	Gregor
+1428,	1425,	Thomann,	Gregorius
+1429,	1429,	Thretius,	Christian
+1430,	1430,	Thretius,	Christoph
+1431,	1431,	Thurius,	Mathias
+1432,	1432,	Thyenaeus,	Odeardus
+1433,	1432,	Thyenaeus,	Odoardus
+1434,	1432,	Thyenaeus,	Edouard
+1435,	1432,	Thyenaeus,	Eduard
+1436,	1432,	de Thienes,	Odeardus
+1437,	1432,	de Thienes,	Odoardus
+1438,	1432,	de Thienes,	Edouard
+1439,	1432,	de Thienes,	Eduard
+1440,	1432,	Thienes,	Odeardus
+1441,	1432,	Thienes,	Odoardus
+1442,	1432,	Thienes,	Edouard
+1443,	1432,	Thienes,	Eduard
+1444,	1444,	Tillmann,	Samuel
+1445,	1445,	Tobler,	Felix
+1446,	1446,	Tomann,	Gregor
+1447,	1447,	Torda,	Zsigmond
+1448,	1448,	Tossanus,	Daniel
+1449,	1448,	Toussain,	Daniel
+1450,	1450,	Toxites,	Michael
+1451,	1450,	Schütz,	Michael
+1452,	1452,	Traber,	Johannes
+1453,	1453,	Traheron,	Bartholomäus
+1454,	1453,	Traheron,	Bartholomew
+1455,	1453,	Traheron,	Bartholomaeus
+1456,	1456,	Travers,	Johannes
+1457,	1457,	Truber,	Primus
+1458,	1458,	Trüb,	Heinrich
+1459,	1459,	Tscharner,	Hans
+1460,	1460,	Tschudi,	Aegidius
+1461,	1460,	Tschudi,	Gilg
+1462,	1462,	Tschudi,	Casper
+1463,	1463,	Tschudi,	Valentin
+1464,	1464,	Tuffan,	Guillaume
+1465,	1464,	Tufanus,	Guillaume
+1466,	1466,	Turner,	Wilhelm
+1467,	1467,	Turner,	William
+1468,	1468,	Turrianus,	Hieronymus
+1469,	1469,	Uchanski,	Jakub
+1470,	1469,	Uchanius,	Jakub
+1471,	1471,	Ulmer,	Johann Konrad
+1472,	1471,	Ulmer,	Johann Conrad
+1473,	1471,	Ulmer,	Johannes Konrad
+1474,	1471,	Ulmer,	Johannes
+1475,	1471,	Ulmer,	Johann
+1476,	1471,	Ulmer,	Konrad
+1477,	1471,	Ulmer,	Conrad
+1478,	1471,	von Ulm,	Johann Konrad
+1479,	1471,	von Ulm,	Johann Conrad
+1480,	1471,	von Ulm,	Johannes Konrad
+1481,	1471,	von Ulm,	Johannes
+1482,	1471,	von Ulm,	Johann
+1483,	1471,	von Ulm,	Konrad
+1484,	1471,	von Ulm,	Conrad
+1485,	1485,	Ulstetter,	Johannes
+1486,	1486,	Ungnad,	Johann
+1487,	1487,	Ursinus,	Zacharias
+1488,	1488,	Usteri,	Heinrich
+1489,	1489,	Utenhove,	Johannes
+1490,	1489,	Utenhove,	Jan
+1491,	1491,	Utenhove,	Jan der Jüngere
+1492,	1492,	Utenhove,	Johannes der Jüngere
+1493,	1493,	Vadian,	s.n.
+1494,	1494,	Vadian,	Joachim
+1495,	1495,	Valerius,	Jacobus
+1496,	1496,	Velsius,	Just.
+1497,	1497,	Velsius,	Justus
+1498,	1498,	Venetscher,	Peter
+1499,	1498,	Venetscher,	Petrus
+1500,	1500,	Venetz,	Hs
+1501,	1501,	Venetz,	Johannes
+1502,	1502,	Vergeri,	Aurelio
+1503,	1503,	Vergerius,	Petrus Paulus
+1504,	1503,	Vergerius,	Pietro Paolo
+1505,	1503,	Vergerius,	Pietro Paollo
+1506,	1503,	Vergerius,	Pier Paolo
+1507,	1503,	Vergerius,	Pier Paollo
+1508,	1503,	Vergerius,	Pier
+1509,	1503,	Vergerius,	Petrus
+1510,	1503,	Vergerius,	Petro
+1511,	1503,	Vergerius,	Paolo
+1512,	1503,	Vergerius,	Paulus
+1513,	1503,	Vergerius,	Paullo
+1514,	1503,	Vergerio,	Petrus Paulus
+1515,	1503,	Vergerio,	Pietro Paolo
+1516,	1503,	Vergerio,	Pietro Paollo
+1517,	1503,	Vergerio,	Pier Paolo
+1518,	1503,	Vergerio,	Pier Paollo
+1519,	1503,	Vergerio,	Pier
+1520,	1503,	Vergerio,	Petrus
+1521,	1503,	Vergerio,	Petro
+1522,	1503,	Vergerio,	Paolo
+1523,	1503,	Vergerio,	Paulus
+1524,	1503,	Vergerio,	Paullo
+1525,	1525,	Vermigli,	Peter Martyr
+1526,	1525,	Vermigli,	Petrus Martyr
+1527,	1525,	Vermigli,	Peter
+1528,	1525,	Vermigli,	Petrus
+1529,	1525,	Vermigli,	Martyr
+1530,	1530,	Vermigli,	Pietro
+1531,	1531,	Vermigli,	Pietro Martire
+1532,	1532,	Vietor,	Heinrich
+1533,	1533,	Vigierius,	J.
+1534,	1534,	Vincent,	Antoine
+1535,	1535,	Viret,	Pierre
+1536,	1535,	Viret,	Peter
+1537,	1537,	Vitrelin,	Alexander
+1538,	1537,	Vitrelinus,	Alexander
+1539,	1537,	Witrelin,	Alexander
+1540,	1540,	Vogel,	Jakob
+1541,	1540,	Avienus,	Jakob
+1542,	1542,	Vogler,	Johann
+1543,	1542,	Vogler,	Johannes
+1544,	1542,	Vogler,	Hans
+1545,	1545,	Vogler,	Johann der Jüngere
+1546,	1546,	Vogler,	Johann der Ältere
+1547,	1547,	Vogler,	Johannes der Jüngere
+1548,	1548,	Vogt,	Simpert
+1549,	1548,	Vogt,	Simprecht
+1550,	1550,	Volmar,	Melchior
+1551,	1551,	Waidner,	Katharina
+1552,	1551,	Hertin,	Katharina
+1553,	1553,	Waidner,	Wolfgang
+1554,	1553,	Waydner,	Wolfgang
+1555,	1553,	Weidner,	Wolfgang
+1556,	1556,	Waidnerus,	Wolfgang
+1557,	1557,	Walder,	Hans Konrad
+1558,	1558,	Wardesius,	Stanislaus
+1559,	1559,	Weidner,	Johannes
+1560,	1559,	Vueydnerus,	Johannes
+1561,	1561,	Wellenberg,	Hans
+1562,	1562,	Welser,	Hans
+1563,	1563,	Welser,	Philipp
+1564,	1564,	Westheimer,	Bartholomäus
+1565,	1565,	Wetter,	David
+1566,	1566,	Wetzler,	Martin
+1567,	1567,	Wiburne,	Percival
+1568,	1568,	Wichser,	Ludwig
+1569,	1569,	Wick,	Johann Jakob
+1570,	1570,	Wilhelmi,	Valentin
+1571,	1571,	Willer,	Georg
+1572,	1571,	Willer,	Jörg
+1573,	1571,	Wüller,	Georg
+1574,	1571,	Wüller,	Jörg
+1575,	1575,	Willi,	Stephan
+1576,	1576,	Willing,	Johannes
+1577,	1577,	Willock,	John
+1578,	1578,	Wimpfer,	Georg
+1579,	1579,	Winzürn,	Johannes
+1580,	1580,	Wirth,	Adrian
+1581,	1580,	Hospinian,	Adrian
+1582,	1582,	Wisamer,	Baptist Johannes
+1583,	1582,	Wisamer,	Babt. Johannes
+1584,	1582,	Wisamer,	Baptist
+1585,	1582,	Wisamer,	Johannes
+1586,	1586,	Wisamer,	Bapt. Johannes
+1587,	1587,	Wissenburg,	Wolfgang
+1588,	1587,	Wißenburg,	Wolfgang
+1589,	1589,	Withers,	George
+1590,	1589,	Withers,	Georges
+1591,	1589,	Withers,	Georg
+1592,	1589,	Witherus,	George
+1593,	1589,	Witherus,	Georges
+1594,	1589,	Witherus,	Georg
+1595,	1595,	Wolf,	Abraham
+1596,	1596,	Wolf,	Heinrich
+1597,	1597,	Wolf,	Johannes
+1598,	1598,	Wolf,	Kaspar
+1599,	1599,	Wolfhard,	Ulrich
+1600,	1599,	Wolfhart,	Ulrich
+1601,	1601,	Wunderlich,	Hans
+1602,	1601,	Wunderlich,	Jean
+1603,	1601,	de Merveilleux,	Hans
+1604,	1601,	de Merveilleux,	Jean
+1605,	1605,	Wüst,	Klaus
+1606,	1605,	Wüst,	Nicolaus
+1607,	1605,	Wüst,	Nikolaus
+1608,	1605,	Turpilius,	Klaus
+1609,	1605,	Turpilius,	Nicolaus
+1610,	1605,	Turpilius,	Nikolaus
+1611,	1605,	Zollicovensis,	Klaus
+1612,	1605,	Zollicovensis,	Nicolaus
+1613,	1605,	Zollicovensis,	Nikolaus
+1614,	1614,	Xylander,	Wilhelm
+1615,	1614,	Holzmann,	Wilhelm
+1616,	1616,	Zacius,	Simon
+1617,	1616,	Zak,	Simon
+1618,	1618,	Zanchi,	Hieronymo
+1619,	1619,	Zanchi,	Hieronymus
+1620,	1619,	Zanchi,	Hieronimo
+1621,	1619,	Zanchi,	Girolamo
+1622,	1619,	Zanchus,	Hieronymus
+1623,	1619,	Zanchus,	Hieronimo
+1624,	1619,	Zanchus,	Girolamo
+1625,	1619,	Zanchius,	Hieronymus
+1626,	1619,	Zanchius,	Hieronimo
+1627,	1619,	Zanchius,	Girolamo
+1628,	1628,	Zehender,	Hans
+1629,	1629,	Zehender,	Ludwig
+1630,	1630,	Zehnder,	Samuel
+1631,	1630,	Zehender,	Samuel
+1632,	1632,	Zemlinus,	Laurentius
+1633,	1633,	Ziegler,	Ambrosius
+1634,	1634,	Ziegler,	Hans
+1635,	1635,	Zoller,	Agatha
+1636,	1636,	Zuleger,	Wenzeslav
+1637,	1637,	Zurkinden,	Nicolaus
+1638,	1638,	Zurkinden,	Nikolaus
+1639,	1638,	Zerchintes,	Nikolaus
+1640,	1638,	Zitinius,	Nikolaus
+1641,	1641,	Zwick,	Johannes
+1642,	1642,	Zwick,	Konrad
+1643,	1643,	Zwinger,	Theodor
+1644,	1644,	Zwingli,	Ulrich Huldrych III.
+1645,	1645,	Zürcher,	s.n.
+1646,	1646,	Züst,	Heini
+1647,	1647,	a Belloloco,	Hektor
+1648,	1647,	a Belloloco,	Eustorgius
+1649,	1647,	de Beaulieu,	Hektor
+1650,	1647,	de Beaulieu,	Eustorgius
+1651,	1647,	Belloloco,	Hektor
+1652,	1647,	Belloloco,	Eustorgius
+1653,	1647,	Beaulieu,	Hektor
+1654,	1647,	Beaulieu,	Eustorgius
+1655,	1655,	collocutoribus,	s.n.
+1656,	1656,	de Bellièvre,	Pomponne
+1657,	1657,	de Bellièvre,	Jean
+1658,	1657,	de Bellievre,	Jean
+1659,	1657,	sieur de Hautefort,	Jean
+1660,	1660,	de Bourbon,	Louis Ier
+1661,	1661,	de Bourbon,	Henry
+1662,	1661,	de Bourbon,	Henri
+1663,	1661,	Bourbon,	Henry
+1664,	1661,	Bourbon,	Henri
+1665,	1665,	de Bourbon,	Louis
+1666,	1665,	de Bourbon,	Loius Ier
+1667,	1665,	Bourbon,	Louis
+1668,	1665,	Bourbon,	Loius Ier
+1669,	1669,	de Bourbon,	Antoine
+1670,	1669,	Bourbon,	Antoine
+1671,	1669,	de Condé,	Antoine
+1672,	1669,	Condé,	Antoine
+1673,	1673,	de Cambray,	Jean Jacques
+1674,	1674,	de Carraria,	Hieronymus
+1675,	1675,	de Coligny,	Gaspard
+1676,	1675,	Chastillon,	Gaspard
+1677,	1677,	de Cougnée,	Antoine
+1678,	1677,	de Cougnée,	Jacques
+1679,	1677,	de Cougnées,	Antoine
+1680,	1677,	de Cougnées,	Jacques
+1681,	1677,	Le Vasseur,	Antoine
+1682,	1677,	Le Vasseur,	Jacques
+1683,	1683,	de Ferrières,	Jean
+1684,	1684,	de Grantrye,	Pierre
+1685,	1685,	de Jonvilliers,	Charles
+1686,	1686,	de Museau,	Antoine Morelet
+1687,	1686,	de Museau,	Maurus
+1688,	1686,	de Museau,	Mauritius
+1689,	1686,	Musaeus,	Antoine Morelet
+1690,	1686,	Musaeus,	Maurus
+1691,	1686,	Musaeus,	Mauritius
+1692,	1692,	de Poix Séchelles,	Jean
+1693,	1692,	sieur de Séchelles,	Jean
+1694,	1694,	de Ugonibus,	Johannes Andreas
+1695,	1695,	de l'Aubespine,	Sebastian
+1696,	1696,	de l'Aubespine,	Sébastien
+1697,	1697,	de l’Aubespine,	Sébastien
+1698,	1697,	de l’Aubespine,	Sebastian
+1699,	1699,	della Rovere da Milano,	Giulio
+1700,	1700,	du Fraisse,	Jean
+1701,	1701,	du Moulin,	Charles
+1702,	1702,	im Thurn,	Hans
+1703,	1703,	s.n.,	s.n.
+1704,	1704,	s.n.,	Eduard VI.
+1705,	1705,	s.n.,	Gabriel
+1706,	1706,	s.n.,	Heinrich II.
+1707,	1707,	s.n.,	Junker
+1708,	1708,	s.n.,	Michel
+1709,	1709,	s.n.,	Paul
+1710,	1710,	sr. de Beauvoir-La Nocle,	Jean de la Fin
+1711,	1710,	sr. de Beauvoir-La Nocle,	François, dit de la Rivière
+1712,	1710,	Perrucel,	Jean de la Fin
+1713,	1710,	Perrucel,	François, dit de la Rivière
+1714,	1714,	thom Camph,	Gerhard
+1715,	1715,	von Baden-Hochberg,	Anna
+1716,	1716,	von Below,	Georg
+1717,	1717,	von Berckheim,	Balthasar
+1718,	1718,	von Bernhausen,	Wilhelm
+1719,	1719,	von Brunn,	Bonaventura
+1720,	1720,	von Cham,	Bernhard
+1721,	1721,	von Diesbach,	Niklaus
+1722,	1722,	von Diesbach,	Nikolaus
+1723,	1723,	von Dörnberg,	Adolf Wilhelm
+1724,	1723,	von Dörnberg,	Adolf
+1725,	1723,	von Dörnberg,	Wilhelm
+1726,	1723,	von Dürnberg,	Adolf Wilhelm
+1727,	1723,	von Dürnberg,	Adolf
+1728,	1723,	von Dürnberg,	Wilhelm
+1729,	1723,	Dürnberg,	Adolf Wilhelm
+1730,	1723,	Dürnberg,	Adolf
+1731,	1723,	Dürnberg,	Wilhelm
+1732,	1723,	Dörnberg,	Adolf Wilhelm
+1733,	1723,	Dörnberg,	Adolf
+1734,	1723,	Dörnberg,	Wilhelm
+1735,	1735,	von Ellerbach,	Madlena
+1736,	1736,	von Erbach,	Eberhard
+1737,	1737,	von Erlach,	Hans Rudolf
+1738,	1738,	von Erlach,	Wolfgang
+1739,	1739,	von Fleckenstein,	Heinrich
+1740,	1740,	von Freiberg,	Wilhelm
+1741,	1741,	von Freyberg,	Pankraz
+1742,	1742,	von Friesland,	Anna
+1743,	1743,	von Fölkersam,	Friedrich
+1744,	1744,	von Grafeneck,	Klaus
+1745,	1745,	von Hallwyl,	Hartmann
+1746,	1746,	von Heideck,	Johann Christoph
+1747,	1747,	von Heidegg,	Hans-Christoph
+1748,	1748,	von Hessen,	Philipp der Jüngere
+1749,	1749,	von Hessen,	Philipp der Ältere
+1750,	1750,	von Hessen,	Wilhelm
+1751,	1751,	von Hessen,	Wilhelm IV.
+1752,	1752,	von Hohensax,	Johann Philipp
+1753,	1753,	von Hövel,	Otto
+1754,	1754,	von Karpfen,	Balthasar
+1755,	1755,	von Landenberg,	Ulrich
+1756,	1756,	von Laubenberg,	Hans Wilhelm
+1757,	1757,	von Laubenberg,	Johann Wilhelm
+1758,	1758,	von Lehwald,	Balthasar
+1759,	1759,	von Lupfen,	Justina
+1760,	1760,	von Mülinen,	Beat Ludwig
+1761,	1760,	von Mülinen,	Beat
+1762,	1760,	von Mülinen,	Ludwig
+1763,	1760,	von Mülynen,	Beat Ludwig
+1764,	1760,	von Mülynen,	Beat
+1765,	1760,	von Mülynen,	Ludwig
+1766,	1760,	Mülinen,	Beat Ludwig
+1767,	1760,	Mülinen,	Beat
+1768,	1760,	Mülinen,	Ludwig
+1769,	1760,	Mülynen,	Beat Ludwig
+1770,	1760,	Mülynen,	Beat
+1771,	1760,	Mülynen,	Ludwig
+1772,	1772,	von Pappenheim,	Christoph
+1773,	1773,	von Preussen,	Albrecht
+1774,	1774,	von Radelo,	Reinhardt
+1775,	1775,	von Rappoltstein,	Egenolf
+1776,	1776,	von Rappoltstein,	Maria
+1777,	1777,	von Rappoltstein,	Elisabeth
+1778,	1777,	von Rappoltstein,	Else
+1779,	1777,	von Heideck,	Elisabeth
+1780,	1777,	von Heideck,	Else
+1781,	1777,	Rappoltstein,	Elisabeth
+1782,	1777,	Rappoltstein,	Else
+1783,	1777,	Heideck,	Elisabeth
+1784,	1777,	Heideck,	Else
+1785,	1785,	von Rümlang,	Eberhard
+1786,	1786,	von Sachsen,	Friedrich
+1787,	1787,	von Salis,	s.n.
+1788,	1788,	von Salis,	Friedrich
+1789,	1789,	von Salis,	Herkules
+1790,	1790,	von Salis,	Johann
+1791,	1791,	von Salis,	Rudolf
+1792,	1792,	von Savoyen,	Margareta
+1793,	1793,	von Sayn zu Wittgenstein,	Ludwig der Ältere
+1794,	1794,	von Sayn zu Wittgenstein,	Ludwig der Ältere Graf
+1795,	1795,	von Schauenstein,	Remigius
+1796,	1796,	von Schwendi,	Lazarus
+1797,	1797,	von Starkenburg,	Nikolaus
+1798,	1798,	von Stetten,	Albert
+1799,	1799,	von Stetten,	Regina Georgiu
+1800,	1800,	von Stetten,	Georg
+1801,	1800,	Stetten,	Georg
+1802,	1802,	von Stetten,	Georg der Jüngere
+1803,	1802,	von Stetten,	Georg d.J.
+1804,	1802,	Stetten,	Georg der Jüngere
+1805,	1802,	Stetten,	Georg d.J.
+1806,	1806,	von Strünckter,	Georg
+1807,	1807,	von Thessalonich,	Demetrius
+1808,	1808,	von Ulm,	Heinrich II.
+1809,	1809,	von Wied,	Hermann
+1810,	1810,	von Wittgenstein,	Ludwig
+1811,	1811,	von Württemberg,	Georg
+1812,	1811,	von Württemberg-Mömpelgart,	Georg
+1813,	1811,	Württemberg,	Georg
+1814,	1811,	Württemberg-Mömpelgart,	Georg
+1815,	1815,	von Württemberg-Mömpelgard,	Georg
+1816,	1816,	von der Pfalz,	Friedrich III.
+1817,	1816,	von der Pfalz,	Friedrich
+1818,	1816,	Pfalzgraf,	Friedrich III.
+1819,	1816,	Pfalzgraf,	Friedrich
+1820,	1816,	Pfalzgraf am Rhein,	Friedrich III.
+1821,	1816,	Pfalzgraf am Rhein,	Friedrich
+1822,	1816,	Pfalzgraf bei Rhein,	Friedrich III.
+1823,	1816,	Pfalzgraf bei Rhein,	Friedrich
+1824,	1824,	von der Pfalz,	Friedrich III.
+1825,	1824,	von der Pfalz,	der Fromme
+1826,	1824,	Pfalzgraf am Rhein,	Friedrich III.
+1827,	1824,	Pfalzgraf am Rhein,	der Fromme
+1828,	1828,	zu Lupfen,	Justina
+1829,	1829,	zu Pappenheim,	Philipp
+1830,	1830,	zu Tübingen,	Katharina
+1831,	1831,	zum Lamm,	Hieronymus
+1832,	1832,	Ämisegger,	Conrad
+1833,	1833,	Öchsli,	Blasius
+1834,	1833,	Bovillus,	Blasius
+1835,	1835,	à Lasco,	Johannes

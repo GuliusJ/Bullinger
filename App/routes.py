@@ -15,6 +15,7 @@ from flask_login import current_user, login_user, logout_user, login_required
 from sqlalchemy import func, union_all, and_
 
 from Tools.BullingerDB import BullingerDB
+from Tools.BD_export import DB_export
 from Tools.Plots import BullingerPlots
 
 import requests
@@ -70,6 +71,10 @@ def send_file_flyer_zb():
     BullingerDB.track(current_user.username, 'zb-flyer', datetime.now())
     return send_file("static/docs/Flyer_Bullinger_ZB.pdf", as_attachment=True)
 
+@app.route("/downloads/SZRKG_Bericht")
+def send_file_paper_bullinger_digital():
+    BullingerDB.track(current_user.username, 'bd-paper', datetime.now())
+    return send_file("static/docs/SZRKG_2020_Bericht_472_474.pdf", as_attachment=True)
 
 # registration, login, logout
 @app.route('/register', methods=['GET', 'POST'])
@@ -1132,7 +1137,8 @@ def db_clean_up():
 
 @app.route('/api/db_write', methods=['GET'])
 def db_export():
-    BullingerDB.db_export()
+    # BullingerDB.db_export()
+    DB_export()
     return redirect(url_for('index'))
 
 @app.route('/api/write_link_days', methods=['GET'])

@@ -1,0 +1,102 @@
+1,	Zürich StA
+2,	Zürich ZB
+3,	Genf BPU
+4,	Strassburg BNU
+5,	Basel UB
+6,	St. Gallen KB
+7,	München BStB
+8,	Bern StA
+9,	Bern BB
+10,	Genf MHR
+11,	Schaffhausen StB
+12,	Paris BSG
+13,	Paris BN
+14,	Marburg HStA
+15,	Dublin TC
+16,	Schaffhausen StA
+17,	London BM
+18,	Chur StA
+19,	St. Gallen
+20,	Strassburg AST
+21,	Winterthur StB
+22,	London Lambeth Palace
+23,	Emden BGK
+24,	Zofingen StB
+25,	Cambridge UL
+26,	Gotha FB
+27,	Genf
+28,	Hamburg StUB
+29,	Colmar, Archives départ.
+30,	Berleburg FA
+31,	Krakau BJ
+32,	Leiden UB
+33,	Oxford BL
+34,	Cambridge CCC
+35,	Utrecht BRU
+36,	Den Haag Koninklijk Huisarchief
+37,	Dresden StA
+38,	Kilchberg, Gemeindearchiv
+39,	Prag StUA
+40,	Bern BurgerB
+41,	Chur, Synodal- und Kirchenratsarchiv
+42,	Detmold, Lippische Landesbibliothek
+43,	Genf, Archives d'Etat
+44,	Strassburg
+45,	Stuttgart Hauptstaatsarchiv
+46,	Edinburgh Univ. Library
+47,	London, Archiv der Belg. Kirche, Austin Friars
+48,	Zürich, Orelli-Archiv
+49,	"apud Cl. decanum Usteri"
+50,	"in Bibl. Huldericiana"
+51,	(Berlin, Slg. B. Friedlaender)
+52,	(West-)Berlin, Staats B, Pr. Kulturbesitz (früher Pr StB)
+53,	A. Porta
+54,	Amsterdam BVU = Bibliotheek der Vrijen Universiteit, Mr. H. Bos-Bibliothek
+55,	Archives of the Belgic Church, Austin Friars, London
+56,	BGE (Genf)
+57,	Basel StA
+58,	Berleburg, Fürstl. Archiv
+59,	Berlin, DSB
+60,	Berlin, Staatsbibl. Preuß. Kulturbesitz,
+61,	Bern
+62,	Bern StB
+63,	Bern Stadtbibl.
+64,	Breitingers Bibliothek
+65,	Cambridge, Emmanuel College,
+66,	Collection Sarrau
+67,	Diese Dokumente sind im Wickiana-Band F 24, ab offenbar teilweise entnommen worden sind, weshalb
+68,	Genf Archives d'Etat
+69,	Genf, Archives d'Etat [=AEG]
+70,	Glarus, Landesarchiv
+71,	Göttigen, Staatliches Archivlager
+72,	Hannover Stadtarchiv (ehemals Kestner Museum)
+73,	IRG
+74,	Kassel, Murhardsche + Landes B
+75,	Kassel, Murhardsche B der Stadt Kassel und Landesbibliothek
+76,	Kopenhagen KB
+77,	Kopenhagen, Reichsarchiv
+78,	Leyden
+79,	Leyden, Cod. Perigon.
+80,	London BL
+81,	London Dr. Williams Library
+82,	London Dutch Reformed Church
+83,	London Public Record Office
+84,	London, Public Recort Office
+85,	Neuenburg, BPast
+86,	New York The Pierpont Morgan Library
+87,	Paris BFP (= Bibl. de la SHPF)
+88,	Paris SHPF
+89,	Philadelphia, The Hist. Society of Pennsylvania
+90,	Pozen/Poznan Archiwum Panstwowe
+91,	Simler 78
+92,	St. Gallen, Stadtarchiv
+93,	Stadtbibliothek Breslau
+94,	Stuttgart HStA
+95,	Weimar StA
+96,	Winterthur StA
+97,	Wittenberg Lutherhalle
+98,	Wolfenbüttel HAB
+99,	Zizers Archiv v. Salis
+100,	Zürich
+101,	Zürich Stadtarchiv
+102,	Zürich ca. 1560 ResPolem. 3126 a
