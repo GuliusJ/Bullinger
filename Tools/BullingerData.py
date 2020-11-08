@@ -42,11 +42,9 @@ class BullingerData:
         self.second_try = False
         self.input = None
         self.output = None
-        """
         if path:
             self.input = self.get_data_as_dict(path)
             self.output = self.extract_values()
-        """
 
     def get_data(self): return self.output
 
@@ -156,17 +154,23 @@ class BullingerData:
     def extract_literature(self):
         if "Literatur" in self.input:
             literature = self.get_data_as_string("Literatur", '', clean=False)
+            '''
             if BullingerData.is_probably_junk(literature): return None
             literature = BullingerData.clean_str(literature)
             return literature if literature else None
+            '''
+            return literature
         return None
 
     def extract_printed(self):
         if "Gedruckt" in self.input:
             literature = self.get_data_as_string("Gedruckt", '', clean=False)
+            '''
             if BullingerData.is_probably_junk(literature): return None
             literature = BullingerData.clean_str(literature)
             return literature if literature else None
+            '''
+            return literature
         return None
 
     def extract_remark(self):

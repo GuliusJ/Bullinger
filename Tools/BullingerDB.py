@@ -2585,6 +2585,51 @@ class BullingerDB:
         return table_potential_links
 
     @staticmethod
+    def get_potential_literature():
+        main = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        literature = BullingerDB.get_most_recent_only(db.session, Literatur).subquery()
+        data = db.session.query(
+            main.c.id_brief,
+            literature.c.id_brief,
+            literature.c.literatur,
+            literature.c.anwender
+        ).join(literature, literature.c.id_brief == main.c.id_brief).order_by(main.c.id_brief)
+        ids = [(x.id_brief,
+                1 if x.id_brief in [66, 386, 388, 389, 392, 393, 395, 416, 483, 546, 794, 844, 886, 1037, 1083, 1187, 1357, 1406, 1483, 1514, 1575, 1591, 1649, 1670, 1680, 1703, 1714, 1810, 1838, 1928, 1946, 1988, 2037, 2084, 2177, 2628, 2950, 3080, 3083, 3179, 3297, 3334, 3375, 3401, 3403, 3586, 3646, 3735, 3743, 3777, 3813, 3941, 4022, 4170, 4171, 4183, 4249, 4260, 4266, 4269, 4270, 4272, 4308, 4468, 4497, 4605, 4643, 4702, 4798, 4811, 4841, 4899, 4921, 5035, 5049, 5062, 5073, 5077, 5079, 5088, 5089, 5090, 5091, 5093, 5115, 5116, 5137, 5142, 5172, 5180, 5207, 5239, 5249, 5254, 5263, 5550, 5565, 5578, 5619, 5671, 5673, 5674, 5675, 5685, 5686, 5703, 5707, 5717, 5719, 5723, 5725, 5782, 5792, 5947, 6235, 6477, 6632, 6718, 6839, 6892, 6905, 6907, 6908, 6914, 7213, 7316, 7630, 7692, 7748, 7885, 8031, 8032, 8234, 8272, 8339, 8349, 8352, 8366, 8367, 8372, 8428, 8652, 8694, 8741, 8742, 9031, 9103, 9112, 9145, 9187, 9189, 9196, 9217, 9284, 9791, 9827, 9842, 9869, 9871, 9876, 9969, 9979, 9981, 9987]
+                else 0,
+                x.anwender) for x in data if not x.literatur or not x.literatur.strip()]
+        '''
+        dir_path = '/Users/bsc/Documents/UZH/Volk/Daten/Karteikarten/OCR_new'
+        nr = []
+        for i, path in enumerate(FileSystem.get_file_paths(dir_path, recursively=False)):
+            bd = BullingerData(path, i+1)
+            m = re.match(r'[^\d]*(\d+)[^\d]*', path)
+            if m and bd.get_literature():
+                # print(int(m.group(1)), bd.get_printed())
+                if int(m.group(1)) in ids:
+                    print(m.group(1), "match")
+                    nr.append(int(m.group(1)))
+        print(nr)
+        '''
+        return ids
+
+    @staticmethod
+    def get_potential_prints():
+        main = BullingerDB.get_most_recent_only(db.session, Kartei).subquery()
+        prints = BullingerDB.get_most_recent_only(db.session, Gedruckt).subquery()
+        data = db.session.query(
+            main.c.id_brief,
+            prints.c.id_brief,
+            prints.c.gedruckt,
+            prints.c.anwender
+        ).join(prints, prints.c.id_brief == main.c.id_brief).order_by(main.c.id_brief)
+        ids = [ (x.id_brief,
+                 1 if x.id_brief in [15, 543, 671, 732, 1361, 1489, 1591, 1696, 1759, 1772, 1877, 1887, 1897, 2180, 2250, 2489, 2753, 2917, 2950, 2954, 3068, 3093, 3397, 3413, 3467, 3579, 3642, 3750, 3916, 4256, 4279, 4398, 4664, 4778, 4917, 5044, 5049, 5052, 5056, 5057, 5062, 5077, 5088, 5091, 5093, 5095, 5101, 5309, 5373, 5397, 5448, 5590, 5948, 5994, 6443, 6582, 6803, 6822, 7365, 7773, 7774, 7786, 7799, 7802, 7805, 7806, 7813, 8032, 8112, 8320, 9827, 9842, 9869, 9871, 9912, 10010] else False
+                 , x.anwender) for x in data if not x.gedruckt or not x.gedruckt.strip()]
+
+        return ids
+
+    @staticmethod
     def clean_up_db():
         q = BullingerDB.get_most_recent_only(db.session, Kartei)
         data = [[t.id_brief, t.rezensionen, t.status, t.ist_link, t.link_jahr, t.link_monat, t.link_jahr, t.pfad_OCR, t.pfad_PDF, t.anwender, t.zeit] for t in q]
@@ -2755,6 +2800,91 @@ class BullingerDB:
     def convert_timestamp_to_ms(t):
         if re.match(r'\d+-\d+-\d+ \d+:\d+:\d+', t) and not re.match(r'\d+-\d+-\d+ \d+:\d+:\d+\.\d+', t): t += ".0"
         return int(round(datetime.strptime(t, '%Y-%m-%d %H:%M:%S.%f').timestamp() * 1000))
+
+    @staticmethod
+    def run_corr(l):
+        if "Jura" in l: l = l.replace("Jura", "Zwa")
+        l = re.sub(r",\s*", ", ", l, flags=re.S)
+        l = re.sub(r";\s*", "; ", l, flags=re.S)
+        l = re.sub(r'\s*\|\|\s*', '; ', l, flags=re.S)
+        l = re.sub(r'\s*\|;?\s*', '; ', l, flags=re.S)
+        l = re.sub(r'\s*//\s*', '; ', l, flags=re.S)
+
+        l = re.sub(r'Teilübersetzung:', 'TÜ:', l, flags=re.S)
+        l = re.sub(r'Teilübers\.:\s*', 'TÜ: ', l, re.S)
+        l = re.sub(r'Teilübers\.', 'TÜ', l, flags=re.S)
+        l = re.sub(r'Teil\.?[-\s]*Ü\.', 'TÜ', l, flags=re.S)
+        l = re.sub(r'T\s*-\s*Übers\.', 'TÜ', l, flags=re.S)
+        l = re.sub(r'TeilÜ:', 'TÜ:', l, flags=re.S)
+        l = re.sub(r'Übers\.:\s*', 'Ü: ', l, re.S)
+        l = re.sub(r'Ü\.:\s*', 'Ü.: ', l, flags=re.S)
+        l = re.sub(r'\([Üü]\.?\)', "Ü.", l, flags=re.S)
+        l = re.sub(r'Teil D:', 'TD: ', l, flags=re.S)
+        l = re.sub(r'dt\. Üb:', 'dt. Ü.: ', l, flags=re.S)
+        l = re.sub(r'eÜ\.?:', 'engl. Ü.: ', l, flags=re.S)
+        l = re.sub(r'Teildruck', 'TD', l, flags=re.S)
+
+        l = re.sub(r'Vergl\.:', "vgl.", l, flags=re.S)
+        l = re.sub(r'Vgl\.', "vgl.", l, flags=re.S)
+
+        l = re.sub(r'Regest', "Reg.", l, flags=re.S)
+        l = re.sub(r'Reg\.*:', "Reg.:", l, flags=re.S)
+        l = re.sub(r'Teil Reg\.', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teil-Reg\.', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teilreg:', 'Teilreg.:', l, flags=re.S)
+        l = re.sub(r'Teil-Rg:', 'Teilreg.:', l, flags=re.S)
+        l = re.sub(r'Teilregest:', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teilregest', 'Teilreg.', l, flags=re.S)
+        l = re.sub(r'Teilkopie', 'TK', l, flags=re.S)
+
+        l = re.sub(r'Teil\s*K:', 'TK:', l, flags=re.S)
+
+        l = re.sub(r':\s*', ': ', l, flags=re.S)
+        l = re.sub(r'\s+\)', ')', l, flags=re.S)
+        l = re.sub(r'\s+\]', ')', l, flags=re.S)
+
+        l = re.sub(r'erw\.', "Erw.", l, flags=re.S)
+        l = re.sub(r'erw\.:', "Erw.:", l, flags=re.S)
+        l = re.sub(r'erw:', "Erw.:", l, flags=re.S)
+        l = re.sub(r'Erw:', "Erw.:", l, flags=re.S)
+        l = re.sub(r'\(erw\.?\)', "(Erw.)", l, flags=re.S)
+
+        l = re.sub(r'zit\.', "Zit.", l, flags=re.S)
+        l = re.sub(r'zit\.:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'zit:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'Zir\.:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'Zit:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'\(zit\.?\)', '(Zit.)', l, flags=re.S)
+        l = re.sub(r'Zitiert:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'zitiert:', "Zit.:", l, flags=re.S)
+        l = re.sub(r'Zit\. in Ü:', "Zit. (Ü):", l, flags=re.S)
+        l = re.sub(r'Zit\.:\s*\([Üü]\.?\):', "Zit. Ü.:", l, flags=re.S)
+
+        l = re.sub(r'Engl\.', 'engl.', l, flags=re.S)
+        l = re.sub(r'[Dd][ae] Porta', "de Porta", l, flags=re.S)
+
+        l = re.sub(r'[Cc]\.\s+[O0o]\.\s*', 'C.O. ', l, re.S)
+        l = re.sub(r'C[O0]\s+', 'C.O. ', l, re.S)
+        l = re.sub(r'M\'schrift', 'Maschinenschrift', l, re.S)
+        l = re.sub(r'masch[\'\s]*schriftl\.', 'Maschinenschrift', l, re.S)
+        l = re.sub(r'\s+nr\s+', ' Nr. ', l, re.S)
+        l = re.sub(r'\snr\.', 'Nr.', l, re.S)
+        l = re.sub(r'\(nr\.', '(Nr.', l, re.S)
+        l = re.sub(r'Graubünden\s*-?\s*BW', 'Graubünden BW', l, re.S)
+        l = re.sub(r'Blarer\s*-?\s*BW', 'Blarer BW', l, re.S)
+        l = re.sub(r'R\.Exc\.', 'R. Exc.', l, re.S)
+        l = re.sub(r'Teil D\.:\s*', 'TD: ', l, re.S)
+        l = re.sub(r'\s+:\s*', ': ', l, re.S)
+        l = re.sub(r'Ep\.?\s*T[ir]g\.?', 'Ep. Tig.', l, re.S)
+        l = re.sub(r'Vgl\.\s*', "vgl. ", l, flags=re.S)
+        l = re.sub(r'Graubünden Korr III\s*,?\s*', 'Graubünden Korr 3, ', l, re.S)
+
+        m = re.match(r'(.*\d+)(f+)\.?(.*)', l, re.S)
+        while m:
+            l = m.group(1) + " " + m.group(2) + "." + m.group(3)
+            m = re.match(r'(.*\d+)(f+)\.?(.*)', l, re.S)
+
+        return l
 
     @staticmethod
     def normalize_text(t):

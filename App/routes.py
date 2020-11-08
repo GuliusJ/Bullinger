@@ -891,6 +891,35 @@ def overview_potential_link_cards():
         }
     )
 
+@app.route('/Kartei/ohne_Angaben_zu_literatur', methods=['GET'])
+def overview_potential_literature():
+    BullingerDB.track(current_user.username, '/overview_missing_literature', datetime.now())
+    x = [t[0] for t in BullingerDB.get_data_overview_literature()]
+    y = BullingerDB.get_potential_literature()
+    all = x + y
+    for i in range(10013):
+        if i not in all: print(i)
+
+    return render_template(
+        'overview_potential_literature.html',
+        title="Literatur leer",
+        vars={
+            "table": BullingerDB.get_potential_literature(),
+        }
+    )
+
+@app.route('/Kartei/ohne_Angaben_zu_gedruckt', methods=['GET'])
+def overview_potential_printed():
+    BullingerDB.track(current_user.username, '/overview_missing_print', datetime.now())
+
+    return render_template(
+        'overview_potential_prints.html',
+        title="Gedruckt leer",
+        vars={
+            "table": BullingerDB.get_potential_prints(),
+        }
+    )
+
 
 # API
 @app.route('/api/assignments/<id_brief>', methods=['GET'])
@@ -1180,6 +1209,21 @@ def analysis():
         d1, d2, d3, d4, d5, d6 = d1/s, d2/s, d3/s, d4/s, d5/s, d6/s
         print(d1, d2, d3, d4, d5)
         print(d1/7, (d2+d3+d4+d5)/4/7)
+    return redirect(url_for('index'))
+
+
+@app.route('/api/corr_exec', methods=['GET'])
+def corr_exec():
+    q = BullingerDB.get_most_recent_only(db.session, Literatur)
+    for x in q:
+        if x.literatur:
+            x.literatur = BullingerDB.run_corr(x.literatur)
+            db.session.commit()
+    q = BullingerDB.get_most_recent_only(db.session, Gedruckt)
+    for x in q:
+        if x.gedruckt:
+            x.gedruckt = BullingerDB.run_corr(x.gedruckt)
+            db.session.commit()
     return redirect(url_for('index'))
 
 """

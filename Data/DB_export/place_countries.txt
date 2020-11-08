@@ -1,0 +1,64 @@
+1,	1,	Albanien
+2,	1,	Shqipëria
+3,	3,	Belgien
+4,	3,	België - Belgique - Belgien
+5,	5,	Brasilien
+6,	5,	Brasil
+7,	7,	Bulgarien
+8,	7,	Бългaрия
+9,	9,	China
+10,	9,	China 中国
+11,	9,	中国
+12,	12,	Deutschland
+13,	12,	Teutschland
+14,	12,	Oberdeutschland
+15,	12,	Regierungsbezirk Köln
+16,	12,	Regierungsbezirk Düsseldorf
+17,	17,	Dänemark
+18,	17,	Danmark
+19,	19,	Elfenbeinküste
+20,	19,	Côte d'Ivoire
+21,	21,	England
+22,	21,	United Kingdom
+23,	23,	Frankreich
+24,	23,	France
+25,	25,	Friesland
+26,	25,	Ost-Friesland
+27,	27,	Italien
+28,	27,	Italia
+29,	29,	Indien
+30,	29,	India
+31,	31,	Litauen
+32,	31,	Lietuva
+33,	33,	Maleisien
+34,	33,	Malaysia
+35,	35,	Niederlande
+36,	35,	Nederland
+37,	37,	Österreich
+38,	38,	Polen
+39,	38,	Klein-Polen
+40,	38,	Kleinpolen
+41,	38,	Polen (Klein-Polen)
+42,	38,	Polska
+43,	43,	Rumänien
+44,	43,	România
+45,	45,	Russland
+46,	45,	Россия
+47,	47,	Schweiz
+48,	47,	Switzerland
+49,	47,	Schweiz/Suisse/Svizzera/Svizra
+50,	50,	Siebenbürgen
+51,	51,	Slovenien
+52,	51,	Slovensko
+53,	53,	Spanien
+54,	53,	España
+55,	55,	Tschechien
+56,	55,	Česká republika
+57,	57,	Ungarn
+58,	57,	Magyarország
+59,	59,	USA
+60,	59,	United States of America
+61,	61,	Weißrussland
+62,	61,	Weissrussland
+63,	61,	Belarus
+64,	61,	Беларусь

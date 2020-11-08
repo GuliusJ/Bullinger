@@ -48,7 +48,7 @@ class Config(object):
     PATH_DB_DOC_TYPES = "doc_types.txt"
     PATH_DB_DOCUMENT = "documents.txt"
 
-    PATH_DB_PLACES = "places.txt"
+    PATH_DB_PLACES = "place.txt"
     PATH_DB_COUNTRIES = "place_countries.txt"
     PATH_DB_COMPLEX_LOCATIONS = "place_complex.txt"
 
@@ -64,7 +64,6 @@ class Config(object):
     PATH_DB_LITERATURE = "literature.txt"
     PATH_DB_PRINT = "prints.txt"
 
-    PATH_DB_LANGUAGE = "countries.txt"
     PATH_DB_LANGUAGE = "languages.txt"
     PATH_DB_DOC_LANG = "doc_language.txt"
 
@@ -159,20 +158,34 @@ class Config(object):
         ]
 
     COUNTRIES = [
-        ["Belgien"],
-        ["Deutschland", "Teutschland", "Oberdeutschland"],
-        ["Dänemark"],
-        ["England"],
-        ["Frankreich"],
+        ["Albanien", "Shqipëria"],
+        ["Belgien", 'België - Belgique - Belgien'],
+        ["Brasilien", "Brasil"],
+        ["Bulgarien", "Бългaрия"],
+        ["China", "China 中国", "中国"],
+        ["Deutschland", "Teutschland", "Oberdeutschland", "Regierungsbezirk Köln", "Regierungsbezirk Düsseldorf"],
+        ["Dänemark", "Danmark"],
+        ["Elfenbeinküste", "Côte d'Ivoire"],
+        ["England", "United Kingdom"],
+        ["Frankreich", "France"],
         ["Friesland", "Ost-Friesland"],
-        ["Italien"],
-        ["Litauen"],
-        ["Polen", "Klein-Polen", "Kleinpolen", "Polen (Klein-Polen)"],
-        ["Rumänien"],
-        ["Russland"],
-        ["Siebenbürgen"],
-        ["Ungarn"],
+        ["Italien", "Italia"],
+        ["Indien", "India"],
+        ["Litauen", "Lietuva"],
+        ["Maleisien", "Malaysia"],
+        ["Niederlande", "Nederland"],
         ["Österreich"],
+        ["Polen", "Klein-Polen", "Kleinpolen", "Polen (Klein-Polen)", "Polska"],
+        ["Rumänien", "România"],
+        ["Russland", "Россия"],
+        ["Schweiz", "Switzerland", "Schweiz/Suisse/Svizzera/Svizra"],
+        ["Siebenbürgen"],
+        ["Slovenien", "Slovensko"],
+        ["Spanien", "España"],
+        ["Tschechien", "Česká republika"],
+        ["Ungarn", "Magyarország"],
+        ["USA", "United States of America"],
+        ["Weißrussland", "Weissrussland", "Belarus", "Беларусь"]
     ]
 
     COMPLEX_LOCATIONS = [
@@ -838,7 +851,6 @@ class Config(object):
         ["Rüti"],
         ["Saanen"],
         ["Sachsen"],
-        ["Saint-Germain"],
         ["Salisbury"],
         ["Samaden"],
         ["Schaffhausen"],
@@ -869,8 +881,7 @@ class Config(object):
         ["Speier"],
         ["Speyer"],
         ["St. Gallen"],
-        ["St. Germain"],
-        ["St. Germain en Laye"],
+        ["St. Germain", "Saint-Germain", "St. Germain en Laye"],
         ["St. Margrethen"],
         ["St. Peterzell"],
         ["St. Poissy"],

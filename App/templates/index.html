@@ -3,8 +3,8 @@
 {% block content %}
 
 <h1>
-    >
-    Allgemeines
+    > <a class="header_link" href="{{url_for('file')}}">Kartei</a>
+    / Allgemeines
     {% include "user_status.html" %}
 </h1>
 <div class="main_box">
@@ -99,6 +99,8 @@
                     <p><span class="kw" style="color:red">TODO</span></p>
                     <ul class="items">
                         <li><a class="text_link" href="{{url_for('overview_potential_link_cards')}}">potentielle Hinweis- und Verweiskarten</a></li>
+                        <li><a class="text_link" href="{{url_for('overview_potential_literature')}}">"Literatur" ohne Angabe?</a></li>
+                        <li><a class="text_link" href="{{url_for('overview_potential_printed')}}">"Gedruckt" ohne Angabe?</a></li>
                     </ul>
                 </li>
                 <li>

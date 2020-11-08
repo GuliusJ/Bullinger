@@ -7,6 +7,8 @@
 from App.models import *
 from sqlalchemy import asc, desc, func, and_, or_, literal, union_all, tuple_, distinct
 
+from geopy.geocoders import Nominatim
+
 
 class DB_export():
 
@@ -15,7 +17,8 @@ class DB_export():
         DB_export.write_users()
         DB_export.write_authorization()
         lang = DB_export.write_languages()
-        DB_export.write_places()
+        countries = DB_export.write_countries()
+        DB_export.write_places(countries)
 
     @staticmethod
     def get_most_recent_only(database, relation):
@@ -77,9 +80,27 @@ class DB_export():
         return d
 
     @staticmethod
-    def write_places():
-        # Place(*ID, groupID, name, province, country, longitude, latitude, remark, user, timestamp)
-        d, p_list = Config.PLACES.copy(), []
+    def write_countries():
+        # Language(*ID, country_code, cc_config, name)
+        d = dict()
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_COUNTRIES, 'w') as f:
+            index = 1
+            for x in Config.COUNTRIES:
+                inner = index
+                for j in x:
+                    f.write(str(index)
+                            + ",\t" + str(inner)
+                            + ",\t" + j
+                            + "\n"
+                    )
+                    d[j] = index
+                    index += 1
+        return d
+
+    @staticmethod
+    def write_places(country_index):
+        # Place(*ID, groupID, name, province, country, complex, longitude, latitude, remark, user, timestamp)
+        p_list = []
         for x in Config.PLACES:
             for y in x: p_list.append(y)
         k = DB_export.get_most_recent_only(db.session, Kartei).subquery()
@@ -122,12 +143,74 @@ class DB_export():
         for cl in Config.COUNTRIES:
             for c in cl:
                 countries.append(c)
+        """
         for x in dp:
             if x.ort not in p_list:
                 if x.ort not in Config.COUNTRIES \
                         and x.ort not in Config.COMPLEX_LOCATIONS\
                         and x.ort not in countries:
                     print(x.ort)
+        """
+        # Place(*ID, groupID, name, province, country, complex, remark, longitude, latitude, user, timestamp)
+        places = dict()
+
+        # instantiate a new Nominatim client
+        app = Nominatim(user_agent="tutorial")
+        n = []
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_PLACES, 'w') as f:
+            f.write("0,\t0,\ts.l.,\t,\t\n")
+            index = 1
+            for p in Config.PLACES:
+                i = index
+                # print(p)
+                for d in p:
+                    places[d] = index
+                    l = (str(coords[d][0] if coords[d][0] else '') if d in coords else '').strip()
+                    b = (str(coords[d][1] if coords[d][1] else '') if d in coords else '').strip()
+                    cc, k = '', ''
+                    ret = app.geocode(d)
+                    if ret:
+                        location = ret.raw
+                        y = location["display_name"].split(", ")
+                        print(y[-1])
+                        if not l and not b:
+                            l = str(location["lon"])
+                            b = str(location["lat"])
+                        cc, k = country_index[y[-1]], ''
+                        try:
+                            int(y[-2])
+                            k = y[-3]
+                        except:
+                            k = y[-2] if len(y)>1 else ''
+                        if y[-1] not in n: n.append(y[-1])
+                    f.write(
+                        str(index)
+                        + ",\t" + str(i)
+                        + ",\t" + d
+                        + ",\t" + k
+                        + ",\t" + str(cc)
+                        + ",\t" + ''
+                        + ",\t" + str(l)
+                        + ",\t" + str(b)
+                        + '\n')
+                    index += 1
+            for c in Config.COMPLEX_LOCATIONS:
+                places[c] = index
+                f.write(
+                    str(index)
+                    + ",\t" + str(i)
+                    + ",\t"
+                    + ",\t"
+                    + ",\t"
+                    + ",\t" + c
+                    + ",\t"
+                    + ",\t"
+                    + ",\t"
+                    + ",\t"
+                    + '\n')
+                index += 1
+        print(sorted(n))
+
 '''
     @staticmethod
     def db_export():

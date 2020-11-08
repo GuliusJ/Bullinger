@@ -38,8 +38,18 @@
             <li>
                 <a class="text_link" href="{{url_for('overview_literature_and_printed')}}">Literatur & Gedruckt</a>
                 <ul class="items">
-                    <li><a class="text_link" href="{{url_for('overview_literature')}}">Literatur</a></li>
-                    <li><a class="text_link" href="{{url_for('overview_printed')}}">Gedruckt</a></li>
+                    <li>
+                        <a class="text_link" href="{{url_for('overview_literature')}}">Literatur</a>
+                        {% if vars["is_vip"] %}
+                        <a class="text_link" href="{{url_for('overview_potential_literature')}}">(leer?)</a>
+                        {% endif %}
+                    </li>
+                    <li>
+                        <a class="text_link" href="{{url_for('overview_printed')}}">Gedruckt</a>
+                        {% if vars["is_vip"] %}
+                        <a class="text_link" href="{{url_for('overview_potential_printed')}}">(leer?)</a>
+                        {% endif %}
+                    </li>
                     {% if vars["is_vip"] %}
                     <li><a class="text_link" href="{{url_for('overview_references')}}">Referenzen</a></li>
                     {% endif %}
