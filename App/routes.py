@@ -15,7 +15,7 @@ from flask_login import current_user, login_user, logout_user, login_required
 from sqlalchemy import func, union_all, and_
 
 from Tools.BullingerDB import BullingerDB
-from Tools.BD_export import DB_export
+# from Tools.BD_export import DB_export
 from Tools.Plots import BullingerPlots
 
 import requests
@@ -1167,7 +1167,7 @@ def db_clean_up():
 @app.route('/api/db_write', methods=['GET'])
 def db_export():
     # BullingerDB.db_export()
-    DB_export()
+    # DB_export()
     return redirect(url_for('index'))
 
 @app.route('/api/write_link_days', methods=['GET'])
@@ -1192,6 +1192,7 @@ def db_add_link_days():
             print("Set", id_brief, day)
     return redirect(url_for('index'))
 
+"""
 @app.route('/api/analysis', methods=['GET'])
 def analysis():
     with open("tote_CH.txt") as f:
@@ -1226,7 +1227,6 @@ def corr_exec():
             db.session.commit()
     return redirect(url_for('index'))
 
-"""
 from Data.Transkriptionen.src_code.ParserConfig import ParserConfig
 from Data.Transkriptionen.src_code.ParserPart2 import ParserPart2
 from Data.Transkriptionen.src_code.ParserXML import ParserXML
