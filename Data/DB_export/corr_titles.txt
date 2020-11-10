@@ -1,0 +1,51 @@
+1,	Abgeordneter,	Abgeordnete
+2,	Adliger,	Adel
+3,	Ältester,	Älteste
+4,	Bischof,	Bischöfe
+5,	Burger,	Burger
+6,	Bürgermeister,	Bürgermeister
+7,	Bruder,	Brüder
+8,	Christ,	Christen
+9,	Dekan,	Dekane
+10,	Evangelikaner,	Evangelikaner
+11,	Examinator,	Examinatoren
+12,	Flüchtling,	Flüchtlinge
+13,	Fürst,	Fürsten
+14,	Geistlicher,	Geistliche
+15,	Gelehrter,	Gelehrte
+16,	Gläubiger,	Gläubige
+17,	Gnädiger Herr,	Gnädige Herren
+18,	Herr,	Herren
+19,	Kirchendiener,	Kirchendiener
+20,	Kirchenleiter,	Kirchenleiter
+21,	Kirchenrat,	Kirchenräte
+22,	Kolloquent,	Kolloquenten
+23,	König,	Könige
+24,	König,	Könige
+25,	Lehrer,	Lehrer
+26,	Pastor,	Pastoren
+27,	Meier,	Meier
+28,	Pasteur,	Pasteurs
+29,	Pfarrer,	Pfarrer
+30,	Prediger,	Prediger
+31,	Predikant,	Predikanten
+32,	Prädikant,	Prädikanten
+33,	Professor,	Professoren
+34,	Propst,	Pröpste
+35,	Prädikant,	Prädikanten
+36,	Päpstlicher Gesandter,	Päpstliche Gesandte
+37,	Rat,	Räte
+38,	Ratsherr,	Ratsherren
+39,	Rechenherr,	Rechenherren
+40,	Schulherr,	Schulherren
+41,	Schulmeister,	Schulmeister
+42,	Schultheiss,	Schultheissen
+43,	Schulverordneter,	Schulverordnete
+44,	Senior,	Senioren
+45,	Syndic,	Syndics
+46,	Staatsmann,	Staatsmänner
+47,	Statthalter,	Statthalter
+48,	Verfolgter Gläubiger,	Verfolgte Gläubige
+49,	Verordneter Examinator,	Verordnete Examinatoren
+50,	Verordneter,	Verordnete
+51,	Vorsteher,	Vorsteher

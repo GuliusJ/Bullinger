@@ -4,5 +4,6 @@
 source venv/bin/activate
 export FLASK_APP=App.py
 export FLASK_ENV=development
-FLASK_DEBUG=1
+export FLASK_DEBUG=0
+
 flask run

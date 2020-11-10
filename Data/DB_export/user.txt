@@ -48,7 +48,7 @@
 48,	aipa,	insomnia705@gmail.com,	3,	6,	0,	pbkdf2:sha256:150000$ZlsmEHRO$056598757af23e0fd31606a0f6b310839c2543eefe015b40edf3a779d4be9c5d,	2020-04-01 08:54:59.789752
 49,	giubanski,	giovanni.peduto@zb.uzh.ch,	3,	24,	3,	pbkdf2:sha256:150000$L8tByBPM$74dc2d47c8f926e5b3c0bc47aced9cfa674b722840277931c93b22c194d31356,	2020-04-01 12:04:35.558625
 50,	Yael Kälin,	yael.kaelin@uzh.ch,	3,	0,	0,	pbkdf2:sha256:150000$iPfqBcqs$2e42772acf490e2172533395d469b5efffc9ca443dc304a58e464e2b0cbdca1e,	2020-04-01 13:05:47.625099
-51,	Peter Rechsteiner,	peterrechsteiner@bluewin.ch,	2,	54308,	6071,	pbkdf2:sha256:150000$NzTcrUjU$059af10d930faa1e1ac46fd037080c111332fcd0ffcf06fd6576723b10f70026,	2020-04-01 14:26:32.459146
+51,	Peter Rechsteiner,	peterrechsteiner@bluewin.ch,	2,	54503,	6071,	pbkdf2:sha256:150000$NzTcrUjU$059af10d930faa1e1ac46fd037080c111332fcd0ffcf06fd6576723b10f70026,	2020-04-01 14:26:32.459146
 52,	rumbazumba,	rumbazumba123@gmx.de,	3,	9,	1,	pbkdf2:sha256:150000$rxSfLkj7$bbde77cc75e317e5e91c65da8cb101086b37d25ce1ccd92579cdfc428b2d27e9,	2020-04-01 18:17:38.460370
 53,	Patrycja,	patrycja.pienkowska@gmail.com,	3,	259,	45,	pbkdf2:sha256:150000$5z5GsDuF$6efc9109f90c9abd9810ad159d0e5257d2707315b72245e4df6d7bdda151e389,	2020-04-01 19:17:50.472295
 54,	tobias.roth,	tobias.roth@gmx.net,	3,	0,	0,	pbkdf2:sha256:150000$U8FuTC2b$037e78012cd3b4c945e527b4cb6ee270056b5d25343cf529914c45221fa80c98,	2020-04-03 09:41:23.852051

@@ -894,12 +894,6 @@ def overview_potential_link_cards():
 @app.route('/Kartei/ohne_Angaben_zu_literatur', methods=['GET'])
 def overview_potential_literature():
     BullingerDB.track(current_user.username, '/overview_missing_literature', datetime.now())
-    x = [t[0] for t in BullingerDB.get_data_overview_literature()]
-    y = BullingerDB.get_potential_literature()
-    all = x + y
-    for i in range(10013):
-        if i not in all: print(i)
-
     return render_template(
         'overview_potential_literature.html',
         title="Literatur leer",
@@ -911,7 +905,6 @@ def overview_potential_literature():
 @app.route('/Kartei/ohne_Angaben_zu_gedruckt', methods=['GET'])
 def overview_potential_printed():
     BullingerDB.track(current_user.username, '/overview_missing_print', datetime.now())
-
     return render_template(
         'overview_potential_prints.html',
         title="Gedruckt leer",

@@ -4,6 +4,8 @@
 # Bernard Schroffenegger
 # 5th of November, 2020
 
+import operator
+
 from App.models import *
 from sqlalchemy import asc, desc, func, and_, or_, literal, union_all, tuple_, distinct
 
@@ -18,7 +20,10 @@ class DB_export():
         DB_export.write_authorization()
         lang = DB_export.write_languages()
         countries = DB_export.write_countries()
-        DB_export.write_places(countries)
+        districts = DB_export.write_districts(countries)
+        places = DB_export.write_places(countries, districts)
+        titles = DB_export.write_titles()
+        institutions = DB_export.write_institutions()
 
     @staticmethod
     def get_most_recent_only(database, relation):
@@ -98,7 +103,44 @@ class DB_export():
         return d
 
     @staticmethod
-    def write_places(country_index):
+    def write_districts(country_index):
+        districts = dict()
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_DISTRICTS, 'w') as f:
+            index = 1
+            for t in Config.DISTRICTS:
+                i = index
+                for d in t[0]:
+                    districts[d] = [index, t[1]]
+                    f.write(",\t".join([str(index), str(i), d, str(country_index[t[1][0]])]) + '\n')
+                    index += 1
+        return districts
+
+    @staticmethod
+    def write_titles():
+        # Titles(*ID, title_sg, title_pl, user, timestamp)
+        t_data = dict()
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_TITLES, 'w') as f:
+            c = 1
+            for t in Config.TITLES:
+                t_data[t[0]], t_data[t[1]] = c, c
+                f.write(str(c) + ",\t" + t[0] + ",\t" + t[1] + '\n')
+                c += 1
+        return t_data
+
+    @staticmethod
+    def write_institutions():
+        # Institutions(*ID, collective_sg, collective_pl, user, timestamp)
+        i_data = dict()
+        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_COLLECTIVE, 'w') as f:
+            c = 1
+            for t in Config.INSTITUTIONS:
+                i_data[t[0]], i_data[t[1]] = c, c
+                f.write(str(c) + ",\t" + t[0] + ",\t" + t[1] + '\n')
+                c += 1
+        return i_data
+
+    @staticmethod
+    def write_places(country_index, district_index):
         # Place(*ID, groupID, name, province, country, complex, longitude, latitude, remark, user, timestamp)
         p_list = []
         for x in Config.PLACES:
@@ -139,27 +181,12 @@ class DB_export():
             o1.c.ort.label("ort"),
             func.count(o1.c.ort).label("count"),
         ).group_by(o1.c.ort).order_by(desc(func.count(o1.c.ort)))
-        countries = []
-        for cl in Config.COUNTRIES:
-            for c in cl:
-                countries.append(c)
-        """
-        for x in dp:
-            if x.ort not in p_list:
-                if x.ort not in Config.COUNTRIES \
-                        and x.ort not in Config.COMPLEX_LOCATIONS\
-                        and x.ort not in countries:
-                    print(x.ort)
-        """
-        # Place(*ID, groupID, name, province, country, complex, remark, longitude, latitude, user, timestamp)
-        places = dict()
 
-        # instantiate a new Nominatim client
+        places = dict()
         app = Nominatim(user_agent="tutorial")
-        n = []
         with open(Config.PATH_DB_EXPORT + Config.PATH_DB_PLACES, 'w') as f:
             f.write("0,\t0,\ts.l.,\t,\t\n")
-            index = 1
+            index, p_index = 1, 1
             for p in Config.PLACES:
                 i = index
                 # print(p)
@@ -172,33 +199,30 @@ class DB_export():
                     if ret:
                         location = ret.raw
                         y = location["display_name"].split(", ")
-                        print(y[-1])
-                        if not l and not b:
-                            l = str(location["lon"])
-                            b = str(location["lat"])
-                        cc, k = country_index[y[-1]], ''
                         try:
                             int(y[-2])
                             k = y[-3]
                         except:
                             k = y[-2] if len(y)>1 else ''
-                        if y[-1] not in n: n.append(y[-1])
+                        if not l and not b and k in district_index:
+                            l = str(location["lon"])
+                            b = str(location["lat"])
                     f.write(
                         str(index)
                         + ",\t" + str(i)
                         + ",\t" + d
-                        + ",\t" + k
-                        + ",\t" + str(cc)
+                        + ",\t" + str(district_index[k][0] if k in district_index else '')
+                        + ",\t" + str(district_index[k][1] if k in district_index else '')
                         + ",\t" + ''
-                        + ",\t" + str(l)
-                        + ",\t" + str(b)
+                        + ",\t" + str(l if l else '')
+                        + ",\t" + str(b if b else '')
                         + '\n')
                     index += 1
             for c in Config.COMPLEX_LOCATIONS:
                 places[c] = index
                 f.write(
                     str(index)
-                    + ",\t" + str(i)
+                    + ",\t"
                     + ",\t"
                     + ",\t"
                     + ",\t"
@@ -209,8 +233,22 @@ class DB_export():
                     + ",\t"
                     + '\n')
                 index += 1
-        print(sorted(n))
+        # Control
+        for x in dp:
+            if x.ort not in places:
+                print("Warning:", x.ort)
+        return places
 
+    @staticmethod
+    def write_persons():
+        p_data = dict()
+        index = 1
+        """
+        for t in Config.ALIAS:
+            inner = index
+            for vn in t
+        pass
+        """
 '''
     @staticmethod
     def db_export():
@@ -227,97 +265,6 @@ class DB_export():
         # - delimiter_s[tart]: = | >= | > | ≈ (precisely | after / later | soonest /not before | approximately)
         # - delimiter_e[nd]: <= | < | ≈ (at the latest | sooner / before | approximately)
         # - verification_(s | e): erschlossen | unsicher erschlossen
-
-        # Country(*ID, name)
-        """
-        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_LANGUAGE, 'w') as f:
-            i, countries = 1, dict()
-            for c in Config.COUNTRIES:
-                f.write(str(i) + ",\t" + c + "\n")
-                countries[c] = i
-                i += 1
-        """
-
-        # Place(*ID, groupID, name, province, country, longitude, latitude, remark, user, timestamp)
-        k = DB_export.get_most_recent_only(db.session, Kartei).subquery()
-        a = DB_export.get_most_recent_only(db.session, Absender).subquery()
-        data_a = db.session.query(
-            k.c.id_brief,
-            a.c.id_person,
-            Person.ort.label("ort"),
-            Person.anwender.label("anwender"),
-            Person.zeit.label("zeit")
-        ).join(a, k.c.id_brief == a.c.id_brief)\
-         .join(Person, a.c.id_person == Person.id)
-        e = DB_export.get_most_recent_only(db.session, Empfaenger).subquery()
-        data_b = db.session.query(
-            k.c.id_brief,
-            e.c.id_person,
-            Person.ort.label("ort"),
-            Person.anwender.label("anwender"),
-            Person.zeit.label("zeit")
-        ).join(e, k.c.id_brief == e.c.id_brief)\
-         .join(Person, e.c.id_person == Person.id)
-        data = union_all(data_a, data_b).alias("all")
-        o1 = db.session.query(data.c.ort.label("ort"))
-        o2 = db.session.query(Ortschaften.ort.label("ort")).filter(Ortschaften.status == 1)
-        data = union_all(o1, o2).alias("orte")
-        dp = db.session.query(
-            data.c.ort,
-            func.count(data.c.ort).label("count"),
-            Ortschaften.laenge.label("l"),
-            Ortschaften.breite.label("b")
-        ).group_by(data.c.ort).outerjoin(Ortschaften, Ortschaften.ort == data.c.ort).order_by(desc(func.count(data.c.ort)))
-        places = dict()
-        with open(Config.PATH_DB_EXPORT+Config.PATH_DB_PLACES, 'w') as f:
-            f.write("0,\t0,\ts.l.,\t,\t\n")
-            index = 1
-            for d in dp:
-                if d.ort and d.ort.strip():
-                    places[d.ort] = index
-                    f.write(
-                        str(index)
-                        + ",\t" + str(index)
-                        + ",\t" + (d.ort if d.ort not in Config.COUNTRIES else '')
-                        + ",\t"
-                        + ",\t" + (d.ort if d.ort in Config.COUNTRIES else '')
-                        + ",\t" + (str(d.l) if d.l else "")
-                        + ",\t" + (str(d.b) if d.b else "")
-                        + '\n')
-                    index += 1
-
-        # Titles(*ID, title_sg, title_pl, user, timestamp)
-        titles = []
-        t_data = dict()
-        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_TITLES, 'w') as f:
-            c = 1
-            for t in Config.TITLES:
-                t_data[t[0]], t_data[t[1]] = c, c
-                f.write(str(c) + ",\t" + t[0] + ",\t" + t[1] + '\n')
-                titles.append(t[0]); titles.append(t[1])
-                c += 1
-
-        # Institutions(*ID, collective_sg, collective_pl, user, timestamp)
-        institutions = []
-        i_data = dict()
-        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_COLLECTIVE, 'w') as f:
-            c = 1
-            for t in Config.INSTITUTIONS:
-                i_data[t[0]], i_data[t[1]] = c, c
-                f.write(str(c) + ",\t" + t[0] + ",\t" + t[1] + '\n')
-                institutions.append(t[0]); institutions.append(t[1])
-                c += 1
-
-        # Complex(*ID, complex_location, user, timestamp)
-        complex = []
-        c_data = dict()
-        with open(Config.PATH_DB_EXPORT + Config.PATH_DB_COMPLEX_LOCATIONS, 'w') as f:
-            c = 1
-            for t in Config.COMPLEX_LOCATIONS:
-                c_data[t] = c
-                f.write(str(c) + ",\t" + t + '\n')
-                complex.append(t)
-                c += 1
 
         # Person(*ID, alias_groupID, name, forename,
         #   **ID_Place_birth, **ID_Date_birth,
