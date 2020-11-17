@@ -15,7 +15,7 @@ from flask_login import current_user, login_user, logout_user, login_required
 from sqlalchemy import func, union_all, and_, or_
 
 from Tools.BullingerDB import BullingerDB
-from Tools.BD_export import DB_export
+# from Tools.BD_export import DB_export
 from Tools.Plots import BullingerPlots
 
 import requests

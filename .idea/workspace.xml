@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2cb28e-bb45-42c9-b203-59c8af68dfbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Bibliander.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Bibliander_Theodor.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Blarer.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Blarer_Thomas.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Fries.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Fries_Johannes.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Grynaeus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Grynaeus_Simon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Gwalter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Gwalther_Rudolf.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Kilchmeyer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Kilchmeyer_Jodocus.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Myconius.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Myconius_Oswald.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/corr_institutions.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/corr_titles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/languages.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/place.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/place_countries.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/place_district.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/user.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/user_group.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/db_download.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/db_download.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/server_update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/server_update.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/BD_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/BD_export.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/BullingerDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/BullingerDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="1162" column="6" selection-start-line="1162" selection-start-column="6" selection-end-line="1162" selection-end-column="6" />
-              <folding>
-                <element signature="e#172#206#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Scripts/server_update.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -190,8 +156,8 @@
         <option value="$PROJECT_DIR$/Data/DB_export/file_links.txt" />
         <option value="$PROJECT_DIR$/Tools/BD_export.py" />
         <option value="$PROJECT_DIR$/config.py" />
-        <option value="$PROJECT_DIR$/App/routes.py" />
         <option value="$PROJECT_DIR$/Scripts/server_update.sh" />
+        <option value="$PROJECT_DIR$/App/routes.py" />
       </list>
     </option>
   </component>
@@ -356,9 +322,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.2609489" side_tool="true" weight="0.15913372" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.835034" visible="true" weight="0.25922593" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.835034" visible="true" weight="0.25922593" />
       <window_info id="Structure" order="2" sideWeight="0.16496599" side_tool="true" weight="0.28458497" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.26466575" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.12960437" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5018248" side_tool="true" weight="0.1893733" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49913943" weight="0.32833788" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -668,16 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/routes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="1162" column="6" selection-start-line="1162" selection-start-column="6" selection-end-line="1162" selection-end-column="6" />
-          <folding>
-            <element signature="e#172#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/db_download.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -689,6 +645,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
         </state>
       </provider>
     </entry>
