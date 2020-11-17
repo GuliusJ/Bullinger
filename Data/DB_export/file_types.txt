@@ -1,0 +1,21 @@
+1,	1,	Neue Zeitung
+2,	2,	Begleitbrief
+3,	2,	Beibrief
+4,	4,	Brief
+5,	5,	Briefbeilage
+6,	5,	Beilage
+7,	7,	Hinweis
+8,	8,	keine Karteikarte
+9,	8,	Keine Karteikarte
+10,	10,	Postscriptum
+11,	10,	Nachschrift
+12,	10,	PS
+13,	10,	P.S.
+14,	10,	Nachtrag
+15,	15,	Rede
+16,	15,	Widmungsvorrede
+17,	17,	Rückseite
+18,	18,	Testament
+19,	19,	Verweis
+20,	19,	Verweiskarte
+21,	21,	Widmung

@@ -2967,7 +2967,6 @@ class BullingerDB:
         l = re.sub(r'M\'schrift', 'Maschinenschrift', l, re.S)
         l = re.sub(r'masch[\'\s]*schriftl\.', 'Maschinenschrift', l, re.S)
         l = re.sub(r'\s+nr\s+', ' Nr. ', l, re.S)
-        l = re.sub(r'\snr\.', 'Nr.', l, re.S)
         l = re.sub(r'\(nr\.', '(Nr.', l, re.S)
         l = re.sub(r'Graubünden\s*-?\s*BW', 'Graubünden BW', l, re.S)
         l = re.sub(r'Blarer\s*-?\s*BW', 'Blarer BW', l, re.S)

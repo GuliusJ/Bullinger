@@ -2,7 +2,7 @@
 #update_server.sh
 
 source venv/bin/activate
-rm App/static/images/plots/*.png
+rm /home/ubuntu/Bullinger/App/static/images/plots/*.png
 
 git pull || git reset --hard origin/master
 # git pull

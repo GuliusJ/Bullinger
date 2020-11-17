@@ -1,20 +1,21 @@
-1,	das Augsburger Bekenntnis,	die Augsburger Bekenntnisse
-2,	Belgisch-Deutsche Fremdengemeinde,	Belgisch-Deutsche Fremdengemeinden
-3,	Evangelische Gemeinde,	Evagelische Gemeinden
-4,	Flüchtlingsgemeinde,	Flüchtlingsgemeinden
-5,	Fremdengemeinde,	Fremdengemeinden
-6,	Freiamt,	Freiämter
-7,	Fremdkirche,	Fremdkirchen
-8,	Fremdenkirche,	Fremdenkirchen
-9,	Gemeinde,	Gemeinden
-10,	Kapitel,	Kapitel
-11,	Kapitel des Grossmünsterkapitels,	Kapitel der Grossmünster
-12,	Kapitel des Grossmünsterstifts,	Kapitel der Grossmünsterstifte
-13,	Kirche,	Kirchen
-14,	La Compagnie des Pasteurs,	Les Compagnies des Pasteures
-15,	Neue Zeitung,	Neue Zeitungen
-16,	Polnisch-Litauischer Reichstag (Sejm),	Polnisch-Litauische Reichstage (Sejm)
-17,	Synode,	Synoden
-18,	Ratskomission,	Ratskomissionen
-19,	Reformierte Kirche,	Reformierte Kirchen
-20,	Volk,	Völker
+1,	s.n.,	s.n.
+2,	das Augsburger Bekenntnis,	die Augsburger Bekenntnisse
+3,	Belgisch-Deutsche Fremdengemeinde,	Belgisch-Deutsche Fremdengemeinden
+4,	Evangelische Gemeinde,	Evagelische Gemeinden
+5,	Flüchtlingsgemeinde,	Flüchtlingsgemeinden
+6,	Fremdengemeinde,	Fremdengemeinden
+7,	Freiamt,	Freiämter
+8,	Fremdkirche,	Fremdkirchen
+9,	Fremdenkirche,	Fremdenkirchen
+10,	Gemeinde,	Gemeinden
+11,	Kapitel,	Kapitel
+12,	Kapitel des Grossmünsterkapitels,	Kapitel der Grossmünster
+13,	Kapitel des Grossmünsterstifts,	Kapitel der Grossmünsterstifte
+14,	Kirche,	Kirchen
+15,	La Compagnie des Pasteurs,	Les Compagnies des Pasteures
+16,	Neue Zeitung,	Neue Zeitungen
+17,	Polnisch-Litauischer Reichstag (Sejm),	Polnisch-Litauische Reichstage (Sejm)
+18,	Synode,	Synoden
+19,	Ratskomission,	Ratskomissionen
+20,	Reformierte Kirche,	Reformierte Kirchen
+21,	Volk,	Völker

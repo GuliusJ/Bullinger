@@ -1,0 +1,86 @@
+0,	0,	s.l.
+1,	1,	Albanien
+2,	1,	Albania
+3,	1,	Shqipëria
+4,	4,	Belgien
+5,	4,	Belgium
+6,	4,	België
+7,	4,	Belgique
+8,	4,	Belgien
+9,	4,	België - Belgique - Belgien
+10,	10,	Brasilien
+11,	10,	Brasil
+12,	12,	Bulgarien
+13,	12,	Bulgaria
+14,	12,	Бългaрия
+15,	15,	China
+16,	15,	China 中国
+17,	15,	中国
+18,	18,	Deutschland
+19,	18,	Teutschland
+20,	18,	Germany
+21,	21,	Dänemark
+22,	21,	Denmark
+23,	21,	Danmark
+24,	24,	Elfenbeinküste
+25,	24,	Côte d'Ivoire
+26,	26,	England
+27,	26,	United Kingdom
+28,	28,	Frankreich
+29,	28,	France
+30,	30,	Italien
+31,	30,	Italy
+32,	30,	Italia
+33,	33,	Indien
+34,	33,	India
+35,	35,	Kroatien
+36,	35,	Croatia
+37,	37,	Litauen
+38,	37,	Lithuania
+39,	37,	Lietuva
+40,	40,	Maleisien
+41,	40,	Malaysia
+42,	42,	Niederlande
+43,	42,	Nederland
+44,	42,	Nederland
+45,	42,	Nederlân
+46,	46,	Österreich
+47,	46,	Austria
+48,	48,	Polen
+49,	48,	Poland
+50,	48,	Polska
+51,	51,	Rumänien
+52,	51,	Romania
+53,	51,	Rumania
+54,	51,	România
+55,	55,	Russland
+56,	55,	Russia
+57,	55,	Россия
+58,	58,	Schweiz
+59,	58,	Switzerland
+60,	58,	Suisse
+61,	58,	Svizzera
+62,	58,	Svizra
+63,	58,	Schweiz/Suisse/Svizzera/Svizra
+64,	64,	Siebenbürgen
+65,	65,	Slovenien
+66,	65,	Slovenia
+67,	65,	Slovensko
+68,	68,	Slowakei
+69,	68,	Slovakia
+70,	70,	Spanien
+71,	70,	Spain
+72,	70,	España
+73,	73,	Tschechien
+74,	73,	Czechia
+75,	73,	Czech Republic
+76,	73,	Česká republika
+77,	77,	Ungarn
+78,	77,	Hungary
+79,	77,	Magyarország
+80,	80,	USA
+81,	80,	United States of America
+82,	82,	Weißrussland
+83,	82,	Weissrussland
+84,	82,	Belarus
+85,	82,	Беларусь

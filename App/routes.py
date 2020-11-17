@@ -12,10 +12,10 @@ from App.forms import *
 from config import Config
 from flask import render_template, flash, redirect, url_for, make_response, jsonify, request, send_file
 from flask_login import current_user, login_user, logout_user, login_required
-from sqlalchemy import func, union_all, and_
+from sqlalchemy import func, union_all, and_, or_
 
 from Tools.BullingerDB import BullingerDB
-# from Tools.BD_export import DB_export
+from Tools.BD_export import DB_export
 from Tools.Plots import BullingerPlots
 
 import requests
@@ -1186,6 +1186,76 @@ def db_add_link_days():
     return redirect(url_for('index'))
 
 """
+@app.route('/api/print_wiki_data', methods=['GET'])
+def db_print_wiki_data():
+    # Names/Forenames
+    k = DB_export.get_most_recent_only(db.session, Kartei).subquery()
+    a = DB_export.get_most_recent_only(db.session, Absender).subquery()
+    e = DB_export.get_most_recent_only(db.session, Empfaenger).subquery()
+    data_a = db.session.query(
+        k.c.id_brief,
+        a.c.id_person,
+        Person.name.label("name"),
+        Person.vorname.label("vorname"),
+        Person.wiki_url.label("urlw"),
+        Person.photo.label("urlp"),
+        # Person.ort.label("ort"),
+        Person.anwender.label("user"),
+        Person.zeit.label("zeit")
+    ).join(a, k.c.id_brief == a.c.id_brief) \
+        .join(Person, a.c.id_person == Person.id)
+    data_b = db.session.query(
+        k.c.id_brief,
+        e.c.id_person,
+        Person.name.label("name"),
+        Person.vorname.label("vorname"),
+        Person.wiki_url.label("urlw"),
+        Person.photo.label("urlp"),
+        # Person.ort.label("ort"),
+        Person.anwender.label("user"),
+        Person.zeit.label("zeit")
+    ).join(e, k.c.id_brief == e.c.id_brief) \
+        .join(Person, e.c.id_person == Person.id)
+    data = union_all(data_a, data_b).alias("all")
+    data = db.session.query(
+        data.c.name.label("name"),
+        data.c.vorname.label("vorname"),
+        # data.c.ort.label("ort"),
+        data.c.urlw.label("urlw"),
+        data.c.urlp.label("urlp"),
+        data.c.user.label("user"),
+        data.c.zeit.label("zeit")
+    ).group_by(data.c.name, data.c.vorname, data.c.urlw, data.c.urlp) \
+     .filter(or_(data.c.urlw != None, data.c.urlp != None))
+
+    for d in data:
+        print(d.name, d.vorname)
+        print(d.urlw)
+        print(d.urlp)
+        print()
+
+    return redirect(url_for('index'))
+
+
+@app.route('/api/update', methods=['GET'])
+def db_correction():
+    # with open(Config.PATH_DB_EXPORT+"alt/visites.txt", "w") as f:
+    #     for r in db.session.query(Tracker):
+    #         f.write(",\t".join([r.username, r.url, r.time])+"\n")
+    # Tracker.query.delete()
+    # db.session.commit()
+
+    for r in [Autograph, Kopie, Kopie]:
+        q = BullingerDB.get_most_recent_only(db.session, r).filter(r.standort == "Zürich ZB")
+        for t in q:
+            if t.signatur:
+                bl = re.match(r'^([^\d]+)([\d\s]+)(,\d+.*)', t.signatur, re.S)
+                if bl:
+                    t.signatur = bl.group(1).strip()+" "+re.sub(r'\s+', '', bl.group(2)) + bl.group(3)
+                    print(t.signatur)
+    db.session.commit()
+    return redirect(url_for('index'))
+    
 @app.route('/api/analysis', methods=['GET'])
 def analysis():
     with open("tote_CH.txt") as f:

@@ -4,10 +4,23 @@
     <list default="true" id="6d2cb28e-bb45-42c9-b203-59c8af68dfbb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/place.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DB_export/place.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/place_countries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DB_export/place_countries.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DB_export/user.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DB_export/user.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/localhost_run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/localhost_run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Bibliander.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Bibliander_Theodor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Blarer.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Blarer_Thomas.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Fries.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Fries_Johannes.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Grynaeus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Grynaeus_Simon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Gwalter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Gwalther_Rudolf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Kilchmeyer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Kilchmeyer_Jodocus.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Myconius.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/images/Portraits_Corr/Myconius_Oswald.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/corr_institutions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/corr_titles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/languages.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/place.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/place_countries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/place_district.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/user.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DB_export/user_group.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/db_download.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/db_download.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/server_update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/server_update.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tools/BD_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/BD_export.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tools/BullingerDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/BullingerDB.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
@@ -27,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="900" column="44" lean-forward="true" selection-start-line="900" selection-start-column="44" selection-end-line="900" selection-end-column="44" />
+            <state relative-caret-position="66">
+              <caret line="1162" column="6" selection-start-line="1162" selection-start-column="6" selection-end-line="1162" selection-end-column="6" />
               <folding>
                 <element signature="e#172#206#0" expanded="true" />
               </folding>
@@ -36,13 +49,34 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scripts/server_update.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tools/BD_export.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1695">
-              <caret line="113" column="90" selection-start-line="113" selection-start-column="90" selection-end-line="113" selection-end-column="90" />
+            <state relative-caret-position="171">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding>
-                <element signature="e#116#131#0" expanded="true" />
+                <element signature="e#116#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tools/BullingerDB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="2969" column="8" selection-start-line="2969" selection-start-column="8" selection-end-line="2969" selection-end-column="8" />
+              <folding>
+                <element signature="e#119#159#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,20 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3614">
-              <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tools/BullingerDB.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="2628" selection-start-line="2628" selection-end-line="2628" />
-              <folding>
-                <element signature="e#119#159#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -81,36 +103,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Brest</find>
-      <find>Beri</find>
-      <find>verscho</find>
-      <find>berg</find>
-      <find>Moldau</find>
-      <find>COUNTRI</find>
-      <find>Bern</find>
-      <find>print</find>
-      <find>Germain</find>
-      <find>PATH_DB_COUNTRIES</find>
-      <find>Pornaxi</find>
-      <find>Bericht</find>
-      <find>send_file</find>
-      <find>get_most_re</find>
-      <find>get_pri</find>
-      <find>BullingerData</find>
-      <find>print(</find>
-      <find>cross</find>
-      <find>Kartei/Gedr</find>
-      <find>Projektkoo</find>
-      <find>potential_pr</find>
-      <find>\t9,</find>
-      <find>\t10,</find>
-      <find>BD_ex</find>
-      <find>Rum</find>
-      <find>Tsche</find>
-      <find>Dänemark</find>
-      <find>\t11,</find>
-      <find>COUNTRIES</find>
+      <find>Basel-L</find>
+      <find>Warning 1</find>
+      <find>get_language</find>
+      <find>get_lang</find>
       <find>filter_by</find>
+      <find>write_lan</find>
+      <find>War</find>
+      <find>(West-)Berlin, Staats</find>
+      <find>test</find>
+      <find>get_la</find>
+      <find>Wiesloch</find>
+      <find>FILES</find>
+      <find>TYPE</find>
+      <find>540</find>
+      <find>?</find>
+      <find>21,</find>
+      <find>22,</find>
+      <find>20,</find>
+      <find>\t1,</find>
+      <find>\t22,</find>
+      <find>\t20,</find>
+      <find>\t21,</find>
+      <find>FILE_TYPES</find>
+      <find>PATH_DB_FILES</find>
+      <find>users</find>
+      <find>Could</find>
+      <find>Hospinianus</find>
+      <find>Kartei</find>
+      <find>Tracker</find>
+      <find>potential</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,11 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/App/templates/overview_copy_x.html" />
-        <option value="$PROJECT_DIR$/App/templates/account_register.html" />
-        <option value="$PROJECT_DIR$/App/templates/overview_general_cards.html" />
-        <option value="$PROJECT_DIR$/App/templates/overview_general_history.html" />
-        <option value="$PROJECT_DIR$/App/templates/overview_languages.html" />
         <option value="$PROJECT_DIR$/App/templates/overview_person.html" />
         <option value="$PROJECT_DIR$/App/templates/overview_personal_history.html" />
         <option value="$PROJECT_DIR$/App/templates/overview_place.html" />
@@ -146,7 +163,6 @@
         <option value="$PROJECT_DIR$/App/templates/overview_potential_link_cards.html" />
         <option value="$PROJECT_DIR$/Data/DB_export/print.txt" />
         <option value="$PROJECT_DIR$/Data/DB_export/literature.txt" />
-        <option value="$PROJECT_DIR$/Scripts/db_download.sh" />
         <option value="$PROJECT_DIR$/Doku/Projektkoordination/Urquellen.txt" />
         <option value="$PROJECT_DIR$/Data/DB_export/professions.txt" />
         <option value="$PROJECT_DIR$/Doku/Projektkoordination/DB-schema-neu.txt" />
@@ -166,18 +182,24 @@
         <option value="$PROJECT_DIR$/App/templates/overview_potential_literature.html" />
         <option value="$PROJECT_DIR$/App/templates/overview_potential_prints.html" />
         <option value="$PROJECT_DIR$/App/templates/index.html" />
-        <option value="$PROJECT_DIR$/config.py" />
-        <option value="$PROJECT_DIR$/Tools/BD_export.py" />
-        <option value="$PROJECT_DIR$/App/routes.py" />
+        <option value="$PROJECT_DIR$/Data/DB_export/test" />
         <option value="$PROJECT_DIR$/Tools/BullingerDB.py" />
+        <option value="$PROJECT_DIR$/Scripts/db_download.sh" />
+        <option value="$PROJECT_DIR$/Data/DB_export/alt/names.txt" />
+        <option value="$PROJECT_DIR$/Data/DB_export/file_types.txt" />
+        <option value="$PROJECT_DIR$/Data/DB_export/file_links.txt" />
+        <option value="$PROJECT_DIR$/Tools/BD_export.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/App/routes.py" />
+        <option value="$PROJECT_DIR$/Scripts/server_update.sh" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
+    <option name="x" value="308" />
     <option name="y" value="23" />
-    <option name="width" value="1357" />
-    <option name="height" value="826" />
+    <option name="width" value="1132" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -208,6 +230,13 @@
             <path>
               <item name="Bullingerprojekt" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bullingerprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bullingerprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bullingerprojekt" type="462c0819:PsiDirectoryNode" />
               <item name="Data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -220,6 +249,17 @@
               <item name="Bullingerprojekt" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bullingerprojekt" type="462c0819:PsiDirectoryNode" />
               <item name="Doku" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bullingerprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bullingerprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="Doku" type="462c0819:PsiDirectoryNode" />
+              <item name="Projektkoordination" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bullingerprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bullingerprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bullingerprojekt" type="b2602c69:ProjectViewProjectNode" />
@@ -312,12 +352,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="23" width="1357" height="826" extended-state="0" />
+    <frame x="308" y="23" width="1132" height="825" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.2609489" side_tool="true" weight="0.15913372" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.83992803" visible="true" weight="0.26497006" />
-      <window_info id="Structure" order="2" sideWeight="0.16007194" side_tool="true" visible="true" weight="0.26497006" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.24250682" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.835034" visible="true" weight="0.25922593" />
+      <window_info id="Structure" order="2" sideWeight="0.16496599" side_tool="true" weight="0.28458497" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.26466575" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5018248" side_tool="true" weight="0.1893733" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49913943" weight="0.32833788" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.49741825" weight="0.35422343" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.497979" weight="0.123978205" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49956483" weight="0.31062672" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.2506812" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.4978242" weight="0.4402985" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" sideWeight="0.2609489" side_tool="true" weight="0.15913372" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.835034" visible="true" weight="0.28458497" />
+      <window_info id="Structure" order="2" sideWeight="0.16496599" side_tool="true" visible="true" weight="0.28458497" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49817517" visible="true" weight="0.19781719" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5018248" side_tool="true" weight="0.1893733" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49913943" weight="0.32833788" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -331,193 +391,12 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/App/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="173" column="14" selection-start-line="173" selection-start-column="14" selection-end-line="173" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/professions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/doc_types.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/documents.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserPart2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5205" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserPart3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserPart1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3060" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserXML.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Transkriptionen/src_code/ParserConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2649" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/place_complex.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Transkriptionen/Beobachtungen.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/add_titles.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/add_persons.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="6782" column="4" selection-start-line="6782" selection-start-column="4" selection-end-line="6782" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doku/Projektkoordination/Urquellen.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="120" selection-start-line="24" selection-start-column="120" selection-end-line="24" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/places.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="463" column="20" lean-forward="true" selection-start-line="463" selection-start-column="20" selection-end-line="463" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Diverses/ortschaften_out2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="466" column="9" selection-start-line="466" selection-start-column="9" selection-end-line="466" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Diverses/Ortschaften_out.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2610">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Diverses/dict_ortschaften.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3585">
-          <caret line="281" column="6" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Diverses/Personennamen.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Dictionaries/personen.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Dictionaries/ortschaften.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="479" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Dictionaries/sprachen.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/corr_persons.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27525">
-          <caret line="1835" selection-start-line="1835" selection-end-line="1835" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Diverses/Personennamen_out.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doku/Projektkoordination/DB-schema-neu.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/overview_potential_link_cards.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/overview_person.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/overview_persons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/XMLAnalyzer.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/OCR1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/BullingerData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="444" column="18" selection-start-line="444" selection-start-column="18" selection-end-line="444" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/overview_printed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/overview_places.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/templates/file_inner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
@@ -593,6 +472,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/corr_titles.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/place_district.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/place_countries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/add_titles.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/static/images/Portraits_Corr/Johann_Conrad_Ulmer.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/static/images/Portraits_Corr/Blarer_Thomas.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/static/images/Portraits_Corr/src">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/static/images/Portraits/IMG_1951.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/static/images/Portraits/IMG_1952.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/static/images/Portraits_Corr/Grynaeus_Simon.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/add_institutions.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/add_persons.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="310" column="4" selection-start-line="310" selection-start-column="4" selection-end-line="310" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/corr_persons.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27525">
+          <caret line="1835" selection-start-line="1835" selection-end-line="1835" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data/DB_export/corr_institutions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -600,63 +537,158 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/corr_titles.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Doku/Projektkoordination/DB-schema-neu.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/DB_export/place.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239" />
+        <state relative-caret-position="44">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/DB_export/languages.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/place_district.txt">
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/loc_complex.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/user_group.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/sentences.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-711" />
+        <state relative-caret-position="-133244" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3614">
-          <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/page_views.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-5840">
+          <caret line="4080" column="13" lean-forward="true" selection-start-line="4080" selection-start-column="13" selection-end-line="4080" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/DB_export/place_countries.txt">
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/user.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/page_mode.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/notes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/loc_place.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="-7919" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/loc_countries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/loc_district.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/doc_language.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/doc_archives.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/file_links">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/admin_page_modes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/admin_languages.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/dates.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/file_types.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/file_links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="1089" column="4" lean-forward="true" selection-start-line="1089" selection-start-column="4" selection-end-line="1089" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DB_export/alt/names.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools/BullingerDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="2969" column="8" selection-start-line="2969" selection-start-column="8" selection-end-line="2969" selection-end-column="8" />
+          <folding>
+            <element signature="e#119#159#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tools/BD_export.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="113" column="90" selection-start-line="113" selection-start-column="90" selection-end-line="113" selection-end-column="90" />
+        <state relative-caret-position="171">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
           <folding>
-            <element signature="e#116#131#0" expanded="true" />
+            <element signature="e#116#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="900" column="44" lean-forward="true" selection-start-line="900" selection-start-column="44" selection-end-line="900" selection-end-column="44" />
+        <state relative-caret-position="66">
+          <caret line="1162" column="6" selection-start-line="1162" selection-start-column="6" selection-end-line="1162" selection-end-column="6" />
           <folding>
             <element signature="e#172#206#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/BullingerDB.py">
+    <entry file="file://$PROJECT_DIR$/Scripts/db_download.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="2628" selection-start-line="2628" selection-end-line="2628" />
-          <folding>
-            <element signature="e#119#159#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/server_update.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
