@@ -139,7 +139,7 @@ pdf2image==1.10.0
 pep8==1.7.1
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==8.1.1
 pkginfo==1.4.2
 plotly==4.3.0
 pluggy==0.8.0
